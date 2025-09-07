@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757252231639,
+  "endTime": 1757254843541,
   "band_list": [
     {
       "raw_hot": 2949615,
@@ -59,6 +59,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1408363,
+      "num": 1408363,
+      "word": "没人通知金晨这是红毯吗",
+      "onboard_time": 1757248042,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1374157,
+      "num": 1374157,
+      "word": "AG夏决冠军",
+      "onboard_time": 1757252362,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1370121,
       "num": 680246,
       "word": "长期吃米vs长期吃面",
@@ -73,6 +89,14 @@
       "onboard_time": 1757234901,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1348367,
+      "num": 379282,
+      "word": "黄杨钿甜中戏迎新晚会表演",
+      "onboard_time": 1757251703,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1324008,
@@ -203,8 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 804232,
-      "num": 804232,
+      "raw_hot": 804355,
+      "num": 804355,
       "word": "深圳停课",
       "onboard_time": 1757248882,
       "rank": 26,
@@ -257,14 +281,6 @@
       "onboard_time": 1757217261,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 642099,
-      "num": 642099,
-      "word": "没人通知金晨这是红毯吗",
-      "onboard_time": 1757248042,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 639198,
@@ -507,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398451,
+      "num": 398451,
+      "word": "大帅FMVP",
+      "onboard_time": 1757252962,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 385497,
       "num": 385497,
       "word": "美国出动10架F35",
@@ -585,6 +609,14 @@
       "onboard_time": 1757227102,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339456,
+      "num": 339456,
+      "word": "iG战胜EDG",
+      "onboard_time": 1757253802,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 338304,
@@ -683,6 +715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297811,
+      "num": 297811,
+      "word": "沈佳润今天是美美sunday",
+      "onboard_time": 1757251764,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295757,
       "num": 295757,
       "word": "台风塔巴将登陆广东沿海",
@@ -700,11 +740,19 @@
     },
     {
       "raw_hot": 294466,
-      "num": 294466,
+      "num": 381476,
       "word": "鹿晗喊陈赫喊破音了",
       "onboard_time": 1757251463,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293536,
+      "num": 186722,
+      "word": "祝绪丹下午是妹妹晚上就变妈妈了",
+      "onboard_time": 1757252663,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 286435,
@@ -763,12 +811,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 244467,
-      "num": 244467,
-      "word": "黄杨钿甜中戏迎新晚会表演",
-      "onboard_time": 1757251703,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 244080,
+      "num": 244080,
+      "word": "邓超陈赫鹿晗演唱会同台",
+      "onboard_time": 1757252482,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 236495,
@@ -777,6 +825,22 @@
       "onboard_time": 1757216002,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 234476,
+      "num": 185857,
+      "word": "王力宏说法拉利老了还是法拉利",
+      "onboard_time": 1757254042,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 231559,
+      "num": 231559,
+      "word": "祝绪丹赫本风",
+      "onboard_time": 1757253504,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 229566,
@@ -844,7 +908,7 @@
     },
     {
       "raw_hot": 211787,
-      "num": 1088402,
+      "num": 1429310,
       "word": "今晚邀你一起看红月",
       "onboard_time": 1757226023,
       "rank": 43,
@@ -915,6 +979,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 194432,
+      "num": 185534,
+      "word": "乘客恐飞服用安眠药被赶下飞机",
+      "onboard_time": 1757253682,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193073,
       "num": 193073,
       "word": "红发完全是鹿晗的统治区",
@@ -955,6 +1027,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187023,
+      "num": 187023,
+      "word": "李芊语中戏迎新晚会表演",
+      "onboard_time": 1757253923,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184793,
+      "num": 184793,
+      "word": "辛芷蕾影史留名",
+      "onboard_time": 1757249002,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182356,
       "num": 182356,
       "word": "袁隆平诞辰95年",
@@ -971,12 +1059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181062,
+      "num": 181062,
+      "word": "澳门冠军赛",
+      "onboard_time": 1757254404,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179941,
       "num": 170078,
       "word": "亲密关系中隐藏的情绪暴力",
       "onboard_time": 1757213600,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179909,
+      "num": 179909,
+      "word": "路人把李兰迪经纪人当成明星",
+      "onboard_time": 1757254282,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 179298,
@@ -995,12 +1099,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177087,
+      "num": 171572,
+      "word": "许嵩冯禧相差14岁",
+      "onboard_time": 1757254702,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176658,
       "num": 176658,
       "word": "萨巴伦卡大满贯第4冠",
       "onboard_time": 1757200218,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176608,
+      "num": 379331,
+      "word": "广东多地已发布停课通知",
+      "onboard_time": 1757253923,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175706,
@@ -1024,6 +1144,14 @@
       "word": "伞兵出发美国",
       "onboard_time": 1757237241,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 172073,
+      "num": 172073,
+      "word": "王者荣耀",
+      "onboard_time": 1757253622,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -1057,14 +1185,6 @@
       "onboard_time": 1757204060,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 171214,
-      "num": 171214,
-      "word": "沈佳润今天是美美sunday",
-      "onboard_time": 1757251764,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 169426,
@@ -1203,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157069,
+      "num": 181199,
+      "word": "被花少7全员感动到了",
+      "onboard_time": 1757252962,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156461,
       "num": 156461,
       "word": "河南欢迎短信",
@@ -1307,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150943,
+      "num": 150943,
+      "word": "大帅峡谷最聪明的辅助",
+      "onboard_time": 1757254224,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150712,
       "num": 150712,
       "word": "覃予萱0比4桥本帆乃香",
@@ -1323,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147469,
+      "num": 147469,
+      "word": "在中国这个东西是用来占座的",
+      "onboard_time": 1757251882,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146998,
       "num": 137307,
       "word": "苏超盐城2比1苏州",
@@ -1337,6 +1481,14 @@
       "onboard_time": 1757247803,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146418,
+      "num": 146418,
+      "word": "刘国正说王楚钦实力摆在那",
+      "onboard_time": 1757254462,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 146410,
@@ -1465,6 +1617,14 @@
       "onboard_time": 1757218943,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138312,
+      "num": 138312,
+      "word": "美国抓捕300余名韩国工程师",
+      "onboard_time": 1757252063,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138135,
@@ -1651,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130296,
+      "num": 130296,
+      "word": "男子55万买房2年后才发现是凶宅",
+      "onboard_time": 1757254584,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129733,
       "num": 129733,
       "word": "终于知道阅兵战士每天都在吃啥了",
@@ -1673,14 +1841,6 @@
       "onboard_time": 1757169144,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128939,
-      "num": 128939,
-      "word": "辛芷蕾影史留名",
-      "onboard_time": 1757249002,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 128279,
@@ -1811,6 +1971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124131,
+      "num": 124131,
+      "word": "宋轶这段演爽了",
+      "onboard_time": 1757254763,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123131,
       "num": 112087,
       "word": "李昀锐 我那ys白月光",
@@ -1859,6 +2027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120144,
+      "num": 120144,
+      "word": "意大利女排vs土耳其女排",
+      "onboard_time": 1757253444,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119962,
       "num": 119962,
       "word": "为什么现在结节的人越来越多",
@@ -1883,6 +2059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118785,
+      "num": 118785,
+      "word": "蔡文静穿着青花瓷走红毯",
+      "onboard_time": 1757252063,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118757,
       "num": 118757,
       "word": "RW季后赛再下一鸡",
@@ -1905,14 +2089,6 @@
       "onboard_time": 1757245761,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118382,
-      "num": 118382,
-      "word": "蔡文静穿着青花瓷走红毯",
-      "onboard_time": 1757252063,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 118371,
@@ -2008,6 +2184,14 @@
       "word": "苏超泰州vs淮安",
       "onboard_time": 1757251163,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114789,
+      "num": 114789,
+      "word": "2025F1意大利大奖赛",
+      "onboard_time": 1757254824,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2193,14 +2377,6 @@
       "onboard_time": 1757225362,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107107,
-      "num": 107107,
-      "word": "美国抓捕300余名韩国工程师",
-      "onboard_time": 1757252063,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107054,
@@ -2811,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75981,
+      "num": 221520,
+      "word": "地铁 孕妇车厢",
+      "onboard_time": 1757254462,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75968,
       "num": 82035,
       "word": "湿气一旦排出减肥是很快的",
@@ -2987,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49554,
+      "num": 146716,
+      "word": "江祖平再发文回应自曝遭性侵",
+      "onboard_time": 1757254643,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49190,
       "num": 81993,
       "word": "一路繁花2",
@@ -3089,14 +3281,6 @@
       "onboard_time": 1757160443,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 32868,
-      "num": 119636,
-      "word": "在中国这个东西是用来占座的",
-      "onboard_time": 1757251882,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 31292,
