@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/08 00:42:01
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/08 01:19:50
 </p>
 </blockquote>
 <p>
@@ -3681,6 +3681,12 @@ iG战胜EDG（热度：339456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%A5%E5%96%9C%E4%B8%8D%E6%8A%A5%E5%BF%A7%23" target="weibo">
+鹿晗报喜不报忧（热度：338923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E5%B1%8F%E9%A3%9E%E9%A3%9E%E9%A3%9E%E9%A3%9E%E6%9C%BA%E9%9C%80%E8%A6%81%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E5%9B%BE%23" target="weibo">
 满屏飞飞飞飞机需要长长长长图（热度：338321）
 </a>
@@ -4523,6 +4529,12 @@ scout（热度：280121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%95%99%E6%8E%88%E8%8B%91%E4%B8%BE%E6%AD%A3%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23" target="weibo">
 台湾教授苑举正受邀参加九三阅兵（热度：270532）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%91%95%E5%90%90%E7%B3%BB%E8%87%AA%E5%A4%87%E4%BA%95%E8%93%84%E6%B0%B4%E6%B1%A0%E5%8F%97%E6%B1%A1%E6%9F%93%23" target="weibo">
+大学生呕吐系自备井蓄水池受污染（热度：269951）
 </a>
 </li>
 
@@ -5673,6 +5685,12 @@ GAI在前面跑演唱会在后面追（热度：203101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E9%80%9A%E6%8A%A5%E6%B2%88%E5%B8%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%91%95%E5%90%90%E8%85%B9%E6%B3%BB%E8%B0%83%E6%9F%A5%23" target="weibo">
+辽宁通报沈师大学生呕吐腹泻调查（热度：200973）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E8%B0%81%E7%9C%8B%E9%98%85%E5%85%B5%E5%9C%A8%E4%B8%8D%E5%81%9C%E6%88%AA%E5%9B%BE%23" target="weibo">
 是谁看阅兵在不停截图（热度：200949）
 </a>
@@ -5993,24 +6011,6 @@ VOGUE金九单封官宣顺序（热度：193470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%A6%88%E5%A6%88%E6%9D%A5%E7%9C%8B%E4%BA%86%E9%B9%BF%E6%99%97%E5%8D%97%E6%98%8C%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 邓超妈妈来看了鹿晗南昌演唱会（热度：193118）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%8F%91%E5%AE%8C%E5%85%A8%E6%98%AF%E9%B9%BF%E6%99%97%E7%9A%84%E7%BB%9F%E6%B2%BB%E5%8C%BA%23" target="weibo">
-红发完全是鹿晗的统治区（热度：193073）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E8%87%B4%E6%95%AC%E9%9C%87%E6%92%BC%E5%B9%B8%E7%A6%8F%23" target="weibo">
-马龙说致敬震撼幸福（热度：193059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2380%E5%93%8D%E7%A4%BC%E7%82%AE%E5%90%AC%E5%BE%97%E4%BA%BA%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83%23" target="weibo">
-80响礼炮听得人心潮澎湃（热度：192917）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757263321515,
+  "endTime": 1757265590430,
   "band_list": [
     {
       "raw_hot": 3121097,
@@ -75,6 +75,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 338923,
+      "num": 338923,
+      "word": "鹿晗报喜不报忧",
+      "onboard_time": 1757262740,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 333389,
       "num": 192757,
       "word": "许嵩 冯禧",
@@ -105,6 +113,14 @@
       "onboard_time": 1757257344,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269951,
+      "num": 269951,
+      "word": "大学生呕吐系自备井蓄水池受污染",
+      "onboard_time": 1757262499,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264340,
@@ -147,20 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200973,
+      "num": 261805,
+      "word": "辽宁通报沈师大学生呕吐腹泻调查",
+      "onboard_time": 1757262379,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186730,
       "num": 186730,
       "word": "女子地铁拒安检多次追打工作人员",
       "onboard_time": 1757259205,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182174,
-      "num": 182174,
-      "word": "鹿晗报喜不报忧",
-      "onboard_time": 1757262740,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 156844,
@@ -195,28 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128813,
-      "num": 194889,
-      "word": "祝绪丹赫本风",
-      "onboard_time": 1757253504,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 125223,
-      "num": 125223,
+      "raw_hot": 131595,
+      "num": 131595,
       "word": "影院女厕隔间门贴男明星照片引质疑",
       "onboard_time": 1757260640,
       "rank": 26,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122658,
-      "num": 261805,
-      "word": "辽宁通报沈师大学生呕吐腹泻调查",
-      "onboard_time": 1757262379,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 128813,
+      "num": 194889,
+      "word": "祝绪丹赫本风",
+      "onboard_time": 1757253504,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 121027,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 86627,
-      "num": 86627,
+      "num": 98602,
       "word": "鹿晗演唱会来了好多嘉宾",
       "onboard_time": 1757263039,
       "rank": 32,
@@ -371,14 +379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 69735,
-      "num": 69735,
-      "word": "大学生呕吐系自备井蓄水池受污染",
-      "onboard_time": 1757262499,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65507,
       "num": 72088,
       "word": "梓墨燃尽了",
@@ -419,11 +419,51 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43596,
+      "num": 47228,
+      "word": "王者荣耀",
+      "onboard_time": 1757253622,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 40468,
+      "num": 47197,
+      "word": "张维伊求生欲",
+      "onboard_time": 1757247622,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39586,
       "num": 295825,
       "word": "时隔近3年再迎红月亮",
       "onboard_time": 1757261960,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39187,
+      "num": 47167,
+      "word": "许凯梅逐雨就此别过",
+      "onboard_time": 1757265137,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36435,
+      "num": 47134,
+      "word": "iG战胜EDG",
+      "onboard_time": 1757253802,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 35808,
+      "num": 47093,
+      "word": "广东多地已发布停课通知",
+      "onboard_time": 1757253923,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -433,6 +473,14 @@
       "onboard_time": 1757236521,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29367,
+      "num": 47064,
+      "word": "迈凯伦",
+      "onboard_time": 1757258483,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
