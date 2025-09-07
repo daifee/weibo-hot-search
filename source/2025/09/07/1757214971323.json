@@ -1,0 +1,410 @@
+{
+  "runTime": 1757214971323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1942377,
+        "num": 1942377,
+        "word": "辛芷蕾威尼斯影后",
+        "onboard_time": 1757201419,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 685454,
+        "num": 685454,
+        "word": "这才是面包的正常价格",
+        "onboard_time": 1757211801,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3376,
+        "num": 577875,
+        "word": "致敬每一位默默坚守的身影",
+        "onboard_time": 1757085263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531217,
+        "num": 531217,
+        "word": "女子刚逃出乌就在美轻轨被刺身亡",
+        "onboard_time": 1757208022,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318070,
+        "num": 318070,
+        "word": "武汉警方通报24岁男子驾车致7伤",
+        "onboard_time": 1757208143,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1285334,
+        "num": 315211,
+        "word": "辛芷蕾 飞升",
+        "onboard_time": 1757203462,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1058791,
+        "num": 313708,
+        "word": "周迅 日掛中天",
+        "onboard_time": 1757209042,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 569348,
+        "num": 311958,
+        "word": "85花格局要变了",
+        "onboard_time": 1757202502,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309632,
+        "num": 309632,
+        "word": "这3种二维码不能扫",
+        "onboard_time": 1757209163,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58561,
+        "num": 302430,
+        "word": "美国防部改名或涉70多万处设施",
+        "onboard_time": 1757210962,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 722204,
+        "num": 281862,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 464327,
+        "num": 269402,
+        "word": "关晓彤ins晒比基尼照",
+        "onboard_time": 1757202258,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448675,
+        "num": 263826,
+        "word": "恭喜东北大呲花",
+        "onboard_time": 1757211621,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385259,
+        "num": 250115,
+        "word": "刘冲VOGUE拍早了",
+        "onboard_time": 1757201779,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238861,
+        "num": 238861,
+        "word": "华盛顿爆发大规模游行示威",
+        "onboard_time": 1757214263,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324335,
+        "num": 236299,
+        "word": "日掛中天",
+        "onboard_time": 1757200458,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221183,
+        "num": 221183,
+        "word": "游客掉入趵突泉",
+        "onboard_time": 1757206101,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203101,
+        "num": 203101,
+        "word": "GAI在前面跑演唱会在后面追",
+        "onboard_time": 1757214082,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200649,
+        "num": 200649,
+        "word": "骑手称配送死鳄鱼结果半路活了",
+        "onboard_time": 1757171004,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199834,
+        "num": 199834,
+        "word": "台风塔巴将登陆广东沿海",
+        "onboard_time": 1757206222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398713,
+        "num": 199794,
+        "word": "王琳怀孕高烧父母看望只待了15分钟",
+        "onboard_time": 1757202139,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199682,
+        "num": 199682,
+        "word": "繁花对演员的提升太大了",
+        "onboard_time": 1757213902,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194023,
+        "num": 194023,
+        "word": "赵涛评委",
+        "onboard_time": 1757174363,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189542,
+        "num": 189542,
+        "word": "王楚钦澳门逛街买衣服",
+        "onboard_time": 1757209462,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177274,
+        "num": 177274,
+        "word": "原来鬼压床是睡眠瘫痪症",
+        "onboard_time": 1757205201,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169426,
+        "num": 169426,
+        "word": "时代少年团六周年",
+        "onboard_time": 1757213721,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168548,
+        "num": 168548,
+        "word": "一觉醒来中国航天又发射了",
+        "onboard_time": 1757204060,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189503,
+        "num": 168196,
+        "word": "赵涛撕奖能力",
+        "onboard_time": 1757202679,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167585,
+        "num": 167585,
+        "word": "郑业成赵晴在你眉梢种红豆开机",
+        "onboard_time": 1757214802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165475,
+        "num": 165475,
+        "word": "毛主席嫡孙一家参加九三阅兵",
+        "onboard_time": 1757164103,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153821,
+        "num": 162738,
+        "word": "亲密关系中隐藏的情绪暴力",
+        "onboard_time": 1757213600,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161724,
+        "num": 161724,
+        "word": "袁隆平诞辰95年",
+        "onboard_time": 1757202199,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144934,
+        "num": 160907,
+        "word": "张晚意 内核强大又自洽",
+        "onboard_time": 1757213600,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160850,
+        "num": 160850,
+        "word": "焦虑症和抑郁症的区别",
+        "onboard_time": 1757212104,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158783,
+        "num": 158783,
+        "word": "裸眼3D看受阅空中梯队",
+        "onboard_time": 1757206643,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155009,
+        "num": 155009,
+        "word": "美韩盟友怎么翻脸了",
+        "onboard_time": 1757213242,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154681,
+        "num": 154681,
+        "word": "微博私信才是明星的红娘吧",
+        "onboard_time": 1757211922,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137252,
+        "num": 137252,
+        "word": "现在连买奶茶都要配货了",
+        "onboard_time": 1757213962,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136679,
+        "num": 136679,
+        "word": "独臂坦克设计师",
+        "onboard_time": 1757213242,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135100,
+        "num": 135100,
+        "word": "龚俊敢演我不敢看",
+        "onboard_time": 1757214802,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136103,
+        "num": 135050,
+        "word": "血月能看吗",
+        "onboard_time": 1757213721,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133712,
+        "num": 133712,
+        "word": "剧组化妆师年薪40万",
+        "onboard_time": 1757212162,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131860,
+        "num": 131860,
+        "word": "确诊为轻微智障的5个表现",
+        "onboard_time": 1757202439,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129119,
+        "num": 129119,
+        "word": "特朗普回应美海豹突击队曾潜入朝鲜",
+        "onboard_time": 1757211862,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128015,
+        "num": 128015,
+        "word": "樊振东和小弗无障碍交流",
+        "onboard_time": 1757211561,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125939,
+        "num": 125939,
+        "word": "徐冬冬72小时紧急身材管理",
+        "onboard_time": 1757214321,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118234,
+        "num": 118234,
+        "word": "亚裔女子在泰被沉尸",
+        "onboard_time": 1757170824,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107735,
+        "num": 107735,
+        "word": "美公布数百名韩国人被捕现场画面",
+        "onboard_time": 1757214561,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107054,
+        "num": 107054,
+        "word": "风吹稻田我们又想念您了",
+        "onboard_time": 1757213242,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105436,
+        "num": 105436,
+        "word": "拍一拍红月亮",
+        "onboard_time": 1757207902,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界正气充盈乾坤朗朗#"
+    }
+  }
+}
