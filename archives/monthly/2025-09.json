@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757216908536,
+  "endTime": 1757219302873,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -281,6 +281,14 @@
       "onboard_time": 1756656021,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2409657,
+      "num": 2409657,
+      "word": "辛芷蕾获奖时张颂文的表情",
+      "onboard_time": 1757217261,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2407755,
@@ -771,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1322947,
+      "num": 1322947,
+      "word": "父子摆摊仅剩5元城管处罚后月入6000",
+      "onboard_time": 1757215641,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1310808,
       "num": 1310808,
       "word": "网络空间部队",
@@ -852,7 +868,7 @@
     },
     {
       "raw_hot": 1255093,
-      "num": 428426,
+      "num": 463852,
       "word": "辛芷蕾的影后是全票通过",
       "onboard_time": 1757216662,
       "rank": 5,
@@ -1089,14 +1105,6 @@
       "onboard_time": 1756945164,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1075588,
-      "num": 1075588,
-      "word": "父子摆摊仅剩5元城管处罚后月入6000",
-      "onboard_time": 1757215641,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1063633,
@@ -3051,6 +3059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 484505,
+      "num": 484505,
+      "word": "现在连买奶茶都要配货了",
+      "onboard_time": 1757213962,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 484005,
       "num": 354375,
       "word": "普京抵达人民大会堂画面",
@@ -3497,6 +3513,14 @@
       "onboard_time": 1756971622,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 439174,
+      "num": 309217,
+      "word": "结婚一年确诊了免疫系统疾病",
+      "onboard_time": 1757217261,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 439145,
@@ -4393,6 +4417,14 @@
       "onboard_time": 1757156541,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343583,
+      "num": 262639,
+      "word": "中国导游在日本被打",
+      "onboard_time": 1757215401,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343403,
@@ -5531,14 +5563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262639,
-      "num": 262639,
-      "word": "中国导游在日本被打",
-      "onboard_time": 1757215401,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261210,
       "num": 253818,
       "word": "特朗普拟将五角大楼更名为战争部",
@@ -5681,14 +5705,6 @@
       "onboard_time": 1757124920,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249776,
-      "num": 275140,
-      "word": "现在连买奶茶都要配货了",
-      "onboard_time": 1757213962,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 249760,
@@ -6363,6 +6379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220920,
+      "num": 220920,
+      "word": "邢菲升咖后首部作品",
+      "onboard_time": 1757219002,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220395,
       "num": 209141,
       "word": "李维嘉回复谢娜喊话",
@@ -6843,6 +6867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201505,
+      "num": 201505,
+      "word": "美公布数百名韩国人被捕现场画面",
+      "onboard_time": 1757214561,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201429,
       "num": 201429,
       "word": "九三阅兵纪念短片",
@@ -6907,6 +6939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200270,
+      "num": 200270,
+      "word": "苏醒回应王栎鑫退出MAMA舞台",
+      "onboard_time": 1757216183,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200073,
       "num": 200073,
       "word": "终于知道结婚后为啥容易变胖了",
@@ -6929,6 +6969,14 @@
       "onboard_time": 1757161943,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199809,
+      "num": 199809,
+      "word": "斗罗大陆",
+      "onboard_time": 1757218822,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 199738,
@@ -6977,6 +7025,14 @@
       "onboard_time": 1756977562,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199077,
+      "num": 161372,
+      "word": "日本19岁未来天皇大办特办成人礼",
+      "onboard_time": 1757219242,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 199050,
@@ -8059,6 +8115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174914,
+      "num": 200887,
+      "word": "血月能看吗",
+      "onboard_time": 1757213721,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174765,
       "num": 278634,
       "word": "外媒被东风61惊艳",
@@ -8377,6 +8441,14 @@
       "onboard_time": 1756654943,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169087,
+      "num": 169087,
+      "word": "王玉雯说龚俊不在自拍都懈怠了",
+      "onboard_time": 1757218761,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 169078,
@@ -8819,14 +8891,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 161181,
-      "num": 161181,
-      "word": "血月能看吗",
-      "onboard_time": 1757213721,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161067,
       "num": 161067,
       "word": "续面事件面馆歇业关闭",
@@ -8921,6 +8985,14 @@
       "onboard_time": 1757061501,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159959,
+      "num": 159959,
+      "word": "巴黎迪士尼玩偶故意忽视小女孩儿",
+      "onboard_time": 1757217683,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159945,
@@ -9187,6 +9259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155789,
+      "num": 155789,
+      "word": "嘉贵妃封后",
+      "onboard_time": 1757218642,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155786,
       "num": 180821,
       "word": "全球治理走到新的十字路口",
@@ -9305,6 +9385,14 @@
       "onboard_time": 1757043982,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154752,
+      "num": 186503,
+      "word": "错过今晚的月全食要等3年",
+      "onboard_time": 1757216902,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154681,
@@ -9739,6 +9827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148744,
+      "num": 148744,
+      "word": "赵磊qko真的上夫妻综艺了",
+      "onboard_time": 1757216122,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148741,
       "num": 149870,
       "word": "华为发布首款8.8英寸OLED平板",
@@ -9921,14 +10017,6 @@
       "onboard_time": 1757166563,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146571,
-      "num": 146571,
-      "word": "赵磊qko真的上夫妻综艺了",
-      "onboard_time": 1757216122,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 146474,
@@ -10883,6 +10971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133439,
+      "num": 133439,
+      "word": "空腹36小时身体的变化",
+      "onboard_time": 1757215222,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 133433,
       "num": 133433,
       "word": "严浩翔蟹钳手把件",
@@ -11547,6 +11643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125337,
+      "num": 125337,
+      "word": "庞众望在人民日报发文",
+      "onboard_time": 1757216841,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125316,
       "num": 125316,
       "word": "展轩卡点祝刘轩丞生日快乐",
@@ -11601,14 +11705,6 @@
       "onboard_time": 1756789223,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124939,
-      "num": 124939,
-      "word": "空腹36小时身体的变化",
-      "onboard_time": 1757215222,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 124902,
@@ -11817,14 +11913,6 @@
       "onboard_time": 1756794981,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 122986,
-      "num": 122986,
-      "word": "庞众望在人民日报发文",
-      "onboard_time": 1757216841,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122922,
@@ -12827,14 +12915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112737,
-      "num": 112737,
-      "word": "美公布数百名韩国人被捕现场画面",
-      "onboard_time": 1757214561,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112731,
       "num": 265801,
       "word": "谁吃麻辣香锅不被上一课呢",
@@ -13179,6 +13259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109202,
+      "num": 109202,
+      "word": "TizzyT我买的不是坐票吗",
+      "onboard_time": 1757219061,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108943,
       "num": 108943,
       "word": "沉浸式感受溢出屏幕的安全感",
@@ -13241,6 +13329,14 @@
       "onboard_time": 1757127019,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 108498,
+      "num": 108498,
+      "word": "听潮阁三周年",
+      "onboard_time": 1757218042,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 108494,
@@ -13521,6 +13617,14 @@
       "onboard_time": 1756733182,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105978,
+      "num": 123318,
+      "word": "热心市民张智霖",
+      "onboard_time": 1757218581,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 105957,
@@ -14067,14 +14171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100226,
-      "num": 116741,
-      "word": "苏醒回应王栎鑫退出MAMA舞台",
-      "onboard_time": 1757216183,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100108,
       "num": 136107,
       "word": "刘国梁说爱我中华",
@@ -14387,6 +14483,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 97125,
+      "num": 164018,
+      "word": "谁为赵涛撕一个戛纳影后",
+      "onboard_time": 1757218221,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97095,
       "num": 177530,
       "word": "明日方舟新干员三角初华",
@@ -14409,6 +14513,14 @@
       "onboard_time": 1757067441,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96976,
+      "num": 96976,
+      "word": "唐舞桐3D建模",
+      "onboard_time": 1757219242,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 96974,
@@ -16555,6 +16667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70744,
+      "num": 123880,
+      "word": "徐艺洋说和黄子韬第一次见面有种宿命感",
+      "onboard_time": 1757218943,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70506,
       "num": 156720,
       "word": "A股成交2.87万亿放量1250亿",
@@ -16937,6 +17057,14 @@
       "onboard_time": 1757085863,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64279,
+      "num": 107303,
+      "word": "好好吃饭致敬袁隆平",
+      "onboard_time": 1757207842,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64017,
@@ -17545,6 +17673,14 @@
       "onboard_time": 1757158102,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53087,
+      "num": 165316,
+      "word": "享界S9T一个字稳",
+      "onboard_time": 1757217202,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 53042,

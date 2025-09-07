@@ -1,0 +1,410 @@
+{
+  "runTime": 1757219302873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2409657,
+        "num": 2409657,
+        "word": "辛芷蕾获奖时张颂文的表情",
+        "onboard_time": 1757217261,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1322947,
+        "num": 1322947,
+        "word": "父子摆摊仅剩5元城管处罚后月入6000",
+        "onboard_time": 1757215641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3943,
+        "num": 550366,
+        "word": "致敬每一位默默坚守的身影",
+        "onboard_time": 1757085263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484505,
+        "num": 484505,
+        "word": "现在连买奶茶都要配货了",
+        "onboard_time": 1757213962,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 474522,
+        "num": 474522,
+        "word": "这才是面包的正常价格",
+        "onboard_time": 1757211801,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 923077,
+        "num": 463852,
+        "word": "辛芷蕾的影后是全票通过",
+        "onboard_time": 1757216662,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387624,
+        "num": 387624,
+        "word": "周迅 日掛中天",
+        "onboard_time": 1757209042,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346050,
+        "num": 346050,
+        "word": "85花格局要变了",
+        "onboard_time": 1757202502,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337928,
+        "num": 337928,
+        "word": "华盛顿爆发大规模游行示威",
+        "onboard_time": 1757214263,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223253,
+        "num": 318235,
+        "word": "女子刚逃出乌就在美轻轨被刺身亡",
+        "onboard_time": 1757208022,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 439174,
+        "num": 309217,
+        "word": "结婚一年确诊了免疫系统疾病",
+        "onboard_time": 1757217261,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433526,
+        "num": 289907,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 343583,
+        "num": 248484,
+        "word": "中国导游在日本被打",
+        "onboard_time": 1757215401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248102,
+        "num": 248102,
+        "word": "关晓彤ins晒比基尼照",
+        "onboard_time": 1757202258,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246819,
+        "num": 246819,
+        "word": "她的瞳官宣杀青",
+        "onboard_time": 1757215222,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220920,
+        "num": 220920,
+        "word": "邢菲升咖后首部作品",
+        "onboard_time": 1757219002,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207565,
+        "num": 207565,
+        "word": "刘冲VOGUE拍早了",
+        "onboard_time": 1757201779,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201505,
+        "num": 201505,
+        "word": "美公布数百名韩国人被捕现场画面",
+        "onboard_time": 1757214561,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174914,
+        "num": 200887,
+        "word": "血月能看吗",
+        "onboard_time": 1757213721,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49525,
+        "num": 200300,
+        "word": "独臂坦克设计师",
+        "onboard_time": 1757213242,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200270,
+        "num": 200270,
+        "word": "苏醒回应王栎鑫退出MAMA舞台",
+        "onboard_time": 1757216183,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199809,
+        "num": 199809,
+        "word": "斗罗大陆",
+        "onboard_time": 1757218822,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192759,
+        "num": 192759,
+        "word": "王琳怀孕高烧父母看望只待了15分钟",
+        "onboard_time": 1757202139,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154752,
+        "num": 186503,
+        "word": "错过今晚的月全食要等3年",
+        "onboard_time": 1757216902,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184424,
+        "num": 184424,
+        "word": "郑业成赵晴在你眉梢种红豆开机",
+        "onboard_time": 1757214802,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177536,
+        "num": 177536,
+        "word": "恭喜东北大呲花",
+        "onboard_time": 1757211621,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169087,
+        "num": 169087,
+        "word": "王玉雯说龚俊不在自拍都懈怠了",
+        "onboard_time": 1757218761,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152203,
+        "num": 168136,
+        "word": "台风塔巴将登陆广东沿海",
+        "onboard_time": 1757206222,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53087,
+        "num": 165316,
+        "word": "享界S9T一个字稳",
+        "onboard_time": 1757217202,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 97125,
+        "num": 164018,
+        "word": "谁为赵涛撕一个戛纳影后",
+        "onboard_time": 1757218221,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199077,
+        "num": 161372,
+        "word": "日本19岁未来天皇大办特办成人礼",
+        "onboard_time": 1757219242,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159959,
+        "num": 159959,
+        "word": "巴黎迪士尼玩偶故意忽视小女孩儿",
+        "onboard_time": 1757217683,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155789,
+        "num": 155789,
+        "word": "嘉贵妃封后",
+        "onboard_time": 1757218642,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148744,
+        "num": 148744,
+        "word": "赵磊qko真的上夫妻综艺了",
+        "onboard_time": 1757216122,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133439,
+        "num": 133439,
+        "word": "空腹36小时身体的变化",
+        "onboard_time": 1757215222,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133271,
+        "num": 133271,
+        "word": "华语六位欧三影后",
+        "onboard_time": 1757215461,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130677,
+        "num": 130677,
+        "word": "日掛中天",
+        "onboard_time": 1757200458,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125337,
+        "num": 125337,
+        "word": "庞众望在人民日报发文",
+        "onboard_time": 1757216841,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70744,
+        "num": 123880,
+        "word": "徐艺洋说和黄子韬第一次见面有种宿命感",
+        "onboard_time": 1757218943,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105978,
+        "num": 123318,
+        "word": "热心市民张智霖",
+        "onboard_time": 1757218581,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122867,
+        "num": 122867,
+        "word": "袁隆平诞辰95年",
+        "onboard_time": 1757202199,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114880,
+        "num": 114880,
+        "word": "时代少年团六周年",
+        "onboard_time": 1757213721,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109202,
+        "num": 109202,
+        "word": "TizzyT我买的不是坐票吗",
+        "onboard_time": 1757219061,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108498,
+        "num": 108498,
+        "word": "听潮阁三周年",
+        "onboard_time": 1757218042,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64279,
+        "num": 107303,
+        "word": "好好吃饭致敬袁隆平",
+        "onboard_time": 1757207842,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 106966,
+        "word": "中级会计",
+        "onboard_time": 1757216002,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100371,
+        "num": 100371,
+        "word": "繁花对演员的提升太大了",
+        "onboard_time": 1757213902,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99308,
+        "num": 99308,
+        "word": "一觉醒来中国航天又发射了",
+        "onboard_time": 1757204060,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96976,
+        "num": 96976,
+        "word": "唐舞桐3D建模",
+        "onboard_time": 1757219242,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96722,
+        "num": 96722,
+        "word": "赵涛评委",
+        "onboard_time": 1757174363,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界正气充盈乾坤朗朗#"
+    }
+  }
+}
