@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757219302873,
+  "endTime": 1757220084409,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -283,8 +283,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2409657,
-      "num": 2409657,
+      "raw_hot": 2410456,
+      "num": 2410456,
       "word": "辛芷蕾获奖时张颂文的表情",
       "onboard_time": 1757217261,
       "rank": 0,
@@ -2723,6 +2723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 536770,
+      "num": 536770,
+      "word": "现在连买奶茶都要配货了",
+      "onboard_time": 1757213962,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 533157,
       "num": 204738,
       "word": "谁给王楚然选的衣服",
@@ -3057,14 +3065,6 @@
       "onboard_time": 1756709721,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 484505,
-      "num": 484505,
-      "word": "现在连买奶茶都要配货了",
-      "onboard_time": 1757213962,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 484005,
@@ -3515,8 +3515,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 439174,
-      "num": 309217,
+      "raw_hot": 440294,
+      "num": 440294,
       "word": "结婚一年确诊了免疫系统疾病",
       "onboard_time": 1757217261,
       "rank": 10,
@@ -3963,6 +3963,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 387403,
+      "num": 387403,
+      "word": "邢菲升咖后首部作品",
+      "onboard_time": 1757219002,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386240,
       "num": 205817,
       "word": "种地吧",
@@ -4176,6 +4184,14 @@
       "word": "成都机场3秒迟疑后的拥抱看哭全网",
       "onboard_time": 1757075422,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364601,
+      "num": 364601,
+      "word": "中国导游在日本被打",
+      "onboard_time": 1757215401,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -4417,14 +4433,6 @@
       "onboard_time": 1757156541,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343583,
-      "num": 262639,
-      "word": "中国导游在日本被打",
-      "onboard_time": 1757215401,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343403,
@@ -5531,6 +5539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265449,
+      "num": 265449,
+      "word": "日本19岁未来天皇大办特办成人礼",
+      "onboard_time": 1757219242,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 265357,
       "num": 265357,
       "word": "九三阅兵活动时长约70分钟",
@@ -5577,6 +5593,14 @@
       "onboard_time": 1756887682,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260435,
+      "num": 260435,
+      "word": "美公布数百名韩国人被捕现场画面",
+      "onboard_time": 1757214561,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259425,
@@ -6163,6 +6187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231747,
+      "num": 231747,
+      "word": "苏醒回应王栎鑫退出MAMA舞台",
+      "onboard_time": 1757216183,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231398,
       "num": 196603,
       "word": "法国将军谈九三阅兵",
@@ -6377,14 +6409,6 @@
       "onboard_time": 1756738041,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220920,
-      "num": 220920,
-      "word": "邢菲升咖后首部作品",
-      "onboard_time": 1757219002,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 220395,
@@ -6867,14 +6891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201505,
-      "num": 201505,
-      "word": "美公布数百名韩国人被捕现场画面",
-      "onboard_time": 1757214561,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 201429,
       "num": 201429,
       "word": "九三阅兵纪念短片",
@@ -6937,14 +6953,6 @@
       "onboard_time": 1756977562,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 200270,
-      "num": 200270,
-      "word": "苏醒回应王栎鑫退出MAMA舞台",
-      "onboard_time": 1757216183,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 200073,
@@ -7025,14 +7033,6 @@
       "onboard_time": 1756977562,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 199077,
-      "num": 161372,
-      "word": "日本19岁未来天皇大办特办成人礼",
-      "onboard_time": 1757219242,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 199050,
@@ -8059,6 +8059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176322,
+      "num": 176322,
+      "word": "热心市民张智霖",
+      "onboard_time": 1757218581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176038,
       "num": 176038,
       "word": "smart官宣两座回归",
@@ -8116,7 +8124,7 @@
     },
     {
       "raw_hot": 174914,
-      "num": 200887,
+      "num": 230924,
       "word": "血月能看吗",
       "onboard_time": 1757213721,
       "rank": 44,
@@ -8504,6 +8512,14 @@
       "word": "老外为吃火锅周末飞中国",
       "onboard_time": 1757050522,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168319,
+      "num": 230956,
+      "word": "错过今晚的月全食要等3年",
+      "onboard_time": 1757216902,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -8947,6 +8963,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160409,
+      "num": 160409,
+      "word": "嘉贵妃封后",
+      "onboard_time": 1757218642,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160407,
+      "num": 160407,
+      "word": "TizzyT我买的不是坐票吗",
+      "onboard_time": 1757219061,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160378,
       "num": 182798,
       "word": "冯建宇又来汇报了",
@@ -9057,6 +9089,14 @@
       "onboard_time": 1756958481,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159072,
+      "num": 149338,
+      "word": "嚼完还瘦了半斤",
+      "onboard_time": 1757219663,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 158914,
@@ -9259,14 +9299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155789,
-      "num": 155789,
-      "word": "嘉贵妃封后",
-      "onboard_time": 1757218642,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 155786,
       "num": 180821,
       "word": "全球治理走到新的十字路口",
@@ -9385,14 +9417,6 @@
       "onboard_time": 1757043982,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 154752,
-      "num": 186503,
-      "word": "错过今晚的月全食要等3年",
-      "onboard_time": 1757216902,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154681,
@@ -9577,6 +9601,14 @@
       "onboard_time": 1756695021,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151628,
+      "num": 151628,
+      "word": "赵磊qko真的上夫妻综艺了",
+      "onboard_time": 1757216122,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 151626,
@@ -9825,14 +9857,6 @@
       "onboard_time": 1757162602,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148744,
-      "num": 148744,
-      "word": "赵磊qko真的上夫妻综艺了",
-      "onboard_time": 1757216122,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 148741,
@@ -10387,6 +10411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141334,
+      "num": 141334,
+      "word": "医生荣誉官宣",
+      "onboard_time": 1757219783,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141173,
       "num": 244758,
       "word": "田曦薇把故宫伴手礼背到了土耳其",
@@ -10483,6 +10515,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 139740,
+      "num": 139740,
+      "word": "唐舞桐3D建模",
+      "onboard_time": 1757219242,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 139731,
       "num": 147386,
       "word": "成都暴雨",
@@ -10552,6 +10592,14 @@
       "word": "沈腾当裁判被观众大喊黑幕",
       "onboard_time": 1757132841,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138701,
+      "num": 138701,
+      "word": "徐艺洋说和黄子韬第一次见面有种宿命感",
+      "onboard_time": 1757218943,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -11644,7 +11692,7 @@
     },
     {
       "raw_hot": 125337,
-      "num": 125337,
+      "num": 140855,
       "word": "庞众望在人民日报发文",
       "onboard_time": 1757216841,
       "rank": 33,
@@ -12659,6 +12707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115019,
+      "num": 115019,
+      "word": "赵磊担心老婆上节目面对不好的声音",
+      "onboard_time": 1757219783,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114970,
       "num": 114970,
       "word": "猫 我往那儿一站就是兵",
@@ -13259,12 +13315,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 109202,
-      "num": 109202,
-      "word": "TizzyT我买的不是坐票吗",
-      "onboard_time": 1757219061,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 109151,
+      "num": 109151,
+      "word": "这哪是质子来了分明是一辈子来了",
+      "onboard_time": 1757219483,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 108943,
@@ -13617,14 +13673,6 @@
       "onboard_time": 1756733182,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105978,
-      "num": 123318,
-      "word": "热心市民张智霖",
-      "onboard_time": 1757218581,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 105957,
@@ -14387,6 +14435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97955,
+      "num": 97955,
+      "word": "我国外汇储备规模为33222亿美元",
+      "onboard_time": 1757219542,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97887,
       "num": 97887,
       "word": "早上运动vs晚上运动",
@@ -14513,14 +14569,6 @@
       "onboard_time": 1757067441,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 96976,
-      "num": 96976,
-      "word": "唐舞桐3D建模",
-      "onboard_time": 1757219242,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 96974,
@@ -16667,14 +16715,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 70744,
-      "num": 123880,
-      "word": "徐艺洋说和黄子韬第一次见面有种宿命感",
-      "onboard_time": 1757218943,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 70506,
       "num": 156720,
       "word": "A股成交2.87万亿放量1250亿",
@@ -17643,6 +17683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 54010,
+      "num": 165316,
+      "word": "享界S9T一个字稳",
+      "onboard_time": 1757217202,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53964,
       "num": 53964,
       "word": "家长别送孩子赶高铁了",
@@ -17673,14 +17721,6 @@
       "onboard_time": 1757158102,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53087,
-      "num": 165316,
-      "word": "享界S9T一个字稳",
-      "onboard_time": 1757217202,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 53042,
@@ -18865,6 +18905,14 @@
       "onboard_time": 1757017933,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21507,
+      "num": 125988,
+      "word": "民宿女老板披露被骗经历",
+      "onboard_time": 1757220022,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21398,

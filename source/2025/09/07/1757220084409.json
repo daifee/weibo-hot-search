@@ -1,0 +1,410 @@
+{
+  "runTime": 1757220084409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2410456,
+        "num": 2410456,
+        "word": "辛芷蕾获奖时张颂文的表情",
+        "onboard_time": 1757217261,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1272270,
+        "num": 1272270,
+        "word": "父子摆摊仅剩5元城管处罚后月入6000",
+        "onboard_time": 1757215641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3286,
+        "num": 655251,
+        "word": "致敬每一位默默坚守的身影",
+        "onboard_time": 1757085263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 536770,
+        "num": 536770,
+        "word": "现在连买奶茶都要配货了",
+        "onboard_time": 1757213962,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 440294,
+        "num": 440294,
+        "word": "结婚一年确诊了免疫系统疾病",
+        "onboard_time": 1757217261,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 939972,
+        "num": 424312,
+        "word": "辛芷蕾的影后是全票通过",
+        "onboard_time": 1757216662,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398861,
+        "num": 398861,
+        "word": "周迅 日掛中天",
+        "onboard_time": 1757209042,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394139,
+        "num": 394139,
+        "word": "这才是面包的正常价格",
+        "onboard_time": 1757211801,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387403,
+        "num": 387403,
+        "word": "邢菲升咖后首部作品",
+        "onboard_time": 1757219002,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216293,
+        "num": 375021,
+        "word": "女子刚逃出乌就在美轻轨被刺身亡",
+        "onboard_time": 1757208022,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 429500,
+        "num": 370778,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 364601,
+        "num": 364601,
+        "word": "中国导游在日本被打",
+        "onboard_time": 1757215401,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354733,
+        "num": 354733,
+        "word": "85花格局要变了",
+        "onboard_time": 1757202502,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301633,
+        "num": 301633,
+        "word": "华盛顿爆发大规模游行示威",
+        "onboard_time": 1757214263,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265449,
+        "num": 265449,
+        "word": "日本19岁未来天皇大办特办成人礼",
+        "onboard_time": 1757219242,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260435,
+        "num": 260435,
+        "word": "美公布数百名韩国人被捕现场画面",
+        "onboard_time": 1757214561,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240627,
+        "num": 240627,
+        "word": "她的瞳官宣杀青",
+        "onboard_time": 1757215222,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231747,
+        "num": 231747,
+        "word": "苏醒回应王栎鑫退出MAMA舞台",
+        "onboard_time": 1757216183,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168319,
+        "num": 230956,
+        "word": "错过今晚的月全食要等3年",
+        "onboard_time": 1757216902,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156690,
+        "num": 230924,
+        "word": "血月能看吗",
+        "onboard_time": 1757213721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230896,
+        "num": 230896,
+        "word": "关晓彤ins晒比基尼照",
+        "onboard_time": 1757202258,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193583,
+        "num": 193583,
+        "word": "刘冲VOGUE拍早了",
+        "onboard_time": 1757201779,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187106,
+        "num": 187106,
+        "word": "斗罗大陆",
+        "onboard_time": 1757218822,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176322,
+        "num": 176322,
+        "word": "热心市民张智霖",
+        "onboard_time": 1757218581,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175244,
+        "num": 175244,
+        "word": "王琳怀孕高烧父母看望只待了15分钟",
+        "onboard_time": 1757202139,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160409,
+        "num": 160409,
+        "word": "嘉贵妃封后",
+        "onboard_time": 1757218642,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160407,
+        "num": 160407,
+        "word": "TizzyT我买的不是坐票吗",
+        "onboard_time": 1757219061,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151628,
+        "num": 151628,
+        "word": "赵磊qko真的上夫妻综艺了",
+        "onboard_time": 1757216122,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135301,
+        "num": 149422,
+        "word": "台风塔巴将登陆广东沿海",
+        "onboard_time": 1757206222,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54010,
+        "num": 149349,
+        "word": "享界S9T一个字稳",
+        "onboard_time": 1757217202,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159072,
+        "num": 149338,
+        "word": "嚼完还瘦了半斤",
+        "onboard_time": 1757219663,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149288,
+        "num": 149288,
+        "word": "巴黎迪士尼玩偶故意忽视小女孩儿",
+        "onboard_time": 1757217683,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141334,
+        "num": 141334,
+        "word": "医生荣誉官宣",
+        "onboard_time": 1757219783,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116349,
+        "num": 140861,
+        "word": "袁隆平诞辰95年",
+        "onboard_time": 1757202199,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116390,
+        "num": 140855,
+        "word": "庞众望在人民日报发文",
+        "onboard_time": 1757216841,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140855,
+        "num": 140854,
+        "word": "郑业成赵晴在你眉梢种红豆开机",
+        "onboard_time": 1757214802,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139740,
+        "num": 139740,
+        "word": "唐舞桐3D建模",
+        "onboard_time": 1757219242,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138701,
+        "num": 138701,
+        "word": "徐艺洋说和黄子韬第一次见面有种宿命感",
+        "onboard_time": 1757218943,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135172,
+        "num": 135172,
+        "word": "恭喜东北大呲花",
+        "onboard_time": 1757211621,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131180,
+        "num": 131180,
+        "word": "空腹36小时身体的变化",
+        "onboard_time": 1757215222,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21507,
+        "num": 125988,
+        "word": "民宿女老板披露被骗经历",
+        "onboard_time": 1757220022,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124234,
+        "num": 124234,
+        "word": "王玉雯说龚俊不在自拍都懈怠了",
+        "onboard_time": 1757218761,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122820,
+        "num": 122820,
+        "word": "华语六位欧三影后",
+        "onboard_time": 1757215461,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121059,
+        "num": 121059,
+        "word": "日掛中天",
+        "onboard_time": 1757200458,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115019,
+        "num": 115019,
+        "word": "赵磊担心老婆上节目面对不好的声音",
+        "onboard_time": 1757219783,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109151,
+        "num": 109151,
+        "word": "这哪是质子来了分明是一辈子来了",
+        "onboard_time": 1757219483,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99792,
+        "num": 99792,
+        "word": "原来鬼压床是睡眠瘫痪症",
+        "onboard_time": 1757205201,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52045,
+        "num": 98712,
+        "word": "独臂坦克设计师",
+        "onboard_time": 1757213242,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97955,
+        "num": 97955,
+        "word": "我国外汇储备规模为33222亿美元",
+        "onboard_time": 1757219542,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93381,
+        "num": 93381,
+        "word": "中级实务",
+        "onboard_time": 1757216783,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界正气充盈乾坤朗朗#"
+    }
+  }
+}
