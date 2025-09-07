@@ -1,0 +1,410 @@
+{
+  "runTime": 1757234441670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 988382,
+        "num": 1158141,
+        "word": "辛芷蕾听完英文提问的反应",
+        "onboard_time": 1757233401,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 706640,
+        "num": 706640,
+        "word": "工作后才知道苹果是最好的水果",
+        "onboard_time": 1757225662,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22957,
+        "num": 691844,
+        "word": "从袁梦到圆梦",
+        "onboard_time": 1757206222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 680246,
+        "num": 680246,
+        "word": "长期吃米vs长期吃面",
+        "onboard_time": 1757232141,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 554252,
+        "num": 554252,
+        "word": "石破茂决意辞职",
+        "onboard_time": 1757226680,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 359382,
+        "num": 465298,
+        "word": "父子摆摊仅剩5元城管处罚后月入6000",
+        "onboard_time": 1757215641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598828,
+        "num": 463585,
+        "word": "辛芷蕾获奖时张颂文的表情",
+        "onboard_time": 1757217261,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 457942,
+        "num": 457942,
+        "word": "美总统威胁要与一美国城市开战",
+        "onboard_time": 1757229022,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 389499,
+        "num": 389499,
+        "word": "王牌对王牌回应彭昱畅送急诊",
+        "onboard_time": 1757229981,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354687,
+        "num": 354687,
+        "word": "血月对人体有什么影响",
+        "onboard_time": 1757224342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1459960,
+        "num": 348524,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318410,
+        "num": 318410,
+        "word": "张晚意李沁嫂子开门我是我哥",
+        "onboard_time": 1757232441,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309923,
+        "num": 309923,
+        "word": "我给人撕到奖了 你撕过吗",
+        "onboard_time": 1757224762,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320186,
+        "num": 306023,
+        "word": "彭昱畅 急诊",
+        "onboard_time": 1757222362,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192438,
+        "num": 291695,
+        "word": "女子嫁外国贫民窟求助回国系摆拍",
+        "onboard_time": 1757231902,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285140,
+        "num": 285140,
+        "word": "25岁到47岁的衰老全过程",
+        "onboard_time": 1757228542,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255911,
+        "num": 255911,
+        "word": "周迅",
+        "onboard_time": 1757231363,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201148,
+        "num": 201148,
+        "word": "今晚邀你一起看红月",
+        "onboard_time": 1757226023,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184877,
+        "num": 184877,
+        "word": "女子赴美生子去世俩孩子生父成谜",
+        "onboard_time": 1757227102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157758,
+        "num": 178816,
+        "word": "石破茂辞职理由",
+        "onboard_time": 1757231662,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35138,
+        "num": 178758,
+        "word": "胡兵用20多个箱子换了两个机器人",
+        "onboard_time": 1757233101,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178753,
+        "num": 178753,
+        "word": "广东珠海全市学校停课",
+        "onboard_time": 1757232802,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175706,
+        "num": 175706,
+        "word": "新华社研究院发布重磅报告",
+        "onboard_time": 1757231662,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166246,
+        "num": 166246,
+        "word": "BLG对战JDG",
+        "onboard_time": 1757228182,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163648,
+        "num": 163648,
+        "word": "樊振东队长发博大赞团魂",
+        "onboard_time": 1757234301,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142657,
+        "num": 142657,
+        "word": "张晚意晕船晕成韩红了",
+        "onboard_time": 1757222422,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142075,
+        "num": 142075,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138135,
+        "num": 138135,
+        "word": "杨紫暑期档全勤王",
+        "onboard_time": 1757233161,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128922,
+        "num": 128922,
+        "word": "错过今晚的月全食要等3年",
+        "onboard_time": 1757216902,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123680,
+        "num": 123680,
+        "word": "赵晴新剧开机状态",
+        "onboard_time": 1757230041,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120841,
+        "num": 120841,
+        "word": "茅台回应反诈老陈喊话",
+        "onboard_time": 1757221763,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120656,
+        "num": 120656,
+        "word": "经济法",
+        "onboard_time": 1757232742,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117696,
+        "num": 117696,
+        "word": "美国出动10架F35",
+        "onboard_time": 1757224582,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111993,
+        "num": 111993,
+        "word": "赵磊担心老婆上节目面对不好的声音",
+        "onboard_time": 1757219783,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32960,
+        "num": 111975,
+        "word": "小北的淘汰感言",
+        "onboard_time": 1757229861,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111973,
+        "num": 111973,
+        "word": "日本19岁未来天皇大办特办成人礼",
+        "onboard_time": 1757219242,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75414,
+        "num": 108353,
+        "word": "日自民党8日决定是否提前选举总裁",
+        "onboard_time": 1757233221,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108293,
+        "num": 108293,
+        "word": "美国一妇女发文炫耀自家狗成选民",
+        "onboard_time": 1757232742,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37200,
+        "num": 100560,
+        "word": "张维伊不是我找你们来的吧",
+        "onboard_time": 1757234421,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41483,
+        "num": 98678,
+        "word": "孙心娅回应是冯绍峰女友里最好看的",
+        "onboard_time": 1757233941,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41348,
+        "num": 98096,
+        "word": "肉眼可见的血月马上要来了",
+        "onboard_time": 1757233282,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97719,
+        "num": 97719,
+        "word": "怪不得撒谎是小狗",
+        "onboard_time": 1757230882,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94447,
+        "num": 94447,
+        "word": "被朱珠四分钟脱口秀秀到了",
+        "onboard_time": 1757234363,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91076,
+        "num": 91076,
+        "word": "猫猫我已经走的很轻了呀",
+        "onboard_time": 1757234241,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76031,
+        "num": 88544,
+        "word": "陆毅鲍蕾送贝儿上夏校",
+        "onboard_time": 1757233221,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86128,
+        "num": 86128,
+        "word": "刘宇宁 以后生姑娘可不能长得像我",
+        "onboard_time": 1757227643,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86108,
+        "num": 86108,
+        "word": "做过美甲的都沉默了",
+        "onboard_time": 1757227882,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 85549,
+        "num": 85549,
+        "word": "周迅 日掛中天",
+        "onboard_time": 1757209042,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85472,
+        "num": 85472,
+        "word": "台风塔巴将登陆广东沿海",
+        "onboard_time": 1757206222,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83666,
+        "num": 83666,
+        "word": "孙颖莎首轮对阵赫尔希",
+        "onboard_time": 1757233043,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一握情深意重#"
+    }
+  }
+}

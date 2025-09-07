@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757233699582,
+  "endTime": 1757234441670,
   "band_list": [
     {
       "raw_hot": 2410456,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 988382,
+      "num": 1158141,
+      "word": "辛芷蕾听完英文提问的反应",
+      "onboard_time": 1757233401,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 983382,
       "num": 204432,
       "word": "辛芷蕾",
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 786150,
-      "num": 786150,
-      "word": "辛芷蕾听完英文提问的反应",
-      "onboard_time": 1757233401,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 776703,
       "num": 531217,
       "word": "女子刚逃出乌就在美轻轨被刺身亡",
@@ -169,6 +169,14 @@
       "onboard_time": 1757160022,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 680246,
+      "num": 680246,
+      "word": "长期吃米vs长期吃面",
+      "onboard_time": 1757232141,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 645692,
@@ -363,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389193,
-      "num": 389193,
-      "word": "长期吃米vs长期吃面",
-      "onboard_time": 1757232141,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 385497,
       "num": 385497,
       "word": "美国出动10架F35",
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318410,
+      "num": 318410,
+      "word": "张晚意李沁嫂子开门我是我哥",
+      "onboard_time": 1757232441,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307874,
       "num": 307874,
       "word": "她的瞳官宣杀青",
@@ -488,14 +496,6 @@
       "word": "苏醒回应王栎鑫退出MAMA舞台",
       "onboard_time": 1757216183,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 284937,
-      "num": 284937,
-      "word": "张晚意李沁嫂子开门我是我哥",
-      "onboard_time": 1757232441,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -531,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 255911,
+      "num": 255911,
+      "word": "周迅",
+      "onboard_time": 1757231363,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236495,
       "num": 236495,
       "word": "中级会计",
@@ -561,14 +569,6 @@
       "onboard_time": 1757206643,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 221274,
-      "num": 221274,
-      "word": "周迅",
-      "onboard_time": 1757231363,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 216175,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 201438,
-      "num": 201438,
+      "num": 291695,
       "word": "女子嫁外国贫民窟求助回国系摆拍",
       "onboard_time": 1757231902,
       "rank": 22,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178753,
+      "num": 178753,
+      "word": "广东珠海全市学校停课",
+      "onboard_time": 1757232802,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176658,
       "num": 176658,
       "word": "萨巴伦卡大满贯第4冠",
@@ -699,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174367,
-      "num": 174367,
-      "word": "广东珠海全市学校停课",
-      "onboard_time": 1757232802,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 175706,
+      "num": 175706,
+      "word": "新华社研究院发布重磅报告",
+      "onboard_time": 1757231662,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174350,
@@ -779,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163648,
+      "num": 163648,
+      "word": "樊振东队长发博大赞团魂",
+      "onboard_time": 1757234301,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162019,
       "num": 162019,
       "word": "梓渝toodeep唱跳",
@@ -849,6 +865,14 @@
       "onboard_time": 1757168065,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157758,
+      "num": 178816,
+      "word": "石破茂辞职理由",
+      "onboard_time": 1757231662,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155326,
@@ -977,6 +1001,14 @@
       "onboard_time": 1757218943,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138135,
+      "num": 151734,
+      "word": "杨紫暑期档全勤王",
+      "onboard_time": 1757233161,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 137865,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1757183955,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127231,
-      "num": 151734,
-      "word": "杨紫暑期档全勤王",
-      "onboard_time": 1757233161,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 127211,
@@ -1515,14 +1539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98357,
-      "num": 98357,
-      "word": "石破茂辞职理由",
-      "onboard_time": 1757231662,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98174,
       "num": 98174,
       "word": "黄子韬说徐艺洋录个综艺做作起来了",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1757223322,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94447,
+      "num": 94447,
+      "word": "被朱珠四分钟脱口秀秀到了",
+      "onboard_time": 1757234363,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 93481,
@@ -1649,6 +1673,14 @@
       "onboard_time": 1757224822,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91076,
+      "num": 91076,
+      "word": "猫猫我已经走的很轻了呀",
+      "onboard_time": 1757234241,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 89617,
@@ -1809,6 +1841,14 @@
       "onboard_time": 1757172203,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76031,
+      "num": 112983,
+      "word": "陆毅鲍蕾送贝儿上夏校",
+      "onboard_time": 1757233221,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 75968,
@@ -2019,6 +2059,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41483,
+      "num": 98678,
+      "word": "孙心娅回应是冯绍峰女友里最好看的",
+      "onboard_time": 1757233941,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41348,
+      "num": 111804,
+      "word": "肉眼可见的血月马上要来了",
+      "onboard_time": 1757233282,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41112,
       "num": 81906,
       "word": "秋天的朋友圈文案",
@@ -2035,6 +2091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37200,
+      "num": 100560,
+      "word": "张维伊不是我找你们来的吧",
+      "onboard_time": 1757234421,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36595,
       "num": 37688,
       "word": "狐妖小红娘王权篇祝李一桐生辰快乐",
@@ -2043,12 +2107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34199,
-      "num": 111804,
-      "word": "肉眼可见的血月马上要来了",
-      "onboard_time": 1757233282,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 35138,
+      "num": 204105,
+      "word": "胡兵用20多个箱子换了两个机器人",
+      "onboard_time": 1757233101,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33046,
@@ -2105,22 +2169,6 @@
       "onboard_time": 1757220022,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21209,
-      "num": 204105,
-      "word": "胡兵用20多个箱子换了两个机器人",
-      "onboard_time": 1757233101,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21084,
-      "num": 112983,
-      "word": "陆毅鲍蕾送贝儿上夏校",
-      "onboard_time": 1757233221,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 20104,
