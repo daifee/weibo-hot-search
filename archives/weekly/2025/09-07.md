@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/07 00:27:00 ~ 2025/09/08 03:36:28
+本榜单时间：2025/09/07 00:27:00 ~ 2025/09/08 04:24:42
 </p>
 </blockquote>
 <p>
@@ -2871,6 +2871,12 @@ GAI没忍住说早了（热度：96124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%B0%B1%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E9%81%93%E6%AD%89%23" target="weibo">
+石破茂就选举失利道歉（热度：18550）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%81%AB%E9%B8%9F%E9%99%8D%E4%B8%B4%23" target="weibo">
 周笔畅火鸟降临（热度：13614）
 </a>
@@ -2891,12 +2897,6 @@ GAI没忍住说早了（热度：96124）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%97%B4%E5%A5%BD%E6%97%B6%E8%8A%82%23" target="weibo">
 人间好时节（热度：11496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%B0%B1%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E9%81%93%E6%AD%89%23" target="weibo">
-石破茂就选举失利道歉（热度：10546）
 </a>
 </li>
 

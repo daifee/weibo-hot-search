@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757273788979,
+  "endTime": 1757276682172,
   "band_list": [
     {
       "raw_hot": 3121097,
@@ -3811,6 +3811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 18550,
+      "num": 27449,
+      "word": "石破茂就选举失利道歉",
+      "onboard_time": 1757273534,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13614,
       "num": 18749,
       "word": "周笔畅火鸟降临",
@@ -3841,14 +3849,6 @@
       "onboard_time": 1757237721,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10546,
-      "num": 27449,
-      "word": "石破茂就选举失利道歉",
-      "onboard_time": 1757273534,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9473,

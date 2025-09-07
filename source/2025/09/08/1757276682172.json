@@ -1,0 +1,410 @@
+{
+  "runTime": 1757276682172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 198380,
+        "num": 198380,
+        "word": "月全食",
+        "onboard_time": 1757241440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89503,
+        "num": 89503,
+        "word": "鹿晗报喜不报忧",
+        "onboard_time": 1757262740,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9351,
+        "num": 79691,
+        "word": "阅兵的转头杀怎么这么帅",
+        "onboard_time": 1757236521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79435,
+        "num": 79435,
+        "word": "月全食直播",
+        "onboard_time": 1757257166,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74148,
+        "num": 74148,
+        "word": "血月可能有一个绿松石带",
+        "onboard_time": 1757244140,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58170,
+        "num": 58170,
+        "word": "没人通知金晨这是红毯吗",
+        "onboard_time": 1757248042,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50928,
+        "num": 50928,
+        "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
+        "onboard_time": 1757260881,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50017,
+        "num": 50017,
+        "word": "大学生呕吐系自备井蓄水池受污染",
+        "onboard_time": 1757262499,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48848,
+        "num": 48848,
+        "word": "血月拍摄攻略",
+        "onboard_time": 1757255603,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33748,
+        "num": 44222,
+        "word": "辛芷蕾首位80后三大影后",
+        "onboard_time": 1757269815,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120439,
+        "num": 43917,
+        "word": "知情人回应许嵩冯禧完婚",
+        "onboard_time": 1757261421,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42969,
+        "num": 42969,
+        "word": "黄杨钿甜中戏迎新晚会表演",
+        "onboard_time": 1757251703,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34243,
+        "num": 34243,
+        "word": "路人把李兰迪经纪人当成明星",
+        "onboard_time": 1757254282,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33010,
+        "num": 33010,
+        "word": "辽宁通报沈师大学生呕吐腹泻调查",
+        "onboard_time": 1757262379,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32665,
+        "num": 32665,
+        "word": "胡萝卜色血月",
+        "onboard_time": 1757253383,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30338,
+        "num": 30338,
+        "word": "影院女厕隔间门贴男明星照片引质疑",
+        "onboard_time": 1757260640,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29463,
+        "num": 29463,
+        "word": "深圳停课",
+        "onboard_time": 1757248882,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28535,
+        "num": 28535,
+        "word": "血月全程约3.5小时",
+        "onboard_time": 1757246721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24543,
+        "num": 27603,
+        "word": "辛芷蕾说对金钱有欲望是不想留遗憾",
+        "onboard_time": 1757259323,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20118,
+        "num": 27508,
+        "word": "张柏芝撞到刘嘉玲后相视一笑",
+        "onboard_time": 1757245280,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27449,
+        "num": 27449,
+        "word": "AG夏决冠军",
+        "onboard_time": 1757252362,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27376,
+        "num": 27376,
+        "word": "长期吃米vs长期吃面",
+        "onboard_time": 1757232141,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25585,
+        "num": 25585,
+        "word": "女子地铁拒安检多次追打工作人员",
+        "onboard_time": 1757259205,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25408,
+        "num": 25408,
+        "word": "王者荣耀",
+        "onboard_time": 1757253622,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22236,
+        "num": 22236,
+        "word": "在中国这个东西是用来占座的",
+        "onboard_time": 1757251882,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21321,
+        "num": 21321,
+        "word": "警方通报女子殴打安检员已被行拘",
+        "onboard_time": 1757258543,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20858,
+        "num": 20858,
+        "word": "还没到春晚马丽又演上小品了",
+        "onboard_time": 1757255843,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20836,
+        "num": 20836,
+        "word": "央视曝光解压软泥毒玩具",
+        "onboard_time": 1757256683,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17666,
+        "num": 20420,
+        "word": "王鹤润变化",
+        "onboard_time": 1757257344,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16267,
+        "num": 20237,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1757271854,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20082,
+        "num": 20082,
+        "word": "男子55万买房2年后才发现是凶宅",
+        "onboard_time": 1757254584,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20033,
+        "num": 20033,
+        "word": "乘客恐飞服用安眠药被赶下飞机",
+        "onboard_time": 1757253682,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19224,
+        "num": 19224,
+        "word": "小米16",
+        "onboard_time": 1757257883,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18946,
+        "num": 18946,
+        "word": "月全食时月亮为何是红色的",
+        "onboard_time": 1757272274,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18585,
+        "num": 18585,
+        "word": "石破茂热门接班人有三位",
+        "onboard_time": 1757259143,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18579,
+        "num": 18579,
+        "word": "北京可见彩云伴红月",
+        "onboard_time": 1757250862,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18550,
+        "num": 18550,
+        "word": "石破茂就选举失利道歉",
+        "onboard_time": 1757273534,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18389,
+        "num": 18389,
+        "word": "看血月最大的影响是熬夜",
+        "onboard_time": 1757269575,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17944,
+        "num": 17944,
+        "word": "朝鲜播出金正恩出席九三阅兵纪录片",
+        "onboard_time": 1757234901,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17505,
+        "num": 17505,
+        "word": "深圳天气",
+        "onboard_time": 1757247981,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16523,
+        "num": 16523,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16370,
+        "num": 16370,
+        "word": "时隔近3年再迎红月亮",
+        "onboard_time": 1757261960,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16254,
+        "num": 16254,
+        "word": "大帅FMVP",
+        "onboard_time": 1757252962,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15412,
+        "num": 16254,
+        "word": "江祖平再发文回应自曝遭性侵",
+        "onboard_time": 1757254643,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14644,
+        "num": 16251,
+        "word": "张维伊求生欲",
+        "onboard_time": 1757247622,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14506,
+        "num": 16248,
+        "word": "第一波月全食剧透照已送达",
+        "onboard_time": 1757265977,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14350,
+        "num": 16246,
+        "word": "广东多地已发布停课通知",
+        "onboard_time": 1757253923,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14262,
+        "num": 16244,
+        "word": "韩国对中国团体游客免签政策细则",
+        "onboard_time": 1757258182,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13381,
+        "num": 16242,
+        "word": "咸鱼飞升",
+        "onboard_time": 1757259563,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10368,
+        "num": 16240,
+        "word": "迈凯伦",
+        "onboard_time": 1757258483,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席金砖国家领导人线上峰会#"
+    }
+  }
+}
