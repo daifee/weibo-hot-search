@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757236955772,
+  "endTime": 1757237750466,
   "band_list": [
     {
       "raw_hot": 2410456,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2164769,
-      "num": 390964,
+      "num": 404390,
       "word": "许嵩 冯禧",
       "onboard_time": 1757221283,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1757232141,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1358223,
+      "num": 223155,
+      "word": "12306回应大量私生高铁站围堵男星",
+      "onboard_time": 1757234721,
+      "rank": 20,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1324008,
@@ -99,14 +107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1153745,
-      "num": 215582,
-      "word": "12306回应大量私生高铁站围堵男星",
-      "onboard_time": 1757234721,
-      "rank": 20,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 1138717,
       "num": 310051,
       "word": "香奈儿连发5条辛芷蕾",
@@ -145,6 +145,14 @@
       "onboard_time": 1757211801,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 827577,
+      "num": 827577,
+      "word": "朝鲜播出金正恩出席九三阅兵纪录片",
+      "onboard_time": 1757234901,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 815970,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 524459,
-      "num": 351974,
+      "num": 437832,
       "word": "张晚意李沁嫂子开门我是我哥",
       "onboard_time": 1757232441,
       "rank": 15,
@@ -348,19 +356,11 @@
     },
     {
       "raw_hot": 440881,
-      "num": 320810,
+      "num": 326003,
       "word": "周迅",
       "onboard_time": 1757231363,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 440122,
-      "num": 153045,
-      "word": "朝鲜播出金正恩出席九三阅兵纪录片",
-      "onboard_time": 1757234901,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 437544,
@@ -401,6 +401,14 @@
       "onboard_time": 1757219783,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404877,
+      "num": 404877,
+      "word": "广东珠海全市学校停课",
+      "onboard_time": 1757232802,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385497,
@@ -472,14 +480,6 @@
       "word": "女子赴美生子去世俩孩子生父成谜",
       "onboard_time": 1757227102,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342652,
-      "num": 342652,
-      "word": "广东珠海全市学校停课",
-      "onboard_time": 1757232802,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268959,
+      "num": 406979,
+      "word": "石破茂宣布辞去自民党总裁职务",
+      "onboard_time": 1757236101,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 264492,
       "num": 264492,
       "word": "生病急需钱家人发现32万做了生意",
@@ -595,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229174,
+      "num": 229174,
+      "word": "石破茂记者会",
+      "onboard_time": 1757236280,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225761,
       "num": 203945,
       "word": "郑业成赵晴在你眉梢种红豆开机",
@@ -611,20 +627,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216292,
+      "num": 216292,
+      "word": "丁程鑫刘耀文旅行回来了",
+      "onboard_time": 1757235140,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216175,
       "num": 216175,
       "word": "劝老外取消订单劝不住",
       "onboard_time": 1757164283,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214840,
-      "num": 214840,
-      "word": "丁程鑫刘耀文旅行回来了",
-      "onboard_time": 1757235140,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 214822,
@@ -763,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177354,
-      "num": 333380,
-      "word": "石破茂宣布辞去自民党总裁职务",
-      "onboard_time": 1757236101,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 176658,
       "num": 176658,
       "word": "萨巴伦卡大满贯第4冠",
@@ -793,6 +801,14 @@
       "onboard_time": 1757213600,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173077,
+      "num": 173077,
+      "word": "伞兵出发美国",
+      "onboard_time": 1757237241,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 171595,
@@ -825,14 +841,6 @@
       "onboard_time": 1757213721,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169295,
-      "num": 215700,
-      "word": "石破茂记者会",
-      "onboard_time": 1757236280,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169087,
@@ -1092,11 +1100,19 @@
     },
     {
       "raw_hot": 138135,
-      "num": 151734,
+      "num": 173647,
       "word": "杨紫暑期档全勤王",
       "onboard_time": 1757233161,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138096,
+      "num": 138096,
+      "word": "总有人点歌想害王力宏",
+      "onboard_time": 1757237601,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 137865,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1757206643,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129733,
+      "num": 129733,
+      "word": "终于知道阅兵战士每天都在吃啥了",
+      "onboard_time": 1757235202,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129435,
@@ -1323,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122939,
+      "num": 122939,
+      "word": "JDG赛点",
+      "onboard_time": 1757236702,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121643,
       "num": 121643,
       "word": "刘宇宁说造谣恶心至极",
@@ -1353,6 +1385,22 @@
       "onboard_time": 1757216783,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119508,
+      "num": 119508,
+      "word": "scout",
+      "onboard_time": 1757237601,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 118631,
+      "num": 118631,
+      "word": "一高校宿舍床直接钉在墙上",
+      "onboard_time": 1757236581,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118371,
@@ -1603,14 +1651,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 103655,
-      "num": 103655,
-      "word": "一高校宿舍床直接钉在墙上",
-      "onboard_time": 1757236581,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102415,
       "num": 102415,
       "word": "东部战区回应加澳军舰过航台湾海峡",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1757223142,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101183,
+      "num": 101183,
+      "word": "溺水意外发现潜水天赋",
+      "onboard_time": 1757237481,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 99637,
@@ -1739,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94431,
+      "num": 94431,
+      "word": "欧阳娣娣cue董思成周翊然",
+      "onboard_time": 1757237661,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93481,
       "num": 93481,
       "word": "国庆中秋假期放假安排",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1757227701,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91848,
+      "num": 91848,
+      "word": "你以为很卫生其实巨脏的行为",
+      "onboard_time": 1757235321,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 91568,
@@ -2180,7 +2244,7 @@
     },
     {
       "raw_hot": 48327,
-      "num": 111720,
+      "num": 113045,
       "word": "发现大城市生活成本比老家更低",
       "onboard_time": 1757236822,
       "rank": 38,
@@ -2345,6 +2409,14 @@
       "onboard_time": 1757188817,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11496,
+      "num": 481920,
+      "word": "人间好时节",
+      "onboard_time": 1757237721,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3943,
