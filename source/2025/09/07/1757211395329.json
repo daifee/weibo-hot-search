@@ -1,0 +1,410 @@
+{
+  "runTime": 1757211395329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2326176,
+        "num": 2326176,
+        "word": "辛芷蕾威尼斯影后",
+        "onboard_time": 1757201419,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330613,
+        "num": 330613,
+        "word": "毛主席嫡孙一家参加九三阅兵",
+        "onboard_time": 1757164103,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2934,
+        "num": 313107,
+        "word": "致敬每一位默默坚守的身影",
+        "onboard_time": 1757085263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1324008,
+        "num": 312896,
+        "word": "周迅 日掛中天",
+        "onboard_time": 1757209042,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 776703,
+        "num": 312727,
+        "word": "女子刚逃出乌就在美轻轨被刺身亡",
+        "onboard_time": 1757208022,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 312270,
+        "num": 312270,
+        "word": "这3种二维码不能扫",
+        "onboard_time": 1757209163,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018816,
+        "num": 310051,
+        "word": "香奈儿连发5条辛芷蕾",
+        "onboard_time": 1757206762,
+        "rank": 6,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 639198,
+        "num": 304924,
+        "word": "85花格局要变了",
+        "onboard_time": 1757202502,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295757,
+        "num": 295757,
+        "word": "台风塔巴将登陆广东沿海",
+        "onboard_time": 1757206222,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153074,
+        "num": 295164,
+        "word": "近20人假冒国安闯入公园挖地寻宝",
+        "onboard_time": 1757205980,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603646,
+        "num": 294077,
+        "word": "游客掉入趵突泉",
+        "onboard_time": 1757206101,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598419,
+        "num": 291716,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 478666,
+        "num": 289824,
+        "word": "日掛中天",
+        "onboard_time": 1757200458,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452885,
+        "num": 289261,
+        "word": "刘冲VOGUE拍早了",
+        "onboard_time": 1757201779,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 392908,
+        "num": 286423,
+        "word": "关晓彤ins晒比基尼照",
+        "onboard_time": 1757202258,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286187,
+        "num": 286187,
+        "word": "武汉警方通报24岁男子驾车致7伤",
+        "onboard_time": 1757208143,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 271734,
+        "num": 271734,
+        "word": "赵涛撕奖能力",
+        "onboard_time": 1757202679,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221669,
+        "num": 221669,
+        "word": "裸眼3D看受阅空中梯队",
+        "onboard_time": 1757206643,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215507,
+        "num": 215507,
+        "word": "骑手称配送死鳄鱼结果半路活了",
+        "onboard_time": 1757171004,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182356,
+        "num": 182356,
+        "word": "袁隆平诞辰95年",
+        "onboard_time": 1757202199,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661448,
+        "num": 182332,
+        "word": "王琳怀孕高烧父母看望只待了15分钟",
+        "onboard_time": 1757202139,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257583,
+        "num": 182326,
+        "word": "原来鬼压床是睡眠瘫痪症",
+        "onboard_time": 1757205201,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241692,
+        "num": 182305,
+        "word": "赵涛评委",
+        "onboard_time": 1757174363,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182266,
+        "num": 182266,
+        "word": "王楚钦澳门逛街买衣服",
+        "onboard_time": 1757209462,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171247,
+        "num": 171247,
+        "word": "一觉醒来中国航天又发射了",
+        "onboard_time": 1757204060,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157474,
+        "num": 157474,
+        "word": "劝老外取消订单劝不住",
+        "onboard_time": 1757164283,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144529,
+        "num": 144529,
+        "word": "确诊为轻微智障的5个表现",
+        "onboard_time": 1757202439,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131059,
+        "num": 131059,
+        "word": "台风塔巴生成",
+        "onboard_time": 1757203641,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128250,
+        "num": 128250,
+        "word": "拍一拍红月亮",
+        "onboard_time": 1757207902,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124388,
+        "num": 124388,
+        "word": "张杰一进来谢娜就说这个可以收编了",
+        "onboard_time": 1757206643,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124343,
+        "num": 124343,
+        "word": "德媒感慨樊振东影响力巨大",
+        "onboard_time": 1757211022,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121305,
+        "num": 121305,
+        "word": "2岁男孩被爷爷女友带走后遗弃",
+        "onboard_time": 1757201299,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121097,
+        "num": 121097,
+        "word": "KPL",
+        "onboard_time": 1757211141,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118371,
+        "num": 118371,
+        "word": "刘宇宁说多人托关系要自己演唱会票",
+        "onboard_time": 1757205201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117371,
+        "num": 117371,
+        "word": "生病急需钱家人发现32万做了生意",
+        "onboard_time": 1757169023,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103370,
+        "num": 103370,
+        "word": "24岁男子驾车致7伤被抓",
+        "onboard_time": 1757210541,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103026,
+        "num": 103026,
+        "word": "宝妈花2万住月子中心遭虫爬身",
+        "onboard_time": 1757168065,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102069,
+        "num": 102069,
+        "word": "87岁老人陪伴犬被邻居虐杀",
+        "onboard_time": 1757205681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100822,
+        "num": 100822,
+        "word": "老人猥亵女性因高龄患绝症未被拘留",
+        "onboard_time": 1757171903,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93232,
+        "num": 93232,
+        "word": "俱乐部说樊振东立下关键战功",
+        "onboard_time": 1757210843,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92882,
+        "num": 92882,
+        "word": "詹姆斯随梦八入选名人堂",
+        "onboard_time": 1757209462,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92545,
+        "num": 92545,
+        "word": "白露",
+        "onboard_time": 1757202139,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91349,
+        "num": 91349,
+        "word": "为什么现在结节的人越来越多",
+        "onboard_time": 1757203462,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88820,
+        "num": 88820,
+        "word": "月全食",
+        "onboard_time": 1757155101,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88737,
+        "num": 88737,
+        "word": "美国防部改名或涉70多万处设施",
+        "onboard_time": 1757210962,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88626,
+        "num": 88626,
+        "word": "遥感四十号03组卫星发射成功",
+        "onboard_time": 1757200277,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85302,
+        "num": 85302,
+        "word": "今日16时51分白露",
+        "onboard_time": 1757208321,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84449,
+        "num": 84449,
+        "word": "又是被中国排面硬控的一天",
+        "onboard_time": 1757210361,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84284,
+        "num": 84284,
+        "word": "日掛中天被召回",
+        "onboard_time": 1757203580,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83136,
+        "num": 83136,
+        "word": "亚裔女子在泰被沉尸",
+        "onboard_time": 1757170824,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界正气充盈乾坤朗朗#"
+    }
+  }
+}

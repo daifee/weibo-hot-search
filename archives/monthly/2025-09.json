@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757210133105,
+  "endTime": 1757211395329,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1324008,
+      "num": 312896,
+      "word": "周迅 日掛中天",
+      "onboard_time": 1757209042,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1310808,
       "num": 1310808,
       "word": "网络空间部队",
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 1138717,
-      "num": 228576,
+      "num": 310051,
       "word": "香奈儿连发5条辛芷蕾",
       "onboard_time": 1757206762,
       "rank": 5,
@@ -1556,7 +1564,7 @@
     },
     {
       "raw_hot": 809172,
-      "num": 179311,
+      "num": 182332,
       "word": "王琳怀孕高烧父母看望只待了15分钟",
       "onboard_time": 1757202139,
       "rank": 20,
@@ -1651,8 +1659,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 771968,
-      "num": 276366,
+      "raw_hot": 776703,
+      "num": 312727,
       "word": "女子刚逃出乌就在美轻轨被刺身亡",
       "onboard_time": 1757208022,
       "rank": 3,
@@ -2067,14 +2075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 658876,
-      "num": 228435,
-      "word": "周迅 日掛中天",
-      "onboard_time": 1757209042,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 652520,
       "num": 652520,
       "word": "一觉醒来郭帆白改了",
@@ -2097,6 +2097,14 @@
       "onboard_time": 1757067322,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 639198,
+      "num": 304924,
+      "word": "85花格局要变了",
+      "onboard_time": 1757202502,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 630663,
@@ -2172,19 +2180,11 @@
     },
     {
       "raw_hot": 622350,
-      "num": 213420,
+      "num": 294077,
       "word": "游客掉入趵突泉",
       "onboard_time": 1757206101,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 622071,
-      "num": 227410,
-      "word": "85花格局要变了",
-      "onboard_time": 1757202502,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 622041,
@@ -2804,7 +2804,7 @@
     },
     {
       "raw_hot": 517316,
-      "num": 210616,
+      "num": 289824,
       "word": "日掛中天",
       "onboard_time": 1757200458,
       "rank": 28,
@@ -3124,7 +3124,7 @@
     },
     {
       "raw_hot": 468314,
-      "num": 207545,
+      "num": 289261,
       "word": "刘冲VOGUE拍早了",
       "onboard_time": 1757201779,
       "rank": 30,
@@ -3803,6 +3803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 392908,
+      "num": 286423,
+      "word": "关晓彤ins晒比基尼照",
+      "onboard_time": 1757202258,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390983,
       "num": 277112,
       "word": "杨紫或登VOGUE银十",
@@ -4227,14 +4235,6 @@
       "category": "艺人,国内时政"
     },
     {
-      "raw_hot": 352719,
-      "num": 204604,
-      "word": "关晓彤ins晒比基尼照",
-      "onboard_time": 1757202258,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 352545,
       "num": 368975,
       "word": "我陆海空基战略核力量首次集中展示",
@@ -4452,7 +4452,7 @@
     },
     {
       "raw_hot": 335236,
-      "num": 194610,
+      "num": 271734,
       "word": "赵涛撕奖能力",
       "onboard_time": 1757202679,
       "rank": 17,
@@ -4739,6 +4739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 312270,
+      "num": 312270,
+      "word": "这3种二维码不能扫",
+      "onboard_time": 1757209163,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312131,
       "num": 618815,
       "word": "众星发文悼念阿玛尼先生",
@@ -4852,7 +4860,7 @@
     },
     {
       "raw_hot": 302879,
-      "num": 178355,
+      "num": 182326,
       "word": "原来鬼压床是睡眠瘫痪症",
       "onboard_time": 1757205201,
       "rank": 21,
@@ -4953,6 +4961,14 @@
       "onboard_time": 1756696580,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295757,
+      "num": 295757,
+      "word": "台风塔巴将登陆广东沿海",
+      "onboard_time": 1757206222,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295125,
@@ -5057,6 +5073,14 @@
       "onboard_time": 1756890805,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 286187,
+      "num": 286187,
+      "word": "武汉警方通报24岁男子驾车致7伤",
+      "onboard_time": 1757208143,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 285977,
@@ -6067,14 +6091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230710,
-      "num": 230710,
-      "word": "这3种二维码不能扫",
-      "onboard_time": 1757209163,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230621,
       "num": 203688,
       "word": "周翊然果郡王",
@@ -6187,14 +6203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226329,
-      "num": 226329,
-      "word": "台风塔巴将登陆广东沿海",
-      "onboard_time": 1757206222,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225756,
       "num": 194739,
       "word": "女子遭前夫殴打致肠破裂住进ICU",
@@ -6249,6 +6257,14 @@
       "onboard_time": 1756817122,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221669,
+      "num": 221669,
+      "word": "裸眼3D看受阅空中梯队",
+      "onboard_time": 1757206643,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221454,
@@ -6657,14 +6673,6 @@
       "onboard_time": 1756982902,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204320,
-      "num": 204320,
-      "word": "裸眼3D看受阅空中梯队",
-      "onboard_time": 1757206643,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 203805,
@@ -7667,12 +7675,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182356,
+      "num": 182356,
+      "word": "袁隆平诞辰95年",
+      "onboard_time": 1757202199,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182300,
       "num": 182300,
       "word": "中元节冷知识",
       "onboard_time": 1757131461,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182266,
+      "num": 182266,
+      "word": "王楚钦澳门逛街买衣服",
+      "onboard_time": 1757209462,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 182207,
@@ -7779,14 +7803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179614,
-      "num": 179614,
-      "word": "袁隆平诞辰95年",
-      "onboard_time": 1757202199,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179507,
       "num": 179507,
       "word": "日军被爆曾计划在中国东北进行屠杀",
@@ -7865,14 +7881,6 @@
       "onboard_time": 1756784421,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176862,
-      "num": 176862,
-      "word": "武汉警方通报24岁男子驾车致7伤",
-      "onboard_time": 1757208143,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 176658,
@@ -8121,6 +8129,14 @@
       "onboard_time": 1757046023,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171247,
+      "num": 171247,
+      "word": "一觉醒来中国航天又发射了",
+      "onboard_time": 1757204060,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171210,
@@ -8593,14 +8609,6 @@
       "onboard_time": 1757065581,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 162939,
-      "num": 162939,
-      "word": "王楚钦澳门逛街买衣服",
-      "onboard_time": 1757209462,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 162565,
@@ -9217,6 +9225,14 @@
       "onboard_time": 1757139140,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153074,
+      "num": 295164,
+      "word": "近20人假冒国安闯入公园挖地寻宝",
+      "onboard_time": 1757205980,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153014,
@@ -10275,28 +10291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138971,
-      "num": 138971,
-      "word": "一觉醒来中国航天又发射了",
-      "onboard_time": 1757204060,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 138458,
       "num": 221537,
       "word": "胡一天给田曦薇戴围巾路透",
       "onboard_time": 1756987702,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138414,
-      "num": 208977,
-      "word": "近20人假冒国安闯入公园挖地寻宝",
-      "onboard_time": 1757205980,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138396,
@@ -10809,6 +10809,14 @@
       "onboard_time": 1757067681,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 131059,
+      "num": 131059,
+      "word": "台风塔巴生成",
+      "onboard_time": 1757203641,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130976,
@@ -11427,6 +11435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124343,
+      "num": 124343,
+      "word": "德媒感慨樊振东影响力巨大",
+      "onboard_time": 1757211022,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124290,
       "num": 211572,
       "word": "A股成交额2.75万亿缩量483亿",
@@ -11496,14 +11512,6 @@
       "word": "深圳已有超200所中小学实现午休躺睡",
       "onboard_time": 1757053521,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123487,
-      "num": 123487,
-      "word": "台风塔巴生成",
-      "onboard_time": 1757203641,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -11729,6 +11737,14 @@
       "onboard_time": 1757064560,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121097,
+      "num": 121097,
+      "word": "KPL",
+      "onboard_time": 1757211141,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 121077,
@@ -11977,6 +11993,14 @@
       "onboard_time": 1757147841,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118371,
+      "num": 118371,
+      "word": "刘宇宁说多人托关系要自己演唱会票",
+      "onboard_time": 1757205201,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 118277,
@@ -12851,14 +12875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109625,
-      "num": 109625,
-      "word": "刘宇宁说多人托关系要自己演唱会票",
-      "onboard_time": 1757205201,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109548,
       "num": 109548,
       "word": "詹姆斯成都双子塔前戴皇冠",
@@ -13451,6 +13467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103370,
+      "num": 103370,
+      "word": "24岁男子驾车致7伤被抓",
+      "onboard_time": 1757210541,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103300,
       "num": 103300,
       "word": "苹果春晚前瞻",
@@ -13593,6 +13617,14 @@
       "onboard_time": 1757136860,
       "rank": 38,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 102069,
+      "num": 102069,
+      "word": "87岁老人陪伴犬被邻居虐杀",
+      "onboard_time": 1757205681,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102044,
@@ -13793,14 +13825,6 @@
       "onboard_time": 1757151321,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 99666,
-      "num": 99666,
-      "word": "87岁老人陪伴犬被邻居虐杀",
-      "onboard_time": 1757205681,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99650,
@@ -14419,6 +14443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93232,
+      "num": 93232,
+      "word": "俱乐部说樊振东立下关键战功",
+      "onboard_time": 1757210843,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93222,
       "num": 93222,
       "word": "今天起调整下睡觉姿势",
@@ -14449,6 +14481,14 @@
       "onboard_time": 1757203039,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92882,
+      "num": 92882,
+      "word": "詹姆斯随梦八入选名人堂",
+      "onboard_time": 1757209462,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 92803,
@@ -14785,6 +14825,14 @@
       "onboard_time": 1756714701,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88737,
+      "num": 88737,
+      "word": "美国防部改名或涉70多万处设施",
+      "onboard_time": 1757210962,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88582,
@@ -15243,14 +15291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 84738,
-      "num": 89725,
-      "word": "詹姆斯随梦八入选名人堂",
-      "onboard_time": 1757209462,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84637,
       "num": 84637,
       "word": "张晚意对那英说来吧孩儿",
@@ -15265,6 +15305,14 @@
       "onboard_time": 1756652124,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84449,
+      "num": 84449,
+      "word": "又是被中国排面硬控的一天",
+      "onboard_time": 1757210361,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84369,
