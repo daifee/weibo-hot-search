@@ -1,0 +1,410 @@
+{
+  "runTime": 1757249887846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2592690,
+        "num": 2592690,
+        "word": "血月",
+        "onboard_time": 1757243421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1542358,
+        "num": 1542358,
+        "word": "月全食",
+        "onboard_time": 1757241440,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16523,
+        "num": 876042,
+        "word": "又是被中国排面硬控的一天",
+        "onboard_time": 1757210361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633966,
+        "num": 633966,
+        "word": "深圳天气",
+        "onboard_time": 1757247981,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615625,
+        "num": 615625,
+        "word": "深圳停课",
+        "onboard_time": 1757248882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576388,
+        "num": 576388,
+        "word": "张柏芝撞到刘嘉玲后相视一笑",
+        "onboard_time": 1757245280,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462730,
+        "num": 462730,
+        "word": "朝鲜播出金正恩出席九三阅兵纪录片",
+        "onboard_time": 1757234901,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 439464,
+        "num": 439464,
+        "word": "血月全程约3.5小时",
+        "onboard_time": 1757246721,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315449,
+        "num": 315449,
+        "word": "黄子韬首谈决定求婚的原因",
+        "onboard_time": 1757244442,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286435,
+        "num": 286435,
+        "word": "血月可能有一个绿松石带",
+        "onboard_time": 1757244140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882288,
+        "num": 283679,
+        "word": "三问武汉大学座椅标签事件",
+        "onboard_time": 1757246420,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518381,
+        "num": 282629,
+        "word": "冯禧刚毕业就搭档何老师参加hi6",
+        "onboard_time": 1757245460,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398506,
+        "num": 281819,
+        "word": "长期吃米vs长期吃面",
+        "onboard_time": 1757232141,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275126,
+        "num": 275126,
+        "word": "女子吐槽羊排肥肉多被起诉赔6000",
+        "onboard_time": 1757244921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225210,
+        "num": 225210,
+        "word": "月全食时间表",
+        "onboard_time": 1757242821,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219410,
+        "num": 219410,
+        "word": "AG对战WB",
+        "onboard_time": 1757239581,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193073,
+        "num": 193073,
+        "word": "红发完全是鹿晗的统治区",
+        "onboard_time": 1757249002,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185530,
+        "num": 185530,
+        "word": "石破茂决意辞职",
+        "onboard_time": 1757226680,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182174,
+        "num": 182174,
+        "word": "血月对人体有什么影响",
+        "onboard_time": 1757224342,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179298,
+        "num": 179298,
+        "word": "张远KPL中场秀",
+        "onboard_time": 1757248642,
+        "rank": 19,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 873793,
+        "num": 176562,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572336,
+        "num": 174029,
+        "word": "12306回应大量私生高铁站围堵男星",
+        "onboard_time": 1757234721,
+        "rank": 21,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 543832,
+        "num": 171855,
+        "word": "没人通知金晨这是红毯吗",
+        "onboard_time": 1757248042,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393655,
+        "num": 168266,
+        "word": "辛芷蕾听完英文提问的反应",
+        "onboard_time": 1757233401,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262811,
+        "num": 164173,
+        "word": "孙心娅回应是冯绍峰女友里最好看的",
+        "onboard_time": 1757233941,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188286,
+        "num": 161740,
+        "word": "张艺兴飞奔赶高铁",
+        "onboard_time": 1757238441,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181588,
+        "num": 157454,
+        "word": "刘轩丞表情管理课没白上",
+        "onboard_time": 1757249303,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156234,
+        "num": 156234,
+        "word": "张远 开不开心",
+        "onboard_time": 1757248882,
+        "rank": 27,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 140210,
+        "num": 140210,
+        "word": "戴口罩的陈芋汐完全认不出",
+        "onboard_time": 1757247981,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74920,
+        "num": 137602,
+        "word": "用手机拍月全食怎样最出片",
+        "onboard_time": 1757249542,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146998,
+        "num": 137307,
+        "word": "苏超盐城2比1苏州",
+        "onboard_time": 1757248942,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136417,
+        "num": 136417,
+        "word": "上海百年老洋房降价5334万再流拍",
+        "onboard_time": 1757244140,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135859,
+        "num": 135859,
+        "word": "苏超",
+        "onboard_time": 1757249062,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132924,
+        "num": 132924,
+        "word": "萧敬腾老婆晒裤子破洞照",
+        "onboard_time": 1757248582,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127435,
+        "num": 129380,
+        "word": "白露听白鹿",
+        "onboard_time": 1757247442,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128939,
+        "num": 128939,
+        "word": "辛芷蕾影史留名",
+        "onboard_time": 1757249002,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127658,
+        "num": 127658,
+        "word": "BLG让二追三JDG",
+        "onboard_time": 1757242161,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120684,
+        "num": 120684,
+        "word": "张维伊求生欲",
+        "onboard_time": 1757247622,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118904,
+        "num": 118904,
+        "word": "朝鲜驻华使馆内部首次公开",
+        "onboard_time": 1757246782,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 7595,
+        "num": 117436,
+        "word": "学姐让我住上了精装修宿舍",
+        "onboard_time": 1757249722,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116038,
+        "num": 116038,
+        "word": "刘思远 律师版杨天真",
+        "onboard_time": 1757247922,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116013,
+        "num": 116013,
+        "word": "周启豪2比4户上隼辅",
+        "onboard_time": 1757248582,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113117,
+        "num": 113117,
+        "word": "她一天做了我一辈子的工作",
+        "onboard_time": 1757248642,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111806,
+        "num": 111806,
+        "word": "孙颖莎澳门冠军赛首轮战19岁小将",
+        "onboard_time": 1757249243,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109933,
+        "num": 109933,
+        "word": "湘超",
+        "onboard_time": 1757248522,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105461,
+        "num": 105461,
+        "word": "蒋一侨爆料自己爸爸怕老婆",
+        "onboard_time": 1757246001,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102985,
+        "num": 102985,
+        "word": "大帅决赛不死战神",
+        "onboard_time": 1757249542,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100869,
+        "num": 100869,
+        "word": "灵儿一拳一个KPL决赛嘉宾",
+        "onboard_time": 1757248762,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100219,
+        "num": 100219,
+        "word": "王源直播",
+        "onboard_time": 1757244861,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99124,
+        "num": 99124,
+        "word": "苹果 果张力",
+        "onboard_time": 1757247442,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一握情深意重#"
+    }
+  }
+}
