@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757230632305,
+  "endTime": 1757233699582,
   "band_list": [
     {
       "raw_hot": 2410456,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2164769,
-      "num": 307385,
+      "num": 390964,
       "word": "许嵩 冯禧",
       "onboard_time": 1757221283,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1018845,
-      "num": 306700,
+      "num": 379544,
       "word": "彭昱畅 急诊",
       "onboard_time": 1757222362,
       "rank": 28,
@@ -123,12 +123,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 815970,
+      "num": 1130555,
+      "word": "工作后才知道苹果是最好的水果",
+      "onboard_time": 1757225662,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 809172,
       "num": 203962,
       "word": "王琳怀孕高烧父母看望只待了15分钟",
       "onboard_time": 1757202139,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 786150,
+      "num": 786150,
+      "word": "辛芷蕾听完英文提问的反应",
+      "onboard_time": 1757233401,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 776703,
@@ -195,14 +211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 575498,
-      "num": 575498,
-      "word": "工作后才知道苹果是最好的水果",
-      "onboard_time": 1757225662,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 555915,
       "num": 225847,
       "word": "关晓彤ins更新",
@@ -257,6 +265,22 @@
       "onboard_time": 1757219002,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481848,
+      "num": 481848,
+      "word": "美总统威胁要与一美国城市开战",
+      "onboard_time": 1757229022,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 478146,
+      "num": 399697,
+      "word": "王牌对王牌回应彭昱畅送急诊",
+      "onboard_time": 1757229981,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 476133,
@@ -339,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389193,
+      "num": 389193,
+      "word": "长期吃米vs长期吃面",
+      "onboard_time": 1757232141,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 385497,
       "num": 385497,
       "word": "美国出动10架F35",
@@ -385,6 +417,14 @@
       "onboard_time": 1757215401,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363025,
+      "num": 363025,
+      "word": "25岁到47岁的衰老全过程",
+      "onboard_time": 1757228542,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 359898,
@@ -451,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284937,
+      "num": 284937,
+      "word": "张晚意李沁嫂子开门我是我哥",
+      "onboard_time": 1757232441,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280164,
       "num": 280164,
       "word": "张晚意晕船晕成韩红了",
@@ -465,14 +513,6 @@
       "onboard_time": 1757168185,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265717,
-      "num": 265717,
-      "word": "25岁到47岁的衰老全过程",
-      "onboard_time": 1757228542,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 264492,
@@ -523,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221274,
+      "num": 221274,
+      "word": "周迅",
+      "onboard_time": 1757231363,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216175,
       "num": 216175,
       "word": "劝老外取消订单劝不住",
@@ -539,12 +587,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 211787,
+      "num": 307160,
+      "word": "今晚邀你一起看红月",
+      "onboard_time": 1757226023,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203101,
       "num": 203101,
       "word": "GAI在前面跑演唱会在后面追",
       "onboard_time": 1757214082,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201438,
+      "num": 201438,
+      "word": "女子嫁外国贫民窟求助回国系摆拍",
+      "onboard_time": 1757231902,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199809,
@@ -603,20 +667,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184066,
-      "num": 307160,
-      "word": "今晚邀你一起看红月",
-      "onboard_time": 1757226023,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182356,
       "num": 182356,
       "word": "袁隆平诞辰95年",
       "onboard_time": 1757202199,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180502,
+      "num": 180502,
+      "word": "BLG对战JDG",
+      "onboard_time": 1757228182,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 179941,
@@ -635,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174367,
+      "num": 174367,
+      "word": "广东珠海全市学校停课",
+      "onboard_time": 1757232802,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174350,
       "num": 168641,
       "word": "张晚意 内核强大又自洽",
@@ -643,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172290,
-      "num": 155109,
-      "word": "美总统威胁要与一美国城市开战",
-      "onboard_time": 1757229022,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 171595,
+      "num": 171595,
+      "word": "经济法",
+      "onboard_time": 1757232742,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 171285,
@@ -843,20 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149367,
-      "num": 149367,
-      "word": "BLG对战JDG",
-      "onboard_time": 1757228182,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 148998,
-      "num": 170771,
-      "word": "王牌对王牌回应彭昱畅送急诊",
-      "onboard_time": 1757229981,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 144010,
+      "num": 144010,
+      "word": "美国一妇女发文炫耀自家狗成选民",
+      "onboard_time": 1757232742,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143712,
@@ -1035,12 +1099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127772,
+      "num": 152707,
+      "word": "赵晴新剧开机状态",
+      "onboard_time": 1757230041,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127513,
       "num": 127513,
       "word": "樊振东收获德甲两连胜",
       "onboard_time": 1757183955,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127231,
+      "num": 151734,
+      "word": "杨紫暑期档全勤王",
+      "onboard_time": 1757233161,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 127211,
@@ -1211,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114012,
+      "num": 114012,
+      "word": "孙颖莎首轮对阵赫尔希",
+      "onboard_time": 1757233043,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113099,
       "num": 113099,
       "word": "解说谈樊振东孤身征战德甲",
@@ -1219,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112710,
+      "num": 112710,
+      "word": "怪不得撒谎是小狗",
+      "onboard_time": 1757230882,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111891,
       "num": 111891,
       "word": "白露",
       "onboard_time": 1757202139,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111737,
+      "num": 111737,
+      "word": "兰州人一天吃几十万碗牛肉面",
+      "onboard_time": 1757231781,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 109132,
@@ -1299,12 +1403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105290,
-      "num": 105290,
-      "word": "赵晴新剧开机状态",
-      "onboard_time": 1757230041,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 106067,
+      "num": 106067,
+      "word": "女子赴美生子去世后外公申请监护权",
+      "onboard_time": 1757227282,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104716,
@@ -1364,7 +1468,7 @@
     },
     {
       "raw_hot": 101878,
-      "num": 101878,
+      "num": 151181,
       "word": "小北的淘汰感言",
       "onboard_time": 1757229861,
       "rank": 33,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1757223142,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99637,
+      "num": 366900,
+      "word": "日自民党8日决定是否提前选举总裁",
+      "onboard_time": 1757233221,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99329,
@@ -1393,6 +1505,22 @@
       "onboard_time": 1757225783,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98559,
+      "num": 98559,
+      "word": "中国猫砂在美国杀疯了",
+      "onboard_time": 1757231122,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98357,
+      "num": 98357,
+      "word": "石破茂辞职理由",
+      "onboard_time": 1757231662,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98174,
@@ -1529,14 +1657,6 @@
       "onboard_time": 1757175203,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89056,
-      "num": 89056,
-      "word": "女子赴美生子去世后外公申请监护权",
-      "onboard_time": 1757227282,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88737,
@@ -1795,6 +1915,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55505,
+      "num": 207183,
+      "word": "多名初中女生欺凌同学警方立案",
+      "onboard_time": 1757232500,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55073,
+      "num": 111741,
+      "word": "李沁杠铃般的笑声",
+      "onboard_time": 1757231421,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54964,
       "num": 61330,
       "word": "有些体味是疾病信号",
@@ -1892,7 +2028,7 @@
     },
     {
       "raw_hot": 39457,
-      "num": 643335,
+      "num": 779658,
       "word": "从袁梦到圆梦",
       "onboard_time": 1757206222,
       "rank": 2,
@@ -1905,6 +2041,14 @@
       "onboard_time": 1757182936,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34199,
+      "num": 111804,
+      "word": "肉眼可见的血月马上要来了",
+      "onboard_time": 1757233282,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33046,
@@ -1961,6 +2105,22 @@
       "onboard_time": 1757220022,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21209,
+      "num": 204105,
+      "word": "胡兵用20多个箱子换了两个机器人",
+      "onboard_time": 1757233101,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21084,
+      "num": 112983,
+      "word": "陆毅鲍蕾送贝儿上夏校",
+      "onboard_time": 1757233221,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 20104,
