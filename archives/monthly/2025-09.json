@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757251569602,
+  "endTime": 1757252231639,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -531,8 +531,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1758273,
-      "num": 1758273,
+      "raw_hot": 1781797,
+      "num": 1781797,
       "word": "月全食",
       "onboard_time": 1757155101,
       "rank": 36,
@@ -2043,6 +2043,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 703400,
+      "num": 703400,
+      "word": "AG对战WB",
+      "onboard_time": 1757239581,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 702775,
       "num": 1247484,
       "word": "检阅部队",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1757217261,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 642099,
+      "num": 642099,
+      "word": "没人通知金晨这是红毯吗",
+      "onboard_time": 1757248042,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 639198,
@@ -2793,14 +2809,6 @@
       "onboard_time": 1756891403,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 543832,
-      "num": 507452,
-      "word": "没人通知金晨这是红毯吗",
-      "onboard_time": 1757248042,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 543469,
@@ -5659,6 +5667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282332,
+      "num": 282332,
+      "word": "代号鸢",
+      "onboard_time": 1757134102,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282130,
       "num": 245684,
       "word": "阅兵圆满成功台湾艺人纷纷表态",
@@ -5825,14 +5841,6 @@
       "onboard_time": 1756718661,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272947,
-      "num": 272947,
-      "word": "代号鸢",
-      "onboard_time": 1757134102,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 272902,
@@ -6259,6 +6267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244467,
+      "num": 244467,
+      "word": "黄杨钿甜中戏迎新晚会表演",
+      "onboard_time": 1757251703,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244090,
       "num": 244090,
       "word": "易会满履历",
@@ -6441,14 +6457,6 @@
       "onboard_time": 1756860326,
       "rank": 38,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 237234,
-      "num": 237234,
-      "word": "AG对战WB",
-      "onboard_time": 1757239581,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 237228,
@@ -7579,6 +7587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196410,
+      "num": 196410,
+      "word": "张维伊求生欲",
+      "onboard_time": 1757247622,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196356,
       "num": 196356,
       "word": "王楚钦提升北大体育声誉",
@@ -7995,6 +8011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188610,
+      "num": 188610,
+      "word": "听潮阁",
+      "onboard_time": 1757249963,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188436,
       "num": 188436,
       "word": "外婆一大把年纪还吃上了空投",
@@ -8243,14 +8267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184339,
-      "num": 184339,
-      "word": "张维伊求生欲",
-      "onboard_time": 1757247622,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184119,
       "num": 266633,
       "word": "张晚意不富裕但慷慨",
@@ -8497,6 +8513,14 @@
       "onboard_time": 1756988602,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178677,
+      "num": 171860,
+      "word": "白露后要注意调理气血了",
+      "onboard_time": 1757251943,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178110,
@@ -8811,6 +8835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171336,
+      "num": 171336,
+      "word": "苏州2比3盐城",
+      "onboard_time": 1757251223,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171285,
       "num": 174777,
       "word": "央视起底多地机械车位遭闲置",
@@ -8825,6 +8857,14 @@
       "onboard_time": 1757204060,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171214,
+      "num": 171214,
+      "word": "沈佳润今天是美美sunday",
+      "onboard_time": 1757251764,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 171210,
@@ -9697,14 +9737,6 @@
       "onboard_time": 1757075480,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157961,
-      "num": 157961,
-      "word": "听潮阁",
-      "onboard_time": 1757249963,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 157956,
@@ -10611,14 +10643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 147083,
-      "num": 147083,
-      "word": "苏州2比3盐城",
-      "onboard_time": 1757251223,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147039,
       "num": 150731,
       "word": "易烊千玺收官站",
@@ -10689,6 +10713,14 @@
       "onboard_time": 1757052982,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146410,
+      "num": 146410,
+      "word": "被鹿晗媚晕了",
+      "onboard_time": 1757251101,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 146353,
@@ -11137,6 +11169,14 @@
       "onboard_time": 1756955724,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140712,
+      "num": 140712,
+      "word": "梦泪Cat现场复刻AG名场面",
+      "onboard_time": 1757251101,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 140666,
@@ -11795,6 +11835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133688,
+      "num": 133688,
+      "word": "湘超",
+      "onboard_time": 1757248522,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133526,
       "num": 124922,
       "word": "皮肤6种变化可能是癌症信号",
@@ -11939,14 +11987,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131581,
-      "num": 131581,
-      "word": "湘超",
-      "onboard_time": 1757248522,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131557,
       "num": 146821,
       "word": "一代人有一代人的电子萌宠",
@@ -12033,6 +12073,14 @@
       "onboard_time": 1757038941,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130508,
+      "num": 130508,
+      "word": "蒋一侨爆料自己爸爸怕老婆",
+      "onboard_time": 1757246001,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 130484,
@@ -12353,14 +12401,6 @@
       "onboard_time": 1757211561,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127900,
-      "num": 127900,
-      "word": "蒋一侨爆料自己爸爸怕老婆",
-      "onboard_time": 1757246001,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 127833,
@@ -13275,6 +13315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118757,
+      "num": 118757,
+      "word": "RW季后赛再下一鸡",
+      "onboard_time": 1757251583,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118740,
       "num": 162745,
       "word": "谢娜为一家人操碎了心",
@@ -13329,6 +13377,14 @@
       "onboard_time": 1757147841,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118382,
+      "num": 118382,
+      "word": "蔡文静穿着青花瓷走红毯",
+      "onboard_time": 1757252063,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 118371,
@@ -14171,14 +14227,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 111420,
-      "num": 113597,
-      "word": "被鹿晗媚晕了",
-      "onboard_time": 1757251101,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 111400,
       "num": 111400,
       "word": "风箫环球之旅plog",
@@ -14435,6 +14483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109320,
+      "num": 109320,
+      "word": "杨博文又在飞机上写作业",
+      "onboard_time": 1757252182,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109132,
       "num": 109132,
       "word": "WTT",
@@ -14665,6 +14721,14 @@
       "onboard_time": 1756947323,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107107,
+      "num": 107107,
+      "word": "美国抓捕300余名韩国工程师",
+      "onboard_time": 1757252063,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107054,
@@ -15057,6 +15121,14 @@
       "onboard_time": 1757051602,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103831,
+      "num": 119084,
+      "word": "中国驻日大使馆用日语介绍东风5C",
+      "onboard_time": 1757252063,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103768,
@@ -17235,6 +17307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 84199,
+      "num": 344788,
+      "word": "北京可见彩云伴红月",
+      "onboard_time": 1757250862,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84109,
       "num": 105698,
       "word": "让你头发更好看的技巧",
@@ -19091,14 +19171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56486,
-      "num": 344788,
-      "word": "北京可见彩云伴红月",
-      "onboard_time": 1757250862,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56159,
       "num": 325876,
       "word": "郭艾伦祝韩德君一切顺利",
@@ -20089,6 +20161,14 @@
       "onboard_time": 1756693279,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32868,
+      "num": 119636,
+      "word": "在中国这个东西是用来占座的",
+      "onboard_time": 1757251882,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 32692,

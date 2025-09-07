@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757251569602,
+  "endTime": 1757252231639,
   "band_list": [
     {
       "raw_hot": 2949615,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1758273,
-      "num": 1758273,
+      "raw_hot": 1781797,
+      "num": 1781797,
       "word": "月全食",
       "onboard_time": 1757155101,
       "rank": 5,
@@ -243,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703400,
+      "num": 703400,
+      "word": "AG对战WB",
+      "onboard_time": 1757239581,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 645692,
       "num": 645692,
       "word": "结婚一年确诊了免疫系统疾病",
       "onboard_time": 1757217261,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 642099,
+      "num": 642099,
+      "word": "没人通知金晨这是红毯吗",
+      "onboard_time": 1757248042,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 639198,
@@ -313,14 +329,6 @@
       "onboard_time": 1757168244,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543832,
-      "num": 507452,
-      "word": "没人通知金晨这是红毯吗",
-      "onboard_time": 1757248042,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 541515,
@@ -707,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282332,
+      "num": 282332,
+      "word": "代号鸢",
+      "onboard_time": 1757250383,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280164,
       "num": 280164,
       "word": "张晚意晕船晕成韩红了",
@@ -721,14 +737,6 @@
       "onboard_time": 1757237601,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 272947,
-      "num": 272947,
-      "word": "代号鸢",
-      "onboard_time": 1757250383,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 269587,
@@ -755,12 +763,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237234,
-      "num": 237234,
-      "word": "AG对战WB",
-      "onboard_time": 1757239581,
-      "rank": 19,
-      "category": "电竞"
+      "raw_hot": 244467,
+      "num": 244467,
+      "word": "黄杨钿甜中戏迎新晚会表演",
+      "onboard_time": 1757251703,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 236495,
@@ -891,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196410,
+      "num": 196410,
+      "word": "张维伊求生欲",
+      "onboard_time": 1757247622,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196182,
       "num": 196182,
       "word": "官方通报高校75万采购事件全过程",
@@ -923,20 +939,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188610,
+      "num": 188610,
+      "word": "听潮阁",
+      "onboard_time": 1757249963,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187246,
       "num": 187246,
       "word": "魏大勋抱赵今麦投篮",
       "onboard_time": 1757168543,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184339,
-      "num": 184339,
-      "word": "张维伊求生欲",
-      "onboard_time": 1757247622,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 182356,
@@ -969,6 +985,14 @@
       "onboard_time": 1757248642,
       "rank": 17,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 178677,
+      "num": 171860,
+      "word": "白露后要注意调理气血了",
+      "onboard_time": 1757251943,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176658,
@@ -1011,6 +1035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171336,
+      "num": 171336,
+      "word": "苏州2比3盐城",
+      "onboard_time": 1757251223,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171285,
       "num": 174777,
       "word": "央视起底多地机械车位遭闲置",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1757204060,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171214,
+      "num": 171214,
+      "word": "沈佳润今天是美美sunday",
+      "onboard_time": 1757251764,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 169426,
@@ -1155,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157961,
-      "num": 157961,
-      "word": "听潮阁",
-      "onboard_time": 1757249963,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 157940,
       "num": 157940,
       "word": "减脂馒头爆单老板一天怒干15小时",
@@ -1291,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147083,
-      "num": 147083,
-      "word": "苏州2比3盐城",
-      "onboard_time": 1757251223,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146998,
       "num": 137307,
       "word": "苏超盐城2比1苏州",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1757247803,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146410,
+      "num": 146410,
+      "word": "被鹿晗媚晕了",
+      "onboard_time": 1757251101,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 146225,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1757247922,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140712,
+      "num": 140712,
+      "word": "梦泪Cat现场复刻AG名场面",
+      "onboard_time": 1757251101,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 140666,
@@ -1539,6 +1579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133688,
+      "num": 133688,
+      "word": "湘超",
+      "onboard_time": 1757248522,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133526,
       "num": 124922,
       "word": "皮肤6种变化可能是癌症信号",
@@ -1571,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131581,
-      "num": 131581,
-      "word": "湘超",
-      "onboard_time": 1757248522,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131059,
       "num": 131059,
       "word": "台风塔巴生成",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1757206643,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130508,
+      "num": 130508,
+      "word": "蒋一侨爆料自己爸爸怕老婆",
+      "onboard_time": 1757246001,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 129733,
@@ -1649,14 +1697,6 @@
       "onboard_time": 1757211561,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127900,
-      "num": 127900,
-      "word": "蒋一侨爆料自己爸爸怕老婆",
-      "onboard_time": 1757246001,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 127772,
@@ -1843,6 +1883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118757,
+      "num": 118757,
+      "word": "RW季后赛再下一鸡",
+      "onboard_time": 1757251583,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118681,
       "num": 118681,
       "word": "余宇涵张桂源陈奕恒追星库里",
@@ -1857,6 +1905,14 @@
       "onboard_time": 1757245761,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118382,
+      "num": 118382,
+      "word": "蔡文静穿着青花瓷走红毯",
+      "onboard_time": 1757252063,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 118371,
@@ -2035,14 +2091,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 111420,
-      "num": 113597,
-      "word": "被鹿晗媚晕了",
-      "onboard_time": 1757251101,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 111142,
       "num": 111142,
       "word": "李宇春健身心率飙升的样子演我",
@@ -2081,6 +2129,14 @@
       "onboard_time": 1757241440,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109320,
+      "num": 109320,
+      "word": "杨博文又在飞机上写作业",
+      "onboard_time": 1757252182,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 109132,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1757225362,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107107,
+      "num": 107107,
+      "word": "美国抓捕300余名韩国工程师",
+      "onboard_time": 1757252063,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107054,
@@ -2209,6 +2273,14 @@
       "onboard_time": 1757152103,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103831,
+      "num": 119084,
+      "word": "中国驻日大使馆用日语介绍东风5C",
+      "onboard_time": 1757252063,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103731,
@@ -2603,6 +2675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84199,
+      "num": 344788,
+      "word": "北京可见彩云伴红月",
+      "onboard_time": 1757250862,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84001,
       "num": 84001,
       "word": "第一次在飞机上偶遇了彩虹海",
@@ -2851,14 +2931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56486,
-      "num": 344788,
-      "word": "北京可见彩云伴红月",
-      "onboard_time": 1757250862,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55505,
       "num": 207183,
       "word": "多名初中女生欺凌同学警方立案",
@@ -3017,6 +3089,14 @@
       "onboard_time": 1757160443,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32868,
+      "num": 119636,
+      "word": "在中国这个东西是用来占座的",
+      "onboard_time": 1757251882,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 31292,
