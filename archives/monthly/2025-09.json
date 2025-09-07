@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757259395837,
+  "endTime": 1757262432347,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -163,7 +163,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 2949615,
+      "raw_hot": 2964079,
       "num": 2949615,
       "word": "血月",
       "onboard_time": 1757243421,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1756809202,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1139510,
+      "num": 1139510,
+      "word": "月全食直播",
+      "onboard_time": 1757257166,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1138717,
@@ -2659,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 561321,
+      "num": 287425,
+      "word": "知情人回应许嵩冯禧完婚",
+      "onboard_time": 1757261421,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561008,
       "num": 561008,
       "word": "文艺晚会节目",
@@ -3763,6 +3779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 440933,
+      "num": 440933,
+      "word": "央视曝光解压软泥毒玩具",
+      "onboard_time": 1757256683,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440881,
       "num": 326003,
       "word": "周迅",
@@ -3881,14 +3905,6 @@
       "onboard_time": 1756861642,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 430372,
-      "num": 430372,
-      "word": "央视曝光解压软泥毒玩具",
-      "onboard_time": 1757256683,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 430324,
@@ -4347,6 +4363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 379804,
+      "num": 379804,
+      "word": "小米16",
+      "onboard_time": 1757257883,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "731为保细菌跳蚤存活制陶瓷炸弹",
@@ -4611,28 +4635,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 361694,
-      "num": 361694,
-      "word": "小米16",
-      "onboard_time": 1757257883,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 360230,
       "num": 360230,
       "word": "英媒记者激动称赞中国阅兵",
       "onboard_time": 1756959144,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 359928,
-      "num": 359928,
-      "word": "月全食直播",
-      "onboard_time": 1757257166,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 359898,
@@ -5537,6 +5545,14 @@
       "onboard_time": 1756696580,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295847,
+      "num": 295847,
+      "word": "王鹤润变化",
+      "onboard_time": 1757257344,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 295757,
@@ -6603,14 +6619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236838,
-      "num": 245780,
-      "word": "王鹤润变化",
-      "onboard_time": 1757257344,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 236609,
       "num": 236609,
       "word": "虞书欣何与双轨团综杀青",
@@ -7449,6 +7457,14 @@
       "onboard_time": 1756863269,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203240,
+      "num": 203240,
+      "word": "咸鱼飞升",
+      "onboard_time": 1757259563,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 203101,
@@ -8369,6 +8385,14 @@
       "onboard_time": 1756652904,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 186730,
+      "num": 186730,
+      "word": "女子地铁拒安检多次追打工作人员",
+      "onboard_time": 1757259205,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186655,
@@ -10699,6 +10723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150131,
+      "num": 159046,
+      "word": "警方通报女子殴打安检员已被行拘",
+      "onboard_time": 1757258543,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150123,
       "num": 150123,
       "word": "如鸢",
@@ -12139,6 +12171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134430,
+      "num": 196951,
+      "word": "辛芷蕾说对金钱有欲望是不想留遗憾",
+      "onboard_time": 1757259323,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134342,
       "num": 195749,
       "word": "陈梦说看到方队瞬间起鸡皮疙瘩",
@@ -12985,6 +13025,14 @@
       "onboard_time": 1757247442,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125223,
+      "num": 125223,
+      "word": "影院女厕隔间门贴男明星照片引质疑",
+      "onboard_time": 1757260640,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125181,
@@ -14075,14 +14123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115507,
-      "num": 115507,
-      "word": "女子地铁拒安检多次追打工作人员",
-      "onboard_time": 1757259205,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115486,
       "num": 115486,
       "word": "梓墨燃尽了",
@@ -14092,7 +14132,7 @@
     },
     {
       "raw_hot": 115462,
-      "num": 272915,
+      "num": 774642,
       "word": "阅兵的转头杀怎么这么帅",
       "onboard_time": 1757236521,
       "rank": 43,
@@ -14835,14 +14875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 109717,
-      "num": 159046,
-      "word": "警方通报女子殴打安检员已被行拘",
-      "onboard_time": 1757258543,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109656,
       "num": 109656,
       "word": "丞磊谙南王回朝",
@@ -15185,6 +15217,14 @@
       "onboard_time": 1756980322,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106554,
+      "num": 121262,
+      "word": "TizzyT羊King羊boss",
+      "onboard_time": 1757261780,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 106511,
@@ -15827,6 +15867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101355,
+      "num": 344788,
+      "word": "北京可见彩云伴红月",
+      "onboard_time": 1757250862,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101221,
       "num": 102090,
       "word": "奥迪概念车亮相",
@@ -16385,14 +16433,6 @@
       "onboard_time": 1757067862,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96922,
-      "num": 96922,
-      "word": "辛芷蕾说对金钱有欲望是不想留遗憾",
-      "onboard_time": 1757259323,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 96889,
@@ -17739,14 +17779,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 84199,
-      "num": 344788,
-      "word": "北京可见彩云伴红月",
-      "onboard_time": 1757250862,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84109,
       "num": 105698,
       "word": "让你头发更好看的技巧",
@@ -18305,6 +18337,14 @@
       "onboard_time": 1756811302,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78216,
+      "num": 78216,
+      "word": "辽宁通报沈师大学生呕吐腹泻调查",
+      "onboard_time": 1757262379,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78004,
@@ -19251,6 +19291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63069,
+      "num": 72085,
+      "word": "帅大厨红烧肉",
+      "onboard_time": 1757262199,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 62843,
       "num": 191712,
       "word": "文具行业巨头开始卖谷子了",
@@ -19963,6 +20011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49536,
+      "num": 72262,
+      "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
+      "onboard_time": 1757260881,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48976,
       "num": 143603,
       "word": "药房同款药线上22元线下59.9元",
@@ -20345,6 +20401,14 @@
       "onboard_time": 1756710801,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39586,
+      "num": 295825,
+      "word": "时隔近3年再迎红月亮",
+      "onboard_time": 1757261960,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39457,

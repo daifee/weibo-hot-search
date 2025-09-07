@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/07 23:36:35
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/08 00:27:12
 </p>
 </blockquote>
 <p>
@@ -136,7 +136,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%80%E6%9C%88%23" target="weibo">
-血月（热度：2949615）
+血月（热度：2964079）
 </a>
 </li>
 
@@ -851,6 +851,12 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%B6%85%E5%85%A8%E8%A7%82%E7%9C%8B%E6%8C%87%E5%8D%97%23" target="weibo">
 九三阅兵超全观看指南（热度：1147455）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A8%E9%A3%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
+月全食直播（热度：1139510）
 </a>
 </li>
 
@@ -2007,6 +2013,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%AE%8C%E5%A9%9A%23" target="weibo">
+知情人回应许嵩冯禧完婚（热度：561321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%23" target="weibo">
 文艺晚会节目（热度：561008）
 </a>
@@ -2835,6 +2847,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%A7%A3%E5%8E%8B%E8%BD%AF%E6%B3%A5%E6%AF%92%E7%8E%A9%E5%85%B7%23" target="weibo">
+央视曝光解压软泥毒玩具（热度：440933）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%23" target="weibo">
 周迅（热度：440881）
 </a>
@@ -2921,12 +2939,6 @@ BLG让二追三JDG（热度：438557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E6%94%BF%E8%A6%81%E4%B8%8E%E6%8A%97%E6%88%98%E8%80%81%E6%88%98%E5%A3%AB%E6%8F%A1%E6%89%8B%23" target="weibo">
 多国政要与抗战老战士握手（热度：430686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%A7%A3%E5%8E%8B%E8%BD%AF%E6%B3%A5%E6%AF%92%E7%8E%A9%E5%85%B7%23" target="weibo">
-央视曝光解压软泥毒玩具（热度：430372）
 </a>
 </li>
 
@@ -3273,6 +3285,12 @@ iPhone为什么只有P是大写（热度：389380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B316%23" target="weibo">
+小米16（热度：379804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23731%E4%B8%BA%E4%BF%9D%E7%BB%86%E8%8F%8C%E8%B7%B3%E8%9A%A4%E5%AD%98%E6%B4%BB%E5%88%B6%E9%99%B6%E7%93%B7%E7%82%B8%E5%BC%B9%23" target="weibo">
 731为保细菌跳蚤存活制陶瓷炸弹（热度：379238）
 </a>
@@ -3471,20 +3489,8 @@ Metal杂志（热度：366669）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B316%23" target="weibo">
-小米16（热度：361694）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E8%AE%B0%E8%80%85%E6%BF%80%E5%8A%A8%E7%A7%B0%E8%B5%9E%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%23" target="weibo">
 英媒记者激动称赞中国阅兵（热度：360230）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A8%E9%A3%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
-月全食直播（热度：359928）
 </a>
 </li>
 
@@ -4163,6 +4169,12 @@ iG战胜EDG（热度：339456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E7%BE%8E%E7%BE%8E%E6%A1%91%E5%86%85%E4%B8%80%E4%B8%AA%E5%8A%B2%E7%9A%84%E5%8F%AD%E5%8F%AD%23" target="weibo">
 张晚意美美桑内一个劲的叭叭（热度：296386）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%B6%A6%E5%8F%98%E5%8C%96%23" target="weibo">
+王鹤润变化（热度：295847）
 </a>
 </li>
 
@@ -4965,12 +4977,6 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%B6%A6%E5%8F%98%E5%8C%96%23" target="weibo">
-王鹤润变化（热度：236838）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BD%95%E4%B8%8E%E5%8F%8C%E8%BD%A8%E5%9B%A2%E7%BB%BC%E6%9D%80%E9%9D%92%23" target="weibo">
 虞书欣何与双轨团综杀青（热度：236609）
 </a>
@@ -5601,6 +5607,12 @@ iPhone17Pro透明保护壳曝光（热度：209530）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87%23" target="weibo">
+咸鱼飞升（热度：203240）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E5%9C%A8%E5%89%8D%E9%9D%A2%E8%B7%91%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%A8%E5%90%8E%E9%9D%A2%E8%BF%BD%23" target="weibo">
 GAI在前面跑演唱会在后面追（热度：203101）
 </a>
@@ -5999,18 +6011,6 @@ VOGUE金九单封官宣顺序（热度：193470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E8%B6%85%E6%80%BB%E5%86%B3%E8%B5%9B%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%23" target="weibo">
 乒超总决赛名单出炉（热度：192904）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%BC%80%E6%9C%BA%E5%AE%B4%E8%B7%AF%E9%80%8F%23" target="weibo">
-孟子义李昀锐尚公主开机宴路透（热度：192840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E4%B8%AD%E7%89%B9%E6%AE%8A%E7%9A%84%E6%88%98%E5%A3%AB%23" target="weibo">
-抗战中特殊的战士（热度：192711）
 </a>
 </li>
 
