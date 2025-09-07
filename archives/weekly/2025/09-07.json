@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757249887846,
+  "endTime": 1757251569602,
   "band_list": [
     {
       "raw_hot": 2949615,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1758273,
+      "num": 1758273,
+      "word": "月全食",
+      "onboard_time": 1757155101,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1600592,
       "num": 223155,
       "word": "12306回应大量私生高铁站围堵男星",
       "onboard_time": 1757234721,
       "rank": 20,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1542358,
-      "num": 1542358,
-      "word": "月全食",
-      "onboard_time": 1757155101,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1439309,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1017081,
+      "num": 1017081,
+      "word": "深圳天气",
+      "onboard_time": 1757247981,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 983382,
       "num": 204432,
       "word": "辛芷蕾",
@@ -193,6 +201,14 @@
       "onboard_time": 1757202139,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 804232,
+      "num": 804232,
+      "word": "深圳停课",
+      "onboard_time": 1757248882,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 776703,
@@ -243,14 +259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 633966,
-      "num": 633966,
-      "word": "深圳天气",
-      "onboard_time": 1757247981,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 628317,
       "num": 895600,
       "word": "中元节禁忌是对传统节日的曲解",
@@ -283,14 +291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 615625,
-      "num": 615625,
-      "word": "深圳停课",
-      "onboard_time": 1757248882,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 555915,
       "num": 225847,
       "word": "关晓彤ins更新",
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 543832,
-      "num": 171855,
+      "num": 507452,
       "word": "没人通知金晨这是红毯吗",
       "onboard_time": 1757248042,
       "rank": 23,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294466,
+      "num": 294466,
+      "word": "鹿晗喊陈赫喊破音了",
+      "onboard_time": 1757251463,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286435,
       "num": 286435,
       "word": "血月可能有一个绿松石带",
@@ -715,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272947,
+      "num": 272947,
+      "word": "代号鸢",
+      "onboard_time": 1757250383,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269587,
       "num": 269587,
       "word": "樊振东收获德甲首胜",
@@ -737,6 +753,14 @@
       "onboard_time": 1757214561,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 237234,
+      "num": 237234,
+      "word": "AG对战WB",
+      "onboard_time": 1757239581,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 236495,
@@ -787,14 +811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 219410,
-      "num": 219410,
-      "word": "AG对战WB",
-      "onboard_time": 1757239581,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 216175,
       "num": 216175,
       "word": "劝老外取消订单劝不住",
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 211787,
-      "num": 307160,
+      "num": 1088402,
       "word": "今晚邀你一起看红月",
       "onboard_time": 1757226023,
       "rank": 43,
@@ -913,6 +929,14 @@
       "onboard_time": 1757168543,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184339,
+      "num": 184339,
+      "word": "张维伊求生欲",
+      "onboard_time": 1757247622,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 182356,
@@ -1131,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157961,
+      "num": 157961,
+      "word": "听潮阁",
+      "onboard_time": 1757249963,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157940,
       "num": 157940,
       "word": "减脂馒头爆单老板一天怒干15小时",
@@ -1152,6 +1184,14 @@
       "word": "张远 开不开心",
       "onboard_time": 1757248882,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155500,
+      "num": 155500,
+      "word": "邵子恒 毛衣欧巴",
+      "onboard_time": 1757250623,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1249,6 +1289,14 @@
       "onboard_time": 1757174543,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147083,
+      "num": 147083,
+      "word": "苏州2比3盐城",
+      "onboard_time": 1757251223,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 146998,
@@ -1395,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138068,
+      "num": 138068,
+      "word": "萧敬腾老婆晒裤子破洞照",
+      "onboard_time": 1757248582,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137865,
       "num": 137865,
       "word": "特朗普误将美国国旗当毯子",
@@ -1497,14 +1553,6 @@
       "onboard_time": 1757215222,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 132924,
-      "num": 132924,
-      "word": "萧敬腾老婆晒裤子破洞照",
-      "onboard_time": 1757248582,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 132546,
@@ -1723,14 +1771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123678,
-      "num": 123678,
-      "word": "张维伊求生欲",
-      "onboard_time": 1757247622,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123131,
       "num": 112087,
       "word": "李昀锐 我那ys白月光",
@@ -1811,6 +1851,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 118440,
+      "num": 117814,
+      "word": "解说米勒",
+      "onboard_time": 1757245761,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118371,
       "num": 118371,
       "word": "刘宇宁说多人托关系要自己演唱会票",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1757222482,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116741,
+      "num": 119407,
+      "word": "程潇海浪中盛开的黑玫瑰",
+      "onboard_time": 1757250202,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 116718,
@@ -1891,12 +1947,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114885,
+      "num": 114885,
+      "word": "苏超泰州vs淮安",
+      "onboard_time": 1757251163,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114012,
       "num": 114012,
       "word": "孙颖莎首轮对阵赫尔希",
       "onboard_time": 1757233043,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113275,
+      "num": 113275,
+      "word": "RW狼影联赛千杀",
+      "onboard_time": 1757251043,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 113099,
@@ -1961,6 +2033,14 @@
       "onboard_time": 1757231781,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111420,
+      "num": 113597,
+      "word": "被鹿晗媚晕了",
+      "onboard_time": 1757251101,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 111142,
@@ -2771,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56486,
+      "num": 344788,
+      "word": "北京可见彩云伴红月",
+      "onboard_time": 1757250862,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55505,
       "num": 207183,
       "word": "多名初中女生欺凌同学警方立案",
@@ -3057,6 +3145,9 @@
     },
     {
       "word": "#这一握情深意重#"
+    },
+    {
+      "word": "#习近平将出席金砖国家领导人线上峰会#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757249887846,
+  "endTime": 1757251569602,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -531,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1758273,
+      "num": 1758273,
+      "word": "月全食",
+      "onboard_time": 1757155101,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1757308,
       "num": 1757308,
       "word": "99B坦克率先亮相",
@@ -665,14 +673,6 @@
       "onboard_time": 1757059281,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1542358,
-      "num": 1542358,
-      "word": "月全食",
-      "onboard_time": 1757155101,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1537646,
@@ -1227,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1017081,
+      "num": 1017081,
+      "word": "深圳天气",
+      "onboard_time": 1757247981,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1008315,
       "num": 448814,
       "word": "小酒窝有官配cp了",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1756883904,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 804232,
+      "num": 804232,
+      "word": "深圳停课",
+      "onboard_time": 1757248882,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 803585,
@@ -2251,14 +2267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 633966,
-      "num": 633966,
-      "word": "深圳天气",
-      "onboard_time": 1757247981,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 630663,
       "num": 588363,
       "word": "坦克下班",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1756977621,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 615625,
-      "num": 615625,
-      "word": "深圳停课",
-      "onboard_time": 1757248882,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 612202,
@@ -2796,7 +2796,7 @@
     },
     {
       "raw_hot": 543832,
-      "num": 171855,
+      "num": 507452,
       "word": "没人通知金晨这是红毯吗",
       "onboard_time": 1757248042,
       "rank": 23,
@@ -5467,6 +5467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 294466,
+      "num": 294466,
+      "word": "鹿晗喊陈赫喊破音了",
+      "onboard_time": 1757251463,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 293983,
       "num": 293983,
       "word": "和平鸽参加阅兵全过程",
@@ -5817,6 +5825,14 @@
       "onboard_time": 1756718661,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272947,
+      "num": 272947,
+      "word": "代号鸢",
+      "onboard_time": 1757134102,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 272902,
@@ -6427,6 +6443,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 237234,
+      "num": 237234,
+      "word": "AG对战WB",
+      "onboard_time": 1757239581,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237228,
       "num": 218009,
       "word": "梓渝新歌",
@@ -6707,14 +6731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227074,
-      "num": 227074,
-      "word": "代号鸢",
-      "onboard_time": 1757134102,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 225761,
       "num": 203945,
       "word": "郑业成赵晴在你眉梢种红豆开机",
@@ -6833,14 +6849,6 @@
       "onboard_time": 1756684820,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 219410,
-      "num": 219410,
-      "word": "AG对战WB",
-      "onboard_time": 1757239581,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 219347,
@@ -7036,7 +7044,7 @@
     },
     {
       "raw_hot": 211787,
-      "num": 307160,
+      "num": 1088402,
       "word": "今晚邀你一起看红月",
       "onboard_time": 1757226023,
       "rank": 43,
@@ -8233,6 +8241,14 @@
       "onboard_time": 1756790661,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184339,
+      "num": 184339,
+      "word": "张维伊求生欲",
+      "onboard_time": 1757247622,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 184119,
@@ -9683,6 +9699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157961,
+      "num": 157961,
+      "word": "听潮阁",
+      "onboard_time": 1757249963,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157956,
       "num": 196711,
       "word": "偶尔运动和每天运动差别有多大",
@@ -9865,6 +9889,14 @@
       "onboard_time": 1757157321,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155500,
+      "num": 155500,
+      "word": "邵子恒 毛衣欧巴",
+      "onboard_time": 1757250623,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 155326,
@@ -10577,6 +10609,14 @@
       "onboard_time": 1756819222,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147083,
+      "num": 147083,
+      "word": "苏州2比3盐城",
+      "onboard_time": 1757251223,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 147039,
@@ -11331,6 +11371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138068,
+      "num": 138068,
+      "word": "萧敬腾老婆晒裤子破洞照",
+      "onboard_time": 1757248582,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137965,
       "num": 196538,
       "word": "孙颖莎王楚钦樊振东出战乒超总决赛",
@@ -11777,14 +11825,6 @@
       "onboard_time": 1756969701,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 132924,
-      "num": 132924,
-      "word": "萧敬腾老婆晒裤子破洞照",
-      "onboard_time": 1757248582,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 132848,
@@ -12747,14 +12787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123678,
-      "num": 123678,
-      "word": "张维伊求生欲",
-      "onboard_time": 1757247622,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123282,
       "num": 177733,
       "word": "异地恋100年的男女主诞生了",
@@ -13283,6 +13315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118440,
+      "num": 117814,
+      "word": "解说米勒",
+      "onboard_time": 1757245761,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118430,
       "num": 143944,
       "word": "成毅赴山海预排播9月11号",
@@ -13449,6 +13489,14 @@
       "onboard_time": 1757079682,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116741,
+      "num": 119407,
+      "word": "程潇海浪中盛开的黑玫瑰",
+      "onboard_time": 1757250202,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 116718,
@@ -13675,6 +13723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114885,
+      "num": 114885,
+      "word": "苏超泰州vs淮安",
+      "onboard_time": 1757251163,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114830,
       "num": 114830,
       "word": "歼35颜值有多高",
@@ -13841,6 +13897,14 @@
       "onboard_time": 1757057361,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113275,
+      "num": 113275,
+      "word": "RW狼影联赛千杀",
+      "onboard_time": 1757251043,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 113201,
@@ -14105,6 +14169,14 @@
       "onboard_time": 1756961005,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111420,
+      "num": 113597,
+      "word": "被鹿晗媚晕了",
+      "onboard_time": 1757251101,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 111400,
@@ -19019,6 +19091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56486,
+      "num": 344788,
+      "word": "北京可见彩云伴红月",
+      "onboard_time": 1757250862,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56159,
       "num": 325876,
       "word": "郭艾伦祝韩德君一切顺利",
@@ -21062,6 +21142,9 @@
     },
     {
       "word": "#这一握情深意重#"
+    },
+    {
+      "word": "#习近平将出席金砖国家领导人线上峰会#"
     }
   ]
 }

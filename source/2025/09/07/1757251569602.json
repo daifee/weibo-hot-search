@@ -1,0 +1,410 @@
+{
+  "runTime": 1757251569602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2636713,
+        "num": 2636713,
+        "word": "血月",
+        "onboard_time": 1757243421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1758273,
+        "num": 1758273,
+        "word": "月全食",
+        "onboard_time": 1757241440,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27304,
+        "num": 1088402,
+        "word": "今晚邀你一起看红月",
+        "onboard_time": 1757226023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1017081,
+        "num": 1017081,
+        "word": "深圳天气",
+        "onboard_time": 1757247981,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804232,
+        "num": 804232,
+        "word": "深圳停课",
+        "onboard_time": 1757248882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507452,
+        "num": 507452,
+        "word": "没人通知金晨这是红毯吗",
+        "onboard_time": 1757248042,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 503491,
+        "num": 503491,
+        "word": "张柏芝撞到刘嘉玲后相视一笑",
+        "onboard_time": 1757245280,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461553,
+        "num": 461553,
+        "word": "长期吃米vs长期吃面",
+        "onboard_time": 1757232141,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 363180,
+        "num": 363180,
+        "word": "朝鲜播出金正恩出席九三阅兵纪录片",
+        "onboard_time": 1757234901,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56486,
+        "num": 344788,
+        "word": "北京可见彩云伴红月",
+        "onboard_time": 1757250862,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837218,
+        "num": 344708,
+        "word": "三问武汉大学座椅标签事件",
+        "onboard_time": 1757246420,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383276,
+        "num": 344248,
+        "word": "冯禧刚毕业就搭档何老师参加hi6",
+        "onboard_time": 1757245460,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343544,
+        "num": 343544,
+        "word": "血月全程约3.5小时",
+        "onboard_time": 1757246721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294466,
+        "num": 294466,
+        "word": "鹿晗喊陈赫喊破音了",
+        "onboard_time": 1757251463,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272947,
+        "num": 272947,
+        "word": "代号鸢",
+        "onboard_time": 1757250383,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237234,
+        "num": 237234,
+        "word": "AG对战WB",
+        "onboard_time": 1757239581,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218008,
+        "num": 218008,
+        "word": "血月可能有一个绿松石带",
+        "onboard_time": 1757244140,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216814,
+        "num": 216814,
+        "word": "黄子韬首谈决定求婚的原因",
+        "onboard_time": 1757244442,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187617,
+        "num": 187617,
+        "word": "女子吐槽羊排肥肉多被起诉赔6000",
+        "onboard_time": 1757244921,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184339,
+        "num": 184339,
+        "word": "张维伊求生欲",
+        "onboard_time": 1757247622,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766179,
+        "num": 184313,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437835,
+        "num": 184181,
+        "word": "12306回应大量私生高铁站围堵男星",
+        "onboard_time": 1757234721,
+        "rank": 21,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 290852,
+        "num": 184180,
+        "word": "辛芷蕾听完英文提问的反应",
+        "onboard_time": 1757233401,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183890,
+        "num": 183890,
+        "word": "血月对人体有什么影响",
+        "onboard_time": 1757224342,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157961,
+        "num": 157961,
+        "word": "听潮阁",
+        "onboard_time": 1757249963,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156127,
+        "num": 156127,
+        "word": "孙心娅回应是冯绍峰女友里最好看的",
+        "onboard_time": 1757233941,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155500,
+        "num": 155500,
+        "word": "邵子恒 毛衣欧巴",
+        "onboard_time": 1757250623,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147083,
+        "num": 147083,
+        "word": "苏州2比3盐城",
+        "onboard_time": 1757251223,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142381,
+        "num": 142381,
+        "word": "石破茂决意辞职",
+        "onboard_time": 1757226680,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138068,
+        "num": 138068,
+        "word": "萧敬腾老婆晒裤子破洞照",
+        "onboard_time": 1757248582,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130661,
+        "num": 130661,
+        "word": "张艺兴飞奔赶高铁",
+        "onboard_time": 1757238441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121696,
+        "num": 121696,
+        "word": "戴口罩的陈芋汐完全认不出",
+        "onboard_time": 1757247981,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116741,
+        "num": 119407,
+        "word": "程潇海浪中盛开的黑玫瑰",
+        "onboard_time": 1757250202,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119256,
+        "num": 119256,
+        "word": "上海百年老洋房降价5334万再流拍",
+        "onboard_time": 1757244140,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117911,
+        "num": 117911,
+        "word": "辛芷蕾影史留名",
+        "onboard_time": 1757249002,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118440,
+        "num": 117814,
+        "word": "解说米勒",
+        "onboard_time": 1757245761,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117650,
+        "num": 117650,
+        "word": "蒋一侨爆料自己爸爸怕老婆",
+        "onboard_time": 1757246001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114885,
+        "num": 114885,
+        "word": "苏超泰州vs淮安",
+        "onboard_time": 1757251163,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114340,
+        "num": 114340,
+        "word": "刘轩丞表情管理课没白上",
+        "onboard_time": 1757249303,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111420,
+        "num": 113597,
+        "word": "被鹿晗媚晕了",
+        "onboard_time": 1757251101,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113275,
+        "num": 113275,
+        "word": "RW狼影联赛千杀",
+        "onboard_time": 1757251043,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111616,
+        "num": 111616,
+        "word": "月全食时间表",
+        "onboard_time": 1757242821,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108065,
+        "num": 108065,
+        "word": "BLG让二追三JDG",
+        "onboard_time": 1757242161,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105763,
+        "num": 105763,
+        "word": "她一天做了我一辈子的工作",
+        "onboard_time": 1757248642,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105123,
+        "num": 105123,
+        "word": "白露听白鹿",
+        "onboard_time": 1757247442,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61593,
+        "num": 105069,
+        "word": "阅兵的转头杀怎么这么帅",
+        "onboard_time": 1757236521,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105053,
+        "num": 105053,
+        "word": "湘超",
+        "onboard_time": 1757248522,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104621,
+        "num": 104621,
+        "word": "苏超",
+        "onboard_time": 1757249062,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104150,
+        "num": 104150,
+        "word": "朝鲜驻华使馆内部首次公开",
+        "onboard_time": 1757246782,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90160,
+        "num": 99313,
+        "word": "与晋长安大结局",
+        "onboard_time": 1757247082,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席金砖国家领导人线上峰会#"
+    }
+  }
+}
