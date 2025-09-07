@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757220084409,
+  "endTime": 1757222604347,
   "band_list": [
     {
       "raw_hot": 2410456,
@@ -57,6 +57,14 @@
       "onboard_time": 1757216662,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1236208,
+      "num": 297309,
+      "word": "许嵩 冯禧",
+      "onboard_time": 1757221283,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1217927,
@@ -121,6 +129,14 @@
       "onboard_time": 1757160022,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 645692,
+      "num": 645692,
+      "word": "结婚一年确诊了免疫系统疾病",
+      "onboard_time": 1757217261,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 639198,
@@ -195,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 494444,
+      "num": 387403,
+      "word": "邢菲升咖后首部作品",
+      "onboard_time": 1757219002,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473738,
       "num": 473738,
       "word": "月全食",
@@ -227,14 +251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 440294,
-      "num": 440294,
-      "word": "结婚一年确诊了免疫系统疾病",
-      "onboard_time": 1757217261,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 437544,
       "num": 437544,
       "word": "华盛顿爆发大规模游行示威",
@@ -251,12 +267,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 387403,
-      "num": 387403,
-      "word": "邢菲升咖后首部作品",
-      "onboard_time": 1757219002,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 418995,
+      "num": 317999,
+      "word": "赵磊担心老婆上节目面对不好的声音",
+      "onboard_time": 1757219783,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 405934,
+      "num": 295232,
+      "word": "日本19岁未来天皇大办特办成人礼",
+      "onboard_time": 1757219242,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 377969,
@@ -315,6 +339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 299125,
+      "num": 299125,
+      "word": "错过今晚的月全食要等3年",
+      "onboard_time": 1757216902,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295757,
       "num": 295757,
       "word": "台风塔巴将登陆广东沿海",
@@ -323,20 +355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294558,
+      "num": 294558,
+      "word": "苏醒回应王栎鑫退出MAMA舞台",
+      "onboard_time": 1757216183,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269587,
       "num": 269587,
       "word": "樊振东收获德甲首胜",
       "onboard_time": 1757168185,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265449,
-      "num": 265449,
-      "word": "日本19岁未来天皇大办特办成人礼",
-      "onboard_time": 1757219242,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 264492,
@@ -363,12 +395,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 231747,
-      "num": 231747,
-      "word": "苏醒回应王栎鑫退出MAMA舞台",
-      "onboard_time": 1757216183,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 229566,
+      "num": 230924,
+      "word": "血月能看吗",
+      "onboard_time": 1757213721,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225761,
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 221669,
-      "num": 221669,
+      "num": 674318,
       "word": "裸眼3D看受阅空中梯队",
       "onboard_time": 1757206643,
       "rank": 16,
@@ -392,6 +424,14 @@
       "word": "劝老外取消订单劝不住",
       "onboard_time": 1757164283,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214444,
+      "num": 298371,
+      "word": "茅台回应反诈老陈喊话",
+      "onboard_time": 1757221763,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -419,6 +459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199773,
+      "num": 199773,
+      "word": "热心市民张智霖",
+      "onboard_time": 1757218581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199682,
       "num": 199682,
       "word": "繁花对演员的提升太大了",
@@ -433,6 +481,14 @@
       "onboard_time": 1757174723,
       "rank": 26,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 194583,
+      "num": 194583,
+      "word": "偶遇马思纯张晚意张瑶聚餐",
+      "onboard_time": 1757221042,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 192323,
@@ -483,22 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176322,
-      "num": 176322,
-      "word": "热心市民张智霖",
-      "onboard_time": 1757218581,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 174914,
-      "num": 230924,
-      "word": "血月能看吗",
-      "onboard_time": 1757213721,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174350,
       "num": 168641,
       "word": "张晚意 内核强大又自洽",
@@ -539,14 +579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168319,
-      "num": 230956,
-      "word": "错过今晚的月全食要等3年",
-      "onboard_time": 1757216902,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162019,
       "num": 162019,
       "word": "梓渝toodeep唱跳",
@@ -577,6 +609,14 @@
       "onboard_time": 1757219061,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160270,
+      "num": 160270,
+      "word": "四川通报一女子当街抢小孩",
+      "onboard_time": 1757222422,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 160188,
@@ -691,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140109,
+      "num": 140109,
+      "word": "彭昱畅 急诊",
+      "onboard_time": 1757222362,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139740,
       "num": 139740,
       "word": "唐舞桐3D建模",
@@ -721,6 +769,14 @@
       "onboard_time": 1757213242,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136647,
+      "num": 136647,
+      "word": "艾热孜巴结婚七年依旧随地大小抱",
+      "onboard_time": 1757221702,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 136543,
@@ -907,6 +963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116718,
+      "num": 116718,
+      "word": "这哪是质子来了分明是一辈子来了",
+      "onboard_time": 1757219483,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116425,
       "num": 116425,
       "word": "樊振东第一时间和队长复盘",
@@ -923,14 +987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115019,
-      "num": 115019,
-      "word": "赵磊担心老婆上节目面对不好的声音",
-      "onboard_time": 1757219783,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113099,
       "num": 113099,
       "word": "解说谈樊振东孤身征战德甲",
@@ -945,14 +1001,6 @@
       "onboard_time": 1757202139,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109151,
-      "num": 109151,
-      "word": "这哪是质子来了分明是一辈子来了",
-      "onboard_time": 1757219483,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 108943,
@@ -985,6 +1033,14 @@
       "onboard_time": 1757213242,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106251,
+      "num": 111338,
+      "word": "人气很高但你却无感的水果",
+      "onboard_time": 1757222482,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 106166,
@@ -1035,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102016,
+      "num": 102016,
+      "word": "中国两架运20飞往阿富汗",
+      "onboard_time": 1757220982,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97955,
       "num": 97955,
       "word": "我国外汇储备规模为33222亿美元",
@@ -1056,6 +1120,14 @@
       "word": "今日16时51分白露",
       "onboard_time": 1757208321,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95745,
+      "num": 95745,
+      "word": "台风",
+      "onboard_time": 1757222542,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1091,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91713,
+      "num": 91713,
+      "word": "于文文热舞顶级魅魔",
+      "onboard_time": 1757222242,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91568,
       "num": 91568,
       "word": "东风5C打击范围覆盖全球",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1757150781,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87526,
+      "num": 113169,
+      "word": "张晚意晕船晕成韩红了",
+      "onboard_time": 1757222422,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 84839,
@@ -1283,6 +1371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50356,
+      "num": 113234,
+      "word": "中国大使馆直接点名菲防长",
+      "onboard_time": 1757221462,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49892,
       "num": 82118,
       "word": "中元节血月",
@@ -1411,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19601,
+      "num": 230069,
+      "word": "文化中国行白露节气",
+      "onboard_time": 1757203400,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13614,
       "num": 18749,
       "word": "周笔畅火鸟降临",
@@ -1446,6 +1550,9 @@
   "hotgov_list": [
     {
       "word": "#让世界正气充盈乾坤朗朗#"
+    },
+    {
+      "word": "#这一握情深意重#"
     }
   ]
 }
