@@ -1,0 +1,410 @@
+{
+  "runTime": 1757223501561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1662034,
+        "num": 1662034,
+        "word": "辛芷蕾获奖时张颂文的表情",
+        "onboard_time": 1757217261,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 893604,
+        "num": 893604,
+        "word": "父子摆摊仅剩5元城管处罚后月入6000",
+        "onboard_time": 1757215641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29869,
+        "num": 718530,
+        "word": "文化中国行白露节气",
+        "onboard_time": 1757203400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633907,
+        "num": 633907,
+        "word": "结婚一年确诊了免疫系统疾病",
+        "onboard_time": 1757217261,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434470,
+        "num": 434470,
+        "word": "茅台回应反诈老陈喊话",
+        "onboard_time": 1757221763,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673900,
+        "num": 420608,
+        "word": "辛芷蕾的影后是全票通过",
+        "onboard_time": 1757216662,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447633,
+        "num": 403045,
+        "word": "邢菲升咖后首部作品",
+        "onboard_time": 1757219002,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382325,
+        "num": 382325,
+        "word": "赵磊担心老婆上节目面对不好的声音",
+        "onboard_time": 1757219783,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374583,
+        "num": 374583,
+        "word": "错过今晚的月全食要等3年",
+        "onboard_time": 1757216902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289857,
+        "num": 289857,
+        "word": "现在连买奶茶都要配货了",
+        "onboard_time": 1757213962,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83601,
+        "num": 284825,
+        "word": "反诈老陈打假直播间五星茅台",
+        "onboard_time": 1757223023,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2164769,
+        "num": 281419,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 831215,
+        "num": 275142,
+        "word": "彭昱畅 急诊",
+        "onboard_time": 1757222362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435570,
+        "num": 270846,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 422658,
+        "num": 260993,
+        "word": "日本19岁未来天皇大办特办成人礼",
+        "onboard_time": 1757219242,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260419,
+        "num": 260419,
+        "word": "周迅 日掛中天",
+        "onboard_time": 1757209042,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241217,
+        "num": 241217,
+        "word": "这才是面包的正常价格",
+        "onboard_time": 1757211801,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237741,
+        "num": 237741,
+        "word": "四川通报一女子当街抢小孩",
+        "onboard_time": 1757222422,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 232169,
+        "num": 232169,
+        "word": "85花格局要变了",
+        "onboard_time": 1757202502,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212602,
+        "num": 212602,
+        "word": "血月能看吗",
+        "onboard_time": 1757213721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205585,
+        "num": 205585,
+        "word": "苏醒回应王栎鑫退出MAMA舞台",
+        "onboard_time": 1757216183,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200114,
+        "num": 200114,
+        "word": "偶遇马思纯张晚意张瑶聚餐",
+        "onboard_time": 1757221042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193283,
+        "num": 193283,
+        "word": "中国导游在日本被打",
+        "onboard_time": 1757215401,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189513,
+        "num": 189513,
+        "word": "热心市民张智霖",
+        "onboard_time": 1757218581,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155326,
+        "num": 155326,
+        "word": "尹浩宇 翟潇闻沈月已经三天没打我了",
+        "onboard_time": 1757222662,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153399,
+        "num": 153399,
+        "word": "女子刚逃出乌就在美轻轨被刺身亡",
+        "onboard_time": 1757208022,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152654,
+        "num": 152654,
+        "word": "嘉贵妃封后",
+        "onboard_time": 1757218642,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139492,
+        "num": 139492,
+        "word": "台风",
+        "onboard_time": 1757222542,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139362,
+        "num": 139362,
+        "word": "于文文热舞顶级魅魔",
+        "onboard_time": 1757222242,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137705,
+        "num": 137705,
+        "word": "拍一拍红月亮",
+        "onboard_time": 1757207902,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135632,
+        "num": 135632,
+        "word": "关晓彤ins晒比基尼照",
+        "onboard_time": 1757202258,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127762,
+        "num": 127762,
+        "word": "华盛顿爆发大规模游行示威",
+        "onboard_time": 1757214263,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127108,
+        "num": 127108,
+        "word": "刘冲VOGUE拍早了",
+        "onboard_time": 1757201779,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118775,
+        "num": 118775,
+        "word": "斗罗大陆",
+        "onboard_time": 1757218822,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116951,
+        "num": 116951,
+        "word": "人气很高但你却无感的水果",
+        "onboard_time": 1757222482,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115741,
+        "num": 115741,
+        "word": "美公布数百名韩国人被捕现场画面",
+        "onboard_time": 1757214561,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114815,
+        "num": 114815,
+        "word": "徐艺洋说和黄子韬第一次见面有种宿命感",
+        "onboard_time": 1757218943,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110934,
+        "num": 110934,
+        "word": "这哪是质子来了分明是一辈子来了",
+        "onboard_time": 1757219483,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105497,
+        "num": 110640,
+        "word": "张晚意晕船晕成韩红了",
+        "onboard_time": 1757222422,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64134,
+        "num": 110625,
+        "word": "原来麦迪娜的情敌是黄子韬",
+        "onboard_time": 1757222781,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110621,
+        "num": 110621,
+        "word": "袁隆平诞辰95年",
+        "onboard_time": 1757202199,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110110,
+        "num": 110110,
+        "word": "巴黎迪士尼玩偶故意忽视小女孩儿",
+        "onboard_time": 1757217683,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108195,
+        "num": 108195,
+        "word": "玖月奇迹王小玮身份变化",
+        "onboard_time": 1757223322,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27102,
+        "num": 102180,
+        "word": "今日16时51分白露",
+        "onboard_time": 1757208321,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101587,
+        "num": 101587,
+        "word": "JS新男团官宣含帅量太高了",
+        "onboard_time": 1757223142,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99510,
+        "num": 99510,
+        "word": "中国两架运20飞往阿富汗",
+        "onboard_time": 1757220982,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99032,
+        "num": 99032,
+        "word": "嚼完还瘦了半斤",
+        "onboard_time": 1757219663,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95282,
+        "num": 95282,
+        "word": "王琳怀孕高烧父母看望只待了15分钟",
+        "onboard_time": 1757202139,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95083,
+        "num": 95083,
+        "word": "宋轶昨晚还是古人今天就变医生",
+        "onboard_time": 1757223322,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92326,
+        "num": 92326,
+        "word": "王灿给杜淳发信息叫哥哥",
+        "onboard_time": 1757223142,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一握情深意重#"
+    }
+  }
+}

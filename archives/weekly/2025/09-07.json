@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757222604347,
+  "endTime": 1757223501561,
   "band_list": [
     {
       "raw_hot": 2410456,
@@ -17,6 +17,14 @@
       "onboard_time": 1757201419,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2164769,
+      "num": 297309,
+      "word": "许嵩 冯禧",
+      "onboard_time": 1757221283,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1324008,
@@ -59,14 +67,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1236208,
-      "num": 297309,
-      "word": "许嵩 冯禧",
-      "onboard_time": 1757221283,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1217927,
       "num": 370778,
       "word": "女子在泰被沉尸胸部假体印中文",
@@ -105,6 +105,14 @@
       "onboard_time": 1757211801,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 831215,
+      "num": 275142,
+      "word": "彭昱畅 急诊",
+      "onboard_time": 1757222362,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 809172,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 494444,
-      "num": 387403,
+      "num": 403045,
       "word": "邢菲升咖后首部作品",
       "onboard_time": 1757219002,
       "rank": 15,
@@ -259,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 434470,
+      "num": 434470,
+      "word": "茅台回应反诈老陈喊话",
+      "onboard_time": 1757221763,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432740,
       "num": 267024,
       "word": "赵涛评委",
@@ -267,15 +283,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 418995,
-      "num": 317999,
-      "word": "赵磊担心老婆上节目面对不好的声音",
-      "onboard_time": 1757219783,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 405934,
+      "raw_hot": 422658,
       "num": 295232,
       "word": "日本19岁未来天皇大办特办成人礼",
       "onboard_time": 1757219242,
@@ -283,11 +291,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 418995,
+      "num": 382325,
+      "word": "赵磊担心老婆上节目面对不好的声音",
+      "onboard_time": 1757219783,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377969,
       "num": 377969,
       "word": "这3种二维码不能扫",
       "onboard_time": 1757209163,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374583,
+      "num": 374583,
+      "word": "错过今晚的月全食要等3年",
+      "onboard_time": 1757216902,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -339,14 +363,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 299125,
-      "num": 299125,
-      "word": "错过今晚的月全食要等3年",
-      "onboard_time": 1757216902,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295757,
       "num": 295757,
       "word": "台风塔巴将登陆广东沿海",
@@ -385,6 +401,14 @@
       "onboard_time": 1757214561,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 237741,
+      "num": 237741,
+      "word": "四川通报一女子当街抢小孩",
+      "onboard_time": 1757222422,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 236495,
@@ -427,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214444,
-      "num": 298371,
-      "word": "茅台回应反诈老陈喊话",
-      "onboard_time": 1757221763,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214443,
       "num": 214443,
       "word": "亚裔女子在泰被沉尸",
@@ -449,6 +465,14 @@
       "onboard_time": 1757214082,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200114,
+      "num": 200114,
+      "word": "偶遇马思纯张晚意张瑶聚餐",
+      "onboard_time": 1757221042,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 199809,
@@ -481,14 +505,6 @@
       "onboard_time": 1757174723,
       "rank": 26,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 194583,
-      "num": 194583,
-      "word": "偶遇马思纯张晚意张瑶聚餐",
-      "onboard_time": 1757221042,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 192323,
@@ -611,14 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160270,
-      "num": 160270,
-      "word": "四川通报一女子当街抢小孩",
-      "onboard_time": 1757222422,
-      "rank": 25,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 160188,
       "num": 160188,
       "word": "确诊为轻微智障的5个表现",
@@ -649,6 +657,14 @@
       "onboard_time": 1757168065,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155326,
+      "num": 155326,
+      "word": "尹浩宇 翟潇闻沈月已经三天没打我了",
+      "onboard_time": 1757222662,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 155009,
@@ -731,20 +747,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140109,
-      "num": 140109,
-      "word": "彭昱畅 急诊",
-      "onboard_time": 1757222362,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139740,
       "num": 139740,
       "word": "唐舞桐3D建模",
       "onboard_time": 1757219242,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139492,
+      "num": 139492,
+      "word": "台风",
+      "onboard_time": 1757222542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139362,
+      "num": 139362,
+      "word": "于文文热舞顶级魅魔",
+      "onboard_time": 1757222242,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 138701,
@@ -761,6 +785,14 @@
       "onboard_time": 1757156242,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137705,
+      "num": 144263,
+      "word": "拍一拍红月亮",
+      "onboard_time": 1757207902,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136679,
@@ -825,14 +857,6 @@
       "onboard_time": 1757206643,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129343,
-      "num": 144263,
-      "word": "拍一拍红月亮",
-      "onboard_time": 1757207902,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129161,
@@ -963,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116951,
+      "num": 116951,
+      "word": "人气很高但你却无感的水果",
+      "onboard_time": 1757222482,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116718,
       "num": 116718,
       "word": "这哪是质子来了分明是一辈子来了",
@@ -1027,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108195,
+      "num": 108195,
+      "word": "玖月奇迹王小玮身份变化",
+      "onboard_time": 1757223322,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107054,
       "num": 198626,
       "word": "风吹稻田我们又想念您了",
@@ -1035,19 +1075,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106251,
-      "num": 111338,
-      "word": "人气很高但你却无感的水果",
-      "onboard_time": 1757222482,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 106166,
       "num": 106166,
       "word": "桃花坞开放中官宣定档",
       "onboard_time": 1757214980,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105497,
+      "num": 113169,
+      "word": "张晚意晕船晕成韩红了",
+      "onboard_time": 1757222422,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1099,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101587,
+      "num": 101587,
+      "word": "JS新男团官宣含帅量太高了",
+      "onboard_time": 1757223142,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97955,
       "num": 97955,
       "word": "我国外汇储备规模为33222亿美元",
@@ -1116,19 +1164,19 @@
     },
     {
       "raw_hot": 96587,
-      "num": 96587,
+      "num": 102180,
       "word": "今日16时51分白露",
       "onboard_time": 1757208321,
       "rank": 41,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95745,
-      "num": 95745,
-      "word": "台风",
-      "onboard_time": 1757222542,
+      "raw_hot": 95083,
+      "num": 95083,
+      "word": "宋轶昨晚还是古人今天就变医生",
+      "onboard_time": 1757223322,
       "rank": 48,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 93232,
@@ -1163,12 +1211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91713,
-      "num": 91713,
-      "word": "于文文热舞顶级魅魔",
-      "onboard_time": 1757222242,
+      "raw_hot": 92326,
+      "num": 92326,
+      "word": "王灿给杜淳发信息叫哥哥",
+      "onboard_time": 1757223142,
       "rank": 49,
-      "category": "演出"
+      "category": "综艺"
     },
     {
       "raw_hot": 91568,
@@ -1203,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87526,
-      "num": 113169,
-      "word": "张晚意晕船晕成韩红了",
-      "onboard_time": 1757222422,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84839,
       "num": 84839,
       "word": "萧敬腾裤子裂了",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1757205980,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83601,
+      "num": 284825,
+      "word": "反诈老陈打假直播间五星茅台",
+      "onboard_time": 1757223023,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78422,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1757207842,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64134,
+      "num": 110625,
+      "word": "原来麦迪娜的情敌是黄子韬",
+      "onboard_time": 1757222781,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 63788,
@@ -1467,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29869,
+      "num": 718530,
+      "word": "文化中国行白露节气",
+      "onboard_time": 1757203400,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27927,
       "num": 37810,
       "word": "韩国外卖员月入1万5",
@@ -1505,14 +1569,6 @@
       "onboard_time": 1757190374,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19601,
-      "num": 230069,
-      "word": "文化中国行白露节气",
-      "onboard_time": 1757203400,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13614,
