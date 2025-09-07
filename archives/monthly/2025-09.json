@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757241558405,
+  "endTime": 1757243979460,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -723,6 +723,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 1461829,
+      "num": 1461829,
+      "word": "月全食",
+      "onboard_time": 1757155101,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1456231,
       "num": 1456231,
       "word": "金正恩乘专列离京返程",
@@ -849,14 +857,6 @@
       "onboard_time": 1756863567,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1295913,
-      "num": 1295913,
-      "word": "月全食",
-      "onboard_time": 1757155101,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1290427,
@@ -1760,6 +1760,14 @@
       "word": "幼儿误吞电池10小时致终身残疾",
       "onboard_time": 1757138902,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 782844,
+      "num": 782844,
+      "word": "血月",
+      "onboard_time": 1757243421,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3028,7 +3036,7 @@
     },
     {
       "raw_hot": 502189,
-      "num": 259839,
+      "num": 279865,
       "word": "警方通报女子遭前夫殴打后死亡",
       "onboard_time": 1757234781,
       "rank": 24,
@@ -3675,6 +3683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 438557,
+      "num": 438557,
+      "word": "BLG让二追三JDG",
+      "onboard_time": 1757242161,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 438151,
       "num": 438151,
       "word": "王楚钦开学",
@@ -4225,6 +4241,14 @@
       "onboard_time": 1757209163,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377677,
+      "num": 326779,
+      "word": "孙心娅回应是冯绍峰女友里最好看的",
+      "onboard_time": 1757233941,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 376684,
@@ -4907,6 +4931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 325586,
+      "num": 325586,
+      "word": "张艺兴飞奔赶高铁",
+      "onboard_time": 1757238441,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324977,
       "num": 334684,
       "word": "台媒称台军难以望到解放军尾灯",
@@ -5001,6 +5033,14 @@
       "onboard_time": 1756901844,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 318462,
+      "num": 318462,
+      "word": "一高校宿舍床直接钉在墙上",
+      "onboard_time": 1757236581,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318303,
@@ -6227,6 +6267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240615,
+      "num": 240615,
+      "word": "月全食时间表",
+      "onboard_time": 1757242821,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240124,
       "num": 2531803,
       "word": "红旗见证时代荣光",
@@ -6297,14 +6345,6 @@
       "onboard_time": 1756860326,
       "rank": 38,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 237253,
-      "num": 237253,
-      "word": "孙心娅回应是冯绍峰女友里最好看的",
-      "onboard_time": 1757233941,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 237228,
@@ -7152,6 +7192,14 @@
       "word": "于文文薛凯琪黑的白的全说成黄的",
       "onboard_time": 1757170824,
       "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 202162,
+      "num": 202162,
+      "word": "易烊千玺妈妈送我伴手礼",
+      "onboard_time": 1757240420,
+      "rank": 27,
       "category": "演出"
     },
     {
@@ -8329,14 +8377,6 @@
       "onboard_time": 1757074461,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177988,
-      "num": 177988,
-      "word": "张艺兴飞奔赶高铁",
-      "onboard_time": 1757238441,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 177582,
@@ -9547,6 +9587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157940,
+      "num": 157940,
+      "word": "减脂馒头爆单老板一天怒干15小时",
+      "onboard_time": 1757240002,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157909,
       "num": 157909,
       "word": "VOGUE销量隐藏",
@@ -9633,6 +9681,14 @@
       "onboard_time": 1757172203,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156461,
+      "num": 156461,
+      "word": "河南欢迎短信",
+      "onboard_time": 1757240962,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 156395,
@@ -10235,14 +10291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148841,
-      "num": 148841,
-      "word": "易烊千玺妈妈送我伴手礼",
-      "onboard_time": 1757240420,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 148795,
       "num": 148795,
       "word": "盛李豪去现场看阅兵了",
@@ -10473,6 +10521,14 @@
       "onboard_time": 1756982424,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146225,
+      "num": 146225,
+      "word": "刘耀文光速把衣服换回来了",
+      "onboard_time": 1757243121,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 146068,
@@ -10873,14 +10929,6 @@
       "onboard_time": 1756740382,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141080,
-      "num": 279341,
-      "word": "一高校宿舍床直接钉在墙上",
-      "onboard_time": 1757236581,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140822,
@@ -11507,6 +11555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133526,
+      "num": 124922,
+      "word": "皮肤6种变化可能是癌症信号",
+      "onboard_time": 1757243121,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133439,
       "num": 133439,
       "word": "空腹36小时身体的变化",
@@ -11561,6 +11617,14 @@
       "onboard_time": 1756988664,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132546,
+      "num": 132546,
+      "word": "多个视频平台偷时间",
+      "onboard_time": 1757242041,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132448,
@@ -11649,14 +11713,6 @@
       "onboard_time": 1757067681,
       "rank": 33,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 131204,
-      "num": 131204,
-      "word": "减脂馒头爆单老板一天怒干15小时",
-      "onboard_time": 1757240002,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131059,
@@ -12219,6 +12275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125371,
+      "num": 219161,
+      "word": "2025女排世锦赛",
+      "onboard_time": 1756988063,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125366,
       "num": 125366,
       "word": "王赫野还是cha了刀马刀",
@@ -12635,6 +12699,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 121554,
+      "num": 121554,
+      "word": "医生支招气血不足怎么补",
+      "onboard_time": 1757239760,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121466,
       "num": 121466,
       "word": "被王楚钦梁靖崑的互动笑死",
@@ -12915,6 +12987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118681,
+      "num": 118681,
+      "word": "余宇涵张桂源陈奕恒追星库里",
+      "onboard_time": 1757242642,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 118591,
       "num": 173453,
       "word": "理肤泉上百元喷雾被指成分只有水",
@@ -12993,6 +13073,14 @@
       "onboard_time": 1757057001,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 117858,
+      "num": 117858,
+      "word": "仙逆",
+      "onboard_time": 1757243001,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 117675,
@@ -13851,6 +13939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110229,
+      "num": 126938,
+      "word": "欧阳娣娣不选对的只选帅的",
+      "onboard_time": 1757242401,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110211,
       "num": 134516,
       "word": "藏海传霸屏暑期档",
@@ -14459,12 +14555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105002,
-      "num": 105002,
-      "word": "医生支招气血不足怎么补",
-      "onboard_time": 1757239760,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 105147,
+      "num": 105147,
+      "word": "张真源上海迪士尼vlog",
+      "onboard_time": 1757242642,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 104925,
@@ -14627,6 +14723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103445,
+      "num": 107664,
+      "word": "沈梦辰怎么敢这样叫撒贝宁",
+      "onboard_time": 1757242520,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103300,
       "num": 103300,
       "word": "苹果春晚前瞻",
@@ -14729,6 +14833,14 @@
       "onboard_time": 1757115019,
       "rank": 23,
       "category": "母婴育儿,民生新闻"
+    },
+    {
+      "raw_hot": 102559,
+      "num": 102559,
+      "word": "2025KPL夏决开幕式",
+      "onboard_time": 1757243179,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 102526,
@@ -16379,6 +16491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87238,
+      "num": 87238,
+      "word": "国产剧这回是真的追妻火葬场",
+      "onboard_time": 1757243001,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87167,
       "num": 243937,
       "word": "全球覆盖的含金量谁懂啊",
@@ -16676,7 +16796,7 @@
     },
     {
       "raw_hot": 84449,
-      "num": 594209,
+      "num": 785347,
       "word": "又是被中国排面硬控的一天",
       "onboard_time": 1757210361,
       "rank": 47,
@@ -16889,6 +17009,14 @@
       "onboard_time": 1757228422,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82732,
+      "num": 328942,
+      "word": "受资助上清华的女孩去支教了",
+      "onboard_time": 1757242041,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82655,
@@ -17265,6 +17393,14 @@
       "onboard_time": 1756811302,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78201,
+      "num": 108267,
+      "word": "男子地铁被诬偷拍3次脱鞋证清白",
+      "onboard_time": 1757243179,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78004,
@@ -19561,14 +19697,6 @@
       "onboard_time": 1756963823,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32095,
-      "num": 219161,
-      "word": "2025女排世锦赛",
-      "onboard_time": 1756988063,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 32054,
