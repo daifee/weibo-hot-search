@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/08 01:19:50
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/08 01:36:52
 </p>
 </blockquote>
 <p>
@@ -3525,6 +3525,12 @@ Metal杂志（热度：366669）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%A5%E5%96%9C%E4%B8%8D%E6%8A%A5%E5%BF%A7%23" target="weibo">
+鹿晗报喜不报忧（热度：356117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%9B%9E%E6%94%BE%23" target="weibo">
 阅兵回放（热度：355753）
 </a>
@@ -3677,12 +3683,6 @@ VOGUE（热度：350760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CEDG%23" target="weibo">
 iG战胜EDG（热度：339456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%A5%E5%96%9C%E4%B8%8D%E6%8A%A5%E5%BF%A7%23" target="weibo">
-鹿晗报喜不报忧（热度：338923）
 </a>
 </li>
 
