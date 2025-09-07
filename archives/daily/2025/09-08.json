@@ -1,9 +1,9 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757262432347,
+  "endTime": 1757263321515,
   "band_list": [
     {
-      "raw_hot": 2964079,
+      "raw_hot": 3121097,
       "num": 773209,
       "word": "血月",
       "onboard_time": 1757243421,
@@ -11,20 +11,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1552988,
-      "num": 1552988,
+      "raw_hot": 1643155,
+      "num": 1643155,
       "word": "月全食",
       "onboard_time": 1757241440,
       "rank": 0,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1139510,
-      "num": 1139510,
+      "raw_hot": 1165755,
+      "num": 1165755,
       "word": "月全食直播",
       "onboard_time": 1757257166,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 952235,
+      "num": 287425,
+      "word": "知情人回应许嵩冯禧完婚",
+      "onboard_time": 1757261421,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 763418,
@@ -33,14 +41,6 @@
       "onboard_time": 1757248042,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 561321,
-      "num": 287425,
-      "word": "知情人回应许嵩冯禧完婚",
-      "onboard_time": 1757261421,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 527274,
@@ -75,7 +75,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 330888,
+      "raw_hot": 333389,
       "num": 192757,
       "word": "许嵩 冯禧",
       "onboard_time": 1757221283,
@@ -131,6 +131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213503,
+      "num": 213503,
+      "word": "辛芷蕾说对金钱有欲望是不想留遗憾",
+      "onboard_time": 1757259323,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203240,
       "num": 203240,
       "word": "咸鱼飞升",
@@ -145,6 +153,14 @@
       "onboard_time": 1757259205,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182174,
+      "num": 182174,
+      "word": "鹿晗报喜不报忧",
+      "onboard_time": 1757262740,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 156844,
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134430,
-      "num": 196951,
-      "word": "辛芷蕾说对金钱有欲望是不想留遗憾",
-      "onboard_time": 1757259323,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128813,
       "num": 194889,
       "word": "祝绪丹赫本风",
@@ -203,12 +211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122658,
+      "num": 261805,
+      "word": "辽宁通报沈师大学生呕吐腹泻调查",
+      "onboard_time": 1757262379,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121027,
       "num": 121027,
       "word": "AG夏决冠军",
       "onboard_time": 1757252362,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114394,
+      "num": 114394,
+      "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
+      "onboard_time": 1757260881,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106554,
@@ -283,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86627,
+      "num": 86627,
+      "word": "鹿晗演唱会来了好多嘉宾",
+      "onboard_time": 1757263039,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 84532,
       "num": 84532,
       "word": "沈佳润今天是美美sunday",
@@ -297,14 +329,6 @@
       "onboard_time": 1757257822,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 78216,
-      "num": 78216,
-      "word": "辽宁通报沈师大学生呕吐腹泻调查",
-      "onboard_time": 1757262379,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76630,
@@ -347,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69735,
+      "num": 69735,
+      "word": "大学生呕吐系自备井蓄水池受污染",
+      "onboard_time": 1757262499,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65507,
       "num": 72088,
       "word": "梓墨燃尽了",
@@ -379,12 +411,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 49536,
-      "num": 72262,
-      "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
-      "onboard_time": 1757260881,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 50735,
+      "num": 59644,
+      "word": "石破茂热门接班人有三位",
+      "onboard_time": 1757259143,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39586,
@@ -395,7 +427,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29400,
+      "raw_hot": 32858,
       "num": 774642,
       "word": "阅兵的转头杀怎么这么帅",
       "onboard_time": 1757236521,
