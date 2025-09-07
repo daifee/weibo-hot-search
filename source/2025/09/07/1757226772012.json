@@ -1,0 +1,410 @@
+{
+  "runTime": 1757226772012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084174,
+        "num": 1173467,
+        "word": "辛芷蕾获奖时张颂文的表情",
+        "onboard_time": 1757217261,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 642847,
+        "num": 642847,
+        "word": "父子摆摊仅剩5元城管处罚后月入6000",
+        "onboard_time": 1757215641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39457,
+        "num": 535913,
+        "word": "从袁梦到圆梦",
+        "onboard_time": 1757206222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431234,
+        "num": 431234,
+        "word": "茅台回应反诈老陈喊话",
+        "onboard_time": 1757221763,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377338,
+        "num": 377338,
+        "word": "血月对人体有什么影响",
+        "onboard_time": 1757224342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 769093,
+        "num": 375085,
+        "word": "辛芷蕾获奖冯绍峰把高兴写脸上了",
+        "onboard_time": 1757225181,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368367,
+        "num": 368367,
+        "word": "四川通报一女子当街抢小孩",
+        "onboard_time": 1757222422,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 317228,
+        "num": 317228,
+        "word": "赵磊担心老婆上节目面对不好的声音",
+        "onboard_time": 1757219783,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299971,
+        "num": 299971,
+        "word": "结婚一年确诊了免疫系统疾病",
+        "onboard_time": 1757217261,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274941,
+        "num": 274941,
+        "word": "张晚意晕船晕成韩红了",
+        "onboard_time": 1757222422,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2152908,
+        "num": 269191,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1018845,
+        "num": 264352,
+        "word": "彭昱畅 急诊",
+        "onboard_time": 1757222362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393981,
+        "num": 258547,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275596,
+        "num": 253357,
+        "word": "日本19岁未来天皇大办特办成人礼",
+        "onboard_time": 1757219242,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 324338,
+        "num": 244481,
+        "word": "偶遇马思纯张晚意张瑶聚餐",
+        "onboard_time": 1757221042,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41696,
+        "num": 237923,
+        "word": "倩碧见证樊振东德甲高光时刻",
+        "onboard_time": 1757225062,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234508,
+        "num": 234508,
+        "word": "美国出动10架F35",
+        "onboard_time": 1757224582,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229557,
+        "num": 229557,
+        "word": "邢菲升咖后首部作品",
+        "onboard_time": 1757219002,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220492,
+        "num": 220492,
+        "word": "我给人撕到奖了 你撕过吗",
+        "onboard_time": 1757224762,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87217,
+        "num": 174777,
+        "word": "央视起底多地机械车位遭闲置",
+        "onboard_time": 1757225243,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107777,
+        "num": 172334,
+        "word": "四川抢小孩女子疑似精神病发作",
+        "onboard_time": 1757225362,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170984,
+        "num": 170984,
+        "word": "错过今晚的月全食要等3年",
+        "onboard_time": 1757216902,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166413,
+        "num": 166413,
+        "word": "周迅 日掛中天",
+        "onboard_time": 1757209042,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161046,
+        "num": 161046,
+        "word": "现在连买奶茶都要配货了",
+        "onboard_time": 1757213962,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160955,
+        "num": 160955,
+        "word": "孟佳抗住了死亡芭比粉",
+        "onboard_time": 1757224582,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153749,
+        "num": 153749,
+        "word": "工作后才知道苹果是最好的水果",
+        "onboard_time": 1757225662,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139454,
+        "num": 139454,
+        "word": "85花格局要变了",
+        "onboard_time": 1757202502,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137841,
+        "num": 137841,
+        "word": "这才是面包的正常价格",
+        "onboard_time": 1757211801,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137646,
+        "num": 137646,
+        "word": "王玉雯 遇事不决陈星旭",
+        "onboard_time": 1757225362,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129435,
+        "num": 129435,
+        "word": "反诈老陈打假直播间五星茅台",
+        "onboard_time": 1757223023,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127466,
+        "num": 127466,
+        "word": "中国导游在日本被打",
+        "onboard_time": 1757215401,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125366,
+        "num": 125366,
+        "word": "王赫野还是cha了刀马刀",
+        "onboard_time": 1757225783,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116947,
+        "num": 116947,
+        "word": "拍一拍红月亮",
+        "onboard_time": 1757207902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115933,
+        "num": 115933,
+        "word": "台风",
+        "onboard_time": 1757222542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18671,
+        "num": 115577,
+        "word": "石破茂决意辞职",
+        "onboard_time": 1757226680,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115536,
+        "num": 115536,
+        "word": "马思纯我可以干活的含金量还在上升",
+        "onboard_time": 1757224102,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115205,
+        "num": 115205,
+        "word": "三种天然散结节食物",
+        "onboard_time": 1757223982,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110336,
+        "num": 110336,
+        "word": "苏醒回应王栎鑫退出MAMA舞台",
+        "onboard_time": 1757216183,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106778,
+        "num": 106778,
+        "word": "血月能看吗",
+        "onboard_time": 1757213721,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98694,
+        "num": 104787,
+        "word": "何与一款孟子义的提词器",
+        "onboard_time": 1757225783,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104700,
+        "num": 104700,
+        "word": "中国两架运20飞往阿富汗",
+        "onboard_time": 1757220982,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96124,
+        "num": 96124,
+        "word": "GAI没忍住说早了",
+        "onboard_time": 1757224822,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92614,
+        "num": 92614,
+        "word": "反诈老陈曝光五星茅台为假酒",
+        "onboard_time": 1757225901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92506,
+        "num": 92506,
+        "word": "今晚邀你一起看红月",
+        "onboard_time": 1757226023,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89326,
+        "num": 89326,
+        "word": "女子刚逃出乌就在美轻轨被刺身亡",
+        "onboard_time": 1757208022,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87110,
+        "num": 87110,
+        "word": "台风塔巴将登陆广东沿海",
+        "onboard_time": 1757206222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86575,
+        "num": 86575,
+        "word": "袁隆平诞辰95年",
+        "onboard_time": 1757202199,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81944,
+        "num": 81944,
+        "word": "下下下下周就放假了",
+        "onboard_time": 1757225003,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79625,
+        "num": 79625,
+        "word": "于正风波后首更博",
+        "onboard_time": 1757224822,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74661,
+        "num": 74661,
+        "word": "关晓彤ins晒比基尼照",
+        "onboard_time": 1757202258,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一握情深意重#"
+    }
+  }
+}

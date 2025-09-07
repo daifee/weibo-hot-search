@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757223501561,
+  "endTime": 1757226772012,
   "band_list": [
     {
       "raw_hot": 2410456,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1018845,
+      "num": 275142,
+      "word": "彭昱畅 急诊",
+      "onboard_time": 1757222362,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 983382,
       "num": 204432,
       "word": "辛芷蕾",
@@ -107,14 +115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 831215,
-      "num": 275142,
-      "word": "彭昱畅 急诊",
-      "onboard_time": 1757222362,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 809172,
       "num": 203962,
       "word": "王琳怀孕高烧父母看望只待了15分钟",
@@ -129,6 +129,14 @@
       "onboard_time": 1757208022,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 769093,
+      "num": 375085,
+      "word": "辛芷蕾获奖冯绍峰把高兴写脸上了",
+      "onboard_time": 1757225181,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 715376,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377338,
+      "num": 377338,
+      "word": "血月对人体有什么影响",
+      "onboard_time": 1757224342,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374583,
       "num": 374583,
       "word": "错过今晚的月全食要等3年",
@@ -321,6 +337,14 @@
       "onboard_time": 1757172623,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368367,
+      "num": 368367,
+      "word": "四川通报一女子当街抢小孩",
+      "onboard_time": 1757222422,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 364601,
@@ -345,6 +369,14 @@
       "onboard_time": 1757202679,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324338,
+      "num": 244481,
+      "word": "偶遇马思纯张晚意张瑶聚餐",
+      "onboard_time": 1757221042,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 307874,
@@ -379,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274941,
+      "num": 274941,
+      "word": "张晚意晕船晕成韩红了",
+      "onboard_time": 1757222422,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269587,
       "num": 269587,
       "word": "樊振东收获德甲首胜",
@@ -403,20 +443,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237741,
-      "num": 237741,
-      "word": "四川通报一女子当街抢小孩",
-      "onboard_time": 1757222422,
-      "rank": 25,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 236495,
       "num": 236495,
       "word": "中级会计",
       "onboard_time": 1757216002,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 234508,
+      "num": 234508,
+      "word": "美国出动10架F35",
+      "onboard_time": 1757224582,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 229566,
@@ -443,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 220492,
+      "num": 220492,
+      "word": "我给人撕到奖了 你撕过吗",
+      "onboard_time": 1757224762,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216175,
       "num": 216175,
       "word": "劝老外取消订单劝不住",
@@ -465,14 +513,6 @@
       "onboard_time": 1757214082,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200114,
-      "num": 200114,
-      "word": "偶遇马思纯张晚意张瑶聚餐",
-      "onboard_time": 1757221042,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 199809,
@@ -603,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160955,
+      "num": 160955,
+      "word": "孟佳抗住了死亡芭比粉",
+      "onboard_time": 1757224582,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160850,
       "num": 160850,
       "word": "焦虑症和抑郁症的区别",
@@ -689,6 +737,14 @@
       "onboard_time": 1757216061,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153749,
+      "num": 153749,
+      "word": "工作后才知道苹果是最好的水果",
+      "onboard_time": 1757225662,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 153074,
@@ -795,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137646,
+      "num": 137646,
+      "word": "王玉雯 遇事不决陈星旭",
+      "onboard_time": 1757225362,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136679,
       "num": 318392,
       "word": "独臂坦克设计师",
@@ -859,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129435,
+      "num": 284825,
+      "word": "反诈老陈打假直播间五星茅台",
+      "onboard_time": 1757223023,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129161,
       "num": 129161,
       "word": "洪秀柱现身国家大剧院看京剧",
@@ -897,6 +969,14 @@
       "onboard_time": 1757214321,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125366,
+      "num": 125366,
+      "word": "王赫野还是cha了刀马刀",
+      "onboard_time": 1757225783,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 125337,
@@ -1011,12 +1091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115536,
+      "num": 115536,
+      "word": "马思纯我可以干活的含金量还在上升",
+      "onboard_time": 1757224102,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115302,
       "num": 115302,
       "word": "冯绍峰威尼斯眼镜造型",
       "onboard_time": 1757180238,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115205,
+      "num": 115205,
+      "word": "三种天然散结节食物",
+      "onboard_time": 1757223982,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113099,
@@ -1067,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107777,
+      "num": 172334,
+      "word": "四川抢小孩女子疑似精神病发作",
+      "onboard_time": 1757225362,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107054,
       "num": 198626,
       "word": "风吹稻田我们又想念您了",
@@ -1083,20 +1187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105497,
-      "num": 113169,
-      "word": "张晚意晕船晕成韩红了",
-      "onboard_time": 1757222422,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104716,
       "num": 104716,
       "word": "24岁男子驾车致7伤被抓",
       "onboard_time": 1757210541,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104700,
+      "num": 104700,
+      "word": "中国两架运20飞往阿富汗",
+      "onboard_time": 1757220982,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104563,
@@ -1131,20 +1235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102016,
-      "num": 102016,
-      "word": "中国两架运20飞往阿富汗",
-      "onboard_time": 1757220982,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101587,
       "num": 101587,
       "word": "JS新男团官宣含帅量太高了",
       "onboard_time": 1757223142,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98694,
+      "num": 104787,
+      "word": "何与一款孟子义的提词器",
+      "onboard_time": 1757225783,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 97955,
@@ -1169,6 +1273,14 @@
       "onboard_time": 1757208321,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96124,
+      "num": 96124,
+      "word": "GAI没忍住说早了",
+      "onboard_time": 1757224822,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 95083,
@@ -1211,6 +1323,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92614,
+      "num": 92614,
+      "word": "反诈老陈曝光五星茅台为假酒",
+      "onboard_time": 1757225901,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92506,
+      "num": 92506,
+      "word": "今晚邀你一起看红月",
+      "onboard_time": 1757226023,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92326,
       "num": 92326,
       "word": "王灿给杜淳发信息叫哥哥",
@@ -1251,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87217,
+      "num": 174777,
+      "word": "央视起底多地机械车位遭闲置",
+      "onboard_time": 1757225243,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 84839,
       "num": 84839,
       "word": "萧敬腾裤子裂了",
@@ -1275,12 +1411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83601,
-      "num": 284825,
-      "word": "反诈老陈打假直播间五星茅台",
-      "onboard_time": 1757223023,
-      "rank": 10,
+      "raw_hot": 81944,
+      "num": 81944,
+      "word": "下下下下周就放假了",
+      "onboard_time": 1757225003,
+      "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79625,
+      "num": 79625,
+      "word": "于正风波后首更博",
+      "onboard_time": 1757224822,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 78422,
@@ -1491,12 +1635,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41696,
+      "num": 237923,
+      "word": "倩碧见证樊振东德甲高光时刻",
+      "onboard_time": 1757225062,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41112,
       "num": 81906,
       "word": "秋天的朋友圈文案",
       "onboard_time": 1757177180,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39457,
+      "num": 535913,
+      "word": "从袁梦到圆梦",
+      "onboard_time": 1757206222,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36595,
@@ -1569,6 +1729,14 @@
       "onboard_time": 1757190374,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18671,
+      "num": 115577,
+      "word": "石破茂决意辞职",
+      "onboard_time": 1757226680,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13614,

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757223501561,
+  "endTime": 1757226772012,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1163,6 +1163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1018845,
+      "num": 275142,
+      "word": "彭昱畅 急诊",
+      "onboard_time": 1757222362,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017677,
       "num": 1017677,
       "word": "北京感谢全市人民和首都各界",
@@ -1579,14 +1587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 831215,
-      "num": 275142,
-      "word": "彭昱畅 急诊",
-      "onboard_time": 1757222362,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 824734,
       "num": 329278,
       "word": "巴黎世家 8200元塑料袋",
@@ -1737,6 +1737,14 @@
       "onboard_time": 1756829900,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 769093,
+      "num": 375085,
+      "word": "辛芷蕾获奖冯绍峰把高兴写脸上了",
+      "onboard_time": 1757225181,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 768647,
@@ -4099,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377338,
+      "num": 377338,
+      "word": "血月对人体有什么影响",
+      "onboard_time": 1757224342,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376684,
       "num": 1146720,
       "word": "四万万中国人共同的名字",
@@ -4209,6 +4225,14 @@
       "onboard_time": 1756863865,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 368367,
+      "num": 368367,
+      "word": "四川通报一女子当街抢小孩",
+      "onboard_time": 1757222422,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 366669,
@@ -4761,6 +4785,14 @@
       "onboard_time": 1756968383,
       "rank": 44,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 324338,
+      "num": 244481,
+      "word": "偶遇马思纯张晚意张瑶聚餐",
+      "onboard_time": 1757221042,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 323920,
@@ -5409,6 +5441,14 @@
       "onboard_time": 1756773682,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 274941,
+      "num": 274941,
+      "word": "张晚意晕船晕成韩红了",
+      "onboard_time": 1757222422,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 274926,
@@ -6067,14 +6107,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237741,
-      "num": 237741,
-      "word": "四川通报一女子当街抢小孩",
-      "onboard_time": 1757222422,
-      "rank": 25,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 237519,
       "num": 237519,
       "word": "王雷太会演了",
@@ -6176,6 +6208,14 @@
       "word": "中国和印尼要合力反对霸凌",
       "onboard_time": 1756899204,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 234508,
+      "num": 234508,
+      "word": "美国出动10架F35",
+      "onboard_time": 1757224582,
+      "rank": 16,
       "category": "国际时政"
     },
     {
@@ -6465,6 +6505,14 @@
       "onboard_time": 1756738041,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220492,
+      "num": 220492,
+      "word": "我给人撕到奖了 你撕过吗",
+      "onboard_time": 1757224762,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 220395,
@@ -7009,14 +7057,6 @@
       "onboard_time": 1756977562,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 200114,
-      "num": 200114,
-      "word": "偶遇马思纯张晚意张瑶聚餐",
-      "onboard_time": 1757221042,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 200073,
@@ -8971,6 +9011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160955,
+      "num": 160955,
+      "word": "孟佳抗住了死亡芭比粉",
+      "onboard_time": 1757224582,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160882,
       "num": 160882,
       "word": "丁禹兮花开锦绣雪中相拥路透",
@@ -9537,6 +9585,14 @@
       "onboard_time": 1756980142,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153749,
+      "num": 153749,
+      "word": "工作后才知道苹果是最好的水果",
+      "onboard_time": 1757225662,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 153537,
@@ -10747,6 +10803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137646,
+      "num": 137646,
+      "word": "王玉雯 遇事不决陈星旭",
+      "onboard_time": 1757225362,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137606,
       "num": 173586,
       "word": "陈情令暑期爆款剧王",
@@ -11419,6 +11483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129435,
+      "num": 284825,
+      "word": "反诈老陈打假直播间五星茅台",
+      "onboard_time": 1757223023,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129369,
       "num": 129369,
       "word": "普京回应26国将向乌克兰部署军队",
@@ -11769,6 +11841,14 @@
       "onboard_time": 1757149342,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125366,
+      "num": 125366,
+      "word": "王赫野还是cha了刀马刀",
+      "onboard_time": 1757225783,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 125337,
@@ -12739,6 +12819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115536,
+      "num": 115536,
+      "word": "马思纯我可以干活的含金量还在上升",
+      "onboard_time": 1757224102,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115507,
       "num": 115507,
       "word": "江西都昌走失5岁男童遗体被找到",
@@ -12777,6 +12865,14 @@
       "onboard_time": 1757180238,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115205,
+      "num": 115205,
+      "word": "三种天然散结节食物",
+      "onboard_time": 1757223982,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115141,
@@ -13523,6 +13619,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 107777,
+      "num": 172334,
+      "word": "四川抢小孩女子疑似精神病发作",
+      "onboard_time": 1757225362,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107681,
       "num": 265615,
       "word": "一个公式计算你的遗传身高",
@@ -13811,14 +13915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105497,
-      "num": 113169,
-      "word": "张晚意晕船晕成韩红了",
-      "onboard_time": 1757222422,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105434,
       "num": 128138,
       "word": "这三位女将的金牌含金量有多高",
@@ -13897,6 +13993,14 @@
       "onboard_time": 1757210541,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104700,
+      "num": 104700,
+      "word": "中国两架运20飞往阿富汗",
+      "onboard_time": 1757220982,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104672,
@@ -14169,14 +14273,6 @@
       "onboard_time": 1757083222,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 102016,
-      "num": 102016,
-      "word": "中国两架运20飞往阿富汗",
-      "onboard_time": 1757220982,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 101916,
@@ -14523,6 +14619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98694,
+      "num": 104787,
+      "word": "何与一款孟子义的提词器",
+      "onboard_time": 1757225783,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98570,
       "num": 487322,
       "word": "易会满任期平均1天发行1只新股",
@@ -14777,6 +14881,14 @@
       "onboard_time": 1756784721,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96124,
+      "num": 96124,
+      "word": "GAI没忍住说早了",
+      "onboard_time": 1757224822,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 96080,
@@ -15099,6 +15211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92614,
+      "num": 92614,
+      "word": "反诈老陈曝光五星茅台为假酒",
+      "onboard_time": 1757225901,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92588,
       "num": 121297,
       "word": "猫 人一直响怎么办",
@@ -15121,6 +15241,14 @@
       "onboard_time": 1756716382,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92506,
+      "num": 92506,
+      "word": "今晚邀你一起看红月",
+      "onboard_time": 1757226023,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92419,
@@ -15603,6 +15731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87217,
+      "num": 174777,
+      "word": "央视起底多地机械车位遭闲置",
+      "onboard_time": 1757225243,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 87167,
       "num": 243937,
       "word": "全球覆盖的含金量谁懂啊",
@@ -15995,14 +16131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83601,
-      "num": 284825,
-      "word": "反诈老陈打假直播间五星茅台",
-      "onboard_time": 1757223023,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83554,
       "num": 405801,
       "word": "易会满被查证监会发声",
@@ -16145,6 +16273,14 @@
       "onboard_time": 1756826962,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81944,
+      "num": 81944,
+      "word": "下下下下周就放假了",
+      "onboard_time": 1757225003,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81889,
@@ -16297,6 +16433,14 @@
       "onboard_time": 1756803802,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79625,
+      "num": 79625,
+      "word": "于正风波后首更博",
+      "onboard_time": 1757224822,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 79326,
@@ -18291,6 +18435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41696,
+      "num": 237923,
+      "word": "倩碧见证樊振东德甲高光时刻",
+      "onboard_time": 1757225062,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41112,
       "num": 81906,
       "word": "秋天的朋友圈文案",
@@ -18345,6 +18497,14 @@
       "onboard_time": 1756710801,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39457,
+      "num": 535913,
+      "word": "从袁梦到圆梦",
+      "onboard_time": 1757206222,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39276,
@@ -19209,6 +19369,14 @@
       "onboard_time": 1756849814,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18671,
+      "num": 115577,
+      "word": "石破茂决意辞职",
+      "onboard_time": 1757226680,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18490,
