@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757227543006,
+  "endTime": 1757229725964,
   "band_list": [
     {
       "raw_hot": 2410456,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2164769,
-      "num": 297309,
+      "num": 307385,
       "word": "许嵩 冯禧",
       "onboard_time": 1757221283,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1417365,
+      "num": 1417365,
+      "word": "石破茂决意辞职",
+      "onboard_time": 1757226680,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1324008,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1018845,
-      "num": 275142,
+      "num": 292823,
       "word": "彭昱畅 急诊",
       "onboard_time": 1757222362,
       "rank": 28,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 769093,
-      "num": 375085,
+      "num": 382077,
       "word": "辛芷蕾获奖冯绍峰把高兴写脸上了",
       "onboard_time": 1757225181,
       "rank": 5,
@@ -219,6 +227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 530593,
+      "num": 378538,
+      "word": "我给人撕到奖了 你撕过吗",
+      "onboard_time": 1757224762,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 517316,
       "num": 289824,
       "word": "日掛中天",
@@ -257,6 +273,14 @@
       "onboard_time": 1757202258,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461349,
+      "num": 461349,
+      "word": "血月对人体有什么影响",
+      "onboard_time": 1757224342,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448675,
@@ -307,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 379434,
-      "num": 379434,
-      "word": "血月对人体有什么影响",
-      "onboard_time": 1757224342,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 385497,
+      "num": 385497,
+      "word": "美国出动10架F35",
+      "onboard_time": 1757224582,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 377969,
@@ -363,6 +387,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 350646,
+      "num": 350646,
+      "word": "女子赴美生子去世俩孩子生父成谜",
+      "onboard_time": 1757227102,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335236,
       "num": 271734,
       "word": "赵涛撕奖能力",
@@ -377,6 +409,14 @@
       "onboard_time": 1757221042,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311835,
+      "num": 311835,
+      "word": "工作后才知道苹果是最好的水果",
+      "onboard_time": 1757225662,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 307874,
@@ -411,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287170,
-      "num": 287170,
-      "word": "我给人撕到奖了 你撕过吗",
-      "onboard_time": 1757224762,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280164,
       "num": 280164,
       "word": "张晚意晕船晕成韩红了",
@@ -433,14 +465,6 @@
       "onboard_time": 1757168185,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265900,
-      "num": 265900,
-      "word": "美国出动10架F35",
-      "onboard_time": 1757224582,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 264492,
@@ -465,6 +489,14 @@
       "onboard_time": 1757216002,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 232026,
+      "num": 232026,
+      "word": "25岁到47岁的衰老全过程",
+      "onboard_time": 1757228542,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 229566,
@@ -595,20 +627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174687,
-      "num": 174687,
-      "word": "工作后才知道苹果是最好的水果",
-      "onboard_time": 1757225662,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 174350,
       "num": 168641,
       "word": "张晚意 内核强大又自洽",
       "onboard_time": 1757213600,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172290,
+      "num": 111368,
+      "word": "美总统威胁要与一美国城市开战",
+      "onboard_time": 1757229022,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171285,
@@ -787,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149367,
+      "num": 149367,
+      "word": "BLG对战JDG",
+      "onboard_time": 1757228182,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143712,
       "num": 143712,
       "word": "2岁男孩被爷爷女友带走后遗弃",
@@ -795,12 +835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143015,
-      "num": 278383,
-      "word": "石破茂决意辞职",
-      "onboard_time": 1757226680,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 142346,
+      "num": 142346,
+      "word": "今晚邀你一起看红月",
+      "onboard_time": 1757226023,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142256,
+      "num": 142256,
+      "word": "WTT澳门冠军赛女单完整签表",
+      "onboard_time": 1757229203,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 141682,
@@ -971,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127211,
+      "num": 127211,
+      "word": "做过美甲的都沉默了",
+      "onboard_time": 1757227882,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 126572,
       "num": 163108,
       "word": "遥感四十号03组卫星发射成功",
@@ -1067,20 +1123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119300,
+      "num": 110543,
+      "word": "WTT澳门冠军赛男单完整签表",
+      "onboard_time": 1757229443,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118381,
+      "num": 118381,
+      "word": "刘宇宁 以后生姑娘可不能长得像我",
+      "onboard_time": 1757227643,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118371,
       "num": 118371,
       "word": "刘宇宁说多人托关系要自己演唱会票",
       "onboard_time": 1757205201,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117605,
-      "num": 117605,
-      "word": "女子赴美生子去世俩孩子生父成谜",
-      "onboard_time": 1757227102,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117329,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1757202139,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109132,
+      "num": 109132,
+      "word": "WTT",
+      "onboard_time": 1757227941,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 108943,
@@ -1259,12 +1331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102000,
+      "num": 102000,
+      "word": "张远 脱轨可以出轨不行",
+      "onboard_time": 1757227882,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101587,
       "num": 101587,
       "word": "JS新男团官宣含帅量太高了",
       "onboard_time": 1757223142,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99329,
+      "num": 99329,
+      "word": "樊振东你这眼神上上下下盯着人家看",
+      "onboard_time": 1757229681,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 98694,
@@ -1363,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92506,
-      "num": 92506,
-      "word": "今晚邀你一起看红月",
-      "onboard_time": 1757226023,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92326,
       "num": 92326,
       "word": "王灿给杜淳发信息叫哥哥",
@@ -1427,6 +1507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87441,
+      "num": 87441,
+      "word": "朱迅想怼撒贝宁的眼神藏不住",
+      "onboard_time": 1757229563,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85080,
+      "num": 85080,
+      "word": "孟子义歪打正着说中了",
+      "onboard_time": 1757227701,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84839,
       "num": 84839,
       "word": "萧敬腾裤子裂了",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1757205980,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82876,
+      "num": 81307,
+      "word": "漂亮朋友圈是给讨厌的人看的",
+      "onboard_time": 1757228422,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 82102,
@@ -1523,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75079,
+      "num": 260225,
+      "word": "倩碧见证樊振东德甲高光时刻",
+      "onboard_time": 1757225062,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74788,
       "num": 81944,
       "word": "世界看到了中国阅兵",
@@ -1553,6 +1665,14 @@
       "onboard_time": 1757139081,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 69871,
+      "num": 93704,
+      "word": "智障学生409万教育经费被扣",
+      "onboard_time": 1757228722,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64279,
@@ -1617,6 +1737,14 @@
       "onboard_time": 1757186654,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 54622,
+      "num": 91723,
+      "word": "美国防战略或作出重大转变",
+      "onboard_time": 1757228602,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54010,
@@ -1691,14 +1819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41696,
-      "num": 260225,
-      "word": "倩碧见证樊振东德甲高光时刻",
-      "onboard_time": 1757225062,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41112,
       "num": 81906,
       "word": "秋天的朋友圈文案",
@@ -1708,7 +1828,7 @@
     },
     {
       "raw_hot": 39457,
-      "num": 535913,
+      "num": 571715,
       "word": "从袁梦到圆梦",
       "onboard_time": 1757206222,
       "rank": 2,
