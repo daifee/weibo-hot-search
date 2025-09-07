@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757254843541,
+  "endTime": 1757255882744,
   "band_list": [
     {
       "raw_hot": 2949615,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1781797,
-      "num": 1781797,
+      "raw_hot": 1787159,
+      "num": 1787159,
       "word": "月全食",
       "onboard_time": 1757155101,
       "rank": 5,
@@ -59,8 +59,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1408363,
-      "num": 1408363,
+      "raw_hot": 1426393,
+      "num": 1426393,
       "word": "没人通知金晨这是红毯吗",
       "onboard_time": 1757248042,
       "rank": 23,
@@ -611,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340168,
+      "num": 340168,
+      "word": "祝绪丹赫本风",
+      "onboard_time": 1757253504,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339456,
       "num": 339456,
       "word": "iG战胜EDG",
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 293536,
-      "num": 186722,
+      "num": 207159,
       "word": "祝绪丹下午是妹妹晚上就变妈妈了",
       "onboard_time": 1757252663,
       "rank": 24,
@@ -811,12 +819,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246283,
+      "num": 246283,
+      "word": "路人把李兰迪经纪人当成明星",
+      "onboard_time": 1757254282,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244080,
       "num": 244080,
       "word": "邓超陈赫鹿晗演唱会同台",
       "onboard_time": 1757252482,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 241498,
+      "num": 241498,
+      "word": "黄明昊祝贺AG再次夺冠",
+      "onboard_time": 1757255662,
+      "rank": 14,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 236495,
@@ -828,18 +852,18 @@
     },
     {
       "raw_hot": 234476,
-      "num": 185857,
+      "num": 207570,
       "word": "王力宏说法拉利老了还是法拉利",
       "onboard_time": 1757254042,
       "rank": 25,
       "category": "演出"
     },
     {
-      "raw_hot": 231559,
-      "num": 231559,
-      "word": "祝绪丹赫本风",
-      "onboard_time": 1757253504,
-      "rank": 18,
+      "raw_hot": 230382,
+      "num": 208510,
+      "word": "蔡文静穿得好清凉",
+      "onboard_time": 1757254883,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 211787,
-      "num": 1429310,
+      "num": 1595315,
       "word": "今晚邀你一起看红月",
       "onboard_time": 1757226023,
       "rank": 43,
@@ -921,6 +945,22 @@
       "onboard_time": 1757240420,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208451,
+      "num": 208451,
+      "word": "张桂源 库男神我终于和你见面了",
+      "onboard_time": 1757255304,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 207155,
+      "num": 207154,
+      "word": "男子55万买房2年后才发现是凶宅",
+      "onboard_time": 1757254584,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203101,
@@ -979,8 +1019,24 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 194432,
-      "num": 185534,
+      "raw_hot": 195837,
+      "num": 379331,
+      "word": "广东多地已发布停课通知",
+      "onboard_time": 1757253923,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195561,
+      "num": 215340,
+      "word": "血月拍摄攻略",
+      "onboard_time": 1757255603,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194447,
+      "num": 194447,
       "word": "乘客恐飞服用安眠药被赶下飞机",
       "onboard_time": 1757253682,
       "rank": 26,
@@ -1019,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187673,
+      "num": 194875,
+      "word": "宋轶这段演爽了",
+      "onboard_time": 1757254763,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187246,
       "num": 187246,
       "word": "魏大勋抱赵今麦投篮",
@@ -1033,6 +1097,14 @@
       "onboard_time": 1757253923,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185097,
+      "num": 185097,
+      "word": "2025F1意大利大奖赛",
+      "onboard_time": 1757254824,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 184793,
@@ -1075,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179909,
-      "num": 179909,
-      "word": "路人把李兰迪经纪人当成明星",
-      "onboard_time": 1757254282,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179298,
       "num": 179298,
       "word": "张远KPL中场秀",
@@ -1115,20 +1179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176608,
-      "num": 379331,
-      "word": "广东多地已发布停课通知",
-      "onboard_time": 1757253923,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175706,
       "num": 175706,
       "word": "新华社研究院发布重磅报告",
       "onboard_time": 1757231662,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175249,
+      "num": 175249,
+      "word": "江祖平再发文回应自曝遭性侵",
+      "onboard_time": 1757254643,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 174350,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1757234301,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162292,
+      "num": 221520,
+      "word": "地铁 孕妇车厢",
+      "onboard_time": 1757254462,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162019,
@@ -1459,8 +1531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147469,
-      "num": 147469,
+      "raw_hot": 148355,
+      "num": 148355,
       "word": "在中国这个东西是用来占座的",
       "onboard_time": 1757251882,
       "rank": 37,
@@ -1531,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142382,
+      "num": 142382,
+      "word": "以色列拦截胡塞武装无人机失败",
+      "onboard_time": 1757255304,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141682,
       "num": 141682,
       "word": "8万只气球去哪儿了",
@@ -1545,6 +1625,14 @@
       "onboard_time": 1757222542,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141462,
+      "num": 141462,
+      "word": "美国抓捕300余名韩国工程师",
+      "onboard_time": 1757252063,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141334,
@@ -1617,14 +1705,6 @@
       "onboard_time": 1757218943,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138312,
-      "num": 138312,
-      "word": "美国抓捕300余名韩国工程师",
-      "onboard_time": 1757252063,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 138135,
@@ -1723,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135803,
+      "num": 135803,
+      "word": "美国0比2韩国",
+      "onboard_time": 1757252482,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135100,
       "num": 135100,
       "word": "龚俊敢演我不敢看",
@@ -1809,14 +1897,6 @@
       "onboard_time": 1757246001,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130296,
-      "num": 130296,
-      "word": "男子55万买房2年后才发现是凶宅",
-      "onboard_time": 1757254584,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129733,
@@ -1969,14 +2049,6 @@
       "onboard_time": 1757239941,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124131,
-      "num": 124131,
-      "word": "宋轶这段演爽了",
-      "onboard_time": 1757254763,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 123131,
@@ -2187,14 +2259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114789,
-      "num": 114789,
-      "word": "2025F1意大利大奖赛",
-      "onboard_time": 1757254824,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114012,
       "num": 114012,
       "word": "孙颖莎首轮对阵赫尔希",
@@ -2281,6 +2345,14 @@
       "onboard_time": 1757236042,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110478,
+      "num": 207155,
+      "word": "七冠中单你好依旧是世一中",
+      "onboard_time": 1757255662,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 110229,
@@ -2449,6 +2521,14 @@
       "onboard_time": 1757152103,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103880,
+      "num": 162971,
+      "word": "还没到春晚马丽又演上小品了",
+      "onboard_time": 1757255843,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 103831,
@@ -2681,6 +2761,14 @@
       "onboard_time": 1757243179,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93557,
+      "num": 209687,
+      "word": "梦泪捧杯",
+      "onboard_time": 1757255603,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 93481,
@@ -2987,14 +3075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75981,
-      "num": 221520,
-      "word": "地铁 孕妇车厢",
-      "onboard_time": 1757254462,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75968,
       "num": 82035,
       "word": "湿气一旦排出减肥是很快的",
@@ -3171,14 +3251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49554,
-      "num": 146716,
-      "word": "江祖平再发文回应自曝遭性侵",
-      "onboard_time": 1757254643,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49190,
       "num": 81993,
       "word": "一路繁花2",
@@ -3323,6 +3395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27374,
+      "num": 162438,
+      "word": "当湘琴给孩子看婚礼录像带",
+      "onboard_time": 1757255544,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25678,
       "num": 28744,
       "word": "归队",
@@ -3384,6 +3464,14 @@
       "word": "人间好时节",
       "onboard_time": 1757237721,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9473,
+      "num": 141778,
+      "word": "远洋船长被害案嫌犯被鉴定无精神病",
+      "onboard_time": 1757255783,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
