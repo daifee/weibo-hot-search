@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757214971323,
+  "endTime": 1757216908536,
   "band_list": [
     {
       "raw_hot": 2397907,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1324008,
-      "num": 367983,
+      "num": 425478,
       "word": "周迅 日掛中天",
       "onboard_time": 1757209042,
       "rank": 6,
@@ -35,8 +35,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1255093,
+      "num": 428426,
+      "word": "辛芷蕾的影后是全票通过",
+      "onboard_time": 1757216662,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1217927,
-      "num": 291716,
+      "num": 318207,
       "word": "女子在泰被沉尸胸部假体印中文",
       "onboard_time": 1757170584,
       "rank": 10,
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1075588,
+      "num": 1075588,
+      "word": "父子摆摊仅剩5元城管处罚后月入6000",
+      "onboard_time": 1757215641,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 983382,
       "num": 204432,
       "word": "辛芷蕾",
@@ -67,8 +83,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 833216,
+      "num": 833216,
+      "word": "这才是面包的正常价格",
+      "onboard_time": 1757211801,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 809172,
-      "num": 199794,
+      "num": 203962,
       "word": "王琳怀孕高烧父母看望只待了15分钟",
       "onboard_time": 1757202139,
       "rank": 20,
@@ -91,16 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 685454,
-      "num": 685454,
-      "word": "这才是面包的正常价格",
-      "onboard_time": 1757211801,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 639198,
-      "num": 365555,
+      "num": 416722,
       "word": "85花格局要变了",
       "onboard_time": 1757202502,
       "rank": 7,
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 448675,
-      "num": 263826,
+      "num": 316248,
       "word": "恭喜东北大呲花",
       "onboard_time": 1757211621,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 437544,
+      "num": 437544,
+      "word": "华盛顿爆发大规模游行示威",
+      "onboard_time": 1757214263,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 432740,
@@ -235,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 307874,
+      "num": 307874,
+      "word": "她的瞳官宣杀青",
+      "onboard_time": 1757215222,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302879,
       "num": 182326,
       "word": "原来鬼压床是睡眠瘫痪症",
@@ -267,12 +299,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238861,
-      "num": 238861,
-      "word": "华盛顿爆发大规模游行示威",
-      "onboard_time": 1757214263,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 262639,
+      "num": 262639,
+      "word": "中国导游在日本被打",
+      "onboard_time": 1757215401,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249776,
+      "num": 275140,
+      "word": "现在连买奶茶都要配货了",
+      "onboard_time": 1757213962,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 236495,
+      "num": 236495,
+      "word": "中级会计",
+      "onboard_time": 1757216002,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 225761,
+      "num": 203945,
+      "word": "郑业成赵晴在你眉梢种红豆开机",
+      "onboard_time": 1757214802,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 221669,
@@ -395,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167585,
-      "num": 167585,
-      "word": "郑业成赵晴在你眉梢种红豆开机",
-      "onboard_time": 1757214802,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 169078,
+      "num": 169078,
+      "word": "华语六位欧三影后",
+      "onboard_time": 1757215461,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 162019,
@@ -409,6 +465,14 @@
       "onboard_time": 1757180657,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161181,
+      "num": 161181,
+      "word": "血月能看吗",
+      "onboard_time": 1757213721,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160850,
@@ -451,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154060,
+      "num": 154060,
+      "word": "晨昏线写给所有在生活路上跌倒过的人",
+      "onboard_time": 1757216061,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153074,
       "num": 295164,
       "word": "近20人假冒国安闯入公园挖地寻宝",
@@ -471,6 +543,14 @@
       "num": 150295,
       "word": "张杰 一般一般世界第三",
       "onboard_time": 1757174543,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146571,
+      "num": 146571,
+      "word": "赵磊qko真的上夫妻综艺了",
+      "onboard_time": 1757216122,
       "rank": 27,
       "category": "综艺"
     },
@@ -499,16 +579,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137252,
-      "num": 137252,
-      "word": "现在连买奶茶都要配货了",
-      "onboard_time": 1757213962,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 136679,
-      "num": 136679,
+      "num": 318392,
       "word": "独臂坦克设计师",
       "onboard_time": 1757213242,
       "rank": 47,
@@ -521,14 +593,6 @@
       "onboard_time": 1757211862,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 136103,
-      "num": 135050,
-      "word": "血月能看吗",
-      "onboard_time": 1757213721,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135100,
@@ -619,6 +683,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 124939,
+      "num": 124939,
+      "word": "空腹36小时身体的变化",
+      "onboard_time": 1757215222,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 124700,
       "num": 124700,
       "word": "租客弃猫失联致5只猫坠楼死亡",
@@ -641,6 +713,14 @@
       "onboard_time": 1757211022,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122986,
+      "num": 122986,
+      "word": "庞众望在人民日报发文",
+      "onboard_time": 1757216841,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121643,
@@ -667,12 +747,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119766,
+      "num": 119766,
+      "word": "樊振东德语回应德甲首胜",
+      "onboard_time": 1757216783,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118371,
       "num": 118371,
       "word": "刘宇宁说多人托关系要自己演唱会票",
       "onboard_time": 1757205201,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117329,
+      "num": 117329,
+      "word": "初秋为什么适合吃葡萄",
+      "onboard_time": 1757216122,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116425,
@@ -699,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112737,
+      "num": 112737,
+      "word": "美公布数百名韩国人被捕现场画面",
+      "onboard_time": 1757214561,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111891,
       "num": 111891,
       "word": "白露",
@@ -723,20 +827,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 107735,
-      "num": 107735,
-      "word": "美公布数百名韩国人被捕现场画面",
-      "onboard_time": 1757214561,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 107054,
       "num": 198626,
       "word": "风吹稻田我们又想念您了",
       "onboard_time": 1757213242,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106166,
+      "num": 106166,
+      "word": "桃花坞开放中官宣定档",
+      "onboard_time": 1757214980,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 104716,
@@ -755,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103731,
+      "num": 103731,
+      "word": "中级实务",
+      "onboard_time": 1757216783,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 102415,
       "num": 102415,
       "word": "东部战区回应加澳军舰过航台湾海峡",
@@ -769,6 +881,14 @@
       "onboard_time": 1757205681,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100226,
+      "num": 116741,
+      "word": "苏醒回应王栎鑫退出MAMA舞台",
+      "onboard_time": 1757216183,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 96587,
@@ -1132,7 +1252,7 @@
     },
     {
       "raw_hot": 3588,
-      "num": 577875,
+      "num": 915918,
       "word": "致敬每一位默默坚守的身影",
       "onboard_time": 1757085263,
       "rank": 2,
