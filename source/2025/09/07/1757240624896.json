@@ -1,0 +1,410 @@
+{
+  "runTime": 1757240624896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1355997,
+        "num": 1355997,
+        "word": "朝鲜播出金正恩出席九三阅兵纪录片",
+        "onboard_time": 1757234901,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 708957,
+        "num": 708957,
+        "word": "辛芷蕾听完英文提问的反应",
+        "onboard_time": 1757233401,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25162,
+        "num": 594209,
+        "word": "又是被中国排面硬控的一天",
+        "onboard_time": 1757210361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 516874,
+        "num": 516874,
+        "word": "长期吃米vs长期吃面",
+        "onboard_time": 1757232141,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 388685,
+        "num": 388685,
+        "word": "血月对人体有什么影响",
+        "onboard_time": 1757224342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319429,
+        "num": 319429,
+        "word": "石破茂宣布辞去自民党总裁职务",
+        "onboard_time": 1757236101,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429800,
+        "num": 319374,
+        "word": "辛芷蕾获奖时张颂文的表情",
+        "onboard_time": 1757217261,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306215,
+        "num": 306215,
+        "word": "石破茂决意辞职",
+        "onboard_time": 1757226680,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275493,
+        "num": 275493,
+        "word": "张晚意李沁嫂子开门我是我哥",
+        "onboard_time": 1757232441,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68977,
+        "num": 272915,
+        "word": "阅兵的转头杀怎么这么帅",
+        "onboard_time": 1757236521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90397,
+        "num": 269053,
+        "word": "杨幂半成品广告成了",
+        "onboard_time": 1757238501,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1117821,
+        "num": 263249,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502189,
+        "num": 259839,
+        "word": "警方通报女子遭前夫殴打后死亡",
+        "onboard_time": 1757234781,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305952,
+        "num": 255967,
+        "word": "丁程鑫刘耀文旅行回来了",
+        "onboard_time": 1757235140,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252648,
+        "num": 252648,
+        "word": "工作后才知道苹果是最好的水果",
+        "onboard_time": 1757225662,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231027,
+        "num": 231027,
+        "word": "广东珠海全市学校停课",
+        "onboard_time": 1757232802,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225851,
+        "num": 225851,
+        "word": "孙心娅回应是冯绍峰女友里最好看的",
+        "onboard_time": 1757233941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210621,
+        "num": 210621,
+        "word": "scout",
+        "onboard_time": 1757237601,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159467,
+        "num": 159467,
+        "word": "我给人撕到奖了 你撕过吗",
+        "onboard_time": 1757224762,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166836,
+        "num": 159453,
+        "word": "AG对战WB",
+        "onboard_time": 1757239581,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1600592,
+        "num": 159402,
+        "word": "12306回应大量私生高铁站围堵男星",
+        "onboard_time": 1757234721,
+        "rank": 20,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 159318,
+        "num": 159318,
+        "word": "张艺兴飞奔赶高铁",
+        "onboard_time": 1757238441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157132,
+        "num": 157132,
+        "word": "彭昱畅 急诊",
+        "onboard_time": 1757222362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156297,
+        "num": 156297,
+        "word": "父子摆摊仅剩5元城管处罚后月入6000",
+        "onboard_time": 1757215641,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138868,
+        "num": 138868,
+        "word": "今晚邀你一起看红月",
+        "onboard_time": 1757226023,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137046,
+        "num": 137046,
+        "word": "为什么奶茶不另外加糖反而更甜",
+        "onboard_time": 1757235501,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134739,
+        "num": 134739,
+        "word": "周迅",
+        "onboard_time": 1757231363,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130789,
+        "num": 130789,
+        "word": "易烊千玺妈妈送我伴手礼",
+        "onboard_time": 1757240420,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127163,
+        "num": 127163,
+        "word": "张维伊不是我找你们来的吧",
+        "onboard_time": 1757234421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104580,
+        "num": 126839,
+        "word": "花少7最没偶像包袱的一季",
+        "onboard_time": 1757240061,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126541,
+        "num": 126541,
+        "word": "一高校宿舍床直接钉在墙上",
+        "onboard_time": 1757236581,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125277,
+        "num": 125277,
+        "word": "石破茂记者会",
+        "onboard_time": 1757236280,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124153,
+        "num": 124153,
+        "word": "鹿哈老婆看鹿晗演唱会了",
+        "onboard_time": 1757239941,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123799,
+        "num": 123799,
+        "word": "女子嫁外国贫民窟求助回国系摆拍",
+        "onboard_time": 1757231902,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117478,
+        "num": 117478,
+        "word": "石破茂辞职理由",
+        "onboard_time": 1757231662,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113301,
+        "num": 113301,
+        "word": "新华社研究院发布重磅报告",
+        "onboard_time": 1757231662,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111926,
+        "num": 111926,
+        "word": "美总统威胁要与一美国城市开战",
+        "onboard_time": 1757229022,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105002,
+        "num": 105002,
+        "word": "医生支招气血不足怎么补",
+        "onboard_time": 1757239760,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54726,
+        "num": 97223,
+        "word": "减脂馒头爆单老板一天怒干15小时",
+        "onboard_time": 1757240002,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31292,
+        "num": 96570,
+        "word": "狗狗绝食7天守护离世主人遗体",
+        "onboard_time": 1757240061,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96518,
+        "num": 96518,
+        "word": "胖东来有父婴室了",
+        "onboard_time": 1757238981,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94456,
+        "num": 94456,
+        "word": "杨紫暑期档全勤王",
+        "onboard_time": 1757233161,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93699,
+        "num": 93699,
+        "word": "李昀锐 我那ys白月光",
+        "onboard_time": 1757234721,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92637,
+        "num": 92637,
+        "word": "错过今晚的月全食要等3年",
+        "onboard_time": 1757216902,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92609,
+        "num": 92609,
+        "word": "25岁到47岁的衰老全过程",
+        "onboard_time": 1757228542,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89535,
+        "num": 89535,
+        "word": "柯淳说了什么宁静笑得好魔性",
+        "onboard_time": 1757240301,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85794,
+        "num": 85794,
+        "word": "溺水意外发现潜水天赋",
+        "onboard_time": 1757237481,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85626,
+        "num": 85626,
+        "word": "王牌对王牌回应彭昱畅送急诊",
+        "onboard_time": 1757229981,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84383,
+        "num": 84383,
+        "word": "BLG对战JDG",
+        "onboard_time": 1757228182,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81569,
+        "num": 81569,
+        "word": "男主的情敌是曾经的自己",
+        "onboard_time": 1757240602,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一握情深意重#"
+    }
+  }
+}

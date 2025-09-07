@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757237750466,
+  "endTime": 1757240624896,
   "band_list": [
     {
       "raw_hot": 2410456,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1600592,
+      "num": 223155,
+      "word": "12306回应大量私生高铁站围堵男星",
+      "onboard_time": 1757234721,
+      "rank": 20,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 1439309,
       "num": 1439309,
       "word": "石破茂决意辞职",
@@ -43,12 +51,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1358223,
-      "num": 223155,
-      "word": "12306回应大量私生高铁站围堵男星",
-      "onboard_time": 1757234721,
-      "rank": 20,
-      "category": "民生新闻,艺人"
+      "raw_hot": 1355997,
+      "num": 1355997,
+      "word": "朝鲜播出金正恩出席九三阅兵纪录片",
+      "onboard_time": 1757234901,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1324008,
@@ -145,14 +153,6 @@
       "onboard_time": 1757211801,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 827577,
-      "num": 827577,
-      "word": "朝鲜播出金正恩出席九三阅兵纪录片",
-      "onboard_time": 1757234901,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 815970,
@@ -289,6 +289,14 @@
       "onboard_time": 1757200458,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 502189,
+      "num": 259839,
+      "word": "警方通报女子遭前夫殴打后死亡",
+      "onboard_time": 1757234781,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 494444,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319429,
+      "num": 406979,
+      "word": "石破茂宣布辞去自民党总裁职务",
+      "onboard_time": 1757236101,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318303,
       "num": 318303,
       "word": "石破茂辞职理由",
@@ -513,6 +529,14 @@
       "onboard_time": 1757215222,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305952,
+      "num": 255967,
+      "word": "丁程鑫刘耀文旅行回来了",
+      "onboard_time": 1757235140,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 302995,
@@ -563,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268959,
-      "num": 406979,
-      "word": "石破茂宣布辞去自民党总裁职务",
-      "onboard_time": 1757236101,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 264492,
       "num": 264492,
       "word": "生病急需钱家人发现32万做了生意",
@@ -611,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225851,
+      "num": 225851,
+      "word": "孙心娅回应是冯绍峰女友里最好看的",
+      "onboard_time": 1757233941,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225761,
       "num": 203945,
       "word": "郑业成赵晴在你眉梢种红豆开机",
@@ -625,14 +649,6 @@
       "onboard_time": 1757206643,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 216292,
-      "num": 216292,
-      "word": "丁程鑫刘耀文旅行回来了",
-      "onboard_time": 1757235140,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 216175,
@@ -667,20 +683,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210621,
+      "num": 210621,
+      "word": "scout",
+      "onboard_time": 1757237601,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203101,
       "num": 203101,
       "word": "GAI在前面跑演唱会在后面追",
       "onboard_time": 1757214082,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201554,
-      "num": 201554,
-      "word": "警方通报女子遭前夫殴打后死亡",
-      "onboard_time": 1757234781,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199809,
@@ -729,14 +745,6 @@
       "onboard_time": 1757171903,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190379,
-      "num": 190379,
-      "word": "孙心娅回应是冯绍峰女友里最好看的",
-      "onboard_time": 1757233941,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 189542,
@@ -867,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166836,
+      "num": 159453,
+      "word": "AG对战WB",
+      "onboard_time": 1757239581,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164504,
       "num": 164504,
       "word": "WTT澳门冠军赛女单完整签表",
@@ -937,6 +953,14 @@
       "onboard_time": 1757217683,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159318,
+      "num": 159318,
+      "word": "张艺兴飞奔赶高铁",
+      "onboard_time": 1757238441,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 159072,
@@ -1139,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137046,
+      "num": 137046,
+      "word": "为什么奶茶不另外加糖反而更甜",
+      "onboard_time": 1757235501,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136679,
       "num": 318392,
       "word": "独臂坦克设计师",
@@ -1211,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130789,
+      "num": 130789,
+      "word": "易烊千玺妈妈送我伴手礼",
+      "onboard_time": 1757240420,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129733,
       "num": 129733,
       "word": "终于知道阅兵战士每天都在吃啥了",
@@ -1275,12 +1315,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126540,
-      "num": 112182,
-      "word": "为什么奶茶不另外加糖反而更甜",
-      "onboard_time": 1757235501,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 126541,
+      "num": 126541,
+      "word": "一高校宿舍床直接钉在墙上",
+      "onboard_time": 1757236581,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125939,
@@ -1339,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124153,
+      "num": 124153,
+      "word": "鹿哈老婆看鹿晗演唱会了",
+      "onboard_time": 1757239941,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123131,
       "num": 112087,
       "word": "李昀锐 我那ys白月光",
@@ -1385,22 +1433,6 @@
       "onboard_time": 1757216783,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119508,
-      "num": 119508,
-      "word": "scout",
-      "onboard_time": 1757237601,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 118631,
-      "num": 118631,
-      "word": "一高校宿舍床直接钉在墙上",
-      "onboard_time": 1757236581,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118371,
@@ -1572,7 +1604,7 @@
     },
     {
       "raw_hot": 108137,
-      "num": 108137,
+      "num": 272915,
       "word": "阅兵的转头杀怎么这么帅",
       "onboard_time": 1757236521,
       "rank": 43,
@@ -1619,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105002,
+      "num": 105002,
+      "word": "医生支招气血不足怎么补",
+      "onboard_time": 1757239760,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104716,
       "num": 104716,
       "word": "24岁男子驾车致7伤被抓",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1757220982,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104580,
+      "num": 126839,
+      "word": "花少7最没偶像包袱的一季",
+      "onboard_time": 1757240061,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 104563,
@@ -1771,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96518,
+      "num": 96518,
+      "word": "胖东来有父婴室了",
+      "onboard_time": 1757238981,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96124,
       "num": 96124,
       "word": "GAI没忍住说早了",
@@ -1891,12 +1947,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90397,
+      "num": 269053,
+      "word": "杨幂半成品广告成了",
+      "onboard_time": 1757238501,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 89617,
       "num": 89617,
       "word": "韩国偶遇任嘉伦",
       "onboard_time": 1757175203,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89535,
+      "num": 89535,
+      "word": "柯淳说了什么宁静笑得好魔性",
+      "onboard_time": 1757240301,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 88737,
@@ -1932,7 +2004,7 @@
     },
     {
       "raw_hot": 84449,
-      "num": 84449,
+      "num": 594209,
       "word": "又是被中国排面硬控的一天",
       "onboard_time": 1757210361,
       "rank": 47,
@@ -1993,6 +2065,14 @@
       "onboard_time": 1757225003,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81569,
+      "num": 81569,
+      "word": "男主的情敌是曾经的自己",
+      "onboard_time": 1757240602,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 80304,
@@ -2195,6 +2275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 54726,
+      "num": 97223,
+      "word": "减脂馒头爆单老板一天怒干15小时",
+      "onboard_time": 1757240002,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54622,
       "num": 91723,
       "word": "美国防战略或作出重大转变",
@@ -2329,6 +2417,14 @@
       "onboard_time": 1757160443,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 31292,
+      "num": 96570,
+      "word": "狗狗绝食7天守护离世主人遗体",
+      "onboard_time": 1757240061,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30167,
