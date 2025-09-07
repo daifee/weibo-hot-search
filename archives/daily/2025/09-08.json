@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757272720598,
+  "endTime": 1757273788979,
   "band_list": [
     {
       "raw_hot": 3121097,
@@ -515,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30678,
+      "num": 36942,
+      "word": "看血月最大的影响是熬夜",
+      "onboard_time": 1757269575,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29367,
       "num": 47064,
       "word": "迈凯伦",
@@ -528,14 +536,6 @@
       "word": "全境全过程可见的月全食",
       "onboard_time": 1757267897,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28416,
-      "num": 36942,
-      "word": "看血月最大的影响是熬夜",
-      "onboard_time": 1757269575,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -555,7 +555,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23698,
+      "raw_hot": 23753,
       "num": 58870,
       "word": "月全食时月亮为何是红色的",
       "onboard_time": 1757272274,
@@ -577,6 +577,14 @@
       "onboard_time": 1757247981,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10546,
+      "num": 27449,
+      "word": "石破茂就选举失利道歉",
+      "onboard_time": 1757273534,
+      "rank": 23,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
