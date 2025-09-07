@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757245007610,
+  "endTime": 1757249023771,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -161,6 +161,14 @@
       "onboard_time": 1756891104,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2949615,
+      "num": 2949615,
+      "word": "血月",
+      "onboard_time": 1757243421,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2916325,
@@ -697,14 +705,6 @@
       "onboard_time": 1756868203,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1497840,
-      "num": 1497840,
-      "word": "血月",
-      "onboard_time": 1757243421,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1487618,
@@ -1603,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 846406,
+      "num": 363396,
+      "word": "三问武汉大学座椅标签事件",
+      "onboard_time": 1757246420,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 846379,
       "num": 415166,
       "word": "姜潮麦迪娜孩子颜值",
@@ -1849,6 +1857,14 @@
       "onboard_time": 1757050402,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 754880,
+      "num": 754880,
+      "word": "张柏芝撞到刘嘉玲后相视一笑",
+      "onboard_time": 1757245280,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 754801,
@@ -2273,6 +2289,14 @@
       "onboard_time": 1756910784,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 625963,
+      "num": 353392,
+      "word": "冯禧刚毕业就搭档何老师参加hi6",
+      "onboard_time": 1757245460,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 625091,
@@ -3571,6 +3595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 449946,
+      "num": 157810,
+      "word": "没人通知金晨这是红毯吗",
+      "onboard_time": 1757248042,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 449558,
       "num": 449558,
       "word": "中朝元首会谈",
@@ -3633,6 +3665,14 @@
       "onboard_time": 1756878686,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 444788,
+      "num": 444788,
+      "word": "血月全程约3.5小时",
+      "onboard_time": 1757246721,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444459,
@@ -4057,6 +4097,14 @@
       "onboard_time": 1756807701,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 394501,
+      "num": 394501,
+      "word": "深圳天气",
+      "onboard_time": 1757247981,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394154,
@@ -4912,6 +4960,14 @@
       "word": "呼吁开除最快女护士言论越界了",
       "onboard_time": 1757101274,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327675,
+      "num": 374138,
+      "word": "女子吐槽羊排肥肉多被起诉赔6000",
+      "onboard_time": 1757244921,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -5779,6 +5835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270351,
+      "num": 388895,
+      "word": "黄子韬首谈决定求婚的原因",
+      "onboard_time": 1757244442,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268670,
       "num": 286541,
       "word": "新一代制式步枪亮相九三阅兵",
@@ -5881,6 +5945,14 @@
       "onboard_time": 1757062821,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 262225,
+      "num": 262225,
+      "word": "血月可能有一个绿松石带",
+      "onboard_time": 1757244140,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261210,
@@ -9131,6 +9203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164192,
+      "num": 164192,
+      "word": "张远KPL中场秀",
+      "onboard_time": 1757248642,
+      "rank": 17,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 164166,
       "num": 99468,
       "word": "陈咏诗港姐冠军",
@@ -9859,6 +9939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154755,
+      "num": 154755,
+      "word": "深圳停课",
+      "onboard_time": 1757248882,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154681,
       "num": 154681,
       "word": "微博私信才是明星的红娘吧",
@@ -10483,6 +10571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146879,
+      "num": 146879,
+      "word": "谁懂九尾不然同框的含金量",
+      "onboard_time": 1757247803,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146812,
       "num": 146812,
       "word": "日本前首相出席阅兵被批评",
@@ -10731,6 +10827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143771,
+      "num": 163219,
+      "word": "白露听白鹿",
+      "onboard_time": 1757247442,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143712,
       "num": 143712,
       "word": "2岁男孩被爷爷女友带走后遗弃",
@@ -10947,6 +11051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140940,
+      "num": 162073,
+      "word": "刘思远 律师版杨天真",
+      "onboard_time": 1757247922,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140822,
       "num": 140822,
       "word": "你以为的坏习惯其实利于抑郁恢复",
@@ -10955,11 +11067,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 140735,
-      "num": 140735,
-      "word": "女子吐槽羊排肥肉多被起诉赔6000",
-      "onboard_time": 1757244921,
-      "rank": 24,
+      "raw_hot": 140666,
+      "num": 140666,
+      "word": "上海百年老洋房降价5334万再流拍",
+      "onboard_time": 1757244140,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -10985,6 +11097,14 @@
       "onboard_time": 1757118499,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140126,
+      "num": 138578,
+      "word": "她一天做了我一辈子的工作",
+      "onboard_time": 1757248642,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 140072,
@@ -11395,6 +11515,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136008,
+      "num": 136008,
+      "word": "红发完全是鹿晗的统治区",
+      "onboard_time": 1757249002,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 135902,
+      "num": 135902,
+      "word": "周启豪2比4户上隼辅",
+      "onboard_time": 1757248582,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135669,
       "num": 180209,
       "word": "我们为什么搞导弹",
@@ -11531,12 +11667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134416,
-      "num": 134416,
-      "word": "上海百年老洋房降价5334万再流拍",
-      "onboard_time": 1757244140,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 134363,
+      "num": 134363,
+      "word": "戴口罩的陈芋汐完全认不出",
+      "onboard_time": 1757247981,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 134342,
@@ -11675,6 +11811,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132215,
+      "num": 132215,
+      "word": "苏超苏州1比1盐城",
+      "onboard_time": 1757247922,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132211,
+      "num": 132211,
+      "word": "萧敬腾老婆晒裤子破洞照",
+      "onboard_time": 1757248582,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132191,
       "num": 132191,
       "word": "花旗银行声明",
@@ -11721,6 +11873,14 @@
       "onboard_time": 1756952421,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131581,
+      "num": 131581,
+      "word": "湘超",
+      "onboard_time": 1757248522,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 131557,
@@ -11963,14 +12123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129058,
-      "num": 129058,
-      "word": "血月可能有一个绿松石带",
-      "onboard_time": 1757244140,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129008,
       "num": 129008,
       "word": "花儿与少年7",
@@ -12067,6 +12219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128279,
+      "num": 128279,
+      "word": "灵儿一拳一个KPL决赛嘉宾",
+      "onboard_time": 1757248762,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128269,
       "num": 128269,
       "word": "胡锡进评武大椅子事件",
@@ -12121,6 +12281,14 @@
       "onboard_time": 1757211561,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127900,
+      "num": 127900,
+      "word": "蒋一侨爆料自己爸爸怕老婆",
+      "onboard_time": 1757246001,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 127833,
@@ -12347,6 +12515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125227,
+      "num": 125227,
+      "word": "苹果 果张力",
+      "onboard_time": 1757247442,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125181,
       "num": 125181,
       "word": "陈乔恩给所有失恋女生的一段话",
@@ -12483,6 +12659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124162,
+      "num": 124162,
+      "word": "辛芷蕾影史留名",
+      "onboard_time": 1757249002,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124153,
       "num": 124153,
       "word": "鹿哈老婆看鹿晗演唱会了",
@@ -12537,6 +12721,14 @@
       "onboard_time": 1757053521,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123678,
+      "num": 123678,
+      "word": "张维伊求生欲",
+      "onboard_time": 1757247622,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 123282,
@@ -13307,6 +13499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115988,
+      "num": 115988,
+      "word": "苏超盐城2比1苏州",
+      "onboard_time": 1757248942,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115786,
       "num": 158200,
       "word": "王楚钦2比3徐瑛彬",
@@ -13385,6 +13585,14 @@
       "onboard_time": 1757080822,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115424,
+      "num": 115424,
+      "word": "朝鲜驻华使馆内部首次公开",
+      "onboard_time": 1757246782,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115363,
@@ -13843,6 +14051,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 111770,
+      "num": 111770,
+      "word": "一诺钟意双FMVP的强度",
+      "onboard_time": 1757248163,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111737,
       "num": 111737,
       "word": "兰州人一天吃几十万碗牛肉面",
@@ -14033,6 +14249,14 @@
       "onboard_time": 1757240061,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109868,
+      "num": 109868,
+      "word": "王源直播",
+      "onboard_time": 1757244861,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 109809,
@@ -14241,6 +14465,14 @@
       "onboard_time": 1757223322,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108162,
+      "num": 108162,
+      "word": "张远 开不开心",
+      "onboard_time": 1757248882,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 108117,
@@ -14609,6 +14841,14 @@
       "onboard_time": 1757242642,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105119,
+      "num": 105119,
+      "word": "与晋长安大结局",
+      "onboard_time": 1757247082,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 104925,
@@ -15179,6 +15419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99826,
+      "num": 99826,
+      "word": "AG决赛极速局",
+      "onboard_time": 1757245581,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99781,
       "num": 99781,
       "word": "法国街头的印度人",
@@ -15329,14 +15577,6 @@
       "onboard_time": 1756967544,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98799,
-      "num": 98799,
-      "word": "王源直播",
-      "onboard_time": 1757244861,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 98741,
@@ -16868,7 +17108,7 @@
     },
     {
       "raw_hot": 84449,
-      "num": 829169,
+      "num": 949139,
       "word": "又是被中国排面硬控的一天",
       "onboard_time": 1757210361,
       "rank": 47,
@@ -17345,14 +17585,6 @@
       "onboard_time": 1756803802,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79436,
-      "num": 100109,
-      "word": "黄子韬首谈决定求婚的原因",
-      "onboard_time": 1757244442,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 79326,
