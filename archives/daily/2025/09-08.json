@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757283725506,
+  "endTime": 1757284702184,
   "band_list": [
     {
       "raw_hot": 3121097,
@@ -139,6 +139,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248119,
+      "num": 248119,
+      "word": "血月可能有一个绿松石带",
+      "onboard_time": 1757244140,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220201,
+      "num": 261805,
+      "word": "辽宁通报沈师大学生呕吐腹泻调查",
+      "onboard_time": 1757262379,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214480,
       "num": 187797,
       "word": "长期吃米vs长期吃面",
@@ -163,27 +179,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200973,
-      "num": 261805,
-      "word": "辽宁通报沈师大学生呕吐腹泻调查",
-      "onboard_time": 1757262379,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186730,
       "num": 186730,
       "word": "女子地铁拒安检多次追打工作人员",
       "onboard_time": 1757259205,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184386,
-      "num": 184386,
-      "word": "血月可能有一个绿松石带",
-      "onboard_time": 1757244140,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -193,6 +193,14 @@
       "onboard_time": 1757260640,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163336,
+      "num": 163336,
+      "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
+      "onboard_time": 1757260881,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 156844,
@@ -235,12 +243,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122377,
-      "num": 122377,
-      "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
-      "onboard_time": 1757260881,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 125940,
+      "num": 125940,
+      "word": "在中国这个东西是用来占座的",
+      "onboard_time": 1757251882,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 121027,
@@ -307,14 +315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 91693,
-      "num": 91693,
-      "word": "在中国这个东西是用来占座的",
-      "onboard_time": 1757251882,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86627,
       "num": 98602,
       "word": "鹿晗演唱会来了好多嘉宾",
@@ -329,6 +329,14 @@
       "onboard_time": 1757251764,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 83884,
+      "num": 83884,
+      "word": "深圳天气",
+      "onboard_time": 1757247981,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78338,
@@ -419,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54393,
+      "num": 54393,
+      "word": "吃了15天白人饭的张拿铁回家泪崩",
+      "onboard_time": 1757277554,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 50735,
       "num": 59644,
       "word": "石破茂热门接班人有三位",
@@ -435,12 +451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47201,
-      "num": 47201,
-      "word": "吃了15天白人饭的张拿铁回家泪崩",
-      "onboard_time": 1757277554,
-      "rank": 23,
-      "category": "网红"
+      "raw_hot": 48514,
+      "num": 48514,
+      "word": "阿尔卡拉斯美网男单冠军",
+      "onboard_time": 1757284096,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 43596,
@@ -457,14 +473,6 @@
       "onboard_time": 1757247622,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39676,
-      "num": 39676,
-      "word": "深圳天气",
-      "onboard_time": 1757247981,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39586,
@@ -497,6 +505,14 @@
       "onboard_time": 1757253923,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33415,
+      "num": 31504,
+      "word": "江祖平晒黑图求助怕遭龚氏父子报复",
+      "onboard_time": 1757282775,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 32858,
@@ -587,6 +603,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 21953,
+      "num": 27518,
+      "word": "陈哲远发了英寡",
+      "onboard_time": 1757282895,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21488,
+      "num": 27509,
+      "word": "石破茂就选举失利道歉",
+      "onboard_time": 1757273534,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19250,
       "num": 19250,
       "word": "华盛顿抗议美政府部署国民警卫队",
@@ -595,36 +627,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19063,
-      "num": 27449,
-      "word": "石破茂就选举失利道歉",
-      "onboard_time": 1757273534,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 18126,
-      "num": 23126,
-      "word": "江祖平晒黑图求助怕遭龚氏父子报复",
-      "onboard_time": 1757282775,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17917,
       "num": 23116,
       "word": "国乒阿拉木图站两冠收官",
       "onboard_time": 1757278454,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16323,
-      "num": 23095,
-      "word": "陈哲远发了英寡",
-      "onboard_time": 1757282895,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 13557,
