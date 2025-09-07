@@ -1,10 +1,10 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757201800899,
+  "endTime": 1757210133105,
   "band_list": [
     {
-      "raw_hot": 1720534,
-      "num": 1720534,
+      "raw_hot": 2397907,
+      "num": 2397907,
       "word": "辛芷蕾威尼斯影后",
       "onboard_time": 1757201419,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1138717,
+      "num": 228576,
+      "word": "香奈儿连发5条辛芷蕾",
+      "onboard_time": 1757206762,
+      "rank": 5,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 1083260,
       "num": 247123,
       "word": "骑手称配送死鳄鱼结果半路活了",
@@ -43,6 +51,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 809172,
+      "num": 179311,
+      "word": "王琳怀孕高烧父母看望只待了15分钟",
+      "onboard_time": 1757202139,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 771968,
+      "num": 276366,
+      "word": "女子刚逃出乌就在美轻轨被刺身亡",
+      "onboard_time": 1757208022,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 715376,
       "num": 228647,
       "word": "王俊凯怎么瘦成这样了",
@@ -51,12 +75,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658876,
+      "num": 228435,
+      "word": "周迅 日掛中天",
+      "onboard_time": 1757209042,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 628317,
       "num": 895600,
       "word": "中元节禁忌是对传统节日的曲解",
       "onboard_time": 1757159242,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 622350,
+      "num": 213420,
+      "word": "游客掉入趵突泉",
+      "onboard_time": 1757206101,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 622071,
+      "num": 227410,
+      "word": "85花格局要变了",
+      "onboard_time": 1757202502,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 617971,
@@ -91,12 +139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517316,
+      "num": 210616,
+      "word": "日掛中天",
+      "onboard_time": 1757200458,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 473738,
       "num": 473738,
       "word": "月全食",
       "onboard_time": 1757155101,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468314,
+      "num": 207545,
+      "word": "刘冲VOGUE拍早了",
+      "onboard_time": 1757201779,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 432740,
@@ -115,6 +179,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352719,
+      "num": 204604,
+      "word": "关晓彤ins晒比基尼照",
+      "onboard_time": 1757202258,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335236,
+      "num": 194610,
+      "word": "赵涛撕奖能力",
+      "onboard_time": 1757202679,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 302879,
+      "num": 178355,
+      "word": "原来鬼压床是睡眠瘫痪症",
+      "onboard_time": 1757205201,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269587,
       "num": 269587,
       "word": "樊振东收获德甲首胜",
@@ -131,12 +219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252166,
-      "num": 200656,
-      "word": "日掛中天",
-      "onboard_time": 1757200458,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 230710,
+      "num": 230710,
+      "word": "这3种二维码不能扫",
+      "onboard_time": 1757209163,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226329,
+      "num": 226329,
+      "word": "台风塔巴将登陆广东沿海",
+      "onboard_time": 1757206222,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216175,
@@ -153,6 +249,14 @@
       "onboard_time": 1757170824,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 204320,
+      "num": 204320,
+      "word": "裸眼3D看受阅空中梯队",
+      "onboard_time": 1757206643,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 196182,
@@ -179,11 +283,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179614,
+      "num": 179614,
+      "word": "袁隆平诞辰95年",
+      "onboard_time": 1757202199,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176862,
+      "num": 176862,
+      "word": "武汉警方通报24岁男子驾车致7伤",
+      "onboard_time": 1757208143,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 176658,
       "num": 176658,
       "word": "萨巴伦卡大满贯第4冠",
       "onboard_time": 1757200218,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162939,
+      "num": 162939,
+      "word": "王楚钦澳门逛街买衣服",
+      "onboard_time": 1757209462,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -193,6 +321,14 @@
       "onboard_time": 1757180657,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160188,
+      "num": 160188,
+      "word": "确诊为轻微智障的5个表现",
+      "onboard_time": 1757202439,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 158047,
@@ -219,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143712,
+      "num": 143712,
+      "word": "2岁男孩被爷爷女友带走后遗弃",
+      "onboard_time": 1757201299,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141682,
       "num": 141682,
       "word": "8万只气球去哪儿了",
@@ -227,12 +371,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138971,
+      "num": 138971,
+      "word": "一觉醒来中国航天又发射了",
+      "onboard_time": 1757204060,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 138414,
+      "num": 208977,
+      "word": "近20人假冒国安闯入公园挖地寻宝",
+      "onboard_time": 1757205980,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137865,
       "num": 137865,
       "word": "特朗普误将美国国旗当毯子",
       "onboard_time": 1757156242,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130976,
+      "num": 139009,
+      "word": "张杰一进来谢娜就说这个可以收编了",
+      "onboard_time": 1757206643,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129343,
+      "num": 144263,
+      "word": "拍一拍红月亮",
+      "onboard_time": 1757207902,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129161,
@@ -259,14 +435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126009,
-      "num": 76430,
-      "word": "刘冲VOGUE拍早了",
-      "onboard_time": 1757201779,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 125233,
       "num": 125233,
       "word": "艺人皮肤白的原因",
@@ -291,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123487,
+      "num": 123487,
+      "word": "台风塔巴生成",
+      "onboard_time": 1757203641,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121643,
       "num": 121643,
       "word": "刘宇宁说造谣恶心至极",
@@ -299,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119541,
-      "num": 119541,
-      "word": "2岁男孩被爷爷女友带走后遗弃",
-      "onboard_time": 1757201299,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 119962,
+      "num": 119962,
+      "word": "为什么现在结节的人越来越多",
+      "onboard_time": 1757203462,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116425,
@@ -331,6 +507,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111891,
+      "num": 111891,
+      "word": "白露",
+      "onboard_time": 1757202139,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109625,
+      "num": 109625,
+      "word": "刘宇宁说多人托关系要自己演唱会票",
+      "onboard_time": 1757205201,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108943,
+      "num": 108943,
+      "word": "沉浸式感受溢出屏幕的安全感",
+      "onboard_time": 1757210061,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 108908,
+      "num": 108908,
+      "word": "日掛中天被召回",
+      "onboard_time": 1757203580,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104563,
       "num": 104563,
       "word": "遭老板性侵女子称113万不能弥补损失",
@@ -345,6 +553,38 @@
       "onboard_time": 1757163021,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99666,
+      "num": 99666,
+      "word": "87岁老人陪伴犬被邻居虐杀",
+      "onboard_time": 1757205681,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96587,
+      "num": 96587,
+      "word": "今日16时51分白露",
+      "onboard_time": 1757208321,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93222,
+      "num": 93222,
+      "word": "今天起调整下睡觉姿势",
+      "onboard_time": 1757202319,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92898,
+      "num": 92898,
+      "word": "胡锡进称中国阅兵刺激特朗普",
+      "onboard_time": 1757203039,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91568,
@@ -377,6 +617,22 @@
       "onboard_time": 1757171544,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84738,
+      "num": 89725,
+      "word": "詹姆斯随梦八入选名人堂",
+      "onboard_time": 1757209462,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83879,
+      "num": 89697,
+      "word": "樊振东回应德甲两连胜",
+      "onboard_time": 1757205980,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 78422,
