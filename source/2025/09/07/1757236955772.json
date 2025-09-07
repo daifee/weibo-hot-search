@@ -1,0 +1,410 @@
+{
+  "runTime": 1757236955772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1162059,
+        "num": 1185929,
+        "word": "辛芷蕾听完英文提问的反应",
+        "onboard_time": 1757233401,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386427,
+        "num": 386427,
+        "word": "工作后才知道苹果是最好的水果",
+        "onboard_time": 1757225662,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18636,
+        "num": 359990,
+        "word": "从袁梦到圆梦",
+        "onboard_time": 1757206222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1370121,
+        "num": 352847,
+        "word": "长期吃米vs长期吃面",
+        "onboard_time": 1757232141,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 524459,
+        "num": 351974,
+        "word": "张晚意李沁嫂子开门我是我哥",
+        "onboard_time": 1757232441,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342652,
+        "num": 342652,
+        "word": "广东珠海全市学校停课",
+        "onboard_time": 1757232802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506218,
+        "num": 342646,
+        "word": "辛芷蕾获奖时张颂文的表情",
+        "onboard_time": 1757217261,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341850,
+        "num": 341850,
+        "word": "石破茂决意辞职",
+        "onboard_time": 1757226680,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302995,
+        "num": 341037,
+        "word": "女子嫁外国贫民窟求助回国系摆拍",
+        "onboard_time": 1757231902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177354,
+        "num": 333380,
+        "word": "石破茂宣布辞去自民党总裁职务",
+        "onboard_time": 1757236101,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1399364,
+        "num": 330202,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302020,
+        "num": 324631,
+        "word": "血月对人体有什么影响",
+        "onboard_time": 1757224342,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440881,
+        "num": 320810,
+        "word": "周迅",
+        "onboard_time": 1757231363,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318303,
+        "num": 318303,
+        "word": "石破茂辞职理由",
+        "onboard_time": 1757231662,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299871,
+        "num": 299871,
+        "word": "美总统威胁要与一美国城市开战",
+        "onboard_time": 1757229022,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271167,
+        "num": 271167,
+        "word": "父子摆摊仅剩5元城管处罚后月入6000",
+        "onboard_time": 1757215641,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243929,
+        "num": 243929,
+        "word": "我给人撕到奖了 你撕过吗",
+        "onboard_time": 1757224762,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236454,
+        "num": 236454,
+        "word": "彭昱畅 急诊",
+        "onboard_time": 1757222362,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217584,
+        "num": 217584,
+        "word": "王牌对王牌回应彭昱畅送急诊",
+        "onboard_time": 1757229981,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169295,
+        "num": 215700,
+        "word": "石破茂记者会",
+        "onboard_time": 1757236280,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1153745,
+        "num": 215582,
+        "word": "12306回应大量私生高铁站围堵男星",
+        "onboard_time": 1757234721,
+        "rank": 20,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 214840,
+        "num": 214840,
+        "word": "丁程鑫刘耀文旅行回来了",
+        "onboard_time": 1757235140,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214822,
+        "num": 214822,
+        "word": "刘耀文衣服又穿反了",
+        "onboard_time": 1757236341,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39960,
+        "num": 204925,
+        "word": "胡兵用20多个箱子换了两个机器人",
+        "onboard_time": 1757233101,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201554,
+        "num": 201554,
+        "word": "警方通报女子遭前夫殴打后死亡",
+        "onboard_time": 1757234781,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197979,
+        "num": 197979,
+        "word": "被朱珠四分钟脱口秀秀到了",
+        "onboard_time": 1757234363,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190379,
+        "num": 190379,
+        "word": "孙心娅回应是冯绍峰女友里最好看的",
+        "onboard_time": 1757233941,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167399,
+        "num": 167399,
+        "word": "今晚邀你一起看红月",
+        "onboard_time": 1757226023,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153289,
+        "num": 153289,
+        "word": "张维伊不是我找你们来的吧",
+        "onboard_time": 1757234421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67989,
+        "num": 153086,
+        "word": "日媒称石破茂遭菅义伟小泉等人逼宫",
+        "onboard_time": 1757235681,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 440122,
+        "num": 153045,
+        "word": "朝鲜播出金正恩出席九三阅兵纪录片",
+        "onboard_time": 1757234901,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152904,
+        "num": 152904,
+        "word": "烟之凰杀青",
+        "onboard_time": 1757235621,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134575,
+        "num": 134575,
+        "word": "杨紫暑期档全勤王",
+        "onboard_time": 1757233161,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130395,
+        "num": 130395,
+        "word": "25岁到47岁的衰老全过程",
+        "onboard_time": 1757228542,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117202,
+        "num": 117202,
+        "word": "错过今晚的月全食要等3年",
+        "onboard_time": 1757216902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112261,
+        "num": 112261,
+        "word": "孙颖莎稳住局面后一击制胜",
+        "onboard_time": 1757236401,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126540,
+        "num": 112182,
+        "word": "为什么奶茶不另外加糖反而更甜",
+        "onboard_time": 1757235501,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123131,
+        "num": 112087,
+        "word": "李昀锐 我那ys白月光",
+        "onboard_time": 1757234721,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48327,
+        "num": 111720,
+        "word": "发现大城市生活成本比老家更低",
+        "onboard_time": 1757236822,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111648,
+        "num": 111648,
+        "word": "张晚意晕船晕成韩红了",
+        "onboard_time": 1757222422,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111142,
+        "num": 111142,
+        "word": "李宇春健身心率飙升的样子演我",
+        "onboard_time": 1757236042,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110606,
+        "num": 110606,
+        "word": "美国一妇女发文炫耀自家狗成选民",
+        "onboard_time": 1757232742,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108574,
+        "num": 108574,
+        "word": "东方明珠果然是上海防御塔",
+        "onboard_time": 1757235380,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108137,
+        "num": 108137,
+        "word": "阅兵的转头杀怎么这么帅",
+        "onboard_time": 1757236521,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105372,
+        "num": 105372,
+        "word": "BLG对战JDG",
+        "onboard_time": 1757228182,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105355,
+        "num": 105355,
+        "word": "女子赴美生子去世俩孩子生父成谜",
+        "onboard_time": 1757227102,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104329,
+        "num": 104329,
+        "word": "樊振东队长发博大赞团魂",
+        "onboard_time": 1757234301,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103655,
+        "num": 103655,
+        "word": "一高校宿舍床直接钉在墙上",
+        "onboard_time": 1757236581,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102291,
+        "num": 102291,
+        "word": "新华社研究院发布重磅报告",
+        "onboard_time": 1757231662,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97229,
+        "num": 97229,
+        "word": "国乒男单4人在上半区",
+        "onboard_time": 1757236161,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一握情深意重#"
+    }
+  }
+}
