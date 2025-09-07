@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757211395329,
+  "endTime": 1757214469246,
   "band_list": [
     {
       "raw_hot": 2397907,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1324008,
-      "num": 312896,
+      "num": 367983,
       "word": "周迅 日掛中天",
       "onboard_time": 1757209042,
       "rank": 6,
@@ -43,6 +43,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 1124763,
+      "num": 372198,
+      "word": "辛芷蕾 飞升",
+      "onboard_time": 1757203462,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1083260,
       "num": 247123,
       "word": "骑手称配送死鳄鱼结果半路活了",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 776703,
-      "num": 312727,
+      "num": 397634,
       "word": "女子刚逃出乌就在美轻轨被刺身亡",
       "onboard_time": 1757208022,
       "rank": 3,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 639198,
-      "num": 304924,
+      "num": 365555,
       "word": "85花格局要变了",
       "onboard_time": 1757202502,
       "rank": 7,
@@ -163,6 +171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 445471,
+      "num": 445471,
+      "word": "这才是面包的正常价格",
+      "onboard_time": 1757211801,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 432740,
       "num": 267024,
       "word": "赵涛评委",
@@ -171,12 +187,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 392908,
+      "raw_hot": 394672,
       "num": 286423,
       "word": "关晓彤ins晒比基尼照",
       "onboard_time": 1757202258,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377969,
+      "num": 377969,
+      "word": "这3种二维码不能扫",
+      "onboard_time": 1757209163,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370629,
@@ -187,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359898,
+      "num": 359898,
+      "word": "武汉警方通报24岁男子驾车致7伤",
+      "onboard_time": 1757208143,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 335236,
       "num": 271734,
       "word": "赵涛撕奖能力",
@@ -195,12 +227,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 312270,
-      "num": 312270,
-      "word": "这3种二维码不能扫",
-      "onboard_time": 1757209163,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 327648,
+      "num": 198726,
+      "word": "恭喜东北大呲花",
+      "onboard_time": 1757211621,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 302879,
@@ -217,14 +249,6 @@
       "onboard_time": 1757206222,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286187,
-      "num": 286187,
-      "word": "武汉警方通报24岁男子驾车致7伤",
-      "onboard_time": 1757208143,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 269587,
@@ -307,12 +331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179941,
+      "num": 170078,
+      "word": "亲密关系中隐藏的情绪暴力",
+      "onboard_time": 1757213600,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176658,
       "num": 176658,
       "word": "萨巴伦卡大满贯第4冠",
       "onboard_time": 1757200218,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174350,
+      "num": 168641,
+      "word": "张晚意 内核强大又自洽",
+      "onboard_time": 1757213600,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 171247,
@@ -337,6 +377,14 @@
       "onboard_time": 1757202439,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159041,
+      "num": 159041,
+      "word": "繁花对演员的提升太大了",
+      "onboard_time": 1757213902,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 158047,
@@ -379,6 +427,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143585,
+      "num": 143585,
+      "word": "微博私信才是明星的红娘吧",
+      "onboard_time": 1757211922,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142896,
+      "num": 142896,
+      "word": "焦虑症和抑郁症的区别",
+      "onboard_time": 1757212104,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142137,
+      "num": 142137,
+      "word": "华盛顿爆发大规模游行示威",
+      "onboard_time": 1757214263,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141682,
       "num": 141682,
       "word": "8万只气球去哪儿了",
@@ -387,11 +459,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138470,
+      "num": 138470,
+      "word": "GAI在前面跑演唱会在后面追",
+      "onboard_time": 1757214082,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137865,
       "num": 137865,
       "word": "特朗普误将美国国旗当毯子",
       "onboard_time": 1757156242,
       "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136543,
+      "num": 136543,
+      "word": "特朗普回应美海豹突击队曾潜入朝鲜",
+      "onboard_time": 1757211862,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -409,6 +497,22 @@
       "onboard_time": 1757206643,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130843,
+      "num": 130843,
+      "word": "时代少年团六周年",
+      "onboard_time": 1757213721,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130409,
+      "num": 130409,
+      "word": "美韩盟友怎么翻脸了",
+      "onboard_time": 1757213242,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129343,
@@ -467,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124390,
+      "num": 124390,
+      "word": "现在连买奶茶都要配货了",
+      "onboard_time": 1757213962,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "德媒感慨樊振东影响力巨大",
@@ -497,6 +609,14 @@
       "onboard_time": 1757203462,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119632,
+      "num": 119632,
+      "word": "剧组化妆师年薪40万",
+      "onboard_time": 1757212162,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 118371,
@@ -539,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110607,
+      "num": 110607,
+      "word": "樊振东和小弗无障碍交流",
+      "onboard_time": 1757211561,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108943,
       "num": 108943,
       "word": "沉浸式感受溢出屏幕的安全感",
@@ -555,19 +683,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105720,
+      "num": 105720,
+      "word": "血月能看吗",
+      "onboard_time": 1757213721,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104716,
+      "num": 104716,
+      "word": "24岁男子驾车致7伤被抓",
+      "onboard_time": 1757210541,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104563,
       "num": 104563,
       "word": "遭老板性侵女子称113万不能弥补损失",
       "onboard_time": 1757152103,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103370,
-      "num": 103370,
-      "word": "24岁男子驾车致7伤被抓",
-      "onboard_time": 1757210541,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -585,6 +721,22 @@
       "onboard_time": 1757205681,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101150,
+      "num": 101150,
+      "word": "独臂坦克设计师",
+      "onboard_time": 1757213242,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 99689,
+      "num": 99689,
+      "word": "徐冬冬72小时紧急身材管理",
+      "onboard_time": 1757214321,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 96587,
@@ -609,6 +761,14 @@
       "onboard_time": 1757202319,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93024,
+      "num": 198626,
+      "word": "风吹稻田我们又想念您了",
+      "onboard_time": 1757213242,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92898,
@@ -644,7 +804,7 @@
     },
     {
       "raw_hot": 88737,
-      "num": 88737,
+      "num": 107475,
       "word": "美国防部改名或涉70多万处设施",
       "onboard_time": 1757210962,
       "rank": 44,
@@ -947,7 +1107,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2934,
+      "raw_hot": 3588,
       "num": 548672,
       "word": "致敬每一位默默坚守的身影",
       "onboard_time": 1757085263,
