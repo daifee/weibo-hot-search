@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757255882744,
+  "endTime": 1757258559532,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -201,6 +201,14 @@
       "onboard_time": 1756904546,
       "rank": 25,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 2619808,
+      "num": 2619808,
+      "word": "月全食",
+      "onboard_time": 1757155101,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2569531,
@@ -531,14 +539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1787159,
-      "num": 1787159,
-      "word": "月全食",
-      "onboard_time": 1757155101,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1757308,
       "num": 1757308,
       "word": "99B坦克率先亮相",
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1600592,
-      "num": 223155,
+      "num": 241283,
       "word": "12306回应大量私生高铁站围堵男星",
       "onboard_time": 1757234721,
       "rank": 20,
@@ -705,6 +705,14 @@
       "onboard_time": 1756978400,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1506001,
+      "num": 1506001,
+      "word": "没人通知金晨这是红毯吗",
+      "onboard_time": 1757248042,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 1503450,
@@ -761,14 +769,6 @@
       "onboard_time": 1756865975,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1426393,
-      "num": 1426393,
-      "word": "没人通知金晨这是红毯吗",
-      "onboard_time": 1757248042,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 1415309,
@@ -2203,6 +2203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 670324,
+      "num": 313583,
+      "word": "路人把李兰迪经纪人当成明星",
+      "onboard_time": 1757254282,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667345,
       "num": 1106775,
       "word": "父亲儿子都牺牲了他带照片看阅兵",
@@ -3531,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455919,
+      "num": 304820,
+      "word": "还没到春晚马丽又演上小品了",
+      "onboard_time": 1757255843,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 455853,
       "num": 341337,
       "word": "董璇晒佟丽娅小酒窝合照",
@@ -4491,6 +4507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364864,
+      "num": 364864,
+      "word": "邓超陈赫鹿晗演唱会同台",
+      "onboard_time": 1757252482,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364601,
       "num": 364601,
       "word": "中国导游在日本被打",
@@ -4977,6 +5001,14 @@
       "onboard_time": 1757080583,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 329097,
+      "num": 329097,
+      "word": "血月拍摄攻略",
+      "onboard_time": 1757255603,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328681,
@@ -5635,6 +5667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 285742,
+      "num": 285742,
+      "word": "九门官宣节奏",
+      "onboard_time": 1757256444,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285700,
       "num": 249656,
       "word": "陈飞宇素颜帅成啥样了",
@@ -6251,6 +6291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248091,
+      "num": 248091,
+      "word": "央视曝光解压软泥毒玩具",
+      "onboard_time": 1757256683,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247271,
       "num": 112059,
       "word": "iPhone17Pro涨价",
@@ -6281,14 +6329,6 @@
       "onboard_time": 1756982302,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 246283,
-      "num": 246283,
-      "word": "路人把李兰迪经纪人当成明星",
-      "onboard_time": 1757254282,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 246201,
@@ -6337,14 +6377,6 @@
       "onboard_time": 1757130141,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244080,
-      "num": 244080,
-      "word": "邓超陈赫鹿晗演唱会同台",
-      "onboard_time": 1757252482,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 243992,
@@ -6473,6 +6505,14 @@
       "onboard_time": 1756861225,
       "rank": 37,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 240014,
+      "num": 240014,
+      "word": "小米16",
+      "onboard_time": 1757257883,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 239032,
@@ -6689,6 +6729,14 @@
       "onboard_time": 1757130860,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 231097,
+      "num": 247810,
+      "word": "男子55万买房2年后才发现是凶宅",
+      "onboard_time": 1757254584,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231014,
@@ -7307,14 +7355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 207155,
-      "num": 207154,
-      "word": "男子55万买房2年后才发现是凶宅",
-      "onboard_time": 1757254584,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206106,
       "num": 206106,
       "word": "易烊千玺myboo唱跳",
@@ -7481,6 +7521,14 @@
       "onboard_time": 1756960044,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200768,
+      "num": 245780,
+      "word": "王鹤润变化",
+      "onboard_time": 1757257344,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 200535,
@@ -7747,14 +7795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195561,
-      "num": 215340,
-      "word": "血月拍摄攻略",
-      "onboard_time": 1757255603,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195515,
       "num": 324889,
       "word": "成毅云包场赴山海",
@@ -7881,6 +7921,14 @@
       "onboard_time": 1757141541,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193131,
+      "num": 193131,
+      "word": "白桃星座",
+      "onboard_time": 1757257523,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 193118,
@@ -8443,6 +8491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183679,
+      "num": 244412,
+      "word": "李晨现身鹿晗演唱会",
+      "onboard_time": 1757257822,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183605,
       "num": 170795,
       "word": "王楚钦可爱童年照",
@@ -8465,6 +8521,14 @@
       "onboard_time": 1756892243,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183478,
+      "num": 183478,
+      "word": "月全食直播",
+      "onboard_time": 1757257166,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183466,
@@ -8689,6 +8753,14 @@
       "onboard_time": 1757251943,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178386,
+      "num": 156993,
+      "word": "一诺当初的愿望实现了",
+      "onboard_time": 1757257883,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 178110,
@@ -9979,6 +10051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157415,
+      "num": 157415,
+      "word": "感觉看了一期五哈",
+      "onboard_time": 1757257044,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157303,
       "num": 160563,
       "word": "u22国足vs北马里亚纳群岛u22",
@@ -10089,6 +10169,14 @@
       "onboard_time": 1756715903,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156025,
+      "num": 156025,
+      "word": "在中国这个东西是用来占座的",
+      "onboard_time": 1757251882,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 155864,
@@ -10209,6 +10297,14 @@
       "onboard_time": 1756959864,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154926,
+      "num": 154926,
+      "word": "迈凯伦",
+      "onboard_time": 1757258483,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 154885,
@@ -10547,6 +10643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150709,
+      "num": 150709,
+      "word": "胡萝卜色血月",
+      "onboard_time": 1757253383,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150631,
       "num": 150631,
       "word": "张远唱了八百遍嘉宾",
@@ -10739,14 +10843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 148355,
-      "num": 148355,
-      "word": "在中国这个东西是用来占座的",
-      "onboard_time": 1757251882,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148317,
       "num": 210765,
       "word": "维达 孙颖莎",
@@ -10817,6 +10913,14 @@
       "onboard_time": 1756828400,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147650,
+      "num": 147650,
+      "word": "迈凯轮",
+      "onboard_time": 1757257463,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 147622,
@@ -13043,6 +13147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123810,
+      "num": 123810,
+      "word": "AG夏决夺冠后发文",
+      "onboard_time": 1757258423,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123801,
       "num": 216814,
       "word": "五月天陈粒同台",
@@ -14129,6 +14241,14 @@
       "onboard_time": 1757070020,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 114275,
+      "num": 152450,
+      "word": "张杰连喉结都是行星文化的形状",
+      "onboard_time": 1757258002,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 114131,
@@ -15369,14 +15489,6 @@
       "onboard_time": 1757051602,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103880,
-      "num": 162971,
-      "word": "还没到春晚马丽又演上小品了",
-      "onboard_time": 1757255843,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 103831,
@@ -16993,6 +17105,14 @@
       "onboard_time": 1757041400,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89404,
+      "num": 151242,
+      "word": "警方通报女子殴打安检员已被行拘",
+      "onboard_time": 1757258543,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89099,
@@ -19539,6 +19659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54639,
+      "num": 134301,
+      "word": "红月亮预计持续83分钟",
+      "onboard_time": 1757257282,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54622,
       "num": 91723,
       "word": "美国防战略或作出重大转变",
@@ -19713,6 +19841,14 @@
       "onboard_time": 1756735822,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 51070,
+      "num": 150830,
+      "word": "韩国对中国团体游客免签政策细则",
+      "onboard_time": 1757258182,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50993,
@@ -19955,6 +20091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46189,
+      "num": 151445,
+      "word": "小蛇钻入家中黄鼠狼紧随将其叼出",
+      "onboard_time": 1757257883,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46160,
       "num": 129307,
       "word": "动车优惠车票9月6日起发售",
@@ -20033,6 +20177,14 @@
       "onboard_time": 1757007016,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44021,
+      "num": 151842,
+      "word": "泰国新总理夫人原为咖啡店老板",
+      "onboard_time": 1757257943,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43935,
