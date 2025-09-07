@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/08 00:27:12 ~ 2025/09/08 04:24:42
+本榜单时间：2025/09/08 00:27:12 ~ 2025/09/08 04:37:36
 </p>
 </blockquote>
 <p>
@@ -449,6 +449,12 @@ iG战胜EDG（热度：36590）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%B0%B1%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E9%81%93%E6%AD%89%23" target="weibo">
 石破茂就选举失利道歉（热度：18550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%8A%97%E8%AE%AE%E7%BE%8E%E6%94%BF%E5%BA%9C%E9%83%A8%E7%BD%B2%E5%9B%BD%E6%B0%91%E8%AD%A6%E5%8D%AB%E9%98%9F%23" target="weibo">
+华盛顿抗议美政府部署国民警卫队（热度：9631）
 </a>
 </li>
 
