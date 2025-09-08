@@ -1,0 +1,410 @@
+{
+  "runTime": 1757316347806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1768842,
+        "num": 1768842,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728415,
+        "num": 728415,
+        "word": "你以为在休息其实最耗气血",
+        "onboard_time": 1757309482,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55209,
+        "num": 469266,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757294781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407219,
+        "num": 407219,
+        "word": "他亲手解剖14人却因一封信崩溃",
+        "onboard_time": 1757309784,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383688,
+        "num": 383688,
+        "word": "iPhone17或有隐藏款",
+        "onboard_time": 1757311405,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1597419,
+        "num": 353808,
+        "word": "警方回应许凯被曝长期聚众赌博",
+        "onboard_time": 1757304144,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 583066,
+        "num": 345056,
+        "word": "秦岚祝福辛芷蕾获影后",
+        "onboard_time": 1757314342,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560003,
+        "num": 303850,
+        "word": "疑似白敬亭宋轶分手了",
+        "onboard_time": 1757298322,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212734,
+        "num": 212734,
+        "word": "新生体面入学只需一个老爸",
+        "onboard_time": 1757312123,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120694,
+        "num": 212566,
+        "word": "山姆店回应顾客自带桶续杯饮料",
+        "onboard_time": 1757315422,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844163,
+        "num": 211580,
+        "word": "点读笔诱导儿童网恋",
+        "onboard_time": 1757311166,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605414,
+        "num": 210787,
+        "word": "俄罗斯阅兵抓日本战俘游街",
+        "onboard_time": 1757308524,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 481812,
+        "num": 209808,
+        "word": "离婚冷静期婆婆去世女子要求分遗产",
+        "onboard_time": 1757309603,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443957,
+        "num": 208752,
+        "word": "雨霖铃",
+        "onboard_time": 1757312183,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425575,
+        "num": 208222,
+        "word": "张曼乐 马思纯",
+        "onboard_time": 1757314403,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307625,
+        "num": 207338,
+        "word": "看了付航证件照还以为他要换赛道",
+        "onboard_time": 1757310863,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301918,
+        "num": 206094,
+        "word": "吃完外卖最好把汤倒了再扔",
+        "onboard_time": 1757305165,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255899,
+        "num": 205890,
+        "word": "许荔莎与于正缘分契合度86",
+        "onboard_time": 1757304386,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147103,
+        "num": 204698,
+        "word": "火车票报销纸质凭证将成历史",
+        "onboard_time": 1757314102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134897,
+        "num": 203804,
+        "word": "男子忘关火27天后回家才发现",
+        "onboard_time": 1757284936,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203460,
+        "num": 203460,
+        "word": "辛芷蕾这次拿奖的含金量有多高",
+        "onboard_time": 1757315063,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188039,
+        "num": 188039,
+        "word": "朱志鑫想去国外上学",
+        "onboard_time": 1757313984,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185280,
+        "num": 185280,
+        "word": "张艺兴回应和张艺谋团队合作",
+        "onboard_time": 1757315722,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185002,
+        "num": 185002,
+        "word": "九门全阵容官宣",
+        "onboard_time": 1757305165,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174257,
+        "num": 174257,
+        "word": "对日本参议员石平采取反制措施",
+        "onboard_time": 1757299283,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173436,
+        "num": 173436,
+        "word": "肖战少爷简直是魅魔",
+        "onboard_time": 1757313083,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171983,
+        "num": 171983,
+        "word": "小袁回应说胡楚靓口臭",
+        "onboard_time": 1757296881,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168796,
+        "num": 168796,
+        "word": "张艺谋张艺兴联袂创新预告",
+        "onboard_time": 1757315902,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168654,
+        "num": 168654,
+        "word": "鹿晗李晨邓超陈赫聚会合照",
+        "onboard_time": 1757303785,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165117,
+        "num": 165117,
+        "word": "Metal 田栩宁",
+        "onboard_time": 1757300783,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163361,
+        "num": 163361,
+        "word": "王星越这回女主没对象不用抢",
+        "onboard_time": 1757312483,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161141,
+        "num": 161141,
+        "word": "女子检测出350个兄弟姐妹",
+        "onboard_time": 1757315963,
+        "rank": 31,
+        "category": "民生新闻,海外新闻"
+      },
+      {
+        "raw_hot": 151913,
+        "num": 151913,
+        "word": "王赫野垫肩从肩跑到了腰",
+        "onboard_time": 1757315542,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136310,
+        "num": 151620,
+        "word": "网友拍的血月太抽象了",
+        "onboard_time": 1757315422,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112897,
+        "num": 151149,
+        "word": "奥恰洛夫退出澳门冠军赛",
+        "onboard_time": 1757315482,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98738,
+        "num": 150613,
+        "word": "詹姆斯说打好篮球有3个关键因素",
+        "onboard_time": 1757312902,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98688,
+        "num": 149923,
+        "word": "部分车主宁可违停也不停机械车位",
+        "onboard_time": 1757312183,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92810,
+        "num": 149534,
+        "word": "43岁家政女工打工10年挣百万",
+        "onboard_time": 1757315422,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71737,
+        "num": 148696,
+        "word": "爸拿马运河",
+        "onboard_time": 1757315242,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26513,
+        "num": 148477,
+        "word": "袁弘张歆艺把日常搬进荧幕",
+        "onboard_time": 1757313323,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148051,
+        "num": 148051,
+        "word": "一男子在演唱会上故意猥亵多名女性",
+        "onboard_time": 1757315963,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143546,
+        "num": 143546,
+        "word": "工资不高但想留下来的城市",
+        "onboard_time": 1757312002,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96890,
+        "num": 140074,
+        "word": "大批韩国人在美被拴铁链带走",
+        "onboard_time": 1757296944,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "刘亦菲素颜与朋友聚餐",
+        "onboard_time": 1757309365,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116963,
+        "num": 116963,
+        "word": "杨幂好萌",
+        "onboard_time": 1757309062,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116131,
+        "num": 116131,
+        "word": "香蕉 水果界的唢呐",
+        "onboard_time": 1757314642,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113500,
+        "num": 113500,
+        "word": "田曦薇新剧嫁金钗人设",
+        "onboard_time": 1757315843,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110792,
+        "num": 110792,
+        "word": "赴山海",
+        "onboard_time": 1757309723,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108976,
+        "num": 108976,
+        "word": "陈都灵周翊然旷野手牵手",
+        "onboard_time": 1757312243,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104858,
+        "num": 104858,
+        "word": "陈赫遇上王玉雯是真没招了",
+        "onboard_time": 1757312063,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持走和平发展道路#"
+    }
+  }
+}
