@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757330500933,
+  "endTime": 1757331426585,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -177,6 +177,14 @@
       "onboard_time": 1756891104,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2953116,
+      "num": 442929,
+      "word": "许凯方否认赌博",
+      "onboard_time": 1757330723,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2916325,
@@ -1385,6 +1393,14 @@
       "onboard_time": 1756728082,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1000585,
+      "num": 1160093,
+      "word": "欢娱律师声明",
+      "onboard_time": 1757330064,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 992631,
@@ -2641,14 +2657,6 @@
       "onboard_time": 1756872092,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 618947,
-      "num": 430057,
-      "word": "欢娱律师声明",
-      "onboard_time": 1757330064,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 617903,
@@ -4435,6 +4443,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 401637,
+      "num": 272633,
+      "word": "佟丽娅澄清合照并非朵朵",
+      "onboard_time": 1757328444,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400179,
       "num": 222945,
       "word": "国民党主席称不禁止个人去九三阅兵",
@@ -4923,6 +4939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369793,
+      "num": 369793,
+      "word": "周杰伦上海抢票",
+      "onboard_time": 1757330243,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 368725,
       "num": 368725,
       "word": "中国排面怎么截图都是一个帅",
@@ -5161,6 +5185,14 @@
       "onboard_time": 1757035101,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354085,
+      "num": 212335,
+      "word": "iPhone16价格不降反升",
+      "onboard_time": 1757329403,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 353985,
@@ -5923,6 +5955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 306538,
+      "num": 295524,
+      "word": "鹿晗澳门",
+      "onboard_time": 1757326761,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 305952,
       "num": 255967,
       "word": "丁程鑫刘耀文旅行回来了",
@@ -5937,14 +5977,6 @@
       "onboard_time": 1756907964,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 305484,
-      "num": 272633,
-      "word": "佟丽娅澄清合照并非朵朵",
-      "onboard_time": 1757328444,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 305349,
@@ -6139,14 +6171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295524,
-      "num": 295524,
-      "word": "鹿晗澳门",
-      "onboard_time": 1757326761,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 295125,
       "num": 211087,
       "word": "蔚来财报",
@@ -6217,14 +6241,6 @@
       "onboard_time": 1757312123,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293072,
-      "num": 212028,
-      "word": "iPhone16价格不降反升",
-      "onboard_time": 1757329403,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 292889,
@@ -6720,6 +6736,14 @@
       "word": "九三阅兵活动时长约70分钟",
       "onboard_time": 1756717823,
       "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 265233,
+      "num": 265233,
+      "word": "金正恩访华专车车牌有深意",
+      "onboard_time": 1757330064,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -7939,14 +7963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212800,
-      "num": 212800,
-      "word": "周杰伦上海抢票",
-      "onboard_time": 1757330243,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 212452,
       "num": 212452,
       "word": "U22国足10比0北马里亚纳群岛U22",
@@ -8212,7 +8228,7 @@
     },
     {
       "raw_hot": 206063,
-      "num": 206063,
+      "num": 221780,
       "word": "成毅与鹅共赴山海",
       "onboard_time": 1757330005,
       "rank": 27,
@@ -9417,6 +9433,14 @@
       "onboard_time": 1757056522,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187280,
+      "num": 187280,
+      "word": "换手机前一定要做的事情",
+      "onboard_time": 1757330782,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 187244,
@@ -12739,6 +12763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144586,
+      "num": 204265,
+      "word": "时代少年团成团六周年刷新篇章",
+      "onboard_time": 1757331202,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144318,
       "num": 223789,
       "word": "尽快建成上海合作组织开发银行",
@@ -12841,6 +12873,14 @@
       "onboard_time": 1757072360,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143536,
+      "num": 200873,
+      "word": "还珠格格穿帮镜头",
+      "onboard_time": 1757325502,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 143432,
@@ -13209,6 +13249,14 @@
       "onboard_time": 1756814961,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139778,
+      "num": 200597,
+      "word": "娜扎 我要做这只蚊子",
+      "onboard_time": 1757331023,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139758,
@@ -13633,6 +13681,14 @@
       "onboard_time": 1757132901,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135916,
+      "num": 147733,
+      "word": "暗河传龚俊开伞镜头",
+      "onboard_time": 1757330964,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 135902,
@@ -14243,14 +14299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129531,
-      "num": 129531,
-      "word": "还珠格格穿帮镜头",
-      "onboard_time": 1757325502,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129509,
       "num": 141104,
       "word": "贾一凡求石宇奇别再哭了",
@@ -14476,7 +14524,7 @@
     },
     {
       "raw_hot": 128139,
-      "num": 128139,
+      "num": 197188,
       "word": "石平卖祖求荣只会自食恶果",
       "onboard_time": 1757321242,
       "rank": 39,
@@ -14635,6 +14683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126803,
+      "num": 144288,
+      "word": "尚公主 公主强制play",
+      "onboard_time": 1757329403,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126680,
       "num": 126680,
       "word": "蔡文静瘦成纸片人是进组信号吧",
@@ -14732,7 +14788,7 @@
     },
     {
       "raw_hot": 125661,
-      "num": 131898,
+      "num": 145706,
       "word": "阅兵坦克里有近100个按钮",
       "onboard_time": 1757327181,
       "rank": 49,
@@ -14977,6 +15033,14 @@
       "onboard_time": 1756803982,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124186,
+      "num": 124186,
+      "word": "天才女友造型师",
+      "onboard_time": 1757330662,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 124153,
@@ -16179,6 +16243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114851,
+      "num": 114851,
+      "word": "奶茶行业或将迎来可乐式结局",
+      "onboard_time": 1757331144,
+      "rank": 48,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 114830,
       "num": 114830,
       "word": "歼35颜值有多高",
@@ -17153,14 +17225,6 @@
       "onboard_time": 1756802181,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 107677,
-      "num": 144288,
-      "word": "尚公主 公主强制play",
-      "onboard_time": 1757329403,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 107673,
@@ -18875,6 +18939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94809,
+      "num": 127179,
+      "word": "马思纯又瘦了好多",
+      "onboard_time": 1757330603,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94693,
       "num": 159341,
       "word": "新世代宝马驾趣",
@@ -19793,6 +19865,14 @@
       "onboard_time": 1757319682,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86426,
+      "num": 132858,
+      "word": "马柏全 死手快挥啊",
+      "onboard_time": 1757331082,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 86365,
@@ -21803,6 +21883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61824,
+      "num": 220614,
+      "word": "魏建军见邓亚萍秒变迷弟",
+      "onboard_time": 1757329403,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61749,
       "num": 179072,
       "word": "地铁被诬陷偷拍男子否认过度维权",
@@ -22459,14 +22547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50958,
-      "num": 213459,
-      "word": "魏建军见邓亚萍秒变迷弟",
-      "onboard_time": 1757329403,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50683,
       "num": 254996,
       "word": "陈妍希人生第一次智驾是开小鹏P7",
@@ -22825,14 +22905,6 @@
       "onboard_time": 1757075540,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 43053,
-      "num": 213297,
-      "word": "金正恩访华专车车牌有深意",
-      "onboard_time": 1757330064,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42861,

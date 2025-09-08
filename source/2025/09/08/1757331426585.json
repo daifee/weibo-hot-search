@@ -1,0 +1,410 @@
+{
+  "runTime": 1757331426585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1000585,
+        "num": 1160093,
+        "word": "欢娱律师声明",
+        "onboard_time": 1757330064,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731084,
+        "num": 731084,
+        "word": "女子20元彩票刮中100万激动尖叫",
+        "onboard_time": 1757325142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20668,
+        "num": 444061,
+        "word": "预包装食品数字标签来了",
+        "onboard_time": 1757296822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2953116,
+        "num": 442929,
+        "word": "许凯方否认赌博",
+        "onboard_time": 1757330723,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436952,
+        "num": 436952,
+        "word": "女子点绿茶餐厅外卖被贴装货",
+        "onboard_time": 1757318722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369793,
+        "num": 369793,
+        "word": "周杰伦上海抢票",
+        "onboard_time": 1757330243,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1223013,
+        "num": 368038,
+        "word": "瘦下来的卢昱晓",
+        "onboard_time": 1757327783,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358457,
+        "num": 358457,
+        "word": "纸包排骨",
+        "onboard_time": 1757326042,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 310763,
+        "num": 310763,
+        "word": "WBG战胜AL",
+        "onboard_time": 1757329103,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 271291,
+        "num": 271291,
+        "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+        "onboard_time": 1757319203,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 401637,
+        "num": 270997,
+        "word": "佟丽娅澄清合照并非朵朵",
+        "onboard_time": 1757328444,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717092,
+        "num": 269347,
+        "word": "辛芷蕾原名",
+        "onboard_time": 1757328622,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320535,
+        "num": 269113,
+        "word": "钟楚曦删了与侯雯元官宣博",
+        "onboard_time": 1757317823,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265233,
+        "num": 265233,
+        "word": "金正恩访华专车车牌有深意",
+        "onboard_time": 1757330064,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247090,
+        "num": 247090,
+        "word": "田栩宁没有一帧是废片",
+        "onboard_time": 1757328323,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232058,
+        "num": 232058,
+        "word": "许荔莎回应聊天截图是假的",
+        "onboard_time": 1757325922,
+        "rank": 15,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 306538,
+        "num": 228353,
+        "word": "鹿晗澳门",
+        "onboard_time": 1757326761,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151316,
+        "num": 221780,
+        "word": "成毅与鹅共赴山海",
+        "onboard_time": 1757330005,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220791,
+        "num": 220791,
+        "word": "中方反制是对石平之流的惩戒警示",
+        "onboard_time": 1757321903,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61824,
+        "num": 220614,
+        "word": "魏建军见邓亚萍秒变迷弟",
+        "onboard_time": 1757329403,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 974177,
+        "num": 216432,
+        "word": "曝辛芷蕾团队工资",
+        "onboard_time": 1757321483,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533550,
+        "num": 214045,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354085,
+        "num": 212335,
+        "word": "iPhone16价格不降反升",
+        "onboard_time": 1757329403,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254781,
+        "num": 208788,
+        "word": "钟楚曦 侯雯元",
+        "onboard_time": 1757322622,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242774,
+        "num": 206139,
+        "word": "刘涛腰臀比",
+        "onboard_time": 1757329103,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144586,
+        "num": 204265,
+        "word": "时代少年团成团六周年刷新篇章",
+        "onboard_time": 1757331202,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143536,
+        "num": 200873,
+        "word": "还珠格格穿帮镜头",
+        "onboard_time": 1757325502,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139778,
+        "num": 200597,
+        "word": "娜扎 我要做这只蚊子",
+        "onboard_time": 1757331023,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119311,
+        "num": 197188,
+        "word": "石平卖祖求荣只会自食恶果",
+        "onboard_time": 1757321242,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240865,
+        "num": 195174,
+        "word": "我和鹿晗何曾有过嫌隙",
+        "onboard_time": 1757323882,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193352,
+        "num": 193352,
+        "word": "网友拍的血月太抽象了",
+        "onboard_time": 1757315422,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187280,
+        "num": 187280,
+        "word": "换手机前一定要做的事情",
+        "onboard_time": 1757330782,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185162,
+        "num": 185162,
+        "word": "奶茶 全世界最聪明的男人",
+        "onboard_time": 1757322023,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166953,
+        "num": 166953,
+        "word": "不得不说这是韩国奇耻大辱",
+        "onboard_time": 1757325742,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135916,
+        "num": 147733,
+        "word": "暗河传龚俊开伞镜头",
+        "onboard_time": 1757330964,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124807,
+        "num": 145706,
+        "word": "阅兵坦克里有近100个按钮",
+        "onboard_time": 1757327181,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144614,
+        "num": 144614,
+        "word": "花2元买彩票中了1000万",
+        "onboard_time": 1757318722,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139528,
+        "num": 139528,
+        "word": "上海全款150万32平米的复式小家",
+        "onboard_time": 1757329283,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86426,
+        "num": 132858,
+        "word": "马柏全 死手快挥啊",
+        "onboard_time": 1757331082,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94809,
+        "num": 127179,
+        "word": "马思纯又瘦了好多",
+        "onboard_time": 1757330603,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126803,
+        "num": 126803,
+        "word": "尚公主 公主强制play",
+        "onboard_time": 1757329403,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124186,
+        "num": 124186,
+        "word": "天才女友造型师",
+        "onboard_time": 1757330662,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123702,
+        "num": 123702,
+        "word": "70岁老人借厕猝死家属索赔21万",
+        "onboard_time": 1757322081,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123416,
+        "num": 123416,
+        "word": "上海暴雨",
+        "onboard_time": 1757322743,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118459,
+        "num": 118459,
+        "word": "2点睡觉9点起床算熬夜吗",
+        "onboard_time": 1757326042,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117107,
+        "num": 117107,
+        "word": "每天午睡vs从不午睡",
+        "onboard_time": 1757317701,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116992,
+        "num": 116992,
+        "word": "小猫把乳牙放在了我枕头旁",
+        "onboard_time": 1757327422,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 429849,
+        "num": 116920,
+        "word": "警方回应许凯被曝长期聚众赌博",
+        "onboard_time": 1757304144,
+        "rank": 47,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 114851,
+        "num": 114851,
+        "word": "奶茶行业或将迎来可乐式结局",
+        "onboard_time": 1757331144,
+        "rank": 48,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 113148,
+        "num": 113148,
+        "word": "星穹铁道3.6版本前瞻",
+        "onboard_time": 1757329943,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持走和平发展道路#"
+    }
+  }
+}
