@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757331426585,
+  "endTime": 1757335962667,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -63,6 +63,14 @@
       "num": 1643155,
       "word": "月全食",
       "onboard_time": 1757241440,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1479479,
+      "num": 1479479,
+      "word": "男子胃癌晚期发现10岁女儿非亲生",
+      "onboard_time": 1757333965,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472428,
+      "num": 472428,
+      "word": "锅圈食汇 蛆虫",
+      "onboard_time": 1757332883,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448397,
       "num": 448397,
       "word": "上海暴雨",
@@ -395,12 +411,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 431169,
+      "num": 252147,
+      "word": "娜扎 我要做这只蚊子",
+      "onboard_time": 1757331023,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 428518,
+      "num": 272633,
+      "word": "佟丽娅澄清合照并非朵朵",
+      "onboard_time": 1757328444,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426767,
       "num": 426767,
       "word": "曝马思纯和张曼乐没分手",
       "onboard_time": 1757306186,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425888,
+      "num": 161262,
+      "word": "沈佳润 原来内娱给我是这个定位",
+      "onboard_time": 1757334323,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 408906,
@@ -433,14 +473,6 @@
       "onboard_time": 1757244140,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 401637,
-      "num": 272633,
-      "word": "佟丽娅澄清合照并非朵朵",
-      "onboard_time": 1757328444,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 396975,
@@ -481,6 +513,14 @@
       "onboard_time": 1757257883,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 378721,
+      "num": 265233,
+      "word": "金正恩访华专车车牌有深意",
+      "onboard_time": 1757330064,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 375170,
@@ -635,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324398,
+      "num": 246061,
+      "word": "马思纯又瘦了好多",
+      "onboard_time": 1757330603,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322636,
       "num": 322636,
       "word": "深圳停课",
@@ -657,6 +705,14 @@
       "onboard_time": 1757254282,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318384,
+      "num": 230158,
+      "word": "上海全款150万32平米的复式小家",
+      "onboard_time": 1757329283,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 315122,
@@ -747,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 279035,
+      "num": 225868,
+      "word": "天才女友造型师",
+      "onboard_time": 1757330662,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272249,
       "num": 272249,
       "word": "00后还有5年就30岁了",
@@ -761,14 +825,6 @@
       "onboard_time": 1757295140,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265233,
-      "num": 265233,
-      "word": "金正恩访华专车车牌有深意",
-      "onboard_time": 1757330064,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 261235,
@@ -873,6 +929,14 @@
       "onboard_time": 1757322081,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223989,
+      "num": 223989,
+      "word": "高叶腹肌",
+      "onboard_time": 1757332163,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 222360,
@@ -1595,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152264,
+      "num": 152264,
+      "word": "江西一居民多个月水费都是49.93元",
+      "onboard_time": 1757334805,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151913,
       "num": 151913,
       "word": "王赫野垫肩从肩跑到了腰",
@@ -1675,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147819,
+      "num": 147819,
+      "word": "易烊千玺说少年的你是敲门砖",
+      "onboard_time": 1757334323,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147511,
       "num": 147511,
       "word": "丁程鑫刺杀小说家2水墨海报",
@@ -1697,14 +1777,6 @@
       "onboard_time": 1757304986,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 146582,
-      "num": 146582,
-      "word": "上海全款150万32平米的复式小家",
-      "onboard_time": 1757329283,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 145777,
@@ -1859,14 +1931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 139778,
-      "num": 200597,
-      "word": "娜扎 我要做这只蚊子",
-      "onboard_time": 1757331023,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139352,
       "num": 139352,
       "word": "男子55万买房2年后才发现是凶宅",
@@ -1939,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135027,
+      "num": 197188,
+      "word": "石平卖祖求荣只会自食恶果",
+      "onboard_time": 1757321242,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132844,
       "num": 132844,
       "word": "LPL",
@@ -1953,6 +2025,14 @@
       "onboard_time": 1757316802,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132472,
+      "num": 132472,
+      "word": "男子工资交女友分手要回遭拒",
+      "onboard_time": 1757335643,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132241,
@@ -2000,6 +2080,14 @@
       "word": "当叔圈顶流遇上硬汉小生",
       "onboard_time": 1757324063,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130227,
+      "num": 144288,
+      "word": "尚公主 公主强制play",
+      "onboard_time": 1757329403,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -2051,14 +2139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128139,
-      "num": 197188,
-      "word": "石平卖祖求荣只会自食恶果",
-      "onboard_time": 1757321242,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 127900,
       "num": 127900,
       "word": "按姓氏分班 上课好像进祠堂",
@@ -2073,14 +2153,6 @@
       "onboard_time": 1757313083,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126803,
-      "num": 144288,
-      "word": "尚公主 公主强制play",
-      "onboard_time": 1757329403,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 126680,
@@ -2131,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124879,
+      "num": 124879,
+      "word": "爱吃玉米的减肥人士轻轻碎了",
+      "onboard_time": 1757333302,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 124832,
       "num": 124832,
       "word": "辛芷蕾9年131分钟891个字",
@@ -2147,19 +2227,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124416,
+      "num": 124416,
+      "word": "奶茶行业或将迎来可乐式结局",
+      "onboard_time": 1757331144,
+      "rank": 48,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 124388,
       "num": 153578,
       "word": "嫁金钗",
       "onboard_time": 1757290522,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 124186,
-      "num": 124186,
-      "word": "天才女友造型师",
-      "onboard_time": 1757330662,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2201,6 +2281,14 @@
       "onboard_time": 1757317584,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122447,
+      "num": 122447,
+      "word": "记住了那个眼熟的女演员",
+      "onboard_time": 1757334862,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 121925,
@@ -2339,12 +2427,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114851,
-      "num": 114851,
-      "word": "奶茶行业或将迎来可乐式结局",
-      "onboard_time": 1757331144,
-      "rank": 48,
-      "category": "财经,民生新闻"
+      "raw_hot": 114731,
+      "num": 117308,
+      "word": "娜扎欧阳娜娜的15年和25年",
+      "onboard_time": 1757335883,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114630,
+      "num": 114630,
+      "word": "董璇回应综艺争议",
+      "onboard_time": 1757333723,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114254,
+      "num": 116961,
+      "word": "别人是二搭季肖冰是二演",
+      "onboard_time": 1757334142,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 112897,
@@ -2353,6 +2457,14 @@
       "onboard_time": 1757315482,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112750,
+      "num": 112750,
+      "word": "势界CEO",
+      "onboard_time": 1757335943,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 112501,
@@ -2457,6 +2569,14 @@
       "onboard_time": 1757318844,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107435,
+      "num": 107435,
+      "word": "大型犬撕咬孩子三分钟",
+      "onboard_time": 1757335103,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106602,
@@ -2587,6 +2707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99466,
+      "num": 156417,
+      "word": "真人版美猴王",
+      "onboard_time": 1757335703,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99112,
       "num": 99112,
       "word": "一诺坏男孩联盟正式成立",
@@ -2635,6 +2763,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95820,
+      "num": 107443,
+      "word": "刚上班的人vs上班几年的人",
+      "onboard_time": 1757334683,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 95631,
+      "num": 119029,
+      "word": "被张真源求着要亲亲",
+      "onboard_time": 1757335283,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95561,
       "num": 95561,
       "word": "辛芷蕾听完英文提问的反应",
@@ -2657,14 +2801,6 @@
       "onboard_time": 1757282775,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94809,
-      "num": 127179,
-      "word": "马思纯又瘦了好多",
-      "onboard_time": 1757330603,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 92810,
@@ -2819,6 +2955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74884,
+      "num": 151201,
+      "word": "汤唯嘉人九月刊封面",
+      "onboard_time": 1757334923,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 74883,
       "num": 74883,
       "word": "胡萝卜色血月",
@@ -2913,6 +3057,14 @@
       "onboard_time": 1757297002,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 70455,
+      "num": 111360,
+      "word": "耶路撒冷发生枪击",
+      "onboard_time": 1757334383,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 69806,
@@ -3129,6 +3281,14 @@
       "onboard_time": 1757253622,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 40827,
+      "num": 238334,
+      "word": "丁禹兮把广告当杂志拍",
+      "onboard_time": 1757333002,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 39586,
