@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/09 01:22:24
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/09 01:39:52
 </p>
 </blockquote>
 <p>
@@ -5949,6 +5949,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%BF%E7%95%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%84%9F%E8%B0%A2%E6%A2%93%E6%B8%9D%E7%B2%89%E4%B8%9D%23" target="weibo">
+势界创始人感谢梓渝粉丝（热度：224613）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98JDG%23" target="weibo">
 BLG对战JDG（热度：224476）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战JDG（热度：224476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A5%AF%E6%80%80%E5%AD%95%E4%BA%86%23" target="weibo">
 武祯怀孕了（热度：222008）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A3%B8%E7%9C%BC3D%E7%9C%8B%E5%8F%97%E9%98%85%E7%A9%BA%E4%B8%AD%E6%A2%AF%E9%98%9F%23" target="weibo">
-裸眼3D看受阅空中梯队（热度：221669）
 </a>
 </li>
 
