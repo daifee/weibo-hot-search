@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757310059973,
+  "endTime": 1757313516533,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -267,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 978450,
+      "num": 294476,
+      "word": "离婚冷静期婆婆去世女子要求分遗产",
+      "onboard_time": 1757309603,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 952235,
       "num": 309904,
       "word": "知情人回应许嵩冯禧完婚",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662786,
+      "num": 662786,
+      "word": "俄罗斯阅兵抓日本战俘游街",
+      "onboard_time": 1757308524,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 658666,
       "num": 396390,
       "word": "小袁回应说胡楚靓口臭",
@@ -441,6 +457,14 @@
       "onboard_time": 1757164103,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 587138,
+      "num": 587138,
+      "word": "你以为在休息其实最耗气血",
+      "onboard_time": 1757309482,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 587116,
@@ -739,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392790,
+      "num": 217441,
+      "word": "点读笔诱导儿童网恋",
+      "onboard_time": 1757311166,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388448,
       "num": 388448,
       "word": "班主任严肃制止学生传播网络烂梗",
@@ -873,14 +905,6 @@
       "onboard_time": 1757262740,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 352332,
-      "num": 183478,
-      "word": "俄罗斯阅兵抓日本战俘游街",
-      "onboard_time": 1757308524,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 350646,
@@ -1123,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294476,
-      "num": 294476,
-      "word": "离婚冷静期婆婆去世女子要求分遗产",
-      "onboard_time": 1757309603,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294466,
       "num": 381476,
       "word": "鹿晗喊陈赫喊破音了",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1757252663,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292375,
+      "num": 220350,
+      "word": "看了付航证件照还以为他要换赛道",
+      "onboard_time": 1757310863,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 285742,
@@ -1259,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251041,
-      "num": 183394,
-      "word": "你以为在休息其实最耗气血",
-      "onboard_time": 1757309482,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 245226,
       "num": 245226,
       "word": "美国或需退还半数已征关税",
@@ -1379,6 +1395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223777,
+      "num": 190356,
+      "word": "iPhone17或有隐藏款",
+      "onboard_time": 1757311405,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 222360,
       "num": 222360,
       "word": "田曦薇新剧我斗我自己",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1757307146,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209119,
+      "num": 188844,
+      "word": "王星越这回女主没对象不用抢",
+      "onboard_time": 1757312483,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 208451,
@@ -1756,7 +1788,7 @@
     },
     {
       "raw_hot": 191252,
-      "num": 557368,
+      "num": 620205,
       "word": "阅兵后劲真的太大了",
       "onboard_time": 1757294781,
       "rank": 31,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1757307388,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191052,
+      "num": 191052,
+      "word": "张艺兴鸟巢演唱会总导演是张艺谋",
+      "onboard_time": 1757312602,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 190294,
@@ -1971,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177057,
+      "num": 177057,
+      "word": "陈都灵周翊然旷野手牵手",
+      "onboard_time": 1757312243,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176658,
       "num": 176658,
       "word": "萨巴伦卡大满贯第4冠",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1757213600,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173865,
+      "num": 173865,
+      "word": "雨霖铃",
+      "onboard_time": 1757312183,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 173610,
@@ -2089,6 +2145,14 @@
       "onboard_time": 1757306845,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169858,
+      "num": 199674,
+      "word": "他亲手解剖14人却因一封信崩溃",
+      "onboard_time": 1757309784,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169804,
@@ -2307,6 +2371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156384,
+      "num": 156384,
+      "word": "喜欢吃炸鸡的人不会坏到哪里去",
+      "onboard_time": 1757310983,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156341,
       "num": 156341,
       "word": "电影志愿军系列终章定档国庆",
@@ -2419,6 +2491,22 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 151892,
+      "num": 151892,
+      "word": "泡泡玛特跌超7%",
+      "onboard_time": 1757313381,
+      "rank": 32,
+      "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 151792,
+      "num": 175180,
+      "word": "部分车主宁可违停也不停机械车位",
+      "onboard_time": 1757312183,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151628,
       "num": 151628,
       "word": "赵磊qko真的上夫妻综艺了",
@@ -2473,6 +2561,14 @@
       "onboard_time": 1757258543,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149331,
+      "num": 149331,
+      "word": "田栩宁踏过夜雾",
+      "onboard_time": 1757313143,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148776,
@@ -2603,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143707,
+      "num": 143707,
+      "word": "肖战少爷简直是魅魔",
+      "onboard_time": 1757313083,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143418,
       "num": 143418,
       "word": "剑网3",
@@ -2689,6 +2793,14 @@
       "onboard_time": 1757247981,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140191,
+      "num": 140191,
+      "word": "新生体面入学只需一个老爸",
+      "onboard_time": 1757312123,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 140126,
@@ -2939,6 +3051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131227,
+      "num": 131227,
+      "word": "TheShy发博",
+      "onboard_time": 1757313023,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131059,
       "num": 131059,
       "word": "台风塔巴生成",
@@ -3059,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127404,
+      "num": 127404,
+      "word": "PEL",
+      "onboard_time": 1757313083,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127211,
       "num": 127211,
       "word": "做过美甲的都沉默了",
@@ -3081,6 +3209,14 @@
       "onboard_time": 1757214321,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125713,
+      "num": 125713,
+      "word": "怎么不等秋天过了再告诉我",
+      "onboard_time": 1757311763,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 125685,
@@ -3203,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123593,
+      "num": 123593,
+      "word": "工资不高但想留下来的城市",
+      "onboard_time": 1757312002,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123131,
       "num": 112087,
       "word": "李昀锐 我那ys白月光",
@@ -3267,12 +3411,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120620,
+      "num": 120620,
+      "word": "展轩ELLEMEN新青年首封预告",
+      "onboard_time": 1757313323,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 120144,
       "num": 120144,
       "word": "意大利女排vs土耳其女排",
       "onboard_time": 1757253444,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120123,
+      "num": 120123,
+      "word": "柯淳爬到2米高的草垛上搞抽象",
+      "onboard_time": 1757313441,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 120023,
@@ -4307,6 +4467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84695,
+      "num": 219486,
+      "word": "詹姆斯说打好篮球有3个关键因素",
+      "onboard_time": 1757312902,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84449,
       "num": 949139,
       "word": "又是被中国排面硬控的一天",
@@ -4579,6 +4747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 69806,
+      "num": 139162,
+      "word": "曝杨祐宁父亲患癌症",
+      "onboard_time": 1757312543,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67989,
       "num": 153086,
       "word": "日媒称石破茂遭菅义伟小泉等人逼宫",
@@ -4633,14 +4809,6 @@
       "onboard_time": 1757300603,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 63103,
-      "num": 199674,
-      "word": "他亲手解剖14人却因一封信崩溃",
-      "onboard_time": 1757309784,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63069,
@@ -4979,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34125,
+      "num": 139066,
+      "word": "1招快速去除体内多余的糖分",
+      "onboard_time": 1757312844,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 33046,
       "num": 81961,
       "word": "中级财管",
@@ -5137,6 +5313,14 @@
       "onboard_time": 1757282895,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21806,
+      "num": 139399,
+      "word": "袁弘张歆艺把日常搬进荧幕",
+      "onboard_time": 1757313323,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 21592,
