@@ -1,0 +1,410 @@
+{
+  "runTime": 1757366579754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 166747,
+        "num": 166747,
+        "word": "王腾发博致歉",
+        "onboard_time": 1757345005,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98992,
+        "num": 98992,
+        "word": "王化",
+        "onboard_time": 1757349741,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4055,
+        "num": 86281,
+        "word": "58个中国工程被印在121枚世界货币上",
+        "onboard_time": 1757317103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77726,
+        "num": 77726,
+        "word": "马龙坐在了倪妮井柏然中间",
+        "onboard_time": 1757342723,
+        "rank": 3,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 35032,
+        "num": 35032,
+        "word": "明星若踩法律红线下场不言而喻",
+        "onboard_time": 1757354476,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33405,
+        "num": 33405,
+        "word": "吴艳妮填补中国女子短跨十年空白",
+        "onboard_time": 1757352137,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31456,
+        "num": 31456,
+        "word": "韩国舆论对美国抓数百韩国人不解",
+        "onboard_time": 1757356575,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28198,
+        "num": 28198,
+        "word": "江西一居民多个月水费都是49.93元",
+        "onboard_time": 1757334805,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27737,
+        "num": 27737,
+        "word": "男子工资交女友分手要回遭拒",
+        "onboard_time": 1757335643,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26553,
+        "num": 26553,
+        "word": "周冬雨刘昊然同框",
+        "onboard_time": 1757343204,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58975,
+        "num": 26539,
+        "word": "制片人称许凯下一部男主被换",
+        "onboard_time": 1757343626,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54436,
+        "num": 26450,
+        "word": "沈佳润 原来内娱给我是这个定位",
+        "onboard_time": 1757334323,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47207,
+        "num": 26342,
+        "word": "井柏然刘雯手牵手回酒店",
+        "onboard_time": 1757345125,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40095,
+        "num": 26314,
+        "word": "娃哈哈瓶盖当公章",
+        "onboard_time": 1757345664,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31623,
+        "num": 26241,
+        "word": "势界创始人感谢梓渝粉丝",
+        "onboard_time": 1757348601,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26164,
+        "num": 26164,
+        "word": "粉丝围堵高铁站艺人真不知情吗",
+        "onboard_time": 1757345005,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25480,
+        "num": 25480,
+        "word": "阻断私生饭获取明星数据渠道",
+        "onboard_time": 1757344884,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24822,
+        "num": 24822,
+        "word": "势界CEO",
+        "onboard_time": 1757335943,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22901,
+        "num": 22901,
+        "word": "女民兵为啥戴红色丝巾",
+        "onboard_time": 1757342844,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19194,
+        "num": 19194,
+        "word": "赴山海OST",
+        "onboard_time": 1757344403,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46531,
+        "num": 18981,
+        "word": "男子胃癌晚期发现10岁女儿非亲生",
+        "onboard_time": 1757333965,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43509,
+        "num": 18926,
+        "word": "许凯方否认赌博",
+        "onboard_time": 1757330723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25990,
+        "num": 18889,
+        "word": "毛晓彤被锁房间里了",
+        "onboard_time": 1757337682,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18672,
+        "num": 18672,
+        "word": "西藏一垃圾站30多只熊集体觅食",
+        "onboard_time": 1757333482,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18610,
+        "num": 18610,
+        "word": "梓渝杂志",
+        "onboard_time": 1757341462,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18521,
+        "num": 18521,
+        "word": "曝辛芷蕾团队工资",
+        "onboard_time": 1757321483,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18472,
+        "num": 18472,
+        "word": "许荔莎回应聊天截图是假的",
+        "onboard_time": 1757325922,
+        "rank": 26,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 18330,
+        "num": 18330,
+        "word": "钟楚曦删了与侯雯元官宣博",
+        "onboard_time": 1757317823,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17573,
+        "num": 17573,
+        "word": "曝苹果将量产1亿部iPhone17",
+        "onboard_time": 1757362273,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17341,
+        "num": 17341,
+        "word": "马龙 替我姥姥谢谢倪妮",
+        "onboard_time": 1757343744,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 17304,
+        "num": 17304,
+        "word": "出生没多久确诊雷特综合征",
+        "onboard_time": 1757359995,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16621,
+        "num": 17304,
+        "word": "巴基斯坦最新空军宣传片",
+        "onboard_time": 1757344765,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16144,
+        "num": 17296,
+        "word": "女子20元彩票刮中100万激动尖叫",
+        "onboard_time": 1757325142,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15019,
+        "num": 17292,
+        "word": "瘦下来的卢昱晓",
+        "onboard_time": 1757327783,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14843,
+        "num": 17290,
+        "word": "以为很贵实际很便宜的旅游城市",
+        "onboard_time": 1757346446,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 14708,
+        "num": 17282,
+        "word": "辛芷蕾原名",
+        "onboard_time": 1757328622,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14459,
+        "num": 17281,
+        "word": "为什么九三阅兵歼10拉彩烟",
+        "onboard_time": 1757342244,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14345,
+        "num": 17273,
+        "word": "欢娱律师声明",
+        "onboard_time": 1757330064,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13534,
+        "num": 17269,
+        "word": "马思纯又瘦了好多",
+        "onboard_time": 1757330603,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13500,
+        "num": 17269,
+        "word": "酒店回应安装面积约20平方米大电梯",
+        "onboard_time": 1757348422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13355,
+        "num": 17263,
+        "word": "丁程鑫刺杀小说家2打戏预告",
+        "onboard_time": 1757356395,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12660,
+        "num": 17260,
+        "word": "小狗洗澡时偷偷放屁制造气泡",
+        "onboard_time": 1757343443,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12543,
+        "num": 17251,
+        "word": "锅圈食汇 蛆虫",
+        "onboard_time": 1757332883,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12349,
+        "num": 17247,
+        "word": "雷佳音刘昊然合唱明天会更好",
+        "onboard_time": 1757354116,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12195,
+        "num": 17244,
+        "word": "势界CEO发文感谢田栩宁粉丝",
+        "onboard_time": 1757336003,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12146,
+        "num": 17239,
+        "word": "福建舰9月10日出港",
+        "onboard_time": 1757349920,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 11897,
+        "num": 17234,
+        "word": "以军凌晨空袭加沙致62死",
+        "onboard_time": 1757357775,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11812,
+        "num": 17229,
+        "word": "周柯宇翻牌",
+        "onboard_time": 1757346084,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11757,
+        "num": 17225,
+        "word": "iPhone16价格不降反升",
+        "onboard_time": 1757329403,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10585,
+        "num": 17224,
+        "word": "天才女友造型师",
+        "onboard_time": 1757330662,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的这6天#"
+    }
+  }
+}
