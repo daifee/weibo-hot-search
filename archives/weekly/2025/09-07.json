@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757323798504,
+  "endTime": 1757324577501,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1794899,
+      "num": 604610,
+      "word": "曝辛芷蕾团队工资",
+      "onboard_time": 1757321483,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1600592,
       "num": 241283,
       "word": "12306回应大量私生高铁站围堵男星",
       "onboard_time": 1757234721,
       "rank": 20,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1536618,
-      "num": 603483,
-      "word": "曝辛芷蕾团队工资",
-      "onboard_time": 1757321483,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1506001,
@@ -179,8 +179,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1260272,
-      "num": 1260272,
+      "raw_hot": 1262575,
+      "num": 1262575,
       "word": "女子点绿茶餐厅外卖被贴装货",
       "onboard_time": 1757318722,
       "rank": 6,
@@ -235,6 +235,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 1117709,
+      "num": 315866,
+      "word": "许荔莎曝许凯吐槽粉丝",
+      "onboard_time": 1757323642,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1114250,
       "num": 499340,
       "word": "花少公开祝贺辛芷蕾第一人",
@@ -256,14 +264,6 @@
       "word": "Metal 田栩宁",
       "onboard_time": 1757300783,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1033188,
-      "num": 315866,
-      "word": "许荔莎曝许凯吐槽粉丝",
-      "onboard_time": 1757323642,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 749435,
+      "num": 749435,
+      "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+      "onboard_time": 1757319203,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 728415,
       "num": 728415,
       "word": "你以为在休息其实最耗气血",
@@ -529,14 +537,6 @@
       "onboard_time": 1757314403,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 601993,
-      "num": 601993,
-      "word": "淘宝闪购购买记录 衣柜里翻鸡排",
-      "onboard_time": 1757319203,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 587116,
@@ -947,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372825,
+      "num": 372825,
+      "word": "中方反制是对石平之流的惩戒警示",
+      "onboard_time": 1757321903,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 370629,
       "num": 370629,
       "word": "上海地铁9号线试点拆座椅增加空间",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1757202679,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 334453,
-      "num": 334453,
-      "word": "中方反制是对石平之流的惩戒警示",
-      "onboard_time": 1757321903,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 332017,
@@ -1379,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267200,
+      "num": 284782,
+      "word": "钟楚曦 侯雯元",
+      "onboard_time": 1757322622,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264492,
       "num": 264492,
       "word": "生病急需钱家人发现32万做了生意",
@@ -1451,6 +1459,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 236699,
+      "num": 236699,
+      "word": "上海暴雨",
+      "onboard_time": 1757322743,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236495,
       "num": 236495,
       "word": "中级会计",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1757304144,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 233092,
+      "num": 233092,
+      "word": "陈都灵不浪费每一次妆造",
+      "onboard_time": 1757320103,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 231097,
@@ -1603,12 +1627,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 214295,
+      "num": 217847,
+      "word": "胡先煦 我有一点点无语",
+      "onboard_time": 1757320523,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213503,
       "num": 213503,
       "word": "辛芷蕾说对金钱有欲望是不想留遗憾",
       "onboard_time": 1757259323,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212152,
+      "num": 212152,
+      "word": "奶茶 全世界最聪明的男人",
+      "onboard_time": 1757322023,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 211787,
@@ -1657,14 +1697,6 @@
       "onboard_time": 1757317103,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 206767,
-      "num": 206767,
-      "word": "陈都灵不浪费每一次妆造",
-      "onboard_time": 1757320103,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 206395,
@@ -1747,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202514,
+      "num": 202514,
+      "word": "柬埔寨成白人寻欢天堂",
+      "onboard_time": 1757321664,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 201636,
       "num": 201636,
       "word": "贾樟柯 退休了",
@@ -1785,14 +1825,6 @@
       "onboard_time": 1757308765,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200374,
-      "num": 149962,
-      "word": "柬埔寨成白人寻欢天堂",
-      "onboard_time": 1757321664,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 199809,
@@ -1881,14 +1913,6 @@
       "onboard_time": 1757253923,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195595,
-      "num": 195595,
-      "word": "胡先煦 我有一点点无语",
-      "onboard_time": 1757320523,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 195546,
@@ -2003,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191459,
+      "num": 191459,
+      "word": "内娱全员00后的综艺来了",
+      "onboard_time": 1757323583,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191252,
       "num": 643130,
       "word": "阅兵后劲真的太大了",
@@ -2059,20 +2091,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189041,
-      "num": 189041,
-      "word": "奶茶 全世界最聪明的男人",
-      "onboard_time": 1757322023,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 188610,
       "num": 188610,
       "word": "听潮阁",
       "onboard_time": 1757249963,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187927,
+      "num": 216289,
+      "word": "栩栩华生红毯",
+      "onboard_time": 1757323464,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187673,
@@ -2147,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183657,
+      "num": 183657,
+      "word": "欧阳娜娜好像行走的洋娃娃",
+      "onboard_time": 1757323583,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182863,
       "num": 182863,
       "word": "确诊厌6症",
@@ -2169,14 +2209,6 @@
       "onboard_time": 1757303304,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 182070,
-      "num": 192322,
-      "word": "钟楚曦 侯雯元",
-      "onboard_time": 1757322622,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 181850,
@@ -2313,6 +2345,14 @@
       "onboard_time": 1757299582,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174437,
+      "num": 194596,
+      "word": "献鱼女二发长文感谢批评",
+      "onboard_time": 1757323282,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 174350,
@@ -2489,6 +2529,14 @@
       "onboard_time": 1757240780,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163993,
+      "num": 163993,
+      "word": "我和鹿晗何曾有过嫌隙",
+      "onboard_time": 1757323882,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 163648,
@@ -2779,6 +2827,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 152307,
+      "num": 152307,
+      "word": "多地违规向死亡人员发放养老金",
+      "onboard_time": 1757323164,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151913,
       "num": 151913,
       "word": "王赫野垫肩从肩跑到了腰",
@@ -2849,6 +2905,14 @@
       "onboard_time": 1757174543,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150195,
+      "num": 150195,
+      "word": "70岁老人借厕猝死家属索赔21万",
+      "onboard_time": 1757322081,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150131,
@@ -2947,14 +3011,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146443,
-      "num": 146443,
-      "word": "上海暴雨",
-      "onboard_time": 1757322743,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146418,
       "num": 146418,
       "word": "刘国正说王楚钦实力摆在那",
@@ -2993,14 +3049,6 @@
       "onboard_time": 1757287040,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 145157,
-      "num": 183278,
-      "word": "栩栩华生红毯",
-      "onboard_time": 1757323464,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144799,
@@ -3129,14 +3177,6 @@
       "onboard_time": 1757251101,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140706,
-      "num": 140706,
-      "word": "70岁老人借厕猝死家属索赔21万",
-      "onboard_time": 1757322081,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140666,
@@ -3459,6 +3499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131129,
+      "num": 131129,
+      "word": "当叔圈顶流遇上硬汉小生",
+      "onboard_time": 1757324063,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131059,
       "num": 131059,
       "word": "台风塔巴生成",
@@ -3489,6 +3537,14 @@
       "onboard_time": 1757246001,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130007,
+      "num": 326671,
+      "word": "狗守离世主人瘦成皮包骨现已被收养",
+      "onboard_time": 1757322081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129733,
@@ -3555,6 +3611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128139,
+      "num": 128139,
+      "word": "石平卖祖求荣只会自食恶果",
+      "onboard_time": 1757321242,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128015,
       "num": 128015,
       "word": "樊振东和小弗无障碍交流",
@@ -3611,20 +3675,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 126680,
+      "num": 126680,
+      "word": "蔡文静瘦成纸片人是进组信号吧",
+      "onboard_time": 1757324422,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126572,
       "num": 163108,
       "word": "遥感四十号03组卫星发射成功",
       "onboard_time": 1757200277,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 126346,
-      "num": 155236,
-      "word": "献鱼女二发长文感谢批评",
-      "onboard_time": 1757323282,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 125939,
@@ -3764,7 +3828,7 @@
     },
     {
       "raw_hot": 123952,
-      "num": 123952,
+      "num": 214570,
       "word": "顾客曝点知名餐厅外卖换菜被骂装货",
       "onboard_time": 1757322563,
       "rank": 37,
@@ -3825,14 +3889,6 @@
       "onboard_time": 1757317584,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122402,
-      "num": 122402,
-      "word": "内娱全员00后的综艺来了",
-      "onboard_time": 1757323583,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 121925,
@@ -3939,14 +3995,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 118876,
-      "num": 118876,
-      "word": "石平卖祖求荣只会自食恶果",
-      "onboard_time": 1757321242,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 118785,
       "num": 118785,
       "word": "蔡文静穿着青花瓷走红毯",
@@ -3977,14 +4025,6 @@
       "onboard_time": 1757245761,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118400,
-      "num": 118400,
-      "word": "多地违规向死亡人员发放养老金",
-      "onboard_time": 1757323164,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118371,
@@ -4195,6 +4235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112501,
+      "num": 112501,
+      "word": "实习工资 5个桃子",
+      "onboard_time": 1757322802,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112261,
       "num": 112261,
       "word": "孙颖莎稳住局面后一击制胜",
@@ -4331,6 +4379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109284,
+      "num": 109284,
+      "word": "游戏中心",
+      "onboard_time": 1757324002,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109132,
       "num": 109132,
       "word": "WTT",
@@ -4433,22 +4489,6 @@
       "onboard_time": 1757213242,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107054,
-      "num": 107054,
-      "word": "欧阳娜娜好像行走的洋娃娃",
-      "onboard_time": 1757323583,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106681,
-      "num": 106681,
-      "word": "实习工资 5个桃子",
-      "onboard_time": 1757322802,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 106602,
@@ -4723,6 +4763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100002,
+      "num": 100002,
+      "word": "这就是街舞还有没有苏新皓",
+      "onboard_time": 1757324542,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99826,
       "num": 99826,
       "word": "AG决赛极速局",
@@ -4752,6 +4800,14 @@
       "word": "一诺坏男孩联盟正式成立",
       "onboard_time": 1757316982,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 99091,
+      "num": 99091,
+      "word": "一诺继续拿下一个冠军",
+      "onboard_time": 1757324063,
+      "rank": 47,
       "category": "电竞"
     },
     {
@@ -4828,7 +4884,7 @@
     },
     {
       "raw_hot": 96993,
-      "num": 603600,
+      "num": 627950,
       "word": "预包装食品数字标签来了",
       "onboard_time": 1757296822,
       "rank": 49,
@@ -4856,6 +4912,14 @@
       "word": "GAI没忍住说早了",
       "onboard_time": 1757224822,
       "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 95571,
+      "num": 95571,
+      "word": "王栎鑫 阳光型抑郁",
+      "onboard_time": 1757324542,
+      "rank": 48,
       "category": "演出"
     },
     {
@@ -5379,14 +5443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72137,
-      "num": 326671,
-      "word": "狗守离世主人瘦成皮包骨现已被收养",
-      "onboard_time": 1757322081,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71737,
       "num": 148696,
       "word": "爸拿马运河",
@@ -5531,8 +5587,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 61108,
-      "num": 190457,
+      "raw_hot": 61234,
+      "num": 215771,
       "word": "你可以永远相信中国汽车",
       "onboard_time": 1757321601,
       "rank": 19,
