@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757320548499,
+  "endTime": 1757321331966,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -67,7 +67,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1660642,
+      "raw_hot": 1877917,
       "num": 334364,
       "word": "钟楚曦删了与侯雯元官宣博",
       "onboard_time": 1757317823,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1026002,
+      "num": 1164160,
+      "word": "山姆店回应顾客自带桶续杯饮料",
+      "onboard_time": 1757315422,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1018845,
       "num": 379544,
       "word": "彭昱畅 急诊",
@@ -315,14 +323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 829438,
-      "num": 1132710,
-      "word": "山姆店回应顾客自带桶续杯饮料",
-      "onboard_time": 1757315422,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 815970,
       "num": 1130555,
       "word": "工作后才知道苹果是最好的水果",
@@ -385,6 +385,14 @@
       "onboard_time": 1757245280,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 743096,
+      "num": 743096,
+      "word": "女子点绿茶餐厅外卖被贴装货",
+      "onboard_time": 1757318722,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 728415,
@@ -531,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 546509,
+      "num": 546509,
+      "word": "花2元买彩票中了1000万",
+      "onboard_time": 1757318722,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 546417,
       "num": 546417,
       "word": "刘宇宁直播辟谣与经纪人恋情",
@@ -545,6 +561,22 @@
       "onboard_time": 1757173103,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 540816,
+      "num": 540816,
+      "word": "网友拍的血月太抽象了",
+      "onboard_time": 1757315422,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537324,
+      "num": 537324,
+      "word": "每天午睡vs从不午睡",
+      "onboard_time": 1757317701,
+      "rank": 7,
+      "category": "科学科普"
     },
     {
       "raw_hot": 536770,
@@ -617,14 +649,6 @@
       "onboard_time": 1757229022,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 481381,
-      "num": 481381,
-      "word": "网友拍的血月太抽象了",
-      "onboard_time": 1757315422,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 478146,
@@ -835,14 +859,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 391031,
-      "num": 391031,
-      "word": "花2元买彩票中了1000万",
-      "onboard_time": 1757318722,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388448,
       "num": 388448,
       "word": "班主任严肃制止学生传播网络烂梗",
@@ -896,14 +912,6 @@
       "word": "这3种二维码不能扫",
       "onboard_time": 1757209163,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375907,
-      "num": 375907,
-      "word": "女子点绿茶餐厅外卖被贴装货",
-      "onboard_time": 1757318722,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -961,14 +969,6 @@
       "onboard_time": 1757305165,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 363969,
-      "num": 363969,
-      "word": "每天午睡vs从不午睡",
-      "onboard_time": 1757317701,
-      "rank": 7,
-      "category": "科学科普"
     },
     {
       "raw_hot": 363025,
@@ -1075,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332017,
+      "num": 298926,
+      "word": "官方通报演员刘轩丞被大量私生围堵",
+      "onboard_time": 1757317882,
+      "rank": 16,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 331187,
       "num": 494847,
       "word": "最圆最红的红月亮来了",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1757293222,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308966,
+      "num": 334433,
+      "word": "育儿补贴申领全面开放了",
+      "onboard_time": 1757319862,
+      "rank": 9,
+      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 307874,
@@ -1307,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277753,
+      "num": 277753,
+      "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+      "onboard_time": 1757319203,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 272249,
       "num": 272249,
       "word": "00后还有5年就30岁了",
@@ -1443,14 +1467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 229825,
-      "num": 229825,
-      "word": "官方通报演员刘轩丞被大量私生围堵",
-      "onboard_time": 1757317882,
-      "rank": 16,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 229566,
       "num": 230924,
       "word": "血月能看吗",
@@ -1545,14 +1561,6 @@
       "onboard_time": 1757164283,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215474,
-      "num": 334433,
-      "word": "育儿补贴申领全面开放了",
-      "onboard_time": 1757319862,
-      "rank": 9,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 214822,
@@ -1819,6 +1827,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 195964,
+      "num": 219789,
+      "word": "3岁以下婴幼儿每年补贴3600元",
+      "onboard_time": 1757320163,
+      "rank": 29,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 195837,
       "num": 379331,
       "word": "广东多地已发布停课通知",
@@ -1899,6 +1915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193006,
+      "num": 193006,
+      "word": "胡先煦 我有一点点无语",
+      "onboard_time": 1757320523,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192674,
       "num": 192674,
       "word": "谍报上不封顶凭栏独望海报",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1757319563,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191288,
+      "num": 191288,
+      "word": "陈都灵不浪费每一次妆造",
+      "onboard_time": 1757320103,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 191252,
@@ -2379,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166532,
-      "num": 166532,
-      "word": "陈都灵不浪费每一次妆造",
-      "onboard_time": 1757320103,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164504,
       "num": 164504,
       "word": "WTT澳门冠军赛女单完整签表",
@@ -2481,14 +2505,6 @@
       "onboard_time": 1757219061,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 160254,
-      "num": 160254,
-      "word": "3岁以下婴幼儿每年补贴3600元",
-      "onboard_time": 1757320163,
-      "rank": 29,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 160188,
@@ -2835,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146990,
+      "num": 146990,
+      "word": "AL对战WBG",
+      "onboard_time": 1757315782,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146879,
       "num": 146879,
       "word": "谁懂九尾不然同框的含金量",
@@ -2939,6 +2963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143168,
+      "num": 143168,
+      "word": "A股超3900个股上涨",
+      "onboard_time": 1757321242,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142901,
       "num": 142901,
       "word": "一山姆店现顾客自带桶续杯饮料",
@@ -2960,6 +2992,14 @@
       "word": "田曦薇新剧嫁金钗人设",
       "onboard_time": 1757315843,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142076,
+      "num": 142076,
+      "word": "待播电视剧个个能打",
+      "onboard_time": 1757317823,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -3011,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140387,
+      "num": 140387,
+      "word": "中国唱将师资阵容发布",
+      "onboard_time": 1757320883,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140368,
       "num": 140368,
       "word": "宝宝撞见爸妈偷偷吃宵夜",
@@ -3025,6 +3073,14 @@
       "onboard_time": 1757247981,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140186,
+      "num": 140186,
+      "word": "石平卖主求荣只会自食恶果",
+      "onboard_time": 1757321242,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140126,
@@ -3057,14 +3113,6 @@
       "onboard_time": 1757218943,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138408,
-      "num": 138408,
-      "word": "待播电视剧个个能打",
-      "onboard_time": 1757317823,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 138334,
@@ -3179,14 +3227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 136512,
-      "num": 136512,
-      "word": "淘宝闪购购买记录 衣柜里翻鸡排",
-      "onboard_time": 1757319203,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 135902,
       "num": 135902,
       "word": "周启豪2比4户上隼辅",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1757214802,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134062,
+      "num": 134062,
+      "word": "确诊厌6症",
+      "onboard_time": 1757319203,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 133712,
@@ -3555,6 +3603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124832,
+      "num": 124832,
+      "word": "辛芷蕾9年131分钟891个字",
+      "onboard_time": 1757318543,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124707,
       "num": 124707,
       "word": "大帅不是黑蛋是炸蛋",
@@ -3627,12 +3683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123296,
-      "num": 123296,
-      "word": "确诊厌6症",
-      "onboard_time": 1757319203,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 123558,
+      "num": 123558,
+      "word": "巴西举行国庆日阅兵",
+      "onboard_time": 1757318063,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123131,
@@ -3649,6 +3705,14 @@
       "onboard_time": 1757236702,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122906,
+      "num": 122906,
+      "word": "14年前步步惊心周边长啥样",
+      "onboard_time": 1757317584,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121925,
@@ -3689,14 +3753,6 @@
       "onboard_time": 1757211141,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120715,
-      "num": 120715,
-      "word": "辛芷蕾9年131分钟891个字",
-      "onboard_time": 1757318543,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 120709,
@@ -3843,14 +3899,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 116934,
-      "num": 116934,
-      "word": "14年前步步惊心周边长啥样",
-      "onboard_time": 1757317584,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 116750,
       "num": 116750,
       "word": "英国男子8年挥霍完上亿彩票",
@@ -3961,14 +4009,6 @@
       "onboard_time": 1757258002,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114122,
-      "num": 114122,
-      "word": "巴西举行国庆日阅兵",
-      "onboard_time": 1757318063,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114012,
@@ -4251,14 +4291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106954,
-      "num": 106954,
-      "word": "胡先煦 我有一点点无语",
-      "onboard_time": 1757320523,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106602,
       "num": 106602,
       "word": "不用熬夜就能看的全过程月全食",
@@ -4377,6 +4409,14 @@
       "onboard_time": 1757242520,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103361,
+      "num": 123044,
+      "word": "绿茶回应顾客外卖换菜被骂装货",
+      "onboard_time": 1757321123,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102985,
@@ -5435,6 +5475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51100,
+      "num": 134837,
+      "word": "王玉雯又在指挥交通了",
+      "onboard_time": 1757320341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50683,
       "num": 254996,
       "word": "陈妍希人生第一次智驾是开小鹏P7",
@@ -5619,6 +5667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33697,
+      "num": 148237,
+      "word": "女子就餐被商家直播发声反遭投诉",
+      "onboard_time": 1757320584,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33046,
       "num": 81961,
       "word": "中级财管",
@@ -5747,14 +5803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25060,
-      "num": 119132,
-      "word": "王玉雯又在指挥交通了",
-      "onboard_time": 1757320341,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24243,
       "num": 28900,
       "word": "马丽是真没看见陈可辛",
@@ -5819,12 +5867,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20344,
+      "num": 574186,
+      "word": "非凡十四五",
+      "onboard_time": 1757320942,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20104,
       "num": 24989,
       "word": "想减肥就去干团播",
       "onboard_time": 1757190374,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 19933,
+      "num": 134295,
+      "word": "蒋奇明早在简介中回复了你",
+      "onboard_time": 1757320883,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 19250,
