@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757341571548,
+  "endTime": 1757342658233,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -667,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 550177,
+      "num": 1088028,
+      "word": "男子工资交女友分手要回遭拒",
+      "onboard_time": 1757335643,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 546417,
       "num": 546417,
       "word": "刘宇宁直播辟谣与经纪人恋情",
@@ -723,12 +731,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 513596,
-      "num": 513596,
-      "word": "男子工资交女友分手要回遭拒",
-      "onboard_time": 1757335643,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 513709,
+      "num": 250087,
+      "word": "梓渝杂志",
+      "onboard_time": 1757341462,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 505423,
@@ -945,6 +953,14 @@
       "onboard_time": 1757174363,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 430025,
+      "num": 430025,
+      "word": "董璇谈张维伊大姑家规",
+      "onboard_time": 1757339123,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 428518,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1757308225,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 365966,
-      "num": 365966,
-      "word": "董璇谈张维伊大姑家规",
-      "onboard_time": 1757339123,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 364932,
@@ -1715,6 +1723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244125,
+      "num": 215436,
+      "word": "中医建议秋天吃6种白色食物",
+      "onboard_time": 1757337802,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 241544,
       "num": 241544,
       "word": "影院女厕隔间门贴男明星照片引质疑",
@@ -1788,7 +1804,7 @@
     },
     {
       "raw_hot": 229696,
-      "num": 204859,
+      "num": 206542,
       "word": "谁懂女生牛仔裤坐下鼓包的痛",
       "onboard_time": 1757338464,
       "rank": 15,
@@ -1897,14 +1913,6 @@
       "onboard_time": 1757164283,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215436,
-      "num": 215436,
-      "word": "中医建议秋天吃6种白色食物",
-      "onboard_time": 1757337802,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 214822,
@@ -3035,6 +3043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158974,
+      "num": 380519,
+      "word": "卢远王乐晨cp",
+      "onboard_time": 1757338524,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158304,
       "num": 158304,
       "word": "校方回应床直接钉在墙上",
@@ -3161,6 +3177,14 @@
       "onboard_time": 1757308823,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154851,
+      "num": 154851,
+      "word": "易烊千玺电影人们齐聚一堂",
+      "onboard_time": 1757341824,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154681,
@@ -3483,6 +3507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144309,
+      "num": 144309,
+      "word": "娜扎出场听取夸声一片",
+      "onboard_time": 1757342305,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144288,
       "num": 144287,
       "word": "星穹铁道3.6版本前瞻",
@@ -3699,12 +3731,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139110,
-      "num": 139110,
-      "word": "梓渝杂志",
-      "onboard_time": 1757341462,
-      "rank": 41,
-      "category": "作品衍生,时尚"
+      "raw_hot": 138858,
+      "num": 138858,
+      "word": "便利店偶遇吴磊",
+      "onboard_time": 1757342066,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 138701,
@@ -3713,6 +3745,14 @@
       "onboard_time": 1757218943,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138462,
+      "num": 154280,
+      "word": "西藏一垃圾站30多只熊集体觅食",
+      "onboard_time": 1757333482,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138334,
@@ -3947,6 +3987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133440,
+      "num": 133440,
+      "word": "林允这背好适合去拔火罐",
+      "onboard_time": 1757341224,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133439,
       "num": 133439,
       "word": "空腹36小时身体的变化",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1757247922,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131848,
-      "num": 131848,
-      "word": "西藏一垃圾站30多只熊集体觅食",
-      "onboard_time": 1757333482,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131740,
@@ -4137,14 +4177,6 @@
       "onboard_time": 1757169144,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 129127,
-      "num": 380519,
-      "word": "卢远王乐晨cp",
-      "onboard_time": 1757338524,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 128827,
@@ -4313,6 +4345,14 @@
       "onboard_time": 1757216841,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125310,
+      "num": 118539,
+      "word": "林允 维纳斯女神",
+      "onboard_time": 1757341164,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125238,
@@ -4603,11 +4643,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119615,
-      "num": 119615,
-      "word": "林允这背好适合去拔火罐",
-      "onboard_time": 1757341224,
-      "rank": 44,
+      "raw_hot": 119619,
+      "num": 154040,
+      "word": "倪妮马思纯周冬雨同台",
+      "onboard_time": 1757341284,
+      "rank": 39,
       "category": "作品衍生"
     },
     {
@@ -4651,6 +4691,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 118553,
+      "num": 118553,
+      "word": "刘宇宁的2025巡演",
+      "onboard_time": 1757342604,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118440,
       "num": 117814,
       "word": "解说米勒",
@@ -4665,6 +4713,14 @@
       "onboard_time": 1757205201,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118219,
+      "num": 118219,
+      "word": "易烊千玺2025演唱会礐嶨",
+      "onboard_time": 1757342545,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 118013,
@@ -5049,14 +5105,6 @@
       "onboard_time": 1757244861,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109685,
-      "num": 109685,
-      "word": "林允 维纳斯女神",
-      "onboard_time": 1757341164,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109468,
@@ -6721,14 +6769,6 @@
       "onboard_time": 1757177180,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40717,
-      "num": 154040,
-      "word": "倪妮马思纯周冬雨同台",
-      "onboard_time": 1757341284,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39960,
