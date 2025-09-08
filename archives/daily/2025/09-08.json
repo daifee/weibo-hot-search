@@ -1,7 +1,15 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757345189606,
+  "endTime": 1757346100695,
   "band_list": [
+    {
+      "raw_hot": 10222055,
+      "num": 10222055,
+      "word": "小米王腾因泄密被辞退",
+      "onboard_time": 1757343626,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 7939532,
       "num": 7939532,
@@ -9,14 +17,6 @@
       "onboard_time": 1757296520,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7207857,
-      "num": 7207857,
-      "word": "小米王腾因泄密被辞退",
-      "onboard_time": 1757343626,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 3121097,
@@ -33,6 +33,14 @@
       "onboard_time": 1757330723,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2778820,
+      "num": 2778820,
+      "word": "王腾发博致歉",
+      "onboard_time": 1757345005,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 2542164,
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1080423,
+      "num": 1080423,
+      "word": "马龙坐在了倪妮井柏然中间",
+      "onboard_time": 1757342723,
+      "rank": 3,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 1041749,
       "num": 457351,
       "word": "Metal 田栩宁",
@@ -153,14 +169,6 @@
       "onboard_time": 1757315422,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1019348,
-      "num": 1019348,
-      "word": "王腾发博致歉",
-      "onboard_time": 1757345005,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1000585,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 941069,
-      "num": 941069,
-      "word": "马龙坐在了倪妮井柏然中间",
-      "onboard_time": 1757342723,
-      "rank": 3,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 881992,
       "num": 881992,
       "word": "女子20元彩票刮中100万激动尖叫",
@@ -225,6 +225,14 @@
       "onboard_time": 1757311166,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 838407,
+      "num": 313917,
+      "word": "梓渝杂志",
+      "onboard_time": 1757341462,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 806816,
@@ -259,14 +267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 752910,
-      "num": 313917,
-      "word": "梓渝杂志",
-      "onboard_time": 1757341462,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 749435,
       "num": 749435,
       "word": "淘宝闪购购买记录 衣柜里翻鸡排",
@@ -289,6 +289,14 @@
       "onboard_time": 1757309482,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 705861,
+      "num": 311484,
+      "word": "制片人称许凯下一部男主被换",
+      "onboard_time": 1757343626,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 680211,
@@ -411,12 +419,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 514624,
-      "num": 311484,
-      "word": "制片人称许凯下一部男主被换",
-      "onboard_time": 1757343626,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 508920,
+      "num": 304677,
+      "word": "井柏然刘雯手牵手回酒店",
+      "onboard_time": 1757345125,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 505423,
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356656,
+      "num": 320593,
+      "word": "马龙 替我姥姥谢谢倪妮",
+      "onboard_time": 1757343744,
+      "rank": 8,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 356117,
       "num": 356117,
       "word": "鹿晗报喜不报忧",
@@ -697,6 +713,14 @@
       "onboard_time": 1757329403,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 348302,
+      "num": 244692,
+      "word": "娃哈哈瓶盖当公章",
+      "onboard_time": 1757345664,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 347301,
@@ -835,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310694,
+      "num": 292654,
+      "word": "周冬雨刘昊然同框",
+      "onboard_time": 1757343204,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310510,
       "num": 310510,
       "word": "鹿晗膝盖疑似流血",
@@ -859,20 +891,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 304677,
-      "num": 304677,
-      "word": "井柏然刘雯手牵手回酒店",
-      "onboard_time": 1757345125,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 297927,
       "num": 297927,
       "word": "大学生呕吐系自备井蓄水池受污染",
       "onboard_time": 1757262499,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297773,
+      "num": 297773,
+      "word": "雷军",
+      "onboard_time": 1757346025,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 297085,
@@ -939,12 +971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263270,
-      "num": 320593,
-      "word": "马龙 替我姥姥谢谢倪妮",
-      "onboard_time": 1757343744,
-      "rank": 8,
-      "category": "艺人,体育"
+      "raw_hot": 264211,
+      "num": 264211,
+      "word": "赴山海OST",
+      "onboard_time": 1757344403,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 261235,
@@ -993,14 +1025,6 @@
       "onboard_time": 1757302164,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252603,
-      "num": 252603,
-      "word": "周冬雨刘昊然同框",
-      "onboard_time": 1757343204,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247897,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1757320103,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227392,
+      "num": 317528,
+      "word": "女民兵为啥戴红色丝巾",
+      "onboard_time": 1757342844,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 226924,
@@ -1172,7 +1204,7 @@
     },
     {
       "raw_hot": 208347,
-      "num": 962564,
+      "num": 1861039,
       "word": "58个中国工程被印在121枚世界货币上",
       "onboard_time": 1757317103,
       "rank": 28,
@@ -1355,14 +1387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194490,
-      "num": 194490,
-      "word": "赴山海OST",
-      "onboard_time": 1757344403,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194343,
       "num": 194343,
       "word": "爱喝茶的人有福了",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1757305165,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191809,
-      "num": 317528,
-      "word": "女民兵为啥戴红色丝巾",
-      "onboard_time": 1757342844,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 191519,
@@ -1604,7 +1620,7 @@
     },
     {
       "raw_hot": 177788,
-      "num": 177788,
+      "num": 185894,
       "word": "这些祝福送给每一个追梦的你",
       "onboard_time": 1757343085,
       "rank": 25,
@@ -1627,12 +1643,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174540,
+      "num": 174540,
+      "word": "粉丝围堵高铁站艺人真不知情吗",
+      "onboard_time": 1757345005,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174437,
       "num": 194596,
       "word": "献鱼女二发长文感谢批评",
       "onboard_time": 1757323282,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174392,
+      "num": 174392,
+      "word": "巴基斯坦最新空军宣传片",
+      "onboard_time": 1757344765,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173610,
@@ -2027,14 +2059,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145284,
-      "num": 145284,
-      "word": "粉丝围堵高铁站艺人真不知情吗",
-      "onboard_time": 1757345005,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144985,
       "num": 150335,
       "word": "又吃到杨洋的古装细糠了",
@@ -2395,6 +2419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130100,
+      "num": 130100,
+      "word": "三四公里路程救护车开了30多分钟",
+      "onboard_time": 1757344403,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130007,
       "num": 326671,
       "word": "狗守离世主人瘦成皮包骨现已被收养",
@@ -2411,14 +2443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129464,
-      "num": 129464,
-      "word": "三四公里路程救护车开了30多分钟",
-      "onboard_time": 1757344403,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129325,
       "num": 162731,
       "word": "店家回应肖战同款焖猪蹄爆单断供",
@@ -2432,14 +2456,6 @@
       "word": "被中方反制的石平是谁",
       "onboard_time": 1757307625,
       "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 129064,
-      "num": 129064,
-      "word": "巴基斯坦最新空军宣传片",
-      "onboard_time": 1757344765,
-      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -3091,6 +3107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101600,
+      "num": 101600,
+      "word": "TEC老板发博",
+      "onboard_time": 1757343563,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101355,
       "num": 101355,
       "word": "北京可见彩云伴红月",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1757304986,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80660,
+      "num": 258494,
+      "word": "月全食后还有流星雨",
+      "onboard_time": 1757345485,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78864,
@@ -3761,6 +3793,14 @@
       "onboard_time": 1757336122,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47586,
+      "num": 115113,
+      "word": "余依婷最后一棒逆转",
+      "onboard_time": 1757345425,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 47244,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/08 23:26:29
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/08 23:41:40
 </p>
 </blockquote>
 <p>
@@ -825,6 +825,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%8E%8B%E8%85%BE%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+小米王腾因泄密被辞退（热度：10222055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E5%8D%8E%E9%80%9D%E4%B8%96%23" target="weibo">
 黄旭华逝世（热度：10208509）
 </a>
@@ -1307,12 +1313,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%81%E5%AE%9E%E5%A4%A7S%E5%8E%BB%E4%B8%96%23" target="weibo">
 小S经纪人证实大S去世（热度：7252313）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%8E%8B%E8%85%BE%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
-小米王腾因泄密被辞退（热度：7207857）
 </a>
 </li>
 
