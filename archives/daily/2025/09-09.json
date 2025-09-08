@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757373810777,
+  "endTime": 1757374638168,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -17,6 +17,14 @@
       "onboard_time": 1757345005,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1833481,
+      "num": 1833481,
+      "word": "小米 王腾",
+      "onboard_time": 1757373560,
+      "rank": 4,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 1802410,
@@ -43,7 +51,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 606995,
+      "raw_hot": 615747,
       "num": 606995,
       "word": "马龙坐在了倪妮井柏然中间",
       "onboard_time": 1757342723,
@@ -51,7 +59,7 @@
       "category": "作品衍生,体育"
     },
     {
-      "raw_hot": 511394,
+      "raw_hot": 550645,
       "num": 172663,
       "word": "男子掏耳朵被2岁儿子撞致鼓膜脱落",
       "onboard_time": 1757372599,
@@ -107,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364221,
-      "num": 364221,
-      "word": "小米 王腾",
-      "onboard_time": 1757373560,
-      "rank": 4,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 363838,
       "num": 363838,
       "word": "男子胃癌晚期发现10岁女儿非亲生",
@@ -129,6 +129,14 @@
       "onboard_time": 1757337682,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 314551,
+      "num": 314551,
+      "word": "王腾曾单独签署保密协议",
+      "onboard_time": 1757373080,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 250495,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218439,
+      "num": 218439,
+      "word": "LABUBU价崩黄牛压货倒赔",
+      "onboard_time": 1757373080,
+      "rank": 26,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 202352,
       "num": 202352,
       "word": "明星若踩法律红线下场不言而喻",
@@ -201,6 +217,14 @@
       "onboard_time": 1757317823,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196273,
+      "num": 133771,
+      "word": "某境外组织长期对华渗透",
+      "onboard_time": 1757373501,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195423,
@@ -243,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171697,
-      "num": 171697,
-      "word": "王腾曾单独签署保密协议",
-      "onboard_time": 1757373080,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161147,
       "num": 548916,
       "word": "女民兵为啥戴红色丝巾",
@@ -259,12 +275,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 154045,
-      "num": 154045,
-      "word": "LABUBU价崩黄牛压货倒赔",
-      "onboard_time": 1757373080,
-      "rank": 26,
-      "category": "休闲"
+      "raw_hot": 150834,
+      "num": 123042,
+      "word": "00后整顿职场结果被辞退了",
+      "onboard_time": 1757374459,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 139488,
@@ -355,12 +371,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 94490,
-      "num": 94490,
-      "word": "某境外组织长期对华渗透",
-      "onboard_time": 1757373501,
-      "rank": 31,
+      "raw_hot": 94633,
+      "num": 94633,
+      "word": "吉利星座05组卫星发射成功",
+      "onboard_time": 1757374220,
+      "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92343,
+      "num": 217476,
+      "word": "董璇谈张维伊大姑家规",
+      "onboard_time": 1757339123,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 85357,
@@ -377,14 +401,6 @@
       "onboard_time": 1757356575,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 79738,
-      "num": 217476,
-      "word": "董璇谈张维伊大姑家规",
-      "onboard_time": 1757339123,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 77454,
@@ -427,12 +443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69007,
+      "num": 117370,
+      "word": "连风都偏爱周冬雨",
+      "onboard_time": 1757374039,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67241,
       "num": 217749,
       "word": "iPhone16价格不降反升",
       "onboard_time": 1757329403,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 66788,
+      "num": 66788,
+      "word": "硫酸生产线发生事故5死1伤",
+      "onboard_time": 1757373560,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63838,
@@ -483,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 56338,
-      "num": 56338,
-      "word": "硫酸生产线发生事故5死1伤",
-      "onboard_time": 1757373560,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56180,
       "num": 215560,
       "word": "黄金",
@@ -531,6 +555,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52030,
+      "num": 52030,
+      "word": "老外震惊国内送外卖放路边",
+      "onboard_time": 1757374521,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51847,
+      "num": 51847,
+      "word": "数码闲聊站 与我无关",
+      "onboard_time": 1757374521,
+      "rank": 44,
+      "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 47362,
+      "num": 47362,
+      "word": "马龙嘴瓢",
+      "onboard_time": 1757374339,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46631,
       "num": 184003,
       "word": "杨洋带你领略江湖传奇",
@@ -545,6 +593,14 @@
       "onboard_time": 1757325922,
       "rank": 47,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 46186,
+      "num": 47358,
+      "word": "开国大典前毛主席曾在天坛前留影",
+      "onboard_time": 1757374580,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44855,
