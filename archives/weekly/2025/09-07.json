@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757317125782,
+  "endTime": 1757320548499,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -63,6 +63,14 @@
       "num": 404390,
       "word": "许嵩 冯禧",
       "onboard_time": 1757221283,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1660642,
+      "num": 334364,
+      "word": "钟楚曦删了与侯雯元官宣博",
+      "onboard_time": 1757317823,
       "rank": 10,
       "category": "艺人"
     },
@@ -305,6 +313,14 @@
       "onboard_time": 1757211801,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 829438,
+      "num": 1132710,
+      "word": "山姆店回应顾客自带桶续杯饮料",
+      "onboard_time": 1757315422,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 815970,
@@ -603,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 481381,
+      "num": 481381,
+      "word": "网友拍的血月太抽象了",
+      "onboard_time": 1757315422,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478146,
       "num": 399697,
       "word": "王牌对王牌回应彭昱畅送急诊",
@@ -811,6 +835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 391031,
+      "num": 391031,
+      "word": "花2元买彩票中了1000万",
+      "onboard_time": 1757318722,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388448,
       "num": 388448,
       "word": "班主任严肃制止学生传播网络烂梗",
@@ -864,6 +896,14 @@
       "word": "这3种二维码不能扫",
       "onboard_time": 1757209163,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375907,
+      "num": 375907,
+      "word": "女子点绿茶餐厅外卖被贴装货",
+      "onboard_time": 1757318722,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -921,6 +961,14 @@
       "onboard_time": 1757305165,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 363969,
+      "num": 363969,
+      "word": "每天午睡vs从不午睡",
+      "onboard_time": 1757317701,
+      "rank": 7,
+      "category": "科学科普"
     },
     {
       "raw_hot": 363025,
@@ -1395,6 +1443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229825,
+      "num": 229825,
+      "word": "官方通报演员刘轩丞被大量私生围堵",
+      "onboard_time": 1757317882,
+      "rank": 16,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 229566,
       "num": 230924,
       "word": "血月能看吗",
@@ -1491,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215474,
+      "num": 334433,
+      "word": "育儿补贴申领全面开放了",
+      "onboard_time": 1757319862,
+      "rank": 9,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 214822,
       "num": 214822,
       "word": "刘耀文衣服又穿反了",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1757255304,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 208347,
+      "num": 208347,
+      "word": "58个中国工程被印在121枚世界货币上",
+      "onboard_time": 1757317103,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 206395,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1757313984,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201636,
+      "num": 201636,
+      "word": "贾樟柯 退休了",
+      "onboard_time": 1757319383,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 201026,
@@ -1851,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191519,
+      "num": 191519,
+      "word": "中国唱将",
+      "onboard_time": 1757319563,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191252,
       "num": 643130,
       "word": "阅兵后劲真的太大了",
@@ -1889,14 +1977,6 @@
       "onboard_time": 1757309365,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189765,
-      "num": 189765,
-      "word": "网友拍的血月太抽象了",
-      "onboard_time": 1757315422,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189655,
@@ -1952,14 +2032,6 @@
       "word": "女子地铁拒安检多次追打工作人员",
       "onboard_time": 1757259205,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186201,
-      "num": 288601,
-      "word": "山姆店回应顾客自带桶续杯饮料",
-      "onboard_time": 1757315422,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2024,6 +2096,14 @@
       "word": "刘轩丞表情管理课没白上",
       "onboard_time": 1757249303,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181068,
+      "num": 181068,
+      "word": "狼王惠英红 养女文淇刘浩存周也",
+      "onboard_time": 1757320041,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -2283,12 +2363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168072,
+      "num": 168072,
+      "word": "管乐一直逼父母给自己找相亲",
+      "onboard_time": 1757317221,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167971,
       "num": 167971,
       "word": "WTT澳门冠军赛男单完整签表",
       "onboard_time": 1757229443,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166532,
+      "num": 166532,
+      "word": "陈都灵不浪费每一次妆造",
+      "onboard_time": 1757320103,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 164504,
@@ -2385,6 +2481,14 @@
       "onboard_time": 1757219061,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160254,
+      "num": 160254,
+      "word": "3岁以下婴幼儿每年补贴3600元",
+      "onboard_time": 1757320163,
+      "rank": 29,
+      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 160188,
@@ -2585,14 +2689,6 @@
       "onboard_time": 1757172924,
       "rank": 20,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 152283,
-      "num": 152283,
-      "word": "58个中国工程被印在121枚世界货币上",
-      "onboard_time": 1757317103,
-      "rank": 28,
-      "category": "正能量"
     },
     {
       "raw_hot": 151913,
@@ -2963,6 +3059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138408,
+      "num": 138408,
+      "word": "待播电视剧个个能打",
+      "onboard_time": 1757317823,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138334,
       "num": 138334,
       "word": "脂肪最最害怕的食物我也害怕",
@@ -3073,6 +3177,14 @@
       "onboard_time": 1757211862,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136512,
+      "num": 136512,
+      "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+      "onboard_time": 1757319203,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 135902,
@@ -3272,6 +3384,14 @@
       "word": "洪秀柱现身国家大剧院看京剧",
       "onboard_time": 1757169144,
       "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 128422,
+      "num": 128422,
+      "word": "外交部回应反制日本参议员",
+      "onboard_time": 1757317341,
+      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -3507,6 +3627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123296,
+      "num": 123296,
+      "word": "确诊厌6症",
+      "onboard_time": 1757319203,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123131,
       "num": 112087,
       "word": "李昀锐 我那ys白月光",
@@ -3561,6 +3689,14 @@
       "onboard_time": 1757211141,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120715,
+      "num": 120715,
+      "word": "辛芷蕾9年131分钟891个字",
+      "onboard_time": 1757318543,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 120709,
@@ -3667,6 +3803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118013,
+      "num": 118013,
+      "word": "这是我的西游2原班人马回归",
+      "onboard_time": 1757318543,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117858,
       "num": 117858,
       "word": "仙逆",
@@ -3697,6 +3841,14 @@
       "onboard_time": 1757222482,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116934,
+      "num": 116934,
+      "word": "14年前步步惊心周边长啥样",
+      "onboard_time": 1757317584,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116750,
@@ -3811,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114122,
+      "num": 114122,
+      "word": "巴西举行国庆日阅兵",
+      "onboard_time": 1757318063,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114012,
       "num": 114012,
       "word": "孙颖莎首轮对阵赫尔希",
@@ -3884,7 +4044,7 @@
     },
     {
       "raw_hot": 111803,
-      "num": 157377,
+      "num": 215519,
       "word": "海豹06GT赛道开燥实力炸场",
       "onboard_time": 1757316802,
       "rank": 25,
@@ -4059,6 +4219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107960,
+      "num": 107960,
+      "word": "阅兵战旗抚在脸上眼泪止不住",
+      "onboard_time": 1757317163,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107777,
       "num": 172334,
       "word": "四川抢小孩女子疑似精神病发作",
@@ -4067,12 +4235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107473,
+      "num": 107473,
+      "word": "把电脑放在中国商场30分钟",
+      "onboard_time": 1757318844,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107054,
       "num": 198626,
       "word": "风吹稻田我们又想念您了",
       "onboard_time": 1757213242,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106954,
+      "num": 106954,
+      "word": "胡先煦 我有一点点无语",
+      "onboard_time": 1757320523,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 106602,
@@ -4699,6 +4883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86571,
+      "num": 118349,
+      "word": "陈数 也请允许我做我自己",
+      "onboard_time": 1757319682,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84962,
       "num": 84962,
       "word": "龚俊第一视角看鲸鱼",
@@ -5307,6 +5499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47244,
+      "num": 214697,
+      "word": "千玺还有多少惊喜是我们不知道的",
+      "onboard_time": 1757319082,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46189,
       "num": 151445,
       "word": "小蛇钻入家中黄鼠狼紧随将其叼出",
@@ -5545,6 +5745,14 @@
       "onboard_time": 1757173284,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25060,
+      "num": 119132,
+      "word": "王玉雯又在指挥交通了",
+      "onboard_time": 1757320341,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 24243,

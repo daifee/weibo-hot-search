@@ -1,0 +1,410 @@
+{
+  "runTime": 1757320548499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 829438,
+        "num": 1132710,
+        "word": "山姆店回应顾客自带桶续杯饮料",
+        "onboard_time": 1757315422,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518202,
+        "num": 518202,
+        "word": "你以为在休息其实最耗气血",
+        "onboard_time": 1757309482,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44743,
+        "num": 484430,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757294781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 481381,
+        "num": 481381,
+        "word": "网友拍的血月太抽象了",
+        "onboard_time": 1757315422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391031,
+        "num": 391031,
+        "word": "花2元买彩票中了1000万",
+        "onboard_time": 1757318722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1323316,
+        "num": 386210,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375907,
+        "num": 375907,
+        "word": "女子点绿茶餐厅外卖被贴装货",
+        "onboard_time": 1757318722,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363969,
+        "num": 363969,
+        "word": "每天午睡vs从不午睡",
+        "onboard_time": 1757317701,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 338799,
+        "num": 338799,
+        "word": "秦岚祝福辛芷蕾获影后",
+        "onboard_time": 1757314342,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215474,
+        "num": 334433,
+        "word": "育儿补贴申领全面开放了",
+        "onboard_time": 1757319862,
+        "rank": 9,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 1660642,
+        "num": 334364,
+        "word": "钟楚曦删了与侯雯元官宣博",
+        "onboard_time": 1757317823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1188652,
+        "num": 334361,
+        "word": "警方回应许凯被曝长期聚众赌博",
+        "onboard_time": 1757304144,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 333617,
+        "num": 333617,
+        "word": "俄罗斯阅兵抓日本战俘游街",
+        "onboard_time": 1757308524,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266433,
+        "num": 266433,
+        "word": "iPhone17或有隐藏款",
+        "onboard_time": 1757311405,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263297,
+        "num": 263297,
+        "word": "雨霖铃",
+        "onboard_time": 1757312183,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253918,
+        "num": 253918,
+        "word": "张曼乐 马思纯",
+        "onboard_time": 1757314403,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229825,
+        "num": 229825,
+        "word": "官方通报演员刘轩丞被大量私生围堵",
+        "onboard_time": 1757317882,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 226602,
+        "num": 226602,
+        "word": "对日本参议员石平采取反制措施",
+        "onboard_time": 1757299283,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44330,
+        "num": 215519,
+        "word": "海豹06GT赛道开燥实力炸场",
+        "onboard_time": 1757316802,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47244,
+        "num": 214697,
+        "word": "千玺还有多少惊喜是我们不知道的",
+        "onboard_time": 1757319082,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214248,
+        "num": 214248,
+        "word": "吃完外卖最好把汤倒了再扔",
+        "onboard_time": 1757305165,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208347,
+        "num": 208347,
+        "word": "58个中国工程被印在121枚世界货币上",
+        "onboard_time": 1757317103,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 201636,
+        "num": 201636,
+        "word": "贾樟柯 退休了",
+        "onboard_time": 1757319383,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191519,
+        "num": 191519,
+        "word": "中国唱将",
+        "onboard_time": 1757319563,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181068,
+        "num": 181068,
+        "word": "狼王惠英红 养女文淇刘浩存周也",
+        "onboard_time": 1757320041,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179114,
+        "num": 179114,
+        "word": "许荔莎与于正缘分契合度86",
+        "onboard_time": 1757304386,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168072,
+        "num": 168072,
+        "word": "管乐一直逼父母给自己找相亲",
+        "onboard_time": 1757317221,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166532,
+        "num": 166532,
+        "word": "陈都灵不浪费每一次妆造",
+        "onboard_time": 1757320103,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166489,
+        "num": 166489,
+        "word": "新生体面入学只需一个老爸",
+        "onboard_time": 1757312123,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160254,
+        "num": 160254,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1757320163,
+        "rank": 29,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 154092,
+        "num": 154092,
+        "word": "女子检测出350个兄弟姐妹",
+        "onboard_time": 1757315963,
+        "rank": 30,
+        "category": "民生新闻,海外新闻"
+      },
+      {
+        "raw_hot": 147980,
+        "num": 147980,
+        "word": "他亲手解剖14人却因一封信崩溃",
+        "onboard_time": 1757309784,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139891,
+        "num": 139891,
+        "word": "离婚冷静期婆婆去世女子要求分遗产",
+        "onboard_time": 1757309603,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138408,
+        "num": 138408,
+        "word": "待播电视剧个个能打",
+        "onboard_time": 1757317823,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136512,
+        "num": 136512,
+        "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+        "onboard_time": 1757319203,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128422,
+        "num": 128422,
+        "word": "外交部回应反制日本参议员",
+        "onboard_time": 1757317341,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123296,
+        "num": 123296,
+        "word": "确诊厌6症",
+        "onboard_time": 1757319203,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120715,
+        "num": 120715,
+        "word": "辛芷蕾9年131分钟891个字",
+        "onboard_time": 1757318543,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25060,
+        "num": 119132,
+        "word": "王玉雯又在指挥交通了",
+        "onboard_time": 1757320341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86571,
+        "num": 118349,
+        "word": "陈数 也请允许我做我自己",
+        "onboard_time": 1757319682,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118013,
+        "num": 118013,
+        "word": "这是我的西游2原班人马回归",
+        "onboard_time": 1757318543,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116934,
+        "num": 116934,
+        "word": "14年前步步惊心周边长啥样",
+        "onboard_time": 1757317584,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114171,
+        "num": 114171,
+        "word": "田曦薇新剧嫁金钗人设",
+        "onboard_time": 1757315843,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114122,
+        "num": 114122,
+        "word": "巴西举行国庆日阅兵",
+        "onboard_time": 1757318063,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111424,
+        "num": 111424,
+        "word": "看了付航证件照还以为他要换赛道",
+        "onboard_time": 1757310863,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111406,
+        "num": 111406,
+        "word": "Metal 田栩宁",
+        "onboard_time": 1757300783,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109491,
+        "num": 109491,
+        "word": "火车票报销纸质凭证将成历史",
+        "onboard_time": 1757314102,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107960,
+        "num": 107960,
+        "word": "阅兵战旗抚在脸上眼泪止不住",
+        "onboard_time": 1757317163,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107473,
+        "num": 107473,
+        "word": "把电脑放在中国商场30分钟",
+        "onboard_time": 1757318844,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106954,
+        "num": 106954,
+        "word": "胡先煦 我有一点点无语",
+        "onboard_time": 1757320523,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持走和平发展道路#"
+    }
+  }
+}
