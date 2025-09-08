@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/09 00:30:32 ~ 2025/09/09 03:36:47
+本榜单时间：2025/09/09 00:30:32 ~ 2025/09/09 04:28:18
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ iPhone16价格不降反升（热度：67241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E6%B2%A1%E5%A4%9A%E4%B9%85%E7%A1%AE%E8%AF%8A%E9%9B%B7%E7%89%B9%E7%BB%BC%E5%90%88%E5%BE%81%23" target="weibo">
+出生没多久确诊雷特综合征（热度：18292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%AD%BC10%E6%8B%89%E5%BD%A9%E7%83%9F%23" target="weibo">
 为什么九三阅兵歼10拉彩烟（热度：18096）
 </a>
@@ -393,8 +399,14 @@ iPhone16价格不降反升（热度：67241）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E6%B2%A1%E5%A4%9A%E4%B9%85%E7%A1%AE%E8%AF%8A%E9%9B%B7%E7%89%B9%E7%BB%BC%E5%90%88%E5%BE%81%23" target="weibo">
-出生没多久确诊雷特综合征（热度：12730）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E9%87%8F%E4%BA%A71%E4%BA%BF%E9%83%A8iPhone17%23" target="weibo">
+曝苹果将量产1亿部iPhone17（热度：12795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%88%98%E6%98%8A%E7%84%B6%E5%90%88%E5%94%B1%E6%98%8E%E5%A4%A9%E4%BC%9A%E6%9B%B4%E5%A5%BD%23" target="weibo">
+雷佳音刘昊然合唱明天会更好（热度：12618）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757360207308,
+  "endTime": 1757363298553,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -24875,6 +24875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18292,
+      "num": 20454,
+      "word": "出生没多久确诊雷特综合征",
+      "onboard_time": 1757359995,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17938,
       "num": 34765,
       "word": "张艺兴闹天宫我们鸟巢见",
@@ -25107,6 +25115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12795,
+      "num": 17248,
+      "word": "曝苹果将量产1亿部iPhone17",
+      "onboard_time": 1757362273,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 12790,
       "num": 128983,
       "word": "去摘星星的妈妈",
@@ -25123,12 +25139,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12730,
-      "num": 20454,
-      "word": "出生没多久确诊雷特综合征",
-      "onboard_time": 1757359995,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 12618,
+      "num": 17246,
+      "word": "雷佳音刘昊然合唱明天会更好",
+      "onboard_time": 1757354116,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 12410,

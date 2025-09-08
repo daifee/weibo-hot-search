@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757360207308,
+  "endTime": 1757363298553,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -491,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18292,
+      "num": 20454,
+      "word": "出生没多久确诊雷特综合征",
+      "onboard_time": 1757359995,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18096,
       "num": 34663,
       "word": "为什么九三阅兵歼10拉彩烟",
@@ -507,12 +515,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12730,
-      "num": 20454,
-      "word": "出生没多久确诊雷特综合征",
-      "onboard_time": 1757359995,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 12795,
+      "num": 17248,
+      "word": "曝苹果将量产1亿部iPhone17",
+      "onboard_time": 1757362273,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 12618,
+      "num": 17246,
+      "word": "雷佳音刘昊然合唱明天会更好",
+      "onboard_time": 1757354116,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 12486,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/07 00:27:00 ~ 2025/09/09 03:36:47
+本榜单时间：2025/09/07 00:27:00 ~ 2025/09/09 04:28:18
 </p>
 </blockquote>
 <p>
@@ -5547,6 +5547,12 @@ cardib说赛琳娜是真甜妹（热度：22540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E6%B2%A1%E5%A4%9A%E4%B9%85%E7%A1%AE%E8%AF%8A%E9%9B%B7%E7%89%B9%E7%BB%BC%E5%90%88%E5%BE%81%23" target="weibo">
+出生没多久确诊雷特综合征（热度：18292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%97%B9%E5%A4%A9%E5%AE%AB%E6%88%91%E4%BB%AC%E9%B8%9F%E5%B7%A2%E8%A7%81%23" target="weibo">
 张艺兴闹天宫我们鸟巢见（热度：17938）
 </a>
@@ -5577,8 +5583,14 @@ cardib说赛琳娜是真甜妹（热度：22540）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E6%B2%A1%E5%A4%9A%E4%B9%85%E7%A1%AE%E8%AF%8A%E9%9B%B7%E7%89%B9%E7%BB%BC%E5%90%88%E5%BE%81%23" target="weibo">
-出生没多久确诊雷特综合征（热度：12730）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E9%87%8F%E4%BA%A71%E4%BA%BF%E9%83%A8iPhone17%23" target="weibo">
+曝苹果将量产1亿部iPhone17（热度：12795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%88%98%E6%98%8A%E7%84%B6%E5%90%88%E5%94%B1%E6%98%8E%E5%A4%A9%E4%BC%9A%E6%9B%B4%E5%A5%BD%23" target="weibo">
+雷佳音刘昊然合唱明天会更好（热度：12618）
 </a>
 </li>
 
