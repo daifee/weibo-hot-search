@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757313516533,
+  "endTime": 1757314257408,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2542164,
-      "num": 515884,
+      "num": 616147,
       "word": "警方回应许凯被曝长期聚众赌博",
       "onboard_time": 1757304144,
       "rank": 6,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1443662,
-      "num": 535884,
+      "num": 607447,
       "word": "疑似白敬亭宋轶分手了",
       "onboard_time": 1757298322,
       "rank": 3,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 978450,
-      "num": 294476,
+      "num": 305988,
       "word": "离婚冷静期婆婆去世女子要求分遗产",
       "onboard_time": 1757309603,
       "rank": 3,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770499,
+      "num": 662786,
+      "word": "俄罗斯阅兵抓日本战俘游街",
+      "onboard_time": 1757308524,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 763418,
       "num": 763418,
       "word": "没人通知金晨这是红毯吗",
@@ -129,14 +137,6 @@
       "onboard_time": 1757296582,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 662786,
-      "num": 662786,
-      "word": "俄罗斯阅兵抓日本战俘游街",
-      "onboard_time": 1757308524,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 658666,
@@ -155,8 +155,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 587138,
-      "num": 587138,
+      "raw_hot": 644470,
+      "num": 644470,
       "word": "你以为在休息其实最耗气血",
       "onboard_time": 1757309482,
       "rank": 31,
@@ -169,6 +169,14 @@
       "onboard_time": 1757286979,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 537935,
+      "num": 294623,
+      "word": "点读笔诱导儿童网恋",
+      "onboard_time": 1757311166,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 527274,
@@ -259,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392790,
-      "num": 217441,
-      "word": "点读笔诱导儿童网恋",
-      "onboard_time": 1757311166,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388448,
       "num": 388448,
       "word": "班主任严肃制止学生传播网络烂梗",
@@ -305,6 +305,14 @@
       "onboard_time": 1757305165,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 360865,
+      "num": 360865,
+      "word": "看了付航证件照还以为他要换赛道",
+      "onboard_time": 1757310863,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 356117,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 312101,
-      "num": 538872,
+      "num": 622294,
       "word": "对日本参议员石平采取反制措施",
       "onboard_time": 1757299283,
       "rank": 8,
@@ -441,14 +449,6 @@
       "onboard_time": 1757257344,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 292375,
-      "num": 220350,
-      "word": "看了付航证件照还以为他要换赛道",
-      "onboard_time": 1757310863,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 284388,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249624,
+      "num": 249624,
+      "word": "雨霖铃",
+      "onboard_time": 1757312183,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245226,
       "num": 245226,
       "word": "美国或需退还半数已征关税",
@@ -547,20 +555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226046,
+      "num": 206153,
+      "word": "iPhone17或有隐藏款",
+      "onboard_time": 1757311405,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 225952,
       "num": 225952,
       "word": "娱乐圈终于开始拍查税剧了",
       "onboard_time": 1757301381,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223777,
-      "num": 190356,
-      "word": "iPhone17或有隐藏款",
-      "onboard_time": 1757311405,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 222360,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 209119,
-      "num": 188844,
+      "num": 204219,
       "word": "王星越这回女主没对象不用抢",
       "onboard_time": 1757312483,
       "rank": 21,
@@ -681,6 +689,14 @@
       "onboard_time": 1757259563,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202910,
+      "num": 202910,
+      "word": "朱志鑫想去国外上学",
+      "onboard_time": 1757313984,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 201026,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 191252,
-      "num": 620205,
+      "num": 643130,
       "word": "阅兵后劲真的太大了",
       "onboard_time": 1757294781,
       "rank": 31,
@@ -827,6 +843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190097,
+      "num": 190097,
+      "word": "刘亦菲素颜与朋友聚餐",
+      "onboard_time": 1757309365,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189846,
+      "num": 633993,
+      "word": "他亲手解剖14人却因一封信崩溃",
+      "onboard_time": 1757309784,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189655,
       "num": 189655,
       "word": "优酷上新30档综艺",
@@ -841,14 +873,6 @@
       "onboard_time": 1757259205,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183252,
-      "num": 183252,
-      "word": "刘亦菲素颜与朋友聚餐",
-      "onboard_time": 1757309365,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 182274,
@@ -907,14 +931,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173865,
-      "num": 173865,
-      "word": "雨霖铃",
-      "onboard_time": 1757312183,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173610,
       "num": 173610,
       "word": "朱一龙提名金熊猫影帝",
@@ -947,20 +963,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169858,
-      "num": 199674,
-      "word": "他亲手解剖14人却因一封信崩溃",
-      "onboard_time": 1757309784,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169804,
       "num": 169804,
       "word": "金价",
       "onboard_time": 1757303183,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163609,
+      "num": 163609,
+      "word": "肖战少爷简直是魅魔",
+      "onboard_time": 1757313083,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 161928,
@@ -1052,7 +1068,7 @@
     },
     {
       "raw_hot": 151892,
-      "num": 151892,
+      "num": 160399,
       "word": "泡泡玛特跌超7%",
       "onboard_time": 1757313381,
       "rank": 32,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 151792,
-      "num": 175180,
+      "num": 206590,
       "word": "部分车主宁可违停也不停机械车位",
       "onboard_time": 1757312183,
       "rank": 25,
@@ -1155,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143707,
-      "num": 143707,
-      "word": "肖战少爷简直是魅魔",
-      "onboard_time": 1757313083,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143418,
       "num": 143418,
       "word": "剑网3",
@@ -1179,19 +1187,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141037,
+      "num": 141037,
+      "word": "新生体面入学只需一个老爸",
+      "onboard_time": 1757312123,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140368,
       "num": 140368,
       "word": "宝宝撞见爸妈偷偷吃宵夜",
       "onboard_time": 1757285537,
       "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 140191,
-      "num": 140191,
-      "word": "新生体面入学只需一个老爸",
-      "onboard_time": 1757312123,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -1225,6 +1233,14 @@
       "onboard_time": 1757299644,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136737,
+      "num": 219486,
+      "word": "詹姆斯说打好篮球有3个关键因素",
+      "onboard_time": 1757312902,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 135148,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1757313023,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129484,
+      "num": 129484,
+      "word": "柯淳爬到2米高的草垛上搞抽象",
+      "onboard_time": 1757313441,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 129291,
@@ -1339,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123764,
+      "num": 159732,
+      "word": "谁家男主这么苟里苟气",
+      "onboard_time": 1757313802,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123688,
       "num": 123688,
       "word": "李兰迪说经纪人嘴角很难压",
@@ -1387,14 +1419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 120123,
-      "num": 120123,
-      "word": "柯淳爬到2米高的草垛上搞抽象",
-      "onboard_time": 1757313441,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120023,
       "num": 120023,
       "word": "安卓手机用户截图belike",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1757308823,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116750,
+      "num": 116750,
+      "word": "英国男子8年挥霍完上亿彩票",
+      "onboard_time": 1757313743,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115222,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1757304265,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102528,
+      "num": 102528,
+      "word": "剑网3扶云阙",
+      "onboard_time": 1757314222,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 102004,
@@ -1611,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92651,
+      "num": 116741,
+      "word": "火车票报销纸质凭证将成历史",
+      "onboard_time": 1757314102,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90816,
       "num": 540533,
       "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1757263039,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 84695,
-      "num": 219486,
-      "word": "詹姆斯说打好篮球有3个关键因素",
-      "onboard_time": 1757312902,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 84532,
@@ -1899,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 54342,
+      "num": 116750,
+      "word": "导播就AG夺冠大屏出错道歉",
+      "onboard_time": 1757314163,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53769,
       "num": 53769,
       "word": "张维伊求生欲",
@@ -2051,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28576,
+      "num": 139399,
+      "word": "袁弘张歆艺把日常搬进荧幕",
+      "onboard_time": 1757313323,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27631,
       "num": 28899,
       "word": "本次月全食全程肉眼可见",
@@ -2105,14 +2161,6 @@
       "onboard_time": 1757282895,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21806,
-      "num": 139399,
-      "word": "袁弘张歆艺把日常搬进荧幕",
-      "onboard_time": 1757313323,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 21592,
