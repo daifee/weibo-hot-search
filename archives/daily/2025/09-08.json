@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757321331966,
+  "endTime": 1757323798504,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -51,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1536618,
+      "num": 603483,
+      "word": "曝辛芷蕾团队工资",
+      "onboard_time": 1757321483,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1443662,
       "num": 607447,
       "word": "疑似白敬亭宋轶分手了",
       "onboard_time": 1757298322,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1260272,
+      "num": 1260272,
+      "word": "女子点绿茶餐厅外卖被贴装货",
+      "onboard_time": 1757318722,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1166160,
@@ -88,6 +104,14 @@
       "word": "Metal 田栩宁",
       "onboard_time": 1757300783,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1033188,
+      "num": 315866,
+      "word": "许荔莎曝许凯吐槽粉丝",
+      "onboard_time": 1757323642,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -155,14 +179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 743096,
-      "num": 743096,
-      "word": "女子点绿茶餐厅外卖被贴装货",
-      "onboard_time": 1757318722,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 728415,
       "num": 728415,
       "word": "你以为在休息其实最耗气血",
@@ -195,12 +211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 624966,
+      "num": 624966,
+      "word": "花2元买彩票中了1000万",
+      "onboard_time": 1757318722,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610061,
       "num": 269862,
       "word": "张曼乐 马思纯",
       "onboard_time": 1757314403,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601993,
+      "num": 601993,
+      "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+      "onboard_time": 1757319203,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 587116,
@@ -219,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 546509,
-      "num": 546509,
-      "word": "花2元买彩票中了1000万",
-      "onboard_time": 1757318722,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 564714,
+      "num": 564714,
+      "word": "每天午睡vs从不午睡",
+      "onboard_time": 1757317701,
+      "rank": 7,
+      "category": "科学科普"
     },
     {
       "raw_hot": 540816,
@@ -233,14 +265,6 @@
       "onboard_time": 1757315422,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 537324,
-      "num": 537324,
-      "word": "每天午睡vs从不午睡",
-      "onboard_time": 1757317701,
-      "rank": 7,
-      "category": "科学科普"
     },
     {
       "raw_hot": 527274,
@@ -443,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 334453,
+      "num": 334453,
+      "word": "中方反制是对石平之流的惩戒警示",
+      "onboard_time": 1757321903,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 333389,
       "num": 192757,
       "word": "许嵩 冯禧",
@@ -499,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315122,
+      "num": 334433,
+      "word": "育儿补贴申领全面开放了",
+      "onboard_time": 1757319862,
+      "rank": 9,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 312101,
       "num": 622294,
       "word": "对日本参议员石平采取反制措施",
@@ -521,14 +561,6 @@
       "onboard_time": 1757293222,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308966,
-      "num": 334433,
-      "word": "育儿补贴申领全面开放了",
-      "onboard_time": 1757319862,
-      "rank": 9,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 297927,
@@ -569,14 +601,6 @@
       "onboard_time": 1757300844,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 277753,
-      "num": 277753,
-      "word": "淘宝闪购购买记录 衣柜里翻鸡排",
-      "onboard_time": 1757319203,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 272249,
@@ -747,6 +771,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 206767,
+      "num": 206767,
+      "word": "陈都灵不浪费每一次妆造",
+      "onboard_time": 1757320103,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206395,
       "num": 206395,
       "word": "台风",
@@ -851,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200374,
+      "num": 149962,
+      "word": "柬埔寨成白人寻欢天堂",
+      "onboard_time": 1757321664,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 198681,
       "num": 198681,
       "word": "迪丽热巴虽然不能同时拥有一切开机",
@@ -881,6 +921,14 @@
       "onboard_time": 1757320163,
       "rank": 29,
       "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 195595,
+      "num": 195595,
+      "word": "胡先煦 我有一点点无语",
+      "onboard_time": 1757320523,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 195546,
@@ -931,14 +979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193006,
-      "num": 193006,
-      "word": "胡先煦 我有一点点无语",
-      "onboard_time": 1757320523,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192674,
       "num": 192674,
       "word": "谍报上不封顶凭栏独望海报",
@@ -969,14 +1009,6 @@
       "onboard_time": 1757319563,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191288,
-      "num": 191288,
-      "word": "陈都灵不浪费每一次妆造",
-      "onboard_time": 1757320103,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 191252,
@@ -1027,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189041,
+      "num": 189041,
+      "word": "奶茶 全世界最聪明的男人",
+      "onboard_time": 1757322023,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186730,
       "num": 186730,
       "word": "女子地铁拒安检多次追打工作人员",
@@ -1043,12 +1083,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185150,
+      "num": 185150,
+      "word": "邓超正经起来裹块布都帅",
+      "onboard_time": 1757322923,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 182863,
+      "num": 182863,
+      "word": "确诊厌6症",
+      "onboard_time": 1757319203,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182274,
       "num": 182274,
       "word": "柬埔寨女骑士车祸身亡",
       "onboard_time": 1757303304,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182070,
+      "num": 192322,
+      "word": "钟楚曦 侯雯元",
+      "onboard_time": 1757322622,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 181850,
@@ -1208,6 +1272,14 @@
       "word": "深圳天气",
       "onboard_time": 1757247981,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159474,
+      "num": 159474,
+      "word": "绿茶回应顾客外卖换菜被骂装货",
+      "onboard_time": 1757321123,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1371,6 +1443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146443,
+      "num": 146443,
+      "word": "上海暴雨",
+      "onboard_time": 1757322743,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145777,
       "num": 145777,
       "word": "王楚钦目标不仅仅是守住半区",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1757287040,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145157,
+      "num": 183278,
+      "word": "栩栩华生红毯",
+      "onboard_time": 1757323464,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144799,
@@ -1449,6 +1537,22 @@
       "onboard_time": 1757317823,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140706,
+      "num": 140706,
+      "word": "70岁老人借厕猝死家属索赔21万",
+      "onboard_time": 1757322081,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140505,
+      "num": 140505,
+      "word": "iPhone17系列国行电池容量缩水",
+      "onboard_time": 1757321964,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 140387,
@@ -1521,14 +1625,6 @@
       "onboard_time": 1757302944,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134062,
-      "num": 134062,
-      "word": "确诊厌6症",
-      "onboard_time": 1757319203,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 132819,
@@ -1627,6 +1723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126346,
+      "num": 155236,
+      "word": "献鱼女二发长文感谢批评",
+      "onboard_time": 1757323282,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125763,
       "num": 125763,
       "word": "张晚意将忘本带到了花少",
@@ -1675,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123952,
+      "num": 123952,
+      "word": "顾客曝点知名餐厅外卖换菜被骂装货",
+      "onboard_time": 1757322563,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123764,
       "num": 159732,
       "word": "谁家男主这么苟里苟气",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1757317584,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122402,
+      "num": 122402,
+      "word": "内娱全员00后的综艺来了",
+      "onboard_time": 1757323583,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 121925,
@@ -1753,6 +1873,22 @@
       "onboard_time": 1757316623,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118876,
+      "num": 118876,
+      "word": "石平卖祖求荣只会自食恶果",
+      "onboard_time": 1757321242,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 118400,
+      "num": 118400,
+      "word": "多地违规向死亡人员发放养老金",
+      "onboard_time": 1757323164,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118013,
@@ -1883,12 +2019,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107729,
+      "num": 107729,
+      "word": "外交部评石平数典忘祖出卖良知",
+      "onboard_time": 1757322862,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107473,
       "num": 107473,
       "word": "把电脑放在中国商场30分钟",
       "onboard_time": 1757318844,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107054,
+      "num": 107054,
+      "word": "欧阳娜娜好像行走的洋娃娃",
+      "onboard_time": 1757323583,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106681,
+      "num": 106681,
+      "word": "实习工资 5个桃子",
+      "onboard_time": 1757322802,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 106602,
@@ -1907,6 +2067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106268,
+      "num": 106268,
+      "word": "会闲聊是稀缺能力",
+      "onboard_time": 1757323343,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106231,
       "num": 106231,
       "word": "白桃星座",
@@ -1923,20 +2091,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105595,
+      "num": 124752,
+      "word": "献鱼",
+      "onboard_time": 1757322023,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104858,
       "num": 104858,
       "word": "陈赫遇上王玉雯是真没招了",
       "onboard_time": 1757312063,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103361,
-      "num": 123044,
-      "word": "绿茶回应顾客外卖换菜被骂装货",
-      "onboard_time": 1757321123,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102865,
@@ -2044,7 +2212,7 @@
     },
     {
       "raw_hot": 96993,
-      "num": 96993,
+      "num": 603600,
       "word": "预包装食品数字标签来了",
       "onboard_time": 1757296822,
       "rank": 49,
@@ -2088,6 +2256,14 @@
       "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
       "onboard_time": 1757287579,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90054,
+      "num": 108551,
+      "word": "山东一村干部骂村民不缴费不是人",
+      "onboard_time": 1757322563,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2135,6 +2311,14 @@
       "num": 183019,
       "word": "出租房甲醛超标退租要扣4万8",
       "onboard_time": 1757302343,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84237,
+      "num": 153679,
+      "word": "婚纱摄影师为4万元拍军舰获刑14年",
+      "onboard_time": 1757322081,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -2233,6 +2417,14 @@
       "onboard_time": 1757259143,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72137,
+      "num": 326671,
+      "word": "狗守离世主人瘦成皮包骨现已被收养",
+      "onboard_time": 1757322081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72089,
@@ -2353,6 +2545,14 @@
       "onboard_time": 1757303365,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 61108,
+      "num": 190457,
+      "word": "你可以永远相信中国汽车",
+      "onboard_time": 1757321601,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 60379,

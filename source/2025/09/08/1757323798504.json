@@ -1,0 +1,410 @@
+{
+  "runTime": 1757323798504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260272,
+        "num": 1260272,
+        "word": "女子点绿茶餐厅外卖被贴装货",
+        "onboard_time": 1757318722,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624966,
+        "num": 624966,
+        "word": "花2元买彩票中了1000万",
+        "onboard_time": 1757318722,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28671,
+        "num": 603600,
+        "word": "预包装食品数字标签来了",
+        "onboard_time": 1757296822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1536618,
+        "num": 603483,
+        "word": "曝辛芷蕾团队工资",
+        "onboard_time": 1757321483,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601993,
+        "num": 601993,
+        "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+        "onboard_time": 1757319203,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 564714,
+        "num": 564714,
+        "word": "每天午睡vs从不午睡",
+        "onboard_time": 1757317701,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 438504,
+        "num": 438504,
+        "word": "山姆店回应顾客自带桶续杯饮料",
+        "onboard_time": 1757315422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334453,
+        "num": 334453,
+        "word": "中方反制是对石平之流的惩戒警示",
+        "onboard_time": 1757321903,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210653,
+        "num": 331315,
+        "word": "秦岚祝福辛芷蕾获影后",
+        "onboard_time": 1757314342,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72137,
+        "num": 326671,
+        "word": "狗守离世主人瘦成皮包骨现已被收养",
+        "onboard_time": 1757322081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1207000,
+        "num": 320170,
+        "word": "钟楚曦删了与侯雯元官宣博",
+        "onboard_time": 1757317823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033188,
+        "num": 315866,
+        "word": "许荔莎曝许凯吐槽粉丝",
+        "onboard_time": 1757323642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315122,
+        "num": 315122,
+        "word": "育儿补贴申领全面开放了",
+        "onboard_time": 1757319862,
+        "rank": 12,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 310289,
+        "num": 310289,
+        "word": "网友拍的血月太抽象了",
+        "onboard_time": 1757315422,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252504,
+        "num": 252504,
+        "word": "你以为在休息其实最耗气血",
+        "onboard_time": 1757309482,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229944,
+        "num": 229944,
+        "word": "俄罗斯阅兵抓日本战俘游街",
+        "onboard_time": 1757308524,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206767,
+        "num": 206767,
+        "word": "陈都灵不浪费每一次妆造",
+        "onboard_time": 1757320103,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195595,
+        "num": 195595,
+        "word": "胡先煦 我有一点点无语",
+        "onboard_time": 1757320523,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182070,
+        "num": 192322,
+        "word": "钟楚曦 侯雯元",
+        "onboard_time": 1757322622,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61108,
+        "num": 190457,
+        "word": "你可以永远相信中国汽车",
+        "onboard_time": 1757321601,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1027162,
+        "num": 190386,
+        "word": "警方回应许凯被曝长期聚众赌博",
+        "onboard_time": 1757304144,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 190170,
+        "num": 190170,
+        "word": "对日本参议员石平采取反制措施",
+        "onboard_time": 1757299283,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189041,
+        "num": 189041,
+        "word": "奶茶 全世界最聪明的男人",
+        "onboard_time": 1757322023,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185150,
+        "num": 185150,
+        "word": "邓超正经起来裹块布都帅",
+        "onboard_time": 1757322923,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145157,
+        "num": 183278,
+        "word": "栩栩华生红毯",
+        "onboard_time": 1757323464,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182863,
+        "num": 182863,
+        "word": "确诊厌6症",
+        "onboard_time": 1757319203,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159474,
+        "num": 159474,
+        "word": "绿茶回应顾客外卖换菜被骂装货",
+        "onboard_time": 1757321123,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156138,
+        "num": 156138,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1757320163,
+        "rank": 27,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 126346,
+        "num": 155236,
+        "word": "献鱼女二发长文感谢批评",
+        "onboard_time": 1757323282,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84237,
+        "num": 153679,
+        "word": "婚纱摄影师为4万元拍军舰获刑14年",
+        "onboard_time": 1757322081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200374,
+        "num": 149962,
+        "word": "柬埔寨成白人寻欢天堂",
+        "onboard_time": 1757321664,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120324,
+        "num": 148570,
+        "word": "狼王惠英红 养女文淇刘浩存周也",
+        "onboard_time": 1757320041,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147725,
+        "num": 147725,
+        "word": "离婚冷静期婆婆去世女子要求分遗产",
+        "onboard_time": 1757309603,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146443,
+        "num": 146443,
+        "word": "上海暴雨",
+        "onboard_time": 1757322743,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140706,
+        "num": 140706,
+        "word": "70岁老人借厕猝死家属索赔21万",
+        "onboard_time": 1757322081,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140505,
+        "num": 140505,
+        "word": "iPhone17系列国行电池容量缩水",
+        "onboard_time": 1757321964,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105595,
+        "num": 124752,
+        "word": "献鱼",
+        "onboard_time": 1757322023,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123952,
+        "num": 123952,
+        "word": "顾客曝点知名餐厅外卖换菜被骂装货",
+        "onboard_time": 1757322563,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122402,
+        "num": 122402,
+        "word": "内娱全员00后的综艺来了",
+        "onboard_time": 1757323583,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118876,
+        "num": 118876,
+        "word": "石平卖祖求荣只会自食恶果",
+        "onboard_time": 1757321242,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118400,
+        "num": 118400,
+        "word": "多地违规向死亡人员发放养老金",
+        "onboard_time": 1757323164,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109985,
+        "num": 109985,
+        "word": "iPhone17或有隐藏款",
+        "onboard_time": 1757311405,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90054,
+        "num": 108551,
+        "word": "山东一村干部骂村民不缴费不是人",
+        "onboard_time": 1757322563,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107729,
+        "num": 107729,
+        "word": "外交部评石平数典忘祖出卖良知",
+        "onboard_time": 1757322862,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107327,
+        "num": 107327,
+        "word": "雨霖铃",
+        "onboard_time": 1757312183,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107054,
+        "num": 107054,
+        "word": "欧阳娜娜好像行走的洋娃娃",
+        "onboard_time": 1757323583,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106681,
+        "num": 106681,
+        "word": "实习工资 5个桃子",
+        "onboard_time": 1757322802,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106268,
+        "num": 106268,
+        "word": "会闲聊是稀缺能力",
+        "onboard_time": 1757323343,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104550,
+        "num": 104550,
+        "word": "张曼乐 马思纯",
+        "onboard_time": 1757314403,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100065,
+        "num": 100065,
+        "word": "女子检测出350个兄弟姐妹",
+        "onboard_time": 1757315963,
+        "rank": 49,
+        "category": "民生新闻,海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持走和平发展道路#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/08 16:48:51
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/08 17:29:58
 </p>
 </blockquote>
 <p>
@@ -549,6 +549,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A2%E9%98%9F%E5%B7%A5%E8%B5%84%23" target="weibo">
+曝辛芷蕾团队工资（热度：1536618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%9D%8E%E9%9D%A2%E5%8C%85%E5%B9%BF%E5%91%8A%20%E6%B2%A1%E9%A5%B1%E5%B0%9D%E8%BF%87%E7%94%9F%E6%B4%BB%E7%9A%84%E6%AF%92%E6%89%93%23" target="weibo">
 桃李面包广告 没饱尝过生活的毒打（热度：1526787）
 </a>
@@ -743,6 +749,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E9%80%80%E5%87%BA%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%82%A1%E4%B8%9C%E8%A1%8C%E5%88%97%23" target="weibo">
 张亮退出张亮麻辣烫股东行列（热度：1260399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%B9%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E5%A4%96%E5%8D%96%E8%A2%AB%E8%B4%B4%E8%A3%85%E8%B4%A7%23" target="weibo">
+女子点绿茶餐厅外卖被贴装货（热度：1260272）
 </a>
 </li>
 
@@ -977,6 +989,12 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Metal%20%E7%94%B0%E6%A0%A9%E5%AE%81%23" target="weibo">
 Metal 田栩宁（热度：1041749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E8%8D%94%E8%8E%8E%E6%9B%9D%E8%AE%B8%E5%87%AF%E5%90%90%E6%A7%BD%E7%B2%89%E4%B8%9D%23" target="weibo">
+许荔莎曝许凯吐槽粉丝（热度：1033188）
 </a>
 </li>
 
@@ -1563,12 +1581,6 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%B9%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E5%A4%96%E5%8D%96%E8%A2%AB%E8%B4%B4%E8%A3%85%E8%B4%A7%23" target="weibo">
-女子点绿茶餐厅外卖被贴装货（热度：743096）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%23" target="weibo">
 淘宝闪购（热度：741647）
 </a>
@@ -1911,6 +1923,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B12%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E4%BA%861000%E4%B8%87%23" target="weibo">
+花2元买彩票中了1000万（热度：624966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A914%E4%BA%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%98%AF%E6%8A%A4%E6%97%97%E6%89%8B%23" target="weibo">
 今天14亿中国人都是护旗手（热度：624890）
 </a>
@@ -2015,6 +2033,12 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%BB%93%E6%9D%9F%E4%B8%80%E5%8F%AA%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%81%9C%E5%9C%A8%E4%BA%BA%E7%BE%A4%E4%B8%AD%E9%97%B4%23" target="weibo">
 阅兵结束一只和平鸽停在人群中间（热度：603600）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%20%E8%A1%A3%E6%9F%9C%E9%87%8C%E7%BF%BB%E9%B8%A1%E6%8E%92%23" target="weibo">
+淘宝闪购购买记录 衣柜里翻鸡排（热度：601993）
 </a>
 </li>
 
@@ -2133,6 +2157,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%8D%88%E7%9D%A1vs%E4%BB%8E%E4%B8%8D%E5%8D%88%E7%9D%A1%23" target="weibo">
+每天午睡vs从不午睡（热度：564714）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%AA%E8%A3%85%E8%80%85%23" target="weibo">
 伪装者（热度：563946）
 </a>
@@ -2247,12 +2277,6 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B12%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E4%BA%861000%E4%B8%87%23" target="weibo">
-花2元买彩票中了1000万（热度：546509）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%82%E5%8A%A0%E9%98%85%E5%85%B5%E7%9A%84%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%B7%B2%E5%88%B0%E5%AE%B6%23" target="weibo">
 第一批参加阅兵的和平鸽已到家（热度：546284）
 </a>
@@ -2327,12 +2351,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E4%BA%BF%E7%82%B9%E9%9C%87%E6%92%BC%23" target="weibo">
 中国排面给全世界亿点震撼（热度：537809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%8D%88%E7%9D%A1vs%E4%BB%8E%E4%B8%8D%E5%8D%88%E7%9D%A1%23" target="weibo">
-每天午睡vs从不午睡（热度：537324）
 </a>
 </li>
 
@@ -4017,6 +4035,12 @@ iG战胜EDG（热度：339456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B6%E6%98%AF%E5%AF%B9%E7%9F%B3%E5%B9%B3%E4%B9%8B%E6%B5%81%E7%9A%84%E6%83%A9%E6%88%92%E8%AD%A6%E7%A4%BA%23" target="weibo">
+中方反制是对石平之流的惩戒警示（热度：334453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%AF%B4%E5%8F%8C%E4%B8%80%E6%B5%81%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B9%88%E4%B8%AA%E5%8F%8C%E4%B8%80%E6%B5%81%23" target="weibo">
 你说双一流原来是这么个双一流（热度：333603）
 </a>
@@ -4269,6 +4293,12 @@ iG战胜EDG（热度：339456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%94%B3%E9%A2%86%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%86%23" target="weibo">
+育儿补贴申领全面开放了（热度：315122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E7%A4%BE%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%AE%E4%BA%86%23" target="weibo">
 美联社直播中国阅兵评论区亮了（热度：314915）
 </a>
@@ -4313,12 +4343,6 @@ iG战胜EDG（热度：339456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E9%82%B5%E5%AD%90%E6%81%92%20%E6%88%91%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%88%B8%E7%88%B8%23" target="weibo">
 宁静邵子恒 我认识你爸爸（热度：310479）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%94%B3%E9%A2%86%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%86%23" target="weibo">
-育儿补贴申领全面开放了（热度：308966）
 </a>
 </li>
 
@@ -4757,12 +4781,6 @@ scout（热度：280121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E4%BA%AE%E7%9B%B8%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%BA%86%E9%98%85%E5%85%B5%23" target="weibo">
 中国排面亮相越南国庆阅兵（热度：277965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%20%E8%A1%A3%E6%9F%9C%E9%87%8C%E7%BF%BB%E9%B8%A1%E6%8E%92%23" target="weibo">
-淘宝闪购购买记录 衣柜里翻鸡排（热度：277753）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone17Pro透明保护壳曝光（热度：209530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%BE%B3%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%B9%B6%E6%BB%8B%E6%89%B0%E6%8C%91%E8%A1%85%23" target="weibo">
 加澳军舰过航台湾海峡并滋扰挑衅（热度：207264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E6%97%B6%E9%97%B4%23" target="weibo">
-阅兵时间（热度：207158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
-台风（热度：206395）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAmyboo%E5%94%B1%E8%B7%B3%23" target="weibo">
-易烊千玺myboo唱跳（热度：206106）
 </a>
 </li>
 
