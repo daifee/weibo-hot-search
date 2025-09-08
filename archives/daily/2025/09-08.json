@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757305845779,
+  "endTime": 1757306669284,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -17,6 +17,14 @@
       "onboard_time": 1757243421,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2542164,
+      "num": 334297,
+      "word": "警方回应许凯被曝长期聚众赌博",
+      "onboard_time": 1757304144,
+      "rank": 6,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 2355884,
@@ -41,14 +49,6 @@
       "onboard_time": 1757298322,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1442152,
-      "num": 334297,
-      "word": "警方回应许凯被曝长期聚众赌博",
-      "onboard_time": 1757304144,
-      "rank": 6,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 1166160,
@@ -163,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 499985,
+      "num": 278453,
+      "word": "鹿晗李晨邓超陈赫聚会合照",
+      "onboard_time": 1757303785,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472866,
       "num": 316365,
       "word": "优酷年度片单",
@@ -185,6 +193,14 @@
       "onboard_time": 1757290881,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 408906,
+      "num": 275747,
+      "word": "许荔莎与于正缘分契合度86",
+      "onboard_time": 1757304386,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 408215,
@@ -219,22 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 387720,
-      "num": 251559,
-      "word": "许荔莎与于正缘分契合度86",
-      "onboard_time": 1757304386,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 387197,
-      "num": 238711,
-      "word": "鹿晗李晨邓超陈赫聚会合照",
-      "onboard_time": 1757303785,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 385219,
       "num": 307248,
       "word": "辛芷蕾影后回国",
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 347301,
-      "num": 234865,
+      "num": 272460,
       "word": "辛芷蕾回国又整上小节目了",
       "onboard_time": 1757304986,
       "rank": 21,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312101,
+      "num": 312101,
+      "word": "对日本参议员石平采取反制措施",
+      "onboard_time": 1757299283,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 311624,
       "num": 263005,
       "word": "梓渝 toodeep",
@@ -345,14 +353,6 @@
       "onboard_time": 1757293222,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305791,
-      "num": 305791,
-      "word": "对日本参议员石平采取反制措施",
-      "onboard_time": 1757299283,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 297927,
@@ -387,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 272249,
+      "num": 272249,
+      "word": "00后还有5年就30岁了",
+      "onboard_time": 1757302463,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269819,
       "num": 314134,
       "word": "红月亮在午夜朋友圈刷屏",
@@ -401,6 +409,14 @@
       "onboard_time": 1757255843,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259423,
+      "num": 259423,
+      "word": "吃完外卖最好把汤倒了再扔",
+      "onboard_time": 1757305165,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 258823,
@@ -427,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251773,
+      "num": 251773,
+      "word": "九门全阵容官宣",
+      "onboard_time": 1757305165,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245226,
       "num": 245226,
       "word": "美国或需退还半数已征关税",
@@ -449,6 +473,14 @@
       "onboard_time": 1757304144,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 226924,
+      "num": 226924,
+      "word": "刘思远 凭什么是我回归家庭",
+      "onboard_time": 1757304986,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 225952,
@@ -483,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218482,
-      "num": 218482,
-      "word": "00后还有5年就30岁了",
-      "onboard_time": 1757302463,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214480,
       "num": 197676,
       "word": "长期吃米vs长期吃面",
@@ -523,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204655,
-      "num": 204655,
-      "word": "九门全阵容官宣",
-      "onboard_time": 1757305165,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 204334,
+      "num": 204334,
+      "word": "蒋一侨妈妈是现实中的爽文女主",
+      "onboard_time": 1757305046,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 203507,
@@ -547,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201238,
-      "num": 201238,
-      "word": "刘思远 凭什么是我回归家庭",
-      "onboard_time": 1757304986,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201026,
       "num": 201026,
       "word": "这小狗是要跻身时尚圈了吗",
@@ -563,12 +579,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198710,
-      "num": 198710,
-      "word": "吃完外卖最好把汤倒了再扔",
-      "onboard_time": 1757305165,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 200410,
+      "num": 200410,
+      "word": "济州岛服务员驱赶中国游客",
+      "onboard_time": 1757305465,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195546,
@@ -577,6 +593,14 @@
       "onboard_time": 1757301683,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194943,
+      "num": 194943,
+      "word": "陆毅鲍蕾吵架竟是因为通宵上网",
+      "onboard_time": 1757303304,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 194634,
@@ -619,12 +643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192522,
-      "num": 192522,
-      "word": "陆毅鲍蕾吵架竟是因为通宵上网",
-      "onboard_time": 1757303304,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 192381,
+      "num": 192381,
+      "word": "错过月全食的朋友有眼福了",
+      "onboard_time": 1757306066,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192199,
@@ -651,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189655,
+      "num": 189655,
+      "word": "优酷上新30档综艺",
+      "onboard_time": 1757306186,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186730,
       "num": 186730,
       "word": "女子地铁拒安检多次追打工作人员",
       "onboard_time": 1757259205,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182274,
+      "num": 182274,
+      "word": "柬埔寨女骑士车祸身亡",
+      "onboard_time": 1757303304,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 181850,
@@ -691,28 +731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178121,
-      "num": 178121,
-      "word": "柬埔寨女骑士车祸身亡",
-      "onboard_time": 1757303304,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 175187,
       "num": 175187,
       "word": "两个时段饿一饿脾胃更好",
       "onboard_time": 1757299582,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 174597,
-      "num": 174597,
-      "word": "济州岛服务员驱赶中国游客",
-      "onboard_time": 1757305465,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173610,
@@ -739,12 +763,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169804,
+      "num": 169804,
+      "word": "金价",
+      "onboard_time": 1757303183,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 161928,
+      "num": 161928,
+      "word": "沈星回此间观星台",
+      "onboard_time": 1757306606,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161724,
-      "num": 161724,
+      "num": 188758,
       "word": "特朗普回应石破茂辞职",
       "onboard_time": 1757301683,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160552,
+      "num": 160552,
+      "word": "师兄太稳健",
+      "onboard_time": 1757306426,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 160043,
@@ -795,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152610,
-      "num": 199358,
-      "word": "蒋一侨妈妈是现实中的爽文女主",
-      "onboard_time": 1757305046,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150414,
       "num": 150414,
       "word": "一组数字展现抗美援朝谈判交锋",
@@ -833,6 +873,14 @@
       "onboard_time": 1757304505,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147364,
+      "num": 260225,
+      "word": "警方通报砖厂涉嫌残障人员务工",
+      "onboard_time": 1757305046,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146642,
@@ -889,14 +937,6 @@
       "onboard_time": 1757300423,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142674,
-      "num": 260225,
-      "word": "警方通报砖厂涉嫌残障人员务工",
-      "onboard_time": 1757305046,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140368,
@@ -960,14 +1000,6 @@
       "word": "A股",
       "onboard_time": 1757297363,
       "rank": 36,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 130838,
-      "num": 130838,
-      "word": "金价",
-      "onboard_time": 1757303183,
-      "rank": 49,
       "category": "财经"
     },
     {
@@ -1116,7 +1148,7 @@
     },
     {
       "raw_hot": 102865,
-      "num": 243285,
+      "num": 275286,
       "word": "迪丽热巴星光飘带礼服太仙了",
       "onboard_time": 1757304265,
       "rank": 19,
@@ -1291,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79130,
+      "num": 183806,
+      "word": "曝马思纯和张曼乐没分手",
+      "onboard_time": 1757306186,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78601,
       "num": 155809,
       "word": "NASA登月被质疑",
@@ -1320,6 +1360,14 @@
       "word": "胡萝卜色血月",
       "onboard_time": 1757253383,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74587,
+      "num": 273107,
+      "word": "警方通报砖厂利用残障人员务工",
+      "onboard_time": 1757306008,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1364,7 +1412,7 @@
     },
     {
       "raw_hot": 71702,
-      "num": 246626,
+      "num": 273861,
       "word": "谢霆锋一穿封神",
       "onboard_time": 1757304205,
       "rank": 18,
@@ -1619,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26605,
+      "num": 183086,
+      "word": "张晚意正得发邪这一块",
+      "onboard_time": 1757305706,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24243,
       "num": 28900,
       "word": "马丽是真没看见陈可辛",
@@ -1681,14 +1737,6 @@
       "onboard_time": 1757296402,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13769,
-      "num": 172713,
-      "word": "张晚意正得发邪这一块",
-      "onboard_time": 1757305706,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 13557,

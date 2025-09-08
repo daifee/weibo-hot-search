@@ -1,0 +1,410 @@
+{
+  "runTime": 1757306669284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7678597,
+        "num": 7678597,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639949,
+        "num": 639949,
+        "word": "男子忘关火27天后回家才发现",
+        "onboard_time": 1757284936,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88411,
+        "num": 502286,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757294781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448292,
+        "num": 448292,
+        "word": "大批韩国人在美被拴铁链带走",
+        "onboard_time": 1757296944,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 312101,
+        "num": 312101,
+        "word": "对日本参议员石平采取反制措施",
+        "onboard_time": 1757299283,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2542164,
+        "num": 305429,
+        "word": "警方回应许凯被曝长期聚众赌博",
+        "onboard_time": 1757304144,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1189281,
+        "num": 296725,
+        "word": "疑似白敬亭宋轶分手了",
+        "onboard_time": 1757298322,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715492,
+        "num": 294315,
+        "word": "花少公开祝贺辛芷蕾第一人",
+        "onboard_time": 1757301623,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271661,
+        "num": 282409,
+        "word": "最圆最红的红月亮来了",
+        "onboard_time": 1757300603,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279569,
+        "num": 279569,
+        "word": "韩国将实行小学生家长10点上班制",
+        "onboard_time": 1757299582,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 953788,
+        "num": 279354,
+        "word": "Metal 田栩宁",
+        "onboard_time": 1757300783,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499985,
+        "num": 278453,
+        "word": "鹿晗李晨邓超陈赫聚会合照",
+        "onboard_time": 1757303785,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497884,
+        "num": 278178,
+        "word": "小袁回应说胡楚靓口臭",
+        "onboard_time": 1757296881,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 445677,
+        "num": 277489,
+        "word": "小袁 胡楚靓",
+        "onboard_time": 1757291244,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 317597,
+        "num": 276805,
+        "word": "麦当劳过夜现状",
+        "onboard_time": 1757296582,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408906,
+        "num": 275747,
+        "word": "许荔莎与于正缘分契合度86",
+        "onboard_time": 1757304386,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90057,
+        "num": 275286,
+        "word": "迪丽热巴星光飘带礼服太仙了",
+        "onboard_time": 1757304265,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343175,
+        "num": 274758,
+        "word": "优酷年度片单",
+        "onboard_time": 1757297302,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65787,
+        "num": 273861,
+        "word": "谢霆锋一穿封神",
+        "onboard_time": 1757304205,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74587,
+        "num": 273107,
+        "word": "警方通报砖厂利用残障人员务工",
+        "onboard_time": 1757306008,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305633,
+        "num": 272460,
+        "word": "辛芷蕾回国又整上小节目了",
+        "onboard_time": 1757304986,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272249,
+        "num": 272249,
+        "word": "00后还有5年就30岁了",
+        "onboard_time": 1757302463,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260377,
+        "num": 260377,
+        "word": "普京与金正恩喝茶画面",
+        "onboard_time": 1757300844,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259423,
+        "num": 259423,
+        "word": "吃完外卖最好把汤倒了再扔",
+        "onboard_time": 1757305165,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251773,
+        "num": 251773,
+        "word": "九门全阵容官宣",
+        "onboard_time": 1757305165,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230109,
+        "num": 230109,
+        "word": "敖瑞鹏孙珍妮海报",
+        "onboard_time": 1757302164,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147364,
+        "num": 228196,
+        "word": "警方通报砖厂涉嫌残障人员务工",
+        "onboard_time": 1757305046,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226924,
+        "num": 226924,
+        "word": "刘思远 凭什么是我回归家庭",
+        "onboard_time": 1757304986,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214709,
+        "num": 214709,
+        "word": "中山大学的广东省省凳又红又专",
+        "onboard_time": 1757304144,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210880,
+        "num": 210880,
+        "word": "徐正溪友情出演九门",
+        "onboard_time": 1757302402,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204334,
+        "num": 204334,
+        "word": "蒋一侨妈妈是现实中的爽文女主",
+        "onboard_time": 1757305046,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200410,
+        "num": 200410,
+        "word": "济州岛服务员驱赶中国游客",
+        "onboard_time": 1757305465,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194943,
+        "num": 194943,
+        "word": "陆毅鲍蕾吵架竟是因为通宵上网",
+        "onboard_time": 1757303304,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192381,
+        "num": 192381,
+        "word": "错过月全食的朋友有眼福了",
+        "onboard_time": 1757306066,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189655,
+        "num": 189655,
+        "word": "优酷上新30档综艺",
+        "onboard_time": 1757306186,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133332,
+        "num": 188758,
+        "word": "特朗普回应石破茂辞职",
+        "onboard_time": 1757301683,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177207,
+        "num": 188116,
+        "word": "爱喝茶的人有福了",
+        "onboard_time": 1757305345,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187982,
+        "num": 187982,
+        "word": "心动的信号",
+        "onboard_time": 1757305165,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79130,
+        "num": 183806,
+        "word": "曝马思纯和张曼乐没分手",
+        "onboard_time": 1757306186,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26605,
+        "num": 183086,
+        "word": "张晚意正得发邪这一块",
+        "onboard_time": 1757305706,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182760,
+        "num": 182760,
+        "word": "班主任严肃制止学生传播网络烂梗",
+        "onboard_time": 1757295081,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182274,
+        "num": 182274,
+        "word": "柬埔寨女骑士车祸身亡",
+        "onboard_time": 1757303304,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169804,
+        "num": 169804,
+        "word": "金价",
+        "onboard_time": 1757303183,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167196,
+        "num": 167196,
+        "word": "田栩宁杂志销售额15%用于公益",
+        "onboard_time": 1757304265,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166091,
+        "num": 166091,
+        "word": "这些劣质碳水真的要少吃",
+        "onboard_time": 1757290822,
+        "rank": 44,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 165675,
+        "num": 165675,
+        "word": "成都被诬陷地铁偷拍男子二审仍求道歉",
+        "onboard_time": 1757299462,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161928,
+        "num": 161928,
+        "word": "沈星回此间观星台",
+        "onboard_time": 1757306606,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160552,
+        "num": 160552,
+        "word": "师兄太稳健",
+        "onboard_time": 1757306426,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156626,
+        "num": 156626,
+        "word": "红月亮在午夜朋友圈刷屏",
+        "onboard_time": 1757295140,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154963,
+        "num": 154963,
+        "word": "石破茂辞职中日关系走向如何",
+        "onboard_time": 1757303544,
+        "rank": 49,
+        "category": "国际时政,海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持走和平发展道路#"
+    }
+  }
+}
