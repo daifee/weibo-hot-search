@@ -1,0 +1,410 @@
+{
+  "runTime": 1757336811724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1544317,
+        "num": 1544317,
+        "word": "男子胃癌晚期发现10岁女儿非亲生",
+        "onboard_time": 1757333965,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669491,
+        "num": 669491,
+        "word": "锅圈食汇 蛆虫",
+        "onboard_time": 1757332883,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15688,
+        "num": 452028,
+        "word": "预包装食品数字标签来了",
+        "onboard_time": 1757296822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 252200,
+        "num": 252200,
+        "word": "女子点绿茶餐厅外卖被贴装货",
+        "onboard_time": 1757318722,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191335,
+        "num": 191335,
+        "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+        "onboard_time": 1757319203,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 501202,
+        "num": 191274,
+        "word": "娜扎 我要做这只蚊子",
+        "onboard_time": 1757331023,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496913,
+        "num": 191181,
+        "word": "欢娱律师声明",
+        "onboard_time": 1757330064,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483477,
+        "num": 191127,
+        "word": "女子20元彩票刮中100万激动尖叫",
+        "onboard_time": 1757325142,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369000,
+        "num": 191065,
+        "word": "佟丽娅澄清合照并非朵朵",
+        "onboard_time": 1757328444,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314915,
+        "num": 190979,
+        "word": "马思纯又瘦了好多",
+        "onboard_time": 1757330603,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 432032,
+        "num": 190876,
+        "word": "势界CEO发文感谢田栩宁粉丝",
+        "onboard_time": 1757336003,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412103,
+        "num": 190795,
+        "word": "钟楚曦删了与侯雯元官宣博",
+        "onboard_time": 1757317823,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382734,
+        "num": 190765,
+        "word": "势界CEO",
+        "onboard_time": 1757335943,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38915,
+        "num": 190641,
+        "word": "丁禹兮把广告当杂志拍",
+        "onboard_time": 1757333002,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89618,
+        "num": 190577,
+        "word": "真人版美猴王",
+        "onboard_time": 1757335703,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360133,
+        "num": 190463,
+        "word": "许荔莎曝许凯吐槽粉丝",
+        "onboard_time": 1757323642,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305912,
+        "num": 190422,
+        "word": "天才女友造型师",
+        "onboard_time": 1757330662,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273199,
+        "num": 190333,
+        "word": "高叶腹肌",
+        "onboard_time": 1757332163,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260506,
+        "num": 190244,
+        "word": "上海全款150万32平米的复式小家",
+        "onboard_time": 1757329283,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190207,
+        "num": 190207,
+        "word": "江西一居民多个月水费都是49.93元",
+        "onboard_time": 1757334805,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1036410,
+        "num": 188841,
+        "word": "许凯方否认赌博",
+        "onboard_time": 1757330723,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531674,
+        "num": 188011,
+        "word": "瘦下来的卢昱晓",
+        "onboard_time": 1757327783,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425207,
+        "num": 183614,
+        "word": "沈佳润 原来内娱给我是这个定位",
+        "onboard_time": 1757334323,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177237,
+        "num": 177237,
+        "word": "男子工资交女友分手要回遭拒",
+        "onboard_time": 1757335643,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388047,
+        "num": 176070,
+        "word": "辛芷蕾原名",
+        "onboard_time": 1757328622,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180046,
+        "num": 171745,
+        "word": "中方反制是对石平之流的惩戒警示",
+        "onboard_time": 1757321903,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185240,
+        "num": 171312,
+        "word": "iPhone16价格不降反升",
+        "onboard_time": 1757329403,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166645,
+        "num": 166645,
+        "word": "周杰伦上海抢票",
+        "onboard_time": 1757330243,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164035,
+        "num": 164035,
+        "word": "娜扎欧阳娜娜的15年和25年",
+        "onboard_time": 1757335883,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137716,
+        "num": 149928,
+        "word": "尚公主 公主强制play",
+        "onboard_time": 1757329403,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232765,
+        "num": 149575,
+        "word": "曝辛芷蕾团队工资",
+        "onboard_time": 1757321483,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297935,
+        "num": 149144,
+        "word": "金正恩访华专车车牌有深意",
+        "onboard_time": 1757330064,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148626,
+        "num": 148626,
+        "word": "田栩宁没有一帧是废片",
+        "onboard_time": 1757328323,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138232,
+        "num": 138232,
+        "word": "奶茶行业或将迎来可乐式结局",
+        "onboard_time": 1757331144,
+        "rank": 33,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 134011,
+        "num": 134011,
+        "word": "爱吃玉米的减肥人士轻轻碎了",
+        "onboard_time": 1757333302,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128827,
+        "num": 128827,
+        "word": "这还是我认识的刘萌萌吗",
+        "onboard_time": 1757336183,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128648,
+        "num": 128648,
+        "word": "我和鹿晗何曾有过嫌隙",
+        "onboard_time": 1757323882,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124140,
+        "num": 124140,
+        "word": "奶茶 全世界最聪明的男人",
+        "onboard_time": 1757322023,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116293,
+        "num": 121735,
+        "word": "井柏然刘雯合体",
+        "onboard_time": 1757336484,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121245,
+        "num": 121245,
+        "word": "西藏一垃圾站30多只熊集体觅食",
+        "onboard_time": 1757333482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113811,
+        "num": 113811,
+        "word": "易烊千玺说少年的你是敲门砖",
+        "onboard_time": 1757334323,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111290,
+        "num": 111290,
+        "word": "大型犬撕咬孩子三分钟",
+        "onboard_time": 1757335103,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110753,
+        "num": 110753,
+        "word": "iPhone17Pro 铝合金",
+        "onboard_time": 1757333664,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110604,
+        "num": 110604,
+        "word": "许荔莎回应聊天截图是假的",
+        "onboard_time": 1757325922,
+        "rank": 43,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 110547,
+        "num": 110547,
+        "word": "网友拍的血月太抽象了",
+        "onboard_time": 1757315422,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110429,
+        "num": 110429,
+        "word": "董璇回应综艺争议",
+        "onboard_time": 1757333723,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110188,
+        "num": 110188,
+        "word": "TES对战NIP",
+        "onboard_time": 1757336664,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108683,
+        "num": 108683,
+        "word": "石平卖祖求荣只会自食恶果",
+        "onboard_time": 1757321242,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104084,
+        "num": 104084,
+        "word": "男子虐杀20余只猫被刑事立案",
+        "onboard_time": 1757334082,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98055,
+        "num": 98055,
+        "word": "猫咪 嘴慢无",
+        "onboard_time": 1757336722,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持走和平发展道路#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757335962667,
+  "endTime": 1757336811724,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -723,6 +723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1544317,
+      "num": 1544317,
+      "word": "男子胃癌晚期发现10岁女儿非亲生",
+      "onboard_time": 1757333965,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1537646,
       "num": 1537646,
       "word": "文艺晚会真的好震撼",
@@ -776,14 +784,6 @@
       "word": "102岁老兵看完阅兵当晚安详离世",
       "onboard_time": 1756967364,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1479479,
-      "num": 1479479,
-      "word": "男子胃癌晚期发现10岁女儿非亲生",
-      "onboard_time": 1757333965,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -2435,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669491,
+      "num": 669491,
+      "word": "锅圈食汇 蛆虫",
+      "onboard_time": 1757332883,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 667345,
       "num": 1106775,
       "word": "父亲儿子都牺牲了他带照片看阅兵",
@@ -3451,6 +3459,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 501202,
+      "num": 252147,
+      "word": "娜扎 我要做这只蚊子",
+      "onboard_time": 1757331023,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 499747,
       "num": 499747,
       "word": "8万只气球100%可降解",
@@ -3713,14 +3729,6 @@
       "onboard_time": 1757297302,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 472428,
-      "num": 472428,
-      "word": "锅圈食汇 蛆虫",
-      "onboard_time": 1757332883,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 472153,
@@ -4243,20 +4251,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432032,
+      "num": 190876,
+      "word": "势界CEO发文感谢田栩宁粉丝",
+      "onboard_time": 1757336003,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431922,
       "num": 431922,
       "word": "美国拘捕300名韩国人",
       "onboard_time": 1757085563,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 431169,
-      "num": 252147,
-      "word": "娜扎 我要做这只蚊子",
-      "onboard_time": 1757331023,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 430686,
@@ -4316,7 +4324,7 @@
     },
     {
       "raw_hot": 425888,
-      "num": 161262,
+      "num": 183614,
       "word": "沈佳润 原来内娱给我是这个定位",
       "onboard_time": 1757334323,
       "rank": 23,
@@ -4769,6 +4777,14 @@
       "onboard_time": 1757233941,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382734,
+      "num": 190765,
+      "word": "势界CEO",
+      "onboard_time": 1757335943,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 382013,
@@ -6035,6 +6051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 305912,
+      "num": 225868,
+      "word": "天才女友造型师",
+      "onboard_time": 1757330662,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305349,
       "num": 271594,
       "word": "歼35大片来了",
@@ -6539,14 +6563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 279035,
-      "num": 225868,
-      "word": "天才女友造型师",
-      "onboard_time": 1757330662,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278497,
       "num": 278497,
       "word": "光与夜之恋",
@@ -6665,6 +6681,14 @@
       "onboard_time": 1756718661,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273199,
+      "num": 223989,
+      "word": "高叶腹肌",
+      "onboard_time": 1757332163,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 272902,
@@ -7721,14 +7745,6 @@
       "onboard_time": 1757228182,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223989,
-      "num": 223989,
-      "word": "高叶腹肌",
-      "onboard_time": 1757332163,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 223656,
@@ -9275,6 +9291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190207,
+      "num": 190207,
+      "word": "江西一居民多个月水费都是49.93元",
+      "onboard_time": 1757334805,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190186,
       "num": 190186,
       "word": "黑白局开播",
@@ -10073,6 +10097,14 @@
       "onboard_time": 1757058802,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177237,
+      "num": 177237,
+      "word": "男子工资交女友分手要回遭拒",
+      "onboard_time": 1757335643,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177106,
@@ -10961,6 +10993,14 @@
       "onboard_time": 1756982843,
       "rank": 31,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 164035,
+      "num": 164035,
+      "word": "娜扎欧阳娜娜的15年和25年",
+      "onboard_time": 1757335883,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 164032,
@@ -11993,14 +12033,6 @@
       "onboard_time": 1756892062,
       "rank": 45,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 152264,
-      "num": 152264,
-      "word": "江西一居民多个月水费都是49.93元",
-      "onboard_time": 1757334805,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151972,
@@ -13467,6 +13499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138232,
+      "num": 138232,
+      "word": "奶茶行业或将迎来可乐式结局",
+      "onboard_time": 1757331144,
+      "rank": 48,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 138161,
       "num": 138161,
       "word": "现在的鬼片为什么不吓人了",
@@ -13513,6 +13553,14 @@
       "onboard_time": 1756690398,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137716,
+      "num": 149928,
+      "word": "尚公主 公主强制play",
+      "onboard_time": 1757329403,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 137714,
@@ -13955,6 +14003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134011,
+      "num": 134011,
+      "word": "爱吃玉米的减肥人士轻轻碎了",
+      "onboard_time": 1757333302,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 134003,
       "num": 134003,
       "word": "听泉鉴宝和侯明昊演对手戏",
@@ -14064,14 +14120,6 @@
       "word": "多个视频平台偷时间",
       "onboard_time": 1757242041,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132472,
-      "num": 132472,
-      "word": "男子工资交女友分手要回遭拒",
-      "onboard_time": 1757335643,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -14307,14 +14355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130227,
-      "num": 144288,
-      "word": "尚公主 公主强制play",
-      "onboard_time": 1757329403,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130214,
       "num": 140505,
       "word": "中国科学家首次发现冰弯曲可发电",
@@ -14489,6 +14529,14 @@
       "onboard_time": 1757048902,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128827,
+      "num": 128827,
+      "word": "这还是我认识的刘萌萌吗",
+      "onboard_time": 1757336183,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 128693,
@@ -14995,14 +15043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124879,
-      "num": 124879,
-      "word": "爱吃玉米的减肥人士轻轻碎了",
-      "onboard_time": 1757333302,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 124876,
       "num": 337349,
       "word": "台湾青年说祖国强盛是最大的底气",
@@ -15073,14 +15113,6 @@
       "onboard_time": 1757084361,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124416,
-      "num": 124416,
-      "word": "奶茶行业或将迎来可乐式结局",
-      "onboard_time": 1757331144,
-      "rank": 48,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 124388,
@@ -15505,6 +15537,14 @@
       "onboard_time": 1757064560,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121245,
+      "num": 121245,
+      "word": "西藏一垃圾站30多只熊集体觅食",
+      "onboard_time": 1757333482,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121097,
@@ -16083,6 +16123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116293,
+      "num": 121735,
+      "word": "井柏然刘雯合体",
+      "onboard_time": 1757336484,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116224,
       "num": 266255,
       "word": "俄记者惊呼在中国忘拿手机没人拿",
@@ -16353,14 +16401,6 @@
       "onboard_time": 1757043143,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114731,
-      "num": 117308,
-      "word": "娜扎欧阳娜娜的15年和25年",
-      "onboard_time": 1757335883,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 114718,
@@ -16643,14 +16683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112750,
-      "num": 112750,
-      "word": "势界CEO",
-      "onboard_time": 1757335943,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 112731,
       "num": 265801,
       "word": "谁吃麻辣香锅不被上一课呢",
@@ -16851,6 +16883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111290,
+      "num": 111290,
+      "word": "大型犬撕咬孩子三分钟",
+      "onboard_time": 1757335103,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111279,
       "num": 1412325,
       "word": "不让历史悲剧重演",
@@ -16927,6 +16967,14 @@
       "num": 110776,
       "word": "曝iPhone17首发无缘国行AI",
       "onboard_time": 1757327181,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 110753,
+      "num": 110753,
+      "word": "iPhone17Pro 铝合金",
+      "onboard_time": 1757333664,
       "rank": 42,
       "category": "数码"
     },
@@ -17009,6 +17057,14 @@
       "onboard_time": 1756819343,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110188,
+      "num": 110188,
+      "word": "TES对战NIP",
+      "onboard_time": 1757336664,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 110001,
@@ -17369,14 +17425,6 @@
       "onboard_time": 1757318844,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107435,
-      "num": 107435,
-      "word": "大型犬撕咬孩子三分钟",
-      "onboard_time": 1757335103,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107401,
@@ -17857,6 +17905,14 @@
       "onboard_time": 1756897883,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 104084,
+      "num": 104084,
+      "word": "男子虐杀20余只猫被刑事立案",
+      "onboard_time": 1757334082,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103920,
@@ -18452,7 +18508,7 @@
     },
     {
       "raw_hot": 99466,
-      "num": 156417,
+      "num": 190577,
       "word": "真人版美猴王",
       "onboard_time": 1757335703,
       "rank": 24,
@@ -18641,6 +18697,14 @@
       "onboard_time": 1757226922,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98055,
+      "num": 98055,
+      "word": "猫咪 嘴慢无",
+      "onboard_time": 1757336722,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97987,
