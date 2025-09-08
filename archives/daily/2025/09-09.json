@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757363298553,
+  "endTime": 1757364070832,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -491,7 +491,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18292,
+      "raw_hot": 19413,
       "num": 20454,
       "word": "出生没多久确诊雷特综合征",
       "onboard_time": 1757359995,
@@ -515,7 +515,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12795,
+      "raw_hot": 13708,
       "num": 17248,
       "word": "曝苹果将量产1亿部iPhone17",
       "onboard_time": 1757362273,
@@ -523,7 +523,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 12618,
+      "raw_hot": 12824,
       "num": 17246,
       "word": "雷佳音刘昊然合唱明天会更好",
       "onboard_time": 1757354116,
@@ -537,6 +537,14 @@
       "onboard_time": 1757317103,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12086,
+      "num": 13655,
+      "word": "刺杀小说家2异世征途预告",
+      "onboard_time": 1757353696,
+      "rank": 49,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

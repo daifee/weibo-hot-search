@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/09 00:30:32 ~ 2025/09/09 04:28:18
+本榜单时间：2025/09/09 00:30:32 ~ 2025/09/09 04:41:10
 </p>
 </blockquote>
 <p>
@@ -382,7 +382,7 @@ iPhone16价格不降反升（热度：67241）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E6%B2%A1%E5%A4%9A%E4%B9%85%E7%A1%AE%E8%AF%8A%E9%9B%B7%E7%89%B9%E7%BB%BC%E5%90%88%E5%BE%81%23" target="weibo">
-出生没多久确诊雷特综合征（热度：18292）
+出生没多久确诊雷特综合征（热度：19413）
 </a>
 </li>
 
@@ -400,19 +400,25 @@ iPhone16价格不降反升（热度：67241）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E9%87%8F%E4%BA%A71%E4%BA%BF%E9%83%A8iPhone17%23" target="weibo">
-曝苹果将量产1亿部iPhone17（热度：12795）
+曝苹果将量产1亿部iPhone17（热度：13708）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%88%98%E6%98%8A%E7%84%B6%E5%90%88%E5%94%B1%E6%98%8E%E5%A4%A9%E4%BC%9A%E6%9B%B4%E5%A5%BD%23" target="weibo">
-雷佳音刘昊然合唱明天会更好（热度：12618）
+雷佳音刘昊然合唱明天会更好（热度：12824）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2358%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E8%A2%AB%E5%8D%B0%E5%9C%A8121%E6%9E%9A%E4%B8%96%E7%95%8C%E8%B4%A7%E5%B8%81%E4%B8%8A%23" target="weibo">
 58个中国工程被印在121枚世界货币上（热度：12486）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B62%E5%BC%82%E4%B8%96%E5%BE%81%E9%80%94%E9%A2%84%E5%91%8A%23" target="weibo">
+刺杀小说家2异世征途预告（热度：12086）
 </a>
 </li>
 
