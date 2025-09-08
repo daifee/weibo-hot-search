@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757371183402,
+  "endTime": 1757373810777,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1019727,
+      "num": 1019727,
+      "word": "王化",
+      "onboard_time": 1757349741,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1018845,
       "num": 379544,
       "word": "彭昱畅 急诊",
@@ -521,6 +529,14 @@
       "onboard_time": 1757337682,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 728476,
+      "num": 728476,
+      "word": "王腾",
+      "onboard_time": 1757372839,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 728415,
@@ -777,6 +793,14 @@
       "onboard_time": 1757200458,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 511394,
+      "num": 172663,
+      "word": "男子掏耳朵被2岁儿子撞致鼓膜脱落",
+      "onboard_time": 1757372599,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 508920,
@@ -1107,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395249,
-      "num": 395249,
-      "word": "王化",
-      "onboard_time": 1757349741,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 395178,
       "num": 395178,
       "word": "iPhone17或有隐藏款",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1757215401,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364221,
+      "num": 364221,
+      "word": "小米 王腾",
+      "onboard_time": 1757373560,
+      "rank": 4,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 364150,
@@ -1819,6 +1843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244714,
+      "num": 244714,
+      "word": "西藏一垃圾站30多只熊集体觅食",
+      "onboard_time": 1757333482,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244125,
       "num": 215436,
       "word": "中医建议秋天吃6种白色食物",
@@ -2227,6 +2259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 202352,
+      "num": 202352,
+      "word": "明星若踩法律红线下场不言而喻",
+      "onboard_time": 1757354476,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201636,
       "num": 201636,
       "word": "贾樟柯 退休了",
@@ -2528,6 +2568,14 @@
       "word": "王楚钦澳门逛街买衣服",
       "onboard_time": 1757209462,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189371,
+      "num": 189371,
+      "word": "吴艳妮填补中国女子短跨十年空白",
+      "onboard_time": 1757352137,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -2843,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174327,
+      "num": 163867,
+      "word": "王腾感谢雷军多年培养",
+      "onboard_time": 1757373020,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173610,
       "num": 173610,
       "word": "朱一龙提名金熊猫影帝",
@@ -2897,6 +2953,14 @@
       "onboard_time": 1757260881,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171697,
+      "num": 171697,
+      "word": "王腾曾单独签署保密协议",
+      "onboard_time": 1757373080,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 171595,
@@ -3345,6 +3409,14 @@
       "onboard_time": 1757216061,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154045,
+      "num": 154045,
+      "word": "LABUBU价崩黄牛压货倒赔",
+      "onboard_time": 1757373080,
+      "rank": 26,
+      "category": "休闲"
     },
     {
       "raw_hot": 153289,
@@ -3881,14 +3953,6 @@
       "onboard_time": 1757218943,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138462,
-      "num": 219046,
-      "word": "西藏一垃圾站30多只熊集体觅食",
-      "onboard_time": 1757333482,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138334,
@@ -4851,14 +4915,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 118632,
-      "num": 118632,
-      "word": "吴艳妮填补中国女子短跨十年空白",
-      "onboard_time": 1757352137,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118553,
       "num": 118553,
       "word": "刘宇宁的2025巡演",
@@ -5283,14 +5339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109461,
-      "num": 109461,
-      "word": "明星若踩法律红线下场不言而喻",
-      "onboard_time": 1757354476,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109320,
       "num": 109320,
       "word": "杨博文又在飞机上写作业",
@@ -5683,6 +5731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101535,
+      "num": 219623,
+      "word": "以为很贵实际很便宜的旅游城市",
+      "onboard_time": 1757346446,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 101355,
       "num": 344788,
       "word": "北京可见彩云伴红月",
@@ -5963,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94490,
+      "num": 94490,
+      "word": "某境外组织长期对华渗透",
+      "onboard_time": 1757373501,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94431,
       "num": 94431,
       "word": "欧阳娣娣cue董思成周翊然",
@@ -6195,6 +6259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85241,
+      "num": 85241,
+      "word": "韩国舆论对美国抓数百韩国人不解",
+      "onboard_time": 1757356575,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84962,
       "num": 84962,
       "word": "龚俊第一视角看鲸鱼",
@@ -6385,14 +6457,6 @@
       "onboard_time": 1757340263,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77220,
-      "num": 219623,
-      "word": "以为很贵实际很便宜的旅游城市",
-      "onboard_time": 1757346446,
-      "rank": 35,
-      "category": "旅游"
     },
     {
       "raw_hot": 76631,
@@ -6587,12 +6651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68009,
-      "num": 68009,
-      "word": "韩国舆论对美国抓数百韩国人不解",
-      "onboard_time": 1757356575,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 69048,
+      "num": 69048,
+      "word": "大张伟好喜欢刘宇宁",
+      "onboard_time": 1757368275,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 67989,
@@ -6739,6 +6803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60330,
+      "num": 60330,
+      "word": "36氪盘中大涨超190%多次熔断",
+      "onboard_time": 1757373560,
+      "rank": 38,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 60132,
       "num": 69720,
       "word": "藏海过中元节",
@@ -6753,6 +6825,14 @@
       "onboard_time": 1757172862,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59820,
+      "num": 183704,
+      "word": "酒店回应安装面积约20平方米大电梯",
+      "onboard_time": 1757348422,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59578,
@@ -6777,6 +6857,14 @@
       "onboard_time": 1757287101,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56338,
+      "num": 56338,
+      "word": "硫酸生产线发生事故5死1伤",
+      "onboard_time": 1757373560,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55505,
@@ -6849,6 +6937,14 @@
       "onboard_time": 1757287882,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53326,
+      "num": 53326,
+      "word": "出生没多久确诊雷特综合征",
+      "onboard_time": 1757359995,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 53175,
@@ -6995,6 +7091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44855,
+      "num": 183396,
+      "word": "福建舰9月10日出港",
+      "onboard_time": 1757349920,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 44675,
       "num": 61194,
       "word": "2025微博音频创享日",
@@ -7035,14 +7139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40113,
-      "num": 40113,
-      "word": "大张伟好喜欢刘宇宁",
-      "onboard_time": 1757368275,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39960,
       "num": 204925,
       "word": "胡兵用20多个箱子换了两个机器人",
@@ -7067,28 +7163,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39294,
-      "num": 183396,
-      "word": "福建舰9月10日出港",
-      "onboard_time": 1757349920,
-      "rank": 49,
-      "category": "军事"
-    },
-    {
       "raw_hot": 39187,
       "num": 47167,
       "word": "许凯梅逐雨就此别过",
       "onboard_time": 1757265137,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38656,
-      "num": 183704,
-      "word": "酒店回应安装面积约20平方米大电梯",
-      "onboard_time": 1757348422,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37522,
@@ -7249,14 +7329,6 @@
       "onboard_time": 1757255544,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26854,
-      "num": 35162,
-      "word": "出生没多久确诊雷特综合征",
-      "onboard_time": 1757359995,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 26605,
