@@ -1,0 +1,410 @@
+{
+  "runTime": 1757302153552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7456288,
+        "num": 7456288,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592900,
+        "num": 592900,
+        "word": "男子忘关火27天后回家才发现",
+        "onboard_time": 1757284936,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61597,
+        "num": 540533,
+        "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
+        "onboard_time": 1757287579,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1269880,
+        "num": 535884,
+        "word": "疑似白敬亭宋轶分手了",
+        "onboard_time": 1757298322,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521839,
+        "num": 521839,
+        "word": "大批韩国人在美被拴铁链带走",
+        "onboard_time": 1757296944,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 308801,
+        "num": 308801,
+        "word": "最圆最红的红月亮来了",
+        "onboard_time": 1757300603,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387181,
+        "num": 308580,
+        "word": "优酷年度片单",
+        "onboard_time": 1757297302,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385219,
+        "num": 307248,
+        "word": "辛芷蕾影后回国",
+        "onboard_time": 1757297002,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305791,
+        "num": 305791,
+        "word": "对日本参议员石平采取反制措施",
+        "onboard_time": 1757299283,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160686,
+        "num": 305529,
+        "word": "第十二批在韩志愿军烈士遗骸即将回国",
+        "onboard_time": 1757299702,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305387,
+        "num": 305387,
+        "word": "班主任严肃制止学生传播网络烂梗",
+        "onboard_time": 1757295081,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834854,
+        "num": 302144,
+        "word": "Metal 田栩宁",
+        "onboard_time": 1757300783,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680211,
+        "num": 290603,
+        "word": "麦当劳过夜现状",
+        "onboard_time": 1757296582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658666,
+        "num": 284969,
+        "word": "小袁回应说胡楚靓口臭",
+        "onboard_time": 1757296881,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 513913,
+        "num": 279720,
+        "word": "花少公开祝贺辛芷蕾第一人",
+        "onboard_time": 1757301623,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363965,
+        "num": 271174,
+        "word": "小袁 胡楚靓",
+        "onboard_time": 1757291244,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266817,
+        "num": 266817,
+        "word": "普京与金正恩喝茶画面",
+        "onboard_time": 1757300844,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257603,
+        "num": 257603,
+        "word": "梓渝MV编舞刘隽",
+        "onboard_time": 1757299944,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63528,
+        "num": 248948,
+        "word": "顶流外媒盛赞中国电混",
+        "onboard_time": 1757300603,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47305,
+        "num": 246290,
+        "word": "陈妍希人生第一次智驾是开小鹏P7",
+        "onboard_time": 1757300603,
+        "rank": 19,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 246143,
+        "num": 246143,
+        "word": "红月亮在午夜朋友圈刷屏",
+        "onboard_time": 1757295140,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240382,
+        "num": 240382,
+        "word": "韩国将实行小学生家长10点上班制",
+        "onboard_time": 1757299582,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 239421,
+        "num": 239421,
+        "word": "梓渝 toodeep",
+        "onboard_time": 1757297903,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222360,
+        "num": 222360,
+        "word": "田曦薇新剧我斗我自己",
+        "onboard_time": 1757300783,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218670,
+        "num": 218670,
+        "word": "成都被诬陷地铁偷拍男子二审仍求道歉",
+        "onboard_time": 1757299462,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201782,
+        "num": 201782,
+        "word": "变形计张迪自曝女友是一线女明星",
+        "onboard_time": 1757286979,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195546,
+        "num": 195546,
+        "word": "电视剧谷雨全阵容官宣",
+        "onboard_time": 1757301683,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194782,
+        "num": 194782,
+        "word": "这些劣质碳水真的要少吃",
+        "onboard_time": 1757290822,
+        "rank": 27,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 194634,
+        "num": 194634,
+        "word": "李沁披麻袋都好看",
+        "onboard_time": 1757301263,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179323,
+        "num": 179323,
+        "word": "网红账号发120多条偷拍视频",
+        "onboard_time": 1757297363,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178868,
+        "num": 178868,
+        "word": "入青云",
+        "onboard_time": 1757300844,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153886,
+        "num": 153886,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757294781,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149871,
+        "num": 149871,
+        "word": "两个时段饿一饿脾胃更好",
+        "onboard_time": 1757299582,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149049,
+        "num": 149049,
+        "word": "特朗普回应石破茂辞职",
+        "onboard_time": 1757301683,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147011,
+        "num": 147011,
+        "word": "娱乐圈终于开始拍查税剧了",
+        "onboard_time": 1757301381,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145796,
+        "num": 145796,
+        "word": "金晨工作室临时被通知走红毯",
+        "onboard_time": 1757290881,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144116,
+        "num": 144116,
+        "word": "俄罗斯发动最大规模无人机空袭",
+        "onboard_time": 1757291304,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143977,
+        "num": 143977,
+        "word": "高中生玩游戏成瘾3个月内瘦了8斤",
+        "onboard_time": 1757300663,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65548,
+        "num": 133709,
+        "word": "陈伟霆一出场张大佛爷这味就对了",
+        "onboard_time": 1757301922,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133338,
+        "num": 133338,
+        "word": "知情人回应许嵩冯禧完婚",
+        "onboard_time": 1757261421,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132241,
+        "num": 132241,
+        "word": "胡楚靓前男友半夜按门铃",
+        "onboard_time": 1757297842,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131740,
+        "num": 131740,
+        "word": "动物不刷牙为什么不会蛀牙",
+        "onboard_time": 1757299824,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130556,
+        "num": 130556,
+        "word": "谍报上不封顶凭栏独望海报",
+        "onboard_time": 1757300184,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124450,
+        "num": 124450,
+        "word": "朱一龙提名金熊猫影帝",
+        "onboard_time": 1757300663,
+        "rank": 43,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 123896,
+        "num": 123896,
+        "word": "剑网3",
+        "onboard_time": 1757300423,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123360,
+        "num": 123360,
+        "word": "唐宫奇案",
+        "onboard_time": 1757299524,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120023,
+        "num": 120023,
+        "word": "安卓手机用户截图belike",
+        "onboard_time": 1757301083,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118015,
+        "num": 118015,
+        "word": "九门",
+        "onboard_time": 1757290041,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117464,
+        "num": 117464,
+        "word": "电影志愿军系列终章定档国庆",
+        "onboard_time": 1757299644,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116817,
+        "num": 116817,
+        "word": "一组数字展现抗美援朝谈判交锋",
+        "onboard_time": 1757299283,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席金砖国家领导人线上峰会#"
+    }
+  }
+}

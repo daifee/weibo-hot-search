@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757301138939,
+  "endTime": 1757302153552,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -147,20 +147,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1269880,
+      "num": 535884,
+      "word": "疑似白敬亭宋轶分手了",
+      "onboard_time": 1757298322,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1255093,
       "num": 463852,
       "word": "辛芷蕾的影后是全票通过",
       "onboard_time": 1757216662,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1229511,
-      "num": 454901,
-      "word": "疑似白敬亭宋轶分手了",
-      "onboard_time": 1757298322,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1217927,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 834854,
+      "num": 302144,
+      "word": "Metal 田栩宁",
+      "onboard_time": 1757300783,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 833216,
       "num": 833216,
       "word": "这才是面包的正常价格",
@@ -339,12 +347,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 680211,
+      "num": 290603,
+      "word": "麦当劳过夜现状",
+      "onboard_time": 1757296582,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 670324,
       "num": 374961,
       "word": "路人把李兰迪经纪人当成明星",
       "onboard_time": 1757254282,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 658666,
+      "num": 284969,
+      "word": "小袁回应说胡楚靓口臭",
+      "onboard_time": 1757296881,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 655763,
@@ -403,22 +427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 613094,
-      "num": 280429,
-      "word": "麦当劳过夜现状",
-      "onboard_time": 1757296582,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 608138,
-      "num": 273478,
-      "word": "小袁回应说胡楚靓口臭",
-      "onboard_time": 1757296881,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 587116,
       "num": 311749,
       "word": "变形计张迪自曝女友是一线女明星",
@@ -475,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521839,
+      "num": 521839,
+      "word": "大批韩国人在美被拴铁链带走",
+      "onboard_time": 1757296944,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 517316,
       "num": 289824,
       "word": "日掛中天",
       "onboard_time": 1757200458,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 513913,
+      "num": 279720,
+      "word": "花少公开祝贺辛芷蕾第一人",
+      "onboard_time": 1757301623,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 502189,
@@ -635,14 +659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 421733,
-      "num": 421733,
-      "word": "大批韩国人在美被拴铁链带走",
-      "onboard_time": 1757296944,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 418995,
       "num": 382325,
       "word": "赵磊担心老婆上节目面对不好的声音",
@@ -691,12 +707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387181,
+      "num": 316365,
+      "word": "优酷年度片单",
+      "onboard_time": 1757297302,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385497,
       "num": 385497,
       "word": "美国出动10架F35",
       "onboard_time": 1757224582,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 385219,
+      "num": 307248,
+      "word": "辛芷蕾影后回国",
+      "onboard_time": 1757297002,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 382752,
@@ -795,14 +827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 352033,
-      "num": 266473,
-      "word": "Metal 田栩宁",
-      "onboard_time": 1757300783,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350646,
       "num": 350646,
       "word": "女子赴美生子去世俩孩子生父成谜",
@@ -899,14 +923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 316365,
-      "num": 316365,
-      "word": "优酷年度片单",
-      "onboard_time": 1757297302,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315449,
       "num": 388895,
       "word": "黄子韬首谈决定求婚的原因",
@@ -931,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308801,
+      "num": 308801,
+      "word": "最圆最红的红月亮来了",
+      "onboard_time": 1757300603,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307874,
       "num": 307874,
       "word": "她的瞳官宣杀青",
@@ -945,6 +969,14 @@
       "onboard_time": 1757235140,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305791,
+      "num": 305791,
+      "word": "对日本参议员石平采取反制措施",
+      "onboard_time": 1757299283,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 302995,
@@ -1027,28 +1059,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293293,
-      "num": 260862,
-      "word": "辛芷蕾影后回国",
-      "onboard_time": 1757297002,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285742,
       "num": 285742,
       "word": "九门官宣节奏",
       "onboard_time": 1757256444,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284048,
-      "num": 284048,
-      "word": "对日本参议员石平采取反制措施",
-      "onboard_time": 1757299283,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 282332,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266817,
+      "num": 266817,
+      "word": "普京与金正恩喝茶画面",
+      "onboard_time": 1757300844,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 264492,
       "num": 264492,
       "word": "生病急需钱家人发现32万做了生意",
@@ -1107,8 +1131,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 246603,
-      "num": 246603,
+      "raw_hot": 257603,
+      "num": 257603,
       "word": "梓渝MV编舞刘隽",
       "onboard_time": 1757299944,
       "rank": 20,
@@ -1139,6 +1163,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 240382,
+      "num": 240382,
+      "word": "韩国将实行小学生家长10点上班制",
+      "onboard_time": 1757299582,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 236495,
       "num": 236495,
       "word": "中级会计",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1757254042,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232349,
-      "num": 232349,
-      "word": "韩国将实行小学生家长10点上班制",
-      "onboard_time": 1757299582,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 231097,
@@ -1211,6 +1235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222360,
+      "num": 222360,
+      "word": "田曦薇新剧我斗我自己",
+      "onboard_time": 1757300783,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221669,
       "num": 674318,
       "word": "裸眼3D看受阅空中梯队",
@@ -1224,6 +1256,14 @@
       "word": "辽宁通报沈师大学生呕吐腹泻调查",
       "onboard_time": 1757262379,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218670,
+      "num": 218670,
+      "word": "成都被诬陷地铁偷拍男子二审仍求道歉",
+      "onboard_time": 1757299462,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1355,14 +1395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198746,
-      "num": 198746,
-      "word": "成都被诬陷地铁偷拍男子二审仍求道歉",
-      "onboard_time": 1757299462,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197979,
       "num": 197979,
       "word": "被朱珠四分钟脱口秀秀到了",
@@ -1395,6 +1427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195546,
+      "num": 195546,
+      "word": "电视剧谷雨全阵容官宣",
+      "onboard_time": 1757301683,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194634,
+      "num": 194634,
+      "word": "李沁披麻袋都好看",
+      "onboard_time": 1757301263,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194447,
       "num": 194447,
       "word": "乘客恐飞服用安眠药被赶下飞机",
@@ -1404,7 +1452,7 @@
     },
     {
       "raw_hot": 194339,
-      "num": 194339,
+      "num": 305529,
       "word": "第十二批在韩志愿军烈士遗骸即将回国",
       "onboard_time": 1757299702,
       "rank": 27,
@@ -1457,14 +1505,6 @@
       "onboard_time": 1757294781,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 191098,
-      "num": 191098,
-      "word": "田曦薇新剧我斗我自己",
-      "onboard_time": 1757300783,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 189542,
@@ -1555,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181544,
-      "num": 282284,
-      "word": "最圆最红的红月亮来了",
-      "onboard_time": 1757300603,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181062,
       "num": 181062,
       "word": "澳门冠军赛",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1757248642,
       "rank": 17,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 178868,
+      "num": 178868,
+      "word": "入青云",
+      "onboard_time": 1757300844,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 178677,
@@ -1753,14 +1793,6 @@
       "onboard_time": 1757229443,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166181,
-      "num": 166181,
-      "word": "普京与金正恩喝茶画面",
-      "onboard_time": 1757300844,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164504,
@@ -2067,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149049,
+      "num": 149049,
+      "word": "特朗普回应石破茂辞职",
+      "onboard_time": 1757301683,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148776,
       "num": 153379,
       "word": "箭月相会再现",
@@ -2081,6 +2121,14 @@
       "onboard_time": 1757257463,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147011,
+      "num": 147011,
+      "word": "娱乐圈终于开始拍查税剧了",
+      "onboard_time": 1757301381,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 146998,
@@ -2161,6 +2209,14 @@
       "onboard_time": 1757232742,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143977,
+      "num": 143977,
+      "word": "高中生玩游戏成瘾3个月内瘦了8斤",
+      "onboard_time": 1757300663,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143771,
@@ -2459,12 +2515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132241,
+      "num": 169100,
+      "word": "胡楚靓前男友半夜按门铃",
+      "onboard_time": 1757297842,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 132215,
       "num": 132215,
       "word": "苏超苏州1比1盐城",
       "onboard_time": 1757247922,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131740,
+      "num": 131740,
+      "word": "动物不刷牙为什么不会蛀牙",
+      "onboard_time": 1757299824,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 131516,
@@ -2497,14 +2569,6 @@
       "onboard_time": 1757206643,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130716,
-      "num": 130716,
-      "word": "高中生玩游戏成瘾3个月内瘦了8斤",
-      "onboard_time": 1757300663,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130508,
@@ -2571,14 +2635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127750,
-      "num": 127750,
-      "word": "入青云",
-      "onboard_time": 1757300844,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127574,
       "num": 127574,
       "word": "2025PEL夏决晋级名单",
@@ -2603,14 +2659,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 127044,
-      "num": 169100,
-      "word": "胡楚靓前男友半夜按门铃",
-      "onboard_time": 1757297842,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 126572,
       "num": 163108,
       "word": "遥感四十号03组卫星发射成功",
@@ -2625,14 +2673,6 @@
       "onboard_time": 1757214321,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125857,
-      "num": 125857,
-      "word": "动物不刷牙为什么不会蛀牙",
-      "onboard_time": 1757299824,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 125685,
@@ -2817,6 +2857,14 @@
       "onboard_time": 1757253444,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120023,
+      "num": 120023,
+      "word": "安卓手机用户截图belike",
+      "onboard_time": 1757301083,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 119962,
@@ -3169,14 +3217,6 @@
       "onboard_time": 1757203580,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108890,
-      "num": 108890,
-      "word": "安卓手机用户截图belike",
-      "onboard_time": 1757301083,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 108574,
@@ -3732,7 +3772,7 @@
     },
     {
       "raw_hot": 90816,
-      "num": 491089,
+      "num": 540533,
       "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
       "onboard_time": 1757287579,
       "rank": 2,
@@ -4051,6 +4091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65548,
+      "num": 133709,
+      "word": "陈伟霆一出场张大佛爷这味就对了",
+      "onboard_time": 1757301922,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64279,
       "num": 107303,
       "word": "好好吃饭致敬袁隆平",
@@ -4073,6 +4121,14 @@
       "onboard_time": 1757187616,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 63528,
+      "num": 255694,
+      "word": "顶流外媒盛赞中国电混",
+      "onboard_time": 1757300603,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 63069,
@@ -4219,14 +4275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51402,
-      "num": 255694,
-      "word": "顶流外媒盛赞中国电混",
-      "onboard_time": 1757300603,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 50356,
       "num": 113234,
       "word": "中国大使馆直接点名菲防长",
@@ -4273,6 +4321,14 @@
       "onboard_time": 1757236822,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47305,
+      "num": 248446,
+      "word": "陈妍希人生第一次智驾是开小鹏P7",
+      "onboard_time": 1757300603,
+      "rank": 19,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 46189,
@@ -4369,14 +4425,6 @@
       "onboard_time": 1757182936,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34999,
-      "num": 248446,
-      "word": "陈妍希人生第一次智驾是开小鹏P7",
-      "onboard_time": 1757300603,
-      "rank": 19,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 33046,
