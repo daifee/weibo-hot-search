@@ -1,0 +1,410 @@
+{
+  "runTime": 1757310059973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5674173,
+        "num": 5674173,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480270,
+        "num": 480270,
+        "word": "男子忘关火27天后回家才发现",
+        "onboard_time": 1757284936,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77436,
+        "num": 351504,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757294781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294476,
+        "num": 294476,
+        "word": "离婚冷静期婆婆去世女子要求分遗产",
+        "onboard_time": 1757309603,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289521,
+        "num": 289521,
+        "word": "大批韩国人在美被拴铁链带走",
+        "onboard_time": 1757296944,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2266289,
+        "num": 258627,
+        "word": "警方回应许凯被曝长期聚众赌博",
+        "onboard_time": 1757304144,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 854194,
+        "num": 249792,
+        "word": "疑似白敬亭宋轶分手了",
+        "onboard_time": 1757298322,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383611,
+        "num": 240361,
+        "word": "花少公开祝贺辛芷蕾第一人",
+        "onboard_time": 1757301623,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207559,
+        "num": 207559,
+        "word": "对日本参议员石平采取反制措施",
+        "onboard_time": 1757299283,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104205,
+        "num": 207361,
+        "word": "错过月全食的朋友有眼福了",
+        "onboard_time": 1757306066,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445004,
+        "num": 205300,
+        "word": "Metal 田栩宁",
+        "onboard_time": 1757300783,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414013,
+        "num": 204816,
+        "word": "曝马思纯和张曼乐没分手",
+        "onboard_time": 1757306186,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393356,
+        "num": 203189,
+        "word": "鹿晗李晨邓超陈赫聚会合照",
+        "onboard_time": 1757303785,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364150,
+        "num": 201715,
+        "word": "吃完外卖最好把汤倒了再扔",
+        "onboard_time": 1757305165,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330226,
+        "num": 200565,
+        "word": "小袁回应说胡楚靓口臭",
+        "onboard_time": 1757296881,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200399,
+        "num": 200399,
+        "word": "11岁男孩感染寄生虫瘦到15公斤",
+        "onboard_time": 1757308765,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326967,
+        "num": 200358,
+        "word": "小袁 胡楚靓",
+        "onboard_time": 1757291244,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316403,
+        "num": 200012,
+        "word": "许荔莎与于正缘分契合度86",
+        "onboard_time": 1757304386,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314094,
+        "num": 199885,
+        "word": "辛芷蕾回国又整上小节目了",
+        "onboard_time": 1757304986,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63103,
+        "num": 199674,
+        "word": "他亲手解剖14人却因一封信崩溃",
+        "onboard_time": 1757309784,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306296,
+        "num": 199343,
+        "word": "九门全阵容官宣",
+        "onboard_time": 1757305165,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282007,
+        "num": 199229,
+        "word": "田栩宁杂志抢不到",
+        "onboard_time": 1757308225,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261235,
+        "num": 198824,
+        "word": "半个娱乐圈都在为这部电影打call",
+        "onboard_time": 1757308883,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210056,
+        "num": 198562,
+        "word": "麦当劳过夜现状",
+        "onboard_time": 1757296582,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203730,
+        "num": 198491,
+        "word": "杨幂好萌",
+        "onboard_time": 1757309062,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191899,
+        "num": 198113,
+        "word": "最圆最红的红月亮来了",
+        "onboard_time": 1757300603,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198094,
+        "num": 198094,
+        "word": "张艺谋团队合作张艺兴",
+        "onboard_time": 1757307683,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196364,
+        "num": 196364,
+        "word": "赴山海",
+        "onboard_time": 1757309723,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190664,
+        "num": 190664,
+        "word": "秦岚新剧先离后爱",
+        "onboard_time": 1757308465,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21592,
+        "num": 183654,
+        "word": "和平鸽下班后第一顿也喝电解质水",
+        "onboard_time": 1757309544,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 352332,
+        "num": 183478,
+        "word": "俄罗斯阅兵抓日本战俘游街",
+        "onboard_time": 1757308524,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251041,
+        "num": 183394,
+        "word": "你以为在休息其实最耗气血",
+        "onboard_time": 1757309482,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183252,
+        "num": 183252,
+        "word": "刘亦菲素颜与朋友聚餐",
+        "onboard_time": 1757309365,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172389,
+        "num": 172389,
+        "word": "济州岛服务员驱赶中国游客",
+        "onboard_time": 1757305465,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163213,
+        "num": 163213,
+        "word": "原来小孩装病在大人眼里这么明显",
+        "onboard_time": 1757307146,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156030,
+        "num": 156030,
+        "word": "韩国将实行小学生家长10点上班制",
+        "onboard_time": 1757299582,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155298,
+        "num": 155298,
+        "word": "优酷年度片单",
+        "onboard_time": 1757297302,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144471,
+        "num": 144471,
+        "word": "唐嫣提名金熊猫视后",
+        "onboard_time": 1757307388,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22540,
+        "num": 142429,
+        "word": "cardib说赛琳娜是真甜妹",
+        "onboard_time": 1757309963,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37522,
+        "num": 142229,
+        "word": "男子购房2年后发现竟是凶宅",
+        "onboard_time": 1757309244,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142201,
+        "num": 142201,
+        "word": "迪丽热巴虽然不能同时拥有一切开机",
+        "onboard_time": 1757307865,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141042,
+        "num": 141042,
+        "word": "一山姆店现顾客自带桶续杯饮料",
+        "onboard_time": 1757307683,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139810,
+        "num": 139810,
+        "word": "00后还有5年就30岁了",
+        "onboard_time": 1757302463,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132865,
+        "num": 132865,
+        "word": "敖瑞鹏孙珍妮海报",
+        "onboard_time": 1757302164,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131621,
+        "num": 131621,
+        "word": "中山大学的广东省省凳又红又专",
+        "onboard_time": 1757304144,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127900,
+        "num": 127900,
+        "word": "按姓氏分班 上课好像进祠堂",
+        "onboard_time": 1757308403,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125238,
+        "num": 125238,
+        "word": "杨笠把脱口秀专场开进了体育馆",
+        "onboard_time": 1757309186,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117659,
+        "num": 117659,
+        "word": "终于等到宋轶新剧搞事业了",
+        "onboard_time": 1757308823,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113491,
+        "num": 113491,
+        "word": "普京与金正恩喝茶画面",
+        "onboard_time": 1757300844,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89881,
+        "num": 113159,
+        "word": "这些劣质碳水真的要少吃",
+        "onboard_time": 1757290822,
+        "rank": 49,
+        "category": "健康医疗,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持走和平发展道路#"
+    }
+  }
+}

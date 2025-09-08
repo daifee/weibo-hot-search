@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757309109176,
+  "endTime": 1757310059973,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -267,12 +267,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 364150,
+      "num": 400513,
+      "word": "吃完外卖最好把汤倒了再扔",
+      "onboard_time": 1757305165,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 356117,
       "num": 356117,
       "word": "鹿晗报喜不报忧",
       "onboard_time": 1757262740,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 352332,
+      "num": 183478,
+      "word": "俄罗斯阅兵抓日本战俘游街",
+      "onboard_time": 1757308524,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 347301,
@@ -289,14 +305,6 @@
       "onboard_time": 1757297363,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345026,
-      "num": 400513,
-      "word": "吃完外卖最好把汤倒了再扔",
-      "onboard_time": 1757305165,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 344796,
@@ -411,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294476,
+      "num": 294476,
+      "word": "离婚冷静期婆婆去世女子要求分遗产",
+      "onboard_time": 1757309603,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284388,
       "num": 284388,
       "word": "普京与金正恩喝茶画面",
@@ -433,6 +449,14 @@
       "onboard_time": 1757295140,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261235,
+      "num": 198824,
+      "word": "半个娱乐圈都在为这部电影打call",
+      "onboard_time": 1757308883,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 259986,
@@ -465,6 +489,14 @@
       "onboard_time": 1757302164,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251041,
+      "num": 183394,
+      "word": "你以为在休息其实最耗气血",
+      "onboard_time": 1757309482,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245226,
@@ -595,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203730,
+      "num": 198491,
+      "word": "杨幂好萌",
+      "onboard_time": 1757309062,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203507,
       "num": 203507,
       "word": "蟑螂会把定制的手办吃干净",
@@ -627,11 +667,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 200399,
+      "num": 200399,
+      "word": "11岁男孩感染寄生虫瘦到15公斤",
+      "onboard_time": 1757308765,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198681,
       "num": 198681,
       "word": "迪丽热巴虽然不能同时拥有一切开机",
       "onboard_time": 1757307865,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196364,
+      "num": 196364,
+      "word": "赴山海",
+      "onboard_time": 1757297423,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -692,7 +748,7 @@
     },
     {
       "raw_hot": 192381,
-      "num": 192381,
+      "num": 207361,
       "word": "错过月全食的朋友有眼福了",
       "onboard_time": 1757306066,
       "rank": 33,
@@ -747,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183252,
+      "num": 183252,
+      "word": "刘亦菲素颜与朋友聚餐",
+      "onboard_time": 1757309365,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182274,
       "num": 182274,
       "word": "柬埔寨女骑士车祸身亡",
@@ -785,14 +849,6 @@
       "onboard_time": 1757300844,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178843,
-      "num": 178843,
-      "word": "半个娱乐圈都在为这部电影打call",
-      "onboard_time": 1757308883,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 175187,
@@ -971,14 +1027,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146114,
-      "num": 146114,
-      "word": "赴山海",
-      "onboard_time": 1757297423,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145777,
       "num": 145777,
       "word": "王楚钦目标不仅仅是守住半区",
@@ -1123,12 +1171,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127830,
-      "num": 127830,
-      "word": "杨幂好萌",
-      "onboard_time": 1757309062,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 127900,
+      "num": 127900,
+      "word": "按姓氏分班 上课好像进祠堂",
+      "onboard_time": 1757308403,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 125685,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1757299344,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125238,
+      "num": 125238,
+      "word": "杨笠把脱口秀专场开进了体育馆",
+      "onboard_time": 1757309186,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 124388,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1757301083,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 117659,
+      "num": 117659,
+      "word": "终于等到宋轶新剧搞事业了",
+      "onboard_time": 1757308823,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 115222,
@@ -1419,14 +1483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86108,
-      "num": 149764,
-      "word": "11岁男孩感染寄生虫瘦到15公斤",
-      "onboard_time": 1757308765,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84532,
       "num": 84532,
       "word": "沈佳润今天是美美sunday",
@@ -1603,6 +1659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 63103,
+      "num": 199674,
+      "word": "他亲手解剖14人却因一封信崩溃",
+      "onboard_time": 1757309784,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63069,
       "num": 72085,
       "word": "帅大厨红烧肉",
@@ -1739,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37522,
+      "num": 142229,
+      "word": "男子购房2年后发现竟是凶宅",
+      "onboard_time": 1757309244,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36590,
       "num": 47134,
       "word": "iG战胜EDG",
@@ -1843,12 +1915,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22540,
+      "num": 142429,
+      "word": "cardib说赛琳娜是真甜妹",
+      "onboard_time": 1757309963,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21953,
       "num": 27518,
       "word": "陈哲远发了英寡",
       "onboard_time": 1757282895,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21592,
+      "num": 183654,
+      "word": "和平鸽下班后第一顿也喝电解质水",
+      "onboard_time": 1757309544,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 21488,
