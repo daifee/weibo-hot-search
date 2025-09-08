@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757349032683,
+  "endTime": 1757349952653,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -161,6 +161,22 @@
       "onboard_time": 1757335943,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 172838,
+      "num": 172838,
+      "word": "王化",
+      "onboard_time": 1757349741,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 164439,
+      "num": 218215,
+      "word": "势界创始人感谢梓渝粉丝",
+      "onboard_time": 1757348601,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 161147,
@@ -379,12 +395,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53523,
-      "num": 218215,
-      "word": "势界创始人感谢梓渝粉丝",
-      "onboard_time": 1757348601,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 46631,
+      "num": 153664,
+      "word": "杨洋带你领略江湖传奇",
+      "onboard_time": 1757349500,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43688,
+      "num": 153435,
+      "word": "许荔莎回应聊天截图是假的",
+      "onboard_time": 1757325922,
+      "rank": 47,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 41953,
@@ -393,6 +417,14 @@
       "onboard_time": 1757343384,
       "rank": 9,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 39294,
+      "num": 153063,
+      "word": "福建舰9月10日出港",
+      "onboard_time": 1757349920,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 12486,
