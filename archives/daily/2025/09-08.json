@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757324577501,
+  "endTime": 1757327303563,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -291,12 +291,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490716,
+      "num": 490716,
+      "word": "女子20元彩票刮中100万激动尖叫",
+      "onboard_time": 1757325142,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472866,
       "num": 316365,
       "word": "优酷年度片单",
       "onboard_time": 1757297302,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471179,
+      "num": 471179,
+      "word": "我和鹿晗何曾有过嫌隙",
+      "onboard_time": 1757323882,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 448397,
+      "num": 448397,
+      "word": "上海暴雨",
+      "onboard_time": 1757322743,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 443957,
@@ -403,12 +427,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 375170,
+      "num": 284782,
+      "word": "钟楚曦 侯雯元",
+      "onboard_time": 1757322622,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372825,
       "num": 372825,
       "word": "中方反制是对石平之流的惩戒警示",
       "onboard_time": 1757321903,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 370972,
+      "num": 258103,
+      "word": "许荔莎回应聊天截图是假的",
+      "onboard_time": 1757325922,
+      "rank": 13,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 368301,
@@ -619,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267200,
-      "num": 284782,
-      "word": "钟楚曦 侯雯元",
-      "onboard_time": 1757322622,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261235,
       "num": 198824,
       "word": "半个娱乐圈都在为这部电影打call",
@@ -683,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236699,
-      "num": 236699,
-      "word": "上海暴雨",
-      "onboard_time": 1757322743,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233710,
       "num": 233710,
       "word": "中山大学的广东省省凳又红又专",
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 233092,
-      "num": 233092,
+      "num": 262985,
       "word": "陈都灵不浪费每一次妆造",
       "onboard_time": 1757320103,
       "rank": 27,
@@ -721,6 +745,14 @@
       "onboard_time": 1757301381,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224640,
+      "num": 224640,
+      "word": "70岁老人借厕猝死家属索赔21万",
+      "onboard_time": 1757322081,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222360,
@@ -779,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212836,
+      "num": 212836,
+      "word": "这就是街舞还有没有苏新皓",
+      "onboard_time": 1757324542,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212152,
       "num": 212152,
       "word": "奶茶 全世界最聪明的男人",
@@ -809,6 +849,14 @@
       "onboard_time": 1757317103,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 206525,
+      "num": 212327,
+      "word": "鹿晗澳门",
+      "onboard_time": 1757326761,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 206395,
@@ -931,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198323,
+      "num": 148573,
+      "word": "纸包排骨",
+      "onboard_time": 1757326042,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197537,
       "num": 161141,
       "word": "女子检测出350个兄弟姐妹",
@@ -948,7 +1004,7 @@
     },
     {
       "raw_hot": 195964,
-      "num": 219789,
+      "num": 262547,
       "word": "3岁以下婴幼儿每年补贴3600元",
       "onboard_time": 1757320163,
       "rank": 29,
@@ -1283,12 +1339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163993,
-      "num": 163993,
-      "word": "我和鹿晗何曾有过嫌隙",
-      "onboard_time": 1757323882,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 165046,
+      "num": 165046,
+      "word": "内娱明星分手季",
+      "onboard_time": 1757326462,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 161928,
@@ -1297,6 +1353,14 @@
       "onboard_time": 1757306606,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161904,
+      "num": 161904,
+      "word": "给大半个乐坛写过歌的人终于现身了",
+      "onboard_time": 1757326402,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 161724,
@@ -1329,6 +1393,14 @@
       "onboard_time": 1757321123,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159072,
+      "num": 159072,
+      "word": "不得不说这是韩国奇耻大辱",
+      "onboard_time": 1757325742,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158304,
@@ -1369,6 +1441,14 @@
       "onboard_time": 1757299644,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156243,
+      "num": 156243,
+      "word": "警方通报女子称多次带打火机登机",
+      "onboard_time": 1757326282,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 154878,
@@ -1425,14 +1505,6 @@
       "onboard_time": 1757299283,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 150195,
-      "num": 150195,
-      "word": "70岁老人借厕猝死家属索赔21万",
-      "onboard_time": 1757322081,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150131,
@@ -1643,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137306,
+      "num": 137306,
+      "word": "王栎鑫 阳光型抑郁",
+      "onboard_time": 1757324542,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136867,
       "num": 136867,
       "word": "志愿军",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1757322081,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129531,
+      "num": 129531,
+      "word": "还珠格格穿帮镜头",
+      "onboard_time": 1757325502,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 129484,
@@ -1835,6 +1923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124738,
+      "num": 124738,
+      "word": "2点睡觉9点起床算熬夜吗",
+      "onboard_time": 1757326042,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124388,
       "num": 153578,
       "word": "嫁金钗",
@@ -1947,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117408,
+      "num": 117408,
+      "word": "阴阳师雪御前CG",
+      "onboard_time": 1757326162,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116750,
       "num": 116750,
       "word": "英国男子8年挥霍完上亿彩票",
@@ -2017,6 +2121,14 @@
       "onboard_time": 1757286919,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110776,
+      "num": 110776,
+      "word": "曝iPhone17首发无缘国行AI",
+      "onboard_time": 1757327181,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 110619,
@@ -2147,6 +2259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104252,
+      "num": 104252,
+      "word": "带背屏的iPhone17",
+      "onboard_time": 1757323164,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 103200,
+      "num": 103200,
+      "word": "陈都灵 纯白茉莉花",
+      "onboard_time": 1757327123,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102865,
       "num": 326985,
       "word": "迪丽热巴星光飘带礼服太仙了",
@@ -2187,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101458,
+      "num": 101458,
+      "word": "又吃到杨洋的古装细糠了",
+      "onboard_time": 1757327123,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101355,
       "num": 101355,
       "word": "北京可见彩云伴红月",
@@ -2217,14 +2353,6 @@
       "onboard_time": 1757291784,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 100002,
-      "num": 100002,
-      "word": "这就是街舞还有没有苏新皓",
-      "onboard_time": 1757324542,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 99112,
@@ -2275,14 +2403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95571,
-      "num": 95571,
-      "word": "王栎鑫 阳光型抑郁",
-      "onboard_time": 1757324542,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 95561,
       "num": 95561,
       "word": "辛芷蕾听完英文提问的反应",
@@ -2313,6 +2433,14 @@
       "onboard_time": 1757315422,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92430,
+      "num": 97944,
+      "word": "阅兵坦克里有近100个按钮",
+      "onboard_time": 1757327181,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90816,
@@ -2491,6 +2619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72077,
+      "num": 114434,
+      "word": "丝瓜汤的风还是吹到了外国",
+      "onboard_time": 1757326943,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71737,
       "num": 148696,
       "word": "爸拿马运河",
@@ -2537,6 +2673,14 @@
       "onboard_time": 1757304144,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 66148,
+      "num": 114643,
+      "word": "被中方制裁日本参议员生于中国",
+      "onboard_time": 1757326342,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65507,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1757327303563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 843824,
+        "num": 1135011,
+        "word": "女子点绿茶餐厅外卖被贴装货",
+        "onboard_time": 1757318722,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515946,
+        "num": 515946,
+        "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+        "onboard_time": 1757319203,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24813,
+        "num": 498356,
+        "word": "预包装食品数字标签来了",
+        "onboard_time": 1757296822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 490716,
+        "num": 490716,
+        "word": "女子20元彩票刮中100万激动尖叫",
+        "onboard_time": 1757325142,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471179,
+        "num": 471179,
+        "word": "我和鹿晗何曾有过嫌隙",
+        "onboard_time": 1757323882,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448397,
+        "num": 448397,
+        "word": "上海暴雨",
+        "onboard_time": 1757322743,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364732,
+        "num": 364732,
+        "word": "花2元买彩票中了1000万",
+        "onboard_time": 1757318722,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333822,
+        "num": 333822,
+        "word": "中方反制是对石平之流的惩戒警示",
+        "onboard_time": 1757321903,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264475,
+        "num": 264475,
+        "word": "网友拍的血月太抽象了",
+        "onboard_time": 1757315422,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224850,
+        "num": 262985,
+        "word": "陈都灵不浪费每一次妆造",
+        "onboard_time": 1757320103,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74532,
+        "num": 262547,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1757320163,
+        "rank": 10,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 1708214,
+        "num": 260651,
+        "word": "曝辛芷蕾团队工资",
+        "onboard_time": 1757321483,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671988,
+        "num": 259919,
+        "word": "钟楚曦删了与侯雯元官宣博",
+        "onboard_time": 1757317823,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370972,
+        "num": 258103,
+        "word": "许荔莎回应聊天截图是假的",
+        "onboard_time": 1757325922,
+        "rank": 13,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 256893,
+        "num": 256893,
+        "word": "每天午睡vs从不午睡",
+        "onboard_time": 1757317701,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 224640,
+        "num": 224640,
+        "word": "70岁老人借厕猝死家属索赔21万",
+        "onboard_time": 1757322081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212836,
+        "num": 212836,
+        "word": "这就是街舞还有没有苏新皓",
+        "onboard_time": 1757324542,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206525,
+        "num": 212327,
+        "word": "鹿晗澳门",
+        "onboard_time": 1757326761,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177686,
+        "num": 211634,
+        "word": "胡先煦 我有一点点无语",
+        "onboard_time": 1757320523,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168764,
+        "num": 210622,
+        "word": "秦岚祝福辛芷蕾获影后",
+        "onboard_time": 1757314342,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217466,
+        "num": 210440,
+        "word": "山姆店回应顾客自带桶续杯饮料",
+        "onboard_time": 1757315422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805459,
+        "num": 209296,
+        "word": "警方回应许凯被曝长期聚众赌博",
+        "onboard_time": 1757304144,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 375170,
+        "num": 208877,
+        "word": "钟楚曦 侯雯元",
+        "onboard_time": 1757322622,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208358,
+        "num": 208358,
+        "word": "奶茶 全世界最聪明的男人",
+        "onboard_time": 1757322023,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169821,
+        "num": 169821,
+        "word": "育儿补贴申领全面开放了",
+        "onboard_time": 1757319862,
+        "rank": 24,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 165046,
+        "num": 165046,
+        "word": "内娱明星分手季",
+        "onboard_time": 1757326462,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673390,
+        "num": 164072,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161904,
+        "num": 161904,
+        "word": "给大半个乐坛写过歌的人终于现身了",
+        "onboard_time": 1757326402,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159072,
+        "num": 159072,
+        "word": "不得不说这是韩国奇耻大辱",
+        "onboard_time": 1757325742,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156243,
+        "num": 156243,
+        "word": "警方通报女子称多次带打火机登机",
+        "onboard_time": 1757326282,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 198323,
+        "num": 148573,
+        "word": "纸包排骨",
+        "onboard_time": 1757326042,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137306,
+        "num": 137306,
+        "word": "王栎鑫 阳光型抑郁",
+        "onboard_time": 1757324542,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134044,
+        "num": 134044,
+        "word": "你以为在休息其实最耗气血",
+        "onboard_time": 1757309482,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129531,
+        "num": 129531,
+        "word": "还珠格格穿帮镜头",
+        "onboard_time": 1757325502,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124738,
+        "num": 124738,
+        "word": "2点睡觉9点起床算熬夜吗",
+        "onboard_time": 1757326042,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122567,
+        "num": 122567,
+        "word": "蔡文静瘦成纸片人是进组信号吧",
+        "onboard_time": 1757324422,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117408,
+        "num": 117408,
+        "word": "阴阳师雪御前CG",
+        "onboard_time": 1757326162,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115038,
+        "num": 115038,
+        "word": "俄罗斯阅兵抓日本战俘游街",
+        "onboard_time": 1757308524,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66148,
+        "num": 114643,
+        "word": "被中方制裁日本参议员生于中国",
+        "onboard_time": 1757326342,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72077,
+        "num": 114434,
+        "word": "丝瓜汤的风还是吹到了外国",
+        "onboard_time": 1757326943,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114343,
+        "num": 114343,
+        "word": "多地违规向死亡人员发放养老金",
+        "onboard_time": 1757323164,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111423,
+        "num": 111423,
+        "word": "欧阳娜娜好像行走的洋娃娃",
+        "onboard_time": 1757323583,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110776,
+        "num": 110776,
+        "word": "曝iPhone17首发无缘国行AI",
+        "onboard_time": 1757327181,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107922,
+        "num": 107922,
+        "word": "绿茶回应顾客外卖换菜被骂装货",
+        "onboard_time": 1757321123,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104252,
+        "num": 104252,
+        "word": "带背屏的iPhone17",
+        "onboard_time": 1757323164,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103200,
+        "num": 103200,
+        "word": "陈都灵 纯白茉莉花",
+        "onboard_time": 1757327123,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101458,
+        "num": 101458,
+        "word": "又吃到杨洋的古装细糠了",
+        "onboard_time": 1757327123,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101088,
+        "num": 101088,
+        "word": "献鱼女二发长文感谢批评",
+        "onboard_time": 1757323282,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100065,
+        "num": 100065,
+        "word": "离婚冷静期婆婆去世女子要求分遗产",
+        "onboard_time": 1757309603,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92430,
+        "num": 97944,
+        "word": "阅兵坦克里有近100个按钮",
+        "onboard_time": 1757327181,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持走和平发展道路#"
+    }
+  }
+}
