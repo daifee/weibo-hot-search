@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757349952653,
+  "endTime": 1757352144519,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -91,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 308548,
+      "num": 308548,
+      "word": "王化",
+      "onboard_time": 1757349741,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 239424,
       "num": 557399,
       "word": "周冬雨刘昊然同框",
@@ -123,6 +131,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220849,
+      "num": 218215,
+      "word": "势界创始人感谢梓渝粉丝",
+      "onboard_time": 1757348601,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216557,
+      "num": 375325,
+      "word": "沈佳润 原来内娱给我是这个定位",
+      "onboard_time": 1757334323,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198344,
       "num": 379566,
       "word": "钟楚曦删了与侯雯元官宣博",
@@ -147,36 +171,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 188389,
-      "num": 375325,
-      "word": "沈佳润 原来内娱给我是这个定位",
-      "onboard_time": 1757334323,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173708,
       "num": 223644,
       "word": "势界CEO",
       "onboard_time": 1757335943,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 172838,
-      "num": 172838,
-      "word": "王化",
-      "onboard_time": 1757349741,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 164439,
-      "num": 218215,
-      "word": "势界创始人感谢梓渝粉丝",
-      "onboard_time": 1757348601,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 161147,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 46631,
-      "num": 153664,
+      "num": 184003,
       "word": "杨洋带你领略江湖传奇",
       "onboard_time": 1757349500,
       "rank": 45,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 43688,
-      "num": 153435,
+      "num": 184527,
       "word": "许荔莎回应聊天截图是假的",
       "onboard_time": 1757325922,
       "rank": 47,
@@ -420,11 +420,35 @@
     },
     {
       "raw_hot": 39294,
-      "num": 153063,
+      "num": 183396,
       "word": "福建舰9月10日出港",
       "onboard_time": 1757349920,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 31951,
+      "num": 183865,
+      "word": "马思纯又瘦了好多",
+      "onboard_time": 1757330603,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31727,
+      "num": 183704,
+      "word": "酒店回应安装面积约20平方米大电梯",
+      "onboard_time": 1757348422,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29819,
+      "num": 183565,
+      "word": "于适栩栩华生红毯造型",
+      "onboard_time": 1757352076,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12486,
