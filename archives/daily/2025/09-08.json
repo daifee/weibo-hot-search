@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757327303563,
+  "endTime": 1757328281961,
   "band_list": [
     {
       "raw_hot": 7939532,
@@ -219,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 654888,
+      "num": 654888,
+      "word": "女子20元彩票刮中100万激动尖叫",
+      "onboard_time": 1757325142,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624966,
       "num": 624966,
       "word": "花2元买彩票中了1000万",
@@ -291,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 490716,
-      "num": 490716,
-      "word": "女子20元彩票刮中100万激动尖叫",
-      "onboard_time": 1757325142,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 493833,
+      "num": 493833,
+      "word": "我和鹿晗何曾有过嫌隙",
+      "onboard_time": 1757323882,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 472866,
@@ -305,14 +313,6 @@
       "onboard_time": 1757297302,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471179,
-      "num": 471179,
-      "word": "我和鹿晗何曾有过嫌隙",
-      "onboard_time": 1757323882,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 448397,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 370972,
-      "num": 258103,
+      "num": 286976,
       "word": "许荔莎回应聊天截图是假的",
       "onboard_time": 1757325922,
       "rank": 13,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327576,
+      "num": 327576,
+      "word": "AL对战WBG",
+      "onboard_time": 1757315782,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326910,
       "num": 326910,
       "word": "九门全阵容官宣",
@@ -627,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295524,
+      "num": 295524,
+      "word": "鹿晗澳门",
+      "onboard_time": 1757326761,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 293159,
       "num": 293159,
       "word": "新生体面入学只需一个老爸",
@@ -641,6 +657,14 @@
       "onboard_time": 1757300844,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 276503,
+      "num": 276503,
+      "word": "瘦下来的卢昱晓",
+      "onboard_time": 1757327783,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272249,
@@ -795,6 +819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214427,
+      "num": 227811,
+      "word": "多地违规向死亡人员发放养老金",
+      "onboard_time": 1757323164,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214295,
       "num": 217847,
       "word": "胡先煦 我有一点点无语",
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 212836,
-      "num": 212836,
+      "num": 243357,
       "word": "这就是街舞还有没有苏新皓",
       "onboard_time": 1757324542,
       "rank": 46,
@@ -849,14 +881,6 @@
       "onboard_time": 1757317103,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 206525,
-      "num": 212327,
-      "word": "鹿晗澳门",
-      "onboard_time": 1757326761,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 206395,
@@ -971,20 +995,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200153,
+      "num": 200153,
+      "word": "纸包排骨",
+      "onboard_time": 1757326042,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198681,
       "num": 198681,
       "word": "迪丽热巴虽然不能同时拥有一切开机",
       "onboard_time": 1757307865,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198323,
-      "num": 148573,
-      "word": "纸包排骨",
-      "onboard_time": 1757326042,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 197537,
@@ -1235,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179606,
+      "num": 232977,
+      "word": "这就是街舞",
+      "onboard_time": 1757327482,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178868,
       "num": 178868,
       "word": "入青云",
@@ -1467,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152307,
-      "num": 152307,
-      "word": "多地违规向死亡人员发放养老金",
-      "onboard_time": 1757323164,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151913,
       "num": 151913,
       "word": "王赫野垫肩从肩跑到了腰",
@@ -1563,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146990,
-      "num": 146990,
-      "word": "AL对战WBG",
-      "onboard_time": 1757315782,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 146642,
       "num": 146642,
       "word": "A股机器人板块拉升",
@@ -1595,12 +1611,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144985,
+      "num": 150335,
+      "word": "又吃到杨洋的古装细糠了",
+      "onboard_time": 1757327123,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144799,
       "num": 144799,
       "word": "分析称300多名韩国人被抓或只是开始",
       "onboard_time": 1757295500,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144701,
+      "num": 144701,
+      "word": "小猫把乳牙放在了我枕头旁",
+      "onboard_time": 1757327422,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 143789,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1757312902,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135855,
+      "num": 135855,
+      "word": "带背屏的iPhone17",
+      "onboard_time": 1757323164,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 135148,
@@ -1907,6 +1947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125661,
+      "num": 125661,
+      "word": "阅兵坦克里有近100个按钮",
+      "onboard_time": 1757327181,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125238,
       "num": 125238,
       "word": "杨笠把脱口秀专场开进了体育馆",
@@ -2019,12 +2067,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "陈都灵 纯白茉莉花",
+      "onboard_time": 1757327123,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119132,
       "num": 119132,
       "word": "马柏全 挑染",
       "onboard_time": 1757316623,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118042,
+      "num": 118042,
+      "word": "被中方制裁日本参议员生于中国",
+      "onboard_time": 1757326342,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118013,
@@ -2259,22 +2323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104252,
-      "num": 104252,
-      "word": "带背屏的iPhone17",
-      "onboard_time": 1757323164,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 103200,
-      "num": 103200,
-      "word": "陈都灵 纯白茉莉花",
-      "onboard_time": 1757327123,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102865,
       "num": 326985,
       "word": "迪丽热巴星光飘带礼服太仙了",
@@ -2313,14 +2361,6 @@
       "onboard_time": 1757289862,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101458,
-      "num": 101458,
-      "word": "又吃到杨洋的古装细糠了",
-      "onboard_time": 1757327123,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 101355,
@@ -2435,20 +2475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92430,
-      "num": 97944,
-      "word": "阅兵坦克里有近100个按钮",
-      "onboard_time": 1757327181,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 90816,
       "num": 540533,
       "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
       "onboard_time": 1757287579,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90069,
+      "num": 90069,
+      "word": "周深加盟总台音乐人才选拔节目",
+      "onboard_time": 1757328262,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 90054,
@@ -2667,20 +2707,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69391,
+      "num": 123814,
+      "word": "叶童回应老公暴瘦",
+      "onboard_time": 1757327542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67005,
       "num": 198867,
       "word": "男子应聘高薪司机却背上17万贷款",
       "onboard_time": 1757304144,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 66148,
-      "num": 114643,
-      "word": "被中方制裁日本参议员生于中国",
-      "onboard_time": 1757326342,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65507,
@@ -2897,6 +2937,14 @@
       "onboard_time": 1757253802,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 34532,
+      "num": 123711,
+      "word": "殷世航回应澳门赌博",
+      "onboard_time": 1757328143,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 34125,

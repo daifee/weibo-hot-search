@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757327303563,
+  "endTime": 1757328281961,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2459,6 +2459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 654888,
+      "num": 654888,
+      "word": "女子20元彩票刮中100万激动尖叫",
+      "onboard_time": 1757325142,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 652520,
       "num": 652520,
       "word": "一觉醒来郭帆白改了",
@@ -3443,6 +3451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 493833,
+      "num": 493833,
+      "word": "我和鹿晗何曾有过嫌隙",
+      "onboard_time": 1757323882,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 493425,
       "num": 239011,
       "word": "特朗普称中俄朝密谋对抗美国",
@@ -3473,14 +3489,6 @@
       "onboard_time": 1757052441,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 490716,
-      "num": 490716,
-      "word": "女子20元彩票刮中100万激动尖叫",
-      "onboard_time": 1757325142,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 490474,
@@ -3665,14 +3673,6 @@
       "onboard_time": 1757155881,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471179,
-      "num": 471179,
-      "word": "我和鹿晗何曾有过嫌隙",
-      "onboard_time": 1757323882,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 468625,
@@ -4852,7 +4852,7 @@
     },
     {
       "raw_hot": 370972,
-      "num": 258103,
+      "num": 286976,
       "word": "许荔莎回应聊天截图是假的",
       "onboard_time": 1757325922,
       "rank": 13,
@@ -5547,6 +5547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327576,
+      "num": 327576,
+      "word": "AL对战WBG",
+      "onboard_time": 1757315782,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326942,
       "num": 326942,
       "word": "王毅送匈牙利外长中国跑鞋",
@@ -6075,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295524,
+      "num": 295524,
+      "word": "鹿晗澳门",
+      "onboard_time": 1757326761,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 295125,
       "num": 211087,
       "word": "蔚来财报",
@@ -6401,6 +6417,14 @@
       "onboard_time": 1756812861,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 276503,
+      "num": 276503,
+      "word": "瘦下来的卢昱晓",
+      "onboard_time": 1757327783,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276351,
@@ -7787,6 +7811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 214427,
+      "num": 227811,
+      "word": "多地违规向死亡人员发放养老金",
+      "onboard_time": 1757323164,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214295,
       "num": 217847,
       "word": "胡先煦 我有一点点无语",
@@ -7836,7 +7868,7 @@
     },
     {
       "raw_hot": 212836,
-      "num": 212836,
+      "num": 243357,
       "word": "这就是街舞还有没有苏新皓",
       "onboard_time": 1757324542,
       "rank": 46,
@@ -8089,14 +8121,6 @@
       "onboard_time": 1756859903,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 206525,
-      "num": 212327,
-      "word": "鹿晗澳门",
-      "onboard_time": 1757326761,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 206395,
@@ -8411,6 +8435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200153,
+      "num": 200153,
+      "word": "纸包排骨",
+      "onboard_time": 1757326042,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 200073,
       "num": 200073,
       "word": "终于知道结婚后为啥容易变胖了",
@@ -8545,14 +8577,6 @@
       "onboard_time": 1757307865,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198323,
-      "num": 148573,
-      "word": "纸包排骨",
-      "onboard_time": 1757326042,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 197979,
@@ -9776,6 +9800,14 @@
       "word": "亲密关系中隐藏的情绪暴力",
       "onboard_time": 1757213600,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179606,
+      "num": 232977,
+      "word": "这就是街舞",
+      "onboard_time": 1757327482,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -11795,14 +11827,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 152307,
-      "num": 152307,
-      "word": "多地违规向死亡人员发放养老金",
-      "onboard_time": 1757323164,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152280,
       "num": 152280,
       "word": "王楚钦说感受到了强大的力量",
@@ -12355,14 +12379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146990,
-      "num": 146990,
-      "word": "AL对战WBG",
-      "onboard_time": 1757315782,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 146897,
       "num": 146897,
       "word": "无畏整点朦胧的",
@@ -12587,6 +12603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144985,
+      "num": 150335,
+      "word": "又吃到杨洋的古装细糠了",
+      "onboard_time": 1757327123,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144936,
       "num": 144936,
       "word": "金铲铲官宣9月25日正式登陆鸿蒙5",
@@ -12609,6 +12633,14 @@
       "onboard_time": 1757146641,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144701,
+      "num": 144701,
+      "word": "小猫把乳牙放在了我枕头旁",
+      "onboard_time": 1757327422,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 144696,
@@ -13513,6 +13545,14 @@
       "onboard_time": 1757248582,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135855,
+      "num": 135855,
+      "word": "带背屏的iPhone17",
+      "onboard_time": 1757323164,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 135803,
@@ -14587,6 +14627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125661,
+      "num": 125661,
+      "word": "阅兵坦克里有近100个按钮",
+      "onboard_time": 1757327181,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125592,
       "num": 125592,
       "word": "川超真来了",
@@ -15363,6 +15411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "陈都灵 纯白茉莉花",
+      "onboard_time": 1757327123,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119766,
       "num": 119766,
       "word": "樊振东德语回应德甲首胜",
@@ -15569,6 +15625,14 @@
       "onboard_time": 1756949121,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118042,
+      "num": 118042,
+      "word": "被中方制裁日本参议员生于中国",
+      "onboard_time": 1757326342,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118013,
@@ -17475,14 +17539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104252,
-      "num": 104252,
-      "word": "带背屏的iPhone17",
-      "onboard_time": 1757323164,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 104246,
       "num": 104246,
       "word": "中国银联终止花旗银行成员资格",
@@ -17585,14 +17641,6 @@
       "onboard_time": 1757154800,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 103200,
-      "num": 103200,
-      "word": "陈都灵 纯白茉莉花",
-      "onboard_time": 1757327123,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 103183,
@@ -17849,14 +17897,6 @@
       "onboard_time": 1756731683,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101458,
-      "num": 101458,
-      "word": "又吃到杨洋的古装细糠了",
-      "onboard_time": 1757327123,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 101355,
@@ -18987,14 +19027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 92430,
-      "num": 97944,
-      "word": "阅兵坦克里有近100个按钮",
-      "onboard_time": 1757327181,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 92419,
       "num": 92419,
       "word": "这个故事中国人信了几千年",
@@ -19225,6 +19257,14 @@
       "onboard_time": 1757154382,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90069,
+      "num": 90069,
+      "word": "周深加盟总台音乐人才选拔节目",
+      "onboard_time": 1757328262,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 90054,
@@ -21131,6 +21171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69391,
+      "num": 123814,
+      "word": "叶童回应老公暴瘦",
+      "onboard_time": 1757327542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69135,
       "num": 173491,
       "word": "麸质过敏 情绪反应",
@@ -21313,14 +21361,6 @@
       "onboard_time": 1756769779,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 66148,
-      "num": 114643,
-      "word": "被中方制裁日本参议员生于中国",
-      "onboard_time": 1757326342,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66081,
@@ -22969,6 +23009,14 @@
       "onboard_time": 1756667774,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34532,
+      "num": 123711,
+      "word": "殷世航回应澳门赌博",
+      "onboard_time": 1757328143,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 34125,
