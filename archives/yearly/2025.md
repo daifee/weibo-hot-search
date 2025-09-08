@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/08 10:16:58
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/08 11:12:18
 </p>
 </blockquote>
 <p>
@@ -1191,6 +1191,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%AE%B8%E5%87%AF%E9%95%BF%E6%9C%9F%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A%23" target="weibo">
+曝许凯长期聚众赌博（热度：7939532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD3.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 成都3.9级地震（热度：7936216）
 </a>
@@ -1595,12 +1601,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9F%90%E9%9B%AA%E6%9C%89%E4%B8%A5%E9%87%8D%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D%23" target="weibo">
 李某雪有严重精神障碍（热度：4871233）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%AE%B8%E5%87%AF%E9%95%BF%E6%9C%9F%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A%23" target="weibo">
-曝许凯长期聚众赌博（热度：4867898）
 </a>
 </li>
 

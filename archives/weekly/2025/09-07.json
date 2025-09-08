@@ -1,10 +1,10 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757297818086,
+  "endTime": 1757301138939,
   "band_list": [
     {
-      "raw_hot": 4867898,
-      "num": 4867898,
+      "raw_hot": 7939532,
+      "num": 7939532,
       "word": "曝许凯长期聚众赌博",
       "onboard_time": 1757296520,
       "rank": 4,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1229511,
+      "num": 454901,
+      "word": "疑似白敬亭宋轶分手了",
+      "onboard_time": 1757298322,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1217927,
       "num": 370778,
       "word": "女子在泰被沉尸胸部假体印中文",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 806816,
-      "num": 326881,
+      "num": 371545,
       "word": "许凯横店豪宅私设赌场",
       "onboard_time": 1757297002,
       "rank": 5,
@@ -393,6 +401,22 @@
       "onboard_time": 1757164103,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 613094,
+      "num": 280429,
+      "word": "麦当劳过夜现状",
+      "onboard_time": 1757296582,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608138,
+      "num": 273478,
+      "word": "小袁回应说胡楚靓口臭",
+      "onboard_time": 1757296881,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 587116,
@@ -523,14 +547,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 467960,
-      "num": 273493,
-      "word": "麦当劳过夜现状",
-      "onboard_time": 1757296582,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 464327,
       "num": 286423,
       "word": "关晓彤ins晒比基尼照",
@@ -619,6 +635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 421733,
+      "num": 421733,
+      "word": "大批韩国人在美被拴铁链带走",
+      "onboard_time": 1757296944,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 418995,
       "num": 382325,
       "word": "赵磊担心老婆上节目面对不好的声音",
@@ -657,6 +681,14 @@
       "onboard_time": 1757294001,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388448,
+      "num": 388448,
+      "word": "班主任严肃制止学生传播网络烂梗",
+      "onboard_time": 1757295081,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385497,
@@ -763,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 352033,
+      "num": 266473,
+      "word": "Metal 田栩宁",
+      "onboard_time": 1757300783,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350646,
       "num": 350646,
       "word": "女子赴美生子去世俩孩子生父成谜",
@@ -772,7 +812,7 @@
     },
     {
       "raw_hot": 346246,
-      "num": 212418,
+      "num": 219816,
       "word": "网红账号发120多条偷拍视频",
       "onboard_time": 1757297363,
       "rank": 20,
@@ -859,12 +899,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 315789,
-      "num": 270391,
-      "word": "小袁回应说胡楚靓口臭",
-      "onboard_time": 1757296881,
-      "rank": 14,
-      "category": "网红"
+      "raw_hot": 316365,
+      "num": 316365,
+      "word": "优酷年度片单",
+      "onboard_time": 1757297302,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 315449,
@@ -873,6 +913,14 @@
       "onboard_time": 1757244442,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311624,
+      "num": 263005,
+      "word": "梓渝 toodeep",
+      "onboard_time": 1757297903,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 310510,
@@ -889,14 +937,6 @@
       "onboard_time": 1757215222,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306623,
-      "num": 158704,
-      "word": "大批韩国人在美被拴铁链带走",
-      "onboard_time": 1757296944,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 305952,
@@ -987,12 +1027,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 293293,
+      "num": 260862,
+      "word": "辛芷蕾影后回国",
+      "onboard_time": 1757297002,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285742,
       "num": 285742,
       "word": "九门官宣节奏",
       "onboard_time": 1757256444,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284048,
+      "num": 284048,
+      "word": "对日本参议员石平采取反制措施",
+      "onboard_time": 1757299283,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 282332,
@@ -1019,11 +1075,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 279529,
-      "num": 279529,
-      "word": "班主任严肃制止学生传播网络烂梗",
-      "onboard_time": 1757295081,
-      "rank": 21,
+      "raw_hot": 269819,
+      "num": 314134,
+      "word": "红月亮在午夜朋友圈刷屏",
+      "onboard_time": 1757295140,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1033,14 +1089,6 @@
       "onboard_time": 1757168185,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267894,
-      "num": 314134,
-      "word": "红月亮在午夜朋友圈刷屏",
-      "onboard_time": 1757295140,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264492,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1757214561,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 246603,
+      "num": 246603,
+      "word": "梓渝MV编舞刘隽",
+      "onboard_time": 1757299944,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 245226,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1757254042,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232349,
+      "num": 232349,
+      "word": "韩国将实行小学生家长10点上班制",
+      "onboard_time": 1757299582,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 231097,
@@ -1211,14 +1275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 209545,
-      "num": 209545,
-      "word": "优酷年度片单",
-      "onboard_time": 1757297302,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208451,
       "num": 208451,
       "word": "张桂源 库男神我终于和你见面了",
@@ -1259,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201026,
+      "num": 201026,
+      "word": "这小狗是要跻身时尚圈了吗",
+      "onboard_time": 1757300482,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200417,
       "num": 200417,
       "word": "迈凯伦",
@@ -1291,20 +1355,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198746,
+      "num": 198746,
+      "word": "成都被诬陷地铁偷拍男子二审仍求道歉",
+      "onboard_time": 1757299462,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197979,
       "num": 197979,
       "word": "被朱珠四分钟脱口秀秀到了",
       "onboard_time": 1757234363,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196996,
-      "num": 196996,
-      "word": "辛芷蕾影后回国",
-      "onboard_time": 1757297002,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 196410,
@@ -1339,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194339,
+      "num": 194339,
+      "word": "第十二批在韩志愿军烈士遗骸即将回国",
+      "onboard_time": 1757299702,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193342,
       "num": 172519,
       "word": "在中国这个东西是用来占座的",
@@ -1363,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192674,
+      "num": 192674,
+      "word": "谍报上不封顶凭栏独望海报",
+      "onboard_time": 1757300184,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192323,
       "num": 233487,
       "word": "老人猥亵女性因高龄患绝症未被拘留",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1757294781,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191098,
+      "num": 191098,
+      "word": "田曦薇新剧我斗我自己",
+      "onboard_time": 1757300783,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 189542,
@@ -1467,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181544,
+      "num": 282284,
+      "word": "最圆最红的红月亮来了",
+      "onboard_time": 1757300603,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181062,
       "num": 181062,
       "word": "澳门冠军赛",
@@ -1547,12 +1643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175187,
+      "num": 175187,
+      "word": "两个时段饿一饿脾胃更好",
+      "onboard_time": 1757299582,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174350,
       "num": 168641,
       "word": "张晚意 内核强大又自洽",
       "onboard_time": 1757213600,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173610,
+      "num": 173610,
+      "word": "朱一龙提名金熊猫影帝",
+      "onboard_time": 1757300663,
+      "rank": 31,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 173077,
@@ -1641,6 +1753,14 @@
       "onboard_time": 1757229443,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166181,
+      "num": 166181,
+      "word": "普京与金正恩喝茶画面",
+      "onboard_time": 1757300844,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164504,
@@ -1795,6 +1915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156341,
+      "num": 156341,
+      "word": "电影志愿军系列终章定档国庆",
+      "onboard_time": 1757299644,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156234,
       "num": 156234,
       "word": "张远 开不开心",
@@ -1913,6 +2041,14 @@
       "onboard_time": 1757253383,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150414,
+      "num": 150414,
+      "word": "一组数字展现抗美援朝谈判交锋",
+      "onboard_time": 1757299283,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150295,
@@ -2043,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143418,
+      "num": 143418,
+      "word": "剑网3",
+      "onboard_time": 1757300423,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142382,
       "num": 142382,
       "word": "以色列拦截胡塞武装无人机失败",
@@ -2171,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138030,
+      "num": 138030,
+      "word": "唐宫奇案",
+      "onboard_time": 1757299524,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137865,
       "num": 137865,
       "word": "特朗普误将美国国旗当毯子",
@@ -2201,6 +2353,14 @@
       "onboard_time": 1757235501,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136867,
+      "num": 136867,
+      "word": "志愿军",
+      "onboard_time": 1757299644,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136679,
@@ -2339,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130716,
+      "num": 130716,
+      "word": "高中生玩游戏成瘾3个月内瘦了8斤",
+      "onboard_time": 1757300663,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130508,
       "num": 130508,
       "word": "蒋一侨爆料自己爸爸怕老婆",
@@ -2403,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127750,
+      "num": 127750,
+      "word": "入青云",
+      "onboard_time": 1757300844,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127574,
       "num": 127574,
       "word": "2025PEL夏决晋级名单",
@@ -2427,6 +2603,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 127044,
+      "num": 169100,
+      "word": "胡楚靓前男友半夜按门铃",
+      "onboard_time": 1757297842,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126572,
       "num": 163108,
       "word": "遥感四十号03组卫星发射成功",
@@ -2441,6 +2625,22 @@
       "onboard_time": 1757214321,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125857,
+      "num": 125857,
+      "word": "动物不刷牙为什么不会蛀牙",
+      "onboard_time": 1757299824,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 125685,
+      "num": 125685,
+      "word": "第五人格",
+      "onboard_time": 1757299344,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 125371,
@@ -2969,6 +3169,14 @@
       "onboard_time": 1757203580,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108890,
+      "num": 108890,
+      "word": "安卓手机用户截图belike",
+      "onboard_time": 1757301083,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 108574,
@@ -3820,7 +4028,7 @@
     },
     {
       "raw_hot": 70604,
-      "num": 213684,
+      "num": 253743,
       "word": "秋天的第一场秒杀",
       "onboard_time": 1757297002,
       "rank": 19,
@@ -4011,6 +4219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51402,
+      "num": 255694,
+      "word": "顶流外媒盛赞中国电混",
+      "onboard_time": 1757300603,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50356,
       "num": 113234,
       "word": "中国大使馆直接点名菲防长",
@@ -4153,6 +4369,14 @@
       "onboard_time": 1757182936,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34999,
+      "num": 248446,
+      "word": "陈妍希人生第一次智驾是开小鹏P7",
+      "onboard_time": 1757300603,
+      "rank": 19,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 33046,

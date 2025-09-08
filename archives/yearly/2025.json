@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1757297818086,
+  "endTime": 1757301138939,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1571,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7939532,
+      "num": 7939532,
+      "word": "曝许凯长期聚众赌博",
+      "onboard_time": 1757296520,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7936216,
       "num": 9186216,
       "word": "成都3.9级地震",
@@ -2113,14 +2121,6 @@
       "onboard_time": 1736560758,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4867898,
-      "num": 4867898,
-      "word": "曝许凯长期聚众赌博",
-      "onboard_time": 1757296520,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 4866007,
