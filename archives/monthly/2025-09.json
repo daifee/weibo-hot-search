@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757302153552,
+  "endTime": 1757303552374,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -795,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1403341,
+      "num": 535884,
+      "word": "疑似白敬亭宋轶分手了",
+      "onboard_time": 1757298322,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1396890,
       "num": 1396890,
       "word": "韩国人被中国阅兵直播震惊",
@@ -937,14 +945,6 @@
       "onboard_time": 1756996344,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1269880,
-      "num": 535884,
-      "word": "疑似白敬亭宋轶分手了",
-      "onboard_time": 1757298322,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1269017,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1756787122,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1114250,
+      "num": 316315,
+      "word": "花少公开祝贺辛芷蕾第一人",
+      "onboard_time": 1757301623,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1085535,
@@ -3171,14 +3179,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 513913,
-      "num": 279720,
-      "word": "花少公开祝贺辛芷蕾第一人",
-      "onboard_time": 1757301623,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 511801,
       "num": 511801,
       "word": "泰版三十而已林有有",
@@ -4051,6 +4051,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 424909,
+      "num": 316365,
+      "word": "优酷年度片单",
+      "onboard_time": 1757297302,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 424195,
       "num": 398554,
       "word": "花少7时长统计",
@@ -4417,14 +4425,6 @@
       "onboard_time": 1756859124,
       "rank": 25,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 387181,
-      "num": 316365,
-      "word": "优酷年度片单",
-      "onboard_time": 1757297302,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 386240,
@@ -5219,6 +5219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 329135,
+      "num": 329135,
+      "word": "韩国将实行小学生家长10点上班制",
+      "onboard_time": 1757299582,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 328681,
       "num": 257382,
       "word": "普京称若谈判无果将以武力解决",
@@ -5955,6 +5963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284388,
+      "num": 284388,
+      "word": "普京与金正恩喝茶画面",
+      "onboard_time": 1757300844,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 284225,
       "num": 284225,
       "word": "全国肥胖率分布地图出炉",
@@ -6291,14 +6307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 266817,
-      "num": 266817,
-      "word": "普京与金正恩喝茶画面",
-      "onboard_time": 1757300844,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 266167,
       "num": 266167,
       "word": "美国战争部",
@@ -6387,6 +6395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 258823,
+      "num": 258823,
+      "word": "徐正溪友情出演九门",
+      "onboard_time": 1757302402,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257603,
       "num": 257603,
       "word": "梓渝MV编舞刘隽",
@@ -6473,6 +6489,14 @@
       "onboard_time": 1756879886,
       "rank": 44,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 253584,
+      "num": 253584,
+      "word": "敖瑞鹏孙珍妮海报",
+      "onboard_time": 1757302164,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 253521,
@@ -6777,14 +6801,6 @@
       "onboard_time": 1756833497,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240382,
-      "num": 240382,
-      "word": "韩国将实行小学生家长10点上班制",
-      "onboard_time": 1757299582,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 240124,
@@ -7161,6 +7177,14 @@
       "onboard_time": 1757149941,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225952,
+      "num": 225952,
+      "word": "娱乐圈终于开始拍查税剧了",
+      "onboard_time": 1757301381,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 225761,
@@ -7705,6 +7729,14 @@
       "onboard_time": 1756974743,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205870,
+      "num": 205870,
+      "word": "宋妍霏闺蜜上恋综了",
+      "onboard_time": 1757302644,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 204908,
@@ -8499,6 +8531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190294,
+      "num": 190294,
+      "word": "肖战任少白阶下暗潮汹涌",
+      "onboard_time": 1757303063,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190186,
       "num": 190186,
       "word": "黑白局开播",
@@ -8963,6 +9003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181850,
+      "num": 181850,
+      "word": "陈伟霆一出场张大佛爷这味就对了",
+      "onboard_time": 1757301922,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181728,
       "num": 181728,
       "word": "张艺凡一胳膊能搂四个姐姐",
@@ -9169,6 +9217,14 @@
       "onboard_time": 1757257883,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178121,
+      "num": 178121,
+      "word": "柬埔寨女骑士车祸身亡",
+      "onboard_time": 1757303304,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 178110,
@@ -10659,6 +10715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155637,
+      "num": 155637,
+      "word": "特朗普回应石破茂辞职",
+      "onboard_time": 1757301683,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155500,
       "num": 155500,
       "word": "邵子恒 毛衣欧巴",
@@ -10873,6 +10937,14 @@
       "onboard_time": 1757234421,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153253,
+      "num": 153253,
+      "word": "高中生玩游戏成瘾3个月内瘦了8斤",
+      "onboard_time": 1757300663,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153074,
@@ -11211,6 +11283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149657,
+      "num": 149657,
+      "word": "陆毅鲍蕾吵架竟是因为通宵上网",
+      "onboard_time": 1757303304,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149651,
       "num": 310377,
       "word": "时空对话版不屈看哭了",
@@ -11249,14 +11329,6 @@
       "onboard_time": 1757070680,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149049,
-      "num": 149049,
-      "word": "特朗普回应石破茂辞职",
-      "onboard_time": 1757301683,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 148795,
@@ -11441,14 +11513,6 @@
       "onboard_time": 1757079923,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147011,
-      "num": 147011,
-      "word": "娱乐圈终于开始拍查税剧了",
-      "onboard_time": 1757301381,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 146998,
@@ -11745,14 +11809,6 @@
       "onboard_time": 1757232742,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143977,
-      "num": 143977,
-      "word": "高中生玩游戏成瘾3个月内瘦了8斤",
-      "onboard_time": 1757300663,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143835,
@@ -12211,6 +12267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138953,
+      "num": 138953,
+      "word": "00后还有5年就30岁了",
+      "onboard_time": 1757302463,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138701,
       "num": 138701,
       "word": "徐艺洋说和黄子韬第一次见面有种宿命感",
@@ -12585,6 +12649,14 @@
       "onboard_time": 1757059522,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135148,
+      "num": 135148,
+      "word": "陈伟霆曾舜晞九门半裸泡澡",
+      "onboard_time": 1757302944,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 135100,
@@ -17979,6 +18051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88133,
+      "num": 156042,
+      "word": "从没吃过生日蛋糕的男孩去上大学了",
+      "onboard_time": 1757302883,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88025,
       "num": 121264,
       "word": "中国短道速滑剑指新赛季",
@@ -18441,6 +18521,14 @@
       "onboard_time": 1757076921,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 84286,
+      "num": 183019,
+      "word": "出租房甲醛超标退租要扣4万8",
+      "onboard_time": 1757302343,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84109,
@@ -18969,6 +19057,14 @@
       "onboard_time": 1756979122,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78601,
+      "num": 155809,
+      "word": "NASA登月被质疑",
+      "onboard_time": 1757302583,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 78568,
@@ -19843,14 +19939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65548,
-      "num": 133709,
-      "word": "陈伟霆一出场张大佛爷这味就对了",
-      "onboard_time": 1757301922,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 65545,
       "num": 99224,
       "word": "随爷爷砍竹子失踪5岁男童仍未找到",
@@ -19937,6 +20025,14 @@
       "onboard_time": 1757187616,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 63787,
+      "num": 155683,
+      "word": "272万网民选的军训服改良版穿上了",
+      "onboard_time": 1757303183,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63563,
@@ -20105,6 +20201,14 @@
       "onboard_time": 1757183955,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61313,
+      "num": 181696,
+      "word": "超50家砖厂强迫400名智障工人劳动",
+      "onboard_time": 1757303365,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 61182,
@@ -20707,12 +20811,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50683,
+      "num": 254996,
+      "word": "陈妍希人生第一次智驾是开小鹏P7",
+      "onboard_time": 1757300603,
+      "rank": 19,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 50474,
       "num": 50474,
       "word": "核导弹方队震撼登场",
       "onboard_time": 1756935254,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50383,
+      "num": 179518,
+      "word": "想入军迷圈的现在正是好时候",
+      "onboard_time": 1757299524,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50356,
@@ -20881,14 +21001,6 @@
       "onboard_time": 1756795220,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47305,
-      "num": 248446,
-      "word": "陈妍希人生第一次智驾是开小鹏P7",
-      "onboard_time": 1757300603,
-      "rank": 19,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 47046,

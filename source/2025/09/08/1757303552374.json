@@ -1,0 +1,410 @@
+{
+  "runTime": 1757303552374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7351724,
+        "num": 7351724,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641533,
+        "num": 641533,
+        "word": "男子忘关火27天后回家才发现",
+        "onboard_time": 1757284936,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68531,
+        "num": 508152,
+        "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
+        "onboard_time": 1757287579,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1403341,
+        "num": 508044,
+        "word": "疑似白敬亭宋轶分手了",
+        "onboard_time": 1757298322,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444058,
+        "num": 444058,
+        "word": "大批韩国人在美被拴铁链带走",
+        "onboard_time": 1757296944,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329135,
+        "num": 329135,
+        "word": "韩国将实行小学生家长10点上班制",
+        "onboard_time": 1757299582,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1114250,
+        "num": 316315,
+        "word": "花少公开祝贺辛芷蕾第一人",
+        "onboard_time": 1757301623,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424909,
+        "num": 314841,
+        "word": "优酷年度片单",
+        "onboard_time": 1757297302,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301843,
+        "num": 301843,
+        "word": "对日本参议员石平采取反制措施",
+        "onboard_time": 1757299283,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284388,
+        "num": 284388,
+        "word": "普京与金正恩喝茶画面",
+        "onboard_time": 1757300844,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 704966,
+        "num": 281883,
+        "word": "Metal 田栩宁",
+        "onboard_time": 1757300783,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575960,
+        "num": 277344,
+        "word": "小袁回应说胡楚靓口臭",
+        "onboard_time": 1757296881,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 570663,
+        "num": 274622,
+        "word": "麦当劳过夜现状",
+        "onboard_time": 1757296582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392567,
+        "num": 268697,
+        "word": "小袁 胡楚靓",
+        "onboard_time": 1757291244,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321207,
+        "num": 263568,
+        "word": "辛芷蕾影后回国",
+        "onboard_time": 1757297002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296900,
+        "num": 261982,
+        "word": "最圆最红的红月亮来了",
+        "onboard_time": 1757300603,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259008,
+        "num": 259008,
+        "word": "班主任严肃制止学生传播网络烂梗",
+        "onboard_time": 1757295081,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258823,
+        "num": 258823,
+        "word": "徐正溪友情出演九门",
+        "onboard_time": 1757302402,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50683,
+        "num": 254996,
+        "word": "陈妍希人生第一次智驾是开小鹏P7",
+        "onboard_time": 1757300603,
+        "rank": 18,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 50316,
+        "num": 254240,
+        "word": "顶流外媒盛赞中国电混",
+        "onboard_time": 1757300603,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 253584,
+        "num": 253584,
+        "word": "敖瑞鹏孙珍妮海报",
+        "onboard_time": 1757302164,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225952,
+        "num": 225952,
+        "word": "娱乐圈终于开始拍查税剧了",
+        "onboard_time": 1757301381,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216554,
+        "num": 216554,
+        "word": "田曦薇新剧我斗我自己",
+        "onboard_time": 1757300783,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205870,
+        "num": 205870,
+        "word": "宋妍霏闺蜜上恋综了",
+        "onboard_time": 1757302644,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203747,
+        "num": 203747,
+        "word": "梓渝MV编舞刘隽",
+        "onboard_time": 1757299944,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203133,
+        "num": 203133,
+        "word": "成都被诬陷地铁偷拍男子二审仍求道歉",
+        "onboard_time": 1757299462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198465,
+        "num": 198465,
+        "word": "这些劣质碳水真的要少吃",
+        "onboard_time": 1757290822,
+        "rank": 26,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 190294,
+        "num": 190294,
+        "word": "肖战任少白阶下暗潮汹涌",
+        "onboard_time": 1757303063,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185974,
+        "num": 185974,
+        "word": "红月亮在午夜朋友圈刷屏",
+        "onboard_time": 1757295140,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84286,
+        "num": 183019,
+        "word": "出租房甲醛超标退租要扣4万8",
+        "onboard_time": 1757302343,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181850,
+        "num": 181850,
+        "word": "陈伟霆一出场张大佛爷这味就对了",
+        "onboard_time": 1757301922,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61313,
+        "num": 181696,
+        "word": "超50家砖厂强迫400名智障工人劳动",
+        "onboard_time": 1757303365,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 181588,
+        "num": 181588,
+        "word": "第十二批在韩志愿军烈士遗骸即将回国",
+        "onboard_time": 1757299702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50383,
+        "num": 179518,
+        "word": "想入军迷圈的现在正是好时候",
+        "onboard_time": 1757299524,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179504,
+        "num": 179504,
+        "word": "李沁披麻袋都好看",
+        "onboard_time": 1757301263,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178121,
+        "num": 178121,
+        "word": "柬埔寨女骑士车祸身亡",
+        "onboard_time": 1757303304,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161768,
+        "num": 161768,
+        "word": "变形计张迪自曝女友是一线女明星",
+        "onboard_time": 1757286979,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88133,
+        "num": 156042,
+        "word": "从没吃过生日蛋糕的男孩去上大学了",
+        "onboard_time": 1757302883,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78601,
+        "num": 155809,
+        "word": "NASA登月被质疑",
+        "onboard_time": 1757302583,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63787,
+        "num": 155683,
+        "word": "272万网民选的军训服改良版穿上了",
+        "onboard_time": 1757303183,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155637,
+        "num": 155637,
+        "word": "特朗普回应石破茂辞职",
+        "onboard_time": 1757301683,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154402,
+        "num": 154402,
+        "word": "电视剧谷雨全阵容官宣",
+        "onboard_time": 1757301683,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153253,
+        "num": 153253,
+        "word": "高中生玩游戏成瘾3个月内瘦了8斤",
+        "onboard_time": 1757300663,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149657,
+        "num": 149657,
+        "word": "陆毅鲍蕾吵架竟是因为通宵上网",
+        "onboard_time": 1757303304,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144182,
+        "num": 144182,
+        "word": "网红账号发120多条偷拍视频",
+        "onboard_time": 1757297363,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138953,
+        "num": 138953,
+        "word": "00后还有5年就30岁了",
+        "onboard_time": 1757302463,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135900,
+        "num": 135900,
+        "word": "这小狗是要跻身时尚圈了吗",
+        "onboard_time": 1757300482,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135148,
+        "num": 135148,
+        "word": "陈伟霆曾舜晞九门半裸泡澡",
+        "onboard_time": 1757302944,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133164,
+        "num": 133164,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757294781,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130838,
+        "num": 130838,
+        "word": "金价",
+        "onboard_time": 1757303183,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席金砖国家领导人线上峰会#"
+    }
+  }
+}
