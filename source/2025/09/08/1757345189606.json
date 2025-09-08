@@ -1,0 +1,410 @@
+{
+  "runTime": 1757345189606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7207857,
+        "num": 7207857,
+        "word": "小米王腾因泄密被辞退",
+        "onboard_time": 1757343626,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1019348,
+        "num": 1019348,
+        "word": "王腾发博致歉",
+        "onboard_time": 1757345005,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20267,
+        "num": 962564,
+        "word": "58个中国工程被印在121枚世界货币上",
+        "onboard_time": 1757317103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 941069,
+        "num": 941069,
+        "word": "马龙坐在了倪妮井柏然中间",
+        "onboard_time": 1757342723,
+        "rank": 3,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 328790,
+        "num": 328790,
+        "word": "男子工资交女友分手要回遭拒",
+        "onboard_time": 1757335643,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 828961,
+        "num": 326768,
+        "word": "男子胃癌晚期发现10岁女儿非亲生",
+        "onboard_time": 1757333965,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538829,
+        "num": 323760,
+        "word": "毛晓彤被锁房间里了",
+        "onboard_time": 1757337682,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304303,
+        "num": 321607,
+        "word": "董璇谈张维伊大姑家规",
+        "onboard_time": 1757339123,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263270,
+        "num": 320593,
+        "word": "马龙 替我姥姥谢谢倪妮",
+        "onboard_time": 1757343744,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 191809,
+        "num": 317528,
+        "word": "女民兵为啥戴红色丝巾",
+        "onboard_time": 1757342844,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752910,
+        "num": 313917,
+        "word": "梓渝杂志",
+        "onboard_time": 1757341462,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 514624,
+        "num": 311484,
+        "word": "制片人称许凯下一部男主被换",
+        "onboard_time": 1757343626,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310915,
+        "num": 310915,
+        "word": "钟楚曦删了与侯雯元官宣博",
+        "onboard_time": 1757317823,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304677,
+        "num": 304677,
+        "word": "井柏然刘雯手牵手回酒店",
+        "onboard_time": 1757345125,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286410,
+        "num": 286410,
+        "word": "势界CEO",
+        "onboard_time": 1757335943,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252603,
+        "num": 252603,
+        "word": "周冬雨刘昊然同框",
+        "onboard_time": 1757343204,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248729,
+        "num": 248729,
+        "word": "锅圈食汇 蛆虫",
+        "onboard_time": 1757332883,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247897,
+        "num": 247897,
+        "word": "谁懂女生牛仔裤坐下鼓包的痛",
+        "onboard_time": 1757338464,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226460,
+        "num": 226460,
+        "word": "江西一居民多个月水费都是49.93元",
+        "onboard_time": 1757334805,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222966,
+        "num": 222966,
+        "word": "势界CEO发文感谢田栩宁粉丝",
+        "onboard_time": 1757336003,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616016,
+        "num": 220663,
+        "word": "许凯方否认赌博",
+        "onboard_time": 1757330723,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416009,
+        "num": 213892,
+        "word": "女子20元彩票刮中100万激动尖叫",
+        "onboard_time": 1757325142,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381407,
+        "num": 204700,
+        "word": "瘦下来的卢昱晓",
+        "onboard_time": 1757327783,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236078,
+        "num": 194646,
+        "word": "辛芷蕾原名",
+        "onboard_time": 1757328622,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194490,
+        "num": 194490,
+        "word": "赴山海OST",
+        "onboard_time": 1757344403,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177788,
+        "num": 177788,
+        "word": "这些祝福送给每一个追梦的你",
+        "onboard_time": 1757343085,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 170232,
+        "num": 170232,
+        "word": "沈佳润 原来内娱给我是这个定位",
+        "onboard_time": 1757334323,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156623,
+        "num": 156623,
+        "word": "天才女友造型师",
+        "onboard_time": 1757330662,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217245,
+        "num": 155767,
+        "word": "曝辛芷蕾团队工资",
+        "onboard_time": 1757321483,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154905,
+        "num": 154905,
+        "word": "欢娱律师声明",
+        "onboard_time": 1757330064,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145284,
+        "num": 145284,
+        "word": "粉丝围堵高铁站艺人真不知情吗",
+        "onboard_time": 1757345005,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134507,
+        "num": 134507,
+        "word": "娜扎 我要做这只蚊子",
+        "onboard_time": 1757331023,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130421,
+        "num": 130421,
+        "word": "马思纯美得好有生命力",
+        "onboard_time": 1757344645,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129464,
+        "num": 129464,
+        "word": "三四公里路程救护车开了30多分钟",
+        "onboard_time": 1757344403,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129228,
+        "num": 129228,
+        "word": "中医建议秋天吃6种白色食物",
+        "onboard_time": 1757337802,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129064,
+        "num": 129064,
+        "word": "巴基斯坦最新空军宣传片",
+        "onboard_time": 1757344765,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128061,
+        "num": 128061,
+        "word": "小狗洗澡时偷偷放屁制造气泡",
+        "onboard_time": 1757343443,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126775,
+        "num": 126775,
+        "word": "娜扎出场听取夸声一片",
+        "onboard_time": 1757342305,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113858,
+        "num": 113858,
+        "word": "黄金",
+        "onboard_time": 1757340864,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109431,
+        "num": 109431,
+        "word": "西藏一垃圾站30多只熊集体觅食",
+        "onboard_time": 1757333482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105400,
+        "num": 105400,
+        "word": "阻断私生饭获取明星数据渠道",
+        "onboard_time": 1757344884,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103585,
+        "num": 103585,
+        "word": "谁教高至霆这样出图的",
+        "onboard_time": 1757342664,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102554,
+        "num": 102554,
+        "word": "为什么九三阅兵歼10拉彩烟",
+        "onboard_time": 1757342244,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101707,
+        "num": 101707,
+        "word": "马思纯又瘦了好多",
+        "onboard_time": 1757330603,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99136,
+        "num": 99136,
+        "word": "iPhone16价格不降反升",
+        "onboard_time": 1757329403,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96646,
+        "num": 96646,
+        "word": "女子点绿茶餐厅外卖被贴装货",
+        "onboard_time": 1757318722,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96467,
+        "num": 96467,
+        "word": "中方反制是对石平之流的惩戒警示",
+        "onboard_time": 1757321903,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96244,
+        "num": 96244,
+        "word": "黄金价格再度突破历史新高",
+        "onboard_time": 1757344524,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93133,
+        "num": 93133,
+        "word": "卢远王乐晨cp",
+        "onboard_time": 1757338524,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91681,
+        "num": 91681,
+        "word": "淘宝闪购购买记录 衣柜里翻鸡排",
+        "onboard_time": 1757319203,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的这6天#"
+    }
+  }
+}

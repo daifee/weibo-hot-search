@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1757342658233,
+  "endTime": 1757345189606,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1731,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7207857,
+      "num": 7207857,
+      "word": "小米王腾因泄密被辞退",
+      "onboard_time": 1757343626,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 7207522,
       "num": 7207522,
       "word": "微博之夜内场",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738053560,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4269334,
-      "num": 4269334,
-      "word": "孟子义李昀锐跟结婚似的",
-      "onboard_time": 1735977021,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
