@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757366579754,
+  "endTime": 1757367421539,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -491,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19539,
+      "num": 19539,
+      "word": "曝苹果将量产1亿部iPhone17",
+      "onboard_time": 1757362273,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19413,
       "num": 20454,
       "word": "出生没多久确诊雷特综合征",
@@ -513,14 +521,6 @@
       "onboard_time": 1757355496,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17573,
-      "num": 17573,
-      "word": "曝苹果将量产1亿部iPhone17",
-      "onboard_time": 1757362273,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 12824,
