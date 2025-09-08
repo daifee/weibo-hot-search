@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757288199340,
+  "endTime": 1757296554181,
   "band_list": [
     {
       "raw_hot": 3121097,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 992631,
+      "num": 312399,
+      "word": "小袁 胡楚靓",
+      "onboard_time": 1757291244,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 983382,
       "num": 204432,
       "word": "辛芷蕾",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 952235,
-      "num": 287425,
+      "num": 309904,
       "word": "知情人回应许嵩冯禧完婚",
       "onboard_time": 1757261421,
       "rank": 11,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 655763,
+      "num": 655763,
+      "word": "俄罗斯发动最大规模无人机空袭",
+      "onboard_time": 1757291304,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 645692,
       "num": 645692,
       "word": "结婚一年确诊了免疫系统疾病",
@@ -363,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 587116,
+      "num": 311749,
+      "word": "变形计张迪自曝女友是一线女明星",
+      "onboard_time": 1757286979,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 555915,
       "num": 225847,
       "word": "关晓彤ins更新",
@@ -401,14 +425,6 @@
       "onboard_time": 1757213962,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 528461,
-      "num": 184008,
-      "word": "变形计张迪自曝女友是一线女明星",
-      "onboard_time": 1757286979,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 524459,
@@ -531,6 +547,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 439062,
+      "num": 439062,
+      "word": "曝许凯长期聚众赌博",
+      "onboard_time": 1757296520,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 438843,
+      "num": 438843,
+      "word": "金晨工作室临时被通知走红毯",
+      "onboard_time": 1757290881,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 438557,
       "num": 438557,
       "word": "BLG让二追三JDG",
@@ -601,6 +633,14 @@
       "onboard_time": 1757252962,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 396975,
+      "num": 396975,
+      "word": "暗河传",
+      "onboard_time": 1757294001,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 385497,
@@ -715,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344796,
+      "num": 189848,
+      "word": "这些劣质碳水真的要少吃",
+      "onboard_time": 1757290822,
+      "rank": 20,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 340168,
       "num": 381741,
       "word": "祝绪丹赫本风",
@@ -795,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310510,
+      "num": 310510,
+      "word": "鹿晗膝盖疑似流血",
+      "onboard_time": 1757293222,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307874,
       "num": 307874,
       "word": "她的瞳官宣杀青",
@@ -841,6 +897,14 @@
       "onboard_time": 1757251764,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297085,
+      "num": 297085,
+      "word": "台风塔巴在广东台山登陆",
+      "onboard_time": 1757294480,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295847,
@@ -923,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267894,
+      "num": 314134,
+      "word": "红月亮在午夜朋友圈刷屏",
+      "onboard_time": 1757295140,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264492,
       "num": 264492,
       "word": "生病急需钱家人发现32万做了生意",
@@ -936,6 +1008,14 @@
       "word": "美公布数百名韩国人被捕现场画面",
       "onboard_time": 1757214561,
       "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 245226,
+      "num": 245226,
+      "word": "美国或需退还半数已征关税",
+      "onboard_time": 1757288000,
+      "rank": 28,
       "category": "国际时政"
     },
     {
@@ -1089,6 +1169,22 @@
       "onboard_time": 1757255304,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 206395,
+      "num": 206395,
+      "word": "台风",
+      "onboard_time": 1757222542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203507,
+      "num": 203507,
+      "word": "蟑螂会把定制的手办吃干净",
+      "onboard_time": 1757286979,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 203240,
@@ -1363,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175507,
+      "num": 175507,
+      "word": "班主任严肃制止学生传播网络烂梗",
+      "onboard_time": 1757295081,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175249,
       "num": 175249,
       "word": "江祖平再发文回应自曝遭性侵",
@@ -1563,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158304,
+      "num": 158304,
+      "word": "校方回应床直接钉在墙上",
+      "onboard_time": 1757292562,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158047,
       "num": 158047,
       "word": "宝妈花2万住月子中心遭虫爬身",
@@ -1585,6 +1697,14 @@
       "onboard_time": 1757257044,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157149,
+      "num": 157149,
+      "word": "女兵说胆敢挑衅那你来试试",
+      "onboard_time": 1757294841,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157069,
@@ -1657,6 +1777,14 @@
       "onboard_time": 1757216061,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153366,
+      "num": 153366,
+      "word": "阅兵后劲真的太大了",
+      "onboard_time": 1757294781,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153289,
@@ -1739,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148776,
+      "num": 153379,
+      "word": "箭月相会再现",
+      "onboard_time": 1757295261,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147650,
       "num": 147650,
       "word": "迈凯轮",
@@ -1795,6 +1931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144799,
+      "num": 144799,
+      "word": "分析称300多名韩国人被抓或只是开始",
+      "onboard_time": 1757295500,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 144010,
       "num": 144010,
       "word": "美国一妇女发文炫耀自家狗成选民",
@@ -1835,14 +1979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141478,
-      "num": 141478,
-      "word": "台风",
-      "onboard_time": 1757222542,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141462,
       "num": 141462,
       "word": "美国抓捕300余名韩国工程师",
@@ -1857,14 +1993,6 @@
       "onboard_time": 1757219783,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141278,
-      "num": 141278,
-      "word": "蟑螂会把定制的手办吃干净",
-      "onboard_time": 1757286979,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 140940,
@@ -2315,6 +2443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123688,
+      "num": 123688,
+      "word": "李兰迪说经纪人嘴角很难压",
+      "onboard_time": 1757289562,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123131,
       "num": 112087,
       "word": "李昀锐 我那ys白月光",
@@ -2329,6 +2465,14 @@
       "onboard_time": 1757236702,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121925,
+      "num": 154027,
+      "word": "VMA",
+      "onboard_time": 1757289682,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121643,
@@ -2481,6 +2625,14 @@
       "onboard_time": 1757174723,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116406,
+      "num": 153578,
+      "word": "嫁金钗",
+      "onboard_time": 1757290522,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 115536,
@@ -2643,6 +2795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110312,
+      "num": 110312,
+      "word": "30秒看血月",
+      "onboard_time": 1757290282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110229,
       "num": 130801,
       "word": "欧阳娣娣不选对的只选帅的",
@@ -2755,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106602,
+      "num": 106602,
+      "word": "不用熬夜就能看的全过程月全食",
+      "onboard_time": 1757294720,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106554,
       "num": 121262,
       "word": "TizzyT羊King羊boss",
@@ -2783,6 +2951,14 @@
       "num": 106067,
       "word": "女子赴美生子去世后外公申请监护权",
       "onboard_time": 1757227282,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105953,
+      "num": 105953,
+      "word": "月全食高清壁纸来了",
+      "onboard_time": 1757294720,
       "rank": 41,
       "category": "民生新闻"
     },
@@ -2907,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101706,
+      "num": 101706,
+      "word": "杨洋戴泳帽还能帅成这样",
+      "onboard_time": 1757289862,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101587,
       "num": 101587,
       "word": "JS新男团官宣含帅量太高了",
@@ -2945,6 +3129,14 @@
       "onboard_time": 1757241440,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100115,
+      "num": 100115,
+      "word": "澳大利亚男子冲浪遭鲨鱼袭击身亡",
+      "onboard_time": 1757291784,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99826,
@@ -3011,6 +3203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97672,
+      "num": 97672,
+      "word": "一轮红月愿生活圆满",
+      "onboard_time": 1757295741,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97229,
       "num": 97229,
       "word": "国乒男单4人在上半区",
@@ -3051,6 +3251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95443,
+      "num": 95443,
+      "word": "特朗普称准备对俄实施第二阶段制裁",
+      "onboard_time": 1757291543,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95221,
       "num": 95221,
       "word": "男主的情敌是曾经的自己",
@@ -3089,6 +3297,14 @@
       "onboard_time": 1757243179,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93772,
+      "num": 93772,
+      "word": "九门",
+      "onboard_time": 1757290041,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 93557,
@@ -3193,6 +3409,14 @@
       "onboard_time": 1757234241,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90816,
+      "num": 491089,
+      "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
+      "onboard_time": 1757287579,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90397,
@@ -3747,14 +3971,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 44668,
-      "num": 480644,
-      "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
-      "onboard_time": 1757287579,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42341,
       "num": 61166,
       "word": "威尼斯电影节",
@@ -3995,20 +4211,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18425,
-      "num": 110853,
-      "word": "美国或需退还半数已征关税",
-      "onboard_time": 1757288000,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17917,
       "num": 23116,
       "word": "国乒阿拉木图站两冠收官",
       "onboard_time": 1757278454,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15504,
+      "num": 105988,
+      "word": "阅兵展示的五大力量均超美国",
+      "onboard_time": 1757296402,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13614,
