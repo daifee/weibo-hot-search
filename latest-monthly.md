@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/08 23:41:40
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/09 00:30:32
 </p>
 </blockquote>
 <p>
@@ -455,6 +455,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%BF%E7%88%BD%E5%8F%91%E8%A8%80%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 耿爽发言含金量（热度：1811150）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%23" target="weibo">
+雷军（热度：1802410）
 </a>
 </li>
 
@@ -3063,6 +3069,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E7%93%B6%E7%9B%96%E5%BD%93%E5%85%AC%E7%AB%A0%23" target="weibo">
+娃哈哈瓶盖当公章（热度：451968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E6%AD%A6%E5%99%A8%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88%23" target="weibo">
 德媒称中国阅兵武器遥遥领先（热度：450865）
 </a>
@@ -4089,12 +4101,6 @@ VOGUE（热度：350760）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E7%93%B6%E7%9B%96%E5%BD%93%E5%85%AC%E7%AB%A0%23" target="weibo">
-娃哈哈瓶盖当公章（热度：348302）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%9B%BD%E5%8F%88%E6%95%B4%E4%B8%8A%E5%B0%8F%E8%8A%82%E7%9B%AE%E4%BA%86%23" target="weibo">
 辛芷蕾回国又整上小节目了（热度：347301）
 </a>
@@ -4739,12 +4745,6 @@ AL对战WBG（热度：327576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E4%BB%8A%E5%A4%A9%E6%98%AF%E7%BE%8E%E7%BE%8Esunday%23" target="weibo">
 沈佳润今天是美美sunday（热度：297811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%23" target="weibo">
-雷军（热度：297773）
 </a>
 </li>
 
@@ -5619,6 +5619,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BB%E6%96%AD%E7%A7%81%E7%94%9F%E9%A5%AD%E8%8E%B7%E5%8F%96%E6%98%8E%E6%98%9F%E6%95%B0%E6%8D%AE%E6%B8%A0%E9%81%93%23" target="weibo">
+阻断私生饭获取明星数据渠道（热度：238913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B5%B614%E5%B0%8F%E6%97%B6%E4%BD%9C%E4%B8%9A%E5%8F%8C%E6%89%8B%E7%97%89%E6%8C%9B%E6%88%90%E9%B8%A1%E7%88%AA%E7%8A%B6%23" target="weibo">
 男孩赶14小时作业双手痉挛成鸡爪状（热度：238731）
 </a>
@@ -5961,6 +5967,12 @@ BLG对战JDG（热度：224476）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E5%9B%B4%E5%A0%B5%E9%AB%98%E9%93%81%E7%AB%99%E8%89%BA%E4%BA%BA%E7%9C%9F%E4%B8%8D%E7%9F%A5%E6%83%85%E5%90%97%23" target="weibo">
+粉丝围堵高铁站艺人真不知情吗（热度：223019）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BC%9A%E8%AE%AE%E9%95%BF%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E6%8F%A1%E6%89%8B%23" target="weibo">
 韩国会议长与金正恩握手（热度：222446）
 </a>
@@ -5999,18 +6011,6 @@ BLG对战JDG（热度：224476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%90%88%E5%B7%B2%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E5%8C%BA%E5%9F%9F%E7%BB%84%E7%BB%87%23" target="weibo">
 上合已成世界最大区域组织（热度：221454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%8DNHK%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%92%AD%E8%A2%AB%E5%88%A4%E8%B5%941100%E4%B8%87%E6%97%A5%E5%85%83%23" target="weibo">
-前NHK中国主播被判赔1100万日元（热度：221115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%9B%9E%E5%A4%8D%E8%B0%A2%E5%A8%9C%E5%96%8A%E8%AF%9D%23" target="weibo">
-李维嘉回复谢娜喊话（热度：220395）
 </a>
 </li>
 
