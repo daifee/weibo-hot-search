@@ -1,7 +1,15 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757296554181,
+  "endTime": 1757297818086,
   "band_list": [
+    {
+      "raw_hot": 4867898,
+      "num": 4867898,
+      "word": "曝许凯长期聚众赌博",
+      "onboard_time": 1757296520,
+      "rank": 4,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3121097,
       "num": 773209,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806816,
+      "num": 326881,
+      "word": "许凯横店豪宅私设赌场",
+      "onboard_time": 1757297002,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 763418,
       "num": 763418,
       "word": "没人通知金晨这是红毯吗",
@@ -91,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467960,
+      "num": 273493,
+      "word": "麦当劳过夜现状",
+      "onboard_time": 1757296582,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440933,
       "num": 440933,
       "word": "央视曝光解压软泥毒玩具",
       "onboard_time": 1757256683,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 439062,
-      "num": 439062,
-      "word": "曝许凯长期聚众赌博",
-      "onboard_time": 1757296520,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 438843,
@@ -155,8 +171,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 346246,
+      "num": 212418,
+      "word": "网红账号发120多条偷拍视频",
+      "onboard_time": 1757297363,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344796,
-      "num": 189848,
+      "num": 211191,
       "word": "这些劣质碳水真的要少吃",
       "onboard_time": 1757290822,
       "rank": 20,
@@ -195,12 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315789,
+      "num": 270391,
+      "word": "小袁回应说胡楚靓口臭",
+      "onboard_time": 1757296881,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 310510,
       "num": 310510,
       "word": "鹿晗膝盖疑似流血",
       "onboard_time": 1757293222,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306623,
+      "num": 158704,
+      "word": "大批韩国人在美被拴铁链带走",
+      "onboard_time": 1757296944,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 297927,
@@ -225,6 +265,14 @@
       "onboard_time": 1757257344,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 279529,
+      "num": 279529,
+      "word": "班主任严肃制止学生传播网络烂梗",
+      "onboard_time": 1757295081,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267894,
@@ -283,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209545,
+      "num": 209545,
+      "word": "优酷年度片单",
+      "onboard_time": 1757297302,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206395,
       "num": 206395,
       "word": "台风",
@@ -307,12 +363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196996,
+      "num": 196996,
+      "word": "辛芷蕾影后回国",
+      "onboard_time": 1757297002,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193342,
       "num": 172519,
       "word": "在中国这个东西是用来占座的",
       "onboard_time": 1757251882,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191252,
+      "num": 191252,
+      "word": "阅兵后劲真的太大了",
+      "onboard_time": 1757294781,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 186730,
@@ -323,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175507,
-      "num": 175507,
-      "word": "班主任严肃制止学生传播网络烂梗",
-      "onboard_time": 1757295081,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 180135,
+      "num": 180135,
+      "word": "不为人知的故事官宣",
+      "onboard_time": 1757297542,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 171812,
@@ -371,14 +443,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 153366,
-      "num": 153366,
-      "word": "阅兵后劲真的太大了",
-      "onboard_time": 1757294781,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 150131,
       "num": 150131,
       "word": "警方通报女子殴打安检员已被行拘",
@@ -393,6 +457,22 @@
       "onboard_time": 1757295261,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146114,
+      "num": 146114,
+      "word": "赴山海",
+      "onboard_time": 1757297423,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145777,
+      "num": 145777,
+      "word": "王楚钦目标不仅仅是守住半区",
+      "onboard_time": 1757296881,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 145395,
@@ -435,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131516,
+      "num": 131516,
+      "word": "A股",
+      "onboard_time": 1757297363,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128813,
       "num": 194889,
       "word": "祝绪丹赫本风",
@@ -449,6 +537,14 @@
       "onboard_time": 1757286859,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124388,
+      "num": 153578,
+      "word": "嫁金钗",
+      "onboard_time": 1757290522,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 123688,
@@ -467,20 +563,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121458,
+      "num": 121458,
+      "word": "九门",
+      "onboard_time": 1757290041,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121027,
       "num": 121027,
       "word": "AG夏决冠军",
       "onboard_time": 1757252362,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116406,
-      "num": 153578,
-      "word": "嫁金钗",
-      "onboard_time": 1757290522,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 115222,
@@ -505,6 +601,14 @@
       "onboard_time": 1757290282,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109041,
+      "num": 109041,
+      "word": "特朗普向俄罗斯施压",
+      "onboard_time": 1757296881,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108057,
@@ -595,6 +699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98184,
+      "num": 98184,
+      "word": "深圳地铁11号线",
+      "onboard_time": 1757297722,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97721,
       "num": 121031,
       "word": "邓超陈赫鹿晗演唱会同台",
@@ -608,6 +720,14 @@
       "word": "一轮红月愿生活圆满",
       "onboard_time": 1757295741,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96993,
+      "num": 96993,
+      "word": "预包装食品数字标签来了",
+      "onboard_time": 1757296822,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -633,14 +753,6 @@
       "onboard_time": 1757282775,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93772,
-      "num": 93772,
-      "word": "九门",
-      "onboard_time": 1757290041,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 90816,
@@ -753,6 +865,14 @@
       "onboard_time": 1757265977,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70604,
+      "num": 213684,
+      "word": "秋天的第一场秒杀",
+      "onboard_time": 1757297002,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 65507,

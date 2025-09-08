@@ -1,0 +1,410 @@
+{
+  "runTime": 1757297818086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4867898,
+        "num": 4867898,
+        "word": "曝许凯长期聚众赌博",
+        "onboard_time": 1757296520,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757513,
+        "num": 757513,
+        "word": "男子忘关火27天后回家才发现",
+        "onboard_time": 1757284936,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74539,
+        "num": 449894,
+        "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
+        "onboard_time": 1757287579,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440207,
+        "num": 440207,
+        "word": "俄罗斯发动最大规模无人机空袭",
+        "onboard_time": 1757291304,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343997,
+        "num": 343997,
+        "word": "月全食",
+        "onboard_time": 1757241440,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806816,
+        "num": 326881,
+        "word": "许凯横店豪宅私设赌场",
+        "onboard_time": 1757297002,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357882,
+        "num": 319455,
+        "word": "暗河传",
+        "onboard_time": 1757294001,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297694,
+        "num": 297694,
+        "word": "金晨工作室临时被通知走红毯",
+        "onboard_time": 1757290881,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249205,
+        "num": 281054,
+        "word": "红月亮在午夜朋友圈刷屏",
+        "onboard_time": 1757295140,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279529,
+        "num": 279529,
+        "word": "班主任严肃制止学生传播网络烂梗",
+        "onboard_time": 1757295081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1594836,
+        "num": 278512,
+        "word": "向太曝张国荣不是因抑郁症自杀",
+        "onboard_time": 1757286739,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763673,
+        "num": 276754,
+        "word": "小袁 胡楚靓",
+        "onboard_time": 1757291244,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467960,
+        "num": 273493,
+        "word": "麦当劳过夜现状",
+        "onboard_time": 1757296582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440705,
+        "num": 273025,
+        "word": "变形计张迪自曝女友是一线女明星",
+        "onboard_time": 1757286979,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315789,
+        "num": 270391,
+        "word": "小袁回应说胡楚靓口臭",
+        "onboard_time": 1757296881,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 268699,
+        "num": 268699,
+        "word": "知情人回应许嵩冯禧完婚",
+        "onboard_time": 1757261421,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246924,
+        "num": 246924,
+        "word": "鹿晗膝盖疑似流血",
+        "onboard_time": 1757293222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246904,
+        "num": 246904,
+        "word": "台风塔巴在广东台山登陆",
+        "onboard_time": 1757294480,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225544,
+        "num": 225544,
+        "word": "深圳停课",
+        "onboard_time": 1757248882,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70604,
+        "num": 213684,
+        "word": "秋天的第一场秒杀",
+        "onboard_time": 1757297002,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 346246,
+        "num": 212418,
+        "word": "网红账号发120多条偷拍视频",
+        "onboard_time": 1757297363,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254479,
+        "num": 211191,
+        "word": "这些劣质碳水真的要少吃",
+        "onboard_time": 1757290822,
+        "rank": 21,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 209545,
+        "num": 209545,
+        "word": "优酷年度片单",
+        "onboard_time": 1757297302,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196996,
+        "num": 196996,
+        "word": "辛芷蕾影后回国",
+        "onboard_time": 1757297002,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191252,
+        "num": 191252,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757294781,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181375,
+        "num": 181375,
+        "word": "长期吃米vs长期吃面",
+        "onboard_time": 1757232141,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180135,
+        "num": 180135,
+        "word": "不为人知的故事官宣",
+        "onboard_time": 1757297542,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166695,
+        "num": 166695,
+        "word": "美国或需退还半数已征关税",
+        "onboard_time": 1757288000,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165621,
+        "num": 165621,
+        "word": "小米16",
+        "onboard_time": 1757257883,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159886,
+        "num": 159886,
+        "word": "没人通知金晨这是红毯吗",
+        "onboard_time": 1757248042,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306623,
+        "num": 158704,
+        "word": "大批韩国人在美被拴铁链带走",
+        "onboard_time": 1757296944,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156271,
+        "num": 156271,
+        "word": "蟑螂会把定制的手办吃干净",
+        "onboard_time": 1757286979,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146114,
+        "num": 146114,
+        "word": "赴山海",
+        "onboard_time": 1757297423,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145777,
+        "num": 145777,
+        "word": "王楚钦目标不仅仅是守住半区",
+        "onboard_time": 1757296881,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136166,
+        "num": 136166,
+        "word": "大学生呕吐系自备井蓄水池受污染",
+        "onboard_time": 1757262499,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134888,
+        "num": 134888,
+        "word": "黄杨钿甜中戏迎新晚会表演",
+        "onboard_time": 1757251703,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131516,
+        "num": 131516,
+        "word": "A股",
+        "onboard_time": 1757297363,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131417,
+        "num": 131417,
+        "word": "台风",
+        "onboard_time": 1757293460,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125413,
+        "num": 125413,
+        "word": "校方回应床直接钉在墙上",
+        "onboard_time": 1757292562,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124388,
+        "num": 124388,
+        "word": "嫁金钗",
+        "onboard_time": 1757290522,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123702,
+        "num": 123702,
+        "word": "女子地铁拒安检多次追打工作人员",
+        "onboard_time": 1757259205,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121458,
+        "num": 121458,
+        "word": "九门",
+        "onboard_time": 1757290041,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116177,
+        "num": 116177,
+        "word": "女兵说胆敢挑衅那你来试试",
+        "onboard_time": 1757294841,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109041,
+        "num": 109041,
+        "word": "特朗普向俄罗斯施压",
+        "onboard_time": 1757296881,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106435,
+        "num": 106435,
+        "word": "VMA",
+        "onboard_time": 1757289682,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103450,
+        "num": 103450,
+        "word": "月经6种表现说明子宫健康",
+        "onboard_time": 1757287040,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101257,
+        "num": 101257,
+        "word": "30秒看血月",
+        "onboard_time": 1757290282,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101138,
+        "num": 101138,
+        "word": "分析称300多名韩国人被抓或只是开始",
+        "onboard_time": 1757295500,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98184,
+        "num": 98184,
+        "word": "深圳地铁11号线",
+        "onboard_time": 1757297722,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96993,
+        "num": 96993,
+        "word": "预包装食品数字标签来了",
+        "onboard_time": 1757296822,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席金砖国家领导人线上峰会#"
+    }
+  }
+}
