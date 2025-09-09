@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757414659535,
+  "endTime": 1757416914406,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 737597,
+      "num": 737597,
+      "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+      "onboard_time": 1757412081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 728476,
       "num": 728476,
       "word": "王腾",
@@ -297,6 +305,14 @@
       "onboard_time": 1757404101,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 616741,
+      "num": 189231,
+      "word": "CEO出轨女同事其丈夫发声",
+      "onboard_time": 1757411782,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 615747,
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412764,
+      "num": 188667,
+      "word": "宋轶疑似取关白敬亭",
+      "onboard_time": 1757415742,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398942,
       "num": 398942,
       "word": "陈赫没有邓超就更开心了",
@@ -579,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356035,
+      "num": 188199,
+      "word": "印度人想456元包场成都餐厅",
+      "onboard_time": 1757414542,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355329,
       "num": 355329,
       "word": "毛晓彤被锁房间里了",
@@ -619,28 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337277,
-      "num": 188276,
-      "word": "CEO出轨女同事其丈夫发声",
-      "onboard_time": 1757411782,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 325522,
       "num": 325522,
       "word": "辛芷蕾VOGUE连登",
       "onboard_time": 1757389642,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318664,
-      "num": 318664,
-      "word": "娃哈哈瓶盖被当公章盖在实习证明上",
-      "onboard_time": 1757412081,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 317499,
@@ -883,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221364,
+      "num": 221364,
+      "word": "小学教师过剩编内转岗临聘清退",
+      "onboard_time": 1757416041,
+      "rank": 5,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 218668,
       "num": 267236,
       "word": "银十封面人物预告",
@@ -913,6 +937,14 @@
       "onboard_time": 1757382382,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215304,
+      "num": 190853,
+      "word": "鹿晗急得在后台找话筒",
+      "onboard_time": 1757412983,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 213471,
@@ -1003,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200945,
+      "num": 200945,
+      "word": "舆情通报不能开空头支票",
+      "onboard_time": 1757409623,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198344,
       "num": 379566,
       "word": "钟楚曦删了与侯雯元官宣博",
@@ -1019,12 +1059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196824,
-      "num": 196824,
-      "word": "舆情通报不能开空头支票",
-      "onboard_time": 1757409623,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 196417,
+      "num": 196417,
+      "word": "美国宣布制裁东南亚诈骗集团",
+      "onboard_time": 1757415860,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195423,
@@ -1059,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190693,
+      "num": 190693,
+      "word": "官方通报9名女生欺凌同学",
+      "onboard_time": 1757414662,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 190449,
       "num": 190449,
       "word": "苹果发布会有何亮点",
@@ -1067,16 +1115,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 189767,
-      "num": 152208,
-      "word": "印度人想456元包场成都餐厅",
-      "onboard_time": 1757414542,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189457,
-      "num": 150659,
+      "num": 151728,
       "word": "马柏全 华伦天奴",
       "onboard_time": 1757414122,
       "rank": 33,
@@ -1099,12 +1139,28 @@
       "category": "剧集,音乐"
     },
     {
+      "raw_hot": 187703,
+      "num": 187703,
+      "word": "华晨宇跳了刀马刀马",
+      "onboard_time": 1757415923,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186862,
       "num": 193139,
       "word": "老师诱骗超20名小学生加入邪教",
       "onboard_time": 1757411782,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186463,
+      "num": 139989,
+      "word": "暗示性求助",
+      "onboard_time": 1757412861,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 184544,
@@ -1131,6 +1187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181342,
+      "num": 151554,
+      "word": "iG阵容",
+      "onboard_time": 1757416100,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180756,
       "num": 242060,
       "word": "辛芷蕾的待播",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1757399481,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177238,
-      "num": 190853,
-      "word": "鹿晗急得在后台找话筒",
-      "onboard_time": 1757412983,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 176910,
@@ -1379,6 +1435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159170,
+      "num": 133175,
+      "word": "章凝 Miguel",
+      "onboard_time": 1757414723,
+      "rank": 33,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 158434,
       "num": 158434,
       "word": "我国新能源车产销量全球第一",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1757413881,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155560,
+      "num": 132733,
+      "word": "华科大官网已撤下校友王腾资料页面",
+      "onboard_time": 1757414422,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 153446,
@@ -1547,20 +1619,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 139989,
-      "num": 139989,
-      "word": "暗示性求助",
-      "onboard_time": 1757412861,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139488,
       "num": 223357,
       "word": "曝辛芷蕾团队工资",
       "onboard_time": 1757321483,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139336,
+      "num": 139336,
+      "word": "密室大逃脱",
+      "onboard_time": 1757414902,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 138278,
@@ -1619,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135737,
+      "num": 135737,
+      "word": "李英爱曝15岁女儿一直在参加选秀",
+      "onboard_time": 1757415143,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135480,
       "num": 135480,
       "word": "祈今朝制片方悄悄碎掉了",
@@ -1633,6 +1713,14 @@
       "onboard_time": 1757383462,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134359,
+      "num": 134359,
+      "word": "第一次见40位明星集体切舞蹈号",
+      "onboard_time": 1757416100,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134128,
@@ -1729,6 +1817,14 @@
       "onboard_time": 1757413040,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124465,
+      "num": 134179,
+      "word": "东北供暖",
+      "onboard_time": 1757414723,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124190,
@@ -1915,14 +2011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 113624,
-      "num": 113624,
-      "word": "华科大官网已撤下校友王腾资料页面",
-      "onboard_time": 1757414422,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 112899,
       "num": 112899,
       "word": "原来滑动验证码是这个作用",
@@ -1993,6 +2081,14 @@
       "onboard_time": 1757380103,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 110516,
+      "num": 110516,
+      "word": "盛世天下特别好评",
+      "onboard_time": 1757416522,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 110406,
@@ -2115,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106159,
+      "num": 106159,
+      "word": "娜扎瘦的骨头根根分明",
+      "onboard_time": 1757414662,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105711,
       "num": 171540,
       "word": "倪妮说马龙老婆是她同学",
@@ -2137,6 +2241,14 @@
       "onboard_time": 1757378304,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105229,
+      "num": 105229,
+      "word": "子宫内膜异位症 流不出来的月经更疼",
+      "onboard_time": 1757416823,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105097,
@@ -2355,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79591,
+      "num": 126782,
+      "word": "妈妈朋友否认许嵩冯禧结婚",
+      "onboard_time": 1757416342,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78689,
       "num": 265142,
       "word": "他信案宣判",
@@ -2425,6 +2545,14 @@
       "onboard_time": 1757400201,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69594,
+      "num": 125089,
+      "word": "九寨沟一酒店大堂惊现毒蛇",
+      "onboard_time": 1757416461,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69048,
