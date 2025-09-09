@@ -1,0 +1,410 @@
+{
+  "runTime": 1757399850878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 867487,
+        "num": 1138797,
+        "word": "董事长和明星女友内幕交易被刑拘",
+        "onboard_time": 1757389822,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 705976,
+        "num": 705976,
+        "word": "VOGUE官宣辛芷蕾",
+        "onboard_time": 1757394984,
+        "rank": 1,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 10708,
+        "num": 682741,
+        "word": "万千气象看浙里",
+        "onboard_time": 1757390962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660914,
+        "num": 660914,
+        "word": "每月分4次给生活费父亲发声",
+        "onboard_time": 1757396062,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636179,
+        "num": 636179,
+        "word": "影后想要 影后得到",
+        "onboard_time": 1757394324,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493163,
+        "num": 493163,
+        "word": "王腾小米工作经历配流汗表情",
+        "onboard_time": 1757395342,
+        "rank": 5,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 493149,
+        "num": 493149,
+        "word": "黄奕10年救助2000多个孩子",
+        "onboard_time": 1757395222,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461652,
+        "num": 461652,
+        "word": "青岛一环卫工人将垃圾扫进大海",
+        "onboard_time": 1757394083,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242104,
+        "num": 460656,
+        "word": "中国警犬logo形象犬是它",
+        "onboard_time": 1757397441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118756,
+        "num": 456312,
+        "word": "父亲为和女儿联系生活费分4次给",
+        "onboard_time": 1757399002,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1529561,
+        "num": 454552,
+        "word": "霍乱",
+        "onboard_time": 1757392704,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 711501,
+        "num": 451676,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 11,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 450196,
+        "num": 450196,
+        "word": "小米 王腾",
+        "onboard_time": 1757373560,
+        "rank": 12,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 422223,
+        "num": 422223,
+        "word": "演唱会出轨被拍女子申请离婚",
+        "onboard_time": 1757391083,
+        "rank": 13,
+        "category": "演出,海外新闻"
+      },
+      {
+        "raw_hot": 419115,
+        "num": 419115,
+        "word": "想活到梓渝小和尚剧情",
+        "onboard_time": 1757396062,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 397963,
+        "num": 397963,
+        "word": "一念江南 开机",
+        "onboard_time": 1757387422,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266829,
+        "num": 266829,
+        "word": "iPhone17",
+        "onboard_time": 1757382020,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255701,
+        "num": 255701,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64626,
+        "num": 248427,
+        "word": "王濛说底盘稳才是真的稳",
+        "onboard_time": 1757397922,
+        "rank": 18,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 41205,
+        "num": 243634,
+        "word": "澳门2049非遗马拉松开跑",
+        "onboard_time": 1757397922,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 324441,
+        "num": 243497,
+        "word": "雷军评价王腾",
+        "onboard_time": 1757388502,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 242907,
+        "num": 242907,
+        "word": "魏大勋霸总感",
+        "onboard_time": 1757398701,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226734,
+        "num": 226734,
+        "word": "喝咖啡和不喝咖啡的身体差距",
+        "onboard_time": 1757390663,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 221198,
+        "num": 221198,
+        "word": "花少7播放量",
+        "onboard_time": 1757390182,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184466,
+        "num": 184466,
+        "word": "灼灼韶华定档",
+        "onboard_time": 1757390303,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178553,
+        "num": 178553,
+        "word": "谭维维微博评论区哭声一片",
+        "onboard_time": 1757399481,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171372,
+        "num": 171372,
+        "word": "杜江霍思燕一起牵狗外出",
+        "onboard_time": 1757398822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170083,
+        "num": 170083,
+        "word": "坐高铁偶遇白敬亭",
+        "onboard_time": 1757395522,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61802,
+        "num": 167645,
+        "word": "长白山挖参纯纯技术流",
+        "onboard_time": 1757398822,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142147,
+        "num": 166266,
+        "word": "井柏然喝懵了",
+        "onboard_time": 1757395761,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165958,
+        "num": 165958,
+        "word": "江苏南通通报1例霍乱病例",
+        "onboard_time": 1757387122,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163355,
+        "num": 163355,
+        "word": "柯爱林被王乐晨拒绝后爆哭",
+        "onboard_time": 1757399301,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159906,
+        "num": 159906,
+        "word": "黄金飙升原因",
+        "onboard_time": 1757394984,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151467,
+        "num": 151467,
+        "word": "张晚意这段预判了多少人的预判",
+        "onboard_time": 1757395761,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143199,
+        "num": 143199,
+        "word": "无折痕iPhone",
+        "onboard_time": 1757396482,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53316,
+        "num": 141174,
+        "word": "慕尼黑车展基础零跑展台就不基础",
+        "onboard_time": 1757395761,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141089,
+        "num": 141089,
+        "word": "唯一一个不敢插队的科室",
+        "onboard_time": 1757387722,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134829,
+        "num": 134829,
+        "word": "今天是毛主席逝世49周年纪念日",
+        "onboard_time": 1757381541,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55498,
+        "num": 128964,
+        "word": "小米持有多项保密专利",
+        "onboard_time": 1757399002,
+        "rank": 38,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 126473,
+        "num": 126473,
+        "word": "雷军接班人",
+        "onboard_time": 1757399481,
+        "rank": 39,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 124690,
+        "num": 124690,
+        "word": "女童被继母虐死前遭针扎舌头指缝",
+        "onboard_time": 1757388261,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120214,
+        "num": 120214,
+        "word": "曝阿里将发布重磅业务",
+        "onboard_time": 1757395102,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119417,
+        "num": 119417,
+        "word": "月全食刚走流星雨又来了",
+        "onboard_time": 1757399602,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114470,
+        "num": 114470,
+        "word": "黄友政0比3阿鲁纳",
+        "onboard_time": 1757397862,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114436,
+        "num": 114436,
+        "word": "刘宇宁唱歌从没这么累",
+        "onboard_time": 1757398882,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111228,
+        "num": 111228,
+        "word": "展轩daddy级别",
+        "onboard_time": 1757399721,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108396,
+        "num": 108396,
+        "word": "尼泊尔多地爆发大规模示威游行",
+        "onboard_time": 1757393123,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106382,
+        "num": 106382,
+        "word": "邓超好险差点就不爱吃了",
+        "onboard_time": 1757399721,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104382,
+        "num": 104382,
+        "word": "杨洋 都这么熟了还这么用心",
+        "onboard_time": 1757385622,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104349,
+        "num": 104349,
+        "word": "开国大典前毛主席曾在天坛前留影",
+        "onboard_time": 1757374580,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席金砖国家领导人线上峰会#"
+    }
+  }
+}

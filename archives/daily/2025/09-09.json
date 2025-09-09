@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757396440549,
+  "endTime": 1757399850878,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -51,8 +51,8 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 1508651,
-      "num": 254913,
+      "raw_hot": 1529561,
+      "num": 454552,
       "word": "霍乱",
       "onboard_time": 1757392704,
       "rank": 25,
@@ -187,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660914,
+      "num": 660914,
+      "word": "每月分4次给生活费父亲发声",
+      "onboard_time": 1757396062,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 636179,
+      "num": 636179,
+      "word": "影后想要 影后得到",
+      "onboard_time": 1757394324,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 615747,
       "num": 606995,
       "word": "马龙坐在了倪妮井柏然中间",
@@ -235,12 +251,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493163,
+      "num": 493163,
+      "word": "王腾小米工作经历配流汗表情",
+      "onboard_time": 1757395342,
+      "rank": 36,
+      "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 493149,
+      "num": 493149,
+      "word": "黄奕10年救助2000多个孩子",
+      "onboard_time": 1757395222,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479617,
       "num": 479617,
       "word": "运动减肥vs少吃减肥",
       "onboard_time": 1757384120,
       "rank": 6,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 461652,
+      "num": 461652,
+      "word": "青岛一环卫工人将垃圾扫进大海",
+      "onboard_time": 1757394083,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 460188,
@@ -305,6 +345,14 @@
       "onboard_time": 1757343626,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419115,
+      "num": 419115,
+      "word": "想活到梓渝小和尚剧情",
+      "onboard_time": 1757396062,
+      "rank": 37,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 416232,
@@ -403,14 +451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 350728,
-      "num": 350728,
-      "word": "影后想要 影后得到",
-      "onboard_time": 1757394324,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 344245,
       "num": 334439,
       "word": "喝咖啡和不喝咖啡的身体差距",
@@ -475,11 +515,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265599,
-      "num": 233457,
-      "word": "黄奕10年救助2000多个孩子",
-      "onboard_time": 1757395222,
-      "rank": 32,
+      "raw_hot": 255701,
+      "num": 255701,
+      "word": "黄景瑜前妻喊话许凯",
+      "onboard_time": 1757399602,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -496,6 +536,22 @@
       "word": "西藏一垃圾站30多只熊集体觅食",
       "onboard_time": 1757333482,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242907,
+      "num": 242907,
+      "word": "魏大勋霸总感",
+      "onboard_time": 1757398701,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242104,
+      "num": 460656,
+      "word": "中国警犬logo形象犬是它",
+      "onboard_time": 1757397441,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -539,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235590,
-      "num": 235590,
-      "word": "青岛一环卫工人将垃圾扫进大海",
-      "onboard_time": 1757394083,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232705,
       "num": 232705,
       "word": "曝阿里将发布重磅业务",
@@ -569,14 +617,6 @@
       "onboard_time": 1757381541,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 228683,
-      "num": 228683,
-      "word": "王腾小米工作经历配流汗表情",
-      "onboard_time": 1757395342,
-      "rank": 36,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 224613,
@@ -771,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178553,
+      "num": 178553,
+      "word": "谭维维微博评论区哭声一片",
+      "onboard_time": 1757399481,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176837,
       "num": 176837,
       "word": "王腾晋升小米双料总经理不足9个月",
@@ -835,12 +883,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171372,
+      "num": 171372,
+      "word": "杜江霍思燕一起牵狗外出",
+      "onboard_time": 1757398822,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170561,
       "num": 163457,
       "word": "当你开始精打细算你会发现",
       "onboard_time": 1757389523,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170083,
+      "num": 170083,
+      "word": "坐高铁偶遇白敬亭",
+      "onboard_time": 1757395522,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 166570,
@@ -851,20 +915,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163976,
-      "num": 163976,
-      "word": "坐高铁偶遇白敬亭",
-      "onboard_time": 1757395522,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163830,
       "num": 163830,
       "word": "支付宝转钱 强制爱",
       "onboard_time": 1757388802,
       "rank": 41,
       "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 163355,
+      "num": 163355,
+      "word": "柯爱林被王乐晨拒绝后爆哭",
+      "onboard_time": 1757399301,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 163200,
@@ -881,14 +945,6 @@
       "onboard_time": 1757387961,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161807,
-      "num": 161807,
-      "word": "想活到梓渝小和尚剧情",
-      "onboard_time": 1757396062,
-      "rank": 37,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 161549,
@@ -915,28 +971,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159906,
+      "num": 199947,
+      "word": "黄金飙升原因",
+      "onboard_time": 1757394984,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158434,
       "num": 158434,
       "word": "我国新能源车产销量全球第一",
       "onboard_time": 1757386101,
       "rank": 46,
       "category": "汽车,民生新闻"
-    },
-    {
-      "raw_hot": 155228,
-      "num": 213226,
-      "word": "每月分4次给生活费父亲发声",
-      "onboard_time": 1757396062,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154562,
-      "num": 199947,
-      "word": "黄金飙升原因",
-      "onboard_time": 1757394984,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 152997,
@@ -960,6 +1008,14 @@
       "word": "你好星期六",
       "onboard_time": 1757393904,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151467,
+      "num": 233381,
+      "word": "张晚意这段预判了多少人的预判",
+      "onboard_time": 1757395761,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -1027,20 +1083,28 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 143199,
+      "num": 143199,
+      "word": "无折痕iPhone",
+      "onboard_time": 1757396482,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 142147,
+      "num": 166266,
+      "word": "井柏然喝懵了",
+      "onboard_time": 1757395761,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141688,
       "num": 141688,
       "word": "iPhone17全系电池容量曝光",
       "onboard_time": 1757396123,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 141429,
-      "num": 141429,
-      "word": "井柏然喝懵了",
-      "onboard_time": 1757395761,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 141303,
@@ -1163,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126473,
+      "num": 126473,
+      "word": "雷军接班人",
+      "onboard_time": 1757399481,
+      "rank": 39,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 124190,
       "num": 516100,
       "word": "男子工资交女友分手要回遭拒",
@@ -1219,6 +1291,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119417,
+      "num": 119417,
+      "word": "月全食刚走流星雨又来了",
+      "onboard_time": 1757399602,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118756,
+      "num": 456312,
+      "word": "父亲为和女儿联系生活费分4次给",
+      "onboard_time": 1757399002,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115815,
       "num": 115815,
       "word": "心动的信号8",
@@ -1233,6 +1321,22 @@
       "onboard_time": 1757391563,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114470,
+      "num": 114470,
+      "word": "黄友政0比3阿鲁纳",
+      "onboard_time": 1757397862,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114436,
+      "num": 114436,
+      "word": "刘宇宁唱歌从没这么累",
+      "onboard_time": 1757398882,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 114405,
@@ -1267,14 +1371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111930,
-      "num": 233381,
-      "word": "张晚意这段预判了多少人的预判",
-      "onboard_time": 1757395761,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111621,
       "num": 111621,
       "word": "很多人离职其实是因为领导",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1757394802,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111228,
+      "num": 111228,
+      "word": "展轩daddy级别",
+      "onboard_time": 1757399721,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 110591,
@@ -1323,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108396,
+      "num": 108396,
+      "word": "尼泊尔多地爆发大规模示威游行",
+      "onboard_time": 1757393123,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108169,
       "num": 108169,
       "word": "刚需电器中冰箱是最没必要买贵的",
@@ -1345,6 +1457,14 @@
       "onboard_time": 1757382140,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106382,
+      "num": 106382,
+      "word": "邓超好险差点就不爱吃了",
+      "onboard_time": 1757399721,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 105711,
@@ -1571,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64626,
+      "num": 248427,
+      "word": "王濛说底盘稳才是真的稳",
+      "onboard_time": 1757397922,
+      "rank": 18,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 63838,
       "num": 217284,
       "word": "卢远王乐晨cp",
@@ -1601,6 +1729,14 @@
       "onboard_time": 1757394204,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61802,
+      "num": 167645,
+      "word": "长白山挖参纯纯技术流",
+      "onboard_time": 1757398822,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60330,
@@ -1649,6 +1785,14 @@
       "onboard_time": 1757335883,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55498,
+      "num": 128964,
+      "word": "小米持有多项保密专利",
+      "onboard_time": 1757399002,
+      "rank": 38,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 55250,
@@ -1747,6 +1891,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 41205,
+      "num": 243634,
+      "word": "澳门2049非遗马拉松开跑",
+      "onboard_time": 1757397922,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 39914,
       "num": 147029,
       "word": "赵磊上婚综扮老年妆",
@@ -1825,6 +1977,14 @@
       "onboard_time": 1757353696,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10708,
+      "num": 682741,
+      "word": "万千气象看浙里",
+      "onboard_time": 1757390962,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6211,

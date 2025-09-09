@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757396440549,
+  "endTime": 1757399850878,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -155,8 +155,8 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 1508651,
-      "num": 254913,
+      "raw_hot": 1529561,
+      "num": 454552,
       "word": "霍乱",
       "onboard_time": 1757392704,
       "rank": 25,
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660914,
+      "num": 660914,
+      "word": "每月分4次给生活费父亲发声",
+      "onboard_time": 1757396062,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658666,
       "num": 396390,
       "word": "小袁回应说胡楚靓口臭",
@@ -769,6 +777,14 @@
       "onboard_time": 1757202502,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 636179,
+      "num": 636179,
+      "word": "影后想要 影后得到",
+      "onboard_time": 1757394324,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 628317,
@@ -1051,6 +1067,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 493163,
+      "num": 493163,
+      "word": "王腾小米工作经历配流汗表情",
+      "onboard_time": 1757395342,
+      "rank": 36,
+      "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 493149,
+      "num": 493149,
+      "word": "黄奕10年救助2000多个孩子",
+      "onboard_time": 1757395222,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481848,
       "num": 481848,
       "word": "美总统威胁要与一美国城市开战",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1757202258,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461652,
+      "num": 461652,
+      "word": "青岛一环卫工人将垃圾扫进大海",
+      "onboard_time": 1757394083,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451968,
@@ -1297,6 +1337,14 @@
       "onboard_time": 1757219242,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 419115,
+      "num": 419115,
+      "word": "想活到梓渝小和尚剧情",
+      "onboard_time": 1757396062,
+      "rank": 37,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 418995,
@@ -1625,14 +1673,6 @@
       "onboard_time": 1757380462,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 350728,
-      "num": 350728,
-      "word": "影后想要 影后得到",
-      "onboard_time": 1757394324,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 350646,
@@ -2107,14 +2147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265599,
-      "num": 233457,
-      "word": "黄奕10年救助2000多个孩子",
-      "onboard_time": 1757395222,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264492,
       "num": 264492,
       "word": "生病急需钱家人发现32万做了生意",
@@ -2160,6 +2192,14 @@
       "word": "梓渝MV编舞刘隽",
       "onboard_time": 1757299944,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 255701,
+      "num": 255701,
+      "word": "黄景瑜前妻喊话许凯",
+      "onboard_time": 1757399602,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -2209,6 +2249,22 @@
       "onboard_time": 1757337802,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242907,
+      "num": 242907,
+      "word": "魏大勋霸总感",
+      "onboard_time": 1757398701,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242104,
+      "num": 460656,
+      "word": "中国警犬logo形象犬是它",
+      "onboard_time": 1757397441,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241544,
@@ -2265,14 +2321,6 @@
       "onboard_time": 1757337863,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235590,
-      "num": 235590,
-      "word": "青岛一环卫工人将垃圾扫进大海",
-      "onboard_time": 1757394083,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234476,
@@ -2353,14 +2401,6 @@
       "onboard_time": 1757236280,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 228683,
-      "num": 228683,
-      "word": "王腾小米工作经历配流汗表情",
-      "onboard_time": 1757395342,
-      "rank": 36,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 227392,
@@ -3339,6 +3379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178553,
+      "num": 178553,
+      "word": "谭维维微博评论区哭声一片",
+      "onboard_time": 1757399481,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178386,
       "num": 156993,
       "word": "一诺当初的愿望实现了",
@@ -3539,6 +3587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171372,
+      "num": 171372,
+      "word": "杜江霍思燕一起牵狗外出",
+      "onboard_time": 1757398822,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171336,
       "num": 171336,
       "word": "苏州2比3盐城",
@@ -3569,6 +3625,14 @@
       "onboard_time": 1757389523,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170083,
+      "num": 170083,
+      "word": "坐高铁偶遇白敬亭",
+      "onboard_time": 1757395522,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 170077,
@@ -3699,14 +3763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163976,
-      "num": 163976,
-      "word": "坐高铁偶遇白敬亭",
-      "onboard_time": 1757395522,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163830,
       "num": 163830,
       "word": "支付宝转钱 强制爱",
@@ -3721,6 +3777,14 @@
       "onboard_time": 1757234301,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163355,
+      "num": 163355,
+      "word": "柯爱林被王乐晨拒绝后爆哭",
+      "onboard_time": 1757399301,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 163200,
@@ -3777,14 +3841,6 @@
       "onboard_time": 1757326402,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161807,
-      "num": 161807,
-      "word": "想活到梓渝小和尚剧情",
-      "onboard_time": 1757396062,
-      "rank": 37,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 161724,
@@ -3865,6 +3921,14 @@
       "onboard_time": 1757217683,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159906,
+      "num": 199947,
+      "word": "黄金飙升原因",
+      "onboard_time": 1757394984,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 159474,
@@ -4011,14 +4075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155228,
-      "num": 213226,
-      "word": "每月分4次给生活费父亲发声",
-      "onboard_time": 1757396062,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155009,
       "num": 155009,
       "word": "美韩盟友怎么翻脸了",
@@ -4057,14 +4113,6 @@
       "onboard_time": 1757244800,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154562,
-      "num": 199947,
-      "word": "黄金飙升原因",
-      "onboard_time": 1757394984,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 154060,
@@ -4168,6 +4216,14 @@
       "word": "赵磊qko真的上夫妻综艺了",
       "onboard_time": 1757216122,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151467,
+      "num": 233381,
+      "word": "张晚意这段预判了多少人的预判",
+      "onboard_time": 1757395761,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -4523,6 +4579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143199,
+      "num": 143199,
+      "word": "无折痕iPhone",
+      "onboard_time": 1757396482,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143168,
       "num": 143168,
       "word": "A股超3900个股上涨",
@@ -4555,6 +4619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142147,
+      "num": 166266,
+      "word": "井柏然喝懵了",
+      "onboard_time": 1757395761,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142076,
       "num": 142076,
       "word": "待播电视剧个个能打",
@@ -4585,14 +4657,6 @@
       "onboard_time": 1757252063,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 141429,
-      "num": 141429,
-      "word": "井柏然喝懵了",
-      "onboard_time": 1757395761,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 141334,
@@ -5379,6 +5443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126473,
+      "num": 126473,
+      "word": "雷军接班人",
+      "onboard_time": 1757399481,
+      "rank": 39,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 125939,
       "num": 125939,
       "word": "徐冬冬72小时紧急身材管理",
@@ -5787,6 +5859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119417,
+      "num": 119417,
+      "word": "月全食刚走流星雨又来了",
+      "onboard_time": 1757399602,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119132,
       "num": 119132,
       "word": "马柏全 挑染",
@@ -5817,6 +5897,14 @@
       "onboard_time": 1757251583,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118756,
+      "num": 456312,
+      "word": "父亲为和女儿联系生活费分4次给",
+      "onboard_time": 1757399002,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118681,
@@ -6051,6 +6139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114470,
+      "num": 114470,
+      "word": "黄友政0比3阿鲁纳",
+      "onboard_time": 1757397862,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114436,
+      "num": 114436,
+      "word": "刘宇宁唱歌从没这么累",
+      "onboard_time": 1757398882,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114405,
       "num": 152349,
       "word": "首架C909医疗机交付",
@@ -6163,14 +6267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111930,
-      "num": 233381,
-      "word": "张晚意这段预判了多少人的预判",
-      "onboard_time": 1757395761,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111891,
       "num": 111891,
       "word": "白露",
@@ -6233,6 +6329,14 @@
       "onboard_time": 1757394802,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111228,
+      "num": 111228,
+      "word": "展轩daddy级别",
+      "onboard_time": 1757399721,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111142,
@@ -6427,6 +6531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108396,
+      "num": 108396,
+      "word": "尼泊尔多地爆发大规模示威游行",
+      "onboard_time": 1757393123,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108195,
       "num": 108195,
       "word": "玖月奇迹王小玮身份变化",
@@ -6520,6 +6632,14 @@
       "word": "朱迅想怼撒贝宁的眼神藏不住",
       "onboard_time": 1757229563,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106382,
+      "num": 106382,
+      "word": "邓超好险差点就不爱吃了",
+      "onboard_time": 1757399721,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -7795,6 +7915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64626,
+      "num": 248427,
+      "word": "王濛说底盘稳才是真的稳",
+      "onboard_time": 1757397922,
+      "rank": 18,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 64279,
       "num": 107303,
       "word": "好好吃饭致敬袁隆平",
@@ -7873,6 +8001,14 @@
       "onboard_time": 1757329403,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61802,
+      "num": 167645,
+      "word": "长白山挖参纯纯技术流",
+      "onboard_time": 1757398822,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61749,
@@ -8001,6 +8137,14 @@
       "onboard_time": 1757232500,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55498,
+      "num": 128964,
+      "word": "小米持有多项保密专利",
+      "onboard_time": 1757399002,
+      "rank": 38,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 55234,
@@ -8297,6 +8441,14 @@
       "onboard_time": 1757233282,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41205,
+      "num": 243634,
+      "word": "澳门2049非遗马拉松开跑",
+      "onboard_time": 1757397922,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 41112,
@@ -8735,6 +8887,14 @@
       "num": 481920,
       "word": "人间好时节",
       "onboard_time": 1757237721,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10708,
+      "num": 682741,
+      "word": "万千气象看浙里",
+      "onboard_time": 1757390962,
       "rank": 2,
       "category": "民生新闻"
     },
