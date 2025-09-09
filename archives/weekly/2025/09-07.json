@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757406843559,
+  "endTime": 1757407622325,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -113,6 +113,14 @@
       "onboard_time": 1757373560,
       "rank": 4,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 1883520,
+      "num": 1883520,
+      "word": "外卖平台集体发声",
+      "onboard_time": 1757404223,
+      "rank": 1,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1877917,
@@ -425,14 +433,6 @@
       "onboard_time": 1757342723,
       "rank": 3,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 1067296,
-      "num": 1067296,
-      "word": "外卖平台集体发声",
-      "onboard_time": 1757404223,
-      "rank": 1,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1065672,
@@ -827,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 632155,
+      "num": 632155,
+      "word": "刘美含说赵让是张远孙子辈",
+      "onboard_time": 1757404101,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628317,
       "num": 895600,
       "word": "中元节禁忌是对传统节日的曲解",
@@ -907,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581825,
-      "num": 581825,
-      "word": "刘美含说赵让是张远孙子辈",
-      "onboard_time": 1757404101,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 577231,
       "num": 577231,
       "word": "俄外长在普京下榻套房问LABUBU在哪",
@@ -937,6 +937,14 @@
       "onboard_time": 1757167644,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554005,
+      "num": 407278,
+      "word": "香奈儿押宝辛芷蕾9年",
+      "onboard_time": 1757405601,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 550645,
@@ -1307,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 440376,
+      "num": 440376,
+      "word": "夫妻合租房生娃后被赶合理吗",
+      "onboard_time": 1757402722,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438843,
       "num": 438843,
       "word": "金晨工作室临时被通知走红毯",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1757295081,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387857,
-      "num": 307360,
-      "word": "香奈儿押宝辛芷蕾9年",
-      "onboard_time": 1757405601,
-      "rank": 13,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 385732,
@@ -1795,6 +1803,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 344140,
+      "num": 356131,
+      "word": "市监总局将督促外卖平台合理控制补贴",
+      "onboard_time": 1757404223,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340168,
       "num": 381741,
       "word": "祝绪丹赫本风",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1757221042,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319477,
+      "num": 319477,
+      "word": "国产剧吻戏已经进化成这样了",
+      "onboard_time": 1757405481,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 319429,
@@ -2043,14 +2067,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 302638,
-      "num": 356131,
-      "word": "市监总局将督促外卖平台合理控制补贴",
-      "onboard_time": 1757404223,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302492,
       "num": 302492,
       "word": "电视剧花好官宣杀青",
@@ -2081,14 +2097,6 @@
       "onboard_time": 1757251764,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297343,
-      "num": 297343,
-      "word": "夫妻合租房生娃后被赶合理吗",
-      "onboard_time": 1757402722,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297085,
@@ -3251,14 +3259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190584,
-      "num": 190584,
-      "word": "国产剧吻戏已经进化成这样了",
-      "onboard_time": 1757405481,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190294,
       "num": 190294,
       "word": "肖战任少白阶下暗潮汹涌",
@@ -3385,6 +3385,14 @@
       "onboard_time": 1757322923,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185147,
+      "num": 185147,
+      "word": "花少5全是cp 花少7全是小说",
+      "onboard_time": 1757406141,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 185097,
@@ -3537,6 +3545,14 @@
       "onboard_time": 1757248642,
       "rank": 17,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 179288,
+      "num": 179288,
+      "word": "历届选秀TOP",
+      "onboard_time": 1757407522,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 178868,
@@ -3811,6 +3827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170678,
+      "num": 148907,
+      "word": "韩国人举美国国旗跳舞",
+      "onboard_time": 1757406442,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 170561,
       "num": 163457,
       "word": "当你开始精打细算你会发现",
@@ -3843,14 +3867,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 169567,
-      "num": 169567,
-      "word": "花少5全是cp 花少7全是小说",
-      "onboard_time": 1757406141,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169426,
       "num": 169426,
       "word": "时代少年团六周年",
@@ -3881,6 +3897,14 @@
       "onboard_time": 1757315902,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168492,
+      "num": 168492,
+      "word": "九三阅兵运20起飞前画面大放送",
+      "onboard_time": 1757404881,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168433,
@@ -3991,6 +4015,14 @@
       "num": 163200,
       "word": "金晨 阿那亚业主松弛感",
       "onboard_time": 1757392523,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162761,
+      "num": 162761,
+      "word": "孙俪在菜市场捡了一只狗",
+      "onboard_time": 1757402602,
       "rank": 39,
       "category": "艺人"
     },
@@ -4185,14 +4217,6 @@
       "onboard_time": 1757168065,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158038,
-      "num": 158038,
-      "word": "孙俪在菜市场捡了一只狗",
-      "onboard_time": 1757402602,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 157940,
@@ -4555,6 +4579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148693,
+      "num": 148693,
+      "word": "王源 师从闫妮",
+      "onboard_time": 1757407283,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148051,
       "num": 148051,
       "word": "一男子在演唱会上故意猥亵多名女性",
@@ -4777,14 +4809,6 @@
       "onboard_time": 1757201299,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143707,
-      "num": 163781,
-      "word": "九三阅兵运20起飞前画面大放送",
-      "onboard_time": 1757404881,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 143592,
@@ -6259,6 +6283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116932,
+      "num": 116932,
+      "word": "柯淳 放羊的汉子你威武雄壮",
+      "onboard_time": 1757407462,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116750,
       "num": 116750,
       "word": "英国男子8年挥霍完上亿彩票",
@@ -6457,14 +6489,6 @@
       "onboard_time": 1757233043,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113735,
-      "num": 113735,
-      "word": "韩国人举美国国旗跳舞",
-      "onboard_time": 1757406442,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 113275,
@@ -6667,6 +6691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 110570,
+      "num": 110570,
+      "word": "金饰克价一夜涨了15元",
+      "onboard_time": 1757405422,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110478,
       "num": 207155,
       "word": "七冠中单你好依旧是世一中",
@@ -6841,6 +6873,14 @@
       "onboard_time": 1757218042,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108480,
+      "num": 108480,
+      "word": "A股两市成交额萎缩超3000亿",
+      "onboard_time": 1757405962,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 108396,
@@ -7083,20 +7123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104090,
-      "num": 104090,
-      "word": "A股两市成交额萎缩超3000亿",
-      "onboard_time": 1757405962,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 104084,
       "num": 104084,
       "word": "男子虐杀20余只猫被刑事立案",
       "onboard_time": 1757334082,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104043,
+      "num": 104043,
+      "word": "孙颖莎训练间隙和大藤沙月热聊",
+      "onboard_time": 1757407403,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103831,
@@ -7907,6 +7947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82863,
+      "num": 117102,
+      "word": "人民空军VCR封面是王一博",
+      "onboard_time": 1757406502,
+      "rank": 39,
+      "category": "艺人,军事"
+    },
+    {
       "raw_hot": 82655,
       "num": 82655,
       "word": "兰州牛肉面分10多种型号",
@@ -7961,14 +8009,6 @@
       "onboard_time": 1757345485,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80356,
-      "num": 114365,
-      "word": "人民空军VCR封面是王一博",
-      "onboard_time": 1757406502,
-      "rank": 39,
-      "category": "艺人,军事"
     },
     {
       "raw_hot": 80304,
@@ -9105,6 +9145,14 @@
       "onboard_time": 1757173284,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25176,
+      "num": 117753,
+      "word": "成毅赴山海又被身边人背叛",
+      "onboard_time": 1757407224,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 24894,
