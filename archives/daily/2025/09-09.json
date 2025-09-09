@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757413711353,
+  "endTime": 1757414659535,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -43,6 +43,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 1887815,
+      "num": 406272,
+      "word": "章凝公开孩子父亲",
+      "onboard_time": 1757412741,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1883520,
       "num": 1883520,
       "word": "外卖平台集体发声",
@@ -59,7 +67,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1723682,
+      "raw_hot": 1742400,
       "num": 200170,
       "word": "辛芷蕾 显化",
       "onboard_time": 1757410642,
@@ -211,8 +219,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 880567,
-      "num": 880567,
+      "raw_hot": 887191,
+      "num": 887191,
       "word": "外卖小哥最不建议点的外卖",
       "onboard_time": 1757408003,
       "rank": 17,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494032,
+      "num": 199008,
+      "word": "胡楚靓向网友道歉",
+      "onboard_time": 1757410583,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 479617,
       "num": 479617,
       "word": "运动减肥vs少吃减肥",
@@ -459,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 424908,
-      "num": 199008,
-      "word": "胡楚靓向网友道歉",
-      "onboard_time": 1757410583,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 416232,
       "num": 416232,
       "word": "赴山海",
@@ -483,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406272,
-      "num": 406272,
-      "word": "章凝公开孩子父亲",
-      "onboard_time": 1757412741,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 398942,
       "num": 398942,
       "word": "陈赫没有邓超就更开心了",
       "onboard_time": 1757376802,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392362,
+      "num": 392362,
+      "word": "BLG对战iG",
+      "onboard_time": 1757412442,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 391953,
@@ -611,12 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337277,
+      "num": 188276,
+      "word": "CEO出轨女同事其丈夫发声",
+      "onboard_time": 1757411782,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 325522,
       "num": 325522,
       "word": "辛芷蕾VOGUE连登",
       "onboard_time": 1757389642,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318664,
+      "num": 318664,
+      "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+      "onboard_time": 1757412081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317499,
@@ -659,6 +683,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 292040,
+      "num": 196314,
+      "word": "易烊千玺拍撕拉片",
+      "onboard_time": 1757411182,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287225,
       "num": 385962,
       "word": "开国大典前毛主席曾在天坛前留影",
@@ -673,14 +705,6 @@
       "onboard_time": 1757374459,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277870,
-      "num": 277870,
-      "word": "BLG对战iG",
-      "onboard_time": 1757412442,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 275872,
@@ -729,14 +753,6 @@
       "onboard_time": 1757343744,
       "rank": 8,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 249353,
-      "num": 196314,
-      "word": "易烊千玺拍撕拉片",
-      "onboard_time": 1757411182,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 244714,
@@ -825,6 +841,14 @@
       "onboard_time": 1757381541,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 226420,
+      "num": 187031,
+      "word": "董璇 早知道把小酒窝带来",
+      "onboard_time": 1757413342,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 224613,
@@ -979,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200657,
-      "num": 200657,
-      "word": "娃哈哈瓶盖被当公章盖在实习证明上",
-      "onboard_time": 1757412081,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198344,
       "num": 379566,
       "word": "钟楚曦删了与侯雯元官宣博",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1757389822,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196824,
+      "num": 196824,
+      "word": "舆情通报不能开空头支票",
+      "onboard_time": 1757409623,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195423,
@@ -1035,20 +1059,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190451,
-      "num": 190451,
-      "word": "舆情通报不能开空头支票",
-      "onboard_time": 1757409623,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190449,
       "num": 190449,
       "word": "苹果发布会有何亮点",
       "onboard_time": 1757413342,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 189767,
+      "num": 152208,
+      "word": "印度人想456元包场成都餐厅",
+      "onboard_time": 1757414542,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189457,
+      "num": 150659,
+      "word": "马柏全 华伦天奴",
+      "onboard_time": 1757414122,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189371,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1757389044,
       "rank": 30,
       "category": "剧集,音乐"
+    },
+    {
+      "raw_hot": 186862,
+      "num": 193139,
+      "word": "老师诱骗超20名小学生加入邪教",
+      "onboard_time": 1757411782,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184544,
@@ -1099,14 +1139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180331,
-      "num": 180331,
-      "word": "CEO出轨女同事其丈夫发声",
-      "onboard_time": 1757411782,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 178553,
       "num": 178553,
       "word": "谭维维微博评论区哭声一片",
@@ -1115,12 +1147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178149,
-      "num": 193139,
-      "word": "老师诱骗超20名小学生加入邪教",
-      "onboard_time": 1757411782,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 177238,
+      "num": 190853,
+      "word": "鹿晗急得在后台找话筒",
+      "onboard_time": 1757412983,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 176910,
@@ -1355,6 +1387,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 156571,
+      "num": 141031,
+      "word": "果然留子一出手就是王炸",
+      "onboard_time": 1757413881,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153446,
       "num": 152787,
       "word": "赴山海莲花楼联动",
@@ -1507,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139989,
+      "num": 139989,
+      "word": "暗示性求助",
+      "onboard_time": 1757412861,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139488,
       "num": 223357,
       "word": "曝辛芷蕾团队工资",
@@ -1640,6 +1688,14 @@
       "word": "校方回应自闭症学生报到当天遭劝退",
       "onboard_time": 1757387363,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127335,
+      "num": 180067,
+      "word": "景区买冰粉吃出十几条蛆虫",
+      "onboard_time": 1757413040,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1811,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116669,
-      "num": 190853,
-      "word": "鹿晗急得在后台找话筒",
-      "onboard_time": 1757412983,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 116263,
       "num": 116263,
       "word": "三字男明星金靖秒答张凌赫",
@@ -1833,14 +1881,6 @@
       "onboard_time": 1757393123,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115508,
-      "num": 115508,
-      "word": "景区买冰粉吃出十几条蛆虫",
-      "onboard_time": 1757413040,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115483,
@@ -1873,6 +1913,14 @@
       "onboard_time": 1757390482,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113624,
+      "num": 113624,
+      "word": "华科大官网已撤下校友王腾资料页面",
+      "onboard_time": 1757414422,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 112899,
@@ -1963,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109792,
+      "num": 109792,
+      "word": "邱贻可满意摸头杀孙颖莎",
+      "onboard_time": 1757413102,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109356,
       "num": 109356,
       "word": "中国杂交试卷之父",
@@ -2044,7 +2100,7 @@
     },
     {
       "raw_hot": 106522,
-      "num": 115335,
+      "num": 175857,
       "word": "内娱梦女文四巨头",
       "onboard_time": 1757409023,
       "rank": 38,
@@ -2147,14 +2203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101895,
-      "num": 117346,
-      "word": "董璇 早知道把小酒窝带来",
-      "onboard_time": 1757413342,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101535,
       "num": 219623,
       "word": "以为很贵实际很便宜的旅游城市",
@@ -2203,14 +2251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 99908,
-      "num": 99908,
-      "word": "邱贻可满意摸头杀孙颖莎",
-      "onboard_time": 1757413102,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98623,
       "num": 292580,
       "word": "一代人有一代人的洗衣方式",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1757410642,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93768,
+      "num": 198110,
+      "word": "泰国前总理他信须重新服刑1年",
+      "onboard_time": 1757412922,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93029,
@@ -2403,12 +2451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66335,
-      "num": 198110,
-      "word": "泰国前总理他信须重新服刑1年",
-      "onboard_time": 1757412922,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 64884,
+      "num": 133466,
+      "word": "付费乱讲PPT门票5分钟抢光",
+      "onboard_time": 1757413824,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64713,
@@ -2523,6 +2571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55735,
+      "num": 633930,
+      "word": "九三纪念短片我们的胜利日",
+      "onboard_time": 1757410102,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 55606,
+      "num": 133062,
+      "word": "念莲花相夷再遇秋水沉舟",
+      "onboard_time": 1757414542,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55498,
       "num": 128964,
       "word": "小米持有多项保密专利",
@@ -2537,14 +2601,6 @@
       "onboard_time": 1757344403,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54770,
-      "num": 633930,
-      "word": "九三纪念短片我们的胜利日",
-      "onboard_time": 1757410102,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54027,
@@ -2577,6 +2633,14 @@
       "onboard_time": 1757374521,
       "rank": 44,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 50862,
+      "num": 145495,
+      "word": "烧伤美妆博主重回事故现场",
+      "onboard_time": 1757414302,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49642,
@@ -2737,6 +2801,14 @@
       "onboard_time": 1757400562,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22054,
+      "num": 190002,
+      "word": "他信被判监禁后佩通坦发声",
+      "onboard_time": 1757413942,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20865,

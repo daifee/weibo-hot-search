@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757413711353,
+  "endTime": 1757414659535,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -115,6 +115,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 1887815,
+      "num": 406272,
+      "word": "章凝公开孩子父亲",
+      "onboard_time": 1757412741,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1883520,
       "num": 1883520,
       "word": "外卖平台集体发声",
@@ -147,7 +155,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1723682,
+      "raw_hot": 1742400,
       "num": 200170,
       "word": "辛芷蕾 显化",
       "onboard_time": 1757410642,
@@ -563,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 887191,
+      "num": 887191,
+      "word": "外卖小哥最不建议点的外卖",
+      "onboard_time": 1757408003,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 882288,
       "num": 363396,
       "word": "三问武汉大学座椅标签事件",
@@ -577,14 +593,6 @@
       "onboard_time": 1757325142,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 880567,
-      "num": 880567,
-      "word": "外卖小哥最不建议点的外卖",
-      "onboard_time": 1757408003,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 844943,
@@ -1163,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494032,
+      "num": 199008,
+      "word": "胡楚靓向网友道歉",
+      "onboard_time": 1757410583,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 493833,
       "num": 493833,
       "word": "我和鹿晗何曾有过嫌隙",
@@ -1435,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 424908,
-      "num": 199008,
-      "word": "胡楚靓向网友道歉",
-      "onboard_time": 1757410583,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 422658,
       "num": 295232,
       "word": "日本19岁未来天皇大办特办成人礼",
@@ -1491,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 406272,
-      "num": 406272,
-      "word": "章凝公开孩子父亲",
-      "onboard_time": 1757412741,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406248,
       "num": 406248,
       "word": "血月可能有一个绿松石带",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1757311405,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 392362,
+      "num": 392362,
+      "word": "BLG对战iG",
+      "onboard_time": 1757412442,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 391953,
@@ -1883,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337277,
+      "num": 188276,
+      "word": "CEO出轨女同事其丈夫发声",
+      "onboard_time": 1757411782,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 336356,
       "num": 472895,
       "word": "韩国将实行小学生家长10点上班制",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1757236101,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 318664,
+      "num": 318664,
+      "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+      "onboard_time": 1757412081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318462,
@@ -2203,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292040,
+      "num": 196314,
+      "word": "易烊千玺拍撕拉片",
+      "onboard_time": 1757411182,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289556,
       "num": 210907,
       "word": "刘涛腰臀比",
@@ -2264,14 +2296,6 @@
       "word": "scout",
       "onboard_time": 1757237601,
       "rank": 36,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 277870,
-      "num": 277870,
-      "word": "BLG对战iG",
-      "onboard_time": 1757412442,
-      "rank": 7,
       "category": "电竞"
     },
     {
@@ -2409,14 +2433,6 @@
       "onboard_time": 1757302164,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249353,
-      "num": 196314,
-      "word": "易烊千玺拍撕拉片",
-      "onboard_time": 1757411182,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 247897,
@@ -2617,6 +2633,14 @@
       "onboard_time": 1757304986,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226420,
+      "num": 187031,
+      "word": "董璇 早知道把小酒窝带来",
+      "onboard_time": 1757413342,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 225952,
@@ -3051,14 +3075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200657,
-      "num": 200657,
-      "word": "娃哈哈瓶盖被当公章盖在实习证明上",
-      "onboard_time": 1757412081,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200417,
       "num": 200417,
       "word": "迈凯伦",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1757315963,
       "rank": 31,
       "category": "民生新闻,海外新闻"
+    },
+    {
+      "raw_hot": 196824,
+      "num": 196824,
+      "word": "舆情通报不能开空头支票",
+      "onboard_time": 1757409623,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196410,
@@ -3339,14 +3363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190451,
-      "num": 190451,
-      "word": "舆情通报不能开空头支票",
-      "onboard_time": 1757409623,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190449,
       "num": 190449,
       "word": "苹果发布会有何亮点",
@@ -3371,6 +3387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189767,
+      "num": 152208,
+      "word": "印度人想456元包场成都餐厅",
+      "onboard_time": 1757414542,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189655,
       "num": 189655,
       "word": "优酷上新30档综艺",
@@ -3385,6 +3409,14 @@
       "onboard_time": 1757209462,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189457,
+      "num": 150659,
+      "word": "马柏全 华伦天奴",
+      "onboard_time": 1757414122,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189371,
@@ -3449,6 +3481,14 @@
       "onboard_time": 1757253923,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186862,
+      "num": 193139,
+      "word": "老师诱骗超20名小学生加入邪教",
+      "onboard_time": 1757411782,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186730,
@@ -3611,14 +3651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180331,
-      "num": 180331,
-      "word": "CEO出轨女同事其丈夫发声",
-      "onboard_time": 1757411782,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 180135,
       "num": 180135,
       "word": "不为人知的故事官宣",
@@ -3683,20 +3715,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178149,
-      "num": 193139,
-      "word": "老师诱骗超20名小学生加入邪教",
-      "onboard_time": 1757411782,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177788,
       "num": 221974,
       "word": "这些祝福送给每一个追梦的你",
       "onboard_time": 1757343085,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 177238,
+      "num": 190853,
+      "word": "鹿晗急得在后台找话筒",
+      "onboard_time": 1757412983,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 177087,
@@ -4377,6 +4409,14 @@
       "onboard_time": 1757340864,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156571,
+      "num": 141031,
+      "word": "果然留子一出手就是王炸",
+      "onboard_time": 1757413881,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 156461,
@@ -5139,6 +5179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139989,
+      "num": 139989,
+      "word": "暗示性求助",
+      "onboard_time": 1757412861,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139740,
       "num": 139740,
       "word": "唐舞桐3D建模",
@@ -5825,6 +5873,14 @@
       "onboard_time": 1757313083,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127335,
+      "num": 180067,
+      "word": "景区买冰粉吃出十几条蛆虫",
+      "onboard_time": 1757413040,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127211,
@@ -6523,14 +6579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116669,
-      "num": 190853,
-      "word": "鹿晗急得在后台找话筒",
-      "onboard_time": 1757412983,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 116425,
       "num": 116425,
       "word": "樊振东第一时间和队长复盘",
@@ -6593,14 +6641,6 @@
       "onboard_time": 1757224102,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115508,
-      "num": 115508,
-      "word": "景区买冰粉吃出十几条蛆虫",
-      "onboard_time": 1757413040,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115486,
@@ -6705,6 +6745,14 @@
       "onboard_time": 1757233043,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113624,
+      "num": 113624,
+      "word": "华科大官网已撤下校友王腾资料页面",
+      "onboard_time": 1757414422,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 113275,
@@ -6979,6 +7027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109792,
+      "num": 109792,
+      "word": "邱贻可满意摸头杀孙颖莎",
+      "onboard_time": 1757413102,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109468,
       "num": 109468,
       "word": "石洵瑶钱天一女双亚军",
@@ -7204,7 +7260,7 @@
     },
     {
       "raw_hot": 106522,
-      "num": 115335,
+      "num": 175857,
       "word": "内娱梦女文四巨头",
       "onboard_time": 1757409023,
       "rank": 38,
@@ -7499,14 +7555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101895,
-      "num": 117346,
-      "word": "董璇 早知道把小酒窝带来",
-      "onboard_time": 1757413342,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101878,
       "num": 151181,
       "word": "小北的淘汰感言",
@@ -7625,14 +7673,6 @@
       "onboard_time": 1757401581,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 99908,
-      "num": 99908,
-      "word": "邱贻可满意摸头杀孙颖莎",
-      "onboard_time": 1757413102,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 99826,
@@ -7897,6 +7937,14 @@
       "onboard_time": 1757243179,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93768,
+      "num": 198110,
+      "word": "泰国前总理他信须重新服刑1年",
+      "onboard_time": 1757412922,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93557,
@@ -8619,12 +8667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66335,
-      "num": 198110,
-      "word": "泰国前总理他信须重新服刑1年",
-      "onboard_time": 1757412922,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 64884,
+      "num": 133466,
+      "word": "付费乱讲PPT门票5分钟抢光",
+      "onboard_time": 1757413824,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64713,
@@ -8859,6 +8907,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55735,
+      "num": 633930,
+      "word": "九三纪念短片我们的胜利日",
+      "onboard_time": 1757410102,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 55606,
+      "num": 133062,
+      "word": "念莲花相夷再遇秋水沉舟",
+      "onboard_time": 1757414542,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55505,
       "num": 207183,
       "word": "多名初中女生欺凌同学警方立案",
@@ -8897,14 +8961,6 @@
       "onboard_time": 1757186654,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 54770,
-      "num": 633930,
-      "word": "九三纪念短片我们的胜利日",
-      "onboard_time": 1757410102,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54639,
@@ -8993,6 +9049,14 @@
       "onboard_time": 1757320341,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50862,
+      "num": 145495,
+      "word": "烧伤美妆博主重回事故现场",
+      "onboard_time": 1757414302,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50683,
@@ -9521,6 +9585,14 @@
       "onboard_time": 1757309963,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22054,
+      "num": 190002,
+      "word": "他信被判监禁后佩通坦发声",
+      "onboard_time": 1757413942,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21953,
