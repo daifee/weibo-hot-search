@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757395499145,
+  "endTime": 1757396440549,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -51,6 +51,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1508651,
+      "num": 254913,
+      "word": "霍乱",
+      "onboard_time": 1757392704,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1389642,
       "num": 380034,
       "word": "雷军评价王腾",
@@ -65,14 +73,6 @@
       "onboard_time": 1757382080,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1330972,
-      "num": 254913,
-      "word": "霍乱",
-      "onboard_time": 1757392704,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1306694,
@@ -145,6 +145,14 @@
       "onboard_time": 1757391083,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 801278,
+      "num": 801278,
+      "word": "VOGUE官宣辛芷蕾",
+      "onboard_time": 1757394984,
+      "rank": 13,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 797338,
@@ -225,14 +233,6 @@
       "onboard_time": 1757390303,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521390,
-      "num": 237237,
-      "word": "VOGUE官宣辛芷蕾",
-      "onboard_time": 1757394984,
-      "rank": 13,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 479617,
@@ -403,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 350728,
+      "num": 350728,
+      "word": "影后想要 影后得到",
+      "onboard_time": 1757394324,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344245,
       "num": 334439,
       "word": "喝咖啡和不喝咖啡的身体差距",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265599,
+      "num": 233457,
+      "word": "黄奕10年救助2000多个孩子",
+      "onboard_time": 1757395222,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250495,
       "num": 495737,
       "word": "马龙 替我姥姥谢谢倪妮",
@@ -523,6 +539,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235590,
+      "num": 235590,
+      "word": "青岛一环卫工人将垃圾扫进大海",
+      "onboard_time": 1757394083,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232705,
+      "num": 232705,
+      "word": "曝阿里将发布重磅业务",
+      "onboard_time": 1757395102,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 232335,
       "num": 263517,
       "word": "育儿补贴申请不再需要预约",
@@ -532,11 +564,19 @@
     },
     {
       "raw_hot": 230113,
-      "num": 230113,
+      "num": 233875,
       "word": "今天是毛主席逝世49周年纪念日",
       "onboard_time": 1757381541,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 228683,
+      "num": 228683,
+      "word": "王腾小米工作经历配流汗表情",
+      "onboard_time": 1757395342,
+      "rank": 36,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 224613,
@@ -611,14 +651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207405,
-      "num": 207405,
-      "word": "影后想要 影后得到",
-      "onboard_time": 1757394324,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 206986,
       "num": 206986,
       "word": "早期的辛芷蕾 性感野心家",
@@ -665,14 +697,6 @@
       "onboard_time": 1757389463,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200378,
-      "num": 200378,
-      "word": "曝阿里将发布重磅业务",
-      "onboard_time": 1757395102,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 198344,
@@ -827,12 +851,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164641,
-      "num": 196712,
-      "word": "青岛一环卫工人将垃圾扫进大海",
-      "onboard_time": 1757394083,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 163976,
+      "num": 163976,
+      "word": "坐高铁偶遇白敬亭",
+      "onboard_time": 1757395522,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 163830,
@@ -851,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162193,
-      "num": 162193,
-      "word": "黄奕10年救助2000多个孩子",
-      "onboard_time": 1757395222,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161999,
       "num": 161999,
       "word": "小酒窝三岁就能用英语自我介绍",
@@ -867,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161807,
+      "num": 161807,
+      "word": "想活到梓渝小和尚剧情",
+      "onboard_time": 1757396062,
+      "rank": 37,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 161549,
       "num": 161549,
       "word": "我高中丑关我大学什么事",
       "onboard_time": 1757388562,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161215,
+      "num": 184613,
+      "word": "慕尼黑车展基础零跑展台就不基础",
+      "onboard_time": 1757395761,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 161147,
@@ -889,6 +921,22 @@
       "onboard_time": 1757386101,
       "rank": 46,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 155228,
+      "num": 213226,
+      "word": "每月分4次给生活费父亲发声",
+      "onboard_time": 1757396062,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154562,
+      "num": 199947,
+      "word": "黄金飙升原因",
+      "onboard_time": 1757394984,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 152997,
@@ -963,12 +1011,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144689,
+      "num": 144689,
+      "word": "高圆圆徒手抓蚯蚓",
+      "onboard_time": 1757395342,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143592,
       "num": 143592,
       "word": "王腾小米履历",
       "onboard_time": 1757390962,
       "rank": 45,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 141688,
+      "num": 141688,
+      "word": "iPhone17全系电池容量曝光",
+      "onboard_time": 1757396123,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 141429,
+      "num": 141429,
+      "word": "井柏然喝懵了",
+      "onboard_time": 1757395761,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 141303,
@@ -1043,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134278,
-      "num": 134278,
-      "word": "王腾小米工作经历配流汗表情",
-      "onboard_time": 1757395342,
-      "rank": 36,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 134128,
       "num": 134128,
       "word": "四川自贡3.6级地震",
@@ -1083,12 +1147,12 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 129107,
-      "num": 193315,
-      "word": "黄金飙升原因",
-      "onboard_time": 1757394984,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 131250,
+      "num": 131250,
+      "word": "我们的宿舍你好星期六联动直播",
+      "onboard_time": 1757395462,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 127913,
@@ -1155,14 +1219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 116696,
-      "num": 116696,
-      "word": "我们的宿舍你好星期六联动直播",
-      "onboard_time": 1757395462,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115815,
       "num": 115815,
       "word": "心动的信号8",
@@ -1195,14 +1251,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 112324,
-      "num": 112324,
-      "word": "高圆圆徒手抓蚯蚓",
-      "onboard_time": 1757395342,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112303,
       "num": 112303,
       "word": "家长投诉二年级英语课少1周仅1节",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1757377642,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111930,
+      "num": 233381,
+      "word": "张晚意这段预判了多少人的预判",
+      "onboard_time": 1757395761,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 111621,
@@ -1347,8 +1403,16 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 101477,
+      "num": 126433,
+      "word": "开保时捷华人女子加拿大遭绑架",
+      "onboard_time": 1757395342,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101100,
-      "num": 124979,
+      "num": 150183,
       "word": "金靖还笑呢吴镇宇治你来了",
       "onboard_time": 1757395282,
       "rank": 39,
@@ -1427,6 +1491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78689,
+      "num": 265142,
+      "word": "他信案宣判",
+      "onboard_time": 1757394624,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77454,
       "num": 77454,
       "word": "为什么九三阅兵歼10拉彩烟",
@@ -1459,6 +1531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73879,
+      "num": 235422,
+      "word": "自闭症学生入学会影响其他同学吗",
+      "onboard_time": 1757395761,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71857,
       "num": 218695,
       "word": "月全食后还有流星雨",
@@ -1473,14 +1553,6 @@
       "onboard_time": 1757368275,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67859,
-      "num": 265142,
-      "word": "他信案宣判",
-      "onboard_time": 1757394624,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67241,
@@ -1675,6 +1747,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 39914,
+      "num": 147029,
+      "word": "赵磊上婚综扮老年妆",
+      "onboard_time": 1757395642,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36069,
       "num": 183565,
       "word": "于适栩栩华生红毯造型",
@@ -1747,7 +1827,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 5291,
+      "raw_hot": 6211,
       "num": 837574,
       "word": "想入军迷圈的现在正是好时候",
       "onboard_time": 1757299524,
