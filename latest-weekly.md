@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/07 00:27:00 ~ 2025/09/10 01:22:51
+本榜单时间：2025/09/07 00:27:00 ~ 2025/09/10 01:37:07
 </p>
 </blockquote>
 <p>
@@ -467,6 +467,12 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%AE%8C%E5%A9%9A%23" target="weibo">
 知情人回应许嵩冯禧完婚（热度：952235）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%23" target="weibo">
+AirPods Pro3（热度：944535）
 </a>
 </li>
 
@@ -1677,12 +1683,6 @@ AL对战WBG（热度：327576）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%23" target="weibo">
-AirPods Pro3（热度：321838）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%AE%A3%E5%B8%83%E8%BE%9E%E5%8E%BB%E8%87%AA%E6%B0%91%E5%85%9A%E6%80%BB%E8%A3%81%E8%81%8C%E5%8A%A1%23" target="weibo">
 石破茂宣布辞去自民党总裁职务（热度：319429）
 </a>
@@ -2415,6 +2415,12 @@ BLG对战JDG（热度：224476）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%23" target="weibo">
+AirPods Pro3实时翻译（热度：208701）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%20%E5%BA%93%E7%94%B7%E7%A5%9E%E6%88%91%E7%BB%88%E4%BA%8E%E5%92%8C%E4%BD%A0%E8%A7%81%E9%9D%A2%E4%BA%86%23" target="weibo">
 张桂源 库男神我终于和你见面了（热度：208451）
 </a>
@@ -2741,6 +2747,12 @@ B太助农卖葡萄被冷链车坑（热度：197030）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%89%B9%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E5%8D%B3%E5%B0%86%E5%9B%9E%E5%9B%BD%23" target="weibo">
 第十二批在韩志愿军烈士遗骸即将回国（热度：194339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E8%A6%81%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E4%BA%86%23" target="weibo">
+我的手机要低人一等了（热度：193990）
 </a>
 </li>
 
@@ -4797,12 +4809,6 @@ U22国足半场0比0澳大利亚U22（热度：130475）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E8%A6%81%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E4%BA%86%23" target="weibo">
-我的手机要低人一等了（热度：130152）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%9B%9B%E5%85%AC%E9%87%8C%E8%B7%AF%E7%A8%8B%E6%95%91%E6%8A%A4%E8%BD%A6%E5%BC%80%E4%BA%8630%E5%A4%9A%E5%88%86%E9%92%9F%23" target="weibo">
 三四公里路程救护车开了30多分钟（热度：130100）
 </a>
@@ -4817,6 +4823,12 @@ U22国足半场0比0澳大利亚U22（热度：130475）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%98%85%E5%85%B5%E6%88%98%E5%A3%AB%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%90%83%E5%95%A5%E4%BA%86%23" target="weibo">
 终于知道阅兵战士每天都在吃啥了（热度：129733）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%89%B9%E5%8F%8D%E5%8D%8E%E9%9B%86%E4%BC%9A%E7%BA%AF%E5%B1%9E%E9%97%B9%E4%BA%8B%23" target="weibo">
+李在明批反华集会纯属闹事（热度：129633）
 </a>
 </li>
 
@@ -4859,12 +4871,6 @@ U22国足半场0比0澳大利亚U22（热度：130475）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E6%88%91%E8%AE%A4%E8%AF%86%E7%9A%84%E5%88%98%E8%90%8C%E8%90%8C%E5%90%97%23" target="weibo">
 这还是我认识的刘萌萌吗（热度：128827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%89%B9%E5%8F%8D%E5%8D%8E%E9%9B%86%E4%BC%9A%E7%BA%AF%E5%B1%9E%E9%97%B9%E4%BA%8B%23" target="weibo">
-李在明批反华集会纯属闹事（热度：128576）
 </a>
 </li>
 
@@ -5961,6 +5967,12 @@ A股两市成交额萎缩超3000亿（热度：108480）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Apple%20Watch%20S11%23" target="weibo">
+Apple Watch S11（热度：108448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C%23" target="weibo">
 尼泊尔多地爆发大规模示威游行（热度：108396）
 </a>
@@ -6317,12 +6329,6 @@ TizzyT羊King羊boss（热度：106554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E6%8A%A0%E6%89%8B%23" target="weibo">
 王皓抠手（热度：101804）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%23" target="weibo">
-AirPods Pro3实时翻译（热度：101762）
 </a>
 </li>
 
@@ -7155,6 +7161,12 @@ NASA登月被质疑（热度：78601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%20%E6%B5%8B%E5%BF%83%E7%8E%87%23" target="weibo">
+AirPods Pro3 测心率（热度：70048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E7%93%9C%E6%B1%A4%23" target="weibo">
 丝瓜汤（热度：69892）
 </a>
@@ -7739,6 +7751,12 @@ Meiko高高兴兴去跟刘神打招呼（热度：53473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E6%A0%A9%E6%A0%A9%E5%8D%8E%E7%94%9F%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23" target="weibo">
 于适栩栩华生红毯造型（热度：36069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Apple%20Watch%20S11%E7%BB%AD%E8%88%AA24%E5%B0%8F%E6%97%B6%23" target="weibo">
+Apple Watch S11续航24小时（热度：34615）
 </a>
 </li>
 

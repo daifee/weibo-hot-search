@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757438571463,
+  "endTime": 1757439427585,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1769,6 +1769,14 @@
       "onboard_time": 1756856420,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 944535,
+      "num": 944535,
+      "word": "AirPods Pro3",
+      "onboard_time": 1757438058,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 942416,
@@ -6659,14 +6667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321838,
-      "num": 321838,
-      "word": "AirPods Pro3",
-      "onboard_time": 1757438058,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 321008,
       "num": 321008,
       "word": "儿子亮相阅兵那一刻父亲热泪盈眶",
@@ -9475,6 +9475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208701,
+      "num": 208701,
+      "word": "AirPods Pro3实时翻译",
+      "onboard_time": 1757438238,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208641,
       "num": 208641,
       "word": "王晰弹唱",
@@ -10417,6 +10425,14 @@
       "onboard_time": 1756853537,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193990,
+      "num": 165338,
+      "word": "我的手机要低人一等了",
+      "onboard_time": 1757437757,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 193908,
@@ -16771,14 +16787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130152,
-      "num": 130152,
-      "word": "我的手机要低人一等了",
-      "onboard_time": 1757437757,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 130100,
       "num": 214855,
       "word": "三四公里路程救护车开了30多分钟",
@@ -16841,6 +16849,14 @@
       "onboard_time": 1757235202,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129633,
+      "num": 129633,
+      "word": "李在明批反华集会纯属闹事",
+      "onboard_time": 1757436559,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129509,
@@ -17001,14 +17017,6 @@
       "onboard_time": 1756783760,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128576,
-      "num": 128576,
-      "word": "李在明批反华集会纯属闹事",
-      "onboard_time": 1757436559,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128479,
@@ -20259,6 +20267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108448,
+      "num": 108448,
+      "word": "Apple Watch S11",
+      "onboard_time": 1757439078,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108437,
       "num": 326330,
       "word": "张晚意的N合一龚俊也用上了",
@@ -21361,14 +21377,6 @@
       "onboard_time": 1756791261,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101762,
-      "num": 188123,
-      "word": "AirPods Pro3实时翻译",
-      "onboard_time": 1757438238,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 101706,
@@ -24955,6 +24963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70048,
+      "num": 70048,
+      "word": "AirPods Pro3 测心率",
+      "onboard_time": 1757439016,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70027,
       "num": 115754,
       "word": "aespa演唱会变星光大赏",
@@ -26196,7 +26212,7 @@
     },
     {
       "raw_hot": 53834,
-      "num": 53834,
+      "num": 108479,
       "word": "山东淄博警方破获厕所刻黄网案",
       "onboard_time": 1757437098,
       "rank": 34,
@@ -27153,6 +27169,14 @@
       "onboard_time": 1756825883,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34615,
+      "num": 83755,
+      "word": "Apple Watch S11续航24小时",
+      "onboard_time": 1757439137,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 34592,

@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757438571463,
+  "endTime": 1757439427585,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -17,6 +17,14 @@
       "onboard_time": 1757430924,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 944535,
+      "num": 944535,
+      "word": "AirPods Pro3",
+      "onboard_time": 1757438058,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 510597,
@@ -67,14 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321838,
-      "num": 321838,
-      "word": "AirPods Pro3",
-      "onboard_time": 1757438058,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 289391,
       "num": 289391,
       "word": "不二之臣",
@@ -107,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208701,
+      "num": 208701,
+      "word": "AirPods Pro3实时翻译",
+      "onboard_time": 1757438238,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199839,
       "num": 167887,
       "word": "宋轶疑似取关白敬亭",
@@ -121,6 +129,14 @@
       "onboard_time": 1757434940,
       "rank": 39,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 193990,
+      "num": 165338,
+      "word": "我的手机要低人一等了",
+      "onboard_time": 1757437757,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 189873,
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164564,
+      "num": 164564,
+      "word": "iPhone17",
+      "onboard_time": 1757439376,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 162158,
       "num": 143514,
       "word": "坚持喝牛奶VS坚持喝豆浆",
@@ -203,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130152,
-      "num": 130152,
-      "word": "我的手机要低人一等了",
-      "onboard_time": 1757437757,
-      "rank": 15,
-      "category": "数码"
+      "raw_hot": 129633,
+      "num": 129633,
+      "word": "李在明批反华集会纯属闹事",
+      "onboard_time": 1757436559,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128681,
@@ -217,14 +241,6 @@
       "onboard_time": 1757409682,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128576,
-      "num": 128576,
-      "word": "李在明批反华集会纯属闹事",
-      "onboard_time": 1757436559,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125000,
@@ -251,11 +267,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101762,
-      "num": 188123,
-      "word": "AirPods Pro3实时翻译",
-      "onboard_time": 1757438238,
-      "rank": 9,
+      "raw_hot": 108448,
+      "num": 108448,
+      "word": "Apple Watch S11",
+      "onboard_time": 1757439078,
+      "rank": 19,
       "category": "数码"
     },
     {
@@ -387,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70048,
+      "num": 70048,
+      "word": "AirPods Pro3 测心率",
+      "onboard_time": 1757439016,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67949,
       "num": 67949,
       "word": "以军袭击卡塔尔声明",
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 53834,
-      "num": 53834,
+      "num": 108479,
       "word": "山东淄博警方破获厕所刻黄网案",
       "onboard_time": 1757437098,
       "rank": 34,
@@ -459,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34615,
+      "num": 83755,
+      "word": "Apple Watch S11续航24小时",
+      "onboard_time": 1757439137,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34152,
       "num": 131587,
       "word": "汶川地震被救男孩九三阅兵圆梦了",
@@ -467,8 +499,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26763,
+      "num": 38615,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1757424444,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3797,
-      "num": 419929,
+      "num": 455531,
       "word": "为啥歼10是争气机",
       "onboard_time": 1757314282,
       "rank": 2,

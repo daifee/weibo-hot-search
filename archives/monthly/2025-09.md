@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/10 01:22:51
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/10 01:37:07
 </p>
 </blockquote>
 <p>
@@ -1337,6 +1337,12 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E5%A4%A9%E5%9B%A2%E7%8E%B0%E8%BA%AB%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%23" target="weibo">
 外交天团现身天安门广场（热度：948956）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%23" target="weibo">
+AirPods Pro3（热度：944535）
 </a>
 </li>
 
@@ -5003,12 +5009,6 @@ AL对战WBG（热度：327576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23" target="weibo">
 成都震感（热度：322979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%23" target="weibo">
-AirPods Pro3（热度：321838）
 </a>
 </li>
 

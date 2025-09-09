@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757438571463,
+  "endTime": 1757439427585,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -609,6 +609,14 @@
       "onboard_time": 1757261421,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 944535,
+      "num": 944535,
+      "word": "AirPods Pro3",
+      "onboard_time": 1757438058,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 938531,
@@ -2219,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321838,
-      "num": 321838,
-      "word": "AirPods Pro3",
-      "onboard_time": 1757438058,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 319429,
       "num": 406979,
       "word": "石破茂宣布辞去自民党总裁职务",
@@ -3203,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208701,
+      "num": 208701,
+      "word": "AirPods Pro3实时翻译",
+      "onboard_time": 1757438238,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208451,
       "num": 208451,
       "word": "张桂源 库男神我终于和你见面了",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1757299702,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193990,
+      "num": 165338,
+      "word": "我的手机要低人一等了",
+      "onboard_time": 1757437757,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 193342,
@@ -6379,14 +6395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 130152,
-      "num": 130152,
-      "word": "我的手机要低人一等了",
-      "onboard_time": 1757437757,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 130100,
       "num": 214855,
       "word": "三四公里路程救护车开了30多分钟",
@@ -6409,6 +6417,14 @@
       "onboard_time": 1757235202,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129633,
+      "num": 129633,
+      "word": "李在明批反华集会纯属闹事",
+      "onboard_time": 1757436559,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129484,
@@ -6465,14 +6481,6 @@
       "onboard_time": 1757336183,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128576,
-      "num": 128576,
-      "word": "李在明批反华集会纯属闹事",
-      "onboard_time": 1757436559,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128422,
@@ -7931,6 +7939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108448,
+      "num": 108448,
+      "word": "Apple Watch S11",
+      "onboard_time": 1757439078,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108396,
       "num": 108396,
       "word": "尼泊尔多地爆发大规模示威游行",
@@ -8409,14 +8425,6 @@
       "onboard_time": 1757419642,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101762,
-      "num": 188123,
-      "word": "AirPods Pro3实时翻译",
-      "onboard_time": 1757438238,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 101706,
@@ -9523,6 +9531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70048,
+      "num": 70048,
+      "word": "AirPods Pro3 测心率",
+      "onboard_time": 1757439016,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 69892,
       "num": 69892,
       "word": "丝瓜汤",
@@ -9940,7 +9956,7 @@
     },
     {
       "raw_hot": 53834,
-      "num": 53834,
+      "num": 108479,
       "word": "山东淄博警方破获厕所刻黄网案",
       "onboard_time": 1757437098,
       "rank": 34,
@@ -10305,6 +10321,14 @@
       "onboard_time": 1757352076,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34615,
+      "num": 83755,
+      "word": "Apple Watch S11续航24小时",
+      "onboard_time": 1757439137,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 34532,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1757439427585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3999278,
+        "num": 3999278,
+        "word": "苹果发布会",
+        "onboard_time": 1757431282,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 944535,
+        "num": 944535,
+        "word": "AirPods Pro3",
+        "onboard_time": 1757438058,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2091,
+        "num": 455531,
+        "word": "为啥歼10是争气机",
+        "onboard_time": 1757314282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254988,
+        "num": 254988,
+        "word": "1.61亿网民正遭私域直播围猎",
+        "onboard_time": 1757432362,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208701,
+        "num": 208701,
+        "word": "AirPods Pro3实时翻译",
+        "onboard_time": 1757438238,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187482,
+        "num": 187482,
+        "word": "卡塔尔首都多哈发生剧烈爆炸",
+        "onboard_time": 1757424083,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173157,
+        "num": 173157,
+        "word": "B太助农卖葡萄被冷链车坑",
+        "onboard_time": 1757434940,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 169404,
+        "num": 169404,
+        "word": "游本昌和妻子在养老院现状",
+        "onboard_time": 1757423543,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84215,
+        "num": 168717,
+        "word": "不二之臣",
+        "onboard_time": 1757426425,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162471,
+        "num": 168016,
+        "word": "美国背刺韩国",
+        "onboard_time": 1757433561,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 795846,
+        "num": 166846,
+        "word": "黄景瑜前妻 俩孩子一个被他打没了",
+        "onboard_time": 1757430924,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212903,
+        "num": 166440,
+        "word": "冯禧的情商",
+        "onboard_time": 1757431642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193990,
+        "num": 165338,
+        "word": "我的手机要低人一等了",
+        "onboard_time": 1757437757,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164564,
+        "num": 164564,
+        "word": "iPhone17",
+        "onboard_time": 1757439376,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142752,
+        "num": 142752,
+        "word": "胡宾果住酒店被偷拍",
+        "onboard_time": 1757430504,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129633,
+        "num": 129633,
+        "word": "李在明批反华集会纯属闹事",
+        "onboard_time": 1757436559,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117438,
+        "num": 117438,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65525,
+        "num": 108592,
+        "word": "6省国补资金违规使用过亿",
+        "onboard_time": 1757427865,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43024,
+        "num": 108479,
+        "word": "山东淄博警方破获厕所刻黄网案",
+        "onboard_time": 1757437098,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108448,
+        "num": 108448,
+        "word": "Apple Watch S11",
+        "onboard_time": 1757439078,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89799,
+        "num": 89799,
+        "word": "暹罗猫小豆泥去世",
+        "onboard_time": 1757420662,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34615,
+        "num": 83755,
+        "word": "Apple Watch S11续航24小时",
+        "onboard_time": 1757439137,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94351,
+        "num": 83311,
+        "word": "为什么接吻的时候闻不到对方口臭",
+        "onboard_time": 1757427265,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82732,
+        "num": 82732,
+        "word": "九三阅兵观礼座被二次利用了",
+        "onboard_time": 1757425164,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79421,
+        "num": 79421,
+        "word": "曝布兰妮家里都是狗大便",
+        "onboard_time": 1757426604,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77278,
+        "num": 77278,
+        "word": "宋轶疑似取关白敬亭",
+        "onboard_time": 1757415742,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76921,
+        "num": 76921,
+        "word": "坚持喝牛奶VS坚持喝豆浆",
+        "onboard_time": 1757428703,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 51189,
+        "num": 71588,
+        "word": "鞠婧祎生图",
+        "onboard_time": 1757428344,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48570,
+        "num": 71347,
+        "word": "短剧圈就是个巨大的明星脸",
+        "onboard_time": 1757423363,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36955,
+        "num": 71318,
+        "word": "金价",
+        "onboard_time": 1757431043,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71292,
+        "num": 71292,
+        "word": "许玮甯孕期胖了12公斤",
+        "onboard_time": 1757432663,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70048,
+        "num": 70048,
+        "word": "AirPods Pro3 测心率",
+        "onboard_time": 1757439016,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39689,
+        "num": 67897,
+        "word": "单依纯 栩栩华生CEO",
+        "onboard_time": 1757420902,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67707,
+        "num": 67707,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757409682,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67356,
+        "num": 67356,
+        "word": "男子疑因彩礼谈崩分手后被告强奸",
+        "onboard_time": 1757423663,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55819,
+        "num": 55819,
+        "word": "科技春晚",
+        "onboard_time": 1757433682,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52196,
+        "num": 52196,
+        "word": "梓渝60秒广告报价60万",
+        "onboard_time": 1757417723,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49232,
+        "num": 49232,
+        "word": "辛芷蕾 显化",
+        "onboard_time": 1757410642,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44538,
+        "num": 44538,
+        "word": "美国宣布制裁东南亚诈骗集团",
+        "onboard_time": 1757415860,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35458,
+        "num": 42943,
+        "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+        "onboard_time": 1757412081,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42064,
+        "num": 42064,
+        "word": "以军承认对多哈袭击事件负责",
+        "onboard_time": 1757425944,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41561,
+        "num": 41561,
+        "word": "以色列袭击卡塔尔的哈马斯高层",
+        "onboard_time": 1757424683,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40634,
+        "num": 40634,
+        "word": "一诺微博粉丝破500万",
+        "onboard_time": 1757433262,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39730,
+        "num": 39730,
+        "word": "印度人想456元包场成都餐厅",
+        "onboard_time": 1757414542,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39638,
+        "num": 39638,
+        "word": "卡塔尔首都多哈爆炸现场画面",
+        "onboard_time": 1757428227,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38649,
+        "num": 38649,
+        "word": "CEO出轨女同事其丈夫发声",
+        "onboard_time": 1757411782,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33337,
+        "num": 38649,
+        "word": "梓渝真求到佛了",
+        "onboard_time": 1757430683,
+        "rank": 46,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 32685,
+        "num": 38635,
+        "word": "不二之臣官宣预热",
+        "onboard_time": 1757431103,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28697,
+        "num": 38625,
+        "word": "以军袭击卡塔尔声明",
+        "onboard_time": 1757428524,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26763,
+        "num": 38615,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1757424444,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大教师致以节日祝贺#"
+    }
+  }
+}
