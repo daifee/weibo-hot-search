@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757431708221,
+  "endTime": 1757432535376,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -17,6 +17,14 @@
       "onboard_time": 1757383400,
       "rank": 0,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 3424026,
+      "num": 267048,
+      "word": "黄景瑜前妻 俩孩子一个被他打没了",
+      "onboard_time": 1757430924,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2309654,
@@ -99,20 +107,20 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1547886,
+      "num": 1547886,
+      "word": "苹果发布会",
+      "onboard_time": 1757431282,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1529561,
       "num": 454552,
       "word": "霍乱",
       "onboard_time": 1757392704,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1463409,
-      "num": 267048,
-      "word": "黄景瑜前妻 俩孩子一个被他打没了",
-      "onboard_time": 1757430924,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1389642,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681948,
+      "num": 260253,
+      "word": "胡宾果住酒店被偷拍",
+      "onboard_time": 1757430504,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 674815,
       "num": 674815,
       "word": "33岁女子维修无人机年入超500万",
@@ -417,14 +433,6 @@
       "onboard_time": 1757342723,
       "rank": 3,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 592092,
-      "num": 260253,
-      "word": "胡宾果住酒店被偷拍",
-      "onboard_time": 1757430504,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 590835,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 515328,
-      "num": 313531,
+      "num": 411302,
       "word": "鞠婧祎生图",
       "onboard_time": 1757428344,
       "rank": 29,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 382875,
-      "num": 226029,
+      "num": 230493,
       "word": "九三阅兵观礼座被二次利用了",
       "onboard_time": 1757425164,
       "rank": 34,
@@ -875,14 +883,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 314183,
-      "num": 314183,
-      "word": "苹果发布会",
-      "onboard_time": 1757431282,
-      "rank": 5,
-      "category": "数码"
-    },
-    {
       "raw_hot": 311460,
       "num": 311460,
       "word": "以军承认对多哈袭击事件负责",
@@ -897,6 +897,14 @@
       "onboard_time": 1757387541,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301844,
+      "num": 301844,
+      "word": "北京冰雹",
+      "onboard_time": 1757427566,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299210,
@@ -953,14 +961,6 @@
       "onboard_time": 1757382921,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268826,
-      "num": 268826,
-      "word": "北京冰雹",
-      "onboard_time": 1757427566,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267601,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1757381541,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 229638,
+      "num": 229638,
+      "word": "冯禧的情商",
+      "onboard_time": 1757431642,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 226420,
@@ -1411,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191542,
+      "num": 191542,
+      "word": "胡宾果被偷拍者威胁",
+      "onboard_time": 1757431403,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191006,
       "num": 215320,
       "word": "黄雅莉和她的十个勤天弟弟",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1757408182,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182733,
+      "num": 256786,
+      "word": "卡塔尔首都多哈爆炸现场画面",
+      "onboard_time": 1757428227,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182701,
@@ -1716,7 +1740,7 @@
     },
     {
       "raw_hot": 167041,
-      "num": 167041,
+      "num": 183010,
       "word": "婢女开播",
       "onboard_time": 1757428824,
       "rank": 43,
@@ -1889,14 +1913,6 @@
       "onboard_time": 1757408363,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153400,
-      "num": 256786,
-      "word": "卡塔尔首都多哈爆炸现场画面",
-      "onboard_time": 1757428227,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 152997,
@@ -2123,6 +2139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138344,
+      "num": 138344,
+      "word": "宋雨琦还痛吗MV",
+      "onboard_time": 1757432183,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138278,
       "num": 138278,
       "word": "现货黄金突破3650",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1757391804,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137750,
+      "num": 182450,
+      "word": "金价",
+      "onboard_time": 1757431043,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 137665,
@@ -2283,14 +2315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129718,
-      "num": 129718,
-      "word": "胡宾果被偷拍者威胁",
-      "onboard_time": 1757431403,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 129467,
       "num": 129467,
       "word": "家属偷塞红包举报医生受贿",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1757426244,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124429,
-      "num": 154277,
-      "word": "金价",
-      "onboard_time": 1757431043,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 124190,
@@ -3115,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90798,
+      "num": 97905,
+      "word": "1.61亿网民正遭私域直播围猎",
+      "onboard_time": 1757432362,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86078,
       "num": 173015,
       "word": "尚公主路透是正片剧照级别的",
@@ -3153,6 +3177,14 @@
       "onboard_time": 1757406502,
       "rank": 39,
       "category": "艺人,军事"
+    },
+    {
+      "raw_hot": 82745,
+      "num": 96880,
+      "word": "王楚钦一脸乖巧",
+      "onboard_time": 1757431702,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 81429,
@@ -3531,14 +3563,6 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 45866,
-      "num": 144328,
-      "word": "冯禧的情商",
-      "onboard_time": 1757431642,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44855,
       "num": 183396,
       "word": "福建舰9月10日出港",
@@ -3770,6 +3794,9 @@
     },
     {
       "word": "#习近平会见葡萄牙总理蒙特内格罗#"
+    },
+    {
+      "word": "#习近平向全国广大教师致以节日祝贺#"
     }
   ]
 }
