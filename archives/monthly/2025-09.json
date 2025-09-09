@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757442765418,
+  "endTime": 1757443600949,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3027,6 +3027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 632186,
+      "num": 632186,
+      "word": "iPhone17Pro",
+      "onboard_time": 1757442076,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 632155,
       "num": 632155,
       "word": "刘美含说赵让是张远孙子辈",
@@ -4267,6 +4275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 483021,
+      "num": 483021,
+      "word": "iPhone17Pro 丑",
+      "onboard_time": 1757441416,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 482057,
       "num": 482057,
       "word": "受阅部队将在全新BGM中霸气登场",
@@ -4521,14 +4537,6 @@
       "onboard_time": 1757394083,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 461310,
-      "num": 461310,
-      "word": "iPhone17Pro",
-      "onboard_time": 1757442076,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 459505,
@@ -5371,6 +5379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 395143,
+      "num": 395143,
+      "word": "iPhone17系列价格",
+      "onboard_time": 1757441956,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 394771,
       "num": 394771,
       "word": "中方回应特朗普将国防部改战争部",
@@ -5572,7 +5588,7 @@
     },
     {
       "raw_hot": 383338,
-      "num": 383338,
+      "num": 398063,
       "word": "1.61亿网民正遭私域直播围猎",
       "onboard_time": 1757432362,
       "rank": 47,
@@ -6361,14 +6377,6 @@
       "onboard_time": 1757253802,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 339211,
-      "num": 339211,
-      "word": "iPhone17Pro 丑",
-      "onboard_time": 1757441416,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 338321,
@@ -7633,14 +7641,6 @@
       "onboard_time": 1757406023,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275619,
-      "num": 275619,
-      "word": "iPhone17系列价格",
-      "onboard_time": 1757441956,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 274926,
@@ -16923,6 +16923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129635,
+      "num": 129635,
+      "word": "终于256G起步",
+      "onboard_time": 1757442196,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129633,
       "num": 129633,
       "word": "李在明批反华集会纯属闹事",
@@ -19425,6 +19433,14 @@
       "onboard_time": 1757162303,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113426,
+      "num": 113426,
+      "word": "2TB内存",
+      "onboard_time": 1757442196,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 113379,
@@ -22971,14 +22987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90455,
-      "num": 68571,
-      "word": "终于256G起步",
-      "onboard_time": 1757442196,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 90397,
       "num": 269053,
       "word": "杨幂半成品广告成了",
@@ -25171,14 +25179,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 68571,
-      "num": 68570,
-      "word": "2TB内存",
-      "onboard_time": 1757442196,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 68387,
       "num": 84999,
       "word": "人类和平与发展的崇高事业必将胜利",
@@ -25569,6 +25569,14 @@
       "onboard_time": 1757341342,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63132,
+      "num": 63132,
+      "word": "iPhone17Pro散热",
+      "onboard_time": 1757442916,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 63069,
@@ -26899,6 +26907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44691,
+      "num": 44691,
+      "word": "iPhone17Pro电池史上最大",
+      "onboard_time": 1757442975,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44675,
       "num": 61194,
       "word": "2025微博音频创享日",
@@ -26945,6 +26961,14 @@
       "onboard_time": 1756787303,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42554,
+      "num": 42554,
+      "word": "iPhone17手机壳",
+      "onboard_time": 1757442795,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 42408,
@@ -28036,7 +28060,7 @@
     },
     {
       "raw_hot": 21798,
-      "num": 32817,
+      "num": 43698,
       "word": "凌晨两点客人吃饭老板睡觉",
       "onboard_time": 1757440396,
       "rank": 48,

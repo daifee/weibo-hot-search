@@ -1,0 +1,410 @@
+{
+  "runTime": 1757443600949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2285998,
+        "num": 2285998,
+        "word": "苹果发布会",
+        "onboard_time": 1757431282,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1543634,
+        "num": 1543634,
+        "word": "iPhone17",
+        "onboard_time": 1757439376,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1599,
+        "num": 788405,
+        "word": "为啥歼10是争气机",
+        "onboard_time": 1757314282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 632186,
+        "num": 632186,
+        "word": "iPhone17Pro",
+        "onboard_time": 1757442076,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 589071,
+        "num": 589071,
+        "word": "苹果的牙膏挤爆了",
+        "onboard_time": 1757440456,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53007,
+        "num": 483579,
+        "word": "B太助农卖葡萄被冷链车坑",
+        "onboard_time": 1757434940,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 483021,
+        "num": 483021,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1757441416,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76699,
+        "num": 430770,
+        "word": "游本昌和妻子在养老院现状",
+        "onboard_time": 1757423543,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43533,
+        "num": 398063,
+        "word": "1.61亿网民正遭私域直播围猎",
+        "onboard_time": 1757432362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37929,
+        "num": 395379,
+        "word": "不二之臣",
+        "onboard_time": 1757426425,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395143,
+        "num": 395143,
+        "word": "iPhone17系列价格",
+        "onboard_time": 1757441956,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 391708,
+        "num": 391708,
+        "word": "iPhone17高刷",
+        "onboard_time": 1757439617,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 329675,
+        "num": 329675,
+        "word": "史上最薄iPhone",
+        "onboard_time": 1757440277,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 298974,
+        "num": 298974,
+        "word": "黄景瑜前妻 俩孩子一个被他打没了",
+        "onboard_time": 1757430924,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213949,
+        "num": 213949,
+        "word": "AirPods Pro3",
+        "onboard_time": 1757438058,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198627,
+        "num": 198627,
+        "word": "iPhone17颜色",
+        "onboard_time": 1757439796,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166763,
+        "num": 166763,
+        "word": "我的手机要低人一等了",
+        "onboard_time": 1757437757,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137761,
+        "num": 137761,
+        "word": "卡塔尔首都多哈发生剧烈爆炸",
+        "onboard_time": 1757424083,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32879,
+        "num": 132635,
+        "word": "山东淄博警方破获厕所刻黄网案",
+        "onboard_time": 1757437098,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25218,
+        "num": 131045,
+        "word": "6省国补资金违规使用过亿",
+        "onboard_time": 1757427865,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129635,
+        "num": 129635,
+        "word": "终于256G起步",
+        "onboard_time": 1757442196,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124182,
+        "num": 124182,
+        "word": "iPhone Air",
+        "onboard_time": 1757440456,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113426,
+        "num": 113426,
+        "word": "2TB内存",
+        "onboard_time": 1757442196,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102444,
+        "num": 102444,
+        "word": "Apple Watch S11",
+        "onboard_time": 1757439078,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90697,
+        "num": 90697,
+        "word": "AirPods Pro3实时翻译",
+        "onboard_time": 1757438238,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84455,
+        "num": 84455,
+        "word": "爱马仕橙",
+        "onboard_time": 1757440875,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70943,
+        "num": 70943,
+        "word": "Apple Watch系列",
+        "onboard_time": 1757439676,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68596,
+        "num": 68596,
+        "word": "冯禧的情商",
+        "onboard_time": 1757431642,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38982,
+        "num": 64585,
+        "word": "九三阅兵观礼座被二次利用了",
+        "onboard_time": 1757425164,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21461,
+        "num": 63637,
+        "word": "老师谢谢你",
+        "onboard_time": 1757437338,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 63132,
+        "num": 63132,
+        "word": "iPhone17Pro散热",
+        "onboard_time": 1757442916,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 61913,
+        "num": 61913,
+        "word": "iPhone17Pro星宇橙色",
+        "onboard_time": 1757442076,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55399,
+        "num": 55399,
+        "word": "胡宾果住酒店被偷拍",
+        "onboard_time": 1757430504,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51054,
+        "num": 51054,
+        "word": "AirPods Pro3没涨价",
+        "onboard_time": 1757439438,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49671,
+        "num": 49671,
+        "word": "疑似iPhone17Air国行包装盒",
+        "onboard_time": 1757427743,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48318,
+        "num": 48318,
+        "word": "暹罗猫小豆泥去世",
+        "onboard_time": 1757420662,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47596,
+        "num": 47596,
+        "word": "李在明批反华集会纯属闹事",
+        "onboard_time": 1757436559,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46013,
+        "num": 46013,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44691,
+        "num": 44691,
+        "word": "iPhone17Pro电池史上最大",
+        "onboard_time": 1757442975,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20899,
+        "num": 43698,
+        "word": "凌晨两点客人吃饭老板睡觉",
+        "onboard_time": 1757440396,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43444,
+        "num": 43444,
+        "word": "AirPods Pro3 测心率",
+        "onboard_time": 1757439016,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42554,
+        "num": 42554,
+        "word": "iPhone17手机壳",
+        "onboard_time": 1757442795,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38036,
+        "num": 38036,
+        "word": "苹果手表支持高血压监测",
+        "onboard_time": 1757439976,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36999,
+        "num": 36999,
+        "word": "男子疑因彩礼谈崩分手后被告强奸",
+        "onboard_time": 1757423663,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35015,
+        "num": 35015,
+        "word": "为什么接吻的时候闻不到对方口臭",
+        "onboard_time": 1757427265,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32914,
+        "num": 32914,
+        "word": "宋轶疑似取关白敬亭",
+        "onboard_time": 1757415742,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31670,
+        "num": 31670,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757409682,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24833,
+        "num": 31655,
+        "word": "短剧圈就是个巨大的明星脸",
+        "onboard_time": 1757423363,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19379,
+        "num": 31653,
+        "word": "以军袭击卡塔尔声明",
+        "onboard_time": 1757428524,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18135,
+        "num": 31652,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1757424444,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大教师致以节日祝贺#"
+    }
+  }
+}

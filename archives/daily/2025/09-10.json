@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757442765418,
+  "endTime": 1757443600949,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -51,6 +51,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 632186,
+      "num": 632186,
+      "word": "iPhone17Pro",
+      "onboard_time": 1757442076,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 510597,
       "num": 184955,
       "word": "胡宾果住酒店被偷拍",
@@ -67,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483021,
+      "num": 483021,
+      "word": "iPhone17Pro 丑",
+      "onboard_time": 1757441416,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 463267,
       "num": 463267,
       "word": "卡塔尔首都多哈发生剧烈爆炸",
       "onboard_time": 1757424083,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 461310,
-      "num": 461310,
-      "word": "iPhone17Pro",
-      "onboard_time": 1757442076,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 433343,
@@ -92,15 +100,23 @@
     },
     {
       "raw_hot": 403893,
-      "num": 403893,
+      "num": 430770,
       "word": "游本昌和妻子在养老院现状",
       "onboard_time": 1757423543,
       "rank": 3,
       "category": "艺人"
     },
     {
+      "raw_hot": 395143,
+      "num": 395143,
+      "word": "iPhone17系列价格",
+      "onboard_time": 1757441956,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 383338,
-      "num": 383338,
+      "num": 398063,
       "word": "1.61亿网民正遭私域直播围猎",
       "onboard_time": 1757432362,
       "rank": 4,
@@ -115,16 +131,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 339211,
-      "num": 339211,
-      "word": "iPhone17Pro 丑",
-      "onboard_time": 1757441416,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 289391,
-      "num": 378079,
+      "num": 395379,
       "word": "不二之臣",
       "onboard_time": 1757426425,
       "rank": 5,
@@ -136,14 +144,6 @@
       "word": "iPhone17颜色",
       "onboard_time": 1757439796,
       "rank": 14,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 275619,
-      "num": 275619,
-      "word": "iPhone17系列价格",
-      "onboard_time": 1757441956,
-      "rank": 15,
       "category": "数码"
     },
     {
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129635,
+      "num": 129635,
+      "word": "终于256G起步",
+      "onboard_time": 1757442196,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129633,
       "num": 129633,
       "word": "李在明批反华集会纯属闹事",
@@ -339,6 +347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113426,
+      "num": 113426,
+      "word": "2TB内存",
+      "onboard_time": 1757442196,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 110300,
       "num": 110300,
       "word": "不二之臣官宣预热",
@@ -360,14 +376,6 @@
       "word": "iPhone17Pro星宇橙色",
       "onboard_time": 1757442076,
       "rank": 24,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 90455,
-      "num": 68571,
-      "word": "终于256G起步",
-      "onboard_time": 1757442196,
-      "rank": 30,
       "category": "数码"
     },
     {
@@ -507,14 +515,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 68571,
-      "num": 68570,
-      "word": "2TB内存",
-      "onboard_time": 1757442196,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 67949,
       "num": 67949,
       "word": "以军袭击卡塔尔声明",
@@ -537,6 +537,14 @@
       "onboard_time": 1757431043,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63132,
+      "num": 63132,
+      "word": "iPhone17Pro散热",
+      "onboard_time": 1757442916,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 62864,
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49671,
+      "num": 49671,
+      "word": "疑似iPhone17Air国行包装盒",
+      "onboard_time": 1757427743,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48203,
       "num": 48203,
       "word": "美国宣布制裁东南亚诈骗集团",
@@ -587,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44691,
+      "num": 44691,
+      "word": "iPhone17Pro电池史上最大",
+      "onboard_time": 1757442975,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43564,
       "num": 176013,
       "word": "伊朗谴责以色列袭击哈马斯高官",
       "onboard_time": 1757433442,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42554,
+      "num": 42554,
+      "word": "iPhone17手机壳",
+      "onboard_time": 1757442795,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 39428,
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 21798,
-      "num": 32817,
+      "num": 43698,
       "word": "凌晨两点客人吃饭老板睡觉",
       "onboard_time": 1757440396,
       "rank": 48,
