@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757387187042,
+  "endTime": 1757387745675,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1065672,
+      "num": 1065672,
+      "word": "iPhone17",
+      "onboard_time": 1757382020,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1061592,
       "num": 353595,
       "word": "王腾曾被雷军点名动不动泄密",
@@ -105,14 +113,6 @@
       "onboard_time": 1757372839,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 709968,
-      "num": 709968,
-      "word": "iPhone17",
-      "onboard_time": 1757382020,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 674815,
@@ -195,6 +195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 440897,
+      "num": 484629,
+      "word": "19岁自闭症学生技校报到当天遭劝退",
+      "onboard_time": 1757384180,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436558,
       "num": 436558,
       "word": "LABUBU价崩黄牛压货倒赔",
@@ -259,12 +267,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 378838,
-      "num": 484629,
-      "word": "19岁自闭症学生技校报到当天遭劝退",
-      "onboard_time": 1757384180,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 383427,
+      "num": 366973,
+      "word": "曾黎的手串是中药做的",
+      "onboard_time": 1757386642,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 368497,
@@ -283,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361022,
+      "num": 361022,
+      "word": "内娱明星助攻好友恋爱",
+      "onboard_time": 1757385321,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355329,
       "num": 355329,
       "word": "毛晓彤被锁房间里了",
       "onboard_time": 1757337682,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 354265,
+      "num": 354265,
+      "word": "杨洋 都这么熟了还这么用心",
+      "onboard_time": 1757385622,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 353243,
@@ -307,12 +331,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 305533,
-      "num": 305533,
-      "word": "杨洋 都这么熟了还这么用心",
-      "onboard_time": 1757385622,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 304275,
+      "num": 368340,
+      "word": "江苏南通通报1例霍乱病例",
+      "onboard_time": 1757387122,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289364,
+      "num": 289364,
+      "word": "一念江南 开机",
+      "onboard_time": 1757387422,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 287225,
@@ -331,27 +363,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279469,
-      "num": 279469,
-      "word": "内娱明星助攻好友恋爱",
-      "onboard_time": 1757385321,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270077,
       "num": 270077,
       "word": "辛芷蕾训粉",
       "onboard_time": 1757382921,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 256767,
-      "num": 217542,
-      "word": "曾黎的手串是中药做的",
-      "onboard_time": 1757386642,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1757344884,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232335,
+      "num": 239857,
+      "word": "育儿补贴申请不再需要预约",
+      "onboard_time": 1757385082,
+      "rank": 16,
+      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 230113,
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218491,
+      "num": 218491,
+      "word": "电视剧花好官宣杀青",
+      "onboard_time": 1757387541,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217020,
       "num": 217020,
       "word": "顶尖华裔数学家科研经费中断被迫筹款",
@@ -473,14 +505,6 @@
       "onboard_time": 1757354476,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199769,
-      "num": 239857,
-      "word": "育儿补贴申请不再需要预约",
-      "onboard_time": 1757385082,
-      "rank": 16,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 198344,
@@ -523,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177533,
+      "num": 202219,
+      "word": "央视镜头下的金莎",
+      "onboard_time": 1757387422,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176837,
       "num": 176837,
       "word": "王腾晋升小米双料总经理不足9个月",
@@ -537,14 +569,6 @@
       "onboard_time": 1757382202,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 176154,
-      "num": 176154,
-      "word": "江苏南通通报1例霍乱病例",
-      "onboard_time": 1757387122,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174705,
@@ -595,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158434,
+      "num": 158434,
+      "word": "我国新能源车产销量全球第一",
+      "onboard_time": 1757386101,
+      "rank": 46,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 152997,
       "num": 152997,
       "word": "特朗普须赔偿8330万美元",
@@ -635,8 +667,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137926,
-      "num": 137926,
+      "raw_hot": 138278,
+      "num": 138278,
       "word": "现货黄金突破3650",
       "onboard_time": 1757387062,
       "rank": 41,
@@ -683,12 +715,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 130893,
-      "num": 130893,
-      "word": "我国新能源车产销量全球第一",
-      "onboard_time": 1757386101,
+      "raw_hot": 127913,
+      "num": 127913,
+      "word": "校方回应自闭症学生报到当天遭劝退",
+      "onboard_time": 1757387363,
       "rank": 46,
-      "category": "汽车,民生新闻"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125532,
+      "num": 125532,
+      "word": "唯一一个不敢插队的科室",
+      "onboard_time": 1757387722,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 124190,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1757374521,
       "rank": 44,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 48712,
+      "num": 156494,
+      "word": "萧亚轩谈李玟手抖",
+      "onboard_time": 1757387181,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 47362,
