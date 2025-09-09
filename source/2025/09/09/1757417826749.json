@@ -1,0 +1,410 @@
+{
+  "runTime": 1757417826749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 857794,
+        "num": 1137247,
+        "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+        "onboard_time": 1757412081,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 763888,
+        "num": 763888,
+        "word": "外卖平台集体发声",
+        "onboard_time": 1757404223,
+        "rank": 1,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 43684,
+        "num": 590192,
+        "word": "九三纪念短片我们的胜利日",
+        "onboard_time": 1757410102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545968,
+        "num": 545968,
+        "word": "小学教师过剩编内转岗临聘清退",
+        "onboard_time": 1757416041,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 346850,
+        "num": 346850,
+        "word": "外卖小哥最不建议点的外卖",
+        "onboard_time": 1757408003,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 292474,
+        "num": 292474,
+        "word": "美国宣布制裁东南亚诈骗集团",
+        "onboard_time": 1757415860,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273141,
+        "num": 273141,
+        "word": "赴山海定档预告",
+        "onboard_time": 1757403442,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221028,
+        "num": 221028,
+        "word": "官方通报9名女生欺凌同学",
+        "onboard_time": 1757414662,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 205445,
+        "num": 205445,
+        "word": "BLG对战iG",
+        "onboard_time": 1757412442,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175157,
+        "num": 175157,
+        "word": "夫妻合租房生娃后被赶合理吗",
+        "onboard_time": 1757402722,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43129,
+        "num": 174981,
+        "word": "河北石家庄一学校被曝扔学生外卖",
+        "onboard_time": 1757415923,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830839,
+        "num": 174764,
+        "word": "宋轶疑似取关白敬亭",
+        "onboard_time": 1757415742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824142,
+        "num": 174634,
+        "word": "CEO出轨女同事其丈夫发声",
+        "onboard_time": 1757411782,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 703126,
+        "num": 174445,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757409682,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527989,
+        "num": 174089,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328119,
+        "num": 173810,
+        "word": "印度人想456元包场成都餐厅",
+        "onboard_time": 1757414542,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252675,
+        "num": 173708,
+        "word": "胡楚靓向网友道歉",
+        "onboard_time": 1757410583,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217469,
+        "num": 173554,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 17,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 203130,
+        "num": 173303,
+        "word": "易烊千玺拍撕拉片",
+        "onboard_time": 1757411182,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140617,
+        "num": 173081,
+        "word": "马柏全 华伦天奴",
+        "onboard_time": 1757414122,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1439233,
+        "num": 172870,
+        "word": "章凝公开孩子父亲",
+        "onboard_time": 1757412741,
+        "rank": 20,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 931794,
+        "num": 172641,
+        "word": "辛芷蕾 显化",
+        "onboard_time": 1757410642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299167,
+        "num": 172280,
+        "word": "太恐怖了不敢亲嘴了",
+        "onboard_time": 1757400681,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147571,
+        "num": 172104,
+        "word": "舆情通报不能开空头支票",
+        "onboard_time": 1757409623,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138857,
+        "num": 171972,
+        "word": "第一次见40位明星集体切舞蹈号",
+        "onboard_time": 1757416100,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135069,
+        "num": 171658,
+        "word": "战至巅峰",
+        "onboard_time": 1757417362,
+        "rank": 25,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 129094,
+        "num": 171509,
+        "word": "李英爱曝15岁女儿一直在参加选秀",
+        "onboard_time": 1757415143,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113189,
+        "num": 171126,
+        "word": "密室大逃脱",
+        "onboard_time": 1757414902,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192107,
+        "num": 171036,
+        "word": "董璇 早知道把小酒窝带来",
+        "onboard_time": 1757413342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48613,
+        "num": 170684,
+        "word": "6名大学生溺亡涉事企业复产",
+        "onboard_time": 1757417544,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188720,
+        "num": 170427,
+        "word": "暗示性求助",
+        "onboard_time": 1757412861,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175548,
+        "num": 170345,
+        "word": "果然留子一出手就是王炸",
+        "onboard_time": 1757413881,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170200,
+        "num": 170200,
+        "word": "香奈儿押宝辛芷蕾9年",
+        "onboard_time": 1757405601,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 153943,
+        "num": 153943,
+        "word": "华科大官网已撤下校友王腾资料页面",
+        "onboard_time": 1757414422,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151447,
+        "num": 151447,
+        "word": "iG阵容",
+        "onboard_time": 1757416100,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148575,
+        "num": 148575,
+        "word": "鹿晗急得在后台找话筒",
+        "onboard_time": 1757412983,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140151,
+        "num": 140151,
+        "word": "东北供暖",
+        "onboard_time": 1757414723,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124641,
+        "num": 124641,
+        "word": "章凝 Miguel",
+        "onboard_time": 1757414723,
+        "rank": 37,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 120036,
+        "num": 120036,
+        "word": "九寨沟一酒店大堂惊现毒蛇",
+        "onboard_time": 1757416461,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65227,
+        "num": 119882,
+        "word": "梓渝60秒广告报价60万",
+        "onboard_time": 1757417723,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119846,
+        "num": 119846,
+        "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
+        "onboard_time": 1757400201,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110208,
+        "num": 110208,
+        "word": "妈妈朋友否认许嵩冯禧结婚",
+        "onboard_time": 1757416342,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109409,
+        "num": 109409,
+        "word": "老师诱骗超20名小学生加入邪教",
+        "onboard_time": 1757411782,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107274,
+        "num": 107274,
+        "word": "华晨宇跳了刀马刀马",
+        "onboard_time": 1757415923,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108506,
+        "num": 107115,
+        "word": "娜扎瘦的骨头根根分明",
+        "onboard_time": 1757414662,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104104,
+        "num": 104104,
+        "word": "井胧井迪血脉压制",
+        "onboard_time": 1757417661,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101936,
+        "num": 101936,
+        "word": "霍乱",
+        "onboard_time": 1757392704,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95242,
+        "num": 95242,
+        "word": "赛马娘乌拉拉原型马去世",
+        "onboard_time": 1757416943,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94857,
+        "num": 94857,
+        "word": "梓渝辩积镜头",
+        "onboard_time": 1757415800,
+        "rank": 48,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 102541,
+        "num": 94822,
+        "word": "古力娜扎助理被粉丝当成明星",
+        "onboard_time": 1757417061,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见葡萄牙总理蒙特内格罗#"
+    }
+  }
+}
