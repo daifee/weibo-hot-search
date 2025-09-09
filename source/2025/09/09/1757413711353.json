@@ -1,0 +1,410 @@
+{
+  "runTime": 1757413711353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1067111,
+        "num": 1170737,
+        "word": "外卖平台集体发声",
+        "onboard_time": 1757404223,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 880567,
+        "num": 880567,
+        "word": "外卖小哥最不建议点的外卖",
+        "onboard_time": 1757408003,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 54770,
+        "num": 633930,
+        "word": "九三纪念短片我们的胜利日",
+        "onboard_time": 1757410102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406272,
+        "num": 406272,
+        "word": "章凝公开孩子父亲",
+        "onboard_time": 1757412741,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334598,
+        "num": 334598,
+        "word": "夫妻合租房生娃后被赶合理吗",
+        "onboard_time": 1757402722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333978,
+        "num": 333978,
+        "word": "赴山海定档预告",
+        "onboard_time": 1757403442,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317499,
+        "num": 317499,
+        "word": "南通老人感染霍乱因不当使用井水",
+        "onboard_time": 1757405122,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277870,
+        "num": 277870,
+        "word": "BLG对战iG",
+        "onboard_time": 1757412442,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 264468,
+        "num": 264468,
+        "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
+        "onboard_time": 1757400201,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200657,
+        "num": 200657,
+        "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+        "onboard_time": 1757412081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1723682,
+        "num": 200170,
+        "word": "辛芷蕾 显化",
+        "onboard_time": 1757410642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1232940,
+        "num": 200129,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757409682,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756243,
+        "num": 199592,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424908,
+        "num": 199008,
+        "word": "胡楚靓向网友道歉",
+        "onboard_time": 1757410583,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66335,
+        "num": 198110,
+        "word": "泰国前总理他信须重新服刑1年",
+        "onboard_time": 1757412922,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289291,
+        "num": 197948,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 15,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 150519,
+        "num": 197211,
+        "word": "花少5全是cp 花少7全是小说",
+        "onboard_time": 1757406141,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280517,
+        "num": 196984,
+        "word": "霍乱",
+        "onboard_time": 1757392704,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249353,
+        "num": 196314,
+        "word": "易烊千玺拍撕拉片",
+        "onboard_time": 1757411182,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125987,
+        "num": 195924,
+        "word": "官方通报多个月水费都是49.93元",
+        "onboard_time": 1757412081,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 403830,
+        "num": 195108,
+        "word": "太恐怖了不敢亲嘴了",
+        "onboard_time": 1757400681,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 382958,
+        "num": 194923,
+        "word": "香奈儿押宝辛芷蕾9年",
+        "onboard_time": 1757405601,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 231666,
+        "num": 194301,
+        "word": "历届选秀TOP",
+        "onboard_time": 1757407522,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202044,
+        "num": 193654,
+        "word": "国产剧吻戏已经进化成这样了",
+        "onboard_time": 1757405481,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178149,
+        "num": 193139,
+        "word": "老师诱骗超20名小学生加入邪教",
+        "onboard_time": 1757411782,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125956,
+        "num": 192643,
+        "word": "齐思钧谈童年经历说哭李晟",
+        "onboard_time": 1757413040,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122479,
+        "num": 192187,
+        "word": "电视剧海报不再是一键复制粘贴了",
+        "onboard_time": 1757412983,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120631,
+        "num": 191561,
+        "word": "王嘉尔澳门抢票",
+        "onboard_time": 1757412861,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117726,
+        "num": 191260,
+        "word": "莲花楼",
+        "onboard_time": 1757410042,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116669,
+        "num": 190853,
+        "word": "鹿晗急得在后台找话筒",
+        "onboard_time": 1757412983,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190451,
+        "num": 190451,
+        "word": "舆情通报不能开空头支票",
+        "onboard_time": 1757409623,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190449,
+        "num": 190449,
+        "word": "苹果发布会有何亮点",
+        "onboard_time": 1757413342,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189067,
+        "num": 189067,
+        "word": "刘美含说赵让是张远孙子辈",
+        "onboard_time": 1757404101,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183969,
+        "num": 183969,
+        "word": "各省奶茶代表",
+        "onboard_time": 1757408182,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180331,
+        "num": 180331,
+        "word": "CEO出轨女同事其丈夫发声",
+        "onboard_time": 1757411782,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139226,
+        "num": 139226,
+        "word": "市监总局将督促外卖平台合理控制补贴",
+        "onboard_time": 1757404223,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125210,
+        "num": 125210,
+        "word": "九三阅兵运20起飞前画面大放送",
+        "onboard_time": 1757404881,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "小米 王腾",
+        "onboard_time": 1757373560,
+        "rank": 37,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 101895,
+        "num": 117346,
+        "word": "董璇 早知道把小酒窝带来",
+        "onboard_time": 1757413342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115508,
+        "num": 115508,
+        "word": "景区买冰粉吃出十几条蛆虫",
+        "onboard_time": 1757413040,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58677,
+        "num": 113436,
+        "word": "民警收到嫌疑人外卖",
+        "onboard_time": 1757413641,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65853,
+        "num": 112713,
+        "word": "粉丝发现王鹤棣疑似代言高德地图",
+        "onboard_time": 1757408662,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112518,
+        "num": 112518,
+        "word": "单依纯最想删除的视频",
+        "onboard_time": 1757409562,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111934,
+        "num": 111934,
+        "word": "男子同意男同事接老婆致对方婚姻破裂",
+        "onboard_time": 1757412200,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104612,
+        "num": 104612,
+        "word": "内娱梦女文四巨头",
+        "onboard_time": 1757409023,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101534,
+        "num": 101534,
+        "word": "赴山海陈钰琪特别主演",
+        "onboard_time": 1757408482,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101367,
+        "num": 101367,
+        "word": "每月分4次给生活费父亲发声",
+        "onboard_time": 1757396062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100919,
+        "num": 100919,
+        "word": "iPhone17",
+        "onboard_time": 1757382020,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99908,
+        "num": 99908,
+        "word": "邱贻可满意摸头杀孙颖莎",
+        "onboard_time": 1757413102,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93422,
+        "num": 93422,
+        "word": "韩国人举美国国旗跳舞",
+        "onboard_time": 1757406442,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见葡萄牙总理蒙特内格罗#"
+    }
+  }
+}

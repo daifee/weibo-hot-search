@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757410884534,
+  "endTime": 1757413711353,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -144,6 +144,14 @@
       "word": "曝辛芷蕾团队工资",
       "onboard_time": 1757321483,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1723682,
+      "num": 200170,
+      "word": "辛芷蕾 显化",
+      "onboard_time": 1757410642,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -569,6 +577,14 @@
       "onboard_time": 1757325142,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 880567,
+      "num": 880567,
+      "word": "外卖小哥最不建议点的外卖",
+      "onboard_time": 1757408003,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 844943,
@@ -1419,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424908,
+      "num": 199008,
+      "word": "胡楚靓向网友道歉",
+      "onboard_time": 1757410583,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 422658,
       "num": 295232,
       "word": "日本19岁未来天皇大办特办成人礼",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1757309784,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406272,
+      "num": 406272,
+      "word": "章凝公开孩子父亲",
+      "onboard_time": 1757412741,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 406248,
@@ -1963,20 +1995,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317499,
+      "num": 317499,
+      "word": "南通老人感染霍乱因不当使用井水",
+      "onboard_time": 1757405122,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315912,
       "num": 337798,
       "word": "梓渝盛世天下好虐",
       "onboard_time": 1757402482,
       "rank": 14,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 315718,
-      "num": 315718,
-      "word": "外卖小哥最不建议点的外卖",
-      "onboard_time": 1757408003,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 315449,
@@ -2235,6 +2267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277870,
+      "num": 277870,
+      "word": "BLG对战iG",
+      "onboard_time": 1757412442,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275872,
       "num": 349913,
       "word": "迪奥上海公司泄露客户信息被查",
@@ -2371,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249353,
+      "num": 196314,
+      "word": "易烊千玺拍撕拉片",
+      "onboard_time": 1757411182,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247897,
       "num": 247897,
       "word": "谁懂女生牛仔裤坐下鼓包的痛",
@@ -2433,14 +2481,6 @@
       "onboard_time": 1757255662,
       "rank": 14,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 240950,
-      "num": 240950,
-      "word": "南通老人感染霍乱因不当使用井水",
-      "onboard_time": 1757405122,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238913,
@@ -2827,14 +2867,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 207680,
-      "num": 194640,
-      "word": "辛芷蕾 显化",
-      "onboard_time": 1757410642,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206986,
       "num": 206986,
       "word": "早期的辛芷蕾 性感野心家",
@@ -3017,6 +3049,14 @@
       "onboard_time": 1757300482,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200657,
+      "num": 200657,
+      "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+      "onboard_time": 1757412081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200417,
@@ -3299,6 +3339,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190451,
+      "num": 190451,
+      "word": "舆情通报不能开空头支票",
+      "onboard_time": 1757409623,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190449,
+      "num": 190449,
+      "word": "苹果发布会有何亮点",
+      "onboard_time": 1757413342,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190294,
       "num": 190294,
       "word": "肖战任少白阶下暗潮汹涌",
@@ -3451,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183969,
+      "num": 183969,
+      "word": "各省奶茶代表",
+      "onboard_time": 1757408182,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183679,
       "num": 244412,
       "word": "李晨现身鹿晗演唱会",
@@ -3547,6 +3611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180331,
+      "num": 180331,
+      "word": "CEO出轨女同事其丈夫发声",
+      "onboard_time": 1757411782,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 180135,
       "num": 180135,
       "word": "不为人知的故事官宣",
@@ -3609,6 +3681,14 @@
       "onboard_time": 1757257883,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178149,
+      "num": 193139,
+      "word": "老师诱骗超20名小学生加入邪教",
+      "onboard_time": 1757411782,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177788,
@@ -3732,7 +3812,7 @@
     },
     {
       "raw_hot": 173626,
-      "num": 173626,
+      "num": 191260,
       "word": "莲花楼",
       "onboard_time": 1757410042,
       "rank": 48,
@@ -4603,14 +4683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149959,
-      "num": 142958,
-      "word": "胡楚靓向网友道歉",
-      "onboard_time": 1757410583,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 149647,
       "num": 149647,
       "word": "胡楚靓 小袁",
@@ -4905,14 +4977,6 @@
       "onboard_time": 1757300423,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143361,
-      "num": 143361,
-      "word": "舆情通报不能开空头支票",
-      "onboard_time": 1757409623,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143168,
@@ -5803,6 +5867,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125987,
+      "num": 195924,
+      "word": "官方通报多个月水费都是49.93元",
+      "onboard_time": 1757412081,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 125956,
+      "num": 192643,
+      "word": "齐思钧谈童年经历说哭李晟",
+      "onboard_time": 1757413040,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125939,
       "num": 125939,
       "word": "徐冬冬72小时紧急身材管理",
@@ -6027,14 +6107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123055,
-      "num": 123055,
-      "word": "各省奶茶代表",
-      "onboard_time": 1757408182,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 122985,
       "num": 131636,
       "word": "日本记者质问小泉进次郎",
@@ -6065,6 +6137,14 @@
       "onboard_time": 1757340563,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122479,
+      "num": 192187,
+      "word": "电视剧海报不再是一键复制粘贴了",
+      "onboard_time": 1757412983,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 122470,
@@ -6201,6 +6281,14 @@
       "onboard_time": 1757406321,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120631,
+      "num": 191561,
+      "word": "王嘉尔澳门抢票",
+      "onboard_time": 1757412861,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 120620,
@@ -6435,6 +6523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116669,
+      "num": 190853,
+      "word": "鹿晗急得在后台找话筒",
+      "onboard_time": 1757412983,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116425,
       "num": 116425,
       "word": "樊振东第一时间和队长复盘",
@@ -6497,6 +6593,14 @@
       "onboard_time": 1757224102,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115508,
+      "num": 115508,
+      "word": "景区买冰粉吃出十几条蛆虫",
+      "onboard_time": 1757413040,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115486,
@@ -6681,6 +6785,14 @@
       "onboard_time": 1757377642,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111934,
+      "num": 111934,
+      "word": "男子同意男同事接老婆致对方婚姻破裂",
+      "onboard_time": 1757412200,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111891,
@@ -7387,6 +7499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101895,
+      "num": 117346,
+      "word": "董璇 早知道把小酒窝带来",
+      "onboard_time": 1757413342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101878,
       "num": 151181,
       "word": "小北的淘汰感言",
@@ -7505,6 +7625,14 @@
       "onboard_time": 1757401581,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99908,
+      "num": 99908,
+      "word": "邱贻可满意摸头杀孙颖莎",
+      "onboard_time": 1757413102,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99826,
@@ -8491,6 +8619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66335,
+      "num": 198110,
+      "word": "泰国前总理他信须重新服刑1年",
+      "onboard_time": 1757412922,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64713,
       "num": 132174,
       "word": "最快女护士已恢复正常上班",
@@ -8691,6 +8827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58677,
+      "num": 113436,
+      "word": "民警收到嫌疑人外卖",
+      "onboard_time": 1757413641,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58576,
       "num": 69663,
       "word": "一两元包邮的时代或不复存在",
@@ -8753,6 +8897,14 @@
       "onboard_time": 1757186654,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 54770,
+      "num": 633930,
+      "word": "九三纪念短片我们的胜利日",
+      "onboard_time": 1757410102,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54639,
@@ -9329,14 +9481,6 @@
       "onboard_time": 1757403140,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24675,
-      "num": 607360,
-      "word": "九三纪念短片我们的胜利日",
-      "onboard_time": 1757410102,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24260,

@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757410884534,
+  "endTime": 1757413711353,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -59,6 +59,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1723682,
+      "num": 200170,
+      "word": "辛芷蕾 显化",
+      "onboard_time": 1757410642,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1712163,
       "num": 1712163,
       "word": "董事长和明星女友内幕交易被刑拘",
@@ -115,6 +123,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 1232940,
+      "num": 247931,
+      "word": "许嵩 冯禧",
+      "onboard_time": 1757409682,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1161662,
       "num": 1185865,
       "word": "赴山海定档预告",
@@ -163,14 +179,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 1038507,
-      "num": 247931,
-      "word": "许嵩 冯禧",
-      "onboard_time": 1757409682,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1020022,
       "num": 418511,
       "word": "一念江南 开机",
@@ -201,6 +209,14 @@
       "onboard_time": 1757391083,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 880567,
+      "num": 880567,
+      "word": "外卖小哥最不建议点的外卖",
+      "onboard_time": 1757408003,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 804670,
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424908,
+      "num": 199008,
+      "word": "胡楚靓向网友道歉",
+      "onboard_time": 1757410583,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 416232,
       "num": 416232,
       "word": "赴山海",
@@ -457,6 +481,14 @@
       "onboard_time": 1757407522,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406272,
+      "num": 406272,
+      "word": "章凝公开孩子父亲",
+      "onboard_time": 1757412741,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 398942,
@@ -587,20 +619,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 317499,
+      "num": 317499,
+      "word": "南通老人感染霍乱因不当使用井水",
+      "onboard_time": 1757405122,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315912,
       "num": 337798,
       "word": "梓渝盛世天下好虐",
       "onboard_time": 1757402482,
       "rank": 14,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 315718,
-      "num": 315718,
-      "word": "外卖小哥最不建议点的外卖",
-      "onboard_time": 1757408003,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 314551,
@@ -641,6 +673,14 @@
       "onboard_time": 1757374459,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277870,
+      "num": 277870,
+      "word": "BLG对战iG",
+      "onboard_time": 1757412442,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 275872,
@@ -691,6 +731,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 249353,
+      "num": 196314,
+      "word": "易烊千玺拍撕拉片",
+      "onboard_time": 1757411182,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244714,
       "num": 244714,
       "word": "西藏一垃圾站30多只熊集体觅食",
@@ -712,14 +760,6 @@
       "word": "中国警犬logo形象犬是它",
       "onboard_time": 1757397441,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240950,
-      "num": 240950,
-      "word": "南通老人感染霍乱因不当使用井水",
-      "onboard_time": 1757405122,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -867,14 +907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207680,
-      "num": 194640,
-      "word": "辛芷蕾 显化",
-      "onboard_time": 1757410642,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206986,
       "num": 206986,
       "word": "早期的辛芷蕾 性感野心家",
@@ -947,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200657,
+      "num": 200657,
+      "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+      "onboard_time": 1757412081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198344,
       "num": 379566,
       "word": "钟楚曦删了与侯雯元官宣博",
@@ -995,6 +1035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190451,
+      "num": 190451,
+      "word": "舆情通报不能开空头支票",
+      "onboard_time": 1757409623,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190449,
+      "num": 190449,
+      "word": "苹果发布会有何亮点",
+      "onboard_time": 1757413342,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 189371,
       "num": 189371,
       "word": "吴艳妮填补中国女子短跨十年空白",
@@ -1019,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183969,
+      "num": 183969,
+      "word": "各省奶茶代表",
+      "onboard_time": 1757408182,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 182701,
       "num": 182701,
       "word": "一诺 电竞男主有脸了",
@@ -1035,12 +1099,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180331,
+      "num": 180331,
+      "word": "CEO出轨女同事其丈夫发声",
+      "onboard_time": 1757411782,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 178553,
       "num": 178553,
       "word": "谭维维微博评论区哭声一片",
       "onboard_time": 1757399481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178149,
+      "num": 193139,
+      "word": "老师诱骗超20名小学生加入邪教",
+      "onboard_time": 1757411782,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176910,
@@ -1092,7 +1172,7 @@
     },
     {
       "raw_hot": 173626,
-      "num": 173626,
+      "num": 191260,
       "word": "莲花楼",
       "onboard_time": 1757410042,
       "rank": 48,
@@ -1339,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149959,
-      "num": 142958,
-      "word": "胡楚靓向网友道歉",
-      "onboard_time": 1757410583,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 149647,
       "num": 149647,
       "word": "胡楚靓 小袁",
@@ -1417,14 +1489,6 @@
       "onboard_time": 1757390962,
       "rank": 45,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 143361,
-      "num": 143361,
-      "word": "舆情通报不能开空头支票",
-      "onboard_time": 1757409623,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141688,
@@ -1595,6 +1659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125987,
+      "num": 195924,
+      "word": "官方通报多个月水费都是49.93元",
+      "onboard_time": 1757412081,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 125956,
+      "num": 192643,
+      "word": "齐思钧谈童年经历说哭李晟",
+      "onboard_time": 1757413040,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124190,
       "num": 516100,
       "word": "男子工资交女友分手要回遭拒",
@@ -1611,20 +1691,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 123055,
-      "num": 123055,
-      "word": "各省奶茶代表",
-      "onboard_time": 1757408182,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 122985,
       "num": 131636,
       "word": "日本记者质问小泉进次郎",
       "onboard_time": 1757382080,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122479,
+      "num": 192187,
+      "word": "电视剧海报不再是一键复制粘贴了",
+      "onboard_time": 1757412983,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 122470,
@@ -1699,6 +1779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120631,
+      "num": 191561,
+      "word": "王嘉尔澳门抢票",
+      "onboard_time": 1757412861,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120338,
       "num": 221485,
       "word": "巴基斯坦最新空军宣传片",
@@ -1723,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116669,
+      "num": 190853,
+      "word": "鹿晗急得在后台找话筒",
+      "onboard_time": 1757412983,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116263,
       "num": 116263,
       "word": "三字男明星金靖秒答张凌赫",
@@ -1737,6 +1833,14 @@
       "onboard_time": 1757393123,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115508,
+      "num": 115508,
+      "word": "景区买冰粉吃出十几条蛆虫",
+      "onboard_time": 1757413040,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115483,
@@ -1793,6 +1897,14 @@
       "onboard_time": 1757377642,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111934,
+      "num": 111934,
+      "word": "男子同意男同事接老婆致对方婚姻破裂",
+      "onboard_time": 1757412200,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111621,
@@ -2035,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101895,
+      "num": 117346,
+      "word": "董璇 早知道把小酒窝带来",
+      "onboard_time": 1757413342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101535,
       "num": 219623,
       "word": "以为很贵实际很便宜的旅游城市",
@@ -2081,6 +2201,14 @@
       "onboard_time": 1757401581,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99908,
+      "num": 99908,
+      "word": "邱贻可满意摸头杀孙颖莎",
+      "onboard_time": 1757413102,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 98623,
@@ -2275,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66335,
+      "num": 198110,
+      "word": "泰国前总理他信须重新服刑1年",
+      "onboard_time": 1757412922,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64713,
       "num": 132174,
       "word": "最快女护士已恢复正常上班",
@@ -2347,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58677,
+      "num": 113436,
+      "word": "民警收到嫌疑人外卖",
+      "onboard_time": 1757413641,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58323,
       "num": 171548,
       "word": "男子醉酒后打人一拳赔5000元",
@@ -2393,6 +2537,14 @@
       "onboard_time": 1757344403,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54770,
+      "num": 633930,
+      "word": "九三纪念短片我们的胜利日",
+      "onboard_time": 1757410102,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54027,
@@ -2577,14 +2729,6 @@
       "onboard_time": 1757403140,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24675,
-      "num": 607360,
-      "word": "九三纪念短片我们的胜利日",
-      "onboard_time": 1757410102,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24260,
