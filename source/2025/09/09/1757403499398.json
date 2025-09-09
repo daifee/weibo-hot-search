@@ -1,0 +1,410 @@
+{
+  "runTime": 1757403499398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1081626,
+        "num": 1173060,
+        "word": "每月分4次给生活费父亲发声",
+        "onboard_time": 1757396062,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480331,
+        "num": 480331,
+        "word": "董事长和明星女友内幕交易被刑拘",
+        "onboard_time": 1757389822,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 28503,
+        "num": 476476,
+        "word": "万千气象看浙里",
+        "onboard_time": 1757390962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473962,
+        "num": 473962,
+        "word": "赴山海定档预告",
+        "onboard_time": 1757403442,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440944,
+        "num": 440944,
+        "word": "何炅告诉魏大勋这是在直播",
+        "onboard_time": 1757400443,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372551,
+        "num": 372551,
+        "word": "迪奥数据泄露被公安网安部门处罚",
+        "onboard_time": 1757402182,
+        "rank": 5,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 408365,
+        "num": 360471,
+        "word": "影后想要 影后得到",
+        "onboard_time": 1757394324,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339588,
+        "num": 339588,
+        "word": "王腾小米工作经历配流汗表情",
+        "onboard_time": 1757395342,
+        "rank": 7,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 153692,
+        "num": 339102,
+        "word": "中国警犬logo形象犬是它",
+        "onboard_time": 1757397441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202896,
+        "num": 338641,
+        "word": "官方通报迪奥发生数据泄露事件",
+        "onboard_time": 1757402242,
+        "rank": 9,
+        "category": "辟谣/通报,时尚"
+      },
+      {
+        "raw_hot": 2136474,
+        "num": 338273,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315912,
+        "num": 337798,
+        "word": "梓渝盛世天下好虐",
+        "onboard_time": 1757402482,
+        "rank": 11,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 933434,
+        "num": 336702,
+        "word": "霍乱",
+        "onboard_time": 1757392704,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 574601,
+        "num": 336214,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 13,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 336106,
+        "num": 336106,
+        "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
+        "onboard_time": 1757400201,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 325685,
+        "num": 325685,
+        "word": "小米 王腾",
+        "onboard_time": 1757373560,
+        "rank": 15,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 307025,
+        "num": 307025,
+        "word": "VOGUE官宣辛芷蕾",
+        "onboard_time": 1757394984,
+        "rank": 16,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 299210,
+        "num": 299210,
+        "word": "梓渝梦中情秃",
+        "onboard_time": 1757401701,
+        "rank": 17,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 270750,
+        "num": 270750,
+        "word": "赴山海",
+        "onboard_time": 1757385502,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263319,
+        "num": 263319,
+        "word": "一念江南 开机",
+        "onboard_time": 1757387422,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1168650,
+        "num": 263290,
+        "word": "太恐怖了不敢亲嘴了",
+        "onboard_time": 1757400681,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267601,
+        "num": 263252,
+        "word": "李一桐录节目痛到捂肚子",
+        "onboard_time": 1757401822,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263186,
+        "num": 263186,
+        "word": "许凯",
+        "onboard_time": 1757382080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254351,
+        "num": 254351,
+        "word": "黄奕10年救助2000多个孩子",
+        "onboard_time": 1757395222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223267,
+        "num": 223267,
+        "word": "气虚vs血虚",
+        "onboard_time": 1757399961,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212014,
+        "num": 217965,
+        "word": "演唱会出轨被拍女子申请离婚",
+        "onboard_time": 1757391083,
+        "rank": 25,
+        "category": "演出,海外新闻"
+      },
+      {
+        "raw_hot": 191006,
+        "num": 215320,
+        "word": "黄雅莉和她的十个勤天弟弟",
+        "onboard_time": 1757402182,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86577,
+        "num": 214105,
+        "word": "接英雄回家",
+        "onboard_time": 1757401581,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213471,
+        "num": 213471,
+        "word": "1999年的金价",
+        "onboard_time": 1757401942,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24894,
+        "num": 178577,
+        "word": "卖盒饭上瘾的年轻人",
+        "onboard_time": 1757403140,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163605,
+        "num": 177430,
+        "word": "柯爱林被王乐晨拒绝后爆哭",
+        "onboard_time": 1757399301,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176753,
+        "num": 176753,
+        "word": "青岛一环卫工人将垃圾扫进大海",
+        "onboard_time": 1757394083,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172137,
+        "num": 172137,
+        "word": "iPhone17",
+        "onboard_time": 1757382020,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168772,
+        "num": 168772,
+        "word": "父亲为和女儿联系生活费分4次给",
+        "onboard_time": 1757399002,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155524,
+        "num": 155524,
+        "word": "喝咖啡和不喝咖啡的身体差距",
+        "onboard_time": 1757390663,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149647,
+        "num": 149647,
+        "word": "胡楚靓 小袁",
+        "onboard_time": 1757400322,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148057,
+        "num": 148057,
+        "word": "夫妻合租房生娃后被赶合理吗",
+        "onboard_time": 1757402722,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147243,
+        "num": 147243,
+        "word": "雷军评价王腾",
+        "onboard_time": 1757388502,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64713,
+        "num": 132174,
+        "word": "最快女护士已恢复正常上班",
+        "onboard_time": 1757402902,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123720,
+        "num": 129843,
+        "word": "孙俪在菜市场捡了一只狗",
+        "onboard_time": 1757402602,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129524,
+        "num": 129524,
+        "word": "江苏南通通报1例霍乱病例",
+        "onboard_time": 1757387122,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126620,
+        "num": 126620,
+        "word": "卢昱晓太适合旅综了",
+        "onboard_time": 1757402722,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120688,
+        "num": 120688,
+        "word": "陈建斌眼睛怎么了",
+        "onboard_time": 1757401761,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119455,
+        "num": 119455,
+        "word": "花少7播放量",
+        "onboard_time": 1757390182,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116263,
+        "num": 116263,
+        "word": "三字男明星金靖秒答张凌赫",
+        "onboard_time": 1757402662,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113559,
+        "num": 113559,
+        "word": "怎么觉得女鞋比女装还要灾难",
+        "onboard_time": 1757400382,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 109356,
+        "num": 109356,
+        "word": "中国杂交试卷之父",
+        "onboard_time": 1757403202,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103717,
+        "num": 103717,
+        "word": "小米挥刀斩的不是个人而是一种风气",
+        "onboard_time": 1757402421,
+        "rank": 47,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 101959,
+        "num": 101959,
+        "word": "女童被继母虐死前遭针扎舌头指缝",
+        "onboard_time": 1757388261,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100555,
+        "num": 100555,
+        "word": "黄金飙升原因",
+        "onboard_time": 1757394984,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席金砖国家领导人线上峰会#"
+    }
+  }
+}

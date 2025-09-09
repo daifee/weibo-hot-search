@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757402679658,
+  "endTime": 1757403499398,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1272004,
-      "num": 228083,
+      "num": 263290,
       "word": "太恐怖了不敢亲嘴了",
       "onboard_time": 1757400681,
       "rank": 20,
@@ -291,6 +291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 473962,
+      "num": 473962,
+      "word": "赴山海定档预告",
+      "onboard_time": 1757403442,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461652,
       "num": 461652,
       "word": "青岛一环卫工人将垃圾扫进大海",
@@ -347,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 440944,
+      "num": 440944,
+      "word": "何炅告诉魏大勋这是在直播",
+      "onboard_time": 1757400443,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436558,
       "num": 436558,
       "word": "LABUBU价崩黄牛压货倒赔",
@@ -369,14 +385,6 @@
       "onboard_time": 1757343626,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 433639,
-      "num": 433639,
-      "word": "何炅告诉魏大勋这是在直播",
-      "onboard_time": 1757400443,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 416232,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372551,
+      "num": 372551,
+      "word": "迪奥数据泄露被公安网安部门处罚",
+      "onboard_time": 1757402182,
+      "rank": 9,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 368497,
       "num": 368497,
       "word": "许凯方否认赌博",
@@ -483,12 +499,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 336106,
+      "num": 336106,
+      "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
+      "onboard_time": 1757400201,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 325522,
       "num": 325522,
       "word": "辛芷蕾VOGUE连登",
       "onboard_time": 1757389642,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315912,
+      "num": 337798,
+      "word": "梓渝盛世天下好虐",
+      "onboard_time": 1757402482,
+      "rank": 14,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 314551,
@@ -507,11 +539,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291174,
-      "num": 291174,
-      "word": "梓渝盛世天下好虐",
-      "onboard_time": 1757402482,
-      "rank": 14,
+      "raw_hot": 299210,
+      "num": 299210,
+      "word": "梓渝梦中情秃",
+      "onboard_time": 1757401701,
+      "rank": 17,
       "category": "游戏,艺人"
     },
     {
@@ -547,8 +579,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260743,
-      "num": 227814,
+      "raw_hot": 267601,
+      "num": 263252,
       "word": "李一桐录节目痛到捂肚子",
       "onboard_time": 1757401822,
       "rank": 21,
@@ -651,14 +683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 227046,
-      "num": 227046,
-      "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
-      "onboard_time": 1757400201,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 224613,
       "num": 218215,
       "word": "势界创始人感谢梓渝粉丝",
@@ -681,6 +705,14 @@
       "onboard_time": 1757385082,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223267,
+      "num": 223267,
+      "word": "气虚vs血虚",
+      "onboard_time": 1757399961,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 223019,
@@ -723,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213471,
+      "num": 213471,
+      "word": "1999年的金价",
+      "onboard_time": 1757401942,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209126,
       "num": 209126,
       "word": "盛世天下",
@@ -753,6 +793,14 @@
       "onboard_time": 1757381840,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202896,
+      "num": 338641,
+      "word": "官方通报迪奥发生数据泄露事件",
+      "onboard_time": 1757402242,
+      "rank": 33,
+      "category": "辟谣/通报,时尚"
     },
     {
       "raw_hot": 202650,
@@ -835,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191390,
-      "num": 313393,
-      "word": "迪奥数据泄露被公安网安部门处罚",
+      "raw_hot": 191006,
+      "num": 215320,
+      "word": "黄雅莉和她的十个勤天弟弟",
       "onboard_time": 1757402182,
-      "rank": 9,
-      "category": "民生新闻,时尚"
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 189371,
@@ -857,14 +905,6 @@
       "onboard_time": 1757389044,
       "rank": 30,
       "category": "剧集,音乐"
-    },
-    {
-      "raw_hot": 187867,
-      "num": 187867,
-      "word": "气虚vs血虚",
-      "onboard_time": 1757399961,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184544,
@@ -1075,28 +1115,12 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 154855,
-      "num": 167898,
-      "word": "黄雅莉和她的十个勤天弟弟",
-      "onboard_time": 1757402182,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152997,
       "num": 152997,
       "word": "特朗普须赔偿8330万美元",
       "onboard_time": 1757381299,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 152555,
-      "num": 152555,
-      "word": "1999年的金价",
-      "onboard_time": 1757401942,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 151717,
@@ -1131,14 +1155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 150763,
-      "num": 150763,
-      "word": "官方通报迪奥发生数据泄露事件",
-      "onboard_time": 1757402242,
-      "rank": 33,
-      "category": "辟谣/通报,时尚"
-    },
-    {
       "raw_hot": 150325,
       "num": 150325,
       "word": "陈益韬喊话许荔莎",
@@ -1153,6 +1169,22 @@
       "onboard_time": 1757392824,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149647,
+      "num": 149647,
+      "word": "胡楚靓 小袁",
+      "onboard_time": 1757400322,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 148057,
+      "num": 148057,
+      "word": "夫妻合租房生娃后被赶合理吗",
+      "onboard_time": 1757402722,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146779,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1757374220,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140492,
-      "num": 140492,
-      "word": "胡楚靓 小袁",
-      "onboard_time": 1757400322,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 139488,
@@ -1347,12 +1371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126620,
+      "num": 126620,
+      "word": "卢昱晓太适合旅综了",
+      "onboard_time": 1757402722,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124190,
       "num": 516100,
       "word": "男子工资交女友分手要回遭拒",
       "onboard_time": 1757335643,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123720,
+      "num": 137676,
+      "word": "孙俪在菜市场捡了一只狗",
+      "onboard_time": 1757402602,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 122985,
@@ -1403,6 +1443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120688,
+      "num": 138591,
+      "word": "陈建斌眼睛怎么了",
+      "onboard_time": 1757401761,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120338,
       "num": 221485,
       "word": "巴基斯坦最新空军宣传片",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1757399602,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116263,
+      "num": 116263,
+      "word": "三字男明星金靖秒答张凌赫",
+      "onboard_time": 1757402662,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 115815,
@@ -1539,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109356,
+      "num": 109356,
+      "word": "中国杂交试卷之父",
+      "onboard_time": 1757403202,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109229,
       "num": 127605,
       "word": "阅兵鸽回家后经常学着站军姿",
@@ -1591,14 +1655,6 @@
       "num": 106382,
       "word": "邓超好险差点就不爱吃了",
       "onboard_time": 1757399721,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 106242,
-      "num": 106242,
-      "word": "三字男明星金靖秒答张凌赫",
-      "onboard_time": 1757402662,
       "rank": 47,
       "category": "综艺"
     },
@@ -1659,14 +1715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103273,
-      "num": 138591,
-      "word": "陈建斌眼睛怎么了",
-      "onboard_time": 1757401761,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101535,
       "num": 219623,
       "word": "以为很贵实际很便宜的旅游城市",
@@ -1708,7 +1756,7 @@
     },
     {
       "raw_hot": 99954,
-      "num": 167611,
+      "num": 214105,
       "word": "接英雄回家",
       "onboard_time": 1757401581,
       "rank": 29,
@@ -1875,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64713,
+      "num": 132174,
+      "word": "最快女护士已恢复正常上班",
+      "onboard_time": 1757402902,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64626,
       "num": 292344,
       "word": "王濛说底盘稳才是真的稳",
@@ -2019,14 +2075,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 48795,
-      "num": 137676,
-      "word": "孙俪在菜市场捡了一只狗",
-      "onboard_time": 1757402602,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48712,
       "num": 156494,
       "word": "萧亚轩谈李玟手抖",
@@ -2107,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 28503,
+      "num": 725674,
+      "word": "万千气象看浙里",
+      "onboard_time": 1757390962,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26506,
       "num": 135137,
       "word": "女子带娃骑车还玩手机",
@@ -2123,20 +2179,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24894,
+      "num": 178577,
+      "word": "卖盒饭上瘾的年轻人",
+      "onboard_time": 1757403140,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24260,
       "num": 126443,
       "word": "知否 书香门第全是打戏",
       "onboard_time": 1757400562,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23643,
-      "num": 725674,
-      "word": "万千气象看浙里",
-      "onboard_time": 1757390962,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20865,
