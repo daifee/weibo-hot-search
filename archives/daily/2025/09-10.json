@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757457540574,
+  "endTime": 1757460118986,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -11,8 +11,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2866349,
+      "num": 2866349,
+      "word": "iPhone17系列价格",
+      "onboard_time": 1757441956,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2416499,
-      "num": 333731,
+      "num": 390550,
       "word": "黄景瑜前妻 俩孩子一个被他打没了",
       "onboard_time": 1757430924,
       "rank": 10,
@@ -27,14 +35,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1373066,
-      "num": 1373066,
-      "word": "iPhone17系列价格",
-      "onboard_time": 1757441956,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 944535,
       "num": 944535,
       "word": "AirPods Pro3",
@@ -43,11 +43,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 698083,
-      "num": 698083,
+      "raw_hot": 927508,
+      "num": 927508,
       "word": "苹果的牙膏挤爆了",
       "onboard_time": 1757440456,
       "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 783270,
+      "num": 783270,
+      "word": "iPhone17Pro 丑",
+      "onboard_time": 1757441416,
+      "rank": 11,
       "category": "数码"
     },
     {
@@ -67,20 +75,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 551371,
+      "num": 784999,
+      "word": "教师节",
+      "onboard_time": 1757459480,
+      "rank": 5,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 510597,
       "num": 184955,
       "word": "胡宾果住酒店被偷拍",
       "onboard_time": 1757430504,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 498864,
-      "num": 498864,
-      "word": "iPhone17Pro 丑",
-      "onboard_time": 1757441416,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 493928,
@@ -112,6 +120,14 @@
       "word": "游本昌和妻子在养老院现状",
       "onboard_time": 1757423543,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389132,
+      "num": 389132,
+      "word": "吴雅婷回应王栎鑫患焦虑症",
+      "onboard_time": 1757460018,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -147,12 +163,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 272174,
+      "num": 272174,
+      "word": "AirPods Pro3实时翻译",
+      "onboard_time": 1757438238,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 242349,
+      "num": 390940,
+      "word": "eSIM",
+      "onboard_time": 1757446334,
+      "rank": 8,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 229168,
       "num": 145023,
       "word": "曝布兰妮家里都是狗大便",
       "onboard_time": 1757426604,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224815,
+      "num": 177420,
+      "word": "九三阅兵观礼座被二次利用了",
+      "onboard_time": 1757425164,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 224557,
@@ -163,28 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215257,
-      "num": 142215,
-      "word": "为什么接吻的时候闻不到对方口臭",
-      "onboard_time": 1757427265,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 209418,
-      "num": 209418,
+      "raw_hot": 219453,
+      "num": 219453,
       "word": "我的手机要低人一等了",
       "onboard_time": 1757437757,
       "rank": 15,
       "category": "数码"
     },
     {
-      "raw_hot": 208701,
-      "num": 208701,
-      "word": "AirPods Pro3实时翻译",
-      "onboard_time": 1757438238,
-      "rank": 9,
-      "category": "数码"
+      "raw_hot": 215257,
+      "num": 176549,
+      "word": "为什么接吻的时候闻不到对方口臭",
+      "onboard_time": 1757427265,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 199839,
@@ -235,12 +267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 174426,
-      "num": 138670,
-      "word": "九三阅兵观礼座被二次利用了",
-      "onboard_time": 1757425164,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 173413,
+      "num": 173413,
+      "word": "李在明批反华集会纯属闹事",
+      "onboard_time": 1757436559,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172758,
@@ -291,12 +323,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 133622,
-      "num": 335953,
-      "word": "eSIM",
-      "onboard_time": 1757446334,
-      "rank": 8,
-      "category": "艺人,电竞"
+      "raw_hot": 147101,
+      "num": 147101,
+      "word": "周扬青自曝妈妈不想让她恋爱",
+      "onboard_time": 1757451014,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144915,
+      "num": 211977,
+      "word": "山东淄博警方破获厕所刻黄网案",
+      "onboard_time": 1757437098,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132986,
@@ -315,12 +355,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 129633,
-      "num": 129633,
-      "word": "李在明批反华集会纯属闹事",
-      "onboard_time": 1757436559,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 129161,
+      "num": 129161,
+      "word": "iPhone17降价",
+      "onboard_time": 1757459660,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 128681,
@@ -371,6 +411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104146,
+      "num": 340130,
+      "word": "赴山海还是有李凯馨",
+      "onboard_time": 1757443935,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96637,
+      "num": 243123,
+      "word": "邓文迪女儿受益默多克家族继承战",
+      "onboard_time": 1757444055,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96394,
       "num": 84156,
       "word": "辛芷蕾 显化",
@@ -387,20 +443,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 94662,
-      "num": 94662,
-      "word": "周扬青自曝妈妈不想让她恋爱",
-      "onboard_time": 1757451014,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 92281,
-      "num": 204314,
-      "word": "山东淄博警方破获厕所刻黄网案",
-      "onboard_time": 1757437098,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 95132,
+      "num": 95132,
+      "word": "果郡王甄嬛好难得的同框啊",
+      "onboard_time": 1757456897,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 89773,
@@ -457,6 +505,22 @@
       "onboard_time": 1757425944,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81540,
+      "num": 81540,
+      "word": "iPhone17Pro电池史上最大",
+      "onboard_time": 1757442975,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 80067,
+      "num": 80067,
+      "word": "以军袭击卡塔尔声明",
+      "onboard_time": 1757428524,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79781,
@@ -547,14 +611,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 67949,
-      "num": 67949,
-      "word": "以军袭击卡塔尔声明",
-      "onboard_time": 1757428524,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 66480,
       "num": 66480,
       "word": "CEO出轨女同事其丈夫发声",
@@ -569,6 +625,14 @@
       "onboard_time": 1757431043,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64218,
+      "num": 81700,
+      "word": "男子鼻痛18年疑骨瘤开刀取出3cm树枝",
+      "onboard_time": 1757458879,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63132,
@@ -595,20 +659,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 61233,
-      "num": 243123,
-      "word": "邓文迪女儿受益默多克家族继承战",
-      "onboard_time": 1757444055,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 57024,
-      "num": 340130,
-      "word": "赴山海还是有李凯馨",
-      "onboard_time": 1757443935,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 55283,
+      "num": 73692,
+      "word": "凌晨两点客人吃饭老板睡觉",
+      "onboard_time": 1757440396,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54300,
@@ -619,12 +675,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 49946,
-      "num": 49946,
-      "word": "iPhone17Pro电池史上最大",
-      "onboard_time": 1757442975,
-      "rank": 38,
-      "category": "数码"
+      "raw_hot": 51556,
+      "num": 73617,
+      "word": "教师节朋友圈文案和配图",
+      "onboard_time": 1757458638,
+      "rank": 48,
+      "category": "教育,读书作家"
     },
     {
       "raw_hot": 49671,
@@ -691,28 +747,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 37499,
-      "num": 43698,
-      "word": "凌晨两点客人吃饭老板睡觉",
-      "onboard_time": 1757440396,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34152,
       "num": 131587,
       "word": "汶川地震被救男孩九三阅兵圆梦了",
       "onboard_time": 1757432841,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32101,
-      "num": 35736,
-      "word": "果郡王甄嬛好难得的同框啊",
-      "onboard_time": 1757456897,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 26763,
@@ -739,8 +779,8 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 3797,
-      "num": 997973,
+      "raw_hot": 4278,
+      "num": 1125244,
       "word": "为啥歼10是争气机",
       "onboard_time": 1757314282,
       "rank": 2,
