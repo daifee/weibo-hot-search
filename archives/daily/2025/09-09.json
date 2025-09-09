@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757399850878,
+  "endTime": 1757400583816,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -72,6 +72,14 @@
       "word": "许凯",
       "onboard_time": 1757382080,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1307094,
+      "num": 425313,
+      "word": "黄景瑜前妻喊话许凯",
+      "onboard_time": 1757399602,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -155,6 +163,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 800050,
+      "num": 800050,
+      "word": "每月分4次给生活费父亲发声",
+      "onboard_time": 1757396062,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 797338,
       "num": 410137,
       "word": "唯一一个不敢插队的科室",
@@ -187,16 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 660914,
-      "num": 660914,
-      "word": "每月分4次给生活费父亲发声",
-      "onboard_time": 1757396062,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 636179,
-      "num": 636179,
+      "raw_hot": 673633,
+      "num": 673633,
       "word": "影后想要 影后得到",
       "onboard_time": 1757394324,
       "rank": 18,
@@ -251,16 +259,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 493163,
-      "num": 493163,
+      "raw_hot": 503574,
+      "num": 503574,
       "word": "王腾小米工作经历配流汗表情",
       "onboard_time": 1757395342,
       "rank": 36,
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 493149,
-      "num": 493149,
+      "raw_hot": 502451,
+      "num": 502451,
       "word": "黄奕10年救助2000多个孩子",
       "onboard_time": 1757395222,
       "rank": 32,
@@ -289,6 +297,14 @@
       "onboard_time": 1757345125,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458716,
+      "num": 458716,
+      "word": "想活到梓渝小和尚剧情",
+      "onboard_time": 1757396062,
+      "rank": 37,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 451968,
@@ -345,14 +361,6 @@
       "onboard_time": 1757343626,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 419115,
-      "num": 419115,
-      "word": "想活到梓渝小和尚剧情",
-      "onboard_time": 1757396062,
-      "rank": 37,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 416232,
@@ -515,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255701,
-      "num": 255701,
-      "word": "黄景瑜前妻喊话许凯",
-      "onboard_time": 1757399602,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250495,
       "num": 495737,
       "word": "马龙 替我姥姥谢谢倪妮",
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 242907,
-      "num": 242907,
+      "num": 308248,
       "word": "魏大勋霸总感",
       "onboard_time": 1757398701,
       "rank": 21,
@@ -651,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218947,
+      "num": 258718,
+      "word": "何炅告诉魏大勋这是在直播",
+      "onboard_time": 1757400443,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218668,
       "num": 267236,
       "word": "银十封面人物预告",
@@ -715,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202650,
+      "num": 456312,
+      "word": "父亲为和女儿联系生活费分4次给",
+      "onboard_time": 1757399002,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202352,
       "num": 202352,
       "word": "明星若踩法律红线下场不言而喻",
@@ -728,6 +744,14 @@
       "word": "央视镜头下的金莎",
       "onboard_time": 1757387422,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201807,
+      "num": 201807,
+      "word": "柯爱林被王乐晨拒绝后爆哭",
+      "onboard_time": 1757399301,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -817,6 +841,14 @@
       "onboard_time": 1757399481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176910,
+      "num": 199947,
+      "word": "黄金飙升原因",
+      "onboard_time": 1757394984,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 176837,
@@ -915,20 +947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164924,
+      "num": 164924,
+      "word": "展轩daddy级别",
+      "onboard_time": 1757399721,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 163830,
       "num": 163830,
       "word": "支付宝转钱 强制爱",
       "onboard_time": 1757388802,
       "rank": 41,
       "category": "互联网,情感"
-    },
-    {
-      "raw_hot": 163355,
-      "num": 163355,
-      "word": "柯爱林被王乐晨拒绝后爆哭",
-      "onboard_time": 1757399301,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 163200,
@@ -947,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161879,
+      "num": 161879,
+      "word": "雷军接班人",
+      "onboard_time": 1757399481,
+      "rank": 39,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 161549,
       "num": 161549,
       "word": "我高中丑关我大学什么事",
@@ -963,20 +1003,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 161213,
+      "num": 166266,
+      "word": "井柏然喝懵了",
+      "onboard_time": 1757395761,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161147,
       "num": 548916,
       "word": "女民兵为啥戴红色丝巾",
       "onboard_time": 1757342844,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 159906,
-      "num": 199947,
-      "word": "黄金飙升原因",
-      "onboard_time": 1757394984,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 158434,
@@ -1075,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144619,
+      "num": 144619,
+      "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
+      "onboard_time": 1757400201,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 143592,
       "num": 143592,
       "word": "王腾小米履历",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1757396482,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 142147,
-      "num": 166266,
-      "word": "井柏然喝懵了",
-      "onboard_time": 1757395761,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 141688,
@@ -1219,20 +1259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128380,
+      "num": 128380,
+      "word": "气虚vs血虚",
+      "onboard_time": 1757399961,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127913,
       "num": 127913,
       "word": "校方回应自闭症学生报到当天遭劝退",
       "onboard_time": 1757387363,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126473,
-      "num": 126473,
-      "word": "雷军接班人",
-      "onboard_time": 1757399481,
-      "rank": 39,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 124190,
@@ -1275,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121847,
+      "num": 121847,
+      "word": "徐如蓝治上心动8情感疑难杂症了",
+      "onboard_time": 1757400081,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121258,
       "num": 121258,
       "word": "谢苗终于打回大银幕",
@@ -1292,18 +1340,10 @@
     },
     {
       "raw_hot": 119417,
-      "num": 119417,
+      "num": 159444,
       "word": "月全食刚走流星雨又来了",
       "onboard_time": 1757399602,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118756,
-      "num": 456312,
-      "word": "父亲为和女儿联系生活费分4次给",
-      "onboard_time": 1757399002,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1385,14 +1425,6 @@
       "onboard_time": 1757394802,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111228,
-      "num": 111228,
-      "word": "展轩daddy级别",
-      "onboard_time": 1757399721,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 110591,
@@ -1515,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103318,
+      "num": 103318,
+      "word": "胡楚靓 小袁",
+      "onboard_time": 1757400322,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 101535,
       "num": 219623,
       "word": "以为很贵实际很便宜的旅游城市",
@@ -1587,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86078,
+      "num": 173015,
+      "word": "尚公主路透是正片剧照级别的",
+      "onboard_time": 1757400142,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85976,
       "num": 153029,
       "word": "邓超进组的第一个阻碍是戴美瞳",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1757356575,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 81429,
+      "num": 425294,
+      "word": "青岛景区工作人员回应将垃圾扫入海",
+      "onboard_time": 1757400201,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78689,
@@ -1667,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71546,
+      "num": 136777,
+      "word": "内娱首个问诊综艺来了",
+      "onboard_time": 1757400201,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69048,
       "num": 69048,
       "word": "大张伟好喜欢刘宇宁",
@@ -1692,7 +1756,7 @@
     },
     {
       "raw_hot": 64626,
-      "num": 248427,
+      "num": 292344,
       "word": "王濛说底盘稳才是真的稳",
       "onboard_time": 1757397922,
       "rank": 18,
@@ -1723,20 +1787,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 62087,
+      "num": 167645,
+      "word": "长白山挖参纯纯技术流",
+      "onboard_time": 1757398822,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62001,
       "num": 194170,
       "word": "袁弘张歆艺亲子出游的理想搭子",
       "onboard_time": 1757394204,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61802,
-      "num": 167645,
-      "word": "长白山挖参纯纯技术流",
-      "onboard_time": 1757398822,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60330,
@@ -1892,7 +1956,7 @@
     },
     {
       "raw_hot": 41205,
-      "num": 243634,
+      "num": 296323,
       "word": "澳门2049非遗马拉松开跑",
       "onboard_time": 1757397922,
       "rank": 19,
@@ -1931,6 +1995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24260,
+      "num": 126443,
+      "word": "知否 书香门第全是打戏",
+      "onboard_time": 1757400562,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20865,
       "num": 35124,
       "word": "曝苹果将量产1亿部iPhone17",
@@ -1945,6 +2017,14 @@
       "onboard_time": 1757357775,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18574,
+      "num": 725674,
+      "word": "万千气象看浙里",
+      "onboard_time": 1757390962,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17938,
@@ -1977,14 +2057,6 @@
       "onboard_time": 1757353696,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 10708,
-      "num": 682741,
-      "word": "万千气象看浙里",
-      "onboard_time": 1757390962,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6211,
