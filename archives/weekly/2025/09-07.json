@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757400583816,
+  "endTime": 1757402679658,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -88,6 +88,14 @@
       "word": "向太曝张国荣不是因抑郁症自杀",
       "onboard_time": 1757286739,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2309654,
+      "num": 425313,
+      "word": "黄景瑜前妻喊话许凯",
+      "onboard_time": 1757399602,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -259,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1307094,
-      "num": 425313,
-      "word": "黄景瑜前妻喊话许凯",
-      "onboard_time": 1757399602,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1306694,
       "num": 134513,
       "word": "小米手机突然爆炸致3岁男童受伤",
@@ -288,6 +288,14 @@
       "word": "辛芷蕾 威尼斯电影节",
       "onboard_time": 1757162602,
       "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1272004,
+      "num": 228083,
+      "word": "太恐怖了不敢亲嘴了",
+      "onboard_time": 1757400681,
+      "rank": 20,
       "category": "电影"
     },
     {
@@ -361,6 +369,14 @@
       "onboard_time": 1757377342,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1123292,
+      "num": 1179726,
+      "word": "每月分4次给生活费父亲发声",
+      "onboard_time": 1757396062,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1117709,
@@ -601,14 +617,6 @@
       "onboard_time": 1757394984,
       "rank": 13,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 800050,
-      "num": 800050,
-      "word": "每月分4次给生活费父亲发声",
-      "onboard_time": 1757396062,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 797338,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1757221763,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433639,
+      "num": 433639,
+      "word": "何炅告诉魏大勋这是在直播",
+      "onboard_time": 1757400443,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 432740,
@@ -2043,6 +2059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291174,
+      "num": 291174,
+      "word": "梓渝盛世天下好虐",
+      "onboard_time": 1757402482,
+      "rank": 14,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 289556,
       "num": 210907,
       "word": "刘涛腰臀比",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1757308883,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260743,
+      "num": 227814,
+      "word": "李一桐录节目痛到捂肚子",
+      "onboard_time": 1757401822,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 260435,
@@ -2411,6 +2443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 227046,
+      "num": 227046,
+      "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
+      "onboard_time": 1757400201,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 226924,
       "num": 226924,
       "word": "刘思远 凭什么是我回归家庭",
@@ -2505,14 +2545,6 @@
       "onboard_time": 1757262379,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218947,
-      "num": 258718,
-      "word": "何炅告诉魏大勋这是在直播",
-      "onboard_time": 1757400443,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 218670,
@@ -3091,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191390,
+      "num": 313393,
+      "word": "迪奥数据泄露被公安网安部门处罚",
+      "onboard_time": 1757402182,
+      "rank": 9,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 191252,
       "num": 643130,
       "word": "阅兵后劲真的太大了",
@@ -3177,6 +3217,14 @@
       "onboard_time": 1757323464,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187867,
+      "num": 187867,
+      "word": "气虚vs血虚",
+      "onboard_time": 1757399961,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187673,
@@ -4131,6 +4179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154855,
+      "num": 167898,
+      "word": "黄雅莉和她的十个勤天弟弟",
+      "onboard_time": 1757402182,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154851,
       "num": 154851,
       "word": "易烊千玺电影人们齐聚一堂",
@@ -4201,6 +4257,14 @@
       "onboard_time": 1757235621,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152555,
+      "num": 152555,
+      "word": "1999年的金价",
+      "onboard_time": 1757401942,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 152310,
@@ -4281,6 +4345,14 @@
       "onboard_time": 1757374039,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150763,
+      "num": 150763,
+      "word": "官方通报迪奥发生数据泄露事件",
+      "onboard_time": 1757402242,
+      "rank": 33,
+      "category": "辟谣/通报,时尚"
     },
     {
       "raw_hot": 150721,
@@ -4435,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146760,
+      "num": 146760,
+      "word": "无折痕iPhone",
+      "onboard_time": 1757396482,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146642,
       "num": 146642,
       "word": "A股机器人板块拉升",
@@ -4539,14 +4619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144619,
-      "num": 144619,
-      "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
-      "onboard_time": 1757400201,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 144586,
       "num": 204265,
       "word": "时代少年团成团六周年刷新篇章",
@@ -4625,14 +4697,6 @@
       "onboard_time": 1757300423,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143199,
-      "num": 143199,
-      "word": "无折痕iPhone",
-      "onboard_time": 1757396482,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 143168,
@@ -4745,6 +4809,14 @@
       "onboard_time": 1757321964,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 140492,
+      "num": 140492,
+      "word": "胡楚靓 小袁",
+      "onboard_time": 1757400322,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 140387,
@@ -4937,6 +5009,14 @@
       "onboard_time": 1757225362,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137629,
+      "num": 137629,
+      "word": "怎么觉得女鞋比女装还要灾难",
+      "onboard_time": 1757400382,
+      "rank": 40,
+      "category": "休闲"
     },
     {
       "raw_hot": 137588,
@@ -5377,14 +5457,6 @@
       "onboard_time": 1757317341,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128380,
-      "num": 128380,
-      "word": "气虚vs血虚",
-      "onboard_time": 1757399961,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128279,
@@ -6371,6 +6443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111145,
+      "num": 111145,
+      "word": "半个内娱来芒果新综艺问诊",
+      "onboard_time": 1757401040,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111142,
       "num": 111142,
       "word": "李宇春健身心率飙升的样子演我",
@@ -6427,12 +6507,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110406,
+      "num": 110406,
+      "word": "惠英红林青霞 微博上的以诚相待",
+      "onboard_time": 1757402541,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110312,
       "num": 110312,
       "word": "30秒看血月",
       "onboard_time": 1757290282,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110270,
+      "num": 110270,
+      "word": "王安宇这种敏感细腻的性格",
+      "onboard_time": 1757401402,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 110229,
@@ -6683,6 +6779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106242,
+      "num": 106242,
+      "word": "三字男明星金靖秒答张凌赫",
+      "onboard_time": 1757402662,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106166,
       "num": 106166,
       "word": "桃花坞开放中官宣定档",
@@ -6753,6 +6857,14 @@
       "onboard_time": 1757312063,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104825,
+      "num": 104825,
+      "word": "小米挥刀斩的不是个人而是一种风气",
+      "onboard_time": 1757402421,
+      "rank": 48,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 104716,
@@ -6827,12 +6939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103318,
-      "num": 103318,
-      "word": "胡楚靓 小袁",
-      "onboard_time": 1757400322,
-      "rank": 49,
-      "category": "网红"
+      "raw_hot": 103273,
+      "num": 138591,
+      "word": "陈建斌眼睛怎么了",
+      "onboard_time": 1757401761,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 102985,
@@ -7025,6 +7137,14 @@
       "onboard_time": 1757291784,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99954,
+      "num": 167611,
+      "word": "接英雄回家",
+      "onboard_time": 1757401581,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99826,
@@ -8379,6 +8499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48795,
+      "num": 137676,
+      "word": "孙俪在菜市场捡了一只狗",
+      "onboard_time": 1757402602,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48712,
       "num": 156494,
       "word": "萧亚轩谈李玟手抖",
@@ -8787,6 +8915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23643,
+      "num": 725674,
+      "word": "万千气象看浙里",
+      "onboard_time": 1757390962,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23344,
       "num": 24621,
       "word": "无畏契约",
@@ -8881,14 +9017,6 @@
       "onboard_time": 1757276954,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18574,
-      "num": 725674,
-      "word": "万千气象看浙里",
-      "onboard_time": 1757390962,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17938,
@@ -9021,6 +9149,9 @@
     },
     {
       "word": "#习近平出席金砖国家领导人线上峰会#"
+    },
+    {
+      "word": "#团结合作砥砺前行#"
     }
   ]
 }
