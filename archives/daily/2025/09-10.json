@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757443600949,
+  "endTime": 1757445605180,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -32,6 +32,14 @@
       "word": "AirPods Pro3",
       "onboard_time": 1757438058,
       "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 699588,
+      "num": 699588,
+      "word": "iPhone17系列价格",
+      "onboard_time": 1757441956,
+      "rank": 15,
       "category": "数码"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1757423543,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395143,
-      "num": 395143,
-      "word": "iPhone17系列价格",
-      "onboard_time": 1757441956,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 383338,
@@ -467,6 +467,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 76784,
+      "num": 76784,
+      "word": "iPhone Air 联通eSIM",
+      "onboard_time": 1757443634,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72440,
       "num": 72440,
       "word": "单依纯 栩栩华生CEO",
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44877,
+      "num": 44877,
+      "word": "iPhone17手机壳",
+      "onboard_time": 1757442795,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44691,
       "num": 44691,
       "word": "iPhone17Pro电池史上最大",
@@ -617,14 +633,6 @@
       "onboard_time": 1757433442,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42554,
-      "num": 42554,
-      "word": "iPhone17手机壳",
-      "onboard_time": 1757442795,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 39428,
@@ -643,12 +651,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 38080,
+      "num": 38080,
+      "word": "iPhone17Pro三摄4800万",
+      "onboard_time": 1757445135,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34152,
       "num": 131587,
       "word": "汶川地震被救男孩九三阅兵圆梦了",
       "onboard_time": 1757432841,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31018,
+      "num": 340130,
+      "word": "赴山海还是有李凯馨",
+      "onboard_time": 1757443935,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 26763,
@@ -665,6 +689,14 @@
       "onboard_time": 1757440396,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19296,
+      "num": 35191,
+      "word": "邓文迪女儿受益默多克家族继承战",
+      "onboard_time": 1757444055,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 3797,

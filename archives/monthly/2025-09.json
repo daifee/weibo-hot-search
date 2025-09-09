@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757443600949,
+  "endTime": 1757445605180,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2715,6 +2715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 699588,
+      "num": 699588,
+      "word": "iPhone17系列价格",
+      "onboard_time": 1757441956,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 698083,
       "num": 698083,
       "word": "苹果的牙膏挤爆了",
@@ -5376,14 +5384,6 @@
       "word": "iPhone17或有隐藏款",
       "onboard_time": 1757311405,
       "rank": 20,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 395143,
-      "num": 395143,
-      "word": "iPhone17系列价格",
-      "onboard_time": 1757441956,
-      "rank": 15,
       "category": "数码"
     },
     {
@@ -24451,6 +24451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76784,
+      "num": 76784,
+      "word": "iPhone Air 联通eSIM",
+      "onboard_time": 1757443634,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76779,
       "num": 177306,
       "word": "徐如蓝方益炯势均力敌的约会",
@@ -26891,6 +26899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44877,
+      "num": 44877,
+      "word": "iPhone17手机壳",
+      "onboard_time": 1757442795,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44855,
       "num": 183396,
       "word": "福建舰9月10日出港",
@@ -26961,14 +26977,6 @@
       "onboard_time": 1756787303,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42554,
-      "num": 42554,
-      "word": "iPhone17手机壳",
-      "onboard_time": 1757442795,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 42408,
@@ -27161,6 +27169,14 @@
       "onboard_time": 1756923195,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38080,
+      "num": 38080,
+      "word": "iPhone17Pro三摄4800万",
+      "onboard_time": 1757445135,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 37873,
@@ -27553,6 +27569,14 @@
       "onboard_time": 1757136860,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31018,
+      "num": 340130,
+      "word": "赴山海还是有李凯馨",
+      "onboard_time": 1757443935,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 30932,
@@ -28265,6 +28289,14 @@
       "onboard_time": 1757005757,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19296,
+      "num": 35191,
+      "word": "邓文迪女儿受益默多克家族继承战",
+      "onboard_time": 1757444055,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19275,
