@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757392209658,
+  "endTime": 1757393031762,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1389642,
+      "num": 380034,
+      "word": "雷军评价王腾",
+      "onboard_time": 1757388502,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1374157,
       "num": 1374157,
       "word": "AG夏决冠军",
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1121391,
-      "num": 380034,
-      "word": "雷军评价王腾",
-      "onboard_time": 1757388502,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1117709,
       "num": 361367,
       "word": "许荔莎曝许凯吐槽粉丝",
@@ -489,6 +489,14 @@
       "onboard_time": 1757261421,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902199,
+      "num": 902199,
+      "word": "演唱会出轨被拍女子申请离婚",
+      "onboard_time": 1757391083,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 882288,
@@ -875,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548632,
+      "num": 548632,
+      "word": "花少7播放量",
+      "onboard_time": 1757390182,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546417,
       "num": 546417,
       "word": "刘宇宁直播辟谣与经纪人恋情",
@@ -913,6 +929,14 @@
       "onboard_time": 1757213962,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 529073,
+      "num": 529073,
+      "word": "灼灼韶华定档",
+      "onboard_time": 1757390303,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 524459,
@@ -1075,22 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460449,
-      "num": 460449,
-      "word": "演唱会出轨被拍女子申请离婚",
-      "onboard_time": 1757391083,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 454743,
-      "num": 454743,
-      "word": "花少7播放量",
-      "onboard_time": 1757390182,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 451968,
       "num": 451968,
       "word": "娃哈哈瓶盖当公章",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1757339123,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 428732,
-      "num": 428732,
-      "word": "灼灼韶华定档",
-      "onboard_time": 1757390303,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 428518,
@@ -1683,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 334439,
+      "num": 334439,
+      "word": "喝咖啡和不喝咖啡的身体差距",
+      "onboard_time": 1757390663,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 332017,
       "num": 298926,
       "word": "官方通报演员刘轩丞被大量私生围堵",
@@ -1963,14 +1971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 288202,
-      "num": 288202,
-      "word": "喝咖啡和不喝咖啡的身体差距",
-      "onboard_time": 1757390663,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 287225,
       "num": 385962,
       "word": "开国大典前毛主席曾在天坛前留影",
@@ -2211,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236633,
+      "num": 250246,
+      "word": "辛芷蕾VOGUE连登",
+      "onboard_time": 1757389642,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236495,
       "num": 236495,
       "word": "中级会计",
@@ -2257,14 +2265,6 @@
       "onboard_time": 1757385082,
       "rank": 16,
       "category": "民生新闻,母婴育儿"
-    },
-    {
-      "raw_hot": 231781,
-      "num": 250246,
-      "word": "辛芷蕾VOGUE连登",
-      "onboard_time": 1757389642,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231097,
@@ -2553,6 +2553,14 @@
       "onboard_time": 1757317103,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 207319,
+      "num": 207319,
+      "word": "霍乱",
+      "onboard_time": 1757392704,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206710,
@@ -3121,6 +3129,14 @@
       "onboard_time": 1757249002,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184544,
+      "num": 184544,
+      "word": "TF三代黄朔首个外务来了",
+      "onboard_time": 1757392283,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 183679,
@@ -4099,6 +4115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150189,
+      "num": 150189,
+      "word": "星穹铁道昔涟",
+      "onboard_time": 1757392824,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150131,
       "num": 159046,
       "word": "警方通报女子殴打安检员已被行拘",
@@ -4620,7 +4644,7 @@
     },
     {
       "raw_hot": 137806,
-      "num": 162223,
+      "num": 325370,
       "word": "小米开盘跌1.5%",
       "onboard_time": 1757391804,
       "rank": 36,
@@ -4779,6 +4803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135480,
+      "num": 135480,
+      "word": "祈今朝制片方悄悄碎掉了",
+      "onboard_time": 1757392763,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135148,
       "num": 135148,
       "word": "陈伟霆曾舜晞九门半裸泡澡",
@@ -4819,6 +4851,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 133855,
+      "num": 133855,
+      "word": "沈梦辰 我和张颜齐掉水里你先救谁",
+      "onboard_time": 1757392763,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133712,
       "num": 133712,
       "word": "剧组化妆师年薪40万",
@@ -4841,6 +4881,14 @@
       "onboard_time": 1757243121,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133448,
+      "num": 133448,
+      "word": "卡纳瓦罗报名竞聘国足主帅",
+      "onboard_time": 1757392523,
+      "rank": 40,
+      "category": "体育,其它"
     },
     {
       "raw_hot": 133440,
@@ -5489,6 +5537,14 @@
       "onboard_time": 1757290041,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121258,
+      "num": 121258,
+      "word": "谢苗终于打回大银幕",
+      "onboard_time": 1757392944,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 121097,
@@ -6361,6 +6417,14 @@
       "onboard_time": 1757152103,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104091,
+      "num": 133512,
+      "word": "金晨 阿那亚业主松弛感",
+      "onboard_time": 1757392523,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 104084,
@@ -7812,7 +7876,7 @@
     },
     {
       "raw_hot": 50383,
-      "num": 556460,
+      "num": 837574,
       "word": "想入军迷圈的现在正是好时候",
       "onboard_time": 1757299524,
       "rank": 33,

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757392209658,
+  "endTime": 1757393031762,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -915,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1389642,
+      "num": 380034,
+      "word": "雷军评价王腾",
+      "onboard_time": 1757388502,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1374478,
       "num": 346216,
       "word": "李兰迪裤子 女装也是完了",
@@ -1331,14 +1339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1121391,
-      "num": 380034,
-      "word": "雷军评价王腾",
-      "onboard_time": 1757388502,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1117709,
       "num": 361367,
       "word": "许荔莎曝许凯吐槽粉丝",
@@ -1721,6 +1721,14 @@
       "onboard_time": 1757046144,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 902199,
+      "num": 902199,
+      "word": "演唱会出轨被拍女子申请离婚",
+      "onboard_time": 1757391083,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 897836,
@@ -3315,6 +3323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 548632,
+      "num": 548632,
+      "word": "花少7播放量",
+      "onboard_time": 1757390182,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546284,
       "num": 546284,
       "word": "第一批参加阅兵的和平鸽已到家",
@@ -3505,6 +3521,14 @@
       "onboard_time": 1756804822,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 529073,
+      "num": 529073,
+      "word": "灼灼韶华定档",
+      "onboard_time": 1757390303,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 527730,
@@ -4139,14 +4163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 460449,
-      "num": 460449,
-      "word": "演唱会出轨被拍女子申请离婚",
-      "onboard_time": 1757391083,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 459505,
       "num": 370707,
       "word": "虞书欣何与双轨12月预排",
@@ -4201,14 +4217,6 @@
       "onboard_time": 1757052922,
       "rank": 25,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 454743,
-      "num": 454743,
-      "word": "花少7播放量",
-      "onboard_time": 1757390182,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 454502,
@@ -4625,14 +4633,6 @@
       "onboard_time": 1756787902,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 428732,
-      "num": 428732,
-      "word": "灼灼韶华定档",
-      "onboard_time": 1757390303,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 428629,
@@ -5939,6 +5939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 334439,
+      "num": 334439,
+      "word": "喝咖啡和不喝咖啡的身体差距",
+      "onboard_time": 1757390663,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 333603,
       "num": 309004,
       "word": "你说双一流原来是这么个双一流",
@@ -6801,14 +6809,6 @@
       "onboard_time": 1756994004,
       "rank": 9,
       "category": "国内时政,情感"
-    },
-    {
-      "raw_hot": 288202,
-      "num": 288202,
-      "word": "喝咖啡和不喝咖啡的身体差距",
-      "onboard_time": 1757390663,
-      "rank": 21,
-      "category": "科学科普"
     },
     {
       "raw_hot": 287418,
@@ -7915,6 +7915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236633,
+      "num": 250246,
+      "word": "辛芷蕾VOGUE连登",
+      "onboard_time": 1757389642,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236609,
       "num": 236609,
       "word": "虞书欣何与双轨团综杀青",
@@ -8073,14 +8081,6 @@
       "onboard_time": 1757385082,
       "rank": 16,
       "category": "民生新闻,母婴育儿"
-    },
-    {
-      "raw_hot": 231781,
-      "num": 250246,
-      "word": "辛芷蕾VOGUE连登",
-      "onboard_time": 1757389642,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231398,
@@ -8881,6 +8881,14 @@
       "onboard_time": 1756999463,
       "rank": 42,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 207319,
+      "num": 207319,
+      "word": "霍乱",
+      "onboard_time": 1757392704,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207264,
@@ -10369,6 +10377,14 @@
       "onboard_time": 1757142261,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184544,
+      "num": 184544,
+      "word": "TF三代黄朔首个外务来了",
+      "onboard_time": 1757392283,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 184493,
@@ -13123,6 +13139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150189,
+      "num": 150189,
+      "word": "星穹铁道昔涟",
+      "onboard_time": 1757392824,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150131,
       "num": 159046,
       "word": "警方通报女子殴打安检员已被行拘",
@@ -14500,7 +14524,7 @@
     },
     {
       "raw_hot": 137806,
-      "num": 162223,
+      "num": 325370,
       "word": "小米开盘跌1.5%",
       "onboard_time": 1757391804,
       "rank": 36,
@@ -14843,6 +14867,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 135480,
+      "num": 135480,
+      "word": "祈今朝制片方悄悄碎掉了",
+      "onboard_time": 1757392763,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135425,
       "num": 243009,
       "word": "美国防部关注九三阅兵",
@@ -15019,6 +15051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133855,
+      "num": 133855,
+      "word": "沈梦辰 我和张颜齐掉水里你先救谁",
+      "onboard_time": 1757392763,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133834,
       "num": 330490,
       "word": "蜜雪冰城上半年净赚27亿",
@@ -15049,6 +15089,14 @@
       "onboard_time": 1757243121,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133448,
+      "num": 133448,
+      "word": "卡纳瓦罗报名竞聘国足主帅",
+      "onboard_time": 1757392523,
+      "rank": 40,
+      "category": "体育,其它"
     },
     {
       "raw_hot": 133440,
@@ -16649,6 +16697,14 @@
       "onboard_time": 1757064560,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121258,
+      "num": 121258,
+      "word": "谢苗终于打回大银幕",
+      "onboard_time": 1757392944,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 121097,
@@ -19121,6 +19177,14 @@
       "onboard_time": 1756897883,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 104091,
+      "num": 133512,
+      "word": "金晨 阿那亚业主松弛感",
+      "onboard_time": 1757392523,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 104084,
@@ -24212,7 +24276,7 @@
     },
     {
       "raw_hot": 50383,
-      "num": 556460,
+      "num": 837574,
       "word": "想入军迷圈的现在正是好时候",
       "onboard_time": 1757299524,
       "rank": 33,
