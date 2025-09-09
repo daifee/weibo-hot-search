@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757393031762,
+  "endTime": 1757395499145,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -65,6 +65,14 @@
       "onboard_time": 1757382080,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1330972,
+      "num": 254913,
+      "word": "霍乱",
+      "onboard_time": 1757392704,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1306694,
@@ -217,6 +225,14 @@
       "onboard_time": 1757390303,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 521390,
+      "num": 237237,
+      "word": "VOGUE官宣辛芷蕾",
+      "onboard_time": 1757394984,
+      "rank": 13,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 479617,
@@ -387,12 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 334439,
+      "raw_hot": 344245,
       "num": 334439,
       "word": "喝咖啡和不喝咖啡的身体差距",
       "onboard_time": 1757390663,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 325522,
+      "num": 325522,
+      "word": "辛芷蕾VOGUE连登",
+      "onboard_time": 1757389642,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314551,
@@ -499,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236633,
-      "num": 250246,
-      "word": "辛芷蕾VOGUE连登",
-      "onboard_time": 1757389642,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232335,
       "num": 263517,
       "word": "育儿补贴申请不再需要预约",
@@ -555,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218668,
+      "num": 267236,
+      "word": "银十封面人物预告",
+      "onboard_time": 1757391143,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 218607,
       "num": 218607,
       "word": "9名实施欺凌的学生接受矫治教育",
@@ -587,12 +611,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207319,
-      "num": 207319,
-      "word": "霍乱",
-      "onboard_time": 1757392704,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 207405,
+      "num": 207405,
+      "word": "影后想要 影后得到",
+      "onboard_time": 1757394324,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206986,
+      "num": 206986,
+      "word": "早期的辛芷蕾 性感野心家",
+      "onboard_time": 1757393843,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206710,
@@ -627,20 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201973,
-      "num": 267236,
-      "word": "银十封面人物预告",
-      "onboard_time": 1757391143,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 201591,
       "num": 247828,
       "word": "赴山海OST阵容",
       "onboard_time": 1757389463,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200378,
+      "num": 200378,
+      "word": "曝阿里将发布重磅业务",
+      "onboard_time": 1757395102,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 198344,
@@ -673,6 +705,14 @@
       "onboard_time": 1757385683,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193304,
+      "num": 193304,
+      "word": "井柏然疲态",
+      "onboard_time": 1757393244,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 189371,
@@ -787,12 +827,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164641,
+      "num": 196712,
+      "word": "青岛一环卫工人将垃圾扫进大海",
+      "onboard_time": 1757394083,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163830,
       "num": 163830,
       "word": "支付宝转钱 强制爱",
       "onboard_time": 1757388802,
       "rank": 41,
       "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 163200,
+      "num": 163200,
+      "word": "金晨 阿那亚业主松弛感",
+      "onboard_time": 1757392523,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162193,
+      "num": 162193,
+      "word": "黄奕10年救助2000多个孩子",
+      "onboard_time": 1757395222,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 161999,
@@ -841,6 +905,14 @@
       "onboard_time": 1757391742,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151706,
+      "num": 151706,
+      "word": "你好星期六",
+      "onboard_time": 1757393904,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 150839,
@@ -971,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134278,
+      "num": 134278,
+      "word": "王腾小米工作经历配流汗表情",
+      "onboard_time": 1757395342,
+      "rank": 36,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 134128,
       "num": 134128,
       "word": "四川自贡3.6级地震",
@@ -1003,6 +1083,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 129107,
+      "num": 193315,
+      "word": "黄金飙升原因",
+      "onboard_time": 1757394984,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127913,
       "num": 127913,
       "word": "校方回应自闭症学生报到当天遭劝退",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1757382080,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122470,
+      "num": 122470,
+      "word": "闪耀暖暖",
+      "onboard_time": 1757393543,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 121991,
@@ -1059,6 +1155,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116696,
+      "num": 116696,
+      "word": "我们的宿舍你好星期六联动直播",
+      "onboard_time": 1757395462,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115815,
+      "num": 115815,
+      "word": "心动的信号8",
+      "onboard_time": 1757393123,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115483,
       "num": 239265,
       "word": "电影即兴谋杀定档",
@@ -1073,6 +1185,22 @@
       "onboard_time": 1757390482,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112899,
+      "num": 112899,
+      "word": "原来滑动验证码是这个作用",
+      "onboard_time": 1757395462,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 112324,
+      "num": 112324,
+      "word": "高圆圆徒手抓蚯蚓",
+      "onboard_time": 1757395342,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 112303,
@@ -1091,6 +1219,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111621,
+      "num": 111621,
+      "word": "很多人离职其实是因为领导",
+      "onboard_time": 1757392586,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 111478,
+      "num": 110431,
+      "word": "重返未来野树莓PV",
+      "onboard_time": 1757394802,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110591,
       "num": 110591,
       "word": "雷军第92次健身房打卡",
@@ -1105,6 +1249,14 @@
       "onboard_time": 1757380103,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 109229,
+      "num": 127605,
+      "word": "阅兵鸽回家后经常学着站军姿",
+      "onboard_time": 1757394443,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108993,
@@ -1179,12 +1331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104091,
-      "num": 133512,
-      "word": "金晨 阿那亚业主松弛感",
-      "onboard_time": 1757392523,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 104128,
+      "num": 110304,
+      "word": "冷库救人小哥婉拒股份称无法承受",
+      "onboard_time": 1757395042,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101535,
@@ -1193,6 +1345,14 @@
       "onboard_time": 1757346446,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 101100,
+      "num": 124979,
+      "word": "金靖还笑呢吴镇宇治你来了",
+      "onboard_time": 1757395282,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 100674,
@@ -1315,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67859,
+      "num": 265142,
+      "word": "他信案宣判",
+      "onboard_time": 1757394624,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67241,
       "num": 217749,
       "word": "iPhone16价格不降反升",
@@ -1353,6 +1521,14 @@
       "onboard_time": 1757342305,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62001,
+      "num": 194170,
+      "word": "袁弘张歆艺亲子出游的理想搭子",
+      "onboard_time": 1757394204,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 60330,
@@ -1571,7 +1747,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 3461,
+      "raw_hot": 5291,
       "num": 837574,
       "word": "想入军迷圈的现在正是好时候",
       "onboard_time": 1757299524,

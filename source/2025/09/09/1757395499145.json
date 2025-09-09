@@ -1,0 +1,410 @@
+{
+  "runTime": 1757395499145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1128950,
+        "num": 1180632,
+        "word": "董事长和明星女友内幕交易被刑拘",
+        "onboard_time": 1757389822,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 684776,
+        "num": 684776,
+        "word": "演唱会出轨被拍女子申请离婚",
+        "onboard_time": 1757391083,
+        "rank": 1,
+        "category": "演出,海外新闻"
+      },
+      {
+        "raw_hot": 5291,
+        "num": 569866,
+        "word": "想入军迷圈的现在正是好时候",
+        "onboard_time": 1757299524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 501845,
+        "num": 501845,
+        "word": "花少7播放量",
+        "onboard_time": 1757390182,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445571,
+        "num": 445571,
+        "word": "江苏南通通报1例霍乱病例",
+        "onboard_time": 1757387122,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331076,
+        "num": 331076,
+        "word": "iPhone17",
+        "onboard_time": 1757382020,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 412096,
+        "num": 329792,
+        "word": "灼灼韶华定档",
+        "onboard_time": 1757390303,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325522,
+        "num": 325522,
+        "word": "辛芷蕾VOGUE连登",
+        "onboard_time": 1757389642,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265544,
+        "num": 265544,
+        "word": "俄外长在普京下榻套房问LABUBU在哪",
+        "onboard_time": 1757385202,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67859,
+        "num": 265142,
+        "word": "他信案宣判",
+        "onboard_time": 1757394624,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1330972,
+        "num": 254913,
+        "word": "霍乱",
+        "onboard_time": 1757392704,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1188097,
+        "num": 247104,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 11,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 554931,
+        "num": 244232,
+        "word": "一念江南 开机",
+        "onboard_time": 1757387422,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521390,
+        "num": 237237,
+        "word": "VOGUE官宣辛芷蕾",
+        "onboard_time": 1757394984,
+        "rank": 13,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 518610,
+        "num": 228502,
+        "word": "小米 王腾",
+        "onboard_time": 1757373560,
+        "rank": 14,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 350606,
+        "num": 223269,
+        "word": "唯一一个不敢插队的科室",
+        "onboard_time": 1757387722,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218668,
+        "num": 218668,
+        "word": "银十封面人物预告",
+        "onboard_time": 1757391143,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213554,
+        "num": 213554,
+        "word": "今天是毛主席逝世49周年纪念日",
+        "onboard_time": 1757381541,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207405,
+        "num": 207405,
+        "word": "影后想要 影后得到",
+        "onboard_time": 1757394324,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165947,
+        "num": 207397,
+        "word": "开国大典前毛主席曾在天坛前留影",
+        "onboard_time": 1757374580,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 879279,
+        "num": 207259,
+        "word": "雷军评价王腾",
+        "onboard_time": 1757388502,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 344245,
+        "num": 207120,
+        "word": "喝咖啡和不喝咖啡的身体差距",
+        "onboard_time": 1757390663,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227043,
+        "num": 207008,
+        "word": "北京胡同拆迁补偿多少钱",
+        "onboard_time": 1757389341,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 206986,
+        "num": 206986,
+        "word": "早期的辛芷蕾 性感野心家",
+        "onboard_time": 1757393843,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205406,
+        "num": 205406,
+        "word": "杨洋 都这么熟了还这么用心",
+        "onboard_time": 1757385622,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200378,
+        "num": 200378,
+        "word": "曝阿里将发布重磅业务",
+        "onboard_time": 1757395102,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164641,
+        "num": 196712,
+        "word": "青岛一环卫工人将垃圾扫进大海",
+        "onboard_time": 1757394083,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62001,
+        "num": 194170,
+        "word": "袁弘张歆艺亲子出游的理想搭子",
+        "onboard_time": 1757394204,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129107,
+        "num": 193315,
+        "word": "黄金飙升原因",
+        "onboard_time": 1757394984,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193304,
+        "num": 193304,
+        "word": "井柏然疲态",
+        "onboard_time": 1757393244,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166233,
+        "num": 166233,
+        "word": "欧阳娜娜拍了刘昊然",
+        "onboard_time": 1757383881,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163200,
+        "num": 163200,
+        "word": "金晨 阿那亚业主松弛感",
+        "onboard_time": 1757392523,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 162193,
+        "word": "黄奕10年救助2000多个孩子",
+        "onboard_time": 1757395222,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151706,
+        "num": 151706,
+        "word": "你好星期六",
+        "onboard_time": 1757393904,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146468,
+        "num": 146468,
+        "word": "女童被继母虐死前遭针扎舌头指缝",
+        "onboard_time": 1757388261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139572,
+        "num": 139572,
+        "word": "祈今朝许凯虞书欣陷多重舆论风波",
+        "onboard_time": 1757377342,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134278,
+        "num": 134278,
+        "word": "王腾小米工作经历配流汗表情",
+        "onboard_time": 1757395342,
+        "rank": 36,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 133819,
+        "num": 133819,
+        "word": "运动减肥vs少吃减肥",
+        "onboard_time": 1757384120,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109229,
+        "num": 127605,
+        "word": "阅兵鸽回家后经常学着站军姿",
+        "onboard_time": 1757394443,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101100,
+        "num": 124979,
+        "word": "金靖还笑呢吴镇宇治你来了",
+        "onboard_time": 1757395282,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122470,
+        "num": 122470,
+        "word": "闪耀暖暖",
+        "onboard_time": 1757393543,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117086,
+        "num": 117086,
+        "word": "支付宝转钱 强制爱",
+        "onboard_time": 1757388802,
+        "rank": 41,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 116696,
+        "num": 116696,
+        "word": "我们的宿舍你好星期六联动直播",
+        "onboard_time": 1757395462,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115815,
+        "num": 115815,
+        "word": "心动的信号8",
+        "onboard_time": 1757393123,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112899,
+        "num": 112899,
+        "word": "原来滑动验证码是这个作用",
+        "onboard_time": 1757395462,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112324,
+        "num": 112324,
+        "word": "高圆圆徒手抓蚯蚓",
+        "onboard_time": 1757395342,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111621,
+        "num": 111621,
+        "word": "很多人离职其实是因为领导",
+        "onboard_time": 1757392586,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110450,
+        "num": 110450,
+        "word": "星穹铁道昔涟",
+        "onboard_time": 1757392824,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111478,
+        "num": 110431,
+        "word": "重返未来野树莓PV",
+        "onboard_time": 1757394802,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104128,
+        "num": 110304,
+        "word": "冷库救人小哥婉拒股份称无法承受",
+        "onboard_time": 1757395042,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席金砖国家领导人线上峰会#"
+    }
+  }
+}
