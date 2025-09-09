@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757449614370,
+  "endTime": 1757450410814,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -9531,6 +9531,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 73558,
+      "num": 226529,
+      "word": "eSIM",
+      "onboard_time": 1757446334,
+      "rank": 8,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 73265,
       "num": 114900,
       "word": "石破茂热门接班人有三位",
@@ -9801,14 +9809,6 @@
       "onboard_time": 1757262199,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 62705,
-      "num": 226529,
-      "word": "eSIM",
-      "onboard_time": 1757446334,
-      "rank": 8,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 62330,
@@ -10699,6 +10699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25981,
+      "num": 50007,
+      "word": "邓文迪女儿受益默多克家族继承战",
+      "onboard_time": 1757444055,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25678,
       "num": 28744,
       "word": "归队",
@@ -10843,14 +10851,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 20774,
-      "num": 45914,
-      "word": "邓文迪女儿受益默多克家族继承战",
-      "onboard_time": 1757444055,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 20344,
       "num": 574186,
       "word": "非凡十四五",
@@ -10915,8 +10915,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14860,
-      "num": 19793,
+      "raw_hot": 15244,
+      "num": 19794,
       "word": "雷暴哮喘",
       "onboard_time": 1757447294,
       "rank": 49,
