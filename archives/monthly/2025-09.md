@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/10 00:46:31
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/10 01:22:51
 </p>
 </blockquote>
 <p>
@@ -99,14 +99,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E6%8A%B5%E8%BE%BE%23" target="weibo">
-金正恩抵达（热度：4117565）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+苹果发布会（热度：4430295）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-苹果发布会（热度：3673902）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E6%8A%B5%E8%BE%BE%23" target="weibo">
+金正恩抵达（热度：4117565）
 </a>
 </li>
 
@@ -5007,6 +5007,12 @@ AL对战WBG（热度：327576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%23" target="weibo">
+AirPods Pro3（热度：321838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E4%BA%AE%E7%9B%B8%E9%98%85%E5%85%B5%E9%82%A3%E4%B8%80%E5%88%BB%E7%88%B6%E4%BA%B2%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%23" target="weibo">
 儿子亮相阅兵那一刻父亲热泪盈眶（热度：321008）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy早期美版VOGUE封面（热度：255897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%8F%B0%E7%94%9F%E8%A2%AB%E5%81%87%E5%AD%A6%E5%A7%90%E5%BC%95%E8%AF%B1%E6%B3%84%E9%9C%B2%E8%BF%91%E7%99%BE%E6%83%85%E6%8A%A5%23" target="weibo">
 赴台生被假学姐引诱泄露近百情报（热度：255100）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E6%B2%A1%E6%9C%89%E4%B8%80%E5%B8%A7%E6%98%AF%E5%BA%9F%E7%89%87%23" target="weibo">
-田栩宁没有一帧是废片（热度：254937）
 </a>
 </li>
 

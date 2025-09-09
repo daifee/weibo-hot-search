@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/07 00:27:00 ~ 2025/09/10 00:46:31
+本榜单时间：2025/09/07 00:27:00 ~ 2025/09/10 01:22:51
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-苹果发布会（热度：3673902）
+苹果发布会（热度：4430295）
 </a>
 </li>
 
@@ -1677,6 +1677,12 @@ AL对战WBG（热度：327576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%23" target="weibo">
+AirPods Pro3（热度：321838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%AE%A3%E5%B8%83%E8%BE%9E%E5%8E%BB%E8%87%AA%E6%B0%91%E5%85%9A%E6%80%BB%E8%A3%81%E8%81%8C%E5%8A%A1%23" target="weibo">
 石破茂宣布辞去自民党总裁职务（热度：319429）
 </a>
@@ -2661,6 +2667,12 @@ GAI在前面跑演唱会在后面追（热度：203101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%8A%A9%E5%86%9C%E5%8D%96%E8%91%A1%E8%90%84%E8%A2%AB%E5%86%B7%E9%93%BE%E8%BD%A6%E5%9D%91%23" target="weibo">
+B太助农卖葡萄被冷链车坑（热度：197030）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E6%B1%82%E7%94%9F%E6%AC%B2%23" target="weibo">
 张维伊求生欲（热度：196410）
 </a>
@@ -2841,6 +2853,12 @@ GAI在前面跑演唱会在后面追（热度：203101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%83%8C%E5%88%BA%E9%9F%A9%E5%9B%BD%23" target="weibo">
+美国背刺韩国（热度：189873）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E4%B8%8A%E6%96%B030%E6%A1%A3%E7%BB%BC%E8%89%BA%23" target="weibo">
 优酷上新30档综艺（热度：189655）
 </a>
@@ -2921,12 +2939,6 @@ GAI在前面跑演唱会在后面追（热度：203101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%8A%B1%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%8A%95%E7%AF%AE%23" target="weibo">
 魏大勋抱赵今麦投篮（热度：187246）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%83%8C%E5%88%BA%E9%9F%A9%E5%9B%BD%23" target="weibo">
-美国背刺韩国（热度：187046）
 </a>
 </li>
 
@@ -4785,6 +4797,12 @@ U22国足半场0比0澳大利亚U22（热度：130475）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E8%A6%81%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E4%BA%86%23" target="weibo">
+我的手机要低人一等了（热度：130152）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%9B%9B%E5%85%AC%E9%87%8C%E8%B7%AF%E7%A8%8B%E6%95%91%E6%8A%A4%E8%BD%A6%E5%BC%80%E4%BA%8630%E5%A4%9A%E5%88%86%E9%92%9F%23" target="weibo">
 三四公里路程救护车开了30多分钟（热度：130100）
 </a>
@@ -4841,6 +4859,12 @@ U22国足半场0比0澳大利亚U22（热度：130475）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E6%88%91%E8%AE%A4%E8%AF%86%E7%9A%84%E5%88%98%E8%90%8C%E8%90%8C%E5%90%97%23" target="weibo">
 这还是我认识的刘萌萌吗（热度：128827）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%89%B9%E5%8F%8D%E5%8D%8E%E9%9B%86%E4%BC%9A%E7%BA%AF%E5%B1%9E%E9%97%B9%E4%BA%8B%23" target="weibo">
+李在明批反华集会纯属闹事（热度：128576）
 </a>
 </li>
 
@@ -4949,12 +4973,6 @@ PEL（热度：127404）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%A5%E6%84%9F%E5%9B%9B%E5%8D%81%E5%8F%B703%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F%23" target="weibo">
 遥感四十号03组卫星发射成功（热度：126572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%8A%A9%E5%86%9C%E5%8D%96%E8%91%A1%E8%90%84%E8%A2%AB%E5%86%B7%E9%93%BE%E8%BD%A6%E5%9D%91%23" target="weibo">
-B太助农卖葡萄被冷链车坑（热度：126290）
 </a>
 </li>
 
@@ -6303,6 +6321,12 @@ TizzyT羊King羊boss（热度：106554）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%23" target="weibo">
+AirPods Pro3实时翻译（热度：101762）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%88%B4%E6%B3%B3%E5%B8%BD%E8%BF%98%E8%83%BD%E5%B8%85%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
 杨洋戴泳帽还能帅成这样（热度：101706）
 </a>
@@ -7431,8 +7455,20 @@ iG将再战BLG（热度：59578）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%B0%A2%E8%B0%A2%E4%BD%A0%23" target="weibo">
+老师谢谢你（热度：54300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AB%E7%95%8CS9T%E4%B8%80%E4%B8%AA%E5%AD%97%E7%A8%B3%23" target="weibo">
 享界S9T一个字稳（热度：54010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B7%84%E5%8D%9A%E8%AD%A6%E6%96%B9%E7%A0%B4%E8%8E%B7%E5%8E%95%E6%89%80%E5%88%BB%E9%BB%84%E7%BD%91%E6%A1%88%23" target="weibo">
+山东淄博警方破获厕所刻黄网案（热度：53834）
 </a>
 </li>
 

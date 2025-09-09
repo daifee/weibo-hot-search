@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757436391864,
+  "endTime": 1757438571463,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -27,8 +27,8 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 3673902,
-      "num": 3673902,
+      "raw_hot": 4430295,
+      "num": 4430295,
       "word": "苹果发布会",
       "onboard_time": 1757431282,
       "rank": 5,
@@ -2219,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321838,
+      "num": 321838,
+      "word": "AirPods Pro3",
+      "onboard_time": 1757438058,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 319429,
       "num": 406979,
       "word": "石破茂宣布辞去自民党总裁职务",
@@ -3531,6 +3539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197030,
+      "num": 197030,
+      "word": "B太助农卖葡萄被冷链车坑",
+      "onboard_time": 1757434940,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 196410,
       "num": 196410,
       "word": "张维伊求生欲",
@@ -3771,6 +3787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189873,
+      "num": 189873,
+      "word": "美国背刺韩国",
+      "onboard_time": 1757433561,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189655,
       "num": 189655,
       "word": "优酷上新30档综艺",
@@ -3881,14 +3905,6 @@
       "onboard_time": 1757168543,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187046,
-      "num": 187046,
-      "word": "美国背刺韩国",
-      "onboard_time": 1757433561,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 187023,
@@ -6363,6 +6379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130152,
+      "num": 130152,
+      "word": "我的手机要低人一等了",
+      "onboard_time": 1757437757,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130100,
       "num": 214855,
       "word": "三四公里路程救护车开了30多分钟",
@@ -6441,6 +6465,14 @@
       "onboard_time": 1757336183,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128576,
+      "num": 128576,
+      "word": "李在明批反华集会纯属闹事",
+      "onboard_time": 1757436559,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128422,
@@ -6585,14 +6617,6 @@
       "onboard_time": 1757200277,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 126290,
-      "num": 126290,
-      "word": "B太助农卖葡萄被冷链车坑",
-      "onboard_time": 1757434940,
-      "rank": 39,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 125987,
@@ -8387,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101762,
+      "num": 188123,
+      "word": "AirPods Pro3实时翻译",
+      "onboard_time": 1757438238,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 101706,
       "num": 101706,
       "word": "杨洋戴泳帽还能帅成这样",
@@ -9891,12 +9923,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54300,
+      "num": 66057,
+      "word": "老师谢谢你",
+      "onboard_time": 1757437338,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 54010,
       "num": 165316,
       "word": "享界S9T一个字稳",
       "onboard_time": 1757217202,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 53834,
+      "num": 53834,
+      "word": "山东淄博警方破获厕所刻黄网案",
+      "onboard_time": 1757437098,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53473,

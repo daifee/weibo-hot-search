@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/10 00:46:31
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/10 01:22:51
 </p>
 </blockquote>
 <p>
@@ -1761,6 +1761,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+苹果发布会（热度：4430295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E4%BA%86%E6%9D%89%E8%8F%9C%23" target="weibo">
 再见了杉菜（热度：4416500）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E6%97%A0%E9%99%90%E6%9C%9F%E5%B0%81%E7%A6%81%23" target="weibo">
 汪小菲抖音账号被无限期封禁（热度：4294334）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%AE%BF%E7%AE%A1%23" target="weibo">
-青岛大学宿管（热度：4282599）
 </a>
 </li>
 

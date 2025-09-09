@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1757436391864,
+  "endTime": 1757438571463,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2331,6 +2331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4430295,
+      "num": 4430295,
+      "word": "苹果发布会",
+      "onboard_time": 1739983575,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 4416500,
       "num": 1716217,
       "word": "再见了杉菜",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738985183,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4282599,
-      "num": 320471,
-      "word": "青岛大学宿管",
-      "onboard_time": 1751784562,
-      "rank": 10,
-      "category": "教育,民生新闻"
     }
   ],
   "hotgov_list": [
