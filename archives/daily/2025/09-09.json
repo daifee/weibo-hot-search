@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757382704629,
+  "endTime": 1757383980837,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -11,6 +11,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2988345,
+      "num": 2988345,
+      "word": "王腾称没有窃取公司机密出售",
+      "onboard_time": 1757383400,
+      "rank": 0,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 2078600,
       "num": 2078600,
       "word": "王腾发博致歉",
@@ -19,7 +27,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1833481,
+      "raw_hot": 1893969,
       "num": 1833481,
       "word": "小米 王腾",
       "onboard_time": 1757373560,
@@ -35,6 +43,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1331101,
+      "num": 371730,
+      "word": "许凯",
+      "onboard_time": 1757382080,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1306694,
       "num": 134513,
       "word": "小米手机突然爆炸致3岁男童受伤",
@@ -43,16 +59,16 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 1211421,
-      "num": 326718,
-      "word": "许凯",
-      "onboard_time": 1757382080,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 1242539,
+      "num": 1242539,
+      "word": "王腾疑曾因二级泄密被处分",
+      "onboard_time": 1757377762,
+      "rank": 0,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 1130632,
-      "num": 428768,
+      "num": 445311,
       "word": "祈今朝许凯虞书欣陷多重舆论风波",
       "onboard_time": 1757377342,
       "rank": 5,
@@ -60,19 +76,11 @@
     },
     {
       "raw_hot": 1061592,
-      "num": 304189,
+      "num": 353595,
       "word": "王腾曾被雷军点名动不动泄密",
       "onboard_time": 1757375300,
       "rank": 12,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 1029859,
-      "num": 1164777,
-      "word": "王腾疑曾因二级泄密被处分",
-      "onboard_time": 1757377762,
-      "rank": 0,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 1019727,
@@ -89,6 +97,14 @@
       "onboard_time": 1757372839,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 674815,
+      "num": 674815,
+      "word": "33岁女子维修无人机年入超500万",
+      "onboard_time": 1757378544,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 615747,
@@ -115,12 +131,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 517629,
-      "num": 517629,
-      "word": "33岁女子维修无人机年入超500万",
-      "onboard_time": 1757378544,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 460188,
+      "num": 439833,
+      "word": "井柏然刘雯手牵手回酒店",
+      "onboard_time": 1757345125,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 451968,
@@ -131,12 +147,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 439833,
-      "num": 439833,
-      "word": "井柏然刘雯手牵手回酒店",
-      "onboard_time": 1757345125,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 445597,
+      "num": 445597,
+      "word": "男子花2万以为拍下玛莎拉蒂",
+      "onboard_time": 1757378123,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444681,
+      "num": 444681,
+      "word": "苹果14大新品曝光",
+      "onboard_time": 1757381062,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 436558,
@@ -187,14 +211,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 383946,
-      "num": 383946,
-      "word": "男子花2万以为拍下玛莎拉蒂",
-      "onboard_time": 1757378123,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 368497,
       "num": 368497,
       "word": "许凯方否认赌博",
@@ -227,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 337868,
+      "num": 402169,
+      "word": "辛芷蕾杂志全面爆发",
+      "onboard_time": 1757383281,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314551,
       "num": 314551,
       "word": "王腾曾单独签署保密协议",
@@ -235,20 +259,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 279946,
-      "num": 279946,
+      "raw_hot": 287225,
+      "num": 385962,
+      "word": "开国大典前毛主席曾在天坛前留影",
+      "onboard_time": 1757374580,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 283213,
+      "num": 283213,
       "word": "00后整顿职场结果被辞退了",
       "onboard_time": 1757374459,
       "rank": 24,
       "category": "情感"
     },
     {
-      "raw_hot": 274783,
-      "num": 274783,
-      "word": "苹果14大新品曝光",
-      "onboard_time": 1757381062,
-      "rank": 15,
-      "category": "数码"
+      "raw_hot": 270077,
+      "num": 270077,
+      "word": "辛芷蕾训粉",
+      "onboard_time": 1757382921,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 250495,
@@ -257,14 +289,6 @@
       "onboard_time": 1757343744,
       "rank": 8,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 244976,
-      "num": 244976,
-      "word": "开国大典前毛主席曾在天坛前留影",
-      "onboard_time": 1757374580,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 244714,
@@ -291,12 +315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230113,
+      "num": 230113,
+      "word": "今天是毛主席逝世49周年纪念日",
+      "onboard_time": 1757381541,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 224613,
       "num": 218215,
       "word": "势界创始人感谢梓渝粉丝",
       "onboard_time": 1757348601,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224178,
+      "num": 224178,
+      "word": "iPhone17",
+      "onboard_time": 1757382020,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 223829,
@@ -313,6 +353,22 @@
       "onboard_time": 1757345005,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217020,
+      "num": 217020,
+      "word": "顶尖华裔数学家科研经费中断被迫筹款",
+      "onboard_time": 1757380522,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205097,
+      "num": 205097,
+      "word": "卢昱晓仙到失语",
+      "onboard_time": 1757381840,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202352,
@@ -355,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176837,
+      "num": 176837,
+      "word": "王腾晋升小米双料总经理不足9个月",
+      "onboard_time": 1757382740,
+      "rank": 32,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 176430,
       "num": 151098,
       "word": "苹果发布会前瞻",
@@ -369,14 +433,6 @@
       "onboard_time": 1757373020,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 173922,
-      "num": 173922,
-      "word": "今天是毛主席逝世49周年纪念日",
-      "onboard_time": 1757381541,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173708,
@@ -403,16 +459,32 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 153745,
-      "num": 153745,
-      "word": "顶尖华裔数学家科研经费中断被迫筹款",
-      "onboard_time": 1757380522,
-      "rank": 28,
+      "raw_hot": 159742,
+      "num": 159742,
+      "word": "9名实施欺凌的学生接受矫治教育",
+      "onboard_time": 1757383881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152997,
+      "num": 152997,
+      "word": "特朗普须赔偿8330万美元",
+      "onboard_time": 1757381299,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 151557,
+      "num": 151557,
+      "word": "初中生偷转父母37万元充值游戏",
+      "onboard_time": 1757382382,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
       "raw_hot": 150839,
-      "num": 239515,
+      "num": 272361,
       "word": "连风都偏爱周冬雨",
       "onboard_time": 1757374039,
       "rank": 28,
@@ -427,6 +499,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141303,
+      "num": 141303,
+      "word": "吉利星座05组卫星发射成功",
+      "onboard_time": 1757374220,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141143,
+      "num": 141143,
+      "word": "盛世天下",
+      "onboard_time": 1757383701,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139488,
       "num": 223357,
       "word": "曝辛芷蕾团队工资",
@@ -435,20 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138390,
-      "num": 138390,
-      "word": "iPhone17",
-      "onboard_time": 1757382020,
-      "rank": 33,
-      "category": "数码"
+      "raw_hot": 137588,
+      "num": 223071,
+      "word": "小米客服回应手机自燃致男童受伤",
+      "onboard_time": 1757380763,
+      "rank": 22,
+      "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 134178,
-      "num": 134178,
-      "word": "特朗普须赔偿8330万美元",
-      "onboard_time": 1757381299,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 134775,
+      "num": 134775,
+      "word": "修无人机年入超500万女生发声",
+      "onboard_time": 1757383462,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134128,
@@ -467,28 +555,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 131406,
-      "num": 223071,
-      "word": "小米客服回应手机自燃致男童受伤",
-      "onboard_time": 1757380763,
-      "rank": 22,
-      "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 128581,
-      "num": 128581,
-      "word": "初中生偷转父母37万元充值游戏",
-      "onboard_time": 1757382382,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124190,
       "num": 516100,
       "word": "男子工资交女友分手要回遭拒",
       "onboard_time": 1757335643,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122985,
+      "num": 131636,
+      "word": "日本记者质问小泉进次郎",
+      "onboard_time": 1757382080,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120338,
@@ -499,12 +579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 117036,
-      "num": 134638,
-      "word": "吉利星座05组卫星发射成功",
-      "onboard_time": 1757374220,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 114840,
+      "num": 114840,
+      "word": "专家称朱婷不用是太大浪费",
+      "onboard_time": 1757383641,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 112303,
@@ -537,6 +617,22 @@
       "onboard_time": 1757380103,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 108993,
+      "num": 108993,
+      "word": "WTT镜头下的王楚钦孙颖莎",
+      "onboard_time": 1757383822,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108169,
+      "num": 108169,
+      "word": "刚需电器中冰箱是最没必要买贵的",
+      "onboard_time": 1757382921,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 106886,
@@ -585,14 +681,6 @@
       "onboard_time": 1757332883,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101656,
-      "num": 151506,
-      "word": "卢昱晓仙到失语",
-      "onboard_time": 1757381840,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 101535,
@@ -707,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64720,
+      "num": 141168,
+      "word": "欧阳娜娜拍了刘昊然",
+      "onboard_time": 1757383881,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 63838,
       "num": 217284,
       "word": "卢远王乐晨cp",
@@ -769,14 +865,6 @@
       "onboard_time": 1757335883,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55714,
-      "num": 131636,
-      "word": "日本记者质问小泉进次郎",
-      "onboard_time": 1757382080,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55250,
@@ -867,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26506,
+      "num": 135137,
+      "word": "女子带娃骑车还玩手机",
+      "onboard_time": 1757383641,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26445,
       "num": 35245,
       "word": "丁程鑫刺杀小说家2打戏预告",
@@ -908,7 +1004,7 @@
     },
     {
       "raw_hot": 12486,
-      "num": 643014,
+      "num": 921890,
       "word": "58个中国工程被印在121枚世界货币上",
       "onboard_time": 1757317103,
       "rank": 2,

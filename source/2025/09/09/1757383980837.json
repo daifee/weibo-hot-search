@@ -1,0 +1,410 @@
+{
+  "runTime": 1757383980837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2988345,
+        "num": 2988345,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 0,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 1242539,
+        "num": 1242539,
+        "word": "王腾疑曾因二级泄密被处分",
+        "onboard_time": 1757377762,
+        "rank": 1,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 6027,
+        "num": 921890,
+        "word": "58个中国工程被印在121枚世界货币上",
+        "onboard_time": 1757317103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 674815,
+        "num": 674815,
+        "word": "33岁女子维修无人机年入超500万",
+        "onboard_time": 1757378544,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445597,
+        "num": 445597,
+        "word": "男子花2万以为拍下玛莎拉蒂",
+        "onboard_time": 1757378123,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1059529,
+        "num": 445311,
+        "word": "祈今朝许凯虞书欣陷多重舆论风波",
+        "onboard_time": 1757377342,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444681,
+        "num": 444681,
+        "word": "苹果14大新品曝光",
+        "onboard_time": 1757381062,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 402657,
+        "num": 402657,
+        "word": "某境外组织长期对华渗透",
+        "onboard_time": 1757373501,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337868,
+        "num": 402169,
+        "word": "辛芷蕾杂志全面爆发",
+        "onboard_time": 1757383281,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287225,
+        "num": 385962,
+        "word": "开国大典前毛主席曾在天坛前留影",
+        "onboard_time": 1757374580,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1893969,
+        "num": 381903,
+        "word": "小米 王腾",
+        "onboard_time": 1757373560,
+        "rank": 10,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 1331101,
+        "num": 371730,
+        "word": "许凯",
+        "onboard_time": 1757382080,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363497,
+        "num": 363497,
+        "word": "LABUBU价崩黄牛压货倒赔",
+        "onboard_time": 1757373080,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 761277,
+        "num": 353595,
+        "word": "王腾曾被雷军点名动不动泄密",
+        "onboard_time": 1757375300,
+        "rank": 13,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 460188,
+        "num": 348693,
+        "word": "井柏然刘雯手牵手回酒店",
+        "onboard_time": 1757345125,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415830,
+        "num": 348653,
+        "word": "李炮 王腾",
+        "onboard_time": 1757376080,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 342915,
+        "num": 342915,
+        "word": "日照海域火箭发射成功现场哇声一片",
+        "onboard_time": 1757380462,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318850,
+        "num": 318850,
+        "word": "陈赫没有邓超就更开心了",
+        "onboard_time": 1757376802,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283213,
+        "num": 283213,
+        "word": "00后整顿职场结果被辞退了",
+        "onboard_time": 1757374459,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126253,
+        "num": 272361,
+        "word": "连风都偏爱周冬雨",
+        "onboard_time": 1757374039,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416442,
+        "num": 272119,
+        "word": "王腾发博致歉",
+        "onboard_time": 1757345005,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 386980,
+        "num": 271610,
+        "word": "马龙坐在了倪妮井柏然中间",
+        "onboard_time": 1757342723,
+        "rank": 21,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 270077,
+        "num": 270077,
+        "word": "辛芷蕾训粉",
+        "onboard_time": 1757382921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230113,
+        "num": 230113,
+        "word": "今天是毛主席逝世49周年纪念日",
+        "onboard_time": 1757381541,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224178,
+        "num": 224178,
+        "word": "iPhone17",
+        "onboard_time": 1757382020,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137588,
+        "num": 217903,
+        "word": "小米客服回应手机自燃致男童受伤",
+        "onboard_time": 1757380763,
+        "rank": 25,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 217020,
+        "num": 217020,
+        "word": "顶尖华裔数学家科研经费中断被迫筹款",
+        "onboard_time": 1757380522,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205097,
+        "num": 205097,
+        "word": "卢昱晓仙到失语",
+        "onboard_time": 1757381840,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196571,
+        "num": 196571,
+        "word": "男子掏耳朵被2岁儿子撞致鼓膜脱落",
+        "onboard_time": 1757372599,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112997,
+        "num": 195696,
+        "word": "赴山海OST",
+        "onboard_time": 1757344403,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194948,
+        "num": 194948,
+        "word": "马龙 替我姥姥谢谢倪妮",
+        "onboard_time": 1757343744,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 183645,
+        "num": 183645,
+        "word": "娃哈哈瓶盖当公章",
+        "onboard_time": 1757345664,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176837,
+        "num": 176837,
+        "word": "王腾晋升小米双料总经理不足9个月",
+        "onboard_time": 1757382740,
+        "rank": 32,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 182113,
+        "num": 170893,
+        "word": "沈佳润 原来内娱给我是这个定位",
+        "onboard_time": 1757334323,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159742,
+        "num": 159742,
+        "word": "9名实施欺凌的学生接受矫治教育",
+        "onboard_time": 1757383881,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152997,
+        "num": 152997,
+        "word": "特朗普须赔偿8330万美元",
+        "onboard_time": 1757381299,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151557,
+        "num": 151557,
+        "word": "初中生偷转父母37万元充值游戏",
+        "onboard_time": 1757382382,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141303,
+        "num": 141303,
+        "word": "吉利星座05组卫星发射成功",
+        "onboard_time": 1757374220,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64720,
+        "num": 141168,
+        "word": "欧阳娜娜拍了刘昊然",
+        "onboard_time": 1757383881,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141143,
+        "num": 141143,
+        "word": "盛世天下",
+        "onboard_time": 1757383701,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26506,
+        "num": 135137,
+        "word": "女子带娃骑车还玩手机",
+        "onboard_time": 1757383641,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134791,
+        "num": 134791,
+        "word": "男子胃癌晚期发现10岁女儿非亲生",
+        "onboard_time": 1757333965,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134775,
+        "num": 134775,
+        "word": "修无人机年入超500万女生发声",
+        "onboard_time": 1757383462,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132862,
+        "num": 132862,
+        "word": "陈益韬喊话许荔莎",
+        "onboard_time": 1757379142,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130103,
+        "num": 130103,
+        "word": "王化",
+        "onboard_time": 1757349741,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122985,
+        "num": 122985,
+        "word": "日本记者质问小泉进次郎",
+        "onboard_time": 1757382080,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114840,
+        "num": 114840,
+        "word": "专家称朱婷不用是太大浪费",
+        "onboard_time": 1757383641,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111341,
+        "num": 111341,
+        "word": "海上发射一箭11星",
+        "onboard_time": 1757377642,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108993,
+        "num": 108993,
+        "word": "WTT镜头下的王楚钦孙颖莎",
+        "onboard_time": 1757383822,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108169,
+        "num": 108169,
+        "word": "刚需电器中冰箱是最没必要买贵的",
+        "onboard_time": 1757382921,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的这6天#"
+    }
+  }
+}
