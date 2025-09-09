@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757460118986,
+  "endTime": 1757461015495,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -11,8 +11,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 2866349,
-      "num": 2866349,
+      "raw_hot": 3052336,
+      "num": 3052336,
       "word": "iPhone17系列价格",
       "onboard_time": 1757441956,
       "rank": 15,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2416499,
-      "num": 390550,
+      "num": 737892,
       "word": "黄景瑜前妻 俩孩子一个被他打没了",
       "onboard_time": 1757430924,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 952222,
+      "num": 952222,
+      "word": "苹果的牙膏挤爆了",
+      "onboard_time": 1757440456,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 944535,
       "num": 944535,
       "word": "AirPods Pro3",
@@ -43,20 +51,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 927508,
-      "num": 927508,
-      "word": "苹果的牙膏挤爆了",
-      "onboard_time": 1757440456,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 783270,
-      "num": 783270,
+      "raw_hot": 902583,
+      "num": 902583,
       "word": "iPhone17Pro 丑",
       "onboard_time": 1757441416,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 682120,
+      "num": 912533,
+      "word": "教师节",
+      "onboard_time": 1757459480,
+      "rank": 5,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 681775,
+      "num": 681775,
+      "word": "吴雅婷回应王栎鑫患焦虑症",
+      "onboard_time": 1757460018,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 656758,
@@ -75,12 +91,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 551371,
-      "num": 784999,
-      "word": "教师节",
-      "onboard_time": 1757459480,
-      "rank": 5,
-      "category": "民生新闻,教育"
+      "raw_hot": 542837,
+      "num": 542837,
+      "word": "卡塔尔首都多哈发生剧烈爆炸",
+      "onboard_time": 1757424083,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 510597,
@@ -99,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463267,
-      "num": 463267,
-      "word": "卡塔尔首都多哈发生剧烈爆炸",
-      "onboard_time": 1757424083,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 433343,
       "num": 169951,
       "word": "黄景瑜前妻喊话许凯",
@@ -116,18 +124,10 @@
     },
     {
       "raw_hot": 403893,
-      "num": 430770,
+      "num": 906520,
       "word": "游本昌和妻子在养老院现状",
       "onboard_time": 1757423543,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 389132,
-      "num": 389132,
-      "word": "吴雅婷回应王栎鑫患焦虑症",
-      "onboard_time": 1757460018,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -163,12 +163,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 272174,
-      "num": 272174,
+      "raw_hot": 283315,
+      "num": 283315,
       "word": "AirPods Pro3实时翻译",
       "onboard_time": 1757438238,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 281307,
+      "num": 281307,
+      "word": "辛芷蕾拿了影后刘冲再也没有发过花絮",
+      "onboard_time": 1757460200,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242349,
@@ -179,6 +187,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 239575,
+      "num": 228613,
+      "word": "九三阅兵观礼座被二次利用了",
+      "onboard_time": 1757425164,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 229168,
       "num": 145023,
       "word": "曝布兰妮家里都是狗大便",
@@ -187,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224815,
-      "num": 177420,
-      "word": "九三阅兵观礼座被二次利用了",
-      "onboard_time": 1757425164,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 228319,
+      "num": 228319,
+      "word": "我的手机要低人一等了",
+      "onboard_time": 1757437757,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 224557,
@@ -203,16 +219,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219453,
-      "num": 219453,
-      "word": "我的手机要低人一等了",
-      "onboard_time": 1757437757,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 215257,
-      "num": 176549,
+      "num": 199762,
       "word": "为什么接吻的时候闻不到对方口臭",
       "onboard_time": 1757427265,
       "rank": 21,
@@ -283,12 +291,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 166080,
+      "num": 166080,
+      "word": "韩国感觉后脑勺被打了一闷棍",
+      "onboard_time": 1757460140,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164575,
       "num": 164575,
       "word": "男子疑因彩礼谈崩分手后被告强奸",
       "onboard_time": 1757423663,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163449,
+      "num": 163449,
+      "word": "周扬青自曝妈妈不想让她恋爱",
+      "onboard_time": 1757451014,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 162516,
@@ -307,6 +331,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 156172,
+      "num": 903689,
+      "word": "不二之臣官宣男女主",
+      "onboard_time": 1757460200,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148093,
+      "num": 148093,
+      "word": "iPhone17降价",
+      "onboard_time": 1757459660,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147911,
       "num": 147911,
       "word": "北京冰雹",
@@ -323,19 +363,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 147101,
-      "num": 147101,
-      "word": "周扬青自曝妈妈不想让她恋爱",
-      "onboard_time": 1757451014,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144915,
       "num": 211977,
       "word": "山东淄博警方破获厕所刻黄网案",
       "onboard_time": 1757437098,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134590,
+      "num": 754947,
+      "word": "男子鼻痛18年疑骨瘤开刀取出3cm树枝",
+      "onboard_time": 1757458879,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -355,14 +395,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 129161,
-      "num": 129161,
-      "word": "iPhone17降价",
-      "onboard_time": 1757459660,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 128681,
       "num": 128681,
       "word": "许嵩 冯禧",
@@ -379,12 +411,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122476,
+      "num": 122476,
+      "word": "iphone17充电速度提升",
+      "onboard_time": 1757460680,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 119036,
       "num": 84260,
       "word": "梓渝60秒广告报价60万",
       "onboard_time": 1757417723,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115501,
+      "num": 340130,
+      "word": "赴山海还是有李凯馨",
+      "onboard_time": 1757443935,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 114753,
@@ -403,6 +451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 111220,
+      "num": 111220,
+      "word": "iPhone17前置摄像头更新",
+      "onboard_time": 1757460680,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 110300,
       "num": 110300,
       "word": "不二之臣官宣预热",
@@ -411,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104146,
-      "num": 340130,
-      "word": "赴山海还是有李凯馨",
-      "onboard_time": 1757443935,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 98699,
+      "num": 98699,
+      "word": "iPhone17ProMax",
+      "onboard_time": 1757460500,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 96637,
@@ -449,6 +505,22 @@
       "onboard_time": 1757456897,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92699,
+      "num": 92699,
+      "word": "以军袭击卡塔尔声明",
+      "onboard_time": 1757428524,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91770,
+      "num": 91770,
+      "word": "樊振东加盟引发德国足球界玩梗潮",
+      "onboard_time": 1757460680,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 89773,
@@ -499,28 +571,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 81673,
-      "num": 81673,
-      "word": "以军承认对多哈袭击事件负责",
-      "onboard_time": 1757425944,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 81540,
-      "num": 81540,
+      "raw_hot": 81742,
+      "num": 81742,
       "word": "iPhone17Pro电池史上最大",
       "onboard_time": 1757442975,
       "rank": 38,
       "category": "数码"
     },
     {
-      "raw_hot": 80067,
-      "num": 80067,
-      "word": "以军袭击卡塔尔声明",
-      "onboard_time": 1757428524,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 81673,
+      "num": 81673,
+      "word": "以军承认对多哈袭击事件负责",
+      "onboard_time": 1757425944,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79781,
@@ -553,6 +617,14 @@
       "onboard_time": 1757430683,
       "rank": 38,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 78146,
+      "num": 137103,
+      "word": "卢伟冰谈苹果发布会",
+      "onboard_time": 1757460862,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 77443,
@@ -625,14 +697,6 @@
       "onboard_time": 1757431043,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64218,
-      "num": 81700,
-      "word": "男子鼻痛18年疑骨瘤开刀取出3cm树枝",
-      "onboard_time": 1757458879,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63132,
@@ -779,8 +843,8 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 4278,
-      "num": 1125244,
+      "raw_hot": 5182,
+      "num": 1150816,
       "word": "为啥歼10是争气机",
       "onboard_time": 1757314282,
       "rank": 2,
