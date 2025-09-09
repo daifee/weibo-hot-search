@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757410096681,
+  "endTime": 1757410884534,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -161,6 +161,14 @@
       "onboard_time": 1757375300,
       "rank": 12,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 1038507,
+      "num": 247931,
+      "word": "许嵩 冯禧",
+      "onboard_time": 1757409682,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1020022,
@@ -443,20 +451,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414148,
+      "num": 243427,
+      "word": "历届选秀TOP",
+      "onboard_time": 1757407522,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398942,
       "num": 398942,
       "word": "陈赫没有邓超就更开心了",
       "onboard_time": 1757376802,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394803,
-      "num": 217271,
-      "word": "历届选秀TOP",
-      "onboard_time": 1757407522,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 391953,
@@ -587,6 +595,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 315718,
+      "num": 315718,
+      "word": "外卖小哥最不建议点的外卖",
+      "onboard_time": 1757408003,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 314551,
       "num": 314551,
       "word": "王腾曾单独签署保密协议",
@@ -609,14 +625,6 @@
       "onboard_time": 1757401701,
       "rank": 17,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 299112,
-      "num": 212997,
-      "word": "许嵩 冯禧",
-      "onboard_time": 1757409682,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 287225,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 256300,
-      "num": 211661,
+      "num": 235051,
       "word": "花少5全是cp 花少7全是小说",
       "onboard_time": 1757406141,
       "rank": 26,
@@ -704,6 +712,14 @@
       "word": "中国警犬logo形象犬是它",
       "onboard_time": 1757397441,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240950,
+      "num": 240950,
+      "word": "南通老人感染霍乱因不当使用井水",
+      "onboard_time": 1757405122,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -843,20 +859,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 209379,
-      "num": 209379,
-      "word": "外卖小哥最不建议点的外卖",
-      "onboard_time": 1757408003,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 209126,
       "num": 209126,
       "word": "盛世天下",
       "onboard_time": 1757383701,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207680,
+      "num": 194640,
+      "word": "辛芷蕾 显化",
+      "onboard_time": 1757410642,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 206986,
@@ -1035,14 +1051,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 176869,
-      "num": 199685,
-      "word": "南通老人感染霍乱因不当使用井水",
-      "onboard_time": 1757405122,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176837,
       "num": 176837,
       "word": "王腾晋升小米双料总经理不足9个月",
@@ -1081,6 +1089,22 @@
       "onboard_time": 1757335943,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 173626,
+      "num": 173626,
+      "word": "莲花楼",
+      "onboard_time": 1757410042,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173404,
+      "num": 173404,
+      "word": "单依纯最想删除的视频",
+      "onboard_time": 1757409562,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 172105,
@@ -1139,8 +1163,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169090,
+      "num": 169090,
+      "word": "原来老祖宗的娱乐这么顶",
+      "onboard_time": 1757410402,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168492,
-      "num": 168492,
+      "num": 186997,
       "word": "九三阅兵运20起飞前画面大放送",
       "onboard_time": 1757404881,
       "rank": 27,
@@ -1243,14 +1275,6 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 154992,
-      "num": 154992,
-      "word": "单依纯最想删除的视频",
-      "onboard_time": 1757409562,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153446,
       "num": 152787,
       "word": "赴山海莲花楼联动",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1757392824,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149959,
+      "num": 142958,
+      "word": "胡楚靓向网友道歉",
+      "onboard_time": 1757410583,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 149647,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1757390962,
       "rank": 45,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 143361,
+      "num": 143361,
+      "word": "舆情通报不能开空头支票",
+      "onboard_time": 1757409623,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141688,
@@ -1515,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132003,
-      "num": 132003,
-      "word": "舆情通报不能开空头支票",
-      "onboard_time": 1757409623,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131436,
       "num": 131436,
       "word": "中芯国际跌超11%",
@@ -1547,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127128,
+      "num": 127128,
+      "word": "赴山海陈钰琪特别主演",
+      "onboard_time": 1757408482,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126620,
       "num": 126620,
       "word": "卢昱晓太适合旅综了",
@@ -1563,12 +1603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124001,
-      "num": 124001,
-      "word": "赴山海陈钰琪特别主演",
-      "onboard_time": 1757408482,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 123730,
+      "num": 123730,
+      "word": "金饰克价一夜涨了15元",
+      "onboard_time": 1757405422,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 123055,
+      "num": 123055,
+      "word": "各省奶茶代表",
+      "onboard_time": 1757408182,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 122985,
@@ -1689,14 +1737,6 @@
       "onboard_time": 1757393123,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115499,
-      "num": 115499,
-      "word": "金饰克价一夜涨了15元",
-      "onboard_time": 1757405422,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 115483,
@@ -1875,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106848,
-      "num": 106848,
-      "word": "各省奶茶代表",
-      "onboard_time": 1757408182,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 106601,
       "num": 106601,
       "word": "单位回应1400余人报考同一编制岗",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1757407762,
       "rank": 44,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 106522,
+      "num": 115335,
+      "word": "内娱梦女文四巨头",
+      "onboard_time": 1757409023,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 106382,
@@ -2035,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100231,
-      "num": 100231,
-      "word": "莲花楼",
-      "onboard_time": 1757410042,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99954,
       "num": 214105,
       "word": "接英雄回家",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1757343085,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 95254,
+      "num": 95254,
+      "word": "高瀚宇被张予曦狠狠拿捏住了",
+      "onboard_time": 1757410642,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 93029,
@@ -2273,14 +2313,6 @@
       "onboard_time": 1757342305,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62349,
-      "num": 115335,
-      "word": "内娱梦女文四巨头",
-      "onboard_time": 1757409023,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 62087,
@@ -2547,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24675,
+      "num": 607360,
+      "word": "九三纪念短片我们的胜利日",
+      "onboard_time": 1757410102,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24260,
       "num": 126443,
       "word": "知否 书香门第全是打戏",
@@ -2587,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 12812,
+      "num": 112261,
+      "word": "房子斌杨雨婷女儿中戏开学照",
+      "onboard_time": 1757410703,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12486,
       "num": 921890,
       "word": "58个中国工程被印在121枚世界货币上",
@@ -2623,6 +2671,9 @@
     },
     {
       "word": "#习近平向金正恩致贺电#"
+    },
+    {
+      "word": "#习近平会见葡萄牙总理蒙特内格罗#"
     }
   ]
 }
