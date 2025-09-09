@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757439427585,
+  "endTime": 1757442765418,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 3424026,
-      "num": 267048,
+      "num": 333731,
       "word": "黄景瑜前妻 俩孩子一个被他打没了",
       "onboard_time": 1757430924,
       "rank": 10,
@@ -457,6 +457,14 @@
       "onboard_time": 1756902925,
       "rank": 10,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 2244479,
+      "num": 2244479,
+      "word": "iPhone17",
+      "onboard_time": 1757382020,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 2164769,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1757342723,
       "rank": 3,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 1065672,
-      "num": 1065672,
-      "word": "iPhone17",
-      "onboard_time": 1757382020,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 1063633,
@@ -2715,6 +2715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 698083,
+      "num": 698083,
+      "word": "苹果的牙膏挤爆了",
+      "onboard_time": 1757440456,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 697110,
       "num": 697110,
       "word": "华春莹和记者说我跟你一样兴奋",
@@ -2945,6 +2953,14 @@
       "onboard_time": 1757296881,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 656758,
+      "num": 656758,
+      "word": "iPhone17高刷",
+      "onboard_time": 1757439617,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 656129,
@@ -4507,6 +4523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461310,
+      "num": 461310,
+      "word": "iPhone17Pro",
+      "onboard_time": 1757442076,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 459505,
       "num": 370707,
       "word": "虞书欣何与双轨12月预排",
@@ -5667,6 +5691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 377105,
+      "num": 377105,
+      "word": "史上最薄iPhone",
+      "onboard_time": 1757440277,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 376684,
       "num": 1146720,
       "word": "四万万中国人共同的名字",
@@ -6329,6 +6361,14 @@
       "onboard_time": 1757253802,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 339211,
+      "num": 339211,
+      "word": "iPhone17Pro 丑",
+      "onboard_time": 1757441416,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 338321,
@@ -7339,6 +7379,14 @@
       "category": "国内时政,情感"
     },
     {
+      "raw_hot": 288440,
+      "num": 288440,
+      "word": "iPhone17颜色",
+      "onboard_time": 1757439796,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 287418,
       "num": 287418,
       "word": "肖思远烈士弟弟肖荣基参加阅兵活动",
@@ -7585,6 +7633,14 @@
       "onboard_time": 1757406023,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275619,
+      "num": 275619,
+      "word": "iPhone17系列价格",
+      "onboard_time": 1757441956,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 274926,
@@ -9411,6 +9467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 209418,
+      "num": 209418,
+      "word": "我的手机要低人一等了",
+      "onboard_time": 1757437757,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209238,
       "num": 218193,
       "word": "梓渝音乐节不基础造型更不基础",
@@ -10204,7 +10268,7 @@
     },
     {
       "raw_hot": 197030,
-      "num": 197030,
+      "num": 485164,
       "word": "B太助农卖葡萄被冷链车坑",
       "onboard_time": 1757434940,
       "rank": 39,
@@ -10425,14 +10489,6 @@
       "onboard_time": 1756853537,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193990,
-      "num": 165338,
-      "word": "我的手机要低人一等了",
-      "onboard_time": 1757437757,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 193908,
@@ -12075,6 +12131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172758,
+      "num": 172758,
+      "word": "iPhone Air",
+      "onboard_time": 1757440456,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172688,
       "num": 172688,
       "word": "美军看好的装备被我军率先实现",
@@ -12953,6 +13017,14 @@
       "onboard_time": 1756945823,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 162516,
+      "num": 162516,
+      "word": "Apple Watch S11",
+      "onboard_time": 1757439078,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 162435,
@@ -19155,6 +19227,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 114753,
+      "num": 114753,
+      "word": "爱马仕橙",
+      "onboard_time": 1757440875,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114747,
       "num": 114747,
       "word": "易会满被免至今A股上涨近1000点",
@@ -20265,14 +20345,6 @@
       "onboard_time": 1757405962,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108448,
-      "num": 108448,
-      "word": "Apple Watch S11",
-      "onboard_time": 1757439078,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 108437,
@@ -22283,6 +22355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95818,
+      "num": 95818,
+      "word": "iPhone17Pro星宇橙色",
+      "onboard_time": 1757442076,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95741,
       "num": 95741,
       "word": "狗狗总能精准找到怕它的人",
@@ -22891,6 +22971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90455,
+      "num": 68571,
+      "word": "终于256G起步",
+      "onboard_time": 1757442196,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90397,
       "num": 269053,
       "word": "杨幂半成品广告成了",
@@ -23377,6 +23465,14 @@
       "onboard_time": 1756725442,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86290,
+      "num": 86290,
+      "word": "Apple Watch系列",
+      "onboard_time": 1757439676,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 86286,
@@ -25075,6 +25171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68571,
+      "num": 68570,
+      "word": "2TB内存",
+      "onboard_time": 1757442196,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 68387,
       "num": 84999,
       "word": "人类和平与发展的崇高事业必将胜利",
@@ -25593,6 +25697,14 @@
       "onboard_time": 1756639460,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61847,
+      "num": 61847,
+      "word": "AirPods Pro3没涨价",
+      "onboard_time": 1757439438,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 61824,
@@ -26212,7 +26324,7 @@
     },
     {
       "raw_hot": 53834,
-      "num": 108479,
+      "num": 173187,
       "word": "山东淄博警方破获厕所刻黄网案",
       "onboard_time": 1757437098,
       "rank": 34,
@@ -26971,6 +27083,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39428,
+      "num": 39428,
+      "word": "苹果手表支持高血压监测",
+      "onboard_time": 1757439976,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 39290,
+      "num": 83755,
+      "word": "Apple Watch S11续航24小时",
+      "onboard_time": 1757439137,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39276,
       "num": 266006,
       "word": "80秒穿越80年",
@@ -27169,14 +27297,6 @@
       "onboard_time": 1756825883,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34615,
-      "num": 83755,
-      "word": "Apple Watch S11续航24小时",
-      "onboard_time": 1757439137,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 34592,
@@ -27913,6 +28033,14 @@
       "onboard_time": 1757282895,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21798,
+      "num": 32817,
+      "word": "凌晨两点客人吃饭老板睡觉",
+      "onboard_time": 1757440396,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21793,
