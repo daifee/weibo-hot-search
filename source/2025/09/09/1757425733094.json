@@ -1,0 +1,410 @@
+{
+  "runTime": 1757425733094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1357632,
+        "num": 1357632,
+        "word": "卡塔尔首都多哈发生剧烈爆炸",
+        "onboard_time": 1757424083,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1191084,
+        "num": 1191084,
+        "word": "游本昌和妻子在养老院现状",
+        "onboard_time": 1757423543,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4923,
+        "num": 554846,
+        "word": "为啥歼10是争气机",
+        "onboard_time": 1757314282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 536188,
+        "num": 536188,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1757424444,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370588,
+        "num": 370588,
+        "word": "王皓训斥黄友政",
+        "onboard_time": 1757420425,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350170,
+        "num": 350170,
+        "word": "王暖暖孩子户口按非婚生办理",
+        "onboard_time": 1757419941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1008821,
+        "num": 349850,
+        "word": "游本昌回应为何入住养老院",
+        "onboard_time": 1757421983,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424287,
+        "num": 344416,
+        "word": "坂口健太郎方承认恋情",
+        "onboard_time": 1757422102,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369402,
+        "num": 341518,
+        "word": "张杰开大",
+        "onboard_time": 1757419341,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72405,
+        "num": 338254,
+        "word": "美国民众遭遇电诈损失超百亿美元",
+        "onboard_time": 1757424922,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 708827,
+        "num": 334814,
+        "word": "男子疑因彩礼谈崩分手后被告强奸",
+        "onboard_time": 1757423663,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697879,
+        "num": 330635,
+        "word": "暹罗猫小豆泥去世",
+        "onboard_time": 1757420662,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580030,
+        "num": 327308,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564820,
+        "num": 324705,
+        "word": "宋轶疑似取关白敬亭",
+        "onboard_time": 1757415742,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468480,
+        "num": 322478,
+        "word": "梓渝60秒广告报价60万",
+        "onboard_time": 1757417723,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456611,
+        "num": 317765,
+        "word": "中国美院排粪管爆裂学生遭粪水喷溅",
+        "onboard_time": 1757418444,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371769,
+        "num": 314849,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757409682,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42100,
+        "num": 313274,
+        "word": "张新成是懂全都要文学的",
+        "onboard_time": 1757424863,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33563,
+        "num": 308977,
+        "word": "轿车也能在戈壁里撒野了",
+        "onboard_time": 1757423062,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 307198,
+        "num": 307198,
+        "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+        "onboard_time": 1757412081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419441,
+        "num": 297168,
+        "word": "章凝公开孩子父亲",
+        "onboard_time": 1757412741,
+        "rank": 20,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 282792,
+        "num": 282792,
+        "word": "太恐怖了不敢亲嘴了",
+        "onboard_time": 1757400681,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247614,
+        "num": 247614,
+        "word": "美国宣布制裁东南亚诈骗集团",
+        "onboard_time": 1757415860,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233889,
+        "num": 233889,
+        "word": "肖战同款焖猪蹄订单量翻番",
+        "onboard_time": 1757424624,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231204,
+        "num": 231204,
+        "word": "以色列袭击卡塔尔的哈马斯高层",
+        "onboard_time": 1757424683,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200412,
+        "num": 200412,
+        "word": "CEO出轨女同事其丈夫发声",
+        "onboard_time": 1757411782,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198345,
+        "num": 198345,
+        "word": "辛芷蕾吃泡面喝香槟",
+        "onboard_time": 1757423543,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197355,
+        "num": 197355,
+        "word": "一说拍照杨洋洗了把脸就来了",
+        "onboard_time": 1757425283,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184150,
+        "num": 197346,
+        "word": "u23",
+        "onboard_time": 1757424683,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170815,
+        "num": 197345,
+        "word": "谍报上不封顶滴血不漏初见版",
+        "onboard_time": 1757424863,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197345,
+        "num": 197344,
+        "word": "BLG对战iG",
+        "onboard_time": 1757412442,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190535,
+        "num": 190535,
+        "word": "辛芷蕾 显化",
+        "onboard_time": 1757410642,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181310,
+        "num": 181310,
+        "word": "中国U22男足争进U23亚洲杯正赛",
+        "onboard_time": 1757424745,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172246,
+        "num": 172246,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 33,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 164767,
+        "num": 164767,
+        "word": "九三阅兵观礼座被二次利用了",
+        "onboard_time": 1757425164,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158143,
+        "num": 158143,
+        "word": "河北石家庄一学校被曝扔学生外卖",
+        "onboard_time": 1757415923,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156170,
+        "num": 156170,
+        "word": "iG阵容",
+        "onboard_time": 1757416100,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145487,
+        "num": 154674,
+        "word": "单依纯 栩栩华生CEO",
+        "onboard_time": 1757420902,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50611,
+        "num": 153394,
+        "word": "男子2年中6次彩票总额超1000万",
+        "onboard_time": 1757425103,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153352,
+        "num": 153352,
+        "word": "外卖小哥最不建议点的外卖",
+        "onboard_time": 1757408003,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147312,
+        "num": 147312,
+        "word": "印度人想456元包场成都餐厅",
+        "onboard_time": 1757414542,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141971,
+        "num": 141971,
+        "word": "迪丽热巴10月巴黎时装周",
+        "onboard_time": 1757425463,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139769,
+        "num": 139769,
+        "word": "易烊千玺拍撕拉片",
+        "onboard_time": 1757411182,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133332,
+        "num": 133332,
+        "word": "BLG高卓营小学赢了",
+        "onboard_time": 1757424863,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133076,
+        "num": 133076,
+        "word": "短剧圈就是个巨大的明星脸",
+        "onboard_time": 1757423363,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130530,
+        "num": 130530,
+        "word": "老瓦谈樊振东德甲表现",
+        "onboard_time": 1757425584,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130483,
+        "num": 130483,
+        "word": "外卖平台集体发声",
+        "onboard_time": 1757404223,
+        "rank": 46,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 126994,
+        "num": 126994,
+        "word": "李英爱曝15岁女儿一直在参加选秀",
+        "onboard_time": 1757415143,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118391,
+        "num": 118391,
+        "word": "赴山海定档预告",
+        "onboard_time": 1757403442,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117859,
+        "num": 117859,
+        "word": "已婚中学教师被指出轨女学生",
+        "onboard_time": 1757423423,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}
