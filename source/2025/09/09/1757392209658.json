@@ -1,0 +1,410 @@
+{
+  "runTime": 1757392209658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1712163,
+        "num": 1712163,
+        "word": "董事长和明星女友内幕交易被刑拘",
+        "onboard_time": 1757389822,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1103353,
+        "num": 1103353,
+        "word": "江苏南通通报1例霍乱病例",
+        "onboard_time": 1757387122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2069,
+        "num": 556460,
+        "word": "想入军迷圈的现在正是好时候",
+        "onboard_time": 1757299524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 490989,
+        "num": 490989,
+        "word": "iPhone17",
+        "onboard_time": 1757382020,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 460449,
+        "num": 460449,
+        "word": "演唱会出轨被拍女子申请离婚",
+        "onboard_time": 1757391083,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2457461,
+        "num": 457975,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 5,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 454743,
+        "num": 454743,
+        "word": "花少7播放量",
+        "onboard_time": 1757390182,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444368,
+        "num": 444368,
+        "word": "辛芷蕾杂志全面爆发",
+        "onboard_time": 1757383281,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428732,
+        "num": 428732,
+        "word": "灼灼韶华定档",
+        "onboard_time": 1757390303,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423140,
+        "num": 423140,
+        "word": "俄外长在普京下榻套房问LABUBU在哪",
+        "onboard_time": 1757385202,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 964832,
+        "num": 417757,
+        "word": "一念江南 开机",
+        "onboard_time": 1757387422,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 896630,
+        "num": 411683,
+        "word": "小米 王腾",
+        "onboard_time": 1757373560,
+        "rank": 11,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 797338,
+        "num": 410137,
+        "word": "唯一一个不敢插队的科室",
+        "onboard_time": 1757387722,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391953,
+        "num": 391953,
+        "word": "杨洋 都这么熟了还这么用心",
+        "onboard_time": 1757385622,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1121391,
+        "num": 380034,
+        "word": "雷军评价王腾",
+        "onboard_time": 1757388502,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 339553,
+        "num": 339553,
+        "word": "19岁自闭症学生技校报到当天遭劝退",
+        "onboard_time": 1757384180,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303045,
+        "num": 303045,
+        "word": "运动减肥vs少吃减肥",
+        "onboard_time": 1757384120,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 55735,
+        "num": 301686,
+        "word": "女民兵为啥戴红色丝巾",
+        "onboard_time": 1757342844,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43042,
+        "num": 297260,
+        "word": "林更新和户外的适配度",
+        "onboard_time": 1757388382,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98623,
+        "num": 292580,
+        "word": "一代人有一代人的洗衣方式",
+        "onboard_time": 1757390843,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303196,
+        "num": 291823,
+        "word": "祈今朝许凯虞书欣陷多重舆论风波",
+        "onboard_time": 1757377342,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288202,
+        "num": 288202,
+        "word": "喝咖啡和不喝咖啡的身体差距",
+        "onboard_time": 1757390663,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 270163,
+        "num": 270163,
+        "word": "北京胡同拆迁补偿多少钱",
+        "onboard_time": 1757389341,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 222858,
+        "num": 269865,
+        "word": "欧阳娜娜拍了刘昊然",
+        "onboard_time": 1757383881,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201973,
+        "num": 267236,
+        "word": "银十封面人物预告",
+        "onboard_time": 1757391143,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198279,
+        "num": 265375,
+        "word": "谁家综艺一下集齐6个魔童闹海",
+        "onboard_time": 1757389822,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124832,
+        "num": 263517,
+        "word": "育儿补贴申请不再需要预约",
+        "onboard_time": 1757385082,
+        "rank": 26,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 263203,
+        "num": 263203,
+        "word": "曾黎的手串是中药做的",
+        "onboard_time": 1757386642,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55491,
+        "num": 243995,
+        "word": "新奥迪设计首发",
+        "onboard_time": 1757388261,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115483,
+        "num": 239265,
+        "word": "电影即兴谋杀定档",
+        "onboard_time": 1757391563,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237942,
+        "num": 237942,
+        "word": "王腾发博致歉",
+        "onboard_time": 1757345005,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231781,
+        "num": 231781,
+        "word": "辛芷蕾VOGUE连登",
+        "onboard_time": 1757389642,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213698,
+        "num": 213698,
+        "word": "女童被继母虐死前遭针扎舌头指缝",
+        "onboard_time": 1757388261,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206710,
+        "num": 206710,
+        "word": "杭州高校学生开学有福了",
+        "onboard_time": 1757391322,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193662,
+        "num": 193662,
+        "word": "电视剧花好官宣杀青",
+        "onboard_time": 1757387541,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174762,
+        "num": 174762,
+        "word": "赴山海",
+        "onboard_time": 1757385502,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137806,
+        "num": 162223,
+        "word": "小米开盘跌1.5%",
+        "onboard_time": 1757391804,
+        "rank": 36,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 154212,
+        "num": 154212,
+        "word": "开国大典前毛主席曾在天坛前留影",
+        "onboard_time": 1757374580,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144887,
+        "num": 154068,
+        "word": "江苏南通霍乱病例基本痊愈",
+        "onboard_time": 1757388862,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85976,
+        "num": 153029,
+        "word": "邓超进组的第一个阻碍是戴美瞳",
+        "onboard_time": 1757391024,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114405,
+        "num": 152349,
+        "word": "首架C909医疗机交付",
+        "onboard_time": 1757390482,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162941,
+        "num": 151744,
+        "word": "赴山海OST阵容",
+        "onboard_time": 1757389463,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151717,
+        "num": 151717,
+        "word": "钟美美开课专业的事找专业的人",
+        "onboard_time": 1757391742,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150721,
+        "num": 150721,
+        "word": "王腾1分钟视频报价3.85万",
+        "onboard_time": 1757388021,
+        "rank": 43,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 146779,
+        "num": 146779,
+        "word": "谢霆锋一拳火爆一个餐厅",
+        "onboard_time": 1757391503,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143592,
+        "num": 143592,
+        "word": "王腾小米履历",
+        "onboard_time": 1757390962,
+        "rank": 45,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 145681,
+        "num": 142882,
+        "word": "支付宝转钱 强制爱",
+        "onboard_time": 1757388802,
+        "rank": 46,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 105711,
+        "num": 140278,
+        "word": "倪妮说马龙老婆是她同学",
+        "onboard_time": 1757389703,
+        "rank": 47,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 137798,
+        "num": 137798,
+        "word": "朱雨玲11比1",
+        "onboard_time": 1757391804,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133318,
+        "num": 133318,
+        "word": "我高中丑关我大学什么事",
+        "onboard_time": 1757388562,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席金砖国家领导人线上峰会#"
+    }
+  }
+}

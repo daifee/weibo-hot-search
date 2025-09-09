@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757389753583,
+  "endTime": 1757392209658,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -43,6 +43,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1712163,
+      "num": 1712163,
+      "word": "董事长和明星女友内幕交易被刑拘",
+      "onboard_time": 1757389822,
+      "rank": 0,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 1331101,
       "num": 374680,
       "word": "许凯",
@@ -73,6 +81,22 @@
       "onboard_time": 1757377342,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1121391,
+      "num": 380034,
+      "word": "雷军评价王腾",
+      "onboard_time": 1757388502,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1103353,
+      "num": 1103353,
+      "word": "江苏南通通报1例霍乱病例",
+      "onboard_time": 1757387122,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1065672,
@@ -107,12 +131,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 918467,
-      "num": 918467,
-      "word": "江苏南通通报1例霍乱病例",
-      "onboard_time": 1757387122,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 797338,
+      "num": 410137,
+      "word": "唯一一个不敢插队的科室",
+      "onboard_time": 1757387722,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 787895,
@@ -171,14 +195,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 518129,
-      "num": 392466,
-      "word": "唯一一个不敢插队的科室",
-      "onboard_time": 1757387722,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 479617,
       "num": 479617,
       "word": "运动减肥vs少吃减肥",
@@ -187,12 +203,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 460449,
+      "num": 460449,
+      "word": "演唱会出轨被拍女子申请离婚",
+      "onboard_time": 1757391083,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 460188,
       "num": 439833,
       "word": "井柏然刘雯手牵手回酒店",
       "onboard_time": 1757345125,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 454743,
+      "num": 454743,
+      "word": "花少7播放量",
+      "onboard_time": 1757390182,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 451968,
@@ -251,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428732,
+      "num": 428732,
+      "word": "灼灼韶华定档",
+      "onboard_time": 1757390303,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416232,
       "num": 416232,
       "word": "赴山海",
@@ -264,6 +304,14 @@
       "word": "陈赫没有邓超就更开心了",
       "onboard_time": 1757376802,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 391953,
+      "num": 391953,
+      "word": "杨洋 都这么熟了还这么用心",
+      "onboard_time": 1757385622,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -331,14 +379,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 354265,
-      "num": 354265,
-      "word": "杨洋 都这么熟了还这么用心",
-      "onboard_time": 1757385622,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353243,
       "num": 353243,
       "word": "日照海域火箭发射成功现场哇声一片",
@@ -363,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287994,
-      "num": 287994,
-      "word": "雷军评价王腾",
-      "onboard_time": 1757388502,
-      "rank": 16,
-      "category": "互联网"
+      "raw_hot": 288202,
+      "num": 288202,
+      "word": "喝咖啡和不喝咖啡的身体差距",
+      "onboard_time": 1757390663,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 287225,
@@ -385,6 +425,14 @@
       "onboard_time": 1757374459,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270163,
+      "num": 270163,
+      "word": "北京胡同拆迁补偿多少钱",
+      "onboard_time": 1757389341,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 270077,
@@ -452,11 +500,19 @@
     },
     {
       "raw_hot": 232335,
-      "num": 241581,
+      "num": 263517,
       "word": "育儿补贴申请不再需要预约",
       "onboard_time": 1757385082,
       "rank": 16,
       "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 231781,
+      "num": 250246,
+      "word": "辛芷蕾VOGUE连登",
+      "onboard_time": 1757389642,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230113,
@@ -531,19 +587,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206710,
+      "num": 206710,
+      "word": "杭州高校学生开学有福了",
+      "onboard_time": 1757391322,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205097,
       "num": 205097,
       "word": "卢昱晓仙到失语",
       "onboard_time": 1757381840,
       "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204328,
-      "num": 250246,
-      "word": "辛芷蕾VOGUE连登",
-      "onboard_time": 1757389642,
-      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -563,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201973,
+      "num": 267236,
+      "word": "银十封面人物预告",
+      "onboard_time": 1757391143,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201591,
       "num": 247828,
       "word": "赴山海OST阵容",
@@ -577,6 +641,14 @@
       "onboard_time": 1757317823,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198279,
+      "num": 265375,
+      "word": "谁家综艺一下集齐6个魔童闹海",
+      "onboard_time": 1757389822,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 195423,
@@ -747,6 +819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151717,
+      "num": 151717,
+      "word": "钟美美开课专业的事找专业的人",
+      "onboard_time": 1757391742,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150839,
       "num": 272361,
       "word": "连风都偏爱周冬雨",
@@ -763,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146779,
+      "num": 146779,
+      "word": "谢霆锋一拳火爆一个餐厅",
+      "onboard_time": 1757391503,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146161,
       "num": 238284,
       "word": "檀健次问幼年曹操也是他配吗",
@@ -771,20 +859,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144887,
+      "num": 433279,
+      "word": "江苏南通霍乱病例基本痊愈",
+      "onboard_time": 1757388862,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143592,
+      "num": 143592,
+      "word": "王腾小米履历",
+      "onboard_time": 1757390962,
+      "rank": 45,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 141303,
       "num": 141303,
       "word": "吉利星座05组卫星发射成功",
       "onboard_time": 1757374220,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140258,
-      "num": 140258,
-      "word": "北京胡同拆迁补偿多少钱",
-      "onboard_time": 1757389341,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 139488,
@@ -801,6 +897,22 @@
       "onboard_time": 1757387062,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137806,
+      "num": 162223,
+      "word": "小米开盘跌1.5%",
+      "onboard_time": 1757391804,
+      "rank": 36,
+      "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 137798,
+      "num": 137798,
+      "word": "朱雨玲11比1",
+      "onboard_time": 1757391804,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 137588,
@@ -833,14 +945,6 @@
       "onboard_time": 1757382261,
       "rank": 37,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 132835,
-      "num": 433279,
-      "word": "江苏南通霍乱病例基本痊愈",
-      "onboard_time": 1757388862,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131436,
@@ -897,6 +1001,22 @@
       "onboard_time": 1757344765,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115483,
+      "num": 239265,
+      "word": "电影即兴谋杀定档",
+      "onboard_time": 1757391563,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 114405,
+      "num": 152349,
+      "word": "首架C909医疗机交付",
+      "onboard_time": 1757390482,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112303,
@@ -963,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105711,
+      "num": 171540,
+      "word": "倪妮说马龙老婆是她同学",
+      "onboard_time": 1757389703,
+      "rank": 39,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 105600,
       "num": 222958,
       "word": "势界CEO发文感谢田栩宁粉丝",
@@ -1019,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98623,
+      "num": 292580,
+      "word": "一代人有一代人的洗衣方式",
+      "onboard_time": 1757390843,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95350,
       "num": 221974,
       "word": "这些祝福送给每一个追梦的你",
@@ -1041,6 +1177,14 @@
       "onboard_time": 1757339123,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85976,
+      "num": 153029,
+      "word": "邓超进组的第一个阻碍是戴美瞳",
+      "onboard_time": 1757391024,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 85357,
@@ -1089,14 +1233,6 @@
       "onboard_time": 1757389463,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 74066,
-      "num": 171540,
-      "word": "倪妮说马龙老婆是她同学",
-      "onboard_time": 1757389703,
-      "rank": 39,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 71857,
@@ -1252,7 +1388,7 @@
     },
     {
       "raw_hot": 48223,
-      "num": 256572,
+      "num": 297260,
       "word": "林更新和户外的适配度",
       "onboard_time": 1757388382,
       "rank": 19,
@@ -1369,11 +1505,22 @@
       "onboard_time": 1757353696,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2069,
+      "num": 556460,
+      "word": "想入军迷圈的现在正是好时候",
+      "onboard_time": 1757299524,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记的这6天#"
+    },
+    {
+      "word": "#习近平出席金砖国家领导人线上峰会#"
     }
   ]
 }
