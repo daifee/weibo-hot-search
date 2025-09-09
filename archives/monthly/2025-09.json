@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757429003183,
+  "endTime": 1757431708221,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -905,6 +905,14 @@
       "onboard_time": 1757116518,
       "rank": 1,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 1463409,
+      "num": 267048,
+      "word": "黄景瑜前妻 俩孩子一个被他打没了",
+      "onboard_time": 1757430924,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1456231,
@@ -2779,6 +2787,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 684375,
+      "num": 684375,
+      "word": "6省国补资金违规使用过亿",
+      "onboard_time": 1757427865,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 683482,
+      "num": 239046,
+      "word": "曝布兰妮家里都是狗大便",
+      "onboard_time": 1757426604,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680211,
       "num": 327081,
       "word": "麦当劳过夜现状",
@@ -3209,6 +3233,14 @@
       "onboard_time": 1756795521,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 592092,
+      "num": 260253,
+      "word": "胡宾果住酒店被偷拍",
+      "onboard_time": 1757430504,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 590835,
@@ -3883,6 +3915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 515328,
+      "num": 313531,
+      "word": "鞠婧祎生图",
+      "onboard_time": 1757428344,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511801,
       "num": 511801,
       "word": "泰版三十而已林有有",
@@ -4145,14 +4185,6 @@
       "onboard_time": 1756954522,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 486036,
-      "num": 225647,
-      "word": "曝布兰妮家里都是狗大便",
-      "onboard_time": 1757426604,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 485981,
@@ -5395,6 +5427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389063,
+      "num": 232697,
+      "word": "为什么接吻的时候闻不到对方口臭",
+      "onboard_time": 1757427265,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388960,
       "num": 333858,
       "word": "麒麟9020",
@@ -5593,14 +5633,6 @@
       "onboard_time": 1757415860,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 377528,
-      "num": 204836,
-      "word": "为什么接吻的时候闻不到对方口臭",
-      "onboard_time": 1757427265,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 376684,
@@ -6763,6 +6795,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 314183,
+      "num": 314183,
+      "word": "苹果发布会",
+      "onboard_time": 1757431282,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 314020,
       "num": 314020,
       "word": "九三上午纪念大会晚上文艺晚会",
@@ -6801,6 +6841,14 @@
       "onboard_time": 1757297903,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311460,
+      "num": 311460,
+      "word": "以军承认对多哈袭击事件负责",
+      "onboard_time": 1757425944,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 310694,
@@ -7411,14 +7459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 281875,
-      "num": 281875,
-      "word": "以军承认对多哈袭击事件负责",
-      "onboard_time": 1757425944,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 281540,
       "num": 281540,
       "word": "A股反弹原因",
@@ -7667,6 +7707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268826,
+      "num": 268826,
+      "word": "北京冰雹",
+      "onboard_time": 1757427566,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268670,
       "num": 286541,
       "word": "新一代制式步枪亮相九三阅兵",
@@ -7849,6 +7897,14 @@
       "onboard_time": 1756983682,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257067,
+      "num": 257729,
+      "word": "美为以色列在多哈发动袭击开绿灯",
+      "onboard_time": 1757426963,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 256624,
@@ -8137,14 +8193,6 @@
       "onboard_time": 1757138541,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 244505,
-      "num": 257729,
-      "word": "美为以色列在多哈发动袭击开绿灯",
-      "onboard_time": 1757426963,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 244125,
@@ -9379,6 +9427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209105,
+      "num": 202161,
+      "word": "梓渝真求到佛了",
+      "onboard_time": 1757430683,
+      "rank": 28,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 209018,
       "num": 209018,
       "word": "吴千语和施伯雄现场观礼",
@@ -9681,6 +9737,14 @@
       "onboard_time": 1757214082,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202998,
+      "num": 202998,
+      "word": "坚持喝牛奶VS坚持喝豆浆",
+      "onboard_time": 1757428703,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202995,
@@ -11491,14 +11555,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 179288,
-      "num": 179288,
-      "word": "鞠婧祎生图",
-      "onboard_time": 1757428344,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179024,
       "num": 179024,
       "word": "七彩祥云",
@@ -12371,6 +12427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168190,
+      "num": 168190,
+      "word": "TF家族冒泡",
+      "onboard_time": 1757431043,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168072,
       "num": 168072,
       "word": "管乐一直逼父母给自己找相亲",
@@ -12441,6 +12505,14 @@
       "onboard_time": 1757138541,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 167041,
+      "num": 167041,
+      "word": "婢女开播",
+      "onboard_time": 1757428824,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 166948,
@@ -13755,6 +13827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153400,
+      "num": 256786,
+      "word": "卡塔尔首都多哈爆炸现场画面",
+      "onboard_time": 1757428227,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153368,
       "num": 265654,
       "word": "李一桐唯一会的歌被田曦薇抢了",
@@ -13921,14 +14001,6 @@
       "onboard_time": 1756695021,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151768,
-      "num": 151768,
-      "word": "北京冰雹",
-      "onboard_time": 1757427566,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151717,
@@ -14819,6 +14891,14 @@
       "category": "游戏,数码"
     },
     {
+      "raw_hot": 144908,
+      "num": 144908,
+      "word": "库克预热iPhone17发布会",
+      "onboard_time": 1757430083,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144887,
       "num": 433279,
       "word": "江苏南通霍乱病例基本痊愈",
@@ -14929,6 +15009,14 @@
       "onboard_time": 1757232742,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143919,
+      "num": 143919,
+      "word": "不二之臣官宣预热",
+      "onboard_time": 1757431103,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 143835,
@@ -15481,14 +15569,6 @@
       "onboard_time": 1757157261,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139300,
-      "num": 139300,
-      "word": "婢女开播",
-      "onboard_time": 1757428824,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 139233,
@@ -16155,14 +16235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134153,
-      "num": 193210,
-      "word": "6省国补资金违规使用过亿",
-      "onboard_time": 1757427865,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134128,
       "num": 134128,
       "word": "四川自贡3.6级地震",
@@ -16587,14 +16659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130433,
-      "num": 130433,
-      "word": "坚持喝牛奶VS坚持喝豆浆",
-      "onboard_time": 1757428703,
-      "rank": 46,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 130428,
       "num": 130428,
       "word": "特朗普破防称好像把俄印输给了中国",
@@ -16705,6 +16769,14 @@
       "onboard_time": 1757235202,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129718,
+      "num": 129718,
+      "word": "胡宾果被偷拍者威胁",
+      "onboard_time": 1757431403,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 129509,
@@ -20683,6 +20755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105089,
+      "num": 150875,
+      "word": "阅兵观礼台近5万把椅子去哪了",
+      "onboard_time": 1757428884,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104925,
       "num": 104925,
       "word": "洪秀柱出席九三阅兵天经地义",
@@ -22865,14 +22945,6 @@
       "onboard_time": 1756965382,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88808,
-      "num": 150875,
-      "word": "阅兵观礼台近5万把椅子去哪了",
-      "onboard_time": 1757428884,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88783,
@@ -25771,6 +25843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 56099,
+      "num": 143932,
+      "word": "1400余人报考同一编制岗位",
+      "onboard_time": 1757430863,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56048,
       "num": 156450,
       "word": "明日方舟丰川祥子皮肤",
@@ -26531,6 +26611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45866,
+      "num": 144328,
+      "word": "冯禧的情商",
+      "onboard_time": 1757431642,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45822,
       "num": 193794,
       "word": "周也欧莱雅纪录片首映礼",
@@ -27017,6 +27105,14 @@
       "onboard_time": 1756804523,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 33392,
+      "num": 121965,
+      "word": "驻卡塔尔使馆提醒中国公民注意安全",
+      "onboard_time": 1757430744,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33277,

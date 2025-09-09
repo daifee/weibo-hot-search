@@ -1,0 +1,410 @@
+{
+  "runTime": 1757431708221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1307165,
+        "num": 1307165,
+        "word": "卡塔尔首都多哈发生剧烈爆炸",
+        "onboard_time": 1757424083,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1117994,
+        "num": 1117994,
+        "word": "游本昌和妻子在养老院现状",
+        "onboard_time": 1757423543,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6187,
+        "num": 932521,
+        "word": "为啥歼10是争气机",
+        "onboard_time": 1757314282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 901749,
+        "num": 901749,
+        "word": "不二之臣",
+        "onboard_time": 1757426425,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 684375,
+        "num": 684375,
+        "word": "6省国补资金违规使用过亿",
+        "onboard_time": 1757427865,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314183,
+        "num": 314183,
+        "word": "苹果发布会",
+        "onboard_time": 1757431282,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 515328,
+        "num": 313531,
+        "word": "鞠婧祎生图",
+        "onboard_time": 1757428344,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311460,
+        "num": 311460,
+        "word": "以军承认对多哈袭击事件负责",
+        "onboard_time": 1757425944,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307833,
+        "num": 307833,
+        "word": "坂口健太郎方承认恋情",
+        "onboard_time": 1757422102,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268826,
+        "num": 268826,
+        "word": "北京冰雹",
+        "onboard_time": 1757427566,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1463409,
+        "num": 267048,
+        "word": "黄景瑜前妻 俩孩子一个被他打没了",
+        "onboard_time": 1757430924,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838338,
+        "num": 263356,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592092,
+        "num": 260253,
+        "word": "胡宾果住酒店被偷拍",
+        "onboard_time": 1757430504,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 257067,
+        "num": 257067,
+        "word": "美为以色列在多哈发动袭击开绿灯",
+        "onboard_time": 1757426963,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416027,
+        "num": 256939,
+        "word": "宋轶疑似取关白敬亭",
+        "onboard_time": 1757415742,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372611,
+        "num": 256909,
+        "word": "暹罗猫小豆泥去世",
+        "onboard_time": 1757420662,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153400,
+        "num": 256786,
+        "word": "卡塔尔首都多哈爆炸现场画面",
+        "onboard_time": 1757428227,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256736,
+        "num": 256736,
+        "word": "娃哈哈瓶盖被当公章盖在实习证明上",
+        "onboard_time": 1757412081,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360863,
+        "num": 255577,
+        "word": "男子疑因彩礼谈崩分手后被告强奸",
+        "onboard_time": 1757423663,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242425,
+        "num": 242425,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1757424444,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683482,
+        "num": 239046,
+        "word": "曝布兰妮家里都是狗大便",
+        "onboard_time": 1757426604,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389063,
+        "num": 232697,
+        "word": "为什么接吻的时候闻不到对方口臭",
+        "onboard_time": 1757427265,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332854,
+        "num": 231036,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757409682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308982,
+        "num": 223877,
+        "word": "梓渝60秒广告报价60万",
+        "onboard_time": 1757417723,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317657,
+        "num": 222202,
+        "word": "九三阅兵观礼座被二次利用了",
+        "onboard_time": 1757425164,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246392,
+        "num": 217357,
+        "word": "中国美院排粪管爆裂学生遭粪水喷溅",
+        "onboard_time": 1757418444,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212984,
+        "num": 212984,
+        "word": "以色列袭击卡塔尔的哈马斯高层",
+        "onboard_time": 1757424683,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202998,
+        "num": 202998,
+        "word": "坚持喝牛奶VS坚持喝豆浆",
+        "onboard_time": 1757428703,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 209105,
+        "num": 202161,
+        "word": "梓渝真求到佛了",
+        "onboard_time": 1757430683,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 193540,
+        "num": 193540,
+        "word": "太恐怖了不敢亲嘴了",
+        "onboard_time": 1757400681,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170885,
+        "num": 170885,
+        "word": "肖战同款焖猪蹄订单量翻番",
+        "onboard_time": 1757424624,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168190,
+        "num": 168190,
+        "word": "TF家族冒泡",
+        "onboard_time": 1757431043,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167443,
+        "num": 167443,
+        "word": "辛芷蕾 显化",
+        "onboard_time": 1757410642,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "婢女开播",
+        "onboard_time": 1757428824,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124429,
+        "num": 154277,
+        "word": "金价",
+        "onboard_time": 1757431043,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153410,
+        "num": 153410,
+        "word": "章凝公开孩子父亲",
+        "onboard_time": 1757412741,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 151320,
+        "num": 151320,
+        "word": "短剧圈就是个巨大的明星脸",
+        "onboard_time": 1757423363,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144908,
+        "num": 144908,
+        "word": "库克预热iPhone17发布会",
+        "onboard_time": 1757430083,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45866,
+        "num": 144328,
+        "word": "冯禧的情商",
+        "onboard_time": 1757431642,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56099,
+        "num": 143932,
+        "word": "1400余人报考同一编制岗位",
+        "onboard_time": 1757430863,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143919,
+        "num": 143919,
+        "word": "不二之臣官宣预热",
+        "onboard_time": 1757431103,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139934,
+        "num": 139934,
+        "word": "疑似iPhone17Air国行包装盒",
+        "onboard_time": 1757427743,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129718,
+        "num": 129718,
+        "word": "胡宾果被偷拍者威胁",
+        "onboard_time": 1757431403,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125359,
+        "num": 125359,
+        "word": "一说拍照杨洋洗了把脸就来了",
+        "onboard_time": 1757425283,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33392,
+        "num": 121965,
+        "word": "驻卡塔尔使馆提醒中国公民注意安全",
+        "onboard_time": 1757430744,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110569,
+        "num": 118789,
+        "word": "以军袭击卡塔尔声明",
+        "onboard_time": 1757428524,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105089,
+        "num": 118699,
+        "word": "阅兵观礼台近5万把椅子去哪了",
+        "onboard_time": 1757428884,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118641,
+        "num": 118641,
+        "word": "易烊千玺汪顺内场同框",
+        "onboard_time": 1757426304,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 118146,
+        "num": 118146,
+        "word": "CEO出轨女同事其丈夫发声",
+        "onboard_time": 1757411782,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110075,
+        "num": 110075,
+        "word": "印度人想456元包场成都餐厅",
+        "onboard_time": 1757414542,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见葡萄牙总理蒙特内格罗#"
+    }
+  }
+}
