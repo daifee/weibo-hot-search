@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757403499398,
+  "endTime": 1757406843559,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -107,6 +107,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 1161662,
+      "num": 1185865,
+      "word": "赴山海定档预告",
+      "onboard_time": 1757403442,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1130632,
       "num": 445311,
       "word": "祈今朝许凯虞书欣陷多重舆论风波",
@@ -129,6 +137,14 @@
       "onboard_time": 1757387122,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1067296,
+      "num": 1067296,
+      "word": "外卖平台集体发声",
+      "onboard_time": 1757404223,
+      "rank": 1,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1065672,
@@ -169,6 +185,14 @@
       "onboard_time": 1757391083,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 804670,
+      "num": 804670,
+      "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
+      "onboard_time": 1757400201,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 801278,
@@ -225,6 +249,14 @@
       "onboard_time": 1757342723,
       "rank": 3,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 581825,
+      "num": 581825,
+      "word": "刘美含说赵让是张远孙子辈",
+      "onboard_time": 1757404101,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 577231,
@@ -289,14 +321,6 @@
       "onboard_time": 1757384120,
       "rank": 6,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 473962,
-      "num": 473962,
-      "word": "赴山海定档预告",
-      "onboard_time": 1757403442,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 461652,
@@ -419,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387857,
+      "num": 307360,
+      "word": "香奈儿押宝辛芷蕾9年",
+      "onboard_time": 1757405601,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 387403,
       "num": 387403,
       "word": "梓渝杂志",
@@ -443,8 +475,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372551,
-      "num": 372551,
+      "raw_hot": 373617,
+      "num": 373617,
       "word": "迪奥数据泄露被公安网安部门处罚",
       "onboard_time": 1757402182,
       "rank": 9,
@@ -491,19 +523,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351449,
+      "num": 351449,
+      "word": "气虚vs血虚",
+      "onboard_time": 1757399961,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 344245,
       "num": 334439,
       "word": "喝咖啡和不喝咖啡的身体差距",
       "onboard_time": 1757390663,
       "rank": 21,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 336106,
-      "num": 336106,
-      "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
-      "onboard_time": 1757400201,
-      "rank": 37,
       "category": "科学科普"
     },
     {
@@ -531,6 +563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 302638,
+      "num": 356131,
+      "word": "市监总局将督促外卖平台合理控制补贴",
+      "onboard_time": 1757404223,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302492,
       "num": 302492,
       "word": "电视剧花好官宣杀青",
@@ -547,6 +587,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 297343,
+      "num": 297343,
+      "word": "夫妻合租房生娃后被赶合理吗",
+      "onboard_time": 1757402722,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287225,
       "num": 385962,
       "word": "开国大典前毛主席曾在天坛前留影",
@@ -561,6 +609,14 @@
       "onboard_time": 1757374459,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 275872,
+      "num": 349913,
+      "word": "迪奥上海公司泄露客户信息被查",
+      "onboard_time": 1757406023,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270163,
@@ -705,14 +761,6 @@
       "onboard_time": 1757385082,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223267,
-      "num": 223267,
-      "word": "气虚vs血虚",
-      "onboard_time": 1757399961,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 223019,
@@ -891,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190584,
+      "num": 190584,
+      "word": "国产剧吻戏已经进化成这样了",
+      "onboard_time": 1757405481,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189371,
       "num": 189371,
       "word": "吴艳妮填补中国女子短跨十年空白",
@@ -915,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182701,
+      "num": 182701,
+      "word": "一诺 电竞男主有脸了",
+      "onboard_time": 1757406502,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180756,
       "num": 242060,
       "word": "辛芷蕾的待播",
@@ -937,6 +1001,14 @@
       "onboard_time": 1757394984,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176869,
+      "num": 176869,
+      "word": "南通老人感染霍乱因不当使用井水",
+      "onboard_time": 1757405122,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176837,
@@ -1027,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169567,
+      "num": 169567,
+      "word": "花少5全是cp 花少7全是小说",
+      "onboard_time": 1757406141,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "男子扛楼月入两万六",
@@ -1115,6 +1195,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 158038,
+      "num": 158038,
+      "word": "孙俪在菜市场捡了一只狗",
+      "onboard_time": 1757402602,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152997,
       "num": 152997,
       "word": "特朗普须赔偿8330万美元",
@@ -1179,14 +1267,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 148057,
-      "num": 148057,
-      "word": "夫妻合租房生娃后被赶合理吗",
-      "onboard_time": 1757402722,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146779,
       "num": 146779,
       "word": "谢霆锋一拳火爆一个餐厅",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1757395342,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143707,
+      "num": 163781,
+      "word": "九三阅兵运20起飞前画面大放送",
+      "onboard_time": 1757404881,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143592,
@@ -1347,6 +1435,14 @@
       "category": "体育,其它"
     },
     {
+      "raw_hot": 132486,
+      "num": 132486,
+      "word": "第一次见剧未播男主们先卷起来了",
+      "onboard_time": 1757405062,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131436,
       "num": 131436,
       "word": "中芯国际跌超11%",
@@ -1387,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123720,
-      "num": 137676,
-      "word": "孙俪在菜市场捡了一只狗",
-      "onboard_time": 1757402602,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122985,
       "num": 131636,
       "word": "日本记者质问小泉进次郎",
@@ -1409,6 +1497,14 @@
       "onboard_time": 1757393543,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122428,
+      "num": 122428,
+      "word": "Doinb回应不敌TES",
+      "onboard_time": 1757405903,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 121991,
@@ -1449,6 +1545,14 @@
       "onboard_time": 1757401761,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120639,
+      "num": 120639,
+      "word": "预防霍乱要管好一张嘴",
+      "onboard_time": 1757406321,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120338,
@@ -1513,6 +1617,14 @@
       "onboard_time": 1757390482,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113735,
+      "num": 113735,
+      "word": "韩国人举美国国旗跳舞",
+      "onboard_time": 1757406442,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 112899,
@@ -1611,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109016,
+      "num": 109016,
+      "word": "巴基斯坦空军宣传片 歼10",
+      "onboard_time": 1757403501,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 108993,
       "num": 108993,
       "word": "WTT镜头下的王楚钦孙颖莎",
@@ -1683,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105097,
+      "num": 105097,
+      "word": "原来贵的冰箱保鲜效果这么好",
+      "onboard_time": 1757406802,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104825,
       "num": 104825,
       "word": "小米挥刀斩的不是个人而是一种风气",
@@ -1713,6 +1841,14 @@
       "onboard_time": 1757395042,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104090,
+      "num": 104090,
+      "word": "A股两市成交额萎缩超3000亿",
+      "onboard_time": 1757405962,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 101535,
@@ -1833,6 +1969,14 @@
       "onboard_time": 1757400201,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80356,
+      "num": 114365,
+      "word": "人民空军VCR封面是王一博",
+      "onboard_time": 1757406502,
+      "rank": 39,
+      "category": "艺人,军事"
     },
     {
       "raw_hot": 78689,
@@ -2075,6 +2219,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 49642,
+      "num": 114442,
+      "word": "网友提名男版VOGUE群封",
+      "onboard_time": 1757406023,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 48712,
       "num": 156494,
       "word": "萧亚轩谈李玟手抖",
@@ -2155,8 +2307,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 28503,
-      "num": 725674,
+      "raw_hot": 32142,
+      "num": 158316,
+      "word": "袁弘张歆艺生活基础品质就不基础",
+      "onboard_time": 1757405181,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30932,
+      "num": 916856,
       "word": "万千气象看浙里",
       "onboard_time": 1757390962,
       "rank": 2,
