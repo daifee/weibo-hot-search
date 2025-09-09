@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757452927666,
+  "endTime": 1757453800142,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51808,
+      "num": 51808,
+      "word": "周扬青自曝妈妈不想让她恋爱",
+      "onboard_time": 1757451014,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49671,
       "num": 49671,
       "word": "疑似iPhone17Air国行包装盒",
@@ -643,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43485,
-      "num": 43485,
-      "word": "周扬青自曝妈妈不想让她恋爱",
-      "onboard_time": 1757451014,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39428,
       "num": 39428,
       "word": "苹果手表支持高血压监测",
@@ -691,20 +691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27647,
+      "num": 50007,
+      "word": "邓文迪女儿受益默多克家族继承战",
+      "onboard_time": 1757444055,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26763,
       "num": 68571,
       "word": "王楚钦vs松岛辉空",
       "onboard_time": 1757424444,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25981,
-      "num": 50007,
-      "word": "邓文迪女儿受益默多克家族继承战",
-      "onboard_time": 1757444055,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 22134,
