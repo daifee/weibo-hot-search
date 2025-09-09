@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757427821621,
+  "endTime": 1757429003183,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -219,6 +219,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1026866,
+      "num": 1026866,
+      "word": "不二之臣",
+      "onboard_time": 1757426425,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1020022,
       "num": 418511,
       "word": "一念江南 开机",
@@ -345,14 +353,6 @@
       "onboard_time": 1757372839,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 697884,
-      "num": 697884,
-      "word": "不二之臣",
-      "onboard_time": 1757426425,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 674815,
@@ -497,6 +497,14 @@
       "onboard_time": 1757410583,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 486036,
+      "num": 225647,
+      "word": "曝布兰妮家里都是狗大便",
+      "onboard_time": 1757426604,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 479617,
@@ -691,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382875,
+      "num": 226029,
+      "word": "九三阅兵观礼座被二次利用了",
+      "onboard_time": 1757425164,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 377959,
       "num": 377959,
       "word": "美国宣布制裁东南亚诈骗集团",
       "onboard_time": 1757415860,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 377528,
+      "num": 204836,
+      "word": "为什么接吻的时候闻不到对方口臭",
+      "onboard_time": 1757427265,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 373617,
@@ -763,14 +787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 347656,
-      "num": 226029,
-      "word": "九三阅兵观礼座被二次利用了",
-      "onboard_time": 1757425164,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 344245,
       "num": 334439,
       "word": "喝咖啡和不喝咖啡的身体差距",
@@ -793,14 +809,6 @@
       "onboard_time": 1757416100,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 329099,
-      "num": 225647,
-      "word": "曝布兰妮家里都是狗大便",
-      "onboard_time": 1757426604,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 325522,
@@ -851,14 +859,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 297468,
-      "num": 204836,
-      "word": "为什么接吻的时候闻不到对方口臭",
-      "onboard_time": 1757427265,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 292040,
       "num": 291407,
       "word": "易烊千玺拍撕拉片",
@@ -883,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281875,
+      "num": 281875,
+      "word": "以军承认对多哈袭击事件负责",
+      "onboard_time": 1757425944,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 275872,
       "num": 349913,
       "word": "迪奥上海公司泄露客户信息被查",
@@ -905,14 +913,6 @@
       "onboard_time": 1757382921,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269389,
-      "num": 269389,
-      "word": "以军承认对多哈袭击事件负责",
-      "onboard_time": 1757425944,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 267601,
@@ -945,6 +945,14 @@
       "onboard_time": 1757333482,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244505,
+      "num": 257729,
+      "word": "美为以色列在多哈发动袭击开绿灯",
+      "onboard_time": 1757426963,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242907,
@@ -1145,14 +1153,6 @@
       "onboard_time": 1757412983,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 215292,
-      "num": 257729,
-      "word": "美为以色列在多哈发动袭击开绿灯",
-      "onboard_time": 1757426963,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 213471,
@@ -1379,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188746,
+      "num": 188746,
+      "word": "梓渝封面杂志预购福利不兑现",
+      "onboard_time": 1757428104,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 188720,
       "num": 170427,
       "word": "暗示性求助",
@@ -1403,12 +1411,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187484,
+      "num": 187484,
+      "word": "短剧圈就是个巨大的明星脸",
+      "onboard_time": 1757423363,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186862,
       "num": 193139,
       "word": "老师诱骗超20名小学生加入邪教",
       "onboard_time": 1757411782,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185850,
+      "num": 185850,
+      "word": "王楚钦13比11松岛辉空",
+      "onboard_time": 1757428227,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185156,
+      "num": 185156,
+      "word": "好六repo",
+      "onboard_time": 1757427865,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 184544,
@@ -1451,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179288,
+      "num": 179288,
+      "word": "鞠婧祎生图",
+      "onboard_time": 1757428344,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178553,
       "num": 178553,
       "word": "谭维维微博评论区哭声一片",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1757382202,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 176411,
-      "num": 176411,
-      "word": "短剧圈就是个巨大的明星脸",
-      "onboard_time": 1757423363,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 175548,
@@ -1659,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162979,
+      "num": 162979,
+      "word": "疑似iPhone17Air国行包装盒",
+      "onboard_time": 1757427743,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 162761,
       "num": 162761,
       "word": "孙俪在菜市场捡了一只狗",
@@ -1787,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151768,
+      "num": 151768,
+      "word": "北京冰雹",
+      "onboard_time": 1757427566,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151717,
       "num": 151717,
       "word": "钟美美开课专业的事找专业的人",
@@ -1819,6 +1867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150700,
+      "num": 150700,
+      "word": "以军袭击卡塔尔声明",
+      "onboard_time": 1757428524,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150325,
       "num": 150325,
       "word": "陈益韬喊话许荔莎",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1757400322,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 148746,
+      "num": 142202,
+      "word": "易烊千玺上海活动状态",
+      "onboard_time": 1757427986,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 148693,
@@ -1963,20 +2027,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139300,
+      "num": 139300,
+      "word": "婢女开播",
+      "onboard_time": 1757428824,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138857,
       "num": 171972,
       "word": "第一次见40位明星集体切舞蹈号",
       "onboard_time": 1757416100,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138696,
-      "num": 138696,
-      "word": "北京冰雹",
-      "onboard_time": 1757427566,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138278,
@@ -2059,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134153,
+      "num": 193210,
+      "word": "6省国补资金违规使用过亿",
+      "onboard_time": 1757427865,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134128,
       "num": 134128,
       "word": "四川自贡3.6级地震",
@@ -2137,6 +2209,14 @@
       "onboard_time": 1757423962,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130433,
+      "num": 130433,
+      "word": "坚持喝牛奶VS坚持喝豆浆",
+      "onboard_time": 1757428703,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 129467,
@@ -2313,14 +2393,6 @@
       "onboard_time": 1757392944,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 120990,
-      "num": 120990,
-      "word": "疑似iPhone17Air国行包装盒",
-      "onboard_time": 1757427743,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 120928,
@@ -2883,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96422,
+      "num": 144598,
+      "word": "泰国坠崖孕妇要求男方净身出户",
+      "onboard_time": 1757427922,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95350,
       "num": 221974,
       "word": "这些祝福送给每一个追梦的你",
@@ -2945,6 +3025,14 @@
       "onboard_time": 1757424863,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88808,
+      "num": 150875,
+      "word": "阅兵观礼台近5万把椅子去哪了",
+      "onboard_time": 1757428884,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86078,
@@ -3556,7 +3644,7 @@
     },
     {
       "raw_hot": 6196,
-      "num": 883603,
+      "num": 1110246,
       "word": "为啥歼10是争气机",
       "onboard_time": 1757314282,
       "rank": 2,
