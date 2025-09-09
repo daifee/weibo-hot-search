@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757456508647,
+  "endTime": 1757457540574,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1019,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1373066,
+      "num": 1373066,
+      "word": "iPhone17系列价格",
+      "onboard_time": 1757441956,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1370121,
       "num": 680246,
       "word": "长期吃米vs长期吃面",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1757040320,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 963788,
-      "num": 963788,
-      "word": "iPhone17系列价格",
-      "onboard_time": 1757441956,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 954681,
@@ -4115,6 +4115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498864,
+      "num": 498864,
+      "word": "iPhone17Pro 丑",
+      "onboard_time": 1757441416,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 496738,
       "num": 496738,
       "word": "救下迷路和平鸽",
@@ -4281,14 +4289,6 @@
       "onboard_time": 1756863209,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 483021,
-      "num": 483021,
-      "word": "iPhone17Pro 丑",
-      "onboard_time": 1757441416,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 482057,
@@ -5588,7 +5588,7 @@
     },
     {
       "raw_hot": 383338,
-      "num": 398063,
+      "num": 460360,
       "word": "1.61亿网民正遭私域直播围猎",
       "onboard_time": 1757432362,
       "rank": 47,
@@ -16435,6 +16435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133622,
+      "num": 335953,
+      "word": "eSIM",
+      "onboard_time": 1757446334,
+      "rank": 8,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 133526,
       "num": 124922,
       "word": "皮肤6种变化可能是癌症信号",
@@ -19819,14 +19827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111281,
-      "num": 335953,
-      "word": "eSIM",
-      "onboard_time": 1757446334,
-      "rank": 8,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 111279,
       "num": 1412325,
       "word": "不让历史悲剧重演",
@@ -22523,6 +22523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 94662,
+      "num": 94662,
+      "word": "周扬青自曝妈妈不想让她恋爱",
+      "onboard_time": 1757451014,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94642,
       "num": 191137,
       "word": "货船与渔船相撞造成人员失联",
@@ -22819,6 +22827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92281,
+      "num": 204314,
+      "word": "山东淄博警方破获厕所刻黄网案",
+      "onboard_time": 1757437098,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92201,
       "num": 121288,
       "word": "养小动物不是为了让它爱你",
@@ -22865,14 +22881,6 @@
       "onboard_time": 1756981043,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 91638,
-      "num": 91638,
-      "word": "周扬青自曝妈妈不想让她恋爱",
-      "onboard_time": 1757451014,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 91559,
@@ -23817,14 +23825,6 @@
       "onboard_time": 1756730540,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83810,
-      "num": 173187,
-      "word": "山东淄博警方破获厕所刻黄网案",
-      "onboard_time": 1757437098,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83796,
@@ -25795,6 +25795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 61233,
+      "num": 243123,
+      "word": "邓文迪女儿受益默多克家族继承战",
+      "onboard_time": 1757444055,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61182,
       "num": 110696,
       "word": "宋亚轩彭昱畅合拍手势舞",
@@ -26049,6 +26057,14 @@
       "onboard_time": 1756927574,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57024,
+      "num": 340130,
+      "word": "赴山海还是有李凯馨",
+      "onboard_time": 1757443935,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 56930,
@@ -26587,6 +26603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49946,
+      "num": 49946,
+      "word": "iPhone17Pro电池史上最大",
+      "onboard_time": 1757442975,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 49930,
       "num": 262931,
       "word": "中元节为何又称孝亲节",
@@ -26803,14 +26827,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 46970,
-      "num": 243123,
-      "word": "邓文迪女儿受益默多克家族继承战",
-      "onboard_time": 1757444055,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 46942,
       "num": 60849,
       "word": "三兵是哪三兵",
@@ -26899,14 +26915,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 45884,
-      "num": 340130,
-      "word": "赴山海还是有李凯馨",
-      "onboard_time": 1757443935,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 45867,
       "num": 115352,
       "word": "战士腹部受伤仍咬破敌人喉咙",
@@ -26953,14 +26961,6 @@
       "onboard_time": 1757010016,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44691,
-      "num": 44691,
-      "word": "iPhone17Pro电池史上最大",
-      "onboard_time": 1757442975,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 44675,
@@ -27240,6 +27240,14 @@
       "word": "男子购房2年后发现竟是凶宅",
       "onboard_time": 1757309244,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37499,
+      "num": 43698,
+      "word": "凌晨两点客人吃饭老板睡觉",
+      "onboard_time": 1757440396,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -27539,6 +27547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32101,
+      "num": 35736,
+      "word": "果郡王甄嬛好难得的同框啊",
+      "onboard_time": 1757456897,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32100,
       "num": 130774,
       "word": "受阅飞机这张图拍得太好了",
@@ -27728,14 +27744,6 @@
       "word": "夜晚开车路中间惊现直立男子",
       "onboard_time": 1757068582,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29291,
-      "num": 43698,
-      "word": "凌晨两点客人吃饭老板睡觉",
-      "onboard_time": 1757440396,
-      "rank": 48,
       "category": "民生新闻"
     },
     {

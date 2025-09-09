@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757456508647,
+  "endTime": 1757457540574,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -27,8 +27,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 963788,
-      "num": 963788,
+      "raw_hot": 1373066,
+      "num": 1373066,
       "word": "iPhone17系列价格",
       "onboard_time": 1757441956,
       "rank": 15,
@@ -75,20 +75,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 498864,
+      "num": 498864,
+      "word": "iPhone17Pro 丑",
+      "onboard_time": 1757441416,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 493928,
       "num": 185736,
       "word": "冯禧的情商",
       "onboard_time": 1757431642,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483021,
-      "num": 483021,
-      "word": "iPhone17Pro 丑",
-      "onboard_time": 1757441416,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 463267,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 383338,
-      "num": 398063,
+      "num": 460360,
       "word": "1.61亿网民正遭私域直播围猎",
       "onboard_time": 1757432362,
       "rank": 4,
@@ -291,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133622,
+      "num": 335953,
+      "word": "eSIM",
+      "onboard_time": 1757446334,
+      "rank": 8,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 132986,
       "num": 132986,
       "word": "许玮甯孕期胖了12公斤",
@@ -355,14 +363,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 111281,
-      "num": 335953,
-      "word": "eSIM",
-      "onboard_time": 1757446334,
-      "rank": 8,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 110300,
       "num": 110300,
       "word": "不二之臣官宣预热",
@@ -387,12 +387,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91638,
-      "num": 91638,
+      "raw_hot": 94662,
+      "num": 94662,
       "word": "周扬青自曝妈妈不想让她恋爱",
       "onboard_time": 1757451014,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92281,
+      "num": 204314,
+      "word": "山东淄博警方破获厕所刻黄网案",
+      "onboard_time": 1757437098,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89773,
@@ -425,14 +433,6 @@
       "onboard_time": 1757423363,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 83810,
-      "num": 173187,
-      "word": "山东淄博警方破获厕所刻黄网案",
-      "onboard_time": 1757437098,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82289,
@@ -595,12 +595,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 61233,
+      "num": 243123,
+      "word": "邓文迪女儿受益默多克家族继承战",
+      "onboard_time": 1757444055,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 57024,
+      "num": 340130,
+      "word": "赴山海还是有李凯馨",
+      "onboard_time": 1757443935,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54300,
       "num": 66057,
       "word": "老师谢谢你",
       "onboard_time": 1757437338,
       "rank": 28,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 49946,
+      "num": 49946,
+      "word": "iPhone17Pro电池史上最大",
+      "onboard_time": 1757442975,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 49671,
@@ -619,14 +643,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46970,
-      "num": 243123,
-      "word": "邓文迪女儿受益默多克家族继承战",
-      "onboard_time": 1757444055,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 46966,
       "num": 46966,
       "word": "印度人想456元包场成都餐厅",
@@ -635,27 +651,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45884,
-      "num": 340130,
-      "word": "赴山海还是有李凯馨",
-      "onboard_time": 1757443935,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44877,
       "num": 44877,
       "word": "iPhone17手机壳",
       "onboard_time": 1757442795,
       "rank": 41,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 44691,
-      "num": 44691,
-      "word": "iPhone17Pro电池史上最大",
-      "onboard_time": 1757442975,
-      "rank": 38,
       "category": "数码"
     },
     {
@@ -691,6 +691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 37499,
+      "num": 43698,
+      "word": "凌晨两点客人吃饭老板睡觉",
+      "onboard_time": 1757440396,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34152,
       "num": 131587,
       "word": "汶川地震被救男孩九三阅兵圆梦了",
@@ -699,12 +707,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29291,
-      "num": 43698,
-      "word": "凌晨两点客人吃饭老板睡觉",
-      "onboard_time": 1757440396,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 32101,
+      "num": 35736,
+      "word": "果郡王甄嬛好难得的同框啊",
+      "onboard_time": 1757456897,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 26763,
