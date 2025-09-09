@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757446607379,
+  "endTime": 1757449614370,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -25611,6 +25611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62705,
+      "num": 226529,
+      "word": "eSIM",
+      "onboard_time": 1757446334,
+      "rank": 8,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 62648,
       "num": 282402,
       "word": "没想到有一天我和金灿荣一个水平",
@@ -26257,14 +26265,6 @@
       "onboard_time": 1756652424,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54398,
-      "num": 226529,
-      "word": "eSIM",
-      "onboard_time": 1757446334,
-      "rank": 8,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 54378,
@@ -28067,6 +28067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22134,
+      "num": 22134,
+      "word": "iPhone Air追星人必备",
+      "onboard_time": 1757446634,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 22054,
       "num": 190002,
       "word": "他信被判监禁后佩通坦发声",
@@ -28179,6 +28187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20774,
+      "num": 45914,
+      "word": "邓文迪女儿受益默多克家族继承战",
+      "onboard_time": 1757444055,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20749,
       "num": 668839,
       "word": "中国排面360度无死角整齐",
@@ -28289,14 +28305,6 @@
       "onboard_time": 1757095636,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19474,
-      "num": 39890,
-      "word": "邓文迪女儿受益默多克家族继承战",
-      "onboard_time": 1757444055,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 19467,
@@ -28481,6 +28489,14 @@
       "onboard_time": 1757013315,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14860,
+      "num": 19793,
+      "word": "雷暴哮喘",
+      "onboard_time": 1757447294,
+      "rank": 49,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 14425,
