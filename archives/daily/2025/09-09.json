@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757374638168,
+  "endTime": 1757382704629,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -35,6 +35,46 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1306694,
+      "num": 134513,
+      "word": "小米手机突然爆炸致3岁男童受伤",
+      "onboard_time": 1757377523,
+      "rank": 35,
+      "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 1211421,
+      "num": 326718,
+      "word": "许凯",
+      "onboard_time": 1757382080,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1130632,
+      "num": 428768,
+      "word": "祈今朝许凯虞书欣陷多重舆论风波",
+      "onboard_time": 1757377342,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1061592,
+      "num": 304189,
+      "word": "王腾曾被雷军点名动不动泄密",
+      "onboard_time": 1757375300,
+      "rank": 12,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 1029859,
+      "num": 1164777,
+      "word": "王腾疑曾因二级泄密被处分",
+      "onboard_time": 1757377762,
+      "rank": 0,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 1019727,
       "num": 1019727,
       "word": "王化",
@@ -60,10 +100,26 @@
     },
     {
       "raw_hot": 550645,
-      "num": 172663,
+      "num": 208221,
       "word": "男子掏耳朵被2岁儿子撞致鼓膜脱落",
       "onboard_time": 1757372599,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542690,
+      "num": 423844,
+      "word": "李炮 王腾",
+      "onboard_time": 1757376080,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 517629,
+      "num": 517629,
+      "word": "33岁女子维修无人机年入超500万",
+      "onboard_time": 1757378544,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -83,11 +139,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436558,
+      "num": 436558,
+      "word": "LABUBU价崩黄牛压货倒赔",
+      "onboard_time": 1757373080,
+      "rank": 26,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 436407,
+      "num": 436407,
+      "word": "某境外组织长期对华渗透",
+      "onboard_time": 1757373501,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 434019,
       "num": 434019,
       "word": "制片人称许凯下一部男主被换",
       "onboard_time": 1757343626,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 398942,
+      "num": 398942,
+      "word": "陈赫没有邓超就更开心了",
+      "onboard_time": 1757376802,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -105,6 +185,14 @@
       "onboard_time": 1757341462,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 383946,
+      "num": 383946,
+      "word": "男子花2万以为拍下玛莎拉蒂",
+      "onboard_time": 1757378123,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368497,
@@ -131,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 353243,
+      "num": 353243,
+      "word": "日照海域火箭发射成功现场哇声一片",
+      "onboard_time": 1757380462,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 314551,
       "num": 314551,
       "word": "王腾曾单独签署保密协议",
@@ -139,12 +235,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 279946,
+      "num": 279946,
+      "word": "00后整顿职场结果被辞退了",
+      "onboard_time": 1757374459,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 274783,
+      "num": 274783,
+      "word": "苹果14大新品曝光",
+      "onboard_time": 1757381062,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 250495,
       "num": 495737,
       "word": "马龙 替我姥姥谢谢倪妮",
       "onboard_time": 1757343744,
       "rank": 8,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 244976,
+      "num": 244976,
+      "word": "开国大典前毛主席曾在天坛前留影",
+      "onboard_time": 1757374580,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 244714,
@@ -195,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218439,
-      "num": 218439,
-      "word": "LABUBU价崩黄牛压货倒赔",
-      "onboard_time": 1757373080,
-      "rank": 26,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 202352,
       "num": 202352,
       "word": "明星若踩法律红线下场不言而喻",
@@ -217,14 +329,6 @@
       "onboard_time": 1757317823,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196273,
-      "num": 133771,
-      "word": "某境外组织长期对华渗透",
-      "onboard_time": 1757373501,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195423,
@@ -243,12 +347,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180756,
+      "num": 242060,
+      "word": "辛芷蕾的待播",
+      "onboard_time": 1757380462,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176430,
+      "num": 151098,
+      "word": "苹果发布会前瞻",
+      "onboard_time": 1757382202,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174327,
       "num": 163867,
       "word": "王腾感谢雷军多年培养",
       "onboard_time": 1757373020,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 173922,
+      "num": 173922,
+      "word": "今天是毛主席逝世49周年纪念日",
+      "onboard_time": 1757381541,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173708,
@@ -275,12 +403,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 150834,
-      "num": 123042,
-      "word": "00后整顿职场结果被辞退了",
-      "onboard_time": 1757374459,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 153745,
+      "num": 153745,
+      "word": "顶尖华裔数学家科研经费中断被迫筹款",
+      "onboard_time": 1757380522,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150839,
+      "num": 239515,
+      "word": "连风都偏爱周冬雨",
+      "onboard_time": 1757374039,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150325,
+      "num": 150325,
+      "word": "陈益韬喊话许荔莎",
+      "onboard_time": 1757379142,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 139488,
@@ -289,6 +433,54 @@
       "onboard_time": 1757321483,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138390,
+      "num": 138390,
+      "word": "iPhone17",
+      "onboard_time": 1757382020,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 134178,
+      "num": 134178,
+      "word": "特朗普须赔偿8330万美元",
+      "onboard_time": 1757381299,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 134128,
+      "num": 134128,
+      "word": "四川自贡3.6级地震",
+      "onboard_time": 1757382261,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 131436,
+      "num": 131436,
+      "word": "中芯国际跌超11%",
+      "onboard_time": 1757382442,
+      "rank": 40,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 131406,
+      "num": 223071,
+      "word": "小米客服回应手机自燃致男童受伤",
+      "onboard_time": 1757380763,
+      "rank": 22,
+      "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 128581,
+      "num": 128581,
+      "word": "初中生偷转父母37万元充值游戏",
+      "onboard_time": 1757382382,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124190,
@@ -307,6 +499,46 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117036,
+      "num": 134638,
+      "word": "吉利星座05组卫星发射成功",
+      "onboard_time": 1757374220,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 112303,
+      "num": 112303,
+      "word": "家长投诉二年级英语课少1周仅1节",
+      "onboard_time": 1757379502,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111983,
+      "num": 111983,
+      "word": "海上发射一箭11星",
+      "onboard_time": 1757377642,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 110591,
+      "num": 110591,
+      "word": "雷军第92次健身房打卡",
+      "onboard_time": 1757377223,
+      "rank": 45,
+      "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 110578,
+      "num": 110578,
+      "word": "AirPodsPro3升级曝光",
+      "onboard_time": 1757380103,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106886,
       "num": 221170,
       "word": "辛芷蕾原名",
@@ -315,12 +547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106601,
+      "num": 106601,
+      "word": "单位回应1400余人报考同一编制岗",
+      "onboard_time": 1757382140,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105600,
       "num": 222958,
       "word": "势界CEO发文感谢田栩宁粉丝",
       "onboard_time": 1757336003,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105254,
+      "num": 105254,
+      "word": "广州一动物园黑猩猩丢石块砸伤幼童",
+      "onboard_time": 1757378304,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104754,
@@ -337,6 +585,14 @@
       "onboard_time": 1757332883,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101656,
+      "num": 151506,
+      "word": "卢昱晓仙到失语",
+      "onboard_time": 1757381840,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101535,
@@ -369,14 +625,6 @@
       "onboard_time": 1757343085,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 94633,
-      "num": 94633,
-      "word": "吉利星座05组卫星发射成功",
-      "onboard_time": 1757374220,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92343,
@@ -441,14 +689,6 @@
       "onboard_time": 1757368275,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69007,
-      "num": 117370,
-      "word": "连风都偏爱周冬雨",
-      "onboard_time": 1757374039,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 67241,
@@ -531,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55714,
+      "num": 131636,
+      "word": "日本记者质问小泉进次郎",
+      "onboard_time": 1757382080,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55250,
       "num": 214855,
       "word": "三四公里路程救护车开了30多分钟",
@@ -593,14 +841,6 @@
       "onboard_time": 1757325922,
       "rank": 47,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 46186,
-      "num": 47358,
-      "word": "开国大典前毛主席曾在天坛前留影",
-      "onboard_time": 1757374580,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44855,
