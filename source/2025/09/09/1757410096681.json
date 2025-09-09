@@ -1,0 +1,410 @@
+{
+  "runTime": 1757410096681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1766810,
+        "num": 1766810,
+        "word": "外卖平台集体发声",
+        "onboard_time": 1757404223,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 910276,
+        "num": 910276,
+        "word": "夫妻合租房生娃后被赶合理吗",
+        "onboard_time": 1757402722,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38934,
+        "num": 755308,
+        "word": "沉浸式感受溢出屏幕的安全感",
+        "onboard_time": 1757408540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 656129,
+        "num": 656129,
+        "word": "香奈儿押宝辛芷蕾9年",
+        "onboard_time": 1757405601,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 580738,
+        "num": 580738,
+        "word": "国产剧吻戏已经进化成这样了",
+        "onboard_time": 1757405481,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326377,
+        "num": 326377,
+        "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
+        "onboard_time": 1757400201,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 449705,
+        "num": 318658,
+        "word": "赴山海定档预告",
+        "onboard_time": 1757403442,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386265,
+        "num": 317264,
+        "word": "刘美含说赵让是张远孙子辈",
+        "onboard_time": 1757404101,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308276,
+        "num": 308276,
+        "word": "市监总局将督促外卖平台合理控制补贴",
+        "onboard_time": 1757404223,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221233,
+        "num": 221233,
+        "word": "每月分4次给生活费父亲发声",
+        "onboard_time": 1757396062,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1147252,
+        "num": 220171,
+        "word": "黄景瑜前妻喊话许凯",
+        "onboard_time": 1757399602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527081,
+        "num": 219479,
+        "word": "霍乱",
+        "onboard_time": 1757392704,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 394803,
+        "num": 217271,
+        "word": "历届选秀TOP",
+        "onboard_time": 1757407522,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348660,
+        "num": 215719,
+        "word": "王腾称没有窃取公司机密出售",
+        "onboard_time": 1757383400,
+        "rank": 13,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 299112,
+        "num": 212997,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757409682,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256300,
+        "num": 211661,
+        "word": "花少5全是cp 花少7全是小说",
+        "onboard_time": 1757406141,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72698,
+        "num": 209470,
+        "word": "粉丝发现王鹤棣疑似代言高德地图",
+        "onboard_time": 1757408662,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209379,
+        "num": 209379,
+        "word": "外卖小哥最不建议点的外卖",
+        "onboard_time": 1757408003,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165002,
+        "num": 199685,
+        "word": "南通老人感染霍乱因不当使用井水",
+        "onboard_time": 1757405122,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199153,
+        "num": 199153,
+        "word": "iPhone17",
+        "onboard_time": 1757382020,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 675207,
+        "num": 188043,
+        "word": "太恐怖了不敢亲嘴了",
+        "onboard_time": 1757400681,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343090,
+        "num": 182668,
+        "word": "影后想要 影后得到",
+        "onboard_time": 1757394324,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176263,
+        "num": 176263,
+        "word": "气虚vs血虚",
+        "onboard_time": 1757399961,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160290,
+        "num": 160290,
+        "word": "小米 王腾",
+        "onboard_time": 1757373560,
+        "rank": 23,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 154992,
+        "num": 154992,
+        "word": "单依纯最想删除的视频",
+        "onboard_time": 1757409562,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152997,
+        "num": 152997,
+        "word": "韩国人举美国国旗跳舞",
+        "onboard_time": 1757406442,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153446,
+        "num": 152787,
+        "word": "赴山海莲花楼联动",
+        "onboard_time": 1757408363,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151790,
+        "num": 151790,
+        "word": "迪奥数据泄露被公安网安部门处罚",
+        "onboard_time": 1757402182,
+        "rank": 27,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 145719,
+        "num": 145719,
+        "word": "梓渝盛世天下好虐",
+        "onboard_time": 1757402482,
+        "rank": 28,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 145208,
+        "num": 145208,
+        "word": "国产九价HPV疫苗正式投入使用",
+        "onboard_time": 1757408003,
+        "rank": 29,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 144659,
+        "num": 144659,
+        "word": "九三阅兵运20起飞前画面大放送",
+        "onboard_time": 1757404881,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138674,
+        "num": 138674,
+        "word": "VOGUE官宣辛芷蕾",
+        "onboard_time": 1757394984,
+        "rank": 31,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 137665,
+        "num": 137665,
+        "word": "素颜无修的王影璐",
+        "onboard_time": 1757408840,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136082,
+        "num": 136082,
+        "word": "董事长和明星女友内幕交易被刑拘",
+        "onboard_time": 1757389822,
+        "rank": 33,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 132003,
+        "num": 132003,
+        "word": "舆情通报不能开空头支票",
+        "onboard_time": 1757409623,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124001,
+        "num": 124001,
+        "word": "赴山海陈钰琪特别主演",
+        "onboard_time": 1757408482,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120928,
+        "num": 120928,
+        "word": "被刑拘女星曾出演流星雨金娜娜",
+        "onboard_time": 1757409562,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115499,
+        "num": 115499,
+        "word": "金饰克价一夜涨了15元",
+        "onboard_time": 1757405422,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62349,
+        "num": 115335,
+        "word": "内娱梦女文四巨头",
+        "onboard_time": 1757409023,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28933,
+        "num": 115249,
+        "word": "没有朋友羞耻症",
+        "onboard_time": 1757409982,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115236,
+        "num": 115236,
+        "word": "一诺 电竞男主有脸了",
+        "onboard_time": 1757406502,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108169,
+        "num": 108169,
+        "word": "王源 师从闫妮",
+        "onboard_time": 1757407283,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107557,
+        "num": 107557,
+        "word": "何炅告诉魏大勋这是在直播",
+        "onboard_time": 1757400443,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106848,
+        "num": 106848,
+        "word": "各省奶茶代表",
+        "onboard_time": 1757408182,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106536,
+        "num": 106536,
+        "word": "王腾辟谣加入魅族任副总裁",
+        "onboard_time": 1757407762,
+        "rank": 44,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 102056,
+        "num": 102056,
+        "word": "许凯",
+        "onboard_time": 1757382080,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102032,
+        "num": 102032,
+        "word": "月嫂机构2文员卖近4万条母婴信息",
+        "onboard_time": 1757408662,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101917,
+        "num": 101917,
+        "word": "林景臻被查",
+        "onboard_time": 1757409741,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100231,
+        "num": 100231,
+        "word": "莲花楼",
+        "onboard_time": 1757410042,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98148,
+        "num": 98148,
+        "word": "汪顺还是太全面了",
+        "onboard_time": 1757409862,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}
