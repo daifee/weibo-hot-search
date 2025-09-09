@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/10 05:36:40
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/10 06:21:48
 </p>
 </blockquote>
 <p>
@@ -1311,6 +1311,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23" target="weibo">
+iPhone17系列价格（热度：963788）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%B0%86%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%BF%84%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%23" target="weibo">
 普京称将回应中国对俄试行免签（热度：954681）
 </a>
@@ -2045,12 +2051,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E5%9D%8F%E8%9B%8B%E5%AE%98%E5%AE%A3%E6%92%A4%E6%A1%A3%23" target="weibo">
 再见坏蛋官宣撤档（热度：700685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23" target="weibo">
-iPhone17系列价格（热度：699588）
 </a>
 </li>
 
