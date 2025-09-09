@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757383980837,
+  "endTime": 1757387187042,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -11,8 +11,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2988345,
-      "num": 2988345,
+      "raw_hot": 5747195,
+      "num": 5747195,
       "word": "王腾称没有窃取公司机密出售",
       "onboard_time": 1757383400,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1331101,
-      "num": 371730,
+      "num": 374680,
       "word": "许凯",
       "onboard_time": 1757382080,
       "rank": 11,
@@ -91,12 +91,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 787895,
+      "num": 787895,
+      "word": "辛芷蕾杂志全面爆发",
+      "onboard_time": 1757383281,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 728476,
       "num": 728476,
       "word": "王腾",
       "onboard_time": 1757372839,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 709968,
+      "num": 709968,
+      "word": "iPhone17",
+      "onboard_time": 1757382020,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 674815,
@@ -123,12 +139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545859,
+      "num": 545859,
+      "word": "俄外长在普京下榻套房问LABUBU在哪",
+      "onboard_time": 1757385202,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 542690,
       "num": 423844,
       "word": "李炮 王腾",
       "onboard_time": 1757376080,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 479617,
+      "num": 479617,
+      "word": "运动减肥vs少吃减肥",
+      "onboard_time": 1757384120,
+      "rank": 6,
+      "category": "运动健身"
     },
     {
       "raw_hot": 460188,
@@ -187,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416232,
+      "num": 416232,
+      "word": "赴山海",
+      "onboard_time": 1757385502,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398942,
       "num": 398942,
       "word": "陈赫没有邓超就更开心了",
@@ -209,6 +249,22 @@
       "onboard_time": 1757341462,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 385732,
+      "num": 385732,
+      "word": "欧阳娜娜拍了刘昊然",
+      "onboard_time": 1757383881,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378838,
+      "num": 484629,
+      "word": "19岁自闭症学生技校报到当天遭劝退",
+      "onboard_time": 1757384180,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368497,
@@ -243,20 +299,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 337868,
-      "num": 402169,
-      "word": "辛芷蕾杂志全面爆发",
-      "onboard_time": 1757383281,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 314551,
       "num": 314551,
       "word": "王腾曾单独签署保密协议",
       "onboard_time": 1757373080,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 305533,
+      "num": 305533,
+      "word": "杨洋 都这么熟了还这么用心",
+      "onboard_time": 1757385622,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 287225,
@@ -275,11 +331,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279469,
+      "num": 279469,
+      "word": "内娱明星助攻好友恋爱",
+      "onboard_time": 1757385321,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270077,
       "num": 270077,
       "word": "辛芷蕾训粉",
       "onboard_time": 1757382921,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256767,
+      "num": 217542,
+      "word": "曾黎的手串是中药做的",
+      "onboard_time": 1757386642,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -331,20 +403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224178,
-      "num": 224178,
-      "word": "iPhone17",
-      "onboard_time": 1757382020,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 223829,
       "num": 223829,
       "word": "瘦下来的卢昱晓",
       "onboard_time": 1757327783,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223713,
+      "num": 223713,
+      "word": "赴山海琴剑双生版海报",
+      "onboard_time": 1757385082,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 223019,
@@ -355,12 +427,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218607,
+      "num": 218607,
+      "word": "9名实施欺凌的学生接受矫治教育",
+      "onboard_time": 1757383881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217020,
       "num": 217020,
       "word": "顶尖华裔数学家科研经费中断被迫筹款",
       "onboard_time": 1757380522,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216347,
+      "num": 216347,
+      "word": "初中生偷转父母37万元充值游戏",
+      "onboard_time": 1757382382,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209126,
+      "num": 209126,
+      "word": "盛世天下",
+      "onboard_time": 1757383701,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 205097,
@@ -379,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199769,
+      "num": 239857,
+      "word": "育儿补贴申请不再需要预约",
+      "onboard_time": 1757385082,
+      "rank": 16,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 198344,
       "num": 379566,
       "word": "钟楚曦删了与侯雯元官宣博",
@@ -393,6 +497,14 @@
       "onboard_time": 1757344403,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194462,
+      "num": 210333,
+      "word": "张晚意长在龚俊的笑点上了",
+      "onboard_time": 1757385683,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 189371,
@@ -427,6 +539,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 176154,
+      "num": 176154,
+      "word": "江苏南通通报1例霍乱病例",
+      "onboard_time": 1757387122,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174705,
+      "num": 174705,
+      "word": "张皓宸新书",
+      "onboard_time": 1757386521,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 174327,
       "num": 163867,
       "word": "王腾感谢雷军多年培养",
@@ -451,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166570,
+      "num": 166570,
+      "word": "男子扛楼月入两万六",
+      "onboard_time": 1757385262,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161147,
       "num": 548916,
       "word": "女民兵为啥戴红色丝巾",
@@ -459,28 +595,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159742,
-      "num": 159742,
-      "word": "9名实施欺凌的学生接受矫治教育",
-      "onboard_time": 1757383881,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152997,
       "num": 152997,
       "word": "特朗普须赔偿8330万美元",
       "onboard_time": 1757381299,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 151557,
-      "num": 151557,
-      "word": "初中生偷转父母37万元充值游戏",
-      "onboard_time": 1757382382,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150839,
@@ -507,14 +627,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141143,
-      "num": 141143,
-      "word": "盛世天下",
-      "onboard_time": 1757383701,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139488,
       "num": 223357,
       "word": "曝辛芷蕾团队工资",
@@ -523,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137926,
+      "num": 137926,
+      "word": "现货黄金突破3650",
+      "onboard_time": 1757387062,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137588,
       "num": 223071,
       "word": "小米客服回应手机自燃致男童受伤",
       "onboard_time": 1757380763,
       "rank": 22,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 137073,
+      "num": 137073,
+      "word": "盛世天下今日上线",
+      "onboard_time": 1757385382,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 134775,
@@ -555,6 +683,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 130893,
+      "num": 130893,
+      "word": "我国新能源车产销量全球第一",
+      "onboard_time": 1757386101,
+      "rank": 46,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 124190,
       "num": 516100,
       "word": "男子工资交女友分手要回遭拒",
@@ -571,20 +707,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121991,
+      "num": 121991,
+      "word": "专家称朱婷不用是太大浪费",
+      "onboard_time": 1757383641,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121972,
+      "num": 121972,
+      "word": "王曼昱没选最喜欢的蓝色纸飞机",
+      "onboard_time": 1757386222,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120338,
       "num": 221485,
       "word": "巴基斯坦最新空军宣传片",
       "onboard_time": 1757344765,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114840,
-      "num": 114840,
-      "word": "专家称朱婷不用是太大浪费",
-      "onboard_time": 1757383641,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 112303,
@@ -793,14 +937,6 @@
       "onboard_time": 1757373560,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64720,
-      "num": 141168,
-      "word": "欧阳娜娜拍了刘昊然",
-      "onboard_time": 1757383881,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 63838,
