@@ -1,6 +1,6 @@
 {
   "startTime": 1757349032683,
-  "endTime": 1757417826749,
+  "endTime": 1757422384871,
   "band_list": [
     {
       "raw_hot": 8574941,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1742400,
-      "num": 200170,
+      "num": 277203,
       "word": "辛芷蕾 显化",
       "onboard_time": 1757410642,
       "rank": 19,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1272004,
-      "num": 263290,
+      "num": 278349,
       "word": "太恐怖了不敢亲嘴了",
       "onboard_time": 1757400681,
       "rank": 20,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 1232940,
-      "num": 247931,
+      "num": 295263,
       "word": "许嵩 冯禧",
       "onboard_time": 1757409682,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1198980,
+      "num": 1198980,
+      "word": "小学教师过剩编内转岗临聘清退",
+      "onboard_time": 1757416041,
+      "rank": 5,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1161662,
@@ -235,8 +243,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 845824,
+      "num": 304151,
+      "word": "中国美院排粪管爆裂学生遭粪水喷溅",
+      "onboard_time": 1757418444,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 830839,
-      "num": 188667,
+      "num": 301872,
       "word": "宋轶疑似取关白敬亭",
       "onboard_time": 1757415742,
       "rank": 15,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 824142,
-      "num": 189231,
+      "num": 280756,
       "word": "CEO出轨女同事其丈夫发声",
       "onboard_time": 1757411782,
       "rank": 34,
@@ -281,6 +297,14 @@
       "onboard_time": 1757383281,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 747279,
+      "num": 303093,
+      "word": "暹罗猫小豆泥去世",
+      "onboard_time": 1757420662,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 728476,
@@ -339,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577899,
+      "num": 300432,
+      "word": "梓渝60秒广告报价60万",
+      "onboard_time": 1757417723,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577231,
       "num": 577231,
       "word": "俄外长在普京下榻套房问LABUBU在哪",
@@ -363,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 545968,
-      "num": 545968,
-      "word": "小学教师过剩编内转岗临聘清退",
-      "onboard_time": 1757416041,
-      "rank": 5,
-      "category": "民生新闻,教育"
+      "raw_hot": 548213,
+      "num": 548213,
+      "word": "王皓训斥黄友政",
+      "onboard_time": 1757420425,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 542690,
@@ -441,6 +473,14 @@
       "onboard_time": 1757396062,
       "rank": 37,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 455460,
+      "num": 455460,
+      "word": "BLG对战iG",
+      "onboard_time": 1757412442,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 451968,
@@ -531,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392362,
-      "num": 392362,
-      "word": "BLG对战iG",
-      "onboard_time": 1757412442,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 391953,
       "num": 391953,
       "word": "杨洋 都这么熟了还这么用心",
@@ -577,6 +609,14 @@
       "onboard_time": 1757386642,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377959,
+      "num": 377959,
+      "word": "美国宣布制裁东南亚诈骗集团",
+      "onboard_time": 1757415860,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 373617,
@@ -659,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341802,
+      "num": 341802,
+      "word": "iG阵容",
+      "onboard_time": 1757416100,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 325522,
       "num": 325522,
       "word": "辛芷蕾VOGUE连登",
@@ -691,6 +739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 307384,
+      "num": 307384,
+      "word": "张杰开大",
+      "onboard_time": 1757419341,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 302492,
       "num": 302492,
       "word": "电视剧花好官宣杀青",
@@ -707,16 +763,8 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 292474,
-      "num": 292474,
-      "word": "美国宣布制裁东南亚诈骗集团",
-      "onboard_time": 1757415860,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 292040,
-      "num": 196314,
+      "num": 291407,
       "word": "易烊千玺拍撕拉片",
       "onboard_time": 1757411182,
       "rank": 18,
@@ -849,6 +897,14 @@
       "onboard_time": 1757388261,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234572,
+      "num": 306175,
+      "word": "李英爱曝15岁女儿一直在参加选秀",
+      "onboard_time": 1757415143,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 232705,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1757381840,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202995,
+      "num": 202995,
+      "word": "6名大学生溺亡涉事企业复产",
+      "onboard_time": 1757417544,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202896,
@@ -1187,14 +1251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181342,
-      "num": 151554,
-      "word": "iG阵容",
-      "onboard_time": 1757416100,
-      "rank": 20,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 180756,
       "num": 242060,
       "word": "辛芷蕾的待播",
@@ -1363,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165681,
+      "num": 304920,
+      "word": "王暖暖孩子户口按非婚生办理",
+      "onboard_time": 1757419941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164924,
       "num": 164924,
       "word": "展轩daddy级别",
@@ -1459,6 +1523,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 157901,
+      "num": 157901,
+      "word": "游本昌回应为何入住养老院",
+      "onboard_time": 1757421983,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155560,
       "num": 153943,
       "word": "华科大官网已撤下校友王腾资料页面",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1757395761,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151322,
+      "num": 151322,
+      "word": "Gala燃尽了",
+      "onboard_time": 1757421983,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 150839,
@@ -1561,6 +1641,14 @@
       "onboard_time": 1757396482,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 146536,
+      "num": 146536,
+      "word": "管泽元 BLG回来了",
+      "onboard_time": 1757421203,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 146161,
@@ -1707,14 +1795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135737,
-      "num": 171509,
-      "word": "李英爱曝15岁女儿一直在参加选秀",
-      "onboard_time": 1757415143,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135480,
       "num": 135480,
       "word": "祈今朝制片方悄悄碎掉了",
@@ -1763,6 +1843,14 @@
       "category": "体育,其它"
     },
     {
+      "raw_hot": 132701,
+      "num": 157732,
+      "word": "单依纯 栩栩华生CEO",
+      "onboard_time": 1757420902,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132486,
       "num": 132486,
       "word": "第一次见剧未播男主们先卷起来了",
@@ -1777,6 +1865,14 @@
       "onboard_time": 1757382442,
       "rank": 40,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 131400,
+      "num": 131400,
+      "word": "九寨沟一酒店大堂惊现毒蛇",
+      "onboard_time": 1757416461,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131250,
@@ -1931,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120656,
+      "num": 174981,
+      "word": "河北石家庄一学校被曝扔学生外卖",
+      "onboard_time": 1757415923,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120639,
       "num": 120639,
       "word": "预防霍乱要管好一张嘴",
@@ -1955,12 +2059,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120036,
-      "num": 125089,
-      "word": "九寨沟一酒店大堂惊现毒蛇",
-      "onboard_time": 1757416461,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 119605,
+      "num": 155885,
+      "word": "莲花楼后成毅刘芳再搭大事很妙",
+      "onboard_time": 1757418801,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 119417,
@@ -1977,6 +2081,14 @@
       "onboard_time": 1757407462,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116835,
+      "num": 116835,
+      "word": "孕妇泰国坠崖案六年未离成婚",
+      "onboard_time": 1757419280,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116263,
@@ -2001,6 +2113,14 @@
       "onboard_time": 1757391563,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115153,
+      "num": 115153,
+      "word": "坂口健太郎方承认恋情",
+      "onboard_time": 1757422102,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 114470,
@@ -2097,6 +2217,14 @@
       "onboard_time": 1757380103,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 110541,
+      "num": 110541,
+      "word": "家属偷塞红包举报医生受贿",
+      "onboard_time": 1757419642,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110516,
@@ -2211,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106689,
+      "num": 106689,
+      "word": "焦俊艳给papi酱发了8年红包",
+      "onboard_time": 1757418024,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106601,
       "num": 106601,
       "word": "单位回应1400余人报考同一编制岗",
@@ -2241,6 +2377,22 @@
       "onboard_time": 1757399721,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106315,
+      "num": 106315,
+      "word": "鹿晗发色可以拼成调色盘",
+      "onboard_time": 1757420722,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 106078,
+      "num": 106078,
+      "word": "古力娜扎助理被粉丝当成明星",
+      "onboard_time": 1757417061,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 105711,
@@ -2331,12 +2483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102541,
-      "num": 94822,
-      "word": "古力娜扎助理被粉丝当成明星",
-      "onboard_time": 1757417061,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 103687,
+      "num": 103687,
+      "word": "辞退和开除有何区别",
+      "onboard_time": 1757421026,
+      "rank": 45,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 102032,
@@ -2353,6 +2505,14 @@
       "onboard_time": 1757409741,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101804,
+      "num": 101804,
+      "word": "王皓抠手",
+      "onboard_time": 1757419642,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 101535,
@@ -2401,6 +2561,14 @@
       "onboard_time": 1757401581,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99666,
+      "num": 99666,
+      "word": "戚薇找到田曦薇命门了",
+      "onboard_time": 1757422342,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 98623,
@@ -2619,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65227,
-      "num": 119882,
-      "word": "梓渝60秒广告报价60万",
-      "onboard_time": 1757417723,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64884,
       "num": 133466,
       "word": "付费乱讲PPT门票5分钟抢光",
@@ -2835,14 +2995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48613,
-      "num": 170684,
-      "word": "6名大学生溺亡涉事企业复产",
-      "onboard_time": 1757417544,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48223,
       "num": 297260,
       "word": "林更新和户外的适配度",
@@ -2881,14 +3033,6 @@
       "onboard_time": 1757349920,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 43129,
-      "num": 174981,
-      "word": "河北石家庄一学校被曝扔学生外卖",
-      "onboard_time": 1757415923,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41953,
@@ -3003,6 +3147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21298,
+      "num": 298959,
+      "word": "马德兴30多年报道足球写3000万字",
+      "onboard_time": 1757419823,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20865,
       "num": 35124,
       "word": "曝苹果将量产1亿部iPhone17",
@@ -3057,6 +3209,14 @@
       "onboard_time": 1757353696,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8992,
+      "num": 117611,
+      "word": "帅到观众的事王曼昱顺手就干了",
+      "onboard_time": 1757421626,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 6211,
