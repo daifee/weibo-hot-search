@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757445605180,
+  "endTime": 1757446607379,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -467,8 +467,8 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 76784,
-      "num": 76784,
+      "raw_hot": 77443,
+      "num": 77443,
       "word": "iPhone Air 联通eSIM",
       "onboard_time": 1757443634,
       "rank": 22,
@@ -569,6 +569,14 @@
       "onboard_time": 1757439438,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 54398,
+      "num": 226529,
+      "word": "eSIM",
+      "onboard_time": 1757446334,
+      "rank": 8,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 54300,
@@ -691,8 +699,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19296,
-      "num": 35191,
+      "raw_hot": 19474,
+      "num": 39890,
       "word": "邓文迪女儿受益默多克家族继承战",
       "onboard_time": 1757444055,
       "rank": 39,
