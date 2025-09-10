@@ -1,0 +1,410 @@
+{
+  "runTime": 1757499970131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1183545,
+        "num": 1189367,
+        "word": "100斤女生滥用司美格鲁肽现酮症",
+        "onboard_time": 1757492722,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662409,
+        "num": 662409,
+        "word": "黄岩岛",
+        "onboard_time": 1757496861,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23204,
+        "num": 603188,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757492962,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 568849,
+        "num": 568849,
+        "word": "特朗普称愿对中印大幅加征关税",
+        "onboard_time": 1757495484,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 557908,
+        "num": 557908,
+        "word": "美军地狱火导弹击中UFO后被弹开",
+        "onboard_time": 1757493982,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 507138,
+        "num": 507138,
+        "word": "新建黄岩岛国家级自然保护区",
+        "onboard_time": 1757495903,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350104,
+        "num": 350104,
+        "word": "美国歌手车箱藏尸",
+        "onboard_time": 1757495062,
+        "rank": 6,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 344075,
+        "num": 344075,
+        "word": "三星嘲讽iPhone17系列",
+        "onboard_time": 1757498362,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254201,
+        "num": 254201,
+        "word": "火箭军倒查9年揪出采购掮客",
+        "onboard_time": 1757487742,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235545,
+        "num": 235545,
+        "word": "李在明 这算哪门子言论自由",
+        "onboard_time": 1757498482,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1686195,
+        "num": 234217,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1072728,
+        "num": 229876,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692652,
+        "num": 228112,
+        "word": "吴倩近态",
+        "onboard_time": 1757494642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601733,
+        "num": 226197,
+        "word": "医生回应男生感染艾滋以为军训太累",
+        "onboard_time": 1757497522,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366705,
+        "num": 223017,
+        "word": "辛芷蕾手机要爆炸了",
+        "onboard_time": 1757486062,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333222,
+        "num": 218452,
+        "word": "豆沙馅真的塌房了",
+        "onboard_time": 1757486482,
+        "rank": 15,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 318978,
+        "num": 215602,
+        "word": "祝绪丹 没有任何讨厌的人",
+        "onboard_time": 1757492243,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308400,
+        "num": 213366,
+        "word": "iPhone16背刺最大一代",
+        "onboard_time": 1757477244,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210696,
+        "num": 210696,
+        "word": "那英在英国陪女儿读书",
+        "onboard_time": 1757488103,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166382,
+        "num": 187463,
+        "word": "花少7真的把马思纯养的很好",
+        "onboard_time": 1757488582,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175297,
+        "num": 175297,
+        "word": "国防部提醒日本谨言慎行",
+        "onboard_time": 1757490981,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44754,
+        "num": 172957,
+        "word": "新疆维吾尔自治区成立70周年",
+        "onboard_time": 1757498782,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 548537,
+        "num": 172757,
+        "word": "孟子义cos律政俏佳人",
+        "onboard_time": 1757492782,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201280,
+        "num": 172419,
+        "word": "未拴绳大狗撞倒女子致其当场死亡",
+        "onboard_time": 1757495964,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171623,
+        "num": 171623,
+        "word": "管乐疑似把粉丝送的礼物送给相亲对象",
+        "onboard_time": 1757482404,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147024,
+        "num": 147024,
+        "word": "防窥膜 伤眼",
+        "onboard_time": 1757498482,
+        "rank": 25,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 138641,
+        "num": 138641,
+        "word": "iPhone17ProMax离谱手机壳",
+        "onboard_time": 1757484743,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133720,
+        "num": 133720,
+        "word": "陈哲远洗面奶没洗干净就出门了",
+        "onboard_time": 1757496682,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129220,
+        "num": 129220,
+        "word": "施华蔻处女发质翻译陷辱女争议",
+        "onboard_time": 1757497882,
+        "rank": 28,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 112758,
+        "num": 124624,
+        "word": "辛芷蕾 中女都不容易",
+        "onboard_time": 1757499501,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124341,
+        "num": 124341,
+        "word": "iPhone17",
+        "onboard_time": 1757439376,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121819,
+        "num": 121819,
+        "word": "高叶这真的不是逆龄吗",
+        "onboard_time": 1757498061,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121194,
+        "num": 121194,
+        "word": "何瑞贤橘发",
+        "onboard_time": 1757499381,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119419,
+        "num": 119419,
+        "word": "上海机场 水果楼层",
+        "onboard_time": 1757494943,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117198,
+        "num": 117198,
+        "word": "花2000万买房又花188万买家装包",
+        "onboard_time": 1757484862,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87151,
+        "num": 117141,
+        "word": "微博给鞠婧祎做了痛楼",
+        "onboard_time": 1757498422,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90709,
+        "num": 116473,
+        "word": "黄子弘凡直播",
+        "onboard_time": 1757499142,
+        "rank": 36,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 79623,
+        "num": 116044,
+        "word": "星巴克员工曝卖不出月饼垫钱自购",
+        "onboard_time": 1757498782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76194,
+        "num": 115843,
+        "word": "小学校长守校门口拦截教师节礼物",
+        "onboard_time": 1757499142,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 24102,
+        "num": 115264,
+        "word": "十几万斤鱼死亡白花花铺满鱼塘",
+        "onboard_time": 1757499682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84659,
+        "num": 114972,
+        "word": "我的体育老师又帅又能打",
+        "onboard_time": 1757498183,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 114552,
+        "num": 114552,
+        "word": "过度提醒 提前责备",
+        "onboard_time": 1757497641,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108816,
+        "num": 108816,
+        "word": "六部门开展汽车行业网络乱象整治",
+        "onboard_time": 1757491402,
+        "rank": 42,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 96694,
+        "num": 96694,
+        "word": "iPhone新机首次支持国补",
+        "onboard_time": 1757493202,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95212,
+        "num": 95212,
+        "word": "韩庚一开口我全想起来了",
+        "onboard_time": 1757499801,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94829,
+        "num": 94829,
+        "word": "巨型梁龙 人体蜈蚣",
+        "onboard_time": 1757492243,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84840,
+        "num": 84840,
+        "word": "iPhone17Pro芯片跑分出炉",
+        "onboard_time": 1757496382,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81506,
+        "num": 81506,
+        "word": "大一男生感染艾滋以为军训太累",
+        "onboard_time": 1757498901,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81302,
+        "num": 81302,
+        "word": "卡塔尔空军战斗力",
+        "onboard_time": 1757496084,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78772,
+        "num": 78772,
+        "word": "电影特效卷到刺小2这种程度了",
+        "onboard_time": 1757498961,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记尊师重教的情怀#"
+    }
+  }
+}
