@@ -1,0 +1,410 @@
+{
+  "runTime": 1757542978854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230563,
+        "num": 386959,
+        "word": "湖南男子驾车碾死同学被判死缓",
+        "onboard_time": 1757521281,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131464,
+        "num": 131464,
+        "word": "男子驾车碾死同学被判死缓",
+        "onboard_time": 1757523438,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1738,
+        "num": 116712,
+        "word": "我国制造业规模连续15年全球第一",
+        "onboard_time": 1757385801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108135,
+        "num": 108135,
+        "word": "117名韩国女性首次直接起诉美军",
+        "onboard_time": 1757523617,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101155,
+        "num": 101155,
+        "word": "人民日报谈粉丝追星围堵高铁站",
+        "onboard_time": 1757517203,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 100030,
+        "num": 100030,
+        "word": "上海老人房子被孙女砸成废墟",
+        "onboard_time": 1757511924,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85659,
+        "num": 85659,
+        "word": "以军袭击卡塔尔白宫简报室挤爆了",
+        "onboard_time": 1757521880,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81783,
+        "num": 81783,
+        "word": "住了近十年才知道小区绿化是租来的",
+        "onboard_time": 1757518584,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 40707,
+        "num": 80940,
+        "word": "盛世天下",
+        "onboard_time": 1757514145,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37802,
+        "num": 80262,
+        "word": "震耳欲聋",
+        "onboard_time": 1757514744,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319705,
+        "num": 77982,
+        "word": "少女遭体罚死前求助信被老师拦截",
+        "onboard_time": 1757517025,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156408,
+        "num": 76999,
+        "word": "曝高学历小花是木头美人",
+        "onboard_time": 1757510783,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122967,
+        "num": 76188,
+        "word": "曝一念江南没有男演员愿意接",
+        "onboard_time": 1757512584,
+        "rank": 12,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 116049,
+        "num": 74718,
+        "word": "张维伊清爽了",
+        "onboard_time": 1757521519,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108529,
+        "num": 72853,
+        "word": "外卖已经让我对食物的价格失感了",
+        "onboard_time": 1757516483,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99350,
+        "num": 72056,
+        "word": "网红罗大美遇害近800天家属再发声",
+        "onboard_time": 1757519423,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89890,
+        "num": 69994,
+        "word": "关晓彤日更",
+        "onboard_time": 1757520622,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89863,
+        "num": 69279,
+        "word": "6旬大爷裸聊主播8天花光全部积蓄",
+        "onboard_time": 1757501301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67962,
+        "num": 67962,
+        "word": "林更新还回内娱吗",
+        "onboard_time": 1757505202,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66141,
+        "num": 66141,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51047,
+        "num": 51047,
+        "word": "内娱现役法拉利肖战",
+        "onboard_time": 1757511084,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43861,
+        "num": 43861,
+        "word": "人民网评斩断流量明星招摇过市推手",
+        "onboard_time": 1757510903,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 41341,
+        "num": 41341,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39766,
+        "num": 39766,
+        "word": "山西博物院回应拟录用多位海归博士",
+        "onboard_time": 1757541254,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36621,
+        "num": 39339,
+        "word": "真夫妻牵手走红毯就是好嗑",
+        "onboard_time": 1757506943,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39244,
+        "num": 39244,
+        "word": "福建被继母生父虐死女孩体重仅40斤",
+        "onboard_time": 1757517323,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38848,
+        "num": 38848,
+        "word": "拉里埃里森成全球首富",
+        "onboard_time": 1757515825,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37984,
+        "num": 37984,
+        "word": "男子失踪7年后在黑砖窑被警方解救",
+        "onboard_time": 1757518822,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36355,
+        "num": 36355,
+        "word": "黄子韬徐艺洋拍婚纱照了",
+        "onboard_time": 1757511564,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21618,
+        "num": 34764,
+        "word": "杨超越瓜子西施",
+        "onboard_time": 1757513125,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34081,
+        "num": 34081,
+        "word": "尔冬升与9岁女儿合照",
+        "onboard_time": 1757510422,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31039,
+        "num": 31039,
+        "word": "一念江南 陈都灵",
+        "onboard_time": 1757517503,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29969,
+        "num": 29969,
+        "word": "甲骨文",
+        "onboard_time": 1757514744,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29256,
+        "num": 29256,
+        "word": "一念江南 王安宇",
+        "onboard_time": 1757516844,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19834,
+        "num": 28906,
+        "word": "成毅歌声里有侠气",
+        "onboard_time": 1757530155,
+        "rank": 34,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 28705,
+        "num": 28705,
+        "word": "西贝回应被吐槽是预制菜",
+        "onboard_time": 1757510604,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 28266,
+        "num": 28266,
+        "word": "洗榴莲把果肉洗没了",
+        "onboard_time": 1757524398,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26990,
+        "num": 26990,
+        "word": "影视飓风Tim现场掰了iPhone",
+        "onboard_time": 1757514085,
+        "rank": 37,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 25390,
+        "num": 25390,
+        "word": "郑州非必要不外出",
+        "onboard_time": 1757511383,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24918,
+        "num": 24918,
+        "word": "夫妻在合租房生娃被赶将重找住处",
+        "onboard_time": 1757517624,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24765,
+        "num": 24765,
+        "word": "卡塔尔称以色列是地区霸凌者",
+        "onboard_time": 1757531954,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24681,
+        "num": 24681,
+        "word": "男子结婚22年两儿子非亲生案将宣判",
+        "onboard_time": 1757525596,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24029,
+        "num": 24029,
+        "word": "未拴绳大狗撞倒女子致其当场死亡",
+        "onboard_time": 1757495964,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23568,
+        "num": 23568,
+        "word": "哈马斯高层或因土耳其预警躲过一劫",
+        "onboard_time": 1757533633,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23247,
+        "num": 23247,
+        "word": "外交部严厉谴责以袭卡塔尔首都",
+        "onboard_time": 1757525118,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23016,
+        "num": 23016,
+        "word": "微信更新",
+        "onboard_time": 1757507062,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22484,
+        "num": 23016,
+        "word": "星巴克回应员工卖不出月饼自购",
+        "onboard_time": 1757529075,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20408,
+        "num": 23015,
+        "word": "曝男流量在采访间抽烟",
+        "onboard_time": 1757511084,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19284,
+        "num": 23014,
+        "word": "美13岁男孩企图实施校园杀戮被捕",
+        "onboard_time": 1757529616,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12534,
+        "num": 23014,
+        "word": "银河左岸音乐节阵容",
+        "onboard_time": 1757515765,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对广大教师的殷切寄语#"
+    }
+  }
+}
