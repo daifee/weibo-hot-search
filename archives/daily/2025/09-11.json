@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757532022859,
+  "endTime": 1757533012887,
   "band_list": [
     {
       "raw_hot": 901899,
@@ -499,6 +499,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17571,
+      "num": 20833,
+      "word": "成毅歌声里有侠气",
+      "onboard_time": 1757530155,
+      "rank": 48,
+      "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 17169,
+      "num": 33260,
+      "word": "中方反制石平是正义之举",
+      "onboard_time": 1757530817,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15916,
+      "num": 19319,
+      "word": "卡塔尔称以色列是地区霸凌者",
+      "onboard_time": 1757531954,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14814,
       "num": 26078,
       "word": "制作人说周深音域跨度很疯狂",
@@ -507,28 +531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 14488,
-      "num": 19319,
-      "word": "卡塔尔称以色列是地区霸凌者",
-      "onboard_time": 1757531954,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14033,
-      "num": 19316,
-      "word": "成毅歌声里有侠气",
-      "onboard_time": 1757530155,
-      "rank": 48,
-      "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 13565,
-      "num": 33260,
-      "word": "中方反制石平是正义之举",
-      "onboard_time": 1757530817,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 9708,
+      "num": 17928,
+      "word": "校长站校门口不让学生送礼物",
+      "onboard_time": 1757532913,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 4191,

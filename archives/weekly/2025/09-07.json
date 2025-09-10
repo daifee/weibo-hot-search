@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757532022859,
+  "endTime": 1757533012887,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -14355,6 +14355,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17571,
+      "num": 20833,
+      "word": "成毅歌声里有侠气",
+      "onboard_time": 1757530155,
+      "rank": 48,
+      "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 17169,
+      "num": 33260,
+      "word": "中方反制石平是正义之举",
+      "onboard_time": 1757530817,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15916,
+      "num": 19319,
+      "word": "卡塔尔称以色列是地区霸凌者",
+      "onboard_time": 1757531954,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15504,
       "num": 105988,
       "word": "阅兵展示的五大力量均超美国",
@@ -14387,36 +14411,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 14488,
-      "num": 19319,
-      "word": "卡塔尔称以色列是地区霸凌者",
-      "onboard_time": 1757531954,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14033,
-      "num": 19316,
-      "word": "成毅歌声里有侠气",
-      "onboard_time": 1757530155,
-      "rank": 48,
-      "category": "音乐,艺人"
-    },
-    {
       "raw_hot": 13614,
       "num": 18749,
       "word": "周笔畅火鸟降临",
       "onboard_time": 1757189114,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13565,
-      "num": 33260,
-      "word": "中方反制石平是正义之举",
-      "onboard_time": 1757530817,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13557,
@@ -14489,6 +14489,14 @@
       "onboard_time": 1757237721,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9708,
+      "num": 17928,
+      "word": "校长站校门口不让学生送礼物",
+      "onboard_time": 1757532913,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 9639,
