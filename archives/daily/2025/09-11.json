@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757524893683,
+  "endTime": 1757525915287,
   "band_list": [
     {
       "raw_hot": 901899,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 267258,
-      "num": 109300,
+      "num": 112421,
       "word": "张维伊清爽了",
       "onboard_time": 1757521519,
       "rank": 41,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128617,
+      "num": 128617,
+      "word": "男子驾车碾死同学被判死缓",
+      "onboard_time": 1757523438,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127682,
       "num": 127682,
       "word": "煮方便面vs泡方便面",
@@ -241,14 +249,6 @@
       "onboard_time": 1757514744,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 103821,
-      "num": 103821,
-      "word": "男子驾车碾死同学被判死缓",
-      "onboard_time": 1757523438,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99910,
@@ -451,12 +451,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32920,
+      "num": 37607,
+      "word": "男子结婚22年两儿子非亲生案将宣判",
+      "onboard_time": 1757525596,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32065,
       "num": 49301,
       "word": "真夫妻牵手走红毯就是好嗑",
       "onboard_time": 1757506943,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20177,
+      "num": 113871,
+      "word": "外交部严厉谴责以袭卡塔尔首都",
+      "onboard_time": 1757525118,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 4191,
