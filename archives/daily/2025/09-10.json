@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757515310653,
+  "endTime": 1757517990153,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -67,6 +67,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1778330,
+      "num": 247622,
+      "word": "曝一念江南没有男演员愿意接",
+      "onboard_time": 1757512584,
+      "rank": 20,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 1601918,
       "num": 254952,
       "word": "黄子韬徐艺洋拍婚纱照了",
@@ -129,14 +137,6 @@
       "onboard_time": 1757507062,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1071694,
-      "num": 247622,
-      "word": "曝一念江南没有男演员愿意接",
-      "onboard_time": 1757512584,
-      "rank": 20,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 1070811,
@@ -507,6 +507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 501471,
+      "num": 501471,
+      "word": "震耳欲聋",
+      "onboard_time": 1757514744,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 493928,
       "num": 185736,
       "word": "冯禧的情商",
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439163,
+      "num": 408538,
+      "word": "影视飓风Tim现场掰了iPhone",
+      "onboard_time": 1757514085,
+      "rank": 36,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 433559,
       "num": 224404,
       "word": "尼泊尔",
@@ -609,6 +625,14 @@
       "onboard_time": 1757480425,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416927,
+      "num": 416927,
+      "word": "杨超越瓜子西施",
+      "onboard_time": 1757513125,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 414360,
@@ -675,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 386941,
+      "num": 386941,
+      "word": "盛世天下",
+      "onboard_time": 1757514145,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383338,
       "num": 460360,
       "word": "1.61亿网民正遭私域直播围猎",
@@ -696,6 +728,14 @@
       "word": "杨幂教师节感谢了一位特别的老师",
       "onboard_time": 1757478867,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 379067,
+      "num": 234639,
+      "word": "一念江南 王安宇",
+      "onboard_time": 1757516844,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -721,6 +761,14 @@
       "onboard_time": 1757513184,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 366452,
+      "num": 366452,
+      "word": "拉里埃里森成全球首富",
+      "onboard_time": 1757515825,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 347403,
@@ -795,20 +843,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 317135,
+      "num": 233698,
+      "word": "一念江南 陈都灵",
+      "onboard_time": 1757517503,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315008,
       "num": 315008,
       "word": "郑州非必要不外出",
       "onboard_time": 1757511383,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311111,
-      "num": 276601,
-      "word": "影视飓风Tim现场掰了iPhone",
-      "onboard_time": 1757514085,
-      "rank": 36,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 302925,
@@ -857,14 +905,6 @@
       "onboard_time": 1757474005,
       "rank": 22,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 277256,
-      "num": 277256,
-      "word": "盛世天下",
-      "onboard_time": 1757514145,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 276729,
@@ -923,14 +963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254889,
-      "num": 274814,
-      "word": "杨超越瓜子西施",
-      "onboard_time": 1757513125,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253402,
       "num": 235110,
       "word": "pdf不行 得PDF才行",
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 245340,
-      "num": 204633,
+      "num": 226349,
       "word": "内娱现役法拉利肖战",
       "onboard_time": 1757511084,
       "rank": 33,
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 241285,
-      "num": 202889,
+      "num": 228672,
       "word": "人民网评斩断流量明星招摇过市推手",
       "onboard_time": 1757510903,
       "rank": 28,
@@ -1003,6 +1035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 237042,
+      "num": 237042,
+      "word": "上海老人房子被孙女砸成废墟",
+      "onboard_time": 1757511924,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234825,
       "num": 234825,
       "word": "张静初的手",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1757426604,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229019,
+      "num": 229019,
+      "word": "檀健次震耳欲聋看片反馈",
+      "onboard_time": 1757517085,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 229004,
@@ -1075,14 +1123,6 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 222066,
-      "num": 222066,
-      "word": "上海老人房子被孙女砸成废墟",
-      "onboard_time": 1757511924,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219766,
       "num": 219766,
       "word": "马思纯回应网友让她和张晚意拍戏",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1757427265,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213376,
+      "num": 213376,
+      "word": "偶遇杨洋在夏威夷吃川菜",
+      "onboard_time": 1757514984,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 213169,
@@ -1219,12 +1267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200851,
-      "num": 200851,
-      "word": "偶遇杨洋在夏威夷吃川菜",
-      "onboard_time": 1757514984,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 201262,
+      "num": 201262,
+      "word": "人民日报谈粉丝追星围堵高铁站",
+      "onboard_time": 1757517203,
+      "rank": 32,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 200155,
@@ -1395,14 +1443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188202,
-      "num": 205730,
-      "word": "震耳欲聋",
-      "onboard_time": 1757514744,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187916,
       "num": 240071,
       "word": "高德每天为线下店多带1000万消费者",
@@ -1505,6 +1545,22 @@
       "onboard_time": 1757471541,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180882,
+      "num": 180882,
+      "word": "这才是女生眼里的男友干净穿搭",
+      "onboard_time": 1757516543,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 180856,
+      "num": 180856,
+      "word": "外卖已经让我对食物的价格失感了",
+      "onboard_time": 1757516483,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 179770,
@@ -1843,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160784,
+      "num": 160784,
+      "word": "少女遭体罚死前求助信被老师拦截",
+      "onboard_time": 1757517025,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "田栩宁星火繁花",
@@ -1857,6 +1921,14 @@
       "onboard_time": 1757507243,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158772,
+      "num": 158772,
+      "word": "饿了么宣布取消超时扣款",
+      "onboard_time": 1757512885,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 158223,
@@ -1897,6 +1969,14 @@
       "onboard_time": 1757482164,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154049,
+      "num": 227762,
+      "word": "闪光灯没闪过孙俪",
+      "onboard_time": 1757515346,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 151604,
@@ -2073,6 +2153,14 @@
       "onboard_time": 1757496382,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143094,
+      "num": 143094,
+      "word": "清融新发色",
+      "onboard_time": 1757516543,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 142969,
@@ -2619,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121441,
+      "num": 226391,
+      "word": "号称国际名牌的膏药贴成本仅2元",
+      "onboard_time": 1757516724,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 121194,
       "num": 121194,
       "word": "何瑞贤橘发",
@@ -2835,12 +2931,20 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 112533,
-      "num": 112533,
-      "word": "饿了么宣布取消超时扣款",
-      "onboard_time": 1757512885,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 112505,
+      "num": 157134,
+      "word": "银河左岸音乐节阵容",
+      "onboard_time": 1757515765,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 111335,
+      "num": 111335,
+      "word": "教师节 硕博生的学术大拜年",
+      "onboard_time": 1757514025,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 111220,
@@ -2929,6 +3033,14 @@
       "onboard_time": 1757471904,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 104866,
+      "num": 104866,
+      "word": "李昀锐古力娜扎同框",
+      "onboard_time": 1757516185,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 103389,
@@ -3097,14 +3209,6 @@
       "onboard_time": 1757500402,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94441,
-      "num": 94441,
-      "word": "教师节 硕博生的学术大拜年",
-      "onboard_time": 1757514025,
-      "rank": 47,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 92699,
@@ -3635,6 +3739,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 53018,
+      "num": 159342,
+      "word": "福建被继母生父虐死女孩体重仅40斤",
+      "onboard_time": 1757517323,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51556,
       "num": 73617,
       "word": "教师节朋友圈文案和配图",
@@ -3907,6 +4019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 20451,
+      "num": 232801,
+      "word": "夫妻在合租房生娃被赶将重找住处",
+      "onboard_time": 1757517624,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19117,
       "num": 234775,
       "word": "00后教师们的活人感有多强",
@@ -3972,7 +4092,7 @@
     },
     {
       "raw_hot": 6106,
-      "num": 465126,
+      "num": 502409,
       "word": "我国制造业规模连续15年全球第一",
       "onboard_time": 1757385801,
       "rank": 2,
