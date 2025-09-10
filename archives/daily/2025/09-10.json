@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757500934390,
+  "endTime": 1757503270639,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -67,12 +67,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1184900,
+      "raw_hot": 1393354,
       "num": 323480,
       "word": "医生回应男生感染艾滋以为军训太累",
       "onboard_time": 1757497522,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1221098,
+      "num": 1221098,
+      "word": "煮方便面vs泡方便面",
+      "onboard_time": 1757500402,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 1183545,
@@ -179,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 811754,
+      "num": 811754,
+      "word": "黄岩岛",
+      "onboard_time": 1757496861,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 771822,
       "num": 339842,
       "word": "洗澡三小时 客户被盘了一个半小时",
@@ -201,14 +217,6 @@
       "onboard_time": 1757459480,
       "rank": 5,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 731274,
-      "num": 731274,
-      "word": "黄岩岛",
-      "onboard_time": 1757496861,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 702679,
@@ -355,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 536543,
+      "num": 536543,
+      "word": "李在明 这算哪门子言论自由",
+      "onboard_time": 1757498482,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 522369,
       "num": 377382,
       "word": "张惠妹决定无限期停工",
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444627,
+      "num": 267645,
+      "word": "李炮儿 网红终结者",
+      "onboard_time": 1757500882,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 433559,
       "num": 224404,
       "word": "尼泊尔",
@@ -480,6 +504,14 @@
       "word": "男子高铁座位上旁若无人抽烟",
       "onboard_time": 1757480425,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427063,
+      "num": 271221,
+      "word": "未拴绳大狗撞倒女子致其当场死亡",
+      "onboard_time": 1757495964,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -563,20 +595,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348593,
+      "num": 144152,
+      "word": "当我冲着女儿的颜值生了二胎",
+      "onboard_time": 1757503223,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347403,
       "num": 308406,
       "word": "辛芷蕾助理小号",
       "onboard_time": 1757474184,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346396,
-      "num": 346396,
-      "word": "李在明 这算哪门子言论自由",
-      "onboard_time": 1757498482,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 340037,
@@ -627,6 +659,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 303482,
+      "num": 272145,
+      "word": "黄岩岛国家级自然保护区",
+      "onboard_time": 1757502022,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302925,
       "num": 311648,
       "word": "中医说张小婉对男孩子的防备心重",
@@ -635,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301422,
+      "num": 301422,
+      "word": "玉兰花开君再来 杨紫成毅",
+      "onboard_time": 1757500522,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292581,
       "num": 254114,
       "word": "马丁 朱志鑫",
       "onboard_time": 1757467222,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292411,
+      "num": 264483,
+      "word": "香奈儿 收集癖",
+      "onboard_time": 1757502202,
+      "rank": 16,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 289391,
@@ -691,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272827,
+      "num": 272827,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1757501001,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271338,
       "num": 252682,
       "word": "原神月之一",
@@ -699,28 +763,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271221,
-      "num": 271221,
-      "word": "未拴绳大狗撞倒女子致其当场死亡",
-      "onboard_time": 1757495964,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269625,
-      "num": 269625,
-      "word": "煮方便面vs泡方便面",
-      "onboard_time": 1757500402,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 263765,
       "num": 263765,
       "word": "中国空军运20接30名烈士回家",
       "onboard_time": 1757487261,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 263571,
+      "num": 263571,
+      "word": "6旬大爷裸聊主播8天花光全部积蓄",
+      "onboard_time": 1757501301,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263208,
@@ -1211,6 +1267,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 179569,
+      "num": 179569,
+      "word": "感觉短国男主都没有躺过冰冷手术台",
+      "onboard_time": 1757501781,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178147,
       "num": 208323,
       "word": "张杰杭州演唱会抢票",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1757474424,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176865,
+      "num": 176865,
+      "word": "以为很不卫生实际巨养牙",
+      "onboard_time": 1757501182,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 176210,
@@ -1539,6 +1611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148269,
+      "num": 148269,
+      "word": "黄景瑜前妻曾被要求去医院看病",
+      "onboard_time": 1757502323,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148238,
       "num": 148238,
       "word": "当了老师后才知道学生请假理由多离谱",
@@ -1659,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141722,
+      "num": 141722,
+      "word": "星巴克员工曝卖不出月饼垫钱自购",
+      "onboard_time": 1757498782,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141450,
       "num": 141450,
       "word": "A股成交跌破2万亿",
@@ -1673,6 +1761,14 @@
       "onboard_time": 1757477486,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139830,
+      "num": 141892,
+      "word": "王家卫转发了此沙",
+      "onboard_time": 1757500763,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 139601,
@@ -1825,6 +1921,22 @@
       "onboard_time": 1757475624,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133383,
+      "num": 133383,
+      "word": "戚薇湿发变装听取妈声一片",
+      "onboard_time": 1757501663,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133190,
+      "num": 145071,
+      "word": "祁同伟饰演者带服刑人员子女看话剧",
+      "onboard_time": 1757501001,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 133014,
@@ -2012,7 +2124,7 @@
     },
     {
       "raw_hot": 124328,
-      "num": 110250,
+      "num": 111432,
       "word": "iPhone17全系单平台预约人数超200万",
       "onboard_time": 1757500221,
       "rank": 35,
@@ -2227,12 +2339,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 112193,
-      "num": 112193,
-      "word": "王家卫转发了此沙",
-      "onboard_time": 1757500763,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 112146,
+      "num": 112146,
+      "word": "聚是七个蛋 散是鸡蛋羹",
+      "onboard_time": 1757502742,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 111220,
@@ -2291,20 +2403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109098,
+      "num": 109098,
+      "word": "罗永浩吐槽西贝预制菜",
+      "onboard_time": 1757502982,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 108036,
+      "num": 108036,
+      "word": "千惠妈妈比三宝更需要万千惠",
+      "onboard_time": 1757502922,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106547,
       "num": 140663,
       "word": "酒店穿拖鞋用餐遭双标对待",
       "onboard_time": 1757468060,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105888,
-      "num": 105888,
-      "word": "李炮儿 网红终结者",
-      "onboard_time": 1757500882,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 105135,
@@ -2363,6 +2483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98016,
+      "num": 98016,
+      "word": "小学校长回应拦截教师节礼物",
+      "onboard_time": 1757501423,
+      "rank": 44,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 97623,
       "num": 143987,
       "word": "卡塔尔空军战斗力",
@@ -2419,11 +2547,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95057,
-      "num": 116044,
-      "word": "星巴克员工曝卖不出月饼垫钱自购",
-      "onboard_time": 1757498782,
-      "rank": 37,
+      "raw_hot": 94801,
+      "num": 264369,
+      "word": "海拔2600米的三文鱼到底有多干净",
+      "onboard_time": 1757500402,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2803,14 +2931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65163,
-      "num": 264369,
-      "word": "海拔2600米的三文鱼到底有多干净",
-      "onboard_time": 1757500402,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64579,
       "num": 184642,
       "word": "取色器大爷 美术生老时候",
@@ -2873,6 +2993,14 @@
       "onboard_time": 1757440396,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54501,
+      "num": 111460,
+      "word": "以色列目标人物没死但目标达到了",
+      "onboard_time": 1757502083,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54300,

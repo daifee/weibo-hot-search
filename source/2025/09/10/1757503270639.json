@@ -1,0 +1,410 @@
+{
+  "runTime": 1757503270639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221098,
+        "num": 1221098,
+        "word": "煮方便面vs泡方便面",
+        "onboard_time": 1757500402,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 811754,
+        "num": 811754,
+        "word": "黄岩岛",
+        "onboard_time": 1757496861,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22969,
+        "num": 551004,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757492962,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 536543,
+        "num": 536543,
+        "word": "李在明 这算哪门子言论自由",
+        "onboard_time": 1757498482,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383183,
+        "num": 383183,
+        "word": "100斤女生滥用司美格鲁肽现酮症",
+        "onboard_time": 1757492722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488811,
+        "num": 375514,
+        "word": "三星嘲讽iPhone17系列",
+        "onboard_time": 1757498362,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 353491,
+        "num": 353491,
+        "word": "特朗普称愿对中印大幅加征关税",
+        "onboard_time": 1757495484,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301422,
+        "num": 301422,
+        "word": "玉兰花开君再来 杨紫成毅",
+        "onboard_time": 1757500522,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272827,
+        "num": 272827,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1757501001,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303482,
+        "num": 272145,
+        "word": "黄岩岛国家级自然保护区",
+        "onboard_time": 1757502022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1380614,
+        "num": 271233,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278555,
+        "num": 269779,
+        "word": "新建黄岩岛国家级自然保护区",
+        "onboard_time": 1757495903,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874562,
+        "num": 268620,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444627,
+        "num": 267645,
+        "word": "李炮儿 网红终结者",
+        "onboard_time": 1757500882,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 427063,
+        "num": 266740,
+        "word": "未拴绳大狗撞倒女子致其当场死亡",
+        "onboard_time": 1757495964,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342563,
+        "num": 265450,
+        "word": "吴倩近态",
+        "onboard_time": 1757494642,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292411,
+        "num": 264483,
+        "word": "香奈儿 收集癖",
+        "onboard_time": 1757502202,
+        "rank": 16,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 264369,
+        "num": 264369,
+        "word": "辛芷蕾手机要爆炸了",
+        "onboard_time": 1757486062,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193777,
+        "num": 263939,
+        "word": "美国歌手车箱藏尸",
+        "onboard_time": 1757495062,
+        "rank": 18,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 94801,
+        "num": 263641,
+        "word": "海拔2600米的三文鱼到底有多干净",
+        "onboard_time": 1757500402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315872,
+        "num": 263618,
+        "word": "孟子义cos律政俏佳人",
+        "onboard_time": 1757492782,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263571,
+        "num": 263571,
+        "word": "6旬大爷裸聊主播8天花光全部积蓄",
+        "onboard_time": 1757501301,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235700,
+        "num": 235700,
+        "word": "美军地狱火导弹击中UFO后被弹开",
+        "onboard_time": 1757493982,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179569,
+        "num": 179569,
+        "word": "感觉短国男主都没有躺过冰冷手术台",
+        "onboard_time": 1757501781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178980,
+        "num": 178980,
+        "word": "豆沙馅真的塌房了",
+        "onboard_time": 1757486482,
+        "rank": 24,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 176865,
+        "num": 176865,
+        "word": "以为很不卫生实际巨养牙",
+        "onboard_time": 1757501182,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 159660,
+        "num": 159660,
+        "word": "祝绪丹 没有任何讨厌的人",
+        "onboard_time": 1757492243,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150785,
+        "num": 150785,
+        "word": "iPhone16背刺最大一代",
+        "onboard_time": 1757477244,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148269,
+        "num": 148269,
+        "word": "黄景瑜前妻曾被要求去医院看病",
+        "onboard_time": 1757502323,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133190,
+        "num": 145071,
+        "word": "祁同伟饰演者带服刑人员子女看话剧",
+        "onboard_time": 1757501001,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348593,
+        "num": 144152,
+        "word": "当我冲着女儿的颜值生了二胎",
+        "onboard_time": 1757503223,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142551,
+        "num": 142551,
+        "word": "管乐疑似把粉丝送的礼物送给相亲对象",
+        "onboard_time": 1757482404,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139830,
+        "num": 141892,
+        "word": "王家卫转发了此沙",
+        "onboard_time": 1757500763,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141722,
+        "num": 141722,
+        "word": "星巴克员工曝卖不出月饼垫钱自购",
+        "onboard_time": 1757498782,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133383,
+        "num": 133383,
+        "word": "戚薇湿发变装听取妈声一片",
+        "onboard_time": 1757501663,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1393354,
+        "num": 130236,
+        "word": "医生回应男生感染艾滋以为军训太累",
+        "onboard_time": 1757497522,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124492,
+        "num": 124492,
+        "word": "那英在英国陪女儿读书",
+        "onboard_time": 1757488103,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123974,
+        "num": 123974,
+        "word": "做美甲和不做美甲的都沉默了",
+        "onboard_time": 1757500102,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112146,
+        "num": 112146,
+        "word": "聚是七个蛋 散是鸡蛋羹",
+        "onboard_time": 1757502742,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54501,
+        "num": 111460,
+        "word": "以色列目标人物没死但目标达到了",
+        "onboard_time": 1757502083,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111432,
+        "num": 111432,
+        "word": "iPhone17全系单平台预约人数超200万",
+        "onboard_time": 1757500221,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109580,
+        "num": 109580,
+        "word": "高朋获刑12年",
+        "onboard_time": 1757500221,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109098,
+        "num": 109098,
+        "word": "罗永浩吐槽西贝预制菜",
+        "onboard_time": 1757502982,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108036,
+        "num": 108036,
+        "word": "千惠妈妈比三宝更需要万千惠",
+        "onboard_time": 1757502922,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98016,
+        "num": 98016,
+        "word": "小学校长回应拦截教师节礼物",
+        "onboard_time": 1757501423,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 97636,
+        "num": 97636,
+        "word": "陈哲远洗面奶没洗干净就出门了",
+        "onboard_time": 1757496682,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96340,
+        "num": 96340,
+        "word": "iPhone17ProMax离谱手机壳",
+        "onboard_time": 1757484743,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95599,
+        "num": 95599,
+        "word": "辛芷蕾 中女都不容易",
+        "onboard_time": 1757499501,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94706,
+        "num": 94706,
+        "word": "国防部提醒日本谨言慎行",
+        "onboard_time": 1757490981,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85953,
+        "num": 92470,
+        "word": "花少7真的把马思纯养的很好",
+        "onboard_time": 1757488582,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记尊师重教的情怀#"
+    }
+  }
+}
