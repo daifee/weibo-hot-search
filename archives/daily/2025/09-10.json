@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757475932963,
+  "endTime": 1757478531989,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -43,6 +43,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1064788,
+      "num": 317837,
+      "word": "娜扎把杨幂编辑掉了",
+      "onboard_time": 1757475564,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952222,
       "num": 952222,
       "word": "苹果的牙膏挤爆了",
@@ -73,6 +81,14 @@
       "onboard_time": 1757441416,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 762765,
+      "num": 1122042,
+      "word": "赵磊上婚综是为了正式介绍太太",
+      "onboard_time": 1757476644,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 735131,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 522369,
-      "num": 353924,
+      "num": 377382,
       "word": "张惠妹决定无限期停工",
       "onboard_time": 1757473825,
       "rank": 4,
@@ -168,6 +184,22 @@
       "word": "胡宾果住酒店被偷拍",
       "onboard_time": 1757430504,
       "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 505249,
+      "num": 315587,
+      "word": "山东男子因楼上噪音捅死邻居被判死刑",
+      "onboard_time": 1757475926,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497154,
+      "num": 308568,
+      "word": "大黄胡楚靓 远离low货",
+      "onboard_time": 1757476466,
+      "rank": 21,
       "category": "网红"
     },
     {
@@ -185,6 +217,14 @@
       "onboard_time": 1757460200,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 442323,
+      "num": 367198,
+      "word": "iPhone16需求不降反升",
+      "onboard_time": 1757476466,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 433559,
@@ -244,11 +284,19 @@
     },
     {
       "raw_hot": 347403,
-      "num": 241982,
+      "num": 308406,
       "word": "辛芷蕾助理小号",
       "onboard_time": 1757474184,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346366,
+      "num": 346366,
+      "word": "iPhone16背刺最大一代",
+      "onboard_time": 1757477244,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 340037,
@@ -347,20 +395,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 253437,
-      "num": 229418,
-      "word": "娜扎把杨幂编辑掉了",
-      "onboard_time": 1757475564,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251708,
       "num": 1071617,
       "word": "苹果发布会彩蛋有王嘉尔",
       "onboard_time": 1757467523,
       "rank": 18,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 247705,
+      "num": 313270,
+      "word": "日本民众喊话石平滚出日本",
+      "onboard_time": 1757477726,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242349,
@@ -372,7 +420,7 @@
     },
     {
       "raw_hot": 240756,
-      "num": 240756,
+      "num": 245152,
       "word": "杨幂现身生万物研讨会",
       "onboard_time": 1757474005,
       "rank": 25,
@@ -403,6 +451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 227507,
+      "num": 227507,
+      "word": "钟楚曦 汪曲攸",
+      "onboard_time": 1757478086,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224557,
       "num": 224557,
       "word": "6省国补资金违规使用过亿",
@@ -425,6 +481,14 @@
       "onboard_time": 1757427265,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204063,
+      "num": 256461,
+      "word": "宋雨琦这张脸早该演现偶了",
+      "onboard_time": 1757478146,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 202753,
@@ -481,6 +545,14 @@
       "onboard_time": 1757433561,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186397,
+      "num": 186397,
+      "word": "每天喝咖啡是续命还是促癌",
+      "onboard_time": 1757475685,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184747,
@@ -555,6 +627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 171894,
+      "num": 171894,
+      "word": "卢伟冰要买苹果手机",
+      "onboard_time": 1757477423,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 171008,
       "num": 171008,
       "word": "中国移动回应eSIM问题",
@@ -587,6 +667,14 @@
       "category": "教育,旅游"
     },
     {
+      "raw_hot": 168043,
+      "num": 168043,
+      "word": "受害者家属被催缴24万天价停尸费",
+      "onboard_time": 1757476345,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 166080,
       "num": 166080,
       "word": "韩国感觉后脑勺被打了一闷棍",
@@ -596,7 +684,7 @@
     },
     {
       "raw_hot": 165972,
-      "num": 359579,
+      "num": 386461,
       "word": "祝老师节日快乐",
       "onboard_time": 1757473582,
       "rank": 33,
@@ -667,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152790,
+      "num": 183869,
+      "word": "肖战一觉醒来被判了一千兆年",
+      "onboard_time": 1757477785,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148238,
       "num": 148238,
       "word": "当了老师后才知道学生请假理由多离谱",
@@ -723,6 +819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 140393,
+      "num": 140393,
+      "word": "沙特称部署一切能力支持卡塔尔",
+      "onboard_time": 1757477486,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138791,
       "num": 138791,
       "word": "2分钟的预告成毅打了60秒",
@@ -739,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137957,
+      "num": 137957,
+      "word": "一念江南",
+      "onboard_time": 1757478507,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137331,
       "num": 137331,
       "word": "纽约中央公园偶遇曾黎晨跑",
@@ -753,6 +865,14 @@
       "onboard_time": 1757464223,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136641,
+      "num": 136641,
+      "word": "A股卫星导航板块爆发",
+      "onboard_time": 1757477486,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 136154,
@@ -851,6 +971,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 126984,
+      "num": 314299,
+      "word": "为什么大家又重新使用毛巾",
+      "onboard_time": 1757475204,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125000,
       "num": 125000,
       "word": "科技春晚",
@@ -864,6 +992,14 @@
       "word": "何同学称17Pro新配色不好形容",
       "onboard_time": 1757471001,
       "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 123156,
+      "num": 263174,
+      "word": "天才小熊猫总结苹果发布会",
+      "onboard_time": 1757478264,
+      "rank": 25,
       "category": "数码"
     },
     {
@@ -905,6 +1041,14 @@
       "onboard_time": 1757473943,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117750,
+      "num": 320258,
+      "word": "黑龙江煤矿矿震2人获救送医",
+      "onboard_time": 1757477964,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116848,
@@ -961,6 +1105,14 @@
       "onboard_time": 1757442196,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 112779,
+      "num": 183973,
+      "word": "20岁女孩失恋1个月全身毛发脱落",
+      "onboard_time": 1757478204,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112676,
@@ -1139,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86710,
+      "num": 227990,
+      "word": "乡村教师抗癌500天化疗22次后病逝",
+      "onboard_time": 1757476885,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86290,
       "num": 86290,
       "word": "Apple Watch系列",
@@ -1265,14 +1425,6 @@
       "onboard_time": 1757443634,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 73431,
-      "num": 239246,
-      "word": "为什么大家又重新使用毛巾",
-      "onboard_time": 1757475204,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 72440,
@@ -1443,11 +1595,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43439,
+      "num": 183851,
+      "word": "2000万的房子验出120个问题",
+      "onboard_time": 1757477845,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42895,
       "num": 311712,
       "word": "张桂梅的愿望泪目了",
       "onboard_time": 1757466503,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42356,
+      "num": 312100,
+      "word": "淘宝是AG的万能神装",
+      "onboard_time": 1757477065,
+      "rank": 17,
+      "category": "互联网,电竞"
+    },
+    {
+      "raw_hot": 42311,
+      "num": 311155,
+      "word": "洁柔回应消费者质疑厨房纸虚假宣传",
+      "onboard_time": 1757476885,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1468,7 +1644,7 @@
     },
     {
       "raw_hot": 38522,
-      "num": 237781,
+      "num": 311198,
       "word": "朱一龙高情商送礼小课堂",
       "onboard_time": 1757474364,
       "rank": 19,
@@ -1537,6 +1713,14 @@
       "onboard_time": 1757472382,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12030,
+      "num": 153342,
+      "word": "火焰蓝队伍中有这样一群老师",
+      "onboard_time": 1757478264,
+      "rank": 44,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 6582,
