@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757511148654,
+  "endTime": 1757511811703,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -155,6 +155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 873029,
+      "num": 1139684,
+      "word": "微信更新",
+      "onboard_time": 1757507062,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 871214,
       "num": 871214,
       "word": "孟子义cos律政俏佳人",
@@ -235,7 +243,7 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 720014,
+      "raw_hot": 731454,
       "num": 1115202,
       "word": "陈伟霆张家人真的不会老",
       "onboard_time": 1757505562,
@@ -249,6 +257,14 @@
       "onboard_time": 1757493982,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 694867,
+      "num": 235324,
+      "word": "曝高学历小花是木头美人",
+      "onboard_time": 1757510783,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 692652,
@@ -331,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 613314,
+      "num": 228434,
+      "word": "林更新还回内娱吗",
+      "onboard_time": 1757505202,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596804,
       "num": 1095488,
       "word": "野狗骨头",
@@ -379,14 +403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 548748,
-      "num": 548748,
-      "word": "微信更新",
-      "onboard_time": 1757507062,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 542837,
       "num": 1014667,
       "word": "卡塔尔首都多哈发生剧烈爆炸",
@@ -416,14 +432,6 @@
       "word": "张惠妹决定无限期停工",
       "onboard_time": 1757473825,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 515112,
-      "num": 223106,
-      "word": "林更新还回内娱吗",
-      "onboard_time": 1757505202,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -555,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432731,
+      "num": 271221,
+      "word": "未拴绳大狗撞倒女子致其当场死亡",
+      "onboard_time": 1757495964,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429108,
       "num": 954283,
       "word": "男子高铁座位上旁若无人抽烟",
@@ -563,16 +579,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 427063,
-      "num": 271221,
-      "word": "未拴绳大狗撞倒女子致其当场死亡",
-      "onboard_time": 1757495964,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 414360,
-      "num": 213689,
+      "num": 215053,
       "word": "当我冲着女儿的颜值生了二胎",
       "onboard_time": 1757503223,
       "rank": 30,
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379480,
+      "num": 379480,
+      "word": "郭焱谈孙颖莎发球被裁判提醒",
+      "onboard_time": 1757508441,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379211,
       "num": 340253,
       "word": "杨幂教师节感谢了一位特别的老师",
@@ -651,19 +667,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 373801,
-      "num": 373801,
-      "word": "郭焱谈孙颖莎发球被裁判提醒",
-      "onboard_time": 1757508441,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 372716,
       "num": 372716,
       "word": "肖战一觉醒来被判了一千兆年",
       "onboard_time": 1757477785,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 360319,
+      "num": 218988,
+      "word": "刘浩存好明媚",
+      "onboard_time": 1757510604,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -681,6 +697,14 @@
       "onboard_time": 1757471061,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338962,
+      "num": 338962,
+      "word": "真夫妻牵手走红毯就是好嗑",
+      "onboard_time": 1757506943,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 330756,
@@ -851,14 +875,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 251563,
-      "num": 251563,
-      "word": "真夫妻牵手走红毯就是好嗑",
-      "onboard_time": 1757506943,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 242349,
       "num": 390940,
       "word": "eSIM",
@@ -939,14 +955,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 228067,
-      "num": 205045,
-      "word": "刘浩存好明媚",
-      "onboard_time": 1757510604,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224557,
       "num": 224557,
       "word": "6省国补资金违规使用过亿",
@@ -995,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214581,
+      "num": 214581,
+      "word": "曝男流量在采访间抽烟",
+      "onboard_time": 1757511084,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213169,
       "num": 207555,
       "word": "费启鸣演我看到iPhone17",
@@ -1011,11 +1027,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207261,
+      "num": 161806,
+      "word": "内娱现役法拉利肖战",
+      "onboard_time": 1757511084,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206294,
       "num": 206294,
       "word": "巨型梁龙 人体蜈蚣",
       "onboard_time": 1757492243,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205688,
+      "num": 144060,
+      "word": "尔冬升与9岁女儿合照",
+      "onboard_time": 1757510422,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1065,14 +1097,6 @@
       "onboard_time": 1757478204,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203406,
-      "num": 203406,
-      "word": "曝高学历小花是木头美人",
-      "onboard_time": 1757510783,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 203004,
@@ -1227,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192741,
+      "num": 203470,
+      "word": "宋亚轩累了知道躺贺峻霖怀里",
+      "onboard_time": 1757510543,
+      "rank": 23,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 192274,
       "num": 200738,
       "word": "赴山海",
@@ -1273,14 +1305,6 @@
       "onboard_time": 1757493442,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186491,
-      "num": 203470,
-      "word": "宋亚轩累了知道躺贺峻霖怀里",
-      "onboard_time": 1757510543,
-      "rank": 23,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 186397,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1757480965,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177656,
+      "num": 177656,
+      "word": "人民网评斩断流量明星招摇过市推手",
+      "onboard_time": 1757510903,
+      "rank": 28,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 177047,
@@ -1683,14 +1715,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 161806,
-      "num": 161806,
-      "word": "内娱现役法拉利肖战",
-      "onboard_time": 1757511084,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161616,
       "num": 161616,
       "word": "李沁offer7智性恋新闻女神",
@@ -1731,14 +1755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157231,
-      "num": 169645,
-      "word": "人民网评斩断流量明星招摇过市推手",
-      "onboard_time": 1757510903,
-      "rank": 28,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 157064,
       "num": 157064,
       "word": "虚胖和真胖的区别",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1757482164,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154262,
+      "num": 249733,
+      "word": "西贝回应被吐槽是预制菜",
+      "onboard_time": 1757510604,
+      "rank": 9,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 151604,
@@ -1883,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146075,
+      "num": 146075,
+      "word": "国乒男单已2人止步澳门赛首轮",
+      "onboard_time": 1757511265,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145709,
       "num": 239197,
       "word": "成毅新剧一胎三胞",
@@ -1905,6 +1937,14 @@
       "onboard_time": 1757437098,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144648,
+      "num": 144648,
+      "word": "荣耀高管称Magic8是真AI手机",
+      "onboard_time": 1757511504,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 144364,
@@ -1960,6 +2000,14 @@
       "word": "星巴克员工曝卖不出月饼垫钱自购",
       "onboard_time": 1757498782,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141490,
+      "num": 141490,
+      "word": "郑州非必要不外出",
+      "onboard_time": 1757511383,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -2195,6 +2243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 132242,
+      "num": 132242,
+      "word": "黄子韬徐艺洋拍婚纱照了",
+      "onboard_time": 1757511564,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132039,
       "num": 146109,
       "word": "李莲花碧茶之毒是萧秋水调的吧",
@@ -2272,6 +2328,14 @@
       "word": "许嵩 冯禧",
       "onboard_time": 1757409682,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128653,
+      "num": 128653,
+      "word": "谢欣颖王柏杰分手",
+      "onboard_time": 1757511203,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -2361,6 +2425,14 @@
       "onboard_time": 1757489063,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125077,
+      "num": 125077,
+      "word": "谁家cp都BE了还有售后啊",
+      "onboard_time": 1757511024,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 125000,
@@ -2659,6 +2731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 110988,
+      "num": 110988,
+      "word": "张婧仪回复",
+      "onboard_time": 1757511622,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110529,
       "num": 110529,
       "word": "你回个嗯我就算有遗言都不想说了",
@@ -2729,14 +2809,6 @@
       "onboard_time": 1757471904,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 104018,
-      "num": 104018,
-      "word": "曝男流量在采访间抽烟",
-      "onboard_time": 1757511084,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 103389,
@@ -2923,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89532,
+      "num": 123975,
+      "word": "辛芷蕾国民度",
+      "onboard_time": 1757510543,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89474,
       "num": 279820,
       "word": "不二之臣 男女主",
@@ -3027,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83796,
+      "num": 203671,
+      "word": "高圆圆代言腾势N9",
+      "onboard_time": 1757509644,
+      "rank": 22,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 82395,
       "num": 104979,
       "word": "阿里创新高",
@@ -3089,14 +3177,6 @@
       "onboard_time": 1757498901,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81027,
-      "num": 249733,
-      "word": "西贝回应被吐槽是预制菜",
-      "onboard_time": 1757510604,
-      "rank": 9,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 79781,
@@ -3267,14 +3347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68960,
-      "num": 203671,
-      "word": "高圆圆代言腾势N9",
-      "onboard_time": 1757509644,
-      "rank": 22,
-      "category": "艺人,汽车"
-    },
-    {
       "raw_hot": 68672,
       "num": 238158,
       "word": "警方回应文昌阁小猫遭挖眼砍断四肢",
@@ -3316,7 +3388,7 @@
     },
     {
       "raw_hot": 64472,
-      "num": 216592,
+      "num": 224654,
       "word": "智己底盘再破世界纪录",
       "onboard_time": 1757509524,
       "rank": 17,
@@ -3348,7 +3420,7 @@
     },
     {
       "raw_hot": 62380,
-      "num": 208222,
+      "num": 221031,
       "word": "魏建军教师节监考",
       "onboard_time": 1757509883,
       "rank": 19,
@@ -3361,14 +3433,6 @@
       "onboard_time": 1757439438,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 61527,
-      "num": 123916,
-      "word": "尔冬升与9岁女儿合照",
-      "onboard_time": 1757510422,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 60103,
@@ -3385,6 +3449,14 @@
       "onboard_time": 1757484263,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58499,
+      "num": 129404,
+      "word": "美国对韩国反手一巴掌",
+      "onboard_time": 1757511743,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55283,
@@ -3643,14 +3715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33104,
-      "num": 123975,
-      "word": "辛芷蕾国民度",
-      "onboard_time": 1757510543,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31212,
       "num": 121978,
       "word": "孙颖莎赫尔希精彩对决",
@@ -3771,8 +3835,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3600,
-      "num": 384664,
+      "raw_hot": 4549,
+      "num": 425868,
       "word": "我国制造业规模连续15年全球第一",
       "onboard_time": 1757385801,
       "rank": 2,
@@ -3797,6 +3861,9 @@
     },
     {
       "word": "#教师是立教之本兴教之源#"
+    },
+    {
+      "word": "#总书记对广大教师的殷切寄语#"
     }
   ]
 }
