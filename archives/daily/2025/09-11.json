@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757543968885,
+  "endTime": 1757546539731,
   "band_list": [
     {
       "raw_hot": 901899,
@@ -11,7 +11,7 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 718687,
+      "raw_hot": 845744,
       "num": 151744,
       "word": "少女遭体罚死前求助信被老师拦截",
       "onboard_time": 1757517025,
@@ -41,6 +41,14 @@
       "onboard_time": 1757489242,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561269,
+      "num": 791209,
+      "word": "湖南男子驾车碾死同学被判死缓",
+      "onboard_time": 1757521281,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545826,
@@ -75,12 +83,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393911,
-      "num": 501932,
-      "word": "湖南男子驾车碾死同学被判死缓",
-      "onboard_time": 1757521281,
-      "rank": 29,
+      "raw_hot": 395279,
+      "num": 395279,
+      "word": "山西博物院回应拟录用多位海归博士",
+      "onboard_time": 1757541254,
+      "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348867,
+      "num": 112421,
+      "word": "张维伊清爽了",
+      "onboard_time": 1757521519,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 345671,
@@ -107,16 +123,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267258,
-      "num": 112421,
-      "word": "张维伊清爽了",
-      "onboard_time": 1757521519,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 300235,
+      "num": 300235,
+      "word": "117名韩国女性首次直接起诉美军",
+      "onboard_time": 1757523617,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 238039,
-      "num": 238039,
+      "raw_hot": 295218,
+      "num": 134539,
+      "word": "外卖已经让我对食物的价格失感了",
+      "onboard_time": 1757516483,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 260926,
+      "num": 260926,
+      "word": "以军袭击卡塔尔白宫简报室挤爆了",
+      "onboard_time": 1757521880,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 242948,
+      "num": 242948,
       "word": "上海老人房子被孙女砸成废墟",
       "onboard_time": 1757511924,
       "rank": 4,
@@ -137,6 +169,14 @@
       "onboard_time": 1757514744,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225060,
+      "num": 225060,
+      "word": "住了近十年才知道小区绿化是租来的",
+      "onboard_time": 1757518584,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 211615,
@@ -187,14 +227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164170,
-      "num": 164170,
-      "word": "117名韩国女性首次直接起诉美军",
-      "onboard_time": 1757523617,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 153650,
       "num": 153650,
       "word": "西贝回应被吐槽是预制菜",
@@ -217,14 +249,6 @@
       "onboard_time": 1757510604,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142703,
-      "num": 134539,
-      "word": "外卖已经让我对食物的价格失感了",
-      "onboard_time": 1757516483,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 138002,
@@ -251,28 +275,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 117539,
-      "num": 117539,
-      "word": "以军袭击卡塔尔白宫简报室挤爆了",
-      "onboard_time": 1757521880,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 106642,
-      "num": 106642,
-      "word": "住了近十年才知道小区绿化是租来的",
-      "onboard_time": 1757518584,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 106328,
       "num": 106328,
       "word": "甲骨文",
       "onboard_time": 1757514744,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100517,
+      "num": 100517,
+      "word": "男子失踪7年后在黑砖窑被警方解救",
+      "onboard_time": 1757518822,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99910,
@@ -291,19 +307,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88486,
-      "num": 88486,
-      "word": "山西博物院回应拟录用多位海归博士",
-      "onboard_time": 1757541254,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86743,
-      "num": 86743,
+      "raw_hot": 91235,
+      "num": 91235,
       "word": "福建被继母生父虐死女孩体重仅40斤",
       "onboard_time": 1757517323,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84978,
+      "num": 84978,
+      "word": "郑州非必要不外出",
+      "onboard_time": 1757511383,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -355,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69824,
+      "num": 69824,
+      "word": "哈马斯高层或因土耳其预警躲过一劫",
+      "onboard_time": 1757533633,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67077,
       "num": 73458,
       "word": "夫妻在合租房生娃被赶将重找住处",
@@ -385,14 +409,6 @@
       "onboard_time": 1757510543,
       "rank": 27,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 64794,
-      "num": 73372,
-      "word": "郑州非必要不外出",
-      "onboard_time": 1757511383,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61775,
@@ -427,11 +443,35 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45543,
-      "num": 45543,
-      "word": "男子失踪7年后在黑砖窑被警方解救",
-      "onboard_time": 1757518822,
-      "rank": 36,
+      "raw_hot": 56214,
+      "num": 113871,
+      "word": "外交部严厉谴责以袭卡塔尔首都",
+      "onboard_time": 1757525118,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56006,
+      "num": 56006,
+      "word": "卡塔尔称以色列是地区霸凌者",
+      "onboard_time": 1757531954,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 54845,
+      "num": 54845,
+      "word": "洗榴莲把果肉洗没了",
+      "onboard_time": 1757524398,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53540,
+      "num": 53540,
+      "word": "星巴克回应员工卖不出月饼自购",
+      "onboard_time": 1757529075,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -443,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42620,
+      "num": 53478,
+      "word": "男子结婚22年两儿子非亲生案将宣判",
+      "onboard_time": 1757525596,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42114,
       "num": 49353,
       "word": "易烊千玺也逃不过大张伟的北京人定律",
@@ -451,16 +499,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39504,
-      "num": 49336,
-      "word": "洗榴莲把果肉洗没了",
-      "onboard_time": 1757524398,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 40117,
+      "num": 53409,
+      "word": "美13岁男孩企图实施校园杀戮被捕",
+      "onboard_time": 1757529616,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36621,
-      "num": 49301,
+      "num": 85535,
       "word": "真夫妻牵手走红毯就是好嗑",
       "onboard_time": 1757506943,
       "rank": 48,
@@ -475,60 +523,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 33359,
-      "num": 113871,
-      "word": "外交部严厉谴责以袭卡塔尔首都",
-      "onboard_time": 1757525118,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 32920,
-      "num": 37607,
-      "word": "男子结婚22年两儿子非亲生案将宣判",
-      "onboard_time": 1757525596,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31523,
-      "num": 31523,
-      "word": "哈马斯高层或因土耳其预警躲过一劫",
-      "onboard_time": 1757533633,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 30465,
-      "num": 30465,
-      "word": "卡塔尔称以色列是地区霸凌者",
-      "onboard_time": 1757531954,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 26340,
-      "num": 27993,
-      "word": "星巴克回应员工卖不出月饼自购",
-      "onboard_time": 1757529075,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23991,
-      "num": 46204,
-      "word": "美13岁男孩企图实施校园杀戮被捕",
-      "onboard_time": 1757529616,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 21623,
-      "num": 28906,
+      "raw_hot": 33615,
+      "num": 85025,
       "word": "成毅歌声里有侠气",
       "onboard_time": 1757530155,
       "rank": 48,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 31015,
+      "num": 53367,
+      "word": "当副科老师有多爽",
+      "onboard_time": 1757545880,
+      "rank": 48,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 19382,
