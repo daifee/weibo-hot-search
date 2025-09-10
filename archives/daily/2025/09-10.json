@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757482811035,
+  "endTime": 1757486196151,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -41,6 +41,14 @@
       "onboard_time": 1757439376,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1181483,
+      "num": 186194,
+      "word": "那英老公回应",
+      "onboard_time": 1757484924,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1070811,
@@ -99,12 +107,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 846686,
+      "num": 185679,
+      "word": "管乐疑似把粉丝送的礼物送给相亲对象",
+      "onboard_time": 1757482404,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 828783,
       "num": 828783,
       "word": "田栩宁费加罗九月刊封面预告",
       "onboard_time": 1757482344,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 771822,
+      "num": 236613,
+      "word": "洗澡三小时 客户被盘了一个半小时",
+      "onboard_time": 1757481803,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 735131,
@@ -203,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 541274,
+      "num": 1049991,
+      "word": "巩俐周迅赵丽颖倪妮祝贺辛芷蕾",
+      "onboard_time": 1757481623,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 522369,
       "num": 377382,
       "word": "张惠妹决定无限期停工",
@@ -217,6 +249,14 @@
       "onboard_time": 1757430504,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 506622,
+      "num": 1144240,
+      "word": "花中国的钱插刀中国绝不容忍",
+      "onboard_time": 1757480004,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 505249,
@@ -241,14 +281,6 @@
       "onboard_time": 1757476466,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 464566,
-      "num": 1049991,
-      "word": "巩俐周迅赵丽颖倪妮祝贺辛芷蕾",
-      "onboard_time": 1757481623,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 462628,
@@ -297,6 +329,14 @@
       "onboard_time": 1757423543,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402275,
+      "num": 954283,
+      "word": "男子高铁座位上旁若无人抽烟",
+      "onboard_time": 1757480425,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398090,
@@ -355,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 323673,
-      "num": 236613,
-      "word": "洗澡三小时 客户被盘了一个半小时",
-      "onboard_time": 1757481803,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 322572,
       "num": 342950,
       "word": "受害者家属被催缴24万天价停尸费",
@@ -401,14 +433,6 @@
       "onboard_time": 1757462782,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298442,
-      "num": 1144240,
-      "word": "花中国的钱插刀中国绝不容忍",
-      "onboard_time": 1757480004,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 292581,
@@ -475,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255826,
+      "num": 155479,
+      "word": "事发时那英正在伦敦陪伴女儿留学",
+      "onboard_time": 1757485943,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251708,
       "num": 1071617,
       "word": "苹果发布会彩蛋有王嘉尔",
@@ -505,14 +537,6 @@
       "onboard_time": 1757478807,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229456,
-      "num": 954283,
-      "word": "男子高铁座位上旁若无人抽烟",
-      "onboard_time": 1757480425,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229168,
@@ -563,6 +587,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213169,
+      "num": 153362,
+      "word": "费启鸣演我看到iPhone17",
+      "onboard_time": 1757484625,
+      "rank": 31,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 212837,
+      "num": 212837,
+      "word": "12306回应男子高铁抽烟被民警带走",
+      "onboard_time": 1757482885,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208005,
       "num": 340685,
       "word": "宋雨琦这张脸早该演现偶了",
@@ -603,12 +643,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 200155,
+      "num": 153123,
+      "word": "九尾人到了摄影师不见了",
+      "onboard_time": 1757485583,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200048,
       "num": 209827,
       "word": "宋佳佟丽娅演上再见爱人了",
       "onboard_time": 1757480605,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199995,
+      "num": 152476,
+      "word": "许荔莎现身配合警方调查",
+      "onboard_time": 1757484383,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 199839,
@@ -651,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197033,
+      "num": 151892,
+      "word": "辛芷蕾手机要爆炸了",
+      "onboard_time": 1757486062,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197030,
       "num": 485164,
       "word": "B太助农卖葡萄被冷链车坑",
@@ -675,6 +739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 193917,
+      "num": 151562,
+      "word": "iPhone17 关闭摇一摇广告",
+      "onboard_time": 1757484442,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192274,
       "num": 200738,
       "word": "赴山海",
@@ -697,6 +769,14 @@
       "onboard_time": 1757433561,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186737,
+      "num": 147754,
+      "word": "韩国iPhoneAir没有捏合手势",
+      "onboard_time": 1757483904,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 186397,
@@ -731,12 +811,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182668,
+      "num": 182668,
+      "word": "花2000万买房又花188万买家装包",
+      "onboard_time": 1757484862,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180887,
       "num": 296472,
       "word": "黄金",
       "onboard_time": 1757471541,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179770,
+      "num": 179770,
+      "word": "倪妮谈和樊振东微博互关",
+      "onboard_time": 1757485284,
+      "rank": 22,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 178147,
@@ -779,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175211,
+      "num": 145508,
+      "word": "iPhone17ProMax离谱手机壳",
+      "onboard_time": 1757484743,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174669,
       "num": 174669,
       "word": "AirPodsPro3",
@@ -787,20 +891,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 174386,
-      "num": 174386,
-      "word": "管乐疑似把粉丝送的礼物送给相亲对象",
-      "onboard_time": 1757482404,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173413,
       "num": 173413,
       "word": "李在明批反华集会纯属闹事",
       "onboard_time": 1757436559,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173124,
+      "num": 908771,
+      "word": "高德扫街榜",
+      "onboard_time": 1757470041,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 172758,
@@ -865,6 +969,22 @@
       "onboard_time": 1757480725,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167293,
+      "num": 167293,
+      "word": "女子花1300吃日料剩了10片刺身被索赔",
+      "onboard_time": 1757483363,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167221,
+      "num": 133683,
+      "word": "影视飓风上手掰了下iPhone17",
+      "onboard_time": 1757483545,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 166080,
@@ -963,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156084,
+      "num": 156084,
+      "word": "张子枫宋佳彭昱畅表情都是戏",
+      "onboard_time": 1757485882,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154635,
       "num": 191335,
       "word": "成毅2G宽带也是连上8g网了",
@@ -1001,6 +1129,14 @@
       "onboard_time": 1757431043,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147310,
+      "num": 147310,
+      "word": "阿里发布高德扫街榜",
+      "onboard_time": 1757485224,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 147233,
@@ -1049,6 +1185,14 @@
       "onboard_time": 1757465184,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142807,
+      "num": 155871,
+      "word": "谁家剧还没播已经下线5个角色",
+      "onboard_time": 1757483063,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 140393,
@@ -1251,14 +1395,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 122486,
-      "num": 908771,
-      "word": "高德扫街榜",
-      "onboard_time": 1757470041,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 122476,
       "num": 122476,
       "word": "iphone17充电速度提升",
@@ -1299,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117563,
+      "num": 149878,
+      "word": "心动8下一期爆灯了",
+      "onboard_time": 1757482764,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116848,
       "num": 116848,
       "word": "一诺是有点演技在身上的",
@@ -1324,7 +1468,7 @@
     },
     {
       "raw_hot": 116235,
-      "num": 116235,
+      "num": 151137,
       "word": "贵州文昌阁多只小猫被挖眼砍断四肢",
       "onboard_time": 1757482285,
       "rank": 47,
@@ -1393,14 +1537,6 @@
       "onboard_time": 1757473164,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 111757,
-      "num": 111757,
-      "word": "心动8下一期爆灯了",
-      "onboard_time": 1757482764,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 111220,
@@ -1504,6 +1640,14 @@
       "word": "辛芷蕾 显化",
       "onboard_time": 1757410642,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96324,
+      "num": 154584,
+      "word": "杨迪自曝参加过最离奇的综艺",
+      "onboard_time": 1757483845,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1715,6 +1859,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75870,
+      "num": 148374,
+      "word": "高德每天为线下店多带1000万消费者",
+      "onboard_time": 1757486123,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 74513,
+      "num": 150284,
+      "word": "明月录王楚然",
+      "onboard_time": 1757485463,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72440,
       "num": 72440,
       "word": "单依纯 栩栩华生CEO",
@@ -1811,6 +1971,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 59004,
+      "num": 154716,
+      "word": "挪德卡莱大开门",
+      "onboard_time": 1757484263,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55283,
       "num": 73692,
       "word": "凌晨两点客人吃饭老板睡觉",
@@ -1833,6 +2001,14 @@
       "onboard_time": 1757458638,
       "rank": 48,
       "category": "教育,读书作家"
+    },
+    {
+      "raw_hot": 50617,
+      "num": 184427,
+      "word": "传统点评榜单不该是餐饮指挥棒",
+      "onboard_time": 1757485463,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50354,
@@ -1939,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38282,
+      "num": 182761,
+      "word": "iPhone17Pro的设计会影响购买吗",
+      "onboard_time": 1757485463,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38080,
       "num": 38080,
       "word": "iPhone17Pro三摄4800万",
@@ -2025,6 +2209,14 @@
       "onboard_time": 1757478264,
       "rank": 44,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 9278,
+      "num": 149308,
+      "word": "这场马拉松把非遗跑活了",
+      "onboard_time": 1757484084,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 6582,
