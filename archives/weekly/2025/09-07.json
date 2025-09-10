@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757514245578,
+  "endTime": 1757515310653,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -251,6 +251,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1601918,
+      "num": 254952,
+      "word": "黄子韬徐艺洋拍婚纱照了",
+      "onboard_time": 1757511564,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1601110,
       "num": 1601110,
       "word": "男子胃癌晚期发现10岁女儿非亲生",
@@ -268,18 +276,10 @@
     },
     {
       "raw_hot": 1563625,
-      "num": 235324,
+      "num": 251215,
       "word": "曝高学历小花是木头美人",
       "onboard_time": 1757510783,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1545544,
-      "num": 201344,
-      "word": "黄子韬徐艺洋拍婚纱照了",
-      "onboard_time": 1757511564,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -483,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1212449,
+      "num": 250195,
+      "word": "张婧仪回复",
+      "onboard_time": 1757511622,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1183545,
       "num": 1189367,
       "word": "100斤女生滥用司美格鲁肽现酮症",
@@ -603,6 +611,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 1071694,
+      "num": 247622,
+      "word": "曝一念江南没有男演员愿意接",
+      "onboard_time": 1757512584,
+      "rank": 20,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 1070811,
       "num": 874366,
       "word": "娜扎把杨幂编辑掉了",
@@ -688,14 +704,6 @@
       "word": "欢娱律师声明",
       "onboard_time": 1757330064,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 996020,
-      "num": 198376,
-      "word": "张婧仪回复",
-      "onboard_time": 1757511622,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -996,7 +1004,7 @@
     },
     {
       "raw_hot": 790143,
-      "num": 233650,
+      "num": 240326,
       "word": "聚是七个蛋 散是鸡蛋羹",
       "onboard_time": 1757502742,
       "rank": 38,
@@ -1388,7 +1396,7 @@
     },
     {
       "raw_hot": 613314,
-      "num": 228434,
+      "num": 234286,
       "word": "林更新还回内娱吗",
       "onboard_time": 1757505202,
       "rank": 17,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1757314403,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600885,
+      "num": 600885,
+      "word": "西贝回应被吐槽是预制菜",
+      "onboard_time": 1757510604,
+      "rank": 9,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 596804,
@@ -1931,14 +1947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 452797,
-      "num": 452797,
-      "word": "西贝回应被吐槽是预制菜",
-      "onboard_time": 1757510604,
-      "rank": 9,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 452371,
       "num": 412840,
       "word": "韩国iPhoneAir没有捏合手势",
@@ -2243,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411202,
-      "num": 189432,
-      "word": "曝一念江南没有男演员愿意接",
-      "onboard_time": 1757512584,
-      "rank": 20,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 408906,
       "num": 329085,
       "word": "许荔莎与于正缘分契合度86",
@@ -2276,7 +2276,7 @@
     },
     {
       "raw_hot": 406063,
-      "num": 218988,
+      "num": 239244,
       "word": "刘浩存好明媚",
       "onboard_time": 1757510604,
       "rank": 21,
@@ -2585,6 +2585,14 @@
       "onboard_time": 1757308225,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368015,
+      "num": 368015,
+      "word": "古巴全国电力中断",
+      "onboard_time": 1757513184,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 364932,
@@ -3035,6 +3043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311111,
+      "num": 276601,
+      "word": "影视飓风Tim现场掰了iPhone",
+      "onboard_time": 1757514085,
+      "rank": 36,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 310694,
       "num": 557399,
       "word": "周冬雨刘昊然同框",
@@ -3307,6 +3323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277256,
+      "num": 277256,
+      "word": "盛世天下",
+      "onboard_time": 1757383701,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276729,
       "num": 217169,
       "word": "事发时那英正在伦敦陪伴女儿留学",
@@ -3491,6 +3515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254889,
+      "num": 274814,
+      "word": "杨超越瓜子西施",
+      "onboard_time": 1757513125,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253584,
       "num": 253584,
       "word": "敖瑞鹏孙珍妮海报",
@@ -3521,6 +3553,14 @@
       "onboard_time": 1757338464,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245340,
+      "num": 204633,
+      "word": "内娱现役法拉利肖战",
+      "onboard_time": 1757511084,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 245226,
@@ -3587,6 +3627,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 241285,
+      "num": 202889,
+      "word": "人民网评斩断流量明星招摇过市推手",
+      "onboard_time": 1757510903,
+      "rank": 28,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 240793,
       "num": 241143,
       "word": "12306回应男子高铁抽烟被民警带走",
@@ -3625,14 +3673,6 @@
       "onboard_time": 1757487921,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 238443,
-      "num": 161992,
-      "word": "内娱现役法拉利肖战",
-      "onboard_time": 1757511084,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 238143,
@@ -3772,7 +3812,7 @@
     },
     {
       "raw_hot": 229004,
-      "num": 161340,
+      "num": 200939,
       "word": "尔冬升与9岁女儿合照",
       "onboard_time": 1757510422,
       "rank": 39,
@@ -3835,20 +3875,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225901,
+      "num": 260997,
+      "word": "继奶茶后冰红茶成商战新赛道",
+      "onboard_time": 1757508502,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225761,
       "num": 203945,
       "word": "郑业成赵晴在你眉梢种红豆开机",
       "onboard_time": 1757214802,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224826,
-      "num": 187697,
-      "word": "人民网评斩断流量明星招摇过市推手",
-      "onboard_time": 1757510903,
-      "rank": 28,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 224640,
@@ -3913,6 +3953,14 @@
       "onboard_time": 1757307683,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222066,
+      "num": 222066,
+      "word": "上海老人房子被孙女砸成废墟",
+      "onboard_time": 1757511924,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221669,
@@ -4129,14 +4177,6 @@
       "onboard_time": 1757307146,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209126,
-      "num": 209126,
-      "word": "盛世天下",
-      "onboard_time": 1757383701,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 209119,
@@ -4491,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200851,
+      "num": 200851,
+      "word": "偶遇杨洋在夏威夷吃川菜",
+      "onboard_time": 1757514984,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200417,
       "num": 200417,
       "word": "迈凯伦",
@@ -4593,6 +4641,14 @@
       "onboard_time": 1757307865,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198404,
+      "num": 198404,
+      "word": "甲骨文",
+      "onboard_time": 1757514744,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 198345,
@@ -5035,6 +5091,14 @@
       "category": "剧集,音乐"
     },
     {
+      "raw_hot": 188202,
+      "num": 205730,
+      "word": "震耳欲聋",
+      "onboard_time": 1757514744,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187927,
       "num": 216289,
       "word": "栩栩华生红毯",
@@ -5057,14 +5121,6 @@
       "onboard_time": 1757415923,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187679,
-      "num": 187679,
-      "word": "继奶茶后冰红茶成商战新赛道",
-      "onboard_time": 1757508502,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187673,
@@ -5121,14 +5177,6 @@
       "onboard_time": 1757411782,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186827,
-      "num": 186827,
-      "word": "杨超越瓜子西施",
-      "onboard_time": 1757513125,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 186730,
@@ -5601,14 +5649,6 @@
       "onboard_time": 1757299582,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 175059,
-      "num": 159096,
-      "word": "影视飓风Tim现场掰了iPhone",
-      "onboard_time": 1757514085,
-      "rank": 36,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 174705,
@@ -6268,7 +6308,7 @@
     },
     {
       "raw_hot": 162529,
-      "num": 162529,
+      "num": 207504,
       "word": "荣耀高管称Magic8是真AI手机",
       "onboard_time": 1757511504,
       "rank": 29,
@@ -6489,14 +6529,6 @@
       "onboard_time": 1757338524,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158949,
-      "num": 158949,
-      "word": "上海老人房子被孙女砸成废墟",
-      "onboard_time": 1757511924,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158434,
@@ -8571,6 +8603,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 129177,
+      "num": 129177,
+      "word": "沈阳以最高礼遇迎英雄回家",
+      "onboard_time": 1757514445,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 129164,
       "num": 129164,
       "word": "i狗和i人参加聚会一个样",
@@ -10067,6 +10107,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 112603,
+      "num": 203671,
+      "word": "高圆圆代言腾势N9",
+      "onboard_time": 1757509644,
+      "rank": 22,
+      "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 112533,
+      "num": 112533,
+      "word": "饿了么宣布取消超时扣款",
+      "onboard_time": 1757512885,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112501,
       "num": 112501,
       "word": "实习工资 5个桃子",
@@ -10488,6 +10544,14 @@
       "word": "A股两市成交额萎缩超3000亿",
       "onboard_time": 1757405962,
       "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 108446,
+      "num": 108446,
+      "word": "单日最大财富增长纪录诞生",
+      "onboard_time": 1757514805,
+      "rank": 43,
       "category": "财经"
     },
     {
@@ -11308,7 +11372,7 @@
     },
     {
       "raw_hot": 98010,
-      "num": 163039,
+      "num": 208212,
       "word": "智己LS6价格一出全体起立",
       "onboard_time": 1757512045,
       "rank": 27,
@@ -11353,6 +11417,14 @@
       "onboard_time": 1757218221,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97114,
+      "num": 97114,
+      "word": "尘白禁区",
+      "onboard_time": 1757514503,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 96993,
@@ -11417,6 +11489,14 @@
       "onboard_time": 1757224822,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95948,
+      "num": 95948,
+      "word": "TES好强",
+      "onboard_time": 1757514864,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 95820,
@@ -11521,6 +11601,14 @@
       "onboard_time": 1757500402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94441,
+      "num": 94441,
+      "word": "教师节 硕博生的学术大拜年",
+      "onboard_time": 1757514025,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 94431,
@@ -11707,14 +11795,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 90360,
-      "num": 90360,
-      "word": "教师节 硕博生的学术大拜年",
-      "onboard_time": 1757514025,
-      "rank": 47,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 90069,
       "num": 90069,
       "word": "周深加盟总台音乐人才选拔节目",
@@ -11873,14 +11953,6 @@
       "onboard_time": 1757503343,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86104,
-      "num": 203671,
-      "word": "高圆圆代言腾势N9",
-      "onboard_time": 1757509644,
-      "rank": 22,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 86078,
@@ -12361,14 +12433,6 @@
       "onboard_time": 1757395761,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73788,
-      "num": 191603,
-      "word": "古巴全国电力中断",
-      "onboard_time": 1757513184,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73620,
@@ -14179,8 +14243,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5624,
-      "num": 425868,
+      "raw_hot": 6106,
+      "num": 465126,
       "word": "我国制造业规模连续15年全球第一",
       "onboard_time": 1757385801,
       "rank": 2,
