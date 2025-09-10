@@ -1,0 +1,410 @@
+{
+  "runTime": 1757469985594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2834395,
+        "num": 2834395,
+        "word": "李晨 鹿晗",
+        "onboard_time": 1757466803,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 928701,
+        "num": 928701,
+        "word": "最贵iPhone诞生",
+        "onboard_time": 1757462301,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 6304,
+        "num": 821221,
+        "word": "为啥歼10是争气机",
+        "onboard_time": 1757314282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 735131,
+        "num": 735131,
+        "word": "教师节",
+        "onboard_time": 1757459480,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 404788,
+        "num": 404788,
+        "word": "宋雨琦特别感谢王安宇的出演",
+        "onboard_time": 1757465543,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1742189,
+        "num": 394790,
+        "word": "iPhone17系列价格",
+        "onboard_time": 1757441956,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 316785,
+        "num": 316785,
+        "word": "卡塔尔首都多哈发生剧烈爆炸",
+        "onboard_time": 1757424083,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265508,
+        "num": 265508,
+        "word": "教师节快乐",
+        "onboard_time": 1757464106,
+        "rank": 7,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1081987,
+        "num": 264405,
+        "word": "iPhone17",
+        "onboard_time": 1757439376,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 241748,
+        "num": 241748,
+        "word": "中医说张小婉对男孩子的防备心重",
+        "onboard_time": 1757462782,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1114285,
+        "num": 239042,
+        "word": "黄景瑜前妻 俩孩子一个被他打没了",
+        "onboard_time": 1757430924,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782260,
+        "num": 236722,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1757441416,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 573890,
+        "num": 234211,
+        "word": "卡塔尔",
+        "onboard_time": 1757465423,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 443111,
+        "num": 230034,
+        "word": "辛芷蕾拿了影后刘冲再也没有发过花絮",
+        "onboard_time": 1757460200,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 586098,
+        "num": 224606,
+        "word": "苹果发布会",
+        "onboard_time": 1757431282,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 433559,
+        "num": 224404,
+        "word": "尼泊尔",
+        "onboard_time": 1757464042,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 391180,
+        "num": 218778,
+        "word": "吴雅婷回应王栎鑫患焦虑症",
+        "onboard_time": 1757460018,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217471,
+        "num": 217471,
+        "word": "九三阅兵观礼座被二次利用了",
+        "onboard_time": 1757425164,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199255,
+        "num": 199255,
+        "word": "苹果发布会彩蛋有王嘉尔",
+        "onboard_time": 1757467523,
+        "rank": 18,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 131257,
+        "num": 193393,
+        "word": "受阅运20将赴韩接志愿军英烈回家",
+        "onboard_time": 1757469621,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337098,
+        "num": 192442,
+        "word": "苹果的牙膏挤爆了",
+        "onboard_time": 1757440456,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 295618,
+        "num": 191931,
+        "word": "那个拒绝感动中国提名的德国人现状",
+        "onboard_time": 1757463083,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190613,
+        "num": 190613,
+        "word": "卡塔尔否认美国提前示警",
+        "onboard_time": 1757466200,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292581,
+        "num": 182206,
+        "word": "马丁 朱志鑫",
+        "onboard_time": 1757467222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198167,
+        "num": 179387,
+        "word": "苹果连发7个燃",
+        "onboard_time": 1757468782,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170453,
+        "num": 170453,
+        "word": "特朗普说不是我让以色列袭击卡塔尔",
+        "onboard_time": 1757468361,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165661,
+        "num": 165661,
+        "word": "赴山海",
+        "onboard_time": 1757468602,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164084,
+        "num": 164084,
+        "word": "苹果市值一夜蒸发超3700亿",
+        "onboard_time": 1757466143,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141235,
+        "num": 162969,
+        "word": "游本昌和妻子在养老院现状",
+        "onboard_time": 1757423543,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127435,
+        "num": 162756,
+        "word": "各科老师经典语录",
+        "onboard_time": 1757469263,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 166439,
+        "num": 162738,
+        "word": "为什么接吻的时候闻不到对方口臭",
+        "onboard_time": 1757427265,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162665,
+        "num": 162665,
+        "word": "孙莉更新黄多多vlog",
+        "onboard_time": 1757468244,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157531,
+        "num": 157531,
+        "word": "中国移动回应eSIM问题",
+        "onboard_time": 1757467884,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153941,
+        "num": 153941,
+        "word": "iPhone17颜色",
+        "onboard_time": 1757439796,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146609,
+        "num": 146609,
+        "word": "AirPodsPro3",
+        "onboard_time": 1757463744,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142969,
+        "num": 142969,
+        "word": "卢伟冰大赞iPhone17系列",
+        "onboard_time": 1757465184,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132882,
+        "num": 132882,
+        "word": "周扬青自曝妈妈不想让她恋爱",
+        "onboard_time": 1757451014,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122309,
+        "num": 122309,
+        "word": "iPhone17和iPhone16充电速度对比",
+        "onboard_time": 1757468301,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120290,
+        "num": 120290,
+        "word": "我的手机要低人一等了",
+        "onboard_time": 1757437757,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110497,
+        "num": 116429,
+        "word": "毛新宇携妻女到毛主席纪念堂祭奠",
+        "onboard_time": 1757465363,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116195,
+        "num": 116195,
+        "word": "教师节图片",
+        "onboard_time": 1757469861,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 115447,
+        "num": 115447,
+        "word": "iPhone17Pro",
+        "onboard_time": 1757442076,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114865,
+        "num": 114865,
+        "word": "分手后被前女友告强奸男方家属发声",
+        "onboard_time": 1757466743,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113201,
+        "num": 113201,
+        "word": "朝鲜民众庆祝国庆画面",
+        "onboard_time": 1757469501,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110529,
+        "num": 110529,
+        "word": "你回个嗯我就算有遗言都不想说了",
+        "onboard_time": 1757469742,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109677,
+        "num": 109677,
+        "word": "iPhoneAir充电口未居中",
+        "onboard_time": 1757464223,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90590,
+        "num": 109422,
+        "word": "男子鼻痛18年疑骨瘤开刀取出3cm树枝",
+        "onboard_time": 1757458879,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87350,
+        "num": 107902,
+        "word": "宋雨琦王安宇MV公开",
+        "onboard_time": 1757465964,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85058,
+        "num": 105931,
+        "word": "不二之臣 男女主",
+        "onboard_time": 1757460200,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84658,
+        "num": 104177,
+        "word": "烈士遗骸迎回仪式",
+        "onboard_time": 1757469922,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大教师致以节日祝贺#"
+    }
+  }
+}
