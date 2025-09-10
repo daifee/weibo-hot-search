@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757542978854,
+  "endTime": 1757543968885,
   "band_list": [
     {
       "raw_hot": 901899,
@@ -187,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164170,
+      "num": 164170,
+      "word": "117名韩国女性首次直接起诉美军",
+      "onboard_time": 1757523617,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153650,
       "num": 153650,
       "word": "西贝回应被吐槽是预制菜",
@@ -211,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142703,
+      "num": 134539,
+      "word": "外卖已经让我对食物的价格失感了",
+      "onboard_time": 1757516483,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138002,
       "num": 138002,
       "word": "内娱现役法拉利肖战",
       "onboard_time": 1757511084,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134539,
-      "num": 134539,
-      "word": "外卖已经让我对食物的价格失感了",
-      "onboard_time": 1757516483,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 127682,
@@ -243,12 +251,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 108135,
-      "num": 108135,
-      "word": "117名韩国女性首次直接起诉美军",
-      "onboard_time": 1757523617,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 117539,
+      "num": 117539,
+      "word": "以军袭击卡塔尔白宫简报室挤爆了",
+      "onboard_time": 1757521880,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 106642,
+      "num": 106642,
+      "word": "住了近十年才知道小区绿化是租来的",
+      "onboard_time": 1757518584,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 106328,
@@ -275,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88486,
+      "num": 88486,
+      "word": "山西博物院回应拟录用多位海归博士",
+      "onboard_time": 1757541254,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86743,
       "num": 86743,
       "word": "福建被继母生父虐死女孩体重仅40斤",
       "onboard_time": 1757517323,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85659,
-      "num": 85659,
-      "word": "以军袭击卡塔尔白宫简报室挤爆了",
-      "onboard_time": 1757521880,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83113,
@@ -305,14 +321,6 @@
       "onboard_time": 1757515765,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 81783,
-      "num": 81783,
-      "word": "住了近十年才知道小区绿化是租来的",
-      "onboard_time": 1757518584,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 80815,
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45543,
+      "num": 45543,
+      "word": "男子失踪7年后在黑砖窑被警方解救",
+      "onboard_time": 1757518822,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44997,
       "num": 67660,
       "word": "玉兰花开君再来 杨紫成毅",
@@ -435,28 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39766,
-      "num": 39766,
-      "word": "山西博物院回应拟录用多位海归博士",
-      "onboard_time": 1757541254,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39504,
       "num": 49336,
       "word": "洗榴莲把果肉洗没了",
       "onboard_time": 1757524398,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37984,
-      "num": 37984,
-      "word": "男子失踪7年后在黑砖窑被警方解救",
-      "onboard_time": 1757518822,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36621,
@@ -491,12 +491,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24765,
-      "num": 24765,
+      "raw_hot": 31523,
+      "num": 31523,
+      "word": "哈马斯高层或因土耳其预警躲过一劫",
+      "onboard_time": 1757533633,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 30465,
+      "num": 30465,
       "word": "卡塔尔称以色列是地区霸凌者",
       "onboard_time": 1757531954,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26340,
+      "num": 27993,
+      "word": "星巴克回应员工卖不出月饼自购",
+      "onboard_time": 1757529075,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23991,
@@ -507,23 +523,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 23568,
-      "num": 23568,
-      "word": "哈马斯高层或因土耳其预警躲过一劫",
-      "onboard_time": 1757533633,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 22484,
-      "num": 26100,
-      "word": "星巴克回应员工卖不出月饼自购",
-      "onboard_time": 1757529075,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19834,
+      "raw_hot": 21623,
       "num": 28906,
       "word": "成毅歌声里有侠气",
       "onboard_time": 1757530155,
