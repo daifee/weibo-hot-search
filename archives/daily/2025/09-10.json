@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757517990153,
+  "endTime": 1757518820058,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1778330,
-      "num": 247622,
+      "num": 256471,
       "word": "曝一念江南没有男演员愿意接",
       "onboard_time": 1757512584,
       "rank": 20,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1563625,
-      "num": 251215,
+      "num": 251957,
       "word": "曝高学历小花是木头美人",
       "onboard_time": 1757510783,
       "rank": 24,
@@ -331,12 +331,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 649871,
+      "num": 244833,
+      "word": "一念江南 陈都灵",
+      "onboard_time": 1757517503,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 649725,
       "num": 572950,
       "word": "张维伊换造型",
       "onboard_time": 1757471183,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 644808,
+      "num": 240197,
+      "word": "一念江南 王安宇",
+      "onboard_time": 1757516844,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 641911,
@@ -475,6 +491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 507640,
+      "num": 507640,
+      "word": "震耳欲聋",
+      "onboard_time": 1757514744,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 507138,
       "num": 507138,
       "word": "新建黄岩岛国家级自然保护区",
@@ -505,14 +529,6 @@
       "onboard_time": 1757498362,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 501471,
-      "num": 501471,
-      "word": "震耳欲聋",
-      "onboard_time": 1757514744,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 493928,
@@ -569,6 +585,14 @@
       "onboard_time": 1757484862,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448620,
+      "num": 448620,
+      "word": "拉里埃里森成全球首富",
+      "onboard_time": 1757515825,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 444627,
@@ -731,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379067,
-      "num": 234639,
-      "word": "一念江南 王安宇",
-      "onboard_time": 1757516844,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377105,
       "num": 377105,
       "word": "史上最薄iPhone",
@@ -761,14 +777,6 @@
       "onboard_time": 1757513184,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 366452,
-      "num": 366452,
-      "word": "拉里埃里森成全球首富",
-      "onboard_time": 1757515825,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 347403,
@@ -843,19 +851,19 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 317135,
-      "num": 233698,
-      "word": "一念江南 陈都灵",
-      "onboard_time": 1757517503,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315008,
       "num": 315008,
       "word": "郑州非必要不外出",
       "onboard_time": 1757511383,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307091,
+      "num": 307091,
+      "word": "上海老人房子被孙女砸成废墟",
+      "onboard_time": 1757511924,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -865,6 +873,14 @@
       "onboard_time": 1757462782,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302187,
+      "num": 227817,
+      "word": "少女遭体罚死前求助信被老师拦截",
+      "onboard_time": 1757517025,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292581,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1757487921,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 237042,
-      "num": 237042,
-      "word": "上海老人房子被孙女砸成废墟",
-      "onboard_time": 1757511924,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234825,
@@ -1795,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165588,
+      "num": 165588,
+      "word": "饿了么宣布取消超时扣款",
+      "onboard_time": 1757512885,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 165125,
       "num": 165125,
       "word": "管乐回应粉丝",
@@ -1899,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160784,
-      "num": 160784,
-      "word": "少女遭体罚死前求助信被老师拦截",
-      "onboard_time": 1757517025,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "田栩宁星火繁花",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1757507243,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158772,
-      "num": 158772,
-      "word": "饿了么宣布取消超时扣款",
-      "onboard_time": 1757512885,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 158223,
@@ -2851,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115135,
+      "num": 173757,
+      "word": "银河左岸音乐节阵容",
+      "onboard_time": 1757515765,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114820,
       "num": 126024,
       "word": "毛新宇携妻女到毛主席纪念堂祭奠",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1757509644,
       "rank": 22,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 112505,
-      "num": 157134,
-      "word": "银河左岸音乐节阵容",
-      "onboard_time": 1757515765,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 111335,
@@ -3043,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104576,
+      "num": 104576,
+      "word": "使用司美格鲁肽可能发生的不良反应",
+      "onboard_time": 1757518284,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103389,
       "num": 103389,
       "word": "柯淳是怎么说服邵子恒陪他抽象的",
@@ -3081,6 +3089,14 @@
       "onboard_time": 1757505862,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100117,
+      "num": 100117,
+      "word": "胖东来错打价签火速退款又补偿200",
+      "onboard_time": 1757518163,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100033,
@@ -3265,6 +3281,14 @@
       "onboard_time": 1757460200,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89175,
+      "num": 89175,
+      "word": "住了近十年才知道小区绿化是租来的",
+      "onboard_time": 1757518584,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 89052,
@@ -3819,6 +3843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44889,
+      "num": 232801,
+      "word": "夫妻在合租房生娃被赶将重找住处",
+      "onboard_time": 1757517624,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44877,
       "num": 44877,
       "word": "iPhone17手机壳",
@@ -4017,14 +4049,6 @@
       "onboard_time": 1757468301,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 20451,
-      "num": 232801,
-      "word": "夫妻在合租房生娃被赶将重找住处",
-      "onboard_time": 1757517624,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19117,

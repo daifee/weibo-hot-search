@@ -1,0 +1,410 @@
+{
+  "runTime": 1757518820058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758289,
+        "num": 1121326,
+        "word": "微信更新",
+        "onboard_time": 1757507062,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 507640,
+        "num": 507640,
+        "word": "震耳欲聋",
+        "onboard_time": 1757514744,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 4806,
+        "num": 466009,
+        "word": "我国制造业规模连续15年全球第一",
+        "onboard_time": 1757385801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448620,
+        "num": 448620,
+        "word": "拉里埃里森成全球首富",
+        "onboard_time": 1757515825,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392135,
+        "num": 392135,
+        "word": "西贝回应被吐槽是预制菜",
+        "onboard_time": 1757510604,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 385897,
+        "num": 385897,
+        "word": "影视飓风Tim现场掰了iPhone",
+        "onboard_time": 1757514085,
+        "rank": 5,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 336440,
+        "num": 336440,
+        "word": "盛世天下",
+        "onboard_time": 1757514145,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313567,
+        "num": 313567,
+        "word": "杨超越瓜子西施",
+        "onboard_time": 1757513125,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307091,
+        "num": 307091,
+        "word": "上海老人房子被孙女砸成废墟",
+        "onboard_time": 1757511924,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258632,
+        "num": 258632,
+        "word": "古巴全国电力中断",
+        "onboard_time": 1757513184,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1475282,
+        "num": 256471,
+        "word": "曝一念江南没有男演员愿意接",
+        "onboard_time": 1757512584,
+        "rank": 10,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 896268,
+        "num": 254177,
+        "word": "黄子韬徐艺洋拍婚纱照了",
+        "onboard_time": 1757511564,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759396,
+        "num": 251957,
+        "word": "曝高学历小花是木头美人",
+        "onboard_time": 1757510783,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735757,
+        "num": 248578,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649871,
+        "num": 244833,
+        "word": "一念江南 陈都灵",
+        "onboard_time": 1757517503,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476751,
+        "num": 242882,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644808,
+        "num": 240197,
+        "word": "一念江南 王安宇",
+        "onboard_time": 1757516844,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426444,
+        "num": 235557,
+        "word": "6旬大爷裸聊主播8天花光全部积蓄",
+        "onboard_time": 1757501301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313844,
+        "num": 234221,
+        "word": "聚是七个蛋 散是鸡蛋羹",
+        "onboard_time": 1757502742,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44889,
+        "num": 231127,
+        "word": "夫妻在合租房生娃被赶将重找住处",
+        "onboard_time": 1757517624,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302187,
+        "num": 227817,
+        "word": "少女遭体罚死前求助信被老师拦截",
+        "onboard_time": 1757517025,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259580,
+        "num": 224302,
+        "word": "刘浩存好明媚",
+        "onboard_time": 1757510604,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222442,
+        "num": 222442,
+        "word": "煮方便面vs泡方便面",
+        "onboard_time": 1757500402,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185119,
+        "num": 185119,
+        "word": "人民日报谈粉丝追星围堵高铁站",
+        "onboard_time": 1757517203,
+        "rank": 23,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 181075,
+        "num": 181075,
+        "word": "人民网评斩断流量明星招摇过市推手",
+        "onboard_time": 1757510903,
+        "rank": 24,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 123171,
+        "num": 180365,
+        "word": "闪光灯没闪过孙俪",
+        "onboard_time": 1757515346,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118623,
+        "num": 176363,
+        "word": "檀健次震耳欲聋看片反馈",
+        "onboard_time": 1757517085,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115135,
+        "num": 173757,
+        "word": "银河左岸音乐节阵容",
+        "onboard_time": 1757515765,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218260,
+        "num": 171210,
+        "word": "林更新还回内娱吗",
+        "onboard_time": 1757505202,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74962,
+        "num": 169061,
+        "word": "号称国际名牌的膏药贴成本仅2元",
+        "onboard_time": 1757516724,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 185942,
+        "num": 165981,
+        "word": "内娱现役法拉利肖战",
+        "onboard_time": 1757511084,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165588,
+        "num": 165588,
+        "word": "饿了么宣布取消超时扣款",
+        "onboard_time": 1757512885,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152315,
+        "num": 152315,
+        "word": "未拴绳大狗撞倒女子致其当场死亡",
+        "onboard_time": 1757495964,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92027,
+        "num": 152099,
+        "word": "陈伟霆张家人真的不会老",
+        "onboard_time": 1757505562,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151906,
+        "num": 151906,
+        "word": "偶遇杨洋在夏威夷吃川菜",
+        "onboard_time": 1757514984,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148283,
+        "num": 148283,
+        "word": "郑州非必要不外出",
+        "onboard_time": 1757511383,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146711,
+        "num": 146711,
+        "word": "外卖已经让我对食物的价格失感了",
+        "onboard_time": 1757516483,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144366,
+        "num": 144366,
+        "word": "这才是女生眼里的男友干净穿搭",
+        "onboard_time": 1757516543,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133586,
+        "num": 133586,
+        "word": "甲骨文",
+        "onboard_time": 1757514744,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112960,
+        "num": 112960,
+        "word": "郭焱谈孙颖莎发球被裁判提醒",
+        "onboard_time": 1757508441,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108399,
+        "num": 108399,
+        "word": "尔冬升与9岁女儿合照",
+        "onboard_time": 1757510422,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104576,
+        "num": 104576,
+        "word": "使用司美格鲁肽可能发生的不良反应",
+        "onboard_time": 1757518284,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100117,
+        "num": 100117,
+        "word": "胖东来错打价签火速退款又补偿200",
+        "onboard_time": 1757518163,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98055,
+        "num": 98055,
+        "word": "教师节 硕博生的学术大拜年",
+        "onboard_time": 1757514025,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 96006,
+        "num": 96006,
+        "word": "黄岩岛国家级自然保护区",
+        "onboard_time": 1757502022,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93058,
+        "num": 93058,
+        "word": "曝男流量在采访间抽烟",
+        "onboard_time": 1757511084,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91322,
+        "num": 91322,
+        "word": "玉兰花开君再来 杨紫成毅",
+        "onboard_time": 1757500522,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91116,
+        "num": 91116,
+        "word": "李昀锐古力娜扎同框",
+        "onboard_time": 1757516185,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90599,
+        "num": 90599,
+        "word": "新建黄岩岛国家级自然保护区",
+        "onboard_time": 1757495903,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89175,
+        "num": 89175,
+        "word": "住了近十年才知道小区绿化是租来的",
+        "onboard_time": 1757518584,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对广大教师的殷切寄语#"
+    }
+  }
+}
