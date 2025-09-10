@@ -1,0 +1,410 @@
+{
+  "runTime": 1757489055917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 489545,
+        "num": 1078327,
+        "word": "花中国的钱插刀中国绝不容忍",
+        "onboard_time": 1757480004,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413880,
+        "num": 413880,
+        "word": "男子高铁座位上旁若无人抽烟",
+        "onboard_time": 1757480425,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25109,
+        "num": 413210,
+        "word": "当网警遇上教师节他们是别样的教师",
+        "onboard_time": 1757479646,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446794,
+        "num": 406922,
+        "word": "花2000万买房又花188万买家装包",
+        "onboard_time": 1757484862,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326502,
+        "num": 399502,
+        "word": "火箭军倒查9年揪出采购掮客",
+        "onboard_time": 1757487742,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477118,
+        "num": 396403,
+        "word": "赵磊上婚综是为了正式介绍太太",
+        "onboard_time": 1757476644,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430267,
+        "num": 391265,
+        "word": "巩俐周迅赵丽颖倪妮祝贺辛芷蕾",
+        "onboard_time": 1757481623,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 424236,
+        "num": 382372,
+        "word": "韩国iPhoneAir没有捏合手势",
+        "onboard_time": 1757483904,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 279912,
+        "num": 378637,
+        "word": "日本民众喊话石平滚出日本",
+        "onboard_time": 1757477726,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207429,
+        "num": 370507,
+        "word": "网红柴怼怼被警方带走调查",
+        "onboard_time": 1757487443,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1264155,
+        "num": 364906,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602749,
+        "num": 359613,
+        "word": "管乐疑似把粉丝送的礼物送给相亲对象",
+        "onboard_time": 1757482404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593822,
+        "num": 355117,
+        "word": "iPhone16背刺最大一代",
+        "onboard_time": 1757477244,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 548099,
+        "num": 348891,
+        "word": "豆沙馅真的塌房了",
+        "onboard_time": 1757486482,
+        "rank": 13,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 479299,
+        "num": 343330,
+        "word": "娜扎把杨幂编辑掉了",
+        "onboard_time": 1757475564,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342042,
+        "num": 342042,
+        "word": "辛芷蕾手机要爆炸了",
+        "onboard_time": 1757486062,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339842,
+        "num": 339842,
+        "word": "洗澡三小时 客户被盘了一个半小时",
+        "onboard_time": 1757481803,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37854,
+        "num": 315199,
+        "word": "传统点评榜单不该是餐饮指挥棒",
+        "onboard_time": 1757485463,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305485,
+        "num": 305485,
+        "word": "黄景瑜前妻 俩孩子一个被他打没了",
+        "onboard_time": 1757430924,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251458,
+        "num": 251458,
+        "word": "中国空军运20接30名烈士回家",
+        "onboard_time": 1757487261,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272920,
+        "num": 249887,
+        "word": "那英在英国陪女儿读书",
+        "onboard_time": 1757488103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148861,
+        "num": 240071,
+        "word": "高德每天为线下店多带1000万消费者",
+        "onboard_time": 1757486123,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157483,
+        "num": 239730,
+        "word": "张艺兴张艺谋合照",
+        "onboard_time": 1757487862,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239666,
+        "num": 239666,
+        "word": "iPhone17",
+        "onboard_time": 1757439376,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215943,
+        "num": 215943,
+        "word": "高德扫街榜给传统美食榜挤水分",
+        "onboard_time": 1757487921,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206697,
+        "num": 206697,
+        "word": "12306回应男子高铁抽烟被民警带走",
+        "onboard_time": 1757482885,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168425,
+        "num": 168425,
+        "word": "大黄胡楚靓 远离low货",
+        "onboard_time": 1757476466,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166542,
+        "num": 166542,
+        "word": "部分人买iPhone竟然因其保值",
+        "onboard_time": 1757489002,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166245,
+        "num": 166245,
+        "word": "月经3天干净和7天干净都一样",
+        "onboard_time": 1757487323,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149690,
+        "num": 165167,
+        "word": "花少7真的把马思纯养的很好",
+        "onboard_time": 1757488582,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89738,
+        "num": 165127,
+        "word": "民警回应柴怼怼被立案调查",
+        "onboard_time": 1757488883,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165125,
+        "num": 165125,
+        "word": "管乐回应粉丝",
+        "onboard_time": 1757486903,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159908,
+        "num": 159908,
+        "word": "田栩宁星火繁花",
+        "onboard_time": 1757488162,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158992,
+        "num": 158992,
+        "word": "iPhone17 关闭摇一摇广告",
+        "onboard_time": 1757484442,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137196,
+        "num": 137196,
+        "word": "成毅新剧一胎三胞",
+        "onboard_time": 1757486542,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138397,
+        "num": 136847,
+        "word": "pdf不行 得PDF才行",
+        "onboard_time": 1757488703,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136298,
+        "num": 136298,
+        "word": "吴奇隆 我的祖籍是福建泉州",
+        "onboard_time": 1757488162,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110176,
+        "num": 136147,
+        "word": "武艺为了付辛博快点结婚吧",
+        "onboard_time": 1757488522,
+        "rank": 37,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 53231,
+        "num": 136139,
+        "word": "花30万娶的老婆一个月不到跑了",
+        "onboard_time": 1757488582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134470,
+        "num": 136136,
+        "word": "费启鸣演我看到iPhone17",
+        "onboard_time": 1757484625,
+        "rank": 39,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 136134,
+        "num": 136134,
+        "word": "肖战一觉醒来被判了一千兆年",
+        "onboard_time": 1757477785,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135397,
+        "num": 135397,
+        "word": "许荔莎现身配合警方调查",
+        "onboard_time": 1757484383,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156294,
+        "num": 134493,
+        "word": "iPhone17ProMax离谱手机壳",
+        "onboard_time": 1757484743,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129960,
+        "num": 129960,
+        "word": "教师节快乐",
+        "onboard_time": 1757464106,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 241185,
+        "num": 129729,
+        "word": "田栩宁费加罗九月刊封面预告",
+        "onboard_time": 1757482344,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129164,
+        "num": 129164,
+        "word": "i狗和i人参加聚会一个样",
+        "onboard_time": 1757487561,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 129115,
+        "word": "苹果发布会",
+        "onboard_time": 1757431282,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129043,
+        "num": 129043,
+        "word": "刘宇宁臀部翘到可以顶一瓶汽水",
+        "onboard_time": 1757487683,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122053,
+        "num": 122053,
+        "word": "贵州文昌阁多只小猫被挖眼砍断四肢",
+        "onboard_time": 1757482285,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117891,
+        "num": 117891,
+        "word": "别人赴山海周深赴情海",
+        "onboard_time": 1757488522,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记和人民教师的温暖瞬间#"
+    }
+  }
+}
