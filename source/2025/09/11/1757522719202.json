@@ -1,0 +1,410 @@
+{
+  "runTime": 1757522719202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 592009,
+        "num": 761666,
+        "word": "人民日报谈粉丝追星围堵高铁站",
+        "onboard_time": 1757517203,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 414040,
+        "num": 414040,
+        "word": "微信更新",
+        "onboard_time": 1757507062,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3306,
+        "num": 275951,
+        "word": "我国制造业规模连续15年全球第一",
+        "onboard_time": 1757385801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244170,
+        "num": 244170,
+        "word": "拉里埃里森成全球首富",
+        "onboard_time": 1757515825,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185917,
+        "num": 185917,
+        "word": "上海老人房子被孙女砸成废墟",
+        "onboard_time": 1757511924,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157582,
+        "num": 157582,
+        "word": "影视飓风Tim现场掰了iPhone",
+        "onboard_time": 1757514085,
+        "rank": 5,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 132801,
+        "num": 132801,
+        "word": "震耳欲聋",
+        "onboard_time": 1757514744,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132517,
+        "num": 132517,
+        "word": "盛世天下",
+        "onboard_time": 1757514145,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122037,
+        "num": 122037,
+        "word": "杨超越瓜子西施",
+        "onboard_time": 1757513125,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109648,
+        "num": 109648,
+        "word": "西贝回应被吐槽是预制菜",
+        "onboard_time": 1757510604,
+        "rank": 9,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 684820,
+        "num": 109639,
+        "word": "曝一念江南没有男演员愿意接",
+        "onboard_time": 1757512584,
+        "rank": 10,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 580260,
+        "num": 109613,
+        "word": "少女遭体罚死前求助信被老师拦截",
+        "onboard_time": 1757517025,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508778,
+        "num": 109580,
+        "word": "一念江南 陈都灵",
+        "onboard_time": 1757517503,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442835,
+        "num": 109546,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425012,
+        "num": 109539,
+        "word": "曝高学历小花是木头美人",
+        "onboard_time": 1757510783,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420595,
+        "num": 109492,
+        "word": "黄子韬徐艺洋拍婚纱照了",
+        "onboard_time": 1757511564,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343026,
+        "num": 109464,
+        "word": "一念江南 王安宇",
+        "onboard_time": 1757516844,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339252,
+        "num": 109443,
+        "word": "关晓彤日更",
+        "onboard_time": 1757520622,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237634,
+        "num": 109407,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229120,
+        "num": 109402,
+        "word": "6旬大爷裸聊主播8天花光全部积蓄",
+        "onboard_time": 1757501301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166495,
+        "num": 109362,
+        "word": "聚是七个蛋 散是鸡蛋羹",
+        "onboard_time": 1757502742,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151315,
+        "num": 109330,
+        "word": "林更新还回内娱吗",
+        "onboard_time": 1757505202,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141607,
+        "num": 109300,
+        "word": "张维伊清爽了",
+        "onboard_time": 1757521519,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112942,
+        "num": 109269,
+        "word": "内娱现役法拉利肖战",
+        "onboard_time": 1757511084,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109268,
+        "num": 109268,
+        "word": "网红罗大美遇害近800天家属再发声",
+        "onboard_time": 1757519423,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100548,
+        "num": 109232,
+        "word": "人民网评斩断流量明星招摇过市推手",
+        "onboard_time": 1757510903,
+        "rank": 25,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 58732,
+        "num": 109176,
+        "word": "银河左岸音乐节阵容",
+        "onboard_time": 1757515765,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91282,
+        "num": 109125,
+        "word": "湖南男子驾车碾死同学被判死缓",
+        "onboard_time": 1757521281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53648,
+        "num": 109112,
+        "word": "宋亚轩累了知道躺贺峻霖怀里",
+        "onboard_time": 1757510543,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 109075,
+        "num": 109075,
+        "word": "刘浩存好明媚",
+        "onboard_time": 1757510604,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102913,
+        "num": 102913,
+        "word": "外卖已经让我对食物的价格失感了",
+        "onboard_time": 1757516483,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97687,
+        "num": 97687,
+        "word": "煮方便面vs泡方便面",
+        "onboard_time": 1757500402,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84964,
+        "num": 84964,
+        "word": "偶遇杨洋在夏威夷吃川菜",
+        "onboard_time": 1757514984,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82840,
+        "num": 82840,
+        "word": "胖东来错打价签火速退款又补偿200",
+        "onboard_time": 1757518163,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77261,
+        "num": 77261,
+        "word": "甲骨文",
+        "onboard_time": 1757514744,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73365,
+        "num": 73365,
+        "word": "这才是女生眼里的男友干净穿搭",
+        "onboard_time": 1757516543,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52846,
+        "num": 72546,
+        "word": "李昀锐古力娜扎同框",
+        "onboard_time": 1757516185,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71792,
+        "num": 71792,
+        "word": "住了近十年才知道小区绿化是租来的",
+        "onboard_time": 1757518584,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 71762,
+        "num": 71762,
+        "word": "福建被继母生父虐死女孩体重仅40斤",
+        "onboard_time": 1757517323,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68549,
+        "num": 68549,
+        "word": "未拴绳大狗撞倒女子致其当场死亡",
+        "onboard_time": 1757495964,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67734,
+        "num": 67734,
+        "word": "尔冬升与9岁女儿合照",
+        "onboard_time": 1757510422,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58941,
+        "num": 67725,
+        "word": "曝男流量在采访间抽烟",
+        "onboard_time": 1757511084,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56955,
+        "num": 67722,
+        "word": "郑州非必要不外出",
+        "onboard_time": 1757511383,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53955,
+        "num": 67713,
+        "word": "郭焱谈孙颖莎发球被裁判提醒",
+        "onboard_time": 1757508441,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53865,
+        "num": 67707,
+        "word": "饿了么宣布取消超时扣款",
+        "onboard_time": 1757512885,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53253,
+        "num": 67696,
+        "word": "古巴全国电力中断",
+        "onboard_time": 1757513184,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51927,
+        "num": 67688,
+        "word": "以军袭击卡塔尔白宫简报室挤爆了",
+        "onboard_time": 1757521880,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51531,
+        "num": 67679,
+        "word": "教师节 硕博生的学术大拜年",
+        "onboard_time": 1757514025,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 46941,
+        "num": 67669,
+        "word": "闪光灯没闪过孙俪",
+        "onboard_time": 1757515346,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44997,
+        "num": 67660,
+        "word": "玉兰花开君再来 杨紫成毅",
+        "onboard_time": 1757500522,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对广大教师的殷切寄语#"
+    }
+  }
+}

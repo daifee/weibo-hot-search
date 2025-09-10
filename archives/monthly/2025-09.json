@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757521889165,
+  "endTime": 1757522719202,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3643,6 +3643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 592009,
+      "num": 761666,
+      "word": "人民日报谈粉丝追星围堵高铁站",
+      "onboard_time": 1757517203,
+      "rank": 32,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 590835,
       "num": 322478,
       "word": "梓渝60秒广告报价60万",
@@ -4273,14 +4281,6 @@
       "onboard_time": 1756740801,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 527525,
-      "num": 527525,
-      "word": "人民日报谈粉丝追星围堵高铁站",
-      "onboard_time": 1757517203,
-      "rank": 32,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 526046,
@@ -7059,6 +7059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 339252,
+      "num": 146220,
+      "word": "关晓彤日更",
+      "onboard_time": 1757520622,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338962,
       "num": 338962,
       "word": "真夫妻牵手走红毯就是好嗑",
@@ -8937,14 +8945,6 @@
       "onboard_time": 1756727421,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 252985,
-      "num": 146220,
-      "word": "关晓彤日更",
-      "onboard_time": 1757520622,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 252203,
@@ -17297,6 +17297,14 @@
       "onboard_time": 1757171783,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141607,
+      "num": 109300,
+      "word": "张维伊清爽了",
+      "onboard_time": 1757521519,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 141483,
@@ -25787,6 +25795,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 91282,
+      "num": 135910,
+      "word": "湖南男子驾车碾死同学被判死缓",
+      "onboard_time": 1757521281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91169,
       "num": 54032,
       "word": "这届网友保密意识很强",
@@ -27657,14 +27673,6 @@
       "onboard_time": 1757389463,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 75086,
-      "num": 75086,
-      "word": "张维伊清爽了",
-      "onboard_time": 1757521519,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 75084,
@@ -29651,6 +29659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51927,
+      "num": 67688,
+      "word": "以军袭击卡塔尔白宫简报室挤爆了",
+      "onboard_time": 1757521880,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51895,
       "num": 120045,
       "word": "微博奇遇记",
@@ -30273,14 +30289,6 @@
       "onboard_time": 1756636760,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41963,
-      "num": 135910,
-      "word": "湖南男子驾车碾死同学被判死缓",
-      "onboard_time": 1757521281,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41953,
