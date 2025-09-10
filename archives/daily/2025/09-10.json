@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757475252275,
+  "endTime": 1757475932963,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -123,6 +123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 596804,
+      "num": 1095488,
+      "word": "野狗骨头",
+      "onboard_time": 1757471601,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588196,
       "num": 468031,
       "word": "成人间的暧昧信息",
@@ -147,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 522369,
+      "num": 353924,
+      "word": "张惠妹决定无限期停工",
+      "onboard_time": 1757473825,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510597,
       "num": 184955,
       "word": "胡宾果住酒店被偷拍",
@@ -169,14 +185,6 @@
       "onboard_time": 1757460200,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 456937,
-      "num": 1073109,
-      "word": "野狗骨头",
-      "onboard_time": 1757471601,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 433559,
@@ -235,20 +243,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 347403,
+      "num": 241982,
+      "word": "辛芷蕾助理小号",
+      "onboard_time": 1757474184,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340037,
       "num": 1052950,
       "word": "非洲女孩被AI识别出黑眼圈",
       "onboard_time": 1757471061,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 334765,
-      "num": 334765,
-      "word": "张惠妹决定无限期停工",
-      "onboard_time": 1757473825,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 321832,
@@ -259,20 +267,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321335,
+      "num": 967681,
+      "word": "以色列攻击卡塔尔前一刻通知美方",
+      "onboard_time": 1757471301,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 321242,
       "num": 525858,
       "word": "教师节快乐",
       "onboard_time": 1757464106,
       "rank": 8,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 315861,
-      "num": 230469,
-      "word": "辛芷蕾助理小号",
-      "onboard_time": 1757474184,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 302925,
@@ -315,8 +323,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 278988,
-      "num": 189310,
+      "raw_hot": 280264,
+      "num": 232372,
       "word": "原来牙神经长这样",
       "onboard_time": 1757474005,
       "rank": 22,
@@ -331,20 +339,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268366,
-      "num": 967681,
-      "word": "以色列攻击卡塔尔前一刻通知美方",
-      "onboard_time": 1757471301,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 263208,
       "num": 1029812,
       "word": "九三阅兵观礼座被二次利用了",
       "onboard_time": 1757425164,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 253437,
+      "num": 229418,
+      "word": "娜扎把杨幂编辑掉了",
+      "onboard_time": 1757475564,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 251708,
@@ -363,12 +371,28 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 240756,
+      "num": 240756,
+      "word": "杨幂现身生万物研讨会",
+      "onboard_time": 1757474005,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229168,
       "num": 145023,
       "word": "曝布兰妮家里都是狗大便",
       "onboard_time": 1757426604,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228426,
+      "num": 228426,
+      "word": "气血不足的人常有这8个坏习惯",
+      "onboard_time": 1757473342,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 228319,
@@ -387,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219766,
+      "num": 219766,
+      "word": "马思纯回应网友让她和张晚意拍戏",
+      "onboard_time": 1757472983,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215257,
       "num": 199762,
       "word": "为什么接吻的时候闻不到对方口臭",
@@ -395,20 +427,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213146,
-      "num": 182610,
-      "word": "杨幂现身生万物研讨会",
-      "onboard_time": 1757474005,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 210163,
-      "num": 173073,
-      "word": "气血不足的人常有这8个坏习惯",
-      "onboard_time": 1757473342,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 202753,
+      "num": 202753,
+      "word": "纽约地铁乘客众目睽睽下刮脚",
+      "onboard_time": 1757473884,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 199839,
@@ -531,22 +555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 172207,
-      "num": 172207,
-      "word": "马思纯回应网友让她和张晚意拍戏",
-      "onboard_time": 1757472983,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 171789,
-      "num": 171789,
-      "word": "纽约地铁乘客众目睽睽下刮脚",
-      "onboard_time": 1757473884,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 171008,
       "num": 171008,
       "word": "中国移动回应eSIM问题",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 165972,
-      "num": 350242,
+      "num": 359579,
       "word": "祝老师节日快乐",
       "onboard_time": 1757473582,
       "rank": 33,
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148238,
+      "num": 148238,
+      "word": "当了老师后才知道学生请假理由多离谱",
+      "onboard_time": 1757475564,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148093,
       "num": 148093,
       "word": "iPhone17降价",
@@ -707,6 +723,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 138791,
+      "num": 138791,
+      "word": "2分钟的预告成毅打了60秒",
+      "onboard_time": 1757474905,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138451,
+      "num": 138451,
+      "word": "太胖无法变成液态回家的猫",
+      "onboard_time": 1757475085,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 137331,
+      "num": 137331,
+      "word": "纽约中央公园偶遇曾黎晨跑",
+      "onboard_time": 1757474424,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137062,
       "num": 137062,
       "word": "iPhoneAir充电口未居中",
@@ -731,12 +771,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134677,
+      "num": 257097,
+      "word": "朝鲜民众庆祝国庆画面",
+      "onboard_time": 1757469501,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134590,
       "num": 754947,
       "word": "男子鼻痛18年疑骨瘤开刀取出3cm树枝",
       "onboard_time": 1757458879,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133829,
+      "num": 133829,
+      "word": "4架歼20护航英雄回家",
+      "onboard_time": 1757475624,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132986,
@@ -747,12 +803,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132931,
-      "num": 257097,
-      "word": "朝鲜民众庆祝国庆画面",
-      "onboard_time": 1757469501,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 132972,
+      "num": 132972,
+      "word": "焦俊艳辟谣给papi酱发了8年红包",
+      "onboard_time": 1757475204,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 132864,
@@ -811,14 +867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 122527,
-      "num": 122527,
-      "word": "太胖无法变成液态回家的猫",
-      "onboard_time": 1757475085,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122476,
       "num": 122476,
       "word": "iphone17充电速度提升",
@@ -857,14 +905,6 @@
       "onboard_time": 1757473943,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117686,
-      "num": 117686,
-      "word": "纽约中央公园偶遇曾黎晨跑",
-      "onboard_time": 1757474424,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 116848,
@@ -929,14 +969,6 @@
       "onboard_time": 1757473164,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 111456,
-      "num": 111456,
-      "word": "焦俊艳辟谣给papi酱发了8年红包",
-      "onboard_time": 1757475204,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 111220,
@@ -1004,19 +1036,11 @@
     },
     {
       "raw_hot": 102612,
-      "num": 120076,
+      "num": 223746,
       "word": "民进党当局恋殖情结深重",
       "onboard_time": 1757473643,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 98750,
-      "num": 98750,
-      "word": "2分钟的预告成毅打了60秒",
-      "onboard_time": 1757474905,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 98699,
@@ -1243,6 +1267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 73431,
+      "num": 239246,
+      "word": "为什么大家又重新使用毛巾",
+      "onboard_time": 1757475204,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 72440,
       "num": 72440,
       "word": "单依纯 栩栩华生CEO",
@@ -1363,6 +1395,14 @@
       "category": "教育,读书作家"
     },
     {
+      "raw_hot": 50354,
+      "num": 236207,
+      "word": "自闭症学生遭劝退家长再发声",
+      "onboard_time": 1757475085,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49671,
       "num": 49671,
       "word": "疑似iPhone17Air国行包装盒",
@@ -1428,7 +1468,7 @@
     },
     {
       "raw_hot": 38522,
-      "num": 195477,
+      "num": 237781,
       "word": "朱一龙高情商送礼小课堂",
       "onboard_time": 1757474364,
       "rank": 19,
@@ -1451,11 +1491,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30614,
-      "num": 174382,
-      "word": "自闭症学生遭劝退家长再发声",
+      "raw_hot": 26984,
+      "num": 221415,
+      "word": "幼虎疑遭打头呲水强迫与游客合影",
       "onboard_time": 1757475085,
-      "rank": 32,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1467,28 +1507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24744,
-      "num": 135175,
-      "word": "为什么大家又重新使用毛巾",
-      "onboard_time": 1757475204,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 22134,
       "num": 22134,
       "word": "iPhone Air追星人必备",
       "onboard_time": 1757446634,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 20664,
-      "num": 176355,
-      "word": "幼虎疑遭打头呲水强迫与游客合影",
-      "onboard_time": 1757475085,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20612,
