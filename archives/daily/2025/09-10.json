@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757511811703,
+  "endTime": 1757514245578,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -67,6 +67,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1563625,
+      "num": 235324,
+      "word": "曝高学历小花是木头美人",
+      "onboard_time": 1757510783,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1545544,
+      "num": 201344,
+      "word": "黄子韬徐艺洋拍婚纱照了",
+      "onboard_time": 1757511564,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1469776,
       "num": 1469776,
       "word": "煮方便面vs泡方便面",
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1096068,
+      "num": 1175371,
+      "word": "微信更新",
+      "onboard_time": 1757507062,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1070811,
       "num": 874366,
       "word": "娜扎把杨幂编辑掉了",
@@ -113,6 +137,14 @@
       "onboard_time": 1757477244,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 996020,
+      "num": 198376,
+      "word": "张婧仪回复",
+      "onboard_time": 1757511622,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 965473,
@@ -153,14 +185,6 @@
       "onboard_time": 1757441416,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 873029,
-      "num": 1139684,
-      "word": "微信更新",
-      "onboard_time": 1757507062,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 871214,
@@ -257,14 +281,6 @@
       "onboard_time": 1757493982,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 694867,
-      "num": 235324,
-      "word": "曝高学历小花是木头美人",
-      "onboard_time": 1757510783,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 692652,
@@ -515,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 452797,
+      "num": 452797,
+      "word": "西贝回应被吐槽是预制菜",
+      "onboard_time": 1757510604,
+      "rank": 9,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 452371,
       "num": 412840,
       "word": "韩国iPhoneAir没有捏合手势",
@@ -585,6 +609,22 @@
       "onboard_time": 1757503223,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 411202,
+      "num": 189432,
+      "word": "曝一念江南没有男演员愿意接",
+      "onboard_time": 1757512584,
+      "rank": 20,
+      "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 406063,
+      "num": 218988,
+      "word": "刘浩存好明媚",
+      "onboard_time": 1757510604,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 404788,
@@ -675,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360319,
-      "num": 218988,
-      "word": "刘浩存好明媚",
-      "onboard_time": 1757510604,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347403,
       "num": 308406,
       "word": "辛芷蕾助理小号",
@@ -753,6 +785,14 @@
       "onboard_time": 1757464106,
       "rank": 8,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 315008,
+      "num": 315008,
+      "word": "郑州非必要不外出",
+      "onboard_time": 1757511383,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302925,
@@ -915,6 +955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 238443,
+      "num": 161992,
+      "word": "内娱现役法拉利肖战",
+      "onboard_time": 1757511084,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234825,
       "num": 234825,
       "word": "张静初的手",
@@ -928,6 +976,14 @@
       "word": "曝布兰妮家里都是狗大便",
       "onboard_time": 1757426604,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229004,
+      "num": 161340,
+      "word": "尔冬升与9岁女儿合照",
+      "onboard_time": 1757510422,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -955,6 +1011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 224826,
+      "num": 187697,
+      "word": "人民网评斩断流量明星招摇过市推手",
+      "onboard_time": 1757510903,
+      "rank": 28,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 224557,
       "num": 224557,
       "word": "6省国补资金违规使用过亿",
@@ -976,6 +1040,14 @@
       "word": "马思纯回应网友让她和张晚意拍戏",
       "onboard_time": 1757472983,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219147,
+      "num": 214581,
+      "word": "曝男流量在采访间抽烟",
+      "onboard_time": 1757511084,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1003,14 +1075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214581,
-      "num": 214581,
-      "word": "曝男流量在采访间抽烟",
-      "onboard_time": 1757511084,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213169,
       "num": 207555,
       "word": "费启鸣演我看到iPhone17",
@@ -1027,27 +1091,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207261,
-      "num": 161806,
-      "word": "内娱现役法拉利肖战",
-      "onboard_time": 1757511084,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206294,
       "num": 206294,
       "word": "巨型梁龙 人体蜈蚣",
       "onboard_time": 1757492243,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 205688,
-      "num": 144060,
-      "word": "尔冬升与9岁女儿合照",
-      "onboard_time": 1757510422,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1307,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186827,
+      "num": 186827,
+      "word": "杨超越瓜子西施",
+      "onboard_time": 1757513125,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186397,
       "num": 198547,
       "word": "每天喝咖啡是续命还是促癌",
@@ -1419,14 +1475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177656,
-      "num": 177656,
-      "word": "人民网评斩断流量明星招摇过市推手",
-      "onboard_time": 1757510903,
-      "rank": 28,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 177047,
       "num": 177047,
       "word": "梓渝重复练习动作认真调整细节",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1757428227,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175059,
+      "num": 159096,
+      "word": "影视飓风Tim现场掰了iPhone",
+      "onboard_time": 1757514085,
+      "rank": 36,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 174669,
@@ -1595,6 +1651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 166121,
+      "num": 166121,
+      "word": "张晚意的人生快离不开龚俊了",
+      "onboard_time": 1757508624,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166080,
       "num": 166080,
       "word": "韩国感觉后脑勺被打了一闷棍",
@@ -1699,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162529,
+      "num": 162529,
+      "word": "荣耀高管称Magic8是真AI手机",
+      "onboard_time": 1757511504,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 162516,
       "num": 162516,
       "word": "Apple Watch S11",
@@ -1739,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158949,
+      "num": 158949,
+      "word": "上海老人房子被孙女砸成废墟",
+      "onboard_time": 1757511924,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158223,
       "num": 158223,
       "word": "秘密世界 孟子义",
@@ -1777,14 +1857,6 @@
       "onboard_time": 1757482164,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154262,
-      "num": 249733,
-      "word": "西贝回应被吐槽是预制菜",
-      "onboard_time": 1757510604,
-      "rank": 9,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 151604,
@@ -1899,14 +1971,6 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 146408,
-      "num": 146408,
-      "word": "张晚意的人生快离不开龚俊了",
-      "onboard_time": 1757508624,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146075,
       "num": 146075,
       "word": "国乒男单已2人止步澳门赛首轮",
@@ -1939,20 +2003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144648,
-      "num": 144648,
-      "word": "荣耀高管称Magic8是真AI手机",
-      "onboard_time": 1757511504,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 144364,
       "num": 144364,
       "word": "iPhone17pro没有黑白色",
       "onboard_time": 1757464042,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143810,
+      "num": 143810,
+      "word": "多名滥用减重处方药者出现副作用",
+      "onboard_time": 1757512286,
+      "rank": 38,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 143412,
@@ -2000,14 +2064,6 @@
       "word": "星巴克员工曝卖不出月饼垫钱自购",
       "onboard_time": 1757498782,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141490,
-      "num": 141490,
-      "word": "郑州非必要不外出",
-      "onboard_time": 1757511383,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -2131,6 +2187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135835,
+      "num": 135835,
+      "word": "盛世天下",
+      "onboard_time": 1757514145,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135334,
       "num": 135334,
       "word": "特朗普被爆向欧盟提惊人要求",
@@ -2243,14 +2307,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 132242,
-      "num": 132242,
-      "word": "黄子韬徐艺洋拍婚纱照了",
-      "onboard_time": 1757511564,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132039,
       "num": 146109,
       "word": "李莲花碧茶之毒是萧秋水调的吧",
@@ -2348,7 +2404,7 @@
     },
     {
       "raw_hot": 127889,
-      "num": 127889,
+      "num": 161025,
       "word": "威慑中国是绝对行不通的",
       "onboard_time": 1757507602,
       "rank": 32,
@@ -2428,7 +2484,7 @@
     },
     {
       "raw_hot": 125077,
-      "num": 125077,
+      "num": 160205,
       "word": "谁家cp都BE了还有售后啊",
       "onboard_time": 1757511024,
       "rank": 42,
@@ -2683,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114647,
+      "num": 114647,
+      "word": "敖子逸战至巅峰第一砖塑选手",
+      "onboard_time": 1757513484,
+      "rank": 43,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 114552,
       "num": 114552,
       "word": "过度提醒 提前责备",
@@ -2729,14 +2793,6 @@
       "onboard_time": 1757460680,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 110988,
-      "num": 110988,
-      "word": "张婧仪回复",
-      "onboard_time": 1757511622,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 110529,
@@ -2891,6 +2947,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 98010,
+      "num": 163039,
+      "word": "智己LS6价格一出全体起立",
+      "onboard_time": 1757512045,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 97623,
       "num": 143987,
       "word": "卡塔尔空军战斗力",
@@ -2977,6 +3041,14 @@
       "onboard_time": 1757499142,
       "rank": 36,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 90360,
+      "num": 90360,
+      "word": "教师节 硕博生的学术大拜年",
+      "onboard_time": 1757514025,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 89773,
@@ -3067,6 +3139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86104,
+      "num": 203671,
+      "word": "高圆圆代言腾势N9",
+      "onboard_time": 1757509644,
+      "rank": 22,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 84659,
       "num": 114972,
       "word": "我的体育老师又帅又能打",
@@ -3105,14 +3185,6 @@
       "onboard_time": 1757471722,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83796,
-      "num": 203671,
-      "word": "高圆圆代言腾势N9",
-      "onboard_time": 1757509644,
-      "rank": 22,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 82395,
@@ -3273,6 +3345,14 @@
       "onboard_time": 1757491583,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 73788,
+      "num": 191603,
+      "word": "古巴全国电力中断",
+      "onboard_time": 1757513184,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72440,
@@ -3827,20 +3907,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 5624,
+      "num": 425868,
+      "word": "我国制造业规模连续15年全球第一",
+      "onboard_time": 1757385801,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 4999,
       "num": 238711,
       "word": "合租房生娃夫妻未认可退租搬家方案",
       "onboard_time": 1757440696,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4549,
-      "num": 425868,
-      "word": "我国制造业规模连续15年全球第一",
-      "onboard_time": 1757385801,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
