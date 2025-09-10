@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757499970131,
+  "endTime": 1757500934390,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 3389212,
-      "num": 270561,
+      "num": 328557,
       "word": "祝绪丹手滑",
       "onboard_time": 1757489242,
       "rank": 11,
@@ -1339,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1184900,
+      "num": 323480,
+      "word": "医生回应男生感染艾滋以为军训太累",
+      "onboard_time": 1757497522,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1184375,
       "num": 1184375,
       "word": "和平鸽与国徽同框壁纸",
@@ -2220,7 +2228,7 @@
     },
     {
       "raw_hot": 848230,
-      "num": 264144,
+      "num": 264253,
       "word": "祝绪丹 没有任何讨厌的人",
       "onboard_time": 1757492243,
       "rank": 31,
@@ -2739,6 +2747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 731274,
+      "num": 731274,
+      "word": "黄岩岛",
+      "onboard_time": 1757496861,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 731245,
       "num": 731245,
       "word": "花少第四期封神",
@@ -2932,7 +2948,7 @@
     },
     {
       "raw_hot": 692652,
-      "num": 263740,
+      "num": 306386,
       "word": "吴倩近态",
       "onboard_time": 1757494642,
       "rank": 20,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1756979483,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 662409,
-      "num": 662409,
-      "word": "黄岩岛",
-      "onboard_time": 1757496861,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 662107,
@@ -3481,14 +3489,6 @@
       "onboard_time": 1756881025,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 601733,
-      "num": 226197,
-      "word": "医生回应男生感染艾滋以为军训太累",
-      "onboard_time": 1757497522,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 600209,
@@ -4337,6 +4337,14 @@
       "onboard_time": 1757336484,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 504209,
+      "num": 398521,
+      "word": "三星嘲讽iPhone17系列",
+      "onboard_time": 1757498362,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 503905,
@@ -5683,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398834,
+      "num": 398834,
+      "word": "美国歌手车箱藏尸",
+      "onboard_time": 1757495062,
+      "rank": 25,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 398451,
       "num": 398451,
       "word": "大帅FMVP",
@@ -6619,14 +6635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350104,
-      "num": 350104,
-      "word": "美国歌手车箱藏尸",
-      "onboard_time": 1757495062,
-      "rank": 25,
-      "category": "艺人,海外新闻"
-    },
-    {
       "raw_hot": 349283,
       "num": 349283,
       "word": "东风五号首任总师说让别人不敢碰我们",
@@ -6683,6 +6691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346396,
+      "num": 346396,
+      "word": "李在明 这算哪门子言论自由",
+      "onboard_time": 1757498482,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 346246,
       "num": 219816,
       "word": "网红账号发120多条偷拍视频",
@@ -6721,14 +6737,6 @@
       "onboard_time": 1757404223,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 344075,
-      "num": 344075,
-      "word": "三星嘲讽iPhone17系列",
-      "onboard_time": 1757498362,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 343762,
@@ -8299,6 +8307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271221,
+      "num": 271221,
+      "word": "未拴绳大狗撞倒女子致其当场死亡",
+      "onboard_time": 1757495964,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270766,
       "num": 270766,
       "word": "金晨蝴蝶翅膀是手绘的",
@@ -8337,6 +8353,14 @@
       "onboard_time": 1757295140,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269625,
+      "num": 269625,
+      "word": "煮方便面vs泡方便面",
+      "onboard_time": 1757500402,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 268670,
@@ -9193,14 +9217,6 @@
       "onboard_time": 1756861701,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 235545,
-      "num": 235545,
-      "word": "李在明 这算哪门子言论自由",
-      "onboard_time": 1757498482,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 235284,
@@ -10729,14 +10745,6 @@
       "onboard_time": 1756784362,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201280,
-      "num": 172419,
-      "word": "未拴绳大狗撞倒女子致其当场死亡",
-      "onboard_time": 1757495964,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201026,
@@ -14067,6 +14075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 163768,
+      "num": 129490,
+      "word": "做美甲和不做美甲的都沉默了",
+      "onboard_time": 1757500102,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163648,
       "num": 163648,
       "word": "樊振东队长发博大赞团魂",
@@ -17019,6 +17035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139601,
+      "num": 266043,
+      "word": "辛芷蕾 中女都不容易",
+      "onboard_time": 1757499501,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139568,
       "num": 139568,
       "word": "梅西破门",
@@ -17353,6 +17377,14 @@
       "onboard_time": 1756639580,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137349,
+      "num": 137349,
+      "word": "陈哲远洗面奶没洗干净就出门了",
+      "onboard_time": 1757496682,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 137331,
@@ -17905,14 +17937,6 @@
       "onboard_time": 1757475624,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133720,
-      "num": 133720,
-      "word": "陈哲远洗面奶没洗干净就出门了",
-      "onboard_time": 1757496682,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 133712,
@@ -19011,6 +19035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126468,
+      "num": 126468,
+      "word": "黄岩岛的美一眼惊艳",
+      "onboard_time": 1757500462,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126438,
       "num": 196836,
       "word": "坐高铁因为好奇选了静音车厢",
@@ -19385,6 +19417,14 @@
       "onboard_time": 1757211022,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124328,
+      "num": 110250,
+      "word": "iPhone17全系单平台预约人数超200万",
+      "onboard_time": 1757500221,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 124290,
@@ -21387,14 +21427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112758,
-      "num": 124624,
-      "word": "辛芷蕾 中女都不容易",
-      "onboard_time": 1757499501,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112731,
       "num": 265801,
       "word": "谁吃麻辣香锅不被上一课呢",
@@ -21473,6 +21505,14 @@
       "onboard_time": 1756890504,
       "rank": 48,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 112193,
+      "num": 112193,
+      "word": "王家卫转发了此沙",
+      "onboard_time": 1757500763,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 112115,
@@ -21817,6 +21857,14 @@
       "onboard_time": 1757255662,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110432,
+      "num": 342603,
+      "word": "高朋获刑12年",
+      "onboard_time": 1757500221,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110430,
@@ -22673,6 +22721,14 @@
       "onboard_time": 1757294720,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105888,
+      "num": 105888,
+      "word": "李炮儿 网红终结者",
+      "onboard_time": 1757500882,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 105780,
@@ -23611,6 +23667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100033,
+      "num": 100033,
+      "word": "宠物聚会已经进化成这样了吗",
+      "onboard_time": 1757500641,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100008,
       "num": 100008,
       "word": "曝兰博基尼首席外饰设计加盟小米",
@@ -24019,6 +24083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97623,
+      "num": 143987,
+      "word": "卡塔尔空军战斗力",
+      "onboard_time": 1757496084,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97539,
       "num": 173523,
       "word": "胖东来回应员工进面包房需穿防尘服",
@@ -24417,6 +24489,14 @@
       "onboard_time": 1757223322,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95057,
+      "num": 116044,
+      "word": "星巴克员工曝卖不出月饼垫钱自购",
+      "onboard_time": 1757498782,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95000,
@@ -25107,6 +25187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89052,
+      "num": 89052,
+      "word": "iPhone17基础款性价比",
+      "onboard_time": 1757500041,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 88921,
       "num": 151815,
       "word": "周安信第二",
@@ -25137,14 +25225,6 @@
       "onboard_time": 1757210962,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88693,
-      "num": 143987,
-      "word": "卡塔尔空军战斗力",
-      "onboard_time": 1757496084,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 88582,
@@ -26331,14 +26411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79623,
-      "num": 116044,
-      "word": "星巴克员工曝卖不出月饼垫钱自购",
-      "onboard_time": 1757498782,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79326,
       "num": 79326,
       "word": "天安门放飞的和平鸽大多是赛级精英",
@@ -26505,6 +26577,14 @@
       "onboard_time": 1757034980,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77860,
+      "num": 115264,
+      "word": "十几万斤鱼死亡白花花铺满鱼塘",
+      "onboard_time": 1757499682,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77726,
@@ -27577,6 +27657,14 @@
       "onboard_time": 1756683380,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65163,
+      "num": 264369,
+      "word": "海拔2600米的三文鱼到底有多干净",
+      "onboard_time": 1757500402,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65073,
@@ -29139,6 +29227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45557,
+      "num": 105923,
+      "word": "外交部回应蔡英文窜访日本",
+      "onboard_time": 1757500343,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44877,
       "num": 44877,
       "word": "iPhone17手机壳",
@@ -29361,6 +29457,14 @@
       "onboard_time": 1757395642,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39795,
+      "num": 105901,
+      "word": "多地发生共享单车行驶中车轮抱死",
+      "onboard_time": 1757499982,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39695,
@@ -30313,14 +30417,6 @@
       "onboard_time": 1756924636,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24102,
-      "num": 115264,
-      "word": "十几万斤鱼死亡白花花铺满鱼塘",
-      "onboard_time": 1757499682,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23753,
