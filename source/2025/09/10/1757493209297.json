@@ -1,0 +1,410 @@
+{
+  "runTime": 1757493209297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 817330,
+        "num": 1130772,
+        "word": "火箭军倒查9年揪出采购掮客",
+        "onboard_time": 1757487742,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423076,
+        "num": 423076,
+        "word": "花少7真的把马思纯养的很好",
+        "onboard_time": 1757488582,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36926,
+        "num": 393755,
+        "word": "教师节祝福",
+        "onboard_time": 1757493142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393691,
+        "num": 393691,
+        "word": "汕头3.8级地震",
+        "onboard_time": 1757490862,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350760,
+        "num": 350760,
+        "word": "国防部回应日本加速军事扩张",
+        "onboard_time": 1757490742,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330756,
+        "num": 330756,
+        "word": "网红柴怼怼被警方带走调查",
+        "onboard_time": 1757487443,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 24126,
+        "num": 306473,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757492962,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289608,
+        "num": 289608,
+        "word": "花中国的钱插刀中国绝不容忍",
+        "onboard_time": 1757480004,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266292,
+        "num": 266292,
+        "word": "花2000万买房又花188万买家装包",
+        "onboard_time": 1757484862,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243621,
+        "num": 243621,
+        "word": "国防部提醒日本谨言慎行",
+        "onboard_time": 1757490981,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3389212,
+        "num": 238225,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1910347,
+        "num": 237432,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228571,
+        "num": 228571,
+        "word": "孙颖莎vs赫尔希",
+        "onboard_time": 1757491524,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 680822,
+        "num": 228025,
+        "word": "辛芷蕾手机要爆炸了",
+        "onboard_time": 1757486062,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 616057,
+        "num": 227493,
+        "word": "iPhone16背刺最大一代",
+        "onboard_time": 1757477244,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 544599,
+        "num": 226981,
+        "word": "豆沙馅真的塌房了",
+        "onboard_time": 1757486482,
+        "rank": 15,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 639055,
+        "num": 226424,
+        "word": "那英在英国陪女儿读书",
+        "onboard_time": 1757488103,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217085,
+        "num": 225474,
+        "word": "刘念何聪睿就这样旁若无人",
+        "onboard_time": 1757492062,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47696,
+        "num": 225228,
+        "word": "别人扫楼王鹤棣官宣扫街",
+        "onboard_time": 1757489063,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54429,
+        "num": 224320,
+        "word": "华莱士10元3堡吃过都说好",
+        "onboard_time": 1757491583,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 342560,
+        "num": 223532,
+        "word": "管乐疑似把粉丝送的礼物送给相亲对象",
+        "onboard_time": 1757482404,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358713,
+        "num": 223165,
+        "word": "赵磊上婚综是为了正式介绍太太",
+        "onboard_time": 1757476644,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194273,
+        "num": 222121,
+        "word": "孟子义cos律政俏佳人",
+        "onboard_time": 1757492782,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266972,
+        "num": 221980,
+        "word": "娜扎把杨幂编辑掉了",
+        "onboard_time": 1757475564,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221436,
+        "num": 221436,
+        "word": "男子高铁座位上旁若无人抽烟",
+        "onboard_time": 1757480425,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28578,
+        "num": 221412,
+        "word": "当网警遇上教师节他们是别样的教师",
+        "onboard_time": 1757479646,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70930,
+        "num": 221134,
+        "word": "高德推出全球首个用脚投票美食榜",
+        "onboard_time": 1757490024,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186289,
+        "num": 220999,
+        "word": "赵涛帮辛芷蕾争取到了影后奖",
+        "onboard_time": 1757493023,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63273,
+        "num": 220744,
+        "word": "高德升级为阿里生活服务超级入口",
+        "onboard_time": 1757491462,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119789,
+        "num": 220591,
+        "word": "成毅新剧一胎三胞",
+        "onboard_time": 1757486542,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220394,
+        "num": 220394,
+        "word": "韩国iPhoneAir没有捏合手势",
+        "onboard_time": 1757483904,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211365,
+        "num": 211365,
+        "word": "祝绪丹 没有任何讨厌的人",
+        "onboard_time": 1757492243,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209974,
+        "num": 209974,
+        "word": "六部门开展汽车行业网络乱象整治",
+        "onboard_time": 1757491402,
+        "rank": 32,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 205562,
+        "num": 205562,
+        "word": "巨型梁龙 人体蜈蚣",
+        "onboard_time": 1757492243,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141066,
+        "num": 201823,
+        "word": "高德扫街榜给传统美食榜挤水分",
+        "onboard_time": 1757487921,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 201326,
+        "num": 201326,
+        "word": "以军空袭地点距中国使馆仅800米",
+        "onboard_time": 1757491702,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186771,
+        "num": 186771,
+        "word": "中国空军运20接30名烈士回家",
+        "onboard_time": 1757487261,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64579,
+        "num": 184642,
+        "word": "取色器大爷 美术生老时候",
+        "onboard_time": 1757493083,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183239,
+        "num": 183239,
+        "word": "iPhone17",
+        "onboard_time": 1757439376,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13103,
+        "num": 177196,
+        "word": "澳门2049在直播间破圈了",
+        "onboard_time": 1757491283,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 53206,
+        "num": 176385,
+        "word": "卤味四巨头营收齐跌",
+        "onboard_time": 1757491283,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 175939,
+        "num": 175939,
+        "word": "巨石强森一身肌肉快瘦没了",
+        "onboard_time": 1757492602,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169508,
+        "num": 169508,
+        "word": "pdf不行 得PDF才行",
+        "onboard_time": 1757488703,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163810,
+        "num": 163810,
+        "word": "iPhone17 边拍演唱会边拍自己",
+        "onboard_time": 1757491342,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149425,
+        "num": 149425,
+        "word": "iPhone17ProMax离谱手机壳",
+        "onboard_time": 1757484743,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148269,
+        "num": 148269,
+        "word": "户晨风 安卓完",
+        "onboard_time": 1757492663,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120307,
+        "num": 143795,
+        "word": "福建不明飞行物",
+        "onboard_time": 1757491882,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141450,
+        "num": 141450,
+        "word": "A股成交跌破2万亿",
+        "onboard_time": 1757490203,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140440,
+        "num": 140440,
+        "word": "日本民众喊话石平滚出日本",
+        "onboard_time": 1757477726,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138569,
+        "num": 138569,
+        "word": "100斤女生滥用司美格鲁肽现酮症",
+        "onboard_time": 1757492722,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2025年服贸会致贺信#"
+    }
+  }
+}

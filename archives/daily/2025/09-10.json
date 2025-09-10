@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757489885561,
+  "endTime": 1757493209297,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -9,6 +9,14 @@
       "onboard_time": 1757431282,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 3389212,
+      "num": 240819,
+      "word": "祝绪丹手滑",
+      "onboard_time": 1757489242,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 3052336,
@@ -49,14 +57,6 @@
       "onboard_time": 1757439376,
       "rank": 13,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1188659,
-      "num": 240819,
-      "word": "祝绪丹手滑",
-      "onboard_time": 1757489242,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1070811,
@@ -131,6 +131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 817330,
+      "num": 1130772,
+      "word": "火箭军倒查9年揪出采购掮客",
+      "onboard_time": 1757487742,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 771822,
       "num": 339842,
       "word": "洗澡三小时 客户被盘了一个半小时",
@@ -163,7 +171,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 669475,
+      "raw_hot": 680822,
       "num": 342042,
       "word": "辛芷蕾手机要爆炸了",
       "onboard_time": 1757486062,
@@ -187,19 +195,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 655875,
-      "num": 1104940,
-      "word": "火箭军倒查9年揪出采购掮客",
-      "onboard_time": 1757487742,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 649725,
       "num": 572950,
       "word": "张维伊换造型",
       "onboard_time": 1757471183,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 639055,
+      "num": 249887,
+      "word": "那英在英国陪女儿读书",
+      "onboard_time": 1757488103,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423076,
+      "num": 423076,
+      "word": "花少7真的把马思纯养的很好",
+      "onboard_time": 1757488582,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404788,
       "num": 986557,
       "word": "宋雨琦特别感谢王安宇的出演",
@@ -393,6 +409,14 @@
       "onboard_time": 1757471421,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 393691,
+      "num": 393691,
+      "word": "汕头3.8级地震",
+      "onboard_time": 1757490862,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383338,
@@ -427,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372223,
-      "num": 249887,
-      "word": "那英在英国陪女儿读书",
-      "onboard_time": 1757488103,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 350760,
+      "num": 350760,
+      "word": "国防部回应日本加速军事扩张",
+      "onboard_time": 1757490742,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 347403,
@@ -449,6 +473,14 @@
       "onboard_time": 1757471061,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330756,
+      "num": 370507,
+      "word": "网红柴怼怼被警方带走调查",
+      "onboard_time": 1757487443,
+      "rank": 9,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 322572,
@@ -481,14 +513,6 @@
       "onboard_time": 1757464106,
       "rank": 8,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 305141,
-      "num": 370507,
-      "word": "网红柴怼怼被警方带走调查",
-      "onboard_time": 1757487443,
-      "rank": 9,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 302925,
@@ -595,6 +619,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 243621,
+      "num": 243621,
+      "word": "国防部提醒日本谨言慎行",
+      "onboard_time": 1757490981,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 242349,
       "num": 390940,
       "word": "eSIM",
@@ -643,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228571,
+      "num": 228571,
+      "word": "孙颖莎vs赫尔希",
+      "onboard_time": 1757491524,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228426,
       "num": 228426,
       "word": "气血不足的人常有这8个坏习惯",
@@ -675,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217085,
+      "num": 225474,
+      "word": "刘念何聪睿就这样旁若无人",
+      "onboard_time": 1757492062,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215257,
       "num": 199762,
       "word": "为什么接吻的时候闻不到对方口臭",
@@ -691,12 +739,36 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 211365,
+      "num": 211365,
+      "word": "祝绪丹 没有任何讨厌的人",
+      "onboard_time": 1757492243,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209974,
+      "num": 209974,
+      "word": "六部门开展汽车行业网络乱象整治",
+      "onboard_time": 1757491402,
+      "rank": 32,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 208005,
       "num": 340685,
       "word": "宋雨琦这张脸早该演现偶了",
       "onboard_time": 1757478146,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205562,
+      "num": 205562,
+      "word": "巨型梁龙 人体蜈蚣",
+      "onboard_time": 1757492243,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 205516,
@@ -761,6 +833,14 @@
       "onboard_time": 1757473884,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 201326,
+      "num": 201326,
+      "word": "以军空袭地点距中国使馆仅800米",
+      "onboard_time": 1757491702,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200155,
@@ -851,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194273,
+      "num": 222121,
+      "word": "孟子义cos律政俏佳人",
+      "onboard_time": 1757492782,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194194,
       "num": 194194,
       "word": "大学生一天旅游四个城市是什么体验",
@@ -905,6 +993,14 @@
       "onboard_time": 1757475685,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186289,
+      "num": 220999,
+      "word": "赵涛帮辛芷蕾争取到了影后奖",
+      "onboard_time": 1757493023,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 185983,
@@ -1000,6 +1096,14 @@
       "word": "张维伊回应换发型称从头再来",
       "onboard_time": 1757479767,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175939,
+      "num": 175939,
+      "word": "巨石强森一身肌肉快瘦没了",
+      "onboard_time": 1757492602,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1171,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163810,
+      "num": 163810,
+      "word": "iPhone17 边拍演唱会边拍自己",
+      "onboard_time": 1757491342,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163449,
       "num": 163449,
       "word": "周扬青自曝妈妈不想让她恋爱",
@@ -1251,19 +1363,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152387,
-      "num": 239502,
-      "word": "花少7真的把马思纯养的很好",
-      "onboard_time": 1757488582,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150050,
       "num": 130184,
       "word": "iPhone新机首次支持国补",
       "onboard_time": 1757486722,
       "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 148269,
+      "num": 148269,
+      "word": "户晨风 安卓完",
+      "onboard_time": 1757492663,
+      "rank": 45,
       "category": "数码"
     },
     {
@@ -1371,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141450,
+      "num": 141450,
+      "word": "A股成交跌破2万亿",
+      "onboard_time": 1757490203,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140393,
       "num": 140393,
       "word": "沙特称部署一切能力支持卡塔尔",
@@ -1385,6 +1505,14 @@
       "onboard_time": 1757474905,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138569,
+      "num": 138569,
+      "word": "100斤女生滥用司美格鲁肽现酮症",
+      "onboard_time": 1757492722,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138451,
@@ -1664,6 +1792,14 @@
       "word": "贵州文昌阁多只小猫被挖眼砍断四肢",
       "onboard_time": 1757482285,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120307,
+      "num": 143795,
+      "word": "福建不明飞行物",
+      "onboard_time": 1757491882,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2163,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70930,
+      "num": 221134,
+      "word": "高德推出全球首个用脚投票美食榜",
+      "onboard_time": 1757490024,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70808,
       "num": 70808,
       "word": "婢女开播",
@@ -2201,6 +2345,22 @@
       "onboard_time": 1757431043,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64579,
+      "num": 184642,
+      "word": "取色器大爷 美术生老时候",
+      "onboard_time": 1757493083,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 63273,
+      "num": 220744,
+      "word": "高德升级为阿里生活服务超级入口",
+      "onboard_time": 1757491462,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 63132,
@@ -2251,12 +2411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54429,
+      "num": 224320,
+      "word": "华莱士10元3堡吃过都说好",
+      "onboard_time": 1757491583,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 54300,
       "num": 66057,
       "word": "老师谢谢你",
       "onboard_time": 1757437338,
       "rank": 28,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 53206,
+      "num": 176385,
+      "word": "卤味四巨头营收齐跌",
+      "onboard_time": 1757491283,
+      "rank": 40,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 51556,
@@ -2299,6 +2475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47696,
+      "num": 239664,
+      "word": "别人扫楼王鹤棣官宣扫街",
+      "onboard_time": 1757489063,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46966,
       "num": 46966,
       "word": "印度人想456元包场成都餐厅",
@@ -2337,14 +2521,6 @@
       "onboard_time": 1757476885,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42046,
-      "num": 239664,
-      "word": "别人扫楼王鹤棣官宣扫街",
-      "onboard_time": 1757489063,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 40887,
@@ -2419,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36926,
+      "num": 393755,
+      "word": "教师节祝福",
+      "onboard_time": 1757493142,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34152,
       "num": 131587,
       "word": "汶川地震被救男孩九三阅兵圆梦了",
@@ -2449,6 +2633,14 @@
       "onboard_time": 1757424444,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24126,
+      "num": 306473,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1757492962,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22134,
@@ -2489,6 +2681,14 @@
       "onboard_time": 1757472382,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 13103,
+      "num": 177196,
+      "word": "澳门2049在直播间破圈了",
+      "onboard_time": 1757491283,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 12030,
@@ -2532,6 +2732,9 @@
     },
     {
       "word": "#重温总书记和人民教师的温暖瞬间#"
+    },
+    {
+      "word": "#习近平向2025年服贸会致贺信#"
     }
   ]
 }
