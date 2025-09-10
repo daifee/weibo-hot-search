@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757473222637,
+  "endTime": 1757473723401,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 735131,
-      "num": 1084621,
+      "num": 1085578,
       "word": "教师节",
       "onboard_time": 1757459480,
       "rank": 5,
@@ -99,6 +99,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 649725,
+      "num": 572950,
+      "word": "张维伊换造型",
+      "onboard_time": 1757471183,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632186,
       "num": 632186,
       "word": "iPhone17Pro",
@@ -107,20 +115,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 588196,
+      "num": 468031,
+      "word": "成人间的暧昧信息",
+      "onboard_time": 1757471541,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 573890,
       "num": 524544,
       "word": "卡塔尔",
       "onboard_time": 1757465423,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 572950,
-      "num": 572950,
-      "word": "张维伊换造型",
-      "onboard_time": 1757471183,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 542837,
@@ -153,14 +161,6 @@
       "onboard_time": 1757470342,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 468031,
-      "num": 468031,
-      "word": "成人间的暧昧信息",
-      "onboard_time": 1757471541,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 462628,
@@ -283,12 +283,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 271338,
+      "num": 205618,
+      "word": "原神月之一",
+      "onboard_time": 1757473582,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263208,
       "num": 1029812,
       "word": "九三阅兵观礼座被二次利用了",
       "onboard_time": 1757425164,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 256077,
+      "num": 1052950,
+      "word": "非洲女孩被AI识别出黑眼圈",
+      "onboard_time": 1757471061,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251708,
@@ -305,14 +321,6 @@
       "onboard_time": 1757446334,
       "rank": 8,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 240806,
-      "num": 1052950,
-      "word": "非洲女孩被AI识别出黑眼圈",
-      "onboard_time": 1757471061,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229168,
@@ -345,6 +353,14 @@
       "onboard_time": 1757427265,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213974,
+      "num": 399256,
+      "word": "野狗骨头",
+      "onboard_time": 1757471601,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 199839,
@@ -395,20 +411,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 184263,
-      "num": 184263,
+      "raw_hot": 184747,
+      "num": 184747,
       "word": "丝瓜汤为网络和谐付出太多了",
       "onboard_time": 1757472562,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183187,
-      "num": 399256,
-      "word": "野狗骨头",
-      "onboard_time": 1757471601,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 183027,
@@ -499,12 +507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165972,
+      "num": 165972,
+      "word": "祝老师节日快乐",
+      "onboard_time": 1757473582,
+      "rank": 33,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 165776,
       "num": 165776,
       "word": "分手后被前女友告强奸男方家属发声",
       "onboard_time": 1757466743,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164806,
+      "num": 205848,
+      "word": "现在大学生开学竟然吃的这么好",
+      "onboard_time": 1757472502,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 164575,
@@ -547,6 +571,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 160204,
+      "num": 967681,
+      "word": "以色列攻击卡塔尔前一刻通知美方",
+      "onboard_time": 1757471301,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156172,
       "num": 903689,
       "word": "不二之臣官宣男女主",
@@ -585,14 +617,6 @@
       "onboard_time": 1757437098,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144657,
-      "num": 144657,
-      "word": "现在大学生开学竟然吃的这么好",
-      "onboard_time": 1757472502,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 144364,
@@ -691,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127539,
+      "num": 127539,
+      "word": "气血不足的人常有这8个坏习惯",
+      "onboard_time": 1757473342,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127435,
       "num": 162756,
       "word": "各科老师经典语录",
@@ -715,20 +747,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 122583,
-      "num": 967681,
-      "word": "以色列攻击卡塔尔前一刻通知美方",
-      "onboard_time": 1757471301,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122476,
       "num": 122476,
       "word": "iphone17充电速度提升",
       "onboard_time": 1757460680,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122403,
+      "num": 122403,
+      "word": "高德扫街榜",
+      "onboard_time": 1757470041,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 122309,
@@ -803,6 +835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 112085,
+      "num": 145962,
+      "word": "马思纯回应网友让她和张晚意拍戏",
+      "onboard_time": 1757472983,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111220,
       "num": 111220,
       "word": "iPhone17前置摄像头更新",
@@ -827,6 +867,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109346,
+      "num": 109346,
+      "word": "狗 你笑够了没有",
+      "onboard_time": 1757472202,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109300,
+      "num": 297776,
+      "word": "鹿晗晒与邓超陈赫合照",
+      "onboard_time": 1757470461,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106547,
       "num": 140663,
       "word": "酒店穿拖鞋用餐遭双标对待",
@@ -835,12 +891,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102881,
-      "num": 297776,
-      "word": "鹿晗晒与邓超陈赫合照",
-      "onboard_time": 1757470461,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 105135,
+      "num": 105135,
+      "word": "超薄iPhoneAir会弯折变形吗",
+      "onboard_time": 1757471904,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 102612,
+      "num": 120076,
+      "word": "民进党当局恋殖情结深重",
+      "onboard_time": 1757473643,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102199,
@@ -865,6 +929,14 @@
       "onboard_time": 1757473164,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97531,
+      "num": 283906,
+      "word": "董璇美我一大跳",
+      "onboard_time": 1757471483,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 96637,
@@ -897,14 +969,6 @@
       "onboard_time": 1757456897,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95005,
-      "num": 283906,
-      "word": "董璇美我一大跳",
-      "onboard_time": 1757471483,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 92699,
@@ -979,12 +1043,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84058,
+      "num": 104993,
+      "word": "C罗39球成世预赛射手王",
+      "onboard_time": 1757473643,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83927,
       "num": 125428,
       "word": "90后中传女教师发明谣言粉碎机",
       "onboard_time": 1757471722,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82395,
+      "num": 104979,
+      "word": "阿里创新高",
+      "onboard_time": 1757472263,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 82289,
@@ -1169,14 +1249,6 @@
       "onboard_time": 1757440396,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55191,
-      "num": 145962,
-      "word": "马思纯回应网友让她和张晚意拍戏",
-      "onboard_time": 1757472983,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 54300,
