@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757486196151,
+  "endTime": 1757486920658,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1181483,
-      "num": 186194,
+      "num": 238050,
       "word": "那英老公回应",
       "onboard_time": 1757484924,
       "rank": 10,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 846686,
-      "num": 185679,
+      "num": 233150,
       "word": "管乐疑似把粉丝送的礼物送给相亲对象",
       "onboard_time": 1757482404,
       "rank": 33,
@@ -2939,6 +2939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 276729,
+      "num": 217169,
+      "word": "事发时那英正在伦敦陪伴女儿留学",
+      "onboard_time": 1757485943,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276315,
       "num": 276315,
       "word": "钟楚曦 汪曲攸",
@@ -3043,6 +3051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260667,
+      "num": 260667,
+      "word": "花2000万买房又花188万买家装包",
+      "onboard_time": 1757484862,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260435,
       "num": 260435,
       "word": "美公布数百名韩国人被捕现场画面",
@@ -3081,14 +3097,6 @@
       "onboard_time": 1757406141,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255826,
-      "num": 155479,
-      "word": "事发时那英正在伦敦陪伴女儿留学",
-      "onboard_time": 1757485943,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 254937,
@@ -3185,6 +3193,14 @@
       "onboard_time": 1757255662,
       "rank": 14,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 240793,
+      "num": 240793,
+      "word": "12306回应男子高铁抽烟被民警带走",
+      "onboard_time": 1757482885,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240756,
@@ -3596,19 +3612,11 @@
     },
     {
       "raw_hot": 213169,
-      "num": 153362,
+      "num": 207555,
       "word": "费启鸣演我看到iPhone17",
       "onboard_time": 1757484625,
       "rank": 31,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 212837,
-      "num": 212837,
-      "word": "12306回应男子高铁抽烟被民警带走",
-      "onboard_time": 1757482885,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212836,
@@ -3755,6 +3763,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205516,
+      "num": 205516,
+      "word": "这次轮到女主又争又抢",
+      "onboard_time": 1757486542,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205424,
+      "num": 205424,
+      "word": "张杰时装九月封面",
+      "onboard_time": 1757486603,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205097,
       "num": 205097,
       "word": "卢昱晓仙到失语",
@@ -3849,6 +3873,14 @@
       "onboard_time": 1757214082,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203004,
+      "num": 203004,
+      "word": "被一诺民族风变装硬控了",
+      "onboard_time": 1757486783,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 202998,
@@ -3987,6 +4019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200305,
+      "num": 200305,
+      "word": "辛芷蕾手机要爆炸了",
+      "onboard_time": 1757486062,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200155,
       "num": 153123,
       "word": "九尾人到了摄影师不见了",
@@ -4004,7 +4044,7 @@
     },
     {
       "raw_hot": 199995,
-      "num": 152476,
+      "num": 180926,
       "word": "许荔莎现身配合警方调查",
       "onboard_time": 1757484383,
       "rank": 33,
@@ -4051,12 +4091,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198758,
+      "num": 198758,
+      "word": "无畏属于是返老还童了",
+      "onboard_time": 1757486783,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198681,
       "num": 198681,
       "word": "迪丽热巴虽然不能同时拥有一切开机",
       "onboard_time": 1757307865,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198663,
+      "num": 198663,
+      "word": "韩国iPhoneAir没有捏合手势",
+      "onboard_time": 1757483904,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 198345,
@@ -4113,14 +4169,6 @@
       "onboard_time": 1757480605,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 197033,
-      "num": 151892,
-      "word": "辛芷蕾手机要爆炸了",
-      "onboard_time": 1757486062,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 197030,
@@ -4539,14 +4587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186737,
-      "num": 147754,
-      "word": "韩国iPhoneAir没有捏合手势",
-      "onboard_time": 1757483904,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 186730,
       "num": 186730,
       "word": "女子地铁拒安检多次追打工作人员",
@@ -4611,11 +4651,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184804,
+      "num": 184804,
+      "word": "豆沙馅真的塌房了",
+      "onboard_time": 1757486482,
+      "rank": 32,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 184793,
       "num": 184793,
       "word": "辛芷蕾影史留名",
       "onboard_time": 1757249002,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184793,
+      "num": 199205,
+      "word": "张子枫宋佳彭昱畅表情都是戏",
+      "onboard_time": 1757485882,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -4699,14 +4755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182668,
-      "num": 182668,
-      "word": "花2000万买房又花188万买家装包",
-      "onboard_time": 1757484862,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182356,
       "num": 182356,
       "word": "袁隆平诞辰95年",
@@ -4737,6 +4785,14 @@
       "onboard_time": 1757249303,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181241,
+      "num": 908771,
+      "word": "高德扫街榜",
+      "onboard_time": 1757470041,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 181068,
@@ -4851,6 +4907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178170,
+      "num": 178170,
+      "word": "iPhone17ProMax离谱手机壳",
+      "onboard_time": 1757484743,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178147,
       "num": 208323,
       "word": "张杰杭州演唱会抢票",
@@ -4955,14 +5019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175211,
-      "num": 145508,
-      "word": "iPhone17ProMax离谱手机壳",
-      "onboard_time": 1757484743,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 175187,
       "num": 175187,
       "word": "两个时段饿一饿脾胃更好",
@@ -5065,14 +5121,6 @@
       "onboard_time": 1757325742,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 173124,
-      "num": 908771,
-      "word": "高德扫街榜",
-      "onboard_time": 1757470041,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 173077,
@@ -5356,7 +5404,7 @@
     },
     {
       "raw_hot": 167293,
-      "num": 167293,
+      "num": 178939,
       "word": "女子花1300吃日料剩了10片刺身被索赔",
       "onboard_time": 1757483363,
       "rank": 24,
@@ -5867,14 +5915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156084,
-      "num": 156084,
-      "word": "张子枫宋佳彭昱畅表情都是戏",
-      "onboard_time": 1757485882,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 155560,
       "num": 153943,
       "word": "华科大官网已撤下校友王腾资料页面",
@@ -6163,6 +6203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150050,
+      "num": 130184,
+      "word": "iPhone新机首次支持国补",
+      "onboard_time": 1757486722,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 149982,
       "num": 149982,
       "word": "田栩宁metal拍摄花絮",
@@ -6369,6 +6417,14 @@
       "onboard_time": 1757296881,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145709,
+      "num": 181077,
+      "word": "成毅新剧一胎三胞",
+      "onboard_time": 1757486542,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 145537,
@@ -6657,6 +6713,14 @@
       "onboard_time": 1757374220,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141292,
+      "num": 211837,
+      "word": "高德每天为线下店多带1000万消费者",
+      "onboard_time": 1757486123,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 140940,
@@ -7099,6 +7163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135854,
+      "num": 135854,
+      "word": "势界 田栩宁",
+      "onboard_time": 1757485823,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135803,
       "num": 135803,
       "word": "美国0比2韩国",
@@ -7169,6 +7241,14 @@
       "onboard_time": 1757469501,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134604,
+      "num": 134604,
+      "word": "桃黑黑因为被选国草捐了一万棵树",
+      "onboard_time": 1757486362,
+      "rank": 42,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 134590,
@@ -7369,6 +7449,14 @@
       "onboard_time": 1757416461,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131302,
+      "num": 131302,
+      "word": "管乐回应粉丝",
+      "onboard_time": 1757486903,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 131257,
@@ -8548,7 +8636,7 @@
     },
     {
       "raw_hot": 116235,
-      "num": 151137,
+      "num": 239533,
       "word": "贵州文昌阁多只小猫被挖眼砍断四肢",
       "onboard_time": 1757482285,
       "rank": 47,
@@ -10827,14 +10915,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 75870,
-      "num": 148374,
-      "word": "高德每天为线下店多带1000万消费者",
-      "onboard_time": 1757486123,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 75105,
       "num": 171540,
       "word": "张艺兴演唱会排面",
@@ -11332,7 +11412,7 @@
     },
     {
       "raw_hot": 59004,
-      "num": 154716,
+      "num": 214762,
       "word": "挪德卡莱大开门",
       "onboard_time": 1757484263,
       "rank": 28,
@@ -11564,7 +11644,7 @@
     },
     {
       "raw_hot": 50617,
-      "num": 184427,
+      "num": 222931,
       "word": "传统点评榜单不该是餐饮指挥棒",
       "onboard_time": 1757485463,
       "rank": 15,
@@ -12467,20 +12547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9587,
+      "num": 149308,
+      "word": "这场马拉松把非遗跑活了",
+      "onboard_time": 1757484084,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 9473,
       "num": 141778,
       "word": "远洋船长被害案嫌犯被鉴定无精神病",
       "onboard_time": 1757255783,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9278,
-      "num": 149308,
-      "word": "这场马拉松把非遗跑活了",
-      "onboard_time": 1757484084,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 8992,
