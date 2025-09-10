@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757503270639,
+  "endTime": 1757504239770,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -67,20 +67,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1469776,
+      "num": 1469776,
+      "word": "煮方便面vs泡方便面",
+      "onboard_time": 1757500402,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1393354,
       "num": 323480,
       "word": "医生回应男生感染艾滋以为军训太累",
       "onboard_time": 1757497522,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1221098,
-      "num": 1221098,
-      "word": "煮方便面vs泡方便面",
-      "onboard_time": 1757500402,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 1183545,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641911,
+      "num": 641911,
+      "word": "李在明 这算哪门子言论自由",
+      "onboard_time": 1757498482,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 639055,
       "num": 264055,
       "word": "那英在英国陪女儿读书",
@@ -361,14 +369,6 @@
       "onboard_time": 1757481623,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 536543,
-      "num": 536543,
-      "word": "李在明 这算哪门子言论自由",
-      "onboard_time": 1757498482,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 522369,
@@ -483,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 443384,
+      "num": 263571,
+      "word": "6旬大爷裸聊主播8天花光全部积蓄",
+      "onboard_time": 1757501301,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433559,
       "num": 224404,
       "word": "尼泊尔",
@@ -555,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389345,
+      "num": 144152,
+      "word": "当我冲着女儿的颜值生了二胎",
+      "onboard_time": 1757503223,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 387646,
       "num": 387646,
       "word": "国防部回应日本加速军事扩张",
@@ -595,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348593,
-      "num": 144152,
-      "word": "当我冲着女儿的颜值生了二胎",
-      "onboard_time": 1757503223,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 370175,
+      "num": 370175,
+      "word": "香奈儿 收集癖",
+      "onboard_time": 1757502202,
+      "rank": 16,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 347403,
@@ -609,6 +625,14 @@
       "onboard_time": 1757474184,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341519,
+      "num": 341519,
+      "word": "玉兰花开君再来 杨紫成毅",
+      "onboard_time": 1757500522,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 340037,
@@ -675,28 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301422,
-      "num": 301422,
-      "word": "玉兰花开君再来 杨紫成毅",
-      "onboard_time": 1757500522,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 292581,
       "num": 254114,
       "word": "马丁 朱志鑫",
       "onboard_time": 1757467222,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292411,
-      "num": 264483,
-      "word": "香奈儿 收集癖",
-      "onboard_time": 1757502202,
-      "rank": 16,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 289391,
@@ -769,14 +777,6 @@
       "onboard_time": 1757487261,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 263571,
-      "num": 263571,
-      "word": "6旬大爷裸聊主播8天花光全部积蓄",
-      "onboard_time": 1757501301,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263208,
@@ -1611,6 +1611,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148948,
+      "num": 148948,
+      "word": "聚是七个蛋 散是鸡蛋羹",
+      "onboard_time": 1757502742,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 148365,
+      "num": 241126,
+      "word": "宋亚轩的副业不会是贴膜吧",
+      "onboard_time": 1757503281,
+      "rank": 17,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 148269,
       "num": 148269,
       "word": "黄景瑜前妻曾被要求去医院看病",
@@ -1739,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142457,
+      "num": 142457,
+      "word": "钟楚曦香港活动生图",
+      "onboard_time": 1757503702,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141722,
       "num": 141722,
       "word": "星巴克员工曝卖不出月饼垫钱自购",
@@ -1763,7 +1787,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 139830,
+      "raw_hot": 139835,
       "num": 141892,
       "word": "王家卫转发了此沙",
       "onboard_time": 1757500763,
@@ -2067,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127084,
+      "num": 127084,
+      "word": "罗永浩吐槽西贝预制菜",
+      "onboard_time": 1757502982,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126984,
       "num": 342616,
       "word": "为什么大家又重新使用毛巾",
@@ -2089,6 +2121,14 @@
       "onboard_time": 1757488522,
       "rank": 37,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 126172,
+      "num": 126172,
+      "word": "假如惠英红刘亦菲演捕风追影",
+      "onboard_time": 1757503642,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 125565,
@@ -2219,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118005,
+      "num": 118005,
+      "word": "千惠妈妈比三宝更需要万千惠",
+      "onboard_time": 1757502922,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117891,
       "num": 117891,
       "word": "别人赴山海周深赴情海",
@@ -2339,14 +2387,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 112146,
-      "num": 112146,
-      "word": "聚是七个蛋 散是鸡蛋羹",
-      "onboard_time": 1757502742,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 111220,
       "num": 111220,
       "word": "iPhone17前置摄像头更新",
@@ -2401,22 +2441,6 @@
       "onboard_time": 1757470461,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109098,
-      "num": 109098,
-      "word": "罗永浩吐槽西贝预制菜",
-      "onboard_time": 1757502982,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 108036,
-      "num": 108036,
-      "word": "千惠妈妈比三宝更需要万千惠",
-      "onboard_time": 1757502922,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 106547,
@@ -2484,7 +2508,7 @@
     },
     {
       "raw_hot": 98016,
-      "num": 98016,
+      "num": 140536,
       "word": "小学校长回应拦截教师节礼物",
       "onboard_time": 1757501423,
       "rank": 44,
@@ -2651,6 +2675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86144,
+      "num": 86144,
+      "word": "尼泊尔特里布万国际机场重启运营",
+      "onboard_time": 1757503343,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84659,
       "num": 114972,
       "word": "我的体育老师又帅又能打",
@@ -2752,6 +2784,14 @@
       "word": "大一男生感染艾滋以为军训太累",
       "onboard_time": 1757498901,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80856,
+      "num": 121386,
+      "word": "27岁小伙相亲20多次患惊恐症",
+      "onboard_time": 1757504000,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2857,6 +2897,14 @@
       "onboard_time": 1757433262,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72222,
+      "num": 133502,
+      "word": "波兰称击落俄罗斯无人机",
+      "onboard_time": 1757502501,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 71784,
@@ -3235,6 +3283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31212,
+      "num": 121978,
+      "word": "孙颖莎赫尔希精彩对决",
+      "onboard_time": 1757503281,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30220,
       "num": 408791,
       "word": "高德重磅发布扫街榜",
@@ -3257,6 +3313,14 @@
       "onboard_time": 1757424444,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22734,
+      "num": 121631,
+      "word": "钟楚曦被曝分手后首现身",
+      "onboard_time": 1757503941,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 22134,
