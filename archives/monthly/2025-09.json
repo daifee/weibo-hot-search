@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757473723401,
+  "endTime": 1757475252275,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3011,6 +3011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 656313,
+      "num": 329673,
+      "word": "苹果官网下架iPhone16Pro系列",
+      "onboard_time": 1757470342,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 656129,
       "num": 656129,
       "word": "香奈儿押宝辛芷蕾9年",
@@ -4243,14 +4251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 493518,
-      "num": 322358,
-      "word": "苹果官网下架iPhone16Pro系列",
-      "onboard_time": 1757470342,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 493425,
       "num": 239011,
       "word": "特朗普称中俄朝密谋对抗美国",
@@ -4641,6 +4641,14 @@
       "onboard_time": 1757055080,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 456937,
+      "num": 1073109,
+      "word": "野狗骨头",
+      "onboard_time": 1757471601,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 456739,
@@ -6467,6 +6475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340037,
+      "num": 1052950,
+      "word": "非洲女孩被AI识别出黑眼圈",
+      "onboard_time": 1757471061,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339456,
       "num": 339456,
       "word": "iG战胜EDG",
@@ -6561,6 +6577,14 @@
       "onboard_time": 1757202679,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 334765,
+      "num": 334765,
+      "word": "张惠妹决定无限期停工",
+      "onboard_time": 1757473825,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 333603,
@@ -6945,6 +6969,14 @@
       "onboard_time": 1757402482,
       "rank": 14,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 315861,
+      "num": 230469,
+      "word": "辛芷蕾助理小号",
+      "onboard_time": 1757474184,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 315449,
@@ -7723,6 +7755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 278988,
+      "num": 189310,
+      "word": "原来牙神经长这样",
+      "onboard_time": 1757474005,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 278497,
       "num": 278497,
       "word": "光与夜之恋",
@@ -7892,7 +7932,7 @@
     },
     {
       "raw_hot": 271338,
-      "num": 205618,
+      "num": 252682,
       "word": "原神月之一",
       "onboard_time": 1757473582,
       "rank": 21,
@@ -7945,6 +7985,14 @@
       "onboard_time": 1756783161,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 268366,
+      "num": 967681,
+      "word": "以色列攻击卡塔尔前一刻通知美方",
+      "onboard_time": 1757471301,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 267898,
@@ -8169,14 +8217,6 @@
       "onboard_time": 1756880784,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 256077,
-      "num": 1052950,
-      "word": "非洲女孩被AI识别出黑眼圈",
-      "onboard_time": 1757471061,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255897,
@@ -9475,14 +9515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213974,
-      "num": 399256,
-      "word": "野狗骨头",
-      "onboard_time": 1757471601,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213767,
       "num": 273199,
       "word": "西安通报5人策划低俗求婚剧本被拘",
@@ -9505,6 +9537,14 @@
       "onboard_time": 1757401942,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 213146,
+      "num": 182610,
+      "word": "杨幂现身生万物研讨会",
+      "onboard_time": 1757474005,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 213062,
@@ -9641,6 +9681,14 @@
       "onboard_time": 1756789823,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210163,
+      "num": 173073,
+      "word": "气血不足的人常有这8个坏习惯",
+      "onboard_time": 1757473342,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209530,
@@ -12003,6 +12051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177047,
+      "num": 177047,
+      "word": "梓渝重复练习动作认真调整细节",
+      "onboard_time": 1757474424,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176910,
       "num": 199947,
       "word": "黄金飙升原因",
@@ -12395,6 +12451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172207,
+      "num": 172207,
+      "word": "马思纯回应网友让她和张晚意拍戏",
+      "onboard_time": 1757472983,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172146,
       "num": 172146,
       "word": "明天一起看阅兵",
@@ -12432,6 +12496,14 @@
       "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
       "onboard_time": 1757260881,
       "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171789,
+      "num": 171789,
+      "word": "纽约地铁乘客众目睽睽下刮脚",
+      "onboard_time": 1757473884,
+      "rank": 37,
       "category": "海外新闻"
     },
     {
@@ -12988,7 +13060,7 @@
     },
     {
       "raw_hot": 165972,
-      "num": 165972,
+      "num": 350242,
       "word": "祝老师节日快乐",
       "onboard_time": 1757473582,
       "rank": 33,
@@ -13585,14 +13657,6 @@
       "onboard_time": 1757059522,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160204,
-      "num": 967681,
-      "word": "以色列攻击卡塔尔前一刻通知美方",
-      "onboard_time": 1757471301,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 160188,
@@ -16868,7 +16932,7 @@
     },
     {
       "raw_hot": 132931,
-      "num": 132931,
+      "num": 257097,
       "word": "朝鲜民众庆祝国庆画面",
       "onboard_time": 1757469501,
       "rank": 43,
@@ -17683,14 +17747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127539,
-      "num": 127539,
-      "word": "气血不足的人常有这8个坏习惯",
-      "onboard_time": 1757473342,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 127513,
       "num": 127513,
       "word": "樊振东收获德甲两连胜",
@@ -18443,6 +18499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122527,
+      "num": 122527,
+      "word": "太胖无法变成液态回家的猫",
+      "onboard_time": 1757475085,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122507,
       "num": 200220,
       "word": "AI让英烈看到今日中国",
@@ -19139,6 +19203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118256,
+      "num": 118256,
+      "word": "何老师到底喜欢谁",
+      "onboard_time": 1757473943,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118247,
       "num": 230102,
       "word": "华为小平板超强超Mini",
@@ -19201,6 +19273,14 @@
       "onboard_time": 1757243001,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 117686,
+      "num": 117686,
+      "word": "纽约中央公园偶遇曾黎晨跑",
+      "onboard_time": 1757474424,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 117675,
@@ -19305,6 +19385,14 @@
       "onboard_time": 1757169383,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116848,
+      "num": 116848,
+      "word": "一诺是有点演技在身上的",
+      "onboard_time": 1757473763,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 116835,
@@ -20147,14 +20235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112085,
-      "num": 145962,
-      "word": "马思纯回应网友让她和张晚意拍戏",
-      "onboard_time": 1757472983,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111994,
       "num": 140955,
       "word": "河南小伙将在天安门广场升起国旗",
@@ -20289,6 +20369,14 @@
       "onboard_time": 1757394802,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111456,
+      "num": 111456,
+      "word": "焦俊艳辟谣给papi酱发了8年红包",
+      "onboard_time": 1757475204,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 111400,
@@ -20545,6 +20633,14 @@
       "onboard_time": 1757336664,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110062,
+      "num": 283906,
+      "word": "董璇美我一大跳",
+      "onboard_time": 1757471483,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 110001,
@@ -22451,6 +22547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98750,
+      "num": 98750,
+      "word": "2分钟的预告成毅打了60秒",
+      "onboard_time": 1757474905,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98741,
       "num": 237445,
       "word": "罗马的马是马尔泰若曦的马",
@@ -22657,14 +22761,6 @@
       "onboard_time": 1756725080,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97531,
-      "num": 283906,
-      "word": "董璇美我一大跳",
-      "onboard_time": 1757471483,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 97522,
@@ -27827,6 +27923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 38522,
+      "num": 195477,
+      "word": "朱一龙高情商送礼小课堂",
+      "onboard_time": 1757474364,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38429,
       "num": 38429,
       "word": "军旗",
@@ -28267,6 +28371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30614,
+      "num": 174382,
+      "word": "自闭症学生遭劝退家长再发声",
+      "onboard_time": 1757475085,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30357,
       "num": 343945,
       "word": "邢菲因嘴馋当上零食买手",
@@ -28611,6 +28723,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 24744,
+      "num": 135175,
+      "word": "为什么大家又重新使用毛巾",
+      "onboard_time": 1757475204,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 24260,
       "num": 126443,
       "word": "知否 书香门第全是打戏",
@@ -28841,6 +28961,14 @@
       "onboard_time": 1757147181,
       "rank": 38,
       "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 20664,
+      "num": 176355,
+      "word": "幼虎疑遭打头呲水强迫与游客合影",
+      "onboard_time": 1757475085,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20612,

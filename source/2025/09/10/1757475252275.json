@@ -1,0 +1,410 @@
+{
+  "runTime": 1757475252275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456937,
+        "num": 1073109,
+        "word": "野狗骨头",
+        "onboard_time": 1757471601,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451961,
+        "num": 451961,
+        "word": "教师节",
+        "onboard_time": 1757459480,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 59856,
+        "num": 350242,
+        "word": "祝老师节日快乐",
+        "onboard_time": 1757473582,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 340037,
+        "num": 340037,
+        "word": "非洲女孩被AI识别出黑眼圈",
+        "onboard_time": 1757471061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334765,
+        "num": 334765,
+        "word": "张惠妹决定无限期停工",
+        "onboard_time": 1757473825,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656313,
+        "num": 329673,
+        "word": "苹果官网下架iPhone16Pro系列",
+        "onboard_time": 1757470342,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268366,
+        "num": 268366,
+        "word": "以色列攻击卡塔尔前一刻通知美方",
+        "onboard_time": 1757471301,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258833,
+        "num": 258833,
+        "word": "卡塔尔首都多哈发生剧烈爆炸",
+        "onboard_time": 1757424083,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 592864,
+        "num": 258649,
+        "word": "最贵iPhone诞生",
+        "onboard_time": 1757462301,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125533,
+        "num": 257097,
+        "word": "朝鲜民众庆祝国庆画面",
+        "onboard_time": 1757469501,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 824792,
+        "num": 255863,
+        "word": "黄景瑜前妻 俩孩子一个被他打没了",
+        "onboard_time": 1757430924,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711677,
+        "num": 255061,
+        "word": "iPhone17系列价格",
+        "onboard_time": 1757441956,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 573124,
+        "num": 252945,
+        "word": "张维伊换造型",
+        "onboard_time": 1757471183,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252682,
+        "num": 252682,
+        "word": "原神月之一",
+        "onboard_time": 1757473582,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 587819,
+        "num": 236924,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1757441416,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 322655,
+        "num": 234229,
+        "word": "广西通报初一新生在校坠楼身亡",
+        "onboard_time": 1757471421,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 315861,
+        "num": 230469,
+        "word": "辛芷蕾助理小号",
+        "onboard_time": 1757474184,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214692,
+        "num": 214692,
+        "word": "教师节快乐",
+        "onboard_time": 1757464106,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 196596,
+        "num": 196596,
+        "word": "九三阅兵观礼座被二次利用了",
+        "onboard_time": 1757425164,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38522,
+        "num": 195477,
+        "word": "朱一龙高情商送礼小课堂",
+        "onboard_time": 1757474364,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1388056,
+        "num": 194113,
+        "word": "李晨 鹿晗",
+        "onboard_time": 1757466803,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 565075,
+        "num": 190275,
+        "word": "iPhone17",
+        "onboard_time": 1757439376,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 278988,
+        "num": 189310,
+        "word": "原来牙神经长这样",
+        "onboard_time": 1757474005,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 255287,
+        "num": 186193,
+        "word": "卡塔尔",
+        "onboard_time": 1757465423,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 387761,
+        "num": 185321,
+        "word": "苹果发布会",
+        "onboard_time": 1757431282,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213146,
+        "num": 182610,
+        "word": "杨幂现身生万物研讨会",
+        "onboard_time": 1757474005,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180887,
+        "num": 180887,
+        "word": "黄金",
+        "onboard_time": 1757471541,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177047,
+        "num": 177047,
+        "word": "梓渝重复练习动作认真调整细节",
+        "onboard_time": 1757474424,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318493,
+        "num": 176981,
+        "word": "苹果的牙膏挤爆了",
+        "onboard_time": 1757440456,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20664,
+        "num": 176355,
+        "word": "幼虎疑遭打头呲水强迫与游客合影",
+        "onboard_time": 1757475085,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243243,
+        "num": 175482,
+        "word": "辛芷蕾拿了影后刘冲再也没有发过花絮",
+        "onboard_time": 1757460200,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219578,
+        "num": 174830,
+        "word": "吴雅婷回应王栎鑫患焦虑症",
+        "onboard_time": 1757460018,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30614,
+        "num": 174382,
+        "word": "自闭症学生遭劝退家长再发声",
+        "onboard_time": 1757475085,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212482,
+        "num": 173519,
+        "word": "宋雨琦特别感谢王安宇的出演",
+        "onboard_time": 1757465543,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210163,
+        "num": 173073,
+        "word": "气血不足的人常有这8个坏习惯",
+        "onboard_time": 1757473342,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107780,
+        "num": 172641,
+        "word": "苹果市值一夜蒸发超3700亿",
+        "onboard_time": 1757466143,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172207,
+        "num": 172207,
+        "word": "马思纯回应网友让她和张晚意拍戏",
+        "onboard_time": 1757472983,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171789,
+        "num": 171789,
+        "word": "纽约地铁乘客众目睽睽下刮脚",
+        "onboard_time": 1757473884,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163489,
+        "num": 163489,
+        "word": "马丁 朱志鑫",
+        "onboard_time": 1757467222,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159029,
+        "num": 159029,
+        "word": "尼泊尔",
+        "onboard_time": 1757464042,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150716,
+        "num": 150716,
+        "word": "苹果发布会彩蛋有王嘉尔",
+        "onboard_time": 1757467523,
+        "rank": 40,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 24744,
+        "num": 135175,
+        "word": "为什么大家又重新使用毛巾",
+        "onboard_time": 1757475204,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122527,
+        "num": 122527,
+        "word": "太胖无法变成液态回家的猫",
+        "onboard_time": 1757475085,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118256,
+        "num": 118256,
+        "word": "何老师到底喜欢谁",
+        "onboard_time": 1757473943,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117686,
+        "num": 117686,
+        "word": "纽约中央公园偶遇曾黎晨跑",
+        "onboard_time": 1757474424,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116848,
+        "num": 116848,
+        "word": "一诺是有点演技在身上的",
+        "onboard_time": 1757473763,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111894,
+        "num": 111894,
+        "word": "特朗普说不是我让以色列袭击卡塔尔",
+        "onboard_time": 1757468361,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111456,
+        "num": 111456,
+        "word": "焦俊艳辟谣给papi酱发了8年红包",
+        "onboard_time": 1757475204,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110062,
+        "num": 110062,
+        "word": "董璇美我一大跳",
+        "onboard_time": 1757471483,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98750,
+        "num": 98750,
+        "word": "2分钟的预告成毅打了60秒",
+        "onboard_time": 1757474905,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平写给自己老师的一封信#"
+    }
+  }
+}
