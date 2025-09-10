@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757461015495,
+  "endTime": 1757468877006,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -17,6 +17,14 @@
       "onboard_time": 1757441956,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2746113,
+      "num": 2746113,
+      "word": "李晨 鹿晗",
+      "onboard_time": 1757466803,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 2416499,
@@ -59,7 +67,15 @@
       "category": "数码"
     },
     {
-      "raw_hot": 682120,
+      "raw_hot": 889181,
+      "num": 343165,
+      "word": "最贵iPhone诞生",
+      "onboard_time": 1757462301,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 683175,
       "num": 912533,
       "word": "教师节",
       "onboard_time": 1757459480,
@@ -115,6 +131,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462628,
+      "num": 301824,
+      "word": "辛芷蕾拿了影后刘冲再也没有发过花絮",
+      "onboard_time": 1757460200,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 446796,
+      "num": 269098,
+      "word": "卡塔尔",
+      "onboard_time": 1757465423,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 433343,
       "num": 169951,
       "word": "黄景瑜前妻喊话许凯",
@@ -123,12 +155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420893,
+      "num": 206067,
+      "word": "尼泊尔",
+      "onboard_time": 1757464042,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 403893,
       "num": 906520,
       "word": "游本昌和妻子在养老院现状",
       "onboard_time": 1757423543,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388025,
+      "num": 388025,
+      "word": "宋雨琦特别感谢王安宇的出演",
+      "onboard_time": 1757465543,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 383338,
@@ -145,6 +193,30 @@
       "onboard_time": 1757440277,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 321832,
+      "num": 201774,
+      "word": "那个拒绝感动中国提名的德国人现状",
+      "onboard_time": 1757463083,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321242,
+      "num": 321242,
+      "word": "教师节快乐",
+      "onboard_time": 1757464106,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 302925,
+      "num": 302925,
+      "word": "中医说张小婉对男孩子的防备心重",
+      "onboard_time": 1757462782,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 289391,
@@ -171,12 +243,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 281307,
-      "num": 281307,
-      "word": "辛芷蕾拿了影后刘冲再也没有发过花絮",
-      "onboard_time": 1757460200,
-      "rank": 14,
-      "category": "作品衍生,时尚"
+      "raw_hot": 263208,
+      "num": 263208,
+      "word": "九三阅兵观礼座被二次利用了",
+      "onboard_time": 1757425164,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 242349,
@@ -185,14 +257,6 @@
       "onboard_time": 1757446334,
       "rank": 8,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 239575,
-      "num": 228613,
-      "word": "九三阅兵观礼座被二次利用了",
-      "onboard_time": 1757425164,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 229168,
@@ -227,6 +291,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215045,
+      "num": 199539,
+      "word": "马丁 朱志鑫",
+      "onboard_time": 1757467222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207332,
+      "num": 207332,
+      "word": "苹果发布会彩蛋有王嘉尔",
+      "onboard_time": 1757467523,
+      "rank": 18,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 199839,
       "num": 167887,
       "word": "宋轶疑似取关白敬亭",
@@ -241,6 +321,22 @@
       "onboard_time": 1757434940,
       "rank": 39,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 192485,
+      "num": 192485,
+      "word": "苹果连发7个燃",
+      "onboard_time": 1757468782,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 192274,
+      "num": 200738,
+      "word": "赴山海",
+      "onboard_time": 1757468602,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 189873,
@@ -275,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174669,
+      "num": 174669,
+      "word": "AirPodsPro3",
+      "onboard_time": 1757463744,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173413,
       "num": 173413,
       "word": "李在明批反华集会纯属闹事",
@@ -291,12 +395,44 @@
       "category": "数码"
     },
     {
+      "raw_hot": 171008,
+      "num": 171008,
+      "word": "中国移动回应eSIM问题",
+      "onboard_time": 1757467884,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 170016,
+      "num": 198168,
+      "word": "苹果市值一夜蒸发超3700亿",
+      "onboard_time": 1757466143,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 169583,
+      "num": 196564,
+      "word": "教师节被南京浪漫到了",
+      "onboard_time": 1757465123,
+      "rank": 27,
+      "category": "教育,旅游"
+    },
+    {
       "raw_hot": 166080,
       "num": 166080,
       "word": "韩国感觉后脑勺被打了一闷棍",
       "onboard_time": 1757460140,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165776,
+      "num": 165776,
+      "word": "分手后被前女友告强奸男方家属发声",
+      "onboard_time": 1757466743,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164575,
@@ -331,12 +467,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 158639,
+      "num": 158639,
+      "word": "卡塔尔否认美国提前示警",
+      "onboard_time": 1757466200,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156172,
       "num": 903689,
       "word": "不二之臣官宣男女主",
       "onboard_time": 1757460200,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149790,
+      "num": 149790,
+      "word": "孙莉更新黄多多vlog",
+      "onboard_time": 1757468244,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149459,
+      "num": 149459,
+      "word": "特朗普说不是我让以色列袭击卡塔尔",
+      "onboard_time": 1757468361,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148093,
@@ -371,6 +531,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144364,
+      "num": 144364,
+      "word": "iPhone17pro没有黑白色",
+      "onboard_time": 1757464042,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 139009,
+      "num": 139009,
+      "word": "卢伟冰大赞iPhone17系列",
+      "onboard_time": 1757465184,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 137062,
+      "num": 137062,
+      "word": "iPhoneAir充电口未居中",
+      "onboard_time": 1757464223,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 136154,
+      "num": 136154,
+      "word": "联通回应eSIM版iPhone",
+      "onboard_time": 1757468422,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134590,
       "num": 754947,
       "word": "男子鼻痛18年疑骨瘤开刀取出3cm树枝",
@@ -385,6 +577,14 @@
       "onboard_time": 1757432663,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132864,
+      "num": 137063,
+      "word": "AirPodsPro3耳机缩小",
+      "onboard_time": 1757467401,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 129635,
@@ -435,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114820,
+      "num": 126024,
+      "word": "毛新宇携妻女到毛主席纪念堂祭奠",
+      "onboard_time": 1757465363,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114753,
       "num": 114753,
       "word": "爱马仕橙",
@@ -465,6 +673,14 @@
       "onboard_time": 1757431103,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106547,
+      "num": 140663,
+      "word": "酒店穿拖鞋用餐遭双标对待",
+      "onboard_time": 1757468060,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98699,
@@ -787,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42895,
+      "num": 311712,
+      "word": "张桂梅的愿望泪目了",
+      "onboard_time": 1757466503,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39428,
       "num": 39428,
       "word": "苹果手表支持高血压监测",
@@ -827,11 +1051,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24114,
+      "num": 206899,
+      "word": "iPhone17和iPhone16充电速度对比",
+      "onboard_time": 1757468301,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 22134,
       "num": 22134,
       "word": "iPhone Air追星人必备",
       "onboard_time": 1757446634,
       "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 20612,
+      "num": 194733,
+      "word": "旧款AppleWatch也将支持高血压警报",
+      "onboard_time": 1757468301,
+      "rank": 29,
       "category": "数码"
     },
     {
@@ -843,7 +1083,7 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 5182,
+      "raw_hot": 6582,
       "num": 1150816,
       "word": "为啥歼10是争气机",
       "onboard_time": 1757314282,

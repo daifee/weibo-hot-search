@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757461015495,
+  "endTime": 1757468877006,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -257,6 +257,14 @@
       "onboard_time": 1757345005,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2746113,
+      "num": 2746113,
+      "word": "李晨 鹿晗",
+      "onboard_time": 1757466803,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 2733581,
@@ -1947,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 889181,
+      "num": 343165,
+      "word": "最贵iPhone诞生",
+      "onboard_time": 1757462301,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 887771,
       "num": 362852,
       "word": "田一名官宣恋情",
@@ -2843,7 +2859,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 682120,
+      "raw_hot": 683175,
       "num": 912533,
       "word": "教师节",
       "onboard_time": 1757459480,
@@ -4539,6 +4555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 462628,
+      "num": 301824,
+      "word": "辛芷蕾拿了影后刘冲再也没有发过花絮",
+      "onboard_time": 1757460200,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 462106,
       "num": 479933,
       "word": "12306回应停发纸质车票",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1757419341,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 446796,
+      "num": 269098,
+      "word": "卡塔尔",
+      "onboard_time": 1757465423,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 445924,
@@ -5161,6 +5193,14 @@
       "onboard_time": 1756985601,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420893,
+      "num": 206067,
+      "word": "尼泊尔",
+      "onboard_time": 1757464042,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 420822,
@@ -5539,6 +5579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 388025,
+      "num": 388025,
+      "word": "宋雨琦特别感谢王安宇的出演",
+      "onboard_time": 1757465543,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 387514,
       "num": 387514,
       "word": "陈梦受邀观礼九三阅兵",
@@ -5620,7 +5668,7 @@
     },
     {
       "raw_hot": 382875,
-      "num": 230493,
+      "num": 263208,
       "word": "九三阅兵观礼座被二次利用了",
       "onboard_time": 1757425164,
       "rank": 34,
@@ -6731,6 +6779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321832,
+      "num": 201774,
+      "word": "那个拒绝感动中国提名的德国人现状",
+      "onboard_time": 1757463083,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321242,
+      "num": 321242,
+      "word": "教师节快乐",
+      "onboard_time": 1757464106,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 321008,
       "num": 321008,
       "word": "儿子亮相阅兵那一刻父亲热泪盈眶",
@@ -7089,6 +7153,14 @@
       "onboard_time": 1756724481,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302925,
+      "num": 302925,
+      "word": "中医说张小婉对男孩子的防备心重",
+      "onboard_time": 1757462782,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 302879,
@@ -7577,14 +7649,6 @@
       "onboard_time": 1757060362,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 281307,
-      "num": 281307,
-      "word": "辛芷蕾拿了影后刘冲再也没有发过花絮",
-      "onboard_time": 1757460200,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 281107,
@@ -9283,6 +9347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215045,
+      "num": 199539,
+      "word": "马丁 朱志鑫",
+      "onboard_time": 1757467222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215032,
       "num": 215032,
       "word": "一抬头发现中国留学生都在看阅兵",
@@ -9649,6 +9721,14 @@
       "onboard_time": 1756999463,
       "rank": 42,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 207332,
+      "num": 207332,
+      "word": "苹果发布会彩蛋有王嘉尔",
+      "onboard_time": 1757467523,
+      "rank": 18,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 207264,
@@ -10665,6 +10745,14 @@
       "onboard_time": 1757300184,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192485,
+      "num": 192485,
+      "word": "苹果连发7个燃",
+      "onboard_time": 1757468782,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 192484,
@@ -11995,6 +12083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174669,
+      "num": 174669,
+      "word": "AirPodsPro3",
+      "onboard_time": 1757463744,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174658,
       "num": 329803,
       "word": "樊振东倪妮互关",
@@ -12347,6 +12443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171008,
+      "num": 171008,
+      "word": "中国移动回应eSIM问题",
+      "onboard_time": 1757467884,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 170933,
       "num": 230316,
       "word": "陈梦观看阅兵后发文",
@@ -12459,12 +12563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170016,
+      "num": 198168,
+      "word": "苹果市值一夜蒸发超3700亿",
+      "onboard_time": 1757466143,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169831,
       "num": 169831,
       "word": "毕雯珺张予曦 惹了哄哄完惹",
       "onboard_time": 1757045843,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169583,
+      "num": 196564,
+      "word": "教师节被南京浪漫到了",
+      "onboard_time": 1757465123,
+      "rank": 27,
+      "category": "教育,旅游"
     },
     {
       "raw_hot": 169576,
@@ -12785,6 +12905,14 @@
       "onboard_time": 1757460140,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165776,
+      "num": 165776,
+      "word": "分手后被前女友告强奸男方家属发声",
+      "onboard_time": 1757466743,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165725,
@@ -13529,6 +13657,14 @@
       "onboard_time": 1756809741,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 158639,
+      "num": 158639,
+      "word": "卡塔尔否认美国提前示警",
+      "onboard_time": 1757466200,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158434,
@@ -14483,6 +14619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149790,
+      "num": 149790,
+      "word": "孙莉更新黄多多vlog",
+      "onboard_time": 1757468244,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149765,
       "num": 199834,
       "word": "苏醒对登陆少年说不用起的含金量",
@@ -14521,6 +14665,14 @@
       "onboard_time": 1757400322,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 149459,
+      "num": 149459,
+      "word": "特朗普说不是我让以色列袭击卡塔尔",
+      "onboard_time": 1757468361,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149365,
@@ -15171,6 +15323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144364,
+      "num": 144364,
+      "word": "iPhone17pro没有黑白色",
+      "onboard_time": 1757464042,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144318,
       "num": 223789,
       "word": "尽快建成上海合作组织开发银行",
@@ -15811,6 +15971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139009,
+      "num": 139009,
+      "word": "卢伟冰大赞iPhone17系列",
+      "onboard_time": 1757465184,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 138858,
       "num": 138858,
       "word": "便利店偶遇吴磊",
@@ -16107,6 +16275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137062,
+      "num": 137062,
+      "word": "iPhoneAir充电口未居中",
+      "onboard_time": 1757464223,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137046,
       "num": 137046,
       "word": "为什么奶茶不另外加糖反而更甜",
@@ -16233,6 +16409,14 @@
       "onboard_time": 1757171364,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136154,
+      "num": 136154,
+      "word": "联通回应eSIM版iPhone",
+      "onboard_time": 1757468422,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 136020,
@@ -16585,6 +16769,14 @@
       "onboard_time": 1757432663,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132864,
+      "num": 137063,
+      "word": "AirPodsPro3耳机缩小",
+      "onboard_time": 1757467401,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 132848,
@@ -19331,6 +19523,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 114820,
+      "num": 126024,
+      "word": "毛新宇携妻女到毛主席纪念堂祭奠",
+      "onboard_time": 1757465363,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114753,
       "num": 114753,
       "word": "爱马仕橙",
@@ -20729,6 +20929,14 @@
       "onboard_time": 1757261780,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106547,
+      "num": 140663,
+      "word": "酒店穿拖鞋用餐遭双标对待",
+      "onboard_time": 1757468060,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106536,
@@ -27123,6 +27331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42895,
+      "num": 311712,
+      "word": "张桂梅的愿望泪目了",
+      "onboard_time": 1757466503,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42861,
       "num": 109734,
       "word": "潘展乐全锦赛报名蝶泳",
@@ -28131,6 +28347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24114,
+      "num": 206899,
+      "word": "iPhone17和iPhone16充电速度对比",
+      "onboard_time": 1757468301,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23753,
       "num": 58870,
       "word": "月全食时月亮为何是红色的",
@@ -28329,6 +28553,14 @@
       "onboard_time": 1757147181,
       "rank": 38,
       "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 20612,
+      "num": 194733,
+      "word": "旧款AppleWatch也将支持高血压警报",
+      "onboard_time": 1757468301,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 20560,
@@ -28899,7 +29131,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 6196,
+      "raw_hot": 6582,
       "num": 1150816,
       "word": "为啥歼10是争气机",
       "onboard_time": 1757314282,
