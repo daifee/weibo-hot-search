@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757529308093,
+  "endTime": 1757530046223,
   "band_list": [
     {
       "raw_hot": 901899,
@@ -475,7 +475,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22996,
+      "raw_hot": 24041,
       "num": 26130,
       "word": "男子失踪7年后在黑砖窑被警方解救",
       "onboard_time": 1757518822,
@@ -483,7 +483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18464,
+      "raw_hot": 19501,
       "num": 26100,
       "word": "星巴克回应员工卖不出月饼自购",
       "onboard_time": 1757529075,
@@ -497,6 +497,14 @@
       "onboard_time": 1757526496,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11866,
+      "num": 46204,
+      "word": "美13岁男孩企图实施校园杀戮被捕",
+      "onboard_time": 1757529616,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 4191,

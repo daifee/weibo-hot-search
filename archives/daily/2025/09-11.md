@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/11 00:31:29 ~ 2025/09/11 02:35:08
+本榜单时间：2025/09/11 00:31:29 ~ 2025/09/11 02:47:26
 </p>
 </blockquote>
 <p>
@@ -370,19 +370,25 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E8%B8%AA7%E5%B9%B4%E5%90%8E%E5%9C%A8%E9%BB%91%E7%A0%96%E7%AA%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%A7%A3%E6%95%91%23" target="weibo">
-男子失踪7年后在黑砖窑被警方解救（热度：22996）
+男子失踪7年后在黑砖窑被警方解救（热度：24041）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E5%8D%96%E4%B8%8D%E5%87%BA%E6%9C%88%E9%A5%BC%E8%87%AA%E8%B4%AD%23" target="weibo">
-星巴克回应员工卖不出月饼自购（热度：18464）
+星巴克回应员工卖不出月饼自购（热度：19501）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%B6%E4%BD%9C%E4%BA%BA%E8%AF%B4%E5%91%A8%E6%B7%B1%E9%9F%B3%E5%9F%9F%E8%B7%A8%E5%BA%A6%E5%BE%88%E7%96%AF%E7%8B%82%23" target="weibo">
 制作人说周深音域跨度很疯狂（热度：14814）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E13%E5%B2%81%E7%94%B7%E5%AD%A9%E4%BC%81%E5%9B%BE%E5%AE%9E%E6%96%BD%E6%A0%A1%E5%9B%AD%E6%9D%80%E6%88%AE%E8%A2%AB%E6%8D%95%23" target="weibo">
+美13岁男孩企图实施校园杀戮被捕（热度：11866）
 </a>
 </li>
 
