@@ -1,0 +1,410 @@
+{
+  "runTime": 1757496390179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 685803,
+        "num": 1109728,
+        "word": "美军地狱火导弹击中UFO后被弹开",
+        "onboard_time": 1757493982,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 871214,
+        "num": 871214,
+        "word": "孟子义cos律政俏佳人",
+        "onboard_time": 1757492782,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25202,
+        "num": 594557,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757492962,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500672,
+        "num": 500672,
+        "word": "火箭军倒查9年揪出采购掮客",
+        "onboard_time": 1757487742,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 459730,
+        "num": 459730,
+        "word": "国防部提醒日本谨言慎行",
+        "onboard_time": 1757490981,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343875,
+        "num": 343875,
+        "word": "花少7真的把马思纯养的很好",
+        "onboard_time": 1757488582,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324878,
+        "num": 324878,
+        "word": "100斤女生滥用司美格鲁肽现酮症",
+        "onboard_time": 1757492722,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303862,
+        "num": 303862,
+        "word": "新建黄岩岛国家级自然保护区",
+        "onboard_time": 1757495903,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271444,
+        "num": 271444,
+        "word": "汕头3.8级地震",
+        "onboard_time": 1757490862,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264562,
+        "num": 264562,
+        "word": "花2000万买房又花188万买家装包",
+        "onboard_time": 1757484862,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2350318,
+        "num": 264544,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1478336,
+        "num": 264403,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575879,
+        "num": 264322,
+        "word": "辛芷蕾手机要爆炸了",
+        "onboard_time": 1757486062,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 264309,
+        "word": "iPhone新机首次支持国补",
+        "onboard_time": 1757493202,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 524936,
+        "num": 264226,
+        "word": "豆沙馅真的塌房了",
+        "onboard_time": 1757486482,
+        "rank": 14,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 848230,
+        "num": 264144,
+        "word": "祝绪丹 没有任何讨厌的人",
+        "onboard_time": 1757492243,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508786,
+        "num": 264055,
+        "word": "那英在英国陪女儿读书",
+        "onboard_time": 1757488103,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491781,
+        "num": 263980,
+        "word": "iPhone16背刺最大一代",
+        "onboard_time": 1757477244,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254295,
+        "num": 263870,
+        "word": "国防部回应日本加速军事扩张",
+        "onboard_time": 1757490742,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62827,
+        "num": 263811,
+        "word": "王星越回应茶不离手",
+        "onboard_time": 1757495003,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430546,
+        "num": 263740,
+        "word": "吴倩近态",
+        "onboard_time": 1757494642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285309,
+        "num": 263621,
+        "word": "管乐疑似把粉丝送的礼物送给相亲对象",
+        "onboard_time": 1757482404,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263583,
+        "num": 263583,
+        "word": "大一男生感染艾滋后发声",
+        "onboard_time": 1757496084,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260881,
+        "num": 260881,
+        "word": "特朗普称愿对中印大幅加征关税",
+        "onboard_time": 1757495484,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222886,
+        "num": 222886,
+        "word": "赵磊上婚综是为了正式介绍太太",
+        "onboard_time": 1757476644,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213708,
+        "num": 213708,
+        "word": "美国歌手车箱藏尸",
+        "onboard_time": 1757495062,
+        "rank": 25,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 197046,
+        "num": 197046,
+        "word": "徐冬冬尹子维试婚纱",
+        "onboard_time": 1757495603,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170284,
+        "num": 170284,
+        "word": "pdf不行 得PDF才行",
+        "onboard_time": 1757488703,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169730,
+        "num": 169730,
+        "word": "iPhone17ProMax离谱手机壳",
+        "onboard_time": 1757484743,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130199,
+        "num": 167758,
+        "word": "赵涛帮辛芷蕾争取到了影后奖",
+        "onboard_time": 1757493023,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167188,
+        "num": 167188,
+        "word": "六部门开展汽车行业网络乱象整治",
+        "onboard_time": 1757491402,
+        "rank": 30,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 157913,
+        "num": 157913,
+        "word": "未拴绳大狗撞倒女子致其当场死亡",
+        "onboard_time": 1757495964,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159917,
+        "num": 156869,
+        "word": "巨型梁龙 人体蜈蚣",
+        "onboard_time": 1757492243,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166494,
+        "num": 156045,
+        "word": "此沙顶级骨相",
+        "onboard_time": 1757495544,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154703,
+        "num": 154703,
+        "word": "iPhone17",
+        "onboard_time": 1757439376,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150855,
+        "num": 150855,
+        "word": "孙颖莎回应晋级女单16强",
+        "onboard_time": 1757495903,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149755,
+        "num": 149755,
+        "word": "巨石强森一身肌肉快瘦没了",
+        "onboard_time": 1757492602,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147142,
+        "num": 147142,
+        "word": "网红柴怼怼被警方带走调查",
+        "onboard_time": 1757487443,
+        "rank": 37,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 69157,
+        "num": 144014,
+        "word": "一家六口坐小火车脱轨飞出",
+        "onboard_time": 1757495484,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86502,
+        "num": 143987,
+        "word": "卡塔尔空军战斗力",
+        "onboard_time": 1757496084,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143960,
+        "num": 143960,
+        "word": "户晨风 安卓完",
+        "onboard_time": 1757492663,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139226,
+        "num": 139226,
+        "word": "福建不明飞行物",
+        "onboard_time": 1757491882,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135334,
+        "num": 135334,
+        "word": "特朗普被爆向欧盟提惊人要求",
+        "onboard_time": 1757494342,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133014,
+        "num": 133014,
+        "word": "上海机场 水果楼层",
+        "onboard_time": 1757494943,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128087,
+        "num": 128087,
+        "word": "买iPhone17还是等国产旗舰",
+        "onboard_time": 1757494882,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122458,
+        "num": 122458,
+        "word": "现在的大学一个班好几个大主播",
+        "onboard_time": 1757495722,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121881,
+        "num": 121881,
+        "word": "孙颖莎擦手机像擦球拍",
+        "onboard_time": 1757493503,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118599,
+        "num": 118599,
+        "word": "T1对战DK",
+        "onboard_time": 1757495242,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107459,
+        "num": 107459,
+        "word": "娜扎把杨幂编辑掉了",
+        "onboard_time": 1757475564,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91844,
+        "num": 104894,
+        "word": "刘念何聪睿就这样旁若无人",
+        "onboard_time": 1757492062,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2025年服贸会致贺信#"
+    }
+  }
+}

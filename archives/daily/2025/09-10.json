@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757493969247,
+  "endTime": 1757496390179,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -115,6 +115,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 871214,
+      "num": 871214,
+      "word": "孟子义cos律政俏佳人",
+      "onboard_time": 1757492782,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 848230,
+      "num": 264144,
+      "word": "祝绪丹 没有任何讨厌的人",
+      "onboard_time": 1757492243,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846686,
       "num": 359613,
       "word": "管乐疑似把粉丝送的礼物送给相亲对象",
@@ -163,6 +179,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 685803,
+      "num": 1109728,
+      "word": "美军地狱火导弹击中UFO后被弹开",
+      "onboard_time": 1757493982,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 681775,
       "num": 681775,
       "word": "吴雅婷回应王栎鑫患焦虑症",
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 639055,
-      "num": 253866,
+      "num": 264055,
       "word": "那英在英国陪女儿读书",
       "onboard_time": 1757488103,
       "rank": 20,
@@ -347,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 459730,
+      "num": 459730,
+      "word": "国防部提醒日本谨言慎行",
+      "onboard_time": 1757490981,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 452371,
       "num": 412840,
       "word": "韩国iPhoneAir没有捏合手势",
@@ -379,20 +411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430546,
+      "num": 263740,
+      "word": "吴倩近态",
+      "onboard_time": 1757494642,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429108,
       "num": 954283,
       "word": "男子高铁座位上旁若无人抽烟",
       "onboard_time": 1757480425,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 410622,
-      "num": 410622,
-      "word": "孟子义cos律政俏佳人",
-      "onboard_time": 1757492782,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 404788,
@@ -409,14 +441,6 @@
       "onboard_time": 1757423543,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 399680,
-      "num": 399680,
-      "word": "国防部提醒日本谨言慎行",
-      "onboard_time": 1757490981,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 398090,
@@ -499,6 +523,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 324878,
+      "num": 324878,
+      "word": "100斤女生滥用司美格鲁肽现酮症",
+      "onboard_time": 1757492722,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322572,
       "num": 342950,
       "word": "受害者家属被催缴24万天价停尸费",
@@ -531,12 +563,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 306163,
-      "num": 251187,
-      "word": "祝绪丹 没有任何讨厌的人",
-      "onboard_time": 1757492243,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 303862,
+      "num": 303862,
+      "word": "新建黄岩岛国家级自然保护区",
+      "onboard_time": 1757495903,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302925,
@@ -619,12 +651,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 263583,
+      "num": 263583,
+      "word": "大一男生感染艾滋后发声",
+      "onboard_time": 1757496084,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263208,
       "num": 1029812,
       "word": "九三阅兵观礼座被二次利用了",
       "onboard_time": 1757425164,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260881,
+      "num": 260881,
+      "word": "特朗普称愿对中印大幅加征关税",
+      "onboard_time": 1757495484,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 253402,
@@ -761,6 +809,14 @@
       "onboard_time": 1757427265,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213708,
+      "num": 213708,
+      "word": "美国歌手车箱藏尸",
+      "onboard_time": 1757495062,
+      "rank": 25,
+      "category": "艺人,海外新闻"
     },
     {
       "raw_hot": 213169,
@@ -937,6 +993,14 @@
       "onboard_time": 1757480605,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197046,
+      "num": 197046,
+      "word": "徐冬冬尹子维试婚纱",
+      "onboard_time": 1757495603,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197030,
@@ -1243,6 +1307,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 166494,
+      "num": 156045,
+      "word": "此沙顶级骨相",
+      "onboard_time": 1757495544,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166245,
       "num": 166245,
       "word": "月经3天干净和7天干净都一样",
@@ -1363,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157913,
+      "num": 157913,
+      "word": "未拴绳大狗撞倒女子致其当场死亡",
+      "onboard_time": 1757495964,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157483,
       "num": 239730,
       "word": "张艺兴张艺谋合照",
@@ -1395,20 +1475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150855,
+      "num": 150855,
+      "word": "孙颖莎回应晋级女单16强",
+      "onboard_time": 1757495903,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150050,
       "num": 274419,
       "word": "iPhone新机首次支持国补",
       "onboard_time": 1757486722,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 149822,
-      "num": 149822,
-      "word": "100斤女生滥用司美格鲁肽现酮症",
-      "onboard_time": 1757492722,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148238,
@@ -1531,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139226,
+      "num": 143795,
+      "word": "福建不明飞行物",
+      "onboard_time": 1757491882,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138791,
       "num": 138791,
       "word": "2分钟的预告成毅打了60秒",
@@ -1603,6 +1691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135334,
+      "num": 135334,
+      "word": "特朗普被爆向欧盟提惊人要求",
+      "onboard_time": 1757494342,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135181,
       "num": 170231,
       "word": "花30万娶的老婆一个月不到跑了",
@@ -1649,6 +1745,14 @@
       "onboard_time": 1757475624,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133014,
+      "num": 133014,
+      "word": "上海机场 水果楼层",
+      "onboard_time": 1757494943,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132986,
@@ -1739,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128087,
+      "num": 128087,
+      "word": "买iPhone17还是等国产旗舰",
+      "onboard_time": 1757494882,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127435,
       "num": 162756,
       "word": "各科老师经典语录",
@@ -1819,6 +1931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122458,
+      "num": 122458,
+      "word": "现在的大学一个班好几个大主播",
+      "onboard_time": 1757495722,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122309,
       "num": 206899,
       "word": "iPhone17和iPhone16充电速度对比",
@@ -1835,20 +1955,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120307,
-      "num": 143795,
-      "word": "福建不明飞行物",
-      "onboard_time": 1757491882,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119036,
       "num": 84260,
       "word": "梓渝60秒广告报价60万",
       "onboard_time": 1757417723,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118599,
+      "num": 118599,
+      "word": "T1对战DK",
+      "onboard_time": 1757495242,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 118256,
@@ -2163,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86502,
+      "num": 143987,
+      "word": "卡塔尔空军战斗力",
+      "onboard_time": 1757496084,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86290,
       "num": 86290,
       "word": "Apple Watch系列",
@@ -2379,6 +2507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 69157,
+      "num": 144014,
+      "word": "一家六口坐小火车脱轨飞出",
+      "onboard_time": 1757495484,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68672,
       "num": 238158,
       "word": "警方回应文昌阁小猫遭挖眼砍断四肢",
@@ -2425,6 +2561,14 @@
       "onboard_time": 1757427922,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62827,
+      "num": 263811,
+      "word": "王星越回应茶不离手",
+      "onboard_time": 1757495003,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 61847,
@@ -2588,7 +2732,7 @@
     },
     {
       "raw_hot": 39465,
-      "num": 474248,
+      "num": 594557,
       "word": "砥砺奋进七十载天山南北谱华章",
       "onboard_time": 1757492962,
       "rank": 6,
