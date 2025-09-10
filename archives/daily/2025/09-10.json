@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757504239770,
+  "endTime": 1757508564812,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -80,6 +80,14 @@
       "word": "医生回应男生感染艾滋以为军训太累",
       "onboard_time": 1757497522,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1271645,
+      "num": 263571,
+      "word": "6旬大爷裸聊主播8天花光全部积蓄",
+      "onboard_time": 1757501301,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690265,
+      "num": 163319,
+      "word": "聚是七个蛋 散是鸡蛋羹",
+      "onboard_time": 1757502742,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 681775,
       "num": 681775,
       "word": "吴雅婷回应王栎鑫患焦虑症",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 641911,
-      "num": 641911,
+      "num": 1086832,
       "word": "李在明 这算哪门子言论自由",
       "onboard_time": 1757498482,
       "rank": 9,
@@ -371,11 +387,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 540629,
+      "num": 370175,
+      "word": "香奈儿 收集癖",
+      "onboard_time": 1757502202,
+      "rank": 16,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 522369,
       "num": 377382,
       "word": "张惠妹决定无限期停工",
       "onboard_time": 1757473825,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 515112,
+      "num": 162770,
+      "word": "林更新还回内娱吗",
+      "onboard_time": 1757505202,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -483,12 +515,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 443384,
-      "num": 263571,
-      "word": "6旬大爷裸聊主播8天花光全部积蓄",
-      "onboard_time": 1757501301,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 443732,
+      "num": 443732,
+      "word": "玉兰花开君再来 杨紫成毅",
+      "onboard_time": 1757500522,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 433559,
@@ -521,6 +553,14 @@
       "onboard_time": 1757495964,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410286,
+      "num": 410286,
+      "word": "陈伟霆张家人真的不会老",
+      "onboard_time": 1757505562,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 404788,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 389345,
-      "num": 144152,
+      "num": 162586,
       "word": "当我冲着女儿的颜值生了二胎",
       "onboard_time": 1757503223,
       "rank": 30,
@@ -611,28 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370175,
-      "num": 370175,
-      "word": "香奈儿 收集癖",
-      "onboard_time": 1757502202,
-      "rank": 16,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 347403,
       "num": 308406,
       "word": "辛芷蕾助理小号",
       "onboard_time": 1757474184,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341519,
-      "num": 341519,
-      "word": "玉兰花开君再来 杨紫成毅",
-      "onboard_time": 1757500522,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 340037,
@@ -683,8 +707,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 303482,
-      "num": 272145,
+      "raw_hot": 305029,
+      "num": 305029,
       "word": "黄岩岛国家级自然保护区",
       "onboard_time": 1757502022,
       "rank": 9,
@@ -785,6 +809,14 @@
       "onboard_time": 1757425164,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 254721,
+      "num": 254721,
+      "word": "董军同美国防部长视频通话",
+      "onboard_time": 1757506643,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 253402,
@@ -912,6 +944,14 @@
       "word": "巨石强森一身肌肉快瘦没了",
       "onboard_time": 1757492602,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215504,
+      "num": 161893,
+      "word": "钟楚曦被曝分手后首现身",
+      "onboard_time": 1757503941,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1137,6 +1177,14 @@
       "onboard_time": 1757484442,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193885,
+      "num": 193885,
+      "word": "微信更新",
+      "onboard_time": 1757507062,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 192886,
@@ -1395,6 +1443,14 @@
       "category": "教育,旅游"
     },
     {
+      "raw_hot": 169546,
+      "num": 161258,
+      "word": "内娱选秀C位 从群嘲到用实力证明",
+      "onboard_time": 1757505862,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168904,
       "num": 168904,
       "word": "部分人买iPhone竟然因其保值",
@@ -1555,11 +1611,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161051,
+      "num": 161051,
+      "word": "真夫妻牵手走红毯就是好嗑",
+      "onboard_time": 1757506943,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "田栩宁星火繁花",
       "onboard_time": 1757488162,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159775,
+      "num": 159775,
+      "word": "向鹏止步澳门冠军赛首轮",
+      "onboard_time": 1757507243,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158223,
+      "num": 158223,
+      "word": "秘密世界 孟子义",
+      "onboard_time": 1757507664,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1595,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151604,
+      "num": 151604,
+      "word": "向鹏2比3弗朗西斯卡",
+      "onboard_time": 1757506943,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150855,
       "num": 150855,
       "word": "孙颖莎回应晋级女单16强",
@@ -1609,14 +1697,6 @@
       "onboard_time": 1757486722,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 148948,
-      "num": 148948,
-      "word": "聚是七个蛋 散是鸡蛋羹",
-      "onboard_time": 1757502742,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 148365,
@@ -2035,6 +2115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 129259,
+      "num": 129259,
+      "word": "戚薇美背",
+      "onboard_time": 1757506522,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129220,
       "num": 129220,
       "word": "施华蔻处女发质翻译陷辱女争议",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1757494882,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127889,
+      "num": 127889,
+      "word": "威慑中国是绝对行不通的",
+      "onboard_time": 1757507602,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127435,
@@ -2235,6 +2331,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119458,
+      "num": 119458,
+      "word": "钟楚曦绿裙",
+      "onboard_time": 1757506522,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119446,
+      "num": 119446,
+      "word": "年轻人的消费逻辑变了",
+      "onboard_time": 1757505862,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 119036,
       "num": 84260,
       "word": "梓渝60秒广告报价60万",
@@ -2331,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115059,
+      "num": 121386,
+      "word": "27岁小伙相亲20多次患惊恐症",
+      "onboard_time": 1757504000,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114820,
       "num": 126024,
       "word": "毛新宇携妻女到毛主席纪念堂祭奠",
@@ -2363,6 +2483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113568,
+      "num": 113568,
+      "word": "郑州及周边成暴雨大暴雨核心区",
+      "onboard_time": 1757504241,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113446,
       "num": 113446,
       "word": "苹果iOS26新增图标变色功能",
@@ -2377,6 +2505,14 @@
       "onboard_time": 1757442196,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113150,
+      "num": 113150,
+      "word": "三大运营商eSIM手机业务最新进展",
+      "onboard_time": 1757508381,
+      "rank": 43,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 112676,
@@ -2451,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105442,
+      "num": 115983,
+      "word": "这个设计失误坑了全球用户",
+      "onboard_time": 1757507602,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105135,
       "num": 105135,
       "word": "超薄iPhoneAir会弯折变形吗",
@@ -2481,6 +2625,22 @@
       "onboard_time": 1757473643,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102240,
+      "num": 102240,
+      "word": "郭焱谈孙颖莎发球被裁判提醒",
+      "onboard_time": 1757508441,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101511,
+      "num": 101511,
+      "word": "继奶茶后冰红茶成商战新赛道",
+      "onboard_time": 1757508502,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100033,
@@ -2553,6 +2713,14 @@
       "onboard_time": 1757442076,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95329,
+      "num": 106543,
+      "word": "马龙贵气",
+      "onboard_time": 1757506882,
+      "rank": 45,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 95212,
@@ -2787,14 +2955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80856,
-      "num": 121386,
-      "word": "27岁小伙相亲20多次患惊恐症",
-      "onboard_time": 1757504000,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79781,
       "num": 79781,
       "word": "肖战同款焖猪蹄订单量翻番",
@@ -2825,6 +2985,14 @@
       "onboard_time": 1757426963,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78377,
+      "num": 116058,
+      "word": "摇头晃脑孙颖莎",
+      "onboard_time": 1757507664,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 78227,
@@ -3131,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45778,
+      "num": 128253,
+      "word": "iPhone17系列选购指南",
+      "onboard_time": 1757508084,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45557,
       "num": 105923,
       "word": "外交部回应蔡英文窜访日本",
@@ -3161,6 +3337,14 @@
       "onboard_time": 1757433442,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42906,
+      "num": 161357,
+      "word": "一年四季都出片的阿勒泰",
+      "onboard_time": 1757501962,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42895,
@@ -3313,14 +3497,6 @@
       "onboard_time": 1757424444,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22734,
-      "num": 121631,
-      "word": "钟楚曦被曝分手后首现身",
-      "onboard_time": 1757503941,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 22134,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1757508564812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 542705,
+        "num": 1086832,
+        "word": "李在明 这算哪门子言论自由",
+        "onboard_time": 1757498482,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 443732,
+        "num": 443732,
+        "word": "玉兰花开君再来 杨紫成毅",
+        "onboard_time": 1757500522,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23966,
+        "num": 413989,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757492962,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410286,
+        "num": 410286,
+        "word": "陈伟霆张家人真的不会老",
+        "onboard_time": 1757505562,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305029,
+        "num": 305029,
+        "word": "黄岩岛国家级自然保护区",
+        "onboard_time": 1757502022,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301206,
+        "num": 301206,
+        "word": "黄岩岛",
+        "onboard_time": 1757496861,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254721,
+        "num": 254721,
+        "word": "董军同美国防部长视频通话",
+        "onboard_time": 1757506643,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205216,
+        "num": 205216,
+        "word": "100斤女生滥用司美格鲁肽现酮症",
+        "onboard_time": 1757492722,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193885,
+        "num": 193885,
+        "word": "微信更新",
+        "onboard_time": 1757507062,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186216,
+        "num": 186216,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1757501001,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1271645,
+        "num": 180077,
+        "word": "6旬大爷裸聊主播8天花光全部积蓄",
+        "onboard_time": 1757501301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164191,
+        "num": 164191,
+        "word": "新建黄岩岛国家级自然保护区",
+        "onboard_time": 1757495903,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1200786,
+        "num": 164084,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1075880,
+        "num": 163766,
+        "word": "煮方便面vs泡方便面",
+        "onboard_time": 1757500402,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 710293,
+        "num": 163542,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690265,
+        "num": 163319,
+        "word": "聚是七个蛋 散是鸡蛋羹",
+        "onboard_time": 1757502742,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 540629,
+        "num": 163108,
+        "word": "香奈儿 收集癖",
+        "onboard_time": 1757502202,
+        "rank": 16,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 515112,
+        "num": 162770,
+        "word": "林更新还回内娱吗",
+        "onboard_time": 1757505202,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382107,
+        "num": 162586,
+        "word": "当我冲着女儿的颜值生了二胎",
+        "onboard_time": 1757503223,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342502,
+        "num": 162390,
+        "word": "未拴绳大狗撞倒女子致其当场死亡",
+        "onboard_time": 1757495964,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231970,
+        "num": 162071,
+        "word": "三星嘲讽iPhone17系列",
+        "onboard_time": 1757498362,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215504,
+        "num": 161893,
+        "word": "钟楚曦被曝分手后首现身",
+        "onboard_time": 1757503941,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195282,
+        "num": 161565,
+        "word": "李炮儿 网红终结者",
+        "onboard_time": 1757500882,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42906,
+        "num": 161357,
+        "word": "一年四季都出片的阿勒泰",
+        "onboard_time": 1757501962,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169546,
+        "num": 161258,
+        "word": "内娱选秀C位 从群嘲到用实力证明",
+        "onboard_time": 1757505862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161051,
+        "num": 161051,
+        "word": "真夫妻牵手走红毯就是好嗑",
+        "onboard_time": 1757506943,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159775,
+        "num": 159775,
+        "word": "向鹏止步澳门冠军赛首轮",
+        "onboard_time": 1757507243,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158223,
+        "num": 158223,
+        "word": "秘密世界 孟子义",
+        "onboard_time": 1757507664,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151604,
+        "num": 151604,
+        "word": "向鹏2比3弗朗西斯卡",
+        "onboard_time": 1757506943,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139422,
+        "num": 139422,
+        "word": "黄景瑜前妻曾被要求去医院看病",
+        "onboard_time": 1757502323,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129259,
+        "num": 129259,
+        "word": "戚薇美背",
+        "onboard_time": 1757506522,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45778,
+        "num": 128253,
+        "word": "iPhone17系列选购指南",
+        "onboard_time": 1757508084,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127889,
+        "num": 127889,
+        "word": "威慑中国是绝对行不通的",
+        "onboard_time": 1757507602,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124162,
+        "num": 124162,
+        "word": "以为很不卫生实际巨养牙",
+        "onboard_time": 1757501182,
+        "rank": 33,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 119458,
+        "num": 119458,
+        "word": "钟楚曦绿裙",
+        "onboard_time": 1757506522,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119446,
+        "num": 119446,
+        "word": "年轻人的消费逻辑变了",
+        "onboard_time": 1757505862,
+        "rank": 35,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 118530,
+        "num": 118530,
+        "word": "吴倩近态",
+        "onboard_time": 1757494642,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118514,
+        "num": 118514,
+        "word": "孟子义cos律政俏佳人",
+        "onboard_time": 1757492782,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78377,
+        "num": 116058,
+        "word": "摇头晃脑孙颖莎",
+        "onboard_time": 1757507664,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105442,
+        "num": 115983,
+        "word": "这个设计失误坑了全球用户",
+        "onboard_time": 1757507602,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115912,
+        "num": 115912,
+        "word": "管乐疑似把粉丝送的礼物送给相亲对象",
+        "onboard_time": 1757482404,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115059,
+        "num": 115059,
+        "word": "27岁小伙相亲20多次患惊恐症",
+        "onboard_time": 1757504000,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113568,
+        "num": 113568,
+        "word": "郑州及周边成暴雨大暴雨核心区",
+        "onboard_time": 1757504241,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113150,
+        "num": 113150,
+        "word": "三大运营商eSIM手机业务最新进展",
+        "onboard_time": 1757508381,
+        "rank": 43,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 111562,
+        "num": 111562,
+        "word": "美军地狱火导弹击中UFO后被弹开",
+        "onboard_time": 1757493982,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95329,
+        "num": 106543,
+        "word": "马龙贵气",
+        "onboard_time": 1757506882,
+        "rank": 45,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 102240,
+        "num": 102240,
+        "word": "郭焱谈孙颖莎发球被裁判提醒",
+        "onboard_time": 1757508441,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101511,
+        "num": 101511,
+        "word": "继奶茶后冰红茶成商战新赛道",
+        "onboard_time": 1757508502,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82051,
+        "num": 96791,
+        "word": "假如惠英红刘亦菲演捕风追影",
+        "onboard_time": 1757503642,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78826,
+        "num": 96233,
+        "word": "宋亚轩的副业不会是贴膜吧",
+        "onboard_time": 1757503281,
+        "rank": 49,
+        "category": "综艺,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记尊师重教的情怀#"
+    }
+  }
+}
