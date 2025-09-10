@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757493209297,
+  "endTime": 1757493969247,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3389212,
-      "num": 240819,
+      "num": 270561,
       "word": "祝绪丹手滑",
       "onboard_time": 1757489242,
       "rank": 11,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 639055,
-      "num": 249887,
+      "num": 253866,
       "word": "那英在英国陪女儿读书",
       "onboard_time": 1757488103,
       "rank": 20,
@@ -249,6 +249,14 @@
       "onboard_time": 1757476466,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 576453,
+      "num": 576453,
+      "word": "花少7真的把马思纯养的很好",
+      "onboard_time": 1757488582,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 573890,
@@ -379,11 +387,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423076,
-      "num": 423076,
-      "word": "花少7真的把马思纯养的很好",
-      "onboard_time": 1757488582,
-      "rank": 29,
+      "raw_hot": 410622,
+      "num": 410622,
+      "word": "孟子义cos律政俏佳人",
+      "onboard_time": 1757492782,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399680,
+      "num": 399680,
+      "word": "国防部提醒日本谨言慎行",
+      "onboard_time": 1757490981,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 398090,
       "num": 398090,
       "word": "广西通报初一新生在校坠楼身亡",
@@ -417,6 +433,14 @@
       "onboard_time": 1757490862,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387646,
+      "num": 387646,
+      "word": "国防部回应日本加速军事扩张",
+      "onboard_time": 1757490742,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 383338,
@@ -449,14 +473,6 @@
       "onboard_time": 1757477785,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350760,
-      "num": 350760,
-      "word": "国防部回应日本加速军事扩张",
-      "onboard_time": 1757490742,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 347403,
@@ -513,6 +529,14 @@
       "onboard_time": 1757464106,
       "rank": 8,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 306163,
+      "num": 251187,
+      "word": "祝绪丹 没有任何讨厌的人",
+      "onboard_time": 1757492243,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 302925,
@@ -619,14 +643,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 243621,
-      "num": 243621,
-      "word": "国防部提醒日本谨言慎行",
-      "onboard_time": 1757490981,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 242349,
       "num": 390940,
       "word": "eSIM",
@@ -707,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223734,
+      "num": 278102,
+      "word": "六部门开展汽车行业网络乱象整治",
+      "onboard_time": 1757491402,
+      "rank": 32,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 219766,
       "num": 219766,
       "word": "马思纯回应网友让她和张晚意拍戏",
@@ -721,6 +745,14 @@
       "onboard_time": 1757492062,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215601,
+      "num": 215601,
+      "word": "巨石强森一身肌肉快瘦没了",
+      "onboard_time": 1757492602,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 215257,
@@ -739,22 +771,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 211365,
-      "num": 211365,
-      "word": "祝绪丹 没有任何讨厌的人",
-      "onboard_time": 1757492243,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 209974,
-      "num": 209974,
-      "word": "六部门开展汽车行业网络乱象整治",
-      "onboard_time": 1757491402,
-      "rank": 32,
-      "category": "汽车,民生新闻"
-    },
-    {
       "raw_hot": 208005,
       "num": 340685,
       "word": "宋雨琦这张脸早该演现偶了",
@@ -763,8 +779,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205562,
-      "num": 205562,
+      "raw_hot": 206294,
+      "num": 206294,
       "word": "巨型梁龙 人体蜈蚣",
       "onboard_time": 1757492243,
       "rank": 33,
@@ -907,6 +923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 197299,
+      "num": 220999,
+      "word": "赵涛帮辛芷蕾争取到了影后奖",
+      "onboard_time": 1757493023,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197093,
       "num": 197093,
       "word": "当自驾游只有我会开车时",
@@ -931,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194273,
-      "num": 222121,
-      "word": "孟子义cos律政俏佳人",
-      "onboard_time": 1757492782,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194194,
       "num": 194194,
       "word": "大学生一天旅游四个城市是什么体验",
@@ -953,6 +969,14 @@
       "onboard_time": 1757484442,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 192886,
+      "num": 195831,
+      "word": "孙颖莎擦手机像擦球拍",
+      "onboard_time": 1757493503,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 192274,
@@ -987,6 +1011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187405,
+      "num": 195468,
+      "word": "印象最深最有意义的文创是什么",
+      "onboard_time": 1757493442,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186397,
       "num": 198547,
       "word": "每天喝咖啡是续命还是促癌",
@@ -995,20 +1027,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 186289,
-      "num": 220999,
-      "word": "赵涛帮辛芷蕾争取到了影后奖",
-      "onboard_time": 1757493023,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185983,
       "num": 178170,
       "word": "iPhone17ProMax离谱手机壳",
       "onboard_time": 1757484743,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185266,
+      "num": 185266,
+      "word": "孙颖莎3比1赫尔希",
+      "onboard_time": 1757493323,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 184793,
@@ -1096,14 +1128,6 @@
       "word": "张维伊回应换发型称从头再来",
       "onboard_time": 1757479767,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175939,
-      "num": 175939,
-      "word": "巨石强森一身肌肉快瘦没了",
-      "onboard_time": 1757492602,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1275,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164078,
+      "num": 164078,
+      "word": "户晨风 安卓完",
+      "onboard_time": 1757492663,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163810,
       "num": 163810,
       "word": "iPhone17 边拍演唱会边拍自己",
@@ -1364,19 +1396,19 @@
     },
     {
       "raw_hot": 150050,
-      "num": 130184,
+      "num": 274419,
       "word": "iPhone新机首次支持国补",
       "onboard_time": 1757486722,
       "rank": 44,
       "category": "数码"
     },
     {
-      "raw_hot": 148269,
-      "num": 148269,
-      "word": "户晨风 安卓完",
-      "onboard_time": 1757492663,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 149822,
+      "num": 149822,
+      "word": "100斤女生滥用司美格鲁肽现酮症",
+      "onboard_time": 1757492722,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148238,
@@ -1507,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "100斤女生滥用司美格鲁肽现酮症",
-      "onboard_time": 1757492722,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138451,
       "num": 138451,
       "word": "太胖无法变成液态回家的猫",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1757468422,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 135858,
+      "num": 135858,
+      "word": "22岁小鲜肉变成47岁大叔的全过程",
+      "onboard_time": 1757493862,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 135854,
@@ -1657,6 +1689,14 @@
       "onboard_time": 1757469621,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130285,
+      "num": 130285,
+      "word": "iPhone摄像头 插里排气",
+      "onboard_time": 1757493621,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 130008,
@@ -2187,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 82168,
+      "num": 221134,
+      "word": "高德推出全球首个用脚投票美食榜",
+      "onboard_time": 1757490024,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82047,
       "num": 87342,
       "word": "宋雨琦还痛吗MV",
@@ -2267,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74347,
+      "num": 248971,
+      "word": "华莱士10元3堡吃过都说好",
+      "onboard_time": 1757491583,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 72440,
       "num": 72440,
       "word": "单依纯 栩栩华生CEO",
@@ -2291,20 +2347,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 71084,
+      "num": 220744,
+      "word": "高德升级为阿里生活服务超级入口",
+      "onboard_time": 1757491462,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70975,
       "num": 70975,
       "word": "一说拍照杨洋洗了把脸就来了",
       "onboard_time": 1757425283,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70930,
-      "num": 221134,
-      "word": "高德推出全球首个用脚投票美食榜",
-      "onboard_time": 1757490024,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 70808,
@@ -2355,14 +2411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63273,
-      "num": 220744,
-      "word": "高德升级为阿里生活服务超级入口",
-      "onboard_time": 1757491462,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 63132,
       "num": 63132,
       "word": "iPhone17Pro散热",
@@ -2411,14 +2459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54429,
-      "num": 224320,
-      "word": "华莱士10元3堡吃过都说好",
-      "onboard_time": 1757491583,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 54300,
       "num": 66057,
       "word": "老师谢谢你",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1757458638,
       "rank": 48,
       "category": "教育,读书作家"
+    },
+    {
+      "raw_hot": 51308,
+      "num": 165008,
+      "word": "陈慧琳52岁状态",
+      "onboard_time": 1757493442,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 50617,
@@ -2539,6 +2587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 39465,
+      "num": 474248,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1757492962,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39428,
       "num": 39428,
       "word": "苹果手表支持高血压监测",
@@ -2635,14 +2691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24126,
-      "num": 306473,
-      "word": "砥砺奋进七十载天山南北谱华章",
-      "onboard_time": 1757492962,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22134,
       "num": 22134,
       "word": "iPhone Air追星人必备",
@@ -2735,6 +2783,9 @@
     },
     {
       "word": "#习近平向2025年服贸会致贺信#"
+    },
+    {
+      "word": "#感悟总书记尊师重教的情怀#"
     }
   ]
 }
