@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757481817922,
+  "endTime": 1757482811035,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -44,11 +44,27 @@
     },
     {
       "raw_hot": 1070811,
-      "num": 345067,
+      "num": 874366,
       "word": "娜扎把杨幂编辑掉了",
       "onboard_time": 1757475564,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1000751,
+      "num": 1000751,
+      "word": "iPhone16背刺最大一代",
+      "onboard_time": 1757477244,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 965473,
+      "num": 1154475,
+      "word": "赵磊上婚综是为了正式介绍太太",
+      "onboard_time": 1757476644,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 952222,
@@ -75,28 +91,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 921848,
-      "num": 346366,
-      "word": "iPhone16背刺最大一代",
-      "onboard_time": 1757477244,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 915759,
-      "num": 1146521,
-      "word": "赵磊上婚综是为了正式介绍太太",
-      "onboard_time": 1757476644,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 902583,
       "num": 902583,
       "word": "iPhone17Pro 丑",
       "onboard_time": 1757441416,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 828783,
+      "num": 828783,
+      "word": "田栩宁费加罗九月刊封面预告",
+      "onboard_time": 1757482344,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 735131,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 618027,
-      "num": 346634,
+      "num": 1070794,
       "word": "日本民众喊话石平滚出日本",
       "onboard_time": 1757477726,
       "rank": 16,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 577350,
-      "num": 341392,
+      "num": 545047,
       "word": "大黄胡楚靓 远离low货",
       "onboard_time": 1757476466,
       "rank": 21,
@@ -228,11 +236,19 @@
     },
     {
       "raw_hot": 477574,
-      "num": 367198,
+      "num": 999432,
       "word": "iPhone16需求不降反升",
       "onboard_time": 1757476466,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 464566,
+      "num": 1049991,
+      "word": "巩俐周迅赵丽颖倪妮祝贺辛芷蕾",
+      "onboard_time": 1757481623,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 462628,
@@ -241,6 +257,14 @@
       "onboard_time": 1757460200,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 461094,
+      "num": 879890,
+      "word": "辛芷蕾收到女演员们集体祝福",
+      "onboard_time": 1757480067,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 433559,
@@ -257,14 +281,6 @@
       "onboard_time": 1757399602,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409136,
-      "num": 339427,
-      "word": "辛芷蕾收到女演员们集体祝福",
-      "onboard_time": 1757480067,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 404788,
@@ -315,8 +331,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 364213,
-      "num": 245654,
+      "raw_hot": 372716,
+      "num": 372716,
       "word": "肖战一觉醒来被判了一千兆年",
       "onboard_time": 1757477785,
       "rank": 38,
@@ -337,6 +353,14 @@
       "onboard_time": 1757471061,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323673,
+      "num": 236613,
+      "word": "洗澡三小时 客户被盘了一个半小时",
+      "onboard_time": 1757481803,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 322572,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 298442,
-      "num": 298442,
+      "num": 1144240,
       "word": "花中国的钱插刀中国绝不容忍",
       "onboard_time": 1757480004,
       "rank": 16,
@@ -481,6 +505,14 @@
       "onboard_time": 1757478807,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229456,
+      "num": 954283,
+      "word": "男子高铁座位上旁若无人抽烟",
+      "onboard_time": 1757480425,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229168,
@@ -587,20 +619,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199483,
+      "num": 199483,
+      "word": "旅游才是断舍离的最佳时期",
+      "onboard_time": 1757481623,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 198993,
       "num": 917547,
       "word": "卡塔尔否认美国提前示警",
       "onboard_time": 1757466200,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 198573,
-      "num": 208571,
-      "word": "巩俐周迅赵丽颖倪妮祝贺辛芷蕾",
-      "onboard_time": 1757481623,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 198167,
@@ -640,14 +672,6 @@
       "word": "大学生一天旅游四个城市是什么体验",
       "onboard_time": 1757481265,
       "rank": 39,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 193356,
-      "num": 193356,
-      "word": "旅游才是断舍离的最佳时期",
-      "onboard_time": 1757481623,
-      "rank": 40,
       "category": "旅游"
     },
     {
@@ -761,6 +785,14 @@
       "onboard_time": 1757463744,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174386,
+      "num": 174386,
+      "word": "管乐疑似把粉丝送的礼物送给相亲对象",
+      "onboard_time": 1757482404,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 173413,
@@ -931,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154635,
+      "num": 191335,
+      "word": "成毅2G宽带也是连上8g网了",
+      "onboard_time": 1757482164,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148238,
       "num": 148238,
       "word": "当了老师后才知道学生请假理由多离谱",
@@ -961,6 +1001,22 @@
       "onboard_time": 1757431043,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147233,
+      "num": 194197,
+      "word": "徐若晗 减肥对身体不好",
+      "onboard_time": 1757481443,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145318,
+      "num": 145318,
+      "word": "潘展乐拿东风导弹照片在武侯祠拍照",
+      "onboard_time": 1757482224,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 144915,
@@ -1017,14 +1073,6 @@
       "onboard_time": 1757475085,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137707,
-      "num": 299151,
-      "word": "男子高铁座位上旁若无人抽烟",
-      "onboard_time": 1757480425,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137331,
@@ -1155,12 +1203,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 127411,
+      "num": 127411,
+      "word": "上一个综艺累成这样的还是杨洋",
+      "onboard_time": 1757481803,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126984,
       "num": 342616,
       "word": "为什么大家又重新使用毛巾",
       "onboard_time": 1757475204,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125565,
+      "num": 125565,
+      "word": "特种兵式旅游正逐渐被P种兵式替代",
+      "onboard_time": 1757481984,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 125000,
@@ -1188,7 +1252,7 @@
     },
     {
       "raw_hot": 122486,
-      "num": 244929,
+      "num": 908771,
       "word": "高德扫街榜",
       "onboard_time": 1757470041,
       "rank": 37,
@@ -1249,6 +1313,22 @@
       "onboard_time": 1757480067,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116480,
+      "num": 116480,
+      "word": "iPhone正在慢慢变老",
+      "onboard_time": 1757482644,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 116235,
+      "num": 116235,
+      "word": "贵州文昌阁多只小猫被挖眼砍断四肢",
+      "onboard_time": 1757482285,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116195,
@@ -1313,6 +1393,14 @@
       "onboard_time": 1757473164,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 111757,
+      "num": 111757,
+      "word": "心动8下一期爆灯了",
+      "onboard_time": 1757482764,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111220,
@@ -1739,14 +1827,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 53844,
-      "num": 194197,
-      "word": "徐若晗 减肥对身体不好",
-      "onboard_time": 1757481443,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51556,
       "num": 73617,
       "word": "教师节朋友圈文案和配图",
@@ -1868,7 +1948,7 @@
     },
     {
       "raw_hot": 37343,
-      "num": 350590,
+      "num": 1115209,
       "word": "当网警遇上教师节他们是别样的教师",
       "onboard_time": 1757479646,
       "rank": 2,
@@ -1884,7 +1964,7 @@
     },
     {
       "raw_hot": 30220,
-      "num": 245391,
+      "num": 408791,
       "word": "高德重磅发布扫街榜",
       "onboard_time": 1757480666,
       "rank": 17,
