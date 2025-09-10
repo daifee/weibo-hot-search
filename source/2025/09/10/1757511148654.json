@@ -1,0 +1,410 @@
+{
+  "runTime": 1757511148654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 720014,
+        "num": 1115202,
+        "word": "陈伟霆张家人真的不会老",
+        "onboard_time": 1757505562,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548748,
+        "num": 548748,
+        "word": "微信更新",
+        "onboard_time": 1757507062,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3600,
+        "num": 384664,
+        "word": "我国制造业规模连续15年全球第一",
+        "onboard_time": 1757385801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373801,
+        "num": 373801,
+        "word": "郭焱谈孙颖莎发球被裁判提醒",
+        "onboard_time": 1757508441,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318825,
+        "num": 318825,
+        "word": "玉兰花开君再来 杨紫成毅",
+        "onboard_time": 1757500522,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295015,
+        "num": 295015,
+        "word": "李在明 这算哪门子言论自由",
+        "onboard_time": 1757498482,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 282612,
+        "num": 282612,
+        "word": "黄岩岛国家级自然保护区",
+        "onboard_time": 1757502022,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258730,
+        "num": 258730,
+        "word": "董军同美国防部长视频通话",
+        "onboard_time": 1757506643,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251563,
+        "num": 251563,
+        "word": "真夫妻牵手走红毯就是好嗑",
+        "onboard_time": 1757506943,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81027,
+        "num": 249733,
+        "word": "西贝回应被吐槽是预制菜",
+        "onboard_time": 1757510604,
+        "rank": 9,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1124189,
+        "num": 245871,
+        "word": "6旬大爷裸聊主播8天花光全部积蓄",
+        "onboard_time": 1757501301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1079999,
+        "num": 242639,
+        "word": "祝绪丹手滑",
+        "onboard_time": 1757489242,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703573,
+        "num": 235191,
+        "word": "煮方便面vs泡方便面",
+        "onboard_time": 1757500402,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 679072,
+        "num": 233650,
+        "word": "聚是七个蛋 散是鸡蛋羹",
+        "onboard_time": 1757502742,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 635869,
+        "num": 229861,
+        "word": "那英老公回应",
+        "onboard_time": 1757484924,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471247,
+        "num": 223106,
+        "word": "林更新还回内娱吗",
+        "onboard_time": 1757505202,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381095,
+        "num": 221118,
+        "word": "未拴绳大狗撞倒女子致其当场死亡",
+        "onboard_time": 1757495964,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64472,
+        "num": 216592,
+        "word": "智己底盘再破世界纪录",
+        "onboard_time": 1757509524,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 298953,
+        "num": 213689,
+        "word": "当我冲着女儿的颜值生了二胎",
+        "onboard_time": 1757503223,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62380,
+        "num": 208222,
+        "word": "魏建军教师节监考",
+        "onboard_time": 1757509883,
+        "rank": 19,
+        "category": "汽车,教育"
+      },
+      {
+        "raw_hot": 205788,
+        "num": 205788,
+        "word": "新建黄岩岛国家级自然保护区",
+        "onboard_time": 1757495903,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228067,
+        "num": 205045,
+        "word": "刘浩存好明媚",
+        "onboard_time": 1757510604,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68960,
+        "num": 203671,
+        "word": "高圆圆代言腾势N9",
+        "onboard_time": 1757509644,
+        "rank": 22,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 186491,
+        "num": 203470,
+        "word": "宋亚轩累了知道躺贺峻霖怀里",
+        "onboard_time": 1757510543,
+        "rank": 23,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 203406,
+        "num": 203406,
+        "word": "曝高学历小花是木头美人",
+        "onboard_time": 1757510783,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188601,
+        "num": 188601,
+        "word": "100斤女生滥用司美格鲁肽现酮症",
+        "onboard_time": 1757492722,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183659,
+        "num": 183659,
+        "word": "T1战胜DK",
+        "onboard_time": 1757509823,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182044,
+        "num": 182044,
+        "word": "智己LS6",
+        "onboard_time": 1757510363,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157231,
+        "num": 169645,
+        "word": "人民网评斩断流量明星招摇过市推手",
+        "onboard_time": 1757510903,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 154246,
+        "num": 167546,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1757501001,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165949,
+        "num": 165949,
+        "word": "TES战胜WBG",
+        "onboard_time": 1757509823,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63085,
+        "num": 164819,
+        "word": "iPhone17系列选购指南",
+        "onboard_time": 1757508084,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164232,
+        "num": 164232,
+        "word": "钟楚曦绿裙",
+        "onboard_time": 1757506522,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161806,
+        "num": 161806,
+        "word": "内娱现役法拉利肖战",
+        "onboard_time": 1757511084,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146408,
+        "num": 146408,
+        "word": "张晚意的人生快离不开龚俊了",
+        "onboard_time": 1757508624,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138778,
+        "num": 138778,
+        "word": "内娱选秀C位 从群嘲到用实力证明",
+        "onboard_time": 1757505862,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125569,
+        "num": 125569,
+        "word": "黄岩岛",
+        "onboard_time": 1757496861,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141893,
+        "num": 125202,
+        "word": "钟楚曦被曝分手后首现身",
+        "onboard_time": 1757503941,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33104,
+        "num": 123975,
+        "word": "辛芷蕾国民度",
+        "onboard_time": 1757510543,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61527,
+        "num": 123916,
+        "word": "尔冬升与9岁女儿合照",
+        "onboard_time": 1757510422,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123863,
+        "num": 123863,
+        "word": "中国叠叠乐养殖模式被联合国推广",
+        "onboard_time": 1757509943,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123072,
+        "num": 123072,
+        "word": "王皓又在抠手",
+        "onboard_time": 1757510964,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119265,
+        "num": 119265,
+        "word": "退出软件时显示残忍离开到底谁发明的",
+        "onboard_time": 1757510783,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116718,
+        "num": 116718,
+        "word": "继奶茶后冰红茶成商战新赛道",
+        "onboard_time": 1757508502,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111965,
+        "num": 111965,
+        "word": "三星嘲讽iPhone17系列",
+        "onboard_time": 1757498362,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109486,
+        "num": 109486,
+        "word": "战至巅峰最难以预测的一期",
+        "onboard_time": 1757508924,
+        "rank": 45,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 108792,
+        "num": 108792,
+        "word": "孟子义cos律政俏佳人",
+        "onboard_time": 1757492782,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105375,
+        "num": 105375,
+        "word": "李炮儿 网红终结者",
+        "onboard_time": 1757500882,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104018,
+        "num": 104018,
+        "word": "曝男流量在采访间抽烟",
+        "onboard_time": 1757511084,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102347,
+        "num": 102347,
+        "word": "LCK",
+        "onboard_time": 1757510244,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#教师是立教之本兴教之源#"
+    }
+  }
+}
