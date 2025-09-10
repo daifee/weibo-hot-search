@@ -1,6 +1,6 @@
 {
   "startTime": 1757435545982,
-  "endTime": 1757508564812,
+  "endTime": 1757509413351,
   "band_list": [
     {
       "raw_hot": 4430295,
@@ -203,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 790143,
+      "num": 195652,
+      "word": "聚是七个蛋 散是鸡蛋羹",
+      "onboard_time": 1757502742,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 771822,
       "num": 339842,
       "word": "洗澡三小时 客户被盘了一个半小时",
@@ -241,14 +249,6 @@
       "onboard_time": 1757494642,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 690265,
-      "num": 163319,
-      "word": "聚是七个蛋 散是鸡蛋羹",
-      "onboard_time": 1757502742,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 681775,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 515112,
-      "num": 162770,
+      "num": 195491,
       "word": "林更新还回内娱吗",
       "onboard_time": 1757505202,
       "rank": 17,
@@ -465,6 +465,14 @@
       "onboard_time": 1757476466,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 465064,
+      "num": 465064,
+      "word": "陈伟霆张家人真的不会老",
+      "onboard_time": 1757505562,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 462628,
@@ -555,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410286,
-      "num": 410286,
-      "word": "陈伟霆张家人真的不会老",
-      "onboard_time": 1757505562,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 414360,
+      "num": 195386,
+      "word": "当我冲着女儿的颜值生了二胎",
+      "onboard_time": 1757503223,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 404788,
@@ -601,14 +609,6 @@
       "onboard_time": 1757490862,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389345,
-      "num": 162586,
-      "word": "当我冲着女儿的颜值生了二胎",
-      "onboard_time": 1757503223,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 387646,
@@ -675,6 +675,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 328447,
+      "num": 328447,
+      "word": "黄岩岛国家级自然保护区",
+      "onboard_time": 1757502022,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322572,
       "num": 342950,
       "word": "受害者家属被催缴24万天价停尸费",
@@ -705,14 +713,6 @@
       "onboard_time": 1757464106,
       "rank": 8,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 305029,
-      "num": 305029,
-      "word": "黄岩岛国家级自然保护区",
-      "onboard_time": 1757502022,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302925,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275522,
+      "num": 275522,
+      "word": "董军同美国防部长视频通话",
+      "onboard_time": 1757506643,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 272827,
       "num": 272827,
       "word": "喜人奇妙夜",
@@ -795,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270773,
+      "num": 191772,
+      "word": "郭焱谈孙颖莎发球被裁判提醒",
+      "onboard_time": 1757508441,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263765,
       "num": 263765,
       "word": "中国空军运20接30名烈士回家",
@@ -809,14 +825,6 @@
       "onboard_time": 1757425164,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 254721,
-      "num": 254721,
-      "word": "董军同美国防部长视频通话",
-      "onboard_time": 1757506643,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 253402,
@@ -857,6 +865,14 @@
       "onboard_time": 1757474005,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238993,
+      "num": 189912,
+      "word": "钟楚曦被曝分手后首现身",
+      "onboard_time": 1757503941,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 238445,
@@ -923,6 +939,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 221978,
+      "num": 221978,
+      "word": "微信更新",
+      "onboard_time": 1757507062,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 219766,
       "num": 219766,
       "word": "马思纯回应网友让她和张晚意拍戏",
@@ -944,14 +968,6 @@
       "word": "巨石强森一身肌肉快瘦没了",
       "onboard_time": 1757492602,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 215504,
-      "num": 161893,
-      "word": "钟楚曦被曝分手后首现身",
-      "onboard_time": 1757503941,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1179,14 +1195,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 193885,
-      "num": 193885,
-      "word": "微信更新",
-      "onboard_time": 1757507062,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 192886,
       "num": 195831,
       "word": "孙颖莎擦手机像擦球拍",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1757486123,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 187679,
+      "num": 187679,
+      "word": "继奶茶后冰红茶成商战新赛道",
+      "onboard_time": 1757508502,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187405,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1757471541,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179853,
+      "num": 195063,
+      "word": "真夫妻牵手走红毯就是好嗑",
+      "onboard_time": 1757506943,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179770,
@@ -1611,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161051,
-      "num": 161051,
-      "word": "真夫妻牵手走红毯就是好嗑",
-      "onboard_time": 1757506943,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "田栩宁星火繁花",
@@ -1691,12 +1707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150763,
+      "num": 150763,
+      "word": "三大运营商eSIM手机业务最新进展",
+      "onboard_time": 1757508381,
+      "rank": 43,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 150050,
       "num": 274419,
       "word": "iPhone新机首次支持国补",
       "onboard_time": 1757486722,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 148832,
+      "num": 148832,
+      "word": "战至巅峰最难以预测的一期",
+      "onboard_time": 1757508924,
+      "rank": 29,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 148365,
@@ -1780,7 +1812,7 @@
     },
     {
       "raw_hot": 145318,
-      "num": 145318,
+      "num": 207308,
       "word": "潘展乐拿东风导弹照片在武侯祠拍照",
       "onboard_time": 1757482224,
       "rank": 38,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1757464042,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143720,
+      "num": 143720,
+      "word": "钟楚曦绿裙",
+      "onboard_time": 1757506522,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143412,
@@ -1987,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134988,
+      "num": 134988,
+      "word": "戚薇美背",
+      "onboard_time": 1757506522,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134774,
       "num": 134774,
       "word": "尼泊尔将由谁来接管",
@@ -2091,6 +2139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130300,
+      "num": 130300,
+      "word": "27岁小伙相亲20多次患惊恐症",
+      "onboard_time": 1757504000,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130285,
       "num": 130285,
       "word": "iPhone摄像头 插里排气",
@@ -2113,14 +2169,6 @@
       "onboard_time": 1757442196,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 129259,
-      "num": 129259,
-      "word": "戚薇美背",
-      "onboard_time": 1757506522,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 129220,
@@ -2331,14 +2379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119458,
-      "num": 119458,
-      "word": "钟楚曦绿裙",
-      "onboard_time": 1757506522,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 119446,
       "num": 119446,
       "word": "年轻人的消费逻辑变了",
@@ -2363,11 +2403,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118446,
+      "num": 118446,
+      "word": "大青虫 西餐",
+      "onboard_time": 1757508803,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118256,
       "num": 118256,
       "word": "何老师到底喜欢谁",
       "onboard_time": 1757473943,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118190,
+      "num": 118190,
+      "word": "张晚意的人生快离不开龚俊了",
+      "onboard_time": 1757508624,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -2443,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115059,
-      "num": 121386,
-      "word": "27岁小伙相亲20多次患惊恐症",
-      "onboard_time": 1757504000,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114820,
       "num": 126024,
       "word": "毛新宇携妻女到毛主席纪念堂祭奠",
@@ -2505,14 +2553,6 @@
       "onboard_time": 1757442196,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 113150,
-      "num": 113150,
-      "word": "三大运营商eSIM手机业务最新进展",
-      "onboard_time": 1757508381,
-      "rank": 43,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 112676,
@@ -2627,20 +2667,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102240,
-      "num": 102240,
-      "word": "郭焱谈孙颖莎发球被裁判提醒",
-      "onboard_time": 1757508441,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101511,
-      "num": 101511,
-      "word": "继奶茶后冰红茶成商战新赛道",
-      "onboard_time": 1757508502,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 100930,
+      "num": 100930,
+      "word": "韩国国会议长看完九三阅兵后反思",
+      "onboard_time": 1757505862,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100033,
@@ -2665,6 +2697,14 @@
       "onboard_time": 1757473164,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98270,
+      "num": 106543,
+      "word": "马龙贵气",
+      "onboard_time": 1757506882,
+      "rank": 45,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 98016,
@@ -2713,14 +2753,6 @@
       "onboard_time": 1757442076,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95329,
-      "num": 106543,
-      "word": "马龙贵气",
-      "onboard_time": 1757506882,
-      "rank": 45,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 95212,
@@ -3131,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67382,
+      "num": 143837,
+      "word": "iPhone17系列选购指南",
+      "onboard_time": 1757508084,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 66480,
       "num": 66480,
       "word": "CEO出轨女同事其丈夫发声",
@@ -3297,14 +3337,6 @@
       "onboard_time": 1757414542,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45778,
-      "num": 128253,
-      "word": "iPhone17系列选购指南",
-      "onboard_time": 1757508084,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 45557,
@@ -3561,6 +3593,14 @@
       "onboard_time": 1757484084,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 7514,
+      "num": 112524,
+      "word": "新型师生关系",
+      "onboard_time": 1757509282,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 6582,
