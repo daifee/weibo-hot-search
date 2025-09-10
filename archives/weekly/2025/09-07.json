@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757546539731,
+  "endTime": 1757547400684,
   "band_list": [
     {
       "raw_hot": 10222055,
@@ -336,6 +336,14 @@
       "word": "医生回应男生感染艾滋以为军训太累",
       "onboard_time": 1757497522,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1391522,
+      "num": 122686,
+      "word": "全球首富现任妻子是中国姑娘",
+      "onboard_time": 1757546959,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -1556,7 +1564,7 @@
     },
     {
       "raw_hot": 561269,
-      "num": 791209,
+      "num": 895483,
       "word": "湖南男子驾车碾死同学被判死缓",
       "onboard_time": 1757521281,
       "rank": 29,
@@ -2659,6 +2667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 369537,
+      "num": 369537,
+      "word": "117名韩国女性首次直接起诉美军",
+      "onboard_time": 1757523617,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 368367,
       "num": 368367,
       "word": "四川通报一女子当街抢小孩",
@@ -2681,6 +2697,14 @@
       "onboard_time": 1757513184,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 366639,
+      "num": 120770,
+      "word": "张维伊清爽了",
+      "onboard_time": 1757521519,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 364932,
@@ -2801,14 +2825,6 @@
       "onboard_time": 1757227102,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 348867,
-      "num": 112421,
-      "word": "张维伊清爽了",
-      "onboard_time": 1757521519,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 347403,
@@ -2993,6 +3009,14 @@
       "onboard_time": 1757389642,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324765,
+      "num": 180856,
+      "word": "外卖已经让我对食物的价格失感了",
+      "onboard_time": 1757516483,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 324398,
@@ -3243,14 +3267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300235,
-      "num": 300235,
-      "word": "117名韩国女性首次直接起诉美军",
-      "onboard_time": 1757523617,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 299210,
       "num": 299210,
       "word": "梓渝梦中情秃",
@@ -3297,14 +3313,6 @@
       "onboard_time": 1757206222,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295218,
-      "num": 180856,
-      "word": "外卖已经让我对食物的价格失感了",
-      "onboard_time": 1757516483,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 294558,
@@ -9331,6 +9339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123551,
+      "num": 123551,
+      "word": "男子失踪7年后在黑砖窑被警方解救",
+      "onboard_time": 1757518822,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123156,
       "num": 343931,
       "word": "天才小熊猫总结苹果发布会",
@@ -11379,14 +11395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100517,
-      "num": 100517,
-      "word": "男子失踪7年后在黑砖窑被警方解救",
-      "onboard_time": 1757518822,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100306,
       "num": 220372,
       "word": "周柯宇翻牌",
@@ -11441,6 +11449,14 @@
       "onboard_time": 1757233221,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99489,
+      "num": 99489,
+      "word": "十大抗衰老运动",
+      "onboard_time": 1757546959,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 99466,
@@ -12089,6 +12105,14 @@
       "onboard_time": 1757150781,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87455,
+      "num": 87455,
+      "word": "向鹏澳门站输给樊振东德甲队友",
+      "onboard_time": 1757546959,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 87350,
@@ -13035,6 +13059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61954,
+      "num": 61954,
+      "word": "星巴克回应员工卖不出月饼自购",
+      "onboard_time": 1757529075,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61847,
       "num": 61847,
       "word": "AirPods Pro3没涨价",
@@ -13081,6 +13113,14 @@
       "onboard_time": 1757321601,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61015,
+      "num": 61015,
+      "word": "卡塔尔称以色列是地区霸凌者",
+      "onboard_time": 1757531954,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60767,
@@ -13145,6 +13185,14 @@
       "onboard_time": 1757466263,
       "rank": 2,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 59985,
+      "num": 59985,
+      "word": "洗榴莲把果肉洗没了",
+      "onboard_time": 1757524398,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 59967,
@@ -13235,14 +13283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56006,
-      "num": 56006,
-      "word": "卡塔尔称以色列是地区霸凌者",
-      "onboard_time": 1757531954,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55606,
       "num": 133062,
       "word": "念莲花相夷再遇秋水沉舟",
@@ -13297,14 +13337,6 @@
       "onboard_time": 1757186654,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 54845,
-      "num": 54845,
-      "word": "洗榴莲把果肉洗没了",
-      "onboard_time": 1757524398,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 54639,
@@ -13363,12 +13395,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 53540,
-      "num": 53540,
-      "word": "星巴克回应员工卖不出月饼自购",
-      "onboard_time": 1757529075,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 53848,
+      "num": 58486,
+      "word": "中国游客东京被华人服务员骂",
+      "onboard_time": 1757547079,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53473,
@@ -13521,6 +13553,14 @@
       "onboard_time": 1757406023,
       "rank": 38,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 49570,
+      "num": 58458,
+      "word": "当副科老师有多爽",
+      "onboard_time": 1757545880,
+      "rank": 48,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 49190,
@@ -14049,14 +14089,6 @@
       "onboard_time": 1757503281,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31015,
-      "num": 53367,
-      "word": "当副科老师有多爽",
-      "onboard_time": 1757545880,
-      "rank": 48,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 30932,

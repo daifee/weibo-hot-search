@@ -1,7 +1,15 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757546539731,
+  "endTime": 1757547400684,
   "band_list": [
+    {
+      "raw_hot": 1391522,
+      "num": 122686,
+      "word": "全球首富现任妻子是中国姑娘",
+      "onboard_time": 1757546959,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 901899,
       "num": 152259,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 561269,
-      "num": 791209,
+      "num": 895483,
       "word": "湖南男子驾车碾死同学被判死缓",
       "onboard_time": 1757521281,
       "rank": 29,
@@ -91,8 +99,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348867,
-      "num": 112421,
+      "raw_hot": 369537,
+      "num": 369537,
+      "word": "117名韩国女性首次直接起诉美军",
+      "onboard_time": 1757523617,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 366639,
+      "num": 120770,
       "word": "张维伊清爽了",
       "onboard_time": 1757521519,
       "rank": 41,
@@ -115,28 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324765,
+      "num": 134539,
+      "word": "外卖已经让我对食物的价格失感了",
+      "onboard_time": 1757516483,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309696,
       "num": 147154,
       "word": "那英老公回应",
       "onboard_time": 1757484924,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300235,
-      "num": 300235,
-      "word": "117名韩国女性首次直接起诉美军",
-      "onboard_time": 1757523617,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 295218,
-      "num": 134539,
-      "word": "外卖已经让我对食物的价格失感了",
-      "onboard_time": 1757516483,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 260926,
@@ -147,8 +155,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 242948,
-      "num": 242948,
+      "raw_hot": 257010,
+      "num": 257010,
       "word": "上海老人房子被孙女砸成废墟",
       "onboard_time": 1757511924,
       "rank": 4,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188019,
+      "num": 118943,
+      "word": "李炮儿 网红终结者",
+      "onboard_time": 1757500882,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 176614,
       "num": 176614,
       "word": "男子驾车碾死同学被判死缓",
@@ -251,7 +267,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138002,
+      "raw_hot": 138069,
       "num": 138002,
       "word": "内娱现役法拉利肖战",
       "onboard_time": 1757511084,
@@ -265,6 +281,14 @@
       "onboard_time": 1757500402,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123551,
+      "num": 123551,
+      "word": "男子失踪7年后在黑砖窑被警方解救",
+      "onboard_time": 1757518822,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121900,
@@ -283,11 +307,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 100517,
-      "num": 100517,
-      "word": "男子失踪7年后在黑砖窑被警方解救",
-      "onboard_time": 1757518822,
-      "rank": 36,
+      "raw_hot": 105343,
+      "num": 105343,
+      "word": "郑州非必要不外出",
+      "onboard_time": 1757511383,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -297,6 +321,14 @@
       "onboard_time": 1757514984,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99489,
+      "num": 99489,
+      "word": "十大抗衰老运动",
+      "onboard_time": 1757546959,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 96055,
@@ -315,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84978,
-      "num": 84978,
-      "word": "郑州非必要不外出",
-      "onboard_time": 1757511383,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 87455,
+      "num": 87455,
+      "word": "向鹏澳门站输给樊振东德甲队友",
+      "onboard_time": 1757546959,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 83113,
@@ -411,12 +443,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 61954,
+      "num": 61954,
+      "word": "星巴克回应员工卖不出月饼自购",
+      "onboard_time": 1757529075,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61775,
       "num": 73286,
       "word": "郭焱谈孙颖莎发球被裁判提醒",
       "onboard_time": 1757508441,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61015,
+      "num": 61015,
+      "word": "卡塔尔称以色列是地区霸凌者",
+      "onboard_time": 1757531954,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60767,
@@ -443,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59985,
+      "num": 59985,
+      "word": "洗榴莲把果肉洗没了",
+      "onboard_time": 1757524398,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56214,
       "num": 113871,
       "word": "外交部严厉谴责以袭卡塔尔首都",
@@ -451,28 +507,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56006,
-      "num": 56006,
-      "word": "卡塔尔称以色列是地区霸凌者",
-      "onboard_time": 1757531954,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 53848,
+      "num": 58486,
+      "word": "中国游客东京被华人服务员骂",
+      "onboard_time": 1757547079,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 54845,
-      "num": 54845,
-      "word": "洗榴莲把果肉洗没了",
-      "onboard_time": 1757524398,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 53540,
-      "num": 53540,
-      "word": "星巴克回应员工卖不出月饼自购",
-      "onboard_time": 1757529075,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 49570,
+      "num": 58458,
+      "word": "当副科老师有多爽",
+      "onboard_time": 1757545880,
+      "rank": 48,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 44997,
@@ -507,7 +555,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36621,
+      "raw_hot": 36652,
       "num": 85535,
       "word": "真夫妻牵手走红毯就是好嗑",
       "onboard_time": 1757506943,
@@ -529,14 +577,6 @@
       "onboard_time": 1757530155,
       "rank": 48,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 31015,
-      "num": 53367,
-      "word": "当副科老师有多爽",
-      "onboard_time": 1757545880,
-      "rank": 48,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 19382,
@@ -571,7 +611,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 4191,
+      "raw_hot": 4210,
       "num": 409401,
       "word": "我国制造业规模连续15年全球第一",
       "onboard_time": 1757385801,
