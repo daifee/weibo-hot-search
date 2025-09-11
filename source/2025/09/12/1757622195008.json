@@ -1,0 +1,410 @@
+{
+  "runTime": 1757622195008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 81022,
+        "num": 81022,
+        "word": "有小学建议不让老人接送小孩",
+        "onboard_time": 1757604930,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42461,
+        "num": 80636,
+        "word": "曼谷一动物园员工遭狮群袭击身亡",
+        "onboard_time": 1757606668,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34576,
+        "num": 76903,
+        "word": "英雄回家",
+        "onboard_time": 1757603433,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36748,
+        "num": 72579,
+        "word": "Lululemon千元连衣裙刚拆就有污渍",
+        "onboard_time": 1757608524,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32274,
+        "num": 71544,
+        "word": "研究生多到宿舍不够住",
+        "onboard_time": 1757602053,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31868,
+        "num": 69017,
+        "word": "韩国海警将救生衣让给中国老人后遇难",
+        "onboard_time": 1757593657,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31010,
+        "num": 64125,
+        "word": "赴山海开播",
+        "onboard_time": 1757584771,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30121,
+        "num": 61896,
+        "word": "罗永浩回复西贝准备好了",
+        "onboard_time": 1757599414,
+        "rank": 7,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 29124,
+        "num": 60077,
+        "word": "21岁女生去年底被骗缅甸仍未救出",
+        "onboard_time": 1757590130,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24106,
+        "num": 57157,
+        "word": "赴山海第1集第14分25秒",
+        "onboard_time": 1757593300,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55215,
+        "num": 55215,
+        "word": "车澈曾当李嘉格面抱乃万",
+        "onboard_time": 1757601574,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47529,
+        "num": 47529,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 11,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 42420,
+        "num": 47292,
+        "word": "女孩遭体罚身亡老师聊天记录公布",
+        "onboard_time": 1757600372,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28951,
+        "num": 47196,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 13,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 26314,
+        "num": 46882,
+        "word": "局座白发",
+        "onboard_time": 1757601337,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 23565,
+        "num": 46476,
+        "word": "小众却很赚钱的工作",
+        "onboard_time": 1757587411,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22853,
+        "num": 46152,
+        "word": "白裙子被黑裤子染成黄色",
+        "onboard_time": 1757603312,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20309,
+        "num": 46112,
+        "word": "赴山海",
+        "onboard_time": 1757580812,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18670,
+        "num": 45648,
+        "word": "安吉演成毅小时候",
+        "onboard_time": 1757592341,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17410,
+        "num": 45322,
+        "word": "赴山海节奏",
+        "onboard_time": 1757606907,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76851,
+        "num": 45082,
+        "word": "西贝晒出罗永浩消费账单",
+        "onboard_time": 1757601696,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 55769,
+        "num": 44833,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 21,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 44744,
+        "num": 44744,
+        "word": "公交车大幅避孕套广告被指引人不适",
+        "onboard_time": 1757581711,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27640,
+        "num": 44743,
+        "word": "西贝将上线罗永浩菜单",
+        "onboard_time": 1757598394,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 25573,
+        "num": 44732,
+        "word": "王辰被免去中国工程院副院长职务",
+        "onboard_time": 1757579254,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24578,
+        "num": 44729,
+        "word": "薛之谦 那个少年不曾被世界催眠",
+        "onboard_time": 1757590664,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22265,
+        "num": 44717,
+        "word": "西贝将起诉罗永浩",
+        "onboard_time": 1757593000,
+        "rank": 26,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 18737,
+        "num": 44708,
+        "word": "勾践卧薪尝胆有考古实证了",
+        "onboard_time": 1757605049,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14344,
+        "num": 44699,
+        "word": "杨幂陈丽君 合作",
+        "onboard_time": 1757597015,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13887,
+        "num": 44696,
+        "word": "汪浚熙直播",
+        "onboard_time": 1757603732,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22194,
+        "num": 44687,
+        "word": "补气血最快的小方法",
+        "onboard_time": 1757597614,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20570,
+        "num": 44675,
+        "word": "罗永浩24小时发了5条西贝预制菜",
+        "onboard_time": 1757590425,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18204,
+        "num": 44673,
+        "word": "黄岩岛国家级自然保护区情况公布",
+        "onboard_time": 1757609062,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18066,
+        "num": 44661,
+        "word": "成都地铁偷拍案二审维持原判",
+        "onboard_time": 1757581892,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17011,
+        "num": 44653,
+        "word": "小布什当年得知911后反应",
+        "onboard_time": 1757597976,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16655,
+        "num": 44648,
+        "word": "哪吒所有涉欠费车辆将触发系统停机",
+        "onboard_time": 1757603372,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16537,
+        "num": 44637,
+        "word": "绍兴出土越王勾践专用青铜戈",
+        "onboard_time": 1757605409,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16225,
+        "num": 44630,
+        "word": "西贝将向消费者开放后厨",
+        "onboard_time": 1757598394,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16087,
+        "num": 44628,
+        "word": "柯克是特朗普长子的密友",
+        "onboard_time": 1757615057,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15536,
+        "num": 44615,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1757601696,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 15535,
+        "num": 44608,
+        "word": "游客称虎跳峡出现头上有角不明生物",
+        "onboard_time": 1757585851,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15047,
+        "num": 44599,
+        "word": "春楠化的赵丽颖",
+        "onboard_time": 1757596175,
+        "rank": 41,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 14335,
+        "num": 44596,
+        "word": "老战士说替牺牲战友看到了",
+        "onboard_time": 1757609302,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14055,
+        "num": 44587,
+        "word": "荷兰实行四天工作制",
+        "onboard_time": 1757599595,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14018,
+        "num": 44581,
+        "word": "阅兵旗手将为烈士高擎归家之旗",
+        "onboard_time": 1757618835,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13878,
+        "num": 44573,
+        "word": "辛芷蕾妈妈得知女儿获奖哭了",
+        "onboard_time": 1757621954,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13868,
+        "num": 44559,
+        "word": "迎回英雄的运20为何用跨江50呼号",
+        "onboard_time": 1757618715,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13451,
+        "num": 44557,
+        "word": "火星或有古代微生物存在",
+        "onboard_time": 1757610739,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 12209,
+        "num": 44547,
+        "word": "蒲熠星我不许你演傻子了",
+        "onboard_time": 1757614996,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11758,
+        "num": 44542,
+        "word": "使命与传承在热泪中具象化了",
+        "onboard_time": 1757611638,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#让和平的薪火代代相传#"
+    }
+  }
+}
