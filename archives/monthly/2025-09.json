@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757556748507,
+  "endTime": 1757559910178,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 2017330,
-      "num": 248693,
+      "num": 355322,
       "word": "全球首富现任妻子是中国姑娘",
       "onboard_time": 1757546959,
       "rank": 10,
@@ -1660,7 +1660,7 @@
     },
     {
       "raw_hot": 1070066,
-      "num": 247357,
+      "num": 336508,
       "word": "杨采钰首晒与老公合照",
       "onboard_time": 1757552243,
       "rank": 11,
@@ -1875,6 +1875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 972340,
+      "num": 477663,
+      "word": "爱泼斯坦恶魔岛绝密资料曝光",
+      "onboard_time": 1757550922,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 966933,
       "num": 1131910,
       "word": "马克龙宣布26国将向乌克兰部署军队",
@@ -1979,6 +1987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 926833,
+      "num": 477189,
+      "word": "良子断层超过蔡徐坤",
+      "onboard_time": 1757554882,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926122,
       "num": 1148179,
       "word": "阅兵现场妻子把王伟照片举向天空",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1756870831,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 906952,
-      "num": 245211,
-      "word": "爱泼斯坦恶魔岛绝密资料曝光",
-      "onboard_time": 1757550922,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 906599,
@@ -2260,7 +2268,7 @@
     },
     {
       "raw_hot": 858573,
-      "num": 242049,
+      "num": 325144,
       "word": "虞书欣好友米西为其发声",
       "onboard_time": 1757548039,
       "rank": 15,
@@ -2724,7 +2732,7 @@
     },
     {
       "raw_hot": 764929,
-      "num": 239711,
+      "num": 307510,
       "word": "黄一鸣直播说女儿被抢走",
       "onboard_time": 1757549962,
       "rank": 13,
@@ -2777,6 +2785,14 @@
       "onboard_time": 1756957281,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 750207,
+      "num": 340124,
+      "word": "不发朋友圈和不看朋友圈",
+      "onboard_time": 1757552662,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 749435,
@@ -2937,6 +2953,14 @@
       "onboard_time": 1756892303,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 720206,
+      "num": 337981,
+      "word": "特朗普政治盟友遭枪击身亡",
+      "onboard_time": 1757547681,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 716928,
@@ -3380,7 +3404,7 @@
     },
     {
       "raw_hot": 644808,
-      "num": 240197,
+      "num": 303133,
       "word": "一念江南 王安宇",
       "onboard_time": 1757516844,
       "rank": 17,
@@ -3993,6 +4017,14 @@
       "onboard_time": 1757134522,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554415,
+      "num": 554415,
+      "word": "女子吐槽蒸蛋外卖疑有侮辱性字样",
+      "onboard_time": 1757555901,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 553073,
@@ -5131,14 +5163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 456666,
-      "num": 237008,
-      "word": "不发朋友圈和不看朋友圈",
-      "onboard_time": 1757552662,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 455853,
       "num": 341337,
       "word": "董璇晒佟丽娅小酒窝合照",
@@ -5233,6 +5257,14 @@
       "onboard_time": 1756708879,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452028,
+      "num": 452028,
+      "word": "两儿子非亲生男子回应房产问题",
+      "onboard_time": 1757555301,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451968,
@@ -5417,14 +5449,6 @@
       "onboard_time": 1756872692,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 444393,
-      "num": 337981,
-      "word": "特朗普政治盟友遭枪击身亡",
-      "onboard_time": 1757547681,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 444342,
@@ -5953,6 +5977,14 @@
       "onboard_time": 1756721121,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 401020,
+      "num": 401020,
+      "word": "iPhone17Air和iPhone6对比",
+      "onboard_time": 1757555901,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 400179,
@@ -7387,14 +7419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 328554,
-      "num": 328554,
-      "word": "良子断层超过蔡徐坤",
-      "onboard_time": 1757554882,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328447,
       "num": 328447,
       "word": "黄岩岛国家级自然保护区",
@@ -8057,6 +8081,14 @@
       "onboard_time": 1756961244,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 299432,
+      "num": 299432,
+      "word": "创新药",
+      "onboard_time": 1757555901,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 299210,
@@ -9105,6 +9137,14 @@
       "onboard_time": 1756727421,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 252835,
+      "num": 379847,
+      "word": "网红回应夹子音爆火引全网模仿",
+      "onboard_time": 1757554762,
+      "rank": 29,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 252203,
@@ -11371,6 +11411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 199954,
+      "num": 199954,
+      "word": "尹子维十几天不见徐冬冬的反应",
+      "onboard_time": 1757558362,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199813,
       "num": 262788,
       "word": "中国驻日大使馆介绍东风5C导弹",
@@ -11721,14 +11769,6 @@
       "onboard_time": 1757253923,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195786,
-      "num": 195786,
-      "word": "创新药",
-      "onboard_time": 1757555901,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 195546,
@@ -12451,6 +12491,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 187719,
+      "num": 187719,
+      "word": "韩女子咬断性侵者舌头61年终获无罪",
+      "onboard_time": 1757553082,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 187703,
       "num": 187703,
       "word": "华晨宇跳了刀马刀马",
@@ -12729,14 +12777,6 @@
       "onboard_time": 1757086461,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185038,
-      "num": 185038,
-      "word": "韩女子咬断性侵者舌头61年终获无罪",
-      "onboard_time": 1757553082,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 184793,
@@ -14491,22 +14531,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 165380,
-      "num": 165380,
-      "word": "网红回应夹子音爆火引全网模仿",
-      "onboard_time": 1757554762,
-      "rank": 29,
-      "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 165359,
-      "num": 207683,
-      "word": "女子吐槽蒸蛋外卖疑有侮辱性字样",
-      "onboard_time": 1757555901,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165125,
       "num": 165125,
       "word": "管乐回应粉丝",
@@ -15875,6 +15899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153371,
+      "num": 153371,
+      "word": "九三阅兵现场上车系安全带太帅了",
+      "onboard_time": 1757558061,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153368,
       "num": 265654,
       "word": "李一桐唯一会的歌被田曦薇抢了",
@@ -15889,6 +15921,14 @@
       "onboard_time": 1757139140,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153298,
+      "num": 153298,
+      "word": "苹果17",
+      "onboard_time": 1757556860,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 153289,
@@ -16387,6 +16427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149667,
+      "num": 188903,
+      "word": "赴山海沧海一声笑MV",
+      "onboard_time": 1757559562,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149651,
       "num": 310377,
       "word": "时空对话版不屈看哭了",
@@ -16417,6 +16465,14 @@
       "onboard_time": 1757313143,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149327,
+      "num": 361330,
+      "word": "公安部上线一个新举报平台",
+      "onboard_time": 1757556682,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149091,
@@ -16713,14 +16769,6 @@
       "onboard_time": 1756819222,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 147252,
-      "num": 147252,
-      "word": "iPhone17Air和iPhone6对比",
-      "onboard_time": 1757555901,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 147233,
@@ -17091,6 +17139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144831,
+      "num": 144831,
+      "word": "对不起李莲花我出轨了",
+      "onboard_time": 1757559142,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144799,
       "num": 144799,
       "word": "分析称300多名韩国人被抓或只是开始",
@@ -17185,6 +17241,14 @@
       "onboard_time": 1757143400,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144201,
+      "num": 144201,
+      "word": "老战士带东风5C照片祭奠战友",
+      "onboard_time": 1757556741,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144183,
@@ -17385,6 +17449,14 @@
       "onboard_time": 1756984642,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142713,
+      "num": 142713,
+      "word": "戚薇结婚纪念日礼物",
+      "onboard_time": 1757552603,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 142710,
@@ -17617,14 +17689,6 @@
       "onboard_time": 1757247922,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140849,
-      "num": 140849,
-      "word": "戚薇结婚纪念日礼物",
-      "onboard_time": 1757552603,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 140822,
@@ -18803,14 +18867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133426,
-      "num": 133426,
-      "word": "公安部上线一个新举报平台",
-      "onboard_time": 1757556682,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133423,
       "num": 262567,
       "word": "97岁老战士穿上军服神采奕奕",
@@ -19352,14 +19408,6 @@
       "word": "终于知道阅兵战士每天都在吃啥了",
       "onboard_time": 1757235202,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129693,
-      "num": 243510,
-      "word": "两儿子非亲生男子回应房产问题",
-      "onboard_time": 1757555301,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -21419,6 +21467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118452,
+      "num": 118452,
+      "word": "日本部分餐厅被指对游客提供阴阳菜单",
+      "onboard_time": 1757555422,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118446,
       "num": 118446,
       "word": "大青虫 西餐",
@@ -22371,6 +22427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113122,
+      "num": 113122,
+      "word": "张子墨NeverGonnaStop演唱会",
+      "onboard_time": 1757558720,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113100,
       "num": 244012,
       "word": "新华社吊臂让恐高的人腿软了",
@@ -22705,6 +22769,14 @@
       "onboard_time": 1757392586,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111596,
+      "num": 111596,
+      "word": "张峻豪Loventure演唱会",
+      "onboard_time": 1757559622,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 111541,
@@ -23185,6 +23257,14 @@
       "onboard_time": 1757394443,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109148,
+      "num": 109148,
+      "word": "女子与外卖员剐蹭冲突相互道歉",
+      "onboard_time": 1757558240,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 109132,
@@ -24123,6 +24203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104093,
+      "num": 104093,
+      "word": "建议大家不要直接给冰箱铲冰",
+      "onboard_time": 1757559800,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 104084,
       "num": 104084,
       "word": "男子虐杀20余只猫被刑事立案",
@@ -24347,6 +24435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102668,
+      "num": 102668,
+      "word": "黑龙江矿震6名被困人员均获救",
+      "onboard_time": 1757558600,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102655,
       "num": 110772,
       "word": "陈小春裸考圣体",
@@ -24473,6 +24569,14 @@
       "onboard_time": 1757083222,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102043,
+      "num": 102043,
+      "word": "雨雨雨雨雨又来了",
+      "onboard_time": 1757556922,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102032,
@@ -25531,6 +25635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95906,
+      "num": 95906,
+      "word": "水贝黄金回收价创新高",
+      "onboard_time": 1757559861,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95892,
       "num": 199887,
       "word": "好有实力的开学痛车阵",
@@ -25833,14 +25945,6 @@
       "onboard_time": 1756979662,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93564,
-      "num": 100221,
-      "word": "日本部分餐厅被指对游客提供阴阳菜单",
-      "onboard_time": 1757555422,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93557,
@@ -27641,6 +27745,14 @@
       "onboard_time": 1756712241,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79163,
+      "num": 118752,
+      "word": "新一代智己LS6还是太全面了",
+      "onboard_time": 1757559800,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 79143,
@@ -29993,6 +30105,14 @@
       "onboard_time": 1757491283,
       "rank": 40,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 53195,
+      "num": 108752,
+      "word": "爱奇艺把李莲花摇过来了",
+      "onboard_time": 1757559022,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 53175,
