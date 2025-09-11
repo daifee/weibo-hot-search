@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757594891919,
+  "endTime": 1757595766120,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1656271,
+      "num": 1620230,
+      "word": "薛之谦 那个少年不曾被世界催眠",
+      "onboard_time": 1757590664,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1652388,
       "num": 720439,
       "word": "赴山海开播",
@@ -153,14 +161,6 @@
       "onboard_time": 1757547981,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1620230,
-      "num": 1620230,
-      "word": "薛之谦 那个少年不曾被世界催眠",
-      "onboard_time": 1757590664,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 1323489,
@@ -217,6 +217,14 @@
       "onboard_time": 1757579254,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 983636,
+      "num": 1157381,
+      "word": "罗永浩24小时发了5条西贝预制菜",
+      "onboard_time": 1757590425,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 981662,
@@ -321,14 +329,6 @@
       "onboard_time": 1757547681,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 708298,
-      "num": 708298,
-      "word": "罗永浩24小时发了5条西贝预制菜",
-      "onboard_time": 1757590425,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 678600,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482925,
+      "num": 482925,
+      "word": "西贝将起诉罗永浩",
+      "onboard_time": 1757593000,
+      "rank": 8,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 478008,
       "num": 577103,
       "word": "iPhone18离我们越来越近了",
@@ -571,7 +579,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384115,
+      "raw_hot": 384437,
       "num": 468055,
       "word": "安吉演成毅小时候",
       "onboard_time": 1757592341,
@@ -659,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 348671,
+      "num": 467714,
+      "word": "上海老洋房从1.5亿降到8千多万",
+      "onboard_time": 1757587712,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347237,
       "num": 557503,
       "word": "00后男子怀疑女友出轨拔掉她8颗牙",
@@ -675,12 +691,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 342035,
-      "num": 467714,
-      "word": "上海老洋房从1.5亿降到8千多万",
-      "onboard_time": 1757587712,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 345112,
+      "num": 465617,
+      "word": "罗永浩 西贝",
+      "onboard_time": 1757594376,
+      "rank": 13,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 339781,
@@ -705,6 +721,14 @@
       "onboard_time": 1757552542,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325338,
+      "num": 467166,
+      "word": "王楚钦vs格罗特",
+      "onboard_time": 1757592043,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 324765,
@@ -793,14 +817,6 @@
       "onboard_time": 1757578116,
       "rank": 19,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 288523,
-      "num": 467522,
-      "word": "西贝将起诉罗永浩",
-      "onboard_time": 1757593000,
-      "rank": 8,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 288493,
@@ -931,20 +947,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256688,
-      "num": 467166,
-      "word": "王楚钦vs格罗特",
-      "onboard_time": 1757592043,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252835,
       "num": 379847,
       "word": "网红回应夹子音爆火引全网模仿",
       "onboard_time": 1757554762,
       "rank": 29,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 246820,
+      "num": 465338,
+      "word": "21岁女生去年底被骗缅甸仍未救出",
+      "onboard_time": 1757590130,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241307,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1757569726,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226741,
+      "num": 464246,
+      "word": "韩国海警将救生衣让给中国老人后遇难",
+      "onboard_time": 1757593657,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 225561,
@@ -1067,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216025,
-      "num": 465617,
-      "word": "罗永浩 西贝",
-      "onboard_time": 1757594376,
-      "rank": 13,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 213602,
       "num": 340943,
       "word": "万能插线板藏安全隐患早已被禁用",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1757562639,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204719,
+      "num": 344757,
+      "word": "罗永浩炮轰贾国龙回应",
+      "onboard_time": 1757595095,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 203758,
@@ -1251,14 +1275,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 189374,
-      "num": 465338,
-      "word": "21岁女生去年底被骗缅甸仍未救出",
-      "onboard_time": 1757590130,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188749,
       "num": 188749,
       "word": "特朗普盟友遭枪击身亡现场视频曝光",
@@ -1323,12 +1339,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180000,
+      "num": 463883,
+      "word": "成都地铁偷拍案被告 并非诬陷",
+      "onboard_time": 1757592640,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177154,
+      "num": 344878,
+      "word": "地铁偷拍案被上诉人不构成诬陷",
+      "onboard_time": 1757595335,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176614,
       "num": 176614,
       "word": "男子驾车碾死同学被判死缓",
       "onboard_time": 1757523438,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176193,
+      "num": 460768,
+      "word": "灼灼韶华开播",
+      "onboard_time": 1757592580,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 175150,
@@ -1363,14 +1403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171665,
-      "num": 464246,
-      "word": "韩国海警将救生衣让给中国老人后遇难",
-      "onboard_time": 1757593657,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 171204,
       "num": 171204,
       "word": "钱塘江奇观神龙摆尾",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1757565585,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170640,
-      "num": 463883,
-      "word": "成都地铁偷拍案被告 并非诬陷",
-      "onboard_time": 1757592640,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168594,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1757556860,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 160880,
-      "num": 460768,
-      "word": "灼灼韶华开播",
-      "onboard_time": 1757592580,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 160860,
@@ -1795,6 +1811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139637,
+      "num": 456387,
+      "word": "杨幂劝醒恋爱脑的一百种方式",
+      "onboard_time": 1757591805,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139362,
       "num": 139362,
       "word": "苹果客服回应AirpodsPro3没充电线",
@@ -1835,20 +1859,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137280,
+      "num": 458539,
+      "word": "建议普通人不要跟风网红装修",
+      "onboard_time": 1757590843,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 137045,
       "num": 284066,
       "word": "鲁豫深挖叶童超绝生命力",
       "onboard_time": 1757578236,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137006,
-      "num": 458539,
-      "word": "建议普通人不要跟风网红装修",
-      "onboard_time": 1757590843,
-      "rank": 34,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 136806,
@@ -1891,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134602,
+      "num": 456848,
+      "word": "莲花楼剧组连狐狸精都来包场了",
+      "onboard_time": 1757590246,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134561,
       "num": 134561,
       "word": "谁认识影视飓风的HR",
@@ -1931,20 +1963,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 133517,
-      "num": 456848,
-      "word": "莲花楼剧组连狐狸精都来包场了",
-      "onboard_time": 1757590246,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133334,
       "num": 133334,
       "word": "6至17岁人群身高比5年前平均增加超2厘米",
       "onboard_time": 1757561911,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132651,
+      "num": 457333,
+      "word": "王艺迪2比3迪亚兹",
+      "onboard_time": 1757593061,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 132253,
@@ -1977,6 +2009,14 @@
       "onboard_time": 1757553082,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130570,
+      "num": 344255,
+      "word": "刘涛没吃过的第一时间想到秦海璐",
+      "onboard_time": 1757595275,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 130132,
@@ -2043,14 +2083,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 125642,
-      "num": 457333,
-      "word": "王艺迪2比3迪亚兹",
-      "onboard_time": 1757593061,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124934,
       "num": 124934,
       "word": "日本部分餐厅被指对游客提供阴阳菜单",
@@ -2089,14 +2121,6 @@
       "onboard_time": 1757510903,
       "rank": 24,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 121798,
-      "num": 456387,
-      "word": "杨幂劝醒恋爱脑的一百种方式",
-      "onboard_time": 1757591805,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 121275,
@@ -2313,6 +2337,14 @@
       "onboard_time": 1757594137,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104696,
+      "num": 344111,
+      "word": "这款骨胶水打一针治疗骨折",
+      "onboard_time": 1757595275,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104646,
@@ -2619,6 +2651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67601,
+      "num": 462468,
+      "word": "MCN教唆主播擦边",
+      "onboard_time": 1757594556,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67077,
       "num": 73458,
       "word": "夫妻在合租房生娃被赶将重找住处",
@@ -2795,14 +2835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55754,
-      "num": 462468,
-      "word": "MCN教唆主播擦边",
-      "onboard_time": 1757594556,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55412,
       "num": 110414,
       "word": "两子非亲生男子望儿子好好面对人生",
@@ -2913,6 +2945,14 @@
       "onboard_time": 1757583391,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45429,
+      "num": 344142,
+      "word": "中国红迎接在韩志愿军烈士遗骸回家",
+      "onboard_time": 1757595036,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44997,
