@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757630310839,
+  "endTime": 1757632949082,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -1515,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687328,
+      "num": 835897,
+      "word": "有小学建议不让老人接送小孩",
+      "onboard_time": 1757604930,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684375,
       "num": 684375,
       "word": "6省国补资金违规使用过亿",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1757168244,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545742,
-      "num": 835897,
-      "word": "有小学建议不让老人接送小孩",
-      "onboard_time": 1757604930,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 542690,
@@ -7507,6 +7507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168030,
+      "num": 475062,
+      "word": "Lululemon千元连衣裙刚拆就有污渍",
+      "onboard_time": 1757608524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167971,
       "num": 167971,
       "word": "WTT澳门冠军赛男单完整签表",
@@ -7601,6 +7609,14 @@
       "onboard_time": 1757487323,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166174,
+      "num": 488412,
+      "word": "曼谷一动物园员工遭狮群袭击身亡",
+      "onboard_time": 1757606668,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166121,
@@ -9081,6 +9097,14 @@
       "onboard_time": 1757295500,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144794,
+      "num": 493446,
+      "word": "罗永浩回复西贝准备好了",
+      "onboard_time": 1757599414,
+      "rank": 32,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 144701,
@@ -11171,14 +11195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125270,
-      "num": 493446,
-      "word": "罗永浩回复西贝准备好了",
-      "onboard_time": 1757599414,
-      "rank": 32,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 125238,
       "num": 125238,
       "word": "杨笠把脱口秀专场开进了体育馆",
@@ -11825,6 +11841,14 @@
       "onboard_time": 1757316623,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118987,
+      "num": 477488,
+      "word": "小布什当年得知911后反应",
+      "onboard_time": 1757597976,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118904,
@@ -13259,6 +13283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 105337,
+      "num": 174366,
+      "word": "网恋1个月被骗500万",
+      "onboard_time": 1757623573,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105256,
       "num": 460122,
       "word": "成都地铁被指偷拍案原告发声",
@@ -13721,14 +13753,6 @@
       "onboard_time": 1757395342,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101365,
-      "num": 477488,
-      "word": "小布什当年得知911后反应",
-      "onboard_time": 1757597976,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101355,
@@ -14339,14 +14363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94146,
-      "num": 488412,
-      "word": "曼谷一动物园员工遭狮群袭击身亡",
-      "onboard_time": 1757606668,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93804,
       "num": 93804,
       "word": "伦敦共享单车成抢手货",
@@ -14555,6 +14571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90745,
+      "num": 172264,
+      "word": "辛芷蕾妈妈得知女儿获奖哭了",
+      "onboard_time": 1757621954,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90709,
       "num": 116473,
       "word": "黄子弘凡直播",
@@ -14627,12 +14651,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 88814,
-      "num": 174366,
-      "word": "网恋1个月被骗500万",
-      "onboard_time": 1757623573,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 89012,
+      "num": 118170,
+      "word": "热巴零点祝杨幂万事遂意",
+      "onboard_time": 1757632522,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 88737,
@@ -14873,14 +14897,6 @@
       "onboard_time": 1757227342,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83936,
-      "num": 475062,
-      "word": "Lululemon千元连衣裙刚拆就有污渍",
-      "onboard_time": 1757608524,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83927,
@@ -15347,6 +15363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72870,
+      "num": 118115,
+      "word": "谭维维还敢回复张靓颖吗",
+      "onboard_time": 1757630841,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72825,
       "num": 109930,
       "word": "林允你偷偷报班了吧",
@@ -15385,6 +15409,14 @@
       "onboard_time": 1757424922,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72236,
+      "num": 118081,
+      "word": "成毅赴山海开播反馈",
+      "onboard_time": 1757632162,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 72230,
@@ -15473,6 +15505,14 @@
       "onboard_time": 1757491462,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 70968,
+      "num": 117528,
+      "word": "闫闯称与小米价值观不一致",
+      "onboard_time": 1757632522,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 70604,
@@ -16259,14 +16299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52541,
-      "num": 172264,
-      "word": "辛芷蕾妈妈得知女儿获奖哭了",
-      "onboard_time": 1757621954,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 52030,
       "num": 52030,
       "word": "老外震惊国内送外卖放路边",
@@ -16483,6 +16515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47837,
+      "num": 117148,
+      "word": "女子称665万买房买到了猪窝里",
+      "onboard_time": 1757632702,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47747,
       "num": 114096,
       "word": "自如回应夫妻合租房生娃被赶",
@@ -16505,6 +16545,22 @@
       "onboard_time": 1757345425,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47558,
+      "num": 166255,
+      "word": "骗子用小麦洗钱百万被抓",
+      "onboard_time": 1757624835,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47454,
+      "num": 165001,
+      "word": "蒲熠星我不许你演傻子了",
+      "onboard_time": 1757614996,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 47422,
@@ -16801,6 +16857,14 @@
       "onboard_time": 1757499982,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39715,
+      "num": 163603,
+      "word": "柯克是特朗普长子的密友",
+      "onboard_time": 1757615057,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39586,
@@ -17283,14 +17347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26249,
-      "num": 166255,
-      "word": "骗子用小麦洗钱百万被抓",
-      "onboard_time": 1757624835,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26053,
       "num": 411615,
       "word": "张韶涵此女花样太多了",
@@ -17451,14 +17507,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 20697,
-      "num": 165001,
-      "word": "蒲熠星我不许你演傻子了",
-      "onboard_time": 1757614996,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20612,
       "num": 194733,
       "word": "旧款AppleWatch也将支持高血压警报",
@@ -17488,14 +17536,6 @@
       "word": "以军凌晨空袭加沙致62死",
       "onboard_time": 1757357775,
       "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 20020,
-      "num": 163603,
-      "word": "柯克是特朗普长子的密友",
-      "onboard_time": 1757615057,
-      "rank": 21,
       "category": "国际时政"
     },
     {

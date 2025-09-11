@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 06:38:30
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 07:22:29
 </p>
 </blockquote>
 <p>
@@ -2571,6 +2571,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%B0%8F%E5%AD%A6%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%AE%A9%E8%80%81%E4%BA%BA%E6%8E%A5%E9%80%81%E5%B0%8F%E5%AD%A9%23" target="weibo">
+有小学建议不让老人接送小孩（热度：687328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%94%B6%E8%8E%B7%E5%BE%B7%E7%94%B2%E9%A6%96%E8%83%9C%23" target="weibo">
 樊振东收获德甲首胜（热度：687137）
 </a>
@@ -3389,12 +3395,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E6%9D%8E%E7%BA%AF%E7%89%B5%E6%89%8B%E6%95%A3%E6%AD%A5%23" target="weibo">
 马頔李纯牵手散步（热度：545949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%B0%8F%E5%AD%A6%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%AE%A9%E8%80%81%E4%BA%BA%E6%8E%A5%E9%80%81%E5%B0%8F%E5%AD%A9%23" target="weibo">
-有小学建议不让老人接送小孩（热度：545742）
 </a>
 </li>
 
