@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757568267268,
+  "endTime": 1757569227413,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -11,11 +11,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13365171,
-      "num": 13365171,
+      "raw_hot": 15479145,
+      "num": 15479145,
       "word": "于朦胧昨晚9点半还在线",
       "onboard_time": 1757567085,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10679822,
+      "num": 10679822,
+      "word": "车澈李嘉格离婚",
+      "onboard_time": 1757568162,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -835,14 +843,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 968744,
-      "num": 968744,
-      "word": "车澈李嘉格离婚",
-      "onboard_time": 1757568162,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 965473,
       "num": 1154475,
       "word": "赵磊上婚综是为了正式介绍太太",
@@ -1291,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 724871,
+      "num": 601318,
+      "word": "太子妃升职记",
+      "onboard_time": 1757566607,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 720206,
       "num": 337981,
       "word": "特朗普政治盟友遭枪击身亡",
@@ -1587,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 621411,
+      "num": 561580,
+      "word": "永夜星河",
+      "onboard_time": 1757565705,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 618027,
       "num": 1070794,
       "word": "日本民众喊话石平滚出日本",
@@ -1619,12 +1635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 601318,
-      "num": 601318,
-      "word": "太子妃升职记",
+      "raw_hot": 605801,
+      "num": 1095491,
+      "word": "小区蛇群泛滥大蛇小蛇到处窜",
       "onboard_time": 1757566607,
-      "rank": 15,
-      "category": "剧集"
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600885,
@@ -1753,14 +1769,6 @@
       "onboard_time": 1757317701,
       "rank": 7,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 561580,
-      "num": 561580,
-      "word": "永夜星河",
-      "onboard_time": 1757565705,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 561269,
@@ -1977,14 +1985,6 @@
       "onboard_time": 1757480004,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 505811,
-      "num": 1095491,
-      "word": "小区蛇群泛滥大蛇小蛇到处窜",
-      "onboard_time": 1757566607,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 505423,
@@ -2515,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423209,
+      "num": 423209,
+      "word": "薛飞3比0张本智和",
+      "onboard_time": 1757568162,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422658,
       "num": 295232,
       "word": "日本19岁未来天皇大办特办成人礼",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1757219783,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417348,
+      "num": 968964,
+      "word": "湖南师大 18人同住霉菌宿舍",
+      "onboard_time": 1757565225,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416927,
@@ -2961,14 +2977,6 @@
       "onboard_time": 1757513184,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 367041,
-      "num": 968964,
-      "word": "湖南师大 18人同住霉菌宿舍",
-      "onboard_time": 1757565225,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366639,
@@ -3496,6 +3504,14 @@
       "word": "上海老人房子被孙女砸成废墟",
       "onboard_time": 1757511924,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307014,
+      "num": 345349,
+      "word": "万能插线板 早已被禁用",
+      "onboard_time": 1757567922,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -4459,6 +4475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223597,
+      "num": 235444,
+      "word": "曾黎扛住了贴头皮造型",
+      "onboard_time": 1757567682,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223019,
       "num": 382768,
       "word": "粉丝围堵高铁站艺人真不知情吗",
@@ -4497,6 +4521,14 @@
       "onboard_time": 1757414662,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 220479,
+      "num": 204078,
+      "word": "上海全款150万9平米的独栋",
+      "onboard_time": 1757569189,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 220201,
@@ -5339,12 +5371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195747,
+      "num": 195747,
+      "word": "3个小时挣1000的工作",
+      "onboard_time": 1757565827,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195546,
       "num": 195546,
       "word": "电视剧谷雨全阵容官宣",
       "onboard_time": 1757301683,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195016,
+      "num": 195016,
+      "word": "日本男乒澳门赛首轮全部出局",
+      "onboard_time": 1757568644,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 194943,
@@ -5369,6 +5417,14 @@
       "onboard_time": 1757301263,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194630,
+      "num": 465398,
+      "word": "幼儿教材 足疗酒吧",
+      "onboard_time": 1757567802,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 194462,
@@ -5417,6 +5473,14 @@
       "onboard_time": 1757484442,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193380,
+      "num": 193380,
+      "word": "人到了一定岁数就会血脉觉醒",
+      "onboard_time": 1757568522,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 193342,
@@ -5503,14 +5567,6 @@
       "num": 192161,
       "word": "帮退休教师老妈再就业是什么体验",
       "onboard_time": 1757478626,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 192021,
-      "num": 192021,
-      "word": "3个小时挣1000的工作",
-      "onboard_time": 1757565827,
       "rank": 41,
       "category": "情感"
     },
@@ -5731,14 +5787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187433,
-      "num": 235444,
-      "word": "曾黎扛住了贴头皮造型",
-      "onboard_time": 1757567682,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187405,
       "num": 195468,
       "word": "印象最深最有意义的文创是什么",
@@ -5897,14 +5945,6 @@
       "onboard_time": 1757561607,
       "rank": 22,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 184622,
-      "num": 184622,
-      "word": "薛飞3比0张本智和",
-      "onboard_time": 1757568162,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 184544,
@@ -7219,6 +7259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159414,
+      "num": 159414,
+      "word": "东北地名能有多任性",
+      "onboard_time": 1757568891,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159170,
       "num": 133175,
       "word": "章凝 Miguel",
@@ -7329,6 +7377,14 @@
       "onboard_time": 1757479226,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156664,
+      "num": 156664,
+      "word": "薛飞亮相澳门冠军赛",
+      "onboard_time": 1757568826,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 156461,
@@ -7449,6 +7505,14 @@
       "onboard_time": 1757244800,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154345,
+      "num": 422560,
+      "word": "物业回应小区毛毛虫成灾满地都是",
+      "onboard_time": 1757568582,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154060,
@@ -7875,6 +7939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147488,
+      "num": 147488,
+      "word": "孙杨慢游记3官宣",
+      "onboard_time": 1757568283,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147364,
       "num": 260225,
       "word": "警方通报砖厂涉嫌残障人员务工",
@@ -7977,6 +8049,14 @@
       "onboard_time": 1757251101,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146359,
+      "num": 146359,
+      "word": "无痛降脂且加速减肥的方法",
+      "onboard_time": 1757569068,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146225,
@@ -9475,14 +9555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129264,
-      "num": 345349,
-      "word": "万能插线板 早已被禁用",
-      "onboard_time": 1757567922,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129220,
       "num": 129220,
       "word": "施华蔻处女发质翻译陷辱女争议",
@@ -10625,14 +10697,6 @@
       "onboard_time": 1757243001,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 117845,
-      "num": 465398,
-      "word": "幼儿教材 足疗酒吧",
-      "onboard_time": 1757567802,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 117750,
@@ -13875,6 +13939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65738,
+      "num": 179971,
+      "word": "堂哥和前妻有染男子房产判给堂嫂",
+      "onboard_time": 1757568703,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64884,
       "num": 133466,
       "word": "付费乱讲PPT门票5分钟抢光",
@@ -14552,6 +14624,14 @@
       "word": "中元节血月",
       "onboard_time": 1757134402,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49802,
+      "num": 183293,
+      "word": "虚构37亿存款 诈骗300万",
+      "onboard_time": 1757568644,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

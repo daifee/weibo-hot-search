@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757568267268,
+  "endTime": 1757569227413,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -11,11 +11,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13365171,
-      "num": 13365171,
+      "raw_hot": 15479145,
+      "num": 15479145,
       "word": "于朦胧昨晚9点半还在线",
       "onboard_time": 1757567085,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10679822,
+      "num": 10679822,
+      "word": "车澈李嘉格离婚",
+      "onboard_time": 1757568162,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -107,14 +115,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 968744,
-      "num": 968744,
-      "word": "车澈李嘉格离婚",
-      "onboard_time": 1757568162,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 926833,
       "num": 537650,
       "word": "良子断层超过蔡徐坤",
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 724871,
+      "num": 601318,
+      "word": "太子妃升职记",
+      "onboard_time": 1757566607,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 720206,
       "num": 337981,
       "word": "特朗普政治盟友遭枪击身亡",
@@ -211,12 +219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 601318,
-      "num": 601318,
-      "word": "太子妃升职记",
-      "onboard_time": 1757566607,
-      "rank": 15,
+      "raw_hot": 621411,
+      "num": 561580,
+      "word": "永夜星河",
+      "onboard_time": 1757565705,
+      "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 605801,
+      "num": 1095491,
+      "word": "小区蛇群泛滥大蛇小蛇到处窜",
+      "onboard_time": 1757566607,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 592009,
@@ -241,14 +257,6 @@
       "onboard_time": 1757489242,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 561580,
-      "num": 561580,
-      "word": "永夜星河",
-      "onboard_time": 1757565705,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 561269,
@@ -291,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 505811,
-      "num": 1095491,
-      "word": "小区蛇群泛滥大蛇小蛇到处窜",
-      "onboard_time": 1757566607,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 505235,
       "num": 505235,
       "word": "女子持刀等外卖",
@@ -320,6 +320,22 @@
       "word": "两儿子非亲生男子回应房产问题",
       "onboard_time": 1757555301,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423209,
+      "num": 423209,
+      "word": "薛飞3比0张本智和",
+      "onboard_time": 1757568162,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 417348,
+      "num": 968964,
+      "word": "湖南师大 18人同住霉菌宿舍",
+      "onboard_time": 1757565225,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -369,14 +385,6 @@
       "onboard_time": 1757565104,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 367041,
-      "num": 968964,
-      "word": "湖南师大 18人同住霉菌宿舍",
-      "onboard_time": 1757565225,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366639,
@@ -441,6 +449,14 @@
       "onboard_time": 1757484924,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307014,
+      "num": 345349,
+      "word": "万能插线板 早已被禁用",
+      "onboard_time": 1757567922,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299432,
@@ -579,6 +595,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 223597,
+      "num": 235444,
+      "word": "曾黎扛住了贴头皮造型",
+      "onboard_time": 1757567682,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220479,
+      "num": 204078,
+      "word": "上海全款150万9平米的独栋",
+      "onboard_time": 1757569189,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 217615,
       "num": 217615,
       "word": "儿子痛打父亲曝露非亲生真相",
@@ -651,12 +683,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192021,
-      "num": 192021,
+      "raw_hot": 195747,
+      "num": 195747,
       "word": "3个小时挣1000的工作",
       "onboard_time": 1757565827,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195016,
+      "num": 195016,
+      "word": "日本男乒澳门赛首轮全部出局",
+      "onboard_time": 1757568644,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194630,
+      "num": 465398,
+      "word": "幼儿教材 足疗酒吧",
+      "onboard_time": 1757567802,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 193380,
+      "num": 193380,
+      "word": "人到了一定岁数就会血脉觉醒",
+      "onboard_time": 1757568522,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 191083,
@@ -691,14 +747,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 187433,
-      "num": 235444,
-      "word": "曾黎扛住了贴头皮造型",
-      "onboard_time": 1757567682,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185992,
       "num": 185992,
       "word": "雷暴后400多人挤爆急诊科",
@@ -713,14 +761,6 @@
       "onboard_time": 1757561607,
       "rank": 22,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 184622,
-      "num": 184622,
-      "word": "薛飞3比0张本智和",
-      "onboard_time": 1757568162,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 176614,
@@ -819,6 +859,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159414,
+      "num": 159414,
+      "word": "东北地名能有多任性",
+      "onboard_time": 1757568891,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156664,
+      "num": 156664,
+      "word": "薛飞亮相澳门冠军赛",
+      "onboard_time": 1757568826,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154345,
+      "num": 422560,
+      "word": "物业回应小区毛毛虫成灾满地都是",
+      "onboard_time": 1757568582,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153650,
       "num": 153650,
       "word": "西贝回应被吐槽是预制菜",
@@ -883,12 +947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147488,
+      "num": 147488,
+      "word": "孙杨慢游记3官宣",
+      "onboard_time": 1757568283,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146838,
       "num": 231477,
       "word": "特朗普称美国遭遇黑暗时刻",
       "onboard_time": 1757567085,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146359,
+      "num": 146359,
+      "word": "无痛降脂且加速减肥的方法",
+      "onboard_time": 1757569068,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144201,
@@ -1003,14 +1083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129264,
-      "num": 345349,
-      "word": "万能插线板 早已被禁用",
-      "onboard_time": 1757567922,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128448,
       "num": 128448,
       "word": "张维伊连标志性的甩头动作都戒了",
@@ -1081,14 +1153,6 @@
       "onboard_time": 1757548762,
       "rank": 41,
       "category": "动漫,互联网"
-    },
-    {
-      "raw_hot": 117845,
-      "num": 465398,
-      "word": "幼儿教材 足疗酒吧",
-      "onboard_time": 1757567802,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 115832,
@@ -1411,6 +1475,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 65738,
+      "num": 179971,
+      "word": "堂哥和前妻有染男子房产判给堂嫂",
+      "onboard_time": 1757568703,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65072,
       "num": 138638,
       "word": "宋亚轩累了知道躺贺峻霖怀里",
@@ -1537,6 +1609,14 @@
       "onboard_time": 1757563604,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 49802,
+      "num": 183293,
+      "word": "虚构37亿存款 诈骗300万",
+      "onboard_time": 1757568644,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49570,
