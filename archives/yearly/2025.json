@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1757562522482,
+  "endTime": 1757564977505,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1744069100,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10108065,
+      "num": 10108065,
+      "word": "于朦胧快出来辟谣",
+      "onboard_time": 1757562277,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 10072261,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738640002,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4297177,
-      "num": 4297177,
-      "word": "释永信与多名女性保持不正当关系",
-      "onboard_time": 1753618822,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

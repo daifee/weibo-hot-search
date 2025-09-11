@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757562522482,
+  "endTime": 1757564977505,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10108065,
+      "num": 10108065,
+      "word": "于朦胧快出来辟谣",
+      "onboard_time": 1757562277,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2017330,
-      "num": 355322,
+      "num": 394478,
       "word": "全球首富现任妻子是中国姑娘",
       "onboard_time": 1757546959,
       "rank": 10,
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 926833,
-      "num": 477189,
+      "num": 537650,
       "word": "良子断层超过蔡徐坤",
       "onboard_time": 1757554882,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 912895,
+      "num": 310022,
+      "word": "建议把内裤袜子丢进洗衣机洗",
+      "onboard_time": 1757560160,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 901899,
@@ -67,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 855519,
+      "num": 855519,
+      "word": "NASA明确发现火星生命迹象",
+      "onboard_time": 1757562820,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 845744,
       "num": 206815,
       "word": "少女遭体罚死前求助信被老师拦截",
@@ -76,15 +100,23 @@
     },
     {
       "raw_hot": 764929,
-      "num": 307510,
+      "num": 394068,
       "word": "黄一鸣直播说女儿被抢走",
       "onboard_time": 1757549962,
       "rank": 13,
       "category": "网红"
     },
     {
+      "raw_hot": 755773,
+      "num": 1114374,
+      "word": "女子吐槽蒸蛋外卖疑有侮辱性字样",
+      "onboard_time": 1757555901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 750207,
-      "num": 340124,
+      "num": 392410,
       "word": "不发朋友圈和不看朋友圈",
       "onboard_time": 1757552662,
       "rank": 20,
@@ -105,14 +137,6 @@
       "onboard_time": 1757547681,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 714841,
-      "num": 1114374,
-      "word": "女子吐槽蒸蛋外卖疑有侮辱性字样",
-      "onboard_time": 1757555901,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 678600,
@@ -137,6 +161,14 @@
       "onboard_time": 1757489242,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565841,
+      "num": 565841,
+      "word": "河南大雨暴雨大暴雨",
+      "onboard_time": 1757561545,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561269,
@@ -171,16 +203,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518139,
-      "num": 195745,
-      "word": "建议把内裤袜子丢进洗衣机洗",
-      "onboard_time": 1757560160,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 460682,
-      "num": 303133,
+      "num": 341590,
       "word": "一念江南 王安宇",
       "onboard_time": 1757516844,
       "rank": 16,
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355755,
+      "num": 355755,
+      "word": "小红书被查",
+      "onboard_time": 1757564504,
+      "rank": 13,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 345671,
       "num": 345671,
       "word": "拉里埃里森成全球首富",
@@ -249,6 +281,14 @@
       "onboard_time": 1757520622,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330452,
+      "num": 330452,
+      "word": "喝牛奶和从不喝牛奶的身体差距",
+      "onboard_time": 1757561970,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 329327,
@@ -267,12 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318511,
+      "num": 318511,
+      "word": "女子持刀等外卖",
+      "onboard_time": 1757563122,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317173,
       "num": 317173,
       "word": "王者罗小黑战记联动",
       "onboard_time": 1757554162,
       "rank": 4,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 314931,
+      "num": 314931,
+      "word": "女子称试图把父亲卖去缅甸",
+      "onboard_time": 1757561303,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309696,
@@ -297,6 +353,22 @@
       "onboard_time": 1757550203,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274202,
+      "num": 315159,
+      "word": "灼灼韶华今日开播",
+      "onboard_time": 1757564024,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261175,
+      "num": 261175,
+      "word": "小红书炒作明星个人动态",
+      "onboard_time": 1757564623,
+      "rank": 25,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 260926,
@@ -347,6 +419,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232572,
+      "num": 270038,
+      "word": "曾舜晞为成毅赴山海云包场",
+      "onboard_time": 1757564144,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230398,
+      "num": 230398,
+      "word": "安卓猫 苹果猫",
+      "onboard_time": 1757564921,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225561,
       "num": 225561,
       "word": "震耳欲聋",
@@ -363,6 +451,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 216224,
+      "num": 216224,
+      "word": "热狗 本名羞耻症",
+      "onboard_time": 1757563064,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215255,
+      "num": 215255,
+      "word": "湖南师大回应网传18人同住霉菌宿舍",
+      "onboard_time": 1757563183,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211615,
       "num": 143966,
       "word": "聚是七个蛋 散是鸡蛋羹",
@@ -377,6 +481,22 @@
       "onboard_time": 1757514085,
       "rank": 6,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 206184,
+      "num": 215320,
+      "word": "赴山海今日开播成毅发文",
+      "onboard_time": 1757562639,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203171,
+      "num": 215258,
+      "word": "花少7也有自己的换乘恋爱",
+      "onboard_time": 1757563001,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 202345,
@@ -411,12 +531,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 190868,
-      "num": 190868,
-      "word": "于朦胧快出来辟谣",
-      "onboard_time": 1757562277,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 190132,
+      "num": 190132,
+      "word": "突然意识到自己的朋友是万能的",
+      "onboard_time": 1757563965,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 188749,
+      "num": 188749,
+      "word": "特朗普盟友遭枪击身亡现场视频曝光",
+      "onboard_time": 1757562216,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188019,
@@ -428,7 +556,7 @@
     },
     {
       "raw_hot": 184734,
-      "num": 193916,
+      "num": 264672,
       "word": "乌木香我只认TF",
       "onboard_time": 1757561607,
       "rank": 22,
@@ -451,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173457,
+      "num": 173457,
+      "word": "这是真上过大学的",
+      "onboard_time": 1757564565,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173027,
       "num": 197892,
       "word": "辛芷蕾内娱女将军模版",
@@ -467,12 +603,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172075,
-      "num": 147677,
-      "word": "喝牛奶和从不喝牛奶的身体差距",
-      "onboard_time": 1757561970,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 169376,
+      "num": 169376,
+      "word": "业内制片人说一念江南没换人",
+      "onboard_time": 1757564504,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167095,
+      "num": 167095,
+      "word": "福建舰出港",
+      "onboard_time": 1757561365,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166828,
@@ -507,14 +651,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 153457,
-      "num": 147628,
-      "word": "福建舰出港",
-      "onboard_time": 1757561365,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "杨超越瓜子西施",
@@ -537,14 +673,6 @@
       "onboard_time": 1757560522,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149971,
-      "num": 149971,
-      "word": "特朗普盟友遭枪击身亡现场视频曝光",
-      "onboard_time": 1757562216,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 149852,
@@ -571,12 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146438,
-      "num": 259615,
-      "word": "河南大雨暴雨大暴雨",
-      "onboard_time": 1757561545,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 147921,
+      "num": 147921,
+      "word": "陈垣宇3比2阿萨尔",
+      "onboard_time": 1757564683,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 144201,
@@ -603,12 +731,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140830,
-      "num": 140830,
-      "word": "女子称试图把父亲卖去缅甸",
-      "onboard_time": 1757561303,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 141710,
+      "num": 141710,
+      "word": "李晟40岁生日是和浪姐度过的",
+      "onboard_time": 1757562941,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139362,
+      "num": 139362,
+      "word": "苹果客服回应AirpodsPro3没充电线",
+      "onboard_time": 1757564744,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 139081,
+      "num": 139081,
+      "word": "网传俄罗斯六代机",
+      "onboard_time": 1757564263,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138796,
@@ -625,6 +769,14 @@
       "onboard_time": 1757511084,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134561,
+      "num": 134561,
+      "word": "谁认识影视飓风的HR",
+      "onboard_time": 1757562156,
+      "rank": 38,
+      "category": "数码,幽默"
     },
     {
       "raw_hot": 134553,
@@ -729,14 +881,6 @@
       "onboard_time": 1757548762,
       "rank": 41,
       "category": "动漫,互联网"
-    },
-    {
-      "raw_hot": 118315,
-      "num": 118315,
-      "word": "谁认识影视飓风的HR",
-      "onboard_time": 1757562156,
-      "rank": 38,
-      "category": "数码,幽默"
     },
     {
       "raw_hot": 115832,
@@ -1003,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74534,
+      "num": 316215,
+      "word": "2025外滩大会",
+      "onboard_time": 1757563604,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73495,
       "num": 73495,
       "word": "饿了么宣布取消超时扣款",
@@ -1131,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52787,
+      "num": 314988,
+      "word": "结婚22年两子非亲生房产纠纷案开庭",
+      "onboard_time": 1757564504,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49570,
       "num": 58458,
       "word": "当副科老师有多爽",
@@ -1139,12 +1299,28 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 47086,
+      "num": 395378,
+      "word": "为何新建黄岩岛自然保护区",
+      "onboard_time": 1757563604,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45669,
       "num": 197607,
       "word": "山河如愿英雄回家",
       "onboard_time": 1757562035,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45634,
+      "num": 778861,
+      "word": "石榴红了满天山",
+      "onboard_time": 1757509644,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44997,
@@ -1209,14 +1385,6 @@
       "onboard_time": 1757530155,
       "rank": 48,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 25186,
-      "num": 276057,
-      "word": "石榴红了满天山",
-      "onboard_time": 1757509644,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19382,
