@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/11 17:26:03
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/11 17:39:02
 </p>
 </blockquote>
 <p>
@@ -1443,6 +1443,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%A4%A7%E5%B9%85%E9%81%BF%E5%AD%95%E5%A5%97%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8C%87%E5%BC%95%E4%BA%BA%E4%B8%8D%E9%80%82%23" target="weibo">
+公交车大幅避孕套广告被指引人不适（热度：1007021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%96%E5%95%A1%E5%9B%A0%20%E5%B8%83%E6%B4%9B%E8%8A%AC%23" target="weibo">
 咖啡因 布洛芬（热度：1002169）
 </a>
@@ -2007,6 +2013,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%BE%B0%E8%A2%AB%E5%85%8D%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E8%81%8C%E5%8A%A1%23" target="weibo">
+王辰被免去中国工程院副院长职务（热度：804607）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%81%9C%E8%AF%BE%23" target="weibo">
 深圳停课（热度：804355）
 </a>
@@ -2237,12 +2249,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%23" target="weibo">
 淘宝闪购（热度：741647）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%BE%B0%E8%A2%AB%E5%85%8D%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E8%81%8C%E5%8A%A1%23" target="weibo">
-王辰被免去中国工程院副院长职务（热度：741079）
 </a>
 </li>
 
@@ -3503,12 +3509,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E5%B7%B2%E5%90%AF%E7%A8%8B%E6%9D%A5%E5%8D%8E%23" target="weibo">
 金正恩已启程来华（热度：520112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%A4%A7%E5%B9%85%E9%81%BF%E5%AD%95%E5%A5%97%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8C%87%E5%BC%95%E4%BA%BA%E4%B8%8D%E9%80%82%23" target="weibo">
-公交车大幅避孕套广告被指引人不适（热度：517571）
 </a>
 </li>
 
@@ -5091,6 +5091,12 @@ iPhone为什么只有P是大写（热度：389380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23" target="weibo">
+成都地铁偷拍案二审维持原判（热度：376175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%8B%B1%E6%97%A5%E4%B8%89%E8%AF%AD%E7%A7%8D%E4%B8%BB%E9%A2%98%E7%89%87%E8%83%9C%E5%88%A9%23" target="weibo">
 中英日三语种主题片胜利（热度：375831）
 </a>
@@ -6008,12 +6014,6 @@ AL对战WBG（热度：327576）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%BE%9E%E8%81%8C%E7%90%86%E7%94%B1%23" target="weibo">
-石破茂辞职理由（热度：318303）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6257,6 +6257,12 @@ AL对战WBG（热度：327576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E5%B9%BF%E5%A4%A7%E6%95%99%E5%B8%88%E7%9A%84%E5%85%B3%E6%80%80%E6%BF%80%E5%8A%B1%23%23" target="weibo">
 #总书记对广大教师的关怀激励#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%AE%A9%E5%92%8C%E5%B9%B3%E7%9A%84%E8%96%AA%E7%81%AB%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0%23%23" target="weibo">
+#让和平的薪火代代相传#
 </a>
 </li>
 
