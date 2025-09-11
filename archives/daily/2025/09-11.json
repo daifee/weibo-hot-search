@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757598079614,
+  "endTime": 1757600662963,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1652388,
-      "num": 1141790,
+      "num": 1154818,
       "word": "赴山海开播",
       "onboard_time": 1757584771,
       "rank": 6,
@@ -267,6 +267,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 863563,
+      "num": 811116,
+      "word": "西贝将起诉罗永浩",
+      "onboard_time": 1757593000,
+      "rank": 8,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 858573,
       "num": 325144,
       "word": "虞书欣好友米西为其发声",
@@ -281,14 +289,6 @@
       "onboard_time": 1757517025,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 811116,
-      "num": 811116,
-      "word": "西贝将起诉罗永浩",
-      "onboard_time": 1757593000,
-      "rank": 8,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 778924,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528151,
+      "num": 723758,
+      "word": "韩国海警将救生衣让给中国老人后遇难",
+      "onboard_time": 1757593657,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 505235,
       "num": 505235,
       "word": "女子持刀等外卖",
@@ -528,6 +536,14 @@
       "word": "赴山海第1集第14分25秒",
       "onboard_time": 1757593300,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 427580,
+      "num": 499112,
+      "word": "杨幂陈丽君 合作",
+      "onboard_time": 1757597015,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1757597614,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 385864,
-      "num": 723758,
-      "word": "韩国海警将救生衣让给中国老人后遇难",
-      "onboard_time": 1757593657,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 384437,
@@ -753,14 +761,6 @@
       "onboard_time": 1757552542,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328800,
-      "num": 499112,
-      "word": "杨幂陈丽君 合作",
-      "onboard_time": 1757597015,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 325338,
@@ -915,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276567,
+      "num": 412699,
+      "word": "王楚钦憋不了一点",
+      "onboard_time": 1757599055,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275572,
       "num": 315159,
       "word": "灼灼韶华今日开播",
@@ -945,6 +953,14 @@
       "onboard_time": 1757574341,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264675,
+      "num": 368068,
+      "word": "一名网红被杀美国为何会降半旗",
+      "onboard_time": 1757598934,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 262083,
@@ -992,6 +1008,14 @@
       "word": "21岁女生去年底被骗缅甸仍未救出",
       "onboard_time": 1757590130,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241857,
+      "num": 349145,
+      "word": "197653名烈士我们从未忘记",
+      "onboard_time": 1757598755,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1195,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202650,
+      "num": 288726,
+      "word": "荷兰实行四天工作制",
+      "onboard_time": 1757599595,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 202345,
       "num": 202345,
       "word": "网红罗大美遇害近800天家属再发声",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1757596655,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191014,
+      "num": 288700,
+      "word": "JDG战胜EDG",
+      "onboard_time": 1757600314,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 190740,
@@ -1723,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147714,
+      "num": 366172,
+      "word": "我国自主研发骨02胶水",
+      "onboard_time": 1757598815,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147488,
       "num": 147488,
       "word": "孙杨慢游记3官宣",
@@ -1931,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136851,
+      "num": 288681,
+      "word": "张韶涵彩排下班直播",
+      "onboard_time": 1757599835,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136806,
       "num": 136806,
       "word": "宋佳每年都要把自己的系统刷到最新",
@@ -1956,7 +2012,7 @@
     },
     {
       "raw_hot": 135443,
-      "num": 412721,
+      "num": 431252,
       "word": "阅兵观礼座椅有了新去处",
       "onboard_time": 1757585191,
       "rank": 36,
@@ -1969,6 +2025,14 @@
       "onboard_time": 1757583270,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 135058,
+      "num": 288652,
+      "word": "女孩遭体罚身亡老师聊天记录公布",
+      "onboard_time": 1757600372,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134785,
@@ -2211,6 +2275,14 @@
       "category": "动漫,互联网"
     },
     {
+      "raw_hot": 119336,
+      "num": 288506,
+      "word": "罗永浩回复西贝准备好了",
+      "onboard_time": 1757599414,
+      "rank": 32,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 119310,
       "num": 119310,
       "word": "熬夜会让身体变臭",
@@ -2419,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105341,
+      "num": 288437,
+      "word": "西贝将上线罗永浩菜单",
+      "onboard_time": 1757598394,
+      "rank": 35,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 105256,
       "num": 460122,
       "word": "成都地铁被指偷拍案原告发声",
@@ -2481,6 +2561,14 @@
       "onboard_time": 1757558600,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102479,
+      "num": 472066,
+      "word": "特朗普称柯克遇害是至暗时刻",
+      "onboard_time": 1757597614,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102043,
@@ -2627,12 +2715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85364,
+      "num": 288302,
+      "word": "CPI",
+      "onboard_time": 1757598394,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85348,
       "num": 454195,
       "word": "罗永浩菜单",
       "onboard_time": 1757593061,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 85234,
+      "num": 382579,
+      "word": "小布什当年得知911后反应",
+      "onboard_time": 1757597976,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83418,
@@ -2707,6 +2811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76280,
+      "num": 344142,
+      "word": "中国红迎接在韩志愿军烈士遗骸回家",
+      "onboard_time": 1757595036,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74534,
       "num": 385427,
       "word": "2025外滩大会",
@@ -2737,14 +2849,6 @@
       "onboard_time": 1757565045,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 72262,
-      "num": 382579,
-      "word": "小布什当年得知911后反应",
-      "onboard_time": 1757597976,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71833,
@@ -2939,14 +3043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57816,
-      "num": 472066,
-      "word": "特朗普称柯克遇害是至暗时刻",
-      "onboard_time": 1757597614,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57337,
       "num": 200669,
       "word": "老人早高峰抢公交领免费鸡蛋",
@@ -3073,14 +3169,6 @@
       "onboard_time": 1757583391,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45429,
-      "num": 344142,
-      "word": "中国红迎接在韩志愿军烈士遗骸回家",
-      "onboard_time": 1757595036,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44997,
@@ -3241,6 +3329,14 @@
       "onboard_time": 1757581292,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26285,
+      "num": 288235,
+      "word": "柯克遭枪击前一刻还在谈枪击",
+      "onboard_time": 1757599595,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26053,

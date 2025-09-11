@@ -1,0 +1,410 @@
+{
+  "runTime": 1757600662963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967615,
+        "num": 1154818,
+        "word": "赴山海开播",
+        "onboard_time": 1757584771,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528151,
+        "num": 528151,
+        "word": "韩国海警将救生衣让给中国老人后遇难",
+        "onboard_time": 1757593657,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29922,
+        "num": 431252,
+        "word": "阅兵观礼座椅有了新去处",
+        "onboard_time": 1757585191,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 427580,
+        "num": 427580,
+        "word": "杨幂陈丽君 合作",
+        "onboard_time": 1757597015,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276567,
+        "num": 412699,
+        "word": "王楚钦憋不了一点",
+        "onboard_time": 1757599055,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863563,
+        "num": 407050,
+        "word": "西贝将起诉罗永浩",
+        "onboard_time": 1757593000,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 399829,
+        "num": 399829,
+        "word": "罗永浩24小时发了5条西贝预制菜",
+        "onboard_time": 1757590425,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369499,
+        "num": 369499,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 7,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 264675,
+        "num": 368068,
+        "word": "一名网红被杀美国为何会降半旗",
+        "onboard_time": 1757598934,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147714,
+        "num": 366172,
+        "word": "我国自主研发骨02胶水",
+        "onboard_time": 1757598815,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 458951,
+        "num": 362078,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 10,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 434091,
+        "num": 360069,
+        "word": "薛之谦 那个少年不曾被世界催眠",
+        "onboard_time": 1757590664,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376853,
+        "num": 356966,
+        "word": "春楠化的赵丽颖",
+        "onboard_time": 1757596175,
+        "rank": 12,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 248020,
+        "num": 353526,
+        "word": "赴山海第1集第14分25秒",
+        "onboard_time": 1757593300,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241857,
+        "num": 349145,
+        "word": "197653名烈士我们从未忘记",
+        "onboard_time": 1757598755,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238942,
+        "num": 346770,
+        "word": "小众却很赚钱的工作",
+        "onboard_time": 1757587411,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217893,
+        "num": 345184,
+        "word": "赴山海",
+        "onboard_time": 1757580812,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255614,
+        "num": 341506,
+        "word": "王辰被免去中国工程院副院长职务",
+        "onboard_time": 1757579254,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185330,
+        "num": 337636,
+        "word": "赴山海云包场",
+        "onboard_time": 1757584771,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146400,
+        "num": 334985,
+        "word": "安吉演成毅小时候",
+        "onboard_time": 1757592341,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445856,
+        "num": 331474,
+        "word": "公交车大幅避孕套广告被指引人不适",
+        "onboard_time": 1757581711,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330829,
+        "num": 330829,
+        "word": "补气血最快的小方法",
+        "onboard_time": 1757597614,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288740,
+        "num": 288740,
+        "word": "成都地铁偷拍案二审维持原判",
+        "onboard_time": 1757581892,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202650,
+        "num": 288726,
+        "word": "荷兰实行四天工作制",
+        "onboard_time": 1757599595,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191014,
+        "num": 288700,
+        "word": "JDG战胜EDG",
+        "onboard_time": 1757600314,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136851,
+        "num": 288681,
+        "word": "张韶涵彩排下班直播",
+        "onboard_time": 1757599835,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135058,
+        "num": 288652,
+        "word": "女孩遭体罚身亡老师聊天记录公布",
+        "onboard_time": 1757600372,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117116,
+        "num": 288637,
+        "word": "21岁女生去年底被骗缅甸仍未救出",
+        "onboard_time": 1757590130,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105565,
+        "num": 288608,
+        "word": "热依扎新剧上错花轿嫁对郎",
+        "onboard_time": 1757597135,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98348,
+        "num": 288595,
+        "word": "李昀锐法拉利年轻的时候",
+        "onboard_time": 1757585491,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60788,
+        "num": 288565,
+        "word": "全新领克07和领克08上市时间公布",
+        "onboard_time": 1757595816,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126271,
+        "num": 288525,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 31,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 119336,
+        "num": 288506,
+        "word": "罗永浩回复西贝准备好了",
+        "onboard_time": 1757599414,
+        "rank": 32,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 113752,
+        "num": 288482,
+        "word": "建议把内裤袜子丢进洗衣机洗",
+        "onboard_time": 1757560160,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111989,
+        "num": 288460,
+        "word": "离职了要退一千多个工作群",
+        "onboard_time": 1757586872,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105341,
+        "num": 288437,
+        "word": "西贝将上线罗永浩菜单",
+        "onboard_time": 1757598394,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 102479,
+        "num": 288410,
+        "word": "特朗普称柯克遇害是至暗时刻",
+        "onboard_time": 1757597614,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101214,
+        "num": 288395,
+        "word": "地铁偷拍案被上诉人不构成诬陷",
+        "onboard_time": 1757595335,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92180,
+        "num": 288367,
+        "word": "罗永浩炮轰贾国龙回应",
+        "onboard_time": 1757595095,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87078,
+        "num": 288337,
+        "word": "iPhone17ProMax长焦是什么水平",
+        "onboard_time": 1757586631,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85523,
+        "num": 288331,
+        "word": "多人晒刘强东网友见面会邀请函",
+        "onboard_time": 1757594016,
+        "rank": 40,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 85364,
+        "num": 288302,
+        "word": "CPI",
+        "onboard_time": 1757598394,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85234,
+        "num": 288285,
+        "word": "小布什当年得知911后反应",
+        "onboard_time": 1757597976,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85185,
+        "num": 288249,
+        "word": "成都地铁被指偷拍案原告发声",
+        "onboard_time": 1757594137,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26285,
+        "num": 288235,
+        "word": "柯克遭枪击前一刻还在谈枪击",
+        "onboard_time": 1757599595,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81198,
+        "num": 288200,
+        "word": "游客称虎跳峡出现头上有角不明生物",
+        "onboard_time": 1757585851,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79202,
+        "num": 288191,
+        "word": "普通人吃早餐vs医生吃早餐",
+        "onboard_time": 1757597976,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77787,
+        "num": 288155,
+        "word": "王楚钦3比1格罗特",
+        "onboard_time": 1757597373,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76763,
+        "num": 288121,
+        "word": "惠英红杨幂热巴 敬鱼死网破的胜利",
+        "onboard_time": 1757580692,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76280,
+        "num": 288099,
+        "word": "中国红迎接在韩志愿军烈士遗骸回家",
+        "onboard_time": 1757595036,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#让和平的薪火代代相传#"
+    }
+  }
+}
