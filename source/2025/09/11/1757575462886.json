@@ -1,0 +1,410 @@
+{
+  "runTime": 1757575462886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10361029,
+        "num": 10361029,
+        "word": "物业确认有人坠楼不确定是明星",
+        "onboard_time": 1757571461,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 689153,
+        "num": 689153,
+        "word": "NASA明确发现火星生命迹象",
+        "onboard_time": 1757562820,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9547,
+        "num": 688600,
+        "word": "石榴红了满天山",
+        "onboard_time": 1757509644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6561350,
+        "num": 6561350,
+        "word": "邢菲 希望是假的",
+        "onboard_time": 1757571163,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405129,
+        "num": 628905,
+        "word": "万能插线板 早已被禁用",
+        "onboard_time": 1757567922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338676,
+        "num": 617400,
+        "word": "特朗普下令全国降半旗",
+        "onboard_time": 1757547981,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5411373,
+        "num": 5411373,
+        "word": "车澈李嘉格离婚",
+        "onboard_time": 1757568162,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801445,
+        "num": 577233,
+        "word": "陈汉典lulu宣布结婚",
+        "onboard_time": 1757566487,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301487,
+        "num": 557503,
+        "word": "00后男子怀疑女友出轨拔掉她8颗牙",
+        "onboard_time": 1757570503,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219436,
+        "num": 535624,
+        "word": "女孩喝奶茶窒息众人接力救回",
+        "onboard_time": 1757574281,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 996381,
+        "num": 519753,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 10,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 700905,
+        "num": 492292,
+        "word": "高泰宇 你的笑容永远定格在记忆中",
+        "onboard_time": 1757575119,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485743,
+        "num": 485743,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 440088,
+        "num": 440088,
+        "word": "赵昭仪 姐夫今天轮到我跟姐说话了吗",
+        "onboard_time": 1757574879,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391715,
+        "num": 391715,
+        "word": "太子妃升职记",
+        "onboard_time": 1757566607,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342757,
+        "num": 342757,
+        "word": "冯绍峰 从所有85花的世界路过",
+        "onboard_time": 1757565225,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303842,
+        "num": 303842,
+        "word": "吃完木薯糖水睡了14小时",
+        "onboard_time": 1757565585,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 271855,
+        "num": 271855,
+        "word": "猫咪被狗脚臭到赶紧清理自己的脚",
+        "onboard_time": 1757570024,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238446,
+        "num": 238446,
+        "word": "短剧招聘日薪5千 花4万培训",
+        "onboard_time": 1757569844,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225114,
+        "num": 225114,
+        "word": "李晟我就是命好的含金量还在上升",
+        "onboard_time": 1757574341,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9242649,
+        "num": 9242649,
+        "word": "于朦胧",
+        "onboard_time": 1757561184,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433888,
+        "num": 222653,
+        "word": "建议把内裤袜子丢进洗衣机洗",
+        "onboard_time": 1757560160,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319343,
+        "num": 217958,
+        "word": "三宝承认对千惠妈妈态度不好",
+        "onboard_time": 1757572422,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310616,
+        "num": 217605,
+        "word": "小区蛇群泛滥大蛇小蛇到处窜",
+        "onboard_time": 1757566607,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215375,
+        "num": 215375,
+        "word": "湖南师大 18人同住霉菌宿舍",
+        "onboard_time": 1757565225,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5159394,
+        "num": 5159394,
+        "word": "于朦胧昨晚9点半还在线",
+        "onboard_time": 1757567085,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317501,
+        "num": 213795,
+        "word": "永夜星河",
+        "onboard_time": 1757565705,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254540,
+        "num": 213613,
+        "word": "小S回应陈汉典lulu结婚",
+        "onboard_time": 1757570802,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209511,
+        "num": 209511,
+        "word": "野狗骨头导演 战绩可查",
+        "onboard_time": 1757572844,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201212,
+        "num": 201212,
+        "word": "天津一小区毛毛虫成灾居民直呼恶心",
+        "onboard_time": 1757572785,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199457,
+        "num": 199457,
+        "word": "物业回应小区毛毛虫成灾满地都是",
+        "onboard_time": 1757568582,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197093,
+        "num": 197093,
+        "word": "黄一鸣直播说女儿被抢走",
+        "onboard_time": 1757549962,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 186789,
+        "num": 186789,
+        "word": "被热巴配林黛玉这段惊艳到了",
+        "onboard_time": 1757569726,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169522,
+        "num": 169522,
+        "word": "万能插线板藏安全隐患早已被禁用",
+        "onboard_time": 1757575060,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169170,
+        "num": 169170,
+        "word": "薛飞3比0张本智和",
+        "onboard_time": 1757568162,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167941,
+        "num": 167941,
+        "word": "18岁内地女子在香港坠楼身亡",
+        "onboard_time": 1757571043,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166969,
+        "num": 166969,
+        "word": "临江仙",
+        "onboard_time": 1757565045,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163350,
+        "num": 163350,
+        "word": "丝瓜汤文学为什么火了",
+        "onboard_time": 1757572922,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32716,
+        "num": 157122,
+        "word": "丁程鑫演董子健叔叔",
+        "onboard_time": 1757575360,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42587,
+        "num": 156440,
+        "word": "黄一鸣直播哽咽自己被当成摇钱树",
+        "onboard_time": 1757574579,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155517,
+        "num": 156330,
+        "word": "当自驾游形成了一个完美闭环",
+        "onboard_time": 1757574045,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156321,
+        "num": 156321,
+        "word": "女子持刀等外卖",
+        "onboard_time": 1757563122,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155979,
+        "num": 155979,
+        "word": "小米金凡时隔三年再发微博",
+        "onboard_time": 1757574760,
+        "rank": 42,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 148049,
+        "num": 148049,
+        "word": "薛小婉自曝不领证的原因",
+        "onboard_time": 1757565104,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143472,
+        "num": 143472,
+        "word": "河南大雨暴雨大暴雨",
+        "onboard_time": 1757561545,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141004,
+        "num": 141004,
+        "word": "万千惠没有让一千万亏损发生",
+        "onboard_time": 1757575179,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134785,
+        "num": 134785,
+        "word": "买房多年后得知首任房主被杀害藏尸",
+        "onboard_time": 1757573383,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133645,
+        "num": 133645,
+        "word": "一般人hold不住橙色iPhone",
+        "onboard_time": 1757573383,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122312,
+        "num": 122312,
+        "word": "退伍女兵这一抱戳中泪点",
+        "onboard_time": 1757572724,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 40013,
+        "num": 122291,
+        "word": "青蟹这种吃法算蟹生圆满了",
+        "onboard_time": 1757574461,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对广大教师的关怀激励#"
+    }
+  }
+}
