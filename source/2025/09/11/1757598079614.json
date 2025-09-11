@@ -1,0 +1,410 @@
+{
+  "runTime": 1757598079614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 886188,
+        "num": 1141790,
+        "word": "赴山海开播",
+        "onboard_time": 1757584771,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 729784,
+        "num": 729784,
+        "word": "西贝将起诉罗永浩",
+        "onboard_time": 1757593000,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 34796,
+        "num": 729626,
+        "word": "高质量完成十四五规划",
+        "onboard_time": 1757584232,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411516,
+        "num": 725766,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 3,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 385864,
+        "num": 723758,
+        "word": "韩国海警将救生衣让给中国老人后遇难",
+        "onboard_time": 1757593657,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 901979,
+        "num": 721213,
+        "word": "薛之谦 那个少年不曾被世界催眠",
+        "onboard_time": 1757590664,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 719837,
+        "num": 719837,
+        "word": "罗永浩24小时发了5条西贝预制菜",
+        "onboard_time": 1757590425,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 374795,
+        "num": 572867,
+        "word": "赴山海第1集第14分25秒",
+        "onboard_time": 1757593300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328800,
+        "num": 499112,
+        "word": "杨幂陈丽君 合作",
+        "onboard_time": 1757597015,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57816,
+        "num": 472066,
+        "word": "特朗普称柯克遇害是至暗时刻",
+        "onboard_time": 1757597614,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 458205,
+        "num": 458205,
+        "word": "春楠化的赵丽颖",
+        "onboard_time": 1757596175,
+        "rank": 10,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 444240,
+        "num": 444240,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 11,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 294594,
+        "num": 442913,
+        "word": "王辰被免去中国工程院副院长职务",
+        "onboard_time": 1757579254,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261009,
+        "num": 435904,
+        "word": "赴山海",
+        "onboard_time": 1757580812,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246339,
+        "num": 424373,
+        "word": "上海老洋房从1.5亿降到8千多万",
+        "onboard_time": 1757587712,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247534,
+        "num": 417147,
+        "word": "赴山海云包场",
+        "onboard_time": 1757584771,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228232,
+        "num": 410578,
+        "word": "小众却很赚钱的工作",
+        "onboard_time": 1757587411,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244489,
+        "num": 404139,
+        "word": "安吉演成毅小时候",
+        "onboard_time": 1757592341,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401078,
+        "num": 401078,
+        "word": "成都地铁偷拍案二审维持原判",
+        "onboard_time": 1757581892,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156617,
+        "num": 394361,
+        "word": "21岁女生去年底被骗缅甸仍未救出",
+        "onboard_time": 1757590130,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527489,
+        "num": 393588,
+        "word": "公交车大幅避孕套广告被指引人不适",
+        "onboard_time": 1757581711,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388687,
+        "num": 388687,
+        "word": "补气血最快的小方法",
+        "onboard_time": 1757597614,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200861,
+        "num": 388603,
+        "word": "热依扎新剧上错花轿嫁对郎",
+        "onboard_time": 1757597135,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169776,
+        "num": 388260,
+        "word": "多人晒刘强东网友见面会邀请函",
+        "onboard_time": 1757594016,
+        "rank": 23,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 152258,
+        "num": 387656,
+        "word": "建议把内裤袜子丢进洗衣机洗",
+        "onboard_time": 1757560160,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106577,
+        "num": 387406,
+        "word": "全新领克07和领克08上市时间公布",
+        "onboard_time": 1757595816,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147642,
+        "num": 387188,
+        "word": "离职了要退一千多个工作群",
+        "onboard_time": 1757586872,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142227,
+        "num": 386657,
+        "word": "王楚钦3比1格罗特",
+        "onboard_time": 1757597373,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141650,
+        "num": 386336,
+        "word": "灼灼韶华开播",
+        "onboard_time": 1757592580,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136639,
+        "num": 385911,
+        "word": "王楚钦vs格罗特",
+        "onboard_time": 1757592043,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132059,
+        "num": 385829,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 30,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 127616,
+        "num": 385438,
+        "word": "成都地铁偷拍案被告 并非诬陷",
+        "onboard_time": 1757592640,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126277,
+        "num": 385075,
+        "word": "在上海你甚至能看到人遛恐龙",
+        "onboard_time": 1757597135,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125505,
+        "num": 384746,
+        "word": "童锦程官宣新恋情",
+        "onboard_time": 1757575958,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116752,
+        "num": 384354,
+        "word": "梁伟铿王昶晋级中国香港公开赛8强",
+        "onboard_time": 1757596655,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113538,
+        "num": 384087,
+        "word": "罗永浩炮轰贾国龙回应",
+        "onboard_time": 1757595095,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112318,
+        "num": 383706,
+        "word": "李嘉格配文终其一生幸福的具象化",
+        "onboard_time": 1757590309,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111748,
+        "num": 383394,
+        "word": "杨幂劝醒恋爱脑的一百种方式",
+        "onboard_time": 1757591805,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110186,
+        "num": 382835,
+        "word": "普通人吃早餐vs医生吃早餐",
+        "onboard_time": 1757597976,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72262,
+        "num": 382579,
+        "word": "小布什当年得知911后反应",
+        "onboard_time": 1757597976,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103296,
+        "num": 382134,
+        "word": "王楚钦晋级澳门赛八强",
+        "onboard_time": 1757596055,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103154,
+        "num": 381970,
+        "word": "成都地铁被指偷拍案原告发声",
+        "onboard_time": 1757594137,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101254,
+        "num": 381313,
+        "word": "游客称虎跳峡出现头上有角不明生物",
+        "onboard_time": 1757585851,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98205,
+        "num": 381240,
+        "word": "妈我已经过了需要你的年龄了",
+        "onboard_time": 1757579194,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66151,
+        "num": 380748,
+        "word": "狙杀柯克枪手仅开了一枪",
+        "onboard_time": 1757596895,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95416,
+        "num": 380293,
+        "word": "赵昭仪 姐夫今天轮到我跟姐说话了吗",
+        "onboard_time": 1757574879,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94266,
+        "num": 380169,
+        "word": "地铁被疑偷拍案被告先后3次道歉",
+        "onboard_time": 1757583811,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93506,
+        "num": 379559,
+        "word": "iPhone17ProMax长焦是什么水平",
+        "onboard_time": 1757586631,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81244,
+        "num": 379326,
+        "word": "美众议院为柯克默哀被多次打断",
+        "onboard_time": 1757596957,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79268,
+        "num": 379037,
+        "word": "运20今日出发接志愿军烈士回国",
+        "onboard_time": 1757591023,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#让和平的薪火代代相传#"
+    }
+  }
+}
