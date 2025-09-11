@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/07 00:27:00 ~ 2025/09/12 04:23:15
+本榜单时间：2025/09/07 00:27:00 ~ 2025/09/12 04:36:53
 </p>
 </blockquote>
 <p>
@@ -13131,6 +13131,12 @@ iPhone Air追星人必备（热度：22134）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%A6%88%E5%A6%88%E5%BE%97%E7%9F%A5%E5%A5%B3%E5%84%BF%E8%8E%B7%E5%A5%96%E5%93%AD%E4%BA%86%23" target="weibo">
+辛芷蕾妈妈得知女儿获奖哭了（热度：19090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%E6%88%91%E4%B8%8D%E8%AE%B8%E4%BD%A0%E6%BC%94%E5%82%BB%E5%AD%90%E4%BA%86%23" target="weibo">
 蒲熠星我不许你演傻子了（热度：18269）
 </a>
@@ -13227,14 +13233,8 @@ iPhone Air追星人必备（热度：22134）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%A6%88%E5%A6%88%E5%BE%97%E7%9F%A5%E5%A5%B3%E5%84%BF%E8%8E%B7%E5%A5%96%E5%93%AD%E4%BA%86%23" target="weibo">
-辛芷蕾妈妈得知女儿获奖哭了（热度：13878）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%9B%9E%E8%8B%B1%E9%9B%84%E7%9A%84%E8%BF%9020%E4%B8%BA%E4%BD%95%E7%94%A8%E8%B7%A8%E6%B1%9F50%E5%91%BC%E5%8F%B7%23" target="weibo">
-迎回英雄的运20为何用跨江50呼号（热度：13868）
+迎回英雄的运20为何用跨江50呼号（热度：13899）
 </a>
 </li>
 
