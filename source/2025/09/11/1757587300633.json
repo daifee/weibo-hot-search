@@ -1,0 +1,410 @@
+{
+  "runTime": 1757587300633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2361938,
+        "num": 2361938,
+        "word": "文苡帆秒删悼念于朦胧文章",
+        "onboard_time": 1757583695,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612529,
+        "num": 612529,
+        "word": "王辰被免去中国工程院副院长职务",
+        "onboard_time": 1757579254,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36180,
+        "num": 587089,
+        "word": "高质量完成十四五规划",
+        "onboard_time": 1757584232,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1257341,
+        "num": 583896,
+        "word": "赴山海开播",
+        "onboard_time": 1757584771,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578479,
+        "num": 578479,
+        "word": "成都地铁偷拍案二审维持原判",
+        "onboard_time": 1757581892,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391907,
+        "num": 577103,
+        "word": "iPhone18离我们越来越近了",
+        "onboard_time": 1757585010,
+        "rank": 5,
+        "category": "数码,剧集"
+      },
+      {
+        "raw_hot": 959852,
+        "num": 565922,
+        "word": "邢菲 希望是假的",
+        "onboard_time": 1757571163,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715452,
+        "num": 555539,
+        "word": "乃万称目前单身",
+        "onboard_time": 1757586753,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313217,
+        "num": 551062,
+        "word": "中国情侣泰国芭提雅出海1人身亡",
+        "onboard_time": 1757583752,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193955,
+        "num": 545943,
+        "word": "57岁大叔从年入千万到负债4600万",
+        "onboard_time": 1757580272,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1334721,
+        "num": 536094,
+        "word": "物业确认有人坠楼不确定是明星",
+        "onboard_time": 1757571461,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 715061,
+        "num": 528132,
+        "word": "高泰宇 你的笑容永远定格在记忆中",
+        "onboard_time": 1757575119,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524937,
+        "num": 524937,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 462988,
+        "num": 462988,
+        "word": "14岁儿子被教官猥亵父亲发声",
+        "onboard_time": 1757584111,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356925,
+        "num": 356925,
+        "word": "赴山海云包场",
+        "onboard_time": 1757584771,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337397,
+        "num": 337397,
+        "word": "童锦程官宣新恋情",
+        "onboard_time": 1757575958,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316275,
+        "num": 316275,
+        "word": "地铁被疑偷拍案被告先后3次道歉",
+        "onboard_time": 1757583811,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91905,
+        "num": 312762,
+        "word": "高德扫街榜上线1天用户超4000万",
+        "onboard_time": 1757585972,
+        "rank": 17,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 153287,
+        "num": 310014,
+        "word": "情侣租摩托艇出海男方获救女方遇难",
+        "onboard_time": 1757585972,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110677,
+        "num": 303580,
+        "word": "李昀锐法拉利年轻的时候",
+        "onboard_time": 1757585491,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12374966,
+        "num": 12374966,
+        "word": "于朦胧",
+        "onboard_time": 1757561184,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 999317,
+        "num": 295380,
+        "word": "公交车大幅避孕套广告被指引人不适",
+        "onboard_time": 1757581711,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294732,
+        "num": 294732,
+        "word": "赴山海",
+        "onboard_time": 1757580812,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270672,
+        "num": 270672,
+        "word": "赵昭仪 姐夫今天轮到我跟姐说话了吗",
+        "onboard_time": 1757574879,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250120,
+        "num": 250120,
+        "word": "建议把内裤袜子丢进洗衣机洗",
+        "onboard_time": 1757560160,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39689,
+        "num": 225270,
+        "word": "行业协会称高德扫街榜促同行反思",
+        "onboard_time": 1757585191,
+        "rank": 25,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 203587,
+        "num": 203587,
+        "word": "妈我已经过了需要你的年龄了",
+        "onboard_time": 1757579194,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216743,
+        "num": 200798,
+        "word": "陈汉典lulu宣布结婚",
+        "onboard_time": 1757566487,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94921,
+        "num": 195901,
+        "word": "顶级狙击手称柯克刺杀案枪手技术一般",
+        "onboard_time": 1757584771,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194993,
+        "num": 194993,
+        "word": "瘦多囊vs胖多囊",
+        "onboard_time": 1757579074,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209825,
+        "num": 194843,
+        "word": "邢菲已删博",
+        "onboard_time": 1757587051,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194605,
+        "num": 194605,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 31,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 190547,
+        "num": 190547,
+        "word": "惠英红杨幂热巴 敬鱼死网破的胜利",
+        "onboard_time": 1757580692,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168594,
+        "num": 175253,
+        "word": "游客称虎跳峡出现头上有角不明生物",
+        "onboard_time": 1757585851,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172898,
+        "num": 172898,
+        "word": "施华蔻道歉",
+        "onboard_time": 1757586092,
+        "rank": 34,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 170348,
+        "num": 170348,
+        "word": "首尔病是什么梗",
+        "onboard_time": 1757578835,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165449,
+        "num": 165449,
+        "word": "iPhone17ProMax长焦是什么水平",
+        "onboard_time": 1757586631,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28241,
+        "num": 158641,
+        "word": "两子非亲生案当事人 老实人没错",
+        "onboard_time": 1757586992,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155580,
+        "num": 155580,
+        "word": "数百位老人早高峰抢公交致学生迟到",
+        "onboard_time": 1757580753,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90756,
+        "num": 153337,
+        "word": "万斯拜登奥巴马发声",
+        "onboard_time": 1757586392,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151790,
+        "num": 151790,
+        "word": "钱学森之子说刷题抹杀孩子求知欲",
+        "onboard_time": 1757583096,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 140031,
+        "num": 140031,
+        "word": "丝瓜汤汉堡",
+        "onboard_time": 1757585972,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135215,
+        "num": 135215,
+        "word": "泡泡 QQ音乐",
+        "onboard_time": 1757583270,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131650,
+        "num": 131650,
+        "word": "洒水车BGM为啥是兰花草",
+        "onboard_time": 1757587051,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130584,
+        "num": 130584,
+        "word": "永夜星河",
+        "onboard_time": 1757565705,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124026,
+        "num": 124026,
+        "word": "老外别震惊老内先震惊一下",
+        "onboard_time": 1757578302,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121444,
+        "num": 121444,
+        "word": "冯绍峰 从所有85花的世界路过",
+        "onboard_time": 1757565225,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116968,
+        "num": 116968,
+        "word": "NASA明确发现火星生命迹象",
+        "onboard_time": 1757562820,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115994,
+        "num": 115994,
+        "word": "赴山海热度",
+        "onboard_time": 1757587112,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114323,
+        "num": 114323,
+        "word": "鹿晗忍痛的表情",
+        "onboard_time": 1757578835,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#让和平的薪火代代相传#"
+    }
+  }
+}

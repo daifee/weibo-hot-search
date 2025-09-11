@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757586317241,
+  "endTime": 1757587300633,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -139,6 +139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1257341,
+      "num": 588728,
+      "word": "赴山海开播",
+      "onboard_time": 1757584771,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1070066,
       "num": 336508,
       "word": "杨采钰首晒与老公合照",
@@ -169,14 +177,6 @@
       "onboard_time": 1757550922,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 951845,
-      "num": 588728,
-      "word": "赴山海开播",
-      "onboard_time": 1757584771,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 926833,
@@ -265,6 +265,14 @@
       "onboard_time": 1757547681,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 715452,
+      "num": 555539,
+      "word": "乃万称目前单身",
+      "onboard_time": 1757586753,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 678600,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462988,
+      "num": 462988,
+      "word": "14岁儿子被教官猥亵父亲发声",
+      "onboard_time": 1757584111,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460682,
       "num": 341590,
       "word": "一念江南 王安宇",
@@ -475,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391907,
+      "num": 577103,
+      "word": "iPhone18离我们越来越近了",
+      "onboard_time": 1757585010,
+      "rank": 13,
+      "category": "数码,剧集"
+    },
+    {
       "raw_hot": 375010,
       "num": 742275,
       "word": "短剧招聘日薪5千 花4万培训",
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356925,
+      "num": 356925,
+      "word": "赴山海云包场",
+      "onboard_time": 1757584771,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353743,
       "num": 353743,
       "word": "妈我已经过了需要你的年龄了",
@@ -555,28 +587,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 341282,
-      "num": 341282,
-      "word": "14岁儿子被教官猥亵父亲发声",
-      "onboard_time": 1757584111,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 339252,
       "num": 146220,
       "word": "关晓彤日更",
       "onboard_time": 1757520622,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334362,
-      "num": 334362,
-      "word": "iPhone18离我们越来越近了",
-      "onboard_time": 1757585010,
-      "rank": 13,
-      "category": "数码,剧集"
     },
     {
       "raw_hot": 329327,
@@ -619,8 +635,8 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 315248,
-      "num": 315248,
+      "raw_hot": 316275,
+      "num": 316275,
       "word": "地铁被疑偷拍案被告先后3次道歉",
       "onboard_time": 1757583811,
       "rank": 16,
@@ -673,6 +689,14 @@
       "onboard_time": 1757563183,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294732,
+      "num": 294732,
+      "word": "赴山海",
+      "onboard_time": 1757551103,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 290827,
@@ -801,22 +825,6 @@
       "onboard_time": 1757554762,
       "rank": 29,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 251599,
-      "num": 251599,
-      "word": "赴山海云包场",
-      "onboard_time": 1757584771,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 249449,
-      "num": 249828,
-      "word": "赴山海",
-      "onboard_time": 1757551103,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 241307,
@@ -961,6 +969,14 @@
       "onboard_time": 1757514085,
       "rank": 6,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 209825,
+      "num": 194843,
+      "word": "邢菲已删博",
+      "onboard_time": 1757587051,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 209511,
@@ -1195,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172898,
+      "num": 172898,
+      "word": "施华蔻道歉",
+      "onboard_time": 1757586092,
+      "rank": 38,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 171204,
       "num": 171204,
       "word": "钱塘江奇观神龙摆尾",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1757565585,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168594,
+      "num": 175253,
+      "word": "游客称虎跳峡出现头上有角不明生物",
+      "onboard_time": 1757585851,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167095,
@@ -1233,6 +1265,14 @@
       "onboard_time": 1757580753,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165449,
+      "num": 165449,
+      "word": "iPhone17ProMax长焦是什么水平",
+      "onboard_time": 1757586631,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 163826,
@@ -1315,6 +1355,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 153287,
+      "num": 542375,
+      "word": "情侣租摩托艇出海男方获救女方遇难",
+      "onboard_time": 1757585972,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "杨超越瓜子西施",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1757553682,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 151790,
+      "num": 191637,
+      "word": "钱学森之子说刷题抹杀孩子求知欲",
+      "onboard_time": 1757583096,
+      "rank": 29,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 151576,
@@ -1499,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140031,
+      "num": 140031,
+      "word": "丝瓜汤汉堡",
+      "onboard_time": 1757585972,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139362,
       "num": 139362,
       "word": "苹果客服回应AirpodsPro3没充电线",
@@ -1563,12 +1627,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135688,
-      "num": 191637,
-      "word": "钱学森之子说刷题抹杀孩子求知欲",
-      "onboard_time": 1757583096,
-      "rank": 29,
-      "category": "民生新闻,教育"
+      "raw_hot": 135215,
+      "num": 135215,
+      "word": "泡泡 QQ音乐",
+      "onboard_time": 1757583270,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 134785,
@@ -1593,14 +1657,6 @@
       "onboard_time": 1757555961,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 134165,
-      "num": 134165,
-      "word": "泡泡 QQ音乐",
-      "onboard_time": 1757583270,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 133976,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1757571283,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131650,
+      "num": 131650,
+      "word": "洒水车BGM为啥是兰花草",
+      "onboard_time": 1757587051,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 131214,
@@ -1755,14 +1819,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 120808,
-      "num": 120808,
-      "word": "丝瓜汤汉堡",
-      "onboard_time": 1757585972,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 119825,
       "num": 119825,
       "word": "动漫之家已倒闭",
@@ -1779,12 +1835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117653,
-      "num": 117653,
-      "word": "游客称虎跳峡出现头上有角不明生物",
-      "onboard_time": 1757585851,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 115994,
+      "num": 115994,
+      "word": "赴山海热度",
+      "onboard_time": 1757587112,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 115832,
@@ -1849,6 +1905,14 @@
       "onboard_time": 1757549002,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110677,
+      "num": 303580,
+      "word": "李昀锐法拉利年轻的时候",
+      "onboard_time": 1757585491,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 108989,
@@ -1940,7 +2004,7 @@
     },
     {
       "raw_hot": 103547,
-      "num": 103547,
+      "num": 195901,
       "word": "顶级狙击手称柯克刺杀案枪手技术一般",
       "onboard_time": 1757584771,
       "rank": 49,
@@ -2067,12 +2131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91913,
-      "num": 542375,
-      "word": "情侣租摩托艇出海男方获救女方遇难",
+      "raw_hot": 91905,
+      "num": 312762,
+      "word": "高德扫街榜上线1天用户超4000万",
       "onboard_time": 1757585972,
-      "rank": 9,
-      "category": "海外新闻"
+      "rank": 24,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 91235,
@@ -2083,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90756,
+      "num": 153337,
+      "word": "万斯拜登奥巴马发声",
+      "onboard_time": 1757586392,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87455,
       "num": 87455,
       "word": "向鹏澳门站输给樊振东德甲队友",
@@ -2091,28 +2163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83415,
-      "num": 135093,
-      "word": "施华蔻道歉",
-      "onboard_time": 1757586092,
-      "rank": 38,
-      "category": "民生新闻,美妆"
-    },
-    {
       "raw_hot": 83113,
       "num": 83113,
       "word": "这才是女生眼里的男友干净穿搭",
       "onboard_time": 1757516543,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82279,
-      "num": 230064,
-      "word": "高德扫街榜上线1天用户超4000万",
-      "onboard_time": 1757585972,
-      "rank": 24,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 81859,
@@ -2347,14 +2403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57958,
-      "num": 193041,
-      "word": "李昀锐法拉利年轻的时候",
-      "onboard_time": 1757585491,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57337,
       "num": 200669,
       "word": "老人早高峰抢公交领免费鸡蛋",
@@ -2516,7 +2564,7 @@
     },
     {
       "raw_hot": 40602,
-      "num": 222947,
+      "num": 225270,
       "word": "行业协会称高德扫街榜促同行反思",
       "onboard_time": 1757585191,
       "rank": 25,
@@ -2616,6 +2664,14 @@
       "word": "87年的洗衣机还在正常使用",
       "onboard_time": 1757582011,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28241,
+      "num": 158641,
+      "word": "两子非亲生案当事人 老实人没错",
+      "onboard_time": 1757586992,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

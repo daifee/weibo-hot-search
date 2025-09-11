@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757586317241,
+  "endTime": 1757587300633,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1257341,
+      "num": 588728,
+      "word": "赴山海开播",
+      "onboard_time": 1757584771,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1255093,
       "num": 463852,
       "word": "辛芷蕾的影后是全票通过",
@@ -921,14 +929,6 @@
       "onboard_time": 1757440456,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 951845,
-      "num": 588728,
-      "word": "赴山海开播",
-      "onboard_time": 1757584771,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 944535,
@@ -1377,6 +1377,14 @@
       "onboard_time": 1757547681,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 715452,
+      "num": 555539,
+      "word": "乃万称目前单身",
+      "onboard_time": 1757586753,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 715376,
@@ -2275,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462988,
+      "num": 462988,
+      "word": "14岁儿子被教官猥亵父亲发声",
+      "onboard_time": 1757584111,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462628,
       "num": 323208,
       "word": "辛芷蕾拿了影后刘冲再也没有发过花絮",
@@ -2827,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391907,
+      "num": 577103,
+      "word": "iPhone18离我们越来越近了",
+      "onboard_time": 1757585010,
+      "rank": 13,
+      "category": "数码,剧集"
+    },
+    {
       "raw_hot": 389063,
       "num": 232697,
       "word": "为什么接吻的时候闻不到对方口臭",
@@ -3187,6 +3211,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 356925,
+      "num": 356925,
+      "word": "赴山海云包场",
+      "onboard_time": 1757584771,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356656,
       "num": 495737,
       "word": "马龙 替我姥姥谢谢倪妮",
@@ -3315,14 +3347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 341282,
-      "num": 341282,
-      "word": "14岁儿子被教官猥亵父亲发声",
-      "onboard_time": 1757584111,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 340168,
       "num": 381741,
       "word": "祝绪丹赫本风",
@@ -3385,14 +3409,6 @@
       "onboard_time": 1757202679,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 334362,
-      "num": 334362,
-      "word": "iPhone18离我们越来越近了",
-      "onboard_time": 1757585010,
-      "rank": 13,
-      "category": "数码,剧集"
     },
     {
       "raw_hot": 332017,
@@ -3587,6 +3603,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 316275,
+      "num": 316275,
+      "word": "地铁被疑偷拍案被告先后3次道歉",
+      "onboard_time": 1757583811,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315912,
       "num": 337798,
       "word": "梓渝盛世天下好虐",
@@ -3601,14 +3625,6 @@
       "onboard_time": 1757244442,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315248,
-      "num": 315248,
-      "word": "地铁被疑偷拍案被告先后3次道歉",
-      "onboard_time": 1757583811,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 315122,
@@ -4305,14 +4321,6 @@
       "onboard_time": 1757467523,
       "rank": 18,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 251599,
-      "num": 251599,
-      "word": "赴山海云包场",
-      "onboard_time": 1757584771,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 247897,
@@ -5065,6 +5073,14 @@
       "onboard_time": 1757307146,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209825,
+      "num": 194843,
+      "word": "邢菲已删博",
+      "onboard_time": 1757587051,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 209511,
@@ -6843,6 +6859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172898,
+      "num": 172898,
+      "word": "施华蔻道歉",
+      "onboard_time": 1757586092,
+      "rank": 38,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 172758,
       "num": 172758,
       "word": "iPhone Air",
@@ -7091,6 +7115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168594,
+      "num": 175253,
+      "word": "游客称虎跳峡出现头上有角不明生物",
+      "onboard_time": 1757585851,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168492,
       "num": 459720,
       "word": "九三阅兵运20起飞前画面大放送",
@@ -7265,6 +7297,14 @@
       "onboard_time": 1757512885,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 165449,
+      "num": 165449,
+      "word": "iPhone17ProMax长焦是什么水平",
+      "onboard_time": 1757586631,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 165125,
@@ -7979,6 +8019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153287,
+      "num": 542375,
+      "word": "情侣租摩托艇出海男方获救女方遇难",
+      "onboard_time": 1757585972,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153253,
       "num": 153253,
       "word": "高中生玩游戏成瘾3个月内瘦了8斤",
@@ -8057,6 +8105,14 @@
       "onboard_time": 1757312183,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151790,
+      "num": 191637,
+      "word": "钱学森之子说刷题抹杀孩子求知欲",
+      "onboard_time": 1757583096,
+      "rank": 29,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 151717,
@@ -9051,6 +9107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140031,
+      "num": 140031,
+      "word": "丝瓜汤汉堡",
+      "onboard_time": 1757585972,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139839,
       "num": 139839,
       "word": "u22国足晋级亚洲杯正赛",
@@ -9515,14 +9579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135688,
-      "num": 191637,
-      "word": "钱学森之子说刷题抹杀孩子求知欲",
-      "onboard_time": 1757583096,
-      "rank": 29,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 135480,
       "num": 135480,
       "word": "祈今朝制片方悄悄碎掉了",
@@ -9537,6 +9593,14 @@
       "onboard_time": 1757494342,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135215,
+      "num": 135215,
+      "word": "泡泡 QQ音乐",
+      "onboard_time": 1757583270,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 135181,
@@ -9649,14 +9713,6 @@
       "onboard_time": 1757555961,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 134165,
-      "num": 134165,
-      "word": "泡泡 QQ音乐",
-      "onboard_time": 1757583270,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 134128,
@@ -9889,6 +9945,14 @@
       "onboard_time": 1757299824,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 131650,
+      "num": 131650,
+      "word": "洒水车BGM为啥是兰花草",
+      "onboard_time": 1757587051,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 131516,
@@ -11027,14 +11091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120808,
-      "num": 120808,
-      "word": "丝瓜汤汉堡",
-      "onboard_time": 1757585972,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 120709,
       "num": 120709,
       "word": "大帅好强",
@@ -11331,14 +11387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117653,
-      "num": 117653,
-      "word": "游客称虎跳峡出现头上有角不明生物",
-      "onboard_time": 1757585851,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117563,
       "num": 149878,
       "word": "心动8下一期爆灯了",
@@ -11481,6 +11529,14 @@
       "onboard_time": 1757314642,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115994,
+      "num": 115994,
+      "word": "赴山海热度",
+      "onboard_time": 1757587112,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 115832,
@@ -11985,6 +12041,14 @@
       "onboard_time": 1757333664,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 110677,
+      "num": 303580,
+      "word": "李昀锐法拉利年轻的时候",
+      "onboard_time": 1757585491,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 110619,
@@ -12748,7 +12812,7 @@
     },
     {
       "raw_hot": 103547,
-      "num": 103547,
+      "num": 195901,
       "word": "顶级狙击手称柯克刺杀案枪手技术一般",
       "onboard_time": 1757584771,
       "rank": 49,
@@ -13651,12 +13715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91913,
-      "num": 542375,
-      "word": "情侣租摩托艇出海男方获救女方遇难",
+      "raw_hot": 91905,
+      "num": 312762,
+      "word": "高德扫街榜上线1天用户超4000万",
       "onboard_time": 1757585972,
-      "rank": 9,
-      "category": "海外新闻"
+      "rank": 24,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 91848,
@@ -13713,6 +13777,14 @@
       "onboard_time": 1757287579,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90756,
+      "num": 153337,
+      "word": "万斯拜登奥巴马发声",
+      "onboard_time": 1757586392,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90709,
@@ -14019,14 +14091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83415,
-      "num": 135093,
-      "word": "施华蔻道歉",
-      "onboard_time": 1757586092,
-      "rank": 38,
-      "category": "民生新闻,美妆"
-    },
-    {
       "raw_hot": 82961,
       "num": 82961,
       "word": "同花顺董事长减持自称让渡市场机会",
@@ -14081,14 +14145,6 @@
       "onboard_time": 1757477065,
       "rank": 17,
       "category": "互联网,电竞"
-    },
-    {
-      "raw_hot": 82279,
-      "num": 230064,
-      "word": "高德扫街榜上线1天用户超4000万",
-      "onboard_time": 1757585972,
-      "rank": 24,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 82168,
@@ -15083,14 +15139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57958,
-      "num": 193041,
-      "word": "李昀锐法拉利年轻的时候",
-      "onboard_time": 1757585491,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57683,
       "num": 57683,
       "word": "小咪是一个擅长原谅人类的小猫",
@@ -15764,7 +15812,7 @@
     },
     {
       "raw_hot": 40602,
-      "num": 222947,
+      "num": 225270,
       "word": "行业协会称高德扫街榜促同行反思",
       "onboard_time": 1757585191,
       "rank": 25,
@@ -16177,6 +16225,14 @@
       "onboard_time": 1757244681,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 28241,
+      "num": 158641,
+      "word": "两子非亲生案当事人 老实人没错",
+      "onboard_time": 1757586992,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27927,
