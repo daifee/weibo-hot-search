@@ -1,70 +1,70 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757555463164,
+  "endTime": 1757556748507,
   "band_list": [
     {
       "raw_hot": 2017330,
-      "num": 193034,
+      "num": 248693,
       "word": "全球首富现任妻子是中国姑娘",
       "onboard_time": 1757546959,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1589693,
-      "num": 1589693,
+      "raw_hot": 1651661,
+      "num": 1651661,
       "word": "特朗普下令全国降半旗",
       "onboard_time": 1757547981,
       "rank": 0,
       "category": "国际时政"
     },
     {
-      "raw_hot": 902423,
-      "num": 192753,
+      "raw_hot": 1070066,
+      "num": 247357,
       "word": "杨采钰首晒与老公合照",
       "onboard_time": 1757552243,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 901899,
-      "num": 189402,
-      "word": "曝一念江南没有男演员愿意接",
-      "onboard_time": 1757512584,
-      "rank": 10,
-      "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 845744,
-      "num": 189952,
-      "word": "少女遭体罚死前求助信被老师拦截",
-      "onboard_time": 1757517025,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 788234,
-      "num": 192411,
+      "raw_hot": 906952,
+      "num": 245211,
       "word": "爱泼斯坦恶魔岛绝密资料曝光",
       "onboard_time": 1757550922,
       "rank": 12,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 764929,
-      "num": 191777,
-      "word": "黄一鸣直播说女儿被抢走",
-      "onboard_time": 1757549962,
-      "rank": 13,
-      "category": "网红"
+      "raw_hot": 901899,
+      "num": 205862,
+      "word": "曝一念江南没有男演员愿意接",
+      "onboard_time": 1757512584,
+      "rank": 10,
+      "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 748651,
-      "num": 190988,
+      "raw_hot": 858573,
+      "num": 242049,
       "word": "虞书欣好友米西为其发声",
       "onboard_time": 1757548039,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845744,
+      "num": 206815,
+      "word": "少女遭体罚死前求助信被老师拦截",
+      "onboard_time": 1757517025,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 764929,
+      "num": 239711,
+      "word": "黄一鸣直播说女儿被抢走",
+      "onboard_time": 1757549962,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 740752,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 678600,
-      "num": 189290,
+      "num": 234755,
       "word": "一念江南 陈都灵",
       "onboard_time": 1757517503,
       "rank": 12,
@@ -132,11 +132,35 @@
     },
     {
       "raw_hot": 460682,
-      "num": 147809,
+      "num": 180188,
       "word": "一念江南 王安宇",
       "onboard_time": 1757516844,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456666,
+      "num": 237008,
+      "word": "不发朋友圈和不看朋友圈",
+      "onboard_time": 1757552662,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 444393,
+      "num": 337981,
+      "word": "特朗普政治盟友遭枪击身亡",
+      "onboard_time": 1757547681,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 411615,
+      "num": 411615,
+      "word": "美释放韩公民现场空无一人",
+      "onboard_time": 1757552002,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 395279,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 366639,
-      "num": 190721,
+      "num": 205077,
       "word": "张维伊清爽了",
       "onboard_time": 1757521519,
       "rank": 41,
@@ -179,12 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337981,
-      "num": 337981,
-      "word": "特朗普政治盟友遭枪击身亡",
-      "onboard_time": 1757547681,
-      "rank": 3,
-      "category": "国际时政"
+      "raw_hot": 329327,
+      "num": 329327,
+      "word": "王者荣耀",
+      "onboard_time": 1757552542,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 328554,
+      "num": 328554,
+      "word": "良子断层超过蔡徐坤",
+      "onboard_time": 1757554882,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 324765,
@@ -211,24 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279970,
-      "num": 279970,
-      "word": "王者荣耀",
-      "onboard_time": 1757552542,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 267304,
-      "num": 267304,
-      "word": "美释放韩公民现场空无一人",
-      "onboard_time": 1757552002,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 264180,
-      "num": 190226,
+      "raw_hot": 277106,
+      "num": 235668,
       "word": "AngelababyG社生频",
       "onboard_time": 1757550203,
       "rank": 17,
@@ -300,19 +316,19 @@
     },
     {
       "raw_hot": 199625,
-      "num": 199625,
+      "num": 249828,
       "word": "赴山海",
       "onboard_time": 1757551103,
       "rank": 8,
       "category": "剧集"
     },
     {
-      "raw_hot": 189310,
-      "num": 189310,
-      "word": "不发朋友圈和不看朋友圈",
-      "onboard_time": 1757552662,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 195786,
+      "num": 195786,
+      "word": "创新药",
+      "onboard_time": 1757555901,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 188019,
@@ -363,6 +379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165380,
+      "num": 165380,
+      "word": "网红回应夹子音爆火引全网模仿",
+      "onboard_time": 1757554762,
+      "rank": 29,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 165359,
+      "num": 207683,
+      "word": "女子吐槽蒸蛋外卖疑有侮辱性字样",
+      "onboard_time": 1757555901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163736,
       "num": 163736,
       "word": "胡军一家为女儿庆24岁生日",
@@ -395,12 +427,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 147252,
+      "num": 147252,
+      "word": "iPhone17Air和iPhone6对比",
+      "onboard_time": 1757555901,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143047,
       "num": 143047,
       "word": "刘浩存好明媚",
       "onboard_time": 1757510604,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140849,
+      "num": 140849,
+      "word": "戚薇结婚纪念日礼物",
+      "onboard_time": 1757552603,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138796,
+      "num": 138796,
+      "word": "李泽言CV试音投票开启",
+      "onboard_time": 1757555901,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 138069,
@@ -411,6 +467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134553,
+      "num": 134553,
+      "word": "iPhone17系列新增珠光摄影风格",
+      "onboard_time": 1757555961,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 133426,
+      "num": 133426,
+      "word": "公安部上线一个新举报平台",
+      "onboard_time": 1757556682,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131214,
       "num": 131214,
       "word": "中方表态尼泊尔政局发生变化",
@@ -419,12 +491,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128806,
-      "num": 128806,
-      "word": "戚薇结婚纪念日礼物",
-      "onboard_time": 1757552603,
-      "rank": 36,
+      "raw_hot": 130132,
+      "num": 130132,
+      "word": "李泽言配音",
+      "onboard_time": 1757551643,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129693,
+      "num": 243510,
+      "word": "两儿子非亲生男子回应房产问题",
+      "onboard_time": 1757555301,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "张维伊连标志性的甩头动作都戒了",
+      "onboard_time": 1757555841,
+      "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128130,
+      "num": 191419,
+      "word": "两位九旬老兵来沈阳接牺牲战友回家",
+      "onboard_time": 1757553922,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127682,
@@ -441,6 +537,14 @@
       "onboard_time": 1757518822,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122353,
+      "num": 160009,
+      "word": "三星掌门人之子放弃美籍",
+      "onboard_time": 1757550742,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121900,
@@ -465,22 +569,6 @@
       "onboard_time": 1757548762,
       "rank": 41,
       "category": "动漫,互联网"
-    },
-    {
-      "raw_hot": 119024,
-      "num": 151929,
-      "word": "三星掌门人之子放弃美籍",
-      "onboard_time": 1757550742,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 117369,
-      "num": 117369,
-      "word": "李泽言配音",
-      "onboard_time": 1757551643,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 112205,
@@ -523,28 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104249,
-      "num": 104249,
-      "word": "两儿子非亲生男子回应房产问题",
-      "onboard_time": 1757555301,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103437,
-      "num": 191419,
-      "word": "两位九旬老兵来沈阳接牺牲战友回家",
-      "onboard_time": 1757553922,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99910,
       "num": 99910,
       "word": "偶遇杨洋在夏威夷吃川菜",
       "onboard_time": 1757514984,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98527,
+      "num": 124859,
+      "word": "张凌赫陈都灵或将三搭",
+      "onboard_time": 1757549302,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 96055,
@@ -563,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93564,
+      "num": 100221,
+      "word": "日本部分餐厅被指对游客提供阴阳菜单",
+      "onboard_time": 1757555422,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91235,
       "num": 91235,
       "word": "福建被继母生父虐死女孩体重仅40斤",
@@ -571,36 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90118,
-      "num": 151809,
-      "word": "网红回应夹子音爆火引全网模仿",
-      "onboard_time": 1757554762,
-      "rank": 29,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 87455,
       "num": 87455,
       "word": "向鹏澳门站输给樊振东德甲队友",
       "onboard_time": 1757546959,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86083,
-      "num": 100221,
-      "word": "日本部分餐厅被指对游客提供阴阳菜单",
-      "onboard_time": 1757555422,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83785,
-      "num": 124859,
-      "word": "张凌赫陈都灵或将三搭",
-      "onboard_time": 1757549302,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 83113,
@@ -689,14 +753,6 @@
       "onboard_time": 1757510543,
       "rank": 27,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 64318,
-      "num": 122607,
-      "word": "良子断层超过蔡徐坤",
-      "onboard_time": 1757554882,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 61954,
@@ -803,6 +859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36825,
+      "num": 130274,
+      "word": "多家美股AI巨头创新高",
+      "onboard_time": 1757556321,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 36652,
       "num": 85535,
       "word": "真夫妻牵手走红毯就是好嗑",
@@ -868,7 +932,7 @@
     },
     {
       "raw_hot": 8332,
-      "num": 409401,
+      "num": 502976,
       "word": "我国制造业规模连续15年全球第一",
       "onboard_time": 1757385801,
       "rank": 2,
