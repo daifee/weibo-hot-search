@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757572608753,
+  "endTime": 1757573348568,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11688375,
+      "num": 11688375,
+      "word": "物业确认有人坠楼不确定是明星",
+      "onboard_time": 1757571461,
+      "rank": 3,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 10679822,
       "num": 10679822,
       "word": "车澈李嘉格离婚",
@@ -35,16 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6102391,
-      "num": 6102391,
-      "word": "物业确认有人坠楼不确定是明星",
-      "onboard_time": 1757571461,
-      "rank": 3,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 3716150,
-      "num": 725544,
+      "raw_hot": 6547918,
+      "num": 6547918,
       "word": "邢菲 希望是假的",
       "onboard_time": 1757571163,
       "rank": 6,
@@ -379,12 +379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375010,
+      "num": 742275,
+      "word": "短剧招聘日薪5千 花4万培训",
+      "onboard_time": 1757569844,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370908,
       "num": 370908,
       "word": "喝牛奶和从不喝牛奶的身体差距",
       "onboard_time": 1757561970,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 370783,
+      "num": 678807,
+      "word": "万能插线板 早已被禁用",
+      "onboard_time": 1757567922,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369537,
@@ -411,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365971,
-      "num": 742275,
-      "word": "短剧招聘日薪5千 花4万培训",
-      "onboard_time": 1757569844,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 362087,
+      "num": 362087,
+      "word": "小S回应陈汉典lulu结婚",
+      "onboard_time": 1757570802,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 345671,
@@ -431,14 +447,6 @@
       "num": 146220,
       "word": "关晓彤日更",
       "onboard_time": 1757520622,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336692,
-      "num": 336692,
-      "word": "小S回应陈汉典lulu结婚",
-      "onboard_time": 1757570802,
       "rank": 18,
       "category": "艺人"
     },
@@ -483,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307014,
-      "num": 345349,
-      "word": "万能插线板 早已被禁用",
-      "onboard_time": 1757567922,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302537,
       "num": 422560,
       "word": "物业回应小区毛毛虫成灾满地都是",
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286894,
+      "num": 286894,
+      "word": "三宝承认对千惠妈妈态度不好",
+      "onboard_time": 1757572422,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281464,
       "num": 281464,
       "word": "曾舜晞为成毅赴山海云包场",
@@ -553,6 +561,14 @@
       "onboard_time": 1757564024,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271796,
+      "num": 271796,
+      "word": "猫咪被狗脚臭到赶紧清理自己的脚",
+      "onboard_time": 1757570024,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 260926,
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227452,
+      "num": 227452,
+      "word": "被热巴配林黛玉这段惊艳到了",
+      "onboard_time": 1757569726,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225561,
       "num": 225561,
       "word": "震耳欲聋",
@@ -643,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222389,
-      "num": 222389,
-      "word": "猫咪被狗脚臭到赶紧清理自己的脚",
-      "onboard_time": 1757570024,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 220479,
       "num": 204078,
       "word": "上海全款150万9平米的独栋",
@@ -665,14 +681,6 @@
       "onboard_time": 1757566725,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216815,
-      "num": 216815,
-      "word": "被热巴配林黛玉这段惊艳到了",
-      "onboard_time": 1757569726,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 216224,
@@ -787,6 +795,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189900,
+      "num": 189900,
+      "word": "高德扫街榜上线首日用户超4000万",
+      "onboard_time": 1757572844,
+      "rank": 32,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 189372,
+      "num": 189372,
+      "word": "00后男子怀疑女友出轨拔掉她8颗牙",
+      "onboard_time": 1757570503,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188749,
       "num": 188749,
       "word": "特朗普盟友遭枪击身亡现场视频曝光",
@@ -817,6 +841,14 @@
       "onboard_time": 1757561607,
       "rank": 22,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 182731,
+      "num": 182731,
+      "word": "18岁内地女子在香港坠楼身亡",
+      "onboard_time": 1757571043,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176614,
@@ -859,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171204,
+      "num": 171204,
+      "word": "钱塘江奇观神龙摆尾",
+      "onboard_time": 1757570322,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171100,
       "num": 171100,
       "word": "我觉得差不多可以放寒假了",
@@ -883,12 +923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164983,
-      "num": 164983,
-      "word": "00后男子怀疑女友出轨拔掉她8颗牙",
-      "onboard_time": 1757570503,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 165885,
+      "num": 165885,
+      "word": "野狗骨头导演 战绩可查",
+      "onboard_time": 1757572844,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 163826,
@@ -923,28 +963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160476,
-      "num": 160476,
-      "word": "钱塘江奇观神龙摆尾",
-      "onboard_time": 1757570322,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159414,
       "num": 159414,
       "word": "东北地名能有多任性",
       "onboard_time": 1757568891,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159222,
-      "num": 159222,
-      "word": "18岁内地女子在香港坠楼身亡",
-      "onboard_time": 1757571043,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156664,
@@ -1035,20 +1059,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147622,
-      "num": 147622,
-      "word": "三宝承认对千惠妈妈态度不好",
-      "onboard_time": 1757572422,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147488,
       "num": 147488,
       "word": "孙杨慢游记3官宣",
       "onboard_time": 1757568283,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146460,
+      "num": 146460,
+      "word": "成毅会去看大家的赴山海二创",
+      "onboard_time": 1757572922,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 146359,
@@ -1067,6 +1091,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143951,
+      "num": 696615,
+      "word": "大起胆子弄这是救人",
+      "onboard_time": 1757571579,
+      "rank": 10,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 143259,
+      "num": 166126,
+      "word": "全世界都从龚俊的亲吻鲨鱼路过",
+      "onboard_time": 1757572363,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143047,
       "num": 143047,
       "word": "刘浩存好明媚",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1757552603,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142143,
+      "num": 404658,
+      "word": "退伍女兵这一抱戳中泪点",
+      "onboard_time": 1757572724,
+      "rank": 17,
+      "category": "正能量"
     },
     {
       "raw_hot": 141710,
@@ -1139,6 +1187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136806,
+      "num": 136806,
+      "word": "宋佳每年都要把自己的系统刷到最新",
+      "onboard_time": 1757572662,
+      "rank": 46,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 136073,
+      "num": 136073,
+      "word": "天津一小区毛毛虫成灾居民直呼恶心",
+      "onboard_time": 1757572785,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134561,
       "num": 134561,
       "word": "谁认识影视飓风的HR",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1757566905,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133963,
+      "num": 133963,
+      "word": "娜扎礼服配帆布鞋",
+      "onboard_time": 1757570084,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 133334,
@@ -1219,14 +1291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127901,
-      "num": 146357,
-      "word": "全世界都从龚俊的亲吻鲨鱼路过",
-      "onboard_time": 1757572363,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127682,
       "num": 127682,
       "word": "煮方便面vs泡方便面",
@@ -1283,20 +1347,20 @@
       "category": "动漫,互联网"
     },
     {
-      "raw_hot": 118139,
-      "num": 696615,
-      "word": "大起胆子弄这是救人",
-      "onboard_time": 1757571579,
-      "rank": 10,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 115832,
       "num": 115832,
       "word": "女子与外卖员剐蹭冲突相互道歉",
       "onboard_time": 1757558240,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 115700,
+      "num": 131119,
+      "word": "重返未来1999衣着PV",
+      "onboard_time": 1757573085,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 113704,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1757514744,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105969,
+      "num": 148219,
+      "word": "一餐厅老鼠在熟食区边觅食",
+      "onboard_time": 1757572061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105343,
@@ -1587,6 +1659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70644,
+      "num": 381309,
+      "word": "丝瓜汤文学为什么火了",
+      "onboard_time": 1757572922,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69824,
       "num": 69824,
       "word": "哈马斯高层或因土耳其预警躲过一劫",
@@ -1633,14 +1713,6 @@
       "onboard_time": 1757510543,
       "rank": 27,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 63279,
-      "num": 146564,
-      "word": "一餐厅老鼠在熟食区边觅食",
-      "onboard_time": 1757572061,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61954,
@@ -1857,6 +1929,14 @@
       "onboard_time": 1757530155,
       "rank": 48,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 22787,
+      "num": 165958,
+      "word": "一念江南到底换没换",
+      "onboard_time": 1757573322,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 19382,

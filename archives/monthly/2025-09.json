@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757572608753,
+  "endTime": 1757573348568,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -75,6 +75,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 11688375,
+      "num": 11688375,
+      "word": "物业确认有人坠楼不确定是明星",
+      "onboard_time": 1757571461,
+      "rank": 3,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 10679822,
       "num": 10679822,
       "word": "车澈李嘉格离婚",
@@ -139,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6102391,
-      "num": 6102391,
-      "word": "物业确认有人坠楼不确定是明星",
-      "onboard_time": 1757571461,
-      "rank": 3,
-      "category": "艺人,民生新闻"
+      "raw_hot": 6547918,
+      "num": 6547918,
+      "word": "邢菲 希望是假的",
+      "onboard_time": 1757571163,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 5747195,
@@ -169,14 +177,6 @@
       "onboard_time": 1756859242,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3716150,
-      "num": 725544,
-      "word": "邢菲 希望是假的",
-      "onboard_time": 1757571163,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 3660261,
@@ -6731,6 +6731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375010,
+      "num": 742275,
+      "word": "短剧招聘日薪5千 花4万培训",
+      "onboard_time": 1757569844,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374583,
       "num": 374583,
       "word": "错过今晚的月全食要等3年",
@@ -6793,6 +6801,14 @@
       "onboard_time": 1757561970,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 370783,
+      "num": 678807,
+      "word": "万能插线板 早已被禁用",
+      "onboard_time": 1757567922,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370629,
@@ -6897,14 +6913,6 @@
       "onboard_time": 1756854018,
       "rank": 6,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 365971,
-      "num": 742275,
-      "word": "短剧招聘日薪5千 花4万培训",
-      "onboard_time": 1757569844,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364998,
@@ -7017,6 +7025,14 @@
       "onboard_time": 1756954402,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 362087,
+      "num": 362087,
+      "word": "小S回应陈汉典lulu结婚",
+      "onboard_time": 1757570802,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 361022,
@@ -7449,14 +7465,6 @@
       "onboard_time": 1757083762,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 336692,
-      "num": 336692,
-      "word": "小S回应陈汉典lulu结婚",
-      "onboard_time": 1757570802,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 336633,
@@ -8131,14 +8139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307014,
-      "num": 345349,
-      "word": "万能插线板 早已被禁用",
-      "onboard_time": 1757567922,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306851,
       "num": 267295,
       "word": "随餐喝水和不喝水的区别",
@@ -8619,6 +8619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286894,
+      "num": 286894,
+      "word": "三宝承认对千惠妈妈态度不好",
+      "onboard_time": 1757572422,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285977,
       "num": 117507,
       "word": "NHK播报勿忘南京大屠杀主播发声",
@@ -9033,6 +9041,14 @@
       "onboard_time": 1756690819,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271796,
+      "num": 271796,
+      "word": "猫咪被狗脚臭到赶紧清理自己的脚",
+      "onboard_time": 1757570024,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 271338,
@@ -10339,6 +10355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227452,
+      "num": 227452,
+      "word": "被热巴配林黛玉这段惊艳到了",
+      "onboard_time": 1757569726,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227392,
       "num": 548916,
       "word": "女民兵为啥戴红色丝巾",
@@ -10505,14 +10529,6 @@
       "onboard_time": 1756912283,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 222389,
-      "num": 222389,
-      "word": "猫咪被狗脚臭到赶紧清理自己的脚",
-      "onboard_time": 1757570024,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 222371,
@@ -10737,14 +10753,6 @@
       "onboard_time": 1757380522,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216815,
-      "num": 216815,
-      "word": "被热巴配林黛玉这段惊艳到了",
-      "onboard_time": 1757569726,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 216504,
@@ -12723,6 +12731,14 @@
       "category": "财经,国际时政"
     },
     {
+      "raw_hot": 189900,
+      "num": 189900,
+      "word": "高德扫街榜上线首日用户超4000万",
+      "onboard_time": 1757572844,
+      "rank": 32,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 189873,
       "num": 189873,
       "word": "美国背刺韩国",
@@ -12761,6 +12777,14 @@
       "onboard_time": 1757414122,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189372,
+      "num": 189372,
+      "word": "00后男子怀疑女友出轨拔掉她8颗牙",
+      "onboard_time": 1757570503,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189371,
@@ -13417,6 +13441,14 @@
       "onboard_time": 1757428227,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182731,
+      "num": 182731,
+      "word": "18岁内地女子在香港坠楼身亡",
+      "onboard_time": 1757571043,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182701,
@@ -14371,6 +14403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171204,
+      "num": 171204,
+      "word": "钱塘江奇观神龙摆尾",
+      "onboard_time": 1757570322,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171103,
       "num": 171103,
       "word": "美政客担心中国登月会拔掉美国国旗",
@@ -14963,6 +15003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165885,
+      "num": 165885,
+      "word": "野狗骨头导演 战绩可查",
+      "onboard_time": 1757572844,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165776,
       "num": 165776,
       "word": "分手后被前女友告强奸男方家属发声",
@@ -15017,14 +15065,6 @@
       "onboard_time": 1757326462,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164983,
-      "num": 164983,
-      "word": "00后男子怀疑女友出轨拔掉她8颗牙",
-      "onboard_time": 1757570503,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164924,
@@ -15619,14 +15659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 160476,
-      "num": 160476,
-      "word": "钱塘江奇观神龙摆尾",
-      "onboard_time": 1757570322,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160409,
       "num": 160409,
       "word": "嘉贵妃封后",
@@ -15785,14 +15817,6 @@
       "onboard_time": 1756958481,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 159222,
-      "num": 159222,
-      "word": "18岁内地女子在香港坠楼身亡",
-      "onboard_time": 1757571043,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159170,
@@ -17267,14 +17291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147622,
-      "num": 147622,
-      "word": "三宝承认对千惠妈妈态度不好",
-      "onboard_time": 1757572422,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147511,
       "num": 147511,
       "word": "丁程鑫刺杀小说家2水墨海报",
@@ -17457,6 +17473,14 @@
       "onboard_time": 1757052982,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146460,
+      "num": 146460,
+      "word": "成毅会去看大家的赴山海二创",
+      "onboard_time": 1757572922,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 146418,
@@ -17835,6 +17859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143951,
+      "num": 696615,
+      "word": "大起胆子弄这是救人",
+      "onboard_time": 1757571579,
+      "rank": 10,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 143919,
       "num": 143919,
       "word": "不二之臣官宣预热",
@@ -17945,6 +17977,14 @@
       "onboard_time": 1757480605,
       "rank": 49,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 143259,
+      "num": 166126,
+      "word": "全世界都从龚俊的亲吻鲨鱼路过",
+      "onboard_time": 1757572363,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 143170,
@@ -18097,6 +18137,14 @@
       "onboard_time": 1756955001,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142143,
+      "num": 404658,
+      "word": "退伍女兵这一抱戳中泪点",
+      "onboard_time": 1757572724,
+      "rank": 17,
+      "category": "正能量"
     },
     {
       "raw_hot": 142076,
@@ -18971,6 +19019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136806,
+      "num": 136806,
+      "word": "宋佳每年都要把自己的系统刷到最新",
+      "onboard_time": 1757572662,
+      "rank": 46,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 136764,
       "num": 136764,
       "word": "请同事喝个奶茶都有SOP了",
@@ -19065,6 +19121,14 @@
       "onboard_time": 1757468422,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136073,
+      "num": 136073,
+      "word": "天津一小区毛毛虫成灾居民直呼恶心",
+      "onboard_time": 1757572785,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136020,
@@ -19409,6 +19473,14 @@
       "onboard_time": 1757566905,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133963,
+      "num": 133963,
+      "word": "娜扎礼服配帆布鞋",
+      "onboard_time": 1757570084,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 133855,
@@ -20425,14 +20497,6 @@
       "onboard_time": 1757387363,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127901,
-      "num": 146357,
-      "word": "全世界都从龚俊的亲吻鲨鱼路过",
-      "onboard_time": 1757572363,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 127900,
@@ -22195,14 +22259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118139,
-      "num": 696615,
-      "word": "大起胆子弄这是救人",
-      "onboard_time": 1757571579,
-      "rank": 10,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 118100,
       "num": 118100,
       "word": "我们可以自豪地告慰先烈",
@@ -22617,6 +22673,14 @@
       "onboard_time": 1757316864,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115700,
+      "num": 131119,
+      "word": "重返未来1999衣着PV",
+      "onboard_time": 1757573085,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 115689,
@@ -24561,6 +24625,14 @@
       "onboard_time": 1756733182,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105969,
+      "num": 148219,
+      "word": "一餐厅老鼠在熟食区边觅食",
+      "onboard_time": 1757572061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105957,
@@ -29315,6 +29387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70644,
+      "num": 381309,
+      "word": "丝瓜汤文学为什么火了",
+      "onboard_time": 1757572922,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70604,
       "num": 253743,
       "word": "秋天的第一场秒杀",
@@ -29960,14 +30040,6 @@
       "word": "691分学霸选的专业超冷门",
       "onboard_time": 1756651644,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63279,
-      "num": 146564,
-      "word": "一餐厅老鼠在熟食区边觅食",
-      "onboard_time": 1757572061,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -32809,6 +32881,14 @@
       "onboard_time": 1757060002,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22787,
+      "num": 165958,
+      "word": "一念江南到底换没换",
+      "onboard_time": 1757573322,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 22712,
