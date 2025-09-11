@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757569227413,
+  "endTime": 1757572608753,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -32,6 +32,22 @@
       "word": "于朦胧快出来辟谣",
       "onboard_time": 1757562277,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6102391,
+      "num": 6102391,
+      "word": "物业确认有人坠楼不确定是明星",
+      "onboard_time": 1757571461,
+      "rank": 3,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 3716150,
+      "num": 725544,
+      "word": "邢菲 希望是假的",
+      "onboard_time": 1757571163,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 423209,
-      "num": 423209,
+      "num": 721035,
       "word": "薛飞3比0张本智和",
       "onboard_time": 1757568162,
       "rank": 44,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365971,
+      "num": 742275,
+      "word": "短剧招聘日薪5千 花4万培训",
+      "onboard_time": 1757569844,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345671,
       "num": 345671,
       "word": "拉里埃里森成全球首富",
@@ -407,6 +431,14 @@
       "num": 146220,
       "word": "关晓彤日更",
       "onboard_time": 1757520622,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336692,
+      "num": 336692,
+      "word": "小S回应陈汉典lulu结婚",
+      "onboard_time": 1757570802,
       "rank": 18,
       "category": "艺人"
     },
@@ -456,6 +488,14 @@
       "word": "万能插线板 早已被禁用",
       "onboard_time": 1757567922,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302537,
+      "num": 422560,
+      "word": "物业回应小区毛毛虫成灾满地都是",
+      "onboard_time": 1757568582,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -603,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222389,
+      "num": 222389,
+      "word": "猫咪被狗脚臭到赶紧清理自己的脚",
+      "onboard_time": 1757570024,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220479,
       "num": 204078,
       "word": "上海全款150万9平米的独栋",
@@ -617,6 +665,14 @@
       "onboard_time": 1757566725,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216815,
+      "num": 216815,
+      "word": "被热巴配林黛玉这段惊艳到了",
+      "onboard_time": 1757569726,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 216224,
@@ -827,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164983,
+      "num": 164983,
+      "word": "00后男子怀疑女友出轨拔掉她8颗牙",
+      "onboard_time": 1757570503,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163826,
       "num": 163826,
       "word": "77年前的VOGUE群封",
@@ -859,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160476,
+      "num": 160476,
+      "word": "钱塘江奇观神龙摆尾",
+      "onboard_time": 1757570322,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159414,
       "num": 159414,
       "word": "东北地名能有多任性",
@@ -867,20 +939,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159222,
+      "num": 159222,
+      "word": "18岁内地女子在香港坠楼身亡",
+      "onboard_time": 1757571043,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156664,
       "num": 156664,
       "word": "薛飞亮相澳门冠军赛",
       "onboard_time": 1757568826,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154345,
-      "num": 422560,
-      "word": "物业回应小区毛毛虫成灾满地都是",
-      "onboard_time": 1757568582,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153650,
@@ -905,6 +977,14 @@
       "onboard_time": 1757553682,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 151576,
+      "num": 151576,
+      "word": "薛飞回应3比0张本智和",
+      "onboard_time": 1757572061,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 150827,
@@ -939,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148187,
+      "num": 231477,
+      "word": "特朗普称美国遭遇黑暗时刻",
+      "onboard_time": 1757567085,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147921,
       "num": 147921,
       "word": "陈垣宇3比2阿萨尔",
@@ -947,20 +1035,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147622,
+      "num": 147622,
+      "word": "三宝承认对千惠妈妈态度不好",
+      "onboard_time": 1757572422,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147488,
       "num": 147488,
       "word": "孙杨慢游记3官宣",
       "onboard_time": 1757568283,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146838,
-      "num": 231477,
-      "word": "特朗普称美国遭遇黑暗时刻",
-      "onboard_time": 1757567085,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 146359,
@@ -1003,12 +1091,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141453,
+      "num": 141453,
+      "word": "我找工作面试就乐华男团这样",
+      "onboard_time": 1757571461,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139362,
       "num": 139362,
       "word": "苹果客服回应AirpodsPro3没充电线",
       "onboard_time": 1757564744,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139125,
+      "num": 139125,
+      "word": "高德扫街榜上线首日成最大美食榜",
+      "onboard_time": 1757571642,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 139081,
@@ -1067,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132253,
+      "num": 132253,
+      "word": "长夜行",
+      "onboard_time": 1757571283,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131214,
       "num": 131214,
       "word": "中方表态尼泊尔政局发生变化",
@@ -1083,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129844,
+      "num": 129844,
+      "word": "连续久坐千万别超过8小时",
+      "onboard_time": 1757572483,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128448,
       "num": 128448,
       "word": "张维伊连标志性的甩头动作都戒了",
@@ -1097,6 +1217,14 @@
       "onboard_time": 1757553922,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127901,
+      "num": 146357,
+      "word": "全世界都从龚俊的亲吻鲨鱼路过",
+      "onboard_time": 1757572363,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 127682,
@@ -1153,6 +1281,14 @@
       "onboard_time": 1757548762,
       "rank": 41,
       "category": "动漫,互联网"
+    },
+    {
+      "raw_hot": 118139,
+      "num": 696615,
+      "word": "大起胆子弄这是救人",
+      "onboard_time": 1757571579,
+      "rank": 10,
+      "category": "正能量"
     },
     {
       "raw_hot": 115832,
@@ -1331,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96983,
+      "num": 138543,
+      "word": "第12批在韩志愿军烈士遗骸明天回国",
+      "onboard_time": 1757572302,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96055,
       "num": 96055,
       "word": "胖东来错打价签火速退款又补偿200",
@@ -1489,6 +1633,14 @@
       "onboard_time": 1757510543,
       "rank": 27,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 63279,
+      "num": 146564,
+      "word": "一餐厅老鼠在熟食区边觅食",
+      "onboard_time": 1757572061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61954,
