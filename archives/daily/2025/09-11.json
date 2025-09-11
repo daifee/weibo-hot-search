@@ -1,6 +1,6 @@
 {
   "startTime": 1757521889165,
-  "endTime": 1757601692513,
+  "endTime": 1757604244800,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 848735,
+      "num": 1135797,
+      "word": "西贝晒出罗永浩消费账单",
+      "onboard_time": 1757601696,
+      "rank": 0,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 845744,
       "num": 206815,
       "word": "少女遭体罚死前求助信被老师拦截",
@@ -291,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 835144,
+      "num": 386293,
+      "word": "车澈曾当李嘉格面抱乃万",
+      "onboard_time": 1757601574,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778924,
       "num": 584138,
       "word": "黄一鸣直播说女儿被抢走",
       "onboard_time": 1757549962,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 758236,
+      "num": 758236,
+      "word": "一名网红被杀美国为何会降半旗",
+      "onboard_time": 1757598934,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 755773,
@@ -345,14 +369,6 @@
       "onboard_time": 1757517503,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 673728,
-      "num": 386293,
-      "word": "车澈曾当李嘉格面抱乃万",
-      "onboard_time": 1757601574,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 655861,
@@ -507,12 +523,12 @@
       "category": "数码,剧集"
     },
     {
-      "raw_hot": 468635,
-      "num": 468635,
-      "word": "一名网红被杀美国为何会降半旗",
-      "onboard_time": 1757598934,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 465360,
+      "num": 379995,
+      "word": "女孩遭体罚身亡老师聊天记录公布",
+      "onboard_time": 1757600372,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 462988,
@@ -867,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295737,
-      "num": 379995,
-      "word": "女孩遭体罚身亡老师聊天记录公布",
-      "onboard_time": 1757600372,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290827,
       "num": 290827,
       "word": "网信部门查处小红书平台破坏网络生态案",
@@ -971,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267587,
+      "num": 288437,
+      "word": "西贝将上线罗永浩菜单",
+      "onboard_time": 1757598394,
+      "rank": 35,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 264804,
       "num": 264804,
       "word": "李晟我就是命好的含金量还在上升",
@@ -1043,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239829,
+      "num": 239829,
+      "word": "研究生多到宿舍不够住",
+      "onboard_time": 1757602053,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237550,
       "num": 461236,
       "word": "惠英红杨幂热巴 敬鱼死网破的胜利",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1757559142,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230141,
+      "num": 230141,
+      "word": "局座白发",
+      "onboard_time": 1757601337,
+      "rank": 14,
+      "category": "军事"
     },
     {
       "raw_hot": 227780,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1757597135,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197146,
+      "num": 226723,
+      "word": "汪浚熙直播",
+      "onboard_time": 1757603732,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196973,
@@ -1563,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165725,
-      "num": 288437,
-      "word": "西贝将上线罗永浩菜单",
-      "onboard_time": 1757598394,
-      "rank": 35,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 165449,
       "num": 455251,
       "word": "iPhone17ProMax长焦是什么水平",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1757590309,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159827,
+      "num": 388509,
+      "word": "西贝将向消费者开放后厨",
+      "onboard_time": 1757598394,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159414,
@@ -1939,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140243,
+      "num": 226555,
+      "word": "哪吒所有涉欠费车辆将触发系统停机",
+      "onboard_time": 1757603372,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 140031,
       "num": 140031,
       "word": "丝瓜汤汉堡",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1757555901,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138329,
+      "num": 770828,
+      "word": "英雄回家",
+      "onboard_time": 1757603433,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138069,
@@ -2123,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133072,
+      "num": 226508,
+      "word": "不胖和好瘦的区别",
+      "onboard_time": 1757601696,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 132651,
       "num": 457333,
       "word": "王艺迪2比3迪亚兹",
@@ -2248,14 +2312,6 @@
       "word": "西贝称目前不用预制菜",
       "onboard_time": 1757601337,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126389,
-      "num": 388509,
-      "word": "西贝将向消费者开放后厨",
-      "onboard_time": 1757598394,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2483,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107738,
+      "num": 226461,
+      "word": "白裙子被黑裤子染成黄色",
+      "onboard_time": 1757603312,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107164,
       "num": 107164,
       "word": "十大抗衰老运动",
@@ -2643,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100020,
+      "num": 226425,
+      "word": "当地回应虎跳峡出现不明生物",
+      "onboard_time": 1757604210,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99910,
       "num": 99910,
       "word": "偶遇杨洋在夏威夷吃川菜",
@@ -2683,12 +2755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97540,
+      "num": 226361,
+      "word": "美国8月CPI出炉",
+      "onboard_time": 1757602533,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97197,
       "num": 97197,
       "word": "刘宇宁巡演上海站明日开票",
       "onboard_time": 1757561485,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96997,
+      "num": 226716,
+      "word": "李佳琦的P是plan的P",
+      "onboard_time": 1757602954,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 96983,
@@ -2745,6 +2833,14 @@
       "onboard_time": 1757560402,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92839,
+      "num": 226303,
+      "word": "沈阳悬挂3000多面五星红旗",
+      "onboard_time": 1757603252,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91905,
@@ -2833,6 +2929,14 @@
       "onboard_time": 1757515765,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81402,
+      "num": 226280,
+      "word": "50元一斤的实验室蔬菜卖给中产了",
+      "onboard_time": 1757602593,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81047,
@@ -2937,6 +3041,14 @@
       "onboard_time": 1757533633,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69038,
+      "num": 226670,
+      "word": "假肥牛卷竟是鸭肉做的",
+      "onboard_time": 1757603073,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 67077,
@@ -3289,6 +3401,14 @@
       "onboard_time": 1757522778,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40716,
+      "num": 226334,
+      "word": "中泰柬马就柬泰边境冲突交换意见",
+      "onboard_time": 1757604091,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40602,
