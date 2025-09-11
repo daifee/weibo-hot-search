@@ -1,0 +1,410 @@
+{
+  "runTime": 1757582763960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3579339,
+        "num": 3579339,
+        "word": "疑似于朦胧助理发文",
+        "onboard_time": 1757578356,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741079,
+        "num": 741079,
+        "word": "王辰被免去中国工程院副院长职务",
+        "onboard_time": 1757579254,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6955,
+        "num": 735649,
+        "word": "冠军制造的山东扛把子",
+        "onboard_time": 1757582735,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2081634,
+        "num": 726600,
+        "word": "邢菲 希望是假的",
+        "onboard_time": 1757571163,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264085,
+        "num": 710587,
+        "word": "NASA明确发现火星生命迹象",
+        "onboard_time": 1757562820,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252844,
+        "num": 700202,
+        "word": "57岁大叔从年入千万到负债4600万",
+        "onboard_time": 1757580272,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1444266,
+        "num": 687793,
+        "word": "高泰宇 你的笑容永远定格在记忆中",
+        "onboard_time": 1757575119,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8496,
+        "num": 675266,
+        "word": "赛里木湖有这些浪漫数字",
+        "onboard_time": 1757582613,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 904808,
+        "num": 653830,
+        "word": "许荔莎已报警",
+        "onboard_time": 1757576497,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218513,
+        "num": 641089,
+        "word": "万能插线板 早已被禁用",
+        "onboard_time": 1757567922,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3531983,
+        "num": 632328,
+        "word": "物业确认有人坠楼不确定是明星",
+        "onboard_time": 1757571461,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 625430,
+        "num": 625430,
+        "word": "童锦程官宣新恋情",
+        "onboard_time": 1757575958,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 479032,
+        "num": 479032,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 189723,
+        "num": 443703,
+        "word": "你们的名字在我们心里",
+        "onboard_time": 1757582372,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190740,
+        "num": 432296,
+        "word": "中方不接受菲方无理指责",
+        "onboard_time": 1757580333,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422987,
+        "num": 422987,
+        "word": "赵昭仪 姐夫今天轮到我跟姐说话了吗",
+        "onboard_time": 1757574879,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395486,
+        "num": 395486,
+        "word": "瘦多囊vs胖多囊",
+        "onboard_time": 1757579074,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298272,
+        "num": 393294,
+        "word": "陈汉典lulu宣布结婚",
+        "onboard_time": 1757566487,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53456,
+        "num": 388406,
+        "word": "90后挑起了AI大梁",
+        "onboard_time": 1757581892,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193997,
+        "num": 383058,
+        "word": "成都地铁偷拍案二审维持原判",
+        "onboard_time": 1757581892,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1652,
+        "num": 379964,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757492962,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12129525,
+        "num": 12129525,
+        "word": "于朦胧",
+        "onboard_time": 1757561184,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517571,
+        "num": 370771,
+        "word": "公交车大幅避孕套广告被指引人不适",
+        "onboard_time": 1757581711,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369531,
+        "num": 369531,
+        "word": "首尔病是什么梗",
+        "onboard_time": 1757578835,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353743,
+        "num": 353743,
+        "word": "妈我已经过了需要你的年龄了",
+        "onboard_time": 1757579194,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 6646,
+        "num": 310086,
+        "word": "石榴红了满天山",
+        "onboard_time": 1757509644,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293125,
+        "num": 293125,
+        "word": "建议把内裤袜子丢进洗衣机洗",
+        "onboard_time": 1757560160,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64901,
+        "num": 284066,
+        "word": "鲁豫深挖叶童超绝生命力",
+        "onboard_time": 1757578236,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278927,
+        "num": 278927,
+        "word": "太子妃升职记",
+        "onboard_time": 1757566607,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27025,
+        "num": 264913,
+        "word": "茶叶霉斑被主播吹成老茶起白霜",
+        "onboard_time": 1757581292,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 254544,
+        "num": 254544,
+        "word": "永夜星河",
+        "onboard_time": 1757565705,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231344,
+        "num": 231344,
+        "word": "惠英红杨幂热巴 敬鱼死网破的胜利",
+        "onboard_time": 1757580692,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229371,
+        "num": 229371,
+        "word": "老外别震惊老内先震惊一下",
+        "onboard_time": 1757578302,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222900,
+        "num": 222900,
+        "word": "成毅直播",
+        "onboard_time": 1757579314,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218057,
+        "num": 218057,
+        "word": "鹿晗忍痛的表情",
+        "onboard_time": 1757578835,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213536,
+        "num": 213536,
+        "word": "00后男子怀疑女友出轨拔掉她8颗牙",
+        "onboard_time": 1757570503,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201016,
+        "num": 201016,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 36,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 185302,
+        "num": 185302,
+        "word": "刚嫁人战死的白月光就回来了",
+        "onboard_time": 1757579014,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29280,
+        "num": 180688,
+        "word": "87年的洗衣机还在正常使用",
+        "onboard_time": 1757582011,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64733,
+        "num": 178441,
+        "word": "全网的风扇怎么都坏了",
+        "onboard_time": 1757582191,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177338,
+        "num": 177338,
+        "word": "男子更衣室穿内裤被误入女子撞见",
+        "onboard_time": 1757577396,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86544,
+        "num": 158521,
+        "word": "阿里发布高德扫街榜",
+        "onboard_time": 1757582491,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156666,
+        "num": 156666,
+        "word": "李晟我就是命好的含金量还在上升",
+        "onboard_time": 1757574341,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152328,
+        "num": 152328,
+        "word": "数百位老人早高峰抢公交致学生迟到",
+        "onboard_time": 1757580753,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143761,
+        "num": 143761,
+        "word": "英语是很适合变现的能力",
+        "onboard_time": 1757581352,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137036,
+        "num": 137036,
+        "word": "网信部门查处小红书平台破坏网络生态案",
+        "onboard_time": 1757578116,
+        "rank": 45,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 135906,
+        "num": 135906,
+        "word": "这盛世如您所愿",
+        "onboard_time": 1757582253,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131488,
+        "num": 131488,
+        "word": "冯绍峰 从所有85花的世界路过",
+        "onboard_time": 1757565225,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129696,
+        "num": 129696,
+        "word": "赴山海",
+        "onboard_time": 1757580812,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128826,
+        "num": 128826,
+        "word": "抗美援朝精神早就种进一代代中国人心里",
+        "onboard_time": 1757582491,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对广大教师的关怀激励#"
+    }
+  }
+}
