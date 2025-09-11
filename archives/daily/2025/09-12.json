@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757616260674,
+  "endTime": 1757618394652,
   "band_list": [
     {
       "raw_hot": 956926,
@@ -483,6 +483,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 17546,
+      "num": 158929,
+      "word": "柯克是特朗普长子的密友",
+      "onboard_time": 1757615057,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16618,
       "num": 70221,
       "word": "穆祉丞自由演唱会",
@@ -491,12 +499,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16056,
-      "num": 158929,
-      "word": "柯克是特朗普长子的密友",
-      "onboard_time": 1757615057,
-      "rank": 21,
-      "category": "国际时政"
+      "raw_hot": 14665,
+      "num": 61151,
+      "word": "老战士说替牺牲战友看到了",
+      "onboard_time": 1757609302,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12799,
+      "num": 60923,
+      "word": "抗美援朝战士的家书看得泪目",
+      "onboard_time": 1757601395,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12699,
+      "num": 60907,
+      "word": "想老得慢远离这些坏习惯",
+      "onboard_time": 1757616376,
+      "rank": 47,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
