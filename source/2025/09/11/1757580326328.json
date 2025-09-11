@@ -1,0 +1,410 @@
+{
+  "runTime": 1757580326328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3304377,
+        "num": 3304377,
+        "word": "疑似于朦胧助理发文",
+        "onboard_time": 1757578356,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440629,
+        "num": 440629,
+        "word": "NASA明确发现火星生命迹象",
+        "onboard_time": 1757562820,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 5867,
+        "num": 440295,
+        "word": "石榴红了满天山",
+        "onboard_time": 1757509644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5453959,
+        "num": 5453959,
+        "word": "邢菲 希望是假的",
+        "onboard_time": 1757571163,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338551,
+        "num": 436376,
+        "word": "万能插线板 早已被禁用",
+        "onboard_time": 1757567922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304615,
+        "num": 434195,
+        "word": "王辰被免去中国工程院副院长职务",
+        "onboard_time": 1757579254,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2441007,
+        "num": 432343,
+        "word": "高泰宇 你的笑容永远定格在记忆中",
+        "onboard_time": 1757575119,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1166755,
+        "num": 430241,
+        "word": "许荔莎已报警",
+        "onboard_time": 1757576497,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276261,
+        "num": 428402,
+        "word": "00后男子怀疑女友出轨拔掉她8颗牙",
+        "onboard_time": 1757570503,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217201,
+        "num": 427622,
+        "word": "特朗普下令全国降半旗",
+        "onboard_time": 1757547981,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5190819,
+        "num": 5190819,
+        "word": "物业确认有人坠楼不确定是明星",
+        "onboard_time": 1757571461,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1731143,
+        "num": 422504,
+        "word": "车澈李嘉格离婚",
+        "onboard_time": 1757568162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626128,
+        "num": 420324,
+        "word": "童锦程官宣新恋情",
+        "onboard_time": 1757575958,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541720,
+        "num": 419692,
+        "word": "赵昭仪 姐夫今天轮到我跟姐说话了吗",
+        "onboard_time": 1757574879,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508243,
+        "num": 417541,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 14,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 416533,
+        "num": 416533,
+        "word": "太子妃升职记",
+        "onboard_time": 1757566607,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367775,
+        "num": 367775,
+        "word": "瘦多囊vs胖多囊",
+        "onboard_time": 1757579074,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 363940,
+        "num": 363940,
+        "word": "永夜星河",
+        "onboard_time": 1757565705,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300264,
+        "num": 300264,
+        "word": "成毅直播",
+        "onboard_time": 1757579314,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58717,
+        "num": 297409,
+        "word": "香港警方回应港大女生坠楼身亡",
+        "onboard_time": 1757579493,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11139535,
+        "num": 11139535,
+        "word": "于朦胧",
+        "onboard_time": 1757561184,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401006,
+        "num": 296984,
+        "word": "建议把内裤袜子丢进洗衣机洗",
+        "onboard_time": 1757560160,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296430,
+        "num": 296430,
+        "word": "陈汉典lulu宣布结婚",
+        "onboard_time": 1757566487,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137045,
+        "num": 282623,
+        "word": "鲁豫深挖叶童超绝生命力",
+        "onboard_time": 1757578236,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277478,
+        "num": 277478,
+        "word": "鹿晗忍痛的表情",
+        "onboard_time": 1757578835,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271154,
+        "num": 271154,
+        "word": "老外别震惊老内先震惊一下",
+        "onboard_time": 1757578302,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237683,
+        "num": 237683,
+        "word": "网信部门查处小红书平台破坏网络生态案",
+        "onboard_time": 1757578116,
+        "rank": 26,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 227828,
+        "num": 227828,
+        "word": "妈我已经过了需要你的年龄了",
+        "onboard_time": 1757579194,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227780,
+        "num": 227780,
+        "word": "李晟我就是命好的含金量还在上升",
+        "onboard_time": 1757574341,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34597,
+        "num": 223600,
+        "word": "18岁港大学生疑遭电诈后留遗书轻生",
+        "onboard_time": 1757579493,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14903,
+        "num": 222439,
+        "word": "上汽董事长被围堵狂赞",
+        "onboard_time": 1757575958,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 221308,
+        "num": 221308,
+        "word": "刚嫁人战死的白月光就回来了",
+        "onboard_time": 1757579014,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218350,
+        "num": 218350,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 32,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 209882,
+        "num": 209882,
+        "word": "首尔病是什么梗",
+        "onboard_time": 1757578835,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206807,
+        "num": 206807,
+        "word": "男子称非亲生儿子不打人也会给房产",
+        "onboard_time": 1757577694,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192936,
+        "num": 192936,
+        "word": "王坚科普三体概念最早由牛顿提出",
+        "onboard_time": 1757579194,
+        "rank": 35,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 185480,
+        "num": 185480,
+        "word": "男子更衣室穿内裤被误入女子撞见",
+        "onboard_time": 1757577396,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183553,
+        "num": 183553,
+        "word": "外交部回应建立黄岩岛自然保护区",
+        "onboard_time": 1757580213,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54664,
+        "num": 183414,
+        "word": "星巴克月饼 强制销售",
+        "onboard_time": 1757579795,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47024,
+        "num": 183400,
+        "word": "柯克疑被数百米外狙击手射杀",
+        "onboard_time": 1757579493,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183394,
+        "num": 183394,
+        "word": "吃完木薯糖水睡了14小时",
+        "onboard_time": 1757565585,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171721,
+        "num": 171721,
+        "word": "57岁大叔从年入千万到负债4600万",
+        "onboard_time": 1757580272,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164683,
+        "num": 164683,
+        "word": "A股芯片股大爆发",
+        "onboard_time": 1757579493,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144698,
+        "num": 144698,
+        "word": "上一次说这话的还是鞠婧祎",
+        "onboard_time": 1757579553,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142349,
+        "num": 142349,
+        "word": "开展10个要素市场化配置综合改革试点",
+        "onboard_time": 1757580272,
+        "rank": 44,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 133170,
+        "num": 133170,
+        "word": "女子持刀等外卖",
+        "onboard_time": 1757563122,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132385,
+        "num": 132385,
+        "word": "万能插线板藏安全隐患早已被禁用",
+        "onboard_time": 1757575060,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132228,
+        "num": 132228,
+        "word": "冯绍峰 从所有85花的世界路过",
+        "onboard_time": 1757565225,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131390,
+        "num": 131390,
+        "word": "成毅会去看大家的赴山海二创",
+        "onboard_time": 1757572922,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129263,
+        "num": 129263,
+        "word": "小S回应陈汉典lulu结婚",
+        "onboard_time": 1757570802,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对广大教师的关怀激励#"
+    }
+  }
+}
