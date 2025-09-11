@@ -1,0 +1,410 @@
+{
+  "runTime": 1757586317241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2648197,
+        "num": 2648197,
+        "word": "文苡帆秒删悼念于朦胧文章",
+        "onboard_time": 1757583695,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639361,
+        "num": 639361,
+        "word": "王辰被免去中国工程院副院长职务",
+        "onboard_time": 1757579254,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38878,
+        "num": 630004,
+        "word": "高质量完成十四五规划",
+        "onboard_time": 1757584232,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 985773,
+        "num": 629821,
+        "word": "邢菲 希望是假的",
+        "onboard_time": 1757571163,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629579,
+        "num": 629579,
+        "word": "成都地铁偷拍案二审维持原判",
+        "onboard_time": 1757581892,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317612,
+        "num": 611870,
+        "word": "中国情侣泰国芭提雅出海1人身亡",
+        "onboard_time": 1757583752,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 951845,
+        "num": 588728,
+        "word": "赴山海开播",
+        "onboard_time": 1757584771,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 787377,
+        "num": 571126,
+        "word": "高泰宇 你的笑容永远定格在记忆中",
+        "onboard_time": 1757575119,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228569,
+        "num": 550621,
+        "word": "57岁大叔从年入千万到负债4600万",
+        "onboard_time": 1757580272,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91913,
+        "num": 542375,
+        "word": "情侣租摩托艇出海男方获救女方遇难",
+        "onboard_time": 1757585972,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1319950,
+        "num": 509578,
+        "word": "物业确认有人坠楼不确定是明星",
+        "onboard_time": 1757571461,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 500439,
+        "num": 500439,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 11,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 341282,
+        "num": 341282,
+        "word": "14岁儿子被教官猥亵父亲发声",
+        "onboard_time": 1757584111,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334362,
+        "num": 334362,
+        "word": "iPhone18离我们越来越近了",
+        "onboard_time": 1757585010,
+        "rank": 13,
+        "category": "数码,剧集"
+      },
+      {
+        "raw_hot": 139383,
+        "num": 325262,
+        "word": "NASA明确发现火星生命迹象",
+        "onboard_time": 1757562820,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 320364,
+        "num": 320364,
+        "word": "童锦程官宣新恋情",
+        "onboard_time": 1757575958,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 315248,
+        "num": 315248,
+        "word": "地铁被疑偷拍案被告先后3次道歉",
+        "onboard_time": 1757583811,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292409,
+        "num": 292409,
+        "word": "赵昭仪 姐夫今天轮到我跟姐说话了吗",
+        "onboard_time": 1757574879,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251599,
+        "num": 251599,
+        "word": "赴山海云包场",
+        "onboard_time": 1757584771,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242863,
+        "num": 250969,
+        "word": "妈我已经过了需要你的年龄了",
+        "onboard_time": 1757579194,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11224647,
+        "num": 11224647,
+        "word": "于朦胧",
+        "onboard_time": 1757561184,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046685,
+        "num": 250964,
+        "word": "公交车大幅避孕套广告被指引人不适",
+        "onboard_time": 1757581711,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250959,
+        "num": 250959,
+        "word": "建议把内裤袜子丢进洗衣机洗",
+        "onboard_time": 1757560160,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249449,
+        "num": 249449,
+        "word": "赴山海",
+        "onboard_time": 1757580812,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82279,
+        "num": 230064,
+        "word": "高德扫街榜上线1天用户超4000万",
+        "onboard_time": 1757585972,
+        "rank": 24,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 40602,
+        "num": 222947,
+        "word": "行业协会称高德扫街榜促同行反思",
+        "onboard_time": 1757585191,
+        "rank": 25,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 219509,
+        "num": 219509,
+        "word": "陈汉典lulu宣布结婚",
+        "onboard_time": 1757566487,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198575,
+        "num": 198575,
+        "word": "惠英红杨幂热巴 敬鱼死网破的胜利",
+        "onboard_time": 1757580692,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195674,
+        "num": 195674,
+        "word": "瘦多囊vs胖多囊",
+        "onboard_time": 1757579074,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57958,
+        "num": 193041,
+        "word": "李昀锐法拉利年轻的时候",
+        "onboard_time": 1757585491,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190477,
+        "num": 190477,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 30,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 61315,
+        "num": 177234,
+        "word": "90后挑起了AI大梁",
+        "onboard_time": 1757581892,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173147,
+        "num": 173147,
+        "word": "首尔病是什么梗",
+        "onboard_time": 1757578835,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166307,
+        "num": 166307,
+        "word": "数百位老人早高峰抢公交致学生迟到",
+        "onboard_time": 1757580753,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147096,
+        "num": 147096,
+        "word": "永夜星河",
+        "onboard_time": 1757565705,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145212,
+        "num": 145212,
+        "word": "鹿晗忍痛的表情",
+        "onboard_time": 1757578835,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139162,
+        "num": 139162,
+        "word": "太子妃升职记",
+        "onboard_time": 1757566607,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135688,
+        "num": 135688,
+        "word": "钱学森之子说刷题抹杀孩子求知欲",
+        "onboard_time": 1757583096,
+        "rank": 37,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 83415,
+        "num": 135093,
+        "word": "施华蔻道歉",
+        "onboard_time": 1757586092,
+        "rank": 38,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 71833,
+        "num": 134801,
+        "word": "李宇春这首歌从2g火到5g",
+        "onboard_time": 1757585792,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134778,
+        "num": 134778,
+        "word": "老外别震惊老内先震惊一下",
+        "onboard_time": 1757578302,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134165,
+        "num": 134165,
+        "word": "泡泡 QQ音乐",
+        "onboard_time": 1757583270,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124523,
+        "num": 124523,
+        "word": "讨厌一个人最好的办法是降熵",
+        "onboard_time": 1757582912,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120808,
+        "num": 120808,
+        "word": "丝瓜汤汉堡",
+        "onboard_time": 1757585972,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117653,
+        "num": 117653,
+        "word": "游客称虎跳峡出现头上有角不明生物",
+        "onboard_time": 1757585851,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114421,
+        "num": 114421,
+        "word": "杨采钰与老公相识于慈善拍卖会",
+        "onboard_time": 1757584592,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112657,
+        "num": 112657,
+        "word": "大部分焦虑症是从小吓出来的",
+        "onboard_time": 1757585129,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107961,
+        "num": 107961,
+        "word": "冯绍峰 从所有85花的世界路过",
+        "onboard_time": 1757565225,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106417,
+        "num": 106417,
+        "word": "椅子 我给过你机会了",
+        "onboard_time": 1757586092,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103547,
+        "num": 103547,
+        "word": "顶级狙击手称柯克刺杀案枪手技术一般",
+        "onboard_time": 1757584771,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#让和平的薪火代代相传#"
+    }
+  }
+}
