@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757565772206,
+  "endTime": 1757568267268,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -8,6 +8,14 @@
       "word": "于朦胧",
       "onboard_time": 1757561184,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13365171,
+      "num": 13365171,
+      "word": "于朦胧昨晚9点半还在线",
+      "onboard_time": 1757567085,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -51,6 +59,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3660261,
+      "num": 1029082,
+      "word": "小红书被查",
+      "onboard_time": 1757564504,
+      "rank": 13,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 3424026,
       "num": 887036,
       "word": "黄景瑜前妻 俩孩子一个被他打没了",
@@ -59,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3412580,
+      "num": 1516451,
+      "word": "小红书炒作明星个人动态",
+      "onboard_time": 1757564623,
+      "rank": 25,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 3389212,
       "num": 328557,
       "word": "祝绪丹手滑",
       "onboard_time": 1757489242,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3129240,
-      "num": 1029082,
-      "word": "小红书被查",
-      "onboard_time": 1757564504,
-      "rank": 13,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 3121097,
@@ -121,6 +137,14 @@
       "onboard_time": 1757345005,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2769326,
+      "num": 1196237,
+      "word": "陈汉典lulu宣布结婚",
+      "onboard_time": 1757566487,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2542164,
@@ -339,14 +363,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1516451,
-      "num": 1516451,
-      "word": "小红书炒作明星个人动态",
-      "onboard_time": 1757564623,
-      "rank": 25,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 1506001,
       "num": 1506001,
       "word": "没人通知金晨这是红毯吗",
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 1323489,
-      "num": 824373,
+      "num": 969079,
       "word": "冯绍峰 从所有85花的世界路过",
       "onboard_time": 1757565225,
       "rank": 6,
@@ -481,6 +497,14 @@
       "onboard_time": 1757203462,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1280374,
+      "num": 1280374,
+      "word": "NASA明确发现火星生命迹象",
+      "onboard_time": 1757562820,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1275516,
@@ -779,14 +803,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 991370,
-      "num": 991370,
-      "word": "NASA明确发现火星生命迹象",
-      "onboard_time": 1757562820,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 983382,
       "num": 204432,
       "word": "辛芷蕾",
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 981662,
-      "num": 371134,
+      "num": 464442,
       "word": "建议把内裤袜子丢进洗衣机洗",
       "onboard_time": 1757560160,
       "rank": 31,
@@ -817,6 +833,14 @@
       "onboard_time": 1757550922,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 968744,
+      "num": 968744,
+      "word": "车澈李嘉格离婚",
+      "onboard_time": 1757568162,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 965473,
@@ -1427,12 +1451,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 655861,
+      "num": 655861,
+      "word": "吃完木薯糖水睡了14小时",
+      "onboard_time": 1757565585,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 655763,
       "num": 655763,
       "word": "俄罗斯发动最大规模无人机空袭",
       "onboard_time": 1757291304,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 652393,
+      "num": 969029,
+      "word": "临江仙",
+      "onboard_time": 1757565045,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 649725,
@@ -1579,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 601318,
+      "num": 601318,
+      "word": "太子妃升职记",
+      "onboard_time": 1757566607,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600885,
       "num": 600885,
       "word": "西贝回应被吐槽是预制菜",
@@ -1620,7 +1668,7 @@
     },
     {
       "raw_hot": 587138,
-      "num": 587138,
+      "num": 969014,
       "word": "河南大雨暴雨大暴雨",
       "onboard_time": 1757561545,
       "rank": 9,
@@ -1633,14 +1681,6 @@
       "onboard_time": 1757286979,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 583448,
-      "num": 583448,
-      "word": "临江仙",
-      "onboard_time": 1757565045,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 583066,
@@ -1715,6 +1755,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 561580,
+      "num": 561580,
+      "word": "永夜星河",
+      "onboard_time": 1757565705,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561269,
       "num": 895483,
       "word": "湖南男子驾车碾死同学被判死缓",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1757167644,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552631,
+      "num": 552631,
+      "word": "三生三世十里桃花",
+      "onboard_time": 1757565827,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 550645,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1757480004,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 505811,
+      "num": 1095491,
+      "word": "小区蛇群泛滥大蛇小蛇到处窜",
+      "onboard_time": 1757566607,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 505423,
@@ -2883,12 +2947,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368072,
+      "num": 368072,
+      "word": "薛小婉自曝不领证的原因",
+      "onboard_time": 1757565104,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 368015,
       "num": 368015,
       "word": "古巴全国电力中断",
       "onboard_time": 1757513184,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 367041,
+      "num": 968964,
+      "word": "湖南师大 18人同住霉菌宿舍",
+      "onboard_time": 1757565225,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366639,
@@ -3499,6 +3579,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 297932,
+      "num": 585077,
+      "word": "湖南师大回应网传18人同住霉菌宿舍",
+      "onboard_time": 1757563183,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297927,
       "num": 297927,
       "word": "大学生呕吐系自备井蓄水池受污染",
@@ -3609,6 +3697,14 @@
       "onboard_time": 1757439796,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 287756,
+      "num": 287756,
+      "word": "2岁男童陪伴妈妈遗体数日父亲发声",
+      "onboard_time": 1757567443,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287225,
@@ -4139,14 +4235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 234335,
-      "num": 585077,
-      "word": "湖南师大回应网传18人同住霉菌宿舍",
-      "onboard_time": 1757563183,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233889,
       "num": 233889,
       "word": "肖战同款焖猪蹄订单量翻番",
@@ -4473,6 +4561,14 @@
       "onboard_time": 1757426304,
       "rank": 25,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 217615,
+      "num": 217615,
+      "word": "儿子痛打父亲曝露非亲生真相",
+      "onboard_time": 1757566725,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217085,
@@ -5043,14 +5139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200063,
-      "num": 200063,
-      "word": "吃完木薯糖水睡了14小时",
-      "onboard_time": 1757565585,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 200048,
       "num": 209827,
       "word": "宋佳佟丽娅演上再见爱人了",
@@ -5081,14 +5169,6 @@
       "onboard_time": 1757218581,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199683,
-      "num": 199683,
-      "word": "湖南师大 18人同住霉菌宿舍",
-      "onboard_time": 1757565225,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199682,
@@ -5427,6 +5507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192021,
+      "num": 192021,
+      "word": "3个小时挣1000的工作",
+      "onboard_time": 1757565827,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191542,
       "num": 191542,
       "word": "胡宾果被偷拍者威胁",
@@ -5643,6 +5731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187433,
+      "num": 235444,
+      "word": "曾黎扛住了贴头皮造型",
+      "onboard_time": 1757567682,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187405,
       "num": 195468,
       "word": "印象最深最有意义的文创是什么",
@@ -5705,6 +5801,14 @@
       "onboard_time": 1757338402,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 185992,
+      "num": 185992,
+      "word": "雷暴后400多人挤爆急诊科",
+      "onboard_time": 1757565648,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185983,
@@ -5793,6 +5897,14 @@
       "onboard_time": 1757561607,
       "rank": 22,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 184622,
+      "num": 184622,
+      "word": "薛飞3比0张本智和",
+      "onboard_time": 1757568162,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 184544,
@@ -6523,14 +6635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168996,
-      "num": 171708,
-      "word": "薛小婉自曝不领证的原因",
-      "onboard_time": 1757565104,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 168904,
       "num": 168904,
       "word": "部分人买iPhone竟然因其保值",
@@ -6585,14 +6689,6 @@
       "onboard_time": 1757229443,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167494,
-      "num": 167494,
-      "word": "雷暴后400多人挤爆急诊科",
-      "onboard_time": 1757565648,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167421,
@@ -6809,6 +6905,14 @@
       "onboard_time": 1757388802,
       "rank": 41,
       "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 163826,
+      "num": 163826,
+      "word": "77年前的VOGUE群封",
+      "onboard_time": 1757565945,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 163810,
@@ -7033,6 +7137,14 @@
       "onboard_time": 1757556860,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 160860,
+      "num": 160860,
+      "word": "羽毛球冠军郑思维在云南花式带娃",
+      "onboard_time": 1757567623,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 160850,
@@ -7811,6 +7923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146838,
+      "num": 231477,
+      "word": "特朗普称美国遭遇黑暗时刻",
+      "onboard_time": 1757567085,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146779,
       "num": 146779,
       "word": "谢霆锋一拳火爆一个餐厅",
@@ -7929,14 +8049,6 @@
       "onboard_time": 1757408003,
       "rank": 29,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 145132,
-      "num": 145132,
-      "word": "永夜星河",
-      "onboard_time": 1757565705,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 144985,
@@ -8923,6 +9035,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 133976,
+      "num": 181149,
+      "word": "多位家长因多动症学生拒孩子上课",
+      "onboard_time": 1757566905,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133855,
       "num": 133855,
       "word": "沈梦辰 我和张颜齐掉水里你先救谁",
@@ -9353,6 +9473,14 @@
       "onboard_time": 1757307625,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129264,
+      "num": 345349,
+      "word": "万能插线板 早已被禁用",
+      "onboard_time": 1757567922,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129220,
@@ -10497,6 +10625,14 @@
       "onboard_time": 1757243001,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 117845,
+      "num": 465398,
+      "word": "幼儿教材 足疗酒吧",
+      "onboard_time": 1757567802,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 117750,
@@ -13947,6 +14083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60823,
+      "num": 205586,
+      "word": "坐顺风车被车主自带狐獴咬伤",
+      "onboard_time": 1757567504,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60767,
       "num": 73323,
       "word": "书卷一梦杀青一周年",
@@ -14083,12 +14227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58037,
+      "num": 231438,
+      "word": "郑州进入暴雨防御状态",
+      "onboard_time": 1757566308,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57683,
       "num": 57683,
       "word": "小咪是一个擅长原谅人类的小猫",
       "onboard_time": 1757287101,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57337,
+      "num": 200669,
+      "word": "老人早高峰抢公交领免费鸡蛋",
+      "onboard_time": 1757568162,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56214,
@@ -14420,7 +14580,7 @@
     },
     {
       "raw_hot": 49140,
-      "num": 1061800,
+      "num": 1219071,
       "word": "石榴红了满天山",
       "onboard_time": 1757509644,
       "rank": 2,

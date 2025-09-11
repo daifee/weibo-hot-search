@@ -1,0 +1,410 @@
+{
+  "runTime": 1757568267268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13365171,
+        "num": 13365171,
+        "word": "于朦胧昨晚9点半还在线",
+        "onboard_time": 1757567085,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1280374,
+        "num": 1280374,
+        "word": "NASA明确发现火星生命迹象",
+        "onboard_time": 1757562820,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42339,
+        "num": 1219071,
+        "word": "石榴红了满天山",
+        "onboard_time": 1757509644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2769326,
+        "num": 1196237,
+        "word": "陈汉典lulu宣布结婚",
+        "onboard_time": 1757566487,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505811,
+        "num": 1095491,
+        "word": "小区蛇群泛滥大蛇小蛇到处窜",
+        "onboard_time": 1757566607,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697426,
+        "num": 1002888,
+        "word": "特朗普下令全国降半旗",
+        "onboard_time": 1757547981,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 969079,
+        "num": 969079,
+        "word": "冯绍峰 从所有85花的世界路过",
+        "onboard_time": 1757565225,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652393,
+        "num": 969029,
+        "word": "临江仙",
+        "onboard_time": 1757565045,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430780,
+        "num": 969014,
+        "word": "河南大雨暴雨大暴雨",
+        "onboard_time": 1757561545,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367041,
+        "num": 968964,
+        "word": "湖南师大 18人同住霉菌宿舍",
+        "onboard_time": 1757565225,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3660261,
+        "num": 968900,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 3412580,
+        "num": 968847,
+        "word": "小红书炒作明星个人动态",
+        "onboard_time": 1757564623,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 21314726,
+        "num": 21314726,
+        "word": "于朦胧",
+        "onboard_time": 1757561184,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 968744,
+        "num": 968744,
+        "word": "车澈李嘉格离婚",
+        "onboard_time": 1757568162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655861,
+        "num": 655861,
+        "word": "吃完木薯糖水睡了14小时",
+        "onboard_time": 1757565585,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 601318,
+        "num": 601318,
+        "word": "太子妃升职记",
+        "onboard_time": 1757566607,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561580,
+        "num": 561580,
+        "word": "永夜星河",
+        "onboard_time": 1757565705,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552631,
+        "num": 552631,
+        "word": "三生三世十里桃花",
+        "onboard_time": 1757565827,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 510046,
+        "num": 510046,
+        "word": "黄一鸣直播说女儿被抢走",
+        "onboard_time": 1757549962,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117845,
+        "num": 465398,
+        "word": "幼儿教材 足疗酒吧",
+        "onboard_time": 1757567802,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 865391,
+        "num": 464442,
+        "word": "建议把内裤袜子丢进洗衣机洗",
+        "onboard_time": 1757560160,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 456262,
+        "num": 456262,
+        "word": "女子持刀等外卖",
+        "onboard_time": 1757563122,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368072,
+        "num": 368072,
+        "word": "薛小婉自曝不领证的原因",
+        "onboard_time": 1757565104,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129264,
+        "num": 345349,
+        "word": "万能插线板 早已被禁用",
+        "onboard_time": 1757567922,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337703,
+        "num": 337703,
+        "word": "女子吐槽蒸蛋外卖疑有侮辱性字样",
+        "onboard_time": 1757555901,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297932,
+        "num": 297932,
+        "word": "湖南师大回应网传18人同住霉菌宿舍",
+        "onboard_time": 1757563183,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287756,
+        "num": 287756,
+        "word": "2岁男童陪伴妈妈遗体数日父亲发声",
+        "onboard_time": 1757567443,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283879,
+        "num": 283879,
+        "word": "良子断层超过蔡徐坤",
+        "onboard_time": 1757554882,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71617,
+        "num": 271323,
+        "word": "2025外滩大会",
+        "onboard_time": 1757563604,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199010,
+        "num": 265987,
+        "word": "曾舜晞为成毅赴山海云包场",
+        "onboard_time": 1757564144,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261873,
+        "num": 261873,
+        "word": "不发朋友圈和不看朋友圈",
+        "onboard_time": 1757552662,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248169,
+        "num": 248169,
+        "word": "安卓猫 苹果猫",
+        "onboard_time": 1757564921,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187433,
+        "num": 235444,
+        "word": "曾黎扛住了贴头皮造型",
+        "onboard_time": 1757567682,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146838,
+        "num": 231477,
+        "word": "特朗普称美国遭遇黑暗时刻",
+        "onboard_time": 1757567085,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58037,
+        "num": 231438,
+        "word": "郑州进入暴雨防御状态",
+        "onboard_time": 1757566308,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231435,
+        "num": 231435,
+        "word": "喝牛奶和从不喝牛奶的身体差距",
+        "onboard_time": 1757561970,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217615,
+        "num": 217615,
+        "word": "儿子痛打父亲曝露非亲生真相",
+        "onboard_time": 1757566725,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60823,
+        "num": 205586,
+        "word": "坐顺风车被车主自带狐獴咬伤",
+        "onboard_time": 1757567504,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57337,
+        "num": 200669,
+        "word": "老人早高峰抢公交领免费鸡蛋",
+        "onboard_time": 1757568162,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197017,
+        "num": 197017,
+        "word": "女子称试图把父亲卖去缅甸",
+        "onboard_time": 1757561303,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192487,
+        "num": 192487,
+        "word": "杨采钰首晒与老公合照",
+        "onboard_time": 1757552243,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192021,
+        "num": 192021,
+        "word": "3个小时挣1000的工作",
+        "onboard_time": 1757565827,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1158713,
+        "num": 190888,
+        "word": "全球首富现任妻子是中国姑娘",
+        "onboard_time": 1757546959,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185992,
+        "num": 185992,
+        "word": "雷暴后400多人挤爆急诊科",
+        "onboard_time": 1757565648,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184622,
+        "num": 184622,
+        "word": "薛飞3比0张本智和",
+        "onboard_time": 1757568162,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181806,
+        "num": 181806,
+        "word": "对不起李莲花我出轨了",
+        "onboard_time": 1757559142,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133976,
+        "num": 181149,
+        "word": "多位家长因多动症学生拒孩子上课",
+        "onboard_time": 1757566905,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181143,
+        "num": 181143,
+        "word": "爱泼斯坦恶魔岛绝密资料曝光",
+        "onboard_time": 1757550922,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163826,
+        "num": 163826,
+        "word": "77年前的VOGUE群封",
+        "onboard_time": 1757565945,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 160860,
+        "num": 160860,
+        "word": "羽毛球冠军郑思维在云南花式带娃",
+        "onboard_time": 1757567623,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对广大教师的关怀激励#"
+    }
+  }
+}
