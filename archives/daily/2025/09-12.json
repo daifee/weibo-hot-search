@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757612175755,
+  "endTime": 1757615483387,
   "band_list": [
     {
       "raw_hot": 956926,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83936,
+      "num": 475062,
+      "word": "Lululemon千元连衣裙刚拆就有污渍",
+      "onboard_time": 1757608524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81912,
       "num": 483897,
       "word": "杨幂陈丽君 合作",
@@ -329,14 +337,6 @@
       "onboard_time": 1757598815,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 54912,
-      "num": 475062,
-      "word": "Lululemon千元连衣裙刚拆就有污渍",
-      "onboard_time": 1757608524,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54826,
@@ -457,6 +457,30 @@
       "onboard_time": 1757611638,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18207,
+      "num": 156103,
+      "word": "纽约时装周",
+      "onboard_time": 1757609182,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 17346,
+      "num": 155795,
+      "word": "蒲熠星我不许你演傻子了",
+      "onboard_time": 1757614996,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16056,
+      "num": 158929,
+      "word": "柯克是特朗普长子的密友",
+      "onboard_time": 1757615057,
+      "rank": 21,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

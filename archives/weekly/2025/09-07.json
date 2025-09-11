@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757612175755,
+  "endTime": 1757615483387,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -14859,6 +14859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83936,
+      "num": 475062,
+      "word": "Lululemon千元连衣裙刚拆就有污渍",
+      "onboard_time": 1757608524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83927,
       "num": 125428,
       "word": "90后中传女教师发明谣言粉碎机",
@@ -16113,14 +16121,6 @@
       "onboard_time": 1757186654,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 54912,
-      "num": 475062,
-      "word": "Lululemon千元连衣裙刚拆就有污渍",
-      "onboard_time": 1757608524,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54664,
@@ -17483,6 +17483,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 18207,
+      "num": 156103,
+      "word": "纽约时装周",
+      "onboard_time": 1757609182,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 17938,
       "num": 34765,
       "word": "张艺兴闹天宫我们鸟巢见",
@@ -17499,12 +17507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17346,
+      "num": 155795,
+      "word": "蒲熠星我不许你演傻子了",
+      "onboard_time": 1757614996,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17169,
       "num": 33260,
       "word": "中方反制石平是正义之举",
       "onboard_time": 1757530817,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16056,
+      "num": 158929,
+      "word": "柯克是特朗普长子的密友",
+      "onboard_time": 1757615057,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15504,
