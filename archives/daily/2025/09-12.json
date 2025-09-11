@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757615483387,
+  "endTime": 1757616260674,
   "band_list": [
     {
       "raw_hot": 956926,
@@ -451,12 +451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26928,
+      "num": 71825,
+      "word": "成毅打戏",
+      "onboard_time": 1757615596,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22977,
       "num": 348923,
       "word": "使命与传承在热泪中具象化了",
       "onboard_time": 1757611638,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18269,
+      "num": 155795,
+      "word": "蒲熠星我不许你演傻子了",
+      "onboard_time": 1757614996,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 18207,
@@ -467,12 +483,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 17346,
-      "num": 155795,
-      "word": "蒲熠星我不许你演傻子了",
-      "onboard_time": 1757614996,
+      "raw_hot": 16618,
+      "num": 70221,
+      "word": "穆祉丞自由演唱会",
+      "onboard_time": 1757615596,
       "rank": 48,
-      "category": "综艺"
+      "category": "演出"
     },
     {
       "raw_hot": 16056,
