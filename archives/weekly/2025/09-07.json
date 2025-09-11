@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757564977505,
+  "endTime": 1757565772206,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -65,6 +65,14 @@
       "onboard_time": 1757489242,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3129240,
+      "num": 1029082,
+      "word": "小红书被查",
+      "onboard_time": 1757564504,
+      "rank": 13,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 3121097,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 2017330,
-      "num": 394478,
+      "num": 584694,
       "word": "全球首富现任妻子是中国姑娘",
       "onboard_time": 1757546959,
       "rank": 10,
@@ -331,6 +339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1516451,
+      "num": 1516451,
+      "word": "小红书炒作明星个人动态",
+      "onboard_time": 1757564623,
+      "rank": 25,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 1506001,
       "num": 1506001,
       "word": "没人通知金晨这是红毯吗",
@@ -433,6 +449,14 @@
       "onboard_time": 1757209042,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1323489,
+      "num": 824373,
+      "word": "冯绍峰 从所有85花的世界路过",
+      "onboard_time": 1757565225,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1322947,
@@ -755,12 +779,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 991370,
+      "num": 991370,
+      "word": "NASA明确发现火星生命迹象",
+      "onboard_time": 1757562820,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 983382,
       "num": 204432,
       "word": "辛芷蕾",
       "onboard_time": 1757200338,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 981662,
+      "num": 371134,
+      "word": "建议把内裤袜子丢进洗衣机洗",
+      "onboard_time": 1757560160,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 978450,
@@ -833,14 +873,6 @@
       "onboard_time": 1757554882,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 912895,
-      "num": 310022,
-      "word": "建议把内裤袜子丢进洗衣机洗",
-      "onboard_time": 1757560160,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 910276,
@@ -921,14 +953,6 @@
       "onboard_time": 1757412081,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 855519,
-      "num": 855519,
-      "word": "NASA明确发现火星生命迹象",
-      "onboard_time": 1757562820,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 848230,
@@ -1107,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 778924,
+      "num": 584138,
+      "word": "黄一鸣直播说女儿被抢走",
+      "onboard_time": 1757549962,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 776703,
       "num": 531217,
       "word": "女子刚逃出乌就在美轻轨被刺身亡",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1757225181,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 764929,
-      "num": 394068,
-      "word": "黄一鸣直播说女儿被抢走",
-      "onboard_time": 1757549962,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 755773,
@@ -1595,12 +1619,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587138,
+      "num": 587138,
+      "word": "河南大雨暴雨大暴雨",
+      "onboard_time": 1757561545,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587116,
       "num": 311749,
       "word": "变形计张迪自曝女友是一线女明星",
       "onboard_time": 1757286979,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 583448,
+      "num": 583448,
+      "word": "临江仙",
+      "onboard_time": 1757565045,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 583066,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1757495484,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 565841,
-      "num": 565841,
-      "word": "河南大雨暴雨大暴雨",
-      "onboard_time": 1757561545,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 564714,
@@ -1904,6 +1936,14 @@
       "word": "山东男子因楼上噪音捅死邻居被判死刑",
       "onboard_time": 1757475926,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505235,
+      "num": 505235,
+      "word": "女子持刀等外卖",
+      "onboard_time": 1757563122,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -2795,6 +2835,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 370908,
+      "num": 370908,
+      "word": "喝牛奶和从不喝牛奶的身体差距",
+      "onboard_time": 1757561970,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 370629,
       "num": 370629,
       "word": "上海地铁9号线试点拆座椅增加空间",
@@ -2937,14 +2985,6 @@
       "onboard_time": 1757414542,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 355755,
-      "num": 355755,
-      "word": "小红书被查",
-      "onboard_time": 1757564504,
-      "rank": 13,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 354085,
@@ -3123,14 +3163,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 330452,
-      "num": 330452,
-      "word": "喝牛奶和从不喝牛奶的身体差距",
-      "onboard_time": 1757561970,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 329327,
       "num": 329327,
       "word": "王者荣耀",
@@ -3241,14 +3273,6 @@
       "onboard_time": 1757236101,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 318511,
-      "num": 318511,
-      "word": "女子持刀等外卖",
-      "onboard_time": 1757563122,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 318462,
@@ -3571,6 +3595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288493,
+      "num": 383063,
+      "word": "安卓猫 苹果猫",
+      "onboard_time": 1757564921,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288440,
       "num": 288440,
       "word": "iPhone17颜色",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1757250383,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281464,
+      "num": 281464,
+      "word": "曾舜晞为成毅赴山海云包场",
+      "onboard_time": 1757564144,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 280264,
@@ -3683,20 +3723,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275572,
+      "num": 315159,
+      "word": "灼灼韶华今日开播",
+      "onboard_time": 1757564024,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275522,
       "num": 275522,
       "word": "董军同美国防部长视频通话",
       "onboard_time": 1757506643,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 274202,
-      "num": 315159,
-      "word": "灼灼韶华今日开播",
-      "onboard_time": 1757564024,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 273199,
@@ -3801,14 +3841,6 @@
       "onboard_time": 1757308883,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 261175,
-      "num": 261175,
-      "word": "小红书炒作明星个人动态",
-      "onboard_time": 1757564623,
-      "rank": 25,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 260926,
@@ -3987,6 +4019,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 241307,
+      "num": 241307,
+      "word": "业内制片人说一念江南没换人",
+      "onboard_time": 1757564504,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241285,
       "num": 228672,
       "word": "人民网评斩断流量明星招摇过市推手",
@@ -4099,6 +4139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234335,
+      "num": 585077,
+      "word": "湖南师大回应网传18人同住霉菌宿舍",
+      "onboard_time": 1757563183,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233889,
       "num": 233889,
       "word": "肖战同款焖猪蹄订单量翻番",
@@ -4131,14 +4179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 232572,
-      "num": 270038,
-      "word": "曾舜晞为成毅赴山海云包场",
-      "onboard_time": 1757564144,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232335,
       "num": 263517,
       "word": "育儿补贴申请不再需要预约",
@@ -4155,12 +4195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230398,
-      "num": 230398,
-      "word": "安卓猫 苹果猫",
-      "onboard_time": 1757564921,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 230408,
+      "num": 230408,
+      "word": "对不起李莲花我出轨了",
+      "onboard_time": 1757559142,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 230382,
@@ -4491,14 +4531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215255,
-      "num": 215255,
-      "word": "湖南师大回应网传18人同住霉菌宿舍",
-      "onboard_time": 1757563183,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214822,
       "num": 214822,
       "word": "刘耀文衣服又穿反了",
@@ -4771,6 +4803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203758,
+      "num": 203758,
+      "word": "每个人的身体里都有宇宙碎片",
+      "onboard_time": 1757565526,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203743,
       "num": 203743,
       "word": "20岁女孩失恋1个月全身毛发脱落",
@@ -5003,6 +5043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200063,
+      "num": 200063,
+      "word": "吃完木薯糖水睡了14小时",
+      "onboard_time": 1757565585,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 200048,
       "num": 209827,
       "word": "宋佳佟丽娅演上再见爱人了",
@@ -5033,6 +5081,14 @@
       "onboard_time": 1757218581,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199683,
+      "num": 199683,
+      "word": "湖南师大 18人同住霉菌宿舍",
+      "onboard_time": 1757565225,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199682,
@@ -5313,14 +5369,6 @@
       "onboard_time": 1757249002,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193037,
-      "num": 193037,
-      "word": "对不起李莲花我出轨了",
-      "onboard_time": 1757559142,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 192886,
@@ -5740,7 +5788,7 @@
     },
     {
       "raw_hot": 184734,
-      "num": 264672,
+      "num": 313820,
       "word": "乌木香我只认TF",
       "onboard_time": 1757561607,
       "rank": 22,
@@ -6339,6 +6387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 171100,
+      "num": 171100,
+      "word": "我觉得差不多可以放寒假了",
+      "onboard_time": 1757565585,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171008,
       "num": 171008,
       "word": "中国移动回应eSIM问题",
@@ -6443,14 +6499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169376,
-      "num": 169376,
-      "word": "业内制片人说一念江南没换人",
-      "onboard_time": 1757564504,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169090,
       "num": 169090,
       "word": "原来老祖宗的娱乐这么顶",
@@ -6473,6 +6521,14 @@
       "onboard_time": 1757215461,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168996,
+      "num": 171708,
+      "word": "薛小婉自曝不领证的原因",
+      "onboard_time": 1757565104,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 168904,
@@ -6529,6 +6585,14 @@
       "onboard_time": 1757229443,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167494,
+      "num": 167494,
+      "word": "雷暴后400多人挤爆急诊科",
+      "onboard_time": 1757565648,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167421,
@@ -7865,6 +7929,14 @@
       "onboard_time": 1757408003,
       "rank": 29,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 145132,
+      "num": 145132,
+      "word": "永夜星河",
+      "onboard_time": 1757565705,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 144985,
@@ -13380,7 +13452,7 @@
     },
     {
       "raw_hot": 74534,
-      "num": 316215,
+      "num": 385427,
       "word": "2025外滩大会",
       "onboard_time": 1757563604,
       "rank": 17,
@@ -13449,6 +13521,14 @@
       "onboard_time": 1757408662,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72440,
+      "num": 172748,
+      "word": "哈利波特同人文将改编为电影",
+      "onboard_time": 1757565045,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 72405,
@@ -14188,7 +14268,7 @@
     },
     {
       "raw_hot": 52787,
-      "num": 314988,
+      "num": 376020,
       "word": "结婚22年两子非亲生房产纠纷案开庭",
       "onboard_time": 1757564504,
       "rank": 19,
@@ -14291,6 +14371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50083,
+      "num": 395378,
+      "word": "为何新建黄岩岛自然保护区",
+      "onboard_time": 1757563604,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50058,
       "num": 50058,
       "word": "辛芷蕾首位80后三大影后",
@@ -14329,6 +14417,14 @@
       "onboard_time": 1757156000,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49140,
+      "num": 1061800,
+      "word": "石榴红了满天山",
+      "onboard_time": 1757509644,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48974,
@@ -14411,14 +14507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47086,
-      "num": 395378,
-      "word": "为何新建黄岩岛自然保护区",
-      "onboard_time": 1757563604,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46631,
       "num": 184003,
       "word": "杨洋带你领略江湖传奇",
@@ -14449,14 +14537,6 @@
       "onboard_time": 1757562035,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 45634,
-      "num": 778861,
-      "word": "石榴红了满天山",
-      "onboard_time": 1757509644,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45613,
