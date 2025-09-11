@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1757587300633,
+  "endTime": 1757589633907,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -97,6 +97,14 @@
       "onboard_time": 1749264742,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 26105459,
+      "num": 26105459,
+      "word": "于朦胧去世",
+      "onboard_time": 1757587963,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 22874452,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738552467,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 4388956,
-      "num": 3035647,
-      "word": "阚清子官宣怀孕",
-      "onboard_time": 1753349545,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

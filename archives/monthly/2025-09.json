@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757587300633,
+  "endTime": 1757589633907,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -16,6 +16,14 @@
       "word": "于朦胧",
       "onboard_time": 1757561184,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26105459,
+      "num": 26105459,
+      "word": "于朦胧去世",
+      "onboard_time": 1757587963,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -811,6 +819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1805952,
+      "num": 555539,
+      "word": "乃万称目前单身",
+      "onboard_time": 1757586753,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1802410,
       "num": 462024,
       "word": "雷军",
@@ -825,6 +841,14 @@
       "onboard_time": 1757321483,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1791375,
+      "num": 313752,
+      "word": "小区清洁工称坠楼者被盖上后拉走",
+      "onboard_time": 1757587353,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1778330,
@@ -937,6 +961,14 @@
       "onboard_time": 1756994066,
       "rank": 10,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1652388,
+      "num": 720439,
+      "word": "赴山海开播",
+      "onboard_time": 1757584771,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1651661,
@@ -1403,14 +1435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1257341,
-      "num": 588728,
-      "word": "赴山海开播",
-      "onboard_time": 1757584771,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1255093,
       "num": 463852,
       "word": "辛芷蕾的影后是全票通过",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1757511622,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1211098,
+      "num": 370771,
+      "word": "公交车大幅避孕套广告被指引人不适",
+      "onboard_time": 1757581711,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1210269,
@@ -1819,6 +1851,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1060785,
+      "num": 457251,
+      "word": "邢菲已删博",
+      "onboard_time": 1757587051,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1056001,
       "num": 384063,
       "word": "曝男明星把甲方样机卖了",
@@ -1833,14 +1873,6 @@
       "onboard_time": 1756852457,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1046685,
-      "num": 370771,
-      "word": "公交车大幅避孕套广告被指引人不适",
-      "onboard_time": 1757581711,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1041749,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1756953200,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 984062,
+      "num": 984062,
+      "word": "王辰被免去中国工程院副院长职务",
+      "onboard_time": 1757579254,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 983382,
@@ -2683,14 +2723,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 804607,
-      "num": 804607,
-      "word": "王辰被免去中国工程院副院长职务",
-      "onboard_time": 1757579254,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 804355,
       "num": 804355,
       "word": "深圳停课",
@@ -3153,14 +3185,6 @@
       "onboard_time": 1756723520,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 715452,
-      "num": 555539,
-      "word": "乃万称目前单身",
-      "onboard_time": 1757586753,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 710729,
@@ -5147,6 +5171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478008,
+      "num": 577103,
+      "word": "iPhone18离我们越来越近了",
+      "onboard_time": 1757585010,
+      "rank": 13,
+      "category": "数码,剧集"
+    },
+    {
       "raw_hot": 477574,
       "num": 999432,
       "word": "iPhone16需求不降反升",
@@ -6467,14 +6499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391907,
-      "num": 577103,
-      "word": "iPhone18离我们越来越近了",
-      "onboard_time": 1757585010,
-      "rank": 13,
-      "category": "数码,剧集"
-    },
-    {
       "raw_hot": 390983,
       "num": 277112,
       "word": "杨紫或登VOGUE银十",
@@ -6761,6 +6785,14 @@
       "onboard_time": 1756943301,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 378187,
+      "num": 378187,
+      "word": "赴山海云包场",
+      "onboard_time": 1757584771,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 377969,
@@ -7219,14 +7251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 356925,
-      "num": 356925,
-      "word": "赴山海云包场",
-      "onboard_time": 1757584771,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 356656,
       "num": 495737,
       "word": "马龙 替我姥姥谢谢倪妮",
@@ -7555,6 +7579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339781,
+      "num": 611870,
+      "word": "中国情侣泰国芭提雅出海1人身亡",
+      "onboard_time": 1757583752,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 339456,
       "num": 339456,
       "word": "iG战胜EDG",
@@ -7673,6 +7705,14 @@
       "onboard_time": 1756955841,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 333135,
+      "num": 333135,
+      "word": "施华蔻道歉",
+      "onboard_time": 1757586092,
+      "rank": 38,
+      "category": "民生新闻,美妆"
     },
     {
       "raw_hot": 332988,
@@ -8065,14 +8105,6 @@
       "onboard_time": 1757128760,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317612,
-      "num": 611870,
-      "word": "中国情侣泰国芭提雅出海1人身亡",
-      "onboard_time": 1757583752,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 317499,
@@ -9051,6 +9083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276944,
+      "num": 276944,
+      "word": "非粉都好心痛",
+      "onboard_time": 1757589054,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276729,
       "num": 217169,
       "word": "事发时那英正在伦敦陪伴女儿留学",
@@ -9097,6 +9137,14 @@
       "onboard_time": 1757406023,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275717,
+      "num": 275717,
+      "word": "小众却很赚钱的工作",
+      "onboard_time": 1757587411,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 275572,
@@ -11307,14 +11355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209825,
-      "num": 194843,
-      "word": "邢菲已删博",
-      "onboard_time": 1757587051,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209530,
       "num": 396572,
       "word": "iPhone17Pro透明保护壳曝光",
@@ -11441,6 +11481,14 @@
       "onboard_time": 1757038881,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207879,
+      "num": 207879,
+      "word": "2025KPL夏季赛最佳阵容候选人",
+      "onboard_time": 1757589534,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 207384,
@@ -11937,6 +11985,14 @@
       "onboard_time": 1757491702,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201321,
+      "num": 207363,
+      "word": "永远的白真上神",
+      "onboard_time": 1757589290,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 201292,
@@ -14539,14 +14595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172898,
-      "num": 172898,
-      "word": "施华蔻道歉",
-      "onboard_time": 1757586092,
-      "rank": 38,
-      "category": "民生新闻,美妆"
-    },
-    {
       "raw_hot": 172843,
       "num": 172843,
       "word": "iPhone17系列内存配置曝光",
@@ -15020,7 +15068,7 @@
     },
     {
       "raw_hot": 168594,
-      "num": 175253,
+      "num": 207292,
       "word": "游客称虎跳峡出现头上有角不明生物",
       "onboard_time": 1757585851,
       "rank": 44,
@@ -15276,7 +15324,7 @@
     },
     {
       "raw_hot": 166307,
-      "num": 166307,
+      "num": 207269,
       "word": "数百位老人早高峰抢公交致学生迟到",
       "onboard_time": 1757580753,
       "rank": 43,
@@ -16787,6 +16835,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 154039,
+      "num": 207342,
+      "word": "小红书回应被约谈",
+      "onboard_time": 1757587531,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 154035,
       "num": 154035,
       "word": "00花VOGUE金九封面",
@@ -17459,6 +17515,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 148802,
+      "num": 207338,
+      "word": "天文学家不知道水逆",
+      "onboard_time": 1757588331,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 148795,
       "num": 148795,
       "word": "盛李豪去现场看阅兵了",
@@ -17732,7 +17796,7 @@
     },
     {
       "raw_hot": 147310,
-      "num": 158521,
+      "num": 207295,
       "word": "阿里发布高德扫街榜",
       "onboard_time": 1757485224,
       "rank": 44,
@@ -19083,6 +19147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138456,
+      "num": 207348,
+      "word": "上海老洋房从1.5亿降到8千多万",
+      "onboard_time": 1757587712,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138451,
       "num": 138451,
       "word": "太胖无法变成液态回家的猫",
@@ -19633,6 +19705,14 @@
       "onboard_time": 1757392763,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135443,
+      "num": 207319,
+      "word": "阅兵观礼座椅有了新去处",
+      "onboard_time": 1757585191,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135425,
@@ -20993,6 +21073,14 @@
       "onboard_time": 1757230041,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127757,
+      "num": 303580,
+      "word": "李昀锐法拉利年轻的时候",
+      "onboard_time": 1757585491,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 127755,
@@ -23811,6 +23899,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 112545,
+      "num": 207304,
+      "word": "刘宇宁专业厨师的含金量",
+      "onboard_time": 1757588692,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112501,
       "num": 112501,
       "word": "实习工资 5个桃子",
@@ -24091,6 +24187,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 111205,
+      "num": 207296,
+      "word": "公司回应公交车大幅避孕套广告",
+      "onboard_time": 1757588752,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111198,
       "num": 111198,
       "word": "王一博演技不基础台词更不基础",
@@ -24161,14 +24265,6 @@
       "onboard_time": 1757085383,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110677,
-      "num": 303580,
-      "word": "李昀锐法拉利年轻的时候",
-      "onboard_time": 1757585491,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 110619,
@@ -25419,6 +25515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104646,
+      "num": 207279,
+      "word": "甲骨文创始人成世界首富",
+      "onboard_time": 1757588515,
+      "rank": 47,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 104630,
       "num": 104630,
       "word": "当小狗发现主人在监控里偷看它",
@@ -25841,6 +25945,14 @@
       "onboard_time": 1757153001,
       "rank": 44,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 102407,
+      "num": 207274,
+      "word": "建议所有大学辅导员都朱志鑫化",
+      "onboard_time": 1757589595,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 102347,
@@ -29923,6 +30035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71360,
+      "num": 207308,
+      "word": "减脂期水果指南",
+      "onboard_time": 1757588814,
+      "rank": 39,
+      "category": "美食,运动健身"
+    },
+    {
       "raw_hot": 71345,
       "num": 133306,
       "word": "育儿补贴线上申领入口开启内测",
@@ -31643,6 +31763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52659,
+      "num": 765039,
+      "word": "高质量完成十四五规划",
+      "onboard_time": 1757584232,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52454,
       "num": 169345,
       "word": "中国阅兵传递什么信息",
@@ -31728,6 +31856,14 @@
       "word": "加沙女孩梦中被爆炸掀飞",
       "onboard_time": 1757341044,
       "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51316,
+      "num": 209523,
+      "word": "查理柯克遭枪杀现场画面曝光",
+      "onboard_time": 1757588993,
+      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -32617,14 +32753,6 @@
       "onboard_time": 1756719201,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 38878,
-      "num": 630004,
-      "word": "高质量完成十四五规划",
-      "onboard_time": 1757584232,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38522,
@@ -34073,6 +34201,14 @@
       "onboard_time": 1756928953,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15959,
+      "num": 207312,
+      "word": "张韶涵此女花样太多了",
+      "onboard_time": 1757589410,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 15916,
