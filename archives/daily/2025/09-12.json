@@ -1,7 +1,15 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757681238978,
+  "endTime": 1757682104541,
   "band_list": [
+    {
+      "raw_hot": 3245783,
+      "num": 3245783,
+      "word": "罗永浩直播",
+      "onboard_time": 1757680767,
+      "rank": 0,
+      "category": "民生新闻,互联网"
+    },
     {
       "raw_hot": 2493648,
       "num": 2493648,
@@ -25,14 +33,6 @@
       "onboard_time": 1757663543,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2209230,
-      "num": 2209230,
-      "word": "罗永浩直播",
-      "onboard_time": 1757680767,
-      "rank": 0,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1883205,
@@ -627,6 +627,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375407,
+      "num": 366583,
+      "word": "西贝店员称客流量受到影响",
+      "onboard_time": 1757676923,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372103,
+      "num": 306062,
+      "word": "桃黑黑维护粉丝",
+      "onboard_time": 1757678125,
+      "rank": 33,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 370664,
       "num": 370664,
       "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
@@ -641,14 +657,6 @@
       "onboard_time": 1757661625,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366583,
-      "num": 366583,
-      "word": "西贝店员称客流量受到影响",
-      "onboard_time": 1757676923,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364979,
@@ -851,12 +859,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 252232,
+      "num": 252232,
+      "word": "7个主席令已签署",
+      "onboard_time": 1757679504,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 249636,
       "num": 429362,
       "word": "成毅路人盘",
       "onboard_time": 1757646026,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245397,
+      "num": 245397,
+      "word": "祝绪丹祝杨幂所愿皆所得",
+      "onboard_time": 1757679863,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 239785,
@@ -883,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238797,
-      "num": 238797,
-      "word": "7个主席令已签署",
-      "onboard_time": 1757679504,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 235790,
       "num": 897334,
       "word": "赴山海开播",
@@ -905,14 +921,6 @@
       "onboard_time": 1757564504,
       "rank": 12,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 233240,
-      "num": 233240,
-      "word": "祝绪丹祝杨幂所愿皆所得",
-      "onboard_time": 1757679863,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 232665,
@@ -995,20 +1003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219249,
-      "num": 219249,
-      "word": "桃黑黑维护粉丝",
-      "onboard_time": 1757678125,
-      "rank": 33,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 217954,
       "num": 217954,
       "word": "果郡王的果是苹果的果",
       "onboard_time": 1757666123,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217267,
+      "num": 364125,
+      "word": "迪丽热巴转身飞吻",
+      "onboard_time": 1757680886,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 216222,
@@ -1091,14 +1099,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 198859,
-      "num": 364125,
-      "word": "迪丽热巴转身飞吻",
-      "onboard_time": 1757680886,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198678,
       "num": 198678,
       "word": "电影流浪地球第三部上下集",
@@ -1163,6 +1163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 194154,
+      "num": 194154,
+      "word": "武汉烟花",
+      "onboard_time": 1757680526,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193969,
       "num": 175681,
       "word": "福建舰通过台湾海峡",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1757585851,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192654,
+      "num": 192654,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1757681065,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 191725,
@@ -1443,14 +1459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 168853,
-      "num": 168853,
-      "word": "武汉烟花",
-      "onboard_time": 1757680526,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168406,
       "num": 907177,
       "word": "女子称665万买房买到了猪窝里",
@@ -1531,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165777,
+      "num": 165777,
+      "word": "iPhone17 抢不到",
+      "onboard_time": 1757681846,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165436,
       "num": 165436,
       "word": "福建舰赴南海开展科研试验和训练",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1757658984,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163255,
+      "num": 235072,
+      "word": "周翊然选剧本眼光",
+      "onboard_time": 1757681665,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 163073,
@@ -1595,6 +1619,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 155528,
+      "num": 155528,
+      "word": "上海申花vs山东泰山",
+      "onboard_time": 1757681425,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155417,
       "num": 162238,
       "word": "带孩子上厕所要捂眼睛",
@@ -1611,19 +1643,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154877,
+      "num": 154877,
+      "word": "美凶手淡定将死者头颅扔进垃圾桶",
+      "onboard_time": 1757676504,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154782,
       "num": 910175,
       "word": "韩国海警将救生衣让给中国老人后遇难",
       "onboard_time": 1757593657,
       "rank": 8,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 153690,
-      "num": 153690,
-      "word": "美凶手淡定将死者头颅扔进垃圾桶",
-      "onboard_time": 1757676504,
-      "rank": 48,
       "category": "海外新闻"
     },
     {
@@ -1633,6 +1665,14 @@
       "onboard_time": 1757662225,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 153284,
+      "num": 224334,
+      "word": "AL战胜NIP",
+      "onboard_time": 1757681425,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 153015,
@@ -1803,6 +1843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142387,
+      "num": 142387,
+      "word": "男单八强国乒仅剩王楚钦林诗栋",
+      "onboard_time": 1757680646,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142154,
       "num": 142154,
       "word": "西贝创始人曾说好菜都是预制的",
@@ -1817,6 +1865,22 @@
       "onboard_time": 1757654786,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141444,
+      "num": 232495,
+      "word": "王一博这么快就又下班了",
+      "onboard_time": 1757681906,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141235,
+      "num": 141235,
+      "word": "外交部表态以72小时内袭击6国",
+      "onboard_time": 1757681846,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140338,
@@ -1841,14 +1905,6 @@
       "onboard_time": 1757635466,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138687,
-      "num": 138687,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1757681065,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 137961,
@@ -2073,6 +2129,14 @@
       "onboard_time": 1757636488,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 124653,
+      "num": 124653,
+      "word": "杨祐宁阿梅三胎出生",
+      "onboard_time": 1757678605,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 124633,
@@ -2747,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77219,
+      "num": 185718,
+      "word": "iPhone17女生模式",
+      "onboard_time": 1757679746,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76024,
       "num": 296168,
       "word": "奇瑞行业首推车主健康守护计划",
@@ -2793,14 +2865,6 @@
       "onboard_time": 1757650046,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66324,
-      "num": 185718,
-      "word": "iPhone17女生模式",
-      "onboard_time": 1757679746,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 63223,
@@ -3043,6 +3107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 36979,
+      "num": 235998,
+      "word": "iPhone17真的要三年一换外观了吗",
+      "onboard_time": 1757680585,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36788,
       "num": 480422,
       "word": "黄岩岛国家级自然保护区情况公布",
@@ -3073,6 +3145,14 @@
       "onboard_time": 1757610979,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29625,
+      "num": 156029,
+      "word": "西贝曾宣传预制菜",
+      "onboard_time": 1757681966,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29304,
@@ -3137,14 +3217,6 @@
       "onboard_time": 1757611638,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22820,
-      "num": 235998,
-      "word": "iPhone17真的要三年一换外观了吗",
-      "onboard_time": 1757680585,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 19283,

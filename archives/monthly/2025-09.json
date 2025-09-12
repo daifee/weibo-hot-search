@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757681238978,
+  "endTime": 1757682104541,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -265,6 +265,14 @@
       "onboard_time": 1756875630,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3245783,
+      "num": 3245783,
+      "word": "罗永浩直播",
+      "onboard_time": 1757680767,
+      "rank": 0,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 3121097,
@@ -641,14 +649,6 @@
       "onboard_time": 1757663543,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2209230,
-      "num": 2209230,
-      "word": "罗永浩直播",
-      "onboard_time": 1757680767,
-      "rank": 0,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 2164769,
@@ -7587,6 +7587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 375407,
+      "num": 366583,
+      "word": "西贝店员称客流量受到影响",
+      "onboard_time": 1757676923,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375378,
       "num": 244798,
       "word": "向太最好的闺蜜是菲佣",
@@ -7665,6 +7673,14 @@
       "onboard_time": 1757125880,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372103,
+      "num": 306062,
+      "word": "桃黑黑维护粉丝",
+      "onboard_time": 1757678125,
+      "rank": 33,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 370972,
@@ -7801,14 +7817,6 @@
       "onboard_time": 1757521519,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366583,
-      "num": 366583,
-      "word": "西贝店员称客流量受到影响",
-      "onboard_time": 1757676923,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366514,
@@ -10651,6 +10659,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 252232,
+      "num": 252232,
+      "word": "7个主席令已签署",
+      "onboard_time": 1757679504,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 252203,
       "num": 213872,
       "word": "赴山海江湖召集令",
@@ -10809,6 +10825,14 @@
       "onboard_time": 1756895424,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 245397,
+      "num": 245397,
+      "word": "祝绪丹祝杨幂所愿皆所得",
+      "onboard_time": 1757679863,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 245340,
@@ -11115,14 +11139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238797,
-      "num": 238797,
-      "word": "7个主席令已签署",
-      "onboard_time": 1757679504,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 238731,
       "num": 197110,
       "word": "男孩赶14小时作业双手痉挛成鸡爪状",
@@ -11361,14 +11377,6 @@
       "onboard_time": 1757304144,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 233240,
-      "num": 233240,
-      "word": "祝绪丹祝杨幂所愿皆所得",
-      "onboard_time": 1757679863,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 233092,
@@ -12011,14 +12019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 219249,
-      "num": 219249,
-      "word": "桃黑黑维护粉丝",
-      "onboard_time": 1757678125,
-      "rank": 33,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 219147,
       "num": 214581,
       "word": "曝男流量在采访间抽烟",
@@ -12113,6 +12113,14 @@
       "onboard_time": 1757042901,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217267,
+      "num": 364125,
+      "word": "迪丽热巴转身飞吻",
+      "onboard_time": 1757680886,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 217085,
@@ -13419,14 +13427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198859,
-      "num": 364125,
-      "word": "迪丽热巴转身飞吻",
-      "onboard_time": 1757680886,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198839,
       "num": 198839,
       "word": "猫和老鼠画师首次为国漫作画",
@@ -13907,6 +13907,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 194154,
+      "num": 194154,
+      "word": "武汉烟花",
+      "onboard_time": 1757680526,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193969,
       "num": 175681,
       "word": "福建舰通过台湾海峡",
@@ -14113,6 +14121,14 @@
       "onboard_time": 1757300184,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192654,
+      "num": 192654,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1756724541,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 192484,
@@ -16627,14 +16643,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 168853,
-      "num": 168853,
-      "word": "武汉烟花",
-      "onboard_time": 1757680526,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168796,
       "num": 168796,
       "word": "张艺谋张艺兴联袂创新预告",
@@ -17067,6 +17075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165777,
+      "num": 165777,
+      "word": "iPhone17 抢不到",
+      "onboard_time": 1757681846,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165776,
       "num": 165776,
       "word": "分手后被前女友告强奸男方家属发声",
@@ -17417,6 +17433,14 @@
       "onboard_time": 1757572922,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163255,
+      "num": 235072,
+      "word": "周翊然选剧本眼光",
+      "onboard_time": 1757681665,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 163200,
@@ -18379,6 +18403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155528,
+      "num": 155528,
+      "word": "上海申花vs山东泰山",
+      "onboard_time": 1757681425,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155517,
       "num": 156330,
       "word": "当自驾游形成了一个完美闭环",
@@ -18505,6 +18537,14 @@
       "onboard_time": 1757308823,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154877,
+      "num": 154877,
+      "word": "美凶手淡定将死者头颅扔进垃圾桶",
+      "onboard_time": 1757676504,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154851,
@@ -18643,14 +18683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153690,
-      "num": 153690,
-      "word": "美凶手淡定将死者头颅扔进垃圾桶",
-      "onboard_time": 1757676504,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 153537,
       "num": 153537,
       "word": "林允旗袍",
@@ -18705,6 +18737,14 @@
       "onboard_time": 1757585972,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 153284,
+      "num": 224334,
+      "word": "AL战胜NIP",
+      "onboard_time": 1757681425,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 153253,
@@ -20523,6 +20563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142387,
+      "num": 142387,
+      "word": "男单八强国乒仅剩王楚钦林诗栋",
+      "onboard_time": 1757680646,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142382,
       "num": 142382,
       "word": "以色列拦截胡塞武装无人机失败",
@@ -20715,6 +20763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141444,
+      "num": 232495,
+      "word": "王一博这么快就又下班了",
+      "onboard_time": 1757681906,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141349,
       "num": 141349,
       "word": "中国军人360度无死角的帅",
@@ -20737,6 +20793,14 @@
       "onboard_time": 1757374220,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141235,
+      "num": 141235,
+      "word": "外交部表态以72小时内袭击6国",
+      "onboard_time": 1757681846,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141173,
@@ -21153,14 +21217,6 @@
       "onboard_time": 1757218943,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138687,
-      "num": 173383,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1756724541,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 138458,
@@ -23936,6 +23992,14 @@
       "word": "阎鹤祥花46块7买了一个岛",
       "onboard_time": 1757084361,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124653,
+      "num": 124653,
+      "word": "杨祐宁阿梅三胎出生",
+      "onboard_time": 1757678605,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -32531,6 +32595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77219,
+      "num": 185718,
+      "word": "iPhone17女生模式",
+      "onboard_time": 1757679746,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77064,
       "num": 162899,
       "word": "美国男童按门铃玩遭枪杀",
@@ -33600,14 +33672,6 @@
       "word": "iPhone17系列预售调查",
       "onboard_time": 1756769779,
       "rank": 35,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 66324,
-      "num": 185718,
-      "word": "iPhone17女生模式",
-      "onboard_time": 1757679746,
-      "rank": 36,
       "category": "数码"
     },
     {
@@ -36211,6 +36275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36979,
+      "num": 235998,
+      "word": "iPhone17真的要三年一换外观了吗",
+      "onboard_time": 1757680585,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36926,
       "num": 393755,
       "word": "教师节祝福",
@@ -36771,6 +36843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29625,
+      "num": 156029,
+      "word": "西贝曾宣传预制菜",
+      "onboard_time": 1757681966,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29466,
       "num": 109493,
       "word": "夜晚开车路中间惊现直立男子",
@@ -37209,14 +37289,6 @@
       "onboard_time": 1757611638,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22820,
-      "num": 235998,
-      "word": "iPhone17真的要三年一换外观了吗",
-      "onboard_time": 1757680585,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 22787,

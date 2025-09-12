@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757681238978,
+  "endTime": 1757682104541,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -129,6 +129,14 @@
       "onboard_time": 1757489242,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3245783,
+      "num": 3245783,
+      "word": "罗永浩直播",
+      "onboard_time": 1757680767,
+      "rank": 0,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 3121097,
@@ -297,14 +305,6 @@
       "onboard_time": 1757663543,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2209230,
-      "num": 2209230,
-      "word": "罗永浩直播",
-      "onboard_time": 1757680767,
-      "rank": 0,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 2164769,
@@ -3763,6 +3763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 375407,
+      "num": 366583,
+      "word": "西贝店员称客流量受到影响",
+      "onboard_time": 1757676923,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375170,
       "num": 284782,
       "word": "钟楚曦 侯雯元",
@@ -3809,6 +3817,14 @@
       "onboard_time": 1757477785,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372103,
+      "num": 306062,
+      "word": "桃黑黑维护粉丝",
+      "onboard_time": 1757678125,
+      "rank": 33,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 370972,
@@ -3913,14 +3929,6 @@
       "onboard_time": 1757521519,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366583,
-      "num": 366583,
-      "word": "西贝店员称客流量受到影响",
-      "onboard_time": 1757676923,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364979,
@@ -5307,6 +5315,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 252232,
+      "num": 252232,
+      "word": "7个主席令已签署",
+      "onboard_time": 1757679504,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 251708,
       "num": 1071617,
       "word": "苹果发布会彩蛋有王嘉尔",
@@ -5337,6 +5353,14 @@
       "onboard_time": 1757590130,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245397,
+      "num": 245397,
+      "word": "祝绪丹祝杨幂所愿皆所得",
+      "onboard_time": 1757679863,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 245340,
@@ -5483,14 +5507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238797,
-      "num": 238797,
-      "word": "7个主席令已签署",
-      "onboard_time": 1757679504,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 238445,
       "num": 238445,
       "word": "高德扫街榜给传统美食榜挤水分",
@@ -5585,14 +5601,6 @@
       "onboard_time": 1757304144,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 233240,
-      "num": 233240,
-      "word": "祝绪丹祝杨幂所愿皆所得",
-      "onboard_time": 1757679863,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 233092,
@@ -5971,14 +5979,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 219249,
-      "num": 219249,
-      "word": "桃黑黑维护粉丝",
-      "onboard_time": 1757678125,
-      "rank": 33,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 219147,
       "num": 214581,
       "word": "曝男流量在采访间抽烟",
@@ -6041,6 +6041,14 @@
       "onboard_time": 1757566725,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217267,
+      "num": 364125,
+      "word": "迪丽热巴转身飞吻",
+      "onboard_time": 1757680886,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 217085,
@@ -6795,14 +6803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198859,
-      "num": 364125,
-      "word": "迪丽热巴转身飞吻",
-      "onboard_time": 1757680886,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198758,
       "num": 198758,
       "word": "无畏属于是返老还童了",
@@ -7139,6 +7139,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 194154,
+      "num": 194154,
+      "word": "武汉烟花",
+      "onboard_time": 1757680526,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193969,
       "num": 175681,
       "word": "福建舰通过台湾海峡",
@@ -7241,6 +7249,14 @@
       "onboard_time": 1757300184,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192654,
+      "num": 192654,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1757681065,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 192381,
@@ -8755,14 +8771,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 168853,
-      "num": 168853,
-      "word": "武汉烟花",
-      "onboard_time": 1757680526,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168796,
       "num": 168796,
       "word": "张艺谋张艺兴联袂创新预告",
@@ -9011,6 +9019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165777,
+      "num": 165777,
+      "word": "iPhone17 抢不到",
+      "onboard_time": 1757681846,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165776,
       "num": 165776,
       "word": "分手后被前女友告强奸男方家属发声",
@@ -9209,6 +9225,14 @@
       "onboard_time": 1757572922,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163255,
+      "num": 235072,
+      "word": "周翊然选剧本眼光",
+      "onboard_time": 1757681665,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 163200,
@@ -9723,6 +9747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155528,
+      "num": 155528,
+      "word": "上海申花vs山东泰山",
+      "onboard_time": 1757681425,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155517,
       "num": 156330,
       "word": "当自驾游形成了一个完美闭环",
@@ -9777,6 +9809,14 @@
       "onboard_time": 1757308823,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154877,
+      "num": 154877,
+      "word": "美凶手淡定将死者头颅扔进垃圾桶",
+      "onboard_time": 1757676504,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154851,
@@ -9851,14 +9891,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 153690,
-      "num": 153690,
-      "word": "美凶手淡定将死者头颅扔进垃圾桶",
-      "onboard_time": 1757676504,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 153513,
       "num": 153513,
       "word": "华为新耳夹耳机曝光",
@@ -9889,6 +9921,14 @@
       "onboard_time": 1757585972,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 153284,
+      "num": 224334,
+      "word": "AL战胜NIP",
+      "onboard_time": 1757681425,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 153253,
@@ -10939,6 +10979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142387,
+      "num": 142387,
+      "word": "男单八强国乒仅剩王楚钦林诗栋",
+      "onboard_time": 1757680646,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142382,
       "num": 142382,
       "word": "以色列拦截胡塞武装无人机失败",
@@ -11059,6 +11107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141444,
+      "num": 232495,
+      "word": "王一博这么快就又下班了",
+      "onboard_time": 1757681906,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141334,
       "num": 141334,
       "word": "医生荣誉官宣",
@@ -11073,6 +11129,14 @@
       "onboard_time": 1757374220,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141235,
+      "num": 141235,
+      "word": "外交部表态以72小时内袭击6国",
+      "onboard_time": 1757681846,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140940,
@@ -11329,14 +11393,6 @@
       "onboard_time": 1757218943,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138687,
-      "num": 138687,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1757681065,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 138451,
@@ -13089,6 +13145,14 @@
       "onboard_time": 1757171963,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124653,
+      "num": 124653,
+      "word": "杨祐宁阿梅三胎出生",
+      "onboard_time": 1757678605,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 124633,
@@ -17555,6 +17619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77219,
+      "num": 185718,
+      "word": "iPhone17女生模式",
+      "onboard_time": 1757679746,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76631,
       "num": 82075,
       "word": "易烊千玺被广播催促登机",
@@ -18001,14 +18073,6 @@
       "onboard_time": 1757373560,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66324,
-      "num": 185718,
-      "word": "iPhone17女生模式",
-      "onboard_time": 1757679746,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 66151,
@@ -19467,6 +19531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36979,
+      "num": 235998,
+      "word": "iPhone17真的要三年一换外观了吗",
+      "onboard_time": 1757680585,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36926,
       "num": 393755,
       "word": "教师节祝福",
@@ -19712,6 +19784,14 @@
       "word": "文化中国行白露节气",
       "onboard_time": 1757203400,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29625,
+      "num": 156029,
+      "word": "西贝曾宣传预制菜",
+      "onboard_time": 1757681966,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -19985,14 +20065,6 @@
       "onboard_time": 1757611638,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22820,
-      "num": 235998,
-      "word": "iPhone17真的要三年一换外观了吗",
-      "onboard_time": 1757680585,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 22787,
