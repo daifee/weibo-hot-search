@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757688081281,
+  "endTime": 1757690685689,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -1763,7 +1763,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 723243,
+      "raw_hot": 723547,
       "num": 511222,
       "word": "宋雨琦王安宇互晒合照",
       "onboard_time": 1757686825,
@@ -2035,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648240,
+      "num": 648240,
+      "word": "第一批吃西贝罗永浩菜单食客发声",
+      "onboard_time": 1757688088,
+      "rank": 5,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 647007,
       "num": 379486,
       "word": "势界CEO",
@@ -2065,6 +2073,14 @@
       "onboard_time": 1757516844,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 643595,
+      "num": 296770,
+      "word": "欧阳娜娜镜头一移出现刘昊然",
+      "onboard_time": 1757687667,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 641911,
@@ -3555,6 +3571,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 398536,
+      "num": 296221,
+      "word": "张檬谈溺爱儿子",
+      "onboard_time": 1757687487,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398451,
       "num": 398451,
       "word": "大帅FMVP",
@@ -4715,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305568,
+      "num": 884429,
+      "word": "外交部表态以72小时内袭击6国",
+      "onboard_time": 1757681846,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302995,
       "num": 341037,
       "word": "女子嫁外国贫民窟求助回国系摆拍",
@@ -5049,6 +5081,14 @@
       "onboard_time": 1757635767,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 281824,
+      "num": 281824,
+      "word": "罗永浩吐槽西贝一个馒头卖21元",
+      "onboard_time": 1757689887,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 281464,
@@ -6003,14 +6043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223587,
-      "num": 223587,
-      "word": "张檬谈溺爱儿子",
-      "onboard_time": 1757687487,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223529,
       "num": 223529,
       "word": "830元15道菜到底贵不贵",
@@ -6385,14 +6417,6 @@
       "onboard_time": 1757664803,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210690,
-      "num": 193802,
-      "word": "欧阳娜娜镜头一移出现刘昊然",
-      "onboard_time": 1757687667,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 210660,
@@ -7473,14 +7497,6 @@
       "onboard_time": 1757305165,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192175,
-      "num": 192175,
-      "word": "外交部表态以72小时内袭击6国",
-      "onboard_time": 1757681846,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 192161,
@@ -10259,6 +10275,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 152255,
+      "num": 152255,
+      "word": "贾国龙称罗永浩就是要干西贝",
+      "onboard_time": 1757689526,
+      "rank": 32,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 151913,
       "num": 151913,
       "word": "王赫野垫肩从肩跑到了腰",
@@ -10953,6 +10977,14 @@
       "onboard_time": 1757652569,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145279,
+      "num": 145279,
+      "word": "李在明回应韩国海警救中国老人殉职",
+      "onboard_time": 1757689766,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145208,
@@ -12595,6 +12627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131745,
+      "num": 171035,
+      "word": "严浩翔 次次被骗次次上当",
+      "onboard_time": 1757689585,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131740,
       "num": 131740,
       "word": "动物不刷牙为什么不会蛀牙",
@@ -13891,6 +13931,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 121440,
+      "num": 121440,
+      "word": "教资 紧张",
+      "onboard_time": 1757689947,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 121369,
       "num": 121369,
       "word": "焦俊艳给papi酱发了8年红包",
@@ -13977,6 +14025,14 @@
       "onboard_time": 1757313323,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 120299,
+      "num": 129887,
+      "word": "东部战区回应美英舰过航台海并挑衅",
+      "onboard_time": 1757690125,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120189,
@@ -14851,6 +14907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112849,
+      "num": 112849,
+      "word": "孙颖莎晋级女单8强",
+      "onboard_time": 1757690006,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112710,
       "num": 112710,
       "word": "怪不得撒谎是小狗",
@@ -15089,6 +15153,14 @@
       "onboard_time": 1757236042,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111121,
+      "num": 111121,
+      "word": "S15售票",
+      "onboard_time": 1757690125,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 110990,
@@ -16699,6 +16771,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97429,
+      "num": 181965,
+      "word": "999元买玉镯 只值30",
+      "onboard_time": 1757687848,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97357,
+      "num": 97357,
+      "word": "范丞丞躲过勾践剑躲不过叫爹",
+      "onboard_time": 1757690666,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97229,
       "num": 97229,
       "word": "国乒男单4人在上半区",
@@ -16728,6 +16816,14 @@
       "word": "尘白禁区",
       "onboard_time": 1757514503,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 97068,
+      "num": 97068,
+      "word": "火焰纹章",
+      "onboard_time": 1757688149,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -17171,6 +17267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91304,
+      "num": 125029,
+      "word": "福建舰首次通过台湾海峡意味着什么",
+      "onboard_time": 1757688688,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91235,
       "num": 159342,
       "word": "福建被继母生父虐死女孩体重仅40斤",
@@ -17531,14 +17635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84887,
-      "num": 181965,
-      "word": "999元买玉镯 只值30",
-      "onboard_time": 1757687848,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84839,
       "num": 84839,
       "word": "萧敬腾裤子裂了",
@@ -17897,6 +17993,14 @@
       "onboard_time": 1757228722,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79355,
+      "num": 193405,
+      "word": "iPhone17买标准版还是Pro",
+      "onboard_time": 1757687909,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 79163,
@@ -18915,14 +19019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 58410,
-      "num": 193405,
-      "word": "iPhone17买标准版还是Pro",
-      "onboard_time": 1757687909,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 58323,
       "num": 171548,
       "word": "男子醉酒后打人一拳赔5000元",
@@ -19131,6 +19227,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 54285,
+      "num": 292635,
+      "word": "为用户玩命试车的CEO",
+      "onboard_time": 1757689526,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54010,
       "num": 165316,
       "word": "享界S9T一个字稳",
@@ -19241,6 +19345,14 @@
       "onboard_time": 1757493442,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51276,
+      "num": 298317,
+      "word": "中美将讨论TikTok等问题",
+      "onboard_time": 1757690067,
+      "rank": 10,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 51100,
@@ -20971,6 +21083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 6866,
+      "num": 965755,
+      "word": "新疆70年",
+      "onboard_time": 1757599474,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6582,
       "num": 1150816,
       "word": "为啥歼10是争气机",
@@ -20984,14 +21104,6 @@
       "word": "合租房生娃夫妻未认可退租搬家方案",
       "onboard_time": 1757440696,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4437,
-      "num": 965755,
-      "word": "新疆70年",
-      "onboard_time": 1757599474,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
