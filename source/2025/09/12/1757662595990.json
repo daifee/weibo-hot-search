@@ -1,0 +1,410 @@
+{
+  "runTime": 1757662595990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 760825,
+        "num": 1121732,
+        "word": "预制菜 强制明示",
+        "onboard_time": 1757653825,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656931,
+        "num": 656931,
+        "word": "西贝致顾客的一封信",
+        "onboard_time": 1757661925,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48733,
+        "num": 570129,
+        "word": "接30位烈士遗骸回国",
+        "onboard_time": 1757639367,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1454828,
+        "num": 569657,
+        "word": "杨幂回复热巴",
+        "onboard_time": 1757659044,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660492,
+        "num": 567653,
+        "word": "李兰迪一直被内娱低估的美貌",
+        "onboard_time": 1757658265,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556769,
+        "num": 556769,
+        "word": "女老板看上男下属花300万让其离婚",
+        "onboard_time": 1757655806,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507701,
+        "num": 507701,
+        "word": "西贝董事长称骂不过罗永浩",
+        "onboard_time": 1757656168,
+        "rank": 6,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 435861,
+        "num": 435861,
+        "word": "终于有人当黄子韬面说e不发音",
+        "onboard_time": 1757657426,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588027,
+        "num": 401766,
+        "word": "刘诗诗给杨幂送生日祝福",
+        "onboard_time": 1757658325,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348143,
+        "num": 348143,
+        "word": "特朗普出席911纪念仪式右脸下垂",
+        "onboard_time": 1757654007,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 676474,
+        "num": 342815,
+        "word": "购买一部iPhone17你要工作多久",
+        "onboard_time": 1757656168,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 485166,
+        "num": 335291,
+        "word": "浙这个字居然组不了任何词",
+        "onboard_time": 1757659945,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68208,
+        "num": 324711,
+        "word": "老十七用上了iPhone17",
+        "onboard_time": 1757660604,
+        "rank": 12,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 370020,
+        "num": 308896,
+        "word": "花少7真的放母带了",
+        "onboard_time": 1757661625,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308480,
+        "num": 308480,
+        "word": "刑事立案下降25.7%",
+        "onboard_time": 1757645727,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265462,
+        "num": 265462,
+        "word": "墨西哥拟对中国等国征收50%关税",
+        "onboard_time": 1757656825,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241180,
+        "num": 241180,
+        "word": "外公去世左航躲在头盔里大哭",
+        "onboard_time": 1757655985,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134199,
+        "num": 236890,
+        "word": "西贝员工称凌晨5点就开始备菜",
+        "onboard_time": 1757661805,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236458,
+        "num": 236458,
+        "word": "王楚钦北影北舞优秀毕业生",
+        "onboard_time": 1757660486,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216680,
+        "num": 216680,
+        "word": "李佳琦把赵昭仪养的很好",
+        "onboard_time": 1757645845,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403740,
+        "num": 214713,
+        "word": "罗永浩西贝之争是一场信任僵局",
+        "onboard_time": 1757659885,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 279831,
+        "num": 214256,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 212694,
+        "num": 212694,
+        "word": "罗永浩当面说挺好背后说恶心",
+        "onboard_time": 1757636127,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 204834,
+        "num": 204834,
+        "word": "西贝",
+        "onboard_time": 1757638227,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190025,
+        "num": 190025,
+        "word": "iPhone17Pro相机是疯狂的",
+        "onboard_time": 1757654967,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187493,
+        "num": 187493,
+        "word": "黄多多 天选文艺片女主脸",
+        "onboard_time": 1757651909,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170903,
+        "num": 170903,
+        "word": "王曼昱vs早田希娜",
+        "onboard_time": 1757661805,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57344,
+        "num": 170590,
+        "word": "护肤第一步从使用毛浴巾开始",
+        "onboard_time": 1757662405,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170355,
+        "num": 170355,
+        "word": "于东来说西贝可以放心可口吃饭",
+        "onboard_time": 1757656825,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36012,
+        "num": 167199,
+        "word": "农业500强疑跑路有商家被欠上千万",
+        "onboard_time": 1757662283,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 164961,
+        "num": 164961,
+        "word": "老师批评迟到学生被指官威大",
+        "onboard_time": 1757655866,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163664,
+        "num": 163664,
+        "word": "女子吃饭被陌生男子摸头辱骂",
+        "onboard_time": 1757658984,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160598,
+        "num": 160598,
+        "word": "罗永浩虽是大V但有吐槽权",
+        "onboard_time": 1757653825,
+        "rank": 32,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 158741,
+        "num": 158741,
+        "word": "猫就这样凹凸凹凸路过了所有人",
+        "onboard_time": 1757652627,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152301,
+        "num": 152301,
+        "word": "女婴遭虫咬多次抢救全身换血",
+        "onboard_time": 1757654248,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136887,
+        "num": 136887,
+        "word": "盛世天下",
+        "onboard_time": 1757656887,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134336,
+        "num": 134336,
+        "word": "张泽禹C位",
+        "onboard_time": 1757660244,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129701,
+        "num": 129701,
+        "word": "不给大爷们搞点草药磨磨可惜了",
+        "onboard_time": 1757662225,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123135,
+        "num": 123135,
+        "word": "陈垣宇1比3林德",
+        "onboard_time": 1757662225,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116515,
+        "num": 122623,
+        "word": "华为新耳夹耳机曝光",
+        "onboard_time": 1757662225,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122411,
+        "num": 122411,
+        "word": "孙燕姿老鼠干",
+        "onboard_time": 1757653407,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120179,
+        "num": 120179,
+        "word": "时代峰峻在重庆成立新公司",
+        "onboard_time": 1757660424,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111625,
+        "num": 111625,
+        "word": "虞书欣双轨过审了",
+        "onboard_time": 1757646686,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108558,
+        "num": 108558,
+        "word": "这不就是当年上课转笔那批人",
+        "onboard_time": 1757660186,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107593,
+        "num": 107593,
+        "word": "于东来发文感谢西贝",
+        "onboard_time": 1757662525,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80267,
+        "num": 106941,
+        "word": "西贝公开罗永浩菜品制作过程",
+        "onboard_time": 1757662465,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106314,
+        "num": 106314,
+        "word": "鹿晗把粉丝的灯牌改了一个字",
+        "onboard_time": 1757657666,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103476,
+        "num": 103476,
+        "word": "原来白敬亭也不能笑着离开理发店",
+        "onboard_time": 1757652507,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 100257,
+        "word": "迪丽热巴大冒险家芭莎金九封面",
+        "onboard_time": 1757658503,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96777,
+        "num": 96777,
+        "word": "黄子韬请鑫博做婚礼司仪",
+        "onboard_time": 1757659524,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平发展是中国的坚定选择#"
+    }
+  }
+}
