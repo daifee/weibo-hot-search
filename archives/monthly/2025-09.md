@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 06:22:13
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 06:38:26
 </p>
 </blockquote>
 <p>
@@ -5241,6 +5241,12 @@ iPhone17Pro相机是疯狂的（热度：417026）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%9D%80%E6%9F%AF%E5%85%8B%E7%9A%84%E5%87%B6%E6%89%8B%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BB%BD%23" target="weibo">
+暗杀柯克的凶手确认身份（热度：409616）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E8%8D%94%E8%8E%8E%E4%B8%8E%E4%BA%8E%E6%AD%A3%E7%BC%98%E5%88%86%E5%A5%91%E5%90%88%E5%BA%A686%23" target="weibo">
 许荔莎与于正缘分契合度86（热度：408906）
 </a>
@@ -6005,12 +6011,6 @@ Metal杂志（热度：366669）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E9%99%88%E8%B5%AB%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8C%E5%8F%B0%23" target="weibo">
 邓超陈赫鹿晗演唱会同台（热度：364864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%BC%E6%B8%B8%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%89%93%23" target="weibo">
-中国导游在日本被打（热度：364601）
 </a>
 </li>
 
