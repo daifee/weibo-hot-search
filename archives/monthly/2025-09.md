@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 18:26:43
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 18:41:43
 </p>
 </blockquote>
 <p>
@@ -675,6 +675,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E8%A6%81%E6%B1%82%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E5%93%81%E5%B0%9D%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%8F%9C%E5%8D%95%23" target="weibo">
+西贝要求所有员工品尝罗永浩菜单（热度：1782867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%A4%8D%E7%83%AD%E5%B7%B4%23" target="weibo">
 杨幂回复热巴（热度：1779130）
 </a>
@@ -743,12 +749,6 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%A4%85%E5%AD%90%E4%BA%8B%E4%BB%B6%E9%80%9A%E6%8A%A5%23" target="weibo">
 武汉大学椅子事件通报（热度：1675195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E8%A6%81%E6%B1%82%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E5%93%81%E5%B0%9D%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%8F%9C%E5%8D%95%23" target="weibo">
-西贝要求所有员工品尝罗永浩菜单（热度：1670812）
 </a>
 </li>
 
@@ -2667,6 +2667,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%84%BF%E7%AB%A5%E9%A4%90%23" target="weibo">
+西贝儿童餐（热度：696138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9F%E5%BE%85%E4%B8%8B%E6%AC%A1%E9%98%85%E5%85%B5%E4%BA%86%23" target="weibo">
 期待下次阅兵了（热度：695555）
 </a>
@@ -3165,12 +3171,6 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%84%BF%E7%AB%A5%E9%A4%90%23" target="weibo">
-西贝儿童餐（热度：606159）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E8%9B%87%E7%BE%A4%E6%B3%9B%E6%BB%A5%E5%A4%A7%E8%9B%87%E5%B0%8F%E8%9B%87%E5%88%B0%E5%A4%84%E7%AA%9C%23" target="weibo">
 小区蛇群泛滥大蛇小蛇到处窜（热度：605801）
 </a>
@@ -3491,6 +3491,12 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%B0%86%E6%95%91%E7%94%9F%E8%A1%A3%E8%AE%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E8%80%81%E4%BA%BA%E5%90%8E%E9%81%87%E9%9A%BE%23" target="weibo">
 韩国海警将救生衣让给中国老人后遇难（热度：559442）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B8%9F%E9%A2%91%E9%A2%91%E6%92%9E%E6%AD%BB%E5%9C%A8%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%A7%E6%A1%A5%E7%8E%BB%E7%92%83%E5%A2%99%23" target="weibo">
+小鸟频频撞死在南京一大桥玻璃墙（热度：557213）
 </a>
 </li>
 
@@ -4097,6 +4103,12 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%9A%E5%88%B0%E5%AE%BF%E8%88%8D%E4%B8%8D%E5%A4%9F%E4%BD%8F%23" target="weibo">
 研究生多到宿舍不够住（热度：492374）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%203%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23" target="weibo">
+西贝 3只蒸饺29元（热度：491484）
 </a>
 </li>
 
@@ -5895,6 +5907,12 @@ Metal杂志（热度：366669）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AB%82%E5%96%82%E5%A5%B6%E8%87%B4%E5%88%9A%E5%87%BA%E7%94%9F2%E5%A4%A9%E7%94%B7%E5%A9%B4%E7%AA%92%E6%81%AF%23" target="weibo">
+月嫂喂奶致刚出生2天男婴窒息（热度：358475）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E5%BD%A2%E8%BA%AB%E6%9D%90%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8%23" target="weibo">
 梨形身材是中了基因彩票（热度：357391）
 </a>
@@ -5993,24 +6011,6 @@ VOGUE（热度：350760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8D%E6%83%B3%E8%8D%89%E7%8E%87%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
 樊振东不想草率回应质疑（热度：350731）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B4%E7%BE%8E%E7%94%9F%E5%AD%90%E5%8E%BB%E4%B8%96%E4%BF%A9%E5%AD%A9%E5%AD%90%E7%94%9F%E7%88%B6%E6%88%90%E8%B0%9C%23" target="weibo">
-女子赴美生子去世俩孩子生父成谜（热度：350646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E4%BA%94%E5%8F%B7%E9%A6%96%E4%BB%BB%E6%80%BB%E5%B8%88%E8%AF%B4%E8%AE%A9%E5%88%AB%E4%BA%BA%E4%B8%8D%E6%95%A2%E7%A2%B0%E6%88%91%E4%BB%AC%23" target="weibo">
-东风五号首任总师说让别人不敢碰我们（热度：349283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E8%80%81%E9%BC%A0%E5%B9%B2%23" target="weibo">
-孙燕姿老鼠干（热度：348997）
 </a>
 </li>
 
