@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757694453237,
+  "endTime": 1757695313955,
   "band_list": [
     {
       "raw_hot": 1574969,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 478803,
+      "raw_hot": 549823,
       "num": 478803,
       "word": "罗永浩吐槽西贝一个馒头卖21元",
       "onboard_time": 1757689887,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320949,
+      "num": 320949,
+      "word": "江西南丰县发生交通事故致5死",
+      "onboard_time": 1757691444,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "比伯穿内裤骑平衡车",
@@ -89,6 +97,14 @@
       "onboard_time": 1757683949,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264867,
+      "num": 264867,
+      "word": "祝绪丹祝杨幂所愿皆所得",
+      "onboard_time": 1757679863,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 258117,
@@ -115,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228677,
-      "num": 228677,
+      "raw_hot": 232997,
+      "num": 232997,
       "word": "13岁奥莉近照",
       "onboard_time": 1757682266,
       "rank": 16,
@@ -139,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203994,
-      "num": 203994,
-      "word": "江西南丰县发生交通事故致5死",
-      "onboard_time": 1757691444,
-      "rank": 18,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 193581,
       "num": 203856,
       "word": "鞠婧祎直播",
@@ -155,15 +163,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192813,
-      "num": 203979,
-      "word": "祝绪丹祝杨幂所愿皆所得",
-      "onboard_time": 1757679863,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 174157,
+      "raw_hot": 189241,
       "num": 203828,
       "word": "10岁女儿非亲生胃癌父亲已去世",
       "onboard_time": 1757691685,
@@ -177,6 +177,22 @@
       "onboard_time": 1757683707,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151411,
+      "num": 203454,
+      "word": "美英军舰过航台湾海峡并滋扰挑衅",
+      "onboard_time": 1757691625,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 146636,
+      "num": 203334,
+      "word": "暗杀柯克的凶手确认身份",
+      "onboard_time": 1757693185,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142797,
@@ -203,12 +219,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 127750,
-      "num": 203454,
-      "word": "美英军舰过航台湾海峡并滋扰挑衅",
-      "onboard_time": 1757691625,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 129390,
+      "num": 415784,
+      "word": "拥有闲谈力是高情商的体现",
+      "onboard_time": 1757693185,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 118901,
@@ -219,20 +235,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 118087,
-      "num": 203334,
-      "word": "暗杀柯克的凶手确认身份",
-      "onboard_time": 1757693185,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 116929,
-      "num": 415784,
-      "word": "拥有闲谈力是高情商的体现",
-      "onboard_time": 1757693185,
-      "rank": 9,
-      "category": "情感"
+      "raw_hot": 117994,
+      "num": 203216,
+      "word": "邓为飞吻粉丝",
+      "onboard_time": 1757694023,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 112345,
@@ -257,14 +265,6 @@
       "onboard_time": 1757690125,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 102999,
-      "num": 203216,
-      "word": "邓为飞吻粉丝",
-      "onboard_time": 1757694023,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 100581,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70634,
+      "num": 134975,
+      "word": "西贝 3只蒸饺29元",
+      "onboard_time": 1757671104,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42448,
       "num": 203135,
       "word": "为用户玩命试车的CEO",
@@ -395,7 +403,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 9793,
+      "raw_hot": 15672,
       "num": 608476,
       "word": "万千气象看浙里",
       "onboard_time": 1757685388,
