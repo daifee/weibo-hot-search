@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757690685689,
+  "endTime": 1757691481367,
   "band_list": [
     {
       "raw_hot": 3245783,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722349,
+      "num": 648240,
+      "word": "第一批吃西贝罗永浩菜单食客发声",
+      "onboard_time": 1757688088,
+      "rank": 5,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 707902,
       "num": 491484,
       "word": "西贝 3只蒸饺29元",
@@ -385,14 +393,6 @@
       "onboard_time": 1757674885,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 648240,
-      "num": 648240,
-      "word": "第一批吃西贝罗永浩菜单食客发声",
-      "onboard_time": 1757688088,
-      "rank": 5,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 643595,
@@ -619,6 +619,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 417528,
+      "num": 884429,
+      "word": "外交部表态以72小时内袭击6国",
+      "onboard_time": 1757681846,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 417026,
       "num": 396881,
       "word": "iPhone17Pro相机是疯狂的",
@@ -651,20 +659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400969,
+      "num": 296221,
+      "word": "张檬谈溺爱儿子",
+      "onboard_time": 1757687487,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399454,
       "num": 350918,
       "word": "猫就这样凹凸凹凸路过了所有人",
       "onboard_time": 1757652627,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 398536,
-      "num": 296221,
-      "word": "张檬谈溺爱儿子",
-      "onboard_time": 1757687487,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 395641,
@@ -859,14 +867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 305568,
-      "num": 884429,
-      "word": "外交部表态以72小时内袭击6国",
-      "onboard_time": 1757681846,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 295921,
       "num": 295921,
       "word": "日军细菌战受害者整夜叫痛",
@@ -880,6 +880,14 @@
       "word": "罗永浩称西贝儿童餐年龄比儿童大",
       "onboard_time": 1757686527,
       "rank": 31,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 290602,
+      "num": 281824,
+      "word": "罗永浩吐槽西贝一个馒头卖21元",
+      "onboard_time": 1757689887,
+      "rank": 23,
       "category": "民生新闻,互联网"
     },
     {
@@ -937,14 +945,6 @@
       "onboard_time": 1757635767,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 281824,
-      "num": 281824,
-      "word": "罗永浩吐槽西贝一个馒头卖21元",
-      "onboard_time": 1757689887,
-      "rank": 23,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 279942,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1757665643,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207111,
+      "num": 207111,
+      "word": "白鹿晒烟花",
+      "onboard_time": 1757691084,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 206845,
@@ -1915,6 +1923,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 157239,
+      "num": 157239,
+      "word": "贾国龙称罗永浩就是要干西贝",
+      "onboard_time": 1757689526,
+      "rank": 32,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 155528,
       "num": 155528,
       "word": "上海申花vs山东泰山",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1757664923,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 152255,
-      "num": 152255,
-      "word": "贾国龙称罗永浩就是要干西贝",
-      "onboard_time": 1757689526,
-      "rank": 32,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 151306,
@@ -2475,6 +2483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126804,
+      "num": 129887,
+      "word": "东部战区回应美英舰过航台海并挑衅",
+      "onboard_time": 1757690125,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125798,
       "num": 125798,
       "word": "小栋哲这回拿的是图南剧本",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1757689947,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 120299,
-      "num": 129887,
-      "word": "东部战区回应美英舰过航台海并挑衅",
-      "onboard_time": 1757690125,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 120189,
@@ -2769,6 +2777,14 @@
       "onboard_time": 1757669784,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111732,
+      "num": 154411,
+      "word": "范丞丞躲过勾践剑躲不过叫爹",
+      "onboard_time": 1757690666,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111671,
@@ -2987,14 +3003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97357,
-      "num": 97357,
-      "word": "范丞丞躲过勾践剑躲不过叫爹",
-      "onboard_time": 1757690666,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97068,
       "num": 97068,
       "word": "火焰纹章",
@@ -3105,6 +3113,14 @@
       "onboard_time": 1757645125,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90509,
+      "num": 90509,
+      "word": "江西南丰县发生交通事故致5死",
+      "onboard_time": 1757691444,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 89828,
@@ -3529,6 +3545,14 @@
       "onboard_time": 1757598394,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47617,
+      "num": 214824,
+      "word": "国家实行公民终身法治教育制度",
+      "onboard_time": 1757691084,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47558,
