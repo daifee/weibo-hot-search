@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757687033615,
+  "endTime": 1757688081281,
   "band_list": [
     {
       "raw_hot": 3245783,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2297108,
-      "num": 715806,
+      "num": 943536,
       "word": "海底捞小便事件涉案者父母赔220万",
       "onboard_time": 1757675423,
       "rank": 15,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2213073,
-      "num": 880692,
+      "num": 964622,
       "word": "老乡鸡 躺赢",
       "onboard_time": 1757683767,
       "rank": 43,
@@ -307,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 723243,
+      "num": 511222,
+      "word": "宋雨琦王安宇互晒合照",
+      "onboard_time": 1757686825,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 707902,
       "num": 491484,
       "word": "西贝 3只蒸饺29元",
@@ -321,6 +329,14 @@
       "onboard_time": 1757659885,
       "rank": 20,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 702327,
+      "num": 1112372,
+      "word": "李嘉琦随身带血糖检测仪",
+      "onboard_time": 1757683949,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 696138,
@@ -369,14 +385,6 @@
       "onboard_time": 1757674885,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 647895,
-      "num": 469046,
-      "word": "李嘉琦随身带血糖检测仪",
-      "onboard_time": 1757683949,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 638550,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 585023,
-      "num": 352618,
+      "num": 544028,
       "word": "罗永浩还没吃过老乡鸡",
       "onboard_time": 1757684847,
       "rank": 6,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 584643,
-      "num": 527406,
+      "num": 556522,
       "word": "李昀锐 我眼睛脏了",
       "onboard_time": 1757683107,
       "rank": 7,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 496072,
-      "num": 357204,
+      "num": 454736,
       "word": "13岁奥莉近照",
       "onboard_time": 1757682266,
       "rank": 16,
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406418,
+      "num": 539372,
+      "word": "iPhone17 抢不到",
+      "onboard_time": 1757681846,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 401030,
       "num": 498748,
       "word": "花少7  耐人寻味的一分钟",
@@ -699,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377273,
+      "num": 377273,
+      "word": "李小鹏13岁女儿参加花滑比赛",
+      "onboard_time": 1757683707,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375407,
       "num": 366583,
       "word": "西贝店员称客流量受到影响",
@@ -737,14 +761,6 @@
       "onboard_time": 1757644347,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 355714,
-      "num": 310906,
-      "word": "宋雨琦王安宇互晒合照",
-      "onboard_time": 1757686825,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 348997,
@@ -803,28 +819,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 323201,
-      "num": 484041,
-      "word": "iPhone17 抢不到",
-      "onboard_time": 1757681846,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 321563,
-      "num": 321563,
+      "num": 524218,
       "word": "中美将在西班牙会谈",
       "onboard_time": 1757684367,
       "rank": 28,
       "category": "国际时政"
     },
     {
-      "raw_hot": 318653,
-      "num": 308615,
-      "word": "李小鹏13岁女儿参加花滑比赛",
-      "onboard_time": 1757683707,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 309604,
+      "num": 530257,
+      "word": "方可帮迪丽热巴做的发型",
+      "onboard_time": 1757687248,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295921,
@@ -833,6 +841,14 @@
       "onboard_time": 1757642665,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 293168,
+      "num": 388480,
+      "word": "罗永浩称西贝儿童餐年龄比儿童大",
+      "onboard_time": 1757686527,
+      "rank": 31,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 289760,
@@ -1091,6 +1107,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 223587,
+      "num": 223587,
+      "word": "张檬谈溺爱儿子",
+      "onboard_time": 1757687487,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223529,
       "num": 223529,
       "word": "830元15道菜到底贵不贵",
@@ -1187,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210690,
+      "num": 193802,
+      "word": "欧阳娜娜镜头一移出现刘昊然",
+      "onboard_time": 1757687667,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208071,
       "num": 226166,
       "word": "王珞丹抓娃娃抓到凌晨三点半",
@@ -1203,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206790,
+      "num": 206790,
+      "word": "孙颖莎3比1斯佐科斯",
+      "onboard_time": 1757687188,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203869,
       "num": 203869,
       "word": "iPhone17",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1757651368,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202397,
+      "num": 202397,
+      "word": "邓为直播",
+      "onboard_time": 1757687608,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202246,
@@ -1323,14 +1371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194128,
-      "num": 194128,
-      "word": "罗永浩称西贝儿童餐年龄比儿童大",
-      "onboard_time": 1757686527,
-      "rank": 31,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 193969,
       "num": 175681,
       "word": "福建舰通过台湾海峡",
@@ -1371,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191868,
+      "num": 191868,
+      "word": "中超",
+      "onboard_time": 1757687248,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191725,
       "num": 191725,
       "word": "考拉基因真争气啊",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1757684187,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189763,
+      "num": 192919,
+      "word": "王橹杰穆祉丞穿了同款",
+      "onboard_time": 1757687366,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 188093,
@@ -1473,6 +1529,14 @@
       "onboard_time": 1757654427,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 182349,
+      "num": 191970,
+      "word": "上海申花3比3山东泰山",
+      "onboard_time": 1757686768,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 182022,
@@ -1779,12 +1843,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162230,
-      "num": 162230,
-      "word": "上海申花3比3山东泰山",
-      "onboard_time": 1757686768,
+      "raw_hot": 161195,
+      "num": 161195,
+      "word": "橙色iPhone17ProMax难抢",
+      "onboard_time": 1757686289,
       "rank": 42,
-      "category": "体育"
+      "category": "数码"
+    },
+    {
+      "raw_hot": 160951,
+      "num": 160951,
+      "word": "西贝回应被质疑和罗永浩联合炒作",
+      "onboard_time": 1757687366,
+      "rank": 43,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 159718,
@@ -2076,7 +2148,7 @@
     },
     {
       "raw_hot": 144015,
-      "num": 222167,
+      "num": 224587,
       "word": "商务部就中美在西班牙举行会谈事答问",
       "onboard_time": 1757684068,
       "rank": 32,
@@ -2692,7 +2764,7 @@
     },
     {
       "raw_hot": 109398,
-      "num": 127558,
+      "num": 196339,
       "word": "吴磊回旋镖扎到了自己身上",
       "onboard_time": 1757685748,
       "rank": 48,
@@ -2916,7 +2988,7 @@
     },
     {
       "raw_hot": 90700,
-      "num": 311189,
+      "num": 462395,
       "word": "仰望U8L太鼎太豪华了",
       "onboard_time": 1757684728,
       "rank": 15,
@@ -2940,7 +3012,7 @@
     },
     {
       "raw_hot": 89376,
-      "num": 322186,
+      "num": 506423,
       "word": "iPhone17开售",
       "onboard_time": 1757686408,
       "rank": 12,
@@ -3000,6 +3072,14 @@
       "word": "女子用Excel搞定全屋定制图",
       "onboard_time": 1757654726,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84887,
+      "num": 181965,
+      "word": "999元买玉镯 只值30",
+      "onboard_time": 1757687848,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3148,7 +3228,7 @@
     },
     {
       "raw_hot": 74011,
-      "num": 181360,
+      "num": 192621,
       "word": "iPhone17买哪个颜色好看",
       "onboard_time": 1757684728,
       "rank": 33,
@@ -3224,6 +3304,14 @@
       "word": "24期免息买iPhone17真香",
       "onboard_time": 1757682325,
       "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 58410,
+      "num": 193405,
+      "word": "iPhone17买标准版还是Pro",
+      "onboard_time": 1757687909,
+      "rank": 32,
       "category": "数码"
     },
     {
@@ -3691,8 +3779,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2383,
-      "num": 398275,
+      "raw_hot": 4437,
+      "num": 965755,
       "word": "新疆70年",
       "onboard_time": 1757599474,
       "rank": 2,
