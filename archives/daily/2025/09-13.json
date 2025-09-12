@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757695313955,
+  "endTime": 1757697687817,
   "band_list": [
     {
       "raw_hot": 1574969,
@@ -75,12 +75,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320949,
-      "num": 320949,
+      "raw_hot": 323497,
+      "num": 496204,
       "word": "江西南丰县发生交通事故致5死",
       "onboard_time": 1757691444,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 322362,
+      "num": 251514,
+      "word": "暗杀柯克的凶手确认身份",
+      "onboard_time": 1757693185,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 285272,
+      "num": 264867,
+      "word": "祝绪丹祝杨幂所愿皆所得",
+      "onboard_time": 1757679863,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 271912,
@@ -99,20 +115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264867,
-      "num": 264867,
-      "word": "祝绪丹祝杨幂所愿皆所得",
-      "onboard_time": 1757679863,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258117,
       "num": 447922,
       "word": "iPhone17 抢不到",
       "onboard_time": 1757681846,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 246581,
+      "num": 246581,
+      "word": "10岁女儿非亲生胃癌父亲已去世",
+      "onboard_time": 1757691685,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241127,
@@ -163,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189241,
-      "num": 203828,
-      "word": "10岁女儿非亲生胃癌父亲已去世",
-      "onboard_time": 1757691685,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155327,
       "num": 203761,
       "word": "李小鹏13岁女儿参加花滑比赛",
@@ -185,14 +193,6 @@
       "onboard_time": 1757691625,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146636,
-      "num": 203334,
-      "word": "暗杀柯克的凶手确认身份",
-      "onboard_time": 1757693185,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 142797,
@@ -241,6 +241,14 @@
       "onboard_time": 1757694023,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117478,
+      "num": 260769,
+      "word": "花少7  耐人寻味的一分钟",
+      "onboard_time": 1757677883,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 112345,
@@ -297,14 +305,6 @@
       "onboard_time": 1757689766,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 94158,
-      "num": 203541,
-      "word": "花少7  耐人寻味的一分钟",
-      "onboard_time": 1757677883,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 89680,
@@ -395,12 +395,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44404,
+      "num": 110860,
+      "word": "汪苏泷桃园演唱会首唱",
+      "onboard_time": 1757696780,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42448,
       "num": 203135,
       "word": "为用户玩命试车的CEO",
       "onboard_time": 1757689526,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 39631,
+      "num": 110825,
+      "word": "浙江老板花3000元挽回约800万损失",
+      "onboard_time": 1757688865,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39176,
+      "num": 110785,
+      "word": "孙颖莎晋级澳门赛八强",
+      "onboard_time": 1757697620,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26994,
+      "num": 277238,
+      "word": "服贸会周末逛吃全攻略",
+      "onboard_time": 1757695641,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15672,
@@ -414,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#家国今日如你所愿#"
+    },
+    {
+      "word": "#习近平签署国家主席令#"
     }
   ]
 }
