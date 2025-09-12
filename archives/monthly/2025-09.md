@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 23:38:01
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 00:27:33
 </p>
 </blockquote>
 <p>
@@ -2409,6 +2409,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%90%83%E8%A5%BF%E8%B4%9D%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%8F%9C%E5%8D%95%E9%A3%9F%E5%AE%A2%E5%8F%91%E5%A3%B0%23" target="weibo">
+第一批吃西贝罗永浩菜单食客发声（热度：770904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%98%85%E5%85%B5%E6%8A%93%E6%97%A5%E6%9C%AC%E6%88%98%E4%BF%98%E6%B8%B8%E8%A1%97%23" target="weibo">
 俄罗斯阅兵抓日本战俘游街（热度：770499）
 </a>
@@ -2655,12 +2661,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%90%83%E8%A5%BF%E8%B4%9D%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%8F%9C%E5%8D%95%E9%A3%9F%E5%AE%A2%E5%8F%91%E5%A3%B0%23" target="weibo">
-第一批吃西贝罗永浩菜单食客发声（热度：722349）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E6%B2%BB%E7%9B%9F%E5%8F%8B%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%23" target="weibo">
 特朗普政治盟友遭枪击身亡（热度：720206）
 </a>
@@ -2897,6 +2897,12 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E4%B8%80%E7%9B%B4%E8%A2%AB%E5%86%85%E5%A8%B1%E4%BD%8E%E4%BC%B0%E7%9A%84%E7%BE%8E%E8%B2%8C%23" target="weibo">
 李兰迪一直被内娱低估的美貌（热度：678342）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%A1%A8%E6%80%81%E4%BB%A572%E5%B0%8F%E6%97%B6%E5%86%85%E8%A2%AD%E5%87%BB6%E5%9B%BD%23" target="weibo">
+外交部表态以72小时内袭击6国（热度：676295）
 </a>
 </li>
 
@@ -4341,6 +4347,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E8%A5%BF%E8%B4%9D%E4%B8%80%E4%B8%AA%E9%A6%92%E5%A4%B4%E5%8D%9621%E5%85%83%23" target="weibo">
+罗永浩吐槽西贝一个馒头卖21元（热度：478803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B8%8A%E8%B4%B5%E5%B7%9E%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9F%A5%23" target="weibo">
 云上贵州董事长被查（热度：478490）
 </a>
@@ -5165,12 +5177,6 @@ iPhone14机主是灵动岛岛主（热度：435707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E7%BA%A6%E9%98%85%E5%85%B5%E7%9B%B4%E6%92%AD%23" target="weibo">
 预约阅兵直播（热度：418284）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%A1%A8%E6%80%81%E4%BB%A572%E5%B0%8F%E6%97%B6%E5%86%85%E8%A2%AD%E5%87%BB6%E5%9B%BD%23" target="weibo">
-外交部表态以72小时内袭击6国（热度：417528）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Metal杂志（热度：366669）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%BC%E6%B8%B8%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%89%93%23" target="weibo">
 中国导游在日本被打（热度：364601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E4%B8%BA%E6%8B%A5%E6%9C%89%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93%E6%88%98%E7%95%A5%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%9B%BD%E5%AE%B6%23" target="weibo">
-我国成为拥有三位一体战略核力量国家（热度：364175）
 </a>
 </li>
 
