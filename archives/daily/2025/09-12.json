@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757652089904,
+  "endTime": 1757654608004,
   "band_list": [
     {
       "raw_hot": 1357377,
@@ -25,6 +25,14 @@
       "onboard_time": 1757636127,
       "rank": 3,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1038057,
+      "num": 390221,
+      "word": "父亲曝女儿被虐待致死可怕细节",
+      "onboard_time": 1757651187,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1006120,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 872340,
-      "num": 872340,
+      "num": 1133886,
       "word": "西贝已获预制食品相关专利授权",
       "onboard_time": 1757649206,
       "rank": 1,
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590101,
+      "num": 590101,
+      "word": "李佳琦把赵昭仪养的很好",
+      "onboard_time": 1757645845,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531797,
       "num": 420622,
       "word": "韦雪整容后脸不对称",
@@ -123,19 +139,27 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 502936,
-      "num": 422353,
-      "word": "李佳琦把赵昭仪养的很好",
-      "onboard_time": 1757645845,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 492374,
       "num": 913131,
       "word": "研究生多到宿舍不够住",
       "onboard_time": 1757602053,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479788,
+      "num": 359046,
+      "word": "黄多多 天选文艺片女主脸",
+      "onboard_time": 1757651909,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 478490,
+      "num": 478490,
+      "word": "云上贵州董事长被查",
+      "onboard_time": 1757650347,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -179,12 +203,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 400676,
-      "num": 420634,
-      "word": "云上贵州董事长被查",
-      "onboard_time": 1757650347,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 410113,
+      "num": 410113,
+      "word": "朱一龙现场迎接志愿军烈士",
+      "onboard_time": 1757650406,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 395324,
@@ -193,14 +217,6 @@
       "onboard_time": 1757598934,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 390221,
-      "num": 390221,
-      "word": "父亲曝女儿被虐待致死可怕细节",
-      "onboard_time": 1757651187,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 389178,
@@ -227,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 350918,
+      "num": 350918,
+      "word": "猫就这样凹凸凹凸路过了所有人",
+      "onboard_time": 1757652627,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347157,
       "num": 347157,
       "word": "迪丽热巴连续12年卡点为杨幂庆生",
@@ -235,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326081,
+      "num": 363314,
+      "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
+      "onboard_time": 1757650466,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295921,
       "num": 295921,
       "word": "日军细菌战受害者整夜叫痛",
       "onboard_time": 1757642665,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 289207,
-      "num": 389485,
-      "word": "朱一龙现场迎接志愿军烈士",
-      "onboard_time": 1757650406,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 287779,
@@ -275,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278294,
+      "num": 217036,
+      "word": "罗永浩虽是大V但有吐槽权",
+      "onboard_time": 1757653825,
+      "rank": 30,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 275710,
       "num": 275710,
       "word": "提交身份证复印件要写明用途",
       "onboard_time": 1757639187,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273166,
+      "num": 273166,
+      "word": "孙燕姿老鼠干",
+      "onboard_time": 1757653407,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 269924,
@@ -299,6 +339,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 263511,
+      "num": 263511,
+      "word": "特朗普出席911纪念仪式右脸下垂",
+      "onboard_time": 1757654007,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258662,
       "num": 258662,
       "word": "梁伟铿王昶杀疯了",
@@ -313,14 +361,6 @@
       "onboard_time": 1757593000,
       "rank": 22,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 252156,
-      "num": 252156,
-      "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
-      "onboard_time": 1757650466,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249636,
@@ -352,6 +392,14 @@
       "word": "赴山海第1集第14分25秒",
       "onboard_time": 1757593300,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237920,
+      "num": 352825,
+      "word": "原来白敬亭也不能笑着离开理发店",
+      "onboard_time": 1757652507,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -403,6 +451,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 223529,
+      "num": 223529,
+      "word": "830元15道菜到底贵不贵",
+      "onboard_time": 1757652569,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222184,
       "num": 222184,
       "word": "半佛",
@@ -416,6 +472,14 @@
       "word": "预制菜",
       "onboard_time": 1757648187,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219621,
+      "num": 362086,
+      "word": "住合租房生娃当事人称未影响其他人",
+      "onboard_time": 1757651549,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -433,6 +497,14 @@
       "onboard_time": 1757633785,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202846,
+      "num": 202846,
+      "word": "男子钓上79斤大鱼上街显摆20分钟",
+      "onboard_time": 1757651368,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202246,
@@ -515,12 +587,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 180909,
-      "num": 180909,
-      "word": "男子钓上79斤大鱼上街显摆20分钟",
-      "onboard_time": 1757651368,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 180888,
+      "num": 180888,
+      "word": "被弃养的孩子笑着说妈妈我爱你",
+      "onboard_time": 1757653890,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175326,
+      "num": 217102,
+      "word": "披荆斩棘",
+      "onboard_time": 1757653166,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 174344,
@@ -529,6 +609,14 @@
       "onboard_time": 1757647286,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173677,
+      "num": 173677,
+      "word": "韩国博主用AI恶补A股知识",
+      "onboard_time": 1757653766,
+      "rank": 40,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 173153,
@@ -627,20 +715,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164374,
+      "num": 164374,
+      "word": "西贝",
+      "onboard_time": 1757638227,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162322,
       "num": 209475,
       "word": "泰剧现在已经这么炸裂了吗",
       "onboard_time": 1757648726,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160873,
-      "num": 160873,
-      "word": "西贝",
-      "onboard_time": 1757638227,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159718,
@@ -731,6 +819,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145532,
+      "num": 346685,
+      "word": "预制菜 强制明示",
+      "onboard_time": 1757653825,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145295,
+      "num": 145295,
+      "word": "猫妈妈把猫崽叼到床上和人类一起睡觉",
+      "onboard_time": 1757652569,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144989,
       "num": 144989,
       "word": "中国资产彻底爆发",
@@ -747,12 +851,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143893,
-      "num": 143893,
-      "word": "黄多多 天选文艺片女主脸",
-      "onboard_time": 1757651909,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 142154,
+      "num": 142154,
+      "word": "西贝创始人曾说好菜都是预制的",
+      "onboard_time": 1757652687,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140334,
@@ -787,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135140,
+      "num": 179942,
+      "word": "老十七用上了iPhone17",
+      "onboard_time": 1757653890,
+      "rank": 36,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 134815,
       "num": 134815,
       "word": "高质量完成十四五规划系列发布会",
@@ -809,6 +921,14 @@
       "onboard_time": 1757648006,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134172,
+      "num": 186303,
+      "word": "为烈士遗骸护航规格再次升级",
+      "onboard_time": 1757654427,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134026,
@@ -963,12 +1083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106363,
+      "num": 343039,
+      "word": "广州一工厂超半数员工是尿毒症患者",
+      "onboard_time": 1757653466,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103943,
       "num": 226740,
       "word": "福建舰跨区试验训练系正常安排",
       "onboard_time": 1757633844,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101081,
+      "num": 342016,
+      "word": "厦门暴雨致积水一男子触电身亡",
+      "onboard_time": 1757653350,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99551,
@@ -1115,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83421,
+      "num": 176284,
+      "word": "建议不让老人接送孩子那谁来接送",
+      "onboard_time": 1757653527,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83032,
       "num": 902292,
       "word": "特朗普政治盟友遭枪杀警察抓错人",
@@ -1171,6 +1315,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 79004,
+      "num": 349582,
+      "word": "淘宝闪购买iPhone17送17杯奶茶",
+      "onboard_time": 1757653766,
+      "rank": 15,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 73831,
       "num": 897902,
       "word": "王辰被免去中国工程院副院长职务",
@@ -1203,11 +1355,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64018,
-      "num": 362086,
-      "word": "住合租房生娃当事人称未影响其他人",
-      "onboard_time": 1757651549,
-      "rank": 19,
+      "raw_hot": 69406,
+      "num": 175248,
+      "word": "女婴遭虫咬多次抢救全身换血",
+      "onboard_time": 1757654248,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1401,6 +1553,14 @@
       "onboard_time": 1757615596,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25664,
+      "num": 177701,
+      "word": "已婚女村民 分红难题",
+      "onboard_time": 1757653825,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22977,
