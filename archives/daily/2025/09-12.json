@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757669142712,
+  "endTime": 1757669931893,
   "band_list": [
     {
       "raw_hot": 2493648,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 667634,
+      "num": 667634,
+      "word": "西贝要求所有员工品尝罗永浩菜单",
+      "onboard_time": 1757669303,
+      "rank": 3,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 593996,
       "num": 499062,
       "word": "虞书欣双轨过审了",
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589924,
+      "num": 589924,
+      "word": "罗永浩西贝之争是一场信任僵局",
+      "onboard_time": 1757659885,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 585598,
       "num": 585598,
       "word": "西贝董事长称骂不过罗永浩",
@@ -249,14 +265,6 @@
       "onboard_time": 1757657426,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 561620,
-      "num": 561620,
-      "word": "罗永浩西贝之争是一场信任僵局",
-      "onboard_time": 1757659885,
-      "rank": 20,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 531797,
@@ -331,6 +339,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 445245,
+      "num": 445245,
+      "word": "国家财政1000亿元发放育儿补贴",
+      "onboard_time": 1757665224,
+      "rank": 31,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 435707,
+      "num": 435707,
+      "word": "iPhone14机主是灵动岛岛主",
+      "onboard_time": 1757666064,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 423042,
       "num": 912167,
       "word": "车澈曾当李嘉格面抱乃万",
@@ -371,14 +395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 397125,
-      "num": 397125,
-      "word": "国家财政1000亿元发放育儿补贴",
-      "onboard_time": 1757665224,
-      "rank": 31,
-      "category": "民生新闻,母婴育儿"
-    },
-    {
       "raw_hot": 395324,
       "num": 395324,
       "word": "一名网红被杀美国为何会降半旗",
@@ -417,14 +433,6 @@
       "onboard_time": 1757668164,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379304,
-      "num": 379304,
-      "word": "iPhone14机主是灵动岛岛主",
-      "onboard_time": 1757666064,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 370664,
@@ -595,20 +603,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 265063,
+      "num": 333298,
+      "word": "宁静左手柯淳右手邵子恒",
+      "onboard_time": 1757667444,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263077,
       "num": 263077,
       "word": "老师批评迟到学生被指官威大",
       "onboard_time": 1757655866,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260203,
-      "num": 333298,
-      "word": "宁静左手柯淳右手邵子恒",
-      "onboard_time": 1757667444,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 258662,
@@ -625,6 +633,14 @@
       "onboard_time": 1757593000,
       "rank": 22,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 250320,
+      "num": 318781,
+      "word": "赴山海16.8%爆开",
+      "onboard_time": 1757668646,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 249636,
@@ -673,6 +689,14 @@
       "onboard_time": 1757564504,
       "rank": 12,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 232665,
+      "num": 492267,
+      "word": "赴山海",
+      "onboard_time": 1757580812,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 228648,
@@ -739,20 +763,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217954,
+      "num": 217954,
+      "word": "果郡王的果是苹果的果",
+      "onboard_time": 1757666123,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216222,
       "num": 216222,
       "word": "中国航母在有关海域活动完全合法",
       "onboard_time": 1757665705,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 214022,
-      "num": 492267,
-      "word": "赴山海",
-      "onboard_time": 1757580812,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 212872,
@@ -769,14 +793,6 @@
       "onboard_time": 1757664803,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208538,
-      "num": 208538,
-      "word": "果郡王的果是苹果的果",
-      "onboard_time": 1757666123,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 208071,
@@ -816,14 +832,6 @@
       "word": "赴山海直播",
       "onboard_time": 1757665705,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199202,
-      "num": 318781,
-      "word": "赴山海16.8%爆开",
-      "onboard_time": 1757668646,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -867,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194407,
+      "num": 191756,
+      "word": "王楚钦让球迷当鹰眼",
+      "onboard_time": 1757669303,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194345,
       "num": 194345,
       "word": "迪丽热巴大冒险家芭莎金九封面",
@@ -899,12 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191725,
+      "num": 191725,
+      "word": "考拉基因真争气啊",
+      "onboard_time": 1757666364,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191345,
       "num": 221506,
       "word": "李沁 令人心动的offer7",
       "onboard_time": 1757662704,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190256,
+      "num": 190256,
+      "word": "INFJ 丝瓜汤人格",
+      "onboard_time": 1757665584,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 187975,
@@ -923,12 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186716,
-      "num": 176517,
-      "word": "考拉基因真争气啊",
-      "onboard_time": 1757666364,
+      "raw_hot": 185415,
+      "num": 185415,
+      "word": "西贝儿童餐",
+      "onboard_time": 1757669123,
       "rank": 49,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184960,
@@ -1004,7 +1036,7 @@
     },
     {
       "raw_hot": 177716,
-      "num": 177716,
+      "num": 192147,
       "word": "薛凯琪 我的脸不是给你们这样用的",
       "onboard_time": 1757668646,
       "rank": 29,
@@ -1025,14 +1057,6 @@
       "onboard_time": 1757653166,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174354,
-      "num": 174354,
-      "word": "INFJ 丝瓜汤人格",
-      "onboard_time": 1757665584,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 174344,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1757647405,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169074,
+      "num": 330777,
+      "word": "长征十号第二次系留点火试验成功",
+      "onboard_time": 1757667204,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168406,
@@ -1176,14 +1208,6 @@
       "word": "福建舰赴南海开展科研试验和训练",
       "onboard_time": 1757634085,
       "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 163880,
-      "num": 330777,
-      "word": "长征十号第二次系留点火试验成功",
-      "onboard_time": 1757667204,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -1276,7 +1300,7 @@
     },
     {
       "raw_hot": 149872,
-      "num": 149872,
+      "num": 247738,
       "word": "十四五财政民生投入近100万亿元",
       "onboard_time": 1757662763,
       "rank": 33,
@@ -1411,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140338,
+      "num": 140338,
+      "word": "陈昊宇真的被吴彦姝养的很好",
+      "onboard_time": 1757668763,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140334,
       "num": 485299,
       "word": "薛之谦 那个少年不曾被世界催眠",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1757635466,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138513,
-      "num": 138513,
-      "word": "陈昊宇真的被吴彦姝养的很好",
-      "onboard_time": 1757668763,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 137961,
@@ -1595,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125798,
+      "num": 125798,
+      "word": "小栋哲这回拿的是图南剧本",
+      "onboard_time": 1757669663,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125790,
       "num": 133022,
       "word": "成毅赴山海质感",
@@ -1755,14 +1787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 113906,
-      "num": 113906,
-      "word": "西贝儿童餐",
-      "onboard_time": 1757669123,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113773,
       "num": 113773,
       "word": "王曼昱3比2早田希娜",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1757642605,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112002,
+      "num": 112002,
+      "word": "王楚钦问这是在直播吗",
+      "onboard_time": 1757669784,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 111671,
@@ -2145,6 +2177,22 @@
       "onboard_time": 1757667864,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76024,
+      "num": 126422,
+      "word": "奇瑞行业首推车主健康守护计划",
+      "onboard_time": 1757669903,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 75551,
+      "num": 125911,
+      "word": "苹果高管怎么看网购iPhone",
+      "onboard_time": 1757669903,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 73831,
