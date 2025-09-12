@@ -1,0 +1,410 @@
+{
+  "runTime": 1757646514262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907234,
+        "num": 1145157,
+        "word": "罗永浩奖励10万征集西贝预制菜线索",
+        "onboard_time": 1757642665,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 630814,
+        "num": 630814,
+        "word": "龚俊 李沁你也是",
+        "onboard_time": 1757644645,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8477,
+        "num": 404033,
+        "word": "山河如愿英雄回家",
+        "onboard_time": 1757562035,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 699880,
+        "num": 396618,
+        "word": "罗永浩称难受的肯定不是我",
+        "onboard_time": 1757639125,
+        "rank": 3,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 334757,
+        "num": 334757,
+        "word": "有小学建议不让老人接送小孩",
+        "onboard_time": 1757604930,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295921,
+        "num": 295921,
+        "word": "日军细菌战受害者整夜叫痛",
+        "onboard_time": 1757642665,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258662,
+        "num": 258662,
+        "word": "梁伟铿王昶杀疯了",
+        "onboard_time": 1757645065,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257141,
+        "num": 257141,
+        "word": "提交身份证复印件要写明用途",
+        "onboard_time": 1757639187,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229548,
+        "num": 246245,
+        "word": "迪丽热巴连续12年卡点为杨幂庆生",
+        "onboard_time": 1757640506,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246208,
+        "num": 246208,
+        "word": "刑事立案下降25.7%",
+        "onboard_time": 1757645727,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237533,
+        "num": 237533,
+        "word": "罗永浩西贝之争倒逼餐饮透明化",
+        "onboard_time": 1757644046,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 332577,
+        "num": 235072,
+        "word": "原来会计才是吃瓜最多的行业",
+        "onboard_time": 1757644046,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272986,
+        "num": 234889,
+        "word": "丁禹兮为什么要用舌头翻书",
+        "onboard_time": 1757637927,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222184,
+        "num": 222184,
+        "word": "半佛",
+        "onboard_time": 1757639187,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177363,
+        "num": 177363,
+        "word": "世界第二网红来了天津也得摊煎饼",
+        "onboard_time": 1757643926,
+        "rank": 14,
+        "category": "网红,幽默"
+      },
+      {
+        "raw_hot": 171868,
+        "num": 171868,
+        "word": "女孩遭体罚身亡老师聊天记录公布",
+        "onboard_time": 1757600372,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170736,
+        "num": 170736,
+        "word": "英雄回家",
+        "onboard_time": 1757603433,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169951,
+        "num": 169951,
+        "word": "不眠日定档",
+        "onboard_time": 1757642845,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166757,
+        "num": 166757,
+        "word": "电影风林火山定档国庆",
+        "onboard_time": 1757645125,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160917,
+        "num": 166192,
+        "word": "成毅路人盘",
+        "onboard_time": 1757646026,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165840,
+        "num": 165840,
+        "word": "接30位烈士遗骸回国",
+        "onboard_time": 1757639367,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165620,
+        "num": 165620,
+        "word": "iPhoneAir在华发售延期",
+        "onboard_time": 1757640086,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 697628,
+        "num": 164061,
+        "word": "罗永浩当面说挺好背后说恶心",
+        "onboard_time": 1757636127,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 538343,
+        "num": 159375,
+        "word": "热巴零点祝杨幂万事遂意",
+        "onboard_time": 1757632522,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383538,
+        "num": 154058,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 24,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 328128,
+        "num": 150969,
+        "word": "沈阳车辆不从烈士遗骸上方驶过",
+        "onboard_time": 1757644347,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 807995,
+        "num": 145772,
+        "word": "汤臣一品老化迹象",
+        "onboard_time": 1757637388,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285085,
+        "num": 143891,
+        "word": "李佳琦把赵昭仪养的很好",
+        "onboard_time": 1757645845,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140501,
+        "num": 140501,
+        "word": "电影流浪地球第三部上下集",
+        "onboard_time": 1757642485,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113846,
+        "num": 139569,
+        "word": "王一博真的来贵州了",
+        "onboard_time": 1757645366,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196458,
+        "num": 139255,
+        "word": "西贝将起诉罗永浩",
+        "onboard_time": 1757593000,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 195546,
+        "num": 137318,
+        "word": "西贝晒出罗永浩消费账单",
+        "onboard_time": 1757601696,
+        "rank": 31,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 179569,
+        "num": 136201,
+        "word": "西贝将上线罗永浩菜单",
+        "onboard_time": 1757598394,
+        "rank": 32,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 167699,
+        "num": 135489,
+        "word": "运20机舱内对烈士广播",
+        "onboard_time": 1757643685,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134825,
+        "num": 134825,
+        "word": "今天我们带你回家",
+        "onboard_time": 1757637688,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128976,
+        "num": 128976,
+        "word": "西贝",
+        "onboard_time": 1757638227,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125758,
+        "num": 125758,
+        "word": "福建舰通过台湾海峡",
+        "onboard_time": 1757641345,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119965,
+        "num": 119965,
+        "word": "地铁被疑偷拍男子不认可女子道歉",
+        "onboard_time": 1757637989,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111272,
+        "num": 111272,
+        "word": "细菌战受害者遗属血泪证言",
+        "onboard_time": 1757644046,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110369,
+        "num": 110369,
+        "word": "美联邦调查局公布柯克枪击案嫌犯照",
+        "onboard_time": 1757636069,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110147,
+        "num": 110147,
+        "word": "志愿军老兵高唱我的祖国迎接忠魂归乡",
+        "onboard_time": 1757639305,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101736,
+        "num": 101736,
+        "word": "运20飞行员和地面对话泪目",
+        "onboard_time": 1757645786,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100366,
+        "num": 100366,
+        "word": "娜扎出场就是白月光姐姐级别",
+        "onboard_time": 1757642605,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99551,
+        "num": 99551,
+        "word": "特斯拉涨6.04%",
+        "onboard_time": 1757646147,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97756,
+        "num": 97756,
+        "word": "福建舰跨区试验训练系正常安排",
+        "onboard_time": 1757633844,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96509,
+        "num": 96509,
+        "word": "一直很佩服用26键打字的人",
+        "onboard_time": 1757633844,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 95342,
+        "num": 95342,
+        "word": "福建舰赴南海开展科研试验和训练",
+        "onboard_time": 1757634085,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88488,
+        "num": 88488,
+        "word": "安宫牛黄丸能治疗中风",
+        "onboard_time": 1757645187,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88153,
+        "num": 88153,
+        "word": "王曼昱抬头看那束光为你亮着",
+        "onboard_time": 1757644707,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85829,
+        "num": 85829,
+        "word": "女子称665万买房买到了猪窝里",
+        "onboard_time": 1757632702,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让和平的薪火代代相传#"
+    }
+  }
+}

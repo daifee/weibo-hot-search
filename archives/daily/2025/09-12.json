@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757645997970,
+  "endTime": 1757646514262,
   "band_list": [
     {
       "raw_hot": 1357377,
@@ -27,20 +27,20 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 907234,
+      "num": 1145157,
+      "word": "罗永浩奖励10万征集西贝预制菜线索",
+      "onboard_time": 1757642665,
+      "rank": 0,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 870529,
       "num": 915063,
       "word": "热巴零点祝杨幂万事遂意",
       "onboard_time": 1757632522,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 833155,
-      "num": 1133304,
-      "word": "罗永浩奖励10万征集西贝预制菜线索",
-      "onboard_time": 1757642665,
-      "rank": 0,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 751598,
@@ -59,8 +59,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 630814,
+      "num": 630814,
+      "word": "龚俊 李沁你也是",
+      "onboard_time": 1757644645,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 591992,
-      "num": 226316,
+      "num": 234889,
       "word": "丁禹兮为什么要用舌头翻书",
       "onboard_time": 1757637927,
       "rank": 10,
@@ -73,14 +81,6 @@
       "onboard_time": 1757602053,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 477692,
-      "num": 477692,
-      "word": "龚俊 李沁你也是",
-      "onboard_time": 1757644645,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 475193,
@@ -123,12 +123,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332577,
+      "num": 235072,
+      "word": "原来会计才是吃瓜最多的行业",
+      "onboard_time": 1757644046,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 328128,
+      "num": 167755,
+      "word": "沈阳车辆不从烈士遗骸上方驶过",
+      "onboard_time": 1757644347,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 295921,
+      "num": 295921,
+      "word": "日军细菌战受害者整夜叫痛",
+      "onboard_time": 1757642665,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 287779,
       "num": 225620,
       "word": "地铁被疑偷拍男子不认可女子道歉",
       "onboard_time": 1757637989,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285085,
+      "num": 143891,
+      "word": "李佳琦把赵昭仪养的很好",
+      "onboard_time": 1757645845,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 281968,
@@ -155,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266625,
-      "num": 167755,
-      "word": "沈阳车辆不从烈士遗骸上方驶过",
-      "onboard_time": 1757644347,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 265347,
       "num": 914692,
       "word": "局座白发",
@@ -171,12 +195,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 261653,
-      "num": 200825,
-      "word": "原来会计才是吃瓜最多的行业",
-      "onboard_time": 1757644046,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 258662,
+      "num": 258662,
+      "word": "梁伟铿王昶杀疯了",
+      "onboard_time": 1757645065,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 255192,
@@ -185,6 +209,14 @@
       "onboard_time": 1757593000,
       "rank": 22,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 246208,
+      "num": 246208,
+      "word": "刑事立案下降25.7%",
+      "onboard_time": 1757645727,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239785,
@@ -203,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237533,
+      "num": 237533,
+      "word": "罗永浩西贝之争倒逼餐饮透明化",
+      "onboard_time": 1757644046,
+      "rank": 9,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 235790,
       "num": 897334,
       "word": "赴山海开播",
@@ -217,14 +257,6 @@
       "onboard_time": 1757564504,
       "rank": 12,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 232367,
-      "num": 232367,
-      "word": "日军细菌战受害者整夜叫痛",
-      "onboard_time": 1757642665,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 228648,
@@ -243,12 +275,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 224485,
-      "num": 199183,
-      "word": "梁伟铿王昶杀疯了",
-      "onboard_time": 1757645065,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 222184,
+      "num": 222184,
+      "word": "半佛",
+      "onboard_time": 1757639187,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 206845,
@@ -257,14 +289,6 @@
       "onboard_time": 1757633785,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 206201,
-      "num": 206201,
-      "word": "半佛",
-      "onboard_time": 1757639187,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 199015,
@@ -288,14 +312,6 @@
       "word": "西贝将上线罗永浩菜单",
       "onboard_time": 1757598394,
       "rank": 6,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 196770,
-      "num": 205547,
-      "word": "罗永浩西贝之争倒逼餐饮透明化",
-      "onboard_time": 1757644046,
-      "rank": 9,
       "category": "民生新闻,互联网"
     },
     {
@@ -331,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177363,
+      "num": 177363,
+      "word": "世界第二网红来了天津也得摊煎饼",
+      "onboard_time": 1757643926,
+      "rank": 19,
+      "category": "网红,幽默"
+    },
+    {
       "raw_hot": 173153,
       "num": 173153,
       "word": "一直很佩服用26键打字的人",
@@ -355,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170736,
+      "num": 916814,
+      "word": "英雄回家",
+      "onboard_time": 1757603433,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168406,
       "num": 907177,
       "word": "女子称665万买房买到了猪窝里",
@@ -371,12 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166929,
-      "num": 166929,
-      "word": "刑事立案下降25.7%",
-      "onboard_time": 1757645727,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 167699,
+      "num": 161671,
+      "word": "运20机舱内对烈士广播",
+      "onboard_time": 1757643685,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 166757,
+      "num": 168652,
+      "word": "电影风林火山定档国庆",
+      "onboard_time": 1757645125,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 166174,
@@ -395,12 +435,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 161671,
-      "num": 161671,
-      "word": "运20机舱内对烈士广播",
-      "onboard_time": 1757643685,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 160917,
+      "num": 166192,
+      "word": "成毅路人盘",
+      "onboard_time": 1757646026,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 159718,
@@ -417,22 +457,6 @@
       "onboard_time": 1757593657,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152937,
-      "num": 168652,
-      "word": "电影风林火山定档国庆",
-      "onboard_time": 1757645125,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 152240,
-      "num": 168596,
-      "word": "世界第二网红来了天津也得摊煎饼",
-      "onboard_time": 1757643926,
-      "rank": 19,
-      "category": "网红,幽默"
     },
     {
       "raw_hot": 151306,
@@ -515,22 +539,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 131006,
-      "num": 916814,
-      "word": "英雄回家",
-      "onboard_time": 1757603433,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 129519,
-      "num": 129519,
-      "word": "李佳琦把赵昭仪养的很好",
-      "onboard_time": 1757645845,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128338,
       "num": 896008,
       "word": "勾践卧薪尝胆有考古实证了",
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111272,
+      "num": 111272,
+      "word": "细菌战受害者遗属血泪证言",
+      "onboard_time": 1757644046,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110682,
       "num": 110682,
       "word": "运20飞行员和地面对话泪目",
@@ -627,12 +643,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 99061,
-      "num": 99061,
-      "word": "细菌战受害者遗属血泪证言",
-      "onboard_time": 1757644046,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 99551,
+      "num": 99551,
+      "word": "特斯拉涨6.04%",
+      "onboard_time": 1757646147,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 98472,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1757633724,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8477,
+      "num": 404033,
+      "word": "山河如愿英雄回家",
+      "onboard_time": 1757562035,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
