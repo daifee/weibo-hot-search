@@ -1,7 +1,15 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757659687134,
+  "endTime": 1757661803355,
   "band_list": [
+    {
+      "raw_hot": 1779130,
+      "num": 576249,
+      "word": "杨幂回复热巴",
+      "onboard_time": 1757659044,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1357377,
       "num": 1357377,
@@ -84,27 +92,27 @@
     },
     {
       "raw_hot": 861041,
-      "num": 409797,
+      "num": 576229,
       "word": "女老板看上男下属花300万让其离婚",
       "onboard_time": 1757655806,
       "rank": 3,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 791697,
-      "num": 407103,
-      "word": "刘诗诗给杨幂送生日祝福",
-      "onboard_time": 1757658325,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 754215,
-      "num": 367191,
+      "raw_hot": 851777,
+      "num": 370532,
       "word": "购买一部iPhone17你要工作多久",
       "onboard_time": 1757656168,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 791697,
+      "num": 415076,
+      "word": "刘诗诗给杨幂送生日祝福",
+      "onboard_time": 1757658325,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 751598,
@@ -121,6 +129,14 @@
       "onboard_time": 1757604930,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 678342,
+      "num": 560935,
+      "word": "李兰迪一直被内娱低估的美貌",
+      "onboard_time": 1757658265,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 593996,
@@ -152,6 +168,22 @@
       "word": "李佳琦把赵昭仪养的很好",
       "onboard_time": 1757645845,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 585598,
+      "num": 585598,
+      "word": "西贝董事长称骂不过罗永浩",
+      "onboard_time": 1757656168,
+      "rank": 27,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 572997,
+      "num": 572997,
+      "word": "终于有人当黄子韬面说e不发音",
+      "onboard_time": 1757657426,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -187,20 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 510032,
-      "num": 367156,
-      "word": "杨幂回复热巴",
-      "onboard_time": 1757659044,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 492374,
       "num": 913131,
       "word": "研究生多到宿舍不够住",
       "onboard_time": 1757602053,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485885,
+      "num": 239729,
+      "word": "罗永浩西贝之争是一场信任僵局",
+      "onboard_time": 1757659885,
+      "rank": 20,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 478490,
@@ -307,28 +339,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 370852,
+      "num": 370852,
+      "word": "浙这个字居然组不了任何词",
+      "onboard_time": 1757659945,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370664,
       "num": 370664,
       "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
       "onboard_time": 1757650466,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367265,
-      "num": 367265,
-      "word": "李兰迪一直被内娱低估的美貌",
-      "onboard_time": 1757658265,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 366687,
-      "num": 366687,
-      "word": "终于有人当黄子韬面说e不发音",
-      "onboard_time": 1757657426,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 364979,
@@ -353,6 +377,14 @@
       "onboard_time": 1757640506,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332621,
+      "num": 332621,
+      "word": "王楚钦北影北舞优秀毕业生",
+      "onboard_time": 1757660486,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 327212,
@@ -387,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284754,
+      "num": 351503,
+      "word": "墨西哥拟对中国等国征收50%关税",
+      "onboard_time": 1757656825,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 281968,
       "num": 281968,
       "word": "罗永浩说碰到蠢人心里累",
@@ -401,14 +441,6 @@
       "onboard_time": 1757581711,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279803,
-      "num": 351503,
-      "word": "墨西哥拟对中国等国征收50%关税",
-      "onboard_time": 1757656825,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 278294,
@@ -465,6 +497,14 @@
       "onboard_time": 1757593000,
       "rank": 22,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 252139,
+      "num": 252139,
+      "word": "花少7真的放母带了",
+      "onboard_time": 1757661625,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 249636,
@@ -675,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188112,
-      "num": 188112,
-      "word": "西贝董事长称骂不过罗永浩",
-      "onboard_time": 1757656168,
-      "rank": 27,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 187975,
       "num": 185048,
       "word": "鹿晗把粉丝的灯牌改了一个字",
@@ -785,6 +817,14 @@
       "onboard_time": 1757633844,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 173110,
+      "num": 173110,
+      "word": "西贝",
+      "onboard_time": 1757638227,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172093,
@@ -899,14 +939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 164374,
-      "num": 164374,
-      "word": "西贝",
-      "onboard_time": 1757638227,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162322,
       "num": 209475,
       "word": "泰剧现在已经这么炸裂了吗",
@@ -937,6 +969,14 @@
       "onboard_time": 1757651126,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 157277,
+      "num": 157277,
+      "word": "女子吃饭被陌生男子摸头辱骂",
+      "onboard_time": 1757658984,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154782,
@@ -1083,12 +1123,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137961,
+      "num": 137961,
+      "word": "张泽禹C位",
+      "onboard_time": 1757660244,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136581,
       "num": 136581,
       "word": "婚礼上把不喜欢的环节取消了",
       "onboard_time": 1757647705,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 136128,
+      "num": 136128,
+      "word": "时代峰峻在重庆成立新公司",
+      "onboard_time": 1757660424,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 135600,
@@ -1100,7 +1156,7 @@
     },
     {
       "raw_hot": 135140,
-      "num": 179942,
+      "num": 404707,
       "word": "老十七用上了iPhone17",
       "onboard_time": 1757653890,
       "rank": 36,
@@ -1163,6 +1219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130513,
+      "num": 130513,
+      "word": "因为iPhone17才明白婚姻的意义",
+      "onboard_time": 1757661025,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128578,
       "num": 128578,
       "word": "蚊子扛着两斤猫毛走了",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1757587411,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125790,
+      "num": 133022,
+      "word": "成毅赴山海质感",
+      "onboard_time": 1757660305,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 125737,
@@ -1259,6 +1331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118933,
+      "num": 118933,
+      "word": "协会回应罗永浩晒报告称西贝预制菜",
+      "onboard_time": 1757660965,
+      "rank": 44,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 117066,
       "num": 117066,
       "word": "安卓版iPhoneAir",
@@ -1267,12 +1347,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 116744,
-      "num": 116744,
-      "word": "女子吃饭被陌生男子摸头辱骂",
-      "onboard_time": 1757658984,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 116714,
+      "num": 116714,
+      "word": "大藤沙月3比1张本美和",
+      "onboard_time": 1757661322,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115655,
@@ -1331,6 +1411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110901,
+      "num": 110901,
+      "word": "牛在在把生万物说成万物生",
+      "onboard_time": 1757660663,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110682,
       "num": 110682,
       "word": "运20飞行员和地面对话泪目",
@@ -1355,6 +1443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106476,
+      "num": 126930,
+      "word": "黄子韬请鑫博做婚礼司仪",
+      "onboard_time": 1757659524,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105111,
+      "num": 304421,
+      "word": "律师称餐饮若使用预制菜应明示",
+      "onboard_time": 1757658747,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103943,
       "num": 226740,
       "word": "福建舰跨区试验训练系正常安排",
@@ -1363,12 +1467,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103363,
-      "num": 304421,
-      "word": "律师称餐饮若使用预制菜应明示",
-      "onboard_time": 1757658747,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 101405,
+      "num": 406416,
+      "word": "多家西贝门店已上线罗永浩菜单",
+      "onboard_time": 1757660726,
+      "rank": 9,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 99551,
@@ -1571,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82335,
-      "num": 126930,
-      "word": "黄子韬请鑫博做婚礼司仪",
-      "onboard_time": 1757659524,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81912,
       "num": 895884,
       "word": "杨幂陈丽君 合作",
@@ -1641,6 +1737,14 @@
       "onboard_time": 1757650046,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63223,
+      "num": 133414,
+      "word": "两博会展出孙颖莎王楚钦签名",
+      "onboard_time": 1757660965,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 61529,
