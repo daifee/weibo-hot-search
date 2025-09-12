@@ -1,0 +1,410 @@
+{
+  "runTime": 1757652089904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1324830,
+        "num": 1324830,
+        "word": "刑事立案下降25.7%",
+        "onboard_time": 1757645727,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872340,
+        "num": 872340,
+        "word": "西贝已获预制食品相关专利授权",
+        "onboard_time": 1757649206,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147663,
+        "num": 666208,
+        "word": "接30位烈士遗骸回国",
+        "onboard_time": 1757639367,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 499026,
+        "num": 499026,
+        "word": "杨幂39了",
+        "onboard_time": 1757647226,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475784,
+        "num": 475784,
+        "word": "闫闯 小米",
+        "onboard_time": 1757648125,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 752352,
+        "num": 473850,
+        "word": "龚俊 李沁你也是",
+        "onboard_time": 1757644645,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632495,
+        "num": 459721,
+        "word": "罗永浩奖励10万征集西贝预制菜线索",
+        "onboard_time": 1757642665,
+        "rank": 6,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 441568,
+        "num": 441568,
+        "word": "这样卖碱水面包不会脏吗",
+        "onboard_time": 1757646804,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 422353,
+        "num": 422353,
+        "word": "李佳琦把赵昭仪养的很好",
+        "onboard_time": 1757645845,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400676,
+        "num": 400676,
+        "word": "云上贵州董事长被查",
+        "onboard_time": 1757650347,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487560,
+        "num": 398483,
+        "word": "韦雪整容后脸不对称",
+        "onboard_time": 1757648844,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 390221,
+        "num": 390221,
+        "word": "父亲曝女儿被虐待致死可怕细节",
+        "onboard_time": 1757651187,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289207,
+        "num": 389485,
+        "word": "朱一龙现场迎接志愿军烈士",
+        "onboard_time": 1757650406,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235244,
+        "num": 389157,
+        "word": "成毅路人盘",
+        "onboard_time": 1757646026,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389134,
+        "num": 389134,
+        "word": "痞幼酒吧蹦迪",
+        "onboard_time": 1757649206,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41194,
+        "num": 387119,
+        "word": "成毅玉之品格",
+        "onboard_time": 1757651787,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35985,
+        "num": 380392,
+        "word": "时团送美团外卖免单",
+        "onboard_time": 1757649507,
+        "rank": 16,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 148631,
+        "num": 373033,
+        "word": "少女遭体罚身亡老师群聊天记录曝光",
+        "onboard_time": 1757651187,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46392,
+        "num": 371661,
+        "word": "开学一起拼好饭",
+        "onboard_time": 1757648844,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64018,
+        "num": 362086,
+        "word": "住合租房生娃当事人称未影响其他人",
+        "onboard_time": 1757651549,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554122,
+        "num": 355463,
+        "word": "虞书欣双轨过审了",
+        "onboard_time": 1757646686,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354815,
+        "num": 354815,
+        "word": "罗永浩西贝之争倒逼餐饮透明化",
+        "onboard_time": 1757644046,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 486260,
+        "num": 341306,
+        "word": "罗永浩当面说挺好背后说恶心",
+        "onboard_time": 1757636127,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 361322,
+        "num": 336985,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 318082,
+        "num": 318082,
+        "word": "原来会计才是吃瓜最多的行业",
+        "onboard_time": 1757644046,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262784,
+        "num": 262784,
+        "word": "沈阳车辆不从烈士遗骸上方驶过",
+        "onboard_time": 1757644347,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 252156,
+        "num": 252156,
+        "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
+        "onboard_time": 1757650466,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212686,
+        "num": 212686,
+        "word": "英雄回家",
+        "onboard_time": 1757603433,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149721,
+        "num": 209475,
+        "word": "泰剧现在已经这么炸裂了吗",
+        "onboard_time": 1757648726,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35360,
+        "num": 208340,
+        "word": "FBI公布柯克案枪手更多视频",
+        "onboard_time": 1757651549,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207888,
+        "num": 207888,
+        "word": "罗永浩称难受的肯定不是我",
+        "onboard_time": 1757639125,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 206927,
+        "num": 206927,
+        "word": "热巴零点祝杨幂万事遂意",
+        "onboard_time": 1757632522,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193280,
+        "num": 193280,
+        "word": "机场过水门迎接烈士",
+        "onboard_time": 1757649145,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180909,
+        "num": 180909,
+        "word": "男子钓上79斤大鱼上街显摆20分钟",
+        "onboard_time": 1757651368,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160873,
+        "num": 160873,
+        "word": "西贝",
+        "onboard_time": 1757638227,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157360,
+        "num": 157360,
+        "word": "吃锅包肉喝茶 嘴变黑",
+        "onboard_time": 1757651126,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157250,
+        "num": 157250,
+        "word": "有小学建议不让老人接送小孩",
+        "onboard_time": 1757604930,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150922,
+        "num": 150922,
+        "word": "预制菜",
+        "onboard_time": 1757648187,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115655,
+        "num": 144328,
+        "word": "孙俪打球眼睛受伤",
+        "onboard_time": 1757651307,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143893,
+        "num": 143893,
+        "word": "黄多多 天选文艺片女主脸",
+        "onboard_time": 1757651909,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144599,
+        "num": 143875,
+        "word": "喜单2总决赛",
+        "onboard_time": 1757652029,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143418,
+        "num": 143418,
+        "word": "A股",
+        "onboard_time": 1757649685,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140023,
+        "num": 140023,
+        "word": "世界第二网红来了天津也得摊煎饼",
+        "onboard_time": 1757643926,
+        "rank": 42,
+        "category": "网红,幽默"
+      },
+      {
+        "raw_hot": 134104,
+        "num": 134104,
+        "word": "西贝晒出罗永浩消费账单",
+        "onboard_time": 1757601696,
+        "rank": 43,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 133529,
+        "num": 133529,
+        "word": "徐如蓝方益炯也是过上日子了",
+        "onboard_time": 1757650766,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131367,
+        "num": 131367,
+        "word": "西贝将起诉罗永浩",
+        "onboard_time": 1757593000,
+        "rank": 45,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 131209,
+        "num": 131209,
+        "word": "特朗普看球赛安装防弹玻璃",
+        "onboard_time": 1757647286,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129746,
+        "num": 129746,
+        "word": "脾胃一旦通畅减肥是很快的",
+        "onboard_time": 1757646686,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128829,
+        "num": 128829,
+        "word": "浪姐3在谭维维评论区团建",
+        "onboard_time": 1757650947,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124549,
+        "num": 124549,
+        "word": "家装综艺白月光回来了",
+        "onboard_time": 1757649986,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平发展是中国的坚定选择#"
+    }
+  }
+}

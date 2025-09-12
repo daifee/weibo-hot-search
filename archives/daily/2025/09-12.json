@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757651315030,
+  "endTime": 1757652089904,
   "band_list": [
     {
       "raw_hot": 1357377,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1298429,
-      "num": 1298429,
+      "raw_hot": 1324830,
+      "num": 1324830,
       "word": "刑事立案下降25.7%",
       "onboard_time": 1757645727,
       "rank": 30,
@@ -49,6 +49,14 @@
       "onboard_time": 1757644645,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 872340,
+      "num": 872340,
+      "word": "西贝已获预制食品相关专利授权",
+      "onboard_time": 1757649206,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 870529,
@@ -91,14 +99,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 571526,
-      "num": 571526,
-      "word": "西贝已获预制食品相关专利授权",
-      "onboard_time": 1757649206,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 531797,
       "num": 420622,
       "word": "韦雪整容后脸不对称",
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 502936,
-      "num": 222482,
+      "num": 422353,
       "word": "李佳琦把赵昭仪养的很好",
       "onboard_time": 1757645845,
       "rank": 34,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 449260,
-      "num": 294298,
+      "num": 318082,
       "word": "原来会计才是吃瓜最多的行业",
       "onboard_time": 1757644046,
       "rank": 11,
@@ -179,12 +179,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 400676,
+      "num": 420634,
+      "word": "云上贵州董事长被查",
+      "onboard_time": 1757650347,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395324,
       "num": 395324,
       "word": "一名网红被杀美国为何会降半旗",
       "onboard_time": 1757598934,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 390221,
+      "num": 390221,
+      "word": "父亲曝女儿被虐待致死可怕细节",
+      "onboard_time": 1757651187,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389178,
@@ -195,8 +211,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389134,
+      "num": 389134,
+      "word": "痞幼酒吧蹦迪",
+      "onboard_time": 1757649206,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 364979,
-      "num": 220595,
+      "num": 262784,
       "word": "沈阳车辆不从烈士遗骸上方驶过",
       "onboard_time": 1757644347,
       "rank": 24,
@@ -217,6 +241,14 @@
       "onboard_time": 1757642665,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 289207,
+      "num": 389485,
+      "word": "朱一龙现场迎接志愿军烈士",
+      "onboard_time": 1757650406,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 287779,
@@ -248,14 +280,6 @@
       "word": "提交身份证复印件要写明用途",
       "onboard_time": 1757639187,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273244,
-      "num": 273244,
-      "word": "父亲曝女儿被虐待致死可怕细节",
-      "onboard_time": 1757651187,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -291,12 +315,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 253676,
-      "num": 253676,
-      "word": "痞幼酒吧蹦迪",
-      "onboard_time": 1757649206,
-      "rank": 14,
-      "category": "网红"
+      "raw_hot": 252156,
+      "num": 252156,
+      "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
+      "onboard_time": 1757650466,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249636,
@@ -419,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199527,
-      "num": 225402,
-      "word": "朱一龙现场迎接志愿军烈士",
-      "onboard_time": 1757650406,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199015,
       "num": 916147,
       "word": "罗永浩回复西贝准备好了",
@@ -499,11 +515,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 180972,
-      "num": 180972,
-      "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
-      "onboard_time": 1757650466,
-      "rank": 35,
+      "raw_hot": 180909,
+      "num": 180909,
+      "word": "男子钓上79斤大鱼上街显摆20分钟",
+      "onboard_time": 1757651368,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -612,11 +628,19 @@
     },
     {
       "raw_hot": 162322,
-      "num": 162322,
+      "num": 209475,
       "word": "泰剧现在已经这么炸裂了吗",
       "onboard_time": 1757648726,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160873,
+      "num": 160873,
+      "word": "西贝",
+      "onboard_time": 1757638227,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159718,
@@ -633,6 +657,14 @@
       "onboard_time": 1757647885,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157360,
+      "num": 157360,
+      "word": "吃锅包肉喝茶 嘴变黑",
+      "onboard_time": 1757651126,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 154782,
@@ -675,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148631,
+      "num": 373033,
+      "word": "少女遭体罚身亡老师群聊天记录曝光",
+      "onboard_time": 1757651187,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146543,
       "num": 146543,
       "word": "志愿军老兵高唱我的祖国迎接忠魂归乡",
@@ -691,20 +731,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145607,
-      "num": 145607,
-      "word": "西贝",
-      "onboard_time": 1757638227,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144989,
       "num": 144989,
       "word": "中国资产彻底爆发",
       "onboard_time": 1757647226,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144599,
+      "num": 143875,
+      "word": "喜单2总决赛",
+      "onboard_time": 1757652029,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143893,
+      "num": 143893,
+      "word": "黄多多 天选文艺片女主脸",
+      "onboard_time": 1757651909,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 140334,
@@ -721,14 +769,6 @@
       "onboard_time": 1757635466,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136932,
-      "num": 420634,
-      "word": "云上贵州董事长被查",
-      "onboard_time": 1757650347,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136581,
@@ -787,6 +827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133529,
+      "num": 181152,
+      "word": "徐如蓝方益炯也是过上日子了",
+      "onboard_time": 1757650766,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131464,
       "num": 906290,
       "word": "补气血最快的小方法",
@@ -801,14 +849,6 @@
       "onboard_time": 1757605049,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127503,
-      "num": 181152,
-      "word": "徐如蓝方益炯也是过上日子了",
-      "onboard_time": 1757650766,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 127374,
@@ -867,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115655,
+      "num": 144328,
+      "word": "孙俪打球眼睛受伤",
+      "onboard_time": 1757651307,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113965,
       "num": 123439,
       "word": "今天他将高擎忠魂之旗",
@@ -897,14 +945,6 @@
       "onboard_time": 1757644046,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 111069,
-      "num": 160998,
-      "word": "少女遭体罚身亡老师群聊天记录曝光",
-      "onboard_time": 1757651187,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110682,
@@ -1163,8 +1203,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64018,
+      "num": 362086,
+      "word": "住合租房生娃当事人称未影响其他人",
+      "onboard_time": 1757651549,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61529,
-      "num": 221988,
+      "num": 380392,
       "word": "时团送美团外卖免单",
       "onboard_time": 1757649507,
       "rank": 23,
@@ -1267,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46392,
+      "num": 371661,
+      "word": "开学一起拼好饭",
+      "onboard_time": 1757648844,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44528,
       "num": 482170,
       "word": "火星或有古代微生物存在",
@@ -1291,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41194,
+      "num": 387119,
+      "word": "成毅玉之品格",
+      "onboard_time": 1757651787,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39715,
       "num": 163603,
       "word": "柯克是特朗普长子的密友",
@@ -1299,20 +1363,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39271,
-      "num": 224108,
-      "word": "开学一起拼好饭",
-      "onboard_time": 1757648844,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 36788,
       "num": 480422,
       "word": "黄岩岛国家级自然保护区情况公布",
       "onboard_time": 1757609062,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35360,
+      "num": 208340,
+      "word": "FBI公布柯克案枪手更多视频",
+      "onboard_time": 1757651549,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34282,

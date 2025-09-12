@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 12:28:35
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 12:41:29
 </p>
 </blockquote>
 <p>
@@ -999,6 +999,12 @@ AG夏决冠军（热度：1374157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%E4%B8%8B%E9%99%8D25.7%25%23" target="weibo">
+刑事立案下降25.7%（热度：1324830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%20%E6%97%A5%E6%8E%9B%E4%B8%AD%E5%A4%A9%23" target="weibo">
 周迅 日掛中天（热度：1324008）
 </a>
@@ -1037,12 +1043,6 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%85%9A%E6%8C%87%E6%8C%A5%20%E8%83%BD%E6%89%93%E8%83%9C%E4%BB%97%23" target="weibo">
 听党指挥 能打胜仗（热度：1298999）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%E4%B8%8B%E9%99%8D25.7%25%23" target="weibo">
-刑事立案下降25.7%（热度：1298429）
 </a>
 </li>
 
@@ -1865,6 +1865,12 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2399B%E5%9D%A6%E5%85%8B%23" target="weibo">
 99B坦克（热度：873590）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%B7%B2%E8%8E%B7%E9%A2%84%E5%88%B6%E9%A3%9F%E5%93%81%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9%E6%8E%88%E6%9D%83%23" target="weibo">
+西贝已获预制食品相关专利授权（热度：872340）
 </a>
 </li>
 
@@ -3221,12 +3227,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E8%80%81%E6%9D%BF%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E7%A7%B0113%E4%B8%87%E4%B8%8D%E8%83%BD%E5%BC%A5%E8%A1%A5%E6%8D%9F%E5%A4%B1%23" target="weibo">
 遭老板性侵女子称113万不能弥补损失（热度：573332）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%B7%B2%E8%8E%B7%E9%A2%84%E5%88%B6%E9%A3%9F%E5%93%81%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9%E6%8E%88%E6%9D%83%23" target="weibo">
-西贝已获预制食品相关专利授权（热度：571526）
 </a>
 </li>
 
@@ -4947,6 +4947,12 @@ iPhone17Air和iPhone6对比（热度：401020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B8%8A%E8%B4%B5%E5%B7%9E%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9F%A5%23" target="weibo">
+云上贵州董事长被查（热度：400676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E7%A7%B0%E4%B8%8D%E7%A6%81%E6%AD%A2%E4%B8%AA%E4%BA%BA%E5%8E%BB%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23" target="weibo">
 国民党主席称不禁止个人去九三阅兵（热度：400179）
 </a>
@@ -5127,6 +5133,12 @@ iPhone17或有隐藏款（热度：395178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%9B%9D%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%99%90%E5%BE%85%E8%87%B4%E6%AD%BB%E5%8F%AF%E6%80%95%E7%BB%86%E8%8A%82%23" target="weibo">
+父亲曝女儿被虐待致死可怕细节（热度：390221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E6%98%AF%E5%A4%A7%E5%86%99%23" target="weibo">
 iPhone为什么只有P是大写（热度：389380）
 </a>
@@ -5135,6 +5147,12 @@ iPhone为什么只有P是大写（热度：389380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%BC%E7%81%BC%E9%9F%B6%E5%8D%8E%23" target="weibo">
 灼灼韶华（热度：389273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E9%85%92%E5%90%A7%E8%B9%A6%E8%BF%AA%23" target="weibo">
+痞幼酒吧蹦迪（热度：389134）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iG战胜EDG（热度：339456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%B1%B1%E4%B8%BA%E8%81%98%E5%89%A7%E7%BB%84%E5%90%91%E9%99%88%E5%93%B2%E8%BF%9C%E5%90%B4%E8%B0%A8%E8%A8%80%E8%87%B4%E6%AD%89%23" target="weibo">
 江山为聘剧组向陈哲远吴谨言致歉（热度：336628）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B0%86%E5%AE%9E%E8%A1%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF10%E7%82%B9%E4%B8%8A%E7%8F%AD%E5%88%B6%23" target="weibo">
-韩国将实行小学生家长10点上班制（热度：336356）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E4%B9%8B%E6%AD%8C%E5%8F%91%E5%94%AE%23" target="weibo">
-丝之歌发售（热度：335831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%83%B8%E5%89%8D%E5%A5%BD%E5%A4%A7%E4%B8%80%E6%9C%B5%E7%8E%AB%E7%91%B0%23" target="weibo">
-辛芷蕾胸前好大一朵玫瑰（热度：335776）
 </a>
 </li>
 
