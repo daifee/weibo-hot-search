@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757655613110,
+  "endTime": 1757658977421,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2307,6 +2307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 918064,
+      "num": 1146890,
+      "word": "预制菜 强制明示",
+      "onboard_time": 1757653825,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 910276,
       "num": 910276,
       "word": "夫妻合租房生娃后被赶合理吗",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1757394984,
       "rank": 13,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 800217,
+      "num": 388639,
+      "word": "女老板看上男下属花300万让其离婚",
+      "onboard_time": 1757655806,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 799804,
@@ -4627,6 +4643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544313,
+      "num": 367283,
+      "word": "刘诗诗给杨幂送生日祝福",
+      "onboard_time": 1757658325,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544063,
       "num": 544063,
       "word": "你要的超燃阅兵壁纸来了",
@@ -4769,6 +4793,14 @@
       "onboard_time": 1757065701,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532595,
+      "num": 329611,
+      "word": "购买一部iPhone17你要工作多久",
+      "onboard_time": 1757656168,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 531892,
@@ -5971,14 +6003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 446683,
-      "num": 446683,
-      "word": "预制菜 强制明示",
-      "onboard_time": 1757653825,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 445924,
       "num": 445924,
       "word": "阅兵细节值得二刷三刷",
@@ -6657,6 +6681,14 @@
       "onboard_time": 1757652627,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 399000,
+      "num": 356427,
+      "word": "iPhone17Pro相机是疯狂的",
+      "onboard_time": 1757654967,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 398942,
@@ -7772,7 +7804,7 @@
     },
     {
       "raw_hot": 348997,
-      "num": 309896,
+      "num": 328580,
       "word": "孙燕姿老鼠干",
       "onboard_time": 1757653407,
       "rank": 25,
@@ -9259,6 +9291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286161,
+      "num": 352825,
+      "word": "原来白敬亭也不能笑着离开理发店",
+      "onboard_time": 1757652507,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285977,
       "num": 117507,
       "word": "NHK播报勿忘南京大屠杀主播发声",
@@ -9715,14 +9755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272560,
-      "num": 352825,
-      "word": "原来白敬亭也不能笑着离开理发店",
-      "onboard_time": 1757652507,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272289,
       "num": 272289,
       "word": "为什么我们不害怕中元节了",
@@ -9859,6 +9891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267271,
+      "num": 267271,
+      "word": "外公去世左航躲在头盔里大哭",
+      "onboard_time": 1757655985,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267162,
       "num": 986995,
       "word": "流浪地球 纪录片",
@@ -9913,14 +9953,6 @@
       "onboard_time": 1757574341,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264298,
-      "num": 264298,
-      "word": "iPhone17Pro相机是疯狂的",
-      "onboard_time": 1757654967,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 264297,
@@ -10763,6 +10795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236686,
+      "num": 236686,
+      "word": "墨西哥拟对中国等国征收50%关税",
+      "onboard_time": 1757656825,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 236609,
       "num": 236609,
       "word": "虞书欣何与双轨团综杀青",
@@ -11240,6 +11280,14 @@
       "word": "继奶茶后冰红茶成商战新赛道",
       "onboard_time": 1757508502,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225868,
+      "num": 185901,
+      "word": "老师批评迟到学生被指官威大",
+      "onboard_time": 1757655866,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -12216,6 +12264,14 @@
       "word": "宋妍霏闺蜜上恋综了",
       "onboard_time": 1757302644,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205739,
+      "num": 205739,
+      "word": "终于有人当黄子韬面说e不发音",
+      "onboard_time": 1757657426,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -13371,6 +13427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193777,
+      "num": 193777,
+      "word": "李兰迪一直被内娱低估的美貌",
+      "onboard_time": 1757658265,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193746,
       "num": 270111,
       "word": "运20空地对话",
@@ -13987,6 +14051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187975,
+      "num": 185048,
+      "word": "鹿晗把粉丝的灯牌改了一个字",
+      "onboard_time": 1757657666,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187970,
       "num": 267729,
       "word": "美军PPT里的东西我们已经服役了",
@@ -14321,6 +14393,14 @@
       "onboard_time": 1757086461,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184960,
+      "num": 184960,
+      "word": "坏了这次要让老外学到真东西了",
+      "onboard_time": 1757657725,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 184793,
@@ -14787,6 +14867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180301,
+      "num": 180301,
+      "word": "西贝董事长称骂不过罗永浩",
+      "onboard_time": 1757656168,
+      "rank": 27,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 180261,
       "num": 180261,
       "word": "孟子义 姐姐还不够努力",
@@ -14985,6 +15073,14 @@
       "onboard_time": 1757058802,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177301,
+      "num": 177301,
+      "word": "迪丽热巴大冒险家芭莎金九封面",
+      "onboard_time": 1757658503,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177154,
@@ -16027,6 +16123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167916,
+      "num": 167916,
+      "word": "易烊千玺尹昉THEEDGEOFUS",
+      "onboard_time": 1757657785,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167905,
       "num": 167905,
       "word": "梅西梅开二度",
@@ -16217,6 +16321,14 @@
       "onboard_time": 1757653466,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166417,
+      "num": 166417,
+      "word": "翟佳宁总决赛",
+      "onboard_time": 1757657186,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 166339,
@@ -17211,6 +17323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159066,
+      "num": 159066,
+      "word": "于东来说西贝可以放心可口吃饭",
+      "onboard_time": 1757656825,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158974,
       "num": 380519,
       "word": "卢远王乐晨cp",
@@ -17569,6 +17689,14 @@
       "onboard_time": 1757163382,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155787,
+      "num": 175248,
+      "word": "女婴遭虫咬多次抢救全身换血",
+      "onboard_time": 1757654248,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155786,
@@ -23635,6 +23763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121072,
+      "num": 349582,
+      "word": "淘宝闪购买iPhone17送17杯奶茶",
+      "onboard_time": 1757653766,
+      "rank": 15,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 120996,
       "num": 120996,
       "word": "和易烊千玺对视的冲击力",
@@ -24321,6 +24457,14 @@
       "onboard_time": 1756807881,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117187,
+      "num": 117187,
+      "word": "原来这就是小学的课程表",
+      "onboard_time": 1757656706,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 116951,
@@ -25017,6 +25161,14 @@
       "onboard_time": 1757233043,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113997,
+      "num": 113997,
+      "word": "寒武纪重夺股王",
+      "onboard_time": 1757658325,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 113965,
@@ -27099,6 +27251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104015,
+      "num": 135981,
+      "word": "张踩铃 我的母爱没那么无私",
+      "onboard_time": 1757657844,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103943,
       "num": 226740,
       "word": "福建舰跨区试验训练系正常安排",
@@ -27217,6 +27377,14 @@
       "onboard_time": 1757497163,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103363,
+      "num": 149496,
+      "word": "律师称餐饮若使用预制菜应明示",
+      "onboard_time": 1757658747,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103300,
@@ -30891,14 +31059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80611,
-      "num": 349582,
-      "word": "淘宝闪购买iPhone17送17杯奶茶",
-      "onboard_time": 1757653766,
-      "rank": 15,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 80582,
       "num": 220225,
       "word": "绝症女孩回应收到去世前男友存款",
@@ -31321,6 +31481,14 @@
       "onboard_time": 1757499142,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 76170,
+      "num": 189250,
+      "word": "用AI看病的人6成来自小城乡镇",
+      "onboard_time": 1757657486,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 76031,
@@ -32025,14 +32193,6 @@
       "onboard_time": 1756772060,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 69406,
-      "num": 175248,
-      "word": "女婴遭虫咬多次抢救全身换血",
-      "onboard_time": 1757654248,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69391,
@@ -32945,6 +33105,14 @@
       "onboard_time": 1756738761,
       "rank": 41,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 59660,
+      "num": 136057,
+      "word": "宋佳 别叫我宋佳老师",
+      "onboard_time": 1757658145,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 59649,
@@ -36049,6 +36217,14 @@
       "onboard_time": 1757532913,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 19283,
+      "num": 113420,
+      "word": "用脚投票的扫街榜靠谱吗",
+      "onboard_time": 1757656825,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 19275,

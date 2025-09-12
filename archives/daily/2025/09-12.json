@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757655613110,
+  "endTime": 1757658977421,
   "band_list": [
     {
       "raw_hot": 1357377,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 918064,
+      "num": 1146890,
+      "word": "预制菜 强制明示",
+      "onboard_time": 1757653825,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 872340,
       "num": 1133886,
       "word": "西贝已获预制食品相关专利授权",
@@ -73,6 +81,14 @@
       "onboard_time": 1757632522,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 800217,
+      "num": 388639,
+      "word": "女老板看上男下属花300万让其离婚",
+      "onboard_time": 1757655806,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 751598,
@@ -121,6 +137,22 @@
       "onboard_time": 1757645845,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544313,
+      "num": 367283,
+      "word": "刘诗诗给杨幂送生日祝福",
+      "onboard_time": 1757658325,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 532595,
+      "num": 329611,
+      "word": "购买一部iPhone17你要工作多久",
+      "onboard_time": 1757656168,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 531797,
@@ -195,14 +227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 446683,
-      "num": 446683,
-      "word": "预制菜 强制明示",
-      "onboard_time": 1757653825,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 423042,
       "num": 912167,
       "word": "车澈曾当李嘉格面抱乃万",
@@ -233,6 +257,14 @@
       "onboard_time": 1757652627,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 399000,
+      "num": 356427,
+      "word": "iPhone17Pro相机是疯狂的",
+      "onboard_time": 1757654967,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 395324,
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 348997,
-      "num": 309896,
+      "num": 328580,
       "word": "孙燕姿老鼠干",
       "onboard_time": 1757653407,
       "rank": 25,
@@ -305,6 +337,14 @@
       "onboard_time": 1757637989,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286161,
+      "num": 352825,
+      "word": "原来白敬亭也不能笑着离开理发店",
+      "onboard_time": 1757652507,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 281968,
@@ -339,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272560,
-      "num": 352825,
-      "word": "原来白敬亭也不能笑着离开理发店",
-      "onboard_time": 1757652507,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269924,
       "num": 916814,
       "word": "英雄回家",
@@ -355,20 +387,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 267271,
+      "num": 267271,
+      "word": "外公去世左航躲在头盔里大哭",
+      "onboard_time": 1757655985,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265347,
       "num": 914692,
       "word": "局座白发",
       "onboard_time": 1757601337,
       "rank": 3,
       "category": "军事"
-    },
-    {
-      "raw_hot": 264298,
-      "num": 264298,
-      "word": "iPhone17Pro相机是疯狂的",
-      "onboard_time": 1757654967,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 258662,
@@ -385,6 +417,14 @@
       "onboard_time": 1757593000,
       "rank": 22,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 254604,
+      "num": 254604,
+      "word": "盛世天下",
+      "onboard_time": 1757656887,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 249636,
@@ -419,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236686,
+      "num": 236686,
+      "word": "墨西哥拟对中国等国征收50%关税",
+      "onboard_time": 1757656825,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235790,
       "num": 897334,
       "word": "赴山海开播",
@@ -449,6 +497,14 @@
       "onboard_time": 1757640086,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 225868,
+      "num": 185901,
+      "word": "老师批评迟到学生被指官威大",
+      "onboard_time": 1757655866,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225440,
@@ -515,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205739,
+      "num": 205739,
+      "word": "终于有人当黄子韬面说e不发音",
+      "onboard_time": 1757657426,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202846,
       "num": 202846,
       "word": "男子钓上79斤大鱼上街显摆20分钟",
@@ -571,6 +635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193777,
+      "num": 193777,
+      "word": "李兰迪一直被内娱低估的美貌",
+      "onboard_time": 1757658265,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193746,
       "num": 270111,
       "word": "运20空地对话",
@@ -587,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187975,
+      "num": 185048,
+      "word": "鹿晗把粉丝的灯牌改了一个字",
+      "onboard_time": 1757657666,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187606,
       "num": 187606,
       "word": "不眠日定档",
       "onboard_time": 1757642845,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184960,
+      "num": 184960,
+      "word": "坏了这次要让老外学到真东西了",
+      "onboard_time": 1757657725,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 183511,
@@ -625,6 +713,22 @@
       "onboard_time": 1757654665,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180301,
+      "num": 180301,
+      "word": "西贝董事长称骂不过罗永浩",
+      "onboard_time": 1757656168,
+      "rank": 27,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 177301,
+      "num": 177301,
+      "word": "迪丽热巴大冒险家芭莎金九封面",
+      "onboard_time": 1757658503,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175326,
@@ -707,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167916,
+      "num": 167916,
+      "word": "易烊千玺尹昉THEEDGEOFUS",
+      "onboard_time": 1757657785,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167894,
       "num": 167894,
       "word": "浪姐3在谭维维评论区团建",
@@ -737,6 +849,14 @@
       "onboard_time": 1757653466,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166417,
+      "num": 166417,
+      "word": "翟佳宁总决赛",
+      "onboard_time": 1757657186,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 166174,
@@ -787,12 +907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159066,
+      "num": 159066,
+      "word": "于东来说西贝可以放心可口吃饭",
+      "onboard_time": 1757656825,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157360,
       "num": 157360,
       "word": "吃锅包肉喝茶 嘴变黑",
       "onboard_time": 1757651126,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 155787,
+      "num": 175248,
+      "word": "女婴遭虫咬多次抢救全身换血",
+      "onboard_time": 1757654248,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154782,
@@ -1051,6 +1187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121072,
+      "num": 349582,
+      "word": "淘宝闪购买iPhone17送17杯奶茶",
+      "onboard_time": 1757653766,
+      "rank": 15,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 120189,
       "num": 120189,
       "word": "王曼昱抬头看那束光为你亮着",
@@ -1083,12 +1227,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117187,
+      "num": 117187,
+      "word": "原来这就是小学的课程表",
+      "onboard_time": 1757656706,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115655,
       "num": 144328,
       "word": "孙俪打球眼睛受伤",
       "onboard_time": 1757651307,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113997,
+      "num": 113997,
+      "word": "寒武纪重夺股王",
+      "onboard_time": 1757658325,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 113965,
@@ -1147,12 +1307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104015,
+      "num": 135981,
+      "word": "张踩铃 我的母爱没那么无私",
+      "onboard_time": 1757657844,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103943,
       "num": 226740,
       "word": "福建舰跨区试验训练系正常安排",
       "onboard_time": 1757633844,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103363,
+      "num": 149496,
+      "word": "律师称餐饮若使用预制菜应明示",
+      "onboard_time": 1757658747,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99551,
@@ -1379,12 +1555,12 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 80611,
-      "num": 349582,
-      "word": "淘宝闪购买iPhone17送17杯奶茶",
-      "onboard_time": 1757653766,
-      "rank": 15,
-      "category": "互联网,数码"
+      "raw_hot": 76170,
+      "num": 189250,
+      "word": "用AI看病的人6成来自小城乡镇",
+      "onboard_time": 1757657486,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 73831,
@@ -1419,20 +1595,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69406,
-      "num": 175248,
-      "word": "女婴遭虫咬多次抢救全身换血",
-      "onboard_time": 1757654248,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61529,
       "num": 380392,
       "word": "时团送美团外卖免单",
       "onboard_time": 1757649507,
       "rank": 23,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 59660,
+      "num": 136057,
+      "word": "宋佳 别叫我宋佳老师",
+      "onboard_time": 1757658145,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 59198,
@@ -1633,6 +1809,14 @@
       "onboard_time": 1757611638,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19283,
+      "num": 113420,
+      "word": "用脚投票的扫街榜靠谱吗",
+      "onboard_time": 1757656825,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 18928,
