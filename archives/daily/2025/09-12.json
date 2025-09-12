@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757683900402,
+  "endTime": 1757684573625,
   "band_list": [
     {
       "raw_hot": 3245783,
@@ -9,6 +9,14 @@
       "onboard_time": 1757680767,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2676475,
+      "num": 2676475,
+      "word": "关晓彤半夜喝酒发朋友圈",
+      "onboard_time": 1757682627,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2493648,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1883205,
-      "num": 413443,
+      "num": 472951,
       "word": "海底捞小便门案一审宣判",
       "onboard_time": 1757674404,
       "rank": 10,
@@ -67,16 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1734869,
-      "num": 1734869,
-      "word": "关晓彤半夜喝酒发朋友圈",
-      "onboard_time": 1757682627,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1627915,
-      "num": 590536,
+      "num": 619561,
       "word": "抢iPhone17",
       "onboard_time": 1757679443,
       "rank": 5,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1140650,
+      "num": 397375,
+      "word": "西贝 灾难级公关",
+      "onboard_time": 1757682927,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1082810,
       "num": 1082810,
       "word": "小鸟频频撞死在南京一大桥玻璃墙",
@@ -185,6 +193,14 @@
       "onboard_time": 1757644645,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 880692,
+      "num": 880692,
+      "word": "老乡鸡 躺赢",
+      "onboard_time": 1757683767,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 877097,
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 794622,
+      "num": 703211,
+      "word": "西贝后厨的食材几乎要解冻",
+      "onboard_time": 1757674643,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 791697,
       "num": 415076,
       "word": "刘诗诗给杨幂送生日祝福",
@@ -299,14 +323,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 703211,
-      "num": 703211,
-      "word": "西贝后厨的食材几乎要解冻",
-      "onboard_time": 1757674643,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 696138,
       "num": 696138,
       "word": "西贝儿童餐",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 692201,
-      "num": 441923,
+      "num": 468810,
       "word": "比伯穿内裤骑平衡车",
       "onboard_time": 1757676984,
       "rank": 12,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 638550,
-      "num": 525475,
+      "num": 620394,
       "word": "鞠婧祎直播",
       "onboard_time": 1757682385,
       "rank": 4,
@@ -441,6 +457,14 @@
       "onboard_time": 1757648844,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 527406,
+      "num": 527406,
+      "word": "李昀锐 我眼睛脏了",
+      "onboard_time": 1757683107,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 523427,
@@ -579,14 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 397375,
-      "num": 397375,
-      "word": "西贝 灾难级公关",
-      "onboard_time": 1757682927,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 395641,
       "num": 395641,
       "word": "王一博成毅林一线下活动生图",
@@ -609,6 +625,14 @@
       "onboard_time": 1757655985,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393045,
+      "num": 482241,
+      "word": "罗永浩直播剖析西贝原料",
+      "onboard_time": 1757682866,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390242,
@@ -691,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 357204,
+      "num": 357204,
+      "word": "13岁奥莉近照",
+      "onboard_time": 1757682266,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 348997,
       "num": 330699,
       "word": "孙燕姿老鼠干",
@@ -731,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330704,
-      "num": 330704,
-      "word": "13岁奥莉近照",
-      "onboard_time": 1757682266,
-      "rank": 16,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 328280,
       "num": 328280,
       "word": "西贝员工称凌晨5点就开始备菜",
@@ -753,6 +777,22 @@
       "onboard_time": 1757656887,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 318653,
+      "num": 252862,
+      "word": "李小鹏13岁女儿参加花滑比赛",
+      "onboard_time": 1757683707,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301671,
+      "num": 484041,
+      "word": "iPhone17 抢不到",
+      "onboard_time": 1757681846,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 295921,
@@ -835,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272239,
+      "num": 469046,
+      "word": "李嘉琦随身带血糖检测仪",
+      "onboard_time": 1757683949,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271257,
       "num": 420638,
       "word": "于东来发文感谢西贝",
@@ -891,22 +939,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 254992,
-      "num": 489235,
-      "word": "李昀锐 我眼睛脏了",
-      "onboard_time": 1757683107,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 252862,
-      "num": 252862,
-      "word": "李小鹏13岁女儿参加花滑比赛",
-      "onboard_time": 1757683707,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252232,
       "num": 272008,
       "word": "7个主席令已签署",
@@ -921,14 +953,6 @@
       "onboard_time": 1757646026,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248204,
-      "num": 477909,
-      "word": "iPhone17 抢不到",
-      "onboard_time": 1757681846,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 247278,
@@ -1019,6 +1043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225397,
+      "num": 225397,
+      "word": "孙颖莎vs斯佐科斯",
+      "onboard_time": 1757684129,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225004,
       "num": 906824,
       "word": "西贝将上线罗永浩菜单",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1757651549,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218973,
+      "num": 218973,
+      "word": "iPhone17Pro",
+      "onboard_time": 1757680526,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 217954,
@@ -1153,14 +1193,6 @@
       "onboard_time": 1757665705,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200019,
-      "num": 200019,
-      "word": "iPhone17Pro",
-      "onboard_time": 1757680526,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 199015,
@@ -1347,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187384,
+      "num": 223938,
+      "word": "中美将在西班牙会谈",
+      "onboard_time": 1757684367,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184960,
       "num": 184960,
       "word": "坏了这次要让老外学到真东西了",
@@ -1507,14 +1547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 171572,
-      "num": 171572,
-      "word": "老乡鸡 躺赢",
-      "onboard_time": 1757683767,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171099,
       "num": 915209,
       "word": "21岁女生去年底被骗缅甸仍未救出",
@@ -1540,7 +1572,7 @@
     },
     {
       "raw_hot": 170524,
-      "num": 170524,
+      "num": 179173,
       "word": "孙颖莎小荷才露尖尖角",
       "onboard_time": 1757683707,
       "rank": 44,
@@ -1707,6 +1739,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159559,
+      "num": 159559,
+      "word": "展轩直播",
+      "onboard_time": 1757684308,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159027,
+      "num": 221733,
+      "word": "赴山海8集发刀",
+      "onboard_time": 1757684429,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157360,
       "num": 157360,
       "word": "吃锅包肉喝茶 嘴变黑",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1757681425,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153036,
+      "num": 153036,
+      "word": "3种快速秒睡方法",
+      "onboard_time": 1757683767,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 153015,
@@ -1883,12 +1939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148318,
-      "num": 148318,
-      "word": "3种快速秒睡方法",
+      "raw_hot": 147808,
+      "num": 155774,
+      "word": "罗永浩逐个分析西贝包装袋",
       "onboard_time": 1757683767,
-      "rank": 47,
-      "category": "科学科普"
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 146543,
@@ -1955,6 +2011,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144015,
+      "num": 222167,
+      "word": "商务部就中美在西班牙举行会谈事答问",
+      "onboard_time": 1757684068,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 142663,
+      "num": 258391,
+      "word": "王一博这么快就又下班了",
+      "onboard_time": 1757681906,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142387,
       "num": 142387,
       "word": "男单八强国乒仅剩王楚钦林诗栋",
@@ -1976,14 +2048,6 @@
       "word": "许馨文晒合照祝杨幂生日快乐",
       "onboard_time": 1757654786,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 141444,
-      "num": 258391,
-      "word": "王一博这么快就又下班了",
-      "onboard_time": 1757681906,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -2147,6 +2211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131245,
+      "num": 131245,
+      "word": "罗永浩说西贝公关团队不专业",
+      "onboard_time": 1757683406,
+      "rank": 49,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 130849,
       "num": 130849,
       "word": "经常做美甲到底有多伤眼",
@@ -2225,6 +2297,14 @@
       "onboard_time": 1757606907,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125580,
+      "num": 392565,
+      "word": "罗永浩准备试试老乡鸡",
+      "onboard_time": 1757684187,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125491,
@@ -2459,14 +2539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113093,
-      "num": 469699,
-      "word": "罗永浩直播剖析西贝原料",
-      "onboard_time": 1757682866,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112658,
       "num": 166935,
       "word": "娜扎出场就是白月光姐姐级别",
@@ -2668,7 +2740,7 @@
     },
     {
       "raw_hot": 96811,
-      "num": 363591,
+      "num": 468905,
       "word": "迪奥小姐香水展星光熠熠",
       "onboard_time": 1757680646,
       "rank": 14,
@@ -3011,12 +3083,28 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 59740,
+      "num": 361986,
+      "word": "迪丽热巴花漾魅力",
+      "onboard_time": 1757682505,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59198,
       "num": 204772,
       "word": "美高官警告赶走嘲笑柯克之死的人",
       "onboard_time": 1757640745,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58785,
+      "num": 252921,
+      "word": "24期免息买iPhone17真香",
+      "onboard_time": 1757682325,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 57344,
@@ -3081,14 +3169,6 @@
       "onboard_time": 1757649685,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52041,
-      "num": 252921,
-      "word": "24期免息买iPhone17真香",
-      "onboard_time": 1757682325,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 51051,
@@ -3187,14 +3267,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 44476,
-      "num": 281540,
-      "word": "迪丽热巴花漾魅力",
-      "onboard_time": 1757682505,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44171,
       "num": 390045,
       "word": "西贝称目前不用预制菜",
@@ -3251,19 +3323,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38396,
+      "num": 253805,
+      "word": "iPhone17真的要三年一换外观了吗",
+      "onboard_time": 1757680585,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37263,
       "num": 162228,
       "word": "女生到底应该怎么选择iPhone",
       "onboard_time": 1757676563,
       "rank": 37,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 36979,
-      "num": 253805,
-      "word": "iPhone17真的要三年一换外观了吗",
-      "onboard_time": 1757680585,
-      "rank": 28,
       "category": "数码"
     },
     {
@@ -3495,6 +3567,9 @@
     },
     {
       "word": "#习近平签署国家主席令#"
+    },
+    {
+      "word": "#家国今日如你所愿#"
     }
   ]
 }
