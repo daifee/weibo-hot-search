@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757648700302,
+  "endTime": 1757651315030,
   "band_list": [
     {
       "raw_hot": 1357377,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1298429,
+      "num": 1298429,
+      "word": "刑事立案下降25.7%",
+      "onboard_time": 1757645727,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1240132,
       "num": 472738,
       "word": "罗永浩当面说挺好背后说恶心",
       "onboard_time": 1757636127,
       "rank": 3,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1016571,
-      "num": 1162651,
-      "word": "刑事立案下降25.7%",
-      "onboard_time": 1757645727,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1006120,
@@ -75,12 +75,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593996,
+      "num": 499062,
+      "word": "虞书欣双轨过审了",
+      "onboard_time": 1757646686,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 591992,
       "num": 234889,
       "word": "丁禹兮为什么要用舌头翻书",
       "onboard_time": 1757637927,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 571526,
+      "num": 571526,
+      "word": "西贝已获预制食品相关专利授权",
+      "onboard_time": 1757649206,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531797,
+      "num": 420622,
+      "word": "韦雪整容后脸不对称",
+      "onboard_time": 1757648844,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 523427,
@@ -91,16 +115,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 507976,
-      "num": 499062,
-      "word": "虞书欣双轨过审了",
-      "onboard_time": 1757646686,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 520850,
+      "num": 520850,
+      "word": "闫闯 小米",
+      "onboard_time": 1757648125,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 502936,
-      "num": 213193,
+      "num": 222482,
       "word": "李佳琦把赵昭仪养的很好",
       "onboard_time": 1757645845,
       "rank": 34,
@@ -123,8 +147,16 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 460575,
+      "num": 460575,
+      "word": "这样卖碱水面包不会脏吗",
+      "onboard_time": 1757646804,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 449260,
-      "num": 270086,
+      "num": 294298,
       "word": "原来会计才是吃瓜最多的行业",
       "onboard_time": 1757644046,
       "rank": 11,
@@ -137,6 +169,14 @@
       "onboard_time": 1757601574,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420599,
+      "num": 420599,
+      "word": "罗永浩西贝之争倒逼餐饮透明化",
+      "onboard_time": 1757644046,
+      "rank": 9,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 395324,
@@ -156,7 +196,7 @@
     },
     {
       "raw_hot": 364979,
-      "num": 213071,
+      "num": 220595,
       "word": "沈阳车辆不从烈士遗骸上方驶过",
       "onboard_time": 1757644347,
       "rank": 24,
@@ -169,14 +209,6 @@
       "onboard_time": 1757640506,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328656,
-      "num": 262588,
-      "word": "这样卖碱水面包不会脏吗",
-      "onboard_time": 1757646804,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 295921,
@@ -193,14 +225,6 @@
       "onboard_time": 1757637989,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282613,
-      "num": 282613,
-      "word": "罗永浩西贝之争倒逼餐饮透明化",
-      "onboard_time": 1757644046,
-      "rank": 9,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 281968,
@@ -224,6 +248,14 @@
       "word": "提交身份证复印件要写明用途",
       "onboard_time": 1757639187,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273244,
+      "num": 273244,
+      "word": "父亲曝女儿被虐待致死可怕细节",
+      "onboard_time": 1757651187,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -257,6 +289,22 @@
       "onboard_time": 1757593000,
       "rank": 22,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 253676,
+      "num": 253676,
+      "word": "痞幼酒吧蹦迪",
+      "onboard_time": 1757649206,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 249636,
+      "num": 429362,
+      "word": "成毅路人盘",
+      "onboard_time": 1757646026,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 239785,
@@ -315,6 +363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225440,
+      "num": 225440,
+      "word": "机场过水门迎接烈士",
+      "onboard_time": 1757649145,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 225004,
       "num": 906824,
       "word": "西贝将上线罗永浩菜单",
@@ -331,20 +387,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220432,
+      "num": 220432,
+      "word": "预制菜",
+      "onboard_time": 1757648187,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212872,
       "num": 212872,
       "word": "脾胃一旦通畅减肥是很快的",
       "onboard_time": 1757646686,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 211514,
-      "num": 213576,
-      "word": "成毅路人盘",
-      "onboard_time": 1757646026,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 206845,
@@ -361,6 +417,14 @@
       "onboard_time": 1757647045,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199527,
+      "num": 225402,
+      "word": "朱一龙现场迎接志愿军烈士",
+      "onboard_time": 1757650406,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 199015,
@@ -385,6 +449,14 @@
       "onboard_time": 1757646986,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194756,
+      "num": 221044,
+      "word": "A股",
+      "onboard_time": 1757649685,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 193969,
@@ -427,20 +499,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181012,
-      "num": 181012,
-      "word": "闫闯 小米",
-      "onboard_time": 1757648125,
-      "rank": 17,
-      "category": "汽车"
+      "raw_hot": 180972,
+      "num": 180972,
+      "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
+      "onboard_time": 1757650466,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 178260,
-      "num": 178260,
-      "word": "预制菜",
-      "onboard_time": 1757648187,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 174344,
+      "num": 213389,
+      "word": "特朗普看球赛安装防弹玻璃",
+      "onboard_time": 1757647286,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173153,
@@ -467,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171004,
+      "num": 214876,
+      "word": "家装综艺白月光回来了",
+      "onboard_time": 1757649986,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169140,
       "num": 169140,
       "word": "狗子一时无法接受已经当爹的事实",
@@ -489,6 +569,14 @@
       "onboard_time": 1757608524,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167894,
+      "num": 167894,
+      "word": "浪姐3在谭维维评论区团建",
+      "onboard_time": 1757650947,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 167699,
@@ -523,12 +611,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162322,
+      "num": 162322,
+      "word": "泰剧现在已经这么炸裂了吗",
+      "onboard_time": 1757648726,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159718,
       "num": 913473,
       "word": "成毅赴山海开播反馈",
       "onboard_time": 1757632162,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159715,
+      "num": 159715,
+      "word": "四川暴雨预警蓝到发紫",
+      "onboard_time": 1757647885,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154782,
@@ -587,20 +691,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145607,
+      "num": 145607,
+      "word": "西贝",
+      "onboard_time": 1757638227,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144989,
       "num": 144989,
       "word": "中国资产彻底爆发",
       "onboard_time": 1757647226,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144559,
-      "num": 144559,
-      "word": "西贝",
-      "onboard_time": 1757638227,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140334,
@@ -619,12 +723,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136932,
+      "num": 420634,
+      "word": "云上贵州董事长被查",
+      "onboard_time": 1757650347,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136581,
       "num": 136581,
       "word": "婚礼上把不喜欢的环节取消了",
       "onboard_time": 1757647705,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 135600,
+      "num": 135600,
+      "word": "特朗普将出席柯克葬礼",
+      "onboard_time": 1757649027,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134815,
@@ -644,7 +764,7 @@
     },
     {
       "raw_hot": 134266,
-      "num": 174958,
+      "num": 182817,
       "word": "终于有剧能收拾恶婆婆了",
       "onboard_time": 1757648006,
       "rank": 24,
@@ -681,6 +801,14 @@
       "onboard_time": 1757605049,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127503,
+      "num": 181152,
+      "word": "徐如蓝方益炯也是过上日子了",
+      "onboard_time": 1757650766,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 127374,
@@ -771,20 +899,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111069,
+      "num": 160998,
+      "word": "少女遭体罚身亡老师群聊天记录曝光",
+      "onboard_time": 1757651187,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110682,
       "num": 110682,
       "word": "运20飞行员和地面对话泪目",
       "onboard_time": 1757645786,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 109016,
-      "num": 109016,
-      "word": "四川暴雨预警蓝到发紫",
-      "onboard_time": 1757647885,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108125,
@@ -1027,12 +1155,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 65388,
-      "num": 213389,
-      "word": "特朗普看球赛安装防弹玻璃",
-      "onboard_time": 1757647286,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 70111,
+      "num": 168988,
+      "word": "天津一路面大量青蛙遍布",
+      "onboard_time": 1757650046,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61529,
+      "num": 221988,
+      "word": "时团送美团外卖免单",
+      "onboard_time": 1757649507,
+      "rank": 23,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 59198,
@@ -1073,6 +1209,22 @@
       "onboard_time": 1757599595,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 52350,
+      "num": 213155,
+      "word": "多地取消出租车司机户籍限制",
+      "onboard_time": 1757649685,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50021,
+      "num": 224041,
+      "word": "预制菜标准如何划定",
+      "onboard_time": 1757649685,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49466,
@@ -1145,6 +1297,14 @@
       "onboard_time": 1757615057,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39271,
+      "num": 224108,
+      "word": "开学一起拼好饭",
+      "onboard_time": 1757648844,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 36788,

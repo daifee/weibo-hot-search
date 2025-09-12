@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 11:45:00
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 12:28:35
 </p>
 </blockquote>
 <p>
@@ -1041,6 +1041,12 @@ AG夏决冠军（热度：1374157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%E4%B8%8B%E9%99%8D25.7%25%23" target="weibo">
+刑事立案下降25.7%（热度：1298429）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E8%8D%94%E8%8E%8E%E5%B7%B2%E6%8A%A5%E8%AD%A6%23" target="weibo">
 许荔莎已报警（热度：1294779）
 </a>
@@ -1505,12 +1511,6 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23" target="weibo">
 深圳天气（热度：1017081）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%E4%B8%8B%E9%99%8D25.7%25%23" target="weibo">
-刑事立案下降25.7%（热度：1016571）
 </a>
 </li>
 
@@ -3093,6 +3093,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8C%E8%BD%A8%E8%BF%87%E5%AE%A1%E4%BA%86%23" target="weibo">
+虞书欣双轨过审了（热度：593996）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E7%B2%89%E4%B8%9D%E8%BF%BD%E6%98%9F%E5%9B%B4%E5%A0%B5%E9%AB%98%E9%93%81%E7%AB%99%23" target="weibo">
 人民日报谈粉丝追星围堵高铁站（热度：592009）
 </a>
@@ -3215,6 +3221,12 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E8%80%81%E6%9D%BF%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E7%A7%B0113%E4%B8%87%E4%B8%8D%E8%83%BD%E5%BC%A5%E8%A1%A5%E6%8D%9F%E5%A4%B1%23" target="weibo">
 遭老板性侵女子称113万不能弥补损失（热度：573332）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%B7%B2%E8%8E%B7%E9%A2%84%E5%88%B6%E9%A3%9F%E5%93%81%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9%E6%8E%88%E6%9D%83%23" target="weibo">
+西贝已获预制食品相关专利授权（热度：571526）
 </a>
 </li>
 
@@ -3567,6 +3579,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E9%9B%AA%E6%95%B4%E5%AE%B9%E5%90%8E%E8%84%B8%E4%B8%8D%E5%AF%B9%E7%A7%B0%23" target="weibo">
+韦雪整容后脸不对称（热度：531797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%B2%81%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%23" target="weibo">
 百岁抗战老兵（热度：531692）
 </a>
@@ -3669,6 +3687,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E9%97%AF%20%E5%B0%8F%E7%B1%B3%23" target="weibo">
+闫闯 小米（热度：520850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E5%B7%B2%E5%90%AF%E7%A8%8B%E6%9D%A5%E5%8D%8E%23" target="weibo">
 金正恩已启程来华（热度：520112）
 </a>
@@ -3719,12 +3743,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E6%89%8B%E7%89%B5%E6%89%8B%E5%9B%9E%E9%85%92%E5%BA%97%23" target="weibo">
 井柏然刘雯手牵手回酒店（热度：508920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8C%E8%BD%A8%E8%BF%87%E5%AE%A1%E4%BA%86%23" target="weibo">
-虞书欣双轨过审了（热度：507976）
 </a>
 </li>
 
@@ -4217,6 +4235,12 @@ iPhone16需求不降反升（热度：477574）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%94%B6%E5%88%B0%E5%A5%B3%E6%BC%94%E5%91%98%E4%BB%AC%E9%9B%86%E4%BD%93%E7%A5%9D%E7%A6%8F%23" target="weibo">
 辛芷蕾收到女演员们集体祝福（热度：461094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E5%8D%96%E7%A2%B1%E6%B0%B4%E9%9D%A2%E5%8C%85%E4%B8%8D%E4%BC%9A%E8%84%8F%E5%90%97%23" target="weibo">
+这样卖碱水面包不会脏吗（热度：460575）
 </a>
 </li>
 
@@ -4781,6 +4805,12 @@ LABUBU价崩黄牛压货倒赔（热度：436558）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%96%9D%E5%A5%B6%E8%8C%B6%E4%B9%9F%E8%A6%81%E9%85%8D%E8%B4%A7%E4%BA%86%23" target="weibo">
 现在喝奶茶也要配货了（热度：420711）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%A5%BF%E8%B4%9D%E4%B9%8B%E4%BA%89%E5%80%92%E9%80%BC%E9%A4%90%E9%A5%AE%E9%80%8F%E6%98%8E%E5%8C%96%23" target="weibo">
+罗永浩西贝之争倒逼餐饮透明化（热度：420599）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ iG战胜EDG（热度：339456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%83%B8%E5%89%8D%E5%A5%BD%E5%A4%A7%E4%B8%80%E6%9C%B5%E7%8E%AB%E7%91%B0%23" target="weibo">
 辛芷蕾胸前好大一朵玫瑰（热度：335776）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%97%E9%98%85%E9%83%A8%E9%98%9F%E6%8A%95%E5%85%A5%E6%97%A5%E5%B8%B8%E6%88%98%E5%A4%87%E5%80%BC%E5%8B%A4%23" target="weibo">
-受阅部队投入日常战备值勤（热度：335764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%B6%9B%E6%92%95%E5%A5%96%E8%83%BD%E5%8A%9B%23" target="weibo">
-赵涛撕奖能力（热度：335236）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%AF%B4%E5%8F%8C%E4%B8%80%E6%B5%81%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B9%88%E4%B8%AA%E5%8F%8C%E4%B8%80%E6%B5%81%23" target="weibo">
-你说双一流原来是这么个双一流（热度：333603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%B8%86%E5%9B%9E%E5%BA%94%E6%94%B9%E5%89%A7%E6%9C%AC%23" target="weibo">
-郭帆回应改剧本（热度：332988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%239%E6%9C%88%E8%B4%A2%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
-9月财运最旺的星座（热度：332724）
 </a>
 </li>
 
