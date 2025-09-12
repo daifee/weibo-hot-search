@@ -1,0 +1,410 @@
+{
+  "runTime": 1757642550873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 722599,
+        "num": 1115615,
+        "word": "罗永浩称难受的肯定不是我",
+        "onboard_time": 1757639125,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 383816,
+        "num": 383816,
+        "word": "有小学建议不让老人接送小孩",
+        "onboard_time": 1757604930,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97589,
+        "num": 348544,
+        "word": "英雄回家",
+        "onboard_time": 1757603433,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1172189,
+        "num": 348102,
+        "word": "汤臣一品老化迹象",
+        "onboard_time": 1757637388,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347157,
+        "num": 347157,
+        "word": "迪丽热巴连续12年卡点为杨幂庆生",
+        "onboard_time": 1757640506,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1121667,
+        "num": 324466,
+        "word": "罗永浩当面说挺好背后说恶心",
+        "onboard_time": 1757636127,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 275710,
+        "num": 275710,
+        "word": "提交身份证复印件要写明用途",
+        "onboard_time": 1757639187,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227068,
+        "num": 227068,
+        "word": "iPhoneAir在华发售延期",
+        "onboard_time": 1757640086,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187048,
+        "num": 227004,
+        "word": "接30位烈士遗骸回国",
+        "onboard_time": 1757639367,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91338,
+        "num": 226740,
+        "word": "福建舰跨区试验训练系正常安排",
+        "onboard_time": 1757633844,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 870529,
+        "num": 226575,
+        "word": "热巴零点祝杨幂万事遂意",
+        "onboard_time": 1757632522,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559501,
+        "num": 226316,
+        "word": "丁禹兮为什么要用舌头翻书",
+        "onboard_time": 1757637927,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170189,
+        "num": 226087,
+        "word": "罗永浩说碰到蠢人心里累",
+        "onboard_time": 1757635767,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 301138,
+        "num": 225962,
+        "word": "车澈曾当李嘉格面抱乃万",
+        "onboard_time": 1757601574,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230991,
+        "num": 225789,
+        "word": "女孩遭体罚身亡老师聊天记录公布",
+        "onboard_time": 1757600372,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225620,
+        "num": 225620,
+        "word": "地铁被疑偷拍男子不认可女子道歉",
+        "onboard_time": 1757637989,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198678,
+        "num": 198678,
+        "word": "电影流浪地球第三部上下集",
+        "onboard_time": 1757642485,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172262,
+        "num": 172262,
+        "word": "今天我们带你回家",
+        "onboard_time": 1757637688,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157732,
+        "num": 172248,
+        "word": "成毅赴山海开播反馈",
+        "onboard_time": 1757632162,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91153,
+        "num": 172186,
+        "word": "赴山海",
+        "onboard_time": 1757635466,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433202,
+        "num": 172153,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 20,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 291227,
+        "num": 172122,
+        "word": "西贝晒出罗永浩消费账单",
+        "onboard_time": 1757601696,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 82829,
+        "num": 172086,
+        "word": "谭维维还敢回复张靓颖吗",
+        "onboard_time": 1757630841,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59198,
+        "num": 172043,
+        "word": "美高官警告赶走嘲笑柯克之死的人",
+        "onboard_time": 1757640745,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255192,
+        "num": 172015,
+        "word": "西贝将起诉罗永浩",
+        "onboard_time": 1757593000,
+        "rank": 24,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 193969,
+        "num": 171961,
+        "word": "福建舰通过台湾海峡",
+        "onboard_time": 1757641345,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171945,
+        "num": 171945,
+        "word": "西贝将上线罗永浩菜单",
+        "onboard_time": 1757598394,
+        "rank": 26,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 167545,
+        "num": 167545,
+        "word": "半佛",
+        "onboard_time": 1757639187,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160062,
+        "num": 160062,
+        "word": "公交车大幅避孕套广告被指引人不适",
+        "onboard_time": 1757581711,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150857,
+        "num": 150857,
+        "word": "罗永浩回复西贝准备好了",
+        "onboard_time": 1757599414,
+        "rank": 29,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 144678,
+        "num": 144678,
+        "word": "一直很佩服用26键打字的人",
+        "onboard_time": 1757633844,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142922,
+        "num": 142922,
+        "word": "福建舰赴南海开展科研试验和训练",
+        "onboard_time": 1757634085,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140790,
+        "num": 140790,
+        "word": "女子称665万买房买到了猪窝里",
+        "onboard_time": 1757632702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138757,
+        "num": 138757,
+        "word": "西贝",
+        "onboard_time": 1757638227,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125282,
+        "num": 125282,
+        "word": "卡塔尔首相遗憾美国情报太迟",
+        "onboard_time": 1757633785,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124682,
+        "num": 124682,
+        "word": "境外反华势力对办公邮箱攻击窃密",
+        "onboard_time": 1757633844,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123969,
+        "num": 123969,
+        "word": "原神",
+        "onboard_time": 1757640147,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112060,
+        "num": 123929,
+        "word": "全球公认10大抗衰老运动",
+        "onboard_time": 1757636488,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110674,
+        "num": 123924,
+        "word": "提了离职又不走是职场大忌",
+        "onboard_time": 1757633785,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108445,
+        "num": 123885,
+        "word": "志愿军老兵高唱我的祖国迎接忠魂归乡",
+        "onboard_time": 1757639305,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106342,
+        "num": 123835,
+        "word": "美联邦调查局公布柯克枪击案嫌犯照",
+        "onboard_time": 1757636069,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93955,
+        "num": 123758,
+        "word": "小红书被查",
+        "onboard_time": 1757564504,
+        "rank": 41,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 93913,
+        "num": 123730,
+        "word": "补气血最快的小方法",
+        "onboard_time": 1757597614,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93304,
+        "num": 123712,
+        "word": "赴山海第1集第14分25秒",
+        "onboard_time": 1757593300,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89167,
+        "num": 123631,
+        "word": "福建舰",
+        "onboard_time": 1757635466,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77899,
+        "num": 123594,
+        "word": "白裙子被黑裤子染成黄色",
+        "onboard_time": 1757603312,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75846,
+        "num": 123569,
+        "word": "网恋1个月被骗500万",
+        "onboard_time": 1757623573,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75197,
+        "num": 123511,
+        "word": "他们已成丰碑他们永远年轻",
+        "onboard_time": 1757639305,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72009,
+        "num": 123471,
+        "word": "志愿军战士乡音一出红了眼睛",
+        "onboard_time": 1757639067,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71947,
+        "num": 123439,
+        "word": "今天他将高擎忠魂之旗",
+        "onboard_time": 1757640804,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#让和平的薪火代代相传#"
+    }
+  }
+}
