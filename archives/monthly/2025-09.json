@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757665920540,
+  "endTime": 1757666714725,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -619,6 +619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2214718,
+      "num": 1915313,
+      "word": "西贝删博",
+      "onboard_time": 1757663543,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2164769,
       "num": 404390,
       "word": "许嵩 冯禧",
@@ -729,14 +737,6 @@
       "onboard_time": 1756865254,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1915313,
-      "num": 1915313,
-      "word": "西贝删博",
-      "onboard_time": 1757663543,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1913036,
@@ -889,6 +889,14 @@
       "onboard_time": 1757512584,
       "rank": 20,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 1768057,
+      "num": 1768057,
+      "word": "西贝承认部分菜品是隔夜菜",
+      "onboard_time": 1757664145,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1757308,
@@ -2659,14 +2667,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 851408,
-      "num": 851408,
-      "word": "西贝承认部分菜品是隔夜菜",
-      "onboard_time": 1757664145,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 851367,
       "num": 851367,
       "word": "东风61把大家给整不会了",
@@ -3307,6 +3307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 731675,
+      "num": 370852,
+      "word": "浙这个字居然组不了任何词",
+      "onboard_time": 1757659945,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 731454,
       "num": 1115202,
       "word": "陈伟霆张家人真的不会老",
@@ -3697,14 +3705,6 @@
       "onboard_time": 1756984162,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 665328,
-      "num": 370852,
-      "word": "浙这个字居然组不了任何词",
-      "onboard_time": 1757659945,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 664750,
@@ -5187,6 +5187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 504744,
+      "num": 504744,
+      "word": "罗永浩西贝之争是一场信任僵局",
+      "onboard_time": 1757659885,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 504209,
       "num": 398521,
       "word": "三星嘲讽iPhone17系列",
@@ -5425,14 +5433,6 @@
       "onboard_time": 1756821142,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 485885,
-      "num": 239729,
-      "word": "罗永浩西贝之争是一场信任僵局",
-      "onboard_time": 1757659885,
-      "rank": 20,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 485675,
@@ -8875,6 +8875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307749,
+      "num": 307749,
+      "word": "李兰迪张婧仪 双生花",
+      "onboard_time": 1757664983,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307419,
       "num": 243025,
       "word": "唐宫奇案",
@@ -9443,6 +9451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285505,
+      "num": 320695,
+      "word": "云合",
+      "onboard_time": 1757665164,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284848,
       "num": 189783,
       "word": "杨幂张小斐 从校服到礼服",
@@ -9913,6 +9929,14 @@
       "onboard_time": 1757570024,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271825,
+      "num": 271825,
+      "word": "西贝",
+      "onboard_time": 1757638227,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271338,
@@ -10457,14 +10481,6 @@
       "onboard_time": 1757338464,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 247759,
-      "num": 247759,
-      "word": "西贝",
-      "onboard_time": 1757638227,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247271,
@@ -11387,6 +11403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226439,
+      "num": 226439,
+      "word": "于东来发文感谢西贝",
+      "onboard_time": 1757662525,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226420,
       "num": 187031,
       "word": "董璇 早知道把小酒窝带来",
@@ -11835,6 +11859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216222,
+      "num": 216222,
+      "word": "中国航母在有关海域活动完全合法",
+      "onboard_time": 1757665705,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 216074,
       "num": 211048,
       "word": "战至巅峰",
@@ -12083,6 +12115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210835,
+      "num": 302472,
+      "word": "西贝前员工谈后厨究竟用没用预制菜",
+      "onboard_time": 1757664803,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210660,
       "num": 210660,
       "word": "原来小孩装病在大人眼里这么明显",
@@ -12225,6 +12265,14 @@
       "onboard_time": 1757045843,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 208071,
+      "num": 226166,
+      "word": "王珞丹抓娃娃抓到凌晨三点半",
+      "onboard_time": 1757665643,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 208005,
@@ -12715,6 +12763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202194,
+      "num": 223015,
+      "word": "赴山海直播",
+      "onboard_time": 1757665705,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202103,
       "num": 202103,
       "word": "开学基础第一杯奶茶就不基础",
@@ -13027,6 +13083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199017,
+      "num": 199017,
+      "word": "果郡王的果是苹果的果",
+      "onboard_time": 1757666123,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199015,
       "num": 916147,
       "word": "罗永浩回复西贝准备好了",
@@ -13163,14 +13227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197366,
-      "num": 320695,
-      "word": "云合",
-      "onboard_time": 1757665164,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197355,
       "num": 197355,
       "word": "一说拍照杨洋洗了把脸就来了",
@@ -13233,14 +13289,6 @@
       "onboard_time": 1757572922,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196905,
-      "num": 196905,
-      "word": "于东来发文感谢西贝",
-      "onboard_time": 1757662525,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196777,
@@ -13841,6 +13889,14 @@
       "onboard_time": 1757138002,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191345,
+      "num": 221506,
+      "word": "李沁 令人心动的offer7",
+      "onboard_time": 1757662704,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 191198,
@@ -14531,6 +14587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184808,
+      "num": 184808,
+      "word": "马琳为王曼昱竖大拇指",
+      "onboard_time": 1757666425,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184793,
       "num": 184793,
       "word": "辛芷蕾影史留名",
@@ -14577,6 +14641,14 @@
       "onboard_time": 1757142261,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184628,
+      "num": 184628,
+      "word": "国家财政1000亿元发放育儿补贴",
+      "onboard_time": 1757665224,
+      "rank": 31,
+      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 184544,
@@ -14841,6 +14913,14 @@
       "onboard_time": 1757640147,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181939,
+      "num": 181939,
+      "word": "用真草莓做了一个假草莓",
+      "onboard_time": 1757666183,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 181850,
@@ -15297,6 +15377,14 @@
       "onboard_time": 1757130381,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176490,
+      "num": 218479,
+      "word": "高卿尘淘汰王铮亮偷哭",
+      "onboard_time": 1757665884,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 176430,
@@ -16147,6 +16235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168728,
+      "num": 271013,
+      "word": "iPhone14机主是灵动岛岛主",
+      "onboard_time": 1757666064,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 168659,
       "num": 403887,
       "word": "2025暑期档电影票房119.66亿元",
@@ -16297,22 +16393,6 @@
       "onboard_time": 1756972162,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167801,
-      "num": 167533,
-      "word": "李沁 令人心动的offer7",
-      "onboard_time": 1757662704,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 167719,
-      "num": 167719,
-      "word": "王珞丹抓娃娃抓到凌晨三点半",
-      "onboard_time": 1757665643,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 167699,
@@ -16529,14 +16609,6 @@
       "onboard_time": 1757606668,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166160,
-      "num": 166160,
-      "word": "李兰迪张婧仪 双生花",
-      "onboard_time": 1757664983,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 166121,
@@ -17163,14 +17235,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 161240,
-      "num": 161240,
-      "word": "中国航母在有关海域活动完全合法",
-      "onboard_time": 1757665705,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 161215,
       "num": 184613,
       "word": "慕尼黑车展基础零跑展台就不基础",
@@ -17467,6 +17531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159312,
+      "num": 159312,
+      "word": "INFJ 丝瓜汤人格",
+      "onboard_time": 1757665584,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159287,
       "num": 159287,
       "word": "特朗普感叹九三阅兵",
@@ -17633,14 +17705,6 @@
       "onboard_time": 1756685060,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157539,
-      "num": 157539,
-      "word": "国家财政1000亿元发放育儿补贴",
-      "onboard_time": 1757665224,
-      "rank": 31,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 157516,
@@ -18147,6 +18211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153513,
+      "num": 153513,
+      "word": "华为新耳夹耳机曝光",
+      "onboard_time": 1757662225,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153446,
       "num": 152787,
       "word": "赴山海莲花楼联动",
@@ -18483,14 +18555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151017,
-      "num": 302472,
-      "word": "西贝前员工谈后厨究竟用没用预制菜",
-      "onboard_time": 1757664803,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150993,
       "num": 190288,
       "word": "谢娜大哥说张杰唱歌一般",
@@ -18803,12 +18867,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149310,
+      "num": 354000,
+      "word": "外交部回应福建舰通过台湾海峡",
+      "onboard_time": 1757664923,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149308,
       "num": 349582,
       "word": "淘宝闪购买iPhone17送17杯奶茶",
       "onboard_time": 1757653766,
       "rank": 15,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 149151,
+      "num": 149151,
+      "word": "同居生子分手男方不认孩子",
+      "onboard_time": 1757663844,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149091,
@@ -18849,14 +18929,6 @@
       "onboard_time": 1757647165,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148821,
-      "num": 148821,
-      "word": "赴山海直播",
-      "onboard_time": 1757665705,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 148802,
@@ -19385,6 +19457,14 @@
       "onboard_time": 1756794682,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145964,
+      "num": 145964,
+      "word": "林诗栋vs吴晙诚",
+      "onboard_time": 1757666123,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 145959,
@@ -20169,14 +20249,6 @@
       "onboard_time": 1757252063,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 141462,
-      "num": 141462,
-      "word": "同居生子分手男方不认孩子",
-      "onboard_time": 1757663844,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141453,
@@ -21139,14 +21211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136103,
-      "num": 136103,
-      "word": "华为新耳夹耳机曝光",
-      "onboard_time": 1757662225,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 136020,
       "num": 136020,
       "word": "这才是真正的普通人穿搭",
@@ -21289,6 +21353,14 @@
       "onboard_time": 1757494342,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135238,
+      "num": 135238,
+      "word": "严浩翔要求剪掉的片段放出来了",
+      "onboard_time": 1757665884,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 135224,
@@ -22171,6 +22243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130398,
+      "num": 130398,
+      "word": "叔圈天菜真是各闯各的",
+      "onboard_time": 1757666605,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130392,
       "num": 130392,
       "word": "柯洁鲁豫探寻破局人生",
@@ -22289,6 +22369,14 @@
       "onboard_time": 1756825283,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129787,
+      "num": 129787,
+      "word": "考拉基因真争气啊",
+      "onboard_time": 1757666364,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 129781,
@@ -24363,14 +24451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119355,
-      "num": 119355,
-      "word": "INFJ 丝瓜汤人格",
-      "onboard_time": 1757665584,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119337,
       "num": 197369,
       "word": "抗战胜利80周年",
@@ -25563,14 +25643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113487,
-      "num": 113487,
-      "word": "高卿尘淘汰王铮亮偷哭",
-      "onboard_time": 1757665884,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113446,
       "num": 113446,
       "word": "苹果iOS26新增图标变色功能",
@@ -25785,14 +25857,6 @@
       "onboard_time": 1757509644,
       "rank": 22,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 112581,
-      "num": 112581,
-      "word": "严浩翔要求剪掉的片段放出来了",
-      "onboard_time": 1757665884,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 112545,
@@ -26137,6 +26201,14 @@
       "onboard_time": 1757236042,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110990,
+      "num": 255862,
+      "word": "华为新三折叠开售现场人从众",
+      "onboard_time": 1757666064,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 110975,
@@ -29667,14 +29739,6 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 92706,
-      "num": 330040,
-      "word": "外交部回应福建舰通过台湾海峡",
-      "onboard_time": 1757664923,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 92649,
       "num": 105793,
       "word": "智搜分析樊振东失利原因",
@@ -31347,6 +31411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81442,
+      "num": 319205,
+      "word": "天水农业老师用pdd吃遍全国水果",
+      "onboard_time": 1757664204,
+      "rank": 17,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 81429,
       "num": 425294,
       "word": "青岛景区工作人员回应将垃圾扫入海",
@@ -31785,6 +31857,14 @@
       "onboard_time": 1756820482,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77362,
+      "num": 153768,
+      "word": "如果赴山海藏海传真对打",
+      "onboard_time": 1757666123,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 77231,
@@ -32873,14 +32953,6 @@
       "onboard_time": 1756723461,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 66029,
-      "num": 319205,
-      "word": "天水农业老师用pdd吃遍全国水果",
-      "onboard_time": 1757664204,
-      "rank": 17,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 65934,
@@ -34817,6 +34889,14 @@
       "onboard_time": 1757184015,
       "rank": 31,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 45976,
+      "num": 154584,
+      "word": "贺峻霖变脸",
+      "onboard_time": 1757666245,
+      "rank": 38,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 45867,
@@ -37505,6 +37585,9 @@
     },
     {
       "word": "#和平发展是中国的坚定选择#"
+    },
+    {
+      "word": "#山河永念英雄归乡#"
     }
   ]
 }
