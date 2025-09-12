@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757648014032,
+  "endTime": 1757648700302,
   "band_list": [
     {
       "raw_hot": 1357377,
@@ -19,6 +19,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 1016571,
+      "num": 1162651,
+      "word": "刑事立案下降25.7%",
+      "onboard_time": 1757645727,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1006120,
       "num": 1160979,
       "word": "罗永浩奖励10万征集西贝预制菜线索",
@@ -35,28 +43,20 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 870529,
-      "num": 915063,
-      "word": "热巴零点祝杨幂万事遂意",
-      "onboard_time": 1757632522,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 847655,
-      "num": 847655,
+      "raw_hot": 928145,
+      "num": 928145,
       "word": "龚俊 李沁你也是",
       "onboard_time": 1757644645,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 780039,
-      "num": 780039,
-      "word": "刑事立案下降25.7%",
-      "onboard_time": 1757645727,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 870529,
+      "num": 915063,
+      "word": "热巴零点祝杨幂万事遂意",
+      "onboard_time": 1757632522,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 751598,
@@ -83,20 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523427,
+      "num": 523427,
+      "word": "杨幂39了",
+      "onboard_time": 1757647226,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 507976,
+      "num": 499062,
+      "word": "虞书欣双轨过审了",
+      "onboard_time": 1757646686,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502936,
       "num": 213193,
       "word": "李佳琦把赵昭仪养的很好",
       "onboard_time": 1757645845,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499062,
-      "num": 499062,
-      "word": "虞书欣双轨过审了",
-      "onboard_time": 1757646686,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 492374,
@@ -115,7 +123,7 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 425601,
+      "raw_hot": 449260,
       "num": 270086,
       "word": "原来会计才是吃瓜最多的行业",
       "onboard_time": 1757644046,
@@ -155,20 +163,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 353724,
-      "num": 353724,
-      "word": "杨幂39了",
-      "onboard_time": 1757647226,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347157,
       "num": 347157,
       "word": "迪丽热巴连续12年卡点为杨幂庆生",
       "onboard_time": 1757640506,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328656,
+      "num": 262588,
+      "word": "这样卖碱水面包不会脏吗",
+      "onboard_time": 1757646804,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 295921,
@@ -235,14 +243,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 262588,
-      "num": 262588,
-      "word": "这样卖碱水面包不会脏吗",
-      "onboard_time": 1757646804,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 258662,
       "num": 258662,
       "word": "梁伟铿王昶杀疯了",
@@ -260,11 +260,19 @@
     },
     {
       "raw_hot": 239785,
-      "num": 809960,
+      "num": 938228,
       "word": "接30位烈士遗骸回国",
       "onboard_time": 1757639367,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 239182,
+      "num": 239182,
+      "word": "世界第二网红来了天津也得摊煎饼",
+      "onboard_time": 1757643926,
+      "rank": 19,
+      "category": "网红,幽默"
     },
     {
       "raw_hot": 239085,
@@ -307,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225004,
+      "num": 906824,
+      "word": "西贝将上线罗永浩菜单",
+      "onboard_time": 1757598394,
+      "rank": 6,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 222184,
       "num": 222184,
       "word": "半佛",
@@ -315,28 +331,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 216514,
-      "num": 216514,
-      "word": "世界第二网红来了天津也得摊煎饼",
-      "onboard_time": 1757643926,
-      "rank": 19,
-      "category": "网红,幽默"
-    },
-    {
-      "raw_hot": 216463,
-      "num": 906824,
-      "word": "西贝将上线罗永浩菜单",
-      "onboard_time": 1757598394,
-      "rank": 6,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 212872,
       "num": 212872,
       "word": "脾胃一旦通畅减肥是很快的",
       "onboard_time": 1757646686,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211514,
+      "num": 213576,
+      "word": "成毅路人盘",
+      "onboard_time": 1757646026,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 206845,
@@ -371,7 +379,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194877,
+      "raw_hot": 196246,
       "num": 194877,
       "word": "金发宋雨琦又杀回来了",
       "onboard_time": 1757646986,
@@ -403,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192650,
-      "num": 213576,
-      "word": "成毅路人盘",
-      "onboard_time": 1757646026,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187606,
       "num": 187606,
       "word": "不眠日定档",
@@ -425,6 +425,22 @@
       "onboard_time": 1757640147,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181012,
+      "num": 181012,
+      "word": "闫闯 小米",
+      "onboard_time": 1757648125,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 178260,
+      "num": 178260,
+      "word": "预制菜",
+      "onboard_time": 1757648187,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173153,
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169140,
+      "num": 169140,
+      "word": "狗子一时无法接受已经当爹的事实",
+      "onboard_time": 1757647405,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168406,
       "num": 907177,
       "word": "女子称665万买房买到了猪窝里",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 167699,
-      "num": 161671,
+      "num": 169583,
       "word": "运20机舱内对烈士广播",
       "onboard_time": 1757643685,
       "rank": 31,
@@ -595,6 +619,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136581,
+      "num": 136581,
+      "word": "婚礼上把不喜欢的环节取消了",
+      "onboard_time": 1757647705,
+      "rank": 40,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 134815,
+      "num": 134815,
+      "word": "高质量完成十四五规划系列发布会",
+      "onboard_time": 1757647885,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134367,
       "num": 167101,
       "word": "王一博真的来贵州了",
@@ -603,11 +643,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134266,
+      "num": 174958,
+      "word": "终于有剧能收拾恶婆婆了",
+      "onboard_time": 1757648006,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134026,
       "num": 134026,
       "word": "华为三折叠产线首次曝光",
       "onboard_time": 1757646686,
       "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 133665,
+      "num": 133665,
+      "word": "iPhone17今晚8点接受预购",
+      "onboard_time": 1757648065,
+      "rank": 42,
       "category": "数码"
     },
     {
@@ -651,12 +707,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 124187,
-      "num": 124187,
-      "word": "高质量完成十四五规划系列发布会",
-      "onboard_time": 1757647885,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 123394,
+      "num": 137637,
+      "word": "特朗普将出席遭枪杀盟友葬礼",
+      "onboard_time": 1757646865,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120189,
@@ -667,27 +723,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120129,
+      "num": 120129,
+      "word": "原来这个叫精神涣散",
+      "onboard_time": 1757648366,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118987,
       "num": 911493,
       "word": "小布什当年得知911后反应",
       "onboard_time": 1757597976,
       "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 115039,
-      "num": 115039,
-      "word": "婚礼上把不喜欢的环节取消了",
-      "onboard_time": 1757647705,
-      "rank": 40,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 114714,
-      "num": 114714,
-      "word": "特朗普将出席遭枪杀盟友葬礼",
-      "onboard_time": 1757646865,
-      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -731,20 +779,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109016,
+      "num": 109016,
+      "word": "四川暴雨预警蓝到发紫",
+      "onboard_time": 1757647885,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108125,
       "num": 492267,
       "word": "赴山海",
       "onboard_time": 1757580812,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105892,
-      "num": 105892,
-      "word": "四川暴雨预警蓝到发紫",
-      "onboard_time": 1757647885,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103943,
@@ -777,6 +825,14 @@
       "onboard_time": 1757581892,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96550,
+      "num": 106686,
+      "word": "iPhoneAir官网更新",
+      "onboard_time": 1757648187,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 96139,
@@ -923,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81107,
+      "num": 146256,
+      "word": "宋亚轩把蔡明骗的一愣一愣",
+      "onboard_time": 1757648426,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80818,
       "num": 489296,
       "word": "赴山海云包场",
@@ -961,6 +1025,14 @@
       "onboard_time": 1757601696,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 65388,
+      "num": 213389,
+      "word": "特朗普看球赛安装防弹玻璃",
+      "onboard_time": 1757647286,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59198,
@@ -1097,14 +1169,6 @@
       "onboard_time": 1757611879,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28863,
-      "num": 213389,
-      "word": "特朗普看球赛安装防弹玻璃",
-      "onboard_time": 1757647286,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26928,

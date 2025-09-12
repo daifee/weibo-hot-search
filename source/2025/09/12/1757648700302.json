@@ -1,0 +1,410 @@
+{
+  "runTime": 1757648700302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1016571,
+        "num": 1162651,
+        "word": "刑事立案下降25.7%",
+        "onboard_time": 1757645727,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 960449,
+        "num": 960449,
+        "word": "罗永浩奖励10万征集西贝预制菜线索",
+        "onboard_time": 1757642665,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 93421,
+        "num": 938228,
+        "word": "接30位烈士遗骸回国",
+        "onboard_time": 1757639367,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 928145,
+        "num": 928145,
+        "word": "龚俊 李沁你也是",
+        "onboard_time": 1757644645,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523427,
+        "num": 523427,
+        "word": "杨幂39了",
+        "onboard_time": 1757647226,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262302,
+        "num": 262302,
+        "word": "罗永浩西贝之争倒逼餐饮透明化",
+        "onboard_time": 1757644046,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 261079,
+        "num": 261079,
+        "word": "有小学建议不让老人接送小孩",
+        "onboard_time": 1757604930,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242885,
+        "num": 242885,
+        "word": "日军细菌战受害者整夜叫痛",
+        "onboard_time": 1757642665,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 507976,
+        "num": 242381,
+        "word": "虞书欣双轨过审了",
+        "onboard_time": 1757646686,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403247,
+        "num": 241349,
+        "word": "罗永浩称难受的肯定不是我",
+        "onboard_time": 1757639125,
+        "rank": 9,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 449260,
+        "num": 240454,
+        "word": "原来会计才是吃瓜最多的行业",
+        "onboard_time": 1757644046,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328656,
+        "num": 239534,
+        "word": "这样卖碱水面包不会脏吗",
+        "onboard_time": 1757646804,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239182,
+        "num": 239182,
+        "word": "世界第二网红来了天津也得摊煎饼",
+        "onboard_time": 1757643926,
+        "rank": 12,
+        "category": "网红,幽默"
+      },
+      {
+        "raw_hot": 226065,
+        "num": 226065,
+        "word": "英雄回家",
+        "onboard_time": 1757603433,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212902,
+        "num": 212902,
+        "word": "梁伟铿王昶杀疯了",
+        "onboard_time": 1757645065,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211514,
+        "num": 211514,
+        "word": "成毅路人盘",
+        "onboard_time": 1757646026,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191126,
+        "num": 191126,
+        "word": "丁禹兮为什么要用舌头翻书",
+        "onboard_time": 1757637927,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181012,
+        "num": 181012,
+        "word": "闫闯 小米",
+        "onboard_time": 1757648125,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178260,
+        "num": 178260,
+        "word": "预制菜",
+        "onboard_time": 1757648187,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65388,
+        "num": 178109,
+        "word": "特朗普看球赛安装防弹玻璃",
+        "onboard_time": 1757647286,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 536810,
+        "num": 177621,
+        "word": "罗永浩当面说挺好背后说恶心",
+        "onboard_time": 1757636127,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 481168,
+        "num": 176753,
+        "word": "李佳琦把赵昭仪养的很好",
+        "onboard_time": 1757645845,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339233,
+        "num": 176063,
+        "word": "热巴零点祝杨幂万事遂意",
+        "onboard_time": 1757632522,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336843,
+        "num": 175273,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 134266,
+        "num": 174958,
+        "word": "终于有剧能收拾恶婆婆了",
+        "onboard_time": 1757648006,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332609,
+        "num": 174438,
+        "word": "沈阳车辆不从烈士遗骸上方驶过",
+        "onboard_time": 1757644347,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225004,
+        "num": 173877,
+        "word": "西贝将上线罗永浩菜单",
+        "onboard_time": 1757598394,
+        "rank": 26,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 196246,
+        "num": 173161,
+        "word": "金发宋雨琦又杀回来了",
+        "onboard_time": 1757646986,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185989,
+        "num": 172768,
+        "word": "井胧你倒是看一眼是井迪啊",
+        "onboard_time": 1757647045,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120521,
+        "num": 171951,
+        "word": "综艺新人躺过道惊呆沈腾黄晓明",
+        "onboard_time": 1757647165,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201149,
+        "num": 171516,
+        "word": "西贝将起诉罗永浩",
+        "onboard_time": 1757593000,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 190441,
+        "num": 170692,
+        "word": "脾胃一旦通畅减肥是很快的",
+        "onboard_time": 1757646686,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139862,
+        "num": 170081,
+        "word": "运20空地对话",
+        "onboard_time": 1757646686,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106643,
+        "num": 169583,
+        "word": "运20机舱内对烈士广播",
+        "onboard_time": 1757643685,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169140,
+        "num": 169140,
+        "word": "狗子一时无法接受已经当爹的事实",
+        "onboard_time": 1757647405,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162182,
+        "num": 162182,
+        "word": "提交身份证复印件要写明用途",
+        "onboard_time": 1757639187,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162036,
+        "num": 162036,
+        "word": "西贝晒出罗永浩消费账单",
+        "onboard_time": 1757601696,
+        "rank": 36,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 81107,
+        "num": 146256,
+        "word": "宋亚轩把蔡明骗的一愣一愣",
+        "onboard_time": 1757648426,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141942,
+        "num": 141942,
+        "word": "西贝",
+        "onboard_time": 1757638227,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123394,
+        "num": 137637,
+        "word": "特朗普将出席遭枪杀盟友葬礼",
+        "onboard_time": 1757646865,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136581,
+        "num": 136581,
+        "word": "婚礼上把不喜欢的环节取消了",
+        "onboard_time": 1757647705,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 134815,
+        "num": 134815,
+        "word": "高质量完成十四五规划系列发布会",
+        "onboard_time": 1757647885,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133665,
+        "num": 133665,
+        "word": "iPhone17今晚8点接受预购",
+        "onboard_time": 1757648065,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126321,
+        "num": 126321,
+        "word": "半佛",
+        "onboard_time": 1757639187,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121415,
+        "num": 121415,
+        "word": "中国资产彻底爆发",
+        "onboard_time": 1757647226,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120129,
+        "num": 120129,
+        "word": "原来这个叫精神涣散",
+        "onboard_time": 1757648366,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114799,
+        "num": 114799,
+        "word": "志愿军老兵高唱我的祖国迎接忠魂归乡",
+        "onboard_time": 1757639305,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111275,
+        "num": 111275,
+        "word": "今天我们带你回家",
+        "onboard_time": 1757637688,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109016,
+        "num": 109016,
+        "word": "四川暴雨预警蓝到发紫",
+        "onboard_time": 1757647885,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96550,
+        "num": 106686,
+        "word": "iPhoneAir官网更新",
+        "onboard_time": 1757648187,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平发展是中国的坚定选择#"
+    }
+  }
+}

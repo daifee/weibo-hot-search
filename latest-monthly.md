@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 11:33:34
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 11:45:00
 </p>
 </blockquote>
 <p>
@@ -1509,6 +1509,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%E4%B8%8B%E9%99%8D25.7%25%23" target="weibo">
+刑事立案下降25.7%（热度：1016571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E6%9C%89%E5%AE%98%E9%85%8Dcp%E4%BA%86%23" target="weibo">
 小酒窝有官配cp了（热度：1008315）
 </a>
@@ -1685,6 +1691,12 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%B4%B5iPhone%E8%AF%9E%E7%94%9F%23" target="weibo">
 最贵iPhone诞生（热度：928701）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E6%9D%8E%E6%B2%81%E4%BD%A0%E4%B9%9F%E6%98%AF%23" target="weibo">
+龚俊 李沁你也是（热度：928145）
 </a>
 </li>
 
@@ -1965,12 +1977,6 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E6%9D%8E%E6%B2%81%E4%BD%A0%E4%B9%9F%E6%98%AF%23" target="weibo">
-龚俊 李沁你也是（热度：847655）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E9%9B%B71%23" target="weibo">
 惊雷1（热度：847418）
 </a>
@@ -2213,12 +2219,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E8%AF%AF%E5%90%9E%E7%94%B5%E6%B1%A010%E5%B0%8F%E6%97%B6%E8%87%B4%E7%BB%88%E8%BA%AB%E6%AE%8B%E7%96%BE%23" target="weibo">
 幼儿误吞电池10小时致终身残疾（热度：783754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%E4%B8%8B%E9%99%8D25.7%25%23" target="weibo">
-刑事立案下降25.7%（热度：780039）
 </a>
 </li>
 
@@ -3645,6 +3645,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%8239%E4%BA%86%23" target="weibo">
+杨幂39了（热度：523427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%83%A0%E5%A6%B9%E5%86%B3%E5%AE%9A%E6%97%A0%E9%99%90%E6%9C%9F%E5%81%9C%E5%B7%A5%23" target="weibo">
 张惠妹决定无限期停工（热度：522369）
 </a>
@@ -3713,6 +3719,12 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E6%89%8B%E7%89%B5%E6%89%8B%E5%9B%9E%E9%85%92%E5%BA%97%23" target="weibo">
 井柏然刘雯手牵手回酒店（热度：508920）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8C%E8%BD%A8%E8%BF%87%E5%AE%A1%E4%BA%86%23" target="weibo">
+虞书欣双轨过审了（热度：507976）
 </a>
 </li>
 
@@ -3839,12 +3851,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83100%25%E5%8F%AF%E9%99%8D%E8%A7%A3%23" target="weibo">
 8万只气球100%可降解（热度：499747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8C%E8%BD%A8%E8%BF%87%E5%AE%A1%E4%BA%86%23" target="weibo">
-虞书欣双轨过审了（热度：499062）
 </a>
 </li>
 
@@ -4383,6 +4389,12 @@ BLG对战iG（热度：455460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BC%9A%E8%AE%A1%E6%89%8D%E6%98%AF%E5%90%83%E7%93%9C%E6%9C%80%E5%A4%9A%E7%9A%84%E8%A1%8C%E4%B8%9A%23" target="weibo">
+原来会计才是吃瓜最多的行业（热度：449260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%AE%81%E5%8F%91%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E5%AF%B9%E6%AF%94%E5%9B%BE%23" target="weibo">
 毛宁发中国阅兵对比图（热度：448713）
 </a>
@@ -4715,12 +4727,6 @@ LABUBU价崩黄牛压货倒赔（热度：436558）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%20%E5%8E%9F%E6%9D%A5%E5%86%85%E5%A8%B1%E7%BB%99%E6%88%91%E6%98%AF%E8%BF%99%E4%B8%AA%E5%AE%9A%E4%BD%8D%23" target="weibo">
 沈佳润 原来内娱给我是这个定位（热度：425888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BC%9A%E8%AE%A1%E6%89%8D%E6%98%AF%E5%90%83%E7%93%9C%E6%9C%80%E5%A4%9A%E7%9A%84%E8%A1%8C%E4%B8%9A%23" target="weibo">
-原来会计才是吃瓜最多的行业（热度：425601）
 </a>
 </li>
 
@@ -5693,12 +5699,6 @@ iPhone16价格不降反升（热度：354085）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E6%88%91%E5%B7%B2%E7%BB%8F%E8%BF%87%E4%BA%86%E9%9C%80%E8%A6%81%E4%BD%A0%E7%9A%84%E5%B9%B4%E9%BE%84%E4%BA%86%23" target="weibo">
 妈我已经过了需要你的年龄了（热度：353743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%8239%E4%BA%86%23" target="weibo">
-杨幂39了（热度：353724）
 </a>
 </li>
 
