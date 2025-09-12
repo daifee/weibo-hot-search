@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757676055087,
+  "endTime": 1757676993559,
   "band_list": [
     {
       "raw_hot": 2493648,
@@ -16,6 +16,14 @@
       "word": "西贝删博",
       "onboard_time": 1757663543,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1883205,
+      "num": 413443,
+      "word": "海底捞小便门案一审宣判",
+      "onboard_time": 1757674404,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -43,20 +51,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1467655,
-      "num": 1467655,
+      "raw_hot": 1482574,
+      "num": 1482574,
       "word": "迪奥活动",
       "onboard_time": 1757670021,
       "rank": 3,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1390691,
-      "num": 238519,
-      "word": "海底捞小便门案一审宣判",
-      "onboard_time": 1757674404,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1357377,
@@ -65,6 +65,14 @@
       "onboard_time": 1757637388,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1337793,
+      "num": 521861,
+      "word": "迪丽热巴刘海",
+      "onboard_time": 1757670923,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1324830,
@@ -83,12 +91,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 1221052,
-      "num": 521861,
-      "word": "迪丽热巴刘海",
-      "onboard_time": 1757670923,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 1211204,
+      "num": 403008,
+      "word": "妻子微信群辱骂丈夫被判在群中道歉",
+      "onboard_time": 1757671883,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1195338,
@@ -104,14 +112,6 @@
       "word": "预制菜 强制明示",
       "onboard_time": 1757653825,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1113087,
-      "num": 273691,
-      "word": "妻子微信群辱骂丈夫被判在群中道歉",
-      "onboard_time": 1757671883,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -153,6 +153,14 @@
       "onboard_time": 1757644645,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 877097,
+      "num": 877097,
+      "word": "西贝",
+      "onboard_time": 1757638227,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 872340,
@@ -291,6 +299,22 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 662011,
+      "num": 662011,
+      "word": "西贝一天收入减少200多万",
+      "onboard_time": 1757674885,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594988,
+      "num": 594988,
+      "word": "西贝厨师被记者问懵了",
+      "onboard_time": 1757670021,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593996,
       "num": 499062,
       "word": "虞书欣双轨过审了",
@@ -329,14 +353,6 @@
       "onboard_time": 1757656168,
       "rank": 27,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 581185,
-      "num": 581185,
-      "word": "西贝厨师被记者问懵了",
-      "onboard_time": 1757670021,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 572997,
@@ -379,19 +395,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496682,
+      "num": 397854,
+      "word": "海底捞小便事件涉案者父母赔220万",
+      "onboard_time": 1757675423,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492374,
       "num": 913131,
       "word": "研究生多到宿舍不够住",
       "onboard_time": 1757602053,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 479853,
-      "num": 479853,
-      "word": "西贝一天收入减少200多万",
-      "onboard_time": 1757674885,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -491,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 395641,
+      "num": 395641,
+      "word": "王一博成毅林一线下活动生图",
+      "onboard_time": 1757674225,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395324,
       "num": 395324,
       "word": "一名网红被杀美国为何会降半旗",
@@ -553,14 +577,6 @@
       "onboard_time": 1757644347,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 351237,
-      "num": 238268,
-      "word": "王一博成毅林一线下活动生图",
-      "onboard_time": 1757674225,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 348997,
@@ -699,16 +715,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271825,
-      "num": 271825,
-      "word": "西贝",
-      "onboard_time": 1757638227,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271257,
-      "num": 326502,
+      "num": 420638,
       "word": "于东来发文感谢西贝",
       "onboard_time": 1757662525,
       "rank": 44,
@@ -739,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258967,
+      "num": 258967,
+      "word": "黄明昊发文为杨幂庆生",
+      "onboard_time": 1757670983,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258662,
       "num": 258662,
       "word": "梁伟铿王昶杀疯了",
@@ -761,14 +777,6 @@
       "onboard_time": 1757646026,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243774,
-      "num": 238170,
-      "word": "海底捞小便事件涉案者父母赔220万",
-      "onboard_time": 1757675423,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239785,
@@ -817,14 +825,6 @@
       "onboard_time": 1757580812,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228688,
-      "num": 228688,
-      "word": "黄明昊发文为杨幂庆生",
-      "onboard_time": 1757670983,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 228648,
@@ -1004,7 +1004,7 @@
     },
     {
       "raw_hot": 194655,
-      "num": 150845,
+      "num": 158361,
       "word": "张彬彬连续13年为杨幂庆生",
       "onboard_time": 1757674704,
       "rank": 31,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1757665584,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189004,
+      "num": 189004,
+      "word": "iPhone17系列预售",
+      "onboard_time": 1757676444,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 188093,
@@ -1241,6 +1249,22 @@
       "onboard_time": 1757653766,
       "rank": 40,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 173434,
+      "num": 173434,
+      "word": "很费钱但是戒不掉的爱好",
+      "onboard_time": 1757675783,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 173355,
+      "num": 173355,
+      "word": "西贝后厨的食材几乎要解冻",
+      "onboard_time": 1757674643,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173153,
@@ -1443,12 +1467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154976,
+      "num": 154976,
+      "word": "戚薇恩利豪门姐弟感变装",
+      "onboard_time": 1757675843,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154782,
       "num": 910175,
       "word": "韩国海警将救生衣让给中国老人后遇难",
       "onboard_time": 1757593657,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154216,
+      "num": 154216,
+      "word": "西贝店员称客流量受到影响",
+      "onboard_time": 1757676923,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153513,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1757636069,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 150566,
-      "num": 150566,
-      "word": "西贝后厨的食材几乎要解冻",
-      "onboard_time": 1757674643,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150465,
@@ -1675,12 +1707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137453,
+      "num": 137453,
+      "word": "阴阳师",
+      "onboard_time": 1757676743,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136581,
       "num": 136581,
       "word": "婚礼上把不喜欢的环节取消了",
       "onboard_time": 1757647705,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 136329,
+      "num": 136329,
+      "word": "奥莉参加花滑赛",
+      "onboard_time": 1757675364,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 136128,
@@ -1764,7 +1812,7 @@
     },
     {
       "raw_hot": 133449,
-      "num": 171902,
+      "num": 190408,
       "word": "李沁我是P人她是勾人",
       "onboard_time": 1757673622,
       "rank": 48,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1757666605,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129922,
-      "num": 129922,
-      "word": "奥莉参加花滑赛",
-      "onboard_time": 1757675364,
-      "rank": 34,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 129701,
@@ -1867,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125491,
+      "num": 200768,
+      "word": "花少打通了李沁的任督二脉",
+      "onboard_time": 1757676203,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124836,
       "num": 124836,
       "word": "全球公认10大抗衰老运动",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1757663246,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124283,
+      "num": 124283,
+      "word": "超大七彩祥云",
+      "onboard_time": 1757675725,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 123394,
@@ -1921,14 +1977,6 @@
       "onboard_time": 1757656706,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 122959,
-      "num": 122959,
-      "word": "超大七彩祥云",
-      "onboard_time": 1757675725,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 120189,
@@ -1979,20 +2027,20 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 117085,
+      "num": 117085,
+      "word": "陈熠1比3韩莹",
+      "onboard_time": 1757676923,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117066,
       "num": 117066,
       "word": "安卓版iPhoneAir",
       "onboard_time": 1757659285,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 117060,
-      "num": 117060,
-      "word": "戚薇恩利豪门姐弟感变装",
-      "onboard_time": 1757675843,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 117042,
@@ -2027,6 +2075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115367,
+      "num": 115367,
+      "word": "可以防小偷的肚腩包",
+      "onboard_time": 1757676621,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115137,
       "num": 115137,
       "word": "Doinb最后一舞",
@@ -2049,6 +2105,14 @@
       "onboard_time": 1757640804,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113836,
+      "num": 113836,
+      "word": "美凶手淡定将死者头颅扔进垃圾桶",
+      "onboard_time": 1757676504,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113773,
@@ -2081,14 +2145,6 @@
       "onboard_time": 1757642605,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112429,
-      "num": 112429,
-      "word": "很费钱但是戒不掉的爱好",
-      "onboard_time": 1757675783,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 112002,
@@ -2171,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107717,
+      "num": 169679,
+      "word": "又给王源爽到了",
+      "onboard_time": 1757676864,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107469,
       "num": 107469,
       "word": "成毅 ooc是啥",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1757659524,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105958,
+      "num": 105958,
+      "word": "上学累还是上班累",
+      "onboard_time": 1757676382,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 105111,
@@ -2651,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51051,
+      "num": 168340,
+      "word": "为什么iPhone非要抢首发",
+      "onboard_time": 1757676504,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 50021,
       "num": 224041,
       "word": "预制菜标准如何划定",
@@ -2665,6 +2745,14 @@
       "onboard_time": 1757598394,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48409,
+      "num": 161193,
+      "word": "丞磊徐若晗敖瑞鹏 美术生勇闯内娱",
+      "onboard_time": 1757675783,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 47558,
@@ -2713,6 +2801,14 @@
       "onboard_time": 1757666245,
       "rank": 38,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 45777,
+      "num": 221079,
+      "word": "蔚来ES8试驾多日排队到凌晨",
+      "onboard_time": 1757676142,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 44528,
@@ -2769,6 +2865,14 @@
       "onboard_time": 1757615057,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37263,
+      "num": 162228,
+      "word": "女生到底应该怎么选择iPhone",
+      "onboard_time": 1757676563,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 36788,
@@ -2835,15 +2939,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22977,
-      "num": 348923,
-      "word": "使命与传承在热泪中具象化了",
-      "onboard_time": 1757611638,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 22814,
+      "raw_hot": 23617,
       "num": 311466,
       "word": "人民网评建立健康多元消费评价体系",
       "onboard_time": 1757672966,
@@ -2851,12 +2947,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19878,
-      "num": 150945,
+      "raw_hot": 23576,
+      "num": 194720,
       "word": "看赴山海的人都在京东买iPhone17",
       "onboard_time": 1757675062,
       "rank": 29,
       "category": "剧集,互联网"
+    },
+    {
+      "raw_hot": 22977,
+      "num": 348923,
+      "word": "使命与传承在热泪中具象化了",
+      "onboard_time": 1757611638,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19283,
@@ -2897,14 +3001,6 @@
       "onboard_time": 1757615596,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15348,
-      "num": 112858,
-      "word": "丞磊徐若晗敖瑞鹏 美术生勇闯内娱",
-      "onboard_time": 1757675783,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 14018,

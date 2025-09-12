@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757676055087,
+  "endTime": 1757676993559,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -339,6 +339,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1883205,
+      "num": 413443,
+      "word": "海底捞小便门案一审宣判",
+      "onboard_time": 1757674404,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1882505,
       "num": 1882505,
       "word": "西贝致顾客的一封信",
@@ -507,20 +515,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1482574,
+      "num": 1482574,
+      "word": "迪奥活动",
+      "onboard_time": 1757670021,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1469776,
       "num": 1469776,
       "word": "煮方便面vs泡方便面",
       "onboard_time": 1757500402,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1467655,
-      "num": 1467655,
-      "word": "迪奥活动",
-      "onboard_time": 1757670021,
-      "rank": 3,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1443662,
@@ -544,14 +552,6 @@
       "word": "医生回应男生感染艾滋以为军训太累",
       "onboard_time": 1757497522,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1390691,
-      "num": 238519,
-      "word": "海底捞小便门案一审宣判",
-      "onboard_time": 1757674404,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -609,6 +609,14 @@
       "onboard_time": 1757327783,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1337793,
+      "num": 521861,
+      "word": "迪丽热巴刘海",
+      "onboard_time": 1757670923,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1331101,
@@ -755,14 +763,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 1221052,
-      "num": 521861,
-      "word": "迪丽热巴刘海",
-      "onboard_time": 1757670923,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1217987,
       "num": 1217987,
       "word": "西贝晒出罗永浩消费账单",
@@ -785,6 +785,14 @@
       "onboard_time": 1757511622,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1211204,
+      "num": 403008,
+      "word": "妻子微信群辱骂丈夫被判在群中道歉",
+      "onboard_time": 1757671883,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1211098,
@@ -889,14 +897,6 @@
       "onboard_time": 1757301623,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1113087,
-      "num": 273691,
-      "word": "妻子微信群辱骂丈夫被判在群中道歉",
-      "onboard_time": 1757671883,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1107998,
@@ -1232,6 +1232,14 @@
       "word": "女子20元彩票刮中100万激动尖叫",
       "onboard_time": 1757325142,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 877097,
+      "num": 877097,
+      "word": "西贝",
+      "onboard_time": 1757638227,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1875,6 +1883,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 662011,
+      "num": 662011,
+      "word": "西贝一天收入减少200多万",
+      "onboard_time": 1757674885,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658666,
       "num": 396390,
       "word": "小袁回应说胡楚靓口臭",
@@ -2131,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594988,
+      "num": 594988,
+      "word": "西贝厨师被记者问懵了",
+      "onboard_time": 1757670021,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593996,
       "num": 499062,
       "word": "虞书欣双轨过审了",
@@ -2223,14 +2247,6 @@
       "num": 582045,
       "word": "江西一居民多个月水费都是49.93元",
       "onboard_time": 1757334805,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 581185,
-      "num": 581185,
-      "word": "西贝厨师被记者问懵了",
-      "onboard_time": 1757670021,
       "rank": 26,
       "category": "民生新闻"
     },
@@ -2643,6 +2659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 496682,
+      "num": 397854,
+      "word": "海底捞小便事件涉案者父母赔220万",
+      "onboard_time": 1757675423,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496440,
       "num": 360965,
       "word": "还没到春晚马丽又演上小品了",
@@ -2697,14 +2721,6 @@
       "onboard_time": 1757229022,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 479853,
-      "num": 479853,
-      "word": "西贝一天收入减少200多万",
-      "onboard_time": 1757674885,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 479617,
@@ -3427,6 +3443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395641,
+      "num": 395641,
+      "word": "王一博成毅林一线下活动生图",
+      "onboard_time": 1757674225,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395486,
       "num": 395486,
       "word": "瘦多囊vs胖多囊",
@@ -3953,14 +3977,6 @@
       "onboard_time": 1757399961,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 351237,
-      "num": 238268,
-      "word": "王一博成毅林一线下活动生图",
-      "onboard_time": 1757674225,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 350646,
@@ -4979,14 +4995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271825,
-      "num": 271825,
-      "word": "西贝",
-      "onboard_time": 1757638227,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271338,
       "num": 252682,
       "word": "原神月之一",
@@ -4996,7 +5004,7 @@
     },
     {
       "raw_hot": 271257,
-      "num": 326502,
+      "num": 420638,
       "word": "于东来发文感谢西贝",
       "onboard_time": 1757662525,
       "rank": 44,
@@ -5129,6 +5137,14 @@
       "onboard_time": 1757214561,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 258967,
+      "num": 258967,
+      "word": "黄明昊发文为杨幂庆生",
+      "onboard_time": 1757670983,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 258823,
@@ -5273,14 +5289,6 @@
       "onboard_time": 1757337802,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 243774,
-      "num": 238170,
-      "word": "海底捞小便事件涉案者父母赔220万",
-      "onboard_time": 1757675423,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242907,
@@ -5575,14 +5583,6 @@
       "num": 200939,
       "word": "尔冬升与9岁女儿合照",
       "onboard_time": 1757510422,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 228688,
-      "num": 228688,
-      "word": "黄明昊发文为杨幂庆生",
-      "onboard_time": 1757670983,
       "rank": 39,
       "category": "艺人"
     },
@@ -6932,7 +6932,7 @@
     },
     {
       "raw_hot": 194655,
-      "num": 150845,
+      "num": 158361,
       "word": "张彬彬连续13年为杨幂庆生",
       "onboard_time": 1757674704,
       "rank": 31,
@@ -7361,6 +7361,14 @@
       "onboard_time": 1757352137,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189004,
+      "num": 189004,
+      "word": "iPhone17系列预售",
+      "onboard_time": 1757676444,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 188749,
@@ -8283,6 +8291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173434,
+      "num": 173434,
+      "word": "很费钱但是戒不掉的爱好",
+      "onboard_time": 1757675783,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173413,
       "num": 173413,
       "word": "李在明批反华集会纯属闹事",
@@ -8305,6 +8321,14 @@
       "onboard_time": 1757325742,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 173355,
+      "num": 173355,
+      "word": "西贝后厨的食材几乎要解冻",
+      "onboard_time": 1757674643,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173153,
@@ -9611,6 +9635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154976,
+      "num": 154976,
+      "word": "戚薇恩利豪门姐弟感变装",
+      "onboard_time": 1757675843,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154878,
       "num": 154878,
       "word": "KPL也玩撕名牌了",
@@ -9657,6 +9689,14 @@
       "onboard_time": 1757244800,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154216,
+      "num": 154216,
+      "word": "西贝店员称客流量受到影响",
+      "onboard_time": 1757676923,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154060,
@@ -9937,14 +9977,6 @@
       "onboard_time": 1757428524,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 150566,
-      "num": 150566,
-      "word": "西贝后厨的食材几乎要解冻",
-      "onboard_time": 1757674643,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150465,
@@ -11339,6 +11371,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 137453,
+      "num": 137453,
+      "word": "阴阳师",
+      "onboard_time": 1757676743,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137349,
       "num": 137349,
       "word": "陈哲远洗面奶没洗干净就出门了",
@@ -11473,6 +11513,14 @@
       "onboard_time": 1757211862,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136329,
+      "num": 136329,
+      "word": "奥莉参加花滑赛",
+      "onboard_time": 1757675364,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 136154,
@@ -11860,7 +11908,7 @@
     },
     {
       "raw_hot": 133449,
-      "num": 171902,
+      "num": 190408,
       "word": "李沁我是P人她是勾人",
       "onboard_time": 1757673622,
       "rank": 48,
@@ -12265,14 +12313,6 @@
       "onboard_time": 1757322081,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129922,
-      "num": 129922,
-      "word": "奥莉参加花滑赛",
-      "onboard_time": 1757675364,
-      "rank": 34,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 129844,
@@ -12771,6 +12811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 125491,
+      "num": 200768,
+      "word": "花少打通了李沁的任督二脉",
+      "onboard_time": 1757676203,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125371,
       "num": 125371,
       "word": "2025女排世锦赛",
@@ -12971,6 +13019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 124283,
+      "num": 124283,
+      "word": "超大七彩祥云",
+      "onboard_time": 1757675725,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 124153,
       "num": 124153,
       "word": "鹿哈老婆看鹿晗演唱会了",
@@ -13113,14 +13169,6 @@
       "onboard_time": 1757382080,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 122959,
-      "num": 122959,
-      "word": "超大七彩祥云",
-      "onboard_time": 1757675725,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 122939,
@@ -13723,20 +13771,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117085,
+      "num": 117085,
+      "word": "陈熠1比3韩莹",
+      "onboard_time": 1757676923,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117066,
       "num": 117066,
       "word": "安卓版iPhoneAir",
       "onboard_time": 1757659285,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 117060,
-      "num": 117060,
-      "word": "戚薇恩利豪门姐弟感变装",
-      "onboard_time": 1757675843,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 117042,
@@ -13979,6 +14027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115367,
+      "num": 115367,
+      "word": "可以防小偷的肚腩包",
+      "onboard_time": 1757676621,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115336,
       "num": 153394,
       "word": "男子2年中6次彩票总额超1000万",
@@ -14155,6 +14211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113836,
+      "num": 113836,
+      "word": "美凶手淡定将死者头颅扔进垃圾桶",
+      "onboard_time": 1757676504,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113773,
       "num": 113773,
       "word": "王曼昱3比2早田希娜",
@@ -14321,14 +14385,6 @@
       "onboard_time": 1757322802,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112429,
-      "num": 112429,
-      "word": "很费钱但是戒不掉的爱好",
-      "onboard_time": 1757675783,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 112303,
@@ -14987,6 +15043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107717,
+      "num": 169679,
+      "word": "又给王源爽到了",
+      "onboard_time": 1757676864,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107473,
       "num": 107473,
       "word": "把电脑放在中国商场30分钟",
@@ -15153,6 +15217,14 @@
       "onboard_time": 1757572061,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105958,
+      "num": 105958,
+      "word": "上学累还是上班累",
+      "onboard_time": 1757676382,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 105953,
@@ -18547,6 +18619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51051,
+      "num": 168340,
+      "word": "为什么iPhone非要抢首发",
+      "onboard_time": 1757676504,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 50862,
       "num": 145495,
       "word": "烧伤美妆博主重回事故现场",
@@ -18707,6 +18787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48409,
+      "num": 161193,
+      "word": "丞磊徐若晗敖瑞鹏 美术生勇闯内娱",
+      "onboard_time": 1757675783,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48327,
       "num": 113045,
       "word": "发现大城市生活成本比老家更低",
@@ -18825,6 +18913,14 @@
       "onboard_time": 1757666245,
       "rank": 38,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 45777,
+      "num": 221079,
+      "word": "蔚来ES8试驾多日排队到凌晨",
+      "onboard_time": 1757676142,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 45669,
@@ -19201,6 +19297,14 @@
       "onboard_time": 1757338283,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37263,
+      "num": 162228,
+      "word": "女生到底应该怎么选择iPhone",
+      "onboard_time": 1757676563,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 37175,
@@ -19683,6 +19787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23617,
+      "num": 311466,
+      "word": "人民网评建立健康多元消费评价体系",
+      "onboard_time": 1757672966,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23576,
+      "num": 194720,
+      "word": "看赴山海的人都在京东买iPhone17",
+      "onboard_time": 1757675062,
+      "rank": 29,
+      "category": "剧集,互联网"
+    },
+    {
       "raw_hot": 23439,
       "num": 298959,
       "word": "马德兴30多年报道足球写3000万字",
@@ -19705,14 +19825,6 @@
       "onboard_time": 1757611638,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22814,
-      "num": 311466,
-      "word": "人民网评建立健康多元消费评价体系",
-      "onboard_time": 1757672966,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22787,
@@ -19827,14 +19939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19878,
-      "num": 150945,
-      "word": "看赴山海的人都在京东买iPhone17",
-      "onboard_time": 1757675062,
-      "rank": 29,
-      "category": "剧集,互联网"
-    },
-    {
       "raw_hot": 19382,
       "num": 19382,
       "word": "校长站校门口不让学生送礼物",
@@ -19929,14 +20033,6 @@
       "onboard_time": 1757296402,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15348,
-      "num": 112858,
-      "word": "丞磊徐若晗敖瑞鹏 美术生勇闯内娱",
-      "onboard_time": 1757675783,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 15262,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1757676993559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1482574,
+        "num": 1482574,
+        "word": "迪奥活动",
+        "onboard_time": 1757670021,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 877097,
+        "num": 877097,
+        "word": "西贝",
+        "onboard_time": 1757638227,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37125,
+        "num": 851298,
+        "word": "机场过水门迎接烈士",
+        "onboard_time": 1757649145,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 839552,
+        "num": 839552,
+        "word": "小鸟频频撞死在南京一大桥玻璃墙",
+        "onboard_time": 1757670505,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662011,
+        "num": 662011,
+        "word": "西贝一天收入减少200多万",
+        "onboard_time": 1757674885,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594988,
+        "num": 594988,
+        "word": "西贝厨师被记者问懵了",
+        "onboard_time": 1757670021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430916,
+        "num": 430916,
+        "word": "西贝儿童餐",
+        "onboard_time": 1757669123,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250616,
+        "num": 428299,
+        "word": "花少找手机这段龚俊A爆了",
+        "onboard_time": 1757670144,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192039,
+        "num": 424859,
+        "word": "赴山海16.8%爆开",
+        "onboard_time": 1757668646,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169006,
+        "num": 420638,
+        "word": "于东来发文感谢西贝",
+        "onboard_time": 1757662525,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1883205,
+        "num": 413443,
+        "word": "海底捞小便门案一审宣判",
+        "onboard_time": 1757674404,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1337793,
+        "num": 406673,
+        "word": "迪丽热巴刘海",
+        "onboard_time": 1757670923,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1211204,
+        "num": 403008,
+        "word": "妻子微信群辱骂丈夫被判在群中道歉",
+        "onboard_time": 1757671883,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496682,
+        "num": 397854,
+        "word": "海底捞小便事件涉案者父母赔220万",
+        "onboard_time": 1757675423,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395641,
+        "num": 395641,
+        "word": "王一博成毅林一线下活动生图",
+        "onboard_time": 1757674225,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258967,
+        "num": 258967,
+        "word": "黄明昊发文为杨幂庆生",
+        "onboard_time": 1757670983,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251997,
+        "num": 251997,
+        "word": "迪丽热巴上海迪奥活动",
+        "onboard_time": 1757670863,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 223745,
+        "num": 223745,
+        "word": "李兰迪张婧仪 双生花",
+        "onboard_time": 1757664983,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23617,
+        "num": 223145,
+        "word": "人民网评建立健康多元消费评价体系",
+        "onboard_time": 1757672966,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45777,
+        "num": 221079,
+        "word": "蔚来ES8试驾多日排队到凌晨",
+        "onboard_time": 1757676142,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1101261,
+        "num": 218567,
+        "word": "西贝要求所有员工品尝罗永浩菜单",
+        "onboard_time": 1757669303,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 809839,
+        "num": 214789,
+        "word": "西贝承认部分菜品是隔夜菜",
+        "onboard_time": 1757664145,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690858,
+        "num": 213414,
+        "word": "西贝 3只蒸饺29元",
+        "onboard_time": 1757671104,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637627,
+        "num": 210555,
+        "word": "罗永浩直播预告",
+        "onboard_time": 1757665043,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 495445,
+        "num": 208854,
+        "word": "月嫂喂奶致刚出生2天男婴窒息",
+        "onboard_time": 1757671823,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449227,
+        "num": 204434,
+        "word": "罗永浩西贝之争是一场信任僵局",
+        "onboard_time": 1757659885,
+        "rank": 25,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 137764,
+        "num": 203563,
+        "word": "赴山海",
+        "onboard_time": 1757668403,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125491,
+        "num": 200768,
+        "word": "花少打通了李沁的任督二脉",
+        "onboard_time": 1757676203,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321611,
+        "num": 198758,
+        "word": "西贝删博",
+        "onboard_time": 1757663543,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23576,
+        "num": 194720,
+        "word": "看赴山海的人都在京东买iPhone17",
+        "onboard_time": 1757675062,
+        "rank": 29,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 236595,
+        "num": 191985,
+        "word": "西贝致顾客的一封信",
+        "onboard_time": 1757661925,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101531,
+        "num": 190408,
+        "word": "李沁我是P人她是勾人",
+        "onboard_time": 1757673622,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189004,
+        "num": 189004,
+        "word": "iPhone17系列预售",
+        "onboard_time": 1757676444,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173434,
+        "num": 173434,
+        "word": "很费钱但是戒不掉的爱好",
+        "onboard_time": 1757675783,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173355,
+        "num": 173355,
+        "word": "西贝后厨的食材几乎要解冻",
+        "onboard_time": 1757674643,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107717,
+        "num": 169679,
+        "word": "又给王源爽到了",
+        "onboard_time": 1757676864,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51051,
+        "num": 168340,
+        "word": "为什么iPhone非要抢首发",
+        "onboard_time": 1757676504,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37263,
+        "num": 162228,
+        "word": "女生到底应该怎么选择iPhone",
+        "onboard_time": 1757676563,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48409,
+        "num": 161193,
+        "word": "丞磊徐若晗敖瑞鹏 美术生勇闯内娱",
+        "onboard_time": 1757675783,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158361,
+        "num": 158361,
+        "word": "张彬彬连续13年为杨幂庆生",
+        "onboard_time": 1757674704,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154976,
+        "num": 154976,
+        "word": "戚薇恩利豪门姐弟感变装",
+        "onboard_time": 1757675843,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154216,
+        "num": 154216,
+        "word": "西贝店员称客流量受到影响",
+        "onboard_time": 1757676923,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137453,
+        "num": 137453,
+        "word": "阴阳师",
+        "onboard_time": 1757676743,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136329,
+        "num": 136329,
+        "word": "奥莉参加花滑赛",
+        "onboard_time": 1757675364,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 124283,
+        "num": 124283,
+        "word": "超大七彩祥云",
+        "onboard_time": 1757675725,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119540,
+        "num": 119540,
+        "word": "王楚钦让球迷当鹰眼",
+        "onboard_time": 1757669303,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117085,
+        "num": 117085,
+        "word": "陈熠1比3韩莹",
+        "onboard_time": 1757676923,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115367,
+        "num": 115367,
+        "word": "可以防小偷的肚腩包",
+        "onboard_time": 1757676621,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 113836,
+        "word": "美凶手淡定将死者头颅扔进垃圾桶",
+        "onboard_time": 1757676504,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105958,
+        "num": 105958,
+        "word": "上学累还是上班累",
+        "onboard_time": 1757676382,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#山河永念英雄归乡#"
+    }
+  }
+}
