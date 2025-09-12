@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757658977421,
+  "endTime": 1757659687134,
   "band_list": [
     {
       "raw_hot": 1357377,
@@ -25,6 +25,14 @@
       "onboard_time": 1757636127,
       "rank": 3,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1145851,
+      "num": 1183336,
+      "word": "预制菜 强制明示",
+      "onboard_time": 1757653825,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1038057,
@@ -59,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 918064,
-      "num": 1146890,
-      "word": "预制菜 强制明示",
-      "onboard_time": 1757653825,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 872340,
       "num": 1133886,
       "word": "西贝已获预制食品相关专利授权",
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 800217,
-      "num": 388639,
+      "raw_hot": 861041,
+      "num": 409797,
       "word": "女老板看上男下属花300万让其离婚",
       "onboard_time": 1757655806,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 791697,
+      "num": 407103,
+      "word": "刘诗诗给杨幂送生日祝福",
+      "onboard_time": 1757658325,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 754215,
+      "num": 367191,
+      "word": "购买一部iPhone17你要工作多久",
+      "onboard_time": 1757656168,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 751598,
@@ -139,22 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 544313,
-      "num": 367283,
-      "word": "刘诗诗给杨幂送生日祝福",
-      "onboard_time": 1757658325,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 532595,
-      "num": 329611,
-      "word": "购买一部iPhone17你要工作多久",
-      "onboard_time": 1757656168,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 531797,
       "num": 420622,
       "word": "韦雪整容后脸不对称",
@@ -180,10 +180,18 @@
     },
     {
       "raw_hot": 514177,
-      "num": 359046,
+      "num": 361082,
       "word": "黄多多 天选文艺片女主脸",
       "onboard_time": 1757651909,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 510032,
+      "num": 367156,
+      "word": "杨幂回复热巴",
+      "onboard_time": 1757659044,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -243,6 +251,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 417026,
+      "num": 396881,
+      "word": "iPhone17Pro相机是疯狂的",
+      "onboard_time": 1757654967,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 410113,
       "num": 410113,
       "word": "朱一龙现场迎接志愿军烈士",
@@ -259,20 +275,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 399000,
-      "num": 356427,
-      "word": "iPhone17Pro相机是疯狂的",
-      "onboard_time": 1757654967,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 395324,
       "num": 395324,
       "word": "一名网红被杀美国为何会降半旗",
       "onboard_time": 1757598934,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 393498,
+      "num": 393498,
+      "word": "外公去世左航躲在头盔里大哭",
+      "onboard_time": 1757655985,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 389178,
@@ -299,6 +315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367265,
+      "num": 367265,
+      "word": "李兰迪一直被内娱低估的美貌",
+      "onboard_time": 1757658265,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366687,
+      "num": 366687,
+      "word": "终于有人当黄子韬面说e不发音",
+      "onboard_time": 1757657426,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364979,
       "num": 262784,
       "word": "沈阳车辆不从烈士遗骸上方驶过",
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 348997,
-      "num": 328580,
+      "num": 330699,
       "word": "孙燕姿老鼠干",
       "onboard_time": 1757653407,
       "rank": 25,
@@ -321,6 +353,14 @@
       "onboard_time": 1757640506,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327212,
+      "num": 327212,
+      "word": "盛世天下",
+      "onboard_time": 1757656887,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 295921,
@@ -363,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279803,
+      "num": 351503,
+      "word": "墨西哥拟对中国等国征收50%关税",
+      "onboard_time": 1757656825,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 278294,
       "num": 221524,
       "word": "罗永浩虽是大V但有吐槽权",
@@ -387,20 +435,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 267271,
-      "num": 267271,
-      "word": "外公去世左航躲在头盔里大哭",
-      "onboard_time": 1757655985,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265347,
       "num": 914692,
       "word": "局座白发",
       "onboard_time": 1757601337,
       "rank": 3,
       "category": "军事"
+    },
+    {
+      "raw_hot": 263077,
+      "num": 263077,
+      "word": "老师批评迟到学生被指官威大",
+      "onboard_time": 1757655866,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258662,
@@ -417,14 +465,6 @@
       "onboard_time": 1757593000,
       "rank": 22,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 254604,
-      "num": 254604,
-      "word": "盛世天下",
-      "onboard_time": 1757656887,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 249636,
@@ -459,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236686,
-      "num": 236686,
-      "word": "墨西哥拟对中国等国征收50%关税",
-      "onboard_time": 1757656825,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 235790,
       "num": 897334,
       "word": "赴山海开播",
@@ -497,14 +529,6 @@
       "onboard_time": 1757640086,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 225868,
-      "num": 185901,
-      "word": "老师批评迟到学生被指官威大",
-      "onboard_time": 1757655866,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225440,
@@ -571,14 +595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 205739,
-      "num": 205739,
-      "word": "终于有人当黄子韬面说e不发音",
-      "onboard_time": 1757657426,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202846,
       "num": 202846,
       "word": "男子钓上79斤大鱼上街显摆20分钟",
@@ -627,20 +643,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 194345,
+      "num": 194345,
+      "word": "迪丽热巴大冒险家芭莎金九封面",
+      "onboard_time": 1757658503,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193969,
       "num": 175681,
       "word": "福建舰通过台湾海峡",
       "onboard_time": 1757641345,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193777,
-      "num": 193777,
-      "word": "李兰迪一直被内娱低估的美貌",
-      "onboard_time": 1757658265,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 193746,
@@ -657,6 +673,14 @@
       "onboard_time": 1757585851,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188112,
+      "num": 188112,
+      "word": "西贝董事长称骂不过罗永浩",
+      "onboard_time": 1757656168,
+      "rank": 27,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 187975,
@@ -681,6 +705,14 @@
       "onboard_time": 1757657725,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183645,
+      "num": 183645,
+      "word": "于东来说西贝可以放心可口吃饭",
+      "onboard_time": 1757656825,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183511,
@@ -715,20 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180301,
-      "num": 180301,
-      "word": "西贝董事长称骂不过罗永浩",
-      "onboard_time": 1757656168,
-      "rank": 27,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 177301,
-      "num": 177301,
-      "word": "迪丽热巴大冒险家芭莎金九封面",
-      "onboard_time": 1757658503,
-      "rank": 29,
-      "category": "作品衍生,时尚"
+      "raw_hot": 178075,
+      "num": 178075,
+      "word": "女婴遭虫咬多次抢救全身换血",
+      "onboard_time": 1757654248,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175326,
@@ -907,28 +931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159066,
-      "num": 159066,
-      "word": "于东来说西贝可以放心可口吃饭",
-      "onboard_time": 1757656825,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157360,
       "num": 157360,
       "word": "吃锅包肉喝茶 嘴变黑",
       "onboard_time": 1757651126,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 155787,
-      "num": 175248,
-      "word": "女婴遭虫咬多次抢救全身换血",
-      "onboard_time": 1757654248,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154782,
@@ -961,6 +969,22 @@
       "onboard_time": 1757633785,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149721,
+      "num": 149721,
+      "word": "清清和赛场的羁绊",
+      "onboard_time": 1757659405,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 149308,
+      "num": 349582,
+      "word": "淘宝闪购买iPhone17送17杯奶茶",
+      "onboard_time": 1757653766,
+      "rank": 15,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 148828,
@@ -1179,6 +1203,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 124633,
+      "num": 135981,
+      "word": "张踩铃 我的母爱没那么无私",
+      "onboard_time": 1757657844,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123394,
       "num": 137637,
       "word": "特朗普将出席遭枪杀盟友葬礼",
@@ -1187,12 +1219,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 121072,
-      "num": 349582,
-      "word": "淘宝闪购买iPhone17送17杯奶茶",
-      "onboard_time": 1757653766,
-      "rank": 15,
-      "category": "互联网,数码"
+      "raw_hot": 123209,
+      "num": 123209,
+      "word": "10部影片定档2025国庆档",
+      "onboard_time": 1757655207,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 122988,
+      "num": 122988,
+      "word": "原来这就是小学的课程表",
+      "onboard_time": 1757656706,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 120189,
@@ -1211,14 +1251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119195,
-      "num": 119195,
-      "word": "10部影片定档2025国庆档",
-      "onboard_time": 1757655207,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118987,
       "num": 911493,
       "word": "小布什当年得知911后反应",
@@ -1227,12 +1259,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 117187,
-      "num": 117187,
-      "word": "原来这就是小学的课程表",
-      "onboard_time": 1757656706,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 117066,
+      "num": 117066,
+      "word": "安卓版iPhoneAir",
+      "onboard_time": 1757659285,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 116744,
+      "num": 116744,
+      "word": "女子吃饭被陌生男子摸头辱骂",
+      "onboard_time": 1757658984,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115655,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1757640804,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113692,
+      "num": 136057,
+      "word": "宋佳 别叫我宋佳老师",
+      "onboard_time": 1757658145,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 112658,
@@ -1307,14 +1355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104015,
-      "num": 135981,
-      "word": "张踩铃 我的母爱没那么无私",
-      "onboard_time": 1757657844,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103943,
       "num": 226740,
       "word": "福建舰跨区试验训练系正常安排",
@@ -1324,7 +1364,7 @@
     },
     {
       "raw_hot": 103363,
-      "num": 149496,
+      "num": 304421,
       "word": "律师称餐饮若使用预制菜应明示",
       "onboard_time": 1757658747,
       "rank": 35,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1757603312,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90772,
+      "num": 309614,
+      "word": "用AI看病的人6成来自小城乡镇",
+      "onboard_time": 1757657486,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 90745,
@@ -1523,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82335,
+      "num": 126930,
+      "word": "黄子韬请鑫博做婚礼司仪",
+      "onboard_time": 1757659524,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81912,
       "num": 895884,
       "word": "杨幂陈丽君 合作",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1757564623,
       "rank": 33,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 76170,
-      "num": 189250,
-      "word": "用AI看病的人6成来自小城乡镇",
-      "onboard_time": 1757657486,
-      "rank": 19,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 73831,
@@ -1603,14 +1651,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 59660,
-      "num": 136057,
-      "word": "宋佳 别叫我宋佳老师",
-      "onboard_time": 1757658145,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59198,
       "num": 204772,
       "word": "美高官警告赶走嘲笑柯克之死的人",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1757585491,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56180,
+      "num": 127075,
+      "word": "张智霖谈记忆力退化",
+      "onboard_time": 1757659044,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 55767,
