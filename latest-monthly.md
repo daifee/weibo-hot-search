@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 21:42:53
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 22:23:53
 </p>
 </blockquote>
 <p>
@@ -503,6 +503,12 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%88%A0%E5%8D%9A%23" target="weibo">
 西贝删博（热度：2214718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%20%E8%BA%BA%E8%B5%A2%23" target="weibo">
+老乡鸡 躺赢（热度：2213073）
 </a>
 </li>
 
@@ -1947,12 +1953,6 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%20%E8%BA%BA%E8%B5%A2%23" target="weibo">
-老乡鸡 躺赢（热度：880692）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
 金价（热度：880562）
 </a>
@@ -3027,6 +3027,12 @@ iPhone17高刷（热度：656758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E7%90%A6%E9%9A%8F%E8%BA%AB%E5%B8%A6%E8%A1%80%E7%B3%96%E6%A3%80%E6%B5%8B%E4%BB%AA%23" target="weibo">
+李嘉琦随身带血糖检测仪（热度：647895）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%BF%E7%95%8CCEO%23" target="weibo">
 势界CEO（热度：647007）
 </a>
@@ -3425,6 +3431,18 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E9%A3%9E%E6%B0%94%E7%90%83%23" target="weibo">
 放飞气球（热度：585437）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%BF%98%E6%B2%A1%E5%90%83%E8%BF%87%E8%80%81%E4%B9%A1%E9%B8%A1%23" target="weibo">
+罗永浩还没吃过老乡鸡（热度：585023）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E6%88%91%E7%9C%BC%E7%9D%9B%E8%84%8F%E4%BA%86%23" target="weibo">
+李昀锐 我眼睛脏了（热度：584643）
 </a>
 </li>
 
@@ -3891,12 +3909,6 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E6%88%91%E7%9C%BC%E7%9D%9B%E8%84%8F%E4%BA%86%23" target="weibo">
-李昀锐 我眼睛脏了（热度：527406）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9020%23" target="weibo">
 运20（热度：526046）
 </a>
@@ -4151,6 +4163,12 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%B2%A1%E5%88%B0%E6%98%A5%E6%99%9A%E9%A9%AC%E4%B8%BD%E5%8F%88%E6%BC%94%E4%B8%8A%E5%B0%8F%E5%93%81%E4%BA%86%23" target="weibo">
 还没到春晚马丽又演上小品了（热度：496440）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%A5%E8%8E%89%E8%BF%91%E7%85%A7%23" target="weibo">
+13岁奥莉近照（热度：496072）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Metal杂志（热度：366669）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1%23" target="weibo">
 中华民族伟大复兴势不可挡（热度：362478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%81%9C%E5%8F%91%E7%BA%B8%E8%B4%A8%E7%A5%A8%E4%B8%8D%E4%BE%BF%E8%80%81%E5%B9%B4%E4%BA%BA%23" target="weibo">
-12306回应停发纸质票不便老年人（热度：362266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E4%BF%84%E8%BF%9C%E4%B8%9C%E5%9F%8E%E5%B8%82%23" target="weibo">
-普京抵达俄远东城市（热度：362263）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%9B%9E%E5%BA%94%E9%99%88%E6%B1%89%E5%85%B8lulu%E7%BB%93%E5%A9%9A%23" target="weibo">
-小S回应陈汉典lulu结婚（热度：362087）
 </a>
 </li>
 

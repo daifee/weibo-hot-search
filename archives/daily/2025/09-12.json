@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757684573625,
+  "endTime": 1757687033615,
   "band_list": [
     {
       "raw_hot": 3245783,
@@ -40,6 +40,14 @@
       "word": "西贝删博",
       "onboard_time": 1757663543,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2213073,
+      "num": 880692,
+      "word": "老乡鸡 躺赢",
+      "onboard_time": 1757683767,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -193,14 +201,6 @@
       "onboard_time": 1757644645,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 880692,
-      "num": 880692,
-      "word": "老乡鸡 躺赢",
-      "onboard_time": 1757683767,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 877097,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647895,
+      "num": 469046,
+      "word": "李嘉琦随身带血糖检测仪",
+      "onboard_time": 1757683949,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638550,
       "num": 620394,
       "word": "鞠婧祎直播",
@@ -443,6 +451,22 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 585023,
+      "num": 352618,
+      "word": "罗永浩还没吃过老乡鸡",
+      "onboard_time": 1757684847,
+      "rank": 6,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 584643,
+      "num": 527406,
+      "word": "李昀锐 我眼睛脏了",
+      "onboard_time": 1757683107,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572997,
       "num": 572997,
       "word": "终于有人当黄子韬面说e不发音",
@@ -457,14 +481,6 @@
       "onboard_time": 1757648844,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 527406,
-      "num": 527406,
-      "word": "李昀锐 我眼睛脏了",
-      "onboard_time": 1757683107,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 523427,
@@ -489,6 +505,14 @@
       "onboard_time": 1757651909,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496072,
+      "num": 357204,
+      "word": "13岁奥莉近照",
+      "onboard_time": 1757682266,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 492374,
@@ -715,12 +739,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 357204,
-      "num": 357204,
-      "word": "13岁奥莉近照",
-      "onboard_time": 1757682266,
+      "raw_hot": 355714,
+      "num": 310906,
+      "word": "宋雨琦王安宇互晒合照",
+      "onboard_time": 1757686825,
       "rank": 16,
-      "category": "艺人,体育"
+      "category": "艺人"
     },
     {
       "raw_hot": 348997,
@@ -779,20 +803,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 318653,
-      "num": 252862,
-      "word": "李小鹏13岁女儿参加花滑比赛",
-      "onboard_time": 1757683707,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 301671,
+      "raw_hot": 323201,
       "num": 484041,
       "word": "iPhone17 抢不到",
       "onboard_time": 1757681846,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 321563,
+      "num": 321563,
+      "word": "中美将在西班牙会谈",
+      "onboard_time": 1757684367,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 318653,
+      "num": 308615,
+      "word": "李小鹏13岁女儿参加花滑比赛",
+      "onboard_time": 1757683707,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 295921,
@@ -843,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 284418,
+      "num": 284418,
+      "word": "任天堂",
+      "onboard_time": 1757684908,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281968,
       "num": 281968,
       "word": "罗永浩说碰到蠢人心里累",
@@ -873,14 +913,6 @@
       "onboard_time": 1757639187,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272239,
-      "num": 469046,
-      "word": "李嘉琦随身带血糖检测仪",
-      "onboard_time": 1757683949,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 271257,
@@ -1139,6 +1171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211350,
+      "num": 211350,
+      "word": "罗永浩回应点15个菜",
+      "onboard_time": 1757685149,
+      "rank": 26,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 210835,
       "num": 302472,
       "word": "西贝前员工谈后厨究竟用没用预制菜",
@@ -1283,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194128,
+      "num": 194128,
+      "word": "罗永浩称西贝儿童餐年龄比儿童大",
+      "onboard_time": 1757686527,
+      "rank": 31,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 193969,
       "num": 175681,
       "word": "福建舰通过台湾海峡",
@@ -1355,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189798,
+      "num": 392565,
+      "word": "罗永浩准备试试老乡鸡",
+      "onboard_time": 1757684187,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188093,
       "num": 289891,
       "word": "你好星期六",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1757642845,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187384,
-      "num": 223938,
-      "word": "中美将在西班牙会谈",
-      "onboard_time": 1757684367,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 184960,
@@ -1707,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163206,
+      "num": 163206,
+      "word": "罗永浩说不反对预制菜",
+      "onboard_time": 1757686947,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 163073,
       "num": 260283,
       "word": "马嘉祺扶额摇",
@@ -1721,6 +1777,14 @@
       "onboard_time": 1757648726,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162230,
+      "num": 162230,
+      "word": "上海申花3比3山东泰山",
+      "onboard_time": 1757686768,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 159718,
@@ -2075,6 +2139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140013,
+      "num": 140013,
+      "word": "夏以昼塞进储物柜",
+      "onboard_time": 1757686768,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137961,
       "num": 137961,
       "word": "张泽禹C位",
@@ -2120,6 +2192,14 @@
       "word": "时代峰峻在重庆成立新公司",
       "onboard_time": 1757660424,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136126,
+      "num": 196206,
+      "word": "鞠婧祎完全老公级别的",
+      "onboard_time": 1757685566,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -2251,6 +2331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129179,
+      "num": 129179,
+      "word": "中央厨房制作不纳入预制菜",
+      "onboard_time": 1757685687,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128578,
       "num": 128578,
       "word": "蚊子扛着两斤猫毛走了",
@@ -2297,14 +2385,6 @@
       "onboard_time": 1757606907,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125580,
-      "num": 392565,
-      "word": "罗永浩准备试试老乡鸡",
-      "onboard_time": 1757684187,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125491,
@@ -2611,6 +2691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109398,
+      "num": 127558,
+      "word": "吴磊回旋镖扎到了自己身上",
+      "onboard_time": 1757685748,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108558,
       "num": 108558,
       "word": "这不就是当年上课转笔那批人",
@@ -2731,6 +2819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98256,
+      "num": 127557,
+      "word": "宴究生冠军",
+      "onboard_time": 1757685328,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97877,
       "num": 97877,
       "word": "美术生别躲了这是你们的学长",
@@ -2819,6 +2915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90700,
+      "num": 311189,
+      "word": "仰望U8L太鼎太豪华了",
+      "onboard_time": 1757684728,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90526,
       "num": 99790,
       "word": "不眠日",
@@ -2833,6 +2937,14 @@
       "onboard_time": 1757638647,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89376,
+      "num": 322186,
+      "word": "iPhone17开售",
+      "onboard_time": 1757686408,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 89106,
@@ -3035,6 +3147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74011,
+      "num": 181360,
+      "word": "iPhone17买哪个颜色好看",
+      "onboard_time": 1757684728,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73831,
       "num": 897902,
       "word": "王辰被免去中国工程院副院长职务",
@@ -3177,6 +3297,14 @@
       "onboard_time": 1757676504,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 51050,
+      "num": 176947,
+      "word": "早茶店预制菜",
+      "onboard_time": 1757686289,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50021,
@@ -3329,6 +3457,14 @@
       "onboard_time": 1757680585,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 37882,
+      "num": 176695,
+      "word": "正在消失的美食遗产",
+      "onboard_time": 1757686705,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37263,
@@ -3553,6 +3689,14 @@
       "onboard_time": 1757562035,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2383,
+      "num": 398275,
+      "word": "新疆70年",
+      "onboard_time": 1757599474,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
