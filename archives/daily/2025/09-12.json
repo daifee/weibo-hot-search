@@ -1,7 +1,15 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757666714725,
+  "endTime": 1757669142712,
   "band_list": [
+    {
+      "raw_hot": 2493648,
+      "num": 2493648,
+      "word": "西贝承认部分菜品是隔夜菜",
+      "onboard_time": 1757664145,
+      "rank": 4,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2214718,
       "num": 1915313,
@@ -25,14 +33,6 @@
       "onboard_time": 1757659044,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1768057,
-      "num": 1768057,
-      "word": "西贝承认部分菜品是隔夜菜",
-      "onboard_time": 1757664145,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1357377,
@@ -139,6 +139,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 827782,
+      "num": 827782,
+      "word": "如果赴山海藏海传真对打",
+      "onboard_time": 1757666123,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 801506,
+      "num": 327931,
+      "word": "李兰迪张婧仪 双生花",
+      "onboard_time": 1757664983,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791697,
       "num": 415076,
       "word": "刘诗诗给杨幂送生日祝福",
@@ -235,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561620,
+      "num": 561620,
+      "word": "罗永浩西贝之争是一场信任僵局",
+      "onboard_time": 1757659885,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 531797,
       "num": 420622,
       "word": "韦雪整容后脸不对称",
@@ -265,14 +289,6 @@
       "onboard_time": 1757651909,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504744,
-      "num": 504744,
-      "word": "罗永浩西贝之争是一场信任僵局",
-      "onboard_time": 1757659885,
-      "rank": 20,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 492374,
@@ -355,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 397125,
+      "num": 397125,
+      "word": "国家财政1000亿元发放育儿补贴",
+      "onboard_time": 1757665224,
+      "rank": 31,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 395324,
       "num": 395324,
       "word": "一名网红被杀美国为何会降半旗",
@@ -385,6 +409,22 @@
       "onboard_time": 1757649206,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 384214,
+      "num": 316075,
+      "word": "杨幂回复刘诗诗爱你",
+      "onboard_time": 1757668164,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379304,
+      "num": 379304,
+      "word": "iPhone14机主是灵动岛岛主",
+      "onboard_time": 1757666064,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 370664,
@@ -451,14 +491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307749,
-      "num": 307749,
-      "word": "李兰迪张婧仪 双生花",
-      "onboard_time": 1757664983,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295921,
       "num": 295921,
       "word": "日军细菌战受害者整夜叫痛",
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 285505,
-      "num": 320695,
+      "num": 322827,
       "word": "云合",
       "onboard_time": 1757665164,
       "rank": 16,
@@ -539,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271257,
+      "num": 326502,
+      "word": "于东来发文感谢西贝",
+      "onboard_time": 1757662525,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269924,
       "num": 916814,
       "word": "英雄回家",
@@ -561,6 +601,14 @@
       "onboard_time": 1757655866,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260203,
+      "num": 333298,
+      "word": "宁静左手柯淳右手邵子恒",
+      "onboard_time": 1757667444,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 258662,
@@ -643,16 +691,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 226439,
-      "num": 226439,
-      "word": "于东来发文感谢西贝",
-      "onboard_time": 1757662525,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225440,
-      "num": 225440,
+      "num": 822348,
       "word": "机场过水门迎接烈士",
       "onboard_time": 1757649145,
       "rank": 15,
@@ -707,6 +747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214022,
+      "num": 492267,
+      "word": "赴山海",
+      "onboard_time": 1757580812,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212872,
       "num": 212872,
       "word": "脾胃一旦通畅减肥是很快的",
@@ -721,6 +769,14 @@
       "onboard_time": 1757664803,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208538,
+      "num": 208538,
+      "word": "果郡王的果是苹果的果",
+      "onboard_time": 1757666123,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 208071,
@@ -756,19 +812,19 @@
     },
     {
       "raw_hot": 202194,
-      "num": 223015,
+      "num": 320931,
       "word": "赴山海直播",
       "onboard_time": 1757665705,
       "rank": 35,
       "category": "剧集"
     },
     {
-      "raw_hot": 199017,
-      "num": 199017,
-      "word": "果郡王的果是苹果的果",
-      "onboard_time": 1757666123,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 199202,
+      "num": 318781,
+      "word": "赴山海16.8%爆开",
+      "onboard_time": 1757668646,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 199015,
@@ -801,6 +857,14 @@
       "onboard_time": 1757649685,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194409,
+      "num": 177449,
+      "word": "王楚钦对直播发出疑问",
+      "onboard_time": 1757667504,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194345,
@@ -859,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186716,
+      "num": 176517,
+      "word": "考拉基因真争气啊",
+      "onboard_time": 1757666364,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184960,
       "num": 184960,
       "word": "坏了这次要让老外学到真东西了",
@@ -873,14 +945,6 @@
       "onboard_time": 1757666425,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184628,
-      "num": 184628,
-      "word": "国家财政1000亿元发放育儿补贴",
-      "onboard_time": 1757665224,
-      "rank": 31,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 183645,
@@ -939,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177716,
+      "num": 177716,
+      "word": "薛凯琪 我的脸不是给你们这样用的",
+      "onboard_time": 1757668646,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176490,
       "num": 218479,
       "word": "高卿尘淘汰王铮亮偷哭",
@@ -953,6 +1025,14 @@
       "onboard_time": 1757653166,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174354,
+      "num": 174354,
+      "word": "INFJ 丝瓜汤人格",
+      "onboard_time": 1757665584,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 174344,
@@ -1017,14 +1097,6 @@
       "onboard_time": 1757647405,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168728,
-      "num": 271013,
-      "word": "iPhone14机主是灵动岛岛主",
-      "onboard_time": 1757666064,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 168406,
@@ -1107,6 +1179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163880,
+      "num": 330777,
+      "word": "长征十号第二次系留点火试验成功",
+      "onboard_time": 1757667204,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 163664,
       "num": 163664,
       "word": "女子吃饭被陌生男子摸头辱骂",
@@ -1137,14 +1217,6 @@
       "onboard_time": 1757647885,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159312,
-      "num": 159312,
-      "word": "INFJ 丝瓜汤人格",
-      "onboard_time": 1757665584,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 157360,
@@ -1355,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138513,
+      "num": 138513,
+      "word": "陈昊宇真的被吴彦姝养的很好",
+      "onboard_time": 1757668763,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137961,
       "num": 137961,
       "word": "张泽禹C位",
@@ -1459,6 +1539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130849,
+      "num": 130849,
+      "word": "经常做美甲到底有多伤眼",
+      "onboard_time": 1757669063,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 130513,
       "num": 130513,
       "word": "因为iPhone17才明白婚姻的意义",
@@ -1472,14 +1560,6 @@
       "word": "叔圈天菜真是各闯各的",
       "onboard_time": 1757666605,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129787,
-      "num": 129787,
-      "word": "考拉基因真争气啊",
-      "onboard_time": 1757666364,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1603,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119647,
+      "num": 119647,
+      "word": "三大电信运营商确认提供eSIM服务",
+      "onboard_time": 1757668343,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118987,
       "num": 911493,
       "word": "小布什当年得知911后反应",
@@ -1667,6 +1755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113906,
+      "num": 113906,
+      "word": "西贝儿童餐",
+      "onboard_time": 1757669123,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113773,
       "num": 113773,
       "word": "王曼昱3比2早田希娜",
@@ -1716,7 +1812,7 @@
     },
     {
       "raw_hot": 110990,
-      "num": 255862,
+      "num": 297063,
       "word": "华为新三折叠开售现场人从众",
       "onboard_time": 1757666064,
       "rank": 22,
@@ -1753,14 +1849,6 @@
       "onboard_time": 1757660186,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108125,
-      "num": 492267,
-      "word": "赴山海",
-      "onboard_time": 1757580812,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 106476,
@@ -2051,12 +2139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77362,
-      "num": 153768,
-      "word": "如果赴山海藏海传真对打",
-      "onboard_time": 1757666123,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 77656,
+      "num": 318289,
+      "word": "出口量占全国97%的国产骄傲",
+      "onboard_time": 1757667864,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73831,
@@ -2265,6 +2353,14 @@
       "onboard_time": 1757651787,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39950,
+      "num": 131196,
+      "word": "西贝 预制和预制菜是两回事",
+      "onboard_time": 1757668524,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39715,
