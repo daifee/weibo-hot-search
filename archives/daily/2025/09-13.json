@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757698664843,
+  "endTime": 1757701876757,
   "band_list": [
     {
       "raw_hot": 1574969,
@@ -339,6 +339,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 86580,
+      "num": 89631,
+      "word": "女明星助理怎么会谁当都一样",
+      "onboard_time": 1757697740,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85779,
       "num": 202697,
       "word": "西贝多种蔬菜为冷冻",
@@ -395,11 +403,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57402,
-      "num": 89631,
-      "word": "女明星助理怎么会谁当都一样",
-      "onboard_time": 1757697740,
-      "rank": 32,
+      "raw_hot": 67730,
+      "num": 66536,
+      "word": "薛凯琪回应被AI换脸制作不雅视频",
+      "onboard_time": 1757699118,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -451,12 +459,52 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28733,
+      "num": 58520,
+      "word": "罗永浩直播谈西贝",
+      "onboard_time": 1757701517,
+      "rank": 42,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 27632,
+      "num": 58414,
+      "word": "王牌对王牌",
+      "onboard_time": 1757700975,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26994,
       "num": 277238,
       "word": "服贸会周末逛吃全攻略",
       "onboard_time": 1757695641,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23635,
+      "num": 58289,
+      "word": "预制菜知情权",
+      "onboard_time": 1757699418,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19499,
+      "num": 58235,
+      "word": "汪苏泷南京站限定惊喜",
+      "onboard_time": 1757698698,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 15794,
+      "num": 77633,
+      "word": "商务部回应中美会谈",
+      "onboard_time": 1757701157,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15672,

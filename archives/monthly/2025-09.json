@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757698664843,
+  "endTime": 1757701876757,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -31875,6 +31875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86580,
+      "num": 89631,
+      "word": "女明星助理怎么会谁当都一样",
+      "onboard_time": 1757697740,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86571,
       "num": 118349,
       "word": "陈数 也请允许我做我自己",
@@ -34123,6 +34131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67730,
+      "num": 66536,
+      "word": "薛凯琪回应被AI换脸制作不雅视频",
+      "onboard_time": 1757699118,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67629,
       "num": 67629,
       "word": "无人机",
@@ -35129,14 +35145,6 @@
       "onboard_time": 1756735882,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57402,
-      "num": 89631,
-      "word": "女明星助理怎么会谁当都一样",
-      "onboard_time": 1757697740,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 57344,
@@ -37579,6 +37587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28733,
+      "num": 58520,
+      "word": "罗永浩直播谈西贝",
+      "onboard_time": 1757701517,
+      "rank": 42,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 28576,
       "num": 148477,
       "word": "袁弘张歆艺把日常搬进荧幕",
@@ -37641,6 +37657,14 @@
       "onboard_time": 1757184916,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27632,
+      "num": 58414,
+      "word": "王牌对王牌",
+      "onboard_time": 1757700975,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 27631,
@@ -37937,6 +37961,14 @@
       "onboard_time": 1756746197,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23635,
+      "num": 58289,
+      "word": "预制菜知情权",
+      "onboard_time": 1757699418,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23617,
@@ -38259,6 +38291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19499,
+      "num": 58235,
+      "word": "汪苏泷南京站限定惊喜",
+      "onboard_time": 1757698698,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19467,
       "num": 76371,
       "word": "汪顺穿东京奥运领奖服看阅兵",
@@ -38480,6 +38520,14 @@
       "word": "阅兵神图对称感绝了",
       "onboard_time": 1757012114,
       "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15794,
+      "num": 77633,
+      "word": "商务部回应中美会谈",
+      "onboard_time": 1757701157,
+      "rank": 9,
       "category": "国内时政"
     },
     {

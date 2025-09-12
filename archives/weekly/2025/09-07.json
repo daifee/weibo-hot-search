@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757698664843,
+  "endTime": 1757701876757,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -17611,6 +17611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86580,
+      "num": 89631,
+      "word": "女明星助理怎么会谁当都一样",
+      "onboard_time": 1757697740,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86571,
       "num": 118349,
       "word": "陈数 也请允许我做我自己",
@@ -18635,6 +18643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67730,
+      "num": 66536,
+      "word": "薛凯琪回应被AI换脸制作不雅视频",
+      "onboard_time": 1757699118,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67382,
       "num": 164819,
       "word": "iPhone17系列选购指南",
@@ -19137,14 +19153,6 @@
       "onboard_time": 1757287101,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57402,
-      "num": 89631,
-      "word": "女明星助理怎么会谁当都一样",
-      "onboard_time": 1757697740,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 57344,
@@ -20507,6 +20515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28733,
+      "num": 58520,
+      "word": "罗永浩直播谈西贝",
+      "onboard_time": 1757701517,
+      "rank": 42,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 28576,
       "num": 148477,
       "word": "袁弘张歆艺把日常搬进荧幕",
@@ -20553,6 +20569,14 @@
       "onboard_time": 1757184916,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27632,
+      "num": 58414,
+      "word": "王牌对王牌",
+      "onboard_time": 1757700975,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 27631,
@@ -20715,6 +20739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23635,
+      "num": 58289,
+      "word": "预制菜知情权",
+      "onboard_time": 1757699418,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23617,
       "num": 311466,
       "word": "人民网评建立健康多元消费评价体系",
@@ -20867,6 +20899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19499,
+      "num": 58235,
+      "word": "汪苏泷南京站限定惊喜",
+      "onboard_time": 1757698698,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19382,
       "num": 19382,
       "word": "校长站校门口不让学生送礼物",
@@ -20953,6 +20993,14 @@
       "onboard_time": 1757615596,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15794,
+      "num": 77633,
+      "word": "商务部回应中美会谈",
+      "onboard_time": 1757701157,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15504,

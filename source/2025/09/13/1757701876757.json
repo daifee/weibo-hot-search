@@ -1,0 +1,410 @@
+{
+  "runTime": 1757701876757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 117933,
+        "num": 159494,
+        "word": "江西南丰县发生交通事故致5死",
+        "onboard_time": 1757691444,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 109297,
+        "num": 109297,
+        "word": "外交部表态以72小时内袭击6国",
+        "onboard_time": 1757681846,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25074,
+        "num": 88882,
+        "word": "服贸会周末逛吃全攻略",
+        "onboard_time": 1757695641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170532,
+        "num": 86694,
+        "word": "海底捞小便事件涉案者父母赔220万",
+        "onboard_time": 1757675423,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166050,
+        "num": 85473,
+        "word": "罗永浩吐槽西贝一个馒头卖21元",
+        "onboard_time": 1757689887,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 79735,
+        "num": 79735,
+        "word": "贾国龙称罗永浩就是要干西贝",
+        "onboard_time": 1757689526,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 79277,
+        "num": 79277,
+        "word": "刘雨昕人气太超过了",
+        "onboard_time": 1757692645,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77740,
+        "num": 77740,
+        "word": "花少7  耐人寻味的一分钟",
+        "onboard_time": 1757677883,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67364,
+        "num": 77697,
+        "word": "iPhone17 抢不到",
+        "onboard_time": 1757681846,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15794,
+        "num": 77633,
+        "word": "商务部回应中美会谈",
+        "onboard_time": 1757701157,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178182,
+        "num": 77458,
+        "word": "暗杀柯克的凶手确认身份",
+        "onboard_time": 1757693185,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128465,
+        "num": 77412,
+        "word": "祝绪丹祝杨幂所愿皆所得",
+        "onboard_time": 1757679863,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86580,
+        "num": 77269,
+        "word": "女明星助理怎么会谁当都一样",
+        "onboard_time": 1757697740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83278,
+        "num": 77189,
+        "word": "欧阳娜娜镜头一移出现刘昊然",
+        "onboard_time": 1757687667,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77111,
+        "num": 77111,
+        "word": "10岁女儿非亲生胃癌父亲已去世",
+        "onboard_time": 1757691685,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76963,
+        "num": 76963,
+        "word": "宋雨琦王安宇互晒合照",
+        "onboard_time": 1757686825,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76399,
+        "num": 76399,
+        "word": "比伯穿内裤骑平衡车",
+        "onboard_time": 1757676984,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69838,
+        "num": 69838,
+        "word": "迪丽热巴刘海",
+        "onboard_time": 1757670923,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67448,
+        "num": 67448,
+        "word": "桃黑黑维护粉丝",
+        "onboard_time": 1757678125,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 51565,
+        "num": 67350,
+        "word": "拥有闲谈力是高情商的体现",
+        "onboard_time": 1757693185,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 625803,
+        "num": 67025,
+        "word": "关晓彤半夜喝酒发朋友圈",
+        "onboard_time": 1757682627,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114730,
+        "num": 66812,
+        "word": "第一批吃西贝罗永浩菜单食客发声",
+        "onboard_time": 1757688088,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 67730,
+        "num": 66536,
+        "word": "薛凯琪回应被AI换脸制作不雅视频",
+        "onboard_time": 1757699118,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66331,
+        "num": 66331,
+        "word": "13岁奥莉近照",
+        "onboard_time": 1757682266,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 59178,
+        "num": 59178,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1757682385,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50092,
+        "num": 59139,
+        "word": "美英军舰过航台湾海峡并滋扰挑衅",
+        "onboard_time": 1757691625,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47558,
+        "num": 59106,
+        "word": "白鹿晒烟花",
+        "onboard_time": 1757691084,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37689,
+        "num": 59091,
+        "word": "李昀锐 我眼睛脏了",
+        "onboard_time": 1757683107,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35287,
+        "num": 59024,
+        "word": "李嘉琦随身带血糖检测仪",
+        "onboard_time": 1757683949,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29722,
+        "num": 59014,
+        "word": "方可帮迪丽热巴做的发型",
+        "onboard_time": 1757687248,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42551,
+        "num": 58952,
+        "word": "西贝 3只蒸饺29元",
+        "onboard_time": 1757671104,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39477,
+        "num": 58912,
+        "word": "赴山海",
+        "onboard_time": 1757668403,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38809,
+        "num": 58897,
+        "word": "迪奥活动",
+        "onboard_time": 1757670021,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 37276,
+        "num": 58843,
+        "word": "西贝致顾客的一封信",
+        "onboard_time": 1757661925,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36404,
+        "num": 58819,
+        "word": "西贝多种蔬菜为冷冻",
+        "onboard_time": 1757693723,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35620,
+        "num": 58787,
+        "word": "罗永浩直播剖析西贝原料",
+        "onboard_time": 1757682866,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35101,
+        "num": 58748,
+        "word": "李小鹏13岁女儿参加花滑比赛",
+        "onboard_time": 1757683707,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32530,
+        "num": 58713,
+        "word": "韩民众举讽刺画接316名在美获释人员",
+        "onboard_time": 1757697080,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32526,
+        "num": 58652,
+        "word": "王橹杰穆祉丞穿了同款",
+        "onboard_time": 1757687366,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30878,
+        "num": 58627,
+        "word": "月嫂喂奶致刚出生2天男婴窒息",
+        "onboard_time": 1757671823,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30834,
+        "num": 58564,
+        "word": "浙江老板花3000元挽回约800万损失",
+        "onboard_time": 1757688865,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28775,
+        "num": 58538,
+        "word": "邓为飞吻粉丝",
+        "onboard_time": 1757694023,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28733,
+        "num": 58520,
+        "word": "罗永浩直播谈西贝",
+        "onboard_time": 1757701517,
+        "rank": 42,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 28135,
+        "num": 58466,
+        "word": "橙色iPhone17ProMax难抢",
+        "onboard_time": 1757686289,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27632,
+        "num": 58414,
+        "word": "王牌对王牌",
+        "onboard_time": 1757700975,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26886,
+        "num": 58380,
+        "word": "张檬谈溺爱儿子",
+        "onboard_time": 1757687487,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25589,
+        "num": 58346,
+        "word": "24期免息买iPhone17真香",
+        "onboard_time": 1757682325,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23635,
+        "num": 58289,
+        "word": "预制菜知情权",
+        "onboard_time": 1757699418,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23497,
+        "num": 58279,
+        "word": "中央厨房制作不纳入预制菜",
+        "onboard_time": 1757685687,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19499,
+        "num": 58235,
+        "word": "汪苏泷南京站限定惊喜",
+        "onboard_time": 1757698698,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国今日如你所愿#"
+    }
+  }
+}
