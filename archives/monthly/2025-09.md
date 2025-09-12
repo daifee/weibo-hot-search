@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 15:36:35
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/12 16:32:00
 </p>
 </blockquote>
 <p>
@@ -561,6 +561,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%88%A0%E5%8D%9A%23" target="weibo">
+西贝删博（热度：1915313）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%23" target="weibo">
 金正恩抵达北京（热度：1913036）
 </a>
@@ -599,6 +605,12 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0%23" target="weibo">
 外卖平台集体发声（热度：1883520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E8%87%B4%E9%A1%BE%E5%AE%A2%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23" target="weibo">
+西贝致顾客的一封信（热度：1882505）
 </a>
 </li>
 
@@ -1229,6 +1241,12 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%A7%A3%E8%AF%BB%23" target="weibo">
 九三阅兵解读（热度：1202393）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A%23" target="weibo">
+罗永浩直播预告（热度：1195338）
 </a>
 </li>
 
@@ -1989,6 +2007,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E6%89%BF%E8%AE%A4%E9%83%A8%E5%88%86%E8%8F%9C%E5%93%81%E6%98%AF%E9%9A%94%E5%A4%9C%E8%8F%9C%23" target="weibo">
+西贝承认部分菜品是隔夜菜（热度：851408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E61%E6%8A%8A%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86%23" target="weibo">
 东风61把大家给整不会了（热度：851367）
 </a>
@@ -2327,6 +2351,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E4%B8%8E%E4%B8%A4%E5%84%BF%E5%AD%90%E9%BD%90%E8%81%9A%E5%8C%97%E4%BA%AC%E7%9C%8B%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23" target="weibo">
 霍震霆与两儿子齐聚北京看九三阅兵（热度：763878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%85%AC%E5%BC%80%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%8F%9C%E5%93%81%E5%88%B6%E4%BD%9C%E5%85%A8%E7%A8%8B%23" target="weibo">
+西贝公开罗永浩菜品制作全程（热度：762723）
 </a>
 </li>
 
@@ -2757,6 +2787,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E8%BF%99%E4%B8%AA%E5%AD%97%E5%B1%85%E7%84%B6%E7%BB%84%E4%B8%8D%E4%BA%86%E4%BB%BB%E4%BD%95%E8%AF%8D%23" target="weibo">
+浙这个字居然组不了任何词（热度：665328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%86%85%E5%AE%B9%E6%98%AF%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
 上班的内容是集体观看阅兵（热度：664750）
 </a>
@@ -2795,12 +2831,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%A2%81%E5%9B%9E%E5%BA%94%E8%AF%B4%E8%83%A1%E6%A5%9A%E9%9D%93%E5%8F%A3%E8%87%AD%23" target="weibo">
 小袁回应说胡楚靓口臭（热度：658666）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E8%87%B4%E9%A1%BE%E5%AE%A2%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23" target="weibo">
-西贝致顾客的一封信（热度：656931）
 </a>
 </li>
 
@@ -4067,12 +4097,6 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%BF%AA%E6%90%AD%E6%99%AE%E4%BA%AC%E4%B8%93%E8%BD%A6%23" target="weibo">
 莫迪搭普京专车（热度：485473）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E8%BF%99%E4%B8%AA%E5%AD%97%E5%B1%85%E7%84%B6%E7%BB%84%E4%B8%8D%E4%BA%86%E4%BB%BB%E4%BD%95%E8%AF%8D%23" target="weibo">
-浙这个字居然组不了任何词（热度：485166）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ VOGUE（热度：350760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E9%9D%96%E5%A7%97%E6%8C%BA%E5%AD%95%E8%82%9A%E5%81%A5%E8%BA%AB%23" target="weibo">
 卢靖姗挺孕肚健身（热度：345005）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8A%A3%E8%B4%A8%E7%A2%B3%E6%B0%B4%E7%9C%9F%E7%9A%84%E8%A6%81%E5%B0%91%E5%90%83%23" target="weibo">
-这些劣质碳水真的要少吃（热度：344796）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%92%96%E5%95%A1%E5%92%8C%E4%B8%8D%E5%96%9D%E5%92%96%E5%95%A1%E7%9A%84%E8%BA%AB%E4%BD%93%E5%B7%AE%E8%B7%9D%23" target="weibo">
-喝咖啡和不喝咖啡的身体差距（热度：344245）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E6%80%BB%E5%B1%80%E5%B0%86%E7%9D%A3%E4%BF%83%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E5%90%88%E7%90%86%E6%8E%A7%E5%88%B6%E8%A1%A5%E8%B4%B4%23" target="weibo">
-市监总局将督促外卖平台合理控制补贴（热度：344140）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E7%88%86%E7%82%B8%E5%BC%8F%E5%AE%A3%E5%8F%91%23" target="weibo">
-赴山海爆炸式宣发（热度：343762）
 </a>
 </li>
 
