@@ -1,6 +1,6 @@
 {
   "startTime": 1757608274007,
-  "endTime": 1757669931893,
+  "endTime": 1757672803637,
   "band_list": [
     {
       "raw_hot": 2493648,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1670812,
+      "num": 1670812,
+      "word": "西贝要求所有员工品尝罗永浩菜单",
+      "onboard_time": 1757669303,
+      "rank": 3,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 1357377,
       "num": 1357377,
       "word": "汤臣一品老化迹象",
@@ -65,6 +73,14 @@
       "onboard_time": 1757665043,
       "rank": 3,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1193297,
+      "num": 307243,
+      "word": "迪丽热巴刘海",
+      "onboard_time": 1757670923,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1145851,
@@ -131,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 854718,
+      "num": 405766,
+      "word": "王一博直播",
+      "onboard_time": 1757670564,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 851777,
       "num": 370532,
       "word": "购买一部iPhone17你要工作多久",
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 801506,
-      "num": 327931,
+      "num": 387481,
       "word": "李兰迪张婧仪 双生花",
       "onboard_time": 1757664983,
       "rank": 26,
@@ -179,6 +203,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 744215,
+      "num": 744215,
+      "word": "迪奥活动",
+      "onboard_time": 1757670021,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 731675,
       "num": 370852,
       "word": "浙这个字居然组不了任何词",
@@ -203,12 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 667634,
-      "num": 667634,
-      "word": "西贝要求所有员工品尝罗永浩菜单",
-      "onboard_time": 1757669303,
-      "rank": 3,
+      "raw_hot": 666891,
+      "num": 666891,
+      "word": "罗永浩西贝之争是一场信任僵局",
+      "onboard_time": 1757659885,
+      "rank": 20,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 606159,
+      "num": 606159,
+      "word": "西贝儿童餐",
+      "onboard_time": 1757669123,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593996,
@@ -241,14 +281,6 @@
       "onboard_time": 1757645845,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589924,
-      "num": 589924,
-      "word": "罗永浩西贝之争是一场信任僵局",
-      "onboard_time": 1757659885,
-      "rank": 20,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 585598,
@@ -345,6 +377,14 @@
       "onboard_time": 1757665224,
       "rank": 31,
       "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 439997,
+      "num": 439997,
+      "word": "迪丽热巴上海迪奥活动",
+      "onboard_time": 1757670863,
+      "rank": 8,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 435707,
@@ -475,6 +515,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339913,
+      "num": 497207,
+      "word": "赴山海16.8%爆开",
+      "onboard_time": 1757668646,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 336359,
+      "num": 336359,
+      "word": "宁静左手柯淳右手邵子恒",
+      "onboard_time": 1757667444,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 333923,
+      "num": 302808,
+      "word": "西贝 3只蒸饺29元",
+      "onboard_time": 1757671104,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332621,
       "num": 332621,
       "word": "王楚钦北影北舞优秀毕业生",
@@ -497,6 +561,14 @@
       "onboard_time": 1757656887,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324780,
+      "num": 409185,
+      "word": "小鸟频频撞死在南京一大桥玻璃墙",
+      "onboard_time": 1757670505,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295921,
@@ -603,11 +675,11 @@
       "category": "军事"
     },
     {
-      "raw_hot": 265063,
-      "num": 333298,
-      "word": "宁静左手柯淳右手邵子恒",
-      "onboard_time": 1757667444,
-      "rank": 8,
+      "raw_hot": 263253,
+      "num": 292693,
+      "word": "花少找手机这段龚俊A爆了",
+      "onboard_time": 1757670144,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -635,20 +707,20 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 250320,
-      "num": 318781,
-      "word": "赴山海16.8%爆开",
-      "onboard_time": 1757668646,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249636,
       "num": 429362,
       "word": "成毅路人盘",
       "onboard_time": 1757646026,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248584,
+      "num": 248584,
+      "word": "月嫂喂奶致刚出生2天男婴窒息",
+      "onboard_time": 1757671823,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239785,
@@ -675,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236804,
+      "num": 236804,
+      "word": "西贝厨师被记者问懵了",
+      "onboard_time": 1757670021,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235790,
       "num": 897334,
       "word": "赴山海开播",
@@ -689,6 +769,14 @@
       "onboard_time": 1757564504,
       "rank": 12,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 233541,
+      "num": 233541,
+      "word": "妻子微信群辱骂丈夫被判在群中道歉",
+      "onboard_time": 1757671883,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232665,
@@ -716,7 +804,7 @@
     },
     {
       "raw_hot": 225440,
-      "num": 822348,
+      "num": 898532,
       "word": "机场过水门迎接烈士",
       "onboard_time": 1757649145,
       "rank": 15,
@@ -745,6 +833,14 @@
       "onboard_time": 1757639187,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221865,
+      "num": 221865,
+      "word": "汪顺被记大功",
+      "onboard_time": 1757671162,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 220432,
@@ -939,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188093,
+      "num": 289891,
+      "word": "你好星期六",
+      "onboard_time": 1757672004,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187975,
       "num": 185048,
       "word": "鹿晗把粉丝的灯牌改了一个字",
@@ -953,14 +1057,6 @@
       "onboard_time": 1757642845,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185415,
-      "num": 185415,
-      "word": "西贝儿童餐",
-      "onboard_time": 1757669123,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184960,
@@ -1035,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178044,
+      "num": 178044,
+      "word": "小鹏召回",
+      "onboard_time": 1757670144,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177716,
       "num": 192147,
       "word": "薛凯琪 我的脸不是给你们这样用的",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1757647286,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173708,
+      "num": 173708,
+      "word": "3个月为爱爆改40斤后官宣了",
+      "onboard_time": 1757670505,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 173677,
@@ -1171,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167105,
+      "num": 167105,
+      "word": "14岁男孩油门当刹车撞死老太",
+      "onboard_time": 1757671287,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166757,
       "num": 168652,
       "word": "电影风林火山定档国庆",
@@ -1219,12 +1339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163073,
+      "num": 260283,
+      "word": "马嘉祺扶额摇",
+      "onboard_time": 1757671225,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162322,
       "num": 209475,
       "word": "泰剧现在已经这么炸裂了吗",
       "onboard_time": 1757648726,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161010,
+      "num": 161010,
+      "word": "黄明昊发文为杨幂庆生",
+      "onboard_time": 1757670983,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 159718,
@@ -1459,6 +1595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139138,
+      "num": 139138,
+      "word": "未来从兜里掏出来的手机",
+      "onboard_time": 1757672663,
+      "rank": 42,
+      "category": "幽默,数码"
+    },
+    {
       "raw_hot": 137961,
       "num": 137961,
       "word": "张泽禹C位",
@@ -1635,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125767,
+      "num": 162238,
+      "word": "带孩子上厕所要捂眼睛",
+      "onboard_time": 1757672303,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125737,
       "num": 908957,
       "word": "赴山海节奏",
@@ -1715,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119836,
+      "num": 119836,
+      "word": "黄雨婷潘展乐雅思组合等被记大功",
+      "onboard_time": 1757672004,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119647,
       "num": 119647,
       "word": "三大电信运营商确认提供eSIM服务",
@@ -1769,6 +1929,14 @@
       "onboard_time": 1757651307,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114372,
+      "num": 114372,
+      "word": "Doinb最后一舞",
+      "onboard_time": 1757670323,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 113997,
@@ -1875,12 +2043,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109399,
+      "num": 109399,
+      "word": "路阳给辛芷蕾画的饼成真了",
+      "onboard_time": 1757672783,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108558,
       "num": 108558,
       "word": "这不就是当年上课转笔那批人",
       "onboard_time": 1757660186,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107469,
+      "num": 107469,
+      "word": "成毅 ooc是啥",
+      "onboard_time": 1757671344,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 106476,
@@ -2180,7 +2364,7 @@
     },
     {
       "raw_hot": 76024,
-      "num": 126422,
+      "num": 286544,
       "word": "奇瑞行业首推车主健康守护计划",
       "onboard_time": 1757669903,
       "rank": 41,
@@ -2320,6 +2504,14 @@
       "word": "西贝将向消费者开放后厨",
       "onboard_time": 1757598394,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48605,
+      "num": 161412,
+      "word": "蒸蛋上写侮辱字母店员被辞退",
+      "onboard_time": 1757672485,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
