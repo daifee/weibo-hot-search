@@ -1,0 +1,410 @@
+{
+  "runTime": 1757655613110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 659995,
+        "num": 1105599,
+        "word": "西贝已获预制食品相关专利授权",
+        "onboard_time": 1757649206,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633034,
+        "num": 633034,
+        "word": "刑事立案下降25.7%",
+        "onboard_time": 1757645727,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80403,
+        "num": 609054,
+        "word": "接30位烈士遗骸回国",
+        "onboard_time": 1757639367,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593425,
+        "num": 593425,
+        "word": "特朗普出席911纪念仪式右脸下垂",
+        "onboard_time": 1757654007,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 560104,
+        "num": 560104,
+        "word": "李佳琦把赵昭仪养的很好",
+        "onboard_time": 1757645845,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449232,
+        "num": 449232,
+        "word": "云上贵州董事长被查",
+        "onboard_time": 1757650347,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446683,
+        "num": 446683,
+        "word": "预制菜 强制明示",
+        "onboard_time": 1757653825,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370664,
+        "num": 370664,
+        "word": "婚后发现丈夫隐瞒梅毒20万彩礼退部分",
+        "onboard_time": 1757650466,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326618,
+        "num": 326618,
+        "word": "朱一龙现场迎接志愿军烈士",
+        "onboard_time": 1757650406,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183511,
+        "num": 324641,
+        "word": "为烈士遗骸护航规格再次升级",
+        "onboard_time": 1757654427,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 975042,
+        "num": 322390,
+        "word": "父亲曝女儿被虐待致死可怕细节",
+        "onboard_time": 1757651187,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514177,
+        "num": 316899,
+        "word": "黄多多 天选文艺片女主脸",
+        "onboard_time": 1757651909,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80611,
+        "num": 315802,
+        "word": "淘宝闪购买iPhone17送17杯奶茶",
+        "onboard_time": 1757653766,
+        "rank": 12,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 399454,
+        "num": 310303,
+        "word": "猫就这样凹凸凹凸路过了所有人",
+        "onboard_time": 1757652627,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348997,
+        "num": 309896,
+        "word": "孙燕姿老鼠干",
+        "onboard_time": 1757653407,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306903,
+        "num": 306903,
+        "word": "杨幂39了",
+        "onboard_time": 1757647226,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272560,
+        "num": 303876,
+        "word": "原来白敬亭也不能笑着离开理发店",
+        "onboard_time": 1757652507,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303118,
+        "num": 303118,
+        "word": "韦雪整容后脸不对称",
+        "onboard_time": 1757648844,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38858,
+        "num": 302401,
+        "word": "成毅玉之品格",
+        "onboard_time": 1757651787,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11762,
+        "num": 300613,
+        "word": "年龄不是免责金牌",
+        "onboard_time": 1757655087,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496048,
+        "num": 299818,
+        "word": "龚俊 李沁你也是",
+        "onboard_time": 1757644645,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417800,
+        "num": 298479,
+        "word": "罗永浩当面说挺好背后说恶心",
+        "onboard_time": 1757636127,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 297664,
+        "num": 297664,
+        "word": "罗永浩西贝之争倒逼餐饮透明化",
+        "onboard_time": 1757644046,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 282081,
+        "num": 282081,
+        "word": "罗永浩奖励10万征集西贝预制菜线索",
+        "onboard_time": 1757642665,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 278025,
+        "num": 278025,
+        "word": "虞书欣双轨过审了",
+        "onboard_time": 1757646686,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180484,
+        "num": 269824,
+        "word": "披哥MAMA舞台",
+        "onboard_time": 1757654665,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147449,
+        "num": 269400,
+        "word": "披荆斩棘",
+        "onboard_time": 1757653166,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269211,
+        "num": 269211,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757594376,
+        "rank": 27,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 141478,
+        "num": 266216,
+        "word": "许馨文晒合照祝杨幂生日快乐",
+        "onboard_time": 1757654786,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18928,
+        "num": 265056,
+        "word": "迪士尼卫生巾降价至7元",
+        "onboard_time": 1757655148,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264298,
+        "num": 264298,
+        "word": "iPhone17Pro相机是疯狂的",
+        "onboard_time": 1757654967,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228377,
+        "num": 228377,
+        "word": "这样卖碱水面包不会脏吗",
+        "onboard_time": 1757646804,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221524,
+        "num": 221524,
+        "word": "罗永浩虽是大V但有吐槽权",
+        "onboard_time": 1757653825,
+        "rank": 32,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 173538,
+        "num": 173538,
+        "word": "沈阳车辆不从烈士遗骸上方驶过",
+        "onboard_time": 1757644347,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166444,
+        "num": 166444,
+        "word": "广州一工厂超半数员工是尿毒症患者",
+        "onboard_time": 1757653466,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160253,
+        "num": 160253,
+        "word": "住合租房生娃当事人称未影响其他人",
+        "onboard_time": 1757651549,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154352,
+        "num": 154352,
+        "word": "痞幼酒吧蹦迪",
+        "onboard_time": 1757649206,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146777,
+        "num": 146777,
+        "word": "830元15道菜到底贵不贵",
+        "onboard_time": 1757652569,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95308,
+        "num": 144787,
+        "word": "小酒窝开学了",
+        "onboard_time": 1757655446,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85127,
+        "num": 144460,
+        "word": "女子用Excel搞定全屋定制图",
+        "onboard_time": 1757654726,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144371,
+        "num": 144371,
+        "word": "运20专机启程回国",
+        "onboard_time": 1757654486,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138323,
+        "num": 138323,
+        "word": "男子钓上79斤大鱼上街显摆20分钟",
+        "onboard_time": 1757651368,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 134434,
+        "word": "西贝",
+        "onboard_time": 1757638227,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133704,
+        "num": 133704,
+        "word": "猫妈妈把猫崽叼到床上和人类一起睡觉",
+        "onboard_time": 1757652569,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128578,
+        "num": 128578,
+        "word": "蚊子扛着两斤猫毛走了",
+        "onboard_time": 1757655326,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119195,
+        "num": 119195,
+        "word": "10部影片定档2025国庆档",
+        "onboard_time": 1757655207,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115058,
+        "num": 115058,
+        "word": "韩国博主用AI恶补A股知识",
+        "onboard_time": 1757653766,
+        "rank": 46,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 114951,
+        "num": 114951,
+        "word": "老十七用上了iPhone17",
+        "onboard_time": 1757653890,
+        "rank": 47,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 109877,
+        "num": 109877,
+        "word": "原来会计才是吃瓜最多的行业",
+        "onboard_time": 1757644046,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109801,
+        "num": 109801,
+        "word": "厦门暴雨致积水一男子触电身亡",
+        "onboard_time": 1757653350,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平发展是中国的坚定选择#"
+    }
+  }
+}
