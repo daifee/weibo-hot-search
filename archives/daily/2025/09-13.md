@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/13 00:27:33 ~ 2025/09/13 06:38:26
+本榜单时间：2025/09/13 00:27:33 ~ 2025/09/13 07:21:24
 </p>
 </blockquote>
 <p>
@@ -33,6 +33,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%9D%80%E6%9F%AF%E5%85%8B%E7%9A%84%E5%87%B6%E6%89%8B%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BB%BD%23" target="weibo">
+暗杀柯克的凶手确认身份（热度：619295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%E6%B6%89%E6%A1%88%E8%80%85%E7%88%B6%E6%AF%8D%E8%B5%94220%E4%B8%87%23" target="weibo">
 海底捞小便事件涉案者父母赔220万（热度：586530）
 </a>
@@ -41,12 +47,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E8%A5%BF%E8%B4%9D%E4%B8%80%E4%B8%AA%E9%A6%92%E5%A4%B4%E5%8D%9621%E5%85%83%23" target="weibo">
 罗永浩吐槽西贝一个馒头卖21元（热度：549823）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%9D%80%E6%9F%AF%E5%85%8B%E7%9A%84%E5%87%B6%E6%89%8B%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BB%BD%23" target="weibo">
-暗杀柯克的凶手确认身份（热度：409616）
 </a>
 </li>
 
@@ -105,6 +105,12 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%8B%B1%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%B9%B6%E6%BB%8B%E6%89%B0%E6%8C%91%E8%A1%85%23" target="weibo">
+美英军舰过航台湾海峡并滋扰挑衅（热度：257525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E8%83%83%E7%99%8C%E7%88%B6%E4%BA%B2%E5%B7%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 10岁女儿非亲生胃癌父亲已去世（热度：246581）
 </a>
@@ -141,14 +147,14 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%9B%B4%E6%92%AD%23" target="weibo">
-鞠婧祎直播（热度：193581）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%8E%A8%E6%88%BF%E5%88%B6%E4%BD%9C%E4%B8%8D%E7%BA%B3%E5%85%A5%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
+中央厨房制作不纳入预制菜（热度：194792）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%8B%B1%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%B9%B6%E6%BB%8B%E6%89%B0%E6%8C%91%E8%A1%85%23" target="weibo">
-美英军舰过航台湾海峡并滋扰挑衅（热度：158238）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%9B%B4%E6%92%AD%23" target="weibo">
+鞠婧祎直播（热度：193581）
 </a>
 </li>
 
@@ -171,6 +177,24 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%20%20%E8%80%90%E4%BA%BA%E5%AF%BB%E5%91%B3%E7%9A%84%E4%B8%80%E5%88%86%E9%92%9F%23" target="weibo">
+花少7  耐人寻味的一分钟（热度：136973）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E8%8A%B13000%E5%85%83%E6%8C%BD%E5%9B%9E%E7%BA%A6800%E4%B8%87%E6%8D%9F%E5%A4%B1%23" target="weibo">
+浙江老板花3000元挽回约800万损失（热度：130494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%B0%91%E4%BC%97%E4%B8%BE%E8%AE%BD%E5%88%BA%E7%94%BB%E6%8E%A5316%E5%90%8D%E5%9C%A8%E7%BE%8E%E8%8E%B7%E9%87%8A%E4%BA%BA%E5%91%98%23" target="weibo">
+韩民众举讽刺画接316名在美获释人员（热度：129852）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%20%E7%B4%A7%E5%BC%A0%23" target="weibo">
 教资 紧张（热度：129755）
 </a>
@@ -183,6 +207,12 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B4%B4%E8%A5%BF%E8%B4%9D%E9%A2%84%E5%88%B6%E8%8F%9C%E7%BA%BF%E7%B4%A2%23" target="weibo">
+罗永浩贴西贝预制菜线索（热度：129341）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E6%B4%BB%E5%8A%A8%23" target="weibo">
 迪奥活动（热度：118901）
 </a>
@@ -191,12 +221,6 @@ iPhone17 抢不到（热度：258117）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E9%A3%9E%E5%90%BB%E7%B2%89%E4%B8%9D%23" target="weibo">
 邓为飞吻粉丝（热度：117994）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%20%20%E8%80%90%E4%BA%BA%E5%AF%BB%E5%91%B3%E7%9A%84%E4%B8%80%E5%88%86%E9%92%9F%23" target="weibo">
-花少7  耐人寻味的一分钟（热度：117478）
 </a>
 </li>
 
@@ -249,12 +273,6 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%8E%A8%E6%88%BF%E5%88%B6%E4%BD%9C%E4%B8%8D%E7%BA%B3%E5%85%A5%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
-中央厨房制作不纳入预制菜（热度：89680）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
 赴山海（热度：88844）
 </a>
@@ -297,6 +315,18 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%81%B6%E9%81%87%E6%B1%9F%E7%96%8F%E5%BD%B1%23" target="weibo">
+西班牙偶遇江疏影（热度：76815）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%203%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23" target="weibo">
+西贝 3只蒸饺29元（热度：74708）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%99%E4%B9%88%E5%BF%AB%E5%B0%B1%E5%8F%88%E4%B8%8B%E7%8F%AD%E4%BA%86%23" target="weibo">
 王一博这么快就又下班了（热度：74433）
 </a>
@@ -309,38 +339,20 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%203%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23" target="weibo">
-西贝 3只蒸饺29元（热度：70634）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B4%B4%E8%A5%BF%E8%B4%9D%E9%A2%84%E5%88%B6%E8%8F%9C%E7%BA%BF%E7%B4%A2%23" target="weibo">
-罗永浩贴西贝预制菜线索（热度：69934）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E6%8D%A2%E8%84%B8%E5%88%B6%E4%BD%9C%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23" target="weibo">
 薛凯琪回应被AI换脸制作不雅视频（热度：67730）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%81%B6%E9%81%87%E6%B1%9F%E7%96%8F%E5%BD%B1%23" target="weibo">
-西班牙偶遇江疏影（热度：65547）
+<a href="https://s.weibo.com/weibo?q=%2324%E6%9C%9F%E5%85%8D%E6%81%AF%E4%B9%B0iPhone17%E7%9C%9F%E9%A6%99%23" target="weibo">
+24期免息买iPhone17真香（热度：54805）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%B0%91%E4%BC%97%E4%B8%BE%E8%AE%BD%E5%88%BA%E7%94%BB%E6%8E%A5316%E5%90%8D%E5%9C%A8%E7%BE%8E%E8%8E%B7%E9%87%8A%E4%BA%BA%E5%91%98%23" target="weibo">
-韩民众举讽刺画接316名在美获释人员（热度：65519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E8%8A%B13000%E5%85%83%E6%8C%BD%E5%9B%9E%E7%BA%A6800%E4%B8%87%E6%8D%9F%E5%A4%B1%23" target="weibo">
-浙江老板花3000元挽回约800万损失（热度：63871）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%8A%A0%E5%B7%A5%20%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
+预加工 预制菜（热度：44939）
 </a>
 </li>
 
@@ -357,14 +369,26 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2324%E6%9C%9F%E5%85%8D%E6%81%AF%E4%B9%B0iPhone17%E7%9C%9F%E9%A6%99%23" target="weibo">
-24期免息买iPhone17真香（热度：39678）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E6%BE%B3%E9%97%A8%E8%B5%9B%E5%85%AB%E5%BC%BA%23" target="weibo">
+孙颖莎晋级澳门赛八强（热度：39176）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E6%BE%B3%E9%97%A8%E8%B5%9B%E5%85%AB%E5%BC%BA%23" target="weibo">
-孙颖莎晋级澳门赛八强（热度：39176）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
+王牌对王牌（热度：35895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%92%E8%8C%84%E5%AD%90%E7%9A%84%E7%A7%98%E8%AF%80%E6%98%AF%E7%8E%A9%E4%BC%9A%E5%84%BF%E6%89%8B%E6%9C%BA%23" target="weibo">
+炒茄子的秘诀是玩会儿手机（热度：33750）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%20%E5%8E%A8%E6%88%BF%E5%8F%82%E8%A7%82%23" target="weibo">
+西贝 厨房参观（热度：31621）
 </a>
 </li>
 
@@ -375,8 +399,8 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
-王牌对王牌（热度：27632）
+<a href="https://s.weibo.com/weibo?q=%23%E7%81%BC%E7%81%BC%E9%9F%B6%E5%8D%8E%23" target="weibo">
+灼灼韶华（热度：26999）
 </a>
 </li>
 
@@ -389,12 +413,6 @@ iPhone17 抢不到（热度：258117）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E7%9F%A5%E6%83%85%E6%9D%83%23" target="weibo">
 预制菜知情权（热度：23635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%92%E8%8C%84%E5%AD%90%E7%9A%84%E7%A7%98%E8%AF%80%E6%98%AF%E7%8E%A9%E4%BC%9A%E5%84%BF%E6%89%8B%E6%9C%BA%23" target="weibo">
-炒茄子的秘诀是玩会儿手机（热度：22832）
 </a>
 </li>
 

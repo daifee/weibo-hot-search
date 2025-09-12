@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 06:38:26
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 07:21:24
 </p>
 </blockquote>
 <p>
@@ -3237,6 +3237,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%9D%80%E6%9F%AF%E5%85%8B%E7%9A%84%E5%87%B6%E6%89%8B%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BB%BD%23" target="weibo">
+暗杀柯克的凶手确认身份（热度：619295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%96%8A%E8%AF%9D%E7%9F%B3%E5%B9%B3%E6%BB%9A%E5%87%BA%E6%97%A5%E6%9C%AC%23" target="weibo">
 日本民众喊话石平滚出日本（热度：618027）
 </a>
@@ -5237,12 +5243,6 @@ iPhone17Pro相机是疯狂的（热度：417026）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%83%BD%E6%8F%92%E7%BA%BF%E6%9D%BF%20%E6%97%A9%E5%B7%B2%E8%A2%AB%E7%A6%81%E7%94%A8%23" target="weibo">
 万能插线板 早已被禁用（热度：409973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%9D%80%E6%9F%AF%E5%85%8B%E7%9A%84%E5%87%B6%E6%89%8B%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BB%BD%23" target="weibo">
-暗杀柯克的凶手确认身份（热度：409616）
 </a>
 </li>
 

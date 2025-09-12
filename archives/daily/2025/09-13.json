@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757716706088,
+  "endTime": 1757719284848,
   "band_list": [
     {
       "raw_hot": 1574969,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 619295,
+      "num": 793531,
+      "word": "暗杀柯克的凶手确认身份",
+      "onboard_time": 1757693185,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 586530,
       "num": 586530,
       "word": "海底捞小便事件涉案者父母赔220万",
@@ -41,14 +49,6 @@
       "onboard_time": 1757689887,
       "rank": 4,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 409616,
-      "num": 493472,
-      "word": "暗杀柯克的凶手确认身份",
-      "onboard_time": 1757693185,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 405157,
@@ -123,6 +123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 257525,
+      "num": 203454,
+      "word": "美英军舰过航台湾海峡并滋扰挑衅",
+      "onboard_time": 1757691625,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246581,
       "num": 246581,
       "word": "10岁女儿非亲生胃癌父亲已去世",
@@ -171,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194792,
+      "num": 202915,
+      "word": "中央厨房制作不纳入预制菜",
+      "onboard_time": 1757685687,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193581,
       "num": 203856,
       "word": "鞠婧祎直播",
       "onboard_time": 1757682385,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158238,
-      "num": 203454,
-      "word": "美英军舰过航台湾海峡并滋扰挑衅",
-      "onboard_time": 1757691625,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155327,
@@ -211,6 +219,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136973,
+      "num": 260769,
+      "word": "花少7  耐人寻味的一分钟",
+      "onboard_time": 1757677883,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130494,
+      "num": 130494,
+      "word": "浙江老板花3000元挽回约800万损失",
+      "onboard_time": 1757688865,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129852,
+      "num": 129852,
+      "word": "韩民众举讽刺画接316名在美获释人员",
+      "onboard_time": 1757697080,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129755,
       "num": 203626,
       "word": "教资 紧张",
@@ -227,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129341,
+      "num": 129341,
+      "word": "罗永浩贴西贝预制菜线索",
+      "onboard_time": 1757704454,
+      "rank": 25,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 118901,
       "num": 203372,
       "word": "迪奥活动",
@@ -241,14 +281,6 @@
       "onboard_time": 1757694023,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117478,
-      "num": 260769,
-      "word": "花少7  耐人寻味的一分钟",
-      "onboard_time": 1757677883,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 112345,
@@ -315,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89680,
-      "num": 202915,
-      "word": "中央厨房制作不纳入预制菜",
-      "onboard_time": 1757685687,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88844,
       "num": 202869,
       "word": "赴山海",
@@ -379,6 +403,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76815,
+      "num": 76815,
+      "word": "西班牙偶遇江疏影",
+      "onboard_time": 1757711534,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74708,
+      "num": 134975,
+      "word": "西贝 3只蒸饺29元",
+      "onboard_time": 1757671104,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74433,
       "num": 202565,
       "word": "王一博这么快就又下班了",
@@ -395,51 +435,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70634,
-      "num": 134975,
-      "word": "西贝 3只蒸饺29元",
-      "onboard_time": 1757671104,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69934,
-      "num": 69698,
-      "word": "罗永浩贴西贝预制菜线索",
-      "onboard_time": 1757704454,
-      "rank": 25,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 67730,
-      "num": 66536,
+      "num": 74539,
       "word": "薛凯琪回应被AI换脸制作不雅视频",
       "onboard_time": 1757699118,
       "rank": 22,
       "category": "艺人"
     },
     {
-      "raw_hot": 65547,
-      "num": 65547,
-      "word": "西班牙偶遇江疏影",
-      "onboard_time": 1757711534,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 54805,
+      "num": 89198,
+      "word": "24期免息买iPhone17真香",
+      "onboard_time": 1757682325,
+      "rank": 43,
+      "category": "数码"
     },
     {
-      "raw_hot": 65519,
-      "num": 89141,
-      "word": "韩民众举讽刺画接316名在美获释人员",
-      "onboard_time": 1757697080,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 63871,
-      "num": 110825,
-      "word": "浙江老板花3000元挽回约800万损失",
-      "onboard_time": 1757688865,
-      "rank": 47,
+      "raw_hot": 44939,
+      "num": 73831,
+      "word": "预加工 预制菜",
+      "onboard_time": 1757717298,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -459,20 +475,36 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 39678,
-      "num": 89198,
-      "word": "24期免息买iPhone17真香",
-      "onboard_time": 1757682325,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 39176,
       "num": 110785,
       "word": "孙颖莎晋级澳门赛八强",
       "onboard_time": 1757697620,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35895,
+      "num": 73291,
+      "word": "王牌对王牌",
+      "onboard_time": 1757700975,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 33750,
+      "num": 73164,
+      "word": "炒茄子的秘诀是玩会儿手机",
+      "onboard_time": 1757705054,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 31621,
+      "num": 73095,
+      "word": "西贝 厨房参观",
+      "onboard_time": 1757719220,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31219,
@@ -483,16 +515,16 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 27632,
-      "num": 58414,
-      "word": "王牌对王牌",
-      "onboard_time": 1757700975,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 26999,
+      "num": 72941,
+      "word": "灼灼韶华",
+      "onboard_time": 1757718859,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 26994,
-      "num": 277238,
+      "num": 319618,
       "word": "服贸会周末逛吃全攻略",
       "onboard_time": 1757695641,
       "rank": 2,
@@ -505,14 +537,6 @@
       "onboard_time": 1757699418,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22832,
-      "num": 33643,
-      "word": "炒茄子的秘诀是玩会儿手机",
-      "onboard_time": 1757705054,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 21435,
