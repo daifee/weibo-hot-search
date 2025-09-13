@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757805669149,
+  "endTime": 1757806604247,
   "band_list": [
     {
       "raw_hot": 1157067,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522573,
+      "num": 122011,
+      "word": "张兰进麻六记后厨直播被曝无健康证",
+      "onboard_time": 1757805198,
+      "rank": 30,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 471944,
       "num": 471944,
       "word": "预制菜之王萨莉亚为啥没人骂",
@@ -99,8 +107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366392,
-      "num": 99915,
+      "raw_hot": 411958,
+      "num": 119205,
       "word": "建议不要再趴桌午睡了",
       "onboard_time": 1757785458,
       "rank": 13,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218561,
+      "num": 114491,
+      "word": "李维嘉再次出来工作是因为谢娜",
+      "onboard_time": 1757803697,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217566,
       "num": 217566,
       "word": "让腿型越来越好看的三个动作",
@@ -195,16 +211,16 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 201626,
-      "num": 56979,
-      "word": "张兰进麻六记后厨直播被曝无健康证",
-      "onboard_time": 1757805198,
-      "rank": 30,
-      "category": "艺人,民生新闻"
+      "raw_hot": 209046,
+      "num": 209046,
+      "word": "中国不下单美国大豆农民真的慌了",
+      "onboard_time": 1757805438,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 201189,
-      "num": 99475,
+      "num": 123224,
       "word": "XG晋级TI前三",
       "onboard_time": 1757805379,
       "rank": 11,
@@ -217,6 +233,14 @@
       "onboard_time": 1757777423,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187318,
+      "num": 81087,
+      "word": "大半个娱乐圈都来成都了",
+      "onboard_time": 1757805198,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 169091,
@@ -251,6 +275,22 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 141439,
+      "num": 81750,
+      "word": "朝方提醒美日韩",
+      "onboard_time": 1757804837,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139825,
+      "num": 139825,
+      "word": "美国多人因庆祝柯克之死被解雇",
+      "onboard_time": 1757804837,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139562,
       "num": 139562,
       "word": "西贝员工称冻品西兰花符合国家标准",
@@ -267,20 +307,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136569,
-      "num": 99315,
-      "word": "李维嘉再次出来工作是因为谢娜",
-      "onboard_time": 1757803697,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133509,
       "num": 133509,
       "word": "陈小春应采儿10年后相依为命callback",
       "onboard_time": 1757777125,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133401,
+      "num": 75458,
+      "word": "罗永浩说西贝的事情告一段落",
+      "onboard_time": 1757806519,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 124320,
@@ -339,14 +379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 104809,
-      "num": 81087,
-      "word": "大半个娱乐圈都来成都了",
-      "onboard_time": 1757805198,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103344,
       "num": 120865,
       "word": "成毅演到第9集换号了",
@@ -395,14 +427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89935,
-      "num": 89935,
-      "word": "中国不下单美国大豆农民真的慌了",
-      "onboard_time": 1757805438,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 87403,
       "num": 120439,
       "word": "李兰迪露背好辣",
@@ -443,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79690,
+      "num": 64332,
+      "word": "老乡鸡创始人点赞衢州小吃",
+      "onboard_time": 1757805798,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 75810,
       "num": 120921,
       "word": "潘玮柏本人微胖但体力很棒",
@@ -457,6 +489,22 @@
       "onboard_time": 1757769564,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 60038,
+      "num": 60038,
+      "word": "女儿上学时和放学时的发型",
+      "onboard_time": 1757803215,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 59417,
+      "num": 59417,
+      "word": "谈恋爱其实很累的",
+      "onboard_time": 1757805679,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 59060,
@@ -483,8 +531,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55177,
-      "num": 55177,
+      "raw_hot": 55676,
+      "num": 55676,
       "word": "DOTA2",
       "onboard_time": 1757805258,
       "rank": 32,
@@ -497,14 +545,6 @@
       "onboard_time": 1757779944,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 50329,
-      "num": 54543,
-      "word": "女儿上学时和放学时的发型",
-      "onboard_time": 1757803215,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 49679,
@@ -523,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42691,
+      "num": 42691,
+      "word": "普通人对Agent的使用率几乎为0",
+      "onboard_time": 1757806221,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 42578,
       "num": 87396,
       "word": "孙颖莎跟队友挥手鼓掌",
@@ -539,6 +587,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41437,
+      "num": 41437,
+      "word": "孙颖莎自带小皇冠",
+      "onboard_time": 1757806579,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40440,
+      "num": 54471,
+      "word": "西贝门店厨师长回应",
+      "onboard_time": 1757804417,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40337,
       "num": 857438,
       "word": "国宝画重点",
@@ -547,20 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38554,
-      "num": 99938,
-      "word": "美国多人因庆祝柯克之死被解雇",
-      "onboard_time": 1757804837,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38313,
-      "num": 54471,
-      "word": "西贝门店厨师长回应",
-      "onboard_time": 1757804417,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 40321,
+      "num": 40321,
+      "word": "奥地利外长怂恿中国劝俄罗斯和谈",
+      "onboard_time": 1757806579,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30680,
@@ -577,14 +633,6 @@
       "onboard_time": 1757774065,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29820,
-      "num": 81750,
-      "word": "朝方提醒美日韩",
-      "onboard_time": 1757804837,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27640,
@@ -633,6 +681,14 @@
       "onboard_time": 1757790795,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20718,
+      "num": 83378,
+      "word": "俄罗斯一铁路爆炸已致2死1伤",
+      "onboard_time": 1757806279,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19643,
