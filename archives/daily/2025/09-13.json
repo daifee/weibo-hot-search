@@ -1,10 +1,18 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757734053661,
+  "endTime": 1757734819252,
   "band_list": [
     {
+      "raw_hot": 2057269,
+      "num": 2057269,
+      "word": "教资作文",
+      "onboard_time": 1757733805,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1603957,
-      "num": 345260,
+      "num": 363429,
       "word": "杨幂回复了祝绪丹",
       "onboard_time": 1757724262,
       "rank": 10,
@@ -20,19 +28,19 @@
     },
     {
       "raw_hot": 1574969,
-      "num": 233101,
+      "num": 243890,
       "word": "关晓彤半夜喝酒发朋友圈",
       "onboard_time": 1757682627,
       "rank": 20,
       "category": "综艺"
     },
     {
-      "raw_hot": 1230638,
-      "num": 1230638,
-      "word": "教资作文",
-      "onboard_time": 1757733805,
-      "rank": 1,
-      "category": "教育"
+      "raw_hot": 1198352,
+      "num": 1198352,
+      "word": "老乡鸡微博置顶回应了预制菜",
+      "onboard_time": 1757730924,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1092422,
@@ -49,14 +57,6 @@
       "onboard_time": 1757724440,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1039105,
-      "num": 1094074,
-      "word": "老乡鸡微博置顶回应了预制菜",
-      "onboard_time": 1757730924,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 798897,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 683939,
-      "num": 344585,
+      "num": 357995,
       "word": "男子胃癌去世把房子留给非亲生女儿",
       "onboard_time": 1757726542,
       "rank": 28,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558705,
+      "num": 359353,
+      "word": "王灿拉黑杜淳30多次",
+      "onboard_time": 1757732904,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549823,
       "num": 478803,
       "word": "罗永浩吐槽西贝一个馒头卖21元",
@@ -163,20 +171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482007,
+      "num": 482007,
+      "word": "李昀锐 早知道不接电话了",
+      "onboard_time": 1757731764,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 416216,
+      "num": 243313,
+      "word": "西贝冷冻蔬菜被误会了",
+      "onboard_time": 1757733682,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405157,
       "num": 405157,
       "word": "宋雨琦王安宇互晒合照",
       "onboard_time": 1757686825,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 391382,
-      "num": 391382,
-      "word": "李昀锐 早知道不接电话了",
-      "onboard_time": 1757731764,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 374835,
@@ -187,6 +203,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374796,
+      "num": 350383,
+      "word": "建议不要有嘴甜羞耻症",
+      "onboard_time": 1757729482,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 374106,
+      "num": 374106,
+      "word": "教资科一",
+      "onboard_time": 1757734103,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 372908,
+      "num": 372908,
+      "word": "法考",
+      "onboard_time": 1757720119,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 350429,
       "num": 475840,
       "word": "贾国龙称罗永浩就是要干西贝",
@@ -195,12 +235,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 341064,
-      "num": 341064,
-      "word": "建议不要有嘴甜羞耻症",
-      "onboard_time": 1757729482,
-      "rank": 13,
-      "category": "情感"
+      "raw_hot": 350005,
+      "num": 350005,
+      "word": "教资作文 梦到哪句写哪句",
+      "onboard_time": 1757733923,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 334964,
@@ -243,11 +283,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285050,
-      "num": 285050,
-      "word": "王灿拉黑杜淳30多次",
-      "onboard_time": 1757732904,
-      "rank": 13,
+      "raw_hot": 279124,
+      "num": 279124,
+      "word": "范丞丞说我是俊凯",
+      "onboard_time": 1757731104,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -257,14 +297,6 @@
       "onboard_time": 1757676984,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270275,
-      "num": 231035,
-      "word": "西贝冷冻蔬菜被误会了",
-      "onboard_time": 1757733682,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 269447,
@@ -315,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 253892,
-      "num": 264868,
-      "word": "范丞丞说我是俊凯",
-      "onboard_time": 1757731104,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252591,
       "num": 188843,
       "word": "建议年轻人不要长期当服务员",
@@ -345,6 +369,14 @@
       "onboard_time": 1757691685,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245177,
+      "num": 245177,
+      "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
+      "onboard_time": 1757733023,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 241127,
@@ -371,14 +403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 234801,
-      "num": 234801,
-      "word": "教资作文 梦到哪句写哪句",
-      "onboard_time": 1757733923,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 232997,
       "num": 232997,
       "word": "13岁奥莉近照",
@@ -387,12 +411,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 232320,
-      "num": 232320,
-      "word": "法考",
-      "onboard_time": 1757720119,
-      "rank": 19,
-      "category": "教育"
+      "raw_hot": 232890,
+      "num": 245169,
+      "word": "九三阅兵式上唯一一面空军战旗",
+      "onboard_time": 1757733204,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232248,
@@ -419,12 +443,36 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 225331,
+      "num": 244667,
+      "word": "唐国强的五官辨识度连AI都动不了",
+      "onboard_time": 1757733324,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219932,
+      "num": 219932,
+      "word": "教资科一答案",
+      "onboard_time": 1757734524,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217776,
       "num": 282295,
       "word": "赴山海8旬老太跑的真快",
       "onboard_time": 1757726062,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217730,
+      "num": 217730,
+      "word": "罗永浩谈行业人一边倒声援西贝",
+      "onboard_time": 1757734404,
+      "rank": 34,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 217211,
@@ -483,14 +531,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 189378,
-      "num": 234248,
-      "word": "唐国强的五官辨识度连AI都动不了",
-      "onboard_time": 1757733324,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188653,
       "num": 188653,
       "word": "罗永浩回应西贝品牌负责人",
@@ -507,24 +547,16 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 183206,
-      "num": 183206,
-      "word": "九三阅兵式上唯一一面空军战旗",
-      "onboard_time": 1757733204,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 174849,
-      "num": 233684,
-      "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
-      "onboard_time": 1757733023,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 178618,
+      "num": 178618,
+      "word": "央视起底新能源汽车黑公关",
+      "onboard_time": 1757734224,
+      "rank": 36,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 174005,
-      "num": 230042,
+      "num": 242507,
       "word": "桑延对不起我的丁sir来了",
       "onboard_time": 1757733383,
       "rank": 27,
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171041,
+      "num": 171041,
+      "word": "警方通报女子被陌生男子摸头辱骂",
+      "onboard_time": 1757734165,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 170499,
       "num": 129451,
       "word": "美国女孩怀念16年前在中国买咖啡",
@@ -548,11 +588,19 @@
     },
     {
       "raw_hot": 162273,
-      "num": 345626,
+      "num": 353591,
       "word": "鸣枪12响致敬志愿军烈士",
       "onboard_time": 1757732243,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155546,
+      "num": 241921,
+      "word": "向佐闷声办大事",
+      "onboard_time": 1757733142,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 155327,
@@ -563,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154134,
+      "num": 241499,
+      "word": "李沁被孜然腌入味了",
+      "onboard_time": 1757734343,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149953,
       "num": 149953,
       "word": "浙江老板花3000元挽回约800万损失",
       "onboard_time": 1757688865,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149236,
+      "num": 149236,
+      "word": "一个美国家庭的恶魔女儿",
+      "onboard_time": 1757734762,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 145676,
@@ -619,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133696,
+      "num": 133696,
+      "word": "猫 一定要聊原生家庭的潮湿吗",
+      "onboard_time": 1757734524,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132525,
       "num": 102284,
       "word": "罗永浩问西贝还有救吗",
@@ -667,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128152,
-      "num": 128152,
-      "word": "向佐闷声办大事",
-      "onboard_time": 1757733142,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 125706,
       "num": 185583,
       "word": "藏海传肖战原声台词",
@@ -689,6 +753,14 @@
       "onboard_time": 1757729124,
       "rank": 33,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 122046,
+      "num": 122046,
+      "word": "陈赫不基础造型更不基础",
+      "onboard_time": 1757734643,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 121081,
@@ -816,6 +888,14 @@
       "word": "月嫂喂奶致刚出生2天男婴窒息",
       "onboard_time": 1757671823,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97967,
+      "num": 241151,
+      "word": "江宁婆婆谈西贝公关",
+      "onboard_time": 1757733383,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1067,12 +1147,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 53087,
-      "num": 228346,
-      "word": "江宁婆婆谈西贝公关",
-      "onboard_time": 1757733383,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 55864,
+      "num": 168355,
+      "word": "3桶羽毛球赶上1克黄金",
+      "onboard_time": 1757734043,
+      "rank": 37,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 50556,
@@ -1123,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42162,
-      "num": 168355,
-      "word": "3桶羽毛球赶上1克黄金",
-      "onboard_time": 1757734043,
-      "rank": 37,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 39176,
       "num": 110785,
       "word": "孙颖莎晋级澳门赛八强",
@@ -1164,7 +1236,7 @@
     },
     {
       "raw_hot": 28399,
-      "num": 1108829,
+      "num": 1285107,
       "word": "万千气象看浙里",
       "onboard_time": 1757685388,
       "rank": 2,
