@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 11:02:58
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 11:27:33
 </p>
 </blockquote>
 <p>
@@ -873,6 +873,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%23" target="weibo">
+教资（热度：1589653）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%AB%98%E5%AD%A6%E5%8E%86%E5%B0%8F%E8%8A%B1%E6%98%AF%E6%9C%A8%E5%A4%B4%E7%BE%8E%E4%BA%BA%23" target="weibo">
 曝高学历小花是木头美人（热度：1563625）
 </a>
@@ -1251,6 +1257,12 @@ NASA明确发现火星生命迹象（热度：1280374）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87%23" target="weibo">
+教资作文（热度：1230638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E9%87%91%E4%B9%9D%E5%8D%95%E4%BA%BA%E5%B0%81%E9%9D%A2%23" target="weibo">
 VOGUE金九单人封面（热度：1230035）
 </a>
@@ -1583,6 +1595,12 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Metal%20%E7%94%B0%E6%A0%A9%E5%AE%81%23" target="weibo">
 Metal 田栩宁（热度：1041749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%E5%BE%AE%E5%8D%9A%E7%BD%AE%E9%A1%B6%E5%9B%9E%E5%BA%94%E4%BA%86%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
+老乡鸡微博置顶回应了预制菜（热度：1039105）
 </a>
 </li>
 
@@ -3461,12 +3479,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E4%BA%BA%E9%97%B4%E7%9A%84%E6%9A%A7%E6%98%A7%E4%BF%A1%E6%81%AF%23" target="weibo">
 成人间的暧昧信息（热度：588196）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%E5%BE%AE%E5%8D%9A%E7%BD%AE%E9%A1%B6%E5%9B%9E%E5%BA%94%E4%BA%86%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
-老乡鸡微博置顶回应了预制菜（热度：587964）
 </a>
 </li>
 
@@ -5571,6 +5583,12 @@ iPhone17或有隐藏款（热度：395178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E6%97%A9%E7%9F%A5%E9%81%93%E4%B8%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E4%BA%86%23" target="weibo">
+李昀锐 早知道不接电话了（热度：391382）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%88%96%E7%99%BBVOGUE%E9%93%B6%E5%8D%81%23" target="weibo">
 杨紫或登VOGUE银十（热度：390983）
 </a>
@@ -5993,24 +6011,6 @@ iPhone为什么只有P是大写（热度：389380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%AF%B4%E8%B0%A2%E5%A8%9C%E5%A6%88%E5%A6%88%E5%83%8F%E8%B5%B5%E9%9B%85%E8%8A%9D%23" target="weibo">
 张杰说谢娜妈妈像赵雅芝（热度：369911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%8A%A2%E7%A5%A8%23" target="weibo">
-周杰伦上海抢票（热度：369793）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23117%E5%90%8D%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%80%A7%E9%A6%96%E6%AC%A1%E7%9B%B4%E6%8E%A5%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%86%9B%23" target="weibo">
-117名韩国女性首次直接起诉美军（热度：369537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E7%97%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%23" target="weibo">
-首尔病是什么梗（热度：369531）
 </a>
 </li>
 

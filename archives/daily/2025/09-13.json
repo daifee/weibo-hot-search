@@ -1,22 +1,38 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757732578103,
+  "endTime": 1757734053661,
   "band_list": [
     {
       "raw_hot": 1603957,
-      "num": 272271,
+      "num": 345260,
       "word": "杨幂回复了祝绪丹",
       "onboard_time": 1757724262,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1589653,
+      "num": 1589653,
+      "word": "教资",
+      "onboard_time": 1757721621,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1574969,
-      "num": 203920,
+      "num": 233101,
       "word": "关晓彤半夜喝酒发朋友圈",
       "onboard_time": 1757682627,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1230638,
+      "num": 1230638,
+      "word": "教资作文",
+      "onboard_time": 1757733805,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1092422,
@@ -33,6 +49,14 @@
       "onboard_time": 1757724440,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1039105,
+      "num": 1094074,
+      "word": "老乡鸡微博置顶回应了预制菜",
+      "onboard_time": 1757730924,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 798897,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 683939,
-      "num": 263665,
+      "num": 344585,
       "word": "男子胃癌去世把房子留给非亲生女儿",
       "onboard_time": 1757726542,
       "rank": 28,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 667668,
-      "num": 216222,
+      "num": 264567,
       "word": "杨幂回复吴宣仪",
       "onboard_time": 1757724982,
       "rank": 15,
@@ -105,14 +129,6 @@
       "onboard_time": 1757693185,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 587964,
-      "num": 1094074,
-      "word": "老乡鸡微博置顶回应了预制菜",
-      "onboard_time": 1757730924,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 586530,
@@ -155,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 391382,
+      "num": 391382,
+      "word": "李昀锐 早知道不接电话了",
+      "onboard_time": 1757731764,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374835,
       "num": 374835,
       "word": "欧阳娜娜镜头一移出现刘昊然",
@@ -169,6 +193,14 @@
       "onboard_time": 1757689526,
       "rank": 5,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 341064,
+      "num": 341064,
+      "word": "建议不要有嘴甜羞耻症",
+      "onboard_time": 1757729482,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 334964,
@@ -211,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281182,
-      "num": 254845,
-      "word": "建议不要有嘴甜羞耻症",
-      "onboard_time": 1757729482,
+      "raw_hot": 285050,
+      "num": 285050,
+      "word": "王灿拉黑杜淳30多次",
+      "onboard_time": 1757732904,
       "rank": 13,
-      "category": "情感"
+      "category": "综艺"
     },
     {
       "raw_hot": 271912,
@@ -225,6 +257,14 @@
       "onboard_time": 1757676984,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270275,
+      "num": 231035,
+      "word": "西贝冷冻蔬菜被误会了",
+      "onboard_time": 1757733682,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269447,
@@ -241,6 +281,14 @@
       "onboard_time": 1757683949,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269071,
+      "num": 269071,
+      "word": "教资 紧张",
+      "onboard_time": 1757689947,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 267516,
@@ -265,6 +313,14 @@
       "onboard_time": 1757691625,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 253892,
+      "num": 264868,
+      "word": "范丞丞说我是俊凯",
+      "onboard_time": 1757731104,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 252591,
@@ -315,6 +371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 234801,
+      "num": 234801,
+      "word": "教资作文 梦到哪句写哪句",
+      "onboard_time": 1757733923,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 232997,
       "num": 232997,
       "word": "13岁奥莉近照",
@@ -323,12 +387,36 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 232320,
+      "num": 232320,
+      "word": "法考",
+      "onboard_time": 1757720119,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 232248,
       "num": 232248,
       "word": "iPhone17全系已排至10月",
       "onboard_time": 1757719638,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 228928,
+      "num": 232778,
+      "word": "法德英发表联合声明",
+      "onboard_time": 1757732544,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 227930,
+      "num": 227930,
+      "word": "罗永浩说西贝羊肉黄鱼冻了几个月",
+      "onboard_time": 1757729663,
+      "rank": 27,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 217776,
@@ -345,14 +433,6 @@
       "onboard_time": 1757727621,
       "rank": 32,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 217208,
-      "num": 264868,
-      "word": "范丞丞说我是俊凯",
-      "onboard_time": 1757731104,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 214512,
@@ -403,12 +483,12 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 189208,
-      "num": 189208,
-      "word": "罗永浩说西贝羊肉黄鱼冻了几个月",
-      "onboard_time": 1757729663,
-      "rank": 27,
-      "category": "民生新闻,互联网"
+      "raw_hot": 189378,
+      "num": 234248,
+      "word": "唐国强的五官辨识度连AI都动不了",
+      "onboard_time": 1757733324,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 188653,
@@ -419,24 +499,40 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 183465,
-      "num": 183465,
+      "raw_hot": 185019,
+      "num": 185019,
       "word": "西贝创始人找罗永浩没吃好的原因",
       "onboard_time": 1757729722,
       "rank": 26,
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 177484,
-      "num": 215115,
-      "word": "李昀锐 早知道不接电话了",
-      "onboard_time": 1757731764,
-      "rank": 41,
+      "raw_hot": 183206,
+      "num": 183206,
+      "word": "九三阅兵式上唯一一面空军战旗",
+      "onboard_time": 1757733204,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 174849,
+      "num": 233684,
+      "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
+      "onboard_time": 1757733023,
+      "rank": 19,
       "category": "综艺"
     },
     {
+      "raw_hot": 174005,
+      "num": 230042,
+      "word": "桑延对不起我的丁sir来了",
+      "onboard_time": 1757733383,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172796,
-      "num": 208918,
+      "num": 229615,
       "word": "王俊凯出发丽江路透",
       "onboard_time": 1757730143,
       "rank": 14,
@@ -452,19 +548,11 @@
     },
     {
       "raw_hot": 162273,
-      "num": 162273,
+      "num": 345626,
       "word": "鸣枪12响致敬志愿军烈士",
       "onboard_time": 1757732243,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 161854,
-      "num": 161854,
-      "word": "法德英发表联合声明",
-      "onboard_time": 1757732544,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155327,
@@ -547,14 +635,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 129755,
-      "num": 203626,
-      "word": "教资 紧张",
-      "onboard_time": 1757689947,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 129599,
       "num": 129599,
       "word": "狼队小胖电竞圈英语FMVP",
@@ -571,12 +651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128625,
-      "num": 128625,
-      "word": "教资",
-      "onboard_time": 1757721621,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 128944,
+      "num": 170553,
+      "word": "王影璐第一杯敬自己",
+      "onboard_time": 1757733083,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 128584,
@@ -584,6 +664,22 @@
       "word": "第一次见为了上班这么努力的",
       "onboard_time": 1757731404,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128152,
+      "num": 128152,
+      "word": "向佐闷声办大事",
+      "onboard_time": 1757733142,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 125706,
+      "num": 185583,
+      "word": "藏海传肖战原声台词",
+      "onboard_time": 1757732722,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -635,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114488,
+      "num": 114488,
+      "word": "为什么毕业后不发朋友圈了",
+      "onboard_time": 1757733562,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113933,
       "num": 113933,
       "word": "邱党称尊重隐私与公平不可妥协",
@@ -657,6 +761,14 @@
       "onboard_time": 1757697740,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111071,
+      "num": 147812,
+      "word": "林一我不许你再演傻子了",
+      "onboard_time": 1757732843,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 109760,
@@ -705,14 +817,6 @@
       "onboard_time": 1757671823,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100101,
-      "num": 100101,
-      "word": "法考",
-      "onboard_time": 1757720119,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 95898,
@@ -947,12 +1051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59608,
+      "num": 167646,
+      "word": "停车4小时收300女子惊到破音",
+      "onboard_time": 1757733142,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58758,
       "num": 89198,
       "word": "24期免息买iPhone17真香",
       "onboard_time": 1757682325,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53087,
+      "num": 228346,
+      "word": "江宁婆婆谈西贝公关",
+      "onboard_time": 1757733383,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50556,
@@ -1003,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42162,
+      "num": 168355,
+      "word": "3桶羽毛球赶上1克黄金",
+      "onboard_time": 1757734043,
+      "rank": 37,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 39176,
       "num": 110785,
       "word": "孙颖莎晋级澳门赛八强",
@@ -1036,7 +1164,7 @@
     },
     {
       "raw_hot": 28399,
-      "num": 608476,
+      "num": 1108829,
       "word": "万千气象看浙里",
       "onboard_time": 1757685388,
       "rank": 2,
