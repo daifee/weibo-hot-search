@@ -1,0 +1,410 @@
+{
+  "runTime": 1757740932504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 857233,
+        "num": 1137157,
+        "word": "老乡鸡微博置顶回应了预制菜",
+        "onboard_time": 1757730924,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 763942,
+        "num": 763942,
+        "word": "转账付款竟然是可以拦截的",
+        "onboard_time": 1757736922,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23326,
+        "num": 727231,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757735963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1205604,
+        "num": 724937,
+        "word": "迅猛龙复旦入学考试成绩",
+        "onboard_time": 1757736023,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 720197,
+        "num": 720197,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416816,
+        "num": 416816,
+        "word": "警方通报女子被陌生男子摸头辱骂",
+        "onboard_time": 1757734165,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 461234,
+        "num": 409075,
+        "word": "鲍蕾说陆毅太瘦会被他帅哭",
+        "onboard_time": 1757737704,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370520,
+        "num": 370520,
+        "word": "教资作文",
+        "onboard_time": 1757733805,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359432,
+        "num": 359432,
+        "word": "法考",
+        "onboard_time": 1757720119,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303560,
+        "num": 303560,
+        "word": "九三阅兵式上唯一一面空军战旗",
+        "onboard_time": 1757733204,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166294,
+        "num": 268237,
+        "word": "无锡蛋糕店老板称胜诉1年未获道歉",
+        "onboard_time": 1757737164,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684413,
+        "num": 261455,
+        "word": "99年从月薪5千到5.5万的真实感受",
+        "onboard_time": 1757734944,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468305,
+        "num": 260252,
+        "word": "杨幂回复了祝绪丹",
+        "onboard_time": 1757724262,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254022,
+        "num": 254022,
+        "word": "成毅赴山海今晚二创井喷了",
+        "onboard_time": 1757735123,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243246,
+        "num": 243246,
+        "word": "李昀锐 早知道不接电话了",
+        "onboard_time": 1757731764,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235843,
+        "num": 235843,
+        "word": "王灿拉黑杜淳30多次",
+        "onboard_time": 1757732904,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226028,
+        "num": 226028,
+        "word": "翟佳宁喜单2总冠军",
+        "onboard_time": 1757739623,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213252,
+        "num": 213252,
+        "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
+        "onboard_time": 1757733023,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195770,
+        "num": 212252,
+        "word": "猫咪九宫格朋友圈教程",
+        "onboard_time": 1757740404,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79525,
+        "num": 210084,
+        "word": "柯克案嫌犯曾获四年总统奖学金",
+        "onboard_time": 1757739745,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 787251,
+        "num": 208587,
+        "word": "西贝冷冻蔬菜被误会了",
+        "onboard_time": 1757733682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491336,
+        "num": 206014,
+        "word": "关晓彤半夜喝酒发朋友圈",
+        "onboard_time": 1757682627,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205170,
+        "num": 205170,
+        "word": "罗永浩谈行业人一边倒声援西贝",
+        "onboard_time": 1757734404,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 201065,
+        "num": 201065,
+        "word": "西贝厨师称速冻油炸茄子是外卖款",
+        "onboard_time": 1757725882,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192179,
+        "num": 192179,
+        "word": "多名网友看到不明飞行物被击落",
+        "onboard_time": 1757740404,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182354,
+        "num": 182354,
+        "word": "陈幸同vs韩莹",
+        "onboard_time": 1757740044,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180112,
+        "num": 180112,
+        "word": "杨幂回复吴宣仪",
+        "onboard_time": 1757724982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171667,
+        "num": 171667,
+        "word": "第五人格",
+        "onboard_time": 1757738665,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169751,
+        "num": 169751,
+        "word": "孟子义 喜单好多冠军都坐在观众席",
+        "onboard_time": 1757740642,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166600,
+        "num": 166600,
+        "word": "央视起底新能源汽车黑公关",
+        "onboard_time": 1757734224,
+        "rank": 29,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 32371,
+        "num": 164640,
+        "word": "宝马CEO齐普策谈新世代新在哪里",
+        "onboard_time": 1757736624,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164442,
+        "num": 164442,
+        "word": "董璇理解了为什么办婚礼能分手",
+        "onboard_time": 1757740763,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160277,
+        "num": 160277,
+        "word": "迪丽热巴迪奥大使合影站C",
+        "onboard_time": 1757724320,
+        "rank": 32,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 152028,
+        "num": 152028,
+        "word": "罗永浩回应西贝品牌负责人",
+        "onboard_time": 1757732302,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 149260,
+        "num": 149260,
+        "word": "专家称预制菜不是低品质的代名词",
+        "onboard_time": 1757735243,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148179,
+        "num": 148179,
+        "word": "突然发现周末变长了",
+        "onboard_time": 1757736383,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138725,
+        "num": 138725,
+        "word": "石家庄多地突发巨响",
+        "onboard_time": 1757739504,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47900,
+        "num": 138627,
+        "word": "车手魏建军为爱上场",
+        "onboard_time": 1757737045,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138570,
+        "num": 138570,
+        "word": "曾一鸣说李佳薇火不了",
+        "onboard_time": 1757734343,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12889,
+        "num": 137932,
+        "word": "厨房里的松弛感",
+        "onboard_time": 1757739685,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137588,
+        "num": 137588,
+        "word": "花儿与少年",
+        "onboard_time": 1757738846,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132413,
+        "num": 132413,
+        "word": "邱党谴责与王皓对话被录音",
+        "onboard_time": 1757728700,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128505,
+        "num": 128505,
+        "word": "李宇春二十年来开场最早的一次演唱会",
+        "onboard_time": 1757740285,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128212,
+        "num": 128212,
+        "word": "娜扎底子不基础打戏就不基础",
+        "onboard_time": 1757739864,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126015,
+        "num": 126015,
+        "word": "杨紫 风里有秋天的味道啦",
+        "onboard_time": 1757740763,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "卡塔尔感谢中国正义发声",
+        "onboard_time": 1757724440,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120340,
+        "num": 120340,
+        "word": "江宁婆婆谈西贝公关",
+        "onboard_time": 1757733383,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119402,
+        "num": 119402,
+        "word": "猫 一定要聊原生家庭的潮湿吗",
+        "onboard_time": 1757734524,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106877,
+        "num": 106877,
+        "word": "教资",
+        "onboard_time": 1757721621,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106694,
+        "num": 106694,
+        "word": "花儿与少年埃及转场",
+        "onboard_time": 1757736443,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
