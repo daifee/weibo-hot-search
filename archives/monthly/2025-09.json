@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757745875177,
+  "endTime": 1757748057979,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2939,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 844809,
+      "num": 304297,
+      "word": "张维伊冲董璇喊",
+      "onboard_time": 1757744005,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 844163,
       "num": 294623,
       "word": "点读笔诱导儿童网恋",
@@ -3643,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 724468,
+      "num": 1115915,
+      "word": "泡泡玛特新品发售仅10人排队",
+      "onboard_time": 1757744363,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 723635,
       "num": 1291869,
       "word": "1945到2025",
@@ -3697,14 +3713,6 @@
       "onboard_time": 1756816462,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 716238,
-      "num": 247541,
-      "word": "张维伊冲董璇喊",
-      "onboard_time": 1757744005,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 715979,
@@ -7300,7 +7308,7 @@
     },
     {
       "raw_hot": 404485,
-      "num": 265387,
+      "num": 382109,
       "word": "谢娜为女儿剪掉长发",
       "onboard_time": 1757741605,
       "rank": 31,
@@ -7947,6 +7955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377114,
+      "num": 377114,
+      "word": "教资科二",
+      "onboard_time": 1757746403,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 377105,
       "num": 377105,
       "word": "史上最薄iPhone",
@@ -8057,14 +8073,6 @@
       "onboard_time": 1757734103,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 373828,
-      "num": 261600,
-      "word": "泡泡玛特新品发售仅10人排队",
-      "onboard_time": 1757744363,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 373617,
@@ -9947,6 +9955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 296533,
+      "num": 296533,
+      "word": "敖瑞鹏直播",
+      "onboard_time": 1757745503,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296386,
       "num": 391532,
       "word": "张晚意美美桑内一个劲的叭叭",
@@ -10753,6 +10769,14 @@
       "onboard_time": 1757570024,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271435,
+      "num": 271435,
+      "word": "微信转账和发红包的区别",
+      "onboard_time": 1757745444,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 271338,
@@ -13915,6 +13939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201587,
+      "num": 201587,
+      "word": "馒头减肥法",
+      "onboard_time": 1757745565,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201429,
       "num": 201429,
       "word": "九三阅兵纪念短片",
@@ -16859,14 +16891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174437,
-      "num": 174437,
-      "word": "敖瑞鹏直播",
-      "onboard_time": 1757745503,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174392,
       "num": 221485,
       "word": "巴基斯坦最新空军宣传片",
@@ -19017,6 +19041,14 @@
       "onboard_time": 1757338524,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158926,
+      "num": 158926,
+      "word": "梁伟铿王昶2比0李芳至李芳任",
+      "onboard_time": 1757747424,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 158914,
@@ -22915,6 +22947,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 136267,
+      "num": 136267,
+      "word": "王楚钦4比0胜林昀儒",
+      "onboard_time": 1757746103,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136227,
       "num": 163411,
       "word": "陈小春杨千嬅手拉手唱野孩子",
@@ -23683,6 +23723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132275,
+      "num": 132275,
+      "word": "教资科二答案",
+      "onboard_time": 1757747784,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132253,
       "num": 132253,
       "word": "长夜行",
@@ -23960,6 +24008,14 @@
       "word": "又跟着王源上电视了",
       "onboard_time": 1756730361,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 130592,
+      "num": 144255,
+      "word": "汪苏泷演唱会cue你好星期六",
+      "onboard_time": 1757746643,
+      "rank": 26,
       "category": "演出"
     },
     {
@@ -24771,6 +24827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127305,
+      "num": 272666,
+      "word": "央视曝光直播卖文物猫腻",
+      "onboard_time": 1757744963,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127273,
       "num": 390045,
       "word": "西贝称目前不用预制菜",
@@ -24921,6 +24985,14 @@
       "onboard_time": 1757412081,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 125964,
+      "num": 125964,
+      "word": "iPhone发朋友圈的高级玩法",
+      "onboard_time": 1757744185,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 125956,
@@ -25257,14 +25329,6 @@
       "onboard_time": 1757318543,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124819,
-      "num": 124819,
-      "word": "iPhone发朋友圈的高级玩法",
-      "onboard_time": 1757744185,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 124777,
@@ -28875,6 +28939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108563,
+      "num": 137779,
+      "word": "陈乔恩说自己瘦了一圈",
+      "onboard_time": 1757744784,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108558,
       "num": 108558,
       "word": "这不就是当年上课转笔那批人",
@@ -29801,6 +29873,14 @@
       "onboard_time": 1757518284,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104547,
+      "num": 104547,
+      "word": "湖南师大被曝霉菌宿舍后连夜装修",
+      "onboard_time": 1757742623,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104447,
@@ -31267,12 +31347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97242,
+      "num": 97242,
+      "word": "殉职海警家属质疑为何只有一人营救",
+      "onboard_time": 1757745684,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97229,
       "num": 97229,
       "word": "国乒男单4人在上半区",
       "onboard_time": 1757236161,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97217,
+      "num": 100217,
+      "word": "女子立遗嘱防失踪丈夫归来争产",
+      "onboard_time": 1757745804,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97204,
@@ -31579,6 +31675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95980,
+      "num": 95980,
+      "word": "左奇函 Classbegin",
+      "onboard_time": 1757747784,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95948,
       "num": 95948,
       "word": "TES好强",
@@ -31771,14 +31875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 94942,
-      "num": 94942,
-      "word": "殉职海警家属质疑为何只有一人营救",
-      "onboard_time": 1757745684,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 94892,
       "num": 379326,
       "word": "美众议院为柯克默哀被多次打断",
@@ -31849,6 +31945,14 @@
       "onboard_time": 1756966343,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94539,
+      "num": 94539,
+      "word": "跟任何人相处都大大方方的秘诀",
+      "onboard_time": 1757747724,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 94525,
@@ -32768,14 +32872,6 @@
       "word": "从没吃过生日蛋糕的男孩去上大学了",
       "onboard_time": 1757302883,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88032,
-      "num": 272666,
-      "word": "央视曝光直播卖文物猫腻",
-      "onboard_time": 1757744963,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -33851,6 +33947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81919,
+      "num": 156103,
+      "word": "纽约时装周",
+      "onboard_time": 1757609182,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 81889,
       "num": 94518,
       "word": "装备方队有最新装备和国之重器",
@@ -33881,6 +33985,14 @@
       "onboard_time": 1757498901,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81494,
+      "num": 81494,
+      "word": "教资和教编的区别",
+      "onboard_time": 1757745925,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 81464,
@@ -34041,6 +34153,14 @@
       "onboard_time": 1756992083,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80574,
+      "num": 80574,
+      "word": "宋亚轩不带这么离谱的",
+      "onboard_time": 1757746764,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 80547,
@@ -36307,14 +36427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59087,
-      "num": 118776,
-      "word": "陈乔恩说自己瘦了一圈",
-      "onboard_time": 1757744784,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59027,
       "num": 87466,
       "word": "意大利女排34连胜",
@@ -36513,14 +36625,6 @@
       "onboard_time": 1756639460,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56686,
-      "num": 100217,
-      "word": "女子立遗嘱防失踪丈夫归来争产",
-      "onboard_time": 1757745804,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56569,
@@ -37009,6 +37113,14 @@
       "onboard_time": 1757649685,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52145,
+      "num": 154218,
+      "word": "韩国警方限制明洞反华集会",
+      "onboard_time": 1757747604,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52089,
@@ -39777,14 +39889,6 @@
       "onboard_time": 1756990044,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18207,
-      "num": 156103,
-      "word": "纽约时装周",
-      "onboard_time": 1757609182,
-      "rank": 46,
-      "category": "时尚"
     },
     {
       "raw_hot": 17938,

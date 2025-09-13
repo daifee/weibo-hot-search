@@ -1,0 +1,410 @@
+{
+  "runTime": 1757748057979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 724468,
+        "num": 1115915,
+        "word": "泡泡玛特新品发售仅10人排队",
+        "onboard_time": 1757744363,
+        "rank": 0,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 382109,
+        "num": 382109,
+        "word": "谢娜为女儿剪掉长发",
+        "onboard_time": 1757741605,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30936,
+        "num": 379565,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757735963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377114,
+        "num": 377114,
+        "word": "教资科二",
+        "onboard_time": 1757746403,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 367148,
+        "num": 367148,
+        "word": "美国人成批逃离本国",
+        "onboard_time": 1757741004,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 319137,
+        "num": 319137,
+        "word": "转账付款竟然是可以拦截的",
+        "onboard_time": 1757736922,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1032903,
+        "num": 319018,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588034,
+        "num": 318678,
+        "word": "徐艺洋自曝婚礼将不请伴郎伴娘",
+        "onboard_time": 1757742204,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317465,
+        "num": 317465,
+        "word": "老乡鸡微博置顶回应了预制菜",
+        "onboard_time": 1757730924,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308186,
+        "num": 308186,
+        "word": "迅猛龙复旦入学考试成绩",
+        "onboard_time": 1757736023,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 844809,
+        "num": 304297,
+        "word": "张维伊冲董璇喊",
+        "onboard_time": 1757744005,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296533,
+        "num": 296533,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1757745503,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271435,
+        "num": 271435,
+        "word": "微信转账和发红包的区别",
+        "onboard_time": 1757745444,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262232,
+        "num": 262232,
+        "word": "杨幂回复了祝绪丹",
+        "onboard_time": 1757724262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201587,
+        "num": 201587,
+        "word": "馒头减肥法",
+        "onboard_time": 1757745565,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289433,
+        "num": 201256,
+        "word": "董璇理解了为什么办婚礼能分手",
+        "onboard_time": 1757740763,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196380,
+        "num": 196380,
+        "word": "99年从月薪5千到5.5万的真实感受",
+        "onboard_time": 1757734944,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170530,
+        "num": 170530,
+        "word": "金价",
+        "onboard_time": 1757745863,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158926,
+        "num": 158926,
+        "word": "梁伟铿王昶2比0李芳至李芳任",
+        "onboard_time": 1757747424,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52145,
+        "num": 154218,
+        "word": "韩国警方限制明洞反华集会",
+        "onboard_time": 1757747604,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1039609,
+        "num": 153793,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 345155,
+        "num": 153672,
+        "word": "西贝回应称21元一个馒头早不卖了",
+        "onboard_time": 1757742323,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151225,
+        "num": 151225,
+        "word": "多名网友看到不明飞行物被击落",
+        "onboard_time": 1757740404,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173856,
+        "num": 149725,
+        "word": "西贝冷冻蔬菜被误会了",
+        "onboard_time": 1757733682,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173412,
+        "num": 147970,
+        "word": "血糖失控的7个皮肤症状",
+        "onboard_time": 1757744303,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145056,
+        "num": 145056,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1757741964,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130592,
+        "num": 144255,
+        "word": "汪苏泷演唱会cue你好星期六",
+        "onboard_time": 1757746643,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127305,
+        "num": 141100,
+        "word": "央视曝光直播卖文物猫腻",
+        "onboard_time": 1757744963,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122290,
+        "num": 140151,
+        "word": "offer7第一期就淘汰清华学霸",
+        "onboard_time": 1757741724,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108563,
+        "num": 137779,
+        "word": "陈乔恩说自己瘦了一圈",
+        "onboard_time": 1757744784,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136267,
+        "num": 136267,
+        "word": "王楚钦4比0胜林昀儒",
+        "onboard_time": 1757746103,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132275,
+        "num": 132275,
+        "word": "教资科二答案",
+        "onboard_time": 1757747784,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128225,
+        "num": 128225,
+        "word": "老乡鸡复热预制菜仅有两道",
+        "onboard_time": 1757743582,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125964,
+        "num": 125964,
+        "word": "iPhone发朋友圈的高级玩法",
+        "onboard_time": 1757744185,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122240,
+        "num": 122240,
+        "word": "米哈游公司回应原神角色着装暴露",
+        "onboard_time": 1757744303,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116186,
+        "num": 116186,
+        "word": "罗永浩回应西贝品牌负责人",
+        "onboard_time": 1757732302,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 105825,
+        "num": 105825,
+        "word": "翟佳宁喜单2总冠军",
+        "onboard_time": 1757739623,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104547,
+        "num": 104547,
+        "word": "湖南师大被曝霉菌宿舍后连夜装修",
+        "onboard_time": 1757742623,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98394,
+        "num": 98394,
+        "word": "教资",
+        "onboard_time": 1757721621,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97242,
+        "num": 97242,
+        "word": "殉职海警家属质疑为何只有一人营救",
+        "onboard_time": 1757745684,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97217,
+        "num": 97217,
+        "word": "女子立遗嘱防失踪丈夫归来争产",
+        "onboard_time": 1757745804,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95980,
+        "num": 95980,
+        "word": "左奇函 Classbegin",
+        "onboard_time": 1757747784,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94539,
+        "num": 94539,
+        "word": "跟任何人相处都大大方方的秘诀",
+        "onboard_time": 1757747724,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93552,
+        "num": 93552,
+        "word": "李昀锐 早知道不接电话了",
+        "onboard_time": 1757731764,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82183,
+        "num": 82183,
+        "word": "无锡蛋糕店老板称胜诉1年未获道歉",
+        "onboard_time": 1757737164,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81919,
+        "num": 81919,
+        "word": "纽约时装周",
+        "onboard_time": 1757746764,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 81780,
+        "num": 81780,
+        "word": "患癌青3选手蒋智豪时隔一年报平安",
+        "onboard_time": 1757744784,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81494,
+        "num": 81494,
+        "word": "教资和教编的区别",
+        "onboard_time": 1757745925,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81045,
+        "num": 81045,
+        "word": "杨紫 风里有秋天的味道啦",
+        "onboard_time": 1757740763,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80574,
+        "num": 80574,
+        "word": "宋亚轩不带这么离谱的",
+        "onboard_time": 1757746764,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
