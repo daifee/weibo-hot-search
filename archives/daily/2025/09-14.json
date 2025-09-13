@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757788938789,
+  "endTime": 1757791076091,
   "band_list": [
     {
       "raw_hot": 1157067,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164001,
+      "num": 76175,
+      "word": "建议不要再趴桌午睡了",
+      "onboard_time": 1757785458,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 163688,
       "num": 163688,
       "word": "中方将采取必要措施",
@@ -233,14 +241,6 @@
       "onboard_time": 1757779702,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135457,
-      "num": 76175,
-      "word": "建议不要再趴桌午睡了",
-      "onboard_time": 1757785458,
-      "rank": 13,
-      "category": "科学科普"
     },
     {
       "raw_hot": 133509,
@@ -507,12 +507,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24593,
+      "num": 33993,
+      "word": "汪苏泷唱了萌力觉醒",
+      "onboard_time": 1757790916,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 21387,
+      "num": 33909,
+      "word": "不怕你预制就怕你不告诉我",
+      "onboard_time": 1757790795,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19279,
       "num": 87150,
       "word": "柯克案枪手来自MAGA家庭",
       "onboard_time": 1757781202,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17915,
+      "num": 33780,
+      "word": "预制菜定义",
+      "onboard_time": 1757789355,
+      "rank": 44,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
