@@ -1,0 +1,410 @@
+{
+  "runTime": 1757752872339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1074138,
+        "num": 1171862,
+        "word": "那英没有版权就让龚俊唱",
+        "onboard_time": 1757751144,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 765888,
+        "num": 765888,
+        "word": "预制菜国标草案过审",
+        "onboard_time": 1757750004,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 985,
+        "num": 755956,
+        "word": "十四五财政民生投入近100万亿元",
+        "onboard_time": 1757662763,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1577744,
+        "num": 745153,
+        "word": "蒋智豪确诊肺癌晚期最新发声",
+        "onboard_time": 1757750604,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785515,
+        "num": 723942,
+        "word": "金价",
+        "onboard_time": 1757745863,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 667596,
+        "num": 696718,
+        "word": "餐厅预制菜需明示",
+        "onboard_time": 1757750363,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692422,
+        "num": 692422,
+        "word": "泡泡玛特新品发售仅10人排队",
+        "onboard_time": 1757744363,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 413639,
+        "num": 413639,
+        "word": "馒头减肥法",
+        "onboard_time": 1757745565,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 385162,
+        "num": 385162,
+        "word": "微信转账和发红包的区别",
+        "onboard_time": 1757745444,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335055,
+        "num": 335055,
+        "word": "美国农民绝望喊话 中国不买只能销毁",
+        "onboard_time": 1757750843,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 832038,
+        "num": 334336,
+        "word": "赴山海被赐名山海关",
+        "onboard_time": 1757748504,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352479,
+        "num": 316632,
+        "word": "张维伊冲董璇喊",
+        "onboard_time": 1757744005,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281157,
+        "num": 281157,
+        "word": "美国施压日本",
+        "onboard_time": 1757749344,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280941,
+        "num": 280941,
+        "word": "手配上尾戒好苏",
+        "onboard_time": 1757749162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273002,
+        "num": 273002,
+        "word": "林诗栋vs林德",
+        "onboard_time": 1757748443,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267033,
+        "num": 267033,
+        "word": "迅猛龙复旦入学考试成绩",
+        "onboard_time": 1757736023,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234613,
+        "num": 234613,
+        "word": "武契奇知道被中国网友叫577",
+        "onboard_time": 1757750901,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202503,
+        "num": 202503,
+        "word": "餐厅是否使用预制菜将强制披露",
+        "onboard_time": 1757749162,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174628,
+        "num": 202263,
+        "word": "offer7第一期就淘汰清华学霸",
+        "onboard_time": 1757741724,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146933,
+        "num": 201500,
+        "word": "李诞要怎么两年变李现",
+        "onboard_time": 1757751744,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766374,
+        "num": 200915,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 761731,
+        "num": 200440,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 291007,
+        "num": 199554,
+        "word": "西贝回应称21元一个馒头早不卖了",
+        "onboard_time": 1757742323,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218285,
+        "num": 199474,
+        "word": "白敬亭这次和锅姨一起进循环了",
+        "onboard_time": 1757751744,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198942,
+        "num": 198942,
+        "word": "老乡鸡微博置顶回应了预制菜",
+        "onboard_time": 1757730924,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257215,
+        "num": 192972,
+        "word": "谢娜为女儿剪掉长发",
+        "onboard_time": 1757741605,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169880,
+        "num": 169880,
+        "word": "美国人成批逃离本国",
+        "onboard_time": 1757741004,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76307,
+        "num": 168505,
+        "word": "A股预制菜概念连涨8个月",
+        "onboard_time": 1757752644,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 193037,
+        "num": 168437,
+        "word": "董璇理解了为什么办婚礼能分手",
+        "onboard_time": 1757740763,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146945,
+        "num": 168374,
+        "word": "玫瑰花也爱喝汽水",
+        "onboard_time": 1757752463,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168323,
+        "num": 168323,
+        "word": "杨幂回复了祝绪丹",
+        "onboard_time": 1757724262,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167543,
+        "num": 167543,
+        "word": "谁懂陈好这段台词的含金量",
+        "onboard_time": 1757751983,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165899,
+        "num": 165899,
+        "word": "有史以来最棒的食物照片",
+        "onboard_time": 1757750901,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132431,
+        "num": 132431,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1757745503,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130110,
+        "num": 130110,
+        "word": "西贝冷冻蔬菜被误会了",
+        "onboard_time": 1757733682,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22190,
+        "num": 129272,
+        "word": "这里是祖国英雄请安息",
+        "onboard_time": 1757732182,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128709,
+        "num": 128709,
+        "word": "教资科二",
+        "onboard_time": 1757746403,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126130,
+        "num": 126130,
+        "word": "迪丽热巴迪奥g社生图状态",
+        "onboard_time": 1757749463,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41732,
+        "num": 122166,
+        "word": "散步才是最好的大众减脂运动",
+        "onboard_time": 1757751864,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 121315,
+        "num": 121315,
+        "word": "米哈游公司回应原神角色着装暴露",
+        "onboard_time": 1757744303,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120395,
+        "num": 120395,
+        "word": "一个女生淘汰一群女生哭了",
+        "onboard_time": 1757751503,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115155,
+        "num": 115155,
+        "word": "血糖失控的7个皮肤症状",
+        "onboard_time": 1757744303,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112954,
+        "num": 112954,
+        "word": "早安朋友圈乱成一锅粥了",
+        "onboard_time": 1757752704,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111956,
+        "num": 111956,
+        "word": "这就是孙颖莎的power",
+        "onboard_time": 1757752404,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110804,
+        "num": 110804,
+        "word": "罗永浩回应西贝品牌负责人",
+        "onboard_time": 1757732302,
+        "rank": 44,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 108109,
+        "num": 108109,
+        "word": "叶蒨文回应和林子祥没孩子",
+        "onboard_time": 1757748985,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103159,
+        "num": 103159,
+        "word": "那英一个电话搞定音乐版权费",
+        "onboard_time": 1757751444,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99332,
+        "num": 99332,
+        "word": "跟任何人相处都大大方方的秘诀",
+        "onboard_time": 1757747724,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97580,
+        "num": 97580,
+        "word": "王楚钦小嘴一抿thankyou",
+        "onboard_time": 1757751444,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88305,
+        "num": 88305,
+        "word": "林诗栋无缘澳门赛四强",
+        "onboard_time": 1757752824,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国今日如你所愿#"
+    }
+  }
+}

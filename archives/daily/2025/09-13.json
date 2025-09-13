@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757752137870,
+  "endTime": 1757752872339,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1749084,
-      "num": 178317,
+      "num": 200440,
       "word": "罗永浩 西贝",
       "onboard_time": 1757744063,
       "rank": 20,
@@ -51,20 +51,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1577744,
+      "num": 745153,
+      "word": "蒋智豪确诊肺癌晚期最新发声",
+      "onboard_time": 1757750604,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1574969,
       "num": 243890,
       "word": "关晓彤半夜喝酒发朋友圈",
       "onboard_time": 1757682627,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1365998,
-      "num": 557209,
-      "word": "蒋智豪确诊肺癌晚期最新发声",
-      "onboard_time": 1757750604,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1261517,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1074138,
+      "num": 1171862,
+      "word": "那英没有版权就让龚俊唱",
+      "onboard_time": 1757751144,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1044420,
       "num": 1167107,
       "word": "卡塔尔感谢中国正义发声",
@@ -116,15 +124,15 @@
     },
     {
       "raw_hot": 844809,
-      "num": 311787,
+      "num": 316632,
       "word": "张维伊冲董璇喊",
       "onboard_time": 1757744005,
       "rank": 12,
       "category": "综艺"
     },
     {
-      "raw_hot": 807105,
-      "num": 263967,
+      "raw_hot": 832038,
+      "num": 334336,
       "word": "赴山海被赐名山海关",
       "onboard_time": 1757748504,
       "rank": 18,
@@ -155,12 +163,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 785515,
+      "num": 723942,
+      "word": "金价",
+      "onboard_time": 1757745863,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 770904,
       "num": 450901,
       "word": "第一批吃西贝罗永浩菜单食客发声",
       "onboard_time": 1757688088,
       "rank": 6,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 765888,
+      "num": 765888,
+      "word": "预制菜国标草案过审",
+      "onboard_time": 1757750004,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 753063,
@@ -227,20 +251,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 675978,
-      "num": 675978,
-      "word": "金价",
-      "onboard_time": 1757745863,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 667668,
       "num": 264567,
       "word": "杨幂回复吴宣仪",
       "onboard_time": 1757724982,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 667596,
+      "num": 696718,
+      "word": "餐厅预制菜需明示",
+      "onboard_time": 1757750363,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 619295,
@@ -275,22 +299,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 544430,
-      "num": 544430,
-      "word": "预制菜国标草案过审",
-      "onboard_time": 1757750004,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 533163,
-      "num": 533163,
-      "word": "餐厅预制菜需明示",
-      "onboard_time": 1757750363,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 531031,
       "num": 531031,
       "word": "迪丽热巴迪奥大使合影站C",
@@ -312,14 +320,6 @@
       "word": "李昀锐 早知道不接电话了",
       "onboard_time": 1757731764,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 469815,
-      "num": 469815,
-      "word": "那英没有版权就让龚俊唱",
-      "onboard_time": 1757751144,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 411984,
-      "num": 172106,
+      "num": 199554,
       "word": "西贝回应称21元一个馒头早不卖了",
       "onboard_time": 1757742323,
       "rank": 21,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335055,
+      "num": 335055,
+      "word": "美国农民绝望喊话 中国不买只能销毁",
+      "onboard_time": 1757750843,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 334964,
       "num": 334964,
       "word": "白鹿晒烟花",
@@ -523,12 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281157,
+      "num": 281157,
+      "word": "美国施压日本",
+      "onboard_time": 1757749344,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 280941,
+      "num": 280941,
+      "word": "手配上尾戒好苏",
+      "onboard_time": 1757749162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279124,
       "num": 279124,
       "word": "范丞丞说我是俊凯",
       "onboard_time": 1757731104,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273002,
+      "num": 273002,
+      "word": "林诗栋vs林德",
+      "onboard_time": 1757748443,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 271912,
@@ -569,14 +601,6 @@
       "onboard_time": 1757725702,
       "rank": 36,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 264990,
-      "num": 264990,
-      "word": "美国施压日本",
-      "onboard_time": 1757749344,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 264784,
@@ -651,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239407,
-      "num": 239407,
-      "word": "手配上尾戒好苏",
-      "onboard_time": 1757749162,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238781,
       "num": 238781,
       "word": "张檬谈溺爱儿子",
@@ -672,6 +688,14 @@
       "word": "这里是祖国英雄请安息",
       "onboard_time": 1757732182,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 234613,
+      "num": 234613,
+      "word": "武契奇知道被中国网友叫577",
+      "onboard_time": 1757750901,
+      "rank": 24,
       "category": "国内时政"
     },
     {
@@ -737,6 +761,14 @@
       "onboard_time": 1757734524,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 218285,
+      "num": 199474,
+      "word": "白敬亭这次和锅姨一起进循环了",
+      "onboard_time": 1757751744,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 218081,
@@ -817,14 +849,6 @@
       "onboard_time": 1757736683,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 199069,
-      "num": 199069,
-      "word": "美国农民绝望喊话 中国不买只能销毁",
-      "onboard_time": 1757750843,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 196957,
@@ -955,6 +979,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167543,
+      "num": 167543,
+      "word": "谁懂陈好这段台词的含金量",
+      "onboard_time": 1757751983,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165899,
+      "num": 165899,
+      "word": "有史以来最棒的食物照片",
+      "onboard_time": 1757750901,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163576,
       "num": 190973,
       "word": "李艺彤碰到难吃的店会先买单",
@@ -1019,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151846,
-      "num": 151846,
-      "word": "白敬亭这次和锅姨一起进循环了",
-      "onboard_time": 1757751744,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149953,
       "num": 149953,
       "word": "浙江老板花3000元挽回约800万损失",
@@ -1075,12 +1107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147004,
-      "num": 147004,
-      "word": "林诗栋vs林德",
-      "onboard_time": 1757748443,
+      "raw_hot": 146945,
+      "num": 168374,
+      "word": "玫瑰花也爱喝汽水",
+      "onboard_time": 1757752463,
       "rank": 29,
-      "category": "体育"
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 146933,
+      "num": 201500,
+      "word": "李诞要怎么两年变李现",
+      "onboard_time": 1757751744,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 145779,
@@ -1113,14 +1153,6 @@
       "onboard_time": 1757684847,
       "rank": 24,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 142623,
-      "num": 158218,
-      "word": "武契奇知道被中国网友叫577",
-      "onboard_time": 1757750901,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142051,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1757746103,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136084,
-      "num": 136084,
-      "word": "有史以来最棒的食物照片",
-      "onboard_time": 1757750901,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 133567,
@@ -1315,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126130,
+      "num": 151624,
+      "word": "迪丽热巴迪奥g社生图状态",
+      "onboard_time": 1757749463,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125964,
       "num": 125964,
       "word": "iPhone发朋友圈的高级玩法",
@@ -1363,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120395,
+      "num": 120395,
+      "word": "一个女生淘汰一群女生哭了",
+      "onboard_time": 1757751503,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119493,
       "num": 111061,
       "word": "60岁母亲被14岁少年驾车撞亡",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1757670021,
       "rank": 31,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 118561,
-      "num": 151624,
-      "word": "迪丽热巴迪奥g社生图状态",
-      "onboard_time": 1757749463,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 118295,
@@ -1435,14 +1467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116115,
-      "num": 151517,
-      "word": "李诞要怎么两年变李现",
-      "onboard_time": 1757751744,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114488,
       "num": 114488,
       "word": "为什么毕业后不发朋友圈了",
@@ -1467,12 +1491,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 112954,
+      "num": 112954,
+      "word": "早安朋友圈乱成一锅粥了",
+      "onboard_time": 1757752704,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112345,
       "num": 203313,
       "word": "王橹杰穆祉丞穿了同款",
       "onboard_time": 1757687366,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111956,
+      "num": 111956,
+      "word": "这就是孙颖莎的power",
+      "onboard_time": 1757752404,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 111830,
@@ -1513,14 +1553,6 @@
       "onboard_time": 1757674404,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109665,
-      "num": 109665,
-      "word": "一个女生淘汰一群女生哭了",
-      "onboard_time": 1757751503,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 109342,
@@ -1587,8 +1619,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107956,
-      "num": 107956,
+      "raw_hot": 108109,
+      "num": 108109,
       "word": "叶蒨文回应和林子祥没孩子",
       "onboard_time": 1757748985,
       "rank": 41,
@@ -1683,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97580,
+      "num": 97580,
+      "word": "王楚钦小嘴一抿thankyou",
+      "onboard_time": 1757751444,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97495,
       "num": 97495,
       "word": "陈数专业的时候好有魅力",
@@ -1728,22 +1768,6 @@
       "word": "陈幸同国际赛场首胜韩莹",
       "onboard_time": 1757745624,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95562,
-      "num": 95562,
-      "word": "谁懂陈好这段台词的含金量",
-      "onboard_time": 1757751983,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 95534,
-      "num": 95534,
-      "word": "王楚钦小嘴一抿thankyou",
-      "onboard_time": 1757751444,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1849,6 +1873,14 @@
       "onboard_time": 1757678125,
       "rank": 43,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 88305,
+      "num": 88305,
+      "word": "林诗栋无缘澳门赛四强",
+      "onboard_time": 1757752824,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87701,
@@ -2035,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76307,
+      "num": 168505,
+      "word": "A股预制菜概念连涨8个月",
+      "onboard_time": 1757752644,
+      "rank": 27,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 75902,
       "num": 75902,
       "word": "猫咪蜷缩时身上的花纹形成了闭环",
@@ -2195,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41732,
+      "num": 122166,
+      "word": "散步才是最好的大众减脂运动",
+      "onboard_time": 1757751864,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 41047,
       "num": 103132,
       "word": "为什么预制菜会越来越多",
@@ -2225,14 +2273,6 @@
       "onboard_time": 1757736264,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36553,
-      "num": 108564,
-      "word": "散步才是最好的大众减脂运动",
-      "onboard_time": 1757751864,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 35895,
@@ -2377,6 +2417,14 @@
       "onboard_time": 1757708954,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 985,
+      "num": 755956,
+      "word": "十四五财政民生投入近100万亿元",
+      "onboard_time": 1757662763,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
