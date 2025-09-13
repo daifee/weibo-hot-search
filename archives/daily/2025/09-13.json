@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757776887604,
+  "endTime": 1757777796716,
   "band_list": [
     {
       "raw_hot": 3054582,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1885225,
-      "num": 1239968,
+      "num": 1251669,
       "word": "唐嫣金熊猫最佳女主",
       "onboard_time": 1757773046,
       "rank": 6,
@@ -115,20 +115,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1301967,
+      "num": 1301967,
+      "word": "应急局回应山东现不明飞行物被击落",
+      "onboard_time": 1757773105,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1261517,
       "num": 754378,
       "word": "迅猛龙复旦入学考试成绩",
       "onboard_time": 1757736023,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1204814,
-      "num": 1204814,
-      "word": "应急局回应山东现不明飞行物被击落",
-      "onboard_time": 1757773105,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1198352,
@@ -171,6 +171,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1061629,
+      "num": 188080,
+      "word": "西贝厨师长称家里一顿没吃完也不会扔",
+      "onboard_time": 1757774246,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1044420,
       "num": 1167107,
       "word": "卡塔尔感谢中国正义发声",
@@ -179,11 +187,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1011369,
-      "num": 174883,
-      "word": "西贝厨师长称家里一顿没吃完也不会扔",
-      "onboard_time": 1757774246,
-      "rank": 21,
+      "raw_hot": 934479,
+      "num": 934479,
+      "word": "目击者讲述不明飞行物被击落瞬间",
+      "onboard_time": 1757774126,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -321,6 +329,14 @@
       "onboard_time": 1757725702,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707786,
+      "num": 707786,
+      "word": "朱一龙金熊猫影帝",
+      "onboard_time": 1757776286,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 702390,
@@ -723,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343415,
-      "num": 343415,
-      "word": "目击者讲述不明飞行物被击落瞬间",
-      "onboard_time": 1757774126,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 339980,
       "num": 339980,
       "word": "王楚钦vs林昀儒",
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271228,
+      "num": 271228,
+      "word": "张康乐 小孩不许抽烟",
+      "onboard_time": 1757776585,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269447,
       "num": 269447,
       "word": "中央厨房制作不纳入预制菜",
@@ -897,14 +913,6 @@
       "onboard_time": 1757689947,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 268925,
-      "num": 268925,
-      "word": "朱一龙金熊猫影帝",
-      "onboard_time": 1757776286,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 267516,
@@ -1267,14 +1275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202404,
-      "num": 202404,
-      "word": "张康乐 小孩不许抽烟",
-      "onboard_time": 1757776585,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 202294,
       "num": 202294,
       "word": "JDG战胜WBG",
@@ -1305,6 +1305,14 @@
       "onboard_time": 1757766325,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201730,
+      "num": 201730,
+      "word": "李荣浩 这是个真事你们可以上网查",
+      "onboard_time": 1757777125,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 201594,
@@ -1659,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165944,
+      "num": 165944,
+      "word": "陈小春应采儿10年后相依为命callback",
+      "onboard_time": 1757777125,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165899,
       "num": 165899,
       "word": "有史以来最棒的食物照片",
@@ -1675,12 +1691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164609,
+      "num": 164609,
+      "word": "董璇张维伊吵架好真实",
+      "onboard_time": 1757777423,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164523,
       "num": 164523,
       "word": "金晨陈好田嘉瑞聚餐",
       "onboard_time": 1757774425,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164081,
+      "num": 189088,
+      "word": "央视起底所谓零添加酱油真相",
+      "onboard_time": 1757773947,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 163608,
@@ -1849,14 +1881,6 @@
       "onboard_time": 1757768724,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151911,
-      "num": 188124,
-      "word": "央视起底所谓零添加酱油真相",
-      "onboard_time": 1757773947,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 151831,
@@ -2283,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132725,
+      "num": 125312,
+      "word": "这跟坐李宇春腿上听有什么区别",
+      "onboard_time": 1757777423,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132554,
       "num": 132554,
       "word": "新华社 预制菜知情权",
@@ -2507,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125104,
+      "num": 275568,
+      "word": "北京冰雹有鸽子蛋大",
+      "onboard_time": 1757776525,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124787,
       "num": 124787,
       "word": "贾国龙称西贝利润约5％",
@@ -2617,6 +2657,22 @@
       "onboard_time": 1757773466,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 118343,
+      "num": 163879,
+      "word": "东莞一学校家委收取每生200元班费",
+      "onboard_time": 1757775746,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118331,
+      "num": 118331,
+      "word": "建议汪苏泷停止跳动常驻",
+      "onboard_time": 1757777605,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 118295,
@@ -2761,14 +2817,6 @@
       "onboard_time": 1757697740,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111642,
-      "num": 163879,
-      "word": "东莞一学校家委收取每生200元班费",
-      "onboard_time": 1757775746,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111307,
@@ -3435,14 +3483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72198,
-      "num": 275568,
-      "word": "北京冰雹有鸽子蛋大",
-      "onboard_time": 1757776525,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71375,
       "num": 178867,
       "word": "交警回应游客自驾撞死6匹马",
@@ -3473,6 +3513,14 @@
       "onboard_time": 1757737045,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 64365,
+      "num": 105532,
+      "word": "白发美男天花板",
+      "onboard_time": 1757775924,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 60928,
@@ -3532,7 +3580,7 @@
     },
     {
       "raw_hot": 52875,
-      "num": 985947,
+      "num": 1092508,
       "word": "国宝画重点",
       "onboard_time": 1757769985,
       "rank": 2,
