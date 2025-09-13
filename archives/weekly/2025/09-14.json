@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757783926472,
+  "endTime": 1757784983439,
   "band_list": [
     {
       "raw_hot": 1157067,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282846,
+      "num": 282846,
+      "word": "北京 冰河世纪",
+      "onboard_time": 1757782161,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281411,
       "num": 281411,
       "word": "北京冰雹有鸽子蛋大",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 250922,
-      "num": 141387,
+      "num": 157774,
       "word": "谭松韵颁奖",
       "onboard_time": 1757778384,
       "rank": 26,
@@ -233,14 +241,6 @@
       "onboard_time": 1757777125,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127917,
-      "num": 127917,
-      "word": "北京 冰河世纪",
-      "onboard_time": 1757782161,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121415,
@@ -395,7 +395,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66669,
+      "raw_hot": 73719,
       "num": 145832,
       "word": "北京多区发冰雹黄色预警",
       "onboard_time": 1757781321,
@@ -427,20 +427,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49511,
+      "num": 120385,
+      "word": "韩学者感叹才知道中国很牛",
+      "onboard_time": 1757779944,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48877,
       "num": 120323,
       "word": "孙颖莎vs迪亚兹",
       "onboard_time": 1757766807,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47490,
-      "num": 120385,
-      "word": "韩学者感叹才知道中国很牛",
-      "onboard_time": 1757779944,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 42578,
