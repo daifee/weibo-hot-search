@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757788198186,
+  "endTime": 1757788938789,
   "band_list": [
     {
       "raw_hot": 1157067,
@@ -235,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135457,
+      "num": 76175,
+      "word": "建议不要再趴桌午睡了",
+      "onboard_time": 1757785458,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 133509,
       "num": 133509,
       "word": "陈小春应采儿10年后相依为命callback",
@@ -387,14 +395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76175,
-      "num": 76175,
-      "word": "建议不要再趴桌午睡了",
-      "onboard_time": 1757785458,
-      "rank": 13,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 75810,
       "num": 120921,
       "word": "潘玮柏本人微胖但体力很棒",
@@ -467,7 +467,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28822,
+      "raw_hot": 30680,
       "num": 68491,
       "word": "周笔畅重庆演唱会",
       "onboard_time": 1757787676,
@@ -475,7 +475,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28419,
+      "raw_hot": 30090,
       "num": 68477,
       "word": "李宇春演唱会来了好多大王",
       "onboard_time": 1757774065,
@@ -489,6 +489,22 @@
       "onboard_time": 1757783300,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27521,
+      "num": 46352,
+      "word": "不怕你预制怕你不告诉我",
+      "onboard_time": 1757788636,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25463,
+      "num": 46255,
+      "word": "汪苏泷大转盘比综艺还会整活",
+      "onboard_time": 1757788516,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 19279,
