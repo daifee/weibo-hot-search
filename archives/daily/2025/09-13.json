@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757756160029,
+  "endTime": 1757758979539,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -105,6 +105,14 @@
       "onboard_time": 1757733682,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1062001,
+      "num": 202313,
+      "word": "瘦了20斤鼻子变化",
+      "onboard_time": 1757756482,
+      "rank": 10,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1044420,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 735479,
-      "num": 735479,
+      "num": 1095443,
       "word": "法考",
       "onboard_time": 1757720119,
       "rank": 19,
@@ -257,6 +265,14 @@
       "onboard_time": 1757681846,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 669325,
+      "num": 195659,
+      "word": "杨幂碎钻高定红裙",
+      "onboard_time": 1757756183,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 667668,
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424989,
+      "num": 424989,
+      "word": "武契奇回应被中国网友叫577",
+      "onboard_time": 1757754683,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 421135,
       "num": 421135,
       "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
@@ -435,6 +459,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 383935,
+      "num": 383935,
+      "word": "国乒男单仅王楚钦晋级四强",
+      "onboard_time": 1757753543,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374835,
       "num": 374835,
       "word": "欧阳娜娜镜头一移出现刘昊然",
@@ -489,14 +521,6 @@
       "onboard_time": 1757691084,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331981,
-      "num": 331981,
-      "word": "国乒男单仅王楚钦晋级四强",
-      "onboard_time": 1757753543,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 331224,
@@ -657,6 +681,14 @@
       "onboard_time": 1757691625,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 257064,
+      "num": 169958,
+      "word": "西贝在售手工馒头3.9元一个",
+      "onboard_time": 1757757505,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254513,
@@ -875,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204941,
+      "num": 204941,
+      "word": "教资科三",
+      "onboard_time": 1757758642,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202215,
       "num": 202215,
       "word": "孟子义 喜单好多冠军都坐在观众席",
@@ -955,6 +995,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 185375,
+      "num": 166800,
+      "word": "西贝涉事门店客流比平时还多几十桌",
+      "onboard_time": 1757758222,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185019,
       "num": 185019,
       "word": "西贝创始人找罗永浩没吃好的原因",
@@ -985,6 +1033,14 @@
       "onboard_time": 1757733383,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173231,
+      "num": 173231,
+      "word": "ACT对战RC",
+      "onboard_time": 1757757743,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 172796,
@@ -1027,12 +1083,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171208,
-      "num": 312832,
-      "word": "武契奇回应被中国网友叫577",
-      "onboard_time": 1757754683,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 170921,
+      "num": 167148,
+      "word": "唐嫣橙色西装套装",
+      "onboard_time": 1757757022,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 170499,
@@ -1115,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156525,
+      "num": 156525,
+      "word": "喝水后几个表现说明肾不好",
+      "onboard_time": 1757758943,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155716,
       "num": 155716,
       "word": "花儿与少年埃及转场",
@@ -1139,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154438,
+      "num": 173169,
+      "word": "赴山海2025年最快破亿剧集",
+      "onboard_time": 1757757743,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154134,
       "num": 241499,
       "word": "李沁被孜然腌入味了",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1757688865,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149749,
+      "num": 149749,
+      "word": "印度空军拟购买114架阵风战斗机",
+      "onboard_time": 1757757623,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149393,
@@ -1195,6 +1275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146995,
+      "num": 168590,
+      "word": "这些食物是血糖刺客",
+      "onboard_time": 1757758884,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146979,
+      "num": 146979,
+      "word": "美主持人说用死亡注射处理流浪汉",
+      "onboard_time": 1757755642,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146945,
       "num": 168374,
       "word": "玫瑰花也爱喝汽水",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1757751744,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146891,
+      "num": 167539,
+      "word": "让卢昱晓戴帽子的人是天才",
+      "onboard_time": 1757757924,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 145779,
@@ -1275,12 +1379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140288,
+      "num": 161448,
+      "word": "胡塞武装称打击以色列多个敏感目标",
+      "onboard_time": 1757754623,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140154,
       "num": 129341,
       "word": "罗永浩贴西贝预制菜线索",
       "onboard_time": 1757704454,
       "rank": 25,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 139280,
+      "num": 168079,
+      "word": "此沙看垃圾的眼神",
+      "onboard_time": 1757756963,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 137588,
@@ -1321,6 +1441,14 @@
       "onboard_time": 1757746103,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136176,
+      "num": 167824,
+      "word": "周星驰给张艺兴送花篮",
+      "onboard_time": 1757756843,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 134473,
@@ -1563,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118006,
+      "num": 118006,
+      "word": "每天喝第一杯咖啡的最佳时间",
+      "onboard_time": 1757758463,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 117994,
       "num": 203216,
       "word": "邓为飞吻粉丝",
@@ -1595,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115472,
+      "num": 115472,
+      "word": "林德晋级澳门赛四强",
+      "onboard_time": 1757758703,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114488,
       "num": 114488,
       "word": "为什么毕业后不发朋友圈了",
@@ -1617,6 +1761,14 @@
       "onboard_time": 1757736023,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112677,
+      "num": 165406,
+      "word": "庞博 没送别过这么多小朋友",
+      "onboard_time": 1757758343,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 112345,
@@ -1707,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109287,
+      "num": 109287,
+      "word": "你以为的法考vs实际上的法考",
+      "onboard_time": 1757758284,
+      "rank": 46,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 109194,
       "num": 109194,
       "word": "自驾游5年坚持不下去了",
@@ -1793,6 +1953,14 @@
       "onboard_time": 1757679746,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105252,
+      "num": 105252,
+      "word": "法考答案",
+      "onboard_time": 1757758884,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 102234,
@@ -2001,14 +2169,6 @@
       "onboard_time": 1757729424,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 91355,
-      "num": 161448,
-      "word": "胡塞武装称打击以色列多个敏感目标",
-      "onboard_time": 1757754623,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90678,
@@ -2283,14 +2443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 66476,
-      "num": 120426,
-      "word": "美主持人说用死亡注射处理流浪汉",
-      "onboard_time": 1757755642,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 59928,
       "num": 59928,
       "word": "孙颖莎头顶天线下班",
@@ -2313,6 +2465,22 @@
       "onboard_time": 1757682325,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 58284,
+      "num": 172107,
+      "word": "盐田版眼影盘还分珠光哑光",
+      "onboard_time": 1757756482,
+      "rank": 18,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 56158,
+      "num": 151638,
+      "word": "预制菜羞耻该成为历史了",
+      "onboard_time": 1757758583,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55864,
@@ -2553,6 +2721,14 @@
       "onboard_time": 1757727023,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19555,
+      "num": 171679,
+      "word": "嘻哈王越也有线下嘴替了",
+      "onboard_time": 1757757983,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 19499,

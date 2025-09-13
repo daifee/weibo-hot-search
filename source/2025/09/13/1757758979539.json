@@ -1,0 +1,410 @@
+{
+  "runTime": 1757758979539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 596519,
+        "num": 1095443,
+        "word": "法考",
+        "onboard_time": 1757753543,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 484821,
+        "num": 484821,
+        "word": "美国农民绝望喊话 中国不买只能销毁",
+        "onboard_time": 1757750843,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49375,
+        "num": 449745,
+        "word": "服贸会",
+        "onboard_time": 1757753004,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424989,
+        "num": 424989,
+        "word": "武契奇回应被中国网友叫577",
+        "onboard_time": 1757754683,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 383935,
+        "num": 383935,
+        "word": "国乒男单仅王楚钦晋级四强",
+        "onboard_time": 1757753543,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1018084,
+        "num": 343317,
+        "word": "那英没有版权就让龚俊唱",
+        "onboard_time": 1757751144,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286872,
+        "num": 286872,
+        "word": "预制菜国标草案过审",
+        "onboard_time": 1757750004,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281668,
+        "num": 281668,
+        "word": "泡泡玛特新品发售仅10人排队",
+        "onboard_time": 1757744363,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 234910,
+        "num": 234910,
+        "word": "餐厅预制菜需明示",
+        "onboard_time": 1757750363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204941,
+        "num": 204941,
+        "word": "教资科三",
+        "onboard_time": 1757758642,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1062001,
+        "num": 202313,
+        "word": "瘦了20斤鼻子变化",
+        "onboard_time": 1757756482,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 837442,
+        "num": 196421,
+        "word": "蒋智豪确诊肺癌晚期最新发声",
+        "onboard_time": 1757750604,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669325,
+        "num": 195659,
+        "word": "杨幂碎钻高定红裙",
+        "onboard_time": 1757756183,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 189917,
+        "num": 189917,
+        "word": "微信转账和发红包的区别",
+        "onboard_time": 1757745444,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429465,
+        "num": 181760,
+        "word": "赴山海被赐名山海关",
+        "onboard_time": 1757748504,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226920,
+        "num": 180350,
+        "word": "张维伊冲董璇喊",
+        "onboard_time": 1757744005,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173231,
+        "num": 173231,
+        "word": "ACT对战RC",
+        "onboard_time": 1757757743,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154438,
+        "num": 173169,
+        "word": "赴山海2025年最快破亿剧集",
+        "onboard_time": 1757757743,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58284,
+        "num": 172107,
+        "word": "盐田版眼影盘还分珠光哑光",
+        "onboard_time": 1757756482,
+        "rank": 18,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 19555,
+        "num": 171679,
+        "word": "嘻哈王越也有线下嘴替了",
+        "onboard_time": 1757757983,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659166,
+        "num": 171183,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 312673,
+        "num": 170324,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169973,
+        "num": 169973,
+        "word": "迅猛龙复旦入学考试成绩",
+        "onboard_time": 1757736023,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 257064,
+        "num": 169958,
+        "word": "西贝在售手工馒头3.9元一个",
+        "onboard_time": 1757757505,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221550,
+        "num": 169381,
+        "word": "罗永浩回应餐厅预制菜强制披露",
+        "onboard_time": 1757754324,
+        "rank": 24,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 151663,
+        "num": 169032,
+        "word": "林诗栋3比4林德",
+        "onboard_time": 1757752943,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146995,
+        "num": 168590,
+        "word": "这些食物是血糖刺客",
+        "onboard_time": 1757758884,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139280,
+        "num": 168079,
+        "word": "此沙看垃圾的眼神",
+        "onboard_time": 1757756963,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136176,
+        "num": 167824,
+        "word": "周星驰给张艺兴送花篮",
+        "onboard_time": 1757756843,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146891,
+        "num": 167539,
+        "word": "让卢昱晓戴帽子的人是天才",
+        "onboard_time": 1757757924,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170921,
+        "num": 167148,
+        "word": "唐嫣橙色西装套装",
+        "onboard_time": 1757757022,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185375,
+        "num": 166800,
+        "word": "西贝涉事门店客流比平时还多几十桌",
+        "onboard_time": 1757758222,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112524,
+        "num": 166117,
+        "word": "赵昭仪自媒体圣体",
+        "onboard_time": 1757754683,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174185,
+        "num": 165723,
+        "word": "金价",
+        "onboard_time": 1757745863,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112677,
+        "num": 165406,
+        "word": "庞博 没送别过这么多小朋友",
+        "onboard_time": 1757758343,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165304,
+        "num": 165304,
+        "word": "西贝回应称21元一个馒头早不卖了",
+        "onboard_time": 1757742323,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156719,
+        "num": 156719,
+        "word": "血糖失控的7个皮肤症状",
+        "onboard_time": 1757744303,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156525,
+        "num": 156525,
+        "word": "喝水后几个表现说明肾不好",
+        "onboard_time": 1757758943,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56158,
+        "num": 151638,
+        "word": "预制菜羞耻该成为历史了",
+        "onboard_time": 1757758583,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149749,
+        "num": 149749,
+        "word": "印度空军拟购买114架阵风战斗机",
+        "onboard_time": 1757757623,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146979,
+        "num": 146979,
+        "word": "美主持人说用死亡注射处理流浪汉",
+        "onboard_time": 1757755642,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140288,
+        "num": 140288,
+        "word": "胡塞武装称打击以色列多个敏感目标",
+        "onboard_time": 1757754623,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118006,
+        "num": 118006,
+        "word": "每天喝第一杯咖啡的最佳时间",
+        "onboard_time": 1757758463,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116161,
+        "num": 116161,
+        "word": "早安朋友圈乱成一锅粥了",
+        "onboard_time": 1757752704,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115472,
+        "num": 115472,
+        "word": "林德晋级澳门赛四强",
+        "onboard_time": 1757758703,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114357,
+        "num": 114357,
+        "word": "王楚钦说半决赛一定是艰苦的比赛",
+        "onboard_time": 1757754205,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109287,
+        "num": 109287,
+        "word": "你以为的法考vs实际上的法考",
+        "onboard_time": 1757758284,
+        "rank": 46,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 109157,
+        "num": 109157,
+        "word": "全红婵今天入学报到",
+        "onboard_time": 1757753963,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105252,
+        "num": 105252,
+        "word": "法考答案",
+        "onboard_time": 1757758884,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104925,
+        "num": 104925,
+        "word": "谢娜为女儿剪掉长发",
+        "onboard_time": 1757741605,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}
