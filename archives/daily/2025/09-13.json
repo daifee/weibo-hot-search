@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757734819252,
+  "endTime": 1757737682882,
   "band_list": [
     {
       "raw_hot": 2057269,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1603957,
-      "num": 363429,
+      "num": 368439,
       "word": "杨幂回复了祝绪丹",
       "onboard_time": 1757724262,
       "rank": 10,
@@ -43,11 +43,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1111759,
+      "num": 754378,
+      "word": "迅猛龙复旦入学考试成绩",
+      "onboard_time": 1757736023,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1092422,
       "num": 150382,
       "word": "西贝线下门店店长发声",
       "onboard_time": 1757724501,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1080283,
+      "num": 243313,
+      "word": "西贝冷冻蔬菜被误会了",
+      "onboard_time": 1757733682,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -91,12 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 735479,
+      "num": 735479,
+      "word": "法考",
+      "onboard_time": 1757720119,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 722118,
       "num": 486866,
       "word": "于东来删除力挺西贝言论",
       "onboard_time": 1757725702,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 696323,
+      "num": 696323,
+      "word": "李一桐退圈了",
+      "onboard_time": 1757737164,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 683939,
@@ -139,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570917,
+      "num": 349150,
+      "word": "99年从月薪5千到5.5万的真实感受",
+      "onboard_time": 1757734944,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 558705,
       "num": 359353,
       "word": "王灿拉黑杜淳30多次",
@@ -171,20 +211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 482007,
-      "num": 482007,
+      "raw_hot": 484386,
+      "num": 484386,
       "word": "李昀锐 早知道不接电话了",
       "onboard_time": 1757731764,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 416216,
-      "num": 243313,
-      "word": "西贝冷冻蔬菜被误会了",
-      "onboard_time": 1757733682,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 421135,
+      "num": 421135,
+      "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
+      "onboard_time": 1757733023,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 405157,
@@ -193,6 +233,14 @@
       "onboard_time": 1757686825,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 396095,
+      "num": 396095,
+      "word": "九三阅兵式上唯一一面空军战旗",
+      "onboard_time": 1757733204,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 374835,
@@ -216,14 +264,6 @@
       "word": "教资科一",
       "onboard_time": 1757734103,
       "rank": 6,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 372908,
-      "num": 372908,
-      "word": "法考",
-      "onboard_time": 1757720119,
-      "rank": 19,
       "category": "教育"
     },
     {
@@ -347,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254513,
+      "num": 254513,
+      "word": "成毅赴山海今晚二创井喷了",
+      "onboard_time": 1757735123,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252591,
       "num": 188843,
       "word": "建议年轻人不要长期当服务员",
@@ -356,7 +404,7 @@
     },
     {
       "raw_hot": 250739,
-      "num": 298440,
+      "num": 759039,
       "word": "烈士遗骸安葬仪式",
       "onboard_time": 1757724501,
       "rank": 8,
@@ -369,14 +417,6 @@
       "onboard_time": 1757691685,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245177,
-      "num": 245177,
-      "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
-      "onboard_time": 1757733023,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 241127,
@@ -411,20 +451,36 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 232890,
-      "num": 245169,
-      "word": "九三阅兵式上唯一一面空军战旗",
-      "onboard_time": 1757733204,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 232248,
       "num": 232248,
       "word": "iPhone17全系已排至10月",
       "onboard_time": 1757719638,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 230952,
+      "num": 228311,
+      "word": "罗永浩谈行业人一边倒声援西贝",
+      "onboard_time": 1757734404,
+      "rank": 34,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 229407,
+      "num": 229407,
+      "word": "央视起底新能源汽车黑公关",
+      "onboard_time": 1757734224,
+      "rank": 36,
+      "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 228968,
+      "num": 228968,
+      "word": "警方通报女子被陌生男子摸头辱骂",
+      "onboard_time": 1757734165,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 228928,
@@ -459,20 +515,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 218081,
+      "num": 218081,
+      "word": "杨幂沙漠大片拍摄现场被蜜蜂围绕",
+      "onboard_time": 1757737345,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217776,
       "num": 282295,
       "word": "赴山海8旬老太跑的真快",
       "onboard_time": 1757726062,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217730,
-      "num": 217730,
-      "word": "罗永浩谈行业人一边倒声援西贝",
-      "onboard_time": 1757734404,
-      "rank": 34,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 217211,
@@ -491,12 +547,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209801,
+      "num": 209801,
+      "word": "教资选择",
+      "onboard_time": 1757736983,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209404,
       "num": 209404,
       "word": "李昀锐 我眼睛脏了",
       "onboard_time": 1757683107,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202039,
+      "num": 202039,
+      "word": "小学教资",
+      "onboard_time": 1757736683,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 196075,
@@ -547,15 +619,15 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 178618,
-      "num": 178618,
-      "word": "央视起底新能源汽车黑公关",
-      "onboard_time": 1757734224,
-      "rank": 36,
-      "category": "民生新闻,汽车"
+      "raw_hot": 183470,
+      "num": 183470,
+      "word": "韩庚说于洋是不是整了",
+      "onboard_time": 1757737285,
+      "rank": 31,
+      "category": "综艺"
     },
     {
-      "raw_hot": 174005,
+      "raw_hot": 181228,
       "num": 242507,
       "word": "桑延对不起我的丁sir来了",
       "onboard_time": 1757733383,
@@ -571,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171041,
-      "num": 171041,
-      "word": "警方通报女子被陌生男子摸头辱骂",
-      "onboard_time": 1757734165,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 170499,
       "num": 129451,
       "word": "美国女孩怀念16年前在中国买咖啡",
@@ -587,12 +651,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167722,
+      "num": 167722,
+      "word": "曾一鸣说李佳薇火不了",
+      "onboard_time": 1757734343,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163576,
+      "num": 190973,
+      "word": "李艺彤碰到难吃的店会先买单",
+      "onboard_time": 1757736203,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162782,
+      "num": 162782,
+      "word": "转账付款竟然是可以拦截的",
+      "onboard_time": 1757736922,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 162273,
       "num": 353591,
       "word": "鸣枪12响致敬志愿军烈士",
       "onboard_time": 1757732243,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155716,
+      "num": 155716,
+      "word": "花儿与少年埃及转场",
+      "onboard_time": 1757736443,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 155546,
@@ -625,6 +721,14 @@
       "onboard_time": 1757688865,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149393,
+      "num": 149393,
+      "word": "突然发现周末变长了",
+      "onboard_time": 1757736383,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 149236,
@@ -675,6 +779,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 137230,
+      "num": 137230,
+      "word": "猫 一定要聊原生家庭的潮湿吗",
+      "onboard_time": 1757734524,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136973,
       "num": 260769,
       "word": "花少7  耐人寻味的一分钟",
@@ -683,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133696,
-      "num": 133696,
-      "word": "猫 一定要聊原生家庭的潮湿吗",
-      "onboard_time": 1757734524,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 136641,
+      "num": 136641,
+      "word": "原来两个汤勺是这么搭配使用的",
+      "onboard_time": 1757737103,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 132525,
@@ -697,6 +809,14 @@
       "onboard_time": 1757730023,
       "rank": 37,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 131836,
+      "num": 131836,
+      "word": "史上最强续航男主出现了",
+      "onboard_time": 1757737164,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 129852,
@@ -737,6 +857,14 @@
       "onboard_time": 1757731404,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128539,
+      "num": 241151,
+      "word": "江宁婆婆谈西贝公关",
+      "onboard_time": 1757733383,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125706,
@@ -785,6 +913,22 @@
       "onboard_time": 1757670021,
       "rank": 31,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 118295,
+      "num": 118295,
+      "word": "卢远说重来心动8还会做一样的选择",
+      "onboard_time": 1757737645,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118201,
+      "num": 118201,
+      "word": "成毅这俩下扭我心巴上了",
+      "onboard_time": 1757737405,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 117994,
@@ -888,14 +1032,6 @@
       "word": "月嫂喂奶致刚出生2天男婴窒息",
       "onboard_time": 1757671823,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97967,
-      "num": 241151,
-      "word": "江宁婆婆谈西贝公关",
-      "onboard_time": 1757733383,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1123,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66763,
+      "num": 182532,
+      "word": "车手魏建军为爱上场",
+      "onboard_time": 1757737045,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 59928,
       "num": 59928,
       "word": "孙颖莎头顶天线下班",
@@ -1161,6 +1305,14 @@
       "onboard_time": 1757728462,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50220,
+      "num": 229331,
+      "word": "宝马CEO齐普策谈新世代新在哪里",
+      "onboard_time": 1757736624,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 44939,
@@ -1209,6 +1361,14 @@
       "onboard_time": 1757697620,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39173,
+      "num": 229284,
+      "word": "王牌家族真把君乐宝研究明白了",
+      "onboard_time": 1757736264,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 35895,
