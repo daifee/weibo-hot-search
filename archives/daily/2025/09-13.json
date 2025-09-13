@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757762346962,
+  "endTime": 1757763404427,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -75,7 +75,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1507641,
+      "raw_hot": 1551458,
       "num": 272146,
       "word": "唐嫣 我那体制内的女友",
       "onboard_time": 1757760863,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1062001,
-      "num": 264312,
+      "num": 343494,
       "word": "瘦了20斤鼻子变化",
       "onboard_time": 1757756482,
       "rank": 10,
@@ -324,11 +324,19 @@
     },
     {
       "raw_hot": 583613,
-      "num": 254613,
+      "num": 311696,
       "word": "李兰迪露背好辣",
       "onboard_time": 1757761043,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 579082,
+      "num": 579082,
+      "word": "成毅演到第9集换号了",
+      "onboard_time": 1757761164,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 558705,
@@ -348,15 +356,15 @@
     },
     {
       "raw_hot": 538503,
-      "num": 254512,
+      "num": 261139,
       "word": "喝水后几个表现说明肾不好",
       "onboard_time": 1757758943,
       "rank": 37,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 533796,
-      "num": 405121,
+      "raw_hot": 535359,
+      "num": 535359,
       "word": "泡泡玛特足金产品首发遇冷",
       "onboard_time": 1757759544,
       "rank": 41,
@@ -377,6 +385,14 @@
       "onboard_time": 1757728700,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 486138,
+      "num": 252648,
+      "word": "西贝涉事门店客流比平时还多几十桌",
+      "onboard_time": 1757758222,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 484386,
@@ -451,12 +467,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 413629,
+      "num": 413629,
+      "word": "游客自驾撞死6匹马",
+      "onboard_time": 1757759963,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411984,
       "num": 200366,
       "word": "西贝回应称21元一个馒头早不卖了",
       "onboard_time": 1757742323,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411299,
+      "num": 411299,
+      "word": "穆祉丞 橙粉色举起来",
+      "onboard_time": 1757762664,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 405157,
@@ -499,6 +531,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 387715,
+      "num": 387715,
+      "word": "北京暴雨",
+      "onboard_time": 1757760983,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383935,
       "num": 383935,
       "word": "国乒男单仅王楚钦晋级四强",
@@ -531,14 +571,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 373843,
-      "num": 373843,
-      "word": "成毅演到第9集换号了",
-      "onboard_time": 1757761164,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 357764,
       "num": 357764,
       "word": "教资科三",
@@ -563,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 346954,
+      "num": 346954,
+      "word": "谭松韵黑天鹅",
+      "onboard_time": 1757761824,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339980,
       "num": 339980,
       "word": "王楚钦vs林昀儒",
@@ -583,14 +623,6 @@
       "num": 331224,
       "word": "现役军人暴雨中跳河救人不幸牺牲",
       "onboard_time": 1757725281,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330573,
-      "num": 252648,
-      "word": "西贝涉事门店客流比平时还多几十桌",
-      "onboard_time": 1757758222,
       "rank": 31,
       "category": "民生新闻"
     },
@@ -619,12 +651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310702,
-      "num": 310702,
-      "word": "北京暴雨",
-      "onboard_time": 1757760983,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 296686,
+      "num": 190788,
+      "word": "何秋亊 人民非遗推荐人",
+      "onboard_time": 1757762362,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 296533,
@@ -649,14 +681,6 @@
       "onboard_time": 1757739623,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289983,
-      "num": 289983,
-      "word": "游客自驾撞死6匹马",
-      "onboard_time": 1757759963,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285272,
@@ -843,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 234162,
+      "num": 183985,
+      "word": "陈星旭你要喜欢一个本身就很好的人",
+      "onboard_time": 1757762362,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232997,
       "num": 232997,
       "word": "13岁奥莉近照",
@@ -865,6 +897,14 @@
       "onboard_time": 1757734404,
       "rank": 34,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 229608,
+      "num": 229608,
+      "word": "上海暴雨",
+      "onboard_time": 1757761762,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229407,
@@ -955,14 +995,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 216031,
-      "num": 279724,
-      "word": "谭松韵黑天鹅",
-      "onboard_time": 1757761824,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214512,
       "num": 433762,
       "word": "方可帮迪丽热巴做的发型",
@@ -1027,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202073,
+      "num": 254005,
+      "word": "李宇春演唱会",
+      "onboard_time": 1757760804,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202039,
       "num": 202039,
       "word": "小学教资",
@@ -1043,12 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199430,
-      "num": 254005,
-      "word": "李宇春演唱会",
-      "onboard_time": 1757760804,
-      "rank": 17,
-      "category": "演出"
+      "raw_hot": 200280,
+      "num": 202869,
+      "word": "赴山海",
+      "onboard_time": 1757668403,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 199095,
@@ -1185,6 +1225,14 @@
       "onboard_time": 1757755642,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 176772,
+      "num": 176772,
+      "word": "张雅琪CFO有名分了",
+      "onboard_time": 1757762482,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 173231,
@@ -1371,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151856,
-      "num": 151856,
-      "word": "上海暴雨",
-      "onboard_time": 1757761762,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151239,
       "num": 151239,
       "word": "想吃主观题的苦",
@@ -1443,6 +1483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147603,
+      "num": 153506,
+      "word": "王俊凯被衣架攻击了",
+      "onboard_time": 1757761643,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147421,
       "num": 163991,
       "word": "老乡鸡复热预制菜仅有两道",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1757751744,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145805,
+      "num": 145805,
+      "word": "王曼昱12比10朱雨玲",
+      "onboard_time": 1757763385,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 145779,
@@ -1499,7 +1555,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143551,
+      "raw_hot": 143672,
       "num": 221863,
       "word": "金熊猫",
       "onboard_time": 1757760804,
@@ -1563,14 +1619,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 139415,
-      "num": 153506,
-      "word": "王俊凯被衣架攻击了",
-      "onboard_time": 1757761643,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139280,
       "num": 191810,
       "word": "此沙看垃圾的眼神",
@@ -1611,12 +1659,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 136540,
+      "num": 136540,
+      "word": "至少今天很快乐演唱会",
+      "onboard_time": 1757762843,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136267,
       "num": 136267,
       "word": "王楚钦4比0胜林昀儒",
       "onboard_time": 1757746103,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135255,
+      "num": 135255,
+      "word": "陈星旭一口气吃了十个生蚝",
+      "onboard_time": 1757763086,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 134473,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1757742743,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133235,
+      "num": 133235,
+      "word": "香飘飘奶茶暂停绕地球",
+      "onboard_time": 1757763385,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133159,
@@ -1665,6 +1737,14 @@
       "onboard_time": 1757737164,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131486,
+      "num": 253942,
+      "word": "娃哈哈将启用新品牌",
+      "onboard_time": 1757761762,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130891,
@@ -2403,14 +2483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88844,
-      "num": 202869,
-      "word": "赴山海",
-      "onboard_time": 1757668403,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88456,
       "num": 202802,
       "word": "桃黑黑维护粉丝",
@@ -2627,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74430,
+      "num": 144390,
+      "word": "美国夫妇遇充电求助好心开门被杀",
+      "onboard_time": 1757762603,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73261,
       "num": 202539,
       "word": "陈哲远把悲伤的事都想了一遍",
@@ -2635,20 +2715,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71375,
+      "num": 178867,
+      "word": "交警回应游客自驾撞死6匹马",
+      "onboard_time": 1757763264,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70181,
       "num": 70181,
       "word": "第五人格小女孩",
       "onboard_time": 1757722101,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68198,
-      "num": 253942,
-      "word": "娃哈哈将启用新品牌",
-      "onboard_time": 1757761762,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67730,

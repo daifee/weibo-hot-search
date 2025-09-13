@@ -1,0 +1,410 @@
+{
+  "runTime": 1757763404427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 892773,
+        "num": 1142843,
+        "word": "北京冰雹",
+        "onboard_time": 1757760204,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579082,
+        "num": 579082,
+        "word": "成毅演到第9集换号了",
+        "onboard_time": 1757761164,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48544,
+        "num": 537863,
+        "word": "服贸会",
+        "onboard_time": 1757753004,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 535359,
+        "num": 535359,
+        "word": "泡泡玛特足金产品首发遇冷",
+        "onboard_time": 1757759544,
+        "rank": 3,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 413629,
+        "num": 413629,
+        "word": "游客自驾撞死6匹马",
+        "onboard_time": 1757759963,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411299,
+        "num": 411299,
+        "word": "穆祉丞 橙粉色举起来",
+        "onboard_time": 1757762664,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387715,
+        "num": 387715,
+        "word": "北京暴雨",
+        "onboard_time": 1757760983,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387248,
+        "num": 387248,
+        "word": "法考",
+        "onboard_time": 1757753543,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359310,
+        "num": 359310,
+        "word": "餐厅预制菜需明示",
+        "onboard_time": 1757750363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346954,
+        "num": 346954,
+        "word": "谭松韵黑天鹅",
+        "onboard_time": 1757761824,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 617746,
+        "num": 343494,
+        "word": "瘦了20斤鼻子变化",
+        "onboard_time": 1757756482,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 543214,
+        "num": 311696,
+        "word": "李兰迪露背好辣",
+        "onboard_time": 1757761043,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467775,
+        "num": 286791,
+        "word": "蒋智豪确诊肺癌晚期最新发声",
+        "onboard_time": 1757750604,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393682,
+        "num": 261139,
+        "word": "喝水后几个表现说明肾不好",
+        "onboard_time": 1757758943,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256332,
+        "num": 256332,
+        "word": "KT战胜GEN",
+        "onboard_time": 1757760564,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251805,
+        "num": 251805,
+        "word": "赴山海被赐名山海关",
+        "onboard_time": 1757748504,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229608,
+        "num": 229608,
+        "word": "上海暴雨",
+        "onboard_time": 1757761762,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202073,
+        "num": 202073,
+        "word": "李宇春演唱会",
+        "onboard_time": 1757760804,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200280,
+        "num": 200280,
+        "word": "赴山海",
+        "onboard_time": 1757763145,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44330,
+        "num": 199576,
+        "word": "户外人有自己的答案之书了",
+        "onboard_time": 1757759483,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1551458,
+        "num": 196642,
+        "word": "唐嫣 我那体制内的女友",
+        "onboard_time": 1757760863,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 677176,
+        "num": 195891,
+        "word": "那英没有版权就让龚俊唱",
+        "onboard_time": 1757751144,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593061,
+        "num": 194154,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 486138,
+        "num": 192677,
+        "word": "西贝涉事门店客流比平时还多几十桌",
+        "onboard_time": 1757758222,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296686,
+        "num": 190788,
+        "word": "何秋亊 人民非遗推荐人",
+        "onboard_time": 1757762362,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215518,
+        "num": 188190,
+        "word": "王曼昱vs朱雨玲",
+        "onboard_time": 1757760444,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283278,
+        "num": 186866,
+        "word": "杨幂碎钻高定红裙",
+        "onboard_time": 1757756183,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 234162,
+        "num": 183985,
+        "word": "陈星旭你要喜欢一个本身就很好的人",
+        "onboard_time": 1757762362,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203100,
+        "num": 181660,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161559,
+        "num": 181053,
+        "word": "德甲发布樊振东励志短片",
+        "onboard_time": 1757761943,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71375,
+        "num": 178867,
+        "word": "交警回应游客自驾撞死6匹马",
+        "onboard_time": 1757763264,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177544,
+        "num": 177544,
+        "word": "美国农民绝望喊话 中国不买只能销毁",
+        "onboard_time": 1757750843,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 176772,
+        "word": "张雅琪CFO有名分了",
+        "onboard_time": 1757762482,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166943,
+        "num": 166943,
+        "word": "让卢昱晓戴帽子的人是天才",
+        "onboard_time": 1757757924,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154872,
+        "num": 154872,
+        "word": "西贝在售手工馒头3.9元一个",
+        "onboard_time": 1757757505,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153830,
+        "num": 153830,
+        "word": "T1 斗魂",
+        "onboard_time": 1757761403,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152456,
+        "num": 152456,
+        "word": "武契奇回应被中国网友叫577",
+        "onboard_time": 1757754683,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147603,
+        "num": 147603,
+        "word": "王俊凯被衣架攻击了",
+        "onboard_time": 1757761643,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145805,
+        "num": 145805,
+        "word": "王曼昱12比10朱雨玲",
+        "onboard_time": 1757763385,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74430,
+        "num": 144390,
+        "word": "美国夫妇遇充电求助好心开门被杀",
+        "onboard_time": 1757762603,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143755,
+        "num": 143755,
+        "word": "预制菜国标草案过审",
+        "onboard_time": 1757750004,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143672,
+        "num": 143672,
+        "word": "金熊猫",
+        "onboard_time": 1757760804,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143016,
+        "num": 143016,
+        "word": "卢昱晓周峻纬咋认识的",
+        "onboard_time": 1757761043,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136540,
+        "num": 136540,
+        "word": "至少今天很快乐演唱会",
+        "onboard_time": 1757762843,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135255,
+        "num": 135255,
+        "word": "陈星旭一口气吃了十个生蚝",
+        "onboard_time": 1757763086,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131486,
+        "num": 134183,
+        "word": "娃哈哈将启用新品牌",
+        "onboard_time": 1757761762,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133235,
+        "num": 133235,
+        "word": "香飘飘奶茶暂停绕地球",
+        "onboard_time": 1757763385,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132611,
+        "num": 132611,
+        "word": "教资科三",
+        "onboard_time": 1757758642,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130421,
+        "num": 130421,
+        "word": "罗永浩回应餐厅预制菜强制披露",
+        "onboard_time": 1757754324,
+        "rank": 48,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 127606,
+        "num": 127606,
+        "word": "胡锡进建议西贝及时止损",
+        "onboard_time": 1757761403,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}
