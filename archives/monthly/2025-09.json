@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757768263134,
+  "endTime": 1757769951544,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3395,6 +3395,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 770870,
+      "num": 770870,
+      "word": "中方将采取必要措施",
+      "onboard_time": 1757764765,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 770499,
       "num": 662786,
       "word": "俄罗斯阅兵抓日本战俘游街",
@@ -5211,14 +5219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 555808,
-      "num": 555808,
-      "word": "中方将采取必要措施",
-      "onboard_time": 1757764765,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 553073,
       "num": 553073,
       "word": "原来和平鸽是这么被选上的",
@@ -5457,6 +5457,14 @@
       "onboard_time": 1757502202,
       "rank": 16,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 539139,
+      "num": 539139,
+      "word": "杨幂直播",
+      "onboard_time": 1757766925,
+      "rank": 43,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 538503,
@@ -5811,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 507075,
+      "num": 335082,
+      "word": "刘隽编舞vlog",
+      "onboard_time": 1757768304,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506622,
       "num": 1144240,
       "word": "花中国的钱插刀中国绝不容忍",
@@ -5977,6 +5993,14 @@
       "onboard_time": 1757682266,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 494925,
+      "num": 296650,
+      "word": "李宇春直播",
+      "onboard_time": 1757768184,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 494883,
@@ -6804,7 +6828,7 @@
     },
     {
       "raw_hot": 446619,
-      "num": 446619,
+      "num": 860647,
       "word": "九三阅兵式上唯一一面空军战旗",
       "onboard_time": 1757733204,
       "rank": 34,
@@ -9137,6 +9161,14 @@
       "onboard_time": 1757238441,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337756,
+      "num": 337756,
+      "word": "孙颖莎vs迪亚兹",
+      "onboard_time": 1757766807,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 337650,
@@ -11683,14 +11715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 249185,
-      "num": 249185,
-      "word": "杨幂直播",
-      "onboard_time": 1757766925,
-      "rank": 43,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 248996,
       "num": 248996,
       "word": "韩德君退役",
@@ -11809,14 +11833,6 @@
       "onboard_time": 1756990883,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 245010,
-      "num": 245010,
-      "word": "孙颖莎vs迪亚兹",
-      "onboard_time": 1757766807,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 244849,
@@ -12249,6 +12265,14 @@
       "onboard_time": 1757558362,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236033,
+      "num": 236033,
+      "word": "西贝一门店厨师长没有厨师证",
+      "onboard_time": 1757768125,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235736,
@@ -12833,6 +12857,14 @@
       "onboard_time": 1757228182,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224224,
+      "num": 224224,
+      "word": "孙颖莎10比12迪亚兹",
+      "onboard_time": 1757769085,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 223734,
@@ -15107,6 +15139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 194613,
+      "num": 194613,
+      "word": "金晨衣服基础穿起来就不基础",
+      "onboard_time": 1757769564,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194598,
       "num": 194598,
       "word": "巴基斯坦总理参观安贞医院",
@@ -15201,14 +15241,6 @@
       "onboard_time": 1757680526,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194035,
-      "num": 194035,
-      "word": "李宇春直播",
-      "onboard_time": 1757768184,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 193969,
@@ -15825,6 +15857,14 @@
       "onboard_time": 1757414122,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189451,
+      "num": 189451,
+      "word": "石凯直播",
+      "onboard_time": 1757768425,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 189371,
@@ -19835,6 +19875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157157,
+      "num": 157157,
+      "word": "蔡徐坤一出场哇声一片",
+      "onboard_time": 1757769744,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157149,
       "num": 157149,
       "word": "女兵说胆敢挑衅那你来试试",
@@ -20363,6 +20411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153748,
+      "num": 153748,
+      "word": "王琳说妈妈打她打到17岁",
+      "onboard_time": 1757767766,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153537,
       "num": 153537,
       "word": "林允旗袍",
@@ -20377,6 +20433,14 @@
       "onboard_time": 1757662225,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 153493,
+      "num": 153493,
+      "word": "周深今日大莲花主理人",
+      "onboard_time": 1757768724,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 153446,
@@ -21251,6 +21315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148721,
+      "num": 157428,
+      "word": "女子表演与蟒蛇亲嘴被咬血流不止",
+      "onboard_time": 1757768965,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148693,
       "num": 148693,
       "word": "王源 师从闫妮",
@@ -21345,6 +21417,14 @@
       "onboard_time": 1756965082,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148100,
+      "num": 148100,
+      "word": "宋亚轩当前台给穆祉丞寄快递",
+      "onboard_time": 1757769625,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 148093,
@@ -21827,14 +21907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145689,
-      "num": 145689,
-      "word": "西贝一门店厨师长没有厨师证",
-      "onboard_time": 1757768125,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145688,
       "num": 193760,
       "word": "董璇你来看看什么叫真感情",
@@ -22307,6 +22379,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 143324,
+      "num": 143324,
+      "word": "美方此时对中企制裁意欲何为",
+      "onboard_time": 1757769085,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143259,
       "num": 166126,
       "word": "全世界都从龚俊的亲吻鲨鱼路过",
@@ -22771,6 +22851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140616,
+      "num": 140616,
+      "word": "韩庚演唱会",
+      "onboard_time": 1757769506,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140505,
       "num": 140505,
       "word": "iPhone17系列国行电池容量缩水",
@@ -22945,6 +23033,14 @@
       "onboard_time": 1756814961,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139872,
+      "num": 139872,
+      "word": "KT晋级S15",
+      "onboard_time": 1757769025,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 139839,
@@ -24393,6 +24489,14 @@
       "onboard_time": 1757424863,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133239,
+      "num": 159169,
+      "word": "3名大学生用自来水诈骗60万",
+      "onboard_time": 1757768904,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 133190,
@@ -37347,6 +37451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60928,
+      "num": 193235,
+      "word": "00后退伍返家仅4小时就救了一楼人",
+      "onboard_time": 1757768483,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 60877,
       "num": 77026,
       "word": "阅兵前最新训练现场",
@@ -40929,6 +41041,14 @@
       "onboard_time": 1757190374,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20083,
+      "num": 276806,
+      "word": "讨论预制菜的时候我们在关心什么",
+      "onboard_time": 1757769684,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20076,
