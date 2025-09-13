@@ -1,0 +1,410 @@
+{
+  "runTime": 1757748991411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 870788,
+        "num": 1139326,
+        "word": "泡泡玛特新品发售仅10人排队",
+        "onboard_time": 1757744363,
+        "rank": 0,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 450347,
+        "num": 450347,
+        "word": "金价",
+        "onboard_time": 1757745863,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29977,
+        "num": 413584,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757735963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508143,
+        "num": 408066,
+        "word": "徐艺洋自曝婚礼将不请伴郎伴娘",
+        "onboard_time": 1757742204,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395641,
+        "num": 395641,
+        "word": "教资科二",
+        "onboard_time": 1757746403,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1027267,
+        "num": 390093,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384020,
+        "num": 384020,
+        "word": "微信转账和发红包的区别",
+        "onboard_time": 1757745444,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331986,
+        "num": 331986,
+        "word": "美国人成批逃离本国",
+        "onboard_time": 1757741004,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325397,
+        "num": 325397,
+        "word": "馒头减肥法",
+        "onboard_time": 1757745565,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312257,
+        "num": 312257,
+        "word": "迅猛龙复旦入学考试成绩",
+        "onboard_time": 1757736023,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 792531,
+        "num": 311787,
+        "word": "张维伊冲董璇喊",
+        "onboard_time": 1757744005,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310104,
+        "num": 310104,
+        "word": "老乡鸡微博置顶回应了预制菜",
+        "onboard_time": 1757730924,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335853,
+        "num": 295297,
+        "word": "谢娜为女儿剪掉长发",
+        "onboard_time": 1757741605,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267611,
+        "num": 267611,
+        "word": "杨幂回复了祝绪丹",
+        "onboard_time": 1757724262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265919,
+        "num": 265919,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1757745503,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262760,
+        "num": 262760,
+        "word": "转账付款竟然是可以拦截的",
+        "onboard_time": 1757736922,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 238238,
+        "num": 238238,
+        "word": "董璇理解了为什么办婚礼能分手",
+        "onboard_time": 1757740763,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174349,
+        "num": 174349,
+        "word": "99年从月薪5千到5.5万的真实感受",
+        "onboard_time": 1757734944,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173174,
+        "num": 173174,
+        "word": "赴山海被赐名山海关",
+        "onboard_time": 1757748504,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171883,
+        "num": 171883,
+        "word": "教资科二答案",
+        "onboard_time": 1757747784,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 774577,
+        "num": 169999,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 306286,
+        "num": 168911,
+        "word": "西贝回应称21元一个馒头早不卖了",
+        "onboard_time": 1757742323,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192992,
+        "num": 166789,
+        "word": "西贝冷冻蔬菜被误会了",
+        "onboard_time": 1757733682,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161901,
+        "num": 161901,
+        "word": "血糖失控的7个皮肤症状",
+        "onboard_time": 1757744303,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149183,
+        "num": 149183,
+        "word": "花少穆穆导游好会讲",
+        "onboard_time": 1757748204,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144687,
+        "num": 144687,
+        "word": "offer7第一期就淘汰清华学霸",
+        "onboard_time": 1757741724,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127571,
+        "num": 144677,
+        "word": "梁王组合晋级决赛",
+        "onboard_time": 1757748624,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118111,
+        "num": 144672,
+        "word": "陈乔恩说自己瘦了一圈",
+        "onboard_time": 1757744784,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144672,
+        "num": 144671,
+        "word": "米哈游公司回应原神角色着装暴露",
+        "onboard_time": 1757744303,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30550,
+        "num": 143946,
+        "word": "林诗栋vs林德",
+        "onboard_time": 1757748443,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143621,
+        "num": 143621,
+        "word": "多名网友看到不明飞行物被击落",
+        "onboard_time": 1757740404,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123408,
+        "num": 123408,
+        "word": "老乡鸡复热预制菜仅有两道",
+        "onboard_time": 1757743582,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110267,
+        "num": 122443,
+        "word": "左奇函 Classbegin",
+        "onboard_time": 1757747784,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121672,
+        "num": 121672,
+        "word": "湖南师大被曝霉菌宿舍后连夜装修",
+        "onboard_time": 1757742623,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116889,
+        "num": 116889,
+        "word": "罗永浩回应西贝品牌负责人",
+        "onboard_time": 1757732302,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 111307,
+        "num": 111307,
+        "word": "跟任何人相处都大大方方的秘诀",
+        "onboard_time": 1757747724,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109342,
+        "num": 109342,
+        "word": "韩国警方限制明洞反华集会",
+        "onboard_time": 1757747604,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108353,
+        "num": 108353,
+        "word": "教资科二 简单",
+        "onboard_time": 1757748383,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105866,
+        "num": 105866,
+        "word": "梁伟铿王昶2比0李芳至李芳任",
+        "onboard_time": 1757747424,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40388,
+        "num": 103295,
+        "word": "喜单2翟佳宁回应夺冠质疑",
+        "onboard_time": 1757748323,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41047,
+        "num": 103132,
+        "word": "为什么预制菜会越来越多",
+        "onboard_time": 1757748504,
+        "rank": 40,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 103113,
+        "num": 103113,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1757741964,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100629,
+        "num": 100629,
+        "word": "王楚钦说林昀儒每年都有进步",
+        "onboard_time": 1757748563,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100346,
+        "num": 100346,
+        "word": "iPhone发朋友圈的高级玩法",
+        "onboard_time": 1757744185,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101394,
+        "num": 100291,
+        "word": "翟佳宁喜单2总冠军",
+        "onboard_time": 1757739623,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100120,
+        "num": 100120,
+        "word": "汪苏泷演唱会cue你好星期六",
+        "onboard_time": 1757746643,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98920,
+        "num": 98920,
+        "word": "女子立遗嘱防失踪丈夫归来争产",
+        "onboard_time": 1757745804,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97929,
+        "num": 97929,
+        "word": "央视曝光直播卖文物猫腻",
+        "onboard_time": 1757744963,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89891,
+        "num": 89891,
+        "word": "蒯曼晋级澳门赛四强",
+        "onboard_time": 1757748922,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85489,
+        "num": 85489,
+        "word": "散人直播逐渐被魏王攻略",
+        "onboard_time": 1757748922,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}

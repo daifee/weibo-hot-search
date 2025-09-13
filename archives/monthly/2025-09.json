@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757748057979,
+  "endTime": 1757748991411,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2676,7 +2676,7 @@
     },
     {
       "raw_hot": 880562,
-      "num": 399369,
+      "num": 450347,
       "word": "金价",
       "onboard_time": 1756694961,
       "rank": 21,
@@ -2737,6 +2737,14 @@
       "onboard_time": 1757492782,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 870788,
+      "num": 1139326,
+      "word": "泡泡玛特新品发售仅10人排队",
+      "onboard_time": 1757744363,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 870725,
@@ -2940,7 +2948,7 @@
     },
     {
       "raw_hot": 844809,
-      "num": 304297,
+      "num": 311787,
       "word": "张维伊冲董璇喊",
       "onboard_time": 1757744005,
       "rank": 12,
@@ -3649,14 +3657,6 @@
       "onboard_time": 1757566607,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 724468,
-      "num": 1115915,
-      "word": "泡泡玛特新品发售仅10人排队",
-      "onboard_time": 1757744363,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 723635,
@@ -7204,7 +7204,7 @@
     },
     {
       "raw_hot": 411984,
-      "num": 165376,
+      "num": 168911,
       "word": "西贝回应称21元一个馒头早不卖了",
       "onboard_time": 1757742323,
       "rank": 21,
@@ -7489,6 +7489,14 @@
       "onboard_time": 1757674225,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395641,
+      "num": 395641,
+      "word": "教资科二",
+      "onboard_time": 1757746403,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 395486,
@@ -7787,6 +7795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384020,
+      "num": 384020,
+      "word": "微信转账和发红包的区别",
+      "onboard_time": 1757745444,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 383778,
       "num": 253694,
       "word": "3架备份机临近天安门前默默返航",
@@ -7953,14 +7969,6 @@
       "onboard_time": 1757683707,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 377114,
-      "num": 377114,
-      "word": "教资科二",
-      "onboard_time": 1757746403,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 377105,
@@ -9217,6 +9225,14 @@
       "onboard_time": 1757389642,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325397,
+      "num": 325397,
+      "word": "馒头减肥法",
+      "onboard_time": 1757745565,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 325338,
@@ -10769,14 +10785,6 @@
       "onboard_time": 1757570024,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 271435,
-      "num": 271435,
-      "word": "微信转账和发红包的区别",
-      "onboard_time": 1757745444,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 271338,
@@ -13939,14 +13947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201587,
-      "num": 201587,
-      "word": "馒头减肥法",
-      "onboard_time": 1757745565,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 201429,
       "num": 201429,
       "word": "九三阅兵纪念短片",
@@ -17035,6 +17035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 173174,
+      "num": 173174,
+      "word": "赴山海被赐名山海关",
+      "onboard_time": 1757748504,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173163,
       "num": 173163,
       "word": "王钰栋独造7球",
@@ -17201,6 +17209,14 @@
       "onboard_time": 1757477423,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 171883,
+      "num": 171883,
+      "word": "教资科二答案",
+      "onboard_time": 1757747784,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 171812,
@@ -20467,6 +20483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 149183,
+      "num": 149183,
+      "word": "花少穆穆导游好会讲",
+      "onboard_time": 1757748204,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149151,
       "num": 149151,
       "word": "同居生子分手男方不认孩子",
@@ -21345,6 +21369,14 @@
       "onboard_time": 1757395342,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144672,
+      "num": 144671,
+      "word": "米哈游公司回应原神角色着装暴露",
+      "onboard_time": 1757744303,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 144599,
@@ -23723,14 +23755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132275,
-      "num": 132275,
-      "word": "教资科二答案",
-      "onboard_time": 1757747784,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 132253,
       "num": 132253,
       "word": "长夜行",
@@ -24763,6 +24787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127571,
+      "num": 144677,
+      "word": "梁王组合晋级决赛",
+      "onboard_time": 1757748624,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127544,
       "num": 184361,
       "word": "子夜归番外",
@@ -25305,14 +25337,6 @@
       "onboard_time": 1756980682,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124847,
-      "num": 124847,
-      "word": "米哈游公司回应原神角色着装暴露",
-      "onboard_time": 1757744303,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 124836,
@@ -26001,6 +26025,14 @@
       "onboard_time": 1757019854,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121672,
+      "num": 121672,
+      "word": "湖南师大被曝霉菌宿舍后连夜装修",
+      "onboard_time": 1757742623,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121643,
@@ -26721,6 +26753,14 @@
       "onboard_time": 1757737405,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118111,
+      "num": 144672,
+      "word": "陈乔恩说自己瘦了一圈",
+      "onboard_time": 1757744784,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 118100,
@@ -28267,6 +28307,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 111307,
+      "num": 111307,
+      "word": "跟任何人相处都大大方方的秘诀",
+      "onboard_time": 1757747724,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111279,
       "num": 1412325,
       "word": "不让历史悲剧重演",
@@ -28547,6 +28595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110267,
+      "num": 122443,
+      "word": "左奇函 Classbegin",
+      "onboard_time": 1757747784,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110229,
       "num": 130801,
       "word": "欧阳娣娣不选对的只选帅的",
@@ -28763,6 +28819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109342,
+      "num": 154218,
+      "word": "韩国警方限制明洞反华集会",
+      "onboard_time": 1757747604,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109320,
       "num": 109320,
       "word": "杨博文又在飞机上写作业",
@@ -28939,14 +29003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108563,
-      "num": 137779,
-      "word": "陈乔恩说自己瘦了一圈",
-      "onboard_time": 1757744784,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108558,
       "num": 108558,
       "word": "这不就是当年上课转笔那批人",
@@ -29041,6 +29097,14 @@
       "onboard_time": 1757393123,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108353,
+      "num": 108353,
+      "word": "教资科二 简单",
+      "onboard_time": 1757748383,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 108242,
@@ -29875,14 +29939,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 104547,
-      "num": 104547,
-      "word": "湖南师大被曝霉菌宿舍后连夜装修",
-      "onboard_time": 1757742623,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104447,
       "num": 104447,
       "word": "义乌速度堪比东风",
@@ -30619,6 +30675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100629,
+      "num": 100629,
+      "word": "王楚钦说林昀儒每年都有进步",
+      "onboard_time": 1757748563,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100607,
       "num": 101209,
       "word": "这身挂件摔地上能开个两元店",
@@ -30995,6 +31059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98920,
+      "num": 100217,
+      "word": "女子立遗嘱防失踪丈夫归来争产",
+      "onboard_time": 1757745804,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98864,
       "num": 117485,
       "word": "当你报考到很偏僻的学校",
@@ -31363,14 +31435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97217,
-      "num": 100217,
-      "word": "女子立遗嘱防失踪丈夫归来争产",
-      "onboard_time": 1757745804,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97204,
       "num": 97204,
       "word": "字节8人涉嫌刑事犯罪被移交司法",
@@ -31675,14 +31739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95980,
-      "num": 95980,
-      "word": "左奇函 Classbegin",
-      "onboard_time": 1757747784,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95948,
       "num": 95948,
       "word": "TES好强",
@@ -31945,14 +32001,6 @@
       "onboard_time": 1756966343,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94539,
-      "num": 94539,
-      "word": "跟任何人相处都大大方方的秘诀",
-      "onboard_time": 1757747724,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 94525,
@@ -32625,6 +32673,14 @@
       "onboard_time": 1757322563,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89891,
+      "num": 89891,
+      "word": "蒯曼晋级澳门赛四强",
+      "onboard_time": 1757748922,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 89828,
@@ -33361,6 +33417,14 @@
       "onboard_time": 1756698624,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85489,
+      "num": 85489,
+      "word": "散人直播逐渐被魏王攻略",
+      "onboard_time": 1757748922,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 85375,
@@ -37115,14 +37179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52145,
-      "num": 154218,
-      "word": "韩国警方限制明洞反华集会",
-      "onboard_time": 1757747604,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52089,
       "num": 122416,
       "word": "大猪蹄子博物馆",
@@ -38091,6 +38147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41047,
+      "num": 103132,
+      "word": "为什么预制菜会越来越多",
+      "onboard_time": 1757748504,
+      "rank": 40,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 40943,
       "num": 157871,
       "word": "茅台配板面套餐售价46元",
@@ -38137,6 +38201,14 @@
       "onboard_time": 1757480488,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 40388,
+      "num": 103295,
+      "word": "喜单2翟佳宁回应夺冠质疑",
+      "onboard_time": 1757748323,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 40160,
@@ -38937,6 +39009,14 @@
       "onboard_time": 1756984702,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30550,
+      "num": 143946,
+      "word": "林诗栋vs林德",
+      "onboard_time": 1757748443,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 30357,
