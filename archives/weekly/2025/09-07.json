@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757737682882,
+  "endTime": 1757738438429,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -265,6 +265,14 @@
       "onboard_time": 1757286739,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2347334,
+      "num": 696323,
+      "word": "李一桐退圈了",
+      "onboard_time": 1757737164,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2309654,
@@ -787,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1261517,
+      "num": 754378,
+      "word": "迅猛龙复旦入学考试成绩",
+      "onboard_time": 1757736023,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1255093,
       "num": 463852,
       "word": "辛芷蕾的影后是全票通过",
@@ -977,14 +993,6 @@
       "onboard_time": 1757301623,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1111759,
-      "num": 754378,
-      "word": "迅猛龙复旦入学考试成绩",
-      "onboard_time": 1757736023,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1107998,
@@ -1947,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 696323,
-      "num": 696323,
-      "word": "李一桐退圈了",
-      "onboard_time": 1757737164,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 696138,
       "num": 696138,
       "word": "西贝儿童餐",
@@ -2563,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574142,
+      "num": 349150,
+      "word": "99年从月薪5千到5.5万的真实感受",
+      "onboard_time": 1757734944,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 573890,
       "num": 524544,
       "word": "卡塔尔",
@@ -2577,14 +2585,6 @@
       "onboard_time": 1757657426,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 570917,
-      "num": 349150,
-      "word": "99年从月薪5千到5.5万的真实感受",
-      "onboard_time": 1757734944,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 568849,
@@ -3299,6 +3299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 446619,
+      "num": 446619,
+      "word": "九三阅兵式上唯一一面空军战旗",
+      "onboard_time": 1757733204,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 445597,
       "num": 445597,
       "word": "男子花2万以为拍下玛莎拉蒂",
@@ -3801,14 +3809,6 @@
       "onboard_time": 1757294001,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396095,
-      "num": 396095,
-      "word": "九三阅兵式上唯一一面空军战旗",
-      "onboard_time": 1757733204,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 395641,
@@ -5771,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254235,
+      "num": 254235,
+      "word": "警方通报女子被陌生男子摸头辱骂",
+      "onboard_time": 1757734165,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 253584,
       "num": 253584,
       "word": "敖瑞鹏孙珍妮海报",
@@ -6147,20 +6155,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 231231,
+      "num": 228311,
+      "word": "罗永浩谈行业人一边倒声援西贝",
+      "onboard_time": 1757734404,
+      "rank": 34,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 231097,
       "num": 360385,
       "word": "男子55万买房2年后才发现是凶宅",
       "onboard_time": 1757254584,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230952,
-      "num": 228311,
-      "word": "罗永浩谈行业人一边倒声援西贝",
-      "onboard_time": 1757734404,
-      "rank": 34,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 230408,
@@ -6225,14 +6233,6 @@
       "onboard_time": 1757510422,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228968,
-      "num": 228968,
-      "word": "警方通报女子被陌生男子摸头辱骂",
-      "onboard_time": 1757734165,
-      "rank": 37,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 228928,
@@ -7001,6 +7001,14 @@
       "onboard_time": 1757330005,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206009,
+      "num": 206009,
+      "word": "转账付款竟然是可以拦截的",
+      "onboard_time": 1757736922,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 205870,
@@ -10043,14 +10051,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 162782,
-      "num": 162782,
-      "word": "转账付款竟然是可以拦截的",
-      "onboard_time": 1757736922,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 162761,
       "num": 162761,
       "word": "孙俪在菜市场捡了一只狗",
@@ -10817,6 +10817,14 @@
       "onboard_time": 1757664923,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 153004,
+      "num": 153004,
+      "word": "鲍蕾说陆毅太瘦会被他帅哭",
+      "onboard_time": 1757737704,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 152997,
@@ -12067,6 +12075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141263,
+      "num": 241151,
+      "word": "江宁婆婆谈西贝公关",
+      "onboard_time": 1757733383,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140940,
       "num": 162073,
       "word": "刘思远 律师版杨天真",
@@ -12971,6 +12987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134424,
+      "num": 134424,
+      "word": "无锡蛋糕店老板称胜诉1年未获道歉",
+      "onboard_time": 1757737164,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134367,
       "num": 167101,
       "word": "王一博真的来贵州了",
@@ -13705,14 +13729,6 @@
       "onboard_time": 1757655326,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128539,
-      "num": 241151,
-      "word": "江宁婆婆谈西贝公关",
-      "onboard_time": 1757733383,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128448,
@@ -15603,6 +15619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113606,
+      "num": 113606,
+      "word": "小米法务部维权进展",
+      "onboard_time": 1757736023,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113568,
       "num": 113568,
       "word": "郑州及周边成暴雨大暴雨核心区",
@@ -16227,6 +16251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109194,
+      "num": 109194,
+      "word": "自驾游5年坚持不下去了",
+      "onboard_time": 1757738368,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109132,
       "num": 109132,
       "word": "WTT",
@@ -16321,6 +16353,14 @@
       "onboard_time": 1757660186,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108526,
+      "num": 108526,
+      "word": "法考 拜獬豸",
+      "onboard_time": 1757735662,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 108506,
@@ -20297,6 +20337,14 @@
       "onboard_time": 1757374521,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51968,
+      "num": 214319,
+      "word": "无声的礼步看哭了",
+      "onboard_time": 1757736805,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51847,

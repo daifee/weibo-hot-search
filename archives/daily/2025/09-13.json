@@ -1,7 +1,15 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757737682882,
+  "endTime": 1757738438429,
   "band_list": [
+    {
+      "raw_hot": 2347334,
+      "num": 696323,
+      "word": "李一桐退圈了",
+      "onboard_time": 1757737164,
+      "rank": 6,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2057269,
       "num": 2057269,
@@ -35,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261517,
+      "num": 754378,
+      "word": "迅猛龙复旦入学考试成绩",
+      "onboard_time": 1757736023,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1198352,
       "num": 1198352,
       "word": "老乡鸡微博置顶回应了预制菜",
       "onboard_time": 1757730924,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1111759,
-      "num": 754378,
-      "word": "迅猛龙复旦入学考试成绩",
-      "onboard_time": 1757736023,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1092422,
@@ -123,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 696323,
-      "num": 696323,
-      "word": "李一桐退圈了",
-      "onboard_time": 1757737164,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 683939,
       "num": 357995,
       "word": "男子胃癌去世把房子留给非亲生女儿",
@@ -171,7 +171,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 570917,
+      "raw_hot": 574142,
       "num": 349150,
       "word": "99年从月薪5千到5.5万的真实感受",
       "onboard_time": 1757734944,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446619,
+      "num": 446619,
+      "word": "九三阅兵式上唯一一面空军战旗",
+      "onboard_time": 1757733204,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 421135,
       "num": 421135,
       "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
@@ -233,14 +241,6 @@
       "onboard_time": 1757686825,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 396095,
-      "num": 396095,
-      "word": "九三阅兵式上唯一一面空军战旗",
-      "onboard_time": 1757733204,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 374835,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254235,
+      "num": 254235,
+      "word": "警方通报女子被陌生男子摸头辱骂",
+      "onboard_time": 1757734165,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 252591,
       "num": 188843,
       "word": "建议年轻人不要长期当服务员",
@@ -459,7 +467,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 230952,
+      "raw_hot": 231231,
       "num": 228311,
       "word": "罗永浩谈行业人一边倒声援西贝",
       "onboard_time": 1757734404,
@@ -473,14 +481,6 @@
       "onboard_time": 1757734224,
       "rank": 36,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 228968,
-      "num": 228968,
-      "word": "警方通报女子被陌生男子摸头辱骂",
-      "onboard_time": 1757734165,
-      "rank": 37,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 228928,
@@ -561,6 +561,14 @@
       "onboard_time": 1757683107,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206009,
+      "num": 206009,
+      "word": "转账付款竟然是可以拦截的",
+      "onboard_time": 1757736922,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202039,
@@ -667,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162782,
-      "num": 162782,
-      "word": "转账付款竟然是可以拦截的",
-      "onboard_time": 1757736922,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 162273,
       "num": 353591,
       "word": "鸣枪12响致敬志愿军烈士",
@@ -712,6 +712,14 @@
       "word": "李沁被孜然腌入味了",
       "onboard_time": 1757734343,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153004,
+      "num": 153004,
+      "word": "鲍蕾说陆毅太瘦会被他帅哭",
+      "onboard_time": 1757737704,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -763,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141263,
+      "num": 241151,
+      "word": "江宁婆婆谈西贝公关",
+      "onboard_time": 1757733383,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140815,
       "num": 193040,
       "word": "漆漆说难怪有那么多人爱庞博",
@@ -801,6 +817,14 @@
       "onboard_time": 1757737103,
       "rank": 43,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 134424,
+      "num": 134424,
+      "word": "无锡蛋糕店老板称胜诉1年未获道歉",
+      "onboard_time": 1757737164,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132525,
@@ -857,14 +881,6 @@
       "onboard_time": 1757731404,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128539,
-      "num": 241151,
-      "word": "江宁婆婆谈西贝公关",
-      "onboard_time": 1757733383,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125706,
@@ -963,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113606,
+      "num": 113606,
+      "word": "小米法务部维权进展",
+      "onboard_time": 1757736023,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112345,
       "num": 203313,
       "word": "王橹杰穆祉丞穿了同款",
@@ -995,12 +1019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109194,
+      "num": 109194,
+      "word": "自驾游5年坚持不下去了",
+      "onboard_time": 1757738368,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109127,
       "num": 109127,
       "word": "财神节",
       "onboard_time": 1757729363,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108526,
+      "num": 108526,
+      "word": "法考 拜獬豸",
+      "onboard_time": 1757735662,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 108439,
@@ -1297,6 +1337,14 @@
       "onboard_time": 1757734043,
       "rank": 37,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 51968,
+      "num": 214319,
+      "word": "无声的礼步看哭了",
+      "onboard_time": 1757736805,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50556,
