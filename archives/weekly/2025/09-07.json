@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757720195953,
+  "endTime": 1757727727485,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -505,6 +505,14 @@
       "onboard_time": 1757679443,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1603957,
+      "num": 269555,
+      "word": "杨幂回复了祝绪丹",
+      "onboard_time": 1757724262,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1601918,
@@ -1019,6 +1027,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1059272,
+      "num": 150382,
+      "word": "西贝线下门店店长发声",
+      "onboard_time": 1757724501,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1041749,
       "num": 457351,
       "word": "Metal 田栩宁",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1757423663,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 934112,
+      "num": 1149458,
+      "word": "卡塔尔感谢中国正义发声",
+      "onboard_time": 1757724440,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 928701,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1757245280,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 753063,
+      "num": 149513,
+      "word": "西贝 罗永浩",
+      "onboard_time": 1757722641,
+      "rank": 22,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 751598,
@@ -2203,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 619952,
+      "num": 214701,
+      "word": "杨幂回复吴宣仪",
+      "onboard_time": 1757724982,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619295,
       "num": 902525,
       "word": "暗杀柯克的凶手确认身份",
@@ -2377,6 +2417,14 @@
       "onboard_time": 1757684847,
       "rank": 6,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 584730,
+      "num": 584730,
+      "word": "卡塔尔感谢中国为中东注入和平能量",
+      "onboard_time": 1757721561,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 584643,
@@ -2643,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 528925,
+      "num": 528925,
+      "word": "迪丽热巴迪奥大使合影站C",
+      "onboard_time": 1757724320,
+      "rank": 3,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 524459,
       "num": 437832,
       "word": "张晚意李沁嫂子开门我是我哥",
@@ -2872,6 +2928,14 @@
       "word": "研究生多到宿舍不够住",
       "onboard_time": 1757602053,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486866,
+      "num": 486866,
+      "word": "于东来删除力挺西贝言论",
+      "onboard_time": 1757725702,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -4531,6 +4595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324103,
+      "num": 269581,
+      "word": "西贝厨师称速冻油炸茄子是外卖款",
+      "onboard_time": 1757725882,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323497,
       "num": 496204,
       "word": "江西南丰县发生交通事故致5死",
@@ -4697,6 +4769,14 @@
       "onboard_time": 1757373080,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 312900,
+      "num": 312900,
+      "word": "赴山海云包场滞销",
+      "onboard_time": 1757724262,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 312101,
@@ -5355,6 +5435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269447,
+      "num": 269447,
+      "word": "中央厨房制作不纳入预制菜",
+      "onboard_time": 1757685687,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267601,
       "num": 263252,
       "word": "李一桐录节目痛到捂肚子",
@@ -5476,7 +5564,7 @@
     },
     {
       "raw_hot": 257525,
-      "num": 203454,
+      "num": 219583,
       "word": "美英军舰过航台湾海峡并滋扰挑衅",
       "onboard_time": 1757691625,
       "rank": 30,
@@ -5529,6 +5617,14 @@
       "onboard_time": 1757554762,
       "rank": 29,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 252591,
+      "num": 147446,
+      "word": "建议年轻人不要长期当服务员",
+      "onboard_time": 1757720179,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 252232,
@@ -5811,14 +5907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 234150,
-      "num": 234150,
-      "word": "中央厨房制作不纳入预制菜",
-      "onboard_time": 1757685687,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233889,
       "num": 233889,
       "word": "肖战同款焖猪蹄订单量翻番",
@@ -5857,6 +5945,14 @@
       "onboard_time": 1757385082,
       "rank": 16,
       "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 232248,
+      "num": 232248,
+      "word": "iPhone17全系已排至10月",
+      "onboard_time": 1757719638,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 231097,
@@ -7835,6 +7931,14 @@
       "category": "剧集,音乐"
     },
     {
+      "raw_hot": 188400,
+      "num": 146243,
+      "word": "3种面包其实是热量炸弹",
+      "onboard_time": 1757721440,
+      "rank": 26,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 188093,
       "num": 289891,
       "word": "你好星期六",
@@ -8961,6 +9065,14 @@
       "onboard_time": 1757683707,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170499,
+      "num": 129451,
+      "word": "美国女孩怀念16年前在中国买咖啡",
+      "onboard_time": 1757727501,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 170453,
@@ -10248,6 +10360,14 @@
       "word": "赴山海莲花楼联动",
       "onboard_time": 1757408363,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153296,
+      "num": 153296,
+      "word": "赴山海8旬老太跑的真快",
+      "onboard_time": 1757726062,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -11619,6 +11739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140203,
+      "num": 140203,
+      "word": "男子胃癌去世把房子留给非亲生女儿",
+      "onboard_time": 1757726542,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140186,
       "num": 140186,
       "word": "石平卖主求荣只会自食恶果",
@@ -12233,6 +12361,14 @@
       "onboard_time": 1757649027,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135512,
+      "num": 269655,
+      "word": "烈士遗骸安葬仪式",
+      "onboard_time": 1757724501,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135480,
@@ -13363,6 +13499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126305,
+      "num": 126305,
+      "word": "现役军人暴雨中跳河救人不幸牺牲",
+      "onboard_time": 1757725281,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126236,
       "num": 238506,
       "word": "武艺为了付辛博快点结婚吧",
@@ -13987,6 +14131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121755,
+      "num": 121755,
+      "word": "贾国龙称生意不做了也要刚到底",
+      "onboard_time": 1757727621,
+      "rank": 32,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 121643,
       "num": 121643,
       "word": "刘宇宁说造谣恶心至极",
@@ -14065,6 +14217,14 @@
       "onboard_time": 1757211141,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121032,
+      "num": 121032,
+      "word": "多国支持两国方案",
+      "onboard_time": 1757727501,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120928,
@@ -15124,7 +15284,7 @@
     },
     {
       "raw_hot": 111830,
-      "num": 89631,
+      "num": 104735,
       "word": "女明星助理怎么会谁当都一样",
       "onboard_time": 1757697740,
       "rank": 32,
@@ -15265,6 +15425,14 @@
       "onboard_time": 1757690125,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111061,
+      "num": 111061,
+      "word": "60岁母亲被14岁少年驾车撞亡",
+      "onboard_time": 1757722881,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110990,
@@ -15787,6 +15955,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107057,
+      "num": 185718,
+      "word": "iPhone17女生模式",
+      "onboard_time": 1757679746,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107054,
       "num": 198626,
       "word": "风吹稻田我们又想念您了",
@@ -15905,6 +16081,14 @@
       "onboard_time": 1757323343,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106216,
+      "num": 106216,
+      "word": "山东一学校部分师生腹痛呕吐",
+      "onboard_time": 1757725702,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106166,
@@ -17579,6 +17763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87701,
+      "num": 87701,
+      "word": "贾国龙称生意宁可不做是非必须得辩",
+      "onboard_time": 1757723901,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87676,
       "num": 87676,
       "word": "曝男明星把甲方样机卖了",
@@ -18227,14 +18419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77219,
-      "num": 185718,
-      "word": "iPhone17女生模式",
-      "onboard_time": 1757679746,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 76815,
       "num": 76815,
       "word": "西班牙偶遇江疏影",
@@ -18435,6 +18619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73242,
+      "num": 73242,
+      "word": "多部门回应石家庄巨响",
+      "onboard_time": 1757725281,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73035,
       "num": 82061,
       "word": "鹿晗的车开回来那一刻",
@@ -18505,6 +18697,14 @@
       "onboard_time": 1757326943,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72044,
+      "num": 72044,
+      "word": "罗永浩吐槽西兰花保质期2年",
+      "onboard_time": 1757726062,
+      "rank": 48,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 72009,
@@ -18593,6 +18793,14 @@
       "onboard_time": 1757334383,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70181,
+      "num": 70181,
+      "word": "第五人格小女孩",
+      "onboard_time": 1757722101,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 70111,
@@ -18833,14 +19041,6 @@
       "onboard_time": 1757300603,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 63476,
-      "num": 60837,
-      "word": "建议年轻人不要长期当服务员",
-      "onboard_time": 1757720179,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 63227,
@@ -19409,14 +19609,6 @@
       "onboard_time": 1757217202,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 53805,
-      "num": 58504,
-      "word": "iPhone17全系已排至10月",
-      "onboard_time": 1757719638,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 53473,
@@ -20953,6 +21145,14 @@
       "onboard_time": 1757700737,
       "rank": 46,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 20916,
+      "num": 88487,
+      "word": "持枪爱好者杀了持枪爱好者",
+      "onboard_time": 1757727023,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20865,

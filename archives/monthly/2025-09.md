@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 07:36:35
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 09:42:07
 </p>
 </blockquote>
 <p>
@@ -849,6 +849,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%A4%8D%E4%BA%86%E7%A5%9D%E7%BB%AA%E4%B8%B9%23" target="weibo">
+杨幂回复了祝绪丹（热度：1603957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BA%86%23" target="weibo">
 黄子韬徐艺洋拍婚纱照了（热度：1601918）
 </a>
@@ -1551,6 +1557,12 @@ VOGUE金九单人封面（热度：1230035）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E7%BA%BF%E4%B8%8B%E9%97%A8%E5%BA%97%E5%BA%97%E9%95%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+西贝线下门店店长发声（热度：1059272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%94%B7%E6%98%8E%E6%98%9F%E6%8A%8A%E7%94%B2%E6%96%B9%E6%A0%B7%E6%9C%BA%E5%8D%96%E4%BA%86%23" target="weibo">
 曝男明星把甲方样机卖了（热度：1056001）
 </a>
@@ -1799,6 +1811,12 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%B1%80%E5%8A%BF%23" target="weibo">
 塞尔维亚局势（热度：938309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%AD%A3%E4%B9%89%E5%8F%91%E5%A3%B0%23" target="weibo">
+卡塔尔感谢中国正义发声（热度：934112）
 </a>
 </li>
 
@@ -2501,6 +2519,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9020%20%E8%83%96%E5%A6%9E%23" target="weibo">
 运20 胖妞（热度：754801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%20%E7%BD%97%E6%B0%B8%E6%B5%A9%23" target="weibo">
+西贝 罗永浩（热度：753063）
 </a>
 </li>
 
@@ -3231,6 +3255,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%A4%8D%E5%90%B4%E5%AE%A3%E4%BB%AA%23" target="weibo">
+杨幂回复吴宣仪（热度：619952）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%88%98%E5%A3%AB%E8%B5%B7%E8%BA%AB%E6%95%AC%E7%A4%BC%E5%9C%BA%E9%9D%A2%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
 老战士起身敬礼场面看哭了（热度：619837）
 </a>
@@ -3467,6 +3497,12 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%BF%98%E6%B2%A1%E5%90%83%E8%BF%87%E8%80%81%E4%B9%A1%E9%B8%A1%23" target="weibo">
 罗永浩还没吃过老乡鸡（热度：585023）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%B8%AD%E4%B8%9C%E6%B3%A8%E5%85%A5%E5%92%8C%E5%B9%B3%E8%83%BD%E9%87%8F%23" target="weibo">
+卡塔尔感谢中国为中东注入和平能量（热度：584730）
 </a>
 </li>
 
@@ -3939,6 +3975,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%AA%E5%A5%A5%E5%A4%A7%E4%BD%BF%E5%90%88%E5%BD%B1%E7%AB%99C%23" target="weibo">
+迪丽热巴迪奥大使合影站C（热度：528925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E5%9C%A8%E6%AD%BB%E9%9A%BE%E8%80%85%E5%90%8D%E5%8D%95%E5%A2%99%E4%B8%8A%23" target="weibo">
 我的爸爸妈妈在死难者名单墙上（热度：527730）
 </a>
@@ -4283,6 +4325,12 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E9%A9%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E7%AD%BE%E7%BA%A6MCN%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
 跑马女护士签约MCN创始人发声（热度：489705）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%88%A0%E9%99%A4%E5%8A%9B%E6%8C%BA%E8%A5%BF%E8%B4%9D%E8%A8%80%E8%AE%BA%23" target="weibo">
+于东来删除力挺西贝言论（热度：486866）
 </a>
 </li>
 
@@ -5963,54 +6011,6 @@ iPhone为什么只有P是大写（热度：389380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%B0%8F%E5%A9%89%E8%87%AA%E6%9B%9D%E4%B8%8D%E9%A2%86%E8%AF%81%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 薛小婉自曝不领证的原因（热度：368072）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%B4%E5%85%A8%E5%9B%BD%E7%94%B5%E5%8A%9B%E4%B8%AD%E6%96%AD%23" target="weibo">
-古巴全国电力中断（热度：368015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Metal%E6%9D%82%E5%BF%97%23" target="weibo">
-Metal杂志（热度：366669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E6%B8%85%E7%88%BD%E4%BA%86%23" target="weibo">
-张维伊清爽了（热度：366639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%A4%BC%E7%82%AE%E5%BC%B90%E6%B1%A1%E6%9F%93%23" target="weibo">
-阅兵礼炮弹0污染（热度：366514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%9C%BA%E5%9C%BA3%E7%A7%92%E8%BF%9F%E7%96%91%E5%90%8E%E7%9A%84%E6%8B%A5%E6%8A%B1%E7%9C%8B%E5%93%AD%E5%85%A8%E7%BD%91%23" target="weibo">
-成都机场3秒迟疑后的拥抱看哭全网（热度：364998）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E8%BD%A6%E8%BE%86%E4%B8%8D%E4%BB%8E%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E4%B8%8A%E6%96%B9%E9%A9%B6%E8%BF%87%23" target="weibo">
-沈阳车辆不从烈士遗骸上方驶过（热度：364979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%B8%E5%8C%85%E6%8E%92%E9%AA%A8%23" target="weibo">
-纸包排骨（热度：364932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E9%99%88%E8%B5%AB%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8C%E5%8F%B0%23" target="weibo">
-邓超陈赫鹿晗演唱会同台（热度：364864）
 </a>
 </li>
 
