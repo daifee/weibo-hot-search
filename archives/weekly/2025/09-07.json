@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757763404427,
+  "endTime": 1757767395943,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -849,6 +849,22 @@
       "onboard_time": 1757216662,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1254707,
+      "num": 1254707,
+      "word": "预制菜之王萨莉亚为啥没人骂",
+      "onboard_time": 1757763744,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1254329,
+      "num": 1254329,
+      "word": "穆祉丞 橙粉色举起来",
+      "onboard_time": 1757762664,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1242539,
@@ -2067,6 +2083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 702390,
+      "num": 702390,
+      "word": "香飘飘奶茶暂停绕地球",
+      "onboard_time": 1757763385,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 702327,
       "num": 1112372,
       "word": "李嘉琦随身带血糖检测仪",
@@ -2668,7 +2692,7 @@
     },
     {
       "raw_hot": 583613,
-      "num": 311696,
+      "num": 318913,
       "word": "李兰迪露背好辣",
       "onboard_time": 1757761043,
       "rank": 15,
@@ -2688,6 +2712,14 @@
       "word": "江西一居民多个月水费都是49.93元",
       "onboard_time": 1757334805,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 581115,
+      "num": 413629,
+      "word": "游客自驾撞死6匹马",
+      "onboard_time": 1757759963,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -2809,6 +2841,14 @@
       "onboard_time": 1757565827,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 551949,
+      "num": 551949,
+      "word": "何秋亊 人民非遗推荐人",
+      "onboard_time": 1757762362,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 550645,
@@ -3265,6 +3305,14 @@
       "onboard_time": 1757585010,
       "rank": 13,
       "category": "数码,剧集"
+    },
+    {
+      "raw_hot": 477885,
+      "num": 320030,
+      "word": "卢昱晓昨天妈妈今天辣妹",
+      "onboard_time": 1757764765,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 477574,
@@ -3883,14 +3931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413629,
-      "num": 413629,
-      "word": "游客自驾撞死6匹马",
-      "onboard_time": 1757759963,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 411984,
       "num": 200366,
       "word": "西贝回应称21元一个馒头早不卖了",
@@ -3905,14 +3945,6 @@
       "onboard_time": 1757552002,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 411299,
-      "num": 411299,
-      "word": "穆祉丞 橙粉色举起来",
-      "onboard_time": 1757762664,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 410113,
@@ -4001,6 +4033,14 @@
       "onboard_time": 1757741605,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403764,
+      "num": 403764,
+      "word": "中方将采取必要措施",
+      "onboard_time": 1757764765,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 401030,
@@ -5435,14 +5475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296686,
-      "num": 190788,
-      "word": "何秋亊 人民非遗推荐人",
-      "onboard_time": 1757762362,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296533,
       "num": 296533,
       "word": "敖瑞鹏直播",
@@ -5473,6 +5505,14 @@
       "onboard_time": 1757206222,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295524,
+      "num": 295524,
+      "word": "李宇春演唱会",
+      "onboard_time": 1757760804,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 294558,
@@ -5856,6 +5896,14 @@
       "word": "董军同美国防部长视频通话",
       "onboard_time": 1757506643,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 274695,
+      "num": 318411,
+      "word": "对美进口相关模拟芯片反倾销立案调查",
+      "onboard_time": 1757766085,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -7147,6 +7195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215420,
+      "num": 201705,
+      "word": "我家蟑螂喷了药之后也这样打拳",
+      "onboard_time": 1757767165,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215304,
       "num": 190853,
       "word": "鹿晗急得在后台找话筒",
@@ -7763,20 +7819,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202073,
-      "num": 254005,
-      "word": "李宇春演唱会",
-      "onboard_time": 1757760804,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 202039,
       "num": 202039,
       "word": "小学教资",
       "onboard_time": 1757736683,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201851,
+      "num": 201851,
+      "word": "马嘉祺拜访救助站",
+      "onboard_time": 1757766325,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 201807,
@@ -7793,6 +7849,14 @@
       "onboard_time": 1757319383,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201624,
+      "num": 201624,
+      "word": "孙颖莎vs迪亚兹",
+      "onboard_time": 1757766807,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 201591,
@@ -8153,6 +8217,14 @@
       "onboard_time": 1757479047,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196003,
+      "num": 201738,
+      "word": "0713又合体了",
+      "onboard_time": 1757766146,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 195964,
@@ -9011,6 +9083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184940,
+      "num": 184940,
+      "word": "MRC对战B4U",
+      "onboard_time": 1757766023,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184808,
       "num": 184808,
       "word": "马琳为王曼昱竖大拇指",
@@ -9401,6 +9481,14 @@
       "onboard_time": 1757501781,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179394,
+      "num": 179394,
+      "word": "要求200万月薪的董事长已被免",
+      "onboard_time": 1757764887,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179298,
@@ -10411,11 +10499,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165810,
+      "num": 165810,
+      "word": "王俊凯被衣架攻击了",
+      "onboard_time": 1757761643,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165776,
       "num": 165776,
       "word": "分手后被前女友告强奸男方家属发声",
       "onboard_time": 1757466743,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165630,
+      "num": 165630,
+      "word": "柯尔鸭身价暴跌",
+      "onboard_time": 1757764466,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -10747,6 +10851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162055,
+      "num": 162055,
+      "word": "国民奶奶陈奇逝世",
+      "onboard_time": 1757763924,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162019,
       "num": 162019,
       "word": "梓渝toodeep唱跳",
@@ -10891,6 +11003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160595,
+      "num": 160595,
+      "word": "JDG对战WBG",
+      "onboard_time": 1757760444,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160552,
       "num": 160552,
       "word": "师兄太稳健",
@@ -11009,6 +11129,14 @@
       "onboard_time": 1757568891,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159189,
+      "num": 138924,
+      "word": "杨幂直播",
+      "onboard_time": 1757766925,
+      "rank": 43,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 159170,
@@ -11619,6 +11747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150897,
+      "num": 150897,
+      "word": "李兰迪欠我一碗丝瓜汤",
+      "onboard_time": 1757766925,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150855,
       "num": 150855,
       "word": "孙颖莎回应晋级女单16强",
@@ -11769,6 +11905,14 @@
       "onboard_time": 1757556682,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149757,
+      "num": 149757,
+      "word": "一个月不吃糖的身体变化",
+      "onboard_time": 1757764104,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 149749,
@@ -12041,14 +12185,6 @@
       "onboard_time": 1757257463,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147603,
-      "num": 153506,
-      "word": "王俊凯被衣架攻击了",
-      "onboard_time": 1757761643,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 147511,
@@ -13155,6 +13291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138667,
+      "num": 138667,
+      "word": "周笔畅送李宇春定制人像花篮",
+      "onboard_time": 1757765005,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138451,
       "num": 138451,
       "word": "太胖无法变成液态回家的猫",
@@ -13763,6 +13907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134732,
+      "num": 134732,
+      "word": "常州vs宿迁",
+      "onboard_time": 1757766325,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134677,
       "num": 257097,
       "word": "朝鲜民众庆祝国庆画面",
@@ -13993,14 +14145,6 @@
       "onboard_time": 1757424863,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133235,
-      "num": 133235,
-      "word": "香飘飘奶茶暂停绕地球",
-      "onboard_time": 1757763385,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133190,
@@ -14305,6 +14449,14 @@
       "onboard_time": 1757669063,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 130621,
+      "num": 153750,
+      "word": "小伙无症状查出恶性程度最高胃癌",
+      "onboard_time": 1757762064,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130592,
@@ -15003,6 +15155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125727,
+      "num": 125727,
+      "word": "T1生死战",
+      "onboard_time": 1757763684,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125713,
       "num": 125713,
       "word": "怎么不等秋天过了再告诉我",
@@ -15363,6 +15523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123286,
+      "num": 123286,
+      "word": "李沉舟出场",
+      "onboard_time": 1757767045,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123209,
       "num": 123209,
       "word": "10部影片定档2025国庆档",
@@ -15577,6 +15745,14 @@
       "onboard_time": 1757498061,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121778,
+      "num": 121778,
+      "word": "19岁女大学生失联已超过90天",
+      "onboard_time": 1757764163,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121672,
@@ -18153,6 +18329,14 @@
       "onboard_time": 1757557882,
       "rank": 42,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 103007,
+      "num": 139086,
+      "word": "商务部回应美将我多家实体列入出口管制实体清单",
+      "onboard_time": 1757766146,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102985,
@@ -21491,14 +21675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56255,
-      "num": 153750,
-      "word": "小伙无症状查出恶性程度最高胃癌",
-      "onboard_time": 1757762064,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56214,
       "num": 113871,
       "word": "外交部严厉谴责以袭卡塔尔首都",
@@ -21532,7 +21708,7 @@
     },
     {
       "raw_hot": 55818,
-      "num": 551832,
+      "num": 942137,
       "word": "服贸会",
       "onboard_time": 1757753004,
       "rank": 2,
@@ -22361,6 +22537,14 @@
       "onboard_time": 1757343384,
       "rank": 9,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 41875,
+      "num": 255247,
+      "word": "高德扫街榜听劝上线附近美食功能",
+      "onboard_time": 1757764705,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 41732,

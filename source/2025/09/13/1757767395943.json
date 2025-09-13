@@ -1,0 +1,410 @@
+{
+  "runTime": 1757767395943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254707,
+        "num": 1254707,
+        "word": "预制菜之王萨莉亚为啥没人骂",
+        "onboard_time": 1757763744,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1254329,
+        "num": 1254329,
+        "word": "穆祉丞 橙粉色举起来",
+        "onboard_time": 1757762664,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45157,
+        "num": 942137,
+        "word": "服贸会",
+        "onboard_time": 1757753004,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702390,
+        "num": 702390,
+        "word": "香飘飘奶茶暂停绕地球",
+        "onboard_time": 1757763385,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551949,
+        "num": 551949,
+        "word": "何秋亊 人民非遗推荐人",
+        "onboard_time": 1757762362,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408001,
+        "num": 408001,
+        "word": "北京冰雹",
+        "onboard_time": 1757760204,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471144,
+        "num": 406278,
+        "word": "成毅演到第9集换号了",
+        "onboard_time": 1757761164,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403764,
+        "num": 403764,
+        "word": "中方将采取必要措施",
+        "onboard_time": 1757764765,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 351996,
+        "num": 351996,
+        "word": "餐厅预制菜需明示",
+        "onboard_time": 1757750363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322406,
+        "num": 322406,
+        "word": "泡泡玛特足金产品首发遇冷",
+        "onboard_time": 1757759544,
+        "rank": 9,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 581115,
+        "num": 321499,
+        "word": "游客自驾撞死6匹马",
+        "onboard_time": 1757759963,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477885,
+        "num": 320030,
+        "word": "卢昱晓昨天妈妈今天辣妹",
+        "onboard_time": 1757764765,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371893,
+        "num": 318913,
+        "word": "李兰迪露背好辣",
+        "onboard_time": 1757761043,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274695,
+        "num": 318411,
+        "word": "对美进口相关模拟芯片反倾销立案调查",
+        "onboard_time": 1757766085,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 344808,
+        "num": 317330,
+        "word": "瘦了20斤鼻子变化",
+        "onboard_time": 1757756482,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 316216,
+        "num": 316216,
+        "word": "蒋智豪确诊肺癌晚期最新发声",
+        "onboard_time": 1757750604,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310723,
+        "num": 310723,
+        "word": "谭松韵黑天鹅",
+        "onboard_time": 1757761824,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295524,
+        "num": 295524,
+        "word": "李宇春演唱会",
+        "onboard_time": 1757760804,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258293,
+        "num": 258293,
+        "word": "上海暴雨",
+        "onboard_time": 1757761762,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41875,
+        "num": 255247,
+        "word": "高德扫街榜听劝上线附近美食功能",
+        "onboard_time": 1757764705,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1189984,
+        "num": 247618,
+        "word": "唐嫣 我那体制内的女友",
+        "onboard_time": 1757760863,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483636,
+        "num": 244679,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 374580,
+        "num": 240475,
+        "word": "那英没有版权就让龚俊唱",
+        "onboard_time": 1757751144,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301196,
+        "num": 232648,
+        "word": "喝水后几个表现说明肾不好",
+        "onboard_time": 1757758943,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292721,
+        "num": 229435,
+        "word": "西贝涉事门店客流比平时还多几十桌",
+        "onboard_time": 1757758222,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226259,
+        "num": 226259,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220451,
+        "num": 220451,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1757765966,
+        "rank": 26,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 220084,
+        "num": 220084,
+        "word": "法考",
+        "onboard_time": 1757753543,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201851,
+        "num": 201851,
+        "word": "马嘉祺拜访救助站",
+        "onboard_time": 1757766325,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196003,
+        "num": 201738,
+        "word": "0713又合体了",
+        "onboard_time": 1757766146,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215420,
+        "num": 201705,
+        "word": "我家蟑螂喷了药之后也这样打拳",
+        "onboard_time": 1757767165,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201624,
+        "num": 201624,
+        "word": "孙颖莎vs迪亚兹",
+        "onboard_time": 1757766807,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184940,
+        "num": 184940,
+        "word": "MRC对战B4U",
+        "onboard_time": 1757766023,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179394,
+        "num": 179394,
+        "word": "要求200万月薪的董事长已被免",
+        "onboard_time": 1757764887,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165810,
+        "num": 165810,
+        "word": "王俊凯被衣架攻击了",
+        "onboard_time": 1757761643,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165630,
+        "num": 165630,
+        "word": "柯尔鸭身价暴跌",
+        "onboard_time": 1757764466,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162055,
+        "num": 162055,
+        "word": "国民奶奶陈奇逝世",
+        "onboard_time": 1757763924,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161137,
+        "num": 161137,
+        "word": "杨幂碎钻高定红裙",
+        "onboard_time": 1757756183,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 160595,
+        "num": 160595,
+        "word": "JDG对战WBG",
+        "onboard_time": 1757760444,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150897,
+        "num": 150897,
+        "word": "李兰迪欠我一碗丝瓜汤",
+        "onboard_time": 1757766925,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149757,
+        "num": 149757,
+        "word": "一个月不吃糖的身体变化",
+        "onboard_time": 1757764104,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142035,
+        "num": 142035,
+        "word": "赴山海被赐名山海关",
+        "onboard_time": 1757748504,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103007,
+        "num": 139086,
+        "word": "商务部回应美将我多家实体列入出口管制实体清单",
+        "onboard_time": 1757766146,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159189,
+        "num": 138924,
+        "word": "杨幂直播",
+        "onboard_time": 1757766925,
+        "rank": 43,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 138667,
+        "num": 138667,
+        "word": "周笔畅送李宇春定制人像花篮",
+        "onboard_time": 1757765005,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134732,
+        "num": 134732,
+        "word": "常州vs宿迁",
+        "onboard_time": 1757766325,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130621,
+        "num": 130621,
+        "word": "小伙无症状查出恶性程度最高胃癌",
+        "onboard_time": 1757762064,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125727,
+        "num": 125727,
+        "word": "T1生死战",
+        "onboard_time": 1757763684,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123286,
+        "num": 123286,
+        "word": "李沉舟出场",
+        "onboard_time": 1757767045,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121778,
+        "num": 121778,
+        "word": "19岁女大学生失联已超过90天",
+        "onboard_time": 1757764163,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}
