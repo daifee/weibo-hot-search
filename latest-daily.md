@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/13 00:27:33 ~ 2025/09/13 20:43:15
+本榜单时间：2025/09/13 00:27:33 ~ 2025/09/13 20:57:43
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B9%8B%E7%8E%8B%E8%90%A8%E8%8E%89%E4%BA%9A%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E9%AA%82%23" target="weibo">
+预制菜之王萨莉亚为啥没人骂（热度：1628767）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%A4%8D%E4%BA%86%E7%A5%9D%E7%BB%AA%E4%B8%B9%23" target="weibo">
 杨幂回复了祝绪丹（热度：1603957）
 </a>
@@ -77,12 +83,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%85%E7%8C%9B%E9%BE%99%E5%A4%8D%E6%97%A6%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%23" target="weibo">
 迅猛龙复旦入学考试成绩（热度：1261517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B9%8B%E7%8E%8B%E8%90%A8%E8%8E%89%E4%BA%9A%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E9%AA%82%23" target="weibo">
-预制菜之王萨莉亚为啥没人骂（热度：1254707）
 </a>
 </li>
 
@@ -195,6 +195,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E6%98%A8%E5%A4%A9%E5%A6%88%E5%A6%88%E4%BB%8A%E5%A4%A9%E8%BE%A3%E5%A6%B9%23" target="weibo">
+卢昱晓昨天妈妈今天辣妹（热度：752420）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E7%A7%B0%E9%80%9F%E5%86%BB%E6%B2%B9%E7%82%B8%E8%8C%84%E5%AD%90%E6%98%AF%E5%A4%96%E5%8D%96%E6%AC%BE%23" target="weibo">
 西贝厨师称速冻油炸茄子是外卖款（热度：735775）
 </a>
@@ -261,6 +267,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A7%8B%E4%BA%8A%20%E4%BA%BA%E6%B0%91%E9%9D%9E%E9%81%97%E6%8E%A8%E8%8D%90%E4%BA%BA%23" target="weibo">
+何秋亊 人民非遗推荐人（热度：631021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%9D%80%E6%9F%AF%E5%85%8B%E7%9A%84%E5%87%B6%E6%89%8B%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BB%BD%23" target="weibo">
 暗杀柯克的凶手确认身份（热度：619295）
 </a>
@@ -297,8 +309,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A7%8B%E4%BA%8A%20%E4%BA%BA%E6%B0%91%E9%9D%9E%E9%81%97%E6%8E%A8%E8%8D%90%E4%BA%BA%23" target="weibo">
-何秋亊 人民非遗推荐人（热度：551949）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E9%87%87%E5%8F%96%E5%BF%85%E8%A6%81%E6%8E%AA%E6%96%BD%23" target="weibo">
+中方将采取必要措施（热度：555808）
 </a>
 </li>
 
@@ -341,12 +353,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E6%97%A9%E7%9F%A5%E9%81%93%E4%B8%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E4%BA%86%23" target="weibo">
 李昀锐 早知道不接电话了（热度：484386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E6%98%A8%E5%A4%A9%E5%A6%88%E5%A6%88%E4%BB%8A%E5%A4%A9%E8%BE%A3%E5%A6%B9%23" target="weibo">
-卢昱晓昨天妈妈今天辣妹（热度：477885）
 </a>
 </li>
 
@@ -419,12 +425,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%89%AA%E6%8E%89%E9%95%BF%E5%8F%91%23" target="weibo">
 谢娜为女儿剪掉长发（热度：404485）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E9%87%87%E5%8F%96%E5%BF%85%E8%A6%81%E6%8E%AA%E6%96%BD%23" target="weibo">
-中方将采取必要措施（热度：403764）
 </a>
 </li>
 
@@ -675,8 +675,20 @@ iPhone17 抢不到（热度：258117）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9B%B4%E6%92%AD%23" target="weibo">
+杨幂直播（热度：249185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E8%83%83%E7%99%8C%E7%88%B6%E4%BA%B2%E5%B7%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 10岁女儿非亲生胃癌父亲已去世（热度：246581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%BF%AA%E4%BA%9A%E5%85%B9%23" target="weibo">
+孙颖莎vs迪亚兹（热度：245010）
 </a>
 </li>
 
@@ -753,6 +765,12 @@ iPhone17全系已排至10月（热度：232248）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%9B%B4%E6%92%AD%23" target="weibo">
+鞠婧祎直播（热度：226948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%9B%BD%E5%BC%BA%E7%9A%84%E4%BA%94%E5%AE%98%E8%BE%A8%E8%AF%86%E5%BA%A6%E8%BF%9EAI%E9%83%BD%E5%8A%A8%E4%B8%8D%E4%BA%86%23" target="weibo">
 唐国强的五官辨识度连AI都动不了（热度：225331）
 </a>
@@ -761,12 +779,6 @@ iPhone17全系已排至10月（热度：232248）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E8%87%AA%E5%AA%92%E4%BD%93%E5%9C%A3%E4%BD%93%23" target="weibo">
 赵昭仪自媒体圣体（热度：224504）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%9B%B4%E6%92%AD%23" target="weibo">
-鞠婧祎直播（热度：220451）
 </a>
 </li>
 
@@ -849,6 +861,12 @@ offer7第一期就淘汰清华学霸（热度：208730）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CWBG%23" target="weibo">
+JDG战胜WBG（热度：202294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%96%9C%E5%8D%95%E5%A5%BD%E5%A4%9A%E5%86%A0%E5%86%9B%E9%83%BD%E5%9D%90%E5%9C%A8%E8%A7%82%E4%BC%97%E5%B8%AD%23" target="weibo">
 孟子义 喜单好多冠军都坐在观众席（热度：202215）
 </a>
@@ -867,14 +885,20 @@ offer7第一期就淘汰清华学霸（热度：208730）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%BF%AA%E4%BA%9A%E5%85%B9%23" target="weibo">
-孙颖莎vs迪亚兹（热度：201624）
+<a href="https://s.weibo.com/weibo?q=%230713%E5%8F%88%E5%90%88%E4%BD%93%E4%BA%86%23" target="weibo">
+0713又合体了（热度：201594）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%94%B2%E5%8F%91%E5%B8%83%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8A%B1%E5%BF%97%E7%9F%AD%E7%89%87%23" target="weibo">
 德甲发布樊振东励志短片（热度：201275）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%89%AE%E6%88%90%E7%8B%90%E7%8B%B8%E5%9C%A8%E5%A4%A7%E8%A1%97%E4%B8%8A%E5%8D%96%E8%8A%B1%23" target="weibo">
+丁程鑫扮成狐狸在大街上卖花（热度：201257）
 </a>
 </li>
 
@@ -921,14 +945,14 @@ T1 斗魂（热度：198957）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%230713%E5%8F%88%E5%90%88%E4%BD%93%E4%BA%86%23" target="weibo">
-0713又合体了（热度：196003）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B9%9D%E5%AE%AB%E6%A0%BC%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%95%99%E7%A8%8B%23" target="weibo">
+猫咪九宫格朋友圈教程（热度：195770）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B9%9D%E5%AE%AB%E6%A0%BC%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%95%99%E7%A8%8B%23" target="weibo">
-猫咪九宫格朋友圈教程（热度：195770）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
+李宇春直播（热度：194035）
 </a>
 </li>
 
@@ -953,6 +977,12 @@ T1 斗魂（热度：198957）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%91%A8%E5%B3%BB%E7%BA%AC%E5%92%8B%E8%AE%A4%E8%AF%86%E7%9A%84%23" target="weibo">
 卢昱晓周峻纬咋认识的（热度：186373）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%9D%E8%B6%85%23" target="weibo">
+渝超（热度：186103）
 </a>
 </li>
 
@@ -995,6 +1025,12 @@ MRC对战B4U（热度：184940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%81%E6%B1%82200%E4%B8%87%E6%9C%88%E8%96%AA%E7%9A%84%E8%91%A3%E4%BA%8B%E9%95%BF%E5%B7%B2%E8%A2%AB%E5%85%8D%23" target="weibo">
 要求200万月薪的董事长已被免（热度：179394）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%B0%94%E9%B8%AD%E8%BA%AB%E4%BB%B7%E6%9A%B4%E8%B7%8C%23" target="weibo">
+柯尔鸭身价暴跌（热度：177484）
 </a>
 </li>
 
@@ -1071,12 +1107,6 @@ B4U战胜ZETA（热度：171850）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%B0%94%E9%B8%AD%E8%BA%AB%E4%BB%B7%E6%9A%B4%E8%B7%8C%23" target="weibo">
-柯尔鸭身价暴跌（热度：165630）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%89%BA%E5%BD%A4%E7%A2%B0%E5%88%B0%E9%9A%BE%E5%90%83%E7%9A%84%E5%BA%97%E4%BC%9A%E5%85%88%E4%B9%B0%E5%8D%95%23" target="weibo">
 李艺彤碰到难吃的店会先买单（热度：163576）
 </a>
@@ -1119,14 +1149,14 @@ JDG对战WBG（热度：160595）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9B%B4%E6%92%AD%23" target="weibo">
-杨幂直播（热度：159189）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B62%E6%AF%940%E6%9D%8E%E8%8A%B3%E8%87%B3%E6%9D%8E%E8%8A%B3%E4%BB%BB%23" target="weibo">
+梁伟铿王昶2比0李芳至李芳任（热度：158926）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B62%E6%AF%940%E6%9D%8E%E8%8A%B3%E8%87%B3%E6%9D%8E%E8%8A%B3%E4%BB%BB%23" target="weibo">
-梁伟铿王昶2比0李芳至李芳任（热度：158926）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E6%AC%A0%E6%88%91%E4%B8%80%E7%A2%97%E4%B8%9D%E7%93%9C%E6%B1%A4%23" target="weibo">
+李兰迪欠我一碗丝瓜汤（热度：158288）
 </a>
 </li>
 
@@ -1175,12 +1205,6 @@ JDG对战WBG（热度：160595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%90%83%E4%B8%BB%E8%A7%82%E9%A2%98%E7%9A%84%E8%8B%A6%23" target="weibo">
 想吃主观题的苦（热度：151239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E6%AC%A0%E6%88%91%E4%B8%80%E7%A2%97%E4%B8%9D%E7%93%9C%E6%B1%A4%23" target="weibo">
-李兰迪欠我一碗丝瓜汤（热度：150897）
 </a>
 </li>
 
@@ -1263,6 +1287,12 @@ JDG对战WBG（热度：160595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E4%B8%80%E9%97%A8%E5%BA%97%E5%8E%A8%E5%B8%88%E9%95%BF%E6%B2%A1%E6%9C%89%E5%8E%A8%E5%B8%88%E8%AF%81%23" target="weibo">
+西贝一门店厨师长没有厨师证（热度：145689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%B0%86%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD%23" target="weibo">
 多国将承认巴勒斯坦国（热度：145676）
 </a>
@@ -1305,6 +1335,12 @@ JDG对战WBG（热度：160595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%89%E8%88%9F%E5%87%BA%E5%9C%BA%23" target="weibo">
+李沉舟出场（热度：141312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%AE%81%E5%A9%86%E5%A9%86%E8%B0%88%E8%A5%BF%E8%B4%9D%E5%85%AC%E5%85%B3%23" target="weibo">
 江宁婆婆谈西贝公关（热度：141263）
 </a>
@@ -1331,6 +1367,18 @@ JDG对战WBG（热度：160595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A4%E6%B2%99%E7%9C%8B%E5%9E%83%E5%9C%BE%E7%9A%84%E7%9C%BC%E7%A5%9E%23" target="weibo">
 此沙看垃圾的眼神（热度：139280）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%97%A0%E7%97%87%E7%8A%B6%E6%9F%A5%E5%87%BA%E6%81%B6%E6%80%A7%E7%A8%8B%E5%BA%A6%E6%9C%80%E9%AB%98%E8%83%83%E7%99%8C%23" target="weibo">
+小伙无症状查出恶性程度最高胃癌（热度：139015）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E7%9B%B4%E6%92%AD%23" target="weibo">
+张云雷直播（热度：138762）
 </a>
 </li>
 
@@ -1383,6 +1431,12 @@ JDG对战WBG（热度：160595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+张艺兴演唱会（热度：135035）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9Evs%E5%AE%BF%E8%BF%81%23" target="weibo">
 常州vs宿迁（热度：134732）
 </a>
@@ -1431,14 +1485,14 @@ JDG对战WBG（热度：160595）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%83%9F%E7%81%AB%E6%94%B6%E8%97%8F%E5%AE%B6%E7%BA%AA%E5%BD%95%E7%89%87%23" target="weibo">
-时代少年团烟火收藏家纪录片（热度：130891）
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%94%B6%E5%88%B0%E4%BA%86%E9%87%91%E7%86%8A%E7%8C%AB%23" target="weibo">
+唐嫣收到了金熊猫（热度：131155）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%97%A0%E7%97%87%E7%8A%B6%E6%9F%A5%E5%87%BA%E6%81%B6%E6%80%A7%E7%A8%8B%E5%BA%A6%E6%9C%80%E9%AB%98%E8%83%83%E7%99%8C%23" target="weibo">
-小伙无症状查出恶性程度最高胃癌（热度：130621）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%83%9F%E7%81%AB%E6%94%B6%E8%97%8F%E5%AE%B6%E7%BA%AA%E5%BD%95%E7%89%87%23" target="weibo">
+时代少年团烟火收藏家纪录片（热度：130891）
 </a>
 </li>
 
@@ -1547,12 +1601,6 @@ T1生死战（热度：125727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E6%97%A0%E7%BC%98%E6%BE%B3%E9%97%A8%E8%B5%9B%E5%9B%9B%E5%BC%BA%23" target="weibo">
 林诗栋无缘澳门赛四强（热度：123641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%89%E8%88%9F%E5%87%BA%E5%9C%BA%23" target="weibo">
-李沉舟出场（热度：123286）
 </a>
 </li>
 

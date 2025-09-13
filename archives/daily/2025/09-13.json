@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757767395943,
+  "endTime": 1757768263134,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -41,6 +41,14 @@
       "onboard_time": 1757751144,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1628767,
+      "num": 1628767,
+      "word": "预制菜之王萨莉亚为啥没人骂",
+      "onboard_time": 1757763744,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1603957,
@@ -89,14 +97,6 @@
       "onboard_time": 1757736023,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1254707,
-      "num": 1254707,
-      "word": "预制菜之王萨莉亚为啥没人骂",
-      "onboard_time": 1757763744,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1254329,
@@ -243,6 +243,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 752420,
+      "num": 320030,
+      "word": "卢昱晓昨天妈妈今天辣妹",
+      "onboard_time": 1757764765,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735775,
       "num": 269581,
       "word": "西贝厨师称速冻油炸茄子是外卖款",
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 631021,
+      "num": 631021,
+      "word": "何秋亊 人民非遗推荐人",
+      "onboard_time": 1757762362,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619295,
       "num": 902525,
       "word": "暗杀柯克的凶手确认身份",
@@ -379,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551949,
-      "num": 551949,
-      "word": "何秋亊 人民非遗推荐人",
-      "onboard_time": 1757762362,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 555808,
+      "num": 555808,
+      "word": "中方将采取必要措施",
+      "onboard_time": 1757764765,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 549823,
@@ -441,14 +457,6 @@
       "onboard_time": 1757731764,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 477885,
-      "num": 320030,
-      "word": "卢昱晓昨天妈妈今天辣妹",
-      "onboard_time": 1757764765,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 467821,
@@ -545,14 +553,6 @@
       "onboard_time": 1757741605,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403764,
-      "num": 403764,
-      "word": "中方将采取必要措施",
-      "onboard_time": 1757764765,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 395641,
@@ -883,12 +883,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 249185,
+      "num": 249185,
+      "word": "杨幂直播",
+      "onboard_time": 1757766925,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 246581,
       "num": 246581,
       "word": "10岁女儿非亲生胃癌父亲已去世",
       "onboard_time": 1757691685,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245010,
+      "num": 245010,
+      "word": "孙颖莎vs迪亚兹",
+      "onboard_time": 1757766807,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 241127,
@@ -987,6 +1003,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 226948,
+      "num": 226948,
+      "word": "鞠婧祎直播",
+      "onboard_time": 1757682385,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225331,
       "num": 244667,
       "word": "唐国强的五官辨识度连AI都动不了",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1757754683,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220451,
-      "num": 220451,
-      "word": "鞠婧祎直播",
-      "onboard_time": 1757682385,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 219932,
@@ -1115,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202294,
+      "num": 202294,
+      "word": "JDG战胜WBG",
+      "onboard_time": 1757767766,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202215,
       "num": 202215,
       "word": "孟子义 喜单好多冠军都坐在观众席",
@@ -1139,12 +1163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201624,
-      "num": 201624,
-      "word": "孙颖莎vs迪亚兹",
-      "onboard_time": 1757766807,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 201594,
+      "num": 206744,
+      "word": "0713又合体了",
+      "onboard_time": 1757766146,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 201275,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1757761943,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201257,
+      "num": 201257,
+      "word": "丁程鑫扮成狐狸在大街上卖花",
+      "onboard_time": 1757767944,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 200280,
@@ -1211,20 +1243,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 196003,
-      "num": 201738,
-      "word": "0713又合体了",
-      "onboard_time": 1757766146,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195770,
       "num": 212252,
       "word": "猫咪九宫格朋友圈教程",
       "onboard_time": 1757740404,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194035,
+      "num": 194035,
+      "word": "李宇春直播",
+      "onboard_time": 1757768184,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 192896,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1757761043,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186103,
+      "num": 186103,
+      "word": "渝超",
+      "onboard_time": 1757768005,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 185019,
@@ -1312,6 +1352,14 @@
       "word": "要求200万月薪的董事长已被免",
       "onboard_time": 1757764887,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177484,
+      "num": 177484,
+      "word": "柯尔鸭身价暴跌",
+      "onboard_time": 1757764466,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1411,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165630,
-      "num": 165630,
-      "word": "柯尔鸭身价暴跌",
-      "onboard_time": 1757764466,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163576,
       "num": 190973,
       "word": "李艺彤碰到难吃的店会先买单",
@@ -1475,20 +1515,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159189,
-      "num": 138924,
-      "word": "杨幂直播",
-      "onboard_time": 1757766925,
-      "rank": 43,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 158926,
       "num": 158926,
       "word": "梁伟铿王昶2比0李芳至李芳任",
       "onboard_time": 1757747424,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158288,
+      "num": 158288,
+      "word": "李兰迪欠我一碗丝瓜汤",
+      "onboard_time": 1757766925,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157082,
@@ -1553,14 +1593,6 @@
       "onboard_time": 1757758042,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 150897,
-      "num": 150897,
-      "word": "李兰迪欠我一碗丝瓜汤",
-      "onboard_time": 1757766925,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 149953,
@@ -1667,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145689,
+      "num": 145689,
+      "word": "西贝一门店厨师长没有厨师证",
+      "onboard_time": 1757768125,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145676,
       "num": 145676,
       "word": "多国将承认巴勒斯坦国",
@@ -1723,6 +1763,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 141312,
+      "num": 141312,
+      "word": "李沉舟出场",
+      "onboard_time": 1757767045,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141263,
       "num": 241151,
       "word": "江宁婆婆谈西贝公关",
@@ -1761,6 +1809,22 @@
       "onboard_time": 1757756963,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139015,
+      "num": 153750,
+      "word": "小伙无症状查出恶性程度最高胃癌",
+      "onboard_time": 1757762064,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138762,
+      "num": 138762,
+      "word": "张云雷直播",
+      "onboard_time": 1757767886,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138667,
@@ -1827,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135035,
+      "num": 135035,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1757767404,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134732,
       "num": 134732,
       "word": "常州vs宿迁",
@@ -1891,20 +1963,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131155,
+      "num": 131155,
+      "word": "唐嫣收到了金熊猫",
+      "onboard_time": 1757768245,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130891,
       "num": 192224,
       "word": "时代少年团烟火收藏家纪录片",
       "onboard_time": 1757758522,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130621,
-      "num": 153750,
-      "word": "小伙无症状查出恶性程度最高胃癌",
-      "onboard_time": 1757762064,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130592,
@@ -2049,14 +2121,6 @@
       "onboard_time": 1757752824,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123286,
-      "num": 123286,
-      "word": "李沉舟出场",
-      "onboard_time": 1757767045,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 122609,
@@ -2412,7 +2476,7 @@
     },
     {
       "raw_hot": 103007,
-      "num": 139086,
+      "num": 284339,
       "word": "商务部回应美将我多家实体列入出口管制实体清单",
       "onboard_time": 1757766146,
       "rank": 42,
