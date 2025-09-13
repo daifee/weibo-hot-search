@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757745136208,
+  "endTime": 1757745875177,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1749084,
-      "num": 163680,
+      "num": 166222,
       "word": "罗永浩 西贝",
       "onboard_time": 1757744063,
       "rank": 20,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 716238,
+      "num": 247541,
+      "word": "张维伊冲董璇喊",
+      "onboard_time": 1757744005,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684413,
       "num": 349150,
       "word": "99年从月薪5千到5.5万的真实感受",
@@ -227,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 557696,
-      "num": 223014,
-      "word": "张维伊冲董璇喊",
-      "onboard_time": 1757744005,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 549823,
       "num": 478803,
       "word": "罗永浩吐槽西贝一个馒头卖21元",
@@ -275,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447275,
+      "num": 425663,
+      "word": "美国人成批逃离本国",
+      "onboard_time": 1757741004,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 446619,
       "num": 446619,
       "word": "九三阅兵式上唯一一面空军战旗",
       "onboard_time": 1757733204,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 425663,
-      "num": 425663,
-      "word": "美国人成批逃离本国",
-      "onboard_time": 1757741004,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 421135,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 411984,
-      "num": 163601,
+      "num": 165376,
       "word": "西贝回应称21元一个馒头早不卖了",
       "onboard_time": 1757742323,
       "rank": 21,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 404485,
-      "num": 226602,
+      "num": 265387,
       "word": "谢娜为女儿剪掉长发",
       "onboard_time": 1757741605,
       "rank": 31,
@@ -353,6 +353,14 @@
       "onboard_time": 1757734103,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 373828,
+      "num": 261600,
+      "word": "泡泡玛特新品发售仅10人排队",
+      "onboard_time": 1757744363,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 350429,
@@ -484,19 +492,11 @@
     },
     {
       "raw_hot": 264784,
-      "num": 163375,
+      "num": 163824,
       "word": "血糖失控的7个皮肤症状",
       "onboard_time": 1757744303,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 263518,
-      "num": 143302,
-      "word": "泡泡玛特新品发售仅10人排队",
-      "onboard_time": 1757744363,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 258352,
@@ -793,6 +793,14 @@
       "onboard_time": 1757733383,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174437,
+      "num": 174437,
+      "word": "敖瑞鹏直播",
+      "onboard_time": 1757745503,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 172796,
@@ -1339,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99714,
+      "num": 99714,
+      "word": "苏新皓创造了新的综艺名场面",
+      "onboard_time": 1757745144,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99358,
       "num": 125824,
       "word": "综艺不是缩名字加年份就会变好看",
@@ -1363,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96873,
+      "num": 96873,
+      "word": "万千惠优化员工比员工哭得还惨",
+      "onboard_time": 1757745863,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95898,
       "num": 203007,
       "word": "罗永浩直播剖析西贝原料",
@@ -1371,12 +1395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95887,
+      "num": 95887,
+      "word": "陈幸同国际赛场首胜韩莹",
+      "onboard_time": 1757745624,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95486,
       "num": 192956,
       "word": "一个网络视频有11个造谣点",
       "onboard_time": 1757728282,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94942,
+      "num": 94942,
+      "word": "殉职海警家属质疑为何只有一人营救",
+      "onboard_time": 1757745684,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94897,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1757745085,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93245,
+      "num": 93245,
+      "word": "猫 我被一种神秘的力量封印了",
+      "onboard_time": 1757745624,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 92587,
@@ -1451,6 +1499,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 88032,
+      "num": 272666,
+      "word": "央视曝光直播卖文物猫腻",
+      "onboard_time": 1757744963,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87701,
       "num": 87701,
       "word": "贾国龙称生意宁可不做是非必须得辩",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1757731043,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86919,
+      "num": 86919,
+      "word": "金价",
+      "onboard_time": 1757745863,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 86728,
@@ -1532,7 +1596,7 @@
     },
     {
       "raw_hot": 81380,
-      "num": 164259,
+      "num": 167809,
       "word": "起猛了大家都用华为三折叠批奏折",
       "onboard_time": 1757743165,
       "rank": 18,
@@ -1561,6 +1625,14 @@
       "onboard_time": 1757689585,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79997,
+      "num": 126795,
+      "word": "那英的口头禅是张晚意",
+      "onboard_time": 1757745144,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 79644,
@@ -1643,14 +1715,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64045,
-      "num": 163267,
-      "word": "央视曝光直播卖文物猫腻",
-      "onboard_time": 1757744963,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59928,
       "num": 59928,
       "word": "孙颖莎头顶天线下班",
@@ -1667,12 +1731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59087,
+      "num": 118776,
+      "word": "陈乔恩说自己瘦了一圈",
+      "onboard_time": 1757744784,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58758,
       "num": 89198,
       "word": "24期免息买iPhone17真香",
       "onboard_time": 1757682325,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 56686,
+      "num": 100217,
+      "word": "女子立遗嘱防失踪丈夫归来争产",
+      "onboard_time": 1757745804,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55864,
@@ -1713,14 +1793,6 @@
       "onboard_time": 1757741542,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47257,
-      "num": 118776,
-      "word": "陈乔恩说自己瘦了一圈",
-      "onboard_time": 1757744784,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 44939,
@@ -1835,19 +1907,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25442,
+      "num": 727231,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1757735963,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23635,
       "num": 58289,
       "word": "预制菜知情权",
       "onboard_time": 1757699418,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23326,
-      "num": 727231,
-      "word": "砥砺奋进七十载天山南北谱华章",
-      "onboard_time": 1757735963,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
