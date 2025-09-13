@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757731996562,
+  "endTime": 1757732578103,
   "band_list": [
     {
       "raw_hot": 1603957,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 667668,
-      "num": 214701,
+      "num": 216222,
       "word": "杨幂回复吴宣仪",
       "onboard_time": 1757724982,
       "rank": 15,
@@ -105,6 +105,14 @@
       "onboard_time": 1757693185,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 587964,
+      "num": 1094074,
+      "word": "老乡鸡微博置顶回应了预制菜",
+      "onboard_time": 1757730924,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 586530,
@@ -187,14 +195,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 316202,
-      "num": 193345,
-      "word": "老乡鸡微博置顶回应了预制菜",
-      "onboard_time": 1757730924,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 313056,
       "num": 313056,
       "word": "赴山海云包场滞销",
@@ -209,6 +209,14 @@
       "onboard_time": 1757679863,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281182,
+      "num": 254845,
+      "word": "建议不要有嘴甜羞耻症",
+      "onboard_time": 1757729482,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 271912,
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250739,
+      "num": 298440,
+      "word": "烈士遗骸安葬仪式",
+      "onboard_time": 1757724501,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 246581,
       "num": 246581,
       "word": "10岁女儿非亲生胃癌父亲已去世",
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234821,
+      "num": 260172,
+      "word": "这里是祖国英雄请安息",
+      "onboard_time": 1757732182,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 232997,
       "num": 232997,
       "word": "13岁奥莉近照",
@@ -307,20 +331,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 223531,
-      "num": 193302,
-      "word": "建议不要有嘴甜羞耻症",
-      "onboard_time": 1757729482,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 217776,
       "num": 282295,
       "word": "赴山海8旬老太跑的真快",
       "onboard_time": 1757726062,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217211,
+      "num": 189842,
+      "word": "贾国龙称生意不做了也要刚到底",
+      "onboard_time": 1757727621,
+      "rank": 32,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 217208,
+      "num": 264868,
+      "word": "范丞丞说我是俊凯",
+      "onboard_time": 1757731104,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 214512,
@@ -331,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211090,
-      "num": 189842,
-      "word": "贾国龙称生意不做了也要刚到底",
-      "onboard_time": 1757727621,
-      "rank": 32,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 209404,
       "num": 209404,
       "word": "李昀锐 我眼睛脏了",
@@ -347,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199588,
-      "num": 298440,
-      "word": "烈士遗骸安葬仪式",
-      "onboard_time": 1757724501,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 196075,
+      "num": 196075,
+      "word": "多国支持两国方案",
+      "onboard_time": 1757727501,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193581,
@@ -372,15 +396,47 @@
     },
     {
       "raw_hot": 190805,
-      "num": 146243,
+      "num": 154330,
       "word": "3种面包其实是热量炸弹",
       "onboard_time": 1757721440,
       "rank": 26,
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 189208,
+      "num": 189208,
+      "word": "罗永浩说西贝羊肉黄鱼冻了几个月",
+      "onboard_time": 1757729663,
+      "rank": 27,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 188653,
+      "num": 188653,
+      "word": "罗永浩回应西贝品牌负责人",
+      "onboard_time": 1757732302,
+      "rank": 24,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 183465,
+      "num": 183465,
+      "word": "西贝创始人找罗永浩没吃好的原因",
+      "onboard_time": 1757729722,
+      "rank": 26,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 177484,
+      "num": 215115,
+      "word": "李昀锐 早知道不接电话了",
+      "onboard_time": 1757731764,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172796,
-      "num": 193271,
+      "num": 208918,
       "word": "王俊凯出发丽江路透",
       "onboard_time": 1757730143,
       "rank": 14,
@@ -395,28 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169715,
-      "num": 193190,
-      "word": "多国支持两国方案",
-      "onboard_time": 1757727501,
-      "rank": 33,
+      "raw_hot": 162273,
+      "num": 162273,
+      "word": "鸣枪12响致敬志愿军烈士",
+      "onboard_time": 1757732243,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 161854,
+      "num": 161854,
+      "word": "法德英发表联合声明",
+      "onboard_time": 1757732544,
+      "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 162963,
-      "num": 162963,
-      "word": "罗永浩说西贝羊肉黄鱼冻了几个月",
-      "onboard_time": 1757729663,
-      "rank": 27,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 160872,
-      "num": 193117,
-      "word": "范丞丞说我是俊凯",
-      "onboard_time": 1757731104,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 155327,
@@ -433,6 +481,14 @@
       "onboard_time": 1757688865,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145676,
+      "num": 145676,
+      "word": "多国将承认巴勒斯坦国",
+      "onboard_time": 1757732363,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142797,
@@ -515,12 +571,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120842,
-      "num": 120842,
+      "raw_hot": 128625,
+      "num": 128625,
+      "word": "教资",
+      "onboard_time": 1757721621,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 128584,
+      "num": 162019,
+      "word": "第一次见为了上班这么努力的",
+      "onboard_time": 1757731404,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122609,
+      "num": 122609,
       "word": "环球影城偶遇一诺赵嘉敏",
       "onboard_time": 1757729124,
       "rank": 33,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 121081,
+      "num": 121081,
+      "word": "懒人沙发朋友",
+      "onboard_time": 1757732064,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 119493,
@@ -547,12 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117304,
-      "num": 117304,
+      "raw_hot": 117477,
+      "num": 117477,
       "word": "白鹿下一条争取在白天拍",
       "onboard_time": 1757730382,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113933,
+      "num": 113933,
+      "word": "邱党称尊重隐私与公平不可妥协",
+      "onboard_time": 1757732243,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 112345,
@@ -595,14 +683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 108098,
-      "num": 108098,
-      "word": "第一次见为了上班这么努力的",
-      "onboard_time": 1757731404,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107057,
       "num": 107057,
       "word": "iPhone17女生模式",
@@ -625,6 +705,14 @@
       "onboard_time": 1757671823,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100101,
+      "num": 100101,
+      "word": "法考",
+      "onboard_time": 1757720119,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 95898,
@@ -651,20 +739,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94749,
+      "num": 94749,
+      "word": "WTT澳门冠军赛13日赛程",
+      "onboard_time": 1757730682,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91868,
+      "num": 91868,
+      "word": "中国传媒大学2025级新生开学典礼",
+      "onboard_time": 1757729424,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 90678,
       "num": 90678,
       "word": "多部门回应石家庄巨响",
       "onboard_time": 1757725281,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90231,
-      "num": 90231,
-      "word": "李昀锐 早知道不接电话了",
-      "onboard_time": 1757731764,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 88844,
@@ -747,14 +843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81969,
-      "num": 81969,
-      "word": "WTT澳门冠军赛13日赛程",
-      "onboard_time": 1757730682,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81908,
       "num": 202684,
       "word": "西贝致顾客的一封信",
@@ -769,14 +857,6 @@
       "onboard_time": 1757686289,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 81351,
-      "num": 81351,
-      "word": "法考",
-      "onboard_time": 1757720119,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 80542,
@@ -809,22 +889,6 @@
       "onboard_time": 1757726062,
       "rank": 48,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 78506,
-      "num": 78506,
-      "word": "教资",
-      "onboard_time": 1757721621,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 77471,
-      "num": 77471,
-      "word": "中国传媒大学2025级新生开学典礼",
-      "onboard_time": 1757729424,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 76815,

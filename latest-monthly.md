@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 10:53:16
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 11:02:58
 </p>
 </blockquote>
 <p>
@@ -3465,6 +3465,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%E5%BE%AE%E5%8D%9A%E7%BD%AE%E9%A1%B6%E5%9B%9E%E5%BA%94%E4%BA%86%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
+老乡鸡微博置顶回应了预制菜（热度：587964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E9%A2%84%E5%94%AE%23" target="weibo">
 iPhone17系列预售（热度：587926）
 </a>
@@ -6005,12 +6011,6 @@ iPhone为什么只有P是大写（热度：389380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E7%97%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%23" target="weibo">
 首尔病是什么梗（热度：369531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E6%80%8E%E4%B9%88%E6%88%AA%E5%9B%BE%E9%83%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B8%85%23" target="weibo">
-中国排面怎么截图都是一个帅（热度：368725）
 </a>
 </li>
 
