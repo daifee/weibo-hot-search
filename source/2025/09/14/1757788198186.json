@@ -1,0 +1,410 @@
+{
+  "runTime": 1757788198186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 587676,
+        "num": 587676,
+        "word": "北京 冰河世纪",
+        "onboard_time": 1757782161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296249,
+        "num": 296249,
+        "word": "应急局回应山东现不明飞行物被击落",
+        "onboard_time": 1757773105,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16505,
+        "num": 164196,
+        "word": "国宝画重点",
+        "onboard_time": 1757769985,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143696,
+        "num": 143696,
+        "word": "李荣浩 这是个真事你们可以上网查",
+        "onboard_time": 1757777125,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126390,
+        "num": 126390,
+        "word": "唐嫣金熊猫最佳女主",
+        "onboard_time": 1757773046,
+        "rank": 4,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 124320,
+        "num": 124320,
+        "word": "北京多区发冰雹黄色预警",
+        "onboard_time": 1757781321,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124939,
+        "num": 123438,
+        "word": "何秋亊 人民非遗推荐人",
+        "onboard_time": 1757762362,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121785,
+        "num": 121785,
+        "word": "建议汪苏泷停止跳动常驻",
+        "onboard_time": 1757777605,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117906,
+        "num": 117906,
+        "word": "餐厅预制菜需明示",
+        "onboard_time": 1757750363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107737,
+        "num": 107737,
+        "word": "预制菜之王萨莉亚为啥没人骂",
+        "onboard_time": 1757763744,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86388,
+        "num": 86388,
+        "word": "北京冰雹有鸽子蛋大",
+        "onboard_time": 1757776525,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81440,
+        "num": 81440,
+        "word": "朱一龙金熊猫影帝",
+        "onboard_time": 1757776286,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79448,
+        "num": 79448,
+        "word": "赴山海抠图感",
+        "onboard_time": 1757772385,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76175,
+        "num": 76175,
+        "word": "建议不要再趴桌午睡了",
+        "onboard_time": 1757785458,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 68898,
+        "num": 68898,
+        "word": "蒋智豪确诊肺癌晚期最新发声",
+        "onboard_time": 1757750604,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62374,
+        "num": 68888,
+        "word": "泡泡玛特足金产品首发遇冷",
+        "onboard_time": 1757759544,
+        "rank": 15,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 61428,
+        "num": 68867,
+        "word": "谭松韵颁奖",
+        "onboard_time": 1757778384,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54271,
+        "num": 68853,
+        "word": "女子表演与蟒蛇亲嘴被咬血流不止",
+        "onboard_time": 1757768965,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49372,
+        "num": 68836,
+        "word": "中方将采取必要措施",
+        "onboard_time": 1757764765,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45775,
+        "num": 68828,
+        "word": "北京冰雹",
+        "onboard_time": 1757760204,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298340,
+        "num": 68807,
+        "word": "穆祉丞回应",
+        "onboard_time": 1757771726,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199195,
+        "num": 68783,
+        "word": "西贝厨师长称家里一顿没吃完也不会扔",
+        "onboard_time": 1757774246,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78456,
+        "num": 68776,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 56315,
+        "num": 68755,
+        "word": "唐嫣 我那体制内的女友",
+        "onboard_time": 1757760863,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48329,
+        "num": 68744,
+        "word": "杨幂直播",
+        "onboard_time": 1757766925,
+        "rank": 24,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 80477,
+        "num": 68723,
+        "word": "穆祉丞 橙粉色举起来",
+        "onboard_time": 1757762664,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42490,
+        "num": 68717,
+        "word": "瘦了20斤鼻子变化",
+        "onboard_time": 1757756482,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 42194,
+        "num": 68696,
+        "word": "让腿型越来越好看的三个动作",
+        "onboard_time": 1757778384,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 40338,
+        "num": 68682,
+        "word": "西贝员工称冻品西兰花符合国家标准",
+        "onboard_time": 1757779944,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36256,
+        "num": 68661,
+        "word": "成毅演到第9集换号了",
+        "onboard_time": 1757761164,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34254,
+        "num": 68643,
+        "word": "张康乐 小孩不许抽烟",
+        "onboard_time": 1757776585,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32939,
+        "num": 68633,
+        "word": "董璇张维伊吵架好真实",
+        "onboard_time": 1757777423,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31893,
+        "num": 68606,
+        "word": "金晨陈好田嘉瑞聚餐",
+        "onboard_time": 1757774425,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30398,
+        "num": 68601,
+        "word": "韩学者感叹才知道中国很牛",
+        "onboard_time": 1757779944,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30237,
+        "num": 68582,
+        "word": "蔡徐坤一出场哇声一片",
+        "onboard_time": 1757769744,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29509,
+        "num": 68553,
+        "word": "金熊猫",
+        "onboard_time": 1757760804,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28920,
+        "num": 68550,
+        "word": "潘玮柏本人微胖但体力很棒",
+        "onboard_time": 1757780902,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29933,
+        "num": 68520,
+        "word": "金晨衣服基础穿起来就不基础",
+        "onboard_time": 1757769564,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28873,
+        "num": 68511,
+        "word": "那英没有版权就让龚俊唱",
+        "onboard_time": 1757751144,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28822,
+        "num": 68491,
+        "word": "周笔畅重庆演唱会",
+        "onboard_time": 1757787676,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28419,
+        "num": 68477,
+        "word": "李宇春演唱会来了好多大王",
+        "onboard_time": 1757774065,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26432,
+        "num": 68460,
+        "word": "卢昱晓昨天妈妈今天辣妹",
+        "onboard_time": 1757764765,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26324,
+        "num": 68442,
+        "word": "千禾零加等商标被宣告无效",
+        "onboard_time": 1757778864,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26307,
+        "num": 68437,
+        "word": "易烊千玺myboo返场",
+        "onboard_time": 1757783719,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26147,
+        "num": 68417,
+        "word": "李兰迪露背好辣",
+        "onboard_time": 1757761043,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25549,
+        "num": 68388,
+        "word": "EDG对阵NRG",
+        "onboard_time": 1757774065,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25129,
+        "num": 68384,
+        "word": "陈丽君月亮姐姐 忘年恋",
+        "onboard_time": 1757779344,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20604,
+        "num": 68366,
+        "word": "孙颖莎vs迪亚兹",
+        "onboard_time": 1757766807,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19577,
+        "num": 68344,
+        "word": "王楚钦说暂停是和教练更好的沟通",
+        "onboard_time": 1757783300,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19006,
+        "num": 68328,
+        "word": "白发美男天花板",
+        "onboard_time": 1757775924,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}

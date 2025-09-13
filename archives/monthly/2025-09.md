@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/14 01:36:23
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/14 02:29:58
 </p>
 </blockquote>
 <p>
@@ -3717,6 +3717,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%20%E5%86%B0%E6%B2%B3%E4%B8%96%E7%BA%AA%23" target="weibo">
+北京 冰河世纪（热度：587676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E9%9B%A8%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8%23" target="weibo">
 河南大雨暴雨大暴雨（热度：587138）
 </a>
@@ -6005,12 +6011,6 @@ iPhone为什么只有P是大写（热度：389380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E9%85%92%E5%90%A7%E8%B9%A6%E8%BF%AA%23" target="weibo">
 痞幼酒吧蹦迪（热度：389134）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A5%E5%90%BB%E7%9A%84%E6%97%B6%E5%80%99%E9%97%BB%E4%B8%8D%E5%88%B0%E5%AF%B9%E6%96%B9%E5%8F%A3%E8%87%AD%23" target="weibo">
-为什么接吻的时候闻不到对方口臭（热度：389063）
 </a>
 </li>
 

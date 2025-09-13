@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757784983439,
+  "endTime": 1757788198186,
   "band_list": [
     {
       "raw_hot": 1157067,
@@ -67,6 +67,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 587676,
+      "num": 587676,
+      "word": "北京 冰河世纪",
+      "onboard_time": 1757782161,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471944,
       "num": 471944,
       "word": "预制菜之王萨莉亚为啥没人骂",
@@ -97,14 +105,6 @@
       "onboard_time": 1757760863,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282846,
-      "num": 282846,
-      "word": "北京 冰河世纪",
-      "onboard_time": 1757782161,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281411,
@@ -243,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124320,
+      "num": 145832,
+      "word": "北京多区发冰雹黄色预警",
+      "onboard_time": 1757781321,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121415,
       "num": 121415,
       "word": "陈丽君月亮姐姐 忘年恋",
@@ -379,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76175,
+      "num": 76175,
+      "word": "建议不要再趴桌午睡了",
+      "onboard_time": 1757785458,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 75810,
       "num": 120921,
       "word": "潘玮柏本人微胖但体力很棒",
@@ -393,14 +409,6 @@
       "onboard_time": 1757769564,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 73719,
-      "num": 145832,
-      "word": "北京多区发冰雹黄色预警",
-      "onboard_time": 1757781321,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59060,
@@ -457,6 +465,22 @@
       "onboard_time": 1757769985,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28822,
+      "num": 68491,
+      "word": "周笔畅重庆演唱会",
+      "onboard_time": 1757787676,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 28419,
+      "num": 68477,
+      "word": "李宇春演唱会来了好多大王",
+      "onboard_time": 1757774065,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 27640,
