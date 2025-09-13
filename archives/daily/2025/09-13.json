@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757740932504,
+  "endTime": 1757741911608,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -8,6 +8,14 @@
       "word": "李一桐退圈了",
       "onboard_time": 1757737164,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2069912,
+      "num": 2069912,
+      "word": "李维嘉因为谢娜才下决心复出",
+      "onboard_time": 1757740222,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -91,20 +99,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 798178,
+      "num": 798178,
+      "word": "转账付款竟然是可以拦截的",
+      "onboard_time": 1757736922,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 770904,
       "num": 450901,
       "word": "第一批吃西贝罗永浩菜单食客发声",
       "onboard_time": 1757688088,
       "rank": 6,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 763942,
-      "num": 763942,
-      "word": "转账付款竟然是可以拦截的",
-      "onboard_time": 1757736922,
-      "rank": 36,
-      "category": "科学科普"
     },
     {
       "raw_hot": 753063,
@@ -137,14 +145,6 @@
       "onboard_time": 1757725702,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 720197,
-      "num": 720197,
-      "word": "李维嘉因为谢娜才下决心复出",
-      "onboard_time": 1757740222,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 684413,
@@ -185,6 +185,14 @@
       "onboard_time": 1757693185,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 617901,
+      "num": 296317,
+      "word": "董璇理解了为什么办婚礼能分手",
+      "onboard_time": 1757740763,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 586530,
@@ -347,6 +355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294553,
+      "num": 294553,
+      "word": "无锡蛋糕店老板称胜诉1年未获道歉",
+      "onboard_time": 1757737164,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291471,
+      "num": 260381,
+      "word": "翟佳宁喜单2总冠军",
+      "onboard_time": 1757739623,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285272,
       "num": 264867,
       "word": "祝绪丹祝杨幂所愿皆所得",
@@ -401,6 +425,14 @@
       "onboard_time": 1757725702,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 258352,
+      "num": 258352,
+      "word": "多名网友看到不明飞行物被击落",
+      "onboard_time": 1757740404,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258117,
@@ -523,14 +555,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 226028,
-      "num": 226028,
-      "word": "翟佳宁喜单2总冠军",
-      "onboard_time": 1757739623,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225331,
       "num": 244667,
       "word": "唐国强的五官辨识度连AI都动不了",
@@ -603,6 +627,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199932,
+      "num": 199932,
+      "word": "美国人成批逃离本国",
+      "onboard_time": 1757741004,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 196957,
+      "num": 196957,
+      "word": "杨紫 风里有秋天的味道啦",
+      "onboard_time": 1757740763,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196075,
       "num": 196075,
       "word": "多国支持两国方案",
@@ -635,14 +675,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 192179,
-      "num": 192179,
-      "word": "多名网友看到不明飞行物被击落",
-      "onboard_time": 1757740404,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190805,
       "num": 154330,
       "word": "3种面包其实是热量炸弹",
@@ -665,6 +697,14 @@
       "onboard_time": 1757729722,
       "rank": 26,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 184981,
+      "num": 190290,
+      "word": "孟子义 喜单好多冠军都坐在观众席",
+      "onboard_time": 1757740642,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 183470,
@@ -715,36 +755,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169751,
-      "num": 169751,
-      "word": "孟子义 喜单好多冠军都坐在观众席",
-      "onboard_time": 1757740642,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167722,
       "num": 167722,
       "word": "曾一鸣说李佳薇火不了",
       "onboard_time": 1757734343,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166294,
-      "num": 268237,
-      "word": "无锡蛋糕店老板称胜诉1年未获道歉",
-      "onboard_time": 1757737164,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164442,
-      "num": 164442,
-      "word": "董璇理解了为什么办婚礼能分手",
-      "onboard_time": 1757740763,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 163576,
@@ -843,12 +859,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 142550,
+      "num": 142550,
+      "word": "谢娜为女儿剪掉长发",
+      "onboard_time": 1757741605,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142051,
       "num": 203691,
       "word": "刘雨昕人气太超过了",
       "onboard_time": 1757692645,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141993,
+      "num": 141993,
+      "word": "雷军回应整治汽车黑公关",
+      "onboard_time": 1757741064,
+      "rank": 32,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 141263,
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 138725,
-      "num": 138725,
+      "num": 190546,
       "word": "石家庄多地突发巨响",
       "onboard_time": 1757739504,
       "rank": 36,
@@ -987,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126015,
-      "num": 126015,
-      "word": "杨紫 风里有秋天的味道啦",
-      "onboard_time": 1757740763,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125706,
       "num": 185583,
       "word": "藏海传肖战原声台词",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1757730382,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117079,
+      "num": 117079,
+      "word": "offer7第一期就淘汰清华学霸",
+      "onboard_time": 1757741724,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 114488,
@@ -1171,6 +1203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 100998,
+      "num": 100998,
+      "word": "月薪暴露了你工作的态度",
+      "onboard_time": 1757741485,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100581,
       "num": 203127,
       "word": "国家实行公民终身法治教育制度",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1757671823,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99358,
+      "num": 125824,
+      "word": "综艺不是缩名字加年份就会变好看",
+      "onboard_time": 1757741843,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 95898,
@@ -1483,6 +1531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49331,
+      "num": 165577,
+      "word": "柯克遇刺后遗孀首度发声",
+      "onboard_time": 1757741542,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44939,
       "num": 73831,
       "word": "预加工 预制菜",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1757696780,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43407,
+      "num": 191662,
+      "word": "警方公布刺杀柯克案物证人证",
+      "onboard_time": 1757741485,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42928,
