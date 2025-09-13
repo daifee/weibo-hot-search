@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757752872339,
+  "endTime": 1757755347689,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1749084,
-      "num": 200440,
+      "num": 210521,
       "word": "罗永浩 西贝",
       "onboard_time": 1757744063,
       "rank": 20,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1654005,
+      "num": 1654005,
+      "word": "那英没有版权就让龚俊唱",
+      "onboard_time": 1757751144,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1603957,
@@ -99,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1074138,
-      "num": 1171862,
-      "word": "那英没有版权就让龚俊唱",
-      "onboard_time": 1757751144,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1044420,
       "num": 1167107,
       "word": "卡塔尔感谢中国正义发声",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 832038,
-      "num": 334336,
+      "num": 351895,
       "word": "赴山海被赐名山海关",
       "onboard_time": 1757748504,
       "rank": 18,
@@ -185,6 +185,14 @@
       "onboard_time": 1757750004,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 760085,
+      "num": 760085,
+      "word": "美国农民绝望喊话 中国不买只能销毁",
+      "onboard_time": 1757750843,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 753063,
@@ -355,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 434172,
+      "num": 434172,
+      "word": "林诗栋3比4林德",
+      "onboard_time": 1757752943,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421135,
       "num": 421135,
       "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 411984,
-      "num": 199554,
+      "num": 200366,
       "word": "西贝回应称21元一个馒头早不卖了",
       "onboard_time": 1757742323,
       "rank": 21,
@@ -409,6 +425,14 @@
       "onboard_time": 1757746403,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 391094,
+      "num": 201657,
+      "word": "罗永浩回应餐厅预制菜强制披露",
+      "onboard_time": 1757754324,
+      "rank": 22,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 374835,
@@ -457,14 +481,6 @@
       "onboard_time": 1757741964,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335055,
-      "num": 335055,
-      "word": "美国农民绝望喊话 中国不买只能销毁",
-      "onboard_time": 1757750843,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 334964,
@@ -609,6 +625,14 @@
       "onboard_time": 1757744303,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259769,
+      "num": 259769,
+      "word": "国乒男单仅王楚钦晋级四强",
+      "onboard_time": 1757753543,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 258352,
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 208730,
-      "num": 208730,
+      "num": 216437,
       "word": "offer7第一期就淘汰清华学霸",
       "onboard_time": 1757741724,
       "rank": 42,
@@ -849,6 +873,14 @@
       "onboard_time": 1757736683,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 197685,
+      "num": 197685,
+      "word": "全红婵今天入学报到",
+      "onboard_time": 1757753963,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 196957,
@@ -939,11 +971,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180990,
+      "num": 220391,
+      "word": "赵昭仪自媒体圣体",
+      "onboard_time": 1757754683,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172796,
       "num": 229615,
       "word": "王俊凯出发丽江路透",
       "onboard_time": 1757730143,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172130,
+      "num": 172130,
+      "word": "早安朋友圈乱成一锅粥了",
+      "onboard_time": 1757752704,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -953,6 +1001,14 @@
       "onboard_time": 1757747784,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171850,
+      "num": 171850,
+      "word": "B4U战胜ZETA",
+      "onboard_time": 1757754263,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 171667,
@@ -1027,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157082,
+      "num": 157082,
+      "word": "第五人格赛事",
+      "onboard_time": 1757754324,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155716,
       "num": 155716,
       "word": "花儿与少年埃及转场",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1757748204,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147848,
+      "num": 147848,
+      "word": "王楚钦说半决赛一定是艰苦的比赛",
+      "onboard_time": 1757754205,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 147421,
@@ -1243,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133159,
+      "num": 133159,
+      "word": "女童被蜜蜂蜇伤后30分钟不幸离世",
+      "onboard_time": 1757752883,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132525,
       "num": 102284,
       "word": "罗永浩问西贝还有救吗",
@@ -1347,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125997,
+      "num": 168505,
+      "word": "A股预制菜概念连涨8个月",
+      "onboard_time": 1757752644,
+      "rank": 27,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 125964,
       "num": 125964,
       "word": "iPhone发朋友圈的高级玩法",
@@ -1361,6 +1449,14 @@
       "onboard_time": 1757732722,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123641,
+      "num": 123641,
+      "word": "林诗栋无缘澳门赛四强",
+      "onboard_time": 1757752824,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122609,
@@ -1393,6 +1489,14 @@
       "onboard_time": 1757732064,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121019,
+      "num": 133085,
+      "word": "武契奇回应被中国网友叫577",
+      "onboard_time": 1757754683,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120395,
@@ -1491,14 +1595,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 112954,
-      "num": 112954,
-      "word": "早安朋友圈乱成一锅粥了",
-      "onboard_time": 1757752704,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112345,
       "num": 203313,
       "word": "王橹杰穆祉丞穿了同款",
@@ -1513,6 +1609,14 @@
       "onboard_time": 1757752404,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111903,
+      "num": 111903,
+      "word": "魔卡少女樱狼樱交往八年了",
+      "onboard_time": 1757751744,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 111830,
@@ -1553,6 +1657,14 @@
       "onboard_time": 1757674404,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109358,
+      "num": 127676,
+      "word": "内娱终于拍了我妈爱看的剧",
+      "onboard_time": 1757755043,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 109342,
@@ -1643,6 +1755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 105683,
+      "num": 171946,
+      "word": "马思纯李沁与历史跨越三千年的相遇",
+      "onboard_time": 1757754504,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102234,
       "num": 102234,
       "word": "陈幸同vs韩莹单局用时25分钟",
@@ -1689,14 +1809,6 @@
       "onboard_time": 1757745144,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99463,
-      "num": 99463,
-      "word": "魔卡少女樱狼樱交往八年了",
-      "onboard_time": 1757751744,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 99358,
@@ -1851,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89079,
+      "num": 139704,
+      "word": "胡塞武装称打击以色列多个敏感目标",
+      "onboard_time": 1757754623,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88995,
       "num": 88995,
       "word": "为什么不建议长期侧躺看手机",
@@ -1873,14 +1993,6 @@
       "onboard_time": 1757678125,
       "rank": 43,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 88305,
-      "num": 88305,
-      "word": "林诗栋无缘澳门赛四强",
-      "onboard_time": 1757752824,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 87701,
@@ -2067,14 +2179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76307,
-      "num": 168505,
-      "word": "A股预制菜概念连涨8个月",
-      "onboard_time": 1757752644,
-      "rank": 27,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 75902,
       "num": 75902,
       "word": "猫咪蜷缩时身上的花纹形成了闭环",
@@ -2097,6 +2201,14 @@
       "onboard_time": 1757691985,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71729,
+      "num": 213080,
+      "word": "这76条路线把中国旅游玩明白了",
+      "onboard_time": 1757753483,
+      "rank": 19,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 70181,
@@ -2153,6 +2265,14 @@
       "onboard_time": 1757734043,
       "rank": 37,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 54977,
+      "num": 538512,
+      "word": "服贸会",
+      "onboard_time": 1757753004,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51968,
@@ -2217,6 +2337,14 @@
       "onboard_time": 1757720000,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42617,
+      "num": 129892,
+      "word": "幼儿园开课教擦屁股获家长点赞",
+      "onboard_time": 1757754443,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 42448,
@@ -2433,6 +2561,9 @@
     },
     {
       "word": "#习近平签署国家主席令#"
+    },
+    {
+      "word": "#走和平发展的人间正道#"
     }
   ]
 }
