@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757759944772,
+  "endTime": 1757762346962,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1749084,
-      "num": 210521,
+      "num": 253394,
       "word": "罗永浩 西贝",
       "onboard_time": 1757744063,
       "rank": 20,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1507641,
+      "num": 272146,
+      "word": "唐嫣 我那体制内的女友",
+      "onboard_time": 1757760863,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1261517,
       "num": 754378,
       "word": "迅猛龙复旦入学考试成绩",
@@ -88,6 +96,14 @@
       "word": "老乡鸡微博置顶回应了预制菜",
       "onboard_time": 1757730924,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1109628,
+      "num": 1177540,
+      "word": "北京冰雹",
+      "onboard_time": 1757760204,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1062001,
-      "num": 254014,
+      "num": 264312,
       "word": "瘦了20斤鼻子变化",
       "onboard_time": 1757756482,
       "rank": 10,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 669325,
-      "num": 247851,
+      "num": 252961,
       "word": "杨幂碎钻高定红裙",
       "onboard_time": 1757756183,
       "rank": 12,
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583613,
+      "num": 254613,
+      "word": "李兰迪露背好辣",
+      "onboard_time": 1757761043,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 558705,
       "num": 359353,
       "word": "王灿拉黑杜淳30多次",
@@ -321,6 +345,22 @@
       "onboard_time": 1757689887,
       "rank": 4,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 538503,
+      "num": 254512,
+      "word": "喝水后几个表现说明肾不好",
+      "onboard_time": 1757758943,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 533796,
+      "num": 405121,
+      "word": "泡泡玛特足金产品首发遇冷",
+      "onboard_time": 1757759544,
+      "rank": 41,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 531031,
@@ -491,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 373843,
+      "num": 373843,
+      "word": "成毅演到第9集换号了",
+      "onboard_time": 1757761164,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357764,
       "num": 357764,
       "word": "教资科三",
@@ -539,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330573,
+      "num": 252648,
+      "word": "西贝涉事门店客流比平时还多几十桌",
+      "onboard_time": 1757758222,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323497,
       "num": 496204,
       "word": "江西南丰县发生交通事故致5死",
@@ -547,12 +603,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 315859,
+      "num": 315859,
+      "word": "KT战胜GEN",
+      "onboard_time": 1757760564,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 313056,
       "num": 313056,
       "word": "赴山海云包场滞销",
       "onboard_time": 1757724262,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310702,
+      "num": 310702,
+      "word": "北京暴雨",
+      "onboard_time": 1757760983,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296533,
@@ -577,6 +649,14 @@
       "onboard_time": 1757739623,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289983,
+      "num": 289983,
+      "word": "游客自驾撞死6匹马",
+      "onboard_time": 1757759963,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285272,
@@ -692,7 +772,7 @@
     },
     {
       "raw_hot": 257064,
-      "num": 193006,
+      "num": 214092,
       "word": "西贝在售手工馒头3.9元一个",
       "onboard_time": 1757757505,
       "rank": 23,
@@ -745,14 +825,6 @@
       "onboard_time": 1757687487,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238642,
-      "num": 194455,
-      "word": "西贝涉事门店客流比平时还多几十桌",
-      "onboard_time": 1757758222,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234821,
@@ -809,6 +881,14 @@
       "onboard_time": 1757732544,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 228575,
+      "num": 228575,
+      "word": "王曼昱vs朱雨玲",
+      "onboard_time": 1757760444,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 227930,
@@ -875,20 +955,20 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 216031,
+      "num": 279724,
+      "word": "谭松韵黑天鹅",
+      "onboard_time": 1757761824,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214512,
       "num": 433762,
       "word": "方可帮迪丽热巴做的发型",
       "onboard_time": 1757687248,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210181,
-      "num": 210181,
-      "word": "喝水后几个表现说明肾不好",
-      "onboard_time": 1757758943,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 209801,
@@ -955,12 +1035,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201275,
+      "num": 224570,
+      "word": "德甲发布樊振东励志短片",
+      "onboard_time": 1757761943,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199430,
+      "num": 254005,
+      "word": "李宇春演唱会",
+      "onboard_time": 1757760804,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199095,
       "num": 199095,
       "word": "唐嫣橙色西装套装",
       "onboard_time": 1757757022,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198957,
+      "num": 198957,
+      "word": "T1 斗魂",
+      "onboard_time": 1757761403,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 197685,
@@ -1033,6 +1137,14 @@
       "onboard_time": 1757732302,
       "rank": 24,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 186373,
+      "num": 186373,
+      "word": "卢昱晓周峻纬咋认识的",
+      "onboard_time": 1757761043,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 185019,
@@ -1259,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151856,
+      "num": 151856,
+      "word": "上海暴雨",
+      "onboard_time": 1757761762,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151239,
       "num": 151239,
       "word": "想吃主观题的苦",
@@ -1371,6 +1491,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144422,
+      "num": 144422,
+      "word": "林德回应4比3林诗栋",
+      "onboard_time": 1757762184,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143551,
+      "num": 221863,
+      "word": "金熊猫",
+      "onboard_time": 1757760804,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142797,
       "num": 203721,
       "word": "罗永浩还没吃过老乡鸡",
@@ -1425,6 +1561,14 @@
       "onboard_time": 1757704454,
       "rank": 25,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 139415,
+      "num": 153506,
+      "word": "王俊凯被衣架攻击了",
+      "onboard_time": 1757761643,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 139280,
@@ -1499,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133015,
+      "num": 153617,
+      "word": "胡锡进建议西贝及时止损",
+      "onboard_time": 1757761403,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132525,
       "num": 102284,
       "word": "罗永浩问西贝还有救吗",
@@ -1555,14 +1707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129350,
-      "num": 129350,
-      "word": "泡泡玛特足金产品首发遇冷",
-      "onboard_time": 1757759544,
-      "rank": 41,
-      "category": "民生新闻,休闲"
-    },
-    {
       "raw_hot": 128944,
       "num": 170553,
       "word": "王影璐第一杯敬自己",
@@ -1595,12 +1739,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127959,
+      "num": 127959,
+      "word": "GEN对战KT",
+      "onboard_time": 1757756663,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127571,
       "num": 151132,
       "word": "梁王组合晋级决赛",
       "onboard_time": 1757748624,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127443,
+      "num": 221346,
+      "word": "张晚意抹面包手法都比抹脸强",
+      "onboard_time": 1757760324,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 127305,
@@ -1705,14 +1865,6 @@
       "onboard_time": 1757722881,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119285,
-      "num": 119285,
-      "word": "GEN对战KT",
-      "onboard_time": 1757756663,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 118901,
@@ -2092,7 +2244,7 @@
     },
     {
       "raw_hot": 98743,
-      "num": 140974,
+      "num": 253472,
       "word": "户外人有自己的答案之书了",
       "onboard_time": 1757759483,
       "rank": 39,
@@ -2491,6 +2643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68198,
+      "num": 253942,
+      "word": "娃哈哈将启用新品牌",
+      "onboard_time": 1757761762,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67730,
       "num": 74539,
       "word": "薛凯琪回应被AI换脸制作不雅视频",
@@ -2537,6 +2697,14 @@
       "onboard_time": 1757756482,
       "rank": 18,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 56255,
+      "num": 153750,
+      "word": "小伙无症状查出恶性程度最高胃癌",
+      "onboard_time": 1757762064,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55864,
