@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 18:22:59
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 18:39:04
 </p>
 </blockquote>
 <p>
@@ -4833,6 +4833,12 @@ iPhone16需求不降反升（热度：477574）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%8F%AB577%23" target="weibo">
+武契奇回应被中国网友叫577（热度：456656）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E6%99%92%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%B0%8F%E9%85%92%E7%AA%9D%E5%90%88%E7%85%A7%23" target="weibo">
 董璇晒佟丽娅小酒窝合照（热度：455853）
 </a>
@@ -5339,12 +5345,6 @@ iPhone14机主是灵动岛岛主（热度：435707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%20%E5%8E%9F%E6%9D%A5%E5%86%85%E5%A8%B1%E7%BB%99%E6%88%91%E6%98%AF%E8%BF%99%E4%B8%AA%E5%AE%9A%E4%BD%8D%23" target="weibo">
 沈佳润 原来内娱给我是这个定位（热度：425888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%8F%AB577%23" target="weibo">
-武契奇回应被中国网友叫577（热度：424989）
 </a>
 </li>
 

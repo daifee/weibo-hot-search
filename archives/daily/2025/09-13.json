@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757758979539,
+  "endTime": 1757759944772,
   "band_list": [
     {
       "raw_hot": 2347334,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1062001,
-      "num": 202313,
+      "num": 254014,
       "word": "瘦了20斤鼻子变化",
       "onboard_time": 1757756482,
       "rank": 10,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 669325,
-      "num": 195659,
+      "num": 247851,
       "word": "杨幂碎钻高定红裙",
       "onboard_time": 1757756183,
       "rank": 12,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456656,
+      "num": 456656,
+      "word": "武契奇回应被中国网友叫577",
+      "onboard_time": 1757754683,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447275,
       "num": 425663,
       "word": "美国人成批逃离本国",
@@ -385,14 +393,6 @@
       "onboard_time": 1757752943,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424989,
-      "num": 424989,
-      "word": "武契奇回应被中国网友叫577",
-      "onboard_time": 1757754683,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 421135,
@@ -488,6 +488,14 @@
       "word": "教资科一",
       "onboard_time": 1757734103,
       "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 357764,
+      "num": 357764,
+      "word": "教资科三",
+      "onboard_time": 1757758642,
+      "rank": 9,
       "category": "教育"
     },
     {
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 257064,
-      "num": 169958,
+      "num": 193006,
       "word": "西贝在售手工馒头3.9元一个",
       "onboard_time": 1757757505,
       "rank": 23,
@@ -737,6 +745,14 @@
       "onboard_time": 1757687487,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238642,
+      "num": 194455,
+      "word": "西贝涉事门店客流比平时还多几十桌",
+      "onboard_time": 1757758222,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234821,
@@ -867,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210181,
+      "num": 210181,
+      "word": "喝水后几个表现说明肾不好",
+      "onboard_time": 1757758943,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 209801,
       "num": 209801,
       "word": "教资选择",
@@ -891,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208324,
+      "num": 256744,
+      "word": "上海7500吨建筑自己走路",
+      "onboard_time": 1757759064,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207918,
       "num": 207918,
       "word": "王俊凯直播",
@@ -905,14 +937,6 @@
       "onboard_time": 1757749162,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204941,
-      "num": 204941,
-      "word": "教资科三",
-      "onboard_time": 1757758642,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 202215,
@@ -931,6 +955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199095,
+      "num": 199095,
+      "word": "唐嫣橙色西装套装",
+      "onboard_time": 1757757022,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197685,
       "num": 197685,
       "word": "全红婵今天入学报到",
@@ -944,6 +976,14 @@
       "word": "杨紫 风里有秋天的味道啦",
       "onboard_time": 1757740763,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196200,
+      "num": 196200,
+      "word": "让卢昱晓戴帽子的人是天才",
+      "onboard_time": 1757757924,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -995,14 +1035,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 185375,
-      "num": 166800,
-      "word": "西贝涉事门店客流比平时还多几十桌",
-      "onboard_time": 1757758222,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185019,
       "num": 185019,
       "word": "西贝创始人找罗永浩没吃好的原因",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1757733383,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180793,
+      "num": 180793,
+      "word": "美主持人说用死亡注射处理流浪汉",
+      "onboard_time": 1757755642,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173231,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1757738665,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170921,
-      "num": 167148,
-      "word": "唐嫣橙色西装套装",
-      "onboard_time": 1757757022,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 170499,
@@ -1155,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161114,
+      "num": 168590,
+      "word": "这些食物是血糖刺客",
+      "onboard_time": 1757758884,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158926,
       "num": 158926,
       "word": "梁伟铿王昶2比0李芳至李芳任",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1757754324,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 156525,
-      "num": 156525,
-      "word": "喝水后几个表现说明肾不好",
-      "onboard_time": 1757758943,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155716,
@@ -1204,11 +1236,19 @@
     },
     {
       "raw_hot": 154438,
-      "num": 173169,
+      "num": 190245,
       "word": "赴山海2025年最快破亿剧集",
       "onboard_time": 1757757743,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154278,
+      "num": 154278,
+      "word": "法考答案",
+      "onboard_time": 1757758884,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 154134,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1757734343,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151239,
+      "num": 151239,
+      "word": "想吃主观题的苦",
+      "onboard_time": 1757758042,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 149953,
@@ -1267,28 +1315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148737,
+      "num": 193669,
+      "word": "周星驰给张艺兴送花篮",
+      "onboard_time": 1757756843,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147421,
       "num": 163991,
       "word": "老乡鸡复热预制菜仅有两道",
       "onboard_time": 1757743582,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146995,
-      "num": 168590,
-      "word": "这些食物是血糖刺客",
-      "onboard_time": 1757758884,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 146979,
-      "num": 146979,
-      "word": "美主持人说用死亡注射处理流浪汉",
-      "onboard_time": 1757755642,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 146945,
@@ -1305,14 +1345,6 @@
       "onboard_time": 1757751744,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146891,
-      "num": 167539,
-      "word": "让卢昱晓戴帽子的人是天才",
-      "onboard_time": 1757757924,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 145779,
@@ -1396,7 +1428,7 @@
     },
     {
       "raw_hot": 139280,
-      "num": 168079,
+      "num": 191810,
       "word": "此沙看垃圾的眼神",
       "onboard_time": 1757756963,
       "rank": 27,
@@ -1443,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136176,
-      "num": 167824,
-      "word": "周星驰给张艺兴送花篮",
-      "onboard_time": 1757756843,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134473,
       "num": 171946,
       "word": "马思纯李沁与历史跨越三千年的相遇",
@@ -1491,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130891,
+      "num": 192224,
+      "word": "时代少年团烟火收藏家纪录片",
+      "onboard_time": 1757758522,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130592,
       "num": 144255,
       "word": "汪苏泷演唱会cue你好星期六",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1757693185,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129350,
+      "num": 129350,
+      "word": "泡泡玛特足金产品首发遇冷",
+      "onboard_time": 1757759544,
+      "rank": 41,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 128944,
@@ -1635,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121165,
+      "num": 121165,
+      "word": "每天喝第一杯咖啡的最佳时间",
+      "onboard_time": 1757758463,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 121081,
       "num": 121081,
       "word": "懒人沙发朋友",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1757722881,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119285,
+      "num": 119285,
+      "word": "GEN对战KT",
+      "onboard_time": 1757756663,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 118901,
@@ -1689,14 +1745,6 @@
       "onboard_time": 1757744784,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118006,
-      "num": 118006,
-      "word": "每天喝第一杯咖啡的最佳时间",
-      "onboard_time": 1757758463,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 117994,
@@ -1955,20 +2003,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 105252,
-      "num": 105252,
-      "word": "法考答案",
-      "onboard_time": 1757758884,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 102234,
       "num": 102234,
       "word": "陈幸同vs韩莹单局用时25分钟",
       "onboard_time": 1757744963,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101607,
+      "num": 191052,
+      "word": "周深努力成长努力唱歌为了这一刻",
+      "onboard_time": 1757759423,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 101190,
@@ -2041,6 +2089,14 @@
       "onboard_time": 1757745804,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98743,
+      "num": 140974,
+      "word": "户外人有自己的答案之书了",
+      "onboard_time": 1757759483,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 97580,
@@ -2161,6 +2217,14 @@
       "onboard_time": 1757744963,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92461,
+      "num": 151638,
+      "word": "预制菜羞耻该成为历史了",
+      "onboard_time": 1757758583,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91868,
@@ -2475,14 +2539,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 56158,
-      "num": 151638,
-      "word": "预制菜羞耻该成为历史了",
-      "onboard_time": 1757758583,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55864,
       "num": 168355,
       "word": "3桶羽毛球赶上1克黄金",
@@ -2683,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27815,
+      "num": 196070,
+      "word": "嘻哈王越也有线下嘴替了",
+      "onboard_time": 1757757983,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26994,
       "num": 343127,
       "word": "服贸会周末逛吃全攻略",
@@ -2721,14 +2785,6 @@
       "onboard_time": 1757727023,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19555,
-      "num": 171679,
-      "word": "嘻哈王越也有线下嘴替了",
-      "onboard_time": 1757757983,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 19499,
