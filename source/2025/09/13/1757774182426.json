@@ -1,0 +1,410 @@
+{
+  "runTime": 1757774182426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2415647,
+        "num": 2415647,
+        "word": "穆祉丞回应",
+        "onboard_time": 1757771726,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1098396,
+        "num": 1098396,
+        "word": "预制菜之王萨莉亚为啥没人骂",
+        "onboard_time": 1757763744,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48163,
+        "num": 456180,
+        "word": "国宝画重点",
+        "onboard_time": 1757769985,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1885225,
+        "num": 455091,
+        "word": "唐嫣金熊猫最佳女主",
+        "onboard_time": 1757773046,
+        "rank": 3,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 449455,
+        "num": 449455,
+        "word": "应急局回应山东现不明飞行物被击落",
+        "onboard_time": 1757773105,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413655,
+        "num": 413655,
+        "word": "中方将采取必要措施",
+        "onboard_time": 1757764765,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 817950,
+        "num": 390970,
+        "word": "穆祉丞 橙粉色举起来",
+        "onboard_time": 1757762664,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 500515,
+        "num": 371388,
+        "word": "赴山海抠图感",
+        "onboard_time": 1757772385,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344240,
+        "num": 344240,
+        "word": "北京冰雹",
+        "onboard_time": 1757760204,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342213,
+        "num": 342213,
+        "word": "餐厅预制菜需明示",
+        "onboard_time": 1757750363,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467432,
+        "num": 337595,
+        "word": "女子表演与蟒蛇亲嘴被咬血流不止",
+        "onboard_time": 1757768965,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417196,
+        "num": 336204,
+        "word": "何秋亊 人民非遗推荐人",
+        "onboard_time": 1757762362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367528,
+        "num": 335593,
+        "word": "蒋智豪确诊肺癌晚期最新发声",
+        "onboard_time": 1757750604,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329457,
+        "num": 329457,
+        "word": "杨幂直播",
+        "onboard_time": 1757766925,
+        "rank": 13,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 286608,
+        "num": 286608,
+        "word": "卢昱晓昨天妈妈今天辣妹",
+        "onboard_time": 1757764765,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282622,
+        "num": 282622,
+        "word": "瘦了20斤鼻子变化",
+        "onboard_time": 1757756482,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 222786,
+        "num": 222786,
+        "word": "泡泡玛特足金产品首发遇冷",
+        "onboard_time": 1757759544,
+        "rank": 16,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 212893,
+        "num": 212893,
+        "word": "成毅演到第9集换号了",
+        "onboard_time": 1757761164,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195972,
+        "num": 195972,
+        "word": "孙颖莎跟队友挥手鼓掌",
+        "onboard_time": 1757773706,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158841,
+        "num": 195927,
+        "word": "孙颖莎vs迪亚兹",
+        "onboard_time": 1757766807,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570933,
+        "num": 195865,
+        "word": "唐嫣 我那体制内的女友",
+        "onboard_time": 1757760863,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432885,
+        "num": 195827,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 201013,
+        "num": 195776,
+        "word": "鞠婧祎日系天菜",
+        "onboard_time": 1757772986,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197838,
+        "num": 195744,
+        "word": "那英没有版权就让龚俊唱",
+        "onboard_time": 1757751144,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195696,
+        "num": 195696,
+        "word": "西贝一门店厨师长没有厨师证",
+        "onboard_time": 1757768125,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189617,
+        "num": 189617,
+        "word": "连李晟都受不了冷暴力",
+        "onboard_time": 1757770166,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74758,
+        "num": 188124,
+        "word": "央视起底所谓零添加酱油真相",
+        "onboard_time": 1757773947,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 187937,
+        "num": 187937,
+        "word": "西贝厨师长称隔夜菜和预制菜是俩东西",
+        "onboard_time": 1757771186,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172223,
+        "num": 172223,
+        "word": "贺峻霖专业课都没白上",
+        "onboard_time": 1757773586,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31053,
+        "num": 170695,
+        "word": "投诉污染被打获赔案父子被判无罪",
+        "onboard_time": 1757773884,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144613,
+        "num": 169917,
+        "word": "对美进口相关模拟芯片反倾销立案调查",
+        "onboard_time": 1757766085,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224281,
+        "num": 169884,
+        "word": "EDG对阵NRG",
+        "onboard_time": 1757774065,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169731,
+        "num": 169731,
+        "word": "蔡徐坤一出场哇声一片",
+        "onboard_time": 1757769744,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162975,
+        "num": 162975,
+        "word": "金熊猫",
+        "onboard_time": 1757760804,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57459,
+        "num": 159396,
+        "word": "目击者讲述不明飞行物被击落瞬间",
+        "onboard_time": 1757774126,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130578,
+        "num": 158599,
+        "word": "孙颖莎迪亚兹友好贴贴",
+        "onboard_time": 1757772145,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158293,
+        "num": 158293,
+        "word": "金晨衣服基础穿起来就不基础",
+        "onboard_time": 1757769564,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154780,
+        "num": 154780,
+        "word": "李兰迪露背好辣",
+        "onboard_time": 1757761043,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148227,
+        "num": 148227,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1757765966,
+        "rank": 38,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 134895,
+        "num": 134895,
+        "word": "李宇春演唱会来了好多大王",
+        "onboard_time": 1757774065,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132312,
+        "num": 132312,
+        "word": "国乒澳门赛包揽女单四强",
+        "onboard_time": 1757771006,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "法考",
+        "onboard_time": 1757753543,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131758,
+        "num": 131758,
+        "word": "西贝涉事门店客流比平时还多几十桌",
+        "onboard_time": 1757758222,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131658,
+        "num": 131658,
+        "word": "刘隽编舞vlog",
+        "onboard_time": 1757768304,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137793,
+        "num": 131243,
+        "word": "李宇春直播",
+        "onboard_time": 1757768184,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130168,
+        "num": 130168,
+        "word": "刘涛晒周深演唱会现场",
+        "onboard_time": 1757773706,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128023,
+        "num": 128023,
+        "word": "TCG夺冠",
+        "onboard_time": 1757774065,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127598,
+        "num": 127598,
+        "word": "邓紫棋演唱会的雷暴特效有多真",
+        "onboard_time": 1757773165,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124787,
+        "num": 124787,
+        "word": "贾国龙称西贝利润约5％",
+        "onboard_time": 1757771006,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118790,
+        "num": 118790,
+        "word": "斗破苍穹164集",
+        "onboard_time": 1757773466,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}

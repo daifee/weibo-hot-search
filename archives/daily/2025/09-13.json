@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757773165227,
+  "endTime": 1757774182426,
   "band_list": [
     {
       "raw_hot": 3054582,
@@ -33,6 +33,14 @@
       "onboard_time": 1757733805,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1885225,
+      "num": 455091,
+      "word": "唐嫣金熊猫最佳女主",
+      "onboard_time": 1757773046,
+      "rank": 6,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1749084,
@@ -323,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 676503,
-      "num": 307132,
-      "word": "唐嫣金熊猫最佳女主",
-      "onboard_time": 1757773046,
-      "rank": 6,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 676295,
       "num": 903276,
       "word": "外交部表态以72小时内袭击6国",
@@ -476,11 +476,19 @@
     },
     {
       "raw_hot": 501222,
-      "num": 254216,
+      "num": 337595,
       "word": "女子表演与蟒蛇亲嘴被咬血流不止",
       "onboard_time": 1757768965,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500515,
+      "num": 371388,
+      "word": "赴山海抠图感",
+      "onboard_time": 1757772385,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 494925,
@@ -529,6 +537,14 @@
       "onboard_time": 1757754683,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 449455,
+      "num": 449455,
+      "word": "应急局回应山东现不明飞行物被击落",
+      "onboard_time": 1757773105,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447275,
@@ -1067,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226912,
-      "num": 226912,
-      "word": "赴山海抠图感",
-      "onboard_time": 1757772385,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225331,
       "num": 244667,
       "word": "唐国强的五官辨识度连AI都动不了",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1757754683,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224281,
+      "num": 169884,
+      "word": "EDG对阵NRG",
+      "onboard_time": 1757774065,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 219932,
@@ -1339,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195972,
+      "num": 195972,
+      "word": "孙颖莎跟队友挥手鼓掌",
+      "onboard_time": 1757773706,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195770,
       "num": 212252,
       "word": "猫咪九宫格朋友圈教程",
@@ -1379,6 +1403,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 189617,
+      "num": 189617,
+      "word": "连李晟都受不了冷暴力",
+      "onboard_time": 1757770166,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188653,
       "num": 188653,
       "word": "罗永浩回应西贝品牌负责人",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1757768005,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187937,
+      "num": 187937,
+      "word": "西贝厨师长称隔夜菜和预制菜是俩东西",
+      "onboard_time": 1757771186,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186373,
@@ -1433,14 +1473,6 @@
       "onboard_time": 1757737285,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182516,
-      "num": 182516,
-      "word": "连李晟都受不了冷暴力",
-      "onboard_time": 1757770166,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 182354,
@@ -1491,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175109,
-      "num": 175109,
-      "word": "西贝厨师长称隔夜菜和预制菜是俩东西",
-      "onboard_time": 1757771186,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173231,
       "num": 173231,
       "word": "ACT对战RC",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1757730143,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172223,
+      "num": 172223,
+      "word": "贺峻霖专业课都没白上",
+      "onboard_time": 1757773586,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 172130,
@@ -1988,7 +2020,7 @@
     },
     {
       "raw_hot": 139350,
-      "num": 139350,
+      "num": 158599,
       "word": "孙颖莎迪亚兹友好贴贴",
       "onboard_time": 1757772145,
       "rank": 43,
@@ -2099,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134895,
+      "num": 134895,
+      "word": "李宇春演唱会来了好多大王",
+      "onboard_time": 1757774065,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134732,
       "num": 134732,
       "word": "常州vs宿迁",
@@ -2203,6 +2243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130168,
+      "num": 130168,
+      "word": "刘涛晒周深演唱会现场",
+      "onboard_time": 1757773706,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129852,
       "num": 129852,
       "word": "韩民众举讽刺画接316名在美获释人员",
@@ -2259,12 +2307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128023,
+      "num": 128023,
+      "word": "TCG夺冠",
+      "onboard_time": 1757774065,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127959,
       "num": 127959,
       "word": "GEN对战KT",
       "onboard_time": 1757756663,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127598,
+      "num": 127598,
+      "word": "邓紫棋演唱会的雷暴特效有多真",
+      "onboard_time": 1757773165,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 127571,
@@ -2329,6 +2393,14 @@
       "onboard_time": 1757732722,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124787,
+      "num": 124787,
+      "word": "贾国龙称西贝利润约5％",
+      "onboard_time": 1757771006,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124217,
@@ -2427,12 +2499,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 118662,
-      "num": 169790,
-      "word": "应急局回应山东现不明飞行物被击落",
-      "onboard_time": 1757773105,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 118790,
+      "num": 118790,
+      "word": "斗破苍穹164集",
+      "onboard_time": 1757773466,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 118295,
@@ -3187,6 +3259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74758,
+      "num": 188124,
+      "word": "央视起底所谓零添加酱油真相",
+      "onboard_time": 1757773947,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 74484,
       "num": 213080,
       "word": "这76条路线把中国旅游玩明白了",
@@ -3289,6 +3369,14 @@
       "onboard_time": 1757756482,
       "rank": 18,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 57459,
+      "num": 159396,
+      "word": "目击者讲述不明飞行物被击落瞬间",
+      "onboard_time": 1757774126,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55864,
@@ -3481,6 +3569,14 @@
       "onboard_time": 1757701517,
       "rank": 42,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 31053,
+      "num": 170695,
+      "word": "投诉污染被打获赔案父子被判无罪",
+      "onboard_time": 1757773884,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30936,
