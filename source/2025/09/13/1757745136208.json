@@ -1,0 +1,410 @@
+{
+  "runTime": 1757745136208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1572168,
+        "num": 1572168,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463100,
+        "num": 463100,
+        "word": "转账付款竟然是可以拦截的",
+        "onboard_time": 1757736922,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21102,
+        "num": 435315,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757735963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804944,
+        "num": 431010,
+        "word": "徐艺洋自曝婚礼将不请伴郎伴娘",
+        "onboard_time": 1757742204,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425663,
+        "num": 425663,
+        "word": "美国人成批逃离本国",
+        "onboard_time": 1757741004,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 406692,
+        "num": 406692,
+        "word": "老乡鸡微博置顶回应了预制菜",
+        "onboard_time": 1757730924,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678654,
+        "num": 399991,
+        "word": "董璇理解了为什么办婚礼能分手",
+        "onboard_time": 1757740763,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448369,
+        "num": 374849,
+        "word": "迅猛龙复旦入学考试成绩",
+        "onboard_time": 1757736023,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339980,
+        "num": 339980,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1757741964,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227751,
+        "num": 227751,
+        "word": "多名网友看到不明飞行物被击落",
+        "onboard_time": 1757740404,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404485,
+        "num": 226602,
+        "word": "谢娜为女儿剪掉长发",
+        "onboard_time": 1757741605,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284631,
+        "num": 225082,
+        "word": "杨幂回复了祝绪丹",
+        "onboard_time": 1757724262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557696,
+        "num": 223014,
+        "word": "张维伊冲董璇喊",
+        "onboard_time": 1757744005,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238733,
+        "num": 220493,
+        "word": "翟佳宁喜单2总冠军",
+        "onboard_time": 1757739623,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218658,
+        "num": 218658,
+        "word": "无锡蛋糕店老板称胜诉1年未获道歉",
+        "onboard_time": 1757737164,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208963,
+        "num": 208963,
+        "word": "99年从月薪5千到5.5万的真实感受",
+        "onboard_time": 1757734944,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202215,
+        "num": 202215,
+        "word": "孟子义 喜单好多冠军都坐在观众席",
+        "onboard_time": 1757740642,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164355,
+        "num": 164355,
+        "word": "鲍蕾说陆毅太瘦会被他帅哭",
+        "onboard_time": 1757737704,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81380,
+        "num": 164259,
+        "word": "起猛了大家都用华为三折叠批奏折",
+        "onboard_time": 1757743165,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147421,
+        "num": 163991,
+        "word": "老乡鸡复热预制菜仅有两道",
+        "onboard_time": 1757743582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1749084,
+        "num": 163680,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 411984,
+        "num": 163601,
+        "word": "西贝回应称21元一个馒头早不卖了",
+        "onboard_time": 1757742323,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163414,
+        "num": 163414,
+        "word": "太牛了这个贺峻霖",
+        "onboard_time": 1757743883,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264784,
+        "num": 163375,
+        "word": "血糖失控的7个皮肤症状",
+        "onboard_time": 1757744303,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81273,
+        "num": 163355,
+        "word": "八部门印发汽车行业稳增长方案",
+        "onboard_time": 1757743763,
+        "rank": 24,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 64045,
+        "num": 163267,
+        "word": "央视曝光直播卖文物猫腻",
+        "onboard_time": 1757744963,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260568,
+        "num": 163214,
+        "word": "西贝冷冻蔬菜被误会了",
+        "onboard_time": 1757733682,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163192,
+        "num": 163192,
+        "word": "offer7第一期就淘汰清华学霸",
+        "onboard_time": 1757741724,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145779,
+        "num": 145779,
+        "word": "石家庄多地突发巨响",
+        "onboard_time": 1757739504,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104837,
+        "num": 143641,
+        "word": "九三阅兵式上唯一一面空军战旗",
+        "onboard_time": 1757733204,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263518,
+        "num": 143302,
+        "word": "泡泡玛特新品发售仅10人排队",
+        "onboard_time": 1757744363,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 141893,
+        "num": 141893,
+        "word": "关晓彤半夜喝酒发朋友圈",
+        "onboard_time": 1757682627,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133973,
+        "num": 133973,
+        "word": "李昀锐 早知道不接电话了",
+        "onboard_time": 1757731764,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133567,
+        "num": 133567,
+        "word": "林一一句话全世界的问号都吻上了金靖",
+        "onboard_time": 1757742743,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129356,
+        "num": 129356,
+        "word": "罗永浩回应西贝品牌负责人",
+        "onboard_time": 1757732302,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 124847,
+        "num": 124847,
+        "word": "米哈游公司回应原神角色着装暴露",
+        "onboard_time": 1757744303,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124819,
+        "num": 124819,
+        "word": "iPhone发朋友圈的高级玩法",
+        "onboard_time": 1757744185,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122455,
+        "num": 122455,
+        "word": "西贝厨师称速冻油炸茄子是外卖款",
+        "onboard_time": 1757725882,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121802,
+        "num": 121802,
+        "word": "杨紫 风里有秋天的味道啦",
+        "onboard_time": 1757740763,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47257,
+        "num": 118776,
+        "word": "陈乔恩说自己瘦了一圈",
+        "onboard_time": 1757744784,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117642,
+        "num": 117642,
+        "word": "患癌青3选手蒋智豪时隔一年报平安",
+        "onboard_time": 1757744784,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102982,
+        "num": 102982,
+        "word": "法考",
+        "onboard_time": 1757720119,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102234,
+        "num": 102234,
+        "word": "陈幸同vs韩莹单局用时25分钟",
+        "onboard_time": 1757744963,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97495,
+        "num": 97495,
+        "word": "陈数专业的时候好有魅力",
+        "onboard_time": 1757742564,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97481,
+        "num": 97481,
+        "word": "哇唧内娱男团上新啦",
+        "onboard_time": 1757743406,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95062,
+        "num": 95062,
+        "word": "月薪暴露了你工作的态度",
+        "onboard_time": 1757741485,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94294,
+        "num": 94294,
+        "word": "陈幸同韩莹进入数板阶段",
+        "onboard_time": 1757745024,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94247,
+        "num": 94247,
+        "word": "范丞丞错把于洋当成佟丽娅",
+        "onboard_time": 1757745085,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92587,
+        "num": 92587,
+        "word": "刘耀文一个帅气的飞踢",
+        "onboard_time": 1757744963,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90842,
+        "num": 90842,
+        "word": "教资作文",
+        "onboard_time": 1757733805,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国今日如你所愿#"
+    }
+  }
+}
