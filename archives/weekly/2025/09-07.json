@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757769951544,
+  "endTime": 1757770608670,
   "band_list": [
     {
       "raw_hot": 32498210,
@@ -715,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1350152,
+      "num": 1350152,
+      "word": "穆祉丞 橙粉色举起来",
+      "onboard_time": 1757762664,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1348367,
       "num": 379347,
       "word": "黄杨钿甜中戏迎新晚会表演",
@@ -857,14 +865,6 @@
       "onboard_time": 1757216662,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1254329,
-      "num": 1254329,
-      "word": "穆祉丞 橙粉色举起来",
-      "onboard_time": 1757762664,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 1242539,
@@ -1900,7 +1900,7 @@
     },
     {
       "raw_hot": 752420,
-      "num": 320030,
+      "num": 337883,
       "word": "卢昱晓昨天妈妈今天辣妹",
       "onboard_time": 1757764765,
       "rank": 11,
@@ -2827,6 +2827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 561597,
+      "num": 561597,
+      "word": "杨幂直播",
+      "onboard_time": 1757766925,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 561269,
       "num": 895483,
       "word": "湖南男子驾车碾死同学被判死缓",
@@ -2961,14 +2969,6 @@
       "onboard_time": 1757502202,
       "rank": 16,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 539139,
-      "num": 539139,
-      "word": "杨幂直播",
-      "onboard_time": 1757766925,
-      "rank": 43,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 538503,
@@ -3244,7 +3244,7 @@
     },
     {
       "raw_hot": 494925,
-      "num": 296650,
+      "num": 376520,
       "word": "李宇春直播",
       "onboard_time": 1757768184,
       "rank": 34,
@@ -3721,6 +3721,14 @@
       "onboard_time": 1757242161,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 438505,
+      "num": 438505,
+      "word": "孙颖莎vs迪亚兹",
+      "onboard_time": 1757766807,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 437544,
@@ -4971,14 +4979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337756,
-      "num": 337756,
-      "word": "孙颖莎vs迪亚兹",
-      "onboard_time": 1757766807,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 336359,
       "num": 336359,
       "word": "宁静左手柯淳右手邵子恒",
@@ -5025,6 +5025,14 @@
       "onboard_time": 1757317882,
       "rank": 16,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 331560,
+      "num": 331560,
+      "word": "孙颖莎10比12迪亚兹",
+      "onboard_time": 1757769085,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 331224,
@@ -6923,14 +6931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 224224,
-      "num": 224224,
-      "word": "孙颖莎10比12迪亚兹",
-      "onboard_time": 1757769085,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223734,
       "num": 278102,
       "word": "六部门开展汽车行业网络乱象整治",
@@ -7339,6 +7339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212537,
+      "num": 212537,
+      "word": "石凯直播",
+      "onboard_time": 1757768425,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212152,
       "num": 212152,
       "word": "奶茶 全世界最聪明的男人",
@@ -7625,6 +7633,14 @@
       "onboard_time": 1757595095,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 204478,
+      "num": 204478,
+      "word": "金晨衣服基础穿起来就不基础",
+      "onboard_time": 1757769564,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 204334,
@@ -7969,6 +7985,14 @@
       "onboard_time": 1757597135,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200778,
+      "num": 200778,
+      "word": "女子表演与蟒蛇亲嘴被咬血流不止",
+      "onboard_time": 1757768965,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200417,
@@ -8331,6 +8355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195407,
+      "num": 195407,
+      "word": "宋亚轩当前台给穆祉丞寄快递",
+      "onboard_time": 1757769625,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195016,
       "num": 195016,
       "word": "日本男乒澳门赛首轮全部出局",
@@ -8353,6 +8385,14 @@
       "onboard_time": 1757594016,
       "rank": 22,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 194829,
+      "num": 194829,
+      "word": "蔡徐坤一出场哇声一片",
+      "onboard_time": 1757769744,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 194761,
@@ -8401,14 +8441,6 @@
       "onboard_time": 1757567802,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 194613,
-      "num": 194613,
-      "word": "金晨衣服基础穿起来就不基础",
-      "onboard_time": 1757769564,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 194462,
@@ -8867,14 +8899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189451,
-      "num": 189451,
-      "word": "石凯直播",
-      "onboard_time": 1757768425,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189371,
       "num": 189371,
       "word": "吴艳妮填补中国女子短跨十年空白",
@@ -8931,12 +8955,28 @@
       "category": "剧集,音乐"
     },
     {
+      "raw_hot": 188421,
+      "num": 188421,
+      "word": "韩庚演唱会",
+      "onboard_time": 1757769506,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188093,
       "num": 289891,
       "word": "你好星期六",
       "onboard_time": 1757393904,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188075,
+      "num": 188075,
+      "word": "渝超",
+      "onboard_time": 1757768005,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 187975,
@@ -9057,14 +9097,6 @@
       "onboard_time": 1757761043,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186103,
-      "num": 186103,
-      "word": "渝超",
-      "onboard_time": 1757768005,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 186062,
@@ -11331,14 +11363,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 157157,
-      "num": 157157,
-      "word": "蔡徐坤一出场哇声一片",
-      "onboard_time": 1757769744,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157149,
       "num": 157149,
       "word": "女兵说胆敢挑衅那你来试试",
@@ -11787,6 +11811,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 151777,
+      "num": 159169,
+      "word": "3名大学生用自来水诈骗60万",
+      "onboard_time": 1757768904,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 151717,
       "num": 151717,
       "word": "钟美美开课专业的事找专业的人",
@@ -12187,14 +12219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148721,
-      "num": 157428,
-      "word": "女子表演与蟒蛇亲嘴被咬血流不止",
-      "onboard_time": 1757768965,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148693,
       "num": 148693,
       "word": "王源 师从闫妮",
@@ -12241,14 +12265,6 @@
       "onboard_time": 1757567085,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148100,
-      "num": 148100,
-      "word": "宋亚轩当前台给穆祉丞寄快递",
-      "onboard_time": 1757769625,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 148093,
@@ -13147,20 +13163,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140685,
+      "num": 140685,
+      "word": "陆虎一开口梦回延禧攻略",
+      "onboard_time": 1757770465,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140666,
       "num": 140666,
       "word": "上海百年老洋房降价5334万再流拍",
       "onboard_time": 1757244140,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140616,
-      "num": 140616,
-      "word": "韩庚演唱会",
-      "onboard_time": 1757769506,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 140505,
@@ -14313,14 +14329,6 @@
       "onboard_time": 1757424863,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133239,
-      "num": 159169,
-      "word": "3名大学生用自来水诈骗60万",
-      "onboard_time": 1757768904,
-      "rank": 38,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 133190,
@@ -16763,6 +16771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115269,
+      "num": 115269,
+      "word": "孙颖莎哎呀呀打飞了",
+      "onboard_time": 1757770584,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115205,
       "num": 115205,
       "word": "三种天然散结节食物",
@@ -18969,6 +18985,14 @@
       "onboard_time": 1757229681,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99315,
+      "num": 153990,
+      "word": "鞠婧祎让主持人多喝一点丝瓜汤",
+      "onboard_time": 1757770166,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99162,
@@ -22347,6 +22371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49092,
+      "num": 339562,
+      "word": "讨论预制菜的时候我们在关心什么",
+      "onboard_time": 1757769684,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48974,
       "num": 169979,
       "word": "男子一开口满山猴子回复了",
@@ -22609,6 +22641,14 @@
       "onboard_time": 1757741485,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43122,
+      "num": 151918,
+      "word": "连李晟都受不了冷暴力",
+      "onboard_time": 1757770166,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 42928,
@@ -23451,6 +23491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26891,
+      "num": 740071,
+      "word": "国宝画重点",
+      "onboard_time": 1757769985,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26605,
       "num": 183086,
       "word": "张晚意正得发邪这一块",
@@ -23721,14 +23769,6 @@
       "onboard_time": 1757190374,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20083,
-      "num": 276806,
-      "word": "讨论预制菜的时候我们在关心什么",
-      "onboard_time": 1757769684,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20076,

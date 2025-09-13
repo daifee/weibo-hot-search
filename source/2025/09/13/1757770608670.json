@@ -1,0 +1,410 @@
+{
+  "runTime": 1757770608670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575354,
+        "num": 1575354,
+        "word": "预制菜之王萨莉亚为啥没人骂",
+        "onboard_time": 1757763744,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1350152,
+        "num": 1350152,
+        "word": "穆祉丞 橙粉色举起来",
+        "onboard_time": 1757762664,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26891,
+        "num": 740071,
+        "word": "国宝画重点",
+        "onboard_time": 1757769985,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 722246,
+        "num": 722246,
+        "word": "中方将采取必要措施",
+        "onboard_time": 1757764765,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 561597,
+        "num": 561597,
+        "word": "杨幂直播",
+        "onboard_time": 1757766925,
+        "rank": 4,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 438505,
+        "num": 438505,
+        "word": "孙颖莎vs迪亚兹",
+        "onboard_time": 1757766807,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500855,
+        "num": 391961,
+        "word": "蒋智豪确诊肺癌晚期最新发声",
+        "onboard_time": 1757750604,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464299,
+        "num": 376520,
+        "word": "李宇春直播",
+        "onboard_time": 1757768184,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339902,
+        "num": 339902,
+        "word": "餐厅预制菜需明示",
+        "onboard_time": 1757750363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49092,
+        "num": 339562,
+        "word": "讨论预制菜的时候我们在关心什么",
+        "onboard_time": 1757769684,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547855,
+        "num": 337883,
+        "word": "卢昱晓昨天妈妈今天辣妹",
+        "onboard_time": 1757764765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420150,
+        "num": 336257,
+        "word": "何秋亊 人民非遗推荐人",
+        "onboard_time": 1757762362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390624,
+        "num": 333454,
+        "word": "刘隽编舞vlog",
+        "onboard_time": 1757768304,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383357,
+        "num": 331725,
+        "word": "瘦了20斤鼻子变化",
+        "onboard_time": 1757756482,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 331560,
+        "num": 331560,
+        "word": "孙颖莎10比12迪亚兹",
+        "onboard_time": 1757769085,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304486,
+        "num": 304486,
+        "word": "北京冰雹",
+        "onboard_time": 1757760204,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299471,
+        "num": 299471,
+        "word": "成毅演到第9集换号了",
+        "onboard_time": 1757761164,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239396,
+        "num": 239396,
+        "word": "游客自驾撞死6匹马",
+        "onboard_time": 1757759963,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235857,
+        "num": 235857,
+        "word": "泡泡玛特足金产品首发遇冷",
+        "onboard_time": 1757759544,
+        "rank": 18,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 212537,
+        "num": 212537,
+        "word": "石凯直播",
+        "onboard_time": 1757768425,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 900918,
+        "num": 211491,
+        "word": "唐嫣 我那体制内的女友",
+        "onboard_time": 1757760863,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551841,
+        "num": 211323,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 323265,
+        "num": 210122,
+        "word": "那英没有版权就让龚俊唱",
+        "onboard_time": 1757751144,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287208,
+        "num": 208679,
+        "word": "喝水后几个表现说明肾不好",
+        "onboard_time": 1757758943,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228905,
+        "num": 207781,
+        "word": "西贝一门店厨师长没有厨师证",
+        "onboard_time": 1757768125,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198074,
+        "num": 205725,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1757765966,
+        "rank": 25,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 205590,
+        "num": 205590,
+        "word": "李兰迪露背好辣",
+        "onboard_time": 1757761043,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204478,
+        "num": 204478,
+        "word": "金晨衣服基础穿起来就不基础",
+        "onboard_time": 1757769564,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200778,
+        "num": 200778,
+        "word": "女子表演与蟒蛇亲嘴被咬血流不止",
+        "onboard_time": 1757768965,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195407,
+        "num": 195407,
+        "word": "宋亚轩当前台给穆祉丞寄快递",
+        "onboard_time": 1757769625,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194829,
+        "num": 194829,
+        "word": "蔡徐坤一出场哇声一片",
+        "onboard_time": 1757769744,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189017,
+        "num": 189017,
+        "word": "法考",
+        "onboard_time": 1757753543,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188421,
+        "num": 188421,
+        "word": "韩庚演唱会",
+        "onboard_time": 1757769506,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188075,
+        "num": 188075,
+        "word": "渝超",
+        "onboard_time": 1757768005,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177454,
+        "num": 177454,
+        "word": "对美进口相关模拟芯片反倾销立案调查",
+        "onboard_time": 1757766085,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175372,
+        "num": 175372,
+        "word": "李维嘉因为谢娜才下决心复出",
+        "onboard_time": 1757740222,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159943,
+        "num": 159943,
+        "word": "谭松韵黑天鹅",
+        "onboard_time": 1757761824,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158271,
+        "num": 158271,
+        "word": "西贝涉事门店客流比平时还多几十桌",
+        "onboard_time": 1757758222,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99315,
+        "num": 153990,
+        "word": "鞠婧祎让主持人多喝一点丝瓜汤",
+        "onboard_time": 1757770166,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43122,
+        "num": 151918,
+        "word": "连李晟都受不了冷暴力",
+        "onboard_time": 1757770166,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151777,
+        "num": 151777,
+        "word": "3名大学生用自来水诈骗60万",
+        "onboard_time": 1757768904,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 140685,
+        "num": 140685,
+        "word": "陆虎一开口梦回延禧攻略",
+        "onboard_time": 1757770465,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140178,
+        "num": 140178,
+        "word": "杨幂碎钻高定红裙",
+        "onboard_time": 1757756183,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 135679,
+        "num": 135679,
+        "word": "0713又合体了",
+        "onboard_time": 1757766146,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133558,
+        "num": 133558,
+        "word": "柯尔鸭身价暴跌",
+        "onboard_time": 1757764466,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128514,
+        "num": 128514,
+        "word": "李宇春演唱会",
+        "onboard_time": 1757760804,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123025,
+        "num": 123025,
+        "word": "KT晋级S15",
+        "onboard_time": 1757769025,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121850,
+        "num": 121850,
+        "word": "JDG战胜WBG",
+        "onboard_time": 1757767766,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120310,
+        "num": 120310,
+        "word": "王琳说妈妈打她打到17岁",
+        "onboard_time": 1757767766,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115269,
+        "num": 115269,
+        "word": "孙颖莎哎呀呀打飞了",
+        "onboard_time": 1757770584,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}
