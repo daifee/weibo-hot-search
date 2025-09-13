@@ -1,0 +1,410 @@
+{
+  "runTime": 1757728660507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1044420,
+        "num": 1167107,
+        "word": "卡塔尔感谢中国正义发声",
+        "onboard_time": 1757724440,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 798897,
+        "num": 798897,
+        "word": "卡塔尔感谢中国为中东注入和平能量",
+        "onboard_time": 1757721561,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28399,
+        "num": 543480,
+        "word": "万千气象看浙里",
+        "onboard_time": 1757685388,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531031,
+        "num": 531031,
+        "word": "迪丽热巴迪奥大使合影站C",
+        "onboard_time": 1757724320,
+        "rank": 3,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 369315,
+        "num": 369315,
+        "word": "暗杀柯克的凶手确认身份",
+        "onboard_time": 1757693185,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313056,
+        "num": 313056,
+        "word": "赴山海云包场滞销",
+        "onboard_time": 1757724262,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303418,
+        "num": 303418,
+        "word": "海底捞小便事件涉案者父母赔220万",
+        "onboard_time": 1757675423,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109080,
+        "num": 298440,
+        "word": "烈士遗骸安葬仪式",
+        "onboard_time": 1757724501,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159038,
+        "num": 290915,
+        "word": "现役军人暴雨中跳河救人不幸牺牲",
+        "onboard_time": 1757725281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217776,
+        "num": 282295,
+        "word": "赴山海8旬老太跑的真快",
+        "onboard_time": 1757726062,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1515343,
+        "num": 272271,
+        "word": "杨幂回复了祝绪丹",
+        "onboard_time": 1757724262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263665,
+        "num": 263665,
+        "word": "男子胃癌去世把房子留给非亲生女儿",
+        "onboard_time": 1757726542,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223930,
+        "num": 223930,
+        "word": "iPhone17全系已排至10月",
+        "onboard_time": 1757719638,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200665,
+        "num": 200665,
+        "word": "欧阳娜娜镜头一移出现刘昊然",
+        "onboard_time": 1757687667,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174414,
+        "num": 174414,
+        "word": "美英军舰过航台湾海峡并滋扰挑衅",
+        "onboard_time": 1757691625,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 667668,
+        "num": 163757,
+        "word": "杨幂回复吴宣仪",
+        "onboard_time": 1757724982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141234,
+        "num": 141234,
+        "word": "多国支持两国方案",
+        "onboard_time": 1757727501,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131975,
+        "num": 131975,
+        "word": "张檬谈溺爱儿子",
+        "onboard_time": 1757687487,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118952,
+        "num": 118952,
+        "word": "李昀锐 我眼睛脏了",
+        "onboard_time": 1757683107,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 100257,
+        "word": "李嘉琦随身带血糖检测仪",
+        "onboard_time": 1757683949,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1115575,
+        "num": 100120,
+        "word": "关晓彤半夜喝酒发朋友圈",
+        "onboard_time": 1757682627,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1092422,
+        "num": 99283,
+        "word": "西贝线下门店店长发声",
+        "onboard_time": 1757724501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722118,
+        "num": 98758,
+        "word": "于东来删除力挺西贝言论",
+        "onboard_time": 1757725702,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610671,
+        "num": 98237,
+        "word": "西贝 罗永浩",
+        "onboard_time": 1757722641,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 502088,
+        "num": 97944,
+        "word": "西贝厨师称速冻油炸茄子是外卖款",
+        "onboard_time": 1757725882,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225817,
+        "num": 97234,
+        "word": "建议年轻人不要长期当服务员",
+        "onboard_time": 1757720179,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225308,
+        "num": 96861,
+        "word": "中央厨房制作不纳入预制菜",
+        "onboard_time": 1757685687,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211090,
+        "num": 96109,
+        "word": "贾国龙称生意不做了也要刚到底",
+        "onboard_time": 1757727621,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 190805,
+        "num": 95502,
+        "word": "3种面包其实是热量炸弹",
+        "onboard_time": 1757721440,
+        "rank": 28,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 95486,
+        "num": 95486,
+        "word": "一个网络视频有11个造谣点",
+        "onboard_time": 1757728282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141728,
+        "num": 95412,
+        "word": "美国女孩怀念16年前在中国买咖啡",
+        "onboard_time": 1757727501,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119493,
+        "num": 95268,
+        "word": "60岁母亲被14岁少年驾车撞亡",
+        "onboard_time": 1757722881,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111434,
+        "num": 95182,
+        "word": "山东一学校部分师生腹痛呕吐",
+        "onboard_time": 1757725702,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 106503,
+        "num": 95060,
+        "word": "外交部表态以72小时内袭击6国",
+        "onboard_time": 1757681846,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94983,
+        "num": 94983,
+        "word": "宋雨琦王安宇互晒合照",
+        "onboard_time": 1757686825,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91947,
+        "num": 91947,
+        "word": "女明星助理怎么会谁当都一样",
+        "onboard_time": 1757697740,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91728,
+        "num": 91728,
+        "word": "iPhone17女生模式",
+        "onboard_time": 1757679746,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90678,
+        "num": 90678,
+        "word": "多部门回应石家庄巨响",
+        "onboard_time": 1757725281,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50556,
+        "num": 88036,
+        "word": "宋亚轩你玩孔雀东南飞的气势呢",
+        "onboard_time": 1757728462,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86059,
+        "num": 87633,
+        "word": "iPhone专属调色公式",
+        "onboard_time": 1757728402,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87614,
+        "num": 87614,
+        "word": "西贝召开1.8万人罗永浩作战大会",
+        "onboard_time": 1757728641,
+        "rank": 40,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 86287,
+        "num": 86287,
+        "word": "浙江老板花3000元挽回约800万损失",
+        "onboard_time": 1757688865,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85971,
+        "num": 85971,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1757682385,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80542,
+        "num": 80542,
+        "word": "国产手机eSIM还会远吗",
+        "onboard_time": 1757725281,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75902,
+        "num": 75902,
+        "word": "猫咪蜷缩时身上的花纹形成了闭环",
+        "onboard_time": 1757728462,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75123,
+        "num": 75123,
+        "word": "法考",
+        "onboard_time": 1757720119,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67423,
+        "num": 74245,
+        "word": "贾国龙称生意宁可不做是非必须得辩",
+        "onboard_time": 1757723901,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79245,
+        "num": 74240,
+        "word": "罗永浩吐槽西兰花保质期2年",
+        "onboard_time": 1757726062,
+        "rank": 47,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 74161,
+        "num": 74161,
+        "word": "白鹿晒烟花",
+        "onboard_time": 1757691084,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59235,
+        "num": 74127,
+        "word": "刘雨昕人气太超过了",
+        "onboard_time": 1757692645,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
