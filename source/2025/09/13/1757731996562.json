@@ -1,0 +1,410 @@
+{
+  "runTime": 1757731996562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 622432,
+        "num": 1099589,
+        "word": "卡塔尔感谢中国正义发声",
+        "onboard_time": 1757724440,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525262,
+        "num": 525262,
+        "word": "邱党谴责与王皓对话被录音",
+        "onboard_time": 1757728700,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19816,
+        "num": 448243,
+        "word": "万千气象看浙里",
+        "onboard_time": 1757685388,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395085,
+        "num": 395085,
+        "word": "迪丽热巴迪奥大使合影站C",
+        "onboard_time": 1757724320,
+        "rank": 3,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 345605,
+        "num": 345605,
+        "word": "卡塔尔感谢中国为中东注入和平能量",
+        "onboard_time": 1757721561,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331224,
+        "num": 331224,
+        "word": "现役军人暴雨中跳河救人不幸牺牲",
+        "onboard_time": 1757725281,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267516,
+        "num": 267516,
+        "word": "山东一学校部分师生腹痛呕吐",
+        "onboard_time": 1757725702,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 216017,
+        "num": 216017,
+        "word": "赴山海云包场滞销",
+        "onboard_time": 1757724262,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199588,
+        "num": 199588,
+        "word": "烈士遗骸安葬仪式",
+        "onboard_time": 1757724501,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193446,
+        "num": 193446,
+        "word": "海底捞小便事件涉案者父母赔220万",
+        "onboard_time": 1757675423,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879350,
+        "num": 193442,
+        "word": "杨幂回复了祝绪丹",
+        "onboard_time": 1757724262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683939,
+        "num": 193369,
+        "word": "男子胃癌去世把房子留给非亲生女儿",
+        "onboard_time": 1757726542,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316202,
+        "num": 193345,
+        "word": "老乡鸡微博置顶回应了预制菜",
+        "onboard_time": 1757730924,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223531,
+        "num": 193302,
+        "word": "建议不要有嘴甜羞耻症",
+        "onboard_time": 1757729482,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172796,
+        "num": 193271,
+        "word": "王俊凯出发丽江路透",
+        "onboard_time": 1757730143,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354894,
+        "num": 193212,
+        "word": "杨幂回复吴宣仪",
+        "onboard_time": 1757724982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169715,
+        "num": 193190,
+        "word": "多国支持两国方案",
+        "onboard_time": 1757727501,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160872,
+        "num": 193117,
+        "word": "范丞丞说我是俊凯",
+        "onboard_time": 1757731104,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148722,
+        "num": 193103,
+        "word": "赴山海8旬老太跑的真快",
+        "onboard_time": 1757726062,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140815,
+        "num": 193040,
+        "word": "漆漆说难怪有那么多人爱庞博",
+        "onboard_time": 1757731043,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 872681,
+        "num": 192986,
+        "word": "关晓彤半夜喝酒发朋友圈",
+        "onboard_time": 1757682627,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63945,
+        "num": 192956,
+        "word": "一个网络视频有11个造谣点",
+        "onboard_time": 1757728282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 735775,
+        "num": 192930,
+        "word": "西贝厨师称速冻油炸茄子是外卖款",
+        "onboard_time": 1757725882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192896,
+        "num": 192896,
+        "word": "皮肤是全身健康的一面镜子",
+        "onboard_time": 1757731222,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189842,
+        "num": 189842,
+        "word": "贾国龙称生意不做了也要刚到底",
+        "onboard_time": 1757727621,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 188843,
+        "num": 188843,
+        "word": "建议年轻人不要长期当服务员",
+        "onboard_time": 1757720179,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163692,
+        "num": 163692,
+        "word": "iPhone17全系已排至10月",
+        "onboard_time": 1757719638,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162963,
+        "num": 162963,
+        "word": "罗永浩说西贝羊肉黄鱼冻了几个月",
+        "onboard_time": 1757729663,
+        "rank": 27,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 142447,
+        "num": 142447,
+        "word": "3种面包其实是热量炸弹",
+        "onboard_time": 1757721440,
+        "rank": 28,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 129599,
+        "num": 129599,
+        "word": "狼队小胖电竞圈英语FMVP",
+        "onboard_time": 1757729663,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129329,
+        "num": 129329,
+        "word": "暗杀柯克的凶手确认身份",
+        "onboard_time": 1757693185,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127552,
+        "num": 127552,
+        "word": "美国女孩怀念16年前在中国买咖啡",
+        "onboard_time": 1757727501,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123884,
+        "num": 123884,
+        "word": "欧阳娜娜镜头一移出现刘昊然",
+        "onboard_time": 1757687667,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120842,
+        "num": 120842,
+        "word": "环球影城偶遇一诺赵嘉敏",
+        "onboard_time": 1757729124,
+        "rank": 33,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 117304,
+        "num": 117304,
+        "word": "白鹿下一条争取在白天拍",
+        "onboard_time": 1757730382,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109127,
+        "num": 109127,
+        "word": "财神节",
+        "onboard_time": 1757729363,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108098,
+        "num": 108098,
+        "word": "第一次见为了上班这么努力的",
+        "onboard_time": 1757731404,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132525,
+        "num": 102284,
+        "word": "罗永浩问西贝还有救吗",
+        "onboard_time": 1757730023,
+        "rank": 37,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 473665,
+        "num": 100004,
+        "word": "于东来删除力挺西贝言论",
+        "onboard_time": 1757725702,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92264,
+        "num": 92264,
+        "word": "张檬谈溺爱儿子",
+        "onboard_time": 1757687487,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90925,
+        "num": 90925,
+        "word": "美英军舰过航台湾海峡并滋扰挑衅",
+        "onboard_time": 1757691625,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90231,
+        "num": 90231,
+        "word": "李昀锐 早知道不接电话了",
+        "onboard_time": 1757731764,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86974,
+        "num": 86974,
+        "word": "易烊千玺送陈奕迅专辑",
+        "onboard_time": 1757731043,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82193,
+        "num": 82193,
+        "word": "iPhone专属调色公式",
+        "onboard_time": 1757728402,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82093,
+        "num": 82093,
+        "word": "把胡须往下压小猫的嘴角就会翘起来",
+        "onboard_time": 1757730203,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81969,
+        "num": 81969,
+        "word": "WTT澳门冠军赛13日赛程",
+        "onboard_time": 1757730682,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81351,
+        "num": 81351,
+        "word": "法考",
+        "onboard_time": 1757720119,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79644,
+        "num": 79644,
+        "word": "午二比早八更让人崩溃",
+        "onboard_time": 1757729603,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78506,
+        "num": 78506,
+        "word": "教资",
+        "onboard_time": 1757721621,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77471,
+        "num": 77471,
+        "word": "中国传媒大学2025级新生开学典礼",
+        "onboard_time": 1757729424,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国今日如你所愿#"
+    }
+  }
+}

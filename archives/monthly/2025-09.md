@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 09:57:40
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/13 10:53:16
 </p>
 </blockquote>
 <p>
@@ -2613,6 +2613,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E7%A7%B0%E9%80%9F%E5%86%BB%E6%B2%B9%E7%82%B8%E8%8C%84%E5%AD%90%E6%98%AF%E5%A4%96%E5%8D%96%E6%AC%BE%23" target="weibo">
+西贝厨师称速冻油炸茄子是外卖款（热度：735775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 教师节（热度：735131）
 </a>
@@ -2885,6 +2891,12 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E7%9C%81%E5%9B%BD%E8%A1%A5%E8%B5%84%E9%87%91%E8%BF%9D%E8%A7%84%E4%BD%BF%E7%94%A8%E8%BF%87%E4%BA%BF%23" target="weibo">
 6省国补资金违规使用过亿（热度：684375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%99%8C%E5%8E%BB%E4%B8%96%E6%8A%8A%E6%88%BF%E5%AD%90%E7%95%99%E7%BB%99%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%23" target="weibo">
+男子胃癌去世把房子留给非亲生女儿（热度：683939）
 </a>
 </li>
 
@@ -3999,6 +4011,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E5%85%9A%E8%B0%B4%E8%B4%A3%E4%B8%8E%E7%8E%8B%E7%9A%93%E5%AF%B9%E8%AF%9D%E8%A2%AB%E5%BD%95%E9%9F%B3%23" target="weibo">
+邱党谴责与王皓对话被录音（热度：525262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%9D%8E%E5%AE%9B%E5%A6%B2%20%E5%89%91%E6%9D%A5%23" target="weibo">
 吴磊李宛妲 剑来（热度：524986）
 </a>
@@ -4211,12 +4229,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%81%AD%E5%89%8D%E5%A4%AB%E6%AE%B4%E6%89%93%E5%90%8E%E6%AD%BB%E4%BA%A1%23" target="weibo">
 警方通报女子遭前夫殴打后死亡（热度：502189）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E7%A7%B0%E9%80%9F%E5%86%BB%E6%B2%B9%E7%82%B8%E8%8C%84%E5%AD%90%E6%98%AF%E5%A4%96%E5%8D%96%E6%AC%BE%23" target="weibo">
-西贝厨师称速冻油炸茄子是外卖款（热度：502088）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone为什么只有P是大写（热度：389380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E6%80%8E%E4%B9%88%E6%88%AA%E5%9B%BE%E9%83%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B8%85%23" target="weibo">
 中国排面怎么截图都是一个帅（热度：368725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%BD%93%E8%A1%97%E6%8A%A2%E5%B0%8F%E5%AD%A9%23" target="weibo">
-四川通报一女子当街抢小孩（热度：368367）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E6%9D%82%E5%BF%97%E6%8A%A2%E4%B8%8D%E5%88%B0%23" target="weibo">
-田栩宁杂志抢不到（热度：368301）
 </a>
 </li>
 

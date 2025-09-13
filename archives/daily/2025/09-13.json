@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757728660507,
+  "endTime": 1757731996562,
   "band_list": [
     {
       "raw_hot": 1603957,
@@ -59,11 +59,27 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 735775,
+      "num": 269581,
+      "word": "西贝厨师称速冻油炸茄子是外卖款",
+      "onboard_time": 1757725882,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 722118,
       "num": 486866,
       "word": "于东来删除力挺西贝言论",
       "onboard_time": 1757725702,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 683939,
+      "num": 263665,
+      "word": "男子胃癌去世把房子留给非亲生女儿",
+      "onboard_time": 1757726542,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -115,12 +131,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 502088,
-      "num": 269581,
-      "word": "西贝厨师称速冻油炸茄子是外卖款",
-      "onboard_time": 1757725882,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 525262,
+      "num": 525262,
+      "word": "邱党谴责与王皓对话被录音",
+      "onboard_time": 1757728700,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 405157,
@@ -155,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331224,
+      "num": 331224,
+      "word": "现役军人暴雨中跳河救人不幸牺牲",
+      "onboard_time": 1757725281,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323497,
       "num": 496204,
       "word": "江西南丰县发生交通事故致5死",
       "onboard_time": 1757691444,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 316202,
+      "num": 193345,
+      "word": "老乡鸡微博置顶回应了预制菜",
+      "onboard_time": 1757730924,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313056,
@@ -203,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263665,
-      "num": 263665,
-      "word": "男子胃癌去世把房子留给非亲生女儿",
-      "onboard_time": 1757726542,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 267516,
+      "num": 267516,
+      "word": "山东一学校部分师生腹痛呕吐",
+      "onboard_time": 1757725702,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 258117,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 252591,
-      "num": 147446,
+      "num": 188843,
       "word": "建议年轻人不要长期当服务员",
       "onboard_time": 1757720179,
       "rank": 30,
@@ -275,6 +307,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 223531,
+      "num": 193302,
+      "word": "建议不要有嘴甜羞耻症",
+      "onboard_time": 1757729482,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217776,
       "num": 282295,
       "word": "赴山海8旬老太跑的真快",
@@ -292,7 +332,7 @@
     },
     {
       "raw_hot": 211090,
-      "num": 121755,
+      "num": 189842,
       "word": "贾国龙称生意不做了也要刚到底",
       "onboard_time": 1757727621,
       "rank": 32,
@@ -307,12 +347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199588,
+      "num": 298440,
+      "word": "烈士遗骸安葬仪式",
+      "onboard_time": 1757724501,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193581,
       "num": 203856,
       "word": "鞠婧祎直播",
       "onboard_time": 1757682385,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192896,
+      "num": 192896,
+      "word": "皮肤是全身健康的一面镜子",
+      "onboard_time": 1757731222,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190805,
@@ -323,6 +379,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 172796,
+      "num": 193271,
+      "word": "王俊凯出发丽江路透",
+      "onboard_time": 1757730143,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170499,
       "num": 129451,
       "word": "美国女孩怀念16年前在中国买咖啡",
@@ -331,12 +395,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159038,
-      "num": 290915,
-      "word": "现役军人暴雨中跳河救人不幸牺牲",
-      "onboard_time": 1757725281,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 169715,
+      "num": 193190,
+      "word": "多国支持两国方案",
+      "onboard_time": 1757727501,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 162963,
+      "num": 162963,
+      "word": "罗永浩说西贝羊肉黄鱼冻了几个月",
+      "onboard_time": 1757729663,
+      "rank": 27,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 160872,
+      "num": 193117,
+      "word": "范丞丞说我是俊凯",
+      "onboard_time": 1757731104,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 155327,
@@ -371,12 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141234,
-      "num": 141234,
-      "word": "多国支持两国方案",
-      "onboard_time": 1757727501,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 140815,
+      "num": 193040,
+      "word": "漆漆说难怪有那么多人爱庞博",
+      "onboard_time": 1757731043,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 140154,
@@ -395,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135512,
-      "num": 298440,
-      "word": "烈士遗骸安葬仪式",
-      "onboard_time": 1757724501,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 132525,
+      "num": 102284,
+      "word": "罗永浩问西贝还有救吗",
+      "onboard_time": 1757730023,
+      "rank": 37,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 129852,
@@ -419,12 +499,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129599,
+      "num": 129599,
+      "word": "狼队小胖电竞圈英语FMVP",
+      "onboard_time": 1757729663,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129390,
       "num": 415784,
       "word": "拥有闲谈力是高情商的体现",
       "onboard_time": 1757693185,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120842,
+      "num": 120842,
+      "word": "环球影城偶遇一诺赵嘉敏",
+      "onboard_time": 1757729124,
+      "rank": 33,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 119493,
@@ -451,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117304,
+      "num": 117304,
+      "word": "白鹿下一条争取在白天拍",
+      "onboard_time": 1757730382,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112345,
       "num": 203313,
       "word": "王橹杰穆祉丞穿了同款",
@@ -467,19 +571,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111434,
-      "num": 106216,
-      "word": "山东一学校部分师生腹痛呕吐",
-      "onboard_time": 1757725702,
-      "rank": 36,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 109760,
       "num": 203267,
       "word": "海底捞小便门案一审宣判",
       "onboard_time": 1757674404,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109127,
+      "num": 109127,
+      "word": "财神节",
+      "onboard_time": 1757729363,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -489,6 +593,14 @@
       "onboard_time": 1757690125,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108098,
+      "num": 108098,
+      "word": "第一次见为了上班这么努力的",
+      "onboard_time": 1757731404,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 107057,
@@ -524,7 +636,7 @@
     },
     {
       "raw_hot": 95486,
-      "num": 95486,
+      "num": 192956,
       "word": "一个网络视频有11个造谣点",
       "onboard_time": 1757728282,
       "rank": 29,
@@ -545,6 +657,14 @@
       "onboard_time": 1757725281,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90231,
+      "num": 90231,
+      "word": "李昀锐 早知道不接电话了",
+      "onboard_time": 1757731764,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 88844,
@@ -579,6 +699,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 86974,
+      "num": 86974,
+      "word": "易烊千玺送陈奕迅专辑",
+      "onboard_time": 1757731043,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86728,
       "num": 202751,
       "word": "中美将讨论TikTok等问题",
@@ -611,6 +739,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82093,
+      "num": 82093,
+      "word": "把胡须往下压小猫的嘴角就会翘起来",
+      "onboard_time": 1757730203,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81969,
+      "num": 81969,
+      "word": "WTT澳门冠军赛13日赛程",
+      "onboard_time": 1757730682,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81908,
       "num": 202684,
       "word": "西贝致顾客的一封信",
@@ -625,6 +769,14 @@
       "onboard_time": 1757686289,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81351,
+      "num": 81351,
+      "word": "法考",
+      "onboard_time": 1757720119,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 80542,
@@ -643,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79644,
+      "num": 79644,
+      "word": "午二比早八更让人崩溃",
+      "onboard_time": 1757729603,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79245,
       "num": 74240,
       "word": "罗永浩吐槽西兰花保质期2年",
@@ -651,20 +811,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 78506,
+      "num": 78506,
+      "word": "教资",
+      "onboard_time": 1757721621,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 77471,
+      "num": 77471,
+      "word": "中国传媒大学2025级新生开学典礼",
+      "onboard_time": 1757729424,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 76815,
       "num": 76815,
       "word": "西班牙偶遇江疏影",
       "onboard_time": 1757711534,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76476,
-      "num": 76476,
-      "word": "法考",
-      "onboard_time": 1757720119,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 75902,
