@@ -1,6 +1,6 @@
 {
   "startTime": 1757694453237,
-  "endTime": 1757774182426,
+  "endTime": 1757776887604,
   "band_list": [
     {
       "raw_hot": 3054582,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1885225,
-      "num": 455091,
+      "num": 1239968,
       "word": "唐嫣金熊猫最佳女主",
       "onboard_time": 1757773046,
       "rank": 6,
@@ -123,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1204814,
+      "num": 1204814,
+      "word": "应急局回应山东现不明飞行物被击落",
+      "onboard_time": 1757773105,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1198352,
       "num": 1198352,
       "word": "老乡鸡微博置顶回应了预制菜",
@@ -169,6 +177,22 @@
       "onboard_time": 1757724440,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1011369,
+      "num": 174883,
+      "word": "西贝厨师长称家里一顿没吃完也不会扔",
+      "onboard_time": 1757774246,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 885929,
+      "num": 885929,
+      "word": "赴山海抠图感",
+      "onboard_time": 1757772385,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 870788,
@@ -483,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 500515,
-      "num": 371388,
-      "word": "赴山海抠图感",
-      "onboard_time": 1757772385,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 494925,
       "num": 376520,
       "word": "李宇春直播",
@@ -537,14 +553,6 @@
       "onboard_time": 1757754683,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 449455,
-      "num": 449455,
-      "word": "应急局回应山东现不明飞行物被击落",
-      "onboard_time": 1757773105,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 447275,
@@ -715,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343415,
+      "num": 343415,
+      "word": "目击者讲述不明飞行物被击落瞬间",
+      "onboard_time": 1757774126,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339980,
       "num": 339980,
       "word": "王楚钦vs林昀儒",
@@ -881,6 +897,14 @@
       "onboard_time": 1757689947,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 268925,
+      "num": 268925,
+      "word": "朱一龙金熊猫影帝",
+      "onboard_time": 1757776286,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 267516,
@@ -1243,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202404,
+      "num": 202404,
+      "word": "张康乐 小孩不许抽烟",
+      "onboard_time": 1757776585,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202294,
       "num": 202294,
       "word": "JDG战胜WBG",
@@ -1443,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187245,
+      "num": 187245,
+      "word": "周笔畅冻龄了钟辰乐长大了",
+      "onboard_time": 1757775625,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186373,
       "num": 186373,
       "word": "卢昱晓周峻纬咋认识的",
@@ -1579,12 +1619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171326,
+      "num": 167597,
+      "word": "李宇春演唱会来了好多大王",
+      "onboard_time": 1757774065,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170499,
       "num": 129451,
       "word": "美国女孩怀念16年前在中国买咖啡",
       "onboard_time": 1757727501,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169372,
+      "num": 169372,
+      "word": "去上海旅游成日本年轻人新潮流",
+      "onboard_time": 1757775444,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167722,
@@ -1617,6 +1673,22 @@
       "onboard_time": 1757761643,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164523,
+      "num": 164523,
+      "word": "金晨陈好田嘉瑞聚餐",
+      "onboard_time": 1757774425,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163608,
+      "num": 163608,
+      "word": "朱一龙没赶上红毯",
+      "onboard_time": 1757775986,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 163576,
@@ -1707,6 +1779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156322,
+      "num": 156322,
+      "word": "陆虎 我是给手不是举手",
+      "onboard_time": 1757775924,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155716,
       "num": 155716,
       "word": "花儿与少年埃及转场",
@@ -1769,6 +1849,14 @@
       "onboard_time": 1757768724,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151911,
+      "num": 188124,
+      "word": "央视起底所谓零添加酱油真相",
+      "onboard_time": 1757773947,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 151831,
@@ -1939,6 +2027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143217,
+      "num": 143217,
+      "word": "李连杰来看张艺兴演唱会了",
+      "onboard_time": 1757775086,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142797,
       "num": 203721,
       "word": "罗永浩还没吃过老乡鸡",
@@ -1977,6 +2073,14 @@
       "onboard_time": 1757733383,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141231,
+      "num": 141231,
+      "word": "中方回应就美措施发起反歧视调查",
+      "onboard_time": 1757774847,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140815,
@@ -2131,20 +2235,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134895,
-      "num": 134895,
-      "word": "李宇春演唱会来了好多大王",
-      "onboard_time": 1757774065,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134732,
       "num": 134732,
       "word": "常州vs宿迁",
       "onboard_time": 1757766325,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134553,
+      "num": 134553,
+      "word": "檀健次孟子义在跳一种很新的芭蕾",
+      "onboard_time": 1757776164,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 134473,
@@ -2179,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132554,
+      "num": 132554,
+      "word": "新华社 预制菜知情权",
+      "onboard_time": 1757775204,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132525,
       "num": 102284,
       "word": "罗永浩问西贝还有救吗",
@@ -2193,6 +2305,14 @@
       "onboard_time": 1757771606,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132419,
+      "num": 132419,
+      "word": "刘涛晒周深演唱会现场",
+      "onboard_time": 1757773706,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 131836,
@@ -2240,14 +2360,6 @@
       "word": "汪苏泷演唱会cue你好星期六",
       "onboard_time": 1757746643,
       "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 130168,
-      "num": 130168,
-      "word": "刘涛晒周深演唱会现场",
-      "onboard_time": 1757773706,
-      "rank": 45,
       "category": "演出"
     },
     {
@@ -2603,6 +2715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113198,
+      "num": 113198,
+      "word": "女子扶大爷过马路却被扇巴掌",
+      "onboard_time": 1757774306,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112677,
       "num": 165406,
       "word": "庞博 没送别过这么多小朋友",
@@ -2641,6 +2761,14 @@
       "onboard_time": 1757697740,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111642,
+      "num": 163879,
+      "word": "东莞一学校家委收取每生200元班费",
+      "onboard_time": 1757775746,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111307,
@@ -2793,6 +2921,14 @@
       "onboard_time": 1757679746,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105593,
+      "num": 105593,
+      "word": "吴镇宇金熊猫最佳男主",
+      "onboard_time": 1757774186,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103007,
@@ -3017,6 +3153,14 @@
       "onboard_time": 1757745624,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92618,
+      "num": 106087,
+      "word": "皇家社会vs皇马",
+      "onboard_time": 1757775266,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 92587,
@@ -3259,14 +3403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74758,
-      "num": 188124,
-      "word": "央视起底所谓零添加酱油真相",
-      "onboard_time": 1757773947,
-      "rank": 26,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 74484,
       "num": 213080,
       "word": "这76条路线把中国旅游玩明白了",
@@ -3297,6 +3433,14 @@
       "onboard_time": 1757691985,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72198,
+      "num": 275568,
+      "word": "北京冰雹有鸽子蛋大",
+      "onboard_time": 1757776525,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71375,
@@ -3371,14 +3515,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 57459,
-      "num": 159396,
-      "word": "目击者讲述不明飞行物被击落瞬间",
-      "onboard_time": 1757774126,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55864,
       "num": 168355,
       "word": "3桶羽毛球赶上1克黄金",
@@ -3396,7 +3532,7 @@
     },
     {
       "raw_hot": 52875,
-      "num": 741379,
+      "num": 985947,
       "word": "国宝画重点",
       "onboard_time": 1757769985,
       "rank": 2,
