@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/14 03:17:56
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/14 03:36:24
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,12 @@ EDG对阵NRG（热度：90070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%85%8B%E6%A1%88%E6%9E%AA%E6%89%8B%E6%9D%A5%E8%87%AAMAGA%E5%AE%B6%E5%BA%AD%23" target="weibo">
 柯克案枪手来自MAGA家庭（热度：19279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%B7%B4%E9%BB%8E%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E8%B5%9B%23" target="weibo">
+无畏契约巴黎全球冠军赛（热度：18872）
 </a>
 </li>
 

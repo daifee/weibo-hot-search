@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757791076091,
+  "endTime": 1757792184053,
   "band_list": [
     {
       "raw_hot": 1157067,
@@ -529,6 +529,14 @@
       "onboard_time": 1757781202,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18872,
+      "num": 28538,
+      "word": "无畏契约巴黎全球冠军赛",
+      "onboard_time": 1757791515,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 17915,
