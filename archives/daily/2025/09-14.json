@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757863322836,
+  "endTime": 1757864169353,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -163,6 +163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1057094,
+      "num": 564102,
+      "word": "武林外传",
+      "onboard_time": 1757859566,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1001976,
       "num": 1160316,
       "word": "女子7天瘦十斤后感染败血症",
@@ -171,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 997136,
+      "num": 647012,
+      "word": "iPhone17补贴后售价4999元",
+      "onboard_time": 1757858306,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 993492,
       "num": 1158958,
       "word": "孙颖莎王楚钦澳门赛冠军合影",
       "onboard_time": 1757855965,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 991816,
-      "num": 647012,
-      "word": "iPhone17补贴后售价4999元",
-      "onboard_time": 1757858306,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 981228,
@@ -259,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 840417,
-      "num": 564102,
-      "word": "武林外传",
-      "onboard_time": 1757859566,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 838940,
       "num": 515065,
       "word": "西贝创始人称应对方式有错",
@@ -337,6 +337,14 @@
       "onboard_time": 1757855906,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 734622,
+      "num": 734622,
+      "word": "贾国龙称西贝今后将打明牌",
+      "onboard_time": 1757858485,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 728532,
@@ -411,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 590567,
+      "raw_hot": 603716,
       "num": 471681,
       "word": "警方回应女子坐评委身上做不雅动作",
       "onboard_time": 1757845282,
@@ -441,14 +449,6 @@
       "onboard_time": 1757855066,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 561706,
-      "num": 561706,
-      "word": "贾国龙称西贝今后将打明牌",
-      "onboard_time": 1757858485,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 555829,
@@ -552,6 +552,14 @@
       "word": "昏迷女孩被拖出车厢场面惊心",
       "onboard_time": 1757839642,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 492818,
+      "num": 492818,
+      "word": "妈妈亲手缝的NIKE书包火了",
+      "onboard_time": 1757859446,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -707,20 +715,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 404704,
-      "num": 404704,
-      "word": "妈妈亲手缝的NIKE书包火了",
-      "onboard_time": 1757859446,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 397857,
       "num": 264153,
       "word": "男子为骗钱把女友介绍给叔叔谈恋爱",
       "onboard_time": 1757813781,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396202,
+      "num": 396202,
+      "word": "蔡徐坤音乐节",
+      "onboard_time": 1757860765,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 393441,
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361751,
+      "num": 361751,
+      "word": "林俊杰新歌",
+      "onboard_time": 1757861245,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 361713,
       "num": 361713,
       "word": "孙颖莎王楚钦捧杯合影",
@@ -851,28 +867,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334854,
-      "num": 334854,
-      "word": "蔡徐坤音乐节",
-      "onboard_time": 1757860765,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 333540,
-      "num": 333540,
-      "word": "林俊杰新歌",
-      "onboard_time": 1757861245,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 325351,
       "num": 325351,
       "word": "我家那闺女",
       "onboard_time": 1757828363,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323171,
+      "num": 323171,
+      "word": "付辛博好帅",
+      "onboard_time": 1757862925,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 319767,
@@ -1027,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270604,
+      "num": 297121,
+      "word": "249万买商铺8年只收到13万租金",
+      "onboard_time": 1757860046,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 264791,
       "num": 264791,
       "word": "苏醒把王栎鑫骂到心坎里了",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1757850745,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255129,
-      "num": 255129,
-      "word": "付辛博好帅",
-      "onboard_time": 1757862925,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 253734,
@@ -1219,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235249,
+      "num": 232600,
+      "word": "关晓彤强者的背影",
+      "onboard_time": 1757862146,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234978,
       "num": 234978,
       "word": "HLE对战T1",
@@ -1227,15 +1243,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 232600,
-      "num": 232600,
-      "word": "关晓彤强者的背影",
-      "onboard_time": 1757862146,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230681,
+      "raw_hot": 230908,
       "num": 260313,
       "word": "北京昨夜冰雹威力究竟有多大",
       "onboard_time": 1757859026,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1757840902,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221151,
+      "num": 221151,
+      "word": "西贝回应停止开放后厨参观",
+      "onboard_time": 1757860826,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219887,
@@ -1369,14 +1385,6 @@
       "onboard_time": 1757837422,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 208978,
-      "num": 208978,
-      "word": "西贝回应停止开放后厨参观",
-      "onboard_time": 1757860826,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208687,
@@ -1587,6 +1595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190390,
+      "num": 190390,
+      "word": "没人告诉世界第二网红干团播这么累吗",
+      "onboard_time": 1757863345,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 190008,
       "num": 190008,
       "word": "大姑和大姑父的身体素质太强了",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1757808920,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177382,
-      "num": 297121,
-      "word": "249万买商铺8年只收到13万租金",
-      "onboard_time": 1757860046,
-      "rank": 42,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 174891,
@@ -2307,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135388,
+      "num": 135388,
+      "word": "400块的鞋犹豫了三年",
+      "onboard_time": 1757863644,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134153,
       "num": 202911,
       "word": "女子潜水被遗忘海上漂了45分钟",
@@ -2499,6 +2515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121685,
+      "num": 407991,
+      "word": "央视揭秘假沉香",
+      "onboard_time": 1757862325,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 121545,
       "num": 121545,
       "word": "彭鑫露打破女子10米气步枪世界纪录",
@@ -2571,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117011,
+      "num": 172853,
+      "word": "张艺兴回应飞奔赶高铁",
+      "onboard_time": 1757863046,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116979,
       "num": 120582,
       "word": "陈昊宇去看李宇春演唱会了",
@@ -2625,6 +2657,14 @@
       "onboard_time": 1757849242,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113200,
+      "num": 113200,
+      "word": "我们要到多大才会享受甜",
+      "onboard_time": 1757864125,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 110631,
@@ -2987,14 +3027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95743,
-      "num": 407991,
-      "word": "央视揭秘假沉香",
-      "onboard_time": 1757862325,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 94844,
       "num": 94844,
       "word": "第一次觉得暗恋也这么好嗑",
@@ -3024,14 +3056,6 @@
       "word": "朱志鑫演唱会plog",
       "onboard_time": 1757780602,
       "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 90320,
-      "num": 172853,
-      "word": "张艺兴回应飞奔赶高铁",
-      "onboard_time": 1757863046,
-      "rank": 39,
       "category": "演出"
     },
     {

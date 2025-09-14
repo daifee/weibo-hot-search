@@ -1,0 +1,410 @@
+{
+  "runTime": 1757864169353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1326580,
+        "num": 1326580,
+        "word": "周迅如懿传谣言澄清",
+        "onboard_time": 1757858967,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734622,
+        "num": 734622,
+        "word": "贾国龙称西贝今后将打明牌",
+        "onboard_time": 1757858485,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40990,
+        "num": 565704,
+        "word": "丰收的田野是最美的画卷",
+        "onboard_time": 1757858306,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1057094,
+        "num": 544442,
+        "word": "武林外传",
+        "onboard_time": 1757859566,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492818,
+        "num": 492818,
+        "word": "妈妈亲手缝的NIKE书包火了",
+        "onboard_time": 1757859446,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 997136,
+        "num": 492683,
+        "word": "iPhone17补贴后售价4999元",
+        "onboard_time": 1757858306,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 492170,
+        "num": 492170,
+        "word": "孙颖莎王楚钦澳门赛冠军合影",
+        "onboard_time": 1757855965,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396202,
+        "num": 396202,
+        "word": "蔡徐坤音乐节",
+        "onboard_time": 1757860765,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385636,
+        "num": 385636,
+        "word": "李晟说祝绪丹气太多了",
+        "onboard_time": 1757855906,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380418,
+        "num": 380418,
+        "word": "西贝创始人称应对方式有错",
+        "onboard_time": 1757857403,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603716,
+        "num": 378452,
+        "word": "警方回应女子坐评委身上做不雅动作",
+        "onboard_time": 1757845282,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562282,
+        "num": 372253,
+        "word": "林心如霍建华还在磨合中",
+        "onboard_time": 1757853386,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421258,
+        "num": 366601,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1757839162,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121685,
+        "num": 364994,
+        "word": "央视揭秘假沉香",
+        "onboard_time": 1757862325,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 361751,
+        "num": 361751,
+        "word": "林俊杰新歌",
+        "onboard_time": 1757861245,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361254,
+        "num": 361254,
+        "word": "邓为你怎么变成权志为了",
+        "onboard_time": 1757854345,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335711,
+        "num": 335711,
+        "word": "王影璐黄多多可以演姐妹了",
+        "onboard_time": 1757856444,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323171,
+        "num": 323171,
+        "word": "付辛博好帅",
+        "onboard_time": 1757862925,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270604,
+        "num": 270604,
+        "word": "249万买商铺8年只收到13万租金",
+        "onboard_time": 1757860046,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 230908,
+        "num": 230908,
+        "word": "北京昨夜冰雹威力究竟有多大",
+        "onboard_time": 1757859026,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559011,
+        "num": 230751,
+        "word": "男子肛门藏含大麻电子烟入境被查",
+        "onboard_time": 1757859566,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448648,
+        "num": 230458,
+        "word": "祝绪丹直播哽咽",
+        "onboard_time": 1757844623,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397442,
+        "num": 230027,
+        "word": "西贝厨师长戴手表和手链下厨引热议",
+        "onboard_time": 1757851164,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334904,
+        "num": 229510,
+        "word": "西贝",
+        "onboard_time": 1757860226,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281326,
+        "num": 228866,
+        "word": "李沁龚俊 偶像剧都不敢这么拍",
+        "onboard_time": 1757844082,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235249,
+        "num": 228472,
+        "word": "关晓彤强者的背影",
+        "onboard_time": 1757862146,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228390,
+        "num": 228390,
+        "word": "王楚钦战胜雨果夺冠",
+        "onboard_time": 1757853984,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221151,
+        "num": 221151,
+        "word": "西贝回应停止开放后厨参观",
+        "onboard_time": 1757860826,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211498,
+        "num": 211498,
+        "word": "法考 邓紫棋",
+        "onboard_time": 1757844502,
+        "rank": 28,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 207895,
+        "num": 207895,
+        "word": "华与华 西贝",
+        "onboard_time": 1757857526,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201839,
+        "num": 201839,
+        "word": "西贝6000万咨询费",
+        "onboard_time": 1757841022,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198465,
+        "num": 198465,
+        "word": "白桃星座",
+        "onboard_time": 1757861186,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196290,
+        "num": 196290,
+        "word": "盟友炸了盟友",
+        "onboard_time": 1757858185,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192424,
+        "num": 192424,
+        "word": "两个枕头才是睡眠的正确打开方式",
+        "onboard_time": 1757854825,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190390,
+        "num": 190390,
+        "word": "没人告诉世界第二网红干团播这么累吗",
+        "onboard_time": 1757863345,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147566,
+        "num": 165937,
+        "word": "中国乡村藏着一块巨型夹心饼干",
+        "onboard_time": 1757860467,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162673,
+        "num": 162673,
+        "word": "韦雪搓澡被粉丝认出",
+        "onboard_time": 1757856205,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160986,
+        "num": 160986,
+        "word": "TI总决赛",
+        "onboard_time": 1757854705,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158210,
+        "num": 158210,
+        "word": "宋雨琦王安宇排名暴涨",
+        "onboard_time": 1757852484,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117011,
+        "num": 145161,
+        "word": "张艺兴回应飞奔赶高铁",
+        "onboard_time": 1757863046,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141814,
+        "num": 141814,
+        "word": "央视曝肉毒素注射乱象",
+        "onboard_time": 1757846724,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135598,
+        "num": 135598,
+        "word": "樊振东玉面战神",
+        "onboard_time": 1757859386,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135388,
+        "num": 135388,
+        "word": "400块的鞋犹豫了三年",
+        "onboard_time": 1757863644,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134803,
+        "num": 134803,
+        "word": "成毅10秒处这个连续翻转",
+        "onboard_time": 1757862385,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133767,
+        "num": 133767,
+        "word": "容祖儿说蔡徐坤很正",
+        "onboard_time": 1757861546,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122282,
+        "num": 122282,
+        "word": "王楚钦任达华合影",
+        "onboard_time": 1757862267,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120778,
+        "num": 120778,
+        "word": "陈都灵皮裙 好热但好美",
+        "onboard_time": 1757852963,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117148,
+        "num": 117148,
+        "word": "宋妍霏二十分钟提了24次裙子",
+        "onboard_time": 1757842879,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113200,
+        "num": 113200,
+        "word": "我们要到多大才会享受甜",
+        "onboard_time": 1757864125,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112417,
+        "num": 112417,
+        "word": "苹果近期产品规划曝光",
+        "onboard_time": 1757861067,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

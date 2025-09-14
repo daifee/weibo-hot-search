@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/14 23:22:02
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/14 23:36:09
 </p>
 </blockquote>
 <p>
@@ -1785,6 +1785,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%23" target="weibo">
+武林外传（热度：1057094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%94%B7%E6%98%8E%E6%98%9F%E6%8A%8A%E7%94%B2%E6%96%B9%E6%A0%B7%E6%9C%BA%E5%8D%96%E4%BA%86%23" target="weibo">
 曝男明星把甲方样机卖了（热度：1056001）
 </a>
@@ -1905,6 +1911,12 @@ iPhone16背刺最大一代（热度：1000751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone17%E8%A1%A5%E8%B4%B4%E5%90%8E%E5%94%AE%E4%BB%B74999%E5%85%83%23" target="weibo">
+iPhone17补贴后售价4999元（热度：997136）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%BE%B3%E9%97%A8%E8%B5%9B%E5%86%A0%E5%86%9B%E5%90%88%E5%BD%B1%23" target="weibo">
 孙颖莎王楚钦澳门赛冠军合影（热度：993492）
 </a>
@@ -1913,12 +1925,6 @@ iPhone16背刺最大一代（热度：1000751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%A2%81%20%E8%83%A1%E6%A5%9A%E9%9D%93%23" target="weibo">
 小袁 胡楚靓（热度：992631）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone17%E8%A1%A5%E8%B4%B4%E5%90%8E%E5%94%AE%E4%BB%B74999%E5%85%83%23" target="weibo">
-iPhone17补贴后售价4999元（热度：991816）
 </a>
 </li>
 
@@ -2493,12 +2499,6 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%23" target="weibo">
-武林外传（热度：840417）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E5%BA%94%E5%AF%B9%E6%96%B9%E5%BC%8F%E6%9C%89%E9%94%99%23" target="weibo">
 西贝创始人称应对方式有错（热度：838940）
 </a>
@@ -3029,6 +3029,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 教师节（热度：735131）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E6%89%93%E6%98%8E%E7%89%8C%23" target="weibo">
+贾国龙称西贝今后将打明牌（热度：734622）
 </a>
 </li>
 
@@ -3873,6 +3879,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9D%90%E8%AF%84%E5%A7%94%E8%BA%AB%E4%B8%8A%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%23" target="weibo">
+警方回应女子坐评委身上做不雅动作（热度：603716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%BB%93%E6%9D%9F%E4%B8%80%E5%8F%AA%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%81%9C%E5%9C%A8%E4%BA%BA%E7%BE%A4%E4%B8%AD%E9%97%B4%23" target="weibo">
 阅兵结束一只和平鸽停在人群中间（热度：603600）
 </a>
@@ -3941,12 +3953,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B760%E4%B8%87%23" target="weibo">
 梓渝60秒广告报价60万（热度：590835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9D%90%E8%AF%84%E5%A7%94%E8%BA%AB%E4%B8%8A%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%23" target="weibo">
-警方回应女子坐评委身上做不雅动作（热度：590567）
 </a>
 </li>
 
@@ -4199,12 +4205,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E9%85%92%E9%A6%86%E5%A5%B3%E8%88%9E%E8%80%85%E8%A1%A8%E6%BC%94%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9%23" target="weibo">
 杭州一酒馆女舞者表演被指擦边（热度：562489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E6%89%93%E6%98%8E%E7%89%8C%23" target="weibo">
-贾国龙称西贝今后将打明牌（热度：561706）
 </a>
 </li>
 
@@ -4985,6 +4985,12 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8D%8E%E6%8C%87%E8%B4%A3%23" target="weibo">
 外交部回应特朗普涉华指责（热度：492830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BA%B2%E6%89%8B%E7%BC%9D%E7%9A%84NIKE%E4%B9%A6%E5%8C%85%E7%81%AB%E4%BA%86%23" target="weibo">
+妈妈亲手缝的NIKE书包火了（热度：492818）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFING直播（热度：427002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%B5%B4%E5%B1%B1%E6%B5%B7%E9%A6%96%E6%97%A530w%E4%BA%91%E5%8C%85%E5%9C%BA%23" target="weibo">
 成毅赴山海首日30w云包场（热度：420822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%96%9D%E5%A5%B6%E8%8C%B6%E4%B9%9F%E8%A6%81%E9%85%8D%E8%B4%A7%E4%BA%86%23" target="weibo">
-现在喝奶茶也要配货了（热度：420711）
 </a>
 </li>
 
