@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757878567618,
+  "endTime": 1757881447446,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -31091,6 +31091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115512,
+      "num": 115512,
+      "word": "Falcons夺冠",
+      "onboard_time": 1757877794,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115507,
       "num": 115507,
       "word": "江西都昌走失5岁男童遗体被找到",
@@ -31745,14 +31753,6 @@
       "onboard_time": 1757240301,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113041,
-      "num": 113041,
-      "word": "Falcons夺冠",
-      "onboard_time": 1757877794,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 112978,
@@ -41867,6 +41867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53181,
+      "num": 59525,
+      "word": "Falcons战胜XG",
+      "onboard_time": 1757877975,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53175,
       "num": 53175,
       "word": "阿尔卡拉斯3比1辛纳",
@@ -44011,14 +44019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29799,
-      "num": 59525,
-      "word": "Falcons战胜XG",
-      "onboard_time": 1757877975,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 29694,
       "num": 33048,
       "word": "天安门广场放音乐",
@@ -44531,6 +44531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23796,
+      "num": 37171,
+      "word": "嗨皮牙给汪苏泷拍照",
+      "onboard_time": 1757880915,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23753,
       "num": 58870,
       "word": "月全食时月亮为何是红色的",
@@ -44737,6 +44745,14 @@
       "onboard_time": 1756757953,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21720,
+      "num": 36421,
+      "word": "汪苏泷罗曼城小蛋糕",
+      "onboard_time": 1757880134,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 21605,
@@ -45553,6 +45569,14 @@
       "onboard_time": 1757188817,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11801,
+      "num": 25918,
+      "word": "大学想谈恋爱其实也不容易",
+      "onboard_time": 1757881394,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 11779,

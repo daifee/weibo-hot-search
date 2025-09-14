@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757878567618,
+  "endTime": 1757881447446,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -2699,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115512,
+      "num": 115512,
+      "word": "Falcons夺冠",
+      "onboard_time": 1757877794,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114400,
       "num": 126733,
       "word": "国家级保护区治愈buff叠满",
@@ -2745,14 +2753,6 @@
       "onboard_time": 1757864125,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113041,
-      "num": 113041,
-      "word": "Falcons夺冠",
-      "onboard_time": 1757877794,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 110631,
@@ -3555,6 +3555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 53181,
+      "num": 59525,
+      "word": "Falcons战胜XG",
+      "onboard_time": 1757877975,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51673,
       "num": 180893,
       "word": "超10万人参加伦敦反移民活动",
@@ -3707,14 +3715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29799,
-      "num": 59525,
-      "word": "Falcons战胜XG",
-      "onboard_time": 1757877975,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 29663,
       "num": 190148,
       "word": "女子路边20元贴膜付款时变55",
@@ -3811,6 +3811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23796,
+      "num": 37171,
+      "word": "嗨皮牙给汪苏泷拍照",
+      "onboard_time": 1757880915,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23520,
       "num": 55365,
       "word": "汪苏泷粉色丝绒造型看起来好香",
@@ -3848,6 +3856,14 @@
       "word": "就让大雨全都落下具象化了",
       "onboard_time": 1757858846,
       "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 21720,
+      "num": 36421,
+      "word": "汪苏泷罗曼城小蛋糕",
+      "onboard_time": 1757880134,
+      "rank": 19,
       "category": "演出"
     },
     {
@@ -3945,6 +3961,14 @@
       "onboard_time": 1757793795,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11801,
+      "num": 25918,
+      "word": "大学想谈恋爱其实也不容易",
+      "onboard_time": 1757881394,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
