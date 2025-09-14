@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757884855969,
+  "endTime": 1757885775861,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -3683,20 +3683,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 36527,
+      "num": 38098,
+      "word": "千名业主陷商铺包租违约困境",
+      "onboard_time": 1757881453,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34034,
       "num": 63510,
       "word": "打dota的还是这些人",
       "onboard_time": 1757872695,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 33308,
-      "num": 38098,
-      "word": "千名业主陷商铺包租违约困境",
-      "onboard_time": 1757881453,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31838,
@@ -3875,6 +3875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21582,
+      "num": 25918,
+      "word": "大学想谈恋爱其实也不容易",
+      "onboard_time": 1757881394,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21387,
       "num": 33909,
       "word": "不怕你预制就怕你不告诉我",
@@ -3913,14 +3921,6 @@
       "onboard_time": 1757791515,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18322,
-      "num": 25918,
-      "word": "大学想谈恋爱其实也不容易",
-      "onboard_time": 1757881394,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 17993,
@@ -3971,12 +3971,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13727,
+      "raw_hot": 13952,
       "num": 25430,
       "word": "赴山海云合稳步上升",
       "onboard_time": 1757872036,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13616,
+      "num": 18612,
+      "word": "男子持铁锤砸路人致1死6伤",
+      "onboard_time": 1757884034,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12392,
