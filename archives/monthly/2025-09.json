@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757868010748,
+  "endTime": 1757870340509,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -8723,6 +8723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 386779,
+      "num": 386779,
+      "word": "新疆小姐姐说去北京不用背馕了",
+      "onboard_time": 1757865562,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386240,
       "num": 205817,
       "word": "种地吧",
@@ -13227,14 +13235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 239494,
-      "num": 279044,
-      "word": "新疆小姐姐说去北京不用背馕了",
-      "onboard_time": 1757865562,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239182,
       "num": 239182,
       "word": "世界第二网红来了天津也得摊煎饼",
@@ -15115,6 +15115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207992,
+      "num": 205581,
+      "word": "航班因雷雨天备降太原引乘客下跪",
+      "onboard_time": 1757864304,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207966,
       "num": 207966,
       "word": "飞机上偶遇刘耀文丁程鑫",
@@ -15313,14 +15321,6 @@
       "onboard_time": 1757308465,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205581,
-      "num": 205581,
-      "word": "航班因雷雨天备降太原引乘客下跪",
-      "onboard_time": 1757864304,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205516,
@@ -17683,6 +17683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 187743,
+      "num": 187743,
+      "word": "樊振东给拉布布穿了皇马球衣",
+      "onboard_time": 1757865982,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187703,
       "num": 187703,
       "word": "华晨宇跳了刀马刀马",
@@ -18929,6 +18937,14 @@
       "onboard_time": 1757595335,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177117,
+      "num": 177117,
+      "word": "jiayou a chunyu",
+      "onboard_time": 1757865207,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 177106,
@@ -23489,14 +23505,6 @@
       "onboard_time": 1757502323,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148256,
-      "num": 148256,
-      "word": "樊振东给拉布布穿了皇马球衣",
-      "onboard_time": 1757865982,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 148238,
@@ -35123,14 +35131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99521,
-      "num": 99521,
-      "word": "jiayou a chunyu",
-      "onboard_time": 1757865207,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 99501,
       "num": 99501,
       "word": "不满13条狗半夜叫扰毒死9只获刑",
@@ -36539,6 +36539,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 93107,
+      "num": 93107,
+      "word": "XG赛点",
+      "onboard_time": 1757868140,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93029,
       "num": 244284,
       "word": "新奥迪设计首发",
@@ -36865,6 +36873,14 @@
       "onboard_time": 1757688688,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91239,
+      "num": 76086,
+      "word": "小酒窝换装变身",
+      "onboard_time": 1757868320,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 91235,
@@ -40971,6 +40987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60413,
+      "num": 60413,
+      "word": "徐志胜又来看汪苏泷演唱会了",
+      "onboard_time": 1757869519,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60405,
       "num": 238882,
       "word": "九三阅兵台湾线上播放超500万",
@@ -41571,6 +41595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55131,
+      "num": 60134,
+      "word": "5名中国公民遭袭击1人被绑架",
+      "onboard_time": 1757868860,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55073,
       "num": 111741,
       "word": "李沁杠铃般的笑声",
@@ -41985,6 +42017,14 @@
       "onboard_time": 1757493442,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51142,
+      "num": 51142,
+      "word": "XG太猛了",
+      "onboard_time": 1757868380,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 51100,
@@ -42697,6 +42737,14 @@
       "onboard_time": 1757007016,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44070,
+      "num": 44070,
+      "word": "Ame 斯温",
+      "onboard_time": 1757870297,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 43935,
