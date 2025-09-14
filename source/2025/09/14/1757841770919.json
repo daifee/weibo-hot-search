@@ -1,0 +1,410 @@
+{
+  "runTime": 1757841770919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 467177,
+        "num": 1074748,
+        "word": "60岁张曼玉定居法国农村",
+        "onboard_time": 1757826863,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416579,
+        "num": 416579,
+        "word": "梁伟铿王昶战胜印度组合夺冠",
+        "onboard_time": 1757839523,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45215,
+        "num": 416290,
+        "word": "石榴红了满天山",
+        "onboard_time": 1757841083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 901640,
+        "num": 416224,
+        "word": "黎吧啦小耳朵十年后重聚",
+        "onboard_time": 1757835681,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416111,
+        "num": 416111,
+        "word": "美军雷达为何集体失明",
+        "onboard_time": 1757837363,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343120,
+        "num": 343120,
+        "word": "女子在瓜地发现东西瓜",
+        "onboard_time": 1757837603,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371688,
+        "num": 326980,
+        "word": "张凌赫背着王楚然出嫁路透",
+        "onboard_time": 1757838503,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293728,
+        "num": 293728,
+        "word": "男子持铁锤砸人致1死6伤家属发声",
+        "onboard_time": 1757837543,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255238,
+        "num": 255238,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1757816781,
+        "rank": 8,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 234978,
+        "num": 234978,
+        "word": "HLE对战T1",
+        "onboard_time": 1757833643,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1482762,
+        "num": 234587,
+        "word": "祝绪丹手滑事件后持续掉粉",
+        "onboard_time": 1757836342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 950809,
+        "num": 233366,
+        "word": "建议大家多去实体店逛一逛",
+        "onboard_time": 1757835921,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537091,
+        "num": 233275,
+        "word": "谭松韵瘦了好多",
+        "onboard_time": 1757834901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350232,
+        "num": 231766,
+        "word": "25岁面试vs35岁面试",
+        "onboard_time": 1757838863,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301468,
+        "num": 231061,
+        "word": "许光汉肿么了",
+        "onboard_time": 1757822842,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280820,
+        "num": 230181,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1757839162,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243418,
+        "num": 229810,
+        "word": "昏迷女孩被拖出车厢场面惊心",
+        "onboard_time": 1757839642,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168984,
+        "num": 228753,
+        "word": "张韶涵哽咽鞠躬30秒",
+        "onboard_time": 1757832863,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148474,
+        "num": 228066,
+        "word": "祝绪丹随便一跳被中医确诊",
+        "onboard_time": 1757833342,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48276,
+        "num": 227250,
+        "word": "王星越教贾乃亮饭撒",
+        "onboard_time": 1757839282,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397865,
+        "num": 226612,
+        "word": "西贝6000万咨询费",
+        "onboard_time": 1757841022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324927,
+        "num": 226007,
+        "word": "谢娜因爷爷去世而不敢回家过年",
+        "onboard_time": 1757824101,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323257,
+        "num": 224704,
+        "word": "网友实拍西贝21块钱馒头",
+        "onboard_time": 1757827403,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181331,
+        "num": 224041,
+        "word": "凌晨1点到3点必须要睡觉的重要性",
+        "onboard_time": 1757840961,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125520,
+        "num": 223333,
+        "word": "王青音乐节",
+        "onboard_time": 1757837722,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171588,
+        "num": 222609,
+        "word": "梁王夺冠双双倒地",
+        "onboard_time": 1757841264,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118645,
+        "num": 221787,
+        "word": "武林外传新路透",
+        "onboard_time": 1757822663,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221259,
+        "num": 221259,
+        "word": "HLE战胜T1",
+        "onboard_time": 1757840902,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78611,
+        "num": 194897,
+        "word": "刘思远 清华是人生浓墨重彩的一笔",
+        "onboard_time": 1757841202,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193575,
+        "num": 193575,
+        "word": "西贝厨师长称转基因大豆油用于员工餐",
+        "onboard_time": 1757834781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192615,
+        "num": 192615,
+        "word": "美版iPhone",
+        "onboard_time": 1757837422,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190159,
+        "num": 190159,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189056,
+        "num": 189056,
+        "word": "AG全员入选最佳一阵",
+        "onboard_time": 1757840842,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184398,
+        "num": 184398,
+        "word": "Hero坦然租借至AG",
+        "onboard_time": 1757840542,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161926,
+        "num": 161926,
+        "word": "原来超市的牛奶是这样上架的",
+        "onboard_time": 1757838263,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148410,
+        "num": 148410,
+        "word": "王楚钦给了自己脸一下",
+        "onboard_time": 1757838143,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147957,
+        "num": 147957,
+        "word": "连续30天十点睡觉身体的变化",
+        "onboard_time": 1757839282,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138126,
+        "num": 138126,
+        "word": "其实焦虑症是长期恐惧导致的神经疲劳",
+        "onboard_time": 1757830763,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128521,
+        "num": 128521,
+        "word": "iPhone17ProMax全新升级机王",
+        "onboard_time": 1757828963,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37733,
+        "num": 127575,
+        "word": "刘恋手指上套了个啥",
+        "onboard_time": 1757841442,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127204,
+        "num": 127204,
+        "word": "脸大的人把头发盘起来反而好看一点",
+        "onboard_time": 1757841503,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121304,
+        "num": 121304,
+        "word": "HLE晋级S15",
+        "onboard_time": 1757841743,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115010,
+        "num": 115010,
+        "word": "白鹿穿着姥姥衣服来录节目",
+        "onboard_time": 1757820202,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116684,
+        "num": 114977,
+        "word": "LPL与LCK迎来周末大战",
+        "onboard_time": 1757841743,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114700,
+        "num": 114700,
+        "word": "西贝上海中心门店客人流量不降反增",
+        "onboard_time": 1757841743,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113942,
+        "num": 113942,
+        "word": "女子长期克隆他人朋友圈用于网恋",
+        "onboard_time": 1757841083,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101480,
+        "num": 101480,
+        "word": "当刘耀文被问月薪多少",
+        "onboard_time": 1757834544,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100444,
+        "num": 100444,
+        "word": "柯克遗孀趴在棺柩上痛哭",
+        "onboard_time": 1757835803,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98430,
+        "num": 98430,
+        "word": "KPL",
+        "onboard_time": 1757839523,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98221,
+        "num": 98221,
+        "word": "河南商丘上空出现不明飞行物",
+        "onboard_time": 1757839642,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}
