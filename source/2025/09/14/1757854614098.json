@@ -1,0 +1,410 @@
+{
+  "runTime": 1757854614098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2345104,
+        "num": 2345104,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1757846784,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1460274,
+        "num": 1460274,
+        "word": "王楚钦战胜雨果夺冠",
+        "onboard_time": 1757853984,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23930,
+        "num": 1169291,
+        "word": "直播看各地丰收场景",
+        "onboard_time": 1757840063,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154727,
+        "num": 1154727,
+        "word": "wtt",
+        "onboard_time": 1757849903,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1059404,
+        "num": 1059404,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1757849783,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 855741,
+        "num": 855741,
+        "word": "央视曝肉毒素注射乱象",
+        "onboard_time": 1757846724,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572689,
+        "num": 572689,
+        "word": "李沁龚俊 偶像剧都不敢这么拍",
+        "onboard_time": 1757844082,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518687,
+        "num": 518687,
+        "word": "法考 邓紫棋",
+        "onboard_time": 1757844502,
+        "rank": 7,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 433033,
+        "num": 433033,
+        "word": "宋雨琦王安宇排名暴涨",
+        "onboard_time": 1757852484,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431506,
+        "num": 431506,
+        "word": "xg进决赛",
+        "onboard_time": 1757851164,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 746122,
+        "num": 415550,
+        "word": "林心如霍建华还在磨合中",
+        "onboard_time": 1757853386,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533336,
+        "num": 413760,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1757839162,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 374701,
+        "num": 374701,
+        "word": "祝绪丹手滑事件后持续掉粉",
+        "onboard_time": 1757836342,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361099,
+        "num": 361099,
+        "word": "警方回应女子坐评委身上做不雅动作",
+        "onboard_time": 1757845282,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309767,
+        "num": 309767,
+        "word": "孙颖莎学陈幸同请客",
+        "onboard_time": 1757851583,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282111,
+        "num": 282111,
+        "word": "AL战胜iG",
+        "onboard_time": 1757849783,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279534,
+        "num": 279534,
+        "word": "樊振东vs纽汀克",
+        "onboard_time": 1757854045,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220883,
+        "num": 278097,
+        "word": "白敬亭 开机开机",
+        "onboard_time": 1757843361,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191236,
+        "num": 269391,
+        "word": "黎吧啦小耳朵十年后重聚",
+        "onboard_time": 1757835681,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123569,
+        "num": 266417,
+        "word": "中方不参与不策划战争",
+        "onboard_time": 1757853565,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1297705,
+        "num": 257412,
+        "word": "西贝厨师长戴手表和手链下厨引热议",
+        "onboard_time": 1757851164,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 855266,
+        "num": 247405,
+        "word": "祝绪丹直播哽咽",
+        "onboard_time": 1757844623,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464277,
+        "num": 242522,
+        "word": "西贝6000万咨询费",
+        "onboard_time": 1757841022,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240565,
+        "num": 240565,
+        "word": "月饼 饭缩力",
+        "onboard_time": 1757845402,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236146,
+        "num": 236146,
+        "word": "陈都灵皮裙 好热但好美",
+        "onboard_time": 1757852963,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232171,
+        "num": 234167,
+        "word": "剧才播10集女主背后空无一人",
+        "onboard_time": 1757852303,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207269,
+        "num": 234153,
+        "word": "世界第二大网红遇上折耳根也没招了",
+        "onboard_time": 1757853325,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190320,
+        "num": 234153,
+        "word": "王霏霏脸上贴了20颗钻",
+        "onboard_time": 1757854225,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234153,
+        "num": 234152,
+        "word": "Gala高烧",
+        "onboard_time": 1757850983,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186601,
+        "num": 228340,
+        "word": "邓为你怎么变成权志为了",
+        "onboard_time": 1757854345,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227703,
+        "num": 227703,
+        "word": "西贝员工称羊肉一年集采一次",
+        "onboard_time": 1757850745,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205143,
+        "num": 205143,
+        "word": "iG醒醒",
+        "onboard_time": 1757843783,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198186,
+        "num": 198186,
+        "word": "王楚钦爆冲引全场欢呼",
+        "onboard_time": 1757853865,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193650,
+        "num": 193650,
+        "word": "王楚钦冠军海报",
+        "onboard_time": 1757854285,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193353,
+        "num": 193353,
+        "word": "孙颖莎赛季单打第六冠",
+        "onboard_time": 1757853865,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178193,
+        "num": 178193,
+        "word": "ame冲",
+        "onboard_time": 1757853325,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178073,
+        "num": 178073,
+        "word": "陈都灵被踩裙子一直说没关系",
+        "onboard_time": 1757851402,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159282,
+        "num": 159282,
+        "word": "刘宇宁直播",
+        "onboard_time": 1757853205,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158917,
+        "num": 158917,
+        "word": "iG掉入冒泡赛",
+        "onboard_time": 1757853745,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154910,
+        "num": 154910,
+        "word": "赴山海服化道",
+        "onboard_time": 1757854345,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153818,
+        "num": 153818,
+        "word": "大姑和大姑父的身体素质太强了",
+        "onboard_time": 1757853625,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152623,
+        "num": 152623,
+        "word": "苏醒把王栎鑫骂到心坎里了",
+        "onboard_time": 1757847264,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148086,
+        "num": 148086,
+        "word": "警方回应扶老人过马路被打飞眼镜",
+        "onboard_time": 1757846844,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140891,
+        "num": 144413,
+        "word": "张曼玉IP显示仍在中国香港",
+        "onboard_time": 1757853085,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142857,
+        "num": 142857,
+        "word": "马群耀金天鹅影帝",
+        "onboard_time": 1757854524,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141836,
+        "num": 141836,
+        "word": "建议大家多去实体店逛一逛",
+        "onboard_time": 1757835921,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141059,
+        "num": 141059,
+        "word": "难怪大家都要养两只猫",
+        "onboard_time": 1757854465,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135725,
+        "num": 135725,
+        "word": "仙逆",
+        "onboard_time": 1757851703,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156892,
+        "num": 135338,
+        "word": "孙颖莎VS王曼昱",
+        "onboard_time": 1757844862,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132088,
+        "num": 132088,
+        "word": "凌晨1点到3点必须要睡觉的重要性",
+        "onboard_time": 1757840961,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

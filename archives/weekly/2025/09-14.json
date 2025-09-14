@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757853765741,
+  "endTime": 1757854614098,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1482762,
-      "num": 357938,
+      "num": 374701,
       "word": "祝绪丹手滑事件后持续掉粉",
       "onboard_time": 1757836342,
       "rank": 12,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1460274,
+      "num": 1460274,
+      "word": "王楚钦战胜雨果夺冠",
+      "onboard_time": 1757853984,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1268838,
       "num": 676347,
       "word": "黎吧啦小耳朵十年后重聚",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1192657,
-      "num": 360093,
+      "num": 413760,
       "word": "月经的本质是流血不是排毒",
       "onboard_time": 1757839162,
       "rank": 38,
@@ -105,6 +113,14 @@
       "onboard_time": 1757773105,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1154727,
+      "num": 1154727,
+      "word": "wtt",
+      "onboard_time": 1757849903,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1104259,
@@ -259,6 +275,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 746122,
+      "num": 415550,
+      "word": "林心如霍建华还在磨合中",
+      "onboard_time": 1757853386,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728532,
       "num": 427133,
       "word": "其实焦虑症是长期恐惧导致的神经疲劳",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 531073,
-      "num": 353849,
+      "num": 361099,
       "word": "警方回应女子坐评委身上做不雅动作",
       "onboard_time": 1757845282,
       "rank": 30,
@@ -505,6 +529,14 @@
       "onboard_time": 1757830403,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 433033,
+      "num": 433033,
+      "word": "宋雨琦王安宇排名暴涨",
+      "onboard_time": 1757852484,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 427913,
@@ -651,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353021,
-      "num": 353021,
-      "word": "wtt",
-      "onboard_time": 1757849903,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 343120,
       "num": 343120,
       "word": "女子在瓜地发现东西瓜",
@@ -705,14 +729,6 @@
       "onboard_time": 1757805438,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 316889,
-      "num": 316889,
-      "word": "宋雨琦王安宇排名暴涨",
-      "onboard_time": 1757852484,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 316452,
@@ -811,20 +827,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279534,
+      "num": 279534,
+      "word": "樊振东vs纽汀克",
+      "onboard_time": 1757854045,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276853,
       "num": 276853,
       "word": "jiejie",
       "onboard_time": 1757847923,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 276260,
-      "num": 276260,
-      "word": "林心如霍建华还在磨合中",
-      "onboard_time": 1757853386,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 276245,
@@ -963,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236146,
+      "num": 236146,
+      "word": "陈都灵皮裙 好热但好美",
+      "onboard_time": 1757852963,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234978,
       "num": 234978,
       "word": "HLE对战T1",
@@ -977,14 +1001,6 @@
       "onboard_time": 1757833822,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225804,
-      "num": 192364,
-      "word": "陈都灵皮裙 好热但好美",
-      "onboard_time": 1757852963,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 222906,
@@ -1051,6 +1067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207269,
+      "num": 234153,
+      "word": "世界第二大网红遇上折耳根也没招了",
+      "onboard_time": 1757853325,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202316,
       "num": 202316,
       "word": "朝方提醒美日韩",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1757820562,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198186,
+      "num": 198186,
+      "word": "王楚钦爆冲引全场欢呼",
+      "onboard_time": 1757853865,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198089,
@@ -1155,6 +1187,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193650,
+      "num": 193650,
+      "word": "王楚钦冠军海报",
+      "onboard_time": 1757854285,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193353,
+      "num": 193353,
+      "word": "孙颖莎赛季单打第六冠",
+      "onboard_time": 1757853865,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193072,
       "num": 264958,
       "word": "预制菜风波与其站队不如站对",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1757830583,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190320,
+      "num": 234153,
+      "word": "王霏霏脸上贴了20颗钻",
+      "onboard_time": 1757854225,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 189365,
@@ -1193,6 +1249,14 @@
       "onboard_time": 1757840842,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186601,
+      "num": 228340,
+      "word": "邓为你怎么变成权志为了",
+      "onboard_time": 1757854345,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186266,
@@ -1243,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180044,
-      "num": 180044,
-      "word": "世界第二大网红遇上折耳根也没招了",
-      "onboard_time": 1757853325,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 179913,
       "num": 179913,
       "word": "柯克遗孀趴在棺柩上痛哭",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1757829682,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178193,
+      "num": 178193,
+      "word": "ame冲",
+      "onboard_time": 1757853325,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 178192,
@@ -1305,14 +1369,6 @@
       "onboard_time": 1757816001,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169924,
-      "num": 169924,
-      "word": "ame冲",
-      "onboard_time": 1757853325,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 169091,
@@ -1451,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158917,
+      "num": 158917,
+      "word": "iG掉入冒泡赛",
+      "onboard_time": 1757853745,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158844,
       "num": 158844,
       "word": "3个小时挣1000块的工作",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1757845342,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154910,
+      "num": 154910,
+      "word": "赴山海服化道",
+      "onboard_time": 1757854345,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 154721,
@@ -1627,12 +1699,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142304,
-      "num": 142304,
-      "word": "iG掉入冒泡赛",
-      "onboard_time": 1757853745,
-      "rank": 49,
-      "category": "电竞"
+      "raw_hot": 142857,
+      "num": 142857,
+      "word": "马群耀金天鹅影帝",
+      "onboard_time": 1757854524,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 141149,
@@ -1649,6 +1721,22 @@
       "onboard_time": 1757813001,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141059,
+      "num": 141059,
+      "word": "难怪大家都要养两只猫",
+      "onboard_time": 1757854465,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140891,
+      "num": 361507,
+      "word": "张曼玉IP显示仍在中国香港",
+      "onboard_time": 1757853085,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 139825,
@@ -1763,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135725,
+      "num": 135725,
+      "word": "仙逆",
+      "onboard_time": 1757851703,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 135445,
       "num": 167353,
       "word": "马思纯干啥都大大方方的",
@@ -1843,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128245,
-      "num": 361507,
-      "word": "张曼玉IP显示仍在中国香港",
-      "onboard_time": 1757853085,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127204,
       "num": 127204,
       "word": "脸大的人把头发盘起来反而好看一点",
@@ -1921,6 +2009,14 @@
       "onboard_time": 1757811020,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123569,
+      "num": 266417,
+      "word": "中方不参与不策划战争",
+      "onboard_time": 1757853565,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121545,
@@ -2427,14 +2523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92987,
-      "num": 253771,
-      "word": "中方不参与不策划战争",
-      "onboard_time": 1757853565,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 92025,
       "num": 106628,
       "word": "王楚钦11比8张禹珍",
@@ -2891,6 +2979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23930,
+      "num": 1217406,
+      "word": "直播看各地丰收场景",
+      "onboard_time": 1757840063,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21387,
       "num": 33909,
       "word": "不怕你预制就怕你不告诉我",
@@ -2929,14 +3025,6 @@
       "onboard_time": 1757791515,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17168,
-      "num": 1217406,
-      "word": "直播看各地丰收场景",
-      "onboard_time": 1757840063,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16068,
