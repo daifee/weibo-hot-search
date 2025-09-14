@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757856960444,
+  "endTime": 1757859621539,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 993492,
+      "num": 1158958,
+      "word": "孙颖莎王楚钦澳门赛冠军合影",
+      "onboard_time": 1757855965,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 981228,
       "num": 1156317,
       "word": "唐嫣紧张到声音都在发抖",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 899466,
-      "num": 644509,
+      "num": 699923,
       "word": "李沁龚俊 偶像剧都不敢这么拍",
       "onboard_time": 1757844082,
       "rank": 8,
@@ -233,6 +241,14 @@
       "onboard_time": 1757826863,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 838940,
+      "num": 239854,
+      "word": "西贝创始人称应对方式有错",
+      "onboard_time": 1757857403,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 833851,
@@ -291,16 +307,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 763093,
-      "num": 763093,
-      "word": "孙颖莎王楚钦澳门赛冠军合影",
-      "onboard_time": 1757855965,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 745565,
-      "num": 745565,
+      "raw_hot": 754951,
+      "num": 754951,
       "word": "李晟说祝绪丹气太多了",
       "onboard_time": 1757855906,
       "rank": 7,
@@ -339,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 669556,
+      "num": 669556,
+      "word": "iPhone17系列补贴后降1000元",
+      "onboard_time": 1757856385,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 665941,
       "num": 258762,
       "word": "谭松韵瘦了好多",
       "onboard_time": 1757834901,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660211,
+      "num": 660211,
+      "word": "邓为你怎么变成权志为了",
+      "onboard_time": 1757854345,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 657223,
@@ -360,6 +384,14 @@
       "word": "网友实拍西贝21块钱馒头",
       "onboard_time": 1757827403,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590567,
+      "num": 443126,
+      "word": "警方回应女子坐评委身上做不雅动作",
+      "onboard_time": 1757845282,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -427,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531073,
-      "num": 443126,
-      "word": "警方回应女子坐评委身上做不雅动作",
-      "onboard_time": 1757845282,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 530379,
       "num": 530379,
       "word": "毛利兰灰原哀",
@@ -472,6 +496,14 @@
       "word": "iPhone17ProMax全新升级机王",
       "onboard_time": 1757828963,
       "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 505353,
+      "num": 404072,
+      "word": "iPhone17补贴后售价4999元",
+      "onboard_time": 1757858306,
+      "rank": 8,
       "category": "数码"
     },
     {
@@ -579,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 427002,
+      "num": 427002,
+      "word": "TFING直播",
+      "onboard_time": 1757856805,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425469,
       "num": 425469,
       "word": "祝绪丹随便一跳被中医确诊",
@@ -643,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396213,
-      "num": 396213,
-      "word": "邓为你怎么变成权志为了",
-      "onboard_time": 1757854345,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 393441,
       "num": 332204,
       "word": "樊振东vs纽汀克",
@@ -665,6 +697,14 @@
       "onboard_time": 1757811081,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 388843,
+      "num": 265231,
+      "word": "周迅如懿传谣言澄清",
+      "onboard_time": 1757858967,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 386887,
@@ -704,6 +744,14 @@
       "word": "9月机票价格大跳水",
       "onboard_time": 1757821762,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372391,
+      "num": 237476,
+      "word": "男子肛门藏含大麻电子烟入境被查",
+      "onboard_time": 1757859566,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -803,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310993,
+      "num": 250187,
+      "word": "王影璐黄多多可以演姐妹了",
+      "onboard_time": 1757856444,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306772,
       "num": 476196,
       "word": "吴艳妮回应止步100米栏预赛",
@@ -841,6 +897,14 @@
       "onboard_time": 1757817082,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 296786,
+      "num": 235977,
+      "word": "华与华 西贝",
+      "onboard_time": 1757857526,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294701,
@@ -891,12 +955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278125,
-      "num": 278125,
-      "word": "iPhone17系列补贴后降1000元",
-      "onboard_time": 1757856385,
-      "rank": 19,
-      "category": "数码"
+      "raw_hot": 277642,
+      "num": 235050,
+      "word": "韦雪搓澡被粉丝认出",
+      "onboard_time": 1757856205,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 276853,
@@ -1067,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235005,
+      "num": 235005,
+      "word": "两个枕头才是睡眠的正确打开方式",
+      "onboard_time": 1757854825,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 234978,
       "num": 234978,
       "word": "HLE对战T1",
@@ -1075,12 +1147,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229738,
-      "num": 229738,
-      "word": "TFING直播",
-      "onboard_time": 1757856805,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 230605,
+      "num": 230605,
+      "word": "尼日利亚一载5名中国人车队遭袭击",
+      "onboard_time": 1757856985,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 227074,
@@ -1099,6 +1171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 222997,
+      "num": 222997,
+      "word": "刘轩丞白发",
+      "onboard_time": 1757856926,
+      "rank": 49,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 222906,
       "num": 222906,
       "word": "1分钟秒睡法",
@@ -1115,11 +1195,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219936,
+      "num": 216660,
+      "word": "妈妈亲手缝的NIKE书包火了",
+      "onboard_time": 1757859446,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219887,
       "num": 219887,
       "word": "蒋智豪确诊肺癌晚期最新发声",
       "onboard_time": 1757750604,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219577,
+      "num": 219577,
+      "word": "刘轩丞看镜头这一眼",
+      "onboard_time": 1757858485,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1153,6 +1249,14 @@
       "onboard_time": 1757856264,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211293,
+      "num": 211293,
+      "word": "孙颖莎美美SUNday",
+      "onboard_time": 1757857884,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 209194,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1757853865,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198154,
+      "num": 198154,
+      "word": "贾国龙称西贝今后将打明牌",
+      "onboard_time": 1757858485,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198089,
@@ -1459,20 +1571,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 179512,
-      "num": 190703,
-      "word": "韦雪搓澡被粉丝认出",
-      "onboard_time": 1757856205,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 179363,
       "num": 167310,
       "word": "西贝客服回应员工用漏勺挖下水道",
       "onboard_time": 1757829682,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178676,
+      "num": 178676,
+      "word": "张艺兴周星驰 两个孙悟空",
+      "onboard_time": 1757858185,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 178193,
@@ -1513,14 +1625,6 @@
       "onboard_time": 1757831662,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173961,
-      "num": 173961,
-      "word": "两个枕头才是睡眠的正确打开方式",
-      "onboard_time": 1757854825,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173468,
@@ -1579,12 +1683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166233,
+      "num": 166233,
+      "word": "武林外传",
+      "onboard_time": 1757859566,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164494,
       "num": 223333,
       "word": "王青音乐节",
       "onboard_time": 1757837722,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164084,
+      "num": 164084,
+      "word": "赴山海服化道",
+      "onboard_time": 1757854345,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 163688,
@@ -1617,14 +1737,6 @@
       "onboard_time": 1757839282,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162990,
-      "num": 162990,
-      "word": "刘轩丞白发",
-      "onboard_time": 1757856926,
-      "rank": 49,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 162516,
@@ -1707,12 +1819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154910,
-      "num": 154910,
-      "word": "赴山海服化道",
-      "onboard_time": 1757854345,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 155937,
+      "num": 207001,
+      "word": "樊振东玉面战神",
+      "onboard_time": 1757859386,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 154721,
@@ -1768,6 +1880,14 @@
       "word": "花费千万出书网上卖10块钱",
       "onboard_time": 1757836882,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150137,
+      "num": 238313,
+      "word": "北京昨夜冰雹威力究竟有多大",
+      "onboard_time": 1757859026,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2531,6 +2651,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 102151,
+      "num": 202911,
+      "word": "女子潜水被遗忘海上漂了45分钟",
+      "onboard_time": 1757859446,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101737,
       "num": 101737,
       "word": "王楚钦决赛再战雨果",
@@ -2723,6 +2851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90389,
+      "num": 198836,
+      "word": "盟友炸了盟友",
+      "onboard_time": 1757858185,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90070,
       "num": 90070,
       "word": "EDG对阵NRG",
@@ -2825,14 +2961,6 @@
       "onboard_time": 1757777423,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 80479,
-      "num": 190555,
-      "word": "王影璐黄多多可以演姐妹了",
-      "onboard_time": 1757856444,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 80388,
@@ -3083,6 +3211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47726,
+      "num": 737630,
+      "word": "丰收的田野是最美的画卷",
+      "onboard_time": 1757858306,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42691,
       "num": 42691,
       "word": "普通人对Agent的使用率几乎为0",
@@ -3105,6 +3241,14 @@
       "onboard_time": 1757797634,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41680,
+      "num": 232357,
+      "word": "柯克案22岁嫌犯一枪吓坏了美国",
+      "onboard_time": 1757858846,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41437,
@@ -3200,6 +3344,22 @@
       "word": "汪苏泷又在腾空开上小飞机了",
       "onboard_time": 1757795114,
       "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24436,
+      "num": 241012,
+      "word": "房屋垮塌开裂补偿协议多年未履行",
+      "onboard_time": 1757858846,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21766,
+      "num": 205664,
+      "word": "就让大雨全都落下具象化了",
+      "onboard_time": 1757858846,
+      "rank": 38,
       "category": "演出"
     },
     {
