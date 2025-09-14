@@ -1,7 +1,15 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757816189948,
+  "endTime": 1757819261410,
   "band_list": [
+    {
+      "raw_hot": 1512775,
+      "num": 1512775,
+      "word": "桃黑黑发长文",
+      "onboard_time": 1757816781,
+      "rank": 0,
+      "category": "网红,游戏"
+    },
     {
       "raw_hot": 1157067,
       "num": 1157067,
@@ -35,12 +43,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 930525,
+      "num": 161786,
+      "word": "西贝",
+      "onboard_time": 1757815342,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 900321,
       "num": 900321,
       "word": "李荣浩 这是个真事你们可以上网查",
       "onboard_time": 1757777125,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 862627,
+      "num": 862627,
+      "word": "李沁 不哭的孩子也能有糖吃",
+      "onboard_time": 1757815823,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 818940,
@@ -91,6 +115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 631438,
+      "num": 246277,
+      "word": "北京二环内的独栋别墅",
+      "onboard_time": 1757815521,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 587676,
       "num": 587676,
       "word": "北京 冰河世纪",
@@ -113,6 +145,14 @@
       "onboard_time": 1757805198,
       "rank": 30,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 509446,
+      "num": 247283,
+      "word": "北京满地冰雹像下雪一样",
+      "onboard_time": 1757811621,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486541,
@@ -163,14 +203,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 415559,
-      "num": 247283,
-      "word": "北京满地冰雹像下雪一样",
-      "onboard_time": 1757811621,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 415460,
       "num": 251857,
       "word": "赴山海抠图感",
@@ -209,14 +241,6 @@
       "onboard_time": 1757805438,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 316286,
-      "num": 161786,
-      "word": "西贝",
-      "onboard_time": 1757815342,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303484,
@@ -283,6 +307,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 253734,
+      "num": 253734,
+      "word": "柯克案牵出美国神秘团体",
+      "onboard_time": 1757815162,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 251126,
       "num": 209575,
       "word": "王楚钦男单争冠",
@@ -323,6 +355,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231314,
+      "num": 231314,
+      "word": "多囊vs多囊卵巢综合征",
+      "onboard_time": 1757817082,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224128,
+      "num": 224128,
+      "word": "女演员视后含金量",
+      "onboard_time": 1757818883,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219887,
       "num": 219887,
       "word": "蒋智豪确诊肺癌晚期最新发声",
@@ -337,6 +385,14 @@
       "onboard_time": 1757778384,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 214100,
+      "num": 140046,
+      "word": "女子称贷款100多万中介收31万",
+      "onboard_time": 1757817261,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208687,
@@ -395,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175625,
-      "num": 158843,
-      "word": "北京二环内的独栋别墅",
-      "onboard_time": 1757815521,
-      "rank": 30,
-      "category": "休闲"
+      "raw_hot": 173468,
+      "num": 139227,
+      "word": "这才是我月薪三千该去的地方",
+      "onboard_time": 1757816001,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 169091,
@@ -411,20 +467,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 168018,
+      "num": 136572,
+      "word": "卡塔尔承认探测不到以军战机",
+      "onboard_time": 1757818464,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166249,
       "num": 166249,
       "word": "女子表演与蟒蛇亲嘴被咬血流不止",
       "onboard_time": 1757768965,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164063,
-      "num": 164063,
-      "word": "李沁 不哭的孩子也能有糖吃",
-      "onboard_time": 1757815823,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 163688,
@@ -441,6 +497,14 @@
       "onboard_time": 1757759544,
       "rank": 19,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 157320,
+      "num": 138290,
+      "word": "王牌对王牌横扫周末收视率",
+      "onboard_time": 1757818162,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 154721,
@@ -507,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125626,
+      "num": 125626,
+      "word": "这小鼻嘎好像是我弟",
+      "onboard_time": 1757817082,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124320,
       "num": 145832,
       "word": "北京多区发冰雹黄色预警",
@@ -545,6 +617,14 @@
       "onboard_time": 1757778924,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114400,
+      "num": 126733,
+      "word": "国家级保护区治愈buff叠满",
+      "onboard_time": 1757816722,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110260,
@@ -611,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99196,
+      "num": 99196,
+      "word": "我给赴山海做了一部游戏动画",
+      "onboard_time": 1757817742,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99021,
       "num": 120781,
       "word": "杨幂直播",
@@ -643,12 +731,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87980,
-      "num": 87980,
-      "word": "这才是我月薪三千该去的地方",
-      "onboard_time": 1757816001,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 89487,
+      "num": 89487,
+      "word": "吴艳妮田径世锦赛首秀",
+      "onboard_time": 1757817983,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87403,
@@ -779,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70771,
+      "num": 122358,
+      "word": "韩右翼游行高喊我们都是柯克",
+      "onboard_time": 1757818942,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60038,
       "num": 60038,
       "word": "女儿上学时和放学时的发型",
@@ -835,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 49586,
-      "num": 163916,
-      "word": "柯克案牵出美国神秘团体",
-      "onboard_time": 1757815162,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 48877,
       "num": 120323,
       "word": "孙颖莎vs迪亚兹",
@@ -852,7 +940,7 @@
     },
     {
       "raw_hot": 47966,
-      "num": 857438,
+      "num": 890320,
       "word": "国宝画重点",
       "onboard_time": 1757769985,
       "rank": 2,
@@ -929,6 +1017,14 @@
       "onboard_time": 1757788636,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26076,
+      "num": 137718,
+      "word": "xg战队急需支援",
+      "onboard_time": 1757818701,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 25463,

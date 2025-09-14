@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757816189948,
+  "endTime": 1757819261410,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1289,6 +1289,14 @@
       "onboard_time": 1756871011,
       "rank": 33,
       "category": "互联网,国内时政"
+    },
+    {
+      "raw_hot": 1512775,
+      "num": 1512775,
+      "word": "桃黑黑发长文",
+      "onboard_time": 1757816781,
+      "rank": 0,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 1508996,
@@ -2587,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 930525,
+      "num": 877097,
+      "word": "西贝",
+      "onboard_time": 1757638227,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 928701,
       "num": 1021375,
       "word": "最贵iPhone诞生",
@@ -2819,14 +2835,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 877097,
-      "num": 877097,
-      "word": "西贝",
-      "onboard_time": 1757638227,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 876559,
       "num": 656550,
       "word": "北京杜莎夫人蜡像馆将永久关停",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1756860385,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 862627,
+      "num": 862627,
+      "word": "李沁 不哭的孩子也能有糖吃",
+      "onboard_time": 1757815823,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 861041,
@@ -4563,6 +4579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 631438,
+      "num": 246277,
+      "word": "北京二环内的独栋别墅",
+      "onboard_time": 1757815521,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 631021,
       "num": 631021,
       "word": "何秋亊 人民非遗推荐人",
@@ -5897,6 +5921,14 @@
       "onboard_time": 1757129722,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509446,
+      "num": 247283,
+      "word": "北京满地冰雹像下雪一样",
+      "onboard_time": 1757811621,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 509269,
@@ -7577,14 +7609,6 @@
       "onboard_time": 1757734165,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 415559,
-      "num": 247283,
-      "word": "北京满地冰雹像下雪一样",
-      "onboard_time": 1757811621,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 414360,
@@ -11819,6 +11843,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 253734,
+      "num": 253734,
+      "word": "柯克案牵出美国神秘团体",
+      "onboard_time": 1757815162,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253584,
       "num": 253584,
       "word": "敖瑞鹏孙珍妮海报",
@@ -12739,6 +12771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 231314,
+      "num": 231314,
+      "word": "多囊vs多囊卵巢综合征",
+      "onboard_time": 1757817082,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231231,
       "num": 228311,
       "word": "罗永浩谈行业人一边倒声援西贝",
@@ -13137,6 +13177,14 @@
       "onboard_time": 1757774065,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224128,
+      "num": 224128,
+      "word": "女演员视后含金量",
+      "onboard_time": 1757818883,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 223734,
@@ -13673,6 +13721,14 @@
       "onboard_time": 1757320523,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214100,
+      "num": 140046,
+      "word": "女子称贷款100多万中介收31万",
+      "onboard_time": 1757817261,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214049,
@@ -17723,14 +17779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 175625,
-      "num": 158843,
-      "word": "北京二环内的独栋别墅",
-      "onboard_time": 1757815521,
-      "rank": 30,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 175548,
       "num": 170345,
       "word": "果然留子一出手就是王炸",
@@ -17953,6 +18001,14 @@
       "onboard_time": 1757123841,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173468,
+      "num": 139227,
+      "word": "这才是我月薪三千该去的地方",
+      "onboard_time": 1757816001,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 173457,
@@ -18731,6 +18787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168018,
+      "num": 136572,
+      "word": "卡塔尔承认探测不到以军战机",
+      "onboard_time": 1757818464,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167971,
       "num": 167971,
       "word": "WTT澳门冠军赛男单完整签表",
@@ -19305,14 +19369,6 @@
       "onboard_time": 1756982843,
       "rank": 31,
       "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 164063,
-      "num": 164063,
-      "word": "李沁 不哭的孩子也能有糖吃",
-      "onboard_time": 1757815823,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 164035,
@@ -20345,6 +20401,14 @@
       "onboard_time": 1757651126,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 157320,
+      "num": 138290,
+      "word": "王牌对王牌横扫周末收视率",
+      "onboard_time": 1757818162,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 157303,
@@ -26731,6 +26795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125626,
+      "num": 125626,
+      "word": "这小鼻嘎好像是我弟",
+      "onboard_time": 1757817082,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125592,
       "num": 125592,
       "word": "川超真来了",
@@ -29337,6 +29409,14 @@
       "onboard_time": 1757390482,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114400,
+      "num": 126733,
+      "word": "国家级保护区治愈buff叠满",
+      "onboard_time": 1757816722,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114389,
@@ -32867,6 +32947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99196,
+      "num": 99196,
+      "word": "我给赴山海做了一部游戏动画",
+      "onboard_time": 1757817742,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99187,
       "num": 134499,
       "word": "易烊千玺礐嶨北京站vlog",
@@ -34683,6 +34771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89487,
+      "num": 89487,
+      "word": "吴艳妮田径世锦赛首秀",
+      "onboard_time": 1757817983,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89474,
       "num": 279820,
       "word": "不二之臣 男女主",
@@ -34865,14 +34961,6 @@
       "onboard_time": 1756973542,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87980,
-      "num": 87980,
-      "word": "这才是我月薪三千该去的地方",
-      "onboard_time": 1757816001,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 87888,
@@ -37347,6 +37435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70771,
+      "num": 122358,
+      "word": "韩右翼游行高喊我们都是柯克",
+      "onboard_time": 1757818942,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70604,
       "num": 253743,
       "word": "秋天的第一场秒杀",
@@ -39571,14 +39667,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 49586,
-      "num": 163916,
-      "word": "柯克案牵出美国神秘团体",
-      "onboard_time": 1757815162,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49570,
       "num": 58458,
       "word": "当副科老师有多爽",
@@ -41609,6 +41697,14 @@
       "onboard_time": 1756835055,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26076,
+      "num": 137718,
+      "word": "xg战队急需支援",
+      "onboard_time": 1757818701,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 26053,
