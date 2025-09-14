@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757874633999,
+  "endTime": 1757875348605,
   "band_list": [
     {
       "raw_hot": 969834,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109594,
+      "num": 109594,
+      "word": "男子回应NIKE要给缝书包的妈妈礼物",
+      "onboard_time": 1757871736,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103689,
       "num": 103776,
       "word": "白桃星座",
@@ -419,14 +427,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 72101,
-      "num": 72101,
-      "word": "男子回应NIKE要给缝书包的妈妈礼物",
-      "onboard_time": 1757871736,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62787,
       "num": 103705,
       "word": "钎城闪现张艺兴演唱会",
@@ -504,6 +504,22 @@
       "word": "汪苏泷是男大吧",
       "onboard_time": 1757873656,
       "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24311,
+      "num": 59274,
+      "word": "又可以和汪苏泷同淋一场雨了",
+      "onboard_time": 1757874974,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22994,
+      "num": 59262,
+      "word": "汪苏泷古希腊掌管应援棒的神",
+      "onboard_time": 1757875215,
+      "rank": 45,
       "category": "演出"
     }
   ],
