@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757885775861,
+  "endTime": 1757888508182,
   "band_list": [
     {
       "raw_hot": 969834,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 351349,
-      "num": 206964,
+      "num": 381003,
       "word": "甲状腺发出的求救信号",
       "onboard_time": 1757864363,
       "rank": 21,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237305,
+      "num": 205581,
+      "word": "航班因雷雨天备降太原引乘客下跪",
+      "onboard_time": 1757864304,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228831,
       "num": 228831,
       "word": "邓为你怎么变成权志为了",
@@ -161,14 +169,6 @@
       "onboard_time": 1757860046,
       "rank": 17,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 207992,
-      "num": 205581,
-      "word": "航班因雷雨天备降太原引乘客下跪",
-      "onboard_time": 1757864304,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207368,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107730,
+      "num": 210436,
+      "word": "2岁女童失踪超10天母亲发声",
+      "onboard_time": 1757861005,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103689,
       "num": 103776,
       "word": "白桃星座",
@@ -385,14 +393,6 @@
       "onboard_time": 1757861546,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 86885,
-      "num": 210436,
-      "word": "2岁女童失踪超10天母亲发声",
-      "onboard_time": 1757861005,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85342,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34131,
+      "num": 34131,
+      "word": "男子持铁锤砸路人致1死6伤",
+      "onboard_time": 1757884034,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34034,
       "num": 63510,
       "word": "打dota的还是这些人",
@@ -521,6 +529,14 @@
       "onboard_time": 1757858306,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29286,
+      "num": 29286,
+      "word": "给王玉雯哄成胚胎了",
+      "onboard_time": 1757885416,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 28657,
@@ -561,6 +577,14 @@
       "onboard_time": 1757880915,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23648,
+      "num": 29243,
+      "word": "女子接一客服电话50万存款被转走",
+      "onboard_time": 1757883973,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23520,
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 21582,
-      "num": 25918,
+      "num": 29207,
       "word": "大学想谈恋爱其实也不容易",
       "onboard_time": 1757881394,
       "rank": 49,
@@ -625,14 +649,6 @@
       "onboard_time": 1757872036,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13616,
-      "num": 18612,
-      "word": "男子持铁锤砸路人致1死6伤",
-      "onboard_time": 1757884034,
-      "rank": 48,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
