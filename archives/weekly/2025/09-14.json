@@ -1,10 +1,10 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757819755889,
+  "endTime": 1757821662972,
   "band_list": [
     {
-      "raw_hot": 1512775,
-      "num": 1512775,
+      "raw_hot": 1886693,
+      "num": 1886693,
       "word": "桃黑黑发长文",
       "onboard_time": 1757816781,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 930525,
-      "num": 161786,
+      "num": 179177,
       "word": "西贝",
       "onboard_time": 1757815342,
       "rank": 24,
@@ -99,6 +99,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 706439,
+      "num": 246277,
+      "word": "北京二环内的独栋别墅",
+      "onboard_time": 1757815521,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 698417,
       "num": 224985,
       "word": "西贝厨师长称家里一顿没吃完也不会扔",
@@ -113,14 +121,6 @@
       "onboard_time": 1757777605,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 631438,
-      "num": 246277,
-      "word": "北京二环内的独栋别墅",
-      "onboard_time": 1757815521,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 587676,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 507990,
+      "num": 207258,
+      "word": "白鹿穿着姥姥衣服来录节目",
+      "onboard_time": 1757820202,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486541,
       "num": 486541,
       "word": "这大概是中国人才能理解的审美",
@@ -177,6 +185,14 @@
       "onboard_time": 1757811621,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474449,
+      "num": 232135,
+      "word": "女演员视后含金量",
+      "onboard_time": 1757818883,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 471944,
@@ -243,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 316393,
+      "num": 177236,
+      "word": "刘雨昕迪奥大合影C位",
+      "onboard_time": 1757820922,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303484,
       "num": 270969,
       "word": "园长回应幼儿园开课教擦屁股",
@@ -267,12 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288588,
-      "num": 232135,
-      "word": "女演员视后含金量",
-      "onboard_time": 1757818883,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 296803,
+      "num": 231314,
+      "word": "多囊vs多囊卵巢综合征",
+      "onboard_time": 1757817082,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 286908,
+      "num": 198506,
+      "word": "黄子韬说因为徐艺洋像白纸而被吸引",
+      "onboard_time": 1757820022,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 281411,
@@ -323,14 +355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 252526,
-      "num": 231314,
-      "word": "多囊vs多囊卵巢综合征",
-      "onboard_time": 1757817082,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 251126,
       "num": 209575,
       "word": "王楚钦男单争冠",
@@ -371,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240521,
+      "num": 198132,
+      "word": "卡塔尔承认探测不到以军战机",
+      "onboard_time": 1757818464,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219887,
       "num": 219887,
       "word": "蒋智豪确诊肺癌晚期最新发声",
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 214100,
-      "num": 143401,
+      "num": 174181,
       "word": "女子称贷款100多万中介收31万",
       "onboard_time": 1757817261,
       "rank": 25,
@@ -419,6 +451,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200612,
+      "num": 200612,
+      "word": "毛利兰灰原哀",
+      "onboard_time": 1757821402,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 198703,
+      "num": 173683,
+      "word": "体检报告这些字眼或是癌症信号",
+      "onboard_time": 1757820562,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197492,
       "num": 142681,
       "word": "董璇张维伊吵架好真实",
@@ -433,6 +481,14 @@
       "onboard_time": 1757805198,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196291,
+      "num": 196291,
+      "word": "王牌对王牌横扫周末收视率",
+      "onboard_time": 1757818162,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 181788,
@@ -459,20 +515,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173122,
+      "num": 173122,
+      "word": "法考",
+      "onboard_time": 1757821581,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169091,
       "num": 169091,
       "word": "瘦了20斤鼻子变化",
       "onboard_time": 1757756482,
       "rank": 16,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 168018,
-      "num": 139283,
-      "word": "卡塔尔承认探测不到以军战机",
-      "onboard_time": 1757818464,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 166249,
@@ -499,12 +555,12 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 157320,
-      "num": 145279,
-      "word": "王牌对王牌横扫周末收视率",
-      "onboard_time": 1757818162,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 158844,
+      "num": 158844,
+      "word": "3个小时挣1000块的工作",
+      "onboard_time": 1757819063,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 154721,
@@ -521,6 +577,14 @@
       "onboard_time": 1757806519,
       "rank": 23,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 142697,
+      "num": 142697,
+      "word": "刘宇宁一米九大高个被菜打了",
+      "onboard_time": 1757821281,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 141110,
@@ -563,12 +627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137418,
+      "num": 137418,
+      "word": "火锅减肥法",
+      "onboard_time": 1757820263,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133509,
       "num": 133509,
       "word": "陈小春应采儿10年后相依为命callback",
       "onboard_time": 1757777125,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130043,
+      "num": 130043,
+      "word": "杜淳在舞台上给了王灿一个婚礼",
+      "onboard_time": 1757820082,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 125626,
@@ -595,12 +675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123601,
-      "num": 123601,
-      "word": "3个小时挣1000块的工作",
-      "onboard_time": 1757819063,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 121650,
+      "num": 121650,
+      "word": "澳洲你管这个叫青菜",
+      "onboard_time": 1757820562,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 121415,
@@ -633,6 +713,14 @@
       "onboard_time": 1757816722,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113745,
+      "num": 113745,
+      "word": "1分钟秒睡法",
+      "onboard_time": 1757821402,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 110260,
@@ -691,8 +779,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101001,
-      "num": 101001,
+      "raw_hot": 101235,
+      "num": 101235,
       "word": "吴艳妮田径世锦赛首秀",
       "onboard_time": 1757817983,
       "rank": 48,
@@ -729,6 +817,14 @@
       "onboard_time": 1757778864,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97963,
+      "num": 97963,
+      "word": "其实我压根不会洗水果",
+      "onboard_time": 1757820982,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 91576,
@@ -931,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56887,
+      "num": 163589,
+      "word": "xg战队急需支援",
+      "onboard_time": 1757818701,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55676,
       "num": 55676,
       "word": "DOTA2",
@@ -1009,14 +1113,6 @@
       "onboard_time": 1757804417,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38491,
-      "num": 139744,
-      "word": "xg战队急需支援",
-      "onboard_time": 1757818701,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 30680,
@@ -1137,6 +1233,14 @@
       "onboard_time": 1757793374,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14133,
+      "num": 178718,
+      "word": "央视曝光文物销售坑老骗局",
+      "onboard_time": 1757821281,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12392,
