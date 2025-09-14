@@ -1,0 +1,410 @@
+{
+  "runTime": 1757884855969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 83272,
+        "num": 124434,
+        "word": "周迅如懿传谣言澄清",
+        "onboard_time": 1757858967,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77672,
+        "num": 77672,
+        "word": "TI总决赛",
+        "onboard_time": 1757854705,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12100,
+        "num": 65875,
+        "word": "丰收的田野是最美的画卷",
+        "onboard_time": 1757858306,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61109,
+        "num": 61109,
+        "word": "甲状腺发出的求救信号",
+        "onboard_time": 1757864363,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44743,
+        "num": 44743,
+        "word": "Falcons夺冠",
+        "onboard_time": 1757877794,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37516,
+        "num": 37516,
+        "word": "2岁女童失踪超10天母亲发声",
+        "onboard_time": 1757861005,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36100,
+        "num": 36100,
+        "word": "妈妈亲手缝的NIKE书包火了",
+        "onboard_time": 1757859446,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34685,
+        "num": 34685,
+        "word": "没人告诉世界第二网红干团播这么累吗",
+        "onboard_time": 1757863345,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33308,
+        "num": 33308,
+        "word": "千名业主陷商铺包租违约困境",
+        "onboard_time": 1757881453,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31096,
+        "num": 31096,
+        "word": "jiayou a chunyu",
+        "onboard_time": 1757865207,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48438,
+        "num": 31026,
+        "word": "航班因雷雨天备降太原引乘客下跪",
+        "onboard_time": 1757864304,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33356,
+        "num": 30968,
+        "word": "警方回应女子坐评委身上做不雅动作",
+        "onboard_time": 1757845282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32262,
+        "num": 30835,
+        "word": "iPhone17补贴后售价4999元",
+        "onboard_time": 1757858306,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30423,
+        "num": 30423,
+        "word": "林心如霍建华还在磨合中",
+        "onboard_time": 1757853386,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27275,
+        "num": 27275,
+        "word": "樊振东给拉布布穿了皇马球衣",
+        "onboard_time": 1757865982,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25478,
+        "num": 25478,
+        "word": "Falcons战胜XG",
+        "onboard_time": 1757877975,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21288,
+        "num": 25478,
+        "word": "林俊杰新歌",
+        "onboard_time": 1757861245,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20664,
+        "num": 25474,
+        "word": "李晟说祝绪丹气太多了",
+        "onboard_time": 1757855906,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19990,
+        "num": 25473,
+        "word": "邓为你怎么变成权志为了",
+        "onboard_time": 1757854345,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19927,
+        "num": 25470,
+        "word": "蔡徐坤音乐节",
+        "onboard_time": 1757860765,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42805,
+        "num": 25470,
+        "word": "北京昨夜冰雹威力究竟有多大",
+        "onboard_time": 1757859026,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41633,
+        "num": 25467,
+        "word": "新疆小姐姐说去北京不用背馕了",
+        "onboard_time": 1757865562,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29469,
+        "num": 25465,
+        "word": "孙颖莎说和王楚钦默契不错",
+        "onboard_time": 1757867719,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28982,
+        "num": 25464,
+        "word": "男子肛门藏含大麻电子烟入境被查",
+        "onboard_time": 1757859566,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24982,
+        "num": 25462,
+        "word": "祝绪丹直播哽咽",
+        "onboard_time": 1757844623,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23853,
+        "num": 25460,
+        "word": "两个枕头才是睡眠的正确打开方式",
+        "onboard_time": 1757854825,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21198,
+        "num": 25458,
+        "word": "249万买商铺8年只收到13万租金",
+        "onboard_time": 1757860046,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20099,
+        "num": 25455,
+        "word": "XG赛点",
+        "onboard_time": 1757868140,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18542,
+        "num": 25454,
+        "word": "wtt",
+        "onboard_time": 1757849903,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18495,
+        "num": 25451,
+        "word": "男子回应NIKE要给缝书包的妈妈礼物",
+        "onboard_time": 1757871736,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18356,
+        "num": 25449,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1757839162,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18322,
+        "num": 25447,
+        "word": "大学想谈恋爱其实也不容易",
+        "onboard_time": 1757881394,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18218,
+        "num": 25446,
+        "word": "5名中国公民遭袭击1人被绑架",
+        "onboard_time": 1757868860,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17919,
+        "num": 25443,
+        "word": "韦雪搓澡被粉丝认出",
+        "onboard_time": 1757856205,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17229,
+        "num": 25442,
+        "word": "宋妍霏二十分钟提了24次裙子",
+        "onboard_time": 1757842879,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16128,
+        "num": 25439,
+        "word": "孙颖莎王楚钦澳门赛冠军合影",
+        "onboard_time": 1757855965,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16076,
+        "num": 25438,
+        "word": "小酒窝换装变身",
+        "onboard_time": 1757868320,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15177,
+        "num": 25436,
+        "word": "揭阳英歌舞开道送新兵",
+        "onboard_time": 1757867961,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14904,
+        "num": 25435,
+        "word": "武林外传",
+        "onboard_time": 1757859566,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14473,
+        "num": 25433,
+        "word": "成毅10秒处这个连续翻转",
+        "onboard_time": 1757862385,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13824,
+        "num": 25432,
+        "word": "西贝广州深圳多家门店仍可开放参观",
+        "onboard_time": 1757866403,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13727,
+        "num": 25430,
+        "word": "赴山海云合稳步上升",
+        "onboard_time": 1757872036,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13694,
+        "num": 25427,
+        "word": "宋雨琦王安宇排名暴涨",
+        "onboard_time": 1757852484,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13455,
+        "num": 25424,
+        "word": "白桃星座",
+        "onboard_time": 1757861186,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13109,
+        "num": 25423,
+        "word": "王影璐黄多多可以演姐妹了",
+        "onboard_time": 1757856444,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13058,
+        "num": 25422,
+        "word": "王楚钦战胜雨果夺冠",
+        "onboard_time": 1757853984,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12868,
+        "num": 25419,
+        "word": "周深你不要过来啊",
+        "onboard_time": 1757864423,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12687,
+        "num": 25417,
+        "word": "付辛博好帅",
+        "onboard_time": 1757862925,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12315,
+        "num": 25416,
+        "word": "关晓彤强者的背影",
+        "onboard_time": 1757862146,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12089,
+        "num": 25414,
+        "word": "打dota的还是这些人",
+        "onboard_time": 1757872695,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

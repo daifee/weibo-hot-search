@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757882197730,
+  "endTime": 1757884855969,
   "band_list": [
     {
       "raw_hot": 969834,
@@ -499,6 +499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33308,
+      "num": 38098,
+      "word": "千名业主陷商铺包租违约困境",
+      "onboard_time": 1757881453,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31838,
       "num": 97646,
       "word": "揭阳英歌舞开道送新兵",
@@ -595,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18322,
+      "num": 25918,
+      "word": "大学想谈恋爱其实也不容易",
+      "onboard_time": 1757881394,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16517,
       "num": 57106,
       "word": "周深我被压在雷峰塔下出不来了",
@@ -603,20 +619,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11801,
-      "num": 25918,
-      "word": "大学想谈恋爱其实也不容易",
-      "onboard_time": 1757881394,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 11096,
-      "num": 38098,
-      "word": "千名业主陷商铺包租违约困境",
-      "onboard_time": 1757881453,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 13727,
+      "num": 25430,
+      "word": "赴山海云合稳步上升",
+      "onboard_time": 1757872036,
+      "rank": 41,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
