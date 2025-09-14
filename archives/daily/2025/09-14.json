@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757831598348,
+  "endTime": 1757832338469,
   "band_list": [
     {
       "raw_hot": 1886693,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506729,
+      "num": 506729,
+      "word": "iPhone17ProMax全新升级机王",
+      "onboard_time": 1757828963,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 486541,
       "num": 486541,
       "word": "这大概是中国人才能理解的审美",
@@ -283,14 +291,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 424286,
-      "num": 424286,
-      "word": "iPhone17ProMax全新升级机王",
-      "onboard_time": 1757828963,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 421786,
       "num": 421786,
       "word": "唐嫣视后庆功宴",
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 386082,
-      "num": 431811,
+      "num": 468077,
       "word": "孙颖莎vs蒯曼",
       "onboard_time": 1757826803,
       "rank": 9,
@@ -345,6 +345,14 @@
       "onboard_time": 1757812221,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382733,
+      "num": 382733,
+      "word": "水煮蔬菜TOP",
+      "onboard_time": 1757826624,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 379529,
@@ -499,14 +507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 253263,
-      "num": 253263,
-      "word": "水煮蔬菜TOP",
-      "onboard_time": 1757826624,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 251126,
       "num": 209575,
       "word": "王楚钦男单争冠",
@@ -553,6 +553,14 @@
       "onboard_time": 1757825483,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226520,
+      "num": 226520,
+      "word": "吴磊刮中彩票的反应",
+      "onboard_time": 1757830403,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 222906,
@@ -659,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190331,
-      "num": 190331,
-      "word": "吴磊刮中彩票的反应",
-      "onboard_time": 1757830403,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189365,
       "num": 189365,
       "word": "55岁阿姨健身20年的真实状态",
@@ -713,6 +713,14 @@
       "onboard_time": 1757808920,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174927,
+      "num": 174927,
+      "word": "其实焦虑症是长期恐惧导致的神经疲劳",
+      "onboard_time": 1757830763,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173468,
@@ -811,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146252,
+      "num": 146252,
+      "word": "西贝被曝员工用漏勺疏通下水道",
+      "onboard_time": 1757831722,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144432,
       "num": 167410,
       "word": "全红婵与院长苏炳添合影",
@@ -891,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137933,
+      "num": 137933,
+      "word": "于适可以和朱一龙一起学吹口哨了",
+      "onboard_time": 1757831422,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "火锅减肥法",
@@ -905,6 +929,22 @@
       "onboard_time": 1757823322,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135445,
+      "num": 167353,
+      "word": "马思纯干啥都大大方方的",
+      "onboard_time": 1757831242,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134005,
+      "num": 134005,
+      "word": "魏如萱演唱会上座率",
+      "onboard_time": 1757831662,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 133509,
@@ -1035,28 +1075,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116477,
+      "num": 116477,
+      "word": "原来这叫拧巴啊",
+      "onboard_time": 1757830224,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114400,
       "num": 126733,
       "word": "国家级保护区治愈buff叠满",
       "onboard_time": 1757816722,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114266,
-      "num": 114266,
-      "word": "其实焦虑症是长期恐惧导致的神经疲劳",
-      "onboard_time": 1757830763,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110516,
-      "num": 110516,
-      "word": "于适可以和朱一龙一起学吹口哨了",
-      "onboard_time": 1757831422,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 110260,
@@ -1123,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105338,
+      "num": 105338,
+      "word": "孙颖莎回应进澳门赛决赛",
+      "onboard_time": 1757831963,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105199,
       "num": 859754,
       "word": "中国农民破解猕猴桃绝症",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1757817983,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100817,
-      "num": 167353,
-      "word": "马思纯干啥都大大方方的",
-      "onboard_time": 1757831242,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 100576,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1757822361,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 60458,
+      "num": 105588,
+      "word": "孙颖莎可爱吐舌头",
+      "onboard_time": 1757831782,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 60038,
