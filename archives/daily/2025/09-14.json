@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757806604247,
+  "endTime": 1757814928788,
   "band_list": [
     {
       "raw_hot": 1157067,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1094328,
-      "num": 150161,
+      "num": 218532,
       "word": "穆祉丞回应",
       "onboard_time": 1757771726,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 976984,
+      "num": 1156317,
+      "word": "唐嫣紧张到声音都在发抖",
+      "onboard_time": 1757807540,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 900321,
@@ -27,12 +35,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 889054,
+      "num": 889054,
+      "word": "女子7天瘦十斤后感染败血症",
+      "onboard_time": 1757814201,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 818940,
       "num": 818940,
       "word": "朱一龙金熊猫影帝",
       "onboard_time": 1757776286,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 789226,
+      "num": 789226,
+      "word": "汪苏泷用苹果17模型打电话",
+      "onboard_time": 1757807480,
+      "rank": 3,
+      "category": "演出,数码"
     },
     {
       "raw_hot": 771088,
@@ -52,7 +76,7 @@
     },
     {
       "raw_hot": 698417,
-      "num": 148471,
+      "num": 224985,
       "word": "西贝厨师长称家里一顿没吃完也不会扔",
       "onboard_time": 1757774246,
       "rank": 21,
@@ -75,12 +99,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 542029,
+      "num": 271631,
+      "word": "建议不要再趴桌午睡了",
+      "onboard_time": 1757785458,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 522573,
       "num": 122011,
       "word": "张兰进麻六记后厨直播被曝无健康证",
       "onboard_time": 1757805198,
       "rank": 30,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 485773,
+      "num": 370733,
+      "word": "85花都有视后了",
+      "onboard_time": 1757809280,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 471944,
@@ -99,20 +139,60 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 456703,
+      "num": 350964,
+      "word": "张维伊叫A4纸小纸纸",
+      "onboard_time": 1757811621,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 424977,
+      "num": 271267,
+      "word": "宋茜回复金晨",
+      "onboard_time": 1757809461,
+      "rank": 11,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 415460,
-      "num": 228102,
+      "num": 251857,
       "word": "赴山海抠图感",
       "onboard_time": 1757772385,
       "rank": 11,
       "category": "剧集"
     },
     {
-      "raw_hot": 411958,
-      "num": 119205,
-      "word": "建议不要再趴桌午睡了",
-      "onboard_time": 1757785458,
-      "rank": 13,
-      "category": "科学科普"
+      "raw_hot": 382929,
+      "num": 382929,
+      "word": "国庆中秋购票日历来了",
+      "onboard_time": 1757812221,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328061,
+      "num": 231460,
+      "word": "真正伤胃的三大隐形杀手",
+      "onboard_time": 1757811081,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 319767,
+      "num": 319767,
+      "word": "中国不下单美国大豆农民真的慌了",
+      "onboard_time": 1757805438,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 303484,
+      "num": 270969,
+      "word": "园长回应幼儿园开课教擦屁股",
+      "onboard_time": 1757808020,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303084,
@@ -155,12 +235,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270624,
+      "num": 270624,
+      "word": "这大概是中国人才能理解的审美",
+      "onboard_time": 1757814561,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261493,
+      "num": 261493,
+      "word": "日本神户鱼景厕所",
+      "onboard_time": 1757807780,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 257493,
-      "num": 144701,
+      "num": 164919,
       "word": "罗永浩 西贝",
       "onboard_time": 1757744063,
       "rank": 23,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 251126,
+      "num": 209575,
+      "word": "王楚钦男单争冠",
+      "onboard_time": 1757809461,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 250922,
@@ -169,6 +273,22 @@
       "onboard_time": 1757778384,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249941,
+      "num": 249941,
+      "word": "李维嘉再次出来工作是因为谢娜",
+      "onboard_time": 1757803697,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247283,
+      "num": 247283,
+      "word": "北京满地冰雹像下雪一样",
+      "onboard_time": 1757811621,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242995,
@@ -187,20 +307,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233363,
+      "num": 233363,
+      "word": "男子为骗钱把女友介绍给叔叔谈恋爱",
+      "onboard_time": 1757813781,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219887,
       "num": 219887,
       "word": "蒋智豪确诊肺癌晚期最新发声",
       "onboard_time": 1757750604,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218561,
-      "num": 114491,
-      "word": "李维嘉再次出来工作是因为谢娜",
-      "onboard_time": 1757803697,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 217566,
@@ -211,11 +331,19 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 209046,
-      "num": 209046,
-      "word": "中国不下单美国大豆农民真的慌了",
-      "onboard_time": 1757805438,
-      "rank": 16,
+      "raw_hot": 208687,
+      "num": 208687,
+      "word": "三个喝水习惯可能亲手把肾毁掉",
+      "onboard_time": 1757806639,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202316,
+      "num": 202316,
+      "word": "朝方提醒美日韩",
+      "onboard_time": 1757804837,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -235,12 +363,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187318,
-      "num": 81087,
+      "raw_hot": 197074,
+      "num": 197074,
       "word": "大半个娱乐圈都来成都了",
       "onboard_time": 1757805198,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181788,
+      "num": 181788,
+      "word": "谈恋爱其实很累的",
+      "onboard_time": 1757805679,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 177607,
+      "num": 177607,
+      "word": "西贝演示现场烤鱼",
+      "onboard_time": 1757808920,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169091,
@@ -275,12 +419,28 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 141439,
-      "num": 81750,
-      "word": "朝方提醒美日韩",
-      "onboard_time": 1757804837,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 154721,
+      "num": 256616,
+      "word": "荆州市原市长周志红被查",
+      "onboard_time": 1757807900,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154283,
+      "num": 154283,
+      "word": "罗永浩说西贝的事情告一段落",
+      "onboard_time": 1757806519,
+      "rank": 23,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 141110,
+      "num": 141110,
+      "word": "老外地铁干嚼火锅底料",
+      "onboard_time": 1757813001,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 139825,
@@ -307,20 +467,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138344,
+      "num": 138344,
+      "word": "于东来相信西贝如有问题定会解决",
+      "onboard_time": 1757813781,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133509,
       "num": 133509,
       "word": "陈小春应采儿10年后相依为命callback",
       "onboard_time": 1757777125,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133401,
-      "num": 75458,
-      "word": "罗永浩说西贝的事情告一段落",
-      "onboard_time": 1757806519,
-      "rank": 23,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 124320,
@@ -331,12 +491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123481,
+      "num": 123481,
+      "word": "白敬亭下不去的公交车",
+      "onboard_time": 1757811020,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121415,
       "num": 121415,
       "word": "陈丽君月亮姐姐 忘年恋",
       "onboard_time": 1757779344,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118931,
+      "num": 118931,
+      "word": "菲方引入外部势力撑腰注定徒劳",
+      "onboard_time": 1757814502,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116979,
@@ -377,6 +553,22 @@
       "onboard_time": 1757775086,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105791,
+      "num": 154830,
+      "word": "国安部提醒谨防地理信息泄密",
+      "onboard_time": 1757811320,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105199,
+      "num": 105199,
+      "word": "中国农民破解猕猴桃绝症",
+      "onboard_time": 1757810420,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103344,
@@ -459,6 +651,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 84028,
+      "num": 84028,
+      "word": "小偷一顿操作气笑民警",
+      "onboard_time": 1757814682,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81692,
+      "num": 81692,
+      "word": "意大利国家德比",
+      "onboard_time": 1757814682,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80681,
       "num": 87394,
       "word": "这跟坐李宇春腿上听有什么区别",
@@ -473,6 +681,22 @@
       "onboard_time": 1757805798,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79562,
+      "num": 79562,
+      "word": "奥地利外长怂恿中国劝俄罗斯和谈",
+      "onboard_time": 1757806579,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 78690,
+      "num": 78690,
+      "word": "XG战队急需支援",
+      "onboard_time": 1757814142,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 75810,
@@ -496,14 +720,6 @@
       "word": "女儿上学时和放学时的发型",
       "onboard_time": 1757803215,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 59417,
-      "num": 59417,
-      "word": "谈恋爱其实很累的",
-      "onboard_time": 1757805679,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -563,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47441,
+      "num": 857438,
+      "word": "国宝画重点",
+      "onboard_time": 1757769985,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42691,
       "num": 42691,
       "word": "普通人对Agent的使用率几乎为0",
@@ -601,22 +825,6 @@
       "onboard_time": 1757804417,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40337,
-      "num": 857438,
-      "word": "国宝画重点",
-      "onboard_time": 1757769985,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 40321,
-      "num": 40321,
-      "word": "奥地利外长怂恿中国劝俄罗斯和谈",
-      "onboard_time": 1757806579,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30680,
