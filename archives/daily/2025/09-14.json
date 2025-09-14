@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757842564276,
+  "endTime": 1757845350008,
   "band_list": [
     {
       "raw_hot": 1886693,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1482762,
-      "num": 234587,
+      "num": 243293,
       "word": "祝绪丹手滑事件后持续掉粉",
       "onboard_time": 1757836342,
       "rank": 12,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1268838,
-      "num": 416224,
+      "num": 547357,
       "word": "黎吧啦小耳朵十年后重聚",
       "onboard_time": 1757835681,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1192657,
+      "num": 246459,
+      "word": "月经的本质是流血不是排毒",
+      "onboard_time": 1757839162,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1157067,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1104259,
-      "num": 233366,
+      "num": 236115,
       "word": "建议大家多去实体店逛一逛",
       "onboard_time": 1757835921,
       "rank": 10,
@@ -65,6 +73,14 @@
       "onboard_time": 1757771726,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1053636,
+      "num": 226612,
+      "word": "西贝6000万咨询费",
+      "onboard_time": 1757841022,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1001976,
@@ -123,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 826241,
+      "num": 240318,
+      "word": "宋妍霏二十分钟提了24次裙子",
+      "onboard_time": 1757842879,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 818940,
       "num": 818940,
       "word": "朱一龙金熊猫影帝",
@@ -161,14 +185,6 @@
       "onboard_time": 1757773046,
       "rank": 6,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 740578,
-      "num": 226612,
-      "word": "西贝6000万咨询费",
-      "onboard_time": 1757841022,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 728532,
@@ -211,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 653835,
+      "num": 1104613,
+      "word": "iG醒醒",
+      "onboard_time": 1757843783,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 627049,
       "num": 224704,
       "word": "网友实拍西贝21块钱馒头",
@@ -227,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572202,
+      "num": 572202,
+      "word": "白敬亭 开机开机",
+      "onboard_time": 1757843361,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 555829,
       "num": 555829,
       "word": "黄子韬说因为徐艺洋像白纸而被吸引",
@@ -235,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 545124,
-      "num": 230181,
-      "word": "月经的本质是流血不是排毒",
-      "onboard_time": 1757839162,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 545079,
+      "num": 545079,
+      "word": "梁王夺冠双双倒地",
+      "onboard_time": 1757841264,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 542029,
@@ -249,6 +281,14 @@
       "onboard_time": 1757785458,
       "rank": 13,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 537300,
+      "num": 237889,
+      "word": "卢昱晓 夏之星",
+      "onboard_time": 1757842162,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 533811,
@@ -299,6 +339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 498347,
+      "num": 498347,
+      "word": "昏迷女孩被拖出车厢场面惊心",
+      "onboard_time": 1757839642,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486541,
       "num": 486541,
       "word": "这大概是中国人才能理解的审美",
@@ -347,6 +395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 447067,
+      "num": 447067,
+      "word": "法考",
+      "onboard_time": 1757821581,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 440417,
       "num": 406759,
       "word": "吴磊刮中彩票的反应",
@@ -356,7 +412,7 @@
     },
     {
       "raw_hot": 427913,
-      "num": 231766,
+      "num": 232391,
       "word": "25岁面试vs35岁面试",
       "onboard_time": 1757838863,
       "rank": 30,
@@ -483,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359216,
-      "num": 359216,
-      "word": "法考",
-      "onboard_time": 1757821581,
-      "rank": 28,
-      "category": "教育"
+      "raw_hot": 345769,
+      "num": 345769,
+      "word": "法考 邓紫棋",
+      "onboard_time": 1757844502,
+      "rank": 7,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 343120,
@@ -547,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305126,
+      "num": 305126,
+      "word": "李沁龚俊 偶像剧都不敢这么拍",
+      "onboard_time": 1757844082,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303484,
       "num": 270969,
       "word": "园长回应幼儿园开课教擦屁股",
@@ -587,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285432,
+      "num": 226862,
+      "word": "张桂源",
+      "onboard_time": 1757843003,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285208,
       "num": 285208,
       "word": "卡塔尔承认探测不到以军战机",
@@ -617,6 +689,14 @@
       "onboard_time": 1757760204,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270784,
+      "num": 219508,
+      "word": "祝绪丹直播哽咽",
+      "onboard_time": 1757844623,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 264140,
@@ -675,11 +755,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243418,
-      "num": 229810,
-      "word": "昏迷女孩被拖出车厢场面惊心",
-      "onboard_time": 1757839642,
-      "rank": 16,
+      "raw_hot": 247823,
+      "num": 247823,
+      "word": "95岁老兵回忆战友用身体挡子弹",
+      "onboard_time": 1757843122,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -728,6 +808,14 @@
       "word": "王楚钦进决赛",
       "onboard_time": 1757833822,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224376,
+      "num": 224376,
+      "word": "孙颖莎VS王曼昱",
+      "onboard_time": 1757844862,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -979,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174891,
+      "num": 174891,
+      "word": "西贝上海中心门店客人流量不降反增",
+      "onboard_time": 1757841743,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174809,
       "num": 171640,
       "word": "魏如萱演唱会上座率",
@@ -995,12 +1091,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171588,
-      "num": 222609,
-      "word": "梁王夺冠双双倒地",
-      "onboard_time": 1757841264,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 172622,
+      "num": 172622,
+      "word": "警方回应女子坐评委身上做不雅动作",
+      "onboard_time": 1757845282,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169091,
@@ -1033,6 +1129,14 @@
       "onboard_time": 1757833224,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167893,
+      "num": 167893,
+      "word": "iG对战AL",
+      "onboard_time": 1757845223,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 166249,
@@ -1147,12 +1251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154401,
-      "num": 154401,
-      "word": "卢昱晓 夏之星",
-      "onboard_time": 1757842162,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 154461,
+      "num": 154461,
+      "word": "LPL",
+      "onboard_time": 1757844382,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 154283,
@@ -1339,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134965,
-      "num": 134965,
-      "word": "西贝上海中心门店客人流量不降反增",
-      "onboard_time": 1757841743,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 133625,
+      "num": 133625,
+      "word": "何浩楠你瞒着十个勤天去喜剧节",
+      "onboard_time": 1757844082,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 133509,
@@ -1395,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "16岁中国小将打破世界纪录夺金",
+      "onboard_time": 1757843843,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127204,
       "num": 127204,
       "word": "脸大的人把头发盘起来反而好看一点",
@@ -1411,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125820,
+      "num": 125820,
+      "word": "什么是疏离型人格",
+      "onboard_time": 1757843664,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125626,
       "num": 125626,
       "word": "这小鼻嘎好像是我弟",
@@ -1425,6 +1545,14 @@
       "onboard_time": 1757829562,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124488,
+      "num": 127575,
+      "word": "刘恋手指上套了个啥",
+      "onboard_time": 1757841442,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124320,
@@ -1457,6 +1585,14 @@
       "onboard_time": 1757838443,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121534,
+      "num": 121534,
+      "word": "妈祖来看周深也得强调没有墙头",
+      "onboard_time": 1757843122,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 121415,
@@ -1875,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91618,
+      "num": 91618,
+      "word": "原来电视上都是真的",
+      "onboard_time": 1757842702,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91576,
       "num": 91576,
       "word": "朱志鑫演唱会plog",
@@ -2019,12 +2163,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 76232,
-      "num": 127575,
-      "word": "刘恋手指上套了个啥",
-      "onboard_time": 1757841442,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 76592,
+      "num": 547946,
+      "word": "石榴红了满天山",
+      "onboard_time": 1757841083,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75813,
@@ -2131,14 +2275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57811,
-      "num": 416290,
-      "word": "石榴红了满天山",
-      "onboard_time": 1757841083,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56887,
       "num": 163589,
       "word": "xg战队急需支援",
@@ -2177,6 +2313,14 @@
       "onboard_time": 1757783719,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 49395,
+      "num": 227574,
+      "word": "正厅级孙永红任上被查",
+      "onboard_time": 1757839583,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48877,

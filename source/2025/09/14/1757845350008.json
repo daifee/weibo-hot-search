@@ -1,0 +1,410 @@
+{
+  "runTime": 1757845350008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 653835,
+        "num": 1104613,
+        "word": "iG醒醒",
+        "onboard_time": 1757843783,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 572202,
+        "num": 572202,
+        "word": "白敬亭 开机开机",
+        "onboard_time": 1757843361,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76592,
+        "num": 547946,
+        "word": "石榴红了满天山",
+        "onboard_time": 1757841083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715636,
+        "num": 547357,
+        "word": "黎吧啦小耳朵十年后重聚",
+        "onboard_time": 1757835681,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545079,
+        "num": 545079,
+        "word": "梁王夺冠双双倒地",
+        "onboard_time": 1757841264,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498347,
+        "num": 498347,
+        "word": "昏迷女孩被拖出车厢场面惊心",
+        "onboard_time": 1757839642,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447067,
+        "num": 447067,
+        "word": "法考",
+        "onboard_time": 1757842946,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345769,
+        "num": 345769,
+        "word": "法考 邓紫棋",
+        "onboard_time": 1757844502,
+        "rank": 7,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 305126,
+        "num": 305126,
+        "word": "李沁龚俊 偶像剧都不敢这么拍",
+        "onboard_time": 1757844082,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247823,
+        "num": 247823,
+        "word": "95岁老兵回忆战友用身体挡子弹",
+        "onboard_time": 1757843122,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1192657,
+        "num": 246459,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1757839162,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1051620,
+        "num": 243293,
+        "word": "祝绪丹手滑事件后持续掉粉",
+        "onboard_time": 1757836342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826241,
+        "num": 240318,
+        "word": "宋妍霏二十分钟提了24次裙子",
+        "onboard_time": 1757842879,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 537300,
+        "num": 237889,
+        "word": "卢昱晓 夏之星",
+        "onboard_time": 1757842162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476479,
+        "num": 236115,
+        "word": "建议大家多去实体店逛一逛",
+        "onboard_time": 1757835921,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 392376,
+        "num": 232391,
+        "word": "25岁面试vs35岁面试",
+        "onboard_time": 1757838863,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324781,
+        "num": 231776,
+        "word": "谭松韵瘦了好多",
+        "onboard_time": 1757834901,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49395,
+        "num": 227574,
+        "word": "正厅级孙永红任上被查",
+        "onboard_time": 1757839583,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285432,
+        "num": 226862,
+        "word": "张桂源",
+        "onboard_time": 1757843003,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224376,
+        "num": 224376,
+        "word": "孙颖莎VS王曼昱",
+        "onboard_time": 1757844862,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1053636,
+        "num": 220111,
+        "word": "西贝6000万咨询费",
+        "onboard_time": 1757841022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270784,
+        "num": 219508,
+        "word": "祝绪丹直播哽咽",
+        "onboard_time": 1757844623,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255529,
+        "num": 213539,
+        "word": "网友实拍西贝21块钱馒头",
+        "onboard_time": 1757827403,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232499,
+        "num": 209822,
+        "word": "60岁张曼玉定居法国农村",
+        "onboard_time": 1757826863,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206989,
+        "num": 206989,
+        "word": "张凌赫背着王楚然出嫁路透",
+        "onboard_time": 1757838503,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201564,
+        "num": 201564,
+        "word": "谢娜因爷爷去世而不敢回家过年",
+        "onboard_time": 1757824101,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183107,
+        "num": 183107,
+        "word": "美军雷达为何集体失明",
+        "onboard_time": 1757837363,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177032,
+        "num": 177032,
+        "word": "女子在瓜地发现东西瓜",
+        "onboard_time": 1757837603,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175441,
+        "num": 175441,
+        "word": "凌晨1点到3点必须要睡觉的重要性",
+        "onboard_time": 1757840961,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174891,
+        "num": 174891,
+        "word": "西贝上海中心门店客人流量不降反增",
+        "onboard_time": 1757841743,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172622,
+        "num": 172622,
+        "word": "警方回应女子坐评委身上做不雅动作",
+        "onboard_time": 1757845282,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167893,
+        "num": 167893,
+        "word": "iG对战AL",
+        "onboard_time": 1757845223,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165399,
+        "num": 165399,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160982,
+        "num": 160982,
+        "word": "许光汉肿么了",
+        "onboard_time": 1757822842,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154461,
+        "num": 154461,
+        "word": "LPL",
+        "onboard_time": 1757844382,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138934,
+        "num": 138934,
+        "word": "HLE战胜T1",
+        "onboard_time": 1757840902,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133625,
+        "num": 133625,
+        "word": "何浩楠你瞒着十个勤天去喜剧节",
+        "onboard_time": 1757844082,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128448,
+        "num": 128448,
+        "word": "16岁中国小将打破世界纪录夺金",
+        "onboard_time": 1757843843,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125820,
+        "num": 125820,
+        "word": "什么是疏离型人格",
+        "onboard_time": 1757843664,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124488,
+        "num": 124488,
+        "word": "刘恋手指上套了个啥",
+        "onboard_time": 1757841442,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123211,
+        "num": 123211,
+        "word": "白鹿穿着姥姥衣服来录节目",
+        "onboard_time": 1757820202,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121534,
+        "num": 121534,
+        "word": "妈祖来看周深也得强调没有墙头",
+        "onboard_time": 1757843122,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120509,
+        "num": 120509,
+        "word": "用港币感受人民币的物价",
+        "onboard_time": 1757842281,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115070,
+        "num": 115070,
+        "word": "梁伟铿王昶战胜印度组合夺冠",
+        "onboard_time": 1757839523,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107113,
+        "num": 107113,
+        "word": "连续30天十点睡觉身体的变化",
+        "onboard_time": 1757839282,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105175,
+        "num": 105175,
+        "word": "刘思远 清华是人生浓墨重彩的一笔",
+        "onboard_time": 1757841202,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97634,
+        "num": 97634,
+        "word": "男子持铁锤砸人致1死6伤家属发声",
+        "onboard_time": 1757837543,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93682,
+        "num": 93682,
+        "word": "原来超市的牛奶是这样上架的",
+        "onboard_time": 1757838263,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91618,
+        "num": 91618,
+        "word": "原来电视上都是真的",
+        "onboard_time": 1757842702,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89519,
+        "num": 89519,
+        "word": "美版iPhone",
+        "onboard_time": 1757837422,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}
