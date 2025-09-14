@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757875348605,
+  "endTime": 1757877500812,
   "band_list": [
     {
       "raw_hot": 969834,
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24366,
+      "num": 57752,
+      "word": "汪苏泷是踹到了彩带开关吧",
+      "onboard_time": 1757876715,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24311,
       "num": 59274,
       "word": "又可以和汪苏泷同淋一场雨了",
@@ -515,11 +523,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24055,
+      "num": 57597,
+      "word": "汪苏泷我想念闪光灯好浪漫",
+      "onboard_time": 1757876416,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22994,
       "num": 59262,
       "word": "汪苏泷古希腊掌管应援棒的神",
       "onboard_time": 1757875215,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22598,
+      "num": 57488,
+      "word": "张婧仪站姐审美",
+      "onboard_time": 1757877074,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16517,
+      "num": 57106,
+      "word": "周深我被压在雷峰塔下出不来了",
+      "onboard_time": 1757877074,
+      "rank": 44,
       "category": "演出"
     }
   ],
