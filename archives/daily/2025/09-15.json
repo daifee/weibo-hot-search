@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757888508182,
+  "endTime": 1757889505555,
   "band_list": [
     {
       "raw_hot": 969834,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365331,
+      "num": 486387,
+      "word": "甲状腺发出的求救信号",
+      "onboard_time": 1757864363,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 358858,
       "num": 280429,
       "word": "没人告诉世界第二网红干团播这么累吗",
       "onboard_time": 1757863345,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 351349,
-      "num": 381003,
-      "word": "甲状腺发出的求救信号",
-      "onboard_time": 1757864363,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 328525,
@@ -104,6 +104,14 @@
       "word": "警方回应女子坐评委身上做不雅动作",
       "onboard_time": 1757845282,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316447,
+      "num": 205581,
+      "word": "航班因雷雨天备降太原引乘客下跪",
+      "onboard_time": 1757864304,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -145,14 +153,6 @@
       "onboard_time": 1757860765,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 237305,
-      "num": 205581,
-      "word": "航班因雷雨天备降太原引乘客下跪",
-      "onboard_time": 1757864304,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228831,
@@ -219,20 +219,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163675,
+      "num": 114877,
+      "word": "孙颖莎说和王楚钦默契不错",
+      "onboard_time": 1757867719,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161555,
       "num": 161555,
       "word": "两个枕头才是睡眠的正确打开方式",
       "onboard_time": 1757854825,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 152426,
-      "num": 114877,
-      "word": "孙颖莎说和王楚钦默契不错",
-      "onboard_time": 1757867719,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 144570,
@@ -249,6 +249,14 @@
       "onboard_time": 1757865383,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 134371,
+      "num": 210436,
+      "word": "2岁女童失踪超10天母亲发声",
+      "onboard_time": 1757861005,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124860,
@@ -312,14 +320,6 @@
       "word": "男子回应NIKE要给缝书包的妈妈礼物",
       "onboard_time": 1757871736,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107730,
-      "num": 210436,
-      "word": "2岁女童失踪超10天母亲发声",
-      "onboard_time": 1757861005,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -483,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49299,
+      "num": 49299,
+      "word": "男子持铁锤砸路人致1死6伤",
+      "onboard_time": 1757884034,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44070,
       "num": 103721,
       "word": "Ame 斯温",
@@ -491,19 +499,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36527,
-      "num": 38098,
-      "word": "千名业主陷商铺包租违约困境",
-      "onboard_time": 1757881453,
-      "rank": 9,
+      "raw_hot": 40110,
+      "num": 40110,
+      "word": "女子接一客服电话50万存款被转走",
+      "onboard_time": 1757883973,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34131,
-      "num": 34131,
-      "word": "男子持铁锤砸路人致1死6伤",
-      "onboard_time": 1757884034,
-      "rank": 48,
+      "raw_hot": 36527,
+      "num": 38928,
+      "word": "千名业主陷商铺包租违约困境",
+      "onboard_time": 1757881453,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 29286,
-      "num": 29286,
+      "num": 38879,
       "word": "给王玉雯哄成胚胎了",
       "onboard_time": 1757885416,
       "rank": 34,
@@ -579,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23648,
-      "num": 29243,
-      "word": "女子接一客服电话50万存款被转走",
-      "onboard_time": 1757883973,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23520,
       "num": 55365,
       "word": "汪苏泷粉色丝绒造型看起来好香",
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 21582,
-      "num": 29207,
+      "num": 38777,
       "word": "大学想谈恋爱其实也不容易",
       "onboard_time": 1757881394,
       "rank": 49,
