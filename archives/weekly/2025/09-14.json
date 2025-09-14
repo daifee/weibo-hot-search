@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757864169353,
+  "endTime": 1757867185776,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -339,7 +339,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 734622,
+      "raw_hot": 750481,
       "num": 734622,
       "word": "贾国龙称西贝今后将打明牌",
       "onboard_time": 1757858485,
@@ -833,6 +833,22 @@
       "onboard_time": 1757855965,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358858,
+      "num": 280429,
+      "word": "没人告诉世界第二网红干团播这么累吗",
+      "onboard_time": 1757863345,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 351349,
+      "num": 206964,
+      "word": "甲状腺发出的求救信号",
+      "onboard_time": 1757864363,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 343120,
@@ -1403,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205581,
+      "num": 205581,
+      "word": "航班因雷雨天备降太原引乘客下跪",
+      "onboard_time": 1757864304,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202316,
       "num": 202316,
       "word": "朝方提醒美日韩",
@@ -1595,14 +1619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190390,
-      "num": 190390,
-      "word": "没人告诉世界第二网红干团播这么累吗",
-      "onboard_time": 1757863345,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 190008,
       "num": 190008,
       "word": "大姑和大姑父的身体素质太强了",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1757827042,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178081,
+      "num": 279044,
+      "word": "新疆小姐姐说去北京不用背馕了",
+      "onboard_time": 1757865562,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177607,
@@ -2059,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148256,
+      "num": 148256,
+      "word": "樊振东给拉布布穿了皇马球衣",
+      "onboard_time": 1757865982,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147158,
       "num": 147158,
       "word": "张曼玉并未定居法国农村",
@@ -2323,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135125,
+      "num": 135125,
+      "word": "原来菊花也能染色",
+      "onboard_time": 1757865383,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 134153,
       "num": 202911,
       "word": "女子潜水被遗忘海上漂了45分钟",
@@ -2515,6 +2555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123505,
+      "num": 123505,
+      "word": "布瑞吉 别把我的观众当傻子",
+      "onboard_time": 1757864243,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121685,
       "num": 407991,
       "word": "央视揭秘假沉香",
@@ -2649,6 +2697,14 @@
       "onboard_time": 1757841682,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113471,
+      "num": 113471,
+      "word": "陈小春对热狗贴脸开大",
+      "onboard_time": 1757865803,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 113464,
@@ -2891,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100803,
+      "num": 100803,
+      "word": "西贝广州深圳多家门店仍可开放参观",
+      "onboard_time": 1757866403,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100576,
       "num": 120536,
       "word": "金熊猫",
@@ -2921,6 +2985,14 @@
       "onboard_time": 1757825483,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99521,
+      "num": 99521,
+      "word": "jiayou a chunyu",
+      "onboard_time": 1757865207,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 99479,
@@ -3003,6 +3075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96595,
+      "num": 96595,
+      "word": "曼城vs曼联",
+      "onboard_time": 1757865803,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96552,
       "num": 96552,
       "word": "黑衬衫是男明星最好的医美",
@@ -3055,6 +3135,14 @@
       "num": 91576,
       "word": "朱志鑫演唱会plog",
       "onboard_time": 1757780602,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 90153,
+      "num": 90153,
+      "word": "周深你不要过来啊",
+      "onboard_time": 1757864423,
       "rank": 41,
       "category": "演出"
     },
@@ -3153,6 +3241,14 @@
       "onboard_time": 1757814682,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80692,
+      "num": 80692,
+      "word": "居民乘电梯被困30楼呼救无响应",
+      "onboard_time": 1757864304,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80681,
@@ -3305,6 +3401,14 @@
       "onboard_time": 1757831782,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60214,
+      "num": 210436,
+      "word": "2岁女童失踪超10天母亲发声",
+      "onboard_time": 1757861005,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60038,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/14 23:36:09
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 00:26:25
 </p>
 </blockquote>
 <p>
@@ -2949,6 +2949,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E6%89%93%E6%98%8E%E7%89%8C%23" target="weibo">
+贾国龙称西贝今后将打明牌（热度：750481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%92%8C%E4%B8%8D%E7%9C%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 不发朋友圈和不看朋友圈（热度：750207）
 </a>
@@ -3029,12 +3035,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 教师节（热度：735131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E6%89%93%E6%98%8E%E7%89%8C%23" target="weibo">
-贾国龙称西贝今后将打明牌（热度：734622）
 </a>
 </li>
 
