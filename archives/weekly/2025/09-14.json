@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757854614098,
+  "endTime": 1757856283726,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -8,6 +8,14 @@
       "word": "王楚钦vs雨果",
       "onboard_time": 1757846784,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2100838,
+      "num": 2100838,
+      "word": "王楚钦战胜雨果夺冠",
+      "onboard_time": 1757853984,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -68,19 +76,11 @@
     },
     {
       "raw_hot": 1480193,
-      "num": 261159,
+      "num": 272841,
       "word": "西贝厨师长戴手表和手链下厨引热议",
       "onboard_time": 1757851164,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1460274,
-      "num": 1460274,
-      "word": "王楚钦战胜雨果夺冠",
-      "onboard_time": 1757853984,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1268838,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 1192657,
-      "num": 413760,
+      "num": 507635,
       "word": "月经的本质是流血不是排毒",
       "onboard_time": 1757839162,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1181187,
+      "num": 558632,
+      "word": "林心如霍建华还在磨合中",
+      "onboard_time": 1757853386,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1170247,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1102607,
-      "num": 258316,
+      "num": 268689,
       "word": "西贝6000万咨询费",
       "onboard_time": 1757841022,
       "rank": 20,
@@ -185,6 +193,14 @@
       "onboard_time": 1757844502,
       "rank": 7,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 909422,
+      "num": 909422,
+      "word": "王楚钦下周重返世界第一",
+      "onboard_time": 1757855243,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 900321,
@@ -275,14 +291,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 746122,
-      "num": 415550,
-      "word": "林心如霍建华还在磨合中",
-      "onboard_time": 1757853386,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 728532,
       "num": 427133,
       "word": "其实焦虑症是长期恐惧导致的神经疲劳",
@@ -347,11 +355,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 563159,
+      "num": 563159,
+      "word": "国乒还是国乒",
+      "onboard_time": 1757855066,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 555829,
       "num": 555829,
       "word": "黄子韬说因为徐艺洋像白纸而被吸引",
       "onboard_time": 1757820022,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 554534,
+      "num": 562393,
+      "word": "李晟说祝绪丹气太多了",
+      "onboard_time": 1757855906,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -387,8 +411,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 532959,
+      "num": 561333,
+      "word": "宋雨琦王安宇排名暴涨",
+      "onboard_time": 1757852484,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531073,
-      "num": 361099,
+      "num": 443126,
       "word": "警方回应女子坐评委身上做不雅动作",
       "onboard_time": 1757845282,
       "rank": 30,
@@ -531,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 433033,
-      "num": 433033,
-      "word": "宋雨琦王安宇排名暴涨",
-      "onboard_time": 1757852484,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427913,
       "num": 281074,
       "word": "25岁面试vs35岁面试",
@@ -561,6 +585,14 @@
       "onboard_time": 1757809461,
       "rank": 11,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 424939,
+      "num": 424939,
+      "word": "孙颖莎王楚钦澳门赛冠军合影",
+      "onboard_time": 1757855965,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 421786,
@@ -609,6 +641,14 @@
       "onboard_time": 1757813781,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393441,
+      "num": 279534,
+      "word": "樊振东vs纽汀克",
+      "onboard_time": 1757854045,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 390368,
@@ -827,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279534,
-      "num": 279534,
-      "word": "樊振东vs纽汀克",
-      "onboard_time": 1757854045,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 276853,
       "num": 276853,
       "word": "jiejie",
@@ -843,12 +875,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 276340,
+      "num": 276340,
+      "word": "邓为你怎么变成权志为了",
+      "onboard_time": 1757854345,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276245,
       "num": 276245,
       "word": "北京冰雹",
       "onboard_time": 1757760204,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268106,
+      "num": 268106,
+      "word": "宋祖儿丁禹兮同框",
+      "onboard_time": 1757856025,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 264791,
@@ -923,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250016,
+      "num": 250016,
+      "word": "王楚钦冠军海报",
+      "onboard_time": 1757854285,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249941,
       "num": 249941,
       "word": "李维嘉再次出来工作是因为谢娜",
@@ -937,6 +993,14 @@
       "onboard_time": 1757843122,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247132,
+      "num": 177620,
+      "word": "孙颖莎王楚钦捧杯合影",
+      "onboard_time": 1757855965,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 245733,
@@ -979,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236287,
+      "num": 276055,
+      "word": "刘宇宁直播",
+      "onboard_time": 1757853205,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236146,
       "num": 236146,
       "word": "陈都灵皮裙 好热但好美",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1757833822,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223279,
+      "num": 234153,
+      "word": "世界第二大网红遇上折耳根也没招了",
+      "onboard_time": 1757853325,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 222906,
@@ -1027,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219526,
+      "num": 180030,
+      "word": "王楚钦说我们还是那个乒乓球队",
+      "onboard_time": 1757855845,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217566,
       "num": 217566,
       "word": "让腿型越来越好看的三个动作",
@@ -1035,20 +1123,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 214437,
-      "num": 214437,
-      "word": "刘宇宁直播",
-      "onboard_time": 1757853205,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214100,
       "num": 174181,
       "word": "女子称贷款100多万中介收31万",
       "onboard_time": 1757817261,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209194,
+      "num": 209194,
+      "word": "马群耀金天鹅影帝",
+      "onboard_time": 1757854524,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 209073,
@@ -1065,14 +1153,6 @@
       "onboard_time": 1757806639,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 207269,
-      "num": 234153,
-      "word": "世界第二大网红遇上折耳根也没招了",
-      "onboard_time": 1757853325,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 202316,
@@ -1187,19 +1267,27 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193650,
-      "num": 193650,
-      "word": "王楚钦冠军海报",
-      "onboard_time": 1757854285,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193353,
       "num": 193353,
       "word": "孙颖莎赛季单打第六冠",
       "onboard_time": 1757853865,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193245,
+      "num": 234153,
+      "word": "王霏霏脸上贴了20颗钻",
+      "onboard_time": 1757854225,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193199,
+      "num": 193199,
+      "word": "孙颖莎说卫冕很开心",
+      "onboard_time": 1757855965,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1219,12 +1307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190320,
-      "num": 234153,
-      "word": "王霏霏脸上贴了20颗钻",
-      "onboard_time": 1757854225,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 191596,
+      "num": 191596,
+      "word": "TI2026落地中国",
+      "onboard_time": 1757855185,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 189365,
@@ -1251,12 +1339,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 186601,
-      "num": 228340,
-      "word": "邓为你怎么变成权志为了",
-      "onboard_time": 1757854345,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 188759,
+      "num": 188759,
+      "word": "WTT颁奖",
+      "onboard_time": 1757855784,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 186266,
@@ -1265,6 +1353,14 @@
       "onboard_time": 1757828181,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185004,
+      "num": 185004,
+      "word": "一路繁花2姐弟的精力有多旺盛",
+      "onboard_time": 1757856144,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 184882,
@@ -1305,6 +1401,30 @@
       "onboard_time": 1757840961,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181219,
+      "num": 181219,
+      "word": "TI总决赛",
+      "onboard_time": 1757854705,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 180855,
+      "num": 177290,
+      "word": "孙颖莎今晚请客",
+      "onboard_time": 1757855066,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180440,
+      "num": 180440,
+      "word": "杨紫胡歌生命树骑马路透",
+      "onboard_time": 1757856264,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 179913,
@@ -1361,6 +1481,14 @@
       "onboard_time": 1757831662,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173961,
+      "num": 173961,
+      "word": "两个枕头才是睡眠的正确打开方式",
+      "onboard_time": 1757854825,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173468,
@@ -1699,12 +1827,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142857,
-      "num": 142857,
-      "word": "马群耀金天鹅影帝",
-      "onboard_time": 1757854524,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 143749,
+      "num": 187287,
+      "word": "冯建宇 你们想举什么应援物都可以",
+      "onboard_time": 1757855243,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 141149,
@@ -2113,6 +2241,14 @@
       "onboard_time": 1757830224,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115119,
+      "num": 559935,
+      "word": "中美在西班牙就有关经贸问题举行会谈",
+      "onboard_time": 1757855005,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114400,
@@ -2563,6 +2699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 87107,
+      "num": 187245,
+      "word": "韦雪搓澡被粉丝认出",
+      "onboard_time": 1757856205,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 86923,
       "num": 93920,
       "word": "孙颖莎回应与王曼昱再交手",
@@ -2747,6 +2891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70565,
+      "num": 273633,
+      "word": "剃光头直播跳舞筹钱妈妈说儿子已离世",
+      "onboard_time": 1757855125,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62950,
       "num": 238799,
       "word": "玩徒派对都有谁在啊",
@@ -2875,6 +3027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43793,
+      "num": 201816,
+      "word": "2岁女童家门口失踪超10天",
+      "onboard_time": 1757855185,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42691,
       "num": 42691,
       "word": "普通人对Agent的使用率几乎为0",
@@ -2939,6 +3099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29364,
+      "num": 1217406,
+      "word": "直播看各地丰收场景",
+      "onboard_time": 1757840063,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27640,
       "num": 120278,
       "word": "王楚钦说暂停是和教练更好的沟通",
@@ -2979,11 +3147,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23930,
-      "num": 1217406,
-      "word": "直播看各地丰收场景",
-      "onboard_time": 1757840063,
-      "rank": 2,
+      "raw_hot": 22453,
+      "num": 187230,
+      "word": "女子路边20元贴膜付款时变55",
+      "onboard_time": 1757856085,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
