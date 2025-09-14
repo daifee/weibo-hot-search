@@ -1,0 +1,410 @@
+{
+  "runTime": 1757827380078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1446910,
+        "num": 1446910,
+        "word": "谢娜因爷爷去世而不敢回家过年",
+        "onboard_time": 1757824101,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1086174,
+        "num": 1086174,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1757816781,
+        "rank": 1,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 41662,
+        "num": 859754,
+        "word": "中国农民破解猕猴桃绝症",
+        "onboard_time": 1757810420,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700564,
+        "num": 700564,
+        "word": "白鹿穿着姥姥衣服来录节目",
+        "onboard_time": 1757820202,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670359,
+        "num": 670359,
+        "word": "抑郁症的懒到底有多可怕",
+        "onboard_time": 1757823201,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 339965,
+        "num": 534241,
+        "word": "陈幸同vs王曼昱",
+        "onboard_time": 1757824463,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495559,
+        "num": 495559,
+        "word": "毛利兰灰原哀",
+        "onboard_time": 1757821402,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 377807,
+        "num": 377807,
+        "word": "唐嫣视后庆功宴",
+        "onboard_time": 1757825724,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366938,
+        "num": 366938,
+        "word": "刘宇宁一米九大高个被菜打了",
+        "onboard_time": 1757821281,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99698,
+        "num": 350413,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1757826803,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1563618,
+        "num": 333740,
+        "word": "许光汉肿么了",
+        "onboard_time": 1757822842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417622,
+        "num": 322402,
+        "word": "黄子韬说因为徐艺洋像白纸而被吸引",
+        "onboard_time": 1757820022,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407841,
+        "num": 304593,
+        "word": "澳洲你管这个叫青菜",
+        "onboard_time": 1757820562,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297345,
+        "num": 297345,
+        "word": "女子7天瘦十斤后感染败血症",
+        "onboard_time": 1757814201,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287444,
+        "num": 287444,
+        "word": "女演员视后含金量",
+        "onboard_time": 1757818883,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249303,
+        "num": 249303,
+        "word": "吴艳妮回应止步100米栏预赛",
+        "onboard_time": 1757825303,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222906,
+        "num": 222906,
+        "word": "1分钟秒睡法",
+        "onboard_time": 1757821402,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219659,
+        "num": 219659,
+        "word": "李沁 不哭的孩子也能有糖吃",
+        "onboard_time": 1757815823,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216754,
+        "num": 216754,
+        "word": "北京二环内的独栋别墅",
+        "onboard_time": 1757815521,
+        "rank": 18,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 100648,
+        "num": 214049,
+        "word": "王曼昱4比2陈幸同",
+        "onboard_time": 1757826923,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535202,
+        "num": 212303,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365912,
+        "num": 207837,
+        "word": "9月机票价格大跳水",
+        "onboard_time": 1757821762,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286599,
+        "num": 205205,
+        "word": "刘雨昕迪奥大合影C位",
+        "onboard_time": 1757820922,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240651,
+        "num": 201490,
+        "word": "内娱编剧啊放过这对异性恋吧",
+        "onboard_time": 1757825483,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226904,
+        "num": 200393,
+        "word": "北京满地冰雹像下雪一样",
+        "onboard_time": 1757811621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198089,
+        "num": 198089,
+        "word": "五年后许飞更想娶余秀华了",
+        "onboard_time": 1757825724,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189365,
+        "num": 189365,
+        "word": "55岁阿姨健身20年的真实状态",
+        "onboard_time": 1757825963,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 180583,
+        "num": 180583,
+        "word": "法考",
+        "onboard_time": 1757821581,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171006,
+        "num": 171006,
+        "word": "穆祉丞回应",
+        "onboard_time": 1757771726,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129620,
+        "num": 163434,
+        "word": "体检报告这些字眼或是癌症信号",
+        "onboard_time": 1757820562,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160477,
+        "num": 160477,
+        "word": "无限暖暖",
+        "onboard_time": 1757826382,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150843,
+        "num": 150843,
+        "word": "卡塔尔承认探测不到以军战机",
+        "onboard_time": 1757818464,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143928,
+        "num": 143928,
+        "word": "王楚钦侧颜好绝",
+        "onboard_time": 1757825483,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140914,
+        "num": 140914,
+        "word": "北京冰雹有鸽子蛋大",
+        "onboard_time": 1757776525,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138465,
+        "num": 138465,
+        "word": "曝LOL有新赛事",
+        "onboard_time": 1757824823,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135116,
+        "num": 135116,
+        "word": "偶遇贺峻霖看暗恋桃花源",
+        "onboard_time": 1757823322,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133225,
+        "num": 133225,
+        "word": "60岁张曼玉定居法国农村",
+        "onboard_time": 1757826863,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125998,
+        "num": 125998,
+        "word": "韩庚这段雨中镜头封神了",
+        "onboard_time": 1757827042,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123663,
+        "num": 123663,
+        "word": "全红婵与院长苏炳添合影",
+        "onboard_time": 1757827163,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118744,
+        "num": 118744,
+        "word": "真正伤胃的三大隐形杀手",
+        "onboard_time": 1757811081,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117889,
+        "num": 117889,
+        "word": "法拉利裁判现身李宇春演唱会",
+        "onboard_time": 1757825782,
+        "rank": 40,
+        "category": "演出,汽车"
+      },
+      {
+        "raw_hot": 114198,
+        "num": 114198,
+        "word": "唐嫣紧张到声音都在发抖",
+        "onboard_time": 1757807540,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103613,
+        "num": 103613,
+        "word": "王楚钦男单争冠",
+        "onboard_time": 1757809461,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99551,
+        "num": 99551,
+        "word": "苏醒把披荆斩棘五公rap写完了",
+        "onboard_time": 1757825483,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97630,
+        "num": 97630,
+        "word": "李兰迪好灵",
+        "onboard_time": 1757827163,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 97149,
+        "word": "骑电动车别骑积食了",
+        "onboard_time": 1757827163,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47054,
+        "num": 96992,
+        "word": "国安部提醒谨防地理信息泄密",
+        "onboard_time": 1757811320,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96910,
+        "num": 96910,
+        "word": "汪苏泷用苹果17模型打电话",
+        "onboard_time": 1757807480,
+        "rank": 47,
+        "category": "演出,数码"
+      },
+      {
+        "raw_hot": 94116,
+        "num": 94116,
+        "word": "彭小苒这次是冷感美人",
+        "onboard_time": 1757823201,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91717,
+        "num": 91717,
+        "word": "85花都有视后了",
+        "onboard_time": 1757809280,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#助推服务贸易数字化进程#"
+    }
+  }
+}
