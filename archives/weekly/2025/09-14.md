@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/15 01:19:00
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/15 01:36:23
 </p>
 </blockquote>
 <p>
@@ -2649,14 +2649,14 @@ xg战队急需支援（热度：56887）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23DOTA2%23" target="weibo">
-DOTA2（热度：55676）
+<a href="https://s.weibo.com/weibo?q=%235%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%AD%E8%A2%AD%E5%87%BB1%E4%BA%BA%E8%A2%AB%E7%BB%91%E6%9E%B6%23" target="weibo">
+5名中国公民遭袭击1人被绑架（热度：56065）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%AD%E8%A2%AD%E5%87%BB1%E4%BA%BA%E8%A2%AB%E7%BB%91%E6%9E%B6%23" target="weibo">
-5名中国公民遭袭击1人被绑架（热度：55131）
+<a href="https://s.weibo.com/weibo?q=%23DOTA2%23" target="weibo">
+DOTA2（热度：55676）
 </a>
 </li>
 
