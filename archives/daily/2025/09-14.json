@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757848703139,
+  "endTime": 1757849778599,
   "band_list": [
     {
       "raw_hot": 1886693,
@@ -9,6 +9,14 @@
       "onboard_time": 1757816781,
       "rank": 0,
       "category": "网红,游戏"
+    },
+    {
+      "raw_hot": 1746687,
+      "num": 1746687,
+      "word": "孙颖莎VS王曼昱",
+      "onboard_time": 1757844862,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 1563618,
@@ -107,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 964601,
+      "num": 1131930,
+      "word": "iG醒醒",
+      "onboard_time": 1757843783,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 930525,
       "num": 229602,
       "word": "西贝",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 927089,
-      "num": 727711,
+      "num": 823621,
       "word": "法考 邓紫棋",
       "onboard_time": 1757844502,
       "rank": 7,
@@ -129,6 +145,14 @@
       "onboard_time": 1757777125,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 899466,
+      "num": 335378,
+      "word": "李沁龚俊 偶像剧都不敢这么拍",
+      "onboard_time": 1757844082,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 862627,
@@ -161,22 +185,6 @@
       "onboard_time": 1757842879,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 824566,
-      "num": 1131930,
-      "word": "iG醒醒",
-      "onboard_time": 1757843783,
-      "rank": 0,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 820866,
-      "num": 820866,
-      "word": "孙颖莎VS王曼昱",
-      "onboard_time": 1757844862,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 818940,
@@ -275,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 612588,
-      "num": 335378,
-      "word": "李沁龚俊 偶像剧都不敢这么拍",
-      "onboard_time": 1757844082,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 587676,
       "num": 587676,
       "word": "北京 冰河世纪",
@@ -329,6 +329,14 @@
       "onboard_time": 1757832863,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 531073,
+      "num": 254867,
+      "word": "警方回应女子坐评委身上做不雅动作",
+      "onboard_time": 1757845282,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 530379,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 486960,
-      "num": 210042,
+      "num": 243098,
       "word": "月饼 饭缩力",
       "onboard_time": 1757845402,
       "rank": 35,
@@ -401,6 +409,14 @@
       "onboard_time": 1757809280,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484197,
+      "num": 484197,
+      "word": "iG对战AL",
+      "onboard_time": 1757845223,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 482423,
@@ -433,14 +449,6 @@
       "onboard_time": 1757800635,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 451423,
-      "num": 246602,
-      "word": "警方回应女子坐评委身上做不雅动作",
-      "onboard_time": 1757845282,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 447067,
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338058,
+      "num": 233968,
+      "word": "西贝暂停后厨开放",
+      "onboard_time": 1757847083,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325351,
       "num": 325351,
       "word": "我家那闺女",
@@ -715,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276853,
+      "num": 276853,
+      "word": "jiejie",
+      "onboard_time": 1757847923,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276245,
       "num": 276245,
       "word": "北京冰雹",
@@ -723,12 +747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269941,
-      "num": 179241,
-      "word": "西贝暂停后厨开放",
-      "onboard_time": 1757847083,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 264791,
+      "num": 264791,
+      "word": "苏醒把王栎鑫骂到心坎里了",
+      "onboard_time": 1757847264,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 264140,
@@ -763,14 +787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 251754,
-      "num": 251754,
-      "word": "iG对战AL",
-      "onboard_time": 1757845223,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 251126,
       "num": 209575,
       "word": "王楚钦男单争冠",
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 247823,
-      "num": 247823,
+      "num": 838601,
       "word": "95岁老兵回忆战友用身体挡子弹",
       "onboard_time": 1757843122,
       "rank": 9,
@@ -817,14 +833,6 @@
       "onboard_time": 1757762664,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 241426,
-      "num": 183232,
-      "word": "苏醒把王栎鑫骂到心坎里了",
-      "onboard_time": 1757847264,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 241378,
@@ -987,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196718,
+      "num": 196718,
+      "word": "RC战队夺冠",
+      "onboard_time": 1757849065,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196291,
       "num": 196291,
       "word": "王牌对王牌横扫周末收视率",
@@ -995,12 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195321,
+      "num": 195321,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1757846784,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193859,
       "num": 193859,
       "word": "HLE晋级S15",
       "onboard_time": 1757841743,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193072,
+      "num": 264958,
+      "word": "预制菜风波与其站队不如站对",
+      "onboard_time": 1757849183,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192118,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1757828181,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184882,
+      "num": 184882,
+      "word": "张晚意一句话让男人为你回头",
+      "onboard_time": 1757846964,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 184398,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1757808920,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177203,
-      "num": 177203,
-      "word": "张晚意一句话让男人为你回头",
-      "onboard_time": 1757846964,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 174891,
@@ -1227,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161610,
+      "num": 161610,
+      "word": "央视曝肉毒素注射乱象",
+      "onboard_time": 1757846724,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160774,
       "num": 160774,
       "word": "斗魂",
@@ -1339,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150097,
+      "num": 150097,
+      "word": "涅槃",
+      "onboard_time": 1757846482,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148410,
       "num": 200141,
       "word": "王楚钦给了自己脸一下",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1757847563,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146773,
+      "num": 146773,
+      "word": "wei",
+      "onboard_time": 1757846784,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 146252,
@@ -1483,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138072,
+      "num": 138072,
+      "word": "樊振东德甲第三轮上工",
+      "onboard_time": 1757849364,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137933,
       "num": 137933,
       "word": "于适可以和朱一龙一起学吹口哨了",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1757831242,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133938,
+      "num": 133938,
+      "word": "早睡就是人类的作弊器啊",
+      "onboard_time": 1757849183,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 133625,
@@ -1755,14 +1827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115140,
-      "num": 115140,
-      "word": "央视曝肉毒素注射乱象",
-      "onboard_time": 1757846724,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114400,
       "num": 126733,
       "word": "国家级保护区治愈buff叠满",
@@ -1795,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113464,
+      "num": 113464,
+      "word": "一诺连续三次入选最佳一阵",
+      "onboard_time": 1757849242,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110631,
       "num": 110631,
       "word": "起猛了以为是白敬亭在淋雨",
@@ -1803,28 +1875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110561,
-      "num": 110561,
-      "word": "jiejie",
-      "onboard_time": 1757847923,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 110260,
       "num": 120684,
       "word": "卢昱晓昨天妈妈今天辣妹",
       "onboard_time": 1757764765,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110156,
-      "num": 110156,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1757846784,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 110084,
@@ -1963,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103049,
+      "num": 103049,
+      "word": "孙颖莎澳门赛进四强",
+      "onboard_time": 1757849724,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102623,
       "num": 102623,
       "word": "小猫贴完粑粑贴麻麻",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1757837843,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101373,
+      "num": 101373,
+      "word": "王一博真是每个动作表情都得体大方",
+      "onboard_time": 1757849666,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101235,
@@ -2121,14 +2193,6 @@
       "onboard_time": 1757834243,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97477,
-      "num": 97477,
-      "word": "wei",
-      "onboard_time": 1757846784,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 97149,
@@ -2572,7 +2636,7 @@
     },
     {
       "raw_hot": 33171,
-      "num": 182826,
+      "num": 238799,
       "word": "玩徒派对都有谁在啊",
       "onboard_time": 1757847864,
       "rank": 19,

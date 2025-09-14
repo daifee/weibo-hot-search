@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757848703139,
+  "endTime": 1757849778599,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1757594376,
       "rank": 13,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 1746687,
+      "num": 1746687,
+      "word": "孙颖莎VS王曼昱",
+      "onboard_time": 1757844862,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 1742400,
@@ -2563,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964601,
+      "num": 1131930,
+      "word": "iG醒醒",
+      "onboard_time": 1757843783,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 954681,
       "num": 954681,
       "word": "普京称将回应中国对俄试行免签",
@@ -2684,7 +2700,7 @@
     },
     {
       "raw_hot": 927089,
-      "num": 727711,
+      "num": 823621,
       "word": "法考 邓紫棋",
       "onboard_time": 1757844502,
       "rank": 7,
@@ -2785,6 +2801,14 @@
       "onboard_time": 1757777125,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 899466,
+      "num": 335378,
+      "word": "李沁龚俊 偶像剧都不敢这么拍",
+      "onboard_time": 1757844082,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 897836,
@@ -3291,28 +3315,12 @@
       "category": "体育,其它"
     },
     {
-      "raw_hot": 824566,
-      "num": 1131930,
-      "word": "iG醒醒",
-      "onboard_time": 1757843783,
-      "rank": 0,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 824142,
       "num": 280756,
       "word": "CEO出轨女同事其丈夫发声",
       "onboard_time": 1757411782,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 820866,
-      "num": 820866,
-      "word": "孙颖莎VS王曼昱",
-      "onboard_time": 1757844862,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 818940,
@@ -4939,14 +4947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 612588,
-      "num": 335378,
-      "word": "李沁龚俊 偶像剧都不敢这么拍",
-      "onboard_time": 1757844082,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 612202,
       "num": 612202,
       "word": "莫迪发文感谢中方",
@@ -5907,6 +5907,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 531073,
+      "num": 254867,
+      "word": "警方回应女子坐评委身上做不雅动作",
+      "onboard_time": 1757845282,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531031,
       "num": 531031,
       "word": "迪丽热巴迪奥大使合影站C",
@@ -6492,7 +6500,7 @@
     },
     {
       "raw_hot": 486960,
-      "num": 210042,
+      "num": 243098,
       "word": "月饼 饭缩力",
       "onboard_time": 1757845402,
       "rank": 35,
@@ -6569,6 +6577,14 @@
       "onboard_time": 1757731764,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484197,
+      "num": 484197,
+      "word": "iG对战AL",
+      "onboard_time": 1757845223,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 484005,
@@ -7113,14 +7129,6 @@
       "onboard_time": 1757345664,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 451423,
-      "num": 246602,
-      "word": "警方回应女子坐评委身上做不雅动作",
-      "onboard_time": 1757845282,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 450865,
@@ -9755,6 +9763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338058,
+      "num": 233968,
+      "word": "西贝暂停后厨开放",
+      "onboard_time": 1757847083,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337650,
       "num": 337650,
       "word": "五位影后凑一起拍综艺了",
@@ -11547,6 +11563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276853,
+      "num": 276853,
+      "word": "jiejie",
+      "onboard_time": 1757847923,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276729,
       "num": 217169,
       "word": "事发时那英正在伦敦陪伴女儿留学",
@@ -11827,14 +11851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269941,
-      "num": 179241,
-      "word": "西贝暂停后厨开放",
-      "onboard_time": 1757847083,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269924,
       "num": 916814,
       "word": "英雄回家",
@@ -11968,6 +11984,14 @@
       "word": "李晟我就是命好的含金量还在上升",
       "onboard_time": 1757574341,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264791,
+      "num": 264791,
+      "word": "苏醒把王栎鑫骂到心坎里了",
+      "onboard_time": 1757847264,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -12347,14 +12371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251754,
-      "num": 251754,
-      "word": "iG对战AL",
-      "onboard_time": 1757845223,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 251708,
       "num": 1071617,
       "word": "苹果发布会彩蛋有王嘉尔",
@@ -12484,7 +12500,7 @@
     },
     {
       "raw_hot": 247823,
-      "num": 247823,
+      "num": 838601,
       "word": "95岁老兵回忆战友用身体挡子弹",
       "onboard_time": 1757843122,
       "rank": 9,
@@ -12761,14 +12777,6 @@
       "onboard_time": 1757255662,
       "rank": 14,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 241426,
-      "num": 183232,
-      "word": "苏醒把王栎鑫骂到心坎里了",
-      "onboard_time": 1757847264,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 241378,
@@ -15843,6 +15851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196718,
+      "num": 196718,
+      "word": "RC战队夺冠",
+      "onboard_time": 1757849065,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196640,
       "num": 196640,
       "word": "小孩的文具都进化成这样了",
@@ -16009,6 +16025,14 @@
       "onboard_time": 1757769625,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195321,
+      "num": 195321,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1757846784,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 195197,
@@ -16353,6 +16377,14 @@
       "onboard_time": 1757249002,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193072,
+      "num": 264958,
+      "word": "预制菜风波与其站队不如站对",
+      "onboard_time": 1757849183,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193059,
@@ -17427,6 +17459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184882,
+      "num": 184882,
+      "word": "张晚意一句话让男人为你回头",
+      "onboard_time": 1757846964,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184808,
       "num": 184808,
       "word": "马琳为王曼昱竖大拇指",
@@ -18265,14 +18305,6 @@
       "onboard_time": 1757058802,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177203,
-      "num": 177203,
-      "word": "张晚意一句话让男人为你回头",
-      "onboard_time": 1757846964,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 177154,
@@ -20507,6 +20539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161610,
+      "num": 161610,
+      "word": "央视曝肉毒素注射乱象",
+      "onboard_time": 1757846724,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161557,
       "num": 161557,
       "word": "不刷牙睡觉vs不刷牙吃早餐",
@@ -22347,6 +22387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150097,
+      "num": 150097,
+      "word": "涅槃",
+      "onboard_time": 1757846482,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150065,
       "num": 265881,
       "word": "捕风追影有赵雅芝老公儿子",
@@ -23065,6 +23113,14 @@
       "onboard_time": 1757391503,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146773,
+      "num": 146773,
+      "word": "wei",
+      "onboard_time": 1757846784,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 146760,
@@ -24891,6 +24947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138072,
+      "num": 138072,
+      "word": "樊振东德甲第三轮上工",
+      "onboard_time": 1757849364,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138068,
       "num": 138068,
       "word": "萧敬腾老婆晒裤子破洞照",
@@ -25913,6 +25977,14 @@
       "onboard_time": 1757570084,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133938,
+      "num": 133938,
+      "word": "早睡就是人类的作弊器啊",
+      "onboard_time": 1757849183,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 133855,
@@ -30299,14 +30371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115140,
-      "num": 115140,
-      "word": "央视曝肉毒素注射乱象",
-      "onboard_time": 1757846724,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115137,
       "num": 115137,
       "word": "Doinb最后一舞",
@@ -30721,6 +30785,14 @@
       "onboard_time": 1757841682,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113464,
+      "num": 113464,
+      "word": "一诺连续三次入选最佳一阵",
+      "onboard_time": 1757849242,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 113446,
@@ -31475,14 +31547,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 110561,
-      "num": 110561,
-      "word": "jiejie",
-      "onboard_time": 1757847923,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 110529,
       "num": 110529,
       "word": "你回个嗯我就算有遗言都不想说了",
@@ -31617,14 +31681,6 @@
       "onboard_time": 1757597976,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110156,
-      "num": 110156,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1757846784,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 110084,
@@ -33355,6 +33411,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 103049,
+      "num": 103049,
+      "word": "孙颖莎澳门赛进四强",
+      "onboard_time": 1757849724,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103007,
       "num": 284339,
       "word": "商务部回应美将我多家实体列入出口管制实体清单",
@@ -33777,6 +33841,14 @@
       "onboard_time": 1757660726,
       "rank": 9,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 101373,
+      "num": 101373,
+      "word": "王一博真是每个动作表情都得体大方",
+      "onboard_time": 1757849666,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101355,
@@ -34737,14 +34809,6 @@
       "onboard_time": 1757743406,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97477,
-      "num": 97477,
-      "word": "wei",
-      "onboard_time": 1757846784,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 97448,
@@ -42628,7 +42692,7 @@
     },
     {
       "raw_hot": 33171,
-      "num": 182826,
+      "num": 238799,
       "word": "玩徒派对都有谁在啊",
       "onboard_time": 1757847864,
       "rank": 19,
