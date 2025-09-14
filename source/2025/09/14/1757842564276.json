@@ -1,0 +1,410 @@
+{
+  "runTime": 1757842564276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 390167,
+        "num": 1062426,
+        "word": "60岁张曼玉定居法国农村",
+        "onboard_time": 1757826863,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336014,
+        "num": 336014,
+        "word": "梁伟铿王昶战胜印度组合夺冠",
+        "onboard_time": 1757839523,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57811,
+        "num": 328205,
+        "word": "石榴红了满天山",
+        "onboard_time": 1757841083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786117,
+        "num": 327374,
+        "word": "黎吧啦小耳朵十年后重聚",
+        "onboard_time": 1757835681,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325155,
+        "num": 325155,
+        "word": "美军雷达为何集体失明",
+        "onboard_time": 1757837363,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 282432,
+        "num": 282432,
+        "word": "女子在瓜地发现东西瓜",
+        "onboard_time": 1757837603,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323250,
+        "num": 253714,
+        "word": "张凌赫背着王楚然出嫁路透",
+        "onboard_time": 1757838503,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220171,
+        "num": 220171,
+        "word": "男子持铁锤砸人致1死6伤家属发声",
+        "onboard_time": 1757837543,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205337,
+        "num": 205337,
+        "word": "HLE战胜T1",
+        "onboard_time": 1757840902,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201627,
+        "num": 201627,
+        "word": "昏迷女孩被拖出车厢场面惊心",
+        "onboard_time": 1757839642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1328069,
+        "num": 199846,
+        "word": "祝绪丹手滑事件后持续掉粉",
+        "onboard_time": 1757836342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753892,
+        "num": 198977,
+        "word": "建议大家多去实体店逛一逛",
+        "onboard_time": 1757835921,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196972,
+        "num": 196972,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1757816781,
+        "rank": 12,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 545124,
+        "num": 196927,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1757839162,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 452915,
+        "num": 195488,
+        "word": "谭松韵瘦了好多",
+        "onboard_time": 1757834901,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427913,
+        "num": 195115,
+        "word": "25岁面试vs35岁面试",
+        "onboard_time": 1757838863,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232387,
+        "num": 194209,
+        "word": "许光汉肿么了",
+        "onboard_time": 1757822842,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193859,
+        "num": 193859,
+        "word": "HLE晋级S15",
+        "onboard_time": 1757841743,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163704,
+        "num": 163704,
+        "word": "梁王夺冠双双倒地",
+        "onboard_time": 1757841264,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32163,
+        "num": 163674,
+        "word": "王星越教贾乃亮饭撒",
+        "onboard_time": 1757839282,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740578,
+        "num": 163653,
+        "word": "西贝6000万咨询费",
+        "onboard_time": 1757841022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294786,
+        "num": 163583,
+        "word": "网友实拍西贝21块钱馒头",
+        "onboard_time": 1757827403,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155964,
+        "num": 163578,
+        "word": "HLE对战T1",
+        "onboard_time": 1757833643,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276643,
+        "num": 163534,
+        "word": "谢娜因爷爷去世而不敢回家过年",
+        "onboard_time": 1757824101,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200057,
+        "num": 163496,
+        "word": "用港币感受人民币的物价",
+        "onboard_time": 1757842281,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177068,
+        "num": 163457,
+        "word": "凌晨1点到3点必须要睡觉的重要性",
+        "onboard_time": 1757840961,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163417,
+        "num": 163417,
+        "word": "连续30天十点睡觉身体的变化",
+        "onboard_time": 1757839282,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121864,
+        "num": 162780,
+        "word": "张韶涵哽咽鞠躬30秒",
+        "onboard_time": 1757832863,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112226,
+        "num": 162607,
+        "word": "武林外传新路透",
+        "onboard_time": 1757822663,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109266,
+        "num": 162516,
+        "word": "王青音乐节",
+        "onboard_time": 1757837722,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162491,
+        "num": 162491,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154401,
+        "num": 154401,
+        "word": "卢昱晓 夏之星",
+        "onboard_time": 1757842162,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148185,
+        "num": 148185,
+        "word": "美版iPhone",
+        "onboard_time": 1757837422,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108445,
+        "num": 135070,
+        "word": "祝绪丹随便一跳被中医确诊",
+        "onboard_time": 1757833342,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134965,
+        "num": 134965,
+        "word": "西贝上海中心门店客人流量不降反增",
+        "onboard_time": 1757841743,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131161,
+        "num": 131161,
+        "word": "西贝厨师长称转基因大豆油用于员工餐",
+        "onboard_time": 1757834781,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117825,
+        "num": 117825,
+        "word": "Hero坦然租借至AG",
+        "onboard_time": 1757840542,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113726,
+        "num": 113726,
+        "word": "原来超市的牛奶是这样上架的",
+        "onboard_time": 1757838263,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113473,
+        "num": 113473,
+        "word": "刘宇宁厨艺",
+        "onboard_time": 1757841682,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76232,
+        "num": 111195,
+        "word": "刘恋手指上套了个啥",
+        "onboard_time": 1757841442,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108876,
+        "num": 110915,
+        "word": "刘思远 清华是人生浓墨重彩的一笔",
+        "onboard_time": 1757841202,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105817,
+        "num": 110721,
+        "word": "AG全员入选最佳一阵",
+        "onboard_time": 1757840842,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110635,
+        "num": 110635,
+        "word": "王楚钦给了自己脸一下",
+        "onboard_time": 1757838143,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102423,
+        "num": 102423,
+        "word": "其实焦虑症是长期恐惧导致的神经疲劳",
+        "onboard_time": 1757830763,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102322,
+        "num": 102322,
+        "word": "SUV盲区竟能容纳93个孩子",
+        "onboard_time": 1757839401,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101009,
+        "num": 101009,
+        "word": "脸大的人把头发盘起来反而好看一点",
+        "onboard_time": 1757841503,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100870,
+        "num": 100870,
+        "word": "iPhone17ProMax全新升级机王",
+        "onboard_time": 1757828963,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98707,
+        "num": 98707,
+        "word": "白鹿穿着姥姥衣服来录节目",
+        "onboard_time": 1757820202,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96409,
+        "num": 96409,
+        "word": "原来知了里面是瘦肉",
+        "onboard_time": 1757842523,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86923,
+        "num": 93920,
+        "word": "孙颖莎回应与王曼昱再交手",
+        "onboard_time": 1757841862,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

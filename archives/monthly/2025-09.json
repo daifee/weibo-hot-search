@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757841770919,
+  "endTime": 1757842564276,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3803,6 +3803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 740578,
+      "num": 226612,
+      "word": "西贝6000万咨询费",
+      "onboard_time": 1757841022,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 739454,
       "num": 739454,
       "word": "她是新中国第一位女将军",
@@ -5609,6 +5617,14 @@
       "onboard_time": 1757135421,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545124,
+      "num": 230181,
+      "word": "月经的本质是流血不是排毒",
+      "onboard_time": 1757839162,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 544063,
@@ -7571,6 +7587,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 427913,
+      "num": 231766,
+      "word": "25岁面试vs35岁面试",
+      "onboard_time": 1757838863,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427580,
       "num": 895884,
       "word": "杨幂陈丽君 合作",
@@ -8049,14 +8073,6 @@
       "onboard_time": 1757083523,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 397865,
-      "num": 226612,
-      "word": "西贝6000万咨询费",
-      "onboard_time": 1757841022,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 397857,
@@ -9321,14 +9337,6 @@
       "onboard_time": 1757689526,
       "rank": 32,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 350232,
-      "num": 231766,
-      "word": "25岁面试vs35岁面试",
-      "onboard_time": 1757838863,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 350005,
@@ -11329,14 +11337,6 @@
       "onboard_time": 1757749162,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280820,
-      "num": 230181,
-      "word": "月经的本质是流血不是排毒",
-      "onboard_time": 1757839162,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 280264,
@@ -15291,6 +15291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 200057,
+      "num": 163496,
+      "word": "用港币感受人民币的物价",
+      "onboard_time": 1757842281,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200048,
       "num": 209827,
       "word": "宋佳佟丽娅演上再见爱人了",
@@ -16097,6 +16105,14 @@
       "onboard_time": 1757068761,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193859,
+      "num": 193859,
+      "word": "HLE晋级S15",
+      "onboard_time": 1757841743,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 193820,
@@ -20059,6 +20075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163417,
+      "num": 163417,
+      "word": "连续30天十点睡觉身体的变化",
+      "onboard_time": 1757839282,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163414,
       "num": 163414,
       "word": "太牛了这个贺峻霖",
@@ -21467,6 +21491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154401,
+      "num": 154401,
+      "word": "卢昱晓 夏之星",
+      "onboard_time": 1757842162,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154309,
       "num": 154309,
       "word": "迪丽热巴在剧组会亲自下厨",
@@ -22641,14 +22673,6 @@
       "onboard_time": 1757315963,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147957,
-      "num": 147957,
-      "word": "连续30天十点睡觉身体的变化",
-      "onboard_time": 1757839282,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 147921,
@@ -25481,6 +25505,14 @@
       "onboard_time": 1757506522,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134965,
+      "num": 134965,
+      "word": "西贝上海中心门店客人流量不降反增",
+      "onboard_time": 1757841743,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134914,
@@ -28659,14 +28691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121304,
-      "num": 121304,
-      "word": "HLE晋级S15",
-      "onboard_time": 1757841743,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121275,
       "num": 121275,
       "word": "中国游客东京被华人服务员骂",
@@ -30195,14 +30219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114700,
-      "num": 114700,
-      "word": "西贝上海中心门店客人流量不降反增",
-      "onboard_time": 1757841743,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114649,
       "num": 114649,
       "word": "社保多交一年会相差这么多钱",
@@ -30489,6 +30505,14 @@
       "onboard_time": 1757504241,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113473,
+      "num": 113473,
+      "word": "刘宇宁厨艺",
+      "onboard_time": 1757841682,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 113446,
@@ -31729,6 +31753,14 @@
       "onboard_time": 1757027360,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108876,
+      "num": 194897,
+      "word": "刘思远 清华是人生浓墨重彩的一笔",
+      "onboard_time": 1757841202,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 108874,
@@ -33299,6 +33331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102322,
+      "num": 102322,
+      "word": "SUV盲区竟能容纳93个孩子",
+      "onboard_time": 1757839401,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 102288,
       "num": 102288,
       "word": "俄外长敲打日本",
@@ -34681,6 +34721,14 @@
       "onboard_time": 1757427922,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96409,
+      "num": 96409,
+      "word": "原来知了里面是瘦肉",
+      "onboard_time": 1757842523,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 96404,
@@ -36259,6 +36307,14 @@
       "category": "国内时政,演出"
     },
     {
+      "raw_hot": 86923,
+      "num": 93920,
+      "word": "孙颖莎回应与王曼昱再交手",
+      "onboard_time": 1757841862,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86874,
       "num": 86874,
       "word": "邓紫棋唱有心人太有感觉了",
@@ -37659,14 +37715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 78611,
-      "num": 194897,
-      "word": "刘思远 清华是人生浓墨重彩的一笔",
-      "onboard_time": 1757841202,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78601,
       "num": 155809,
       "word": "NASA登月被质疑",
@@ -37881,6 +37929,14 @@
       "onboard_time": 1757595036,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76232,
+      "num": 127575,
+      "word": "刘恋手指上套了个啥",
+      "onboard_time": 1757841442,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 76213,
@@ -39907,6 +39963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57811,
+      "num": 1219071,
+      "word": "石榴红了满天山",
+      "onboard_time": 1757509644,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57683,
       "num": 57683,
       "word": "小咪是一个擅长原谅人类的小猫",
@@ -40849,14 +40913,6 @@
       "onboard_time": 1757741542,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 49140,
-      "num": 1219071,
-      "word": "石榴红了满天山",
-      "onboard_time": 1757509644,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48976,
@@ -41865,14 +41921,6 @@
       "onboard_time": 1756798401,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37733,
-      "num": 127575,
-      "word": "刘恋手指上套了个啥",
-      "onboard_time": 1757841442,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 37681,
