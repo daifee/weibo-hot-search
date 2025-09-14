@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757871383188,
+  "endTime": 1757874633999,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -3395,6 +3395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72101,
+      "num": 72101,
+      "word": "男子回应NIKE要给缝书包的妈妈礼物",
+      "onboard_time": 1757871736,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71156,
       "num": 122358,
       "word": "韩右翼游行高喊我们都是柯克",
@@ -3444,7 +3452,7 @@
     },
     {
       "raw_hot": 60413,
-      "num": 60413,
+      "num": 63392,
       "word": "徐志胜又来看汪苏泷演唱会了",
       "onboard_time": 1757869519,
       "rank": 28,
@@ -3705,6 +3713,22 @@
       "onboard_time": 1757840063,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28824,
+      "num": 63510,
+      "word": "打dota的还是这些人",
+      "onboard_time": 1757872695,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 28657,
+      "num": 63482,
+      "word": "汪苏泷是男大吧",
+      "onboard_time": 1757873656,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 27640,
