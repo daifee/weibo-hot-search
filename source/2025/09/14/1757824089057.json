@@ -1,0 +1,410 @@
+{
+  "runTime": 1757824089057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1531327,
+        "num": 1531327,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1757816781,
+        "rank": 0,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 724393,
+        "num": 724393,
+        "word": "白鹿穿着姥姥衣服来录节目",
+        "onboard_time": 1757820202,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24800,
+        "num": 558912,
+        "word": "国宝画重点",
+        "onboard_time": 1757769985,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555829,
+        "num": 555829,
+        "word": "黄子韬说因为徐艺洋像白纸而被吸引",
+        "onboard_time": 1757820022,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515350,
+        "num": 515350,
+        "word": "毛利兰灰原哀",
+        "onboard_time": 1757821402,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 498885,
+        "num": 498885,
+        "word": "女子7天瘦十斤后感染败血症",
+        "onboard_time": 1757814201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467478,
+        "num": 467478,
+        "word": "女演员视后含金量",
+        "onboard_time": 1757818883,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366553,
+        "num": 366553,
+        "word": "李沁 不哭的孩子也能有糖吃",
+        "onboard_time": 1757815823,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359216,
+        "num": 359216,
+        "word": "法考",
+        "onboard_time": 1757821581,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285208,
+        "num": 285208,
+        "word": "卡塔尔承认探测不到以军战机",
+        "onboard_time": 1757818464,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 574562,
+        "num": 284859,
+        "word": "北京二环内的独栋别墅",
+        "onboard_time": 1757815521,
+        "rank": 10,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 544490,
+        "num": 282137,
+        "word": "许光汉肿么了",
+        "onboard_time": 1757822842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277780,
+        "num": 277780,
+        "word": "刘宇宁一米九大高个被菜打了",
+        "onboard_time": 1757821281,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264109,
+        "num": 264109,
+        "word": "澳洲你管这个叫青菜",
+        "onboard_time": 1757820562,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239134,
+        "num": 239134,
+        "word": "唐嫣紧张到声音都在发抖",
+        "onboard_time": 1757807540,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130486,
+        "num": 234573,
+        "word": "来电通知取消自动续费可能是诈骗",
+        "onboard_time": 1757822481,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232949,
+        "num": 232949,
+        "word": "抑郁症的懒到底有多可怕",
+        "onboard_time": 1757823201,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28953,
+        "num": 231966,
+        "word": "胡先煦玉门关聆听岁月回响",
+        "onboard_time": 1757822663,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 50776,
+        "num": 231322,
+        "word": "武林外传新路透",
+        "onboard_time": 1757822663,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62012,
+        "num": 229997,
+        "word": "山东呕吐学生称当日餐盘白菜发黑",
+        "onboard_time": 1757822361,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 668504,
+        "num": 229602,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379529,
+        "num": 228086,
+        "word": "9月机票价格大跳水",
+        "onboard_time": 1757821762,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293044,
+        "num": 227037,
+        "word": "刘雨昕迪奥大合影C位",
+        "onboard_time": 1757820922,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261173,
+        "num": 226024,
+        "word": "北京满地冰雹像下雪一样",
+        "onboard_time": 1757811621,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225267,
+        "num": 225267,
+        "word": "穆祉丞回应",
+        "onboard_time": 1757771726,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208720,
+        "num": 208720,
+        "word": "多囊vs多囊卵巢综合征",
+        "onboard_time": 1757817082,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193359,
+        "num": 193359,
+        "word": "1分钟秒睡法",
+        "onboard_time": 1757821402,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148140,
+        "num": 148140,
+        "word": "彭小苒这次是冷感美人",
+        "onboard_time": 1757823201,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145810,
+        "num": 145810,
+        "word": "体检报告这些字眼或是癌症信号",
+        "onboard_time": 1757820562,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123946,
+        "num": 141747,
+        "word": "王楚钦男单争冠",
+        "onboard_time": 1757809461,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141163,
+        "num": 141163,
+        "word": "真正伤胃的三大隐形杀手",
+        "onboard_time": 1757811081,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139188,
+        "num": 139188,
+        "word": "3个小时挣1000块的工作",
+        "onboard_time": 1757819063,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138308,
+        "num": 138308,
+        "word": "谁家综艺五个人都命苦又好笑",
+        "onboard_time": 1757822062,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123052,
+        "num": 137334,
+        "word": "国庆中秋购票日历来了",
+        "onboard_time": 1757812221,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137192,
+        "num": 137192,
+        "word": "王牌对王牌横扫周末收视率",
+        "onboard_time": 1757818162,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137002,
+        "num": 137002,
+        "word": "85花都有视后了",
+        "onboard_time": 1757809280,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136216,
+        "num": 136216,
+        "word": "这大概是中国人才能理解的审美",
+        "onboard_time": 1757814561,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130862,
+        "num": 130862,
+        "word": "柯克案牵出美国神秘团体",
+        "onboard_time": 1757815162,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127614,
+        "num": 127614,
+        "word": "汪苏泷用苹果17模型打电话",
+        "onboard_time": 1757807480,
+        "rank": 38,
+        "category": "演出,数码"
+      },
+      {
+        "raw_hot": 54282,
+        "num": 127340,
+        "word": "偶遇贺峻霖看暗恋桃花源",
+        "onboard_time": 1757823322,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127301,
+        "num": 127301,
+        "word": "北京冰雹有鸽子蛋大",
+        "onboard_time": 1757776525,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120254,
+        "num": 120254,
+        "word": "男子为骗钱把女友介绍给叔叔谈恋爱",
+        "onboard_time": 1757813781,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115035,
+        "num": 115035,
+        "word": "女子称贷款100多万中介收31万",
+        "onboard_time": 1757817261,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113246,
+        "num": 113246,
+        "word": "6旬环卫工大爷网恋3个月损失7万",
+        "onboard_time": 1757823862,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54562,
+        "num": 106442,
+        "word": "架子鼓奶奶80岁有了高光时刻",
+        "onboard_time": 1757824043,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106300,
+        "num": 106300,
+        "word": "火锅减肥法",
+        "onboard_time": 1757820263,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105275,
+        "num": 105275,
+        "word": "建议不要再趴桌午睡了",
+        "onboard_time": 1757785458,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 105121,
+        "num": 105121,
+        "word": "李国庆谈中餐预制菜到底能不能吃",
+        "onboard_time": 1757820623,
+        "rank": 47,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 102406,
+        "num": 102406,
+        "word": "谁家的扫地机器人跑丢了",
+        "onboard_time": 1757823922,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99229,
+        "num": 99229,
+        "word": "周深说自己的演唱会像五仁月饼",
+        "onboard_time": 1757824043,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}
