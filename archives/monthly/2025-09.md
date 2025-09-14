@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 07:21:23
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 07:36:22
 </p>
 </blockquote>
 <p>
@@ -1817,6 +1817,12 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%9B%9D%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%99%90%E5%BE%85%E8%87%B4%E6%AD%BB%E5%8F%AF%E6%80%95%E7%BB%86%E8%8A%82%23" target="weibo">
 父亲曝女儿被虐待致死可怕细节（热度：1038057）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E8%B4%A6%E5%8F%B7%E8%A7%A3%E9%99%A4%E6%8E%88%E6%9D%83%23" target="weibo">
+支付宝账号解除授权（热度：1034399）
 </a>
 </li>
 
@@ -4468,7 +4474,7 @@ iPhone17系列预售（热度：587926）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%8F%AD%E5%9B%A0%E9%9B%B7%E9%9B%A8%E5%A4%A9%E5%A4%87%E9%99%8D%E5%A4%AA%E5%8E%9F%E5%BC%95%E4%B9%98%E5%AE%A2%E4%B8%8B%E8%B7%AA%23" target="weibo">
-航班因雷雨天备降太原引乘客下跪（热度：538826）
+航班因雷雨天备降太原引乘客下跪（热度：540146）
 </a>
 </li>
 
@@ -4679,12 +4685,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%83%A0%E5%A6%B9%E5%86%B3%E5%AE%9A%E6%97%A0%E9%99%90%E6%9C%9F%E5%81%9C%E5%B7%A5%23" target="weibo">
 张惠妹决定无限期停工（热度：522369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E8%B4%A6%E5%8F%B7%E8%A7%A3%E9%99%A4%E6%8E%88%E6%9D%83%23" target="weibo">
-支付宝账号解除授权（热度：522191）
 </a>
 </li>
 

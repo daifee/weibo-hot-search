@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757892083982,
+  "endTime": 1757892982823,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -169,6 +169,14 @@
       "onboard_time": 1757859566,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1034399,
+      "num": 1034399,
+      "word": "支付宝账号解除授权",
+      "onboard_time": 1757891539,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1001976,
@@ -475,7 +483,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 538826,
+      "raw_hot": 540146,
       "num": 205581,
       "word": "航班因雷雨天备降太原引乘客下跪",
       "onboard_time": 1757864304,
@@ -529,14 +537,6 @@
       "onboard_time": 1757805198,
       "rank": 30,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 522191,
-      "num": 777995,
-      "word": "支付宝账号解除授权",
-      "onboard_time": 1757891539,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 509446,
@@ -803,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383857,
+      "num": 383857,
+      "word": "凌晨1点到3点必须要睡觉的重要性",
+      "onboard_time": 1757840961,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382929,
       "num": 382929,
       "word": "国庆中秋购票日历来了",
@@ -953,14 +961,6 @@
       "onboard_time": 1757820922,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 315428,
-      "num": 315428,
-      "word": "凌晨1点到3点必须要睡觉的重要性",
-      "onboard_time": 1757840961,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 306772,
@@ -1307,6 +1307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231849,
+      "num": 231849,
+      "word": "花少这期直接升华了",
+      "onboard_time": 1757890037,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230908,
       "num": 260313,
       "word": "北京昨夜冰雹威力究竟有多大",
@@ -1395,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218986,
+      "num": 218986,
+      "word": "2岁女童失踪超10天母亲发声",
+      "onboard_time": 1757861005,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217566,
       "num": 217566,
       "word": "让腿型越来越好看的三个动作",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1757862385,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203280,
-      "num": 210436,
-      "word": "2岁女童失踪超10天母亲发声",
-      "onboard_time": 1757861005,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202316,
@@ -1955,6 +1963,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 161929,
+      "num": 161929,
+      "word": "ame",
+      "onboard_time": 1757891239,
+      "rank": 16,
+      "category": "电竞,音乐"
+    },
+    {
       "raw_hot": 161926,
       "num": 161926,
       "word": "原来超市的牛奶是这样上架的",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1757835081,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154247,
+      "num": 154247,
+      "word": "男子持铁锤砸路人致1死6伤",
+      "onboard_time": 1757884034,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150680,
@@ -2371,14 +2395,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 135555,
-      "num": 135555,
-      "word": "ame",
-      "onboard_time": 1757891239,
-      "rank": 16,
-      "category": "电竞,音乐"
-    },
-    {
       "raw_hot": 135445,
       "num": 167353,
       "word": "马思纯干啥都大大方方的",
@@ -2489,14 +2505,6 @@
       "onboard_time": 1757820082,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129268,
-      "num": 129268,
-      "word": "男子持铁锤砸路人致1死6伤",
-      "onboard_time": 1757884034,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128733,
@@ -2729,14 +2737,6 @@
       "onboard_time": 1757830224,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115744,
-      "num": 115744,
-      "word": "花少这期直接升华了",
-      "onboard_time": 1757890037,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 115512,
@@ -3163,6 +3163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96239,
+      "num": 92676,
+      "word": "iPhone17系列真机包装盒曝光",
+      "onboard_time": 1757892439,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95900,
       "num": 95900,
       "word": "梁小静无缘100米半决赛",
@@ -3193,6 +3201,14 @@
       "onboard_time": 1757868140,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92848,
+      "num": 92848,
+      "word": "3人为高薪向间谍报送我军事信息",
+      "onboard_time": 1757892380,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92025,
@@ -3355,6 +3371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79779,
+      "num": 79779,
+      "word": "xg",
+      "onboard_time": 1757891239,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79690,
       "num": 64332,
       "word": "老乡鸡创始人点赞衢州小吃",
@@ -3379,8 +3403,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78585,
+      "num": 78585,
+      "word": "南仁东生前说不能对不起国家",
+      "onboard_time": 1757892439,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78177,
-      "num": 78177,
+      "num": 92610,
       "word": "女子接一客服电话50万存款被转走",
       "onboard_time": 1757883973,
       "rank": 40,
@@ -3457,14 +3489,6 @@
       "onboard_time": 1757818942,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 69859,
-      "num": 69859,
-      "word": "xg",
-      "onboard_time": 1757891239,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 62950,
@@ -3547,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58745,
+      "num": 58745,
+      "word": "曼城3比0曼联",
+      "onboard_time": 1757892439,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58659,
       "num": 346423,
       "word": "架子鼓奶奶80岁有了高光时刻",
@@ -3579,12 +3611,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56065,
+      "raw_hot": 56658,
+      "num": 62867,
+      "word": "期待值最高的待播剧",
+      "onboard_time": 1757889798,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 56440,
       "num": 103871,
       "word": "5名中国公民遭袭击1人被绑架",
       "onboard_time": 1757868860,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56006,
+      "num": 56006,
+      "word": "施罗德当选欧锦赛MVP",
+      "onboard_time": 1757892920,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 55676,
@@ -3667,6 +3715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48142,
+      "num": 48142,
+      "word": "骗子混入工作群冒充董事长骗走60万",
+      "onboard_time": 1757892620,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47966,
       "num": 890320,
       "word": "国宝画重点",
@@ -3683,7 +3739,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46777,
+      "raw_hot": 47505,
       "num": 62873,
       "word": "塞维尔世锦赛男子100米金牌",
       "onboard_time": 1757891659,
@@ -3691,12 +3747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44625,
-      "num": 62867,
-      "word": "期待值最高的待播剧",
-      "onboard_time": 1757889798,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 46902,
+      "num": 62852,
+      "word": "美的回应一天工作14小时离职被欠薪",
+      "onboard_time": 1757889676,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44070,
@@ -3752,14 +3808,6 @@
       "word": "西贝门店厨师长回应",
       "onboard_time": 1757804417,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38984,
-      "num": 62852,
-      "word": "美的回应一天工作14小时离职被欠薪",
-      "onboard_time": 1757889676,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
