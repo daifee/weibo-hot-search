@@ -1,7 +1,15 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757849778599,
+  "endTime": 1757853765741,
   "band_list": [
+    {
+      "raw_hot": 3238384,
+      "num": 3238384,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1757846784,
+      "rank": 40,
+      "category": "体育"
+    },
     {
       "raw_hot": 1886693,
       "num": 1886693,
@@ -16,6 +24,14 @@
       "word": "孙颖莎VS王曼昱",
       "onboard_time": 1757844862,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1591178,
+      "num": 1591178,
+      "word": "孙颖莎冠军",
+      "onboard_time": 1757849783,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -44,11 +60,19 @@
     },
     {
       "raw_hot": 1482762,
-      "num": 282336,
+      "num": 357938,
       "word": "祝绪丹手滑事件后持续掉粉",
       "onboard_time": 1757836342,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1480193,
+      "num": 261159,
+      "word": "西贝厨师长戴手表和手链下厨引热议",
+      "onboard_time": 1757851164,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1268838,
@@ -60,11 +84,19 @@
     },
     {
       "raw_hot": 1192657,
-      "num": 283010,
+      "num": 360093,
       "word": "月经的本质是流血不是排毒",
       "onboard_time": 1757839162,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1170247,
+      "num": 1170247,
+      "word": "央视曝肉毒素注射乱象",
+      "onboard_time": 1757846724,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1157067,
@@ -84,7 +116,7 @@
     },
     {
       "raw_hot": 1102607,
-      "num": 251328,
+      "num": 258316,
       "word": "西贝6000万咨询费",
       "onboard_time": 1757841022,
       "rank": 20,
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 899466,
-      "num": 335378,
+      "num": 644509,
       "word": "李沁龚俊 偶像剧都不敢这么拍",
       "onboard_time": 1757844082,
       "rank": 8,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 531073,
-      "num": 254867,
+      "num": 353849,
       "word": "警方回应女子坐评委身上做不雅动作",
       "onboard_time": 1757845282,
       "rank": 30,
@@ -379,6 +411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 501284,
+      "num": 501284,
+      "word": "xg进决赛",
+      "onboard_time": 1757851164,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 498347,
       "num": 498347,
       "word": "昏迷女孩被拖出车厢场面惊心",
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 486960,
-      "num": 243098,
+      "num": 331102,
       "word": "月饼 饭缩力",
       "onboard_time": 1757845402,
       "rank": 35,
@@ -547,6 +587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 386887,
+      "num": 386887,
+      "word": "AL战胜iG",
+      "onboard_time": 1757849783,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 386082,
       "num": 468077,
       "word": "孙颖莎vs蒯曼",
@@ -595,6 +643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363637,
+      "num": 363637,
+      "word": "孙颖莎学陈幸同请客",
+      "onboard_time": 1757851583,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 353021,
+      "num": 353021,
+      "word": "wtt",
+      "onboard_time": 1757849903,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343120,
       "num": 343120,
       "word": "女子在瓜地发现东西瓜",
@@ -641,6 +705,14 @@
       "onboard_time": 1757805438,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 316889,
+      "num": 316889,
+      "word": "宋雨琦王安宇排名暴涨",
+      "onboard_time": 1757852484,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 316452,
@@ -707,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288492,
+      "num": 288492,
+      "word": "Gala高烧",
+      "onboard_time": 1757850983,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285208,
       "num": 285208,
       "word": "卡塔尔承认探测不到以军战机",
@@ -737,6 +817,14 @@
       "onboard_time": 1757847923,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 276260,
+      "num": 276260,
+      "word": "林心如霍建华还在磨合中",
+      "onboard_time": 1757853386,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 276245,
@@ -779,6 +867,22 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 256639,
+      "num": 256639,
+      "word": "剧才播10集女主背后空无一人",
+      "onboard_time": 1757852303,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255750,
+      "num": 255750,
+      "word": "西贝员工称羊肉一年集采一次",
+      "onboard_time": 1757850745,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253734,
       "num": 253734,
       "word": "柯克案牵出美国神秘团体",
@@ -817,6 +921,14 @@
       "onboard_time": 1757843122,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245733,
+      "num": 245733,
+      "word": "陈都灵被踩裙子一直说没关系",
+      "onboard_time": 1757851402,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 242995,
@@ -867,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225804,
+      "num": 192364,
+      "word": "陈都灵皮裙 好热但好美",
+      "onboard_time": 1757852963,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222906,
       "num": 222906,
       "word": "1分钟秒睡法",
@@ -897,6 +1017,14 @@
       "onboard_time": 1757778384,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 214437,
+      "num": 214437,
+      "word": "刘宇宁直播",
+      "onboard_time": 1757853205,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 214100,
@@ -1011,12 +1139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195321,
-      "num": 195321,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1757846784,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 194510,
+      "num": 194510,
+      "word": "警方回应扶老人过马路被打飞眼镜",
+      "onboard_time": 1757846844,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193859,
@@ -1115,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180044,
+      "num": 180044,
+      "word": "世界第二大网红遇上折耳根也没招了",
+      "onboard_time": 1757853325,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 179913,
       "num": 179913,
       "word": "柯克遗孀趴在棺柩上痛哭",
@@ -1169,6 +1305,14 @@
       "onboard_time": 1757816001,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169924,
+      "num": 169924,
+      "word": "ame冲",
+      "onboard_time": 1757853325,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 169091,
@@ -1235,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163482,
+      "num": 163482,
+      "word": "冒泡赛",
+      "onboard_time": 1757852724,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163417,
       "num": 163417,
       "word": "连续30天十点睡觉身体的变化",
@@ -1257,14 +1409,6 @@
       "onboard_time": 1757838263,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161610,
-      "num": 161610,
-      "word": "央视曝肉毒素注射乱象",
-      "onboard_time": 1757846724,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160774,
@@ -1297,6 +1441,14 @@
       "onboard_time": 1757830942,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159546,
+      "num": 159546,
+      "word": "大姑和大姑父的身体素质太强了",
+      "onboard_time": 1757853625,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 158844,
@@ -1435,6 +1587,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144729,
+      "num": 144729,
+      "word": "樊振东德甲第三轮上工",
+      "onboard_time": 1757849364,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144586,
+      "num": 144586,
+      "word": "王楚钦发带上写着胜字",
+      "onboard_time": 1757850622,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144432,
       "num": 167410,
       "word": "全红婵与院长苏炳添合影",
@@ -1449,6 +1617,22 @@
       "onboard_time": 1757825483,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143800,
+      "num": 143800,
+      "word": "计划有变 准备夺冠",
+      "onboard_time": 1757852903,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 142304,
+      "num": 142304,
+      "word": "iG掉入冒泡赛",
+      "onboard_time": 1757853745,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 141149,
@@ -1507,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139178,
+      "num": 146024,
+      "word": "1个月内数十名儿童呼吸性碱中毒",
+      "onboard_time": 1757852544,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139149,
       "num": 139149,
       "word": "颜人中演唱会",
@@ -1537,14 +1729,6 @@
       "onboard_time": 1757822062,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138072,
-      "num": 138072,
-      "word": "樊振东德甲第三轮上工",
-      "onboard_time": 1757849364,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 137933,
@@ -1657,6 +1841,14 @@
       "onboard_time": 1757843843,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128245,
+      "num": 361507,
+      "word": "张曼玉IP显示仍在中国香港",
+      "onboard_time": 1757853085,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 127204,
@@ -1840,14 +2032,6 @@
       "word": "女子长期克隆他人朋友圈用于网恋",
       "onboard_time": 1757841083,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113895,
-      "num": 113895,
-      "word": "警方回应扶老人过马路被打飞眼镜",
-      "onboard_time": 1757846844,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2243,6 +2427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92987,
+      "num": 253771,
+      "word": "中方不参与不策划战争",
+      "onboard_time": 1757853565,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92025,
       "num": 106628,
       "word": "王楚钦11比8张禹珍",
@@ -2467,6 +2659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 62950,
+      "num": 238799,
+      "word": "玩徒派对都有谁在啊",
+      "onboard_time": 1757847864,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 62012,
       "num": 229997,
       "word": "山东呕吐学生称当日餐盘白菜发黑",
@@ -2635,14 +2835,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 33171,
-      "num": 238799,
-      "word": "玩徒派对都有谁在啊",
-      "onboard_time": 1757847864,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 30680,
       "num": 68491,
       "word": "周笔畅重庆演唱会",
@@ -2737,6 +2929,14 @@
       "onboard_time": 1757791515,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17168,
+      "num": 1217406,
+      "word": "直播看各地丰收场景",
+      "onboard_time": 1757840063,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16068,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/14 19:36:18
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/14 20:42:45
 </p>
 </blockquote>
 <p>
@@ -215,6 +215,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%23" target="weibo">
 罗永浩直播（热度：3245783）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%9B%A8%E6%9E%9C%23" target="weibo">
+王楚钦vs雨果（热度：3238384）
 </a>
 </li>
 
@@ -933,6 +939,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B%23" target="weibo">
+孙颖莎冠军（热度：1591178）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%23" target="weibo">
 教资（热度：1589653）
 </a>
@@ -1043,6 +1055,12 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E6%B4%BB%E5%8A%A8%23" target="weibo">
 迪奥活动（热度：1482574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E9%95%BF%E6%88%B4%E6%89%8B%E8%A1%A8%E5%92%8C%E6%89%8B%E9%93%BE%E4%B8%8B%E5%8E%A8%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
+西贝厨师长戴手表和手链下厨引热议（热度：1480193）
 </a>
 </li>
 
@@ -1487,6 +1505,12 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E8%81%8A%E5%A4%A9%E6%88%AA%E5%9B%BE%E5%8F%91%E7%BB%99%E4%BD%A0%E6%9C%8B%E5%8F%8B%E5%A5%BD%E5%90%97%23" target="weibo">
 别把聊天截图发给你朋友好吗（热度：1178673）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E8%82%89%E6%AF%92%E7%B4%A0%E6%B3%A8%E5%B0%84%E4%B9%B1%E8%B1%A1%23" target="weibo">
+央视曝肉毒素注射乱象（热度：1170247）
 </a>
 </li>
 
@@ -4755,6 +4779,12 @@ iPhone17ProMax全新升级机王（热度：506729）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23xg%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
+xg进决赛（热度：501284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%86%B0%E8%B1%86%E6%B5%86%E6%AF%94%E7%83%AD%E8%B1%86%E6%B5%86%E8%B4%B51%E5%85%83%23" target="weibo">
 肯德基冰豆浆比热豆浆贵1元（热度：501273）
 </a>
@@ -5981,36 +6011,6 @@ iPhone17Pro相机是疯狂的（热度：417026）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E7%9A%84%E8%A6%86%E7%9B%96%E5%85%A8%E7%90%83%E5%AE%9E%E9%94%A4%E4%BA%86%23" target="weibo">
 九三阅兵的覆盖全球实锤了（热度：410572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%8E%B0%E5%9C%BA%E8%BF%8E%E6%8E%A5%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%23" target="weibo">
-朱一龙现场迎接志愿军烈士（热度：410113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%83%BD%E6%8F%92%E7%BA%BF%E6%9D%BF%20%E6%97%A9%E5%B7%B2%E8%A2%AB%E7%A6%81%E7%94%A8%23" target="weibo">
-万能插线板 早已被禁用（热度：409973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E8%8D%94%E8%8E%8E%E4%B8%8E%E4%BA%8E%E6%AD%A3%E7%BC%98%E5%88%86%E5%A5%91%E5%90%88%E5%BA%A686%23" target="weibo">
-许荔莎与于正缘分契合度86（热度：408906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%97%E9%98%85%E9%83%A8%E9%98%9F%E8%B7%91%E6%AD%A5%E7%99%BB%E8%BD%A6%E7%94%BB%E9%9D%A2%E8%A2%AB%E6%80%92%E5%A4%B8%23" target="weibo">
-受阅部队跑步登车画面被怒夸（热度：408875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E6%B4%B2%E4%BD%A0%E7%AE%A1%E8%BF%99%E4%B8%AA%E5%8F%AB%E9%9D%92%E8%8F%9C%23" target="weibo">
-澳洲你管这个叫青菜（热度：407841）
 </a>
 </li>
 
