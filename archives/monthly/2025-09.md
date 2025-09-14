@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 03:18:20
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 03:36:07
 </p>
 </blockquote>
 <p>
@@ -5889,6 +5889,12 @@ iPhone14机主是灵动岛岛主（热度：435707）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TI%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+TI总决赛（热度：428942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E5%8D%A1%E5%A1%94%E5%B0%94%E7%9A%84%E5%93%88%E9%A9%AC%E6%96%AF%E9%AB%98%E5%B1%82%23" target="weibo">
 以色列袭击卡塔尔的哈马斯高层（热度：428712）
 </a>
@@ -6005,12 +6011,6 @@ TFING直播（热度：427002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%86%8D%E8%B7%B3%E5%86%B0%E6%BF%80%E5%87%8C%E4%BB%8E%E5%90%8C%E4%BA%8B%E5%8F%98%E5%A4%AB%E5%A6%BB%23" target="weibo">
 黄子韬徐艺洋再跳冰激凌从同事变夫妻（热度：421135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%B5%B4%E5%B1%B1%E6%B5%B7%E9%A6%96%E6%97%A530w%E4%BA%91%E5%8C%85%E5%9C%BA%23" target="weibo">
-成毅赴山海首日30w云包场（热度：420822）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/15 03:18:20
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/15 03:36:07
 </p>
 </blockquote>
 <p>
@@ -495,6 +495,12 @@ iG对战AL（热度：484197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TI%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+TI总决赛（热度：428942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E9%9D%A2%E8%AF%95vs35%E5%B2%81%E9%9D%A2%E8%AF%95%23" target="weibo">
 25岁面试vs35岁面试（热度：427913）
 </a>
@@ -971,12 +977,6 @@ HLE对战T1（热度：234978）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E4%B8%80%E8%BD%BD5%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BD%A6%E9%98%9F%E9%81%AD%E8%A2%AD%E5%87%BB%23" target="weibo">
 尼日利亚一载5名中国人车队遭袭击（热度：230605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TI%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-TI总决赛（热度：230445）
 </a>
 </li>
 
@@ -2073,6 +2073,12 @@ LPL与LCK迎来周末大战（热度：116684）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Falcons%E5%A4%BA%E5%86%A0%23" target="weibo">
+Falcons夺冠（热度：113041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E4%BB%A5%E4%B8%BA%E6%98%AF%E7%99%BD%E6%95%AC%E4%BA%AD%E5%9C%A8%E6%B7%8B%E9%9B%A8%23" target="weibo">
 起猛了以为是白敬亭在淋雨（热度：110631）
 </a>
@@ -2763,6 +2769,12 @@ Ame 斯温（热度：44070）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93dota%E7%9A%84%E8%BF%98%E6%98%AF%E8%BF%99%E4%BA%9B%E4%BA%BA%23" target="weibo">
+打dota的还是这些人（热度：34034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E9%98%B3%E8%8B%B1%E6%AD%8C%E8%88%9E%E5%BC%80%E9%81%93%E9%80%81%E6%96%B0%E5%85%B5%23" target="weibo">
 揭阳英歌舞开道送新兵（热度：31838）
 </a>
@@ -2781,6 +2793,12 @@ Ame 斯温（热度：44070）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Falcons%E6%88%98%E8%83%9CXG%23" target="weibo">
+Falcons战胜XG（热度：29799）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%AF%E8%BE%B920%E5%85%83%E8%B4%B4%E8%86%9C%E4%BB%98%E6%AC%BE%E6%97%B6%E5%8F%9855%23" target="weibo">
 女子路边20元贴膜付款时变55（热度：29663）
 </a>
@@ -2795,12 +2813,6 @@ Ame 斯温（热度：44070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%9C%8B%E5%90%84%E5%9C%B0%E4%B8%B0%E6%94%B6%E5%9C%BA%E6%99%AF%23" target="weibo">
 直播看各地丰收场景（热度：29364）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%93dota%E7%9A%84%E8%BF%98%E6%98%AF%E8%BF%99%E4%BA%9B%E4%BA%BA%23" target="weibo">
-打dota的还是这些人（热度：28824）
 </a>
 </li>
 
@@ -2855,6 +2867,18 @@ Ame 斯温（热度：44070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%88%91%E6%83%B3%E5%BF%B5%E9%97%AA%E5%85%89%E7%81%AF%E5%A5%BD%E6%B5%AA%E6%BC%AB%23" target="weibo">
 汪苏泷我想念闪光灯好浪漫（热度：24055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%B2%89%E8%89%B2%E4%B8%9D%E7%BB%92%E9%80%A0%E5%9E%8B%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%A5%BD%E9%A6%99%23" target="weibo">
+汪苏泷粉色丝绒造型看起来好香（热度：23520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TI15%23" target="weibo">
+TI15（热度：23070）
 </a>
 </li>
 

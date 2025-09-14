@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757877500812,
+  "endTime": 1757878567618,
   "band_list": [
     {
       "raw_hot": 969834,
@@ -41,6 +41,14 @@
       "onboard_time": 1757859446,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428942,
+      "num": 428942,
+      "word": "TI总决赛",
+      "onboard_time": 1757854705,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 402323,
@@ -145,14 +153,6 @@
       "onboard_time": 1757854345,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 220731,
-      "num": 220731,
-      "word": "TI总决赛",
-      "onboard_time": 1757854705,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 217784,
@@ -297,6 +297,14 @@
       "onboard_time": 1757865803,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113041,
+      "num": 113041,
+      "word": "Falcons夺冠",
+      "onboard_time": 1757877794,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 109594,
@@ -475,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34034,
+      "num": 63510,
+      "word": "打dota的还是这些人",
+      "onboard_time": 1757872695,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31838,
       "num": 97646,
       "word": "揭阳英歌舞开道送新兵",
@@ -491,11 +507,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28824,
-      "num": 63510,
-      "word": "打dota的还是这些人",
-      "onboard_time": 1757872695,
-      "rank": 35,
+      "raw_hot": 29799,
+      "num": 59525,
+      "word": "Falcons战胜XG",
+      "onboard_time": 1757877975,
+      "rank": 15,
       "category": "电竞"
     },
     {
@@ -529,6 +545,22 @@
       "onboard_time": 1757876416,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23520,
+      "num": 55365,
+      "word": "汪苏泷粉色丝绒造型看起来好香",
+      "onboard_time": 1757877975,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23070,
+      "num": 55279,
+      "word": "TI15",
+      "onboard_time": 1757878095,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 22994,

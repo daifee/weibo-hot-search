@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757877500812,
+  "endTime": 1757878567618,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -7835,6 +7835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428942,
+      "num": 571897,
+      "word": "TI总决赛",
+      "onboard_time": 1757854705,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 428712,
       "num": 428712,
       "word": "以色列袭击卡塔尔的哈马斯高层",
@@ -13713,14 +13721,6 @@
       "onboard_time": 1757856985,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 230445,
-      "num": 571897,
-      "word": "TI总决赛",
-      "onboard_time": 1757854705,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 230408,
@@ -31747,6 +31747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113041,
+      "num": 113041,
+      "word": "Falcons夺冠",
+      "onboard_time": 1757877794,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112978,
       "num": 324122,
       "word": "辛巴方否认被带走调查",
@@ -43611,6 +43619,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 34034,
+      "num": 63510,
+      "word": "打dota的还是这些人",
+      "onboard_time": 1757872695,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33964,
       "num": 115080,
       "word": "月卡被平台悄咪咪扣费多月",
@@ -43995,6 +44011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29799,
+      "num": 59525,
+      "word": "Falcons战胜XG",
+      "onboard_time": 1757877975,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 29694,
       "num": 33048,
       "word": "天安门广场放音乐",
@@ -44081,14 +44105,6 @@
       "onboard_time": 1757409982,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28824,
-      "num": 63510,
-      "word": "打dota的还是这些人",
-      "onboard_time": 1757872695,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 28657,
@@ -44555,6 +44571,14 @@
       "category": "剧集,互联网"
     },
     {
+      "raw_hot": 23520,
+      "num": 55365,
+      "word": "汪苏泷粉色丝绒造型看起来好香",
+      "onboard_time": 1757877975,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23439,
       "num": 298959,
       "word": "马德兴30多年报道足球写3000万字",
@@ -44569,6 +44593,14 @@
       "onboard_time": 1757060002,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23070,
+      "num": 55279,
+      "word": "TI15",
+      "onboard_time": 1757878095,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 22994,
