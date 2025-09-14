@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757828312505,
+  "endTime": 1757831598348,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1244,7 +1244,7 @@
     },
     {
       "raw_hot": 1563618,
-      "num": 346387,
+      "num": 347957,
       "word": "许光汉肿么了",
       "onboard_time": 1757822842,
       "rank": 11,
@@ -2995,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 857164,
+      "num": 534672,
+      "word": "60岁张曼玉定居法国农村",
+      "onboard_time": 1757826863,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 856435,
       "num": 856435,
       "word": "劝老外取消订单劝不住",
@@ -4667,6 +4675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 627049,
+      "num": 167540,
+      "word": "网友实拍西贝21块钱馒头",
+      "onboard_time": 1757827403,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626579,
       "num": 697044,
       "word": "90岁钟南山院士佩戴共和国勋章观礼",
@@ -5809,6 +5825,14 @@
       "onboard_time": 1756740801,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526421,
+      "num": 526421,
+      "word": "盛世天下",
+      "onboard_time": 1757383701,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 526046,
@@ -7523,6 +7547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424286,
+      "num": 424286,
+      "word": "iPhone17ProMax全新升级机王",
+      "onboard_time": 1757828963,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 424195,
       "num": 398554,
       "word": "花少7时长统计",
@@ -8275,20 +8307,20 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 386941,
-      "num": 386941,
-      "word": "盛世天下",
-      "onboard_time": 1757383701,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 386240,
       "num": 205817,
       "word": "种地吧",
       "onboard_time": 1756721180,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386082,
+      "num": 431811,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1757826803,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 385732,
@@ -8729,14 +8761,6 @@
       "onboard_time": 1756808361,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 370330,
-      "num": 370330,
-      "word": "60岁张曼玉定居法国农村",
-      "onboard_time": 1757826863,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 370020,
@@ -9835,6 +9859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325351,
+      "num": 325351,
+      "word": "我家那闺女",
+      "onboard_time": 1757828363,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325338,
       "num": 467166,
       "word": "王楚钦vs格罗特",
@@ -10545,14 +10577,6 @@
       "onboard_time": 1757034142,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 298344,
-      "num": 350413,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1757826803,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 297933,
@@ -12017,6 +12041,14 @@
       "onboard_time": 1757488703,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253263,
+      "num": 253263,
+      "word": "水煮蔬菜TOP",
+      "onboard_time": 1757826624,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 253205,
@@ -16099,6 +16131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192118,
+      "num": 192118,
+      "word": "WTT澳门冠军赛2025",
+      "onboard_time": 1757830583,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192036,
       "num": 147065,
       "word": "王鹤棣ELLE9月刊封面",
@@ -16329,6 +16369,14 @@
       "onboard_time": 1757413342,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190331,
+      "num": 190331,
+      "word": "吴磊刮中彩票的反应",
+      "onboard_time": 1757830403,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 190294,
@@ -16873,6 +16921,14 @@
       "onboard_time": 1757761043,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186266,
+      "num": 167424,
+      "word": "内娱需要这种不顾形象的崩溃戏",
+      "onboard_time": 1757828181,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 186214,
@@ -17640,6 +17696,14 @@
       "word": "要求200万月薪的董事长已被免",
       "onboard_time": 1757764887,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179363,
+      "num": 167310,
+      "word": "西贝客服回应员工用漏勺挖下水道",
+      "onboard_time": 1757829682,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -20251,6 +20315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159911,
+      "num": 159911,
+      "word": "苏州一西贝莜面村闭店",
+      "onboard_time": 1757830942,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "田栩宁星火繁花",
@@ -21363,14 +21435,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 152143,
-      "num": 152143,
-      "word": "网友实拍西贝21块钱馒头",
-      "onboard_time": 1757827403,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151972,
       "num": 151972,
       "word": "TFing画的穆祉丞",
@@ -21657,6 +21721,14 @@
       "onboard_time": 1757428524,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150680,
+      "num": 150680,
+      "word": "李一桐檀健次给好六后期上难度",
+      "onboard_time": 1757830763,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 150631,
@@ -22921,6 +22993,14 @@
       "onboard_time": 1757587112,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144432,
+      "num": 167410,
+      "word": "全红婵与院长苏炳添合影",
+      "onboard_time": 1757827163,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 144422,
@@ -25699,6 +25779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 131556,
+      "num": 131556,
+      "word": "网传再见爱人5观察嘉宾",
+      "onboard_time": 1757831063,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131486,
       "num": 253942,
       "word": "娃哈哈将启用新品牌",
@@ -27099,6 +27187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 125509,
+      "num": 125509,
+      "word": "成毅屋内不许荡秋千",
+      "onboard_time": 1757829562,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125499,
       "num": 125499,
       "word": "40人两天为老人清理出30吨垃圾",
@@ -27329,14 +27425,6 @@
       "onboard_time": 1757326042,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124713,
-      "num": 124713,
-      "word": "内娱需要这种不顾形象的崩溃戏",
-      "onboard_time": 1757828181,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 124707,
@@ -27577,14 +27665,6 @@
       "onboard_time": 1757289562,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123663,
-      "num": 123663,
-      "word": "全红婵与院长苏炳添合影",
-      "onboard_time": 1757827163,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 123641,
@@ -28996,7 +29076,7 @@
     },
     {
       "raw_hot": 117255,
-      "num": 115504,
+      "num": 116137,
       "word": "李兰迪好灵",
       "onboard_time": 1757827163,
       "rank": 44,
@@ -29763,6 +29843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114266,
+      "num": 114266,
+      "word": "其实焦虑症是长期恐惧导致的神经疲劳",
+      "onboard_time": 1757830763,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114254,
       "num": 116961,
       "word": "别人是二搭季肖冰是二演",
@@ -29977,14 +30065,6 @@
       "onboard_time": 1757558720,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113104,
-      "num": 113104,
-      "word": "水煮蔬菜TOP",
-      "onboard_time": 1757826624,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 113100,
@@ -30681,6 +30761,14 @@
       "onboard_time": 1757416522,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110516,
+      "num": 110516,
+      "word": "于适可以和朱一龙一起学吹口哨了",
+      "onboard_time": 1757831422,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 110492,
@@ -31619,6 +31707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106722,
+      "num": 106722,
+      "word": "桃黑黑玩盛世天下",
+      "onboard_time": 1757830042,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106719,
       "num": 145858,
       "word": "守陵大爷借电视机想让烈士们看阅兵",
@@ -32411,6 +32507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103318,
+      "num": 103318,
+      "word": "温和型焦虑症",
+      "onboard_time": 1757830283,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103300,
       "num": 103300,
       "word": "苹果春晚前瞻",
@@ -32947,6 +33051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100817,
+      "num": 167353,
+      "word": "马思纯干啥都大大方方的",
+      "onboard_time": 1757831242,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100801,
       "num": 266057,
       "word": "上班基础下班就不基础",
@@ -33105,6 +33217,14 @@
       "onboard_time": 1756770019,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100066,
+      "num": 100066,
+      "word": "唐嫣获奖当天又资助了一位藏族女大学生",
+      "onboard_time": 1757830283,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 100033,
@@ -33585,6 +33705,14 @@
       "onboard_time": 1757409862,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98116,
+      "num": 98116,
+      "word": "最脏的游轮酒店",
+      "onboard_time": 1757830403,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 98055,
@@ -36715,6 +36843,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 80388,
+      "num": 96922,
+      "word": "九三阅兵杨靖宇支队战旗回到吉林",
+      "onboard_time": 1757831183,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80304,
       "num": 80304,
       "word": "陶喆一个月唱了36个小时",
@@ -37368,6 +37504,14 @@
       "word": "倩碧见证樊振东德甲高光时刻",
       "onboard_time": 1757225062,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75037,
+      "num": 96209,
+      "word": "梅西勺子点球被扑",
+      "onboard_time": 1757831542,
+      "rank": 49,
       "category": "体育"
     },
     {
