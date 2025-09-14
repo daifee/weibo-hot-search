@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757846235898,
+  "endTime": 1757848703139,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1339,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1484967,
+      "num": 1484967,
+      "word": "祝绪丹直播哽咽",
+      "onboard_time": 1757844623,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1484047,
       "num": 1484047,
       "word": "谢娜因爷爷去世而不敢回家过年",
@@ -2675,6 +2683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927089,
+      "num": 727711,
+      "word": "法考 邓紫棋",
+      "onboard_time": 1757844502,
+      "rank": 7,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 926833,
       "num": 537650,
       "word": "良子断层超过蔡徐坤",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1757411782,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 820866,
+      "num": 820866,
+      "word": "孙颖莎VS王曼昱",
+      "onboard_time": 1757844862,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 818940,
@@ -3953,14 +3977,6 @@
       "onboard_time": 1757309482,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 727711,
-      "num": 727711,
-      "word": "法考 邓紫棋",
-      "onboard_time": 1757844502,
-      "rank": 7,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 724871,
@@ -4915,20 +4931,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 614856,
-      "num": 420994,
-      "word": "祝绪丹直播哽咽",
-      "onboard_time": 1757844623,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 613314,
       "num": 234286,
       "word": "林更新还回内娱吗",
       "onboard_time": 1757505202,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 612588,
+      "num": 335378,
+      "word": "李沁龚俊 偶像剧都不敢这么拍",
+      "onboard_time": 1757844082,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 612202,
@@ -6475,6 +6491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486960,
+      "num": 210042,
+      "word": "月饼 饭缩力",
+      "onboard_time": 1757845402,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 486593,
       "num": 2536326,
       "word": "空着的1945检阅车",
@@ -6979,14 +7003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 456028,
-      "num": 305126,
-      "word": "李沁龚俊 偶像剧都不敢这么拍",
-      "onboard_time": 1757844082,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 455853,
       "num": 341337,
       "word": "董璇晒佟丽娅小酒窝合照",
@@ -7097,6 +7113,14 @@
       "onboard_time": 1757345664,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 451423,
+      "num": 246602,
+      "word": "警方回应女子坐评委身上做不雅动作",
+      "onboard_time": 1757845282,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450865,
@@ -7713,14 +7737,6 @@
       "onboard_time": 1757590606,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424199,
-      "num": 424199,
-      "word": "孙颖莎VS王曼昱",
-      "onboard_time": 1757844862,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 424195,
@@ -11811,6 +11827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269941,
+      "num": 179241,
+      "word": "西贝暂停后厨开放",
+      "onboard_time": 1757847083,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269924,
       "num": 916814,
       "word": "英雄回家",
@@ -12507,14 +12531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246602,
-      "num": 246602,
-      "word": "警方回应女子坐评委身上做不雅动作",
-      "onboard_time": 1757845282,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246581,
       "num": 246581,
       "word": "10岁女儿非亲生胃癌父亲已去世",
@@ -12745,6 +12761,14 @@
       "onboard_time": 1757255662,
       "rank": 14,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 241426,
+      "num": 183232,
+      "word": "苏醒把王栎鑫骂到心坎里了",
+      "onboard_time": 1757847264,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 241378,
@@ -18243,6 +18267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177203,
+      "num": 177203,
+      "word": "张晚意一句话让男人为你回头",
+      "onboard_time": 1757846964,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177154,
       "num": 344878,
       "word": "地铁偷拍案被上诉人不构成诬陷",
@@ -21227,6 +21259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156502,
+      "num": 156502,
+      "word": "王格格想和杨紫刘亦菲合作",
+      "onboard_time": 1757845342,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156461,
       "num": 156461,
       "word": "河南欢迎短信",
@@ -22203,6 +22243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150628,
+      "num": 150628,
+      "word": "饶雪漫 你俩把日子过好更重要",
+      "onboard_time": 1757845823,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150544,
       "num": 150544,
       "word": "花费千万出书网上卖10块钱",
@@ -22928,6 +22976,14 @@
       "word": "徐若晗 减肥对身体不好",
       "onboard_time": 1757481443,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147158,
+      "num": 147158,
+      "word": "张曼玉并未定居法国农村",
+      "onboard_time": 1757847563,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -28499,14 +28555,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 122557,
-      "num": 122557,
-      "word": "月饼 饭缩力",
-      "onboard_time": 1757845402,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122531,
       "num": 430850,
       "word": "希望菲律宾防长能睁眼看世界",
@@ -29859,14 +29907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116723,
-      "num": 116723,
-      "word": "饶雪漫 你俩把日子过好更重要",
-      "onboard_time": 1757845823,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 116718,
       "num": 116718,
       "word": "这哪是质子来了分明是一辈子来了",
@@ -30259,6 +30299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115140,
+      "num": 115140,
+      "word": "央视曝肉毒素注射乱象",
+      "onboard_time": 1757846724,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115137,
       "num": 115137,
       "word": "Doinb最后一舞",
@@ -30585,6 +30633,14 @@
       "onboard_time": 1757732243,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113895,
+      "num": 113895,
+      "word": "警方回应扶老人过马路被打飞眼镜",
+      "onboard_time": 1757846844,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113870,
@@ -31387,6 +31443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110631,
+      "num": 110631,
+      "word": "起猛了以为是白敬亭在淋雨",
+      "onboard_time": 1757847264,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110619,
       "num": 155790,
       "word": "怎么解读东风5C打击范围覆盖全球",
@@ -31409,6 +31473,14 @@
       "onboard_time": 1757380103,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 110561,
+      "num": 110561,
+      "word": "jiejie",
+      "onboard_time": 1757847923,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 110529,
@@ -31545,6 +31617,14 @@
       "onboard_time": 1757597976,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110156,
+      "num": 110156,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1757846784,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 110084,
@@ -34131,6 +34211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99479,
+      "num": 99479,
+      "word": "邓为奇遇记造型出图",
+      "onboard_time": 1757846844,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99466,
       "num": 190577,
       "word": "真人版美猴王",
@@ -34649,6 +34737,14 @@
       "onboard_time": 1757743406,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97477,
+      "num": 97477,
+      "word": "wei",
+      "onboard_time": 1757846784,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 97448,
@@ -38545,14 +38641,6 @@
       "onboard_time": 1756728681,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 73073,
-      "num": 113856,
-      "word": "王格格想和杨紫刘亦菲合作",
-      "onboard_time": 1757845342,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 73015,
@@ -42537,6 +42625,14 @@
       "onboard_time": 1757172142,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33171,
+      "num": 182826,
+      "word": "玩徒派对都有谁在啊",
+      "onboard_time": 1757847864,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 33065,
