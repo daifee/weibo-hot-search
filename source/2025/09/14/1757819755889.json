@@ -1,0 +1,410 @@
+{
+  "runTime": 1757819755889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1390609,
+        "num": 1390609,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1757816781,
+        "rank": 0,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 783353,
+        "num": 783353,
+        "word": "女子7天瘦十斤后感染败血症",
+        "onboard_time": 1757814201,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31574,
+        "num": 768219,
+        "word": "国宝画重点",
+        "onboard_time": 1757769985,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 766803,
+        "num": 766803,
+        "word": "李沁 不哭的孩子也能有糖吃",
+        "onboard_time": 1757815823,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313897,
+        "num": 313897,
+        "word": "这大概是中国人才能理解的审美",
+        "onboard_time": 1757814561,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248582,
+        "num": 248582,
+        "word": "应急局回应山东现不明飞行物被击落",
+        "onboard_time": 1757773105,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558241,
+        "num": 241959,
+        "word": "唐嫣紧张到声音都在发抖",
+        "onboard_time": 1757807540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288588,
+        "num": 232135,
+        "word": "女演员视后含金量",
+        "onboard_time": 1757818883,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220066,
+        "num": 220066,
+        "word": "国庆中秋购票日历来了",
+        "onboard_time": 1757812221,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199388,
+        "num": 199388,
+        "word": "柯克案牵出美国神秘团体",
+        "onboard_time": 1757815162,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 628533,
+        "num": 198965,
+        "word": "北京二环内的独栋别墅",
+        "onboard_time": 1757815521,
+        "rank": 10,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 275523,
+        "num": 193798,
+        "word": "男子为骗钱把女友介绍给叔叔谈恋爱",
+        "onboard_time": 1757813781,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252526,
+        "num": 191608,
+        "word": "多囊vs多囊卵巢综合征",
+        "onboard_time": 1757817082,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251467,
+        "num": 187732,
+        "word": "85花都有视后了",
+        "onboard_time": 1757809280,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186321,
+        "num": 186321,
+        "word": "张维伊叫A4纸小纸纸",
+        "onboard_time": 1757811621,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178745,
+        "num": 178745,
+        "word": "建议不要再趴桌午睡了",
+        "onboard_time": 1757785458,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159175,
+        "num": 159175,
+        "word": "中国不下单美国大豆农民真的慌了",
+        "onboard_time": 1757805438,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145279,
+        "num": 145279,
+        "word": "王牌对王牌横扫周末收视率",
+        "onboard_time": 1757818162,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143711,
+        "num": 143711,
+        "word": "宋茜回复金晨",
+        "onboard_time": 1757809461,
+        "rank": 18,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 130793,
+        "num": 143700,
+        "word": "预制菜之王萨莉亚为啥没人骂",
+        "onboard_time": 1757763744,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746254,
+        "num": 143641,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410219,
+        "num": 143584,
+        "word": "北京满地冰雹像下雪一样",
+        "onboard_time": 1757811621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317925,
+        "num": 143551,
+        "word": "汪苏泷用苹果17模型打电话",
+        "onboard_time": 1757807480,
+        "rank": 22,
+        "category": "演出,数码"
+      },
+      {
+        "raw_hot": 244187,
+        "num": 143476,
+        "word": "穆祉丞回应",
+        "onboard_time": 1757771726,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199060,
+        "num": 143424,
+        "word": "真正伤胃的三大隐形杀手",
+        "onboard_time": 1757811081,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184828,
+        "num": 143401,
+        "word": "女子称贷款100多万中介收31万",
+        "onboard_time": 1757817261,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150853,
+        "num": 143341,
+        "word": "王楚钦男单争冠",
+        "onboard_time": 1757809461,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 143280,
+        "word": "北京冰雹有鸽子蛋大",
+        "onboard_time": 1757776525,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143258,
+        "num": 143258,
+        "word": "这才是我月薪三千该去的地方",
+        "onboard_time": 1757816001,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38491,
+        "num": 139744,
+        "word": "xg战队急需支援",
+        "onboard_time": 1757818701,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154247,
+        "num": 139283,
+        "word": "卡塔尔承认探测不到以军战机",
+        "onboard_time": 1757818464,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138666,
+        "num": 138666,
+        "word": "赴山海抠图感",
+        "onboard_time": 1757772385,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127217,
+        "num": 127217,
+        "word": "大半个娱乐圈都来成都了",
+        "onboard_time": 1757805198,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123601,
+        "num": 123601,
+        "word": "3个小时挣1000块的工作",
+        "onboard_time": 1757819063,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114228,
+        "num": 114228,
+        "word": "三个喝水习惯可能亲手把肾毁掉",
+        "onboard_time": 1757806639,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112899,
+        "num": 112899,
+        "word": "西贝厨师长称家里一顿没吃完也不会扔",
+        "onboard_time": 1757774246,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111654,
+        "num": 111654,
+        "word": "这小鼻嘎好像是我弟",
+        "onboard_time": 1757817082,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104063,
+        "num": 104063,
+        "word": "李荣浩 这是个真事你们可以上网查",
+        "onboard_time": 1757777125,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103957,
+        "num": 103957,
+        "word": "国家级保护区治愈buff叠满",
+        "onboard_time": 1757816722,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102866,
+        "num": 102866,
+        "word": "园长回应幼儿园开课教擦屁股",
+        "onboard_time": 1757808020,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71156,
+        "num": 101255,
+        "word": "韩右翼游行高喊我们都是柯克",
+        "onboard_time": 1757818942,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101001,
+        "num": 101001,
+        "word": "吴艳妮田径世锦赛首秀",
+        "onboard_time": 1757817983,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96270,
+        "num": 96270,
+        "word": "李维嘉再次出来工作是因为谢娜",
+        "onboard_time": 1757803697,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92473,
+        "num": 92473,
+        "word": "罗永浩说西贝的事情告一段落",
+        "onboard_time": 1757806519,
+        "rank": 43,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 90251,
+        "num": 90251,
+        "word": "我给赴山海做了一部游戏动画",
+        "onboard_time": 1757817742,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86528,
+        "num": 86528,
+        "word": "XG晋级TI前三",
+        "onboard_time": 1757805379,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84986,
+        "num": 84986,
+        "word": "朱一龙金熊猫影帝",
+        "onboard_time": 1757776286,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84409,
+        "num": 84409,
+        "word": "让沈腾宋亚轩演父子的人简直是个天才",
+        "onboard_time": 1757819662,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80196,
+        "num": 80196,
+        "word": "西贝演示现场烤鱼",
+        "onboard_time": 1757808920,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79796,
+        "num": 79796,
+        "word": "仓鼠妈妈带娃自律两不误",
+        "onboard_time": 1757819181,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}
