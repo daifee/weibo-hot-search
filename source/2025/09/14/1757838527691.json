@@ -1,0 +1,410 @@
+{
+  "runTime": 1757838527691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546065,
+        "num": 1087370,
+        "word": "60岁张曼玉定居法国农村",
+        "onboard_time": 1757826863,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401039,
+        "num": 401039,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1757816781,
+        "rank": 1,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 59899,
+        "num": 336154,
+        "word": "中国农民破解猕猴桃绝症",
+        "onboard_time": 1757810420,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1268838,
+        "num": 331348,
+        "word": "黎吧啦小耳朵十年后重聚",
+        "onboard_time": 1757835681,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323846,
+        "num": 323846,
+        "word": "其实焦虑症是长期恐惧导致的神经疲劳",
+        "onboard_time": 1757830763,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241378,
+        "num": 241378,
+        "word": "雨果4比0林德",
+        "onboard_time": 1757837244,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533811,
+        "num": 241177,
+        "word": "张韶涵哽咽鞠躬30秒",
+        "onboard_time": 1757832863,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344659,
+        "num": 240306,
+        "word": "祝绪丹随便一跳被中医确诊",
+        "onboard_time": 1757833342,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232338,
+        "num": 232338,
+        "word": "美军雷达为何集体失明",
+        "onboard_time": 1757837363,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198111,
+        "num": 231520,
+        "word": "女子在瓜地发现东西瓜",
+        "onboard_time": 1757837603,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965969,
+        "num": 227529,
+        "word": "建议大家多去实体店逛一逛",
+        "onboard_time": 1757835921,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 665941,
+        "num": 224057,
+        "word": "谭松韵瘦了好多",
+        "onboard_time": 1757834901,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910580,
+        "num": 222811,
+        "word": "祝绪丹手滑事件后持续掉粉",
+        "onboard_time": 1757836342,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221226,
+        "num": 221226,
+        "word": "白鹿穿着姥姥衣服来录节目",
+        "onboard_time": 1757820202,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172277,
+        "num": 205574,
+        "word": "王楚钦4比0张禹珍",
+        "onboard_time": 1757834663,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203129,
+        "num": 203129,
+        "word": "小孩哥逗杨幂",
+        "onboard_time": 1757832383,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338791,
+        "num": 202195,
+        "word": "许光汉肿么了",
+        "onboard_time": 1757822842,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83077,
+        "num": 200141,
+        "word": "王楚钦给了自己脸一下",
+        "onboard_time": 1757838143,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224938,
+        "num": 198060,
+        "word": "iPhone17ProMax全新升级机王",
+        "onboard_time": 1757828963,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49039,
+        "num": 196891,
+        "word": "男子持铁锤砸人致1死6伤家属发声",
+        "onboard_time": 1757837543,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543242,
+        "num": 194292,
+        "word": "谢娜因爷爷去世而不敢回家过年",
+        "onboard_time": 1757824101,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359409,
+        "num": 191621,
+        "word": "网友实拍西贝21块钱馒头",
+        "onboard_time": 1757827403,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316452,
+        "num": 191063,
+        "word": "西贝厨师长称转基因大豆油用于员工餐",
+        "onboard_time": 1757834781,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189258,
+        "num": 189258,
+        "word": "陈都灵马思纯梦回左耳",
+        "onboard_time": 1757838143,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195910,
+        "num": 188057,
+        "word": "美版iPhone",
+        "onboard_time": 1757837422,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184112,
+        "num": 184112,
+        "word": "吴磊刮中彩票的反应",
+        "onboard_time": 1757830403,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190334,
+        "num": 183907,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164494,
+        "num": 182127,
+        "word": "王青音乐节",
+        "onboard_time": 1757837722,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160105,
+        "num": 180973,
+        "word": "王楚钦4比0速胜",
+        "onboard_time": 1757837902,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46994,
+        "num": 180893,
+        "word": "超10万人参加伦敦反移民活动",
+        "onboard_time": 1757837603,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179913,
+        "num": 179913,
+        "word": "柯克遗孀趴在棺柩上痛哭",
+        "onboard_time": 1757835803,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157967,
+        "num": 157967,
+        "word": "当刘耀文被问月薪多少",
+        "onboard_time": 1757834544,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150544,
+        "num": 150544,
+        "word": "花费千万出书网上卖10块钱",
+        "onboard_time": 1757836882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144885,
+        "num": 144885,
+        "word": "人 看咪的美甲",
+        "onboard_time": 1757834301,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144402,
+        "num": 144402,
+        "word": "HLE对战T1",
+        "onboard_time": 1757833643,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139633,
+        "num": 139633,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1757837782,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131984,
+        "num": 131984,
+        "word": "李晟把上海的针灸扎了一个遍",
+        "onboard_time": 1757835681,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130488,
+        "num": 130488,
+        "word": "柯南2026年剧场版标题",
+        "onboard_time": 1757837902,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119712,
+        "num": 123779,
+        "word": "9月机票价格大跳水",
+        "onboard_time": 1757821762,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123029,
+        "num": 123029,
+        "word": "刘雨昕迪奥大合影C位",
+        "onboard_time": 1757820922,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122664,
+        "num": 122664,
+        "word": "魏如萱演唱会上座率",
+        "onboard_time": 1757831662,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30891,
+        "num": 119590,
+        "word": "张凌赫背着王楚然出嫁路透",
+        "onboard_time": 1757838503,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118733,
+        "num": 118733,
+        "word": "抑郁症的懒到底有多可怕",
+        "onboard_time": 1757823201,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118322,
+        "num": 118322,
+        "word": "一分钟把葡萄写成两三百字",
+        "onboard_time": 1757834423,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117627,
+        "num": 117627,
+        "word": "现任以亡夫之名给前妻写遗书",
+        "onboard_time": 1757837543,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113373,
+        "num": 113373,
+        "word": "住老破小的副作用",
+        "onboard_time": 1757832502,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109813,
+        "num": 109813,
+        "word": "冰冻预制菜扇贝7毛钱1个",
+        "onboard_time": 1757836644,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104689,
+        "num": 104689,
+        "word": "张艺兴晒和李连杰合影",
+        "onboard_time": 1757833224,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102607,
+        "num": 102607,
+        "word": "原来超市的牛奶是这样上架的",
+        "onboard_time": 1757838263,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101737,
+        "num": 101737,
+        "word": "王楚钦决赛再战雨果",
+        "onboard_time": 1757837843,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#助推服务贸易数字化进程#"
+    }
+  }
+}
