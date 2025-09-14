@@ -1,0 +1,410 @@
+{
+  "runTime": 1757828312505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1484047,
+        "num": 1484047,
+        "word": "谢娜因爷爷去世而不敢回家过年",
+        "onboard_time": 1757824101,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 957033,
+        "num": 957033,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1757816781,
+        "rank": 1,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 79675,
+        "num": 856260,
+        "word": "中国农民破解猕猴桃绝症",
+        "onboard_time": 1757810420,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833851,
+        "num": 833851,
+        "word": "抑郁症的懒到底有多可怕",
+        "onboard_time": 1757823201,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 598733,
+        "num": 598733,
+        "word": "白鹿穿着姥姥衣服来录节目",
+        "onboard_time": 1757820202,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306772,
+        "num": 476196,
+        "word": "吴艳妮回应止步100米栏预赛",
+        "onboard_time": 1757825303,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421786,
+        "num": 421786,
+        "word": "唐嫣视后庆功宴",
+        "onboard_time": 1757825724,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370330,
+        "num": 370330,
+        "word": "60岁张曼玉定居法国农村",
+        "onboard_time": 1757826863,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358887,
+        "num": 358887,
+        "word": "毛利兰灰原哀",
+        "onboard_time": 1757821402,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 298344,
+        "num": 298344,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1757826803,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1347830,
+        "num": 297703,
+        "word": "许光汉肿么了",
+        "onboard_time": 1757822842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374416,
+        "num": 284859,
+        "word": "澳洲你管这个叫青菜",
+        "onboard_time": 1757820562,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314237,
+        "num": 278994,
+        "word": "黄子韬说因为徐艺洋像白纸而被吸引",
+        "onboard_time": 1757820022,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264789,
+        "num": 264789,
+        "word": "刘宇宁一米九大高个被菜打了",
+        "onboard_time": 1757821281,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237539,
+        "num": 237539,
+        "word": "女子7天瘦十斤后感染败血症",
+        "onboard_time": 1757814201,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216465,
+        "num": 216465,
+        "word": "1分钟秒睡法",
+        "onboard_time": 1757821402,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210534,
+        "num": 210534,
+        "word": "女演员视后含金量",
+        "onboard_time": 1757818883,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204456,
+        "num": 204456,
+        "word": "李沁 不哭的孩子也能有糖吃",
+        "onboard_time": 1757815823,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178532,
+        "num": 178532,
+        "word": "陈幸同vs王曼昱",
+        "onboard_time": 1757824463,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175024,
+        "num": 175024,
+        "word": "北京二环内的独栋别墅",
+        "onboard_time": 1757815521,
+        "rank": 19,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 386737,
+        "num": 174023,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295628,
+        "num": 173507,
+        "word": "9月机票价格大跳水",
+        "onboard_time": 1757821762,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251851,
+        "num": 171795,
+        "word": "刘雨昕迪奥大合影C位",
+        "onboard_time": 1757820922,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190175,
+        "num": 171132,
+        "word": "内娱编剧啊放过这对异性恋吧",
+        "onboard_time": 1757825483,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178192,
+        "num": 169884,
+        "word": "韩庚这段雨中镜头封神了",
+        "onboard_time": 1757827042,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169092,
+        "num": 169092,
+        "word": "北京满地冰雹像下雪一样",
+        "onboard_time": 1757811621,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153388,
+        "num": 153388,
+        "word": "五年后许飞更想娶余秀华了",
+        "onboard_time": 1757825724,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152143,
+        "num": 152143,
+        "word": "网友实拍西贝21块钱馒头",
+        "onboard_time": 1757827403,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139384,
+        "num": 149711,
+        "word": "王曼昱4比2陈幸同",
+        "onboard_time": 1757826923,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122557,
+        "num": 149446,
+        "word": "体检报告这些字眼或是癌症信号",
+        "onboard_time": 1757820562,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149296,
+        "num": 149296,
+        "word": "55岁阿姨健身20年的真实状态",
+        "onboard_time": 1757825963,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146291,
+        "num": 146291,
+        "word": "穆祉丞回应",
+        "onboard_time": 1757771726,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124713,
+        "num": 124713,
+        "word": "内娱需要这种不顾形象的崩溃戏",
+        "onboard_time": 1757828181,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121878,
+        "num": 121878,
+        "word": "法考",
+        "onboard_time": 1757821581,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121546,
+        "num": 121546,
+        "word": "王楚钦侧颜好绝",
+        "onboard_time": 1757825483,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120125,
+        "num": 120125,
+        "word": "第一次见六口人还搞宅斗的剧",
+        "onboard_time": 1757827702,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118482,
+        "num": 118482,
+        "word": "真正伤胃的三大隐形杀手",
+        "onboard_time": 1757811081,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117634,
+        "num": 117634,
+        "word": "卡塔尔承认探测不到以军战机",
+        "onboard_time": 1757818464,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116178,
+        "num": 116178,
+        "word": "无限暖暖",
+        "onboard_time": 1757826382,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117255,
+        "num": 115504,
+        "word": "李兰迪好灵",
+        "onboard_time": 1757827163,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113104,
+        "num": 113104,
+        "word": "水煮蔬菜TOP",
+        "onboard_time": 1757826624,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111106,
+        "num": 111106,
+        "word": "曝LOL有新赛事",
+        "onboard_time": 1757824823,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110556,
+        "num": 110556,
+        "word": "北京冰雹有鸽子蛋大",
+        "onboard_time": 1757776525,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107156,
+        "num": 107156,
+        "word": "偶遇贺峻霖看暗恋桃花源",
+        "onboard_time": 1757823322,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102488,
+        "num": 102488,
+        "word": "朱迅状态",
+        "onboard_time": 1757827403,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100341,
+        "num": 100341,
+        "word": "法拉利裁判现身李宇春演唱会",
+        "onboard_time": 1757825782,
+        "rank": 45,
+        "category": "演出,汽车"
+      },
+      {
+        "raw_hot": 99081,
+        "num": 99081,
+        "word": "全红婵与院长苏炳添合影",
+        "onboard_time": 1757827163,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96552,
+        "num": 96552,
+        "word": "黑衬衫是男明星最好的医美",
+        "onboard_time": 1757825423,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95900,
+        "num": 95900,
+        "word": "梁小静无缘100米半决赛",
+        "onboard_time": 1757827582,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95867,
+        "num": 95867,
+        "word": "来电通知取消自动续费可能是诈骗",
+        "onboard_time": 1757822481,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#助推服务贸易数字化进程#"
+    }
+  }
+}

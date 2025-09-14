@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757827380078,
+  "endTime": 1757828312505,
   "band_list": [
     {
       "raw_hot": 1886693,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1446910,
-      "num": 1446910,
+      "raw_hot": 1484047,
+      "num": 1484047,
       "word": "谢娜因爷爷去世而不敢回家过年",
       "onboard_time": 1757824101,
       "rank": 30,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 833851,
+      "num": 833851,
+      "word": "抑郁症的懒到底有多可怕",
+      "onboard_time": 1757823201,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 818940,
       "num": 818940,
       "word": "朱一龙金熊猫影帝",
@@ -137,14 +145,6 @@
       "onboard_time": 1757774246,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 670359,
-      "num": 670359,
-      "word": "抑郁症的懒到底有多可怕",
-      "onboard_time": 1757823201,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 657223,
@@ -259,6 +259,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 421786,
+      "num": 421786,
+      "word": "唐嫣视后庆功宴",
+      "onboard_time": 1757825724,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415460,
       "num": 251857,
       "word": "赴山海抠图感",
@@ -307,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 377807,
-      "num": 377807,
-      "word": "唐嫣视后庆功宴",
-      "onboard_time": 1757825724,
-      "rank": 7,
-      "category": "作品衍生"
+      "raw_hot": 370330,
+      "num": 370330,
+      "word": "60岁张曼玉定居法国农村",
+      "onboard_time": 1757826863,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 367488,
@@ -355,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306772,
+      "num": 476196,
+      "word": "吴艳妮回应止步100米栏预赛",
+      "onboard_time": 1757825303,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303484,
       "num": 270969,
       "word": "园长回应幼儿园开课教擦屁股",
@@ -377,6 +393,14 @@
       "onboard_time": 1757760863,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298344,
+      "num": 350413,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1757826803,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 296803,
@@ -465,14 +489,6 @@
       "onboard_time": 1757803697,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249303,
-      "num": 249303,
-      "word": "吴艳妮回应止步100米栏预赛",
-      "onboard_time": 1757825303,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 242995,
@@ -611,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178192,
+      "num": 169884,
+      "word": "韩庚这段雨中镜头封神了",
+      "onboard_time": 1757827042,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177607,
       "num": 177607,
       "word": "西贝演示现场烤鱼",
@@ -699,6 +723,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 152143,
+      "num": 152143,
+      "word": "网友实拍西贝21块钱馒头",
+      "onboard_time": 1757827403,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143928,
       "num": 143928,
       "word": "王楚钦侧颜好绝",
@@ -729,6 +761,14 @@
       "onboard_time": 1757779944,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139384,
+      "num": 214049,
+      "word": "王曼昱4比2陈幸同",
+      "onboard_time": 1757826923,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 139149,
@@ -787,14 +827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133225,
-      "num": 133225,
-      "word": "60岁张曼玉定居法国农村",
-      "onboard_time": 1757826863,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131303,
       "num": 131303,
       "word": "周深说自己的演唱会像五仁月饼",
@@ -819,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125998,
-      "num": 125998,
-      "word": "韩庚这段雨中镜头封神了",
-      "onboard_time": 1757827042,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125967,
       "num": 125967,
       "word": "6旬环卫工大爷网恋3个月损失7万",
@@ -841,6 +865,14 @@
       "onboard_time": 1757817082,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124713,
+      "num": 124713,
+      "word": "内娱需要这种不顾形象的崩溃戏",
+      "onboard_time": 1757828181,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 124320,
@@ -875,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120125,
+      "num": 120125,
+      "word": "第一次见六口人还搞宅斗的剧",
+      "onboard_time": 1757827702,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118931,
       "num": 118931,
       "word": "菲方引入外部势力撑腰注定徒劳",
@@ -891,6 +931,14 @@
       "category": "演出,汽车"
     },
     {
+      "raw_hot": 117255,
+      "num": 115504,
+      "word": "李兰迪好灵",
+      "onboard_time": 1757827163,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116979,
       "num": 120582,
       "word": "陈昊宇去看李宇春演唱会了",
@@ -905,6 +953,14 @@
       "onboard_time": 1757816722,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113104,
+      "num": 113104,
+      "word": "水煮蔬菜TOP",
+      "onboard_time": 1757826624,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 110260,
@@ -979,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102488,
+      "num": 102488,
+      "word": "朱迅状态",
+      "onboard_time": 1757827403,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102406,
       "num": 102406,
       "word": "谁家的扫地机器人跑丢了",
@@ -995,28 +1059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100648,
-      "num": 214049,
-      "word": "王曼昱4比2陈幸同",
-      "onboard_time": 1757826923,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100576,
       "num": 120536,
       "word": "金熊猫",
       "onboard_time": 1757760804,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99698,
-      "num": 350413,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1757826803,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 99551,
@@ -1059,20 +1107,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97630,
-      "num": 97630,
-      "word": "李兰迪好灵",
-      "onboard_time": 1757827163,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97149,
       "num": 97149,
       "word": "骑电动车别骑积食了",
       "onboard_time": 1757827163,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96552,
+      "num": 96552,
+      "word": "黑衬衫是男明星最好的医美",
+      "onboard_time": 1757825423,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95900,
+      "num": 95900,
+      "word": "梁小静无缘100米半决赛",
+      "onboard_time": 1757827582,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 91576,

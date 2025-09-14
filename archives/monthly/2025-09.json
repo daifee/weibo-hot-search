@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757827380078,
+  "endTime": 1757828312505,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1339,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1484047,
+      "num": 1484047,
+      "word": "谢娜因爷爷去世而不敢回家过年",
+      "onboard_time": 1757824101,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1482574,
       "num": 1482574,
       "word": "迪奥活动",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1757031800,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1446910,
-      "num": 1446910,
-      "word": "谢娜因爷爷去世而不敢回家过年",
-      "onboard_time": 1757824101,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1443662,
@@ -3155,6 +3155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 833851,
+      "num": 833851,
+      "word": "抑郁症的懒到底有多可怕",
+      "onboard_time": 1757823201,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 833216,
       "num": 833216,
       "word": "这才是面包的正常价格",
@@ -4321,14 +4329,6 @@
       "onboard_time": 1756869453,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 670359,
-      "num": 670359,
-      "word": "抑郁症的懒到底有多可怕",
-      "onboard_time": 1757823201,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 670324,
@@ -7571,6 +7571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421786,
+      "num": 421786,
+      "word": "唐嫣视后庆功宴",
+      "onboard_time": 1757825724,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421135,
       "num": 421135,
       "word": "黄子韬徐艺洋再跳冰激凌从同事变夫妻",
@@ -8515,14 +8523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 377807,
-      "num": 377807,
-      "word": "唐嫣视后庆功宴",
-      "onboard_time": 1757825724,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 377273,
       "num": 377273,
       "word": "李小鹏13岁女儿参加花滑比赛",
@@ -8729,6 +8729,14 @@
       "onboard_time": 1756808361,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 370330,
+      "num": 370330,
+      "word": "60岁张曼玉定居法国农村",
+      "onboard_time": 1757826863,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 370020,
@@ -10323,6 +10331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 306772,
+      "num": 476196,
+      "word": "吴艳妮回应止步100米栏预赛",
+      "onboard_time": 1757825303,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306538,
       "num": 295524,
       "word": "鹿晗澳门",
@@ -10529,6 +10545,14 @@
       "onboard_time": 1757034142,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 298344,
+      "num": 350413,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1757826803,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 297933,
@@ -12121,14 +12145,6 @@
       "onboard_time": 1756947503,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 249303,
-      "num": 249303,
-      "word": "吴艳妮回应止步100米栏预赛",
-      "onboard_time": 1757825303,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 249242,
@@ -17707,6 +17723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178192,
+      "num": 169884,
+      "word": "韩庚这段雨中镜头封神了",
+      "onboard_time": 1757827042,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178147,
       "num": 208323,
       "word": "张杰杭州演唱会抢票",
@@ -21339,6 +21363,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 152143,
+      "num": 152143,
+      "word": "网友实拍西贝21块钱馒头",
+      "onboard_time": 1757827403,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151972,
       "num": 151972,
       "word": "TFing画的穆祉丞",
@@ -23907,6 +23939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139384,
+      "num": 214049,
+      "word": "王曼昱4比2陈幸同",
+      "onboard_time": 1757826923,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139364,
       "num": 170711,
       "word": "台湾前舰长观礼阅兵被威胁扣退休金",
@@ -25345,14 +25385,6 @@
       "onboard_time": 1757424863,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133225,
-      "num": 133225,
-      "word": "60岁张曼玉定居法国农村",
-      "onboard_time": 1757826863,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 133190,
@@ -26891,14 +26923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125998,
-      "num": 125998,
-      "word": "韩庚这段雨中镜头封神了",
-      "onboard_time": 1757827042,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125997,
       "num": 168505,
       "word": "A股预制菜概念连涨8个月",
@@ -27305,6 +27329,14 @@
       "onboard_time": 1757326042,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124713,
+      "num": 124713,
+      "word": "内娱需要这种不顾形象的崩溃戏",
+      "onboard_time": 1757828181,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 124707,
@@ -28323,6 +28355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120125,
+      "num": 120125,
+      "word": "第一次见六口人还搞宅斗的剧",
+      "onboard_time": 1757827702,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120058,
       "num": 196660,
       "word": "诊所回应男子网购5元材料自行补牙",
@@ -28953,6 +28993,14 @@
       "onboard_time": 1757216122,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117255,
+      "num": 115504,
+      "word": "李兰迪好灵",
+      "onboard_time": 1757827163,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 117195,
@@ -29929,6 +29977,14 @@
       "onboard_time": 1757558720,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113104,
+      "num": 113104,
+      "word": "水煮蔬菜TOP",
+      "onboard_time": 1757826624,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 113100,
@@ -32571,6 +32627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102488,
+      "num": 102488,
+      "word": "朱迅状态",
+      "onboard_time": 1757827403,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102479,
       "num": 472066,
       "word": "特朗普称柯克遇害是至暗时刻",
@@ -32915,14 +32979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 100648,
-      "num": 214049,
-      "word": "王曼昱4比2陈幸同",
-      "onboard_time": 1757826923,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100629,
       "num": 100629,
       "word": "王楚钦说林昀儒每年都有进步",
@@ -33144,14 +33200,6 @@
       "word": "国乒澳门最新赛程",
       "onboard_time": 1757559981,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 99698,
-      "num": 350413,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1757826803,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -33659,14 +33707,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97630,
-      "num": 97630,
-      "word": "李兰迪好灵",
-      "onboard_time": 1757827163,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97623,
       "num": 143987,
       "word": "卡塔尔空军战斗力",
@@ -33939,6 +33979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96552,
+      "num": 96552,
+      "word": "黑衬衫是男明星最好的医美",
+      "onboard_time": 1757825423,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96550,
       "num": 106686,
       "word": "iPhoneAir官网更新",
@@ -34089,6 +34137,14 @@
       "onboard_time": 1757514864,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95900,
+      "num": 95900,
+      "word": "梁小静无缘100米半决赛",
+      "onboard_time": 1757827582,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95892,
