@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757832338469,
+  "endTime": 1757834492030,
   "band_list": [
     {
       "raw_hot": 1886693,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 857164,
-      "num": 534672,
+      "num": 1134442,
       "word": "60岁张曼玉定居法国农村",
       "onboard_time": 1757826863,
       "rank": 36,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 627049,
-      "num": 167540,
+      "num": 168705,
       "word": "网友实拍西贝21块钱馒头",
       "onboard_time": 1757827403,
       "rank": 27,
@@ -235,6 +235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 498630,
+      "num": 397645,
+      "word": "其实焦虑症是长期恐惧导致的神经疲劳",
+      "onboard_time": 1757830763,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 486541,
       "num": 486541,
       "word": "这大概是中国人才能理解的审美",
@@ -281,6 +289,14 @@
       "onboard_time": 1757800635,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 440417,
+      "num": 372110,
+      "word": "吴磊刮中彩票的反应",
+      "onboard_time": 1757830403,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 424977,
@@ -555,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226520,
-      "num": 226520,
-      "word": "吴磊刮中彩票的反应",
-      "onboard_time": 1757830403,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 240213,
+      "num": 240213,
+      "word": "祝绪丹随便一跳被中医确诊",
+      "onboard_time": 1757833342,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 222906,
@@ -619,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200867,
+      "num": 345723,
+      "word": "王楚钦进决赛",
+      "onboard_time": 1757833822,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198703,
       "num": 173683,
       "word": "体检报告这些字眼或是癌症信号",
@@ -641,6 +665,14 @@
       "onboard_time": 1757777423,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197374,
+      "num": 197374,
+      "word": "张艺兴晒和李连杰合影",
+      "onboard_time": 1757833224,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 197074,
@@ -673,6 +705,14 @@
       "onboard_time": 1757825963,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 188482,
+      "num": 188482,
+      "word": "小孩哥逗杨幂",
+      "onboard_time": 1757832383,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 186266,
@@ -715,12 +755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174927,
-      "num": 174927,
-      "word": "其实焦虑症是长期恐惧导致的神经疲劳",
-      "onboard_time": 1757830763,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 174809,
+      "num": 168624,
+      "word": "魏如萱演唱会上座率",
+      "onboard_time": 1757831662,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 173468,
@@ -739,12 +779,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 168565,
+      "num": 168565,
+      "word": "网传再见爱人5观察嘉宾",
+      "onboard_time": 1757831063,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168310,
       "num": 168310,
       "word": "彭小苒这次是冷感美人",
       "onboard_time": 1757823201,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168037,
+      "num": 168037,
+      "word": "一部剧集齐内娱待爆娃",
+      "onboard_time": 1757833224,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 166249,
@@ -769,6 +825,14 @@
       "onboard_time": 1757759544,
       "rank": 19,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 161962,
+      "num": 161962,
+      "word": "张韶涵哽咽鞠躬30秒",
+      "onboard_time": 1757832863,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 160477,
@@ -825,6 +889,14 @@
       "onboard_time": 1757831722,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145841,
+      "num": 145841,
+      "word": "HLE对战T1",
+      "onboard_time": 1757833643,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 144432,
@@ -939,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134005,
-      "num": 134005,
-      "word": "魏如萱演唱会上座率",
-      "onboard_time": 1757831662,
-      "rank": 34,
-      "category": "演出"
+      "raw_hot": 135131,
+      "num": 135131,
+      "word": "住老破小的副作用",
+      "onboard_time": 1757832502,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 133509,
@@ -953,14 +1025,6 @@
       "onboard_time": 1757777125,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 131556,
-      "num": 131556,
-      "word": "网传再见爱人5观察嘉宾",
-      "onboard_time": 1757831063,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 131303,
@@ -1011,12 +1075,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124681,
+      "num": 124681,
+      "word": "以后不敢说自己喜欢大海了",
+      "onboard_time": 1757834122,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124320,
       "num": 145832,
       "word": "北京多区发冰雹黄色预警",
       "onboard_time": 1757781321,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124095,
+      "num": 168059,
+      "word": "陈幸同被王曼昱打笑了",
+      "onboard_time": 1757833283,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 124065,
@@ -1123,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108244,
+      "num": 108244,
+      "word": "祝绪丹抓药给自己抓了碗八宝粥",
+      "onboard_time": 1757833582,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106819,
       "num": 120550,
       "word": "那英没有版权就让龚俊唱",
@@ -1156,7 +1244,7 @@
     },
     {
       "raw_hot": 105338,
-      "num": 105338,
+      "num": 110937,
       "word": "孙颖莎回应进澳门赛决赛",
       "onboard_time": 1757831963,
       "rank": 40,
@@ -1275,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97945,
+      "num": 97945,
+      "word": "王曼昱回应澳门赛进决赛",
+      "onboard_time": 1757834243,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97149,
       "num": 97149,
       "word": "骑电动车别骑积食了",
@@ -1299,6 +1395,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95554,
+      "num": 95554,
+      "word": "人 看咪的美甲",
+      "onboard_time": 1757834301,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 94844,
+      "num": 94844,
+      "word": "第一次觉得暗恋也这么好嗑",
+      "onboard_time": 1757834002,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92025,
+      "num": 106628,
+      "word": "王楚钦11比8张禹珍",
+      "onboard_time": 1757833162,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91576,
       "num": 91576,
       "word": "朱志鑫演唱会plog",
@@ -1313,6 +1433,14 @@
       "onboard_time": 1757774065,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89737,
+      "num": 89737,
+      "word": "一分钟把葡萄写成两三百字",
+      "onboard_time": 1757834423,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 87403,
