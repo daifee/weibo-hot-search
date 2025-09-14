@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757814928788,
+  "endTime": 1757816189948,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2355,6 +2355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1001976,
+      "num": 1160316,
+      "word": "女子7天瘦十斤后感染败血症",
+      "onboard_time": 1757814201,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1000751,
       "num": 1000751,
       "word": "iPhone16背刺最大一代",
@@ -2435,6 +2443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 981228,
+      "num": 1156317,
+      "word": "唐嫣紧张到声音都在发抖",
+      "onboard_time": 1757807540,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 978450,
       "num": 305988,
       "word": "离婚冷静期婆婆去世女子要求分遗产",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1756783341,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 976984,
-      "num": 1156317,
-      "word": "唐嫣紧张到声音都在发抖",
-      "onboard_time": 1757807540,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 972340,
@@ -2736,14 +2744,6 @@
       "word": "理肤泉回应上百元喷雾成分只有水",
       "onboard_time": 1756726581,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 889054,
-      "num": 889054,
-      "word": "女子7天瘦十斤后感染败血症",
-      "onboard_time": 1757814201,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -6243,6 +6243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 486541,
+      "num": 486541,
+      "word": "这大概是中国人才能理解的审美",
+      "onboard_time": 1757814561,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 486359,
       "num": 252192,
       "word": "令人心动的offer",
@@ -6313,6 +6321,14 @@
       "onboard_time": 1756863209,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 482423,
+      "num": 482423,
+      "word": "张维伊叫A4纸小纸纸",
+      "onboard_time": 1757811621,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 482057,
@@ -6705,14 +6721,6 @@
       "onboard_time": 1757125041,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 456703,
-      "num": 350964,
-      "word": "张维伊叫A4纸小纸纸",
-      "onboard_time": 1757811621,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 456656,
@@ -7412,7 +7420,7 @@
     },
     {
       "raw_hot": 424977,
-      "num": 271267,
+      "num": 364324,
       "word": "宋茜回复金晨",
       "onboard_time": 1757809461,
       "rank": 11,
@@ -7569,6 +7577,14 @@
       "onboard_time": 1757734165,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 415559,
+      "num": 247283,
+      "word": "北京满地冰雹像下雪一样",
+      "onboard_time": 1757811621,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 414360,
@@ -7827,6 +7843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 397857,
+      "num": 264153,
+      "word": "男子为骗钱把女友介绍给叔叔谈恋爱",
+      "onboard_time": 1757813781,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397604,
       "num": 332273,
       "word": "好多明星去了万妮达演唱会",
@@ -8033,6 +8057,14 @@
       "onboard_time": 1756964783,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 390368,
+      "num": 231460,
+      "word": "真正伤胃的三大隐形杀手",
+      "onboard_time": 1757811081,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 390306,
@@ -9577,14 +9609,6 @@
       "onboard_time": 1757661805,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 328061,
-      "num": 231460,
-      "word": "真正伤胃的三大隐形杀手",
-      "onboard_time": 1757811081,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 327966,
@@ -11339,14 +11363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270624,
-      "num": 270624,
-      "word": "这大概是中国人才能理解的审美",
-      "onboard_time": 1757814561,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270532,
       "num": 404544,
       "word": "台湾教授苑举正受邀参加九三阅兵",
@@ -11995,14 +12011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247283,
-      "num": 247283,
-      "word": "北京满地冰雹像下雪一样",
-      "onboard_time": 1757811621,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247278,
       "num": 247278,
       "word": "瑞幸星穹铁道联名",
@@ -12649,14 +12657,6 @@
       "onboard_time": 1757304144,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 233363,
-      "num": 233363,
-      "word": "男子为骗钱把女友介绍给叔叔谈恋爱",
-      "onboard_time": 1757813781,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233092,
@@ -17723,6 +17723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175625,
+      "num": 158843,
+      "word": "北京二环内的独栋别墅",
+      "onboard_time": 1757815521,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 175548,
       "num": 170345,
       "word": "果然留子一出手就是王炸",
@@ -19297,6 +19305,14 @@
       "onboard_time": 1756982843,
       "rank": 31,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 164063,
+      "num": 164063,
+      "word": "李沁 不哭的孩子也能有糖吃",
+      "onboard_time": 1757815823,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 164035,
@@ -27107,6 +27123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124065,
+      "num": 124065,
+      "word": "白敬亭下不去的公交车",
+      "onboard_time": 1757811020,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123952,
       "num": 214570,
       "word": "顾客曝点知名餐厅外卖换菜被骂装货",
@@ -27225,14 +27249,6 @@
       "onboard_time": 1757518822,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123481,
-      "num": 123481,
-      "word": "白敬亭下不去的公交车",
-      "onboard_time": 1757811020,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 123394,
@@ -31203,6 +31219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106556,
+      "num": 154830,
+      "word": "国安部提醒谨防地理信息泄密",
+      "onboard_time": 1757811320,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106554,
       "num": 121262,
       "word": "TizzyT羊King羊boss",
@@ -31424,14 +31448,6 @@
       "word": "月全食高清壁纸来了",
       "onboard_time": 1757294720,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105791,
-      "num": 154830,
-      "word": "国安部提醒谨防地理信息泄密",
-      "onboard_time": 1757811320,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -34851,6 +34867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87980,
+      "num": 87980,
+      "word": "这才是我月薪三千该去的地方",
+      "onboard_time": 1757816001,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87888,
       "num": 87888,
       "word": "叶童秒接李艺彤罗予彤求助电话",
@@ -35955,6 +35979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81885,
+      "num": 81885,
+      "word": "这鱼怎么长得像AI一样",
+      "onboard_time": 1757816121,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81742,
       "num": 81742,
       "word": "iPhone17Pro电池史上最大",
@@ -36531,6 +36563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77538,
+      "num": 77538,
+      "word": "李宇春来自素人回归素人",
+      "onboard_time": 1757807480,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 77443,
       "num": 77443,
       "word": "iPhone Air 联通eSIM",
@@ -36715,6 +36755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75813,
+      "num": 75813,
+      "word": "孙颖莎一秒化身莎局",
+      "onboard_time": 1757815882,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75810,
       "num": 120921,
       "word": "潘玮柏本人微胖但体力很棒",
@@ -36793,6 +36841,14 @@
       "onboard_time": 1757389463,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75095,
+      "num": 265317,
+      "word": "官方通报砖厂疑似残障人员务工",
+      "onboard_time": 1757808980,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75084,
@@ -39513,6 +39569,14 @@
       "onboard_time": 1757406023,
       "rank": 38,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 49586,
+      "num": 163916,
+      "word": "柯克案牵出美国神秘团体",
+      "onboard_time": 1757815162,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49570,

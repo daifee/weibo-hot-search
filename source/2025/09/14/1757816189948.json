@@ -1,0 +1,410 @@
+{
+  "runTime": 1757816189948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1001976,
+        "num": 1160316,
+        "word": "女子7天瘦十斤后感染败血症",
+        "onboard_time": 1757814201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 981228,
+        "num": 981228,
+        "word": "唐嫣紧张到声音都在发抖",
+        "onboard_time": 1757807540,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47966,
+        "num": 499205,
+        "word": "国宝画重点",
+        "onboard_time": 1757769985,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 486541,
+        "num": 486541,
+        "word": "这大概是中国人才能理解的审美",
+        "onboard_time": 1757814561,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 482423,
+        "num": 482423,
+        "word": "张维伊叫A4纸小纸纸",
+        "onboard_time": 1757811621,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413954,
+        "num": 413954,
+        "word": "应急局回应山东现不明飞行物被击落",
+        "onboard_time": 1757773105,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373986,
+        "num": 373986,
+        "word": "国庆中秋购票日历来了",
+        "onboard_time": 1757812221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364324,
+        "num": 364324,
+        "word": "宋茜回复金晨",
+        "onboard_time": 1757809461,
+        "rank": 7,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 355830,
+        "num": 355830,
+        "word": "85花都有视后了",
+        "onboard_time": 1757809280,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75095,
+        "num": 265317,
+        "word": "官方通报砖厂疑似残障人员务工",
+        "onboard_time": 1757808980,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397857,
+        "num": 264153,
+        "word": "男子为骗钱把女友介绍给叔叔谈恋爱",
+        "onboard_time": 1757813781,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387173,
+        "num": 263163,
+        "word": "建议不要再趴桌午睡了",
+        "onboard_time": 1757785458,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 259648,
+        "num": 259648,
+        "word": "中国不下单美国大豆农民真的慌了",
+        "onboard_time": 1757805438,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218653,
+        "num": 218653,
+        "word": "赴山海抠图感",
+        "onboard_time": 1757772385,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211458,
+        "num": 211458,
+        "word": "预制菜之王萨莉亚为啥没人骂",
+        "onboard_time": 1757763744,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206546,
+        "num": 206546,
+        "word": "园长回应幼儿园开课教擦屁股",
+        "onboard_time": 1757808020,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189095,
+        "num": 189095,
+        "word": "李维嘉再次出来工作是因为谢娜",
+        "onboard_time": 1757803697,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174274,
+        "num": 174274,
+        "word": "日本神户鱼景厕所",
+        "onboard_time": 1757807780,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164063,
+        "num": 164063,
+        "word": "李沁 不哭的孩子也能有糖吃",
+        "onboard_time": 1757815823,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49586,
+        "num": 163916,
+        "word": "柯克案牵出美国神秘团体",
+        "onboard_time": 1757815162,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 724536,
+        "num": 163183,
+        "word": "汪苏泷用苹果17模型打电话",
+        "onboard_time": 1757807480,
+        "rank": 20,
+        "category": "演出,数码"
+      },
+      {
+        "raw_hot": 415559,
+        "num": 162903,
+        "word": "北京满地冰雹像下雪一样",
+        "onboard_time": 1757811621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167069,
+        "num": 162614,
+        "word": "李荣浩 这是个真事你们可以上网查",
+        "onboard_time": 1757777125,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390368,
+        "num": 162185,
+        "word": "真正伤胃的三大隐形杀手",
+        "onboard_time": 1757811081,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316286,
+        "num": 161786,
+        "word": "西贝",
+        "onboard_time": 1757815342,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276165,
+        "num": 161136,
+        "word": "穆祉丞回应",
+        "onboard_time": 1757771726,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271573,
+        "num": 160770,
+        "word": "罗永浩回应西贝客流量增加",
+        "onboard_time": 1757800635,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239492,
+        "num": 160011,
+        "word": "西贝厨师长称家里一顿没吃完也不会扔",
+        "onboard_time": 1757774246,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188810,
+        "num": 159642,
+        "word": "大半个娱乐圈都来成都了",
+        "onboard_time": 1757805198,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181792,
+        "num": 159205,
+        "word": "王楚钦男单争冠",
+        "onboard_time": 1757809461,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175625,
+        "num": 158843,
+        "word": "北京二环内的独栋别墅",
+        "onboard_time": 1757815521,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 172431,
+        "num": 158578,
+        "word": "北京冰雹有鸽子蛋大",
+        "onboard_time": 1757776525,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158203,
+        "num": 158203,
+        "word": "三个喝水习惯可能亲手把肾毁掉",
+        "onboard_time": 1757806639,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144847,
+        "num": 144847,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1757744063,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 137298,
+        "num": 137298,
+        "word": "朱一龙金熊猫影帝",
+        "onboard_time": 1757776286,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132477,
+        "num": 132477,
+        "word": "西贝演示现场烤鱼",
+        "onboard_time": 1757808920,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132274,
+        "num": 132274,
+        "word": "朝方提醒美日韩",
+        "onboard_time": 1757804837,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124065,
+        "num": 124065,
+        "word": "白敬亭下不去的公交车",
+        "onboard_time": 1757811020,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122781,
+        "num": 122781,
+        "word": "谈恋爱其实很累的",
+        "onboard_time": 1757805679,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119125,
+        "num": 119125,
+        "word": "罗永浩说西贝的事情告一段落",
+        "onboard_time": 1757806519,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 108799,
+        "num": 108799,
+        "word": "老外地铁干嚼火锅底料",
+        "onboard_time": 1757813001,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106556,
+        "num": 106556,
+        "word": "国安部提醒谨防地理信息泄密",
+        "onboard_time": 1757811320,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103746,
+        "num": 103746,
+        "word": "XG晋级TI前三",
+        "onboard_time": 1757805379,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88979,
+        "num": 88979,
+        "word": "荆州市原市长周志红被查",
+        "onboard_time": 1757807900,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87980,
+        "num": 87980,
+        "word": "这才是我月薪三千该去的地方",
+        "onboard_time": 1757816001,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87042,
+        "num": 87042,
+        "word": "美国多人因庆祝柯克之死被解雇",
+        "onboard_time": 1757804837,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82363,
+        "num": 82363,
+        "word": "中国农民破解猕猴桃绝症",
+        "onboard_time": 1757810420,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81885,
+        "num": 81885,
+        "word": "这鱼怎么长得像AI一样",
+        "onboard_time": 1757816121,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77538,
+        "num": 77538,
+        "word": "李宇春来自素人回归素人",
+        "onboard_time": 1757807480,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75813,
+        "num": 75813,
+        "word": "孙颖莎一秒化身莎局",
+        "onboard_time": 1757815882,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走和平发展的人间正道#"
+    }
+  }
+}
