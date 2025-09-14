@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757889505555,
+  "endTime": 1757892083982,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -475,6 +475,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 538826,
+      "num": 205581,
+      "word": "航班因雷雨天备降太原引乘客下跪",
+      "onboard_time": 1757864304,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537300,
       "num": 281593,
       "word": "卢昱晓 夏之星",
@@ -523,6 +531,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 522191,
+      "num": 777995,
+      "word": "支付宝账号解除授权",
+      "onboard_time": 1757891539,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 509446,
       "num": 247283,
       "word": "北京满地冰雹像下雪一样",
@@ -545,6 +561,14 @@
       "onboard_time": 1757851164,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 501163,
+      "num": 486387,
+      "word": "甲状腺发出的求救信号",
+      "onboard_time": 1757864363,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 498347,
@@ -819,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365331,
-      "num": 486387,
-      "word": "甲状腺发出的求救信号",
-      "onboard_time": 1757864363,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 363637,
       "num": 363637,
       "word": "孙颖莎学陈幸同请客",
@@ -931,20 +947,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 316447,
-      "num": 205581,
-      "word": "航班因雷雨天备降太原引乘客下跪",
-      "onboard_time": 1757864304,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316393,
       "num": 227037,
       "word": "刘雨昕迪奥大合影C位",
       "onboard_time": 1757820922,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315428,
+      "num": 315428,
+      "word": "凌晨1点到3点必须要睡觉的重要性",
+      "onboard_time": 1757840961,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 306772,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1757818464,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 283081,
+      "num": 283081,
+      "word": "孙颖莎说和王楚钦默契不错",
+      "onboard_time": 1757867719,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 281411,
@@ -1435,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203280,
+      "num": 210436,
+      "word": "2岁女童失踪超10天母亲发声",
+      "onboard_time": 1757861005,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202316,
       "num": 202316,
       "word": "朝方提醒美日韩",
@@ -1715,14 +1747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181331,
-      "num": 224041,
-      "word": "凌晨1点到3点必须要睡觉的重要性",
-      "onboard_time": 1757840961,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180855,
       "num": 177682,
       "word": "孙颖莎今晚请客",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1757764765,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 163675,
-      "num": 114877,
-      "word": "孙颖莎说和王楚钦默契不错",
-      "onboard_time": 1757867719,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 163592,
@@ -2355,6 +2371,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 135555,
+      "num": 135555,
+      "word": "ame",
+      "onboard_time": 1757891239,
+      "rank": 16,
+      "category": "电竞,音乐"
+    },
+    {
       "raw_hot": 135445,
       "num": 167353,
       "word": "马思纯干啥都大大方方的",
@@ -2377,14 +2401,6 @@
       "onboard_time": 1757865383,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 134371,
-      "num": 210436,
-      "word": "2岁女童失踪超10天母亲发声",
-      "onboard_time": 1757861005,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134153,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1757820082,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129268,
+      "num": 129268,
+      "word": "男子持铁锤砸路人致1死6伤",
+      "onboard_time": 1757884034,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128733,
@@ -2705,6 +2729,14 @@
       "onboard_time": 1757830224,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115744,
+      "num": 115744,
+      "word": "花少这期直接升华了",
+      "onboard_time": 1757890037,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 115512,
@@ -3347,6 +3379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78177,
+      "num": 78177,
+      "word": "女子接一客服电话50万存款被转走",
+      "onboard_time": 1757883973,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77538,
       "num": 77538,
       "word": "李宇春来自素人回归素人",
@@ -3417,6 +3457,14 @@
       "onboard_time": 1757818942,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 69859,
+      "num": 69859,
+      "word": "xg",
+      "onboard_time": 1757891239,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 62950,
@@ -3579,20 +3627,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50196,
+      "num": 62888,
+      "word": "王楚钦站在台上等官方cue流程",
+      "onboard_time": 1757891600,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49679,
       "num": 120417,
       "word": "易烊千玺myboo返场",
       "onboard_time": 1757783719,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49299,
-      "num": 49299,
-      "word": "男子持铁锤砸路人致1死6伤",
-      "onboard_time": 1757884034,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49281,
@@ -3635,12 +3683,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46777,
+      "num": 62873,
+      "word": "塞维尔世锦赛男子100米金牌",
+      "onboard_time": 1757891659,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44625,
+      "num": 62867,
+      "word": "期待值最高的待播剧",
+      "onboard_time": 1757889798,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44070,
       "num": 103721,
       "word": "Ame 斯温",
       "onboard_time": 1757870297,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43787,
+      "num": 62863,
+      "word": "给王玉雯哄成胚胎了",
+      "onboard_time": 1757885416,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 42691,
@@ -3683,11 +3755,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40110,
-      "num": 40110,
-      "word": "女子接一客服电话50万存款被转走",
-      "onboard_time": 1757883973,
-      "rank": 40,
+      "raw_hot": 38984,
+      "num": 62852,
+      "word": "美的回应一天工作14小时离职被欠薪",
+      "onboard_time": 1757889676,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -3761,14 +3833,6 @@
       "onboard_time": 1757840063,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29286,
-      "num": 38879,
-      "word": "给王玉雯哄成胚胎了",
-      "onboard_time": 1757885416,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 28657,
