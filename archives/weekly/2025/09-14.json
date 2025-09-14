@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757881447446,
+  "endTime": 1757882197730,
   "band_list": [
     {
       "raw_hot": 3238384,
@@ -3969,6 +3969,14 @@
       "onboard_time": 1757881394,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11096,
+      "num": 38098,
+      "word": "千名业主陷商铺包租违约困境",
+      "onboard_time": 1757881453,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
