@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757906970271,
+  "endTime": 1757908405182,
   "band_list": [
     {
       "raw_hot": 3969260,
@@ -25,6 +25,14 @@
       "onboard_time": 1757902701,
       "rank": 10,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2238310,
+      "num": 2238310,
+      "word": "太二酸菜鱼为何没人吃了",
+      "onboard_time": 1757904502,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2100838,
@@ -65,14 +73,6 @@
       "onboard_time": 1757849783,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1582004,
-      "num": 1582004,
-      "word": "太二酸菜鱼为何没人吃了",
-      "onboard_time": 1757904502,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1563618,
@@ -193,6 +193,14 @@
       "onboard_time": 1757771726,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1071091,
+      "num": 1071091,
+      "word": "国庆中秋调休时间安排",
+      "onboard_time": 1757906121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1057094,
@@ -499,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603990,
+      "num": 603990,
+      "word": "袁一琦签约天娱传媒",
+      "onboard_time": 1757905462,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603716,
       "num": 471681,
       "word": "警方回应女子坐评委身上做不雅动作",
       "onboard_time": 1757845282,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590156,
+      "num": 590156,
+      "word": "减肥太猛 显老",
+      "onboard_time": 1757906961,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 587676,
@@ -723,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467733,
+      "num": 467733,
+      "word": "iPhone17系列价格已破发",
+      "onboard_time": 1757905701,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 458945,
       "num": 458945,
       "word": "罗永浩回应西贝客流量增加",
@@ -841,14 +873,6 @@
       "onboard_time": 1757772385,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411304,
-      "num": 411304,
-      "word": "袁一琦签约天娱传媒",
-      "onboard_time": 1757905462,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 407841,
@@ -1003,6 +1027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 355217,
+      "num": 597341,
+      "word": "731",
+      "onboard_time": 1757903181,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 348079,
       "num": 348079,
       "word": "叶舒华低马尾",
@@ -1016,6 +1048,14 @@
       "word": "wwd发了迪丽热巴刘雨昕",
       "onboard_time": 1757895861,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344476,
+      "num": 344476,
+      "word": "李乃文又在哪闯什么祸呢",
+      "onboard_time": 1757903062,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1049,6 +1089,14 @@
       "onboard_time": 1757847083,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336955,
+      "num": 284882,
+      "word": "床上不能停半挂",
+      "onboard_time": 1757904801,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 329168,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1757825303,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303919,
-      "num": 303919,
-      "word": "iPhone17系列价格已破发",
-      "onboard_time": 1757905701,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 303484,
@@ -1235,14 +1275,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 277124,
-      "num": 238017,
-      "word": "床上不能停半挂",
-      "onboard_time": 1757904801,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276853,
       "num": 276853,
       "word": "jiejie",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1757854825,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 259217,
-      "num": 597341,
-      "word": "731",
-      "onboard_time": 1757903181,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 257493,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1757859386,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237243,
-      "num": 237243,
-      "word": "李乃文又在哪闯什么祸呢",
-      "onboard_time": 1757903062,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 236287,
@@ -1675,6 +1691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209137,
+      "num": 209137,
+      "word": "芬芳喜事定档",
+      "onboard_time": 1757906903,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209073,
       "num": 192615,
       "word": "美版iPhone",
@@ -1707,12 +1731,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 207689,
+      "num": 207689,
+      "word": "15岁女孩殒命铁轨案民事一审将开庭",
+      "onboard_time": 1757907142,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206999,
+      "num": 206999,
+      "word": "女子从小攒指甲卖给专门回收者",
+      "onboard_time": 1757906782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206060,
       "num": 206060,
       "word": "成毅10秒处这个连续翻转",
       "onboard_time": 1757862385,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205015,
+      "num": 205015,
+      "word": "孙颖莎用副拍打的决赛",
+      "onboard_time": 1757907683,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 204307,
@@ -1923,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191411,
+      "num": 191411,
+      "word": "孙颖莎 脆升升",
+      "onboard_time": 1757907862,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190008,
       "num": 190008,
       "word": "大姑和大姑父的身体素质太强了",
@@ -1953,14 +2009,6 @@
       "onboard_time": 1757840842,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188669,
-      "num": 238201,
-      "word": "国庆中秋调休时间安排",
-      "onboard_time": 1757906121,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187743,
@@ -2091,6 +2139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176605,
+      "num": 205253,
+      "word": "张晚意可daddy可honey",
+      "onboard_time": 1757907202,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174891,
       "num": 174891,
       "word": "西贝上海中心门店客人流量不降反增",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1757906001,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167137,
+      "num": 167137,
+      "word": "miumiu签了三个00花",
+      "onboard_time": 1757908223,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 166249,
@@ -2395,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156113,
+      "num": 156113,
+      "word": "成毅赴山海质感",
+      "onboard_time": 1757907622,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154721,
       "num": 256616,
       "word": "荆州市原市长周志红被查",
@@ -2523,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146020,
+      "num": 146020,
+      "word": "肖战的魏无羡真的好灵好灵",
+      "onboard_time": 1757908223,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145731,
       "num": 145731,
       "word": "赴山海",
@@ -2643,6 +2723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140990,
+      "num": 140990,
+      "word": "孙燕姿夫妇带女儿逛街",
+      "onboard_time": 1757907262,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140891,
       "num": 361507,
       "word": "张曼玉IP显示仍在中国香港",
@@ -2657,14 +2745,6 @@
       "onboard_time": 1757903120,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139872,
-      "num": 139872,
-      "word": "减肥太猛 显老",
-      "onboard_time": 1757906961,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 139825,
@@ -2697,6 +2777,14 @@
       "onboard_time": 1757779944,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139422,
+      "num": 139422,
+      "word": "他的一天是连小说都不敢写的程度",
+      "onboard_time": 1757908103,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 139384,
@@ -2859,14 +2947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133321,
-      "num": 133321,
-      "word": "芬芳喜事定档",
-      "onboard_time": 1757906903,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133186,
       "num": 133186,
       "word": "王楚钦说和王皓肖战沟通很到位",
@@ -2913,6 +2993,14 @@
       "onboard_time": 1757822481,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130460,
+      "num": 130460,
+      "word": "莫弈枕桂听梦",
+      "onboard_time": 1757907803,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 130043,
@@ -3083,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121483,
+      "num": 147935,
+      "word": "妇联介入扶老人过马路被打飞眼镜事件",
+      "onboard_time": 1757907622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121415,
       "num": 121415,
       "word": "陈丽君月亮姐姐 忘年恋",
@@ -3196,7 +3292,7 @@
     },
     {
       "raw_hot": 114754,
-      "num": 114754,
+      "num": 591335,
       "word": "3人为高薪向间谍报送我军事信息",
       "onboard_time": 1757892380,
       "rank": 26,
@@ -3249,6 +3345,14 @@
       "onboard_time": 1757864125,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111975,
+      "num": 296778,
+      "word": "迪丽热巴反差感",
+      "onboard_time": 1757908042,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 110631,
@@ -3771,14 +3875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88489,
-      "num": 130812,
-      "word": "女子从小攒指甲卖给专门回收者",
-      "onboard_time": 1757906782,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87403,
       "num": 120439,
       "word": "李兰迪露背好辣",
@@ -4123,6 +4219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60269,
+      "num": 149766,
+      "word": "白菜里发现老鼠窝",
+      "onboard_time": 1757907982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60038,
       "num": 60038,
       "word": "女儿上学时和放学时的发型",
@@ -4243,6 +4347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53125,
+      "num": 323525,
+      "word": "高圆圆真会选",
+      "onboard_time": 1757906062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51673,
       "num": 180893,
       "word": "超10万人参加伦敦反移民活动",
@@ -4308,7 +4420,7 @@
     },
     {
       "raw_hot": 47726,
-      "num": 1049917,
+      "num": 1471178,
       "word": "丰收的田野是最美的画卷",
       "onboard_time": 1757858306,
       "rank": 2,
@@ -4387,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38432,
+      "num": 151389,
+      "word": "俄罗斯学生跨境来中国上小学",
+      "onboard_time": 1757908042,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37481,
       "num": 231966,
       "word": "胡先煦玉门关聆听岁月回响",
@@ -4409,14 +4529,6 @@
       "onboard_time": 1757906842,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35601,
-      "num": 270752,
-      "word": "高圆圆真会选",
-      "onboard_time": 1757906062,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 34034,

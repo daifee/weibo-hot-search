@@ -1,0 +1,410 @@
+{
+  "runTime": 1757908405182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3700700,
+        "num": 3700700,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2238310,
+        "num": 2238310,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20164,
+        "num": 1471178,
+        "word": "丰收的田野是最美的画卷",
+        "onboard_time": 1757858306,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1071091,
+        "num": 1071091,
+        "word": "国庆中秋调休时间安排",
+        "onboard_time": 1757906121,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984219,
+        "num": 984219,
+        "word": "雷军 全面对标iPhone",
+        "onboard_time": 1757904380,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 884135,
+        "num": 884135,
+        "word": "支付宝账号解除授权",
+        "onboard_time": 1757891539,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 649905,
+        "num": 649905,
+        "word": "小米17",
+        "onboard_time": 1757902640,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 603990,
+        "num": 603990,
+        "word": "袁一琦签约天娱传媒",
+        "onboard_time": 1757905462,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419001,
+        "num": 595280,
+        "word": "Dior认领",
+        "onboard_time": 1757895262,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69973,
+        "num": 591335,
+        "word": "3人为高薪向间谍报送我军事信息",
+        "onboard_time": 1757892380,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503566,
+        "num": 590410,
+        "word": "贾玲开屏",
+        "onboard_time": 1757901982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590156,
+        "num": 590156,
+        "word": "减肥太猛 显老",
+        "onboard_time": 1757906961,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 467733,
+        "num": 467733,
+        "word": "iPhone17系列价格已破发",
+        "onboard_time": 1757905701,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 355217,
+        "num": 355217,
+        "word": "731",
+        "onboard_time": 1757903181,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344476,
+        "num": 344476,
+        "word": "李乃文又在哪闯什么祸呢",
+        "onboard_time": 1757903062,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329925,
+        "num": 329925,
+        "word": "奥运冠军邓琳琳官宣怀孕",
+        "onboard_time": 1757901261,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53125,
+        "num": 323525,
+        "word": "高圆圆真会选",
+        "onboard_time": 1757906062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322795,
+        "num": 322795,
+        "word": "宋妍霏回应提了24次裙子",
+        "onboard_time": 1757897842,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111975,
+        "num": 296778,
+        "word": "迪丽热巴反差感",
+        "onboard_time": 1757908042,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1692276,
+        "num": 285687,
+        "word": "罗永浩希望与贾国龙当面对话",
+        "onboard_time": 1757902701,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 336955,
+        "num": 284882,
+        "word": "床上不能停半挂",
+        "onboard_time": 1757904801,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271180,
+        "num": 271180,
+        "word": "叶舒华低马尾",
+        "onboard_time": 1757903482,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260033,
+        "num": 260033,
+        "word": "青海黄河源区确认发现秦代刻石",
+        "onboard_time": 1757904681,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244360,
+        "num": 244360,
+        "word": "租房新规今起实施",
+        "onboard_time": 1757893642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226732,
+        "num": 226732,
+        "word": "你以为在备孕实际是避孕的行为",
+        "onboard_time": 1757901201,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209998,
+        "num": 209998,
+        "word": "李沁逐渐俊化",
+        "onboard_time": 1757905522,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209137,
+        "num": 209137,
+        "word": "芬芳喜事定档",
+        "onboard_time": 1757906903,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207689,
+        "num": 207689,
+        "word": "15岁女孩殒命铁轨案民事一审将开庭",
+        "onboard_time": 1757907142,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206999,
+        "num": 206999,
+        "word": "女子从小攒指甲卖给专门回收者",
+        "onboard_time": 1757906782,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176605,
+        "num": 205253,
+        "word": "张晚意可daddy可honey",
+        "onboard_time": 1757907202,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205015,
+        "num": 205015,
+        "word": "孙颖莎用副拍打的决赛",
+        "onboard_time": 1757907683,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191411,
+        "num": 191411,
+        "word": "孙颖莎 脆升升",
+        "onboard_time": 1757907862,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176236,
+        "num": 176236,
+        "word": "雷军正面迎战iPhone",
+        "onboard_time": 1757905821,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169041,
+        "num": 169041,
+        "word": "薛凯琪把LadyGaga歌词穿身上",
+        "onboard_time": 1757905582,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167137,
+        "num": 167137,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156113,
+        "num": 156113,
+        "word": "成毅赴山海质感",
+        "onboard_time": 1757907622,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152968,
+        "num": 152968,
+        "word": "王楚钦重回世1孙颖莎守住世1",
+        "onboard_time": 1757906001,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38432,
+        "num": 151389,
+        "word": "俄罗斯学生跨境来中国上小学",
+        "onboard_time": 1757908042,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60269,
+        "num": 149766,
+        "word": "白菜里发现老鼠窝",
+        "onboard_time": 1757907982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121483,
+        "num": 147935,
+        "word": "妇联介入扶老人过马路被打飞眼镜事件",
+        "onboard_time": 1757907622,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139762,
+        "num": 147581,
+        "word": "wwd发了迪丽热巴刘雨昕",
+        "onboard_time": 1757895861,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146020,
+        "num": 146020,
+        "word": "肖战的魏无羡真的好灵好灵",
+        "onboard_time": 1757908223,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140990,
+        "num": 140990,
+        "word": "孙燕姿夫妇带女儿逛街",
+        "onboard_time": 1757907262,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139422,
+        "num": 139422,
+        "word": "他的一天是连小说都不敢写的程度",
+        "onboard_time": 1757908103,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135481,
+        "num": 135481,
+        "word": "韩国人街头高喊我们是柯克",
+        "onboard_time": 1757900662,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130817,
+        "num": 130817,
+        "word": "中介发布假房源最高可罚10万元",
+        "onboard_time": 1757901441,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132260,
+        "num": 130793,
+        "word": "甲状腺发出的求救信号",
+        "onboard_time": 1757864363,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130460,
+        "num": 130460,
+        "word": "莫弈枕桂听梦",
+        "onboard_time": 1757907803,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130253,
+        "num": 130253,
+        "word": "瑞幸 星穹铁道",
+        "onboard_time": 1757895923,
+        "rank": 48,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 125683,
+        "num": 125683,
+        "word": "731预告",
+        "onboard_time": 1757902822,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

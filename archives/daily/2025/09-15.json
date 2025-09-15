@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757906970271,
+  "endTime": 1757908405182,
   "band_list": [
     {
       "raw_hot": 3969260,
@@ -19,6 +19,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 2238310,
+      "num": 2238310,
+      "word": "太二酸菜鱼为何没人吃了",
+      "onboard_time": 1757904502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1595363,
       "num": 1595363,
       "word": "支付宝账号解除授权",
@@ -27,11 +35,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1582004,
-      "num": 1582004,
-      "word": "太二酸菜鱼为何没人吃了",
-      "onboard_time": 1757904502,
-      "rank": 1,
+      "raw_hot": 1071091,
+      "num": 1071091,
+      "word": "国庆中秋调休时间安排",
+      "onboard_time": 1757906121,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -107,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603990,
+      "num": 603990,
+      "word": "袁一琦签约天娱传媒",
+      "onboard_time": 1757905462,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 601133,
       "num": 280972,
       "word": "iPhone17补贴后售价4999元",
       "onboard_time": 1757858306,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 590156,
+      "num": 590156,
+      "word": "减肥太猛 显老",
+      "onboard_time": 1757906961,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 540146,
@@ -137,6 +161,14 @@
       "onboard_time": 1757864363,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 467733,
+      "num": 467733,
+      "word": "iPhone17系列价格已破发",
+      "onboard_time": 1757905701,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 447283,
@@ -179,14 +211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 411304,
-      "num": 411304,
-      "word": "袁一琦签约天娱传媒",
-      "onboard_time": 1757905462,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 402323,
       "num": 207192,
       "word": "祝绪丹直播哽咽",
@@ -227,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 355217,
+      "num": 597341,
+      "word": "731",
+      "onboard_time": 1757903181,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 348079,
       "num": 348079,
       "word": "叶舒华低马尾",
@@ -241,6 +273,22 @@
       "onboard_time": 1757895861,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344476,
+      "num": 344476,
+      "word": "李乃文又在哪闯什么祸呢",
+      "onboard_time": 1757903062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336955,
+      "num": 284882,
+      "word": "床上不能停半挂",
+      "onboard_time": 1757904801,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 329168,
@@ -275,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 303919,
-      "num": 303919,
-      "word": "iPhone17系列价格已破发",
-      "onboard_time": 1757905701,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 283081,
       "num": 283081,
       "word": "孙颖莎说和王楚钦默契不错",
@@ -297,14 +337,6 @@
       "onboard_time": 1757855965,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277124,
-      "num": 238017,
-      "word": "床上不能停半挂",
-      "onboard_time": 1757904801,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 276742,
@@ -339,14 +371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 259217,
-      "num": 597341,
-      "word": "731",
-      "onboard_time": 1757903181,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 256184,
       "num": 256184,
       "word": "731预告",
@@ -369,14 +393,6 @@
       "onboard_time": 1757860765,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 237243,
-      "num": 237243,
-      "word": "李乃文又在哪闯什么祸呢",
-      "onboard_time": 1757903062,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 231849,
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209137,
+      "num": 209137,
+      "word": "芬芳喜事定档",
+      "onboard_time": 1757906903,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208901,
       "num": 208901,
       "word": "韩国人街头高喊我们是柯克",
@@ -451,12 +475,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 207689,
+      "num": 207689,
+      "word": "15岁女孩殒命铁轨案民事一审将开庭",
+      "onboard_time": 1757907142,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207368,
       "num": 207368,
       "word": "王影璐黄多多可以演姐妹了",
       "onboard_time": 1757856444,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206999,
+      "num": 206999,
+      "word": "女子从小攒指甲卖给专门回收者",
+      "onboard_time": 1757906782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205015,
+      "num": 205015,
+      "word": "孙颖莎用副拍打的决赛",
+      "onboard_time": 1757907683,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 204307,
@@ -483,12 +531,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 188669,
-      "num": 238201,
-      "word": "国庆中秋调休时间安排",
-      "onboard_time": 1757906121,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 191411,
+      "num": 191411,
+      "word": "孙颖莎 脆升升",
+      "onboard_time": 1757907862,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 188507,
@@ -513,6 +561,14 @@
       "onboard_time": 1757865207,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176605,
+      "num": 205253,
+      "word": "张晚意可daddy可honey",
+      "onboard_time": 1757907202,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 174525,
@@ -545,6 +601,14 @@
       "onboard_time": 1757906001,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167137,
+      "num": 167137,
+      "word": "miumiu签了三个00花",
+      "onboard_time": 1757908223,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 164849,
@@ -603,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156113,
+      "num": 156113,
+      "word": "成毅赴山海质感",
+      "onboard_time": 1757907622,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154247,
       "num": 154247,
       "word": "男子持铁锤砸路人致1死6伤",
@@ -633,6 +705,14 @@
       "onboard_time": 1757898503,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146020,
+      "num": 146020,
+      "word": "肖战的魏无羡真的好灵好灵",
+      "onboard_time": 1757908223,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 145579,
@@ -667,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140990,
+      "num": 140990,
+      "word": "孙燕姿夫妇带女儿逛街",
+      "onboard_time": 1757907262,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140219,
       "num": 140219,
       "word": "付辛博不愧是初代选秀出来的",
@@ -675,12 +763,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139872,
-      "num": 139872,
-      "word": "减肥太猛 显老",
-      "onboard_time": 1757906961,
-      "rank": 34,
-      "category": "科学科普"
+      "raw_hot": 139422,
+      "num": 139422,
+      "word": "他的一天是连小说都不敢写的程度",
+      "onboard_time": 1757908103,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 137064,
@@ -707,12 +795,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133321,
-      "num": 133321,
-      "word": "芬芳喜事定档",
-      "onboard_time": 1757906903,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 130460,
+      "num": 130460,
+      "word": "莫弈枕桂听梦",
+      "onboard_time": 1757907803,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 128877,
@@ -771,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121483,
+      "num": 147935,
+      "word": "妇联介入扶老人过马路被打飞眼镜事件",
+      "onboard_time": 1757907622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119738,
       "num": 138001,
       "word": "震耳欲聋",
@@ -796,7 +892,7 @@
     },
     {
       "raw_hot": 114754,
-      "num": 114754,
+      "num": 591335,
       "word": "3人为高薪向间谍报送我军事信息",
       "onboard_time": 1757892380,
       "rank": 26,
@@ -809,6 +905,14 @@
       "onboard_time": 1757865803,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111975,
+      "num": 296778,
+      "word": "迪丽热巴反差感",
+      "onboard_time": 1757908042,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 109594,
@@ -953,14 +1057,6 @@
       "onboard_time": 1757864423,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 88489,
-      "num": 130812,
-      "word": "女子从小攒指甲卖给专门回收者",
-      "onboard_time": 1757906782,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87265,
@@ -1115,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60269,
+      "num": 149766,
+      "word": "白菜里发现老鼠窝",
+      "onboard_time": 1757907982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58893,
       "num": 97480,
       "word": "刘轩丞微博奇遇记现场哄睡",
@@ -1161,6 +1265,14 @@
       "onboard_time": 1757877975,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53125,
+      "num": 323525,
+      "word": "高圆圆真会选",
+      "onboard_time": 1757906062,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 51142,
@@ -1211,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38432,
+      "num": 151389,
+      "word": "俄罗斯学生跨境来中国上小学",
+      "onboard_time": 1757908042,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36527,
       "num": 38928,
       "word": "千名业主陷商铺包租违约困境",
@@ -1227,16 +1347,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35601,
-      "num": 270752,
-      "word": "高圆圆真会选",
-      "onboard_time": 1757906062,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35524,
-      "num": 1049917,
+      "num": 1471178,
       "word": "丰收的田野是最美的画卷",
       "onboard_time": 1757858306,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757906970271,
+  "endTime": 1757908405182,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -691,6 +691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2238310,
+      "num": 2238310,
+      "word": "太二酸菜鱼为何没人吃了",
+      "onboard_time": 1757904502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2214718,
       "num": 1915313,
       "word": "西贝删博",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1757721621,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1582004,
-      "num": 1582004,
-      "word": "太二酸菜鱼为何没人吃了",
-      "onboard_time": 1757904502,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1577744,
@@ -2336,6 +2336,14 @@
       "word": "西贝冷冻蔬菜被误会了",
       "onboard_time": 1757733682,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1071091,
+      "num": 1071091,
+      "word": "国庆中秋调休时间安排",
+      "onboard_time": 1757906121,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5235,6 +5243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 603990,
+      "num": 603990,
+      "word": "袁一琦签约天娱传媒",
+      "onboard_time": 1757905462,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603716,
       "num": 471681,
       "word": "警方回应女子坐评委身上做不雅动作",
@@ -5337,6 +5353,14 @@
       "onboard_time": 1757417723,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590156,
+      "num": 590156,
+      "word": "减肥太猛 显老",
+      "onboard_time": 1757906961,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 590101,
@@ -7075,6 +7099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 467733,
+      "num": 467733,
+      "word": "iPhone17系列价格已破发",
+      "onboard_time": 1757905701,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 467192,
       "num": 467192,
       "word": "刘轩丞",
@@ -8273,14 +8305,6 @@
       "onboard_time": 1757552002,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 411304,
-      "num": 411304,
-      "word": "袁一琦签约天娱传媒",
-      "onboard_time": 1757905462,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 410572,
@@ -9739,6 +9763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 355217,
+      "num": 597341,
+      "word": "731",
+      "onboard_time": 1756962802,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354304,
       "num": 323810,
       "word": "华为发布会",
@@ -9995,6 +10027,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 344476,
+      "num": 344476,
+      "word": "李乃文又在哪闯什么祸呢",
+      "onboard_time": 1757903062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344245,
       "num": 334439,
       "word": "喝咖啡和不喝咖啡的身体差距",
@@ -10209,6 +10249,14 @@
       "onboard_time": 1757083762,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 336955,
+      "num": 284882,
+      "word": "床上不能停半挂",
+      "onboard_time": 1757904801,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 336633,
@@ -11131,14 +11179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303919,
-      "num": 303919,
-      "word": "iPhone17系列价格已破发",
-      "onboard_time": 1757905701,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 303484,
       "num": 270969,
       "word": "园长回应幼儿园开课教擦屁股",
@@ -12059,14 +12099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277124,
-      "num": 238017,
-      "word": "床上不能停半挂",
-      "onboard_time": 1757904801,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 277106,
       "num": 235668,
       "word": "AngelababyG社生频",
@@ -12657,14 +12689,6 @@
       "onboard_time": 1756816761,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 259217,
-      "num": 597341,
-      "word": "731",
-      "onboard_time": 1756962802,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 258967,
@@ -13577,14 +13601,6 @@
       "onboard_time": 1756860326,
       "rank": 38,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 237243,
-      "num": 237243,
-      "word": "李乃文又在哪闯什么祸呢",
-      "onboard_time": 1757903062,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 237228,
@@ -15259,6 +15275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209137,
+      "num": 209137,
+      "word": "芬芳喜事定档",
+      "onboard_time": 1757906903,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209119,
       "num": 204219,
       "word": "王星越这回女主没对象不用抢",
@@ -15435,6 +15459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 207689,
+      "num": 207689,
+      "word": "15岁女孩殒命铁轨案民事一审将开庭",
+      "onboard_time": 1757907142,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207384,
       "num": 392644,
       "word": "苹果新增三款过时产品",
@@ -15473,6 +15505,14 @@
       "onboard_time": 1756859903,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 206999,
+      "num": 206999,
+      "word": "女子从小攒指甲卖给专门回收者",
+      "onboard_time": 1757906782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206986,
@@ -15625,6 +15665,14 @@
       "onboard_time": 1757381840,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205015,
+      "num": 205015,
+      "word": "孙颖莎用副拍打的决赛",
+      "onboard_time": 1757907683,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 204908,
@@ -17459,6 +17507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191411,
+      "num": 191411,
+      "word": "孙颖莎 脆升升",
+      "onboard_time": 1757907862,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191347,
       "num": 191347,
       "word": "刚入职就吃上了前同事留下的瓜",
@@ -17833,14 +17889,6 @@
       "onboard_time": 1757412861,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188669,
-      "num": 238201,
-      "word": "国庆中秋调休时间安排",
-      "onboard_time": 1757906121,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188653,
@@ -19323,6 +19371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176605,
+      "num": 205253,
+      "word": "张晚意可daddy可honey",
+      "onboard_time": 1757907202,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176490,
       "num": 218479,
       "word": "高卿尘淘汰王铮亮偷哭",
@@ -20593,6 +20649,14 @@
       "onboard_time": 1757483545,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 167137,
+      "num": 167137,
+      "word": "miumiu签了三个00花",
+      "onboard_time": 1757908223,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 167119,
@@ -22432,6 +22496,14 @@
       "word": "不二之臣官宣男女主",
       "onboard_time": 1757460200,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156113,
+      "num": 156113,
+      "word": "成毅赴山海质感",
+      "onboard_time": 1757660305,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -24363,6 +24435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146020,
+      "num": 146020,
+      "word": "肖战的魏无羡真的好灵好灵",
+      "onboard_time": 1757908223,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145964,
       "num": 145964,
       "word": "林诗栋vs吴晙诚",
@@ -25459,6 +25539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140990,
+      "num": 140990,
+      "word": "孙燕姿夫妇带女儿逛街",
+      "onboard_time": 1757907262,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140940,
       "num": 162073,
       "word": "刘思远 律师版杨天真",
@@ -25707,14 +25795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139872,
-      "num": 139872,
-      "word": "减肥太猛 显老",
-      "onboard_time": 1757906961,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 139839,
       "num": 139839,
       "word": "u22国足晋级亚洲杯正赛",
@@ -25817,6 +25897,14 @@
       "onboard_time": 1757779944,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139422,
+      "num": 139422,
+      "word": "他的一天是连小说都不敢写的程度",
+      "onboard_time": 1757908103,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 139419,
@@ -27371,14 +27459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133321,
-      "num": 133321,
-      "word": "芬芳喜事定档",
-      "onboard_time": 1757906903,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133190,
       "num": 145071,
       "word": "祁同伟饰演者带服刑人员子女看话剧",
@@ -27985,6 +28065,14 @@
       "onboard_time": 1757423962,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130460,
+      "num": 130460,
+      "word": "莫弈枕桂听梦",
+      "onboard_time": 1757907803,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 130428,
@@ -29080,14 +29168,6 @@
       "word": "小栋哲这回拿的是图南剧本",
       "onboard_time": 1757669663,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 125790,
-      "num": 133022,
-      "word": "成毅赴山海质感",
-      "onboard_time": 1757660305,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -30200,6 +30280,14 @@
       "word": "女子高铁上脱鞋将脚举起做操",
       "onboard_time": 1757328684,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121483,
+      "num": 147935,
+      "word": "妇联介入扶老人过马路被打飞眼镜事件",
+      "onboard_time": 1757907622,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -31764,7 +31852,7 @@
     },
     {
       "raw_hot": 114754,
-      "num": 114754,
+      "num": 591335,
       "word": "3人为高薪向间谍报送我军事信息",
       "onboard_time": 1757892380,
       "rank": 26,
@@ -32497,6 +32585,14 @@
       "onboard_time": 1757377642,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111975,
+      "num": 296778,
+      "word": "迪丽热巴反差感",
+      "onboard_time": 1757908042,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 111956,
@@ -37843,14 +37939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 88489,
-      "num": 130812,
-      "word": "女子从小攒指甲卖给专门回收者",
-      "onboard_time": 1757906782,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88421,
       "num": 236466,
       "word": "假肥牛卷竟是鸭肉做的",
@@ -41691,6 +41779,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 60269,
+      "num": 149766,
+      "word": "白菜里发现老鼠窝",
+      "onboard_time": 1757907982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60103,
       "num": 1068771,
       "word": "在三尺讲台指引我人生起航",
@@ -42547,6 +42643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53125,
+      "num": 323525,
+      "word": "高圆圆真会选",
+      "onboard_time": 1757906062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53042,
       "num": 94955,
       "word": "游客在涠洲岛沙滩上捡到采血管",
@@ -43100,7 +43204,7 @@
     },
     {
       "raw_hot": 47726,
-      "num": 1049917,
+      "num": 1471178,
       "word": "丰收的田野是最美的画卷",
       "onboard_time": 1757858306,
       "rank": 2,
@@ -43955,6 +44059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38432,
+      "num": 151389,
+      "word": "俄罗斯学生跨境来中国上小学",
+      "onboard_time": 1757908042,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38429,
       "num": 38429,
       "word": "军旗",
@@ -44217,14 +44329,6 @@
       "onboard_time": 1757068282,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35601,
-      "num": 270752,
-      "word": "高圆圆真会选",
-      "onboard_time": 1757906062,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 35406,
