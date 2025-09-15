@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757928557035,
+  "endTime": 1757929323190,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 790200,
+      "num": 326335,
+      "word": "父亲因彩礼收走女儿手机阻止结婚",
+      "onboard_time": 1757925981,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 783655,
       "num": 783655,
       "word": "小米17 王腾",
@@ -267,15 +275,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 564217,
-      "num": 326335,
-      "word": "父亲因彩礼收走女儿手机阻止结婚",
-      "onboard_time": 1757925981,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559994,
+      "raw_hot": 564698,
       "num": 324445,
       "word": "唐嫣裙子勒得动不了",
       "onboard_time": 1757925202,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 336235,
-      "num": 320097,
+      "num": 326983,
       "word": "小S确认将出席金钟奖",
       "onboard_time": 1757927782,
       "rank": 13,
@@ -764,7 +764,7 @@
     },
     {
       "raw_hot": 241705,
-      "num": 207854,
+      "num": 227794,
       "word": "涉嫌性侵江祖平的男子被拘捕",
       "onboard_time": 1757926403,
       "rank": 20,
@@ -849,6 +849,14 @@
       "onboard_time": 1757909423,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213776,
+      "num": 213776,
+      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+      "onboard_time": 1757925202,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 212282,
@@ -947,14 +955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200872,
-      "num": 200872,
-      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
-      "onboard_time": 1757925202,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200371,
       "num": 200371,
       "word": "朱志鑫anti声中面不改色",
@@ -969,6 +969,14 @@
       "onboard_time": 1757905281,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198309,
+      "num": 198309,
+      "word": "上海学生餐",
+      "onboard_time": 1757927903,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198259,
@@ -1024,6 +1032,14 @@
       "word": "祝绪丹回应直播哽咽",
       "onboard_time": 1757909423,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192058,
+      "num": 192058,
+      "word": "谁给肖战递个悬疑本子",
+      "onboard_time": 1757928681,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1201,6 +1217,14 @@
       "onboard_time": 1757914102,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171448,
+      "num": 151720,
+      "word": "和摩尔庄园认识的男朋友结婚了",
+      "onboard_time": 1757928203,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 171430,
@@ -1419,14 +1443,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 149855,
-      "num": 149855,
-      "word": "上海学生餐",
-      "onboard_time": 1757927903,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149417,
       "num": 172510,
       "word": "张晚意的刘海好像手机屏幕",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1757898503,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147203,
+      "num": 147203,
+      "word": "期待不高但去了巨惊艳的旅行地",
+      "onboard_time": 1757928982,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 146571,
@@ -1667,8 +1691,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125144,
+      "num": 125144,
+      "word": "李晟控诉祝绪丹眼里只有王珞丹",
+      "onboard_time": 1757928861,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125088,
-      "num": 211028,
+      "num": 230091,
       "word": "拼多多十周年百亿补贴iPhone加补",
       "onboard_time": 1757927481,
       "rank": 18,
@@ -1697,14 +1729,6 @@
       "onboard_time": 1757913862,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123952,
-      "num": 123952,
-      "word": "和摩尔庄园认识的男朋友结婚了",
-      "onboard_time": 1757928203,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 123505,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1757915902,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116446,
+      "num": 327332,
+      "word": "外交部回应美国要求北约对华加税",
+      "onboard_time": 1757927542,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115512,
@@ -1971,20 +2003,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101613,
+      "num": 101613,
+      "word": "无框眼镜才是文咏珊的统治区",
+      "onboard_time": 1757928504,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100415,
+      "num": 100415,
+      "word": "郑恺不知道今天节目官宣",
+      "onboard_time": 1757929102,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99687,
       "num": 131628,
       "word": "王楚钦孙颖莎使出吃奶的劲儿按手印",
       "onboard_time": 1757906422,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99217,
-      "num": 327332,
-      "word": "外交部回应美国要求北约对华加税",
-      "onboard_time": 1757927542,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98505,
@@ -2001,14 +2041,6 @@
       "onboard_time": 1757927363,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97993,
-      "num": 97993,
-      "word": "无框眼镜才是文咏珊的统治区",
-      "onboard_time": 1757928504,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 97969,
@@ -2355,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58925,
+      "num": 116659,
+      "word": "刘宇宁嘴噘出了二里地",
+      "onboard_time": 1757928802,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58893,
       "num": 97480,
       "word": "刘轩丞微博奇遇记现场哄睡",
@@ -2483,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41677,
+      "num": 247717,
+      "word": "美国让风平浪静的南海不得安宁",
+      "onboard_time": 1757928743,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39338,
       "num": 144657,
       "word": "3名间谍冒充外卖员钓鱼佬",
@@ -2603,20 +2651,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23561,
+      "num": 233484,
+      "word": "高德征集美食照片奖全年免费吃",
+      "onboard_time": 1757927302,
+      "rank": 17,
+      "category": "互联网,美食"
+    },
+    {
       "raw_hot": 23520,
       "num": 55365,
       "word": "汪苏泷粉色丝绒造型看起来好香",
       "onboard_time": 1757877975,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23263,
-      "num": 215129,
-      "word": "高德征集美食照片奖全年免费吃",
-      "onboard_time": 1757927302,
-      "rank": 17,
-      "category": "互联网,美食"
     },
     {
       "raw_hot": 23070,
@@ -2673,6 +2721,14 @@
       "onboard_time": 1757872036,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8907,
+      "num": 559491,
+      "word": "海军最新招飞大片看燃了",
+      "onboard_time": 1757899280,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 7941,

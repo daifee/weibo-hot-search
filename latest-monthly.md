@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 17:29:17
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 17:42:03
 </p>
 </blockquote>
 <p>
@@ -2859,6 +2859,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%A0%E5%BD%A9%E7%A4%BC%E6%94%B6%E8%B5%B0%E5%A5%B3%E5%84%BF%E6%89%8B%E6%9C%BA%E9%98%BB%E6%AD%A2%E7%BB%93%E5%A9%9A%23" target="weibo">
+父亲因彩礼收走女儿手机阻止结婚（热度：790200）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%9A%E6%98%AF%E4%B8%83%E4%B8%AA%E8%9B%8B%20%E6%95%A3%E6%98%AF%E9%B8%A1%E8%9B%8B%E7%BE%B9%23" target="weibo">
 聚是七个蛋 散是鸡蛋羹（热度：790143）
 </a>
@@ -4359,8 +4365,8 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%A0%E5%BD%A9%E7%A4%BC%E6%94%B6%E8%B5%B0%E5%A5%B3%E5%84%BF%E6%89%8B%E6%9C%BA%E9%98%BB%E6%AD%A2%E7%BB%93%E5%A9%9A%23" target="weibo">
-父亲因彩礼收走女儿手机阻止结婚（热度：564217）
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%A3%99%E5%AD%90%E5%8B%92%E5%BE%97%E5%8A%A8%E4%B8%8D%E4%BA%86%23" target="weibo">
+唐嫣裙子勒得动不了（热度：564698）
 </a>
 </li>
 
@@ -4409,12 +4415,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A6%82%E9%83%AD%E6%95%AC%E6%98%8E%23" target="weibo">
 不如郭敬明（热度：560071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%A3%99%E5%AD%90%E5%8B%92%E5%BE%97%E5%8A%A8%E4%B8%8D%E4%BA%86%23" target="weibo">
-唐嫣裙子勒得动不了（热度：559994）
 </a>
 </li>
 
