@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757919075518,
+  "endTime": 1757921170895,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4179,6 +4179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 731902,
+      "num": 568570,
+      "word": "西贝鳕鱼条 大黄鱼",
+      "onboard_time": 1757916024,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 731675,
       "num": 370852,
       "word": "浙这个字居然组不了任何词",
@@ -5203,6 +5211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 619568,
+      "num": 619568,
+      "word": "学中医女生把到爷爷死脉",
+      "onboard_time": 1757918662,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619295,
       "num": 902525,
       "word": "暗杀柯克的凶手确认身份",
@@ -5705,14 +5721,6 @@
       "onboard_time": 1757495484,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 568570,
-      "num": 568570,
-      "word": "西贝鳕鱼条 大黄鱼",
-      "onboard_time": 1757916024,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 567621,
@@ -9083,6 +9091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 385645,
+      "num": 385645,
+      "word": "日料 预制",
+      "onboard_time": 1757917403,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385497,
       "num": 385497,
       "word": "美国出动10架F35",
@@ -10211,6 +10227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343871,
+      "num": 343871,
+      "word": "KiMi已经16岁了",
+      "onboard_time": 1757920342,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343762,
       "num": 343762,
       "word": "赴山海爆炸式宣发",
@@ -10985,6 +11009,14 @@
       "onboard_time": 1757913505,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318035,
+      "num": 430218,
+      "word": "西贝全国门店陆续完成调整",
+      "onboard_time": 1757917642,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 317898,
@@ -11777,14 +11809,6 @@
       "onboard_time": 1757739623,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291007,
-      "num": 430218,
-      "word": "西贝全国门店陆续完成调整",
-      "onboard_time": 1757917642,
-      "rank": 9,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 290827,
@@ -13331,6 +13355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247529,
+      "num": 247529,
+      "word": "李昀锐地铁老人看手机古装版",
+      "onboard_time": 1757917583,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247278,
       "num": 247278,
       "word": "瑞幸星穹铁道联名",
@@ -13529,6 +13561,14 @@
       "onboard_time": 1756877308,
       "rank": 47,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 242637,
+      "num": 351454,
+      "word": "骗子送400万余额银行卡",
+      "onboard_time": 1757919141,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242449,
@@ -14105,6 +14145,14 @@
       "onboard_time": 1757161463,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232497,
+      "num": 232497,
+      "word": "8个月婴儿没喝茶被收茶位费",
+      "onboard_time": 1757918782,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232335,
@@ -15385,14 +15433,6 @@
       "onboard_time": 1757053340,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211932,
-      "num": 211932,
-      "word": "日料 预制",
-      "onboard_time": 1757917403,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211896,
@@ -17033,6 +17073,14 @@
       "onboard_time": 1757646986,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196238,
+      "num": 240014,
+      "word": "辛芷蕾入行是因为甄子丹",
+      "onboard_time": 1757920042,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 196200,
@@ -19587,6 +19635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177494,
+      "num": 143981,
+      "word": "长春两女子被戴手铐带走",
+      "onboard_time": 1757919801,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177484,
       "num": 177484,
       "word": "柯尔鸭身价暴跌",
@@ -20177,6 +20233,14 @@
       "onboard_time": 1757730143,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172788,
+      "num": 172788,
+      "word": "一直不谈恋爱能等到更好的人吗",
+      "onboard_time": 1757916024,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 172761,
@@ -21219,14 +21283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166121,
-      "num": 166121,
-      "word": "李昀锐地铁老人看手机古装版",
-      "onboard_time": 1757917583,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166082,
       "num": 166082,
       "word": "马龙王楚钦等看完阅兵交作业了",
@@ -21849,6 +21905,14 @@
       "onboard_time": 1757333302,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 162398,
+      "num": 162398,
+      "word": "成毅电影营救汪星人近期会上映",
+      "onboard_time": 1757919922,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 162394,
@@ -24675,14 +24739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146985,
-      "num": 146985,
-      "word": "一直不谈恋爱能等到更好的人吗",
-      "onboard_time": 1757916024,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146945,
       "num": 168374,
       "word": "玫瑰花也爱喝汽水",
@@ -25609,6 +25665,14 @@
       "onboard_time": 1757064501,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143001,
+      "num": 143001,
+      "word": "可以上1休29吗",
+      "onboard_time": 1757919561,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 142969,
@@ -27707,14 +27771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134212,
-      "num": 134212,
-      "word": "学中医女生把到爷爷死脉",
-      "onboard_time": 1757918662,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134153,
       "num": 202911,
       "word": "女子潜水被遗忘海上漂了45分钟",
@@ -27737,14 +27793,6 @@
       "onboard_time": 1756711581,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134033,
-      "num": 134033,
-      "word": "8个月婴儿没喝茶被收茶位费",
-      "onboard_time": 1757918782,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134026,
@@ -27849,6 +27897,14 @@
       "onboard_time": 1757844082,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133625,
+      "num": 143137,
+      "word": "久酷登场KPL六周年",
+      "onboard_time": 1757920463,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 133567,
@@ -34427,6 +34483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107564,
+      "num": 107564,
+      "word": "初代琼瑶女郎爆改精神老奶",
+      "onboard_time": 1757920943,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107538,
       "num": 110466,
       "word": "小酒窝的作业是佟丽娅盯着写的",
@@ -36171,6 +36235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100109,
+      "num": 100109,
+      "word": "孙颖莎王楚钦夺冠接连发文",
+      "onboard_time": 1757920883,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100108,
       "num": 136107,
       "word": "刘国梁说爱我中华",
@@ -37291,6 +37363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95965,
+      "num": 95965,
+      "word": "毛不易疑似误入仙家对话",
+      "onboard_time": 1757920823,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95948,
       "num": 95948,
       "word": "TES好强",
@@ -37769,6 +37849,14 @@
       "onboard_time": 1757202319,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93194,
+      "num": 93194,
+      "word": "一诺真诚才是必杀技",
+      "onboard_time": 1757921002,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 93180,
@@ -39187,6 +39275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84860,
+      "num": 84860,
+      "word": "小狗伪装出的人类没有尾巴",
+      "onboard_time": 1757921002,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84842,
       "num": 328265,
       "word": "中小学生午休课桌椅国标出台",
@@ -39945,6 +40041,14 @@
       "onboard_time": 1756992083,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80577,
+      "num": 80577,
+      "word": "祝绪丹录浪姐团综爆哭3小时",
+      "onboard_time": 1757921063,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 80574,
@@ -43713,6 +43817,14 @@
       "onboard_time": 1757336122,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48971,
+      "num": 238573,
+      "word": "孙颖莎有实力自然出众",
+      "onboard_time": 1757919861,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 48905,

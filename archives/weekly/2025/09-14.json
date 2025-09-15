@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757919075518,
+  "endTime": 1757921170895,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 731902,
+      "num": 568570,
+      "word": "西贝鳕鱼条 大黄鱼",
+      "onboard_time": 1757916024,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 731502,
       "num": 731502,
       "word": "肖战的魏无羡真的好灵好灵",
@@ -587,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619568,
+      "num": 619568,
+      "word": "学中医女生把到爷爷死脉",
+      "onboard_time": 1757918662,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 606589,
       "num": 368957,
       "word": "宋妍霏回应提了24次裙子",
@@ -624,14 +640,6 @@
       "word": "男子肛门藏含大麻电子烟入境被查",
       "onboard_time": 1757859566,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568570,
-      "num": 568570,
-      "word": "西贝鳕鱼条 大黄鱼",
-      "onboard_time": 1757916024,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1091,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385645,
+      "num": 385645,
+      "word": "日料 预制",
+      "onboard_time": 1757917403,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383857,
       "num": 383857,
       "word": "凌晨1点到3点必须要睡觉的重要性",
@@ -1219,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343871,
+      "num": 343871,
+      "word": "KiMi已经16岁了",
+      "onboard_time": 1757920342,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343120,
       "num": 343120,
       "word": "女子在瓜地发现东西瓜",
@@ -1307,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318035,
+      "num": 430218,
+      "word": "西贝全国门店陆续完成调整",
+      "onboard_time": 1757917642,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 316452,
       "num": 193575,
       "word": "西贝厨师长称转基因大豆油用于员工餐",
@@ -1393,14 +1425,6 @@
       "onboard_time": 1757910086,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 291007,
-      "num": 430218,
-      "word": "西贝全国门店陆续完成调整",
-      "onboard_time": 1757917642,
-      "rank": 9,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 288492,
@@ -1651,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247529,
+      "num": 247529,
+      "word": "李昀锐地铁老人看手机古装版",
+      "onboard_time": 1757917583,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245733,
       "num": 245733,
       "word": "陈都灵被踩裙子一直说没关系",
@@ -1663,6 +1695,14 @@
       "num": 242995,
       "word": "餐厅预制菜需明示",
       "onboard_time": 1757750363,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242637,
+      "num": 351454,
+      "word": "骗子送400万余额银行卡",
+      "onboard_time": 1757919141,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -1737,6 +1777,14 @@
       "onboard_time": 1757833643,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232497,
+      "num": 232497,
+      "word": "8个月婴儿没喝茶被收茶位费",
+      "onboard_time": 1757918782,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231849,
@@ -1928,14 +1976,6 @@
       "word": "西贝从今以后打明牌",
       "onboard_time": 1757915784,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211932,
-      "num": 211932,
-      "word": "日料 预制",
-      "onboard_time": 1757917403,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2153,6 +2193,14 @@
       "onboard_time": 1757818162,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196238,
+      "num": 240014,
+      "word": "辛芷蕾入行是因为甄子丹",
+      "onboard_time": 1757920042,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 194570,
@@ -2467,6 +2515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177494,
+      "num": 143981,
+      "word": "长春两女子被戴手铐带走",
+      "onboard_time": 1757919801,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177117,
       "num": 177117,
       "word": "jiayou a chunyu",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1757908883,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172788,
+      "num": 172788,
+      "word": "一直不谈恋爱能等到更好的人吗",
+      "onboard_time": 1757916024,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 172196,
@@ -2643,14 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166121,
-      "num": 166121,
-      "word": "李昀锐地铁老人看手机古装版",
-      "onboard_time": 1757917583,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165447,
       "num": 165447,
       "word": "予爱未名",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1757759544,
       "rank": 19,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 162398,
+      "num": 162398,
+      "word": "成毅电影营救汪星人近期会上映",
+      "onboard_time": 1757919922,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 161929,
@@ -3043,14 +3107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146985,
-      "num": 146985,
-      "word": "一直不谈恋爱能等到更好的人吗",
-      "onboard_time": 1757916024,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146773,
       "num": 146773,
       "word": "wei",
@@ -3169,6 +3225,14 @@
       "onboard_time": 1757902161,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143001,
+      "num": 143001,
+      "word": "可以上1休29吗",
+      "onboard_time": 1757919561,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 142811,
@@ -3387,27 +3451,11 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 134212,
-      "num": 134212,
-      "word": "学中医女生把到爷爷死脉",
-      "onboard_time": 1757918662,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134153,
       "num": 202911,
       "word": "女子潜水被遗忘海上漂了45分钟",
       "onboard_time": 1757859446,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134033,
-      "num": 134033,
-      "word": "8个月婴儿没喝茶被收茶位费",
-      "onboard_time": 1757918782,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3425,6 +3473,14 @@
       "onboard_time": 1757844082,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133625,
+      "num": 143137,
+      "word": "久酷登场KPL六周年",
+      "onboard_time": 1757920463,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 133509,
@@ -4043,6 +4099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107564,
+      "num": 107564,
+      "word": "初代琼瑶女郎爆改精神老奶",
+      "onboard_time": 1757920943,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106819,
       "num": 120550,
       "word": "那英没有版权就让龚俊唱",
@@ -4235,6 +4299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100109,
+      "num": 100109,
+      "word": "孙颖莎王楚钦夺冠接连发文",
+      "onboard_time": 1757920883,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100066,
       "num": 100066,
       "word": "唐嫣获奖当天又资助了一位藏族女大学生",
@@ -4379,6 +4451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95965,
+      "num": 95965,
+      "word": "毛不易疑似误入仙家对话",
+      "onboard_time": 1757920823,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95900,
       "num": 95900,
       "word": "梁小静无缘100米半决赛",
@@ -4401,6 +4481,14 @@
       "onboard_time": 1757842702,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93194,
+      "num": 93194,
+      "word": "一诺真诚才是必杀技",
+      "onboard_time": 1757921002,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 93107,
@@ -4523,6 +4611,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 84860,
+      "num": 84860,
+      "word": "小狗伪装出的人类没有尾巴",
+      "onboard_time": 1757921002,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84409,
       "num": 84409,
       "word": "让沈腾宋亚轩演父子的人简直是个天才",
@@ -4577,6 +4673,14 @@
       "onboard_time": 1757777423,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80577,
+      "num": 80577,
+      "word": "祝绪丹录浪姐团综爆哭3小时",
+      "onboard_time": 1757921063,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 80388,
@@ -5043,6 +5147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48971,
+      "num": 238573,
+      "word": "孙颖莎有实力自然出众",
+      "onboard_time": 1757919861,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48877,
       "num": 120323,
       "word": "孙颖莎vs迪亚兹",
@@ -5219,6 +5331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30399,
+      "num": 1651814,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1757910925,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30090,
       "num": 68477,
       "word": "李宇春演唱会来了好多大王",
@@ -5337,14 +5457,6 @@
       "onboard_time": 1757880915,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23781,
-      "num": 1651814,
-      "word": "砥砺奋进七十载天山南北谱华章",
-      "onboard_time": 1757910925,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23520,
