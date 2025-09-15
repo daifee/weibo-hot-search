@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757910649308,
+  "endTime": 1757911434244,
   "band_list": [
     {
       "raw_hot": 3969260,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1672355,
-      "num": 1672355,
+      "raw_hot": 1727325,
+      "num": 1727325,
       "word": "miumiu签了三个00花",
       "onboard_time": 1757908223,
       "rank": 34,
@@ -83,8 +83,16 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 805162,
-      "num": 805162,
+      "raw_hot": 837802,
+      "num": 589316,
+      "word": "赵本山女儿回应哥哥不争气",
+      "onboard_time": 1757908522,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 815263,
+      "num": 815263,
       "word": "731",
       "onboard_time": 1757903181,
       "rank": 7,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 731502,
+      "num": 731502,
+      "word": "肖战的魏无羡真的好灵好灵",
+      "onboard_time": 1757908223,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 718338,
       "num": 337812,
       "word": "武林外传",
@@ -121,14 +137,6 @@
       "onboard_time": 1757901982,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 703887,
-      "num": 703887,
-      "word": "肖战的魏无羡真的好灵好灵",
-      "onboard_time": 1757908223,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 677844,
@@ -161,14 +169,6 @@
       "onboard_time": 1757858306,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 554878,
-      "num": 554878,
-      "word": "赵本山女儿回应哥哥不争气",
-      "onboard_time": 1757908522,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 540146,
@@ -267,6 +267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377645,
+      "num": 377645,
+      "word": "孙颖莎 脆升升",
+      "onboard_time": 1757907862,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 370227,
+      "num": 370227,
+      "word": "炎亚纶不像演的",
+      "onboard_time": 1757910143,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367202,
       "num": 277352,
       "word": "林心如霍建华还在磨合中",
@@ -275,20 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366400,
-      "num": 366400,
-      "word": "孙颖莎 脆升升",
-      "onboard_time": 1757907862,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 358858,
       "num": 280429,
       "word": "没人告诉世界第二网红干团播这么累吗",
       "onboard_time": 1757863345,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 349842,
+      "num": 298430,
+      "word": "喜欢吃大闸蟹嘴真严啊",
+      "onboard_time": 1757910384,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 348079,
@@ -355,20 +371,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298430,
-      "num": 298430,
-      "word": "喜欢吃大闸蟹嘴真严啊",
-      "onboard_time": 1757910384,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 285456,
-      "num": 285456,
+      "raw_hot": 296234,
+      "num": 296234,
       "word": "他的一天是连小说都不敢写的程度",
       "onboard_time": 1757908103,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293660,
+      "num": 293660,
+      "word": "男子19岁继承百万遗产却日渐崩溃",
+      "onboard_time": 1757910086,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 289931,
+      "num": 277871,
+      "word": "赴山海新款内娱长剧错题本",
+      "onboard_time": 1757910384,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 283081,
@@ -427,8 +451,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 262322,
-      "num": 214829,
+      "raw_hot": 262824,
+      "num": 262824,
       "word": "第一次用代下单KFC感觉自己好丢人",
       "onboard_time": 1757909603,
       "rank": 30,
@@ -491,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224803,
+      "num": 224803,
+      "word": "姜潮说孩子第二麦迪娜第一",
+      "onboard_time": 1757910266,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218986,
       "num": 218986,
       "word": "2岁女童失踪超10天母亲发声",
@@ -505,14 +537,6 @@
       "onboard_time": 1757899460,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218463,
-      "num": 218463,
-      "word": "炎亚纶不像演的",
-      "onboard_time": 1757910143,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 217784,
@@ -619,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192009,
+      "num": 192009,
+      "word": "心动的信号8",
+      "onboard_time": 1757910925,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188507,
       "num": 188507,
       "word": "李晟说祝绪丹气太多了",
@@ -635,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186441,
-      "num": 186441,
-      "word": "姜潮说孩子第二麦迪娜第一",
-      "onboard_time": 1757910266,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184990,
       "num": 184990,
       "word": "游泳是一场直面恐惧的修行",
@@ -651,12 +675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181999,
-      "num": 181999,
-      "word": "赴山海新款内娱长剧错题本",
-      "onboard_time": 1757910384,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 183156,
+      "num": 183156,
+      "word": "纽约坐地铁偶遇黄多多",
+      "onboard_time": 1757910203,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 177117,
@@ -707,12 +731,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171430,
+      "num": 171430,
+      "word": "小米17比上一代提前了1个月发布",
+      "onboard_time": 1757910804,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 168278,
+      "num": 173122,
+      "word": "王楚钦夺冠背后有隐忧",
+      "onboard_time": 1757910985,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167655,
       "num": 167655,
       "word": "王楚钦重回世1孙颖莎守住世1",
       "onboard_time": 1757906001,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165447,
+      "num": 165447,
+      "word": "予爱未名",
+      "onboard_time": 1757911226,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 164849,
@@ -729,14 +777,6 @@
       "onboard_time": 1757901561,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164219,
-      "num": 164219,
-      "word": "纽约坐地铁偶遇黄多多",
-      "onboard_time": 1757910203,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 163959,
@@ -833,6 +873,14 @@
       "onboard_time": 1757898503,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147865,
+      "num": 363206,
+      "word": "国庆中秋双节放假8天",
+      "onboard_time": 1757911105,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145579,
@@ -979,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120500,
-      "num": 182100,
-      "word": "男子19岁继承百万遗产却日渐崩溃",
-      "onboard_time": 1757910086,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 119738,
       "num": 138001,
       "word": "震耳欲聋",
@@ -1019,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114332,
+      "num": 182410,
+      "word": "樊振东的开心要溢出屏幕了",
+      "onboard_time": 1757909965,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113471,
       "num": 113471,
       "word": "陈小春对热狗贴脸开大",
@@ -1028,7 +1076,7 @@
     },
     {
       "raw_hot": 111975,
-      "num": 298513,
+      "num": 344771,
       "word": "迪丽热巴反差感",
       "onboard_time": 1757908042,
       "rank": 18,
@@ -1057,14 +1105,6 @@
       "onboard_time": 1757896222,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107281,
-      "num": 182410,
-      "word": "樊振东的开心要溢出屏幕了",
-      "onboard_time": 1757909965,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 106208,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1757894662,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100322,
+      "num": 172510,
+      "word": "张晚意的刘海好像手机屏幕",
+      "onboard_time": 1757911343,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 99687,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1757853984,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82495,
+      "num": 189245,
+      "word": "这届年轻人开始继承老爸的老车了",
+      "onboard_time": 1757911105,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 80692,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1757901742,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63127,
+      "num": 172464,
+      "word": "陈赫皮下不是脂肪全是窝囊气",
+      "onboard_time": 1757911165,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 62787,
@@ -1537,6 +1601,14 @@
       "onboard_time": 1757880915,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23781,
+      "num": 1651814,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1757910925,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23520,
