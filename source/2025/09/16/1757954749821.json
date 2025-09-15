@@ -1,0 +1,410 @@
+{
+  "runTime": 1757954749821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 942699,
+        "num": 942699,
+        "word": "官方通报52岁女子中毒身亡",
+        "onboard_time": 1757949624,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 527578,
+        "num": 527578,
+        "word": "赴山海 剧本穿帮",
+        "onboard_time": 1757941463,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3384,
+        "num": 492440,
+        "word": "海军最新招飞大片看燃了",
+        "onboard_time": 1757899280,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 491197,
+        "num": 491197,
+        "word": "中国绝不以牺牲企业利益为代价",
+        "onboard_time": 1757950704,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 490573,
+        "num": 490573,
+        "word": "中美就TikTok等问题进行了沟通",
+        "onboard_time": 1757950704,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 929001,
+        "num": 450837,
+        "word": "成毅 别浪费你的会员了",
+        "onboard_time": 1757947646,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285767,
+        "num": 285767,
+        "word": "女子卫生巾内藏674.7克足金",
+        "onboard_time": 1757947526,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255570,
+        "num": 255570,
+        "word": "中美马德里经贸会谈成果公布",
+        "onboard_time": 1757951063,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197335,
+        "num": 197335,
+        "word": "女子踩到氢氟酸现场已无害化处置",
+        "onboard_time": 1757952202,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117962,
+        "num": 197051,
+        "word": "表面沉迷游戏实则北大清华",
+        "onboard_time": 1757948185,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 986173,
+        "num": 196791,
+        "word": "涉毒艺人苏永康将在温州办演唱会",
+        "onboard_time": 1757946926,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650843,
+        "num": 195815,
+        "word": "官方回应涉毒艺人办演唱会遭投诉",
+        "onboard_time": 1757946926,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323988,
+        "num": 195276,
+        "word": "女子散步时踩到氢氟酸后去世",
+        "onboard_time": 1757933182,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218643,
+        "num": 195135,
+        "word": "成毅说观众就是我的老师",
+        "onboard_time": 1757952202,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213779,
+        "num": 194154,
+        "word": "女孩子黄体破裂后到底有多严重",
+        "onboard_time": 1757945064,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194122,
+        "num": 194122,
+        "word": "马嘉祺丁程鑫一起看话剧",
+        "onboard_time": 1757952742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183783,
+        "num": 194118,
+        "word": "杨幂走红毯带着公司艺人增加曝光",
+        "onboard_time": 1757951841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175026,
+        "num": 194077,
+        "word": "原来李佳航让李晟尴尬的求婚长这样",
+        "onboard_time": 1757941823,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130288,
+        "num": 194060,
+        "word": "肖战和谁搭档会让你眼前一亮",
+        "onboard_time": 1757938522,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127631,
+        "num": 194040,
+        "word": "父母情绪不稳定孩子切忌自责",
+        "onboard_time": 1757943865,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256934,
+        "num": 194003,
+        "word": "被擦妆5次艺考生开学了",
+        "onboard_time": 1757938162,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 158755,
+        "num": 193987,
+        "word": "杨幂还是太体面了",
+        "onboard_time": 1757924123,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143282,
+        "num": 193973,
+        "word": "苹果iOS26正式版液态玻璃设计引争议",
+        "onboard_time": 1757950164,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131007,
+        "num": 193947,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109782,
+        "num": 193920,
+        "word": "梁婷说签约演员里唯一赚钱的是尹正",
+        "onboard_time": 1757938583,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100222,
+        "num": 193885,
+        "word": "央视专访孙颖莎王楚钦",
+        "onboard_time": 1757952922,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98395,
+        "num": 193875,
+        "word": "KiMi已经16岁了",
+        "onboard_time": 1757920342,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88034,
+        "num": 193840,
+        "word": "着眼中美经贸大局坚持平等互惠原则",
+        "onboard_time": 1757952081,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98095,
+        "num": 193823,
+        "word": "辛芷蕾曾因解约纠纷9个月无戏可拍",
+        "onboard_time": 1757950943,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82693,
+        "num": 193798,
+        "word": "深圳市民捡到2267.83克巨型金条",
+        "onboard_time": 1757931441,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81709,
+        "num": 193779,
+        "word": "卖房救重病男友发现他没病还已婚",
+        "onboard_time": 1757948485,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80569,
+        "num": 193747,
+        "word": "运动瘦vs饿瘦",
+        "onboard_time": 1757933122,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74142,
+        "num": 193732,
+        "word": "BLG战胜TES",
+        "onboard_time": 1757944284,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73293,
+        "num": 193702,
+        "word": "家长质疑收费被班主任群内恐吓",
+        "onboard_time": 1757944225,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73212,
+        "num": 193674,
+        "word": "瑞达",
+        "onboard_time": 1757944406,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67796,
+        "num": 193664,
+        "word": "Bin 世界赛我们来了",
+        "onboard_time": 1757944284,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67459,
+        "num": 193644,
+        "word": "赵本山不让女儿签婚前协议",
+        "onboard_time": 1757936962,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62590,
+        "num": 193617,
+        "word": "杨帆 众合",
+        "onboard_time": 1757922805,
+        "rank": 37,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 59557,
+        "num": 193595,
+        "word": "杨帆解约函",
+        "onboard_time": 1757948304,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 55154,
+        "num": 193555,
+        "word": "刘亦菲真正的亲妈视角",
+        "onboard_time": 1757932883,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54036,
+        "num": 193526,
+        "word": "闫妮岁月不败美人具像化了",
+        "onboard_time": 1757947646,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53022,
+        "num": 193505,
+        "word": "湾区升明月晚会又来啦",
+        "onboard_time": 1757940262,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50064,
+        "num": 193502,
+        "word": "东风61霸气亮相火箭军直招宣传片",
+        "onboard_time": 1757948726,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49370,
+        "num": 193474,
+        "word": "二次元人气排名女角色霸榜",
+        "onboard_time": 1757950525,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 49125,
+        "num": 193436,
+        "word": "赴山海",
+        "onboard_time": 1757931863,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47333,
+        "num": 193426,
+        "word": "摆脱内耗要从建立主体性开始",
+        "onboard_time": 1757953461,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45649,
+        "num": 193404,
+        "word": "张凌赫又开始帮粉丝选发色了",
+        "onboard_time": 1757937142,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43776,
+        "num": 193374,
+        "word": "孙颖莎卫冕澳门赛女单冠军",
+        "onboard_time": 1757954120,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43165,
+        "num": 193345,
+        "word": "用一次性手套洗头会让头发更蓬松",
+        "onboard_time": 1757939845,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42258,
+        "num": 193313,
+        "word": "杨帆称此前已发出解约函",
+        "onboard_time": 1757951902,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}
