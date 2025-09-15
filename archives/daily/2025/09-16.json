@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1757961303574,
+  "endTime": 1757962059380,
   "band_list": [
     {
       "raw_hot": 1260119,
@@ -427,6 +427,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 37897,
+      "num": 51460,
+      "word": "武侠美甲",
+      "onboard_time": 1757958976,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36014,
       "num": 95559,
       "word": "石宇奇退出中国大师赛",
@@ -443,20 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30185,
-      "num": 43495,
+      "raw_hot": 32241,
+      "num": 51313,
       "word": "辛芷蕾梁婷当年的事情彼此各有难处",
       "onboard_time": 1757958916,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30093,
-      "num": 43540,
-      "word": "武侠美甲",
-      "onboard_time": 1757958976,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 29464,
