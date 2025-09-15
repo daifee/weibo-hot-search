@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1757975945112,
+  "endTime": 1757978496650,
   "band_list": [
     {
       "raw_hot": 1260119,
@@ -59,6 +59,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 417496,
+      "num": 768205,
+      "word": "中美马德里经贸会谈成果公布",
+      "onboard_time": 1757951063,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 397970,
       "num": 397970,
       "word": "女子卫生巾内藏674.7克足金",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 372751,
-      "num": 224373,
+      "num": 226490,
       "word": "女子散步时踩到氢氟酸后去世",
       "onboard_time": 1757933182,
       "rank": 12,
@@ -83,20 +91,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 331949,
+      "num": 331949,
+      "word": "原来李佳航让李晟尴尬的求婚长这样",
+      "onboard_time": 1757941823,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294086,
+      "num": 294086,
+      "word": "女子踩到氢氟酸现场已无害化处置",
+      "onboard_time": 1757952202,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283971,
       "num": 212451,
       "word": "女孩子黄体破裂后到底有多严重",
       "onboard_time": 1757945064,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 256696,
-      "num": 256696,
-      "word": "中美马德里经贸会谈成果公布",
-      "onboard_time": 1757951063,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 252147,
@@ -107,6 +123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227432,
+      "num": 227432,
+      "word": "成都暴雨",
+      "onboard_time": 1757977459,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226355,
+      "num": 226355,
+      "word": "卖房救重病男友发现他没病还已婚",
+      "onboard_time": 1757948485,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218470,
       "num": 193987,
       "word": "杨幂还是太体面了",
@@ -115,28 +147,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211943,
-      "num": 211943,
-      "word": "原来李佳航让李晟尴尬的求婚长这样",
-      "onboard_time": 1757941823,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209197,
       "num": 209197,
       "word": "马嘉祺丁程鑫一起看话剧",
       "onboard_time": 1757952742,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197335,
-      "num": 244289,
-      "word": "女子踩到氢氟酸现场已无害化处置",
-      "onboard_time": 1757952202,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193785,
@@ -153,6 +169,14 @@
       "onboard_time": 1757943865,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162202,
+      "num": 193644,
+      "word": "赵本山不让女儿签婚前协议",
+      "onboard_time": 1757936962,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 158697,
@@ -187,11 +211,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 147102,
-      "num": 193779,
-      "word": "卖房救重病男友发现他没病还已婚",
-      "onboard_time": 1757948485,
-      "rank": 29,
+      "raw_hot": 144587,
+      "num": 193702,
+      "word": "家长质疑收费被班主任群内恐吓",
+      "onboard_time": 1757944225,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -211,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121266,
+      "num": 121266,
+      "word": "成都打雷",
+      "onboard_time": 1757977758,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118883,
       "num": 193885,
       "word": "央视专访孙颖莎王楚钦",
@@ -219,12 +251,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118119,
-      "num": 193644,
-      "word": "赵本山不让女儿签婚前协议",
-      "onboard_time": 1757936962,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 118863,
+      "num": 118863,
+      "word": "iOS26",
+      "onboard_time": 1757977820,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 114244,
+      "num": 114244,
+      "word": "TikTok问题",
+      "onboard_time": 1757976378,
+      "rank": 26,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 111546,
@@ -233,6 +273,14 @@
       "onboard_time": 1757952081,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102570,
+      "num": 102570,
+      "word": "宋亚轩从16岁就跟着沈腾",
+      "onboard_time": 1757977758,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99158,
@@ -248,14 +296,6 @@
       "word": "深圳市民捡到2267.83克巨型金条",
       "onboard_time": 1757931441,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90044,
-      "num": 193702,
-      "word": "家长质疑收费被班主任群内恐吓",
-      "onboard_time": 1757944225,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -307,12 +347,28 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 72926,
+      "num": 78057,
+      "word": "妻子出轨主播9个月打赏1.8万次",
+      "onboard_time": 1757930364,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70592,
       "num": 193526,
       "word": "闫妮岁月不败美人具像化了",
       "onboard_time": 1757947646,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70390,
+      "num": 193345,
+      "word": "用一次性手套洗头会让头发更蓬松",
+      "onboard_time": 1757939845,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 66139,
@@ -340,7 +396,7 @@
     },
     {
       "raw_hot": 58720,
-      "num": 58720,
+      "num": 67069,
       "word": "武侠美甲",
       "onboard_time": 1757958976,
       "rank": 24,
@@ -403,20 +459,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45624,
+      "raw_hot": 51308,
+      "num": 67355,
+      "word": "河北一高中收2700元教辅费被质疑",
+      "onboard_time": 1757962574,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50783,
+      "num": 67314,
+      "word": "何健麒在公厕边睡过觉",
+      "onboard_time": 1757975537,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46467,
+      "num": 67115,
+      "word": "辛芷蕾梁婷当年的事情彼此各有难处",
+      "onboard_time": 1757958916,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46242,
       "num": 95565,
       "word": "价格不高但能提高生活品质的东西",
       "onboard_time": 1757955018,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 44129,
-      "num": 78057,
-      "word": "妻子出轨主播9个月打赏1.8万次",
-      "onboard_time": 1757930364,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43776,
@@ -427,28 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43368,
-      "num": 193345,
-      "word": "用一次性手套洗头会让头发更蓬松",
-      "onboard_time": 1757939845,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 41227,
       "num": 79790,
       "word": "杨帆是李佳本科老师",
       "onboard_time": 1757957476,
       "rank": 30,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 38345,
-      "num": 51313,
-      "word": "辛芷蕾梁婷当年的事情彼此各有难处",
-      "onboard_time": 1757958916,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 36014,
@@ -459,19 +515,35 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35322,
-      "num": 40558,
-      "word": "河北一高中收2700元教辅费被质疑",
-      "onboard_time": 1757962574,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34099,
       "num": 95557,
       "word": "艾美奖",
       "onboard_time": 1757955559,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30967,
+      "num": 66822,
+      "word": "vctcn",
+      "onboard_time": 1757978421,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 30572,
+      "num": 227409,
+      "word": "家长质疑2790元教辅费贵被老师警告",
+      "onboard_time": 1757977820,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30322,
+      "num": 66753,
+      "word": "萧秋水被做局了",
+      "onboard_time": 1757965755,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -499,28 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17062,
-      "num": 40555,
-      "word": "何健麒在公厕边睡过觉",
-      "onboard_time": 1757975537,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16265,
       "num": 40555,
       "word": "泰嗨巅峰音乐节",
       "onboard_time": 1757975837,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14730,
-      "num": 33873,
-      "word": "萧秋水被做局了",
-      "onboard_time": 1757965755,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 3900,
