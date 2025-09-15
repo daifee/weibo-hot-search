@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757978496650,
+  "endTime": 1757979386535,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -1059,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477488,
+      "num": 878915,
+      "word": "原来李佳航让李晟尴尬的求婚长这样",
+      "onboard_time": 1757941823,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474920,
       "num": 474920,
       "word": "成毅又在爱奇艺剧宣上闯祸了",
@@ -1547,6 +1555,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 354490,
+      "num": 354490,
+      "word": "成都暴雨",
+      "onboard_time": 1757977459,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349842,
       "num": 298430,
       "word": "喜欢吃大闸蟹嘴真严啊",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1757927782,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331949,
-      "num": 331949,
-      "word": "原来李佳航让李晟尴尬的求婚长这样",
-      "onboard_time": 1757941823,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 329168,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1757860046,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 265575,
+      "num": 265575,
+      "word": "卖房救重病男友发现他没病还已婚",
+      "onboard_time": 1757948485,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264791,
@@ -2283,28 +2299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227432,
-      "num": 227432,
-      "word": "成都暴雨",
-      "onboard_time": 1757977459,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227074,
       "num": 408423,
       "word": "王楚钦进决赛",
       "onboard_time": 1757833822,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226355,
-      "num": 226355,
-      "word": "卖房救重病男友发现他没病还已婚",
-      "onboard_time": 1757948485,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224803,
@@ -2755,6 +2755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195763,
+      "num": 195763,
+      "word": "杨幂走红毯带着公司艺人增加曝光",
+      "onboard_time": 1757951841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194856,
       "num": 194856,
       "word": "无畏人性是复杂的",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1757918482,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193785,
-      "num": 194118,
-      "word": "杨幂走红毯带着公司艺人增加曝光",
-      "onboard_time": 1757951841,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 193724,
@@ -3081,6 +3081,14 @@
       "onboard_time": 1757829682,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179177,
+      "num": 179177,
+      "word": "宋亚轩从16岁就跟着沈腾",
+      "onboard_time": 1757977758,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178676,
@@ -3675,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155414,
+      "num": 227409,
+      "word": "家长质疑2790元教辅费贵被老师警告",
+      "onboard_time": 1757977820,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154721,
       "num": 256616,
       "word": "荆州市原市长周志红被查",
@@ -4105,6 +4121,14 @@
       "onboard_time": 1757920823,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141601,
+      "num": 141601,
+      "word": "iOS26",
+      "onboard_time": 1757977820,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 141149,
@@ -4835,14 +4859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118863,
-      "num": 118863,
-      "word": "iOS26",
-      "onboard_time": 1757977820,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 118645,
       "num": 231322,
       "word": "武林外传新路透",
@@ -5395,14 +5411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102570,
-      "num": 102570,
-      "word": "宋亚轩从16岁就跟着沈腾",
-      "onboard_time": 1757977758,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102488,
       "num": 102488,
       "word": "朱迅状态",
@@ -5923,6 +5931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 87057,
+      "num": 87057,
+      "word": "中医说这两个小时一定要睡好",
+      "onboard_time": 1757979141,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86923,
       "num": 93920,
       "word": "孙颖莎回应与王曼昱再交手",
@@ -5961,6 +5977,14 @@
       "onboard_time": 1757773947,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 85140,
+      "num": 85140,
+      "word": "驻华机构中国雇员不得危害国家安全",
+      "onboard_time": 1757979141,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84860,
@@ -6387,6 +6411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 68052,
+      "num": 78676,
+      "word": "河北一高中收2700元教辅费被质疑",
+      "onboard_time": 1757962574,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64165,
       "num": 292457,
       "word": "肖战能不能把高智感穿搭焊在身上",
@@ -6409,6 +6441,14 @@
       "onboard_time": 1757847864,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62917,
+      "num": 95565,
+      "word": "价格不高但能提高生活品质的东西",
+      "onboard_time": 1757955018,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 62787,
@@ -6532,7 +6572,7 @@
     },
     {
       "raw_hot": 58720,
-      "num": 67069,
+      "num": 78657,
       "word": "武侠美甲",
       "onboard_time": 1757958976,
       "rank": 24,
@@ -6571,6 +6611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57106,
+      "num": 78581,
+      "word": "iOS26正式版真来了",
+      "onboard_time": 1757978600,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56887,
       "num": 163589,
       "word": "xg战队急需支援",
@@ -6585,6 +6633,14 @@
       "onboard_time": 1757889798,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56549,
+      "num": 78547,
+      "word": "何健麒在公厕边睡过觉",
+      "onboard_time": 1757975537,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 56440,
@@ -6683,28 +6739,12 @@
       "category": "美食,舆论监督"
     },
     {
-      "raw_hot": 51308,
-      "num": 67355,
-      "word": "河北一高中收2700元教辅费被质疑",
-      "onboard_time": 1757962574,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51142,
       "num": 103802,
       "word": "XG太猛了",
       "onboard_time": 1757868380,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 50783,
-      "num": 67314,
-      "word": "何健麒在公厕边睡过觉",
-      "onboard_time": 1757975537,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 50196,
@@ -6827,14 +6867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46242,
-      "num": 95565,
-      "word": "价格不高但能提高生活品质的东西",
-      "onboard_time": 1757955018,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 45360,
       "num": 292526,
       "word": "超级V23浙赛最速方盒子",
@@ -6907,12 +6939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42329,
+      "num": 78484,
+      "word": "大多数人都没你早上喝的那杯水重要",
+      "onboard_time": 1757978661,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42130,
       "num": 54504,
       "word": "网友打羽毛球偶遇王安宇",
       "onboard_time": 1757797634,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41732,
+      "num": 78458,
+      "word": "vctcn",
+      "onboard_time": 1757978421,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 41677,
@@ -7059,14 +7107,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 30967,
-      "num": 66822,
-      "word": "vctcn",
-      "onboard_time": 1757978421,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 30680,
       "num": 68491,
       "word": "周笔畅重庆演唱会",
@@ -7081,14 +7121,6 @@
       "onboard_time": 1757942724,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30572,
-      "num": 227409,
-      "word": "家长质疑2790元教辅费贵被老师警告",
-      "onboard_time": 1757977820,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30399,
@@ -7312,6 +7344,14 @@
       "word": "不怕你预制就怕你不告诉我",
       "onboard_time": 1757790795,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21254,
+      "num": 78719,
+      "word": "学校回应收2700元教辅费被指太贵",
+      "onboard_time": 1757979261,
+      "rank": 36,
       "category": "民生新闻"
     },
     {

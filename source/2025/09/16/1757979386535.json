@@ -1,0 +1,410 @@
+{
+  "runTime": 1757979386535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 477488,
+        "num": 878915,
+        "word": "原来李佳航让李晟尴尬的求婚长这样",
+        "onboard_time": 1757941823,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406430,
+        "num": 406430,
+        "word": "中美马德里经贸会谈成果公布",
+        "onboard_time": 1757951063,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3746,
+        "num": 367138,
+        "word": "海军最新招飞大片看燃了",
+        "onboard_time": 1757899280,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 354490,
+        "num": 354490,
+        "word": "成都暴雨",
+        "onboard_time": 1757977459,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283014,
+        "num": 283014,
+        "word": "赴山海 剧本穿帮",
+        "onboard_time": 1757941463,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271749,
+        "num": 271749,
+        "word": "中国绝不以牺牲企业利益为代价",
+        "onboard_time": 1757950704,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268694,
+        "num": 268694,
+        "word": "中美就TikTok等问题进行了沟通",
+        "onboard_time": 1757950704,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295629,
+        "num": 268394,
+        "word": "女子卫生巾内藏674.7克足金",
+        "onboard_time": 1757947526,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265575,
+        "num": 265575,
+        "word": "卖房救重病男友发现他没病还已婚",
+        "onboard_time": 1757948485,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256252,
+        "num": 256252,
+        "word": "女子踩到氢氟酸现场已无害化处置",
+        "onboard_time": 1757952202,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1067827,
+        "num": 252772,
+        "word": "涉毒艺人苏永康将在温州办演唱会",
+        "onboard_time": 1757946926,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749018,
+        "num": 249635,
+        "word": "官方通报52岁女子中毒身亡",
+        "onboard_time": 1757949624,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 320475,
+        "num": 247532,
+        "word": "女子散步时踩到氢氟酸后去世",
+        "onboard_time": 1757933182,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243169,
+        "num": 243169,
+        "word": "女孩子黄体破裂后到底有多严重",
+        "onboard_time": 1757945064,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214644,
+        "num": 214644,
+        "word": "赵本山不让女儿签婚前协议",
+        "onboard_time": 1757936962,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195763,
+        "num": 195763,
+        "word": "杨幂走红毯带着公司艺人增加曝光",
+        "onboard_time": 1757951841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179177,
+        "num": 179177,
+        "word": "宋亚轩从16岁就跟着沈腾",
+        "onboard_time": 1757977758,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178880,
+        "num": 178880,
+        "word": "官方回应涉毒艺人办演唱会遭投诉",
+        "onboard_time": 1757946926,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138776,
+        "num": 167964,
+        "word": "梁婷说签约演员里唯一赚钱的是尹正",
+        "onboard_time": 1757938583,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102035,
+        "num": 162442,
+        "word": "马嘉祺丁程鑫一起看话剧",
+        "onboard_time": 1757952742,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550082,
+        "num": 162356,
+        "word": "成毅 别浪费你的会员了",
+        "onboard_time": 1757947646,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162174,
+        "num": 162174,
+        "word": "被擦妆5次艺考生开学了",
+        "onboard_time": 1757938162,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 155414,
+        "num": 155414,
+        "word": "家长质疑2790元教辅费贵被老师警告",
+        "onboard_time": 1757977820,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148455,
+        "num": 148455,
+        "word": "家长质疑收费被班主任群内恐吓",
+        "onboard_time": 1757944225,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141601,
+        "num": 141601,
+        "word": "iOS26",
+        "onboard_time": 1757977820,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113992,
+        "num": 113992,
+        "word": "苹果iOS26正式版液态玻璃设计引争议",
+        "onboard_time": 1757950164,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93660,
+        "num": 93660,
+        "word": "TikTok问题",
+        "onboard_time": 1757976378,
+        "rank": 26,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 89951,
+        "num": 89951,
+        "word": "着眼中美经贸大局坚持平等互惠原则",
+        "onboard_time": 1757952081,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87057,
+        "num": 87057,
+        "word": "中医说这两个小时一定要睡好",
+        "onboard_time": 1757979141,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61248,
+        "num": 86604,
+        "word": "成毅说观众就是我的老师",
+        "onboard_time": 1757952202,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86588,
+        "num": 86588,
+        "word": "深圳市民捡到2267.83克巨型金条",
+        "onboard_time": 1757931441,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85499,
+        "num": 85499,
+        "word": "成都打雷",
+        "onboard_time": 1757977758,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85140,
+        "num": 85140,
+        "word": "驻华机构中国雇员不得危害国家安全",
+        "onboard_time": 1757979141,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82719,
+        "num": 82719,
+        "word": "运动瘦vs饿瘦",
+        "onboard_time": 1757933122,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78739,
+        "num": 78739,
+        "word": "用一次性手套洗头会让头发更蓬松",
+        "onboard_time": 1757939845,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 72844,
+        "num": 78738,
+        "word": "妻子出轨主播9个月打赏1.8万次",
+        "onboard_time": 1757930364,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21254,
+        "num": 78719,
+        "word": "学校回应收2700元教辅费被指太贵",
+        "onboard_time": 1757979261,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69609,
+        "num": 78700,
+        "word": "父母情绪不稳定孩子切忌自责",
+        "onboard_time": 1757943865,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68052,
+        "num": 78676,
+        "word": "河北一高中收2700元教辅费被质疑",
+        "onboard_time": 1757962574,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58132,
+        "num": 78657,
+        "word": "武侠美甲",
+        "onboard_time": 1757958976,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65024,
+        "num": 78624,
+        "word": "肖战和谁搭档会让你眼前一亮",
+        "onboard_time": 1757938522,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64755,
+        "num": 78611,
+        "word": "央视专访孙颖莎王楚钦",
+        "onboard_time": 1757952922,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62917,
+        "num": 78603,
+        "word": "价格不高但能提高生活品质的东西",
+        "onboard_time": 1757955018,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57106,
+        "num": 78581,
+        "word": "iOS26正式版真来了",
+        "onboard_time": 1757978600,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56549,
+        "num": 78547,
+        "word": "何健麒在公厕边睡过觉",
+        "onboard_time": 1757975537,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53047,
+        "num": 78531,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52763,
+        "num": 78524,
+        "word": "东风61霸气亮相火箭军直招宣传片",
+        "onboard_time": 1757948726,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51671,
+        "num": 78493,
+        "word": "表面沉迷游戏实则北大清华",
+        "onboard_time": 1757948185,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42329,
+        "num": 78484,
+        "word": "大多数人都没你早上喝的那杯水重要",
+        "onboard_time": 1757978661,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41732,
+        "num": 78458,
+        "word": "vctcn",
+        "onboard_time": 1757978421,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}
