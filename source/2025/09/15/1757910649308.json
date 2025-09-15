@@ -1,0 +1,410 @@
+{
+  "runTime": 1757910649308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3197376,
+        "num": 3197376,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1767066,
+        "num": 1767066,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1672355,
+        "num": 1672355,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 2,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899750,
+        "num": 899750,
+        "word": "雷军 全面对标iPhone",
+        "onboard_time": 1757904380,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 860609,
+        "num": 860609,
+        "word": "支付宝账号解除授权",
+        "onboard_time": 1757891539,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 849016,
+        "num": 849016,
+        "word": "国庆中秋调休时间安排",
+        "onboard_time": 1757906121,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 846302,
+        "num": 846302,
+        "word": "减肥太猛 显老",
+        "onboard_time": 1757906961,
+        "rank": 6,
+        "category": "科学科普,运动健身"
+      },
+      {
+        "raw_hot": 805162,
+        "num": 805162,
+        "word": "731",
+        "onboard_time": 1757903181,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7941,
+        "num": 752949,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1757910442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73014,
+        "num": 719626,
+        "word": "俄军演中发射锆石高超音速导弹",
+        "onboard_time": 1757896222,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 703887,
+        "num": 703887,
+        "word": "肖战的魏无羡真的好灵好灵",
+        "onboard_time": 1757908223,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554878,
+        "num": 554878,
+        "word": "赵本山女儿回应哥哥不争气",
+        "onboard_time": 1757908522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456572,
+        "num": 456572,
+        "word": "袁一琦签约天娱传媒",
+        "onboard_time": 1757905462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450994,
+        "num": 450994,
+        "word": "iPhone17系列价格已破发",
+        "onboard_time": 1757905701,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401393,
+        "num": 401393,
+        "word": "小米17",
+        "onboard_time": 1757902640,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 366400,
+        "num": 366400,
+        "word": "孙颖莎 脆升升",
+        "onboard_time": 1757907862,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320578,
+        "num": 320578,
+        "word": "奥运冠军邓琳琳官宣怀孕",
+        "onboard_time": 1757901261,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370715,
+        "num": 309998,
+        "word": "Dior认领",
+        "onboard_time": 1757895262,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45544,
+        "num": 300760,
+        "word": "高圆圆真会选",
+        "onboard_time": 1757906062,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104519,
+        "num": 298513,
+        "word": "迪丽热巴反差感",
+        "onboard_time": 1757908042,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298430,
+        "num": 298430,
+        "word": "喜欢吃大闸蟹嘴真严啊",
+        "onboard_time": 1757910384,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 285456,
+        "num": 285456,
+        "word": "他的一天是连小说都不敢写的程度",
+        "onboard_time": 1757908103,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29677,
+        "num": 283616,
+        "word": "丰收的田野是最美的画卷",
+        "onboard_time": 1757858306,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282740,
+        "num": 282740,
+        "word": "孙颖莎用副拍打的决赛",
+        "onboard_time": 1757907683,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250400,
+        "num": 250400,
+        "word": "李乃文又在哪闯什么祸呢",
+        "onboard_time": 1757903062,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231511,
+        "num": 231511,
+        "word": "芬芳喜事定档",
+        "onboard_time": 1757906903,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220150,
+        "num": 220150,
+        "word": "宋妍霏回应提了24次裙子",
+        "onboard_time": 1757897842,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218463,
+        "num": 218463,
+        "word": "炎亚纶不像演的",
+        "onboard_time": 1757910143,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216119,
+        "num": 216119,
+        "word": "你以为在备孕实际是避孕的行为",
+        "onboard_time": 1757901201,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170568,
+        "num": 215180,
+        "word": "青海黄河源区确认发现秦代刻石",
+        "onboard_time": 1757904681,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262322,
+        "num": 214829,
+        "word": "第一次用代下单KFC感觉自己好丢人",
+        "onboard_time": 1757909603,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214322,
+        "num": 214322,
+        "word": "韦雪回应比杨幂好看",
+        "onboard_time": 1757909423,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197306,
+        "num": 197306,
+        "word": "人咪大学的流浪猫有户口了",
+        "onboard_time": 1757910024,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193023,
+        "num": 193023,
+        "word": "床上不能停半挂",
+        "onboard_time": 1757904801,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183195,
+        "num": 192900,
+        "word": "15岁女孩殒命铁轨案民事一审将开庭",
+        "onboard_time": 1757907142,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192819,
+        "num": 192819,
+        "word": "祝绪丹回应直播哽咽",
+        "onboard_time": 1757909423,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186441,
+        "num": 186441,
+        "word": "姜潮说孩子第二麦迪娜第一",
+        "onboard_time": 1757910266,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184990,
+        "num": 184990,
+        "word": "游泳是一场直面恐惧的修行",
+        "onboard_time": 1757909725,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107281,
+        "num": 182410,
+        "word": "樊振东的开心要溢出屏幕了",
+        "onboard_time": 1757909965,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120500,
+        "num": 182100,
+        "word": "男子19岁继承百万遗产却日渐崩溃",
+        "onboard_time": 1757910086,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181999,
+        "num": 181999,
+        "word": "赴山海新款内娱长剧错题本",
+        "onboard_time": 1757910384,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179811,
+        "num": 179811,
+        "word": "叶舒华低马尾",
+        "onboard_time": 1757903482,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2023795,
+        "num": 177695,
+        "word": "罗永浩希望与贾国龙当面对话",
+        "onboard_time": 1757902701,
+        "rank": 42,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 172816,
+        "num": 172816,
+        "word": "内娱顶级恶女白月光组cp了",
+        "onboard_time": 1757908883,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165762,
+        "num": 165762,
+        "word": "租房新规今起实施",
+        "onboard_time": 1757893642,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164219,
+        "num": 164219,
+        "word": "纽约坐地铁偶遇黄多多",
+        "onboard_time": 1757910203,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157275,
+        "num": 157275,
+        "word": "找工作放弃长期主义后上班不痛苦了",
+        "onboard_time": 1757908522,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156662,
+        "num": 156662,
+        "word": "孙颖莎澳门夺冠发博",
+        "onboard_time": 1757910504,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149251,
+        "num": 149251,
+        "word": "女子从小攒指甲卖给专门回收者",
+        "onboard_time": 1757906782,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148735,
+        "num": 148735,
+        "word": "王楚钦重回世1孙颖莎守住世1",
+        "onboard_time": 1757906001,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

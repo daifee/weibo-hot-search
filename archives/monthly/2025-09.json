@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757908405182,
+  "endTime": 1757910649308,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1757150901,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1672355,
+      "num": 1672355,
+      "word": "miumiu签了三个00花",
+      "onboard_time": 1757908223,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1663433,
@@ -3331,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 846302,
+      "num": 846302,
+      "word": "减肥太猛 显老",
+      "onboard_time": 1757906961,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 845744,
       "num": 227817,
       "word": "少女遭体罚死前求助信被老师拦截",
@@ -3561,6 +3577,14 @@
       "onboard_time": 1757297002,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805162,
+      "num": 805162,
+      "word": "731",
+      "onboard_time": 1756962802,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 804944,
@@ -4313,6 +4337,14 @@
       "onboard_time": 1757343626,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703887,
+      "num": 703887,
+      "word": "肖战的魏无羡真的好灵好灵",
+      "onboard_time": 1757908223,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 703400,
@@ -5355,14 +5387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 590156,
-      "num": 590156,
-      "word": "减肥太猛 显老",
-      "onboard_time": 1757906961,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 590101,
       "num": 590101,
       "word": "李佳琦把赵昭仪养的很好",
@@ -5785,6 +5809,14 @@
       "onboard_time": 1757820022,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554878,
+      "num": 554878,
+      "word": "赵本山女儿回应哥哥不争气",
+      "onboard_time": 1757908522,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 553073,
@@ -9491,6 +9523,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 366400,
+      "num": 366400,
+      "word": "孙颖莎 脆升升",
+      "onboard_time": 1757907862,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364998,
       "num": 364998,
       "word": "成都机场3秒迟疑后的拥抱看哭全网",
@@ -9761,14 +9801,6 @@
       "onboard_time": 1756871733,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 355217,
-      "num": 597341,
-      "word": "731",
-      "onboard_time": 1756962802,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 354304,
@@ -11331,6 +11363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 298430,
+      "num": 298430,
+      "word": "喜欢吃大闸蟹嘴真严啊",
+      "onboard_time": 1757910384,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 297933,
       "num": 386216,
       "word": "香港上空这一幕令人震撼",
@@ -11763,6 +11803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285456,
+      "num": 285456,
+      "word": "他的一天是连小说都不敢写的程度",
+      "onboard_time": 1757908103,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285272,
       "num": 264867,
       "word": "祝绪丹祝杨幂所愿皆所得",
@@ -11913,6 +11961,14 @@
       "onboard_time": 1757167223,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282740,
+      "num": 282740,
+      "word": "孙颖莎用副拍打的决赛",
+      "onboard_time": 1757907683,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 282332,
@@ -12617,6 +12673,14 @@
       "onboard_time": 1757655866,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262322,
+      "num": 214829,
+      "word": "第一次用代下单KFC感觉自己好丢人",
+      "onboard_time": 1757909603,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 262083,
@@ -13915,6 +13979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231511,
+      "num": 231511,
+      "word": "芬芳喜事定档",
+      "onboard_time": 1757906903,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231398,
       "num": 196603,
       "word": "法国将军谈九三阅兵",
@@ -14715,6 +14787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218463,
+      "num": 218463,
+      "word": "炎亚纶不像演的",
+      "onboard_time": 1757910143,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218285,
       "num": 199474,
       "word": "白敬亭这次和锅姨一起进循环了",
@@ -14961,6 +15041,14 @@
       "onboard_time": 1757170824,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 214322,
+      "num": 214322,
+      "word": "韦雪回应比杨幂好看",
+      "onboard_time": 1757909423,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 214295,
@@ -15273,14 +15361,6 @@
       "onboard_time": 1757854524,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209137,
-      "num": 209137,
-      "word": "芬芳喜事定档",
-      "onboard_time": 1757906903,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 209119,
@@ -15665,14 +15745,6 @@
       "onboard_time": 1757381840,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205015,
-      "num": 205015,
-      "word": "孙颖莎用副拍打的决赛",
-      "onboard_time": 1757907683,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 204908,
@@ -16627,6 +16699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197306,
+      "num": 197306,
+      "word": "人咪大学的流浪猫有户口了",
+      "onboard_time": 1757910024,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197299,
       "num": 220999,
       "word": "赵涛帮辛芷蕾争取到了影后奖",
@@ -17339,6 +17419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192819,
+      "num": 192819,
+      "word": "祝绪丹回应直播哽咽",
+      "onboard_time": 1757909423,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192741,
       "num": 203470,
       "word": "宋亚轩累了知道躺贺峻霖怀里",
@@ -17505,14 +17593,6 @@
       "onboard_time": 1757033781,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191411,
-      "num": 191411,
-      "word": "孙颖莎 脆升升",
-      "onboard_time": 1757907862,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 191347,
@@ -18227,6 +18307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186441,
+      "num": 186441,
+      "word": "姜潮说孩子第二麦迪娜第一",
+      "onboard_time": 1757910266,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186397,
       "num": 198547,
       "word": "每天喝咖啡是续命还是促癌",
@@ -18377,6 +18465,14 @@
       "onboard_time": 1757856144,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184990,
+      "num": 184990,
+      "word": "游泳是一场直面恐惧的修行",
+      "onboard_time": 1757909725,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 184960,
@@ -18769,6 +18865,14 @@
       "onboard_time": 1757640147,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181999,
+      "num": 181999,
+      "word": "赴山海新款内娱长剧错题本",
+      "onboard_time": 1757910384,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 181939,
@@ -19819,6 +19923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172816,
+      "num": 172816,
+      "word": "内娱顶级恶女白月光组cp了",
+      "onboard_time": 1757908883,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172796,
       "num": 229615,
       "word": "王俊凯出发丽江路透",
@@ -20651,14 +20763,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 167137,
-      "num": 167137,
-      "word": "miumiu签了三个00花",
-      "onboard_time": 1757908223,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167119,
       "num": 167119,
       "word": "iPhone17PM对比16PM",
@@ -21081,6 +21185,14 @@
       "onboard_time": 1757506522,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164219,
+      "num": 164219,
+      "word": "纽约坐地铁偶遇黄多多",
+      "onboard_time": 1757910203,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 164211,
@@ -22315,6 +22427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157275,
+      "num": 157275,
+      "word": "找工作放弃长期主义后上班不痛苦了",
+      "onboard_time": 1757908522,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157206,
       "num": 157206,
       "word": "未定事件簿",
@@ -22400,6 +22520,14 @@
       "word": "薛飞亮相澳门冠军赛",
       "onboard_time": 1757568826,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156662,
+      "num": 156662,
+      "word": "孙颖莎澳门夺冠发博",
+      "onboard_time": 1757910504,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -24435,14 +24563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146020,
-      "num": 146020,
-      "word": "肖战的魏无羡真的好灵好灵",
-      "onboard_time": 1757908223,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145964,
       "num": 145964,
       "word": "林诗栋vs吴晙诚",
@@ -25897,14 +26017,6 @@
       "onboard_time": 1757779944,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139422,
-      "num": 139422,
-      "word": "他的一天是连小说都不敢写的程度",
-      "onboard_time": 1757908103,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 139419,
@@ -30515,6 +30627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 120500,
+      "num": 182100,
+      "word": "男子19岁继承百万遗产却日渐崩溃",
+      "onboard_time": 1757910086,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120395,
       "num": 120395,
       "word": "一个女生淘汰一群女生哭了",
@@ -32588,7 +32708,7 @@
     },
     {
       "raw_hot": 111975,
-      "num": 296778,
+      "num": 298513,
       "word": "迪丽热巴反差感",
       "onboard_time": 1757908042,
       "rank": 18,
@@ -33891,6 +34011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107281,
+      "num": 182410,
+      "word": "樊振东的开心要溢出屏幕了",
+      "onboard_time": 1757909965,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107277,
       "num": 107277,
       "word": "张柏芝美的不知天地为何物了",
@@ -34972,7 +35100,7 @@
     },
     {
       "raw_hot": 102782,
-      "num": 102782,
+      "num": 719626,
       "word": "俄军演中发射锆石高超音速导弹",
       "onboard_time": 1757896222,
       "rank": 35,
@@ -46593,6 +46721,14 @@
       "onboard_time": 1757385801,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7941,
+      "num": 752949,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1757910442,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7595,

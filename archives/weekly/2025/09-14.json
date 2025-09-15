@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757908405182,
+  "endTime": 1757910649308,
   "band_list": [
     {
       "raw_hot": 3969260,
@@ -57,6 +57,14 @@
       "onboard_time": 1757844862,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1672355,
+      "num": 1672355,
+      "word": "miumiu签了三个00花",
+      "onboard_time": 1757908223,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1595363,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 846302,
+      "num": 846302,
+      "word": "减肥太猛 显老",
+      "onboard_time": 1757906961,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 838940,
       "num": 515065,
       "word": "西贝创始人称应对方式有错",
@@ -352,6 +368,14 @@
       "word": "朱一龙金熊猫影帝",
       "onboard_time": 1757776286,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 805162,
+      "num": 805162,
+      "word": "731",
+      "onboard_time": 1757903181,
+      "rank": 7,
       "category": "电影"
     },
     {
@@ -433,6 +457,14 @@
       "onboard_time": 1757901982,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703887,
+      "num": 703887,
+      "word": "肖战的魏无羡真的好灵好灵",
+      "onboard_time": 1757908223,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 698417,
@@ -523,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 590156,
-      "num": 590156,
-      "word": "减肥太猛 显老",
-      "onboard_time": 1757906961,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 587676,
       "num": 587676,
       "word": "北京 冰河世纪",
@@ -561,6 +585,14 @@
       "onboard_time": 1757820022,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554878,
+      "num": 554878,
+      "word": "赵本山女儿回应哥哥不争气",
+      "onboard_time": 1757908522,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 545079,
@@ -987,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366400,
+      "num": 366400,
+      "word": "孙颖莎 脆升升",
+      "onboard_time": 1757907862,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363637,
       "num": 363637,
       "word": "孙颖莎学陈幸同请客",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1757863345,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 355217,
-      "num": 597341,
-      "word": "731",
-      "onboard_time": 1757903181,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 348079,
@@ -1187,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298430,
+      "num": 298430,
+      "word": "喜欢吃大闸蟹嘴真严啊",
+      "onboard_time": 1757910384,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 296803,
       "num": 231314,
       "word": "多囊vs多囊卵巢综合征",
@@ -1227,6 +1267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 285456,
+      "num": 285456,
+      "word": "他的一天是连小说都不敢写的程度",
+      "onboard_time": 1757908103,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285208,
       "num": 285208,
       "word": "卡塔尔承认探测不到以军战机",
@@ -1239,6 +1287,14 @@
       "num": 283081,
       "word": "孙颖莎说和王楚钦默契不错",
       "onboard_time": 1757867719,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282740,
+      "num": 282740,
+      "word": "孙颖莎用副拍打的决赛",
+      "onboard_time": 1757907683,
       "rank": 30,
       "category": "体育"
     },
@@ -1321,6 +1377,14 @@
       "onboard_time": 1757905582,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 262322,
+      "num": 214829,
+      "word": "第一次用代下单KFC感觉自己好丢人",
+      "onboard_time": 1757909603,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 261493,
@@ -1531,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231511,
+      "num": 231511,
+      "word": "芬芳喜事定档",
+      "onboard_time": 1757906903,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230908,
       "num": 260313,
       "word": "北京昨夜冰雹威力究竟有多大",
@@ -1643,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218463,
+      "num": 218463,
+      "word": "炎亚纶不像演的",
+      "onboard_time": 1757910143,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217566,
       "num": 217566,
       "word": "让腿型越来越好看的三个动作",
@@ -1657,6 +1737,14 @@
       "onboard_time": 1757901381,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214322,
+      "num": 214322,
+      "word": "韦雪回应比杨幂好看",
+      "onboard_time": 1757909423,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 214100,
@@ -1689,14 +1777,6 @@
       "onboard_time": 1757854524,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209137,
-      "num": 209137,
-      "word": "芬芳喜事定档",
-      "onboard_time": 1757906903,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 209073,
@@ -1753,14 +1833,6 @@
       "onboard_time": 1757862385,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205015,
-      "num": 205015,
-      "word": "孙颖莎用副拍打的决赛",
-      "onboard_time": 1757907683,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 204307,
@@ -1859,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197306,
+      "num": 197306,
+      "word": "人咪大学的流浪猫有户口了",
+      "onboard_time": 1757910024,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197074,
       "num": 197074,
       "word": "大半个娱乐圈都来成都了",
@@ -1955,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192819,
+      "num": 192819,
+      "word": "祝绪丹回应直播哽咽",
+      "onboard_time": 1757909423,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "WTT澳门冠军赛2025",
@@ -1969,14 +2057,6 @@
       "onboard_time": 1757855185,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191411,
-      "num": 191411,
-      "word": "孙颖莎 脆升升",
-      "onboard_time": 1757907862,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 190008,
@@ -2019,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186441,
+      "num": 186441,
+      "word": "姜潮说孩子第二麦迪娜第一",
+      "onboard_time": 1757910266,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186266,
       "num": 167424,
       "word": "内娱需要这种不顾形象的崩溃戏",
@@ -2033,6 +2121,14 @@
       "onboard_time": 1757856144,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184990,
+      "num": 184990,
+      "word": "游泳是一场直面恐惧的修行",
+      "onboard_time": 1757909725,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 184882,
@@ -2057,6 +2153,14 @@
       "onboard_time": 1757834781,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181999,
+      "num": 181999,
+      "word": "赴山海新款内娱长剧错题本",
+      "onboard_time": 1757910384,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 181788,
@@ -2195,6 +2299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172816,
+      "num": 172816,
+      "word": "内娱顶级恶女白月光组cp了",
+      "onboard_time": 1757908883,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169091,
       "num": 169091,
       "word": "瘦了20斤鼻子变化",
@@ -2251,14 +2363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167137,
-      "num": 167137,
-      "word": "miumiu签了三个00花",
-      "onboard_time": 1757908223,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166249,
       "num": 166249,
       "word": "女子表演与蟒蛇亲嘴被咬血流不止",
@@ -2281,6 +2385,14 @@
       "onboard_time": 1757901561,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164219,
+      "num": 164219,
+      "word": "纽约坐地铁偶遇黄多多",
+      "onboard_time": 1757910203,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 164084,
@@ -2443,6 +2555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157275,
+      "num": 157275,
+      "word": "找工作放弃长期主义后上班不痛苦了",
+      "onboard_time": 1757908522,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156662,
+      "num": 156662,
+      "word": "孙颖莎澳门夺冠发博",
+      "onboard_time": 1757910504,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156502,
       "num": 156502,
       "word": "王格格想和杨紫刘亦菲合作",
@@ -2593,14 +2721,6 @@
       "onboard_time": 1757831722,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146020,
-      "num": 146020,
-      "word": "肖战的魏无羡真的好灵好灵",
-      "onboard_time": 1757908223,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 145731,
@@ -2777,14 +2897,6 @@
       "onboard_time": 1757779944,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139422,
-      "num": 139422,
-      "word": "他的一天是连小说都不敢写的程度",
-      "onboard_time": 1757908103,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 139384,
@@ -3187,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120500,
+      "num": 182100,
+      "word": "男子19岁继承百万遗产却日渐崩溃",
+      "onboard_time": 1757910086,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120125,
       "num": 120125,
       "word": "第一次见六口人还搞宅斗的剧",
@@ -3348,7 +3468,7 @@
     },
     {
       "raw_hot": 111975,
-      "num": 296778,
+      "num": 298513,
       "word": "迪丽热巴反差感",
       "onboard_time": 1757908042,
       "rank": 18,
@@ -3451,6 +3571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107281,
+      "num": 182410,
+      "word": "樊振东的开心要溢出屏幕了",
+      "onboard_time": 1757909965,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106819,
       "num": 120550,
       "word": "那英没有版权就让龚俊唱",
@@ -3548,7 +3676,7 @@
     },
     {
       "raw_hot": 102782,
-      "num": 102782,
+      "num": 719626,
       "word": "俄军演中发射锆石高超音速导弹",
       "onboard_time": 1757896222,
       "rank": 35,
@@ -4825,6 +4953,14 @@
       "onboard_time": 1757793795,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 7941,
+      "num": 752949,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1757910442,
+      "rank": 8,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
