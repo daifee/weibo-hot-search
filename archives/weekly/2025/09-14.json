@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757956920456,
+  "endTime": 1757957986962,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -6859,6 +6859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41227,
+      "num": 79790,
+      "word": "杨帆是李佳本科老师",
+      "onboard_time": 1757957476,
+      "rank": 30,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 41159,
       "num": 119933,
       "word": "15岁残障女孩殒命铁轨监控曝光",
@@ -7129,6 +7137,14 @@
       "onboard_time": 1757880915,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23624,
+      "num": 77520,
+      "word": "WMA微博音乐盛典定档",
+      "onboard_time": 1757957957,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 23561,

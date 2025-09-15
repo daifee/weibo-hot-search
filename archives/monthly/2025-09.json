@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757956920456,
+  "endTime": 1757957986962,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -46131,6 +46131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41227,
+      "num": 79790,
+      "word": "杨帆是李佳本科老师",
+      "onboard_time": 1757957476,
+      "rank": 30,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 41205,
       "num": 296323,
       "word": "澳门2049非遗马拉松开跑",
@@ -47817,6 +47825,14 @@
       "onboard_time": 1757699418,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23624,
+      "num": 77520,
+      "word": "WMA微博音乐盛典定档",
+      "onboard_time": 1757957957,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 23617,
