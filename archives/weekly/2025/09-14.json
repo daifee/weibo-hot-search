@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757935296498,
+  "endTime": 1757936215524,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -859,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 498641,
+      "num": 498641,
+      "word": "深圳市民捡到2267.83克巨型金条",
+      "onboard_time": 1757931441,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498347,
       "num": 498347,
       "word": "昏迷女孩被拖出车厢场面惊心",
@@ -923,20 +931,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474920,
+      "num": 474920,
+      "word": "成毅又在爱奇艺剧宣上闯祸了",
+      "onboard_time": 1757931023,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474449,
       "num": 467478,
       "word": "女演员视后含金量",
       "onboard_time": 1757818883,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 472120,
-      "num": 472120,
-      "word": "深圳市民捡到2267.83克巨型金条",
-      "onboard_time": 1757931441,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 471944,
@@ -969,6 +977,14 @@
       "onboard_time": 1757800635,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 455181,
+      "num": 455181,
+      "word": "张艺兴仅自己可见的微博",
+      "onboard_time": 1757931322,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 447283,
@@ -1275,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376824,
-      "num": 376824,
-      "word": "成毅又在爱奇艺剧宣上闯祸了",
-      "onboard_time": 1757931023,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 371688,
       "num": 326980,
       "word": "张凌赫背着王楚然出嫁路透",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1757851583,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 363069,
-      "num": 363069,
-      "word": "张艺兴仅自己可见的微博",
-      "onboard_time": 1757931322,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 362176,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1757910086,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 288584,
+      "num": 247016,
+      "word": "39岁一千度近视加175度散光",
+      "onboard_time": 1757932883,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 288492,
@@ -1873,14 +1881,6 @@
       "onboard_time": 1757929102,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247016,
-      "num": 247016,
-      "word": "39岁一千度近视加175度散光",
-      "onboard_time": 1757932883,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 245885,
@@ -2604,7 +2604,7 @@
     },
     {
       "raw_hot": 189615,
-      "num": 153159,
+      "num": 170754,
       "word": "关晓彤挪威追极光",
       "onboard_time": 1757934323,
       "rank": 29,
@@ -2939,6 +2939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 169982,
+      "num": 169982,
+      "word": "运动瘦vs饿瘦",
+      "onboard_time": 1757933122,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169091,
       "num": 169091,
       "word": "瘦了20斤鼻子变化",
@@ -3051,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164282,
+      "num": 164282,
+      "word": "普通人在上海早walk晚drink的一天",
+      "onboard_time": 1757935583,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164084,
       "num": 164084,
       "word": "赴山海服化道",
@@ -3148,7 +3164,7 @@
     },
     {
       "raw_hot": 161450,
-      "num": 153617,
+      "num": 166893,
       "word": "三胎家庭最受委屈的是老几",
       "onboard_time": 1757933724,
       "rank": 28,
@@ -3209,6 +3225,14 @@
       "onboard_time": 1757830942,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159893,
+      "num": 159893,
+      "word": "家庭的松弛感让孩子更好带",
+      "onboard_time": 1757936124,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 159871,
@@ -3380,7 +3404,7 @@
     },
     {
       "raw_hot": 153910,
-      "num": 153910,
+      "num": 170311,
       "word": "黄奕一件事已经坚持17年了",
       "onboard_time": 1757933962,
       "rank": 26,
@@ -3505,6 +3529,14 @@
       "onboard_time": 1757898503,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148134,
+      "num": 148134,
+      "word": "孙颖莎14冠王楚钦10冠",
+      "onboard_time": 1757935822,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 147657,
@@ -3761,14 +3793,6 @@
       "onboard_time": 1757903120,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140206,
-      "num": 140206,
-      "word": "运动瘦vs饿瘦",
-      "onboard_time": 1757933122,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 139825,
@@ -4491,6 +4515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114556,
+      "num": 114556,
+      "word": "雷佳音 我媳妇是我同班同学",
+      "onboard_time": 1757933243,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114400,
       "num": 126733,
       "word": "国家级保护区治愈buff叠满",
@@ -4651,6 +4683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108304,
+      "num": 108304,
+      "word": "王曼昱掩面令人动容",
+      "onboard_time": 1757935464,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108283,
       "num": 108283,
       "word": "你们官宣怎么不通知颜安",
@@ -4729,14 +4769,6 @@
       "onboard_time": 1757925682,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106400,
-      "num": 106400,
-      "word": "雷佳音 我媳妇是我同班同学",
-      "onboard_time": 1757933243,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 106208,
@@ -5123,12 +5155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95454,
+      "num": 95454,
+      "word": "瑞幸崩铁联动冷变杯炒到180元",
+      "onboard_time": 1757936063,
+      "rank": 42,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 95232,
       "num": 95232,
       "word": "苹果用自研换利润",
       "onboard_time": 1757923762,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95100,
+      "num": 95100,
+      "word": "左航一口气发13首歌给刘彰",
+      "onboard_time": 1757936002,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 94844,
@@ -5153,6 +5201,14 @@
       "onboard_time": 1757921002,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94189,
+      "num": 94189,
+      "word": "妻子出轨主播打赏45万丈夫要求返还",
+      "onboard_time": 1757936063,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93107,
@@ -5209,6 +5265,14 @@
       "onboard_time": 1757864423,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90072,
+      "num": 90072,
+      "word": "出租屋小冰箱千万别随便买",
+      "onboard_time": 1757933303,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 90070,
@@ -5611,6 +5675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69129,
+      "num": 241408,
+      "word": "88折叫优惠72折叫狠活儿",
+      "onboard_time": 1757934263,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64165,
       "num": 292457,
       "word": "肖战能不能把高智感穿搭焊在身上",
@@ -5713,6 +5785,14 @@
       "onboard_time": 1757932342,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 59220,
+      "num": 107577,
+      "word": "方媛孕晚期体重不到100斤",
+      "onboard_time": 1757935943,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 59060,
@@ -5819,14 +5899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55061,
-      "num": 241408,
-      "word": "88折叫优惠72折叫狠活儿",
-      "onboard_time": 1757934263,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54570,
       "num": 120385,
       "word": "韩学者感叹才知道中国很牛",
@@ -5849,6 +5921,14 @@
       "onboard_time": 1757906062,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52502,
+      "num": 235231,
+      "word": "警方回应两女子被戴手铐带走引围观",
+      "onboard_time": 1757935764,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51673,
@@ -6059,6 +6139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39842,
+      "num": 107304,
+      "word": "印军采购阵风并吹嘘击败了中国导弹",
+      "onboard_time": 1757935222,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39338,
       "num": 144657,
       "word": "3名间谍冒充外卖员钓鱼佬",
@@ -6095,14 +6183,6 @@
       "num": 132431,
       "word": "武契奇 受邀访华时内心欣喜若狂",
       "onboard_time": 1757906842,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 35324,
-      "num": 106864,
-      "word": "印军采购阵风并吹嘘击败了中国导弹",
-      "onboard_time": 1757935222,
       "rank": 37,
       "category": "国际时政"
     },
@@ -6449,6 +6529,14 @@
       "onboard_time": 1757872036,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12924,
+      "num": 164640,
+      "word": "女子怀疑57年前被抱错经鉴定系亲生",
+      "onboard_time": 1757935883,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12392,
