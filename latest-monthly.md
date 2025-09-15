@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 21:05:19
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 21:32:26
 </p>
 </blockquote>
 <p>
@@ -1911,6 +1911,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%20%E5%89%A7%E6%9C%AC%E7%A9%BF%E5%B8%AE%23" target="weibo">
+赴山海 剧本穿帮（热度：1031925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%96%E7%BD%91%E5%8F%8B%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E9%9C%87%E6%83%8A%23" target="weibo">
 国外网友被中国阅兵震惊（热度：1028515）
 </a>
@@ -1925,6 +1931,12 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%BA%97%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E8%87%AA%E5%B8%A6%E6%A1%B6%E7%BB%AD%E6%9D%AF%E9%A5%AE%E6%96%99%23" target="weibo">
 山姆店回应顾客自带桶续杯饮料（热度：1026002）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%93%A6%E5%A6%865%E6%AC%A1%E8%89%BA%E8%80%83%E7%94%9F%E5%BC%80%E5%AD%A6%E4%BA%86%23" target="weibo">
+被擦妆5次艺考生开学了（热度：1021721）
 </a>
 </li>
 
@@ -4977,12 +4989,6 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%93%A6%E5%A6%865%E6%AC%A1%E8%89%BA%E8%80%83%E7%94%9F%E5%BC%80%E5%AD%A6%E4%BA%86%23" target="weibo">
-被擦妆5次艺考生开学了（热度：510283）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%BB%A1%E5%9C%B0%E5%86%B0%E9%9B%B9%E5%83%8F%E4%B8%8B%E9%9B%AA%E4%B8%80%E6%A0%B7%23" target="weibo">
 北京满地冰雹像下雪一样（热度：509446）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜AL（热度：441359）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%23" target="weibo">
 周迅（热度：440881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E5%AD%A9%E5%AD%90%E6%88%B7%E5%8F%A3%E6%8C%89%E9%9D%9E%E5%A9%9A%E7%94%9F%E5%8A%9E%E7%90%86%23" target="weibo">
-王暖暖孩子户口按非婚生办理（热度：440463）
 </a>
 </li>
 
