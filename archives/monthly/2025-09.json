@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757925225664,
+  "endTime": 1757926005551,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1923,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1230098,
+      "num": 696012,
+      "word": "杨幂还是太体面了",
+      "onboard_time": 1757924123,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1230035,
       "num": 1230035,
       "word": "VOGUE金九单人封面",
@@ -2820,7 +2828,7 @@
     },
     {
       "raw_hot": 945720,
-      "num": 343871,
+      "num": 370438,
       "word": "KiMi已经16岁了",
       "onboard_time": 1757920342,
       "rank": 13,
@@ -4467,14 +4475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 696012,
-      "num": 696012,
-      "word": "杨幂还是太体面了",
-      "onboard_time": 1757924123,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 695555,
       "num": 695555,
       "word": "期待下次阅兵了",
@@ -5449,6 +5449,14 @@
       "onboard_time": 1757654007,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 592706,
+      "num": 592706,
+      "word": "英伟达违法",
+      "onboard_time": 1757924602,
+      "rank": 14,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 592009,
@@ -8884,7 +8892,7 @@
     },
     {
       "raw_hot": 393443,
-      "num": 326747,
+      "num": 370381,
       "word": "辛芷蕾神似早期的宋慧乔",
       "onboard_time": 1757921602,
       "rank": 16,
@@ -9096,6 +9104,14 @@
       "word": "新疆小姐姐说去北京不用背馕了",
       "onboard_time": 1757865562,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386603,
+      "num": 386603,
+      "word": "市场监管总局对英伟达实施进一步调查",
+      "onboard_time": 1757924602,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -9667,6 +9683,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 367987,
+      "num": 367987,
+      "word": "临沧市镇康县3.1级地震",
+      "onboard_time": 1757925924,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367939,
+      "num": 367939,
+      "word": "小米手机 头像",
+      "onboard_time": 1757924541,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 367488,
       "num": 367488,
       "word": "刘宇宁一米九大高个被菜打了",
@@ -10212,7 +10244,7 @@
     },
     {
       "raw_hot": 346491,
-      "num": 346491,
+      "num": 371563,
       "word": "赴山海开播现状",
       "onboard_time": 1757922862,
       "rank": 8,
@@ -10641,14 +10673,6 @@
       "onboard_time": 1756807102,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 331252,
-      "num": 331252,
-      "word": "市场监管总局对英伟达实施进一步调查",
-      "onboard_time": 1757924602,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331224,
@@ -11665,14 +11689,6 @@
       "onboard_time": 1756696580,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296214,
-      "num": 296214,
-      "word": "英伟达违法",
-      "onboard_time": 1757924602,
-      "rank": 14,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 295921,
@@ -13201,6 +13217,14 @@
       "onboard_time": 1756879886,
       "rank": 44,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 253989,
+      "num": 253989,
+      "word": "唐嫣裙子勒得动不了",
+      "onboard_time": 1757925202,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 253734,
@@ -16083,12 +16107,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204045,
+      "num": 204045,
+      "word": "中方必将坚决反制",
+      "onboard_time": 1757923942,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 204025,
       "num": 149826,
       "word": "苹果韩国官网 没有手",
       "onboard_time": 1757489122,
       "rank": 46,
       "category": "数码,海外新闻"
+    },
+    {
+      "raw_hot": 203848,
+      "num": 203848,
+      "word": "外交部回应已邀特朗普访华",
+      "onboard_time": 1757923582,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203844,
@@ -16155,6 +16195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203387,
+      "num": 203387,
+      "word": "魅族22价格",
+      "onboard_time": 1757925502,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203362,
       "num": 203362,
       "word": "梁伟铿王昶2比0吉丁努蓬德差波",
@@ -16185,14 +16233,6 @@
       "onboard_time": 1756863269,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 203269,
-      "num": 203269,
-      "word": "小米手机 头像",
-      "onboard_time": 1757924541,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 203240,
@@ -17785,6 +17825,14 @@
       "onboard_time": 1757053941,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192459,
+      "num": 198312,
+      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+      "onboard_time": 1757925202,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 192381,
@@ -19539,6 +19587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179459,
+      "num": 179459,
+      "word": "李雪琴 拢共就三个人",
+      "onboard_time": 1757924781,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179394,
       "num": 179394,
       "word": "要求200万月薪的董事长已被免",
@@ -19745,14 +19801,6 @@
       "onboard_time": 1757058802,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177301,
-      "num": 177301,
-      "word": "中方必将坚决反制",
-      "onboard_time": 1757923942,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 177154,
@@ -21169,14 +21217,6 @@
       "onboard_time": 1757751983,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167461,
-      "num": 182836,
-      "word": "外交部回应已邀特朗普访华",
-      "onboard_time": 1757923582,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 167421,
@@ -22865,6 +22905,14 @@
       "onboard_time": 1757257044,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157368,
+      "num": 157368,
+      "word": "这开学典礼也太权威了",
+      "onboard_time": 1757925743,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 157360,
@@ -25945,6 +25993,14 @@
       "onboard_time": 1757315843,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142181,
+      "num": 142181,
+      "word": "一诺又是开心的一天",
+      "onboard_time": 1757925442,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 142161,
@@ -34931,6 +34987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106456,
+      "num": 106456,
+      "word": "诚C心往一处武汉见",
+      "onboard_time": 1757925682,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106440,
       "num": 171940,
       "word": "山东魏桥2比1山东鲁能",
@@ -35153,14 +35217,6 @@
       "onboard_time": 1757604511,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105667,
-      "num": 105667,
-      "word": "唐嫣裙子勒得动不了",
-      "onboard_time": 1757925202,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 105634,
@@ -35577,14 +35633,6 @@
       "onboard_time": 1757601456,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103822,
-      "num": 103822,
-      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
-      "onboard_time": 1757925202,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 103768,
@@ -38419,6 +38467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90839,
+      "num": 144783,
+      "word": "张维伊董璇互相见不上",
+      "onboard_time": 1757925082,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90816,
       "num": 540533,
       "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
@@ -40291,6 +40347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80159,
+      "num": 111804,
+      "word": "父亲因彩礼收走女儿手机阻止结婚",
+      "onboard_time": 1757925981,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80104,
       "num": 110968,
       "word": "台湾教授受邀参加九三阅兵",
@@ -41516,7 +41580,7 @@
     },
     {
       "raw_hot": 70981,
-      "num": 209544,
+      "num": 224667,
       "word": "15万级电车迎来华为乾崑时代",
       "onboard_time": 1757923582,
       "rank": 19,
@@ -41985,14 +42049,6 @@
       "onboard_time": 1756769779,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 66216,
-      "num": 124351,
-      "word": "李雪琴 拢共就三个人",
-      "onboard_time": 1757924781,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 66151,
@@ -43297,6 +43353,14 @@
       "onboard_time": 1757061742,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55357,
+      "num": 187740,
+      "word": "酒店房间被24小时直播上百人围观",
+      "onboard_time": 1757925743,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55326,
@@ -45603,6 +45667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31720,
+      "num": 145402,
+      "word": "韩国工人在美被拘脱光检查还被嘲",
+      "onboard_time": 1757925863,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 31678,
       "num": 31678,
       "word": "鹿晗season4亚洲巡演",
@@ -45977,14 +46049,6 @@
       "onboard_time": 1757757983,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27702,
-      "num": 123141,
-      "word": "张维伊董璇互相见不上",
-      "onboard_time": 1757925082,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 27640,

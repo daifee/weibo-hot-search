@@ -1,0 +1,410 @@
+{
+  "runTime": 1757926005551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925367,
+        "num": 1926259,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 592706,
+        "num": 592706,
+        "word": "英伟达违法",
+        "onboard_time": 1757924602,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 2354,
+        "num": 587497,
+        "word": "丰收的田野是最美的画卷",
+        "onboard_time": 1757858306,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6590160,
+        "num": 6590160,
+        "word": "西贝道歉",
+        "onboard_time": 1757914403,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1520707,
+        "num": 553612,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1230098,
+        "num": 540638,
+        "word": "杨幂还是太体面了",
+        "onboard_time": 1757924123,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 535989,
+        "num": 535989,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394805,
+        "num": 394805,
+        "word": "学中医女生把到爷爷死脉",
+        "onboard_time": 1757918662,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386603,
+        "num": 386603,
+        "word": "市场监管总局对英伟达实施进一步调查",
+        "onboard_time": 1757924602,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332200,
+        "num": 371563,
+        "word": "赴山海开播现状",
+        "onboard_time": 1757922862,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 790425,
+        "num": 370438,
+        "word": "KiMi已经16岁了",
+        "onboard_time": 1757920342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390844,
+        "num": 370381,
+        "word": "辛芷蕾神似早期的宋慧乔",
+        "onboard_time": 1757921602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367987,
+        "num": 367987,
+        "word": "临沧市镇康县3.1级地震",
+        "onboard_time": 1757925924,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367939,
+        "num": 367939,
+        "word": "小米手机 头像",
+        "onboard_time": 1757924541,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 306742,
+        "num": 306742,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284352,
+        "num": 284352,
+        "word": "骗子送400万余额银行卡",
+        "onboard_time": 1757919141,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253989,
+        "num": 253989,
+        "word": "唐嫣裙子勒得动不了",
+        "onboard_time": 1757925202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241337,
+        "num": 241337,
+        "word": "董璇听到张维伊说话的表情",
+        "onboard_time": 1757913264,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239913,
+        "num": 239913,
+        "word": "祝绪丹录浪姐团综爆哭3小时",
+        "onboard_time": 1757921063,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61558,
+        "num": 224667,
+        "word": "15万级电车迎来华为乾崑时代",
+        "onboard_time": 1757923582,
+        "rank": 19,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 219570,
+        "num": 219570,
+        "word": "西贝将统一采用非转基因大豆油",
+        "onboard_time": 1757917343,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211548,
+        "num": 211548,
+        "word": "8个月婴儿没喝茶被收茶位费",
+        "onboard_time": 1757918782,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204045,
+        "num": 204045,
+        "word": "中方必将坚决反制",
+        "onboard_time": 1757923942,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203848,
+        "num": 203848,
+        "word": "外交部回应已邀特朗普访华",
+        "onboard_time": 1757923582,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203387,
+        "num": 203387,
+        "word": "魅族22价格",
+        "onboard_time": 1757925502,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198415,
+        "num": 198415,
+        "word": "长春两女子被戴手铐带走",
+        "onboard_time": 1757919801,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192459,
+        "num": 198312,
+        "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+        "onboard_time": 1757925202,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198259,
+        "num": 198259,
+        "word": "成毅直播",
+        "onboard_time": 1757924962,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196848,
+        "num": 196848,
+        "word": "西贝全国门店陆续完成调整",
+        "onboard_time": 1757917642,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 55357,
+        "num": 187740,
+        "word": "酒店房间被24小时直播上百人围观",
+        "onboard_time": 1757925743,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179459,
+        "num": 179459,
+        "word": "李雪琴 拢共就三个人",
+        "onboard_time": 1757924781,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177696,
+        "num": 177696,
+        "word": "雷军 全面对标iPhone",
+        "onboard_time": 1757904380,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170478,
+        "num": 170478,
+        "word": "15岁女孩被火车撞亡母亲发声",
+        "onboard_time": 1757923762,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112660,
+        "num": 169151,
+        "word": "朱志鑫anti声中面不改色",
+        "onboard_time": 1757924481,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168292,
+        "num": 168292,
+        "word": "日料 预制",
+        "onboard_time": 1757917403,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157368,
+        "num": 157368,
+        "word": "这开学典礼也太权威了",
+        "onboard_time": 1757925743,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149728,
+        "num": 149728,
+        "word": "小米17 王腾",
+        "onboard_time": 1757912124,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148258,
+        "num": 148258,
+        "word": "小米17",
+        "onboard_time": 1757902640,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31720,
+        "num": 145402,
+        "word": "韩国工人在美被拘脱光检查还被嘲",
+        "onboard_time": 1757925863,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90839,
+        "num": 144783,
+        "word": "张维伊董璇互相见不上",
+        "onboard_time": 1757925082,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144500,
+        "num": 144500,
+        "word": "杨帆 众合",
+        "onboard_time": 1757922805,
+        "rank": 40,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 142181,
+        "num": 142181,
+        "word": "一诺又是开心的一天",
+        "onboard_time": 1757925442,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115687,
+        "num": 115687,
+        "word": "胡锡进谈西贝道歉",
+        "onboard_time": 1757922142,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115299,
+        "num": 115299,
+        "word": "731",
+        "onboard_time": 1757903181,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80159,
+        "num": 111804,
+        "word": "父亲因彩礼收走女儿手机阻止结婚",
+        "onboard_time": 1757925981,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110120,
+        "num": 110120,
+        "word": "可以上1休29吗",
+        "onboard_time": 1757919561,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106932,
+        "num": 106932,
+        "word": "原来大家都有考研坐骑",
+        "onboard_time": 1757923522,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106456,
+        "num": 106456,
+        "word": "诚C心往一处武汉见",
+        "onboard_time": 1757925682,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105920,
+        "num": 105920,
+        "word": "巴基斯坦总统与歼10合影",
+        "onboard_time": 1757922383,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105878,
+        "num": 105878,
+        "word": "心动的信号爆灯",
+        "onboard_time": 1757913023,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}
