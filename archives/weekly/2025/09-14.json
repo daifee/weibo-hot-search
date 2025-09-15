@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757971330805,
+  "endTime": 1757972185400,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -7339,6 +7339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14730,
+      "num": 33873,
+      "word": "萧秋水被做局了",
+      "onboard_time": 1757965755,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14133,
       "num": 178718,
       "word": "央视曝光文物销售坑老骗局",
@@ -7352,14 +7360,6 @@
       "word": "赴山海云合稳步上升",
       "onboard_time": 1757872036,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 13876,
-      "num": 33873,
-      "word": "萧秋水被做局了",
-      "onboard_time": 1757965755,
-      "rank": 43,
       "category": "剧集"
     },
     {
