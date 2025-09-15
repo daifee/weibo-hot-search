@@ -1,7 +1,15 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757913932750,
+  "endTime": 1757914918620,
   "band_list": [
+    {
+      "raw_hot": 4419497,
+      "num": 4419497,
+      "word": "西贝道歉",
+      "onboard_time": 1757914403,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 3969260,
       "num": 3969260,
@@ -99,20 +107,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 783655,
+      "num": 783655,
+      "word": "小米17 王腾",
+      "onboard_time": 1757912124,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 783148,
       "num": 783148,
       "word": "奥运冠军邓琳琳官宣怀孕",
       "onboard_time": 1757901261,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 776024,
-      "num": 776024,
-      "word": "小米17 王腾",
-      "onboard_time": 1757912124,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 750481,
@@ -155,8 +163,16 @@
       "category": "数码"
     },
     {
-      "raw_hot": 632325,
-      "num": 397490,
+      "raw_hot": 641281,
+      "num": 426370,
+      "word": "董璇听到张维伊说话的表情",
+      "onboard_time": 1757913264,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 638213,
+      "num": 424844,
       "word": "炎亚纶不像演的",
       "onboard_time": 1757910143,
       "rank": 27,
@@ -209,6 +225,14 @@
       "onboard_time": 1757864363,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 497963,
+      "num": 497963,
+      "word": "辛芷蕾长文感谢梁婷",
+      "onboard_time": 1757913683,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 467733,
@@ -265,6 +289,14 @@
       "onboard_time": 1757910384,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423256,
+      "num": 423256,
+      "word": "心动的信号爆灯",
+      "onboard_time": 1757913023,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 417629,
@@ -363,14 +395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334943,
-      "num": 334943,
-      "word": "董璇听到张维伊说话的表情",
-      "onboard_time": 1757913264,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329168,
       "num": 329168,
       "word": "租房新规今起实施",
@@ -403,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318189,
+      "num": 318189,
+      "word": "迪亚兹晒与孙颖莎合影",
+      "onboard_time": 1757913505,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293660,
       "num": 293660,
       "word": "男子19岁继承百万遗产却日渐崩溃",
@@ -433,14 +465,6 @@
       "onboard_time": 1757855965,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279694,
-      "num": 279694,
-      "word": "心动的信号爆灯",
-      "onboard_time": 1757913023,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 276742,
@@ -489,6 +513,14 @@
       "onboard_time": 1757909603,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259195,
+      "num": 215533,
+      "word": "男子婚内为要男孩和他人做试管",
+      "onboard_time": 1757911467,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256184,
@@ -555,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220471,
-      "num": 220471,
-      "word": "迪亚兹晒与孙颖莎合影",
-      "onboard_time": 1757913505,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218986,
       "num": 218986,
       "word": "2岁女童失踪超10天母亲发声",
@@ -587,14 +611,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 215533,
-      "num": 215533,
-      "word": "男子婚内为要男孩和他人做试管",
-      "onboard_time": 1757911467,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215347,
       "num": 215347,
       "word": "艾美奖获奖名单",
@@ -609,6 +625,14 @@
       "onboard_time": 1757909423,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212282,
+      "num": 212282,
+      "word": "果然胖了显善良",
+      "onboard_time": 1757914343,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 208901,
@@ -739,14 +763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184656,
-      "num": 184656,
-      "word": "辛芷蕾长文感谢梁婷",
-      "onboard_time": 1757913683,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183156,
       "num": 183156,
       "word": "纽约坐地铁偶遇黄多多",
@@ -817,6 +833,14 @@
       "onboard_time": 1757908883,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172196,
+      "num": 172196,
+      "word": "孙颖莎王曼昱惺惺相惜",
+      "onboard_time": 1757914102,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 171430,
@@ -905,6 +929,14 @@
       "onboard_time": 1757903720,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157776,
+      "num": 157776,
+      "word": "多方回应教资考生手机被雨泡坏",
+      "onboard_time": 1757913563,
+      "rank": 43,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 157357,
@@ -1019,12 +1051,28 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 144238,
+      "num": 144238,
+      "word": "老乡鸡",
+      "onboard_time": 1757913802,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "这些租房糟心事有救了",
       "onboard_time": 1757902161,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142610,
+      "num": 164460,
+      "word": "辛芷蕾开屏",
+      "onboard_time": 1757913802,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 140990,
@@ -1043,14 +1091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138525,
-      "num": 138525,
-      "word": "多方回应教资考生手机被雨泡坏",
-      "onboard_time": 1757913563,
-      "rank": 43,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 137064,
       "num": 146577,
       "word": "芯片板块再走强",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1757865383,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 134186,
-      "num": 134186,
-      "word": "辛芷蕾开屏",
-      "onboard_time": 1757913802,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 133359,
@@ -1107,6 +1139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127859,
+      "num": 127859,
+      "word": "2010年的招聘要求",
+      "onboard_time": 1757914524,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 125188,
+      "num": 125188,
+      "word": "孙颖莎奖杯多到摆不下",
+      "onboard_time": 1757914642,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125028,
       "num": 125028,
       "word": "王一博出道十一周年照",
@@ -1137,6 +1185,14 @@
       "onboard_time": 1757842879,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122745,
+      "num": 426773,
+      "word": "一教资考点多名考生物品被雨泡损坏",
+      "onboard_time": 1757913862,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122182,
@@ -1225,6 +1281,14 @@
       "onboard_time": 1757908042,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111465,
+      "num": 111465,
+      "word": "宁静拽邵子恒出来饭撒",
+      "onboard_time": 1757914283,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109594,
@@ -1387,14 +1451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85929,
-      "num": 144757,
-      "word": "一教资考点多名考生物品被雨泡损坏",
-      "onboard_time": 1757913862,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85342,
       "num": 103818,
       "word": "王楚钦战胜雨果夺冠",
@@ -1507,6 +1563,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 71216,
+      "num": 131986,
+      "word": "花两万元存胎盘治百病是智商税吗",
+      "onboard_time": 1757914703,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70412,
       "num": 70412,
       "word": "XG教练称又搞砸了",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1757869519,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 60354,
+      "num": 129087,
+      "word": "阿瑟没做到的脸颊比心陈凯歌做到了",
+      "onboard_time": 1757914042,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 60269,
@@ -1659,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39338,
+      "num": 144657,
+      "word": "3名间谍冒充外卖员钓鱼佬",
+      "onboard_time": 1757913802,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38432,
       "num": 151389,
       "word": "俄罗斯学生跨境来中国上小学",
@@ -1688,14 +1768,6 @@
       "word": "丰收的田野是最美的画卷",
       "onboard_time": 1757858306,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34759,
-      "num": 144657,
-      "word": "3名间谍冒充外卖员钓鱼佬",
-      "onboard_time": 1757913802,
-      "rank": 39,
       "category": "民生新闻"
     },
     {

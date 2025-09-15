@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757913932750,
+  "endTime": 1757914918620,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -177,6 +177,14 @@
       "onboard_time": 1757431282,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 4419497,
+      "num": 4419497,
+      "word": "西贝道歉",
+      "onboard_time": 1757914403,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4117565,
@@ -3779,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 783655,
+      "num": 783655,
+      "word": "小米17 王腾",
+      "onboard_time": 1757912124,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 783148,
       "num": 783148,
       "word": "奥运冠军邓琳琳官宣怀孕",
@@ -3801,14 +3817,6 @@
       "onboard_time": 1757208022,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 776024,
-      "num": 776024,
-      "word": "小米17 王腾",
-      "onboard_time": 1757912124,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 771822,
@@ -4955,6 +4963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 641281,
+      "num": 426370,
+      "word": "董璇听到张维伊说话的表情",
+      "onboard_time": 1757913264,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 639198,
       "num": 416722,
       "word": "85花格局要变了",
@@ -4979,20 +4995,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638213,
+      "num": 424844,
+      "word": "炎亚纶不像演的",
+      "onboard_time": 1757910143,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 632434,
       "num": 629195,
       "word": "童锦程官宣新恋情",
       "onboard_time": 1757575958,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 632325,
-      "num": 397490,
-      "word": "炎亚纶不像演的",
-      "onboard_time": 1757910143,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 632186,
@@ -6707,6 +6723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497963,
+      "num": 497963,
+      "word": "辛芷蕾长文感谢梁婷",
+      "onboard_time": 1757913683,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 496738,
       "num": 496738,
       "word": "救下迷路和平鸽",
@@ -8177,6 +8201,14 @@
       "onboard_time": 1756795640,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423256,
+      "num": 423256,
+      "word": "心动的信号爆灯",
+      "onboard_time": 1757913023,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 423209,
@@ -10403,14 +10435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334943,
-      "num": 334943,
-      "word": "董璇听到张维伊说话的表情",
-      "onboard_time": 1757913264,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333603,
       "num": 309004,
       "word": "你说双一流原来是这么个双一流",
@@ -10897,6 +10921,14 @@
       "onboard_time": 1757231662,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 318189,
+      "num": 318189,
+      "word": "迪亚兹晒与孙颖莎合影",
+      "onboard_time": 1757913505,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 317898,
@@ -12107,14 +12139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 279694,
-      "num": 279694,
-      "word": "心动的信号爆灯",
-      "onboard_time": 1757913023,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279387,
       "num": 906824,
       "word": "西贝将上线罗永浩菜单",
@@ -12809,6 +12833,14 @@
       "onboard_time": 1756816761,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 259195,
+      "num": 215533,
+      "word": "男子婚内为要男孩和他人做试管",
+      "onboard_time": 1757911467,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258967,
@@ -14699,14 +14731,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 220471,
-      "num": 220471,
-      "word": "迪亚兹晒与孙颖莎合影",
-      "onboard_time": 1757913505,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220432,
       "num": 220432,
       "word": "预制菜",
@@ -15035,14 +15059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215533,
-      "num": 215533,
-      "word": "男子婚内为要男孩和他人做试管",
-      "onboard_time": 1757911467,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215420,
       "num": 201705,
       "word": "我家蟑螂喷了药之后也这样打拳",
@@ -15249,6 +15265,14 @@
       "onboard_time": 1757167947,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212282,
+      "num": 212282,
+      "word": "果然胖了显善良",
+      "onboard_time": 1757914343,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 212262,
@@ -18651,14 +18675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184656,
-      "num": 184656,
-      "word": "辛芷蕾长文感谢梁婷",
-      "onboard_time": 1757913683,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184544,
       "num": 184544,
       "word": "TF三代黄朔首个外务来了",
@@ -20121,6 +20137,14 @@
       "onboard_time": 1757773586,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172196,
+      "num": 172196,
+      "word": "孙颖莎王曼昱惺惺相惜",
+      "onboard_time": 1757914102,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 172146,
@@ -22489,6 +22513,14 @@
       "onboard_time": 1757834122,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157776,
+      "num": 157776,
+      "word": "多方回应教资考生手机被雨泡坏",
+      "onboard_time": 1757913563,
+      "rank": 43,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 157685,
@@ -25139,6 +25171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 144238,
+      "num": 144238,
+      "word": "老乡鸡",
+      "onboard_time": 1757913802,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144228,
       "num": 156209,
       "word": "金靖戴着龚俊来西班牙了",
@@ -25472,6 +25512,14 @@
       "word": "王一博这么快就又下班了",
       "onboard_time": 1757681906,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142610,
+      "num": 164460,
+      "word": "辛芷蕾开屏",
+      "onboard_time": 1757913802,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -26369,14 +26417,6 @@
       "onboard_time": 1757765005,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138525,
-      "num": 138525,
-      "word": "多方回应教资考生手机被雨泡坏",
-      "onboard_time": 1757913563,
-      "rank": 43,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 138465,
@@ -27505,14 +27545,6 @@
       "onboard_time": 1757648006,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134186,
-      "num": 134186,
-      "word": "辛芷蕾开屏",
-      "onboard_time": 1757913802,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 134153,
@@ -29051,6 +29083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127859,
+      "num": 127859,
+      "word": "2010年的招聘要求",
+      "onboard_time": 1757914524,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127833,
       "num": 127833,
       "word": "明日方舟mujica联动周边",
@@ -29641,6 +29681,14 @@
       "onboard_time": 1757335103,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125188,
+      "num": 125188,
+      "word": "孙颖莎奖杯多到摆不下",
+      "onboard_time": 1757914642,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 125181,
@@ -30281,6 +30329,14 @@
       "onboard_time": 1757071641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122745,
+      "num": 426773,
+      "word": "一教资考点多名考生物品被雨泡损坏",
+      "onboard_time": 1757913862,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122619,
@@ -33065,6 +33121,14 @@
       "onboard_time": 1757394802,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111465,
+      "num": 111465,
+      "word": "宁静拽邵子恒出来饭撒",
+      "onboard_time": 1757914283,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111400,
@@ -38771,14 +38835,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 85929,
-      "num": 144757,
-      "word": "一教资考点多名考生物品被雨泡损坏",
-      "onboard_time": 1757913862,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85884,
       "num": 479999,
       "word": "绍兴出土越王勾践专用青铜戈",
@@ -40915,6 +40971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71216,
+      "num": 131986,
+      "word": "花两万元存胎盘治百病是智商税吗",
+      "onboard_time": 1757914703,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71156,
       "num": 122358,
       "word": "韩右翼游行高喊我们都是柯克",
@@ -42089,6 +42153,14 @@
       "onboard_time": 1756736184,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 60354,
+      "num": 129087,
+      "word": "阿瑟没做到的脸颊比心陈凯歌做到了",
+      "onboard_time": 1757914042,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 60333,
@@ -44323,6 +44395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39338,
+      "num": 144657,
+      "word": "3名间谍冒充外卖员钓鱼佬",
+      "onboard_time": 1757913802,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39290,
       "num": 83755,
       "word": "Apple Watch S11续航24小时",
@@ -44705,14 +44785,6 @@
       "onboard_time": 1756825883,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34759,
-      "num": 144657,
-      "word": "3名间谍冒充外卖员钓鱼佬",
-      "onboard_time": 1757913802,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34597,

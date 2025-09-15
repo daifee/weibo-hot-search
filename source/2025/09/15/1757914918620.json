@@ -1,0 +1,410 @@
+{
+  "runTime": 1757914918620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4419497,
+        "num": 4419497,
+        "word": "西贝道歉",
+        "onboard_time": 1757914403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1689998,
+        "num": 1689998,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23531,
+        "num": 1560135,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757910925,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1508960,
+        "num": 1508960,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 918853,
+        "num": 918853,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783655,
+        "num": 783655,
+        "word": "小米17 王腾",
+        "onboard_time": 1757912124,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 544042,
+        "num": 544042,
+        "word": "雷军 全面对标iPhone",
+        "onboard_time": 1757904380,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 497963,
+        "num": 497963,
+        "word": "辛芷蕾长文感谢梁婷",
+        "onboard_time": 1757913683,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427470,
+        "num": 427470,
+        "word": "赴山海新款内娱长剧错题本",
+        "onboard_time": 1757910384,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122745,
+        "num": 426773,
+        "word": "一教资考点多名考生物品被雨泡损坏",
+        "onboard_time": 1757913862,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641281,
+        "num": 426370,
+        "word": "董璇听到张维伊说话的表情",
+        "onboard_time": 1757913264,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638213,
+        "num": 424844,
+        "word": "炎亚纶不像演的",
+        "onboard_time": 1757910143,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 611710,
+        "num": 423823,
+        "word": "赵本山女儿回应哥哥不争气",
+        "onboard_time": 1757908522,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423256,
+        "num": 423256,
+        "word": "心动的信号爆灯",
+        "onboard_time": 1757913023,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404538,
+        "num": 404538,
+        "word": "他的一天是连小说都不敢写的程度",
+        "onboard_time": 1757908103,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367792,
+        "num": 367792,
+        "word": "减肥太猛 显老",
+        "onboard_time": 1757906961,
+        "rank": 15,
+        "category": "科学科普,运动健身"
+      },
+      {
+        "raw_hot": 318189,
+        "num": 318189,
+        "word": "迪亚兹晒与孙颖莎合影",
+        "onboard_time": 1757913505,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265060,
+        "num": 265060,
+        "word": "731",
+        "onboard_time": 1757903181,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216889,
+        "num": 216889,
+        "word": "iPhone17系列价格已破发",
+        "onboard_time": 1757905701,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72786,
+        "num": 212782,
+        "word": "这届年轻人开始继承老爸的老车了",
+        "onboard_time": 1757911105,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 259195,
+        "num": 212745,
+        "word": "男子婚内为要男孩和他人做试管",
+        "onboard_time": 1757911467,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212282,
+        "num": 212282,
+        "word": "果然胖了显善良",
+        "onboard_time": 1757914343,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210597,
+        "num": 210597,
+        "word": "小米17",
+        "onboard_time": 1757902640,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208215,
+        "num": 208215,
+        "word": "喜欢吃大闸蟹嘴真严啊",
+        "onboard_time": 1757910384,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205166,
+        "num": 205166,
+        "word": "国庆中秋调休时间安排",
+        "onboard_time": 1757906121,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180530,
+        "num": 180530,
+        "word": "Dior认领",
+        "onboard_time": 1757895262,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172196,
+        "num": 172196,
+        "word": "孙颖莎王曼昱惺惺相惜",
+        "onboard_time": 1757914102,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167606,
+        "num": 167606,
+        "word": "孙颖莎 脆升升",
+        "onboard_time": 1757907862,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142610,
+        "num": 164460,
+        "word": "辛芷蕾开屏",
+        "onboard_time": 1757913802,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133250,
+        "num": 163889,
+        "word": "国庆中秋双节放假8天",
+        "onboard_time": 1757911105,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163666,
+        "num": 163666,
+        "word": "国庆中秋假期车票开售",
+        "onboard_time": 1757911704,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157776,
+        "num": 157776,
+        "word": "多方回应教资考生手机被雨泡坏",
+        "onboard_time": 1757913563,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 151246,
+        "num": 151246,
+        "word": "无意识变胖的行为",
+        "onboard_time": 1757912424,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149687,
+        "num": 149687,
+        "word": "你以为在备孕实际是避孕的行为",
+        "onboard_time": 1757901201,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149120,
+        "num": 149120,
+        "word": "沈佳润甜系学妹妆",
+        "onboard_time": 1757912724,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144238,
+        "num": 144238,
+        "word": "老乡鸡",
+        "onboard_time": 1757913802,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138086,
+        "num": 138086,
+        "word": "祝绪丹回应直播哽咽",
+        "onboard_time": 1757909423,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71216,
+        "num": 131986,
+        "word": "花两万元存胎盘治百病是智商税吗",
+        "onboard_time": 1757914703,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39338,
+        "num": 129153,
+        "word": "3名间谍冒充外卖员钓鱼佬",
+        "onboard_time": 1757913802,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60354,
+        "num": 129087,
+        "word": "阿瑟没做到的脸颊比心陈凯歌做到了",
+        "onboard_time": 1757914042,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129045,
+        "num": 129045,
+        "word": "袁一琦签约天娱传媒",
+        "onboard_time": 1757905462,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127859,
+        "num": 127859,
+        "word": "2010年的招聘要求",
+        "onboard_time": 1757914524,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125188,
+        "num": 125188,
+        "word": "孙颖莎奖杯多到摆不下",
+        "onboard_time": 1757914642,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121574,
+        "num": 121574,
+        "word": "男子19岁继承百万遗产却日渐崩溃",
+        "onboard_time": 1757910086,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 421049,
+        "num": 121407,
+        "word": "支付宝账号解除授权",
+        "onboard_time": 1757891539,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120757,
+        "num": 120757,
+        "word": "孙颖莎用副拍打的决赛",
+        "onboard_time": 1757907683,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120459,
+        "num": 120459,
+        "word": "张晚意的刘海好像手机屏幕",
+        "onboard_time": 1757911343,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118544,
+        "num": 118544,
+        "word": "宋妍霏回应提了24次裙子",
+        "onboard_time": 1757897842,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116466,
+        "num": 116466,
+        "word": "韦雪回应比杨幂好看",
+        "onboard_time": 1757909423,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111465,
+        "num": 111465,
+        "word": "宁静拽邵子恒出来饭撒",
+        "onboard_time": 1757914283,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

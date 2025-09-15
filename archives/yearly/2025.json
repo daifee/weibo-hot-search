@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1757913932750,
+  "endTime": 1757914918620,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2395,12 +2395,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 4416500,
-      "num": 1716217,
-      "word": "再见了杉菜",
-      "onboard_time": 1738552467,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 4419497,
+      "num": 4419497,
+      "word": "西贝道歉",
+      "onboard_time": 1757914403,
+      "rank": 0,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
