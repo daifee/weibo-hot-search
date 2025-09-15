@@ -1,0 +1,410 @@
+{
+  "runTime": 1757919075518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12030406,
+        "num": 12030406,
+        "word": "西贝道歉",
+        "onboard_time": 1757914403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2710877,
+        "num": 2710877,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22295,
+        "num": 1508005,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757910925,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1016786,
+        "num": 1016786,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 678123,
+        "num": 678123,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638827,
+        "num": 638827,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568570,
+        "num": 568570,
+        "word": "西贝鳕鱼条 大黄鱼",
+        "onboard_time": 1757916024,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525922,
+        "num": 525922,
+        "word": "王楚钦澳门赛夺冠后发文",
+        "onboard_time": 1757917162,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389611,
+        "num": 389611,
+        "word": "西贝将统一采用非转基因大豆油",
+        "onboard_time": 1757917343,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291007,
+        "num": 329772,
+        "word": "西贝全国门店陆续完成调整",
+        "onboard_time": 1757917642,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1451196,
+        "num": 315252,
+        "word": "西贝 顾客虐我千百遍",
+        "onboard_time": 1757915663,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509629,
+        "num": 308269,
+        "word": "董璇听到张维伊说话的表情",
+        "onboard_time": 1757913264,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298514,
+        "num": 298514,
+        "word": "西贝儿童餐将调整为现做",
+        "onboard_time": 1757915545,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287641,
+        "num": 287641,
+        "word": "雷军 全面对标iPhone",
+        "onboard_time": 1757904380,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 280589,
+        "num": 287507,
+        "word": "心动的信号爆灯",
+        "onboard_time": 1757913023,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234869,
+        "num": 287165,
+        "word": "赴山海新款内娱长剧错题本",
+        "onboard_time": 1757910384,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184304,
+        "num": 286543,
+        "word": "他的一天是连小说都不敢写的程度",
+        "onboard_time": 1757908103,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55688,
+        "num": 286146,
+        "word": "肖战能不能把高智感穿搭焊在身上",
+        "onboard_time": 1757916502,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285928,
+        "num": 285928,
+        "word": "西贝调整8个菜品为门店现做",
+        "onboard_time": 1757915001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33911,
+        "num": 256252,
+        "word": "超级V23浙赛最速方盒子",
+        "onboard_time": 1757916502,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246230,
+        "num": 246230,
+        "word": "小米17 王腾",
+        "onboard_time": 1757912124,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211932,
+        "num": 211932,
+        "word": "日料 预制",
+        "onboard_time": 1757917403,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180934,
+        "num": 180934,
+        "word": "辛芷蕾长文感谢梁婷",
+        "onboard_time": 1757913683,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193826,
+        "num": 180915,
+        "word": "王楚钦我们依旧是我们",
+        "onboard_time": 1757918482,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180814,
+        "num": 180814,
+        "word": "炎亚纶不像演的",
+        "onboard_time": 1757910143,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179921,
+        "num": 179921,
+        "word": "赵本山女儿回应哥哥不争气",
+        "onboard_time": 1757908522,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176707,
+        "num": 176707,
+        "word": "王楚钦晒和王皓合照",
+        "onboard_time": 1757918061,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169180,
+        "num": 169180,
+        "word": "西贝从今以后打明牌",
+        "onboard_time": 1757915784,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166121,
+        "num": 166121,
+        "word": "李昀锐地铁老人看手机古装版",
+        "onboard_time": 1757917583,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152147,
+        "num": 158251,
+        "word": "孙颖莎王楚钦奖杯列了两排",
+        "onboard_time": 1757917824,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156511,
+        "num": 156511,
+        "word": "小米17",
+        "onboard_time": 1757902640,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146009,
+        "num": 146009,
+        "word": "一直不谈恋爱能等到更好的人吗",
+        "onboard_time": 1757916024,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137260,
+        "num": 137260,
+        "word": "邪教头目自称玉皇大帝奸淫10名妇女",
+        "onboard_time": 1757915001,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134212,
+        "num": 134212,
+        "word": "学中医女生把到爷爷死脉",
+        "onboard_time": 1757918662,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134033,
+        "num": 134033,
+        "word": "8个月婴儿没喝茶被收茶位费",
+        "onboard_time": 1757918782,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131989,
+        "num": 131989,
+        "word": "王楚钦说不怕任何困难",
+        "onboard_time": 1757917883,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131313,
+        "num": 131313,
+        "word": "减肥太猛 显老",
+        "onboard_time": 1757906961,
+        "rank": 36,
+        "category": "科学科普,运动健身"
+      },
+      {
+        "raw_hot": 125304,
+        "num": 125304,
+        "word": "当代年轻人的生意经",
+        "onboard_time": 1757917702,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122114,
+        "num": 122114,
+        "word": "严浩翔这是踩了哇喔开关吗",
+        "onboard_time": 1757918421,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120492,
+        "num": 120492,
+        "word": "iPhone17系列首周销量超越16",
+        "onboard_time": 1757918782,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23920,
+        "num": 118279,
+        "word": "柯克穿防弹衣了吗",
+        "onboard_time": 1757918242,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116636,
+        "num": 116636,
+        "word": "突然开窍不焦虑了",
+        "onboard_time": 1757915902,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116044,
+        "num": 116044,
+        "word": "男子婚内为要男孩和他人做试管",
+        "onboard_time": 1757911467,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115941,
+        "num": 115941,
+        "word": "一教资考点多名考生物品被雨泡损坏",
+        "onboard_time": 1757913862,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114750,
+        "num": 114750,
+        "word": "731",
+        "onboard_time": 1757903181,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108594,
+        "num": 108594,
+        "word": "孙颖莎奖杯多到摆不下",
+        "onboard_time": 1757914642,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105758,
+        "num": 105758,
+        "word": "星品影响力",
+        "onboard_time": 1757918602,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104432,
+        "num": 104432,
+        "word": "iPhone17系列价格已破发",
+        "onboard_time": 1757905701,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103955,
+        "num": 103955,
+        "word": "恋爱里能好好说话是一种能力",
+        "onboard_time": 1757917403,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99389,
+        "num": 99389,
+        "word": "王鹤润青衣预备役",
+        "onboard_time": 1757917223,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

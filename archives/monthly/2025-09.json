@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757918308664,
+  "endTime": 1757919075518,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -427,6 +427,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 2710877,
+      "num": 2710877,
+      "word": "辛芷蕾梁婷和解",
+      "onboard_time": 1757915663,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2677768,
       "num": 460189,
       "word": "罗永浩希望与贾国龙当面对话",
@@ -441,14 +449,6 @@
       "onboard_time": 1757682627,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2652578,
-      "num": 2652578,
-      "word": "辛芷蕾梁婷和解",
-      "onboard_time": 1757915663,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2648197,
@@ -5707,6 +5707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 568570,
+      "num": 568570,
+      "word": "西贝鳕鱼条 大黄鱼",
+      "onboard_time": 1757916024,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567621,
       "num": 223890,
       "word": "刘轩丞直播",
@@ -8923,6 +8931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389611,
+      "num": 389611,
+      "word": "西贝将统一采用非转基因大豆油",
+      "onboard_time": 1757917343,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389380,
       "num": 389380,
       "word": "iPhone为什么只有P是大写",
@@ -9857,14 +9873,6 @@
       "onboard_time": 1757863345,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 357912,
-      "num": 357912,
-      "word": "西贝鳕鱼条 大黄鱼",
-      "onboard_time": 1757916024,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357764,
@@ -11747,14 +11755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292445,
-      "num": 292445,
-      "word": "西贝将统一采用非转基因大豆油",
-      "onboard_time": 1757917343,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292246,
       "num": 292246,
       "word": "恋与深空",
@@ -11777,6 +11777,14 @@
       "onboard_time": 1757739623,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291007,
+      "num": 430218,
+      "word": "西贝全国门店陆续完成调整",
+      "onboard_time": 1757917642,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 290827,
@@ -14515,14 +14523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225364,
-      "num": 430218,
-      "word": "西贝全国门店陆续完成调整",
-      "onboard_time": 1757917642,
-      "rank": 9,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 225331,
       "num": 244667,
       "word": "唐国强的五官辨识度连AI都动不了",
@@ -15385,6 +15385,14 @@
       "onboard_time": 1757053340,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211932,
+      "num": 211932,
+      "word": "日料 预制",
+      "onboard_time": 1757917403,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211896,
@@ -17393,6 +17401,14 @@
       "onboard_time": 1757841743,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193826,
+      "num": 180915,
+      "word": "王楚钦我们依旧是我们",
+      "onboard_time": 1757918482,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 193820,
@@ -19667,6 +19683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176707,
+      "num": 176707,
+      "word": "王楚钦晒和王皓合照",
+      "onboard_time": 1757918061,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176658,
       "num": 176658,
       "word": "萨巴伦卡大满贯第4冠",
@@ -20787,14 +20811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 168478,
-      "num": 168478,
-      "word": "王楚钦晒和王皓合照",
-      "onboard_time": 1757918061,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168433,
       "num": 204698,
       "word": "火车票报销纸质凭证将成历史",
@@ -21201,6 +21217,14 @@
       "onboard_time": 1757508624,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166121,
+      "num": 166121,
+      "word": "李昀锐地铁老人看手机古装版",
+      "onboard_time": 1757917583,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 166082,
@@ -23537,6 +23561,14 @@
       "onboard_time": 1756892062,
       "rank": 45,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 152147,
+      "num": 169892,
+      "word": "孙颖莎王楚钦奖杯列了两排",
+      "onboard_time": 1757917824,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 151972,
@@ -26011,14 +26043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140937,
-      "num": 140937,
-      "word": "日料 预制",
-      "onboard_time": 1757917403,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140891,
       "num": 361507,
       "word": "张曼玉IP显示仍在中国香港",
@@ -27683,6 +27707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134212,
+      "num": 134212,
+      "word": "学中医女生把到爷爷死脉",
+      "onboard_time": 1757918662,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134153,
       "num": 202911,
       "word": "女子潜水被遗忘海上漂了45分钟",
@@ -27705,6 +27737,14 @@
       "onboard_time": 1756711581,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134033,
+      "num": 134033,
+      "word": "8个月婴儿没喝茶被收茶位费",
+      "onboard_time": 1757918782,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134026,
@@ -28985,14 +29025,6 @@
       "onboard_time": 1756783760,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128604,
-      "num": 169892,
-      "word": "孙颖莎王楚钦奖杯列了两排",
-      "onboard_time": 1757917824,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 128584,
@@ -30643,6 +30675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122114,
+      "num": 122114,
+      "word": "严浩翔这是踩了哇喔开关吗",
+      "onboard_time": 1757918421,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122107,
       "num": 122107,
       "word": "刘亦菲回望五年前首登封面",
@@ -31016,6 +31056,14 @@
       "word": "华为新款三折叠价格",
       "onboard_time": 1756974201,
       "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 120492,
+      "num": 120492,
+      "word": "iPhone17系列首周销量超越16",
+      "onboard_time": 1757918782,
+      "rank": 39,
       "category": "数码"
     },
     {
@@ -31921,6 +31969,14 @@
       "onboard_time": 1757841743,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116636,
+      "num": 116636,
+      "word": "突然开窍不焦虑了",
+      "onboard_time": 1757915902,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 116480,
@@ -34825,6 +34881,14 @@
       "onboard_time": 1757165004,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105758,
+      "num": 105758,
+      "word": "星品影响力",
+      "onboard_time": 1757918602,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 105733,
@@ -42833,14 +42897,6 @@
       "onboard_time": 1756645282,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56007,
-      "num": 125745,
-      "word": "李昀锐地铁老人看手机古装版",
-      "onboard_time": 1757917583,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 56006,

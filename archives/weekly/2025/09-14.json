@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757918308664,
+  "endTime": 1757919075518,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -27,20 +27,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2710877,
+      "num": 2710877,
+      "word": "辛芷蕾梁婷和解",
+      "onboard_time": 1757915663,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2677768,
       "num": 460189,
       "word": "罗永浩希望与贾国龙当面对话",
       "onboard_time": 1757902701,
       "rank": 10,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 2652578,
-      "num": 2652578,
-      "word": "辛芷蕾梁婷和解",
-      "onboard_time": 1757915663,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2238310,
@@ -627,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568570,
+      "num": 568570,
+      "word": "西贝鳕鱼条 大黄鱼",
+      "onboard_time": 1757916024,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 563159,
       "num": 563159,
       "word": "国乒还是国乒",
@@ -1051,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 389611,
+      "num": 389611,
+      "word": "西贝将统一采用非转基因大豆油",
+      "onboard_time": 1757917343,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386887,
       "num": 386887,
       "word": "AL战胜iG",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1757863345,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 357912,
-      "num": 357912,
-      "word": "西贝鳕鱼条 大黄鱼",
-      "onboard_time": 1757916024,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349842,
@@ -1387,12 +1395,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 292445,
-      "num": 292445,
-      "word": "西贝将统一采用非转基因大豆油",
-      "onboard_time": 1757917343,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 291007,
+      "num": 430218,
+      "word": "西贝全国门店陆续完成调整",
+      "onboard_time": 1757917642,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 288492,
@@ -1779,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225364,
-      "num": 430218,
-      "word": "西贝全国门店陆续完成调整",
-      "onboard_time": 1757917642,
-      "rank": 9,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 224803,
       "num": 224803,
       "word": "姜潮说孩子第二麦迪娜第一",
@@ -1928,6 +1928,14 @@
       "word": "西贝从今以后打明牌",
       "onboard_time": 1757915784,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211932,
+      "num": 211932,
+      "word": "日料 预制",
+      "onboard_time": 1757917403,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2169,6 +2177,14 @@
       "onboard_time": 1757841743,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193826,
+      "num": 180915,
+      "word": "王楚钦我们依旧是我们",
+      "onboard_time": 1757918482,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 193724,
@@ -2459,6 +2475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176707,
+      "num": 176707,
+      "word": "王楚钦晒和王皓合照",
+      "onboard_time": 1757918061,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176605,
       "num": 205253,
       "word": "张晚意可daddy可honey",
@@ -2571,14 +2595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168478,
-      "num": 168478,
-      "word": "王楚钦晒和王皓合照",
-      "onboard_time": 1757918061,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168310,
       "num": 168310,
       "word": "彭小苒这次是冷感美人",
@@ -2625,6 +2641,14 @@
       "onboard_time": 1757768965,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166121,
+      "num": 166121,
+      "word": "李昀锐地铁老人看手机古装版",
+      "onboard_time": 1757917583,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 165447,
@@ -2939,6 +2963,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152147,
+      "num": 169892,
+      "word": "孙颖莎王楚钦奖杯列了两排",
+      "onboard_time": 1757917824,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "李一桐檀健次给好六后期上难度",
@@ -3187,14 +3219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140937,
-      "num": 140937,
-      "word": "日料 预制",
-      "onboard_time": 1757917403,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140891,
       "num": 361507,
       "word": "张曼玉IP显示仍在中国香港",
@@ -3363,11 +3387,27 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 134212,
+      "num": 134212,
+      "word": "学中医女生把到爷爷死脉",
+      "onboard_time": 1757918662,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134153,
       "num": 202911,
       "word": "女子潜水被遗忘海上漂了45分钟",
       "onboard_time": 1757859446,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134033,
+      "num": 134033,
+      "word": "8个月婴儿没喝茶被收茶位费",
+      "onboard_time": 1757918782,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3497,14 +3537,6 @@
       "onboard_time": 1757855125,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128604,
-      "num": 169892,
-      "word": "孙颖莎王楚钦奖杯列了两排",
-      "onboard_time": 1757917824,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 128448,
@@ -3651,6 +3683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122114,
+      "num": 122114,
+      "word": "严浩翔这是踩了哇喔开关吗",
+      "onboard_time": 1757918421,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121685,
       "num": 407991,
       "word": "央视揭秘假沉香",
@@ -3689,6 +3729,14 @@
       "onboard_time": 1757779344,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120492,
+      "num": 120492,
+      "word": "iPhone17系列首周销量超越16",
+      "onboard_time": 1757918782,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 120125,
@@ -3785,6 +3833,14 @@
       "onboard_time": 1757841743,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116636,
+      "num": 116636,
+      "word": "突然开窍不焦虑了",
+      "onboard_time": 1757915902,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 116477,
@@ -4041,6 +4097,14 @@
       "onboard_time": 1757847804,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105758,
+      "num": 105758,
+      "word": "星品影响力",
+      "onboard_time": 1757918602,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 105338,
@@ -4897,14 +4961,6 @@
       "onboard_time": 1757868860,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 56007,
-      "num": 125745,
-      "word": "李昀锐地铁老人看手机古装版",
-      "onboard_time": 1757917583,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 56006,
