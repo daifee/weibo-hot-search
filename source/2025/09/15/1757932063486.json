@@ -1,0 +1,410 @@
+{
+  "runTime": 1757932063486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 960140,
+        "num": 1153622,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 792055,
+        "num": 792055,
+        "word": "英伟达违法",
+        "onboard_time": 1757924602,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 32953,
+        "num": 470382,
+        "word": "高质量发展中国行焕新江西",
+        "onboard_time": 1757929342,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391688,
+        "num": 391688,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 823527,
+        "num": 378878,
+        "word": "杨幂还是太体面了",
+        "onboard_time": 1757924123,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354334,
+        "num": 354334,
+        "word": "上海学生餐",
+        "onboard_time": 1757927903,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266577,
+        "num": 266577,
+        "word": "赴山海开播现状",
+        "onboard_time": 1757922862,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253344,
+        "num": 253344,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240222,
+        "num": 240222,
+        "word": "郑恺不知道今天节目官宣",
+        "onboard_time": 1757929102,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228367,
+        "num": 228367,
+        "word": "市场监管总局对英伟达实施进一步调查",
+        "onboard_time": 1757924602,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6067979,
+        "num": 6067979,
+        "word": "西贝道歉",
+        "onboard_time": 1757914403,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122199,
+        "num": 221332,
+        "word": "县人社局干部诬告22名领导干部",
+        "onboard_time": 1757931502,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1525698,
+        "num": 216633,
+        "word": "张予曦自曝被跟踪数月",
+        "onboard_time": 1757930122,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551062,
+        "num": 211059,
+        "word": "父亲因彩礼收走女儿手机阻止结婚",
+        "onboard_time": 1757925981,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381831,
+        "num": 204505,
+        "word": "唐嫣裙子勒得动不了",
+        "onboard_time": 1757925202,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313266,
+        "num": 200802,
+        "word": "KiMi已经16岁了",
+        "onboard_time": 1757920342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257033,
+        "num": 189943,
+        "word": "妻子出轨主播9个月打赏1.8万次",
+        "onboard_time": 1757930364,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189787,
+        "num": 189787,
+        "word": "杨帆 众合",
+        "onboard_time": 1757922805,
+        "rank": 17,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 184394,
+        "num": 184394,
+        "word": "深圳市民捡到2267.83克巨型金条",
+        "onboard_time": 1757931441,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182302,
+        "num": 182302,
+        "word": "成毅又在爱奇艺剧宣上闯祸了",
+        "onboard_time": 1757931023,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1087291,
+        "num": 180711,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191218,
+        "num": 175888,
+        "word": "涉嫌性侵江祖平的男子被拘捕",
+        "onboard_time": 1757926403,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170763,
+        "num": 170763,
+        "word": "小S确认将出席金钟奖",
+        "onboard_time": 1757927782,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168632,
+        "num": 168632,
+        "word": "张艺兴仅自己可见的微博",
+        "onboard_time": 1757931322,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156435,
+        "num": 156435,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156245,
+        "num": 156245,
+        "word": "学中医女生把到爷爷死脉",
+        "onboard_time": 1757918662,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151223,
+        "num": 151223,
+        "word": "和摩尔庄园认识的男朋友结婚了",
+        "onboard_time": 1757928203,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144504,
+        "num": 144504,
+        "word": "ETC消费34784元女子惊到尖叫",
+        "onboard_time": 1757930245,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117262,
+        "num": 144017,
+        "word": "美食摄影大赛要求必须手机原图",
+        "onboard_time": 1757930725,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143834,
+        "num": 143834,
+        "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+        "onboard_time": 1757925202,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160815,
+        "num": 143192,
+        "word": "以前手工绘制的假币",
+        "onboard_time": 1757931084,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141648,
+        "num": 141648,
+        "word": "乐山地震",
+        "onboard_time": 1757926343,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 139950,
+        "num": 139950,
+        "word": "kimi最新背影照",
+        "onboard_time": 1757929642,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129969,
+        "num": 129969,
+        "word": "外交部回应已邀特朗普访华",
+        "onboard_time": 1757923582,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52554,
+        "num": 129699,
+        "word": "拼多多十周年百亿补贴iPhone加补",
+        "onboard_time": 1757927481,
+        "rank": 34,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 129537,
+        "num": 129537,
+        "word": "谁给肖战递个悬疑本子",
+        "onboard_time": 1757928681,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122148,
+        "num": 122148,
+        "word": "李晟控诉祝绪丹眼里只有王珞丹",
+        "onboard_time": 1757928861,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119097,
+        "num": 119097,
+        "word": "宣璐把浪花穿身上了",
+        "onboard_time": 1757930663,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49495,
+        "num": 118988,
+        "word": "知网一论文标题出现糖屎病",
+        "onboard_time": 1757931563,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9947,
+        "num": 116310,
+        "word": "高德征集美食照片奖全年免费吃",
+        "onboard_time": 1757927302,
+        "rank": 39,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 39072,
+        "num": 114876,
+        "word": "15岁残障女孩殒命铁轨监控曝光",
+        "onboard_time": 1757932043,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160462,
+        "num": 111086,
+        "word": "欢乐家长群",
+        "onboard_time": 1757930782,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88211,
+        "num": 109058,
+        "word": "男子把段子当真怒刷1万等返100万",
+        "onboard_time": 1757930843,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108706,
+        "num": 108706,
+        "word": "韩国遇难海警生前最后画面",
+        "onboard_time": 1757931142,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 107445,
+        "word": "期待不高但去了巨惊艳的旅行地",
+        "onboard_time": 1757928982,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 106280,
+        "num": 106280,
+        "word": "赴山海",
+        "onboard_time": 1757931863,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105475,
+        "num": 105475,
+        "word": "花380元就能实时监控陌生人卧室",
+        "onboard_time": 1757930725,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104674,
+        "num": 104674,
+        "word": "骗子送400万余额银行卡",
+        "onboard_time": 1757919141,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102048,
+        "num": 102048,
+        "word": "花少7在不同维度封神",
+        "onboard_time": 1757931982,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101161,
+        "num": 101161,
+        "word": "王珞丹这背不拔罐可惜了",
+        "onboard_time": 1757931922,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#14亿多中国人民勇往直前#"
+    }
+  }
+}

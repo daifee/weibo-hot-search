@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757929323190,
+  "endTime": 1757932063486,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -65,6 +65,14 @@
       "onboard_time": 1757915663,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1525698,
+      "num": 216633,
+      "word": "张予曦自曝被跟踪数月",
+      "onboard_time": 1757930122,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1364705,
@@ -523,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 354334,
+      "num": 354334,
+      "word": "上海学生餐",
+      "onboard_time": 1757927903,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349842,
       "num": 298430,
       "word": "喜欢吃大闸蟹嘴真严啊",
@@ -723,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257033,
+      "num": 189943,
+      "word": "妻子出轨主播9个月打赏1.8万次",
+      "onboard_time": 1757930364,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256184,
       "num": 256184,
       "word": "731预告",
@@ -769,6 +793,14 @@
       "onboard_time": 1757926403,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240222,
+      "num": 240222,
+      "word": "郑恺不知道今天节目官宣",
+      "onboard_time": 1757929102,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 231849,
@@ -971,14 +1003,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 198309,
-      "num": 198309,
-      "word": "上海学生餐",
-      "onboard_time": 1757927903,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198259,
       "num": 198259,
       "word": "成毅直播",
@@ -1067,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189787,
+      "num": 189787,
+      "word": "杨帆 众合",
+      "onboard_time": 1757922805,
+      "rank": 32,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 189329,
       "num": 168861,
       "word": "恋爱里能好好说话是一种能力",
@@ -1107,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184394,
+      "num": 184394,
+      "word": "深圳市民捡到2267.83克巨型金条",
+      "onboard_time": 1757931441,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183156,
       "num": 183156,
       "word": "纽约坐地铁偶遇黄多多",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1757911105,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182302,
+      "num": 182302,
+      "word": "成毅又在爱奇艺剧宣上闯祸了",
+      "onboard_time": 1757931023,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 180946,
@@ -1243,6 +1291,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 168632,
+      "num": 168632,
+      "word": "张艺兴仅自己可见的微博",
+      "onboard_time": 1757931322,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168278,
       "num": 173122,
       "word": "王楚钦夺冠背后有隐忧",
@@ -1331,6 +1387,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160815,
+      "num": 143192,
+      "word": "以前手工绘制的假币",
+      "onboard_time": 1757931084,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160462,
+      "num": 111086,
+      "word": "欢乐家长群",
+      "onboard_time": 1757930782,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159099,
       "num": 159099,
       "word": "孙颖莎澳门冠军赛卫冕发文",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1757910504,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156435,
+      "num": 156435,
+      "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+      "onboard_time": 1757930482,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156113,
@@ -1433,14 +1513,6 @@
       "onboard_time": 1757917824,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151595,
-      "num": 151595,
-      "word": "杨帆 众合",
-      "onboard_time": 1757922805,
-      "rank": 32,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 149417,
@@ -1515,6 +1587,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 144504,
+      "num": 144504,
+      "word": "ETC消费34784元女子惊到尖叫",
+      "onboard_time": 1757930245,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144238,
       "num": 144238,
       "word": "老乡鸡",
@@ -1585,6 +1665,14 @@
       "onboard_time": 1757903120,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139950,
+      "num": 139950,
+      "word": "kimi最新背影照",
+      "onboard_time": 1757929642,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 137064,
@@ -1755,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122199,
+      "num": 221332,
+      "word": "县人社局干部诬告22名领导干部",
+      "onboard_time": 1757931502,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122182,
       "num": 122182,
       "word": "AirPodsPro3上手",
@@ -1811,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119097,
+      "num": 119097,
+      "word": "宣璐把浪花穿身上了",
+      "onboard_time": 1757930663,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119041,
       "num": 144690,
       "word": "柯克账号直播自己葬礼",
@@ -1825,6 +1929,14 @@
       "onboard_time": 1757844082,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117262,
+      "num": 144017,
+      "word": "美食摄影大赛要求必须手机原图",
+      "onboard_time": 1757930725,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116636,
@@ -1915,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108706,
+      "num": 108706,
+      "word": "韩国遇难海警生前最后画面",
+      "onboard_time": 1757931142,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107791,
       "num": 107791,
       "word": "老师看天才就是这种感觉",
@@ -1939,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106280,
+      "num": 106280,
+      "word": "赴山海",
+      "onboard_time": 1757931863,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106208,
       "num": 137107,
       "word": "刘宇宁新歌",
@@ -1961,6 +2089,14 @@
       "onboard_time": 1757918602,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105475,
+      "num": 105475,
+      "word": "花380元就能实时监控陌生人卧室",
+      "onboard_time": 1757930725,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104306,
@@ -2003,6 +2139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102048,
+      "num": 102048,
+      "word": "花少7在不同维度封神",
+      "onboard_time": 1757931982,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101613,
       "num": 101613,
       "word": "无框眼镜才是文咏珊的统治区",
@@ -2011,12 +2155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100415,
-      "num": 100415,
-      "word": "郑恺不知道今天节目官宣",
-      "onboard_time": 1757929102,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 101161,
+      "num": 101161,
+      "word": "王珞丹这背不拔罐可惜了",
+      "onboard_time": 1757931922,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99687,
@@ -2137,6 +2281,14 @@
       "onboard_time": 1757911105,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88211,
+      "num": 109058,
+      "word": "男子把段子当真怒刷1万等返100万",
+      "onboard_time": 1757930843,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87265,
@@ -2475,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49495,
+      "num": 118988,
+      "word": "知网一论文标题出现糖屎病",
+      "onboard_time": 1757931563,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48971,
       "num": 258252,
       "word": "孙颖莎有实力自然出众",
@@ -2539,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39072,
+      "num": 114876,
+      "word": "15岁残障女孩殒命铁轨监控曝光",
+      "onboard_time": 1757932043,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38432,
       "num": 151389,
       "word": "俄罗斯学生跨境来中国上小学",
@@ -2577,6 +2745,14 @@
       "onboard_time": 1757872695,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32953,
+      "num": 470382,
+      "word": "高质量发展中国行焕新江西",
+      "onboard_time": 1757929342,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31838,
