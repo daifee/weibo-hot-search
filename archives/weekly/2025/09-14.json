@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757972185400,
+  "endTime": 1757974961847,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -6947,7 +6947,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35465,
+      "raw_hot": 35523,
       "num": 51313,
       "word": "辛芷蕾梁婷当年的事情彼此各有难处",
       "onboard_time": 1757958916,
@@ -7073,6 +7073,14 @@
       "onboard_time": 1757873656,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28324,
+      "num": 37366,
+      "word": "河北一高中收2700元教辅费被质疑",
+      "onboard_time": 1757962574,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27640,
@@ -7267,20 +7275,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 19062,
-      "num": 37366,
-      "word": "河北一高中收2700元教辅费被质疑",
-      "onboard_time": 1757962574,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18872,
       "num": 28538,
       "word": "无畏契约巴黎全球冠军赛",
       "onboard_time": 1757791515,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 18683,
+      "num": 37379,
+      "word": "韩方彻查公民在美是否遭侵害",
+      "onboard_time": 1757963775,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17993,
@@ -7305,14 +7313,6 @@
       "onboard_time": 1757877074,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16292,
-      "num": 37379,
-      "word": "韩方彻查公民在美是否遭侵害",
-      "onboard_time": 1757963775,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16068,
