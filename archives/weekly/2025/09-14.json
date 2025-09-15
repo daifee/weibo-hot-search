@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757936215524,
+  "endTime": 1757940715278,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -699,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 592146,
+      "num": 220591,
+      "word": "赵本山不让女儿签婚前协议",
+      "onboard_time": 1757936962,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587676,
       "num": 587676,
       "word": "北京 冰河世纪",
@@ -819,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 522662,
+      "num": 522662,
+      "word": "深圳市民捡到2267.83克巨型金条",
+      "onboard_time": 1757931441,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522573,
       "num": 122011,
       "word": "张兰进麻六记后厨直播被曝无健康证",
@@ -857,14 +873,6 @@
       "onboard_time": 1757864363,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 498641,
-      "num": 498641,
-      "word": "深圳市民捡到2267.83克巨型金条",
-      "onboard_time": 1757931441,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 498347,
@@ -929,6 +937,14 @@
       "onboard_time": 1757811621,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475510,
+      "num": 216693,
+      "word": "肖战和谁搭档会让你眼前一亮",
+      "onboard_time": 1757938522,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 474920,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1757830403,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 434134,
+      "num": 434134,
+      "word": "警方回应两女子被戴手铐带走引围观",
+      "onboard_time": 1757935764,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432401,
@@ -1179,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 393538,
+      "num": 393538,
+      "word": "辛芷蕾成毅尹正艺名都是梁婷起的",
+      "onboard_time": 1757937563,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393443,
       "num": 370381,
       "word": "辛芷蕾神似早期的宋慧乔",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1757811081,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 387987,
+      "num": 247016,
+      "word": "39岁一千度近视加175度散光",
+      "onboard_time": 1757932883,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 386887,
@@ -1595,20 +1635,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 288584,
-      "num": 247016,
-      "word": "39岁一千度近视加175度散光",
-      "onboard_time": 1757932883,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 288492,
       "num": 288492,
       "word": "Gala高烧",
       "onboard_time": 1757850983,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286267,
+      "num": 286267,
+      "word": "被擦妆5次艺考生开学了",
+      "onboard_time": 1757938162,
+      "rank": 5,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 285208,
@@ -2291,6 +2331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203623,
+      "num": 203623,
+      "word": "关晓彤挪威追极光",
+      "onboard_time": 1757934323,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203387,
       "num": 203387,
       "word": "魅族22价格",
@@ -2459,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195990,
+      "num": 172298,
+      "word": "运动瘦vs饿瘦",
+      "onboard_time": 1757933122,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194856,
       "num": 194856,
       "word": "无畏人性是复杂的",
@@ -2603,14 +2659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189615,
-      "num": 170754,
-      "word": "关晓彤挪威追极光",
-      "onboard_time": 1757934323,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189365,
       "num": 189365,
       "word": "55岁阿姨健身20年的真实状态",
@@ -2657,6 +2705,14 @@
       "onboard_time": 1757912724,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186867,
+      "num": 186867,
+      "word": "张凌赫又开始帮粉丝选发色了",
+      "onboard_time": 1757937142,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 186266,
@@ -2939,14 +2995,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 169982,
-      "num": 169982,
-      "word": "运动瘦vs饿瘦",
-      "onboard_time": 1757933122,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169091,
       "num": 169091,
       "word": "瘦了20斤鼻子变化",
@@ -3155,6 +3203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161800,
+      "num": 161800,
+      "word": "方媛孕晚期体重不到100斤",
+      "onboard_time": 1757935943,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "王楚钦说不怕任何困难",
@@ -3313,6 +3369,14 @@
       "onboard_time": 1757908522,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157142,
+      "num": 226678,
+      "word": "被虐致死女孩母亲回应为何从未探望",
+      "onboard_time": 1757937683,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156662,
@@ -3521,6 +3585,14 @@
       "onboard_time": 1757928861,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148367,
+      "num": 148367,
+      "word": "梁婷说签约演员里唯一赚钱的是尹正",
+      "onboard_time": 1757938583,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 148246,
@@ -3859,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138728,
+      "num": 138728,
+      "word": "TES对战BLG",
+      "onboard_time": 1757930541,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138465,
       "num": 138465,
       "word": "曝LOL有新赛事",
@@ -3977,6 +4057,14 @@
       "onboard_time": 1757849183,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133861,
+      "num": 133861,
+      "word": "男子吃馒头噎死经调解获赔2.8万",
+      "onboard_time": 1757937743,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133625,
@@ -4265,6 +4353,14 @@
       "onboard_time": 1757864243,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123196,
+      "num": 123196,
+      "word": "马斯克买入超250万股股票",
+      "onboard_time": 1757940444,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 122621,
@@ -4603,6 +4699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110825,
+      "num": 110825,
+      "word": "杨帆加入众合",
+      "onboard_time": 1757938583,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110631,
       "num": 110631,
       "word": "起猛了以为是白敬亭在淋雨",
@@ -4835,6 +4939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105187,
+      "num": 105187,
+      "word": "用一次性手套洗头会让头发更蓬松",
+      "onboard_time": 1757939845,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 104728,
       "num": 104728,
       "word": "周深以为自己上热搜了",
@@ -4972,7 +5084,7 @@
     },
     {
       "raw_hot": 100858,
-      "num": 100858,
+      "num": 194554,
       "word": "年轻人涌向黄金平替",
       "onboard_time": 1757935163,
       "rank": 46,
@@ -5107,6 +5219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97875,
+      "num": 143176,
+      "word": "湾区升明月晚会又来啦",
+      "onboard_time": 1757940262,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 97531,
+      "num": 95454,
+      "word": "瑞幸崩铁联动冷变杯炒到180元",
+      "onboard_time": 1757936063,
+      "rank": 42,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 97149,
       "num": 97149,
       "word": "骑电动车别骑积食了",
@@ -5155,14 +5283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95454,
-      "num": 95454,
-      "word": "瑞幸崩铁联动冷变杯炒到180元",
-      "onboard_time": 1757936063,
-      "rank": 42,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 95232,
       "num": 95232,
       "word": "苹果用自研换利润",
@@ -5193,6 +5313,14 @@
       "onboard_time": 1757842702,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94374,
+      "num": 94374,
+      "word": "最新版iPhone全部配件分享",
+      "onboard_time": 1757940145,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 94284,
@@ -5331,6 +5459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86056,
+      "num": 454277,
+      "word": "网警对某人工智能公司予以行政处罚",
+      "onboard_time": 1757936484,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86041,
       "num": 120467,
       "word": "刘涛晒周深演唱会现场",
@@ -5393,6 +5529,14 @@
       "onboard_time": 1757814682,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80710,
+      "num": 80710,
+      "word": "刘宇宁直播总是越坐越靠边",
+      "onboard_time": 1757940503,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 80692,
@@ -5467,6 +5611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78829,
+      "num": 78829,
+      "word": "泪失禁其实是你的超能力",
+      "onboard_time": 1757939903,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78690,
       "num": 78690,
       "word": "XG战队急需支援",
@@ -5507,6 +5659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 76744,
+      "num": 76744,
+      "word": "短剧版消失的爱人有内味了",
+      "onboard_time": 1757936782,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76592,
       "num": 684838,
       "word": "石榴红了满天山",
@@ -5529,6 +5689,14 @@
       "onboard_time": 1757895141,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76127,
+      "num": 76127,
+      "word": "好的原生家庭才是成长的托举",
+      "onboard_time": 1757939782,
+      "rank": 48,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 75813,
@@ -5787,14 +5955,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 59220,
-      "num": 107577,
-      "word": "方媛孕晚期体重不到100斤",
-      "onboard_time": 1757935943,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59060,
       "num": 120710,
       "word": "蔡徐坤一出场哇声一片",
@@ -5921,14 +6081,6 @@
       "onboard_time": 1757906062,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52502,
-      "num": 235231,
-      "word": "警方回应两女子被戴手铐带走引围观",
-      "onboard_time": 1757935764,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51673,
@@ -6097,6 +6249,14 @@
       "onboard_time": 1757773706,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42256,
+      "num": 193165,
+      "word": "入室抢婴贩卖案家属发声",
+      "onboard_time": 1757939604,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42130,

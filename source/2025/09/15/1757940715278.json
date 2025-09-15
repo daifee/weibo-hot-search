@@ -1,0 +1,410 @@
+{
+  "runTime": 1757940715278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 718100,
+        "num": 1114896,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 522662,
+        "num": 522662,
+        "word": "深圳市民捡到2267.83克巨型金条",
+        "onboard_time": 1757931441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86056,
+        "num": 454277,
+        "word": "网警对某人工智能公司予以行政处罚",
+        "onboard_time": 1757936484,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 434134,
+        "num": 434134,
+        "word": "警方回应两女子被戴手铐带走引围观",
+        "onboard_time": 1757935764,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393538,
+        "num": 393538,
+        "word": "辛芷蕾成毅尹正艺名都是梁婷起的",
+        "onboard_time": 1757937563,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286267,
+        "num": 286267,
+        "word": "被擦妆5次艺考生开学了",
+        "onboard_time": 1757938162,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 234092,
+        "num": 234092,
+        "word": "赴山海开播现状",
+        "onboard_time": 1757922862,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233450,
+        "num": 233450,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180793,
+        "num": 232140,
+        "word": "英伟达违法",
+        "onboard_time": 1757924602,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 157142,
+        "num": 226678,
+        "word": "被虐致死女孩母亲回应为何从未探望",
+        "onboard_time": 1757937683,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681418,
+        "num": 224578,
+        "word": "女子散步时踩到氢氟酸后去世",
+        "onboard_time": 1757933182,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592146,
+        "num": 220591,
+        "word": "赵本山不让女儿签婚前协议",
+        "onboard_time": 1757936962,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475510,
+        "num": 216693,
+        "word": "肖战和谁搭档会让你眼前一亮",
+        "onboard_time": 1757938522,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387987,
+        "num": 213108,
+        "word": "39岁一千度近视加175度散光",
+        "onboard_time": 1757932883,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339363,
+        "num": 209242,
+        "word": "妻子出轨主播9个月打赏1.8万次",
+        "onboard_time": 1757930364,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284354,
+        "num": 204223,
+        "word": "KiMi已经16岁了",
+        "onboard_time": 1757920342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203623,
+        "num": 203623,
+        "word": "关晓彤挪威追极光",
+        "onboard_time": 1757934323,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196303,
+        "num": 196303,
+        "word": "唐嫣裙子勒得动不了",
+        "onboard_time": 1757925202,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52361,
+        "num": 194554,
+        "word": "年轻人涌向黄金平替",
+        "onboard_time": 1757935163,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42256,
+        "num": 193165,
+        "word": "入室抢婴贩卖案家属发声",
+        "onboard_time": 1757939604,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2656808,
+        "num": 190879,
+        "word": "罗永浩决定放弃追究西贝",
+        "onboard_time": 1757933603,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 663615,
+        "num": 189577,
+        "word": "杨幂还是太体面了",
+        "onboard_time": 1757924123,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463962,
+        "num": 188193,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186867,
+        "num": 186867,
+        "word": "张凌赫又开始帮粉丝选发色了",
+        "onboard_time": 1757937142,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258344,
+        "num": 174369,
+        "word": "成毅又在爱奇艺剧宣上闯祸了",
+        "onboard_time": 1757931023,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206258,
+        "num": 173364,
+        "word": "张艺兴仅自己可见的微博",
+        "onboard_time": 1757931322,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195990,
+        "num": 172298,
+        "word": "运动瘦vs饿瘦",
+        "onboard_time": 1757933122,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161800,
+        "num": 161800,
+        "word": "方媛孕晚期体重不到100斤",
+        "onboard_time": 1757935943,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148367,
+        "num": 148367,
+        "word": "梁婷说签约演员里唯一赚钱的是尹正",
+        "onboard_time": 1757938583,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97875,
+        "num": 143176,
+        "word": "湾区升明月晚会又来啦",
+        "onboard_time": 1757940262,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138728,
+        "num": 138728,
+        "word": "TES对战BLG",
+        "onboard_time": 1757930541,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133861,
+        "num": 133861,
+        "word": "男子吃馒头噎死经调解获赔2.8万",
+        "onboard_time": 1757937743,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128356,
+        "num": 128356,
+        "word": "市场监管总局对英伟达实施进一步调查",
+        "onboard_time": 1757924602,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123196,
+        "num": 123196,
+        "word": "马斯克买入超250万股股票",
+        "onboard_time": 1757940444,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119961,
+        "num": 119961,
+        "word": "刘亦菲真正的亲妈视角",
+        "onboard_time": 1757932883,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414635,
+        "num": 115847,
+        "word": "张予曦自曝被跟踪数月",
+        "onboard_time": 1757930122,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110825,
+        "num": 110825,
+        "word": "杨帆加入众合",
+        "onboard_time": 1757938583,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105187,
+        "num": 105187,
+        "word": "用一次性手套洗头会让头发更蓬松",
+        "onboard_time": 1757939845,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101363,
+        "num": 101363,
+        "word": "涉嫌性侵江祖平的男子被拘捕",
+        "onboard_time": 1757926403,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97606,
+        "num": 97606,
+        "word": "父亲因彩礼收走女儿手机阻止结婚",
+        "onboard_time": 1757925981,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94374,
+        "num": 94374,
+        "word": "最新版iPhone全部配件分享",
+        "onboard_time": 1757940145,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88451,
+        "num": 88451,
+        "word": "王曼昱掩面令人动容",
+        "onboard_time": 1757935464,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84540,
+        "num": 84540,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80710,
+        "num": 80710,
+        "word": "刘宇宁直播总是越坐越靠边",
+        "onboard_time": 1757940503,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80079,
+        "num": 80079,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78829,
+        "num": 78829,
+        "word": "泪失禁其实是你的超能力",
+        "onboard_time": 1757939903,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97531,
+        "num": 78220,
+        "word": "瑞幸崩铁联动冷变杯炒到180元",
+        "onboard_time": 1757936063,
+        "rank": 46,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 76744,
+        "num": 76744,
+        "word": "短剧版消失的爱人有内味了",
+        "onboard_time": 1757936782,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76127,
+        "num": 76127,
+        "word": "好的原生家庭才是成长的托举",
+        "onboard_time": 1757939782,
+        "rank": 48,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 71183,
+        "num": 76116,
+        "word": "三胎家庭最受委屈的是老几",
+        "onboard_time": 1757933724,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#14亿多中国人民勇往直前#"
+    }
+  }
+}
