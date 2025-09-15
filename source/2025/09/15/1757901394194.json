@@ -1,0 +1,410 @@
+{
+  "runTime": 1757901394194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1576203,
+        "num": 1576203,
+        "word": "支付宝账号解除授权",
+        "onboard_time": 1757891539,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 968275,
+        "num": 968275,
+        "word": "Dior认领",
+        "onboard_time": 1757895262,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 30380,
+        "num": 479502,
+        "word": "丰收的田野是最美的画卷",
+        "onboard_time": 1757858306,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447283,
+        "num": 447283,
+        "word": "骗子混入工作群冒充董事长骗走60万",
+        "onboard_time": 1757892620,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292518,
+        "num": 292518,
+        "word": "妈妈亲手缝的NIKE书包火了",
+        "onboard_time": 1757859446,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241204,
+        "num": 241204,
+        "word": "周迅如懿传谣言澄清",
+        "onboard_time": 1757858967,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210743,
+        "num": 210743,
+        "word": "租房新规今起实施",
+        "onboard_time": 1757893642,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204307,
+        "num": 204307,
+        "word": "iG 世界赛",
+        "onboard_time": 1757895502,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200589,
+        "num": 200589,
+        "word": "艾美奖获奖名单",
+        "onboard_time": 1757901381,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93879,
+        "num": 199986,
+        "word": "加沙孩子要么饿死要么被炸死",
+        "onboard_time": 1757900721,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 586102,
+        "num": 198216,
+        "word": "宋妍霏回应提了24次裙子",
+        "onboard_time": 1757897842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417629,
+        "num": 195285,
+        "word": "BBC称日本从未正视侵略历史",
+        "onboard_time": 1757895742,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 345075,
+        "num": 194019,
+        "word": "wwd发了迪丽热巴刘雨昕",
+        "onboard_time": 1757895861,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162681,
+        "num": 190805,
+        "word": "花少这期直接升华了",
+        "onboard_time": 1757890037,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312721,
+        "num": 189189,
+        "word": "iPhone17补贴后售价4999元",
+        "onboard_time": 1757858306,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274338,
+        "num": 186255,
+        "word": "网吧行业现状",
+        "onboard_time": 1757897782,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185433,
+        "num": 185433,
+        "word": "甲状腺发出的求救信号",
+        "onboard_time": 1757864363,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183067,
+        "num": 183067,
+        "word": "外国醉汉殴打中国留学生",
+        "onboard_time": 1757899460,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172875,
+        "num": 172875,
+        "word": "航班因雷雨天备降太原引乘客下跪",
+        "onboard_time": 1757864304,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123692,
+        "num": 151646,
+        "word": "张凌赫喜欢BE",
+        "onboard_time": 1757898503,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137064,
+        "num": 146577,
+        "word": "芯片板块再走强",
+        "onboard_time": 1757900721,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 443428,
+        "num": 146497,
+        "word": "你以为在备孕实际是避孕的行为",
+        "onboard_time": 1757901201,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145579,
+        "num": 145579,
+        "word": "国家网络安全事件报告管理办法发布",
+        "onboard_time": 1757901141,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138164,
+        "num": 138164,
+        "word": "ame",
+        "onboard_time": 1757891239,
+        "rank": 23,
+        "category": "电竞,音乐"
+      },
+      {
+        "raw_hot": 89142,
+        "num": 133523,
+        "word": "李晟说祝绪丹气太多了",
+        "onboard_time": 1757855906,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133359,
+        "num": 133359,
+        "word": "存款会以别的形式消失的",
+        "onboard_time": 1757896162,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128543,
+        "num": 128543,
+        "word": "奥运冠军邓琳琳官宣怀孕",
+        "onboard_time": 1757901261,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124890,
+        "num": 124890,
+        "word": "瑞幸 星穹铁道",
+        "onboard_time": 1757895923,
+        "rank": 27,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 91380,
+        "num": 122590,
+        "word": "艾美奖红毯",
+        "onboard_time": 1757900301,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122182,
+        "num": 122182,
+        "word": "AirPodsPro3上手",
+        "onboard_time": 1757898681,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170919,
+        "num": 121301,
+        "word": "韩国人街头高喊我们是柯克",
+        "onboard_time": 1757900662,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116127,
+        "num": 116127,
+        "word": "王一博出道十一周年照",
+        "onboard_time": 1757898981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107791,
+        "num": 107791,
+        "word": "老师看天才就是这种感觉",
+        "onboard_time": 1757896222,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102456,
+        "num": 102456,
+        "word": "英语躯体化",
+        "onboard_time": 1757894662,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102223,
+        "num": 102223,
+        "word": "2岁女童失踪超10天母亲发声",
+        "onboard_time": 1757861005,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99374,
+        "num": 99374,
+        "word": "俄军演中发射锆石高超音速导弹",
+        "onboard_time": 1757896222,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92681,
+        "num": 92681,
+        "word": "凌晨1点到3点必须要睡觉的重要性",
+        "onboard_time": 1757840961,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84789,
+        "num": 84789,
+        "word": "3人为高薪向间谍报送我军事信息",
+        "onboard_time": 1757892380,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79880,
+        "num": 79880,
+        "word": "TI总决赛",
+        "onboard_time": 1757854705,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79316,
+        "num": 79316,
+        "word": "特朗普预期美联储本周将大幅降息",
+        "onboard_time": 1757901141,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76410,
+        "num": 76410,
+        "word": "关晓彤斐登晚宴",
+        "onboard_time": 1757894422,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76174,
+        "num": 76174,
+        "word": "原来北欧打工人的一天是这样的",
+        "onboard_time": 1757895141,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76121,
+        "num": 76121,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1757901321,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72776,
+        "num": 72776,
+        "word": "王楚钦一步步向前一板板拿下",
+        "onboard_time": 1757900961,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72753,
+        "num": 72753,
+        "word": "男子回应NIKE要给缝书包的妈妈礼物",
+        "onboard_time": 1757871736,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72335,
+        "num": 72335,
+        "word": "樊振东给拉布布穿了皇马球衣",
+        "onboard_time": 1757865982,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71811,
+        "num": 71811,
+        "word": "邓为你怎么变成权志为了",
+        "onboard_time": 1757854345,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71343,
+        "num": 71343,
+        "word": "林心如霍建华还在磨合中",
+        "onboard_time": 1757853386,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72314,
+        "num": 71022,
+        "word": "韦雪搓澡被粉丝认出",
+        "onboard_time": 1757856205,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72313,
+        "num": 70801,
+        "word": "蔡徐坤诶我的粉丝都是天才吗",
+        "onboard_time": 1757894362,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

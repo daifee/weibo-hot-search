@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757892982823,
+  "endTime": 1757901394194,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1576203,
+      "num": 1576203,
+      "word": "支付宝账号解除授权",
+      "onboard_time": 1757891539,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1563625,
       "num": 251957,
       "word": "曝高学历小花是木头美人",
@@ -2411,14 +2419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1034399,
-      "num": 1034399,
-      "word": "支付宝账号解除授权",
-      "onboard_time": 1757891539,
-      "rank": 0,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1028515,
       "num": 1028515,
       "word": "国外网友被中国阅兵震惊",
@@ -2649,6 +2649,14 @@
       "onboard_time": 1757550922,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 968275,
+      "num": 968275,
+      "word": "Dior认领",
+      "onboard_time": 1757895262,
+      "rank": 1,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 966933,
@@ -5339,6 +5347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 586102,
+      "num": 198216,
+      "word": "宋妍霏回应提了24次裙子",
+      "onboard_time": 1757897842,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585886,
       "num": 390179,
       "word": "一个人的命怎么能好成这样啊",
@@ -7459,6 +7475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447283,
+      "num": 447283,
+      "word": "骗子混入工作群冒充董事长骗走60万",
+      "onboard_time": 1757892620,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447275,
       "num": 425663,
       "word": "美国人成批逃离本国",
@@ -7561,6 +7585,14 @@
       "onboard_time": 1757500522,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443428,
+      "num": 146497,
+      "word": "你以为在备孕实际是避孕的行为",
+      "onboard_time": 1757901201,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 442057,
@@ -8081,6 +8113,14 @@
       "onboard_time": 1756788561,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 417629,
+      "num": 195285,
+      "word": "BBC称日本从未正视侵略历史",
+      "onboard_time": 1757895742,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 417348,
@@ -9849,6 +9889,14 @@
       "onboard_time": 1757297363,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345075,
+      "num": 194019,
+      "word": "wwd发了迪丽热巴刘雨昕",
+      "onboard_time": 1757895861,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 345005,
@@ -12033,6 +12081,14 @@
       "onboard_time": 1756888524,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 274338,
+      "num": 186255,
+      "word": "网吧行业现状",
+      "onboard_time": 1757897782,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274048,
@@ -14955,6 +15011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210743,
+      "num": 210743,
+      "word": "租房新规今起实施",
+      "onboard_time": 1757893642,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210660,
       "num": 210660,
       "word": "原来小孩装病在大人眼里这么明显",
@@ -15443,6 +15507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204307,
+      "num": 204307,
+      "word": "iG 世界赛",
+      "onboard_time": 1757895502,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204217,
       "num": 204217,
       "word": "归龙潮",
@@ -15921,6 +15993,14 @@
       "onboard_time": 1756960044,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200589,
+      "num": 200589,
+      "word": "艾美奖获奖名单",
+      "onboard_time": 1757901381,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 200535,
@@ -18371,6 +18451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183067,
+      "num": 183067,
+      "word": "外国醉汉殴打中国留学生",
+      "onboard_time": 1757899460,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182863,
       "num": 182863,
       "word": "确诊厌6症",
@@ -19769,6 +19857,14 @@
       "onboard_time": 1756884444,
       "rank": 48,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 170919,
+      "num": 121301,
+      "word": "韩国人街头高喊我们是柯克",
+      "onboard_time": 1757900662,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 170903,
@@ -24107,6 +24203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145579,
+      "num": 145579,
+      "word": "国家网络安全事件报告管理办法发布",
+      "onboard_time": 1757901141,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145537,
       "num": 152214,
       "word": "把握好时尚轮回真的省衣服",
@@ -26027,6 +26131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137064,
+      "num": 146577,
+      "word": "芯片板块再走强",
+      "onboard_time": 1757900721,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137062,
       "num": 137062,
       "word": "iPhoneAir充电口未居中",
@@ -26953,6 +27065,14 @@
       "onboard_time": 1757501663,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133359,
+      "num": 133359,
+      "word": "存款会以别的形式消失的",
+      "onboard_time": 1757896162,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 133334,
@@ -28027,6 +28147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128543,
+      "num": 128543,
+      "word": "奥运冠军邓琳琳官宣怀孕",
+      "onboard_time": 1757901261,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128505,
       "num": 128505,
       "word": "李宇春二十年来开场最早的一次演唱会",
@@ -28939,6 +29067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124890,
+      "num": 124890,
+      "word": "瑞幸 星穹铁道",
+      "onboard_time": 1757895923,
+      "rank": 27,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 124876,
       "num": 337349,
       "word": "台湾青年说祖国强盛是最大的底气",
@@ -29241,6 +29377,14 @@
       "onboard_time": 1757405422,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123692,
+      "num": 151646,
+      "word": "张凌赫喜欢BE",
+      "onboard_time": 1757898503,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 123688,
@@ -29617,6 +29761,14 @@
       "onboard_time": 1757422342,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122182,
+      "num": 122182,
+      "word": "AirPodsPro3上手",
+      "onboard_time": 1757898681,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 122146,
@@ -30985,6 +31137,14 @@
       "onboard_time": 1757314642,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116127,
+      "num": 116127,
+      "word": "王一博出道十一周年照",
+      "onboard_time": 1757898981,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 116119,
@@ -33243,6 +33403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107791,
+      "num": 107791,
+      "word": "老师看天才就是这种感觉",
+      "onboard_time": 1757896222,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107777,
       "num": 172334,
       "word": "四川抢小孩女子疑似精神病发作",
@@ -34523,6 +34691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102456,
+      "num": 102456,
+      "word": "英语躯体化",
+      "onboard_time": 1757894662,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102421,
       "num": 102421,
       "word": "天安门广场上空看现场",
@@ -35217,6 +35393,14 @@
       "onboard_time": 1757559861,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99374,
+      "num": 99374,
+      "word": "俄军演中发射锆石高超音速导弹",
+      "onboard_time": 1757896222,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99362,
@@ -36467,6 +36651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93879,
+      "num": 199986,
+      "word": "加沙孩子要么饿死要么被炸死",
+      "onboard_time": 1757900721,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93833,
       "num": 209339,
       "word": "螃蟹低至10元一斤",
@@ -36937,6 +37129,14 @@
       "onboard_time": 1757123720,
       "rank": 45,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 91380,
+      "num": 122590,
+      "word": "艾美奖红毯",
+      "onboard_time": 1757900301,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 91304,
@@ -38939,6 +39139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79316,
+      "num": 79316,
+      "word": "特朗普预期美联储本周将大幅降息",
+      "onboard_time": 1757901141,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79245,
       "num": 74240,
       "word": "罗永浩吐槽西兰花保质期2年",
@@ -39283,6 +39491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76410,
+      "num": 76410,
+      "word": "关晓彤斐登晚宴",
+      "onboard_time": 1757894422,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 76346,
       "num": 209029,
       "word": "子夜归群像",
@@ -39329,6 +39545,22 @@
       "onboard_time": 1757499142,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 76174,
+      "num": 76174,
+      "word": "原来北欧打工人的一天是这样的",
+      "onboard_time": 1757895141,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 76121,
+      "num": 76121,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1757901321,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 76031,
@@ -39763,6 +39995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72776,
+      "num": 72776,
+      "word": "王楚钦一步步向前一板板拿下",
+      "onboard_time": 1757900961,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72698,
       "num": 209470,
       "word": "粉丝发现王鹤棣疑似代言高德地图",
@@ -39825,6 +40065,14 @@
       "onboard_time": 1757424922,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72313,
+      "num": 70801,
+      "word": "蔡徐坤诶我的粉丝都是天才吗",
+      "onboard_time": 1757894362,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 72230,
@@ -42497,14 +42745,6 @@
       "onboard_time": 1756648284,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48142,
-      "num": 48142,
-      "word": "骗子混入工作群冒充董事长骗走60万",
-      "onboard_time": 1757892620,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47902,
