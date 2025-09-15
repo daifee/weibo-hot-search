@@ -1,10 +1,10 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757906003928,
+  "endTime": 1757906970271,
   "band_list": [
     {
-      "raw_hot": 3822880,
-      "num": 3822880,
+      "raw_hot": 3969260,
+      "num": 3969260,
       "word": "小米16改名小米17",
       "onboard_time": 1757902522,
       "rank": 31,
@@ -27,8 +27,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1113850,
-      "num": 1113850,
+      "raw_hot": 1582004,
+      "num": 1582004,
       "word": "太二酸菜鱼为何没人吃了",
       "onboard_time": 1757904502,
       "rank": 1,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 443428,
-      "num": 205514,
+      "num": 237723,
       "word": "你以为在备孕实际是避孕的行为",
       "onboard_time": 1757901201,
       "rank": 21,
@@ -177,6 +177,14 @@
       "onboard_time": 1757895742,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 411304,
+      "num": 411304,
+      "word": "袁一琦签约天娱传媒",
+      "onboard_time": 1757905462,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 402323,
@@ -259,6 +267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321818,
+      "num": 478379,
+      "word": "青海黄河源区确认发现秦代刻石",
+      "onboard_time": 1757904681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303919,
+      "num": 303919,
+      "word": "iPhone17系列价格已破发",
+      "onboard_time": 1757905701,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 283081,
       "num": 283081,
       "word": "孙颖莎说和王楚钦默契不错",
@@ -273,6 +297,14 @@
       "onboard_time": 1757855965,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277124,
+      "num": 238017,
+      "word": "床上不能停半挂",
+      "onboard_time": 1757904801,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 276742,
@@ -299,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263931,
+      "num": 263931,
+      "word": "薛凯琪把LadyGaga歌词穿身上",
+      "onboard_time": 1757905582,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259217,
       "num": 597341,
       "word": "731",
@@ -315,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247717,
+      "num": 247717,
+      "word": "李沁逐渐俊化",
+      "onboard_time": 1757905522,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247507,
       "num": 247507,
       "word": "蔡徐坤音乐节",
@@ -323,20 +371,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237015,
-      "num": 237015,
+      "raw_hot": 237243,
+      "num": 237243,
       "word": "李乃文又在哪闯什么祸呢",
       "onboard_time": 1757903062,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236894,
-      "num": 478379,
-      "word": "青海黄河源区确认发现秦代刻石",
-      "onboard_time": 1757904681,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231849,
@@ -403,12 +443,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 208643,
-      "num": 208643,
-      "word": "袁一琦签约天娱传媒",
-      "onboard_time": 1757905462,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 207750,
+      "num": 207750,
+      "word": "雷军正面迎战iPhone",
+      "onboard_time": 1757905821,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 207368,
@@ -441,6 +481,14 @@
       "onboard_time": 1757905281,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188669,
+      "num": 238201,
+      "word": "国庆中秋调休时间安排",
+      "onboard_time": 1757906121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188507,
@@ -491,12 +539,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 169798,
-      "num": 169798,
-      "word": "雷军正面迎战iPhone",
-      "onboard_time": 1757905821,
-      "rank": 26,
-      "category": "数码"
+      "raw_hot": 167655,
+      "num": 167655,
+      "word": "王楚钦重回世1孙颖莎守住世1",
+      "onboard_time": 1757906001,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 164849,
@@ -595,14 +643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 145279,
-      "num": 159917,
-      "word": "李沁逐渐俊化",
-      "onboard_time": 1757905522,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145090,
       "num": 145090,
       "word": "国新办新闻发布会",
@@ -625,6 +665,22 @@
       "onboard_time": 1757902161,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140219,
+      "num": 140219,
+      "word": "付辛博不愧是初代选秀出来的",
+      "onboard_time": 1757903120,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139872,
+      "num": 139872,
+      "word": "减肥太猛 显老",
+      "onboard_time": 1757906961,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 137064,
@@ -651,12 +707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129794,
-      "num": 129794,
-      "word": "床上不能停半挂",
-      "onboard_time": 1757904801,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 133321,
+      "num": 133321,
+      "word": "芬芳喜事定档",
+      "onboard_time": 1757906903,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 128877,
@@ -723,14 +779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 119273,
-      "num": 119273,
-      "word": "iPhone17系列价格已破发",
-      "onboard_time": 1757905701,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 117988,
       "num": 117988,
       "word": "李沁龚俊 偶像剧都不敢这么拍",
@@ -745,14 +793,6 @@
       "onboard_time": 1757877794,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114805,
-      "num": 114805,
-      "word": "薛凯琪把LadyGaga歌词穿身上",
-      "onboard_time": 1757905582,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 114754,
@@ -771,19 +811,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110882,
-      "num": 110882,
-      "word": "付辛博不愧是初代选秀出来的",
-      "onboard_time": 1757903120,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 109594,
       "num": 109594,
       "word": "男子回应NIKE要给缝书包的妈妈礼物",
       "onboard_time": 1757871736,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108967,
+      "num": 108967,
+      "word": "8岁神经母细胞瘤患儿霖霖去世",
+      "onboard_time": 1757902761,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -801,14 +841,6 @@
       "onboard_time": 1757901982,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 105776,
-      "num": 105776,
-      "word": "8岁神经母细胞瘤患儿霖霖去世",
-      "onboard_time": 1757902761,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104306,
@@ -841,6 +873,14 @@
       "onboard_time": 1757894662,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99687,
+      "num": 131628,
+      "word": "王楚钦孙颖莎使出吃奶的劲儿按手印",
+      "onboard_time": 1757906422,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 98505,
@@ -913,6 +953,14 @@
       "onboard_time": 1757864423,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 88489,
+      "num": 130812,
+      "word": "女子从小攒指甲卖给专门回收者",
+      "onboard_time": 1757906782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87265,
@@ -1169,6 +1217,22 @@
       "onboard_time": 1757881453,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35833,
+      "num": 132431,
+      "word": "武契奇 受邀访华时内心欣喜若狂",
+      "onboard_time": 1757906842,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35601,
+      "num": 270752,
+      "word": "高圆圆真会选",
+      "onboard_time": 1757906062,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 35524,

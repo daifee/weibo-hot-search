@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757906003928,
+  "endTime": 1757906970271,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -187,8 +187,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3822880,
-      "num": 3822880,
+      "raw_hot": 3969260,
+      "num": 3969260,
       "word": "小米16改名小米17",
       "onboard_time": 1757902522,
       "rank": 31,
@@ -1283,6 +1283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1582004,
+      "num": 1582004,
+      "word": "太二酸菜鱼为何没人吃了",
+      "onboard_time": 1757904502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1577744,
       "num": 745153,
       "word": "蒋智豪确诊肺癌晚期最新发声",
@@ -2217,14 +2225,6 @@
       "onboard_time": 1757301623,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1113850,
-      "num": 1113850,
-      "word": "太二酸菜鱼为何没人吃了",
-      "onboard_time": 1757904502,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1109628,
@@ -7652,7 +7652,7 @@
     },
     {
       "raw_hot": 443428,
-      "num": 205514,
+      "num": 237723,
       "word": "你以为在备孕实际是避孕的行为",
       "onboard_time": 1757901201,
       "rank": 21,
@@ -8273,6 +8273,14 @@
       "onboard_time": 1757552002,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 411304,
+      "num": 411304,
+      "word": "袁一琦签约天娱传媒",
+      "onboard_time": 1757905462,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 410572,
@@ -10643,6 +10651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321818,
+      "num": 478379,
+      "word": "青海黄河源区确认发现秦代刻石",
+      "onboard_time": 1757904681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321563,
       "num": 524218,
       "word": "中美将在西班牙会谈",
@@ -11113,6 +11129,14 @@
       "onboard_time": 1756954762,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303919,
+      "num": 303919,
+      "word": "iPhone17系列价格已破发",
+      "onboard_time": 1757905701,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 303484,
@@ -12035,6 +12059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277124,
+      "num": 238017,
+      "word": "床上不能停半挂",
+      "onboard_time": 1757904801,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277106,
       "num": 235668,
       "word": "AngelababyG社生频",
@@ -12513,6 +12545,14 @@
       "onboard_time": 1757832383,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263931,
+      "num": 263931,
+      "word": "薛凯琪把LadyGaga歌词穿身上",
+      "onboard_time": 1757905582,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 263765,
@@ -13043,6 +13083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247717,
+      "num": 247717,
+      "word": "李沁逐渐俊化",
+      "onboard_time": 1757905522,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247278,
       "num": 247278,
       "word": "瑞幸星穹铁道联名",
@@ -13531,6 +13579,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 237243,
+      "num": 237243,
+      "word": "李乃文又在哪闯什么祸呢",
+      "onboard_time": 1757903062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237228,
       "num": 218009,
       "word": "梓渝新歌",
@@ -13553,22 +13609,6 @@
       "onboard_time": 1757129001,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237015,
-      "num": 237015,
-      "word": "李乃文又在哪闯什么祸呢",
-      "onboard_time": 1757903062,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 236894,
-      "num": 478379,
-      "word": "青海黄河源区确认发现秦代刻石",
-      "onboard_time": 1757904681,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236727,
@@ -15283,14 +15323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208643,
-      "num": 208643,
-      "word": "袁一琦签约天娱传媒",
-      "onboard_time": 1757905462,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208641,
       "num": 208641,
       "word": "王晰弹唱",
@@ -15393,6 +15425,14 @@
       "onboard_time": 1757749162,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207750,
+      "num": 207750,
+      "word": "雷军正面迎战iPhone",
+      "onboard_time": 1757905821,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 207384,
@@ -17795,6 +17835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188669,
+      "num": 238201,
+      "word": "国庆中秋调休时间安排",
+      "onboard_time": 1757906121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188653,
       "num": 188653,
       "word": "罗永浩回应西贝品牌负责人",
@@ -20163,14 +20211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169798,
-      "num": 169798,
-      "word": "雷军正面迎战iPhone",
-      "onboard_time": 1757905821,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 169583,
       "num": 196564,
       "word": "教师节被南京浪漫到了",
@@ -20505,6 +20545,14 @@
       "onboard_time": 1756705880,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167655,
+      "num": 167655,
+      "word": "王楚钦重回世1孙颖莎守住世1",
+      "onboard_time": 1757906001,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 167571,
@@ -24483,14 +24531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145279,
-      "num": 159917,
-      "word": "李沁逐渐俊化",
-      "onboard_time": 1757905522,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145208,
       "num": 145208,
       "word": "国产九价HPV疫苗正式投入使用",
@@ -25547,6 +25587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140219,
+      "num": 140219,
+      "word": "付辛博不愧是初代选秀出来的",
+      "onboard_time": 1757903120,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140210,
       "num": 140210,
       "word": "戴口罩的陈芋汐完全认不出",
@@ -25657,6 +25705,14 @@
       "onboard_time": 1757769025,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139872,
+      "num": 139872,
+      "word": "减肥太猛 显老",
+      "onboard_time": 1757906961,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 139839,
@@ -27315,6 +27371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133321,
+      "num": 133321,
+      "word": "芬芳喜事定档",
+      "onboard_time": 1757906903,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133190,
       "num": 145071,
       "word": "祁同伟饰演者带服刑人员子女看话剧",
@@ -28073,14 +28137,6 @@
       "onboard_time": 1757150001,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129794,
-      "num": 129794,
-      "word": "床上不能停半挂",
-      "onboard_time": 1757904801,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 129787,
@@ -30627,14 +30683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119273,
-      "num": 119273,
-      "word": "iPhone17系列价格已破发",
-      "onboard_time": 1757905701,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 119265,
       "num": 119265,
       "word": "退出软件时显示残忍离开到底谁发明的",
@@ -31715,14 +31763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 114805,
-      "num": 114805,
-      "word": "薛凯琪把LadyGaga歌词穿身上",
-      "onboard_time": 1757905582,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 114754,
       "num": 114754,
       "word": "3人为高薪向间谍报送我军事信息",
@@ -32779,14 +32819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110882,
-      "num": 110882,
-      "word": "付辛博不愧是初代选秀出来的",
-      "onboard_time": 1757903120,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 110813,
       "num": 110813,
       "word": "乘机人姓名误填拼音致机票作废",
@@ -33337,6 +33369,14 @@
       "onboard_time": 1757562277,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 108967,
+      "num": 108967,
+      "word": "8岁神经母细胞瘤患儿霖霖去世",
+      "onboard_time": 1757902761,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108943,
@@ -34161,14 +34201,6 @@
       "onboard_time": 1757165004,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105776,
-      "num": 105776,
-      "word": "8岁神经母细胞瘤患儿霖霖去世",
-      "onboard_time": 1757902761,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105733,
@@ -35568,6 +35600,14 @@
       "word": "国乒澳门最新赛程",
       "onboard_time": 1757559981,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99687,
+      "num": 131628,
+      "word": "王楚钦孙颖莎使出吃奶的劲儿按手印",
+      "onboard_time": 1757906422,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -37801,6 +37841,14 @@
       "onboard_time": 1756650444,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88489,
+      "num": 130812,
+      "word": "女子从小攒指甲卖给专门回收者",
+      "onboard_time": 1757906782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88421,
@@ -44155,12 +44203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35833,
+      "num": 132431,
+      "word": "武契奇 受邀访华时内心欣喜若狂",
+      "onboard_time": 1757906842,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35662,
       "num": 131279,
       "word": "续面事件面馆深夜拆除招牌",
       "onboard_time": 1757068282,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35601,
+      "num": 270752,
+      "word": "高圆圆真会选",
+      "onboard_time": 1757906062,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 35406,
