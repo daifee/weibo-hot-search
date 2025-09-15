@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1757974961847,
+  "endTime": 1757975945112,
   "band_list": [
     {
       "raw_hot": 1260119,
@@ -187,6 +187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147102,
+      "num": 193779,
+      "word": "卖房救重病男友发现他没病还已婚",
+      "onboard_time": 1757948485,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138445,
       "num": 193920,
       "word": "梁婷说签约演员里唯一赚钱的是尹正",
@@ -211,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114299,
-      "num": 193779,
-      "word": "卖房救重病男友发现他没病还已婚",
-      "onboard_time": 1757948485,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 118119,
+      "num": 193644,
+      "word": "赵本山不让女儿签婚前协议",
+      "onboard_time": 1757936962,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 111546,
@@ -225,14 +233,6 @@
       "onboard_time": 1757952081,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 100060,
-      "num": 193644,
-      "word": "赵本山不让女儿签婚前协议",
-      "onboard_time": 1757936962,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 99158,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44129,
+      "num": 78057,
+      "word": "妻子出轨主播9个月打赏1.8万次",
+      "onboard_time": 1757930364,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43776,
       "num": 193374,
       "word": "孙颖莎卫冕澳门赛女单冠军",
@@ -419,7 +427,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43165,
+      "raw_hot": 43368,
       "num": 193345,
       "word": "用一次性手套洗头会让头发更蓬松",
       "onboard_time": 1757939845,
@@ -435,6 +443,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 38345,
+      "num": 51313,
+      "word": "辛芷蕾梁婷当年的事情彼此各有难处",
+      "onboard_time": 1757958916,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36014,
       "num": 95559,
       "word": "石宇奇退出中国大师赛",
@@ -443,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35523,
-      "num": 51313,
-      "word": "辛芷蕾梁婷当年的事情彼此各有难处",
-      "onboard_time": 1757958916,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 35322,
+      "num": 40558,
+      "word": "河北一高中收2700元教辅费被质疑",
+      "onboard_time": 1757962574,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34099,
@@ -459,28 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32733,
-      "num": 78057,
-      "word": "妻子出轨主播9个月打赏1.8万次",
-      "onboard_time": 1757930364,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29464,
       "num": 95550,
       "word": "不眠日",
       "onboard_time": 1757956518,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28324,
-      "num": 37366,
-      "word": "河北一高中收2700元教辅费被质疑",
-      "onboard_time": 1757962574,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23624,
@@ -491,12 +491,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18683,
-      "num": 37379,
+      "raw_hot": 20526,
+      "num": 40556,
       "word": "韩方彻查公民在美是否遭侵害",
       "onboard_time": 1757963775,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17062,
+      "num": 40555,
+      "word": "何健麒在公厕边睡过觉",
+      "onboard_time": 1757975537,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16265,
+      "num": 40555,
+      "word": "泰嗨巅峰音乐节",
+      "onboard_time": 1757975837,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 14730,

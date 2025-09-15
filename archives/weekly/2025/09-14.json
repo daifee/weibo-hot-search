@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757974961847,
+  "endTime": 1757975945112,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -6915,6 +6915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38345,
+      "num": 51313,
+      "word": "辛芷蕾梁婷当年的事情彼此各有难处",
+      "onboard_time": 1757958916,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37481,
       "num": 231966,
       "word": "胡先煦玉门关聆听岁月回响",
@@ -6947,12 +6955,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35523,
-      "num": 51313,
-      "word": "辛芷蕾梁婷当年的事情彼此各有难处",
-      "onboard_time": 1757958916,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 35322,
+      "num": 40558,
+      "word": "河北一高中收2700元教辅费被质疑",
+      "onboard_time": 1757962574,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34099,
@@ -7073,14 +7081,6 @@
       "onboard_time": 1757873656,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 28324,
-      "num": 37366,
-      "word": "河北一高中收2700元教辅费被质疑",
-      "onboard_time": 1757962574,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27640,
@@ -7251,6 +7251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 20526,
+      "num": 40556,
+      "word": "韩方彻查公民在美是否遭侵害",
+      "onboard_time": 1757963775,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19708,
       "num": 119488,
       "word": "多动症学生所在班级恢复正常上课",
@@ -7283,14 +7291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18683,
-      "num": 37379,
-      "word": "韩方彻查公民在美是否遭侵害",
-      "onboard_time": 1757963775,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17993,
       "num": 192513,
       "word": "XG对战Falcons",
@@ -7307,11 +7307,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17062,
+      "num": 40555,
+      "word": "何健麒在公厕边睡过觉",
+      "onboard_time": 1757975537,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16517,
       "num": 57106,
       "word": "周深我被压在雷峰塔下出不来了",
       "onboard_time": 1757877074,
       "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16265,
+      "num": 40555,
+      "word": "泰嗨巅峰音乐节",
+      "onboard_time": 1757975837,
+      "rank": 48,
       "category": "演出"
     },
     {
