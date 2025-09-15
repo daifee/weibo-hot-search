@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757914918620,
+  "endTime": 1757918308664,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -81,6 +81,14 @@
       "onboard_time": 1756900703,
       "rank": 0,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 12520060,
+      "num": 12520060,
+      "word": "西贝道歉",
+      "onboard_time": 1757914403,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11688375,
@@ -177,14 +185,6 @@
       "onboard_time": 1757431282,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 4419497,
-      "num": 4419497,
-      "word": "西贝道歉",
-      "onboard_time": 1757914403,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4117565,
@@ -441,6 +441,14 @@
       "onboard_time": 1757682627,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2652578,
+      "num": 2652578,
+      "word": "辛芷蕾梁婷和解",
+      "onboard_time": 1757915663,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2648197,
@@ -1376,6 +1384,14 @@
       "word": "桃李面包广告 没饱尝过生活的毒打",
       "onboard_time": 1757043323,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1526190,
+      "num": 937545,
+      "word": "西贝 顾客虐我千百遍",
+      "onboard_time": 1757915663,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -4964,7 +4980,7 @@
     },
     {
       "raw_hot": 641281,
-      "num": 426370,
+      "num": 429285,
       "word": "董璇听到张维伊说话的表情",
       "onboard_time": 1757913264,
       "rank": 13,
@@ -5817,6 +5833,14 @@
       "onboard_time": 1757038221,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559588,
+      "num": 559588,
+      "word": "王楚钦澳门赛夺冠后发文",
+      "onboard_time": 1757917162,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 559442,
@@ -8011,6 +8035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432401,
+      "num": 432401,
+      "word": "西贝儿童餐将调整为现做",
+      "onboard_time": 1757915545,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431922,
       "num": 431922,
       "word": "美国拘捕300名韩国人",
@@ -8105,6 +8137,14 @@
       "onboard_time": 1756860266,
       "rank": 24,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 428244,
+      "num": 428244,
+      "word": "西贝调整8个菜品为门店现做",
+      "onboard_time": 1757915001,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427913,
@@ -9817,6 +9857,14 @@
       "onboard_time": 1757863345,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 357912,
+      "num": 357912,
+      "word": "西贝鳕鱼条 大黄鱼",
+      "onboard_time": 1757916024,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357764,
@@ -11697,6 +11745,14 @@
       "onboard_time": 1757467222,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292445,
+      "num": 292445,
+      "word": "西贝将统一采用非转基因大豆油",
+      "onboard_time": 1757917343,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292246,
@@ -14459,6 +14515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225364,
+      "num": 430218,
+      "word": "西贝全国门店陆续完成调整",
+      "onboard_time": 1757917642,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 225331,
       "num": 244667,
       "word": "唐国强的五官辨识度连AI都动不了",
@@ -15273,6 +15337,14 @@
       "onboard_time": 1757914343,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212272,
+      "num": 212272,
+      "word": "西贝从今以后打明牌",
+      "onboard_time": 1757915784,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212262,
@@ -18011,6 +18083,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 189329,
+      "num": 168861,
+      "word": "恋爱里能好好说话是一种能力",
+      "onboard_time": 1757917403,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189263,
       "num": 189263,
       "word": "交换生落入学姐的温柔陷阱",
@@ -19467,6 +19547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177691,
+      "num": 177691,
+      "word": "当代年轻人的生意经",
+      "onboard_time": 1757917702,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177607,
       "num": 177607,
       "word": "西贝演示现场烤鱼",
@@ -20699,6 +20787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168478,
+      "num": 168478,
+      "word": "王楚钦晒和王皓合照",
+      "onboard_time": 1757918061,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168433,
       "num": 204698,
       "word": "火车票报销纸质凭证将成历史",
@@ -21857,6 +21953,14 @@
       "onboard_time": 1756808361,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161786,
+      "num": 161786,
+      "word": "王楚钦说不怕任何困难",
+      "onboard_time": 1757917883,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 161724,
@@ -23331,6 +23435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153005,
+      "num": 153005,
+      "word": "邪教头目自称玉皇大帝奸淫10名妇女",
+      "onboard_time": 1757915001,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152997,
       "num": 152997,
       "word": "特朗普须赔偿8330万美元",
@@ -24531,6 +24643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146985,
+      "num": 146985,
+      "word": "一直不谈恋爱能等到更好的人吗",
+      "onboard_time": 1757916024,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146945,
       "num": 168374,
       "word": "玫瑰花也爱喝汽水",
@@ -24841,6 +24961,14 @@
       "onboard_time": 1757732363,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145649,
+      "num": 170437,
+      "word": "王鹤润青衣预备役",
+      "onboard_time": 1757917223,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 145579,
@@ -25881,6 +26009,14 @@
       "onboard_time": 1757247922,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140937,
+      "num": 140937,
+      "word": "日料 预制",
+      "onboard_time": 1757917403,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140891,
@@ -28739,6 +28875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129004,
+      "num": 129004,
+      "word": "西贝向顾客致歉",
+      "onboard_time": 1757917403,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128955,
       "num": 128955,
       "word": "2025KPL年总赛程赛制公布",
@@ -28841,6 +28985,14 @@
       "onboard_time": 1756783760,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128604,
+      "num": 169892,
+      "word": "孙颖莎王楚钦奖杯列了两排",
+      "onboard_time": 1757917824,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 128584,
@@ -30011,6 +30163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124015,
+      "num": 426773,
+      "word": "一教资考点多名考生物品被雨泡损坏",
+      "onboard_time": 1757913862,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123952,
       "num": 214570,
       "word": "顾客曝点知名餐厅外卖换菜被骂装货",
@@ -30329,14 +30489,6 @@
       "onboard_time": 1757071641,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122745,
-      "num": 426773,
-      "word": "一教资考点多名考生物品被雨泡损坏",
-      "onboard_time": 1757913862,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122619,
@@ -32705,6 +32857,14 @@
       "onboard_time": 1757315482,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112887,
+      "num": 112887,
+      "word": "iPhone17Pro无反向无线充电",
+      "onboard_time": 1757915123,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 112873,
@@ -40819,6 +40979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72414,
+      "num": 126605,
+      "word": "丹尼鼓励iG选手",
+      "onboard_time": 1757917223,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72405,
       "num": 338254,
       "word": "美国民众遭遇电诈损失超百亿美元",
@@ -41633,6 +41801,14 @@
       "onboard_time": 1757207842,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64165,
+      "num": 292457,
+      "word": "肖战能不能把高智感穿搭焊在身上",
+      "onboard_time": 1757916502,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 64134,
@@ -42657,6 +42833,14 @@
       "onboard_time": 1756645282,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56007,
+      "num": 125745,
+      "word": "李昀锐地铁老人看手机古装版",
+      "onboard_time": 1757917583,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 56006,
@@ -44787,6 +44971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34853,
+      "num": 292526,
+      "word": "超级V23浙赛最速方盒子",
+      "onboard_time": 1757916502,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34597,
       "num": 223600,
       "word": "18岁港大学生疑遭电诈后留遗书轻生",
@@ -45753,6 +45945,14 @@
       "onboard_time": 1756924636,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24124,
+      "num": 125732,
+      "word": "柯克穿防弹衣了吗",
+      "onboard_time": 1757918242,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24055,

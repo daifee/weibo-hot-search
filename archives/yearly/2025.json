@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1757914918620,
+  "endTime": 1757918308664,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -745,6 +745,14 @@
       "onboard_time": 1738069185,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12520060,
+      "num": 12520060,
+      "word": "西贝道歉",
+      "onboard_time": 1757914403,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12488656,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739983575,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 4419497,
-      "num": 4419497,
-      "word": "西贝道歉",
-      "onboard_time": 1757914403,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

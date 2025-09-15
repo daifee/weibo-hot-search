@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/15 13:41:58
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/15 14:38:28
 </p>
 </blockquote>
 <p>
@@ -569,6 +569,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%88%AB%E4%B8%8A%E6%98%A5%E6%99%9A%23" target="weibo">
 建议岳云鹏别上春晚（热度：12629127）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%81%93%E6%AD%89%23" target="weibo">
+西贝道歉（热度：12520060）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 苹果发布会（热度：4430295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%81%93%E6%AD%89%23" target="weibo">
-西贝道歉（热度：4419497）
 </a>
 </li>
 
