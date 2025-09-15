@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757950862946,
+  "endTime": 1757953935853,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -345,6 +345,14 @@
       "onboard_time": 1757855965,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 986487,
+      "num": 986487,
+      "word": "官方通报52岁女子中毒身亡",
+      "onboard_time": 1757949624,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 981228,
@@ -835,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 543730,
+      "num": 543730,
+      "word": "中美就TikTok等问题进行了沟通",
+      "onboard_time": 1757950704,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 542029,
       "num": 271631,
       "word": "建议不要再趴桌午睡了",
@@ -969,6 +985,14 @@
       "onboard_time": 1757913683,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493568,
+      "num": 493568,
+      "word": "中国绝不以牺牲企业利益为代价",
+      "onboard_time": 1757950704,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 493024,
@@ -1523,14 +1547,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 349473,
-      "num": 349473,
-      "word": "官方通报52岁女子中毒身亡",
-      "onboard_time": 1757949624,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 348079,
       "num": 348079,
       "word": "叶舒华低马尾",
@@ -1963,6 +1979,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 256696,
+      "num": 256696,
+      "word": "中美马德里经贸会谈成果公布",
+      "onboard_time": 1757951063,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256639,
       "num": 256639,
       "word": "剧才播10集女主背后空无一人",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1757815162,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 252147,
+      "num": 252147,
+      "word": "成毅说观众就是我的老师",
+      "onboard_time": 1757952202,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 251126,
@@ -2427,12 +2459,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209608,
-      "num": 248118,
-      "word": "中美就TikTok等问题进行了沟通",
-      "onboard_time": 1757950704,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 209197,
+      "num": 209197,
+      "word": "马嘉祺丁程鑫一起看话剧",
+      "onboard_time": 1757952742,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 209194,
@@ -3531,6 +3563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157836,
+      "num": 244289,
+      "word": "女子踩到氢氟酸现场已无害化处置",
+      "onboard_time": 1757952202,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157823,
       "num": 157823,
       "word": "以后不敢说自己喜欢大海了",
@@ -3659,14 +3699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154006,
-      "num": 154006,
-      "word": "中国绝不以牺牲企业利益为代价",
-      "onboard_time": 1757950704,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 153910,
       "num": 170311,
       "word": "黄奕一件事已经坚持17年了",
@@ -3681,6 +3713,14 @@
       "onboard_time": 1757948485,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153288,
+      "num": 153288,
+      "word": "杨幂走红毯带着公司艺人增加曝光",
+      "onboard_time": 1757951841,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 153005,
@@ -3769,6 +3809,14 @@
       "onboard_time": 1757911343,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148818,
+      "num": 148818,
+      "word": "苹果iOS26正式版液态玻璃设计引争议",
+      "onboard_time": 1757950164,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 148753,
@@ -4763,6 +4811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118883,
+      "num": 118883,
+      "word": "央视专访孙颖莎王楚钦",
+      "onboard_time": 1757952922,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118645,
       "num": 231322,
       "word": "武林外传新路透",
@@ -4865,14 +4921,6 @@
       "onboard_time": 1757927542,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116073,
-      "num": 142119,
-      "word": "苹果iOS26正式版液态玻璃设计引争议",
-      "onboard_time": 1757950164,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 115512,
@@ -4985,6 +5033,14 @@
       "onboard_time": 1757908042,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111546,
+      "num": 111546,
+      "word": "着眼中美经贸大局坚持平等互惠原则",
+      "onboard_time": 1757952081,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111465,
@@ -5465,6 +5521,14 @@
       "onboard_time": 1757817742,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99158,
+      "num": 99158,
+      "word": "辛芷蕾曾因解约纠纷9个月无戏可拍",
+      "onboard_time": 1757950943,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 99021,
@@ -6451,6 +6515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57179,
+      "num": 87957,
+      "word": "摆脱内耗要从建立主体性开始",
+      "onboard_time": 1757953461,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56887,
       "num": 163589,
       "word": "xg战队急需支援",
@@ -6515,6 +6587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 53987,
+      "num": 87902,
+      "word": "杨帆称此前已发出解约函",
+      "onboard_time": 1757951902,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53181,
       "num": 59525,
       "word": "Falcons战胜XG",
@@ -6529,6 +6609,14 @@
       "onboard_time": 1757906062,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52299,
+      "num": 87860,
+      "word": "弟弟闭上眼都有蜘蛛感应",
+      "onboard_time": 1757950884,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 51673,
@@ -7196,7 +7284,7 @@
     },
     {
       "raw_hot": 8907,
-      "num": 559491,
+      "num": 650685,
       "word": "海军最新招飞大片看燃了",
       "onboard_time": 1757899280,
       "rank": 2,
