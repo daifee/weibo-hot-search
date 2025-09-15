@@ -1,0 +1,410 @@
+{
+  "runTime": 1757941519017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 622995,
+        "num": 1099679,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 510283,
+        "num": 510283,
+        "word": "被擦妆5次艺考生开学了",
+        "onboard_time": 1757938162,
+        "rank": 1,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 70509,
+        "num": 497667,
+        "word": "网警对某人工智能公司予以行政处罚",
+        "onboard_time": 1757936484,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 493024,
+        "num": 493024,
+        "word": "辛芷蕾成毅尹正艺名都是梁婷起的",
+        "onboard_time": 1757937563,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455682,
+        "num": 455682,
+        "word": "深圳市民捡到2267.83克巨型金条",
+        "onboard_time": 1757931441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301711,
+        "num": 301711,
+        "word": "警方回应两女子被戴手铐带走引围观",
+        "onboard_time": 1757935764,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197659,
+        "num": 300732,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195621,
+        "num": 299840,
+        "word": "赴山海开播现状",
+        "onboard_time": 1757922862,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142383,
+        "num": 298772,
+        "word": "英伟达违法",
+        "onboard_time": 1757924602,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 82082,
+        "num": 298466,
+        "word": "年轻人涌向黄金平替",
+        "onboard_time": 1757935163,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627574,
+        "num": 296561,
+        "word": "赵本山不让女儿签婚前协议",
+        "onboard_time": 1757936962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613126,
+        "num": 296116,
+        "word": "女子散步时踩到氢氟酸后去世",
+        "onboard_time": 1757933182,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504827,
+        "num": 294482,
+        "word": "肖战和谁搭档会让你眼前一亮",
+        "onboard_time": 1757938522,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294456,
+        "num": 294456,
+        "word": "39岁一千度近视加175度散光",
+        "onboard_time": 1757932883,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282044,
+        "num": 282044,
+        "word": "妻子出轨主播9个月打赏1.8万次",
+        "onboard_time": 1757930364,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222611,
+        "num": 222611,
+        "word": "KiMi已经16岁了",
+        "onboard_time": 1757920342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195072,
+        "num": 195072,
+        "word": "张凌赫又开始帮粉丝选发色了",
+        "onboard_time": 1757937142,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166672,
+        "num": 166672,
+        "word": "唐嫣裙子勒得动不了",
+        "onboard_time": 1757925202,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152460,
+        "num": 152460,
+        "word": "关晓彤挪威追极光",
+        "onboard_time": 1757934323,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137065,
+        "num": 137065,
+        "word": "方媛孕晚期体重不到100斤",
+        "onboard_time": 1757935943,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566133,
+        "num": 136873,
+        "word": "杨幂还是太体面了",
+        "onboard_time": 1757924123,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448525,
+        "num": 136681,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198741,
+        "num": 136218,
+        "word": "成毅又在爱奇艺剧宣上闯祸了",
+        "onboard_time": 1757931023,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158048,
+        "num": 135742,
+        "word": "运动瘦vs饿瘦",
+        "onboard_time": 1757933122,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135673,
+        "num": 135673,
+        "word": "男子吃馒头噎死经调解获赔2.8万",
+        "onboard_time": 1757937743,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129272,
+        "num": 129272,
+        "word": "老板女儿开学下属全员出动",
+        "onboard_time": 1757940802,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126564,
+        "num": 126564,
+        "word": "没说赴山海赴的是刀山火海啊",
+        "onboard_time": 1757940865,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120356,
+        "num": 120356,
+        "word": "梁婷说签约演员里唯一赚钱的是尹正",
+        "onboard_time": 1757938583,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103740,
+        "num": 103740,
+        "word": "入室抢婴贩卖案家属发声",
+        "onboard_time": 1757939604,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98571,
+        "num": 98571,
+        "word": "湾区升明月晚会又来啦",
+        "onboard_time": 1757940262,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147069,
+        "num": 98144,
+        "word": "张艺兴仅自己可见的微博",
+        "onboard_time": 1757931322,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94432,
+        "num": 94432,
+        "word": "刘亦菲真正的亲妈视角",
+        "onboard_time": 1757932883,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93358,
+        "num": 93358,
+        "word": "伞兵电子竞技只有百战封神",
+        "onboard_time": 1757941463,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91916,
+        "num": 91916,
+        "word": "市场监管总局对英伟达实施进一步调查",
+        "onboard_time": 1757924602,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89886,
+        "num": 89886,
+        "word": "肖战 如果背影会说话",
+        "onboard_time": 1757941404,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88075,
+        "num": 88075,
+        "word": "TES对战BLG",
+        "onboard_time": 1757930541,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86494,
+        "num": 86494,
+        "word": "马斯克买入超250万股股票",
+        "onboard_time": 1757940444,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166947,
+        "num": 86481,
+        "word": "被虐致死女孩母亲回应为何从未探望",
+        "onboard_time": 1757937683,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86461,
+        "num": 86461,
+        "word": "赴山海 剧本穿帮",
+        "onboard_time": 1757941463,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2047140,
+        "num": 86106,
+        "word": "罗永浩决定放弃追究西贝",
+        "onboard_time": 1757933603,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 40794,
+        "num": 85688,
+        "word": "网红称内蒙羊肉冷冻卖一年",
+        "onboard_time": 1757941102,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85676,
+        "num": 85676,
+        "word": "刘宇宁直播总是越坐越靠边",
+        "onboard_time": 1757940503,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81591,
+        "num": 81591,
+        "word": "涉嫌性侵江祖平的男子被拘捕",
+        "onboard_time": 1757926403,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83423,
+        "num": 81411,
+        "word": "谁懂一个东北人的无力感",
+        "onboard_time": 1757939604,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81227,
+        "num": 81227,
+        "word": "最新版iPhone全部配件分享",
+        "onboard_time": 1757940145,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76853,
+        "num": 76853,
+        "word": "牛下班了马不见了",
+        "onboard_time": 1757938522,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76195,
+        "num": 76195,
+        "word": "杨帆加入众合",
+        "onboard_time": 1757938583,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73487,
+        "num": 73487,
+        "word": "父亲因彩礼收走女儿手机阻止结婚",
+        "onboard_time": 1757925981,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73125,
+        "num": 73125,
+        "word": "赴山海开虐",
+        "onboard_time": 1757941463,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71658,
+        "num": 71658,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}
