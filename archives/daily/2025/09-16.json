@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1757962059380,
+  "endTime": 1757964008660,
   "band_list": [
     {
       "raw_hot": 1260119,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58720,
+      "num": 58720,
+      "word": "武侠美甲",
+      "onboard_time": 1757958976,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57179,
       "num": 193426,
       "word": "摆脱内耗要从建立主体性开始",
@@ -427,14 +435,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 37897,
-      "num": 51460,
-      "word": "武侠美甲",
-      "onboard_time": 1757958976,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 36014,
       "num": 95559,
       "word": "石宇奇退出中国大师赛",
@@ -451,7 +451,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32241,
+      "raw_hot": 32436,
       "num": 51313,
       "word": "辛芷蕾梁婷当年的事情彼此各有难处",
       "onboard_time": 1757958916,
@@ -481,6 +481,22 @@
       "onboard_time": 1757957957,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17635,
+      "num": 37366,
+      "word": "河北一高中收2700元教辅费被质疑",
+      "onboard_time": 1757962574,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11333,
+      "num": 37379,
+      "word": "韩方彻查公民在美是否遭侵害",
+      "onboard_time": 1757963775,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 3900,
