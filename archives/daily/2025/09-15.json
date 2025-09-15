@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757921938809,
+  "endTime": 1757925225664,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 945720,
+      "num": 343871,
+      "word": "KiMi已经16岁了",
+      "onboard_time": 1757920342,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846302,
       "num": 846302,
       "word": "减肥太猛 显老",
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696012,
+      "num": 696012,
+      "word": "杨幂还是太体面了",
+      "onboard_time": 1757924123,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 677844,
       "num": 677844,
       "word": "小米17",
@@ -216,14 +232,6 @@
       "word": "宋妍霏回应提了24次裙子",
       "onboard_time": 1757897842,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 604216,
-      "num": 343871,
-      "word": "KiMi已经16岁了",
-      "onboard_time": 1757920342,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393443,
+      "num": 326747,
+      "word": "辛芷蕾神似早期的宋慧乔",
+      "onboard_time": 1757921602,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390455,
       "num": 390455,
       "word": "日料 预制",
@@ -425,6 +441,14 @@
       "onboard_time": 1757907862,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367439,
+      "num": 367439,
+      "word": "骗子送400万余额银行卡",
+      "onboard_time": 1757919141,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367202,
@@ -459,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 346491,
+      "num": 346491,
+      "word": "赴山海开播现状",
+      "onboard_time": 1757922862,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345075,
       "num": 194019,
       "word": "wwd发了迪丽热巴刘雨昕",
@@ -481,6 +513,14 @@
       "onboard_time": 1757904801,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 331252,
+      "num": 331252,
+      "word": "市场监管总局对英伟达实施进一步调查",
+      "onboard_time": 1757924602,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329168,
@@ -507,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 324982,
-      "num": 351454,
-      "word": "骗子送400万余额银行卡",
-      "onboard_time": 1757919141,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 321818,
       "num": 478379,
       "word": "青海黄河源区确认发现秦代刻石",
@@ -529,6 +561,14 @@
       "onboard_time": 1757913505,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296214,
+      "num": 296214,
+      "word": "英伟达违法",
+      "onboard_time": 1757924602,
+      "rank": 14,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 293660,
@@ -611,6 +651,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260706,
+      "num": 260706,
+      "word": "8个月婴儿没喝茶被收茶位费",
+      "onboard_time": 1757918782,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259797,
+      "num": 259797,
+      "word": "长春两女子被戴手铐带走",
+      "onboard_time": 1757919801,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259195,
       "num": 215533,
       "word": "男子婚内为要男孩和他人做试管",
@@ -625,14 +681,6 @@
       "onboard_time": 1757902822,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 254000,
-      "num": 254000,
-      "word": "8个月婴儿没喝茶被收茶位费",
-      "onboard_time": 1757918782,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247717,
@@ -657,6 +705,14 @@
       "onboard_time": 1757860765,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245885,
+      "num": 245885,
+      "word": "祝绪丹录浪姐团综爆哭3小时",
+      "onboard_time": 1757921063,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 231849,
@@ -795,14 +851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206717,
-      "num": 206717,
-      "word": "辛芷蕾神似早期的宋慧乔",
-      "onboard_time": 1757921602,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204307,
       "num": 204307,
       "word": "iG 世界赛",
@@ -811,12 +859,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203269,
+      "num": 203269,
+      "word": "小米手机 头像",
+      "onboard_time": 1757924541,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203048,
       "num": 189617,
       "word": "北京昨夜冰雹威力究竟有多大",
       "onboard_time": 1757859026,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200371,
+      "num": 200371,
+      "word": "朱志鑫anti声中面不改色",
+      "onboard_time": 1757924481,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 198852,
@@ -883,12 +947,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191764,
+      "num": 191764,
+      "word": "嗨放派4阵容官宣",
+      "onboard_time": 1757924123,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189919,
+      "num": 189919,
+      "word": "15岁女孩被火车撞亡母亲发声",
+      "onboard_time": 1757923762,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189329,
       "num": 168861,
       "word": "恋爱里能好好说话是一种能力",
       "onboard_time": 1757917403,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189158,
+      "num": 189158,
+      "word": "成毅直播",
+      "onboard_time": 1757924962,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 188507,
@@ -912,14 +1000,6 @@
       "word": "太二酸菜鱼 预制菜",
       "onboard_time": 1757912724,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187360,
-      "num": 187360,
-      "word": "长春两女子被戴手铐带走",
-      "onboard_time": 1757919801,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -961,6 +1041,14 @@
       "onboard_time": 1757917702,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177301,
+      "num": 177301,
+      "word": "中方必将坚决反制",
+      "onboard_time": 1757923942,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177117,
@@ -1067,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167461,
+      "num": 182836,
+      "word": "外交部回应已邀特朗普访华",
+      "onboard_time": 1757923582,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165447,
       "num": 165447,
       "word": "予爱未名",
@@ -1105,14 +1201,6 @@
       "onboard_time": 1757919922,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162390,
-      "num": 162390,
-      "word": "祝绪丹录浪姐团综爆哭3小时",
-      "onboard_time": 1757921063,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 161929,
@@ -1235,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151595,
+      "num": 151595,
+      "word": "杨帆 众合",
+      "onboard_time": 1757922805,
+      "rank": 32,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 149417,
       "num": 172510,
       "word": "张晚意的刘海好像手机屏幕",
@@ -1307,8 +1403,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143001,
-      "num": 143001,
+      "raw_hot": 143061,
+      "num": 143061,
       "word": "可以上1休29吗",
       "onboard_time": 1757919561,
       "rank": 32,
@@ -1411,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129824,
+      "num": 129824,
+      "word": "巴基斯坦总统与歼10合影",
+      "onboard_time": 1757922383,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129004,
       "num": 129004,
       "word": "西贝向顾客致歉",
@@ -1491,6 +1595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122621,
+      "num": 122621,
+      "word": "胡锡进谈西贝道歉",
+      "onboard_time": 1757922142,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122182,
       "num": 122182,
       "word": "AirPodsPro3上手",
@@ -1505,6 +1617,14 @@
       "onboard_time": 1757918421,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122033,
+      "num": 122033,
+      "word": "原来大家都有考研坐骑",
+      "onboard_time": 1757923522,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 121648,
@@ -1643,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107516,
+      "num": 107516,
+      "word": "梁婷预测成毅星途",
+      "onboard_time": 1757924062,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106208,
       "num": 137107,
       "word": "刘宇宁新歌",
@@ -1659,12 +1787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105667,
+      "num": 105667,
+      "word": "唐嫣裙子勒得动不了",
+      "onboard_time": 1757925202,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104306,
       "num": 104306,
       "word": "韦雪搓澡被粉丝认出",
       "onboard_time": 1757856205,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 103822,
+      "num": 103822,
+      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+      "onboard_time": 1757925202,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 103689,
@@ -1728,6 +1872,14 @@
       "word": "iPhone17系列真机包装盒曝光",
       "onboard_time": 1757892439,
       "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 95232,
+      "num": 95232,
+      "word": "苹果用自研换利润",
+      "onboard_time": 1757923762,
+      "rank": 49,
       "category": "数码"
     },
     {
@@ -1939,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70981,
+      "num": 209544,
+      "word": "15万级电车迎来华为乾崑时代",
+      "onboard_time": 1757923582,
+      "rank": 19,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 70819,
       "num": 126254,
       "word": "世界乒联晒王楚钦世1海报",
@@ -1961,6 +2121,14 @@
       "onboard_time": 1757901742,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66216,
+      "num": 124351,
+      "word": "李雪琴 拢共就三个人",
+      "onboard_time": 1757924781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 64165,
@@ -2201,6 +2369,14 @@
       "onboard_time": 1757873656,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27702,
+      "num": 123141,
+      "word": "张维伊董璇互相见不上",
+      "onboard_time": 1757925082,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 24366,

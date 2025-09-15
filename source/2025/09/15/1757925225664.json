@@ -1,0 +1,410 @@
+{
+  "runTime": 1757925225664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1693230,
+        "num": 1693230,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 888532,
+        "num": 888532,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1612,
+        "num": 735215,
+        "word": "丰收的田野是最美的画卷",
+        "onboard_time": 1757858306,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7163685,
+        "num": 7163685,
+        "word": "西贝道歉",
+        "onboard_time": 1757914403,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696012,
+        "num": 696012,
+        "word": "杨幂还是太体面了",
+        "onboard_time": 1757924123,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 650751,
+        "num": 650751,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437882,
+        "num": 437882,
+        "word": "学中医女生把到爷爷死脉",
+        "onboard_time": 1757918662,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367439,
+        "num": 367439,
+        "word": "骗子送400万余额银行卡",
+        "onboard_time": 1757919141,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346491,
+        "num": 346491,
+        "word": "赴山海开播现状",
+        "onboard_time": 1757922862,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331252,
+        "num": 331252,
+        "word": "市场监管总局对英伟达实施进一步调查",
+        "onboard_time": 1757924602,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 945720,
+        "num": 328562,
+        "word": "KiMi已经16岁了",
+        "onboard_time": 1757920342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393443,
+        "num": 326747,
+        "word": "辛芷蕾神似早期的宋慧乔",
+        "onboard_time": 1757921602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346232,
+        "num": 324706,
+        "word": "miumiu签了三个00花",
+        "onboard_time": 1757908223,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319820,
+        "num": 319820,
+        "word": "董璇听到张维伊说话的表情",
+        "onboard_time": 1757913264,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296214,
+        "num": 296214,
+        "word": "英伟达违法",
+        "onboard_time": 1757924602,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 260706,
+        "num": 260706,
+        "word": "8个月婴儿没喝茶被收茶位费",
+        "onboard_time": 1757918782,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259797,
+        "num": 259797,
+        "word": "长春两女子被戴手铐带走",
+        "onboard_time": 1757919801,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245885,
+        "num": 245885,
+        "word": "祝绪丹录浪姐团综爆哭3小时",
+        "onboard_time": 1757921063,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225424,
+        "num": 225424,
+        "word": "雷军 全面对标iPhone",
+        "onboard_time": 1757904380,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70981,
+        "num": 209544,
+        "word": "15万级电车迎来华为乾崑时代",
+        "onboard_time": 1757923582,
+        "rank": 19,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 252029,
+        "num": 206783,
+        "word": "西贝将统一采用非转基因大豆油",
+        "onboard_time": 1757917343,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203269,
+        "num": 203269,
+        "word": "小米手机 头像",
+        "onboard_time": 1757924541,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200371,
+        "num": 200371,
+        "word": "朱志鑫anti声中面不改色",
+        "onboard_time": 1757924481,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203344,
+        "num": 199226,
+        "word": "西贝全国门店陆续完成调整",
+        "onboard_time": 1757917642,
+        "rank": 23,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 197892,
+        "num": 197892,
+        "word": "日料 预制",
+        "onboard_time": 1757917403,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44113,
+        "num": 192342,
+        "word": "孙颖莎有实力自然出众",
+        "onboard_time": 1757919861,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191764,
+        "num": 191764,
+        "word": "嗨放派4阵容官宣",
+        "onboard_time": 1757924123,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189919,
+        "num": 189919,
+        "word": "15岁女孩被火车撞亡母亲发声",
+        "onboard_time": 1757923762,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189158,
+        "num": 189158,
+        "word": "成毅直播",
+        "onboard_time": 1757924962,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167461,
+        "num": 182836,
+        "word": "外交部回应已邀特朗普访华",
+        "onboard_time": 1757923582,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177301,
+        "num": 177301,
+        "word": "中方必将坚决反制",
+        "onboard_time": 1757923942,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163657,
+        "num": 163657,
+        "word": "小米17 王腾",
+        "onboard_time": 1757912124,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151595,
+        "num": 151595,
+        "word": "杨帆 众合",
+        "onboard_time": 1757922805,
+        "rank": 32,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 143061,
+        "num": 143061,
+        "word": "可以上1休29吗",
+        "onboard_time": 1757919561,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142815,
+        "num": 142815,
+        "word": "731",
+        "onboard_time": 1757903181,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141748,
+        "num": 141748,
+        "word": "小米17",
+        "onboard_time": 1757902640,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129824,
+        "num": 129824,
+        "word": "巴基斯坦总统与歼10合影",
+        "onboard_time": 1757922383,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126380,
+        "num": 126380,
+        "word": "心动的信号爆灯",
+        "onboard_time": 1757913023,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66216,
+        "num": 124351,
+        "word": "李雪琴 拢共就三个人",
+        "onboard_time": 1757924781,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27702,
+        "num": 123141,
+        "word": "张维伊董璇互相见不上",
+        "onboard_time": 1757925082,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122621,
+        "num": 122621,
+        "word": "胡锡进谈西贝道歉",
+        "onboard_time": 1757922142,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122033,
+        "num": 122033,
+        "word": "原来大家都有考研坐骑",
+        "onboard_time": 1757923522,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120134,
+        "num": 120134,
+        "word": "减肥太猛 显老",
+        "onboard_time": 1757906961,
+        "rank": 42,
+        "category": "科学科普,运动健身"
+      },
+      {
+        "raw_hot": 119320,
+        "num": 119320,
+        "word": "李昀锐地铁老人看手机古装版",
+        "onboard_time": 1757917583,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107516,
+        "num": 107516,
+        "word": "梁婷预测成毅星途",
+        "onboard_time": 1757924062,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105667,
+        "num": 105667,
+        "word": "唐嫣裙子勒得动不了",
+        "onboard_time": 1757925202,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103822,
+        "num": 103822,
+        "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+        "onboard_time": 1757925202,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102379,
+        "num": 102379,
+        "word": "一直不谈恋爱能等到更好的人吗",
+        "onboard_time": 1757916024,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21698,
+        "num": 95792,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1757910925,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95232,
+        "num": 95232,
+        "word": "苹果用自研换利润",
+        "onboard_time": 1757923762,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈网络安全#"
+    }
+  }
+}

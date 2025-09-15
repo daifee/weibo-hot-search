@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757921938809,
+  "endTime": 1757925225664,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2819,6 +2819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 945720,
+      "num": 343871,
+      "word": "KiMi已经16岁了",
+      "onboard_time": 1757920342,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 944535,
       "num": 944535,
       "word": "AirPods Pro3",
@@ -4459,6 +4467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 696012,
+      "num": 696012,
+      "word": "杨幂还是太体面了",
+      "onboard_time": 1757924123,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 695555,
       "num": 695555,
       "word": "期待下次阅兵了",
@@ -5345,14 +5361,6 @@
       "onboard_time": 1757050342,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 604216,
-      "num": 343871,
-      "word": "KiMi已经16岁了",
-      "onboard_time": 1757920342,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 603990,
@@ -8875,6 +8883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393443,
+      "num": 326747,
+      "word": "辛芷蕾神似早期的宋慧乔",
+      "onboard_time": 1757921602,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393441,
       "num": 332204,
       "word": "樊振东vs纽汀克",
@@ -9659,6 +9675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367439,
+      "num": 367439,
+      "word": "骗子送400万余额银行卡",
+      "onboard_time": 1757919141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366669,
       "num": 303814,
       "word": "Metal杂志",
@@ -10187,6 +10211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346491,
+      "num": 346491,
+      "word": "赴山海开播现状",
+      "onboard_time": 1757922862,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346246,
       "num": 219816,
       "word": "网红账号发120多条偷拍视频",
@@ -10611,6 +10643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 331252,
+      "num": 331252,
+      "word": "市场监管总局对英伟达实施进一步调查",
+      "onboard_time": 1757924602,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331224,
       "num": 331224,
       "word": "现役军人暴雨中跳河救人不幸牺牲",
@@ -10793,14 +10833,6 @@
       "onboard_time": 1757592043,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324982,
-      "num": 351454,
-      "word": "骗子送400万余额银行卡",
-      "onboard_time": 1757919141,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324977,
@@ -11633,6 +11665,14 @@
       "onboard_time": 1756696580,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296214,
+      "num": 296214,
+      "word": "英伟达违法",
+      "onboard_time": 1757924602,
+      "rank": 14,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 295921,
@@ -12907,6 +12947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260706,
+      "num": 260706,
+      "word": "8个月婴儿没喝茶被收茶位费",
+      "onboard_time": 1757918782,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260449,
       "num": 252043,
       "word": "两个枕头才是睡眠的正确打开方式",
@@ -12921,6 +12969,14 @@
       "onboard_time": 1757214561,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 259797,
+      "num": 259797,
+      "word": "长春两女子被戴手铐带走",
+      "onboard_time": 1757919801,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259425,
@@ -13145,14 +13201,6 @@
       "onboard_time": 1756879886,
       "rank": 44,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 254000,
-      "num": 254000,
-      "word": "8个月婴儿没喝茶被收茶位费",
-      "onboard_time": 1757918782,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253734,
@@ -13441,6 +13489,14 @@
       "onboard_time": 1757085682,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245885,
+      "num": 245885,
+      "word": "祝绪丹录浪姐团综爆哭3小时",
+      "onboard_time": 1757921063,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 245733,
@@ -15843,14 +15899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206717,
-      "num": 206717,
-      "word": "辛芷蕾神似早期的宋慧乔",
-      "onboard_time": 1757921602,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206710,
       "num": 206710,
       "word": "杭州高校学生开学有福了",
@@ -16137,6 +16185,14 @@
       "onboard_time": 1756863269,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203269,
+      "num": 203269,
+      "word": "小米手机 头像",
+      "onboard_time": 1757924541,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 203240,
@@ -16545,6 +16601,14 @@
       "onboard_time": 1757308765,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200371,
+      "num": 200371,
+      "word": "朱志鑫anti声中面不改色",
+      "onboard_time": 1757924481,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 200304,
@@ -17803,6 +17867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191764,
+      "num": 191764,
+      "word": "嗨放派4阵容官宣",
+      "onboard_time": 1757924123,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191725,
       "num": 191725,
       "word": "考拉基因真争气啊",
@@ -18065,6 +18137,14 @@
       "onboard_time": 1757853625,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189919,
+      "num": 189919,
+      "word": "15岁女孩被火车撞亡母亲发声",
+      "onboard_time": 1757923762,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189906,
@@ -18473,14 +18553,6 @@
       "onboard_time": 1757493442,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187360,
-      "num": 187360,
-      "word": "长春两女子被戴手铐带走",
-      "onboard_time": 1757919801,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187300,
@@ -19673,6 +19745,14 @@
       "onboard_time": 1757058802,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177301,
+      "num": 177301,
+      "word": "中方必将坚决反制",
+      "onboard_time": 1757923942,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177154,
@@ -21091,6 +21171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167461,
+      "num": 182836,
+      "word": "外交部回应已邀特朗普访华",
+      "onboard_time": 1757923582,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167421,
       "num": 167421,
       "word": "痛经趴床上鹦鹉抛下同类来扶我",
@@ -21937,14 +22025,6 @@
       "onboard_time": 1757420902,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162390,
-      "num": 162390,
-      "word": "祝绪丹录浪姐团综爆哭3小时",
-      "onboard_time": 1757921063,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 162322,
@@ -23785,6 +23865,14 @@
       "onboard_time": 1757506943,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151595,
+      "num": 151595,
+      "word": "杨帆 众合",
+      "onboard_time": 1757922805,
+      "rank": 32,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 151576,
@@ -25683,20 +25771,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143061,
+      "num": 143061,
+      "word": "可以上1休29吗",
+      "onboard_time": 1757919561,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143017,
       "num": 143017,
       "word": "小酒窝C位领舞天生主角",
       "onboard_time": 1757064501,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143001,
-      "num": 143001,
-      "word": "可以上1休29吗",
-      "onboard_time": 1757919561,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 142969,
@@ -28827,6 +28915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 129824,
+      "num": 129824,
+      "word": "巴基斯坦总统与歼10合影",
+      "onboard_time": 1757922383,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129800,
       "num": 129800,
       "word": "马思纯钱都花了来都来了",
@@ -30635,6 +30731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122621,
+      "num": 122621,
+      "word": "胡锡进谈西贝道歉",
+      "onboard_time": 1757922142,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122619,
       "num": 122619,
       "word": "张靓颖演唱会",
@@ -30817,6 +30921,14 @@
       "onboard_time": 1757734643,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122033,
+      "num": 122033,
+      "word": "原来大家都有考研坐骑",
+      "onboard_time": 1757923522,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 121991,
@@ -34547,6 +34659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107516,
+      "num": 107516,
+      "word": "梁婷预测成毅星途",
+      "onboard_time": 1757924062,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107473,
       "num": 107473,
       "word": "把电脑放在中国商场30分钟",
@@ -35035,6 +35155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105667,
+      "num": 105667,
+      "word": "唐嫣裙子勒得动不了",
+      "onboard_time": 1757925202,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105634,
       "num": 105634,
       "word": "李艺彤急得飙方言了",
@@ -35449,6 +35577,14 @@
       "onboard_time": 1757601456,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103822,
+      "num": 103822,
+      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+      "onboard_time": 1757925202,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 103768,
@@ -37537,6 +37673,14 @@
       "onboard_time": 1757416943,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95232,
+      "num": 95232,
+      "word": "苹果用自研换利润",
+      "onboard_time": 1757923762,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 95221,
@@ -41371,6 +41515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70981,
+      "num": 209544,
+      "word": "15万级电车迎来华为乾崑时代",
+      "onboard_time": 1757923582,
+      "rank": 19,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 70892,
       "num": 399930,
       "word": "8月每不到1分钟就有辆零跑被开走",
@@ -41833,6 +41985,14 @@
       "onboard_time": 1756769779,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 66216,
+      "num": 124351,
+      "word": "李雪琴 拢共就三个人",
+      "onboard_time": 1757924781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 66151,
@@ -45817,6 +45977,14 @@
       "onboard_time": 1757757983,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27702,
+      "num": 123141,
+      "word": "张维伊董璇互相见不上",
+      "onboard_time": 1757925082,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 27640,

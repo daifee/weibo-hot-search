@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 15:38:58
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/15 16:33:45
 </p>
 </blockquote>
 <p>
@@ -2127,6 +2127,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23KiMi%E5%B7%B2%E7%BB%8F16%E5%B2%81%E4%BA%86%23" target="weibo">
+KiMi已经16岁了（热度：945720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%23" target="weibo">
 AirPods Pro3（热度：944535）
 </a>
@@ -3357,6 +3363,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%93%E9%9D%A2%E4%BA%86%23" target="weibo">
+杨幂还是太体面了（热度：696012）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9F%E5%BE%85%E4%B8%8B%E6%AC%A1%E9%98%85%E5%85%B5%E4%BA%86%23" target="weibo">
 期待下次阅兵了（热度：695555）
 </a>
@@ -4019,12 +4031,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A8%E5%B9%82%E5%80%AA%E5%A6%AE%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%87%91%E4%B9%9D%E5%B0%81%E9%9D%A2%23" target="weibo">
 刘亦菲杨幂倪妮迪丽热巴金九封面（热度：604278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23KiMi%E5%B7%B2%E7%BB%8F16%E5%B2%81%E4%BA%86%23" target="weibo">
-KiMi已经16岁了（热度：604216）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LABUBU价崩黄牛压货倒赔（热度：436558）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%90%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E9%95%BF%E6%9C%9F%E5%AF%B9%E5%8D%8E%E6%B8%97%E9%80%8F%23" target="weibo">
 某境外组织长期对华渗透（热度：436407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14%E6%9C%BA%E4%B8%BB%E6%98%AF%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%B2%9B%E4%B8%BB%23" target="weibo">
-iPhone14机主是灵动岛岛主（热度：435707）
 </a>
 </li>
 

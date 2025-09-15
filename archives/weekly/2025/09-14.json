@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757921938809,
+  "endTime": 1757925225664,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 945720,
+      "num": 343871,
+      "word": "KiMi已经16岁了",
+      "onboard_time": 1757920342,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 930525,
       "num": 273370,
       "word": "西贝",
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 696012,
+      "num": 696012,
+      "word": "杨幂还是太体面了",
+      "onboard_time": 1757924123,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 677844,
       "num": 677844,
       "word": "小米17",
@@ -608,14 +624,6 @@
       "word": "宋妍霏回应提了24次裙子",
       "onboard_time": 1757897842,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 604216,
-      "num": 343871,
-      "word": "KiMi已经16岁了",
-      "onboard_time": 1757920342,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1075,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 393443,
+      "num": 326747,
+      "word": "辛芷蕾神似早期的宋慧乔",
+      "onboard_time": 1757921602,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393441,
       "num": 332204,
       "word": "樊振东vs纽汀克",
@@ -1179,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367439,
+      "num": 367439,
+      "word": "骗子送400万余额银行卡",
+      "onboard_time": 1757919141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363637,
       "num": 363637,
       "word": "孙颖莎学陈幸同请客",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1757903482,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346491,
+      "num": 346491,
+      "word": "赴山海开播现状",
+      "onboard_time": 1757922862,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 345075,
@@ -1291,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331252,
+      "num": 331252,
+      "word": "市场监管总局对英伟达实施进一步调查",
+      "onboard_time": 1757924602,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329168,
       "num": 329168,
       "word": "租房新规今起实施",
@@ -1305,14 +1345,6 @@
       "onboard_time": 1757828363,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324982,
-      "num": 351454,
-      "word": "骗子送400万余额银行卡",
-      "onboard_time": 1757919141,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 323171,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1757857526,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296214,
+      "num": 296214,
+      "word": "英伟达违法",
+      "onboard_time": 1757924602,
+      "rank": 14,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 294701,
@@ -1571,12 +1611,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 260706,
+      "num": 260706,
+      "word": "8个月婴儿没喝茶被收茶位费",
+      "onboard_time": 1757918782,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260449,
       "num": 252043,
       "word": "两个枕头才是睡眠的正确打开方式",
       "onboard_time": 1757854825,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259797,
+      "num": 259797,
+      "word": "长春两女子被戴手铐带走",
+      "onboard_time": 1757919801,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259195,
@@ -1624,14 +1680,6 @@
       "word": "西贝员工称羊肉一年集采一次",
       "onboard_time": 1757850745,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254000,
-      "num": 254000,
-      "word": "8个月婴儿没喝茶被收茶位费",
-      "onboard_time": 1757918782,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1697,6 +1745,14 @@
       "onboard_time": 1757917583,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245885,
+      "num": 245885,
+      "word": "祝绪丹录浪姐团综爆哭3小时",
+      "onboard_time": 1757921063,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 245733,
@@ -2043,14 +2099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206717,
-      "num": 206717,
-      "word": "辛芷蕾神似早期的宋慧乔",
-      "onboard_time": 1757921602,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206060,
       "num": 206060,
       "word": "成毅10秒处这个连续翻转",
@@ -2065,6 +2113,14 @@
       "onboard_time": 1757895502,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203269,
+      "num": 203269,
+      "word": "小米手机 头像",
+      "onboard_time": 1757924541,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 202316,
@@ -2089,6 +2145,14 @@
       "onboard_time": 1757860226,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200371,
+      "num": 200371,
+      "word": "朱志鑫anti声中面不改色",
+      "onboard_time": 1757924481,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 200057,
@@ -2315,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191764,
+      "num": 191764,
+      "word": "嗨放派4阵容官宣",
+      "onboard_time": 1757924123,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191596,
       "num": 191596,
       "word": "TI2026落地中国",
@@ -2331,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189919,
+      "num": 189919,
+      "word": "15岁女孩被火车撞亡母亲发声",
+      "onboard_time": 1757923762,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189365,
       "num": 189365,
       "word": "55岁阿姨健身20年的真实状态",
@@ -2345,6 +2425,14 @@
       "onboard_time": 1757917403,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189158,
+      "num": 189158,
+      "word": "成毅直播",
+      "onboard_time": 1757924962,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189128,
@@ -2376,14 +2464,6 @@
       "word": "太二酸菜鱼 预制菜",
       "onboard_time": 1757912724,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187360,
-      "num": 187360,
-      "word": "长春两女子被戴手铐带走",
-      "onboard_time": 1757919801,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2537,6 +2617,14 @@
       "onboard_time": 1757808920,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177301,
+      "num": 177301,
+      "word": "中方必将坚决反制",
+      "onboard_time": 1757923942,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177117,
@@ -2715,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167461,
+      "num": 182836,
+      "word": "外交部回应已邀特朗普访华",
+      "onboard_time": 1757923582,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166249,
       "num": 166249,
       "word": "女子表演与蟒蛇亲嘴被咬血流不止",
@@ -2809,14 +2905,6 @@
       "onboard_time": 1757919922,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162390,
-      "num": 162390,
-      "word": "祝绪丹录浪姐团综爆哭3小时",
-      "onboard_time": 1757921063,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 161929,
@@ -3059,6 +3147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151595,
+      "num": 151595,
+      "word": "杨帆 众合",
+      "onboard_time": 1757922805,
+      "rank": 32,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "李一桐檀健次给好六后期上难度",
@@ -3251,8 +3347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143001,
-      "num": 143001,
+      "raw_hot": 143061,
+      "num": 143061,
       "word": "可以上1休29吗",
       "onboard_time": 1757919561,
       "rank": 32,
@@ -3619,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129824,
+      "num": 129824,
+      "word": "巴基斯坦总统与歼10合影",
+      "onboard_time": 1757922383,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129004,
       "num": 129004,
       "word": "西贝向顾客致歉",
@@ -3787,6 +3891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122621,
+      "num": 122621,
+      "word": "胡锡进谈西贝道歉",
+      "onboard_time": 1757922142,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122182,
       "num": 122182,
       "word": "AirPodsPro3上手",
@@ -3801,6 +3913,14 @@
       "onboard_time": 1757918421,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122033,
+      "num": 122033,
+      "word": "原来大家都有考研坐骑",
+      "onboard_time": 1757923522,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 121685,
@@ -4155,6 +4275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107516,
+      "num": 107516,
+      "word": "梁婷预测成毅星途",
+      "onboard_time": 1757924062,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106819,
       "num": 120550,
       "word": "那英没有版权就让龚俊唱",
@@ -4219,6 +4347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105667,
+      "num": 105667,
+      "word": "唐嫣裙子勒得动不了",
+      "onboard_time": 1757925202,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105338,
       "num": 110937,
       "word": "孙颖莎回应进澳门赛决赛",
@@ -4233,6 +4369,14 @@
       "onboard_time": 1757810420,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103822,
+      "num": 103822,
+      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+      "onboard_time": 1757925202,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 103344,
@@ -4497,6 +4641,14 @@
       "onboard_time": 1757827582,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95232,
+      "num": 95232,
+      "word": "苹果用自研换利润",
+      "onboard_time": 1757923762,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 94844,
@@ -4915,6 +5067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70981,
+      "num": 209544,
+      "word": "15万级电车迎来华为乾崑时代",
+      "onboard_time": 1757923582,
+      "rank": 19,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 70819,
       "num": 126254,
       "word": "世界乒联晒王楚钦世1海报",
@@ -4937,6 +5097,14 @@
       "onboard_time": 1757901742,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66216,
+      "num": 124351,
+      "word": "李雪琴 拢共就三个人",
+      "onboard_time": 1757924781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 64165,
@@ -5417,6 +5585,14 @@
       "onboard_time": 1757873656,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27702,
+      "num": 123141,
+      "word": "张维伊董璇互相见不上",
+      "onboard_time": 1757925082,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 27640,
