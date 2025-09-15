@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757943146265,
+  "endTime": 1757943748478,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -89,6 +89,14 @@
       "onboard_time": 1757844862,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1716884,
+      "num": 1716884,
+      "word": "赴山海 剧本穿帮",
+      "onboard_time": 1757941463,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 1595363,
@@ -267,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1090034,
+      "num": 510283,
+      "word": "被擦妆5次艺考生开学了",
+      "onboard_time": 1757938162,
+      "rank": 5,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 1071091,
       "num": 1071091,
       "word": "国庆中秋调休时间安排",
@@ -289,22 +305,6 @@
       "onboard_time": 1757904380,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1031925,
-      "num": 1165108,
-      "word": "赴山海 剧本穿帮",
-      "onboard_time": 1757941463,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1021721,
-      "num": 510283,
-      "word": "被擦妆5次艺考生开学了",
-      "onboard_time": 1757938162,
-      "rank": 5,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 1001976,
@@ -761,6 +761,14 @@
       "onboard_time": 1757917162,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558165,
+      "num": 558165,
+      "word": "男子吃馒头噎死经调解获赔2.8万",
+      "onboard_time": 1757937743,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 555829,
@@ -1427,14 +1435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 352900,
-      "num": 352900,
-      "word": "男子吃馒头噎死经调解获赔2.8万",
-      "onboard_time": 1757937743,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 349842,
       "num": 298430,
       "word": "喜欢吃大闸蟹嘴真严啊",
@@ -1572,7 +1572,7 @@
     },
     {
       "raw_hot": 317957,
-      "num": 195072,
+      "num": 213537,
       "word": "张凌赫又开始帮粉丝选发色了",
       "onboard_time": 1757937142,
       "rank": 23,
@@ -1707,12 +1707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280497,
+      "num": 189978,
+      "word": "原来李佳航让李晟尴尬的求婚长这样",
+      "onboard_time": 1757941823,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279736,
       "num": 220996,
       "word": "何秋亊 人民非遗推荐人",
       "onboard_time": 1757762362,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279394,
+      "num": 279394,
+      "word": "湾区升明月晚会又来啦",
+      "onboard_time": 1757940262,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 278936,
@@ -1883,14 +1899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 252445,
-      "num": 183581,
-      "word": "原来李佳航让李晟尴尬的求婚长这样",
-      "onboard_time": 1757941823,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251126,
       "num": 209575,
       "word": "王楚钦男单争冠",
@@ -1953,6 +1961,14 @@
       "onboard_time": 1757929102,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245893,
+      "num": 245893,
+      "word": "TES对战BLG",
+      "onboard_time": 1757930541,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 245885,
@@ -2025,6 +2041,14 @@
       "onboard_time": 1757859386,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236412,
+      "num": 236412,
+      "word": "北京市监局已关注到西贝预制菜争议",
+      "onboard_time": 1757942124,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236287,
@@ -2635,14 +2659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192674,
-      "num": 192674,
-      "word": "湾区升明月晚会又来啦",
-      "onboard_time": 1757940262,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "WTT澳门冠军赛2025",
@@ -3203,6 +3219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162859,
+      "num": 191918,
+      "word": "梁婷说签约演员里唯一赚钱的是尹正",
+      "onboard_time": 1757938583,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162664,
       "num": 152992,
       "word": "刘亦菲真正的亲妈视角",
@@ -3428,7 +3452,7 @@
     },
     {
       "raw_hot": 156435,
-      "num": 407429,
+      "num": 545895,
       "word": "一系列重要成果亮相2025年国家网络安全宣传周",
       "onboard_time": 1757930482,
       "rank": 24,
@@ -3449,14 +3473,6 @@
       "onboard_time": 1757907622,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155086,
-      "num": 196642,
-      "word": "北京市监局已关注到西贝预制菜争议",
-      "onboard_time": 1757942124,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154721,
@@ -3611,6 +3627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 148416,
+      "num": 193086,
+      "word": "曾沛慈终于从女配转到女主赛道",
+      "onboard_time": 1757942484,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148410,
       "num": 200141,
       "word": "王楚钦给了自己脸一下",
@@ -3625,14 +3649,6 @@
       "onboard_time": 1757928861,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148367,
-      "num": 148367,
-      "word": "梁婷说签约演员里唯一赚钱的是尹正",
-      "onboard_time": 1757938583,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 148246,
@@ -3875,6 +3891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141084,
+      "num": 141084,
+      "word": "别克至境L7首秀",
+      "onboard_time": 1757943444,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 141059,
       "num": 141059,
       "word": "难怪大家都要养两只猫",
@@ -3969,14 +3993,6 @@
       "onboard_time": 1757931922,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138728,
-      "num": 138728,
-      "word": "TES对战BLG",
-      "onboard_time": 1757930541,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 138465,
@@ -4443,14 +4459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122019,
-      "num": 122019,
-      "word": "曾沛慈终于从女配转到女主赛道",
-      "onboard_time": 1757942484,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121685,
       "num": 407991,
       "word": "央视揭秘假沉香",
@@ -4756,7 +4764,7 @@
     },
     {
       "raw_hot": 110825,
-      "num": 110825,
+      "num": 140425,
       "word": "杨帆加入众合",
       "onboard_time": 1757938583,
       "rank": 36,
@@ -4996,7 +5004,7 @@
     },
     {
       "raw_hot": 105187,
-      "num": 105187,
+      "num": 140438,
       "word": "用一次性手套洗头会让头发更蓬松",
       "onboard_time": 1757939845,
       "rank": 37,
@@ -5161,6 +5169,14 @@
       "onboard_time": 1757760804,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100311,
+      "num": 140751,
+      "word": "刘宇宁直播总是越坐越靠边",
+      "onboard_time": 1757940503,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 100066,
@@ -5372,7 +5388,7 @@
     },
     {
       "raw_hot": 94374,
-      "num": 94374,
+      "num": 140633,
       "word": "最新版iPhone全部配件分享",
       "onboard_time": 1757940145,
       "rank": 40,
@@ -5547,14 +5563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85676,
-      "num": 85676,
-      "word": "刘宇宁直播总是越坐越靠边",
-      "onboard_time": 1757940503,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85477,
       "num": 87400,
       "word": "央视起底所谓零添加酱油真相",
@@ -5641,6 +5649,14 @@
       "onboard_time": 1757831183,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80048,
+      "num": 140362,
+      "word": "网红称内蒙羊肉冷冻卖一年",
+      "onboard_time": 1757941102,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79923,
@@ -5836,11 +5852,19 @@
     },
     {
       "raw_hot": 73263,
-      "num": 73263,
+      "num": 140154,
       "word": "男子购入王楚钦同款装备观赛支持",
       "onboard_time": 1757943025,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73234,
+      "num": 191148,
+      "word": "市监局回应西贝预制菜争议",
+      "onboard_time": 1757942363,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73125,
@@ -5931,14 +5955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70667,
-      "num": 70667,
-      "word": "市监局回应西贝预制菜争议",
-      "onboard_time": 1757942363,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70412,
       "num": 70412,
       "word": "XG教练称又搞砸了",
@@ -5960,14 +5976,6 @@
       "word": "88折叫优惠72折叫狠活儿",
       "onboard_time": 1757934263,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67021,
-      "num": 85688,
-      "word": "网红称内蒙羊肉冷冻卖一年",
-      "onboard_time": 1757941102,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -6188,7 +6196,7 @@
     },
     {
       "raw_hot": 54419,
-      "num": 184207,
+      "num": 193652,
       "word": "别克至境L7凭什么跻身头部新能源",
       "onboard_time": 1757941524,
       "rank": 18,
@@ -6209,6 +6217,14 @@
       "onboard_time": 1757906062,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52718,
+      "num": 193820,
+      "word": "比亚迪技术全家桶26款海豹07DMi",
+      "onboard_time": 1757943084,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 51673,
@@ -6363,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43106,
+      "num": 194460,
+      "word": "福满榕城一起出发",
+      "onboard_time": 1757941524,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 42691,
       "num": 42691,
       "word": "普通人对Agent的使用率几乎为0",
@@ -6475,14 +6499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33288,
-      "num": 184342,
-      "word": "福满榕城一起出发",
-      "onboard_time": 1757941524,
-      "rank": 17,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 32953,
       "num": 575263,
       "word": "高质量发展中国行焕新江西",
@@ -6513,6 +6529,14 @@
       "onboard_time": 1757787676,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30657,
+      "num": 140677,
+      "word": "美国小伙破坏柯克纪念设施",
+      "onboard_time": 1757942724,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 30399,
@@ -6577,14 +6601,6 @@
       "onboard_time": 1757788636,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27412,
-      "num": 84176,
-      "word": "美国小伙破坏柯克纪念设施",
-      "onboard_time": 1757942724,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 25463,
@@ -6857,14 +6873,6 @@
       "onboard_time": 1757910442,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6875,
-      "num": 78174,
-      "word": "比亚迪技术全家桶26款海豹07DMi",
-      "onboard_time": 1757943084,
-      "rank": 43,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
