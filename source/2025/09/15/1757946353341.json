@@ -1,0 +1,410 @@
+{
+  "runTime": 1757946353341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2409286,
+        "num": 2409286,
+        "word": "赴山海 剧本穿帮",
+        "onboard_time": 1757941463,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596873,
+        "num": 596873,
+        "word": "男子吃馒头噎死经调解获赔2.8万",
+        "onboard_time": 1757937743,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23179,
+        "num": 488391,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457677,
+        "num": 457677,
+        "word": "瑞达",
+        "onboard_time": 1757944406,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 393229,
+        "num": 393229,
+        "word": "小米16改名小米17",
+        "onboard_time": 1757902522,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1166086,
+        "num": 371546,
+        "word": "被擦妆5次艺考生开学了",
+        "onboard_time": 1757938162,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 394075,
+        "num": 357245,
+        "word": "湾区升明月晚会又来啦",
+        "onboard_time": 1757940262,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331023,
+        "num": 331023,
+        "word": "深圳市民捡到2267.83克巨型金条",
+        "onboard_time": 1757931441,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315258,
+        "num": 315258,
+        "word": "BLG战胜TES",
+        "onboard_time": 1757944284,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132221,
+        "num": 309686,
+        "word": "现在的军训还是太超前了",
+        "onboard_time": 1757945546,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651254,
+        "num": 309643,
+        "word": "女子散步时踩到氢氟酸后去世",
+        "onboard_time": 1757933182,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337338,
+        "num": 309494,
+        "word": "肖战和谁搭档会让你眼前一亮",
+        "onboard_time": 1757938522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308760,
+        "num": 308760,
+        "word": "Bin 世界赛我们来了",
+        "onboard_time": 1757944284,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307123,
+        "num": 307123,
+        "word": "父母情绪不稳定孩子切忌自责",
+        "onboard_time": 1757943865,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289122,
+        "num": 289122,
+        "word": "张凌赫又开始帮粉丝选发色了",
+        "onboard_time": 1757937142,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284079,
+        "num": 284079,
+        "word": "梁婷说签约演员里唯一赚钱的是尹正",
+        "onboard_time": 1757938583,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262230,
+        "num": 262230,
+        "word": "赵本山不让女儿签婚前协议",
+        "onboard_time": 1757936962,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206824,
+        "num": 206824,
+        "word": "家长质疑收费被班主任群内恐吓",
+        "onboard_time": 1757944225,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68585,
+        "num": 205737,
+        "word": "比亚迪技术全家桶26款海豹07DMi",
+        "onboard_time": 1757943084,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37987,
+        "num": 204171,
+        "word": "别克至境L7技术发布会",
+        "onboard_time": 1757945244,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 426118,
+        "num": 203400,
+        "word": "杨幂还是太体面了",
+        "onboard_time": 1757924123,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372864,
+        "num": 201899,
+        "word": "辛芷蕾梁婷和解",
+        "onboard_time": 1757915663,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259713,
+        "num": 200673,
+        "word": "原来李佳航让李晟尴尬的求婚长这样",
+        "onboard_time": 1757941823,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199366,
+        "num": 199366,
+        "word": "KiMi已经16岁了",
+        "onboard_time": 1757920342,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229972,
+        "num": 198441,
+        "word": "辛芷蕾成毅尹正艺名都是梁婷起的",
+        "onboard_time": 1757937563,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228313,
+        "num": 197897,
+        "word": "瑞达法考",
+        "onboard_time": 1757946084,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195948,
+        "num": 195948,
+        "word": "TES对战BLG",
+        "onboard_time": 1757930541,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185997,
+        "num": 185997,
+        "word": "运动瘦vs饿瘦",
+        "onboard_time": 1757933122,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181921,
+        "num": 181921,
+        "word": "太二酸菜鱼为何没人吃了",
+        "onboard_time": 1757904502,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176098,
+        "num": 176098,
+        "word": "女孩子黄体破裂后到底有多严重",
+        "onboard_time": 1757945064,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172323,
+        "num": 172323,
+        "word": "杨帆 众合",
+        "onboard_time": 1757922805,
+        "rank": 30,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 171547,
+        "num": 171547,
+        "word": "2025LPL季后赛",
+        "onboard_time": 1757945724,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160286,
+        "num": 160286,
+        "word": "BLG锁定S15名额",
+        "onboard_time": 1757945724,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153212,
+        "num": 153212,
+        "word": "成毅又在爱奇艺剧宣上闯祸了",
+        "onboard_time": 1757931023,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148723,
+        "num": 148723,
+        "word": "杜普兰蒂斯第14次打破世界纪录",
+        "onboard_time": 1757945366,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121768,
+        "num": 148707,
+        "word": "邓为站姐神图这一块",
+        "onboard_time": 1757945604,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123306,
+        "num": 148700,
+        "word": "唐嫣裙子勒得动不了",
+        "onboard_time": 1757925202,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117582,
+        "num": 148659,
+        "word": "曾沛慈终于从女配转到女主赛道",
+        "onboard_time": 1757942484,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116673,
+        "num": 148634,
+        "word": "39岁一千度近视加175度散光",
+        "onboard_time": 1757932883,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30212,
+        "num": 148609,
+        "word": "李斯丹妮山系穿搭天花板",
+        "onboard_time": 1757946205,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113964,
+        "num": 148606,
+        "word": "用一次性手套洗头会让头发更蓬松",
+        "onboard_time": 1757939845,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112546,
+        "num": 148573,
+        "word": "妻子出轨主播9个月打赏1.8万次",
+        "onboard_time": 1757930364,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109029,
+        "num": 148546,
+        "word": "杨帆加入众合",
+        "onboard_time": 1757938583,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105884,
+        "num": 148530,
+        "word": "网红称内蒙羊肉冷冻卖一年",
+        "onboard_time": 1757941102,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98559,
+        "num": 148500,
+        "word": "毛利兰ONLY排到2029年",
+        "onboard_time": 1757944044,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 97642,
+        "num": 148476,
+        "word": "刘亦菲真正的亲妈视角",
+        "onboard_time": 1757932883,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30206,
+        "num": 148463,
+        "word": "福满榕城一起出发",
+        "onboard_time": 1757941524,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 91674,
+        "num": 148425,
+        "word": "369状态",
+        "onboard_time": 1757945604,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89734,
+        "num": 148399,
+        "word": "警方回应两女子被戴手铐带走引围观",
+        "onboard_time": 1757935764,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88348,
+        "num": 148396,
+        "word": "英伟达违法",
+        "onboard_time": 1757924602,
+        "rank": 49,
+        "category": "民生新闻,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}
