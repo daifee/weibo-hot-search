@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757911434244,
+  "endTime": 1757913932750,
   "band_list": [
     {
       "raw_hot": 3969260,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1727325,
-      "num": 1727325,
+      "raw_hot": 1748229,
+      "num": 1748229,
       "word": "miumiu签了三个00花",
       "onboard_time": 1757908223,
       "rank": 34,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 776024,
+      "num": 776024,
+      "word": "小米17 王腾",
+      "onboard_time": 1757912124,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 750481,
       "num": 278250,
       "word": "贾国龙称西贝今后将打明牌",
@@ -145,6 +153,14 @@
       "onboard_time": 1757902640,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 632325,
+      "num": 397490,
+      "word": "炎亚纶不像演的",
+      "onboard_time": 1757910143,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 606589,
@@ -203,6 +219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 463152,
+      "num": 463152,
+      "word": "他的一天是连小说都不敢写的程度",
+      "onboard_time": 1757908103,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447283,
       "num": 447283,
       "word": "骗子混入工作群冒充董事长骗走60万",
@@ -233,6 +257,14 @@
       "onboard_time": 1757854705,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 427488,
+      "num": 427488,
+      "word": "赴山海新款内娱长剧错题本",
+      "onboard_time": 1757910384,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 417629,
@@ -273,14 +305,6 @@
       "onboard_time": 1757907862,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370227,
-      "num": 370227,
-      "word": "炎亚纶不像演的",
-      "onboard_time": 1757910143,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 367202,
@@ -339,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334943,
+      "num": 334943,
+      "word": "董璇听到张维伊说话的表情",
+      "onboard_time": 1757913264,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329168,
       "num": 329168,
       "word": "租房新规今起实施",
@@ -371,28 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296234,
-      "num": 296234,
-      "word": "他的一天是连小说都不敢写的程度",
-      "onboard_time": 1757908103,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293660,
       "num": 293660,
       "word": "男子19岁继承百万遗产却日渐崩溃",
       "onboard_time": 1757910086,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 289931,
-      "num": 277871,
-      "word": "赴山海新款内娱长剧错题本",
-      "onboard_time": 1757910384,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 283081,
@@ -419,12 +435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279694,
+      "num": 279694,
+      "word": "心动的信号爆灯",
+      "onboard_time": 1757913023,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276742,
       "num": 276742,
       "word": "月经的本质是流血不是排毒",
       "onboard_time": 1757839162,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 271205,
+      "num": 271205,
+      "word": "国庆中秋假期车票开售",
+      "onboard_time": 1757911704,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269949,
@@ -523,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220471,
+      "num": 220471,
+      "word": "迪亚兹晒与孙颖莎合影",
+      "onboard_time": 1757913505,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218986,
       "num": 218986,
       "word": "2岁女童失踪超10天母亲发声",
@@ -545,6 +585,14 @@
       "onboard_time": 1757860046,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 215533,
+      "num": 215533,
+      "word": "男子婚内为要男孩和他人做试管",
+      "onboard_time": 1757911467,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215347,
@@ -635,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193724,
+      "num": 193724,
+      "word": "沈佳润甜系学妹妆",
+      "onboard_time": 1757912724,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192819,
       "num": 192819,
       "word": "祝绪丹回应直播哽咽",
@@ -667,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187542,
+      "num": 187542,
+      "word": "太二酸菜鱼 预制菜",
+      "onboard_time": 1757912724,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184990,
       "num": 184990,
       "word": "游泳是一场直面恐惧的修行",
@@ -675,12 +739,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184656,
+      "num": 184656,
+      "word": "辛芷蕾长文感谢梁婷",
+      "onboard_time": 1757913683,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183156,
       "num": 183156,
       "word": "纽约坐地铁偶遇黄多多",
       "onboard_time": 1757910203,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182850,
+      "num": 363206,
+      "word": "国庆中秋双节放假8天",
+      "onboard_time": 1757911105,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180946,
+      "num": 180946,
+      "word": "邪修月饼只需一秒就够了",
+      "onboard_time": 1757912783,
+      "rank": 30,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 177117,
@@ -745,6 +833,14 @@
       "onboard_time": 1757910985,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167968,
+      "num": 167968,
+      "word": "无意识变胖的行为",
+      "onboard_time": 1757912424,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 167655,
@@ -843,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154529,
+      "num": 172110,
+      "word": "小米17pro系列或将涨价",
+      "onboard_time": 1757912542,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154247,
       "num": 154247,
       "word": "男子持铁锤砸路人致1死6伤",
@@ -851,12 +955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152822,
+      "num": 152822,
+      "word": "孙颖莎首位澳门赛三冠王",
+      "onboard_time": 1757913323,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152455,
       "num": 152455,
       "word": "支付宝客服回应账号解除授权",
       "onboard_time": 1757904143,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149417,
+      "num": 172510,
+      "word": "张晚意的刘海好像手机屏幕",
+      "onboard_time": 1757911343,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 148753,
@@ -873,14 +993,6 @@
       "onboard_time": 1757898503,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147865,
-      "num": 363206,
-      "word": "国庆中秋双节放假8天",
-      "onboard_time": 1757911105,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145579,
@@ -931,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138525,
+      "num": 138525,
+      "word": "多方回应教资考生手机被雨泡坏",
+      "onboard_time": 1757913563,
+      "rank": 43,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 137064,
       "num": 146577,
       "word": "芯片板块再走强",
@@ -947,6 +1067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 134186,
+      "num": 134186,
+      "word": "辛芷蕾开屏",
+      "onboard_time": 1757913802,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133359,
       "num": 133359,
       "word": "存款会以别的形式消失的",
@@ -961,6 +1089,14 @@
       "onboard_time": 1757907803,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128955,
+      "num": 128955,
+      "word": "2025KPL年总赛程赛制公布",
+      "onboard_time": 1757913862,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 128877,
@@ -1033,6 +1169,14 @@
       "onboard_time": 1757902460,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119041,
+      "num": 144690,
+      "word": "柯克账号直播自己葬礼",
+      "onboard_time": 1757912783,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117988,
@@ -1147,14 +1291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100322,
-      "num": 172510,
-      "word": "张晚意的刘海好像手机屏幕",
-      "onboard_time": 1757911343,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99687,
       "num": 131628,
       "word": "王楚钦孙颖莎使出吃奶的劲儿按手印",
@@ -1235,6 +1371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88933,
+      "num": 233883,
+      "word": "这届年轻人开始继承老爸的老车了",
+      "onboard_time": 1757911105,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87265,
       "num": 97488,
       "word": "容祖儿说蔡徐坤很正",
@@ -1243,20 +1387,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85929,
+      "num": 144757,
+      "word": "一教资考点多名考生物品被雨泡损坏",
+      "onboard_time": 1757913862,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85342,
       "num": 103818,
       "word": "王楚钦战胜雨果夺冠",
       "onboard_time": 1757853984,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82495,
-      "num": 189245,
-      "word": "这届年轻人开始继承老爸的老车了",
-      "onboard_time": 1757911105,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 80692,
@@ -1544,6 +1688,14 @@
       "word": "丰收的田野是最美的画卷",
       "onboard_time": 1757858306,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34759,
+      "num": 144657,
+      "word": "3名间谍冒充外卖员钓鱼佬",
+      "onboard_time": 1757913802,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
