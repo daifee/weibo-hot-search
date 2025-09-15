@@ -1,7 +1,23 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757902712477,
+  "endTime": 1757906003928,
   "band_list": [
+    {
+      "raw_hot": 3822880,
+      "num": 3822880,
+      "word": "小米16改名小米17",
+      "onboard_time": 1757902522,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 2677768,
+      "num": 460189,
+      "word": "罗永浩希望与贾国龙当面对话",
+      "onboard_time": 1757902701,
+      "rank": 10,
+      "category": "民生新闻,互联网"
+    },
     {
       "raw_hot": 1595363,
       "num": 1595363,
@@ -9,6 +25,22 @@
       "onboard_time": 1757891539,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1113850,
+      "num": 1113850,
+      "word": "太二酸菜鱼为何没人吃了",
+      "onboard_time": 1757904502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1037710,
+      "num": 1037710,
+      "word": "雷军 全面对标iPhone",
+      "onboard_time": 1757904380,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 969834,
@@ -51,8 +83,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705927,
+      "num": 705927,
+      "word": "贾玲开屏",
+      "onboard_time": 1757901982,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 677844,
+      "num": 677844,
+      "word": "小米17",
+      "onboard_time": 1757902640,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 606589,
-      "num": 198216,
+      "num": 368957,
       "word": "宋妍霏回应提了24次裙子",
       "onboard_time": 1757897842,
       "rank": 10,
@@ -100,7 +148,7 @@
     },
     {
       "raw_hot": 443428,
-      "num": 166232,
+      "num": 205514,
       "word": "你以为在备孕实际是避孕的行为",
       "onboard_time": 1757901201,
       "rank": 21,
@@ -171,12 +219,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 348079,
+      "num": 348079,
+      "word": "叶舒华低马尾",
+      "onboard_time": 1757903482,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345075,
       "num": 194019,
       "word": "wwd发了迪丽热巴刘雨昕",
       "onboard_time": 1757895861,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329168,
+      "num": 329168,
+      "word": "租房新规今起实施",
+      "onboard_time": 1757893642,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328525,
@@ -192,22 +256,6 @@
       "word": "警方回应女子坐评委身上做不雅动作",
       "onboard_time": 1757845282,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294501,
-      "num": 177666,
-      "word": "贾玲开屏",
-      "onboard_time": 1757901982,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 284747,
-      "num": 284747,
-      "word": "租房新规今起实施",
-      "onboard_time": 1757893642,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -251,12 +299,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259217,
+      "num": 597341,
+      "word": "731",
+      "onboard_time": 1757903181,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 256184,
+      "num": 256184,
+      "word": "731预告",
+      "onboard_time": 1757902822,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247507,
       "num": 247507,
       "word": "蔡徐坤音乐节",
       "onboard_time": 1757860765,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237015,
+      "num": 237015,
+      "word": "李乃文又在哪闯什么祸呢",
+      "onboard_time": 1757903062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236894,
+      "num": 478379,
+      "word": "青海黄河源区确认发现秦代刻石",
+      "onboard_time": 1757904681,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231849,
@@ -315,6 +395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208901,
+      "num": 208901,
+      "word": "韩国人街头高喊我们是柯克",
+      "onboard_time": 1757900662,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 208643,
+      "num": 208643,
+      "word": "袁一琦签约天娱传媒",
+      "onboard_time": 1757905462,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207368,
       "num": 207368,
       "word": "王影璐黄多多可以演姐妹了",
@@ -339,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193683,
-      "num": 136468,
-      "word": "韩国人街头高喊我们是柯克",
-      "onboard_time": 1757900662,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 198852,
+      "num": 198852,
+      "word": "高通官宣第五代骁龙8至尊版",
+      "onboard_time": 1757905281,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 188507,
@@ -371,6 +467,38 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174525,
+      "num": 174525,
+      "word": "瑞幸 星穹铁道",
+      "onboard_time": 1757895923,
+      "rank": 27,
+      "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 174447,
+      "num": 174447,
+      "word": "雷军回应小米16改名小米17",
+      "onboard_time": 1757905763,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 173785,
+      "num": 173785,
+      "word": "卢伟冰称有信心直面iPhone17",
+      "onboard_time": 1757903840,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 169798,
+      "num": 169798,
+      "word": "雷军正面迎战iPhone",
+      "onboard_time": 1757905821,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164849,
       "num": 278574,
       "word": "wtt",
@@ -385,6 +513,14 @@
       "onboard_time": 1757901561,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163959,
+      "num": 166611,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1757901321,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 161929,
@@ -403,12 +539,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160522,
-      "num": 166611,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1757901321,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 159099,
+      "num": 159099,
+      "word": "孙颖莎澳门冠军赛卫冕发文",
+      "onboard_time": 1757903720,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157357,
+      "num": 161151,
+      "word": "金靖是猴精但付航通人性",
+      "onboard_time": 1757905221,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 154247,
@@ -419,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150061,
-      "num": 134728,
-      "word": "小米16改名小米17",
-      "onboard_time": 1757902522,
+      "raw_hot": 152455,
+      "num": 152455,
+      "word": "支付宝客服回应账号解除授权",
+      "onboard_time": 1757904143,
       "rank": 31,
-      "category": "数码"
+      "category": "互联网"
     },
     {
       "raw_hot": 148753,
@@ -451,6 +595,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145279,
+      "num": 159917,
+      "word": "李沁逐渐俊化",
+      "onboard_time": 1757905522,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145090,
+      "num": 145090,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1757902341,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144570,
       "num": 144570,
       "word": "法考 邓紫棋",
@@ -459,28 +619,12 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 144310,
-      "num": 144310,
-      "word": "国新办新闻发布会",
-      "onboard_time": 1757902341,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "这些租房糟心事有救了",
       "onboard_time": 1757902161,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139123,
-      "num": 139123,
-      "word": "瑞幸 星穹铁道",
-      "onboard_time": 1757895923,
-      "rank": 27,
-      "category": "美食,游戏"
     },
     {
       "raw_hot": 137064,
@@ -507,12 +651,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132366,
-      "num": 132366,
-      "word": "小米17",
-      "onboard_time": 1757902640,
-      "rank": 34,
-      "category": "数码"
+      "raw_hot": 129794,
+      "num": 129794,
+      "word": "床上不能停半挂",
+      "onboard_time": 1757904801,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128877,
+      "num": 134315,
+      "word": "租房新规实施这三点要注意",
+      "onboard_time": 1757895141,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125028,
@@ -571,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119273,
+      "num": 119273,
+      "word": "iPhone17系列价格已破发",
+      "onboard_time": 1757905701,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117988,
       "num": 117988,
       "word": "李沁龚俊 偶像剧都不敢这么拍",
@@ -585,6 +745,14 @@
       "onboard_time": 1757877794,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114805,
+      "num": 114805,
+      "word": "薛凯琪把LadyGaga歌词穿身上",
+      "onboard_time": 1757905582,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 114754,
@@ -603,12 +771,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109883,
-      "num": 134315,
-      "word": "租房新规实施这三点要注意",
-      "onboard_time": 1757895141,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 110882,
+      "num": 110882,
+      "word": "付辛博不愧是初代选秀出来的",
+      "onboard_time": 1757903120,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109594,
@@ -633,6 +801,14 @@
       "onboard_time": 1757901982,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105776,
+      "num": 105776,
+      "word": "8岁神经母细胞瘤患儿霖霖去世",
+      "onboard_time": 1757902761,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104306,
@@ -996,7 +1172,7 @@
     },
     {
       "raw_hot": 35524,
-      "num": 807198,
+      "num": 1049917,
       "word": "丰收的田野是最美的画卷",
       "onboard_time": 1757858306,
       "rank": 2,
