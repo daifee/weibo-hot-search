@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757932063486,
+  "endTime": 1757933015974,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1525698,
-      "num": 216633,
+      "num": 327471,
       "word": "张予曦自曝被跟踪数月",
       "onboard_time": 1757930122,
       "rank": 12,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401700,
+      "num": 401700,
+      "word": "欢乐家长群2",
+      "onboard_time": 1757932283,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393443,
       "num": 370381,
       "word": "辛芷蕾神似早期的宋慧乔",
@@ -481,6 +489,14 @@
       "onboard_time": 1757840961,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379593,
+      "num": 379593,
+      "word": "上海学生餐",
+      "onboard_time": 1757927903,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377645,
@@ -529,14 +545,6 @@
       "onboard_time": 1757863345,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 354334,
-      "num": 354334,
-      "word": "上海学生餐",
-      "onboard_time": 1757927903,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349842,
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331638,
+      "num": 331638,
+      "word": "深圳市民捡到2267.83克巨型金条",
+      "onboard_time": 1757931441,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329168,
       "num": 329168,
       "word": "租房新规今起实施",
@@ -616,6 +632,14 @@
       "word": "警方回应女子坐评委身上做不雅动作",
       "onboard_time": 1757845282,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322209,
+      "num": 322209,
+      "word": "妻子出轨主播9个月打赏1.8万次",
+      "onboard_time": 1757930364,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -739,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257033,
-      "num": 189943,
-      "word": "妻子出轨主播9个月打赏1.8万次",
-      "onboard_time": 1757930364,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256184,
       "num": 256184,
       "word": "731预告",
@@ -779,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247397,
+      "num": 247397,
+      "word": "郑恺不知道今天节目官宣",
+      "onboard_time": 1757929102,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245885,
       "num": 245885,
       "word": "祝绪丹录浪姐团综爆哭3小时",
@@ -795,12 +819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240222,
-      "num": 240222,
-      "word": "郑恺不知道今天节目官宣",
-      "onboard_time": 1757929102,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 239484,
+      "num": 239484,
+      "word": "成毅又在爱奇艺剧宣上闯祸了",
+      "onboard_time": 1757931023,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 231849,
@@ -955,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205930,
+      "num": 205930,
+      "word": "杨帆 众合",
+      "onboard_time": 1757922805,
+      "rank": 32,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 204307,
       "num": 204307,
       "word": "iG 世界赛",
@@ -1035,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194412,
+      "num": 194412,
+      "word": "张艺兴仅自己可见的微博",
+      "onboard_time": 1757931322,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193826,
       "num": 180915,
       "word": "王楚钦我们依旧是我们",
@@ -1091,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189787,
-      "num": 189787,
-      "word": "杨帆 众合",
-      "onboard_time": 1757922805,
-      "rank": 32,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 189329,
       "num": 168861,
       "word": "恋爱里能好好说话是一种能力",
@@ -1139,12 +1171,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184394,
-      "num": 184394,
-      "word": "深圳市民捡到2267.83克巨型金条",
-      "onboard_time": 1757931441,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 184369,
+      "num": 184369,
+      "word": "花少7在不同维度封神",
+      "onboard_time": 1757931982,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 183156,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1757911105,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182302,
-      "num": 182302,
-      "word": "成毅又在爱奇艺剧宣上闯祸了",
-      "onboard_time": 1757931023,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 180946,
@@ -1291,14 +1315,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 168632,
-      "num": 168632,
-      "word": "张艺兴仅自己可见的微博",
-      "onboard_time": 1757931322,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 168278,
       "num": 173122,
       "word": "王楚钦夺冠背后有隐忧",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1757931084,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160613,
+      "num": 160613,
+      "word": "尚雯婕没想到外语学习法会爆火",
+      "onboard_time": 1757932101,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 160462,
@@ -1515,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151267,
+      "num": 151267,
+      "word": "赴山海",
+      "onboard_time": 1757931863,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149417,
       "num": 172510,
       "word": "张晚意的刘海好像手机屏幕",
@@ -1531,12 +1563,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 148410,
+      "num": 148410,
+      "word": "李晟控诉祝绪丹眼里只有王珞丹",
+      "onboard_time": 1757928861,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148246,
       "num": 166250,
       "word": "张凌赫喜欢BE",
       "onboard_time": 1757898503,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147657,
+      "num": 328027,
+      "word": "县人社局干部诬告22名领导干部",
+      "onboard_time": 1757931502,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147203,
@@ -1643,6 +1691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142143,
+      "num": 142143,
+      "word": "kimi最新背影照",
+      "onboard_time": 1757929642,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141656,
       "num": 144581,
       "word": "毛不易疑似误入仙家对话",
@@ -1667,11 +1723,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139950,
-      "num": 139950,
-      "word": "kimi最新背影照",
-      "onboard_time": 1757929642,
-      "rank": 32,
+      "raw_hot": 139100,
+      "num": 123351,
+      "word": "王珞丹这背不拔罐可惜了",
+      "onboard_time": 1757931922,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1779,14 +1835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125144,
-      "num": 125144,
-      "word": "李晟控诉祝绪丹眼里只有王珞丹",
-      "onboard_time": 1757928861,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125088,
       "num": 230091,
       "word": "拼多多十周年百亿补贴iPhone加补",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1757862146,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124321,
+      "num": 124321,
+      "word": "韩国遇难海警生前最后画面",
+      "onboard_time": 1757931142,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124015,
@@ -1840,14 +1896,6 @@
       "word": "胡锡进谈西贝道歉",
       "onboard_time": 1757922142,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122199,
-      "num": 221332,
-      "word": "县人社局干部诬告22名领导干部",
-      "onboard_time": 1757931502,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1932,7 +1980,7 @@
     },
     {
       "raw_hot": 117262,
-      "num": 144017,
+      "num": 148762,
       "word": "美食摄影大赛要求必须手机原图",
       "onboard_time": 1757930725,
       "rank": 28,
@@ -2027,12 +2075,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108706,
-      "num": 108706,
-      "word": "韩国遇难海警生前最后画面",
-      "onboard_time": 1757931142,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 108620,
+      "num": 108620,
+      "word": "被一年级妹妹的思维惊艳到了",
+      "onboard_time": 1757932702,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 107791,
@@ -2057,14 +2105,6 @@
       "onboard_time": 1757925682,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106280,
-      "num": 106280,
-      "word": "赴山海",
-      "onboard_time": 1757931863,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 106208,
@@ -2097,6 +2137,14 @@
       "onboard_time": 1757930725,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104728,
+      "num": 104728,
+      "word": "周深以为自己上热搜了",
+      "onboard_time": 1757932642,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 104306,
@@ -2139,28 +2187,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102048,
-      "num": 102048,
-      "word": "花少7在不同维度封神",
-      "onboard_time": 1757931982,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101613,
       "num": 101613,
       "word": "无框眼镜才是文咏珊的统治区",
       "onboard_time": 1757928504,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101161,
-      "num": 101161,
-      "word": "王珞丹这背不拔罐可惜了",
-      "onboard_time": 1757931922,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 99687,
@@ -2193,6 +2225,14 @@
       "onboard_time": 1757927063,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97647,
+      "num": 97647,
+      "word": "39岁一千度近视加175度散光",
+      "onboard_time": 1757932883,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 96595,
@@ -2241,6 +2281,14 @@
       "onboard_time": 1757868140,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92257,
+      "num": 122350,
+      "word": "刘亦菲真正的亲妈视角",
+      "onboard_time": 1757932883,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 91380,
@@ -2539,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59806,
+      "num": 120156,
+      "word": "新世代BMWiX3有哪些关键词",
+      "onboard_time": 1757932342,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58925,
       "num": 116659,
       "word": "刘宇宁嘴噘出了二里地",
@@ -2609,6 +2665,14 @@
       "onboard_time": 1757906062,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51647,
+      "num": 119154,
+      "word": "博主测评日料预制菜",
+      "onboard_time": 1757932162,
+      "rank": 40,
+      "category": "美食,舆论监督"
     },
     {
       "raw_hot": 51142,
@@ -2691,19 +2755,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41159,
+      "num": 119933,
+      "word": "15岁残障女孩殒命铁轨监控曝光",
+      "onboard_time": 1757932043,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39338,
       "num": 144657,
       "word": "3名间谍冒充外卖员钓鱼佬",
       "onboard_time": 1757913802,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39072,
-      "num": 114876,
-      "word": "15岁残障女孩殒命铁轨监控曝光",
-      "onboard_time": 1757932043,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2748,7 +2812,7 @@
     },
     {
       "raw_hot": 32953,
-      "num": 470382,
+      "num": 502104,
       "word": "高质量发展中国行焕新江西",
       "onboard_time": 1757929342,
       "rank": 2,
@@ -2881,6 +2945,22 @@
       "onboard_time": 1757881394,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 19708,
+      "num": 119488,
+      "word": "多动症学生所在班级恢复正常上课",
+      "onboard_time": 1757932642,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17521,
+      "num": 198530,
+      "word": "养老金跑冒滴漏不能总靠审计算后账",
+      "onboard_time": 1757932283,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16517,
