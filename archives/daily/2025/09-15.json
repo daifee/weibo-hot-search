@@ -1,6 +1,6 @@
 {
   "startTime": 1757867185776,
-  "endTime": 1757926005551,
+  "endTime": 1757928557035,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -67,8 +67,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1230098,
-      "num": 696012,
+      "raw_hot": 1364705,
+      "num": 1364705,
+      "word": "英伟达违法",
+      "onboard_time": 1757924602,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1338361,
+      "num": 786659,
       "word": "杨幂还是太体面了",
       "onboard_time": 1757924123,
       "rank": 4,
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621611,
+      "num": 621611,
+      "word": "乐山地震",
+      "onboard_time": 1757926343,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 606589,
       "num": 368957,
       "word": "宋妍霏回应提了24次裙子",
@@ -251,12 +267,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 592706,
-      "num": 592706,
-      "word": "英伟达违法",
-      "onboard_time": 1757924602,
-      "rank": 14,
-      "category": "民生新闻,互联网"
+      "raw_hot": 564217,
+      "num": 326335,
+      "word": "父亲因彩礼收走女儿手机阻止结婚",
+      "onboard_time": 1757925981,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559994,
+      "num": 324445,
+      "word": "唐嫣裙子勒得动不了",
+      "onboard_time": 1757925202,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 559588,
@@ -547,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336235,
+      "num": 320097,
+      "word": "小S确认将出席金钟奖",
+      "onboard_time": 1757927782,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329168,
       "num": 329168,
       "word": "租房新规今起实施",
@@ -699,14 +731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253989,
-      "num": 253989,
-      "word": "唐嫣裙子勒得动不了",
-      "onboard_time": 1757925202,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247717,
       "num": 247717,
       "word": "李沁逐渐俊化",
@@ -737,6 +761,14 @@
       "onboard_time": 1757921063,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241705,
+      "num": 207854,
+      "word": "涉嫌性侵江祖平的男子被拘捕",
+      "onboard_time": 1757926403,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 231849,
@@ -835,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209791,
+      "num": 209791,
+      "word": "外交部回应已邀特朗普访华",
+      "onboard_time": 1757923582,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208901,
       "num": 208901,
       "word": "韩国人街头高喊我们是柯克",
@@ -891,14 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 203848,
-      "num": 203848,
-      "word": "外交部回应已邀特朗普访华",
-      "onboard_time": 1757923582,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 203387,
       "num": 203387,
       "word": "魅族22价格",
@@ -913,6 +945,14 @@
       "onboard_time": 1757859026,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200872,
+      "num": 200872,
+      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
+      "onboard_time": 1757925202,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 200371,
@@ -985,14 +1025,6 @@
       "onboard_time": 1757909423,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192459,
-      "num": 198312,
-      "word": "柯淳趴刘嘉玲肩膀说悄悄话",
-      "onboard_time": 1757925202,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 192009,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1757910804,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 169071,
+      "num": 169071,
+      "word": "这样的婚礼内娱我从未见过",
+      "onboard_time": 1757927003,
+      "rank": 25,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 168278,
@@ -1379,6 +1419,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 149855,
+      "num": 149855,
+      "word": "上海学生餐",
+      "onboard_time": 1757927903,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149417,
       "num": 172510,
       "word": "张晚意的刘海好像手机屏幕",
@@ -1400,6 +1448,14 @@
       "word": "张凌赫喜欢BE",
       "onboard_time": 1757898503,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146571,
+      "num": 146571,
+      "word": "张维伊董璇互相见不上",
+      "onboard_time": 1757925082,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1611,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125088,
+      "num": 211028,
+      "word": "拼多多十周年百亿补贴iPhone加补",
+      "onboard_time": 1757927481,
+      "rank": 18,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 125028,
       "num": 125028,
       "word": "王一博出道十一周年照",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1757913862,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123952,
+      "num": 123952,
+      "word": "和摩尔庄园认识的男朋友结婚了",
+      "onboard_time": 1757928203,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 123505,
@@ -1843,6 +1915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106015,
+      "num": 106015,
+      "word": "章若楠看起来好命苦",
+      "onboard_time": 1757926882,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105758,
       "num": 105758,
       "word": "星品影响力",
@@ -1865,6 +1945,14 @@
       "onboard_time": 1757861186,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102805,
+      "num": 102805,
+      "word": "终于有剧有仇立马报了",
+      "onboard_time": 1757928082,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 102782,
@@ -1891,12 +1979,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99217,
+      "num": 327332,
+      "word": "外交部回应美国要求北约对华加税",
+      "onboard_time": 1757927542,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98505,
       "num": 103733,
       "word": "成毅10秒处这个连续翻转",
       "onboard_time": 1757862385,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98146,
+      "num": 98146,
+      "word": "丁程鑫到底谁在玩火啊",
+      "onboard_time": 1757927363,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97993,
+      "num": 97993,
+      "word": "无框眼镜才是文咏珊的统治区",
+      "onboard_time": 1757928504,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97969,
+      "num": 97969,
+      "word": "郑恺苗苗综艺合体",
+      "onboard_time": 1757927063,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 96595,
@@ -1963,14 +2083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90839,
-      "num": 144783,
-      "word": "张维伊董璇互相见不上",
-      "onboard_time": 1757925082,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90390,
       "num": 90390,
       "word": "2025中国大满贯倒计时10天",
@@ -2027,14 +2139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80159,
-      "num": 111804,
-      "word": "父亲因彩礼收走女儿手机阻止结婚",
-      "onboard_time": 1757925981,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79779,
       "num": 79779,
       "word": "xg",
@@ -2065,6 +2169,14 @@
       "onboard_time": 1757883973,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78143,
+      "num": 150541,
+      "word": "王铮亮给苏醒留条活路吧",
+      "onboard_time": 1757927182,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 76410,
@@ -2137,6 +2249,14 @@
       "onboard_time": 1757902161,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 71913,
+      "num": 124035,
+      "word": "丈夫受处分妻子诬告学校干部嫖娼",
+      "onboard_time": 1757927542,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71874,
@@ -2491,6 +2611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23263,
+      "num": 215129,
+      "word": "高德征集美食照片奖全年免费吃",
+      "onboard_time": 1757927302,
+      "rank": 17,
+      "category": "互联网,美食"
+    },
+    {
       "raw_hot": 23070,
       "num": 55279,
       "word": "TI15",
@@ -2558,6 +2686,9 @@
   "hotgov_list": [
     {
       "word": "#总书记谈网络安全#"
+    },
+    {
+      "word": "#14亿多中国人民勇往直前#"
     }
   ]
 }
