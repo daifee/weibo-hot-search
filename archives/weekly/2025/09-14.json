@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757946353341,
+  "endTime": 1757947263138,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1139244,
-      "num": 309643,
+      "num": 329490,
       "word": "女子散步时踩到氢氟酸后去世",
       "onboard_time": 1757933182,
       "rank": 10,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563405,
+      "num": 563405,
+      "word": "瑞达",
+      "onboard_time": 1757944406,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 563159,
       "num": 563159,
       "word": "国乒还是国乒",
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 504827,
-      "num": 309494,
+      "num": 329205,
       "word": "肖战和谁搭档会让你眼前一亮",
       "onboard_time": 1757938522,
       "rank": 12,
@@ -1027,14 +1035,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 457677,
-      "num": 457677,
-      "word": "瑞达",
-      "onboard_time": 1757944406,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 455181,
       "num": 455181,
       "word": "张艺兴仅自己可见的微博",
@@ -1073,6 +1073,14 @@
       "onboard_time": 1757830403,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 440095,
+      "num": 440095,
+      "word": "父母情绪不稳定孩子切忌自责",
+      "onboard_time": 1757943865,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434134,
@@ -1267,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393316,
+      "num": 393316,
+      "word": "梁婷说签约演员里唯一赚钱的是尹正",
+      "onboard_time": 1757938583,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390455,
       "num": 390455,
       "word": "日料 预制",
@@ -1312,6 +1328,14 @@
       "word": "市场监管总局对英伟达实施进一步调查",
       "onboard_time": 1757924602,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386495,
+      "num": 386495,
+      "word": "涉毒艺人苏永康将在温州办演唱会",
+      "onboard_time": 1757946926,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1369,6 +1393,14 @@
       "onboard_time": 1757907862,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375575,
+      "num": 268184,
+      "word": "瑞达法考",
+      "onboard_time": 1757946084,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 371688,
@@ -1523,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337664,
+      "num": 329035,
+      "word": "张凌赫又开始帮粉丝选发色了",
+      "onboard_time": 1757937142,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336955,
       "num": 284882,
       "word": "床上不能停半挂",
@@ -1587,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317957,
-      "num": 289122,
-      "word": "张凌赫又开始帮粉丝选发色了",
-      "onboard_time": 1757937142,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316452,
       "num": 193575,
       "word": "西贝厨师长称转基因大豆油用于员工餐",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1757944284,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 307123,
-      "num": 307123,
-      "word": "父母情绪不稳定孩子切忌自责",
-      "onboard_time": 1757943865,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306772,
@@ -1723,14 +1747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 284079,
-      "num": 284079,
-      "word": "梁婷说签约演员里唯一赚钱的是尹正",
-      "onboard_time": 1757938583,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283081,
       "num": 283081,
       "word": "孙颖莎说和王楚钦默契不错",
@@ -1756,7 +1772,7 @@
     },
     {
       "raw_hot": 280497,
-      "num": 200673,
+      "num": 263832,
       "word": "原来李佳航让李晟尴尬的求婚长这样",
       "onboard_time": 1757941823,
       "rank": 22,
@@ -1817,6 +1833,14 @@
       "onboard_time": 1757860046,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 268675,
+      "num": 329503,
+      "word": "家长质疑收费被班主任群内恐吓",
+      "onboard_time": 1757944225,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264791,
@@ -1929,6 +1953,14 @@
       "onboard_time": 1757850745,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253962,
+      "num": 253962,
+      "word": "女孩子黄体破裂后到底有多严重",
+      "onboard_time": 1757945064,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 253734,
@@ -2131,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231650,
+      "num": 231650,
+      "word": "杨帆 众合",
+      "onboard_time": 1757922805,
+      "rank": 32,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 231511,
       "num": 231511,
       "word": "芬芳喜事定档",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1757901441,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228313,
-      "num": 197897,
-      "word": "瑞达法考",
-      "onboard_time": 1757946084,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 227074,
@@ -2307,6 +2339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213420,
+      "num": 213420,
+      "word": "官方回应涉毒艺人办演唱会遭投诉",
+      "onboard_time": 1757946926,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212798,
+      "num": 309686,
+      "word": "现在的军训还是太超前了",
+      "onboard_time": 1757945546,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212752,
       "num": 212752,
       "word": "杨紫胡歌生命树骑马路透",
@@ -2403,28 +2451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206824,
-      "num": 206824,
-      "word": "家长质疑收费被班主任群内恐吓",
-      "onboard_time": 1757944225,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206060,
       "num": 206060,
       "word": "成毅10秒处这个连续翻转",
       "onboard_time": 1757862385,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205930,
-      "num": 205930,
-      "word": "杨帆 众合",
-      "onboard_time": 1757922805,
-      "rank": 32,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 204307,
@@ -2620,7 +2652,7 @@
     },
     {
       "raw_hot": 195990,
-      "num": 185997,
+      "num": 188145,
       "word": "运动瘦vs饿瘦",
       "onboard_time": 1757933122,
       "rank": 32,
@@ -3009,14 +3041,6 @@
       "onboard_time": 1757907202,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176098,
-      "num": 176098,
-      "word": "女孩子黄体破裂后到底有多严重",
-      "onboard_time": 1757945064,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174891,
@@ -4251,12 +4275,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 132221,
-      "num": 309686,
-      "word": "现在的军训还是太超前了",
-      "onboard_time": 1757945546,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 132659,
+      "num": 139910,
+      "word": "瑞达竞业协议",
+      "onboard_time": 1757946926,
+      "rank": 38,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 131973,
@@ -4545,6 +4569,14 @@
       "onboard_time": 1757923522,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121877,
+      "num": 139873,
+      "word": "十个勤天上央视太有活人感了",
+      "onboard_time": 1757946744,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 121768,
@@ -5467,6 +5499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95790,
+      "num": 139630,
+      "word": "爸妈分享给白化病女儿梳的发型",
+      "onboard_time": 1757947105,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95232,
       "num": 95232,
       "word": "苹果用自研换利润",
@@ -6092,7 +6132,7 @@
     },
     {
       "raw_hot": 68585,
-      "num": 205737,
+      "num": 273324,
       "word": "比亚迪技术全家桶26款海豹07DMi",
       "onboard_time": 1757943084,
       "rank": 43,
@@ -6467,6 +6507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44343,
+      "num": 212870,
+      "word": "网红蛋糕店请人热舞被质疑擦边",
+      "onboard_time": 1757946684,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44196,
       "num": 244397,
       "word": "MPV冠军首选岚图梦想家",
@@ -6521,6 +6569,14 @@
       "onboard_time": 1757797634,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41914,
+      "num": 275447,
+      "word": "别克至境L7技术发布会",
+      "onboard_time": 1757945244,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 41677,
@@ -6579,20 +6635,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37987,
-      "num": 204171,
-      "word": "别克至境L7技术发布会",
-      "onboard_time": 1757945244,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 37481,
       "num": 231966,
       "word": "胡先煦玉门关聆听岁月回响",
       "onboard_time": 1757822663,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 37073,
+      "num": 212947,
+      "word": "李斯丹妮山系穿搭天花板",
+      "onboard_time": 1757946205,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 36527,
@@ -6617,6 +6673,14 @@
       "onboard_time": 1757872695,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33509,
+      "num": 270546,
+      "word": "男子酒后全程智驾将被追究刑责",
+      "onboard_time": 1757946684,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32953,
@@ -6665,14 +6729,6 @@
       "onboard_time": 1757910925,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30212,
-      "num": 148609,
-      "word": "李斯丹妮山系穿搭天花板",
-      "onboard_time": 1757946205,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 30090,
