@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1758004605681,
+  "endTime": 1758005381937,
   "band_list": [
     {
       "raw_hot": 2500117,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2086772,
+      "num": 2086772,
+      "word": "多名男留学生混住在女生宿舍楼",
+      "onboard_time": 1758000805,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1969826,
       "num": 1969826,
       "word": "小米17背屏",
       "onboard_time": 1757991981,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1939006,
-      "num": 1939006,
-      "word": "多名男留学生混住在女生宿舍楼",
-      "onboard_time": 1758000805,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1643520,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 560937,
+      "num": 412446,
+      "word": "贺刚为成毅发声",
+      "onboard_time": 1758002122,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 545532,
       "num": 545532,
       "word": "卢远王乐晨爆灯",
@@ -313,14 +321,6 @@
       "onboard_time": 1757951063,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 408596,
-      "num": 408596,
-      "word": "贺刚为成毅发声",
-      "onboard_time": 1758002122,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 407691,
@@ -779,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193364,
+      "num": 553035,
+      "word": "我国卫星互联网技术试验卫星发射成功",
+      "onboard_time": 1758000384,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193285,
       "num": 193285,
       "word": "中方回应菲公务船冲撞中方海警船",
@@ -867,14 +875,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 171952,
-      "num": 553035,
-      "word": "我国卫星互联网技术试验卫星发射成功",
-      "onboard_time": 1758000384,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 171653,
       "num": 171653,
       "word": "孙颖莎小时候就是学霸",
@@ -897,6 +897,14 @@
       "onboard_time": 1757999185,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 168872,
+      "num": 168872,
+      "word": "清华回应孙颖莎王曼昱免试读研",
+      "onboard_time": 1758005002,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 167798,
@@ -971,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157875,
+      "num": 157875,
+      "word": "狗 我的碗出车祸了",
+      "onboard_time": 1758005002,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157538,
       "num": 157538,
       "word": "狗狗帮生病的好朋狗传话",
@@ -993,6 +1009,14 @@
       "onboard_time": 1758000563,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153936,
+      "num": 153936,
+      "word": "恩利到底喝了多少丝瓜汤",
+      "onboard_time": 1758004101,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 153501,
@@ -1059,6 +1083,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 145529,
+      "num": 145529,
+      "word": "俄乌战场上一名女兵死里逃生",
+      "onboard_time": 1758003923,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145158,
       "num": 145158,
       "word": "蔡徐坤 谁在纽约",
@@ -1091,14 +1123,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 136305,
-      "num": 136305,
-      "word": "恩利到底喝了多少丝瓜汤",
-      "onboard_time": 1758004101,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 135855,
       "num": 648786,
       "word": "中国海警对菲船采取水炮喷射等措施",
@@ -1113,6 +1137,30 @@
       "onboard_time": 1757999784,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134116,
+      "num": 136445,
+      "word": "网红柴怼怼被刑拘",
+      "onboard_time": 1758003622,
+      "rank": 38,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 131835,
+      "num": 131835,
+      "word": "王珏下车",
+      "onboard_time": 1758004942,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131142,
+      "num": 145629,
+      "word": "被虐死女孩生父为继母判死刑哭泣",
+      "onboard_time": 1758005122,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129483,
@@ -1147,6 +1195,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127110,
+      "num": 407757,
+      "word": "北方局地降温10摄氏度",
+      "onboard_time": 1758004101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126837,
+      "num": 190993,
+      "word": "牙齿文身",
+      "onboard_time": 1758001102,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125969,
       "num": 125969,
       "word": "iOS26壁纸",
@@ -1169,22 +1233,6 @@
       "onboard_time": 1757999663,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 122095,
-      "num": 190993,
-      "word": "牙齿文身",
-      "onboard_time": 1758001102,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122010,
-      "num": 136597,
-      "word": "俄乌战场上一名女兵死里逃生",
-      "onboard_time": 1758003923,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121266,
@@ -1243,6 +1291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 116575,
+      "num": 116575,
+      "word": "减肥失败的特别鸣谢",
+      "onboard_time": 1758002423,
+      "rank": 49,
+      "category": "运动健身,幽默"
+    },
+    {
       "raw_hot": 116020,
       "num": 150057,
       "word": "被孙尚香台词硬控30秒",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1757952081,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 111446,
-      "num": 136445,
-      "word": "网红柴怼怼被刑拘",
-      "onboard_time": 1758003622,
-      "rank": 38,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 110749,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1757933122,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88369,
-      "num": 407757,
-      "word": "北方局地降温10摄氏度",
-      "onboard_time": 1758004101,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88125,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1757996364,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68698,
+      "num": 187915,
+      "word": "白敬亭新剧白天抓坏蛋晚上追姐姐",
+      "onboard_time": 1758004702,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 68052,
@@ -1732,7 +1780,7 @@
     },
     {
       "raw_hot": 37175,
-      "num": 167075,
+      "num": 186201,
       "word": "豫鄂交界水域采金调查",
       "onboard_time": 1758004342,
       "rank": 29,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1757993182,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18001,
+      "num": 145549,
+      "word": "闫妮说跟沙溢的友情达不到有难同当",
+      "onboard_time": 1758005181,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 16265,

@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758004605681,
+  "endTime": 1758005381937,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -91,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2086772,
+      "num": 2086772,
+      "word": "多名男留学生混住在女生宿舍楼",
+      "onboard_time": 1758000805,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1969826,
       "num": 1969826,
       "word": "小米17背屏",
       "onboard_time": 1757991981,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1939006,
-      "num": 1939006,
-      "word": "多名男留学生混住在女生宿舍楼",
-      "onboard_time": 1758000805,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1886693,
@@ -1019,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 560937,
+      "num": 412446,
+      "word": "贺刚为成毅发声",
+      "onboard_time": 1758002122,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559588,
       "num": 559588,
       "word": "王楚钦澳门赛夺冠后发文",
@@ -1536,14 +1544,6 @@
       "word": "赴山海抠图感",
       "onboard_time": 1757772385,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 408596,
-      "num": 408596,
-      "word": "贺刚为成毅发声",
-      "onboard_time": 1758002122,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -3419,6 +3419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193364,
+      "num": 553035,
+      "word": "我国卫星互联网技术试验卫星发射成功",
+      "onboard_time": 1758000384,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193353,
       "num": 193353,
       "word": "孙颖莎赛季单打第六冠",
@@ -3915,14 +3923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171952,
-      "num": 553035,
-      "word": "我国卫星互联网技术试验卫星发射成功",
-      "onboard_time": 1758000384,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 171653,
       "num": 171653,
       "word": "孙颖莎小时候就是学霸",
@@ -3992,6 +3992,14 @@
       "word": "伯恩利VS利物浦",
       "onboard_time": 1757862206,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168872,
+      "num": 168872,
+      "word": "清华回应孙颖莎王曼昱免试读研",
+      "onboard_time": 1758005002,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -4379,6 +4387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157875,
+      "num": 157875,
+      "word": "狗 我的碗出车祸了",
+      "onboard_time": 1758005002,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157823,
       "num": 157823,
       "word": "以后不敢说自己喜欢大海了",
@@ -4529,6 +4545,14 @@
       "onboard_time": 1758000563,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153936,
+      "num": 153936,
+      "word": "恩利到底喝了多少丝瓜汤",
+      "onboard_time": 1758004101,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 153910,
@@ -4785,6 +4809,14 @@
       "onboard_time": 1757901141,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145529,
+      "num": 145529,
+      "word": "俄乌战场上一名女兵死里逃生",
+      "onboard_time": 1758003923,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145201,
@@ -5147,14 +5179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 136305,
-      "num": 136305,
-      "word": "恩利到底喝了多少丝瓜汤",
-      "onboard_time": 1758004101,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 135855,
       "num": 648786,
       "word": "中国海警对菲船采取水炮喷射等措施",
@@ -5225,6 +5249,14 @@
       "onboard_time": 1757859446,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134116,
+      "num": 136445,
+      "word": "网红柴怼怼被刑拘",
+      "onboard_time": 1758003622,
+      "rank": 38,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 133938,
@@ -5307,6 +5339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131835,
+      "num": 131835,
+      "word": "王珏下车",
+      "onboard_time": 1758004942,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131303,
       "num": 131303,
       "word": "周深说自己的演唱会像五仁月饼",
@@ -5321,6 +5361,14 @@
       "onboard_time": 1757947884,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 131142,
+      "num": 145629,
+      "word": "被虐死女孩生父为继母判死刑哭泣",
+      "onboard_time": 1758005122,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130488,
@@ -5457,6 +5505,22 @@
       "onboard_time": 1757841503,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127110,
+      "num": 407757,
+      "word": "北方局地降温10摄氏度",
+      "onboard_time": 1758004101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126837,
+      "num": 190993,
+      "word": "牙齿文身",
+      "onboard_time": 1758001102,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126564,
@@ -5635,28 +5699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122095,
-      "num": 190993,
-      "word": "牙齿文身",
-      "onboard_time": 1758001102,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122033,
       "num": 122033,
       "word": "原来大家都有考研坐骑",
       "onboard_time": 1757923522,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122010,
-      "num": 136597,
-      "word": "俄乌战场上一名女兵死里逃生",
-      "onboard_time": 1758003923,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121877,
@@ -5915,6 +5963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116575,
+      "num": 116575,
+      "word": "减肥失败的特别鸣谢",
+      "onboard_time": 1758002423,
+      "rank": 49,
+      "category": "运动健身,幽默"
+    },
+    {
       "raw_hot": 116477,
       "num": 116477,
       "word": "原来这叫拧巴啊",
@@ -6073,14 +6129,6 @@
       "onboard_time": 1757914283,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111446,
-      "num": 136445,
-      "word": "网红柴怼怼被刑拘",
-      "onboard_time": 1758003622,
-      "rank": 38,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 110825,
@@ -6979,14 +7027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88369,
-      "num": 407757,
-      "word": "北方局地降温10摄氏度",
-      "onboard_time": 1758004101,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88211,
       "num": 109058,
       "word": "男子把段子当真怒刷1万等返100万",
@@ -7537,6 +7577,14 @@
       "onboard_time": 1757934263,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68698,
+      "num": 187915,
+      "word": "白敬亭新剧白天抓坏蛋晚上追姐姐",
+      "onboard_time": 1758004702,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 68585,
@@ -8212,7 +8260,7 @@
     },
     {
       "raw_hot": 37175,
-      "num": 167075,
+      "num": 186201,
       "word": "豫鄂交界水域采金调查",
       "onboard_time": 1758004342,
       "rank": 29,
@@ -8625,6 +8673,14 @@
       "onboard_time": 1757791515,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 18001,
+      "num": 145549,
+      "word": "闫妮说跟沙溢的友情达不到有难同当",
+      "onboard_time": 1758005181,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 17993,

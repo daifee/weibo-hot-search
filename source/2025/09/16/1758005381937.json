@@ -1,0 +1,410 @@
+{
+  "runTime": 1758005381937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2086772,
+        "num": 2086772,
+        "word": "多名男留学生混住在女生宿舍楼",
+        "onboard_time": 1758000805,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 873109,
+        "num": 873109,
+        "word": "成毅回应赴山海台词含糊",
+        "onboard_time": 1757998104,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70122,
+        "num": 853822,
+        "word": "新疆70年",
+        "onboard_time": 1757996903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835268,
+        "num": 835268,
+        "word": "王琳 血淋淋的大女主真人秀",
+        "onboard_time": 1757999123,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556786,
+        "num": 556786,
+        "word": "以色列威胁不到中国手机",
+        "onboard_time": 1757995465,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 413469,
+        "num": 413469,
+        "word": "小米17背屏",
+        "onboard_time": 1757991981,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 560937,
+        "num": 412446,
+        "word": "贺刚为成毅发声",
+        "onboard_time": 1758002122,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392149,
+        "num": 392149,
+        "word": "赴山海洞洞鞋穿帮",
+        "onboard_time": 1757986522,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378260,
+        "num": 378260,
+        "word": "12306抢票",
+        "onboard_time": 1757993122,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348467,
+        "num": 348467,
+        "word": "iOS26 丑",
+        "onboard_time": 1757989942,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1122125,
+        "num": 343108,
+        "word": "黄晓明 baby我们的感情好像跳楼机",
+        "onboard_time": 1757998706,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372207,
+        "num": 341534,
+        "word": "姜潮录节目情绪崩溃到发飙",
+        "onboard_time": 1757993542,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335284,
+        "num": 335284,
+        "word": "孙颖莎将免试进入清华大学读研",
+        "onboard_time": 1757994745,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127110,
+        "num": 318003,
+        "word": "北方局地降温10摄氏度",
+        "onboard_time": 1758004101,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306476,
+        "num": 306476,
+        "word": "成都通报一女子公园自缢",
+        "onboard_time": 1757990182,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 39174,
+        "num": 299745,
+        "word": "谁懂王安宇给我做饭既视感",
+        "onboard_time": 1758001102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297537,
+        "num": 297537,
+        "word": "店员回应丢弃未售面包是公司规定",
+        "onboard_time": 1758002723,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256018,
+        "num": 256018,
+        "word": "孙颖莎清华读研",
+        "onboard_time": 1757994142,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251934,
+        "num": 251934,
+        "word": "陈乔恩晒粉红云海悼念乔任梁",
+        "onboard_time": 1757984063,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239608,
+        "num": 239608,
+        "word": "上海网红面包店将未售面包直接丢弃",
+        "onboard_time": 1757996544,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363259,
+        "num": 234825,
+        "word": "金价",
+        "onboard_time": 1757986402,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253391,
+        "num": 233875,
+        "word": "老太太赶集时金镯被剪断手臂流血",
+        "onboard_time": 1757992403,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226064,
+        "num": 226064,
+        "word": "卢远王乐晨爆灯",
+        "onboard_time": 1757997624,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194240,
+        "num": 194240,
+        "word": "2025湾区升明月官宣",
+        "onboard_time": 1758003443,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193364,
+        "num": 193364,
+        "word": "我国卫星互联网技术试验卫星发射成功",
+        "onboard_time": 1758000384,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193176,
+        "num": 193176,
+        "word": "王楚钦北大",
+        "onboard_time": 1757997865,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158782,
+        "num": 191293,
+        "word": "王一博仪态",
+        "onboard_time": 1757997985,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191030,
+        "num": 191030,
+        "word": "香港巴士司机遭铁棍插胸仍冷静停车",
+        "onboard_time": 1758003383,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68698,
+        "num": 187915,
+        "word": "白敬亭新剧白天抓坏蛋晚上追姐姐",
+        "onboard_time": 1758004702,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35117,
+        "num": 186201,
+        "word": "豫鄂交界水域采金调查",
+        "onboard_time": 1758004342,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 186147,
+        "num": 186147,
+        "word": "地球臭氧层正在恢复",
+        "onboard_time": 1758000563,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168872,
+        "num": 168872,
+        "word": "清华回应孙颖莎王曼昱免试读研",
+        "onboard_time": 1758005002,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157875,
+        "num": 157875,
+        "word": "狗 我的碗出车祸了",
+        "onboard_time": 1758005002,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156043,
+        "num": 156043,
+        "word": "肖战 美团团购",
+        "onboard_time": 1757986760,
+        "rank": 33,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 153936,
+        "num": 153936,
+        "word": "恩利到底喝了多少丝瓜汤",
+        "onboard_time": 1758004101,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151123,
+        "num": 151123,
+        "word": "李在明下令严查海警殉职事件",
+        "onboard_time": 1757999185,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151706,
+        "num": 150263,
+        "word": "建议大家下班回家立刻洗澡",
+        "onboard_time": 1757997804,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147929,
+        "num": 147929,
+        "word": "港版iPhone17",
+        "onboard_time": 1757999843,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131142,
+        "num": 145629,
+        "word": "被虐死女孩生父为继母判死刑哭泣",
+        "onboard_time": 1758005122,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18001,
+        "num": 145549,
+        "word": "闫妮说跟沙溢的友情达不到有难同当",
+        "onboard_time": 1758005181,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145529,
+        "num": 145529,
+        "word": "俄乌战场上一名女兵死里逃生",
+        "onboard_time": 1758003923,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81492,
+        "num": 134372,
+        "word": "中方回应菲公务船冲撞中方海警船",
+        "onboard_time": 1757996483,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134116,
+        "num": 134116,
+        "word": "网红柴怼怼被刑拘",
+        "onboard_time": 1758003622,
+        "rank": 42,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 131835,
+        "num": 131835,
+        "word": "王珏下车",
+        "onboard_time": 1758004942,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127994,
+        "num": 127994,
+        "word": "只有做过家务的才知道她有多厉害",
+        "onboard_time": 1758004221,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126837,
+        "num": 126837,
+        "word": "牙齿文身",
+        "onboard_time": 1758001102,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126681,
+        "num": 126681,
+        "word": "校方回应男留学生与女生混住",
+        "onboard_time": 1758004342,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123619,
+        "num": 123619,
+        "word": "太二酸菜鱼下单到上鱼仅6分钟",
+        "onboard_time": 1757987481,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122552,
+        "num": 122552,
+        "word": "心动的信号 时尚芭莎",
+        "onboard_time": 1757993723,
+        "rank": 48,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 116575,
+        "num": 116575,
+        "word": "减肥失败的特别鸣谢",
+        "onboard_time": 1758002423,
+        "rank": 49,
+        "category": "运动健身,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须把全国统一大市场建设好#"
+    }
+  }
+}
