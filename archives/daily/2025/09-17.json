@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758062149400,
+  "endTime": 1758064818668,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -8,6 +8,14 @@
       "word": "于朦胧系饮酒意外坠亡",
       "onboard_time": 1758030448,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1759526,
+      "num": 1759526,
+      "word": "汪苏泷",
+      "onboard_time": 1758041182,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -35,12 +43,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 634812,
-      "num": 634812,
-      "word": "汪苏泷",
-      "onboard_time": 1758041182,
-      "rank": 0,
-      "category": "艺人"
+      "raw_hot": 608717,
+      "num": 608717,
+      "word": "男子查个税意外发现两份工资流水",
+      "onboard_time": 1758046755,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 552995,
@@ -75,14 +83,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 309930,
-      "num": 309930,
-      "word": "男子查个税意外发现两份工资流水",
-      "onboard_time": 1758046755,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293815,
       "num": 293815,
       "word": "90后女子背疼容易饿确诊胃癌晚期",
@@ -107,7 +107,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249572,
+      "raw_hot": 258861,
       "num": 217520,
       "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
       "onboard_time": 1758033630,
@@ -131,6 +131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198489,
+      "num": 216908,
+      "word": "女生坐火车卧铺打伞遮隐私",
+      "onboard_time": 1758022164,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191508,
       "num": 230513,
       "word": "于正虽然嘴碎但他护犊子啊",
@@ -139,12 +147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167066,
-      "num": 216908,
-      "word": "女生坐火车卧铺打伞遮隐私",
-      "onboard_time": 1758022164,
-      "rank": 21,
+      "raw_hot": 188312,
+      "num": 188312,
+      "word": "多方回应女童被废弃电线杆砸中身亡",
+      "onboard_time": 1758042918,
+      "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177609,
+      "num": 213264,
+      "word": "联合国认定以色列犯种族灭绝罪",
+      "onboard_time": 1758018863,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159775,
@@ -187,14 +203,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 134040,
-      "num": 134040,
-      "word": "多方回应女童被废弃电线杆砸中身亡",
-      "onboard_time": 1758042918,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133292,
       "num": 227537,
       "word": "成毅的真古人vs假古人",
@@ -219,6 +227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121586,
+      "num": 121586,
+      "word": "新型抗失眠药首日售出8000多盒",
+      "onboard_time": 1758039924,
+      "rank": 40,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 115920,
+      "num": 216037,
+      "word": "迪卡侬广告 处女地",
+      "onboard_time": 1758031050,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115257,
       "num": 213566,
       "word": "陈星旭和妈妈共用一张脸",
@@ -235,7 +259,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 107780,
+      "raw_hot": 108843,
       "num": 220600,
       "word": "安踏通报一总裁级人员涉嫌违法",
       "onboard_time": 1758036626,
@@ -243,12 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106003,
-      "num": 216037,
-      "word": "迪卡侬广告 处女地",
-      "onboard_time": 1758031050,
-      "rank": 26,
+      "raw_hot": 106926,
+      "num": 211559,
+      "word": "男童游乐场推落4岁女童后转身离去",
+      "onboard_time": 1758026304,
+      "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102985,
+      "num": 212123,
+      "word": "菲律宾在中国黄岩岛举白旗",
+      "onboard_time": 1758018624,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99765,
@@ -257,14 +289,6 @@
       "onboard_time": 1758010462,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97191,
-      "num": 109943,
-      "word": "新型抗失眠药首日售出8000多盒",
-      "onboard_time": 1758039924,
-      "rank": 40,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 96960,
@@ -283,20 +307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90993,
-      "num": 212123,
-      "word": "菲律宾在中国黄岩岛举白旗",
-      "onboard_time": 1758018624,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 90655,
-      "num": 213264,
-      "word": "联合国认定以色列犯种族灭绝罪",
-      "onboard_time": 1758018863,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 90322,
+      "num": 90322,
+      "word": "警方通报一女子假扮骑手卖惨诈骗",
+      "onboard_time": 1758063740,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89733,
@@ -313,14 +329,6 @@
       "onboard_time": 1758033329,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 82789,
-      "num": 211559,
-      "word": "男童游乐场推落4岁女童后转身离去",
-      "onboard_time": 1758026304,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80237,
@@ -344,6 +352,14 @@
       "word": "何运晨有工作室了",
       "onboard_time": 1758030268,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74169,
+      "num": 74169,
+      "word": "易烊千玺 下播最快的主包",
+      "onboard_time": 1758029909,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -395,6 +411,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68293,
+      "num": 75936,
+      "word": "偷40万男子骑一辆童车逃跑",
+      "onboard_time": 1758033630,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66034,
+      "num": 96721,
+      "word": "美国支持以色列进攻加沙城",
+      "onboard_time": 1758042979,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 65754,
+      "num": 96811,
+      "word": "美国警告日本",
+      "onboard_time": 1758023783,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61744,
       "num": 209378,
       "word": "卢昱晓劝架",
@@ -435,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58188,
+      "num": 67143,
+      "word": "周杰伦概念股入股鸟巢",
+      "onboard_time": 1758063139,
+      "rank": 29,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 57932,
       "num": 207642,
       "word": "陈梦积极备战全运会",
       "onboard_time": 1758034708,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57454,
+      "num": 57454,
+      "word": "内塔尼亚胡承认以色列受到了孤立",
+      "onboard_time": 1758053475,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54462,
@@ -459,32 +515,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53317,
-      "num": 53317,
-      "word": "内塔尼亚胡承认以色列受到了孤立",
-      "onboard_time": 1758053475,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 52198,
+      "num": 75202,
+      "word": "237天婴儿去世捐遗体父母发声",
+      "onboard_time": 1758035727,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 48182,
-      "num": 96811,
-      "word": "美国警告日本",
-      "onboard_time": 1758023783,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 47608,
+      "num": 75182,
+      "word": "初一学生打球遭同学袭击致脑出血",
+      "onboard_time": 1758037885,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 44689,
-      "num": 96721,
-      "word": "美国支持以色列进攻加沙城",
-      "onboard_time": 1758042979,
-      "rank": 42,
+      "raw_hot": 46469,
+      "num": 75632,
+      "word": "以军警告也门荷台达港居民紧急撤离",
+      "onboard_time": 1758044776,
+      "rank": 46,
       "category": "国际时政"
     },
     {
       "raw_hot": 44350,
-      "num": 44350,
+      "num": 46438,
       "word": "无意识的控糖行为",
       "onboard_time": 1758052394,
       "rank": 27,
@@ -499,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43829,
-      "num": 75936,
-      "word": "偷40万男子骑一辆童车逃跑",
-      "onboard_time": 1758033630,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43806,
       "num": 50108,
       "word": "于朦胧母亲希望回归平静生活",
@@ -515,20 +563,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35807,
-      "num": 75182,
-      "word": "初一学生打球遭同学袭击致脑出血",
-      "onboard_time": 1758037885,
-      "rank": 47,
+      "raw_hot": 42391,
+      "num": 75563,
+      "word": "小伙7万5抵押14万新车赎回要13万多",
+      "onboard_time": 1758049875,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33839,
-      "num": 75202,
-      "word": "237天婴儿去世捐遗体父母发声",
-      "onboard_time": 1758035727,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 38861,
+      "num": 75852,
+      "word": "短剧版仙剑三",
+      "onboard_time": 1758045795,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35544,
+      "num": 46374,
+      "word": "迪丽热巴女王变女孩太有生命力了",
+      "onboard_time": 1758054554,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 30941,
@@ -539,36 +595,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30092,
-      "num": 75563,
-      "word": "小伙7万5抵押14万新车赎回要13万多",
-      "onboard_time": 1758049875,
+      "raw_hot": 20082,
+      "num": 122498,
+      "word": "中美在西班牙就有关经贸问题举行会谈",
+      "onboard_time": 1758063861,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29036,
-      "num": 35382,
-      "word": "迪丽热巴女王变女孩太有生命力了",
-      "onboard_time": 1758054554,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27912,
-      "num": 75632,
-      "word": "以军警告也门荷台达港居民紧急撤离",
-      "onboard_time": 1758044776,
-      "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24771,
-      "num": 75852,
-      "word": "短剧版仙剑三",
-      "onboard_time": 1758045795,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 16944,
