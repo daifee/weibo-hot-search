@@ -1,0 +1,410 @@
+{
+  "runTime": 1758033822761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17737783,
+        "num": 17737783,
+        "word": "于朦胧系饮酒意外坠亡",
+        "onboard_time": 1758030448,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8172671,
+        "num": 8172671,
+        "word": "于朦胧后事已处理完",
+        "onboard_time": 1758030750,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20785,
+        "num": 2038944,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 524501,
+        "num": 524501,
+        "word": "从此电竞小说男主有脸了",
+        "onboard_time": 1758033210,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 485135,
+        "num": 485135,
+        "word": "高校通报男留学生与女生同住公寓",
+        "onboard_time": 1758028044,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 419404,
+        "num": 419404,
+        "word": "90后女子背疼容易饿确诊胃癌晚期",
+        "onboard_time": 1758033329,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2353426,
+        "num": 404233,
+        "word": "于朦胧母亲发文",
+        "onboard_time": 1758030508,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1310630,
+        "num": 377250,
+        "word": "易烊千玺微博直播",
+        "onboard_time": 1758023544,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343035,
+        "num": 343035,
+        "word": "朝鲜禁止使用汉堡包冰淇淋等词",
+        "onboard_time": 1758022404,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304497,
+        "num": 304497,
+        "word": "江西小炒 预制菜克星",
+        "onboard_time": 1758013583,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1263308,
+        "num": 303907,
+        "word": "警方已向于朦胧母亲通报调查情况",
+        "onboard_time": 1758031411,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769557,
+        "num": 303412,
+        "word": "真的不要在床头上挂东西了",
+        "onboard_time": 1758011662,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 502796,
+        "num": 302640,
+        "word": "杨幂 谢谢大家参加我的四十大寿",
+        "onboard_time": 1758011483,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418680,
+        "num": 301642,
+        "word": "迪丽热巴蓝白镂空高定裙",
+        "onboard_time": 1758021803,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410022,
+        "num": 300967,
+        "word": "易烊千玺 下播最快的主包",
+        "onboard_time": 1758029909,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347765,
+        "num": 299762,
+        "word": "张淼怡的脸",
+        "onboard_time": 1758009982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63106,
+        "num": 299160,
+        "word": "万元权益后奥迪E5进入22万级",
+        "onboard_time": 1758031894,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 66568,
+        "num": 298254,
+        "word": "享界S9T售价30万起6万限时权益",
+        "onboard_time": 1758033210,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45912,
+        "num": 297134,
+        "word": "享界S9T搭载华为旗舰9系黑科技",
+        "onboard_time": 1758031352,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138501,
+        "num": 296594,
+        "word": "家长称上海多校午餐虾仁鸡蛋发臭",
+        "onboard_time": 1758032370,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345217,
+        "num": 295727,
+        "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
+        "onboard_time": 1758033630,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334530,
+        "num": 294618,
+        "word": "成毅替身演员发文",
+        "onboard_time": 1758010462,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269038,
+        "num": 293701,
+        "word": "出生237天的他成为了大体老师",
+        "onboard_time": 1758033390,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316480,
+        "num": 293226,
+        "word": "女生坐火车卧铺打伞遮隐私",
+        "onboard_time": 1758022164,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134981,
+        "num": 292761,
+        "word": "江西小炒根本不给预制菜机会",
+        "onboard_time": 1758031173,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309593,
+        "num": 291598,
+        "word": "森林北大方承认还有个儿子",
+        "onboard_time": 1758021022,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187258,
+        "num": 291009,
+        "word": "享界联合国家地理发布最美自驾线",
+        "onboard_time": 1758029665,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260886,
+        "num": 290001,
+        "word": "纪念币",
+        "onboard_time": 1758032731,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 224196,
+        "num": 288696,
+        "word": "于朦胧母亲希望回归平静生活",
+        "onboard_time": 1758031292,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212822,
+        "num": 288575,
+        "word": "红舞鞋",
+        "onboard_time": 1758028885,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320198,
+        "num": 287805,
+        "word": "中国方便面打入美国监狱",
+        "onboard_time": 1758033329,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286982,
+        "num": 286982,
+        "word": "鹿晗 邪恶银渐层",
+        "onboard_time": 1758032611,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122873,
+        "num": 282103,
+        "word": "何运晨有工作室了",
+        "onboard_time": 1758030268,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277502,
+        "num": 277502,
+        "word": "菲律宾在中国黄岩岛举白旗",
+        "onboard_time": 1758018624,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254196,
+        "num": 254196,
+        "word": "打工人摸鱼痕迹留了1800年",
+        "onboard_time": 1758031652,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246405,
+        "num": 246405,
+        "word": "男童游乐场推落4岁女童后转身离去",
+        "onboard_time": 1758026304,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222683,
+        "num": 222683,
+        "word": "联合国认定以色列犯种族灭绝罪",
+        "onboard_time": 1758018863,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206822,
+        "num": 206822,
+        "word": "迪卡侬广告 处女地",
+        "onboard_time": 1758031050,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171542,
+        "num": 171542,
+        "word": "于朦胧母亲希望大家不再进行猜测",
+        "onboard_time": 1758032431,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21122,
+        "num": 170732,
+        "word": "代露娃 那她还是去上班吧",
+        "onboard_time": 1758033510,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175523,
+        "num": 170589,
+        "word": "卢昱晓劝架",
+        "onboard_time": 1758028766,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170397,
+        "num": 170397,
+        "word": "日本拒绝美国",
+        "onboard_time": 1758033689,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162357,
+        "num": 162357,
+        "word": "黄晓明 baby我们的感情好像跳楼机",
+        "onboard_time": 1757998706,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156183,
+        "num": 156183,
+        "word": "胖东来 10号揽收11号生产",
+        "onboard_time": 1758017842,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152124,
+        "num": 152124,
+        "word": "神似刘亦菲女孩3条视频涨粉20万",
+        "onboard_time": 1758021683,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147388,
+        "num": 147388,
+        "word": "成毅的真古人vs假古人",
+        "onboard_time": 1758033090,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144474,
+        "num": 144474,
+        "word": "美国警告日本",
+        "onboard_time": 1758023783,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100988,
+        "num": 141208,
+        "word": "偷40万男子骑一辆童车逃跑",
+        "onboard_time": 1758033630,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140867,
+        "num": 140867,
+        "word": "连麦六次失忆六次心动六次",
+        "onboard_time": 1758026066,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134540,
+        "num": 134540,
+        "word": "17号台风米娜或要来了",
+        "onboard_time": 1758031894,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大复兴势不可挡#"
+    }
+  }
+}
