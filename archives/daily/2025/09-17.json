@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758058625375,
+  "endTime": 1758061336630,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -123,6 +123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202232,
+      "num": 202232,
+      "word": "男子查个税意外发现两份工资流水",
+      "onboard_time": 1758046755,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191508,
       "num": 230513,
       "word": "于正虽然嘴碎但他护犊子啊",
@@ -161,14 +169,6 @@
       "onboard_time": 1758040345,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140828,
-      "num": 140828,
-      "word": "男子查个税意外发现两份工资流水",
-      "onboard_time": 1758046755,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136788,
@@ -275,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90239,
+      "num": 96822,
+      "word": "多方回应女童被废弃电线杆砸中身亡",
+      "onboard_time": 1758042918,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89733,
       "num": 212579,
       "word": "代露娃 那她还是去上班吧",
@@ -312,14 +320,6 @@
       "word": "江西小炒火遍全国的原因终于找到了",
       "onboard_time": 1758037404,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77850,
-      "num": 96822,
-      "word": "多方回应女童被废弃电线杆砸中身亡",
-      "onboard_time": 1758042918,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -403,20 +403,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 61310,
+      "num": 109943,
+      "word": "新型抗失眠药首日售出8000多盒",
+      "onboard_time": 1758039924,
+      "rank": 40,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 60350,
       "num": 209983,
       "word": "有一种治愈叫初秋",
       "onboard_time": 1758038184,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60105,
-      "num": 109943,
-      "word": "新型抗失眠药首日售出8000多盒",
-      "onboard_time": 1758039924,
-      "rank": 40,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 59538,
@@ -467,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44949,
+      "num": 44949,
+      "word": "内塔尼亚胡承认以色列受到了孤立",
+      "onboard_time": 1758053475,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44327,
       "num": 96766,
       "word": "不眠日",
@@ -491,12 +499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39362,
-      "num": 39362,
-      "word": "内塔尼亚胡承认以色列受到了孤立",
-      "onboard_time": 1758053475,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 37181,
+      "num": 37181,
+      "word": "无意识的控糖行为",
+      "onboard_time": 1758052394,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30941,
@@ -507,12 +515,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30152,
-      "num": 25842,
-      "word": "无意识的控糖行为",
-      "onboard_time": 1758052394,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 30116,
+      "num": 75936,
+      "word": "偷40万男子骑一辆童车逃跑",
+      "onboard_time": 1758033630,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26361,
+      "num": 75182,
+      "word": "初一学生打球遭同学袭击致脑出血",
+      "onboard_time": 1758037885,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25743,
+      "num": 75202,
+      "word": "237天婴儿去世捐遗体父母发声",
+      "onboard_time": 1758035727,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24771,
@@ -523,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24768,
+      "num": 29859,
+      "word": "迪丽热巴女王变女孩太有生命力了",
+      "onboard_time": 1758054554,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21328,
       "num": 75632,
       "word": "以军警告也门荷台达港居民紧急撤离",
@@ -531,19 +563,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19026,
-      "num": 75936,
-      "word": "偷40万男子骑一辆童车逃跑",
-      "onboard_time": 1758033630,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17760,
-      "num": 75202,
-      "word": "237天婴儿去世捐遗体父母发声",
-      "onboard_time": 1758035727,
-      "rank": 41,
+      "raw_hot": 20673,
+      "num": 75563,
+      "word": "小伙7万5抵押14万新车赎回要13万多",
+      "onboard_time": 1758049875,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -563,36 +587,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16097,
-      "num": 22729,
-      "word": "迪丽热巴女王变女孩太有生命力了",
-      "onboard_time": 1758054554,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 16077,
-      "num": 75182,
-      "word": "初一学生打球遭同学袭击致脑出血",
-      "onboard_time": 1758037885,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16005,
       "num": 17585,
       "word": "卢森堡计划承认巴勒斯坦国",
       "onboard_time": 1758051615,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14374,
-      "num": 75563,
-      "word": "小伙7万5抵押14万新车赎回要13万多",
-      "onboard_time": 1758049875,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10844,
