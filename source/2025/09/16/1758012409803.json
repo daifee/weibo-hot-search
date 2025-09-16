@@ -1,0 +1,410 @@
+{
+  "runTime": 1758012409803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1307674,
+        "num": 1307674,
+        "word": "成毅替身演员发文",
+        "onboard_time": 1758010462,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 941143,
+        "num": 941143,
+        "word": "多名男留学生混住在女生宿舍楼",
+        "onboard_time": 1758000805,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72099,
+        "num": 494279,
+        "word": "新疆70年",
+        "onboard_time": 1757996903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360657,
+        "num": 360657,
+        "word": "香港巴士司机遭铁棍插胸仍冷静停车",
+        "onboard_time": 1758003383,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360638,
+        "num": 360638,
+        "word": "小米17背屏",
+        "onboard_time": 1757991981,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386739,
+        "num": 360109,
+        "word": "成毅回应赴山海台词含糊",
+        "onboard_time": 1757998104,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357594,
+        "num": 357594,
+        "word": "王琳 血淋淋的大女主真人秀",
+        "onboard_time": 1757999123,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354529,
+        "num": 354529,
+        "word": "以色列威胁不到中国手机",
+        "onboard_time": 1757995465,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 337275,
+        "num": 337275,
+        "word": "12306 开票即候补",
+        "onboard_time": 1758010761,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51377,
+        "num": 332440,
+        "word": "女子接触氢氟酸死亡牵出三大疑点",
+        "onboard_time": 1758007702,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1438006,
+        "num": 325544,
+        "word": "张淼怡的脸",
+        "onboard_time": 1758009982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 929906,
+        "num": 322136,
+        "word": "森林北首晒儿子",
+        "onboard_time": 1758006382,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 814169,
+        "num": 307972,
+        "word": "杨幂 谢谢大家参加我的四十大寿",
+        "onboard_time": 1758011483,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739626,
+        "num": 302740,
+        "word": "黄晓明 baby我们的感情好像跳楼机",
+        "onboard_time": 1757998706,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601100,
+        "num": 295143,
+        "word": "上海1.2级地震",
+        "onboard_time": 1758006622,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 292723,
+        "num": 292723,
+        "word": "日方不要为虎作伥",
+        "onboard_time": 1758010342,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241799,
+        "num": 288540,
+        "word": "易烊千玺你小子搞催泪这套",
+        "onboard_time": 1758005963,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218335,
+        "num": 285037,
+        "word": "2025湾区升明月官宣",
+        "onboard_time": 1758003443,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 588949,
+        "num": 280195,
+        "word": "狗 我的碗出车祸了",
+        "onboard_time": 1758005002,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56464,
+        "num": 275616,
+        "word": "倪妮你要跳舞吗",
+        "onboard_time": 1758010163,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 685919,
+        "num": 271988,
+        "word": "微信聊天 实况",
+        "onboard_time": 1758007882,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270204,
+        "num": 270204,
+        "word": "研究生制止行凶男子被刺身亡",
+        "onboard_time": 1758006982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262840,
+        "num": 262840,
+        "word": "喜欢吃鱼的嘴真严啊",
+        "onboard_time": 1758011122,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 253072,
+        "num": 253072,
+        "word": "iOS26 丑",
+        "onboard_time": 1757989942,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221846,
+        "num": 221846,
+        "word": "生父称1600片泻药是继母减肥药",
+        "onboard_time": 1758009083,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211234,
+        "num": 211234,
+        "word": "这居然是小鬼",
+        "onboard_time": 1758011002,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205475,
+        "num": 205475,
+        "word": "广东早茶 预制",
+        "onboard_time": 1758007222,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187638,
+        "num": 187638,
+        "word": "姜潮录节目情绪崩溃到发飙",
+        "onboard_time": 1757993542,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178409,
+        "num": 178409,
+        "word": "王琳才是那个依萍",
+        "onboard_time": 1758011122,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178127,
+        "num": 178127,
+        "word": "店员回应丢弃未售面包是公司规定",
+        "onboard_time": 1758002723,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242099,
+        "num": 177150,
+        "word": "真的不要在床头上挂东西了",
+        "onboard_time": 1758011662,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 172375,
+        "num": 172375,
+        "word": "中国航母建设按需推进",
+        "onboard_time": 1758007942,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170097,
+        "num": 170097,
+        "word": "苹果中国区AirPods文案",
+        "onboard_time": 1758007162,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166610,
+        "num": 166610,
+        "word": "被虐死女孩生父为继母判死刑哭泣",
+        "onboard_time": 1758005122,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155840,
+        "num": 155840,
+        "word": "谁把内娱最缺心眼的拉来搞宅斗",
+        "onboard_time": 1758011603,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155271,
+        "num": 155271,
+        "word": "张远 销冠在哪都是销冠",
+        "onboard_time": 1758011781,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147980,
+        "num": 147980,
+        "word": "狗狗安乐死前看主人的最后一眼",
+        "onboard_time": 1758011241,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147670,
+        "num": 147670,
+        "word": "感觉30岁左右好有意思",
+        "onboard_time": 1758008903,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113108,
+        "num": 135054,
+        "word": "杜淳王灿兮医院陪床女儿",
+        "onboard_time": 1758012142,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38104,
+        "num": 131634,
+        "word": "女子踩氢氟酸身亡事发地有居民种菜",
+        "onboard_time": 1758011241,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130924,
+        "num": 130924,
+        "word": "辛芷蕾负重30斤武训",
+        "onboard_time": 1758009323,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124942,
+        "num": 124942,
+        "word": "给王嘉尔吓成范丞丞了",
+        "onboard_time": 1758007643,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124056,
+        "num": 124056,
+        "word": "赴山海洞洞鞋穿帮",
+        "onboard_time": 1757986522,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123168,
+        "num": 123168,
+        "word": "建议大家要学会看衣服面料",
+        "onboard_time": 1758009323,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120269,
+        "num": 120269,
+        "word": "老太太赶集时金镯被剪断手臂流血",
+        "onboard_time": 1757992403,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120090,
+        "num": 120090,
+        "word": "费启鸣复刻了四年前的自己",
+        "onboard_time": 1758011603,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119942,
+        "num": 119942,
+        "word": "姜妍拍大闸蟹拍出了悬疑感",
+        "onboard_time": 1758010404,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118681,
+        "num": 118681,
+        "word": "你的好骗程度到几级",
+        "onboard_time": 1758009862,
+        "rank": 47,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 52016,
+        "num": 115956,
+        "word": "迪拜富豪为何对中国车上头",
+        "onboard_time": 1758007463,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115856,
+        "num": 115856,
+        "word": "白敬亭逗我们笑自己嗷嗷哭",
+        "onboard_time": 1758012021,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须把全国统一大市场建设好#"
+    }
+  }
+}

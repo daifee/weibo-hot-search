@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1758011665709,
+  "endTime": 1758012409803,
   "band_list": [
     {
       "raw_hot": 2500117,
@@ -75,12 +75,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1438006,
+      "num": 325544,
+      "word": "张淼怡的脸",
+      "onboard_time": 1758009982,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1381240,
       "num": 568583,
       "word": "黄晓明 baby我们的感情好像跳楼机",
       "onboard_time": 1757998706,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1307674,
+      "num": 1307674,
+      "word": "成毅替身演员发文",
+      "onboard_time": 1758010462,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1260119,
@@ -123,14 +139,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1143511,
-      "num": 275988,
-      "word": "张淼怡的脸",
-      "onboard_time": 1758009982,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1126088,
       "num": 1126088,
       "word": "成毅 别浪费你的会员了",
@@ -153,14 +161,6 @@
       "onboard_time": 1757984242,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1031227,
-      "num": 1031227,
-      "word": "成毅替身演员发文",
-      "onboard_time": 1758010462,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 989119,
@@ -219,6 +219,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 814169,
+      "num": 307972,
+      "word": "杨幂 谢谢大家参加我的四十大寿",
+      "onboard_time": 1758011483,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802379,
       "num": 802379,
       "word": "上海网红面包店将未售面包直接丢弃",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 692023,
-      "num": 246835,
+      "num": 271988,
       "word": "微信聊天 实况",
       "onboard_time": 1758007882,
       "rank": 31,
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 601100,
+      "num": 295143,
+      "word": "上海1.2级地震",
+      "onboard_time": 1758006622,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 597142,
       "num": 429000,
       "word": "别再给皮肤喂满汉全席了",
@@ -305,14 +321,6 @@
       "onboard_time": 1757997865,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 566780,
-      "num": 264453,
-      "word": "上海1.2级地震",
-      "onboard_time": 1758006622,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 560937,
@@ -507,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337275,
+      "num": 337275,
+      "word": "12306 开票即候补",
+      "onboard_time": 1758010761,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327549,
       "num": 277405,
       "word": "12岁被虐致死女孩曾被关厕所17天",
@@ -563,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292723,
+      "num": 292723,
+      "word": "日方不要为虎作伥",
+      "onboard_time": 1758010342,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 283971,
       "num": 243169,
       "word": "女孩子黄体破裂后到底有多严重",
@@ -601,6 +625,14 @@
       "onboard_time": 1757991562,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262840,
+      "num": 262840,
+      "word": "喜欢吃鱼的嘴真严啊",
+      "onboard_time": 1758011122,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 260646,
@@ -656,6 +688,14 @@
       "word": "从发工资时间看公司实力",
       "onboard_time": 1757994924,
       "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 242099,
+      "num": 177150,
+      "word": "真的不要在床头上挂东西了",
+      "onboard_time": 1758011662,
+      "rank": 30,
       "category": "情感,休闲"
     },
     {
@@ -715,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221846,
+      "num": 221846,
+      "word": "生父称1600片泻药是继母减肥药",
+      "onboard_time": 1758009083,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221458,
       "num": 209504,
       "word": "孙颖莎觉得邱贻可拿自己当闺女看",
@@ -755,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211234,
+      "num": 211234,
+      "word": "这居然是小鬼",
+      "onboard_time": 1758011002,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209197,
       "num": 209197,
       "word": "马嘉祺丁程鑫一起看话剧",
@@ -777,6 +833,14 @@
       "onboard_time": 1757995704,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205475,
+      "num": 205475,
+      "word": "广东早茶 预制",
+      "onboard_time": 1758007222,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204914,
@@ -875,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194997,
-      "num": 194997,
-      "word": "广东早茶 预制",
-      "onboard_time": 1758007222,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193501,
       "num": 193501,
       "word": "科切拉阵容",
@@ -947,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188601,
-      "num": 188601,
-      "word": "喜欢吃鱼的嘴真严啊",
-      "onboard_time": 1758011122,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 187503,
       "num": 187503,
       "word": "那英马思纯一家人整整齐齐",
@@ -971,22 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183148,
-      "num": 183148,
-      "word": "杨幂 谢谢大家参加我的四十大寿",
-      "onboard_time": 1758011483,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181761,
-      "num": 278504,
-      "word": "日方不要为虎作伥",
-      "onboard_time": 1758010342,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 181674,
       "num": 181674,
       "word": "柯淳撒娇抱抱哄宁静",
@@ -995,12 +1027,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178291,
-      "num": 188764,
-      "word": "这居然是小鬼",
-      "onboard_time": 1758011002,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 178409,
+      "num": 254559,
+      "word": "王琳才是那个依萍",
+      "onboard_time": 1758011122,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 177303,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1757999185,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 169134,
-      "num": 169134,
-      "word": "生父称1600片泻药是继母减肥药",
-      "onboard_time": 1758009083,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167798,
@@ -1187,12 +1211,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155840,
+      "num": 155840,
+      "word": "谁把内娱最缺心眼的拉来搞宅斗",
+      "onboard_time": 1758011603,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155346,
       "num": 158569,
       "word": "虐死12岁女孩继母长期逼迫孩子互殴",
       "onboard_time": 1757993182,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155271,
+      "num": 155271,
+      "word": "张远 销冠在哪都是销冠",
+      "onboard_time": 1758011781,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155130,
@@ -1291,12 +1331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147980,
+      "num": 147980,
+      "word": "狗狗安乐死前看主人的最后一眼",
+      "onboard_time": 1758011241,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147911,
       "num": 155622,
       "word": "2025KPL年总大名单公布",
       "onboard_time": 1758007581,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147670,
+      "num": 147670,
+      "word": "感觉30岁左右好有意思",
+      "onboard_time": 1758008903,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 147273,
@@ -1363,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140012,
-      "num": 140012,
-      "word": "感觉30岁左右好有意思",
-      "onboard_time": 1758008903,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138776,
       "num": 193920,
       "word": "梁婷说签约演员里唯一赚钱的是尹正",
@@ -1411,28 +1459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132875,
-      "num": 132875,
-      "word": "狗狗安乐死前看主人的最后一眼",
-      "onboard_time": 1758011241,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131835,
       "num": 131835,
       "word": "王珏下车",
       "onboard_time": 1758004942,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131170,
-      "num": 258081,
-      "word": "12306 开票即候补",
-      "onboard_time": 1758010761,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129483,
@@ -1515,14 +1547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123518,
-      "num": 123518,
-      "word": "谁把内娱最缺心眼的拉来搞宅斗",
-      "onboard_time": 1758011603,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123169,
       "num": 123169,
       "word": "费启鸣复刻了四年前的自己",
@@ -1531,20 +1555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123168,
+      "num": 123168,
+      "word": "建议大家要学会看衣服面料",
+      "onboard_time": 1758009323,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 122632,
       "num": 243802,
       "word": "好吃的小众月饼",
       "onboard_time": 1757999663,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 121663,
-      "num": 121663,
-      "word": "建议大家要学会看衣服面料",
-      "onboard_time": 1758009323,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 121266,
@@ -1619,12 +1643,28 @@
       "category": "游戏,幽默"
     },
     {
+      "raw_hot": 115856,
+      "num": 115856,
+      "word": "白敬亭逗我们笑自己嗷嗷哭",
+      "onboard_time": 1758012021,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114244,
       "num": 114244,
       "word": "TikTok问题",
       "onboard_time": 1757976378,
       "rank": 26,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 113108,
+      "num": 135054,
+      "word": "杜淳王灿兮医院陪床女儿",
+      "onboard_time": 1758012142,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 111546,
@@ -1964,7 +2004,7 @@
     },
     {
       "raw_hot": 58816,
-      "num": 249417,
+      "num": 275616,
       "word": "倪妮你要跳舞吗",
       "onboard_time": 1758010163,
       "rank": 19,
@@ -2067,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51377,
+      "num": 332440,
+      "word": "女子接触氢氟酸死亡牵出三大疑点",
+      "onboard_time": 1758007702,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46467,
       "num": 67115,
       "word": "辛芷蕾梁婷当年的事情彼此各有难处",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1757978661,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 41780,
-      "num": 254559,
-      "word": "王琳才是那个依萍",
-      "onboard_time": 1758011122,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 41732,
@@ -2123,20 +2163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38104,
+      "num": 140814,
+      "word": "女子踩氢氟酸身亡事发地有居民种菜",
+      "onboard_time": 1758011241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37831,
       "num": 507756,
       "word": "纯电续航350公里智能超混MPV",
       "onboard_time": 1757999066,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37639,
-      "num": 140814,
-      "word": "女子踩氢氟酸身亡事发地有居民种菜",
-      "onboard_time": 1758011241,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37175,
