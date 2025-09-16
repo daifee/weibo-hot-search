@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758041153396,
+  "endTime": 1758043340308,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1757947526,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481430,
+      "num": 515935,
+      "word": "汪苏泷",
+      "onboard_time": 1758041182,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 479950,
@@ -5835,6 +5843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145750,
+      "num": 214828,
+      "word": "奥斯卡回应恋综争议",
+      "onboard_time": 1758040345,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145649,
       "num": 170437,
       "word": "王鹤润青衣预备役",
@@ -7387,6 +7403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113531,
+      "num": 215454,
+      "word": "晚睡晚起让人长期处于炎症状态",
+      "onboard_time": 1758040345,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113473,
       "num": 113473,
       "word": "刘宇宁厨艺",
@@ -7833,14 +7857,6 @@
       "onboard_time": 1757932642,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104408,
-      "num": 215454,
-      "word": "晚睡晚起让人长期处于炎症状态",
-      "onboard_time": 1758040345,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 103871,
@@ -8435,14 +8451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92239,
-      "num": 214828,
-      "word": "奥斯卡回应恋综争议",
-      "onboard_time": 1758040345,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92025,
       "num": 106628,
       "word": "王楚钦11比8张禹珍",
@@ -8915,6 +8923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77385,
+      "num": 214032,
+      "word": "西藏的电将0.009秒闪送到广东",
+      "onboard_time": 1758040703,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76853,
       "num": 76853,
       "word": "牛下班了马不见了",
@@ -9337,14 +9353,6 @@
       "onboard_time": 1757822361,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 61078,
-      "num": 214032,
-      "word": "西藏的电将0.009秒闪送到广东",
-      "onboard_time": 1758040703,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60853,
@@ -9859,6 +9867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44327,
+      "num": 96766,
+      "word": "不眠日",
+      "onboard_time": 1757956518,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44196,
       "num": 244397,
       "word": "MPV冠军首选岚图梦想家",
@@ -9873,6 +9889,14 @@
       "onboard_time": 1757870297,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43911,
+      "num": 96755,
+      "word": "新型抗失眠药首日售出8000多盒",
+      "onboard_time": 1758039924,
+      "rank": 40,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 43787,
@@ -9995,6 +10019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40375,
+      "num": 96721,
+      "word": "美国支持以色列进攻加沙城",
+      "onboard_time": 1758042979,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40120,
       "num": 136317,
       "word": "金靖闹刘宇宁笑梦回开推",
@@ -10016,6 +10048,14 @@
       "word": "3名间谍冒充外卖员钓鱼佬",
       "onboard_time": 1757913802,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38502,
+      "num": 96822,
+      "word": "多方回应女童被废弃电线杆砸中身亡",
+      "onboard_time": 1758042918,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -10257,14 +10297,6 @@
       "onboard_time": 1757858846,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 29464,
-      "num": 95550,
-      "word": "不眠日",
-      "onboard_time": 1757956518,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 29364,
