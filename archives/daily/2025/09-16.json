@@ -1,7 +1,15 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1758030355033,
+  "endTime": 1758032745051,
   "band_list": [
+    {
+      "raw_hot": 20810339,
+      "num": 20810339,
+      "word": "于朦胧系饮酒意外坠亡",
+      "onboard_time": 1758030448,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 10966815,
       "num": 10966815,
@@ -11,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7917279,
+      "num": 7917279,
+      "word": "于朦胧后事已处理完",
+      "onboard_time": 1758030750,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2500117,
       "num": 2500117,
       "word": "孙颖莎清华读研",
       "onboard_time": 1757994142,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2358558,
+      "num": 387808,
+      "word": "于朦胧母亲发文",
+      "onboard_time": 1758030508,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 2144234,
@@ -113,6 +137,14 @@
       "onboard_time": 1757998706,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1320984,
+      "num": 323786,
+      "word": "警方已向于朦胧母亲通报调查情况",
+      "onboard_time": 1758031411,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1314976,
@@ -595,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411288,
+      "num": 411288,
+      "word": "高校通报男留学生与女生同住公寓",
+      "onboard_time": 1758028044,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 407691,
       "num": 424367,
       "word": "今起常温纯牛奶禁加复原乳",
@@ -633,14 +673,6 @@
       "onboard_time": 1757992403,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 374847,
-      "num": 374847,
-      "word": "高校通报男留学生与女生同住公寓",
-      "onboard_time": 1758028044,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 372751,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 338960,
-      "num": 244050,
+      "num": 276334,
       "word": "红舞鞋",
       "onboard_time": 1758028885,
       "rank": 15,
@@ -843,20 +875,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264288,
+      "num": 264288,
+      "word": "男童游乐场推落4岁女童后转身离去",
+      "onboard_time": 1758026304,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262892,
       "num": 427558,
       "word": "那英5个字总结张晚意",
       "onboard_time": 1757991562,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261489,
-      "num": 226800,
-      "word": "男童游乐场推落4岁女童后转身离去",
-      "onboard_time": 1758026304,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260646,
@@ -931,6 +963,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 240445,
+      "num": 261854,
+      "word": "于朦胧母亲希望回归平静生活",
+      "onboard_time": 1758031292,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240268,
       "num": 240268,
       "word": "韩咬断性侵者舌头女子将向国家索赔",
@@ -977,6 +1017,14 @@
       "onboard_time": 1758028044,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227757,
+      "num": 259740,
+      "word": "迪卡侬广告 处女地",
+      "onboard_time": 1758031050,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227086,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1757924123,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215126,
+      "num": 324500,
+      "word": "打工人摸鱼痕迹留了1800年",
+      "onboard_time": 1758031652,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214644,
@@ -1244,7 +1300,7 @@
     },
     {
       "raw_hot": 197570,
-      "num": 179602,
+      "num": 259818,
       "word": "享界联合国家地理发布最美自驾线",
       "onboard_time": 1758029665,
       "rank": 28,
@@ -1328,6 +1384,14 @@
       "word": "王源工作室成立8周年",
       "onboard_time": 1758026185,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190638,
+      "num": 190638,
+      "word": "罗伯特雷德福去世",
+      "onboard_time": 1758032252,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1424,6 +1488,14 @@
       "word": "神似刘亦菲女孩3条视频涨粉20万",
       "onboard_time": 1758021683,
       "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 179050,
+      "num": 179050,
+      "word": "安酱 杨某人",
+      "onboard_time": 1758031352,
+      "rank": 33,
       "category": "网红"
     },
     {
@@ -1625,6 +1697,14 @@
       "onboard_time": 1758027564,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163387,
+      "num": 163387,
+      "word": "于朦胧母亲希望大家不再进行猜测",
+      "onboard_time": 1758032431,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 162972,
@@ -1963,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144832,
+      "num": 143032,
+      "word": "穆祉丞比心照",
+      "onboard_time": 1758032012,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144014,
       "num": 144014,
       "word": "辛芷蕾负重30斤武训",
@@ -1987,12 +2075,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143145,
+      "num": 143145,
+      "word": "家长称上海多校午餐虾仁鸡蛋发臭",
+      "onboard_time": 1758032370,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141902,
+      "num": 141902,
+      "word": "何运晨有工作室了",
+      "onboard_time": 1758030268,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141859,
       "num": 157788,
       "word": "给王嘉尔吓成范丞丞了",
       "onboard_time": 1758007643,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141375,
+      "num": 141375,
+      "word": "鹿晗 邪恶银渐层",
+      "onboard_time": 1758032611,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 138776,
@@ -2017,6 +2129,14 @@
       "onboard_time": 1757996483,
       "rank": 37,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 137333,
+      "num": 137333,
+      "word": "江西小炒根本不给预制菜机会",
+      "onboard_time": 1758031173,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136972,
@@ -2089,6 +2209,14 @@
       "onboard_time": 1758004942,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131573,
+      "num": 131573,
+      "word": "17号台风米娜或要来了",
+      "onboard_time": 1758031894,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130956,
@@ -2192,14 +2320,6 @@
       "word": "KiMi已经16岁了",
       "onboard_time": 1757920342,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 125377,
-      "num": 125377,
-      "word": "何运晨有工作室了",
-      "onboard_time": 1758030268,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2587,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97157,
+      "num": 212506,
+      "word": "面包店回应未售面包直接丢弃",
+      "onboard_time": 1758031292,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97064,
       "num": 149681,
       "word": "苹果回应iOS26掉电快",
@@ -2609,6 +2737,14 @@
       "onboard_time": 1757996903,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91690,
+      "num": 304827,
+      "word": "迪卡侬已删除争议文案",
+      "onboard_time": 1758031292,
+      "rank": 19,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 90330,
@@ -2987,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53422,
+      "num": 307916,
+      "word": "享界S9T搭载华为旗舰9系黑科技",
+      "onboard_time": 1758031352,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53207,
       "num": 150556,
       "word": "李宁户外这件三合一让我装到了",
@@ -3113,6 +3257,14 @@
       "onboard_time": 1758003983,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39382,
+      "num": 307108,
+      "word": "万元权益后奥迪E5进入22万级",
+      "onboard_time": 1758031894,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 38104,
@@ -3244,7 +3396,7 @@
     },
     {
       "raw_hot": 29315,
-      "num": 1248450,
+      "num": 1378745,
       "word": "一系列重要成果亮相2025年国家网络安全宣传周",
       "onboard_time": 1757930482,
       "rank": 2,
@@ -3377,6 +3529,9 @@
     },
     {
       "word": "#必须把全国统一大市场建设好#"
+    },
+    {
+      "word": "#伟大复兴势不可挡#"
     }
   ]
 }
