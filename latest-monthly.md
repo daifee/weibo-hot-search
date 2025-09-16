@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 11:01:11
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 11:10:29
 </p>
 </blockquote>
 <p>
@@ -1473,6 +1473,18 @@ NASA明确发现火星生命迹象（热度：1280374）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%85%AC%E5%9B%AD%E8%87%AA%E7%BC%A2%23" target="weibo">
+成都通报一女子公园自缢（热度：1249771）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E4%BA%8C%E9%85%B8%E8%8F%9C%E9%B1%BC%E4%B8%8B%E5%8D%95%E5%88%B0%E4%B8%8A%E9%B1%BC%E4%BB%856%E5%88%86%E9%92%9F%23" target="weibo">
+太二酸菜鱼下单到上鱼仅6分钟（热度：1247884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%96%91%E6%9B%BE%E5%9B%A0%E4%BA%8C%E7%BA%A7%E6%B3%84%E5%AF%86%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
 王腾疑曾因二级泄密被处分（热度：1242539）
 </a>
@@ -1815,6 +1827,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：1092733）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E7%BA%BF%E4%B8%8B%E9%97%A8%E5%BA%97%E5%BA%97%E9%95%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
 西贝线下门店店长发声（热度：1092422）
 </a>
@@ -1877,12 +1895,6 @@ wtt（热度：1154727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%87%87%E9%92%B0%E9%A6%96%E6%99%92%E4%B8%8E%E8%80%81%E5%85%AC%E5%90%88%E7%85%A7%23" target="weibo">
 杨采钰首晒与老公合照（热度：1070066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：1067273）
 </a>
 </li>
 
@@ -2307,12 +2319,6 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E4%BA%8C%E9%85%B8%E8%8F%9C%E9%B1%BC%E4%B8%8B%E5%8D%95%E5%88%B0%E4%B8%8A%E9%B1%BC%E4%BB%856%E5%88%86%E9%92%9F%23" target="weibo">
-太二酸菜鱼下单到上鱼仅6分钟（热度：920328）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E4%B9%9F%E6%9C%89%E5%B7%A5%E8%B5%84%23" target="weibo">
 和平鸽也有工资（热度：918878）
 </a>
@@ -2399,12 +2405,6 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E5%92%8C%E9%83%A8%E9%98%9F%23" target="weibo">
 维和部队（热度：892992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%85%AC%E5%9B%AD%E8%87%AA%E7%BC%A2%23" target="weibo">
-成都通报一女子公园自缢（热度：892281）
 </a>
 </li>
 
@@ -2879,6 +2879,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%BB%93%E6%9D%9F%E6%8B%86%E5%BA%A7%E6%A4%85%23" target="weibo">
 阅兵结束拆座椅（热度：802561）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iOS26%20%E4%B8%91%23" target="weibo">
+iOS26 丑（热度：802087）
 </a>
 </li>
 
@@ -3521,6 +3527,12 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9%E5%9C%A89%E6%9C%883%E6%97%A5%E4%B8%BE%E8%A1%8C%E9%98%85%E5%85%B5%23" target="weibo">
 为什么选择在9月3日举行阅兵（热度：693975）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%E8%83%8C%E5%B1%8F%23" target="weibo">
+小米17背屏（热度：693815）
 </a>
 </li>
 
@@ -5949,12 +5961,6 @@ BLG对战iG（热度：455460）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iOS26%20%E4%B8%91%23" target="weibo">
-iOS26 丑（热度：450185）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23" target="weibo">
 天安门广场最新画面（热度：449997）
 </a>
@@ -6005,12 +6011,6 @@ iOS26 丑（热度：450185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%87%8C%E5%9F%83%E9%87%8C%E6%A3%AE%E6%88%90%E5%85%A8%E7%90%83%E9%A6%96%E5%AF%8C%23" target="weibo">
 拉里埃里森成全球首富（热度：448620）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%23" target="weibo">
-上海暴雨（热度：448397）
 </a>
 </li>
 
