@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 17:27:51
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 17:41:18
 </p>
 </blockquote>
 <p>
@@ -3405,6 +3405,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E7%9B%B4%E6%92%AD%23" target="weibo">
+易烊千玺 直播（热度：732761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E8%BF%99%E4%B8%AA%E5%AD%97%E5%B1%85%E7%84%B6%E7%BB%84%E4%B8%8D%E4%BA%86%E4%BB%BB%E4%BD%95%E8%AF%8D%23" target="weibo">
 浙这个字居然组不了任何词（热度：731675）
 </a>
@@ -4347,6 +4353,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%20%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5%23" target="weibo">
+12306 开票即候补（热度：599443）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86%23" target="weibo">
 淘宝崩了（热度：598578）
 </a>
@@ -4499,12 +4511,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%98%B4%E5%93%A5%E5%A4%8D%E6%92%AD%E5%9C%A8%E7%BA%BF%E4%BA%BA%E6%95%B0%E8%B6%8510%E4%B8%87%23" target="weibo">
 三只羊嘴哥复播在线人数超10万（热度：583819）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%20%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5%23" target="weibo">
-12306 开票即候补（热度：583632）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17系列价格已破发（热度：467733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%AE%9D%E6%A0%BC%E4%B8%BD%23" target="weibo">
 刘亦菲 宝格丽（热度：458095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC20%E6%A8%A1%E5%9E%8B%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8175%25%23" target="weibo">
-歼20模型销量暴涨175%（热度：456739）
 </a>
 </li>
 
