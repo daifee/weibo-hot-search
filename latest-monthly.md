@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 11:10:29
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 11:36:02
 </p>
 </blockquote>
 <p>
@@ -657,6 +657,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%E8%83%8C%E5%B1%8F%23" target="weibo">
+小米17背屏（热度：1969826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%A8%E7%AC%A8%20%E4%BD%A0%E6%98%AF%E5%86%9B%E7%8A%AC%23" target="weibo">
 笨笨 你是军犬（热度：1967139）
 </a>
@@ -975,6 +981,12 @@ miumiu签了三个00花（热度：1748229）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%85%AC%E5%9B%AD%E8%87%AA%E7%BC%A2%23" target="weibo">
+成都通报一女子公园自缢（热度：1614108）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E8%A2%AB%E6%B2%89%E5%B0%B8%E8%83%B8%E9%83%A8%E5%81%87%E4%BD%93%E5%8D%B0%E4%B8%AD%E6%96%87%23" target="weibo">
 女子在泰被沉尸胸部假体印中文（热度：1609486）
 </a>
@@ -1109,6 +1121,12 @@ miumiu签了三个00花（热度：1748229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%B1%E4%BB%AC%E6%9C%89%E9%A3%9E%E9%A3%9E%E9%A3%9E%E9%A3%9E%E9%A3%9E%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A3%9E%E6%9C%BA%E4%BA%86%23" target="weibo">
 咱们有飞飞飞飞飞不完的飞机了（热度：1503450）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iOS26%20%E4%B8%91%23" target="weibo">
+iOS26 丑（热度：1502479）
 </a>
 </li>
 
@@ -1473,12 +1491,6 @@ NASA明确发现火星生命迹象（热度：1280374）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%85%AC%E5%9B%AD%E8%87%AA%E7%BC%A2%23" target="weibo">
-成都通报一女子公园自缢（热度：1249771）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E4%BA%8C%E9%85%B8%E8%8F%9C%E9%B1%BC%E4%B8%8B%E5%8D%95%E5%88%B0%E4%B8%8A%E9%B1%BC%E4%BB%856%E5%88%86%E9%92%9F%23" target="weibo">
 太二酸菜鱼下单到上鱼仅6分钟（热度：1247884）
 </a>
@@ -1601,6 +1613,12 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A%23" target="weibo">
 罗永浩直播预告（热度：1195338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：1192759）
 </a>
 </li>
 
@@ -1823,12 +1841,6 @@ wtt（热度：1154727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%23" target="weibo">
 微信更新（热度：1096068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：1092733）
 </a>
 </li>
 
@@ -2883,12 +2895,6 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iOS26%20%E4%B8%91%23" target="weibo">
-iOS26 丑（热度：802087）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%BC%A0%E5%A9%A7%E4%BB%AA%20%E5%8F%8C%E7%94%9F%E8%8A%B1%23" target="weibo">
 李兰迪张婧仪 双生花（热度：801506）
 </a>
@@ -3527,12 +3533,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9%E5%9C%A89%E6%9C%883%E6%97%A5%E4%B8%BE%E8%A1%8C%E9%98%85%E5%85%B5%23" target="weibo">
 为什么选择在9月3日举行阅兵（热度：693975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%E8%83%8C%E5%B1%8F%23" target="weibo">
-小米17背屏（热度：693815）
 </a>
 </li>
 
@@ -4337,6 +4337,12 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%91%BD%E6%80%8E%E4%B9%88%E8%83%BD%E5%A5%BD%E6%88%90%E8%BF%99%E6%A0%B7%E5%95%8A%23" target="weibo">
 一个人的命怎么能好成这样啊（热度：585886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E7%BB%99%E7%9A%AE%E8%82%A4%E5%96%82%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E4%BA%86%23" target="weibo">
+别再给皮肤喂满汉全席了（热度：585707）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG对战iG（热度：455460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%91%B2%E8%8A%B1%23" target="weibo">
 恭喜东北大呲花（热度：448675）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%87%8C%E5%9F%83%E9%87%8C%E6%A3%AE%E6%88%90%E5%85%A8%E7%90%83%E9%A6%96%E5%AF%8C%23" target="weibo">
-拉里埃里森成全球首富（热度：448620）
 </a>
 </li>
 

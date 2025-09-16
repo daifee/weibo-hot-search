@@ -1,14 +1,38 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1757992229117,
+  "endTime": 1757993762138,
   "band_list": [
     {
+      "raw_hot": 1969826,
+      "num": 1969826,
+      "word": "小米17背屏",
+      "onboard_time": 1757991981,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1643520,
-      "num": 392763,
+      "num": 434214,
       "word": "成毅方全网取证绝不姑息",
       "onboard_time": 1757985142,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1614108,
+      "num": 1249771,
+      "word": "成都通报一女子公园自缢",
+      "onboard_time": 1757990182,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1502479,
+      "num": 1502479,
+      "word": "iOS26 丑",
+      "onboard_time": 1757989942,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 1457421,
@@ -27,14 +51,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1249771,
-      "num": 1249771,
-      "word": "成都通报一女子公园自缢",
-      "onboard_time": 1757990182,
-      "rank": 5,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 1247884,
       "num": 1247884,
       "word": "太二酸菜鱼下单到上鱼仅6分钟",
@@ -43,8 +59,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1192759,
+      "num": 912824,
+      "word": "金价",
+      "onboard_time": 1757986402,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1183092,
-      "num": 391783,
+      "num": 431888,
       "word": "陈乔恩晒粉红云海悼念乔任梁",
       "onboard_time": 1757984063,
       "rank": 11,
@@ -57,14 +81,6 @@
       "onboard_time": 1757947646,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1092733,
-      "num": 912824,
-      "word": "金价",
-      "onboard_time": 1757986402,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 1047302,
@@ -91,16 +107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 802087,
-      "num": 802087,
-      "word": "iOS26 丑",
-      "onboard_time": 1757989942,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 768685,
-      "num": 390454,
+      "num": 410864,
       "word": "她们的鞋没有足弓支撑",
       "onboard_time": 1757983883,
       "rank": 12,
@@ -123,20 +131,20 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 693815,
-      "num": 693815,
-      "word": "小米17背屏",
-      "onboard_time": 1757991981,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 640417,
       "num": 640417,
       "word": "赴山海 剧本穿帮",
       "onboard_time": 1757941463,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 585707,
+      "num": 429000,
+      "word": "别再给皮肤喂满汉全席了",
+      "onboard_time": 1757990782,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 583819,
@@ -179,6 +187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 442503,
+      "num": 442503,
+      "word": "以色列坦克已入城",
+      "onboard_time": 1757989582,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 431716,
       "num": 385907,
       "word": "辛芷蕾 梁婷",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 407691,
-      "num": 407691,
+      "num": 424367,
       "word": "今起常温纯牛奶禁加复原乳",
       "onboard_time": 1757987063,
       "rank": 44,
@@ -211,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 395154,
-      "num": 397226,
-      "word": "以色列坦克已入城",
-      "onboard_time": 1757989582,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 385232,
+      "num": 385232,
+      "word": "老太太赶集时金镯被剪断手臂流血",
+      "onboard_time": 1757992403,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372751,
@@ -225,6 +241,14 @@
       "onboard_time": 1757933182,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367734,
+      "num": 440587,
+      "word": "外国人演我见到秦岚",
+      "onboard_time": 1757990483,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 358834,
@@ -267,14 +291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 330675,
-      "num": 387437,
-      "word": "外国人演我见到秦岚",
-      "onboard_time": 1757990483,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327549,
       "num": 277405,
       "word": "12岁被虐致死女孩曾被关厕所17天",
@@ -299,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302636,
-      "num": 302636,
-      "word": "别再给皮肤喂满汉全席了",
-      "onboard_time": 1757990782,
-      "rank": 16,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 294086,
       "num": 294086,
       "word": "女子踩到氢氟酸现场已无害化处置",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 275937,
-      "num": 275937,
+      "num": 420688,
       "word": "星品",
       "onboard_time": 1757988081,
       "rank": 15,
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247445,
+      "num": 427558,
+      "word": "那英5个字总结张晚意",
+      "onboard_time": 1757991562,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235166,
       "num": 235166,
       "word": "菲律宾",
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 230627,
-      "num": 230627,
+      "num": 414040,
       "word": "点过日料外卖的人天塌了",
       "onboard_time": 1757989582,
       "rank": 19,
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199813,
+      "num": 199813,
+      "word": "恋与深空",
+      "onboard_time": 1757993061,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195763,
       "num": 195763,
       "word": "杨幂走红毯带着公司艺人增加曝光",
@@ -475,20 +499,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183218,
-      "num": 183218,
+      "raw_hot": 188835,
+      "num": 207695,
       "word": "张一山新剧又干上卧底了",
       "onboard_time": 1757991323,
       "rank": 44,
       "category": "剧集"
     },
     {
-      "raw_hot": 180312,
-      "num": 180312,
-      "word": "那英5个字总结张晚意",
-      "onboard_time": 1757991562,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 178428,
+      "num": 206373,
+      "word": "12306抢票",
+      "onboard_time": 1757993122,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175693,
+      "num": 200677,
+      "word": "赴山海穿帮画面已微调",
+      "onboard_time": 1757991323,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172883,
+      "num": 172883,
+      "word": "iPhone充电坏习惯",
+      "onboard_time": 1757992703,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 170597,
@@ -504,6 +544,14 @@
       "word": "父母情绪不稳定孩子切忌自责",
       "onboard_time": 1757943865,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164969,
+      "num": 164969,
+      "word": "大妈用化肥袋打包高铁坐垫",
+      "onboard_time": 1757992103,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -531,6 +579,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 160483,
+      "num": 160483,
+      "word": "这居然是刘忻",
+      "onboard_time": 1757992041,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158839,
+      "num": 158839,
+      "word": "姜潮录节目情绪崩溃到发飙",
+      "onboard_time": 1757993542,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158697,
       "num": 194060,
       "word": "肖战和谁搭档会让你眼前一亮",
@@ -545,14 +609,6 @@
       "onboard_time": 1757948185,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153483,
-      "num": 155687,
-      "word": "赴山海穿帮画面已微调",
-      "onboard_time": 1757991323,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 150186,
@@ -611,6 +667,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137831,
+      "num": 137831,
+      "word": "黄子韬让徐艺洋喊自己子韬哥哥",
+      "onboard_time": 1757993662,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137768,
+      "num": 137768,
+      "word": "安踏8个月辞退74名严重舞弊员工",
+      "onboard_time": 1757993542,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134592,
       "num": 134592,
       "word": "四六级报名",
@@ -619,12 +691,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134171,
-      "num": 134171,
-      "word": "大妈用化肥袋打包高铁坐垫",
-      "onboard_time": 1757992103,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 129849,
+      "num": 129849,
+      "word": "心动的信号 时尚芭莎",
+      "onboard_time": 1757993723,
+      "rank": 48,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 127696,
@@ -652,7 +724,7 @@
     },
     {
       "raw_hot": 121120,
-      "num": 230055,
+      "num": 413269,
       "word": "京东月黑风高秒好酒",
       "onboard_time": 1757991981,
       "rank": 25,
@@ -697,6 +769,14 @@
       "onboard_time": 1757984542,
       "rank": 38,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 115308,
+      "num": 158569,
+      "word": "虐死12岁女孩继母长期逼迫孩子互殴",
+      "onboard_time": 1757993182,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114244,
@@ -891,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71047,
+      "num": 156706,
+      "word": "入室抢婴案母亲求判人贩子死刑",
+      "onboard_time": 1757992822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70592,
       "num": 193526,
       "word": "闫妮岁月不败美人具像化了",
@@ -904,6 +992,14 @@
       "word": "河北一高中收2700元教辅费被质疑",
       "onboard_time": 1757962574,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67846,
+      "num": 145301,
+      "word": "女孩被继母虐待致死案开庭",
+      "onboard_time": 1757992943,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1083,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30766,
+      "num": 157061,
+      "word": "魏大勋赵今麦跳华尔兹路透",
+      "onboard_time": 1757992703,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30322,
       "num": 66753,
       "word": "萧秋水被做局了",
@@ -1129,6 +1233,14 @@
       "onboard_time": 1757963775,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19815,
+      "num": 155373,
+      "word": "游客遇药房天价洁面粉陷阱",
+      "onboard_time": 1757993182,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16265,
