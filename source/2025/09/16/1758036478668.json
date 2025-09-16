@@ -1,0 +1,410 @@
+{
+  "runTime": 1758036478668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12705108,
+        "num": 12705108,
+        "word": "于朦胧系饮酒意外坠亡",
+        "onboard_time": 1758030448,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815246,
+        "num": 815246,
+        "word": "日本拒绝美国",
+        "onboard_time": 1758033689,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8670,
+        "num": 695352,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 638326,
+        "num": 638326,
+        "word": "90后女子背疼容易饿确诊胃癌晚期",
+        "onboard_time": 1758033329,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1426497,
+        "num": 561822,
+        "word": "于朦胧坠亡事件流言应止于真相",
+        "onboard_time": 1758034408,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301833,
+        "num": 301833,
+        "word": "从此电竞小说男主有脸了",
+        "onboard_time": 1758033210,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265670,
+        "num": 265670,
+        "word": "出生237天的他成为了大体老师",
+        "onboard_time": 1758033390,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176103,
+        "num": 176103,
+        "word": "菲律宾在中国黄岩岛举白旗",
+        "onboard_time": 1758018624,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154700,
+        "num": 154700,
+        "word": "17号台风米娜或要来了",
+        "onboard_time": 1758031894,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149306,
+        "num": 149306,
+        "word": "成毅的真古人vs假古人",
+        "onboard_time": 1758033090,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3987457,
+        "num": 149123,
+        "word": "于朦胧后事已处理完",
+        "onboard_time": 1758030750,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571946,
+        "num": 148703,
+        "word": "真的不要在床头上挂东西了",
+        "onboard_time": 1758011662,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 1084195,
+        "num": 148481,
+        "word": "警方已向于朦胧母亲通报调查情况",
+        "onboard_time": 1758031411,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492504,
+        "num": 148075,
+        "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
+        "onboard_time": 1758033630,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999262,
+        "num": 147728,
+        "word": "于朦胧母亲发文",
+        "onboard_time": 1758030508,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412983,
+        "num": 147452,
+        "word": "杨幂 谢谢大家参加我的四十大寿",
+        "onboard_time": 1758011483,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68064,
+        "num": 147080,
+        "word": "享界S9T售价30万起6万限时权益",
+        "onboard_time": 1758033210,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 300049,
+        "num": 146825,
+        "word": "鹿晗 邪恶银渐层",
+        "onboard_time": 1758032611,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 273532,
+        "num": 146475,
+        "word": "迪丽热巴蓝白镂空高定裙",
+        "onboard_time": 1758021803,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146278,
+        "num": 146278,
+        "word": "纪念币",
+        "onboard_time": 1758032731,
+        "rank": 19,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 436745,
+        "num": 145625,
+        "word": "易烊千玺微博直播",
+        "onboard_time": 1758023544,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298706,
+        "num": 145218,
+        "word": "成毅替身演员发文",
+        "onboard_time": 1758010462,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248398,
+        "num": 144086,
+        "word": "张淼怡的脸",
+        "onboard_time": 1758009982,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224325,
+        "num": 142930,
+        "word": "女生坐火车卧铺打伞遮隐私",
+        "onboard_time": 1758022164,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186910,
+        "num": 141428,
+        "word": "迪卡侬广告 处女地",
+        "onboard_time": 1758031050,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141148,
+        "num": 141148,
+        "word": "于朦胧母亲希望回归平静生活",
+        "onboard_time": 1758031292,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135723,
+        "num": 135723,
+        "word": "神似刘亦菲女孩3条视频涨粉20万",
+        "onboard_time": 1758021683,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114795,
+        "num": 135368,
+        "word": "红舞鞋",
+        "onboard_time": 1758028885,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324254,
+        "num": 133996,
+        "word": "易烊千玺 老公你说句话啊",
+        "onboard_time": 1758025348,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26698,
+        "num": 132669,
+        "word": "入室抢婴案受害者姜甲儒将出庭",
+        "onboard_time": 1758034887,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203139,
+        "num": 131714,
+        "word": "陈星旭和妈妈共用一张脸",
+        "onboard_time": 1758034467,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183808,
+        "num": 131394,
+        "word": "中国方便面打入美国监狱",
+        "onboard_time": 1758033329,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135838,
+        "num": 130267,
+        "word": "男童游乐场推落4岁女童后转身离去",
+        "onboard_time": 1758026304,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129548,
+        "num": 129548,
+        "word": "代露娃 那她还是去上班吧",
+        "onboard_time": 1758033510,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127653,
+        "num": 127653,
+        "word": "韦雪约会迟到被罚44杯酒",
+        "onboard_time": 1758020423,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83193,
+        "num": 124899,
+        "word": "237天婴儿去世捐遗体父母发声",
+        "onboard_time": 1758035727,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124561,
+        "num": 124561,
+        "word": "陈梦积极备战全运会",
+        "onboard_time": 1758034708,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123848,
+        "num": 123848,
+        "word": "江西小炒 预制菜克星",
+        "onboard_time": 1758013583,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9285,
+        "num": 121580,
+        "word": "王亚飞给沈佳润画的粉蓝甜心妆",
+        "onboard_time": 1758036207,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56927,
+        "num": 121430,
+        "word": "黄浦江畔的风也懂迪丽热巴的美",
+        "onboard_time": 1758035427,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121349,
+        "num": 121349,
+        "word": "5岁女童被废弃电线杆砸中身亡",
+        "onboard_time": 1758034289,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122572,
+        "num": 121345,
+        "word": "森林北大方承认还有个儿子",
+        "onboard_time": 1758021022,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120514,
+        "num": 120514,
+        "word": "联合国认定以色列犯种族灭绝罪",
+        "onboard_time": 1758018863,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116654,
+        "num": 116654,
+        "word": "刘强东称约过王兴见面",
+        "onboard_time": 1758035126,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115975,
+        "num": 115975,
+        "word": "两飞行器相撞系飞行间距不足",
+        "onboard_time": 1758036148,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112955,
+        "num": 112955,
+        "word": "内娱热门IP都在这了",
+        "onboard_time": 1758035547,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 105140,
+        "num": 110311,
+        "word": "何运晨有工作室了",
+        "onboard_time": 1758030268,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109018,
+        "num": 109018,
+        "word": "花海带大耶宝回家啦",
+        "onboard_time": 1758035126,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107278,
+        "num": 107278,
+        "word": "槟榔的槟怎么念bing啊",
+        "onboard_time": 1758036387,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106868,
+        "num": 106868,
+        "word": "中国男排vs塞尔维亚男排",
+        "onboard_time": 1758036447,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大复兴势不可挡#"
+    }
+  }
+}
