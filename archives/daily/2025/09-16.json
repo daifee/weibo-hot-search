@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1758000229797,
+  "endTime": 1758001216018,
   "band_list": [
     {
       "raw_hot": 2500117,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1381240,
+      "num": 568583,
+      "word": "黄晓明 baby我们的感情好像跳楼机",
+      "onboard_time": 1757998706,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1260119,
       "num": 424326,
       "word": "涉毒艺人苏永康将在温州办演唱会",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1145408,
-      "num": 739055,
+      "num": 768304,
       "word": "以色列威胁不到中国手机",
       "onboard_time": 1757995465,
       "rank": 10,
@@ -121,14 +129,6 @@
       "onboard_time": 1757984242,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1006058,
-      "num": 568583,
-      "word": "黄晓明 baby我们的感情好像跳楼机",
-      "onboard_time": 1757998706,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 986487,
@@ -187,6 +187,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 683832,
+      "num": 641734,
+      "word": "成毅回应赴山海台词含糊",
+      "onboard_time": 1757998104,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 640417,
       "num": 640417,
       "word": "赴山海 剧本穿帮",
@@ -211,12 +219,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 566843,
-      "num": 566843,
-      "word": "成毅回应赴山海台词含糊",
-      "onboard_time": 1757998104,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 568190,
+      "num": 552646,
+      "word": "王楚钦北大",
+      "onboard_time": 1757997865,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 545532,
@@ -241,14 +249,6 @@
       "onboard_time": 1757993723,
       "rank": 48,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 495831,
-      "num": 495831,
-      "word": "王楚钦北大",
-      "onboard_time": 1757997865,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 493568,
@@ -329,6 +329,14 @@
       "onboard_time": 1757992403,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383989,
+      "num": 383989,
+      "word": "王琳 血淋淋的大女主真人秀",
+      "onboard_time": 1757999123,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 372751,
@@ -435,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290060,
-      "num": 290060,
-      "word": "王琳 血淋淋的大女主真人秀",
-      "onboard_time": 1757999123,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283971,
       "num": 243169,
       "word": "女孩子黄体破裂后到底有多严重",
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252084,
+      "num": 252084,
+      "word": "徐艺洋好懂热搜",
+      "onboard_time": 1757999843,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245209,
       "num": 230410,
       "word": "这下谁敢去负二层停车",
@@ -553,6 +561,14 @@
       "onboard_time": 1757989582,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227086,
+      "num": 227086,
+      "word": "建议大家下班回家立刻洗澡",
+      "onboard_time": 1757997804,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 227065,
@@ -643,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201930,
-      "num": 201930,
-      "word": "建议大家下班回家立刻洗澡",
-      "onboard_time": 1757997804,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200854,
       "num": 210558,
       "word": "网剧以她之名开播",
@@ -691,14 +699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197797,
-      "num": 245054,
-      "word": "徐艺洋好懂热搜",
-      "onboard_time": 1757999843,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197726,
       "num": 217177,
       "word": "黄子韬让徐艺洋喊自己子韬哥哥",
@@ -713,6 +713,14 @@
       "onboard_time": 1757951841,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193501,
+      "num": 193501,
+      "word": "科切拉阵容",
+      "onboard_time": 1758000563,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 193285,
@@ -731,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190551,
+      "num": 223765,
+      "word": "李晟李佳航的求婚日期是201314",
+      "onboard_time": 1757998224,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189895,
       "num": 189895,
       "word": "范世錡把小狗骨灰做成沙漏项链",
@@ -747,12 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185123,
-      "num": 223765,
-      "word": "李晟李佳航的求婚日期是201314",
-      "onboard_time": 1757998224,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 184687,
+      "num": 184687,
+      "word": "短剧仙剑三开机",
+      "onboard_time": 1758000083,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182959,
+      "num": 182959,
+      "word": "地球臭氧层正在恢复",
+      "onboard_time": 1758000563,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181674,
@@ -779,12 +803,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174647,
+      "num": 174647,
+      "word": "港版iPhone17",
+      "onboard_time": 1757999843,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172883,
       "num": 172883,
       "word": "iPhone充电坏习惯",
       "onboard_time": 1757992703,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172151,
+      "num": 172151,
+      "word": "多名男留学生混住在女生宿舍楼",
+      "onboard_time": 1758000805,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171952,
+      "num": 553035,
+      "word": "我国卫星互联网技术试验卫星发射成功",
+      "onboard_time": 1758000384,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171653,
@@ -801,6 +849,14 @@
       "onboard_time": 1757988262,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169208,
+      "num": 169208,
+      "word": "李在明下令严查海警殉职事件",
+      "onboard_time": 1757999185,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 167798,
@@ -833,6 +889,14 @@
       "onboard_time": 1757996304,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162972,
+      "num": 162972,
+      "word": "田曦薇身上的野猫味熏到康康了",
+      "onboard_time": 1758000323,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161636,
@@ -883,20 +947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154085,
+      "num": 154085,
+      "word": "731部队一年军费高达15亿人民币",
+      "onboard_time": 1758000563,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153501,
       "num": 197051,
       "word": "表面沉迷游戏实则北大清华",
       "onboard_time": 1757948185,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153468,
-      "num": 153468,
-      "word": "短剧仙剑三开机",
-      "onboard_time": 1758000083,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 150186,
@@ -947,12 +1011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148315,
-      "num": 148315,
-      "word": "港版iPhone17",
-      "onboard_time": 1757999843,
-      "rank": 42,
-      "category": "数码"
+      "raw_hot": 146636,
+      "num": 146636,
+      "word": "世界第二大网红cos黑皮孙悟空",
+      "onboard_time": 1758000204,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 145158,
@@ -995,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131062,
-      "num": 131062,
-      "word": "世界第二大网红cos黑皮孙悟空",
-      "onboard_time": 1758000204,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 129483,
       "num": 161824,
       "word": "短剧版仙剑三开机",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1757988502,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125969,
+      "num": 125969,
+      "word": "iOS26壁纸",
+      "onboard_time": 1758000503,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 125679,
@@ -1099,14 +1163,6 @@
       "category": "游戏,幽默"
     },
     {
-      "raw_hot": 115565,
-      "num": 166835,
-      "word": "李在明下令严查海警殉职事件",
-      "onboard_time": 1757999185,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 114244,
       "num": 114244,
       "word": "TikTok问题",
@@ -1171,6 +1227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99845,
+      "num": 169235,
+      "word": "被樊振东牵手球童的母亲致谢",
+      "onboard_time": 1758000142,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99614,
       "num": 149845,
       "word": "倾诉欲好强的一个企业",
@@ -1200,6 +1264,14 @@
       "word": "深圳市民捡到2267.83克巨型金条",
       "onboard_time": 1757931441,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95795,
+      "num": 1132834,
+      "word": "新疆70年",
+      "onboard_time": 1757996903,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1267,14 +1339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81704,
-      "num": 164781,
-      "word": "被樊振东牵手球童的母亲致谢",
-      "onboard_time": 1758000142,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80292,
       "num": 193595,
       "word": "杨帆解约函",
@@ -1336,14 +1400,6 @@
       "word": "妻子出轨主播9个月打赏1.8万次",
       "onboard_time": 1757930364,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72648,
-      "num": 1132834,
-      "word": "新疆70年",
-      "onboard_time": 1757996903,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1465,6 +1521,14 @@
       "onboard_time": 1757950525,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 55264,
+      "num": 169579,
+      "word": "谁懂王安宇给我做饭既视感",
+      "onboard_time": 1758001102,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 53987,
@@ -1625,6 +1689,22 @@
       "onboard_time": 1757957957,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22150,
+      "num": 169372,
+      "word": "张韶涵5566合体",
+      "onboard_time": 1758000441,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22138,
+      "num": 190993,
+      "word": "牙齿文身",
+      "onboard_time": 1758001102,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21254,

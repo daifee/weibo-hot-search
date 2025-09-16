@@ -1,0 +1,410 @@
+{
+  "runTime": 1758001216018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 887900,
+        "num": 1142064,
+        "word": "孙颖莎清华读研",
+        "onboard_time": 1757994142,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 843969,
+        "num": 843969,
+        "word": "12306抢票",
+        "onboard_time": 1757993122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95795,
+        "num": 780501,
+        "word": "新疆70年",
+        "onboard_time": 1757996903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 943210,
+        "num": 768304,
+        "word": "以色列威胁不到中国手机",
+        "onboard_time": 1757995465,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 742925,
+        "num": 742925,
+        "word": "上海网红面包店将未售面包直接丢弃",
+        "onboard_time": 1757996544,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712070,
+        "num": 712070,
+        "word": "赴山海洞洞鞋穿帮",
+        "onboard_time": 1757986522,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658367,
+        "num": 658367,
+        "word": "姜潮录节目情绪崩溃到发飙",
+        "onboard_time": 1757993542,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683832,
+        "num": 641734,
+        "word": "成毅回应赴山海台词含糊",
+        "onboard_time": 1757998104,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559290,
+        "num": 559290,
+        "word": "成都通报一女子公园自缢",
+        "onboard_time": 1757990182,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 171952,
+        "num": 553035,
+        "word": "我国卫星互联网技术试验卫星发射成功",
+        "onboard_time": 1758000384,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1381240,
+        "num": 552779,
+        "word": "黄晓明 baby我们的感情好像跳楼机",
+        "onboard_time": 1757998706,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568190,
+        "num": 552646,
+        "word": "王楚钦北大",
+        "onboard_time": 1757997865,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552299,
+        "num": 552299,
+        "word": "小米17背屏",
+        "onboard_time": 1757991981,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 535783,
+        "num": 535783,
+        "word": "卢远王乐晨爆灯",
+        "onboard_time": 1757997624,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484489,
+        "num": 484489,
+        "word": "iOS26 丑",
+        "onboard_time": 1757989942,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401920,
+        "num": 401920,
+        "word": "陈乔恩晒粉红云海悼念乔任梁",
+        "onboard_time": 1757984063,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22908,
+        "num": 389117,
+        "word": "纯电续航350公里智能超混MPV",
+        "onboard_time": 1757999066,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 383989,
+        "num": 383989,
+        "word": "王琳 血淋淋的大女主真人秀",
+        "onboard_time": 1757999123,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372799,
+        "num": 372799,
+        "word": "涉毒艺人苏永康将在温州办演唱会",
+        "onboard_time": 1757946926,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318771,
+        "num": 318771,
+        "word": "心动的信号 时尚芭莎",
+        "onboard_time": 1757993723,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 450440,
+        "num": 314642,
+        "word": "金价",
+        "onboard_time": 1757986402,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298473,
+        "num": 298473,
+        "word": "成毅方全网取证绝不姑息",
+        "onboard_time": 1757985142,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270684,
+        "num": 270684,
+        "word": "有网店已售超4000件氢氟酸",
+        "onboard_time": 1757998405,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 252084,
+        "num": 252084,
+        "word": "徐艺洋好懂热搜",
+        "onboard_time": 1757999843,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244189,
+        "num": 244189,
+        "word": "肖战 美团团购",
+        "onboard_time": 1757986760,
+        "rank": 24,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 230142,
+        "num": 230142,
+        "word": "太二酸菜鱼下单到上鱼仅6分钟",
+        "onboard_time": 1757987481,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229067,
+        "num": 229067,
+        "word": "老太太赶集时金镯被剪断手臂流血",
+        "onboard_time": 1757992403,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227086,
+        "num": 227086,
+        "word": "建议大家下班回家立刻洗澡",
+        "onboard_time": 1757997804,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211033,
+        "num": 211033,
+        "word": "王一博仪态",
+        "onboard_time": 1757997985,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193501,
+        "num": 193501,
+        "word": "科切拉阵容",
+        "onboard_time": 1758000563,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22138,
+        "num": 190993,
+        "word": "牙齿文身",
+        "onboard_time": 1758001102,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203732,
+        "num": 190959,
+        "word": "从发工资时间看公司实力",
+        "onboard_time": 1757994924,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 190551,
+        "num": 190551,
+        "word": "李晟李佳航的求婚日期是201314",
+        "onboard_time": 1757998224,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184687,
+        "num": 184687,
+        "word": "短剧仙剑三开机",
+        "onboard_time": 1758000083,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182959,
+        "num": 182959,
+        "word": "地球臭氧层正在恢复",
+        "onboard_time": 1758000563,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174647,
+        "num": 174647,
+        "word": "港版iPhone17",
+        "onboard_time": 1757999843,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172151,
+        "num": 172151,
+        "word": "多名男留学生混住在女生宿舍楼",
+        "onboard_time": 1758000805,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55264,
+        "num": 169579,
+        "word": "谁懂王安宇给我做饭既视感",
+        "onboard_time": 1758001102,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22150,
+        "num": 169372,
+        "word": "张韶涵5566合体",
+        "onboard_time": 1758000441,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99845,
+        "num": 169235,
+        "word": "被樊振东牵手球童的母亲致谢",
+        "onboard_time": 1758000142,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169208,
+        "num": 169208,
+        "word": "李在明下令严查海警殉职事件",
+        "onboard_time": 1757999185,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162972,
+        "num": 162972,
+        "word": "田曦薇身上的野猫味熏到康康了",
+        "onboard_time": 1758000323,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161133,
+        "num": 161133,
+        "word": "水贝料商卷走胖东来金店90万元黄金",
+        "onboard_time": 1757993964,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154085,
+        "num": 154085,
+        "word": "731部队一年军费高达15亿人民币",
+        "onboard_time": 1758000563,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146636,
+        "num": 146636,
+        "word": "世界第二大网红cos黑皮孙悟空",
+        "onboard_time": 1758000204,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140980,
+        "num": 140980,
+        "word": "这下谁敢去负二层停车",
+        "onboard_time": 1757996185,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131264,
+        "num": 131264,
+        "word": "氢氟酸",
+        "onboard_time": 1757984242,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126367,
+        "num": 126367,
+        "word": "以色列坦克已入城",
+        "onboard_time": 1757989582,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125969,
+        "num": 125969,
+        "word": "iOS26壁纸",
+        "onboard_time": 1758000503,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125426,
+        "num": 125426,
+        "word": "辛芷蕾 梁婷",
+        "onboard_time": 1757984122,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须把全国统一大市场建设好#"
+    }
+  }
+}
