@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758047702883,
+  "endTime": 1758048436872,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -219,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111627,
+      "num": 111627,
+      "word": "男子查个税意外发现两份工资流水",
+      "onboard_time": 1758046755,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107780,
       "num": 220600,
       "word": "安踏通报一总裁级人员涉嫌违法",
@@ -379,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61842,
-      "num": 61842,
-      "word": "男子查个税意外发现两份工资流水",
-      "onboard_time": 1758046755,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61744,
       "num": 209378,
       "word": "卢昱晓劝架",
@@ -475,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43806,
+      "num": 50108,
+      "word": "于朦胧母亲希望回归平静生活",
+      "onboard_time": 1758031292,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43718,
       "num": 96721,
       "word": "美国支持以色列进攻加沙城",
       "onboard_time": 1758042979,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35679,
-      "num": 50108,
-      "word": "于朦胧母亲希望回归平静生活",
-      "onboard_time": 1758031292,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 30941,
@@ -499,16 +499,16 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 21902,
-      "num": 25625,
+      "raw_hot": 24771,
+      "num": 31159,
       "word": "短剧版仙剑三",
       "onboard_time": 1758045795,
       "rank": 42,
       "category": "剧集"
     },
     {
-      "raw_hot": 20340,
-      "num": 25623,
+      "raw_hot": 20834,
+      "num": 30861,
       "word": "以军警告也门荷台达港居民紧急撤离",
       "onboard_time": 1758044776,
       "rank": 46,
@@ -520,6 +520,14 @@
       "word": "偷40万男子骑一辆童车逃跑",
       "onboard_time": 1758033630,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16944,
+      "num": 55215,
+      "word": "绿电天路超级工程来了",
+      "onboard_time": 1758047775,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
