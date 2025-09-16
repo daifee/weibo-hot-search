@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1758036478668,
+  "endTime": 1758037259900,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -67,6 +67,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1678406,
+      "num": 561822,
+      "word": "于朦胧坠亡事件流言应止于真相",
+      "onboard_time": 1758034408,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1643520,
       "num": 651325,
       "word": "成毅方全网取证绝不姑息",
@@ -112,14 +120,6 @@
       "word": "张淼怡的脸",
       "onboard_time": 1758009982,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1426497,
-      "num": 561822,
-      "word": "于朦胧坠亡事件流言应止于真相",
-      "onboard_time": 1758034408,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -331,19 +331,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 839231,
+      "num": 839231,
+      "word": "日本拒绝美国",
+      "onboard_time": 1758033689,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 815390,
       "num": 250948,
       "word": "石平回应被叫汉奸",
       "onboard_time": 1758013463,
       "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 815246,
-      "num": 815246,
-      "word": "日本拒绝美国",
-      "onboard_time": 1758033689,
-      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -843,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318288,
+      "num": 286982,
+      "word": "鹿晗 邪恶银渐层",
+      "onboard_time": 1758032611,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 316351,
       "num": 316351,
       "word": "易烊千玺你小子搞催泪这套",
@@ -857,14 +865,6 @@
       "onboard_time": 1758006982,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 300049,
-      "num": 286982,
-      "word": "鹿晗 邪恶银渐层",
-      "onboard_time": 1758032611,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 296190,
@@ -1107,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227339,
+      "num": 227339,
+      "word": "陈星旭和妈妈共用一张脸",
+      "onboard_time": 1758034467,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227086,
       "num": 227086,
       "word": "建议大家下班回家立刻洗澡",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1757996243,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203139,
-      "num": 131714,
-      "word": "陈星旭和妈妈共用一张脸",
-      "onboard_time": 1758034467,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 202670,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1758026304,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188088,
+      "num": 246390,
+      "word": "17号台风米娜或要来了",
+      "onboard_time": 1758031894,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187503,
@@ -1795,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162946,
+      "num": 245411,
+      "word": "成毅的真古人vs假古人",
+      "onboard_time": 1758033090,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162664,
       "num": 162664,
       "word": "诺澜依旧女追男",
@@ -1947,14 +1963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 154700,
-      "num": 154700,
-      "word": "17号台风米娜或要来了",
-      "onboard_time": 1758031894,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "731部队一年军费高达15亿人民币",
@@ -2035,14 +2043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149306,
-      "num": 149306,
-      "word": "成毅的真古人vs假古人",
-      "onboard_time": 1758033090,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148818,
       "num": 193973,
       "word": "苹果iOS26正式版液态玻璃设计引争议",
@@ -2057,6 +2057,14 @@
       "onboard_time": 1757944225,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148003,
+      "num": 170732,
+      "word": "代露娃 那她还是去上班吧",
+      "onboard_time": 1758033510,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 147980,
@@ -2305,14 +2313,6 @@
       "onboard_time": 1758012923,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129548,
-      "num": 170732,
-      "word": "代露娃 那她还是去上班吧",
-      "onboard_time": 1758033510,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 129483,
@@ -2747,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106861,
+      "num": 106861,
+      "word": "安踏通报一总裁级人员涉嫌违法",
+      "onboard_time": 1758036626,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103871,
       "num": 103871,
       "word": "雨果男单世排第三",
@@ -2923,6 +2931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 89575,
+      "num": 89575,
+      "word": "iOS26普通照片秒变3D照",
+      "onboard_time": 1758036747,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 88492,
       "num": 193732,
       "word": "BLG战胜TES",
@@ -2980,7 +2996,7 @@
     },
     {
       "raw_hot": 83193,
-      "num": 124899,
+      "num": 244636,
       "word": "237天婴儿去世捐遗体父母发声",
       "onboard_time": 1758035727,
       "rank": 35,
@@ -2993,6 +3009,14 @@
       "onboard_time": 1758029909,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82207,
+      "num": 82207,
+      "word": "关晓彤旅行中的一些小小仪式",
+      "onboard_time": 1758037225,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 80417,
@@ -3619,6 +3643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26206,
+      "num": 100399,
+      "word": "于正虽然嘴碎但他护犊子啊",
+      "onboard_time": 1758036926,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25883,
       "num": 143518,
       "word": "杜淳女儿脱水酸中毒",
@@ -3699,20 +3731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17836,
+      "num": 121580,
+      "word": "王亚飞给沈佳润画的粉蓝甜心妆",
+      "onboard_time": 1758036207,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16265,
       "num": 40555,
       "word": "泰嗨巅峰音乐节",
       "onboard_time": 1757975837,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 9285,
-      "num": 121580,
-      "word": "王亚飞给沈佳润画的粉蓝甜心妆",
-      "onboard_time": 1758036207,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 3900,
