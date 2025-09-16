@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758057739065,
+  "endTime": 1758058625375,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -491,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39362,
+      "num": 39362,
+      "word": "内塔尼亚胡承认以色列受到了孤立",
+      "onboard_time": 1758053475,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30941,
       "num": 207735,
       "word": "享界S9T售价30万起6万限时权益",
@@ -499,15 +507,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 28625,
-      "num": 32184,
-      "word": "内塔尼亚胡承认以色列受到了孤立",
-      "onboard_time": 1758053475,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 27398,
+      "raw_hot": 30152,
       "num": 25842,
       "word": "无意识的控糖行为",
       "onboard_time": 1758052394,
@@ -531,7 +531,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18215,
+      "raw_hot": 19026,
       "num": 75936,
       "word": "偷40万男子骑一辆童车逃跑",
       "onboard_time": 1758033630,
@@ -539,7 +539,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17289,
+      "raw_hot": 17760,
       "num": 75202,
       "word": "237天婴儿去世捐遗体父母发声",
       "onboard_time": 1758035727,
@@ -563,15 +563,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16005,
-      "num": 17331,
-      "word": "卢森堡计划承认巴勒斯坦国",
-      "onboard_time": 1758051615,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 16097,
+      "num": 22729,
+      "word": "迪丽热巴女王变女孩太有生命力了",
+      "onboard_time": 1758054554,
+      "rank": 49,
+      "category": "艺人"
     },
     {
-      "raw_hot": 15245,
+      "raw_hot": 16077,
       "num": 75182,
       "word": "初一学生打球遭同学袭击致脑出血",
       "onboard_time": 1758037885,
@@ -579,15 +579,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14335,
-      "num": 17378,
-      "word": "迪丽热巴女王变女孩太有生命力了",
-      "onboard_time": 1758054554,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 16005,
+      "num": 17585,
+      "word": "卢森堡计划承认巴勒斯坦国",
+      "onboard_time": 1758051615,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 14264,
+      "raw_hot": 14374,
       "num": 75563,
       "word": "小伙7万5抵押14万新车赎回要13万多",
       "onboard_time": 1758049875,
