@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1758015678702,
+  "endTime": 1758018418285,
   "band_list": [
     {
       "raw_hot": 2500117,
@@ -235,6 +235,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 815390,
+      "num": 250948,
+      "word": "石平回应被叫汉奸",
+      "onboard_time": 1758013463,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 806297,
+      "num": 1129007,
+      "word": "易烊千玺 直播",
+      "onboard_time": 1758013764,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802379,
       "num": 802379,
       "word": "上海网红面包店将未售面包直接丢弃",
@@ -249,14 +265,6 @@
       "onboard_time": 1757983883,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 732761,
-      "num": 444826,
-      "word": "易烊千玺 直播",
-      "onboard_time": 1758013764,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 721490,
@@ -281,6 +289,14 @@
       "onboard_time": 1758007882,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 640643,
+      "num": 256812,
+      "word": "女生癌症晚期选择环球硬核旅行",
+      "onboard_time": 1758012443,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 640417,
@@ -371,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 516337,
+      "num": 516337,
+      "word": "喜欢吃鱼的嘴真严啊",
+      "onboard_time": 1758011122,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 514424,
       "num": 514424,
       "word": "心动的信号 时尚芭莎",
@@ -395,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 477568,
+      "num": 220234,
+      "word": "王晓晨双下巴",
+      "onboard_time": 1758014783,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 477488,
       "num": 878915,
       "word": "原来李佳航让李晟尴尬的求婚长这样",
@@ -417,14 +449,6 @@
       "onboard_time": 1757989582,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 435575,
-      "num": 435575,
-      "word": "喜欢吃鱼的嘴真严啊",
-      "onboard_time": 1758011122,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 431716,
@@ -481,14 +505,6 @@
       "onboard_time": 1757992403,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375742,
-      "num": 250948,
-      "word": "石平回应被叫汉奸",
-      "onboard_time": 1758013463,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 372751,
@@ -563,8 +579,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 328836,
-      "num": 328836,
+      "raw_hot": 346815,
+      "num": 346815,
       "word": "盛世天下",
       "onboard_time": 1758013403,
       "rank": 8,
@@ -608,6 +624,14 @@
       "word": "研究生制止行凶男子被刺身亡",
       "onboard_time": 1758006982,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299654,
+      "num": 299654,
+      "word": "江西小炒 预制菜克星",
+      "onboard_time": 1758013583,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -681,14 +705,6 @@
       "onboard_time": 1757985322,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 256812,
-      "num": 256812,
-      "word": "女生癌症晚期选择环球硬核旅行",
-      "onboard_time": 1758012443,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253541,
@@ -803,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225710,
+      "num": 192912,
+      "word": "ITTF官方恭喜王楚钦重返世一",
+      "onboard_time": 1758017302,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223391,
       "num": 223391,
       "word": "有日本网民呼吁上映731",
@@ -835,12 +859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220234,
-      "num": 220234,
-      "word": "王晓晨双下巴",
-      "onboard_time": 1758014783,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 220309,
+      "num": 220309,
+      "word": "那英王菲 我们会是一辈子的好朋友",
+      "onboard_time": 1758016343,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 218470,
@@ -849,6 +873,14 @@
       "onboard_time": 1757924123,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216891,
+      "num": 216891,
+      "word": "眉姐姐上身基础下身还不如基础",
+      "onboard_time": 1758017664,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 214644,
@@ -873,6 +905,14 @@
       "onboard_time": 1757989702,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211273,
+      "num": 211273,
+      "word": "贵州酸汤牛肉月饼",
+      "onboard_time": 1758016042,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 211234,
@@ -921,6 +961,14 @@
       "onboard_time": 1758007282,
       "rank": 35,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 204642,
+      "num": 233813,
+      "word": "研究发现长期炎症会唤醒癌细胞",
+      "onboard_time": 1758014723,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204237,
@@ -1075,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187779,
+      "num": 209352,
+      "word": "调查人员现场再次挖出2瓶氢氟酸",
+      "onboard_time": 1758016882,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187503,
       "num": 187503,
       "word": "那英马思纯一家人整整齐齐",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1757991201,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165509,
+      "num": 206331,
+      "word": "辛芷蕾梁婷 再见爱人好友季",
+      "onboard_time": 1758017182,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 164749,
@@ -1515,14 +1579,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 137975,
-      "num": 137975,
-      "word": "江西小炒 预制菜克星",
-      "onboard_time": 1758013583,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136972,
       "num": 136972,
       "word": "建议大家一周要吃三次鱼",
@@ -1555,12 +1611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135263,
-      "num": 233813,
-      "word": "研究发现长期炎症会唤醒癌细胞",
-      "onboard_time": 1758014723,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 133649,
+      "num": 133649,
+      "word": "太二连夜建鱼缸",
+      "onboard_time": 1758014123,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131835,
@@ -1803,20 +1859,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115627,
+      "num": 115627,
+      "word": "第五人格",
+      "onboard_time": 1758018203,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114244,
       "num": 114244,
       "word": "TikTok问题",
       "onboard_time": 1757976378,
       "rank": 26,
       "category": "互联网,游戏"
-    },
-    {
-      "raw_hot": 112745,
-      "num": 126689,
-      "word": "太二连夜建鱼缸",
-      "onboard_time": 1758014123,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111546,
@@ -1891,12 +1947,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 100468,
+      "raw_hot": 101875,
+      "num": 137842,
+      "word": "娜扎让小说里绝世女侠有脸了",
+      "onboard_time": 1758017063,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101095,
+      "num": 136515,
+      "word": "胖东来 10号揽收11号生产",
+      "onboard_time": 1758017842,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100795,
       "num": 130427,
       "word": "东南亚惊现1.2万年前木乃伊",
       "onboard_time": 1758014783,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99938,
+      "num": 99938,
+      "word": "吴奇隆空中一字马",
+      "onboard_time": 1758015801,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99845,
@@ -1921,6 +2001,14 @@
       "onboard_time": 1757950943,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97860,
+      "num": 106256,
+      "word": "一口气被26个明星治愈内耗",
+      "onboard_time": 1758018143,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 97064,
@@ -2051,6 +2139,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 78046,
+      "num": 200414,
+      "word": "车手魏建军完赛",
+      "onboard_time": 1758017122,
+      "rank": 27,
+      "category": "汽车,体育"
+    },
+    {
+      "raw_hot": 77479,
+      "num": 209744,
+      "word": "大城市回西藏才懂拼多多的含金量",
+      "onboard_time": 1758017063,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77346,
       "num": 193664,
       "word": "Bin 世界赛我们来了",
@@ -2088,6 +2192,14 @@
       "word": "妻子出轨主播9个月打赏1.8万次",
       "onboard_time": 1757930364,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72900,
+      "num": 198168,
+      "word": "误踩化骨水去世初判非恶意投放",
+      "onboard_time": 1758016882,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2155,6 +2267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63469,
+      "num": 122176,
+      "word": "广东一地惊现20斤大蟒蛇生吞牛犊",
+      "onboard_time": 1758018383,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62957,
       "num": 193505,
       "word": "湾区升明月晚会又来啦",
@@ -2185,6 +2305,14 @@
       "onboard_time": 1758010163,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58728,
+      "num": 135705,
+      "word": "12306回应卧铺乘客打伞遮隐私",
+      "onboard_time": 1758017903,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57333,
