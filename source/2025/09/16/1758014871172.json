@@ -1,0 +1,410 @@
+{
+  "runTime": 1758014871172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151526,
+        "num": 1184244,
+        "word": "成毅替身演员发文",
+        "onboard_time": 1758010462,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583632,
+        "num": 583632,
+        "word": "12306 开票即候补",
+        "onboard_time": 1758010761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40620,
+        "num": 393726,
+        "word": "2025文化遗产数字化论坛",
+        "onboard_time": 1758013823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 350167,
+        "num": 350167,
+        "word": "易烊千玺 直播",
+        "onboard_time": 1758013764,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328368,
+        "num": 328368,
+        "word": "喜欢吃鱼的嘴真严啊",
+        "onboard_time": 1758011122,
+        "rank": 4,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 294014,
+        "num": 294014,
+        "word": "小米17背屏",
+        "onboard_time": 1757991981,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 300368,
+        "num": 290796,
+        "word": "成毅回应赴山海台词含糊",
+        "onboard_time": 1757998104,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286711,
+        "num": 286711,
+        "word": "以色列威胁不到中国手机",
+        "onboard_time": 1757995465,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257222,
+        "num": 257222,
+        "word": "盛世天下",
+        "onboard_time": 1758013403,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214123,
+        "num": 257174,
+        "word": "日方不要为虎作伥",
+        "onboard_time": 1758010342,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1314976,
+        "num": 257116,
+        "word": "杨幂 谢谢大家参加我的四十大寿",
+        "onboard_time": 1758011483,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1195569,
+        "num": 257004,
+        "word": "真的不要在床头上挂东西了",
+        "onboard_time": 1758011662,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 1179029,
+        "num": 256910,
+        "word": "张淼怡的脸",
+        "onboard_time": 1758009982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634775,
+        "num": 256892,
+        "word": "多名男留学生混住在女生宿舍楼",
+        "onboard_time": 1758000805,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256812,
+        "num": 256812,
+        "word": "女生癌症晚期选择环球硬核旅行",
+        "onboard_time": 1758012443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490224,
+        "num": 256107,
+        "word": "黄晓明 baby我们的感情好像跳楼机",
+        "onboard_time": 1757998706,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52569,
+        "num": 250449,
+        "word": "舌尖主创担任高德美食摄影大赛评委",
+        "onboard_time": 1758014123,
+        "rank": 16,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 415773,
+        "num": 249793,
+        "word": "杜淳王灿兮医院陪床女儿",
+        "onboard_time": 1758012142,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248146,
+        "num": 248146,
+        "word": "王琳 血淋淋的大女主真人秀",
+        "onboard_time": 1757999123,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378530,
+        "num": 247998,
+        "word": "森林北首晒儿子",
+        "onboard_time": 1758006382,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 386184,
+        "num": 238841,
+        "word": "微信聊天 实况",
+        "onboard_time": 1758007882,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138480,
+        "num": 233014,
+        "word": "12306称纸质报销凭证购票成功即可打印",
+        "onboard_time": 1758013343,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304254,
+        "num": 223782,
+        "word": "上海1.2级地震",
+        "onboard_time": 1758006622,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 223141,
+        "num": 223141,
+        "word": "狗 我的碗出车祸了",
+        "onboard_time": 1758005002,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202681,
+        "num": 202681,
+        "word": "加大消费信贷支持力度",
+        "onboard_time": 1758014663,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198956,
+        "num": 198956,
+        "word": "小米17",
+        "onboard_time": 1758013583,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161006,
+        "num": 197530,
+        "word": "易烊千玺你小子搞催泪这套",
+        "onboard_time": 1758005963,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156388,
+        "num": 195160,
+        "word": "这居然是小鬼",
+        "onboard_time": 1758011002,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155572,
+        "num": 194222,
+        "word": "姜妍拍大闸蟹拍出了悬疑感",
+        "onboard_time": 1758010404,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122767,
+        "num": 191188,
+        "word": "2025湾区升明月官宣",
+        "onboard_time": 1758003443,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275507,
+        "num": 189259,
+        "word": "石平回应被叫汉奸",
+        "onboard_time": 1758013463,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187224,
+        "num": 187224,
+        "word": "香港巴士司机遭铁棍插胸仍冷静停车",
+        "onboard_time": 1758003383,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164665,
+        "num": 164665,
+        "word": "生父称1600片泻药是继母减肥药",
+        "onboard_time": 1758009083,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162475,
+        "num": 162475,
+        "word": "研究生制止行凶男子被刺身亡",
+        "onboard_time": 1758006982,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135263,
+        "num": 143213,
+        "word": "研究发现长期炎症会唤醒癌细胞",
+        "onboard_time": 1758014723,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135697,
+        "num": 135697,
+        "word": "iOS26 丑",
+        "onboard_time": 1757989942,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130956,
+        "num": 130956,
+        "word": "姚晨这状态哪像生过俩孩子的",
+        "onboard_time": 1758012923,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76842,
+        "num": 130427,
+        "word": "东南亚惊现1.2万年前木乃伊",
+        "onboard_time": 1758014783,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26537,
+        "num": 128578,
+        "word": "租客不辞而别房东清出3车外卖垃圾",
+        "onboard_time": 1758014064,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57241,
+        "num": 126689,
+        "word": "太二连夜建鱼缸",
+        "onboard_time": 1758014123,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121096,
+        "num": 125971,
+        "word": "女子一路掉钱多人追着归还",
+        "onboard_time": 1758014064,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124703,
+        "num": 124703,
+        "word": "踩氢氟酸中毒女子受伤皮肤呈铅灰色",
+        "onboard_time": 1758013224,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124180,
+        "num": 124180,
+        "word": "被虐死女孩生父为继母判死刑哭泣",
+        "onboard_time": 1758005122,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122298,
+        "num": 122298,
+        "word": "江西小炒 预制菜克星",
+        "onboard_time": 1758013583,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122160,
+        "num": 122160,
+        "word": "感觉30岁左右好有意思",
+        "onboard_time": 1758008903,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119881,
+        "num": 119881,
+        "word": "外交部回应美国在日本部署堤丰",
+        "onboard_time": 1758013042,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119166,
+        "num": 119166,
+        "word": "韩咬断性侵者舌头女子将向国家索赔",
+        "onboard_time": 1758009682,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 117488,
+        "word": "王晓晨双下巴",
+        "onboard_time": 1758014783,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109080,
+        "num": 109080,
+        "word": "给男友买礼物他以为是分手礼物",
+        "onboard_time": 1758012503,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108695,
+        "num": 108695,
+        "word": "华晨宇音乐节吃的是真好",
+        "onboard_time": 1758014663,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}
