@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 23:40:59
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 00:31:49
 </p>
 </blockquote>
 <p>
@@ -3543,6 +3543,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E8%BF%BD%E6%98%9F%E9%A2%91%E7%B9%81%E6%9F%93%E5%8F%91%E6%82%A3%E8%82%BE%E7%97%85%23" target="weibo">
+00后女生追星频繁染发患肾病（热度：725261）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%AD%90%E5%A6%83%E5%8D%87%E8%81%8C%E8%AE%B0%23" target="weibo">
 太子妃升职记（热度：724871）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17系列价格已破发（热度：467733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%9D%8E%E9%9D%A2%E5%8C%85%E5%90%8E%E7%BB%AD%E5%AE%A3%E5%8F%91%E5%B0%86%E7%94%B1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A5%E7%AE%A1%23" target="weibo">
 桃李面包后续宣发将由年轻人接管（热度：466772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8%E5%8D%8A%E4%BB%B7%E4%BA%86%23" target="weibo">
-上海迪士尼门票半价了（热度：466324）
 </a>
 </li>
 
