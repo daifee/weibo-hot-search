@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757993762138,
+  "endTime": 1757994396998,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -116,19 +116,27 @@
     },
     {
       "raw_hot": 1643520,
-      "num": 434214,
+      "num": 437626,
       "word": "成毅方全网取证绝不姑息",
       "onboard_time": 1757985142,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1614108,
+      "raw_hot": 1641856,
       "num": 1249771,
       "word": "成都通报一女子公园自缢",
       "onboard_time": 1757990182,
       "rank": 5,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1601159,
+      "num": 1601159,
+      "word": "iOS26 丑",
+      "onboard_time": 1757989942,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 1595363,
@@ -169,14 +177,6 @@
       "onboard_time": 1757930122,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1502479,
-      "num": 1502479,
-      "word": "iOS26 丑",
-      "onboard_time": 1757989942,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 1496295,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1183092,
-      "num": 431888,
+      "num": 432688,
       "word": "陈乔恩晒粉红云海悼念乔任梁",
       "onboard_time": 1757984063,
       "rank": 11,
@@ -859,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 597142,
+      "num": 429000,
+      "word": "别再给皮肤喂满汉全席了",
+      "onboard_time": 1757990782,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 596873,
       "num": 596873,
       "word": "男子吃馒头噎死经调解获赔2.8万",
@@ -873,14 +881,6 @@
       "onboard_time": 1757782161,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 585707,
-      "num": 429000,
-      "word": "别再给皮肤喂满汉全席了",
-      "onboard_time": 1757990782,
-      "rank": 16,
-      "category": "美妆"
     },
     {
       "raw_hot": 583819,
@@ -1243,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448277,
+      "num": 448277,
+      "word": "以色列坦克已入城",
+      "onboard_time": 1757989582,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447283,
       "num": 447283,
       "word": "骗子混入工作群冒充董事长骗走60万",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1757901201,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 442503,
-      "num": 442503,
-      "word": "以色列坦克已入城",
-      "onboard_time": 1757989582,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 440417,
@@ -1379,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422828,
+      "num": 422828,
+      "word": "孙颖莎清华读研",
+      "onboard_time": 1757994142,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421786,
       "num": 421786,
       "word": "唐嫣视后庆功宴",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1757772385,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413779,
+      "num": 413779,
+      "word": "陈晓直播好几次叹气",
+      "onboard_time": 1757993964,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 407841,
@@ -1761,6 +1777,14 @@
       "onboard_time": 1757903482,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347124,
+      "num": 347124,
+      "word": "姜潮录节目情绪崩溃到发飙",
+      "onboard_time": 1757993542,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 346491,
@@ -2171,6 +2195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262892,
+      "num": 427558,
+      "word": "那英5个字总结张晚意",
+      "onboard_time": 1757991562,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262824,
       "num": 262824,
       "word": "第一次用代下单KFC感觉自己好丢人",
@@ -2347,14 +2379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247445,
-      "num": 427558,
-      "word": "那英5个字总结张晚意",
-      "onboard_time": 1757991562,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247397,
       "num": 247397,
       "word": "郑恺不知道今天节目官宣",
@@ -2432,6 +2456,14 @@
       "word": "表面沉迷游戏实则北大清华",
       "onboard_time": 1757948185,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239141,
+      "num": 239141,
+      "word": "水贝料商卷走胖东来金店90万元黄金",
+      "onboard_time": 1757993964,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2560,6 +2592,14 @@
       "word": "中介发布假房源最高可罚10万元",
       "onboard_time": 1757901441,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229205,
+      "num": 229205,
+      "word": "12306抢票",
+      "onboard_time": 1757993122,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -2985,6 +3025,14 @@
       "onboard_time": 1757825724,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197726,
+      "num": 217177,
+      "word": "黄子韬让徐艺洋喊自己子韬哥哥",
+      "onboard_time": 1757993662,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 197492,
@@ -3427,14 +3475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178428,
-      "num": 206373,
-      "word": "12306抢票",
-      "onboard_time": 1757993122,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178193,
       "num": 178193,
       "word": "ame冲",
@@ -3497,6 +3537,14 @@
       "onboard_time": 1757991323,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175344,
+      "num": 175344,
+      "word": "心动的信号 时尚芭莎",
+      "onboard_time": 1757993723,
+      "rank": 48,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 174891,
@@ -3707,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165695,
+      "num": 165695,
+      "word": "四六级报名",
+      "onboard_time": 1757991201,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165447,
       "num": 165447,
       "word": "予爱未名",
@@ -3716,7 +3772,7 @@
     },
     {
       "raw_hot": 164969,
-      "num": 164969,
+      "num": 447414,
       "word": "大妈用化肥袋打包高铁坐垫",
       "onboard_time": 1757992103,
       "rank": 46,
@@ -3995,14 +4051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158839,
-      "num": 158839,
-      "word": "姜潮录节目情绪崩溃到发飙",
-      "onboard_time": 1757993542,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158739,
       "num": 241241,
       "word": "中国乡村藏着一块巨型夹心饼干",
@@ -4089,6 +4137,14 @@
       "onboard_time": 1757907622,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155346,
+      "num": 158569,
+      "word": "虐死12岁女孩继母长期逼迫孩子互殴",
+      "onboard_time": 1757993182,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154721,
@@ -4241,6 +4297,14 @@
       "onboard_time": 1757846482,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150010,
+      "num": 150010,
+      "word": "安踏8个月辞退74名严重舞弊员工",
+      "onboard_time": 1757993542,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149417,
@@ -4699,22 +4763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137831,
-      "num": 137831,
-      "word": "黄子韬让徐艺洋喊自己子韬哥哥",
-      "onboard_time": 1757993662,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 137768,
-      "num": 137768,
-      "word": "安踏8个月辞退74名严重舞弊员工",
-      "onboard_time": 1757993542,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "火锅减肥法",
@@ -4777,14 +4825,6 @@
       "onboard_time": 1757865383,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 134592,
-      "num": 134592,
-      "word": "四六级报名",
-      "onboard_time": 1757991201,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 134254,
@@ -4931,20 +4971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129849,
-      "num": 129849,
-      "word": "心动的信号 时尚芭莎",
-      "onboard_time": 1757993723,
-      "rank": 48,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 129824,
       "num": 129824,
       "word": "巴基斯坦总统与歼10合影",
       "onboard_time": 1757922383,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129483,
+      "num": 161824,
+      "word": "短剧版仙剑三开机",
+      "onboard_time": 1757994382,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 129272,
@@ -5465,14 +5505,6 @@
       "onboard_time": 1757877794,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115308,
-      "num": 158569,
-      "word": "虐死12岁女孩继母长期逼迫孩子互殴",
-      "onboard_time": 1757993182,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115219,
@@ -7012,7 +7044,7 @@
     },
     {
       "raw_hot": 67846,
-      "num": 145301,
+      "num": 149642,
       "word": "女孩被继母虐待致死案开庭",
       "onboard_time": 1757992943,
       "rank": 44,
@@ -7688,6 +7720,14 @@
       "word": "醉驾致3人死亡被告至今未道歉",
       "onboard_time": 1757948485,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32975,
+      "num": 162126,
+      "word": "女孩被继母生父虐死生母只求死刑",
+      "onboard_time": 1757993903,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
