@@ -1,0 +1,410 @@
+{
+  "runTime": 1758050439556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 178443,
+        "num": 178443,
+        "word": "汪苏泷",
+        "onboard_time": 1758041182,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140828,
+        "num": 140828,
+        "word": "男子查个税意外发现两份工资流水",
+        "onboard_time": 1758046755,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1217,
+        "num": 92300,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60443,
+        "num": 60443,
+        "word": "90后女子背疼容易饿确诊胃癌晚期",
+        "onboard_time": 1758033329,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44573,
+        "num": 44573,
+        "word": "于正虽然嘴碎但他护犊子啊",
+        "onboard_time": 1758036926,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83148,
+        "num": 44349,
+        "word": "日本拒绝美国",
+        "onboard_time": 1758033689,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42740,
+        "num": 42740,
+        "word": "多方回应女童被废弃电线杆砸中身亡",
+        "onboard_time": 1758042918,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39301,
+        "num": 39301,
+        "word": "新型抗失眠药首日售出8000多盒",
+        "onboard_time": 1758039924,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 35571,
+        "num": 35571,
+        "word": "从此电竞小说男主有脸了",
+        "onboard_time": 1758033210,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13652,
+        "num": 35526,
+        "word": "小伙7万5抵押14万新车赎回要13万多",
+        "onboard_time": 1758049875,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99682,
+        "num": 34734,
+        "word": "00后女生追星频繁染发患肾病",
+        "onboard_time": 1758037586,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64073,
+        "num": 34560,
+        "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
+        "onboard_time": 1758033630,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39567,
+        "num": 33971,
+        "word": "女生坐火车卧铺打伞遮隐私",
+        "onboard_time": 1758022164,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33594,
+        "num": 33594,
+        "word": "真的不要在床头上挂东西了",
+        "onboard_time": 1758011662,
+        "rank": 13,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 33386,
+        "num": 33386,
+        "word": "杨幂 谢谢大家参加我的四十大寿",
+        "onboard_time": 1758011483,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32533,
+        "num": 32533,
+        "word": "联合国认定以色列犯种族灭绝罪",
+        "onboard_time": 1758018863,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31501,
+        "num": 31501,
+        "word": "关晓彤旅行中的一些小小仪式",
+        "onboard_time": 1758037225,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30350,
+        "num": 30350,
+        "word": "森林北大方承认还有个儿子",
+        "onboard_time": 1758021022,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29921,
+        "num": 29921,
+        "word": "奥斯卡回应恋综争议",
+        "onboard_time": 1758040345,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27939,
+        "num": 27939,
+        "word": "西藏的电将0.009秒闪送到广东",
+        "onboard_time": 1758040703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61456,
+        "num": 27938,
+        "word": "易烊千玺微博直播",
+        "onboard_time": 1758023544,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30851,
+        "num": 27923,
+        "word": "晚睡晚起让人长期处于炎症状态",
+        "onboard_time": 1758040345,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28129,
+        "num": 27914,
+        "word": "迪卡侬广告 处女地",
+        "onboard_time": 1758031050,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24177,
+        "num": 27903,
+        "word": "iOS26普通照片秒变3D照",
+        "onboard_time": 1758036747,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23657,
+        "num": 27898,
+        "word": "中国方便面打入美国监狱",
+        "onboard_time": 1758033329,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23035,
+        "num": 27883,
+        "word": "鹿晗 邪恶银渐层",
+        "onboard_time": 1758032611,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22932,
+        "num": 27873,
+        "word": "菲律宾在中国黄岩岛举白旗",
+        "onboard_time": 1758018624,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22416,
+        "num": 27861,
+        "word": "抗战胜利80周年纪念币",
+        "onboard_time": 1758039209,
+        "rank": 27,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 21290,
+        "num": 27852,
+        "word": "短剧版仙剑三",
+        "onboard_time": 1758045795,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19621,
+        "num": 27846,
+        "word": "神似刘亦菲女孩3条视频涨粉20万",
+        "onboard_time": 1758021683,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22411,
+        "num": 27832,
+        "word": "韦雪约会迟到被罚44杯酒",
+        "onboard_time": 1758020423,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22149,
+        "num": 27831,
+        "word": "陈星旭和妈妈共用一张脸",
+        "onboard_time": 1758034467,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21328,
+        "num": 27817,
+        "word": "以军警告也门荷台达港居民紧急撤离",
+        "onboard_time": 1758044776,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20822,
+        "num": 27801,
+        "word": "迪丽热巴蓝白镂空高定裙",
+        "onboard_time": 1758021803,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20437,
+        "num": 27794,
+        "word": "美国支持以色列进攻加沙城",
+        "onboard_time": 1758042979,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20385,
+        "num": 27787,
+        "word": "美国警告日本",
+        "onboard_time": 1758023783,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18956,
+        "num": 27772,
+        "word": "男童游乐场推落4岁女童后转身离去",
+        "onboard_time": 1758026304,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18870,
+        "num": 27772,
+        "word": "成毅替身演员发文",
+        "onboard_time": 1758010462,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18666,
+        "num": 27760,
+        "word": "17号台风米娜或要来了",
+        "onboard_time": 1758031894,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17877,
+        "num": 27746,
+        "word": "出生237天的他成为了大体老师",
+        "onboard_time": 1758033390,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17831,
+        "num": 27736,
+        "word": "孙颖莎王楚钦获WTT香港总决赛资格",
+        "onboard_time": 1758038668,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17017,
+        "num": 27732,
+        "word": "237天婴儿去世捐遗体父母发声",
+        "onboard_time": 1758035727,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16891,
+        "num": 27714,
+        "word": "不眠日",
+        "onboard_time": 1758042320,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16829,
+        "num": 27703,
+        "word": "颜值忽高忽低的同事belike",
+        "onboard_time": 1758050175,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16819,
+        "num": 27699,
+        "word": "张淼怡的脸",
+        "onboard_time": 1758009982,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16261,
+        "num": 27683,
+        "word": "何运晨有工作室了",
+        "onboard_time": 1758030268,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16212,
+        "num": 27677,
+        "word": "江西小炒火遍全国的原因终于找到了",
+        "onboard_time": 1758037404,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16051,
+        "num": 27663,
+        "word": "情绪稳定从接纳情绪不稳定开始",
+        "onboard_time": 1758039389,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15537,
+        "num": 27657,
+        "word": "代露娃 那她还是去上班吧",
+        "onboard_time": 1758033510,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15413,
+        "num": 27646,
+        "word": "易烊千玺 老公你说句话啊",
+        "onboard_time": 1758025348,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大复兴势不可挡#"
+    }
+  }
+}
