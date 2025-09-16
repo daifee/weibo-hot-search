@@ -1,0 +1,410 @@
+{
+  "runTime": 1757987284359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901542,
+        "num": 1144246,
+        "word": "赴山海开播5天引吐槽不断",
+        "onboard_time": 1757980581,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583819,
+        "num": 583819,
+        "word": "三只羊嘴哥复播在线人数超10万",
+        "onboard_time": 1757983823,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25194,
+        "num": 512735,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453351,
+        "num": 453351,
+        "word": "上海迪士尼门票半价了",
+        "onboard_time": 1757985023,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 414087,
+        "num": 414087,
+        "word": "氢氟酸",
+        "onboard_time": 1757984242,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358834,
+        "num": 358834,
+        "word": "成都暴雨",
+        "onboard_time": 1757977459,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388478,
+        "num": 358645,
+        "word": "赴山海洞洞鞋穿帮",
+        "onboard_time": 1757986522,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357916,
+        "num": 357916,
+        "word": "三只羊回应正式复播",
+        "onboard_time": 1757986042,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357732,
+        "num": 357732,
+        "word": "管制位黄岩岛非法活动的多艘菲船",
+        "onboard_time": 1757982502,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349014,
+        "num": 349014,
+        "word": "宋亚轩从16岁就跟着沈腾",
+        "onboard_time": 1757977758,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1440914,
+        "num": 346954,
+        "word": "成毅方全网取证绝不姑息",
+        "onboard_time": 1757985142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1183092,
+        "num": 344203,
+        "word": "陈乔恩晒粉红云海悼念乔任梁",
+        "onboard_time": 1757984063,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768685,
+        "num": 338473,
+        "word": "她们的鞋没有足弓支撑",
+        "onboard_time": 1757983883,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 548720,
+        "num": 334341,
+        "word": "涉毒艺人苏永康将在温州办演唱会",
+        "onboard_time": 1757946926,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330099,
+        "num": 330099,
+        "word": "中美就TikTok等问题进行了沟通",
+        "onboard_time": 1757950704,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319958,
+        "num": 319958,
+        "word": "嘎子哥拍戏期间穿警服直播带货",
+        "onboard_time": 1757979980,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298843,
+        "num": 298843,
+        "word": "辛芷蕾 梁婷",
+        "onboard_time": 1757984122,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238429,
+        "num": 238429,
+        "word": "黄岩岛",
+        "onboard_time": 1757985322,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223391,
+        "num": 223391,
+        "word": "有日本网民呼吁上映731",
+        "onboard_time": 1757981243,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190890,
+        "num": 223037,
+        "word": "金价",
+        "onboard_time": 1757986402,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 360208,
+        "num": 220608,
+        "word": "原来李佳航让李晟尴尬的求婚长这样",
+        "onboard_time": 1757941823,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318485,
+        "num": 218230,
+        "word": "家长质疑2790元教辅费贵被老师警告",
+        "onboard_time": 1757977820,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268781,
+        "num": 216617,
+        "word": "成毅 别浪费你的会员了",
+        "onboard_time": 1757947646,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215335,
+        "num": 215335,
+        "word": "12岁被虐致死女孩曾被关厕所17天",
+        "onboard_time": 1757984542,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206450,
+        "num": 206450,
+        "word": "女子散步时踩到氢氟酸后去世",
+        "onboard_time": 1757933182,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198823,
+        "num": 198823,
+        "word": "肖战 美团团购",
+        "onboard_time": 1757986760,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 192610,
+        "num": 192610,
+        "word": "特朗普称去年3亿人死于毒品",
+        "onboard_time": 1757984542,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170553,
+        "num": 170553,
+        "word": "国庆中秋购票4个关键时间",
+        "onboard_time": 1757983583,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164749,
+        "num": 164749,
+        "word": "驻华机构中国雇员不得危害国家安全",
+        "onboard_time": 1757979141,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86722,
+        "num": 164664,
+        "word": "杨幂走红毯带着公司艺人增加曝光",
+        "onboard_time": 1757951841,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184333,
+        "num": 163102,
+        "word": "菲律宾",
+        "onboard_time": 1757986402,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171505,
+        "num": 162339,
+        "word": "女子卫生巾内藏674.7克足金",
+        "onboard_time": 1757947526,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87154,
+        "num": 161158,
+        "word": "俄称北约若击落其无人机等于宣战",
+        "onboard_time": 1757982682,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160877,
+        "num": 160877,
+        "word": "打电话要小心苹果手机的语音信箱",
+        "onboard_time": 1757983523,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160610,
+        "num": 160610,
+        "word": "官方通报52岁女子中毒身亡",
+        "onboard_time": 1757949624,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150133,
+        "num": 150133,
+        "word": "iOS26",
+        "onboard_time": 1757977820,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117015,
+        "num": 150126,
+        "word": "抖音副总裁回应字节离职赛道",
+        "onboard_time": 1757981543,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116288,
+        "num": 150057,
+        "word": "中国绝不以牺牲企业利益为代价",
+        "onboard_time": 1757950704,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116020,
+        "num": 150057,
+        "word": "被孙尚香台词硬控30秒",
+        "onboard_time": 1757984542,
+        "rank": 38,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 111691,
+        "num": 149994,
+        "word": "卖房救重病男友发现他没病还已婚",
+        "onboard_time": 1757948485,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110541,
+        "num": 149965,
+        "word": "官方回应涉毒艺人办演唱会遭投诉",
+        "onboard_time": 1757946926,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107883,
+        "num": 149909,
+        "word": "iG收官发文",
+        "onboard_time": 1757982682,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107745,
+        "num": 149874,
+        "word": "被擦妆5次艺考生开学了",
+        "onboard_time": 1757938162,
+        "rank": 42,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 99614,
+        "num": 149845,
+        "word": "倾诉欲好强的一个企业",
+        "onboard_time": 1757986042,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97363,
+        "num": 149826,
+        "word": "今起常温纯牛奶禁加复原乳",
+        "onboard_time": 1757987063,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91473,
+        "num": 149786,
+        "word": "女子踩到氢氟酸现场已无害化处置",
+        "onboard_time": 1757952202,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87845,
+        "num": 149751,
+        "word": "女孩子黄体破裂后到底有多严重",
+        "onboard_time": 1757945064,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85720,
+        "num": 149681,
+        "word": "苹果回应iOS26掉电快",
+        "onboard_time": 1757984842,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80158,
+        "num": 149671,
+        "word": "谁家小猫中分在后脑勺啊",
+        "onboard_time": 1757984482,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73632,
+        "num": 149632,
+        "word": "武侠美甲",
+        "onboard_time": 1757958976,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}

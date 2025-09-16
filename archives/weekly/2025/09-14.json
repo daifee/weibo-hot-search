@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757979386535,
+  "endTime": 1757987284359,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1440914,
+      "num": 346954,
+      "word": "成毅方全网取证绝不姑息",
+      "onboard_time": 1757985142,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1364705,
       "num": 1364705,
       "word": "英伟达违法",
@@ -233,6 +241,14 @@
       "onboard_time": 1757839162,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1183092,
+      "num": 344203,
+      "word": "陈乔恩晒粉红云海悼念乔任梁",
+      "onboard_time": 1757984063,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1170247,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 901542,
+      "num": 1144246,
+      "word": "赴山海开播5天引吐槽不断",
+      "onboard_time": 1757980581,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 900321,
       "num": 900321,
       "word": "李荣浩 这是个真事你们可以上网查",
@@ -569,6 +593,14 @@
       "onboard_time": 1757773046,
       "rank": 6,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 768685,
+      "num": 338473,
+      "word": "她们的鞋没有足弓支撑",
+      "onboard_time": 1757983883,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 764624,
@@ -777,6 +809,14 @@
       "onboard_time": 1757782161,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583819,
+      "num": 583819,
+      "word": "三只羊嘴哥复播在线人数超10万",
+      "onboard_time": 1757983823,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 569676,
@@ -1123,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 453351,
+      "num": 453351,
+      "word": "上海迪士尼门票半价了",
+      "onboard_time": 1757985023,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 447283,
       "num": 447283,
       "word": "骗子混入工作群冒充董事长骗走60万",
@@ -1299,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414087,
+      "num": 414087,
+      "word": "氢氟酸",
+      "onboard_time": 1757984242,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 407841,
       "num": 326740,
       "word": "澳洲你管这个叫青菜",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1757811081,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 388478,
+      "num": 358645,
+      "word": "赴山海洞洞鞋穿帮",
+      "onboard_time": 1757986522,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 387987,
@@ -1555,12 +1619,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 354490,
-      "num": 354490,
+      "raw_hot": 358834,
+      "num": 358834,
       "word": "成都暴雨",
       "onboard_time": 1757977459,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357916,
+      "num": 357916,
+      "word": "三只羊回应正式复播",
+      "onboard_time": 1757986042,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 357732,
+      "num": 357732,
+      "word": "管制位黄岩岛非法活动的多艘菲船",
+      "onboard_time": 1757982502,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 349842,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1757910384,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 349014,
+      "num": 349014,
+      "word": "宋亚轩从16岁就跟着沈腾",
+      "onboard_time": 1757977758,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 348079,
@@ -1691,12 +1779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319958,
+      "num": 319958,
+      "word": "嘎子哥拍戏期间穿警服直播带货",
+      "onboard_time": 1757979980,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319767,
       "num": 319767,
       "word": "中国不下单美国大豆农民真的慌了",
       "onboard_time": 1757805438,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 318485,
+      "num": 227409,
+      "word": "家长质疑2790元教辅费贵被老师警告",
+      "onboard_time": 1757977820,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318189,
@@ -1769,6 +1873,14 @@
       "onboard_time": 1757760863,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298843,
+      "num": 298843,
+      "word": "辛芷蕾 梁婷",
+      "onboard_time": 1757984122,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 296803,
@@ -2203,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238429,
+      "num": 238429,
+      "word": "黄岩岛",
+      "onboard_time": 1757985322,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 237881,
       "num": 237881,
       "word": "樊振东玉面战神",
@@ -2315,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223391,
+      "num": 223391,
+      "word": "有日本网民呼吁上映731",
+      "onboard_time": 1757981243,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223279,
       "num": 234153,
       "word": "世界第二大网红遇上折耳根也没招了",
@@ -2409,6 +2537,14 @@
       "onboard_time": 1757901381,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215335,
+      "num": 215335,
+      "word": "12岁被虐致死女孩曾被关厕所17天",
+      "onboard_time": 1757984542,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214322,
@@ -2635,6 +2771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198823,
+      "num": 198823,
+      "word": "肖战 美团团购",
+      "onboard_time": 1757986760,
+      "rank": 25,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 198703,
       "num": 173683,
       "word": "体检报告这些字眼或是癌症信号",
@@ -2851,6 +2995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192610,
+      "num": 192610,
+      "word": "特朗普称去年3亿人死于毒品",
+      "onboard_time": 1757984542,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "WTT澳门冠军赛2025",
@@ -2889,6 +3041,14 @@
       "onboard_time": 1757855185,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190890,
+      "num": 223037,
+      "word": "金价",
+      "onboard_time": 1757986402,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 190008,
@@ -3003,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184333,
+      "num": 163102,
+      "word": "菲律宾",
+      "onboard_time": 1757986402,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183921,
       "num": 163612,
       "word": "孙颖莎晋级澳门冠军赛决赛",
@@ -3081,14 +3249,6 @@
       "onboard_time": 1757829682,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179177,
-      "num": 179177,
-      "word": "宋亚轩从16岁就跟着沈腾",
-      "onboard_time": 1757977758,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178676,
@@ -3251,6 +3411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170553,
+      "num": 170553,
+      "word": "国庆中秋购票4个关键时间",
+      "onboard_time": 1757983583,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169091,
       "num": 169091,
       "word": "瘦了20斤鼻子变化",
@@ -3353,6 +3521,14 @@
       "onboard_time": 1757911226,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164749,
+      "num": 164749,
+      "word": "驻华机构中国雇员不得危害国家安全",
+      "onboard_time": 1757979141,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164494,
@@ -3489,6 +3665,14 @@
       "onboard_time": 1757933724,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160877,
+      "num": 160877,
+      "word": "打电话要小心苹果手机的语音信箱",
+      "onboard_time": 1757983523,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 160815,
@@ -3683,14 +3867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155414,
-      "num": 227409,
-      "word": "家长质疑2790元教辅费贵被老师警告",
-      "onboard_time": 1757977820,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154721,
       "num": 256616,
       "word": "荆州市原市长周志红被查",
@@ -3817,6 +3993,14 @@
       "onboard_time": 1757836882,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150133,
+      "num": 150133,
+      "word": "iOS26",
+      "onboard_time": 1757977820,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 150097,
@@ -4121,14 +4305,6 @@
       "onboard_time": 1757920823,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141601,
-      "num": 141601,
-      "word": "iOS26",
-      "onboard_time": 1757977820,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 141149,
@@ -4915,6 +5091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117015,
+      "num": 150126,
+      "word": "抖音副总裁回应字节离职赛道",
+      "onboard_time": 1757981543,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117011,
       "num": 172853,
       "word": "张艺兴回应飞奔赶高铁",
@@ -4961,6 +5145,14 @@
       "onboard_time": 1757927542,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116020,
+      "num": 150057,
+      "word": "被孙尚香台词硬控30秒",
+      "onboard_time": 1757984542,
+      "rank": 38,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 115512,
@@ -5217,6 +5409,14 @@
       "onboard_time": 1757833582,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107883,
+      "num": 149909,
+      "word": "iG收官发文",
+      "onboard_time": 1757982682,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 107791,
@@ -5539,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99614,
+      "num": 149845,
+      "word": "倾诉欲好强的一个企业",
+      "onboard_time": 1757986042,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99576,
       "num": 99576,
       "word": "微博奇遇记直播",
@@ -5665,6 +5873,14 @@
       "onboard_time": 1757936063,
       "rank": 42,
       "category": "民生新闻,游戏"
+    },
+    {
+      "raw_hot": 97363,
+      "num": 149826,
+      "word": "今起常温纯牛奶禁加复原乳",
+      "onboard_time": 1757987063,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97149,
@@ -5931,6 +6147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 87154,
+      "num": 161158,
+      "word": "俄称北约若击落其无人机等于宣战",
+      "onboard_time": 1757982682,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87057,
       "num": 87057,
       "word": "中医说这两个小时一定要睡好",
@@ -5971,20 +6195,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85720,
+      "num": 149681,
+      "word": "苹果回应iOS26掉电快",
+      "onboard_time": 1757984842,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85477,
       "num": 87400,
       "word": "央视起底所谓零添加酱油真相",
       "onboard_time": 1757773947,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 85140,
-      "num": 85140,
-      "word": "驻华机构中国雇员不得危害国家安全",
-      "onboard_time": 1757979141,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84860,
@@ -6065,6 +6289,14 @@
       "onboard_time": 1757831183,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80158,
+      "num": 149671,
+      "word": "谁家小猫中分在后脑勺啊",
+      "onboard_time": 1757984482,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 79923,
@@ -6257,6 +6489,14 @@
       "onboard_time": 1757769564,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73632,
+      "num": 149632,
+      "word": "武侠美甲",
+      "onboard_time": 1757958976,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 73263,
@@ -6569,14 +6809,6 @@
       "onboard_time": 1757892439,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58720,
-      "num": 78657,
-      "word": "武侠美甲",
-      "onboard_time": 1757958976,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 58659,
