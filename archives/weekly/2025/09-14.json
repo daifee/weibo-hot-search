@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758027930137,
+  "endTime": 1758029678039,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -2379,6 +2379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 307278,
+      "num": 307278,
+      "word": "高校通报男留学生与女生同住公寓",
+      "onboard_time": 1758028044,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 306772,
       "num": 476196,
       "word": "吴艳妮回应止步100米栏预赛",
@@ -3057,6 +3065,14 @@
       "onboard_time": 1757859026,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230779,
+      "num": 230779,
+      "word": "红舞鞋",
+      "onboard_time": 1758028885,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 230627,
@@ -3907,6 +3923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192531,
+      "num": 177847,
+      "word": "男童游乐场推落4岁女童后转身离去",
+      "onboard_time": 1758026304,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "WTT澳门冠军赛2025",
@@ -4235,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178859,
+      "num": 178859,
+      "word": "董璇王楚然同款旗袍",
+      "onboard_time": 1758028044,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178676,
       "num": 178676,
       "word": "张艺兴周星驰 两个孙悟空",
@@ -4315,11 +4347,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175948,
+      "num": 175948,
+      "word": "连麦六次失忆六次心动六次",
+      "onboard_time": 1758026066,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175693,
       "num": 200677,
       "word": "赴山海穿帮画面已微调",
       "onboard_time": 1757991323,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175096,
+      "num": 177500,
+      "word": "赴山海系统重启",
+      "onboard_time": 1758027444,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -4475,14 +4523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170393,
-      "num": 170393,
-      "word": "男童游乐场推落4岁女童后转身离去",
-      "onboard_time": 1758026304,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170292,
       "num": 216191,
       "word": "赴山海",
@@ -4496,6 +4536,14 @@
       "word": "王乐晨主动牵卢远的手",
       "onboard_time": 1758006742,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169680,
+      "num": 169680,
+      "word": "张晚意李沁太适合打包送同个剧组了",
+      "onboard_time": 1758025289,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -4723,14 +4771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163809,
-      "num": 177500,
-      "word": "赴山海系统重启",
-      "onboard_time": 1758027444,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163688,
       "num": 163688,
       "word": "中方将采取必要措施",
@@ -4775,14 +4815,6 @@
       "num": 162972,
       "word": "田曦薇身上的野猫味熏到康康了",
       "onboard_time": 1758000323,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 162695,
-      "num": 162695,
-      "word": "张晚意李沁太适合打包送同个剧组了",
-      "onboard_time": 1758025289,
       "rank": 41,
       "category": "综艺"
     },
@@ -4865,6 +4897,14 @@
       "onboard_time": 1757990300,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161488,
+      "num": 161488,
+      "word": "卢昱晓劝架",
+      "onboard_time": 1758028766,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 161450,
@@ -4977,6 +5017,14 @@
       "onboard_time": 1757860165,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159568,
+      "num": 159568,
+      "word": "宋亚轩二连MVP",
+      "onboard_time": 1758029184,
+      "rank": 32,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 159466,
@@ -6155,6 +6203,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 132636,
+      "num": 164412,
+      "word": "iOS26新增游戏APP",
+      "onboard_time": 1758026124,
+      "rank": 39,
+      "category": "数码,游戏"
+    },
+    {
       "raw_hot": 131973,
       "num": 131973,
       "word": "新华社出图限量阅兵明信片",
@@ -6723,6 +6779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119494,
+      "num": 119494,
+      "word": "杜淳女儿脱水导致酸中毒",
+      "onboard_time": 1758027865,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119315,
       "num": 119315,
       "word": "国庆车票比演唱会门票还难抢",
@@ -6905,6 +6969,14 @@
       "onboard_time": 1757927542,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116227,
+      "num": 326133,
+      "word": "山东60岁大爷退休前首次参加法考",
+      "onboard_time": 1758027265,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116020,
@@ -7107,14 +7179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110059,
-      "num": 110059,
-      "word": "杜淳女儿脱水导致酸中毒",
-      "onboard_time": 1758027865,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110003,
       "num": 110003,
       "word": "李国庆谈中餐预制菜到底能不能吃",
@@ -7169,6 +7233,14 @@
       "onboard_time": 1757871736,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109513,
+      "num": 109513,
+      "word": "AirPods清洗教程",
+      "onboard_time": 1758029546,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 109391,
@@ -8235,6 +8307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80796,
+      "num": 187092,
+      "word": "严禁退休干部到农村占地建房",
+      "onboard_time": 1758028584,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80692,
       "num": 80692,
       "word": "居民乘电梯被困30楼呼救无响应",
@@ -8339,6 +8419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79142,
+      "num": 109071,
+      "word": "太原警方通报男子潜入酒店偷窥",
+      "onboard_time": 1758029604,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 78829,
       "num": 78829,
       "word": "泪失禁其实是你的超能力",
@@ -8417,14 +8505,6 @@
       "onboard_time": 1757841083,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76440,
-      "num": 164412,
-      "word": "iOS26新增游戏APP",
-      "onboard_time": 1758026124,
-      "rank": 39,
-      "category": "数码,游戏"
     },
     {
       "raw_hot": 76410,
@@ -8721,14 +8801,6 @@
       "onboard_time": 1757943084,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 68180,
-      "num": 326133,
-      "word": "山东60岁大爷退休前首次参加法考",
-      "onboard_time": 1758027265,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68052,
@@ -9371,6 +9443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41641,
+      "num": 140872,
+      "word": "菲方船只装了格力空调",
+      "onboard_time": 1758029245,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41437,
       "num": 41437,
       "word": "孙颖莎自带小皇冠",
@@ -9507,6 +9587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34583,
+      "num": 174965,
+      "word": "氢氟酸发现地附近存在幼儿园",
+      "onboard_time": 1758027684,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34099,
       "num": 95557,
       "word": "艾美奖",
@@ -9593,14 +9681,6 @@
       "onboard_time": 1757925863,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 31332,
-      "num": 174965,
-      "word": "氢氟酸发现地附近存在幼儿园",
-      "onboard_time": 1758027684,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30766,
@@ -9729,6 +9809,14 @@
       "onboard_time": 1758014064,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25952,
+      "num": 156859,
+      "word": "马思超这舞我能笑一整天",
+      "onboard_time": 1758028164,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 25883,
