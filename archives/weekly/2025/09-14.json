@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757996942074,
+  "endTime": 1757997724801,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -75,7 +75,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2105792,
+      "raw_hot": 2144234,
       "num": 1132615,
       "word": "陈晓直播好几次叹气",
       "onboard_time": 1757993964,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1852775,
-      "num": 412166,
+      "num": 412426,
       "word": "涉毒艺人苏永康将在温州办演唱会",
       "onboard_time": 1757946926,
       "rank": 7,
@@ -345,6 +345,14 @@
       "onboard_time": 1757849903,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1145408,
+      "num": 739055,
+      "word": "以色列威胁不到中国手机",
+      "onboard_time": 1757995465,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1139244,
@@ -691,20 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 762119,
-      "num": 762119,
+      "raw_hot": 763363,
+      "num": 763363,
       "word": "12306抢票",
       "onboard_time": 1757993122,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 760156,
-      "num": 739055,
-      "word": "以色列威胁不到中国手机",
-      "onboard_time": 1757995465,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 754951,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1757805198,
       "rank": 30,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 514424,
+      "num": 514424,
+      "word": "心动的信号 时尚芭莎",
+      "onboard_time": 1757993723,
+      "rank": 48,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 509446,
@@ -1835,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344107,
-      "num": 344107,
-      "word": "心动的信号 时尚芭莎",
-      "onboard_time": 1757993723,
-      "rank": 48,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 343120,
       "num": 343120,
       "word": "女子在瓜地发现东西瓜",
@@ -2355,6 +2355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252498,
+      "num": 397696,
+      "word": "上海网红面包店将未售面包直接丢弃",
+      "onboard_time": 1757996544,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252246,
       "num": 252246,
       "word": "iPhone17没有的背屏在小米17Pro上",
@@ -2457,6 +2465,14 @@
       "onboard_time": 1757851402,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245209,
+      "num": 230410,
+      "word": "这下谁敢去负二层停车",
+      "onboard_time": 1757996185,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 242995,
@@ -2627,14 +2643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 230410,
-      "num": 230410,
-      "word": "这下谁敢去负二层停车",
-      "onboard_time": 1757996185,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229610,
       "num": 229610,
       "word": "中介发布假房源最高可罚10万元",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1757833822,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227065,
+      "num": 418726,
+      "word": "刘涛 利他即利己",
+      "onboard_time": 1757996424,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 224803,
@@ -2692,7 +2708,7 @@
     },
     {
       "raw_hot": 222430,
-      "num": 204424,
+      "num": 221262,
       "word": "从发工资时间看公司实力",
       "onboard_time": 1757994924,
       "rank": 41,
@@ -2947,14 +2963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205237,
-      "num": 205237,
-      "word": "刘涛 利他即利己",
-      "onboard_time": 1757996424,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204307,
       "num": 204307,
       "word": "iG 世界赛",
@@ -2993,6 +3001,14 @@
       "onboard_time": 1757925502,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 203232,
+      "num": 203232,
+      "word": "心动的信号",
+      "onboard_time": 1757996243,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 202316,
@@ -3057,14 +3073,6 @@
       "onboard_time": 1757993061,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 199413,
-      "num": 199413,
-      "word": "心动的信号",
-      "onboard_time": 1757996243,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 198852,
@@ -3531,6 +3539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181674,
+      "num": 181674,
+      "word": "柯淳撒娇抱抱哄宁静",
+      "onboard_time": 1757997564,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180946,
       "num": 180946,
       "word": "邪修月饼只需一秒就够了",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1757808920,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177303,
+      "num": 177303,
+      "word": "王楚钦孙颖莎混双世排第7",
+      "onboard_time": 1757996965,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 177117,
@@ -3721,6 +3745,14 @@
       "onboard_time": 1757916024,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172317,
+      "num": 172317,
+      "word": "卢远王乐晨爆灯",
+      "onboard_time": 1757997624,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 172196,
@@ -3912,6 +3944,14 @@
       "word": "赴山海服化道",
       "onboard_time": 1757854345,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163999,
+      "num": 205200,
+      "word": "成毅说希望观众不要跟风吐槽",
+      "onboard_time": 1757996304,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -4169,6 +4209,14 @@
       "onboard_time": 1757913563,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 157538,
+      "num": 157538,
+      "word": "狗狗帮生病的好朋狗传话",
+      "onboard_time": 1757997564,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 157368,
@@ -4835,6 +4883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138433,
+      "num": 204998,
+      "word": "大张伟老了就这样",
+      "onboard_time": 1757996483,
+      "rank": 37,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 138344,
       "num": 138344,
       "word": "于东来相信西贝如有问题定会解决",
@@ -4881,6 +4937,14 @@
       "onboard_time": 1757845223,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135855,
+      "num": 648786,
+      "word": "中国海警对菲船采取水炮喷射等措施",
+      "onboard_time": 1757996845,
+      "rank": 40,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 135774,
@@ -5160,14 +5224,6 @@
       "word": "没说赴山海赴的是刀山火海啊",
       "onboard_time": 1757940865,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126459,
-      "num": 205200,
-      "word": "成毅说希望观众不要跟风吐槽",
-      "onboard_time": 1757996304,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -6459,14 +6515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94414,
-      "num": 397696,
-      "word": "上海网红面包店将未售面包直接丢弃",
-      "onboard_time": 1757996544,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94374,
       "num": 140633,
       "word": "最新版iPhone全部配件分享",
@@ -6561,6 +6609,14 @@
       "onboard_time": 1757902582,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90330,
+      "num": 180513,
+      "word": "和迪丽热巴对视",
+      "onboard_time": 1757997684,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 90153,
@@ -6867,14 +6923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78323,
-      "num": 204662,
-      "word": "中国海警对菲船采取水炮喷射等措施",
-      "onboard_time": 1757996845,
-      "rank": 40,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 78177,
       "num": 92610,
       "word": "女子接一客服电话50万存款被转走",
@@ -6993,6 +7041,14 @@
       "onboard_time": 1757769564,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73909,
+      "num": 204897,
+      "word": "剧毒的氢氟酸可以在网上直接购买",
+      "onboard_time": 1757996603,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73632,
@@ -7363,6 +7419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57911,
+      "num": 1132834,
+      "word": "新疆70年",
+      "onboard_time": 1757996903,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57333,
       "num": 338163,
       "word": "中国达成协议的三个绝不牺牲",
@@ -7641,14 +7705,6 @@
       "onboard_time": 1757958916,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46225,
-      "num": 204897,
-      "word": "剧毒的氢氟酸可以在网上直接购买",
-      "onboard_time": 1757996603,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45360,
@@ -8011,14 +8067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27445,
-      "num": 204998,
-      "word": "大张伟老了就这样",
-      "onboard_time": 1757996483,
-      "rank": 37,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 25463,
       "num": 46255,
       "word": "汪苏泷大转盘比综艺还会整活",
@@ -8328,14 +8376,6 @@
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1757910442,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6050,
-      "num": 1132834,
-      "word": "新疆70年",
-      "onboard_time": 1757996903,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
