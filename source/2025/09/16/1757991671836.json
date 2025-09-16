@@ -1,0 +1,410 @@
+{
+  "runTime": 1757991671836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1457421,
+        "num": 1457421,
+        "word": "赴山海洞洞鞋穿帮",
+        "onboard_time": 1757986522,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1047302,
+        "num": 1047302,
+        "word": "氢氟酸",
+        "onboard_time": 1757984242,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27243,
+        "num": 944562,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 920328,
+        "num": 920328,
+        "word": "太二酸菜鱼下单到上鱼仅6分钟",
+        "onboard_time": 1757987481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1067273,
+        "num": 912824,
+        "word": "金价",
+        "onboard_time": 1757986402,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 892281,
+        "num": 892281,
+        "word": "成都通报一女子公园自缢",
+        "onboard_time": 1757990182,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 560702,
+        "num": 560702,
+        "word": "肖战 美团团购",
+        "onboard_time": 1757986760,
+        "rank": 6,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 450185,
+        "num": 450185,
+        "word": "iOS26 丑",
+        "onboard_time": 1757989942,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 398514,
+        "num": 398514,
+        "word": "上海迪士尼门票半价了",
+        "onboard_time": 1757985023,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 368756,
+        "num": 397226,
+        "word": "以色列坦克已入城",
+        "onboard_time": 1757989582,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1059445,
+        "num": 388298,
+        "word": "成毅方全网取证绝不姑息",
+        "onboard_time": 1757985142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782246,
+        "num": 385217,
+        "word": "陈乔恩晒粉红云海悼念乔任梁",
+        "onboard_time": 1757984063,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622137,
+        "num": 381553,
+        "word": "她们的鞋没有足弓支撑",
+        "onboard_time": 1757983883,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428364,
+        "num": 374968,
+        "word": "涉毒艺人苏永康将在温州办演唱会",
+        "onboard_time": 1757946926,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371753,
+        "num": 371753,
+        "word": "今起常温纯牛奶禁加复原乳",
+        "onboard_time": 1757987063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288481,
+        "num": 288481,
+        "word": "辛芷蕾 梁婷",
+        "onboard_time": 1757984122,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280872,
+        "num": 280872,
+        "word": "别再给皮肤喂满汉全席了",
+        "onboard_time": 1757990782,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 265718,
+        "num": 265718,
+        "word": "外国人演我见到秦岚",
+        "onboard_time": 1757990483,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255890,
+        "num": 255890,
+        "word": "赴山海开播5天引吐槽不断",
+        "onboard_time": 1757980581,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230627,
+        "num": 230627,
+        "word": "点过日料外卖的人天塌了",
+        "onboard_time": 1757989582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221996,
+        "num": 221996,
+        "word": "易烊千玺方发律师声明",
+        "onboard_time": 1757990541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217707,
+        "num": 217707,
+        "word": "10月1日取消火车纸质报销凭证",
+        "onboard_time": 1757987722,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214288,
+        "num": 214288,
+        "word": "星品",
+        "onboard_time": 1757988081,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211960,
+        "num": 211960,
+        "word": "成毅曾回应赴山海吐槽",
+        "onboard_time": 1757989702,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209504,
+        "num": 209504,
+        "word": "孙颖莎觉得邱贻可拿自己当闺女看",
+        "onboard_time": 1757991083,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204847,
+        "num": 204847,
+        "word": "管制位黄岩岛非法活动的多艘菲船",
+        "onboard_time": 1757982502,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181138,
+        "num": 181138,
+        "word": "宋亚轩从16岁就跟着沈腾",
+        "onboard_time": 1757977758,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176298,
+        "num": 176298,
+        "word": "范世錡把小狗骨灰做成沙漏项链",
+        "onboard_time": 1757990962,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167999,
+        "num": 167999,
+        "word": "中美就TikTok等问题进行了沟通",
+        "onboard_time": 1757950704,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75624,
+        "num": 167028,
+        "word": "警方正调查氢氟酸来源",
+        "onboard_time": 1757991021,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166746,
+        "num": 166746,
+        "word": "为啥大连锁餐厅不敢用活鱼",
+        "onboard_time": 1757988262,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162069,
+        "num": 162069,
+        "word": "菲律宾",
+        "onboard_time": 1757986402,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161636,
+        "num": 161636,
+        "word": "28岁每天运动1小时体态的变化",
+        "onboard_time": 1757990300,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 153335,
+        "num": 153335,
+        "word": "黄岩岛",
+        "onboard_time": 1757985322,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150114,
+        "num": 150114,
+        "word": "睡眠对减重的重要性",
+        "onboard_time": 1757990902,
+        "rank": 34,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 147188,
+        "num": 147188,
+        "word": "国庆中秋购票4个关键时间",
+        "onboard_time": 1757983583,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145158,
+        "num": 145158,
+        "word": "蔡徐坤 谁在纽约",
+        "onboard_time": 1757990062,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138639,
+        "num": 138639,
+        "word": "女子踩到氢氟酸现场已无害化处置",
+        "onboard_time": 1757952202,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52627,
+        "num": 132865,
+        "word": "万斯称有人竟在查理柯克的坟墓上跳舞",
+        "onboard_time": 1757991502,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116359,
+        "num": 132800,
+        "word": "赴山海穿帮画面已微调",
+        "onboard_time": 1757991323,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132773,
+        "num": 132773,
+        "word": "四六级报名",
+        "onboard_time": 1757991201,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127696,
+        "num": 127696,
+        "word": "王楚钦9425分重回世一",
+        "onboard_time": 1757988502,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126502,
+        "num": 126502,
+        "word": "成都暴雨",
+        "onboard_time": 1757977459,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124874,
+        "num": 124874,
+        "word": "官方回应涉毒艺人办演唱会遭投诉",
+        "onboard_time": 1757946926,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122626,
+        "num": 122626,
+        "word": "张一山新剧又干上卧底了",
+        "onboard_time": 1757991323,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122621,
+        "num": 122621,
+        "word": "女子卫生巾内藏674.7克足金",
+        "onboard_time": 1757947526,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120106,
+        "num": 120106,
+        "word": "特朗普称去年3亿人死于毒品",
+        "onboard_time": 1757984542,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117580,
+        "num": 117580,
+        "word": "官方通报52岁女子中毒身亡",
+        "onboard_time": 1757949624,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 114369,
+        "num": 114369,
+        "word": "那英5个字总结张晚意",
+        "onboard_time": 1757991562,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110749,
+        "num": 110749,
+        "word": "iOS26 液态玻璃",
+        "onboard_time": 1757987481,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}

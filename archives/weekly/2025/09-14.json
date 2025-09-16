@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1757988560289,
+  "endTime": 1757991671836,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1643520,
-      "num": 346954,
+      "num": 388298,
       "word": "成毅方全网取证绝不姑息",
       "onboard_time": 1757985142,
       "rank": 10,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1457421,
+      "num": 1457421,
+      "word": "赴山海洞洞鞋穿帮",
+      "onboard_time": 1757986522,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1364705,
       "num": 1364705,
       "word": "英伟达违法",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1183092,
-      "num": 344203,
+      "num": 385217,
       "word": "陈乔恩晒粉红云海悼念乔任梁",
       "onboard_time": 1757984063,
       "rank": 11,
@@ -323,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1067273,
+      "num": 912824,
+      "word": "金价",
+      "onboard_time": 1757986402,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1057094,
       "num": 564102,
       "word": "武林外传",
       "onboard_time": 1757859566,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1047302,
+      "num": 1047302,
+      "word": "氢氟酸",
+      "onboard_time": 1757984242,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1037710,
@@ -371,14 +395,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 985868,
-      "num": 1157738,
-      "word": "赴山海洞洞鞋穿帮",
-      "onboard_time": 1757986522,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 981228,
       "num": 1156317,
       "word": "唐嫣紧张到声音都在发抖",
@@ -419,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 940971,
-      "num": 940971,
-      "word": "氢氟酸",
-      "onboard_time": 1757984242,
-      "rank": 4,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 930525,
       "num": 273370,
       "word": "西贝",
@@ -441,6 +449,14 @@
       "onboard_time": 1757844502,
       "rank": 7,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 920328,
+      "num": 920328,
+      "word": "太二酸菜鱼下单到上鱼仅6分钟",
+      "onboard_time": 1757987481,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 909422,
@@ -473,6 +489,14 @@
       "onboard_time": 1757844082,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 892281,
+      "num": 892281,
+      "word": "成都通报一女子公园自缢",
+      "onboard_time": 1757990182,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 862627,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 768685,
-      "num": 338473,
+      "num": 381553,
       "word": "她们的鞋没有足弓支撑",
       "onboard_time": 1757983883,
       "rank": 12,
@@ -1195,6 +1219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 450185,
+      "num": 450185,
+      "word": "iOS26 丑",
+      "onboard_time": 1757989942,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 447283,
       "num": 447283,
       "word": "骗子混入工作群冒充董事长骗走60万",
@@ -1555,12 +1587,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 371753,
+      "num": 371753,
+      "word": "今起常温纯牛奶禁加复原乳",
+      "onboard_time": 1757987063,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371688,
       "num": 326980,
       "word": "张凌赫背着王楚然出嫁路透",
       "onboard_time": 1757838503,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368756,
+      "num": 397226,
+      "word": "以色列坦克已入城",
+      "onboard_time": 1757989582,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 367987,
@@ -1875,14 +1923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305736,
-      "num": 305736,
-      "word": "金价",
-      "onboard_time": 1757986402,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 303484,
       "num": 270969,
       "word": "园长回应幼儿园开课教擦屁股",
@@ -2003,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280872,
+      "num": 280872,
+      "word": "别再给皮肤喂满汉全席了",
+      "onboard_time": 1757990782,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 279736,
       "num": 220996,
       "word": "何秋亊 人民非遗推荐人",
@@ -2065,6 +2113,14 @@
       "onboard_time": 1757860046,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 265718,
+      "num": 265718,
+      "word": "外国人演我见到秦岚",
+      "onboard_time": 1757990483,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 265575,
@@ -2443,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230627,
+      "num": 230627,
+      "word": "点过日料外卖的人天塌了",
+      "onboard_time": 1757989582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230605,
       "num": 230605,
       "word": "尼日利亚一载5名中国人车队遭袭击",
@@ -2507,6 +2571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221996,
+      "num": 221996,
+      "word": "易烊千玺方发律师声明",
+      "onboard_time": 1757990541,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221259,
       "num": 221259,
       "word": "HLE战胜T1",
@@ -2520,14 +2592,6 @@
       "word": "西贝回应停止开放后厨参观",
       "onboard_time": 1757860826,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220017,
-      "num": 220017,
-      "word": "太二酸菜鱼下单到上鱼仅6分钟",
-      "onboard_time": 1757987481,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2568,6 +2632,14 @@
       "word": "外国醉汉殴打中国留学生",
       "onboard_time": 1757899460,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217707,
+      "num": 217707,
+      "word": "10月1日取消火车纸质报销凭证",
+      "onboard_time": 1757987722,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -2643,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211960,
+      "num": 211960,
+      "word": "成毅曾回应赴山海吐槽",
+      "onboard_time": 1757989702,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211293,
       "num": 211293,
       "word": "孙颖莎美美SUNday",
@@ -2657,6 +2737,14 @@
       "onboard_time": 1757923582,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209504,
+      "num": 209504,
+      "word": "孙颖莎觉得邱贻可拿自己当闺女看",
+      "onboard_time": 1757991083,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 209197,
@@ -3299,14 +3387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177732,
-      "num": 302867,
-      "word": "今起常温纯牛奶禁加复原乳",
-      "onboard_time": 1757987063,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177691,
       "num": 177691,
       "word": "当代年轻人的生意经",
@@ -3344,6 +3424,14 @@
       "word": "张晚意可daddy可honey",
       "onboard_time": 1757907202,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176298,
+      "num": 176298,
+      "word": "范世錡把小狗骨灰做成沙漏项链",
+      "onboard_time": 1757990962,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -3531,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166746,
+      "num": 166746,
+      "word": "为啥大连锁餐厅不敢用活鱼",
+      "onboard_time": 1757988262,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166249,
       "num": 166249,
       "word": "女子表演与蟒蛇亲嘴被咬血流不止",
@@ -3681,6 +3777,14 @@
       "onboard_time": 1757917883,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161636,
+      "num": 161636,
+      "word": "28岁每天运动1小时体态的变化",
+      "onboard_time": 1757990300,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 161450,
@@ -3868,7 +3972,7 @@
     },
     {
       "raw_hot": 156435,
-      "num": 820700,
+      "num": 944562,
       "word": "一系列重要成果亮相2025年国家网络安全宣传周",
       "onboard_time": 1757930482,
       "rank": 24,
@@ -4027,6 +4131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150114,
+      "num": 150114,
+      "word": "睡眠对减重的重要性",
+      "onboard_time": 1757990902,
+      "rank": 34,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 150097,
       "num": 150097,
       "word": "涅槃",
@@ -4177,6 +4289,14 @@
       "onboard_time": 1757947884,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145158,
+      "num": 145158,
+      "word": "蔡徐坤 谁在纽约",
+      "onboard_time": 1757990062,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 145116,
@@ -4627,6 +4747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 132773,
+      "num": 132773,
+      "word": "四六级报名",
+      "onboard_time": 1757991201,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132659,
       "num": 141901,
       "word": "瑞达竞业协议",
@@ -4641,14 +4769,6 @@
       "onboard_time": 1757921782,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 131675,
-      "num": 131675,
-      "word": "10月1日取消火车纸质报销凭证",
-      "onboard_time": 1757987722,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131303,
@@ -4761,6 +4881,14 @@
       "onboard_time": 1757914524,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127696,
+      "num": 127696,
+      "word": "王楚钦9425分重回世一",
+      "onboard_time": 1757988502,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127204,
@@ -4905,6 +5033,14 @@
       "onboard_time": 1757940444,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122626,
+      "num": 122626,
+      "word": "张一山新剧又干上卧底了",
+      "onboard_time": 1757991323,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 122621,
@@ -5187,20 +5323,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116359,
+      "num": 132800,
+      "word": "赴山海穿帮画面已微调",
+      "onboard_time": 1757991323,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116020,
       "num": 150057,
       "word": "被孙尚香台词硬控30秒",
       "onboard_time": 1757984542,
       "rank": 38,
       "category": "游戏,幽默"
-    },
-    {
-      "raw_hot": 115868,
-      "num": 115868,
-      "word": "为啥大连锁餐厅不敢用活鱼",
-      "onboard_time": 1757988262,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115512,
@@ -5241,6 +5377,14 @@
       "onboard_time": 1757816722,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114369,
+      "num": 114369,
+      "word": "那英5个字总结张晚意",
+      "onboard_time": 1757991562,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 114332,
@@ -5345,6 +5489,14 @@
       "onboard_time": 1757938583,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110749,
+      "num": 110749,
+      "word": "iOS26 液态玻璃",
+      "onboard_time": 1757987481,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 110631,
@@ -5931,14 +6083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97702,
-      "num": 97702,
-      "word": "iOS26 液态玻璃",
-      "onboard_time": 1757987481,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 97531,
       "num": 95454,
       "word": "瑞幸崩铁联动冷变杯炒到180元",
@@ -6291,14 +6435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84354,
-      "num": 84354,
-      "word": "王楚钦9425分重回世一",
-      "onboard_time": 1757988502,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84028,
       "num": 84028,
       "word": "小偷一顿操作气笑民警",
@@ -6529,6 +6665,14 @@
       "onboard_time": 1757780902,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75624,
+      "num": 167028,
+      "word": "警方正调查氢氟酸来源",
+      "onboard_time": 1757991021,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75155,
@@ -7017,6 +7161,14 @@
       "onboard_time": 1757906062,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52627,
+      "num": 132865,
+      "word": "万斯称有人竟在查理柯克的坟墓上跳舞",
+      "onboard_time": 1757991502,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52299,
