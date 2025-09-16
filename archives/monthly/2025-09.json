@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758001216018,
+  "endTime": 1758004605681,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -905,6 +905,14 @@
       "onboard_time": 1756865254,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1939006,
+      "num": 1939006,
+      "word": "多名男留学生混住在女生宿舍楼",
+      "onboard_time": 1758000805,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1913036,
@@ -2819,6 +2827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 989119,
+      "num": 989119,
+      "word": "成毅回应赴山海台词含糊",
+      "onboard_time": 1757998104,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 989015,
       "num": 989015,
       "word": "杜江说期待世界上最棒的分列式",
@@ -3177,6 +3193,14 @@
       "onboard_time": 1757046144,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 904284,
+      "num": 904284,
+      "word": "王琳 血淋淋的大女主真人秀",
+      "onboard_time": 1757999123,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 902583,
@@ -4849,14 +4873,6 @@
       "onboard_time": 1757726542,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 683832,
-      "num": 641734,
-      "word": "成毅回应赴山海台词含糊",
-      "onboard_time": 1757998104,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 683482,
@@ -8987,6 +9003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 408596,
+      "num": 408596,
+      "word": "贺刚为成毅发声",
+      "onboard_time": 1758002122,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407841,
       "num": 326740,
       "word": "澳洲你管这个叫青菜",
@@ -9257,6 +9281,14 @@
       "onboard_time": 1757079141,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 395873,
+      "num": 395873,
+      "word": "店员回应丢弃未售面包是公司规定",
+      "onboard_time": 1758002723,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395641,
@@ -9681,14 +9713,6 @@
       "onboard_time": 1757668164,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 383989,
-      "num": 383989,
-      "word": "王琳 血淋淋的大女主真人秀",
-      "onboard_time": 1757999123,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 383935,
@@ -11137,6 +11161,14 @@
       "onboard_time": 1757927782,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336134,
+      "num": 336134,
+      "word": "孙颖莎将免试进入清华大学读研",
+      "onboard_time": 1757994745,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335831,
@@ -16363,6 +16395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211962,
+      "num": 211962,
+      "word": "香港巴士司机遭铁棍插胸仍冷静停车",
+      "onboard_time": 1758003383,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211961,
       "num": 211961,
       "word": "狗 我回安全屋发泄",
@@ -16417,6 +16457,14 @@
       "onboard_time": 1757857884,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211092,
+      "num": 211092,
+      "word": "2025湾区升明月官宣",
+      "onboard_time": 1758003443,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 210991,
@@ -17513,6 +17561,14 @@
       "onboard_time": 1756960044,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200732,
+      "num": 200732,
+      "word": "地球臭氧层正在恢复",
+      "onboard_time": 1758000563,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200535,
@@ -20187,14 +20243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182959,
-      "num": 182959,
-      "word": "地球臭氧层正在恢复",
-      "onboard_time": 1758000563,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182863,
       "num": 182863,
       "word": "确诊厌6症",
@@ -21521,14 +21569,6 @@
       "onboard_time": 1757914102,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172151,
-      "num": 172151,
-      "word": "多名男留学生混住在女生宿舍楼",
-      "onboard_time": 1758000805,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172146,
@@ -27147,6 +27187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143525,
+      "num": 143525,
+      "word": "校方回应男留学生与女生混住",
+      "onboard_time": 1758004342,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "这些租房糟心事有救了",
@@ -28881,6 +28929,14 @@
       "onboard_time": 1757675364,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 136305,
+      "num": 136305,
+      "word": "恩利到底喝了多少丝瓜汤",
+      "onboard_time": 1758004101,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136267,
@@ -30979,6 +31035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128038,
+      "num": 128038,
+      "word": "只有做过家务的才知道她有多厉害",
+      "onboard_time": 1758004221,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128023,
       "num": 128023,
       "word": "TCG夺冠",
@@ -32515,6 +32579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 122095,
+      "num": 190993,
+      "word": "牙齿文身",
+      "onboard_time": 1758001102,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122053,
       "num": 239533,
       "word": "贵州文昌阁多只小猫被挖眼砍断四肢",
@@ -32537,6 +32609,14 @@
       "onboard_time": 1757923522,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122010,
+      "num": 136597,
+      "word": "俄乌战场上一名女兵死里逃生",
+      "onboard_time": 1758003923,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121991,
@@ -33193,6 +33273,14 @@
       "onboard_time": 1756915881,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119315,
+      "num": 119315,
+      "word": "国庆车票比演唱会门票还难抢",
+      "onboard_time": 1758003862,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119310,
@@ -35329,6 +35417,14 @@
       "onboard_time": 1757914283,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111446,
+      "num": 136445,
+      "word": "网红柴怼怼被刑拘",
+      "onboard_time": 1758003622,
+      "rank": 38,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 111400,
@@ -40891,6 +40987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 88369,
+      "num": 407757,
+      "word": "北方局地降温10摄氏度",
+      "onboard_time": 1758004101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88280,
       "num": 88280,
       "word": "于适被亚洲吉他大师翻牌",
@@ -45692,7 +45796,7 @@
     },
     {
       "raw_hot": 55264,
-      "num": 169579,
+      "num": 309252,
       "word": "谁懂王安宇给我做饭既视感",
       "onboard_time": 1758001102,
       "rank": 37,
@@ -47395,6 +47499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40120,
+      "num": 136317,
+      "word": "金靖闹刘宇宁笑梦回开推",
+      "onboard_time": 1758003983,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40117,
       "num": 53409,
       "word": "美13岁男孩企图实施校园杀戮被捕",
@@ -47721,6 +47833,14 @@
       "onboard_time": 1757489843,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37175,
+      "num": 167075,
+      "word": "豫鄂交界水域采金调查",
+      "onboard_time": 1758004342,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 37073,
@@ -49145,14 +49265,6 @@
       "onboard_time": 1758000441,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22138,
-      "num": 190993,
-      "word": "牙齿文身",
-      "onboard_time": 1758001102,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22134,
