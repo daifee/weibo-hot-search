@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757987284359,
+  "endTime": 1757988560289,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1235,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1643520,
+      "num": 346954,
+      "word": "成毅方全网取证绝不姑息",
+      "onboard_time": 1757985142,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1628767,
       "num": 1628767,
       "word": "预制菜之王萨莉亚为啥没人骂",
@@ -1560,14 +1568,6 @@
       "word": "疑似白敬亭宋轶分手了",
       "onboard_time": 1757298322,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1440914,
-      "num": 346954,
-      "word": "成毅方全网取证绝不姑息",
-      "onboard_time": 1757985142,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2747,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 985868,
+      "num": 1157738,
+      "word": "赴山海洞洞鞋穿帮",
+      "onboard_time": 1757986522,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 985065,
       "num": 348301,
       "word": "普京秀了一把幽默感",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1757053821,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 940971,
+      "num": 940971,
+      "word": "氢氟酸",
+      "onboard_time": 1757984242,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 938531,
@@ -4481,6 +4497,14 @@
       "onboard_time": 1757166385,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 709853,
+      "num": 709853,
+      "word": "肖战 美团团购",
+      "onboard_time": 1757986760,
+      "rank": 25,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 708657,
@@ -7507,6 +7531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466324,
+      "num": 466324,
+      "word": "上海迪士尼门票半价了",
+      "onboard_time": 1757985023,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 465626,
       "num": 912437,
       "word": "女孩遭体罚身亡老师聊天记录公布",
@@ -7785,14 +7817,6 @@
       "onboard_time": 1757125641,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 453351,
-      "num": 453351,
-      "word": "上海迪士尼门票半价了",
-      "onboard_time": 1757985023,
-      "rank": 3,
-      "category": "旅游"
     },
     {
       "raw_hot": 453078,
@@ -8363,6 +8387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 431716,
+      "num": 311261,
+      "word": "辛芷蕾 梁婷",
+      "onboard_time": 1757984122,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430686,
       "num": 916579,
       "word": "多国政要与抗战老战士握手",
@@ -8753,14 +8785,6 @@
       "onboard_time": 1757407522,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414087,
-      "num": 414087,
-      "word": "氢氟酸",
-      "onboard_time": 1757984242,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 412775,
@@ -9361,14 +9385,6 @@
       "onboard_time": 1757597614,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 388478,
-      "num": 358645,
-      "word": "赴山海洞洞鞋穿帮",
-      "onboard_time": 1757986522,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 388448,
@@ -11187,6 +11203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 327549,
+      "num": 277405,
+      "word": "12岁被虐致死女孩曾被关厕所17天",
+      "onboard_time": 1757984542,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326942,
       "num": 326942,
       "word": "王毅送匈牙利外长中国跑鞋",
@@ -12009,14 +12033,6 @@
       "onboard_time": 1757401701,
       "rank": 17,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 298843,
-      "num": 298843,
-      "word": "辛芷蕾 梁婷",
-      "onboard_time": 1757984122,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 298714,
@@ -12881,6 +12897,14 @@
       "onboard_time": 1756907306,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 275937,
+      "num": 275937,
+      "word": "星品",
+      "onboard_time": 1757988081,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275923,
@@ -14571,6 +14595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235166,
+      "num": 235166,
+      "word": "菲律宾",
+      "onboard_time": 1757986402,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234978,
       "num": 234978,
       "word": "HLE对战T1",
@@ -15475,6 +15507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220017,
+      "num": 220017,
+      "word": "太二酸菜鱼下单到上鱼仅6分钟",
+      "onboard_time": 1757987481,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219932,
       "num": 219932,
       "word": "教资科一答案",
@@ -15777,14 +15817,6 @@
       "onboard_time": 1757901381,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215335,
-      "num": 215335,
-      "word": "12岁被虐致死女孩曾被关厕所17天",
-      "onboard_time": 1757984542,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215304,
@@ -17203,6 +17235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200330,
+      "num": 200330,
+      "word": "国庆中秋购票4个关键时间",
+      "onboard_time": 1757983583,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200304,
       "num": 200304,
       "word": "华为MateTV起售价8999元",
@@ -17409,14 +17449,6 @@
       "onboard_time": 1757127501,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 198823,
-      "num": 198823,
-      "word": "肖战 美团团购",
-      "onboard_time": 1757986760,
-      "rank": 25,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 198758,
@@ -19619,14 +19651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184333,
-      "num": 163102,
-      "word": "菲律宾",
-      "onboard_time": 1757986402,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 184150,
       "num": 197346,
       "word": "u23",
@@ -20353,6 +20377,14 @@
       "onboard_time": 1757343085,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 177732,
+      "num": 302867,
+      "word": "今起常温纯牛奶禁加复原乳",
+      "onboard_time": 1757987063,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177716,
@@ -21329,14 +21361,6 @@
       "onboard_time": 1757389523,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170553,
-      "num": 170553,
-      "word": "国庆中秋购票4个关键时间",
-      "onboard_time": 1757983583,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170546,
@@ -23788,7 +23812,7 @@
     },
     {
       "raw_hot": 156435,
-      "num": 545895,
+      "num": 820700,
       "word": "一系列重要成果亮相2025年国家网络安全宣传周",
       "onboard_time": 1757930482,
       "rank": 24,
@@ -29387,6 +29411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131675,
+      "num": 131675,
+      "word": "10月1日取消火车纸质报销凭证",
+      "onboard_time": 1757987722,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131662,
       "num": 131662,
       "word": "台湾记者现场观礼后发声",
@@ -32987,6 +33019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117488,
+      "num": 117488,
+      "word": "AppleWatch高血压通知功能上线",
+      "onboard_time": 1757988081,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117477,
       "num": 117477,
       "word": "白鹿下一条争取在白天拍",
@@ -33377,6 +33417,14 @@
       "onboard_time": 1757984542,
       "rank": 38,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 115868,
+      "num": 115868,
+      "word": "为啥大连锁餐厅不敢用活鱼",
+      "onboard_time": 1757988262,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115832,
@@ -36731,6 +36779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103871,
+      "num": 103871,
+      "word": "雨果男单世排第三",
+      "onboard_time": 1757987902,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103831,
       "num": 119084,
       "word": "中国驻日大使馆用日语介绍东风5C",
@@ -36769,6 +36825,14 @@
       "onboard_time": 1757421026,
       "rank": 45,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 103660,
+      "num": 103660,
+      "word": "老外餐桌端上了新疆三文鱼",
+      "onboard_time": 1757987782,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103585,
@@ -38323,6 +38387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97702,
+      "num": 97702,
+      "word": "iOS26 液态玻璃",
+      "onboard_time": 1757987481,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 97672,
       "num": 97672,
       "word": "一轮红月愿生活圆满",
@@ -38419,14 +38491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97363,
-      "num": 149826,
-      "word": "今起常温纯牛奶禁加复原乳",
-      "onboard_time": 1757987063,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97244,
       "num": 97244,
       "word": "也是为夜经济的发展添砖加瓦了",
@@ -38505,6 +38569,14 @@
       "onboard_time": 1757688149,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97064,
+      "num": 149681,
+      "word": "苹果回应iOS26掉电快",
+      "onboard_time": 1757984842,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 97034,
@@ -40723,14 +40795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85720,
-      "num": 149681,
-      "word": "苹果回应iOS26掉电快",
-      "onboard_time": 1757984842,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 85684,
       "num": 99711,
       "word": "iPhone17系列终极爆料",
@@ -40945,6 +41009,14 @@
       "onboard_time": 1756975223,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 84354,
+      "num": 84354,
+      "word": "王楚钦9425分重回世一",
+      "onboard_time": 1757988502,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 84343,

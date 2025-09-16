@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 09:48:04
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 10:09:20
 </p>
 </blockquote>
 <p>
@@ -939,6 +939,12 @@ miumiu签了三个00花（热度：1748229）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%96%B9%E5%85%A8%E7%BD%91%E5%8F%96%E8%AF%81%E7%BB%9D%E4%B8%8D%E5%A7%91%E6%81%AF%23" target="weibo">
+成毅方全网取证绝不姑息（热度：1643520）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B9%8B%E7%8E%8B%E8%90%A8%E8%8E%89%E4%BA%9A%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E9%AA%82%23" target="weibo">
 预制菜之王萨莉亚为啥没人骂（热度：1628767）
 </a>
@@ -1181,12 +1187,6 @@ miumiu签了三个00花（热度：1748229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%88%86%E6%89%8B%E4%BA%86%23" target="weibo">
 疑似白敬亭宋轶分手了（热度：1443662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%96%B9%E5%85%A8%E7%BD%91%E5%8F%96%E8%AF%81%E7%BB%9D%E4%B8%8D%E5%A7%91%E6%81%AF%23" target="weibo">
-成毅方全网取证绝不姑息（热度：1440914）
 </a>
 </li>
 
@@ -2073,6 +2073,12 @@ iPhone17补贴后售价4999元（热度：997136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%A9%BF%E5%B8%AE%23" target="weibo">
+赴山海洞洞鞋穿帮（热度：985868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%80%E4%BA%86%E4%B8%80%E6%8A%8A%E5%B9%BD%E9%BB%98%E6%84%9F%23" target="weibo">
 普京秀了一把幽默感（热度：985065）
 </a>
@@ -2213,6 +2219,12 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%8C%E4%BA%BA%E7%94%BB%E6%8A%A5%23" target="weibo">
 张小斐迪丽热巴双人画报（热度：942416）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%A2%E6%B0%9F%E9%85%B8%23" target="weibo">
+氢氟酸（热度：940971）
 </a>
 </li>
 
@@ -3371,6 +3383,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%B3%BD%E5%88%A9%E7%A7%91%23" target="weibo">
 樊振东vs泽利科（热度：710729）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E7%BE%8E%E5%9B%A2%E5%9B%A2%E8%B4%AD%23" target="weibo">
+肖战 美团团购（热度：709853）
 </a>
 </li>
 
@@ -5643,6 +5661,12 @@ iPhone17系列价格已破发（热度：467733）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8%E5%8D%8A%E4%BB%B7%E4%BA%86%23" target="weibo">
+上海迪士尼门票半价了（热度：466324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%81%AD%E4%BD%93%E7%BD%9A%E8%BA%AB%E4%BA%A1%E8%80%81%E5%B8%88%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%85%AC%E5%B8%83%23" target="weibo">
 女孩遭体罚身亡老师聊天记录公布（热度：465626）
 </a>
@@ -5853,12 +5877,6 @@ BLG对战iG（热度：455460）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8%E5%8D%8A%E4%BB%B7%E4%BA%86%23" target="weibo">
-上海迪士尼门票半价了（热度：453351）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E6%8E%89%E5%86%9B%E8%A3%85%E5%A5%B3%E6%B0%91%E5%85%B5%E9%83%BD%E6%98%AF%E5%A4%A7%E7%BE%8E%E5%A5%B3%23" target="weibo">
 脱掉军装女民兵都是大美女（热度：453078）
 </a>
@@ -5993,24 +6011,6 @@ BLG对战iG（热度：455460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%9486%25%E7%BD%91%E6%B0%91%E4%B8%A5%E9%80%89%E7%9A%84%E5%86%9B%E8%AE%AD%E6%9C%8D%E8%A2%AB%E5%AB%8C%E4%B8%91%23" target="weibo">
 校方回应86%网民严选的军训服被嫌丑（热度：447503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E6%B7%B7%E5%85%A5%E5%B7%A5%E4%BD%9C%E7%BE%A4%E5%86%92%E5%85%85%E8%91%A3%E4%BA%8B%E9%95%BF%E9%AA%97%E8%B5%B060%E4%B8%87%23" target="weibo">
-骗子混入工作群冒充董事长骗走60万（热度：447283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%88%90%E6%89%B9%E9%80%83%E7%A6%BB%E6%9C%AC%E5%9B%BD%23" target="weibo">
-美国人成批逃离本国（热度：447275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%BC%80%E5%A4%A7%23" target="weibo">
-张杰开大（热度：446895）
 </a>
 </li>
 

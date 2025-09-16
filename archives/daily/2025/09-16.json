@@ -1,9 +1,9 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1757987284359,
+  "endTime": 1757988560289,
   "band_list": [
     {
-      "raw_hot": 1440914,
+      "raw_hot": 1643520,
       "num": 346954,
       "word": "成毅方全网取证绝不姑息",
       "onboard_time": 1757985142,
@@ -43,6 +43,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 985868,
+      "num": 1157738,
+      "word": "赴山海洞洞鞋穿帮",
+      "onboard_time": 1757986522,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 940971,
+      "num": 940971,
+      "word": "氢氟酸",
+      "onboard_time": 1757984242,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 901542,
       "num": 1144246,
       "word": "赴山海开播5天引吐槽不断",
@@ -65,6 +81,14 @@
       "onboard_time": 1757946926,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 709853,
+      "num": 709853,
+      "word": "肖战 美团团购",
+      "onboard_time": 1757986760,
+      "rank": 25,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 640417,
@@ -107,12 +131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453351,
-      "num": 453351,
+      "raw_hot": 466324,
+      "num": 466324,
       "word": "上海迪士尼门票半价了",
       "onboard_time": 1757985023,
       "rank": 3,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 431716,
+      "num": 311261,
+      "word": "辛芷蕾 梁婷",
+      "onboard_time": 1757984122,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 417496,
@@ -123,28 +155,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 414087,
-      "num": 414087,
-      "word": "氢氟酸",
-      "onboard_time": 1757984242,
-      "rank": 4,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 397970,
       "num": 397970,
       "word": "女子卫生巾内藏674.7克足金",
       "onboard_time": 1757947526,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 388478,
-      "num": 358645,
-      "word": "赴山海洞洞鞋穿帮",
-      "onboard_time": 1757986522,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 372751,
@@ -195,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327549,
+      "num": 277405,
+      "word": "12岁被虐致死女孩曾被关厕所17天",
+      "onboard_time": 1757984542,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319958,
       "num": 319958,
       "word": "嘎子哥拍戏期间穿警服直播带货",
@@ -211,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298843,
-      "num": 298843,
-      "word": "辛芷蕾 梁婷",
-      "onboard_time": 1757984122,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 305736,
+      "num": 305736,
+      "word": "金价",
+      "onboard_time": 1757986402,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 294086,
@@ -235,12 +259,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275937,
+      "num": 275937,
+      "word": "星品",
+      "onboard_time": 1757988081,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265575,
       "num": 265575,
       "word": "卖房救重病男友发现他没病还已婚",
       "onboard_time": 1757948485,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260646,
+      "num": 260646,
+      "word": "黄岩岛",
+      "onboard_time": 1757985322,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 252147,
@@ -251,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238429,
-      "num": 238429,
-      "word": "黄岩岛",
-      "onboard_time": 1757985322,
-      "rank": 17,
-      "category": "国内时政"
+      "raw_hot": 235166,
+      "num": 235166,
+      "word": "菲律宾",
+      "onboard_time": 1757986402,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223391,
@@ -267,20 +307,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220017,
+      "num": 220017,
+      "word": "太二酸菜鱼下单到上鱼仅6分钟",
+      "onboard_time": 1757987481,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218470,
       "num": 193987,
       "word": "杨幂还是太体面了",
       "onboard_time": 1757924123,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 215335,
-      "num": 215335,
-      "word": "12岁被虐致死女孩曾被关厕所17天",
-      "onboard_time": 1757984542,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214644,
@@ -299,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198823,
-      "num": 198823,
-      "word": "肖战 美团团购",
-      "onboard_time": 1757986760,
-      "rank": 25,
-      "category": "艺人,互联网"
+      "raw_hot": 200330,
+      "num": 200330,
+      "word": "国庆中秋购票4个关键时间",
+      "onboard_time": 1757983583,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195763,
@@ -323,27 +363,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190890,
-      "num": 223037,
-      "word": "金价",
-      "onboard_time": 1757986402,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 184333,
-      "num": 163102,
-      "word": "菲律宾",
-      "onboard_time": 1757986402,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 170553,
-      "num": 170553,
-      "word": "国庆中秋购票4个关键时间",
-      "onboard_time": 1757983583,
-      "rank": 27,
+      "raw_hot": 177732,
+      "num": 302867,
+      "word": "今起常温纯牛奶禁加复原乳",
+      "onboard_time": 1757987063,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131675,
+      "num": 131675,
+      "word": "10月1日取消火车纸质报销凭证",
+      "onboard_time": 1757987722,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125679,
       "num": 193875,
       "word": "KiMi已经16岁了",
@@ -451,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117488,
+      "num": 117488,
+      "word": "AppleWatch高血压通知功能上线",
+      "onboard_time": 1757988081,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117015,
       "num": 150126,
       "word": "抖音副总裁回应字节离职赛道",
@@ -465,6 +505,14 @@
       "onboard_time": 1757984542,
       "rank": 38,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 115868,
+      "num": 115868,
+      "word": "为啥大连锁餐厅不敢用活鱼",
+      "onboard_time": 1757988262,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114244,
@@ -491,6 +539,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103871,
+      "num": 103871,
+      "word": "雨果男单世排第三",
+      "onboard_time": 1757987902,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103660,
+      "num": 103660,
+      "word": "老外餐桌端上了新疆三文鱼",
+      "onboard_time": 1757987782,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99614,
       "num": 149845,
       "word": "倾诉欲好强的一个企业",
@@ -507,12 +571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97363,
-      "num": 149826,
-      "word": "今起常温纯牛奶禁加复原乳",
-      "onboard_time": 1757987063,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 97702,
+      "num": 97702,
+      "word": "iOS26 液态玻璃",
+      "onboard_time": 1757987481,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 97064,
+      "num": 149681,
+      "word": "苹果回应iOS26掉电快",
+      "onboard_time": 1757984842,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 96786,
@@ -563,12 +635,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 85720,
-      "num": 149681,
-      "word": "苹果回应iOS26掉电快",
-      "onboard_time": 1757984842,
-      "rank": 47,
-      "category": "数码"
+      "raw_hot": 84354,
+      "num": 84354,
+      "word": "王楚钦9425分重回世一",
+      "onboard_time": 1757988502,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80292,
@@ -819,8 +891,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25194,
-      "num": 512735,
+      "raw_hot": 29315,
+      "num": 820700,
       "word": "一系列重要成果亮相2025年国家网络安全宣传周",
       "onboard_time": 1757930482,
       "rank": 2,
