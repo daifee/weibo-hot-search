@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/17 00:31:49 ~ 2025/09/17 01:22:20
+本榜单时间：2025/09/17 00:31:49 ~ 2025/09/17 01:39:32
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ AI 太晚了我明天再处理吧（热度：70581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E6%8A%97%E5%A4%B1%E7%9C%A0%E8%8D%AF%E9%A6%96%E6%97%A5%E5%94%AE%E5%87%BA8000%E5%A4%9A%E7%9B%92%23" target="weibo">
+新型抗失眠药首日售出8000多盒（热度：50609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23" target="weibo">
 美国警告日本（热度：48182）
 </a>
@@ -351,20 +357,20 @@ AI 太晚了我明天再处理吧（热度：70581）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E6%8A%97%E5%A4%B1%E7%9C%A0%E8%8D%AF%E9%A6%96%E6%97%A5%E5%94%AE%E5%87%BA8000%E5%A4%9A%E7%9B%92%23" target="weibo">
-新型抗失眠药首日售出8000多盒（热度：43911）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%AF%E6%8C%81%E4%BB%A5%E8%89%B2%E5%88%97%E8%BF%9B%E6%94%BB%E5%8A%A0%E6%B2%99%E5%9F%8E%23" target="weibo">
-美国支持以色列进攻加沙城（热度：40375）
+美国支持以色列进攻加沙城（热度：43718）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%BA%9F%E5%BC%83%E7%94%B5%E7%BA%BF%E6%9D%86%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
 多方回应女童被废弃电线杆砸中身亡（热度：38502）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%9C%A6%E8%83%A7%E6%AF%8D%E4%BA%B2%E5%B8%8C%E6%9C%9B%E5%9B%9E%E5%BD%92%E5%B9%B3%E9%9D%99%E7%94%9F%E6%B4%BB%23" target="weibo">
+于朦胧母亲希望回归平静生活（热度：33025）
 </a>
 </li>
 
