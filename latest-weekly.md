@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/17 00:31:49
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/17 00:45:53
 </p>
 </blockquote>
 <p>
@@ -3153,6 +3153,12 @@ TI2026落地中国（热度：191596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%99%BD%E7%84%B6%E5%98%B4%E7%A2%8E%E4%BD%86%E4%BB%96%E6%8A%A4%E7%8A%8A%E5%AD%90%E5%95%8A%23" target="weibo">
+于正虽然嘴碎但他护犊子啊（热度：191508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BC%AF%E7%89%B9%E9%9B%B7%E5%BE%B7%E7%A6%8F%E5%8E%BB%E4%B8%96%23" target="weibo">
 罗伯特雷德福去世（热度：190638）
 </a>
@@ -4173,12 +4179,6 @@ LPL（热度：154461）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%99%BD%E7%84%B6%E5%98%B4%E7%A2%8E%E4%BD%86%E4%BB%96%E6%8A%A4%E7%8A%8A%E5%AD%90%E5%95%8A%23" target="weibo">
-于正虽然嘴碎但他护犊子啊（热度：152648）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%B4%A6%E5%8F%B7%E8%A7%A3%E9%99%A4%E6%8E%88%E6%9D%83%23" target="weibo">
 支付宝客服回应账号解除授权（热度：152455）
 </a>
@@ -4791,6 +4791,12 @@ kimi最新背影照（热度：142143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iOS26%E6%99%AE%E9%80%9A%E7%85%A7%E7%89%87%E7%A7%92%E5%8F%983D%E7%85%A7%23" target="weibo">
+iOS26普通照片秒变3D照（热度：134954）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E5%A5%B3%E5%84%BF%E8%84%B1%E6%B0%B4%E5%AF%BC%E8%87%B4%E9%85%B8%E4%B8%AD%E6%AF%92%23" target="weibo">
 杜淳女儿脱水导致酸中毒（热度：134898）
 </a>
@@ -5111,12 +5117,6 @@ iOS26壁纸（热度：125969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B8%A9%E6%B0%A2%E6%B0%9F%E9%85%B8%E4%B8%AD%E6%AF%92%E5%A5%B3%E5%AD%90%E5%8F%97%E4%BC%A4%E7%9A%AE%E8%82%A4%E5%91%88%E9%93%85%E7%81%B0%E8%89%B2%23" target="weibo">
 踩氢氟酸中毒女子受伤皮肤呈铅灰色（热度：124703）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iOS26%E6%99%AE%E9%80%9A%E7%85%A7%E7%89%87%E7%A7%92%E5%8F%983D%E7%85%A7%23" target="weibo">
-iOS26普通照片秒变3D照（热度：124570）
 </a>
 </li>
 
@@ -5889,6 +5889,12 @@ ACT对战RC（热度：106034）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%9A%E7%9D%A1%E6%99%9A%E8%B5%B7%E8%AE%A9%E4%BA%BA%E9%95%BF%E6%9C%9F%E5%A4%84%E4%BA%8E%E7%82%8E%E7%97%87%E7%8A%B6%E6%80%81%23" target="weibo">
+晚睡晚起让人长期处于炎症状态（热度：104408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E6%9E%9C%E7%94%B7%E5%8D%95%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%89%23" target="weibo">
 雨果男单世排第三（热度：103871）
 </a>
@@ -6329,6 +6335,12 @@ iPhone17系列真机包装盒曝光（热度：96239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23XG%E8%B5%9B%E7%82%B9%23" target="weibo">
 XG赛点（热度：93107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%9B%9E%E5%BA%94%E6%81%8B%E7%BB%BC%E4%BA%89%E8%AE%AE%23" target="weibo">
+奥斯卡回应恋综争议（热度：92239）
 </a>
 </li>
 
@@ -7005,6 +7017,12 @@ XG教练称又搞砸了（热度：70412）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E7%9A%84%E7%94%B5%E5%B0%860.009%E7%A7%92%E9%97%AA%E9%80%81%E5%88%B0%E5%B9%BF%E4%B8%9C%23" target="weibo">
+西藏的电将0.009秒闪送到广东（热度：61078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E6%83%B3%E9%80%9A%E8%BF%87%E6%9D%80%E4%BA%BA%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
 男子患精神分裂想通过杀人被判刑（热度：60853）
 </a>
@@ -7025,6 +7043,12 @@ XG教练称又搞砸了（热度：70412）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%91%9F%E6%B2%A1%E5%81%9A%E5%88%B0%E7%9A%84%E8%84%B8%E9%A2%8A%E6%AF%94%E5%BF%83%E9%99%88%E5%87%AF%E6%AD%8C%E5%81%9A%E5%88%B0%E4%BA%86%23" target="weibo">
 阿瑟没做到的脸颊比心陈凯歌做到了（热度：60354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B2%BB%E6%84%88%E5%8F%AB%E5%88%9D%E7%A7%8B%23" target="weibo">
+有一种治愈叫初秋（热度：60350）
 </a>
 </li>
 
