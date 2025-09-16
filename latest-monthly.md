@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 15:25:14
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 15:38:32
 </p>
 </blockquote>
 <p>
@@ -1163,6 +1163,12 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E7%9B%B4%E6%92%AD%E5%93%BD%E5%92%BD%23" target="weibo">
 祝绪丹直播哽咽（热度：1484967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A3%AE%E6%9E%97%E5%8C%97%E9%A6%96%E6%99%92%E5%84%BF%E5%AD%90%23" target="weibo">
+森林北首晒儿子（热度：1484586）
 </a>
 </li>
 
@@ -2505,6 +2511,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%20%E6%88%91%E7%9A%84%E7%A2%97%E5%87%BA%E8%BD%A6%E7%A5%B8%E4%BA%86%23" target="weibo">
+狗 我的碗出车祸了（热度：884300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%97%AE%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%BA%A7%E6%A4%85%E6%A0%87%E7%AD%BE%E4%BA%8B%E4%BB%B6%23" target="weibo">
 三问武汉大学座椅标签事件（热度：882288）
 </a>
@@ -2513,12 +2525,6 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9020%E5%85%83%E5%BD%A9%E7%A5%A8%E5%88%AE%E4%B8%AD100%E4%B8%87%E6%BF%80%E5%8A%A8%E5%B0%96%E5%8F%AB%23" target="weibo">
 女子20元彩票刮中100万激动尖叫（热度：881992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A3%AE%E6%9E%97%E5%8C%97%E9%A6%96%E6%99%92%E5%84%BF%E5%AD%90%23" target="weibo">
-森林北首晒儿子（热度：881644）
 </a>
 </li>
 
@@ -2555,6 +2561,12 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%B7%B2%E8%8E%B7%E9%A2%84%E5%88%B6%E9%A3%9F%E5%93%81%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9%E6%8E%88%E6%9D%83%23" target="weibo">
 西贝已获预制食品相关专利授权（热度：872340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87%23" target="weibo">
+上海地震（热度：872044）
 </a>
 </li>
 
@@ -2621,12 +2633,6 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%20%E4%B8%8D%E5%93%AD%E7%9A%84%E5%AD%A9%E5%AD%90%E4%B9%9F%E8%83%BD%E6%9C%89%E7%B3%96%E5%90%83%23" target="weibo">
 李沁 不哭的孩子也能有糖吃（热度：862627）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%20%E6%88%91%E7%9A%84%E7%A2%97%E5%87%BA%E8%BD%A6%E7%A5%B8%E4%BA%86%23" target="weibo">
-狗 我的碗出车祸了（热度：862545）
 </a>
 </li>
 
@@ -4197,6 +4203,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%9C%BA%E9%81%AD%E9%93%81%E6%A3%8D%E6%8F%92%E8%83%B8%E4%BB%8D%E5%86%B7%E9%9D%99%E5%81%9C%E8%BD%A6%23" target="weibo">
+香港巴士司机遭铁棍插胸仍冷静停车（热度：616654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94102%E5%B2%81%E8%80%81%E5%85%B5%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 官方回应102岁老兵看完阅兵后去世（热度：616257）
 </a>
@@ -4821,12 +4833,6 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%9C%BA%E9%81%AD%E9%93%81%E6%A3%8D%E6%8F%92%E8%83%B8%E4%BB%8D%E5%86%B7%E9%9D%99%E5%81%9C%E8%BD%A6%23" target="weibo">
-香港巴士司机遭铁棍插胸仍冷静停车（热度：547308）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%82%E5%8A%A0%E9%98%85%E5%85%B5%E7%9A%84%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%B7%B2%E5%88%B0%E5%AE%B6%23" target="weibo">
 第一批参加阅兵的和平鸽已到家（热度：546284）
 </a>
@@ -5439,6 +5445,12 @@ xg进决赛（热度：501284）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E5%85%8D%E8%AF%95%E8%BF%9B%E5%85%A5%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AF%BB%E7%A0%94%23" target="weibo">
+孙颖莎将免试进入清华大学读研（热度：495768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
 李宇春直播（热度：494925）
 </a>
@@ -5727,12 +5739,6 @@ iPhone16需求不降反升（热度：477574）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E5%85%8D%E8%AF%95%E8%BF%9B%E5%85%A5%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AF%BB%E7%A0%94%23" target="weibo">
-孙颖莎将免试进入清华大学读研（热度：475002）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%88%E5%9C%A8%E7%88%B1%E5%A5%87%E8%89%BA%E5%89%A7%E5%AE%A3%E4%B8%8A%E9%97%AF%E7%A5%B8%E4%BA%86%23" target="weibo">
 成毅又在爱奇艺剧宣上闯祸了（热度：474920）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战iG（热度：455460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%AF%E5%AE%A4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8%E8%8A%B1%E7%94%9F%E7%B1%B3%23" target="weibo">
 手术室为什么要用花生米（热度：454852）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%20%E8%B4%B9%E5%8A%A0%E7%BD%97%23" target="weibo">
-田栩宁 费加罗（热度：454502）
 </a>
 </li>
 

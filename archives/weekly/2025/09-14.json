@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758007514674,
+  "endTime": 1758008312503,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -217,6 +217,14 @@
       "onboard_time": 1757844623,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1484586,
+      "num": 451100,
+      "word": "森林北首晒儿子",
+      "onboard_time": 1758006382,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1484047,
@@ -587,12 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 881644,
-      "num": 448629,
-      "word": "森林北首晒儿子",
-      "onboard_time": 1758006382,
-      "rank": 11,
-      "category": "网红"
+      "raw_hot": 884300,
+      "num": 431788,
+      "word": "狗 我的碗出车祸了",
+      "onboard_time": 1758005002,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 872044,
+      "num": 872044,
+      "word": "上海地震",
+      "onboard_time": 1758006622,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 862627,
@@ -601,14 +617,6 @@
       "onboard_time": 1757815823,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 862545,
-      "num": 431788,
-      "word": "狗 我的碗出车祸了",
-      "onboard_time": 1758005002,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 857164,
@@ -939,6 +947,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 616654,
+      "num": 616654,
+      "word": "香港巴士司机遭铁棍插胸仍冷静停车",
+      "onboard_time": 1758003383,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606589,
       "num": 368957,
       "word": "宋妍霏回应提了24次裙子",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1757820022,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 547308,
-      "num": 547308,
-      "word": "香港巴士司机遭铁棍插胸仍冷静停车",
-      "onboard_time": 1758003383,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 545532,
@@ -1243,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495768,
+      "num": 495768,
+      "word": "孙颖莎将免试进入清华大学读研",
+      "onboard_time": 1757994745,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493568,
       "num": 504930,
       "word": "中国绝不以牺牲企业利益为代价",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1757941823,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 475002,
-      "num": 475002,
-      "word": "孙颖莎将免试进入清华大学读研",
-      "onboard_time": 1757994745,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 474920,
@@ -1907,6 +1915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 352171,
+      "num": 352171,
+      "word": "2025湾区升明月官宣",
+      "onboard_time": 1758003443,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 349842,
       "num": 298430,
       "word": "喜欢吃大闸蟹嘴真严啊",
@@ -1945,14 +1961,6 @@
       "onboard_time": 1757895861,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344554,
-      "num": 344554,
-      "word": "2025湾区升明月官宣",
-      "onboard_time": 1758003443,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 344476,
@@ -2107,12 +2115,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316351,
+      "num": 316351,
+      "word": "易烊千玺你小子搞催泪这套",
+      "onboard_time": 1758005963,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 315258,
       "num": 315258,
       "word": "BLG战胜TES",
       "onboard_time": 1757944284,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310906,
+      "num": 310906,
+      "word": "研究生制止行凶男子被刺身亡",
+      "onboard_time": 1758006982,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308760,
@@ -2339,14 +2363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265194,
-      "num": 265194,
-      "word": "上海地震",
-      "onboard_time": 1758006622,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 264791,
       "num": 264791,
       "word": "苏醒把王栎鑫骂到心坎里了",
@@ -2561,14 +2577,6 @@
       "onboard_time": 1757905522,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247705,
-      "num": 247705,
-      "word": "易烊千玺你小子搞催泪这套",
-      "onboard_time": 1758005963,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 247529,
@@ -2979,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212974,
+      "num": 212974,
+      "word": "被虐死女孩生父为继母判死刑哭泣",
+      "onboard_time": 1758005122,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212798,
       "num": 309686,
       "word": "现在的军训还是太超前了",
@@ -3115,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204914,
+      "num": 204914,
+      "word": "战至巅峰",
+      "onboard_time": 1758007282,
+      "rank": 35,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 204307,
       "num": 204307,
       "word": "iG 世界赛",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1757804837,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201992,
+      "num": 201992,
+      "word": "清华回应孙颖莎王曼昱免试读研",
+      "onboard_time": 1758005002,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 201189,
@@ -3395,14 +3427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195285,
-      "num": 195285,
-      "word": "被虐死女孩生父为继母判死刑哭泣",
-      "onboard_time": 1758005122,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194856,
       "num": 194856,
       "word": "无畏人性是复杂的",
@@ -3563,14 +3587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190780,
-      "num": 190780,
-      "word": "研究生制止行凶男子被刺身亡",
-      "onboard_time": 1758006982,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190551,
       "num": 223765,
       "word": "李晟李佳航的求婚日期是201314",
@@ -3673,6 +3689,14 @@
       "onboard_time": 1757828181,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185419,
+      "num": 185419,
+      "word": "微信聊天 实况",
+      "onboard_time": 1758007882,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 185004,
@@ -3779,14 +3803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180324,
-      "num": 168872,
-      "word": "清华回应孙颖莎王曼昱免试读研",
-      "onboard_time": 1758005002,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180034,
       "num": 180034,
       "word": "容祖儿说蔡徐坤很正",
@@ -3889,6 +3905,14 @@
       "onboard_time": 1757907202,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175964,
+      "num": 175964,
+      "word": "苹果中国区AirPods文案",
+      "onboard_time": 1758007162,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 175693,
@@ -4025,6 +4049,14 @@
       "onboard_time": 1757988262,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169989,
+      "num": 169989,
+      "word": "王乐晨主动牵卢远的手",
+      "onboard_time": 1758006742,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 169208,
@@ -4267,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162664,
+      "num": 162664,
+      "word": "诺澜依旧女追男",
+      "onboard_time": 1758007343,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162516,
       "num": 162516,
       "word": "泡泡玛特足金产品首发遇冷",
@@ -4329,14 +4369,6 @@
       "onboard_time": 1757933724,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161365,
-      "num": 161365,
-      "word": "王乐晨主动牵卢远的手",
-      "onboard_time": 1758006742,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 160877,
@@ -4483,14 +4515,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 157553,
-      "num": 157553,
-      "word": "苹果中国区AirPods文案",
-      "onboard_time": 1758007162,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 157538,
       "num": 157538,
       "word": "狗狗帮生病的好朋狗传话",
@@ -4521,6 +4545,14 @@
       "onboard_time": 1757908522,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156751,
+      "num": 156751,
+      "word": "广东早茶 预制",
+      "onboard_time": 1758007222,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156662,
@@ -4569,6 +4601,14 @@
       "onboard_time": 1757993182,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154915,
+      "num": 154915,
+      "word": "国防部回应福建舰通过台湾海峡",
+      "onboard_time": 1758007821,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154721,
@@ -4635,20 +4675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153890,
-      "num": 153890,
-      "word": "战至巅峰",
-      "onboard_time": 1758007282,
-      "rank": 35,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 153809,
       "num": 153808,
       "word": "面试官是怎么看出一个人能力差的",
       "onboard_time": 1758006263,
       "rank": 39,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 153159,
+      "num": 357758,
+      "word": "中国航母建设按需推进",
+      "onboard_time": 1758007942,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153005,
@@ -4835,11 +4875,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147911,
+      "num": 155622,
+      "word": "2025KPL年总大名单公布",
+      "onboard_time": 1758007581,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147657,
       "num": 328027,
       "word": "县人社局干部诬告22名领导干部",
       "onboard_time": 1757931502,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147273,
+      "num": 153813,
+      "word": "太二门店称全部活鱼现杀",
+      "onboard_time": 1758006382,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5035,6 +5091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143420,
+      "num": 195439,
+      "word": "姜潮发文为麦迪娜和女儿庆生",
+      "onboard_time": 1758008063,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143061,
       "num": 143061,
       "word": "可以上1休29吗",
@@ -5145,14 +5209,6 @@
       "onboard_time": 1757903120,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140032,
-      "num": 140032,
-      "word": "诺澜依旧女追男",
-      "onboard_time": 1758007343,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 139825,
@@ -5593,14 +5649,6 @@
       "onboard_time": 1757988502,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127286,
-      "num": 153813,
-      "word": "太二门店称全部活鱼现杀",
-      "onboard_time": 1758006382,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127204,
@@ -7107,6 +7155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90062,
+      "num": 319677,
+      "word": "迪拜富豪为何对中国车上头",
+      "onboard_time": 1758007463,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89886,
       "num": 89886,
       "word": "肖战 如果背影会说话",
@@ -7507,6 +7563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74687,
+      "num": 157788,
+      "word": "给王嘉尔吓成范丞丞了",
+      "onboard_time": 1758007643,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74257,
       "num": 74256,
       "word": "金晨衣服基础穿起来就不基础",
@@ -7683,6 +7747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69581,
+      "num": 157017,
+      "word": "误触氢氟酸女子送医时全身脏器衰竭",
+      "onboard_time": 1758007523,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69129,
       "num": 241408,
       "word": "88折叫优惠72折叫狠活儿",
@@ -7761,14 +7833,6 @@
       "onboard_time": 1757864243,
       "rank": 46,
       "category": "演出,电竞"
-    },
-    {
-      "raw_hot": 62296,
-      "num": 153824,
-      "word": "迪拜富豪为何对中国车上头",
-      "onboard_time": 1758007463,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 62012,
