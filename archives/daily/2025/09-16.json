@@ -1,7 +1,23 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1757994396998,
+  "endTime": 1757996942074,
   "band_list": [
+    {
+      "raw_hot": 2500117,
+      "num": 2500117,
+      "word": "孙颖莎清华读研",
+      "onboard_time": 1757994142,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2105792,
+      "num": 1132615,
+      "word": "陈晓直播好几次叹气",
+      "onboard_time": 1757993964,
+      "rank": 15,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1969826,
       "num": 1969826,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 1643520,
-      "num": 437626,
+      "num": 651325,
       "word": "成毅方全网取证绝不姑息",
       "onboard_time": 1757985142,
       "rank": 10,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1260119,
-      "num": 389586,
+      "num": 412166,
       "word": "涉毒艺人苏永康将在温州办演唱会",
       "onboard_time": 1757946926,
       "rank": 10,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 1183092,
-      "num": 432688,
+      "num": 611458,
       "word": "陈乔恩晒粉红云海悼念乔任梁",
       "onboard_time": 1757984063,
       "rank": 11,
@@ -81,6 +97,14 @@
       "onboard_time": 1757947646,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1071009,
+      "num": 1071009,
+      "word": "姜潮录节目情绪崩溃到发飙",
+      "onboard_time": 1757993542,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 1047302,
@@ -113,6 +137,22 @@
       "onboard_time": 1757983883,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 762119,
+      "num": 762119,
+      "word": "12306抢票",
+      "onboard_time": 1757993122,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 760156,
+      "num": 739055,
+      "word": "以色列威胁不到中国手机",
+      "onboard_time": 1757995465,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 721490,
@@ -203,28 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422828,
-      "num": 422828,
-      "word": "孙颖莎清华读研",
-      "onboard_time": 1757994142,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 417496,
       "num": 768205,
       "word": "中美马德里经贸会谈成果公布",
       "onboard_time": 1757951063,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 413779,
-      "num": 413779,
-      "word": "陈晓直播好几次叹气",
-      "onboard_time": 1757993964,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 407691,
@@ -240,6 +264,14 @@
       "word": "女子卫生巾内藏674.7克足金",
       "onboard_time": 1757947526,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391811,
+      "num": 391811,
+      "word": "水贝料商卷走胖东来金店90万元黄金",
+      "onboard_time": 1757993964,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -307,12 +339,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 347124,
-      "num": 347124,
-      "word": "姜潮录节目情绪崩溃到发飙",
-      "onboard_time": 1757993542,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 344107,
+      "num": 344107,
+      "word": "心动的信号 时尚芭莎",
+      "onboard_time": 1757993723,
+      "rank": 48,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 327549,
@@ -339,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296190,
+      "num": 345400,
+      "word": "理想i6新形态五座SUV",
+      "onboard_time": 1757995402,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 294086,
       "num": 294086,
       "word": "女子踩到氢氟酸现场已无害化处置",
@@ -361,6 +401,14 @@
       "onboard_time": 1757988081,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267260,
+      "num": 447414,
+      "word": "大妈用化肥袋打包高铁坐垫",
+      "onboard_time": 1757992103,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265575,
@@ -403,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239141,
-      "num": 239141,
-      "word": "水贝料商卷走胖东来金店90万元黄金",
-      "onboard_time": 1757993964,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235166,
       "num": 235166,
       "word": "菲律宾",
@@ -435,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229205,
-      "num": 229205,
-      "word": "12306抢票",
-      "onboard_time": 1757993122,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 230410,
+      "num": 230410,
+      "word": "这下谁敢去负二层停车",
+      "onboard_time": 1757996185,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 223391,
@@ -449,6 +489,14 @@
       "onboard_time": 1757981243,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222430,
+      "num": 204424,
+      "word": "从发工资时间看公司实力",
+      "onboard_time": 1757994924,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 221996,
@@ -499,6 +547,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207487,
+      "num": 207487,
+      "word": "沈佳润第一支美美桑内MV",
+      "onboard_time": 1757995704,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205237,
+      "num": 205237,
+      "word": "刘涛 利他即利己",
+      "onboard_time": 1757996424,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204237,
+      "num": 204237,
+      "word": "王曼昱清华读研",
+      "onboard_time": 1757996004,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200854,
+      "num": 210558,
+      "word": "网剧以她之名开播",
+      "onboard_time": 1757994502,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200330,
       "num": 200330,
       "word": "国庆中秋购票4个关键时间",
@@ -512,6 +592,30 @@
       "word": "恋与深空",
       "onboard_time": 1757993061,
       "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 199413,
+      "num": 199413,
+      "word": "心动的信号",
+      "onboard_time": 1757996243,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198488,
+      "num": 215895,
+      "word": "邓超 幽闭了扇一巴掌就好了",
+      "onboard_time": 1757996243,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197982,
+      "num": 197982,
+      "word": "光遇",
+      "onboard_time": 1757995583,
+      "rank": 45,
       "category": "游戏"
     },
     {
@@ -529,6 +633,14 @@
       "onboard_time": 1757951841,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193285,
+      "num": 193285,
+      "word": "中方回应菲公务船冲撞中方海警船",
+      "onboard_time": 1757996483,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192610,
@@ -563,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175344,
-      "num": 175344,
-      "word": "心动的信号 时尚芭莎",
-      "onboard_time": 1757993723,
-      "rank": 48,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 172883,
       "num": 172883,
       "word": "iPhone充电坏习惯",
@@ -601,14 +705,6 @@
       "onboard_time": 1757991201,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 164969,
-      "num": 447414,
-      "word": "大妈用化肥袋打包高铁坐垫",
-      "onboard_time": 1757992103,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164749,
@@ -747,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126459,
+      "num": 205200,
+      "word": "成毅说希望观众不要跟风吐槽",
+      "onboard_time": 1757996304,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125679,
       "num": 193875,
       "word": "KiMi已经16岁了",
@@ -843,6 +947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107801,
+      "num": 396075,
+      "word": "肖战粉丝是真的吃得好",
+      "onboard_time": 1757995465,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103871,
       "num": 103871,
       "word": "雨果男单世排第三",
@@ -888,6 +1000,14 @@
       "word": "深圳市民捡到2267.83克巨型金条",
       "onboard_time": 1757931441,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94414,
+      "num": 397696,
+      "word": "上海网红面包店将未售面包直接丢弃",
+      "onboard_time": 1757996544,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -971,6 +1091,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 78323,
+      "num": 204662,
+      "word": "中国海警对菲船采取水炮喷射等措施",
+      "onboard_time": 1757996845,
+      "rank": 40,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 77346,
       "num": 193664,
       "word": "Bin 世界赛我们来了",
@@ -1017,6 +1145,14 @@
       "onboard_time": 1757947646,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70565,
+      "num": 394127,
+      "word": "开庭前母亲仍手拿被虐死孩子照片",
+      "onboard_time": 1757996364,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68052,
@@ -1163,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46225,
+      "num": 204897,
+      "word": "剧毒的氢氟酸可以在网上直接购买",
+      "onboard_time": 1757996603,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43776,
       "num": 193374,
       "word": "孙颖莎卫冕澳门赛女单冠军",
@@ -1211,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34090,
+      "num": 204807,
+      "word": "东北靠什么逆袭",
+      "onboard_time": 1757995947,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32975,
       "num": 162126,
       "word": "女孩被继母生父虐死生母只求死刑",
@@ -1249,6 +1401,14 @@
       "onboard_time": 1757930482,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27445,
+      "num": 204998,
+      "word": "大张伟老了就这样",
+      "onboard_time": 1757996483,
+      "rank": 37,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 23624,
@@ -1291,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 6050,
+      "num": 1132834,
+      "word": "新疆70年",
+      "onboard_time": 1757996903,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3900,
       "num": 650685,
       "word": "海军最新招飞大片看燃了",
@@ -1302,6 +1470,9 @@
   "hotgov_list": [
     {
       "word": "#要坚持依法治网依法办网依法上网#"
+    },
+    {
+      "word": "#必须把全国统一大市场建设好#"
     }
   ]
 }

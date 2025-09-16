@@ -1,0 +1,410 @@
+{
+  "runTime": 1757996942074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2500117,
+        "num": 2500117,
+        "word": "孙颖莎清华读研",
+        "onboard_time": 1757994142,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1181303,
+        "num": 1181303,
+        "word": "小米17背屏",
+        "onboard_time": 1757991981,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 6050,
+        "num": 1132834,
+        "word": "新疆70年",
+        "onboard_time": 1757996903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2105792,
+        "num": 1132615,
+        "word": "陈晓直播好几次叹气",
+        "onboard_time": 1757993964,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1131750,
+        "num": 1131750,
+        "word": "iOS26 丑",
+        "onboard_time": 1757989942,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1339743,
+        "num": 1112445,
+        "word": "成都通报一女子公园自缢",
+        "onboard_time": 1757990182,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1071009,
+        "num": 1071009,
+        "word": "姜潮录节目情绪崩溃到发飙",
+        "onboard_time": 1757993542,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4716,
+        "num": 879081,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762119,
+        "num": 762119,
+        "word": "12306抢票",
+        "onboard_time": 1757993122,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739124,
+        "num": 739124,
+        "word": "赴山海洞洞鞋穿帮",
+        "onboard_time": 1757986522,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760156,
+        "num": 739055,
+        "word": "以色列威胁不到中国手机",
+        "onboard_time": 1757995465,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 738353,
+        "num": 738353,
+        "word": "太二酸菜鱼下单到上鱼仅6分钟",
+        "onboard_time": 1757987481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651325,
+        "num": 651325,
+        "word": "成毅方全网取证绝不姑息",
+        "onboard_time": 1757985142,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611458,
+        "num": 611458,
+        "word": "陈乔恩晒粉红云海悼念乔任梁",
+        "onboard_time": 1757984063,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412166,
+        "num": 412166,
+        "word": "涉毒艺人苏永康将在温州办演唱会",
+        "onboard_time": 1757946926,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351955,
+        "num": 403186,
+        "word": "肖战 美团团购",
+        "onboard_time": 1757986760,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 242635,
+        "num": 398338,
+        "word": "那英5个字总结张晚意",
+        "onboard_time": 1757991562,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397883,
+        "num": 397883,
+        "word": "氢氟酸",
+        "onboard_time": 1757984242,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94414,
+        "num": 397696,
+        "word": "上海网红面包店将未售面包直接丢弃",
+        "onboard_time": 1757996544,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107801,
+        "num": 396075,
+        "word": "肖战粉丝是真的吃得好",
+        "onboard_time": 1757995465,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70565,
+        "num": 394127,
+        "word": "开庭前母亲仍手拿被虐死孩子照片",
+        "onboard_time": 1757996364,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830585,
+        "num": 392642,
+        "word": "金价",
+        "onboard_time": 1757986402,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391811,
+        "num": 391811,
+        "word": "水贝料商卷走胖东来金店90万元黄金",
+        "onboard_time": 1757993964,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184050,
+        "num": 354149,
+        "word": "管制位黄岩岛非法活动的多艘菲船",
+        "onboard_time": 1757982502,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296190,
+        "num": 345400,
+        "word": "理想i6新形态五座SUV",
+        "onboard_time": 1757995402,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 344107,
+        "num": 344107,
+        "word": "心动的信号 时尚芭莎",
+        "onboard_time": 1757993723,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 322149,
+        "num": 322149,
+        "word": "别再给皮肤喂满汉全席了",
+        "onboard_time": 1757990782,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 305924,
+        "num": 305924,
+        "word": "老太太赶集时金镯被剪断手臂流血",
+        "onboard_time": 1757992403,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301480,
+        "num": 301480,
+        "word": "以色列坦克已入城",
+        "onboard_time": 1757989582,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231973,
+        "num": 272186,
+        "word": "外国人演我见到秦岚",
+        "onboard_time": 1757990483,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267260,
+        "num": 267260,
+        "word": "大妈用化肥袋打包高铁坐垫",
+        "onboard_time": 1757992103,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230410,
+        "num": 230410,
+        "word": "这下谁敢去负二层停车",
+        "onboard_time": 1757996185,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198488,
+        "num": 215895,
+        "word": "邓超 幽闭了扇一巴掌就好了",
+        "onboard_time": 1757996243,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200854,
+        "num": 210558,
+        "word": "网剧以她之名开播",
+        "onboard_time": 1757994502,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207487,
+        "num": 207487,
+        "word": "沈佳润第一支美美桑内MV",
+        "onboard_time": 1757995704,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205237,
+        "num": 205237,
+        "word": "刘涛 利他即利己",
+        "onboard_time": 1757996424,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126459,
+        "num": 205200,
+        "word": "成毅说希望观众不要跟风吐槽",
+        "onboard_time": 1757996304,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27445,
+        "num": 204998,
+        "word": "大张伟老了就这样",
+        "onboard_time": 1757996483,
+        "rank": 37,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 46225,
+        "num": 204897,
+        "word": "剧毒的氢氟酸可以在网上直接购买",
+        "onboard_time": 1757996603,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34090,
+        "num": 204807,
+        "word": "东北靠什么逆袭",
+        "onboard_time": 1757995947,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78323,
+        "num": 204662,
+        "word": "中国海警对菲船采取水炮喷射等措施",
+        "onboard_time": 1757996845,
+        "rank": 40,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 222430,
+        "num": 204424,
+        "word": "从发工资时间看公司实力",
+        "onboard_time": 1757994924,
+        "rank": 41,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 195576,
+        "num": 204329,
+        "word": "她们的鞋没有足弓支撑",
+        "onboard_time": 1757983883,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204237,
+        "num": 204237,
+        "word": "王曼昱清华读研",
+        "onboard_time": 1757996004,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199413,
+        "num": 199413,
+        "word": "心动的信号",
+        "onboard_time": 1757996243,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197982,
+        "num": 197982,
+        "word": "光遇",
+        "onboard_time": 1757995583,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193285,
+        "num": 193285,
+        "word": "中方回应菲公务船冲撞中方海警船",
+        "onboard_time": 1757996483,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172346,
+        "num": 172346,
+        "word": "辛芷蕾 梁婷",
+        "onboard_time": 1757984122,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168211,
+        "num": 168211,
+        "word": "菲律宾",
+        "onboard_time": 1757986402,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161819,
+        "num": 161819,
+        "word": "星品",
+        "onboard_time": 1757988081,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须把全国统一大市场建设好#"
+    }
+  }
+}
