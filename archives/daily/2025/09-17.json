@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758061336630,
+  "endTime": 1758062149400,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634812,
+      "num": 634812,
+      "word": "汪苏泷",
+      "onboard_time": 1758041182,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552995,
       "num": 1537442,
       "word": "日本拒绝美国",
       "onboard_time": 1758033689,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 481430,
-      "num": 515935,
-      "word": "汪苏泷",
-      "onboard_time": 1758041182,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 437910,
@@ -73,6 +73,14 @@
       "onboard_time": 1758011662,
       "rank": 15,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 309930,
+      "num": 309930,
+      "word": "男子查个税意外发现两份工资流水",
+      "onboard_time": 1758046755,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293815,
@@ -121,14 +129,6 @@
       "onboard_time": 1758033210,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202232,
-      "num": 202232,
-      "word": "男子查个税意外发现两份工资流水",
-      "onboard_time": 1758046755,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191508,
@@ -185,6 +185,14 @@
       "onboard_time": 1758036747,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134040,
+      "num": 134040,
+      "word": "多方回应女童被废弃电线杆砸中身亡",
+      "onboard_time": 1758042918,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133292,
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97191,
+      "num": 109943,
+      "word": "新型抗失眠药首日售出8000多盒",
+      "onboard_time": 1758039924,
+      "rank": 40,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 96960,
       "num": 96960,
       "word": "警方已向于朦胧母亲通报调查情况",
@@ -275,12 +291,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90239,
-      "num": 96822,
-      "word": "多方回应女童被废弃电线杆砸中身亡",
-      "onboard_time": 1758042918,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 90655,
+      "num": 213264,
+      "word": "联合国认定以色列犯种族灭绝罪",
+      "onboard_time": 1758018863,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89733,
@@ -289,14 +305,6 @@
       "onboard_time": 1758033510,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88848,
-      "num": 213264,
-      "word": "联合国认定以色列犯种族灭绝罪",
-      "onboard_time": 1758018863,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86524,
@@ -403,14 +411,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 61310,
-      "num": 109943,
-      "word": "新型抗失眠药首日售出8000多盒",
-      "onboard_time": 1758039924,
-      "rank": 40,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 60350,
       "num": 209983,
       "word": "有一种治愈叫初秋",
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53317,
+      "num": 53317,
+      "word": "内塔尼亚胡承认以色列受到了孤立",
+      "onboard_time": 1758053475,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48182,
       "num": 96811,
       "word": "美国警告日本",
@@ -467,12 +475,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 44949,
-      "num": 44949,
-      "word": "内塔尼亚胡承认以色列受到了孤立",
-      "onboard_time": 1758053475,
-      "rank": 9,
+      "raw_hot": 44689,
+      "num": 96721,
+      "word": "美国支持以色列进攻加沙城",
+      "onboard_time": 1758042979,
+      "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44350,
+      "num": 44350,
+      "word": "无意识的控糖行为",
+      "onboard_time": 1758052394,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44327,
@@ -483,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43829,
+      "num": 75936,
+      "word": "偷40万男子骑一辆童车逃跑",
+      "onboard_time": 1758033630,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43806,
       "num": 50108,
       "word": "于朦胧母亲希望回归平静生活",
@@ -491,20 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43718,
-      "num": 96721,
-      "word": "美国支持以色列进攻加沙城",
-      "onboard_time": 1758042979,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 35807,
+      "num": 75182,
+      "word": "初一学生打球遭同学袭击致脑出血",
+      "onboard_time": 1758037885,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 37181,
-      "num": 37181,
-      "word": "无意识的控糖行为",
-      "onboard_time": 1758052394,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 33839,
+      "num": 75202,
+      "word": "237天婴儿去世捐遗体父母发声",
+      "onboard_time": 1758035727,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30941,
@@ -515,28 +539,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30116,
-      "num": 75936,
-      "word": "偷40万男子骑一辆童车逃跑",
-      "onboard_time": 1758033630,
+      "raw_hot": 30092,
+      "num": 75563,
+      "word": "小伙7万5抵押14万新车赎回要13万多",
+      "onboard_time": 1758049875,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29036,
+      "num": 35382,
+      "word": "迪丽热巴女王变女孩太有生命力了",
+      "onboard_time": 1758054554,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
-      "raw_hot": 26361,
-      "num": 75182,
-      "word": "初一学生打球遭同学袭击致脑出血",
-      "onboard_time": 1758037885,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25743,
-      "num": 75202,
-      "word": "237天婴儿去世捐遗体父母发声",
-      "onboard_time": 1758035727,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 27912,
+      "num": 75632,
+      "word": "以军警告也门荷台达港居民紧急撤离",
+      "onboard_time": 1758044776,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24771,
@@ -545,30 +569,6 @@
       "onboard_time": 1758045795,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24768,
-      "num": 29859,
-      "word": "迪丽热巴女王变女孩太有生命力了",
-      "onboard_time": 1758054554,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21328,
-      "num": 75632,
-      "word": "以军警告也门荷台达港居民紧急撤离",
-      "onboard_time": 1758044776,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 20673,
-      "num": 75563,
-      "word": "小伙7万5抵押14万新车赎回要13万多",
-      "onboard_time": 1758049875,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16944,
