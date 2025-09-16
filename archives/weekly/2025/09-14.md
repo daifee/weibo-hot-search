@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/17 03:20:39
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/17 03:36:38
 </p>
 </blockquote>
 <p>
@@ -8055,6 +8055,18 @@ XG对战Falcons（热度：17993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%80%E5%AD%A6%E7%94%9F%E6%89%93%E7%90%83%E9%81%AD%E5%90%8C%E5%AD%A6%E8%A2%AD%E5%87%BB%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%23" target="weibo">
+初一学生打球遭同学袭击致脑出血（热度：14629）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%997%E4%B8%875%E6%8A%B5%E6%8A%BC14%E4%B8%87%E6%96%B0%E8%BD%A6%E8%B5%8E%E5%9B%9E%E8%A6%8113%E4%B8%87%E5%A4%9A%23" target="weibo">
+小伙7万5抵押14万新车赎回要13万多（热度：14264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%87%E7%89%A9%E9%94%80%E5%94%AE%E5%9D%91%E8%80%81%E9%AA%97%E5%B1%80%23" target="weibo">
 央视曝光文物销售坑老骗局（热度：14133）
 </a>
@@ -8063,12 +8075,6 @@ XG对战Falcons（热度：17993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E4%BA%91%E5%90%88%E7%A8%B3%E6%AD%A5%E4%B8%8A%E5%8D%87%23" target="weibo">
 赴山海云合稳步上升（热度：13952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%997%E4%B8%875%E6%8A%B5%E6%8A%BC14%E4%B8%87%E6%96%B0%E8%BD%A6%E8%B5%8E%E5%9B%9E%E8%A6%8113%E4%B8%87%E5%A4%9A%23" target="weibo">
-小伙7万5抵押14万新车赎回要13万多（热度：13652）
 </a>
 </li>
 
