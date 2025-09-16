@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758055238637,
+  "endTime": 1758057739065,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -10331,6 +10331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28625,
+      "num": 32184,
+      "word": "内塔尼亚胡承认以色列受到了孤立",
+      "onboard_time": 1758053475,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27640,
       "num": 120278,
       "word": "王楚钦说暂停是和教练更好的沟通",
@@ -10345,6 +10353,14 @@
       "onboard_time": 1757788636,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27398,
+      "num": 25842,
+      "word": "无意识的控糖行为",
+      "onboard_time": 1758052394,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 26892,
@@ -10417,14 +10433,6 @@
       "onboard_time": 1757790916,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24512,
-      "num": 21783,
-      "word": "无意识的控糖行为",
-      "onboard_time": 1758052394,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 24457,
@@ -10643,14 +10651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18597,
-      "num": 32184,
-      "word": "内塔尼亚胡承认以色列受到了孤立",
-      "onboard_time": 1758053475,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18001,
       "num": 145549,
       "word": "闫妮说跟沙溢的友情达不到有难同当",
@@ -10723,12 +10723,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16005,
+      "num": 17331,
+      "word": "卢森堡计划承认巴勒斯坦国",
+      "onboard_time": 1758051615,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15508,
       "num": 46706,
       "word": "微博奇遇记全阵容",
       "onboard_time": 1757789116,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15245,
+      "num": 75182,
+      "word": "初一学生打球遭同学袭击致脑出血",
+      "onboard_time": 1758037885,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14961,
@@ -10739,12 +10755,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14629,
-      "num": 75182,
-      "word": "初一学生打球遭同学袭击致脑出血",
-      "onboard_time": 1758037885,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 14335,
+      "num": 17378,
+      "word": "迪丽热巴女王变女孩太有生命力了",
+      "onboard_time": 1758054554,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 14264,
@@ -10753,14 +10769,6 @@
       "onboard_time": 1758049875,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14191,
-      "num": 17331,
-      "word": "卢森堡计划承认巴勒斯坦国",
-      "onboard_time": 1758051615,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14133,
@@ -10793,14 +10801,6 @@
       "onboard_time": 1757793795,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11527,
-      "num": 15366,
-      "word": "迪丽热巴女王变女孩太有生命力了",
-      "onboard_time": 1758054554,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 10844,
