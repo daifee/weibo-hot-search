@@ -1,0 +1,410 @@
+{
+  "runTime": 1758030355033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7062503,
+        "num": 7062503,
+        "word": "易烊千玺微博直播",
+        "onboard_time": 1758023544,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592733,
+        "num": 592733,
+        "word": "江西小炒 预制菜克星",
+        "onboard_time": 1758013583,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22166,
+        "num": 533373,
+        "word": "2025文化遗产数字化论坛",
+        "onboard_time": 1758013823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478579,
+        "num": 478579,
+        "word": "朝鲜禁止使用汉堡包冰淇淋等词",
+        "onboard_time": 1758022404,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 445621,
+        "num": 445621,
+        "word": "菲律宾在中国黄岩岛举白旗",
+        "onboard_time": 1758018624,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1419585,
+        "num": 445035,
+        "word": "易烊千玺 下播最快的主包",
+        "onboard_time": 1758029909,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641756,
+        "num": 444870,
+        "word": "千玺不语 只是一味垒石头",
+        "onboard_time": 1758025406,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439591,
+        "num": 439591,
+        "word": "成毅替身演员发文",
+        "onboard_time": 1758010462,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374847,
+        "num": 374847,
+        "word": "高校通报男留学生与女生同住公寓",
+        "onboard_time": 1758028044,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 296387,
+        "num": 296387,
+        "word": "联合国认定以色列犯种族灭绝罪",
+        "onboard_time": 1758018863,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 816563,
+        "num": 292346,
+        "word": "森林北大方承认还有个儿子",
+        "onboard_time": 1758021022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618540,
+        "num": 286043,
+        "word": "真的不要在床头上挂东西了",
+        "onboard_time": 1758011662,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 607681,
+        "num": 278130,
+        "word": "杨幂 谢谢大家参加我的四十大寿",
+        "onboard_time": 1758011483,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578299,
+        "num": 267849,
+        "word": "张淼怡的脸",
+        "onboard_time": 1758009982,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575017,
+        "num": 261630,
+        "word": "迪丽热巴蓝白镂空高定裙",
+        "onboard_time": 1758021803,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420301,
+        "num": 254304,
+        "word": "女生坐火车卧铺打伞遮隐私",
+        "onboard_time": 1758022164,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338960,
+        "num": 244050,
+        "word": "红舞鞋",
+        "onboard_time": 1758028885,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239976,
+        "num": 239976,
+        "word": "胖东来 10号揽收11号生产",
+        "onboard_time": 1758017842,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229093,
+        "num": 229093,
+        "word": "董璇王楚然同款旗袍",
+        "onboard_time": 1758028044,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156500,
+        "num": 227351,
+        "word": "农妇与法官言语冲突被罚10万元",
+        "onboard_time": 1758022463,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277529,
+        "num": 226998,
+        "word": "美国警告日本",
+        "onboard_time": 1758023783,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261489,
+        "num": 226800,
+        "word": "男童游乐场推落4岁女童后转身离去",
+        "onboard_time": 1758026304,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226469,
+        "num": 226469,
+        "word": "卢昱晓劝架",
+        "onboard_time": 1758028766,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200496,
+        "num": 200496,
+        "word": "白敬亭直播带粉丝看线下",
+        "onboard_time": 1758029844,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220715,
+        "num": 194999,
+        "word": "张晚意李沁太适合打包送同个剧组了",
+        "onboard_time": 1758025289,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182493,
+        "num": 182493,
+        "word": "宋亚轩二连MVP",
+        "onboard_time": 1758029184,
+        "rank": 25,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 182119,
+        "num": 182119,
+        "word": "赴山海系统重启",
+        "onboard_time": 1758027444,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129156,
+        "num": 181646,
+        "word": "严禁退休干部到农村占地建房",
+        "onboard_time": 1758028584,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197570,
+        "num": 179602,
+        "word": "享界联合国家地理发布最美自驾线",
+        "onboard_time": 1758029665,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 96332,
+        "num": 177085,
+        "word": "山东60岁大爷退休前首次参加法考",
+        "onboard_time": 1758027265,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220211,
+        "num": 174162,
+        "word": "黄晓明 baby我们的感情好像跳楼机",
+        "onboard_time": 1757998706,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191316,
+        "num": 172935,
+        "word": "微信聊天 实况",
+        "onboard_time": 1758007882,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171390,
+        "num": 171390,
+        "word": "iG锁定冒泡赛胜者组",
+        "onboard_time": 1758026844,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161148,
+        "num": 161148,
+        "word": "女生癌症晚期选择环球硬核旅行",
+        "onboard_time": 1758012443,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26892,
+        "num": 158854,
+        "word": "马思超这舞我能笑一整天",
+        "onboard_time": 1758028164,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156976,
+        "num": 156976,
+        "word": "刘强东称只要回家就做饭",
+        "onboard_time": 1758026483,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152273,
+        "num": 152273,
+        "word": "沈佳润一家给到的DNA小震撼",
+        "onboard_time": 1758023964,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142579,
+        "num": 142579,
+        "word": "神似刘亦菲女孩3条视频涨粉20万",
+        "onboard_time": 1758021683,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86928,
+        "num": 142286,
+        "word": "让男留学生住女生宿舍是漠视学生安全",
+        "onboard_time": 1758027265,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78308,
+        "num": 142111,
+        "word": "菲方船只装了格力空调",
+        "onboard_time": 1758029245,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142071,
+        "num": 142071,
+        "word": "徐熙娣你真的很漂亮",
+        "onboard_time": 1758023242,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "薛之谦直播",
+        "onboard_time": 1758025945,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138639,
+        "num": 138639,
+        "word": "小米17",
+        "onboard_time": 1758013583,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134898,
+        "num": 134898,
+        "word": "杜淳女儿脱水导致酸中毒",
+        "onboard_time": 1758027865,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82803,
+        "num": 133859,
+        "word": "辽宁 诡异云层",
+        "onboard_time": 1758029909,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133803,
+        "num": 133803,
+        "word": "六小龄童回应悟空烦死了表情包",
+        "onboard_time": 1758022524,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "王俊凯始终明亮闪耀",
+        "onboard_time": 1758026605,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125377,
+        "num": 125377,
+        "word": "何运晨有工作室了",
+        "onboard_time": 1758030268,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125363,
+        "num": 125363,
+        "word": "传下去苗苗要给丁真当靠山",
+        "onboard_time": 1758029969,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124412,
+        "num": 124412,
+        "word": "韦雪约会迟到被罚44杯酒",
+        "onboard_time": 1758020423,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}
