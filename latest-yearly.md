@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/16 19:37:10
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/16 20:51:21
 </p>
 </blockquote>
 <p>
@@ -767,6 +767,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%E5%8F%91%E5%B8%83%23" target="weibo">
 2025考研国家线发布（热度：11010975）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BE%AE%E5%8D%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
+易烊千玺微博直播（热度：10966815）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E7%BA%A7%23" target="weibo">
 四级（热度：4431041）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-苹果发布会（热度：4430295）
 </a>
 </li>
 

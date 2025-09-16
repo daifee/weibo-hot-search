@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1758022630955,
+  "endTime": 1758027081585,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1740384441,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10966815,
+      "num": 10966815,
+      "word": "易烊千玺微博直播",
+      "onboard_time": 1758023544,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 10901855,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740525013,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4430295,
-      "num": 4430295,
-      "word": "苹果发布会",
-      "onboard_time": 1739983575,
-      "rank": 3,
-      "category": "数码"
     }
   ],
   "hotgov_list": [
