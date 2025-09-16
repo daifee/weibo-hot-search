@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758008312503,
+  "endTime": 1758011665709,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2363,6 +2363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1143511,
+      "num": 275988,
+      "word": "张淼怡的脸",
+      "onboard_time": 1758009982,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140650,
       "num": 397375,
       "word": "西贝 灾难级公关",
@@ -2689,6 +2697,14 @@
       "onboard_time": 1757904380,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1031227,
+      "num": 1031227,
+      "word": "成毅替身演员发文",
+      "onboard_time": 1758010462,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1028515,
@@ -4827,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692023,
+      "num": 246835,
+      "word": "微信聊天 实况",
+      "onboard_time": 1758007882,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 691092,
       "num": 1104644,
       "word": "731把活人解剖浸在福尔马林做标本",
@@ -6121,6 +6145,14 @@
       "onboard_time": 1757586092,
       "rank": 38,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 566780,
+      "num": 264453,
+      "word": "上海1.2级地震",
+      "onboard_time": 1758006622,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 566709,
@@ -16819,6 +16851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207529,
+      "num": 357758,
+      "word": "中国航母建设按需推进",
+      "onboard_time": 1758007942,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207487,
       "num": 207487,
       "word": "沈佳润第一支美美桑内MV",
@@ -18395,6 +18435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194997,
+      "num": 194997,
+      "word": "广东早茶 预制",
+      "onboard_time": 1758007222,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194943,
       "num": 194943,
       "word": "陆毅鲍蕾吵架竟是因为通宵上网",
@@ -19443,6 +19491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188929,
+      "num": 188929,
+      "word": "苹果中国区AirPods文案",
+      "onboard_time": 1758007162,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188835,
       "num": 207695,
       "word": "张一山新剧又干上卧底了",
@@ -19505,6 +19561,14 @@
       "onboard_time": 1757249963,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188601,
+      "num": 188601,
+      "word": "喜欢吃鱼的嘴真严啊",
+      "onboard_time": 1758011122,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 188583,
@@ -19923,14 +19987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185419,
-      "num": 185419,
-      "word": "微信聊天 实况",
-      "onboard_time": 1758007882,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 185280,
       "num": 185280,
       "word": "张艺兴回应和张艺谋团队合作",
@@ -20323,6 +20379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183148,
+      "num": 183148,
+      "word": "杨幂 谢谢大家参加我的四十大寿",
+      "onboard_time": 1758011483,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182863,
       "num": 182863,
       "word": "确诊厌6症",
@@ -20449,6 +20513,14 @@
       "onboard_time": 1757805679,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181761,
+      "num": 278504,
+      "word": "日方不要为虎作伥",
+      "onboard_time": 1758010342,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181728,
@@ -20851,6 +20923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178291,
+      "num": 188764,
+      "word": "这居然是小鬼",
+      "onboard_time": 1758011002,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178193,
       "num": 178193,
       "word": "ame冲",
@@ -21121,14 +21201,6 @@
       "onboard_time": 1756785861,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 175964,
-      "num": 175964,
-      "word": "苹果中国区AirPods文案",
-      "onboard_time": 1758007162,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 175911,
@@ -22145,6 +22217,14 @@
       "onboard_time": 1757647405,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169134,
+      "num": 169134,
+      "word": "生父称1600片泻药是继母减肥药",
+      "onboard_time": 1758009083,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169090,
@@ -23355,6 +23435,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 162530,
+      "num": 162530,
+      "word": "时代峰峻也用飞书",
+      "onboard_time": 1758010283,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162529,
       "num": 207504,
       "word": "荣耀高管称Magic8是真AI手机",
@@ -24443,14 +24531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156751,
-      "num": 156751,
-      "word": "广东早茶 预制",
-      "onboard_time": 1758007222,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156664,
       "num": 156664,
       "word": "薛飞亮相澳门冠军赛",
@@ -24737,6 +24817,14 @@
       "onboard_time": 1756634840,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155130,
+      "num": 155130,
+      "word": "姜妍拍大闸蟹拍出了悬疑感",
+      "onboard_time": 1758010404,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 155121,
@@ -25121,14 +25209,6 @@
       "onboard_time": 1757300663,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153159,
-      "num": 357758,
-      "word": "中国航母建设按需推进",
-      "onboard_time": 1758007942,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 153074,
@@ -27227,6 +27307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144014,
+      "num": 144014,
+      "word": "辛芷蕾负重30斤武训",
+      "onboard_time": 1758009323,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144010,
       "num": 144010,
       "word": "美国一妇女发文炫耀自家狗成选民",
@@ -27747,6 +27835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141859,
+      "num": 157788,
+      "word": "给王嘉尔吓成范丞丞了",
+      "onboard_time": 1758007643,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141722,
       "num": 141722,
       "word": "星巴克员工曝卖不出月饼垫钱自购",
@@ -28177,6 +28273,14 @@
       "onboard_time": 1757686768,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140012,
+      "num": 140012,
+      "word": "感觉30岁左右好有意思",
+      "onboard_time": 1758008903,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 139976,
@@ -29987,6 +30091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132875,
+      "num": 132875,
+      "word": "狗狗安乐死前看主人的最后一眼",
+      "onboard_time": 1758011241,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132864,
       "num": 137063,
       "word": "AirPodsPro3耳机缩小",
@@ -30369,6 +30481,14 @@
       "onboard_time": 1757553082,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131170,
+      "num": 258081,
+      "word": "12306 开票即候补",
+      "onboard_time": 1758010761,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131155,
@@ -31163,6 +31283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128223,
+      "num": 128223,
+      "word": "外交部回应中美元首是否即将通话",
+      "onboard_time": 1758009083,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128212,
       "num": 128212,
       "word": "娜扎底子不基础打戏就不基础",
@@ -31561,6 +31689,14 @@
       "onboard_time": 1757324422,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126662,
+      "num": 126662,
+      "word": "你的好骗程度到几级",
+      "onboard_time": 1758009862,
+      "rank": 45,
+      "category": "情感,科学科普"
     },
     {
       "raw_hot": 126656,
@@ -32403,6 +32539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123518,
+      "num": 123518,
+      "word": "谁把内娱最缺心眼的拉来搞宅斗",
+      "onboard_time": 1758011603,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123505,
       "num": 123505,
       "word": "布瑞吉 别把我的观众当傻子",
@@ -32473,6 +32617,14 @@
       "onboard_time": 1757082683,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123169,
+      "num": 123169,
+      "word": "费启鸣复刻了四年前的自己",
+      "onboard_time": 1758011603,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 123156,
@@ -32897,6 +33049,14 @@
       "onboard_time": 1757742623,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121663,
+      "num": 121663,
+      "word": "建议大家要学会看衣服面料",
+      "onboard_time": 1758009323,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 121648,
@@ -43539,14 +43699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74687,
-      "num": 157788,
-      "word": "给王嘉尔吓成范丞丞了",
-      "onboard_time": 1758007643,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74587,
       "num": 273107,
       "word": "警方通报砖厂利用残障人员务工",
@@ -45545,6 +45697,14 @@
       "onboard_time": 1757867480,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58816,
+      "num": 249417,
+      "word": "倪妮你要跳舞吗",
+      "onboard_time": 1758010163,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58785,
@@ -47547,6 +47707,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 41780,
+      "num": 254559,
+      "word": "王琳才是那个依萍",
+      "onboard_time": 1758011122,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41732,
       "num": 122166,
       "word": "散步才是最好的大众减脂运动",
@@ -47977,6 +48145,14 @@
       "onboard_time": 1756708521,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37639,
+      "num": 140814,
+      "word": "女子踩氢氟酸身亡事发地有居民种菜",
+      "onboard_time": 1758011241,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37635,
@@ -48537,6 +48713,14 @@
       "onboard_time": 1757164822,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31921,
+      "num": 140411,
+      "word": "真人版4399化妆小游戏",
+      "onboard_time": 1758010943,
+      "rank": 39,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 31838,

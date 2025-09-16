@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758008312503,
+  "endTime": 1758011665709,
   "band_list": [
     {
       "raw_hot": 12520060,
@@ -379,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1143511,
+      "num": 275988,
+      "word": "张淼怡的脸",
+      "onboard_time": 1758009982,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1139244,
       "num": 329490,
       "word": "女子散步时踩到氢氟酸后去世",
@@ -449,6 +457,14 @@
       "onboard_time": 1757904380,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1031227,
+      "num": 1031227,
+      "word": "成毅替身演员发文",
+      "onboard_time": 1758010462,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1001976,
@@ -843,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 692023,
+      "num": 246835,
+      "word": "微信聊天 实况",
+      "onboard_time": 1758007882,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 677844,
       "num": 677844,
       "word": "小米17",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1757997865,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 566780,
+      "num": 264453,
+      "word": "上海1.2级地震",
+      "onboard_time": 1758006622,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 564698,
@@ -3107,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207529,
+      "num": 357758,
+      "word": "中国航母建设按需推进",
+      "onboard_time": 1758007942,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207487,
       "num": 207487,
       "word": "沈佳润第一支美美桑内MV",
@@ -3427,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194997,
+      "num": 194997,
+      "word": "广东早茶 预制",
+      "onboard_time": 1758007222,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194856,
       "num": 194856,
       "word": "无畏人性是复杂的",
@@ -3651,12 +3699,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188929,
+      "num": 188929,
+      "word": "苹果中国区AirPods文案",
+      "onboard_time": 1758007162,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188835,
       "num": 207695,
       "word": "张一山新剧又干上卧底了",
       "onboard_time": 1757991323,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188601,
+      "num": 188601,
+      "word": "喜欢吃鱼的嘴真严啊",
+      "onboard_time": 1758011122,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 187743,
@@ -3689,14 +3753,6 @@
       "onboard_time": 1757828181,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185419,
-      "num": 185419,
-      "word": "微信聊天 实况",
-      "onboard_time": 1758007882,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 185004,
@@ -3763,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183148,
+      "num": 183148,
+      "word": "杨幂 谢谢大家参加我的四十大寿",
+      "onboard_time": 1758011483,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182850,
       "num": 363206,
       "word": "国庆中秋双节放假8天",
@@ -3777,6 +3841,14 @@
       "onboard_time": 1757805679,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181761,
+      "num": 278504,
+      "word": "日方不要为虎作伥",
+      "onboard_time": 1758010342,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181674,
@@ -3843,6 +3915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178291,
+      "num": 188764,
+      "word": "这居然是小鬼",
+      "onboard_time": 1758011002,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178193,
       "num": 178193,
       "word": "ame冲",
@@ -3905,14 +3985,6 @@
       "onboard_time": 1757907202,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175964,
-      "num": 175964,
-      "word": "苹果中国区AirPods文案",
-      "onboard_time": 1758007162,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 175693,
@@ -4065,6 +4137,14 @@
       "onboard_time": 1757999185,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169134,
+      "num": 169134,
+      "word": "生父称1600片泻药是继母减肥药",
+      "onboard_time": 1758009083,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169091,
@@ -4307,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162530,
+      "num": 162530,
+      "word": "时代峰峻也用飞书",
+      "onboard_time": 1758010283,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162516,
       "num": 162516,
       "word": "泡泡玛特足金产品首发遇冷",
@@ -4547,14 +4635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156751,
-      "num": 156751,
-      "word": "广东早茶 预制",
-      "onboard_time": 1758007222,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156662,
       "num": 156662,
       "word": "孙颖莎澳门夺冠发博",
@@ -4601,6 +4681,14 @@
       "onboard_time": 1757993182,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155130,
+      "num": 155130,
+      "word": "姜妍拍大闸蟹拍出了悬疑感",
+      "onboard_time": 1758010404,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154915,
@@ -4681,14 +4769,6 @@
       "onboard_time": 1758006263,
       "rank": 39,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 153159,
-      "num": 357758,
-      "word": "中国航母建设按需推进",
-      "onboard_time": 1758007942,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 153005,
@@ -5051,6 +5131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144014,
+      "num": 144014,
+      "word": "辛芷蕾负重30斤武训",
+      "onboard_time": 1758009323,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143928,
       "num": 143928,
       "word": "王楚钦侧颜好绝",
@@ -5147,6 +5235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141859,
+      "num": 157788,
+      "word": "给王嘉尔吓成范丞丞了",
+      "onboard_time": 1758007643,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141656,
       "num": 144581,
       "word": "毛不易疑似误入仙家对话",
@@ -5209,6 +5305,14 @@
       "onboard_time": 1757903120,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140012,
+      "num": 140012,
+      "word": "感觉30岁左右好有意思",
+      "onboard_time": 1758008903,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 139825,
@@ -5483,6 +5587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 132875,
+      "num": 132875,
+      "word": "狗狗安乐死前看主人的最后一眼",
+      "onboard_time": 1758011241,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132659,
       "num": 141901,
       "word": "瑞达竞业协议",
@@ -5521,6 +5633,14 @@
       "onboard_time": 1757947884,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 131170,
+      "num": 258081,
+      "word": "12306 开票即候补",
+      "onboard_time": 1758010761,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130488,
@@ -5619,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128223,
+      "num": 128223,
+      "word": "外交部回应中美元首是否即将通话",
+      "onboard_time": 1758009083,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128160,
       "num": 128160,
       "word": "心动的信号夏日漫游芭莎大片",
@@ -5673,6 +5801,14 @@
       "onboard_time": 1758001102,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126662,
+      "num": 126662,
+      "word": "你的好骗程度到几级",
+      "onboard_time": 1758009862,
+      "rank": 45,
+      "category": "情感,科学科普"
     },
     {
       "raw_hot": 126564,
@@ -5803,6 +5939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123518,
+      "num": 123518,
+      "word": "谁把内娱最缺心眼的拉来搞宅斗",
+      "onboard_time": 1758011603,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123505,
       "num": 123505,
       "word": "布瑞吉 别把我的观众当傻子",
@@ -5817,6 +5961,14 @@
       "onboard_time": 1757940444,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123169,
+      "num": 123169,
+      "word": "费启鸣复刻了四年前的自己",
+      "onboard_time": 1758011603,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 122632,
@@ -5881,6 +6033,14 @@
       "onboard_time": 1757862325,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 121663,
+      "num": 121663,
+      "word": "建议大家要学会看衣服面料",
+      "onboard_time": 1758009323,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 121648,
@@ -7563,14 +7723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74687,
-      "num": 157788,
-      "word": "给王嘉尔吓成范丞丞了",
-      "onboard_time": 1758007643,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74257,
       "num": 74256,
       "word": "金晨衣服基础穿起来就不基础",
@@ -7937,6 +8089,14 @@
       "onboard_time": 1757867480,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58816,
+      "num": 249417,
+      "word": "倪妮你要跳舞吗",
+      "onboard_time": 1758010163,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58745,
@@ -8347,6 +8507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41780,
+      "num": 254559,
+      "word": "王琳才是那个依萍",
+      "onboard_time": 1758011122,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41732,
       "num": 78458,
       "word": "vctcn",
@@ -8435,6 +8603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37639,
+      "num": 140814,
+      "word": "女子踩氢氟酸身亡事发地有居民种菜",
+      "onboard_time": 1758011241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37481,
       "num": 231966,
       "word": "胡先煦玉门关聆听岁月回响",
@@ -8521,6 +8697,14 @@
       "onboard_time": 1757929342,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31921,
+      "num": 140411,
+      "word": "真人版4399化妆小游戏",
+      "onboard_time": 1758010943,
+      "rank": 39,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 31838,
