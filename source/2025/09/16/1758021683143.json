@@ -1,0 +1,410 @@
+{
+  "runTime": 1758021683143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1073690,
+        "num": 1171790,
+        "word": "江西小炒 预制菜克星",
+        "onboard_time": 1758013583,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799324,
+        "num": 799324,
+        "word": "菲律宾在中国黄岩岛举白旗",
+        "onboard_time": 1758018624,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26960,
+        "num": 758911,
+        "word": "2025文化遗产数字化论坛",
+        "onboard_time": 1758013823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 749950,
+        "num": 749950,
+        "word": "易烊千玺 直播",
+        "onboard_time": 1758013764,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521374,
+        "num": 521374,
+        "word": "胖东来 10号揽收11号生产",
+        "onboard_time": 1758017842,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502613,
+        "num": 502613,
+        "word": "调查人员现场再次挖出2瓶氢氟酸",
+        "onboard_time": 1758016882,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422101,
+        "num": 422101,
+        "word": "眉姐姐上身基础下身还不如基础",
+        "onboard_time": 1758017664,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412980,
+        "num": 412980,
+        "word": "那英王菲 我们会是一辈子的好朋友",
+        "onboard_time": 1758016343,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389416,
+        "num": 389416,
+        "word": "联合国认定以色列犯种族灭绝罪",
+        "onboard_time": 1758018863,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219929,
+        "num": 219929,
+        "word": "研究发现长期炎症会唤醒癌细胞",
+        "onboard_time": 1758014723,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 684897,
+        "num": 219643,
+        "word": "张淼怡的脸",
+        "onboard_time": 1758009982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668910,
+        "num": 215811,
+        "word": "杨幂 谢谢大家参加我的四十大寿",
+        "onboard_time": 1758011483,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606706,
+        "num": 213661,
+        "word": "真的不要在床头上挂东西了",
+        "onboard_time": 1758011662,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 599826,
+        "num": 211955,
+        "word": "成毅替身演员发文",
+        "onboard_time": 1758010462,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369765,
+        "num": 211340,
+        "word": "女生癌症晚期选择环球硬核旅行",
+        "onboard_time": 1758012443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349926,
+        "num": 207591,
+        "word": "王晓晨双下巴",
+        "onboard_time": 1758014783,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329882,
+        "num": 205129,
+        "word": "黄晓明 baby我们的感情好像跳楼机",
+        "onboard_time": 1757998706,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205099,
+        "num": 205099,
+        "word": "森林北首晒儿子",
+        "onboard_time": 1758006382,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194823,
+        "num": 194823,
+        "word": "王一博黑粉发布致歉声明",
+        "onboard_time": 1758021262,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148170,
+        "num": 194797,
+        "word": "中国海警管制菲船只现场画面",
+        "onboard_time": 1758018803,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230223,
+        "num": 194796,
+        "word": "微信聊天 实况",
+        "onboard_time": 1758007882,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194794,
+        "num": 194794,
+        "word": "韦雪约会迟到被罚44杯酒",
+        "onboard_time": 1758020423,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173982,
+        "num": 173982,
+        "word": "王者荣耀",
+        "onboard_time": 1758021323,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170292,
+        "num": 170292,
+        "word": "赴山海",
+        "onboard_time": 1758018983,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136574,
+        "num": 170053,
+        "word": "12306回应卧铺乘客打伞遮隐私",
+        "onboard_time": 1758017903,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119435,
+        "num": 169723,
+        "word": "辛芷蕾梁婷 再见爱人好友季",
+        "onboard_time": 1758017182,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117262,
+        "num": 169166,
+        "word": "国产剧拍了新型留守老人",
+        "onboard_time": 1758021143,
+        "rank": 26,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 103215,
+        "num": 168259,
+        "word": "邓超从真跑男到真难跑",
+        "onboard_time": 1758019583,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93120,
+        "num": 168009,
+        "word": "大城市回西藏才懂拼多多的含金量",
+        "onboard_time": 1758017063,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36127,
+        "num": 167395,
+        "word": "太二部分菜品食材由公司配送再制作",
+        "onboard_time": 1758020542,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359734,
+        "num": 166724,
+        "word": "森林北大方承认还有个儿子",
+        "onboard_time": 1758021022,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166429,
+        "num": 166429,
+        "word": "盛世天下",
+        "onboard_time": 1758013403,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155657,
+        "num": 155657,
+        "word": "iG冒泡赛处境",
+        "onboard_time": 1758020603,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155591,
+        "num": 155591,
+        "word": "多名男留学生混住在女生宿舍楼",
+        "onboard_time": 1758000805,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52619,
+        "num": 149918,
+        "word": "李宁户外这件三合一让我装到了",
+        "onboard_time": 1758021442,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146639,
+        "num": 146639,
+        "word": "留几手给葛夕直播刷礼物",
+        "onboard_time": 1758020242,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136163,
+        "num": 136163,
+        "word": "小米17背屏",
+        "onboard_time": 1757991981,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 9661,
+        "num": 125845,
+        "word": "和crush双向爆灯只差一瓶茉莉茶",
+        "onboard_time": 1758015204,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41760,
+        "num": 123602,
+        "word": "虐死女孩的继母曾收买3名儿童虐待",
+        "onboard_time": 1758021262,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79177,
+        "num": 122930,
+        "word": "沈阳太二酸菜鱼已全部闭店",
+        "onboard_time": 1758020483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122473,
+        "num": 122473,
+        "word": "成毅回应赴山海台词含糊",
+        "onboard_time": 1757998104,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117803,
+        "num": 117803,
+        "word": "小米17",
+        "onboard_time": 1758013583,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114072,
+        "num": 114072,
+        "word": "男子未入职被连发1年工资",
+        "onboard_time": 1758019043,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109699,
+        "num": 109699,
+        "word": "江西小炒称毛利率很低",
+        "onboard_time": 1758020302,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97564,
+        "num": 107080,
+        "word": "打工人花十几万回村给父母补缴社保",
+        "onboard_time": 1758020483,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105653,
+        "num": 105653,
+        "word": "12306 开票即候补",
+        "onboard_time": 1758010761,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104059,
+        "num": 104059,
+        "word": "新华社出图明信片定格这些瞬间",
+        "onboard_time": 1758018503,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100909,
+        "num": 100909,
+        "word": "广东一地惊现20斤大蟒蛇生吞牛犊",
+        "onboard_time": 1758018383,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95659,
+        "num": 95659,
+        "word": "董力阿诺带儿子游天安门",
+        "onboard_time": 1758016463,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93693,
+        "num": 93693,
+        "word": "来医院看病却成了医生",
+        "onboard_time": 1758019222,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持依法治网依法办网依法上网#"
+    }
+  }
+}
