@@ -1,6 +1,6 @@
 {
   "startTime": 1757953935853,
-  "endTime": 1758005381937,
+  "endTime": 1758007514674,
   "band_list": [
     {
       "raw_hot": 2500117,
@@ -179,6 +179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 881644,
+      "num": 448629,
+      "word": "森林北首晒儿子",
+      "onboard_time": 1758006382,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 862545,
+      "num": 431788,
+      "word": "狗 我的碗出车祸了",
+      "onboard_time": 1758005002,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 802379,
       "num": 802379,
       "word": "上海网红面包店将未售面包直接丢弃",
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 635635,
+      "num": 635635,
+      "word": "店员回应丢弃未售面包是公司规定",
+      "onboard_time": 1758002723,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597142,
       "num": 429000,
       "word": "别再给皮肤喂满汉全席了",
@@ -244,11 +268,19 @@
     },
     {
       "raw_hot": 560937,
-      "num": 412446,
+      "num": 454329,
       "word": "贺刚为成毅发声",
       "onboard_time": 1758002122,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 547308,
+      "num": 547308,
+      "word": "香港巴士司机遭铁棍插胸仍冷静停车",
+      "onboard_time": 1758003383,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545532,
@@ -289,6 +321,14 @@
       "onboard_time": 1757941823,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475002,
+      "num": 475002,
+      "word": "孙颖莎将免试进入清华大学读研",
+      "onboard_time": 1757994745,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 466324,
@@ -336,14 +376,6 @@
       "word": "女子卫生巾内藏674.7克足金",
       "onboard_time": 1757947526,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395873,
-      "num": 395873,
-      "word": "店员回应丢弃未售面包是公司规定",
-      "onboard_time": 1758002723,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -427,12 +459,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 336134,
-      "num": 336134,
-      "word": "孙颖莎将免试进入清华大学读研",
-      "onboard_time": 1757994745,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 344554,
+      "num": 344554,
+      "word": "2025湾区升明月官宣",
+      "onboard_time": 1758003443,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 327549,
@@ -507,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265194,
+      "num": 265194,
+      "word": "上海地震",
+      "onboard_time": 1758006622,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 262892,
       "num": 427558,
       "word": "那英5个字总结张晚意",
@@ -553,6 +593,14 @@
       "onboard_time": 1757999843,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247705,
+      "num": 247705,
+      "word": "易烊千玺你小子搞催泪这套",
+      "onboard_time": 1758005963,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 245209,
@@ -651,28 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211962,
-      "num": 211962,
-      "word": "香港巴士司机遭铁棍插胸仍冷静停车",
-      "onboard_time": 1758003383,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211960,
       "num": 256085,
       "word": "成毅曾回应赴山海吐槽",
       "onboard_time": 1757989702,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211092,
-      "num": 211092,
-      "word": "2025湾区升明月官宣",
-      "onboard_time": 1758003443,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 209197,
@@ -771,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195285,
+      "num": 195285,
+      "word": "被虐死女孩生父为继母判死刑哭泣",
+      "onboard_time": 1758005122,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193501,
       "num": 193501,
       "word": "科切拉阵容",
@@ -788,7 +828,7 @@
     },
     {
       "raw_hot": 193285,
-      "num": 193285,
+      "num": 270768,
       "word": "中方回应菲公务船冲撞中方海警船",
       "onboard_time": 1757996483,
       "rank": 46,
@@ -801,6 +841,14 @@
       "onboard_time": 1757984542,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190780,
+      "num": 190780,
+      "word": "研究生制止行凶男子被刺身亡",
+      "onboard_time": 1758006982,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190551,
@@ -827,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187503,
+      "num": 187503,
+      "word": "那英马思纯一家人整整齐齐",
+      "onboard_time": 1758005783,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "短剧仙剑三开机",
@@ -841,6 +897,14 @@
       "onboard_time": 1757997564,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180324,
+      "num": 168872,
+      "word": "清华回应孙颖莎王曼昱免试读研",
+      "onboard_time": 1758005002,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 177303,
@@ -899,20 +963,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 168872,
-      "num": 168872,
-      "word": "清华回应孙颖莎王曼昱免试读研",
-      "onboard_time": 1758005002,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167798,
       "num": 194040,
       "word": "父母情绪不稳定孩子切忌自责",
       "onboard_time": 1757943865,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167747,
+      "num": 167747,
+      "word": "恩利到底喝了多少丝瓜汤",
+      "onboard_time": 1758004101,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167663,
+      "num": 167663,
+      "word": "朱一龙18年的愿望25年实现了",
+      "onboard_time": 1758006082,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 165695,
@@ -955,6 +1027,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 161365,
+      "num": 161365,
+      "word": "王乐晨主动牵卢远的手",
+      "onboard_time": 1758006742,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160877,
       "num": 160877,
       "word": "打电话要小心苹果手机的语音信箱",
@@ -979,12 +1059,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157875,
-      "num": 157875,
-      "word": "狗 我的碗出车祸了",
-      "onboard_time": 1758005002,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 157553,
+      "num": 157553,
+      "word": "苹果中国区AirPods文案",
+      "onboard_time": 1758007162,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 157538,
@@ -1011,12 +1091,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153936,
-      "num": 153936,
-      "word": "恩利到底喝了多少丝瓜汤",
-      "onboard_time": 1758004101,
-      "rank": 40,
-      "category": "作品衍生,时尚"
+      "raw_hot": 153890,
+      "num": 153890,
+      "word": "战至巅峰",
+      "onboard_time": 1758007282,
+      "rank": 35,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 153809,
+      "num": 153808,
+      "word": "面试官是怎么看出一个人能力差的",
+      "onboard_time": 1758006263,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 153501,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1757993542,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149325,
+      "num": 149325,
+      "word": "王者S41新赛季天元",
+      "onboard_time": 1758007463,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 148818,
@@ -1107,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140032,
+      "num": 140032,
+      "word": "诺澜依旧女追男",
+      "onboard_time": 1758007343,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138776,
       "num": 193920,
       "word": "梁婷说签约演员里唯一赚钱的是尹正",
@@ -1121,6 +1225,14 @@
       "onboard_time": 1757996483,
       "rank": 37,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 136396,
+      "num": 136445,
+      "word": "网红柴怼怼被刑拘",
+      "onboard_time": 1758003622,
+      "rank": 38,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 135855,
@@ -1139,28 +1251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134116,
-      "num": 136445,
-      "word": "网红柴怼怼被刑拘",
-      "onboard_time": 1758003622,
-      "rank": 38,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 131835,
       "num": 131835,
       "word": "王珏下车",
       "onboard_time": 1758004942,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131142,
-      "num": 145629,
-      "word": "被虐死女孩生父为继母判死刑哭泣",
-      "onboard_time": 1758005122,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129483,
@@ -1193,6 +1289,14 @@
       "onboard_time": 1757988502,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127286,
+      "num": 153813,
+      "word": "太二门店称全部活鱼现杀",
+      "onboard_time": 1758006382,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127110,
@@ -1483,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80417,
+      "num": 155246,
+      "word": "田曦薇张艺凡牛奶猫型闺蜜",
+      "onboard_time": 1758005662,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80292,
       "num": 193595,
       "word": "杨帆解约函",
@@ -1617,6 +1729,14 @@
       "onboard_time": 1757955018,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62296,
+      "num": 153824,
+      "word": "迪拜富豪为何对中国车上头",
+      "onboard_time": 1758007463,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 61635,
@@ -1849,6 +1969,14 @@
       "onboard_time": 1757930482,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24690,
+      "num": 153809,
+      "word": "沈腾AI换脸黄渤秒变徐志胜",
+      "onboard_time": 1758006322,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 23624,
