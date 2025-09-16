@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 20:51:21
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/16 21:05:30
 </p>
 </blockquote>
 <p>
@@ -2295,6 +2295,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%80%81%E5%85%AC%E4%BD%A0%E8%AF%B4%E5%8F%A5%E8%AF%9D%E5%95%8A%23" target="weibo">
+易烊千玺 老公你说句话啊（热度：964399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%B3%95%E9%B1%BC%E6%9D%A1%20%E5%A4%A7%E9%BB%84%E9%B1%BC%23" target="weibo">
 西贝鳕鱼条 大黄鱼（热度：956045）
 </a>
@@ -2819,12 +2825,6 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BA%91%E5%98%8E%E9%83%81%E5%8F%AF%E5%94%AF%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E6%BC%94%E5%94%B1%E6%AD%8C%E6%9B%B2%23" target="weibo">
 阿云嘎郁可唯文艺晚会演唱歌曲（热度：843405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%80%81%E5%85%AC%E4%BD%A0%E8%AF%B4%E5%8F%A5%E8%AF%9D%E5%95%8A%23" target="weibo">
-易烊千玺 老公你说句话啊（热度：841252）
 </a>
 </li>
 
