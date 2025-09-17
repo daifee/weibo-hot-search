@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 21:05:11
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 21:32:38
 </p>
 </blockquote>
 <p>
@@ -1611,6 +1611,12 @@ NASA明确发现火星生命迹象（热度：1280374）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
+福建一中学强制女生剪斜面短发（热度：1252038）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E7%A5%96%E5%B9%B3%E8%87%AA%E6%9B%9D%E9%81%AD%E7%BB%BF%E5%AA%92%E5%89%AF%E6%80%BB%E5%84%BF%E5%AD%90%E4%B8%8B%E8%8D%AF%E6%80%A7%E4%BE%B5%23" target="weibo">
 江祖平自曝遭绿媒副总儿子下药性侵（热度：1251483）
 </a>
@@ -2673,6 +2679,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%BB%BA%E5%AE%87%20%E6%88%91%E6%B2%A1%E6%9C%89%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
+冯建宇 我没有女朋友（热度：893797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E5%92%8C%E9%83%A8%E9%98%9F%23" target="weibo">
 维和部队（热度：892992）
 </a>
@@ -2891,12 +2903,6 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%23" target="weibo">
 中国对俄罗斯试行免签（热度：855727）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
-福建一中学强制女生剪斜面短发（热度：855546）
 </a>
 </li>
 
@@ -3369,6 +3375,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E6%8B%86%E6%8E%89%E7%8E%B0%E5%81%9A%E6%8B%9B%E7%89%8C%23" target="weibo">
+绿茶餐厅拆掉现做招牌（热度：782423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E7%9B%B4%E6%92%AD%E8%AF%B4%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%8A%A2%E8%B5%B0%23" target="weibo">
 黄一鸣直播说女儿被抢走（热度：778924）
 </a>
@@ -3789,12 +3801,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%BB%BA%E5%AE%87%20%E6%88%91%E6%B2%A1%E6%9C%89%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
-冯建宇 我没有女朋友（热度：708191）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%203%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23" target="weibo">
 西贝 3只蒸饺29元（热度：707902）
 </a>
@@ -4193,12 +4199,6 @@ iPhone17系列补贴后降1000元（热度：669556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%81%9C%E6%AD%A2%E8%B7%B3%E5%8A%A8%E5%B8%B8%E9%A9%BB%23" target="weibo">
 建议汪苏泷停止跳动常驻（热度：657223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E6%8B%86%E6%8E%89%E7%8E%B0%E5%81%9A%E6%8B%9B%E7%89%8C%23" target="weibo">
-绿茶餐厅拆掉现做招牌（热度：657037）
 </a>
 </li>
 

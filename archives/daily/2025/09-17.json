@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758114311707,
+  "endTime": 1758115958471,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -48,6 +48,14 @@
       "word": "清华学霸晒1.67亿元年薪引调查",
       "onboard_time": 1758087324,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1252038,
+      "num": 1252038,
+      "word": "福建一中学强制女生剪斜面短发",
+      "onboard_time": 1758110063,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 893797,
+      "num": 329340,
+      "word": "冯建宇 我没有女朋友",
+      "onboard_time": 1758112223,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 889815,
       "num": 277665,
       "word": "迪丽热巴不需要你的美颜参数",
@@ -185,14 +201,6 @@
       "onboard_time": 1758102682,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 855546,
-      "num": 855546,
-      "word": "福建一中学强制女生剪斜面短发",
-      "onboard_time": 1758110063,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 848380,
@@ -235,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 782423,
+      "num": 782423,
+      "word": "绿茶餐厅拆掉现做招牌",
+      "onboard_time": 1758110483,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 776123,
       "num": 365717,
       "word": "关晓彤28岁生日照",
@@ -251,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 708191,
-      "num": 329340,
-      "word": "冯建宇 我没有女朋友",
-      "onboard_time": 1758112223,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 690481,
       "num": 223446,
       "word": "于朦胧后事已处理完",
@@ -273,14 +281,6 @@
       "onboard_time": 1758068544,
       "rank": 1,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 657037,
-      "num": 657037,
-      "word": "绿茶餐厅拆掉现做招牌",
-      "onboard_time": 1758110483,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 649702,
@@ -475,6 +475,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 443510,
+      "num": 443510,
+      "word": "水牛奶 水牛是商标",
+      "onboard_time": 1758111502,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437910,
       "num": 221240,
       "word": "于朦胧母亲发文",
@@ -539,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 395709,
+      "num": 279221,
+      "word": "杨丞琳李荣浩结婚6周年发文",
+      "onboard_time": 1758112703,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384958,
       "num": 281419,
       "word": "重庆理工大学向学生致歉",
@@ -553,6 +569,14 @@
       "onboard_time": 1758091884,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 378367,
+      "num": 276784,
+      "word": "刘亦菲38岁素颜状态",
+      "onboard_time": 1758112402,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 373632,
@@ -739,14 +763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 281534,
-      "num": 281534,
-      "word": "水牛奶 水牛是商标",
-      "onboard_time": 1758111502,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280675,
       "num": 217216,
       "word": "易烊千玺微博直播",
@@ -827,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245083,
-      "num": 245083,
-      "word": "刘亦菲38岁素颜状态",
-      "onboard_time": 1758112402,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 237897,
+      "num": 340306,
+      "word": "张维伊跳扫腿舞",
+      "onboard_time": 1758114865,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 234774,
@@ -987,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197691,
+      "num": 197691,
+      "word": "iPhone17评测",
+      "onboard_time": 1758115163,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 195882,
       "num": 195882,
       "word": "多方回应女童被废弃电线杆砸中身亡",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1758036926,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191722,
+      "num": 316396,
+      "word": "校方回应强制女生剪斜面短发",
+      "onboard_time": 1758112944,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191304,
@@ -1107,14 +1139,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 183636,
-      "num": 183636,
-      "word": "杨丞琳李荣浩结婚6周年发文",
-      "onboard_time": 1758112703,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182844,
       "num": 182844,
       "word": "GAI儿子说这是我的vlog",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1758088944,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180289,
+      "num": 180289,
+      "word": "女孩得知被拐轻生养父痛哭无能为力",
+      "onboard_time": 1758114502,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179882,
@@ -1411,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159100,
+      "num": 227561,
+      "word": "马天宇出席釜山国际电影节",
+      "onboard_time": 1758114684,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158843,
       "num": 158843,
       "word": "泽连斯基 普京可以来但我不会去",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1758081984,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147069,
+      "num": 196613,
+      "word": "第一次见女主把男主当工具人",
+      "onboard_time": 1758115463,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 146338,
@@ -1795,6 +1843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132530,
+      "num": 287388,
+      "word": "多家餐饮店抹掉无预制菜字样",
+      "onboard_time": 1758113544,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132478,
       "num": 220600,
       "word": "安踏通报一总裁级人员涉嫌违法",
@@ -2051,14 +2107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120446,
-      "num": 120446,
-      "word": "校方回应强制女生剪斜面短发",
-      "onboard_time": 1758112944,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120344,
       "num": 120344,
       "word": "刘翔的含金量还在上升",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1758110722,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113835,
+      "num": 126555,
+      "word": "许玮甯回应二胎",
+      "onboard_time": 1758114865,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 113759,
@@ -2379,6 +2435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103241,
+      "num": 103241,
+      "word": "张杰超长签售8小时",
+      "onboard_time": 1758115765,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103200,
       "num": 103200,
       "word": "抽象的马嘉祺身边是抽象的严浩翔",
@@ -2467,20 +2531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100944,
-      "num": 287388,
-      "word": "多家餐饮店抹掉无预制菜字样",
-      "onboard_time": 1758113544,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100702,
       "num": 100702,
       "word": "江苏省会之争真的来了",
       "onboard_time": 1758099863,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100573,
+      "num": 100573,
+      "word": "曝iPhoneAir以合约机形式销售",
+      "onboard_time": 1758113484,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 100452,
@@ -2513,6 +2577,14 @@
       "onboard_time": 1758010462,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98911,
+      "num": 98911,
+      "word": "iPhone17哪款是性价比之王",
+      "onboard_time": 1758112343,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 98678,
@@ -2553,6 +2625,14 @@
       "onboard_time": 1758029909,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95587,
+      "num": 95587,
+      "word": "上海海港vs神户胜利船",
+      "onboard_time": 1758115225,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95174,
@@ -2697,14 +2777,6 @@
       "onboard_time": 1758110782,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 84882,
-      "num": 84882,
-      "word": "iPhone17哪款是性价比之王",
-      "onboard_time": 1758112343,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 84443,
@@ -3059,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48272,
+      "num": 202497,
+      "word": "河南一公职人员在他人耕地屡次修坟",
+      "onboard_time": 1758114084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48203,
       "num": 132472,
       "word": "普京身着军装出席联合军演",
@@ -3163,20 +3243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35485,
-      "num": 202497,
-      "word": "河南一公职人员在他人耕地屡次修坟",
-      "onboard_time": 1758114084,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34551,
       "num": 159264,
       "word": "快递员撞人致死公司被判赔200余万",
       "onboard_time": 1758083186,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34272,
+      "num": 182374,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1758114924,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34226,
@@ -3297,6 +3377,14 @@
       "onboard_time": 1758051615,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15814,
+      "num": 626610,
+      "word": "翱翔长空",
+      "onboard_time": 1758115644,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14639,
