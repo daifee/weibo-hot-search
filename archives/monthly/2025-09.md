@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 20:51:21
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 21:05:11
 </p>
 </blockquote>
 <p>
@@ -2895,6 +2895,12 @@ iPhone18Pro已打样（热度：878237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
+福建一中学强制女生剪斜面短发（热度：855546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
 王一博直播（热度：854718）
 </a>
@@ -3765,12 +3771,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
-福建一中学强制女生剪斜面短发（热度：711880）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%B3%BD%E5%88%A9%E7%A7%91%23" target="weibo">
 樊振东vs泽利科（热度：710729）
 </a>
@@ -3785,6 +3785,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%9C%89%E6%96%B0%E8%A7%84%E5%AE%9A%E4%BA%86%23" target="weibo">
 儿童火车票有新规定了（热度：708657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%BB%BA%E5%AE%87%20%E6%88%91%E6%B2%A1%E6%9C%89%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
+冯建宇 我没有女朋友（热度：708191）
 </a>
 </li>
 
@@ -4191,6 +4197,12 @@ iPhone17系列补贴后降1000元（热度：669556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E6%8B%86%E6%8E%89%E7%8E%B0%E5%81%9A%E6%8B%9B%E7%89%8C%23" target="weibo">
+绿茶餐厅拆掉现做招牌（热度：657037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17%E9%AB%98%E5%88%B7%23" target="weibo">
 iPhone17高刷（热度：656758）
 </a>
@@ -4311,12 +4323,6 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E6%8B%86%E6%8E%89%E7%8E%B0%E5%81%9A%E6%8B%9B%E7%89%8C%23" target="weibo">
-绿茶餐厅拆掉现做招牌（热度：639612）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E6%A0%BC%E5%B1%80%E8%A6%81%E5%8F%98%E4%BA%86%23" target="weibo">
 85花格局要变了（热度：639198）
 </a>
@@ -4343,12 +4349,6 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84%23" target="weibo">
 炎亚纶不像演的（热度：638213）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%BB%BA%E5%AE%87%20%E6%88%91%E6%B2%A1%E6%9C%89%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
-冯建宇 我没有女朋友（热度：636951）
 </a>
 </li>
 

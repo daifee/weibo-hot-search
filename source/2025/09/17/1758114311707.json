@@ -1,0 +1,410 @@
+{
+  "runTime": 1758114311707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1005568,
+        "num": 1160890,
+        "word": "外交部连发三个停止",
+        "onboard_time": 1758108684,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 855546,
+        "num": 855546,
+        "word": "福建一中学强制女生剪斜面短发",
+        "onboard_time": 1758110063,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24189,
+        "num": 744550,
+        "word": "两点一存耀华夏",
+        "onboard_time": 1758099924,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657037,
+        "num": 657037,
+        "word": "绿茶餐厅拆掉现做招牌",
+        "onboard_time": 1758110483,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466469,
+        "num": 466469,
+        "word": "桃黑黑盛世天下直播",
+        "onboard_time": 1758111863,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 446552,
+        "num": 446552,
+        "word": "赴山海一集下线134人",
+        "onboard_time": 1758108684,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392189,
+        "num": 392189,
+        "word": "微信存储一下就少了10G",
+        "onboard_time": 1758103342,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 385204,
+        "num": 385204,
+        "word": "中国游客用嘴咬住落水女子头发救人",
+        "onboard_time": 1758104663,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288281,
+        "num": 288281,
+        "word": "周也学芭蕾一年半",
+        "onboard_time": 1758108324,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100944,
+        "num": 287388,
+        "word": "多家餐饮店抹掉无预制菜字样",
+        "onboard_time": 1758113544,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845773,
+        "num": 285752,
+        "word": "95后黑老大13次强奸10名未成年人",
+        "onboard_time": 1758104302,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708191,
+        "num": 283596,
+        "word": "冯建宇 我没有女朋友",
+        "onboard_time": 1758112223,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322231,
+        "num": 282386,
+        "word": "降息",
+        "onboard_time": 1758093862,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281534,
+        "num": 281534,
+        "word": "水牛奶 水牛是商标",
+        "onboard_time": 1758111502,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274330,
+        "num": 274330,
+        "word": "宋祖儿首演反派角色",
+        "onboard_time": 1758109523,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245083,
+        "num": 245083,
+        "word": "刘亦菲38岁素颜状态",
+        "onboard_time": 1758112402,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244602,
+        "num": 244602,
+        "word": "粉丝给白鹿写了460斤信",
+        "onboard_time": 1758104002,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244516,
+        "num": 244516,
+        "word": "女生校内分娩孩子的父亲在哪",
+        "onboard_time": 1758103042,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215843,
+        "num": 215843,
+        "word": "北大副校长任羽中主动投案",
+        "onboard_time": 1758098481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315528,
+        "num": 215000,
+        "word": "黄金",
+        "onboard_time": 1758102324,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 814886,
+        "num": 214282,
+        "word": "迪丽热巴不需要你的美颜参数",
+        "onboard_time": 1758107243,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314623,
+        "num": 213217,
+        "word": "颜安家被淹了",
+        "onboard_time": 1758104182,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168322,
+        "num": 211279,
+        "word": "唐嫣获奖后首次出镜",
+        "onboard_time": 1758112102,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151354,
+        "num": 210887,
+        "word": "不眠日",
+        "onboard_time": 1758110244,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137613,
+        "num": 209188,
+        "word": "去世演员爸妈不在搭档发文悼念",
+        "onboard_time": 1758108203,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135816,
+        "num": 208333,
+        "word": "白敬亭打戏",
+        "onboard_time": 1758113424,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132677,
+        "num": 206759,
+        "word": "731",
+        "onboard_time": 1758097102,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127186,
+        "num": 205530,
+        "word": "赴山海男一男二大战",
+        "onboard_time": 1758112102,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48690,
+        "num": 204010,
+        "word": "户外人的养生玄学",
+        "onboard_time": 1758110663,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35485,
+        "num": 202497,
+        "word": "河南一公职人员在他人耕地屡次修坟",
+        "onboard_time": 1758114084,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202356,
+        "num": 202356,
+        "word": "二十几岁正是拼的年纪",
+        "onboard_time": 1758114084,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183636,
+        "num": 183636,
+        "word": "杨丞琳李荣浩结婚6周年发文",
+        "onboard_time": 1758112703,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173202,
+        "num": 173202,
+        "word": "职工医保个账余额能转账啦",
+        "onboard_time": 1758098724,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159749,
+        "num": 159749,
+        "word": "大二女生宿舍分娩到底谁的错",
+        "onboard_time": 1758084026,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153715,
+        "num": 153715,
+        "word": "月入1万已经能生活得非常好了",
+        "onboard_time": 1758108383,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142402,
+        "num": 142402,
+        "word": "教育局回应中学强制女生剪斜面短发",
+        "onboard_time": 1758112824,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140403,
+        "num": 140403,
+        "word": "孕妇狂吃火锅烧烤血液竟变奶昔色",
+        "onboard_time": 1758101424,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116409,
+        "num": 138577,
+        "word": "嗨放派因暴雨取消直播",
+        "onboard_time": 1758114264,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138388,
+        "num": 138388,
+        "word": "亚冠",
+        "onboard_time": 1758113785,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97015,
+        "num": 122134,
+        "word": "王楚钦在线炫技",
+        "onboard_time": 1758114023,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121514,
+        "num": 121514,
+        "word": "清华学霸晒1.67亿元年薪引调查",
+        "onboard_time": 1758087324,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120446,
+        "num": 120446,
+        "word": "校方回应强制女生剪斜面短发",
+        "onboard_time": 1758112944,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114396,
+        "num": 114396,
+        "word": "iPhone手机可以用多少年",
+        "onboard_time": 1758093204,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113471,
+        "num": 113471,
+        "word": "高校限塑令 喝蜜雪冰城需带水杯",
+        "onboard_time": 1758111325,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108189,
+        "num": 108189,
+        "word": "731首映",
+        "onboard_time": 1758102143,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105050,
+        "num": 105050,
+        "word": "卫健委回应上海学生午餐发臭被急撤",
+        "onboard_time": 1758110004,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102477,
+        "num": 102477,
+        "word": "面试时一定要看看厕所",
+        "onboard_time": 1758110722,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102076,
+        "num": 102076,
+        "word": "陈都灵还原镜妖造型",
+        "onboard_time": 1758107663,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101546,
+        "num": 101546,
+        "word": "陈哲远一开团杨幂秒跟",
+        "onboard_time": 1758111023,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99583,
+        "num": 99583,
+        "word": "深圳一地铁站口3孩童躺坐无人陪",
+        "onboard_time": 1758106343,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励大家奋发进取再立新功#"
+    }
+  }
+}

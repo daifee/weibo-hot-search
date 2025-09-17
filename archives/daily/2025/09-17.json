@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758113481704,
+  "endTime": 1758114311707,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -187,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 855546,
+      "num": 855546,
+      "word": "福建一中学强制女生剪斜面短发",
+      "onboard_time": 1758110063,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848380,
       "num": 1116681,
       "word": "赴山海 随时随地发现新剧本",
@@ -243,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 711880,
-      "num": 711880,
-      "word": "福建一中学强制女生剪斜面短发",
-      "onboard_time": 1758110063,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 708191,
+      "num": 329340,
+      "word": "冯建宇 我没有女朋友",
+      "onboard_time": 1758112223,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 690481,
@@ -267,6 +275,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 657037,
+      "num": 657037,
+      "word": "绿茶餐厅拆掉现做招牌",
+      "onboard_time": 1758110483,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 649702,
       "num": 649702,
       "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
@@ -281,22 +297,6 @@
       "onboard_time": 1758082284,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 639612,
-      "num": 639612,
-      "word": "绿茶餐厅拆掉现做招牌",
-      "onboard_time": 1758110483,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 636951,
-      "num": 329340,
-      "word": "冯建宇 我没有女朋友",
-      "onboard_time": 1758112223,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 603058,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466469,
+      "num": 466469,
+      "word": "桃黑黑盛世天下直播",
+      "onboard_time": 1758111863,
+      "rank": 6,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 464459,
       "num": 464459,
       "word": "日本人出1200万求购非遗面具被拒",
@@ -513,14 +521,6 @@
       "onboard_time": 1758093204,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 418842,
-      "num": 418842,
-      "word": "桃黑黑盛世天下直播",
-      "onboard_time": 1758111863,
-      "rank": 6,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 403610,
@@ -643,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315528,
+      "num": 291448,
+      "word": "黄金",
+      "onboard_time": 1758102324,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 311413,
       "num": 311413,
       "word": "90后女子背疼容易饿确诊胃癌晚期",
@@ -715,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291448,
-      "num": 291448,
-      "word": "黄金",
-      "onboard_time": 1758102324,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 291209,
       "num": 219030,
       "word": "鹿晗 邪恶银渐层",
@@ -737,6 +737,14 @@
       "onboard_time": 1758077364,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 281534,
+      "num": 281534,
+      "word": "水牛奶 水牛是商标",
+      "onboard_time": 1758111502,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280675,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 264133,
-      "num": 198381,
+      "num": 209188,
       "word": "去世演员爸妈不在搭档发文悼念",
       "onboard_time": 1758108203,
       "rank": 21,
@@ -819,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236969,
-      "num": 236969,
-      "word": "水牛奶 水牛是商标",
-      "onboard_time": 1758111502,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 245083,
+      "num": 245083,
+      "word": "刘亦菲38岁素颜状态",
+      "onboard_time": 1758112402,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 234774,
@@ -939,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202356,
+      "num": 202356,
+      "word": "二十几岁正是拼的年纪",
+      "onboard_time": 1758114084,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200027,
       "num": 200027,
       "word": "日本网民呼吁731上映谁急了",
@@ -993,14 +1009,6 @@
       "onboard_time": 1758103823,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194432,
-      "num": 194432,
-      "word": "刘亦菲38岁素颜状态",
-      "onboard_time": 1758112402,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 193874,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1758074902,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 183636,
+      "num": 183636,
+      "word": "杨丞琳李荣浩结婚6周年发文",
+      "onboard_time": 1758112703,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 182844,
@@ -1251,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168322,
+      "num": 211279,
+      "word": "唐嫣获奖后首次出镜",
+      "onboard_time": 1758112102,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168040,
       "num": 168040,
       "word": "韩红出手就是四个二带俩王",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1758095362,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165924,
-      "num": 165924,
-      "word": "杨丞琳李荣浩结婚6周年发文",
-      "onboard_time": 1758112703,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 165683,
@@ -1409,14 +1425,6 @@
       "onboard_time": 1758093324,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157734,
-      "num": 199255,
-      "word": "唐嫣获奖后首次出镜",
-      "onboard_time": 1758112102,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 157322,
@@ -1579,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142402,
+      "num": 327815,
+      "word": "教育局回应中学强制女生剪斜面短发",
+      "onboard_time": 1758112824,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "北京晚霞",
@@ -1627,6 +1643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138388,
+      "num": 138388,
+      "word": "亚冠",
+      "onboard_time": 1758113785,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137213,
       "num": 156120,
       "word": "731首映",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1758083365,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135816,
+      "num": 208333,
+      "word": "白敬亭打戏",
+      "onboard_time": 1758113424,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 135605,
@@ -1899,6 +1931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127186,
+      "num": 205530,
+      "word": "赴山海男一男二大战",
+      "onboard_time": 1758112102,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127064,
       "num": 127064,
       "word": "别让萧秋水的悲惨在现实上演",
@@ -2011,20 +2051,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120446,
+      "num": 120446,
+      "word": "校方回应强制女生剪斜面短发",
+      "onboard_time": 1758112944,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120344,
       "num": 120344,
       "word": "刘翔的含金量还在上升",
       "onboard_time": 1758069024,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120070,
-      "num": 181704,
-      "word": "赴山海男一男二大战",
-      "onboard_time": 1758112102,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 119381,
@@ -2113,6 +2153,14 @@
       "onboard_time": 1758101184,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116409,
+      "num": 138577,
+      "word": "嗨放派因暴雨取消直播",
+      "onboard_time": 1758114264,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 116371,
@@ -2307,14 +2355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105366,
-      "num": 327815,
-      "word": "教育局回应中学强制女生剪斜面短发",
-      "onboard_time": 1758112824,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104806,
       "num": 104806,
       "word": "LPL总决赛中场秀",
@@ -2403,6 +2443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 101546,
+      "num": 101546,
+      "word": "陈哲远一开团杨幂秒跟",
+      "onboard_time": 1758111023,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101467,
       "num": 101467,
       "word": "上班之后最容易失去什么",
@@ -2416,6 +2464,14 @@
       "word": "南孚电池广告语 好喜欢和领导出差",
       "onboard_time": 1758100222,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100944,
+      "num": 287388,
+      "word": "多家餐饮店抹掉无预制菜字样",
+      "onboard_time": 1758113544,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2475,6 +2531,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 97015,
+      "num": 122134,
+      "word": "王楚钦在线炫技",
+      "onboard_time": 1758114023,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96960,
       "num": 96960,
       "word": "警方已向于朦胧母亲通报调查情况",
@@ -2489,14 +2553,6 @@
       "onboard_time": 1758029909,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96070,
-      "num": 96070,
-      "word": "陈哲远一开团杨幂秒跟",
-      "onboard_time": 1758111023,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 95174,
@@ -2587,14 +2643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 90084,
-      "num": 90084,
-      "word": "校方回应强制女生剪斜面短发",
-      "onboard_time": 1758112944,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90042,
       "num": 90042,
       "word": "白敬亭急得只想捂嘴",
@@ -2625,14 +2673,6 @@
       "onboard_time": 1758063139,
       "rank": 29,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 86806,
-      "num": 86806,
-      "word": "白敬亭打戏",
-      "onboard_time": 1758113424,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 86584,
@@ -2756,7 +2796,7 @@
     },
     {
       "raw_hot": 75944,
-      "num": 179931,
+      "num": 204010,
       "word": "户外人的养生玄学",
       "onboard_time": 1758110663,
       "rank": 29,
@@ -3123,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35485,
+      "num": 202497,
+      "word": "河南一公职人员在他人耕地屡次修坟",
+      "onboard_time": 1758114084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34551,
       "num": 159264,
       "word": "快递员撞人致死公司被判赔200余万",
@@ -3203,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24189,
+      "num": 744550,
+      "word": "两点一存耀华夏",
+      "onboard_time": 1758099924,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23940,
       "num": 120479,
       "word": "4人入室抢婴贩卖案9月19日宣判",
@@ -3217,14 +3273,6 @@
       "onboard_time": 1758080424,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20295,
-      "num": 647246,
-      "word": "两点一存耀华夏",
-      "onboard_time": 1758099924,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16944,
