@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758086633166,
+  "endTime": 1758087628290,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2396441,
+      "num": 2396441,
+      "word": "大二女生宿舍分娩到底谁的错",
+      "onboard_time": 1758084026,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2358558,
       "num": 404233,
       "word": "于朦胧母亲发文",
@@ -128,14 +136,6 @@
       "word": "多名男留学生混住在女生宿舍楼",
       "onboard_time": 1758000805,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2000293,
-      "num": 2000293,
-      "word": "大二女生宿舍分娩到底谁的错",
-      "onboard_time": 1758084026,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -827,6 +827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 843533,
+      "num": 256920,
+      "word": "被虐死女孩说的第一句话是叫爸爸",
+      "onboard_time": 1758086004,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 839231,
       "num": 1537442,
       "word": "日本拒绝美国",
@@ -1059,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 714105,
+      "num": 435300,
+      "word": "关晓彤生日发文",
+      "onboard_time": 1758086963,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709853,
       "num": 709853,
       "word": "肖战 美团团购",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1757777605,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 646887,
+      "num": 273653,
+      "word": "简历唯独不可以是pdf",
+      "onboard_time": 1758082284,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 643929,
@@ -1329,14 +1353,6 @@
       "onboard_time": 1757859566,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568903,
-      "num": 273653,
-      "word": "简历唯独不可以是pdf",
-      "onboard_time": 1758082284,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 568771,
@@ -1843,12 +1859,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 449880,
-      "num": 256920,
-      "word": "被虐死女孩说的第一句话是叫爸爸",
-      "onboard_time": 1758086004,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 452620,
+      "num": 215860,
+      "word": "田曦薇我生下来就是齐刘海",
+      "onboard_time": 1758086723,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 448277,
@@ -2017,6 +2033,14 @@
       "onboard_time": 1758076763,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 420703,
+      "num": 215528,
+      "word": "陈若仪回应kimi不露脸原因",
+      "onboard_time": 1758085584,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 420301,
@@ -2803,14 +2827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299008,
-      "num": 173445,
-      "word": "陈若仪回应kimi不露脸原因",
-      "onboard_time": 1758085584,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296803,
       "num": 231314,
       "word": "多囊vs多囊卵巢综合征",
@@ -3588,7 +3604,7 @@
     },
     {
       "raw_hot": 227391,
-      "num": 173411,
+      "num": 206722,
       "word": "给不会修眉的人一点震撼",
       "onboard_time": 1758085524,
       "rank": 31,
@@ -4539,6 +4555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192338,
+      "num": 184694,
+      "word": "香蕉是一种攻击性很强的水果",
+      "onboard_time": 1758083005,
+      "rank": 26,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "WTT澳门冠军赛2025",
@@ -4665,6 +4689,14 @@
       "onboard_time": 1758082825,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189581,
+      "num": 189581,
+      "word": "清华学霸晒1.67亿元年薪引调查",
+      "onboard_time": 1758087324,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189365,
@@ -4817,14 +4849,6 @@
       "onboard_time": 1757846964,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184694,
-      "num": 184694,
-      "word": "香蕉是一种攻击性很强的水果",
-      "onboard_time": 1758083005,
-      "rank": 26,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 184687,
@@ -5377,6 +5401,14 @@
       "onboard_time": 1757910985,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168040,
+      "num": 168040,
+      "word": "韩红出手就是四个二带俩王",
+      "onboard_time": 1758086904,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 168037,
@@ -7259,6 +7291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131618,
+      "num": 135985,
+      "word": "女子酒后砍伤闺蜜头欲给2万和解",
+      "onboard_time": 1758086784,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131303,
       "num": 131303,
       "word": "周深说自己的演唱会像五仁月饼",
@@ -7979,6 +8019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118678,
+      "num": 118678,
+      "word": "果然事业单位大佬都在评论区",
+      "onboard_time": 1758086304,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 118645,
       "num": 231322,
       "word": "武林外传新路透",
@@ -8257,6 +8305,14 @@
       "onboard_time": 1757841083,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113759,
+      "num": 113759,
+      "word": "妈妈 一点都不大大方方的",
+      "onboard_time": 1758087204,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 113473,
@@ -8673,6 +8729,14 @@
       "onboard_time": 1757926882,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106014,
+      "num": 106014,
+      "word": "看林允我都有些害怕了",
+      "onboard_time": 1758085045,
+      "rank": 49,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 105884,
@@ -9819,6 +9883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 79683,
+      "num": 173560,
+      "word": "你为什么就是瘦不下来",
+      "onboard_time": 1758086185,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 79562,
       "num": 79562,
       "word": "奥地利外长怂恿中国劝俄罗斯和谈",
@@ -10755,6 +10827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 51839,
+      "num": 192503,
+      "word": "人才补贴拖欠",
+      "onboard_time": 1758087385,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51673,
       "num": 180893,
       "word": "超10万人参加伦敦反移民活动",
@@ -10843,6 +10923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48987,
+      "num": 149883,
+      "word": "一家公立二甲医院欠薪倒闭背后",
+      "onboard_time": 1758086484,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48971,
       "num": 258252,
       "word": "孙颖莎有实力自然出众",
@@ -10865,14 +10953,6 @@
       "onboard_time": 1758037885,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48445,
-      "num": 173560,
-      "word": "你为什么就是瘦不下来",
-      "onboard_time": 1758086185,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 48276,
@@ -11185,14 +11265,6 @@
       "onboard_time": 1758004342,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 36851,
-      "num": 149883,
-      "word": "一家公立二甲医院欠薪倒闭背后",
-      "onboard_time": 1758086484,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36527,
