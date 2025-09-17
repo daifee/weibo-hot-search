@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758097957568,
+  "endTime": 1758098769161,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1148236,
+      "num": 1183717,
+      "word": "日本皇室独苗曝爱吃垃圾食品",
+      "onboard_time": 1758093024,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1081734,
       "num": 364325,
       "word": "涉毒艺人复出谁给开的绿灯",
       "onboard_time": 1758068064,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 978737,
-      "num": 1156598,
-      "word": "日本皇室独苗曝爱吃垃圾食品",
-      "onboard_time": 1758093024,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 953668,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 820839,
+      "num": 820839,
+      "word": "降息",
+      "onboard_time": 1758093862,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 805559,
       "num": 805559,
       "word": "汤森德吐槽中国菜后道歉",
@@ -195,15 +203,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 632671,
-      "num": 632671,
-      "word": "降息",
-      "onboard_time": 1758093862,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 596800,
+      "raw_hot": 603058,
       "num": 348787,
       "word": "月薪3万的月嫂一天做我一辈子的家务",
       "onboard_time": 1758093683,
@@ -217,6 +217,14 @@
       "onboard_time": 1758075022,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 577308,
+      "num": 323797,
+      "word": "白鹿 我的咖啡减肥了吗",
+      "onboard_time": 1758096261,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 552995,
@@ -257,6 +265,14 @@
       "onboard_time": 1758081386,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 509539,
+      "num": 509539,
+      "word": "12306 我要回家",
+      "onboard_time": 1758089304,
+      "rank": 20,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 502636,
@@ -305,14 +321,6 @@
       "onboard_time": 1758096142,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 470164,
-      "num": 470164,
-      "word": "12306 我要回家",
-      "onboard_time": 1758089304,
-      "rank": 20,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 464459,
@@ -371,8 +379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415021,
-      "num": 415021,
+      "raw_hot": 420277,
+      "num": 420277,
       "word": "iPhone手机可以用多少年",
       "onboard_time": 1758093204,
       "rank": 32,
@@ -465,14 +473,6 @@
       "onboard_time": 1758033630,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323797,
-      "num": 323797,
-      "word": "白鹿 我的咖啡减肥了吗",
-      "onboard_time": 1758096261,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 319887,
@@ -587,6 +587,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 274042,
+      "num": 163294,
+      "word": "以色列开始碰瓷中国",
+      "onboard_time": 1758097283,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 270147,
+      "num": 270147,
+      "word": "职工医保个账余额能转账啦",
+      "onboard_time": 1758098724,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266346,
       "num": 266346,
       "word": "喜人奇妙夜2冠军回归",
@@ -595,20 +611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257492,
+      "num": 216836,
+      "word": "韩方授予4名中国海警荣誉称号",
+      "onboard_time": 1758093324,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 255405,
       "num": 255405,
       "word": "警方通报一女子假扮骑手卖惨诈骗",
       "onboard_time": 1758063740,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251343,
-      "num": 216836,
-      "word": "韩方授予4名中国海警荣誉称号",
-      "onboard_time": 1758093324,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 246045,
@@ -659,14 +675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215263,
-      "num": 149530,
-      "word": "以色列开始碰瓷中国",
-      "onboard_time": 1758097283,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 211252,
       "num": 211252,
       "word": "恋与深空无人知晓时",
@@ -707,6 +715,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200986,
+      "num": 200986,
+      "word": "北大副校长任羽中主动投案",
+      "onboard_time": 1758098481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200331,
+      "num": 200331,
+      "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
+      "onboard_time": 1758097943,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200027,
       "num": 200027,
       "word": "日本网民呼吁731上映谁急了",
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 199232,
-      "num": 199232,
+      "num": 200733,
       "word": "A股",
       "onboard_time": 1758095482,
       "rank": 18,
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 177800,
-      "num": 177800,
+      "num": 200490,
       "word": "不眠日 蛋糕爆炸婚礼一秒变葬礼",
       "onboard_time": 1758096985,
       "rank": 24,
@@ -971,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163734,
+      "num": 163734,
+      "word": "95年黑老大被核准死刑",
+      "onboard_time": 1758096261,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163606,
       "num": 163606,
       "word": "网友抱怨侄子高中宿舍过于陈旧",
@@ -1035,16 +1067,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157691,
-      "num": 157691,
-      "word": "95年黑老大被核准死刑",
-      "onboard_time": 1758096261,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157322,
-      "num": 157322,
+      "num": 162487,
       "word": "唐朝诡事录之长安过审了",
       "onboard_time": 1758096682,
       "rank": 27,
@@ -1163,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144724,
+      "num": 144724,
+      "word": "人还是不能突然有钱",
+      "onboard_time": 1758095603,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143752,
       "num": 143752,
       "word": "多国呼吁中止以色列联合国会员国资格",
@@ -1171,8 +1203,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143449,
+      "num": 143449,
+      "word": "上海全款400万92平的小家",
+      "onboard_time": 1758097763,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143076,
-      "num": 149569,
+      "num": 163941,
       "word": "刘宇宁没体面点的上班方式吗",
       "onboard_time": 1758094343,
       "rank": 44,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1758094402,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139251,
+      "num": 139251,
+      "word": "霉霉演唱会视野受限区只卖113人民币",
+      "onboard_time": 1758098002,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 138572,
@@ -1419,14 +1467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127160,
-      "num": 127160,
-      "word": "人还是不能突然有钱",
-      "onboard_time": 1758095603,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127064,
       "num": 127064,
       "word": "别让萧秋水的悲惨在现实上演",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1758078803,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126239,
+      "num": 126239,
+      "word": "李一桐靠一个字超级加辈",
+      "onboard_time": 1758098363,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 125900,
@@ -1579,20 +1627,20 @@
       "category": "体育,海外新闻"
     },
     {
-      "raw_hot": 117733,
-      "num": 117733,
-      "word": "上海全款400万92平的小家",
-      "onboard_time": 1758097763,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116371,
       "num": 116371,
       "word": "人生大事全部体验完的35岁",
       "onboard_time": 1758093324,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115975,
+      "num": 115975,
+      "word": "赴山海好international的古装剧",
+      "onboard_time": 1758098363,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 115257,
@@ -1665,6 +1713,14 @@
       "onboard_time": 1758018624,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109285,
+      "num": 109285,
+      "word": "上海多校午餐撤菜是否发臭得说清楚",
+      "onboard_time": 1758096923,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109023,
@@ -1771,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102811,
+      "num": 102811,
+      "word": "iOS26降级iOS18教程",
+      "onboard_time": 1758098724,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 102698,
       "num": 102698,
       "word": "接到张艺兴打来的电话了",
@@ -1787,20 +1851,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101558,
+      "num": 101558,
+      "word": "女子回应坠井54小时身上爬满蛇",
+      "onboard_time": 1758095362,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101467,
       "num": 101467,
       "word": "上班之后最容易失去什么",
       "onboard_time": 1758080663,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100718,
-      "num": 100718,
-      "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
-      "onboard_time": 1758097943,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100452,
@@ -1857,6 +1921,14 @@
       "onboard_time": 1758069204,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 94617,
+      "num": 200907,
+      "word": "妇联回应大二女生在学校宿舍分娩",
+      "onboard_time": 1758098062,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94574,
@@ -2004,7 +2076,7 @@
     },
     {
       "raw_hot": 79220,
-      "num": 112043,
+      "num": 138221,
       "word": "小米17Pro现身数据库",
       "onboard_time": 1758097943,
       "rank": 42,
@@ -2425,6 +2497,14 @@
       "onboard_time": 1758051615,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14639,
+      "num": 137765,
+      "word": "蒋龙张弛上个时代喜剧演员",
+      "onboard_time": 1758098302,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 11503,

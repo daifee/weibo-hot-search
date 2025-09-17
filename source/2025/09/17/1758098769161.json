@@ -1,0 +1,410 @@
+{
+  "runTime": 1758098769161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1148236,
+        "num": 1183717,
+        "word": "日本皇室独苗曝爱吃垃圾食品",
+        "onboard_time": 1758093024,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 820839,
+        "num": 820839,
+        "word": "降息",
+        "onboard_time": 1758093862,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39695,
+        "num": 744129,
+        "word": "网警打掉侵犯公民信息违法犯罪团伙",
+        "onboard_time": 1758089664,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738136,
+        "num": 738136,
+        "word": "赴山海 随时随地发现新剧本",
+        "onboard_time": 1758090985,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509539,
+        "num": 509539,
+        "word": "12306 我要回家",
+        "onboard_time": 1758089304,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 420277,
+        "num": 420277,
+        "word": "iPhone手机可以用多少年",
+        "onboard_time": 1758093204,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 393973,
+        "num": 393973,
+        "word": "红舞鞋首批阵容官宣",
+        "onboard_time": 1758096142,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315794,
+        "num": 315794,
+        "word": "GAI算不算透露说唱圈内幕了",
+        "onboard_time": 1758092542,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270147,
+        "num": 270147,
+        "word": "职工医保个账余额能转账啦",
+        "onboard_time": 1758098724,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124134,
+        "num": 269768,
+        "word": "国庆花卉布置25日亮相",
+        "onboard_time": 1758095303,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 957349,
+        "num": 266853,
+        "word": "大二女生宿舍分娩到底谁的错",
+        "onboard_time": 1758084026,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603058,
+        "num": 263004,
+        "word": "月薪3万的月嫂一天做我一辈子的家务",
+        "onboard_time": 1758093683,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186476,
+        "num": 261347,
+        "word": "喜人奇妙夜2冠军回归",
+        "onboard_time": 1758092723,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577308,
+        "num": 257884,
+        "word": "白鹿 我的咖啡减肥了吗",
+        "onboard_time": 1758096261,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396482,
+        "num": 257115,
+        "word": "田曦薇我生下来就是齐刘海",
+        "onboard_time": 1758086723,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278809,
+        "num": 254450,
+        "word": "女子坠废井54小时还被几条蛇缠身",
+        "onboard_time": 1758091042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252880,
+        "num": 252880,
+        "word": "香蕉是一种攻击性很强的水果",
+        "onboard_time": 1758083005,
+        "rank": 16,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 211689,
+        "num": 211689,
+        "word": "俞灏明王晓晨牵手逛街",
+        "onboard_time": 1758080964,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200986,
+        "num": 200986,
+        "word": "北大副校长任羽中主动投案",
+        "onboard_time": 1758098481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94617,
+        "num": 200907,
+        "word": "妇联回应大二女生在学校宿舍分娩",
+        "onboard_time": 1758098062,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700721,
+        "num": 200877,
+        "word": "清华学霸晒1.67亿元年薪引调查",
+        "onboard_time": 1758087324,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183347,
+        "num": 200733,
+        "word": "A股",
+        "onboard_time": 1758095482,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143298,
+        "num": 200654,
+        "word": "731",
+        "onboard_time": 1758097102,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257492,
+        "num": 200611,
+        "word": "韩方授予4名中国海警荣誉称号",
+        "onboard_time": 1758093324,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150470,
+        "num": 200490,
+        "word": "不眠日 蛋糕爆炸婚礼一秒变葬礼",
+        "onboard_time": 1758096985,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243887,
+        "num": 200346,
+        "word": "林依晨产后3个月就复工",
+        "onboard_time": 1758093503,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200331,
+        "num": 200331,
+        "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
+        "onboard_time": 1758097943,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178804,
+        "num": 178804,
+        "word": "桃黑黑盛世天下",
+        "onboard_time": 1758090202,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 165112,
+        "num": 165112,
+        "word": "手部出现的3种癌症预警信号",
+        "onboard_time": 1758089304,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138140,
+        "num": 163941,
+        "word": "刘宇宁没体面点的上班方式吗",
+        "onboard_time": 1758094343,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163734,
+        "num": 163734,
+        "word": "95年黑老大被核准死刑",
+        "onboard_time": 1758096261,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274042,
+        "num": 163294,
+        "word": "以色列开始碰瓷中国",
+        "onboard_time": 1758097283,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136389,
+        "num": 162487,
+        "word": "唐朝诡事录之长安过审了",
+        "onboard_time": 1758096682,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162360,
+        "num": 162360,
+        "word": "小米17Pro 黑色版iPhone17Pro",
+        "onboard_time": 1758091884,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144724,
+        "num": 144724,
+        "word": "人还是不能突然有钱",
+        "onboard_time": 1758095603,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143449,
+        "num": 143449,
+        "word": "上海全款400万92平的小家",
+        "onboard_time": 1758097763,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141268,
+        "num": 141268,
+        "word": "天安门国庆花坛有会发光的鸽子",
+        "onboard_time": 1758095723,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139251,
+        "num": 139251,
+        "word": "霉霉演唱会视野受限区只卖113人民币",
+        "onboard_time": 1758098002,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52611,
+        "num": 138221,
+        "word": "小米17Pro现身数据库",
+        "onboard_time": 1758097943,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14639,
+        "num": 137765,
+        "word": "蒋龙张弛上个时代喜剧演员",
+        "onboard_time": 1758098302,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137342,
+        "num": 137342,
+        "word": "上海小学生这吃的啥啊",
+        "onboard_time": 1758090625,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129902,
+        "num": 129902,
+        "word": "陈若仪回应kimi不露脸原因",
+        "onboard_time": 1758085584,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126239,
+        "num": 126239,
+        "word": "李一桐靠一个字超级加辈",
+        "onboard_time": 1758098363,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120832,
+        "num": 120832,
+        "word": "柯淳抱宁静像地主家傻儿子娶媳妇",
+        "onboard_time": 1758096562,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115975,
+        "num": 115975,
+        "word": "赴山海好international的古装剧",
+        "onboard_time": 1758098363,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110101,
+        "num": 110101,
+        "word": "陈小纭红嫁衣造型太对味了",
+        "onboard_time": 1758092542,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109285,
+        "num": 109285,
+        "word": "上海多校午餐撤菜是否发臭得说清楚",
+        "onboard_time": 1758096923,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103635,
+        "num": 103635,
+        "word": "于晓光儿子抽中隐藏款Labubu",
+        "onboard_time": 1758096744,
+        "rank": 47,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 102811,
+        "num": 102811,
+        "word": "iOS26降级iOS18教程",
+        "onboard_time": 1758098724,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101558,
+        "num": 101558,
+        "word": "女子回应坠井54小时身上爬满蛇",
+        "onboard_time": 1758095362,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从四大全球倡议看和平与发展#"
+    }
+  }
+}
