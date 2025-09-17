@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758101213235,
+  "endTime": 1758102014462,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -131,6 +131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 876385,
+      "num": 876385,
+      "word": "职工医保个账余额能转账啦",
+      "onboard_time": 1758098724,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848380,
       "num": 1116681,
       "word": "赴山海 随时随地发现新剧本",
@@ -187,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 699069,
-      "num": 699069,
-      "word": "职工医保个账余额能转账啦",
-      "onboard_time": 1758098724,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 690481,
       "num": 223446,
       "word": "于朦胧后事已处理完",
@@ -211,20 +211,20 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 649702,
+      "num": 649702,
+      "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
+      "onboard_time": 1758097943,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646887,
       "num": 273653,
       "word": "简历唯独不可以是pdf",
       "onboard_time": 1758082284,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 623877,
-      "num": 623877,
-      "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
-      "onboard_time": 1758097943,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 603058,
@@ -612,11 +612,19 @@
     },
     {
       "raw_hot": 274042,
-      "num": 164404,
+      "num": 185974,
       "word": "以色列开始碰瓷中国",
       "onboard_time": 1758097283,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 273163,
+      "num": 273163,
+      "word": "上海多校午餐撤菜是否发臭得说清楚",
+      "onboard_time": 1758096923,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266346,
@@ -689,6 +697,14 @@
       "onboard_time": 1758069504,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215245,
+      "num": 185756,
+      "word": "孕妇狂吃火锅烧烤血液竟变奶昔色",
+      "onboard_time": 1758101424,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211252,
@@ -835,6 +851,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186509,
+      "num": 186509,
+      "word": "曝中芯国际首款5nm光刻机正在测试",
+      "onboard_time": 1758100884,
+      "rank": 23,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 185657,
+      "num": 185657,
+      "word": "人还是不能突然有钱",
+      "onboard_time": 1758095603,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185469,
       "num": 185469,
       "word": "杨洋包场白敬亭不眠日",
@@ -849,6 +881,14 @@
       "onboard_time": 1758074902,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 182844,
+      "num": 182844,
+      "word": "GAI儿子说这是我的vlog",
+      "onboard_time": 1758101424,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 182761,
@@ -873,14 +913,6 @@
       "onboard_time": 1758073343,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179688,
-      "num": 179688,
-      "word": "人还是不能突然有钱",
-      "onboard_time": 1758095603,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 179665,
@@ -971,14 +1003,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 170280,
-      "num": 170280,
-      "word": "上海多校午餐撤菜是否发臭得说清楚",
-      "onboard_time": 1758096923,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168040,
       "num": 168040,
       "word": "韩红出手就是四个二带俩王",
@@ -1011,20 +1035,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166921,
+      "num": 166921,
+      "word": "女子回应坠井54小时身上爬满蛇",
+      "onboard_time": 1758095362,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165683,
       "num": 275355,
       "word": "没认出来这是王鹤润",
       "onboard_time": 1758090863,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164121,
-      "num": 164121,
-      "word": "曝中芯国际首款5nm光刻机正在测试",
-      "onboard_time": 1758100884,
-      "rank": 23,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 163734,
@@ -1097,14 +1121,6 @@
       "onboard_time": 1758093324,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157481,
-      "num": 157481,
-      "word": "女子回应坠井54小时身上爬满蛇",
-      "onboard_time": 1758095362,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157322,
@@ -1491,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127639,
+      "num": 127639,
+      "word": "全球顶流网红喝完凉茶只是一味硬撑",
+      "onboard_time": 1758098481,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127225,
       "num": 127225,
       "word": "离岸人民币升穿7.1",
@@ -1539,6 +1563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125935,
+      "num": 125935,
+      "word": "丁禹兮默默帮剧组搬东西",
+      "onboard_time": 1758101063,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125900,
       "num": 227029,
       "word": "17号台风米娜或要来了",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1758039924,
       "rank": 40,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 121574,
-      "num": 126111,
-      "word": "全球顶流网红喝完凉茶只是一味硬撑",
-      "onboard_time": 1758098481,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 121453,
@@ -1747,6 +1771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111765,
+      "num": 111765,
+      "word": "红豆生南国 小白是男模",
+      "onboard_time": 1758101723,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111056,
       "num": 111056,
       "word": "无意识的控糖行为",
@@ -1835,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105875,
+      "num": 105875,
+      "word": "小鬼 大大方方的",
+      "onboard_time": 1758101842,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105852,
       "num": 105852,
       "word": "闫妮晒照为关晓彤庆生",
@@ -1883,8 +1923,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102811,
-      "num": 102811,
+      "raw_hot": 102874,
+      "num": 102874,
       "word": "iOS26降级iOS18教程",
       "onboard_time": 1758098724,
       "rank": 48,
@@ -1915,12 +1955,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101602,
+      "num": 101602,
+      "word": "被飞行员食堂震惊到了",
+      "onboard_time": 1758101663,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101467,
       "num": 101467,
       "word": "上班之后最容易失去什么",
       "onboard_time": 1758080663,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101152,
+      "num": 110100,
+      "word": "南孚电池广告语 好喜欢和领导出差",
+      "onboard_time": 1758100222,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100702,
+      "num": 100702,
+      "word": "江苏省会之争真的来了",
+      "onboard_time": 1758099863,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 100452,
@@ -1945,14 +2009,6 @@
       "onboard_time": 1758072503,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100150,
-      "num": 110139,
-      "word": "丁禹兮默默帮剧组搬东西",
-      "onboard_time": 1758101063,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 99765,
@@ -2027,6 +2083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 93008,
+      "num": 116802,
+      "word": "被虐女孩离世前饿得只有40斤",
+      "onboard_time": 1758096862,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92696,
       "num": 92696,
       "word": "偷40万男子骑一辆童车逃跑",
@@ -2049,6 +2113,14 @@
       "onboard_time": 1758066025,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90042,
+      "num": 90042,
+      "word": "白敬亭急得只想捂嘴",
+      "onboard_time": 1758101963,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 89733,
@@ -2153,14 +2225,6 @@
       "onboard_time": 1758097943,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 78202,
-      "num": 116802,
-      "word": "被虐女孩离世前饿得只有40斤",
-      "onboard_time": 1758096862,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77707,
@@ -2275,20 +2339,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 66155,
-      "num": 110100,
-      "word": "南孚电池广告语 好喜欢和领导出差",
-      "onboard_time": 1758100222,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63670,
       "num": 194306,
       "word": "胡塞武装回应以色列袭击荷港",
       "onboard_time": 1758079584,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62952,
+      "num": 110103,
+      "word": "巩俐只戴了发网",
+      "onboard_time": 1758101184,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62412,
@@ -2435,6 +2499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47803,
+      "num": 790888,
+      "word": "为孩子安全上网请开启更强防护",
+      "onboard_time": 1758101482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46858,
       "num": 835120,
       "word": "数字技术让文化遗产火起来",
@@ -2547,20 +2619,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27409,
+      "num": 102620,
+      "word": "王一博换新涂装",
+      "onboard_time": 1758101602,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20661,
       "num": 113787,
       "word": "曝谢欣颖王柏杰在杨祐宁婚礼互泼饮料",
       "onboard_time": 1758080424,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18692,
-      "num": 110103,
-      "word": "巩俐只戴了发网",
-      "onboard_time": 1758101184,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 16944,

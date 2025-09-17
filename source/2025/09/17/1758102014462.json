@@ -1,0 +1,410 @@
+{
+  "runTime": 1758102014462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 944727,
+        "num": 1151156,
+        "word": "北大副校长任羽中主动投案",
+        "onboard_time": 1758098481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876385,
+        "num": 876385,
+        "word": "职工医保个账余额能转账啦",
+        "onboard_time": 1758098724,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47803,
+        "num": 790888,
+        "word": "为孩子安全上网请开启更强防护",
+        "onboard_time": 1758101482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714318,
+        "num": 714318,
+        "word": "降息",
+        "onboard_time": 1758093862,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 649702,
+        "num": 649702,
+        "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
+        "onboard_time": 1758097943,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543997,
+        "num": 543997,
+        "word": "日本皇室独苗曝爱吃垃圾食品",
+        "onboard_time": 1758093024,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 360354,
+        "num": 360354,
+        "word": "iPhone手机可以用多少年",
+        "onboard_time": 1758093204,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 353946,
+        "num": 353946,
+        "word": "赴山海 随时随地发现新剧本",
+        "onboard_time": 1758090985,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287203,
+        "num": 287203,
+        "word": "12306 我要回家",
+        "onboard_time": 1758089304,
+        "rank": 8,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 251669,
+        "num": 279492,
+        "word": "731",
+        "onboard_time": 1758097102,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 564901,
+        "num": 279454,
+        "word": "大二女生宿舍分娩到底谁的错",
+        "onboard_time": 1758084026,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427001,
+        "num": 279348,
+        "word": "白鹿 我的咖啡减肥了吗",
+        "onboard_time": 1758096261,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278911,
+        "num": 278911,
+        "word": "月薪3万的月嫂一天做我一辈子的家务",
+        "onboard_time": 1758093683,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273163,
+        "num": 273163,
+        "word": "上海多校午餐撤菜是否发臭得说清楚",
+        "onboard_time": 1758096923,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256699,
+        "num": 256699,
+        "word": "田曦薇我生下来就是齐刘海",
+        "onboard_time": 1758086723,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229762,
+        "num": 229762,
+        "word": "小米17Pro 黑色版iPhone17Pro",
+        "onboard_time": 1758091884,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206132,
+        "num": 206132,
+        "word": "红舞鞋首批阵容官宣",
+        "onboard_time": 1758096142,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186509,
+        "num": 186509,
+        "word": "曝中芯国际首款5nm光刻机正在测试",
+        "onboard_time": 1758100884,
+        "rank": 17,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 161798,
+        "num": 186460,
+        "word": "霉霉演唱会视野受限区只卖113人民币",
+        "onboard_time": 1758098002,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137412,
+        "num": 186193,
+        "word": "GAI算不算透露说唱圈内幕了",
+        "onboard_time": 1758092542,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416007,
+        "num": 186054,
+        "word": "清华学霸晒1.67亿元年薪引调查",
+        "onboard_time": 1758087324,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235284,
+        "num": 185974,
+        "word": "以色列开始碰瓷中国",
+        "onboard_time": 1758097283,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215245,
+        "num": 185756,
+        "word": "孕妇狂吃火锅烧烤血液竟变奶昔色",
+        "onboard_time": 1758101424,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185657,
+        "num": 185657,
+        "word": "人还是不能突然有钱",
+        "onboard_time": 1758095603,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182844,
+        "num": 182844,
+        "word": "GAI儿子说这是我的vlog",
+        "onboard_time": 1758101424,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166921,
+        "num": 166921,
+        "word": "女子回应坠井54小时身上爬满蛇",
+        "onboard_time": 1758095362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137062,
+        "num": 137062,
+        "word": "林依晨产后3个月就复工",
+        "onboard_time": 1758093503,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130488,
+        "num": 130488,
+        "word": "韩方授予4名中国海警荣誉称号",
+        "onboard_time": 1758093324,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127639,
+        "num": 127639,
+        "word": "全球顶流网红喝完凉茶只是一味硬撑",
+        "onboard_time": 1758098481,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125935,
+        "num": 125935,
+        "word": "丁禹兮默默帮剧组搬东西",
+        "onboard_time": 1758101063,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121469,
+        "num": 121469,
+        "word": "女子拍闪电意外拍到不明黑影",
+        "onboard_time": 1758099083,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115044,
+        "num": 115044,
+        "word": "北大80后副校长任羽中被查",
+        "onboard_time": 1758098782,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113886,
+        "num": 113886,
+        "word": "手部出现的3种癌症预警信号",
+        "onboard_time": 1758089304,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112376,
+        "num": 112376,
+        "word": "土豆面包",
+        "onboard_time": 1758099745,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111765,
+        "num": 111765,
+        "word": "红豆生南国 小白是男模",
+        "onboard_time": 1758101723,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105922,
+        "num": 105922,
+        "word": "桃黑黑盛世天下",
+        "onboard_time": 1758090202,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 105875,
+        "num": 105875,
+        "word": "小鬼 大大方方的",
+        "onboard_time": 1758101842,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102874,
+        "num": 102874,
+        "word": "iOS26降级iOS18教程",
+        "onboard_time": 1758098724,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27409,
+        "num": 102620,
+        "word": "王一博换新涂装",
+        "onboard_time": 1758101602,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62952,
+        "num": 102292,
+        "word": "巩俐只戴了发网",
+        "onboard_time": 1758101184,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117647,
+        "num": 102122,
+        "word": "女子坠废井54小时还被几条蛇缠身",
+        "onboard_time": 1758091042,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100224,
+        "num": 101906,
+        "word": "唐朝诡事录之长安过审了",
+        "onboard_time": 1758096682,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101602,
+        "num": 101602,
+        "word": "被飞行员食堂震惊到了",
+        "onboard_time": 1758101663,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99327,
+        "num": 101330,
+        "word": "A股",
+        "onboard_time": 1758095482,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101152,
+        "num": 101152,
+        "word": "南孚电池广告语 好喜欢和领导出差",
+        "onboard_time": 1758100222,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100702,
+        "num": 100702,
+        "word": "江苏省会之争真的来了",
+        "onboard_time": 1758099863,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93008,
+        "num": 93008,
+        "word": "被虐女孩离世前饿得只有40斤",
+        "onboard_time": 1758096862,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92941,
+        "num": 92941,
+        "word": "俞灏明王晓晨牵手逛街",
+        "onboard_time": 1758080964,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91011,
+        "num": 91011,
+        "word": "妇联回应大二女生在学校宿舍分娩",
+        "onboard_time": 1758098062,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90042,
+        "num": 90042,
+        "word": "白敬亭急得只想捂嘴",
+        "onboard_time": 1758101963,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励大家奋发进取再立新功#"
+    }
+  }
+}
