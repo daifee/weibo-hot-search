@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758080108745,
+  "endTime": 1758080733614,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1244563,
-      "num": 1244563,
+      "raw_hot": 1303808,
+      "num": 1303808,
       "word": "美国网球选手公开侮辱中国菜",
       "onboard_time": 1758077244,
       "rank": 10,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 927050,
+      "num": 927050,
+      "word": "聊斋",
+      "onboard_time": 1758076702,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 899119,
       "num": 1143859,
       "word": "甘肃一高校疑有女生校内分娩",
@@ -57,14 +65,6 @@
       "onboard_time": 1758075623,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 829607,
-      "num": 829607,
-      "word": "聊斋",
-      "onboard_time": 1758076702,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 792679,
@@ -107,6 +107,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 627014,
+      "num": 366304,
+      "word": "汤森德吐槽中国菜后道歉",
+      "onboard_time": 1758078085,
+      "rank": 30,
+      "category": "体育,海外新闻"
+    },
+    {
       "raw_hot": 587695,
       "num": 587695,
       "word": "日本人吃预制菜五十年了",
@@ -123,7 +131,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 499830,
+      "raw_hot": 537502,
       "num": 215614,
       "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
       "onboard_time": 1758076702,
@@ -139,20 +147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 493405,
-      "num": 366304,
-      "word": "汤森德吐槽中国菜后道歉",
-      "onboard_time": 1758078085,
-      "rank": 30,
-      "category": "体育,海外新闻"
-    },
-    {
       "raw_hot": 489837,
       "num": 489837,
       "word": "赴山海制作方的力道用错了地方",
       "onboard_time": 1758072684,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464459,
+      "num": 464459,
+      "word": "日本人出1200万求购非遗面具被拒",
+      "onboard_time": 1758077064,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437910,
@@ -187,12 +195,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 393974,
-      "num": 393974,
-      "word": "日本人出1200万求购非遗面具被拒",
-      "onboard_time": 1758077064,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 387898,
+      "num": 387898,
+      "word": "以色列遭高超音速弹道导弹袭击",
+      "onboard_time": 1758076763,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 384958,
@@ -203,20 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 381322,
-      "num": 381322,
-      "word": "以色列遭高超音速弹道导弹袭击",
-      "onboard_time": 1758076763,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 373632,
       "num": 219386,
       "word": "真的不要在床头上挂东西了",
       "onboard_time": 1758011662,
       "rank": 15,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 363606,
+      "num": 209678,
+      "word": "女子点11.8元外卖菜品上被写脏话",
+      "onboard_time": 1758077664,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331180,
@@ -267,14 +275,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 303324,
-      "num": 209678,
-      "word": "女子点11.8元外卖菜品上被写脏话",
-      "onboard_time": 1758077664,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300892,
       "num": 300892,
       "word": "男子在广东种出非洲猴面包树",
@@ -323,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 262914,
+      "num": 262914,
+      "word": "刚升级iOS26的天都塌了",
+      "onboard_time": 1758077424,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 255405,
       "num": 255405,
       "word": "警方通报一女子假扮骑手卖惨诈骗",
@@ -363,12 +371,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223174,
-      "num": 223174,
-      "word": "刚升级iOS26的天都塌了",
-      "onboard_time": 1758077424,
-      "rank": 32,
-      "category": "数码"
+      "raw_hot": 211211,
+      "num": 221197,
+      "word": "严浩翔从小就听贺峻霖话",
+      "onboard_time": 1758079703,
+      "rank": 19,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 209793,
@@ -403,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194318,
+      "num": 194318,
+      "word": "从150斤瘦到110斤的真实感受",
+      "onboard_time": 1758079103,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193374,
       "num": 203789,
       "word": "用美美桑内打开大学生的一天",
@@ -425,14 +441,6 @@
       "onboard_time": 1758078685,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190751,
-      "num": 221197,
-      "word": "严浩翔从小就听贺峻霖话",
-      "onboard_time": 1758079703,
-      "rank": 19,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 190675,
@@ -483,19 +491,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173706,
+      "num": 156508,
+      "word": "翻到2014年的外卖物价",
+      "onboard_time": 1758079944,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172924,
       "num": 172924,
       "word": "终于知道为什么飞国外要提前3小时",
       "onboard_time": 1758072202,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 170722,
-      "num": 170722,
-      "word": "从150斤瘦到110斤的真实感受",
-      "onboard_time": 1758079103,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -595,6 +603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134870,
+      "num": 134870,
+      "word": "心动8让人头皮发麻的七分钟",
+      "onboard_time": 1758080001,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133292,
       "num": 227537,
       "word": "成毅的真古人vs假古人",
@@ -643,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131090,
+      "num": 131090,
+      "word": "旅行对生活的意义",
+      "onboard_time": 1758080244,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130471,
       "num": 130471,
       "word": "难得夫妻是少年",
@@ -667,12 +691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127516,
-      "num": 127516,
-      "word": "心动8让人头皮发麻的七分钟",
-      "onboard_time": 1758080001,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 127064,
+      "num": 127064,
+      "word": "别让萧秋水的悲惨在现实上演",
+      "onboard_time": 1758080365,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 126878,
@@ -688,6 +712,14 @@
       "word": "17号台风米娜或要来了",
       "onboard_time": 1758031894,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124783,
+      "num": 334135,
+      "word": "学校辟谣女生在宿舍分娩失血过多去世",
+      "onboard_time": 1758080001,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -729,14 +761,6 @@
       "onboard_time": 1758077844,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117048,
-      "num": 150694,
-      "word": "学校辟谣女生在宿舍分娩失血过多去世",
-      "onboard_time": 1758080001,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115257,
@@ -803,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101467,
+      "num": 101467,
+      "word": "上班之后最容易失去什么",
+      "onboard_time": 1758080663,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100452,
       "num": 100452,
       "word": "中国战机满屏大写的帅",
       "onboard_time": 1758075623,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100411,
+      "num": 100411,
+      "word": "国庆中秋十大热门目的地",
+      "onboard_time": 1758080663,
+      "rank": 49,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 100167,
@@ -1211,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40510,
+      "num": 793058,
+      "word": "数字技术让文化遗产火起来",
+      "onboard_time": 1758079824,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35544,
       "num": 46374,
       "word": "迪丽热巴女王变女孩太有生命力了",
@@ -1227,12 +1275,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 17201,
-      "num": 793058,
-      "word": "数字技术让文化遗产火起来",
-      "onboard_time": 1758079824,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 20661,
+      "num": 113787,
+      "word": "曝谢欣颖王柏杰在杨祐宁婚礼互泼饮料",
+      "onboard_time": 1758080424,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 16944,

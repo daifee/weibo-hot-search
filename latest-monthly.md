@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 11:35:08
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 11:45:33
 </p>
 </blockquote>
 <p>
@@ -1479,6 +1479,12 @@ AG夏决冠军（热度：1374157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%90%83%E9%80%89%E6%89%8B%E5%85%AC%E5%BC%80%E4%BE%AE%E8%BE%B1%E4%B8%AD%E5%9B%BD%E8%8F%9C%23" target="weibo">
+美国网球选手公开侮辱中国菜（热度：1303808）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E6%80%BB%E6%8C%87%E6%8C%A5%23" target="weibo">
 阅兵总指挥（热度：1302368）
 </a>
@@ -1601,12 +1607,6 @@ NASA明确发现火星生命迹象（热度：1280374）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E4%BA%8C%E9%85%B8%E8%8F%9C%E9%B1%BC%E4%B8%8B%E5%8D%95%E5%88%B0%E4%B8%8A%E9%B1%BC%E4%BB%856%E5%88%86%E9%92%9F%23" target="weibo">
 太二酸菜鱼下单到上鱼仅6分钟（热度：1247884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%90%83%E9%80%89%E6%89%8B%E5%85%AC%E5%BC%80%E4%BE%AE%E8%BE%B1%E4%B8%AD%E5%9B%BD%E8%8F%9C%23" target="weibo">
-美国网球选手公开侮辱中国菜（热度：1244563）
 </a>
 </li>
 
@@ -2463,6 +2463,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E6%96%8B%23" target="weibo">
+聊斋（热度：927050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%AF%E5%AD%90%E6%96%AD%E5%B1%82%E8%B6%85%E8%BF%87%E8%94%A1%E5%BE%90%E5%9D%A4%23" target="weibo">
 良子断层超过蔡徐坤（热度：926833）
 </a>
@@ -2951,12 +2957,6 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%96%91%E4%BC%BC%E5%8F%96%E5%85%B3%E7%99%BD%E6%95%AC%E4%BA%AD%23" target="weibo">
 宋轶疑似取关白敬亭（热度：830839）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E6%96%8B%23" target="weibo">
-聊斋（热度：829607）
 </a>
 </li>
 
@@ -4281,6 +4281,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%A3%AE%E5%BE%B7%E5%90%90%E6%A7%BD%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%90%8E%E9%81%93%E6%AD%89%23" target="weibo">
+汤森德吐槽中国菜后道歉（热度：627014）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%B2%81%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E4%BD%A9%E6%88%B4%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8B%8B%E7%AB%A0%E8%A7%82%E7%A4%BC%23" target="weibo">
 90岁钟南山院士佩戴共和国勋章观礼（热度：626579）
 </a>
@@ -5187,6 +5193,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%91%98%E5%B7%A5%E6%8B%BF%E9%94%99%E5%90%B8%E7%AE%A1%E5%94%B1%E4%B8%BB%E9%A2%98%E6%9B%B2%E9%81%93%E6%AD%89%23" target="weibo">
+蜜雪冰城员工拿错吸管唱主题曲道歉（热度：537502）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%82%E5%8F%A3%E5%81%A5%E5%A4%AA%E9%83%8E%E6%96%B9%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 坂口健太郎方承认恋情（热度：537317）
 </a>
@@ -5655,12 +5667,6 @@ xg进决赛（热度：501284）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%91%98%E5%B7%A5%E6%8B%BF%E9%94%99%E5%90%B8%E7%AE%A1%E5%94%B1%E4%B8%BB%E9%A2%98%E6%9B%B2%E9%81%93%E6%AD%89%23" target="weibo">
-蜜雪冰城员工拿错吸管唱主题曲道歉（热度：499830）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83100%25%E5%8F%AF%E9%99%8D%E8%A7%A3%23" target="weibo">
 8万只气球100%可降解（热度：499747）
 </a>
@@ -5765,12 +5771,6 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E5%A4%9C%E9%B9%AD%23" target="weibo">
 新华社 夜鹭（热度：493412）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%A3%AE%E5%BE%B7%E5%90%90%E6%A7%BD%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%90%8E%E9%81%93%E6%AD%89%23" target="weibo">
-汤森德吐槽中国菜后道歉（热度：493405）
 </a>
 </li>
 
