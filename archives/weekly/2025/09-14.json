@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758109022226,
+  "endTime": 1758113481704,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -628,11 +628,19 @@
     },
     {
       "raw_hot": 1045800,
-      "num": 226799,
+      "num": 329797,
       "word": "95后黑老大13次强奸10名未成年人",
       "onboard_time": 1758104302,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1045702,
+      "num": 1167312,
+      "word": "外交部连发三个停止",
+      "onboard_time": 1758108684,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1037710,
@@ -849,6 +857,14 @@
       "onboard_time": 1758065603,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889815,
+      "num": 277665,
+      "word": "迪丽热巴不需要你的美颜参数",
+      "onboard_time": 1758107243,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 884300,
@@ -1171,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711880,
+      "num": 711880,
+      "word": "福建一中学强制女生剪斜面短发",
+      "onboard_time": 1758110063,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 709853,
       "num": 709853,
       "word": "肖战 美团团购",
@@ -1299,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639612,
+      "num": 639612,
+      "word": "绿茶餐厅拆掉现做招牌",
+      "onboard_time": 1758110483,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638326,
       "num": 638326,
       "word": "90后女子背疼容易饿确诊胃癌晚期",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1757910143,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 636951,
+      "num": 329340,
+      "word": "冯建宇 我没有女朋友",
+      "onboard_time": 1758112223,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 635635,
@@ -1675,6 +1715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 523547,
+      "num": 523547,
+      "word": "赴山海一集下线134人",
+      "onboard_time": 1758108684,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 522662,
       "num": 522662,
       "word": "深圳市民捡到2267.83克巨型金条",
@@ -1812,7 +1860,7 @@
     },
     {
       "raw_hot": 498256,
-      "num": 207675,
+      "num": 305857,
       "word": "女生校内分娩孩子的父亲在哪",
       "onboard_time": 1758103042,
       "rank": 22,
@@ -2251,6 +2299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 418842,
+      "num": 418842,
+      "word": "桃黑黑盛世天下直播",
+      "onboard_time": 1758111863,
+      "rank": 6,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 417629,
       "num": 195285,
       "word": "BBC称日本从未正视侵略历史",
@@ -2572,7 +2628,7 @@
     },
     {
       "raw_hot": 370254,
-      "num": 218238,
+      "num": 260207,
       "word": "粉丝给白鹿写了460斤信",
       "onboard_time": 1758104002,
       "rank": 38,
@@ -2867,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331338,
+      "num": 331338,
+      "word": "周也学芭蕾一年半",
+      "onboard_time": 1758108324,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329168,
       "num": 329168,
       "word": "租房新规今起实施",
@@ -3067,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299402,
+      "num": 330991,
+      "word": "宋祖儿首演反派角色",
+      "onboard_time": 1758109523,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297813,
       "num": 297813,
       "word": "上海冰雹",
@@ -3163,6 +3235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291448,
+      "num": 291448,
+      "word": "黄金",
+      "onboard_time": 1758102324,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288492,
       "num": 288492,
       "word": "Gala高烧",
@@ -3241,14 +3321,6 @@
       "onboard_time": 1757860046,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277665,
-      "num": 277665,
-      "word": "迪丽热巴不需要你的美颜参数",
-      "onboard_time": 1758107243,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 277642,
@@ -3707,14 +3779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241619,
-      "num": 241619,
-      "word": "黄金",
-      "onboard_time": 1758102324,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 241608,
       "num": 143073,
       "word": "穆祉丞 橙粉色举起来",
@@ -3777,6 +3841,14 @@
       "onboard_time": 1757859386,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236969,
+      "num": 236969,
+      "word": "水牛奶 水牛是商标",
+      "onboard_time": 1758111502,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236412,
@@ -4803,6 +4875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194432,
+      "num": 194432,
+      "word": "刘亦菲38岁素颜状态",
+      "onboard_time": 1758112402,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193859,
       "num": 193859,
       "word": "HLE晋级S15",
@@ -5619,6 +5699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173570,
+      "num": 173570,
+      "word": "月入1万已经能生活得非常好了",
+      "onboard_time": 1758108383,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173468,
       "num": 143258,
       "word": "这才是我月薪三千该去的地方",
@@ -5937,6 +6025,14 @@
       "onboard_time": 1757768965,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165924,
+      "num": 165924,
+      "word": "杨丞琳李荣浩结婚6周年发文",
+      "onboard_time": 1758112703,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 165695,
@@ -6449,6 +6545,14 @@
       "onboard_time": 1757913563,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 157734,
+      "num": 199255,
+      "word": "唐嫣获奖后首次出镜",
+      "onboard_time": 1758112102,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 157539,
@@ -7171,20 +7275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144694,
-      "num": 144694,
-      "word": "外交部连发三个停止",
-      "onboard_time": 1758108684,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 144586,
       "num": 144586,
       "word": "王楚钦发带上写着胜字",
       "onboard_time": 1757850622,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144536,
+      "num": 144536,
+      "word": "高校限塑令 喝蜜雪冰城需带水杯",
+      "onboard_time": 1758111325,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144504,
@@ -8075,14 +8179,6 @@
       "category": "情感,旅游"
     },
     {
-      "raw_hot": 130372,
-      "num": 130372,
-      "word": "周也学芭蕾一年半",
-      "onboard_time": 1758108324,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130211,
       "num": 138159,
       "word": "不眠日开播",
@@ -8137,14 +8233,6 @@
       "onboard_time": 1758028584,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129112,
-      "num": 129112,
-      "word": "月入1万已经能生活得非常好了",
-      "onboard_time": 1758108383,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 129004,
@@ -8771,6 +8859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120070,
+      "num": 181704,
+      "word": "赴山海男一男二大战",
+      "onboard_time": 1758112102,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119881,
       "num": 119881,
       "word": "外交部回应美国在日本部署堤丰",
@@ -8921,14 +9017,6 @@
       "onboard_time": 1757834423,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118286,
-      "num": 118286,
-      "word": "赴山海一集下线134人",
-      "onboard_time": 1758108684,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 117889,
@@ -9099,6 +9187,14 @@
       "category": "游戏,幽默"
     },
     {
+      "raw_hot": 115994,
+      "num": 115994,
+      "word": "卫健委回应上海学生午餐发臭被急撤",
+      "onboard_time": 1758110004,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115975,
       "num": 115975,
       "word": "两飞行器相撞系飞行间距不足",
@@ -9153,6 +9249,14 @@
       "onboard_time": 1757933243,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114427,
+      "num": 114427,
+      "word": "面试时一定要看看厕所",
+      "onboard_time": 1758110722,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 114400,
@@ -9731,6 +9835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105366,
+      "num": 327815,
+      "word": "教育局回应中学强制女生剪斜面短发",
+      "onboard_time": 1758112824,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105338,
       "num": 110937,
       "word": "孙颖莎回应进澳门赛决赛",
@@ -9825,6 +9937,22 @@
       "onboard_time": 1758019583,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103200,
+      "num": 103200,
+      "word": "抽象的马嘉祺身边是抽象的严浩翔",
+      "onboard_time": 1758112764,
+      "rank": 40,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 103188,
+      "num": 103188,
+      "word": "DK战胜BFX",
+      "onboard_time": 1758110843,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 103049,
@@ -10379,6 +10507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 96070,
+      "num": 96070,
+      "word": "陈哲远一开团杨幂秒跟",
+      "onboard_time": 1758111023,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95900,
       "num": 95900,
       "word": "梁小静无缘100米半决赛",
@@ -10531,6 +10667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92842,
+      "num": 92842,
+      "word": "为什么iPhone17没有黑色",
+      "onboard_time": 1758111023,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 92025,
       "num": 106628,
       "word": "王楚钦11比8张禹珍",
@@ -10625,6 +10769,14 @@
       "onboard_time": 1757864423,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90084,
+      "num": 90084,
+      "word": "校方回应强制女生剪斜面短发",
+      "onboard_time": 1758112944,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90072,
@@ -10747,6 +10899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86806,
+      "num": 86806,
+      "word": "白敬亭打戏",
+      "onboard_time": 1758113424,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86584,
       "num": 86584,
       "word": "单身不是最爽的",
@@ -10787,6 +10947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85944,
+      "num": 85944,
+      "word": "陶喆 线上点歌",
+      "onboard_time": 1758110782,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85512,
       "num": 159033,
       "word": "太二酸菜鱼7分钟上齐3道菜",
@@ -10801,6 +10969,14 @@
       "onboard_time": 1757773947,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 84882,
+      "num": 84882,
+      "word": "iPhone17哪款是性价比之王",
+      "onboard_time": 1758112343,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 84860,
@@ -11169,6 +11345,14 @@
       "onboard_time": 1757939782,
       "rank": 48,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 75944,
+      "num": 179931,
+      "word": "户外人的养生玄学",
+      "onboard_time": 1758110663,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75813,
@@ -13043,6 +13227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20295,
+      "num": 647246,
+      "word": "两点一存耀华夏",
+      "onboard_time": 1758099924,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19815,
       "num": 155373,
       "word": "游客遇药房天价洁面粉陷阱",
@@ -13176,14 +13368,6 @@
       "word": "中方将捍卫中国企业的正当权益",
       "onboard_time": 1757793374,
       "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 14747,
-      "num": 506931,
-      "word": "两点一存耀华夏",
-      "onboard_time": 1758099924,
-      "rank": 2,
       "category": "国内时政"
     },
     {

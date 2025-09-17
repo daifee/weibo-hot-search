@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758109022226,
+  "endTime": 1758113481704,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 1045800,
-      "num": 226799,
+      "num": 329797,
       "word": "95后黑老大13次强奸10名未成年人",
       "onboard_time": 1758104302,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1045702,
+      "num": 1167312,
+      "word": "外交部连发三个停止",
+      "onboard_time": 1758108684,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 963827,
@@ -153,6 +161,14 @@
       "onboard_time": 1758065603,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889815,
+      "num": 277665,
+      "word": "迪丽热巴不需要你的美颜参数",
+      "onboard_time": 1758107243,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 878237,
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711880,
+      "num": 711880,
+      "word": "福建一中学强制女生剪斜面短发",
+      "onboard_time": 1758110063,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 690481,
       "num": 223446,
       "word": "于朦胧后事已处理完",
@@ -257,6 +281,22 @@
       "onboard_time": 1758082284,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 639612,
+      "num": 639612,
+      "word": "绿茶餐厅拆掉现做招牌",
+      "onboard_time": 1758110483,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 636951,
+      "num": 329340,
+      "word": "冯建宇 我没有女朋友",
+      "onboard_time": 1758112223,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 603058,
@@ -315,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 523547,
+      "num": 523547,
+      "word": "赴山海一集下线134人",
+      "onboard_time": 1758108684,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513334,
       "num": 513334,
       "word": "神似刘亦菲女生回应走红",
@@ -364,7 +412,7 @@
     },
     {
       "raw_hot": 498256,
-      "num": 207675,
+      "num": 305857,
       "word": "女生校内分娩孩子的父亲在哪",
       "onboard_time": 1758103042,
       "rank": 22,
@@ -467,6 +515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 418842,
+      "num": 418842,
+      "word": "桃黑黑盛世天下直播",
+      "onboard_time": 1758111863,
+      "rank": 6,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 403610,
       "num": 222843,
       "word": "关晓彤旅行中的一些小小仪式",
@@ -516,7 +572,7 @@
     },
     {
       "raw_hot": 370254,
-      "num": 218238,
+      "num": 260207,
       "word": "粉丝给白鹿写了460斤信",
       "onboard_time": 1758104002,
       "rank": 38,
@@ -561,6 +617,14 @@
       "onboard_time": 1758096923,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331338,
+      "num": 331338,
+      "word": "周也学芭蕾一年半",
+      "onboard_time": 1758108324,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 331180,
@@ -619,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299402,
+      "num": 330991,
+      "word": "宋祖儿首演反派角色",
+      "onboard_time": 1758109523,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297813,
       "num": 297813,
       "word": "上海冰雹",
@@ -641,6 +713,14 @@
       "onboard_time": 1758093503,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291448,
+      "num": 291448,
+      "word": "黄金",
+      "onboard_time": 1758102324,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 291209,
@@ -673,14 +753,6 @@
       "onboard_time": 1758080001,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277665,
-      "num": 277665,
-      "word": "迪丽热巴不需要你的美颜参数",
-      "onboard_time": 1758107243,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 277547,
@@ -747,12 +819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241619,
-      "num": 241619,
-      "word": "黄金",
-      "onboard_time": 1758102324,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 236969,
+      "num": 236969,
+      "word": "水牛奶 水牛是商标",
+      "onboard_time": 1758111502,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234774,
@@ -921,6 +993,14 @@
       "onboard_time": 1758103823,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194432,
+      "num": 194432,
+      "word": "刘亦菲38岁素颜状态",
+      "onboard_time": 1758112402,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 193874,
@@ -1115,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173570,
+      "num": 173570,
+      "word": "月入1万已经能生活得非常好了",
+      "onboard_time": 1758108383,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173078,
       "num": 173078,
       "word": "喜人奇妙夜2定档双更",
@@ -1201,6 +1289,14 @@
       "onboard_time": 1758095362,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165924,
+      "num": 165924,
+      "word": "杨丞琳李荣浩结婚6周年发文",
+      "onboard_time": 1758112703,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 165683,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1758093324,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157734,
+      "num": 199255,
+      "word": "唐嫣获奖后首次出镜",
+      "onboard_time": 1758112102,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 157322,
@@ -1435,12 +1539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144694,
-      "num": 144694,
-      "word": "外交部连发三个停止",
-      "onboard_time": 1758108684,
-      "rank": 28,
-      "category": "国内时政"
+      "raw_hot": 144536,
+      "num": 144536,
+      "word": "高校限塑令 喝蜜雪冰城需带水杯",
+      "onboard_time": 1758111325,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144321,
@@ -1731,14 +1835,6 @@
       "category": "情感,旅游"
     },
     {
-      "raw_hot": 130372,
-      "num": 130372,
-      "word": "周也学芭蕾一年半",
-      "onboard_time": 1758108324,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130211,
       "num": 138159,
       "word": "不眠日开播",
@@ -1753,14 +1849,6 @@
       "onboard_time": 1758087385,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129112,
-      "num": 129112,
-      "word": "月入1万已经能生活得非常好了",
-      "onboard_time": 1758108383,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 128804,
@@ -1931,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120070,
+      "num": 181704,
+      "word": "赴山海男一男二大战",
+      "onboard_time": 1758112102,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119381,
       "num": 119381,
       "word": "关晓彤生日现身王牌录制",
@@ -2003,14 +2099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118286,
-      "num": 118286,
-      "word": "赴山海一集下线134人",
-      "onboard_time": 1758108684,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117805,
       "num": 117805,
       "word": "外网对美国网球选手吐槽中餐的反应",
@@ -2035,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115994,
+      "num": 115994,
+      "word": "卫健委回应上海学生午餐发臭被急撤",
+      "onboard_time": 1758110004,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115975,
       "num": 115975,
       "word": "赴山海好international的古装剧",
@@ -2049,6 +2145,14 @@
       "onboard_time": 1758034467,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114427,
+      "num": 114427,
+      "word": "面试时一定要看看厕所",
+      "onboard_time": 1758110722,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 113759,
@@ -2203,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105366,
+      "num": 327815,
+      "word": "教育局回应中学强制女生剪斜面短发",
+      "onboard_time": 1758112824,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104806,
       "num": 104806,
       "word": "LPL总决赛中场秀",
@@ -2225,6 +2337,22 @@
       "onboard_time": 1758091523,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103200,
+      "num": 103200,
+      "word": "抽象的马嘉祺身边是抽象的严浩翔",
+      "onboard_time": 1758112764,
+      "rank": 40,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 103188,
+      "num": 103188,
+      "word": "DK战胜BFX",
+      "onboard_time": 1758110843,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 102979,
@@ -2363,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96070,
+      "num": 96070,
+      "word": "陈哲远一开团杨幂秒跟",
+      "onboard_time": 1758111023,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95174,
       "num": 95174,
       "word": "AirPodsPro3加加班也没问题",
@@ -2411,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92842,
+      "num": 92842,
+      "word": "为什么iPhone17没有黑色",
+      "onboard_time": 1758111023,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 92696,
       "num": 92696,
       "word": "偷40万男子骑一辆童车逃跑",
@@ -2441,6 +2585,14 @@
       "onboard_time": 1758101482,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 90084,
+      "num": 90084,
+      "word": "校方回应强制女生剪斜面短发",
+      "onboard_time": 1758112944,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90042,
@@ -2475,6 +2627,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 86806,
+      "num": 86806,
+      "word": "白敬亭打戏",
+      "onboard_time": 1758113424,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86584,
       "num": 86584,
       "word": "单身不是最爽的",
@@ -2489,6 +2649,22 @@
       "onboard_time": 1758033329,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85944,
+      "num": 85944,
+      "word": "陶喆 线上点歌",
+      "onboard_time": 1758110782,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 84882,
+      "num": 84882,
+      "word": "iPhone17哪款是性价比之王",
+      "onboard_time": 1758112343,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 84443,
@@ -2577,6 +2753,14 @@
       "onboard_time": 1758030268,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75944,
+      "num": 179931,
+      "word": "户外人的养生玄学",
+      "onboard_time": 1758110663,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 73905,
@@ -3035,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20295,
+      "num": 647246,
+      "word": "两点一存耀华夏",
+      "onboard_time": 1758099924,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16944,
       "num": 55215,
       "word": "绿电天路超级工程来了",
@@ -3057,14 +3249,6 @@
       "onboard_time": 1758051615,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14747,
-      "num": 506931,
-      "word": "两点一存耀华夏",
-      "onboard_time": 1758099924,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14639,
