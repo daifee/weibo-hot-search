@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758108070790,
+  "endTime": 1758109022226,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -83,7 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1005111,
+      "raw_hot": 1045800,
       "num": 226799,
       "word": "95后黑老大13次强奸10名未成年人",
       "onboard_time": 1758104302,
@@ -121,6 +121,14 @@
       "onboard_time": 1758034408,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 926423,
+      "num": 1148227,
+      "word": "中国游客用嘴咬住落水女子头发救人",
+      "onboard_time": 1758104663,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 913297,
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 574784,
-      "num": 574784,
-      "word": "中国游客用嘴咬住落水女子头发救人",
-      "onboard_time": 1758104663,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 552995,
       "num": 1537442,
       "word": "日本拒绝美国",
@@ -361,6 +361,14 @@
       "onboard_time": 1758103342,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 498256,
+      "num": 207675,
+      "word": "女生校内分娩孩子的父亲在哪",
+      "onboard_time": 1758103042,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489837,
@@ -507,6 +515,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 370254,
+      "num": 218238,
+      "word": "粉丝给白鹿写了460斤信",
+      "onboard_time": 1758104002,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363606,
       "num": 270077,
       "word": "女子点11.8元外卖菜品上被写脏话",
@@ -521,14 +537,6 @@
       "onboard_time": 1758073224,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 345022,
-      "num": 218238,
-      "word": "粉丝给白鹿写了460斤信",
-      "onboard_time": 1758104002,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 343687,
@@ -560,14 +568,6 @@
       "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
       "onboard_time": 1758033630,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330751,
-      "num": 204123,
-      "word": "女生校内分娩孩子的父亲在哪",
-      "onboard_time": 1758103042,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -675,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277665,
+      "num": 277665,
+      "word": "迪丽热巴不需要你的美颜参数",
+      "onboard_time": 1758107243,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277547,
       "num": 290827,
       "word": "加沙人问为何把孩子变成残肢断臂",
@@ -705,6 +713,14 @@
       "onboard_time": 1758092723,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264133,
+      "num": 198381,
+      "word": "去世演员爸妈不在搭档发文悼念",
+      "onboard_time": 1758108203,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 257492,
@@ -779,6 +795,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217219,
+      "num": 217219,
+      "word": "北大80后副校长任羽中被查",
+      "onboard_time": 1758098782,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214141,
+      "num": 214141,
+      "word": "陈都灵还原镜妖造型",
+      "onboard_time": 1758107663,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211252,
       "num": 211252,
       "word": "恋与深空无人知晓时",
@@ -811,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207445,
+      "num": 194042,
+      "word": "戴春荣 老太婆有什么好拍的",
+      "onboard_time": 1758103644,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205527,
       "num": 268122,
       "word": "不眠日",
@@ -819,12 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201393,
-      "num": 201393,
-      "word": "北大80后副校长任羽中被查",
-      "onboard_time": 1758098782,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 203902,
+      "num": 203902,
+      "word": "戚薇曝小时候被生理期吓到",
+      "onboard_time": 1758108263,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 200027,
@@ -881,6 +921,14 @@
       "onboard_time": 1758103823,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193874,
+      "num": 193874,
+      "word": "上海学生餐",
+      "onboard_time": 1758106644,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193374,
@@ -1043,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175977,
+      "num": 175977,
+      "word": "这节课抬头率真高",
+      "onboard_time": 1758105925,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174859,
       "num": 174859,
       "word": "岳云鹏曾因6块钱被骂了3小时",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1758072202,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172098,
+      "num": 172098,
+      "word": "3集死4集活0点再重来",
+      "onboard_time": 1758108263,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 171808,
@@ -1299,14 +1363,6 @@
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 151415,
-      "num": 151415,
-      "word": "这节课抬头率真高",
-      "onboard_time": 1758105925,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151202,
       "num": 151202,
       "word": "王鹤棣缺席美食大赛评委或因避嫌",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1758079222,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149603,
-      "num": 149603,
-      "word": "戴春荣 老太婆有什么好拍的",
-      "onboard_time": 1758103644,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 149283,
@@ -1379,20 +1427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146271,
-      "num": 160038,
-      "word": "陈都灵还原镜妖造型",
-      "onboard_time": 1758107663,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145173,
       "num": 167230,
       "word": "陈小纭红嫁衣造型太对味了",
       "onboard_time": 1758092542,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144694,
+      "num": 144694,
+      "word": "外交部连发三个停止",
+      "onboard_time": 1758108684,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144321,
@@ -1611,14 +1659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 132516,
-      "num": 132516,
-      "word": "上海学生餐",
-      "onboard_time": 1758106644,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132478,
       "num": 220600,
       "word": "安踏通报一总裁级人员涉嫌违法",
@@ -1691,6 +1731,14 @@
       "category": "情感,旅游"
     },
     {
+      "raw_hot": 130372,
+      "num": 130372,
+      "word": "周也学芭蕾一年半",
+      "onboard_time": 1758108324,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130211,
       "num": 138159,
       "word": "不眠日开播",
@@ -1705,6 +1753,14 @@
       "onboard_time": 1758087385,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129112,
+      "num": 129112,
+      "word": "月入1万已经能生活得非常好了",
+      "onboard_time": 1758108383,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 128804,
@@ -1843,6 +1899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121966,
+      "num": 122435,
+      "word": "美国女子分享住在中国的缺点",
+      "onboard_time": 1758104844,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121586,
       "num": 121586,
       "word": "新型抗失眠药首日售出8000多盒",
@@ -1857,14 +1921,6 @@
       "onboard_time": 1758078504,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120496,
-      "num": 122435,
-      "word": "美国女子分享住在中国的缺点",
-      "onboard_time": 1758104844,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120344,
@@ -1945,6 +2001,14 @@
       "onboard_time": 1758077844,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118286,
+      "num": 118286,
+      "word": "赴山海一集下线134人",
+      "onboard_time": 1758108684,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 117805,
@@ -2187,14 +2251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102639,
-      "num": 126369,
-      "word": "迪丽热巴不需要你的美颜参数",
-      "onboard_time": 1758107243,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102297,
       "num": 102297,
       "word": "女生宿舍变混住安全感碎了一地",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1758100703,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98114,
+      "num": 98114,
+      "word": "情绪稳定是可以吃出来的",
+      "onboard_time": 1758108803,
+      "rank": 47,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 96960,
@@ -2692,7 +2756,7 @@
     },
     {
       "raw_hot": 57952,
-      "num": 162765,
+      "num": 201217,
       "word": "荣威总经理让朱广权歇会吧",
       "onboard_time": 1758107243,
       "rank": 19,
@@ -2851,12 +2915,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39012,
-      "num": 212017,
+      "raw_hot": 39571,
+      "num": 214024,
       "word": "九一八事变爆发94周年",
       "onboard_time": 1758107303,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35848,
+      "num": 116893,
+      "word": "湘菜也是预制菜克星",
+      "onboard_time": 1758108623,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35544,
@@ -2987,6 +3059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14747,
+      "num": 506931,
+      "word": "两点一存耀华夏",
+      "onboard_time": 1758099924,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14639,
       "num": 137765,
       "word": "蒋龙张弛上个时代喜剧演员",
@@ -3008,14 +3088,6 @@
       "word": "又有咱家的飞机可以看了",
       "onboard_time": 1758054674,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 9829,
-      "num": 506931,
-      "word": "两点一存耀华夏",
-      "onboard_time": 1758099924,
-      "rank": 2,
       "category": "国内时政"
     },
     {
