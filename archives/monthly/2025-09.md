@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 10:05:21
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 11:00:34
 </p>
 </blockquote>
 <p>
@@ -2799,6 +2799,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%90%83%E9%80%89%E6%89%8B%E5%85%AC%E5%BC%80%E4%BE%AE%E8%BE%B1%E4%B8%AD%E5%9B%BD%E8%8F%9C%23" target="weibo">
+美国网球选手公开侮辱中国菜（热度：851699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E61%E6%8A%8A%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86%23" target="weibo">
 东风61把大家给整不会了（热度：851367）
 </a>
@@ -3479,6 +3485,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AD%90%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E5%90%8E%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23" target="weibo">
 女孩子黄体破裂后到底有多严重（热度：738125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%B7%B2%E6%89%93%E6%A0%B7%23" target="weibo">
+iPhone18Pro已打样（热度：736446）
 </a>
 </li>
 
@@ -5043,6 +5055,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%83%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BA%94%E5%8D%81%E5%B9%B4%E4%BA%86%23" target="weibo">
+日本人吃预制菜五十年了（热度：545802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E8%BF%9C%E7%8E%8B%E4%B9%90%E6%99%A8%E7%88%86%E7%81%AF%23" target="weibo">
 卢远王乐晨爆灯（热度：545532）
 </a>
@@ -5447,6 +5465,12 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E7%89%88%E4%B8%89%E5%8D%81%E8%80%8C%E5%B7%B2%E6%9E%97%E6%9C%89%E6%9C%89%23" target="weibo">
 泰版三十而已林有有（热度：511801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E6%96%8B%23" target="weibo">
+聊斋（热度：511256）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ iPhone16需求不降反升（热度：477574）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%88%E5%9C%A8%E7%88%B1%E5%A5%87%E8%89%BA%E5%89%A7%E5%AE%A3%E4%B8%8A%E9%97%AF%E7%A5%B8%E4%BA%86%23" target="weibo">
 成毅又在爱奇艺剧宣上闯祸了（热度：474920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A2%E6%83%B3%E8%B1%A1%E8%BF%9970%E5%88%86%E9%92%9F%E6%9C%89%E5%A4%9A%E7%87%83%23" target="weibo">
-不敢想象这70分钟有多燃（热度：474649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E8%A7%86%E5%90%8E%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
-女演员视后含金量（热度：474449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E5%B9%B4%E5%BA%A6%E7%89%87%E5%8D%95%23" target="weibo">
-优酷年度片单（热度：472866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%A2%AB%E5%B9%BF%E6%92%AD%E5%82%AC%E4%BF%83%E7%99%BB%E6%9C%BA%23" target="weibo">
-易烊千玺被广播催促登机（热度：472153）
 </a>
 </li>
 

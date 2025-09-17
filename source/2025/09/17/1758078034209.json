@@ -1,0 +1,410 @@
+{
+  "runTime": 1758078034209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 738399,
+        "num": 1118143,
+        "word": "甘肃一高校疑有女生校内分娩",
+        "onboard_time": 1758065603,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 736446,
+        "num": 736446,
+        "word": "iPhone18Pro已打样",
+        "onboard_time": 1758075623,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 6487,
+        "num": 554865,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545802,
+        "num": 545802,
+        "word": "日本人吃预制菜五十年了",
+        "onboard_time": 1758075022,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 511256,
+        "num": 511256,
+        "word": "聊斋",
+        "onboard_time": 1758076702,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449045,
+        "num": 449045,
+        "word": "鲍蕾为了陆毅放弃事业",
+        "onboard_time": 1758075022,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371704,
+        "num": 371704,
+        "word": "赴山海制作方的力道用错了地方",
+        "onboard_time": 1758072684,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365783,
+        "num": 365783,
+        "word": "阳光型抑郁",
+        "onboard_time": 1758068544,
+        "rank": 7,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 303523,
+        "num": 303523,
+        "word": "2025国庆档电影",
+        "onboard_time": 1758073224,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119625,
+        "num": 300872,
+        "word": "中国空降兵成立75周年",
+        "onboard_time": 1758067705,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 851699,
+        "num": 296951,
+        "word": "美国网球选手公开侮辱中国菜",
+        "onboard_time": 1758077244,
+        "rank": 10,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 591734,
+        "num": 293851,
+        "word": "涉毒艺人复出谁给开的绿灯",
+        "onboard_time": 1758068064,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523875,
+        "num": 289339,
+        "word": "关晓彤28岁生日照",
+        "onboard_time": 1758065603,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335609,
+        "num": 287572,
+        "word": "00后女生追星频繁染发患肾病",
+        "onboard_time": 1758037586,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285617,
+        "num": 285617,
+        "word": "731",
+        "onboard_time": 1758073282,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282041,
+        "num": 282041,
+        "word": "男子在广东种出非洲猴面包树",
+        "onboard_time": 1758070825,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266538,
+        "num": 266538,
+        "word": "加沙人问为何把孩子变成残肢断臂",
+        "onboard_time": 1758071665,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232341,
+        "num": 232341,
+        "word": "以色列遭高超音速弹道导弹袭击",
+        "onboard_time": 1758076763,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190675,
+        "num": 226982,
+        "word": "音乐缘计划",
+        "onboard_time": 1758076461,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162771,
+        "num": 226812,
+        "word": "日本人出1200万求购非遗面具被拒",
+        "onboard_time": 1758077064,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226667,
+        "num": 226667,
+        "word": "广州大熊猫最便宜5块一只",
+        "onboard_time": 1758069925,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206140,
+        "num": 206140,
+        "word": "祝绪丹 一问三不知",
+        "onboard_time": 1758077123,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199068,
+        "num": 199068,
+        "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
+        "onboard_time": 1758076702,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195681,
+        "num": 195681,
+        "word": "警方通报一女子假扮骑手卖惨诈骗",
+        "onboard_time": 1758063740,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189578,
+        "num": 189578,
+        "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
+        "onboard_time": 1758033630,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187945,
+        "num": 187945,
+        "word": "男子查个税意外发现两份工资流水",
+        "onboard_time": 1758046755,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185001,
+        "num": 185001,
+        "word": "空降兵15勇士惊天一跳再看依然震撼",
+        "onboard_time": 1758074902,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 183698,
+        "num": 183698,
+        "word": "女厅官对省委原书记妻子唯命是从",
+        "onboard_time": 1758077364,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170586,
+        "num": 170586,
+        "word": "终于知道为什么飞国外要提前3小时",
+        "onboard_time": 1758072202,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160303,
+        "num": 166315,
+        "word": "苏新皓愿与愁全站第一",
+        "onboard_time": 1758076702,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164439,
+        "num": 164439,
+        "word": "山农大破解一科学界百年未解之谜",
+        "onboard_time": 1758066563,
+        "rank": 30,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 161665,
+        "num": 161665,
+        "word": "网友抱怨侄子高中宿舍过于陈旧",
+        "onboard_time": 1758076524,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158316,
+        "num": 158316,
+        "word": "刚升级iOS26的天都塌了",
+        "onboard_time": 1758077424,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152017,
+        "num": 152017,
+        "word": "预制了国庆八天的朋友圈",
+        "onboard_time": 1758069504,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114668,
+        "num": 135369,
+        "word": "魏大勋眼技",
+        "onboard_time": 1758077364,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112597,
+        "num": 133935,
+        "word": "白鹿为宋雨琦打call",
+        "onboard_time": 1758073883,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133153,
+        "num": 133153,
+        "word": "谁买的座位谁有使用权",
+        "onboard_time": 1758075623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113240,
+        "num": 113240,
+        "word": "樊振东条形码刘海",
+        "onboard_time": 1758076944,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112436,
+        "num": 112436,
+        "word": "女子点11.8元外卖菜品上被写脏话",
+        "onboard_time": 1758077664,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48510,
+        "num": 107272,
+        "word": "德国总理戴犹太小帽哽咽回忆纳粹罪行",
+        "onboard_time": 1758077844,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105734,
+        "num": 105734,
+        "word": "原来真的有神兵天降",
+        "onboard_time": 1758068846,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103380,
+        "num": 103380,
+        "word": "汪苏泷36岁生日照",
+        "onboard_time": 1758073103,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100452,
+        "num": 100452,
+        "word": "中国战机满屏大写的帅",
+        "onboard_time": 1758075623,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93852,
+        "num": 93852,
+        "word": "秦始皇派人去昆仑采药是真的",
+        "onboard_time": 1758066263,
+        "rank": 43,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 91974,
+        "num": 91974,
+        "word": "90后女子背疼容易饿确诊胃癌晚期",
+        "onboard_time": 1758033329,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90328,
+        "num": 90328,
+        "word": "陈星旭和妈妈共用一张脸",
+        "onboard_time": 1758034467,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87474,
+        "num": 87474,
+        "word": "吉克隽逸央视新闻镜头状态",
+        "onboard_time": 1758077784,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86584,
+        "num": 86584,
+        "word": "单身不是最爽的",
+        "onboard_time": 1758073702,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85399,
+        "num": 85399,
+        "word": "日本拒绝美国",
+        "onboard_time": 1758033689,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84403,
+        "num": 84403,
+        "word": "迪卡侬广告 处女地",
+        "onboard_time": 1758031050,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大复兴势不可挡#"
+    }
+  }
+}

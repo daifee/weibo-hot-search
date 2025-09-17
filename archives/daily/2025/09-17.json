@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758074721698,
+  "endTime": 1758078034209,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1081734,
-      "num": 289765,
+      "num": 293851,
       "word": "涉毒艺人复出谁给开的绿灯",
       "onboard_time": 1758068064,
       "rank": 10,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 851699,
+      "num": 296951,
+      "word": "美国网球选手公开侮辱中国菜",
+      "onboard_time": 1758077244,
+      "rank": 10,
+      "category": "体育,海外新闻"
+    },
+    {
       "raw_hot": 792679,
       "num": 792679,
       "word": "男子查个税意外发现两份工资流水",
@@ -52,15 +60,23 @@
     },
     {
       "raw_hot": 776123,
-      "num": 286264,
+      "num": 289339,
       "word": "关晓彤28岁生日照",
       "onboard_time": 1758065603,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 736446,
+      "num": 736446,
+      "word": "iPhone18Pro已打样",
+      "onboard_time": 1758075623,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 725261,
-      "num": 285007,
+      "num": 287572,
       "word": "00后女生追星频繁染发患肾病",
       "onboard_time": 1758037586,
       "rank": 11,
@@ -91,12 +107,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 545802,
+      "num": 545802,
+      "word": "日本人吃预制菜五十年了",
+      "onboard_time": 1758075022,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 511256,
+      "num": 511256,
+      "word": "聊斋",
+      "onboard_time": 1758076702,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489837,
       "num": 489837,
       "word": "赴山海制作方的力道用错了地方",
       "onboard_time": 1758072684,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 449045,
+      "num": 449045,
+      "word": "鲍蕾为了陆毅放弃事业",
+      "onboard_time": 1758075022,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 437910,
@@ -163,6 +203,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 303523,
+      "num": 303523,
+      "word": "2025国庆档电影",
+      "onboard_time": 1758073224,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300892,
       "num": 300892,
       "word": "男子在广东种出非洲猴面包树",
@@ -185,6 +233,14 @@
       "onboard_time": 1758032611,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285617,
+      "num": 285617,
+      "word": "731",
+      "onboard_time": 1758073282,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 280675,
@@ -235,6 +291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232341,
+      "num": 232341,
+      "word": "以色列遭高超音速弹道导弹袭击",
+      "onboard_time": 1758076763,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226781,
       "num": 226781,
       "word": "预制了国庆八天的朋友圈",
@@ -243,20 +307,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221187,
-      "num": 277783,
-      "word": "2025国庆档电影",
-      "onboard_time": 1758073224,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 209793,
       "num": 209793,
       "word": "汪苏泷36岁生日照",
       "onboard_time": 1758073103,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206140,
+      "num": 206140,
+      "word": "祝绪丹 一问三不知",
+      "onboard_time": 1758077123,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199068,
+      "num": 199068,
+      "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
+      "onboard_time": 1758076702,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195882,
@@ -283,12 +355,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190675,
+      "num": 226982,
+      "word": "音乐缘计划",
+      "onboard_time": 1758076461,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186866,
       "num": 186866,
       "word": "原来真的有神兵天降",
       "onboard_time": 1758068846,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185001,
+      "num": 185001,
+      "word": "空降兵15勇士惊天一跳再看依然震撼",
+      "onboard_time": 1758074902,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 183698,
+      "num": 183698,
+      "word": "女厅官对省委原书记妻子唯命是从",
+      "onboard_time": 1758077364,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179882,
@@ -315,12 +411,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162771,
+      "num": 226812,
+      "word": "日本人出1200万求购非遗面具被拒",
+      "onboard_time": 1758077064,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161665,
+      "num": 161665,
+      "word": "网友抱怨侄子高中宿舍过于陈旧",
+      "onboard_time": 1758076524,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160303,
+      "num": 166315,
+      "word": "苏新皓愿与愁全站第一",
+      "onboard_time": 1758076702,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159775,
       "num": 216766,
       "word": "迪丽热巴蓝白镂空高定裙",
       "onboard_time": 1758021803,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158316,
+      "num": 158316,
+      "word": "刚升级iOS26的天都塌了",
+      "onboard_time": 1758077424,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 155992,
@@ -379,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133153,
+      "num": 133153,
+      "word": "谁买的座位谁有使用权",
+      "onboard_time": 1758075623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132478,
       "num": 220600,
       "word": "安踏通报一总裁级人员涉嫌违法",
@@ -435,12 +571,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119625,
+      "num": 300872,
+      "word": "中国空降兵成立75周年",
+      "onboard_time": 1758067705,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115257,
       "num": 213566,
       "word": "陈星旭和妈妈共用一张脸",
       "onboard_time": 1758034467,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114668,
+      "num": 135369,
+      "word": "魏大勋眼技",
+      "onboard_time": 1758077364,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113240,
+      "num": 113240,
+      "word": "樊振东条形码刘海",
+      "onboard_time": 1758076944,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112597,
+      "num": 133935,
+      "word": "白鹿为宋雨琦打call",
+      "onboard_time": 1758073883,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 112436,
+      "num": 112436,
+      "word": "女子点11.8元外卖菜品上被写脏话",
+      "onboard_time": 1758077664,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111056,
@@ -473,6 +649,14 @@
       "onboard_time": 1758066683,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100452,
+      "num": 100452,
+      "word": "中国战机满屏大写的帅",
+      "onboard_time": 1758075623,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100167,
@@ -555,14 +739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90920,
-      "num": 111266,
-      "word": "白鹿为宋雨琦打call",
-      "onboard_time": 1758073883,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 89733,
       "num": 212579,
       "word": "代露娃 那她还是去上班吧",
@@ -579,12 +755,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87474,
+      "num": 87474,
+      "word": "吉克隽逸央视新闻镜头状态",
+      "onboard_time": 1758077784,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87004,
       "num": 87004,
       "word": "周杰伦概念股入股鸟巢",
       "onboard_time": 1758063139,
       "rank": 29,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 86584,
+      "num": 86584,
+      "word": "单身不是最爽的",
+      "onboard_time": 1758073702,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 86524,
@@ -601,14 +793,6 @@
       "onboard_time": 1758073522,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84145,
-      "num": 131589,
-      "word": "731",
-      "onboard_time": 1758073282,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 82352,
@@ -641,14 +825,6 @@
       "onboard_time": 1758037404,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80199,
-      "num": 80199,
-      "word": "单身不是最爽的",
-      "onboard_time": 1758073702,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 77707,
@@ -833,6 +1009,14 @@
       "onboard_time": 1758037885,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48510,
+      "num": 107272,
+      "word": "德国总理戴犹太小帽哽咽回忆纳粹罪行",
+      "onboard_time": 1758077844,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46469,
