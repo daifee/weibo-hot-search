@@ -1,0 +1,410 @@
+{
+  "runTime": 1758108070790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 746898,
+        "num": 1119503,
+        "word": "人体含水量是731把人烤干得来的数据",
+        "onboard_time": 1758102682,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 574784,
+        "num": 574784,
+        "word": "中国游客用嘴咬住落水女子头发救人",
+        "onboard_time": 1758104663,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9829,
+        "num": 506931,
+        "word": "两点一存耀华夏",
+        "onboard_time": 1758099924,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504197,
+        "num": 504197,
+        "word": "北大副校长任羽中主动投案",
+        "onboard_time": 1758098481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477561,
+        "num": 477561,
+        "word": "微信存储一下就少了10G",
+        "onboard_time": 1758103342,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 418128,
+        "num": 418128,
+        "word": "降息",
+        "onboard_time": 1758093862,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 369881,
+        "num": 369881,
+        "word": "职工医保个账余额能转账啦",
+        "onboard_time": 1758098724,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270183,
+        "num": 270183,
+        "word": "iPhone手机可以用多少年",
+        "onboard_time": 1758093204,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 241619,
+        "num": 241619,
+        "word": "黄金",
+        "onboard_time": 1758102324,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199110,
+        "num": 238908,
+        "word": "赴山海 随时随地发现新剧本",
+        "onboard_time": 1758090985,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1143765,
+        "num": 231412,
+        "word": "颜安家被淹了",
+        "onboard_time": 1758104182,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1005111,
+        "num": 226799,
+        "word": "95后黑老大13次强奸10名未成年人",
+        "onboard_time": 1758104302,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352650,
+        "num": 223871,
+        "word": "大二女生宿舍分娩到底谁的错",
+        "onboard_time": 1758084026,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345022,
+        "num": 218238,
+        "word": "粉丝给白鹿写了460斤信",
+        "onboard_time": 1758104002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39012,
+        "num": 212017,
+        "word": "九一八事变爆发94周年",
+        "onboard_time": 1758107303,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330751,
+        "num": 202866,
+        "word": "女生校内分娩孩子的父亲在哪",
+        "onboard_time": 1758103042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201393,
+        "num": 201393,
+        "word": "北大80后副校长任羽中被查",
+        "onboard_time": 1758098782,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168346,
+        "num": 168346,
+        "word": "赴山海",
+        "onboard_time": 1758105502,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167662,
+        "num": 167662,
+        "word": "田曦薇我生下来就是齐刘海",
+        "onboard_time": 1758086723,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57952,
+        "num": 162765,
+        "word": "荣威总经理让朱广权歇会吧",
+        "onboard_time": 1758107243,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 285760,
+        "num": 162564,
+        "word": "清华学霸晒1.67亿元年薪引调查",
+        "onboard_time": 1758087324,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188023,
+        "num": 162521,
+        "word": "孕妇狂吃火锅烧烤血液竟变奶昔色",
+        "onboard_time": 1758101424,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161581,
+        "num": 161581,
+        "word": "Lululemon中产神裤卖不动了",
+        "onboard_time": 1758106943,
+        "rank": 22,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 161548,
+        "num": 161548,
+        "word": "白鹿 我的咖啡减肥了吗",
+        "onboard_time": 1758096261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433199,
+        "num": 161439,
+        "word": "喝咖啡的最佳时间",
+        "onboard_time": 1758104302,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146271,
+        "num": 160038,
+        "word": "陈都灵还原镜妖造型",
+        "onboard_time": 1758107663,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138599,
+        "num": 158556,
+        "word": "731",
+        "onboard_time": 1758097102,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127372,
+        "num": 156120,
+        "word": "731首映",
+        "onboard_time": 1758102143,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126269,
+        "num": 155454,
+        "word": "周深本人很后悔",
+        "onboard_time": 1758103823,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28597,
+        "num": 152929,
+        "word": "枪杀柯克嫌疑人称受够他散布仇恨",
+        "onboard_time": 1758106284,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83478,
+        "num": 151749,
+        "word": "为孩子安全上网请开启更强防护",
+        "onboard_time": 1758101482,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151415,
+        "num": 151415,
+        "word": "这节课抬头率真高",
+        "onboard_time": 1758105925,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149522,
+        "num": 149522,
+        "word": "戴春荣 老太婆有什么好拍的",
+        "onboard_time": 1758103644,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141970,
+        "num": 141970,
+        "word": "北京晚霞",
+        "onboard_time": 1758107062,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139728,
+        "num": 139728,
+        "word": "深圳一地铁站口3孩童躺坐无人陪",
+        "onboard_time": 1758106343,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171923,
+        "num": 139347,
+        "word": "上海多校午餐撤菜是否发臭得说清楚",
+        "onboard_time": 1758096923,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132516,
+        "num": 132516,
+        "word": "上海学生餐",
+        "onboard_time": 1758106644,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111330,
+        "num": 127026,
+        "word": "林依晨产后3个月就复工",
+        "onboard_time": 1758093503,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102639,
+        "num": 126369,
+        "word": "迪丽热巴不需要你的美颜参数",
+        "onboard_time": 1758107243,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30253,
+        "num": 125986,
+        "word": "叶蒨文为朱玲玲庆生",
+        "onboard_time": 1758107183,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125857,
+        "num": 125857,
+        "word": "罗志祥说现在时间管理非常好",
+        "onboard_time": 1758103342,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125436,
+        "num": 125436,
+        "word": "桃黑黑盛世天下",
+        "onboard_time": 1758090202,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 122506,
+        "num": 122506,
+        "word": "海底捞多款儿童套餐标注部分预加工",
+        "onboard_time": 1758106644,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120496,
+        "num": 120496,
+        "word": "美国女子分享住在中国的缺点",
+        "onboard_time": 1758104844,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23940,
+        "num": 120479,
+        "word": "4人入室抢婴贩卖案9月19日宣判",
+        "onboard_time": 1758106943,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120477,
+        "num": 120477,
+        "word": "以色列开始碰瓷中国",
+        "onboard_time": 1758097283,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120103,
+        "num": 120103,
+        "word": "12306 我要回家",
+        "onboard_time": 1758089304,
+        "rank": 46,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 117474,
+        "num": 117474,
+        "word": "脆升升 孙颖莎",
+        "onboard_time": 1758105324,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117098,
+        "num": 117098,
+        "word": "日本皇室独苗曝爱吃垃圾食品",
+        "onboard_time": 1758093024,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 113836,
+        "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
+        "onboard_time": 1758097943,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励大家奋发进取再立新功#"
+    }
+  }
+}
