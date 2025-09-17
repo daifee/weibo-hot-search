@@ -1,0 +1,410 @@
+{
+  "runTime": 1758097957568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 978737,
+        "num": 1156598,
+        "word": "日本皇室独苗曝爱吃垃圾食品",
+        "onboard_time": 1758093024,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 848380,
+        "num": 848380,
+        "word": "赴山海 随时随地发现新剧本",
+        "onboard_time": 1758090985,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40221,
+        "num": 636569,
+        "word": "网警打掉侵犯公民信息违法犯罪团伙",
+        "onboard_time": 1758089664,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632671,
+        "num": 632671,
+        "word": "降息",
+        "onboard_time": 1758093862,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 482753,
+        "num": 482753,
+        "word": "红舞鞋首批阵容官宣",
+        "onboard_time": 1758096142,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470164,
+        "num": 470164,
+        "word": "12306 我要回家",
+        "onboard_time": 1758089304,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 415021,
+        "num": 415021,
+        "word": "iPhone手机可以用多少年",
+        "onboard_time": 1758093204,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 397077,
+        "num": 397077,
+        "word": "GAI算不算透露说唱圈内幕了",
+        "onboard_time": 1758092542,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382679,
+        "num": 382679,
+        "word": "小米17Pro 黑色版iPhone17Pro",
+        "onboard_time": 1758091884,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128259,
+        "num": 379061,
+        "word": "国庆花卉布置25日亮相",
+        "onboard_time": 1758095303,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1189977,
+        "num": 353287,
+        "word": "大二女生宿舍分娩到底谁的错",
+        "onboard_time": 1758084026,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596800,
+        "num": 348787,
+        "word": "月薪3万的月嫂一天做我一辈子的家务",
+        "onboard_time": 1758093683,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390286,
+        "num": 329454,
+        "word": "田曦薇我生下来就是齐刘海",
+        "onboard_time": 1758086723,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323797,
+        "num": 323797,
+        "word": "白鹿 我的咖啡减肥了吗",
+        "onboard_time": 1758096261,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311346,
+        "num": 311346,
+        "word": "女子坠废井54小时还被几条蛇缠身",
+        "onboard_time": 1758091042,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299576,
+        "num": 299576,
+        "word": "香蕉是一种攻击性很强的水果",
+        "onboard_time": 1758083005,
+        "rank": 15,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 234593,
+        "num": 234593,
+        "word": "俞灏明王晓晨牵手逛街",
+        "onboard_time": 1758080964,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208941,
+        "num": 208941,
+        "word": "喜人奇妙夜2冠军回归",
+        "onboard_time": 1758092723,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199232,
+        "num": 199232,
+        "word": "A股",
+        "onboard_time": 1758095482,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195288,
+        "num": 195288,
+        "word": "桃黑黑盛世天下",
+        "onboard_time": 1758090202,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 771684,
+        "num": 195210,
+        "word": "清华学霸晒1.67亿元年薪引调查",
+        "onboard_time": 1758087324,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255757,
+        "num": 194814,
+        "word": "林依晨产后3个月就复工",
+        "onboard_time": 1758093503,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235754,
+        "num": 194672,
+        "word": "韩方授予4名中国海警荣誉称号",
+        "onboard_time": 1758093324,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193912,
+        "num": 193912,
+        "word": "陈若仪回应kimi不露脸原因",
+        "onboard_time": 1758085584,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177800,
+        "num": 177800,
+        "word": "不眠日 蛋糕爆炸婚礼一秒变葬礼",
+        "onboard_time": 1758096985,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161850,
+        "num": 161850,
+        "word": "手部出现的3种癌症预警信号",
+        "onboard_time": 1758089304,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157691,
+        "num": 157691,
+        "word": "95年黑老大被核准死刑",
+        "onboard_time": 1758096261,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157322,
+        "num": 157322,
+        "word": "唐朝诡事录之长安过审了",
+        "onboard_time": 1758096682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151727,
+        "num": 151727,
+        "word": "于晓光儿子抽中隐藏款Labubu",
+        "onboard_time": 1758096744,
+        "rank": 28,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 143076,
+        "num": 149569,
+        "word": "刘宇宁没体面点的上班方式吗",
+        "onboard_time": 1758094343,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215263,
+        "num": 149530,
+        "word": "以色列开始碰瓷中国",
+        "onboard_time": 1758097283,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149078,
+        "num": 149078,
+        "word": "天安门国庆花坛有会发光的鸽子",
+        "onboard_time": 1758095723,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130131,
+        "num": 130131,
+        "word": "上海小学生这吃的啥啊",
+        "onboard_time": 1758090625,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127160,
+        "num": 127160,
+        "word": "人还是不能突然有钱",
+        "onboard_time": 1758095603,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126197,
+        "num": 126197,
+        "word": "731",
+        "onboard_time": 1758097102,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123610,
+        "num": 123610,
+        "word": "柯淳抱宁静像地主家傻儿子娶媳妇",
+        "onboard_time": 1758096562,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120017,
+        "num": 120017,
+        "word": "杨超越王牌路透我的阿奴来了",
+        "onboard_time": 1758094044,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118932,
+        "num": 118932,
+        "word": "啥剧情白敬亭拍完就趴下了",
+        "onboard_time": 1758096862,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117733,
+        "num": 117733,
+        "word": "上海全款400万92平的小家",
+        "onboard_time": 1758097763,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78202,
+        "num": 116802,
+        "word": "被虐女孩离世前饿得只有40斤",
+        "onboard_time": 1758096862,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116626,
+        "num": 116626,
+        "word": "陈小纭红嫁衣造型太对味了",
+        "onboard_time": 1758092542,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113561,
+        "num": 113561,
+        "word": "美国网球选手公开侮辱中国菜",
+        "onboard_time": 1758077244,
+        "rank": 41,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 79220,
+        "num": 112043,
+        "word": "小米17Pro现身数据库",
+        "onboard_time": 1758097943,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111880,
+        "num": 111880,
+        "word": "陆虎送妹妹出嫁",
+        "onboard_time": 1758090625,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111158,
+        "num": 111158,
+        "word": "简历唯独不可以是pdf",
+        "onboard_time": 1758082284,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109864,
+        "num": 109864,
+        "word": "夫妻选车牌妻子随手摇出6666",
+        "onboard_time": 1758091762,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108901,
+        "num": 108901,
+        "word": "偷偷做了一只小猫的站姐",
+        "onboard_time": 1758095782,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104806,
+        "num": 104806,
+        "word": "LPL总决赛中场秀",
+        "onboard_time": 1758095123,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102698,
+        "num": 102698,
+        "word": "接到张艺兴打来的电话了",
+        "onboard_time": 1758095663,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100718,
+        "num": 100718,
+        "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
+        "onboard_time": 1758097943,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从四大全球倡议看和平与发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758094631899,
+  "endTime": 1758097957568,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3083,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 978737,
+      "num": 1156598,
+      "word": "日本皇室独苗曝爱吃垃圾食品",
+      "onboard_time": 1758093024,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 978450,
       "num": 305988,
       "word": "离婚冷静期婆婆去世女子要求分遗产",
@@ -3817,6 +3825,14 @@
       "onboard_time": 1758018624,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 848380,
+      "num": 1116681,
+      "word": "赴山海 随时随地发现新剧本",
+      "onboard_time": 1758090985,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 848230,
@@ -4811,14 +4827,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 729256,
-      "num": 1116681,
-      "word": "赴山海 随时随地发现新剧本",
-      "onboard_time": 1758090985,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 728532,
       "num": 427133,
       "word": "其实焦虑症是长期恐惧导致的神经疲劳",
@@ -5683,6 +5691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632671,
+      "num": 632671,
+      "word": "降息",
+      "onboard_time": 1758093862,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 632434,
       "num": 629195,
       "word": "童锦程官宣新恋情",
@@ -6121,6 +6137,14 @@
       "onboard_time": 1757471601,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596800,
+      "num": 348787,
+      "word": "月薪3万的月嫂一天做我一辈子的家务",
+      "onboard_time": 1758093683,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 594988,
@@ -7987,6 +8011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 482753,
+      "num": 482753,
+      "word": "红舞鞋首批阵容官宣",
+      "onboard_time": 1758096142,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482423,
       "num": 482423,
       "word": "张维伊叫A4纸小纸纸",
@@ -8177,6 +8209,14 @@
       "onboard_time": 1757155881,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470164,
+      "num": 470164,
+      "word": "12306 我要回家",
+      "onboard_time": 1758089304,
+      "rank": 20,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 468625,
@@ -9563,6 +9603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415021,
+      "num": 415021,
+      "word": "iPhone手机可以用多少年",
+      "onboard_time": 1758093204,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 414360,
       "num": 215053,
       "word": "当我冲着女儿的颜值生了二胎",
@@ -10449,6 +10497,14 @@
       "onboard_time": 1757826624,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 382679,
+      "num": 382679,
+      "word": "小米17Pro 黑色版iPhone17Pro",
+      "onboard_time": 1758091884,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 382013,
@@ -12251,6 +12307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 323797,
+      "num": 323797,
+      "word": "白鹿 我的咖啡减肥了吗",
+      "onboard_time": 1758096261,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323524,
       "num": 238736,
       "word": "董璇一直在为张维伊兜底",
@@ -13905,14 +13969,6 @@
       "onboard_time": 1757580272,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277169,
-      "num": 154043,
-      "word": "日本皇室独苗曝爱吃垃圾食品",
-      "onboard_time": 1758093024,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 277106,
@@ -16931,14 +16987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218919,
-      "num": 218919,
-      "word": "降息",
-      "onboard_time": 1758093862,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 218844,
       "num": 197502,
       "word": "心动offer真的给我打电话了",
@@ -17115,14 +17163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216435,
-      "num": 216435,
-      "word": "12306 我要回家",
-      "onboard_time": 1758089304,
-      "rank": 20,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 216347,
       "num": 242702,
       "word": "初中生偷转父母37万元充值游戏",
@@ -17185,6 +17225,14 @@
       "onboard_time": 1757412983,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215263,
+      "num": 149530,
+      "word": "以色列开始碰瓷中国",
+      "onboard_time": 1758097283,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215032,
@@ -21939,14 +21987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180225,
-      "num": 151550,
-      "word": "iPhone手机可以用多少年",
-      "onboard_time": 1758093204,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 180135,
       "num": 180135,
       "word": "不为人知的故事官宣",
@@ -22241,6 +22281,14 @@
       "onboard_time": 1757670144,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 177800,
+      "num": 177800,
+      "word": "不眠日 蛋糕爆炸婚礼一秒变葬礼",
+      "onboard_time": 1758096985,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 177788,
@@ -25859,6 +25907,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 157691,
+      "num": 157691,
+      "word": "95年黑老大被核准死刑",
+      "onboard_time": 1758096261,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157685,
       "num": 168211,
       "word": "朱珠 剧本好的话演女八号都行",
@@ -25945,6 +26001,14 @@
       "onboard_time": 1757905221,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157322,
+      "num": 157322,
+      "word": "唐朝诡事录之长安过审了",
+      "onboard_time": 1758096682,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 157303,
@@ -27003,6 +27067,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 151727,
+      "num": 151727,
+      "word": "于晓光儿子抽中隐藏款Labubu",
+      "onboard_time": 1758096744,
+      "rank": 28,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 151717,
       "num": 151717,
       "word": "钟美美开课专业的事找专业的人",
@@ -27657,6 +27729,14 @@
       "onboard_time": 1756910784,
       "rank": 39,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 149078,
+      "num": 149078,
+      "word": "天安门国庆花坛有会发光的鸽子",
+      "onboard_time": 1758095723,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149074,
@@ -29273,6 +29353,14 @@
       "onboard_time": 1757516543,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143076,
+      "num": 149569,
+      "word": "刘宇宁没体面点的上班方式吗",
+      "onboard_time": 1758094343,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143061,
@@ -33219,6 +33307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128259,
+      "num": 379061,
+      "word": "国庆花卉布置25日亮相",
+      "onboard_time": 1758095303,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128251,
       "num": 243133,
       "word": "光与夜之恋幻觉派对",
@@ -33593,6 +33689,14 @@
       "onboard_time": 1757032521,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127160,
+      "num": 127160,
+      "word": "人还是不能突然有钱",
+      "onboard_time": 1758095603,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 127128,
@@ -34521,6 +34625,14 @@
       "onboard_time": 1757752824,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123610,
+      "num": 123610,
+      "word": "柯淳抱宁静像地主家傻儿子娶媳妇",
+      "onboard_time": 1758096562,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 123580,
@@ -35467,14 +35579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120274,
-      "num": 120274,
-      "word": "刘宇宁没体面点的上班方式吗",
-      "onboard_time": 1758094343,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120201,
       "num": 120201,
       "word": "别让张艺兴不说话的爱成为遗珠",
@@ -35825,6 +35929,14 @@
       "onboard_time": 1757660965,
       "rank": 44,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 118932,
+      "num": 118932,
+      "word": "啥剧情白敬亭拍完就趴下了",
+      "onboard_time": 1758096862,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 118931,
@@ -36195,6 +36307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117733,
+      "num": 117733,
+      "word": "上海全款400万92平的小家",
+      "onboard_time": 1758097763,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117675,
       "num": 117675,
       "word": "iOS26全面提升iPhone续航",
@@ -36544,14 +36664,6 @@
       "word": "原来这叫拧巴啊",
       "onboard_time": 1757830224,
       "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 116447,
-      "num": 116447,
-      "word": "月薪3万的月嫂一天做我一辈子的家务",
-      "onboard_time": 1758093683,
-      "rank": 45,
       "category": "情感"
     },
     {
@@ -38867,6 +38979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108901,
+      "num": 108901,
+      "word": "偷偷做了一只小猫的站姐",
+      "onboard_time": 1758095782,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108879,
       "num": 175113,
       "word": "731首日排片占比超99.7%",
@@ -40083,6 +40203,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 104806,
+      "num": 104806,
+      "word": "LPL总决赛中场秀",
+      "onboard_time": 1758095123,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104754,
       "num": 149821,
       "word": "阅兵徒步方队治愈强迫症瞬间",
@@ -40577,6 +40705,14 @@
       "onboard_time": 1757063122,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102698,
+      "num": 102698,
+      "word": "接到张艺兴打来的电话了",
+      "onboard_time": 1758095663,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 102668,
@@ -41129,6 +41265,14 @@
       "onboard_time": 1757067800,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100718,
+      "num": 100718,
+      "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
+      "onboard_time": 1758097943,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100683,
@@ -45739,6 +45883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79220,
+      "num": 112043,
+      "word": "小米17Pro现身数据库",
+      "onboard_time": 1758097943,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79177,
       "num": 122930,
       "word": "沈阳太二酸菜鱼已全部闭店",
@@ -45937,6 +46089,14 @@
       "onboard_time": 1758029245,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78202,
+      "num": 116802,
+      "word": "被虐女孩离世前饿得只有40斤",
+      "onboard_time": 1758096862,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78177,
