@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758078034209,
+  "endTime": 1758078583830,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1081734,
-      "num": 293851,
+      "num": 354316,
       "word": "涉毒艺人复出谁给开的绿灯",
       "onboard_time": 1758068064,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 951447,
+      "num": 1152231,
+      "word": "美国网球选手公开侮辱中国菜",
+      "onboard_time": 1758077244,
+      "rank": 10,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 928643,
@@ -43,12 +51,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 851699,
-      "num": 296951,
-      "word": "美国网球选手公开侮辱中国菜",
-      "onboard_time": 1758077244,
-      "rank": 10,
-      "category": "体育,海外新闻"
+      "raw_hot": 878237,
+      "num": 878237,
+      "word": "iPhone18Pro已打样",
+      "onboard_time": 1758075623,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 792679,
@@ -60,23 +68,15 @@
     },
     {
       "raw_hot": 776123,
-      "num": 289339,
+      "num": 354751,
       "word": "关晓彤28岁生日照",
       "onboard_time": 1758065603,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 736446,
-      "num": 736446,
-      "word": "iPhone18Pro已打样",
-      "onboard_time": 1758075623,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 725261,
-      "num": 287572,
+      "num": 353552,
       "word": "00后女生追星频繁染发患肾病",
       "onboard_time": 1758037586,
       "rank": 11,
@@ -99,6 +99,22 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 598255,
+      "num": 598255,
+      "word": "聊斋",
+      "onboard_time": 1758076702,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 587695,
+      "num": 587695,
+      "word": "日本人吃预制菜五十年了",
+      "onboard_time": 1758075022,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 552995,
       "num": 1537442,
       "word": "日本拒绝美国",
@@ -107,20 +123,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 545802,
-      "num": 545802,
-      "word": "日本人吃预制菜五十年了",
+      "raw_hot": 498866,
+      "num": 498866,
+      "word": "鲍蕾为了陆毅放弃事业",
       "onboard_time": 1758075022,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 511256,
-      "num": 511256,
-      "word": "聊斋",
-      "onboard_time": 1758076702,
-      "rank": 4,
-      "category": "剧集"
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 489837,
@@ -129,14 +137,6 @@
       "onboard_time": 1758072684,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 449045,
-      "num": 449045,
-      "word": "鲍蕾为了陆毅放弃事业",
-      "onboard_time": 1758075022,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 437910,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393359,
+      "num": 199068,
+      "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
+      "onboard_time": 1758076702,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384958,
       "num": 281419,
       "word": "重庆理工大学向学生致歉",
@@ -179,12 +187,36 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 370927,
+      "num": 370927,
+      "word": "日本人出1200万求购非遗面具被拒",
+      "onboard_time": 1758077064,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331180,
       "num": 281057,
       "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
       "onboard_time": 1758033630,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319887,
+      "num": 319887,
+      "word": "731",
+      "onboard_time": 1758073282,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 313265,
+      "num": 313265,
+      "word": "2025国庆档电影",
+      "onboard_time": 1758073224,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 311413,
@@ -203,20 +235,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 303523,
-      "num": 303523,
-      "word": "2025国庆档电影",
-      "onboard_time": 1758073224,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 300892,
       "num": 300892,
       "word": "男子在广东种出非洲猴面包树",
       "onboard_time": 1758070825,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299163,
+      "num": 206140,
+      "word": "祝绪丹 一问三不知",
+      "onboard_time": 1758077123,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 296287,
@@ -235,14 +267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 285617,
-      "num": 285617,
-      "word": "731",
-      "onboard_time": 1758073282,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280675,
       "num": 217216,
       "word": "易烊千玺微博直播",
@@ -257,6 +281,22 @@
       "onboard_time": 1758071665,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 273967,
+      "num": 354783,
+      "word": "以色列遭高超音速弹道导弹袭击",
+      "onboard_time": 1758076763,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 261705,
+      "num": 183698,
+      "word": "女厅官对省委原书记妻子唯命是从",
+      "onboard_time": 1758077364,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255405,
@@ -291,14 +331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 232341,
-      "num": 232341,
-      "word": "以色列遭高超音速弹道导弹袭击",
-      "onboard_time": 1758076763,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 226781,
       "num": 226781,
       "word": "预制了国庆八天的朋友圈",
@@ -315,20 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206140,
-      "num": 206140,
-      "word": "祝绪丹 一问三不知",
-      "onboard_time": 1758077123,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 199068,
-      "num": 199068,
-      "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
-      "onboard_time": 1758076702,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 198982,
+      "num": 155155,
+      "word": "汤森德吐槽中国菜后道歉",
+      "onboard_time": 1758078085,
+      "rank": 30,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 195882,
@@ -379,14 +403,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 183698,
-      "num": 183698,
-      "word": "女厅官对省委原书记妻子唯命是从",
-      "onboard_time": 1758077364,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 179882,
       "num": 179882,
       "word": "深圳冷门兼职日薪2000元",
@@ -411,16 +427,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162771,
-      "num": 226812,
-      "word": "日本人出1200万求购非遗面具被拒",
-      "onboard_time": 1758077064,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 167556,
+      "num": 167556,
+      "word": "刚升级iOS26的天都塌了",
+      "onboard_time": 1758077424,
+      "rank": 32,
+      "category": "数码"
     },
     {
-      "raw_hot": 161665,
-      "num": 161665,
+      "raw_hot": 165191,
+      "num": 165191,
+      "word": "魏大勋眼技",
+      "onboard_time": 1758077364,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163606,
+      "num": 163606,
       "word": "网友抱怨侄子高中宿舍过于陈旧",
       "onboard_time": 1758076524,
       "rank": 31,
@@ -441,14 +465,6 @@
       "onboard_time": 1758021803,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158316,
-      "num": 158316,
-      "word": "刚升级iOS26的天都塌了",
-      "onboard_time": 1758077424,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 155992,
@@ -483,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138037,
+      "num": 138037,
+      "word": "女子点11.8元外卖菜品上被写脏话",
+      "onboard_time": 1758077664,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136788,
       "num": 215580,
       "word": "易烊千玺 老公你说句话啊",
@@ -515,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133096,
+      "num": 300872,
+      "word": "中国空降兵成立75周年",
+      "onboard_time": 1758067705,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132478,
       "num": 220600,
       "word": "安踏通报一总裁级人员涉嫌违法",
@@ -523,12 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132271,
+      "num": 137974,
+      "word": "白鹿为宋雨琦打call",
+      "onboard_time": 1758073883,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130471,
       "num": 130471,
       "word": "难得夫妻是少年",
       "onboard_time": 1758068786,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130211,
+      "num": 138159,
+      "word": "不眠日开播",
+      "onboard_time": 1758078085,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 128197,
@@ -571,12 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119625,
-      "num": 300872,
-      "word": "中国空降兵成立75周年",
-      "onboard_time": 1758067705,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 117851,
+      "num": 136199,
+      "word": "日本网民呼吁731上映谁急了",
+      "onboard_time": 1758078023,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115257,
@@ -587,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114668,
-      "num": 135369,
-      "word": "魏大勋眼技",
-      "onboard_time": 1758077364,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 113240,
       "num": 113240,
       "word": "樊振东条形码刘海",
@@ -603,28 +643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112597,
-      "num": 133935,
-      "word": "白鹿为宋雨琦打call",
-      "onboard_time": 1758073883,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 112436,
-      "num": 112436,
-      "word": "女子点11.8元外卖菜品上被写脏话",
-      "onboard_time": 1758077664,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111056,
       "num": 111056,
       "word": "无意识的控糖行为",
       "onboard_time": 1758052394,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110574,
+      "num": 110574,
+      "word": "吉克隽逸央视新闻镜头状态",
+      "onboard_time": 1758077784,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 109879,
@@ -649,6 +681,22 @@
       "onboard_time": 1758066683,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102297,
+      "num": 102297,
+      "word": "女生宿舍变混住安全感碎了一地",
+      "onboard_time": 1758078322,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100778,
+      "num": 100778,
+      "word": "韩红嘉宾林俊杰孙燕姿",
+      "onboard_time": 1758078443,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 100452,
@@ -753,14 +801,6 @@
       "onboard_time": 1758067525,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 87474,
-      "num": 87474,
-      "word": "吉克隽逸央视新闻镜头状态",
-      "onboard_time": 1758077784,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 87004,
@@ -979,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54684,
+      "num": 135009,
+      "word": "德国总理戴犹太小帽哽咽回忆纳粹罪行",
+      "onboard_time": 1758077844,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54462,
       "num": 207691,
       "word": "神似刘亦菲女孩3条视频涨粉20万",
@@ -1011,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48510,
-      "num": 107272,
-      "word": "德国总理戴犹太小帽哽咽回忆纳粹罪行",
-      "onboard_time": 1758077844,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46469,
       "num": 75632,
       "word": "以军警告也门荷台达港居民紧急撤离",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1758045795,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45238,
+      "num": 133443,
+      "word": "柯克案枪手作案后与伴侣聊天记录曝光",
+      "onboard_time": 1758078207,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44327,
@@ -1100,7 +1148,7 @@
     },
     {
       "raw_hot": 7384,
-      "num": 600216,
+      "num": 719350,
       "word": "一系列重要成果亮相2025年国家网络安全宣传周",
       "onboard_time": 1757930482,
       "rank": 2,

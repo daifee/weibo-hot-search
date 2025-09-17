@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 11:00:34
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 11:09:43
 </p>
 </blockquote>
 <p>
@@ -2379,6 +2379,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%90%83%E9%80%89%E6%89%8B%E5%85%AC%E5%BC%80%E4%BE%AE%E8%BE%B1%E4%B8%AD%E5%9B%BD%E8%8F%9C%23" target="weibo">
+美国网球选手公开侮辱中国菜（热度：951447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%99%BD%E7%9C%9F%E4%B8%8A%E7%A5%9E%23" target="weibo">
 永远的白真上神（热度：950975）
 </a>
@@ -2643,6 +2649,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%B7%B2%E6%89%93%E6%A0%B7%23" target="weibo">
+iPhone18Pro已打样（热度：878237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%9C%A8%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
 他在阅兵现场留下不能露面的照片（热度：877434）
 </a>
@@ -2795,12 +2807,6 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%AD%E4%B9%B0%E4%B8%80%E9%83%A8iPhone17%E4%BD%A0%E8%A6%81%E5%B7%A5%E4%BD%9C%E5%A4%9A%E4%B9%85%23" target="weibo">
 购买一部iPhone17你要工作多久（热度：851777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%90%83%E9%80%89%E6%89%8B%E5%85%AC%E5%BC%80%E4%BE%AE%E8%BE%B1%E4%B8%AD%E5%9B%BD%E8%8F%9C%23" target="weibo">
-美国网球选手公开侮辱中国菜（热度：851699）
 </a>
 </li>
 
@@ -3485,12 +3491,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AD%90%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E5%90%8E%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23" target="weibo">
 女孩子黄体破裂后到底有多严重（热度：738125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%B7%B2%E6%89%93%E6%A0%B7%23" target="weibo">
-iPhone18Pro已打样（热度：736446）
 </a>
 </li>
 
@@ -4515,6 +4515,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E6%96%8B%23" target="weibo">
+聊斋（热度：598255）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83%E6%9C%896%E4%B8%AA%E9%A2%9C%E8%89%B2%23" target="weibo">
 8万只气球有6个颜色（热度：597362）
 </a>
@@ -4595,6 +4601,12 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%BD%92%E5%B7%A2%E4%B8%BB%E4%BA%BA%E6%BF%80%E5%8A%A8%E5%90%B9%E5%93%A8%E8%BF%8E%E6%8E%A5%23" target="weibo">
 天津和平鸽归巢主人激动吹哨迎接（热度：587778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%83%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BA%94%E5%8D%81%E5%B9%B4%E4%BA%86%23" target="weibo">
+日本人吃预制菜五十年了（热度：587695）
 </a>
 </li>
 
@@ -5055,12 +5067,6 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%83%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BA%94%E5%8D%81%E5%B9%B4%E4%BA%86%23" target="weibo">
-日本人吃预制菜五十年了（热度：545802）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E8%BF%9C%E7%8E%8B%E4%B9%90%E6%99%A8%E7%88%86%E7%81%AF%23" target="weibo">
 卢远王乐晨爆灯（热度：545532）
 </a>
@@ -5469,12 +5475,6 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E6%96%8B%23" target="weibo">
-聊斋（热度：511256）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%BB%A1%E5%9C%B0%E5%86%B0%E9%9B%B9%E5%83%8F%E4%B8%8B%E9%9B%AA%E4%B8%80%E6%A0%B7%23" target="weibo">
 北京满地冰雹像下雪一样（热度：509446）
 </a>
@@ -5657,6 +5657,12 @@ xg进决赛（热度：501284）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83100%25%E5%8F%AF%E9%99%8D%E8%A7%A3%23" target="weibo">
 8万只气球100%可降解（热度：499747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E4%B8%BA%E4%BA%86%E9%99%86%E6%AF%85%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%23" target="weibo">
+鲍蕾为了陆毅放弃事业（热度：498866）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone16需求不降反升（热度：477574）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A8%E9%A3%9F%E6%97%B6%E9%97%B4%E8%A1%A8%23" target="weibo">
 月全食时间表（热度：475101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%88%E5%9C%A8%E7%88%B1%E5%A5%87%E8%89%BA%E5%89%A7%E5%AE%A3%E4%B8%8A%E9%97%AF%E7%A5%B8%E4%BA%86%23" target="weibo">
-成毅又在爱奇艺剧宣上闯祸了（热度：474920）
 </a>
 </li>
 
