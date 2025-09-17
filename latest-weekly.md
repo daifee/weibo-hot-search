@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/18 03:20:02
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/18 03:37:21
 </p>
 </blockquote>
 <p>
@@ -10551,6 +10551,12 @@ XG对战Falcons（热度：17993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%AD%A9%E7%AB%A5%E8%BA%BA%E5%9D%90%E5%9C%B0%E9%93%81%E5%8F%A3%E8%A1%97%E9%81%93%E7%A4%BE%E5%8C%BA%E5%B7%B2%E5%B8%AE%E6%89%B6%23" target="weibo">
+3孩童躺坐地铁口街道社区已帮扶（热度：13612）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E7%96%9157%E5%B9%B4%E5%89%8D%E8%A2%AB%E6%8A%B1%E9%94%99%E7%BB%8F%E9%89%B4%E5%AE%9A%E7%B3%BB%E4%BA%B2%E7%94%9F%23" target="weibo">
 女子怀疑57年前被抱错经鉴定系亲生（热度：12924）
 </a>
@@ -10571,12 +10577,6 @@ XG对战Falcons（热度：17993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E6%9C%89%E5%92%B1%E5%AE%B6%E7%9A%84%E9%A3%9E%E6%9C%BA%E5%8F%AF%E4%BB%A5%E7%9C%8B%E4%BA%86%23" target="weibo">
 又有咱家的飞机可以看了（热度：10844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%AD%A9%E7%AB%A5%E8%BA%BA%E5%9D%90%E5%9C%B0%E9%93%81%E5%8F%A3%E8%A1%97%E9%81%93%E7%A4%BE%E5%8C%BA%E5%B7%B2%E5%B8%AE%E6%89%B6%23" target="weibo">
-3孩童躺坐地铁口街道社区已帮扶（热度：10533）
 </a>
 </li>
 
