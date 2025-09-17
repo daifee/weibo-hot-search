@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758134120298,
+  "endTime": 1758134844326,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -14049,6 +14049,14 @@
       "onboard_time": 1757793795,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11638,
+      "num": 37353,
+      "word": "柯克枪杀案嫌犯给室友发神秘短信",
+      "onboard_time": 1758134715,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11503,
