@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758137841552,
+  "endTime": 1758140824008,
   "band_list": [
     {
       "raw_hot": 1025407,
@@ -507,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21584,
+      "num": 21584,
+      "word": "当事人回应救起日本落水女子",
+      "onboard_time": 1758138133,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21089,
       "num": 451923,
       "word": "翱翔长空",
@@ -523,12 +531,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13612,
+      "raw_hot": 18166,
       "num": 48655,
       "word": "3孩童躺坐地铁口街道社区已帮扶",
       "onboard_time": 1758136694,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11599,
+      "num": 16545,
+      "word": "密室大逃脱劫处逢生",
+      "onboard_time": 1758132615,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
