@@ -1,10 +1,10 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758151355499,
+  "endTime": 1758152191884,
   "band_list": [
     {
       "raw_hot": 1382811,
-      "num": 208502,
+      "num": 215012,
       "word": "生日却成了验证分手的日子",
       "onboard_time": 1758130038,
       "rank": 18,
@@ -19,12 +19,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 960540,
-      "num": 960540,
+      "raw_hot": 961130,
+      "num": 963780,
       "word": "九一八事变94周年",
       "onboard_time": 1758125542,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 843990,
+      "num": 843990,
+      "word": "美联储降息",
+      "onboard_time": 1758150980,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 788864,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 716834,
-      "num": 203969,
+      "num": 214977,
       "word": "长沙一中学被举报班主任在教室装监控",
       "onboard_time": 1758128777,
       "rank": 24,
@@ -57,6 +65,22 @@
       "onboard_time": 1758119062,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 475114,
+      "num": 214649,
+      "word": "短剧第一批受害者出现了",
+      "onboard_time": 1758151879,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 470978,
+      "num": 214275,
+      "word": "小黄豆和迪丽热巴道歉",
+      "onboard_time": 1758151701,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 406652,
@@ -99,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 251391,
+      "num": 251391,
+      "word": "以色列和欧洲多国杠上了",
+      "onboard_time": 1758150319,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246761,
       "num": 208798,
       "word": "福建一中学强制女生剪斜面短发",
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 246026,
-      "num": 189759,
+      "num": 213840,
       "word": "打五折和买一赠一哪个便宜",
       "onboard_time": 1758124343,
       "rank": 18,
@@ -121,6 +153,14 @@
       "onboard_time": 1758116484,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225769,
+      "num": 214175,
+      "word": "关晓彤晒陈都灵送的蛋糕",
+      "onboard_time": 1758151879,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 221206,
@@ -137,6 +177,14 @@
       "onboard_time": 1758123144,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201080,
+      "num": 221427,
+      "word": "李正虎 演员现场拿着剧本是很正常的",
+      "onboard_time": 1758147316,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 200234,
@@ -171,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183549,
-      "num": 183549,
-      "word": "美联储降息",
-      "onboard_time": 1758150980,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 180886,
       "num": 109721,
       "word": "降息",
@@ -195,28 +235,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 163969,
-      "num": 221427,
-      "word": "李正虎 演员现场拿着剧本是很正常的",
-      "onboard_time": 1758147316,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157469,
       "num": 157469,
       "word": "女孩得知被拐轻生养父痛哭无能为力",
       "onboard_time": 1758114502,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142821,
-      "num": 216664,
-      "word": "以色列和欧洲多国杠上了",
-      "onboard_time": 1758150319,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 140557,
@@ -307,6 +331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97711,
+      "num": 196105,
+      "word": "美国上半年经济活动增长放缓",
+      "onboard_time": 1758151760,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95237,
       "num": 95237,
       "word": "黄金",
@@ -363,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83729,
+      "num": 83729,
+      "word": "利物浦3比2马竞",
+      "onboard_time": 1758151520,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83576,
       "num": 92192,
       "word": "许玮甯说宝宝是邱泽在带",
@@ -403,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75191,
+      "num": 213935,
+      "word": "美联储9个月来首次降息",
+      "onboard_time": 1758150919,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75147,
+      "num": 187085,
+      "word": "李昀锐艾米 归良辰",
+      "onboard_time": 1758131956,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75099,
       "num": 92170,
       "word": "NASA称太阳或带来灾难性风暴",
@@ -419,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73867,
-      "num": 187085,
-      "word": "李昀锐艾米 归良辰",
-      "onboard_time": 1758131956,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72540,
       "num": 92080,
       "word": "ONER灵超机场骑行李箱撞到人",
@@ -435,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71335,
-      "num": 213935,
-      "word": "美联储9个月来首次降息",
-      "onboard_time": 1758150919,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 70175,
+      "num": 193966,
+      "word": "美联储被指降息少了",
+      "onboard_time": 1758151879,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68347,
@@ -451,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68331,
+      "num": 68331,
+      "word": "香港金管局降息25个基点",
+      "onboard_time": 1758152119,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67939,
       "num": 92107,
       "word": "王橹杰刀马的幕后花絮",
       "onboard_time": 1758122545,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 66991,
+      "num": 66991,
+      "word": "03年初中老师小孩装大人实录",
+      "onboard_time": 1758149417,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 66885,
@@ -473,6 +537,22 @@
       "onboard_time": 1758129437,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62894,
+      "num": 62894,
+      "word": "拜仁3比1切尔西",
+      "onboard_time": 1758152119,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62613,
+      "num": 126680,
+      "word": "易烊千玺汤唯将合作孔雀",
+      "onboard_time": 1758152001,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 61972,
@@ -547,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51601,
-      "num": 66721,
-      "word": "03年初中老师小孩装大人实录",
-      "onboard_time": 1758149417,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 43854,
       "num": 117832,
       "word": "马天宇出席釜山国际电影节",
@@ -603,20 +675,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22297,
+      "num": 746998,
+      "word": "翱翔长空",
+      "onboard_time": 1758115644,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21584,
       "num": 21584,
       "word": "当事人回应救起日本落水女子",
       "onboard_time": 1758138133,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21580,
-      "num": 746998,
-      "word": "翱翔长空",
-      "onboard_time": 1758115644,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19133,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758152191884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 961130,
+        "num": 963780,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 843990,
+        "num": 843990,
+        "word": "美联储降息",
+        "onboard_time": 1758150980,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22297,
+        "num": 699024,
+        "word": "翱翔长空",
+        "onboard_time": 1758115644,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697194,
+        "num": 697194,
+        "word": "警方通报嘎子哥行拘7天",
+        "onboard_time": 1758120745,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 693379,
+        "num": 693379,
+        "word": "美联储",
+        "onboard_time": 1758117204,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 596279,
+        "num": 596279,
+        "word": "28岁女继承人疑被虫咬后在伦敦死亡",
+        "onboard_time": 1758119906,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 353416,
+        "num": 353416,
+        "word": "以色列面临全面孤立",
+        "onboard_time": 1758128777,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251391,
+        "num": 251391,
+        "word": "以色列和欧洲多国杠上了",
+        "onboard_time": 1758150319,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215474,
+        "num": 215474,
+        "word": "男子飞机上想起家中忘关火求助机长",
+        "onboard_time": 1758119546,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201080,
+        "num": 215358,
+        "word": "李正虎 演员现场拿着剧本是很正常的",
+        "onboard_time": 1758147316,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1239255,
+        "num": 215012,
+        "word": "生日却成了验证分手的日子",
+        "onboard_time": 1758130038,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 598739,
+        "num": 214977,
+        "word": "长沙一中学被举报班主任在教室装监控",
+        "onboard_time": 1758128777,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475114,
+        "num": 214649,
+        "word": "短剧第一批受害者出现了",
+        "onboard_time": 1758151879,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 470978,
+        "num": 214275,
+        "word": "小黄豆和迪丽热巴道歉",
+        "onboard_time": 1758151701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225769,
+        "num": 214175,
+        "word": "关晓彤晒陈都灵送的蛋糕",
+        "onboard_time": 1758151879,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215935,
+        "num": 213840,
+        "word": "打五折和买一赠一哪个便宜",
+        "onboard_time": 1758124343,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213754,
+        "num": 213754,
+        "word": "抗日5098天",
+        "onboard_time": 1758117204,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144330,
+        "num": 197318,
+        "word": "辛芷蕾否认获奖是弯道超车",
+        "onboard_time": 1758123385,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122209,
+        "num": 196309,
+        "word": "郑恺被暴雨逼没招了",
+        "onboard_time": 1758116484,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97711,
+        "num": 196105,
+        "word": "美国上半年经济活动增长放缓",
+        "onboard_time": 1758151760,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196051,
+        "num": 196051,
+        "word": "邵雨轩自曝遭遇性骚扰",
+        "onboard_time": 1758119062,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70175,
+        "num": 193966,
+        "word": "美联储被指降息少了",
+        "onboard_time": 1758151879,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192179,
+        "num": 192179,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1758125542,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180638,
+        "num": 180638,
+        "word": "教育局回应班主任在教室私装监控",
+        "onboard_time": 1758121046,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102407,
+        "num": 151035,
+        "word": "杨丽菁为成毅发声",
+        "onboard_time": 1758124643,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136067,
+        "num": 136067,
+        "word": "外交部连发三个停止",
+        "onboard_time": 1758108684,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129516,
+        "num": 129516,
+        "word": "女孩得知被拐轻生养父痛哭无能为力",
+        "onboard_time": 1758114502,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75147,
+        "num": 127925,
+        "word": "李昀锐艾米 归良辰",
+        "onboard_time": 1758131956,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62613,
+        "num": 126680,
+        "word": "易烊千玺汤唯将合作孔雀",
+        "onboard_time": 1758152001,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46497,
+        "num": 126533,
+        "word": "赴山海一集下线134人",
+        "onboard_time": 1758108684,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126532,
+        "num": 126532,
+        "word": "福建一中学强制女生剪斜面短发",
+        "onboard_time": 1758110063,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114447,
+        "num": 114447,
+        "word": "她这四十几年没有上过一天班",
+        "onboard_time": 1758119366,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111141,
+        "num": 111141,
+        "word": "为什么瘦子吃那么多米饭却不胖",
+        "onboard_time": 1758146175,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105411,
+        "num": 105411,
+        "word": "水牛奶 水牛是商标",
+        "onboard_time": 1758111502,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98746,
+        "num": 98746,
+        "word": "美联储年内预计再降息2次",
+        "onboard_time": 1758150560,
+        "rank": 34,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 87825,
+        "num": 87825,
+        "word": "迪丽热巴不需要你的美颜参数",
+        "onboard_time": 1758107243,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87304,
+        "num": 87304,
+        "word": "女子忘拔油枪开车就走拽倒加油机",
+        "onboard_time": 1758116065,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83729,
+        "num": 83729,
+        "word": "利物浦3比2马竞",
+        "onboard_time": 1758151520,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80124,
+        "num": 80124,
+        "word": "欧盟宣布对以色列制裁措施",
+        "onboard_time": 1758120084,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79630,
+        "num": 79630,
+        "word": "男子回应将3个孩子放地铁站门口",
+        "onboard_time": 1758120084,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78927,
+        "num": 78927,
+        "word": "中国游客用嘴咬住落水女子头发救人",
+        "onboard_time": 1758104663,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75191,
+        "num": 75307,
+        "word": "美联储9个月来首次降息",
+        "onboard_time": 1758150919,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75256,
+        "num": 75256,
+        "word": "黄金",
+        "onboard_time": 1758102324,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70231,
+        "num": 70231,
+        "word": "以军自杀率急剧上升",
+        "onboard_time": 1758120386,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68331,
+        "num": 68331,
+        "word": "香港金管局降息25个基点",
+        "onboard_time": 1758152119,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66991,
+        "num": 66991,
+        "word": "03年初中老师小孩装大人实录",
+        "onboard_time": 1758149417,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63923,
+        "num": 63923,
+        "word": "NASA称太阳或带来灾难性风暴",
+        "onboard_time": 1758120745,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62894,
+        "num": 62894,
+        "word": "拜仁3比1切尔西",
+        "onboard_time": 1758152119,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61996,
+        "num": 61996,
+        "word": "月入1万已经能生活得非常好了",
+        "onboard_time": 1758108383,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43237,
+        "num": 61961,
+        "word": "马天宇出席釜山国际电影节",
+        "onboard_time": 1758114684,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#讲好中国抗战故事和平发展故事#"
+    }
+  }
+}
