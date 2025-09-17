@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/18 00:31:14 ~ 2025/09/18 02:47:24
+本榜单时间：2025/09/18 00:31:14 ~ 2025/09/18 03:20:02
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ iPhone17评测（热度：52556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%E7%BC%85%E6%80%80%E8%8B%B1%E7%83%88%23" target="weibo">
+铭记历史缅怀英烈（热度：31673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%E6%98%AF%E7%94%9F%E5%8A%A8%E7%9A%84%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E6%9D%90%23" target="weibo">
 抗战纪念活动是生动的爱国主义教材（热度：31416）
 </a>
@@ -381,6 +387,12 @@ iPhone17评测（热度：52556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%85%8B%E6%9E%AA%E6%9D%80%E6%A1%88%E5%AB%8C%E7%8A%AF%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%8F%91%E7%A5%9E%E7%A7%98%E7%9F%AD%E4%BF%A1%23" target="weibo">
+柯克枪杀案嫌犯给室友发神秘短信（热度：26537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%B1%E7%BF%94%E9%95%BF%E7%A9%BA%23" target="weibo">
 翱翔长空（热度：21089）
 </a>
@@ -393,8 +405,8 @@ PCL2025（热度：19133）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%85%8B%E6%9E%AA%E6%9D%80%E6%A1%88%E5%AB%8C%E7%8A%AF%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%8F%91%E7%A5%9E%E7%A7%98%E7%9F%AD%E4%BF%A1%23" target="weibo">
-柯克枪杀案嫌犯给室友发神秘短信（热度：11638）
+<a href="https://s.weibo.com/weibo?q=%233%E5%AD%A9%E7%AB%A5%E8%BA%BA%E5%9D%90%E5%9C%B0%E9%93%81%E5%8F%A3%E8%A1%97%E9%81%93%E7%A4%BE%E5%8C%BA%E5%B7%B2%E5%B8%AE%E6%89%B6%23" target="weibo">
+3孩童躺坐地铁口街道社区已帮扶（热度：10533）
 </a>
 </li>
 

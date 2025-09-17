@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758134844326,
+  "endTime": 1758136802881,
   "band_list": [
     {
       "raw_hot": 1025407,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31673,
+      "num": 22740,
+      "word": "铭记历史缅怀英烈",
+      "onboard_time": 1758136093,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31416,
       "num": 62245,
       "word": "抗战纪念活动是生动的爱国主义教材",
@@ -491,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26537,
+      "num": 37353,
+      "word": "柯克枪杀案嫌犯给室友发神秘短信",
+      "onboard_time": 1758134715,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21089,
       "num": 451923,
       "word": "翱翔长空",
@@ -507,12 +523,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 11638,
-      "num": 37353,
-      "word": "柯克枪杀案嫌犯给室友发神秘短信",
-      "onboard_time": 1758134715,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 10533,
+      "num": 22703,
+      "word": "3孩童躺坐地铁口街道社区已帮扶",
+      "onboard_time": 1758136694,
+      "rank": 32,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

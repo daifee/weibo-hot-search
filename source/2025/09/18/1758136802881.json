@@ -1,0 +1,410 @@
+{
+  "runTime": 1758136802881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 225382,
+        "num": 225382,
+        "word": "美联储",
+        "onboard_time": 1758117204,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128377,
+        "num": 128377,
+        "word": "以色列面临全面孤立",
+        "onboard_time": 1758128777,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9472,
+        "num": 106457,
+        "word": "翱翔长空",
+        "onboard_time": 1758115644,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104857,
+        "num": 104857,
+        "word": "警方通报嘎子哥行拘7天",
+        "onboard_time": 1758120745,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 74046,
+        "num": 74046,
+        "word": "28岁女继承人疑被虫咬后在伦敦死亡",
+        "onboard_time": 1758119906,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66214,
+        "num": 66214,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61512,
+        "num": 61512,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1758125542,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61360,
+        "num": 61360,
+        "word": "抗日5098天",
+        "onboard_time": 1758117204,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41851,
+        "num": 41851,
+        "word": "杨丽菁为成毅发声",
+        "onboard_time": 1758124643,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35609,
+        "num": 35609,
+        "word": "男子飞机上想起家中忘关火求助机长",
+        "onboard_time": 1758119546,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291005,
+        "num": 35608,
+        "word": "生日却成了验证分手的日子",
+        "onboard_time": 1758130038,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70454,
+        "num": 35594,
+        "word": "降息",
+        "onboard_time": 1758093862,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64117,
+        "num": 35578,
+        "word": "长沙一中学被举报班主任在教室装监控",
+        "onboard_time": 1758128777,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55301,
+        "num": 35557,
+        "word": "邵雨轩自曝遭遇性骚扰",
+        "onboard_time": 1758119062,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35548,
+        "num": 35548,
+        "word": "福建一中学强制女生剪斜面短发",
+        "onboard_time": 1758110063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29260,
+        "num": 29260,
+        "word": "打五折和买一赠一哪个便宜",
+        "onboard_time": 1758124343,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29015,
+        "num": 29256,
+        "word": "辛芷蕾否认获奖是弯道超车",
+        "onboard_time": 1758123385,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28046,
+        "num": 29255,
+        "word": "郑恺被暴雨逼没招了",
+        "onboard_time": 1758116484,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27039,
+        "num": 29249,
+        "word": "李昀锐艾米 归良辰",
+        "onboard_time": 1758131956,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24283,
+        "num": 29240,
+        "word": "不眠日",
+        "onboard_time": 1758110244,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37587,
+        "num": 29238,
+        "word": "迪丽热巴不需要你的美颜参数",
+        "onboard_time": 1758107243,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29235,
+        "num": 29235,
+        "word": "外交部连发三个停止",
+        "onboard_time": 1758108684,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27361,
+        "num": 27361,
+        "word": "她这四十几年没有上过一天班",
+        "onboard_time": 1758119366,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27312,
+        "num": 27312,
+        "word": "这个日子不能忘也不敢忘",
+        "onboard_time": 1758129437,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26655,
+        "num": 26655,
+        "word": "女孩得知被拐轻生养父痛哭无能为力",
+        "onboard_time": 1758114502,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26537,
+        "num": 26537,
+        "word": "柯克枪杀案嫌犯给室友发神秘短信",
+        "onboard_time": 1758134715,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26310,
+        "num": 26310,
+        "word": "每个中国人都该铭记今天",
+        "onboard_time": 1758126500,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24596,
+        "num": 24596,
+        "word": "桃黑黑盛世天下直播",
+        "onboard_time": 1758111863,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 19830,
+        "num": 23358,
+        "word": "赴山海一集下线134人",
+        "onboard_time": 1758108684,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17814,
+        "num": 22743,
+        "word": "马天宇出席釜山国际电影节",
+        "onboard_time": 1758114684,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31673,
+        "num": 22740,
+        "word": "铭记历史缅怀英烈",
+        "onboard_time": 1758136093,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22703,
+        "num": 22703,
+        "word": "绿茶餐厅拆掉现做招牌",
+        "onboard_time": 1758110483,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10533,
+        "num": 22703,
+        "word": "3孩童躺坐地铁口街道社区已帮扶",
+        "onboard_time": 1758136694,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20092,
+        "num": 22701,
+        "word": "微信存储一下就少了10G",
+        "onboard_time": 1758103342,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20027,
+        "num": 22700,
+        "word": "中国游客用嘴咬住落水女子头发救人",
+        "onboard_time": 1758104663,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19660,
+        "num": 22699,
+        "word": "NASA称太阳或带来灾难性风暴",
+        "onboard_time": 1758120745,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19367,
+        "num": 22696,
+        "word": "欧盟宣布对以色列制裁措施",
+        "onboard_time": 1758120084,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19288,
+        "num": 22695,
+        "word": "刘亦菲38岁素颜状态",
+        "onboard_time": 1758112402,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19215,
+        "num": 22694,
+        "word": "男子回应将3个孩子放地铁站门口",
+        "onboard_time": 1758120084,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19017,
+        "num": 22692,
+        "word": "校方回应强制女生剪斜面短发",
+        "onboard_time": 1758112944,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18869,
+        "num": 22690,
+        "word": "以军自杀率急剧上升",
+        "onboard_time": 1758120386,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18869,
+        "num": 22688,
+        "word": "iPhone17评测",
+        "onboard_time": 1758115163,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18018,
+        "num": 22688,
+        "word": "水牛奶 水牛是商标",
+        "onboard_time": 1758111502,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17080,
+        "num": 22687,
+        "word": "杨丞琳李荣浩结婚6周年发文",
+        "onboard_time": 1758112703,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17036,
+        "num": 22685,
+        "word": "教育局回应班主任在教室私装监控",
+        "onboard_time": 1758121046,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17014,
+        "num": 22682,
+        "word": "小猪佩奇等动画被恶改博眼球",
+        "onboard_time": 1758123144,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16680,
+        "num": 22681,
+        "word": "女子忘拔油枪开车就走拽倒加油机",
+        "onboard_time": 1758116065,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16116,
+        "num": 22679,
+        "word": "王橹杰刀马的幕后花絮",
+        "onboard_time": 1758122545,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15633,
+        "num": 22679,
+        "word": "月入1万已经能生活得非常好了",
+        "onboard_time": 1758108383,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15537,
+        "num": 22677,
+        "word": "抗战纪念活动是生动的爱国主义教材",
+        "onboard_time": 1758128479,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#讲好中国抗战故事和平发展故事#"
+    }
+  }
+}
