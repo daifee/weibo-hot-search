@@ -1,7 +1,15 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758148613225,
+  "endTime": 1758151355499,
   "band_list": [
+    {
+      "raw_hot": 1382811,
+      "num": 208502,
+      "word": "生日却成了验证分手的日子",
+      "onboard_time": 1758130038,
+      "rank": 18,
+      "category": "情感"
+    },
     {
       "raw_hot": 1025407,
       "num": 1025407,
@@ -9,6 +17,30 @@
       "onboard_time": 1758120745,
       "rank": 0,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 960540,
+      "num": 960540,
+      "word": "九一八事变94周年",
+      "onboard_time": 1758125542,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 788864,
+      "num": 788864,
+      "word": "美联储",
+      "onboard_time": 1758117204,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 716834,
+      "num": 203969,
+      "word": "长沙一中学被举报班主任在教室装监控",
+      "onboard_time": 1758128777,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 663743,
@@ -19,22 +51,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 655385,
-      "num": 88357,
-      "word": "生日却成了验证分手的日子",
-      "onboard_time": 1758130038,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 567002,
-      "num": 567002,
-      "word": "美联储",
-      "onboard_time": 1758117204,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 498768,
       "num": 216132,
       "word": "邵雨轩自曝遭遇性骚扰",
@@ -43,12 +59,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 435033,
-      "num": 93825,
-      "word": "长沙一中学被举报班主任在教室装监控",
+      "raw_hot": 406652,
+      "num": 406652,
+      "word": "以色列面临全面孤立",
       "onboard_time": 1758128777,
-      "rank": 24,
-      "category": "民生新闻"
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 369490,
@@ -57,14 +73,6 @@
       "onboard_time": 1758123385,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 338195,
-      "num": 404180,
-      "word": "以色列面临全面孤立",
-      "onboard_time": 1758128777,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 335961,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 246026,
-      "num": 173207,
+      "num": 189759,
       "word": "打五折和买一赠一哪个便宜",
       "onboard_time": 1758124343,
       "rank": 18,
@@ -113,14 +121,6 @@
       "onboard_time": 1758116484,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241499,
-      "num": 241499,
-      "word": "九一八事变94周年",
-      "onboard_time": 1758125542,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 221206,
@@ -155,12 +155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189806,
+      "num": 189806,
+      "word": "外交部连发三个停止",
+      "onboard_time": 1758108684,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189732,
       "num": 189732,
       "word": "绿茶餐厅拆掉现做招牌",
       "onboard_time": 1758110483,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183549,
+      "num": 183549,
+      "word": "美联储降息",
+      "onboard_time": 1758150980,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 180886,
@@ -179,6 +195,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 163969,
+      "num": 221427,
+      "word": "李正虎 演员现场拿着剧本是很正常的",
+      "onboard_time": 1758147316,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157469,
       "num": 157469,
       "word": "女孩得知被拐轻生养父痛哭无能为力",
@@ -187,8 +211,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142821,
+      "num": 216664,
+      "word": "以色列和欧洲多国杠上了",
+      "onboard_time": 1758150319,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140557,
-      "num": 140557,
+      "num": 187638,
       "word": "杨丽菁为成毅发声",
       "onboard_time": 1758124643,
       "rank": 41,
@@ -203,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132133,
+      "num": 132133,
+      "word": "为什么瘦子吃那么多米饭却不胖",
+      "onboard_time": 1758146175,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122467,
       "num": 122467,
       "word": "匹克董事长回应全员降薪",
@@ -211,8 +251,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111589,
-      "num": 111589,
+      "raw_hot": 117282,
+      "num": 117282,
+      "word": "美联储年内预计再降息2次",
+      "onboard_time": 1758150560,
+      "rank": 30,
+      "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 113901,
+      "num": 113901,
       "word": "水牛奶 水牛是商标",
       "onboard_time": 1758111502,
       "rank": 23,
@@ -235,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101412,
+      "num": 101412,
+      "word": "中国游客用嘴咬住落水女子头发救人",
+      "onboard_time": 1758104663,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99539,
       "num": 99539,
       "word": "冯建宇 我没有女朋友",
@@ -251,12 +307,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 94730,
-      "num": 94730,
-      "word": "外交部连发三个停止",
-      "onboard_time": 1758108684,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 95237,
+      "num": 95237,
+      "word": "黄金",
+      "onboard_time": 1758102324,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 93096,
+      "num": 93096,
+      "word": "欧盟宣布对以色列制裁措施",
+      "onboard_time": 1758120084,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93014,
@@ -275,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89793,
+      "num": 92094,
+      "word": "女子忘拔油枪开车就走拽倒加油机",
+      "onboard_time": 1758116065,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89690,
       "num": 92262,
       "word": "成毅不理解但照做",
@@ -283,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83658,
-      "num": 92227,
-      "word": "欧盟宣布对以色列制裁措施",
+      "raw_hot": 84001,
+      "num": 84001,
+      "word": "男子回应将3个孩子放地铁站门口",
       "onboard_time": 1758120084,
-      "rank": 31,
-      "category": "国际时政"
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83576,
@@ -331,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75219,
-      "num": 92094,
-      "word": "女子忘拔油枪开车就走拽倒加油机",
-      "onboard_time": 1758116065,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 75099,
+      "num": 92170,
+      "word": "NASA称太阳或带来灾难性风暴",
+      "onboard_time": 1758120745,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74566,
@@ -347,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73867,
+      "num": 187085,
+      "word": "李昀锐艾米 归良辰",
+      "onboard_time": 1758131956,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72540,
       "num": 92080,
       "word": "ONER灵超机场骑行李箱撞到人",
@@ -355,20 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69470,
-      "num": 92205,
-      "word": "中国游客用嘴咬住落水女子头发救人",
-      "onboard_time": 1758104663,
-      "rank": 48,
+      "raw_hot": 71335,
+      "num": 213935,
+      "word": "美联储9个月来首次降息",
+      "onboard_time": 1758150919,
+      "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69080,
-      "num": 92170,
-      "word": "NASA称太阳或带来灾难性风暴",
-      "onboard_time": 1758120745,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 68347,
@@ -387,20 +459,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 66885,
+      "num": 92131,
+      "word": "月入1万已经能生活得非常好了",
+      "onboard_time": 1758108383,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65992,
       "num": 65992,
       "word": "这个日子不能忘也不敢忘",
       "onboard_time": 1758129437,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 65205,
-      "num": 92131,
-      "word": "月入1万已经能生活得非常好了",
-      "onboard_time": 1758108383,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 61972,
@@ -443,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55301,
+      "num": 66883,
+      "word": "利物浦vs马竞",
+      "onboard_time": 1758151279,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52590,
+      "num": 66813,
+      "word": "法国民众晒蛙腿反击汤森德",
+      "onboard_time": 1758140174,
+      "rank": 47,
+      "category": "体育,海外新闻"
+    },
+    {
       "raw_hot": 52556,
       "num": 92050,
       "word": "iPhone17评测",
@@ -459,20 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51228,
-      "num": 51228,
-      "word": "为什么瘦子吃那么多米饭却不胖",
-      "onboard_time": 1758146175,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 51601,
+      "num": 66721,
+      "word": "03年初中老师小孩装大人实录",
+      "onboard_time": 1758149417,
+      "rank": 46,
+      "category": "幽默"
     },
     {
-      "raw_hot": 47220,
-      "num": 58121,
-      "word": "男子回应将3个孩子放地铁站门口",
-      "onboard_time": 1758120084,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 43854,
+      "num": 117832,
+      "word": "马天宇出席釜山国际电影节",
+      "onboard_time": 1758114684,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 42707,
@@ -481,14 +569,6 @@
       "onboard_time": 1758129137,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36734,
-      "num": 67488,
-      "word": "李昀锐艾米 归良辰",
-      "onboard_time": 1758131956,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 31673,
@@ -507,35 +587,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30918,
-      "num": 50174,
-      "word": "马天宇出席釜山国际电影节",
-      "onboard_time": 1758114684,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 29474,
-      "num": 31025,
-      "word": "李正虎 演员现场拿着剧本是很正常的",
-      "onboard_time": 1758147316,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 29383,
-      "num": 31022,
-      "word": "法国民众晒蛙腿反击汤森德",
-      "onboard_time": 1758140174,
-      "rank": 47,
-      "category": "体育,海外新闻"
-    },
-    {
       "raw_hot": 26537,
       "num": 37353,
       "word": "柯克枪杀案嫌犯给室友发神秘短信",
       "onboard_time": 1758134715,
       "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25414,
+      "num": 117347,
+      "word": "美国宾州枪击警察3死2伤",
+      "onboard_time": 1758150919,
+      "rank": 29,
       "category": "海外新闻"
     },
     {
@@ -547,8 +611,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21089,
-      "num": 451923,
+      "raw_hot": 21580,
+      "num": 746998,
       "word": "翱翔长空",
       "onboard_time": 1758115644,
       "rank": 2,
