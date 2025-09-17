@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758078583830,
+  "endTime": 1758080108745,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1081734,
-      "num": 354316,
-      "word": "涉毒艺人复出谁给开的绿灯",
-      "onboard_time": 1758068064,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 951447,
-      "num": 1152231,
+      "raw_hot": 1244563,
+      "num": 1244563,
       "word": "美国网球选手公开侮辱中国菜",
       "onboard_time": 1758077244,
       "rank": 10,
       "category": "体育,海外新闻"
+    },
+    {
+      "raw_hot": 1081734,
+      "num": 364325,
+      "word": "涉毒艺人复出谁给开的绿灯",
+      "onboard_time": 1758068064,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 928643,
@@ -59,6 +59,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 829607,
+      "num": 829607,
+      "word": "聊斋",
+      "onboard_time": 1758076702,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 792679,
       "num": 792679,
       "word": "男子查个税意外发现两份工资流水",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 776123,
-      "num": 354751,
+      "num": 365717,
       "word": "关晓彤28岁生日照",
       "onboard_time": 1758065603,
       "rank": 10,
@@ -99,14 +107,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 598255,
-      "num": 598255,
-      "word": "聊斋",
-      "onboard_time": 1758076702,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 587695,
       "num": 587695,
       "word": "日本人吃预制菜五十年了",
@@ -123,12 +123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 499830,
+      "num": 215614,
+      "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
+      "onboard_time": 1758076702,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498866,
       "num": 498866,
       "word": "鲍蕾为了陆毅放弃事业",
       "onboard_time": 1758075022,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 493405,
+      "num": 366304,
+      "word": "汤森德吐槽中国菜后道歉",
+      "onboard_time": 1758078085,
+      "rank": 30,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 489837,
@@ -163,11 +179,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393359,
-      "num": 199068,
-      "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
-      "onboard_time": 1758076702,
-      "rank": 22,
+      "raw_hot": 400010,
+      "num": 400010,
+      "word": "恋与深空",
+      "onboard_time": 1758079222,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 393974,
+      "num": 393974,
+      "word": "日本人出1200万求购非遗面具被拒",
+      "onboard_time": 1758077064,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -179,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381322,
+      "num": 381322,
+      "word": "以色列遭高超音速弹道导弹袭击",
+      "onboard_time": 1758076763,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 373632,
       "num": 219386,
       "word": "真的不要在床头上挂东西了",
       "onboard_time": 1758011662,
       "rank": 15,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 370927,
-      "num": 370927,
-      "word": "日本人出1200万求购非遗面具被拒",
-      "onboard_time": 1758077064,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331180,
@@ -227,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307459,
+      "num": 214426,
+      "word": "祝绪丹 一问三不知",
+      "onboard_time": 1758077123,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306840,
       "num": 306840,
       "word": "山农大破解一科学界百年未解之谜",
@@ -235,20 +267,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 303324,
+      "num": 209678,
+      "word": "女子点11.8元外卖菜品上被写脏话",
+      "onboard_time": 1758077664,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300892,
       "num": 300892,
       "word": "男子在广东种出非洲猴面包树",
       "onboard_time": 1758070825,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299163,
-      "num": 206140,
-      "word": "祝绪丹 一问三不知",
-      "onboard_time": 1758077123,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 296287,
@@ -267,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287604,
+      "num": 205187,
+      "word": "女厅官对省委原书记妻子唯命是从",
+      "onboard_time": 1758077364,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 280675,
       "num": 217216,
       "word": "易烊千玺微博直播",
@@ -281,22 +321,6 @@
       "onboard_time": 1758071665,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 273967,
-      "num": 354783,
-      "word": "以色列遭高超音速弹道导弹袭击",
-      "onboard_time": 1758076763,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 261705,
-      "num": 183698,
-      "word": "女厅官对省委原书记妻子唯命是从",
-      "onboard_time": 1758077364,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 255405,
@@ -339,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223174,
+      "num": 223174,
+      "word": "刚升级iOS26的天都塌了",
+      "onboard_time": 1758077424,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209793,
       "num": 209793,
       "word": "汪苏泷36岁生日照",
@@ -347,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198982,
-      "num": 155155,
-      "word": "汤森德吐槽中国菜后道歉",
-      "onboard_time": 1758078085,
-      "rank": 30,
-      "category": "体育,海外新闻"
+      "raw_hot": 200027,
+      "num": 200027,
+      "word": "日本网民呼吁731上映谁急了",
+      "onboard_time": 1758078023,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195882,
@@ -371,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 193374,
+      "num": 203789,
+      "word": "用美美桑内打开大学生的一天",
+      "onboard_time": 1758078923,
+      "rank": 24,
+      "category": "幽默,音乐"
+    },
+    {
       "raw_hot": 192803,
       "num": 293883,
       "word": "于正虽然嘴碎但他护犊子啊",
@@ -379,12 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191304,
+      "num": 191304,
+      "word": "相亲铁律",
+      "onboard_time": 1758078685,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190751,
+      "num": 221197,
+      "word": "严浩翔从小就听贺峻霖话",
+      "onboard_time": 1758079703,
+      "rank": 19,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 190675,
       "num": 226982,
       "word": "音乐缘计划",
       "onboard_time": 1758076461,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190398,
+      "num": 190398,
+      "word": "桃厂给成毅安排了个莲花楼",
+      "onboard_time": 1758079644,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 186866,
@@ -427,16 +491,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167556,
-      "num": 167556,
-      "word": "刚升级iOS26的天都塌了",
-      "onboard_time": 1758077424,
-      "rank": 32,
-      "category": "数码"
+      "raw_hot": 170722,
+      "num": 170722,
+      "word": "从150斤瘦到110斤的真实感受",
+      "onboard_time": 1758079103,
+      "rank": 31,
+      "category": "情感"
     },
     {
-      "raw_hot": 165191,
-      "num": 165191,
+      "raw_hot": 167157,
+      "num": 182120,
       "word": "魏大勋眼技",
       "onboard_time": 1758077364,
       "rank": 34,
@@ -449,6 +513,14 @@
       "onboard_time": 1758076524,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162612,
+      "num": 162612,
+      "word": "iOS26液态玻璃效果可关闭",
+      "onboard_time": 1758079222,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 160303,
@@ -475,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149820,
+      "num": 149820,
+      "word": "聊斋首发剧照",
+      "onboard_time": 1758079222,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147766,
       "num": 257572,
       "word": "生命树 纪录片",
@@ -497,14 +577,6 @@
       "onboard_time": 1758040345,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 138037,
-      "num": 138037,
-      "word": "女子点11.8元外卖菜品上被写脏话",
-      "onboard_time": 1758077664,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136788,
@@ -555,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132341,
+      "num": 132341,
+      "word": "韩红嘉宾林俊杰孙燕姿",
+      "onboard_time": 1758078443,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132271,
       "num": 137974,
       "word": "白鹿为宋雨琦打call",
@@ -587,6 +667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127516,
+      "num": 127516,
+      "word": "心动8让人头皮发麻的七分钟",
+      "onboard_time": 1758080001,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126878,
+      "num": 127378,
+      "word": "星品影响力",
+      "onboard_time": 1758078803,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125900,
       "num": 227029,
       "word": "17号台风米娜或要来了",
@@ -611,6 +707,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 121453,
+      "num": 121453,
+      "word": "生逢其时祝关晓彤生日快乐",
+      "onboard_time": 1758078504,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120344,
       "num": 120344,
       "word": "刘翔的含金量还在上升",
@@ -619,12 +723,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117851,
-      "num": 136199,
-      "word": "日本网民呼吁731上映谁急了",
-      "onboard_time": 1758078023,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 118555,
+      "num": 135009,
+      "word": "德国总理戴犹太小帽哽咽回忆纳粹罪行",
+      "onboard_time": 1758077844,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 117048,
+      "num": 150694,
+      "word": "学校辟谣女生在宿舍分娩失血过多去世",
+      "onboard_time": 1758080001,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115257,
@@ -689,14 +801,6 @@
       "onboard_time": 1758078322,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100778,
-      "num": 100778,
-      "word": "韩红嘉宾林俊杰孙燕姿",
-      "onboard_time": 1758078443,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 100452,
@@ -963,6 +1067,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67625,
+      "num": 136518,
+      "word": "柬埔寨诈骗团伙落网有33个韩国人",
+      "onboard_time": 1758079402,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63670,
+      "num": 194306,
+      "word": "胡塞武装回应以色列袭击荷港",
+      "onboard_time": 1758079584,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62412,
       "num": 62412,
       "word": "内塔尼亚胡承认以色列受到了孤立",
@@ -1017,14 +1137,6 @@
       "onboard_time": 1758034708,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54684,
-      "num": 135009,
-      "word": "德国总理戴犹太小帽哽咽回忆纳粹罪行",
-      "onboard_time": 1758077844,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54462,
@@ -1115,6 +1227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 17201,
+      "num": 793058,
+      "word": "数字技术让文化遗产火起来",
+      "onboard_time": 1758079824,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16944,
       "num": 55215,
       "word": "绿电天路超级工程来了",
@@ -1158,6 +1278,9 @@
   "hotgov_list": [
     {
       "word": "#伟大复兴势不可挡#"
+    },
+    {
+      "word": "#从四大全球倡议看和平与发展#"
     }
   ]
 }

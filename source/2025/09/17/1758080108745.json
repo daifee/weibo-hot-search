@@ -1,0 +1,410 @@
+{
+  "runTime": 1758080108745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1244563,
+        "num": 1244563,
+        "word": "美国网球选手公开侮辱中国菜",
+        "onboard_time": 1758077244,
+        "rank": 0,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 829607,
+        "num": 829607,
+        "word": "聊斋",
+        "onboard_time": 1758076702,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17201,
+        "num": 793058,
+        "word": "数字技术让文化遗产火起来",
+        "onboard_time": 1758079824,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789097,
+        "num": 789097,
+        "word": "iPhone18Pro已打样",
+        "onboard_time": 1758075623,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 573616,
+        "num": 573616,
+        "word": "日本人吃预制菜五十年了",
+        "onboard_time": 1758075022,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 400010,
+        "num": 400010,
+        "word": "恋与深空",
+        "onboard_time": 1758079222,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 587503,
+        "num": 397988,
+        "word": "甘肃一高校疑有女生校内分娩",
+        "onboard_time": 1758065603,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393974,
+        "num": 393974,
+        "word": "日本人出1200万求购非遗面具被拒",
+        "onboard_time": 1758077064,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381322,
+        "num": 381322,
+        "word": "以色列遭高超音速弹道导弹袭击",
+        "onboard_time": 1758076763,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366764,
+        "num": 366764,
+        "word": "鲍蕾为了陆毅放弃事业",
+        "onboard_time": 1758075022,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493405,
+        "num": 366304,
+        "word": "汤森德吐槽中国菜后道歉",
+        "onboard_time": 1758078085,
+        "rank": 10,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 465959,
+        "num": 365717,
+        "word": "关晓彤28岁生日照",
+        "onboard_time": 1758065603,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364325,
+        "num": 364325,
+        "word": "涉毒艺人复出谁给开的绿灯",
+        "onboard_time": 1758068064,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337661,
+        "num": 337661,
+        "word": "00后女生追星频繁染发患肾病",
+        "onboard_time": 1758037586,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218807,
+        "num": 275745,
+        "word": "2025国庆档电影",
+        "onboard_time": 1758073224,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271619,
+        "num": 271619,
+        "word": "赴山海制作方的力道用错了地方",
+        "onboard_time": 1758072684,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245905,
+        "num": 245905,
+        "word": "阳光型抑郁",
+        "onboard_time": 1758068544,
+        "rank": 16,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 238312,
+        "num": 238312,
+        "word": "731",
+        "onboard_time": 1758073282,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223174,
+        "num": 223174,
+        "word": "刚升级iOS26的天都塌了",
+        "onboard_time": 1758077424,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190751,
+        "num": 221197,
+        "word": "严浩翔从小就听贺峻霖话",
+        "onboard_time": 1758079703,
+        "rank": 19,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 499830,
+        "num": 215614,
+        "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
+        "onboard_time": 1758076702,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307459,
+        "num": 214426,
+        "word": "祝绪丹 一问三不知",
+        "onboard_time": 1758077123,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303324,
+        "num": 209678,
+        "word": "女子点11.8元外卖菜品上被写脏话",
+        "onboard_time": 1758077664,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287604,
+        "num": 205187,
+        "word": "女厅官对省委原书记妻子唯命是从",
+        "onboard_time": 1758077364,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193374,
+        "num": 203789,
+        "word": "用美美桑内打开大学生的一天",
+        "onboard_time": 1758078923,
+        "rank": 24,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 200027,
+        "num": 200027,
+        "word": "日本网民呼吁731上映谁急了",
+        "onboard_time": 1758078023,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63670,
+        "num": 194306,
+        "word": "胡塞武装回应以色列袭击荷港",
+        "onboard_time": 1758079584,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191304,
+        "num": 191304,
+        "word": "相亲铁律",
+        "onboard_time": 1758078685,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190398,
+        "num": 190398,
+        "word": "桃厂给成毅安排了个莲花楼",
+        "onboard_time": 1758079644,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167157,
+        "num": 182120,
+        "word": "魏大勋眼技",
+        "onboard_time": 1758077364,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178349,
+        "num": 178349,
+        "word": "广州大熊猫最便宜5块一只",
+        "onboard_time": 1758069925,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170722,
+        "num": 170722,
+        "word": "从150斤瘦到110斤的真实感受",
+        "onboard_time": 1758079103,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43582,
+        "num": 165539,
+        "word": "原来真的有神兵天降",
+        "onboard_time": 1758068846,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162612,
+        "num": 162612,
+        "word": "iOS26液态玻璃效果可关闭",
+        "onboard_time": 1758079222,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152608,
+        "num": 152608,
+        "word": "网友抱怨侄子高中宿舍过于陈旧",
+        "onboard_time": 1758076524,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117048,
+        "num": 150694,
+        "word": "学校辟谣女生在宿舍分娩失血过多去世",
+        "onboard_time": 1758080001,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149820,
+        "num": 149820,
+        "word": "聊斋首发剧照",
+        "onboard_time": 1758079222,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146281,
+        "num": 146281,
+        "word": "男子在广东种出非洲猴面包树",
+        "onboard_time": 1758070825,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137695,
+        "num": 137695,
+        "word": "警方通报一女子假扮骑手卖惨诈骗",
+        "onboard_time": 1758063740,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67625,
+        "num": 136518,
+        "word": "柬埔寨诈骗团伙落网有33个韩国人",
+        "onboard_time": 1758079402,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136293,
+        "num": 136293,
+        "word": "加沙人问为何把孩子变成残肢断臂",
+        "onboard_time": 1758071665,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 132341,
+        "word": "韩红嘉宾林俊杰孙燕姿",
+        "onboard_time": 1758078443,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127516,
+        "num": 127516,
+        "word": "心动8让人头皮发麻的七分钟",
+        "onboard_time": 1758080001,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126878,
+        "num": 127378,
+        "word": "星品影响力",
+        "onboard_time": 1758078803,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127296,
+        "num": 127296,
+        "word": "空降兵15勇士惊天一跳再看依然震撼",
+        "onboard_time": 1758074902,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 127022,
+        "num": 127022,
+        "word": "终于知道为什么飞国外要提前3小时",
+        "onboard_time": 1758072202,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126900,
+        "num": 126900,
+        "word": "音乐缘计划",
+        "onboard_time": 1758076461,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122720,
+        "num": 122720,
+        "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
+        "onboard_time": 1758033630,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121453,
+        "num": 121453,
+        "word": "生逢其时祝关晓彤生日快乐",
+        "onboard_time": 1758078504,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118555,
+        "num": 118555,
+        "word": "德国总理戴犹太小帽哽咽回忆纳粹罪行",
+        "onboard_time": 1758077844,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#从四大全球倡议看和平与发展#"
+    }
+  }
+}
