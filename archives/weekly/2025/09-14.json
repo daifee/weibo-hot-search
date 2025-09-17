@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758091010482,
+  "endTime": 1758091795335,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 913297,
-      "num": 225421,
+      "num": 292255,
       "word": "田曦薇我生下来就是齐刘海",
       "onboard_time": 1758086723,
       "rank": 14,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 843533,
-      "num": 256920,
+      "num": 291395,
       "word": "被虐死女孩说的第一句话是叫爸爸",
       "onboard_time": 1758086004,
       "rank": 13,
@@ -2052,7 +2052,7 @@
     },
     {
       "raw_hot": 420703,
-      "num": 222498,
+      "num": 288762,
       "word": "陈若仪回应kimi不露脸原因",
       "onboard_time": 1758085584,
       "rank": 30,
@@ -2369,6 +2369,14 @@
       "onboard_time": 1757838503,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371684,
+      "num": 371684,
+      "word": "国庆放假去玩的嘴真严啊",
+      "onboard_time": 1758088764,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 367987,
@@ -2779,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310455,
+      "num": 263378,
+      "word": "陆虎送妹妹出嫁",
+      "onboard_time": 1758090625,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308760,
       "num": 308760,
       "word": "Bin 世界赛我们来了",
@@ -2843,12 +2859,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298824,
-      "num": 298824,
-      "word": "国庆放假去玩的嘴真严啊",
-      "onboard_time": 1758088764,
-      "rank": 6,
-      "category": "旅游"
+      "raw_hot": 297813,
+      "num": 297813,
+      "word": "上海冰雹",
+      "onboard_time": 1758088825,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297508,
+      "num": 297508,
+      "word": "桃黑黑盛世天下",
+      "onboard_time": 1758090202,
+      "rank": 8,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 296803,
@@ -2931,14 +2955,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 290889,
-      "num": 290889,
-      "word": "上海冰雹",
-      "onboard_time": 1758088825,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288492,
       "num": 288492,
       "word": "Gala高烧",
@@ -2953,6 +2969,14 @@
       "onboard_time": 1758077364,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 285522,
+      "num": 285522,
+      "word": "香蕉是一种攻击性很强的水果",
+      "onboard_time": 1758083005,
+      "rank": 26,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 285208,
@@ -3057,6 +3081,14 @@
       "onboard_time": 1757988081,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273335,
+      "num": 295317,
+      "word": "女子坠废井54小时还被几条蛇缠身",
+      "onboard_time": 1758091042,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271205,
@@ -3219,14 +3251,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 257192,
-      "num": 257192,
-      "word": "桃黑黑盛世天下",
-      "onboard_time": 1758090202,
-      "rank": 8,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 256639,
       "num": 256639,
       "word": "剧才播10集女主背后空无一人",
@@ -3313,14 +3337,6 @@
       "onboard_time": 1757999843,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251773,
-      "num": 217660,
-      "word": "香蕉是一种攻击性很强的水果",
-      "onboard_time": 1758083005,
-      "rank": 26,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 251126,
@@ -3867,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215306,
+      "num": 215306,
+      "word": "12306 我要回家",
+      "onboard_time": 1758089304,
+      "rank": 20,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 214322,
       "num": 214322,
       "word": "韦雪回应比杨幂好看",
@@ -4083,14 +4107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206252,
-      "num": 206252,
-      "word": "12306 我要回家",
-      "onboard_time": 1758089304,
-      "rank": 20,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 206060,
       "num": 206060,
       "word": "成毅10秒处这个连续翻转",
@@ -4100,7 +4116,7 @@
     },
     {
       "raw_hot": 205527,
-      "num": 207680,
+      "num": 268122,
       "word": "不眠日",
       "onboard_time": 1757956518,
       "rank": 49,
@@ -4177,6 +4193,14 @@
       "onboard_time": 1758023964,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202469,
+      "num": 285741,
+      "word": "赴山海 随时随地发现新剧本",
+      "onboard_time": 1758090985,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 202316,
@@ -4891,14 +4915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184745,
-      "num": 184745,
-      "word": "陆虎送妹妹出嫁",
-      "onboard_time": 1758090625,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "短剧仙剑三开机",
@@ -5499,6 +5515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167880,
+      "num": 167880,
+      "word": "不要当着手机面说换手机",
+      "onboard_time": 1758091283,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167747,
       "num": 167747,
       "word": "恩利到底喝了多少丝瓜汤",
@@ -5827,6 +5851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160815,
+      "num": 160815,
+      "word": "鱼没想到进化成这样还会被人类吃",
+      "onboard_time": 1758091223,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160774,
       "num": 160774,
       "word": "斗魂",
@@ -6091,6 +6123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155792,
+      "num": 275355,
+      "word": "没认出来这是王鹤润",
+      "onboard_time": 1758090863,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155657,
       "num": 155657,
       "word": "iG冒泡赛处境",
@@ -6121,6 +6161,14 @@
       "onboard_time": 1758011781,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155215,
+      "num": 151482,
+      "word": "张百乔瘦太多被姥姥带去看病",
+      "onboard_time": 1758090683,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 154915,
@@ -6265,6 +6313,14 @@
       "onboard_time": 1758086185,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151186,
+      "num": 151186,
+      "word": "上海小学生这吃的啥啊",
+      "onboard_time": 1758090625,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150680,
@@ -7155,12 +7211,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135163,
+      "num": 152261,
+      "word": "云南乳扇是分子料理界老祖宗",
+      "onboard_time": 1758091164,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135125,
       "num": 135125,
       "word": "原来菊花也能染色",
       "onboard_time": 1757865383,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 135105,
+      "num": 206374,
+      "word": "网红小黑妮结婚带货直播被封",
+      "onboard_time": 1758087685,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 134954,
@@ -7371,14 +7443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131293,
-      "num": 131293,
-      "word": "张百乔瘦太多被姥姥带去看病",
-      "onboard_time": 1758090683,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131272,
       "num": 149902,
       "word": "辛芷蕾的光影度假日记",
@@ -7393,14 +7457,6 @@
       "onboard_time": 1758080244,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 130972,
-      "num": 206374,
-      "word": "网红小黑妮结婚带货直播被封",
-      "onboard_time": 1758087685,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 130956,
@@ -8067,22 +8123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 119697,
-      "num": 119697,
-      "word": "上海小学生这吃的啥啊",
-      "onboard_time": 1758090625,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119556,
-      "num": 119556,
-      "word": "没认出来这是王鹤润",
-      "onboard_time": 1758090863,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119381,
       "num": 119381,
       "word": "关晓彤生日现身王牌录制",
@@ -8137,6 +8177,14 @@
       "onboard_time": 1757952922,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118679,
+      "num": 118679,
+      "word": "安卓要学iPhoneAir吗",
+      "onboard_time": 1758091403,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 118678,
@@ -8515,6 +8563,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 112386,
+      "num": 112386,
+      "word": "原来厨综难吃是可以直说的",
+      "onboard_time": 1758091523,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111975,
       "num": 344771,
       "word": "迪丽热巴反差感",
@@ -8673,6 +8729,14 @@
       "onboard_time": 1758012503,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109023,
+      "num": 109023,
+      "word": "预制菜已经发展到认不出来了",
+      "onboard_time": 1758091042,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 109018,
@@ -8907,14 +8971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105666,
-      "num": 105666,
-      "word": "赴山海 随时随地发现新剧本",
-      "onboard_time": 1758090985,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105475,
       "num": 105475,
       "word": "花380元就能实时监控陌生人卧室",
@@ -8953,6 +9009,22 @@
       "onboard_time": 1757932642,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104638,
+      "num": 104638,
+      "word": "张凌赫你让我们吃太好了",
+      "onboard_time": 1758091343,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104170,
+      "num": 104170,
+      "word": "狗 你可真是我的爪上明珠",
+      "onboard_time": 1758091523,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 103871,
@@ -9275,6 +9347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99571,
+      "num": 99571,
+      "word": "夫妻选车牌妻子随手摇出6666",
+      "onboard_time": 1758091762,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99551,
       "num": 99551,
       "word": "苏醒把披荆斩棘五公rap写完了",
@@ -9577,6 +9657,14 @@
       "onboard_time": 1757936063,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94184,
+      "num": 117364,
+      "word": "白敬亭剧宣带了一组啦啦队",
+      "onboard_time": 1758091403,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 93741,

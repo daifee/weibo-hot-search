@@ -1,0 +1,410 @@
+{
+  "runTime": 1758091795335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1368591,
+        "num": 1368591,
+        "word": "大二女生宿舍分娩到底谁的错",
+        "onboard_time": 1758084026,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1345939,
+        "num": 1345939,
+        "word": "清华学霸晒1.67亿元年薪引调查",
+        "onboard_time": 1758087324,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38273,
+        "num": 733738,
+        "word": "网警打掉侵犯公民信息违法犯罪团伙",
+        "onboard_time": 1758089664,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2285169,
+        "num": 685237,
+        "word": "关晓彤生日发文",
+        "onboard_time": 1758086963,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477993,
+        "num": 477993,
+        "word": "手部出现的3种癌症预警信号",
+        "onboard_time": 1758089304,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 371684,
+        "num": 371684,
+        "word": "国庆放假去玩的嘴真严啊",
+        "onboard_time": 1758088764,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 297813,
+        "num": 297813,
+        "word": "上海冰雹",
+        "onboard_time": 1758088825,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297508,
+        "num": 297508,
+        "word": "桃黑黑盛世天下",
+        "onboard_time": 1758090202,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 295602,
+        "num": 295602,
+        "word": "美国网球选手公开侮辱中国菜",
+        "onboard_time": 1758077244,
+        "rank": 8,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 273335,
+        "num": 295317,
+        "word": "女子坠废井54小时还被几条蛇缠身",
+        "onboard_time": 1758091042,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711399,
+        "num": 292255,
+        "word": "田曦薇我生下来就是齐刘海",
+        "onboard_time": 1758086723,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382936,
+        "num": 291395,
+        "word": "被虐死女孩说的第一句话是叫爸爸",
+        "onboard_time": 1758086004,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327808,
+        "num": 288762,
+        "word": "陈若仪回应kimi不露脸原因",
+        "onboard_time": 1758085584,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288045,
+        "num": 288045,
+        "word": "俞灏明王晓晨牵手逛街",
+        "onboard_time": 1758080964,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202469,
+        "num": 285741,
+        "word": "赴山海 随时随地发现新剧本",
+        "onboard_time": 1758090985,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201608,
+        "num": 285604,
+        "word": "赴山海品牌方发声",
+        "onboard_time": 1758083725,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285522,
+        "num": 285522,
+        "word": "香蕉是一种攻击性很强的水果",
+        "onboard_time": 1758083005,
+        "rank": 16,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 182324,
+        "num": 279138,
+        "word": "神似刘亦菲女生回应走红",
+        "onboard_time": 1758081386,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155792,
+        "num": 275355,
+        "word": "没认出来这是王鹤润",
+        "onboard_time": 1758090863,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137872,
+        "num": 268122,
+        "word": "不眠日",
+        "onboard_time": 1758085644,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310455,
+        "num": 263378,
+        "word": "陆虎送妹妹出嫁",
+        "onboard_time": 1758090625,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259102,
+        "num": 259102,
+        "word": "简历唯独不可以是pdf",
+        "onboard_time": 1758082284,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215306,
+        "num": 215306,
+        "word": "12306 我要回家",
+        "onboard_time": 1758089304,
+        "rank": 22,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 189652,
+        "num": 189652,
+        "word": "iPhone18Pro已打样",
+        "onboard_time": 1758075623,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179812,
+        "num": 179812,
+        "word": "婆媳最好的关系是没关系",
+        "onboard_time": 1758088944,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167880,
+        "num": 167880,
+        "word": "不要当着手机面说换手机",
+        "onboard_time": 1758091283,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160815,
+        "num": 160815,
+        "word": "鱼没想到进化成这样还会被人类吃",
+        "onboard_time": 1758091223,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153762,
+        "num": 153762,
+        "word": "西贝门店回应有顾客公筷喂狗",
+        "onboard_time": 1758087145,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135163,
+        "num": 152261,
+        "word": "云南乳扇是分子料理界老祖宗",
+        "onboard_time": 1758091164,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105641,
+        "num": 151483,
+        "word": "女厅官对省委原书记妻子唯命是从",
+        "onboard_time": 1758077364,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155215,
+        "num": 151482,
+        "word": "张百乔瘦太多被姥姥带去看病",
+        "onboard_time": 1758090683,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151186,
+        "num": 151186,
+        "word": "上海小学生这吃的啥啊",
+        "onboard_time": 1758090625,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143150,
+        "num": 143150,
+        "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
+        "onboard_time": 1758076702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135105,
+        "num": 135105,
+        "word": "网红小黑妮结婚带货直播被封",
+        "onboard_time": 1758087685,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122394,
+        "num": 122394,
+        "word": "人才补贴拖欠",
+        "onboard_time": 1758087385,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120926,
+        "num": 120926,
+        "word": "日本人吃预制菜五十年了",
+        "onboard_time": 1758075022,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118679,
+        "num": 118679,
+        "word": "安卓要学iPhoneAir吗",
+        "onboard_time": 1758091403,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118413,
+        "num": 118413,
+        "word": "李兰迪 你赶紧上学吧",
+        "onboard_time": 1758085164,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94184,
+        "num": 117364,
+        "word": "白敬亭剧宣带了一组啦啦队",
+        "onboard_time": 1758091403,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117162,
+        "num": 117162,
+        "word": "给不会修眉的人一点震撼",
+        "onboard_time": 1758085524,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 116591,
+        "num": 116591,
+        "word": "关晓彤生日现身王牌录制",
+        "onboard_time": 1758089963,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112386,
+        "num": 112386,
+        "word": "原来厨综难吃是可以直说的",
+        "onboard_time": 1758091523,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110561,
+        "num": 110561,
+        "word": "星品影响力",
+        "onboard_time": 1758078803,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109946,
+        "num": 109946,
+        "word": "王鹤棣缺席美食大赛评委或因避嫌",
+        "onboard_time": 1758086185,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109023,
+        "num": 109023,
+        "word": "预制菜已经发展到认不出来了",
+        "onboard_time": 1758091042,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104638,
+        "num": 104638,
+        "word": "张凌赫你让我们吃太好了",
+        "onboard_time": 1758091343,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104170,
+        "num": 104170,
+        "word": "狗 你可真是我的爪上明珠",
+        "onboard_time": 1758091523,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103696,
+        "num": 103696,
+        "word": "汤森德吐槽中国菜后道歉",
+        "onboard_time": 1758078085,
+        "rank": 47,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 102970,
+        "num": 102970,
+        "word": "华为发布十大技术趋势",
+        "onboard_time": 1758090803,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99571,
+        "num": 99571,
+        "word": "夫妻选车牌妻子随手摇出6666",
+        "onboard_time": 1758091762,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从四大全球倡议看和平与发展#"
+    }
+  }
+}
