@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758093825147,
+  "endTime": 1758094631899,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 729256,
+      "num": 1116681,
+      "word": "赴山海 随时随地发现新剧本",
+      "onboard_time": 1758090985,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 725261,
       "num": 353552,
       "word": "00后女生追星频繁染发患肾病",
@@ -177,14 +185,6 @@
       "onboard_time": 1758082284,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 625955,
-      "num": 625955,
-      "word": "赴山海 随时随地发现新剧本",
-      "onboard_time": 1758090985,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 587695,
@@ -219,12 +219,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533052,
+      "num": 533052,
+      "word": "黑色版iPhone17Pro",
+      "onboard_time": 1758091884,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 513334,
       "num": 513334,
       "word": "神似刘亦菲女生回应走红",
       "onboard_time": 1758081386,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 502636,
+      "num": 483695,
+      "word": "GAI算不算透露说唱圈内幕了",
+      "onboard_time": 1758092542,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 502370,
@@ -243,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 495394,
-      "num": 495394,
-      "word": "黑色版iPhone17Pro",
-      "onboard_time": 1758091884,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 489837,
       "num": 489837,
       "word": "赴山海制作方的力道用错了地方",
@@ -264,14 +272,6 @@
       "word": "金世佳手拉手接儿子放学",
       "onboard_time": 1758080964,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 483695,
-      "num": 483695,
-      "word": "GAI算不算透露说唱圈内幕了",
-      "onboard_time": 1758092542,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -475,6 +475,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 294893,
+      "num": 216950,
+      "word": "林依晨产后3个月就复工",
+      "onboard_time": 1758093503,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291209,
       "num": 219030,
       "word": "鹿晗 邪恶银渐层",
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251343,
+      "num": 216836,
+      "word": "韩方授予4名中国海警荣誉称号",
+      "onboard_time": 1758093324,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 246045,
       "num": 218107,
       "word": "杨幂 谢谢大家参加我的四十大寿",
@@ -587,8 +603,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215306,
-      "num": 215306,
+      "raw_hot": 218919,
+      "num": 218919,
+      "word": "降息",
+      "onboard_time": 1758093862,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 216435,
+      "num": 216435,
       "word": "12306 我要回家",
       "onboard_time": 1758089304,
       "rank": 20,
@@ -755,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180225,
+      "num": 151550,
+      "word": "iPhone手机可以用多少年",
+      "onboard_time": 1758093204,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 179882,
       "num": 179882,
       "word": "深圳冷门兼职日薪2000元",
@@ -793,6 +825,14 @@
       "onboard_time": 1758084505,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174859,
+      "num": 174859,
+      "word": "岳云鹏曾因6块钱被骂了3小时",
+      "onboard_time": 1758093444,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 173706,
@@ -851,12 +891,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167284,
-      "num": 167284,
-      "word": "林依晨产后3个月就复工",
-      "onboard_time": 1758093503,
+      "raw_hot": 167309,
+      "num": 167309,
+      "word": "杨超越王牌路透我的阿奴来了",
+      "onboard_time": 1758094044,
       "rank": 25,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 167157,
@@ -907,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159967,
+      "num": 233342,
+      "word": "iOS26续航",
+      "onboard_time": 1758093383,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159775,
       "num": 216766,
       "word": "迪丽热巴蓝白镂空高定裙",
@@ -921,6 +969,14 @@
       "onboard_time": 1758081323,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158521,
+      "num": 158521,
+      "word": "龚俊 一个本身就很好的人",
+      "onboard_time": 1758093324,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 155992,
@@ -953,14 +1009,6 @@
       "onboard_time": 1758083005,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151550,
-      "num": 151550,
-      "word": "iPhone手机可以用多少年",
-      "onboard_time": 1758093204,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 151202,
@@ -1019,7 +1067,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144918,
+      "raw_hot": 145173,
       "num": 167230,
       "word": "陈小纭红嫁衣造型太对味了",
       "onboard_time": 1758092542,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1758083666,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139636,
+      "num": 139636,
+      "word": "中粮资本涨停",
+      "onboard_time": 1758094402,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 138572,
@@ -1155,14 +1211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 132831,
-      "num": 132831,
-      "word": "岳云鹏曾因6块钱被骂了3小时",
-      "onboard_time": 1758093444,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132478,
       "num": 220600,
       "word": "安踏通报一总裁级人员涉嫌违法",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1758068786,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130432,
+      "num": 130432,
+      "word": "年少时的旅行比黄金还珍贵",
+      "onboard_time": 1758093743,
+      "rank": 37,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 130211,
@@ -1291,16 +1347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122500,
-      "num": 122500,
-      "word": "龚俊 一个本身就很好的人",
-      "onboard_time": 1758093324,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122227,
-      "num": 122227,
+      "num": 316901,
       "word": "普京身着军装出席军演",
       "onboard_time": 1758085344,
       "rank": 47,
@@ -1323,20 +1371,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121393,
-      "num": 121393,
-      "word": "年少时的旅行比黄金还珍贵",
-      "onboard_time": 1758093743,
-      "rank": 37,
-      "category": "情感,旅游"
-    },
-    {
       "raw_hot": 120344,
       "num": 120344,
       "word": "刘翔的含金量还在上升",
       "onboard_time": 1758069024,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120274,
+      "num": 120274,
+      "word": "刘宇宁没体面点的上班方式吗",
+      "onboard_time": 1758094343,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 119381,
@@ -1411,6 +1459,14 @@
       "category": "体育,海外新闻"
     },
     {
+      "raw_hot": 116447,
+      "num": 116447,
+      "word": "月薪3万的月嫂一天做我一辈子的家务",
+      "onboard_time": 1758093683,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116371,
       "num": 116371,
       "word": "人生大事全部体验完的35岁",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1758089844,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 112059,
+      "num": 112059,
+      "word": "2025ASI亚洲邀请赛官宣",
+      "onboard_time": 1758093803,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 111056,
@@ -1555,28 +1619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104581,
-      "num": 158357,
-      "word": "韩方授予4名中国海警荣誉称号",
-      "onboard_time": 1758093324,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 104170,
       "num": 104170,
       "word": "狗 你可真是我的爪上明珠",
       "onboard_time": 1758091523,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104014,
-      "num": 104014,
-      "word": "月薪3万的月嫂一天做我一辈子的家务",
-      "onboard_time": 1758093683,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 102979,
@@ -1633,14 +1681,6 @@
       "onboard_time": 1758010462,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97462,
-      "num": 97462,
-      "word": "2025ASI亚洲邀请赛官宣",
-      "onboard_time": 1758093803,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 96960,
@@ -1859,6 +1899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72791,
+      "num": 130458,
+      "word": "章若楠蛋卷头造型",
+      "onboard_time": 1758094402,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71999,
       "num": 210401,
       "word": "韦雪约会迟到被罚44杯酒",
@@ -1873,14 +1921,6 @@
       "onboard_time": 1758021022,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70618,
-      "num": 233342,
-      "word": "iOS26续航",
-      "onboard_time": 1758093383,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 70581,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1758082946,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60555,
+      "num": 130499,
+      "word": "14岁安吉身高超过180cm",
+      "onboard_time": 1758093924,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 60350,
@@ -2131,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42067,
+      "num": 130441,
+      "word": "女孩离家称给警察2天破案",
+      "onboard_time": 1758093862,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35544,
       "num": 46374,
       "word": "迪丽热巴女王变女孩太有生命力了",
@@ -2201,6 +2257,14 @@
       "onboard_time": 1758051615,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11503,
+      "num": 154755,
+      "word": "疑雇佣残障人员山西砖厂正接受调查",
+      "onboard_time": 1758094462,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10844,

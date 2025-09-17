@@ -1,0 +1,410 @@
+{
+  "runTime": 1758094631899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 729256,
+        "num": 1116681,
+        "word": "赴山海 随时随地发现新剧本",
+        "onboard_time": 1758090985,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533052,
+        "num": 533052,
+        "word": "黑色版iPhone17Pro",
+        "onboard_time": 1758091884,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43453,
+        "num": 409539,
+        "word": "网警打掉侵犯公民信息违法犯罪团伙",
+        "onboard_time": 1758089664,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800213,
+        "num": 406707,
+        "word": "女子坠废井54小时还被几条蛇缠身",
+        "onboard_time": 1758091042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403136,
+        "num": 403136,
+        "word": "国庆放假去玩的嘴真严啊",
+        "onboard_time": 1758088764,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 981846,
+        "num": 365620,
+        "word": "清华学霸晒1.67亿元年薪引调查",
+        "onboard_time": 1758087324,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1786410,
+        "num": 364478,
+        "word": "关晓彤生日发文",
+        "onboard_time": 1758086963,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502636,
+        "num": 360487,
+        "word": "GAI算不算透露说唱圈内幕了",
+        "onboard_time": 1758092542,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317626,
+        "num": 317626,
+        "word": "桃黑黑盛世天下",
+        "onboard_time": 1758090202,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 46698,
+        "num": 316901,
+        "word": "普京身着军装出席军演",
+        "onboard_time": 1758085344,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1148238,
+        "num": 296906,
+        "word": "大二女生宿舍分娩到底谁的错",
+        "onboard_time": 1758084026,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575549,
+        "num": 289935,
+        "word": "田曦薇我生下来就是齐刘海",
+        "onboard_time": 1758086723,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430572,
+        "num": 280817,
+        "word": "香蕉是一种攻击性很强的水果",
+        "onboard_time": 1758083005,
+        "rank": 12,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 348498,
+        "num": 261324,
+        "word": "手部出现的3种癌症预警信号",
+        "onboard_time": 1758089304,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256730,
+        "num": 256730,
+        "word": "喜人奇妙夜2冠军回归",
+        "onboard_time": 1758092723,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248137,
+        "num": 248137,
+        "word": "上海冰雹",
+        "onboard_time": 1758088825,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234622,
+        "num": 234622,
+        "word": "俞灏明王晓晨牵手逛街",
+        "onboard_time": 1758080964,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224340,
+        "num": 224340,
+        "word": "陈若仪回应kimi不露脸原因",
+        "onboard_time": 1758085584,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218919,
+        "num": 218919,
+        "word": "降息",
+        "onboard_time": 1758093862,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217410,
+        "num": 217410,
+        "word": "简历唯独不可以是pdf",
+        "onboard_time": 1758082284,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294893,
+        "num": 216950,
+        "word": "林依晨产后3个月就复工",
+        "onboard_time": 1758093503,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251343,
+        "num": 216836,
+        "word": "韩方授予4名中国海警荣誉称号",
+        "onboard_time": 1758093324,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216435,
+        "num": 216435,
+        "word": "12306 我要回家",
+        "onboard_time": 1758089304,
+        "rank": 22,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 182814,
+        "num": 182814,
+        "word": "美国网球选手公开侮辱中国菜",
+        "onboard_time": 1758077244,
+        "rank": 23,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 174859,
+        "num": 174859,
+        "word": "岳云鹏曾因6块钱被骂了3小时",
+        "onboard_time": 1758093444,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167309,
+        "num": 167309,
+        "word": "杨超越王牌路透我的阿奴来了",
+        "onboard_time": 1758094044,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159435,
+        "num": 159435,
+        "word": "没认出来这是王鹤润",
+        "onboard_time": 1758090863,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158521,
+        "num": 158521,
+        "word": "龚俊 一个本身就很好的人",
+        "onboard_time": 1758093324,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159967,
+        "num": 158041,
+        "word": "iOS26续航",
+        "onboard_time": 1758093383,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11503,
+        "num": 154755,
+        "word": "疑雇佣残障人员山西砖厂正接受调查",
+        "onboard_time": 1758094462,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274982,
+        "num": 153480,
+        "word": "日本皇室独苗曝爱吃垃圾食品",
+        "onboard_time": 1758093024,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180225,
+        "num": 151269,
+        "word": "iPhone手机可以用多少年",
+        "onboard_time": 1758093204,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159955,
+        "num": 150800,
+        "word": "上海小学生这吃的啥啊",
+        "onboard_time": 1758090625,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149038,
+        "num": 149038,
+        "word": "陆虎送妹妹出嫁",
+        "onboard_time": 1758090625,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145173,
+        "num": 145173,
+        "word": "陈小纭红嫁衣造型太对味了",
+        "onboard_time": 1758092542,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107595,
+        "num": 140031,
+        "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
+        "onboard_time": 1758076702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139636,
+        "num": 139636,
+        "word": "中粮资本涨停",
+        "onboard_time": 1758094402,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132985,
+        "num": 132985,
+        "word": "婆媳最好的关系是没关系",
+        "onboard_time": 1758088944,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60555,
+        "num": 130499,
+        "word": "14岁安吉身高超过180cm",
+        "onboard_time": 1758093924,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72791,
+        "num": 130458,
+        "word": "章若楠蛋卷头造型",
+        "onboard_time": 1758094402,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42067,
+        "num": 130441,
+        "word": "女孩离家称给警察2天破案",
+        "onboard_time": 1758093862,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130432,
+        "num": 130432,
+        "word": "年少时的旅行比黄金还珍贵",
+        "onboard_time": 1758093743,
+        "rank": 41,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 125619,
+        "num": 125619,
+        "word": "神似刘亦菲女生回应走红",
+        "onboard_time": 1758081386,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123430,
+        "num": 123430,
+        "word": "张百乔瘦太多被姥姥带去看病",
+        "onboard_time": 1758090683,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120274,
+        "num": 120274,
+        "word": "刘宇宁没体面点的上班方式吗",
+        "onboard_time": 1758094343,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116447,
+        "num": 116447,
+        "word": "月薪3万的月嫂一天做我一辈子的家务",
+        "onboard_time": 1758093683,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112059,
+        "num": 112059,
+        "word": "2025ASI亚洲邀请赛官宣",
+        "onboard_time": 1758093803,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109597,
+        "num": 109597,
+        "word": "人生大事全部体验完的35岁",
+        "onboard_time": 1758093324,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108423,
+        "num": 108423,
+        "word": "iPhone18Pro已打样",
+        "onboard_time": 1758075623,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108163,
+        "num": 108163,
+        "word": "夫妻选车牌妻子随手摇出6666",
+        "onboard_time": 1758091762,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从四大全球倡议看和平与发展#"
+    }
+  }
+}

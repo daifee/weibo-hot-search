@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758093825147,
+  "endTime": 1758094631899,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4811,6 +4811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 729256,
+      "num": 1116681,
+      "word": "赴山海 随时随地发现新剧本",
+      "onboard_time": 1758090985,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 728532,
       "num": 427133,
       "word": "其实焦虑症是长期恐惧导致的神经疲劳",
@@ -5785,14 +5793,6 @@
       "onboard_time": 1757245460,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 625955,
-      "num": 625955,
-      "word": "赴山海 随时随地发现新剧本",
-      "onboard_time": 1758090985,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 625540,
@@ -7067,6 +7067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 533052,
+      "num": 533052,
+      "word": "黑色版iPhone17Pro",
+      "onboard_time": 1758091884,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 532959,
       "num": 561333,
       "word": "宋雨琦王安宇排名暴涨",
@@ -7555,6 +7563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 502636,
+      "num": 483695,
+      "word": "GAI算不算透露说唱圈内幕了",
+      "onboard_time": 1758092542,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502451,
       "num": 502451,
       "word": "黄奕10年救助2000多个孩子",
@@ -7697,14 +7713,6 @@
       "onboard_time": 1757994745,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 495394,
-      "num": 495394,
-      "word": "黑色版iPhone17Pro",
-      "onboard_time": 1758091884,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 494925,
@@ -7969,14 +7977,6 @@
       "onboard_time": 1756789882,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 483695,
-      "num": 483695,
-      "word": "GAI算不算透露说唱圈内幕了",
-      "onboard_time": 1758092542,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 483135,
@@ -13203,6 +13203,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 294893,
+      "num": 216950,
+      "word": "林依晨产后3个月就复工",
+      "onboard_time": 1758093503,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294701,
       "num": 268106,
       "word": "宋祖儿丁禹兮同框",
@@ -14945,6 +14953,14 @@
       "onboard_time": 1757467523,
       "rank": 18,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 251343,
+      "num": 216836,
+      "word": "韩方授予4名中国海警荣誉称号",
+      "onboard_time": 1758093324,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 251310,
@@ -16915,6 +16931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218919,
+      "num": 218919,
+      "word": "降息",
+      "onboard_time": 1758093862,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218844,
       "num": 197502,
       "word": "心动offer真的给我打电话了",
@@ -17091,6 +17115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216435,
+      "num": 216435,
+      "word": "12306 我要回家",
+      "onboard_time": 1758089304,
+      "rank": 20,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 216347,
       "num": 242702,
       "word": "初中生偷转父母37万元充值游戏",
@@ -17145,14 +17177,6 @@
       "onboard_time": 1757901381,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215306,
-      "num": 215306,
-      "word": "12306 我要回家",
-      "onboard_time": 1758089304,
-      "rank": 20,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 215304,
@@ -21915,6 +21939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180225,
+      "num": 151550,
+      "word": "iPhone手机可以用多少年",
+      "onboard_time": 1758093204,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 180135,
       "num": 180135,
       "word": "不为人知的故事官宣",
@@ -22553,6 +22585,14 @@
       "onboard_time": 1757841743,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174859,
+      "num": 174859,
+      "word": "岳云鹏曾因6块钱被骂了3小时",
+      "onboard_time": 1758093444,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 174809,
@@ -23899,20 +23939,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167309,
+      "num": 167309,
+      "word": "杨超越王牌路透我的阿奴来了",
+      "onboard_time": 1758094044,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167293,
       "num": 178939,
       "word": "女子花1300吃日料剩了10片刺身被索赔",
       "onboard_time": 1757483363,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167284,
-      "num": 167284,
-      "word": "林依晨产后3个月就复工",
-      "onboard_time": 1758093503,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 167221,
@@ -25395,6 +25435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159967,
+      "num": 233342,
+      "word": "iOS26续航",
+      "onboard_time": 1758093383,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159959,
       "num": 159959,
       "word": "巴黎迪士尼玩偶故意忽视小女孩儿",
@@ -25713,6 +25761,14 @@
       "onboard_time": 1756809741,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 158521,
+      "num": 158521,
+      "word": "龚俊 一个本身就很好的人",
+      "onboard_time": 1758093324,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 158434,
@@ -27001,14 +27057,6 @@
       "onboard_time": 1757572061,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151550,
-      "num": 151550,
-      "word": "iPhone手机可以用多少年",
-      "onboard_time": 1758093204,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 151520,
@@ -28627,6 +28675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145173,
+      "num": 167230,
+      "word": "陈小纭红嫁衣造型太对味了",
+      "onboard_time": 1758092542,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145158,
       "num": 145158,
       "word": "蔡徐坤 谁在纽约",
@@ -28689,14 +28745,6 @@
       "onboard_time": 1756980561,
       "rank": 26,
       "category": "游戏,数码"
-    },
-    {
-      "raw_hot": 144918,
-      "num": 167230,
-      "word": "陈小纭红嫁衣造型太对味了",
-      "onboard_time": 1758092542,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 144915,
@@ -30041,6 +30089,14 @@
       "onboard_time": 1757591805,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139636,
+      "num": 139636,
+      "word": "中粮资本涨停",
+      "onboard_time": 1758094402,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 139633,
@@ -31915,14 +31971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 132831,
-      "num": 132831,
-      "word": "岳云鹏曾因6块钱被骂了3小时",
-      "onboard_time": 1758093444,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132819,
       "num": 132819,
       "word": "王影璐给献鱼编了番外",
@@ -32545,6 +32593,14 @@
       "onboard_time": 1757907803,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130432,
+      "num": 130432,
+      "word": "年少时的旅行比黄金还珍贵",
+      "onboard_time": 1758093743,
+      "rank": 37,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 130428,
@@ -34771,14 +34827,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122500,
-      "num": 122500,
-      "word": "龚俊 一个本身就很好的人",
-      "onboard_time": 1758093324,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122496,
       "num": 122496,
       "word": "易烊千玺演唱会一片星河",
@@ -34884,7 +34932,7 @@
     },
     {
       "raw_hot": 122227,
-      "num": 122227,
+      "num": 316901,
       "word": "普京身着军装出席军演",
       "onboard_time": 1758085344,
       "rank": 47,
@@ -35145,14 +35193,6 @@
       "onboard_time": 1757779344,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121393,
-      "num": 121393,
-      "word": "年少时的旅行比黄金还珍贵",
-      "onboard_time": 1758093743,
-      "rank": 37,
-      "category": "情感,旅游"
     },
     {
       "raw_hot": 121369,
@@ -35425,6 +35465,14 @@
       "onboard_time": 1758069024,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120274,
+      "num": 120274,
+      "word": "刘宇宁没体面点的上班方式吗",
+      "onboard_time": 1758094343,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 120201,
@@ -36496,6 +36544,14 @@
       "word": "原来这叫拧巴啊",
       "onboard_time": 1757830224,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 116447,
+      "num": 116447,
+      "word": "月薪3万的月嫂一天做我一辈子的家务",
+      "onboard_time": 1758093683,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -37761,6 +37817,14 @@
       "onboard_time": 1756701202,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112059,
+      "num": 112059,
+      "word": "2025ASI亚洲邀请赛官宣",
+      "onboard_time": 1758093803,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 112002,
@@ -40091,14 +40155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104581,
-      "num": 158357,
-      "word": "韩方授予4名中国海警荣誉称号",
-      "onboard_time": 1758093324,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 104576,
       "num": 104576,
       "word": "使用司美格鲁肽可能发生的不良反应",
@@ -40209,14 +40265,6 @@
       "onboard_time": 1757597135,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104014,
-      "num": 104014,
-      "word": "月薪3万的月嫂一天做我一辈子的家务",
-      "onboard_time": 1758093683,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 103943,
@@ -42049,14 +42097,6 @@
       "onboard_time": 1757743406,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97462,
-      "num": 97462,
-      "word": "2025ASI亚洲邀请赛官宣",
-      "onboard_time": 1758093803,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 97448,
@@ -46691,6 +46731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72791,
+      "num": 130458,
+      "word": "章若楠蛋卷头造型",
+      "onboard_time": 1758094402,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72778,
       "num": 173774,
       "word": "蛋仔派对",
@@ -47017,14 +47065,6 @@
       "onboard_time": 1758025706,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70618,
-      "num": 233342,
-      "word": "iOS26续航",
-      "onboard_time": 1758093383,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 70604,
@@ -48241,6 +48281,14 @@
       "onboard_time": 1757338582,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60555,
+      "num": 130499,
+      "word": "14岁安吉身高超过180cm",
+      "onboard_time": 1758093924,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 60548,
@@ -50665,6 +50713,14 @@
       "onboard_time": 1757522778,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42067,
+      "num": 130441,
+      "word": "女孩离家称给警察2天破案",
+      "onboard_time": 1758093862,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42028,
@@ -53832,6 +53888,14 @@
       "word": "年龄不是免责金牌",
       "onboard_time": 1757655087,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11503,
+      "num": 154755,
+      "word": "疑雇佣残障人员山西砖厂正接受调查",
+      "onboard_time": 1758094462,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
