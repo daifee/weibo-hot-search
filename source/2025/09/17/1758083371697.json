@@ -1,0 +1,410 @@
+{
+  "runTime": 1758083371697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1675596,
+        "num": 1675596,
+        "word": "美国网球选手公开侮辱中国菜",
+        "onboard_time": 1758077244,
+        "rank": 0,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 953093,
+        "num": 953093,
+        "word": "聊斋",
+        "onboard_time": 1758076702,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46858,
+        "num": 835120,
+        "word": "数字技术让文化遗产火起来",
+        "onboard_time": 1758079824,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805559,
+        "num": 805559,
+        "word": "汤森德吐槽中国菜后道歉",
+        "onboard_time": 1758078085,
+        "rank": 3,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 468190,
+        "num": 468190,
+        "word": "日本人吃预制菜五十年了",
+        "onboard_time": 1758075022,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 464956,
+        "num": 464956,
+        "word": "iPhone18Pro已打样",
+        "onboard_time": 1758075623,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 420913,
+        "num": 420913,
+        "word": "以色列遭高超音速弹道导弹袭击",
+        "onboard_time": 1758076763,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379046,
+        "num": 379046,
+        "word": "神似刘亦菲女生回应走红",
+        "onboard_time": 1758081386,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 374960,
+        "num": 374960,
+        "word": "日本人出1200万求购非遗面具被拒",
+        "onboard_time": 1758077064,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328771,
+        "num": 370885,
+        "word": "2025国庆档电影",
+        "onboard_time": 1758073224,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1221125,
+        "num": 360641,
+        "word": "俞灏明王晓晨牵手逛街",
+        "onboard_time": 1758080964,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389622,
+        "num": 355131,
+        "word": "关晓彤28岁生日照",
+        "onboard_time": 1758065603,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389393,
+        "num": 336418,
+        "word": "甘肃一高校疑有女生校内分娩",
+        "onboard_time": 1758065603,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336290,
+        "num": 336290,
+        "word": "刚升级iOS26的天都塌了",
+        "onboard_time": 1758077424,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286348,
+        "num": 286348,
+        "word": "金世佳手拉手接儿子放学",
+        "onboard_time": 1758080964,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278937,
+        "num": 278937,
+        "word": "学校辟谣女生在宿舍分娩失血过多去世",
+        "onboard_time": 1758080001,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267246,
+        "num": 267246,
+        "word": "涉毒艺人复出谁给开的绿灯",
+        "onboard_time": 1758068064,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223482,
+        "num": 265514,
+        "word": "赴山海制作方的力道用错了地方",
+        "onboard_time": 1758072684,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47489,
+        "num": 256095,
+        "word": "特朗普问记者你哪家媒体",
+        "onboard_time": 1758082946,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44828,
+        "num": 250242,
+        "word": "周轶君站在雁门关回望历史",
+        "onboard_time": 1758081925,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135605,
+        "num": 248161,
+        "word": "德国总理戴犹太小帽",
+        "onboard_time": 1758082045,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 392230,
+        "num": 239016,
+        "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
+        "onboard_time": 1758076702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328889,
+        "num": 236805,
+        "word": "女子点11.8元外卖菜品上被写脏话",
+        "onboard_time": 1758077664,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232971,
+        "num": 232971,
+        "word": "女厅官对省委原书记妻子唯命是从",
+        "onboard_time": 1758077364,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176970,
+        "num": 227860,
+        "word": "严浩翔从小就听贺峻霖话",
+        "onboard_time": 1758079703,
+        "rank": 24,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 224970,
+        "num": 224970,
+        "word": "宋祖儿说姥姥就此别过",
+        "onboard_time": 1758082463,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216516,
+        "num": 216516,
+        "word": "祝绪丹 一问三不知",
+        "onboard_time": 1758077123,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211252,
+        "num": 211252,
+        "word": "恋与深空无人知晓时",
+        "onboard_time": 1758081684,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209996,
+        "num": 209996,
+        "word": "00后女生追星频繁染发患肾病",
+        "onboard_time": 1758037586,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59314,
+        "num": 209760,
+        "word": "肖战每个物料都是视听盛宴",
+        "onboard_time": 1758081804,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253775,
+        "num": 209737,
+        "word": "简历唯独不可以是pdf",
+        "onboard_time": 1758082284,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209659,
+        "num": 209659,
+        "word": "从150斤瘦到110斤的真实感受",
+        "onboard_time": 1758079103,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179181,
+        "num": 179181,
+        "word": "魔法公主的小烦恼定档",
+        "onboard_time": 1758082884,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176051,
+        "num": 176051,
+        "word": "杨洋包场白敬亭不眠日",
+        "onboard_time": 1758083005,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49095,
+        "num": 173935,
+        "word": "特朗普访英引发民众抗议",
+        "onboard_time": 1758072923,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154335,
+        "num": 173366,
+        "word": "薛之谦加盟音乐缘计划2",
+        "onboard_time": 1758082164,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "日本网民呼吁731上映谁急了",
+        "onboard_time": 1758078023,
+        "rank": 36,
+        "category": "海外新闻,电影"
+      },
+      {
+        "raw_hot": 167895,
+        "num": 167895,
+        "word": "相亲铁律",
+        "onboard_time": 1758078685,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99799,
+        "num": 160017,
+        "word": "迪丽热巴这是看到美女了",
+        "onboard_time": 1758082825,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22893,
+        "num": 159264,
+        "word": "快递员撞人致死公司被判赔200余万",
+        "onboard_time": 1758083186,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158843,
+        "num": 158843,
+        "word": "泽连斯基 普京可以来但我不会去",
+        "onboard_time": 1758081323,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155751,
+        "num": 155751,
+        "word": "翻到2014年的外卖物价",
+        "onboard_time": 1758079944,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153922,
+        "num": 153922,
+        "word": "台风",
+        "onboard_time": 1758083005,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149887,
+        "num": 149887,
+        "word": "普通人看病的最大人脉",
+        "onboard_time": 1758080843,
+        "rank": 43,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 147247,
+        "num": 147247,
+        "word": "种地星球直播",
+        "onboard_time": 1758081984,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139055,
+        "num": 139055,
+        "word": "恋与深空",
+        "onboard_time": 1758079222,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136600,
+        "num": 136600,
+        "word": "警方通报一女子假扮骑手卖惨诈骗",
+        "onboard_time": 1758063740,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131676,
+        "num": 131676,
+        "word": "鲍蕾为了陆毅放弃事业",
+        "onboard_time": 1758075022,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128804,
+        "num": 128804,
+        "word": "特朗普第4次延长TikTok禁令宽限期",
+        "onboard_time": 1758083304,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128775,
+        "num": 128775,
+        "word": "心动8让人头皮发麻的七分钟",
+        "onboard_time": 1758080001,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从四大全球倡议看和平与发展#"
+    }
+  }
+}

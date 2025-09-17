@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758080733614,
+  "endTime": 1758083371697,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -19,12 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1303808,
-      "num": 1303808,
+      "raw_hot": 1675596,
+      "num": 1675596,
       "word": "美国网球选手公开侮辱中国菜",
       "onboard_time": 1758077244,
       "rank": 10,
       "category": "体育,海外新闻"
+    },
+    {
+      "raw_hot": 1221125,
+      "num": 360641,
+      "word": "俞灏明王晓晨牵手逛街",
+      "onboard_time": 1758080964,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1081734,
@@ -35,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953093,
+      "num": 953093,
+      "word": "聊斋",
+      "onboard_time": 1758076702,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 928643,
       "num": 225431,
       "word": "于朦胧坠亡事件流言应止于真相",
       "onboard_time": 1758034408,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 927050,
-      "num": 927050,
-      "word": "聊斋",
-      "onboard_time": 1758076702,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 899119,
@@ -65,6 +73,14 @@
       "onboard_time": 1758075623,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 805559,
+      "num": 805559,
+      "word": "汤森德吐槽中国菜后道歉",
+      "onboard_time": 1758078085,
+      "rank": 30,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 792679,
@@ -107,14 +123,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 627014,
-      "num": 366304,
-      "word": "汤森德吐槽中国菜后道歉",
-      "onboard_time": 1758078085,
-      "rank": 30,
-      "category": "体育,海外新闻"
-    },
-    {
       "raw_hot": 587695,
       "num": 587695,
       "word": "日本人吃预制菜五十年了",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 537502,
-      "num": 215614,
+      "num": 239016,
       "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
       "onboard_time": 1758076702,
       "rank": 22,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420913,
+      "num": 420913,
+      "word": "以色列遭高超音速弹道导弹袭击",
+      "onboard_time": 1758076763,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 403610,
       "num": 222843,
       "word": "关晓彤旅行中的一些小小仪式",
@@ -195,20 +211,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 387898,
-      "num": 387898,
-      "word": "以色列遭高超音速弹道导弹袭击",
-      "onboard_time": 1758076763,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 384958,
       "num": 281419,
       "word": "重庆理工大学向学生致歉",
       "onboard_time": 1758067644,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379046,
+      "num": 379046,
+      "word": "神似刘亦菲女生回应走红",
+      "onboard_time": 1758081386,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 373632,
@@ -220,11 +236,19 @@
     },
     {
       "raw_hot": 363606,
-      "num": 209678,
+      "num": 236805,
       "word": "女子点11.8元外卖菜品上被写脏话",
       "onboard_time": 1758077664,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336290,
+      "num": 336290,
+      "word": "刚升级iOS26的天都塌了",
+      "onboard_time": 1758077424,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 331180,
@@ -235,19 +259,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328771,
+      "num": 370885,
+      "word": "2025国庆档电影",
+      "onboard_time": 1758073224,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 319887,
       "num": 319887,
       "word": "731",
       "onboard_time": 1758073282,
       "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 313265,
-      "num": 313265,
-      "word": "2025国庆档电影",
-      "onboard_time": 1758073224,
-      "rank": 19,
       "category": "电影"
     },
     {
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 307459,
-      "num": 214426,
+      "num": 216516,
       "word": "祝绪丹 一问三不知",
       "onboard_time": 1758077123,
       "rank": 21,
@@ -300,11 +324,19 @@
     },
     {
       "raw_hot": 287604,
-      "num": 205187,
+      "num": 232971,
       "word": "女厅官对省委原书记妻子唯命是从",
       "onboard_time": 1758077364,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 286348,
+      "num": 286348,
+      "word": "金世佳手拉手接儿子放学",
+      "onboard_time": 1758080964,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 280675,
@@ -315,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278937,
+      "num": 334135,
+      "word": "学校辟谣女生在宿舍分娩失血过多去世",
+      "onboard_time": 1758080001,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277547,
       "num": 290827,
       "word": "加沙人问为何把孩子变成残肢断臂",
@@ -323,20 +363,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 262914,
-      "num": 262914,
-      "word": "刚升级iOS26的天都塌了",
-      "onboard_time": 1758077424,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 255405,
       "num": 255405,
       "word": "警方通报一女子假扮骑手卖惨诈骗",
       "onboard_time": 1758063740,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253775,
+      "num": 209737,
+      "word": "简历唯独不可以是pdf",
+      "onboard_time": 1758082284,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 246045,
@@ -371,8 +411,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224970,
+      "num": 224970,
+      "word": "宋祖儿说姥姥就此别过",
+      "onboard_time": 1758082463,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211252,
+      "num": 211252,
+      "word": "恋与深空无人知晓时",
+      "onboard_time": 1758081684,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211211,
-      "num": 221197,
+      "num": 227860,
       "word": "严浩翔从小就听贺峻霖话",
       "onboard_time": 1758079703,
       "rank": 19,
@@ -385,6 +441,14 @@
       "onboard_time": 1758073103,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209659,
+      "num": 209659,
+      "word": "从150斤瘦到110斤的真实感受",
+      "onboard_time": 1758079103,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 200027,
@@ -409,14 +473,6 @@
       "onboard_time": 1758018863,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 194318,
-      "num": 194318,
-      "word": "从150斤瘦到110斤的真实感受",
-      "onboard_time": 1758079103,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 193374,
@@ -491,6 +547,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179181,
+      "num": 179181,
+      "word": "魔法公主的小烦恼定档",
+      "onboard_time": 1758082884,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 176051,
+      "num": 176051,
+      "word": "杨洋包场白敬亭不眠日",
+      "onboard_time": 1758083005,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173706,
       "num": 156508,
       "word": "翻到2014年的外卖物价",
@@ -547,12 +619,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158843,
+      "num": 158843,
+      "word": "泽连斯基 普京可以来但我不会去",
+      "onboard_time": 1758081323,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155992,
       "num": 216464,
       "word": "张淼怡的脸",
       "onboard_time": 1758009982,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154335,
+      "num": 173366,
+      "word": "薛之谦加盟音乐缘计划2",
+      "onboard_time": 1758082164,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153922,
+      "num": 153922,
+      "word": "台风",
+      "onboard_time": 1758083005,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149887,
+      "num": 149887,
+      "word": "普通人看病的最大人脉",
+      "onboard_time": 1758080843,
+      "rank": 43,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 149820,
@@ -569,6 +673,14 @@
       "onboard_time": 1758067285,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147247,
+      "num": 147247,
+      "word": "种地星球直播",
+      "onboard_time": 1758081984,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143752,
@@ -593,6 +705,14 @@
       "onboard_time": 1758025348,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135605,
+      "num": 248161,
+      "word": "德国总理戴犹太小帽",
+      "onboard_time": 1758082045,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134954,
@@ -683,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128804,
+      "num": 128804,
+      "word": "特朗普第4次延长TikTok禁令宽限期",
+      "onboard_time": 1758083304,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128197,
       "num": 216037,
       "word": "迪卡侬广告 处女地",
@@ -712,14 +840,6 @@
       "word": "17号台风米娜或要来了",
       "onboard_time": 1758031894,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124783,
-      "num": 334135,
-      "word": "学校辟谣女生在宿舍分娩失血过多去世",
-      "onboard_time": 1758080001,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -859,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99799,
+      "num": 160017,
+      "word": "迪丽热巴这是看到美女了",
+      "onboard_time": 1758082825,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99765,
       "num": 212793,
       "word": "成毅替身演员发文",
@@ -900,7 +1028,7 @@
     },
     {
       "raw_hot": 93741,
-      "num": 93741,
+      "num": 173935,
       "word": "特朗普访英引发民众抗议",
       "onboard_time": 1758072923,
       "rank": 47,
@@ -1163,6 +1291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59314,
+      "num": 209760,
+      "word": "肖战每个物料都是视听盛宴",
+      "onboard_time": 1758081804,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58189,
       "num": 207722,
       "word": "红舞鞋",
@@ -1211,6 +1347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47489,
+      "num": 256095,
+      "word": "特朗普问记者你哪家媒体",
+      "onboard_time": 1758082946,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 46858,
+      "num": 835120,
+      "word": "数字技术让文化遗产火起来",
+      "onboard_time": 1758079824,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46469,
       "num": 75632,
       "word": "以军警告也门荷台达港居民紧急撤离",
@@ -1235,6 +1387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44828,
+      "num": 250242,
+      "word": "周轶君站在雁门关回望历史",
+      "onboard_time": 1758081925,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44327,
       "num": 96766,
       "word": "不眠日",
@@ -1251,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40510,
-      "num": 793058,
-      "word": "数字技术让文化遗产火起来",
-      "onboard_time": 1758079824,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35544,
       "num": 46374,
       "word": "迪丽热巴女王变女孩太有生命力了",
@@ -1273,6 +1425,14 @@
       "onboard_time": 1758033210,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 22893,
+      "num": 159264,
+      "word": "快递员撞人致死公司被判赔200余万",
+      "onboard_time": 1758083186,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20661,
