@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758083371697,
+  "endTime": 1758084148212,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -27,7 +27,7 @@
       "category": "体育,海外新闻"
     },
     {
-      "raw_hot": 1221125,
+      "raw_hot": 1224288,
       "num": 360641,
       "word": "俞灏明王晓晨牵手逛街",
       "onboard_time": 1758080964,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 953093,
-      "num": 953093,
+      "raw_hot": 953668,
+      "num": 953668,
       "word": "聊斋",
       "onboard_time": 1758076702,
       "rank": 4,
@@ -140,11 +140,19 @@
     },
     {
       "raw_hot": 537502,
-      "num": 239016,
+      "num": 273983,
       "word": "蜜雪冰城员工拿错吸管唱主题曲道歉",
       "onboard_time": 1758076702,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513334,
+      "num": 513334,
+      "word": "神似刘亦菲女生回应走红",
+      "onboard_time": 1758081386,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 498866,
@@ -161,6 +169,14 @@
       "onboard_time": 1758072684,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484985,
+      "num": 290020,
+      "word": "金世佳手拉手接儿子放学",
+      "onboard_time": 1758080964,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 464459,
@@ -219,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 379046,
-      "num": 379046,
-      "word": "神似刘亦菲女生回应走红",
-      "onboard_time": 1758081386,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 373632,
       "num": 219386,
       "word": "真的不要在床头上挂东西了",
@@ -236,11 +244,27 @@
     },
     {
       "raw_hot": 363606,
-      "num": 236805,
+      "num": 270077,
       "word": "女子点11.8元外卖菜品上被写脏话",
       "onboard_time": 1758077664,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345429,
+      "num": 370885,
+      "word": "2025国庆档电影",
+      "onboard_time": 1758073224,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 342500,
+      "num": 273653,
+      "word": "简历唯独不可以是pdf",
+      "onboard_time": 1758082284,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 336290,
@@ -257,14 +281,6 @@
       "onboard_time": 1758033630,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 328771,
-      "num": 370885,
-      "word": "2025国庆档电影",
-      "onboard_time": 1758073224,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 319887,
@@ -331,12 +347,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 286348,
-      "num": 286348,
-      "word": "金世佳手拉手接儿子放学",
-      "onboard_time": 1758080964,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 286521,
+      "num": 286521,
+      "word": "宋祖儿说姥姥就此别过",
+      "onboard_time": 1758082463,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 280675,
@@ -363,20 +379,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 275865,
+      "num": 275865,
+      "word": "赴山海品牌方发声",
+      "onboard_time": 1758083725,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255405,
       "num": 255405,
       "word": "警方通报一女子假扮骑手卖惨诈骗",
       "onboard_time": 1758063740,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253775,
-      "num": 209737,
-      "word": "简历唯独不可以是pdf",
-      "onboard_time": 1758082284,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 246045,
@@ -409,14 +425,6 @@
       "onboard_time": 1758069504,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 224970,
-      "num": 224970,
-      "word": "宋祖儿说姥姥就此别过",
-      "onboard_time": 1758082463,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 211252,
@@ -515,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189852,
+      "num": 189852,
+      "word": "迪丽热巴这是看到美女了",
+      "onboard_time": 1758082825,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186866,
       "num": 186866,
       "word": "原来真的有神兵天降",
       "onboard_time": 1758068846,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185469,
+      "num": 185469,
+      "word": "杨洋包场白敬亭不眠日",
+      "onboard_time": 1758083005,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 185001,
@@ -553,14 +577,6 @@
       "onboard_time": 1758082884,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 176051,
-      "num": 176051,
-      "word": "杨洋包场白敬亭不眠日",
-      "onboard_time": 1758083005,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 173706,
@@ -691,6 +707,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142960,
+      "num": 142960,
+      "word": "大二女生宿舍分娩到底谁的错",
+      "onboard_time": 1758084026,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139983,
+      "num": 190702,
+      "word": "鹿晗吓得背对观众",
+      "onboard_time": 1758083666,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138572,
       "num": 215454,
       "word": "晚睡晚起让人长期处于炎症状态",
@@ -705,6 +737,22 @@
       "onboard_time": 1758025348,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136734,
+      "num": 136734,
+      "word": "王影璐的精神状态回归了",
+      "onboard_time": 1758083604,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135905,
+      "num": 135905,
+      "word": "女生在宿舍生娃大人小孩平安",
+      "onboard_time": 1758083365,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135605,
@@ -739,8 +787,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133180,
+      "num": 133180,
+      "word": "iPhone17黄牛还能赚到钱吗",
+      "onboard_time": 1758082224,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133153,
-      "num": 133153,
+      "num": 291755,
       "word": "谁买的座位谁有使用权",
       "onboard_time": 1758075623,
       "rank": 36,
@@ -923,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107551,
+      "num": 149058,
+      "word": "国庆买不到票回家",
+      "onboard_time": 1758084026,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106926,
       "num": 211559,
       "word": "男童游乐场推落4岁女童后转身离去",
@@ -977,14 +1041,6 @@
       "onboard_time": 1758072503,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99799,
-      "num": 160017,
-      "word": "迪丽热巴这是看到美女了",
-      "onboard_time": 1758082825,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 99765,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1758074481,
       "rank": 39,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 81970,
+      "num": 147848,
+      "word": "南京红山动物园门票从40涨到70",
+      "onboard_time": 1758083485,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81244,
@@ -1275,6 +1339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 61080,
+      "num": 275091,
+      "word": "特朗普问记者你哪家媒体",
+      "onboard_time": 1758082946,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60350,
       "num": 209983,
       "word": "有一种治愈叫初秋",
@@ -1283,20 +1355,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59930,
+      "num": 275694,
+      "word": "肖战每个物料都是视听盛宴",
+      "onboard_time": 1758081804,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59538,
       "num": 207807,
       "word": "情绪稳定从接纳情绪不稳定开始",
       "onboard_time": 1758039389,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59314,
-      "num": 209760,
-      "word": "肖战每个物料都是视听盛宴",
-      "onboard_time": 1758081804,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 58189,
@@ -1347,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47489,
-      "num": 256095,
-      "word": "特朗普问记者你哪家媒体",
-      "onboard_time": 1758082946,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46858,
       "num": 835120,
       "word": "数字技术让文化遗产火起来",
@@ -1388,7 +1452,7 @@
     },
     {
       "raw_hot": 44828,
-      "num": 250242,
+      "num": 274656,
       "word": "周轶君站在雁门关回望历史",
       "onboard_time": 1758081925,
       "rank": 19,
@@ -1419,20 +1483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34551,
+      "num": 159264,
+      "word": "快递员撞人致死公司被判赔200余万",
+      "onboard_time": 1758083186,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30941,
       "num": 207735,
       "word": "享界S9T售价30万起6万限时权益",
       "onboard_time": 1758033210,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 22893,
-      "num": 159264,
-      "word": "快递员撞人致死公司被判赔200余万",
-      "onboard_time": 1758083186,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20661,
