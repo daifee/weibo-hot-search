@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758098769161,
+  "endTime": 1758101213235,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -73,6 +73,14 @@
       "onboard_time": 1758068064,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 958589,
+      "num": 1153374,
+      "word": "北大副校长任羽中主动投案",
+      "onboard_time": 1758098481,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 953668,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 699069,
+      "num": 699069,
+      "word": "职工医保个账余额能转账啦",
+      "onboard_time": 1758098724,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 690481,
       "num": 223446,
       "word": "于朦胧后事已处理完",
@@ -201,6 +217,14 @@
       "onboard_time": 1758082284,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 623877,
+      "num": 623877,
+      "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
+      "onboard_time": 1758097943,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 603058,
@@ -588,19 +612,11 @@
     },
     {
       "raw_hot": 274042,
-      "num": 163294,
+      "num": 164404,
       "word": "以色列开始碰瓷中国",
       "onboard_time": 1758097283,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 270147,
-      "num": 270147,
-      "word": "职工医保个账余额能转账啦",
-      "onboard_time": 1758098724,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266346,
@@ -715,22 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200986,
-      "num": 200986,
-      "word": "北大副校长任羽中主动投案",
-      "onboard_time": 1758098481,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200331,
-      "num": 200331,
-      "word": "NIKE将给在书包缝NIKE标母亲寄礼物",
-      "onboard_time": 1758097943,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200027,
       "num": 200027,
       "word": "日本网民呼吁731上映谁急了",
@@ -753,6 +753,14 @@
       "onboard_time": 1758085164,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198046,
+      "num": 198046,
+      "word": "霉霉演唱会视野受限区只卖113人民币",
+      "onboard_time": 1758098002,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 195882,
@@ -867,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179688,
+      "num": 179688,
+      "word": "人还是不能突然有钱",
+      "onboard_time": 1758095603,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179665,
       "num": 256060,
       "word": "奥斯卡回应恋综争议",
@@ -955,6 +971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170280,
+      "num": 170280,
+      "word": "上海多校午餐撤菜是否发臭得说清楚",
+      "onboard_time": 1758096923,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168040,
       "num": 168040,
       "word": "韩红出手就是四个二带俩王",
@@ -993,6 +1017,14 @@
       "onboard_time": 1758090863,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164121,
+      "num": 164121,
+      "word": "曝中芯国际首款5nm光刻机正在测试",
+      "onboard_time": 1758100884,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 163734,
@@ -1067,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157481,
+      "num": 157481,
+      "word": "女子回应坠井54小时身上爬满蛇",
+      "onboard_time": 1758095362,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157322,
       "num": 162487,
       "word": "唐朝诡事录之长安过审了",
@@ -1139,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149299,
+      "num": 149299,
+      "word": "北大80后副校长任羽中被查",
+      "onboard_time": 1758098782,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149283,
       "num": 149283,
       "word": "南京红山动物园门票从40涨到70",
@@ -1187,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144724,
-      "num": 144724,
-      "word": "人还是不能突然有钱",
-      "onboard_time": 1758095603,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143752,
       "num": 143752,
       "word": "多国呼吁中止以色列联合国会员国资格",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1758094402,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 139251,
-      "num": 139251,
-      "word": "霉霉演唱会视野受限区只卖113人民币",
-      "onboard_time": 1758098002,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 138572,
@@ -1483,12 +1515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126627,
+      "num": 126627,
+      "word": "女子拍闪电意外拍到不明黑影",
+      "onboard_time": 1758099083,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126239,
       "num": 126239,
       "word": "李一桐靠一个字超级加辈",
       "onboard_time": 1758098363,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125956,
+      "num": 125956,
+      "word": "土豆面包",
+      "onboard_time": 1758099745,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 125900,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1758039924,
       "rank": 40,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 121574,
+      "num": 126111,
+      "word": "全球顶流网红喝完凉茶只是一味硬撑",
+      "onboard_time": 1758098481,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 121453,
@@ -1707,20 +1763,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110100,
+      "num": 110099,
+      "word": "故意让内向的孩子抽到空白签",
+      "onboard_time": 1758092963,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109879,
       "num": 212123,
       "word": "菲律宾在中国黄岩岛举白旗",
       "onboard_time": 1758018624,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109285,
-      "num": 109285,
-      "word": "上海多校午餐撤菜是否发臭得说清楚",
-      "onboard_time": 1758096923,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109023,
@@ -1763,20 +1819,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106258,
-      "num": 106258,
-      "word": "故意让内向的孩子抽到空白签",
-      "onboard_time": 1758092963,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106014,
       "num": 106014,
       "word": "看林允我都有些害怕了",
       "onboard_time": 1758085045,
       "rank": 49,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 105990,
+      "num": 200907,
+      "word": "妇联回应大二女生在学校宿舍分娩",
+      "onboard_time": 1758098062,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105852,
@@ -1851,12 +1907,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101558,
-      "num": 101558,
-      "word": "女子回应坠井54小时身上爬满蛇",
-      "onboard_time": 1758095362,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 101872,
+      "num": 101872,
+      "word": "DK对战BFX",
+      "onboard_time": 1758100402,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 101467,
@@ -1891,12 +1947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100150,
+      "num": 110139,
+      "word": "丁禹兮默默帮剧组搬东西",
+      "onboard_time": 1758101063,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99765,
       "num": 212793,
       "word": "成毅替身演员发文",
       "onboard_time": 1758010462,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98678,
+      "num": 98678,
+      "word": "周三其实是最会装的",
+      "onboard_time": 1758100703,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 96960,
@@ -1923,14 +1995,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 94617,
-      "num": 200907,
-      "word": "妇联回应大二女生在学校宿舍分娩",
-      "onboard_time": 1758098062,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94574,
       "num": 208979,
       "word": "比利简金杯中国0比2意大利",
@@ -1953,6 +2017,14 @@
       "onboard_time": 1758072923,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93384,
+      "num": 93384,
+      "word": "苹果文案 加加班也没问题",
+      "onboard_time": 1758101063,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 92696,
@@ -2201,6 +2273,14 @@
       "onboard_time": 1758079402,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66155,
+      "num": 110100,
+      "word": "南孚电池广告语 好喜欢和领导出差",
+      "onboard_time": 1758100222,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63670,
@@ -2475,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18692,
+      "num": 110103,
+      "word": "巩俐只戴了发网",
+      "onboard_time": 1758101184,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 16944,
       "num": 55215,
       "word": "绿电天路超级工程来了",
@@ -2529,6 +2617,14 @@
       "onboard_time": 1757930482,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2854,
+      "num": 683947,
+      "word": "2025文化遗产数字化论坛",
+      "onboard_time": 1758013823,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2537,6 +2633,9 @@
     },
     {
       "word": "#从四大全球倡议看和平与发展#"
+    },
+    {
+      "word": "#习近平勉励大家奋发进取再立新功#"
     }
   ]
 }
