@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758073658932,
+  "endTime": 1758074721698,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 872454,
-      "num": 1139592,
+      "raw_hot": 899119,
+      "num": 1143859,
       "word": "甘肃一高校疑有女生校内分娩",
       "onboard_time": 1758065603,
       "rank": 3,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 570158,
-      "num": 570158,
+      "raw_hot": 664450,
+      "num": 664450,
       "word": "阳光型抑郁",
       "onboard_time": 1758068544,
       "rank": 1,
@@ -91,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 489837,
+      "num": 489837,
+      "word": "赴山海制作方的力道用错了地方",
+      "onboard_time": 1758072684,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437910,
       "num": 221240,
       "word": "于朦胧母亲发文",
@@ -99,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417414,
-      "num": 417414,
+      "raw_hot": 429985,
+      "num": 429985,
       "word": "广州大熊猫最便宜5块一只",
       "onboard_time": 1758069925,
       "rank": 4,
@@ -155,6 +163,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 300892,
+      "num": 300892,
+      "word": "男子在广东种出非洲猴面包树",
+      "onboard_time": 1758070825,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296287,
       "num": 296287,
       "word": "秦始皇派人去昆仑采药是真的",
@@ -179,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278991,
-      "num": 278991,
-      "word": "男子在广东种出非洲猴面包树",
-      "onboard_time": 1758070825,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 277547,
+      "num": 290827,
+      "word": "加沙人问为何把孩子变成残肢断臂",
+      "onboard_time": 1758071665,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 255405,
@@ -227,20 +243,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221187,
+      "num": 277783,
+      "word": "2025国庆档电影",
+      "onboard_time": 1758073224,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209793,
       "num": 209793,
       "word": "汪苏泷36岁生日照",
       "onboard_time": 1758073103,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205713,
-      "num": 294630,
-      "word": "赴山海制作方的力道用错了地方",
-      "onboard_time": 1758072684,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 195882,
@@ -291,8 +307,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165410,
-      "num": 131340,
+      "raw_hot": 172924,
+      "num": 172924,
       "word": "终于知道为什么飞国外要提前3小时",
       "onboard_time": 1758072202,
       "rank": 30,
@@ -321,14 +337,6 @@
       "onboard_time": 1758067285,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144141,
-      "num": 290827,
-      "word": "加沙人问为何把孩子变成残肢断臂",
-      "onboard_time": 1758071665,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 143752,
@@ -419,14 +427,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 120742,
-      "num": 255635,
-      "word": "2025国庆档电影",
-      "onboard_time": 1758073224,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120344,
       "num": 120344,
       "word": "刘翔的含金量还在上升",
@@ -443,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111056,
+      "num": 111056,
+      "word": "无意识的控糖行为",
+      "onboard_time": 1758052394,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109879,
       "num": 212123,
       "word": "菲律宾在中国黄岩岛举白旗",
       "onboard_time": 1758018624,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 108813,
-      "num": 108813,
-      "word": "无意识的控糖行为",
-      "onboard_time": 1758052394,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 106926,
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93741,
+      "num": 93741,
+      "word": "特朗普访英引发民众抗议",
+      "onboard_time": 1758072923,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92696,
       "num": 92696,
       "word": "偷40万男子骑一辆童车逃跑",
@@ -547,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90920,
+      "num": 111266,
+      "word": "白鹿为宋雨琦打call",
+      "onboard_time": 1758073883,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 89733,
       "num": 212579,
       "word": "代露娃 那她还是去上班吧",
@@ -555,8 +571,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89049,
-      "num": 89049,
+      "raw_hot": 89405,
+      "num": 89405,
       "word": "柯克案嫌犯穿防自杀罩衣出庭",
       "onboard_time": 1758067525,
       "rank": 44,
@@ -579,12 +595,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84443,
+      "num": 84443,
+      "word": "可以二刷利剑玫瑰了",
+      "onboard_time": 1758073522,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84145,
       "num": 131589,
       "word": "731",
       "onboard_time": 1758073282,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82352,
+      "num": 82352,
+      "word": "余承东称飚2秒加速性能没意义",
+      "onboard_time": 1758074481,
+      "rank": 39,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 81244,
@@ -611,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79685,
-      "num": 79685,
-      "word": "特朗普访英引发民众抗议",
-      "onboard_time": 1758072923,
-      "rank": 47,
-      "category": "海外新闻"
+      "raw_hot": 80199,
+      "num": 80199,
+      "word": "单身不是最爽的",
+      "onboard_time": 1758073702,
+      "rank": 40,
+      "category": "幽默"
     },
     {
-      "raw_hot": 77644,
-      "num": 77644,
-      "word": "可以二刷利剑玫瑰了",
-      "onboard_time": 1758073522,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 77707,
+      "num": 77707,
+      "word": "中概指数创3年新高",
+      "onboard_time": 1758074662,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 77385,

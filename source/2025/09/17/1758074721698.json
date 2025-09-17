@@ -1,0 +1,410 @@
+{
+  "runTime": 1758074721698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 899119,
+        "num": 1143859,
+        "word": "甘肃一高校疑有女生校内分娩",
+        "onboard_time": 1758065603,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664450,
+        "num": 664450,
+        "word": "阳光型抑郁",
+        "onboard_time": 1758068544,
+        "rank": 1,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 5271,
+        "num": 551343,
+        "word": "一系列重要成果亮相2025年国家网络安全宣传周",
+        "onboard_time": 1757930482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 489837,
+        "num": 489837,
+        "word": "赴山海制作方的力道用错了地方",
+        "onboard_time": 1758072684,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429985,
+        "num": 429985,
+        "word": "广州大熊猫最便宜5块一只",
+        "onboard_time": 1758069925,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383113,
+        "num": 383113,
+        "word": "男子查个税意外发现两份工资流水",
+        "onboard_time": 1758046755,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300892,
+        "num": 300892,
+        "word": "男子在广东种出非洲猴面包树",
+        "onboard_time": 1758070825,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279090,
+        "num": 279090,
+        "word": "山农大破解一科学界百年未解之谜",
+        "onboard_time": 1758066563,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 221187,
+        "num": 277783,
+        "word": "2025国庆档电影",
+        "onboard_time": 1758073224,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277547,
+        "num": 277547,
+        "word": "加沙人问为何把孩子变成残肢断臂",
+        "onboard_time": 1758071665,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 927097,
+        "num": 276262,
+        "word": "涉毒艺人复出谁给开的绿灯",
+        "onboard_time": 1758068064,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729363,
+        "num": 274177,
+        "word": "关晓彤28岁生日照",
+        "onboard_time": 1758065603,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424745,
+        "num": 271446,
+        "word": "00后女生追星频繁染发患肾病",
+        "onboard_time": 1758037586,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310925,
+        "num": 269553,
+        "word": "重庆理工大学向学生致歉",
+        "onboard_time": 1758067644,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268939,
+        "num": 268939,
+        "word": "哥哥用打火机电击洗澡妹妹致其烧伤",
+        "onboard_time": 1758033630,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243734,
+        "num": 243734,
+        "word": "秦始皇派人去昆仑采药是真的",
+        "onboard_time": 1758066263,
+        "rank": 15,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 220725,
+        "num": 220725,
+        "word": "警方通报一女子假扮骑手卖惨诈骗",
+        "onboard_time": 1758063740,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146555,
+        "num": 216339,
+        "word": "于正虽然嘴碎但他护犊子啊",
+        "onboard_time": 1758036926,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115459,
+        "num": 215278,
+        "word": "生命树 纪录片",
+        "onboard_time": 1758067285,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114651,
+        "num": 214764,
+        "word": "奥斯卡回应恋综争议",
+        "onboard_time": 1758040345,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214713,
+        "num": 214713,
+        "word": "预制了国庆八天的朋友圈",
+        "onboard_time": 1758069504,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193402,
+        "num": 193402,
+        "word": "日本拒绝美国",
+        "onboard_time": 1758033689,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172924,
+        "num": 172924,
+        "word": "终于知道为什么飞国外要提前3小时",
+        "onboard_time": 1758072202,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152299,
+        "num": 152299,
+        "word": "90后女子背疼容易饿确诊胃癌晚期",
+        "onboard_time": 1758033329,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147034,
+        "num": 147034,
+        "word": "原来真的有神兵天降",
+        "onboard_time": 1758068846,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126110,
+        "num": 126110,
+        "word": "汪苏泷36岁生日照",
+        "onboard_time": 1758073103,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115999,
+        "num": 115999,
+        "word": "刘翔的含金量还在上升",
+        "onboard_time": 1758069024,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112926,
+        "num": 112926,
+        "word": "晚睡晚起让人长期处于炎症状态",
+        "onboard_time": 1758040345,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111668,
+        "num": 111668,
+        "word": "陈星旭和妈妈共用一张脸",
+        "onboard_time": 1758034467,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90920,
+        "num": 111266,
+        "word": "白鹿为宋雨琦打call",
+        "onboard_time": 1758073883,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111056,
+        "num": 111056,
+        "word": "无意识的控糖行为",
+        "onboard_time": 1758052394,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109315,
+        "num": 109315,
+        "word": "迪卡侬广告 处女地",
+        "onboard_time": 1758031050,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107845,
+        "num": 107845,
+        "word": "多国呼吁中止以色列联合国会员国资格",
+        "onboard_time": 1758071304,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93741,
+        "num": 93741,
+        "word": "特朗普访英引发民众抗议",
+        "onboard_time": 1758072923,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90117,
+        "num": 90117,
+        "word": "鹿晗 邪恶银渐层",
+        "onboard_time": 1758032611,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89405,
+        "num": 89405,
+        "word": "柯克案嫌犯穿防自杀罩衣出庭",
+        "onboard_time": 1758067525,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85063,
+        "num": 85063,
+        "word": "难得夫妻是少年",
+        "onboard_time": 1758068786,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84443,
+        "num": 84443,
+        "word": "可以二刷利剑玫瑰了",
+        "onboard_time": 1758073522,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83643,
+        "num": 83643,
+        "word": "AirPodsPro3加加班也没问题",
+        "onboard_time": 1758069204,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82352,
+        "num": 82352,
+        "word": "余承东称飚2秒加速性能没意义",
+        "onboard_time": 1758074481,
+        "rank": 39,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 80199,
+        "num": 80199,
+        "word": "单身不是最爽的",
+        "onboard_time": 1758073702,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79040,
+        "num": 79040,
+        "word": "易烊千玺微博直播",
+        "onboard_time": 1758023544,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78389,
+        "num": 78389,
+        "word": "深圳冷门兼职日薪2000元",
+        "onboard_time": 1758073343,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78375,
+        "num": 78375,
+        "word": "外国小哥称明白中国为什么能领先了",
+        "onboard_time": 1758072503,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77707,
+        "num": 77707,
+        "word": "中概指数创3年新高",
+        "onboard_time": 1758074662,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75815,
+        "num": 75815,
+        "word": "闫妮晒照为关晓彤庆生",
+        "onboard_time": 1758066683,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76115,
+        "num": 75719,
+        "word": "易烊千玺 下播最快的主包",
+        "onboard_time": 1758029909,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74632,
+        "num": 74632,
+        "word": "731",
+        "onboard_time": 1758073282,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72526,
+        "num": 72526,
+        "word": "女生坐火车卧铺打伞遮隐私",
+        "onboard_time": 1758022164,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71021,
+        "num": 71021,
+        "word": "成毅的真古人vs假古人",
+        "onboard_time": 1758033090,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大复兴势不可挡#"
+    }
+  }
+}

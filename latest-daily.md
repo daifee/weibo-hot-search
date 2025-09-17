@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/17 00:31:49 ~ 2025/09/17 09:47:38
+本榜单时间：2025/09/17 00:31:49 ~ 2025/09/17 10:05:21
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E4%B8%80%E9%AB%98%E6%A0%A1%E7%96%91%E6%9C%89%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E5%88%86%E5%A8%A9%23" target="weibo">
-甘肃一高校疑有女生校内分娩（热度：872454）
+甘肃一高校疑有女生校内分娩（热度：899119）
 </a>
 </li>
 
@@ -70,13 +70,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%85%89%E5%9E%8B%E6%8A%91%E9%83%81%23" target="weibo">
-阳光型抑郁（热度：570158）
+阳光型抑郁（热度：664450）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%23" target="weibo">
 日本拒绝美国（热度：552995）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E5%88%B6%E4%BD%9C%E6%96%B9%E7%9A%84%E5%8A%9B%E9%81%93%E7%94%A8%E9%94%99%E4%BA%86%E5%9C%B0%E6%96%B9%23" target="weibo">
+赴山海制作方的力道用错了地方（热度：489837）
 </a>
 </li>
 
@@ -88,7 +94,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%9C%80%E4%BE%BF%E5%AE%9C5%E5%9D%97%E4%B8%80%E5%8F%AA%23" target="weibo">
-广州大熊猫最便宜5块一只（热度：417414）
+广州大熊猫最便宜5块一只（热度：429985）
 </a>
 </li>
 
@@ -129,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%B9%BF%E4%B8%9C%E7%A7%8D%E5%87%BA%E9%9D%9E%E6%B4%B2%E7%8C%B4%E9%9D%A2%E5%8C%85%E6%A0%91%23" target="weibo">
+男子在广东种出非洲猴面包树（热度：300892）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E6%B4%BE%E4%BA%BA%E5%8E%BB%E6%98%86%E4%BB%91%E9%87%87%E8%8D%AF%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 秦始皇派人去昆仑采药是真的（热度：296287）
 </a>
@@ -147,8 +159,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%B9%BF%E4%B8%9C%E7%A7%8D%E5%87%BA%E9%9D%9E%E6%B4%B2%E7%8C%B4%E9%9D%A2%E5%8C%85%E6%A0%91%23" target="weibo">
-男子在广东种出非洲猴面包树（热度：278991）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%BA%BA%E9%97%AE%E4%B8%BA%E4%BD%95%E6%8A%8A%E5%AD%A9%E5%AD%90%E5%8F%98%E6%88%90%E6%AE%8B%E8%82%A2%E6%96%AD%E8%87%82%23" target="weibo">
+加沙人问为何把孩子变成残肢断臂（热度：277547）
 </a>
 </li>
 
@@ -183,14 +195,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B736%E5%B2%81%E7%94%9F%E6%97%A5%E7%85%A7%23" target="weibo">
-汪苏泷36岁生日照（热度：209793）
+<a href="https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%94%B5%E5%BD%B1%23" target="weibo">
+2025国庆档电影（热度：221187）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E5%88%B6%E4%BD%9C%E6%96%B9%E7%9A%84%E5%8A%9B%E9%81%93%E7%94%A8%E9%94%99%E4%BA%86%E5%9C%B0%E6%96%B9%23" target="weibo">
-赴山海制作方的力道用错了地方（热度：205713）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B736%E5%B2%81%E7%94%9F%E6%97%A5%E7%85%A7%23" target="weibo">
+汪苏泷36岁生日照（热度：209793）
 </a>
 </li>
 
@@ -232,7 +244,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A3%9E%E5%9B%BD%E5%A4%96%E8%A6%81%E6%8F%90%E5%89%8D3%E5%B0%8F%E6%97%B6%23" target="weibo">
-终于知道为什么飞国外要提前3小时（热度：165410）
+终于知道为什么飞国外要提前3小时（热度：172924）
 </a>
 </li>
 
@@ -251,12 +263,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%20%E7%BA%AA%E5%BD%95%E7%89%87%23" target="weibo">
 生命树 纪录片（热度：147766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%BA%BA%E9%97%AE%E4%B8%BA%E4%BD%95%E6%8A%8A%E5%AD%A9%E5%AD%90%E5%8F%98%E6%88%90%E6%AE%8B%E8%82%A2%E6%96%AD%E8%87%82%23" target="weibo">
-加沙人问为何把孩子变成残肢断臂（热度：144141）
 </a>
 </li>
 
@@ -327,12 +333,6 @@ iOS26普通照片秒变3D照（热度：134954）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%94%B5%E5%BD%B1%23" target="weibo">
-2025国庆档电影（热度：120742）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
 刘翔的含金量还在上升（热度：120344）
 </a>
@@ -345,14 +345,14 @@ iOS26普通照片秒变3D照（热度：134954）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%BB%84%E5%B2%A9%E5%B2%9B%E4%B8%BE%E7%99%BD%E6%97%97%23" target="weibo">
-菲律宾在中国黄岩岛举白旗（热度：109879）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E6%8E%A7%E7%B3%96%E8%A1%8C%E4%B8%BA%23" target="weibo">
+无意识的控糖行为（热度：111056）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E6%8E%A7%E7%B3%96%E8%A1%8C%E4%B8%BA%23" target="weibo">
-无意识的控糖行为（热度：108813）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%BB%84%E5%B2%A9%E5%B2%9B%E4%B8%BE%E7%99%BD%E6%97%97%23" target="weibo">
+菲律宾在中国黄岩岛举白旗（热度：109879）
 </a>
 </li>
 
@@ -405,6 +405,12 @@ AirPodsPro3加加班也没问题（热度：95174）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E8%8B%B1%E5%BC%95%E5%8F%91%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%23" target="weibo">
+特朗普访英引发民众抗议（热度：93741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B740%E4%B8%87%E7%94%B7%E5%AD%90%E9%AA%91%E4%B8%80%E8%BE%86%E7%AB%A5%E8%BD%A6%E9%80%83%E8%B7%91%23" target="weibo">
 偷40万男子骑一辆童车逃跑（热度：92696）
 </a>
@@ -423,6 +429,12 @@ AirPodsPro3加加班也没问题（热度：95174）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%BA%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%89%93call%23" target="weibo">
+白鹿为宋雨琦打call（热度：90920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%20%E9%82%A3%E5%A5%B9%E8%BF%98%E6%98%AF%E5%8E%BB%E4%B8%8A%E7%8F%AD%E5%90%A7%23" target="weibo">
 代露娃 那她还是去上班吧（热度：89733）
 </a>
@@ -430,7 +442,7 @@ AirPodsPro3加加班也没问题（热度：95174）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%85%8B%E6%A1%88%E5%AB%8C%E7%8A%AF%E7%A9%BF%E9%98%B2%E8%87%AA%E6%9D%80%E7%BD%A9%E8%A1%A3%E5%87%BA%E5%BA%AD%23" target="weibo">
-柯克案嫌犯穿防自杀罩衣出庭（热度：89049）
+柯克案嫌犯穿防自杀罩衣出庭（热度：89405）
 </a>
 </li>
 
@@ -447,8 +459,20 @@ AirPodsPro3加加班也没问题（热度：95174）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E4%BA%8C%E5%88%B7%E5%88%A9%E5%89%91%E7%8E%AB%E7%91%B0%E4%BA%86%23" target="weibo">
+可以二刷利剑玫瑰了（热度：84443）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23731%23" target="weibo">
 731（热度：84145）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E9%A3%9A2%E7%A7%92%E5%8A%A0%E9%80%9F%E6%80%A7%E8%83%BD%E6%B2%A1%E6%84%8F%E4%B9%89%23" target="weibo">
+余承东称飚2秒加速性能没意义（热度：82352）
 </a>
 </li>
 
@@ -471,14 +495,14 @@ AirPodsPro3加加班也没问题（热度：95174）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E8%8B%B1%E5%BC%95%E5%8F%91%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%23" target="weibo">
-特朗普访英引发民众抗议（热度：79685）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E4%B8%8D%E6%98%AF%E6%9C%80%E7%88%BD%E7%9A%84%23" target="weibo">
+单身不是最爽的（热度：80199）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E4%BA%8C%E5%88%B7%E5%88%A9%E5%89%91%E7%8E%AB%E7%91%B0%E4%BA%86%23" target="weibo">
-可以二刷利剑玫瑰了（热度：77644）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%A6%82%E6%8C%87%E6%95%B0%E5%88%9B3%E5%B9%B4%E6%96%B0%E9%AB%98%23" target="weibo">
+中概指数创3年新高（热度：77707）
 </a>
 </li>
 
