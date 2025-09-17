@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758115958471,
+  "endTime": 1758116656672,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 839573,
+      "num": 839573,
+      "word": "绿茶餐厅拆掉现做招牌",
+      "onboard_time": 1758110483,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 820839,
       "num": 820839,
       "word": "降息",
@@ -240,14 +248,6 @@
       "word": "男子查个税意外发现两份工资流水",
       "onboard_time": 1758046755,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 782423,
-      "num": 782423,
-      "word": "绿茶餐厅拆掉现做招牌",
-      "onboard_time": 1758110483,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -297,6 +297,14 @@
       "onboard_time": 1758082284,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 607846,
+      "num": 279221,
+      "word": "杨丞琳李荣浩结婚6周年发文",
+      "onboard_time": 1758112703,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 603058,
@@ -475,8 +483,8 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 443510,
-      "num": 443510,
+      "raw_hot": 446709,
+      "num": 446709,
       "word": "水牛奶 水牛是商标",
       "onboard_time": 1758111502,
       "rank": 18,
@@ -531,6 +539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 419465,
+      "num": 276784,
+      "word": "刘亦菲38岁素颜状态",
+      "onboard_time": 1758112402,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403610,
       "num": 222843,
       "word": "关晓彤旅行中的一些小小仪式",
@@ -547,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 395709,
-      "num": 279221,
-      "word": "杨丞琳李荣浩结婚6周年发文",
-      "onboard_time": 1758112703,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384958,
       "num": 281419,
       "word": "重庆理工大学向学生致歉",
@@ -569,14 +577,6 @@
       "onboard_time": 1758091884,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 378367,
-      "num": 276784,
-      "word": "刘亦菲38岁素颜状态",
-      "onboard_time": 1758112402,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 373632,
@@ -763,6 +763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280995,
+      "num": 340306,
+      "word": "张维伊跳扫腿舞",
+      "onboard_time": 1758114865,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280675,
       "num": 217216,
       "word": "易烊千玺微博直播",
@@ -843,12 +851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237897,
-      "num": 340306,
-      "word": "张维伊跳扫腿舞",
-      "onboard_time": 1758114865,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 236528,
+      "num": 316396,
+      "word": "校方回应强制女生剪斜面短发",
+      "onboard_time": 1758112944,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234774,
@@ -1051,20 +1059,20 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 192895,
+      "num": 192895,
+      "word": "女孩得知被拐轻生养父痛哭无能为力",
+      "onboard_time": 1758114502,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192803,
       "num": 293883,
       "word": "于正虽然嘴碎但他护犊子啊",
       "onboard_time": 1758036926,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191722,
-      "num": 316396,
-      "word": "校方回应强制女生剪斜面短发",
-      "onboard_time": 1758112944,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191304,
@@ -1115,6 +1123,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 185884,
+      "num": 196613,
+      "word": "第一次见女主把男主当工具人",
+      "onboard_time": 1758115463,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185657,
       "num": 185657,
       "word": "人还是不能突然有钱",
@@ -1139,6 +1155,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 183629,
+      "num": 227561,
+      "word": "马天宇出席釜山国际电影节",
+      "onboard_time": 1758114684,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182844,
       "num": 182844,
       "word": "GAI儿子说这是我的vlog",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1758088944,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180289,
-      "num": 180289,
-      "word": "女孩得知被拐轻生养父痛哭无能为力",
-      "onboard_time": 1758114502,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179882,
@@ -1443,14 +1459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159100,
-      "num": 227561,
-      "word": "马天宇出席釜山国际电影节",
-      "onboard_time": 1758114684,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158843,
       "num": 158843,
       "word": "泽连斯基 普京可以来但我不会去",
@@ -1571,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147069,
-      "num": 196613,
-      "word": "第一次见女主把男主当工具人",
-      "onboard_time": 1758115463,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146338,
       "num": 146338,
       "word": "高圆圆陪女儿在公园打闹玩耍",
@@ -1657,6 +1657,14 @@
       "onboard_time": 1758099083,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140957,
+      "num": 205530,
+      "word": "赴山海男一男二大战",
+      "onboard_time": 1758112102,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 139983,
@@ -1745,6 +1753,14 @@
       "onboard_time": 1758083365,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135878,
+      "num": 135878,
+      "word": "孟子义拿白兰花这张图",
+      "onboard_time": 1758116306,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 135816,
@@ -1987,14 +2003,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127186,
-      "num": 205530,
-      "word": "赴山海男一男二大战",
-      "onboard_time": 1758112102,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127064,
       "num": 127064,
       "word": "别让萧秋水的悲惨在现实上演",
@@ -2024,6 +2032,14 @@
       "word": "李一桐靠一个字超级加辈",
       "onboard_time": 1758098363,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126182,
+      "num": 126182,
+      "word": "郑恺被暴雨逼没招了",
+      "onboard_time": 1758116484,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -2121,6 +2137,14 @@
       "onboard_time": 1758089963,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119329,
+      "num": 126555,
+      "word": "许玮甯回应二胎",
+      "onboard_time": 1758114865,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 118969,
@@ -2249,14 +2273,6 @@
       "onboard_time": 1758110722,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113835,
-      "num": 126555,
-      "word": "许玮甯回应二胎",
-      "onboard_time": 1758114865,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 113759,
@@ -2401,6 +2417,14 @@
       "onboard_time": 1758066683,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105842,
+      "num": 105842,
+      "word": "女子忘拔油枪开车就走拽倒加油机",
+      "onboard_time": 1758116065,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105450,
@@ -2617,6 +2641,14 @@
       "onboard_time": 1758031411,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96922,
+      "num": 96922,
+      "word": "孙颖莎打call说周末到河北",
+      "onboard_time": 1758116124,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 96881,
@@ -3331,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26227,
+      "num": 626610,
+      "word": "翱翔长空",
+      "onboard_time": 1758115644,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24189,
       "num": 744550,
       "word": "两点一存耀华夏",
@@ -3377,14 +3417,6 @@
       "onboard_time": 1758051615,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15814,
-      "num": 626610,
-      "word": "翱翔长空",
-      "onboard_time": 1758115644,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14639,

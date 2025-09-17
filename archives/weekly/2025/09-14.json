@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758115958471,
+  "endTime": 1758116656672,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -963,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 839573,
+      "num": 839573,
+      "word": "绿茶餐厅拆掉现做招牌",
+      "onboard_time": 1758110483,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 839231,
       "num": 1537442,
       "word": "日本拒绝美国",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1757901261,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 782423,
-      "num": 782423,
-      "word": "绿茶餐厅拆掉现做招牌",
-      "onboard_time": 1758110483,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 776123,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1758003383,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607846,
+      "num": 279221,
+      "word": "杨丞琳李荣浩结婚6周年发文",
+      "onboard_time": 1758112703,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 606589,
@@ -2131,8 +2139,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 443510,
-      "num": 443510,
+      "raw_hot": 446709,
+      "num": 446709,
       "word": "水牛奶 水牛是商标",
       "onboard_time": 1758111502,
       "rank": 18,
@@ -2315,6 +2323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 419465,
+      "num": 276784,
+      "word": "刘亦菲38岁素颜状态",
+      "onboard_time": 1758112402,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417629,
       "num": 195285,
       "word": "BBC称日本从未正视侵略历史",
@@ -2441,14 +2457,6 @@
       "onboard_time": 1757860765,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 395709,
-      "num": 279221,
-      "word": "杨丞琳李荣浩结婚6周年发文",
-      "onboard_time": 1758112703,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 394075,
@@ -2609,14 +2617,6 @@
       "onboard_time": 1757821762,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 378367,
-      "num": 276784,
-      "word": "刘亦菲38岁素颜状态",
-      "onboard_time": 1758112402,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 377645,
@@ -3323,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280995,
+      "num": 340306,
+      "word": "张维伊跳扫腿舞",
+      "onboard_time": 1758114865,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279736,
       "num": 220996,
       "word": "何秋亊 人民非遗推荐人",
@@ -3859,20 +3867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237897,
-      "num": 340306,
-      "word": "张维伊跳扫腿舞",
-      "onboard_time": 1758114865,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237881,
       "num": 237881,
       "word": "樊振东玉面战神",
       "onboard_time": 1757859386,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236528,
+      "num": 316396,
+      "word": "校方回应强制女生剪斜面短发",
+      "onboard_time": 1758112944,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236412,
@@ -5011,6 +5019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192895,
+      "num": 192895,
+      "word": "女孩得知被拐轻生养父痛哭无能为力",
+      "onboard_time": 1758114502,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192819,
       "num": 192819,
       "word": "祝绪丹回应直播哽咽",
@@ -5065,14 +5081,6 @@
       "onboard_time": 1757924123,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191722,
-      "num": 316396,
-      "word": "校方回应强制女生剪斜面短发",
-      "onboard_time": 1758112944,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191609,
@@ -5291,6 +5299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185884,
+      "num": 196613,
+      "word": "第一次见女主把男主当工具人",
+      "onboard_time": 1758115463,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185657,
       "num": 185657,
       "word": "人还是不能突然有钱",
@@ -5369,6 +5385,14 @@
       "onboard_time": 1757834781,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183629,
+      "num": 227561,
+      "word": "马天宇出席釜山国际电影节",
+      "onboard_time": 1758114684,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 183156,
@@ -5465,14 +5489,6 @@
       "onboard_time": 1758021683,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 180289,
-      "num": 180289,
-      "word": "女孩得知被拐轻生养父痛哭无能为力",
-      "onboard_time": 1758114502,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180034,
@@ -6523,14 +6539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159100,
-      "num": 227561,
-      "word": "马天宇出席釜山国际电影节",
-      "onboard_time": 1758114684,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159099,
       "num": 159099,
       "word": "孙颖莎澳门冠军赛卫冕发文",
@@ -7179,14 +7187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147069,
-      "num": 196613,
-      "word": "第一次见女主把男主当工具人",
-      "onboard_time": 1758115463,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146773,
       "num": 146773,
       "word": "wei",
@@ -7603,6 +7603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140957,
+      "num": 205530,
+      "word": "赴山海男一男二大战",
+      "onboard_time": 1758112102,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140891,
       "num": 361507,
       "word": "张曼玉IP显示仍在中国香港",
@@ -7865,6 +7873,14 @@
       "onboard_time": 1758083365,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135878,
+      "num": 135878,
+      "word": "孟子义拿白兰花这张图",
+      "onboard_time": 1758116306,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 135855,
@@ -8451,14 +8467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127186,
-      "num": 205530,
-      "word": "赴山海男一男二大战",
-      "onboard_time": 1758112102,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127110,
       "num": 407757,
       "word": "北方局地降温10摄氏度",
@@ -8528,6 +8536,14 @@
       "word": "李一桐靠一个字超级加辈",
       "onboard_time": 1758098363,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126182,
+      "num": 126182,
+      "word": "郑恺被暴雨逼没招了",
+      "onboard_time": 1758116484,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -8979,6 +8995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119329,
+      "num": 126555,
+      "word": "许玮甯回应二胎",
+      "onboard_time": 1758114865,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119315,
       "num": 119315,
       "word": "国庆车票比演唱会门票还难抢",
@@ -9393,14 +9417,6 @@
       "onboard_time": 1757841083,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113835,
-      "num": 126555,
-      "word": "许玮甯回应二胎",
-      "onboard_time": 1758114865,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 113759,
@@ -9921,6 +9937,14 @@
       "onboard_time": 1758066683,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105842,
+      "num": 105842,
+      "word": "女子忘拔油枪开车就走拽倒加油机",
+      "onboard_time": 1758116065,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105475,
@@ -10600,6 +10624,14 @@
       "word": "王楚钦在线炫技",
       "onboard_time": 1758114023,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96922,
+      "num": 96922,
+      "word": "孙颖莎打call说周末到河北",
+      "onboard_time": 1758116124,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -13123,6 +13155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26227,
+      "num": 626610,
+      "word": "翱翔长空",
+      "onboard_time": 1758115644,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25883,
       "num": 143518,
       "word": "杜淳女儿脱水酸中毒",
@@ -13473,14 +13513,6 @@
       "onboard_time": 1758051615,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15814,
-      "num": 626610,
-      "word": "翱翔长空",
-      "onboard_time": 1758115644,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15508,
