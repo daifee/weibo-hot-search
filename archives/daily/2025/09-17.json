@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758119036864,
+  "endTime": 1758120127695,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 699895,
+      "num": 699895,
+      "word": "郑恺被暴雨逼没招了",
+      "onboard_time": 1758116484,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690481,
       "num": 223446,
       "word": "于朦胧后事已处理完",
@@ -371,20 +379,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 530910,
+      "num": 530910,
+      "word": "女孩得知被拐轻生养父痛哭无能为力",
+      "onboard_time": 1758114502,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523547,
       "num": 523547,
       "word": "赴山海一集下线134人",
       "onboard_time": 1758108684,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521037,
-      "num": 521037,
-      "word": "郑恺被暴雨逼没招了",
-      "onboard_time": 1758116484,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 519183,
@@ -515,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 437728,
-      "num": 437728,
-      "word": "女孩得知被拐轻生养父痛哭无能为力",
-      "onboard_time": 1758114502,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 436251,
+      "num": 436251,
+      "word": "马天宇出席釜山国际电影节",
+      "onboard_time": 1758114684,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 433199,
@@ -571,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403719,
-      "num": 403719,
-      "word": "马天宇出席釜山国际电影节",
-      "onboard_time": 1758114684,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 403610,
       "num": 222843,
       "word": "关晓彤旅行中的一些小小仪式",
@@ -593,6 +593,14 @@
       "onboard_time": 1758079222,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 396932,
+      "num": 265725,
+      "word": "15岁男孩在自家小区捅死同班女生",
+      "onboard_time": 1758118885,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384958,
@@ -811,6 +819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 284594,
+      "num": 284594,
+      "word": "女子忘拔油枪开车就走拽倒加油机",
+      "onboard_time": 1758116065,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280995,
       "num": 340306,
       "word": "张维伊跳扫腿舞",
@@ -859,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270124,
-      "num": 200651,
-      "word": "15岁男孩在自家小区捅死同班女生",
-      "onboard_time": 1758118885,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266346,
       "num": 266346,
       "word": "喜人奇妙夜2冠军回归",
@@ -907,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237005,
+      "num": 237005,
+      "word": "美联储",
+      "onboard_time": 1758117204,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234774,
       "num": 216908,
       "word": "女生坐火车卧铺打伞遮隐私",
@@ -921,6 +937,14 @@
       "onboard_time": 1758033210,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229156,
+      "num": 229156,
+      "word": "邵雨轩自曝遭遇性骚扰",
+      "onboard_time": 1758119062,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 228660,
@@ -947,12 +971,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 225233,
-      "num": 225233,
-      "word": "美联储",
-      "onboard_time": 1758117204,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 218980,
+      "num": 175716,
+      "word": "她这四十几年没有上过一天班",
+      "onboard_time": 1758119366,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 217219,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1758103644,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205882,
+      "num": 205882,
+      "word": "邢菲黑色蕾丝头纱帽",
+      "onboard_time": 1758119183,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205527,
@@ -1259,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179244,
+      "num": 174295,
+      "word": "无畏这组是我定制的青春男大",
+      "onboard_time": 1758119303,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179181,
       "num": 179181,
       "word": "魔法公主的小烦恼定档",
@@ -1272,6 +1312,14 @@
       "word": "不眠日 蛋糕爆炸婚礼一秒变葬礼",
       "onboard_time": 1758096985,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177526,
+      "num": 225093,
+      "word": "陈钰琪在赴山海里正反派横跳",
+      "onboard_time": 1758118584,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1571,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153177,
+      "num": 153177,
+      "word": "28岁女继承人疑被虫咬后在伦敦死亡",
+      "onboard_time": 1758119906,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 151727,
       "num": 151727,
       "word": "于晓光儿子抽中隐藏款Labubu",
@@ -1593,14 +1649,6 @@
       "onboard_time": 1758080843,
       "rank": 43,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 149822,
-      "num": 225093,
-      "word": "陈钰琪在赴山海里正反派横跳",
-      "onboard_time": 1758118584,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 149820,
@@ -1720,14 +1768,6 @@
       "word": "女子拍闪电意外拍到不明黑影",
       "onboard_time": 1758099083,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141805,
-      "num": 258912,
-      "word": "女子忘拔油枪开车就走拽倒加油机",
-      "onboard_time": 1758116065,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2115,6 +2155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124888,
+      "num": 260877,
+      "word": "外嫁女持户口要地和弟弟撕破脸",
+      "onboard_time": 1758118284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124549,
+      "num": 124549,
+      "word": "欧盟宣布对以色列制裁措施",
+      "onboard_time": 1758120084,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123610,
       "num": 123610,
       "word": "柯淳抱宁静像地主家傻儿子娶媳妇",
@@ -2128,6 +2184,14 @@
       "word": "出生237天的他成为了大体老师",
       "onboard_time": 1758033390,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123211,
+      "num": 176183,
+      "word": "男子飞机上想起家中忘关火求助机长",
+      "onboard_time": 1758119546,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2265,6 +2329,14 @@
       "onboard_time": 1758077844,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118358,
+      "num": 144726,
+      "word": "许玮甯说宝宝是邱泽在带",
+      "onboard_time": 1758118045,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 117805,
@@ -2715,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96360,
+      "num": 264306,
+      "word": "无法拒绝的大六座SUV",
+      "onboard_time": 1758117565,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95587,
       "num": 95587,
       "word": "上海海港vs神户胜利船",
@@ -2884,7 +2964,7 @@
     },
     {
       "raw_hot": 82853,
-      "num": 197627,
+      "num": 251026,
       "word": "腾势N9再次刷新世界纪录",
       "onboard_time": 1758118885,
       "rank": 31,
@@ -2897,14 +2977,6 @@
       "onboard_time": 1758074481,
       "rank": 39,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 82352,
-      "num": 264306,
-      "word": "无法拒绝的大六座SUV",
-      "onboard_time": 1758117565,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 81489,
@@ -3027,14 +3099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71903,
-      "num": 144726,
-      "word": "许玮甯说宝宝是邱泽在带",
-      "onboard_time": 1758118045,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70708,
       "num": 210597,
       "word": "森林北大方承认还有个儿子",
@@ -3081,6 +3145,22 @@
       "onboard_time": 1758079402,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65272,
+      "num": 128388,
+      "word": "上海发臭校园餐公司日供餐超50万份",
+      "onboard_time": 1758116785,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64475,
+      "num": 124660,
+      "word": "男子回应将3个孩子放地铁站门口",
+      "onboard_time": 1758120084,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63670,
@@ -3361,14 +3441,6 @@
       "onboard_time": 1758107303,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37594,
-      "num": 260877,
-      "word": "外嫁女持户口要地和弟弟撕破脸",
-      "onboard_time": 1758118284,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35848,
