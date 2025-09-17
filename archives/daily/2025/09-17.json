@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758091795335,
+  "endTime": 1758093825147,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 913297,
-      "num": 292255,
+      "num": 348270,
       "word": "田曦薇我生下来就是齐刘海",
       "onboard_time": 1758086723,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 900888,
+      "num": 1144142,
+      "word": "女子坠废井54小时还被几条蛇缠身",
+      "onboard_time": 1758091042,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 899119,
@@ -171,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 625955,
+      "num": 625955,
+      "word": "赴山海 随时随地发现新剧本",
+      "onboard_time": 1758090985,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 587695,
       "num": 587695,
       "word": "日本人吃预制菜五十年了",
@@ -211,12 +227,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 502370,
+      "num": 502370,
+      "word": "国庆放假去玩的嘴真严啊",
+      "onboard_time": 1758088764,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 498866,
       "num": 498866,
       "word": "鲍蕾为了陆毅放弃事业",
       "onboard_time": 1758075022,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495394,
+      "num": 495394,
+      "word": "黑色版iPhone17Pro",
+      "onboard_time": 1758091884,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 489837,
@@ -235,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483695,
+      "num": 483695,
+      "word": "GAI算不算透露说唱圈内幕了",
+      "onboard_time": 1758092542,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464459,
       "num": 464459,
       "word": "日本人出1200万求购非遗面具被拒",
@@ -249,6 +289,14 @@
       "onboard_time": 1758083725,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456184,
+      "num": 331264,
+      "word": "香蕉是一种攻击性很强的水果",
+      "onboard_time": 1758083005,
+      "rank": 26,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 437910,
@@ -276,7 +324,7 @@
     },
     {
       "raw_hot": 420703,
-      "num": 288762,
+      "num": 299108,
       "word": "陈若仪回应kimi不露脸原因",
       "onboard_time": 1758085584,
       "rank": 30,
@@ -315,12 +363,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 371684,
-      "num": 371684,
-      "word": "国庆放假去玩的嘴真严啊",
-      "onboard_time": 1758088764,
-      "rank": 6,
-      "category": "旅游"
+      "raw_hot": 372615,
+      "num": 372615,
+      "word": "桃黑黑盛世天下",
+      "onboard_time": 1758090202,
+      "rank": 8,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 363606,
@@ -419,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297508,
-      "num": 297508,
-      "word": "桃黑黑盛世天下",
-      "onboard_time": 1758090202,
-      "rank": 8,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 296287,
       "num": 296287,
       "word": "秦始皇派人去昆仑采药是真的",
@@ -449,14 +489,6 @@
       "onboard_time": 1758077364,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 285522,
-      "num": 285522,
-      "word": "香蕉是一种攻击性很强的水果",
-      "onboard_time": 1758083005,
-      "rank": 26,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 280675,
@@ -483,12 +515,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 273335,
-      "num": 295317,
-      "word": "女子坠废井54小时还被几条蛇缠身",
-      "onboard_time": 1758091042,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 277169,
+      "num": 154043,
+      "word": "日本皇室独苗曝爱吃垃圾食品",
+      "onboard_time": 1758093024,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 266346,
+      "num": 266346,
+      "word": "喜人奇妙夜2冠军回归",
+      "onboard_time": 1758092723,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 255405,
@@ -592,14 +632,6 @@
       "word": "不眠日",
       "onboard_time": 1758042320,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202469,
-      "num": 285741,
-      "word": "赴山海 随时随地发现新剧本",
-      "onboard_time": 1758090985,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -779,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173008,
+      "num": 173008,
+      "word": "上海小学生这吃的啥啊",
+      "onboard_time": 1758090625,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172924,
       "num": 172924,
       "word": "终于知道为什么飞国外要提前3小时",
@@ -811,12 +851,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167284,
+      "num": 167284,
+      "word": "林依晨产后3个月就复工",
+      "onboard_time": 1758093503,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167157,
       "num": 182120,
       "word": "魏大勋眼技",
       "onboard_time": 1758077364,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165683,
+      "num": 275355,
+      "word": "没认出来这是王鹤润",
+      "onboard_time": 1758090863,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 163606,
@@ -875,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155792,
-      "num": 275355,
-      "word": "没认出来这是王鹤润",
-      "onboard_time": 1758090863,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155215,
       "num": 151482,
       "word": "张百乔瘦太多被姥姥带去看病",
@@ -907,20 +955,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151550,
+      "num": 151550,
+      "word": "iPhone手机可以用多少年",
+      "onboard_time": 1758093204,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151202,
       "num": 151202,
       "word": "王鹤棣缺席美食大赛评委或因避嫌",
       "onboard_time": 1758086185,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151186,
-      "num": 151186,
-      "word": "上海小学生这吃的啥啊",
-      "onboard_time": 1758090625,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149887,
@@ -968,6 +1016,14 @@
       "word": "高圆圆陪女儿在公园打闹玩耍",
       "onboard_time": 1758084684,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144918,
+      "num": 167230,
+      "word": "陈小纭红嫁衣造型太对味了",
+      "onboard_time": 1758092542,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1059,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133515,
+      "num": 163862,
+      "word": "夫妻选车牌妻子随手摇出6666",
+      "onboard_time": 1758091762,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133292,
       "num": 227537,
       "word": "成毅的真古人vs假古人",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1758067705,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132831,
+      "num": 132831,
+      "word": "岳云鹏曾因6块钱被骂了3小时",
+      "onboard_time": 1758093444,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 132478,
@@ -1219,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122500,
+      "num": 122500,
+      "word": "龚俊 一个本身就很好的人",
+      "onboard_time": 1758093324,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122227,
       "num": 122227,
       "word": "普京身着军装出席军演",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1758078504,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121393,
+      "num": 121393,
+      "word": "年少时的旅行比黄金还珍贵",
+      "onboard_time": 1758093743,
+      "rank": 37,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 120344,
@@ -1299,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118589,
+      "num": 118589,
+      "word": "原来厨综难吃是可以直说的",
+      "onboard_time": 1758091523,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118555,
       "num": 135009,
       "word": "德国总理戴犹太小帽哽咽回忆纳粹罪行",
@@ -1313,6 +1409,14 @@
       "onboard_time": 1758089425,
       "rank": 41,
       "category": "体育,海外新闻"
+    },
+    {
+      "raw_hot": 116371,
+      "num": 116371,
+      "word": "人生大事全部体验完的35岁",
+      "onboard_time": 1758093324,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 115257,
@@ -1353,14 +1457,6 @@
       "onboard_time": 1758089844,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 112386,
-      "num": 112386,
-      "word": "原来厨综难吃是可以直说的",
-      "onboard_time": 1758091523,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 111056,
@@ -1419,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106258,
+      "num": 106258,
+      "word": "故意让内向的孩子抽到空白签",
+      "onboard_time": 1758092963,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106014,
       "num": 106014,
       "word": "看林允我都有些害怕了",
@@ -1435,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105450,
+      "num": 105450,
+      "word": "湖南通报5岁女童被水泥杆砸中离世",
+      "onboard_time": 1758093083,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104638,
       "num": 104638,
       "word": "张凌赫你让我们吃太好了",
@@ -1443,12 +1555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104581,
+      "num": 158357,
+      "word": "韩方授予4名中国海警荣誉称号",
+      "onboard_time": 1758093324,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104170,
       "num": 104170,
       "word": "狗 你可真是我的爪上明珠",
       "onboard_time": 1758091523,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104014,
+      "num": 104014,
+      "word": "月薪3万的月嫂一天做我一辈子的家务",
+      "onboard_time": 1758093683,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 102979,
@@ -1507,12 +1635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99571,
-      "num": 99571,
-      "word": "夫妻选车牌妻子随手摇出6666",
-      "onboard_time": 1758091762,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 97462,
+      "num": 97462,
+      "word": "2025ASI亚洲邀请赛官宣",
+      "onboard_time": 1758093803,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 96960,
@@ -1745,6 +1873,14 @@
       "onboard_time": 1758021022,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70618,
+      "num": 233342,
+      "word": "iOS26续航",
+      "onboard_time": 1758093383,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 70581,
@@ -1987,7 +2123,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43050,
+      "raw_hot": 43734,
       "num": 874576,
       "word": "网警打掉侵犯公民信息违法犯罪团伙",
       "onboard_time": 1758089664,
@@ -2011,12 +2147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34226,
+      "num": 119009,
+      "word": "啄木鸟维修 越修越漏",
+      "onboard_time": 1758093083,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30941,
       "num": 207735,
       "word": "享界S9T售价30万起6万限时权益",
       "onboard_time": 1758033210,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28197,
+      "num": 118616,
+      "word": "王暖暖称丈夫向她索要过五辆车",
+      "onboard_time": 1758092723,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20661,
