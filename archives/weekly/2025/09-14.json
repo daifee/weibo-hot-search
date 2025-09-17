@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758084148212,
+  "endTime": 1758086633166,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -128,6 +128,14 @@
       "word": "多名男留学生混住在女生宿舍楼",
       "onboard_time": 1758000805,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2000293,
+      "num": 2000293,
+      "word": "大二女生宿舍分娩到底谁的错",
+      "onboard_time": 1758084026,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1323,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568903,
+      "num": 273653,
+      "word": "简历唯独不可以是pdf",
+      "onboard_time": 1758082284,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 568771,
       "num": 568771,
       "word": "父母情绪不稳定孩子切忌自责",
@@ -1803,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461951,
+      "num": 382356,
+      "word": "赴山海品牌方发声",
+      "onboard_time": 1758083725,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458945,
       "num": 458945,
       "word": "罗永浩回应西贝客流量增加",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1757931322,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 449880,
+      "num": 256920,
+      "word": "被虐死女孩说的第一句话是叫爸爸",
+      "onboard_time": 1758086004,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448277,
@@ -2491,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343687,
+      "num": 343687,
+      "word": "宋祖儿说姥姥就此别过",
+      "onboard_time": 1758082463,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343242,
       "num": 343242,
       "word": "韦雪约会迟到被罚44杯酒",
@@ -2505,14 +2545,6 @@
       "onboard_time": 1757837603,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342500,
-      "num": 273653,
-      "word": "简历唯独不可以是pdf",
-      "onboard_time": 1758082284,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 340386,
@@ -2771,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299008,
+      "num": 173445,
+      "word": "陈若仪回应kimi不露脸原因",
+      "onboard_time": 1758085584,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296803,
       "num": 231314,
       "word": "多囊vs多囊卵巢综合征",
@@ -2865,14 +2905,6 @@
       "onboard_time": 1758077364,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 286521,
-      "num": 286521,
-      "word": "宋祖儿说姥姥就此别过",
-      "onboard_time": 1758082463,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 285208,
@@ -2977,14 +3009,6 @@
       "onboard_time": 1757988081,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 275865,
-      "num": 275865,
-      "word": "赴山海品牌方发声",
-      "onboard_time": 1758083725,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 271205,
@@ -3547,12 +3571,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228660,
+      "num": 228660,
+      "word": "跑男团集体给宋雨琦打call",
+      "onboard_time": 1758085045,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227757,
       "num": 259740,
       "word": "迪卡侬广告 处女地",
       "onboard_time": 1758031050,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227391,
+      "num": 173411,
+      "word": "给不会修眉的人一点震撼",
+      "onboard_time": 1758085524,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 227339,
@@ -3987,6 +4027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205527,
+      "num": 205527,
+      "word": "不眠日",
+      "onboard_time": 1757956518,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205475,
       "num": 205475,
       "word": "广东早茶 预制",
@@ -4145,6 +4193,14 @@
       "onboard_time": 1758078023,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 198911,
+      "num": 198911,
+      "word": "李兰迪 你赶紧上学吧",
+      "onboard_time": 1758085164,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 198852,
@@ -4763,6 +4819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184694,
+      "num": 184694,
+      "word": "香蕉是一种攻击性很强的水果",
+      "onboard_time": 1758083005,
+      "rank": 26,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "短剧仙剑三开机",
@@ -4899,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179626,
+      "num": 179626,
+      "word": "orm澄清恋情",
+      "onboard_time": 1758084145,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179459,
       "num": 179459,
       "word": "李雪琴 拢共就三个人",
@@ -4993,6 +5065,14 @@
       "onboard_time": 1757865207,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176894,
+      "num": 176894,
+      "word": "王俊凯摸董子健肌肉",
+      "onboard_time": 1758084505,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 176707,
@@ -5115,6 +5195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173078,
+      "num": 173078,
+      "word": "喜人奇妙夜2定档双更",
+      "onboard_time": 1758085823,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172924,
       "num": 172924,
       "word": "终于知道为什么飞国外要提前3小时",
@@ -5153,6 +5241,14 @@
       "onboard_time": 1757914102,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171808,
+      "num": 171808,
+      "word": "小米17Pro跑分出炉",
+      "onboard_time": 1758086484,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 171653,
@@ -6067,6 +6163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151202,
+      "num": 151202,
+      "word": "王鹤棣缺席美食大赛评委或因避嫌",
+      "onboard_time": 1758086185,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "李一桐檀健次给好六后期上难度",
@@ -6169,6 +6273,14 @@
       "onboard_time": 1758007463,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149283,
+      "num": 149283,
+      "word": "南京红山动物园门票从40涨到70",
+      "onboard_time": 1758083485,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148818,
@@ -6352,6 +6464,14 @@
       "word": "张维伊董璇互相见不上",
       "onboard_time": 1757925082,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146338,
+      "num": 146338,
+      "word": "高圆圆陪女儿在公园打闹玩耍",
+      "onboard_time": 1758084684,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -6561,14 +6681,6 @@
       "onboard_time": 1757919561,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142960,
-      "num": 142960,
-      "word": "大二女生宿舍分娩到底谁的错",
-      "onboard_time": 1758084026,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142811,
@@ -7179,6 +7291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130548,
+      "num": 130548,
+      "word": "原来钛餐具可以自己上色",
+      "onboard_time": 1758084385,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130488,
       "num": 130488,
       "word": "柯南2026年剧场版标题",
@@ -7345,6 +7465,14 @@
       "onboard_time": 1757988502,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127225,
+      "num": 127225,
+      "word": "离岸人民币升穿7.1",
+      "onboard_time": 1758086426,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 127204,
@@ -7611,6 +7739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122227,
+      "num": 122227,
+      "word": "普京身着军装出席军演",
+      "onboard_time": 1758085344,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122182,
       "num": 122182,
       "word": "AirPodsPro3上手",
@@ -7849,6 +7985,22 @@
       "onboard_time": 1757822663,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118633,
+      "num": 118633,
+      "word": "曝富士康20万人赶工iPhone17",
+      "onboard_time": 1758086602,
+      "rank": 48,
+      "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 118617,
+      "num": 118617,
+      "word": "研究生味很浓的口头禅",
+      "onboard_time": 1758084684,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 118555,
@@ -9515,6 +9667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83987,
+      "num": 149436,
+      "word": "顾客称煎蛋预制有指纹退款老板委屈",
+      "onboard_time": 1758085886,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83423,
       "num": 81411,
       "word": "谁懂一个东北人的无力感",
@@ -9545,14 +9705,6 @@
       "onboard_time": 1758074481,
       "rank": 39,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 81970,
-      "num": 147848,
-      "word": "南京红山动物园门票从40涨到70",
-      "onboard_time": 1758083485,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81885,
@@ -10715,6 +10867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48445,
+      "num": 173560,
+      "word": "你为什么就是瘦不下来",
+      "onboard_time": 1758086185,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 48276,
       "num": 227250,
       "word": "王星越教贾乃亮饭撒",
@@ -10825,14 +10985,6 @@
       "onboard_time": 1757946684,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44327,
-      "num": 96766,
-      "word": "不眠日",
-      "onboard_time": 1757956518,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 44196,
@@ -11033,6 +11185,14 @@
       "onboard_time": 1758004342,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 36851,
+      "num": 149883,
+      "word": "一家公立二甲医院欠薪倒闭背后",
+      "onboard_time": 1758086484,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36527,
