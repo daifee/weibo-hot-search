@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 21:44:16
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/17 22:23:56
 </p>
 </blockquote>
 <p>
@@ -1353,6 +1353,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
+福建一中学强制女生剪斜面短发（热度：1391325）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%93%E5%88%97%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%23" target="weibo">
 金正恩专列抵达北京（热度：1390300）
 </a>
@@ -1607,12 +1613,6 @@ NASA明确发现火星生命迹象（热度：1280374）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E5%BD%B1%E5%90%8E%E6%98%AF%E5%85%A8%E7%A5%A8%E9%80%9A%E8%BF%87%23" target="weibo">
 辛芷蕾的影后是全票通过（热度：1255093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
-福建一中学强制女生剪斜面短发（热度：1252038）
 </a>
 </li>
 
@@ -5337,6 +5337,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
+校方回应强制女生剪斜面短发（热度：538997）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E6%B0%B4%E5%90%8E%E5%87%A0%E4%B8%AA%E8%A1%A8%E7%8E%B0%E8%AF%B4%E6%98%8E%E8%82%BE%E4%B8%8D%E5%A5%BD%23" target="weibo">
 喝水后几个表现说明肾不好（热度：538503）
 </a>
@@ -5601,6 +5607,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%A2%AB%E6%9A%B4%E9%9B%A8%E9%80%BC%E6%B2%A1%E6%8B%9B%E4%BA%86%23" target="weibo">
+郑恺被暴雨逼没招了（热度：521037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E9%97%AF%20%E5%B0%8F%E7%B1%B3%23" target="weibo">
 闫闯 小米（热度：520850）
 </a>
@@ -5609,6 +5621,12 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E5%B7%B2%E5%90%AF%E7%A8%8B%E6%9D%A5%E5%8D%8E%23" target="weibo">
 金正恩已启程来华（热度：520112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E7%89%9B%E5%A5%B6%20%E6%B0%B4%E7%89%9B%E6%98%AF%E5%95%86%E6%A0%87%23" target="weibo">
+水牛奶 水牛是商标（热度：519183）
 </a>
 </li>
 
@@ -5996,24 +6014,6 @@ A股（热度：494883）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BA%B2%E6%89%8B%E7%BC%9D%E7%9A%84NIKE%E4%B9%A6%E5%8C%85%E7%81%AB%E4%BA%86%23" target="weibo">
-妈妈亲手缝的NIKE书包火了（热度：492818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E7%A6%BB%E4%BA%AC%E7%8B%AC%E5%AE%B6%E8%A7%86%E9%A2%91%23" target="weibo">
-金正恩乘专列离京独家视频（热度：492528）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E7%94%A8%E6%89%93%E7%81%AB%E6%9C%BA%E7%94%B5%E5%87%BB%E6%B4%97%E6%BE%A1%E5%A6%B9%E5%A6%B9%E8%87%B4%E5%85%B6%E7%83%A7%E4%BC%A4%23" target="weibo">
-哥哥用打火机电击洗澡妹妹致其烧伤（热度：492504）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6341,6 +6341,12 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8B%89%E5%8A%B1%E5%A4%A7%E5%AE%B6%E5%A5%8B%E5%8F%91%E8%BF%9B%E5%8F%96%E5%86%8D%E7%AB%8B%E6%96%B0%E5%8A%9F%23%23" target="weibo">
 #习近平勉励大家奋发进取再立新功#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E6%95%85%E4%BA%8B%E5%92%8C%E5%B9%B3%E5%8F%91%E5%B1%95%E6%95%85%E4%BA%8B%23%23" target="weibo">
+#讲好中国抗战故事和平发展故事#
 </a>
 </li>
 
