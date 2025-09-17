@@ -1,6 +1,6 @@
 {
   "startTime": 1758040309340,
-  "endTime": 1758087628290,
+  "endTime": 1758091010482,
   "band_list": [
     {
       "raw_hot": 6627631,
@@ -8,6 +8,14 @@
       "word": "于朦胧系饮酒意外坠亡",
       "onboard_time": 1758030448,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2629285,
+      "num": 715264,
+      "word": "关晓彤生日发文",
+      "onboard_time": 1758086963,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1758077244,
       "rank": 10,
       "category": "体育,海外新闻"
+    },
+    {
+      "raw_hot": 1467757,
+      "num": 1467757,
+      "word": "清华学霸晒1.67亿元年薪引调查",
+      "onboard_time": 1758087324,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1224288,
@@ -65,6 +81,14 @@
       "onboard_time": 1758034408,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 913297,
+      "num": 225421,
+      "word": "田曦薇我生下来就是齐刘海",
+      "onboard_time": 1758086723,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 899119,
@@ -123,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 714105,
-      "num": 435300,
-      "word": "关晓彤生日发文",
-      "onboard_time": 1758086963,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 690481,
       "num": 223446,
       "word": "于朦胧后事已处理完",
@@ -169,6 +185,14 @@
       "onboard_time": 1758033689,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 546699,
+      "num": 546699,
+      "word": "手部出现的3种癌症预警信号",
+      "onboard_time": 1758089304,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 537502,
@@ -227,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452620,
-      "num": 215860,
-      "word": "田曦薇我生下来就是齐刘海",
-      "onboard_time": 1758086723,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 437910,
       "num": 221240,
       "word": "于朦胧母亲发文",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 420703,
-      "num": 215528,
+      "num": 222498,
       "word": "陈若仪回应kimi不露脸原因",
       "onboard_time": 1758085584,
       "rank": 30,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298824,
+      "num": 298824,
+      "word": "国庆放假去玩的嘴真严啊",
+      "onboard_time": 1758088764,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 296287,
       "num": 296287,
       "word": "秦始皇派人去昆仑采药是真的",
@@ -393,6 +417,14 @@
       "onboard_time": 1758032611,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290889,
+      "num": 290889,
+      "word": "上海冰雹",
+      "onboard_time": 1758088825,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287604,
@@ -427,12 +459,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 257192,
+      "num": 257192,
+      "word": "桃黑黑盛世天下",
+      "onboard_time": 1758090202,
+      "rank": 8,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 255405,
       "num": 255405,
       "word": "警方通报一女子假扮骑手卖惨诈骗",
       "onboard_time": 1758063740,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251773,
+      "num": 217660,
+      "word": "香蕉是一种攻击性很强的水果",
+      "onboard_time": 1758083005,
+      "rank": 26,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 246045,
@@ -515,8 +563,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206252,
+      "num": 206252,
+      "word": "12306 我要回家",
+      "onboard_time": 1758089304,
+      "rank": 20,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 205527,
-      "num": 205527,
+      "num": 207680,
       "word": "不眠日",
       "onboard_time": 1758042320,
       "rank": 39,
@@ -571,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192338,
-      "num": 184694,
-      "word": "香蕉是一种攻击性很强的水果",
-      "onboard_time": 1758083005,
-      "rank": 26,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 191304,
       "num": 191304,
       "word": "相亲铁律",
@@ -611,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189581,
-      "num": 189581,
-      "word": "清华学霸晒1.67亿元年薪引调查",
-      "onboard_time": 1758087324,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186866,
       "num": 186866,
       "word": "原来真的有神兵天降",
@@ -641,6 +681,30 @@
       "onboard_time": 1758074902,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 184745,
+      "num": 184745,
+      "word": "陆虎送妹妹出嫁",
+      "onboard_time": 1758090625,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182761,
+      "num": 182761,
+      "word": "西贝门店回应有顾客公筷喂狗",
+      "onboard_time": 1758087145,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182091,
+      "num": 182091,
+      "word": "婆媳最好的关系是没关系",
+      "onboard_time": 1758088944,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 179882,
@@ -987,12 +1051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131293,
+      "num": 131293,
+      "word": "张百乔瘦太多被姥姥带去看病",
+      "onboard_time": 1758090683,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131090,
       "num": 131090,
       "word": "旅行对生活的意义",
       "onboard_time": 1758080244,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 130972,
+      "num": 206374,
+      "word": "网红小黑妮结婚带货直播被封",
+      "onboard_time": 1758087685,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 130548,
@@ -1017,6 +1097,14 @@
       "onboard_time": 1758078085,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129848,
+      "num": 192503,
+      "word": "人才补贴拖欠",
+      "onboard_time": 1758087385,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128804,
@@ -1107,6 +1195,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119697,
+      "num": 119697,
+      "word": "上海小学生这吃的啥啊",
+      "onboard_time": 1758090625,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119556,
+      "num": 119556,
+      "word": "没认出来这是王鹤润",
+      "onboard_time": 1758090863,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119381,
+      "num": 119381,
+      "word": "关晓彤生日现身王牌录制",
+      "onboard_time": 1758089963,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118969,
+      "num": 118969,
+      "word": "密室大逃脱",
+      "onboard_time": 1758089242,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118678,
       "num": 118678,
       "word": "果然事业单位大佬都在评论区",
@@ -1139,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117805,
+      "num": 117805,
+      "word": "外网对美国网球选手吐槽中餐的反应",
+      "onboard_time": 1758089425,
+      "rank": 41,
+      "category": "体育,海外新闻"
+    },
+    {
       "raw_hot": 115257,
       "num": 213566,
       "word": "陈星旭和妈妈共用一张脸",
@@ -1161,6 +1289,22 @@
       "onboard_time": 1758076944,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112915,
+      "num": 112915,
+      "word": "华为发布十大技术趋势",
+      "onboard_time": 1758090803,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 112847,
+      "num": 112847,
+      "word": "小米平板8",
+      "onboard_time": 1758089844,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 111056,
@@ -1203,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106417,
+      "num": 106417,
+      "word": "S15资格赛赛程",
+      "onboard_time": 1758090262,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106014,
       "num": 106014,
       "word": "看林允我都有些害怕了",
@@ -1217,6 +1369,22 @@
       "onboard_time": 1758066683,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105666,
+      "num": 105666,
+      "word": "赴山海 随时随地发现新剧本",
+      "onboard_time": 1758090985,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102979,
+      "num": 105696,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1758089664,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 102297,
@@ -1611,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55222,
+      "num": 117808,
+      "word": "以色列称手机等于一块以色列",
+      "onboard_time": 1758089963,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54462,
       "num": 207691,
       "word": "神似刘亦菲女孩3条视频涨粉20万",
@@ -1627,12 +1803,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51839,
-      "num": 192503,
-      "word": "人才补贴拖欠",
-      "onboard_time": 1758087385,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 50987,
+      "num": 117872,
+      "word": "王楚钦从小就爱双手插兜",
+      "onboard_time": 1758089903,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 49770,
@@ -1657,6 +1833,14 @@
       "onboard_time": 1758037885,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48203,
+      "num": 132472,
+      "word": "普京身着军装出席联合军演",
+      "onboard_time": 1758088463,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46858,
@@ -1699,12 +1883,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44729,
+      "num": 117831,
+      "word": "景德镇敲烂瓷器被当古董卖上千元",
+      "onboard_time": 1758090202,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43806,
       "num": 50108,
       "word": "于朦胧母亲希望回归平静生活",
       "onboard_time": 1758031292,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43050,
+      "num": 874576,
+      "word": "网警打掉侵犯公民信息违法犯罪团伙",
+      "onboard_time": 1758089664,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35544,

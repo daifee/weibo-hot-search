@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758087628290,
+  "endTime": 1758091010482,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -73,6 +73,14 @@
       "onboard_time": 1757902701,
       "rank": 10,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2629285,
+      "num": 715264,
+      "word": "关晓彤生日发文",
+      "onboard_time": 1758086963,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2500117,
@@ -321,6 +329,14 @@
       "onboard_time": 1757858967,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1467757,
+      "num": 1467757,
+      "word": "清华学霸晒1.67亿元年薪引调查",
+      "onboard_time": 1758087324,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1457421,
@@ -723,6 +739,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 913297,
+      "num": 225421,
+      "word": "田曦薇我生下来就是齐刘海",
+      "onboard_time": 1758086723,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 909422,
       "num": 909422,
       "word": "王楚钦下周重返世界第一",
@@ -1067,14 +1091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 714105,
-      "num": 435300,
-      "word": "关晓彤生日发文",
-      "onboard_time": 1758086963,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 709853,
       "num": 709853,
       "word": "肖战 美团团购",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1757820022,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546699,
+      "num": 546699,
+      "word": "手部出现的3种癌症预警信号",
+      "onboard_time": 1758089304,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 545532,
@@ -1859,14 +1883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 452620,
-      "num": 215860,
-      "word": "田曦薇我生下来就是齐刘海",
-      "onboard_time": 1758086723,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 448277,
       "num": 448277,
       "word": "以色列坦克已入城",
@@ -2036,7 +2052,7 @@
     },
     {
       "raw_hot": 420703,
-      "num": 215528,
+      "num": 222498,
       "word": "陈若仪回应kimi不露脸原因",
       "onboard_time": 1758085584,
       "rank": 30,
@@ -2827,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298824,
+      "num": 298824,
+      "word": "国庆放假去玩的嘴真严啊",
+      "onboard_time": 1758088764,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 296803,
       "num": 231314,
       "word": "多囊vs多囊卵巢综合征",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1758010342,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 290889,
+      "num": 290889,
+      "word": "上海冰雹",
+      "onboard_time": 1758088825,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288492,
@@ -3187,6 +3219,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 257192,
+      "num": 257192,
+      "word": "桃黑黑盛世天下",
+      "onboard_time": 1758090202,
+      "rank": 8,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 256639,
       "num": 256639,
       "word": "剧才播10集女主背后空无一人",
@@ -3273,6 +3313,14 @@
       "onboard_time": 1757999843,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251773,
+      "num": 217660,
+      "word": "香蕉是一种攻击性很强的水果",
+      "onboard_time": 1758083005,
+      "rank": 26,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 251126,
@@ -4035,6 +4083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206252,
+      "num": 206252,
+      "word": "12306 我要回家",
+      "onboard_time": 1758089304,
+      "rank": 20,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 206060,
       "num": 206060,
       "word": "成毅10秒处这个连续翻转",
@@ -4044,7 +4100,7 @@
     },
     {
       "raw_hot": 205527,
-      "num": 205527,
+      "num": 207680,
       "word": "不眠日",
       "onboard_time": 1757956518,
       "rank": 49,
@@ -4555,14 +4611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 192338,
-      "num": 184694,
-      "word": "香蕉是一种攻击性很强的水果",
-      "onboard_time": 1758083005,
-      "rank": 26,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "WTT澳门冠军赛2025",
@@ -4689,14 +4737,6 @@
       "onboard_time": 1758082825,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189581,
-      "num": 189581,
-      "word": "清华学霸晒1.67亿元年薪引调查",
-      "onboard_time": 1758087324,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189365,
@@ -4851,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184745,
+      "num": 184745,
+      "word": "陆虎送妹妹出嫁",
+      "onboard_time": 1758090625,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "短剧仙剑三开机",
@@ -4899,6 +4947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182761,
+      "num": 182761,
+      "word": "西贝门店回应有顾客公筷喂狗",
+      "onboard_time": 1758087145,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182493,
       "num": 182493,
       "word": "宋亚轩二连MVP",
@@ -4913,6 +4969,14 @@
       "onboard_time": 1758027444,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182091,
+      "num": 182091,
+      "word": "婆媳最好的关系是没关系",
+      "onboard_time": 1758088944,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 181788,
@@ -7307,6 +7371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131293,
+      "num": 131293,
+      "word": "张百乔瘦太多被姥姥带去看病",
+      "onboard_time": 1758090683,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131272,
       "num": 149902,
       "word": "辛芷蕾的光影度假日记",
@@ -7321,6 +7393,14 @@
       "onboard_time": 1758080244,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 130972,
+      "num": 206374,
+      "word": "网红小黑妮结婚带货直播被封",
+      "onboard_time": 1758087685,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 130956,
@@ -7385,6 +7465,14 @@
       "onboard_time": 1757820082,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129848,
+      "num": 192503,
+      "word": "人才补贴拖欠",
+      "onboard_time": 1758087385,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129824,
@@ -7979,6 +8067,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119697,
+      "num": 119697,
+      "word": "上海小学生这吃的啥啊",
+      "onboard_time": 1758090625,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119556,
+      "num": 119556,
+      "word": "没认出来这是王鹤润",
+      "onboard_time": 1758090863,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119381,
+      "num": 119381,
+      "word": "关晓彤生日现身王牌录制",
+      "onboard_time": 1758089963,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119315,
       "num": 119315,
       "word": "国庆车票比演唱会门票还难抢",
@@ -8001,6 +8113,14 @@
       "onboard_time": 1757912783,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118969,
+      "num": 118969,
+      "word": "密室大逃脱",
+      "onboard_time": 1758089242,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 118931,
@@ -8081,6 +8201,14 @@
       "onboard_time": 1757825782,
       "rank": 40,
       "category": "演出,汽车"
+    },
+    {
+      "raw_hot": 117805,
+      "num": 117805,
+      "word": "外网对美国网球选手吐槽中餐的反应",
+      "onboard_time": 1758089425,
+      "rank": 41,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 117627,
@@ -8363,11 +8491,27 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 112915,
+      "num": 112915,
+      "word": "华为发布十大技术趋势",
+      "onboard_time": 1758090803,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112887,
       "num": 112887,
       "word": "iPhone17Pro无反向无线充电",
       "onboard_time": 1757915123,
       "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 112847,
+      "num": 112847,
+      "word": "小米平板8",
+      "onboard_time": 1758089844,
+      "rank": 44,
       "category": "数码"
     },
     {
@@ -8699,6 +8843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106417,
+      "num": 106417,
+      "word": "S15资格赛赛程",
+      "onboard_time": 1758090262,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106208,
       "num": 137107,
       "word": "刘宇宁新歌",
@@ -8753,6 +8905,14 @@
       "onboard_time": 1758066683,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105666,
+      "num": 105666,
+      "word": "赴山海 随时随地发现新剧本",
+      "onboard_time": 1758090985,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105475,
@@ -8841,6 +9001,14 @@
       "onboard_time": 1757849724,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102979,
+      "num": 105696,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1758089664,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 102805,
@@ -10731,6 +10899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55222,
+      "num": 117808,
+      "word": "以色列称手机等于一块以色列",
+      "onboard_time": 1758089963,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54570,
       "num": 120385,
       "word": "韩学者感叹才知道中国很牛",
@@ -10827,14 +11003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 51839,
-      "num": 192503,
-      "word": "人才补贴拖欠",
-      "onboard_time": 1758087385,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51673,
       "num": 180893,
       "word": "超10万人参加伦敦反移民活动",
@@ -10865,6 +11033,14 @@
       "onboard_time": 1757868380,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50987,
+      "num": 117872,
+      "word": "王楚钦从小就爱双手插兜",
+      "onboard_time": 1758089903,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 50196,
@@ -10963,6 +11139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48203,
+      "num": 132472,
+      "word": "普京身着军装出席联合军演",
+      "onboard_time": 1758088463,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47966,
       "num": 890320,
       "word": "国宝画重点",
@@ -11059,6 +11243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44729,
+      "num": 117831,
+      "word": "景德镇敲烂瓷器被当古董卖上千元",
+      "onboard_time": 1758090202,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44343,
       "num": 212870,
       "word": "网红蛋糕店请人热舞被质疑擦边",
@@ -11105,6 +11297,14 @@
       "onboard_time": 1757941524,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 43050,
+      "num": 874576,
+      "word": "网警打掉侵犯公民信息违法犯罪团伙",
+      "onboard_time": 1758089664,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42691,
