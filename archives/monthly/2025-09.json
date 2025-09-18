@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758216096372,
+  "endTime": 1758217197303,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -56873,6 +56873,14 @@
       "onboard_time": 1758027564,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25710,
+      "num": 45271,
+      "word": "于适现身吴天明青年电影展",
+      "onboard_time": 1758217037,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 25664,
