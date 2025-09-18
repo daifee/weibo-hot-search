@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758165102862,
+  "endTime": 1758166674398,
   "band_list": [
     {
       "raw_hot": 2581000,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2190053,
-      "num": 2190053,
+      "raw_hot": 2554956,
+      "num": 2554956,
       "word": "731",
       "onboard_time": 1758152660,
       "rank": 1,
@@ -43,12 +43,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1246791,
+      "raw_hot": 1314562,
       "num": 1246791,
       "word": "已在工位 消息秒回",
       "onboard_time": 1758159440,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1082909,
+      "num": 1082909,
+      "word": "建议大家不定期查看银行账单",
+      "onboard_time": 1758159682,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 1025407,
@@ -57,14 +65,6 @@
       "onboard_time": 1758120745,
       "rank": 0,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 896138,
-      "num": 896138,
-      "word": "建议大家不定期查看银行账单",
-      "onboard_time": 1758159682,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 843990,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 795743,
-      "num": 434155,
+      "num": 434807,
       "word": "小黄豆和迪丽热巴道歉",
       "onboard_time": 1758151701,
       "rank": 13,
@@ -89,6 +89,14 @@
       "onboard_time": 1758117204,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 750034,
+      "num": 447764,
+      "word": "孙菲菲说前夫不准她提年龄差15岁",
+      "onboard_time": 1758162082,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 724365,
@@ -123,14 +131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 572841,
-      "num": 240788,
-      "word": "孙菲菲说前夫不准她提年龄差15岁",
-      "onboard_time": 1758162082,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 533594,
       "num": 533594,
       "word": "9点18分辽宁防空警报",
@@ -147,12 +147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515560,
+      "num": 515560,
+      "word": "沙特与巴基斯坦签署共同防御协议",
+      "onboard_time": 1758162921,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 498768,
       "num": 317954,
       "word": "邵雨轩自曝遭遇性骚扰",
       "onboard_time": 1758119062,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 495931,
+      "num": 495931,
+      "word": "蜜雪冰城回应柠檬水断货",
+      "onboard_time": 1758164841,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472337,
@@ -171,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 464789,
+      "num": 464789,
+      "word": "特朗普访英被指无视王室礼仪",
+      "onboard_time": 1758161844,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 432108,
       "num": 295443,
       "word": "程潇的房子塌了",
@@ -187,8 +211,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 405715,
+      "num": 466354,
+      "word": "731影评",
+      "onboard_time": 1758165981,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 402694,
-      "num": 301046,
+      "num": 329339,
       "word": "桃黑黑女主党",
       "onboard_time": 1758159022,
       "rank": 24,
@@ -243,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333358,
-      "num": 333358,
-      "word": "沙特与巴基斯坦签署共同防御协议",
-      "onboard_time": 1758162921,
-      "rank": 7,
-      "category": "国际时政"
+      "raw_hot": 320131,
+      "num": 235444,
+      "word": "秦岚下车这幕美的太权威",
+      "onboard_time": 1758164421,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 294118,
@@ -275,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262557,
+      "num": 262557,
+      "word": "暗河传这波是未播先火啊",
+      "onboard_time": 1758161423,
+      "rank": 18,
+      "category": "剧集,体育"
+    },
+    {
       "raw_hot": 258225,
       "num": 258225,
       "word": "勿忘国耻警世钟今日撞响",
@@ -283,12 +323,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254360,
+      "num": 254360,
+      "word": "日本跳海救人男子上月刚做手术",
+      "onboard_time": 1758163162,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251391,
       "num": 251391,
       "word": "以色列和欧洲多国杠上了",
       "onboard_time": 1758150319,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249384,
+      "num": 231806,
+      "word": "宿舍分娩女生学校曾婉拒妇联帮助",
+      "onboard_time": 1758165681,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246761,
@@ -307,12 +363,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244091,
+      "num": 244091,
+      "word": "731票房已超1.36亿",
+      "onboard_time": 1758164302,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 244010,
       "num": 244010,
       "word": "郑恺被暴雨逼没招了",
       "onboard_time": 1758116484,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242260,
+      "num": 242260,
+      "word": "降息后普通人如何投资",
+      "onboard_time": 1758164661,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 232284,
@@ -379,30 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197112,
-      "num": 230163,
-      "word": "暗河传这波是未播先火啊",
-      "onboard_time": 1758161423,
-      "rank": 18,
-      "category": "剧集,体育"
-    },
-    {
-      "raw_hot": 196323,
-      "num": 196323,
-      "word": "秦岚下车这幕美的太权威",
-      "onboard_time": 1758164421,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 193988,
-      "num": 209420,
-      "word": "特朗普访英被指无视王室礼仪",
-      "onboard_time": 1758161844,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 191045,
       "num": 346006,
       "word": "易烊千玺汤唯将合作孔雀",
@@ -427,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186546,
-      "num": 186546,
-      "word": "日本跳海救人男子上月刚做手术",
-      "onboard_time": 1758163162,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 189136,
+      "num": 189136,
+      "word": "ShowMaker与Faker生死战",
+      "onboard_time": 1758165681,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 180886,
@@ -443,12 +491,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175736,
+      "num": 175736,
+      "word": "盛世天下",
+      "onboard_time": 1758165261,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173808,
       "num": 173808,
       "word": "桃黑黑盛世天下直播",
       "onboard_time": 1758111863,
       "rank": 14,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 171497,
+      "num": 171497,
+      "word": "一百多的工资一坐就是8小时",
+      "onboard_time": 1758161363,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 166035,
@@ -523,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144961,
+      "num": 144961,
+      "word": "苹果承认iPhone17拍照现黑色方块",
+      "onboard_time": 1758166223,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143547,
       "num": 143547,
       "word": "苹果承诺修复iPhone17拍照黑色方块",
@@ -531,20 +603,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 143039,
-      "num": 204446,
-      "word": "731票房已超1.36亿",
-      "onboard_time": 1758164302,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 140557,
       "num": 187638,
       "word": "杨丽菁为成毅发声",
       "onboard_time": 1758124643,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139035,
+      "num": 139035,
+      "word": "小米SU7出租车司机被同行举报",
+      "onboard_time": 1758166522,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138575,
@@ -563,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137224,
+      "num": 137224,
+      "word": "iPhone18系列目标出货量9500万部",
+      "onboard_time": 1758163102,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134949,
       "num": 134949,
       "word": "警服是执法权威的象征不是流量道具",
@@ -571,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134007,
+      "num": 134007,
+      "word": "美国鸡毛秀停播",
+      "onboard_time": 1758166101,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133438,
       "num": 133438,
       "word": "校方回应强制女生剪斜面短发",
       "onboard_time": 1758112944,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132709,
+      "num": 132709,
+      "word": "9月18日9时18分9路18街",
+      "onboard_time": 1758160943,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132249,
@@ -595,11 +691,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131486,
-      "num": 131486,
-      "word": "9月18日9时18分9路18街",
-      "onboard_time": 1758160943,
-      "rank": 40,
+      "raw_hot": 130514,
+      "num": 130514,
+      "word": "170多起惨案只是日军罪行冰山一角",
+      "onboard_time": 1758166342,
+      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -611,11 +707,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126754,
-      "num": 126754,
-      "word": "蜜雪冰城回应柠檬水断货",
-      "onboard_time": 1758164841,
-      "rank": 36,
+      "raw_hot": 128350,
+      "num": 175839,
+      "word": "电影731最小演员不到半个月",
+      "onboard_time": 1758165022,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 126330,
+      "num": 126330,
+      "word": "这些浸染血泪的日子永不敢忘",
+      "onboard_time": 1758166402,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -643,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121590,
+      "num": 121590,
+      "word": "你不知道的九一八",
+      "onboard_time": 1758166161,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117934,
       "num": 117934,
       "word": "黄金突破3700美元",
@@ -657,6 +769,14 @@
       "onboard_time": 1758150560,
       "rank": 30,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 116744,
+      "num": 116744,
+      "word": "不然回应弃养布偶猫",
+      "onboard_time": 1758165920,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 115463,
@@ -699,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112469,
-      "num": 112469,
-      "word": "一百多的工资一坐就是8小时",
-      "onboard_time": 1758161363,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110378,
       "num": 110378,
       "word": "侵华日军细菌战致衢州5万余人死亡",
@@ -721,22 +833,6 @@
       "onboard_time": 1758165022,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108201,
-      "num": 108201,
-      "word": "iPhone18系列目标出货量9500万部",
-      "onboard_time": 1758163102,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 105841,
-      "num": 118088,
-      "word": "电影731最小演员不到半个月",
-      "onboard_time": 1758165022,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 105657,
@@ -931,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68335,
+      "num": 134344,
+      "word": "馆长 广西学生军训比台湾军演还厉害",
+      "onboard_time": 1758166223,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68331,
       "num": 68331,
       "word": "香港金管局降息25个基点",
@@ -1001,14 +1105,6 @@
       "onboard_time": 1758102143,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57627,
-      "num": 203310,
-      "word": "降息后普通人如何投资",
-      "onboard_time": 1758164661,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 55881,
@@ -1139,20 +1235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15608,
+      "num": 875110,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1758114924,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13070,
+      "num": 123776,
+      "word": "保安扔学生外卖保卫处处长被停职",
+      "onboard_time": 1758166641,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11599,
       "num": 16545,
       "word": "密室大逃脱劫处逢生",
       "onboard_time": 1758132615,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9215,
-      "num": 875110,
-      "word": "砥砺奋进七十载天山南北谱华章",
-      "onboard_time": 1758114924,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

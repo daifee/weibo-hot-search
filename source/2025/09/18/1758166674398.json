@@ -1,0 +1,410 @@
+{
+  "runTime": 1758166674398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2554956,
+        "num": 2554956,
+        "word": "731",
+        "onboard_time": 1758152660,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1082909,
+        "num": 1082909,
+        "word": "建议大家不定期查看银行账单",
+        "onboard_time": 1758159682,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15608,
+        "num": 774123,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758114924,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1314562,
+        "num": 748482,
+        "word": "已在工位 消息秒回",
+        "onboard_time": 1758159440,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 573701,
+        "num": 573701,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 515560,
+        "num": 515560,
+        "word": "沙特与巴基斯坦签署共同防御协议",
+        "onboard_time": 1758162921,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 495931,
+        "num": 495931,
+        "word": "蜜雪冰城回应柠檬水断货",
+        "onboard_time": 1758164841,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405715,
+        "num": 466354,
+        "word": "731影评",
+        "onboard_time": 1758165981,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464789,
+        "num": 464789,
+        "word": "特朗普访英被指无视王室礼仪",
+        "onboard_time": 1758161844,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 448221,
+        "num": 448221,
+        "word": "918鸣笛",
+        "onboard_time": 1758159440,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 750034,
+        "num": 447764,
+        "word": "孙菲菲说前夫不准她提年龄差15岁",
+        "onboard_time": 1758162082,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494453,
+        "num": 446506,
+        "word": "丈夫被打妻子讨说法辱骂法官被重罚",
+        "onboard_time": 1758159801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434807,
+        "num": 434807,
+        "word": "小黄豆和迪丽热巴道歉",
+        "onboard_time": 1758151701,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421467,
+        "num": 421467,
+        "word": "生日却成了验证分手的日子",
+        "onboard_time": 1758130038,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329339,
+        "num": 329339,
+        "word": "桃黑黑女主党",
+        "onboard_time": 1758159022,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 262557,
+        "num": 262557,
+        "word": "暗河传这波是未播先火啊",
+        "onboard_time": 1758161423,
+        "rank": 15,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 254360,
+        "num": 254360,
+        "word": "日本跳海救人男子上月刚做手术",
+        "onboard_time": 1758163162,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244091,
+        "num": 244091,
+        "word": "731票房已超1.36亿",
+        "onboard_time": 1758164302,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242260,
+        "num": 242260,
+        "word": "降息后普通人如何投资",
+        "onboard_time": 1758164661,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 196550,
+        "num": 239642,
+        "word": "在周深杭州演唱会刮刮乐中了20万",
+        "onboard_time": 1758157462,
+        "rank": 19,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 763248,
+        "num": 238706,
+        "word": "金价",
+        "onboard_time": 1758156142,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 320131,
+        "num": 235444,
+        "word": "秦岚下车这幕美的太权威",
+        "onboard_time": 1758164421,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249384,
+        "num": 231806,
+        "word": "宿舍分娩女生学校曾婉拒妇联帮助",
+        "onboard_time": 1758165681,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231002,
+        "num": 231002,
+        "word": "警方通报嘎子哥行拘7天",
+        "onboard_time": 1758120745,
+        "rank": 23,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 223715,
+        "num": 223715,
+        "word": "短剧第一批受害者出现了",
+        "onboard_time": 1758151879,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189136,
+        "num": 189136,
+        "word": "ShowMaker与Faker生死战",
+        "onboard_time": 1758165681,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178037,
+        "num": 178037,
+        "word": "勿忘九一八",
+        "onboard_time": 1758154401,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175942,
+        "num": 175942,
+        "word": "专家解读美联储降息25个基点",
+        "onboard_time": 1758163162,
+        "rank": 27,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 128350,
+        "num": 175839,
+        "word": "电影731最小演员不到半个月",
+        "onboard_time": 1758165022,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123415,
+        "num": 175737,
+        "word": "孙茜谈731角色只有编号没有名字",
+        "onboard_time": 1758163581,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175736,
+        "num": 175736,
+        "word": "盛世天下",
+        "onboard_time": 1758165261,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171650,
+        "num": 171650,
+        "word": "9点18分辽宁防空警报",
+        "onboard_time": 1758157763,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171497,
+        "num": 171497,
+        "word": "一百多的工资一坐就是8小时",
+        "onboard_time": 1758161363,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155261,
+        "num": 155261,
+        "word": "勿忘国耻警世钟今日撞响",
+        "onboard_time": 1758160221,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146748,
+        "num": 146748,
+        "word": "巴基斯坦称实际击落4架阵风",
+        "onboard_time": 1758154582,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144961,
+        "num": 144961,
+        "word": "苹果承认iPhone17拍照现黑色方块",
+        "onboard_time": 1758166223,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139035,
+        "num": 139035,
+        "word": "小米SU7出租车司机被同行举报",
+        "onboard_time": 1758166522,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137224,
+        "num": 137224,
+        "word": "iPhone18系列目标出货量9500万部",
+        "onboard_time": 1758163102,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136669,
+        "num": 136669,
+        "word": "朋友圈点赞才是社交中真正的隐喻",
+        "onboard_time": 1758156203,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68335,
+        "num": 134344,
+        "word": "馆长 广西学生军训比台湾军演还厉害",
+        "onboard_time": 1758166223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134007,
+        "num": 134007,
+        "word": "美国鸡毛秀停播",
+        "onboard_time": 1758166101,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132709,
+        "num": 132709,
+        "word": "9月18日9时18分9路18街",
+        "onboard_time": 1758160943,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130514,
+        "num": 130514,
+        "word": "170多起惨案只是日军罪行冰山一角",
+        "onboard_time": 1758166342,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126330,
+        "num": 126330,
+        "word": "这些浸染血泪的日子永不敢忘",
+        "onboard_time": 1758166402,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13070,
+        "num": 123776,
+        "word": "保安扔学生外卖保卫处处长被停职",
+        "onboard_time": 1758166641,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121590,
+        "num": 121590,
+        "word": "你不知道的九一八",
+        "onboard_time": 1758166161,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117928,
+        "num": 117928,
+        "word": "九一八历史博物馆鸣警撞钟仪式",
+        "onboard_time": 1758155362,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117648,
+        "num": 117648,
+        "word": "关晓彤晒陈都灵送的蛋糕",
+        "onboard_time": 1758151879,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116744,
+        "num": 116744,
+        "word": "不然回应弃养布偶猫",
+        "onboard_time": 1758165920,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99760,
+        "num": 112830,
+        "word": "易烊千玺汤唯将合作孔雀",
+        "onboard_time": 1758152001,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族伟大复兴势不可挡#"
+    }
+  }
+}
