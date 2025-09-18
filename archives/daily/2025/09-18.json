@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758161319595,
+  "endTime": 1758164532336,
   "band_list": [
     {
       "raw_hot": 2581000,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1976589,
-      "num": 1976589,
+      "raw_hot": 2190053,
+      "num": 2190053,
       "word": "731",
       "onboard_time": 1758152660,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1758130038,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1246791,
+      "num": 1246791,
+      "word": "已在工位 消息秒回",
+      "onboard_time": 1758159440,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 1025407,
@@ -73,6 +81,22 @@
       "onboard_time": 1758117204,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 724365,
+      "num": 451979,
+      "word": "丈夫被打妻子讨说法辱骂法官被重罚",
+      "onboard_time": 1758159801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 722520,
+      "num": 722520,
+      "word": "建议大家不定期查看银行账单",
+      "onboard_time": 1758159682,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 716834,
@@ -139,14 +163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 451979,
-      "num": 451979,
-      "word": "丈夫被打妻子讨说法辱骂法官被重罚",
-      "onboard_time": 1758159801,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 432108,
       "num": 295443,
       "word": "程潇的房子塌了",
@@ -155,12 +171,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 431281,
+      "num": 240788,
+      "word": "孙菲菲说前夫不准她提年龄差15岁",
+      "onboard_time": 1758162082,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406652,
       "num": 406652,
       "word": "以色列面临全面孤立",
       "onboard_time": 1758128777,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 397099,
+      "num": 301046,
+      "word": "桃黑黑女主党",
+      "onboard_time": 1758159022,
+      "rank": 24,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 372044,
@@ -211,20 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 301046,
-      "num": 301046,
-      "word": "桃黑黑女主党",
-      "onboard_time": 1758159022,
-      "rank": 24,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 294118,
       "num": 445555,
       "word": "在周深杭州演唱会刮刮乐中了20万",
       "onboard_time": 1758157462,
       "rank": 18,
       "category": "演出,民生新闻"
+    },
+    {
+      "raw_hot": 274861,
+      "num": 274861,
+      "word": "沙特与巴基斯坦签署共同防御协议",
+      "onboard_time": 1758162921,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 272547,
@@ -291,28 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224005,
-      "num": 224005,
-      "word": "已在工位 消息秒回",
-      "onboard_time": 1758159440,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 223423,
-      "num": 223423,
-      "word": "建议大家不定期查看银行账单",
-      "onboard_time": 1758159682,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221206,
       "num": 221206,
       "word": "今日中国再不是1931年的中国",
       "onboard_time": 1758125542,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 213714,
+      "num": 213714,
+      "word": "专家解读美联储降息25个基点",
+      "onboard_time": 1758163162,
+      "rank": 23,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 210707,
@@ -355,6 +379,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197112,
+      "num": 230163,
+      "word": "暗河传这波是未播先火啊",
+      "onboard_time": 1758161423,
+      "rank": 18,
+      "category": "剧集,体育"
+    },
+    {
+      "raw_hot": 193988,
+      "num": 193988,
+      "word": "特朗普访英被指无视王室礼仪",
+      "onboard_time": 1758161844,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191045,
       "num": 346006,
       "word": "易烊千玺汤唯将合作孔雀",
@@ -376,6 +416,14 @@
       "word": "绿茶餐厅拆掉现做招牌",
       "onboard_time": 1758110483,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186546,
+      "num": 186546,
+      "word": "日本跳海救人男子上月刚做手术",
+      "onboard_time": 1758163162,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -475,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138575,
+      "num": 138575,
+      "word": "沈阳14声警世钟",
+      "onboard_time": 1758162800,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134949,
       "num": 134949,
       "word": "警服是执法权威的象征不是流量道具",
@@ -547,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121689,
+      "num": 183846,
+      "word": "孙茜谈731角色只有编号没有名字",
+      "onboard_time": 1758163581,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117934,
       "num": 117934,
       "word": "黄金突破3700美元",
@@ -561,6 +625,14 @@
       "onboard_time": 1758150560,
       "rank": 30,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 115463,
+      "num": 202170,
+      "word": "勿忘国耻警世钟9时18分撞响",
+      "onboard_time": 1758162861,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114742,
@@ -595,6 +667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112469,
+      "num": 112469,
+      "word": "一百多的工资一坐就是8小时",
+      "onboard_time": 1758161363,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110378,
+      "num": 110378,
+      "word": "侵华日军细菌战致衢州5万余人死亡",
+      "onboard_time": 1758161542,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105657,
       "num": 135370,
       "word": "赴山海一集下线134人",
@@ -619,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100488,
+      "num": 183744,
+      "word": "731票房已超1.36亿",
+      "onboard_time": 1758164302,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99539,
       "num": 99539,
       "word": "冯建宇 我没有女朋友",
@@ -635,12 +731,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98246,
+      "num": 98246,
+      "word": "秦岚下车这幕美的太权威",
+      "onboard_time": 1758164421,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97711,
       "num": 196105,
       "word": "美国上半年经济活动增长放缓",
       "onboard_time": 1758151760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95965,
+      "num": 95965,
+      "word": "这个日子不能忘也不敢忘",
+      "onboard_time": 1758129437,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95237,
@@ -657,6 +769,14 @@
       "onboard_time": 1758120084,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90772,
+      "num": 90772,
+      "word": "iPhone18系列目标出货量9500万部",
+      "onboard_time": 1758163102,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 90537,
@@ -809,14 +929,6 @@
       "onboard_time": 1758108383,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65992,
-      "num": 65992,
-      "word": "这个日子不能忘也不敢忘",
-      "onboard_time": 1758129437,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62894,

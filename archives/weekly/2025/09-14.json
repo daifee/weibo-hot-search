@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758161319595,
+  "endTime": 1758164532336,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2190053,
+      "num": 2190053,
+      "word": "731",
+      "onboard_time": 1757903181,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2144234,
       "num": 1132615,
       "word": "陈晓直播好几次叹气",
@@ -161,14 +169,6 @@
       "onboard_time": 1758000805,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1976589,
-      "num": 1976589,
-      "word": "731",
-      "onboard_time": 1757903181,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 1969826,
@@ -497,6 +497,14 @@
       "onboard_time": 1757987481,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1246791,
+      "num": 1246791,
+      "word": "已在工位 消息秒回",
+      "onboard_time": 1758159440,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 1224288,
@@ -1281,6 +1289,22 @@
       "onboard_time": 1758037586,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 724365,
+      "num": 451979,
+      "word": "丈夫被打妻子讨说法辱骂法官被重罚",
+      "onboard_time": 1758159801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 722520,
+      "num": 722520,
+      "word": "建议大家不定期查看银行账单",
+      "onboard_time": 1758159682,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 716834,
@@ -2267,14 +2291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 451979,
-      "num": 451979,
-      "word": "丈夫被打妻子讨说法辱骂法官被重罚",
-      "onboard_time": 1758159801,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 448277,
       "num": 448277,
       "word": "以色列坦克已入城",
@@ -2368,6 +2384,14 @@
       "word": "辛芷蕾 梁婷",
       "onboard_time": 1757984122,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431281,
+      "num": 240788,
+      "word": "孙菲菲说前夫不准她提年龄差15岁",
+      "onboard_time": 1758162082,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -2625,6 +2649,14 @@
       "onboard_time": 1757813781,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397099,
+      "num": 301046,
+      "word": "桃黑黑女主党",
+      "onboard_time": 1758159022,
+      "rank": 24,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 396932,
@@ -3411,14 +3443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301046,
-      "num": 301046,
-      "word": "桃黑黑女主党",
-      "onboard_time": 1758159022,
-      "rank": 24,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 300892,
       "num": 300892,
       "word": "男子在广东种出非洲猴面包树",
@@ -3665,6 +3689,14 @@
       "onboard_time": 1757988081,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274861,
+      "num": 274861,
+      "word": "沙特与巴基斯坦签署共同防御协议",
+      "onboard_time": 1758162921,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 274042,
@@ -4403,22 +4435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224005,
-      "num": 224005,
-      "word": "已在工位 消息秒回",
-      "onboard_time": 1758159440,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 223423,
-      "num": 223423,
-      "word": "建议大家不定期查看银行账单",
-      "onboard_time": 1758159682,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223391,
       "num": 223391,
       "word": "有日本网民呼吁上映731",
@@ -4609,6 +4625,14 @@
       "onboard_time": 1757925202,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213714,
+      "num": 213714,
+      "word": "专家解读美联储降息25个基点",
+      "onboard_time": 1758163162,
+      "rank": 23,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 212974,
@@ -5171,6 +5195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197112,
+      "num": 230163,
+      "word": "暗河传这波是未播先火啊",
+      "onboard_time": 1758161423,
+      "rank": 18,
+      "category": "剧集,体育"
+    },
+    {
       "raw_hot": 197074,
       "num": 197074,
       "word": "大半个娱乐圈都来成都了",
@@ -5289,6 +5321,14 @@
       "onboard_time": 1757846844,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193988,
+      "num": 193988,
+      "word": "特朗普访英被指无视王室礼仪",
+      "onboard_time": 1758161844,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193859,
@@ -5656,6 +5696,14 @@
       "word": "原来真的有神兵天降",
       "onboard_time": 1758068846,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186546,
+      "num": 186546,
+      "word": "日本跳海救人男子上月刚做手术",
+      "onboard_time": 1758163162,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -8227,6 +8275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138575,
+      "num": 138575,
+      "word": "沈阳14声警世钟",
+      "onboard_time": 1758162800,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138572,
       "num": 215454,
       "word": "晚睡晚起让人长期处于炎症状态",
@@ -9419,6 +9475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121689,
+      "num": 183846,
+      "word": "孙茜谈731角色只有编号没有名字",
+      "onboard_time": 1758163581,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121685,
       "num": 407991,
       "word": "央视揭秘假沉香",
@@ -9947,6 +10011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115463,
+      "num": 202170,
+      "word": "勿忘国耻警世钟9时18分撞响",
+      "onboard_time": 1758162861,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115219,
       "num": 115219,
       "word": "赴山海脑袋伸不进屏幕的无力感",
@@ -10131,6 +10203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 112469,
+      "num": 112469,
+      "word": "一百多的工资一坐就是8小时",
+      "onboard_time": 1758161363,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112059,
       "num": 112059,
       "word": "2025ASI亚洲邀请赛官宣",
@@ -10209,6 +10289,14 @@
       "onboard_time": 1758077784,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110378,
+      "num": 110378,
+      "word": "侵华日军细菌战致衢州5万余人死亡",
+      "onboard_time": 1758161542,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110295,
@@ -11003,6 +11091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 100488,
+      "num": 183744,
+      "word": "731票房已超1.36亿",
+      "onboard_time": 1758164302,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100452,
       "num": 100452,
       "word": "中国战机满屏大写的帅",
@@ -11161,6 +11257,14 @@
       "onboard_time": 1757839523,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98246,
+      "num": 98246,
+      "word": "秦岚下车这幕美的太权威",
+      "onboard_time": 1758164421,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 98221,
@@ -11345,6 +11449,14 @@
       "onboard_time": 1757950525,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95965,
+      "num": 95965,
+      "word": "这个日子不能忘也不敢忘",
+      "onboard_time": 1758129437,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95900,
@@ -11585,6 +11697,14 @@
       "onboard_time": 1758101482,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 90772,
+      "num": 90772,
+      "word": "iPhone18系列目标出货量9500万部",
+      "onboard_time": 1758163102,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 90390,
@@ -12617,14 +12737,6 @@
       "onboard_time": 1758149417,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 65992,
-      "num": 65992,
-      "word": "这个日子不能忘也不敢忘",
-      "onboard_time": 1758129437,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64165,
