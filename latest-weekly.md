@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/19 00:31:24
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/19 00:44:43
 </p>
 </blockquote>
 <p>
@@ -2547,6 +2547,12 @@ AL战胜iG（热度：386887）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%BD%91%E6%B0%91%E9%80%89%E5%87%BA%E6%96%B0%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%23" target="weibo">
+香港网民选出新四大天王（热度：368565）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B2%A7%E5%B8%82%E9%95%87%E5%BA%B7%E5%8E%BF3.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 临沧市镇康县3.1级地震（热度：367987）
 </a>
@@ -3611,12 +3617,6 @@ TES对战BLG（热度：245893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E5%A6%88%E5%A6%88%E4%B8%80%E8%BE%88%E5%AD%90%E9%83%BD%E8%B5%B0%E4%B8%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 这位妈妈一辈子都走不出来了（热度：241199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%BD%91%E6%B0%91%E9%80%89%E5%87%BA%E6%96%B0%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%23" target="weibo">
-香港网民选出新四大天王（热度：240821）
 </a>
 </li>
 
@@ -7515,6 +7515,12 @@ iPhone17黄牛还能赚到钱吗（热度：133180）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%AC%E6%83%85%E4%BA%BA1340%E4%B8%8766%E5%B2%81%E5%8E%9F%E9%85%8D%E8%B5%B7%E8%AF%89%E8%BF%94%E8%BF%98%23" target="weibo">
+男子转情人1340万66岁原配起诉返还（热度：133062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%BF%91%E6%9C%9F%E4%BA%A7%E5%93%81%E8%A7%84%E5%88%92%E6%9B%9D%E5%85%89%23" target="weibo">
 苹果近期产品规划曝光（热度：133017）
 </a>
@@ -7721,6 +7727,12 @@ T1 世界赛（热度：129883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%AF%B9%E6%B4%97%E6%BE%A1%E6%97%B6%E4%BA%BA%E7%9A%84%E5%B0%8F%E5%A4%B1%E8%AF%AF%E8%A1%A8%E7%A4%BA%E4%B8%8D%E6%BB%A1%23" target="weibo">
 小猫对洗澡时人的小失误表示不满（热度：129604）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iOS26%E5%8F%97%E5%AE%B3%E8%80%85%23" target="weibo">
+iOS26受害者（热度：129522）
 </a>
 </li>
 
@@ -7991,12 +8003,6 @@ iOS26壁纸（热度：125969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E7%96%8F%E7%A6%BB%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
 什么是疏离型人格（热度：125820）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%AC%E6%83%85%E4%BA%BA1340%E4%B8%8766%E5%B2%81%E5%8E%9F%E9%85%8D%E8%B5%B7%E8%AF%89%E8%BF%94%E8%BF%98%23" target="weibo">
-男子转情人1340万66岁原配起诉返还（热度：125683）
 </a>
 </li>
 
@@ -8355,6 +8361,12 @@ iPhone17系列首周销量超越16（热度：120492）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E6%8D%B7%E8%99%BE%E4%BB%81%E7%82%92%E8%9B%8B%E4%B8%80%E5%91%A8%E5%86%85%E5%87%BA%E5%85%B7%E6%A3%80%E9%AA%8C%E7%BB%93%E6%9E%9C%23" target="weibo">
+绿捷虾仁炒蛋一周内出具检验结果（热度：120484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
 刘翔的含金量还在上升（热度：120344）
 </a>
@@ -8661,6 +8673,12 @@ LPL与LCK迎来周末大战（热度：116684）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E5%8F%B0%E9%A3%8E%E4%B8%80%E5%A4%A9%E5%86%85%E7%9B%B8%E7%BB%A7%E7%94%9F%E6%88%90%23" target="weibo">
+三个台风一天内相继生成（热度：116488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%8F%AB%E6%8B%A7%E5%B7%B4%E5%95%8A%23" target="weibo">
 原来这叫拧巴啊（热度：116477）
 </a>
@@ -8747,12 +8765,6 @@ Falcons夺冠（热度：115512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8B%BF%E5%BF%98%E5%9B%BD%E8%80%BB%E8%AD%A6%E4%B8%96%E9%92%9F9%E6%97%B618%E5%88%86%E6%92%9E%E5%93%8D%23" target="weibo">
 勿忘国耻警世钟9时18分撞响（热度：115463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iOS26%E5%8F%97%E5%AE%B3%E8%80%85%23" target="weibo">
-iOS26受害者（热度：115286）
 </a>
 </li>
 
@@ -9369,12 +9381,6 @@ ACT对战RC（热度：106034）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E5%8F%B0%E9%A3%8E%E4%B8%80%E5%A4%A9%E5%86%85%E7%9B%B8%E7%BB%A7%E7%94%9F%E6%88%90%23" target="weibo">
-三个台风一天内相继生成（热度：105244）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A0%B4%E8%A7%A3%E7%8C%95%E7%8C%B4%E6%A1%83%E7%BB%9D%E7%97%87%23" target="weibo">
 中国农民破解猕猴桃绝症（热度：105199）
 </a>
@@ -9443,12 +9449,6 @@ LPL总决赛发布会（热度：104803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%20%E4%BD%A0%E5%8F%AF%E7%9C%9F%E6%98%AF%E6%88%91%E7%9A%84%E7%88%AA%E4%B8%8A%E6%98%8E%E7%8F%A0%23" target="weibo">
 狗 你可真是我的爪上明珠（热度：104170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E6%8D%B7%E8%99%BE%E4%BB%81%E7%82%92%E8%9B%8B%E4%B8%80%E5%91%A8%E5%86%85%E5%87%BA%E5%85%B7%E6%A3%80%E9%AA%8C%E7%BB%93%E6%9E%9C%23" target="weibo">
-绿捷虾仁炒蛋一周内出具检验结果（热度：103931）
 </a>
 </li>
 
@@ -10845,6 +10845,12 @@ XG战队急需支援（热度：78690）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E4%B8%8E%E6%A2%81%E5%A9%B7%E5%92%8C%E8%A7%A3%23" target="weibo">
+辛芷蕾回应与梁婷和解（热度：76267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8C%97%E6%AC%A7%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E4%B8%80%E5%A4%A9%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
 原来北欧打工人的一天是这样的（热度：76174）
 </a>
@@ -11495,6 +11501,12 @@ xg战队急需支援（热度：56887）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DOTA2%23" target="weibo">
 DOTA2（热度：55676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%98%E7%98%A6%E5%89%8D%E5%90%8E%E8%BA%AB%E8%BE%B9%E4%BA%BA%E6%80%81%E5%BA%A6%E5%8F%98%E5%8C%96%23" target="weibo">
+变瘦前后身边人态度变化（热度：55390）
 </a>
 </li>
 
