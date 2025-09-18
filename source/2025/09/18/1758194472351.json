@@ -1,0 +1,410 @@
+{
+  "runTime": 1758194472351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7190397,
+        "num": 7190397,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1510945,
+        "num": 1510945,
+        "word": "台湾现在属于中国",
+        "onboard_time": 1758189084,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30856,
+        "num": 751541,
+        "word": "918是5098第1天",
+        "onboard_time": 1758159322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410066,
+        "num": 410066,
+        "word": "北京社保基数",
+        "onboard_time": 1758189383,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372479,
+        "num": 372479,
+        "word": "731所有日本角色均由日籍演员出演",
+        "onboard_time": 1758193224,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363956,
+        "num": 363956,
+        "word": "原来iPhone天气这么好用",
+        "onboard_time": 1758184583,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 319353,
+        "num": 319353,
+        "word": "王暖暖称想到和他还是夫妻就恶心",
+        "onboard_time": 1758191543,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287781,
+        "num": 287781,
+        "word": "孕妇泰国坠崖案女子全身100多钢钉",
+        "onboard_time": 1758186444,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268442,
+        "num": 268442,
+        "word": "风月不相关 不拍了",
+        "onboard_time": 1758174623,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244619,
+        "num": 244619,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 914859,
+        "num": 243151,
+        "word": "蔡依林自曝患蛇缠腰后才早睡",
+        "onboard_time": 1758184524,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870378,
+        "num": 238638,
+        "word": "社保",
+        "onboard_time": 1758189923,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604501,
+        "num": 228947,
+        "word": "沈梦辰美成Angelababy了",
+        "onboard_time": 1758179542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564840,
+        "num": 226077,
+        "word": "731",
+        "onboard_time": 1758152660,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 510946,
+        "num": 216467,
+        "word": "撞脸刘亦菲网红因工资低选择做主播",
+        "onboard_time": 1758188541,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318623,
+        "num": 212179,
+        "word": "氢氟酸涉案人员已被控制",
+        "onboard_time": 1758186083,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 210663,
+        "num": 210663,
+        "word": "终于懂花少为什么选张雅琪了",
+        "onboard_time": 1758191183,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171263,
+        "num": 206601,
+        "word": "医学生看731后嘴角颤抖受访",
+        "onboard_time": 1758184342,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167860,
+        "num": 201514,
+        "word": "731电影郑重声明",
+        "onboard_time": 1758179903,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87207,
+        "num": 197742,
+        "word": "中国美院继喷粪水后水管又爆裂",
+        "onboard_time": 1758193342,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298023,
+        "num": 194904,
+        "word": "李荣浩成为iOS26最大受益者",
+        "onboard_time": 1758188302,
+        "rank": 20,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 264732,
+        "num": 190745,
+        "word": "建议大家大量频繁的说话",
+        "onboard_time": 1758178402,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186481,
+        "num": 186481,
+        "word": "必胜客19元橙汁是果粒橙加冰",
+        "onboard_time": 1758190761,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180669,
+        "num": 180669,
+        "word": "香港打金厂被抢走65公斤黄金",
+        "onboard_time": 1758180323,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179097,
+        "num": 179097,
+        "word": "中国劳工来一批死一批",
+        "onboard_time": 1758189803,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165550,
+        "num": 165550,
+        "word": "官方通报女子误触氢氟酸身亡",
+        "onboard_time": 1758186083,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 148127,
+        "num": 148127,
+        "word": "每年70亿只小鸡出生就被绞杀",
+        "onboard_time": 1758183203,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141709,
+        "num": 141709,
+        "word": "天才枪手女主这次不作弊了",
+        "onboard_time": 1758191844,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128564,
+        "num": 128564,
+        "word": "牛在在当着欧豪的面社死了",
+        "onboard_time": 1758192742,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108093,
+        "num": 127801,
+        "word": "内娱眼技派",
+        "onboard_time": 1758191183,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146826,
+        "num": 127796,
+        "word": "T1对战DK",
+        "onboard_time": 1758184403,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127346,
+        "num": 127346,
+        "word": "7次考研换来4个学位",
+        "onboard_time": 1758192564,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 124597,
+        "num": 124597,
+        "word": "上班禁止偷吃同事",
+        "onboard_time": 1758177201,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120873,
+        "num": 120873,
+        "word": "香港65公斤黄金大劫案7人被拘",
+        "onboard_time": 1758188843,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117086,
+        "num": 117086,
+        "word": "女子发现自己有138辆车",
+        "onboard_time": 1758179302,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112396,
+        "num": 112396,
+        "word": "T1翻盘DK",
+        "onboard_time": 1758193403,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110980,
+        "num": 110980,
+        "word": "李柯以回应是短剧第一女神",
+        "onboard_time": 1758191243,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105090,
+        "num": 105090,
+        "word": "久坐的人一定要好好养屁股",
+        "onboard_time": 1758188666,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88060,
+        "num": 104498,
+        "word": "男子认亲1年后发现亲哥是假的",
+        "onboard_time": 1758193582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78105,
+        "num": 104287,
+        "word": "柯尔鸭 100元2只",
+        "onboard_time": 1758193582,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104255,
+        "num": 104255,
+        "word": "老师教科书式处理卫生巾起哄事件",
+        "onboard_time": 1758194002,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102125,
+        "num": 102125,
+        "word": "奶茶店员把拖鞋放配料盆被警方带走",
+        "onboard_time": 1758190343,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101280,
+        "num": 101280,
+        "word": "理解明星为什么和经纪人结婚了",
+        "onboard_time": 1758169822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100585,
+        "num": 100585,
+        "word": "文咏珊两年前疯到我两年后钓到我",
+        "onboard_time": 1758187402,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99686,
+        "num": 99686,
+        "word": "丁禹兮视频中更建模了",
+        "onboard_time": 1758192623,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97726,
+        "num": 97726,
+        "word": "埃及3000年前的法老金镯丢失",
+        "onboard_time": 1758187762,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94128,
+        "num": 94128,
+        "word": "罗永浩曾表示愿意替公司还债",
+        "onboard_time": 1758193342,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92225,
+        "num": 92225,
+        "word": "731电影",
+        "onboard_time": 1758191063,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91012,
+        "num": 91012,
+        "word": "iPhone17把压力给到国产厂商了吗",
+        "onboard_time": 1758190882,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89418,
+        "num": 89418,
+        "word": "T1 世界赛",
+        "onboard_time": 1758189264,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以史为鉴才能避免重蹈覆辙#"
+    }
+  }
+}
