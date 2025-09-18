@@ -1,0 +1,410 @@
+{
+  "runTime": 1758181041695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2524780,
+        "num": 2524780,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1549345,
+        "num": 1549345,
+        "word": "风月不相关 不拍了",
+        "onboard_time": 1758174623,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3783,
+        "num": 1345672,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758114924,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1232126,
+        "num": 1232126,
+        "word": "731",
+        "onboard_time": 1758152660,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448277,
+        "num": 448277,
+        "word": "景德镇90元酒店房间国庆涨到1000元",
+        "onboard_time": 1758169462,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440539,
+        "num": 440539,
+        "word": "女子发现自己有138辆车",
+        "onboard_time": 1758179302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432252,
+        "num": 432252,
+        "word": "狂飙麻子爆改富二代",
+        "onboard_time": 1758177322,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405477,
+        "num": 405477,
+        "word": "嘎子谢孟伟账号被封",
+        "onboard_time": 1758174801,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291460,
+        "num": 291460,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56078,
+        "num": 291282,
+        "word": "中国学者当面给以色列军官上了一课",
+        "onboard_time": 1758180563,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1655135,
+        "num": 289447,
+        "word": "建议大家大量频繁的说话",
+        "onboard_time": 1758178402,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1084237,
+        "num": 287383,
+        "word": "沈梦辰美成Angelababy了",
+        "onboard_time": 1758179542,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942714,
+        "num": 286404,
+        "word": "上班禁止偷吃同事",
+        "onboard_time": 1758177201,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 599064,
+        "num": 283590,
+        "word": "理解明星为什么和经纪人结婚了",
+        "onboard_time": 1758169822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592330,
+        "num": 282362,
+        "word": "A股",
+        "onboard_time": 1758177080,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 564855,
+        "num": 280841,
+        "word": "热依扎拍女儿去世戏持续哭了7个小时",
+        "onboard_time": 1758170062,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442671,
+        "num": 278815,
+        "word": "外交部回应韩娱重返中国",
+        "onboard_time": 1758167902,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379583,
+        "num": 277094,
+        "word": "731影评",
+        "onboard_time": 1758165981,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340030,
+        "num": 275846,
+        "word": "赵今麦完全褪去了稚气",
+        "onboard_time": 1758173543,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275168,
+        "num": 275168,
+        "word": "金价狂飙金饰一口价也要涨",
+        "onboard_time": 1758168383,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 276987,
+        "num": 274343,
+        "word": "731电影郑重声明",
+        "onboard_time": 1758179903,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265243,
+        "num": 265243,
+        "word": "女生校内分娩所在学校开会反思",
+        "onboard_time": 1758179723,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209071,
+        "num": 209071,
+        "word": "看似不起眼但很养生的行为",
+        "onboard_time": 1758179242,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189442,
+        "num": 189442,
+        "word": "伊朗公布绞死间谍画面",
+        "onboard_time": 1758174202,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172946,
+        "num": 172946,
+        "word": "孟子义扶李昀锐路透",
+        "onboard_time": 1758176843,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166139,
+        "num": 166139,
+        "word": "中年男性开始频繁出去跑步说明了什么",
+        "onboard_time": 1758167841,
+        "rank": 25,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 161048,
+        "num": 161048,
+        "word": "731观后感",
+        "onboard_time": 1758167722,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159415,
+        "num": 159415,
+        "word": "香港打金厂被抢走65公斤黄金",
+        "onboard_time": 1758180323,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158766,
+        "num": 158766,
+        "word": "龚俊聚餐喝醉被扶出饭店",
+        "onboard_time": 1758170363,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157131,
+        "num": 157131,
+        "word": "杭州锁定废弃氢氟酸所有者",
+        "onboard_time": 1758170303,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150929,
+        "num": 150929,
+        "word": "第一批看731观众发声",
+        "onboard_time": 1758176002,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141251,
+        "num": 141251,
+        "word": "凡人修仙传9月30日全台电视首播",
+        "onboard_time": 1758179061,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140514,
+        "num": 140514,
+        "word": "赴山海能复刻大奉打更人的走势吗",
+        "onboard_time": 1758177444,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131949,
+        "num": 131949,
+        "word": "蔡依林回应为何长期自律",
+        "onboard_time": 1758175822,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130972,
+        "num": 130972,
+        "word": "苹果承认iPhone17拍照现黑色方块",
+        "onboard_time": 1758166223,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129172,
+        "num": 129172,
+        "word": "降息了为何金价却大跳水",
+        "onboard_time": 1758174560,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128047,
+        "num": 128047,
+        "word": "D4vd车厢藏尸死者为15岁女孩",
+        "onboard_time": 1758168743,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124079,
+        "num": 124079,
+        "word": "A股成交额已超2.5万亿元",
+        "onboard_time": 1758180262,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122052,
+        "num": 122052,
+        "word": "日本民众痛斥人体实验丑恶",
+        "onboard_time": 1758177681,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117477,
+        "num": 117477,
+        "word": "迅猛龙不敢在课堂发言",
+        "onboard_time": 1758179001,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182727,
+        "num": 117132,
+        "word": "小米SU7出租车司机被同行举报",
+        "onboard_time": 1758166522,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115650,
+        "num": 115650,
+        "word": "蜜雪冰城回应柠檬水断货",
+        "onboard_time": 1758164841,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115645,
+        "num": 115645,
+        "word": "买衣服千万不要将就",
+        "onboard_time": 1758175041,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107206,
+        "num": 107206,
+        "word": "泽连斯基说所有国家别考虑自己了",
+        "onboard_time": 1758176541,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105442,
+        "num": 105442,
+        "word": "勿忘九一八",
+        "onboard_time": 1758154401,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104581,
+        "num": 104581,
+        "word": "梁王",
+        "onboard_time": 1758180683,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93793,
+        "num": 93793,
+        "word": "iPhone17最早明日送达",
+        "onboard_time": 1758180922,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93067,
+        "num": 93067,
+        "word": "我担两小时全开麦",
+        "onboard_time": 1758180922,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92945,
+        "num": 92945,
+        "word": "岳雨婷回应演短剧版紫萱被骂",
+        "onboard_time": 1758169342,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91227,
+        "num": 91227,
+        "word": "731票房破2亿",
+        "onboard_time": 1758180683,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族伟大复兴势不可挡#"
+    }
+  }
+}

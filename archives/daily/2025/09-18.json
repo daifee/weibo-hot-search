@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758180225950,
+  "endTime": 1758181041695,
   "band_list": [
     {
       "raw_hot": 2870732,
@@ -19,6 +19,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2524780,
+      "num": 2524780,
+      "word": "香港黄金劫案",
+      "onboard_time": 1758179242,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2101106,
       "num": 2101106,
       "word": "风月不相关 不拍了",
@@ -27,12 +35,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1709391,
-      "num": 1709391,
-      "word": "香港黄金劫案",
-      "onboard_time": 1758179242,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 1655135,
+      "num": 305847,
+      "word": "建议大家大量频繁的说话",
+      "onboard_time": 1758178402,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1619594,
@@ -107,19 +115,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1084237,
+      "num": 296407,
+      "word": "沈梦辰美成Angelababy了",
+      "onboard_time": 1758179542,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1082909,
       "num": 1082909,
       "word": "建议大家不定期查看银行账单",
       "onboard_time": 1758159682,
       "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1067428,
-      "num": 305847,
-      "word": "建议大家大量频繁的说话",
-      "onboard_time": 1758178402,
-      "rank": 10,
       "category": "情感"
     },
     {
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 661745,
-      "num": 367744,
+      "num": 405477,
       "word": "嘎子谢孟伟账号被封",
       "onboard_time": 1758174801,
       "rank": 7,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 470272,
-      "num": 323574,
+      "num": 432252,
       "word": "狂飙麻子爆改富二代",
       "onboard_time": 1758177322,
       "rank": 48,
@@ -363,20 +371,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 453025,
-      "num": 296407,
-      "word": "沈梦辰美成Angelababy了",
-      "onboard_time": 1758179542,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452759,
       "num": 452759,
       "word": "731观后感",
       "onboard_time": 1758167722,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 440539,
+      "num": 440539,
+      "word": "女子发现自己有138辆车",
+      "onboard_time": 1758179302,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432108,
@@ -507,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276987,
+      "num": 274343,
+      "word": "731电影郑重声明",
+      "onboard_time": 1758179903,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272547,
       "num": 272547,
       "word": "男子飞机上想起家中忘关火求助机长",
@@ -521,6 +537,14 @@
       "onboard_time": 1758152241,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265243,
+      "num": 291742,
+      "word": "女生校内分娩所在学校开会反思",
+      "onboard_time": 1758179723,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262557,
@@ -611,14 +635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 214834,
-      "num": 306252,
-      "word": "女子发现自己有138辆车",
-      "onboard_time": 1758179302,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213714,
       "num": 213714,
       "word": "专家解读美联储降息25个基点",
@@ -675,8 +691,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208754,
-      "num": 208754,
+      "raw_hot": 209071,
+      "num": 209071,
       "word": "看似不起眼但很养生的行为",
       "onboard_time": 1758179242,
       "rank": 22,
@@ -875,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159415,
+      "num": 159415,
+      "word": "香港打金厂被抢走65公斤黄金",
+      "onboard_time": 1758180323,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159349,
       "num": 159349,
       "word": "减肥不用非吃水煮菜了",
@@ -897,14 +921,6 @@
       "onboard_time": 1758114502,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156533,
-      "num": 156533,
-      "word": "731电影郑重声明",
-      "onboard_time": 1758179903,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 154807,
@@ -1027,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141251,
+      "num": 141251,
+      "word": "凡人修仙传9月30日全台电视首播",
+      "onboard_time": 1758179061,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140557,
       "num": 187638,
       "word": "杨丽菁为成毅发声",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1758163102,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 136289,
-      "num": 136289,
-      "word": "凡人修仙传9月30日全台电视首播",
-      "onboard_time": 1758179061,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 135909,
@@ -1211,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124079,
+      "num": 124079,
+      "word": "A股成交额已超2.5万亿元",
+      "onboard_time": 1758180262,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122467,
       "num": 122467,
       "word": "匹克董事长回应全员降薪",
@@ -1267,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117477,
+      "num": 117477,
+      "word": "迅猛龙不敢在课堂发言",
+      "onboard_time": 1758179001,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 117282,
       "num": 117282,
       "word": "美联储年内预计再降息2次",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1758174442,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117006,
-      "num": 117006,
-      "word": "迅猛龙不敢在课堂发言",
-      "onboard_time": 1758179001,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 115463,
@@ -1379,6 +1403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 104581,
+      "num": 104581,
+      "word": "梁王",
+      "onboard_time": 1758180683,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104532,
       "num": 104532,
       "word": "萨摩耶的汗脚",
@@ -1451,12 +1483,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93793,
+      "num": 93793,
+      "word": "iPhone17最早明日送达",
+      "onboard_time": 1758180922,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93096,
       "num": 93096,
       "word": "欧盟宣布对以色列制裁措施",
       "onboard_time": 1758120084,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93067,
+      "num": 93067,
+      "word": "我担两小时全开麦",
+      "onboard_time": 1758180922,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91227,
+      "num": 91227,
+      "word": "731票房破2亿",
+      "onboard_time": 1758180683,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 90537,
@@ -1497,14 +1553,6 @@
       "onboard_time": 1758151520,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82300,
-      "num": 291742,
-      "word": "女生校内分娩所在学校开会反思",
-      "onboard_time": 1758179723,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81897,
@@ -1699,6 +1747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56078,
+      "num": 291282,
+      "word": "中国学者当面给以色列军官上了一课",
+      "onboard_time": 1758180563,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55881,
       "num": 75102,
       "word": "孟子义拿白兰花这张图",
@@ -1844,7 +1900,7 @@
     },
     {
       "raw_hot": 16637,
-      "num": 1269343,
+      "num": 1345672,
       "word": "砥砺奋进七十载天山南北谱华章",
       "onboard_time": 1758114924,
       "rank": 2,
