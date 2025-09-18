@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758202361918,
+  "endTime": 1758203057360,
   "band_list": [
     {
       "raw_hot": 14538988,
@@ -139,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1168743,
+      "num": 1168743,
+      "word": "香港失窃黄金已全数追回",
+      "onboard_time": 1758201324,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1166119,
       "num": 423568,
       "word": "理解明星为什么和经纪人结婚了",
@@ -217,6 +225,14 @@
       "onboard_time": 1758150980,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 826183,
+      "num": 238645,
+      "word": "比伯海莉结婚未公开旧照",
+      "onboard_time": 1758200783,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 816809,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 710969,
+      "num": 710969,
+      "word": "731所有日本角色均由日籍演员出演",
+      "onboard_time": 1758193224,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 689683,
       "num": 524399,
       "word": "D4vd车厢藏尸死者为15岁女孩",
@@ -331,12 +355,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 649108,
-      "num": 649108,
-      "word": "731所有日本角色均由日籍演员出演",
-      "onboard_time": 1758193224,
-      "rank": 4,
-      "category": "电影"
+      "raw_hot": 627476,
+      "num": 236489,
+      "word": "李乃文助理把车票日期买错了",
+      "onboard_time": 1758202045,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 609397,
@@ -371,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581460,
+      "num": 581460,
+      "word": "多人因忘关闭自动续费被扣数千元",
+      "onboard_time": 1758198562,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580652,
       "num": 580652,
       "word": "特朗普访英被指无视王室礼仪",
@@ -395,14 +427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 552821,
-      "num": 552821,
-      "word": "香港失窃黄金已全数追回",
-      "onboard_time": 1758201324,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 535341,
       "num": 535341,
       "word": "中年男性开始频繁出去跑步说明了什么",
@@ -425,14 +449,6 @@
       "onboard_time": 1758159322,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529455,
-      "num": 238645,
-      "word": "比伯海莉结婚未公开旧照",
-      "onboard_time": 1758200783,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 523440,
@@ -465,14 +481,6 @@
       "onboard_time": 1758119062,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 488531,
-      "num": 488531,
-      "word": "多人因忘关闭自动续费被扣数千元",
-      "onboard_time": 1758198562,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 472337,
@@ -665,14 +673,6 @@
       "onboard_time": 1758121046,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323807,
-      "num": 230512,
-      "word": "李乃文助理把车票日期买错了",
-      "onboard_time": 1758202045,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 322777,
@@ -963,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205048,
+      "num": 205048,
+      "word": "蔡徐坤皱眉这一下",
+      "onboard_time": 1758201982,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204471,
       "num": 213457,
       "word": "分别多年后闺蜜成了大明星",
@@ -1011,12 +1019,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194375,
-      "num": 151955,
+      "raw_hot": 197261,
+      "num": 197261,
       "word": "这位妈妈一辈子都走不出来了",
       "onboard_time": 1758200842,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195131,
+      "num": 195131,
+      "word": "林俊杰鸟巢横开人传人",
+      "onboard_time": 1758201923,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 194267,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1758198682,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192989,
+      "num": 227367,
+      "word": "731票房",
+      "onboard_time": 1758191362,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 192818,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1758175941,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187872,
-      "num": 227367,
-      "word": "731票房",
-      "onboard_time": 1758191362,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 186481,
@@ -1209,14 +1225,6 @@
       "onboard_time": 1758172941,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172453,
-      "num": 172453,
-      "word": "林俊杰鸟巢横开人传人",
-      "onboard_time": 1758201923,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 171497,
@@ -1379,14 +1387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155376,
-      "num": 155376,
-      "word": "蔡徐坤皱眉这一下",
-      "onboard_time": 1758201982,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 154807,
       "num": 154807,
       "word": "赴山海能复刻大奉打更人的走势吗",
@@ -1433,6 +1433,14 @@
       "onboard_time": 1758119906,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152600,
+      "num": 152600,
+      "word": "关晓彤为了拍摄爬六层高屋顶",
+      "onboard_time": 1758199582,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152099,
@@ -1507,12 +1515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145879,
-      "num": 131196,
-      "word": "关晓彤为了拍摄爬六层高屋顶",
-      "onboard_time": 1758199582,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 146450,
+      "num": 146450,
+      "word": "深圳地铁四号线",
+      "onboard_time": 1758199944,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144613,
@@ -1547,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142207,
-      "num": 135731,
-      "word": "深圳地铁四号线",
-      "onboard_time": 1758199944,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141563,
       "num": 141563,
       "word": "乒乓球欧冠签表出炉",
@@ -1571,19 +1571,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140901,
+      "num": 153436,
+      "word": "成毅感慨自己已经打了十年",
+      "onboard_time": 1758198262,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140557,
       "num": 187638,
       "word": "杨丽菁为成毅发声",
       "onboard_time": 1758124643,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140555,
-      "num": 140555,
-      "word": "成毅感慨自己已经打了十年",
-      "onboard_time": 1758198262,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1827,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125453,
+      "num": 125453,
+      "word": "西九龙重案组跟进香港黄金劫案",
+      "onboard_time": 1758201684,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124933,
       "num": 124933,
       "word": "华为明年Q1推出950PR芯片",
@@ -1849,6 +1857,14 @@
       "onboard_time": 1758186982,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124145,
+      "num": 124145,
+      "word": "美国爆发接吻虫病疫情",
+      "onboard_time": 1758199762,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124079,
@@ -2067,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113491,
+      "num": 113491,
+      "word": "易烊千玺垒石头效应",
+      "onboard_time": 1758202824,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113424,
       "num": 152100,
       "word": "多位中国游客在法国机场高速遭抢劫",
@@ -2179,12 +2203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105940,
-      "num": 105940,
-      "word": "美国爆发接吻虫病疫情",
-      "onboard_time": 1758199762,
-      "rank": 47,
-      "category": "海外新闻"
+      "raw_hot": 106668,
+      "num": 106668,
+      "word": "喜不喜欢可以通过第一反应看出来",
+      "onboard_time": 1758200842,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 105657,
@@ -2363,8 +2387,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 98324,
-      "num": 98324,
+      "raw_hot": 99211,
+      "num": 99211,
       "word": "2.8亿大楼成交百万中介费没了",
       "onboard_time": 1758200902,
       "rank": 45,
@@ -2561,6 +2585,14 @@
       "onboard_time": 1758121945,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80986,
+      "num": 94733,
+      "word": "65岁以上人群应该避免压力性按摩",
+      "onboard_time": 1758202644,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 79357,
@@ -2835,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47312,
+      "num": 898161,
+      "word": "做光荣自豪的中国人",
+      "onboard_time": 1758201744,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46518,
       "num": 113238,
       "word": "女生留标准短发已执行超20年",
@@ -2889,14 +2929,6 @@
       "onboard_time": 1758166641,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34205,
-      "num": 562132,
-      "word": "做光荣自豪的中国人",
-      "onboard_time": 1758201744,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31673,
