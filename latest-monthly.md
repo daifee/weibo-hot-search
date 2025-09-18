@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/18 13:23:20
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/18 13:39:57
 </p>
 </blockquote>
 <p>
@@ -3387,6 +3387,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E9%87%91%E9%A5%B0%E4%B8%80%E5%8F%A3%E4%BB%B7%E4%B9%9F%E8%A6%81%E6%B6%A8%23" target="weibo">
+金价狂飙金饰一口价也要涨（热度：796353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%85%E5%9C%88%E9%A3%9F%E6%B1%87%20%E8%9B%86%E8%99%AB%23" target="weibo">
 锅圈食汇 蛆虫（热度：796191）
 </a>
@@ -4407,12 +4413,6 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E9%87%91%E9%A5%B0%E4%B8%80%E5%8F%A3%E4%BB%B7%E4%B9%9F%E8%A6%81%E6%B6%A8%23" target="weibo">
-金价狂飙金饰一口价也要涨（热度：647802）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%BF%E7%95%8CCEO%23" target="weibo">
 势界CEO（热度：647007）
 </a>
@@ -4715,6 +4715,12 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9B%BC%E4%B9%90%20%E9%A9%AC%E6%80%9D%E7%BA%AF%23" target="weibo">
 张曼乐 马思纯（热度：610061）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%94%81%E5%AE%9A%E5%BA%9F%E5%BC%83%E6%B0%A2%E6%B0%9F%E9%85%B8%E6%89%80%E6%9C%89%E8%80%85%23" target="weibo">
+杭州锁定废弃氢氟酸所有者（热度：609397）
 </a>
 </li>
 
@@ -5763,6 +5769,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E5%A5%B3%E5%8F%8B%E8%87%AA%E6%9B%9D%E6%98%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%A2%A6%E5%A5%B3%23" target="weibo">
+桃黑黑女友自曝是易烊千玺梦女（热度：523440）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%8239%E4%BA%86%23" target="weibo">
 杨幂39了（热度：523427）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17ProMax全新升级机王（热度：506729）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%83%A0%20%E6%AF%94%E8%91%A3%E7%92%87%E8%BF%98%E6%99%95%E7%9A%84%E4%BA%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 万千惠 比董璇还晕的人来了（热度：503243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%81%E5%BA%92%E8%BF%9E%E6%88%98%E6%97%97%E5%A4%9A%E4%B8%80%E7%82%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%B3%AA%E7%9B%AE%E4%BA%86%23" target="weibo">
-刘老庒连战旗多一点的原因泪目了（热度：502865）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GAI%E7%AE%97%E4%B8%8D%E7%AE%97%E9%80%8F%E9%9C%B2%E8%AF%B4%E5%94%B1%E5%9C%88%E5%86%85%E5%B9%95%E4%BA%86%23" target="weibo">
-GAI算不算透露说唱圈内幕了（热度：502636）
 </a>
 </li>
 
