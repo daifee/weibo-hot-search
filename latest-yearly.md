@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/18 16:32:26
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/18 16:45:47
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88%23" target="weibo">
+香港黄金劫案（热度：14538988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%99%AF%E5%8C%BA%E5%86%85%E9%81%AD%E6%8D%85%E5%A4%9A%E5%88%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
 19岁女大学生景区内遭捅多刀身亡（热度：14536025）
 </a>
@@ -455,12 +461,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%89%AF%E6%80%BB%E8%A3%81%E8%B0%A2%E5%B9%BF%E5%86%9B%E9%81%93%E6%AD%89%23" target="weibo">
 百度副总裁谢广军道歉（热度：13952184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88%23" target="weibo">
-香港黄金劫案（热度：13950556）
 </a>
 </li>
 

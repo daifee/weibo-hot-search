@@ -1,0 +1,410 @@
+{
+  "runTime": 1758185147879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14538988,
+        "num": 14538988,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1087030,
+        "num": 1087030,
+        "word": "731",
+        "onboard_time": 1758152660,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94732,
+        "num": 695081,
+        "word": "公安部公布6起行政执法典型案例",
+        "onboard_time": 1758183744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 654754,
+        "num": 654754,
+        "word": "风月不相关 不拍了",
+        "onboard_time": 1758174623,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566063,
+        "num": 566063,
+        "word": "女子发现自己有138辆车",
+        "onboard_time": 1758179302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399497,
+        "num": 399497,
+        "word": "香港打金厂被抢走65公斤黄金",
+        "onboard_time": 1758180323,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625302,
+        "num": 361451,
+        "word": "731电影郑重声明",
+        "onboard_time": 1758179903,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 604041,
+        "num": 334876,
+        "word": "邓超登北京影协失联会员名单",
+        "onboard_time": 1758184046,
+        "rank": 7,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 275392,
+        "num": 275392,
+        "word": "外交部回应中企停止购买英伟达芯片",
+        "onboard_time": 1758183383,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270260,
+        "num": 270260,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1306176,
+        "num": 269780,
+        "word": "沈梦辰美成Angelababy了",
+        "onboard_time": 1758179542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740278,
+        "num": 266966,
+        "word": "女生校内分娩所在学校开会反思",
+        "onboard_time": 1758179723,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513572,
+        "num": 265558,
+        "word": "上班禁止偷吃同事",
+        "onboard_time": 1758177201,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438661,
+        "num": 264618,
+        "word": "蔡依林自曝患蛇缠腰后才早睡",
+        "onboard_time": 1758184524,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306129,
+        "num": 263015,
+        "word": "嘎子谢孟伟账号被封",
+        "onboard_time": 1758174801,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283961,
+        "num": 261843,
+        "word": "理解明星为什么和经纪人结婚了",
+        "onboard_time": 1758169822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260262,
+        "num": 260262,
+        "word": "赵今麦完全褪去了稚气",
+        "onboard_time": 1758173543,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256639,
+        "num": 256639,
+        "word": "原来iPhone天气这么好用",
+        "onboard_time": 1758184583,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232728,
+        "num": 232728,
+        "word": "731影评",
+        "onboard_time": 1758165981,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274227,
+        "num": 229312,
+        "word": "嘎子哥谢孟伟新电影戏份将被拿掉",
+        "onboard_time": 1758183322,
+        "rank": 19,
+        "category": "电影,民生新闻"
+      },
+      {
+        "raw_hot": 543317,
+        "num": 220941,
+        "word": "建议大家大量频繁的说话",
+        "onboard_time": 1758178402,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357403,
+        "num": 214791,
+        "word": "每年70亿只小鸡出生就被绞杀",
+        "onboard_time": 1758183203,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 312543,
+        "num": 203871,
+        "word": "热依扎拍女儿去世戏持续哭了7个小时",
+        "onboard_time": 1758170062,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203721,
+        "num": 203721,
+        "word": "T1对战DK",
+        "onboard_time": 1758184403,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196026,
+        "num": 196026,
+        "word": "杨丽菁称肖战和成毅各有千秋",
+        "onboard_time": 1758181822,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195370,
+        "num": 195370,
+        "word": "外交部回应韩娱重返中国",
+        "onboard_time": 1758167902,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183141,
+        "num": 183141,
+        "word": "狂飙麻子爆改富二代",
+        "onboard_time": 1758177322,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181640,
+        "num": 181640,
+        "word": "藏海传打戏",
+        "onboard_time": 1758183565,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158236,
+        "num": 158236,
+        "word": "四个TFBOYS和一个By2能胡牌",
+        "onboard_time": 1758184342,
+        "rank": 28,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 156238,
+        "num": 156238,
+        "word": "梁王",
+        "onboard_time": 1758180683,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240721,
+        "num": 155343,
+        "word": "什么叫裁员裁到大动脉",
+        "onboard_time": 1758185064,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151606,
+        "num": 151606,
+        "word": "A股",
+        "onboard_time": 1758177080,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139052,
+        "num": 139052,
+        "word": "景德镇90元酒店房间国庆涨到1000元",
+        "onboard_time": 1758169462,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133030,
+        "num": 133030,
+        "word": "原味鸡蛋",
+        "onboard_time": 1758183023,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130796,
+        "num": 130796,
+        "word": "歼20S指挥无人机打预警机",
+        "onboard_time": 1758182722,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117892,
+        "num": 117892,
+        "word": "泽连斯基说所有国家别考虑自己了",
+        "onboard_time": 1758176541,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116622,
+        "num": 116622,
+        "word": "中年男性开始频繁出去跑步说明了什么",
+        "onboard_time": 1758167841,
+        "rank": 36,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 111684,
+        "num": 111684,
+        "word": "凡人修仙传9月30日全台电视首播",
+        "onboard_time": 1758179061,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111276,
+        "num": 111276,
+        "word": "龚俊聚餐喝醉被扶出饭店",
+        "onboard_time": 1758170363,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110462,
+        "num": 110462,
+        "word": "留饭和剩饭的差别",
+        "onboard_time": 1758181822,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105743,
+        "num": 105743,
+        "word": "中国是一个开放包容安全的国家",
+        "onboard_time": 1758183262,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105632,
+        "num": 105632,
+        "word": "法考成绩公告",
+        "onboard_time": 1758182001,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103011,
+        "num": 103011,
+        "word": "看似不起眼但很养生的行为",
+        "onboard_time": 1758179242,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98837,
+        "num": 98837,
+        "word": "医学生看731后嘴角颤抖受访",
+        "onboard_time": 1758184342,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95776,
+        "num": 95776,
+        "word": "A股全天成交额31666亿元",
+        "onboard_time": 1758184943,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95036,
+        "num": 95036,
+        "word": "金价狂飙金饰一口价也要涨",
+        "onboard_time": 1758168383,
+        "rank": 45,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 94980,
+        "num": 94980,
+        "word": "孟子义扶李昀锐路透",
+        "onboard_time": 1758176843,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92936,
+        "num": 92936,
+        "word": "杭州锁定废弃氢氟酸所有者",
+        "onboard_time": 1758170303,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87993,
+        "num": 87993,
+        "word": "和一个冰箱贴狠狠共情了",
+        "onboard_time": 1758182184,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86230,
+        "num": 86230,
+        "word": "小米SU7出租车司机被同行举报",
+        "onboard_time": 1758166522,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族伟大复兴势不可挡#"
+    }
+  }
+}

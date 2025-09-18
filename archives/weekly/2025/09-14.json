@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758184346217,
+  "endTime": 1758185147879,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13950556,
-      "num": 13950556,
+      "raw_hot": 14538988,
+      "num": 14538988,
       "word": "香港黄金劫案",
       "onboard_time": 1758179242,
       "rank": 0,
@@ -1403,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 740278,
+      "num": 639159,
+      "word": "女生校内分娩所在学校开会反思",
+      "onboard_time": 1758179723,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 738125,
       "num": 253962,
       "word": "女孩子黄体破裂后到底有多严重",
@@ -1611,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 639159,
-      "num": 639159,
-      "word": "女生校内分娩所在学校开会反思",
-      "onboard_time": 1758179723,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 638326,
       "num": 638326,
       "word": "90后女子背疼容易饿确诊胃癌晚期",
@@ -1713,6 +1713,14 @@
       "onboard_time": 1757897842,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604041,
+      "num": 334876,
+      "word": "邓超登北京影协失联会员名单",
+      "onboard_time": 1758184046,
+      "rank": 27,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 603990,
@@ -2587,6 +2595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 438661,
+      "num": 264618,
+      "word": "蔡依林自曝患蛇缠腰后才早睡",
+      "onboard_time": 1758184524,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436251,
       "num": 436251,
       "word": "马天宇出席釜山国际电影节",
@@ -3291,6 +3307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 357403,
+      "num": 235305,
+      "word": "每年70亿只小鸡出生就被绞杀",
+      "onboard_time": 1758183203,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 352171,
       "num": 352171,
       "word": "2025湾区升明月官宣",
@@ -3449,14 +3473,6 @@
       "onboard_time": 1757904801,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 336586,
-      "num": 235305,
-      "word": "每年70亿只小鸡出生就被绞杀",
-      "onboard_time": 1758183203,
-      "rank": 22,
-      "category": "科学科普"
     },
     {
       "raw_hot": 336290,
@@ -3995,6 +4011,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275392,
+      "num": 275392,
+      "word": "外交部回应中企停止购买英伟达芯片",
+      "onboard_time": 1758183383,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 274227,
+      "num": 269555,
+      "word": "嘎子哥谢孟伟新电影戏份将被拿掉",
+      "onboard_time": 1758183322,
+      "rank": 17,
+      "category": "电影,民生新闻"
+    },
+    {
       "raw_hot": 274042,
       "num": 185974,
       "word": "以色列开始碰瓷中国",
@@ -4033,14 +4065,6 @@
       "onboard_time": 1757860046,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 269555,
-      "num": 269555,
-      "word": "嘎子哥谢孟伟新电影戏份将被拿掉",
-      "onboard_time": 1758183322,
-      "rank": 17,
-      "category": "电影,民生新闻"
     },
     {
       "raw_hot": 269038,
@@ -4249,6 +4273,14 @@
       "onboard_time": 1757852303,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256639,
+      "num": 256639,
+      "word": "原来iPhone天气这么好用",
+      "onboard_time": 1758184583,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 256184,
@@ -4497,6 +4529,14 @@
       "onboard_time": 1757837244,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240721,
+      "num": 155343,
+      "word": "什么叫裁员裁到大动脉",
+      "onboard_time": 1758185064,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 240651,
@@ -5315,6 +5355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203721,
+      "num": 203721,
+      "word": "T1对战DK",
+      "onboard_time": 1758184403,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203623,
       "num": 203623,
       "word": "关晓彤挪威追极光",
@@ -5649,14 +5697,6 @@
       "onboard_time": 1758042918,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195863,
-      "num": 227447,
-      "word": "外交部回应中企停止购买英伟达芯片",
-      "onboard_time": 1758183383,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195763,
@@ -6243,14 +6283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 182835,
-      "num": 182835,
-      "word": "邓超登北京影协失联会员名单",
-      "onboard_time": 1758184046,
-      "rank": 27,
-      "category": "电影,艺人"
-    },
-    {
       "raw_hot": 182761,
       "num": 182761,
       "word": "西贝门店回应有顾客公筷喂狗",
@@ -6297,6 +6329,14 @@
       "onboard_time": 1757997564,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181640,
+      "num": 181640,
+      "word": "藏海传打戏",
+      "onboard_time": 1758183565,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 180946,
@@ -7483,14 +7523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159811,
-      "num": 159811,
-      "word": "藏海传打戏",
-      "onboard_time": 1758183565,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159466,
       "num": 198984,
       "word": "比利简金杯中国vs意大利",
@@ -7569,6 +7601,14 @@
       "onboard_time": 1758093324,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158236,
+      "num": 158236,
+      "word": "四个TFBOYS和一个By2能胡牌",
+      "onboard_time": 1758184342,
+      "rank": 28,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 158094,
@@ -9331,6 +9371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133030,
+      "num": 133030,
+      "word": "原味鸡蛋",
+      "onboard_time": 1758183023,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133017,
       "num": 133017,
       "word": "苹果近期产品规划曝光",
@@ -9712,14 +9760,6 @@
       "word": "2010年的招聘要求",
       "onboard_time": 1757914524,
       "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 127719,
-      "num": 127719,
-      "word": "原味鸡蛋",
-      "onboard_time": 1758183023,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -12091,6 +12131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98837,
+      "num": 98837,
+      "word": "医学生看731后嘴角颤抖受访",
+      "onboard_time": 1758184342,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98678,
       "num": 98678,
       "word": "周三其实是最会装的",
@@ -12323,6 +12371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95776,
+      "num": 95776,
+      "word": "A股全天成交额31666亿元",
+      "onboard_time": 1758184943,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95587,
       "num": 95587,
       "word": "上海海港vs神户胜利船",
@@ -12361,6 +12417,14 @@
       "onboard_time": 1757834002,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94732,
+      "num": 944872,
+      "word": "公安部公布6起行政执法典型案例",
+      "onboard_time": 1758183744,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94667,
@@ -13897,14 +13961,6 @@
       "onboard_time": 1757892439,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58722,
-      "num": 944872,
-      "word": "公安部公布6起行政执法典型案例",
-      "onboard_time": 1758183744,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 58659,
