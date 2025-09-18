@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758206534290,
+  "endTime": 1758209217856,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -6171,6 +6171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 632368,
+      "num": 198043,
+      "word": "19岁女子腹痛就诊后2小时分娩",
+      "onboard_time": 1758207444,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632186,
       "num": 632186,
       "word": "iPhone17Pro",
@@ -6377,6 +6385,14 @@
       "onboard_time": 1757693185,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 618495,
+      "num": 618495,
+      "word": "上海通报小学臭午餐事件",
+      "onboard_time": 1758206064,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 618027,
@@ -7003,6 +7019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 569167,
+      "num": 279049,
+      "word": "各大奶茶最好喝的一杯",
+      "onboard_time": 1758205585,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 568849,
       "num": 568849,
       "word": "特朗普称愿对中印大幅加征关税",
@@ -7305,6 +7329,14 @@
       "onboard_time": 1756700722,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 550386,
+      "num": 550386,
+      "word": "日本称九一八事变为满洲事变",
+      "onboard_time": 1758205523,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 550260,
@@ -9161,6 +9193,14 @@
       "onboard_time": 1757396062,
       "rank": 37,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 458587,
+      "num": 197303,
+      "word": "曝王安宇不演一念江南",
+      "onboard_time": 1758207504,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 458205,
@@ -11529,14 +11569,6 @@
       "onboard_time": 1757569844,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 374858,
-      "num": 374858,
-      "word": "日本称九一八事变为满洲事变",
-      "onboard_time": 1758205523,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 374796,
@@ -14891,14 +14923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 279049,
-      "num": 279049,
-      "word": "各大奶茶最好喝的一杯",
-      "onboard_time": 1758205585,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 278937,
       "num": 334135,
       "word": "学校辟谣女生在宿舍分娩失血过多去世",
@@ -17913,14 +17937,6 @@
       "onboard_time": 1757300783,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222349,
-      "num": 362263,
-      "word": "上海通报小学臭午餐事件",
-      "onboard_time": 1758206064,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222233,
@@ -21187,6 +21203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193925,
+      "num": 193925,
+      "word": "张真源红发皮衣",
+      "onboard_time": 1758208163,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193917,
       "num": 237000,
       "word": "iPhone17 关闭摇一摇广告",
@@ -22665,6 +22689,14 @@
       "onboard_time": 1756893743,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 186066,
+      "num": 186066,
+      "word": "法考成绩",
+      "onboard_time": 1758208943,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 186062,
@@ -28659,6 +28691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153599,
+      "num": 153599,
+      "word": "马克龙将提交证据证明妻子是女性",
+      "onboard_time": 1758207620,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153537,
       "num": 153537,
       "word": "林允旗袍",
@@ -28873,6 +28913,14 @@
       "onboard_time": 1758199582,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152469,
+      "num": 152469,
+      "word": "成毅拿剧本出镜算失误吗",
+      "onboard_time": 1758208524,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 152455,
@@ -33315,6 +33363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136174,
+      "num": 136174,
+      "word": "香港黄金盗窃案幕后主脑是合伙人",
+      "onboard_time": 1758207685,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136154,
       "num": 136154,
       "word": "联通回应eSIM版iPhone",
@@ -33971,6 +34027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134218,
+      "num": 134218,
+      "word": "印媒称阵风全面领先歼35A",
+      "onboard_time": 1758208643,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134153,
       "num": 202911,
       "word": "女子潜水被遗忘海上漂了45分钟",
@@ -34587,6 +34651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132149,
+      "num": 207236,
+      "word": "必胜客店员回应橙汁确为果粒橙",
+      "onboard_time": 1758205883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132133,
       "num": 132133,
       "word": "为什么瘦子吃那么多米饭却不胖",
@@ -34617,6 +34689,14 @@
       "onboard_time": 1757079443,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131873,
+      "num": 131873,
+      "word": "携程被约谈",
+      "onboard_time": 1758206784,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131836,
@@ -34937,6 +35017,14 @@
       "onboard_time": 1757746643,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130574,
+      "num": 130574,
+      "word": "莫雷加德晒与孙颖莎合影",
+      "onboard_time": 1758207563,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 130570,
@@ -35953,6 +36041,14 @@
       "onboard_time": 1757423423,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127728,
+      "num": 127728,
+      "word": "能量低就立刻去做这5件事",
+      "onboard_time": 1758208223,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 127696,
@@ -38379,6 +38475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119628,
+      "num": 144356,
+      "word": "事业单位招聘博士月薪4000元起",
+      "onboard_time": 1758205883,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119619,
       "num": 154040,
       "word": "倪妮马思纯周冬雨同台",
@@ -40497,6 +40601,14 @@
       "onboard_time": 1757240301,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113045,
+      "num": 113045,
+      "word": "女子否认怀孕影像检查2小时后分娩",
+      "onboard_time": 1758208643,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112978,
@@ -43363,6 +43475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104226,
+      "num": 104226,
+      "word": "钟文泽谈标准版iPhone17",
+      "onboard_time": 1758207620,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104195,
       "num": 175839,
       "word": "三大运营商回应是否支持eSIM版iPhone",
@@ -44689,6 +44809,14 @@
       "onboard_time": 1757401581,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99954,
+      "num": 99954,
+      "word": "男子转情人1340万66岁原配起诉返还",
+      "onboard_time": 1758209124,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99938,
@@ -46409,14 +46537,6 @@
       "onboard_time": 1757745085,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94228,
-      "num": 144356,
-      "word": "事业单位招聘博士月薪4000元起",
-      "onboard_time": 1758205883,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94195,
@@ -50587,6 +50707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72426,
+      "num": 189373,
+      "word": "五彩模式的秋天又要来了",
+      "onboard_time": 1758208883,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72417,
       "num": 81785,
       "word": "宋茜出道十六周年",
@@ -50680,6 +50808,14 @@
       "word": "丈夫受处分妻子诬告学校干部嫖娼",
       "onboard_time": 1757927542,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71909,
+      "num": 195606,
+      "word": "拖鞋放配料盆里店员已被行拘",
+      "onboard_time": 1758207743,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -54328,14 +54464,6 @@
       "word": "6名消防人员训练时落水2人失踪",
       "onboard_time": 1757174004,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45597,
-      "num": 207236,
-      "word": "必胜客店员回应橙汁确为果粒橙",
-      "onboard_time": 1758205883,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
