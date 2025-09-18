@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758188383919,
+  "endTime": 1758191160650,
   "band_list": [
     {
       "raw_hot": 14538988,
@@ -203,6 +203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 825413,
+      "num": 825413,
+      "word": "台湾现在属于中国",
+      "onboard_time": 1758189084,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 816809,
       "num": 816809,
       "word": "蜜雪冰城回应柠檬水断货",
@@ -355,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 563714,
+      "num": 245621,
+      "word": "李荣浩成为iOS26最大受益者",
+      "onboard_time": 1758188302,
+      "rank": 46,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 560183,
       "num": 560183,
       "word": "中国发出世界首份反法西斯檄文",
@@ -443,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 456238,
+      "num": 456238,
+      "word": "孕妇泰国坠崖案女子全身100多钢钉",
+      "onboard_time": 1758186444,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452759,
       "num": 452759,
       "word": "731观后感",
@@ -473,14 +497,6 @@
       "onboard_time": 1758128777,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 403664,
-      "num": 403664,
-      "word": "孕妇泰国坠崖案女子全身100多钢钉",
-      "onboard_time": 1758186444,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 402694,
@@ -545,6 +561,14 @@
       "onboard_time": 1758173543,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347230,
+      "num": 347230,
+      "word": "北京社保基数",
+      "onboard_time": 1758189383,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345909,
@@ -633,6 +657,14 @@
       "onboard_time": 1758152241,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263252,
+      "num": 243711,
+      "word": "撞脸刘亦菲网红因工资低选择做主播",
+      "onboard_time": 1758188541,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 262557,
@@ -761,6 +793,14 @@
       "onboard_time": 1758167542,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 211953,
+      "num": 211953,
+      "word": "社保",
+      "onboard_time": 1758189923,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210756,
@@ -1091,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156251,
+      "num": 156251,
+      "word": "香港65公斤黄金大劫案7人被拘",
+      "onboard_time": 1758188843,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154807,
       "num": 154807,
       "word": "赴山海能复刻大奉打更人的走势吗",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1758167121,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149879,
+      "num": 214610,
+      "word": "以后的武侠剧都按这个拍",
+      "onboard_time": 1758188002,
+      "rank": 34,
+      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 149416,
@@ -1241,6 +1297,22 @@
       "onboard_time": 1758124643,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140395,
+      "num": 140395,
+      "word": "埃及3000年前的法老金镯丢失",
+      "onboard_time": 1758187762,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139271,
+      "num": 139271,
+      "word": "中国劳工来一批死一批",
+      "onboard_time": 1758189803,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138575,
@@ -1475,14 +1547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122095,
-      "num": 122095,
-      "word": "以后的武侠剧都按这个拍",
-      "onboard_time": 1758188002,
-      "rank": 34,
-      "category": "电影,作品衍生"
-    },
-    {
       "raw_hot": 121590,
       "num": 121590,
       "word": "你不知道的九一八",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1758174442,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116116,
+      "num": 116116,
+      "word": "久坐的人一定要好好养屁股",
+      "onboard_time": 1758188666,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115463,
@@ -1635,6 +1707,14 @@
       "category": "幽默,数码"
     },
     {
+      "raw_hot": 110782,
+      "num": 110782,
+      "word": "两个一辈子都不可能见面的物种相遇了",
+      "onboard_time": 1758188482,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 110378,
       "num": 110378,
       "word": "侵华日军细菌战致衢州5万余人死亡",
@@ -1659,12 +1739,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108449,
+      "num": 108449,
+      "word": "T1 世界赛",
+      "onboard_time": 1758189264,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108407,
       "num": 108407,
       "word": "不饿但总馋说明身体缺了某些东西",
       "onboard_time": 1758188123,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108109,
+      "num": 108109,
+      "word": "马龙出镜洛杉矶奥运会宣传片",
+      "onboard_time": 1758188362,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 105657,
@@ -1715,6 +1811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102695,
+      "num": 102695,
+      "word": "iPhone17把压力给到国产厂商了吗",
+      "onboard_time": 1758190882,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 102394,
       "num": 102394,
       "word": "原来小猫做这个动作是在撒娇",
@@ -1739,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101735,
-      "num": 101735,
-      "word": "埃及3000年前的法老金镯丢失",
-      "onboard_time": 1758187762,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 101412,
       "num": 101412,
       "word": "中国游客用嘴咬住落水女子头发救人",
@@ -1763,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101084,
+      "num": 101084,
+      "word": "必胜客19元橙汁是果粒橙加冰",
+      "onboard_time": 1758190761,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100981,
       "num": 99423,
       "word": "秋天吃柚子的三大理由",
@@ -1777,14 +1881,6 @@
       "onboard_time": 1758183983,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 99927,
-      "num": 99927,
-      "word": "李荣浩成为iOS26最大受益者",
-      "onboard_time": 1758188302,
-      "rank": 46,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 99557,
@@ -1883,12 +1979,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92961,
+      "num": 92961,
+      "word": "731电影",
+      "onboard_time": 1758191063,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91227,
       "num": 91227,
       "word": "731票房破2亿",
       "onboard_time": 1758180683,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90637,
+      "num": 90637,
+      "word": "运20歼20歼16视觉影像大片",
+      "onboard_time": 1758190102,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90537,
@@ -1913,6 +2025,14 @@
       "onboard_time": 1758120565,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89532,
+      "num": 89532,
+      "word": "橙色iPhone17或加价最多",
+      "onboard_time": 1758190583,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 84001,
@@ -2008,6 +2128,14 @@
       "word": "年薪上亿清华学霸曾想反诉公司诽谤",
       "onboard_time": 1758141613,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73271,
+      "num": 108990,
+      "word": "国庆酒店 涨价",
+      "onboard_time": 1758190702,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2207,6 +2335,14 @@
       "num": 115283,
       "word": "女外卖员2年激增近36%",
       "onboard_time": 1758187883,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41247,
+      "num": 108540,
+      "word": "奶茶店员把拖鞋放配料盆被警方带走",
+      "onboard_time": 1758190343,
       "rank": 39,
       "category": "民生新闻"
     },
