@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758173997244,
+  "endTime": 1758177407082,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -153,6 +153,14 @@
       "onboard_time": 1757993964,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2101106,
+      "num": 2101106,
+      "word": "风月不相关 不拍了",
+      "onboard_time": 1758174623,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2100838,
@@ -1003,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 882968,
+      "num": 287934,
+      "word": "A股",
+      "onboard_time": 1758095482,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 878237,
       "num": 878237,
       "word": "iPhone18Pro已打样",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1757777605,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 654555,
+      "num": 367744,
+      "word": "嘎子谢孟伟账号被封",
+      "onboard_time": 1758174801,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 649702,
@@ -2811,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396898,
+      "num": 396898,
+      "word": "景德镇90元酒店房间国庆涨到1000元",
+      "onboard_time": 1758169462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396202,
       "num": 396202,
       "word": "蔡徐坤音乐节",
@@ -3331,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337034,
+      "num": 236218,
+      "word": "赵今麦完全褪去了稚气",
+      "onboard_time": 1758173543,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336955,
       "num": 284882,
       "word": "床上不能停半挂",
@@ -3409,6 +3449,14 @@
       "onboard_time": 1757862925,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322777,
+      "num": 322777,
+      "word": "伊朗公布绞死间谍画面",
+      "onboard_time": 1758174202,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 321818,
@@ -4379,14 +4427,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 240217,
-      "num": 240217,
-      "word": "景德镇90元酒店房间国庆涨到1000元",
-      "onboard_time": 1758169462,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239553,
       "num": 239553,
       "word": "表面沉迷游戏实则北大清华",
@@ -4409,6 +4449,14 @@
       "onboard_time": 1757859386,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236529,
+      "num": 236529,
+      "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
+      "onboard_time": 1758169703,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236412,
@@ -4963,6 +5011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209682,
+      "num": 209682,
+      "word": "降息了为何金价却大跳水",
+      "onboard_time": 1758174560,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209659,
       "num": 209659,
       "word": "从150斤瘦到110斤的真实感受",
@@ -5235,6 +5291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200634,
+      "num": 200634,
+      "word": "风月不相关",
+      "onboard_time": 1758176302,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200496,
       "num": 200496,
       "word": "白敬亭直播带粉丝看线下",
@@ -5273,14 +5337,6 @@
       "onboard_time": 1758078023,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 199232,
-      "num": 200733,
-      "word": "A股",
-      "onboard_time": 1758095482,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 198911,
@@ -5425,6 +5481,14 @@
       "onboard_time": 1757838143,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196964,
+      "num": 186283,
+      "word": "上班禁止偷吃同事",
+      "onboard_time": 1758177201,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 196718,
@@ -5659,14 +5723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 192447,
-      "num": 192447,
-      "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
-      "onboard_time": 1758169703,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "WTT澳门冠军赛2025",
@@ -5721,14 +5777,6 @@
       "onboard_time": 1758026185,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191452,
-      "num": 191452,
-      "word": "赵今麦完全褪去了稚气",
-      "onboard_time": 1758173543,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191304,
@@ -5891,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187881,
+      "num": 187881,
+      "word": "吉克隽逸怎么比月饼还黑两度",
+      "onboard_time": 1758175941,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187743,
       "num": 187743,
       "word": "樊振东给拉布布穿了皇马球衣",
@@ -5939,6 +5995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186251,
+      "num": 186251,
+      "word": "第一批看731观众发声",
+      "onboard_time": 1758176002,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185884,
       "num": 196613,
       "word": "第一次见女主把男主当工具人",
@@ -5961,6 +6025,14 @@
       "onboard_time": 1758083005,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185087,
+      "num": 185087,
+      "word": "上海绿捷",
+      "onboard_time": 1758175881,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185004,
@@ -6483,6 +6555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172660,
+      "num": 172660,
+      "word": "网购久了不清楚外面的物价了",
+      "onboard_time": 1758172941,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172196,
       "num": 172196,
       "word": "孙颖莎王曼昱惺惺相惜",
@@ -6553,6 +6633,14 @@
       "onboard_time": 1757910804,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 170858,
+      "num": 170858,
+      "word": "买衣服千万不要将就",
+      "onboard_time": 1758175041,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 170597,
@@ -6817,6 +6905,22 @@
       "onboard_time": 1757911226,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165389,
+      "num": 165389,
+      "word": "蔡依林回应为何长期自律",
+      "onboard_time": 1758175822,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165283,
+      "num": 165283,
+      "word": "果切老板们一定不要这样好吗",
+      "onboard_time": 1758172882,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 165066,
@@ -7243,20 +7347,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159548,
-      "num": 143528,
-      "word": "网购久了不清楚外面的物价了",
-      "onboard_time": 1758172941,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159466,
       "num": 198984,
       "word": "比利简金杯中国vs意大利",
       "onboard_time": 1758026124,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159349,
+      "num": 159349,
+      "word": "减肥不用非吃水煮菜了",
+      "onboard_time": 1758171384,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 159099,
@@ -8499,6 +8603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140557,
+      "num": 140557,
+      "word": "孟子义扶李昀锐路透",
+      "onboard_time": 1758176843,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140219,
       "num": 140219,
       "word": "付辛博不愧是初代选秀出来的",
@@ -8561,14 +8673,6 @@
       "onboard_time": 1757779944,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139430,
-      "num": 139430,
-      "word": "果切老板们一定不要这样好吗",
-      "onboard_time": 1758172882,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 139384,
@@ -8844,7 +8948,7 @@
     },
     {
       "raw_hot": 135553,
-      "num": 135553,
+      "num": 289265,
       "word": "美国鸡毛秀停播",
       "onboard_time": 1758166101,
       "rank": 40,
@@ -8993,14 +9097,6 @@
       "onboard_time": 1757920463,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133537,
-      "num": 133537,
-      "word": "减肥不用非吃水煮菜了",
-      "onboard_time": 1758171384,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 133515,
@@ -10083,6 +10179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119130,
+      "num": 119130,
+      "word": "泽连斯基说所有国家别考虑自己了",
+      "onboard_time": 1758176541,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119097,
       "num": 119097,
       "word": "宣璐把浪花穿身上了",
@@ -10297,6 +10401,14 @@
       "onboard_time": 1757827163,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117054,
+      "num": 117054,
+      "word": "李晟的命好指定有点说法",
+      "onboard_time": 1758174442,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 117015,
@@ -11027,6 +11139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106731,
+      "num": 106731,
+      "word": "狂飙麻子爆改富二代",
+      "onboard_time": 1758177322,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106722,
       "num": 106722,
       "word": "桃黑黑玩盛世天下",
@@ -11185,6 +11305,14 @@
       "onboard_time": 1758095123,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104806,
+      "num": 104806,
+      "word": "DeepSeek首次回应蒸馏OpenAI质疑",
+      "onboard_time": 1758175881,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 104803,
@@ -13593,6 +13721,14 @@
       "onboard_time": 1758151279,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55282,
+      "num": 186399,
+      "word": "看电影731前需要get的知识点",
+      "onboard_time": 1758177201,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 55264,

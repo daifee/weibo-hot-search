@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758173997244,
+  "endTime": 1758177407082,
   "band_list": [
     {
       "raw_hot": 2870732,
@@ -17,6 +17,14 @@
       "onboard_time": 1758125542,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2101106,
+      "num": 2101106,
+      "word": "风月不相关 不拍了",
+      "onboard_time": 1758174623,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1619594,
@@ -115,6 +123,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 882968,
+      "num": 287934,
+      "word": "A股",
+      "onboard_time": 1758177080,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 843990,
       "num": 843990,
       "word": "美联储降息",
@@ -201,6 +217,14 @@
       "onboard_time": 1758119906,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 654555,
+      "num": 367744,
+      "word": "嘎子谢孟伟账号被封",
+      "onboard_time": 1758174801,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 609397,
@@ -339,6 +363,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 396898,
+      "num": 396898,
+      "word": "景德镇90元酒店房间国庆涨到1000元",
+      "onboard_time": 1758169462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372044,
       "num": 372044,
       "word": "勿忘九一八",
@@ -387,12 +419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 337034,
+      "num": 236218,
+      "word": "赵今麦完全褪去了稚气",
+      "onboard_time": 1758173543,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335961,
       "num": 335961,
       "word": "教育局回应班主任在教室私装监控",
       "onboard_time": 1758121046,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322777,
+      "num": 322777,
+      "word": "伊朗公布绞死间谍画面",
+      "onboard_time": 1758174202,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 320131,
@@ -499,11 +547,11 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 240217,
-      "num": 240217,
-      "word": "景德镇90元酒店房间国庆涨到1000元",
-      "onboard_time": 1758169462,
-      "rank": 32,
+      "raw_hot": 236529,
+      "num": 236529,
+      "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
+      "onboard_time": 1758169703,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -563,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209682,
+      "num": 209682,
+      "word": "降息了为何金价却大跳水",
+      "onboard_time": 1758174560,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209351,
       "num": 209351,
       "word": "小猪佩奇等动画被恶改博眼球",
@@ -576,6 +632,14 @@
       "word": "分别多年后闺蜜成了大明星",
       "onboard_time": 1758170243,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200634,
+      "num": 200634,
+      "word": "风月不相关",
+      "onboard_time": 1758176302,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -595,20 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192447,
-      "num": 192447,
-      "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
-      "onboard_time": 1758169703,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191452,
-      "num": 191452,
-      "word": "赵今麦完全褪去了稚气",
-      "onboard_time": 1758173543,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 196964,
+      "num": 186283,
+      "word": "上班禁止偷吃同事",
+      "onboard_time": 1758177201,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 191045,
@@ -643,6 +699,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187881,
+      "num": 187881,
+      "word": "吉克隽逸怎么比月饼还黑两度",
+      "onboard_time": 1758175941,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186251,
+      "num": 186251,
+      "word": "第一批看731观众发声",
+      "onboard_time": 1758176002,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 185087,
+      "num": 185087,
+      "word": "上海绿捷",
+      "onboard_time": 1758175881,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180886,
       "num": 109721,
       "word": "降息",
@@ -667,6 +747,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 172660,
+      "num": 172660,
+      "word": "网购久了不清楚外面的物价了",
+      "onboard_time": 1758172941,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171497,
       "num": 171497,
       "word": "一百多的工资一坐就是8小时",
@@ -675,12 +763,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170858,
+      "num": 170858,
+      "word": "买衣服千万不要将就",
+      "onboard_time": 1758175041,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166035,
       "num": 166035,
       "word": "iPhone17ProMax续航实测夺冠",
       "onboard_time": 1758155961,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 165389,
+      "num": 165389,
+      "word": "蔡依林回应为何长期自律",
+      "onboard_time": 1758175822,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165283,
+      "num": 165283,
+      "word": "果切老板们一定不要这样好吗",
+      "onboard_time": 1758172882,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 163229,
@@ -707,12 +819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159548,
-      "num": 143528,
-      "word": "网购久了不清楚外面的物价了",
-      "onboard_time": 1758172941,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 159349,
+      "num": 159349,
+      "word": "减肥不用非吃水煮菜了",
+      "onboard_time": 1758171384,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 158819,
@@ -851,12 +963,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139430,
-      "num": 139430,
-      "word": "果切老板们一定不要这样好吗",
-      "onboard_time": 1758172882,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 140557,
+      "num": 140557,
+      "word": "孟子义扶李昀锐路透",
+      "onboard_time": 1758176843,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 138575,
@@ -884,7 +996,7 @@
     },
     {
       "raw_hot": 135553,
-      "num": 135553,
+      "num": 289265,
       "word": "美国鸡毛秀停播",
       "onboard_time": 1758166101,
       "rank": 40,
@@ -913,14 +1025,6 @@
       "onboard_time": 1758171624,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133537,
-      "num": 133537,
-      "word": "减肥不用非吃水煮菜了",
-      "onboard_time": 1758171384,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 133438,
@@ -1051,6 +1155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119130,
+      "num": 119130,
+      "word": "泽连斯基说所有国家别考虑自己了",
+      "onboard_time": 1758176541,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118734,
       "num": 118734,
       "word": "爸爸给儿子理发忘装卡尺秒变地中海",
@@ -1081,6 +1193,14 @@
       "onboard_time": 1758150560,
       "rank": 30,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 117054,
+      "num": 117054,
+      "word": "李晟的命好指定有点说法",
+      "onboard_time": 1758174442,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115463,
@@ -1155,12 +1275,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106731,
+      "num": 106731,
+      "word": "狂飙麻子爆改富二代",
+      "onboard_time": 1758177322,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105657,
       "num": 135370,
       "word": "赴山海一集下线134人",
       "onboard_time": 1758108684,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104806,
+      "num": 104806,
+      "word": "DeepSeek首次回应蒸馏OpenAI质疑",
+      "onboard_time": 1758175881,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 103129,
@@ -1457,6 +1593,14 @@
       "onboard_time": 1758151279,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55282,
+      "num": 186399,
+      "word": "看电影731前需要get的知识点",
+      "onboard_time": 1758177201,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 52590,
