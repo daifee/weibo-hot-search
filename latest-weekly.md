@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/19 03:20:52
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/19 03:36:55
 </p>
 </blockquote>
 <p>
@@ -12717,14 +12717,14 @@ XG对战Falcons（热度：17993）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E9%82%80%E8%AF%B7%E5%87%BD%E8%8E%B7%E5%8F%96%E6%94%BB%E7%95%A5%23" target="weibo">
-微博音乐盛典邀请函获取攻略（热度：13773）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BE%E6%A0%91%E8%8A%B1%E6%98%AF%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%BF%A1%E4%BD%BF%E5%90%A7%23" target="weibo">
+栾树花是秋天的信使吧（热度：13790）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BE%E6%A0%91%E8%8A%B1%E6%98%AF%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%BF%A1%E4%BD%BF%E5%90%A7%23" target="weibo">
-栾树花是秋天的信使吧（热度：13239）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E9%82%80%E8%AF%B7%E5%87%BD%E8%8E%B7%E5%8F%96%E6%94%BB%E7%95%A5%23" target="weibo">
+微博音乐盛典邀请函获取攻略（热度：13773）
 </a>
 </li>
 
