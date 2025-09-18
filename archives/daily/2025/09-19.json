@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758231418584,
+  "endTime": 1758234029128,
   "band_list": [
     {
       "raw_hot": 1016863,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168806,
+      "num": 62534,
+      "word": "D4vd车厢藏尸死者失踪时仅13岁",
+      "onboard_time": 1758225494,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163991,
       "num": 163991,
       "word": "白敬亭演技",
@@ -259,16 +267,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110841,
-      "num": 37812,
-      "word": "D4vd车厢藏尸死者失踪时仅13岁",
-      "onboard_time": 1758225494,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 98387,
-      "num": 98387,
+      "raw_hot": 106409,
+      "num": 106409,
       "word": "17号台风后18号19号也快了",
       "onboard_time": 1758210083,
       "rank": 31,
@@ -419,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55223,
+      "num": 55223,
+      "word": "王晶爆料温兆伦讨回恋爱花费",
+      "onboard_time": 1758233175,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53028,
       "num": 76222,
       "word": "嘎子哥谢孟伟原为领衔主演",
@@ -441,6 +449,14 @@
       "onboard_time": 1758207984,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45974,
+      "num": 45974,
+      "word": "必胜客店员回应橙汁确为果粒橙",
+      "onboard_time": 1758205883,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40726,
@@ -467,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36349,
+      "num": 36349,
+      "word": "曾用10年退休金补仓的爷叔解套了",
+      "onboard_time": 1758208463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34772,
       "num": 59522,
       "word": "李嘉欣在香港扫货被偶遇",
@@ -475,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29544,
-      "num": 29544,
-      "word": "必胜客店员回应橙汁确为果粒橙",
-      "onboard_time": 1758205883,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 30444,
+      "num": 45192,
+      "word": "北京国安亚冠赛场爆发冲突",
+      "onboard_time": 1758205585,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 25710,
@@ -499,26 +523,26 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21616,
-      "num": 45192,
-      "word": "北京国安亚冠赛场爆发冲突",
-      "onboard_time": 1758205585,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 19480,
-      "num": 24652,
-      "word": "曾用10年退休金补仓的爷叔解套了",
-      "onboard_time": 1758208463,
-      "rank": 45,
+      "raw_hot": 24439,
+      "num": 24439,
+      "word": "校方否认公厕改宿舍承认四蹲便半敞开",
+      "onboard_time": 1758226573,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17400,
-      "num": 17400,
-      "word": "校方否认公厕改宿舍承认四蹲便半敞开",
-      "onboard_time": 1758226573,
+      "raw_hot": 23122,
+      "num": 23122,
+      "word": "酒店房间节假日坐地起价咋办",
+      "onboard_time": 1758231254,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20713,
+      "num": 23140,
+      "word": "中国人凿通天山经历了什么",
+      "onboard_time": 1758232454,
       "rank": 46,
       "category": "民生新闻"
     },
@@ -544,14 +568,6 @@
       "word": "杭深甬广高铁全部列车19日晚停运",
       "onboard_time": 1758224655,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10895,
-      "num": 19463,
-      "word": "酒店房间节假日坐地起价咋办",
-      "onboard_time": 1758231254,
-      "rank": 32,
       "category": "民生新闻"
     }
   ],
