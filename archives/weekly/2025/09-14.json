@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758167265097,
+  "endTime": 1758169773271,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -67,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2729824,
-      "num": 2729824,
+      "raw_hot": 2870732,
+      "num": 2870732,
       "word": "731",
       "onboard_time": 1757903181,
       "rank": 7,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1241204,
+      "num": 1054801,
+      "word": "731影评",
+      "onboard_time": 1758165981,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1224288,
       "num": 360641,
       "word": "俞灏明王晓晨牵手逛街",
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1125386,
+      "num": 1125386,
+      "word": "外交部回应韩娱重返中国",
+      "onboard_time": 1758167902,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1104259,
       "num": 281943,
       "word": "建议大家多去实体店逛一逛",
@@ -681,6 +697,14 @@
       "onboard_time": 1757859566,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1050948,
+      "num": 1050948,
+      "word": "小米SU7出租车司机被同行举报",
+      "onboard_time": 1758166522,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1047302,
@@ -769,6 +793,14 @@
       "onboard_time": 1757807540,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 975783,
+      "num": 551821,
+      "word": "这姐妹生了个教材",
+      "onboard_time": 1758166882,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 973123,
@@ -1067,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 838677,
-      "num": 838677,
-      "word": "731影评",
-      "onboard_time": 1758165981,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 837802,
       "num": 589316,
       "word": "赵本山女儿回应哥哥不争气",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1757776286,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 816809,
+      "num": 816809,
+      "word": "蜜雪冰城回应柠檬水断货",
+      "onboard_time": 1758164841,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 816089,
@@ -1379,14 +1411,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 690597,
-      "num": 690597,
-      "word": "蜜雪冰城回应柠檬水断货",
-      "onboard_time": 1758164841,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 682475,
       "num": 419616,
       "word": "短剧第一批受害者出现了",
@@ -1544,6 +1568,14 @@
       "word": "香港巴士司机遭铁棍插胸仍冷静停车",
       "onboard_time": 1758003383,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609024,
+      "num": 289408,
+      "word": "宿舍分娩女生学校曾婉拒妇联帮助",
+      "onboard_time": 1758165681,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1817,6 +1849,14 @@
       "onboard_time": 1757842162,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 535341,
+      "num": 535341,
+      "word": "中年男性开始频繁出去跑步说明了什么",
+      "onboard_time": 1758167841,
+      "rank": 11,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 533811,
@@ -2217,14 +2257,6 @@
       "onboard_time": 1757941823,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 475585,
-      "num": 231806,
-      "word": "宿舍分娩女生学校曾婉拒妇联帮助",
-      "onboard_time": 1758165681,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 474920,
@@ -2673,6 +2705,14 @@
       "onboard_time": 1758159022,
       "rank": 24,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 401764,
+      "num": 401764,
+      "word": "731观后感",
+      "onboard_time": 1758167722,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 401700,
@@ -3299,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322859,
+      "num": 322859,
+      "word": "D4vd车厢藏尸死者为15岁女孩",
+      "onboard_time": 1758168743,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 321818,
       "num": 478379,
       "word": "青海黄河源区确认发现秦代刻石",
@@ -3611,6 +3659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 288967,
+      "num": 552614,
+      "word": "日本跳海救人男子上月刚做手术",
+      "onboard_time": 1758163162,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288492,
       "num": 288492,
       "word": "Gala高烧",
@@ -3779,27 +3835,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 269172,
-      "num": 269172,
-      "word": "小米SU7出租车司机被同行举报",
-      "onboard_time": 1758166522,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269038,
       "num": 293701,
       "word": "出生237天的他成为了大体老师",
       "onboard_time": 1758033390,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268584,
-      "num": 268584,
-      "word": "日本跳海救人男子上月刚做手术",
-      "onboard_time": 1758163162,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3964,7 +4004,7 @@
     },
     {
       "raw_hot": 259000,
-      "num": 259000,
+      "num": 289670,
       "word": "731票房已超1.36亿",
       "onboard_time": 1758164302,
       "rank": 29,
@@ -4033,6 +4073,14 @@
       "onboard_time": 1758063740,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255114,
+      "num": 255114,
+      "word": "金价狂飙金饰一口价也要涨",
+      "onboard_time": 1758168383,
+      "rank": 23,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 254196,
@@ -4283,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239210,
+      "num": 239210,
+      "word": "岳雨婷回应演短剧版紫萱被骂",
+      "onboard_time": 1758169342,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238792,
       "num": 238792,
       "word": "王楚钦期待和搭档更好配合",
@@ -4345,6 +4401,14 @@
       "onboard_time": 1757833643,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232845,
+      "num": 232845,
+      "word": "中国发出世界首份反法西斯檄文",
+      "onboard_time": 1758168562,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232392,
@@ -4819,6 +4883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210591,
+      "num": 210591,
+      "word": "iPhone17跟16Pro怎么选",
+      "onboard_time": 1758167542,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209793,
       "num": 209793,
       "word": "汪苏泷36岁生日照",
@@ -5081,14 +5153,6 @@
       "onboard_time": 1757860226,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200945,
-      "num": 163398,
-      "word": "这姐妹生了个教材",
-      "onboard_time": 1758166882,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 200854,
@@ -6275,6 +6339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173492,
+      "num": 173492,
+      "word": "苹果承认iPhone17拍照现黑色方块",
+      "onboard_time": 1758166223,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173468,
       "num": 143258,
       "word": "这才是我月薪三千该去的地方",
@@ -6555,6 +6627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167790,
+      "num": 167790,
+      "word": "景德镇90元酒店房间国庆涨到1000元",
+      "onboard_time": 1758169462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167747,
       "num": 167747,
       "word": "恩利到底喝了多少丝瓜汤",
@@ -6801,6 +6881,14 @@
       "onboard_time": 1757839282,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163229,
+      "num": 163229,
+      "word": "能把虾剥的最干净的方法",
+      "onboard_time": 1758167241,
+      "rank": 47,
+      "category": "科学科普,美食"
     },
     {
       "raw_hot": 163015,
@@ -7563,6 +7651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150240,
+      "num": 150240,
+      "word": "我的猫比我先去迪士尼了",
+      "onboard_time": 1758167121,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150133,
       "num": 150133,
       "word": "iOS26",
@@ -7929,14 +8025,6 @@
       "onboard_time": 1757902341,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 144961,
-      "num": 144961,
-      "word": "苹果承认iPhone17拍照现黑色方块",
-      "onboard_time": 1758166223,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 144897,
@@ -9355,14 +9443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125485,
-      "num": 125485,
-      "word": "我的猫比我先去迪士尼了",
-      "onboard_time": 1758167121,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125363,
       "num": 125363,
       "word": "传下去苗苗要给丁真当靠山",
@@ -9393,6 +9473,14 @@
       "onboard_time": 1757898981,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124933,
+      "num": 124933,
+      "word": "华为明年Q1推出950PR芯片",
+      "onboard_time": 1758169162,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 124888,
@@ -9923,6 +10011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118369,
+      "num": 140136,
+      "word": "肖战的声线怎么会区别这么大",
+      "onboard_time": 1758168623,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118322,
       "num": 118322,
       "word": "一分钟把葡萄写成两三百字",
@@ -10017,6 +10113,14 @@
       "onboard_time": 1757827163,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117191,
+      "num": 117191,
+      "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
+      "onboard_time": 1758169703,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117015,
@@ -10315,14 +10419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113420,
-      "num": 113420,
-      "word": "能把虾剥的最干净的方法",
-      "onboard_time": 1758167241,
-      "rank": 47,
-      "category": "科学科普,美食"
-    },
-    {
       "raw_hot": 113300,
       "num": 113300,
       "word": "人民日报任仲平",
@@ -10377,6 +10473,14 @@
       "onboard_time": 1758089844,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 112600,
+      "num": 115129,
+      "word": "苹果也在慢慢变老",
+      "onboard_time": 1758167601,
+      "rank": 48,
+      "category": "幽默,数码"
     },
     {
       "raw_hot": 112059,
@@ -13273,6 +13377,14 @@
       "onboard_time": 1757805258,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55418,
+      "num": 139870,
+      "word": "上海配餐公司背景",
+      "onboard_time": 1758169402,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55357,

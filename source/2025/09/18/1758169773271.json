@@ -1,0 +1,410 @@
+{
+  "runTime": 1758169773271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2870732,
+        "num": 2870732,
+        "word": "731",
+        "onboard_time": 1758152660,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1125386,
+        "num": 1125386,
+        "word": "外交部回应韩娱重返中国",
+        "onboard_time": 1758167902,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11487,
+        "num": 1057672,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758114924,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1241204,
+        "num": 1054801,
+        "word": "731影评",
+        "onboard_time": 1758165981,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1050948,
+        "num": 1050948,
+        "word": "小米SU7出租车司机被同行举报",
+        "onboard_time": 1758166522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 816809,
+        "num": 816809,
+        "word": "蜜雪冰城回应柠檬水断货",
+        "onboard_time": 1758164841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806837,
+        "num": 806837,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 787408,
+        "num": 787408,
+        "word": "已在工位 消息秒回",
+        "onboard_time": 1758159440,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 652356,
+        "num": 652356,
+        "word": "建议大家不定期查看银行账单",
+        "onboard_time": 1758159682,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288967,
+        "num": 552614,
+        "word": "日本跳海救人男子上月刚做手术",
+        "onboard_time": 1758163162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 975783,
+        "num": 551821,
+        "word": "这姐妹生了个教材",
+        "onboard_time": 1758166882,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535341,
+        "num": 535341,
+        "word": "中年男性开始频繁出去跑步说明了什么",
+        "onboard_time": 1758167841,
+        "rank": 11,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 438693,
+        "num": 438693,
+        "word": "孙菲菲说前夫不准她提年龄差15岁",
+        "onboard_time": 1758162082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401764,
+        "num": 401764,
+        "word": "731观后感",
+        "onboard_time": 1758167722,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387303,
+        "num": 387303,
+        "word": "小黄豆和迪丽热巴道歉",
+        "onboard_time": 1758151701,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322859,
+        "num": 322859,
+        "word": "D4vd车厢藏尸死者为15岁女孩",
+        "onboard_time": 1758168743,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 322314,
+        "num": 322314,
+        "word": "特朗普访英被指无视王室礼仪",
+        "onboard_time": 1758161844,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290704,
+        "num": 290704,
+        "word": "沙特与巴基斯坦签署共同防御协议",
+        "onboard_time": 1758162921,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192675,
+        "num": 290290,
+        "word": "在周深杭州演唱会刮刮乐中了20万",
+        "onboard_time": 1758157462,
+        "rank": 18,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 160471,
+        "num": 289670,
+        "word": "731票房已超1.36亿",
+        "onboard_time": 1758164302,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 609024,
+        "num": 289408,
+        "word": "宿舍分娩女生学校曾婉拒妇联帮助",
+        "onboard_time": 1758165681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396564,
+        "num": 288980,
+        "word": "金价",
+        "onboard_time": 1758156142,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288579,
+        "num": 288579,
+        "word": "918鸣笛",
+        "onboard_time": 1758159440,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255114,
+        "num": 255114,
+        "word": "金价狂飙金饰一口价也要涨",
+        "onboard_time": 1758168383,
+        "rank": 23,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 243617,
+        "num": 243617,
+        "word": "桃黑黑女主党",
+        "onboard_time": 1758159022,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 239210,
+        "num": 239210,
+        "word": "岳雨婷回应演短剧版紫萱被骂",
+        "onboard_time": 1758169342,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232845,
+        "num": 232845,
+        "word": "中国发出世界首份反法西斯檄文",
+        "onboard_time": 1758168562,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214097,
+        "num": 214097,
+        "word": "丈夫被打妻子讨说法辱骂法官被重罚",
+        "onboard_time": 1758159801,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210591,
+        "num": 210591,
+        "word": "iPhone17跟16Pro怎么选",
+        "onboard_time": 1758167542,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146277,
+        "num": 208561,
+        "word": "暗河传这波是未播先火啊",
+        "onboard_time": 1758161423,
+        "rank": 29,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 207307,
+        "num": 207307,
+        "word": "秦岚下车这幕美的太权威",
+        "onboard_time": 1758164421,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173492,
+        "num": 173492,
+        "word": "苹果承认iPhone17拍照现黑色方块",
+        "onboard_time": 1758166223,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167790,
+        "num": 167790,
+        "word": "景德镇90元酒店房间国庆涨到1000元",
+        "onboard_time": 1758169462,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164461,
+        "num": 164461,
+        "word": "勿忘九一八",
+        "onboard_time": 1758154401,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163229,
+        "num": 163229,
+        "word": "能把虾剥的最干净的方法",
+        "onboard_time": 1758167241,
+        "rank": 34,
+        "category": "科学科普,美食"
+      },
+      {
+        "raw_hot": 158159,
+        "num": 158159,
+        "word": "生日却成了验证分手的日子",
+        "onboard_time": 1758130038,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150240,
+        "num": 150240,
+        "word": "我的猫比我先去迪士尼了",
+        "onboard_time": 1758167121,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140494,
+        "num": 140494,
+        "word": "关晓彤晒陈都灵送的蛋糕",
+        "onboard_time": 1758151879,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118369,
+        "num": 140136,
+        "word": "肖战的声线怎么会区别这么大",
+        "onboard_time": 1758168623,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55418,
+        "num": 139870,
+        "word": "上海配餐公司背景",
+        "onboard_time": 1758169402,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139831,
+        "num": 139831,
+        "word": "盛世天下",
+        "onboard_time": 1758165261,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131638,
+        "num": 131638,
+        "word": "降息后普通人如何投资",
+        "onboard_time": 1758164661,
+        "rank": 41,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 130585,
+        "num": 130585,
+        "word": "警方通报嘎子哥行拘7天",
+        "onboard_time": 1758120745,
+        "rank": 42,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 124933,
+        "num": 124933,
+        "word": "华为明年Q1推出950PR芯片",
+        "onboard_time": 1758169162,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119057,
+        "num": 119057,
+        "word": "美国鸡毛秀停播",
+        "onboard_time": 1758166101,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117234,
+        "num": 117234,
+        "word": "爸爸给儿子理发忘装卡尺秒变地中海",
+        "onboard_time": 1758167121,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117191,
+        "num": 117191,
+        "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
+        "onboard_time": 1758169703,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117080,
+        "num": 117080,
+        "word": "ShowMaker与Faker生死战",
+        "onboard_time": 1758165681,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112600,
+        "num": 115129,
+        "word": "苹果也在慢慢变老",
+        "onboard_time": 1758167601,
+        "rank": 48,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 114918,
+        "num": 114918,
+        "word": "专家解读美联储降息25个基点",
+        "onboard_time": 1758163162,
+        "rank": 49,
+        "category": "财经,国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族伟大复兴势不可挡#"
+    }
+  }
+}
