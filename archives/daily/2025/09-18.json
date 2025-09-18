@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758164532336,
+  "endTime": 1758165102862,
   "band_list": [
     {
       "raw_hot": 2581000,
@@ -59,6 +59,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 896138,
+      "num": 896138,
+      "word": "建议大家不定期查看银行账单",
+      "onboard_time": 1758159682,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843990,
       "num": 843990,
       "word": "美联储降息",
@@ -91,14 +99,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 722520,
-      "num": 722520,
-      "word": "建议大家不定期查看银行账单",
-      "onboard_time": 1758159682,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 716834,
       "num": 354576,
       "word": "长沙一中学被举报班主任在教室装监控",
@@ -121,6 +121,14 @@
       "onboard_time": 1758119906,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 572841,
+      "num": 240788,
+      "word": "孙菲菲说前夫不准她提年龄差15岁",
+      "onboard_time": 1758162082,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 533594,
@@ -171,14 +179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 431281,
-      "num": 240788,
-      "word": "孙菲菲说前夫不准她提年龄差15岁",
-      "onboard_time": 1758162082,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406652,
       "num": 406652,
       "word": "以色列面临全面孤立",
@@ -187,7 +187,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 397099,
+      "raw_hot": 402694,
       "num": 301046,
       "word": "桃黑黑女主党",
       "onboard_time": 1758159022,
@@ -243,20 +243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333358,
+      "num": 333358,
+      "word": "沙特与巴基斯坦签署共同防御协议",
+      "onboard_time": 1758162921,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 294118,
       "num": 445555,
       "word": "在周深杭州演唱会刮刮乐中了20万",
       "onboard_time": 1758157462,
       "rank": 18,
       "category": "演出,民生新闻"
-    },
-    {
-      "raw_hot": 274861,
-      "num": 274861,
-      "word": "沙特与巴基斯坦签署共同防御协议",
-      "onboard_time": 1758162921,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 272547,
@@ -387,8 +387,16 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 196323,
+      "num": 196323,
+      "word": "秦岚下车这幕美的太权威",
+      "onboard_time": 1758164421,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193988,
-      "num": 193988,
+      "num": 209420,
       "word": "特朗普访英被指无视王室礼仪",
       "onboard_time": 1758161844,
       "rank": 25,
@@ -449,6 +457,14 @@
       "onboard_time": 1758155961,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163015,
+      "num": 163015,
+      "word": "追觅CEO称造车pk理想",
+      "onboard_time": 1758164661,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 158819,
@@ -515,6 +531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 143039,
+      "num": 204446,
+      "word": "731票房已超1.36亿",
+      "onboard_time": 1758164302,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140557,
       "num": 187638,
       "word": "杨丽菁为成毅发声",
@@ -529,6 +553,14 @@
       "onboard_time": 1758162800,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138302,
+      "num": 183846,
+      "word": "孙茜谈731角色只有编号没有名字",
+      "onboard_time": 1758163581,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 134949,
@@ -579,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126754,
+      "num": 126754,
+      "word": "蜜雪冰城回应柠檬水断货",
+      "onboard_time": 1758164841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125570,
       "num": 125570,
       "word": "中国警察救人视频火到国外",
@@ -601,14 +641,6 @@
       "onboard_time": 1758118045,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121689,
-      "num": 183846,
-      "word": "孙茜谈731角色只有编号没有名字",
-      "onboard_time": 1758163581,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 117934,
@@ -683,12 +715,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108521,
+      "num": 108521,
+      "word": "历次降息后各类资产表现真相梳理",
+      "onboard_time": 1758165022,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 108201,
+      "num": 108201,
+      "word": "iPhone18系列目标出货量9500万部",
+      "onboard_time": 1758163102,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 105841,
+      "num": 118088,
+      "word": "电影731最小演员不到半个月",
+      "onboard_time": 1758165022,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105657,
       "num": 135370,
       "word": "赴山海一集下线134人",
       "onboard_time": 1758108684,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103129,
+      "num": 103129,
+      "word": "这个日子不能忘也不敢忘",
+      "onboard_time": 1758129437,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101959,
@@ -707,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100488,
-      "num": 183744,
-      "word": "731票房已超1.36亿",
-      "onboard_time": 1758164302,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 99539,
       "num": 99539,
       "word": "冯建宇 我没有女朋友",
@@ -731,28 +787,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98246,
-      "num": 98246,
-      "word": "秦岚下车这幕美的太权威",
-      "onboard_time": 1758164421,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97711,
       "num": 196105,
       "word": "美国上半年经济活动增长放缓",
       "onboard_time": 1758151760,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 95965,
-      "num": 95965,
-      "word": "这个日子不能忘也不敢忘",
-      "onboard_time": 1758129437,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 95237,
@@ -769,14 +809,6 @@
       "onboard_time": 1758120084,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90772,
-      "num": 90772,
-      "word": "iPhone18系列目标出货量9500万部",
-      "onboard_time": 1758163102,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 90537,
@@ -971,6 +1003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57627,
+      "num": 203310,
+      "word": "降息后普通人如何投资",
+      "onboard_time": 1758164661,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 55881,
       "num": 75102,
       "word": "孟子义拿白兰花这张图",
@@ -1043,6 +1083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30731,
+      "num": 117777,
+      "word": "英国国王提醒特朗普小心剑",
+      "onboard_time": 1758164901,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26537,
       "num": 37353,
       "word": "柯克枪杀案嫌犯给室友发神秘短信",
@@ -1097,11 +1145,22 @@
       "onboard_time": 1758132615,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9215,
+      "num": 875110,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1758114924,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#讲好中国抗战故事和平发展故事#"
+    },
+    {
+      "word": "#中华民族伟大复兴势不可挡#"
     }
   ]
 }
