@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758221314682,
+  "endTime": 1758223252199,
   "band_list": [
     {
       "raw_hot": 1016863,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26100,
+      "num": 26100,
+      "word": "必胜客店员回应橙汁确为果粒橙",
+      "onboard_time": 1758205883,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25710,
       "num": 45271,
       "word": "于适现身吴天明青年电影展",
@@ -481,14 +489,6 @@
       "onboard_time": 1758198262,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22775,
-      "num": 24661,
-      "word": "必胜客店员回应橙汁确为果粒橙",
-      "onboard_time": 1758205883,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21616,
