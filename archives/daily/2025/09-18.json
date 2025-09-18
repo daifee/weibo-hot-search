@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758191160650,
+  "endTime": 1758192140051,
   "band_list": [
     {
       "raw_hot": 14538988,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1647736,
-      "num": 329506,
+      "num": 404893,
       "word": "沈梦辰美成Angelababy了",
       "onboard_time": 1758179542,
       "rank": 16,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1457809,
-      "num": 264618,
+      "num": 406794,
       "word": "蔡依林自曝患蛇缠腰后才早睡",
       "onboard_time": 1758184524,
       "rank": 13,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1232288,
-      "num": 253015,
+      "num": 310265,
       "word": "官方通报女子误触氢氟酸身亡",
       "onboard_time": 1758186083,
       "rank": 11,
@@ -137,6 +137,14 @@
       "onboard_time": 1758169822,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1096291,
+      "num": 1096291,
+      "word": "台湾现在属于中国",
+      "onboard_time": 1758189084,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1082909,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 903033,
-      "num": 247965,
+      "num": 394191,
       "word": "氢氟酸涉案人员已被控制",
       "onboard_time": 1758186083,
       "rank": 12,
@@ -201,14 +209,6 @@
       "onboard_time": 1758150980,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 825413,
-      "num": 825413,
-      "word": "台湾现在属于中国",
-      "onboard_time": 1758189084,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 816809,
@@ -363,8 +363,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 568013,
+      "num": 400666,
+      "word": "社保",
+      "onboard_time": 1758189923,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 563714,
-      "num": 245621,
+      "num": 393942,
       "word": "李荣浩成为iOS26最大受益者",
       "onboard_time": 1758188302,
       "rank": 46,
@@ -459,8 +467,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 456238,
-      "num": 456238,
+      "raw_hot": 458783,
+      "num": 458783,
       "word": "孕妇泰国坠崖案女子全身100多钢钉",
       "onboard_time": 1758186444,
       "rank": 8,
@@ -481,6 +489,14 @@
       "onboard_time": 1758159742,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 419790,
+      "num": 419790,
+      "word": "北京社保基数",
+      "onboard_time": 1758189383,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418859,
@@ -561,14 +577,6 @@
       "onboard_time": 1758173543,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 347230,
-      "num": 347230,
-      "word": "北京社保基数",
-      "onboard_time": 1758189383,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 345909,
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 263252,
-      "num": 243711,
+      "num": 257140,
       "word": "撞脸刘亦菲网红因工资低选择做主播",
       "onboard_time": 1758188541,
       "rank": 16,
@@ -795,14 +803,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 211953,
-      "num": 211953,
-      "word": "社保",
-      "onboard_time": 1758189923,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210756,
       "num": 210756,
       "word": "苹果承认iPhone17拍照现黑色方块",
@@ -904,6 +904,14 @@
       "word": "第一批看731观众发声",
       "onboard_time": 1758176002,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194088,
+      "num": 233765,
+      "word": "731电影",
+      "onboard_time": 1758191063,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168217,
+      "num": 232867,
+      "word": "以后的武侠剧都按这个拍",
+      "onboard_time": 1758188002,
+      "rank": 34,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 166035,
       "num": 166035,
       "word": "iPhone17ProMax续航实测夺冠",
@@ -1123,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157557,
+      "num": 157557,
+      "word": "终于懂花少为什么选张雅琪了",
+      "onboard_time": 1758191183,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157469,
       "num": 157469,
       "word": "女孩得知被拐轻生养父痛哭无能为力",
@@ -1187,6 +1211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152999,
+      "num": 152999,
+      "word": "中国劳工来一批死一批",
+      "onboard_time": 1758189803,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152099,
       "num": 152099,
       "word": "贝果 打工人的完美主食",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1758167121,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149879,
-      "num": 214610,
-      "word": "以后的武侠剧都按这个拍",
-      "onboard_time": 1758188002,
-      "rank": 34,
-      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 149416,
@@ -1307,14 +1331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 139271,
-      "num": 139271,
-      "word": "中国劳工来一批死一批",
-      "onboard_time": 1758189803,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 138575,
       "num": 138575,
       "word": "沈阳14声警世钟",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1758160943,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132658,
+      "num": 138422,
+      "word": "天才枪手女主这次不作弊了",
+      "onboard_time": 1758191844,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 132249,
@@ -1571,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118212,
+      "num": 118212,
+      "word": "李柯以回应是短剧第一女神",
+      "onboard_time": 1758191243,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117934,
       "num": 117934,
       "word": "黄金突破3700美元",
@@ -1619,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116295,
+      "num": 116295,
+      "word": "Oner皇子五杀",
+      "onboard_time": 1758191783,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116116,
       "num": 116116,
       "word": "久坐的人一定要好好养屁股",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1758155482,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 114272,
+      "num": 114272,
+      "word": "必胜客19元橙汁是果粒橙加冰",
+      "onboard_time": 1758190761,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114169,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1758161542,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110369,
+      "num": 110369,
+      "word": "内娱眼技派",
+      "onboard_time": 1758191183,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 110087,
@@ -1859,14 +1915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101084,
-      "num": 101084,
-      "word": "必胜客19元橙汁是果粒橙加冰",
-      "onboard_time": 1758190761,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100981,
       "num": 99423,
       "word": "秋天吃柚子的三大理由",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1758151760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97113,
+      "num": 97113,
+      "word": "731票房",
+      "onboard_time": 1758191362,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 96267,
@@ -1979,14 +2035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92961,
-      "num": 92961,
-      "word": "731电影",
-      "onboard_time": 1758191063,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 91227,
       "num": 91227,
       "word": "731票房破2亿",
@@ -2001,6 +2049,14 @@
       "onboard_time": 1758190102,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 90623,
+      "num": 90623,
+      "word": "橙色iPhone17或加价最多",
+      "onboard_time": 1758190583,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 90537,
@@ -2025,14 +2081,6 @@
       "onboard_time": 1758120565,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89532,
-      "num": 89532,
-      "word": "橙色iPhone17或加价最多",
-      "onboard_time": 1758190583,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 84001,
@@ -2088,6 +2136,14 @@
       "word": "以军自杀率急剧上升",
       "onboard_time": 1758120386,
       "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 77196,
+      "num": 109799,
+      "word": "美联储降息普通人三个赚钱机会",
+      "onboard_time": 1758191543,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -2153,6 +2209,14 @@
       "onboard_time": 1758127460,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69096,
+      "num": 410946,
+      "word": "王暖暖称想到和他还是夫妻就恶心",
+      "onboard_time": 1758191543,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68347,
