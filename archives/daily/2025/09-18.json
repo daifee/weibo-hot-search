@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758194472351,
+  "endTime": 1758195418366,
   "band_list": [
     {
       "raw_hot": 14538988,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 510946,
-      "num": 257140,
+      "num": 316032,
       "word": "撞脸刘亦菲网红因工资低选择做主播",
       "onboard_time": 1758188541,
       "rank": 16,
@@ -441,6 +441,14 @@
       "onboard_time": 1758119062,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 475218,
+      "num": 475218,
+      "word": "731所有日本角色均由日籍演员出演",
+      "onboard_time": 1758193224,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 472337,
@@ -531,14 +539,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 372479,
-      "num": 372479,
-      "word": "731所有日本角色均由日籍演员出演",
-      "onboard_time": 1758193224,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 372044,
       "num": 372044,
       "word": "勿忘九一八",
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358217,
+      "num": 358217,
+      "word": "台湾自古到现在都属于中国",
+      "onboard_time": 1758189084,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 357403,
       "num": 235305,
       "word": "每年70亿只小鸡出生就被绞杀",
@@ -587,6 +595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 355734,
+      "num": 410946,
+      "word": "王暖暖称想到和他还是夫妻就恶心",
+      "onboard_time": 1758191543,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351675,
       "num": 325723,
       "word": "赵今麦完全褪去了稚气",
@@ -601,6 +617,14 @@
       "onboard_time": 1758156203,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 344935,
+      "num": 344935,
+      "word": "中国美院继喷粪水后水管又爆裂",
+      "onboard_time": 1758193342,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335961,
@@ -625,14 +649,6 @@
       "onboard_time": 1758164421,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319353,
-      "num": 410946,
-      "word": "王暖暖称想到和他还是夫妻就恶心",
-      "onboard_time": 1758191543,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294118,
@@ -803,6 +819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215212,
+      "num": 215212,
+      "word": "李嘉欣在香港扫货被偶遇",
+      "onboard_time": 1758194662,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213714,
       "num": 213714,
       "word": "专家解读美联储降息25个基点",
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 210663,
-      "num": 210663,
+      "num": 326745,
       "word": "终于懂花少为什么选张雅琪了",
       "onboard_time": 1758191183,
       "rank": 25,
@@ -1195,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156022,
+      "num": 156022,
+      "word": "天才枪手女主这次不作弊了",
+      "onboard_time": 1758191844,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154807,
       "num": 154807,
       "word": "赴山海能复刻大奉打更人的走势吗",
@@ -1307,6 +1339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144329,
+      "num": 227367,
+      "word": "731票房",
+      "onboard_time": 1758191362,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143547,
       "num": 143547,
       "word": "苹果承诺修复iPhone17拍照黑色方块",
@@ -1320,14 +1360,6 @@
       "word": "文咏珊两年前疯到我两年后钓到我",
       "onboard_time": 1758187402,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 141709,
-      "num": 141709,
-      "word": "天才枪手女主这次不作弊了",
-      "onboard_time": 1758191844,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1385,6 +1417,14 @@
       "onboard_time": 1758163102,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136939,
+      "num": 136939,
+      "word": "男子认亲1年后发现亲哥是假的",
+      "onboard_time": 1758193582,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135553,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1758173481,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129883,
+      "num": 129883,
+      "word": "T1 世界赛",
+      "onboard_time": 1758189264,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 129631,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1758166161,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121421,
+      "num": 121421,
+      "word": "柯尔鸭 100元2只",
+      "onboard_time": 1758193582,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119159,
@@ -1812,7 +1868,7 @@
     },
     {
       "raw_hot": 110369,
-      "num": 127801,
+      "num": 151496,
       "word": "内娱眼技派",
       "onboard_time": 1758191183,
       "rank": 38,
@@ -1833,14 +1889,6 @@
       "onboard_time": 1758165022,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108449,
-      "num": 108449,
-      "word": "T1 世界赛",
-      "onboard_time": 1758189264,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 108407,
@@ -2027,14 +2075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97113,
-      "num": 97113,
-      "word": "731票房",
-      "onboard_time": 1758191362,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 96267,
       "num": 96267,
       "word": "香港黄金大劫案十余名涉案男子在逃",
@@ -2059,6 +2099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94763,
+      "num": 94763,
+      "word": "罗永浩曾表示愿意替公司还债",
+      "onboard_time": 1758193342,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94732,
       "num": 944872,
       "word": "公安部公布6起行政执法典型案例",
@@ -2067,12 +2115,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 94128,
-      "num": 94128,
-      "word": "罗永浩曾表示愿意替公司还债",
-      "onboard_time": 1758193342,
-      "rank": 46,
-      "category": "互联网"
+      "raw_hot": 94571,
+      "num": 94571,
+      "word": "来自军宣拍的大片",
+      "onboard_time": 1758194903,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93793,
@@ -2155,20 +2203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88060,
-      "num": 104498,
-      "word": "男子认亲1年后发现亲哥是假的",
-      "onboard_time": 1758193582,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87207,
-      "num": 197742,
-      "word": "中国美院继喷粪水后水管又爆裂",
-      "onboard_time": 1758193342,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 85326,
+      "num": 93460,
+      "word": "A股今年已四次冲过3万亿大关",
+      "onboard_time": 1758194903,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 84001,
@@ -2225,14 +2265,6 @@
       "onboard_time": 1758120386,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 78105,
-      "num": 104287,
-      "word": "柯尔鸭 100元2只",
-      "onboard_time": 1758193582,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77196,
@@ -2419,12 +2451,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 59208,
+      "num": 217790,
+      "word": "中国美院一月内2次管道爆裂",
+      "onboard_time": 1758195203,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58439,
       "num": 75110,
       "word": "731首映",
       "onboard_time": 1758102143,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56639,
+      "num": 99646,
+      "word": "中国对菲忍耐有限度",
+      "onboard_time": 1758195143,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55881,
@@ -2465,6 +2513,22 @@
       "onboard_time": 1758110244,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51077,
+      "num": 115342,
+      "word": "西安一商场用小狮子引流惹争议",
+      "onboard_time": 1758194781,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46518,
+      "num": 113238,
+      "word": "女生留标准短发已执行超20年",
+      "onboard_time": 1758194484,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43854,
@@ -2577,6 +2641,14 @@
       "onboard_time": 1758133935,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19072,
+      "num": 112166,
+      "word": "北大偶遇刘恋吃冰淇淋",
+      "onboard_time": 1758194781,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 18166,
