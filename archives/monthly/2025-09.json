@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758178127319,
+  "endTime": 1758180225950,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1757389822,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1709391,
+      "num": 1709391,
+      "word": "香港黄金劫案",
+      "onboard_time": 1758179242,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1692401,
@@ -2883,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1067428,
+      "num": 305847,
+      "word": "建议大家大量频繁的说话",
+      "onboard_time": 1758178402,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1063633,
       "num": 192773,
       "word": "沈佳润史上最无语原唱",
@@ -2993,6 +3009,14 @@
       "onboard_time": 1757724440,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1043813,
+      "num": 303055,
+      "word": "上班禁止偷吃同事",
+      "onboard_time": 1758177201,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1041749,
@@ -6507,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 593521,
+      "num": 593521,
+      "word": "景德镇90元酒店房间国庆涨到1000元",
+      "onboard_time": 1758169462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593425,
       "num": 593425,
       "word": "特朗普出席911纪念仪式右脸下垂",
@@ -8619,14 +8651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 475328,
-      "num": 475328,
-      "word": "景德镇90元酒店房间国庆涨到1000元",
-      "onboard_time": 1758169462,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 475101,
       "num": 475101,
       "word": "月全食时间表",
@@ -8681,6 +8705,14 @@
       "onboard_time": 1757155881,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470272,
+      "num": 323574,
+      "word": "狂飙麻子爆改富二代",
+      "onboard_time": 1758177322,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 469439,
@@ -9073,6 +9105,14 @@
       "onboard_time": 1757059402,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 453025,
+      "num": 296407,
+      "word": "沈梦辰美成Angelababy了",
+      "onboard_time": 1758179542,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 453012,
@@ -12003,6 +12043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351675,
+      "num": 293045,
+      "word": "赵今麦完全褪去了稚气",
+      "onboard_time": 1758173543,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351449,
       "num": 351449,
       "word": "气虚vs血虚",
@@ -12443,14 +12491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339161,
-      "num": 186283,
-      "word": "上班禁止偷吃同事",
-      "onboard_time": 1758177201,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 338962,
       "num": 338962,
       "word": "真夫妻牵手走红毯就是好嗑",
@@ -12513,14 +12553,6 @@
       "onboard_time": 1757083762,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 337034,
-      "num": 236218,
-      "word": "赵今麦完全褪去了稚气",
-      "onboard_time": 1758173543,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 336955,
@@ -18083,6 +18115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214834,
+      "num": 306252,
+      "word": "女子发现自己有138辆车",
+      "onboard_time": 1758179302,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214822,
       "num": 214822,
       "word": "刘耀文衣服又穿反了",
@@ -18649,6 +18689,14 @@
       "onboard_time": 1757900662,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 208754,
+      "num": 208754,
+      "word": "看似不起眼但很养生的行为",
+      "onboard_time": 1758179242,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 208730,
@@ -20715,6 +20763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194267,
+      "num": 192297,
+      "word": "第一批看731观众发声",
+      "onboard_time": 1758176002,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194194,
       "num": 194194,
       "word": "大学生一天旅游四个城市是什么体验",
@@ -20729,14 +20785,6 @@
       "onboard_time": 1757680526,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193982,
-      "num": 215029,
-      "word": "狂飙麻子爆改富二代",
-      "onboard_time": 1758177322,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 193969,
@@ -22161,14 +22209,6 @@
       "onboard_time": 1757828181,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186251,
-      "num": 186251,
-      "word": "第一批看731观众发声",
-      "onboard_time": 1758176002,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 186214,
@@ -27395,6 +27435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156533,
+      "num": 156533,
+      "word": "731电影郑重声明",
+      "onboard_time": 1758179903,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156502,
       "num": 156502,
       "word": "王格格想和杨紫刘亦菲合作",
@@ -27793,6 +27841,14 @@
       "onboard_time": 1757341824,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154807,
+      "num": 154807,
+      "word": "赴山海能复刻大奉打更人的走势吗",
+      "onboard_time": 1758177444,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 154781,
@@ -32603,6 +32659,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 136289,
+      "num": 136289,
+      "word": "凡人修仙传9月30日全台电视首播",
+      "onboard_time": 1758179061,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136267,
       "num": 136267,
       "word": "王楚钦4比0胜林昀儒",
@@ -35065,6 +35129,14 @@
       "onboard_time": 1757040860,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128064,
+      "num": 128064,
+      "word": "日本民众痛斥人体实验丑恶",
+      "onboard_time": 1758177681,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128061,
@@ -38329,6 +38401,14 @@
       "onboard_time": 1757863046,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117006,
+      "num": 117006,
+      "word": "迅猛龙不敢在课堂发言",
+      "onboard_time": 1758179001,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 116979,
@@ -42291,6 +42371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 104532,
+      "num": 104532,
+      "word": "萨摩耶的汗脚",
+      "onboard_time": 1758176843,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104447,
       "num": 104447,
       "word": "义乌速度堪比东风",
@@ -43185,6 +43273,14 @@
       "onboard_time": 1757660726,
       "rank": 9,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 101404,
+      "num": 101404,
+      "word": "同甘共苦撤档",
+      "onboard_time": 1758178581,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 101373,
@@ -47571,6 +47667,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 82300,
+      "num": 291742,
+      "word": "女生校内分娩所在学校开会反思",
+      "onboard_time": 1758179723,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82168,
       "num": 221134,
       "word": "高德推出全球首个用脚投票美食榜",
@@ -48081,6 +48185,14 @@
       "onboard_time": 1757739745,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79357,
+      "num": 98171,
+      "word": "减脂甜玉米vs减脂糯玉米",
+      "onboard_time": 1758179843,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 79355,
@@ -51057,14 +51169,6 @@
       "onboard_time": 1756651224,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 59334,
-      "num": 121911,
-      "word": "赴山海能复刻大奉打更人的走势吗",
-      "onboard_time": 1758177444,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 59198,
@@ -55201,14 +55305,6 @@
       "onboard_time": 1757589410,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25923,
-      "num": 112839,
-      "word": "日本民众痛斥人体实验丑恶",
-      "onboard_time": 1758177681,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25883,

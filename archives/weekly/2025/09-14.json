@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758178127319,
+  "endTime": 1758180225950,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -225,6 +225,14 @@
       "onboard_time": 1757844862,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1709391,
+      "num": 1709391,
+      "word": "香港黄金劫案",
+      "onboard_time": 1758179242,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1678406,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 1180616,
-      "num": 295957,
+      "num": 301807,
       "word": "A股",
       "onboard_time": 1758095482,
       "rank": 18,
@@ -723,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1067428,
+      "num": 305847,
+      "word": "建议大家大量频繁的说话",
+      "onboard_time": 1758178402,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1057094,
       "num": 564102,
       "word": "武林外传",
@@ -769,6 +785,14 @@
       "onboard_time": 1758108684,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1043813,
+      "num": 303055,
+      "word": "上班禁止偷吃同事",
+      "onboard_time": 1758177201,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1037710,
@@ -1715,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593521,
+      "num": 593521,
+      "word": "景德镇90元酒店房间国庆涨到1000元",
+      "onboard_time": 1758169462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587695,
       "num": 587695,
       "word": "日本人吃预制菜五十年了",
@@ -2339,14 +2371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475328,
-      "num": 475328,
-      "word": "景德镇90元酒店房间国庆涨到1000元",
-      "onboard_time": 1758169462,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 474920,
       "num": 474920,
       "word": "成毅又在爱奇艺剧宣上闯祸了",
@@ -2377,6 +2401,14 @@
       "onboard_time": 1757763744,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470272,
+      "num": 323574,
+      "word": "狂飙麻子爆改富二代",
+      "onboard_time": 1758177322,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 469439,
@@ -2457,6 +2489,14 @@
       "onboard_time": 1757931322,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 453025,
+      "num": 296407,
+      "word": "沈梦辰美成Angelababy了",
+      "onboard_time": 1758179542,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 452759,
@@ -3227,6 +3267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351675,
+      "num": 293045,
+      "word": "赵今麦完全褪去了稚气",
+      "onboard_time": 1758173543,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351328,
       "num": 307568,
       "word": "美国警告日本",
@@ -3339,14 +3387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339161,
-      "num": 186283,
-      "word": "上班禁止偷吃同事",
-      "onboard_time": 1758177201,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 338960,
       "num": 288575,
       "word": "红舞鞋",
@@ -3369,14 +3409,6 @@
       "onboard_time": 1757937142,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337034,
-      "num": 236218,
-      "word": "赵今麦完全褪去了稚气",
-      "onboard_time": 1758173543,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 336955,
@@ -4843,6 +4875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214834,
+      "num": 306252,
+      "word": "女子发现自己有138辆车",
+      "onboard_time": 1758179302,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214322,
       "num": 214322,
       "word": "韦雪回应比杨幂好看",
@@ -5073,6 +5113,14 @@
       "onboard_time": 1757900662,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 208754,
+      "num": 208754,
+      "word": "看似不起眼但很养生的行为",
+      "onboard_time": 1758179242,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 208687,
@@ -5603,12 +5651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193982,
-      "num": 215029,
-      "word": "狂飙麻子爆改富二代",
-      "onboard_time": 1758177322,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 194267,
+      "num": 192297,
+      "word": "第一批看731观众发声",
+      "onboard_time": 1758176002,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 193859,
@@ -6009,14 +6057,6 @@
       "onboard_time": 1757828181,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186251,
-      "num": 186251,
-      "word": "第一批看731观众发声",
-      "onboard_time": 1758176002,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 185884,
@@ -7531,6 +7571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156533,
+      "num": 156533,
+      "word": "731电影郑重声明",
+      "onboard_time": 1758179903,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156502,
       "num": 156502,
       "word": "王格格想和杨紫刘亦菲合作",
@@ -7625,6 +7673,14 @@
       "onboard_time": 1758007821,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154807,
+      "num": 154807,
+      "word": "赴山海能复刻大奉打更人的走势吗",
+      "onboard_time": 1758177444,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 154721,
@@ -8883,6 +8939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 136289,
+      "num": 136289,
+      "word": "凡人修仙传9月30日全台电视首播",
+      "onboard_time": 1758179061,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136096,
       "num": 136096,
       "word": "罗志祥说现在时间管理非常好",
@@ -9537,6 +9601,14 @@
       "onboard_time": 1757999663,
       "rank": 49,
       "category": "时尚,综艺"
+    },
+    {
+      "raw_hot": 128064,
+      "num": 128064,
+      "word": "日本民众痛斥人体实验丑恶",
+      "onboard_time": 1758177681,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128038,
@@ -10433,6 +10505,14 @@
       "onboard_time": 1757863046,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117006,
+      "num": 117006,
+      "word": "迅猛龙不敢在课堂发言",
+      "onboard_time": 1758179001,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 116979,
@@ -11339,6 +11419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104532,
+      "num": 104532,
+      "word": "萨摩耶的汗脚",
+      "onboard_time": 1758176843,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104170,
       "num": 104170,
       "word": "狗 你可真是我的爪上明珠",
@@ -11609,6 +11697,14 @@
       "onboard_time": 1758080663,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101404,
+      "num": 101404,
+      "word": "同甘共苦撤档",
+      "onboard_time": 1758178581,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 101373,
@@ -12587,6 +12683,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 82300,
+      "num": 291742,
+      "word": "女生校内分娩所在学校开会反思",
+      "onboard_time": 1758179723,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81897,
       "num": 163818,
       "word": "太二酸菜鱼不同门店用不同鱼",
@@ -12729,6 +12833,14 @@
       "onboard_time": 1757806579,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79357,
+      "num": 98171,
+      "word": "减脂甜玉米vs减脂糯玉米",
+      "onboard_time": 1758179843,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 79316,
@@ -13561,14 +13673,6 @@
       "onboard_time": 1758039389,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59334,
-      "num": 121911,
-      "word": "赴山海能复刻大奉打更人的走势吗",
-      "onboard_time": 1758177444,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 59060,
@@ -14785,14 +14889,6 @@
       "onboard_time": 1758134715,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 25923,
-      "num": 112839,
-      "word": "日本民众痛斥人体实验丑恶",
-      "onboard_time": 1758177681,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25883,

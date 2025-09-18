@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758178127319,
+  "endTime": 1758180225950,
   "band_list": [
     {
       "raw_hot": 2870732,
@@ -25,6 +25,14 @@
       "onboard_time": 1758174623,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1709391,
+      "num": 1709391,
+      "word": "香港黄金劫案",
+      "onboard_time": 1758179242,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1619594,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1180616,
-      "num": 295957,
+      "num": 301807,
       "word": "A股",
       "onboard_time": 1758177080,
       "rank": 12,
@@ -107,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1067428,
+      "num": 305847,
+      "word": "建议大家大量频繁的说话",
+      "onboard_time": 1758178402,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1056312,
       "num": 551821,
       "word": "这姐妹生了个教材",
@@ -121,6 +137,14 @@
       "onboard_time": 1758166522,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1043813,
+      "num": 303055,
+      "word": "上班禁止偷吃同事",
+      "onboard_time": 1758177201,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1025407,
@@ -243,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593521,
+      "num": 593521,
+      "word": "景德镇90元酒店房间国庆涨到1000元",
+      "onboard_time": 1758169462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580652,
       "num": 580652,
       "word": "特朗普访英被指无视王室礼仪",
@@ -307,14 +339,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 475328,
-      "num": 475328,
-      "word": "景德镇90元酒店房间国庆涨到1000元",
-      "onboard_time": 1758169462,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 472337,
       "num": 472337,
       "word": "九一八历史博物馆鸣警撞钟仪式",
@@ -323,12 +347,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 470272,
+      "num": 323574,
+      "word": "狂飙麻子爆改富二代",
+      "onboard_time": 1758177322,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469439,
       "num": 469439,
       "word": "巴基斯坦称实际击落4架阵风",
       "onboard_time": 1758154582,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 453025,
+      "num": 296407,
+      "word": "沈梦辰美成Angelababy了",
+      "onboard_time": 1758179542,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 452759,
@@ -411,28 +451,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351675,
+      "num": 293045,
+      "word": "赵今麦完全褪去了稚气",
+      "onboard_time": 1758173543,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345909,
       "num": 345909,
       "word": "朋友圈点赞才是社交中真正的隐喻",
       "onboard_time": 1758156203,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 339161,
-      "num": 186283,
-      "word": "上班禁止偷吃同事",
-      "onboard_time": 1758177201,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 337034,
-      "num": 236218,
-      "word": "赵今麦完全褪去了稚气",
-      "onboard_time": 1758173543,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 335961,
@@ -579,6 +611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214834,
+      "num": 306252,
+      "word": "女子发现自己有138辆车",
+      "onboard_time": 1758179302,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213714,
       "num": 213714,
       "word": "专家解读美联储降息25个基点",
@@ -635,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208754,
+      "num": 208754,
+      "word": "看似不起眼但很养生的行为",
+      "onboard_time": 1758179242,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204471,
       "num": 213457,
       "word": "分别多年后闺蜜成了大明星",
@@ -675,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193982,
-      "num": 215029,
-      "word": "狂飙麻子爆改富二代",
-      "onboard_time": 1758177322,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 194267,
+      "num": 192297,
+      "word": "第一批看731观众发声",
+      "onboard_time": 1758176002,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 191045,
@@ -721,14 +769,6 @@
       "onboard_time": 1758175941,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186251,
-      "num": 186251,
-      "word": "第一批看731观众发声",
-      "onboard_time": 1758176002,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 185087,
@@ -857,6 +897,22 @@
       "onboard_time": 1758114502,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156533,
+      "num": 156533,
+      "word": "731电影郑重声明",
+      "onboard_time": 1758179903,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154807,
+      "num": 154807,
+      "word": "赴山海能复刻大奉打更人的走势吗",
+      "onboard_time": 1758177444,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 154173,
@@ -1003,6 +1059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 136289,
+      "num": 136289,
+      "word": "凡人修仙传9月30日全台电视首播",
+      "onboard_time": 1758179061,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135909,
       "num": 135909,
       "word": "泽连斯基说所有国家别考虑自己了",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1758165022,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128064,
+      "num": 128064,
+      "word": "日本民众痛斥人体实验丑恶",
+      "onboard_time": 1758177681,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126330,
@@ -1211,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117006,
+      "num": 117006,
+      "word": "迅猛龙不敢在课堂发言",
+      "onboard_time": 1758179001,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 115463,
       "num": 202170,
       "word": "勿忘国耻警世钟9时18分撞响",
@@ -1299,6 +1379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 104532,
+      "num": 104532,
+      "word": "萨摩耶的汗脚",
+      "onboard_time": 1758176843,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "这个日子不能忘也不敢忘",
@@ -1321,6 +1409,14 @@
       "onboard_time": 1758104663,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101404,
+      "num": 101404,
+      "word": "同甘共苦撤档",
+      "onboard_time": 1758178581,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 99539,
@@ -1403,12 +1499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82300,
+      "num": 291742,
+      "word": "女生校内分娩所在学校开会反思",
+      "onboard_time": 1758179723,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81897,
       "num": 92138,
       "word": "太二酸菜鱼不同门店用不同鱼",
       "onboard_time": 1758121945,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79357,
+      "num": 98171,
+      "word": "减脂甜玉米vs减脂糯玉米",
+      "onboard_time": 1758179843,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 78530,
@@ -1579,14 +1691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59334,
-      "num": 121911,
-      "word": "赴山海能复刻大奉打更人的走势吗",
-      "onboard_time": 1758177444,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 58439,
       "num": 75110,
       "word": "731首映",
@@ -1691,14 +1795,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 25923,
-      "num": 112839,
-      "word": "日本民众痛斥人体实验丑恶",
-      "onboard_time": 1758177681,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 25414,
       "num": 117347,
       "word": "美国宾州枪击警察3死2伤",
@@ -1748,7 +1844,7 @@
     },
     {
       "raw_hot": 16637,
-      "num": 1165974,
+      "num": 1269343,
       "word": "砥砺奋进七十载天山南北谱华章",
       "onboard_time": 1758114924,
       "rank": 2,
