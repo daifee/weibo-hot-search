@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758213883377,
+  "endTime": 1758216096372,
   "band_list": [
     {
       "raw_hot": 1016863,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426717,
+      "num": 240821,
+      "word": "香港网民选出新四大天王",
+      "onboard_time": 1758211346,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405999,
       "num": 405999,
       "word": "日本称九一八事变为满洲事变",
@@ -73,14 +81,6 @@
       "onboard_time": 1758205585,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 368565,
-      "num": 240821,
-      "word": "香港网民选出新四大天王",
-      "onboard_time": 1758211346,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 323633,
@@ -113,6 +113,14 @@
       "onboard_time": 1758206064,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251403,
+      "num": 181748,
+      "word": "辛芷蕾说梁婷是自己唯一的遗憾",
+      "onboard_time": 1758212421,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 241199,
@@ -153,14 +161,6 @@
       "onboard_time": 1758200783,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181748,
-      "num": 181748,
-      "word": "辛芷蕾说梁婷是自己唯一的遗憾",
-      "onboard_time": 1758212421,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 175696,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115768,
+      "num": 115768,
+      "word": "辛芷蕾回应与梁婷和解",
+      "onboard_time": 1758213200,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114383,
       "num": 114383,
       "word": "社保",
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91314,
+      "num": 91314,
+      "word": "李嘉欣每个月可以领200万港币的生活费",
+      "onboard_time": 1758214159,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91197,
       "num": 91197,
       "word": "多人因忘关闭自动续费被扣数千元",
@@ -281,14 +297,6 @@
       "onboard_time": 1758178402,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76267,
-      "num": 76267,
-      "word": "辛芷蕾回应与梁婷和解",
-      "onboard_time": 1758213200,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 75513,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52111,
+      "num": 59522,
+      "word": "何赛飞喊话追星者结婚生娃",
+      "onboard_time": 1758214877,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49357,
       "num": 91067,
       "word": "孙颖莎没有夸张大哭",
@@ -427,12 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38092,
+      "num": 59522,
+      "word": "特研院回应博士月薪4000元起",
+      "onboard_time": 1758214758,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36940,
       "num": 815051,
       "word": "做光荣自豪的中国人",
       "onboard_time": 1758201744,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34772,
+      "num": 59522,
+      "word": "李嘉欣在香港扫货被偶遇",
+      "onboard_time": 1758194662,
+      "rank": 45,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

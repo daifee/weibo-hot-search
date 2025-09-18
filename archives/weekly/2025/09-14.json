@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758213883377,
+  "endTime": 1758216096372,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -2883,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426717,
+      "num": 240821,
+      "word": "香港网民选出新四大天王",
+      "onboard_time": 1758211346,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425469,
       "num": 425469,
       "word": "祝绪丹随便一跳被中医确诊",
@@ -3377,14 +3385,6 @@
       "onboard_time": 1758193342,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368565,
-      "num": 240821,
-      "word": "香港网民选出新四大天王",
-      "onboard_time": 1758211346,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 367987,
@@ -4617,6 +4617,14 @@
       "onboard_time": 1757999843,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251403,
+      "num": 181748,
+      "word": "辛芷蕾说梁婷是自己唯一的遗憾",
+      "onboard_time": 1758212421,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 251391,
@@ -6729,14 +6737,6 @@
       "onboard_time": 1757805679,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181748,
-      "num": 181748,
-      "word": "辛芷蕾说梁婷是自己唯一的遗憾",
-      "onboard_time": 1758212421,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 181705,
@@ -11659,6 +11659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115768,
+      "num": 115768,
+      "word": "辛芷蕾回应与梁婷和解",
+      "onboard_time": 1758213200,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115512,
       "num": 115512,
       "word": "Falcons夺冠",
@@ -13731,6 +13739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91314,
+      "num": 91314,
+      "word": "李嘉欣每个月可以领200万港币的生活费",
+      "onboard_time": 1758214159,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91239,
       "num": 103897,
       "word": "小酒窝换装变身",
@@ -14441,14 +14457,6 @@
       "onboard_time": 1757894422,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 76267,
-      "num": 76267,
-      "word": "辛芷蕾回应与梁婷和解",
-      "onboard_time": 1758213200,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 76174,
@@ -15459,6 +15467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52111,
+      "num": 59522,
+      "word": "何赛飞喊话追星者结婚生娃",
+      "onboard_time": 1758214877,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52056,
       "num": 164535,
       "word": "摄影师回应七七签约景甜团队",
@@ -16008,6 +16024,14 @@
       "word": "女子踩氢氟酸身亡事发地有居民种菜",
       "onboard_time": 1758011241,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38092,
+      "num": 59522,
+      "word": "特研院回应博士月薪4000元起",
+      "onboard_time": 1758214758,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
