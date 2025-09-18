@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758220555102,
+  "endTime": 1758221314682,
   "band_list": [
     {
       "raw_hot": 1016863,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22775,
+      "num": 24661,
+      "word": "必胜客店员回应橙汁确为果粒橙",
+      "onboard_time": 1758205883,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21616,
       "num": 45192,
       "word": "北京国安亚冠赛场爆发冲突",
@@ -491,19 +499,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20761,
-      "num": 24661,
-      "word": "必胜客店员回应橙汁确为果粒橙",
-      "onboard_time": 1758205883,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19480,
       "num": 24652,
       "word": "曾用10年退休金补仓的爷叔解套了",
       "onboard_time": 1758208463,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13239,
+      "num": 29072,
+      "word": "栾树花是秋天的信使吧",
+      "onboard_time": 1758221115,
+      "rank": 22,
       "category": "民生新闻"
     }
   ],
