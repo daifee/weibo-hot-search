@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/18 17:27:30
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/18 17:39:43
 </p>
 </blockquote>
 <p>
@@ -1335,6 +1335,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E8%87%AA%E6%9B%9D%E6%82%A3%E8%9B%87%E7%BC%A0%E8%85%B0%E5%90%8E%E6%89%8D%E6%97%A9%E7%9D%A1%23" target="weibo">
+蔡依林自曝患蛇缠腰后才早睡（热度：1457809）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%A9%BF%E5%B8%AE%23" target="weibo">
 赴山海洞洞鞋穿帮（热度：1457421）
 </a>
@@ -1671,12 +1677,6 @@ NASA明确发现火星生命迹象（热度：1280374）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E8%87%AA%E6%9B%9D%E6%82%A3%E8%9B%87%E7%BC%A0%E8%85%B0%E5%90%8E%E6%89%8D%E6%97%A9%E7%9D%A1%23" target="weibo">
-蔡依林自曝患蛇缠腰后才早睡（热度：1265558）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%B9%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E5%A4%96%E5%8D%96%E8%A2%AB%E8%B4%B4%E8%A3%85%E8%B4%A7%23" target="weibo">
 女子点绿茶餐厅外卖被贴装货（热度：1262575）
 </a>
@@ -1757,6 +1757,12 @@ NASA明确发现火星生命迹象（热度：1280374）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%AC%91%E4%BA%86%E4%BF%A9%E5%B0%8F%E6%97%B6%E6%89%8D%E9%80%80%E6%AC%BE%23" target="weibo">
 商家笑了俩小时才退款（热度：1235040）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%AF%AF%E8%A7%A6%E6%B0%A2%E6%B0%9F%E9%85%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
+官方通报女子误触氢氟酸身亡（热度：1232288）
 </a>
 </li>
 
@@ -1889,12 +1895,6 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E4%BD%95%E4%B8%8D%E7%BC%B4%E7%A4%BE%E4%BF%9D%E7%9A%84%E7%BA%A6%E5%AE%9A%E5%9D%87%E4%B8%BA%E6%97%A0%E6%95%88%23" target="weibo">
 任何不缴社保的约定均为无效（热度：1182334）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%AF%AF%E8%A7%A6%E6%B0%A2%E6%B0%9F%E9%85%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
-官方通报女子误触氢氟酸身亡（热度：1180653）
 </a>
 </li>
 
@@ -3125,6 +3125,12 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%A5%B3%E9%81%AD%E4%BD%93%E7%BD%9A%E6%AD%BB%E5%89%8D%E6%B1%82%E5%8A%A9%E4%BF%A1%E8%A2%AB%E8%80%81%E5%B8%88%E6%8B%A6%E6%88%AA%23" target="weibo">
 少女遭体罚死前求助信被老师拦截（热度：845744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5iPhone%E5%A4%A9%E6%B0%94%E8%BF%99%E4%B9%88%E5%A5%BD%E7%94%A8%23" target="weibo">
+原来iPhone天气这么好用（热度：845541）
 </a>
 </li>
 
@@ -4583,12 +4589,6 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E5%9B%9E%E5%BA%94%E4%B8%A2%E5%BC%83%E6%9C%AA%E5%94%AE%E9%9D%A2%E5%8C%85%E6%98%AF%E5%85%AC%E5%8F%B8%E8%A7%84%E5%AE%9A%23" target="weibo">
 店员回应丢弃未售面包是公司规定（热度：635635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5iPhone%E5%A4%A9%E6%B0%94%E8%BF%99%E4%B9%88%E5%A5%BD%E7%94%A8%23" target="weibo">
-原来iPhone天气这么好用（热度：633419）
 </a>
 </li>
 

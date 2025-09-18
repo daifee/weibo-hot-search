@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758187650711,
+  "endTime": 1758188383919,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1457809,
+      "num": 264618,
+      "word": "蔡依林自曝患蛇缠腰后才早睡",
+      "onboard_time": 1758184524,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1457421,
       "num": 1457421,
       "word": "赴山海洞洞鞋穿帮",
@@ -547,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1265558,
-      "num": 264618,
-      "word": "蔡依林自曝患蛇缠腰后才早睡",
-      "onboard_time": 1758184524,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1247884,
       "num": 1247884,
       "word": "太二酸菜鱼下单到上鱼仅6分钟",
@@ -569,6 +569,14 @@
       "onboard_time": 1758165981,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1232288,
+      "num": 253015,
+      "word": "官方通报女子误触氢氟酸身亡",
+      "onboard_time": 1758186083,
+      "rank": 11,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1224288,
@@ -609,14 +617,6 @@
       "onboard_time": 1757984063,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1180653,
-      "num": 253015,
-      "word": "官方通报女子误触氢氟酸身亡",
-      "onboard_time": 1758186083,
-      "rank": 11,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1180616,
@@ -1147,6 +1147,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 845541,
+      "num": 845541,
+      "word": "原来iPhone天气这么好用",
+      "onboard_time": 1758184583,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 843990,
       "num": 843990,
       "word": "美联储降息",
@@ -1667,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 633419,
-      "num": 633419,
-      "word": "原来iPhone天气这么好用",
-      "onboard_time": 1758184583,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 627574,
       "num": 296561,
       "word": "赵本山不让女儿签婚前协议",
@@ -2068,7 +2068,7 @@
     },
     {
       "raw_hot": 532208,
-      "num": 532208,
+      "num": 846772,
       "word": "918是5098第1天",
       "onboard_time": 1758159322,
       "rank": 23,
@@ -2905,6 +2905,14 @@
       "onboard_time": 1758128777,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 403664,
+      "num": 403664,
+      "word": "孕妇泰国坠崖案女子全身100多钢钉",
+      "onboard_time": 1758186444,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403610,
@@ -4123,14 +4131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266099,
-      "num": 266099,
-      "word": "孕妇泰国坠崖案女子全身100多钢钉",
-      "onboard_time": 1758186444,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265575,
       "num": 265575,
       "word": "卖房救重病男友发现他没病还已婚",
@@ -4556,7 +4556,7 @@
     },
     {
       "raw_hot": 240721,
-      "num": 176759,
+      "num": 178135,
       "word": "什么叫裁员裁到大动脉",
       "onboard_time": 1758185064,
       "rank": 30,
@@ -4569,6 +4569,14 @@
       "onboard_time": 1757825483,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240448,
+      "num": 240448,
+      "word": "T1对战DK",
+      "onboard_time": 1758184403,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 240445,
@@ -4825,14 +4833,6 @@
       "onboard_time": 1758017302,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225676,
-      "num": 225676,
-      "word": "T1对战DK",
-      "onboard_time": 1758184403,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 224803,
@@ -5409,6 +5409,14 @@
       "onboard_time": 1757996243,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203052,
+      "num": 161546,
+      "word": "月薪9800在养老院的一天",
+      "onboard_time": 1758186623,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 202670,
@@ -6603,6 +6611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175940,
+      "num": 175940,
+      "word": "原味鸡蛋",
+      "onboard_time": 1758183023,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175693,
       "num": 200677,
       "word": "赴山海穿帮画面已微调",
@@ -6667,6 +6683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173989,
+      "num": 173989,
+      "word": "四个TFBOYS和一个By2能胡牌",
+      "onboard_time": 1758184342,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 173982,
       "num": 173982,
       "word": "王者荣耀",
@@ -6704,14 +6728,6 @@
       "word": "这才是我月薪三千该去的地方",
       "onboard_time": 1757816001,
       "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 173367,
-      "num": 173367,
-      "word": "原味鸡蛋",
-      "onboard_time": 1758183023,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -6913,14 +6929,6 @@
       "onboard_time": 1757927003,
       "rank": 25,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 169053,
-      "num": 169053,
-      "word": "四个TFBOYS和一个By2能胡牌",
-      "onboard_time": 1758184342,
-      "rank": 28,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 168981,
@@ -7435,6 +7443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 160860,
+      "num": 160860,
+      "word": "LCK",
+      "onboard_time": 1758187282,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160831,
       "num": 221572,
       "word": "嘎子哥称接受一切结果",
@@ -7833,14 +7849,6 @@
       "onboard_time": 1758090683,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155190,
-      "num": 155190,
-      "word": "LCK",
-      "onboard_time": 1758187282,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 154915,
@@ -8731,6 +8739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142265,
+      "num": 142265,
+      "word": "文咏珊两年前疯到我两年后钓到我",
+      "onboard_time": 1758187402,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142181,
       "num": 142181,
       "word": "一诺又是开心的一天",
@@ -9331,14 +9347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133933,
-      "num": 133933,
-      "word": "文咏珊两年前疯到我两年后钓到我",
-      "onboard_time": 1758187402,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133808,
       "num": 133808,
       "word": "董军说随时准备挫败外部武力干涉",
@@ -9900,7 +9908,7 @@
     },
     {
       "raw_hot": 126758,
-      "num": 161098,
+      "num": 161639,
       "word": "张小婉紧急撤回眼泪",
       "onboard_time": 1758186982,
       "rank": 29,
@@ -10283,6 +10291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122095,
+      "num": 122095,
+      "word": "以后的武侠剧都按这个拍",
+      "onboard_time": 1758188002,
+      "rank": 34,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 122033,
       "num": 122033,
       "word": "原来大家都有考研坐骑",
@@ -10457,14 +10473,6 @@
       "onboard_time": 1757827702,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120112,
-      "num": 120112,
-      "word": "月薪9800在养老院的一天",
-      "onboard_time": 1758186623,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 119881,
@@ -11011,6 +11019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113874,
+      "num": 118640,
+      "word": "你就当把毕业证卖给我了行吗",
+      "onboard_time": 1758187584,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113759,
       "num": 113759,
       "word": "妈妈 一点都不大大方方的",
@@ -11113,6 +11129,14 @@
       "onboard_time": 1758089844,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 112613,
+      "num": 112613,
+      "word": "全世界最窝囊的评论区",
+      "onboard_time": 1758187823,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 112600,
@@ -11387,6 +11411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108407,
+      "num": 108407,
+      "word": "不饿但总馋说明身体缺了某些东西",
+      "onboard_time": 1758188123,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108304,
       "num": 108304,
       "word": "王曼昱掩面令人动容",
@@ -11457,14 +11489,6 @@
       "onboard_time": 1757924062,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107359,
-      "num": 107359,
-      "word": "你就当把毕业证卖给我了行吗",
-      "onboard_time": 1758187584,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 107278,
@@ -11963,6 +11987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101735,
+      "num": 101735,
+      "word": "埃及3000年前的法老金镯丢失",
+      "onboard_time": 1758187762,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101613,
       "num": 101613,
       "word": "无框眼镜才是文咏珊的统治区",
@@ -12155,6 +12187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99927,
+      "num": 99927,
+      "word": "李荣浩成为iOS26最大受益者",
+      "onboard_time": 1758188302,
+      "rank": 46,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 99845,
       "num": 169235,
       "word": "被樊振东牵手球童的母亲致谢",
@@ -12185,6 +12225,14 @@
       "onboard_time": 1757845882,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99557,
+      "num": 99557,
+      "word": "散人桃黑黑 灵珠魔丸",
+      "onboard_time": 1758187942,
+      "rank": 47,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 99551,
@@ -12601,6 +12649,14 @@
       "onboard_time": 1758072923,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93407,
+      "num": 93407,
+      "word": "梁伟铿王昶止步中国赛16强",
+      "onboard_time": 1758185843,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93397,
@@ -13201,6 +13257,14 @@
       "onboard_time": 1758179843,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 79320,
+      "num": 263894,
+      "word": "日本议员呼吁政府承认731罪行",
+      "onboard_time": 1758186804,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79316,
@@ -14691,6 +14755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42580,
+      "num": 115283,
+      "word": "女外卖员2年激增近36%",
+      "onboard_time": 1758187883,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42578,
       "num": 87396,
       "word": "孙颖莎跟队友挥手鼓掌",
@@ -14849,14 +14921,6 @@
       "onboard_time": 1757822663,
       "rank": 17,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 37242,
-      "num": 263894,
-      "word": "日本议员呼吁政府承认731罪行",
-      "onboard_time": 1758186804,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37175,
@@ -15201,6 +15265,14 @@
       "onboard_time": 1758103282,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28460,
+      "num": 178807,
+      "word": "高质量完成十四五规划",
+      "onboard_time": 1758187643,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28197,

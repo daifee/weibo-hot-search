@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758187650711,
+  "endTime": 1758188383919,
   "band_list": [
     {
       "raw_hot": 14538988,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1457809,
+      "num": 264618,
+      "word": "蔡依林自曝患蛇缠腰后才早睡",
+      "onboard_time": 1758184524,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1415291,
       "num": 533389,
       "word": "金价",
@@ -99,14 +107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1265558,
-      "num": 264618,
-      "word": "蔡依林自曝患蛇缠腰后才早睡",
-      "onboard_time": 1758184524,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1241204,
       "num": 1134781,
       "word": "731影评",
@@ -115,7 +115,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1180653,
+      "raw_hot": 1232288,
       "num": 253015,
       "word": "官方通报女子误触氢氟酸身亡",
       "onboard_time": 1758186083,
@@ -185,6 +185,14 @@
       "onboard_time": 1758186083,
       "rank": 12,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 845541,
+      "num": 845541,
+      "word": "原来iPhone天气这么好用",
+      "onboard_time": 1758184583,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 843990,
@@ -307,14 +315,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 633419,
-      "num": 633419,
-      "word": "原来iPhone天气这么好用",
-      "onboard_time": 1758184583,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 609397,
       "num": 407051,
       "word": "杭州锁定废弃氢氟酸所有者",
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 532208,
-      "num": 532208,
+      "num": 846772,
       "word": "918是5098第1天",
       "onboard_time": 1758159322,
       "rank": 23,
@@ -473,6 +473,14 @@
       "onboard_time": 1758128777,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 403664,
+      "num": 403664,
+      "word": "孕妇泰国坠崖案女子全身100多钢钉",
+      "onboard_time": 1758186444,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402694,
@@ -627,14 +635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266099,
-      "num": 266099,
-      "word": "孕妇泰国坠崖案女子全身100多钢钉",
-      "onboard_time": 1758186444,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 262557,
       "num": 262557,
       "word": "暗河传这波是未播先火啊",
@@ -700,11 +700,19 @@
     },
     {
       "raw_hot": 240721,
-      "num": 176759,
+      "num": 178135,
       "word": "什么叫裁员裁到大动脉",
       "onboard_time": 1758185064,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240448,
+      "num": 240448,
+      "word": "T1对战DK",
+      "onboard_time": 1758184403,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 236529,
@@ -721,14 +729,6 @@
       "onboard_time": 1758147316,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225676,
-      "num": 225676,
-      "word": "T1对战DK",
-      "onboard_time": 1758184403,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 221329,
@@ -817,6 +817,14 @@
       "onboard_time": 1758170243,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203052,
+      "num": 161546,
+      "word": "月薪9800在养老院的一天",
+      "onboard_time": 1758186623,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 200634,
@@ -939,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175940,
+      "num": 175940,
+      "word": "原味鸡蛋",
+      "onboard_time": 1758183023,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175736,
       "num": 175736,
       "word": "盛世天下",
@@ -947,20 +963,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173989,
+      "num": 173989,
+      "word": "四个TFBOYS和一个By2能胡牌",
+      "onboard_time": 1758184342,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 173808,
       "num": 173808,
       "word": "桃黑黑盛世天下直播",
       "onboard_time": 1758111863,
       "rank": 14,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 173367,
-      "num": 173367,
-      "word": "原味鸡蛋",
-      "onboard_time": 1758183023,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 172660,
@@ -985,14 +1001,6 @@
       "onboard_time": 1758175822,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169053,
-      "num": 169053,
-      "word": "四个TFBOYS和一个By2能胡牌",
-      "onboard_time": 1758184342,
-      "rank": 28,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 166035,
@@ -1035,6 +1043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 160860,
+      "num": 160860,
+      "word": "LCK",
+      "onboard_time": 1758187282,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160442,
       "num": 160442,
       "word": "肖战的声线怎么会区别这么大",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1758114502,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155190,
-      "num": 155190,
-      "word": "LCK",
-      "onboard_time": 1758187282,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 154807,
@@ -1203,6 +1211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142265,
+      "num": 142265,
+      "word": "文咏珊两年前疯到我两年后钓到我",
+      "onboard_time": 1758187402,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141563,
       "num": 141563,
       "word": "乒乓球欧冠签表出炉",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1758186083,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133933,
-      "num": 133933,
-      "word": "文咏珊两年前疯到我两年后钓到我",
-      "onboard_time": 1758187402,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 133808,
@@ -1380,7 +1388,7 @@
     },
     {
       "raw_hot": 126758,
-      "num": 161098,
+      "num": 161639,
       "word": "张小婉紧急撤回眼泪",
       "onboard_time": 1758186982,
       "rank": 29,
@@ -1467,20 +1475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122095,
+      "num": 122095,
+      "word": "以后的武侠剧都按这个拍",
+      "onboard_time": 1758188002,
+      "rank": 34,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 121590,
       "num": 121590,
       "word": "你不知道的九一八",
       "onboard_time": 1758166161,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120112,
-      "num": 120112,
-      "word": "月薪9800在养老院的一天",
-      "onboard_time": 1758186623,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 119159,
@@ -1563,6 +1571,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 114169,
+      "num": 114169,
+      "word": "柯淳撒娇抱抱哄宁静",
+      "onboard_time": 1758185184,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114138,
       "num": 114138,
       "word": "iPhone17系列续航实测",
@@ -1579,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113874,
+      "num": 118640,
+      "word": "你就当把毕业证卖给我了行吗",
+      "onboard_time": 1758187584,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113424,
       "num": 152100,
       "word": "多位中国游客在法国机场高速遭抢劫",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1758158423,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112613,
+      "num": 112613,
+      "word": "全世界最窝囊的评论区",
+      "onboard_time": 1758187823,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 112600,
@@ -1619,14 +1651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 108549,
-      "num": 108549,
-      "word": "柯淳撒娇抱抱哄宁静",
-      "onboard_time": 1758185184,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108521,
       "num": 108521,
       "word": "历次降息后各类资产表现真相梳理",
@@ -1635,12 +1659,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107359,
-      "num": 107359,
-      "word": "你就当把毕业证卖给我了行吗",
-      "onboard_time": 1758187584,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 108407,
+      "num": 108407,
+      "word": "不饿但总馋说明身体缺了某些东西",
+      "onboard_time": 1758188123,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105657,
@@ -1715,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101735,
+      "num": 101735,
+      "word": "埃及3000年前的法老金镯丢失",
+      "onboard_time": 1758187762,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101412,
       "num": 101412,
       "word": "中国游客用嘴咬住落水女子头发救人",
@@ -1745,6 +1777,22 @@
       "onboard_time": 1758183983,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 99927,
+      "num": 99927,
+      "word": "李荣浩成为iOS26最大受益者",
+      "onboard_time": 1758188302,
+      "rank": 46,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 99557,
+      "num": 99557,
+      "word": "散人桃黑黑 灵珠魔丸",
+      "onboard_time": 1758187942,
+      "rank": 47,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 99539,
@@ -1809,6 +1857,14 @@
       "onboard_time": 1758180922,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93407,
+      "num": 93407,
+      "word": "梁伟铿王昶止步中国赛16强",
+      "onboard_time": 1758185843,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93096,
@@ -1889,6 +1945,14 @@
       "onboard_time": 1758179843,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 79320,
+      "num": 263894,
+      "word": "日本议员呼吁政府承认731罪行",
+      "onboard_time": 1758186804,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78530,
@@ -2139,12 +2203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37242,
-      "num": 263894,
-      "word": "日本议员呼吁政府承认731罪行",
-      "onboard_time": 1758186804,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 42580,
+      "num": 115283,
+      "word": "女外卖员2年激增近36%",
+      "onboard_time": 1758187883,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37062,
@@ -2177,6 +2241,14 @@
       "onboard_time": 1758164901,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28460,
+      "num": 178807,
+      "word": "高质量完成十四五规划",
+      "onboard_time": 1758187643,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26537,
