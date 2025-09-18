@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758203057360,
+  "endTime": 1758205507836,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1427,6 +1427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1627720,
+      "num": 1627720,
+      "word": "导演让刚出生女儿出演剖腹取婴镜头",
+      "onboard_time": 1758203184,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1626763,
       "num": 1626763,
       "word": "阅兵时五角大楼附近披萨订单激增",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1757059281,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1542636,
+      "num": 1542636,
+      "word": "香港失窃黄金已全数追回",
+      "onboard_time": 1758201324,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1537646,
@@ -2553,14 +2569,6 @@
       "onboard_time": 1757084903,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1168743,
-      "num": 1168743,
-      "word": "香港失窃黄金已全数追回",
-      "onboard_time": 1758201324,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1166160,
@@ -3643,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 907068,
+      "num": 236489,
+      "word": "李乃文助理把车票日期买错了",
+      "onboard_time": 1758202045,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 906599,
       "num": 715183,
       "word": "特朗普发布与普京的合影",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1756726581,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 890772,
+      "num": 238645,
+      "word": "比伯海莉结婚未公开旧照",
+      "onboard_time": 1758200783,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 889815,
@@ -4345,14 +4369,6 @@
       "onboard_time": 1757842879,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 826183,
-      "num": 238645,
-      "word": "比伯海莉结婚未公开旧照",
-      "onboard_time": 1758200783,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 824734,
@@ -6224,14 +6240,6 @@
       "word": "赵本山不让女儿签婚前协议",
       "onboard_time": 1757936962,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 627476,
-      "num": 236489,
-      "word": "李乃文助理把车票日期买错了",
-      "onboard_time": 1758202045,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -9649,6 +9657,14 @@
       "onboard_time": 1757830403,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 440352,
+      "num": 440352,
+      "word": "美国爆发接吻虫病疫情",
+      "onboard_time": 1758199762,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 439997,
@@ -13947,6 +13963,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 301320,
+      "num": 225526,
+      "word": "易烊千玺垒石头效应",
+      "onboard_time": 1758202824,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301129,
       "num": 301129,
       "word": "孟子义拿白兰花这张图",
@@ -15993,6 +16017,14 @@
       "onboard_time": 1757488703,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253336,
+      "num": 253336,
+      "word": "白敬亭演技",
+      "onboard_time": 1758204624,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 253205,
@@ -18307,6 +18339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216427,
+      "num": 197261,
+      "word": "这位妈妈一辈子都走不出来了",
+      "onboard_time": 1758200842,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216347,
       "num": 242702,
       "word": "初中生偷转父母37万元充值游戏",
@@ -20531,14 +20571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197261,
-      "num": 197261,
-      "word": "这位妈妈一辈子都走不出来了",
-      "onboard_time": 1758200842,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197146,
       "num": 483596,
       "word": "汪浚熙直播",
@@ -21457,6 +21489,14 @@
       "onboard_time": 1757300184,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192671,
+      "num": 192671,
+      "word": "731票房一天3亿",
+      "onboard_time": 1758205106,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 192654,
@@ -25059,6 +25099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170189,
+      "num": 229166,
+      "word": "用拖鞋搅奶茶员工上岗不到1小时",
+      "onboard_time": 1758197963,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170163,
       "num": 266140,
       "word": "宇树科技宣布将在四季度提交IPO申请",
@@ -26689,14 +26737,6 @@
       "onboard_time": 1757080401,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162091,
-      "num": 162091,
-      "word": "用拖鞋搅奶茶员工上岗不到1小时",
-      "onboard_time": 1758197963,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162055,
@@ -31148,7 +31188,7 @@
     },
     {
       "raw_hot": 143699,
-      "num": 136006,
+      "num": 141370,
       "word": "只有健身的才知道她有多厉害",
       "onboard_time": 1758200183,
       "rank": 30,
@@ -31601,6 +31641,14 @@
       "onboard_time": 1757741064,
       "rank": 32,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 141989,
+      "num": 141989,
+      "word": "张纪中跟1岁女儿同框像爷孙",
+      "onboard_time": 1758204563,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 141973,
@@ -32337,6 +32385,14 @@
       "onboard_time": 1757157261,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139303,
+      "num": 139303,
+      "word": "什么是蛇缠腰",
+      "onboard_time": 1758204745,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139280,
@@ -36867,6 +36923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124367,
+      "num": 124367,
+      "word": "王昶巧妙回应记者发难",
+      "onboard_time": 1758205222,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "德媒感慨樊振东影响力巨大",
@@ -36937,14 +37001,6 @@
       "onboard_time": 1757239941,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124145,
-      "num": 124145,
-      "word": "美国爆发接吻虫病疫情",
-      "onboard_time": 1758199762,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124095,
@@ -38129,6 +38185,14 @@
       "onboard_time": 1757339843,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120148,
+      "num": 120148,
+      "word": "北京国安vs河内公安",
+      "onboard_time": 1758196824,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 120144,
@@ -40227,14 +40291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113491,
-      "num": 113491,
-      "word": "易烊千玺垒石头效应",
-      "onboard_time": 1758202824,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113473,
       "num": 113473,
       "word": "刘宇宁厨艺",
@@ -42323,6 +42379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107171,
+      "num": 107171,
+      "word": "2.8亿大楼成交百万中介费没了",
+      "onboard_time": 1758200902,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107164,
       "num": 107164,
       "word": "十大抗衰老运动",
@@ -42449,6 +42513,14 @@
       "onboard_time": 1758200842,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106654,
+      "num": 106654,
+      "word": "淘淘氧棉护垫 霉点",
+      "onboard_time": 1758204144,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 106602,
@@ -44771,6 +44843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99345,
+      "num": 99345,
+      "word": "虎牙崩了",
+      "onboard_time": 1758205284,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99329,
       "num": 99329,
       "word": "樊振东你这眼神上上下下盯着人家看",
@@ -44787,6 +44867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99292,
+      "num": 99292,
+      "word": "英特尔涨超27%",
+      "onboard_time": 1758203722,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99280,
       "num": 105385,
       "word": "7天前购买BAT股票可躺赚1台苹果17",
@@ -44801,14 +44889,6 @@
       "onboard_time": 1757152701,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 99211,
-      "num": 99211,
-      "word": "2.8亿大楼成交百万中介费没了",
-      "onboard_time": 1758200902,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99196,
@@ -46667,6 +46747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92232,
+      "num": 92232,
+      "word": "一段剧情播三遍遍遍不一样",
+      "onboard_time": 1758203964,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92201,
       "num": 121288,
       "word": "养小动物不是为了让它爱你",
@@ -47049,6 +47137,14 @@
       "onboard_time": 1757902582,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90363,
+      "num": 90363,
+      "word": "赴山海魔典系统在桃厂云包场",
+      "onboard_time": 1758205165,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90330,
@@ -48104,14 +48200,6 @@
       "word": "樊振东德甲首个对手鲁伊斯开博",
       "onboard_time": 1756802301,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 84969,
-      "num": 103103,
-      "word": "北京国安vs河内公安",
-      "onboard_time": 1758196824,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -50968,6 +51056,14 @@
       "word": "九三阅兵编设45个方梯队有何区别",
       "onboard_time": 1756719621,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 68778,
+      "num": 1575537,
+      "word": "做光荣自豪的中国人",
+      "onboard_time": 1758201744,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -53937,14 +54033,6 @@
       "onboard_time": 1757374339,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47312,
-      "num": 898161,
-      "word": "做光荣自豪的中国人",
-      "onboard_time": 1758201744,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47244,
@@ -57001,6 +57089,14 @@
       "onboard_time": 1757790795,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21327,
+      "num": 106708,
+      "word": "能被记住就曾经活过",
+      "onboard_time": 1758204865,
+      "rank": 40,
+      "category": "电影,民生新闻"
     },
     {
       "raw_hot": 21254,

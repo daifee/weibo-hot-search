@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758203057360,
+  "endTime": 1758205507836,
   "band_list": [
     {
       "raw_hot": 14538988,
@@ -51,12 +51,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1627720,
+      "num": 1627720,
+      "word": "导演让刚出生女儿出演剖腹取婴镜头",
+      "onboard_time": 1758203184,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1619594,
       "num": 1619594,
       "word": "918鸣笛",
       "onboard_time": 1758159440,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1542636,
+      "num": 1542636,
+      "word": "香港失窃黄金已全数追回",
+      "onboard_time": 1758201324,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1510945,
@@ -139,14 +155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1168743,
-      "num": 1168743,
-      "word": "香港失窃黄金已全数追回",
-      "onboard_time": 1758201324,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1166119,
       "num": 423568,
       "word": "理解明星为什么和经纪人结婚了",
@@ -195,12 +203,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 907068,
+      "num": 236489,
+      "word": "李乃文助理把车票日期买错了",
+      "onboard_time": 1758202045,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 903033,
       "num": 394191,
       "word": "氢氟酸涉案人员已被控制",
       "onboard_time": 1758186083,
       "rank": 12,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 890772,
+      "num": 238645,
+      "word": "比伯海莉结婚未公开旧照",
+      "onboard_time": 1758200783,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 870378,
@@ -225,14 +249,6 @@
       "onboard_time": 1758150980,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 826183,
-      "num": 238645,
-      "word": "比伯海莉结婚未公开旧照",
-      "onboard_time": 1758200783,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 816809,
@@ -353,14 +369,6 @@
       "onboard_time": 1758174801,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 627476,
-      "num": 236489,
-      "word": "李乃文助理把车票日期买错了",
-      "onboard_time": 1758202045,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 609397,
@@ -531,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 440352,
+      "num": 440352,
+      "word": "美国爆发接吻虫病疫情",
+      "onboard_time": 1758199762,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 432108,
       "num": 295443,
       "word": "程潇的房子塌了",
@@ -691,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301320,
+      "num": 225526,
+      "word": "易烊千玺垒石头效应",
+      "onboard_time": 1758202824,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294490,
       "num": 294490,
       "word": "张子枫马嘉祺合作科幻剧",
@@ -785,6 +809,14 @@
       "onboard_time": 1758160221,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 253336,
+      "num": 253336,
+      "word": "白敬亭演技",
+      "onboard_time": 1758204624,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 251391,
@@ -889,6 +921,14 @@
       "onboard_time": 1758125542,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216427,
+      "num": 197261,
+      "word": "这位妈妈一辈子都走不出来了",
+      "onboard_time": 1758200842,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 213714,
@@ -1019,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197261,
-      "num": 197261,
-      "word": "这位妈妈一辈子都走不出来了",
-      "onboard_time": 1758200842,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195131,
       "num": 195131,
       "word": "林俊杰鸟巢横开人传人",
@@ -1073,6 +1105,14 @@
       "onboard_time": 1758201684,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192671,
+      "num": 192671,
+      "word": "731票房一天3亿",
+      "onboard_time": 1758205106,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 192194,
@@ -1243,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170189,
+      "num": 229166,
+      "word": "用拖鞋搅奶茶员工上岗不到1小时",
+      "onboard_time": 1758197963,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169624,
       "num": 169624,
       "word": "蔡依林回应为何长期自律",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1758164661,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 162091,
-      "num": 162091,
-      "word": "用拖鞋搅奶茶员工上岗不到1小时",
-      "onboard_time": 1758197963,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160860,
@@ -1532,7 +1572,7 @@
     },
     {
       "raw_hot": 143699,
-      "num": 136006,
+      "num": 141370,
       "word": "只有健身的才知道她有多厉害",
       "onboard_time": 1758200183,
       "rank": 30,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1758187402,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141989,
+      "num": 141989,
+      "word": "张纪中跟1岁女儿同框像爷孙",
+      "onboard_time": 1758204563,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 141563,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1758187762,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139303,
+      "num": 139303,
+      "word": "什么是蛇缠腰",
+      "onboard_time": 1758204745,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138575,
@@ -1851,20 +1907,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124367,
+      "num": 124367,
+      "word": "王昶巧妙回应记者发难",
+      "onboard_time": 1758205222,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124241,
       "num": 124241,
       "word": "多兰 别送了",
       "onboard_time": 1758186982,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124145,
-      "num": 124145,
-      "word": "美国爆发接吻虫病疫情",
-      "onboard_time": 1758199762,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124079,
@@ -1929,6 +1985,14 @@
       "onboard_time": 1758200424,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120148,
+      "num": 120148,
+      "word": "北京国安vs河内公安",
+      "onboard_time": 1758196824,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119883,
@@ -2083,14 +2147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113491,
-      "num": 113491,
-      "word": "易烊千玺垒石头效应",
-      "onboard_time": 1758202824,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113424,
       "num": 152100,
       "word": "多位中国游客在法国机场高速遭抢劫",
@@ -2203,12 +2259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107171,
+      "num": 107171,
+      "word": "2.8亿大楼成交百万中介费没了",
+      "onboard_time": 1758200902,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106668,
       "num": 106668,
       "word": "喜不喜欢可以通过第一反应看出来",
       "onboard_time": 1758200842,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106654,
+      "num": 106654,
+      "word": "淘淘氧棉护垫 霉点",
+      "onboard_time": 1758204144,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 105657,
@@ -2379,20 +2451,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99345,
+      "num": 99345,
+      "word": "虎牙崩了",
+      "onboard_time": 1758205284,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 99292,
+      "num": 99292,
+      "word": "英特尔涨超27%",
+      "onboard_time": 1758203722,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99280,
       "num": 105385,
       "word": "7天前购买BAT股票可躺赚1台苹果17",
       "onboard_time": 1758196221,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 99211,
-      "num": 99211,
-      "word": "2.8亿大楼成交百万中介费没了",
-      "onboard_time": 1758200902,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97711,
@@ -2499,6 +2579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92232,
+      "num": 92232,
+      "word": "一段剧情播三遍遍遍不一样",
+      "onboard_time": 1758203964,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91227,
       "num": 91227,
       "word": "731票房破2亿",
@@ -2531,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90363,
+      "num": 90363,
+      "word": "赴山海魔典系统在桃厂云包场",
+      "onboard_time": 1758205165,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89793,
       "num": 92094,
       "word": "女子忘拔油枪开车就走拽倒加油机",
@@ -2553,14 +2649,6 @@
       "onboard_time": 1758194903,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84969,
-      "num": 103103,
-      "word": "北京国安vs河内公安",
-      "onboard_time": 1758196824,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 84001,
@@ -2705,6 +2793,14 @@
       "onboard_time": 1758127460,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68778,
+      "num": 1575537,
+      "word": "做光荣自豪的中国人",
+      "onboard_time": 1758201744,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68347,
@@ -2867,14 +2963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47312,
-      "num": 898161,
-      "word": "做光荣自豪的中国人",
-      "onboard_time": 1758201744,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46518,
       "num": 113238,
       "word": "女生留标准短发已执行超20年",
@@ -3009,6 +3097,14 @@
       "onboard_time": 1758138133,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21327,
+      "num": 106708,
+      "word": "能被记住就曾经活过",
+      "onboard_time": 1758204865,
+      "rank": 40,
+      "category": "电影,民生新闻"
     },
     {
       "raw_hot": 19133,
