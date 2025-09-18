@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758234029128,
+  "endTime": 1758235114567,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -5987,6 +5987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196710,
+      "num": 76866,
+      "word": "D4vd车厢藏尸死者失踪时仅13岁",
+      "onboard_time": 1758225494,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 196312,
       "num": 259035,
       "word": "张艺兴直播",
@@ -7345,14 +7353,6 @@
       "onboard_time": 1757862206,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168806,
-      "num": 62534,
-      "word": "D4vd车厢藏尸死者失踪时仅13岁",
-      "onboard_time": 1758225494,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 168768,
@@ -9075,6 +9075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144406,
+      "num": 75544,
+      "word": "王晶爆料温兆伦讨回恋爱花费",
+      "onboard_time": 1758233175,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144321,
       "num": 165612,
       "word": "小鬼 大大方方的",
@@ -9865,6 +9873,14 @@
       "onboard_time": 1758080001,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134563,
+      "num": 134563,
+      "word": "17号台风后18号19号也快了",
+      "onboard_time": 1758210083,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134323,
@@ -12417,14 +12433,6 @@
       "onboard_time": 1758090262,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106409,
-      "num": 106409,
-      "word": "17号台风后18号19号也快了",
-      "onboard_time": 1758210083,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106208,
@@ -15371,14 +15379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55223,
-      "num": 55223,
-      "word": "王晶爆料温兆伦讨回恋爱花费",
-      "onboard_time": 1758233175,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55222,
       "num": 117808,
       "word": "以色列称手机等于一块以色列",
@@ -15971,6 +15971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41043,
+      "num": 77535,
+      "word": "陈佩斯为电影731包场30场",
+      "onboard_time": 1758234436,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40620,
       "num": 758911,
       "word": "2025文化遗产数字化论坛",
@@ -16025,6 +16033,14 @@
       "onboard_time": 1757913802,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39167,
+      "num": 39167,
+      "word": "洗头发时发现了一个悲伤的事实",
+      "onboard_time": 1758234857,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 38432,
@@ -16515,12 +16531,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25700,
+      "num": 29036,
+      "word": "中国人凿通天山经历了什么",
+      "onboard_time": 1758232454,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25463,
       "num": 46255,
       "word": "汪苏泷大转盘比综艺还会整活",
       "onboard_time": 1757788516,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25452,
+      "num": 29031,
+      "word": "校方否认公厕改宿舍承认四蹲便半敞开",
+      "onboard_time": 1758226573,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25414,
@@ -16569,14 +16601,6 @@
       "onboard_time": 1757795114,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24439,
-      "num": 24439,
-      "word": "校方否认公厕改宿舍承认四蹲便半敞开",
-      "onboard_time": 1758226573,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24366,
@@ -16769,14 +16793,6 @@
       "onboard_time": 1757806279,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20713,
-      "num": 23140,
-      "word": "中国人凿通天山经历了什么",
-      "onboard_time": 1758232454,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20661,
