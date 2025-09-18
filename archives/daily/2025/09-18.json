@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758195418366,
+  "endTime": 1758199793809,
   "band_list": [
     {
       "raw_hot": 14538988,
@@ -331,6 +331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 643990,
+      "num": 643990,
+      "word": "731所有日本角色均由日籍演员出演",
+      "onboard_time": 1758193224,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 609397,
       "num": 407051,
       "word": "杭州锁定废弃氢氟酸所有者",
@@ -441,14 +449,6 @@
       "onboard_time": 1758119062,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 475218,
-      "num": 475218,
-      "word": "731所有日本角色均由日籍演员出演",
-      "onboard_time": 1758193224,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 472337,
@@ -651,6 +651,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305376,
+      "num": 215212,
+      "word": "李嘉欣在香港扫货被偶遇",
+      "onboard_time": 1758194662,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294490,
+      "num": 294490,
+      "word": "张子枫马嘉祺合作科幻剧",
+      "onboard_time": 1758197844,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294118,
       "num": 445555,
       "word": "在周深杭州演唱会刮刮乐中了20万",
@@ -819,12 +835,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 215212,
-      "num": 215212,
-      "word": "李嘉欣在香港扫货被偶遇",
-      "onboard_time": 1758194662,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 216889,
+      "num": 217790,
+      "word": "中国美院一月内2次管道爆裂",
+      "onboard_time": 1758195203,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213714,
@@ -963,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193355,
+      "num": 193355,
+      "word": "白敬亭被粤语咬了六集都没好",
+      "onboard_time": 1758198682,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191045,
       "num": 346006,
       "word": "易烊千玺汤唯将合作孔雀",
@@ -1011,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187872,
+      "num": 227367,
+      "word": "731票房",
+      "onboard_time": 1758191362,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186481,
       "num": 186481,
       "word": "必胜客19元橙汁是果粒橙加冰",
       "onboard_time": 1758190761,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185632,
+      "num": 185632,
+      "word": "震耳欲聋",
+      "onboard_time": 1758198622,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 185087,
@@ -1059,6 +1099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178188,
+      "num": 178188,
+      "word": "嘎子哥谢孟伟原为领衔主演",
+      "onboard_time": 1758198384,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175940,
       "num": 175940,
       "word": "原味鸡蛋",
@@ -1091,6 +1139,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 173090,
+      "num": 173090,
+      "word": "全球多地现黄金大盗",
+      "onboard_time": 1758198502,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172660,
       "num": 172660,
       "word": "网购久了不清楚外面的物价了",
@@ -1115,12 +1171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169541,
+      "num": 169541,
+      "word": "不眠日",
+      "onboard_time": 1758110244,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168217,
       "num": 232867,
       "word": "以后的武侠剧都按这个拍",
       "onboard_time": 1758188002,
       "rank": 34,
       "category": "电影,作品衍生"
+    },
+    {
+      "raw_hot": 166614,
+      "num": 166614,
+      "word": "多人因忘关闭自动续费被扣数千元",
+      "onboard_time": 1758198562,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166035,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1758172882,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163590,
+      "num": 163590,
+      "word": "何炅张远朱志鑫 抢麦是个轮回",
+      "onboard_time": 1758199403,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 163229,
@@ -1209,6 +1289,14 @@
       "onboard_time": 1758114502,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156307,
+      "num": 156307,
+      "word": "乌镇偶遇谭松韵张子枫",
+      "onboard_time": 1758197423,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 156251,
@@ -1299,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150220,
+      "num": 150220,
+      "word": "赴山海",
+      "onboard_time": 1758198743,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149416,
       "num": 149416,
       "word": "孙菲菲连续发文控诉前夫",
@@ -1331,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147150,
+      "num": 147150,
+      "word": "用拖鞋搅奶茶员工上岗不到1小时",
+      "onboard_time": 1758197963,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146499,
       "num": 188762,
       "word": "电影731开播首日打破10项纪录",
@@ -1339,12 +1443,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144329,
-      "num": 227367,
-      "word": "731票房",
-      "onboard_time": 1758191362,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 145402,
+      "num": 145402,
+      "word": "孙颖莎回应世乒赛夺冠后落泪",
+      "onboard_time": 1758198083,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 143547,
@@ -1384,6 +1488,14 @@
       "word": "杨丽菁为成毅发声",
       "onboard_time": 1758124643,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140555,
+      "num": 140555,
+      "word": "成毅感慨自己已经打了十年",
+      "onboard_time": 1758198262,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1539,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129186,
+      "num": 129186,
+      "word": "T1官方回应晋级S赛",
+      "onboard_time": 1758196941,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128564,
       "num": 128564,
       "word": "牛在在当着欧豪的面社死了",
@@ -1673,6 +1793,14 @@
       "onboard_time": 1758193582,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119883,
+      "num": 119883,
+      "word": "T1战胜DK",
+      "onboard_time": 1758195743,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 119159,
@@ -1811,6 +1939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113823,
+      "num": 113823,
+      "word": "上海小学540天的冷冻牛肉",
+      "onboard_time": 1758195683,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113424,
       "num": 152100,
       "word": "多位中国游客在法国机场高速遭抢劫",
@@ -1833,6 +1969,14 @@
       "onboard_time": 1758187823,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112611,
+      "num": 112611,
+      "word": "网友评鞠婧祎陈哲远长得像",
+      "onboard_time": 1758196221,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 112600,
@@ -1905,6 +2049,14 @@
       "onboard_time": 1758188362,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105940,
+      "num": 105940,
+      "word": "美国爆发接吻虫病疫情",
+      "onboard_time": 1758199762,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105657,
@@ -2067,12 +2219,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99280,
+      "num": 105385,
+      "word": "7天前购买BAT股票可躺赚1台苹果17",
+      "onboard_time": 1758196221,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97711,
       "num": 196105,
       "word": "美国上半年经济活动增长放缓",
       "onboard_time": 1758151760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97136,
+      "num": 105298,
+      "word": "孙颖莎保持一颗简单的心",
+      "onboard_time": 1758198443,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96267,
@@ -2403,6 +2571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66838,
+      "num": 178264,
+      "word": "官方通报90元酒店房间国庆涨到1000",
+      "onboard_time": 1758198743,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 62894,
       "num": 62894,
       "word": "拜仁3比1切尔西",
@@ -2449,14 +2625,6 @@
       "onboard_time": 1758187343,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 59208,
-      "num": 217790,
-      "word": "中国美院一月内2次管道爆裂",
-      "onboard_time": 1758195203,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58439,
@@ -2507,14 +2675,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 52115,
-      "num": 92041,
-      "word": "不眠日",
-      "onboard_time": 1758110244,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51077,
       "num": 115342,
       "word": "西安一商场用小狮子引流惹争议",
@@ -2555,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41894,
+      "num": 178750,
+      "word": "带视障人士爬泰山的导盲犬被收回",
+      "onboard_time": 1758199222,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37062,
       "num": 123776,
       "word": "保安扔学生外卖保卫处处长被停职",
@@ -2587,12 +2755,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30350,
+      "num": 121071,
+      "word": "关晓彤为了拍摄爬六层高屋顶",
+      "onboard_time": 1758199582,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28460,
       "num": 178807,
       "word": "高质量完成十四五规划",
       "onboard_time": 1758187643,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27144,
+      "num": 150441,
+      "word": "抢婴案受害者称特意戴眼镜看清被告",
+      "onboard_time": 1758198743,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26537,
@@ -2609,6 +2793,14 @@
       "onboard_time": 1758150919,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25287,
+      "num": 123106,
+      "word": "这个世界就是个巨大的TFBOYS",
+      "onboard_time": 1758199582,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 24885,
