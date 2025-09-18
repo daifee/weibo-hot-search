@@ -1,6 +1,6 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758170549864,
+  "endTime": 1758173000968,
   "band_list": [
     {
       "raw_hot": 2870732,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1350110,
+      "num": 716575,
+      "word": "热依扎拍女儿去世戏持续哭了7个小时",
+      "onboard_time": 1758170062,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1314562,
       "num": 1246791,
       "word": "已在工位 消息秒回",
@@ -65,6 +73,14 @@
       "onboard_time": 1758165981,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1166119,
+      "num": 423568,
+      "word": "理解明星为什么和经纪人结婚了",
+      "onboard_time": 1758169822,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1082909,
@@ -155,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 689683,
+      "num": 524399,
+      "word": "D4vd车厢藏尸死者为15岁女孩",
+      "onboard_time": 1758168743,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 682475,
       "num": 419616,
       "word": "短剧第一批受害者出现了",
@@ -171,6 +195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 647802,
+      "num": 647802,
+      "word": "金价狂飙金饰一口价也要涨",
+      "onboard_time": 1758168383,
+      "rank": 23,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 609024,
       "num": 289617,
       "word": "宿舍分娩女生学校曾婉拒妇联帮助",
@@ -185,14 +217,6 @@
       "onboard_time": 1758161844,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 567255,
-      "num": 524399,
-      "word": "D4vd车厢藏尸死者为15岁女孩",
-      "onboard_time": 1758168743,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 560183,
@@ -243,6 +267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 473609,
+      "num": 407051,
+      "word": "杭州锁定废弃氢氟酸所有者",
+      "onboard_time": 1758170303,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472337,
       "num": 472337,
       "word": "九一八历史博物馆鸣警撞钟仪式",
@@ -275,12 +307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 413268,
-      "num": 413268,
-      "word": "金价狂飙金饰一口价也要涨",
-      "onboard_time": 1758168383,
-      "rank": 23,
-      "category": "民生新闻,财经"
+      "raw_hot": 418859,
+      "num": 283208,
+      "word": "龚俊聚餐喝醉被扶出饭店",
+      "onboard_time": 1758170363,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 406652,
@@ -315,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 368762,
+      "num": 368762,
+      "word": "岳雨婷回应演短剧版紫萱被骂",
+      "onboard_time": 1758169342,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366533,
       "num": 356001,
       "word": "关晓彤晒陈都灵送的蛋糕",
@@ -339,14 +379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 342740,
-      "num": 342740,
-      "word": "理解明星为什么和经纪人结婚了",
-      "onboard_time": 1758169822,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335961,
       "num": 335961,
       "word": "教育局回应班主任在教室私装监控",
@@ -361,22 +393,6 @@
       "onboard_time": 1758164421,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311081,
-      "num": 311081,
-      "word": "岳雨婷回应演短剧版紫萱被骂",
-      "onboard_time": 1758169342,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 297126,
-      "num": 297126,
-      "word": "热依扎拍女儿去世戏持续哭了7个小时",
-      "onboard_time": 1758170062,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 294118,
@@ -435,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256881,
+      "num": 256881,
+      "word": "桃黑黑女友自曝是易烊千玺梦女",
+      "onboard_time": 1758171084,
+      "rank": 24,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 251391,
       "num": 251391,
       "word": "以色列和欧洲多国杠上了",
@@ -475,20 +499,20 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 240217,
+      "num": 240217,
+      "word": "景德镇90元酒店房间国庆涨到1000元",
+      "onboard_time": 1758169462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232284,
       "num": 348125,
       "word": "李正虎 演员现场拿着剧本是很正常的",
       "onboard_time": 1758147316,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223483,
-      "num": 223483,
-      "word": "龚俊聚餐喝醉被扶出饭店",
-      "onboard_time": 1758170363,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 221206,
@@ -515,12 +539,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 210865,
-      "num": 210865,
-      "word": "景德镇90元酒店房间国庆涨到1000元",
-      "onboard_time": 1758169462,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 210756,
+      "num": 210756,
+      "word": "苹果承认iPhone17拍照现黑色方块",
+      "onboard_time": 1758166223,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 210707,
@@ -547,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206919,
-      "num": 206919,
-      "word": "苹果承认iPhone17拍照现黑色方块",
-      "onboard_time": 1758166223,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 204471,
       "num": 213457,
       "word": "分别多年后闺蜜成了大明星",
@@ -577,6 +593,14 @@
       "onboard_time": 1758107243,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192447,
+      "num": 192447,
+      "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
+      "onboard_time": 1758169703,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191045,
@@ -667,12 +691,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 159168,
-      "num": 159168,
-      "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
-      "onboard_time": 1758169703,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 160442,
+      "num": 160442,
+      "word": "肖战的声线怎么会区别这么大",
+      "onboard_time": 1758168623,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 158819,
@@ -707,6 +731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153396,
+      "num": 153396,
+      "word": "第一次想跟陌生人争夺抚养权",
+      "onboard_time": 1758172162,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 153333,
+      "num": 153333,
+      "word": "小黄豆给热巴整成妙脆角了",
+      "onboard_time": 1758169944,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153090,
       "num": 153090,
       "word": "希腊航运巨头28岁女继承人去世",
@@ -715,12 +755,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152099,
+      "num": 152099,
+      "word": "贝果 打工人的完美主食",
+      "onboard_time": 1758170724,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150240,
       "num": 150240,
       "word": "我的猫比我先去迪士尼了",
       "onboard_time": 1758167121,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149416,
+      "num": 149416,
+      "word": "孙菲菲连续发文控诉前夫",
+      "onboard_time": 1758170903,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 147900,
@@ -747,20 +803,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146499,
+      "num": 188762,
+      "word": "电影731开播首日打破10项纪录",
+      "onboard_time": 1758172342,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143547,
       "num": 143547,
       "word": "苹果承诺修复iPhone17拍照黑色方块",
       "onboard_time": 1758160461,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 143242,
-      "num": 143242,
-      "word": "肖战的声线怎么会区别这么大",
-      "onboard_time": 1758168623,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 141563,
@@ -777,6 +833,14 @@
       "onboard_time": 1758124643,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139430,
+      "num": 139430,
+      "word": "果切老板们一定不要这样好吗",
+      "onboard_time": 1758172882,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 138575,
@@ -803,6 +867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135912,
+      "num": 135912,
+      "word": "网购久了不清楚外面的物价了",
+      "onboard_time": 1758172941,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135553,
       "num": 135553,
       "word": "美国鸡毛秀停播",
@@ -811,12 +883,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135092,
+      "num": 135092,
+      "word": "这些面包吃多了有哪些危害",
+      "onboard_time": 1758170484,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 134949,
       "num": 134949,
       "word": "警服是执法权威的象征不是流量道具",
       "onboard_time": 1758153200,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133808,
+      "num": 133808,
+      "word": "董军说随时准备挫败外部武力干涉",
+      "onboard_time": 1758171624,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133438,
@@ -891,28 +979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125552,
-      "num": 125552,
-      "word": "这些面包吃多了有哪些危害",
-      "onboard_time": 1758170484,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 124933,
       "num": 124933,
       "word": "华为明年Q1推出950PR芯片",
       "onboard_time": 1758169162,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 123173,
-      "num": 123173,
-      "word": "小黄豆给热巴整成妙脆角了",
-      "onboard_time": 1758169944,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 122467,
@@ -1147,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83296,
+      "num": 152100,
+      "word": "多位中国游客在法国机场高速遭抢劫",
+      "onboard_time": 1758172222,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 81897,
       "num": 92138,
       "word": "太二酸菜鱼不同门店用不同鱼",
@@ -1259,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67864,
+      "num": 283501,
+      "word": "警惕工作中的鞭打快牛现象",
+      "onboard_time": 1758172523,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66991,
       "num": 66991,
       "word": "03年初中老师小孩装大人实录",
@@ -1329,14 +1417,6 @@
       "onboard_time": 1758151279,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53731,
-      "num": 212734,
-      "word": "杭州锁定废弃氢氟酸所有者",
-      "onboard_time": 1758170303,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52590,

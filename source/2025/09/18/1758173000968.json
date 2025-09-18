@@ -1,0 +1,410 @@
+{
+  "runTime": 1758173000968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1847030,
+        "num": 1847030,
+        "word": "731",
+        "onboard_time": 1758152660,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1285471,
+        "num": 1285471,
+        "word": "外交部回应韩娱重返中国",
+        "onboard_time": 1758167902,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10735,
+        "num": 743580,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758114924,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1350110,
+        "num": 716575,
+        "word": "热依扎拍女儿去世戏持续哭了7个小时",
+        "onboard_time": 1758170062,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647802,
+        "num": 647802,
+        "word": "金价狂飙金饰一口价也要涨",
+        "onboard_time": 1758168383,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 574450,
+        "num": 574450,
+        "word": "小米SU7出租车司机被同行举报",
+        "onboard_time": 1758166522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819406,
+        "num": 557262,
+        "word": "731影评",
+        "onboard_time": 1758165981,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 514257,
+        "num": 514257,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 513520,
+        "num": 513520,
+        "word": "中国发出世界首份反法西斯檄文",
+        "onboard_time": 1758168562,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 427949,
+        "num": 427949,
+        "word": "蜜雪冰城回应柠檬水断货",
+        "onboard_time": 1758164841,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1166119,
+        "num": 423568,
+        "word": "理解明星为什么和经纪人结婚了",
+        "onboard_time": 1758169822,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775024,
+        "num": 417442,
+        "word": "这姐妹生了个教材",
+        "onboard_time": 1758166882,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 689683,
+        "num": 416651,
+        "word": "D4vd车厢藏尸死者为15岁女孩",
+        "onboard_time": 1758168743,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 473609,
+        "num": 407051,
+        "word": "杭州锁定废弃氢氟酸所有者",
+        "onboard_time": 1758170303,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406618,
+        "num": 406618,
+        "word": "中年男性开始频繁出去跑步说明了什么",
+        "onboard_time": 1758167841,
+        "rank": 14,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 384168,
+        "num": 384168,
+        "word": "731观后感",
+        "onboard_time": 1758167722,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368762,
+        "num": 368762,
+        "word": "岳雨婷回应演短剧版紫萱被骂",
+        "onboard_time": 1758169342,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358618,
+        "num": 358618,
+        "word": "建议大家不定期查看银行账单",
+        "onboard_time": 1758159682,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302641,
+        "num": 302641,
+        "word": "小黄豆和迪丽热巴道歉",
+        "onboard_time": 1758151701,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67864,
+        "num": 283501,
+        "word": "警惕工作中的鞭打快牛现象",
+        "onboard_time": 1758172523,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418859,
+        "num": 283208,
+        "word": "龚俊聚餐喝醉被扶出饭店",
+        "onboard_time": 1758170363,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412035,
+        "num": 283045,
+        "word": "宿舍分娩女生学校曾婉拒妇联帮助",
+        "onboard_time": 1758165681,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274510,
+        "num": 274510,
+        "word": "已在工位 消息秒回",
+        "onboard_time": 1758159440,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272533,
+        "num": 272533,
+        "word": "孙菲菲说前夫不准她提年龄差15岁",
+        "onboard_time": 1758162082,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256881,
+        "num": 256881,
+        "word": "桃黑黑女友自曝是易烊千玺梦女",
+        "onboard_time": 1758171084,
+        "rank": 24,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 240217,
+        "num": 240217,
+        "word": "景德镇90元酒店房间国庆涨到1000元",
+        "onboard_time": 1758169462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210756,
+        "num": 210756,
+        "word": "苹果承认iPhone17拍照现黑色方块",
+        "onboard_time": 1758166223,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192447,
+        "num": 192447,
+        "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
+        "onboard_time": 1758169703,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191341,
+        "num": 191341,
+        "word": "分别多年后闺蜜成了大明星",
+        "onboard_time": 1758170243,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146499,
+        "num": 188762,
+        "word": "电影731开播首日打破10项纪录",
+        "onboard_time": 1758172342,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187589,
+        "num": 187589,
+        "word": "iPhone17跟16Pro怎么选",
+        "onboard_time": 1758167542,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185966,
+        "num": 185966,
+        "word": "918鸣笛",
+        "onboard_time": 1758159440,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178070,
+        "num": 178070,
+        "word": "特朗普访英被指无视王室礼仪",
+        "onboard_time": 1758161844,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172197,
+        "num": 172197,
+        "word": "沙特与巴基斯坦签署共同防御协议",
+        "onboard_time": 1758162921,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160442,
+        "num": 160442,
+        "word": "肖战的声线怎么会区别这么大",
+        "onboard_time": 1758168623,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157213,
+        "num": 157213,
+        "word": "能把虾剥的最干净的方法",
+        "onboard_time": 1758167241,
+        "rank": 35,
+        "category": "科学科普,美食"
+      },
+      {
+        "raw_hot": 153396,
+        "num": 153396,
+        "word": "第一次想跟陌生人争夺抚养权",
+        "onboard_time": 1758172162,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153333,
+        "num": 153333,
+        "word": "小黄豆给热巴整成妙脆角了",
+        "onboard_time": 1758169944,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152847,
+        "num": 152847,
+        "word": "金价",
+        "onboard_time": 1758156142,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83296,
+        "num": 152100,
+        "word": "多位中国游客在法国机场高速遭抢劫",
+        "onboard_time": 1758172222,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152099,
+        "num": 152099,
+        "word": "贝果 打工人的完美主食",
+        "onboard_time": 1758170724,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140516,
+        "num": 149706,
+        "word": "勿忘九一八",
+        "onboard_time": 1758154401,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149416,
+        "num": 149416,
+        "word": "孙菲菲连续发文控诉前夫",
+        "onboard_time": 1758170903,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140942,
+        "num": 140942,
+        "word": "桃黑黑女主党",
+        "onboard_time": 1758159022,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 139430,
+        "num": 139430,
+        "word": "果切老板们一定不要这样好吗",
+        "onboard_time": 1758172882,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135912,
+        "num": 135912,
+        "word": "网购久了不清楚外面的物价了",
+        "onboard_time": 1758172941,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135092,
+        "num": 135092,
+        "word": "这些面包吃多了有哪些危害",
+        "onboard_time": 1758170484,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133852,
+        "num": 133852,
+        "word": "秦岚下车这幕美的太权威",
+        "onboard_time": 1758164421,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133808,
+        "num": 133808,
+        "word": "董军说随时准备挫败外部武力干涉",
+        "onboard_time": 1758171624,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99784,
+        "num": 133398,
+        "word": "在周深杭州演唱会刮刮乐中了20万",
+        "onboard_time": 1758157462,
+        "rank": 49,
+        "category": "演出,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族伟大复兴势不可挡#"
+    }
+  }
+}
