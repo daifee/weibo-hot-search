@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758185147879,
+  "endTime": 1758187650711,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2211,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1265558,
+      "num": 264618,
+      "word": "蔡依林自曝患蛇缠腰后才早睡",
+      "onboard_time": 1758184524,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1262575,
       "num": 1262575,
       "word": "女子点绿茶餐厅外卖被贴装货",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1756686620,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1180653,
+      "num": 253015,
+      "word": "官方通报女子误触氢氟酸身亡",
+      "onboard_time": 1758186083,
+      "rank": 11,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1180616,
@@ -3625,6 +3641,14 @@
       "onboard_time": 1757999123,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 903033,
+      "num": 247965,
+      "word": "氢氟酸涉案人员已被控制",
+      "onboard_time": 1758186083,
+      "rank": 12,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 902583,
@@ -6073,6 +6097,14 @@
       "onboard_time": 1758002723,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 633419,
+      "num": 633419,
+      "word": "原来iPhone天气这么好用",
+      "onboard_time": 1758184583,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 632434,
@@ -9577,14 +9609,6 @@
       "onboard_time": 1756799421,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 438661,
-      "num": 264618,
-      "word": "蔡依林自曝患蛇缠腰后才早睡",
-      "onboard_time": 1758184524,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 438557,
@@ -15275,6 +15299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 266099,
+      "num": 266099,
+      "word": "孕妇泰国坠崖案女子全身100多钢钉",
+      "onboard_time": 1758186444,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265934,
       "num": 265934,
       "word": "秦皇岛动物园遇猛虎惊魂实录",
@@ -15657,14 +15689,6 @@
       "onboard_time": 1757852303,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256639,
-      "num": 256639,
-      "word": "原来iPhone天气这么好用",
-      "onboard_time": 1758184583,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 256624,
@@ -16476,7 +16500,7 @@
     },
     {
       "raw_hot": 240721,
-      "num": 155343,
+      "num": 176759,
       "word": "什么叫裁员裁到大动脉",
       "onboard_time": 1758185064,
       "rank": 30,
@@ -17481,6 +17505,14 @@
       "onboard_time": 1758017302,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225676,
+      "num": 225676,
+      "word": "T1对战DK",
+      "onboard_time": 1757495242,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 225440,
@@ -19329,14 +19361,6 @@
       "onboard_time": 1757309062,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203721,
-      "num": 203721,
-      "word": "T1对战DK",
-      "onboard_time": 1757495242,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 203623,
@@ -21713,6 +21737,14 @@
       "onboard_time": 1758082825,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189845,
+      "num": 189845,
+      "word": "医学生看731后嘴角颤抖受访",
+      "onboard_time": 1758184342,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 189798,
@@ -24147,6 +24179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173367,
+      "num": 173367,
+      "word": "原味鸡蛋",
+      "onboard_time": 1758183023,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173362,
       "num": 173362,
       "word": "不得不说这是韩国奇耻大辱",
@@ -24945,6 +24985,14 @@
       "onboard_time": 1757927003,
       "rank": 25,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 169053,
+      "num": 169053,
+      "word": "四个TFBOYS和一个By2能胡牌",
+      "onboard_time": 1758184342,
+      "rank": 28,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 168981,
@@ -27267,14 +27315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158236,
-      "num": 158236,
-      "word": "四个TFBOYS和一个By2能胡牌",
-      "onboard_time": 1758184342,
-      "rank": 28,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 158224,
       "num": 158224,
       "word": "马克龙威胁俄罗斯",
@@ -27873,6 +27913,14 @@
       "onboard_time": 1758090683,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155190,
+      "num": 155190,
+      "word": "LCK",
+      "onboard_time": 1757510244,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 155175,
@@ -33435,6 +33483,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 134323,
+      "num": 134323,
+      "word": "杜海涛沈梦辰成连体婴",
+      "onboard_time": 1758186083,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134273,
       "num": 196600,
       "word": "开学季同学们共同唱响不屈",
@@ -33521,6 +33577,14 @@
       "onboard_time": 1757849183,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133933,
+      "num": 133933,
+      "word": "文咏珊两年前疯到我两年后钓到我",
+      "onboard_time": 1758187402,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 133855,
@@ -33785,14 +33849,6 @@
       "onboard_time": 1757601696,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 133030,
-      "num": 133030,
-      "word": "原味鸡蛋",
-      "onboard_time": 1758183023,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 133017,
@@ -34763,6 +34819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129604,
+      "num": 129604,
+      "word": "小猫对洗澡时人的小失误表示不满",
+      "onboard_time": 1758187164,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129599,
       "num": 129599,
       "word": "狼队小胖电竞圈英语FMVP",
@@ -35659,6 +35723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126758,
+      "num": 161098,
+      "word": "张小婉紧急撤回眼泪",
+      "onboard_time": 1758186982,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126680,
       "num": 126680,
       "word": "蔡文静瘦成纸片人是进组信号吧",
@@ -36441,6 +36513,14 @@
       "onboard_time": 1756890442,
       "rank": 47,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 124241,
+      "num": 124241,
+      "word": "多兰 别送了",
+      "onboard_time": 1758186982,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 124223,
@@ -37649,6 +37729,14 @@
       "onboard_time": 1757827702,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120112,
+      "num": 120112,
+      "word": "月薪9800在养老院的一天",
+      "onboard_time": 1758186623,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 120058,
@@ -40755,6 +40843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110087,
+      "num": 133958,
+      "word": "王毅向韩外长讲述司机舍命救韩游客",
+      "onboard_time": 1758185542,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110084,
       "num": 110084,
       "word": "麻家铭余心恬结婚",
@@ -41649,6 +41745,14 @@
       "onboard_time": 1756773621,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107359,
+      "num": 107359,
+      "word": "你就当把毕业证卖给我了行吗",
+      "onboard_time": 1758187584,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 107314,
@@ -42675,6 +42779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103863,
+      "num": 103863,
+      "word": "台湾人被东北菜量震惊",
+      "onboard_time": 1758187282,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103831,
       "num": 119084,
       "word": "中国驻日大使馆用日语介绍东风5C",
@@ -43177,14 +43289,6 @@
       "onboard_time": 1758181401,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102347,
-      "num": 102347,
-      "word": "LCK",
-      "onboard_time": 1757510244,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 102322,
@@ -44227,14 +44331,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98837,
-      "num": 98837,
-      "word": "医学生看731后嘴角颤抖受访",
-      "onboard_time": 1758184342,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 98808,
       "num": 105732,
       "word": "LPL最佳阵容投票",
@@ -45001,6 +45097,14 @@
       "onboard_time": 1757483845,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96267,
+      "num": 96267,
+      "word": "香港黄金大劫案十余名涉案男子在逃",
+      "onboard_time": 1758186383,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96266,
@@ -50203,6 +50307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 68140,
+      "num": 125996,
+      "word": "Faker对决ShowMaker海报",
+      "onboard_time": 1758186383,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68064,
       "num": 298254,
       "word": "享界S9T售价30万起6万限时权益",
@@ -51353,6 +51465,14 @@
       "onboard_time": 1757682505,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59659,
+      "num": 125978,
+      "word": "智能汽车强制性国标终于要落地了",
+      "onboard_time": 1758187343,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 59649,
@@ -54225,6 +54345,14 @@
       "onboard_time": 1757676563,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 37242,
+      "num": 263894,
+      "word": "日本议员呼吁政府承认731罪行",
+      "onboard_time": 1758186804,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37231,
@@ -57459,6 +57587,9 @@
     },
     {
       "word": "#中华民族伟大复兴势不可挡#"
+    },
+    {
+      "word": "#以史为鉴才能避免重蹈覆辙#"
     }
   ]
 }

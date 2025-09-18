@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758185147879,
+  "endTime": 1758187650711,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1265558,
+      "num": 264618,
+      "word": "蔡依林自曝患蛇缠腰后才早睡",
+      "onboard_time": 1758184524,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1247884,
       "num": 1247884,
       "word": "太二酸菜鱼下单到上鱼仅6分钟",
@@ -601,6 +609,14 @@
       "onboard_time": 1757984063,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1180653,
+      "num": 253015,
+      "word": "官方通报女子误触氢氟酸身亡",
+      "onboard_time": 1758186083,
+      "rank": 11,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1180616,
@@ -985,6 +1001,14 @@
       "onboard_time": 1757999123,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 903033,
+      "num": 247965,
+      "word": "氢氟酸涉案人员已被控制",
+      "onboard_time": 1758186083,
+      "rank": 12,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 901542,
@@ -1641,6 +1665,14 @@
       "onboard_time": 1758002723,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 633419,
+      "num": 633419,
+      "word": "原来iPhone天气这么好用",
+      "onboard_time": 1758184583,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 627574,
@@ -2593,14 +2625,6 @@
       "onboard_time": 1757830403,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 438661,
-      "num": 264618,
-      "word": "蔡依林自曝患蛇缠腰后才早睡",
-      "onboard_time": 1758184524,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 436251,
@@ -4099,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266099,
+      "num": 266099,
+      "word": "孕妇泰国坠崖案女子全身100多钢钉",
+      "onboard_time": 1758186444,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265575,
       "num": 265575,
       "word": "卖房救重病男友发现他没病还已婚",
@@ -4273,14 +4305,6 @@
       "onboard_time": 1757852303,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256639,
-      "num": 256639,
-      "word": "原来iPhone天气这么好用",
-      "onboard_time": 1758184583,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 256184,
@@ -4532,7 +4556,7 @@
     },
     {
       "raw_hot": 240721,
-      "num": 155343,
+      "num": 176759,
       "word": "什么叫裁员裁到大动脉",
       "onboard_time": 1758185064,
       "rank": 30,
@@ -4801,6 +4825,14 @@
       "onboard_time": 1758017302,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225676,
+      "num": 225676,
+      "word": "T1对战DK",
+      "onboard_time": 1758184403,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 224803,
@@ -5353,14 +5385,6 @@
       "onboard_time": 1758108263,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203721,
-      "num": 203721,
-      "word": "T1对战DK",
-      "onboard_time": 1758184403,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 203623,
@@ -6027,6 +6051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189845,
+      "num": 189845,
+      "word": "医学生看731后嘴角颤抖受访",
+      "onboard_time": 1758184342,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189365,
       "num": 189365,
       "word": "55岁阿姨健身20年的真实状态",
@@ -6675,6 +6707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173367,
+      "num": 173367,
+      "word": "原味鸡蛋",
+      "onboard_time": 1758183023,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173344,
       "num": 173344,
       "word": "12306回应卧铺乘客打伞遮隐私",
@@ -6873,6 +6913,14 @@
       "onboard_time": 1757927003,
       "rank": 25,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 169053,
+      "num": 169053,
+      "word": "四个TFBOYS和一个By2能胡牌",
+      "onboard_time": 1758184342,
+      "rank": 28,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 168981,
@@ -7603,14 +7651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158236,
-      "num": 158236,
-      "word": "四个TFBOYS和一个By2能胡牌",
-      "onboard_time": 1758184342,
-      "rank": 28,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 158094,
       "num": 158094,
       "word": "泽连斯基说所有国家别考虑自己了",
@@ -7793,6 +7833,14 @@
       "onboard_time": 1758090683,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155190,
+      "num": 155190,
+      "word": "LCK",
+      "onboard_time": 1758187282,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 154915,
@@ -9251,6 +9299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134323,
+      "num": 134323,
+      "word": "杜海涛沈梦辰成连体婴",
+      "onboard_time": 1758186083,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134254,
       "num": 134254,
       "word": "孙颖莎王楚钦夺冠接连发文",
@@ -9273,6 +9329,14 @@
       "onboard_time": 1757849183,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133933,
+      "num": 133933,
+      "word": "文咏珊两年前疯到我两年后钓到我",
+      "onboard_time": 1758187402,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 133808,
@@ -9369,14 +9433,6 @@
       "onboard_time": 1758067705,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133030,
-      "num": 133030,
-      "word": "原味鸡蛋",
-      "onboard_time": 1758183023,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 133017,
@@ -9627,6 +9683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129604,
+      "num": 129604,
+      "word": "小猫对洗澡时人的小失误表示不满",
+      "onboard_time": 1758187164,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129483,
       "num": 161824,
       "word": "短剧版仙剑三开机",
@@ -9835,6 +9899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126758,
+      "num": 161098,
+      "word": "张小婉紧急撤回眼泪",
+      "onboard_time": 1758186982,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126662,
       "num": 126662,
       "word": "你的好骗程度到几级",
@@ -10033,6 +10105,14 @@
       "onboard_time": 1757781321,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124241,
+      "num": 124241,
+      "word": "多兰 别送了",
+      "onboard_time": 1758186982,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 124095,
@@ -10377,6 +10457,14 @@
       "onboard_time": 1757827702,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120112,
+      "num": 120112,
+      "word": "月薪9800在养老院的一天",
+      "onboard_time": 1758186623,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 119881,
@@ -11147,6 +11235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110087,
+      "num": 133958,
+      "word": "王毅向韩外长讲述司机舍命救韩游客",
+      "onboard_time": 1758185542,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110084,
       "num": 110084,
       "word": "麻家铭余心恬结婚",
@@ -11361,6 +11457,14 @@
       "onboard_time": 1757924062,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107359,
+      "num": 107359,
+      "word": "你就当把毕业证卖给我了行吗",
+      "onboard_time": 1758187584,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 107278,
@@ -11609,6 +11713,14 @@
       "onboard_time": 1757987902,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103863,
+      "num": 103863,
+      "word": "台湾人被东北菜量震惊",
+      "onboard_time": 1758187282,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 103660,
@@ -12131,14 +12243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 98837,
-      "num": 98837,
-      "word": "医学生看731后嘴角颤抖受访",
-      "onboard_time": 1758184342,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 98678,
       "num": 98678,
       "word": "周三其实是最会装的",
@@ -12329,6 +12433,14 @@
       "onboard_time": 1758117565,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 96267,
+      "num": 96267,
+      "word": "香港黄金大劫案十余名涉案男子在逃",
+      "onboard_time": 1758186383,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96239,
@@ -13643,6 +13755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 68140,
+      "num": 125996,
+      "word": "Faker对决ShowMaker海报",
+      "onboard_time": 1758186383,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68064,
       "num": 298254,
       "word": "享界S9T售价30万起6万限时权益",
@@ -13905,6 +14025,14 @@
       "onboard_time": 1757948545,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59659,
+      "num": 125978,
+      "word": "智能汽车强制性国标终于要落地了",
+      "onboard_time": 1758187343,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 59586,
@@ -14721,6 +14849,14 @@
       "onboard_time": 1757822663,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 37242,
+      "num": 263894,
+      "word": "日本议员呼吁政府承认731罪行",
+      "onboard_time": 1758186804,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37175,
@@ -15668,6 +15804,9 @@
     },
     {
       "word": "#中华民族伟大复兴势不可挡#"
+    },
+    {
+      "word": "#以史为鉴才能避免重蹈覆辙#"
     }
   ]
 }
