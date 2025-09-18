@@ -1,7 +1,15 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758166674398,
+  "endTime": 1758167265097,
   "band_list": [
+    {
+      "raw_hot": 2729824,
+      "num": 2729824,
+      "word": "731",
+      "onboard_time": 1758152660,
+      "rank": 1,
+      "category": "电影"
+    },
     {
       "raw_hot": 2581000,
       "num": 2662000,
@@ -9,14 +17,6 @@
       "onboard_time": 1758125542,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2554956,
-      "num": 2554956,
-      "word": "731",
-      "onboard_time": 1758152660,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1619594,
@@ -75,6 +75,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 838677,
+      "num": 838677,
+      "word": "731影评",
+      "onboard_time": 1758165981,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 795743,
       "num": 434807,
       "word": "小黄豆和迪丽热巴道歉",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 750034,
-      "num": 447764,
+      "num": 475865,
       "word": "孙菲菲说前夫不准她提年龄差15岁",
       "onboard_time": 1758162082,
       "rank": 14,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 690597,
+      "num": 690597,
+      "word": "蜜雪冰城回应柠檬水断货",
+      "onboard_time": 1758164841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 682475,
       "num": 419616,
       "word": "短剧第一批受害者出现了",
@@ -129,6 +145,14 @@
       "onboard_time": 1758119906,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 580652,
+      "num": 580652,
+      "word": "特朗普访英被指无视王室礼仪",
+      "onboard_time": 1758161844,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 533594,
@@ -163,11 +187,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 495931,
-      "num": 495931,
-      "word": "蜜雪冰城回应柠檬水断货",
-      "onboard_time": 1758164841,
-      "rank": 36,
+      "raw_hot": 475585,
+      "num": 231806,
+      "word": "宿舍分娩女生学校曾婉拒妇联帮助",
+      "onboard_time": 1758165681,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -187,14 +211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 464789,
-      "num": 464789,
-      "word": "特朗普访英被指无视王室礼仪",
-      "onboard_time": 1758161844,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 432108,
       "num": 295443,
       "word": "程潇的房子塌了",
@@ -209,14 +225,6 @@
       "onboard_time": 1758128777,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 405715,
-      "num": 466354,
-      "word": "731影评",
-      "onboard_time": 1758165981,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 402694,
@@ -299,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269172,
+      "num": 269172,
+      "word": "小米SU7出租车司机被同行举报",
+      "onboard_time": 1758166522,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268584,
+      "num": 268584,
+      "word": "日本跳海救人男子上月刚做手术",
+      "onboard_time": 1758163162,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267378,
       "num": 267378,
       "word": "小朋友误把黄头发认成小狗",
@@ -315,6 +339,14 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 259000,
+      "num": 259000,
+      "word": "731票房已超1.36亿",
+      "onboard_time": 1758164302,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258225,
       "num": 258225,
       "word": "勿忘国耻警世钟今日撞响",
@@ -323,28 +355,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254360,
-      "num": 254360,
-      "word": "日本跳海救人男子上月刚做手术",
-      "onboard_time": 1758163162,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251391,
       "num": 251391,
       "word": "以色列和欧洲多国杠上了",
       "onboard_time": 1758150319,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 249384,
-      "num": 231806,
-      "word": "宿舍分娩女生学校曾婉拒妇联帮助",
-      "onboard_time": 1758165681,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246761,
@@ -361,14 +377,6 @@
       "onboard_time": 1758124343,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 244091,
-      "num": 244091,
-      "word": "731票房已超1.36亿",
-      "onboard_time": 1758164302,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 244010,
@@ -433,6 +441,14 @@
       "onboard_time": 1758123144,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200945,
+      "num": 163398,
+      "word": "这姐妹生了个教材",
+      "onboard_time": 1758166882,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 200234,
@@ -611,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139035,
-      "num": 139035,
-      "word": "小米SU7出租车司机被同行举报",
-      "onboard_time": 1758166522,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138575,
       "num": 138575,
       "word": "沈阳14声警世钟",
@@ -643,20 +651,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135138,
+      "num": 135138,
+      "word": "美国鸡毛秀停播",
+      "onboard_time": 1758166101,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134949,
       "num": 134949,
       "word": "警服是执法权威的象征不是流量道具",
       "onboard_time": 1758153200,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134007,
-      "num": 134007,
-      "word": "美国鸡毛秀停播",
-      "onboard_time": 1758166101,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133438,
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125485,
+      "num": 125485,
+      "word": "我的猫比我先去迪士尼了",
+      "onboard_time": 1758167121,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122467,
       "num": 122467,
       "word": "匹克董事长回应全员降薪",
@@ -755,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118734,
+      "num": 118734,
+      "word": "爸爸给儿子理发忘装卡尺秒变地中海",
+      "onboard_time": 1758167121,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117934,
       "num": 117934,
       "word": "黄金突破3700美元",
@@ -763,20 +787,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117711,
+      "num": 117711,
+      "word": "不然回应弃养布偶猫",
+      "onboard_time": 1758165920,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117282,
       "num": 117282,
       "word": "美联储年内预计再降息2次",
       "onboard_time": 1758150560,
       "rank": 30,
       "category": "财经,国际时政"
-    },
-    {
-      "raw_hot": 116744,
-      "num": 116744,
-      "word": "不然回应弃养布偶猫",
-      "onboard_time": 1758165920,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 115463,
@@ -809,6 +833,14 @@
       "onboard_time": 1758111502,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113420,
+      "num": 113420,
+      "word": "能把虾剥的最干净的方法",
+      "onboard_time": 1758167241,
+      "rank": 47,
+      "category": "科学科普,美食"
     },
     {
       "raw_hot": 113300,
@@ -1163,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37062,
+      "num": 123776,
+      "word": "保安扔学生外卖保卫处处长被停职",
+      "onboard_time": 1758166641,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31673,
       "num": 31004,
       "word": "铭记历史缅怀英烈",
@@ -1203,6 +1243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 24885,
+      "num": 125666,
+      "word": "以色列财长竟笑谈战后如何瓜分加沙",
+      "onboard_time": 1758166942,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22297,
       "num": 1750309,
       "word": "翱翔长空",
@@ -1235,20 +1283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15608,
-      "num": 875110,
+      "raw_hot": 16637,
+      "num": 904318,
       "word": "砥砺奋进七十载天山南北谱华章",
       "onboard_time": 1758114924,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13070,
-      "num": 123776,
-      "word": "保安扔学生外卖保卫处处长被停职",
-      "onboard_time": 1758166641,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11599,
