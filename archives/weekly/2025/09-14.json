@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758200669283,
+  "endTime": 1758202361918,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -1643,20 +1643,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 649108,
+      "num": 649108,
+      "word": "731所有日本角色均由日籍演员出演",
+      "onboard_time": 1758193224,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 646887,
       "num": 273653,
       "word": "简历唯独不可以是pdf",
       "onboard_time": 1758082284,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 643990,
-      "num": 643990,
-      "word": "731所有日本角色均由日籍演员出演",
-      "onboard_time": 1758193224,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 643929,
@@ -1979,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552821,
+      "num": 552821,
+      "word": "香港失窃黄金已全数追回",
+      "onboard_time": 1758201324,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 546699,
       "num": 546699,
       "word": "手部出现的3种癌症预警信号",
@@ -2121,6 +2129,14 @@
       "onboard_time": 1757821402,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 529455,
+      "num": 238645,
+      "word": "比伯海莉结婚未公开旧照",
+      "onboard_time": 1758200783,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 528786,
@@ -2393,6 +2409,14 @@
       "onboard_time": 1758072684,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488531,
+      "num": 488531,
+      "word": "多人因忘关闭自动续费被扣数千元",
+      "onboard_time": 1758198562,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486960,
@@ -3452,7 +3476,7 @@
     },
     {
       "raw_hot": 349196,
-      "num": 215212,
+      "num": 225115,
       "word": "李嘉欣在香港扫货被偶遇",
       "onboard_time": 1758194662,
       "rank": 23,
@@ -3649,6 +3673,14 @@
       "onboard_time": 1757828363,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323807,
+      "num": 230512,
+      "word": "李乃文助理把车票日期买错了",
+      "onboard_time": 1758202045,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 323171,
@@ -4155,6 +4187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 272619,
+      "num": 272619,
+      "word": "全球多地现黄金大盗",
+      "onboard_time": 1758198502,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 272547,
       "num": 272547,
       "word": "男子飞机上想起家中忘关火求助机长",
@@ -4483,28 +4523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 251244,
-      "num": 251244,
-      "word": "全球多地现黄金大盗",
-      "onboard_time": 1758198502,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 251126,
       "num": 209575,
       "word": "王楚钦男单争冠",
       "onboard_time": 1757809461,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251099,
-      "num": 251099,
-      "word": "多人因忘关闭自动续费被扣数千元",
-      "onboard_time": 1758198562,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250922,
@@ -4561,6 +4585,14 @@
       "onboard_time": 1757929102,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246375,
+      "num": 246375,
+      "word": "嘎子哥谢孟伟原为领衔主演",
+      "onboard_time": 1758198384,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 246026,
@@ -4993,14 +5025,6 @@
       "onboard_time": 1758023242,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222224,
-      "num": 222224,
-      "word": "嘎子哥谢孟伟原为领衔主演",
-      "onboard_time": 1758198384,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 221996,
@@ -5915,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194375,
+      "num": 151955,
+      "word": "这位妈妈一辈子都走不出来了",
+      "onboard_time": 1758200842,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194267,
       "num": 192297,
       "word": "第一批看731观众发声",
@@ -6049,6 +6081,14 @@
       "onboard_time": 1757909423,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192818,
+      "num": 192818,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1758201684,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192803,
@@ -6979,6 +7019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172453,
+      "num": 172453,
+      "word": "林俊杰鸟巢横开人传人",
+      "onboard_time": 1758201923,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172196,
       "num": 172196,
       "word": "孙颖莎王曼昱惺惺相惜",
@@ -7563,6 +7611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162091,
+      "num": 162091,
+      "word": "用拖鞋搅奶茶员工上岗不到1小时",
+      "onboard_time": 1758197963,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161929,
       "num": 161929,
       "word": "ame",
@@ -7955,14 +8011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157109,
-      "num": 157109,
-      "word": "用拖鞋搅奶茶员工上岗不到1小时",
-      "onboard_time": 1758197963,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156662,
       "num": 156662,
       "word": "孙颖莎澳门夺冠发博",
@@ -8057,6 +8105,14 @@
       "onboard_time": 1758010404,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155376,
+      "num": 155376,
+      "word": "蔡徐坤皱眉这一下",
+      "onboard_time": 1758201982,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 155346,
@@ -8691,6 +8747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145879,
+      "num": 131196,
+      "word": "关晓彤为了拍摄爬六层高屋顶",
+      "onboard_time": 1758199582,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145649,
       "num": 170437,
       "word": "王鹤润青衣预备役",
@@ -8785,6 +8849,14 @@
       "onboard_time": 1757849364,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144613,
+      "num": 144613,
+      "word": "震耳欲聋定档预告",
+      "onboard_time": 1758200483,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 144586,
@@ -9835,14 +9907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131277,
-      "num": 131277,
-      "word": "震耳欲聋定档预告",
-      "onboard_time": 1758200483,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131272,
       "num": 149902,
       "word": "辛芷蕾的光影度假日记",
@@ -10153,14 +10217,6 @@
       "onboard_time": 1757988502,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127681,
-      "num": 127681,
-      "word": "关晓彤为了拍摄爬六层高屋顶",
-      "onboard_time": 1758199582,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127639,
@@ -11795,6 +11851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108783,
+      "num": 108783,
+      "word": "南京照相馆东京放映",
+      "onboard_time": 1758201563,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108695,
       "num": 108695,
       "word": "华晨宇音乐节吃的是真好",
@@ -11857,6 +11921,14 @@
       "onboard_time": 1757833582,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108154,
+      "num": 108154,
+      "word": "电影731震撼",
+      "onboard_time": 1758197542,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 108109,
@@ -12049,14 +12121,6 @@
       "onboard_time": 1758066683,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105687,
-      "num": 105687,
-      "word": "电影731震撼",
-      "onboard_time": 1758197542,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 105574,
@@ -12777,6 +12841,14 @@
       "onboard_time": 1757839523,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98324,
+      "num": 98324,
+      "word": "2.8亿大楼成交百万中介费没了",
+      "onboard_time": 1758200902,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98221,
@@ -13939,6 +14011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76640,
+      "num": 134180,
+      "word": "香港黄金劫案涉案人员有清洁工售货员",
+      "onboard_time": 1758200483,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76592,
       "num": 684838,
       "word": "石榴红了满天山",
@@ -15011,14 +15091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50111,
-      "num": 134180,
-      "word": "香港黄金劫案涉案人员有清洁工售货员",
-      "onboard_time": 1758200483,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49967,
       "num": 212947,
       "word": "李斯丹妮山系穿搭天花板",
@@ -15435,6 +15507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40147,
+      "num": 173530,
+      "word": "多地干部体验送外卖送快递",
+      "onboard_time": 1758200483,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40120,
       "num": 136317,
       "word": "金靖闹刘宇宁笑梦回开推",
@@ -15601,6 +15681,14 @@
       "onboard_time": 1758093083,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34205,
+      "num": 562132,
+      "word": "做光荣自豪的中国人",
+      "onboard_time": 1758201744,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34099,
@@ -15945,14 +16033,6 @@
       "onboard_time": 1757788516,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25415,
-      "num": 154809,
-      "word": "多地干部体验送外卖送快递",
-      "onboard_time": 1758200483,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25414,

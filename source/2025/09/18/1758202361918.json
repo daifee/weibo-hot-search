@@ -1,0 +1,410 @@
+{
+  "runTime": 1758202361918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6011947,
+        "num": 6011947,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649108,
+        "num": 649108,
+        "word": "731所有日本角色均由日籍演员出演",
+        "onboard_time": 1758193224,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34205,
+        "num": 562132,
+        "word": "做光荣自豪的中国人",
+        "onboard_time": 1758201744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 552821,
+        "num": 552821,
+        "word": "香港失窃黄金已全数追回",
+        "onboard_time": 1758201324,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488531,
+        "num": 488531,
+        "word": "多人因忘关闭自动续费被扣数千元",
+        "onboard_time": 1758198562,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284623,
+        "num": 284623,
+        "word": "张子枫马嘉祺合作科幻剧",
+        "onboard_time": 1758197844,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272619,
+        "num": 272619,
+        "word": "全球多地现黄金大盗",
+        "onboard_time": 1758198502,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 270257,
+        "num": 270257,
+        "word": "风月不相关 不拍了",
+        "onboard_time": 1758174623,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246375,
+        "num": 246375,
+        "word": "嘎子哥谢孟伟原为领衔主演",
+        "onboard_time": 1758198384,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242421,
+        "num": 242421,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 662313,
+        "num": 240853,
+        "word": "蔡依林自曝患蛇缠腰后才早睡",
+        "onboard_time": 1758184524,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529455,
+        "num": 238645,
+        "word": "比伯海莉结婚未公开旧照",
+        "onboard_time": 1758200783,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513679,
+        "num": 237205,
+        "word": "沈梦辰美成Angelababy了",
+        "onboard_time": 1758179542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421924,
+        "num": 234783,
+        "word": "社保",
+        "onboard_time": 1758189923,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326018,
+        "num": 233389,
+        "word": "中国美院继喷粪水后水管又爆裂",
+        "onboard_time": 1758193342,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323807,
+        "num": 230512,
+        "word": "李乃文助理把车票日期买错了",
+        "onboard_time": 1758202045,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260833,
+        "num": 227617,
+        "word": "原来iPhone天气这么好用",
+        "onboard_time": 1758184583,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260056,
+        "num": 226144,
+        "word": "撞脸刘亦菲网红因工资低选择做主播",
+        "onboard_time": 1758188541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225115,
+        "num": 225115,
+        "word": "李嘉欣在香港扫货被偶遇",
+        "onboard_time": 1758194662,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192818,
+        "num": 192818,
+        "word": "易烊千玺杂志",
+        "onboard_time": 1758201684,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262874,
+        "num": 192744,
+        "word": "建议大家大量频繁的说话",
+        "onboard_time": 1758178402,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192189,
+        "num": 192189,
+        "word": "李荣浩成为iOS26最大受益者",
+        "onboard_time": 1758188302,
+        "rank": 21,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 176736,
+        "num": 176736,
+        "word": "中国美院一月内2次管道爆裂",
+        "onboard_time": 1758195203,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40147,
+        "num": 173530,
+        "word": "多地干部体验送外卖送快递",
+        "onboard_time": 1758200483,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172453,
+        "num": 172453,
+        "word": "林俊杰鸟巢横开人传人",
+        "onboard_time": 1758201923,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170666,
+        "num": 170666,
+        "word": "王暖暖称想到和他还是夫妻就恶心",
+        "onboard_time": 1758191543,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162091,
+        "num": 162091,
+        "word": "用拖鞋搅奶茶员工上岗不到1小时",
+        "onboard_time": 1758197963,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155376,
+        "num": 155376,
+        "word": "蔡徐坤皱眉这一下",
+        "onboard_time": 1758201982,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153994,
+        "num": 153994,
+        "word": "731票房",
+        "onboard_time": 1758191362,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153154,
+        "num": 153154,
+        "word": "白敬亭被粤语咬了六集都没好",
+        "onboard_time": 1758198682,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194375,
+        "num": 151955,
+        "word": "这位妈妈一辈子都走不出来了",
+        "onboard_time": 1758200842,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147108,
+        "num": 147108,
+        "word": "氢氟酸涉案人员已被控制",
+        "onboard_time": 1758186083,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 144613,
+        "num": 144613,
+        "word": "震耳欲聋定档预告",
+        "onboard_time": 1758200483,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76640,
+        "num": 131366,
+        "word": "香港黄金劫案涉案人员有清洁工售货员",
+        "onboard_time": 1758200483,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145879,
+        "num": 131196,
+        "word": "关晓彤为了拍摄爬六层高屋顶",
+        "onboard_time": 1758199582,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129726,
+        "num": 129726,
+        "word": "成毅感慨自己已经打了十年",
+        "onboard_time": 1758198262,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128055,
+        "num": 128055,
+        "word": "深圳地铁四号线",
+        "onboard_time": 1758199944,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114319,
+        "num": 114319,
+        "word": "不眠日",
+        "onboard_time": 1758198023,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113427,
+        "num": 113427,
+        "word": "只有健身的才知道她有多厉害",
+        "onboard_time": 1758200183,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 112665,
+        "num": 112665,
+        "word": "官方通报90元酒店房间国庆涨到1000",
+        "onboard_time": 1758198743,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112650,
+        "num": 112650,
+        "word": "孙颖莎回应世乒赛夺冠后落泪",
+        "onboard_time": 1758198083,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108783,
+        "num": 108783,
+        "word": "南京照相馆东京放映",
+        "onboard_time": 1758201563,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108154,
+        "num": 108154,
+        "word": "电影731震撼",
+        "onboard_time": 1758197542,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100935,
+        "num": 100935,
+        "word": "赴山海",
+        "onboard_time": 1758198743,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100559,
+        "num": 100559,
+        "word": "网友评鞠婧祎陈哲远长得像",
+        "onboard_time": 1758196221,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98324,
+        "num": 98324,
+        "word": "2.8亿大楼成交百万中介费没了",
+        "onboard_time": 1758200902,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96158,
+        "num": 96158,
+        "word": "震耳欲聋",
+        "onboard_time": 1758198622,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94703,
+        "num": 94703,
+        "word": "乌镇偶遇谭松韵张子枫",
+        "onboard_time": 1758197423,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89737,
+        "num": 91365,
+        "word": "何同学iPhone17体验视频",
+        "onboard_time": 1758200602,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71049,
+        "num": 91141,
+        "word": "北京国安vs河内公安",
+        "onboard_time": 1758196824,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗战纪念活动是生动的爱国主义教材#"
+    }
+  }
+}
