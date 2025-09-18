@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 07:22:31
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 07:36:35
 </p>
 </blockquote>
 <p>
@@ -3849,6 +3849,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%91%E6%9E%B6%E8%BF%91%E5%8D%83%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B5%B4%E6%97%A5%E5%81%9A%E8%8B%A6%E5%BD%B9%23" target="weibo">
+日本绑架近千名中国人赴日做苦役（热度：742508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%23" target="weibo">
 淘宝闪购（热度：741647）
 </a>
@@ -5175,6 +5181,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E6%AC%A3%E6%AF%8F%E4%B8%AA%E6%9C%88%E5%8F%AF%E4%BB%A5%E9%A2%86200%E4%B8%87%E6%B8%AF%E5%B8%81%E7%9A%84%E7%94%9F%E6%B4%BB%E8%B4%B9%23" target="weibo">
+李嘉欣每个月可以领200万港币的生活费（热度：583592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%A5%9D%E7%A6%8F%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%8E%B7%E5%BD%B1%E5%90%8E%23" target="weibo">
 秦岚祝福辛芷蕾获影后（热度：583066）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%B8%86%E8%BE%B9%E7%9C%8B%E8%BE%B9%E8%AE%B0%E7%AC%94%E8%AE%B0%23" target="weibo">
 郭帆边看边记笔记（热度：521354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E9%97%AF%20%E5%B0%8F%E7%B1%B3%23" target="weibo">
-闫闯 小米（热度：520850）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E5%B7%B2%E5%90%AF%E7%A8%8B%E6%9D%A5%E5%8D%8E%23" target="weibo">
-金正恩已启程来华（热度：520112）
 </a>
 </li>
 
