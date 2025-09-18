@@ -1,0 +1,410 @@
+{
+  "runTime": 1758178127319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2046459,
+        "num": 2046459,
+        "word": "风月不相关 不拍了",
+        "onboard_time": 1758174623,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496354,
+        "num": 496354,
+        "word": "金价狂飙金饰一口价也要涨",
+        "onboard_time": 1758168383,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 3581,
+        "num": 477593,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758114924,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1233860,
+        "num": 476492,
+        "word": "731",
+        "onboard_time": 1758152660,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 475328,
+        "num": 475328,
+        "word": "景德镇90元酒店房间国庆涨到1000元",
+        "onboard_time": 1758169462,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322197,
+        "num": 322197,
+        "word": "伊朗公布绞死间谍画面",
+        "onboard_time": 1758174202,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 781193,
+        "num": 317146,
+        "word": "热依扎拍女儿去世戏持续哭了7个小时",
+        "onboard_time": 1758170062,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661745,
+        "num": 315136,
+        "word": "嘎子谢孟伟账号被封",
+        "onboard_time": 1758174801,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 311058,
+        "num": 311058,
+        "word": "小米SU7出租车司机被同行举报",
+        "onboard_time": 1758166522,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296403,
+        "num": 296403,
+        "word": "九一八事变94周年",
+        "onboard_time": 1758125542,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1180616,
+        "num": 295957,
+        "word": "A股",
+        "onboard_time": 1758177080,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 753992,
+        "num": 294340,
+        "word": "外交部回应韩娱重返中国",
+        "onboard_time": 1758167902,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 563150,
+        "num": 293358,
+        "word": "理解明星为什么和经纪人结婚了",
+        "onboard_time": 1758169822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406169,
+        "num": 291953,
+        "word": "731影评",
+        "onboard_time": 1758165981,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291085,
+        "num": 291085,
+        "word": "杭州锁定废弃氢氟酸所有者",
+        "onboard_time": 1758170303,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96698,
+        "num": 280224,
+        "word": "美国鸡毛秀停播",
+        "onboard_time": 1758166101,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273458,
+        "num": 273458,
+        "word": "731观后感",
+        "onboard_time": 1758167722,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241201,
+        "num": 241201,
+        "word": "D4vd车厢藏尸死者为15岁女孩",
+        "onboard_time": 1758168743,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230994,
+        "num": 230994,
+        "word": "中年男性开始频繁出去跑步说明了什么",
+        "onboard_time": 1758167841,
+        "rank": 18,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 193982,
+        "num": 215029,
+        "word": "狂飙麻子爆改富二代",
+        "onboard_time": 1758177322,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329322,
+        "num": 213119,
+        "word": "赵今麦完全褪去了稚气",
+        "onboard_time": 1758173543,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208186,
+        "num": 208186,
+        "word": "龚俊聚餐喝醉被扶出饭店",
+        "onboard_time": 1758170363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197598,
+        "num": 197598,
+        "word": "孟子义扶李昀锐路透",
+        "onboard_time": 1758176843,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184134,
+        "num": 184134,
+        "word": "降息了为何金价却大跳水",
+        "onboard_time": 1758174560,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179374,
+        "num": 179374,
+        "word": "买衣服千万不要将就",
+        "onboard_time": 1758175041,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179304,
+        "num": 179304,
+        "word": "蜜雪冰城回应柠檬水断货",
+        "onboard_time": 1758164841,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173705,
+        "num": 173705,
+        "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
+        "onboard_time": 1758169703,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169624,
+        "num": 169624,
+        "word": "蔡依林回应为何长期自律",
+        "onboard_time": 1758175822,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163586,
+        "num": 163586,
+        "word": "秦岚下车这幕美的太权威",
+        "onboard_time": 1758164421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67667,
+        "num": 162844,
+        "word": "看电影731前需要get的知识点",
+        "onboard_time": 1758177201,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339161,
+        "num": 162544,
+        "word": "上班禁止偷吃同事",
+        "onboard_time": 1758177201,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162181,
+        "num": 162181,
+        "word": "第一批看731观众发声",
+        "onboard_time": 1758176002,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154355,
+        "num": 154355,
+        "word": "岳雨婷回应演短剧版紫萱被骂",
+        "onboard_time": 1758169342,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142913,
+        "num": 142913,
+        "word": "上海绿捷",
+        "onboard_time": 1758175881,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142706,
+        "num": 142706,
+        "word": "中国发出世界首份反法西斯檄文",
+        "onboard_time": 1758168562,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135909,
+        "num": 135909,
+        "word": "泽连斯基说所有国家别考虑自己了",
+        "onboard_time": 1758176541,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132741,
+        "num": 132741,
+        "word": "吉克隽逸怎么比月饼还黑两度",
+        "onboard_time": 1758175941,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131610,
+        "num": 131610,
+        "word": "网购久了不清楚外面的物价了",
+        "onboard_time": 1758172941,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123300,
+        "num": 123300,
+        "word": "果切老板们一定不要这样好吗",
+        "onboard_time": 1758172882,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59334,
+        "num": 121911,
+        "word": "赴山海能复刻大奉打更人的走势吗",
+        "onboard_time": 1758177444,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121043,
+        "num": 121043,
+        "word": "勿忘九一八",
+        "onboard_time": 1758154401,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118943,
+        "num": 118943,
+        "word": "建议大家不定期查看银行账单",
+        "onboard_time": 1758159682,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57642,
+        "num": 116520,
+        "word": "董军说随时准备挫败外部武力干涉",
+        "onboard_time": 1758171624,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115854,
+        "num": 115854,
+        "word": "减肥不用非吃水煮菜了",
+        "onboard_time": 1758171384,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 25923,
+        "num": 112839,
+        "word": "日本民众痛斥人体实验丑恶",
+        "onboard_time": 1758177681,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112358,
+        "num": 112358,
+        "word": "李晟的命好指定有点说法",
+        "onboard_time": 1758174442,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112139,
+        "num": 112139,
+        "word": "苹果承认iPhone17拍照现黑色方块",
+        "onboard_time": 1758166223,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105172,
+        "num": 105172,
+        "word": "风月不相关",
+        "onboard_time": 1758176302,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102595,
+        "num": 102595,
+        "word": "小黄豆和迪丽热巴道歉",
+        "onboard_time": 1758151701,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96944,
+        "num": 96944,
+        "word": "918鸣笛",
+        "onboard_time": 1758159440,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族伟大复兴势不可挡#"
+    }
+  }
+}

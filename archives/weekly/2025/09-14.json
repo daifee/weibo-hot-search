@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758177407082,
+  "endTime": 1758178127319,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1180616,
+      "num": 295957,
+      "word": "A股",
+      "onboard_time": 1758095482,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1170247,
       "num": 1170247,
       "word": "央视曝肉毒素注射乱象",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1758005002,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 882968,
-      "num": 287934,
-      "word": "A股",
-      "onboard_time": 1758095482,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 878237,
@@ -1507,6 +1507,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 661745,
+      "num": 367744,
+      "word": "嘎子谢孟伟账号被封",
+      "onboard_time": 1758174801,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 660211,
       "num": 660211,
       "word": "邓为你怎么变成权志为了",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1757777605,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 654555,
-      "num": 367744,
-      "word": "嘎子谢孟伟账号被封",
-      "onboard_time": 1758174801,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 649702,
@@ -2339,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475328,
+      "num": 475328,
+      "word": "景德镇90元酒店房间国庆涨到1000元",
+      "onboard_time": 1758169462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474920,
       "num": 474920,
       "word": "成毅又在爱奇艺剧宣上闯祸了",
@@ -2832,14 +2840,6 @@
       "word": "15岁男孩在自家小区捅死同班女生",
       "onboard_time": 1758118885,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396898,
-      "num": 396898,
-      "word": "景德镇90元酒店房间国庆涨到1000元",
-      "onboard_time": 1758169462,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -3337,6 +3337,14 @@
       "onboard_time": 1757824463,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339161,
+      "num": 186283,
+      "word": "上班禁止偷吃同事",
+      "onboard_time": 1758177201,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 338960,
@@ -5435,6 +5443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 197598,
+      "num": 197598,
+      "word": "孟子义扶李昀锐路透",
+      "onboard_time": 1758176843,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197570,
       "num": 291009,
       "word": "享界联合国家地理发布最美自驾线",
@@ -5481,14 +5497,6 @@
       "onboard_time": 1757838143,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196964,
-      "num": 186283,
-      "word": "上班禁止偷吃同事",
-      "onboard_time": 1758177201,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 196718,
@@ -5593,6 +5601,14 @@
       "onboard_time": 1757846844,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193982,
+      "num": 215029,
+      "word": "狂飙麻子爆改富二代",
+      "onboard_time": 1758177322,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 193859,
@@ -6243,6 +6259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179374,
+      "num": 179374,
+      "word": "买衣服千万不要将就",
+      "onboard_time": 1758175041,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179363,
       "num": 167310,
       "word": "西贝客服回应员工用漏勺挖下水道",
@@ -6635,14 +6659,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 170858,
-      "num": 170858,
-      "word": "买衣服千万不要将就",
-      "onboard_time": 1758175041,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170597,
       "num": 170597,
       "word": "为啥大连锁餐厅不敢用活鱼",
@@ -6673,6 +6689,14 @@
       "onboard_time": 1758006742,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169624,
+      "num": 169624,
+      "word": "蔡依林回应为何长期自律",
+      "onboard_time": 1758175822,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 169208,
@@ -6905,14 +6929,6 @@
       "onboard_time": 1757911226,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165389,
-      "num": 165389,
-      "word": "蔡依林回应为何长期自律",
-      "onboard_time": 1758175822,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 165283,
@@ -8603,14 +8619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140557,
-      "num": 140557,
-      "word": "孟子义扶李昀锐路透",
-      "onboard_time": 1758176843,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140219,
       "num": 140219,
       "word": "付辛博不愧是初代选秀出来的",
@@ -8881,6 +8889,14 @@
       "onboard_time": 1758103342,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135909,
+      "num": 135909,
+      "word": "泽连斯基说所有国家别考虑自己了",
+      "onboard_time": 1758176541,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135905,
@@ -10179,14 +10195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 119130,
-      "num": 119130,
-      "word": "泽连斯基说所有国家别考虑自己了",
-      "onboard_time": 1758176541,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 119097,
       "num": 119097,
       "word": "宣璐把浪花穿身上了",
@@ -11137,14 +11145,6 @@
       "onboard_time": 1757751144,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106731,
-      "num": 106731,
-      "word": "狂飙麻子爆改富二代",
-      "onboard_time": 1758177322,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 106722,
@@ -13307,6 +13307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67667,
+      "num": 186399,
+      "word": "看电影731前需要get的知识点",
+      "onboard_time": 1758177201,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67625,
       "num": 136518,
       "word": "柬埔寨诈骗团伙落网有33个韩国人",
@@ -13555,6 +13563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59334,
+      "num": 121911,
+      "word": "赴山海能复刻大奉打更人的走势吗",
+      "onboard_time": 1758177444,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59060,
       "num": 120710,
       "word": "蔡徐坤一出场哇声一片",
@@ -13721,14 +13737,6 @@
       "onboard_time": 1758151279,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55282,
-      "num": 186399,
-      "word": "看电影731前需要get的知识点",
-      "onboard_time": 1758177201,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 55264,
@@ -14777,6 +14785,14 @@
       "onboard_time": 1758134715,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25923,
+      "num": 112839,
+      "word": "日本民众痛斥人体实验丑恶",
+      "onboard_time": 1758177681,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25883,
