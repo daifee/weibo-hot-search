@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758181041695,
+  "endTime": 1758184346217,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -81,6 +81,14 @@
       "onboard_time": 1756868440,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13950556,
+      "num": 13950556,
+      "word": "香港黄金劫案",
+      "onboard_time": 1758179242,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12954886,
@@ -553,14 +561,6 @@
       "onboard_time": 1756867025,
       "rank": 17,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 2524780,
-      "num": 2524780,
-      "word": "香港黄金劫案",
-      "onboard_time": 1758179242,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2516566,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1757547981,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1647736,
+      "num": 329506,
+      "word": "沈梦辰美成Angelababy了",
+      "onboard_time": 1758179542,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1643520,
@@ -2795,14 +2803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1084237,
-      "num": 296407,
-      "word": "沈梦辰美成Angelababy了",
-      "onboard_time": 1758179542,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1083260,
       "num": 460711,
       "word": "骑手称配送死鳄鱼结果半路活了",
@@ -3020,7 +3020,7 @@
     },
     {
       "raw_hot": 1043813,
-      "num": 303055,
+      "num": 328546,
       "word": "上班禁止偷吃同事",
       "onboard_time": 1758177201,
       "rank": 31,
@@ -4835,6 +4835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 763675,
+      "num": 763675,
+      "word": "女子发现自己有138辆车",
+      "onboard_time": 1758179302,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 762723,
       "num": 762723,
       "word": "西贝公开罗永浩菜品制作全程",
@@ -4993,6 +5001,14 @@
       "onboard_time": 1757042119,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 743875,
+      "num": 604901,
+      "word": "731电影郑重声明",
+      "onboard_time": 1758179903,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 742542,
@@ -6009,6 +6025,14 @@
       "onboard_time": 1757202502,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 639159,
+      "num": 639159,
+      "word": "女生校内分娩所在学校开会反思",
+      "onboard_time": 1758179723,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 639055,
@@ -8971,6 +8995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 460571,
+      "num": 460571,
+      "word": "香港打金厂被抢走65公斤黄金",
+      "onboard_time": 1758180323,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459730,
       "num": 459730,
       "word": "国防部提醒日本谨言慎行",
@@ -9481,14 +9513,6 @@
       "onboard_time": 1757231363,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 440539,
-      "num": 440539,
-      "word": "女子发现自己有138辆车",
-      "onboard_time": 1758179302,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 440463,
@@ -12052,7 +12076,7 @@
     },
     {
       "raw_hot": 351675,
-      "num": 293045,
+      "num": 325723,
       "word": "赵今麦完全褪去了稚气",
       "onboard_time": 1758173543,
       "rank": 24,
@@ -12585,6 +12609,14 @@
       "onboard_time": 1756728801,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336586,
+      "num": 235305,
+      "word": "每年70亿只小鸡出生就被绞杀",
+      "onboard_time": 1758183203,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 336359,
@@ -14491,6 +14523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283052,
+      "num": 283052,
+      "word": "杨丽菁称肖战和成毅各有千秋",
+      "onboard_time": 1758181822,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282825,
       "num": 282825,
       "word": "刘宇宁回应被造谣是女的",
@@ -14729,14 +14769,6 @@
       "onboard_time": 1757550203,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276987,
-      "num": 274343,
-      "word": "731电影郑重声明",
-      "onboard_time": 1758179903,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 276853,
@@ -15091,6 +15123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269555,
+      "num": 269555,
+      "word": "嘎子哥谢孟伟新电影戏份将被拿掉",
+      "onboard_time": 1758183322,
+      "rank": 17,
+      "category": "电影,民生新闻"
+    },
+    {
       "raw_hot": 269447,
       "num": 269447,
       "word": "中央厨房制作不纳入预制菜",
@@ -15241,14 +15281,6 @@
       "onboard_time": 1756717823,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 265243,
-      "num": 291742,
-      "word": "女生校内分娩所在学校开会反思",
-      "onboard_time": 1758179723,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264804,
@@ -17689,6 +17721,14 @@
       "onboard_time": 1756696341,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 221329,
+      "num": 221329,
+      "word": "梁王",
+      "onboard_time": 1758180683,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 221308,
@@ -20491,6 +20531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195863,
+      "num": 227447,
+      "word": "外交部回应中企停止购买英伟达芯片",
+      "onboard_time": 1758183383,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195837,
       "num": 379331,
       "word": "广东多地已发布停课通知",
@@ -22745,6 +22793,14 @@
       "onboard_time": 1758101424,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182835,
+      "num": 182835,
+      "word": "邓超登北京影协失联会员名单",
+      "onboard_time": 1758184046,
+      "rank": 27,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 182761,
@@ -25475,6 +25531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165854,
+      "num": 165854,
+      "word": "留饭和剩饭的差别",
+      "onboard_time": 1758181822,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165810,
       "num": 165810,
       "word": "王俊凯被衣架攻击了",
@@ -26859,6 +26923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159811,
+      "num": 159811,
+      "word": "藏海传打戏",
+      "onboard_time": 1758183565,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159775,
       "num": 159775,
       "word": "向鹏止步澳门冠军赛首轮",
@@ -26953,14 +27025,6 @@
       "onboard_time": 1757163322,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159415,
-      "num": 159415,
-      "word": "香港打金厂被抢走65公斤黄金",
-      "onboard_time": 1758180323,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159414,
@@ -27193,6 +27257,14 @@
       "onboard_time": 1757415923,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158094,
+      "num": 158094,
+      "word": "泽连斯基说所有国家别考虑自己了",
+      "onboard_time": 1758176541,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157956,
@@ -28385,6 +28457,14 @@
       "onboard_time": 1757171662,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151941,
+      "num": 151941,
+      "word": "歼20S指挥无人机打预警机",
+      "onboard_time": 1758182722,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151913,
@@ -32747,14 +32827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135909,
-      "num": 135909,
-      "word": "泽连斯基说所有国家别考虑自己了",
-      "onboard_time": 1758176541,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135905,
       "num": 135905,
       "word": "女生在宿舍生娃大人小孩平安",
@@ -35283,6 +35355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127719,
+      "num": 127719,
+      "word": "原味鸡蛋",
+      "onboard_time": 1758183023,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127696,
       "num": 127696,
       "word": "王楚钦9425分重回世一",
@@ -35649,6 +35729,14 @@
       "onboard_time": 1757503642,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126134,
+      "num": 126134,
+      "word": "法考成绩公告",
+      "onboard_time": 1758182001,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 126130,
@@ -36729,6 +36817,14 @@
       "onboard_time": 1757071641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122635,
+      "num": 326439,
+      "word": "中国是一个开放包容安全的国家",
+      "onboard_time": 1758183262,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122632,
@@ -38329,6 +38425,14 @@
       "onboard_time": 1756811662,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117332,
+      "num": 117332,
+      "word": "和一个冰箱贴狠狠共情了",
+      "onboard_time": 1758182184,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 117329,
@@ -42387,14 +42491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104581,
-      "num": 104581,
-      "word": "梁王",
-      "onboard_time": 1758180683,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104576,
       "num": 104576,
       "word": "使用司美格鲁肽可能发生的不良反应",
@@ -42601,6 +42697,14 @@
       "onboard_time": 1758122722,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103610,
+      "num": 291282,
+      "word": "中国学者当面给以色列军官上了一课",
+      "onboard_time": 1758180563,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103585,
@@ -43035,6 +43139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102394,
+      "num": 102394,
+      "word": "原来小猫做这个动作是在撒娇",
+      "onboard_time": 1758181401,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102347,
       "num": 102347,
       "word": "LCK",
@@ -43081,6 +43193,14 @@
       "onboard_time": 1757136860,
       "rank": 38,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 102082,
+      "num": 102082,
+      "word": "A股放量7584亿",
+      "onboard_time": 1758182542,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 102069,
@@ -43419,6 +43539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100981,
+      "num": 99423,
+      "word": "秋天吃柚子的三大理由",
+      "onboard_time": 1758181401,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100978,
       "num": 561392,
       "word": "告别信息裸奔国家网络身份认证来啦",
@@ -43657,6 +43785,14 @@
       "onboard_time": 1756897584,
       "rank": 48,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 100104,
+      "num": 100104,
+      "word": "iPhone17交货时间或延长",
+      "onboard_time": 1758183983,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 100093,
@@ -51299,6 +51435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58722,
+      "num": 944872,
+      "word": "公安部公布6起行政执法典型案例",
+      "onboard_time": 1758183744,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58717,
       "num": 297409,
       "word": "香港警方回应港大女生坠楼身亡",
@@ -51633,14 +51777,6 @@
       "onboard_time": 1757430863,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56078,
-      "num": 291282,
-      "word": "中国学者当面给以色列军官上了一课",
-      "onboard_time": 1758180563,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56048,

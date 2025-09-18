@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1758181041695,
+  "endTime": 1758184346217,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -593,6 +593,14 @@
       "onboard_time": 1742207183,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 13950556,
+      "num": 13950556,
+      "word": "香港黄金劫案",
+      "onboard_time": 1758179242,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13760834,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736231182,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4490343,
-      "num": 253769,
-      "word": "海底捞已报案",
-      "onboard_time": 1741256722,
-      "rank": 48,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

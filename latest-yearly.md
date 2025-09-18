@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/18 15:37:21
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/18 16:32:26
 </p>
 </blockquote>
 <p>
@@ -455,6 +455,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%89%AF%E6%80%BB%E8%A3%81%E8%B0%A2%E5%B9%BF%E5%86%9B%E9%81%93%E6%AD%89%23" target="weibo">
 百度副总裁谢广军道歉（热度：13952184）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88%23" target="weibo">
+香港黄金劫案（热度：13950556）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E8%BF%91%E7%85%A7%23" target="weibo">
 演员星星近照（热度：4517004）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B7%B2%E6%8A%A5%E6%A1%88%23" target="weibo">
-海底捞已报案（热度：4490343）
 </a>
 </li>
 

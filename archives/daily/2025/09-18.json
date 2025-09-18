@@ -1,7 +1,15 @@
 {
   "startTime": 1758126674896,
-  "endTime": 1758181041695,
+  "endTime": 1758184346217,
   "band_list": [
+    {
+      "raw_hot": 13950556,
+      "num": 13950556,
+      "word": "香港黄金劫案",
+      "onboard_time": 1758179242,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2870732,
       "num": 2870732,
@@ -19,14 +27,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2524780,
-      "num": 2524780,
-      "word": "香港黄金劫案",
-      "onboard_time": 1758179242,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 2101106,
       "num": 2101106,
       "word": "风月不相关 不拍了",
@@ -41,6 +41,14 @@
       "onboard_time": 1758178402,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1647736,
+      "num": 329506,
+      "word": "沈梦辰美成Angelababy了",
+      "onboard_time": 1758179542,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1619594,
@@ -115,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1084237,
-      "num": 296407,
-      "word": "沈梦辰美成Angelababy了",
-      "onboard_time": 1758179542,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1082909,
       "num": 1082909,
       "word": "建议大家不定期查看银行账单",
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1043813,
-      "num": 303055,
+      "num": 328546,
       "word": "上班禁止偷吃同事",
       "onboard_time": 1758177201,
       "rank": 31,
@@ -203,12 +203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 763675,
+      "num": 763675,
+      "word": "女子发现自己有138辆车",
+      "onboard_time": 1758179302,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 750034,
       "num": 475865,
       "word": "孙菲菲说前夫不准她提年龄差15岁",
       "onboard_time": 1758162082,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743875,
+      "num": 604901,
+      "word": "731电影郑重声明",
+      "onboard_time": 1758179903,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 724365,
@@ -257,6 +273,14 @@
       "onboard_time": 1758174801,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 639159,
+      "num": 639159,
+      "word": "女生校内分娩所在学校开会反思",
+      "onboard_time": 1758179723,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 609397,
@@ -371,20 +395,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 460571,
+      "num": 460571,
+      "word": "香港打金厂被抢走65公斤黄金",
+      "onboard_time": 1758180323,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452759,
       "num": 452759,
       "word": "731观后感",
       "onboard_time": 1758167722,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 440539,
-      "num": 440539,
-      "word": "女子发现自己有138辆车",
-      "onboard_time": 1758179302,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 432108,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 351675,
-      "num": 293045,
+      "num": 325723,
       "word": "赵今麦完全褪去了稚气",
       "onboard_time": 1758173543,
       "rank": 24,
@@ -473,6 +497,14 @@
       "onboard_time": 1758156203,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336586,
+      "num": 235305,
+      "word": "每年70亿只小鸡出生就被绞杀",
+      "onboard_time": 1758183203,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 335961,
@@ -515,12 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276987,
-      "num": 274343,
-      "word": "731电影郑重声明",
-      "onboard_time": 1758179903,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 283052,
+      "num": 283052,
+      "word": "杨丽菁称肖战和成毅各有千秋",
+      "onboard_time": 1758181822,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 272547,
@@ -531,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269555,
+      "num": 269555,
+      "word": "嘎子哥谢孟伟新电影戏份将被拿掉",
+      "onboard_time": 1758183322,
+      "rank": 17,
+      "category": "电影,民生新闻"
+    },
+    {
       "raw_hot": 267378,
       "num": 267378,
       "word": "小朋友误把黄头发认成小狗",
       "onboard_time": 1758152241,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 265243,
-      "num": 291742,
-      "word": "女生校内分娩所在学校开会反思",
-      "onboard_time": 1758179723,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262557,
@@ -625,6 +657,14 @@
       "onboard_time": 1758147316,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221329,
+      "num": 221329,
+      "word": "梁王",
+      "onboard_time": 1758180683,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 221206,
@@ -739,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195863,
+      "num": 227447,
+      "word": "外交部回应中企停止购买英伟达芯片",
+      "onboard_time": 1758183383,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194267,
       "num": 192297,
       "word": "第一批看731观众发声",
@@ -793,6 +841,14 @@
       "onboard_time": 1758175881,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182835,
+      "num": 182835,
+      "word": "邓超登北京影协失联会员名单",
+      "onboard_time": 1758184046,
+      "rank": 27,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 180886,
@@ -859,6 +915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165854,
+      "num": 165854,
+      "word": "留饭和剩饭的差别",
+      "onboard_time": 1758181822,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165283,
       "num": 165283,
       "word": "果切老板们一定不要这样好吗",
@@ -891,12 +955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159415,
-      "num": 159415,
-      "word": "香港打金厂被抢走65公斤黄金",
-      "onboard_time": 1758180323,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 159811,
+      "num": 159811,
+      "word": "藏海传打戏",
+      "onboard_time": 1758183565,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 159349,
@@ -913,6 +977,14 @@
       "onboard_time": 1758126500,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158094,
+      "num": 158094,
+      "word": "泽连斯基说所有国家别考虑自己了",
+      "onboard_time": 1758176541,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157469,
@@ -977,6 +1049,14 @@
       "onboard_time": 1758170724,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151941,
+      "num": 151941,
+      "word": "歼20S指挥无人机打预警机",
+      "onboard_time": 1758182722,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150240,
@@ -1083,14 +1163,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 135909,
-      "num": 135909,
-      "word": "泽连斯基说所有国家别考虑自己了",
-      "onboard_time": 1758176541,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135553,
       "num": 289265,
       "word": "美国鸡毛秀停播",
@@ -1195,12 +1267,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127719,
+      "num": 127719,
+      "word": "原味鸡蛋",
+      "onboard_time": 1758183023,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126330,
       "num": 126330,
       "word": "这些浸染血泪的日子永不敢忘",
       "onboard_time": 1758166402,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126134,
+      "num": 126134,
+      "word": "法考成绩公告",
+      "onboard_time": 1758182001,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 125570,
@@ -1233,6 +1321,14 @@
       "onboard_time": 1758180262,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122635,
+      "num": 326439,
+      "word": "中国是一个开放包容安全的国家",
+      "onboard_time": 1758183262,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122467,
@@ -1297,6 +1393,14 @@
       "onboard_time": 1758179001,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 117332,
+      "num": 117332,
+      "word": "和一个冰箱贴狠狠共情了",
+      "onboard_time": 1758182184,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 117282,
@@ -1403,14 +1507,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 104581,
-      "num": 104581,
-      "word": "梁王",
-      "onboard_time": 1758180683,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104532,
       "num": 104532,
       "word": "萨摩耶的汗脚",
@@ -1419,12 +1515,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103610,
+      "num": 291282,
+      "word": "中国学者当面给以色列军官上了一课",
+      "onboard_time": 1758180563,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "这个日子不能忘也不敢忘",
       "onboard_time": 1758129437,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102394,
+      "num": 102394,
+      "word": "原来小猫做这个动作是在撒娇",
+      "onboard_time": 1758181401,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 102082,
+      "num": 102082,
+      "word": "A股放量7584亿",
+      "onboard_time": 1758182542,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 101959,
@@ -1449,6 +1569,22 @@
       "onboard_time": 1758178581,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100981,
+      "num": 99423,
+      "word": "秋天吃柚子的三大理由",
+      "onboard_time": 1758181401,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100104,
+      "num": 100104,
+      "word": "iPhone17交货时间或延长",
+      "onboard_time": 1758183983,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 99539,
@@ -1739,20 +1875,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58722,
+      "num": 944872,
+      "word": "公安部公布6起行政执法典型案例",
+      "onboard_time": 1758183744,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58439,
       "num": 75110,
       "word": "731首映",
       "onboard_time": 1758102143,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 56078,
-      "num": 291282,
-      "word": "中国学者当面给以色列军官上了一课",
-      "onboard_time": 1758180563,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55881,
