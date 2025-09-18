@@ -1,0 +1,410 @@
+{
+  "runTime": 1758227248512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 70922,
+        "num": 70922,
+        "word": "日本称九一八事变为满洲事变",
+        "onboard_time": 1758205523,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63501,
+        "num": 63501,
+        "word": "导演让刚出生女儿出演剖腹取婴镜头",
+        "onboard_time": 1758203184,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9838,
+        "num": 53868,
+        "word": "做光荣自豪的中国人",
+        "onboard_time": 1758201744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47294,
+        "num": 47294,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43490,
+        "num": 43490,
+        "word": "成毅拿剧本出镜算失误吗",
+        "onboard_time": 1758208524,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41523,
+        "num": 41523,
+        "word": "17号台风后18号19号也快了",
+        "onboard_time": 1758210083,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38535,
+        "num": 38535,
+        "word": "法考",
+        "onboard_time": 1758210561,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36560,
+        "num": 36560,
+        "word": "用拖鞋搅奶茶员工上岗不到1小时",
+        "onboard_time": 1758197963,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33766,
+        "num": 33766,
+        "word": "男子转情人1340万66岁原配起诉返还",
+        "onboard_time": 1758209124,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32818,
+        "num": 32818,
+        "word": "法考成绩",
+        "onboard_time": 1758208943,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 61797,
+        "num": 32613,
+        "word": "19岁女子腹痛就诊后2小时分娩",
+        "onboard_time": 1758207444,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55000,
+        "num": 32419,
+        "word": "蔡依林自曝患蛇缠腰后才早睡",
+        "onboard_time": 1758184524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52276,
+        "num": 32037,
+        "word": "李嘉欣每个月可以领200万港币的生活费",
+        "onboard_time": 1758214159,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45370,
+        "num": 31676,
+        "word": "李乃文助理把车票日期买错了",
+        "onboard_time": 1758202045,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38915,
+        "num": 31139,
+        "word": "女子否认怀孕影像检查2小时后分娩",
+        "onboard_time": 1758208643,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36886,
+        "num": 30877,
+        "word": "香港网民选出新四大天王",
+        "onboard_time": 1758211346,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30550,
+        "num": 30550,
+        "word": "731所有日本角色均由日籍演员出演",
+        "onboard_time": 1758193224,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27608,
+        "num": 27608,
+        "word": "辛芷蕾回应与梁婷和解",
+        "onboard_time": 1758213200,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10082,
+        "num": 26870,
+        "word": "香港黄金劫案工场职员被赶出门外",
+        "onboard_time": 1758226934,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26807,
+        "num": 26807,
+        "word": "辛芷蕾说梁婷是自己唯一的遗憾",
+        "onboard_time": 1758212421,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24126,
+        "num": 24126,
+        "word": "必胜客店员回应橙汁确为果粒橙",
+        "onboard_time": 1758205883,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23273,
+        "num": 23273,
+        "word": "D4vd车厢藏尸死者失踪时仅13岁",
+        "onboard_time": 1758225494,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22874,
+        "num": 22874,
+        "word": "上海通报小学臭午餐事件",
+        "onboard_time": 1758206064,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21915,
+        "num": 21915,
+        "word": "绿捷虾仁炒蛋一周内出具检验结果",
+        "onboard_time": 1758210083,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 21706,
+        "num": 21706,
+        "word": "香港失窃黄金已全数追回",
+        "onboard_time": 1758201324,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20878,
+        "num": 20878,
+        "word": "731票房一天3亿",
+        "onboard_time": 1758205106,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20263,
+        "num": 20263,
+        "word": "马克龙将提交证据证明妻子是女性",
+        "onboard_time": 1758207620,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19468,
+        "num": 19468,
+        "word": "比伯海莉结婚未公开旧照",
+        "onboard_time": 1758200783,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19357,
+        "num": 19357,
+        "word": "三个台风一天内相继生成",
+        "onboard_time": 1758210982,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15973,
+        "num": 19009,
+        "word": "嘎子哥谢孟伟原为领衔主演",
+        "onboard_time": 1758198384,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18948,
+        "num": 18948,
+        "word": "多人因忘关闭自动续费被扣数千元",
+        "onboard_time": 1758198562,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18341,
+        "num": 18341,
+        "word": "特研院回应博士月薪4000元起",
+        "onboard_time": 1758214758,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18237,
+        "num": 18237,
+        "word": "沈梦辰美成Angelababy了",
+        "onboard_time": 1758179542,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17125,
+        "num": 17125,
+        "word": "各大奶茶最好喝的一杯",
+        "onboard_time": 1758205585,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16809,
+        "num": 16809,
+        "word": "美国爆发接吻虫病疫情",
+        "onboard_time": 1758199762,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16473,
+        "num": 16473,
+        "word": "西九龙重案组跟进香港黄金劫案",
+        "onboard_time": 1758201684,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15991,
+        "num": 15991,
+        "word": "iOS26受害者",
+        "onboard_time": 1758210262,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15943,
+        "num": 15943,
+        "word": "湖南一学校将公厕改成宿舍",
+        "onboard_time": 1758203304,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15859,
+        "num": 15859,
+        "word": "携程被约谈",
+        "onboard_time": 1758206784,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14231,
+        "num": 15857,
+        "word": "建议大家大量频繁的说话",
+        "onboard_time": 1758178402,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13949,
+        "num": 15849,
+        "word": "易烊千玺垒石头效应",
+        "onboard_time": 1758202824,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13820,
+        "num": 15845,
+        "word": "愿意给孩子买的卫生吹糖人",
+        "onboard_time": 1758206002,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13457,
+        "num": 15841,
+        "word": "印媒称阵风全面领先歼35A",
+        "onboard_time": 1758208643,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13394,
+        "num": 15830,
+        "word": "曾用10年退休金补仓的爷叔解套了",
+        "onboard_time": 1758208463,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11980,
+        "num": 15827,
+        "word": "杭深甬广高铁全部列车19日晚停运",
+        "onboard_time": 1758224655,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11650,
+        "num": 15819,
+        "word": "北京国安亚冠赛场爆发冲突",
+        "onboard_time": 1758205585,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11515,
+        "num": 15811,
+        "word": "校方否认公厕改宿舍承认四蹲便半敞开",
+        "onboard_time": 1758226573,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11185,
+        "num": 15804,
+        "word": "莫雷加德晒与孙颖莎合影",
+        "onboard_time": 1758207563,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10697,
+        "num": 15798,
+        "word": "成毅感慨自己已经打了十年",
+        "onboard_time": 1758198262,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10099,
+        "num": 15798,
+        "word": "钟文泽谈标准版iPhone17",
+        "onboard_time": 1758207620,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗战纪念活动是生动的爱国主义教材#"
+    }
+  }
+}

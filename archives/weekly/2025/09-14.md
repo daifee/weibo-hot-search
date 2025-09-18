@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/19 03:36:55
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/19 04:27:28
 </p>
 </blockquote>
 <p>
@@ -12489,6 +12489,12 @@ WMA微博音乐盛典定档（热度：23624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23D4vd%E8%BD%A6%E5%8E%A2%E8%97%8F%E5%B0%B8%E6%AD%BB%E8%80%85%E5%A4%B1%E8%B8%AA%E6%97%B6%E4%BB%8513%E5%B2%81%23" target="weibo">
+D4vd车厢藏尸死者失踪时仅13岁（热度：23273）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8Ccrush%E5%8F%8C%E5%90%91%E7%88%86%E7%81%AF%E5%8F%AA%E5%B7%AE%E4%B8%80%E7%93%B6%E8%8C%89%E8%8E%89%E8%8C%B6%23" target="weibo">
 和crush双向爆灯只差一瓶茉莉茶（热度：23217）
 </a>
@@ -12741,8 +12747,20 @@ XG对战Falcons（热度：17993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E6%B7%B1%E7%94%AC%E5%B9%BF%E9%AB%98%E9%93%81%E5%85%A8%E9%83%A8%E5%88%97%E8%BD%A619%E6%97%A5%E6%99%9A%E5%81%9C%E8%BF%90%23" target="weibo">
+杭深甬广高铁全部列车19日晚停运（热度：11980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E5%8A%AB%E5%A4%84%E9%80%A2%E7%94%9F%23" target="weibo">
 密室大逃脱劫处逢生（热度：11599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%90%A6%E8%AE%A4%E5%85%AC%E5%8E%95%E6%94%B9%E5%AE%BF%E8%88%8D%E6%89%BF%E8%AE%A4%E5%9B%9B%E8%B9%B2%E4%BE%BF%E5%8D%8A%E6%95%9E%E5%BC%80%23" target="weibo">
+校方否认公厕改宿舍承认四蹲便半敞开（热度：11515）
 </a>
 </li>
 
@@ -12755,6 +12773,12 @@ XG对战Falcons（热度：17993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E6%9C%89%E5%92%B1%E5%AE%B6%E7%9A%84%E9%A3%9E%E6%9C%BA%E5%8F%AF%E4%BB%A5%E7%9C%8B%E4%BA%86%23" target="weibo">
 又有咱家的飞机可以看了（热度：10844）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88%E5%B7%A5%E5%9C%BA%E8%81%8C%E5%91%98%E8%A2%AB%E8%B5%B6%E5%87%BA%E9%97%A8%E5%A4%96%23" target="weibo">
+香港黄金劫案工场职员被赶出门外（热度：10082）
 </a>
 </li>
 
