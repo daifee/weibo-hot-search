@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 16:45:20
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 17:27:19
 </p>
 </blockquote>
 <p>
@@ -717,6 +717,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%94%E5%86%9B%E4%BB%BB%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
+朱孔军任武汉大学党委书记（热度：2081064）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%9B%A0%E4%B8%BA%E8%B0%A2%E5%A8%9C%E6%89%8D%E4%B8%8B%E5%86%B3%E5%BF%83%E5%A4%8D%E5%87%BA%23" target="weibo">
 李维嘉因为谢娜才下决心复出（热度：2069912）
 </a>
@@ -1145,12 +1151,6 @@ miumiu签了三个00花（热度：1748229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BB%8A%E6%99%A8%E7%9A%84%E5%8C%97%E4%BA%AC%23" target="weibo">
 这就是今晨的北京（热度：1624955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%94%E5%86%9B%E4%BB%BB%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
-朱孔军任武汉大学党委书记（热度：1624301）
 </a>
 </li>
 
@@ -2523,6 +2523,12 @@ iPhone17补贴后售价4999元（热度：997136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%20%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+奔驰 王楚钦（热度：990581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%9B%9E%E5%BA%94%E8%B5%B4%E5%B1%B1%E6%B5%B7%E5%8F%B0%E8%AF%8D%E5%90%AB%E7%B3%8A%23" target="weibo">
 成毅回应赴山海台词含糊（热度：989119）
 </a>
@@ -3191,6 +3197,12 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%23" target="weibo">
 中国对俄罗斯试行免签（热度：855727）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E7%A9%B7%E6%B8%B8%E7%9A%84%E4%B8%89%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
+最适合穷游的三个城市（热度：855727）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E7%82%B918%E5%88%86%E8%BE%BD%E5%AE%81%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23" target="weibo">
 9点18分辽宁防空警报（热度：533594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E7%A9%B7%E6%B8%B8%E7%9A%84%E4%B8%89%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
-最适合穷游的三个城市（热度：533181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%80%89%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
-谁给王楚然选的衣服（热度：533157）
 </a>
 </li>
 

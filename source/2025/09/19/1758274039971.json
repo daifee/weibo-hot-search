@@ -1,0 +1,410 @@
+{
+  "runTime": 1758274039971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990581,
+        "num": 1158492,
+        "word": "奔驰 王楚钦",
+        "onboard_time": 1758273323,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 855727,
+        "num": 855727,
+        "word": "最适合穷游的三个城市",
+        "onboard_time": 1758267922,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 25569,
+        "num": 583097,
+        "word": "何以中国黄河安澜",
+        "onboard_time": 1758253342,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557294,
+        "num": 557294,
+        "word": "董璇选择张维伊的原因找到了",
+        "onboard_time": 1758260303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467301,
+        "num": 467301,
+        "word": "关晓彤接住了刘涛的戏",
+        "onboard_time": 1758265402,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 980076,
+        "num": 428200,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510564,
+        "num": 423704,
+        "word": "赵晗遗体告别仪式明天举行",
+        "onboard_time": 1758263422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322282,
+        "num": 322282,
+        "word": "管乐吐槽祝绪丹没有良心",
+        "onboard_time": 1758267382,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239089,
+        "num": 239089,
+        "word": "男子欠债35万崖下洞居5年",
+        "onboard_time": 1758263064,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233447,
+        "num": 233447,
+        "word": "这一秒过火",
+        "onboard_time": 1758268041,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366413,
+        "num": 230188,
+        "word": "王家卫繁花被曝疑似压榨员工",
+        "onboard_time": 1758264981,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317560,
+        "num": 218289,
+        "word": "iPhone17Pro线下展出真机已满身划痕",
+        "onboard_time": 1758258083,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 310539,
+        "num": 201078,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295524,
+        "num": 188938,
+        "word": "武大党委书记调整",
+        "onboard_time": 1758269542,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 177705,
+        "num": 177705,
+        "word": "山东高院回应农妇辱骂法官被罚10万",
+        "onboard_time": 1758272902,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260092,
+        "num": 176150,
+        "word": "女主播赴约打榜大哥遭性侵",
+        "onboard_time": 1758255745,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241106,
+        "num": 175043,
+        "word": "迅猛龙被男网红孤立",
+        "onboard_time": 1758254363,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199033,
+        "num": 174724,
+        "word": "向往的生活8官宣",
+        "onboard_time": 1758256944,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173212,
+        "num": 173212,
+        "word": "琅琊榜",
+        "onboard_time": 1758258744,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93071,
+        "num": 171691,
+        "word": "朴槿惠与李明博时隔12年再会",
+        "onboard_time": 1758272842,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171639,
+        "num": 171639,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254197,
+        "num": 170817,
+        "word": "买基金的人今年怎么不讲段子了",
+        "onboard_time": 1758268041,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235355,
+        "num": 169620,
+        "word": "韩国下令必要时强力应对反华集会",
+        "onboard_time": 1758266242,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200880,
+        "num": 167718,
+        "word": "iPhone17实体上手",
+        "onboard_time": 1758273081,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173073,
+        "num": 166819,
+        "word": "没有红毯公式只有美颜盛世",
+        "onboard_time": 1758273202,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166325,
+        "num": 166325,
+        "word": "冷冻2年的西兰花山姆也在卖",
+        "onboard_time": 1758269903,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159829,
+        "num": 159829,
+        "word": "影视飓风员工怒怼代理公司",
+        "onboard_time": 1758270983,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158261,
+        "num": 158261,
+        "word": "春秋航空又省又赚半年挣了11亿",
+        "onboard_time": 1758273622,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 127356,
+        "num": 153862,
+        "word": "白敬亭回应生理性演技",
+        "onboard_time": 1758259163,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124660,
+        "num": 152945,
+        "word": "王栎鑫也没能走出最好的我们",
+        "onboard_time": 1758272241,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2081064,
+        "num": 152911,
+        "word": "朱孔军任武汉大学党委书记",
+        "onboard_time": 1758269602,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152770,
+        "num": 152770,
+        "word": "埃及3000年前金镯被熔卖了不到3万元",
+        "onboard_time": 1758272360,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151404,
+        "num": 151404,
+        "word": "云海肴创始人赵晗去世",
+        "onboard_time": 1758259163,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150928,
+        "num": 150928,
+        "word": "男子花16年用打字机从一打到一百万",
+        "onboard_time": 1758271942,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144189,
+        "num": 144189,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130253,
+        "num": 130253,
+        "word": "主播逃税超243万被追缴402万",
+        "onboard_time": 1758264922,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51298,
+        "num": 129179,
+        "word": "红旗携手歼35A见证大国底气",
+        "onboard_time": 1758273983,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128292,
+        "num": 128292,
+        "word": "iPhone16为什么要换17",
+        "onboard_time": 1758270323,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84256,
+        "num": 124599,
+        "word": "男子给亲哥打8张欠条还钱变10张",
+        "onboard_time": 1758273383,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31184,
+        "num": 123879,
+        "word": "释永信案又有多人协助调查",
+        "onboard_time": 1758273622,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36641,
+        "num": 123768,
+        "word": "15块钱的学生餐到底值多少钱",
+        "onboard_time": 1758272842,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123692,
+        "num": 123692,
+        "word": "内娱男频三巨头",
+        "onboard_time": 1758255503,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120835,
+        "num": 120835,
+        "word": "iPhone17Pro首批用户反馈品控",
+        "onboard_time": 1758272421,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115917,
+        "num": 115917,
+        "word": "奇瑞因制裁决定离开俄罗斯",
+        "onboard_time": 1758271581,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111645,
+        "num": 111645,
+        "word": "王楚钦孙颖莎领衔出战蒙彼利埃冠军赛",
+        "onboard_time": 1758272360,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110311,
+        "num": 110311,
+        "word": "被我妈的入境申报单笑晕了",
+        "onboard_time": 1758271523,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109356,
+        "num": 109356,
+        "word": "梁婷发文力挺成毅",
+        "onboard_time": 1758268462,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108498,
+        "num": 108498,
+        "word": "台风",
+        "onboard_time": 1758264621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107703,
+        "num": 107703,
+        "word": "去了西北就这样发朋友圈",
+        "onboard_time": 1758273502,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 105841,
+        "num": 107595,
+        "word": "黄泰岩",
+        "onboard_time": 1758272662,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国致公党成立100周年#"
+    }
+  }
+}
