@@ -1,0 +1,410 @@
+{
+  "runTime": 1758256185967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1888554,
+        "num": 1888554,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821613,
+        "num": 821613,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43291,
+        "num": 723498,
+        "word": "近距离看航空展名场面",
+        "onboard_time": 1758246681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1442767,
+        "num": 720606,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 710329,
+        "num": 710329,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760227,
+        "num": 704556,
+        "word": "小米召回11.7万辆标准版SU7",
+        "onboard_time": 1758246441,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 695669,
+        "num": 695669,
+        "word": "香港西九龙重案组",
+        "onboard_time": 1758250281,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654998,
+        "num": 654998,
+        "word": "中方对表决结果非常失望",
+        "onboard_time": 1758241883,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 554486,
+        "num": 554486,
+        "word": "向往的生活",
+        "onboard_time": 1758252322,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447507,
+        "num": 447507,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181808,
+        "num": 442579,
+        "word": "一文梳理翟欣欣案时间线",
+        "onboard_time": 1758252023,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1892526,
+        "num": 434798,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 936120,
+        "num": 423765,
+        "word": "迅猛龙被男网红孤立",
+        "onboard_time": 1758254363,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 837783,
+        "num": 416443,
+        "word": "女孩被同班男生杀害尸体距家仅100米",
+        "onboard_time": 1758252505,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407630,
+        "num": 407630,
+        "word": "翟欣欣索要精神损失费1000万元",
+        "onboard_time": 1758251181,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359717,
+        "num": 359717,
+        "word": "iOS26同时解决了网瘾和猪瘾",
+        "onboard_time": 1758253403,
+        "rank": 15,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 340764,
+        "num": 340764,
+        "word": "老人被曝用废弃空瓶灌水卖游客",
+        "onboard_time": 1758247882,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326600,
+        "num": 326600,
+        "word": "井川里予酒吧蹦迪",
+        "onboard_time": 1758253103,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271090,
+        "num": 271090,
+        "word": "731日籍演员在中国演了20多年日军",
+        "onboard_time": 1758247821,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87558,
+        "num": 270233,
+        "word": "中国的百雀羚又又又获奖了",
+        "onboard_time": 1758254664,
+        "rank": 19,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 269630,
+        "num": 269630,
+        "word": "导演让刚出生女儿出演剖腹取婴镜头",
+        "onboard_time": 1758203184,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238064,
+        "num": 238064,
+        "word": "刘宇宁颜值全球可验",
+        "onboard_time": 1758255024,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236149,
+        "num": 236149,
+        "word": "赴山海情节被吐槽跟于北辰有一拼",
+        "onboard_time": 1758251420,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236047,
+        "num": 236047,
+        "word": "韩国人称只有韩国吃饭用勺子",
+        "onboard_time": 1758249562,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229801,
+        "num": 229801,
+        "word": "苍兰诀2首刀出现了",
+        "onboard_time": 1758253403,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 216777,
+        "num": 216777,
+        "word": "金昭玉醉定档",
+        "onboard_time": 1758255024,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210618,
+        "num": 210618,
+        "word": "彭昱畅对不起了向佐老师",
+        "onboard_time": 1758249801,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208418,
+        "num": 208418,
+        "word": "奥巴马说我不是总统冲我喊没用",
+        "onboard_time": 1758250882,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206747,
+        "num": 206747,
+        "word": "比伯晒家规",
+        "onboard_time": 1758255323,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158594,
+        "num": 203190,
+        "word": "内娱男频三巨头",
+        "onboard_time": 1758255503,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341484,
+        "num": 202106,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1758254064,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 201017,
+        "num": 201017,
+        "word": "杨幂把陈哲远逗成啥样了",
+        "onboard_time": 1758255084,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309651,
+        "num": 191858,
+        "word": "女主播赴约打榜大哥遭性侵",
+        "onboard_time": 1758255745,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204610,
+        "num": 186545,
+        "word": "泰版三十而已全员疯批",
+        "onboard_time": 1758255443,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166455,
+        "num": 166455,
+        "word": "翟欣欣构成敲诈勒索罪",
+        "onboard_time": 1758253281,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159590,
+        "num": 159590,
+        "word": "水果吃太多可能会加速衰老",
+        "onboard_time": 1758251181,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64652,
+        "num": 159562,
+        "word": "smart超级电混上新色",
+        "onboard_time": 1758253522,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 49826,
+        "num": 159440,
+        "word": "崔丽丽回忆被老板侵犯细节",
+        "onboard_time": 1758255804,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69544,
+        "num": 159351,
+        "word": "大三担任奥运志愿者的杨幂",
+        "onboard_time": 1758255745,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43587,
+        "num": 159174,
+        "word": "姚晨马伊琍 直女想出来的动作",
+        "onboard_time": 1758255503,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159140,
+        "num": 159140,
+        "word": "一诺 三角洲",
+        "onboard_time": 1758255443,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147662,
+        "num": 158237,
+        "word": "我上班都没做过这么多思维导图",
+        "onboard_time": 1758254963,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157973,
+        "num": 157973,
+        "word": "奥运冠军曾被专家说练不出来",
+        "onboard_time": 1758256105,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157025,
+        "num": 157025,
+        "word": "孙俪后背都是爱我的形状",
+        "onboard_time": 1758254603,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156395,
+        "num": 156395,
+        "word": "王骁发文力挺成毅",
+        "onboard_time": 1758239301,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154970,
+        "num": 154970,
+        "word": "山东入室抢婴案1人被判死缓",
+        "onboard_time": 1758250582,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154589,
+        "num": 154589,
+        "word": "震耳欲聋定档",
+        "onboard_time": 1758248242,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152011,
+        "num": 152011,
+        "word": "小狗的花期也这么短吗",
+        "onboard_time": 1758253223,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149043,
+        "num": 149043,
+        "word": "翟欣欣苏享茂婚姻仅42天",
+        "onboard_time": 1758251722,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145479,
+        "num": 145479,
+        "word": "雷军回应小米汽车OTA升级",
+        "onboard_time": 1758254544,
+        "rank": 49,
+        "category": "汽车,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是不畏强暴自立自强的伟大民族#"
+    }
+  }
+}
