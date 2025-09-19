@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 19:37:06
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 20:50:16
 </p>
 </blockquote>
 <p>
@@ -4107,6 +4107,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%23" target="weibo">
+小米17（热度：731586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E9%AD%8F%E6%97%A0%E7%BE%A1%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%81%B5%E5%A5%BD%E7%81%B5%23" target="weibo">
 肖战的魏无羡真的好灵好灵（热度：731502）
 </a>
@@ -4217,6 +4223,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E8%83%96%E4%B8%9C%E6%9D%A5%E7%87%95%E9%BA%A6%E8%84%86%E5%B7%B2%E4%B8%8B%E6%9E%B6%23" target="weibo">
 永辉超市胖东来燕麦脆已下架（热度：715979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9iPhone17%E8%B4%B4%E8%86%9C%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+第一批iPhone17贴膜受害者出现了（热度：714606）
 </a>
 </li>
 
@@ -4523,12 +4535,6 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E4%B8%80%E7%9B%B4%E8%A2%AB%E5%86%85%E5%A8%B1%E4%BD%8E%E4%BC%B0%E7%9A%84%E7%BE%8E%E8%B2%8C%23" target="weibo">
 李兰迪一直被内娱低估的美貌（热度：678342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%23" target="weibo">
-小米17（热度：677844）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E4%BA%BA%E7%94%9F%E9%95%9C%E5%A4%B4%23" target="weibo">
 田曦薇人生镜头（热度：536861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23" target="weibo">
-易烊千玺演唱会哭了（热度：536850）
 </a>
 </li>
 
