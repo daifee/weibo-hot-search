@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758278596388,
+  "endTime": 1758280918492,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -163,6 +163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 855294,
+      "num": 316741,
+      "word": "这居然是宋轶",
+      "onboard_time": 1758279202,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844516,
       "num": 844516,
       "word": "iPhone17Pro线下展出真机已满身划痕",
@@ -217,6 +225,14 @@
       "onboard_time": 1758241941,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 790918,
+      "num": 1126546,
+      "word": "鸡蛋羹 预制",
+      "onboard_time": 1758276022,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 775690,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593335,
+      "num": 420111,
+      "word": "陈数的专业含金量到了埃及噌噌暴涨",
+      "onboard_time": 1758275003,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588216,
       "num": 588216,
       "word": "成毅拿剧本出镜算失误吗",
@@ -377,6 +401,22 @@
       "onboard_time": 1758276084,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 498619,
+      "num": 498619,
+      "word": "电影731",
+      "onboard_time": 1758280282,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 483754,
+      "num": 483754,
+      "word": "山姆门店回应卖冷冻2年的西兰花",
+      "onboard_time": 1758277884,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471820,
@@ -443,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424058,
+      "num": 424058,
+      "word": "香港黄金劫案37岁主谋落网",
+      "onboard_time": 1758276743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422175,
       "num": 331568,
       "word": "蔡依林自曝患蛇缠腰后才早睡",
@@ -459,14 +507,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 420111,
-      "num": 420111,
-      "word": "陈数的专业含金量到了埃及噌噌暴涨",
-      "onboard_time": 1758275003,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 415456,
       "num": 326600,
       "word": "井川里予酒吧蹦迪",
@@ -475,12 +515,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 412700,
+      "num": 412700,
+      "word": "地方反映教师不愿当班主任",
+      "onboard_time": 1758277224,
+      "rank": 33,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 395348,
       "num": 395348,
       "word": "携程被约谈",
       "onboard_time": 1758206784,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387820,
+      "num": 294092,
+      "word": "张智霖儿子在歌手做暑假工",
+      "onboard_time": 1758276683,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 385407,
@@ -529,6 +585,14 @@
       "onboard_time": 1758274642,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368932,
+      "num": 289967,
+      "word": "杨幂爸爸与小酒窝是邻居",
+      "onboard_time": 1758279263,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 364499,
@@ -595,20 +659,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288379,
-      "num": 288379,
-      "word": "鸡蛋羹 预制",
-      "onboard_time": 1758276022,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286714,
       "num": 286714,
       "word": "法考",
       "onboard_time": 1758210561,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 286650,
+      "num": 286650,
+      "word": "第一批iPhone17贴膜受害者出现了",
+      "onboard_time": 1758279022,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 282966,
@@ -731,14 +795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 233591,
-      "num": 233591,
-      "word": "张智霖儿子在歌手做暑假工",
-      "onboard_time": 1758276683,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232664,
       "num": 232664,
       "word": "731所有日本角色均由日籍演员出演",
@@ -859,14 +915,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 204762,
-      "num": 238435,
-      "word": "山姆门店回应卖冷冻2年的西兰花",
-      "onboard_time": 1758277884,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204610,
       "num": 186545,
       "word": "泰版三十而已全员疯批",
@@ -961,22 +1009,6 @@
       "onboard_time": 1758252322,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194709,
-      "num": 199449,
-      "word": "香港黄金劫案37岁主谋落网",
-      "onboard_time": 1758276743,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193518,
-      "num": 193518,
-      "word": "地方反映教师不愿当班主任",
-      "onboard_time": 1758277224,
-      "rank": 33,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 191758,
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 173830,
-      "num": 106209,
+      "num": 125840,
       "word": "王者新英雄名字怎么念",
       "onboard_time": 1758278542,
       "rank": 30,
@@ -1379,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147522,
+      "num": 189396,
+      "word": "张靓颖薛之谦 霸王别姬",
+      "onboard_time": 1758278782,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146904,
       "num": 139447,
       "word": "被我妈的入境申报单笑晕了",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1758256466,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138123,
+      "num": 167381,
+      "word": "美国代表否决加沙决议被人指着骂",
+      "onboard_time": 1758279504,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138051,
@@ -1627,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125517,
+      "num": 125517,
+      "word": "老乡鸡菜单 开源",
+      "onboard_time": 1758279504,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125473,
       "num": 125473,
       "word": "贺峻霖让徐志胜帮抢时团演唱会票",
@@ -1657,6 +1713,14 @@
       "onboard_time": 1758270323,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123306,
+      "num": 187062,
+      "word": "黄磊说还会给何炅做饭",
+      "onboard_time": 1758280042,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 121743,
@@ -1843,6 +1907,14 @@
       "category": "动漫,休闲"
     },
     {
+      "raw_hot": 109862,
+      "num": 109862,
+      "word": "泡泡玛特星星人",
+      "onboard_time": 1758279924,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 109409,
       "num": 109409,
       "word": "云海肴创始人心梗去世知情者发声",
@@ -1915,6 +1987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106211,
+      "num": 106211,
+      "word": "KSG总决赛开门红",
+      "onboard_time": 1758279803,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105917,
       "num": 105917,
       "word": "久哲为什么不选敖子逸",
@@ -1947,12 +2027,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103404,
+      "num": 103404,
+      "word": "怼脸拍中国战机大片",
+      "onboard_time": 1758280762,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 102765,
+      "num": 111268,
+      "word": "花少7请客龚俊白衣公卿剧组",
+      "onboard_time": 1758280821,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102260,
       "num": 102260,
       "word": "日本人踩踏韩国旗污蔑中国人",
       "onboard_time": 1758246801,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101547,
+      "num": 125531,
+      "word": "梁婷称成毅三五年内还是扛剧生",
+      "onboard_time": 1758280403,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 100625,
@@ -2017,6 +2121,14 @@
       "onboard_time": 1758247940,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91579,
+      "num": 98026,
+      "word": "张馨予的体重从来没有下过百",
+      "onboard_time": 1758278063,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 91197,
@@ -2251,6 +2363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 69298,
+      "num": 112943,
+      "word": "农妇辱骂法官被罚10万依据何在",
+      "onboard_time": 1758280762,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68374,
       "num": 91155,
       "word": "莫雷加德晒与孙颖莎合影",
@@ -2281,6 +2401,14 @@
       "onboard_time": 1758201684,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 65329,
+      "num": 112971,
+      "word": "布达拉宫居然可以吃",
+      "onboard_time": 1758277943,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 63136,
@@ -2323,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60577,
+      "num": 111263,
+      "word": "爷叔刚解套上海建工就被砸盘",
+      "onboard_time": 1758280282,
+      "rank": 38,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 59203,
       "num": 91105,
       "word": "张纪中跟1岁女儿同框像爷孙",
@@ -2361,6 +2497,14 @@
       "onboard_time": 1758213138,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55151,
+      "num": 185257,
+      "word": "厨房里的中国骄傲",
+      "onboard_time": 1758279924,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 54765,
@@ -2475,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44358,
+      "num": 184113,
+      "word": "全新深蓝S07这配置其他车怎么玩",
+      "onboard_time": 1758280042,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43291,
       "num": 1106192,
       "word": "近距离看航空展名场面",
@@ -2489,14 +2641,6 @@
       "onboard_time": 1758262403,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 42011,
-      "num": 99277,
-      "word": "布达拉宫居然可以吃",
-      "onboard_time": 1758277943,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 41870,
@@ -2603,14 +2747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28996,
-      "num": 98026,
-      "word": "张馨予的体重从来没有下过百",
-      "onboard_time": 1758278063,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27808,
       "num": 124718,
       "word": "香港被劫金场员工以为搬货没有反抗",
@@ -2652,7 +2788,7 @@
     },
     {
       "raw_hot": 25313,
-      "num": 511613,
+      "num": 521086,
       "word": "石榴红了满天山",
       "onboard_time": 1758270922,
       "rank": 49,
@@ -2683,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20177,
+      "num": 104424,
+      "word": "六爷是遮阳伞更是保护伞",
+      "onboard_time": 1758280703,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18739,
       "num": 130206,
       "word": "上海绿捷业务覆盖600多所学校",
@@ -2704,6 +2848,14 @@
       "word": "栾树花是秋天的信使吧",
       "onboard_time": 1758221115,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12910,
+      "num": 111261,
+      "word": "收缩型城市名单争议",
+      "onboard_time": 1758279924,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
