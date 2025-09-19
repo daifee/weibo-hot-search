@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758277664562,
+  "endTime": 1758278596388,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -195,6 +195,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 813453,
+      "num": 1130152,
+      "word": "特朗普拒绝批准4亿美元对台军售",
+      "onboard_time": 1758274402,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 811307,
       "num": 811307,
       "word": "导演让刚出生女儿出演剖腹取婴镜头",
@@ -224,14 +232,6 @@
       "word": "日本绑架近千名中国人赴日做苦役",
       "onboard_time": 1758236657,
       "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 732629,
-      "num": 1117220,
-      "word": "特朗普拒绝批准4亿美元对台军售",
-      "onboard_time": 1758274402,
-      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -459,6 +459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 420111,
+      "num": 420111,
+      "word": "陈数的专业含金量到了埃及噌噌暴涨",
+      "onboard_time": 1758275003,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415456,
       "num": 326600,
       "word": "井川里予酒吧蹦迪",
@@ -515,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 371331,
+      "num": 305851,
+      "word": "以为马思纯张晚意抱一起了",
+      "onboard_time": 1758274642,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364499,
       "num": 364499,
       "word": "崔丽丽老公说没有胜利可言",
@@ -531,28 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332585,
-      "num": 332585,
-      "word": "陈数的专业含金量到了埃及噌噌暴涨",
-      "onboard_time": 1758275003,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 326458,
       "num": 480841,
       "word": "山东入室抢婴案1人被判死缓",
       "onboard_time": 1758250582,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321459,
-      "num": 305851,
-      "word": "以为马思纯张晚意抱一起了",
-      "onboard_time": 1758274642,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 315301,
@@ -593,6 +593,14 @@
       "onboard_time": 1758240382,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288379,
+      "num": 288379,
+      "word": "鸡蛋羹 预制",
+      "onboard_time": 1758276022,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286714,
@@ -723,6 +731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 233591,
+      "num": 233591,
+      "word": "张智霖儿子在歌手做暑假工",
+      "onboard_time": 1758276683,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232664,
       "num": 232664,
       "word": "731所有日本角色均由日籍演员出演",
@@ -753,14 +769,6 @@
       "onboard_time": 1758255084,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220036,
-      "num": 220036,
-      "word": "鸡蛋羹 预制",
-      "onboard_time": 1758276022,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219882,
@@ -851,6 +859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204762,
+      "num": 238435,
+      "word": "山姆门店回应卖冷冻2年的西兰花",
+      "onboard_time": 1758277884,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204610,
       "num": 186545,
       "word": "泰版三十而已全员疯批",
@@ -899,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198731,
+      "num": 305953,
+      "word": "春秋航空又省又赚半年挣了11亿",
+      "onboard_time": 1758273622,
+      "rank": 27,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 198030,
       "num": 198030,
       "word": "49元爆火窜稀酸奶成新型泻药",
@@ -923,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197011,
-      "num": 197011,
-      "word": "张智霖儿子在歌手做暑假工",
-      "onboard_time": 1758276683,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196470,
       "num": 196470,
       "word": "VOGUE男刊",
@@ -947,12 +963,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194806,
-      "num": 305953,
-      "word": "春秋航空又省又赚半年挣了11亿",
-      "onboard_time": 1758273622,
-      "rank": 27,
-      "category": "民生新闻,财经"
+      "raw_hot": 194709,
+      "num": 199449,
+      "word": "香港黄金劫案37岁主谋落网",
+      "onboard_time": 1758276743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193518,
+      "num": 193518,
+      "word": "地方反映教师不愿当班主任",
+      "onboard_time": 1758277224,
+      "rank": 33,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 191758,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1758266662,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173830,
+      "num": 106209,
+      "word": "王者新英雄名字怎么念",
+      "onboard_time": 1758278542,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 173073,
@@ -1403,20 +1435,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143795,
+      "num": 143795,
+      "word": "柴碧云现场真手撕渣男",
+      "onboard_time": 1758276201,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142737,
       "num": 142737,
       "word": "亲爱的三月七PV",
       "onboard_time": 1758260183,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142522,
-      "num": 142522,
-      "word": "柴碧云现场真手撕渣男",
-      "onboard_time": 1758276201,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 142420,
@@ -1627,14 +1659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122101,
-      "num": 122101,
-      "word": "地方反映教师不愿当班主任",
-      "onboard_time": 1758277224,
-      "rank": 33,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 121743,
       "num": 121743,
       "word": "詹姆斯说退役就快要来临",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1758268222,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112284,
+      "num": 105431,
+      "word": "吃饭是了解一个人最快的方式",
+      "onboard_time": 1758275903,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 111645,
@@ -1923,14 +1955,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 101072,
-      "num": 199449,
-      "word": "香港黄金劫案37岁主谋落网",
-      "onboard_time": 1758276743,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100625,
       "num": 518603,
       "word": "孙颖莎就爱这口纯脆",
@@ -1947,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99527,
+      "num": 203291,
+      "word": "被害少女父母为了安全特意装监控",
+      "onboard_time": 1758276802,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99173,
       "num": 99173,
       "word": "苹果计算器复制 四舍五入",
@@ -1955,12 +1987,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 96537,
-      "num": 96537,
-      "word": "吃饭是了解一个人最快的方式",
-      "onboard_time": 1758275903,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 92934,
+      "num": 92934,
+      "word": "马柏全四宫格",
+      "onboard_time": 1758278242,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 92338,
@@ -2147,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78505,
+      "num": 133611,
+      "word": "28年前录像厅杀人案告破",
+      "onboard_time": 1758276084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77617,
       "num": 91189,
       "word": "五彩模式的秋天又要来了",
@@ -2169,6 +2209,22 @@
       "onboard_time": 1758208163,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75498,
+      "num": 84669,
+      "word": "小米17系列定金盲约量较上代翻倍",
+      "onboard_time": 1758275422,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 74662,
+      "num": 84662,
+      "word": "原来这是缺爱的表现",
+      "onboard_time": 1758275843,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 74245,
@@ -2265,14 +2321,6 @@
       "onboard_time": 1758197844,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59387,
-      "num": 133611,
-      "word": "28年前录像厅杀人案告破",
-      "onboard_time": 1758276084,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59203,
@@ -2443,6 +2491,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 42011,
+      "num": 99277,
+      "word": "布达拉宫居然可以吃",
+      "onboard_time": 1758277943,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41870,
       "num": 141347,
       "word": "张子枫最让人心疼的一个笑",
@@ -2515,14 +2571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35004,
-      "num": 203291,
-      "word": "被害少女父母为了安全特意装监控",
-      "onboard_time": 1758276802,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34772,
       "num": 59522,
       "word": "李嘉欣在香港扫货被偶遇",
@@ -2553,6 +2601,14 @@
       "onboard_time": 1758253342,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28996,
+      "num": 98026,
+      "word": "张馨予的体重从来没有下过百",
+      "onboard_time": 1758278063,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 27808,

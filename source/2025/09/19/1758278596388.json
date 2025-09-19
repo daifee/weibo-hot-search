@@ -1,0 +1,410 @@
+{
+  "runTime": 1758278596388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 813453,
+        "num": 1130152,
+        "word": "特朗普拒绝批准4亿美元对台军售",
+        "onboard_time": 1758274402,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 486916,
+        "num": 486916,
+        "word": "最适合穷游的三个城市",
+        "onboard_time": 1758267922,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 5903,
+        "num": 443196,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758270922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420111,
+        "num": 420111,
+        "word": "陈数的专业含金量到了埃及噌噌暴涨",
+        "onboard_time": 1758275003,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379956,
+        "num": 379956,
+        "word": "山东高院回应农妇辱骂法官被罚10万",
+        "onboard_time": 1758272902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363162,
+        "num": 363162,
+        "word": "埃及3000年前金镯被熔卖了不到3万元",
+        "onboard_time": 1758272360,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 291447,
+        "num": 291447,
+        "word": "董璇选择张维伊的原因找到了",
+        "onboard_time": 1758260303,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288379,
+        "num": 288379,
+        "word": "鸡蛋羹 预制",
+        "onboard_time": 1758276022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279293,
+        "num": 279293,
+        "word": "关晓彤接住了刘涛的戏",
+        "onboard_time": 1758265402,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204762,
+        "num": 238435,
+        "word": "山姆门店回应卖冷冻2年的西兰花",
+        "onboard_time": 1758277884,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 868207,
+        "num": 236073,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371331,
+        "num": 234854,
+        "word": "以为马思纯张晚意抱一起了",
+        "onboard_time": 1758274642,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233591,
+        "num": 233591,
+        "word": "张智霖儿子在歌手做暑假工",
+        "onboard_time": 1758276683,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227025,
+        "num": 227025,
+        "word": "iPhone17Pro线下展出真机已满身划痕",
+        "onboard_time": 1758258083,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221354,
+        "num": 221354,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198731,
+        "num": 198731,
+        "word": "春秋航空又省又赚半年挣了11亿",
+        "onboard_time": 1758273622,
+        "rank": 15,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 194709,
+        "num": 194709,
+        "word": "香港黄金劫案37岁主谋落网",
+        "onboard_time": 1758276743,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193518,
+        "num": 193518,
+        "word": "地方反映教师不愿当班主任",
+        "onboard_time": 1758277224,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 162863,
+        "num": 162863,
+        "word": "王家卫繁花被曝疑似压榨员工",
+        "onboard_time": 1758264981,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160157,
+        "num": 162381,
+        "word": "向往的生活8官宣",
+        "onboard_time": 1758256944,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161987,
+        "num": 161987,
+        "word": "韩国下令必要时强力应对反华集会",
+        "onboard_time": 1758266242,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161895,
+        "num": 161895,
+        "word": "内娱缝纫机TOP出现了",
+        "onboard_time": 1758276922,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156029,
+        "num": 156029,
+        "word": "冷冻2年的西兰花山姆也在卖",
+        "onboard_time": 1758269903,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145431,
+        "num": 145431,
+        "word": "赵晗遗体告别仪式明天举行",
+        "onboard_time": 1758263422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143795,
+        "num": 143795,
+        "word": "柴碧云现场真手撕渣男",
+        "onboard_time": 1758276201,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134403,
+        "num": 134403,
+        "word": "男子花16年用打字机从一打到一百万",
+        "onboard_time": 1758271942,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129836,
+        "num": 129836,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122196,
+        "num": 122196,
+        "word": "女主播赴约打榜大哥遭性侵",
+        "onboard_time": 1758255745,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116224,
+        "num": 116224,
+        "word": "琅琊榜",
+        "onboard_time": 1758258744,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106478,
+        "num": 106478,
+        "word": "管乐吐槽祝绪丹没有良心",
+        "onboard_time": 1758267382,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173830,
+        "num": 106209,
+        "word": "王者新英雄名字怎么念",
+        "onboard_time": 1758278542,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99527,
+        "num": 105542,
+        "word": "被害少女父母为了安全特意装监控",
+        "onboard_time": 1758276802,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112284,
+        "num": 105431,
+        "word": "吃饭是了解一个人最快的方式",
+        "onboard_time": 1758275903,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105024,
+        "num": 105024,
+        "word": "云海肴创始人赵晗去世",
+        "onboard_time": 1758259163,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104714,
+        "num": 104714,
+        "word": "iPhone17Pro首批用户反馈品控",
+        "onboard_time": 1758272421,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99904,
+        "num": 99904,
+        "word": "男子欠债35万崖下洞居5年",
+        "onboard_time": 1758263064,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42011,
+        "num": 99277,
+        "word": "布达拉宫居然可以吃",
+        "onboard_time": 1758277943,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98965,
+        "num": 98965,
+        "word": "iPhone17实体上手",
+        "onboard_time": 1758273081,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98691,
+        "num": 98691,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28996,
+        "num": 98026,
+        "word": "张馨予的体重从来没有下过百",
+        "onboard_time": 1758278063,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97910,
+        "num": 97910,
+        "word": "释永信案多人协助调查",
+        "onboard_time": 1758274223,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94151,
+        "num": 94151,
+        "word": "翟欣欣辱骂苏某某语音曝光",
+        "onboard_time": 1758274822,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94012,
+        "num": 94012,
+        "word": "影视飓风员工怒怼代理公司",
+        "onboard_time": 1758270983,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92934,
+        "num": 92934,
+        "word": "马柏全四宫格",
+        "onboard_time": 1758278242,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90124,
+        "num": 90124,
+        "word": "迅猛龙被男网红孤立",
+        "onboard_time": 1758254363,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85666,
+        "num": 85666,
+        "word": "管乐承认吧其实你一直都没忘",
+        "onboard_time": 1758275963,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84686,
+        "num": 84686,
+        "word": "台风",
+        "onboard_time": 1758264621,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78505,
+        "num": 84676,
+        "word": "28年前录像厅杀人案告破",
+        "onboard_time": 1758276084,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75498,
+        "num": 84669,
+        "word": "小米17系列定金盲约量较上代翻倍",
+        "onboard_time": 1758275422,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74662,
+        "num": 84662,
+        "word": "原来这是缺爱的表现",
+        "onboard_time": 1758275843,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国致公党成立100周年#"
+    }
+  }
+}
