@@ -1,0 +1,410 @@
+{
+  "runTime": 1758264524434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2209884,
+        "num": 2209884,
+        "word": "祝绪丹 你算老几",
+        "onboard_time": 1758259944,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2104126,
+        "num": 2104126,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32956,
+        "num": 1106192,
+        "word": "近距离看航空展名场面",
+        "onboard_time": 1758246681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1094283,
+        "num": 1094283,
+        "word": "董璇选择张维伊的原因找到了",
+        "onboard_time": 1758260303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 831465,
+        "num": 831465,
+        "word": "云海肴创始人赵晗去世",
+        "onboard_time": 1758259163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573179,
+        "num": 573179,
+        "word": "iPhone17Pro线下展出真机已满身划痕",
+        "onboard_time": 1758258083,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 765446,
+        "num": 490146,
+        "word": "白敬亭回应生理性演技",
+        "onboard_time": 1758259163,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594149,
+        "num": 459972,
+        "word": "琅琊榜",
+        "onboard_time": 1758258744,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334589,
+        "num": 334589,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283142,
+        "num": 283142,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188060,
+        "num": 282148,
+        "word": "崔丽丽老公说没有胜利可言",
+        "onboard_time": 1758264142,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581868,
+        "num": 276628,
+        "word": "向往的生活8官宣",
+        "onboard_time": 1758256944,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574522,
+        "num": 269803,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 510943,
+        "num": 264251,
+        "word": "女主播赴约打榜大哥遭性侵",
+        "onboard_time": 1758255745,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385595,
+        "num": 262597,
+        "word": "迅猛龙被男网红孤立",
+        "onboard_time": 1758254363,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 345750,
+        "num": 255544,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252657,
+        "num": 252657,
+        "word": "赵晗遗体告别仪式明天举行",
+        "onboard_time": 1758263422,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251107,
+        "num": 251107,
+        "word": "内娱男频三巨头",
+        "onboard_time": 1758255503,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88475,
+        "num": 234461,
+        "word": "时代少年团飞行向往的生活",
+        "onboard_time": 1758263662,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32115,
+        "num": 227383,
+        "word": "解限机新赛季开启",
+        "onboard_time": 1758262163,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225631,
+        "num": 225631,
+        "word": "22岁过上了上一休六的退休生活",
+        "onboard_time": 1758258923,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218281,
+        "num": 218281,
+        "word": "男子欠债35万崖下洞居5年",
+        "onboard_time": 1758263064,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207292,
+        "num": 207292,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1758254064,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 198030,
+        "num": 198030,
+        "word": "49元爆火窜稀酸奶成新型泻药",
+        "onboard_time": 1758262163,
+        "rank": 23,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 200152,
+        "num": 198025,
+        "word": "张艺兴鸟巢演唱会售罄",
+        "onboard_time": 1758263304,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186479,
+        "num": 186479,
+        "word": "刘芸竟然是陈紫函戴向宇的红娘",
+        "onboard_time": 1758257424,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179906,
+        "num": 179906,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174289,
+        "num": 174289,
+        "word": "翟欣欣索要精神损失费1000万元",
+        "onboard_time": 1758251181,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173027,
+        "num": 173027,
+        "word": "王玉雯终于又演古装剧了",
+        "onboard_time": 1758261982,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166541,
+        "num": 166541,
+        "word": "女孩被同班男生杀害尸体距家仅100米",
+        "onboard_time": 1758252505,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165446,
+        "num": 165446,
+        "word": "小米召回11.7万辆标准版SU7",
+        "onboard_time": 1758246441,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164337,
+        "num": 164337,
+        "word": "小米SU7今年已两次大批召回",
+        "onboard_time": 1758264203,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161485,
+        "num": 161485,
+        "word": "抢走8月大婴儿2万8卖了",
+        "onboard_time": 1758256224,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157901,
+        "num": 157901,
+        "word": "保质期1年预制鸡蛋液1袋能蒸8碗",
+        "onboard_time": 1758261743,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31287,
+        "num": 153570,
+        "word": "日照金山日月同辉帽子云同框有多美",
+        "onboard_time": 1758262403,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152415,
+        "num": 152415,
+        "word": "尽早做让你生理性喜欢的事",
+        "onboard_time": 1758263662,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149480,
+        "num": 149480,
+        "word": "农村婚礼真的很考验摄影师",
+        "onboard_time": 1758261504,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146203,
+        "num": 146203,
+        "word": "李承铉天上飞的含金量还在上升",
+        "onboard_time": 1758264082,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141344,
+        "num": 141344,
+        "word": "歼6无人机终于实锤",
+        "onboard_time": 1758262043,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 41870,
+        "num": 141305,
+        "word": "张子枫最让人心疼的一个笑",
+        "onboard_time": 1758263603,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23962,
+        "num": 141297,
+        "word": "翟欣欣式骗婚为何构成敲诈勒索",
+        "onboard_time": 1758264503,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141296,
+        "num": 141296,
+        "word": "中方对表决结果非常失望",
+        "onboard_time": 1758241883,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139805,
+        "num": 139805,
+        "word": "当妈妈以为爸爸没有给我装水果时",
+        "onboard_time": 1758263723,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135256,
+        "num": 135256,
+        "word": "李荣浩回应iOS26受益",
+        "onboard_time": 1758262942,
+        "rank": 43,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 127721,
+        "num": 127721,
+        "word": "詹姆斯称银行卡上就只几千块",
+        "onboard_time": 1758258685,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127597,
+        "num": 127597,
+        "word": "韩国偶遇任重孙骁骁一家",
+        "onboard_time": 1758256585,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125779,
+        "num": 125779,
+        "word": "曝Jiejie与S冠下路录节目",
+        "onboard_time": 1758261142,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125167,
+        "num": 125167,
+        "word": "第一批用上iPhone17的人出现了",
+        "onboard_time": 1758263542,
+        "rank": 47,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 22754,
+        "num": 120243,
+        "word": "SKULLPANDA也遁入CROCS洞门了",
+        "onboard_time": 1758260303,
+        "rank": 48,
+        "category": "时尚,休闲"
+      },
+      {
+        "raw_hot": 120130,
+        "num": 120130,
+        "word": "VOGUE男刊",
+        "onboard_time": 1758259882,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是不畏强暴自立自强的伟大民族#"
+    }
+  }
+}
