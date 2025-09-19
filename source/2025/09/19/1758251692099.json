@@ -1,0 +1,410 @@
+{
+  "runTime": 1758251692099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422215,
+        "num": 1422215,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1514304,
+        "num": 1268032,
+        "word": "小米召回11.7万辆标准版SU7",
+        "onboard_time": 1758246441,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48523,
+        "num": 1044747,
+        "word": "公安部公布10起网络违法犯罪典型案例",
+        "onboard_time": 1758238458,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3071146,
+        "num": 1043822,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1040724,
+        "num": 1040724,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 958043,
+        "num": 958043,
+        "word": "中方对表决结果非常失望",
+        "onboard_time": 1758241883,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 859282,
+        "num": 859282,
+        "word": "震耳欲聋定档",
+        "onboard_time": 1758248242,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 565972,
+        "num": 565972,
+        "word": "老人被曝用废弃空瓶灌水卖游客",
+        "onboard_time": 1758247882,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524877,
+        "num": 524877,
+        "word": "导演让刚出生女儿出演剖腹取婴镜头",
+        "onboard_time": 1758203184,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298798,
+        "num": 480841,
+        "word": "山东入室抢婴案1人被判死缓",
+        "onboard_time": 1758250582,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664963,
+        "num": 475812,
+        "word": "周扬青说目前没人配得上我",
+        "onboard_time": 1758246021,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467760,
+        "num": 467760,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298273,
+        "num": 298273,
+        "word": "19岁女子腹痛就诊后2小时分娩",
+        "onboard_time": 1758207444,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285539,
+        "num": 285539,
+        "word": "入局 郭麒麟宋祖儿",
+        "onboard_time": 1758244641,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246854,
+        "num": 246854,
+        "word": "中国代表三问以色列美国",
+        "onboard_time": 1758244880,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246254,
+        "num": 246254,
+        "word": "成毅拿剧本出镜算失误吗",
+        "onboard_time": 1758208524,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241967,
+        "num": 241967,
+        "word": "女子否认怀孕影像检查2小时后分娩",
+        "onboard_time": 1758208643,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218994,
+        "num": 239441,
+        "word": "731日籍演员在中国演了20多年日军",
+        "onboard_time": 1758247821,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41369,
+        "num": 233378,
+        "word": "华为天生会画大赛正式开启",
+        "onboard_time": 1758248301,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60554,
+        "num": 231222,
+        "word": "华为广汽官宣新品牌启境汽车",
+        "onboard_time": 1758251061,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 454238,
+        "num": 225186,
+        "word": "韩国人称只有韩国吃饭用勺子",
+        "onboard_time": 1758249562,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 223333,
+        "num": 223333,
+        "word": "光遇",
+        "onboard_time": 1758251061,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211830,
+        "num": 211830,
+        "word": "王骁发文力挺成毅",
+        "onboard_time": 1758239301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202065,
+        "num": 202065,
+        "word": "WTT中国大满贯外卡及提名名单",
+        "onboard_time": 1758250761,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193798,
+        "num": 193798,
+        "word": "彭昱畅对不起了向佐老师",
+        "onboard_time": 1758249801,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185014,
+        "num": 185014,
+        "word": "李嘉欣每个月可以领200万港币的生活费",
+        "onboard_time": 1758214159,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104231,
+        "num": 184231,
+        "word": "早餐还没送到iPhone17到了",
+        "onboard_time": 1758247401,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183896,
+        "num": 183896,
+        "word": "李在明相信特朗普在开玩笑",
+        "onboard_time": 1758241941,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174915,
+        "num": 174915,
+        "word": "水果吃太多可能会加速衰老",
+        "onboard_time": 1758251181,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166023,
+        "num": 166023,
+        "word": "宋亚轩身体柔韧度强得可怕",
+        "onboard_time": 1758250281,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160023,
+        "num": 160023,
+        "word": "奥巴马说我不是总统冲我喊没用",
+        "onboard_time": 1758250882,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155650,
+        "num": 155650,
+        "word": "翟欣欣索要精神损失费1000万元",
+        "onboard_time": 1758251181,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146981,
+        "num": 146981,
+        "word": "香港西九龙重案组",
+        "onboard_time": 1758250281,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145725,
+        "num": 145725,
+        "word": "白化病姑娘被同学夸发色好看",
+        "onboard_time": 1758240321,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141377,
+        "num": 141377,
+        "word": "刘嘉玲晒一路繁花合照",
+        "onboard_time": 1758246261,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136009,
+        "num": 136009,
+        "word": "赴山海情节被吐槽跟于北辰有一拼",
+        "onboard_time": 1758251420,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135425,
+        "num": 135425,
+        "word": "香港黄金盗窃案13人被捕",
+        "onboard_time": 1758238639,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135383,
+        "num": 135383,
+        "word": "白衣公卿",
+        "onboard_time": 1758240382,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134071,
+        "num": 134071,
+        "word": "王安宇张天爱新片来不及了快上车",
+        "onboard_time": 1758251360,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132586,
+        "num": 132586,
+        "word": "上班和不上班哪个花的多",
+        "onboard_time": 1758246502,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132507,
+        "num": 132507,
+        "word": "iPhone17",
+        "onboard_time": 1758246561,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132468,
+        "num": 132468,
+        "word": "震耳欲聋",
+        "onboard_time": 1758248242,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126922,
+        "num": 126922,
+        "word": "电影731导演妻子发声",
+        "onboard_time": 1758246919,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124243,
+        "num": 124243,
+        "word": "各大奶茶最好喝的一杯",
+        "onboard_time": 1758205585,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119795,
+        "num": 119795,
+        "word": "给浪姐们报个谢霆锋的班吧",
+        "onboard_time": 1758249862,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117487,
+        "num": 117487,
+        "word": "骑车人被撞该不该谁违规谁负责",
+        "onboard_time": 1758242842,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112598,
+        "num": 112598,
+        "word": "4人入室抢婴案一审宣判",
+        "onboard_time": 1758247582,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111751,
+        "num": 111751,
+        "word": "17号台风后18号19号也快了",
+        "onboard_time": 1758210083,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111607,
+        "num": 111607,
+        "word": "2025空军航空开放活动剧透来了",
+        "onboard_time": 1758245480,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 103024,
+        "num": 109372,
+        "word": "詹姆斯说退役就快要来临",
+        "onboard_time": 1758249683,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗战纪念活动是生动的爱国主义教材#"
+    }
+  }
+}

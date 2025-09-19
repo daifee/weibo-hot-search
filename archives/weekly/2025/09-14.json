@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758251158371,
+  "endTime": 1758251692099,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -75,20 +75,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3071146,
+      "num": 1062027,
+      "word": "难听",
+      "onboard_time": 1758247521,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2870732,
       "num": 2870732,
       "word": "731",
       "onboard_time": 1757903181,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2849174,
-      "num": 1062027,
-      "word": "难听",
-      "onboard_time": 1758247521,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 2710877,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1422215,
+      "num": 1422215,
+      "word": "iPhone17Pro被黄牛拒收",
+      "onboard_time": 1758248420,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1419585,
       "num": 445035,
       "word": "易烊千玺 下播最快的主包",
@@ -577,14 +585,6 @@
       "onboard_time": 1758159440,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1310509,
-      "num": 1310509,
-      "word": "iPhone17Pro被黄牛拒收",
-      "onboard_time": 1758248420,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1307674,
@@ -875,6 +875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1040724,
+      "num": 1040724,
+      "word": "翟欣欣一审获刑12年",
+      "onboard_time": 1758249621,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1037710,
       "num": 1037710,
       "word": "雷军 全面对标iPhone",
@@ -1155,14 +1163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 881517,
-      "num": 881517,
-      "word": "翟欣欣一审获刑12年",
-      "onboard_time": 1758249621,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 878237,
       "num": 878237,
       "word": "iPhone18Pro已打样",
@@ -1201,6 +1201,14 @@
       "onboard_time": 1757815823,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 859282,
+      "num": 859282,
+      "word": "震耳欲聋定档",
+      "onboard_time": 1758248242,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 857164,
@@ -1313,14 +1321,6 @@
       "onboard_time": 1757823201,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 833302,
-      "num": 833302,
-      "word": "震耳欲聋定档",
-      "onboard_time": 1758248242,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 826241,
@@ -1636,7 +1636,7 @@
     },
     {
       "raw_hot": 706451,
-      "num": 423393,
+      "num": 475812,
       "word": "周扬青说目前没人配得上我",
       "onboard_time": 1758246021,
       "rank": 30,
@@ -2107,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 565972,
+      "num": 565972,
+      "word": "老人被曝用废弃空瓶灌水卖游客",
+      "onboard_time": 1758247882,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564698,
       "num": 324445,
       "word": "唐嫣裙子勒得动不了",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1757805198,
       "rank": 30,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 521396,
-      "num": 521396,
-      "word": "老人被曝用废弃空瓶灌水卖游客",
-      "onboard_time": 1758247882,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 519183,
@@ -2825,6 +2825,14 @@
       "onboard_time": 1757931322,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 454238,
+      "num": 252673,
+      "word": "韩国人称只有韩国吃饭用勺子",
+      "onboard_time": 1758249562,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 452759,
@@ -3900,7 +3908,7 @@
     },
     {
       "raw_hot": 326458,
-      "num": 326458,
+      "num": 480841,
       "word": "山东入室抢婴案1人被判死缓",
       "onboard_time": 1758250582,
       "rank": 13,
@@ -4017,14 +4025,6 @@
       "onboard_time": 1758005963,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 315572,
-      "num": 252673,
-      "word": "韩国人称只有韩国吃饭用勺子",
-      "onboard_time": 1758249562,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 315528,
@@ -5315,6 +5315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223333,
+      "num": 223333,
+      "word": "光遇",
+      "onboard_time": 1757995583,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223279,
       "num": 234153,
       "word": "世界第二大网红遇上折耳根也没招了",
@@ -5433,6 +5441,14 @@
       "onboard_time": 1757855845,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218994,
+      "num": 274184,
+      "word": "731日籍演员在中国演了20多年日军",
+      "onboard_time": 1758247821,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 218986,
@@ -5779,14 +5795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207427,
-      "num": 274184,
-      "word": "731日籍演员在中国演了20多年日军",
-      "onboard_time": 1758247821,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 206999,
       "num": 206999,
       "word": "女子从小攒指甲卖给专门回收者",
@@ -5955,6 +5963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202065,
+      "num": 202065,
+      "word": "WTT中国大满贯外卡及提名名单",
+      "onboard_time": 1758250761,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201992,
       "num": 201992,
       "word": "清华回应孙颖莎王曼昱免试读研",
@@ -5969,14 +5985,6 @@
       "onboard_time": 1757805379,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200981,
-      "num": 200981,
-      "word": "WTT中国大满贯外卡及提名名单",
-      "onboard_time": 1758250761,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 200970,
@@ -6121,14 +6129,6 @@
       "onboard_time": 1758098002,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197982,
-      "num": 197982,
-      "word": "光遇",
-      "onboard_time": 1757995583,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 197726,
@@ -6361,6 +6361,14 @@
       "onboard_time": 1757918482,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193798,
+      "num": 193798,
+      "word": "彭昱畅对不起了向佐老师",
+      "onboard_time": 1758249801,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 193724,
@@ -7003,14 +7011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181240,
-      "num": 181240,
-      "word": "彭昱畅对不起了向佐老师",
-      "onboard_time": 1758249801,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180946,
       "num": 180946,
       "word": "邪修月饼只需一秒就够了",
@@ -7265,6 +7265,14 @@
       "onboard_time": 1757991323,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174915,
+      "num": 174915,
+      "word": "水果吃太多可能会加速衰老",
+      "onboard_time": 1758251181,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174891,
@@ -8227,6 +8235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160023,
+      "num": 160023,
+      "word": "奥巴马说我不是总统冲我喊没用",
+      "onboard_time": 1758250882,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159967,
       "num": 233342,
       "word": "iOS26续航",
@@ -8521,6 +8537,14 @@
       "onboard_time": 1758020603,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155650,
+      "num": 155650,
+      "word": "翟欣欣索要精神损失费1000万元",
+      "onboard_time": 1758251181,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155572,
@@ -9145,6 +9169,14 @@
       "onboard_time": 1758120084,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146981,
+      "num": 146981,
+      "word": "香港西九龙重案组",
+      "onboard_time": 1758250281,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146773,
@@ -10003,6 +10035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136009,
+      "num": 136009,
+      "word": "赴山海情节被吐槽跟于北辰有一拼",
+      "onboard_time": 1758251420,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135905,
       "num": 135905,
       "word": "女生在宿舍生娃大人小孩平安",
@@ -10211,6 +10251,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 134071,
+      "num": 134071,
+      "word": "王安宇张天爱新片来不及了快上车",
+      "onboard_time": 1758251360,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133973,
       "num": 133973,
       "word": "王昶巧妙回应记者发难",
@@ -10368,14 +10416,6 @@
       "word": "安踏通报一总裁级人员涉嫌违法",
       "onboard_time": 1758036626,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132414,
-      "num": 132414,
-      "word": "香港西九龙重案组",
-      "onboard_time": 1758250281,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -11523,6 +11563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119795,
+      "num": 162814,
+      "word": "给浪姐们报个谢霆锋的班吧",
+      "onboard_time": 1758249862,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119694,
       "num": 119694,
       "word": "我将不会再买放不下手机的衣服了",
@@ -11817,14 +11865,6 @@
       "onboard_time": 1757827163,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117128,
-      "num": 162814,
-      "word": "给浪姐们报个谢霆锋的班吧",
-      "onboard_time": 1758249862,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 117054,
@@ -14283,14 +14323,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 88902,
-      "num": 133968,
-      "word": "奥巴马说我不是总统冲我喊没用",
-      "onboard_time": 1758250882,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 88796,
       "num": 227574,
       "word": "正厅级孙永红任上被查",
@@ -14684,7 +14716,7 @@
     },
     {
       "raw_hot": 80340,
-      "num": 165044,
+      "num": 231222,
       "word": "华为广汽官宣新品牌启境汽车",
       "onboard_time": 1758251061,
       "rank": 28,

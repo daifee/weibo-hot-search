@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 11:05:58
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 11:14:52
 </p>
 </blockquote>
 <p>
@@ -285,6 +285,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
+难听（热度：3071146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B3%B0%E5%AE%87%20%E4%BD%A0%E7%9A%84%E7%AC%91%E5%AE%B9%E6%B0%B8%E8%BF%9C%E5%AE%9A%E6%A0%BC%E5%9C%A8%E8%AE%B0%E5%BF%86%E4%B8%AD%23" target="weibo">
 高泰宇 你的笑容永远定格在记忆中（热度：3065448）
 </a>
@@ -341,12 +347,6 @@ iPhone17系列价格（热度：3052336）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23731%23" target="weibo">
 731（热度：2870732）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
-难听（热度：2849174）
 </a>
 </li>
 
@@ -1413,6 +1413,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E8%A2%AB%E9%BB%84%E7%89%9B%E6%8B%92%E6%94%B6%23" target="weibo">
+iPhone17Pro被黄牛拒收（热度：1422215）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E4%B8%8B%E6%92%AD%E6%9C%80%E5%BF%AB%E7%9A%84%E4%B8%BB%E5%8C%85%23" target="weibo">
 易烊千玺 下播最快的主包（热度：1419585）
 </a>
@@ -1613,12 +1619,6 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E9%83%A8%E9%98%9F%23" target="weibo">
 网络空间部队（热度：1310808）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E8%A2%AB%E9%BB%84%E7%89%9B%E6%8B%92%E6%94%B6%23" target="weibo">
-iPhone17Pro被黄牛拒收（热度：1310509）
 </a>
 </li>
 
@@ -2343,6 +2343,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9112%E5%B9%B4%23" target="weibo">
+翟欣欣一审获刑12年（热度：1040724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%9B%9D%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%99%90%E5%BE%85%E8%87%B4%E6%AD%BB%E5%8F%AF%E6%80%95%E7%BB%86%E8%8A%82%23" target="weibo">
 父亲曝女儿被虐待致死可怕细节（热度：1038057）
 </a>
@@ -2949,12 +2955,6 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9112%E5%B9%B4%23" target="weibo">
-翟欣欣一审获刑12年（热度：881517）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%B7%B2%E6%89%93%E6%A0%B7%23" target="weibo">
 iPhone18Pro已打样（热度：878237）
 </a>
@@ -3077,6 +3077,12 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%80%81%E6%9D%BF%E7%9C%8B%E4%B8%8A%E7%94%B7%E4%B8%8B%E5%B1%9E%E8%8A%B1300%E4%B8%87%E8%AE%A9%E5%85%B6%E7%A6%BB%E5%A9%9A%23" target="weibo">
 女老板看上男下属花300万让其离婚（热度：861041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E5%AE%9A%E6%A1%A3%23" target="weibo">
+震耳欲聋定档（热度：859282）
 </a>
 </li>
 
@@ -3293,12 +3299,6 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E6%87%92%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23" target="weibo">
 抑郁症的懒到底有多可怕（热度：833851）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E5%AE%9A%E6%A1%A3%23" target="weibo">
-震耳欲聋定档（热度：833302）
 </a>
 </li>
 
@@ -5415,6 +5415,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E6%9B%9D%E7%94%A8%E5%BA%9F%E5%BC%83%E7%A9%BA%E7%93%B6%E7%81%8C%E6%B0%B4%E5%8D%96%E6%B8%B8%E5%AE%A2%23" target="weibo">
+老人被曝用废弃空瓶灌水卖游客（热度：565972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%A0%B4%E4%BA%A7%E5%90%8E%E6%AF%8F%E6%9C%88%E9%9C%80%E8%BF%98%E6%AC%BE6%E4%BD%8D%E6%95%B0%23" target="weibo">
 亿万富翁破产后每月需还款6位数（热度：565209）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%AD%A4%E7%94%B5%E7%AB%9E%E5%B0%8F%E8%AF%B4%E7%94%B7%E4%B8%BB%E6%9C%89%E8%84%B8%E4%BA%86%23" target="weibo">
 从此电竞小说男主有脸了（热度：524501）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%9D%8E%E6%B2%81%E5%AB%82%E5%AD%90%E5%BC%80%E9%97%A8%E6%88%91%E6%98%AF%E6%88%91%E5%93%A5%23" target="weibo">
-张晚意李沁嫂子开门我是我哥（热度：524459）
 </a>
 </li>
 
