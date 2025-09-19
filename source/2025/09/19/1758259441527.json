@@ -1,0 +1,410 @@
+{
+  "runTime": 1758259441527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182969,
+        "num": 1189275,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734554,
+        "num": 734554,
+        "word": "iPhone17Pro线下展出真机已满身划痕",
+        "onboard_time": 1758258083,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38640,
+        "num": 714282,
+        "word": "近距离看航空展名场面",
+        "onboard_time": 1758246681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 711398,
+        "num": 711398,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 668736,
+        "num": 668736,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 586596,
+        "num": 586596,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543589,
+        "num": 543589,
+        "word": "中方对表决结果非常失望",
+        "onboard_time": 1758241883,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530181,
+        "num": 530181,
+        "word": "内娱男频三巨头",
+        "onboard_time": 1758255503,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474356,
+        "num": 474356,
+        "word": "向往的生活",
+        "onboard_time": 1758252322,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456152,
+        "num": 456152,
+        "word": "小米召回11.7万辆标准版SU7",
+        "onboard_time": 1758246441,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1465851,
+        "num": 452659,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100625,
+        "num": 448254,
+        "word": "孙颖莎就爱这口纯脆",
+        "onboard_time": 1758258623,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1303478,
+        "num": 446999,
+        "word": "女主播赴约打榜大哥遭性侵",
+        "onboard_time": 1758255745,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672092,
+        "num": 439840,
+        "word": "迅猛龙被男网红孤立",
+        "onboard_time": 1758254363,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 438346,
+        "num": 438346,
+        "word": "向往的生活8官宣",
+        "onboard_time": 1758256944,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615236,
+        "num": 409840,
+        "word": "女孩被同班男生杀害尸体距家仅100米",
+        "onboard_time": 1758252505,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110554,
+        "num": 366085,
+        "word": "翟欣欣苏享茂婚姻仅42天",
+        "onboard_time": 1758251722,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354523,
+        "num": 354523,
+        "word": "iOS26同时解决了网瘾和猪瘾",
+        "onboard_time": 1758253403,
+        "rank": 17,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 33038,
+        "num": 329491,
+        "word": "美团闪购让何广智装到了",
+        "onboard_time": 1758258744,
+        "rank": 18,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 84580,
+        "num": 327080,
+        "word": "Faker回应再战GEN",
+        "onboard_time": 1758258442,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 326368,
+        "num": 326368,
+        "word": "香港西九龙重案组",
+        "onboard_time": 1758250281,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313527,
+        "num": 313527,
+        "word": "翟欣欣索要精神损失费1000万元",
+        "onboard_time": 1758251181,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364368,
+        "num": 293745,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1758254064,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 337826,
+        "num": 289811,
+        "word": "刘芸竟然是陈紫函戴向宇的红娘",
+        "onboard_time": 1758257424,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333784,
+        "num": 288882,
+        "word": "井川里予酒吧蹦迪",
+        "onboard_time": 1758253103,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272244,
+        "num": 272244,
+        "word": "比伯晒家规",
+        "onboard_time": 1758255323,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263263,
+        "num": 263263,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237416,
+        "num": 237416,
+        "word": "iPhone17Pro划痕",
+        "onboard_time": 1758258562,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227256,
+        "num": 227256,
+        "word": "汪藏海给吴邪留好大一个难题",
+        "onboard_time": 1758258503,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118234,
+        "num": 213971,
+        "word": "云海肴创始人赵晗去世",
+        "onboard_time": 1758259163,
+        "rank": 29,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 212105,
+        "num": 212105,
+        "word": "韩国偶遇任重孙骁骁一家",
+        "onboard_time": 1758256585,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191758,
+        "num": 191758,
+        "word": "詹姆斯称银行卡上就只几千块",
+        "onboard_time": 1758258685,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191602,
+        "num": 191602,
+        "word": "731日籍演员在中国演了20多年日军",
+        "onboard_time": 1758247821,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188636,
+        "num": 188636,
+        "word": "琅琊榜",
+        "onboard_time": 1758258744,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179682,
+        "num": 179682,
+        "word": "22岁过上了上一休六的退休生活",
+        "onboard_time": 1758258923,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171607,
+        "num": 171607,
+        "word": "杨幂把陈哲远逗成啥样了",
+        "onboard_time": 1758255084,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170325,
+        "num": 170325,
+        "word": "韩国人称只有韩国吃饭用勺子",
+        "onboard_time": 1758249562,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169821,
+        "num": 169821,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154734,
+        "num": 154734,
+        "word": "吴邪私家笔记空降",
+        "onboard_time": 1758258442,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73979,
+        "num": 151847,
+        "word": "白敬亭回应生理性演技",
+        "onboard_time": 1758259163,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113215,
+        "num": 151510,
+        "word": "零跑D19闯入9字辈豪华赛道",
+        "onboard_time": 1758259043,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151307,
+        "num": 151307,
+        "word": "老人被曝用废弃空瓶灌水卖游客",
+        "onboard_time": 1758247882,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132438,
+        "num": 147726,
+        "word": "博士后携妻子比利时卖豌杂面",
+        "onboard_time": 1758258024,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146863,
+        "num": 146863,
+        "word": "孙颖莎王楚钦混双北京见",
+        "onboard_time": 1758258744,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143857,
+        "num": 143857,
+        "word": "金昭玉醉定档",
+        "onboard_time": 1758255024,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141508,
+        "num": 141508,
+        "word": "一文梳理翟欣欣案时间线",
+        "onboard_time": 1758252023,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138767,
+        "num": 138767,
+        "word": "疑似陈哲远在密逃被吓疯了",
+        "onboard_time": 1758256466,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133976,
+        "num": 133976,
+        "word": "郑钧演唱会倒计时海报是儿子画的",
+        "onboard_time": 1758257543,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133193,
+        "num": 133193,
+        "word": "奥巴马说我不是总统冲我喊没用",
+        "onboard_time": 1758250882,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128773,
+        "num": 128773,
+        "word": "导演让刚出生女儿出演剖腹取婴镜头",
+        "onboard_time": 1758203184,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是不畏强暴自立自强的伟大民族#"
+    }
+  }
+}

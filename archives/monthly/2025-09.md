@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 12:43:19
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 13:24:01
 </p>
 </blockquote>
 <p>
@@ -1643,6 +1643,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E8%87%B43%E5%B2%81%E7%94%B7%E7%AB%A5%E5%8F%97%E4%BC%A4%23" target="weibo">
 小米手机突然爆炸致3岁男童受伤（热度：1306694）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%B5%B4%E7%BA%A6%E6%89%93%E6%A6%9C%E5%A4%A7%E5%93%A5%E9%81%AD%E6%80%A7%E4%BE%B5%23" target="weibo">
+女主播赴约打榜大哥遭性侵（热度：1303478）
 </a>
 </li>
 
@@ -3981,6 +3987,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E7%BA%BF%E4%B8%8B%E5%B1%95%E5%87%BA%E7%9C%9F%E6%9C%BA%E5%B7%B2%E6%BB%A1%E8%BA%AB%E5%88%92%E7%97%95%23" target="weibo">
+iPhone17Pro线下展出真机已满身划痕（热度：734554）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%BA%BA%E4%B8%BE%E5%9B%BD%E6%97%97%E7%9C%8B%E9%98%85%E5%85%B5%E9%A3%9E%E6%9C%BA%23" target="weibo">
 一家人举国旗看阅兵飞机（热度：734258）
 </a>
@@ -5103,12 +5115,6 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%B5%B4%E7%BA%A6%E6%89%93%E6%A6%9C%E5%A4%A7%E5%93%A5%E9%81%AD%E6%80%A7%E4%BE%B5%23" target="weibo">
-女主播赴约打榜大哥遭性侵（热度：598560）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83%E6%9C%896%E4%B8%AA%E9%A2%9C%E8%89%B2%23" target="weibo">
 8万只气球有6个颜色（热度：597362）
 </a>
@@ -5991,6 +5997,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B7%E9%A2%91%E4%B8%89%E5%B7%A8%E5%A4%B4%23" target="weibo">
+内娱男频三巨头（热度：530181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E7%B4%A2%E8%A6%81%E7%B2%BE%E7%A5%9E%E6%8D%9F%E5%A4%B1%E8%B4%B91000%E4%B8%87%E5%85%83%23" target="weibo">
 翟欣欣索要精神损失费1000万元（热度：530173）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%89%A7%E9%80%8F%E6%9D%A5%E4%BA%86%23" target="weibo">
 阅兵剧透来了（热度：529750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%81%BC%E7%81%BC%E9%9F%B6%E5%8D%8E%E5%AE%9A%E6%A1%A3%23" target="weibo">
-灼灼韶华定档（热度：529073）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%90%A7%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6%23" target="weibo">
-网吧行业现状（热度：528786）
 </a>
 </li>
 

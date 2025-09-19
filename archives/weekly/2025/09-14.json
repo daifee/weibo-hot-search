@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758256999745,
+  "endTime": 1758259441527,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -609,6 +609,14 @@
       "onboard_time": 1758010462,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1303478,
+      "num": 463345,
+      "word": "女主播赴约打榜大哥遭性侵",
+      "onboard_time": 1758255745,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1287827,
@@ -1611,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 734554,
+      "num": 734554,
+      "word": "iPhone17Pro线下展出真机已满身划痕",
+      "onboard_time": 1758258083,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 731502,
       "num": 731502,
       "word": "肖战的魏无羡真的好灵好灵",
@@ -2027,14 +2043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 598560,
-      "num": 463345,
-      "word": "女主播赴约打榜大哥遭性侵",
-      "onboard_time": 1758255745,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 597142,
       "num": 429000,
       "word": "别再给皮肤喂满汉全席了",
@@ -2377,6 +2385,14 @@
       "onboard_time": 1757821402,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 530181,
+      "num": 530181,
+      "word": "内娱男频三巨头",
+      "onboard_time": 1758255503,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 530173,
@@ -2979,6 +2995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 438346,
+      "num": 438346,
+      "word": "向往的生活8官宣",
+      "onboard_time": 1758256944,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436251,
       "num": 436251,
       "word": "马天宇出席釜山国际电影节",
@@ -3484,7 +3508,7 @@
     },
     {
       "raw_hot": 383487,
-      "num": 211447,
+      "num": 293745,
       "word": "33岁苦练化妆2个月的变化",
       "onboard_time": 1758254064,
       "rank": 30,
@@ -3929,6 +3953,14 @@
       "onboard_time": 1757847083,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337826,
+      "num": 289811,
+      "word": "刘芸竟然是陈紫函戴向宇的红娘",
+      "onboard_time": 1758257424,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 337664,
@@ -4715,6 +4747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 263263,
+      "num": 263263,
+      "word": "被老板强奸女高管老公回应",
+      "onboard_time": 1758259403,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262892,
       "num": 427558,
       "word": "那英5个字总结张晚意",
@@ -4737,14 +4777,6 @@
       "onboard_time": 1758161423,
       "rank": 18,
       "category": "剧集,体育"
-    },
-    {
-      "raw_hot": 261989,
-      "num": 261989,
-      "word": "内娱男频三巨头",
-      "onboard_time": 1758255503,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 261493,
@@ -5219,6 +5251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237416,
+      "num": 237416,
+      "word": "iPhone17Pro划痕",
+      "onboard_time": 1758258562,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 236529,
       "num": 236529,
       "word": "离婚后湖南富豪塞给女儿7.7亿元股票",
@@ -5393,6 +5433,14 @@
       "onboard_time": 1758034467,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227256,
+      "num": 227256,
+      "word": "汪藏海给吴邪留好大一个难题",
+      "onboard_time": 1758258503,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 227086,
@@ -5753,6 +5801,14 @@
       "onboard_time": 1757915784,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212105,
+      "num": 212105,
+      "word": "韩国偶遇任重孙骁骁一家",
+      "onboard_time": 1758256585,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 211960,
@@ -6755,6 +6811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191758,
+      "num": 191758,
+      "word": "詹姆斯称银行卡上就只几千块",
+      "onboard_time": 1758258685,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191609,
       "num": 191609,
       "word": "如何通过穿搭摆脱路人感",
@@ -6928,6 +6992,14 @@
       "word": "张一山新剧又干上卧底了",
       "onboard_time": 1757991323,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188636,
+      "num": 188636,
+      "word": "琅琊榜",
+      "onboard_time": 1758258744,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -7283,6 +7355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179682,
+      "num": 179682,
+      "word": "22岁过上了上一休六的退休生活",
+      "onboard_time": 1758258923,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179665,
       "num": 256060,
       "word": "奥斯卡回应恋综争议",
@@ -7385,14 +7465,6 @@
       "onboard_time": 1757827042,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178173,
-      "num": 178173,
-      "word": "韩国偶遇任重孙骁骁一家",
-      "onboard_time": 1758256585,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 177800,
@@ -7580,7 +7652,7 @@
     },
     {
       "raw_hot": 173968,
-      "num": 173968,
+      "num": 366085,
       "word": "翟欣欣苏享茂婚姻仅42天",
       "onboard_time": 1758251722,
       "rank": 33,
@@ -8875,6 +8947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154734,
+      "num": 154734,
+      "word": "吴邪私家笔记空降",
+      "onboard_time": 1758258442,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154721,
       "num": 256616,
       "word": "荆州市原市长周志红被查",
@@ -9473,6 +9553,14 @@
       "onboard_time": 1758120084,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146863,
+      "num": 146863,
+      "word": "孙颖莎王楚钦混双北京见",
+      "onboard_time": 1758258744,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146773,
@@ -10163,7 +10251,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138630,
+      "raw_hot": 138767,
       "num": 212605,
       "word": "疑似陈哲远在密逃被吓疯了",
       "onboard_time": 1758256466,
@@ -10587,6 +10675,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 133976,
+      "num": 133976,
+      "word": "郑钧演唱会倒计时海报是儿子画的",
+      "onboard_time": 1758257543,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133973,
       "num": 133973,
       "word": "王昶巧妙回应记者发难",
@@ -10745,6 +10841,14 @@
       "onboard_time": 1758036626,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132438,
+      "num": 147726,
+      "word": "博士后携妻子比利时卖豌杂面",
+      "onboard_time": 1758258024,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132341,
@@ -12075,6 +12179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118234,
+      "num": 213971,
+      "word": "云海肴创始人赵晗去世",
+      "onboard_time": 1758259163,
+      "rank": 29,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 118212,
       "num": 118212,
       "word": "李柯以回应是短剧第一女神",
@@ -12585,6 +12697,14 @@
       "onboard_time": 1758076944,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113215,
+      "num": 151510,
+      "word": "零跑D19闯入9字辈豪华赛道",
+      "onboard_time": 1758259043,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 113200,
@@ -13747,6 +13867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100625,
+      "num": 448254,
+      "word": "孙颖莎就爱这口纯脆",
+      "onboard_time": 1758258623,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100576,
       "num": 120536,
       "word": "金熊猫",
@@ -14843,6 +14971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84580,
+      "num": 327080,
+      "word": "Faker回应再战GEN",
+      "onboard_time": 1758258442,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84443,
       "num": 84443,
       "word": "可以二刷利剑玫瑰了",
@@ -15433,6 +15569,14 @@
       "onboard_time": 1757769564,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73979,
+      "num": 151847,
+      "word": "白敬亭回应生理性演技",
+      "onboard_time": 1758259163,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 73909,
@@ -16435,14 +16579,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 49870,
-      "num": 169683,
-      "word": "向往的生活8官宣",
-      "onboard_time": 1758256944,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 49770,
       "num": 75563,
       "word": "小伙7万5抵押14万新车赎回要13万多",
@@ -17121,6 +17257,14 @@
       "onboard_time": 1758105144,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33038,
+      "num": 329491,
+      "word": "美团闪购让何广智装到了",
+      "onboard_time": 1758258744,
+      "rank": 18,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 32975,
