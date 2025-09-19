@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758303533958,
+  "endTime": 1758306848921,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -38795,6 +38795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124772,
+      "num": 124772,
+      "word": "EDG告别巴黎全球冠军赛",
+      "onboard_time": 1758304097,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124752,
       "num": 124752,
       "word": "武契奇称中国是塞尔维亚最宝贵朋友",
@@ -45913,6 +45921,14 @@
       "onboard_time": 1757987782,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 103634,
+      "num": 103634,
+      "word": "男子毒死9条宠物狗一审2年未判",
+      "onboard_time": 1758296904,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103611,
@@ -53147,6 +53163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74197,
+      "num": 74197,
+      "word": "muggle",
+      "onboard_time": 1758304517,
+      "rank": 7,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 74189,
       "num": 169027,
       "word": "王曼昱说熬过这一段好好修养下",
@@ -54089,14 +54113,6 @@
       "onboard_time": 1757943084,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 68441,
-      "num": 99320,
-      "word": "男子毒死9条宠物狗一审2年未判",
-      "onboard_time": 1758296904,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68387,
@@ -58579,6 +58595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36877,
+      "num": 36877,
+      "word": "樊振东德国杯首秀",
+      "onboard_time": 1758306616,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36825,
       "num": 130274,
       "word": "多家美股AI巨头创新高",
@@ -60080,6 +60104,14 @@
       "word": "沈腾AI换脸黄渤秒变徐志胜",
       "onboard_time": 1758006322,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24611,
+      "num": 31568,
+      "word": "曾志伟坚定TVB内容为王永不没落",
+      "onboard_time": 1758305236,
+      "rank": 41,
       "category": "综艺"
     },
     {

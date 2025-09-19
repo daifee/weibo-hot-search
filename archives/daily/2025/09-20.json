@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758303533958,
+  "endTime": 1758306848921,
   "band_list": [
     {
       "raw_hot": 1487626,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124772,
+      "num": 124772,
+      "word": "EDG告别巴黎全球冠军赛",
+      "onboard_time": 1758304097,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124702,
       "num": 115827,
       "word": "刘涛说下海原来是真的",
@@ -217,6 +225,14 @@
       "onboard_time": 1758294682,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103634,
+      "num": 103634,
+      "word": "男子毒死9条宠物狗一审2年未判",
+      "onboard_time": 1758296904,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98367,
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74197,
+      "num": 74197,
+      "word": "muggle",
+      "onboard_time": 1758304517,
+      "rank": 7,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 73982,
       "num": 121495,
       "word": "内蒙古一医院发布2男尸认领公告",
@@ -345,14 +369,6 @@
       "onboard_time": 1758294203,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 68441,
-      "num": 99320,
-      "word": "男子毒死9条宠物狗一审2年未判",
-      "onboard_time": 1758296904,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62681,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36877,
+      "num": 36877,
+      "word": "樊振东德国杯首秀",
+      "onboard_time": 1758306616,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36386,
       "num": 79092,
       "word": "孙燕姿重庆演唱会今晚开唱",
@@ -483,12 +507,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24611,
+      "num": 31568,
+      "word": "曾志伟坚定TVB内容为王永不没落",
+      "onboard_time": 1758305236,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23277,
       "num": 115827,
       "word": "胡兵抵掉身家也要干的事情",
       "onboard_time": 1758293785,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 18770,
+      "num": 31552,
+      "word": "老太病逝出租房房东索赔3千被拒",
+      "onboard_time": 1758284903,
+      "rank": 47,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
