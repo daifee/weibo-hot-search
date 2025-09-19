@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758320610127,
+  "endTime": 1758321540953,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -14315,6 +14315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108324,
+      "num": 108324,
+      "word": "男子毒死9条宠物狗一审2年未判",
+      "onboard_time": 1758296904,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108304,
       "num": 108304,
       "word": "王曼昱掩面令人动容",
@@ -14849,14 +14857,6 @@
       "onboard_time": 1757987782,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 103634,
-      "num": 103634,
-      "word": "男子毒死9条宠物狗一审2年未判",
-      "onboard_time": 1758296904,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103611,
@@ -15747,6 +15747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96836,
+      "num": 96836,
+      "word": "樊振东德国杯首秀",
+      "onboard_time": 1758306616,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96595,
       "num": 103951,
       "word": "曼城vs曼联",
@@ -15833,6 +15841,14 @@
       "onboard_time": 1758184943,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95681,
+      "num": 95681,
+      "word": "祖本杀猪盘人犯作法自毙",
+      "onboard_time": 1758318314,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95587,
@@ -16851,14 +16867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 80023,
-      "num": 80023,
-      "word": "樊振东德国杯首秀",
-      "onboard_time": 1758306616,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79967,
       "num": 84831,
       "word": "秋天适合思念但更适合见面",
@@ -17691,6 +17699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66200,
+      "num": 79468,
+      "word": "一张绝美的脸背后是一张更美的脸",
+      "onboard_time": 1758300319,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65329,
       "num": 112971,
       "word": "布达拉宫居然可以吃",
@@ -17841,14 +17857,6 @@
       "onboard_time": 1757856684,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60760,
-      "num": 79468,
-      "word": "一张绝美的脸背后是一张更美的脸",
-      "onboard_time": 1758300319,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 60577,
@@ -18803,14 +18811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43421,
-      "num": 43421,
-      "word": "祖本杀猪盘人犯作法自毙",
-      "onboard_time": 1758318314,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43291,
       "num": 1106192,
       "word": "近距离看航空展名场面",
@@ -19595,6 +19595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26870,
+      "num": 38443,
+      "word": "成毅打戏",
+      "onboard_time": 1758307275,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26698,
       "num": 132669,
       "word": "入室抢婴案受害者姜甲儒将出庭",
@@ -19649,14 +19657,6 @@
       "onboard_time": 1758232454,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25604,
-      "num": 38443,
-      "word": "成毅打戏",
-      "onboard_time": 1758307275,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 25463,
@@ -19737,6 +19737,14 @@
       "onboard_time": 1757795114,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24387,
+      "num": 32511,
+      "word": "就诊被拍视频发网上女子发声",
+      "onboard_time": 1758297981,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24366,
@@ -19961,14 +19969,6 @@
       "onboard_time": 1757963775,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20337,
-      "num": 32511,
-      "word": "就诊被拍视频发网上女子发声",
-      "onboard_time": 1758297981,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20333,

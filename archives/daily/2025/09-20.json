@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758320610127,
+  "endTime": 1758321540953,
   "band_list": [
     {
       "raw_hot": 1487626,
@@ -171,20 +171,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127907,
+      "num": 115827,
+      "word": "刘涛说下海原来是真的",
+      "onboard_time": 1758294323,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124772,
       "num": 124772,
       "word": "EDG告别巴黎全球冠军赛",
       "onboard_time": 1758304097,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124702,
-      "num": 115827,
-      "word": "刘涛说下海原来是真的",
-      "onboard_time": 1758294323,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 117754,
@@ -219,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108324,
+      "num": 108324,
+      "word": "男子毒死9条宠物狗一审2年未判",
+      "onboard_time": 1758296904,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104041,
       "num": 115827,
       "word": "对着小狗嘬嘬嘬小狗就会过来",
       "onboard_time": 1758294682,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103634,
-      "num": 103634,
-      "word": "男子毒死9条宠物狗一审2年未判",
-      "onboard_time": 1758296904,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98367,
@@ -243,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96836,
+      "num": 96836,
+      "word": "樊振东德国杯首秀",
+      "onboard_time": 1758306616,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96668,
       "num": 115827,
       "word": "张靓颖薛之谦 霸王别姬",
       "onboard_time": 1758278782,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95681,
+      "num": 95681,
+      "word": "祖本杀猪盘人犯作法自毙",
+      "onboard_time": 1758318314,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91448,
@@ -281,14 +297,6 @@
       "onboard_time": 1758295402,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80023,
-      "num": 80023,
-      "word": "樊振东德国杯首秀",
-      "onboard_time": 1758306616,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 79730,
@@ -379,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66200,
+      "num": 79468,
+      "word": "一张绝美的脸背后是一张更美的脸",
+      "onboard_time": 1758300319,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62681,
       "num": 115827,
       "word": "泡泡玛特星星人",
@@ -401,14 +417,6 @@
       "onboard_time": 1758298640,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 60760,
-      "num": 79468,
-      "word": "一张绝美的脸背后是一张更美的脸",
-      "onboard_time": 1758300319,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 59699,
@@ -467,11 +475,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43421,
-      "num": 43421,
-      "word": "祖本杀猪盘人犯作法自毙",
-      "onboard_time": 1758318314,
-      "rank": 9,
+      "raw_hot": 43196,
+      "num": 43196,
+      "word": "老太病逝出租房房东索赔3千被拒",
+      "onboard_time": 1758284903,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -499,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32912,
-      "num": 38165,
-      "word": "老太病逝出租房房东索赔3千被拒",
-      "onboard_time": 1758284903,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32879,
       "num": 79014,
       "word": "邓紫棋Anyma献艺S15决赛开幕式",
@@ -523,7 +523,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25604,
+      "raw_hot": 26870,
       "num": 38443,
       "word": "成毅打戏",
       "onboard_time": 1758307275,
@@ -539,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24387,
+      "num": 32511,
+      "word": "就诊被拍视频发网上女子发声",
+      "onboard_time": 1758297981,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23277,
       "num": 115827,
       "word": "胡兵抵掉身家也要干的事情",
       "onboard_time": 1758293785,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 20337,
-      "num": 32511,
-      "word": "就诊被拍视频发网上女子发声",
-      "onboard_time": 1758297981,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14845,
