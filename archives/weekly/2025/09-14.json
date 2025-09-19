@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758260385168,
+  "endTime": 1758263805667,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -163,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2265940,
+      "num": 2265940,
+      "word": "祝绪丹 你算老几",
+      "onboard_time": 1758259944,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2244947,
+      "num": 2244947,
+      "word": "被老板强奸女高管老公回应",
+      "onboard_time": 1758259403,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2238310,
       "num": 2238310,
       "word": "太二酸菜鱼为何没人吃了",
@@ -248,14 +264,6 @@
       "word": "涉毒艺人苏永康将在温州办演唱会",
       "onboard_time": 1757946926,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1848951,
-      "num": 1848951,
-      "word": "被老板强奸女高管老公回应",
-      "onboard_time": 1758259403,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -921,6 +929,14 @@
       "onboard_time": 1757904380,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1002675,
+      "num": 1002675,
+      "word": "董璇选择张维伊的原因找到了",
+      "onboard_time": 1758260303,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 1001976,
@@ -1731,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 699885,
+      "num": 699885,
+      "word": "云海肴创始人赵晗去世",
+      "onboard_time": 1758259163,
+      "rank": 29,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 698417,
       "num": 224985,
       "word": "西贝厨师长称家里一顿没吃完也不会扔",
@@ -2011,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606228,
+      "num": 606228,
+      "word": "琅琊榜",
+      "onboard_time": 1758258744,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 604041,
       "num": 334876,
       "word": "邓超登北京影协失联会员名单",
@@ -2161,6 +2193,14 @@
       "onboard_time": 1758021803,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 573340,
+      "num": 282926,
+      "word": "白敬亭回应生理性演技",
+      "onboard_time": 1758259163,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 569676,
@@ -3305,14 +3345,6 @@
       "onboard_time": 1758016343,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412093,
-      "num": 516728,
-      "word": "云海肴创始人赵晗去世",
-      "onboard_time": 1758259163,
-      "rank": 29,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 407841,
@@ -5427,14 +5459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228408,
-      "num": 228408,
-      "word": "琅琊榜",
-      "onboard_time": 1758258744,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227757,
       "num": 259740,
       "word": "迪卡侬广告 处女地",
@@ -6139,14 +6163,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 204647,
-      "num": 204647,
-      "word": "白敬亭回应生理性演技",
-      "onboard_time": 1758259163,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204610,
       "num": 186545,
       "word": "泰版三十而已全员疯批",
@@ -6515,14 +6531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196791,
-      "num": 444420,
-      "word": "祝绪丹 你算老几",
-      "onboard_time": 1758259944,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196718,
       "num": 196718,
       "word": "RC战队夺冠",
@@ -6585,6 +6593,14 @@
       "onboard_time": 1757951841,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195315,
+      "num": 195315,
+      "word": "49元爆火窜稀酸奶成新型泻药",
+      "onboard_time": 1758262163,
+      "rank": 17,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 195192,
@@ -7355,12 +7371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181129,
+      "num": 181129,
+      "word": "保质期1年预制鸡蛋液1袋能蒸8碗",
+      "onboard_time": 1758261743,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180946,
       "num": 180946,
       "word": "邪修月饼只需一秒就够了",
       "onboard_time": 1757912783,
       "rank": 30,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 180871,
+      "num": 180871,
+      "word": "张艺兴鸟巢演唱会售罄",
+      "onboard_time": 1758263304,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 180855,
@@ -7555,6 +7587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177035,
+      "num": 261720,
+      "word": "赵晗遗体告别仪式明天举行",
+      "onboard_time": 1758263422,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176894,
       "num": 176894,
       "word": "王俊凯摸董子健肌肉",
@@ -7673,6 +7713,14 @@
       "onboard_time": 1757905763,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174412,
+      "num": 174412,
+      "word": "王玉雯终于又演古装剧了",
+      "onboard_time": 1758261982,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 173989,
@@ -7865,14 +7913,6 @@
       "onboard_time": 1757910804,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 171060,
-      "num": 171060,
-      "word": "董璇选择张维伊的原因找到了",
-      "onboard_time": 1758260303,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 170597,
@@ -8353,6 +8393,14 @@
       "onboard_time": 1758242842,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162746,
+      "num": 162746,
+      "word": "歼6无人机终于实锤",
+      "onboard_time": 1758262043,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 162664,
@@ -8939,6 +8987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155429,
+      "num": 155429,
+      "word": "农村婚礼真的很考验摄影师",
+      "onboard_time": 1758261504,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155346,
       "num": 158569,
       "word": "虐死12岁女孩继母长期逼迫孩子互殴",
@@ -8969,6 +9025,14 @@
       "onboard_time": 1758090683,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155074,
+      "num": 155074,
+      "word": "抢走8月大婴儿2万8卖了",
+      "onboard_time": 1758256224,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155004,
@@ -9393,6 +9457,14 @@
       "onboard_time": 1758083485,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149230,
+      "num": 149230,
+      "word": "李荣浩回应iOS26受益",
+      "onboard_time": 1758262942,
+      "rank": 37,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 149078,
@@ -10385,6 +10457,14 @@
       "onboard_time": 1758163581,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138051,
+      "num": 138051,
+      "word": "第一批用上iPhone17的人出现了",
+      "onboard_time": 1758263542,
+      "rank": 40,
+      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 137933,
@@ -11539,6 +11619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125473,
+      "num": 125473,
+      "word": "贺峻霖让徐志胜帮抢时团演唱会票",
+      "onboard_time": 1758263422,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125453,
       "num": 125453,
       "word": "西九龙重案组跟进香港黄金劫案",
@@ -11641,6 +11729,14 @@
       "onboard_time": 1758186982,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124111,
+      "num": 124111,
+      "word": "当妈妈以为爸爸没有给我装水果时",
+      "onboard_time": 1758263723,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 124095,
@@ -11985,6 +12081,14 @@
       "onboard_time": 1757948304,
       "rank": 37,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 120683,
+      "num": 120683,
+      "word": "尽早做让你生理性喜欢的事",
+      "onboard_time": 1758263662,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 120492,
@@ -12579,6 +12683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114814,
+      "num": 114814,
+      "word": "叠纸又双叒叕赢了",
+      "onboard_time": 1758260422,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114754,
       "num": 591335,
       "word": "3人为高薪向间谍报送我军事信息",
@@ -12937,6 +13049,14 @@
       "onboard_time": 1757764765,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110186,
+      "num": 138193,
+      "word": "男子欠债35万崖下洞居5年",
+      "onboard_time": 1758263064,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110100,
@@ -16747,12 +16867,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48765,
+      "num": 124369,
+      "word": "赵晗曾拿30多万买房钱创业",
+      "onboard_time": 1758262284,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48518,
       "num": 206480,
       "word": "北大全力配合对任羽中的审查调查",
       "onboard_time": 1758117746,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48419,
+      "num": 156915,
+      "word": "时代少年团飞行向往的生活",
+      "onboard_time": 1758263662,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 48376,
@@ -17153,6 +17289,14 @@
       "onboard_time": 1758011241,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38028,
+      "num": 182175,
+      "word": "解限机新赛季开启",
+      "onboard_time": 1758262163,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 37831,
@@ -17563,6 +17707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27808,
+      "num": 124718,
+      "word": "香港被劫金场员工以为搬货没有反抗",
+      "onboard_time": 1758262403,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27640,
       "num": 120278,
       "word": "王楚钦说暂停是和教练更好的沟通",
@@ -17633,6 +17785,14 @@
       "onboard_time": 1758134715,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25988,
+      "num": 155984,
+      "word": "日照金山日月同辉帽子云同框有多美",
+      "onboard_time": 1758262403,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 25883,
@@ -17841,6 +18001,14 @@
       "onboard_time": 1757875215,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22780,
+      "num": 141347,
+      "word": "张子枫最让人心疼的一个笑",
+      "onboard_time": 1758263603,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 22598,

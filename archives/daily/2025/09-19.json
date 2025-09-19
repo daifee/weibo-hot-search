@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758260385168,
+  "endTime": 1758263805667,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -17,6 +17,22 @@
       "onboard_time": 1758252141,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2265940,
+      "num": 2265940,
+      "word": "祝绪丹 你算老几",
+      "onboard_time": 1758259944,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2244947,
+      "num": 2244947,
+      "word": "被老板强奸女高管老公回应",
+      "onboard_time": 1758259403,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1996131,
@@ -41,14 +57,6 @@
       "onboard_time": 1758241883,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1848951,
-      "num": 1848951,
-      "word": "被老板强奸女高管老公回应",
-      "onboard_time": 1758259403,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1422215,
@@ -81,6 +89,14 @@
       "onboard_time": 1758179242,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1002675,
+      "num": 1002675,
+      "word": "董璇选择张维伊的原因找到了",
+      "onboard_time": 1758260303,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 948998,
@@ -163,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 699885,
+      "num": 699885,
+      "word": "云海肴创始人赵晗去世",
+      "onboard_time": 1758259163,
+      "rank": 29,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 696730,
       "num": 424214,
       "word": "19岁女子腹痛就诊后2小时分娩",
@@ -211,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 606228,
+      "num": 606228,
+      "word": "琅琊榜",
+      "onboard_time": 1758258744,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588216,
       "num": 588216,
       "word": "成毅拿剧本出镜算失误吗",
@@ -232,6 +264,14 @@
       "word": "内娱男频三巨头",
       "onboard_time": 1758255503,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 573340,
+      "num": 282926,
+      "word": "白敬亭回应生理性演技",
+      "onboard_time": 1758259163,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -321,14 +361,6 @@
       "onboard_time": 1758253103,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 412093,
-      "num": 516728,
-      "word": "云海肴创始人赵晗去世",
-      "onboard_time": 1758259163,
-      "rank": 29,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 395348,
@@ -539,14 +571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228408,
-      "num": 228408,
-      "word": "琅琊榜",
-      "onboard_time": 1758258744,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223333,
       "num": 223333,
       "word": "光遇",
@@ -651,14 +675,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 204647,
-      "num": 204647,
-      "word": "白敬亭回应生理性演技",
-      "onboard_time": 1758259163,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204610,
       "num": 186545,
       "word": "泰版三十而已全员疯批",
@@ -707,20 +723,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196791,
-      "num": 444420,
-      "word": "祝绪丹 你算老几",
-      "onboard_time": 1758259944,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196470,
       "num": 196470,
       "word": "VOGUE男刊",
       "onboard_time": 1758259882,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195315,
+      "num": 195315,
+      "word": "49元爆火窜稀酸奶成新型泻药",
+      "onboard_time": 1758262163,
+      "rank": 17,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 195081,
@@ -763,12 +779,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181129,
+      "num": 181129,
+      "word": "保质期1年预制鸡蛋液1袋能蒸8碗",
+      "onboard_time": 1758261743,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180871,
+      "num": 180871,
+      "word": "张艺兴鸟巢演唱会售罄",
+      "onboard_time": 1758263304,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179839,
       "num": 179839,
       "word": "震耳欲聋",
       "onboard_time": 1758248242,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177035,
+      "num": 261720,
+      "word": "赵晗遗体告别仪式明天举行",
+      "onboard_time": 1758263422,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175696,
@@ -787,20 +827,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174412,
+      "num": 174412,
+      "word": "王玉雯终于又演古装剧了",
+      "onboard_time": 1758261982,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173968,
       "num": 366085,
       "word": "翟欣欣苏享茂婚姻仅42天",
       "onboard_time": 1758251722,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171060,
-      "num": 171060,
-      "word": "董璇选择张维伊的原因找到了",
-      "onboard_time": 1758260303,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 163991,
@@ -817,6 +857,14 @@
       "onboard_time": 1758242842,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162746,
+      "num": 162746,
+      "word": "歼6无人机终于实锤",
+      "onboard_time": 1758262043,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 162661,
@@ -883,12 +931,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155429,
+      "num": 155429,
+      "word": "农村婚礼真的很考验摄影师",
+      "onboard_time": 1758261504,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155256,
       "num": 155256,
       "word": "日方代表回应侵华闪烁其词被当场驳斥",
       "onboard_time": 1758242842,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155074,
+      "num": 155074,
+      "word": "抢走8月大婴儿2万8卖了",
+      "onboard_time": 1758256224,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155004,
@@ -945,6 +1009,14 @@
       "onboard_time": 1758252505,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149230,
+      "num": 149230,
+      "word": "李荣浩回应iOS26受益",
+      "onboard_time": 1758262942,
+      "rank": 37,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 148403,
@@ -1043,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138051,
+      "num": 138051,
+      "word": "第一批用上iPhone17的人出现了",
+      "onboard_time": 1758263542,
+      "rank": 40,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 136490,
       "num": 136490,
       "word": "美国再一票否决安理会加沙决议",
@@ -1099,6 +1179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125473,
+      "num": 125473,
+      "word": "贺峻霖让徐志胜帮抢时团演唱会票",
+      "onboard_time": 1758263422,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124639,
       "num": 124639,
       "word": "必胜客店员回应橙汁确为果粒橙",
@@ -1107,12 +1195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124111,
+      "num": 124111,
+      "word": "当妈妈以为爸爸没有给我装水果时",
+      "onboard_time": 1758263723,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121743,
       "num": 121743,
       "word": "詹姆斯说退役就快要来临",
       "onboard_time": 1758249683,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120683,
+      "num": 120683,
+      "word": "尽早做让你生理性喜欢的事",
+      "onboard_time": 1758263662,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 120484,
@@ -1171,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114814,
+      "num": 114814,
+      "word": "叠纸又双叒叕赢了",
+      "onboard_time": 1758260422,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114483,
       "num": 114483,
       "word": "西班牙主持人对内塔尼亚胡竖中指",
@@ -1201,6 +1313,14 @@
       "onboard_time": 1758198384,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110186,
+      "num": 138193,
+      "word": "男子欠债35万崖下洞居5年",
+      "onboard_time": 1758263064,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105500,
@@ -1603,6 +1723,22 @@
       "category": "时尚,休闲"
     },
     {
+      "raw_hot": 48765,
+      "num": 124369,
+      "word": "赵晗曾拿30多万买房钱创业",
+      "onboard_time": 1758262284,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48419,
+      "num": 156915,
+      "word": "时代少年团飞行向往的生活",
+      "onboard_time": 1758263662,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48376,
       "num": 59522,
       "word": "特研院回应博士月薪4000元起",
@@ -1633,6 +1769,14 @@
       "onboard_time": 1758205222,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38028,
+      "num": 182175,
+      "word": "解限机新赛季开启",
+      "onboard_time": 1758262163,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 36940,
@@ -1683,6 +1827,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27808,
+      "num": 124718,
+      "word": "香港被劫金场员工以为搬货没有反抗",
+      "onboard_time": 1758262403,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25988,
+      "num": 155984,
+      "word": "日照金山日月同辉帽子云同框有多美",
+      "onboard_time": 1758262403,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 25710,
       "num": 45271,
       "word": "于适现身吴天明青年电影展",
@@ -1721,6 +1881,14 @@
       "onboard_time": 1758231254,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22780,
+      "num": 141347,
+      "word": "张子枫最让人心疼的一个笑",
+      "onboard_time": 1758263603,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 15863,
