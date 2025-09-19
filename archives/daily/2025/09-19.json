@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758256185967,
+  "endTime": 1758256999745,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -27,20 +27,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1963137,
+      "num": 521155,
+      "word": "刘一菲承认蹭刘亦菲流量",
+      "onboard_time": 1758251843,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1951581,
       "num": 1951581,
       "word": "中方对表决结果非常失望",
       "onboard_time": 1758241883,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1892526,
-      "num": 434798,
-      "word": "刘一菲承认蹭刘亦菲流量",
-      "onboard_time": 1758251843,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1422215,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 936120,
-      "num": 423765,
+      "raw_hot": 948998,
+      "num": 500904,
       "word": "迅猛龙被男网红孤立",
       "onboard_time": 1758254363,
       "rank": 12,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 911371,
-      "num": 416443,
+      "num": 488431,
       "word": "女孩被同班男生杀害尸体距家仅100米",
       "onboard_time": 1758252505,
       "rank": 11,
@@ -171,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 608440,
+      "num": 608440,
+      "word": "向往的生活",
+      "onboard_time": 1758252322,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 598560,
+      "num": 463345,
+      "word": "女主播赴约打榜大哥遭性侵",
+      "onboard_time": 1758255745,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588216,
       "num": 588216,
       "word": "成毅拿剧本出镜算失误吗",
@@ -195,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 554486,
-      "num": 554486,
-      "word": "向往的生活",
-      "onboard_time": 1758252322,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 530173,
+      "num": 530173,
+      "word": "翟欣欣索要精神损失费1000万元",
+      "onboard_time": 1758251181,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471820,
@@ -217,6 +233,14 @@
       "onboard_time": 1758249562,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 446650,
+      "num": 446650,
+      "word": "iOS26同时解决了网瘾和猪瘾",
+      "onboard_time": 1758253403,
+      "rank": 30,
+      "category": "幽默,数码"
     },
     {
       "raw_hot": 441437,
@@ -251,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407630,
-      "num": 407630,
-      "word": "翟欣欣索要精神损失费1000万元",
-      "onboard_time": 1758251181,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 415456,
+      "num": 326600,
+      "word": "井川里予酒吧蹦迪",
+      "onboard_time": 1758253103,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 395348,
@@ -275,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 383487,
+      "num": 211447,
+      "word": "33岁苦练化妆2个月的变化",
+      "onboard_time": 1758254064,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 382412,
       "num": 257040,
       "word": "各大奶茶最好喝的一杯",
@@ -283,36 +315,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 359717,
-      "num": 359717,
-      "word": "iOS26同时解决了网瘾和猪瘾",
-      "onboard_time": 1758253403,
-      "rank": 30,
-      "category": "幽默,数码"
-    },
-    {
       "raw_hot": 347259,
       "num": 347259,
       "word": "女子否认怀孕影像检查2小时后分娩",
       "onboard_time": 1758208643,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 341484,
-      "num": 202106,
-      "word": "33岁苦练化妆2个月的变化",
-      "onboard_time": 1758254064,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 326600,
-      "num": 326600,
-      "word": "井川里予酒吧蹦迪",
-      "onboard_time": 1758253103,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 326458,
@@ -337,14 +345,6 @@
       "onboard_time": 1758239301,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309651,
-      "num": 191858,
-      "word": "女主播赴约打榜大哥遭性侵",
-      "onboard_time": 1758255745,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309348,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278051,
+      "num": 283371,
+      "word": "比伯晒家规",
+      "onboard_time": 1758255323,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270415,
       "num": 360633,
       "word": "2025空军航空开放活动剧透来了",
@@ -409,6 +417,14 @@
       "onboard_time": 1758253403,
       "rank": 21,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 261989,
+      "num": 261989,
+      "word": "内娱男频三巨头",
+      "onboard_time": 1758255503,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 253175,
@@ -427,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242112,
+      "num": 242112,
+      "word": "赴山海情节被吐槽跟于北辰有一拼",
+      "onboard_time": 1758251420,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241199,
       "num": 181061,
       "word": "这位妈妈一辈子都走不出来了",
@@ -443,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236149,
-      "num": 236149,
-      "word": "赴山海情节被吐槽跟于北辰有一拼",
-      "onboard_time": 1758251420,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232664,
       "num": 232664,
       "word": "731所有日本角色均由日籍演员出演",
@@ -465,6 +481,22 @@
       "onboard_time": 1758251061,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221738,
+      "num": 221738,
+      "word": "光与夜之恋",
+      "onboard_time": 1758256466,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 220192,
+      "num": 220192,
+      "word": "杨幂把陈哲远逗成啥样了",
+      "onboard_time": 1758255084,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 219882,
@@ -500,11 +532,19 @@
     },
     {
       "raw_hot": 210839,
-      "num": 442579,
+      "num": 476224,
       "word": "一文梳理翟欣欣案时间线",
       "onboard_time": 1758252023,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207713,
+      "num": 207713,
+      "word": "令人心动的offer",
+      "onboard_time": 1758256466,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 207148,
@@ -513,14 +553,6 @@
       "onboard_time": 1758205106,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206747,
-      "num": 206747,
-      "word": "比伯晒家规",
-      "onboard_time": 1758255323,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 204935,
@@ -547,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201017,
-      "num": 201017,
-      "word": "杨幂把陈哲远逗成啥样了",
-      "onboard_time": 1758255084,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 201091,
+      "num": 201091,
+      "word": "奥运冠军曾被专家说练不出来",
+      "onboard_time": 1758256105,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 199656,
@@ -603,12 +635,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182005,
+      "num": 182005,
+      "word": "无限暖暖",
+      "onboard_time": 1758256644,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179839,
       "num": 179839,
       "word": "震耳欲聋",
       "onboard_time": 1758248242,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178173,
+      "num": 178173,
+      "word": "韩国偶遇任重孙骁骁一家",
+      "onboard_time": 1758256585,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 175696,
@@ -683,22 +731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158594,
-      "num": 203190,
-      "word": "内娱男频三巨头",
-      "onboard_time": 1758255503,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 157973,
-      "num": 157973,
-      "word": "奥运冠军曾被专家说练不出来",
-      "onboard_time": 1758256105,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157025,
       "num": 157025,
       "word": "孙俪后背都是爱我的形状",
@@ -753,6 +785,14 @@
       "onboard_time": 1758207620,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152421,
+      "num": 148139,
+      "word": "ymy演的是男一",
+      "onboard_time": 1758256405,
+      "rank": 49,
+      "category": "电竞,剧集"
     },
     {
       "raw_hot": 150765,
@@ -812,7 +852,7 @@
     },
     {
       "raw_hot": 145474,
-      "num": 166849,
+      "num": 181732,
       "word": "smart超级电混上新色",
       "onboard_time": 1758253522,
       "rank": 37,
@@ -849,6 +889,14 @@
       "onboard_time": 1758253703,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138630,
+      "num": 212605,
+      "word": "疑似陈哲远在密逃被吓疯了",
+      "onboard_time": 1758256466,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 136490,
@@ -1019,6 +1067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92338,
+      "num": 281554,
+      "word": "中国的百雀羚又又又获奖了",
+      "onboard_time": 1758254664,
+      "rank": 19,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 92078,
       "num": 92078,
       "word": "加沙人说请让我们活下去吧",
@@ -1091,14 +1147,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 87558,
-      "num": 270233,
-      "word": "中国的百雀羚又又又获奖了",
-      "onboard_time": 1758254664,
-      "rank": 19,
-      "category": "民生新闻,美妆"
-    },
-    {
       "raw_hot": 85672,
       "num": 85672,
       "word": "中方回应美再一票否决安理会加沙决议",
@@ -1123,12 +1171,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82768,
+      "num": 179512,
+      "word": "姚晨马伊琍 直女想出来的动作",
+      "onboard_time": 1758255503,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82613,
       "num": 82613,
       "word": "Faker晋级S15",
       "onboard_time": 1758243741,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81142,
+      "num": 178618,
+      "word": "大三担任奥运志愿者的杨幂",
+      "onboard_time": 1758255745,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 80993,
@@ -1168,14 +1232,6 @@
       "word": "张真源红发皮衣",
       "onboard_time": 1758208163,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69544,
-      "num": 159351,
-      "word": "大三担任奥运志愿者的杨幂",
-      "onboard_time": 1758255745,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1283,6 +1339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53761,
+      "num": 180679,
+      "word": "崔丽丽回忆被老板侵犯细节",
+      "onboard_time": 1758255804,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52111,
       "num": 59522,
       "word": "何赛飞喊话追星者结婚生娃",
@@ -1299,12 +1363,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 49826,
-      "num": 159440,
-      "word": "崔丽丽回忆被老板侵犯细节",
-      "onboard_time": 1758255804,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 49870,
+      "num": 169683,
+      "word": "向往的生活8官宣",
+      "onboard_time": 1758256944,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 49460,
@@ -1337,14 +1401,6 @@
       "onboard_time": 1758198262,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43587,
-      "num": 159174,
-      "word": "姚晨马伊琍 直女想出来的动作",
-      "onboard_time": 1758255503,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 43291,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1758194662,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29311,
+      "num": 171343,
+      "word": "57岁妈妈退休2年后出国留学",
+      "onboard_time": 1758256944,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25710,

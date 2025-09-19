@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758256185967,
+  "endTime": 1758256999745,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -219,20 +219,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1963137,
+      "num": 521155,
+      "word": "刘一菲承认蹭刘亦菲流量",
+      "onboard_time": 1758251843,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1951581,
       "num": 1951581,
       "word": "中方对表决结果非常失望",
       "onboard_time": 1758241883,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1892526,
-      "num": 434798,
-      "word": "刘一菲承认蹭刘亦菲流量",
-      "onboard_time": 1758251843,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1886693,
@@ -1027,20 +1027,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 948998,
+      "num": 500904,
+      "word": "迅猛龙被男网红孤立",
+      "onboard_time": 1758254363,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 945720,
       "num": 370438,
       "word": "KiMi已经16岁了",
       "onboard_time": 1757920342,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 936120,
-      "num": 423765,
-      "word": "迅猛龙被男网红孤立",
-      "onboard_time": 1758254363,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 930525,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 911371,
-      "num": 416443,
+      "num": 488431,
       "word": "女孩被同班男生杀害尸体距家仅100米",
       "onboard_time": 1758252505,
       "rank": 11,
@@ -1955,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 608440,
+      "num": 608440,
+      "word": "向往的生活",
+      "onboard_time": 1758252322,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607846,
       "num": 302212,
       "word": "杨丞琳李荣浩结婚6周年发文",
@@ -2016,6 +2024,14 @@
       "word": "12306 开票即候补",
       "onboard_time": 1758010761,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 598560,
+      "num": 463345,
+      "word": "女主播赴约打榜大哥遭性侵",
+      "onboard_time": 1758255745,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2219,14 +2235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 554486,
-      "num": 554486,
-      "word": "向往的生活",
-      "onboard_time": 1758252322,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 546699,
       "num": 546699,
       "word": "手部出现的3种癌症预警信号",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1757821402,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 530173,
+      "num": 530173,
+      "word": "翟欣欣索要精神损失费1000万元",
+      "onboard_time": 1758251181,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 528786,
@@ -2915,6 +2931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 446650,
+      "num": 446650,
+      "word": "iOS26同时解决了网瘾和猪瘾",
+      "onboard_time": 1758253403,
+      "rank": 30,
+      "category": "幽默,数码"
+    },
+    {
       "raw_hot": 443428,
       "num": 237723,
       "word": "你以为在备孕实际是避孕的行为",
@@ -3227,6 +3251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415456,
+      "num": 326600,
+      "word": "井川里予酒吧蹦迪",
+      "onboard_time": 1758253103,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 412980,
       "num": 412980,
       "word": "那英王菲 我们会是一辈子的好朋友",
@@ -3248,14 +3280,6 @@
       "word": "今起常温纯牛奶禁加复原乳",
       "onboard_time": 1757987063,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 407630,
-      "num": 407630,
-      "word": "翟欣欣索要精神损失费1000万元",
-      "onboard_time": 1758251181,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3457,6 +3481,14 @@
       "onboard_time": 1757840961,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383487,
+      "num": 211447,
+      "word": "33岁苦练化妆2个月的变化",
+      "onboard_time": 1758254064,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 382929,
@@ -3683,14 +3715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359717,
-      "num": 359717,
-      "word": "iOS26同时解决了网瘾和猪瘾",
-      "onboard_time": 1758253403,
-      "rank": 30,
-      "category": "幽默,数码"
-    },
-    {
       "raw_hot": 358858,
       "num": 280429,
       "word": "没人告诉世界第二网红干团播这么累吗",
@@ -3875,14 +3899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341484,
-      "num": 202106,
-      "word": "33岁苦练化妆2个月的变化",
-      "onboard_time": 1758254064,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 340386,
       "num": 281176,
       "word": "张桂源",
@@ -3985,14 +4001,6 @@
       "onboard_time": 1757984542,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326600,
-      "num": 326600,
-      "word": "井川里予酒吧蹦迪",
-      "onboard_time": 1758253103,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 326458,
@@ -4169,14 +4177,6 @@
       "onboard_time": 1758090625,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309651,
-      "num": 191858,
-      "word": "女主播赴约打榜大哥遭性侵",
-      "onboard_time": 1758255745,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309348,
@@ -4507,6 +4507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278051,
+      "num": 283371,
+      "word": "比伯晒家规",
+      "onboard_time": 1758255323,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277642,
       "num": 263752,
       "word": "韦雪搓澡被粉丝认出",
@@ -4729,6 +4737,14 @@
       "onboard_time": 1758161423,
       "rank": 18,
       "category": "剧集,体育"
+    },
+    {
+      "raw_hot": 261989,
+      "num": 261989,
+      "word": "内娱男频三巨头",
+      "onboard_time": 1758255503,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 261493,
@@ -5091,6 +5107,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 242112,
+      "num": 242112,
+      "word": "赴山海情节被吐槽跟于北辰有一拼",
+      "onboard_time": 1758251420,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241705,
       "num": 227794,
       "word": "涉嫌性侵江祖平的男子被拘捕",
@@ -5217,14 +5241,6 @@
       "onboard_time": 1757853205,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236149,
-      "num": 236149,
-      "word": "赴山海情节被吐槽跟于北辰有一拼",
-      "onboard_time": 1758251420,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 236146,
@@ -5499,6 +5515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221738,
+      "num": 221738,
+      "word": "光与夜之恋",
+      "onboard_time": 1758256466,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221458,
       "num": 209504,
       "word": "孙颖莎觉得邱贻可拿自己当闺女看",
@@ -5544,6 +5568,14 @@
       "word": "张晚意李沁太适合打包送同个剧组了",
       "onboard_time": 1758025289,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220192,
+      "num": 220192,
+      "word": "杨幂把陈哲远逗成啥样了",
+      "onboard_time": 1758255084,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -5772,7 +5804,7 @@
     },
     {
       "raw_hot": 210839,
-      "num": 442579,
+      "num": 476224,
       "word": "一文梳理翟欣欣案时间线",
       "onboard_time": 1758252023,
       "rank": 27,
@@ -5907,6 +5939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 207713,
+      "num": 207713,
+      "word": "令人心动的offer",
+      "onboard_time": 1758256466,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207689,
       "num": 207689,
       "word": "15岁女孩殒命铁轨案民事一审将开庭",
@@ -5945,14 +5985,6 @@
       "onboard_time": 1757906782,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206747,
-      "num": 206747,
-      "word": "比伯晒家规",
-      "onboard_time": 1758255323,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 206060,
@@ -6147,12 +6179,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201017,
-      "num": 201017,
-      "word": "杨幂把陈哲远逗成啥样了",
-      "onboard_time": 1758255084,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 201091,
+      "num": 201091,
+      "word": "奥运冠军曾被专家说练不出来",
+      "onboard_time": 1758256105,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 200970,
@@ -7163,6 +7195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182005,
+      "num": 182005,
+      "word": "无限暖暖",
+      "onboard_time": 1757826382,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181788,
       "num": 181788,
       "word": "谈恋爱其实很累的",
@@ -7345,6 +7385,14 @@
       "onboard_time": 1757827042,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178173,
+      "num": 178173,
+      "word": "韩国偶遇任重孙骁骁一家",
+      "onboard_time": 1758256585,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 177800,
@@ -8387,14 +8435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160477,
-      "num": 160477,
-      "word": "无限暖暖",
-      "onboard_time": 1757826382,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160462,
       "num": 111086,
       "word": "欢乐家长群",
@@ -8555,14 +8595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158594,
-      "num": 203190,
-      "word": "内娱男频三巨头",
-      "onboard_time": 1758255503,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158521,
       "num": 158521,
       "word": "龚俊 一个本身就很好的人",
@@ -8577,14 +8609,6 @@
       "onboard_time": 1758176541,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157973,
-      "num": 157973,
-      "word": "奥运冠军曾被专家说练不出来",
-      "onboard_time": 1758256105,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 157823,
@@ -9033,6 +9057,14 @@
       "onboard_time": 1757904143,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152421,
+      "num": 148139,
+      "word": "ymy演的是男一",
+      "onboard_time": 1758256405,
+      "rank": 49,
+      "category": "电竞,剧集"
     },
     {
       "raw_hot": 152147,
@@ -9548,7 +9580,7 @@
     },
     {
       "raw_hot": 145474,
-      "num": 166849,
+      "num": 181732,
       "word": "smart超级电混上新色",
       "onboard_time": 1758253522,
       "rank": 37,
@@ -10129,6 +10161,14 @@
       "onboard_time": 1758253703,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138630,
+      "num": 212605,
+      "word": "疑似陈哲远在密逃被吓疯了",
+      "onboard_time": 1758256466,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 138575,
@@ -14395,6 +14435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92338,
+      "num": 281554,
+      "word": "中国的百雀羚又又又获奖了",
+      "onboard_time": 1758254664,
+      "rank": 19,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 92232,
       "num": 92232,
       "word": "一段剧情播三遍遍遍不一样",
@@ -14659,14 +14707,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 87558,
-      "num": 270233,
-      "word": "中国的百雀羚又又又获奖了",
-      "onboard_time": 1758254664,
-      "rank": 19,
-      "category": "民生新闻,美妆"
-    },
-    {
       "raw_hot": 87403,
       "num": 120439,
       "word": "李兰迪露背好辣",
@@ -14899,6 +14939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82768,
+      "num": 179512,
+      "word": "姚晨马伊琍 直女想出来的动作",
+      "onboard_time": 1758255503,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82613,
       "num": 82613,
       "word": "Faker晋级S15",
@@ -14961,6 +15009,14 @@
       "onboard_time": 1758070345,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81142,
+      "num": 178618,
+      "word": "大三担任奥运志愿者的杨幂",
+      "onboard_time": 1758255745,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 80993,
@@ -15635,14 +15691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69544,
-      "num": 159351,
-      "word": "大三担任奥运志愿者的杨幂",
-      "onboard_time": 1758255745,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69129,
       "num": 241408,
       "word": "88折叫优惠72折叫狠活儿",
@@ -16219,6 +16267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53761,
+      "num": 180679,
+      "word": "崔丽丽回忆被老板侵犯细节",
+      "onboard_time": 1758255804,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53422,
       "num": 307916,
       "word": "享界S9T搭载华为旗舰9系黑科技",
@@ -16379,12 +16435,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 49826,
-      "num": 159440,
-      "word": "崔丽丽回忆被老板侵犯细节",
-      "onboard_time": 1758255804,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 49870,
+      "num": 169683,
+      "word": "向往的生活8官宣",
+      "onboard_time": 1758256944,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 49770,
@@ -16681,14 +16737,6 @@
       "onboard_time": 1758089664,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43587,
-      "num": 159174,
-      "word": "姚晨马伊琍 直女想出来的动作",
-      "onboard_time": 1758255503,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 43291,
@@ -17224,6 +17272,14 @@
       "word": "直播看各地丰收场景",
       "onboard_time": 1757840063,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29311,
+      "num": 171343,
+      "word": "57岁妈妈退休2年后出国留学",
+      "onboard_time": 1758256944,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
