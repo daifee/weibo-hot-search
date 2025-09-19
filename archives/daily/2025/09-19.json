@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758292986978,
+  "endTime": 1758295535763,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -65,6 +65,14 @@
       "onboard_time": 1758241883,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1769913,
+      "num": 471247,
+      "word": "黄子诚因模仿黄子韬导致破产",
+      "onboard_time": 1758291563,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1422215,
@@ -169,14 +177,6 @@
       "onboard_time": 1758259163,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 866234,
-      "num": 471247,
-      "word": "黄子诚因模仿黄子韬导致破产",
-      "onboard_time": 1758291563,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 859282,
@@ -313,6 +313,14 @@
       "onboard_time": 1758263064,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 725818,
+      "num": 176022,
+      "word": "关晓彤分没分杨迪你倒是问啊",
+      "onboard_time": 1758292163,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 714606,
@@ -667,6 +675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 374273,
+      "num": 231467,
+      "word": "邓紫棋穿了124次婚纱",
+      "onboard_time": 1758292163,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 371331,
       "num": 305851,
       "word": "以为马思纯张晚意抱一起了",
@@ -803,6 +819,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 268651,
+      "num": 220495,
+      "word": "金靖模仿迪丽热巴",
+      "onboard_time": 1758293604,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264949,
       "num": 264949,
       "word": "22岁过上了上一休六的退休生活",
@@ -835,14 +859,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 256185,
-      "num": 176022,
-      "word": "关晓彤分没分杨迪你倒是问啊",
-      "onboard_time": 1758292163,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254786,
       "num": 254786,
       "word": "小狗被毒死后自学刑法复仇1000天",
@@ -865,6 +881,14 @@
       "onboard_time": 1758212421,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244260,
+      "num": 145266,
+      "word": "戚薇比海鸥还白",
+      "onboard_time": 1758293844,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 242112,
@@ -913,6 +937,14 @@
       "onboard_time": 1758258562,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 235639,
+      "num": 235639,
+      "word": "印度人插队抢iPhone17斗殴互扇耳光",
+      "onboard_time": 1758291505,
+      "rank": 42,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 232664,
@@ -1027,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207565,
+      "num": 207565,
+      "word": "赴山海口碑回升",
+      "onboard_time": 1758293664,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207148,
       "num": 246768,
       "word": "731票房一天3亿",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1758255443,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202257,
-      "num": 202257,
-      "word": "邓紫棋穿了124次婚纱",
-      "onboard_time": 1758292163,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 202065,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1758240622,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184588,
+      "num": 144220,
+      "word": "何运晨律师的职业模特的身材",
+      "onboard_time": 1758294743,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 184012,
@@ -1595,6 +1635,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 148972,
+      "num": 148972,
+      "word": "邓紫棋Anyma献艺S15决赛开幕式",
+      "onboard_time": 1758294743,
+      "rank": 18,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 148403,
       "num": 148403,
       "word": "龚俊白衣公卿首套造型路透",
@@ -1699,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143547,
+      "num": 143547,
+      "word": "刘涛说下海原来是真的",
+      "onboard_time": 1758294323,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143374,
       "num": 215209,
       "word": "王牌对王牌",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1758263542,
       "rank": 40,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 137698,
+      "num": 137698,
+      "word": "王牌这期是吃了毒菌子吗",
+      "onboard_time": 1758294743,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 137109,
@@ -1873,14 +1937,6 @@
       "onboard_time": 1758247401,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 128153,
-      "num": 194908,
-      "word": "印度人插队抢iPhone17斗殴互扇耳光",
-      "onboard_time": 1758291505,
-      "rank": 42,
-      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 127453,
@@ -2008,6 +2064,14 @@
       "word": "内蒙古一医院发布2男尸认领公告",
       "onboard_time": 1758286523,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122373,
+      "num": 122373,
+      "word": "宾馆保洁员佩戴金饰遭住客劫杀",
+      "onboard_time": 1758294443,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2193,6 +2257,14 @@
       "onboard_time": 1758189923,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113766,
+      "num": 147908,
+      "word": "中美关系十分重要",
+      "onboard_time": 1758294804,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113336,
@@ -2435,6 +2507,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 103167,
+      "num": 103167,
+      "word": "小米17Pro和iPhone17Pro真机对比",
+      "onboard_time": 1758293005,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 103125,
+      "num": 103125,
+      "word": "阿尔及利亚代表连说11次请原谅",
+      "onboard_time": 1758294203,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102551,
       "num": 102551,
       "word": "陶喆北京",
@@ -2475,6 +2563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100688,
+      "num": 100688,
+      "word": "姚弛直播人气",
+      "onboard_time": 1758295402,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100625,
       "num": 518603,
       "word": "孙颖莎就爱这口纯脆",
@@ -2499,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99219,
+      "num": 99219,
+      "word": "郝蕾 还是老姐姐会啊",
+      "onboard_time": 1758293123,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99173,
       "num": 99173,
       "word": "苹果计算器复制 四舍五入",
@@ -2521,6 +2625,14 @@
       "onboard_time": 1758292943,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95525,
+      "num": 95525,
+      "word": "看见未来",
+      "onboard_time": 1758294804,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 94738,
@@ -2587,6 +2699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91626,
+      "num": 133611,
+      "word": "28年前录像厅杀人案告破",
+      "onboard_time": 1758276084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91579,
       "num": 98026,
       "word": "张馨予的体重从来没有下过百",
@@ -2601,6 +2721,14 @@
       "onboard_time": 1758198562,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90796,
+      "num": 90796,
+      "word": "要把女性科学教育摆在更加重要位置",
+      "onboard_time": 1758294682,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90229,
@@ -2803,12 +2931,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78505,
-      "num": 133611,
-      "word": "28年前录像厅杀人案告破",
-      "onboard_time": 1758276084,
+      "raw_hot": 78397,
+      "num": 122795,
+      "word": "俄方称愿意有条件妥协",
+      "onboard_time": 1758294142,
       "rank": 29,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 77617,
@@ -2832,6 +2960,14 @@
       "word": "敖子逸蒲熠星川渝人不吃辣",
       "onboard_time": 1758289404,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 76411,
+      "num": 76411,
+      "word": "王心凌回应早安",
+      "onboard_time": 1758295462,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -3235,6 +3371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39580,
+      "num": 115563,
+      "word": "胡兵抵掉身家也要干的事情",
+      "onboard_time": 1758293785,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 38786,
       "num": 104941,
       "word": "日媒918忙着给731开脱",
@@ -3408,6 +3552,14 @@
       "word": "酒店房间节假日坐地起价咋办",
       "onboard_time": 1758231254,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21836,
+      "num": 96345,
+      "word": "从勤劳致富到创新致富",
+      "onboard_time": 1758295283,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
