@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758266673721,
+  "endTime": 1758267408519,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1111964,
+      "num": 1177914,
+      "word": "赵晗遗体告别仪式明天举行",
+      "onboard_time": 1758263422,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1094283,
       "num": 1094283,
       "word": "董璇选择张维伊的原因找到了",
@@ -88,14 +96,6 @@
       "word": "翟欣欣一审获刑12年",
       "onboard_time": 1758249621,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1019400,
-      "num": 1019400,
-      "word": "赵晗遗体告别仪式明天举行",
-      "onboard_time": 1758263422,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385709,
+      "num": 385709,
+      "word": "王家卫繁花被曝疑似压榨员工",
+      "onboard_time": 1758264981,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385407,
       "num": 385407,
       "word": "731日籍演员在中国演了20多年日军",
@@ -425,6 +433,14 @@
       "onboard_time": 1758208643,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327312,
+      "num": 327312,
+      "word": "关晓彤接住了刘涛的戏",
+      "onboard_time": 1758265402,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 326458,
@@ -499,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279836,
-      "num": 279836,
-      "word": "王家卫繁花被曝疑似压榨员工",
-      "onboard_time": 1758264981,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278051,
       "num": 283371,
       "word": "比伯晒家规",
@@ -521,14 +529,6 @@
       "onboard_time": 1758245480,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 269357,
-      "num": 269357,
-      "word": "关晓彤接住了刘涛的戏",
-      "onboard_time": 1758265402,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 264949,
@@ -561,6 +561,14 @@
       "onboard_time": 1758212421,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244010,
+      "num": 425524,
+      "word": "主播逃税超243万被追缴402万",
+      "onboard_time": 1758264922,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242112,
@@ -641,6 +649,14 @@
       "onboard_time": 1758250882,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 218109,
+      "num": 270664,
+      "word": "上海优化调整个人住房房产税试点政策",
+      "onboard_time": 1758265463,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216777,
@@ -795,14 +811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194219,
-      "num": 194219,
-      "word": "主播逃税超243万被追缴402万",
-      "onboard_time": 1758264922,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191758,
       "num": 191758,
       "word": "詹姆斯称银行卡上就只几千块",
@@ -848,14 +856,6 @@
       "word": "保质期1年预制鸡蛋液1袋能蒸8碗",
       "onboard_time": 1758261743,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180292,
-      "num": 270664,
-      "word": "上海优化调整个人住房房产税试点政策",
-      "onboard_time": 1758265463,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -905,6 +905,22 @@
       "onboard_time": 1758251722,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173962,
+      "num": 173962,
+      "word": "也是到了降温主动穿厚衣服的年纪",
+      "onboard_time": 1758266662,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 164818,
+      "num": 164818,
+      "word": "当代沙发让我眼前一亮又一亮",
+      "onboard_time": 1758266783,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 164337,
@@ -1049,6 +1065,14 @@
       "onboard_time": 1758258442,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154540,
+      "num": 154540,
+      "word": "韩国下令必要时强力应对反华集会",
+      "onboard_time": 1758266242,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153382,
@@ -1235,14 +1259,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135635,
-      "num": 135635,
-      "word": "韩国下令必要时强力应对反华集会",
-      "onboard_time": 1758266242,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135478,
       "num": 140449,
       "word": "以色列感谢美国否决加沙停火决议",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1758247401,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127112,
+      "num": 127112,
+      "word": "周柏豪比左航爸爸小三岁",
+      "onboard_time": 1758266783,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 126394,
@@ -1395,6 +1419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114447,
+      "num": 114447,
+      "word": "王安宇张天爱你俩很搭知道吗",
+      "onboard_time": 1758267382,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114383,
       "num": 114383,
       "word": "社保",
@@ -1433,6 +1465,22 @@
       "onboard_time": 1758263662,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109409,
+      "num": 109409,
+      "word": "云海肴创始人心梗去世知情者发声",
+      "onboard_time": 1758267202,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109148,
+      "num": 109148,
+      "word": "四位极品饭灵根",
+      "onboard_time": 1758267023,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 106598,
@@ -1771,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55804,
+      "num": 119703,
+      "word": "管乐吐槽祝绪丹没有良心",
+      "onboard_time": 1758267382,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55390,
       "num": 76231,
       "word": "变瘦前后身边人态度变化",
@@ -1883,7 +1939,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41881,
+      "raw_hot": 43211,
       "num": 155984,
       "word": "日照金山日月同辉帽子云同框有多美",
       "onboard_time": 1758262403,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1758263603,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40925,
+      "num": 291056,
+      "word": "四环亮相设计深圳",
+      "onboard_time": 1758265463,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 40726,
@@ -1947,14 +2011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35796,
-      "num": 272017,
-      "word": "四环亮相设计深圳",
-      "onboard_time": 1758265463,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 34772,
       "num": 59522,
       "word": "李嘉欣在香港扫货被偶遇",
@@ -1971,20 +2027,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29134,
+      "num": 909250,
+      "word": "何以中国黄河安澜",
+      "onboard_time": 1758253342,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27808,
       "num": 124718,
       "word": "香港被劫金场员工以为搬货没有反抗",
       "onboard_time": 1758262403,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26819,
-      "num": 909250,
-      "word": "何以中国黄河安澜",
-      "onboard_time": 1758253342,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25710,
@@ -2027,19 +2083,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18739,
+      "num": 130206,
+      "word": "上海绿捷业务覆盖600多所学校",
+      "onboard_time": 1758266363,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15863,
       "num": 39280,
       "word": "香港黄金劫案工场职员被赶出门外",
       "onboard_time": 1758226934,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15089,
-      "num": 130206,
-      "word": "上海绿捷业务覆盖600多所学校",
-      "onboard_time": 1758266363,
-      "rank": 38,
       "category": "民生新闻"
     },
     {

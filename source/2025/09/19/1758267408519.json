@@ -1,0 +1,410 @@
+{
+  "runTime": 1758267408519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1111964,
+        "num": 1177914,
+        "word": "赵晗遗体告别仪式明天举行",
+        "onboard_time": 1758263422,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 732488,
+        "num": 732488,
+        "word": "白敬亭回应生理性演技",
+        "onboard_time": 1758259163,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29134,
+        "num": 715492,
+        "word": "何以中国黄河安澜",
+        "onboard_time": 1758253342,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 923418,
+        "num": 712316,
+        "word": "董璇选择张维伊的原因找到了",
+        "onboard_time": 1758260303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706396,
+        "num": 706396,
+        "word": "男子欠债35万崖下洞居5年",
+        "onboard_time": 1758263064,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1658899,
+        "num": 684807,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463540,
+        "num": 463540,
+        "word": "云海肴创始人赵晗去世",
+        "onboard_time": 1758259163,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430216,
+        "num": 430216,
+        "word": "琅琊榜",
+        "onboard_time": 1758258744,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258299,
+        "num": 428442,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244010,
+        "num": 425524,
+        "word": "主播逃税超243万被追缴402万",
+        "onboard_time": 1758264922,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518574,
+        "num": 422275,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 476535,
+        "num": 418763,
+        "word": "iPhone17Pro线下展出真机已满身划痕",
+        "onboard_time": 1758258083,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 416430,
+        "num": 416430,
+        "word": "女主播赴约打榜大哥遭性侵",
+        "onboard_time": 1758255745,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385709,
+        "num": 385709,
+        "word": "王家卫繁花被曝疑似压榨员工",
+        "onboard_time": 1758264981,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383941,
+        "num": 383941,
+        "word": "向往的生活8官宣",
+        "onboard_time": 1758256944,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354919,
+        "num": 354919,
+        "word": "迅猛龙被男网红孤立",
+        "onboard_time": 1758254363,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 342736,
+        "num": 342736,
+        "word": "崔丽丽老公说没有胜利可言",
+        "onboard_time": 1758264142,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327312,
+        "num": 327312,
+        "word": "关晓彤接住了刘涛的戏",
+        "onboard_time": 1758265402,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294126,
+        "num": 294126,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40925,
+        "num": 291056,
+        "word": "四环亮相设计深圳",
+        "onboard_time": 1758265463,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288811,
+        "num": 288811,
+        "word": "内娱男频三巨头",
+        "onboard_time": 1758255503,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224964,
+        "num": 224964,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218109,
+        "num": 218109,
+        "word": "上海优化调整个人住房房产税试点政策",
+        "onboard_time": 1758265463,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193318,
+        "num": 193318,
+        "word": "刘芸竟然是陈紫函戴向宇的红娘",
+        "onboard_time": 1758257424,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174085,
+        "num": 174085,
+        "word": "22岁过上了上一休六的退休生活",
+        "onboard_time": 1758258923,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173962,
+        "num": 173962,
+        "word": "也是到了降温主动穿厚衣服的年纪",
+        "onboard_time": 1758266662,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164818,
+        "num": 164818,
+        "word": "当代沙发让我眼前一亮又一亮",
+        "onboard_time": 1758266783,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154540,
+        "num": 154540,
+        "word": "韩国下令必要时强力应对反华集会",
+        "onboard_time": 1758266242,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 151731,
+        "word": "紫色被问界M9玩出高奢感",
+        "onboard_time": 1758265402,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150640,
+        "num": 150640,
+        "word": "尽早做让你生理性喜欢的事",
+        "onboard_time": 1758263662,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144498,
+        "num": 144498,
+        "word": "台风",
+        "onboard_time": 1758264621,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144365,
+        "num": 144365,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1758254064,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 127112,
+        "num": 127112,
+        "word": "周柏豪比左航爸爸小三岁",
+        "onboard_time": 1758266783,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124844,
+        "num": 124844,
+        "word": "王玉雯终于又演古装剧了",
+        "onboard_time": 1758261982,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121711,
+        "num": 121711,
+        "word": "马嘉祺是胡图图的证据找到了",
+        "onboard_time": 1758265882,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43211,
+        "num": 119868,
+        "word": "日照金山日月同辉帽子云同框有多美",
+        "onboard_time": 1758262403,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 55804,
+        "num": 119703,
+        "word": "管乐吐槽祝绪丹没有良心",
+        "onboard_time": 1758267382,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119591,
+        "num": 119591,
+        "word": "以后旅游要发有趣的朋友圈",
+        "onboard_time": 1758264203,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114447,
+        "num": 114447,
+        "word": "王安宇张天爱你俩很搭知道吗",
+        "onboard_time": 1758267382,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18739,
+        "num": 112770,
+        "word": "上海绿捷业务覆盖600多所学校",
+        "onboard_time": 1758266363,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36709,
+        "num": 112673,
+        "word": "微软区别对待中国用户",
+        "onboard_time": 1758266182,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115322,
+        "num": 112669,
+        "word": "张艺兴鸟巢演唱会售罄",
+        "onboard_time": 1758263304,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112639,
+        "num": 112639,
+        "word": "李荣浩回应iOS26受益",
+        "onboard_time": 1758262942,
+        "rank": 42,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 112292,
+        "num": 112292,
+        "word": "抢走8月大婴儿2万8卖了",
+        "onboard_time": 1758256224,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110813,
+        "num": 110813,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109409,
+        "num": 109409,
+        "word": "云海肴创始人心梗去世知情者发声",
+        "onboard_time": 1758267202,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109148,
+        "num": 109148,
+        "word": "四位极品饭灵根",
+        "onboard_time": 1758267023,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108295,
+        "num": 108295,
+        "word": "49元爆火窜稀酸奶成新型泻药",
+        "onboard_time": 1758262163,
+        "rank": 47,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 106779,
+        "num": 106779,
+        "word": "农村婚礼真的很考验摄影师",
+        "onboard_time": 1758261504,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106427,
+        "num": 106427,
+        "word": "歼6无人机终于实锤",
+        "onboard_time": 1758262043,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是不畏强暴自立自强的伟大民族#"
+    }
+  }
+}
