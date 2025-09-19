@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758291858079,
+  "endTime": 1758292986978,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4153,6 +4153,14 @@
       "onboard_time": 1757418444,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 866234,
+      "num": 471247,
+      "word": "黄子诚因模仿黄子韬导致破产",
+      "onboard_time": 1758291563,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 866039,
@@ -11059,6 +11067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 406545,
+      "num": 257194,
+      "word": "越南人靠去过上海炫富",
+      "onboard_time": 1758287603,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406418,
       "num": 539372,
       "word": "iPhone17 抢不到",
@@ -16275,6 +16291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 264600,
+      "num": 264600,
+      "word": "中美元首通电话",
+      "onboard_time": 1758289104,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 264297,
       "num": 231098,
       "word": "iG选择EDG",
@@ -16313,14 +16337,6 @@
       "onboard_time": 1758108203,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263981,
-      "num": 263981,
-      "word": "中美元首通电话",
-      "onboard_time": 1758289104,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 263931,
@@ -16641,6 +16657,14 @@
       "onboard_time": 1756905865,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 256185,
+      "num": 176022,
+      "word": "关晓彤分没分杨迪你倒是问啊",
+      "onboard_time": 1758292163,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 256184,
@@ -17217,14 +17241,6 @@
       "onboard_time": 1757138541,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 244170,
-      "num": 244170,
-      "word": "越南人靠去过上海炫富",
-      "onboard_time": 1758287603,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244125,
@@ -20769,6 +20785,14 @@
       "onboard_time": 1757387422,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202257,
+      "num": 202257,
+      "word": "邓紫棋穿了124次婚纱",
+      "onboard_time": 1758292163,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 202246,
@@ -26467,6 +26491,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 169058,
+      "num": 169058,
+      "word": "内娱再火一个姚弛怎么了",
+      "onboard_time": 1758292104,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168981,
       "num": 168981,
       "word": "伯恩利VS利物浦",
@@ -27241,6 +27273,14 @@
       "onboard_time": 1757326462,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165026,
+      "num": 208419,
+      "word": "医院就诊被拍视频发网上",
+      "onboard_time": 1758287483,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164924,
@@ -30107,6 +30147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152905,
+      "num": 152905,
+      "word": "逆水寒手游",
+      "onboard_time": 1758291685,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152904,
       "num": 152904,
       "word": "烟之凰杀青",
@@ -32768,14 +32816,6 @@
       "word": "这些租房糟心事有救了",
       "onboard_time": 1757902161,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143457,
-      "num": 208419,
-      "word": "医院就诊被拍视频发网上",
-      "onboard_time": 1758287483,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -37467,20 +37507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128203,
-      "num": 194993,
-      "word": "黄子诚因模仿黄子韬导致破产",
-      "onboard_time": 1758291563,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128160,
       "num": 128160,
       "word": "心动的信号夏日漫游芭莎大片",
       "onboard_time": 1757999663,
       "rank": 49,
       "category": "时尚,综艺"
+    },
+    {
+      "raw_hot": 128153,
+      "num": 194908,
+      "word": "印度人插队抢iPhone17斗殴互扇耳光",
+      "onboard_time": 1758291505,
+      "rank": 42,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 128130,
@@ -40899,6 +40939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117703,
+      "num": 194938,
+      "word": "iPhoneAir首发上手",
+      "onboard_time": 1758290663,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117675,
       "num": 117675,
       "word": "iOS26全面提升iPhone续航",
@@ -42913,14 +42961,6 @@
       "onboard_time": 1757202139,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111878,
-      "num": 194938,
-      "word": "iPhoneAir首发上手",
-      "onboard_time": 1758290663,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 111866,
@@ -45619,14 +45659,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 104178,
-      "num": 194908,
-      "word": "印度人插队抢iPhone17斗殴互扇耳光",
-      "onboard_time": 1758291505,
-      "rank": 42,
-      "category": "海外新闻,数码"
-    },
-    {
       "raw_hot": 104170,
       "num": 104170,
       "word": "狗 你可真是我的爪上明珠",
@@ -46531,6 +46563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101501,
+      "num": 194893,
+      "word": "白露都帅成啥样了",
+      "onboard_time": 1758291744,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101477,
       "num": 126433,
       "word": "开保时捷华人女子加拿大遭绑架",
@@ -47113,14 +47153,6 @@
       "onboard_time": 1756701562,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99640,
-      "num": 194893,
-      "word": "白露都帅成啥样了",
-      "onboard_time": 1758291744,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 99637,
@@ -48041,6 +48073,14 @@
       "onboard_time": 1756999403,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96931,
+      "num": 96931,
+      "word": "阿富汗政府拒绝特朗普",
+      "onboard_time": 1758292943,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96925,
@@ -49905,6 +49945,14 @@
       "onboard_time": 1757500041,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88936,
+      "num": 96931,
+      "word": "朱易生日发文",
+      "onboard_time": 1758292704,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 88933,
@@ -60313,6 +60361,14 @@
       "onboard_time": 1757320942,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20333,
+      "num": 96931,
+      "word": "女子网约车拼单遭陌生醉酒男子骚扰",
+      "onboard_time": 1758292284,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20104,

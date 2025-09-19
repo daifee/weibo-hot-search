@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 22:24:18
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 22:43:06
 </p>
 </blockquote>
 <p>
@@ -3129,6 +3129,12 @@ iPhone18Pro已打样（热度：878237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E5%9B%A0%E6%A8%A1%E4%BB%BF%E9%BB%84%E5%AD%90%E9%9F%AC%E5%AF%BC%E8%87%B4%E7%A0%B4%E4%BA%A7%23" target="weibo">
+黄子诚因模仿黄子韬导致破产（热度：866234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%99%8B%E5%8F%B0%E8%AF%8D%23" target="weibo">
 罗晋台词（热度：866039）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%83%AD%E8%81%8A%23" target="weibo">
 刘亦菲迪丽热巴热聊（热度：538386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E4%BA%BF%E7%82%B9%E9%9C%87%E6%92%BC%23" target="weibo">
-中国排面给全世界亿点震撼（热度：537809）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758291858079,
+  "endTime": 1758292986978,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -169,6 +169,14 @@
       "onboard_time": 1758259163,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 866234,
+      "num": 471247,
+      "word": "黄子诚因模仿黄子韬导致破产",
+      "onboard_time": 1758291563,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 859282,
@@ -595,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 406545,
+      "num": 257194,
+      "word": "越南人靠去过上海炫富",
+      "onboard_time": 1758287603,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395348,
       "num": 395348,
       "word": "携程被约谈",
@@ -803,8 +819,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 263981,
-      "num": 263981,
+      "raw_hot": 264600,
+      "num": 264600,
       "word": "中美元首通电话",
       "onboard_time": 1758289104,
       "rank": 27,
@@ -817,6 +833,14 @@
       "onboard_time": 1758281062,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 256185,
+      "num": 176022,
+      "word": "关晓彤分没分杨迪你倒是问啊",
+      "onboard_time": 1758292163,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 254786,
@@ -841,14 +865,6 @@
       "onboard_time": 1758212421,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 244170,
-      "num": 244170,
-      "word": "越南人靠去过上海炫富",
-      "onboard_time": 1758287603,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242112,
@@ -1049,6 +1065,14 @@
       "onboard_time": 1758255443,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202257,
+      "num": 202257,
+      "word": "邓紫棋穿了124次婚纱",
+      "onboard_time": 1758292163,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 202065,
@@ -1299,6 +1323,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169058,
+      "num": 169058,
+      "word": "内娱再火一个姚弛怎么了",
+      "onboard_time": 1758292104,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165026,
+      "num": 208419,
+      "word": "医院就诊被拍视频发网上",
+      "onboard_time": 1758287483,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "当代沙发让我眼前一亮又一亮",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1758207620,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152905,
+      "num": 152905,
+      "word": "逆水寒手游",
+      "onboard_time": 1758291685,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 152421,
@@ -1651,14 +1699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143457,
-      "num": 208419,
-      "word": "医院就诊被拍视频发网上",
-      "onboard_time": 1758287483,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143374,
       "num": 215209,
       "word": "王牌对王牌",
@@ -1835,12 +1875,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 128203,
-      "num": 194993,
-      "word": "黄子诚因模仿黄子韬导致破产",
-      "onboard_time": 1758291563,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 128153,
+      "num": 194908,
+      "word": "印度人插队抢iPhone17斗殴互扇耳光",
+      "onboard_time": 1758291505,
+      "rank": 42,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 127453,
@@ -2043,6 +2083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117703,
+      "num": 194938,
+      "word": "iPhoneAir首发上手",
+      "onboard_time": 1758290663,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117620,
       "num": 117620,
       "word": "曾用10年退休金补仓的爷叔解套了",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1758275903,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111878,
-      "num": 194938,
-      "word": "iPhoneAir首发上手",
-      "onboard_time": 1758290663,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 111645,
@@ -2379,14 +2419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104178,
-      "num": 194908,
-      "word": "印度人插队抢iPhone17斗殴互扇耳光",
-      "onboard_time": 1758291505,
-      "rank": 42,
-      "category": "海外新闻,数码"
-    },
-    {
       "raw_hot": 103478,
       "num": 194895,
       "word": "张真源你抬起武艺哥真的很好笑",
@@ -2435,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101501,
+      "num": 194893,
+      "word": "白露都帅成啥样了",
+      "onboard_time": 1758291744,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100625,
       "num": 518603,
       "word": "孙颖莎就爱这口纯脆",
@@ -2449,14 +2489,6 @@
       "onboard_time": 1758249621,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99640,
-      "num": 194893,
-      "word": "白露都帅成啥样了",
-      "onboard_time": 1758291744,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 99527,
@@ -2481,6 +2513,14 @@
       "onboard_time": 1758288443,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96931,
+      "num": 96931,
+      "word": "阿富汗政府拒绝特朗普",
+      "onboard_time": 1758292943,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94738,
@@ -2577,6 +2617,14 @@
       "onboard_time": 1758275963,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88936,
+      "num": 96931,
+      "word": "朱易生日发文",
+      "onboard_time": 1758292704,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 88896,
@@ -3360,6 +3408,14 @@
       "word": "酒店房间节假日坐地起价咋办",
       "onboard_time": 1758231254,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20333,
+      "num": 96931,
+      "word": "女子网约车拼单遭陌生醉酒男子骚扰",
+      "onboard_time": 1758292284,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
