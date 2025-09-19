@@ -1,0 +1,410 @@
+{
+  "runTime": 1758253719485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2295204,
+        "num": 2295204,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1156276,
+        "num": 1156276,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14842,
+        "num": 1072294,
+        "word": "近距离看航空展名场面",
+        "onboard_time": 1758246681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1889145,
+        "num": 1070161,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1011753,
+        "num": 1011753,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932704,
+        "num": 932704,
+        "word": "小米召回11.7万辆标准版SU7",
+        "onboard_time": 1758246441,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 673237,
+        "num": 673237,
+        "word": "中方对表决结果非常失望",
+        "onboard_time": 1758241883,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 544304,
+        "num": 544304,
+        "word": "老人被曝用废弃空瓶灌水卖游客",
+        "onboard_time": 1758247882,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399615,
+        "num": 399615,
+        "word": "向往的生活",
+        "onboard_time": 1758252322,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385407,
+        "num": 385407,
+        "word": "731日籍演员在中国演了20多年日军",
+        "onboard_time": 1758247821,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1683608,
+        "num": 383136,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 911371,
+        "num": 379669,
+        "word": "女孩被同班男生杀害尸体距家仅100米",
+        "onboard_time": 1758252505,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370709,
+        "num": 370709,
+        "word": "香港西九龙重案组",
+        "onboard_time": 1758250281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358495,
+        "num": 358495,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337227,
+        "num": 337227,
+        "word": "导演让刚出生女儿出演剖腹取婴镜头",
+        "onboard_time": 1758203184,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317631,
+        "num": 317631,
+        "word": "震耳欲聋定档",
+        "onboard_time": 1758248242,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313073,
+        "num": 313073,
+        "word": "翟欣欣索要精神损失费1000万元",
+        "onboard_time": 1758251181,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295167,
+        "num": 295167,
+        "word": "周扬青说目前没人配得上我",
+        "onboard_time": 1758246021,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282287,
+        "num": 282287,
+        "word": "彭昱畅对不起了向佐老师",
+        "onboard_time": 1758249801,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87945,
+        "num": 268202,
+        "word": "华为广汽官宣新品牌启境汽车",
+        "onboard_time": 1758251061,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 391369,
+        "num": 267817,
+        "word": "韩国人称只有韩国吃饭用勺子",
+        "onboard_time": 1758249562,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 264653,
+        "num": 264653,
+        "word": "苍兰诀2首刀出现了",
+        "onboard_time": 1758253403,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197964,
+        "num": 244105,
+        "word": "翟欣欣构成敲诈勒索罪",
+        "onboard_time": 1758253281,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237380,
+        "num": 237380,
+        "word": "山东入室抢婴案1人被判死缓",
+        "onboard_time": 1758250582,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24169,
+        "num": 225724,
+        "word": "何以中国黄河安澜",
+        "onboard_time": 1758253342,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219882,
+        "num": 219882,
+        "word": "奥巴马说我不是总统冲我喊没用",
+        "onboard_time": 1758250882,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216272,
+        "num": 216272,
+        "word": "赴山海情节被吐槽跟于北辰有一拼",
+        "onboard_time": 1758251420,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210839,
+        "num": 210839,
+        "word": "一文梳理翟欣欣案时间线",
+        "onboard_time": 1758252023,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195081,
+        "num": 195081,
+        "word": "漂亮饭吃出猪脚饭的感觉",
+        "onboard_time": 1758252322,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190537,
+        "num": 190537,
+        "word": "詹姆斯首冠加冕时刻看哭了",
+        "onboard_time": 1758253163,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189417,
+        "num": 189417,
+        "word": "iOS26同时解决了网瘾和猪瘾",
+        "onboard_time": 1758253403,
+        "rank": 30,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 186323,
+        "num": 186323,
+        "word": "19岁女子腹痛就诊后2小时分娩",
+        "onboard_time": 1758207444,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174229,
+        "num": 174229,
+        "word": "水果吃太多可能会加速衰老",
+        "onboard_time": 1758251181,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173968,
+        "num": 173968,
+        "word": "翟欣欣苏享茂婚姻仅42天",
+        "onboard_time": 1758251722,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172624,
+        "num": 172624,
+        "word": "中国代表三问以色列美国",
+        "onboard_time": 1758244880,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155727,
+        "num": 168792,
+        "word": "WMA微博音乐盛典阵容",
+        "onboard_time": 1758253042,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167245,
+        "num": 167245,
+        "word": "王骁发文力挺成毅",
+        "onboard_time": 1758239301,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145474,
+        "num": 166849,
+        "word": "smart超级电混上新色",
+        "onboard_time": 1758253522,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36918,
+        "num": 165753,
+        "word": "香港珠宝展偶遇章小蕙",
+        "onboard_time": 1758253281,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117218,
+        "num": 164017,
+        "word": "井川里予酒吧蹦迪",
+        "onboard_time": 1758253103,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42982,
+        "num": 163262,
+        "word": "公安部公布10起网络违法犯罪典型案例",
+        "onboard_time": 1758238458,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162661,
+        "num": 162661,
+        "word": "吃预制菜一周体脂飞升上涨",
+        "onboard_time": 1758252505,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158775,
+        "num": 158775,
+        "word": "小狗的花期也这么短吗",
+        "onboard_time": 1758253223,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155551,
+        "num": 155551,
+        "word": "当我们的梦想被AI具像化",
+        "onboard_time": 1758252862,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155004,
+        "num": 155004,
+        "word": "王安宇张天爱新片来不及了快上车",
+        "onboard_time": 1758251360,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149923,
+        "num": 149923,
+        "word": "樊振东新东家是乒乓欧冠头号种子",
+        "onboard_time": 1758252505,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148403,
+        "num": 148403,
+        "word": "龚俊白衣公卿首套造型路透",
+        "onboard_time": 1758253584,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146647,
+        "num": 146647,
+        "word": "3口减肥法",
+        "onboard_time": 1758252803,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135478,
+        "num": 140449,
+        "word": "以色列感谢美国否决加沙停火决议",
+        "onboard_time": 1758252082,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138780,
+        "num": 138780,
+        "word": "张天爱首部民国剧美成这样",
+        "onboard_time": 1758253703,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是不畏强暴自立自强的伟大民族#"
+    }
+  }
+}
