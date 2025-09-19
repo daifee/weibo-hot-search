@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758300282215,
+  "endTime": 1758302470302,
   "band_list": [
     {
       "raw_hot": 1487626,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154065,
+      "num": 154065,
+      "word": "28年前录像厅杀人案告破",
+      "onboard_time": 1758276084,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139738,
       "num": 119167,
       "word": "何运晨律师的职业模特的身材",
@@ -161,6 +169,14 @@
       "onboard_time": 1758294804,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121960,
+      "num": 115827,
+      "word": "刘涛说下海原来是真的",
+      "onboard_time": 1758294323,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 117754,
@@ -219,14 +235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 92830,
-      "num": 115827,
-      "word": "刘涛说下海原来是真的",
-      "onboard_time": 1758294323,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91448,
       "num": 115827,
       "word": "小米17Pro和iPhone17Pro真机对比",
@@ -257,14 +265,6 @@
       "onboard_time": 1758295402,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81824,
-      "num": 115827,
-      "word": "28年前录像厅杀人案告破",
-      "onboard_time": 1758276084,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79730,
@@ -379,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59471,
+      "num": 79517,
+      "word": "SHarK在黄浦江边洗牌",
+      "onboard_time": 1758301339,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 57531,
       "num": 99058,
       "word": "谢霆锋偷偷看粉丝评论",
@@ -411,12 +419,52 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32518,
+      "raw_hot": 51858,
+      "num": 79468,
+      "word": "一张绝美的脸背后是一张更美的脸",
+      "onboard_time": 1758300319,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41240,
+      "num": 79204,
+      "word": "你好星期六",
+      "onboard_time": 1758300679,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39571,
       "num": 99320,
       "word": "男子毒死9条宠物狗一审2年未判",
       "onboard_time": 1758296904,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36386,
+      "num": 79092,
+      "word": "孙燕姿重庆演唱会今晚开唱",
+      "onboard_time": 1758300979,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 33046,
+      "num": 79042,
+      "word": "宋轶素颜健身照",
+      "onboard_time": 1758284483,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32879,
+      "num": 79014,
+      "word": "邓紫棋Anyma献艺S15决赛开幕式",
+      "onboard_time": 1758294743,
+      "rank": 49,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 28083,

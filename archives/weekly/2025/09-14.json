@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758300282215,
+  "endTime": 1758302470302,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -9763,6 +9763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154065,
+      "num": 154065,
+      "word": "28年前录像厅杀人案告破",
+      "onboard_time": 1758276084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153910,
       "num": 170311,
       "word": "黄奕一件事已经坚持17年了",
@@ -16123,14 +16131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91626,
-      "num": 133611,
-      "word": "28年前录像厅杀人案告破",
-      "onboard_time": 1758276084,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91625,
       "num": 91625,
       "word": "刺杀柯克嫌疑人或面临死刑",
@@ -17931,6 +17931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59471,
+      "num": 79517,
+      "word": "SHarK在黄浦江边洗牌",
+      "onboard_time": 1758301339,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 59060,
       "num": 120710,
       "word": "蔡徐坤一出场哇声一片",
@@ -18305,6 +18313,14 @@
       "onboard_time": 1758027503,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51858,
+      "num": 79468,
+      "word": "一张绝美的脸背后是一张更美的脸",
+      "onboard_time": 1758300319,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 51673,
@@ -18891,6 +18907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41240,
+      "num": 79204,
+      "word": "你好星期六",
+      "onboard_time": 1758300679,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41227,
       "num": 79790,
       "word": "杨帆是李佳本科老师",
@@ -18969,6 +18993,14 @@
       "onboard_time": 1758107303,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39571,
+      "num": 99320,
+      "word": "男子毒死9条宠物狗一审2年未判",
+      "onboard_time": 1758296904,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39338,
@@ -19065,6 +19097,14 @@
       "onboard_time": 1757881453,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36386,
+      "num": 79092,
+      "word": "孙燕姿重庆演唱会今晚开唱",
+      "onboard_time": 1758300979,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 36210,
@@ -19241,14 +19281,6 @@
       "onboard_time": 1757929342,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32518,
-      "num": 99320,
-      "word": "男子毒死9条宠物狗一审2年未判",
-      "onboard_time": 1758296904,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31980,
