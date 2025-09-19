@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/19 00:31:24 ~ 2025/09/19 16:32:20
+本榜单时间：2025/09/19 00:31:24 ~ 2025/09/19 16:45:20
 </p>
 </blockquote>
 <p>
@@ -58,7 +58,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%94%E5%86%9B%E4%BB%BB%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
-朱孔军任武汉大学党委书记（热度：1594357）
+朱孔军任武汉大学党委书记（热度：1624301）
 </a>
 </li>
 
@@ -261,6 +261,12 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E7%A9%B7%E6%B8%B8%E7%9A%84%E4%B8%89%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
+最适合穷游的三个城市（热度：533181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E7%B4%A2%E8%A6%81%E7%B2%BE%E7%A5%9E%E6%8D%9F%E5%A4%B1%E8%B4%B91000%E4%B8%87%E5%85%83%23" target="weibo">
 翟欣欣索要精神损失费1000万元（热度：530173）
 </a>
@@ -275,6 +281,12 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%B8%89%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9B%BD%23" target="weibo">
 中国代表三问以色列美国（热度：471820）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B0%83%E6%95%B4%23" target="weibo">
+武大党委书记调整（热度：457026）
 </a>
 </li>
 
@@ -297,8 +309,8 @@ iOS26同时解决了网瘾和猪瘾（热度：446650）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E7%A9%B7%E6%B8%B8%E7%9A%84%E4%B8%89%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
-最适合穷游的三个城市（热度：432466）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%B9%90%E5%90%90%E6%A7%BD%E7%A5%9D%E7%BB%AA%E4%B8%B9%E6%B2%A1%E6%9C%89%E8%89%AF%E5%BF%83%23" target="weibo">
+管乐吐槽祝绪丹没有良心（热度：437098）
 </a>
 </li>
 
@@ -317,6 +329,12 @@ iOS26同时解决了网瘾和猪瘾（热度：446650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E8%87%AA%E6%9B%9D%E6%82%A3%E8%9B%87%E7%BC%A0%E8%85%B0%E5%90%8E%E6%89%8D%E6%97%A9%E7%9D%A1%23" target="weibo">
 蔡依林自曝患蛇缠腰后才早睡（热度：422175）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%9F%BA%E9%87%91%E7%9A%84%E4%BA%BA%E4%BB%8A%E5%B9%B4%E6%80%8E%E4%B9%88%E4%B8%8D%E8%AE%B2%E6%AE%B5%E5%AD%90%E4%BA%86%23" target="weibo">
+买基金的人今年怎么不讲段子了（热度：420513）
 </a>
 </li>
 
@@ -351,12 +369,6 @@ iOS26同时解决了网瘾和猪瘾（热度：446650）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%9F%BA%E9%87%91%E7%9A%84%E4%BA%BA%E4%BB%8A%E5%B9%B4%E6%80%8E%E4%B9%88%E4%B8%8D%E8%AE%B2%E6%AE%B5%E5%AD%90%E4%BA%86%23" target="weibo">
-买基金的人今年怎么不讲段子了（热度：380983）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E8%80%81%E5%85%AC%E8%AF%B4%E6%B2%A1%E6%9C%89%E8%83%9C%E5%88%A9%E5%8F%AF%E8%A8%80%23" target="weibo">
 崔丽丽老公说没有胜利可言（热度：364499）
 </a>
@@ -365,12 +377,6 @@ iOS26同时解决了网瘾和猪瘾（热度：446650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%A6%E8%AE%A4%E6%80%80%E5%AD%95%E5%BD%B1%E5%83%8F%E6%A3%80%E6%9F%A52%E5%B0%8F%E6%97%B6%E5%90%8E%E5%88%86%E5%A8%A9%23" target="weibo">
 女子否认怀孕影像检查2小时后分娩（热度：347259）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%B9%90%E5%90%90%E6%A7%BD%E7%A5%9D%E7%BB%AA%E4%B8%B9%E6%B2%A1%E6%9C%89%E8%89%AF%E5%BF%83%23" target="weibo">
-管乐吐槽祝绪丹没有良心（热度：329123）
 </a>
 </li>
 
@@ -429,6 +435,12 @@ D4vd车厢藏尸死者失踪时仅13岁（热度：315301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8B%E4%BB%A4%E5%BF%85%E8%A6%81%E6%97%B6%E5%BC%BA%E5%8A%9B%E5%BA%94%E5%AF%B9%E5%8F%8D%E5%8D%8E%E9%9B%86%E4%BC%9A%23" target="weibo">
+韩国下令必要时强力应对反华集会（热度：279427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E6%99%92%E5%AE%B6%E8%A7%84%23" target="weibo">
 比伯晒家规（热度：278051）
 </a>
@@ -465,14 +477,14 @@ D4vd车厢藏尸死者失踪时仅13岁（热度：315301）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B0%83%E6%95%B4%23" target="weibo">
-武大党委书记调整（热度：245355）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%83%85%E8%8A%82%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B7%9F%E4%BA%8E%E5%8C%97%E8%BE%B0%E6%9C%89%E4%B8%80%E6%8B%BC%23" target="weibo">
+赴山海情节被吐槽跟于北辰有一拼（热度：242112）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%83%85%E8%8A%82%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B7%9F%E4%BA%8E%E5%8C%97%E8%BE%B0%E6%9C%89%E4%B8%80%E6%8B%BC%23" target="weibo">
-赴山海情节被吐槽跟于北辰有一拼（热度：242112）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%23" target="weibo">
+这一秒过火（热度：241638）
 </a>
 </li>
 
@@ -503,12 +515,6 @@ iPhone17Pro划痕（热度：237416）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23731%E6%89%80%E6%9C%89%E6%97%A5%E6%9C%AC%E8%A7%92%E8%89%B2%E5%9D%87%E7%94%B1%E6%97%A5%E7%B1%8D%E6%BC%94%E5%91%98%E5%87%BA%E6%BC%94%23" target="weibo">
 731所有日本角色均由日籍演员出演（热度：232664）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8B%E4%BB%A4%E5%BF%85%E8%A6%81%E6%97%B6%E5%BC%BA%E5%8A%9B%E5%BA%94%E5%AF%B9%E5%8F%8D%E5%8D%8E%E9%9B%86%E4%BC%9A%23" target="weibo">
-韩国下令必要时强力应对反华集会（热度：230054）
 </a>
 </li>
 
@@ -671,6 +677,12 @@ VOGUE男刊（热度：196470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E8%A2%AB%E6%9E%AA%E5%87%BB%E6%AD%BB%E4%BA%A1%23" target="weibo">
 两名以色列人被枪击死亡（热度：185869）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E5%86%BB2%E5%B9%B4%E7%9A%84%E8%A5%BF%E5%85%B0%E8%8A%B1%E5%B1%B1%E5%A7%86%E4%B9%9F%E5%9C%A8%E5%8D%96%23" target="weibo">
+冷冻2年的西兰花山姆也在卖（热度：184012）
 </a>
 </li>
 
@@ -867,18 +879,6 @@ ymy演的是男一（热度：152421）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E5%86%BB2%E5%B9%B4%E7%9A%84%E8%A5%BF%E5%85%B0%E8%8A%B1%E5%B1%B1%E5%A7%86%E4%B9%9F%E5%9C%A8%E5%8D%96%23" target="weibo">
-冷冻2年的西兰花山姆也在卖（热度：151999）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%23" target="weibo">
-这一秒过火（热度：151418）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1731%E5%AF%BC%E6%BC%94%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 电影731导演妻子发声（热度：150765）
 </a>
@@ -1023,6 +1023,12 @@ smart超级电混上新色（热度：145474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%91%98%E5%B7%A5%E6%80%92%E6%80%BC%E4%BB%A3%E7%90%86%E5%85%AC%E5%8F%B8%23" target="weibo">
+影视飓风员工怒怼代理公司（热度：134362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6%E6%B5%B7%E6%8A%A5%E6%98%AF%E5%84%BF%E5%AD%90%E7%94%BB%E7%9A%84%23" target="weibo">
 郑钧演唱会倒计时海报是儿子画的（热度：133976）
 </a>
@@ -1031,6 +1037,12 @@ smart超级电混上新色（热度：145474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E5%90%8E%E6%90%BA%E5%A6%BB%E5%AD%90%E6%AF%94%E5%88%A9%E6%97%B6%E5%8D%96%E8%B1%8C%E6%9D%82%E9%9D%A2%23" target="weibo">
 博士后携妻子比利时卖豌杂面（热度：132438）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%A9%B7%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BA%E6%88%90%E6%AF%85%23" target="weibo">
+梁婷发文力挺成毅（热度：129733）
 </a>
 </li>
 
@@ -1077,20 +1089,26 @@ iOS26受害者（热度：129522）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%9B%BE2%E6%AC%A1%E9%97%AA%E5%A9%9A%E9%97%AA%E7%A6%BB%23" target="weibo">
+翟欣欣曾2次闪婚闪离（热度：125589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%AE%A9%E5%BE%90%E5%BF%97%E8%83%9C%E5%B8%AE%E6%8A%A2%E6%97%B6%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%23" target="weibo">
 贺峻霖让徐志胜帮抢时团演唱会票（热度：125473）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%A9%B7%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BA%E6%88%90%E6%AF%85%23" target="weibo">
-梁婷发文力挺成毅（热度：124916）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E5%BA%97%E5%91%98%E5%9B%9E%E5%BA%94%E6%A9%99%E6%B1%81%E7%A1%AE%E4%B8%BA%E6%9E%9C%E7%B2%92%E6%A9%99%23" target="weibo">
+必胜客店员回应橙汁确为果粒橙（热度：124639）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E5%BA%97%E5%91%98%E5%9B%9E%E5%BA%94%E6%A9%99%E6%B1%81%E7%A1%AE%E4%B8%BA%E6%9E%9C%E7%B2%92%E6%A9%99%23" target="weibo">
-必胜客店员回应橙汁确为果粒橙（热度：124639）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%AD%A3%E5%9C%A8%E5%8A%A0%E8%BD%BD%E4%B8%AD%23" target="weibo">
+你的国庆假期正在加载中（热度：124515）
 </a>
 </li>
 
@@ -1221,8 +1239,14 @@ iOS26受害者（热度：129522）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%9B%BE2%E6%AC%A1%E9%97%AA%E5%A9%9A%E9%97%AA%E7%A6%BB%23" target="weibo">
-翟欣欣曾2次闪婚闪离（热度：108771）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E6%9C%80%E9%AB%98%E6%B0%B4%E5%B9%B3%E7%9A%84%E8%B5%9B%E4%BA%8B%23" target="weibo">
+西藏最高水平的赛事（热度：108277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E9%9D%99%E9%9B%A8%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97%E5%90%8C%E6%A1%86%23" target="weibo">
+徐静雨追梦格林同框（热度：107729）
 </a>
 </li>
 
@@ -1233,8 +1257,20 @@ iOS26受害者（热度：129522）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E9%80%89%E6%95%96%E5%AD%90%E9%80%B8%23" target="weibo">
+久哲为什么不选敖子逸（热度：105917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E9%85%92%E5%BA%97%E7%A7%B0%E6%88%BF%E4%BB%B7%E8%A2%AB%E6%90%BA%E7%A8%8B%E9%99%8D%E4%BB%B7%E4%B8%80%E5%80%8D%E5%A4%9A%23" target="weibo">
 有酒店称房价被携程降价一倍多（热度：105500）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%80%E8%84%9A%E5%88%B0%E6%8B%89%E8%90%A8%23" target="weibo">
+王楚钦一脚到拉萨（热度：104202）
 </a>
 </li>
 
@@ -1325,12 +1361,6 @@ iOS26受害者（热度：129522）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%86%8D%E4%B8%80%E7%A5%A8%E5%90%A6%E5%86%B3%E5%AE%89%E7%90%86%E4%BC%9A%E5%8A%A0%E6%B2%99%E5%86%B3%E8%AE%AE%23" target="weibo">
 中方回应美再一票否决安理会加沙决议（热度：85672）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%AD%A3%E5%9C%A8%E5%8A%A0%E8%BD%BD%E4%B8%AD%23" target="weibo">
-你的国庆假期正在加载中（热度：84862）
 </a>
 </li>
 
@@ -1557,6 +1587,12 @@ SKULLPANDA也遁入CROCS洞门了（热度：49017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%B9%E8%B0%88%E7%9F%B3%E5%AE%87%E5%A5%87%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
+林丹谈石宇奇世锦赛夺冠（热度：48091）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%BD%AF%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%23" target="weibo">
 微软区别对待中国用户（热度：46341）
 </a>
@@ -1677,6 +1713,12 @@ SKULLPANDA也遁入CROCS洞门了（热度：49017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E6%A6%B4%E7%BA%A2%E4%BA%86%E6%BB%A1%E5%A4%A9%E5%B1%B1%23" target="weibo">
+石榴红了满天山（热度：25313）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E5%BC%8F%E9%AA%97%E5%A9%9A%E4%B8%BA%E4%BD%95%E6%9E%84%E6%88%90%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%23" target="weibo">
 翟欣欣式骗婚为何构成敲诈勒索（热度：23962）
 </a>
@@ -1727,6 +1769,12 @@ SKULLPANDA也遁入CROCS洞门了（热度：49017）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E6%98%AF%E4%B8%8D%E7%95%8F%E5%BC%BA%E6%9A%B4%E8%87%AA%E7%AB%8B%E8%87%AA%E5%BC%BA%E7%9A%84%E4%BC%9F%E5%A4%A7%E6%B0%91%E6%97%8F%23%23" target="weibo">
 #中华民族是不畏强暴自立自强的伟大民族#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%87%B4%E5%85%AC%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4%23%23" target="weibo">
+#习近平致信祝贺中国致公党成立100周年#
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758271520324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1624301,
+        "num": 1624301,
+        "word": "朱孔军任武汉大学党委书记",
+        "onboard_time": 1758269602,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635891,
+        "num": 635891,
+        "word": "关晓彤接住了刘涛的戏",
+        "onboard_time": 1758265402,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25355,
+        "num": 598744,
+        "word": "何以中国黄河安澜",
+        "onboard_time": 1758253342,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 588149,
+        "num": 588149,
+        "word": "董璇选择张维伊的原因找到了",
+        "onboard_time": 1758260303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533181,
+        "num": 533181,
+        "word": "最适合穷游的三个城市",
+        "onboard_time": 1758267922,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1326550,
+        "num": 511074,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801182,
+        "num": 499003,
+        "word": "赵晗遗体告别仪式明天举行",
+        "onboard_time": 1758263422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475430,
+        "num": 475430,
+        "word": "主播逃税超243万被追缴402万",
+        "onboard_time": 1758264922,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464463,
+        "num": 464463,
+        "word": "男子欠债35万崖下洞居5年",
+        "onboard_time": 1758263064,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124515,
+        "num": 458435,
+        "word": "你的国庆假期正在加载中",
+        "onboard_time": 1758270323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666046,
+        "num": 457913,
+        "word": "王家卫繁花被曝疑似压榨员工",
+        "onboard_time": 1758264981,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457026,
+        "num": 457026,
+        "word": "武大党委书记调整",
+        "onboard_time": 1758269542,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 451808,
+        "num": 451808,
+        "word": "琅琊榜",
+        "onboard_time": 1758258744,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437098,
+        "num": 437098,
+        "word": "管乐吐槽祝绪丹没有良心",
+        "onboard_time": 1758267382,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379476,
+        "num": 379476,
+        "word": "iPhone17Pro线下展出真机已满身划痕",
+        "onboard_time": 1758258083,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 370790,
+        "num": 370790,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323633,
+        "num": 323633,
+        "word": "云海肴创始人赵晗去世",
+        "onboard_time": 1758259163,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318027,
+        "num": 318027,
+        "word": "女主播赴约打榜大哥遭性侵",
+        "onboard_time": 1758255745,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290600,
+        "num": 290600,
+        "word": "迅猛龙被男网红孤立",
+        "onboard_time": 1758254363,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 248630,
+        "num": 248630,
+        "word": "白敬亭回应生理性演技",
+        "onboard_time": 1758259163,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420513,
+        "num": 248567,
+        "word": "买基金的人今年怎么不讲段子了",
+        "onboard_time": 1758268041,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279427,
+        "num": 246959,
+        "word": "韩国下令必要时强力应对反华集会",
+        "onboard_time": 1758266242,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241638,
+        "num": 241638,
+        "word": "这一秒过火",
+        "onboard_time": 1758268041,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240928,
+        "num": 240928,
+        "word": "向往的生活8官宣",
+        "onboard_time": 1758256944,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215394,
+        "num": 215394,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189452,
+        "num": 189452,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184012,
+        "num": 184012,
+        "word": "冷冻2年的西兰花山姆也在卖",
+        "onboard_time": 1758269903,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161928,
+        "num": 161928,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108277,
+        "num": 157878,
+        "word": "西藏最高水平的赛事",
+        "onboard_time": 1758271103,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83743,
+        "num": 157588,
+        "word": "聂远时隔四年再演古装",
+        "onboard_time": 1758269421,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157508,
+        "num": 157508,
+        "word": "台风",
+        "onboard_time": 1758264621,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151066,
+        "num": 151066,
+        "word": "内娱男频三巨头",
+        "onboard_time": 1758255503,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142702,
+        "num": 142702,
+        "word": "iPhone16为什么要换17",
+        "onboard_time": 1758270323,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139795,
+        "num": 139795,
+        "word": "22岁过上了上一休六的退休生活",
+        "onboard_time": 1758258923,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134362,
+        "num": 134362,
+        "word": "影视飓风员工怒怼代理公司",
+        "onboard_time": 1758270983,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129733,
+        "num": 129733,
+        "word": "梁婷发文力挺成毅",
+        "onboard_time": 1758268462,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125589,
+        "num": 125589,
+        "word": "翟欣欣曾2次闪婚闪离",
+        "onboard_time": 1758268703,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110458,
+        "num": 110458,
+        "word": "抢走8月大婴儿2万8卖了",
+        "onboard_time": 1758256224,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63081,
+        "num": 108231,
+        "word": "恋与深空中世纪穿搭",
+        "onboard_time": 1758270622,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48091,
+        "num": 107901,
+        "word": "林丹谈石宇奇世锦赛夺冠",
+        "onboard_time": 1758271284,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107729,
+        "num": 107729,
+        "word": "徐静雨追梦格林同框",
+        "onboard_time": 1758271401,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107565,
+        "num": 107565,
+        "word": "被强奸女高管说以前觉得老板老实",
+        "onboard_time": 1758268222,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106988,
+        "num": 106988,
+        "word": "张艺兴鸟巢演唱会售罄",
+        "onboard_time": 1758263304,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105917,
+        "num": 105917,
+        "word": "久哲为什么不选敖子逸",
+        "onboard_time": 1758270983,
+        "rank": 43,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 104202,
+        "num": 104202,
+        "word": "王楚钦一脚到拉萨",
+        "onboard_time": 1758268523,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103220,
+        "num": 103220,
+        "word": "镇政府回应男子崖下洞居5年",
+        "onboard_time": 1758269121,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102658,
+        "num": 102658,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57525,
+        "num": 101178,
+        "word": "阿姨们在牛在在一声声姐中迷失了",
+        "onboard_time": 1758270081,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100866,
+        "num": 100866,
+        "word": "大学生有自己的统一校服",
+        "onboard_time": 1758270141,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25313,
+        "num": 96349,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758270922,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国致公党成立100周年#"
+    }
+  }
+}
