@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758288843282,
+  "endTime": 1758289472497,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -195,8 +195,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 838762,
-      "num": 1117561,
+      "raw_hot": 840198,
+      "num": 1134431,
       "word": "小米17",
       "onboard_time": 1758282022,
       "rank": 1,
@@ -267,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 736146,
+      "num": 736146,
+      "word": "俄女子10万卢布出卖灵魂买拉布布",
+      "onboard_time": 1758285081,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 732292,
       "num": 732292,
       "word": "男子欠债35万崖下洞居5年",
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643857,
+      "num": 643857,
+      "word": "老太病逝出租房房东索赔3千被拒",
+      "onboard_time": 1758284903,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 629068,
       "num": 629068,
       "word": "入局 郭麒麟宋祖儿",
@@ -337,14 +353,6 @@
       "onboard_time": 1758238639,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 610997,
-      "num": 610997,
-      "word": "俄女子10万卢布出卖灵魂买拉布布",
-      "onboard_time": 1758285081,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 608440,
@@ -393,14 +401,6 @@
       "onboard_time": 1758208524,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 584355,
-      "num": 584355,
-      "word": "老太病逝出租房房东索赔3千被拒",
-      "onboard_time": 1758284903,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 583592,
@@ -499,6 +499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 446770,
+      "num": 391170,
+      "word": "宋轶素颜健身照",
+      "onboard_time": 1758284483,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446650,
       "num": 446650,
       "word": "iOS26同时解决了网瘾和猪瘾",
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431903,
+      "num": 431903,
+      "word": "香港黄金劫案37岁主谋落网",
+      "onboard_time": 1758276743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426717,
       "num": 240821,
       "word": "香港网民选出新四大天王",
@@ -536,14 +552,6 @@
       "word": "白化病姑娘被同学夸发色好看",
       "onboard_time": 1758240321,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424058,
-      "num": 424058,
-      "word": "香港黄金劫案37岁主谋落网",
-      "onboard_time": 1758276743,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -569,6 +577,14 @@
       "onboard_time": 1758253103,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 411161,
+      "num": 411161,
+      "word": "以为是私生子结果是非婚生子",
+      "onboard_time": 1758288682,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 395348,
@@ -641,14 +657,6 @@
       "onboard_time": 1758264142,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 356149,
-      "num": 325979,
-      "word": "宋轶素颜健身照",
-      "onboard_time": 1758284483,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 347259,
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241897,
+      "num": 241897,
+      "word": "特朗普",
+      "onboard_time": 1758287843,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 241638,
       "num": 241638,
       "word": "这一秒过火",
@@ -867,6 +883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232024,
+      "num": 209033,
+      "word": "只要你谈过几次恋爱就会发现",
+      "onboard_time": 1758283282,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225792,
       "num": 225792,
       "word": "泡泡玛特星星人",
@@ -905,14 +929,6 @@
       "onboard_time": 1758250882,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 218856,
-      "num": 209033,
-      "word": "只要你谈过几次恋爱就会发现",
-      "onboard_time": 1758283282,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 218109,
@@ -1059,6 +1075,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 198405,
+      "num": 209147,
+      "word": "贺峻霖打破偶像学业短板",
+      "onboard_time": 1758288263,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198030,
       "num": 198030,
       "word": "49元爆火窜稀酸奶成新型泻药",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1758252322,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194640,
-      "num": 209259,
-      "word": "以为是私生子结果是非婚生子",
-      "onboard_time": 1758288682,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 191758,
@@ -1259,12 +1275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167515,
-      "num": 208895,
-      "word": "特朗普",
-      "onboard_time": 1758287843,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 165785,
+      "num": 208592,
+      "word": "越南人靠去过上海炫富",
+      "onboard_time": 1758287603,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164818,
@@ -1361,14 +1377,6 @@
       "onboard_time": 1758253223,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157577,
-      "num": 209147,
-      "word": "贺峻霖打破偶像学业短板",
-      "onboard_time": 1758288263,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 157025,
@@ -1507,6 +1515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149578,
+      "num": 208733,
+      "word": "小狗被毒死后自学刑法复仇1000天",
+      "onboard_time": 1758286163,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149521,
       "num": 167381,
       "word": "美国代表否决加沙决议被人指着骂",
@@ -1537,14 +1553,6 @@
       "onboard_time": 1758264203,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147807,
-      "num": 208592,
-      "word": "越南人靠去过上海炫富",
-      "onboard_time": 1758287603,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147668,
@@ -1707,6 +1715,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 137905,
+      "num": 205237,
+      "word": "中美元首通电话",
+      "onboard_time": 1758289104,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137109,
       "num": 139654,
       "word": "2025F1阿塞拜疆大奖赛",
@@ -1747,12 +1763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133742,
+      "num": 208419,
+      "word": "医院就诊被拍视频发网上",
+      "onboard_time": 1758287483,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132438,
       "num": 147726,
       "word": "博士后携妻子比利时卖豌杂面",
       "onboard_time": 1758258024,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131180,
+      "num": 208639,
+      "word": "白敬亭别跳过片头半集没有了",
+      "onboard_time": 1758286704,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 130864,
@@ -1859,14 +1891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125111,
-      "num": 208733,
-      "word": "小狗被毒死后自学刑法复仇1000天",
-      "onboard_time": 1758286163,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124660,
       "num": 152945,
       "word": "王栎鑫也没能走出最好的我们",
@@ -1899,12 +1923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122437,
+      "num": 207955,
+      "word": "内蒙古一医院发布2男尸认领公告",
+      "onboard_time": 1758286523,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121743,
       "num": 121743,
       "word": "詹姆斯说退役就快要来临",
       "onboard_time": 1758249683,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121495,
+      "num": 208130,
+      "word": "于适高圆圆豪门姐弟",
+      "onboard_time": 1758286043,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 121445,
@@ -1921,14 +1961,6 @@
       "onboard_time": 1758210083,
       "rank": 24,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 120140,
-      "num": 208639,
-      "word": "白敬亭别跳过片头半集没有了",
-      "onboard_time": 1758286704,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 119795,
@@ -2059,14 +2091,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 113305,
-      "num": 208419,
-      "word": "医院就诊被拍视频发网上",
-      "onboard_time": 1758287483,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113220,
       "num": 113220,
       "word": "第一次见四花猫",
@@ -2171,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107988,
-      "num": 208130,
-      "word": "于适高圆圆豪门姐弟",
-      "onboard_time": 1758286043,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107729,
       "num": 107729,
       "word": "徐静雨追梦格林同框",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1758268523,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104048,
-      "num": 207955,
-      "word": "内蒙古一医院发布2男尸认领公告",
-      "onboard_time": 1758286523,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103404,
@@ -2409,6 +2417,14 @@
       "onboard_time": 1758285683,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91982,
+      "num": 205081,
+      "word": "瑞幸一门店天花板被猫踩塌",
+      "onboard_time": 1758287303,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91697,
@@ -2649,6 +2665,14 @@
       "onboard_time": 1758178402,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76909,
+      "num": 205058,
+      "word": "敖子逸蒲熠星川渝人不吃辣",
+      "onboard_time": 1758289404,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 76056,
@@ -2931,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48618,
+      "num": 208192,
+      "word": "方力申谈和叶萱结婚原因",
+      "onboard_time": 1758288744,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48376,
       "num": 59522,
       "word": "特研院回应博士月薪4000元起",
@@ -2993,6 +3025,14 @@
       "onboard_time": 1758262403,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 42767,
+      "num": 208283,
+      "word": "新能源领域的真四驱终于来了",
+      "onboard_time": 1758288803,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 41870,
@@ -3099,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31980,
+      "num": 208221,
+      "word": "檀健次现场通过网友微信",
+      "onboard_time": 1758288803,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31184,
       "num": 123879,
       "word": "释永信案又有多人协助调查",
@@ -3131,28 +3179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27391,
+      "num": 645092,
+      "word": "高质量完成十四五规划系列发布会",
+      "onboard_time": 1758288682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26482,
       "num": 110136,
       "word": "入室抢婴案主犯被判死缓大骂受害人",
       "onboard_time": 1758274522,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26355,
-      "num": 208221,
-      "word": "檀健次现场通过网友微信",
-      "onboard_time": 1758288803,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 25966,
-      "num": 208192,
-      "word": "方力申谈和叶萱结婚原因",
-      "onboard_time": 1758288744,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 25710,
@@ -3249,22 +3289,6 @@
       "onboard_time": 1758224655,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8929,
-      "num": 593888,
-      "word": "高质量完成十四五规划系列发布会",
-      "onboard_time": 1758288682,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 6607,
-      "num": 208283,
-      "word": "新能源领域的真四驱终于来了",
-      "onboard_time": 1758288803,
-      "rank": 37,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
