@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758280918492,
+  "endTime": 1758281826375,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1289341,
+      "num": 316741,
+      "word": "这居然是宋轶",
+      "onboard_time": 1758279202,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1111964,
       "num": 1177914,
       "word": "赵晗遗体告别仪式明天举行",
@@ -131,6 +139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 940333,
+      "num": 1150453,
+      "word": "鸡蛋羹 预制",
+      "onboard_time": 1758276022,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 911371,
       "num": 517259,
       "word": "女孩被同班男生杀害尸体距家仅100米",
@@ -161,14 +177,6 @@
       "onboard_time": 1758267922,
       "rank": 11,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 855294,
-      "num": 316741,
-      "word": "这居然是宋轶",
-      "onboard_time": 1758279202,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 844516,
@@ -227,12 +235,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 790918,
-      "num": 1126546,
-      "word": "鸡蛋羹 预制",
-      "onboard_time": 1758276022,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 806938,
+      "num": 806938,
+      "word": "电影731",
+      "onboard_time": 1758280282,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 775690,
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602653,
+      "num": 289967,
+      "word": "杨幂爸爸与小酒窝是邻居",
+      "onboard_time": 1758279263,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598828,
       "num": 598828,
       "word": "主播逃税超243万被追缴402万",
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 525623,
+      "num": 525623,
+      "word": "山姆门店回应卖冷冻2年的西兰花",
+      "onboard_time": 1758277884,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 516665,
       "num": 516665,
       "word": "刘芸竟然是陈紫函戴向宇的红娘",
@@ -403,28 +427,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 498619,
-      "num": 498619,
-      "word": "电影731",
-      "onboard_time": 1758280282,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 483754,
-      "num": 483754,
-      "word": "山姆门店回应卖冷冻2年的西兰花",
-      "onboard_time": 1758277884,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 471820,
       "num": 471820,
       "word": "中国代表三问以色列美国",
       "onboard_time": 1758244880,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 466459,
+      "num": 466459,
+      "word": "地方反映教师不愿当班主任",
+      "onboard_time": 1758277224,
+      "rank": 33,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 457026,
@@ -499,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420540,
+      "num": 286650,
+      "word": "第一批iPhone17贴膜受害者出现了",
+      "onboard_time": 1758279022,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 420513,
       "num": 248567,
       "word": "买基金的人今年怎么不讲段子了",
@@ -513,14 +537,6 @@
       "onboard_time": 1758253103,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 412700,
-      "num": 412700,
-      "word": "地方反映教师不愿当班主任",
-      "onboard_time": 1758277224,
-      "rank": 33,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 395348,
@@ -585,14 +601,6 @@
       "onboard_time": 1758274642,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368932,
-      "num": 289967,
-      "word": "杨幂爸爸与小酒窝是邻居",
-      "onboard_time": 1758279263,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 364499,
@@ -665,14 +673,6 @@
       "onboard_time": 1758210561,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 286650,
-      "num": 286650,
-      "word": "第一批iPhone17贴膜受害者出现了",
-      "onboard_time": 1758279022,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 282966,
@@ -803,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231905,
+      "num": 231905,
+      "word": "花少7请客龚俊白衣公卿剧组",
+      "onboard_time": 1758280821,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223333,
       "num": 223333,
       "word": "光遇",
@@ -905,6 +913,14 @@
       "onboard_time": 1758259762,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206756,
+      "num": 189396,
+      "word": "张靓颖薛之谦 霸王别姬",
+      "onboard_time": 1758278782,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 204935,
@@ -1019,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191464,
+      "num": 138409,
+      "word": "月经前容易馋是身体在自救",
+      "onboard_time": 1758281062,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190537,
       "num": 190537,
       "word": "詹姆斯首冠加冕时刻看哭了",
@@ -1075,6 +1099,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179313,
+      "num": 179313,
+      "word": "农妇辱骂法官被罚10万依据何在",
+      "onboard_time": 1758280762,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178139,
+      "num": 178139,
+      "word": "泡泡玛特星星人",
+      "onboard_time": 1758279924,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 178029,
       "num": 178029,
       "word": "台风",
@@ -1088,6 +1128,14 @@
       "word": "易烊千玺垒石头效应",
       "onboard_time": 1758202824,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175040,
+      "num": 178761,
+      "word": "檀健次直播",
+      "onboard_time": 1758281243,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1145,6 +1193,14 @@
       "onboard_time": 1758271942,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171469,
+      "num": 187062,
+      "word": "黄磊说还会给何炅做饭",
+      "onboard_time": 1758280042,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 169939,
@@ -1371,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149521,
+      "num": 167381,
+      "word": "美国代表否决加沙决议被人指着骂",
+      "onboard_time": 1758279504,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149230,
       "num": 149230,
       "word": "李荣浩回应iOS26受益",
@@ -1409,14 +1473,6 @@
       "onboard_time": 1758254963,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147522,
-      "num": 189396,
-      "word": "张靓颖薛之谦 霸王别姬",
-      "onboard_time": 1758278782,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 146904,
@@ -1539,12 +1595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138123,
-      "num": 167381,
-      "word": "美国代表否决加沙决议被人指着骂",
+      "raw_hot": 138160,
+      "num": 138160,
+      "word": "老乡鸡菜单 开源",
       "onboard_time": 1758279504,
-      "rank": 24,
-      "category": "国际时政"
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138051,
@@ -1675,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125517,
-      "num": 125517,
-      "word": "老乡鸡菜单 开源",
-      "onboard_time": 1758279504,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125473,
       "num": 125473,
       "word": "贺峻霖让徐志胜帮抢时团演唱会票",
@@ -1715,14 +1763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123306,
-      "num": 187062,
-      "word": "黄磊说还会给何炅做饭",
-      "onboard_time": 1758280042,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121743,
       "num": 121743,
       "word": "詹姆斯说退役就快要来临",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1758240622,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119053,
+      "num": 128649,
+      "word": "长城汽车要把千年之美都装在车里",
+      "onboard_time": 1758281722,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 117620,
@@ -1907,14 +1955,6 @@
       "category": "动漫,休闲"
     },
     {
-      "raw_hot": 109862,
-      "num": 109862,
-      "word": "泡泡玛特星星人",
-      "onboard_time": 1758279924,
-      "rank": 41,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 109409,
       "num": 109409,
       "word": "云海肴创始人心梗去世知情者发声",
@@ -2019,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104747,
+      "num": 104747,
+      "word": "铝合金vs钛金属",
+      "onboard_time": 1758281663,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104202,
       "num": 104202,
       "word": "王楚钦一脚到拉萨",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1758280762,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 102765,
-      "num": 111268,
-      "word": "花少7请客龚俊白衣公卿剧组",
-      "onboard_time": 1758280821,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 102260,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1758245840,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 98420,
+      "num": 98420,
+      "word": "第一次见四花猫",
+      "onboard_time": 1758281722,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 92934,
@@ -2363,14 +2411,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 69298,
-      "num": 112943,
-      "word": "农妇辱骂法官被罚10万依据何在",
-      "onboard_time": 1758280762,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68374,
       "num": 91155,
       "word": "莫雷加德晒与孙颖莎合影",
@@ -2523,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52770,
+      "num": 184113,
+      "word": "全新深蓝S07这配置其他车怎么玩",
+      "onboard_time": 1758280042,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52111,
       "num": 59522,
       "word": "何赛飞喊话追星者结婚生娃",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1758248301,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 49532,
+      "num": 138431,
+      "word": "慰安妇受害者疑日政府在等她们死光",
+      "onboard_time": 1758281543,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49460,
@@ -2619,14 +2675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44358,
-      "num": 184113,
-      "word": "全新深蓝S07这配置其他车怎么玩",
-      "onboard_time": 1758280042,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 43291,
       "num": 1106192,
       "word": "近距离看航空展名场面",
@@ -2667,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38786,
+      "num": 104941,
+      "word": "日媒918忙着给731开脱",
+      "onboard_time": 1758281602,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38028,
       "num": 227383,
       "word": "解限机新赛季开启",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1758272842,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36210,
+      "num": 104424,
+      "word": "六爷是遮阳伞更是保护伞",
+      "onboard_time": 1758280703,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35920,
@@ -2788,7 +2852,7 @@
     },
     {
       "raw_hot": 25313,
-      "num": 521086,
+      "num": 530226,
       "word": "石榴红了满天山",
       "onboard_time": 1758270922,
       "rank": 49,
@@ -2819,20 +2883,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20177,
-      "num": 104424,
-      "word": "六爷是遮阳伞更是保护伞",
-      "onboard_time": 1758280703,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18739,
       "num": 130206,
       "word": "上海绿捷业务覆盖600多所学校",
       "onboard_time": 1758266363,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18718,
+      "num": 105511,
+      "word": "时装周女明星第一张神图诞生了",
+      "onboard_time": 1758281122,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 15863,

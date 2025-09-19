@@ -1,0 +1,410 @@
+{
+  "runTime": 1758281826375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 940333,
+        "num": 1150453,
+        "word": "鸡蛋羹 预制",
+        "onboard_time": 1758276022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806938,
+        "num": 806938,
+        "word": "电影731",
+        "onboard_time": 1758280282,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7434,
+        "num": 530226,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758270922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525623,
+        "num": 525623,
+        "word": "山姆门店回应卖冷冻2年的西兰花",
+        "onboard_time": 1758277884,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466459,
+        "num": 466459,
+        "word": "地方反映教师不愿当班主任",
+        "onboard_time": 1758277224,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 336436,
+        "num": 336436,
+        "word": "香港黄金劫案37岁主谋落网",
+        "onboard_time": 1758276743,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271331,
+        "num": 271331,
+        "word": "山东高院回应农妇辱骂法官被罚10万",
+        "onboard_time": 1758272902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259020,
+        "num": 259020,
+        "word": "最适合穷游的三个城市",
+        "onboard_time": 1758267922,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 231905,
+        "num": 231905,
+        "word": "花少7请客龚俊白衣公卿剧组",
+        "onboard_time": 1758280821,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179313,
+        "num": 179313,
+        "word": "农妇辱骂法官被罚10万依据何在",
+        "onboard_time": 1758280762,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1289341,
+        "num": 179247,
+        "word": "这居然是宋轶",
+        "onboard_time": 1758279202,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419313,
+        "num": 179153,
+        "word": "特朗普拒绝批准4亿美元对台军售",
+        "onboard_time": 1758274402,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 642773,
+        "num": 179125,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602653,
+        "num": 179027,
+        "word": "杨幂爸爸与小酒窝是邻居",
+        "onboard_time": 1758279263,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420540,
+        "num": 178933,
+        "word": "第一批iPhone17贴膜受害者出现了",
+        "onboard_time": 1758279022,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206756,
+        "num": 178775,
+        "word": "张靓颖薛之谦 霸王别姬",
+        "onboard_time": 1758278782,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175040,
+        "num": 178761,
+        "word": "檀健次直播",
+        "onboard_time": 1758281243,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171469,
+        "num": 178640,
+        "word": "黄磊说还会给何炅做饭",
+        "onboard_time": 1758280042,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52770,
+        "num": 178511,
+        "word": "全新深蓝S07这配置其他车怎么玩",
+        "onboard_time": 1758280042,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45722,
+        "num": 178439,
+        "word": "厨房里的中国骄傲",
+        "onboard_time": 1758279924,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353874,
+        "num": 178326,
+        "word": "张智霖儿子在歌手做暑假工",
+        "onboard_time": 1758276683,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494976,
+        "num": 178304,
+        "word": "陈数的专业含金量到了埃及噌噌暴涨",
+        "onboard_time": 1758275003,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209215,
+        "num": 178206,
+        "word": "以为马思纯张晚意抱一起了",
+        "onboard_time": 1758274642,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178139,
+        "num": 178139,
+        "word": "泡泡玛特星星人",
+        "onboard_time": 1758279924,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 166034,
+        "num": 166034,
+        "word": "关晓彤接住了刘涛的戏",
+        "onboard_time": 1758265402,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151852,
+        "num": 151852,
+        "word": "埃及3000年前金镯被熔卖了不到3万元",
+        "onboard_time": 1758272360,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149521,
+        "num": 149521,
+        "word": "美国代表否决加沙决议被人指着骂",
+        "onboard_time": 1758279504,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142201,
+        "num": 142201,
+        "word": "董璇选择张维伊的原因找到了",
+        "onboard_time": 1758260303,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105925,
+        "num": 138794,
+        "word": "内娱缝纫机TOP出现了",
+        "onboard_time": 1758276922,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49532,
+        "num": 138431,
+        "word": "慰安妇受害者疑日政府在等她们死光",
+        "onboard_time": 1758281543,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191464,
+        "num": 138409,
+        "word": "月经前容易馋是身体在自救",
+        "onboard_time": 1758281062,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138160,
+        "num": 138160,
+        "word": "老乡鸡菜单 开源",
+        "onboard_time": 1758279504,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129151,
+        "num": 129151,
+        "word": "iPhone17Pro线下展出真机已满身划痕",
+        "onboard_time": 1758258083,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119053,
+        "num": 128649,
+        "word": "长城汽车要把千年之美都装在车里",
+        "onboard_time": 1758281722,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128613,
+        "num": 128613,
+        "word": "冷冻2年的西兰花山姆也在卖",
+        "onboard_time": 1758269903,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121966,
+        "num": 121966,
+        "word": "韩国下令必要时强力应对反华集会",
+        "onboard_time": 1758266242,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116063,
+        "num": 116063,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106745,
+        "num": 106745,
+        "word": "王者新英雄名字怎么念",
+        "onboard_time": 1758278542,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18718,
+        "num": 105511,
+        "word": "时装周女明星第一张神图诞生了",
+        "onboard_time": 1758281122,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38786,
+        "num": 104941,
+        "word": "日媒918忙着给731开脱",
+        "onboard_time": 1758281602,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104747,
+        "num": 104747,
+        "word": "铝合金vs钛金属",
+        "onboard_time": 1758281663,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102765,
+        "num": 102765,
+        "word": "怼脸拍中国战机大片",
+        "onboard_time": 1758280762,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101240,
+        "num": 101240,
+        "word": "赵晗遗体告别仪式明天举行",
+        "onboard_time": 1758263422,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98420,
+        "num": 98420,
+        "word": "第一次见四花猫",
+        "onboard_time": 1758281722,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95344,
+        "num": 95344,
+        "word": "向往的生活8官宣",
+        "onboard_time": 1758256944,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94961,
+        "num": 94961,
+        "word": "男子花16年用打字机从一打到一百万",
+        "onboard_time": 1758271942,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91906,
+        "num": 91906,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91012,
+        "num": 91012,
+        "word": "春秋航空又省又赚半年挣了11亿",
+        "onboard_time": 1758273622,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 52087,
+        "num": 87407,
+        "word": "爷叔刚解套上海建工就被砸盘",
+        "onboard_time": 1758280282,
+        "rank": 48,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 36210,
+        "num": 87220,
+        "word": "六爷是遮阳伞更是保护伞",
+        "onboard_time": 1758280703,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国致公党成立100周年#"
+    }
+  }
+}
