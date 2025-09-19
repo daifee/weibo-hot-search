@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 17:40:07
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 18:27:44
 </p>
 </blockquote>
 <p>
@@ -4071,6 +4071,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E6%89%B9%E5%87%864%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%23" target="weibo">
+特朗普拒绝批准4亿美元对台军售（热度：732629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA35%E4%B8%87%E5%B4%96%E4%B8%8B%E6%B4%9E%E5%B1%855%E5%B9%B4%23" target="weibo">
 男子欠债35万崖下洞居5年（热度：732292）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%93%BD%E5%92%BD%E9%9E%A0%E8%BA%AC30%E7%A7%92%23" target="weibo">
 张韶涵哽咽鞠躬30秒（热度：533811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%239%E7%82%B918%E5%88%86%E8%BE%BD%E5%AE%81%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23" target="weibo">
-9点18分辽宁防空警报（热度：533594）
 </a>
 </li>
 
