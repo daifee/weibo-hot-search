@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/20 02:46:44
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/20 03:20:05
 </p>
 </blockquote>
 <p>
@@ -15143,6 +15143,12 @@ XG对战Falcons（热度：17993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E9%82%80%E8%AF%B7%E5%87%BD%E8%8E%B7%E5%8F%96%E6%94%BB%E7%95%A5%23" target="weibo">
 微博音乐盛典邀请函获取攻略（热度：13773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B8%B2%E6%9F%93%E7%B4%A7%E5%BC%A0%E5%88%B6%E9%80%A0%E5%AF%B9%E6%8A%97%E4%B8%8D%E5%BE%97%E4%BA%BA%E5%BF%83%23" target="weibo">
+在阿富汗渲染紧张制造对抗不得人心（热度：13248）
 </a>
 </li>
 

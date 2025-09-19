@@ -1,0 +1,410 @@
+{
+  "runTime": 1758309605869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 94780,
+        "num": 94780,
+        "word": "EDG告别巴黎全球冠军赛",
+        "onboard_time": 1758304097,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93196,
+        "num": 93196,
+        "word": "白敬亭你睡着了吗我睡不着",
+        "onboard_time": 1758297622,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9625,
+        "num": 72386,
+        "word": "高质量完成十四五规划系列发布会",
+        "onboard_time": 1758288682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69487,
+        "num": 69487,
+        "word": "中方在TikTok问题上的立场是清楚的",
+        "onboard_time": 1758296122,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66560,
+        "num": 66560,
+        "word": "男子毒死9条宠物狗一审2年未判",
+        "onboard_time": 1758296904,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63159,
+        "num": 63159,
+        "word": "muggle",
+        "onboard_time": 1758304517,
+        "rank": 5,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 59777,
+        "num": 59777,
+        "word": "樊振东德国杯首秀",
+        "onboard_time": 1758306616,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48748,
+        "num": 48748,
+        "word": "俄女子10万卢布出卖灵魂买拉布布",
+        "onboard_time": 1758285081,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45359,
+        "num": 48715,
+        "word": "电影731",
+        "onboard_time": 1758280282,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13248,
+        "num": 47758,
+        "word": "在阿富汗渲染紧张制造对抗不得人心",
+        "onboard_time": 1758308476,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203810,
+        "num": 47166,
+        "word": "关晓彤分没分杨迪你倒是问啊",
+        "onboard_time": 1758292163,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67102,
+        "num": 46207,
+        "word": "刘涛说下海原来是真的",
+        "onboard_time": 1758294323,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46105,
+        "num": 46105,
+        "word": "第一批iPhone17贴膜受害者出现了",
+        "onboard_time": 1758279022,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41017,
+        "num": 41017,
+        "word": "卢昱晓跳angel了",
+        "onboard_time": 1758297741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35589,
+        "num": 35589,
+        "word": "小米17",
+        "onboard_time": 1758282022,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35075,
+        "num": 35075,
+        "word": "琅琊榜",
+        "onboard_time": 1758283402,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34030,
+        "num": 34030,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30158,
+        "num": 30158,
+        "word": "你好星期六",
+        "onboard_time": 1758300679,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29392,
+        "num": 29392,
+        "word": "赴山海口碑回升",
+        "onboard_time": 1758293664,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25433,
+        "num": 29387,
+        "word": "一张绝美的脸背后是一张更美的脸",
+        "onboard_time": 1758300319,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138583,
+        "num": 28777,
+        "word": "黄子诚因模仿黄子韬导致破产",
+        "onboard_time": 1758291563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32773,
+        "num": 28552,
+        "word": "特朗普",
+        "onboard_time": 1758287843,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31617,
+        "num": 28093,
+        "word": "这居然是宋轶",
+        "onboard_time": 1758279202,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27955,
+        "num": 27955,
+        "word": "28年前录像厅杀人案告破",
+        "onboard_time": 1758276084,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26876,
+        "num": 26876,
+        "word": "宾馆保洁员佩戴金饰遭住客劫杀",
+        "onboard_time": 1758294443,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24414,
+        "num": 26875,
+        "word": "香港黄金劫案37岁主谋落网",
+        "onboard_time": 1758276743,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23908,
+        "num": 26866,
+        "word": "只要你谈过几次恋爱就会发现",
+        "onboard_time": 1758283282,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23338,
+        "num": 26857,
+        "word": "小区多条宠物狗被毒死主人发声",
+        "onboard_time": 1758296482,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22855,
+        "num": 26854,
+        "word": "印度人插队抢iPhone17斗殴互扇耳光",
+        "onboard_time": 1758291505,
+        "rank": 28,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 19998,
+        "num": 26840,
+        "word": "曾志伟坚定TVB内容为王永不没落",
+        "onboard_time": 1758305236,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22090,
+        "num": 26833,
+        "word": "特朗普拒绝批准4亿美元对台军售",
+        "onboard_time": 1758274402,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21296,
+        "num": 26831,
+        "word": "官鸿直播",
+        "onboard_time": 1758302897,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20967,
+        "num": 26824,
+        "word": "月经前容易馋是身体在自救",
+        "onboard_time": 1758281062,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20322,
+        "num": 26817,
+        "word": "山姆门店回应卖冷冻2年的西兰花",
+        "onboard_time": 1758277884,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20158,
+        "num": 26807,
+        "word": "时装周女明星第一张神图诞生了",
+        "onboard_time": 1758281122,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19963,
+        "num": 26794,
+        "word": "医院就诊被拍视频发网上",
+        "onboard_time": 1758287483,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19255,
+        "num": 26794,
+        "word": "戚薇比海鸥还白",
+        "onboard_time": 1758293844,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18657,
+        "num": 26786,
+        "word": "小米17Pro和iPhone17Pro真机对比",
+        "onboard_time": 1758293005,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17962,
+        "num": 26775,
+        "word": "成毅打戏",
+        "onboard_time": 1758307275,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17792,
+        "num": 26766,
+        "word": "老太病逝出租房房东索赔3千被拒",
+        "onboard_time": 1758284903,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17117,
+        "num": 26765,
+        "word": "宋轶素颜健身照",
+        "onboard_time": 1758284483,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17028,
+        "num": 26754,
+        "word": "越南人靠去过上海炫富",
+        "onboard_time": 1758287603,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16974,
+        "num": 26744,
+        "word": "要把女性科学教育摆在更加重要位置",
+        "onboard_time": 1758294682,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16950,
+        "num": 26741,
+        "word": "地方反映教师不愿当班主任",
+        "onboard_time": 1758277224,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 16900,
+        "num": 26735,
+        "word": "中美元首通电话",
+        "onboard_time": 1758289104,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16587,
+        "num": 26728,
+        "word": "何运晨律师的职业模特的身材",
+        "onboard_time": 1758294743,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16353,
+        "num": 26717,
+        "word": "中美关系十分重要",
+        "onboard_time": 1758294804,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16261,
+        "num": 26711,
+        "word": "金靖模仿迪丽热巴",
+        "onboard_time": 1758293604,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15656,
+        "num": 26704,
+        "word": "泡泡玛特星星人",
+        "onboard_time": 1758279924,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 15577,
+        "num": 26696,
+        "word": "小米17Pro背屏投入超10亿",
+        "onboard_time": 1758283703,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}

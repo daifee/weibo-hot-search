@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758307604725,
+  "endTime": 1758309605869,
   "band_list": [
     {
       "raw_hot": 1487626,
@@ -537,6 +537,14 @@
       "onboard_time": 1758284903,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13248,
+      "num": 47758,
+      "word": "在阿富汗渲染紧张制造对抗不得人心",
+      "onboard_time": 1758308476,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
