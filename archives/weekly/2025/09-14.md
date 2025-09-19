@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/20 03:36:50
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/20 04:26:41
 </p>
 </blockquote>
 <p>
@@ -15063,6 +15063,12 @@ XG对战Falcons（热度：17993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B1%E8%AF%8A%E8%A2%AB%E6%8B%8D%E8%A7%86%E9%A2%91%E5%8F%91%E7%BD%91%E4%B8%8A%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
+就诊被拍视频发网上女子发声（热度：17113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E7%94%B5%E5%A4%A9%E8%B7%AF%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
 绿电天路超级工程来了（热度：16944）
 </a>
@@ -15077,12 +15083,6 @@ XG对战Falcons（热度：17993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%88%91%E8%A2%AB%E5%8E%8B%E5%9C%A8%E9%9B%B7%E5%B3%B0%E5%A1%94%E4%B8%8B%E5%87%BA%E4%B8%8D%E6%9D%A5%E4%BA%86%23" target="weibo">
 周深我被压在雷峰塔下出不来了（热度：16517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B1%E8%AF%8A%E8%A2%AB%E6%8B%8D%E8%A7%86%E9%A2%91%E5%8F%91%E7%BD%91%E4%B8%8A%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
-就诊被拍视频发网上女子发声（热度：16290）
 </a>
 </li>
 
