@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758289472497,
+  "endTime": 1758291858079,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -97,6 +97,14 @@
       "onboard_time": 1758263422,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1095633,
+      "num": 1175301,
+      "word": "琅琊榜",
+      "onboard_time": 1758258744,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 1094283,
@@ -251,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 798930,
+      "num": 496657,
+      "word": "以为是私生子结果是非婚生子",
+      "onboard_time": 1758288682,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 775690,
       "num": 775690,
       "word": "向往的生活8官宣",
@@ -273,6 +289,14 @@
       "onboard_time": 1758285081,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 732437,
+      "num": 262198,
+      "word": "特朗普",
+      "onboard_time": 1758287843,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 732292,
@@ -361,14 +385,6 @@
       "onboard_time": 1758252322,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 606228,
-      "num": 606228,
-      "word": "琅琊榜",
-      "onboard_time": 1758258744,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 602653,
@@ -579,14 +595,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 411161,
-      "num": 411161,
-      "word": "以为是私生子结果是非婚生子",
-      "onboard_time": 1758288682,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 395348,
       "num": 395348,
       "word": "携程被约谈",
@@ -795,12 +803,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 263981,
+      "num": 263981,
+      "word": "中美元首通电话",
+      "onboard_time": 1758289104,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261850,
       "num": 216491,
       "word": "月经前容易馋是身体在自救",
       "onboard_time": 1758281062,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 254786,
+      "num": 254786,
+      "word": "小狗被毒死后自学刑法复仇1000天",
+      "onboard_time": 1758286163,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253175,
@@ -819,20 +843,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244170,
+      "num": 244170,
+      "word": "越南人靠去过上海炫富",
+      "onboard_time": 1758287603,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242112,
       "num": 242112,
       "word": "赴山海情节被吐槽跟于北辰有一拼",
       "onboard_time": 1758251420,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241897,
-      "num": 241897,
-      "word": "特朗普",
-      "onboard_time": 1758287843,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 241638,
@@ -1275,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165785,
-      "num": 208592,
-      "word": "越南人靠去过上海炫富",
-      "onboard_time": 1758287603,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "当代沙发让我眼前一亮又一亮",
@@ -1515,14 +1531,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 149578,
-      "num": 208733,
-      "word": "小狗被毒死后自学刑法复仇1000天",
-      "onboard_time": 1758286163,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149521,
       "num": 167381,
       "word": "美国代表否决加沙决议被人指着骂",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1758264203,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147904,
+      "num": 195001,
+      "word": "英雄联盟赛事15周年",
+      "onboard_time": 1758291685,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 147668,
@@ -1635,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143457,
+      "num": 208419,
+      "word": "医院就诊被拍视频发网上",
+      "onboard_time": 1758287483,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143374,
       "num": 215209,
       "word": "王牌对王牌",
@@ -1715,14 +1739,6 @@
       "category": "数码,民生新闻"
     },
     {
-      "raw_hot": 137905,
-      "num": 205237,
-      "word": "中美元首通电话",
-      "onboard_time": 1758289104,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 137109,
       "num": 139654,
       "word": "2025F1阿塞拜疆大奖赛",
@@ -1760,14 +1776,6 @@
       "word": "孩子眼睛红家长查监控发现老师扇脸",
       "onboard_time": 1758284423,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133742,
-      "num": 208419,
-      "word": "医院就诊被拍视频发网上",
-      "onboard_time": 1758287483,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1811,12 +1819,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128944,
+      "num": 195033,
+      "word": "张杰原来你什么都不要",
+      "onboard_time": 1758291444,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128413,
       "num": 269393,
       "word": "早餐还没送到iPhone17到了",
       "onboard_time": 1758247401,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128203,
+      "num": 194993,
+      "word": "黄子诚因模仿黄子韬导致破产",
+      "onboard_time": 1758291563,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 127453,
@@ -1859,6 +1883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125923,
+      "num": 194978,
+      "word": "追觅手机未发布已获上亿元订单",
+      "onboard_time": 1758289763,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125895,
       "num": 209192,
       "word": "长城汽车要把千年之美都装在车里",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1758263422,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125231,
+      "num": 194983,
+      "word": "S15召唤师奖杯回归",
+      "onboard_time": 1758289704,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 124660,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1758283162,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120879,
+      "num": 208192,
+      "word": "方力申谈和叶萱结婚原因",
+      "onboard_time": 1758288744,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 120484,
@@ -2035,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116248,
+      "num": 194949,
+      "word": "6个原因可能诱发带状疱疹",
+      "onboard_time": 1758291505,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115917,
       "num": 115917,
       "word": "奇瑞因制裁决定离开俄罗斯",
@@ -2049,6 +2105,14 @@
       "onboard_time": 1758213200,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115100,
+      "num": 244996,
+      "word": "袁隆平生前笔迹直戳泪点",
+      "onboard_time": 1758290603,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114814,
@@ -2123,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111878,
+      "num": 194938,
+      "word": "iPhoneAir首发上手",
+      "onboard_time": 1758290663,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111645,
       "num": 111645,
       "word": "王楚钦孙颖莎领衔出战蒙彼利埃冠军赛",
@@ -2161,6 +2233,14 @@
       "onboard_time": 1758274402,
       "rank": 40,
       "category": "动漫,休闲"
+    },
+    {
+      "raw_hot": 109706,
+      "num": 194922,
+      "word": "文俊辉现身釜山电影节",
+      "onboard_time": 1758291023,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 109409,
@@ -2299,6 +2379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104178,
+      "num": 194908,
+      "word": "印度人插队抢iPhone17斗殴互扇耳光",
+      "onboard_time": 1758291505,
+      "rank": 42,
+      "category": "海外新闻,数码"
+    },
+    {
+      "raw_hot": 103478,
+      "num": 194895,
+      "word": "张真源你抬起武艺哥真的很好笑",
+      "onboard_time": 1758291204,
+      "rank": 43,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 103404,
       "num": 103404,
       "word": "怼脸拍中国战机大片",
@@ -2355,6 +2451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99640,
+      "num": 194893,
+      "word": "白露都帅成啥样了",
+      "onboard_time": 1758291744,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99527,
       "num": 203291,
       "word": "被害少女父母为了安全特意装监控",
@@ -2377,6 +2481,22 @@
       "onboard_time": 1758288443,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94738,
+      "num": 205081,
+      "word": "瑞幸一门店天花板被猫踩塌",
+      "onboard_time": 1758287303,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93480,
+      "num": 194851,
+      "word": "33住山里悄悄幸福",
+      "onboard_time": 1758291563,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 92934,
@@ -2417,14 +2537,6 @@
       "onboard_time": 1758285683,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91982,
-      "num": 205081,
-      "word": "瑞幸一门店天花板被猫踩塌",
-      "onboard_time": 1758287303,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91697,
@@ -2907,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51150,
+      "num": 195016,
+      "word": "沙溢说下辈子还会跟胡可结婚",
+      "onboard_time": 1758287483,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49908,
       "num": 262642,
       "word": "华为天生会画大赛正式开启",
@@ -2953,14 +3073,6 @@
       "onboard_time": 1758262284,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48618,
-      "num": 208192,
-      "word": "方力申谈和叶萱结婚原因",
-      "onboard_time": 1758288744,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 48376,
@@ -3025,6 +3137,14 @@
       "onboard_time": 1758262403,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 42865,
+      "num": 645092,
+      "word": "高质量完成十四五规划系列发布会",
+      "onboard_time": 1758288682,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42767,
@@ -3179,14 +3299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27391,
-      "num": 645092,
-      "word": "高质量完成十四五规划系列发布会",
-      "onboard_time": 1758288682,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26482,
       "num": 110136,
       "word": "入室抢婴案主犯被判死缓大骂受害人",
@@ -3228,7 +3340,7 @@
     },
     {
       "raw_hot": 24504,
-      "num": 95524,
+      "num": 195092,
       "word": "打卡我担同款Ami限时店",
       "onboard_time": 1758274402,
       "rank": 48,
