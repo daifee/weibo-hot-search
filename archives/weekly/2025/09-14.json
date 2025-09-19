@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758264524434,
+  "endTime": 1758266673721,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -939,6 +939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1019400,
+      "num": 1019400,
+      "word": "赵晗遗体告别仪式明天举行",
+      "onboard_time": 1758263422,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1001976,
       "num": 1160316,
       "word": "女子7天瘦十斤后感染败血症",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1758189923,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 869867,
+      "num": 869867,
+      "word": "白敬亭回应生理性演技",
+      "onboard_time": 1758259163,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 863405,
@@ -1595,14 +1611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 765446,
-      "num": 490146,
-      "word": "白敬亭回应生理性演技",
-      "onboard_time": 1758259163,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 764624,
       "num": 459601,
       "word": "官方回应涉毒艺人办演唱会遭投诉",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1757945064,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 732292,
+      "num": 732292,
+      "word": "男子欠债35万崖下洞居5年",
+      "onboard_time": 1758263064,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 731502,
@@ -3755,6 +3771,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 364499,
+      "num": 364499,
+      "word": "崔丽丽老公说没有胜利可言",
+      "onboard_time": 1758264142,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363637,
       "num": 363637,
       "word": "孙颖莎学陈幸同请客",
@@ -4563,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279836,
+      "num": 279836,
+      "word": "王家卫繁花被曝疑似压榨员工",
+      "onboard_time": 1758264981,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279736,
       "num": 220996,
       "word": "何秋亊 人民非遗推荐人",
@@ -4705,6 +4737,14 @@
       "onboard_time": 1758245480,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 269357,
+      "num": 269357,
+      "word": "关晓彤接住了刘涛的戏",
+      "onboard_time": 1758265402,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 269038,
@@ -4992,14 +5032,6 @@
       "word": "17号台风后18号19号也快了",
       "onboard_time": 1758210083,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252657,
-      "num": 261720,
-      "word": "赵晗遗体告别仪式明天举行",
-      "onboard_time": 1758263422,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -5728,14 +5760,6 @@
       "word": "外国醉汉殴打中国留学生",
       "onboard_time": 1757899460,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218281,
-      "num": 218281,
-      "word": "男子欠债35万崖下洞居5年",
-      "onboard_time": 1758263064,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -6699,6 +6723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194219,
+      "num": 194219,
+      "word": "主播逃税超243万被追缴402万",
+      "onboard_time": 1758264922,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194088,
       "num": 233765,
       "word": "731电影",
@@ -7115,14 +7147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188060,
-      "num": 282148,
-      "word": "崔丽丽老公说没有胜利可言",
-      "onboard_time": 1758264142,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187881,
       "num": 187881,
       "word": "吉克隽逸怎么比月饼还黑两度",
@@ -7339,6 +7363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182620,
+      "num": 182620,
+      "word": "马嘉祺是胡图图的证据找到了",
+      "onboard_time": 1758265882,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182493,
       "num": 182493,
       "word": "宋亚轩二连MVP",
@@ -7433,6 +7465,14 @@
       "onboard_time": 1758021683,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 180292,
+      "num": 270664,
+      "word": "上海优化调整个人住房房产税试点政策",
+      "onboard_time": 1758265463,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180034,
@@ -7561,6 +7601,14 @@
       "onboard_time": 1757827042,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178029,
+      "num": 178029,
+      "word": "台风",
+      "onboard_time": 1758083005,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177800,
@@ -8532,7 +8580,7 @@
     },
     {
       "raw_hot": 161485,
-      "num": 161485,
+      "num": 168190,
       "word": "抢走8月大婴儿2万8卖了",
       "onboard_time": 1758256224,
       "rank": 36,
@@ -8609,6 +8657,14 @@
       "onboard_time": 1757835022,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160672,
+      "num": 160672,
+      "word": "尽早做让你生理性喜欢的事",
+      "onboard_time": 1758263662,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 160657,
@@ -9171,14 +9227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153922,
-      "num": 153922,
-      "word": "台风",
-      "onboard_time": 1758083005,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153910,
       "num": 170311,
       "word": "黄奕一件事已经坚持17年了",
@@ -9281,14 +9329,6 @@
       "onboard_time": 1758256405,
       "rank": 49,
       "category": "电竞,剧集"
-    },
-    {
-      "raw_hot": 152415,
-      "num": 152415,
-      "word": "尽早做让你生理性喜欢的事",
-      "onboard_time": 1758263662,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 152147,
@@ -9561,6 +9601,14 @@
       "onboard_time": 1758253584,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148393,
+      "num": 148393,
+      "word": "以后旅游要发有趣的朋友圈",
+      "onboard_time": 1758264203,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 148246,
@@ -10681,6 +10729,14 @@
       "onboard_time": 1757851703,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135635,
+      "num": 135635,
+      "word": "韩国下令必要时强力应对反华集会",
+      "onboard_time": 1758266242,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135605,
@@ -13011,6 +13067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111069,
+      "num": 161766,
+      "word": "紫色被问界M9玩出高奢感",
+      "onboard_time": 1758265402,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 111056,
       "num": 111056,
       "word": "无意识的控糖行为",
@@ -13113,6 +13177,14 @@
       "onboard_time": 1757838921,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110057,
+      "num": 234461,
+      "word": "时代少年团飞行向往的生活",
+      "onboard_time": 1758263662,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 110003,
@@ -13433,6 +13505,14 @@
       "onboard_time": 1757775086,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106598,
+      "num": 106598,
+      "word": "星穹铁道长夜月",
+      "onboard_time": 1758266422,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 106556,
@@ -14993,14 +15073,6 @@
       "onboard_time": 1757839583,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88475,
-      "num": 234461,
-      "word": "时代少年团飞行向往的生活",
-      "onboard_time": 1758263662,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 88400,
@@ -17027,6 +17099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46341,
+      "num": 130073,
+      "word": "微软区别对待中国用户",
+      "onboard_time": 1758266182,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46303,
       "num": 75852,
       "word": "短剧版仙剑三",
@@ -17049,6 +17129,14 @@
       "onboard_time": 1758078207,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44870,
+      "num": 160888,
+      "word": "云海肴今年新开23家门店",
+      "onboard_time": 1758265522,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44828,
@@ -17201,6 +17289,14 @@
       "onboard_time": 1758093862,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41881,
+      "num": 155984,
+      "word": "日照金山日月同辉帽子云同框有多美",
+      "onboard_time": 1758262403,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 41870,
@@ -17435,6 +17531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35796,
+      "num": 272017,
+      "word": "四环亮相设计深圳",
+      "onboard_time": 1758265463,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35544,
       "num": 46374,
       "word": "迪丽热巴女王变女孩太有生命力了",
@@ -17593,14 +17697,6 @@
       "onboard_time": 1758128479,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31287,
-      "num": 155984,
-      "word": "日照金山日月同辉帽子云同框有多美",
-      "onboard_time": 1758262403,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 30766,
@@ -17811,6 +17907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26819,
+      "num": 909250,
+      "word": "何以中国黄河安澜",
+      "onboard_time": 1758253342,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26698,
       "num": 132669,
       "word": "入室抢婴案受害者姜甲儒将出庭",
@@ -17944,14 +18048,6 @@
       "word": "两点一存耀华夏",
       "onboard_time": 1758099924,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 24169,
-      "num": 225724,
-      "word": "何以中国黄河安澜",
-      "onboard_time": 1758253342,
-      "rank": 24,
       "category": "国内时政"
     },
     {
@@ -18305,6 +18401,14 @@
       "onboard_time": 1757789116,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15089,
+      "num": 130206,
+      "word": "上海绿捷业务覆盖600多所学校",
+      "onboard_time": 1758266363,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14961,
