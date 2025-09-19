@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/20 00:30:25 ~ 2025/09/20 01:21:10
+本榜单时间：2025/09/20 00:30:25 ~ 2025/09/20 01:38:53
 </p>
 </blockquote>
 <p>
@@ -142,7 +142,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E8%AF%B4%E4%B8%8B%E6%B5%B7%E5%8E%9F%E6%9D%A5%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
-刘涛说下海原来是真的（热度：121960）
+刘涛说下海原来是真的（热度：124702）
 </a>
 </li>
 
@@ -273,6 +273,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%92%E6%AD%BB9%E6%9D%A1%E5%AE%A0%E7%89%A9%E7%8B%97%E4%B8%80%E5%AE%A12%E5%B9%B4%E6%9C%AA%E5%88%A4%23" target="weibo">
+男子毒死9条宠物狗一审2年未判（热度：68441）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%98%9F%E6%98%9F%E4%BA%BA%23" target="weibo">
 泡泡玛特星星人（热度：62681）
 </a>
@@ -287,6 +293,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%B5%AB%E9%87%8E%E5%8C%97%E4%BA%AC%E5%88%B0%E5%BA%95%E6%9C%89%E8%B0%81%E5%9C%A8%E5%95%8A%23" target="weibo">
 王赫野北京到底有谁在啊（热度：61448）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BB%9D%E7%BE%8E%E7%9A%84%E8%84%B8%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%80%E5%BC%A0%E6%9B%B4%E7%BE%8E%E7%9A%84%E8%84%B8%23" target="weibo">
+一张绝美的脸背后是一张更美的脸（热度：60760）
 </a>
 </li>
 
@@ -327,20 +339,14 @@ iPhoneAir首发上手（热度：55357）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BB%9D%E7%BE%8E%E7%9A%84%E8%84%B8%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%80%E5%BC%A0%E6%9B%B4%E7%BE%8E%E7%9A%84%E8%84%B8%23" target="weibo">
-一张绝美的脸背后是一张更美的脸（热度：51858）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
-你好星期六（热度：41240）
+你好星期六（热度：45451）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%92%E6%AD%BB9%E6%9D%A1%E5%AE%A0%E7%89%A9%E7%8B%97%E4%B8%80%E5%AE%A12%E5%B9%B4%E6%9C%AA%E5%88%A4%23" target="weibo">
-男子毒死9条宠物狗一审2年未判（热度：39571）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E9%B8%BF%E7%9B%B4%E6%92%AD%23" target="weibo">
+官鸿直播（热度：41497）
 </a>
 </li>
 

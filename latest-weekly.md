@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/20 01:21:10
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/20 01:38:53
 </p>
 </blockquote>
 <p>
@@ -13197,6 +13197,12 @@ XG教练称又搞砸了（热度：70412）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%92%E6%AD%BB9%E6%9D%A1%E5%AE%A0%E7%89%A9%E7%8B%97%E4%B8%80%E5%AE%A12%E5%B9%B4%E6%9C%AA%E5%88%A4%23" target="weibo">
+男子毒死9条宠物狗一审2年未判（热度：68441）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%86%E9%95%BF%20%E5%B9%BF%E8%A5%BF%E5%AD%A6%E7%94%9F%E5%86%9B%E8%AE%AD%E6%AF%94%E5%8F%B0%E6%B9%BE%E5%86%9B%E6%BC%94%E8%BF%98%E5%8E%89%E5%AE%B3%23" target="weibo">
 馆长 广西学生军训比台湾军演还厉害（热度：68335）
 </a>
@@ -13367,6 +13373,12 @@ Faker对决ShowMaker海报（热度：68140）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E6%83%B3%E9%80%9A%E8%BF%87%E6%9D%80%E4%BA%BA%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
 男子患精神分裂想通过杀人被判刑（热度：60853）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BB%9D%E7%BE%8E%E7%9A%84%E8%84%B8%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%80%E5%BC%A0%E6%9B%B4%E7%BE%8E%E7%9A%84%E8%84%B8%23" target="weibo">
+一张绝美的脸背后是一张更美的脸（热度：60760）
 </a>
 </li>
 
@@ -13749,12 +13761,6 @@ Falcons战胜XG（热度：53181）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BB%9D%E7%BE%8E%E7%9A%84%E8%84%B8%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%80%E5%BC%A0%E6%9B%B4%E7%BE%8E%E7%9A%84%E8%84%B8%23" target="weibo">
-一张绝美的脸背后是一张更美的脸（热度：51858）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8510%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0%E4%BC%A6%E6%95%A6%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B4%BB%E5%8A%A8%23" target="weibo">
 超10万人参加伦敦反移民活动（热度：51673）
 </a>
@@ -14007,6 +14013,12 @@ SKULLPANDA也遁入CROCS洞门了（热度：49017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
+你好星期六（热度：45451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7V23%E6%B5%99%E8%B5%9B%E6%9C%80%E9%80%9F%E6%96%B9%E7%9B%92%E5%AD%90%23" target="weibo">
 超级V23浙赛最速方盒子（热度：45360）
 </a>
@@ -14187,14 +14199,14 @@ vctcn（热度：41732）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%87%AA%E5%B8%A6%E5%B0%8F%E7%9A%87%E5%86%A0%23" target="weibo">
-孙颖莎自带小皇冠（热度：41437）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E9%B8%BF%E7%9B%B4%E6%92%AD%23" target="weibo">
+官鸿直播（热度：41497）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
-你好星期六（热度：41240）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%87%AA%E5%B8%A6%E5%B0%8F%E7%9A%87%E5%86%A0%23" target="weibo">
+孙颖莎自带小皇冠（热度：41437）
 </a>
 </li>
 
@@ -14255,12 +14267,6 @@ vctcn（热度：41732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9194%E5%91%A8%E5%B9%B4%23" target="weibo">
 九一八事变爆发94周年（热度：39571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%92%E6%AD%BB9%E6%9D%A1%E5%AE%A0%E7%89%A9%E7%8B%97%E4%B8%80%E5%AE%A12%E5%B9%B4%E6%9C%AA%E5%88%A4%23" target="weibo">
-男子毒死9条宠物狗一审2年未判（热度：39571）
 </a>
 </li>
 
