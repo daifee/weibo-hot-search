@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758267408519,
+  "endTime": 1758270740410,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -369,6 +369,14 @@
       "onboard_time": 1757891539,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1594357,
+      "num": 1594357,
+      "word": "朱孔军任武汉大学党委书记",
+      "onboard_time": 1758269602,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1591178,
@@ -1403,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 835907,
+      "num": 436011,
+      "word": "王家卫繁花被曝疑似压榨员工",
+      "onboard_time": 1758264981,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 833851,
       "num": 833851,
       "word": "抑郁症的懒到底有多可怕",
@@ -1891,6 +1907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 653054,
+      "num": 653054,
+      "word": "关晓彤接住了刘涛的戏",
+      "onboard_time": 1758265402,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652327,
       "num": 197303,
       "word": "曝王安宇不演一念江南",
@@ -2112,6 +2136,14 @@
       "word": "12306 开票即候补",
       "onboard_time": 1758010761,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 598828,
+      "num": 598828,
+      "word": "主播逃税超243万被追缴402万",
+      "onboard_time": 1758264922,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -3099,6 +3131,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 432466,
+      "num": 432466,
+      "word": "最适合穷游的三个城市",
+      "onboard_time": 1758267922,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 432401,
       "num": 432401,
       "word": "西贝儿童餐将调整为现做",
@@ -3547,14 +3587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385709,
-      "num": 385709,
-      "word": "王家卫繁花被曝疑似压榨员工",
-      "onboard_time": 1758264981,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385407,
       "num": 385407,
       "word": "731日籍演员在中国演了20多年日军",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1758091884,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 380983,
+      "num": 230930,
+      "word": "买基金的人今年怎么不讲段子了",
+      "onboard_time": 1758268041,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 379593,
@@ -4107,20 +4147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329123,
+      "num": 329123,
+      "word": "管乐吐槽祝绪丹没有良心",
+      "onboard_time": 1758267382,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327549,
       "num": 277405,
       "word": "12岁被虐致死女孩曾被关厕所17天",
       "onboard_time": 1757984542,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327312,
-      "num": 327312,
-      "word": "关晓彤接住了刘涛的戏",
-      "onboard_time": 1758265402,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 326458,
@@ -5179,6 +5219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245355,
+      "num": 245355,
+      "word": "武大党委书记调整",
+      "onboard_time": 1758269542,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 245209,
       "num": 230410,
       "word": "这下谁敢去负二层停车",
@@ -5191,14 +5239,6 @@
       "num": 259047,
       "word": "加大消费信贷支持力度",
       "onboard_time": 1758014663,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244010,
-      "num": 425524,
-      "word": "主播逃税超243万被追缴402万",
-      "onboard_time": 1758264922,
       "rank": 24,
       "category": "民生新闻"
     },
@@ -5481,6 +5521,14 @@
       "onboard_time": 1757856985,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 230054,
+      "num": 230054,
+      "word": "韩国下令必要时强力应对反华集会",
+      "onboard_time": 1758266242,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 229610,
@@ -9171,14 +9219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154540,
-      "num": 154540,
-      "word": "韩国下令必要时强力应对反华集会",
-      "onboard_time": 1758266242,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 154529,
       "num": 172110,
       "word": "小米17pro系列或将涨价",
@@ -9225,6 +9265,14 @@
       "onboard_time": 1757884034,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154206,
+      "num": 154206,
+      "word": "iPhone16为什么要换17",
+      "onboard_time": 1758270323,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 154173,
@@ -9371,6 +9419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 151999,
+      "num": 151414,
+      "word": "冷冻2年的西兰花山姆也在卖",
+      "onboard_time": 1758269903,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151941,
       "num": 151941,
       "word": "歼20S指挥无人机打预警机",
@@ -9392,6 +9448,14 @@
       "word": "成毅不理解但照做",
       "onboard_time": 1758120565,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151418,
+      "num": 151418,
+      "word": "这一秒过火",
+      "onboard_time": 1758268041,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -9697,6 +9761,14 @@
       "onboard_time": 1758008903,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147668,
+      "num": 147668,
+      "word": "镇政府回应男子崖下洞居5年",
+      "onboard_time": 1758269121,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147662,
@@ -10465,6 +10537,14 @@
       "onboard_time": 1758204745,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139208,
+      "num": 139208,
+      "word": "曾凡博确认出战篮网队中国赛",
+      "onboard_time": 1758270023,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 139178,
@@ -11579,6 +11659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127085,
+      "num": 127085,
+      "word": "大学生有自己的统一校服",
+      "onboard_time": 1758270141,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127064,
       "num": 127064,
       "word": "别让萧秋水的悲惨在现实上演",
@@ -11593,6 +11681,14 @@
       "onboard_time": 1758019043,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126914,
+      "num": 126914,
+      "word": "灼灼韶华和甄嬛传是一个造型团队",
+      "onboard_time": 1758270503,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 126878,
@@ -11809,6 +11905,14 @@
       "onboard_time": 1758169162,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124916,
+      "num": 124916,
+      "word": "梁婷发文力挺成毅",
+      "onboard_time": 1758268462,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 124888,
@@ -12619,6 +12723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116875,
+      "num": 124842,
+      "word": "聂远时隔四年再演古装",
+      "onboard_time": 1758269421,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116684,
       "num": 114977,
       "word": "LPL与LCK迎来周末大战",
@@ -12971,6 +13083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 113336,
+      "num": 113336,
+      "word": "门店回应iPhone17展示机划痕",
+      "onboard_time": 1758269662,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113300,
       "num": 113300,
       "word": "人民日报任仲平",
@@ -13001,6 +13121,14 @@
       "onboard_time": 1757864125,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113039,
+      "num": 113452,
+      "word": "被强奸女高管说以前觉得老板老实",
+      "onboard_time": 1758268222,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112955,
@@ -13353,6 +13481,14 @@
       "onboard_time": 1758201563,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108771,
+      "num": 121453,
+      "word": "翟欣欣曾2次闪婚闪离",
+      "onboard_time": 1758268703,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108695,
@@ -15203,6 +15339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86635,
+      "num": 124807,
+      "word": "阿姨们在牛在在一声声姐中迷失了",
+      "onboard_time": 1758270081,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86584,
       "num": 86584,
       "word": "单身不是最爽的",
@@ -15281,6 +15425,14 @@
       "onboard_time": 1758194903,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84862,
+      "num": 231086,
+      "word": "你的国庆假期正在加载中",
+      "onboard_time": 1758270323,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84860,
@@ -16235,6 +16387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68137,
+      "num": 124801,
+      "word": "恋与深空中世纪穿搭",
+      "onboard_time": 1758270622,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68064,
       "num": 298254,
       "word": "享界S9T售价30万起6万限时权益",
@@ -16673,14 +16833,6 @@
       "onboard_time": 1757892920,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55804,
-      "num": 119703,
-      "word": "管乐吐槽祝绪丹没有良心",
-      "onboard_time": 1758267382,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 55676,
