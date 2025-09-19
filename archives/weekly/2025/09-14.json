@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758259441527,
+  "endTime": 1758260385168,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -248,6 +248,14 @@
       "word": "涉毒艺人苏永康将在温州办演唱会",
       "onboard_time": 1757946926,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1848951,
+      "num": 1848951,
+      "word": "被老板强奸女高管老公回应",
+      "onboard_time": 1758259403,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 1303478,
-      "num": 463345,
+      "num": 517643,
       "word": "女主播赴约打榜大哥遭性侵",
       "onboard_time": 1758255745,
       "rank": 32,
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 948998,
-      "num": 500904,
+      "num": 517491,
       "word": "迅猛龙被男网红孤立",
       "onboard_time": 1758254363,
       "rank": 12,
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 911371,
-      "num": 488431,
+      "num": 517259,
       "word": "女孩被同班男生杀害尸体距家仅100米",
       "onboard_time": 1758252505,
       "rank": 11,
@@ -1296,6 +1304,14 @@
       "word": "原来iPhone天气这么好用",
       "onboard_time": 1758184583,
       "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 844516,
+      "num": 844516,
+      "word": "iPhone17Pro线下展出真机已满身划痕",
+      "onboard_time": 1758258083,
+      "rank": 1,
       "category": "数码"
     },
     {
@@ -1515,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 775690,
+      "num": 775690,
+      "word": "向往的生活8官宣",
+      "onboard_time": 1758256944,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 771466,
       "num": 771466,
       "word": "白鹿穿着姥姥衣服来录节目",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1757945064,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 734554,
-      "num": 734554,
-      "word": "iPhone17Pro线下展出真机已满身划痕",
-      "onboard_time": 1758258083,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 731502,
@@ -2107,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581954,
+      "num": 558891,
+      "word": "内娱男频三巨头",
+      "onboard_time": 1758255503,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 581460,
       "num": 581460,
       "word": "多人因忘关闭自动续费被扣数千元",
@@ -2387,14 +2411,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 530181,
-      "num": 530181,
-      "word": "内娱男频三巨头",
-      "onboard_time": 1758255503,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 530173,
       "num": 530173,
       "word": "翟欣欣索要精神损失费1000万元",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1758111502,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516665,
+      "num": 516665,
+      "word": "刘芸竟然是陈紫函戴向宇的红娘",
+      "onboard_time": 1758257424,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 516337,
@@ -2995,14 +3019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 438346,
-      "num": 438346,
-      "word": "向往的生活8官宣",
-      "onboard_time": 1758256944,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 436251,
       "num": 436251,
       "word": "马天宇出席釜山国际电影节",
@@ -3291,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412093,
+      "num": 516728,
+      "word": "云海肴创始人赵晗去世",
+      "onboard_time": 1758259163,
+      "rank": 29,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 407841,
       "num": 326740,
       "word": "澳洲你管这个叫青菜",
@@ -3508,7 +3532,7 @@
     },
     {
       "raw_hot": 383487,
-      "num": 293745,
+      "num": 323462,
       "word": "33岁苦练化妆2个月的变化",
       "onboard_time": 1758254064,
       "rank": 30,
@@ -3953,14 +3977,6 @@
       "onboard_time": 1757847083,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337826,
-      "num": 289811,
-      "word": "刘芸竟然是陈紫函戴向宇的红娘",
-      "onboard_time": 1758257424,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 337664,
@@ -4699,6 +4715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264949,
+      "num": 264949,
+      "word": "22岁过上了上一休六的退休生活",
+      "onboard_time": 1758258923,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264791,
       "num": 264791,
       "word": "苏醒把王栎鑫骂到心坎里了",
@@ -4745,14 +4769,6 @@
       "onboard_time": 1757905582,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 263263,
-      "num": 263263,
-      "word": "被老板强奸女高管老公回应",
-      "onboard_time": 1758259403,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262892,
@@ -5163,6 +5179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 241545,
+      "num": 262074,
+      "word": "汪藏海给吴邪留好大一个难题",
+      "onboard_time": 1758258503,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241378,
       "num": 241378,
       "word": "雨果4比0林德",
@@ -5403,6 +5427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228408,
+      "num": 228408,
+      "word": "琅琊榜",
+      "onboard_time": 1758258744,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227757,
       "num": 259740,
       "word": "迪卡侬广告 处女地",
@@ -5433,14 +5465,6 @@
       "onboard_time": 1758034467,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227256,
-      "num": 227256,
-      "word": "汪藏海给吴邪留好大一个难题",
-      "onboard_time": 1758258503,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 227086,
@@ -6043,6 +6067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206787,
+      "num": 206787,
+      "word": "论有一个靠谱搭子的重要性",
+      "onboard_time": 1758259762,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206060,
       "num": 206060,
       "word": "成毅10秒处这个连续翻转",
@@ -6105,6 +6137,14 @@
       "onboard_time": 1758007282,
       "rank": 35,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 204647,
+      "num": 204647,
+      "word": "白敬亭回应生理性演技",
+      "onboard_time": 1758259163,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 204610,
@@ -6475,12 +6515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196791,
+      "num": 444420,
+      "word": "祝绪丹 你算老几",
+      "onboard_time": 1758259944,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196718,
       "num": 196718,
       "word": "RC战队夺冠",
       "onboard_time": 1757849065,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196470,
+      "num": 196470,
+      "word": "VOGUE男刊",
+      "onboard_time": 1758259882,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196312,
@@ -6995,14 +7051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188636,
-      "num": 188636,
-      "word": "琅琊榜",
-      "onboard_time": 1758258744,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188478,
       "num": 200661,
       "word": "薛之谦直播",
@@ -7353,14 +7401,6 @@
       "onboard_time": 1758073343,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179682,
-      "num": 179682,
-      "word": "22岁过上了上一休六的退休生活",
-      "onboard_time": 1758258923,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 179665,
@@ -7825,6 +7865,14 @@
       "onboard_time": 1757910804,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 171060,
+      "num": 171060,
+      "word": "董璇选择张维伊的原因找到了",
+      "onboard_time": 1758260303,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 170597,
@@ -9937,6 +9985,14 @@
       "onboard_time": 1757863164,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142737,
+      "num": 142737,
+      "word": "亲爱的三月七PV",
+      "onboard_time": 1758260183,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 142610,
@@ -12179,14 +12235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118234,
-      "num": 213971,
-      "word": "云海肴创始人赵晗去世",
-      "onboard_time": 1758259163,
-      "rank": 29,
-      "category": "美食,民生新闻"
-    },
-    {
       "raw_hot": 118212,
       "num": 118212,
       "word": "李柯以回应是短剧第一女神",
@@ -12700,7 +12748,7 @@
     },
     {
       "raw_hot": 113215,
-      "num": 151510,
+      "num": 171142,
       "word": "零跑D19闯入9字辈豪华赛道",
       "onboard_time": 1758259043,
       "rank": 40,
@@ -13868,7 +13916,7 @@
     },
     {
       "raw_hot": 100625,
-      "num": 448254,
+      "num": 518603,
       "word": "孙颖莎就爱这口纯脆",
       "onboard_time": 1758258623,
       "rank": 11,
@@ -15195,6 +15243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80481,
+      "num": 261283,
+      "word": "再上9天班就到国庆假期",
+      "onboard_time": 1758260003,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80417,
       "num": 155246,
       "word": "田曦薇张艺凡牛奶猫型闺蜜",
@@ -15571,12 +15627,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 73979,
-      "num": 151847,
-      "word": "白敬亭回应生理性演技",
-      "onboard_time": 1758259163,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 74245,
+      "num": 153279,
+      "word": "孙颖莎竖大拇指举奖杯",
+      "onboard_time": 1758260003,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 73909,
@@ -15601,6 +15657,14 @@
       "onboard_time": 1757958976,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73570,
+      "num": 152275,
+      "word": "赵晗在读研期间创办云海肴",
+      "onboard_time": 1758259882,
+      "rank": 44,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 73487,
@@ -15977,6 +16041,14 @@
       "onboard_time": 1757847864,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62943,
+      "num": 171593,
+      "word": "翟欣欣已在押2年",
+      "onboard_time": 1758260003,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62917,
@@ -16635,6 +16707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49017,
+      "num": 181767,
+      "word": "SKULLPANDA也遁入CROCS洞门了",
+      "onboard_time": 1758260303,
+      "rank": 34,
+      "category": "时尚,休闲"
+    },
+    {
       "raw_hot": 48987,
       "num": 149883,
       "word": "一家公立二甲医院欠薪倒闭背后",
@@ -17139,6 +17219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35920,
+      "num": 445880,
+      "word": "美团闪购让何广智装到了",
+      "onboard_time": 1758258744,
+      "rank": 18,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 35907,
+      "num": 171786,
+      "word": "何雷 解决台湾问题常规武器就足够了",
+      "onboard_time": 1758259643,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35848,
       "num": 116893,
       "word": "湘菜也是预制菜克星",
@@ -17257,14 +17353,6 @@
       "onboard_time": 1758105144,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33038,
-      "num": 329491,
-      "word": "美团闪购让何广智装到了",
-      "onboard_time": 1758258744,
-      "rank": 18,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 32975,

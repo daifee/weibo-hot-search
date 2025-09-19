@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758259441527,
+  "endTime": 1758260385168,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -43,6 +43,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1848951,
+      "num": 1848951,
+      "word": "被老板强奸女高管老公回应",
+      "onboard_time": 1758259403,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1422215,
       "num": 1422215,
       "word": "iPhone17Pro被黄牛拒收",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1303478,
-      "num": 463345,
+      "num": 517643,
       "word": "女主播赴约打榜大哥遭性侵",
       "onboard_time": 1758255745,
       "rank": 32,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 948998,
-      "num": 500904,
+      "num": 517491,
       "word": "迅猛龙被男网红孤立",
       "onboard_time": 1758254363,
       "rank": 12,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 911371,
-      "num": 488431,
+      "num": 517259,
       "word": "女孩被同班男生杀害尸体距家仅100米",
       "onboard_time": 1758252505,
       "rank": 11,
@@ -97,6 +105,14 @@
       "onboard_time": 1758248242,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 844516,
+      "num": 844516,
+      "word": "iPhone17Pro线下展出真机已满身划痕",
+      "onboard_time": 1758258083,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 840555,
@@ -123,20 +139,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 775690,
+      "num": 775690,
+      "word": "向往的生活8官宣",
+      "onboard_time": 1758256944,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 742508,
       "num": 928801,
       "word": "日本绑架近千名中国人赴日做苦役",
       "onboard_time": 1758236657,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 734554,
-      "num": 734554,
-      "word": "iPhone17Pro线下展出真机已满身划痕",
-      "onboard_time": 1758258083,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 706451,
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581954,
+      "num": 558891,
+      "word": "内娱男频三巨头",
+      "onboard_time": 1758255503,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565972,
       "num": 565972,
       "word": "老人被曝用废弃空瓶灌水卖游客",
@@ -219,20 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530181,
-      "num": 530181,
-      "word": "内娱男频三巨头",
-      "onboard_time": 1758255503,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 530173,
       "num": 530173,
       "word": "翟欣欣索要精神损失费1000万元",
       "onboard_time": 1758251181,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516665,
+      "num": 516665,
+      "word": "刘芸竟然是陈紫函戴向宇的红娘",
+      "onboard_time": 1758257424,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 471820,
@@ -267,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438346,
-      "num": 438346,
-      "word": "向往的生活8官宣",
-      "onboard_time": 1758256944,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 426717,
       "num": 240821,
       "word": "香港网民选出新四大天王",
@@ -307,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 412093,
+      "num": 516728,
+      "word": "云海肴创始人赵晗去世",
+      "onboard_time": 1758259163,
+      "rank": 29,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 395348,
       "num": 395348,
       "word": "携程被约谈",
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 383487,
-      "num": 293745,
+      "num": 323462,
       "word": "33岁苦练化妆2个月的变化",
       "onboard_time": 1758254064,
       "rank": 30,
@@ -345,14 +369,6 @@
       "onboard_time": 1758208643,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337826,
-      "num": 289811,
-      "word": "刘芸竟然是陈紫函戴向宇的红娘",
-      "onboard_time": 1758257424,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 326458,
@@ -443,20 +459,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 264949,
+      "num": 264949,
+      "word": "22岁过上了上一休六的退休生活",
+      "onboard_time": 1758258923,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264653,
       "num": 264653,
       "word": "苍兰诀2首刀出现了",
       "onboard_time": 1758253403,
       "rank": 21,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 263263,
-      "num": 263263,
-      "word": "被老板强奸女高管老公回应",
-      "onboard_time": 1758259403,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253175,
@@ -480,6 +496,14 @@
       "word": "赴山海情节被吐槽跟于北辰有一拼",
       "onboard_time": 1758251420,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241545,
+      "num": 262074,
+      "word": "汪藏海给吴邪留好大一个难题",
+      "onboard_time": 1758258503,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -515,11 +539,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 227256,
-      "num": 227256,
-      "word": "汪藏海给吴邪留好大一个难题",
-      "onboard_time": 1758258503,
-      "rank": 28,
+      "raw_hot": 228408,
+      "num": 228408,
+      "word": "琅琊榜",
+      "onboard_time": 1758258744,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -611,12 +635,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206787,
+      "num": 206787,
+      "word": "论有一个靠谱搭子的重要性",
+      "onboard_time": 1758259762,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204935,
       "num": 204935,
       "word": "iPhone17",
       "onboard_time": 1758246561,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 204647,
+      "num": 204647,
+      "word": "白敬亭回应生理性演技",
+      "onboard_time": 1758259163,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 204610,
@@ -667,6 +707,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196791,
+      "num": 444420,
+      "word": "祝绪丹 你算老几",
+      "onboard_time": 1758259944,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196470,
+      "num": 196470,
+      "word": "VOGUE男刊",
+      "onboard_time": 1758259882,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 195081,
       "num": 195081,
       "word": "漂亮饭吃出猪脚饭的感觉",
@@ -689,14 +745,6 @@
       "onboard_time": 1758253163,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188636,
-      "num": 188636,
-      "word": "琅琊榜",
-      "onboard_time": 1758258744,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 185869,
@@ -723,14 +771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179682,
-      "num": 179682,
-      "word": "22岁过上了上一休六的退休生活",
-      "onboard_time": 1758258923,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175696,
       "num": 175696,
       "word": "易烊千玺垒石头效应",
@@ -753,6 +793,14 @@
       "onboard_time": 1758251722,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171060,
+      "num": 171060,
+      "word": "董璇选择张维伊的原因找到了",
+      "onboard_time": 1758260303,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 163991,
@@ -955,6 +1003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142737,
+      "num": 142737,
+      "word": "亲爱的三月七PV",
+      "onboard_time": 1758260183,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142420,
       "num": 222960,
       "word": "4人入室抢婴案一审宣判",
@@ -1083,14 +1139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118234,
-      "num": 213971,
-      "word": "云海肴创始人赵晗去世",
-      "onboard_time": 1758259163,
-      "rank": 29,
-      "category": "美食,民生新闻"
-    },
-    {
       "raw_hot": 117620,
       "num": 117620,
       "word": "曾用10年退休金补仓的爷叔解套了",
@@ -1140,7 +1188,7 @@
     },
     {
       "raw_hot": 113215,
-      "num": 151510,
+      "num": 171142,
       "word": "零跑D19闯入9字辈豪华赛道",
       "onboard_time": 1758259043,
       "rank": 40,
@@ -1172,7 +1220,7 @@
     },
     {
       "raw_hot": 100625,
-      "num": 448254,
+      "num": 518603,
       "word": "孙颖莎就爱这口纯脆",
       "onboard_time": 1758258623,
       "rank": 11,
@@ -1347,6 +1395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80481,
+      "num": 261283,
+      "word": "再上9天班就到国庆假期",
+      "onboard_time": 1758260003,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77617,
       "num": 91189,
       "word": "五彩模式的秋天又要来了",
@@ -1371,12 +1427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73979,
-      "num": 151847,
-      "word": "白敬亭回应生理性演技",
-      "onboard_time": 1758259163,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 74245,
+      "num": 153279,
+      "word": "孙颖莎竖大拇指举奖杯",
+      "onboard_time": 1758260003,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73570,
+      "num": 152275,
+      "word": "赵晗在读研期间创办云海肴",
+      "onboard_time": 1758259882,
+      "rank": 44,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 68374,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1758206002,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62943,
+      "num": 171593,
+      "word": "翟欣欣已在押2年",
+      "onboard_time": 1758260003,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62548,
@@ -1523,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49017,
+      "num": 181767,
+      "word": "SKULLPANDA也遁入CROCS洞门了",
+      "onboard_time": 1758260303,
+      "rank": 34,
+      "category": "时尚,休闲"
+    },
+    {
       "raw_hot": 48376,
       "num": 59522,
       "word": "特研院回应博士月薪4000元起",
@@ -1571,20 +1651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35920,
+      "num": 445880,
+      "word": "美团闪购让何广智装到了",
+      "onboard_time": 1758258744,
+      "rank": 18,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 35907,
+      "num": 171786,
+      "word": "何雷 解决台湾问题常规武器就足够了",
+      "onboard_time": 1758259643,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34772,
       "num": 59522,
       "word": "李嘉欣在香港扫货被偶遇",
       "onboard_time": 1758194662,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33038,
-      "num": 329491,
-      "word": "美团闪购让何广智装到了",
-      "onboard_time": 1758258744,
-      "rank": 18,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 29311,

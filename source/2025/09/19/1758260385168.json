@@ -1,0 +1,410 @@
+{
+  "runTime": 1758260385168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1848951,
+        "num": 1848951,
+        "word": "被老板强奸女高管老公回应",
+        "onboard_time": 1758259403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1107754,
+        "num": 1107754,
+        "word": "艾伦因为陈乔恩提离婚哭了",
+        "onboard_time": 1758252141,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36469,
+        "num": 924206,
+        "word": "近距离看航空展名场面",
+        "onboard_time": 1758246681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844516,
+        "num": 844516,
+        "word": "iPhone17Pro线下展出真机已满身划痕",
+        "onboard_time": 1758258083,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 775690,
+        "num": 775690,
+        "word": "向往的生活8官宣",
+        "onboard_time": 1758256944,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573785,
+        "num": 573785,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 583192,
+        "num": 566184,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 581954,
+        "num": 558891,
+        "word": "内娱男频三巨头",
+        "onboard_time": 1758255503,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544997,
+        "num": 544997,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518614,
+        "num": 518614,
+        "word": "中方对表决结果非常失望",
+        "onboard_time": 1758241883,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42998,
+        "num": 518603,
+        "word": "孙颖莎就爱这口纯脆",
+        "onboard_time": 1758258623,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1334295,
+        "num": 518070,
+        "word": "刘一菲承认蹭刘亦菲流量",
+        "onboard_time": 1758251843,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1265018,
+        "num": 517643,
+        "word": "女主播赴约打榜大哥遭性侵",
+        "onboard_time": 1758255745,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652119,
+        "num": 517491,
+        "word": "迅猛龙被男网红孤立",
+        "onboard_time": 1758254363,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 533694,
+        "num": 517259,
+        "word": "女孩被同班男生杀害尸体距家仅100米",
+        "onboard_time": 1758252505,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412093,
+        "num": 516728,
+        "word": "云海肴创始人赵晗去世",
+        "onboard_time": 1758259163,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516665,
+        "num": 516665,
+        "word": "刘芸竟然是陈紫函戴向宇的红娘",
+        "onboard_time": 1758257424,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35920,
+        "num": 445880,
+        "word": "美团闪购让何广智装到了",
+        "onboard_time": 1758258744,
+        "rank": 17,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 196791,
+        "num": 444420,
+        "word": "祝绪丹 你算老几",
+        "onboard_time": 1758259944,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443902,
+        "num": 443902,
+        "word": "向往的生活",
+        "onboard_time": 1758252322,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424627,
+        "num": 424627,
+        "word": "小米召回11.7万辆标准版SU7",
+        "onboard_time": 1758246441,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 323462,
+        "num": 323462,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1758254064,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 275910,
+        "num": 275910,
+        "word": "iOS26同时解决了网瘾和猪瘾",
+        "onboard_time": 1758253403,
+        "rank": 22,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 275119,
+        "num": 275119,
+        "word": "香港西九龙重案组",
+        "onboard_time": 1758250281,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269277,
+        "num": 269277,
+        "word": "井川里予酒吧蹦迪",
+        "onboard_time": 1758253103,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 264949,
+        "num": 264949,
+        "word": "22岁过上了上一休六的退休生活",
+        "onboard_time": 1758258923,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241545,
+        "num": 262074,
+        "word": "汪藏海给吴邪留好大一个难题",
+        "onboard_time": 1758258503,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80481,
+        "num": 261283,
+        "word": "再上9天班就到国庆假期",
+        "onboard_time": 1758260003,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261171,
+        "num": 261171,
+        "word": "翟欣欣索要精神损失费1000万元",
+        "onboard_time": 1758251181,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228408,
+        "num": 228408,
+        "word": "琅琊榜",
+        "onboard_time": 1758258744,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206787,
+        "num": 206787,
+        "word": "论有一个靠谱搭子的重要性",
+        "onboard_time": 1758259762,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205922,
+        "num": 205922,
+        "word": "比伯晒家规",
+        "onboard_time": 1758255323,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204647,
+        "num": 204647,
+        "word": "白敬亭回应生理性演技",
+        "onboard_time": 1758259163,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196470,
+        "num": 196470,
+        "word": "VOGUE男刊",
+        "onboard_time": 1758259882,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49017,
+        "num": 181767,
+        "word": "SKULLPANDA也遁入CROCS洞门了",
+        "onboard_time": 1758260303,
+        "rank": 34,
+        "category": "时尚,休闲"
+      },
+      {
+        "raw_hot": 202321,
+        "num": 181683,
+        "word": "韩国偶遇任重孙骁骁一家",
+        "onboard_time": 1758256585,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69647,
+        "num": 176922,
+        "word": "Faker回应再战GEN",
+        "onboard_time": 1758258442,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173073,
+        "num": 173073,
+        "word": "韩国人称只有韩国吃饭用勺子",
+        "onboard_time": 1758249562,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35907,
+        "num": 171786,
+        "word": "何雷 解决台湾问题常规武器就足够了",
+        "onboard_time": 1758259643,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62943,
+        "num": 171593,
+        "word": "翟欣欣已在押2年",
+        "onboard_time": 1758260003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171479,
+        "num": 171479,
+        "word": "詹姆斯称银行卡上就只几千块",
+        "onboard_time": 1758258685,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102675,
+        "num": 171142,
+        "word": "零跑D19闯入9字辈豪华赛道",
+        "onboard_time": 1758259043,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171060,
+        "num": 171060,
+        "word": "董璇选择张维伊的原因找到了",
+        "onboard_time": 1758260303,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74245,
+        "num": 153279,
+        "word": "孙颖莎竖大拇指举奖杯",
+        "onboard_time": 1758260003,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73570,
+        "num": 152275,
+        "word": "赵晗在读研期间创办云海肴",
+        "onboard_time": 1758259882,
+        "rank": 44,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 152062,
+        "num": 152062,
+        "word": "吴邪私家笔记空降",
+        "onboard_time": 1758258442,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142737,
+        "num": 142737,
+        "word": "亲爱的三月七PV",
+        "onboard_time": 1758260183,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142606,
+        "num": 142606,
+        "word": "杨幂把陈哲远逗成啥样了",
+        "onboard_time": 1758255084,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141050,
+        "num": 141050,
+        "word": "731日籍演员在中国演了20多年日军",
+        "onboard_time": 1758247821,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135196,
+        "num": 135196,
+        "word": "孙颖莎王楚钦混双北京见",
+        "onboard_time": 1758258744,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是不畏强暴自立自强的伟大民族#"
+    }
+  }
+}
