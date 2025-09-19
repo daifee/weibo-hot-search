@@ -1,7 +1,15 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758246679597,
+  "endTime": 1758247968926,
   "band_list": [
+    {
+      "raw_hot": 1996131,
+      "num": 1996131,
+      "word": "小米召回11.7万辆标准版SU7",
+      "onboard_time": 1758246441,
+      "rank": 21,
+      "category": "汽车"
+    },
     {
       "raw_hot": 1951581,
       "num": 1951581,
@@ -51,8 +59,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 699712,
+      "num": 699712,
+      "word": "难听",
+      "onboard_time": 1758247521,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 696730,
-      "num": 358308,
+      "num": 424214,
       "word": "19岁女子腹痛就诊后2小时分娩",
       "onboard_time": 1758207444,
       "rank": 10,
@@ -65,6 +81,14 @@
       "onboard_time": 1758205523,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 629068,
+      "num": 629068,
+      "word": "入局 郭麒麟宋祖儿",
+      "onboard_time": 1758244641,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 614693,
@@ -80,14 +104,6 @@
       "word": "成毅拿剧本出镜算失误吗",
       "onboard_time": 1758208524,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 584222,
-      "num": 584222,
-      "word": "入局 郭麒麟宋祖儿",
-      "onboard_time": 1758244641,
-      "rank": 5,
       "category": "剧集"
     },
     {
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 314123,
-      "num": 200511,
+      "num": 222955,
       "word": "王骁发文力挺成毅",
       "onboard_time": 1758239301,
       "rank": 20,
@@ -283,20 +299,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206107,
+      "num": 206107,
+      "word": "周扬青说目前没人配得上我",
+      "onboard_time": 1758246021,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204935,
+      "num": 204935,
+      "word": "iPhone17",
+      "onboard_time": 1758246561,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199656,
       "num": 199656,
       "word": "比伯海莉结婚未公开旧照",
       "onboard_time": 1758200783,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189095,
-      "num": 189095,
-      "word": "小米召回11.7万辆标准版SU7",
-      "onboard_time": 1758246441,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 185869,
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166521,
+      "num": 166521,
+      "word": "731日籍演员在中国演了20多年日军",
+      "onboard_time": 1758247821,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163991,
       "num": 163991,
       "word": "白敬亭演技",
@@ -323,8 +355,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162142,
-      "num": 162142,
+      "raw_hot": 162879,
+      "num": 162879,
       "word": "骑车人被撞该不该谁违规谁负责",
       "onboard_time": 1758242842,
       "rank": 24,
@@ -337,6 +369,14 @@
       "onboard_time": 1758197963,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156284,
+      "num": 156284,
+      "word": "李一桐掉牙照被做成白云表情包",
+      "onboard_time": 1758245182,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 155256,
@@ -355,20 +395,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150765,
+      "num": 155663,
+      "word": "电影731导演妻子发声",
+      "onboard_time": 1758246919,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145154,
       "num": 145154,
       "word": "外交部回应中企在赞比亚造成污染",
       "onboard_time": 1758240262,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 143528,
-      "num": 143528,
-      "word": "李一桐掉牙照被做成白云表情包",
-      "onboard_time": 1758245182,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 136490,
@@ -395,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121679,
-      "num": 121679,
-      "word": "周扬青说目前没人配得上我",
-      "onboard_time": 1758246021,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120484,
       "num": 248005,
       "word": "绿捷虾仁炒蛋一周内出具检验结果",
@@ -417,14 +449,6 @@
       "onboard_time": 1758240622,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119532,
-      "num": 119532,
-      "word": "iPhone17",
-      "onboard_time": 1758246561,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 117620,
@@ -459,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114483,
+      "num": 114483,
+      "word": "西班牙主持人对内塔尼亚胡竖中指",
+      "onboard_time": 1758246441,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 114383,
       "num": 114383,
       "word": "社保",
@@ -475,11 +507,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106316,
+      "num": 106316,
+      "word": "上班和不上班哪个花的多",
+      "onboard_time": 1758246502,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105500,
       "num": 105500,
       "word": "有酒店称房价被携程降价一倍多",
       "onboard_time": 1758246561,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102529,
+      "num": 155494,
+      "word": "刘嘉玲晒一路繁花合照",
+      "onboard_time": 1758246261,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102260,
+      "num": 102260,
+      "word": "日本人踩踏韩国旗污蔑中国人",
+      "onboard_time": 1758246801,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101060,
+      "num": 101060,
+      "word": "老人被曝用废弃空瓶灌水卖游客",
+      "onboard_time": 1758247882,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -491,12 +555,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 95509,
-      "num": 95509,
-      "word": "刘嘉玲晒一路繁花合照",
-      "onboard_time": 1758246261,
+      "raw_hot": 92078,
+      "num": 92078,
+      "word": "加沙人说请让我们活下去吧",
+      "onboard_time": 1758247282,
       "rank": 43,
-      "category": "综艺"
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91697,
+      "num": 91697,
+      "word": "李在明说答应特朗普可能被弹劾",
+      "onboard_time": 1758247940,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91197,
@@ -539,12 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86274,
-      "num": 103578,
-      "word": "西班牙主持人对内塔尼亚胡竖中指",
-      "onboard_time": 1758246441,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 88339,
+      "num": 88339,
+      "word": "秋天是北半球的脱发高峰",
+      "onboard_time": 1758247940,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85672,
+      "num": 85672,
+      "word": "中方回应美再一票否决安理会加沙决议",
+      "onboard_time": 1758246801,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83655,
@@ -667,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59827,
+      "num": 226142,
+      "word": "早餐还没送到iPhone17到了",
+      "onboard_time": 1758247401,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 59203,
       "num": 91105,
       "word": "张纪中跟1岁女儿同框像爷孙",
@@ -707,20 +795,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 54765,
+      "num": 1082923,
+      "word": "公安部公布10起网络违法犯罪典型案例",
+      "onboard_time": 1758238458,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52111,
       "num": 59522,
       "word": "何赛飞喊话追星者结婚生娃",
       "onboard_time": 1758214877,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51896,
-      "num": 777022,
-      "word": "公安部公布10起网络违法犯罪典型案例",
-      "onboard_time": 1758238458,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49460,
@@ -761,6 +849,14 @@
       "onboard_time": 1758205222,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38593,
+      "num": 222960,
+      "word": "4人入室抢婴案一审宣判",
+      "onboard_time": 1758247582,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36940,

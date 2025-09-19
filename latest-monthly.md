@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 09:51:19
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 10:12:48
 </p>
 </blockquote>
 <p>
@@ -737,6 +737,12 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E5%AF%8C%E7%8E%B0%E4%BB%BB%E5%A6%BB%E5%AD%90%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98%23" target="weibo">
 全球首富现任妻子是中国姑娘（热度：2017330）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%AC%E5%9B%9E11.7%E4%B8%87%E8%BE%86%E6%A0%87%E5%87%86%E7%89%88SU7%23" target="weibo">
+小米召回11.7万辆标准版SU7（热度：1996131）
 </a>
 </li>
 
@@ -4167,6 +4173,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
+难听（热度：699712）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%92%8C%E8%AE%B0%E8%80%85%E8%AF%B4%E6%88%91%E8%B7%9F%E4%BD%A0%E4%B8%80%E6%A0%B7%E5%85%B4%E5%A5%8B%23" target="weibo">
 华春莹和记者说我跟你一样兴奋（热度：697110）
 </a>
@@ -4719,6 +4731,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%B1%80%20%E9%83%AD%E9%BA%92%E9%BA%9F%E5%AE%8B%E7%A5%96%E5%84%BF%23" target="weibo">
+入局 郭麒麟宋祖儿（热度：629068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%9C%A8%E5%A4%96%E7%BD%91%E5%8F%91%E4%B8%BA%E7%A5%96%E5%9B%BD%E7%82%B9%E8%B5%9E%23" target="weibo">
 张柏芝在外网发为祖国点赞（热度：628933）
 </a>
@@ -5183,12 +5201,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E6%88%91%E7%9C%BC%E7%9D%9B%E8%84%8F%E4%BA%86%23" target="weibo">
 李昀锐 我眼睛脏了（热度：584643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%B1%80%20%E9%83%AD%E9%BA%92%E9%BA%9F%E5%AE%8B%E7%A5%96%E5%84%BF%23" target="weibo">
-入局 郭麒麟宋祖儿（热度：584222）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E5%A5%B3%E5%8F%8B%E8%87%AA%E6%9B%9D%E6%98%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%A2%A6%E5%A5%B3%23" target="weibo">
 桃黑黑女友自曝是易烊千玺梦女（热度：523440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%8239%E4%BA%86%23" target="weibo">
-杨幂39了（热度：523427）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E6%8D%A1%E5%88%B02267.83%E5%85%8B%E5%B7%A8%E5%9E%8B%E9%87%91%E6%9D%A1%23" target="weibo">
-深圳市民捡到2267.83克巨型金条（热度：522662）
 </a>
 </li>
 

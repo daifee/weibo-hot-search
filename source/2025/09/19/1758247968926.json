@@ -1,0 +1,410 @@
+{
+  "runTime": 1758247968926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1996131,
+        "num": 1996131,
+        "word": "小米召回11.7万辆标准版SU7",
+        "onboard_time": 1758246441,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1555578,
+        "num": 1555578,
+        "word": "中方对表决结果非常失望",
+        "onboard_time": 1758241883,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54765,
+        "num": 1082923,
+        "word": "公安部公布10起网络违法犯罪典型案例",
+        "onboard_time": 1758238458,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 722101,
+        "num": 722101,
+        "word": "导演让刚出生女儿出演剖腹取婴镜头",
+        "onboard_time": 1758203184,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 699712,
+        "num": 699712,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 629068,
+        "num": 629068,
+        "word": "入局 郭麒麟宋祖儿",
+        "onboard_time": 1758244641,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587546,
+        "num": 587546,
+        "word": "李在明相信特朗普在开玩笑",
+        "onboard_time": 1758241941,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 470837,
+        "num": 470837,
+        "word": "中国代表三问以色列美国",
+        "onboard_time": 1758244880,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 405030,
+        "num": 468794,
+        "word": "香港黄金盗窃案13人被捕",
+        "onboard_time": 1758238639,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468162,
+        "num": 468162,
+        "word": "成毅拿剧本出镜算失误吗",
+        "onboard_time": 1758208524,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424214,
+        "num": 424214,
+        "word": "19岁女子腹痛就诊后2小时分娩",
+        "onboard_time": 1758207444,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392667,
+        "num": 392667,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333000,
+        "num": 333000,
+        "word": "李嘉欣每个月可以领200万港币的生活费",
+        "onboard_time": 1758214159,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321291,
+        "num": 321291,
+        "word": "白化病姑娘被同学夸发色好看",
+        "onboard_time": 1758240321,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287702,
+        "num": 287702,
+        "word": "女子否认怀孕影像检查2小时后分娩",
+        "onboard_time": 1758208643,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279085,
+        "num": 279085,
+        "word": "蔡依林自曝患蛇缠腰后才早睡",
+        "onboard_time": 1758184524,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244745,
+        "num": 244745,
+        "word": "17号台风后18号19号也快了",
+        "onboard_time": 1758210083,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238410,
+        "num": 238410,
+        "word": "白衣公卿",
+        "onboard_time": 1758240382,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59827,
+        "num": 226142,
+        "word": "早餐还没送到iPhone17到了",
+        "onboard_time": 1758247401,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38593,
+        "num": 222960,
+        "word": "4人入室抢婴案一审宣判",
+        "onboard_time": 1758247582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266064,
+        "num": 222955,
+        "word": "王骁发文力挺成毅",
+        "onboard_time": 1758239301,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220858,
+        "num": 220858,
+        "word": "2025空军航空开放活动剧透来了",
+        "onboard_time": 1758245480,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 208268,
+        "num": 208268,
+        "word": "李乃文助理把车票日期买错了",
+        "onboard_time": 1758202045,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206107,
+        "num": 206107,
+        "word": "周扬青说目前没人配得上我",
+        "onboard_time": 1758246021,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204935,
+        "num": 204935,
+        "word": "iPhone17",
+        "onboard_time": 1758246561,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166521,
+        "num": 166521,
+        "word": "731日籍演员在中国演了20多年日军",
+        "onboard_time": 1758247821,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162879,
+        "num": 162879,
+        "word": "骑车人被撞该不该谁违规谁负责",
+        "onboard_time": 1758242842,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156284,
+        "num": 156284,
+        "word": "李一桐掉牙照被做成白云表情包",
+        "onboard_time": 1758245182,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150765,
+        "num": 155663,
+        "word": "电影731导演妻子发声",
+        "onboard_time": 1758246919,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102529,
+        "num": 155494,
+        "word": "刘嘉玲晒一路繁花合照",
+        "onboard_time": 1758246261,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155386,
+        "num": 155386,
+        "word": "各大奶茶最好喝的一杯",
+        "onboard_time": 1758205585,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151422,
+        "num": 151422,
+        "word": "日本绑架近千名中国人赴日做苦役",
+        "onboard_time": 1758236657,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115356,
+        "num": 115356,
+        "word": "日方代表回应侵华闪烁其词被当场驳斥",
+        "onboard_time": 1758242842,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114483,
+        "num": 114483,
+        "word": "西班牙主持人对内塔尼亚胡竖中指",
+        "onboard_time": 1758246441,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112657,
+        "num": 112657,
+        "word": "必胜客店员回应橙汁确为果粒橙",
+        "onboard_time": 1758205883,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111166,
+        "num": 111166,
+        "word": "两名以色列人被枪击死亡",
+        "onboard_time": 1758240622,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107494,
+        "num": 107494,
+        "word": "男子转情人1340万66岁原配起诉返还",
+        "onboard_time": 1758209124,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107229,
+        "num": 107229,
+        "word": "香港网民选出新四大天王",
+        "onboard_time": 1758211346,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106316,
+        "num": 106316,
+        "word": "上班和不上班哪个花的多",
+        "onboard_time": 1758246502,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105716,
+        "num": 105716,
+        "word": "法考成绩",
+        "onboard_time": 1758208943,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102260,
+        "num": 102260,
+        "word": "日本人踩踏韩国旗污蔑中国人",
+        "onboard_time": 1758246801,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101060,
+        "num": 101060,
+        "word": "老人被曝用废弃空瓶灌水卖游客",
+        "onboard_time": 1758247882,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95289,
+        "num": 95289,
+        "word": "用拖鞋搅奶茶员工上岗不到1小时",
+        "onboard_time": 1758197963,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92078,
+        "num": 92078,
+        "word": "加沙人说请让我们活下去吧",
+        "onboard_time": 1758247282,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91697,
+        "num": 91697,
+        "word": "李在明说答应特朗普可能被弹劾",
+        "onboard_time": 1758247940,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91562,
+        "num": 91562,
+        "word": "易烊千玺垒石头效应",
+        "onboard_time": 1758202824,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88339,
+        "num": 88339,
+        "word": "秋天是北半球的脱发高峰",
+        "onboard_time": 1758247940,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88026,
+        "num": 88026,
+        "word": "马克龙将提交证据证明妻子是女性",
+        "onboard_time": 1758207620,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86399,
+        "num": 86399,
+        "word": "苹果计算器复制 四舍五入",
+        "onboard_time": 1758245840,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85672,
+        "num": 85672,
+        "word": "中方回应美再一票否决安理会加沙决议",
+        "onboard_time": 1758246801,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗战纪念活动是生动的爱国主义教材#"
+    }
+  }
+}
