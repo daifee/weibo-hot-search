@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/14 00:26:56 ~ 2025/09/20 03:20:05
+本榜单时间：2025/09/14 00:26:56 ~ 2025/09/20 03:36:50
 </p>
 </blockquote>
 <p>
@@ -15081,6 +15081,12 @@ XG对战Falcons（热度：17993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B1%E8%AF%8A%E8%A2%AB%E6%8B%8D%E8%A7%86%E9%A2%91%E5%8F%91%E7%BD%91%E4%B8%8A%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
+就诊被拍视频发网上女子发声（热度：16290）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%97%A8%E5%B7%85%E5%B3%B0%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 泰嗨巅峰音乐节（热度：16265）
 </a>
@@ -15117,6 +15123,12 @@ XG对战Falcons（热度：17993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B8%B2%E6%9F%93%E7%B4%A7%E5%BC%A0%E5%88%B6%E9%80%A0%E5%AF%B9%E6%8A%97%E4%B8%8D%E5%BE%97%E4%BA%BA%E5%BF%83%23" target="weibo">
+在阿富汗渲染紧张制造对抗不得人心（热度：14845）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E9%BE%99%E5%BC%A0%E5%BC%9B%E4%B8%8A%E4%B8%AA%E6%97%B6%E4%BB%A3%E5%96%9C%E5%89%A7%E6%BC%94%E5%91%98%23" target="weibo">
 蒋龙张弛上个时代喜剧演员（热度：14639）
 </a>
@@ -15143,12 +15155,6 @@ XG对战Falcons（热度：17993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E9%82%80%E8%AF%B7%E5%87%BD%E8%8E%B7%E5%8F%96%E6%94%BB%E7%95%A5%23" target="weibo">
 微博音乐盛典邀请函获取攻略（热度：13773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B8%B2%E6%9F%93%E7%B4%A7%E5%BC%A0%E5%88%B6%E9%80%A0%E5%AF%B9%E6%8A%97%E4%B8%8D%E5%BE%97%E4%BA%BA%E5%BF%83%23" target="weibo">
-在阿富汗渲染紧张制造对抗不得人心（热度：13248）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758309605869,
+  "endTime": 1758310610882,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -61099,6 +61099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16290,
+      "num": 32511,
+      "word": "就诊被拍视频发网上女子发声",
+      "onboard_time": 1758297981,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16265,
       "num": 40555,
       "word": "泰嗨巅峰音乐节",
@@ -61209,6 +61217,14 @@
       "onboard_time": 1757793374,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14845,
+      "num": 47758,
+      "word": "在阿富汗渲染紧张制造对抗不得人心",
+      "onboard_time": 1758308476,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14814,
@@ -61385,14 +61401,6 @@
       "onboard_time": 1757016013,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13248,
-      "num": 47758,
-      "word": "在阿富汗渲染紧张制造对抗不得人心",
-      "onboard_time": 1758308476,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13245,
