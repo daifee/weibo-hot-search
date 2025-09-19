@@ -1,7 +1,15 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758247968926,
+  "endTime": 1758251158371,
   "band_list": [
+    {
+      "raw_hot": 2849174,
+      "num": 1062027,
+      "word": "难听",
+      "onboard_time": 1758247521,
+      "rank": 4,
+      "category": "幽默"
+    },
     {
       "raw_hot": 1996131,
       "num": 1996131,
@@ -19,11 +27,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1310509,
+      "num": 1310509,
+      "word": "iPhone17Pro被黄牛拒收",
+      "onboard_time": 1758248420,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1016863,
       "num": 1016863,
       "word": "香港黄金劫案",
       "onboard_time": 1758179242,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 881517,
+      "num": 881517,
+      "word": "翟欣欣一审获刑12年",
+      "onboard_time": 1758249621,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -33,6 +57,14 @@
       "onboard_time": 1758208943,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 833302,
+      "num": 833302,
+      "word": "震耳欲聋定档",
+      "onboard_time": 1758248242,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 811307,
@@ -59,12 +91,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 699712,
-      "num": 699712,
-      "word": "难听",
-      "onboard_time": 1758247521,
-      "rank": 4,
-      "category": "幽默"
+      "raw_hot": 706451,
+      "num": 423393,
+      "word": "周扬青说目前没人配得上我",
+      "onboard_time": 1758246021,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 696730,
@@ -113,6 +145,14 @@
       "onboard_time": 1758214159,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521396,
+      "num": 521396,
+      "word": "老人被曝用废弃空瓶灌水卖游客",
+      "onboard_time": 1758247882,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471820,
@@ -179,6 +219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326458,
+      "num": 326458,
+      "word": "山东入室抢婴案1人被判死缓",
+      "onboard_time": 1758250582,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315572,
+      "num": 252673,
+      "word": "韩国人称只有韩国吃饭用勺子",
+      "onboard_time": 1758249562,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 315301,
       "num": 172639,
       "word": "D4vd车厢藏尸死者失踪时仅13岁",
@@ -188,7 +244,7 @@
     },
     {
       "raw_hot": 314123,
-      "num": 222955,
+      "num": 246651,
       "word": "王骁发文力挺成毅",
       "onboard_time": 1758239301,
       "rank": 20,
@@ -291,20 +347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207427,
+      "num": 274184,
+      "word": "731日籍演员在中国演了20多年日军",
+      "onboard_time": 1758247821,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207148,
       "num": 246768,
       "word": "731票房一天3亿",
       "onboard_time": 1758205106,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206107,
-      "num": 206107,
-      "word": "周扬青说目前没人配得上我",
-      "onboard_time": 1758246021,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 204935,
@@ -315,12 +371,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200981,
+      "num": 200981,
+      "word": "WTT中国大满贯外卡及提名名单",
+      "onboard_time": 1758250761,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199656,
       "num": 199656,
       "word": "比伯海莉结婚未公开旧照",
       "onboard_time": 1758200783,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197419,
+      "num": 197419,
+      "word": "宋亚轩身体柔韧度强得可怕",
+      "onboard_time": 1758250281,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 185869,
@@ -331,20 +403,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181240,
+      "num": 181240,
+      "word": "彭昱畅对不起了向佐老师",
+      "onboard_time": 1758249801,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179839,
+      "num": 179839,
+      "word": "震耳欲聋",
+      "onboard_time": 1758248242,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175696,
       "num": 175696,
       "word": "易烊千玺垒石头效应",
       "onboard_time": 1758202824,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166521,
-      "num": 166521,
-      "word": "731日籍演员在中国演了20多年日军",
-      "onboard_time": 1758247821,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 163991,
@@ -403,12 +483,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150171,
+      "num": 155494,
+      "word": "刘嘉玲晒一路繁花合照",
+      "onboard_time": 1758246261,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145154,
       "num": 145154,
       "word": "外交部回应中企在赞比亚造成污染",
       "onboard_time": 1758240262,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142420,
+      "num": 222960,
+      "word": "4人入室抢婴案一审宣判",
+      "onboard_time": 1758247582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140780,
+      "num": 140780,
+      "word": "上班和不上班哪个花的多",
+      "onboard_time": 1758246502,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 136490,
@@ -419,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132414,
+      "num": 132414,
+      "word": "香港西九龙重案组",
+      "onboard_time": 1758250281,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129522,
       "num": 129522,
       "word": "iOS26受害者",
@@ -427,12 +539,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128413,
+      "num": 269393,
+      "word": "早餐还没送到iPhone17到了",
+      "onboard_time": 1758247401,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 126394,
+      "num": 126394,
+      "word": "918中国舰艇编队绕日本岛巡航",
+      "onboard_time": 1758249562,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124639,
       "num": 124639,
       "word": "必胜客店员回应橙汁确为果粒橙",
       "onboard_time": 1758205883,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121743,
+      "num": 121743,
+      "word": "詹姆斯说退役就快要来临",
+      "onboard_time": 1758249683,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 120484,
@@ -451,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118008,
+      "num": 118008,
+      "word": "光遇",
+      "onboard_time": 1758251061,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117620,
       "num": 117620,
       "word": "曾用10年退休金补仓的爷叔解套了",
@@ -465,6 +609,14 @@
       "onboard_time": 1758201684,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117128,
+      "num": 162814,
+      "word": "给浪姐们报个谢霆锋的班吧",
+      "onboard_time": 1758249862,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 116488,
@@ -507,28 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106316,
-      "num": 106316,
-      "word": "上班和不上班哪个花的多",
-      "onboard_time": 1758246502,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105500,
       "num": 105500,
       "word": "有酒店称房价被携程降价一倍多",
       "onboard_time": 1758246561,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102529,
-      "num": 155494,
-      "word": "刘嘉玲晒一路繁花合照",
-      "onboard_time": 1758246261,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 102260,
@@ -539,12 +675,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 101060,
-      "num": 101060,
-      "word": "老人被曝用废弃空瓶灌水卖游客",
-      "onboard_time": 1758247882,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 100373,
+      "num": 100373,
+      "word": "檀健次李淇反差感",
+      "onboard_time": 1758249621,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 99173,
@@ -585,6 +721,14 @@
       "onboard_time": 1758246619,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88902,
+      "num": 133968,
+      "word": "奥巴马说我不是总统冲我喊没用",
+      "onboard_time": 1758250882,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88896,
@@ -667,6 +811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80340,
+      "num": 165044,
+      "word": "华为广汽官宣新品牌启境汽车",
+      "onboard_time": 1758251061,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77617,
       "num": 91189,
       "word": "五彩模式的秋天又要来了",
@@ -747,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59827,
-      "num": 226142,
-      "word": "早餐还没送到iPhone17到了",
-      "onboard_time": 1758247401,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 59203,
       "num": 91105,
       "word": "张纪中跟1岁女儿同框像爷孙",
@@ -811,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49908,
+      "num": 262642,
+      "word": "华为天生会画大赛正式开启",
+      "onboard_time": 1758248301,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 49460,
       "num": 52412,
       "word": "鲍威尔不支持降息",
@@ -849,14 +1001,6 @@
       "onboard_time": 1758205222,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38593,
-      "num": 222960,
-      "word": "4人入室抢婴案一审宣判",
-      "onboard_time": 1758247582,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36940,

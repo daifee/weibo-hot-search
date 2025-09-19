@@ -1,0 +1,410 @@
+{
+  "runTime": 1758251158371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1618403,
+        "num": 1618403,
+        "word": "小米召回11.7万辆标准版SU7",
+        "onboard_time": 1758246441,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1310509,
+        "num": 1310509,
+        "word": "iPhone17Pro被黄牛拒收",
+        "onboard_time": 1758248420,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50117,
+        "num": 1070759,
+        "word": "公安部公布10起网络违法犯罪典型案例",
+        "onboard_time": 1758238458,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2849174,
+        "num": 1062027,
+        "word": "难听",
+        "onboard_time": 1758247521,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1030553,
+        "num": 1030553,
+        "word": "中方对表决结果非常失望",
+        "onboard_time": 1758241883,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 881517,
+        "num": 881517,
+        "word": "翟欣欣一审获刑12年",
+        "onboard_time": 1758249621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833302,
+        "num": 833302,
+        "word": "震耳欲聋定档",
+        "onboard_time": 1758248242,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 574772,
+        "num": 574772,
+        "word": "导演让刚出生女儿出演剖腹取婴镜头",
+        "onboard_time": 1758203184,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 521396,
+        "num": 521396,
+        "word": "老人被曝用废弃空瓶灌水卖游客",
+        "onboard_time": 1758247882,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430412,
+        "num": 430412,
+        "word": "香港黄金劫案",
+        "onboard_time": 1758179242,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706451,
+        "num": 423393,
+        "word": "周扬青说目前没人配得上我",
+        "onboard_time": 1758246021,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342622,
+        "num": 342622,
+        "word": "入局 郭麒麟宋祖儿",
+        "onboard_time": 1758244641,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329518,
+        "num": 329518,
+        "word": "19岁女子腹痛就诊后2小时分娩",
+        "onboard_time": 1758207444,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326458,
+        "num": 326458,
+        "word": "山东入室抢婴案1人被判死缓",
+        "onboard_time": 1758250582,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291034,
+        "num": 291034,
+        "word": "中国代表三问以色列美国",
+        "onboard_time": 1758244880,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277807,
+        "num": 277807,
+        "word": "女子否认怀孕影像检查2小时后分娩",
+        "onboard_time": 1758208643,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277367,
+        "num": 277367,
+        "word": "成毅拿剧本出镜算失误吗",
+        "onboard_time": 1758208524,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207427,
+        "num": 274184,
+        "word": "731日籍演员在中国演了20多年日军",
+        "onboard_time": 1758247821,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128413,
+        "num": 269393,
+        "word": "早餐还没送到iPhone17到了",
+        "onboard_time": 1758247401,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49908,
+        "num": 262642,
+        "word": "华为天生会画大赛正式开启",
+        "onboard_time": 1758248301,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 315572,
+        "num": 252673,
+        "word": "韩国人称只有韩国吃饭用勺子",
+        "onboard_time": 1758249562,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251303,
+        "num": 251303,
+        "word": "李在明相信特朗普在开玩笑",
+        "onboard_time": 1758241941,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246651,
+        "num": 246651,
+        "word": "王骁发文力挺成毅",
+        "onboard_time": 1758239301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200981,
+        "num": 200981,
+        "word": "WTT中国大满贯外卡及提名名单",
+        "onboard_time": 1758250761,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197419,
+        "num": 197419,
+        "word": "宋亚轩身体柔韧度强得可怕",
+        "onboard_time": 1758250281,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181240,
+        "num": 181240,
+        "word": "彭昱畅对不起了向佐老师",
+        "onboard_time": 1758249801,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179839,
+        "num": 179839,
+        "word": "震耳欲聋",
+        "onboard_time": 1758248242,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179132,
+        "num": 179132,
+        "word": "李嘉欣每个月可以领200万港币的生活费",
+        "onboard_time": 1758214159,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80340,
+        "num": 165044,
+        "word": "华为广汽官宣新品牌启境汽车",
+        "onboard_time": 1758251061,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117128,
+        "num": 162814,
+        "word": "给浪姐们报个谢霆锋的班吧",
+        "onboard_time": 1758249862,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162707,
+        "num": 162707,
+        "word": "香港黄金盗窃案13人被捕",
+        "onboard_time": 1758238639,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161985,
+        "num": 161985,
+        "word": "白化病姑娘被同学夸发色好看",
+        "onboard_time": 1758240321,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151419,
+        "num": 151419,
+        "word": "iPhone17",
+        "onboard_time": 1758246561,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150171,
+        "num": 150171,
+        "word": "刘嘉玲晒一路繁花合照",
+        "onboard_time": 1758246261,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144512,
+        "num": 144512,
+        "word": "白衣公卿",
+        "onboard_time": 1758240382,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142420,
+        "num": 142420,
+        "word": "4人入室抢婴案一审宣判",
+        "onboard_time": 1758247582,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140780,
+        "num": 140780,
+        "word": "上班和不上班哪个花的多",
+        "onboard_time": 1758246502,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137551,
+        "num": 137551,
+        "word": "电影731导演妻子发声",
+        "onboard_time": 1758246919,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135579,
+        "num": 135579,
+        "word": "骑车人被撞该不该谁违规谁负责",
+        "onboard_time": 1758242842,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88902,
+        "num": 133968,
+        "word": "奥巴马说我不是总统冲我喊没用",
+        "onboard_time": 1758250882,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132414,
+        "num": 132414,
+        "word": "香港西九龙重案组",
+        "onboard_time": 1758250281,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128476,
+        "num": 128476,
+        "word": "各大奶茶最好喝的一杯",
+        "onboard_time": 1758205585,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126394,
+        "num": 126394,
+        "word": "918中国舰艇编队绕日本岛巡航",
+        "onboard_time": 1758249562,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123628,
+        "num": 123628,
+        "word": "17号台风后18号19号也快了",
+        "onboard_time": 1758210083,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121743,
+        "num": 121743,
+        "word": "詹姆斯说退役就快要来临",
+        "onboard_time": 1758249683,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118008,
+        "num": 118008,
+        "word": "光遇",
+        "onboard_time": 1758251061,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113899,
+        "num": 113899,
+        "word": "2025空军航空开放活动剧透来了",
+        "onboard_time": 1758245480,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 100373,
+        "num": 100373,
+        "word": "檀健次李淇反差感",
+        "onboard_time": 1758249621,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99154,
+        "num": 99154,
+        "word": "蔡依林自曝患蛇缠腰后才早睡",
+        "onboard_time": 1758184524,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97081,
+        "num": 97081,
+        "word": "法考成绩",
+        "onboard_time": 1758208943,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗战纪念活动是生动的爱国主义教材#"
+    }
+  }
+}

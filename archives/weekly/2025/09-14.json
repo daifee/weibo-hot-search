@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758247968926,
+  "endTime": 1758251158371,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -81,6 +81,14 @@
       "onboard_time": 1757903181,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2849174,
+      "num": 1062027,
+      "word": "难听",
+      "onboard_time": 1758247521,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 2710877,
@@ -569,6 +577,14 @@
       "onboard_time": 1758159440,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1310509,
+      "num": 1310509,
+      "word": "iPhone17Pro被黄牛拒收",
+      "onboard_time": 1758248420,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1307674,
@@ -1139,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 881517,
+      "num": 881517,
+      "word": "翟欣欣一审获刑12年",
+      "onboard_time": 1758249621,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 878237,
       "num": 878237,
       "word": "iPhone18Pro已打样",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1757823201,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 833302,
+      "num": 833302,
+      "word": "震耳欲聋定档",
+      "onboard_time": 1758248242,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 826241,
@@ -1603,6 +1635,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 706451,
+      "num": 423393,
+      "word": "周扬青说目前没人配得上我",
+      "onboard_time": 1758246021,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706439,
       "num": 346358,
       "word": "北京二环内的独栋别墅",
@@ -1625,14 +1665,6 @@
       "onboard_time": 1758116484,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 699712,
-      "num": 699712,
-      "word": "难听",
-      "onboard_time": 1758247521,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 698417,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1757805198,
       "rank": 30,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 521396,
+      "num": 521396,
+      "word": "老人被曝用废弃空瓶灌水卖游客",
+      "onboard_time": 1758247882,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 519183,
@@ -3859,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326458,
+      "num": 326458,
+      "word": "山东入室抢婴案1人被判死缓",
+      "onboard_time": 1758250582,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325351,
       "num": 325351,
       "word": "我家那闺女",
@@ -3971,6 +4019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 315572,
+      "num": 252673,
+      "word": "韩国人称只有韩国吃饭用勺子",
+      "onboard_time": 1758249562,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 315528,
       "num": 291448,
       "word": "黄金",
@@ -3996,7 +4052,7 @@
     },
     {
       "raw_hot": 314123,
-      "num": 222955,
+      "num": 246651,
       "word": "王骁发文力挺成毅",
       "onboard_time": 1758239301,
       "rank": 20,
@@ -5723,20 +5779,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207427,
+      "num": 274184,
+      "word": "731日籍演员在中国演了20多年日军",
+      "onboard_time": 1758247821,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206999,
       "num": 206999,
       "word": "女子从小攒指甲卖给专门回收者",
       "onboard_time": 1757906782,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206107,
-      "num": 206107,
-      "word": "周扬青说目前没人配得上我",
-      "onboard_time": 1758246021,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 206060,
@@ -5913,6 +5969,14 @@
       "onboard_time": 1757805379,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200981,
+      "num": 200981,
+      "word": "WTT中国大满贯外卡及提名名单",
+      "onboard_time": 1758250761,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 200970,
@@ -6103,6 +6167,14 @@
       "num": 142681,
       "word": "董璇张维伊吵架好真实",
       "onboard_time": 1757777423,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197419,
+      "num": 197419,
+      "word": "宋亚轩身体柔韧度强得可怕",
+      "onboard_time": 1758250281,
       "rank": 24,
       "category": "综艺"
     },
@@ -6931,6 +7003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181240,
+      "num": 181240,
+      "word": "彭昱畅对不起了向佐老师",
+      "onboard_time": 1758249801,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180946,
       "num": 180946,
       "word": "邪修月饼只需一秒就够了",
@@ -7649,14 +7729,6 @@
       "onboard_time": 1758095362,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166521,
-      "num": 166521,
-      "word": "731日籍演员在中国演了20多年日军",
-      "onboard_time": 1758247821,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 166249,
@@ -8795,6 +8867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150171,
+      "num": 155494,
+      "word": "刘嘉玲晒一路繁花合照",
+      "onboard_time": 1758246261,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150133,
       "num": 150133,
       "word": "iOS26",
@@ -9435,6 +9515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142420,
+      "num": 222960,
+      "word": "4人入室抢婴案一审宣判",
+      "onboard_time": 1758247582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142402,
       "num": 327815,
       "word": "教育局回应中学强制女生剪斜面短发",
@@ -9585,6 +9673,14 @@
       "onboard_time": 1757853085,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140780,
+      "num": 140780,
+      "word": "上班和不上班哪个花的多",
+      "onboard_time": 1758246502,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 140557,
@@ -10275,6 +10371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132414,
+      "num": 132414,
+      "word": "香港西九龙重案组",
+      "onboard_time": 1758250281,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132341,
       "num": 132341,
       "word": "韩红嘉宾林俊杰孙燕姿",
@@ -10611,6 +10715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128413,
+      "num": 269393,
+      "word": "早餐还没送到iPhone17到了",
+      "onboard_time": 1758247401,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128350,
       "num": 175839,
       "word": "电影731最小演员不到半个月",
@@ -10801,6 +10913,14 @@
       "onboard_time": 1758196221,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126394,
+      "num": 126394,
+      "word": "918中国舰艇编队绕日本岛巡航",
+      "onboard_time": 1758249562,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126330,
@@ -11193,6 +11313,14 @@
       "onboard_time": 1757945604,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121743,
+      "num": 121743,
+      "word": "詹姆斯说退役就快要来临",
+      "onboard_time": 1758249683,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 121710,
@@ -11689,6 +11817,14 @@
       "onboard_time": 1757827163,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117128,
+      "num": 162814,
+      "word": "给浪姐们报个谢霆锋的班吧",
+      "onboard_time": 1758249862,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 117054,
@@ -12635,14 +12771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106316,
-      "num": 106316,
-      "word": "上班和不上班哪个花的多",
-      "onboard_time": 1758246502,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106208,
       "num": 137107,
       "word": "刘宇宁新歌",
@@ -13019,14 +13147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102529,
-      "num": 155494,
-      "word": "刘嘉玲晒一路繁花合照",
-      "onboard_time": 1758246261,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102488,
       "num": 102488,
       "word": "朱迅状态",
@@ -13219,14 +13339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101060,
-      "num": 101060,
-      "word": "老人被曝用废弃空瓶灌水卖游客",
-      "onboard_time": 1758247882,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100988,
       "num": 141208,
       "word": "偷40万男子骑一辆童车逃跑",
@@ -13297,6 +13409,14 @@
       "onboard_time": 1758080663,
       "rank": 49,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 100373,
+      "num": 100373,
+      "word": "檀健次李淇反差感",
+      "onboard_time": 1758249621,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 100311,
@@ -14163,6 +14283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88902,
+      "num": 133968,
+      "word": "奥巴马说我不是总统冲我喊没用",
+      "onboard_time": 1758250882,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88796,
       "num": 227574,
       "word": "正厅级孙永红任上被查",
@@ -14553,6 +14681,14 @@
       "onboard_time": 1757831183,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80340,
+      "num": 165044,
+      "word": "华为广汽官宣新品牌启境汽车",
+      "onboard_time": 1758251061,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 80237,
@@ -15467,14 +15603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59827,
-      "num": 226142,
-      "word": "早餐还没送到iPhone17到了",
-      "onboard_time": 1758247401,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 59819,
       "num": 407046,
       "word": "XG先下一城",
@@ -15905,6 +16033,14 @@
       "onboard_time": 1757946205,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49908,
+      "num": 262642,
+      "word": "华为天生会画大赛正式开启",
+      "onboard_time": 1758248301,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 49770,
@@ -16376,14 +16512,6 @@
       "word": "3名间谍冒充外卖员钓鱼佬",
       "onboard_time": 1757913802,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38593,
-      "num": 222960,
-      "word": "4人入室抢婴案一审宣判",
-      "onboard_time": 1758247582,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
