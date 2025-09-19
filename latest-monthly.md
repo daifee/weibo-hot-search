@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 06:39:00
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 07:21:56
 </p>
 </blockquote>
 <p>
@@ -4191,6 +4191,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾地震（热度：725518）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E8%BF%BD%E6%98%9F%E9%A2%91%E7%B9%81%E6%9F%93%E5%8F%91%E6%82%A3%E8%82%BE%E7%97%85%23" target="weibo">
 00后女生追星频繁染发患肾病（热度：725261）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%8F%AD%E5%9B%A0%E9%9B%B7%E9%9B%A8%E5%A4%A9%E5%A4%87%E9%99%8D%E5%A4%AA%E5%8E%9F%E5%BC%95%E4%B9%98%E5%AE%A2%E4%B8%8B%E8%B7%AA%23" target="weibo">
 航班因雷雨天备降太原引乘客下跪（热度：540146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
-校方回应强制女生剪斜面短发（热度：538997）
 </a>
 </li>
 
