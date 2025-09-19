@@ -1,7 +1,15 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758238595688,
+  "endTime": 1758246679597,
   "band_list": [
+    {
+      "raw_hot": 1951581,
+      "num": 1951581,
+      "word": "中方对表决结果非常失望",
+      "onboard_time": 1758241883,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1016863,
       "num": 1016863,
@@ -27,6 +35,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 809539,
+      "num": 809539,
+      "word": "李在明相信特朗普在开玩笑",
+      "onboard_time": 1758241941,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 742508,
       "num": 928801,
       "word": "日本绑架近千名中国人赴日做苦役",
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 696730,
-      "num": 279137,
+      "num": 358308,
       "word": "19岁女子腹痛就诊后2小时分娩",
       "onboard_time": 1758207444,
       "rank": 10,
@@ -51,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 614693,
+      "num": 614693,
+      "word": "香港黄金盗窃案13人被捕",
+      "onboard_time": 1758238639,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588216,
       "num": 588216,
       "word": "成毅拿剧本出镜算失误吗",
@@ -59,12 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 584222,
+      "num": 584222,
+      "word": "入局 郭麒麟宋祖儿",
+      "onboard_time": 1758244641,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 583592,
-      "num": 192334,
+      "num": 359082,
       "word": "李嘉欣每个月可以领200万港币的生活费",
       "onboard_time": 1758214159,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471820,
+      "num": 471820,
+      "word": "中国代表三问以色列美国",
+      "onboard_time": 1758244880,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 441437,
@@ -83,8 +123,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424815,
+      "num": 424815,
+      "word": "白化病姑娘被同学夸发色好看",
+      "onboard_time": 1758240321,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422175,
-      "num": 253736,
+      "num": 331568,
       "word": "蔡依林自曝患蛇缠腰后才早睡",
       "onboard_time": 1758184524,
       "rank": 13,
@@ -107,12 +155,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 347259,
+      "num": 347259,
+      "word": "女子否认怀孕影像检查2小时后分娩",
+      "onboard_time": 1758208643,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315301,
       "num": 172639,
       "word": "D4vd车厢藏尸死者失踪时仅13岁",
       "onboard_time": 1758225494,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 314123,
+      "num": 200511,
+      "word": "王骁发文力挺成毅",
+      "onboard_time": 1758239301,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 309348,
@@ -131,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300316,
+      "num": 300316,
+      "word": "白衣公卿",
+      "onboard_time": 1758240382,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286714,
       "num": 286714,
       "word": "法考",
@@ -147,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270595,
-      "num": 179721,
-      "word": "女子否认怀孕影像检查2小时后分娩",
-      "onboard_time": 1758208643,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 270415,
+      "num": 360633,
+      "word": "2025空军航空开放活动剧透来了",
+      "onboard_time": 1758245480,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 253175,
@@ -219,6 +291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189095,
+      "num": 189095,
+      "word": "小米召回11.7万辆标准版SU7",
+      "onboard_time": 1758246441,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 185869,
+      "num": 185869,
+      "word": "两名以色列人被枪击死亡",
+      "onboard_time": 1758240622,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175696,
       "num": 175696,
       "word": "易烊千玺垒石头效应",
@@ -235,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162142,
+      "num": 162142,
+      "word": "骑车人被撞该不该谁违规谁负责",
+      "onboard_time": 1758242842,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160895,
       "num": 160895,
       "word": "用拖鞋搅奶茶员工上岗不到1小时",
@@ -243,11 +339,43 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155256,
+      "num": 155256,
+      "word": "日方代表回应侵华闪烁其词被当场驳斥",
+      "onboard_time": 1758242842,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153382,
       "num": 153382,
       "word": "马克龙将提交证据证明妻子是女性",
       "onboard_time": 1758207620,
       "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 145154,
+      "num": 145154,
+      "word": "外交部回应中企在赞比亚造成污染",
+      "onboard_time": 1758240262,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 143528,
+      "num": 143528,
+      "word": "李一桐掉牙照被做成白云表情包",
+      "onboard_time": 1758245182,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136490,
+      "num": 136490,
+      "word": "美国再一票否决安理会加沙决议",
+      "onboard_time": 1758240741,
+      "rank": 28,
       "category": "国际时政"
     },
     {
@@ -267,12 +395,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121679,
+      "num": 121679,
+      "word": "周扬青说目前没人配得上我",
+      "onboard_time": 1758246021,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120484,
       "num": 248005,
       "word": "绿捷虾仁炒蛋一周内出具检验结果",
       "onboard_time": 1758210083,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 119694,
+      "num": 119694,
+      "word": "我将不会再买放不下手机的衣服了",
+      "onboard_time": 1758240622,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 119532,
+      "num": 119532,
+      "word": "iPhone17",
+      "onboard_time": 1758246561,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 117620,
@@ -323,12 +475,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105500,
+      "num": 105500,
+      "word": "有酒店称房价被携程降价一倍多",
+      "onboard_time": 1758246561,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99173,
+      "num": 99173,
+      "word": "苹果计算器复制 四舍五入",
+      "onboard_time": 1758245840,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 95509,
+      "num": 95509,
+      "word": "刘嘉玲晒一路繁花合照",
+      "onboard_time": 1758246261,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91197,
       "num": 91197,
       "word": "多人因忘关闭自动续费被扣数千元",
       "onboard_time": 1758198562,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90229,
+      "num": 90229,
+      "word": "村民一早被以军叫醒拆家",
+      "onboard_time": 1758246619,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88896,
@@ -339,12 +523,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88735,
+      "num": 88735,
+      "word": "台风",
+      "onboard_time": 1758240262,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88400,
       "num": 91165,
       "word": "湖南一学校将公厕改成宿舍",
       "onboard_time": 1758203304,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86274,
+      "num": 103578,
+      "word": "西班牙主持人对内塔尼亚胡竖中指",
+      "onboard_time": 1758246441,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83655,
+      "num": 83655,
+      "word": "俄堪察加近海7.8级地震",
+      "onboard_time": 1758240622,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83233,
@@ -355,12 +563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82613,
+      "num": 82613,
+      "word": "Faker晋级S15",
+      "onboard_time": 1758243741,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80993,
       "num": 85198,
       "word": "陈佩斯为电影731包场30场",
       "onboard_time": 1758234436,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 80904,
+      "num": 80904,
+      "word": "美国3名警察被枪杀",
+      "onboard_time": 1758241883,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77617,
@@ -491,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51896,
+      "num": 777022,
+      "word": "公安部公布10起网络违法犯罪典型案例",
+      "onboard_time": 1758238458,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49460,
       "num": 52412,
       "word": "鲍威尔不支持降息",
@@ -601,14 +833,6 @@
       "onboard_time": 1758224655,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10366,
-      "num": 630791,
-      "word": "公安部公布10起网络违法犯罪典型案例",
-      "onboard_time": 1758238458,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
