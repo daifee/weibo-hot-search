@@ -1,6 +1,6 @@
 {
   "startTime": 1758213084519,
-  "endTime": 1758274039971,
+  "endTime": 1758274807964,
   "band_list": [
     {
       "raw_hot": 3071146,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 855727,
-      "num": 855727,
+      "num": 1126811,
       "word": "最适合穷游的三个城市",
       "onboard_time": 1758267922,
       "rank": 11,
@@ -763,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208956,
+      "num": 208956,
+      "word": "埃及3000年前金镯被熔卖了不到3万元",
+      "onboard_time": 1758272360,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 207713,
       "num": 207713,
       "word": "令人心动的offer",
@@ -843,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198557,
+      "num": 222585,
+      "word": "山东高院回应农妇辱骂法官被罚10万",
+      "onboard_time": 1758272902,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198030,
       "num": 198030,
       "word": "49元爆火窜稀酸奶成新型泻药",
@@ -881,6 +897,22 @@
       "onboard_time": 1758252322,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194806,
+      "num": 194806,
+      "word": "春秋航空又省又赚半年挣了11亿",
+      "onboard_time": 1758273622,
+      "rank": 27,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 194021,
+      "num": 220960,
+      "word": "以为马思纯张晚意抱一起了",
+      "onboard_time": 1758274642,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 191758,
@@ -955,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177705,
-      "num": 177705,
-      "word": "山东高院回应农妇辱骂法官被罚10万",
-      "onboard_time": 1758272902,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175696,
       "num": 175696,
       "word": "易烊千玺垒石头效应",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1758273202,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172788,
+      "num": 150928,
+      "word": "男子花16年用打字机从一打到一百万",
+      "onboard_time": 1758271942,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164818,
@@ -1107,14 +1139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158261,
-      "num": 158261,
-      "word": "春秋航空又省又赚半年挣了11亿",
-      "onboard_time": 1758273622,
-      "rank": 27,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 157025,
       "num": 157025,
       "word": "孙俪后背都是爱我的形状",
@@ -1195,14 +1219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 152770,
-      "num": 152770,
-      "word": "埃及3000年前金镯被熔卖了不到3万元",
-      "onboard_time": 1758272360,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 152421,
       "num": 148139,
       "word": "ymy演的是男一",
@@ -1211,12 +1227,12 @@
       "category": "电竞,剧集"
     },
     {
-      "raw_hot": 150928,
-      "num": 150928,
-      "word": "男子花16年用打字机从一打到一百万",
-      "onboard_time": 1758271942,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 151719,
+      "num": 171691,
+      "word": "朴槿惠与李明博时隔12年再会",
+      "onboard_time": 1758272842,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150765,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1758254963,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146904,
+      "num": 139447,
+      "word": "被我妈的入境申报单笑晕了",
+      "onboard_time": 1758271523,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 146863,
@@ -1363,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139285,
+      "num": 139285,
+      "word": "特朗普拒绝批准4亿美元对台军售",
+      "onboard_time": 1758274402,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139208,
       "num": 139208,
       "word": "曾凡博确认出战篮网队中国赛",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1758263542,
       "rank": 40,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 137109,
+      "num": 139654,
+      "word": "2025F1阿塞拜疆大奖赛",
+      "onboard_time": 1758274342,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 136490,
@@ -1448,6 +1488,14 @@
       "word": "早餐还没送到iPhone17到了",
       "onboard_time": 1758247401,
       "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 127453,
+      "num": 127453,
+      "word": "iPhone17Pro首批用户反馈品控",
+      "onboard_time": 1758272421,
+      "rank": 42,
       "category": "数码"
     },
     {
@@ -1537,14 +1585,6 @@
       "onboard_time": 1758249683,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120835,
-      "num": 120835,
-      "word": "iPhone17Pro首批用户反馈品控",
-      "onboard_time": 1758272421,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 120484,
@@ -1699,20 +1739,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 110311,
-      "num": 110311,
-      "word": "被我妈的入境申报单笑晕了",
-      "onboard_time": 1758271523,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110057,
       "num": 234461,
       "word": "时代少年团飞行向往的生活",
       "onboard_time": 1758263662,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110052,
+      "num": 110052,
+      "word": "潮玩星球 罗小黑",
+      "onboard_time": 1758274402,
+      "rank": 40,
+      "category": "动漫,休闲"
     },
     {
       "raw_hot": 109409,
@@ -1739,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108179,
+      "num": 124599,
+      "word": "男子给亲哥打8张欠条还钱变10张",
+      "onboard_time": 1758273383,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107729,
       "num": 107729,
       "word": "徐静雨追梦格林同框",
@@ -1753,6 +1801,14 @@
       "onboard_time": 1758273502,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 107391,
+      "num": 105202,
+      "word": "释永信案多人协助调查",
+      "onboard_time": 1758274223,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106598,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1758245840,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 93071,
-      "num": 171691,
-      "word": "朴槿惠与李明博时隔12年再会",
-      "onboard_time": 1758272842,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 92338,
@@ -1929,14 +1977,6 @@
       "onboard_time": 1758258442,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84256,
-      "num": 124599,
-      "word": "男子给亲哥打8张欠条还钱变10张",
-      "onboard_time": 1758273383,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83655,
@@ -2041,6 +2081,14 @@
       "onboard_time": 1758259882,
       "rank": 44,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 71996,
+      "num": 140294,
+      "word": "红旗携手歼35A见证大国底气",
+      "onboard_time": 1758273983,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 68374,
@@ -2177,14 +2225,6 @@
       "onboard_time": 1758214877,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51298,
-      "num": 129179,
-      "word": "红旗携手歼35A见证大国底气",
-      "onboard_time": 1758273983,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 49908,
@@ -2395,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26482,
+      "num": 110136,
+      "word": "入室抢婴案主犯被判死缓大骂受害人",
+      "onboard_time": 1758274522,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25710,
       "num": 45271,
       "word": "于适现身吴天明青年电影展",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1758270922,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24504,
+      "num": 95524,
+      "word": "打卡我担同款Ami限时店",
+      "onboard_time": 1758274402,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 23962,
