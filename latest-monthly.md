@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/19 23:39:36
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 00:30:25
 </p>
 </blockquote>
 <p>
@@ -1373,6 +1373,12 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E9%95%BF%E6%88%B4%E6%89%8B%E8%A1%A8%E5%92%8C%E6%89%8B%E9%93%BE%E4%B8%8B%E5%8E%A8%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
 西贝厨师长戴手表和手链下厨引热议（热度：1480193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%88%86%E6%B2%A1%E5%88%86%E6%9D%A8%E8%BF%AA%E4%BD%A0%E5%80%92%E6%98%AF%E9%97%AE%E5%95%8A%23" target="weibo">
+关晓彤分没分杨迪你倒是问啊（热度：1479033）
 </a>
 </li>
 
@@ -4181,12 +4187,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%9C%A8%E4%BC%91%E6%81%AF%E5%85%B6%E5%AE%9E%E6%9C%80%E8%80%97%E6%B0%94%E8%A1%80%23" target="weibo">
 你以为在休息其实最耗气血（热度：728415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%88%86%E6%B2%A1%E5%88%86%E6%9D%A8%E8%BF%AA%E4%BD%A0%E5%80%92%E6%98%AF%E9%97%AE%E5%95%8A%23" target="weibo">
-关晓彤分没分杨迪你倒是问啊（热度：725818）
 </a>
 </li>
 
