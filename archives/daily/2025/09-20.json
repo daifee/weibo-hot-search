@@ -1,7 +1,15 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758324116388,
+  "endTime": 1758324988492,
   "band_list": [
+    {
+      "raw_hot": 2540171,
+      "num": 2540171,
+      "word": "台湾地震",
+      "onboard_time": 1758324018,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 1487626,
       "num": 162743,
@@ -17,14 +25,6 @@
       "onboard_time": 1758291563,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 725518,
-      "num": 817489,
-      "word": "台湾地震",
-      "onboard_time": 1758324018,
-      "rank": 0,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 542467,
@@ -83,28 +83,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260197,
-      "num": 260197,
-      "word": "琅琊榜",
-      "onboard_time": 1758283402,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258415,
-      "num": 258415,
+      "raw_hot": 298682,
+      "num": 298682,
       "word": "俄女子10万卢布出卖灵魂买拉布布",
       "onboard_time": 1758285081,
       "rank": 8,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 231102,
-      "num": 125675,
+      "raw_hot": 263887,
+      "num": 137959,
       "word": "刘涛说下海原来是真的",
       "onboard_time": 1758294323,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260197,
+      "num": 260197,
+      "word": "琅琊榜",
+      "onboard_time": 1758283402,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 225816,
@@ -115,7 +115,15 @@
       "category": "数码"
     },
     {
-      "raw_hot": 197817,
+      "raw_hot": 212179,
+      "num": 212179,
+      "word": "福建震感",
+      "onboard_time": 1758324678,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206954,
       "num": 161875,
       "word": "被老板强奸女高管老公回应",
       "onboard_time": 1758259403,
@@ -123,8 +131,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179153,
-      "num": 179153,
+      "raw_hot": 191881,
+      "num": 191881,
       "word": "宾馆保洁员佩戴金饰遭住客劫杀",
       "onboard_time": 1758294443,
       "rank": 17,
@@ -137,6 +145,14 @@
       "onboard_time": 1758293604,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161305,
+      "num": 161305,
+      "word": "医院就诊被拍视频发网上",
+      "onboard_time": 1758287483,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159090,
@@ -171,20 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152875,
-      "num": 152875,
-      "word": "医院就诊被拍视频发网上",
-      "onboard_time": 1758287483,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146236,
       "num": 146236,
       "word": "祖本杀猪盘人犯作法自毙",
       "onboard_time": 1758318314,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141514,
+      "num": 141514,
+      "word": "一张绝美的脸背后是一张更美的脸",
+      "onboard_time": 1758300319,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139738,
@@ -211,20 +227,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 128371,
-      "num": 128371,
-      "word": "一张绝美的脸背后是一张更美的脸",
-      "onboard_time": 1758300319,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 124772,
       "num": 124772,
       "word": "EDG告别巴黎全球冠军赛",
       "onboard_time": 1758304097,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122287,
+      "num": 99606,
+      "word": "韩国核电站发生泄漏事故",
+      "onboard_time": 1758324740,
+      "rank": 21,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 121595,
@@ -283,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99525,
+      "num": 99525,
+      "word": "身体5个部位疼可能是心梗前兆",
+      "onboard_time": 1758324740,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98367,
       "num": 127685,
       "word": "越南人靠去过上海炫富",
@@ -321,6 +345,14 @@
       "onboard_time": 1758281122,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85029,
+      "num": 85029,
+      "word": "张一山新剧这一刀直戳心窝子",
+      "onboard_time": 1758322157,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 84498,
@@ -404,19 +436,11 @@
     },
     {
       "raw_hot": 68129,
-      "num": 68129,
+      "num": 73067,
       "word": "老太病逝出租房房东索赔3千被拒",
       "onboard_time": 1758284903,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67793,
-      "num": 67793,
-      "word": "张一山新剧这一刀直戳心窝子",
-      "onboard_time": 1758322157,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 62681,
@@ -459,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57997,
+      "num": 73154,
+      "word": "论山东给周杰伦的排面",
+      "onboard_time": 1758324740,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 57531,
       "num": 99058,
       "word": "谢霆锋偷偷看粉丝评论",
@@ -491,12 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47880,
+      "raw_hot": 51450,
       "num": 79042,
       "word": "宋轶素颜健身照",
       "onboard_time": 1758284483,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48770,
+      "num": 72893,
+      "word": "731",
+      "onboard_time": 1758323958,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 45451,
@@ -507,20 +547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44007,
+      "num": 72805,
+      "word": "唐国强说哪吒就是比真人演的票房高",
+      "onboard_time": 1758324740,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43592,
-      "num": 63511,
+      "num": 72751,
       "word": "西蓝花最好蒸着吃",
       "onboard_time": 1758322940,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 42158,
-      "num": 63508,
-      "word": "731",
-      "onboard_time": 1758323958,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 41497,
@@ -529,6 +569,14 @@
       "onboard_time": 1758302897,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36588,
+      "num": 72636,
+      "word": "曾志伟坚定TVB内容为王永不没落",
+      "onboard_time": 1758305236,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 36386,
@@ -545,14 +593,6 @@
       "onboard_time": 1758294743,
       "rank": 49,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 31420,
-      "num": 63502,
-      "word": "曾志伟坚定TVB内容为王永不没落",
-      "onboard_time": 1758305236,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 29332,
@@ -579,8 +619,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24387,
-      "num": 32511,
+      "raw_hot": 27733,
+      "num": 140637,
       "word": "就诊被拍视频发网上女子发声",
       "onboard_time": 1758297981,
       "rank": 39,

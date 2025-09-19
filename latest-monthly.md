@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 07:21:56
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 07:36:28
 </p>
 </blockquote>
 <p>
@@ -431,6 +431,12 @@ iPhone17系列价格（热度：3052336）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E8%AE%B8%E5%87%AF%E8%A2%AB%E6%9B%9D%E9%95%BF%E6%9C%9F%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A%23" target="weibo">
 警方回应许凯被曝长期聚众赌博（热度：2542164）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾地震（热度：2540171）
 </a>
 </li>
 
@@ -4187,12 +4193,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%9C%A8%E4%BC%91%E6%81%AF%E5%85%B6%E5%AE%9E%E6%9C%80%E8%80%97%E6%B0%94%E8%A1%80%23" target="weibo">
 你以为在休息其实最耗气血（热度：728415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
-台湾地震（热度：725518）
 </a>
 </li>
 
