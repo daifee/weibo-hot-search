@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758393763437,
+  "endTime": 1758395865216,
   "band_list": [
     {
       "raw_hot": 2613697,
@@ -497,6 +497,14 @@
       "onboard_time": 1758375445,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20878,
+      "num": 34556,
+      "word": "动物园回应小象宝宝不会用鼻子",
+      "onboard_time": 1758394455,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
