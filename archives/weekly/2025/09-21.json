@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758410506146,
+  "endTime": 1758411402744,
   "band_list": [
     {
       "raw_hot": 2613697,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665663,
+      "num": 168619,
+      "word": "王琳儿子首次出镜",
+      "onboard_time": 1758409758,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652578,
       "num": 223613,
       "word": "以色列清退中国工人",
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614891,
+      "num": 908382,
+      "word": "郑钧刘芸两个魔丸生出了一个灵珠",
+      "onboard_time": 1758409758,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493543,
       "num": 493543,
       "word": "网红被指在龟展上搞擦边",
@@ -89,22 +105,6 @@
       "onboard_time": 1758365843,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 456762,
-      "num": 152967,
-      "word": "王琳儿子首次出镜",
-      "onboard_time": 1758409758,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 435392,
-      "num": 435392,
-      "word": "郑钧刘芸两个魔丸生出了一个灵珠",
-      "onboard_time": 1758409758,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 404966,
@@ -137,6 +137,14 @@
       "onboard_time": 1758369862,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284161,
+      "num": 164918,
+      "word": "王俊凯26岁生日照",
+      "onboard_time": 1758410598,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 280494,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200934,
+      "num": 160800,
+      "word": "丞磊曾舜晞给白鹿买生日蛋糕",
+      "onboard_time": 1758409816,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199479,
       "num": 199479,
       "word": "白鹿直播",
@@ -209,6 +225,14 @@
       "onboard_time": 1758378443,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158941,
+      "num": 158941,
+      "word": "大爷卖水卖到周杰伦演唱会现场",
+      "onboard_time": 1758410058,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 156471,
@@ -267,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121978,
+      "num": 121978,
+      "word": "始祖鸟的烟花劝退了真正的户外人",
+      "onboard_time": 1758373283,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121807,
       "num": 121807,
       "word": "韩国女子说支持以色列遭吐口水",
@@ -281,14 +313,6 @@
       "onboard_time": 1758384801,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114100,
-      "num": 114100,
-      "word": "始祖鸟的烟花劝退了真正的户外人",
-      "onboard_time": 1758373283,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113861,
@@ -331,12 +355,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 96441,
-      "num": 96441,
-      "word": "丞磊曾舜晞给白鹿买生日蛋糕",
-      "onboard_time": 1758409816,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 96335,
+      "num": 96335,
+      "word": "植物学博士谈始祖鸟烟花秀事件",
+      "onboard_time": 1758379284,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95956,
@@ -347,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92430,
+      "num": 92430,
+      "word": "烟花事件日喀则已成立调查组",
+      "onboard_time": 1758410598,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92392,
       "num": 92392,
       "word": "杨博文跳舞",
@@ -355,20 +387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88825,
+      "num": 88825,
+      "word": "官方通报蔡国强烟花秀",
+      "onboard_time": 1758411318,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87849,
       "num": 89304,
       "word": "华晨宇唱着唱着被举起来了",
       "onboard_time": 1758381683,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 87633,
-      "num": 89489,
-      "word": "植物学博士谈始祖鸟烟花秀事件",
-      "onboard_time": 1758379284,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87566,
@@ -411,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80572,
+      "num": 106906,
+      "word": "可惜我叫谢霆锋 不叫谢停雨",
+      "onboard_time": 1758410058,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 80384,
       "num": 89404,
       "word": "李兰陵结婚",
@@ -427,12 +467,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78766,
-      "num": 78766,
+      "raw_hot": 79840,
+      "num": 79839,
+      "word": "动物园回应小象宝宝不会用鼻子",
+      "onboard_time": 1758394455,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79261,
+      "num": 79841,
       "word": "6个人里有7个人不对劲",
       "onboard_time": 1758370882,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77268,
+      "num": 77268,
+      "word": "日喀则通报烟花事件",
+      "onboard_time": 1758410897,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72799,
@@ -451,11 +507,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 67196,
-      "num": 77298,
-      "word": "大爷卖水卖到周杰伦演唱会现场",
-      "onboard_time": 1758410058,
-      "rank": 19,
+      "raw_hot": 69277,
+      "num": 69277,
+      "word": "隔壁老樊演唱会",
+      "onboard_time": 1758375685,
+      "rank": 29,
       "category": "演出"
     },
     {
@@ -467,12 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 61097,
-      "num": 61097,
-      "word": "动物园回应小象宝宝不会用鼻子",
-      "onboard_time": 1758394455,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 65872,
+      "num": 65872,
+      "word": "委内瑞拉谴责美国不宣而战",
+      "onboard_time": 1758381204,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58978,
@@ -483,28 +539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56675,
-      "num": 56675,
-      "word": "委内瑞拉谴责美国不宣而战",
-      "onboard_time": 1758381204,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 54554,
-      "num": 54554,
+      "raw_hot": 57139,
+      "num": 57139,
       "word": "韩国核电站泄漏约265kg重水",
       "onboard_time": 1758401234,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54336,
-      "num": 54336,
-      "word": "隔壁老樊演唱会",
-      "onboard_time": 1758375685,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 51879,
@@ -523,6 +563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47674,
+      "num": 47674,
+      "word": "广东小孩进ICU24小时后才知被蛇咬伤",
+      "onboard_time": 1758397453,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47154,
       "num": 89274,
       "word": "中国花滑女单获冬奥资格",
@@ -539,28 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43421,
-      "num": 43421,
-      "word": "可惜我叫谢霆锋 不叫谢停雨",
-      "onboard_time": 1758410058,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 42947,
       "num": 42947,
       "word": "鞠婧祎自拍",
       "onboard_time": 1758405015,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41171,
-      "num": 41171,
-      "word": "广东小孩进ICU24小时后才知被蛇咬伤",
-      "onboard_time": 1758397453,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32347,
@@ -571,11 +603,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29193,
-      "num": 41096,
+      "raw_hot": 30510,
+      "num": 44964,
       "word": "南京被泰州封零",
       "onboard_time": 1758409878,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29359,
+      "num": 44963,
+      "word": "曼联2比1切尔西",
+      "onboard_time": 1758405494,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -603,20 +643,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24567,
-      "num": 41052,
-      "word": "曼联2比1切尔西",
-      "onboard_time": 1758405494,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14419,
       "num": 24473,
       "word": "王俊凯关于生日怎么过",
       "onboard_time": 1758396015,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11470,
+      "num": 52517,
+      "word": "烟花争议两大疑点",
+      "onboard_time": 1758410299,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
