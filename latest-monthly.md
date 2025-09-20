@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 16:30:10
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 16:42:22
 </p>
 </blockquote>
 <p>
@@ -687,6 +687,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%23" target="weibo">
+始祖鸟（热度：2147671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E7%9B%B4%E6%92%AD%E5%A5%BD%E5%87%A0%E6%AC%A1%E5%8F%B9%E6%B0%94%23" target="weibo">
 陈晓直播好几次叹气（热度：2144234）
 </a>
@@ -1251,6 +1257,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%81%94%E6%89%8B%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E8%89%BA%E6%9C%AF%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+始祖鸟联手蔡国强的烟花艺术引争议（热度：1587393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%99%BA%E8%B1%AA%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
 蒋智豪确诊肺癌晚期最新发声（热度：1577744）
 </a>
@@ -1337,12 +1349,6 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%23" target="weibo">
 台湾现在属于中国（热度：1510945）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%81%94%E6%89%8B%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E8%89%BA%E6%9C%AF%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
-始祖鸟联手蔡国强的烟花艺术引争议（热度：1510686）
 </a>
 </li>
 
@@ -3485,12 +3491,6 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E5%93%A5%E5%93%A5%E4%B8%8D%E4%BA%89%E6%B0%94%23" target="weibo">
 赵本山女儿回应哥哥不争气（热度：837802）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%23" target="weibo">
-始祖鸟（热度：837070）
 </a>
 </li>
 
@@ -5919,6 +5919,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%86%8D%E5%A4%8D%E5%88%BB%E9%BB%84%E7%A3%8A%E4%B8%8D%E5%8A%A0%E6%B0%B4%E7%9A%84%E7%BA%A2%E7%83%A7%E8%82%89%23" target="weibo">
+陈赫再复刻黄磊不加水的红烧肉（热度：554472）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%98%AF%E8%BF%99%E4%B9%88%E8%A2%AB%E9%80%89%E4%B8%8A%E7%9A%84%23" target="weibo">
 原来和平鸽是这么被选上的（热度：553073）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23" target="weibo">
 早春晴朗（热度：549211）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E6%92%AD%E6%94%BE%E9%87%8F%23" target="weibo">
-花少7播放量（热度：548632）
 </a>
 </li>
 

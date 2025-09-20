@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758357010344,
+  "endTime": 1758357742179,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2147671,
+      "num": 2147671,
+      "word": "始祖鸟",
+      "onboard_time": 1758355881,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2127120,
       "num": 2127120,
       "word": "脆升升薯条道歉",
@@ -43,20 +51,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1587393,
+      "num": 1587393,
+      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+      "onboard_time": 1758342742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1518796,
       "num": 1518796,
       "word": "字节跳动深夜公告",
       "onboard_time": 1758326900,
       "rank": 1,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 1510686,
-      "num": 1510686,
-      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
-      "onboard_time": 1758342742,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1487626,
@@ -131,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 837070,
-      "num": 837070,
-      "word": "始祖鸟",
-      "onboard_time": 1758355881,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 810800,
       "num": 810800,
       "word": "巴基斯坦确认向沙特提供核保护伞",
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554472,
+      "num": 554472,
+      "word": "陈赫再复刻黄磊不加水的红烧肉",
+      "onboard_time": 1758355041,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549940,
       "num": 549940,
       "word": "易烊千玺曾想匿名出演酱园弄",
@@ -265,14 +273,6 @@
       "onboard_time": 1758347482,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 445975,
-      "num": 445975,
-      "word": "陈赫再复刻黄磊不加水的红烧肉",
-      "onboard_time": 1758355041,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 440664,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264674,
+      "num": 264674,
+      "word": "蔡国强工作室回应烟花争议",
+      "onboard_time": 1758357562,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263887,
       "num": 184659,
       "word": "刘涛说下海原来是真的",
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219308,
+      "num": 219308,
+      "word": "张晚意捂了马思纯耳朵",
+      "onboard_time": 1758356481,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216280,
       "num": 330263,
       "word": "德国总理称承认巴勒斯坦国为时尚早",
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 212654,
-      "num": 139623,
+      "num": 148976,
       "word": "她一次性换了我一辈子的衣服",
       "onboard_time": 1758355881,
       "rank": 31,
@@ -672,6 +688,14 @@
       "word": "香港工地发现炸弹6000人紧急撤离",
       "onboard_time": 1758328941,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186690,
+      "num": 221927,
+      "word": "男子称自己离婚都怪女邻居",
+      "onboard_time": 1758356299,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1171,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126134,
-      "num": 221927,
-      "word": "男子称自己离婚都怪女邻居",
-      "onboard_time": 1758356299,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125366,
       "num": 125366,
       "word": "AirPodsPro3耳塞断裂",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1758306616,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121408,
+      "num": 121408,
+      "word": "蔡国强烟火放到喜马拉雅山",
+      "onboard_time": 1758350181,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 118817,
@@ -1467,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105047,
+      "num": 105047,
+      "word": "繁花回应编剧署名争议",
+      "onboard_time": 1758357502,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104614,
       "num": 104614,
       "word": "论山东给周杰伦的排面",
@@ -1595,14 +1627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99325,
-      "num": 99325,
-      "word": "蔡国强烟火放到喜马拉雅山",
-      "onboard_time": 1758350181,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99014,
       "num": 99014,
       "word": "谢霆锋情到深处的3秒对视",
@@ -1659,6 +1683,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95386,
+      "num": 95386,
+      "word": "孙颖莎王楚钦热心公益",
+      "onboard_time": 1758354441,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95104,
+      "num": 215660,
+      "word": "香港发现的炸弹内有227公斤炸药",
+      "onboard_time": 1758355281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94031,
       "num": 94031,
       "word": "德州男子餐厅晕倒被弃置门外后死亡",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1758293005,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91279,
+      "num": 88240,
+      "word": "AL对战TES",
+      "onboard_time": 1758356962,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 91239,
@@ -1729,14 +1777,6 @@
       "onboard_time": 1758277224,
       "rank": 31,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 88240,
-      "num": 88240,
-      "word": "AL对战TES",
-      "onboard_time": 1758356962,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 87484,
@@ -1811,12 +1851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83592,
-      "num": 215660,
-      "word": "香港发现的炸弹内有227公斤炸药",
-      "onboard_time": 1758355281,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 84043,
+      "num": 84043,
+      "word": "印学者称印度落后于中国",
+      "onboard_time": 1758357141,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83442,
@@ -1825,6 +1865,14 @@
       "onboard_time": 1758353542,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83020,
+      "num": 95419,
+      "word": "为什么ios26适合i人",
+      "onboard_time": 1758357680,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 82299,
@@ -2035,14 +2083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 58348,
-      "num": 119489,
-      "word": "张晚意捂了马思纯耳朵",
-      "onboard_time": 1758356481,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57531,
       "num": 99058,
       "word": "谢霆锋偷偷看粉丝评论",
@@ -2097,6 +2137,14 @@
       "onboard_time": 1758284483,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50583,
+      "num": 222580,
+      "word": "我想走遍祖国的万里河山",
+      "onboard_time": 1758355941,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 50056,
@@ -2169,14 +2217,6 @@
       "onboard_time": 1758348203,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37321,
-      "num": 222580,
-      "word": "我想走遍祖国的万里河山",
-      "onboard_time": 1758355941,
-      "rank": 17,
-      "category": "旅游"
     },
     {
       "raw_hot": 37233,
