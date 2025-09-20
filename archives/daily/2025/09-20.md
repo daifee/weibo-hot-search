@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/20 00:30:25 ~ 2025/09/20 15:22:22
+本榜单时间：2025/09/20 00:30:25 ~ 2025/09/20 15:36:30
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%82%B8%E5%BC%B9%E6%8B%86%E9%99%A4%E5%AE%8C%E6%88%90%23" target="weibo">
+香港炸弹拆除完成（热度：323037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9iPhone17%E8%B4%B4%E8%86%9C%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 第一批iPhone17贴膜受害者出现了（热度：322366）
 </a>
@@ -351,6 +357,12 @@ TikTok美国公司将继续服务好用户（热度：265550）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A1%AE%E8%AE%A4%E5%90%91%E6%B2%99%E7%89%B9%E6%8F%90%E4%BE%9B%E6%A0%B8%E4%BF%9D%E6%8A%A4%E4%BC%9E%23" target="weibo">
+巴基斯坦确认向沙特提供核保护伞（热度：256478）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%A1%95%E5%A3%AB%E4%BB%8E%E7%83%9F%E8%8D%89%E5%85%AC%E5%8F%B8%E7%A6%BB%E8%81%8C%E5%9B%9E%E6%9D%91%E9%9A%90%E5%B1%85%23" target="weibo">
 浙大硕士从烟草公司离职回村隐居（热度：251007）
 </a>
@@ -423,8 +435,8 @@ TikTok美国公司将继续服务好用户（热度：265550）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%82%B8%E5%BC%B9%E6%8B%86%E9%99%A4%E5%AE%8C%E6%88%90%23" target="weibo">
-香港炸弹拆除完成（热度：207395）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E6%9C%80%E5%BC%BA%E6%88%96%E8%BE%BE%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7%E5%88%AB%23" target="weibo">
+台风桦加沙最强或达超强台风级别（热度：207167）
 </a>
 </li>
 
@@ -519,6 +531,12 @@ Nike书包当事人称已收到礼物（热度：191566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9B%BE%E6%83%B3%E5%8C%BF%E5%90%8D%E5%87%BA%E6%BC%94%E9%85%B1%E5%9B%AD%E5%BC%84%23" target="weibo">
+易烊千玺曾想匿名出演酱园弄（热度：171548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E5%A4%8D%E5%8E%9F%E4%BA%862500%E5%B9%B4%E5%89%8D%E7%9A%84%E6%88%98%E5%9B%BD%E8%A2%8D%23" target="weibo">
 曾黎复原了2500年前的战国袍（热度：171498）
 </a>
@@ -543,6 +561,12 @@ Nike书包当事人称已收到礼物（热度：191566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%AF%81%E5%88%98%E6%B5%B7%E6%84%8F%E5%A4%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%94%9F%E5%8F%91%E5%9E%8B%23" target="weibo">
+剪毁刘海意外成了人生发型（热度：167142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%9D%97%E9%92%B1%E7%A1%AC%E6%98%AF%E8%8A%B1%E5%87%BA%E4%BA%86%E4%B8%89%E4%B8%87%E7%9A%84%E6%84%9F%E8%A7%89%23" target="weibo">
 三块钱硬是花出了三万的感觉（热度：166684）
 </a>
@@ -563,6 +587,12 @@ Nike书包当事人称已收到礼物（热度：191566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E8%AF%B4%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E5%8F%91%E5%91%86%E6%83%B3%E4%BA%91%E5%8D%97%E7%9A%84%E8%8F%8C%E5%AD%90%E4%BA%86%23" target="weibo">
 马嘉祺说终于可以发呆想云南的菌子了（热度：164071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E7%AB%A516%E6%A5%BC%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+3岁女童16楼坠亡案父亲发声（热度：163740）
 </a>
 </li>
 
@@ -849,12 +879,6 @@ EDG告别巴黎全球冠军赛（热度：124772）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E6%9C%80%E5%BC%BA%E6%88%96%E8%BE%BE%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7%E5%88%AB%23" target="weibo">
-台风桦加沙最强或达超强台风级别（热度：118836）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%95%B0%E5%A9%89%E6%8B%92%E6%B5%AA%E5%A7%90%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 陈数婉拒浪姐的原因（热度：118817）
 </a>
@@ -993,8 +1017,20 @@ EDG告别巴黎全球冠军赛（热度：124772）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%88%90%E6%AF%85%E4%B8%93%E8%AE%BF%23" target="weibo">
+赴山海成毅专访（热度：105238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E9%87%91%E5%8F%91%E8%87%AA%E6%8B%8D%23" target="weibo">
 朱志鑫金发自拍（热度：105109）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E5%93%81%E7%A7%8D%E7%8C%AB%23" target="weibo">
+最古老的品种猫（热度：105107）
 </a>
 </li>
 
@@ -1013,12 +1049,6 @@ EDG告别巴黎全球冠军赛（热度：124772）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E9%A6%99%E6%B8%AF%E7%82%B8%E5%BC%B9%E7%A0%B4%E6%8B%86%E7%8E%B0%E5%9C%BA%23" target="weibo">
 直击香港炸弹破拆现场（热度：104249）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9B%BE%E6%83%B3%E5%8C%BF%E5%90%8D%E5%87%BA%E6%BC%94%E9%85%B1%E5%9B%AD%E5%BC%84%23" target="weibo">
-易烊千玺曾想匿名出演酱园弄（热度：104157）
 </a>
 </li>
 
@@ -1097,12 +1127,6 @@ EDG告别巴黎全球冠军赛（热度：124772）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E9%9A%8F%E4%BE%BF%E5%8E%BB%E6%8E%8F%E8%80%B3%E6%9C%B5%E4%BA%86%23" target="weibo">
 再也不敢随便去掏耳朵了（热度：99809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%88%90%E6%AF%85%E4%B8%93%E8%AE%BF%23" target="weibo">
-赴山海成毅专访（热度：99651）
 </a>
 </li>
 
@@ -1269,8 +1293,20 @@ iPhone17Pro首拆（热度：86326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%B8%80%E5%BC%A0%E5%98%B4%E5%B0%B1%E6%98%AF%E6%83%85%E5%95%86%E8%AF%BE%E7%8E%B0%E5%9C%BA%23" target="weibo">
+陈赫一张嘴就是情商课现场（热度：83442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BF%B5%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D80%E5%91%A8%E5%B9%B4%23" target="weibo">
 纪念台湾光复80周年（热度：82299）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9C%A8%E8%BD%A6%E4%B8%8A%E7%BB%83%E5%BC%A0%E6%9D%B0%E7%9A%84%E5%A4%A9%E4%B8%8B%23" target="weibo">
+谢娜在车上练张杰的天下（热度：81192）
 </a>
 </li>
 
@@ -1473,12 +1509,6 @@ AL与TES争决赛门票（热度：53064）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E7%AB%A516%E6%A5%BC%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-3岁女童16楼坠亡案父亲发声（热度：47303）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
 你好星期六（热度：45451）
 </a>
@@ -1510,7 +1540,7 @@ AL与TES争决赛门票（热度：53064）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B1%B1%E6%B5%B7%E5%85%B3%E6%97%A5%E5%87%BA%E5%A4%A7%E7%89%87%23" target="weibo">
-孙颖莎山海关日出大片（热度：39316）
+孙颖莎山海关日出大片（热度：40646）
 </a>
 </li>
 

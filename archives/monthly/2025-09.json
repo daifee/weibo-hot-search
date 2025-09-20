@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758352942834,
+  "endTime": 1758353790302,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -14243,6 +14243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323037,
+      "num": 323037,
+      "word": "香港炸弹拆除完成",
+      "onboard_time": 1758350661,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322979,
       "num": 322979,
       "word": "成都震感",
@@ -17057,6 +17065,14 @@
       "onboard_time": 1756788083,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 256478,
+      "num": 327113,
+      "word": "巴基斯坦确认向沙特提供核保护伞",
+      "onboard_time": 1758353001,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 256300,
@@ -20627,14 +20643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207395,
-      "num": 207395,
-      "word": "香港炸弹拆除完成",
-      "onboard_time": 1758350661,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207384,
       "num": 392644,
       "word": "苹果新增三款过时产品",
@@ -20665,6 +20673,14 @@
       "onboard_time": 1757164163,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 207167,
+      "num": 415308,
+      "word": "台风桦加沙最强或达超强台风级别",
+      "onboard_time": 1758347962,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 207158,
@@ -26659,6 +26675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171548,
+      "num": 171548,
+      "word": "易烊千玺曾想匿名出演酱园弄",
+      "onboard_time": 1758352701,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171547,
       "num": 171547,
       "word": "2025LPL季后赛",
@@ -27555,6 +27579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167142,
+      "num": 120905,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1758353421,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167119,
       "num": 167119,
       "word": "iPhone17PM对比16PM",
@@ -28289,6 +28321,14 @@
       "onboard_time": 1757500102,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163740,
+      "num": 163740,
+      "word": "3岁女童16楼坠亡案父亲发声",
+      "onboard_time": 1758351682,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163736,
@@ -41587,14 +41627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118836,
-      "num": 415308,
-      "word": "台风桦加沙最强或达超强台风级别",
-      "onboard_time": 1758347962,
-      "rank": 46,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 118817,
       "num": 118817,
       "word": "陈数婉拒浪姐的原因",
@@ -46491,6 +46523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105238,
+      "num": 105238,
+      "word": "赴山海成毅专访",
+      "onboard_time": 1758352580,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105236,
       "num": 105236,
       "word": "刘萌萌再演诺澜微醺",
@@ -46561,6 +46601,14 @@
       "onboard_time": 1758331581,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105107,
+      "num": 105107,
+      "word": "最古老的品种猫",
+      "onboard_time": 1758353421,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 105097,
@@ -46873,14 +46921,6 @@
       "onboard_time": 1758091523,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104157,
-      "num": 104157,
-      "word": "易烊千玺曾想匿名出演酱园弄",
-      "onboard_time": 1758352701,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 104128,
@@ -48480,14 +48520,6 @@
       "word": "丁禹兮视频中更建模了",
       "onboard_time": 1758192623,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 99651,
-      "num": 99651,
-      "word": "赴山海成毅专访",
-      "onboard_time": 1758352580,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -52683,6 +52715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83442,
+      "num": 83442,
+      "word": "陈赫一张嘴就是情商课现场",
+      "onboard_time": 1758353542,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83437,
       "num": 83437,
       "word": "李沉舟白月光",
@@ -53201,6 +53241,14 @@
       "onboard_time": 1756702702,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81192,
+      "num": 81192,
+      "word": "谢娜在车上练张杰的天下",
+      "onboard_time": 1758353661,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 81149,
@@ -58707,14 +58755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47303,
-      "num": 99749,
-      "word": "3岁女童16楼坠亡案父亲发声",
-      "onboard_time": 1758351682,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47244,
       "num": 214697,
       "word": "千玺还有多少惊喜是我们不知道的",
@@ -59587,6 +59627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40646,
+      "num": 405485,
+      "word": "孙颖莎山海关日出大片",
+      "onboard_time": 1758348203,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40620,
       "num": 758911,
       "word": "2025文化遗产数字化论坛",
@@ -59785,14 +59833,6 @@
       "onboard_time": 1757913802,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39316,
-      "num": 405485,
-      "word": "孙颖莎山海关日出大片",
-      "onboard_time": 1758348203,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 39290,
