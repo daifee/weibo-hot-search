@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758342548001,
+  "endTime": 1758343323562,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2127120,
+      "num": 2127120,
+      "word": "脆升升薯条道歉",
+      "onboard_time": 1758337103,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2101106,
       "num": 2101106,
       "word": "风月不相关 不拍了",
@@ -248,14 +256,6 @@
       "word": "朱孔军任武汉大学党委书记",
       "onboard_time": 1758269602,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2003579,
-      "num": 2003579,
-      "word": "脆升升薯条道歉",
-      "onboard_time": 1758337103,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1440011,
-      "num": 327388,
+      "num": 355148,
       "word": "姐姐在美国失联了",
       "onboard_time": 1758332301,
       "rank": 11,
@@ -1428,7 +1428,7 @@
     },
     {
       "raw_hot": 857856,
-      "num": 273544,
+      "num": 353235,
       "word": "武汉大学复核通报",
       "onboard_time": 1758333921,
       "rank": 13,
@@ -2153,6 +2153,14 @@
       "onboard_time": 1758284903,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 643248,
+      "num": 643248,
+      "word": "花少7落选小妹发文回应",
+      "onboard_time": 1758340223,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 641281,
@@ -2996,7 +3004,7 @@
     },
     {
       "raw_hot": 497909,
-      "num": 277095,
+      "num": 491279,
       "word": "张维伊接小酒窝放学",
       "onboard_time": 1758340703,
       "rank": 11,
@@ -3315,14 +3323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 455019,
-      "num": 228291,
-      "word": "花少7落选小妹发文回应",
-      "onboard_time": 1758340223,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454238,
       "num": 267817,
       "word": "韩国人称只有韩国吃饭用勺子",
@@ -3491,6 +3491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430023,
+      "num": 424223,
+      "word": "哈妮克孜官宣了",
+      "onboard_time": 1758338902,
+      "rank": 24,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 429985,
       "num": 429985,
       "word": "广州大熊猫最便宜5块一只",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1758240321,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424223,
-      "num": 424223,
-      "word": "哈妮克孜官宣了",
-      "onboard_time": 1758338902,
-      "rank": 24,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 423256,
@@ -4275,6 +4275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360467,
+      "num": 350989,
+      "word": "独居最大的坏处已经出现了",
+      "onboard_time": 1758338603,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358858,
       "num": 280429,
       "word": "没人告诉世界第二网红干团播这么累吗",
@@ -4353,6 +4361,14 @@
       "onboard_time": 1758023783,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 350391,
+      "num": 350391,
+      "word": "遭老板性侵女子称受不了老公被骂",
+      "onboard_time": 1758338902,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349842,
@@ -4513,14 +4529,6 @@
       "onboard_time": 1757937142,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337261,
-      "num": 269268,
-      "word": "独居最大的坏处已经出现了",
-      "onboard_time": 1758338603,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 336955,
@@ -5091,14 +5099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282581,
-      "num": 282581,
-      "word": "遭老板性侵女子称受不了老公被骂",
-      "onboard_time": 1758338902,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282287,
       "num": 282287,
       "word": "彭昱畅对不起了向佐老师",
@@ -5452,7 +5452,7 @@
     },
     {
       "raw_hot": 261216,
-      "num": 261216,
+      "num": 356890,
       "word": "用拖鞋搅奶茶男子应聘时就不对劲",
       "onboard_time": 1758338721,
       "rank": 27,
@@ -5521,6 +5521,14 @@
       "onboard_time": 1758164302,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 258268,
+      "num": 258268,
+      "word": "成毅说想看到真实反馈",
+      "onboard_time": 1758341661,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 258225,
@@ -5673,6 +5681,14 @@
       "onboard_time": 1758150319,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 251244,
+      "num": 251244,
+      "word": "儿子串通母亲隐瞒姐姐独占房产",
+      "onboard_time": 1758339443,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251126,
@@ -6137,14 +6153,6 @@
       "onboard_time": 1758339082,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227935,
-      "num": 227935,
-      "word": "儿子串通母亲隐瞒姐姐独占房产",
-      "onboard_time": 1758339443,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227757,
@@ -6931,6 +6939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205012,
+      "num": 202831,
+      "word": "成毅时装九月封面",
+      "onboard_time": 1758342803,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204935,
       "num": 204935,
       "word": "iPhone17",
@@ -7009,6 +7025,14 @@
       "onboard_time": 1757925502,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 203284,
+      "num": 203284,
+      "word": "3岁女童坠亡母亲因自责精神出问题",
+      "onboard_time": 1758340883,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203232,
@@ -7665,14 +7689,6 @@
       "onboard_time": 1757984542,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 192513,
-      "num": 228992,
-      "word": "成毅说想看到真实反馈",
-      "onboard_time": 1758341661,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 192194,
@@ -8491,6 +8507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177306,
+      "num": 177306,
+      "word": "凡人修仙传",
+      "onboard_time": 1758341184,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 177303,
       "num": 177303,
       "word": "王楚钦孙颖莎混双世排第7",
@@ -9123,14 +9147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167022,
-      "num": 167022,
-      "word": "3岁女童坠亡母亲因自责精神出问题",
-      "onboard_time": 1758340883,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166947,
       "num": 226678,
       "word": "被虐致死女孩母亲回应为何从未探望",
@@ -9233,14 +9249,6 @@
       "onboard_time": 1758172882,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165228,
-      "num": 165228,
-      "word": "凡人修仙传",
-      "onboard_time": 1758341184,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 165066,
@@ -10979,6 +10987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145867,
+      "num": 145867,
+      "word": "收到王俊凯发的奖学金了",
+      "onboard_time": 1758341542,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145649,
       "num": 170437,
       "word": "王鹤润青衣预备役",
@@ -11779,6 +11795,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 137980,
+      "num": 137980,
+      "word": "驾驶员樊振东",
+      "onboard_time": 1758340162,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137933,
       "num": 137933,
       "word": "于适可以和朱一龙一起学吹口哨了",
@@ -12057,14 +12081,6 @@
       "onboard_time": 1758206002,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135198,
-      "num": 135198,
-      "word": "收到王俊凯发的奖学金了",
-      "onboard_time": 1758341542,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 135163,
@@ -13153,6 +13169,14 @@
       "onboard_time": 1758201684,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125366,
+      "num": 125366,
+      "word": "AirPodsPro3耳塞断裂",
+      "onboard_time": 1758340223,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 125363,
@@ -14371,14 +14395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115175,
-      "num": 115175,
-      "word": "驾驶员樊振东",
-      "onboard_time": 1758340162,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115100,
       "num": 244996,
       "word": "袁隆平生前笔迹直戳泪点",
@@ -14795,6 +14811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 110649,
+      "num": 110649,
+      "word": "终于有人把eSIM卡说清楚了",
+      "onboard_time": 1758342381,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 110631,
       "num": 110631,
       "word": "起猛了以为是白敬亭在淋雨",
@@ -14937,14 +14961,6 @@
       "onboard_time": 1758291023,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109704,
-      "num": 109704,
-      "word": "终于有人把eSIM卡说清楚了",
-      "onboard_time": 1758342381,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 109699,
@@ -15657,6 +15673,14 @@
       "onboard_time": 1758180563,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103515,
+      "num": 103515,
+      "word": "上海防空警报",
+      "onboard_time": 1758342682,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103478,
@@ -19379,6 +19403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50056,
+      "num": 133840,
+      "word": "理发店偶遇戚薇李承铉一家",
+      "onboard_time": 1758342502,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49967,
       "num": 212947,
       "word": "李斯丹妮山系穿搭天花板",
@@ -19705,14 +19737,6 @@
       "onboard_time": 1758293785,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 44500,
-      "num": 125172,
-      "word": "理发店偶遇戚薇李承铉一家",
-      "onboard_time": 1758342502,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 44343,
@@ -20065,6 +20089,14 @@
       "onboard_time": 1757999066,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37789,
+      "num": 153288,
+      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+      "onboard_time": 1758342742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37481,
@@ -21217,6 +21249,14 @@
       "onboard_time": 1757793795,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12245,
+      "num": 208769,
+      "word": "香港黄金劫案一疑犯将受审",
+      "onboard_time": 1758342742,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11980,
