@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758333704408,
+  "endTime": 1758337148717,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -33,6 +33,14 @@
       "onboard_time": 1758023544,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8328594,
+      "num": 8328594,
+      "word": "武大撤销肖某某记过处分",
+      "onboard_time": 1758333742,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8172671,
@@ -193,6 +201,14 @@
       "onboard_time": 1757904502,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2225250,
+      "num": 2225250,
+      "word": "陈紫函停工3年做了12次试管",
+      "onboard_time": 1758333020,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2144234,
@@ -1443,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 846414,
+      "num": 222677,
+      "word": "武汉大学复核通报",
+      "onboard_time": 1758333921,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 846302,
       "num": 846302,
       "word": "减肥太猛 显老",
@@ -2067,6 +2091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 655672,
+      "num": 169188,
+      "word": "武大多人被问责",
+      "onboard_time": 1758334580,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653054,
       "num": 653054,
       "word": "关晓彤接住了刘涛的戏",
@@ -2121,6 +2153,14 @@
       "onboard_time": 1757913264,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 640651,
+      "num": 168483,
+      "word": "杨某媛论文存在百余处不规范",
+      "onboard_time": 1758334761,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 638326,
@@ -2528,14 +2568,6 @@
       "word": "黄子韬说因为徐艺洋像白纸而被吸引",
       "onboard_time": 1757820022,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 555385,
-      "num": 555385,
-      "word": "陈紫函停工3年做了12次试管",
-      "onboard_time": 1758333020,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -3331,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440664,
+      "num": 160072,
+      "word": "武大图书馆事件最新通报",
+      "onboard_time": 1758333921,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440417,
       "num": 406759,
       "word": "吴磊刮中彩票的反应",
@@ -4043,6 +4083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370486,
+      "num": 370486,
+      "word": "马航空姐飞行途中跳舞引争议",
+      "onboard_time": 1758334282,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 370254,
       "num": 260207,
       "word": "粉丝给白鹿写了460斤信",
@@ -4499,6 +4547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325601,
+      "num": 325601,
+      "word": "张子枫马嘉祺我们生活在南京路透",
+      "onboard_time": 1758333440,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325351,
       "num": 325351,
       "word": "我家那闺女",
@@ -4931,6 +4987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286592,
+      "num": 155991,
+      "word": "脆升升薯条道歉",
+      "onboard_time": 1758337103,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285208,
       "num": 285208,
       "word": "卡塔尔承认探测不到以军战机",
@@ -5161,6 +5225,14 @@
       "onboard_time": 1758245480,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 269829,
+      "num": 154940,
+      "word": "杨某媛导师被暂停研究生招生资格",
+      "onboard_time": 1758334880,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269038,
@@ -5643,6 +5715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244493,
+      "num": 244493,
+      "word": "王一博赛车",
+      "onboard_time": 1758336563,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244260,
       "num": 167339,
       "word": "戚薇比海鸥还白",
@@ -5857,6 +5937,14 @@
       "onboard_time": 1757852963,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236125,
+      "num": 299715,
+      "word": "TikTok美国公司将继续服务好用户",
+      "onboard_time": 1758332780,
+      "rank": 9,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 235249,
@@ -6203,6 +6291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220909,
+      "num": 220909,
+      "word": "唐国强 按劳取酬纳税光荣",
+      "onboard_time": 1758335241,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220715,
       "num": 194999,
       "word": "张晚意李沁太适合打包送同个剧组了",
@@ -6416,6 +6512,14 @@
       "word": "西贝从今以后打明牌",
       "onboard_time": 1757915784,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212191,
+      "num": 131794,
+      "word": "武大撤销肖某瑫处分",
+      "onboard_time": 1758333921,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -7201,6 +7305,14 @@
       "onboard_time": 1757920042,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196202,
+      "num": 196202,
+      "word": "蓝溪镇",
+      "onboard_time": 1758336262,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 195990,
@@ -8067,6 +8179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 180250,
+      "num": 180250,
+      "word": "北京防空警报",
+      "onboard_time": 1758335362,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180034,
       "num": 180034,
       "word": "容祖儿说蔡徐坤很正",
@@ -8241,14 +8361,6 @@
       "onboard_time": 1758118584,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177380,
-      "num": 299715,
-      "word": "TikTok美国公司将继续服务好用户",
-      "onboard_time": 1758332780,
-      "rank": 9,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 177303,
@@ -8745,6 +8857,22 @@
       "onboard_time": 1757831063,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168525,
+      "num": 168525,
+      "word": "彭昱畅刘涛 妈祖钓小龙虾",
+      "onboard_time": 1758335541,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168331,
+      "num": 168331,
+      "word": "李一桐这辈子第一次看演唱会好激动",
+      "onboard_time": 1758332840,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 168322,
@@ -9379,6 +9507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160619,
+      "num": 160619,
+      "word": "女子拼车遭后排男子伸手触摸身体",
+      "onboard_time": 1758335481,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160613,
       "num": 160613,
       "word": "尚雯婕没想到外语学习法会爆火",
@@ -9841,6 +9977,14 @@
       "onboard_time": 1758007821,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154843,
+      "num": 154843,
+      "word": "刷牙好习惯vs刷牙坏习惯",
+      "onboard_time": 1758336862,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 154807,
@@ -10835,14 +10979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144191,
-      "num": 144191,
-      "word": "李一桐这辈子第一次看演唱会好激动",
-      "onboard_time": 1758332840,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 144014,
       "num": 144014,
       "word": "辛芷蕾负重30斤武训",
@@ -11032,6 +11168,14 @@
       "word": "文咏珊两年前疯到我两年后钓到我",
       "onboard_time": 1758187402,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142213,
+      "num": 156723,
+      "word": "马嘉祺成年后首部电视剧",
+      "onboard_time": 1758335302,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -11481,6 +11625,14 @@
       "onboard_time": 1757900721,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137057,
+      "num": 156235,
+      "word": "彭昱畅你这样我很害怕",
+      "onboard_time": 1758335362,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 136972,
@@ -12011,6 +12163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132111,
+      "num": 132111,
+      "word": "柯淳说曾志伟不如自己懂短剧",
+      "onboard_time": 1758336081,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131973,
       "num": 131973,
       "word": "新华社出图限量阅兵明信片",
@@ -12401,6 +12561,14 @@
       "onboard_time": 1758004221,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127923,
+      "num": 127923,
+      "word": "现在好像不流行同学聚会了",
+      "onboard_time": 1758333440,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 127859,
@@ -13707,6 +13875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116745,
+      "num": 116745,
+      "word": "蔡国强喜马拉雅放烟花",
+      "onboard_time": 1758336682,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116684,
       "num": 114977,
       "word": "LPL与LCK迎来周末大战",
@@ -14259,6 +14435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111535,
+      "num": 111535,
+      "word": "张子枫向往的生活回家啦",
+      "onboard_time": 1758337042,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "宁静拽邵子恒出来饭撒",
@@ -14787,6 +14971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106670,
+      "num": 106670,
+      "word": "知情人回应全红婵是否将退役",
+      "onboard_time": 1758336323,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106668,
       "num": 106668,
       "word": "喜不喜欢可以通过第一反应看出来",
@@ -15211,6 +15403,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 103189,
+      "num": 103189,
+      "word": "樊振东开心到起飞",
+      "onboard_time": 1758335481,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103188,
       "num": 103188,
       "word": "DK战胜BFX",
@@ -15289,6 +15489,14 @@
       "onboard_time": 1757896222,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102754,
+      "num": 102754,
+      "word": "迪丽热巴发丝都在发光",
+      "onboard_time": 1758335962,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 102698,
@@ -15379,6 +15587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102359,
+      "num": 102359,
+      "word": "计算机二级",
+      "onboard_time": 1758334040,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 102322,
       "num": 102322,
       "word": "SUV盲区竟能容纳93个孩子",
@@ -15449,6 +15665,14 @@
       "onboard_time": 1757837843,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101724,
+      "num": 101724,
+      "word": "库克回应iPhone17价格高",
+      "onboard_time": 1758335182,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 101613,
@@ -16641,14 +16865,6 @@
       "onboard_time": 1758067525,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 89200,
-      "num": 89200,
-      "word": "现在好像不流行同学聚会了",
-      "onboard_time": 1758333440,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 88936,
@@ -19299,6 +19515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42075,
+      "num": 801178,
+      "word": "网警破获AI换脸非法侵入案",
+      "onboard_time": 1758335721,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42067,
       "num": 130441,
       "word": "女孩离家称给警察2天破案",
@@ -19609,6 +19833,14 @@
       "onboard_time": 1758054554,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35242,
+      "num": 169850,
+      "word": "香港警方通宵拆除炸弹",
+      "onboard_time": 1758336081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34583,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758337148717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225250,
+        "num": 2225250,
+        "word": "陈紫函停工3年做了12次试管",
+        "onboard_time": 1758333020,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815918,
+        "num": 815918,
+        "word": "香港炸弹",
+        "onboard_time": 1758326181,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42075,
+        "num": 801178,
+        "word": "网警破获AI换脸非法侵入案",
+        "onboard_time": 1758335721,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790047,
+        "num": 790047,
+        "word": "杨采钰官宣当妈",
+        "onboard_time": 1758331222,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535109,
+        "num": 535109,
+        "word": "字节跳动深夜公告",
+        "onboard_time": 1758326900,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 8328594,
+        "num": 8328594,
+        "word": "武大撤销肖某某记过处分",
+        "onboard_time": 1758333742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370486,
+        "num": 370486,
+        "word": "马航空姐飞行途中跳舞引争议",
+        "onboard_time": 1758334282,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325601,
+        "num": 325601,
+        "word": "张子枫马嘉祺我们生活在南京路透",
+        "onboard_time": 1758333440,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244493,
+        "num": 244493,
+        "word": "王一博赛车",
+        "onboard_time": 1758336563,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236125,
+        "num": 236125,
+        "word": "TikTok美国公司将继续服务好用户",
+        "onboard_time": 1758332780,
+        "rank": 9,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 945384,
+        "num": 234198,
+        "word": "武汉大学图书馆案二审宣判",
+        "onboard_time": 1758332780,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 944867,
+        "num": 230877,
+        "word": "姐姐在美国失联了",
+        "onboard_time": 1758332301,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 494367,
+        "num": 226207,
+        "word": "关晓彤分没分杨迪你倒是问啊",
+        "onboard_time": 1758292163,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846414,
+        "num": 222677,
+        "word": "武汉大学复核通报",
+        "onboard_time": 1758333921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220909,
+        "num": 220909,
+        "word": "唐国强 按劳取酬纳税光荣",
+        "onboard_time": 1758335241,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202801,
+        "num": 202801,
+        "word": "彩色冲锋衣一买一个不吱声",
+        "onboard_time": 1758325279,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 713026,
+        "num": 202689,
+        "word": "驳回武大图书馆事件女生上诉",
+        "onboard_time": 1758332721,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196202,
+        "num": 196202,
+        "word": "蓝溪镇",
+        "onboard_time": 1758336262,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180250,
+        "num": 180250,
+        "word": "北京防空警报",
+        "onboard_time": 1758335362,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35242,
+        "num": 169850,
+        "word": "香港警方通宵拆除炸弹",
+        "onboard_time": 1758336081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655672,
+        "num": 169188,
+        "word": "武大多人被问责",
+        "onboard_time": 1758334580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299964,
+        "num": 168917,
+        "word": "黄子诚因模仿黄子韬导致破产",
+        "onboard_time": 1758291563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168525,
+        "num": 168525,
+        "word": "彭昱畅刘涛 妈祖钓小龙虾",
+        "onboard_time": 1758335541,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640651,
+        "num": 168483,
+        "word": "杨某媛论文存在百余处不规范",
+        "onboard_time": 1758334761,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168331,
+        "num": 168331,
+        "word": "李一桐这辈子第一次看演唱会好激动",
+        "onboard_time": 1758332840,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160619,
+        "num": 160619,
+        "word": "女子拼车遭后排男子伸手触摸身体",
+        "onboard_time": 1758335481,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440664,
+        "num": 160072,
+        "word": "武大图书馆事件最新通报",
+        "onboard_time": 1758333921,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157284,
+        "num": 157284,
+        "word": "台湾地震",
+        "onboard_time": 1758324018,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 142213,
+        "num": 156723,
+        "word": "马嘉祺成年后首部电视剧",
+        "onboard_time": 1758335302,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137057,
+        "num": 156235,
+        "word": "彭昱畅你这样我很害怕",
+        "onboard_time": 1758335362,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286592,
+        "num": 155991,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269829,
+        "num": 154940,
+        "word": "杨某媛导师被暂停研究生招生资格",
+        "onboard_time": 1758334880,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154843,
+        "num": 154843,
+        "word": "刷牙好习惯vs刷牙坏习惯",
+        "onboard_time": 1758336862,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "柯淳说曾志伟不如自己懂短剧",
+        "onboard_time": 1758336081,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212191,
+        "num": 131794,
+        "word": "武大撤销肖某瑫处分",
+        "onboard_time": 1758333921,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131091,
+        "num": 131091,
+        "word": "博主回应做饭时猫将老鼠丢进锅",
+        "onboard_time": 1758333202,
+        "rank": 35,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 127923,
+        "num": 127923,
+        "word": "现在好像不流行同学聚会了",
+        "onboard_time": 1758333440,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127382,
+        "num": 127382,
+        "word": "陈震称小米17命名很成功",
+        "onboard_time": 1758329660,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126211,
+        "num": 126211,
+        "word": "韩国核电站发生泄漏事故",
+        "onboard_time": 1758324740,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 121328,
+        "num": 121328,
+        "word": "3台风接连生成",
+        "onboard_time": 1758330321,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116745,
+        "num": 116745,
+        "word": "蔡国强喜马拉雅放烟花",
+        "onboard_time": 1758336682,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114224,
+        "num": 114224,
+        "word": "香港工地发现炸弹6000人紧急撤离",
+        "onboard_time": 1758328941,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111535,
+        "num": 111535,
+        "word": "张子枫向往的生活回家啦",
+        "onboard_time": 1758337042,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110075,
+        "num": 110075,
+        "word": "电影731",
+        "onboard_time": 1758280282,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107072,
+        "num": 107072,
+        "word": "刘涛说下海原来是真的",
+        "onboard_time": 1758294323,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106670,
+        "num": 106670,
+        "word": "知情人回应全红婵是否将退役",
+        "onboard_time": 1758336323,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103189,
+        "num": 103189,
+        "word": "樊振东开心到起飞",
+        "onboard_time": 1758335481,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102754,
+        "num": 102754,
+        "word": "迪丽热巴发丝都在发光",
+        "onboard_time": 1758335962,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102359,
+        "num": 102359,
+        "word": "计算机二级",
+        "onboard_time": 1758334040,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101724,
+        "num": 101724,
+        "word": "库克回应iPhone17价格高",
+        "onboard_time": 1758335182,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}

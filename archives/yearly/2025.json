@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1758333704408,
+  "endTime": 1758337148717,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1579,6 +1579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8328594,
+      "num": 8328594,
+      "word": "武大撤销肖某某记过处分",
+      "onboard_time": 1758333742,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8300117,
       "num": 8300117,
       "word": "阅兵直播",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1741393580,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4517004,
-      "num": 619078,
-      "word": "演员星星近照",
-      "onboard_time": 1736231182,
-      "rank": 14,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

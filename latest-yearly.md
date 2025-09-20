@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/20 10:01:44
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/20 10:59:08
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%92%A4%E9%94%80%E8%82%96%E6%9F%90%E6%9F%90%E8%AE%B0%E8%BF%87%E5%A4%84%E5%88%86%23" target="weibo">
+武大撤销肖某某记过处分（热度：8328594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%9B%B4%E6%92%AD%23" target="weibo">
 阅兵直播（热度：8300117）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%87%AF%E6%96%87%E6%89%BF%E8%AE%A4%E6%88%90%E7%BB%A9%E9%80%A0%E5%81%87%23" target="weibo">
 何凯文承认成绩造假（热度：4523747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E8%BF%91%E7%85%A7%23" target="weibo">
-演员星星近照（热度：4517004）
 </a>
 </li>
 
