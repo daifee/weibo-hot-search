@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758381772608,
+  "endTime": 1758382581250,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1172611,
+      "num": 280554,
+      "word": "王俊凯工作室",
+      "onboard_time": 1758378323,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1030782,
       "num": 1030782,
       "word": "驳回武大图书馆事件女生上诉",
@@ -155,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 972614,
-      "num": 280554,
-      "word": "王俊凯工作室",
-      "onboard_time": 1758378323,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 1000625,
+      "num": 256426,
+      "word": "始祖鸟删博",
+      "onboard_time": 1758375383,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 941034,
@@ -177,14 +185,6 @@
       "onboard_time": 1758365843,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 911735,
-      "num": 256426,
-      "word": "始祖鸟删博",
-      "onboard_time": 1758375383,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 880676,
@@ -443,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 486217,
+      "num": 250710,
+      "word": "戴向宇说陈紫函会给他洗内裤",
+      "onboard_time": 1758376584,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484559,
       "num": 484559,
       "word": "七月的一天",
@@ -489,14 +497,6 @@
       "onboard_time": 1758333921,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434339,
-      "num": 250710,
-      "word": "戴向宇说陈紫函会给他洗内裤",
-      "onboard_time": 1758376584,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 430023,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356435,
+      "num": 356435,
+      "word": "白敬亭文咏珊不眠日吻戏",
+      "onboard_time": 1758376883,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356173,
       "num": 356173,
       "word": "网红局长刘克斌职务已调整",
@@ -601,14 +609,6 @@
       "onboard_time": 1758297741,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338066,
-      "num": 338066,
-      "word": "白敬亭文咏珊不眠日吻戏",
-      "onboard_time": 1758376883,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 331673,
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216305,
+      "num": 200341,
+      "word": "身体发炎时尽量少碰4种食物",
+      "onboard_time": 1758382342,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216280,
       "num": 330263,
       "word": "德国总理称承认巴勒斯坦国为时尚早",
@@ -1003,6 +1011,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203537,
+      "num": 200269,
+      "word": "华晨宇唱着唱着被举起来了",
+      "onboard_time": 1758381683,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 203131,
+      "num": 203131,
+      "word": "网红被指在龟展上搞擦边",
+      "onboard_time": 1758381204,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201338,
       "num": 196272,
       "word": "维嘉说万千惠被人做局了",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1758375264,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199060,
+      "num": 199060,
+      "word": "撒贝宁尼格买提录节目遇到水蛇",
+      "onboard_time": 1758381563,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 197605,
@@ -1563,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153379,
-      "num": 153379,
-      "word": "网红被指在龟展上搞擦边",
-      "onboard_time": 1758381204,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153348,
       "num": 153348,
       "word": "恋与制作人",
@@ -1851,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137978,
+      "num": 265983,
+      "word": "始祖鸟欠喜马拉雅山一声道歉",
+      "onboard_time": 1758380963,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137760,
       "num": 123019,
       "word": "86岁北京大爷大学学历退休收入",
@@ -1953,14 +1985,6 @@
       "onboard_time": 1758344542,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131914,
-      "num": 131914,
-      "word": "撒贝宁尼格买提录节目遇到水蛇",
-      "onboard_time": 1758381563,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 131478,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1758341422,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125467,
+      "num": 148983,
+      "word": "辛云来直播",
+      "onboard_time": 1758382164,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 125366,
@@ -2251,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120053,
+      "num": 119756,
+      "word": "孟子义闭麦了没闭嘴",
+      "onboard_time": 1758380664,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118817,
       "num": 118817,
       "word": "陈数婉拒浪姐的原因",
@@ -2337,14 +2377,6 @@
       "onboard_time": 1758351742,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116083,
-      "num": 116083,
-      "word": "华晨宇唱着唱着被举起来了",
-      "onboard_time": 1758381683,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 115958,
@@ -2611,6 +2643,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 106023,
+      "num": 106023,
+      "word": "返美机票价格大涨",
+      "onboard_time": 1758382462,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105238,
       "num": 105238,
       "word": "赴山海成毅专访",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1758340283,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102426,
+      "num": 102426,
+      "word": "Karsa想和TES一起去S15",
+      "onboard_time": 1758379464,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 102359,
@@ -3211,14 +3259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72770,
-      "num": 265983,
-      "word": "始祖鸟欠喜马拉雅山一声道歉",
-      "onboard_time": 1758380963,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71906,
       "num": 115827,
       "word": "中美元首通电话",
@@ -3475,6 +3515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49891,
+      "num": 121498,
+      "word": "韩国女子说支持以色列遭吐口水",
+      "onboard_time": 1758381744,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49695,
       "num": 112203,
       "word": "南派三叔你来练我胆了",
@@ -3523,6 +3571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 43352,
+      "num": 163465,
+      "word": "无印良品供销社穿搭风爆火",
+      "onboard_time": 1758382284,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42137,
       "num": 231837,
       "word": "董璇说佟丽娅在最难时撑住我",
@@ -3569,14 +3625,6 @@
       "onboard_time": 1758348203,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40443,
-      "num": 116945,
-      "word": "韩国女子说支持以色列遭吐口水",
-      "onboard_time": 1758381744,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 38874,
