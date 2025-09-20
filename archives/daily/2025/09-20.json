@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758343323562,
+  "endTime": 1758345798600,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1440011,
-      "num": 355148,
+      "num": 401632,
       "word": "姐姐在美国失联了",
       "onboard_time": 1758332301,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1413835,
+      "num": 1413835,
+      "word": "花少7落选小妹发文回应",
+      "onboard_time": 1758340223,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1394686,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 857856,
-      "num": 353235,
+      "num": 401446,
       "word": "武汉大学复核通报",
       "onboard_time": 1758333921,
       "rank": 13,
@@ -115,19 +123,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 643248,
-      "num": 643248,
-      "word": "花少7落选小妹发文回应",
-      "onboard_time": 1758340223,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 640651,
       "num": 321082,
       "word": "杨某媛论文存在百余处不规范",
       "onboard_time": 1758334761,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 638697,
+      "num": 638697,
+      "word": "遭老板性侵女子称受不了老公被骂",
+      "onboard_time": 1758338902,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -145,6 +153,14 @@
       "onboard_time": 1758334282,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 513039,
+      "num": 513039,
+      "word": "儿子串通母亲隐瞒姐姐独占房产",
+      "onboard_time": 1758339443,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497909,
@@ -195,6 +211,14 @@
       "category": "海外新闻,数码"
     },
     {
+      "raw_hot": 389596,
+      "num": 389596,
+      "word": "独居最大的坏处已经出现了",
+      "onboard_time": 1758338603,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385660,
       "num": 385660,
       "word": "医院做月饼 打败月饼厂",
@@ -203,20 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 360467,
-      "num": 350989,
-      "word": "独居最大的坏处已经出现了",
-      "onboard_time": 1758338603,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 350391,
-      "num": 350391,
-      "word": "遭老板性侵女子称受不了老公被骂",
-      "onboard_time": 1758338902,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 380544,
+      "num": 380544,
+      "word": "字节跳动一亿美金估值的offer长这样",
+      "onboard_time": 1758344602,
+      "rank": 13,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 345157,
@@ -291,6 +307,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 294211,
+      "num": 294211,
+      "word": "董璇说这次婚姻要把丑话说在前",
+      "onboard_time": 1758344241,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288655,
+      "num": 356890,
+      "word": "用拖鞋搅奶茶男子应聘时就不对劲",
+      "onboard_time": 1758338721,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284214,
       "num": 216890,
       "word": "贾静雯被震醒了",
@@ -315,20 +347,20 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 265479,
+      "num": 214311,
+      "word": "谢娜大学时期美得好突出",
+      "onboard_time": 1758344542,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263887,
       "num": 184659,
       "word": "刘涛说下海原来是真的",
       "onboard_time": 1758294323,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261216,
-      "num": 356890,
-      "word": "用拖鞋搅奶茶男子应聘时就不对劲",
-      "onboard_time": 1758338721,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260197,
@@ -347,20 +379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257136,
+      "num": 213205,
+      "word": "3岁女童坠亡母亲因自责精神出问题",
+      "onboard_time": 1758340883,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256974,
       "num": 256974,
       "word": "湖南卫视向往的生活回归预告",
       "onboard_time": 1758328462,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251244,
-      "num": 251244,
-      "word": "儿子串通母亲隐瞒姐姐独占房产",
-      "onboard_time": 1758339443,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236333,
@@ -443,27 +475,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206954,
-      "num": 161875,
-      "word": "被老板强奸女高管老公回应",
-      "onboard_time": 1758259403,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205012,
-      "num": 202831,
+      "raw_hot": 210313,
+      "num": 210313,
       "word": "成毅时装九月封面",
       "onboard_time": 1758342803,
       "rank": 21,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 203284,
-      "num": 203284,
-      "word": "3岁女童坠亡母亲因自责精神出问题",
-      "onboard_time": 1758340883,
-      "rank": 25,
+      "raw_hot": 206954,
+      "num": 161875,
+      "word": "被老板强奸女高管老公回应",
+      "onboard_time": 1758259403,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -481,6 +505,14 @@
       "onboard_time": 1758294443,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190760,
+      "num": 190760,
+      "word": "凡人修仙传",
+      "onboard_time": 1758341184,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 187588,
@@ -539,12 +571,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 177306,
-      "num": 177306,
-      "word": "凡人修仙传",
-      "onboard_time": 1758341184,
-      "rank": 27,
-      "category": "动漫"
+      "raw_hot": 171498,
+      "num": 171498,
+      "word": "曾黎复原了2500年前的战国袍",
+      "onboard_time": 1758340102,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 168525,
@@ -571,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167847,
+      "num": 167847,
+      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+      "onboard_time": 1758342742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166684,
       "num": 166684,
       "word": "三块钱硬是花出了三万的感觉",
       "onboard_time": 1758341002,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164634,
+      "num": 164634,
+      "word": "原来这是牙齿的求救信号",
+      "onboard_time": 1758341002,
+      "rank": 33,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 164071,
@@ -595,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162381,
-      "num": 162381,
-      "word": "曾黎复原了2500年前的战国袍",
-      "onboard_time": 1758340102,
+      "raw_hot": 162490,
+      "num": 162490,
+      "word": "小酒窝主动提出要对张维伊改口",
+      "onboard_time": 1758345263,
       "rank": 28,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 162045,
@@ -683,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146483,
+      "num": 146483,
+      "word": "减脂人有自己的下午茶",
+      "onboard_time": 1758343882,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146236,
       "num": 146236,
       "word": "祖本杀猪盘人犯作法自毙",
@@ -721,14 +777,6 @@
       "onboard_time": 1758300319,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140043,
-      "num": 140043,
-      "word": "原来这是牙齿的求救信号",
-      "onboard_time": 1758341002,
-      "rank": 33,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 139938,
@@ -1011,12 +1059,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 109764,
+      "num": 109764,
+      "word": "南昌变成了王源痛城",
+      "onboard_time": 1758345622,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108702,
       "num": 108702,
       "word": "身体5个部位疼可能是心梗前兆",
       "onboard_time": 1758324740,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107191,
+      "num": 107191,
+      "word": "吴邪私家笔记开播",
+      "onboard_time": 1758343341,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 105109,
@@ -1115,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100516,
+      "num": 100516,
+      "word": "罗小黑奈雪联名",
+      "onboard_time": 1758345682,
+      "rank": 46,
+      "category": "动漫,美食"
+    },
+    {
       "raw_hot": 100372,
       "num": 100372,
       "word": "樊振东19分钟速胜对手",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1758287603,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97221,
+      "num": 97221,
+      "word": "吴邪来拆汪藏海修的机关了",
+      "onboard_time": 1758345742,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 96668,
@@ -1251,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78104,
+      "num": 109879,
+      "word": "深圳水贝部分金料商爆雷跑路",
+      "onboard_time": 1758344482,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77130,
       "num": 77130,
       "word": "樊振东被大毛巾整个遮住",
@@ -1331,6 +1419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71762,
+      "num": 109877,
+      "word": "日本战机罕见飞往欧美四国",
+      "onboard_time": 1758344482,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70186,
       "num": 115827,
       "word": "谁来阻止一下彭昱畅演苍蝇",
@@ -1369,6 +1465,14 @@
       "onboard_time": 1758279924,
       "rank": 46,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 62233,
+      "num": 215440,
+      "word": "香港炸弹已拆除外壳",
+      "onboard_time": 1758344542,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61672,
@@ -1491,6 +1595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42402,
+      "num": 109905,
+      "word": "刘一菲否认是蹭刘亦菲火的",
+      "onboard_time": 1758345682,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 42075,
       "num": 872432,
       "word": "网警破获AI换脸非法侵入案",
@@ -1505,14 +1617,6 @@
       "onboard_time": 1758302897,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37789,
-      "num": 153288,
-      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
-      "onboard_time": 1758342742,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36621,
@@ -1587,6 +1691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 22594,
+      "num": 96828,
+      "word": "2025东博会和峰会",
+      "onboard_time": 1758344961,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14845,
       "num": 47758,
       "word": "在阿富汗渲染紧张制造对抗不得人心",
@@ -1609,6 +1721,14 @@
       "onboard_time": 1758332780,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 6737,
+      "num": 667675,
+      "word": "2025世界制造业大会",
+      "onboard_time": 1758345203,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
