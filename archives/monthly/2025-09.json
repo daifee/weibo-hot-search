@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758357742179,
+  "endTime": 1758360220188,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -227,6 +227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 4281027,
+      "num": 1058223,
+      "word": "台湾海峡4.1级地震",
+      "onboard_time": 1758359421,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4117565,
       "num": 2584122,
       "word": "金正恩抵达",
@@ -417,6 +425,14 @@
       "onboard_time": 1756891104,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2981016,
+      "num": 2981016,
+      "word": "始祖鸟",
+      "onboard_time": 1758355881,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2953116,
@@ -899,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2147671,
-      "num": 2147671,
-      "word": "始祖鸟",
-      "onboard_time": 1758355881,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 2144234,
       "num": 1132615,
       "word": "陈晓直播好几次叹气",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1757389822,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1708250,
+      "num": 1708250,
+      "word": "蔡国强工作室回应烟花争议",
+      "onboard_time": 1758357562,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1692401,
@@ -6435,6 +6451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 658844,
+      "num": 392842,
+      "word": "她一次性换了我一辈子的衣服",
+      "onboard_time": 1758355881,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 658666,
       "num": 396390,
       "word": "小袁回应说胡楚靓口臭",
@@ -7009,6 +7033,14 @@
       "onboard_time": 1757314403,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 610045,
+      "num": 610045,
+      "word": "陈赫再复刻黄磊不加水的红烧肉",
+      "onboard_time": 1758355041,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 609397,
@@ -7675,6 +7707,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 566794,
+      "num": 566794,
+      "word": "张晚意捂了马思纯耳朵",
+      "onboard_time": 1758356481,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566709,
       "num": 566709,
       "word": "东风快递 使命必达",
@@ -7872,14 +7912,6 @@
       "word": "黄子韬说因为徐艺洋像白纸而被吸引",
       "onboard_time": 1757820022,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 554472,
-      "num": 554472,
-      "word": "陈赫再复刻黄磊不加水的红烧肉",
-      "onboard_time": 1758355041,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -10409,6 +10441,14 @@
       "onboard_time": 1756971622,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 441612,
+      "num": 391312,
+      "word": "董璇说现在接戏是为了还债",
+      "onboard_time": 1758358642,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 441359,
@@ -15539,6 +15579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289454,
+      "num": 289454,
+      "word": "厦门震感",
+      "onboard_time": 1758359542,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289264,
       "num": 289264,
       "word": "爱到这种程度再结婚",
@@ -16475,6 +16523,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 270234,
+      "num": 270234,
+      "word": "清华晨跑大神刘小平离世",
+      "onboard_time": 1758358101,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270163,
       "num": 270163,
       "word": "北京胡同拆迁补偿多少钱",
@@ -16713,14 +16769,6 @@
       "onboard_time": 1757744303,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 264674,
-      "num": 264674,
-      "word": "蔡国强工作室回应烟花争议",
-      "onboard_time": 1758357562,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264653,
@@ -19427,6 +19475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221034,
+      "num": 165194,
+      "word": "董璇说有两个孩子不可能一碗水端平",
+      "onboard_time": 1758358642,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221028,
       "num": 221028,
       "word": "官方通报9名女生欺凌同学",
@@ -19569,14 +19625,6 @@
       "onboard_time": 1756809620,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 219308,
-      "num": 219308,
-      "word": "张晚意捂了马思纯耳朵",
-      "onboard_time": 1758356481,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 219147,
@@ -20099,14 +20147,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 212654,
-      "num": 148976,
-      "word": "她一次性换了我一辈子的衣服",
-      "onboard_time": 1758355881,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212537,
       "num": 212537,
       "word": "石凯直播",
@@ -20561,6 +20601,14 @@
       "onboard_time": 1756909825,
       "rank": 40,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 208636,
+      "num": 221927,
+      "word": "男子称自己离婚都怪女邻居",
+      "onboard_time": 1758356299,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208596,
@@ -21513,6 +21561,14 @@
       "onboard_time": 1757154561,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201338,
+      "num": 196272,
+      "word": "维嘉说万千惠被人做局了",
+      "onboard_time": 1758358763,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 201326,
@@ -24296,14 +24352,6 @@
       "word": "女子地铁拒安检多次追打工作人员",
       "onboard_time": 1757259205,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186690,
-      "num": 221927,
-      "word": "男子称自己离婚都怪女邻居",
-      "onboard_time": 1758356299,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -28915,12 +28963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161744,
+      "num": 199639,
+      "word": "蔡国强烟火放到喜马拉雅山",
+      "onboard_time": 1758350181,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161724,
       "num": 188758,
       "word": "特朗普回应石破茂辞职",
       "onboard_time": 1757301683,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161723,
+      "num": 392862,
+      "word": "商务部回应TikTok问题进展情况",
+      "onboard_time": 1758358882,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 161673,
@@ -29897,6 +29961,14 @@
       "onboard_time": 1757257044,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157395,
+      "num": 157395,
+      "word": "阚清子孕期自拍",
+      "onboard_time": 1758359242,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 157368,
@@ -31651,6 +31723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150082,
+      "num": 137496,
+      "word": "微博快手被约谈",
+      "onboard_time": 1758360021,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150065,
       "num": 265881,
       "word": "捕风追影有赵雅芝老公儿子",
@@ -31905,6 +31985,14 @@
       "onboard_time": 1757664923,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149309,
+      "num": 149309,
+      "word": "iPhone17会成为钉子户吗",
+      "onboard_time": 1758354800,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 149308,
@@ -36267,6 +36355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135235,
+      "num": 135235,
+      "word": "HLE战胜KT",
+      "onboard_time": 1758358701,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135224,
       "num": 135224,
       "word": "发现颜值焦虑在两广消失了",
@@ -39627,14 +39723,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 125210,
-      "num": 125210,
-      "word": "iPhone17会成为钉子户吗",
-      "onboard_time": 1758354800,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125200,
       "num": 154236,
       "word": "大型犬撕咬孩子三分钟",
@@ -40667,6 +40755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122151,
+      "num": 122151,
+      "word": "林孝埈逛公园",
+      "onboard_time": 1758359602,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122146,
       "num": 159718,
       "word": "武契奇称阅兵是中国给世界的安全感",
@@ -40753,6 +40849,14 @@
       "onboard_time": 1757946744,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121867,
+      "num": 121867,
+      "word": "福州地铁免费试乘被大爷大妈挤爆",
+      "onboard_time": 1758358822,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121847,
@@ -40985,14 +41089,6 @@
       "onboard_time": 1757779344,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121408,
-      "num": 121408,
-      "word": "蔡国强烟火放到喜马拉雅山",
-      "onboard_time": 1758350181,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 121369,
@@ -43083,6 +43179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115266,
+      "num": 115266,
+      "word": "女子婚后起诉父母返还18万彩礼",
+      "onboard_time": 1758358462,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115219,
       "num": 115219,
       "word": "赴山海脑袋伸不进屏幕的无力感",
@@ -44177,6 +44281,14 @@
       "onboard_time": 1757908042,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111962,
+      "num": 111962,
+      "word": "恋爱十年的情侣因生育问题分手",
+      "onboard_time": 1758355161,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111956,
@@ -45499,6 +45611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 108522,
+      "num": 108522,
+      "word": "看出陈星旭的北舞实力了",
+      "onboard_time": 1758360021,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108521,
       "num": 108521,
       "word": "历次降息后各类资产表现真相梳理",
@@ -45825,14 +45945,6 @@
       "onboard_time": 1757676864,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107704,
-      "num": 107704,
-      "word": "恋爱十年的情侣因生育问题分手",
-      "onboard_time": 1758355161,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107703,
@@ -47915,6 +48027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101836,
+      "num": 101836,
+      "word": "罗小黑战记",
+      "onboard_time": 1758358941,
+      "rank": 43,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 101804,
       "num": 101804,
       "word": "王皓抠手",
@@ -49811,6 +49931,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 96246,
+      "num": 96246,
+      "word": "江门启动突发公共卫生事件三级响应",
+      "onboard_time": 1758357742,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96244,
       "num": 216879,
       "word": "黄金价格再度突破历史新高",
@@ -50499,6 +50627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93694,
+      "num": 93694,
+      "word": "被一档综艺美得一愣一愣的",
+      "onboard_time": 1758360021,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93661,
       "num": 93661,
       "word": "李艺彤把自己的牙套抵押了",
@@ -51033,6 +51169,14 @@
       "onboard_time": 1756997964,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91503,
+      "num": 91503,
+      "word": "张予曦音乐节",
+      "onboard_time": 1758360021,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 91492,
@@ -58123,6 +58267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52137,
+      "num": 118839,
+      "word": "花花真的什么都懂",
+      "onboard_time": 1758359602,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52111,
       "num": 59522,
       "word": "何赛飞喊话追星者结婚生娃",
@@ -61097,6 +61249,14 @@
       "onboard_time": 1756984702,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30616,
+      "num": 118593,
+      "word": "用水宝宝种菜",
+      "onboard_time": 1758359662,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30357,

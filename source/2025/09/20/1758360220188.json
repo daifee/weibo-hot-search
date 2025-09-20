@@ -1,0 +1,402 @@
+{
+  "runTime": 1758360220188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2981016,
+        "num": 2981016,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1708250,
+        "num": 1708250,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4281027,
+        "num": 1058223,
+        "word": "台湾海峡4.1级地震",
+        "onboard_time": 1758359421,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939487,
+        "num": 939487,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610045,
+        "num": 610045,
+        "word": "陈赫再复刻黄磊不加水的红烧肉",
+        "onboard_time": 1758355041,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566794,
+        "num": 566794,
+        "word": "张晚意捂了马思纯耳朵",
+        "onboard_time": 1758356481,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532863,
+        "num": 532863,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 424351,
+        "num": 424351,
+        "word": "武大撤销肖某某记过处分",
+        "onboard_time": 1758333742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161723,
+        "num": 392862,
+        "word": "商务部回应TikTok问题进展情况",
+        "onboard_time": 1758358882,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 658844,
+        "num": 392842,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441612,
+        "num": 391312,
+        "word": "董璇说现在接戏是为了还债",
+        "onboard_time": 1758358642,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386450,
+        "num": 386450,
+        "word": "剪毁刘海意外成了人生发型",
+        "onboard_time": 1758353421,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330338,
+        "num": 330338,
+        "word": "巴基斯坦确认向沙特提供核保护伞",
+        "onboard_time": 1758353001,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289454,
+        "num": 289454,
+        "word": "厦门震感",
+        "onboard_time": 1758359542,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270234,
+        "num": 270234,
+        "word": "清华晨跑大神刘小平离世",
+        "onboard_time": 1758358101,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247035,
+        "num": 247035,
+        "word": "花少7落选小妹发文回应",
+        "onboard_time": 1758340223,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208636,
+        "num": 208636,
+        "word": "男子称自己离婚都怪女邻居",
+        "onboard_time": 1758356299,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199810,
+        "num": 199810,
+        "word": "福建震感",
+        "onboard_time": 1758324678,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161744,
+        "num": 199639,
+        "word": "蔡国强烟火放到喜马拉雅山",
+        "onboard_time": 1758350181,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669582,
+        "num": 198420,
+        "word": "小酒窝主动提出要对张维伊改口",
+        "onboard_time": 1758345263,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304808,
+        "num": 197803,
+        "word": "易烊千玺曾想匿名出演酱园弄",
+        "onboard_time": 1758352701,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201338,
+        "num": 196272,
+        "word": "维嘉说万千惠被人做局了",
+        "onboard_time": 1758358763,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196232,
+        "num": 196232,
+        "word": "字节跳动一亿美金估值的offer长这样",
+        "onboard_time": 1758344602,
+        "rank": 23,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 172345,
+        "num": 172345,
+        "word": "台湾地震",
+        "onboard_time": 1758324018,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 221034,
+        "num": 165194,
+        "word": "董璇说有两个孩子不可能一碗水端平",
+        "onboard_time": 1758358642,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157395,
+        "num": 157395,
+        "word": "阚清子孕期自拍",
+        "onboard_time": 1758359242,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156538,
+        "num": 156538,
+        "word": "陈紫函停工3年做了12次试管",
+        "onboard_time": 1758333020,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149309,
+        "num": 149309,
+        "word": "iPhone17会成为钉子户吗",
+        "onboard_time": 1758354800,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134087,
+        "num": 147524,
+        "word": "繁花",
+        "onboard_time": 1758356363,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34844,
+        "num": 143349,
+        "word": "我想走遍祖国的万里河山",
+        "onboard_time": 1758355941,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 394217,
+        "num": 139982,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 31,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 150082,
+        "num": 137496,
+        "word": "微博快手被约谈",
+        "onboard_time": 1758360021,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135235,
+        "num": 135235,
+        "word": "HLE战胜KT",
+        "onboard_time": 1758358701,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134302,
+        "num": 134302,
+        "word": "女朋友简直就是免死金牌",
+        "onboard_time": 1758348082,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122151,
+        "num": 122151,
+        "word": "林孝埈逛公园",
+        "onboard_time": 1758359602,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121867,
+        "num": 121867,
+        "word": "福州地铁免费试乘被大爷大妈挤爆",
+        "onboard_time": 1758358822,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52137,
+        "num": 118839,
+        "word": "花花真的什么都懂",
+        "onboard_time": 1758359602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30616,
+        "num": 118593,
+        "word": "用水宝宝种菜",
+        "onboard_time": 1758359662,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118496,
+        "num": 118496,
+        "word": "台风桦加沙最强或达超强台风级别",
+        "onboard_time": 1758347962,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 115266,
+        "num": 115266,
+        "word": "女子婚后起诉父母返还18万彩礼",
+        "onboard_time": 1758358462,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111962,
+        "num": 111962,
+        "word": "恋爱十年的情侣因生育问题分手",
+        "onboard_time": 1758355161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108522,
+        "num": 108522,
+        "word": "看出陈星旭的北舞实力了",
+        "onboard_time": 1758360021,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101836,
+        "num": 101836,
+        "word": "罗小黑战记",
+        "onboard_time": 1758358941,
+        "rank": 43,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 99806,
+        "num": 99806,
+        "word": "香港炸弹",
+        "onboard_time": 1758326181,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96246,
+        "num": 96246,
+        "word": "江门启动突发公共卫生事件三级响应",
+        "onboard_time": 1758357742,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93694,
+        "num": 93694,
+        "word": "被一档综艺美得一愣一愣的",
+        "onboard_time": 1758360021,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91503,
+        "num": 91503,
+        "word": "张予曦音乐节",
+        "onboard_time": 1758360021,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90332,
+        "num": 90332,
+        "word": "高度近视眼要防止视网膜脱落",
+        "onboard_time": 1758351922,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86963,
+        "num": 86963,
+        "word": "香港发现的炸弹内有227公斤炸药",
+        "onboard_time": 1758355281,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}
