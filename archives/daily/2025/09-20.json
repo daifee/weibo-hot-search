@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758375547469,
+  "endTime": 1758378079639,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -163,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 925880,
+      "num": 925880,
+      "word": "731票房",
+      "onboard_time": 1758365843,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 880676,
+      "num": 880676,
+      "word": "以色列清退中国工人",
+      "onboard_time": 1758376823,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 857856,
       "num": 401446,
       "word": "武汉大学复核通报",
@@ -179,14 +195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 826450,
-      "num": 826450,
-      "word": "731票房",
-      "onboard_time": 1758365843,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 810800,
       "num": 810800,
       "word": "巴基斯坦确认向沙特提供核保护伞",
@@ -195,12 +203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 783923,
+      "num": 783923,
+      "word": "穿始祖鸟是为亲近自然而非看它炸山",
+      "onboard_time": 1758372083,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 777079,
       "num": 463519,
       "word": "女朋友简直就是免死金牌",
       "onboard_time": 1758348082,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 765339,
+      "num": 765339,
+      "word": "始祖鸟客服回应烟花争议",
+      "onboard_time": 1758373163,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 759928,
@@ -235,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 658459,
+      "num": 330395,
+      "word": "张柏芝生图轻轻秒了",
+      "onboard_time": 1758372924,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656064,
       "num": 656064,
       "word": "张晚意捂了马思纯耳朵",
@@ -249,6 +281,14 @@
       "onboard_time": 1758334580,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649230,
+      "num": 649230,
+      "word": "在隔壁老樊演唱会看到了王楚钦",
+      "onboard_time": 1758375204,
+      "rank": 26,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 640651,
@@ -363,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 510325,
-      "num": 330395,
-      "word": "张柏芝生图轻轻秒了",
-      "onboard_time": 1758372924,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500666,
       "num": 500666,
       "word": "美国男子坐时速100km过山车身亡",
@@ -395,14 +427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 485051,
-      "num": 485051,
-      "word": "始祖鸟客服回应烟花争议",
-      "onboard_time": 1758373163,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 484559,
       "num": 484559,
       "word": "七月的一天",
@@ -419,8 +443,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 467049,
-      "num": 467049,
+      "raw_hot": 471392,
+      "num": 471392,
       "word": "白鹿直播",
       "onboard_time": 1758373703,
       "rank": 8,
@@ -529,6 +553,14 @@
       "onboard_time": 1758361882,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351904,
+      "num": 317044,
+      "word": "李兰陵结婚",
+      "onboard_time": 1758373883,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 345157,
@@ -651,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270776,
-      "num": 270776,
-      "word": "穿始祖鸟是为亲近自然而非看它炸山",
-      "onboard_time": 1758372083,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269829,
       "num": 171666,
       "word": "杨某媛导师被暂停研究生招生资格",
@@ -739,6 +763,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248374,
+      "num": 248374,
+      "word": "吴镇宇以为自己是来演吴邪的",
+      "onboard_time": 1758373042,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240522,
+      "num": 240522,
+      "word": "始祖鸟的烟花劝退了真正的户外人",
+      "onboard_time": 1758373283,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239024,
       "num": 239024,
       "word": "阚清子孕期自拍",
@@ -763,28 +803,12 @@
       "category": "剧集,民生新闻"
     },
     {
-      "raw_hot": 236308,
-      "num": 236308,
-      "word": "李兰陵结婚",
-      "onboard_time": 1758373883,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228622,
       "num": 177960,
       "word": "明日方舟",
       "onboard_time": 1758339082,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227779,
-      "num": 227779,
-      "word": "始祖鸟的烟花劝退了真正的户外人",
-      "onboard_time": 1758373283,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227033,
@@ -832,6 +856,14 @@
       "word": "唐国强 按劳取酬纳税光荣",
       "onboard_time": 1758335241,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218319,
+      "num": 199277,
+      "word": "郑恺给鸡接生",
+      "onboard_time": 1758375803,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -923,12 +955,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201120,
-      "num": 201120,
-      "word": "吴镇宇以为自己是来演吴邪的",
-      "onboard_time": 1758373042,
-      "rank": 40,
+      "raw_hot": 199716,
+      "num": 199716,
+      "word": "731上映3天票房破10亿",
+      "onboard_time": 1758375264,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199387,
+      "num": 199387,
+      "word": "白敬亭文咏珊不眠日吻戏",
+      "onboard_time": 1758376883,
+      "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199240,
+      "num": 199240,
+      "word": "始祖鸟删博",
+      "onboard_time": 1758375383,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198805,
+      "num": 196260,
+      "word": "戴向宇说陈紫函会给他洗内裤",
+      "onboard_time": 1758376584,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 197605,
@@ -961,14 +1017,6 @@
       "onboard_time": 1758350122,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192092,
-      "num": 192092,
-      "word": "731上映3天票房破10亿",
-      "onboard_time": 1758375264,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 191881,
@@ -1011,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186820,
-      "num": 186820,
-      "word": "在隔壁老樊演唱会看到了王楚钦",
-      "onboard_time": 1758375204,
-      "rank": 26,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 186640,
       "num": 186640,
       "word": "苏超淮安1比0南通",
@@ -1051,12 +1091,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185516,
+      "num": 185516,
+      "word": "F1",
+      "onboard_time": 1758376043,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184725,
+      "num": 184725,
+      "word": "仰望U9",
+      "onboard_time": 1758377363,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 182118,
+      "num": 182118,
+      "word": "陈楚生也是闯进团播赛道了",
+      "onboard_time": 1758376702,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181251,
       "num": 174594,
       "word": "罗小黑",
       "onboard_time": 1758337342,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 180440,
+      "num": 180440,
+      "word": "刘雨昕北京场上座率",
+      "onboard_time": 1758376883,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 180250,
@@ -1089,6 +1161,14 @@
       "onboard_time": 1758372683,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176243,
+      "num": 176243,
+      "word": "AG爱笑",
+      "onboard_time": 1758374964,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 175634,
@@ -1153,6 +1233,14 @@
       "onboard_time": 1758335541,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168376,
+      "num": 168376,
+      "word": "蔚来ES8",
+      "onboard_time": 1758376223,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 168331,
@@ -1323,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158227,
+      "num": 158227,
+      "word": "广东茂名火流星陨石重达800多斤",
+      "onboard_time": 1758373283,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157920,
       "num": 157920,
       "word": "看出陈星旭的北舞实力了",
@@ -1420,7 +1516,7 @@
     },
     {
       "raw_hot": 152791,
-      "num": 181319,
+      "num": 193183,
       "word": "23万的车能豪华成什么样",
       "onboard_time": 1758374543,
       "rank": 28,
@@ -1475,12 +1571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148939,
-      "num": 148939,
-      "word": "广东茂名火流星陨石重达800多斤",
-      "onboard_time": 1758373283,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 148970,
+      "num": 148970,
+      "word": "苏超淮安1比1南通",
+      "onboard_time": 1758375504,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 148166,
@@ -1499,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147403,
+      "num": 147403,
+      "word": "中国花滑女单获冬奥资格",
+      "onboard_time": 1758376223,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147297,
       "num": 147297,
       "word": "叶修才是凡尔赛鼻祖",
@@ -1507,20 +1611,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 147128,
+      "num": 147128,
+      "word": "李泽言配音",
+      "onboard_time": 1758377064,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146483,
       "num": 146483,
       "word": "减脂人有自己的下午茶",
       "onboard_time": 1758343882,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146438,
-      "num": 146438,
-      "word": "AG爱笑",
-      "onboard_time": 1758374964,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 146236,
@@ -1691,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136291,
+      "num": 190766,
+      "word": "纯电大三排SUV的时代正在到来",
+      "onboard_time": 1758377244,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 135974,
       "num": 135974,
       "word": "博主回应做饭时猫将老鼠丢进锅",
@@ -1753,14 +1865,6 @@
       "onboard_time": 1758344542,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132025,
-      "num": 132025,
-      "word": "苏超淮安1比1南通",
-      "onboard_time": 1758375504,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 130522,
@@ -1857,6 +1961,14 @@
       "onboard_time": 1758333440,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127892,
+      "num": 127892,
+      "word": "郑钧婚前给刘芸母亲打电话",
+      "onboard_time": 1758377303,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 127314,
@@ -1979,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121704,
+      "num": 121704,
+      "word": "哪吒来川超团建了",
+      "onboard_time": 1758378024,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121595,
       "num": 121595,
       "word": "樊振东德国杯首秀",
@@ -2000,6 +2120,14 @@
       "word": "大量鸟儿撞向高楼玻璃死亡",
       "onboard_time": 1758361341,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120522,
+      "num": 120522,
+      "word": "保安将开水放精神病患者裤腰",
+      "onboard_time": 1758377665,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2795,14 +2923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80878,
-      "num": 150287,
-      "word": "始祖鸟删博",
-      "onboard_time": 1758375383,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79336,
       "num": 115827,
       "word": "特朗普拒绝批准4亿美元对台军售",
@@ -3027,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60483,
+      "num": 186642,
+      "word": "知名医美机构闭店老板疑被骗去泰国",
+      "onboard_time": 1758376883,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59699,
       "num": 115827,
       "word": "小米17Pro背屏投入超10亿",
@@ -3089,6 +3217,14 @@
       "onboard_time": 1758299960,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53590,
+      "num": 187847,
+      "word": "南派三叔十年复仇之作",
+      "onboard_time": 1758377842,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 53292,
@@ -3363,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26225,
+      "num": 899183,
+      "word": "砥砺奋进七十载天山南北谱华章",
+      "onboard_time": 1758375445,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25102,
       "num": 108406,
       "word": "家人苦寻女子结果已在美被捕",
@@ -3427,20 +3571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8081,
+      "num": 159517,
+      "word": "60后大一新生说可请妻子开家长会",
+      "onboard_time": 1758377965,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7314,
       "num": 85732,
       "word": "谁是第一个后缀变iPhone17的人",
       "onboard_time": 1758332780,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 7169,
-      "num": 645761,
-      "word": "砥砺奋进七十载天山南北谱华章",
-      "onboard_time": 1758375445,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6737,
