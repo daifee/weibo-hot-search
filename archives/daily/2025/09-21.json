@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758388753311,
+  "endTime": 1758389791675,
   "band_list": [
     {
       "raw_hot": 2613697,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 400897,
-      "num": 400897,
+      "num": 422842,
       "word": "湖南一女子涉嫌杀8旬舅舅潜逃",
       "onboard_time": 1758383483,
       "rank": 22,
@@ -451,12 +451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43597,
+      "raw_hot": 43699,
       "num": 89364,
       "word": "刘雨昕北京场上座率",
       "onboard_time": 1758376883,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34430,
+      "num": 69487,
+      "word": "无畏契约",
+      "onboard_time": 1758389778,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 25541,

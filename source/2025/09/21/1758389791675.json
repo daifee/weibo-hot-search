@@ -1,0 +1,410 @@
+{
+  "runTime": 1758389791675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 392768,
+        "num": 422842,
+        "word": "湖南一女子涉嫌杀8旬舅舅潜逃",
+        "onboard_time": 1758383483,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385828,
+        "num": 385828,
+        "word": "身体发炎时尽量少碰4种食物",
+        "onboard_time": 1758382342,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13205,
+        "num": 316356,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758375445,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257070,
+        "num": 257070,
+        "word": "加沙已变死城",
+        "onboard_time": 1758367222,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198523,
+        "num": 198523,
+        "word": "网红被指在龟展上搞擦边",
+        "onboard_time": 1758381204,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185804,
+        "num": 185804,
+        "word": "蔡国强被誉为中国烟花第一人",
+        "onboard_time": 1758380482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183233,
+        "num": 183233,
+        "word": "731票房",
+        "onboard_time": 1758365843,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145134,
+        "num": 145134,
+        "word": "始祖鸟欠喜马拉雅山一声道歉",
+        "onboard_time": 1758380963,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137280,
+        "num": 137280,
+        "word": "日本外相宣布暂不承认巴勒斯坦国",
+        "onboard_time": 1758383063,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99641,
+        "num": 137178,
+        "word": "在隔壁老樊演唱会看到了王楚钦",
+        "onboard_time": 1758375204,
+        "rank": 9,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 708579,
+        "num": 136313,
+        "word": "易烊千玺",
+        "onboard_time": 1758385942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706487,
+        "num": 135011,
+        "word": "王俊凯工作室",
+        "onboard_time": 1758378323,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378893,
+        "num": 134428,
+        "word": "王源",
+        "onboard_time": 1758385642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303433,
+        "num": 133812,
+        "word": "以色列清退中国工人",
+        "onboard_time": 1758376823,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172753,
+        "num": 133032,
+        "word": "马思纯花少人生镜头",
+        "onboard_time": 1758383123,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169007,
+        "num": 132176,
+        "word": "始祖鸟删博",
+        "onboard_time": 1758375383,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131643,
+        "num": 131643,
+        "word": "30岁我拔完了自己所有的牙齿",
+        "onboard_time": 1758382702,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129848,
+        "num": 129848,
+        "word": "王俊凯的生日碎碎念",
+        "onboard_time": 1758385942,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85169,
+        "num": 128326,
+        "word": "白鹿直播",
+        "onboard_time": 1758373703,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80930,
+        "num": 118091,
+        "word": "白敬亭文咏珊不眠日吻戏",
+        "onboard_time": 1758376883,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369799,
+        "num": 110544,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146133,
+        "num": 106768,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99238,
+        "num": 99238,
+        "word": "安踏",
+        "onboard_time": 1758369862,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 93709,
+        "word": "和对的人在一起的10个迹象",
+        "onboard_time": 1758384801,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77394,
+        "num": 77394,
+        "word": "杨幂祝你们经常上热搜",
+        "onboard_time": 1758385042,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 75683,
+        "num": 75683,
+        "word": "山西通报教师打学生致瘀血红肿",
+        "onboard_time": 1758384081,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69572,
+        "num": 69572,
+        "word": "无印良品供销社穿搭风爆火",
+        "onboard_time": 1758382284,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66116,
+        "num": 69571,
+        "word": "张柏芝生图轻轻秒了",
+        "onboard_time": 1758372924,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64033,
+        "num": 69566,
+        "word": "杨博文跳舞",
+        "onboard_time": 1758386361,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61476,
+        "num": 69561,
+        "word": "731上映3天票房破10亿",
+        "onboard_time": 1758375264,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60125,
+        "num": 69558,
+        "word": "始祖鸟的烟花劝退了真正的户外人",
+        "onboard_time": 1758373283,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59068,
+        "num": 69555,
+        "word": "始祖鸟客服回应烟花争议",
+        "onboard_time": 1758373163,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58820,
+        "num": 69552,
+        "word": "李泽言配音",
+        "onboard_time": 1758377064,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58025,
+        "num": 69545,
+        "word": "美国男子坐时速100km过山车身亡",
+        "onboard_time": 1758364402,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54320,
+        "num": 69541,
+        "word": "加沙",
+        "onboard_time": 1758378443,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52486,
+        "num": 69540,
+        "word": "戴向宇说陈紫函会给他洗内裤",
+        "onboard_time": 1758376584,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52090,
+        "num": 69536,
+        "word": "韩国女子说支持以色列遭吐口水",
+        "onboard_time": 1758381744,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51286,
+        "num": 69531,
+        "word": "植物学博士谈始祖鸟烟花秀事件",
+        "onboard_time": 1758379284,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49311,
+        "num": 69525,
+        "word": "AG爱笑",
+        "onboard_time": 1758374964,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49231,
+        "num": 69521,
+        "word": "返美机票价格大涨",
+        "onboard_time": 1758382462,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45580,
+        "num": 69517,
+        "word": "yagao让BLG双C不要站一起",
+        "onboard_time": 1758387079,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44917,
+        "num": 69516,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44827,
+        "num": 69509,
+        "word": "李兰陵结婚",
+        "onboard_time": 1758373883,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43699,
+        "num": 69508,
+        "word": "刘雨昕北京场上座率",
+        "onboard_time": 1758376883,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41343,
+        "num": 69504,
+        "word": "焦虑症vs抑郁症vs自闭症",
+        "onboard_time": 1758368243,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37320,
+        "num": 69499,
+        "word": "陈楚生也是闯进团播赛道了",
+        "onboard_time": 1758376702,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37268,
+        "num": 69494,
+        "word": "中国花滑女单获冬奥资格",
+        "onboard_time": 1758376223,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34517,
+        "num": 69492,
+        "word": "林俊杰音乐节 激光笔",
+        "onboard_time": 1758378264,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34430,
+        "num": 69487,
+        "word": "无畏契约",
+        "onboard_time": 1758389778,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33681,
+        "num": 69484,
+        "word": "华晨宇唱着唱着被举起来了",
+        "onboard_time": 1758381683,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}
