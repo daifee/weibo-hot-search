@@ -1,0 +1,410 @@
+{
+  "runTime": 1758406912062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197331,
+        "num": 376729,
+        "word": "身体发炎时尽量少碰4种食物",
+        "onboard_time": 1758382342,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189484,
+        "num": 189484,
+        "word": "湖南一女子涉嫌杀8旬舅舅潜逃",
+        "onboard_time": 1758383483,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9868,
+        "num": 124588,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758375445,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114798,
+        "num": 114798,
+        "word": "加沙已变死城",
+        "onboard_time": 1758367222,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106686,
+        "num": 106686,
+        "word": "网红被指在龟展上搞擦边",
+        "onboard_time": 1758381204,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91365,
+        "num": 91365,
+        "word": "始祖鸟欠喜马拉雅山一声道歉",
+        "onboard_time": 1758380963,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90274,
+        "num": 90274,
+        "word": "日本外相宣布暂不承认巴勒斯坦国",
+        "onboard_time": 1758383063,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63590,
+        "num": 63590,
+        "word": "山西通报教师打学生致瘀血红肿",
+        "onboard_time": 1758384081,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42842,
+        "num": 63430,
+        "word": "731票房",
+        "onboard_time": 1758365843,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31382,
+        "num": 63392,
+        "word": "白敬亭文咏珊不眠日吻戏",
+        "onboard_time": 1758376883,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166578,
+        "num": 63190,
+        "word": "以色列清退中国工人",
+        "onboard_time": 1758376823,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147408,
+        "num": 63030,
+        "word": "王源",
+        "onboard_time": 1758385642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106282,
+        "num": 62867,
+        "word": "始祖鸟删博",
+        "onboard_time": 1758375383,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82214,
+        "num": 62577,
+        "word": "易烊千玺",
+        "onboard_time": 1758385942,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66445,
+        "num": 62532,
+        "word": "王俊凯工作室",
+        "onboard_time": 1758378323,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62366,
+        "num": 62366,
+        "word": "蔡国强被誉为中国烟花第一人",
+        "onboard_time": 1758380482,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50137,
+        "num": 50137,
+        "word": "30岁我拔完了自己所有的牙齿",
+        "onboard_time": 1758382702,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47340,
+        "num": 47340,
+        "word": "返美机票价格大涨",
+        "onboard_time": 1758382462,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46282,
+        "num": 46282,
+        "word": "安踏",
+        "onboard_time": 1758369862,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25363,
+        "num": 45775,
+        "word": "七月的一天",
+        "onboard_time": 1758369504,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145114,
+        "num": 45655,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63422,
+        "num": 45635,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45503,
+        "num": 45503,
+        "word": "韩国核电站泄漏约265kg重水",
+        "onboard_time": 1758401234,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42353,
+        "num": 42353,
+        "word": "无印良品供销社穿搭风爆火",
+        "onboard_time": 1758382284,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34482,
+        "num": 34482,
+        "word": "始祖鸟的烟花劝退了真正的户外人",
+        "onboard_time": 1758373283,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31666,
+        "num": 31666,
+        "word": "植物学博士谈始祖鸟烟花秀事件",
+        "onboard_time": 1758379284,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30949,
+        "num": 30949,
+        "word": "委内瑞拉谴责美国不宣而战",
+        "onboard_time": 1758381204,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30748,
+        "num": 30748,
+        "word": "和对的人在一起的10个迹象",
+        "onboard_time": 1758384801,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27976,
+        "num": 27976,
+        "word": "韩国女子说支持以色列遭吐口水",
+        "onboard_time": 1758381744,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22379,
+        "num": 27498,
+        "word": "731上映3天票房破10亿",
+        "onboard_time": 1758375264,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27142,
+        "num": 27142,
+        "word": "加沙",
+        "onboard_time": 1758378443,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26559,
+        "num": 26559,
+        "word": "美国男子坐时速100km过山车身亡",
+        "onboard_time": 1758364402,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26155,
+        "num": 26155,
+        "word": "张柏芝生图轻轻秒了",
+        "onboard_time": 1758372924,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26099,
+        "num": 26099,
+        "word": "动物园回应小象宝宝不会用鼻子",
+        "onboard_time": 1758394455,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20322,
+        "num": 25842,
+        "word": "在隔壁老樊演唱会看到了王楚钦",
+        "onboard_time": 1758375204,
+        "rank": 34,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 25701,
+        "num": 25701,
+        "word": "戴向宇说陈紫函会给他洗内裤",
+        "onboard_time": 1758376584,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25192,
+        "num": 25192,
+        "word": "马思纯花少人生镜头",
+        "onboard_time": 1758383123,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25070,
+        "num": 25070,
+        "word": "24岁确诊焦虑症的真实感受",
+        "onboard_time": 1758402673,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23869,
+        "num": 25066,
+        "word": "王俊凯的生日碎碎念",
+        "onboard_time": 1758385942,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20746,
+        "num": 25062,
+        "word": "不眠日 乌贼",
+        "onboard_time": 1758391156,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23479,
+        "num": 25062,
+        "word": "广东小孩进ICU24小时后才知被蛇咬伤",
+        "onboard_time": 1758397453,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19676,
+        "num": 25055,
+        "word": "白鹿直播",
+        "onboard_time": 1758373703,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19269,
+        "num": 25052,
+        "word": "始祖鸟客服回应烟花争议",
+        "onboard_time": 1758373163,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19181,
+        "num": 25047,
+        "word": "曼联2比1切尔西",
+        "onboard_time": 1758405494,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18923,
+        "num": 25043,
+        "word": "焦虑症vs抑郁症vs自闭症",
+        "onboard_time": 1758368243,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18465,
+        "num": 25042,
+        "word": "杨幂祝你们经常上热搜",
+        "onboard_time": 1758385042,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18370,
+        "num": 25036,
+        "word": "yagao让BLG双C不要站一起",
+        "onboard_time": 1758387079,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17582,
+        "num": 25034,
+        "word": "鞠婧祎自拍",
+        "onboard_time": 1758405015,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15168,
+        "num": 25027,
+        "word": "AG爱笑",
+        "onboard_time": 1758374964,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14180,
+        "num": 25026,
+        "word": "仰望U9X成为全球最快汽车",
+        "onboard_time": 1758380784,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}
