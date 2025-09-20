@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 15:36:30
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 16:30:10
 </p>
 </blockquote>
 <p>
@@ -1337,6 +1337,12 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%23" target="weibo">
 台湾现在属于中国（热度：1510945）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%81%94%E6%89%8B%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E8%89%BA%E6%9C%AF%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+始祖鸟联手蔡国强的烟花艺术引争议（热度：1510686）
 </a>
 </li>
 
@@ -3483,6 +3489,12 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%23" target="weibo">
+始祖鸟（热度：837070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%B9%81%E8%8A%B1%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%8E%8B%E6%A6%A8%E5%91%98%E5%B7%A5%23" target="weibo">
 王家卫繁花被曝疑似压榨员工（热度：835907）
 </a>
@@ -3629,6 +3641,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B2%A9%E5%B2%9B%23" target="weibo">
 黄岩岛（热度：811754）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A1%AE%E8%AE%A4%E5%90%91%E6%B2%99%E7%89%B9%E6%8F%90%E4%BE%9B%E6%A0%B8%E4%BF%9D%E6%8A%A4%E4%BC%9E%23" target="weibo">
+巴基斯坦确认向沙特提供核保护伞（热度：810800）
 </a>
 </li>
 
@@ -4523,6 +4541,12 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9%E5%9C%A89%E6%9C%883%E6%97%A5%E4%B8%BE%E8%A1%8C%E9%98%85%E5%85%B5%23" target="weibo">
 为什么选择在9月3日举行阅兵（热度：693975）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%AF%81%E5%88%98%E6%B5%B7%E6%84%8F%E5%A4%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%94%9F%E5%8F%91%E5%9E%8B%23" target="weibo">
+剪毁刘海意外成了人生发型（热度：693392）
 </a>
 </li>
 
@@ -5961,6 +5985,12 @@ iPhone17系列预售（热度：587926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9B%BE%E6%83%B3%E5%8C%BF%E5%90%8D%E5%87%BA%E6%BC%94%E9%85%B1%E5%9B%AD%E5%BC%84%23" target="weibo">
+易烊千玺曾想匿名出演酱园弄（热度：549940）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E8%A5%BF%E8%B4%9D%E4%B8%80%E4%B8%AA%E9%A6%92%E5%A4%B4%E5%8D%9621%E5%85%83%23" target="weibo">
 罗永浩吐槽西贝一个馒头卖21元（热度：549823）
 </a>
@@ -5981,36 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E6%92%AD%E6%94%BE%E9%87%8F%23" target="weibo">
 花少7播放量（热度：548632）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E8%AE%AD%E6%96%A5%E9%BB%84%E5%8F%8B%E6%94%BF%23" target="weibo">
-王皓训斥黄友政（热度：548213）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E9%83%A8%E5%87%BA%E7%8E%B0%E7%9A%843%E7%A7%8D%E7%99%8C%E7%97%87%E9%A2%84%E8%AD%A6%E4%BF%A1%E5%8F%B7%23" target="weibo">
-手部出现的3种癌症预警信号（热度：546699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%82%E5%8A%A0%E9%98%85%E5%85%B5%E7%9A%84%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%B7%B2%E5%88%B0%E5%AE%B6%23" target="weibo">
-第一批参加阅兵的和平鸽已到家（热度：546284）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%98%85%E5%85%B5%E8%A7%82%E5%90%8E%E6%84%9F%23" target="weibo">
-孙颖莎阅兵观后感（热度：546214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E6%9D%8E%E7%BA%AF%E7%89%B5%E6%89%8B%E6%95%A3%E6%AD%A5%23" target="weibo">
-马頔李纯牵手散步（热度：545949）
 </a>
 </li>
 

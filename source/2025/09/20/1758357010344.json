@@ -1,0 +1,402 @@
+{
+  "runTime": 1758357010344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510686,
+        "num": 1510686,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837070,
+        "num": 837070,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810800,
+        "num": 810800,
+        "word": "巴基斯坦确认向沙特提供核保护伞",
+        "onboard_time": 1758353001,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 693392,
+        "num": 693392,
+        "word": "剪毁刘海意外成了人生发型",
+        "onboard_time": 1758353421,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 967572,
+        "num": 676605,
+        "word": "小酒窝主动提出要对张维伊改口",
+        "onboard_time": 1758345263,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633649,
+        "num": 633649,
+        "word": "武大撤销肖某某记过处分",
+        "onboard_time": 1758333742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549940,
+        "num": 549940,
+        "word": "易烊千玺曾想匿名出演酱园弄",
+        "onboard_time": 1758352701,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462259,
+        "num": 493604,
+        "word": "花少7落选小妹发文回应",
+        "onboard_time": 1758340223,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59905,
+        "num": 480798,
+        "word": "博士生钓12斤翘嘴一路给新生展示",
+        "onboard_time": 1758346162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476252,
+        "num": 476252,
+        "word": "张维伊说董璇婚前财产是小酒窝的",
+        "onboard_time": 1758349822,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463519,
+        "num": 463519,
+        "word": "女朋友简直就是免死金牌",
+        "onboard_time": 1758348082,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445975,
+        "num": 445975,
+        "word": "陈赫再复刻黄磊不加水的红烧肉",
+        "onboard_time": 1758355041,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352511,
+        "num": 352511,
+        "word": "字节跳动一亿美金估值的offer长这样",
+        "onboard_time": 1758344602,
+        "rank": 13,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 330695,
+        "num": 330695,
+        "word": "陈紫函停工3年做了12次试管",
+        "onboard_time": 1758333020,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232197,
+        "num": 232197,
+        "word": "香港炸弹拆除完成",
+        "onboard_time": 1758350661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42137,
+        "num": 231837,
+        "word": "董璇说佟丽娅在最难时撑住我",
+        "onboard_time": 1758354201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37321,
+        "num": 222580,
+        "word": "我想走遍祖国的万里河山",
+        "onboard_time": 1758355941,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126134,
+        "num": 221927,
+        "word": "男子称自己离婚都怪女邻居",
+        "onboard_time": 1758356299,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83592,
+        "num": 215660,
+        "word": "香港发现的炸弹内有227公斤炸药",
+        "onboard_time": 1758355281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212347,
+        "num": 212347,
+        "word": "香港炸弹",
+        "onboard_time": 1758326181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196883,
+        "num": 196883,
+        "word": "易烊千玺不敢回看TellMeWhy",
+        "onboard_time": 1758350301,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 193184,
+        "num": 193184,
+        "word": "台风桦加沙最强或达超强台风级别",
+        "onboard_time": 1758347962,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 181706,
+        "num": 181706,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1758338603,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175447,
+        "num": 175447,
+        "word": "繁花",
+        "onboard_time": 1758356363,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164826,
+        "num": 164826,
+        "word": "芒果音乐节",
+        "onboard_time": 1758355342,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151199,
+        "num": 151199,
+        "word": "高度近视眼要防止视网膜脱落",
+        "onboard_time": 1758351922,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147519,
+        "num": 147519,
+        "word": "金价飙涨有金料商卷款跑路",
+        "onboard_time": 1758352281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145562,
+        "num": 145562,
+        "word": "iPhone17为什么不能拍摄4比3视频",
+        "onboard_time": 1758350721,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32199,
+        "num": 141203,
+        "word": "金建希贪腐案开庭前就医",
+        "onboard_time": 1758355342,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353225,
+        "num": 139796,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 30,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 212654,
+        "num": 139623,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137634,
+        "num": 137634,
+        "word": "哈妮克孜官宣了",
+        "onboard_time": 1758338902,
+        "rank": 32,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 131248,
+        "num": 131248,
+        "word": "3岁女童16楼坠亡案父亲发声",
+        "onboard_time": 1758351682,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129435,
+        "num": 129435,
+        "word": "浙大硕士回应从烟草公司离职隐居",
+        "onboard_time": 1758347482,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128442,
+        "num": 128442,
+        "word": "上镜脸的特征",
+        "onboard_time": 1758353900,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125210,
+        "num": 125210,
+        "word": "iPhone17会成为钉子户吗",
+        "onboard_time": 1758354800,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122179,
+        "num": 122179,
+        "word": "武汉大学复核通报",
+        "onboard_time": 1758333921,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37233,
+        "num": 119696,
+        "word": "回村隐居8年硕士称唯一期盼婚姻",
+        "onboard_time": 1758356541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58348,
+        "num": 119489,
+        "word": "张晚意捂了马思纯耳朵",
+        "onboard_time": 1758356481,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119456,
+        "num": 119456,
+        "word": "杨采钰官宣当妈",
+        "onboard_time": 1758331222,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114826,
+        "num": 114826,
+        "word": "东风5C发型",
+        "onboard_time": 1758355700,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110350,
+        "num": 110350,
+        "word": "王子奇彻夜安慰徐志胜",
+        "onboard_time": 1758356363,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109719,
+        "num": 109719,
+        "word": "周冬雨黑裙 东方古典美",
+        "onboard_time": 1758352281,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107704,
+        "num": 107704,
+        "word": "恋爱十年的情侣因生育问题分手",
+        "onboard_time": 1758355161,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107125,
+        "num": 107125,
+        "word": "朱珠被天价咖啡的价格震惊到了",
+        "onboard_time": 1758348562,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105533,
+        "num": 105533,
+        "word": "桃黑黑破防",
+        "onboard_time": 1758349701,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 99325,
+        "num": 99325,
+        "word": "蔡国强烟火放到喜马拉雅山",
+        "onboard_time": 1758350181,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98982,
+        "num": 98982,
+        "word": "男子花35万买房被瞒着出租砸墙",
+        "onboard_time": 1758355281,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88240,
+        "num": 88240,
+        "word": "AL对战TES",
+        "onboard_time": 1758356962,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}
