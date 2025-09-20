@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758363845855,
+  "endTime": 1758364805158,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -363,6 +363,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 407518,
+      "num": 244074,
+      "word": "小酒窝 你戳我干哈",
+      "onboard_time": 1758361642,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397839,
       "num": 397839,
       "word": "清华晨跑大神刘小平离世",
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265124,
+      "num": 265124,
+      "word": "蔡国强烟火放到喜马拉雅山",
+      "onboard_time": 1758350181,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263887,
       "num": 184659,
       "word": "刘涛说下海原来是真的",
@@ -585,14 +601,6 @@
       "onboard_time": 1758345561,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244074,
-      "num": 244074,
-      "word": "小酒窝 你戳我干哈",
-      "onboard_time": 1758361642,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 239024,
@@ -659,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217352,
-      "num": 252508,
-      "word": "蔡国强烟火放到喜马拉雅山",
-      "onboard_time": 1758350181,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216280,
       "num": 330263,
       "word": "德国总理称承认巴勒斯坦国为时尚早",
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213253,
+      "num": 246755,
+      "word": "保安虐待精神病患者细节曝光",
+      "onboard_time": 1758362481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212191,
       "num": 137281,
       "word": "武大撤销肖某瑫处分",
@@ -705,6 +713,14 @@
       "onboard_time": 1758324678,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210322,
+      "num": 210322,
+      "word": "王一博潘君临季军",
+      "onboard_time": 1758364461,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 210313,
@@ -1283,6 +1299,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 135382,
+      "num": 135382,
+      "word": "美国男子坐时速100km过山车身亡",
+      "onboard_time": 1758364402,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135349,
       "num": 160887,
       "word": "柯淳说曾志伟不如自己懂短剧",
@@ -1611,6 +1635,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114529,
+      "num": 136700,
+      "word": "杨蓉又有新剧了",
+      "onboard_time": 1758363081,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112793,
+      "num": 112793,
+      "word": "鲍莉郭京飞 小说里的一见钟情",
+      "onboard_time": 1758363622,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112285,
       "num": 112285,
       "word": "恋爱十年的情侣因生育问题分手",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1758324740,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107597,
+      "num": 195916,
+      "word": "试管婴儿出生不久确诊肾病综合征",
+      "onboard_time": 1758362481,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107241,
@@ -1819,14 +1867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102553,
-      "num": 102553,
-      "word": "杨蓉又有新剧了",
-      "onboard_time": 1758363081,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102359,
       "num": 102359,
       "word": "计算机二级",
@@ -1923,14 +1963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98061,
-      "num": 98061,
-      "word": "鲍莉郭京飞 小说里的一见钟情",
-      "onboard_time": 1758363622,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97667,
       "num": 97667,
       "word": "重庆荣昌区3.4级地震",
@@ -2019,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92655,
+      "num": 91142,
+      "word": "长期喝无糖饮料身体的变化",
+      "onboard_time": 1758364521,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91790,
       "num": 91790,
       "word": "TMA",
@@ -2035,6 +2075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91339,
+      "num": 89898,
+      "word": "丁程鑫掌管hi6泼水游戏的神",
+      "onboard_time": 1758364581,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91279,
       "num": 88240,
       "word": "AL对战TES",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1758347662,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 90496,
+      "num": 252383,
+      "word": "美国一火山喷发宛如喷泉",
+      "onboard_time": 1758358882,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89535,
@@ -2299,14 +2355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72099,
-      "num": 195916,
-      "word": "试管婴儿出生不久确诊肾病综合征",
-      "onboard_time": 1758362481,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71906,
       "num": 115827,
       "word": "中美元首通电话",
@@ -2387,27 +2435,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60962,
-      "num": 252383,
-      "word": "美国一火山喷发宛如喷泉",
-      "onboard_time": 1758358882,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60775,
       "num": 117559,
       "word": "太二酸菜鱼半成品冰箱里都有啥",
       "onboard_time": 1758346401,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59739,
-      "num": 246755,
-      "word": "保安虐待精神病患者细节曝光",
-      "onboard_time": 1758362481,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2435,12 +2467,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55565,
+      "num": 251870,
+      "word": "奥迪E5首批车主正式交付",
+      "onboard_time": 1758362661,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55357,
       "num": 115827,
       "word": "iPhoneAir首发上手",
       "onboard_time": 1758290663,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53765,
+      "num": 248715,
+      "word": "檀健次的生活感OOTD",
+      "onboard_time": 1758362661,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 53650,
@@ -2523,14 +2571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 43444,
-      "num": 251870,
-      "word": "奥迪E5首批车主正式交付",
-      "onboard_time": 1758362661,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 42137,
       "num": 231837,
       "word": "董璇说佟丽娅在最难时撑住我",
@@ -2577,14 +2617,6 @@
       "onboard_time": 1758360441,
       "rank": 38,
       "category": "民生新闻,民生新闻"
-    },
-    {
-      "raw_hot": 38613,
-      "num": 248715,
-      "word": "檀健次的生活感OOTD",
-      "onboard_time": 1758362661,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 37233,
@@ -2699,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25102,
+      "num": 108406,
+      "word": "家人苦寻女子结果已在美被捕",
+      "onboard_time": 1758364762,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24843,
       "num": 146451,
       "word": "月城核电站曾排放核废液入海",
@@ -2755,8 +2795,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 983,
-      "num": 748578,
+      "raw_hot": 2061,
+      "num": 812398,
       "word": "新时代中国推进妇女全面发展",
       "onboard_time": 1758283703,
       "rank": 2,

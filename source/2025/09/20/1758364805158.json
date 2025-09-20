@@ -1,0 +1,410 @@
+{
+  "runTime": 1758364805158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2976835,
+        "num": 2976835,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1056606,
+        "num": 1056606,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2061,
+        "num": 812398,
+        "word": "新时代中国推进妇女全面发展",
+        "onboard_time": 1758283703,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604703,
+        "num": 604703,
+        "word": "微博快手被约谈",
+        "onboard_time": 1758360021,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357128,
+        "num": 357128,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356100,
+        "num": 356100,
+        "word": "清华晨跑大神刘小平离世",
+        "onboard_time": 1758358101,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354455,
+        "num": 354455,
+        "word": "武大撤销肖某某记过处分",
+        "onboard_time": 1758333742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350698,
+        "num": 350698,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265124,
+        "num": 265124,
+        "word": "蔡国强烟火放到喜马拉雅山",
+        "onboard_time": 1758350181,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233182,
+        "num": 233182,
+        "word": "喜马拉雅山脉烟花表演手续合规",
+        "onboard_time": 1758361882,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552629,
+        "num": 232775,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463595,
+        "num": 227025,
+        "word": "董璇说现在接戏是为了还债",
+        "onboard_time": 1758358642,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407518,
+        "num": 225050,
+        "word": "小酒窝 你戳我干哈",
+        "onboard_time": 1758361642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405249,
+        "num": 217940,
+        "word": "张晚意捂了马思纯耳朵",
+        "onboard_time": 1758356481,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346626,
+        "num": 213622,
+        "word": "陈赫再复刻黄磊不加水的红烧肉",
+        "onboard_time": 1758355041,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213253,
+        "num": 213253,
+        "word": "保安虐待精神病患者细节曝光",
+        "onboard_time": 1758362481,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53765,
+        "num": 211660,
+        "word": "檀健次的生活感OOTD",
+        "onboard_time": 1758362661,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210322,
+        "num": 210322,
+        "word": "王一博潘君临季军",
+        "onboard_time": 1758364461,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 55565,
+        "num": 203865,
+        "word": "奥迪E5首批车主正式交付",
+        "onboard_time": 1758362661,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30441,
+        "num": 203762,
+        "word": "那英五十多岁正是爱吃的年纪",
+        "onboard_time": 1758360922,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203674,
+        "num": 203674,
+        "word": "台湾海峡4.1级地震",
+        "onboard_time": 1758359421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141384,
+        "num": 183830,
+        "word": "不眠日",
+        "onboard_time": 1758363321,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294685,
+        "num": 175172,
+        "word": "小酒窝主动提出要对张维伊改口",
+        "onboard_time": 1758345263,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164440,
+        "num": 164440,
+        "word": "网红局长刘克斌职务已调整",
+        "onboard_time": 1758363021,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146728,
+        "num": 146728,
+        "word": "阚清子孕期自拍",
+        "onboard_time": 1758359242,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143710,
+        "num": 143710,
+        "word": "易烊千玺曾想匿名出演酱园弄",
+        "onboard_time": 1758352701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139106,
+        "num": 139106,
+        "word": "汪藏海这班到底还要上多久",
+        "onboard_time": 1758362481,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157013,
+        "num": 138847,
+        "word": "董璇说有两个孩子不可能一碗水端平",
+        "onboard_time": 1758358642,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117776,
+        "num": 137420,
+        "word": "张予曦音乐节",
+        "onboard_time": 1758360021,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114529,
+        "num": 136700,
+        "word": "杨蓉又有新剧了",
+        "onboard_time": 1758363081,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198259,
+        "num": 136201,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 30,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 135382,
+        "num": 135382,
+        "word": "美国男子坐时速100km过山车身亡",
+        "onboard_time": 1758364402,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134944,
+        "num": 134944,
+        "word": "剪毁刘海意外成了人生发型",
+        "onboard_time": 1758353421,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118075,
+        "num": 118075,
+        "word": "iOS26最阴的功能出现了",
+        "onboard_time": 1758361762,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117865,
+        "num": 117865,
+        "word": "大量鸟儿撞向高楼玻璃死亡",
+        "onboard_time": 1758361341,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76947,
+        "num": 117802,
+        "word": "福州地铁免费试乘被大爷大妈挤爆",
+        "onboard_time": 1758358822,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117801,
+        "num": 117801,
+        "word": "始祖鸟岂能打户外牌破户外的山",
+        "onboard_time": 1758359001,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58140,
+        "num": 116723,
+        "word": "去户外怎么搭可以好看又实穿",
+        "onboard_time": 1758363202,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 116258,
+        "num": 116258,
+        "word": "巴基斯坦确认向沙特提供核保护伞",
+        "onboard_time": 1758353001,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112793,
+        "num": 112793,
+        "word": "鲍莉郭京飞 小说里的一见钟情",
+        "onboard_time": 1758363622,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25102,
+        "num": 108406,
+        "word": "家人苦寻女子结果已在美被捕",
+        "onboard_time": 1758364762,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107597,
+        "num": 107597,
+        "word": "试管婴儿出生不久确诊肾病综合征",
+        "onboard_time": 1758362481,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98902,
+        "num": 98902,
+        "word": "告五人五月天原告被告在王源后台同框",
+        "onboard_time": 1758360382,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95467,
+        "num": 95467,
+        "word": "花少7落选小妹发文回应",
+        "onboard_time": 1758340223,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93424,
+        "num": 93424,
+        "word": "陈飞宇献鱼后第一场线下人气",
+        "onboard_time": 1758363081,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91244,
+        "num": 91244,
+        "word": "王一博第一回合正赛出发",
+        "onboard_time": 1758363081,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 92655,
+        "num": 91142,
+        "word": "长期喝无糖饮料身体的变化",
+        "onboard_time": 1758364521,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90496,
+        "num": 90496,
+        "word": "美国一火山喷发宛如喷泉",
+        "onboard_time": 1758358882,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91339,
+        "num": 89898,
+        "word": "丁程鑫掌管hi6泼水游戏的神",
+        "onboard_time": 1758364581,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91481,
+        "num": 87327,
+        "word": "李沁砍价越砍越高",
+        "onboard_time": 1758361581,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}
