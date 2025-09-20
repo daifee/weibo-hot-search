@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 10:59:08
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 11:09:34
 </p>
 </blockquote>
 <p>
@@ -129,14 +129,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E9%A3%9E%E5%92%8C%E5%B9%B3%E9%B8%BD%23" target="weibo">
-放飞和平鸽（热度：8337386）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%92%A4%E9%94%80%E8%82%96%E6%9F%90%E6%9F%90%E8%AE%B0%E8%BF%87%E5%A4%84%E5%88%86%23" target="weibo">
+武大撤销肖某某记过处分（热度：8399387）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%92%A4%E9%94%80%E8%82%96%E6%9F%90%E6%9F%90%E8%AE%B0%E8%BF%87%E5%A4%84%E5%88%86%23" target="weibo">
-武大撤销肖某某记过处分（热度：8328594）
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E9%A3%9E%E5%92%8C%E5%B9%B3%E9%B8%BD%23" target="weibo">
+放飞和平鸽（热度：8337386）
 </a>
 </li>
 
@@ -3249,6 +3249,12 @@ iPhone18Pro已打样（热度：878237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%A4%8D%E6%A0%B8%E9%80%9A%E6%8A%A5%23" target="weibo">
+武汉大学复核通报（热度：857856）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E7%93%B6%E7%9B%96%E8%A2%AB%E5%BD%93%E5%85%AC%E7%AB%A0%E7%9B%96%E5%9C%A8%E5%AE%9E%E4%B9%A0%E8%AF%81%E6%98%8E%E4%B8%8A%23" target="weibo">
 娃哈哈瓶盖被当公章盖在实习证明上（热度：857794）
 </a>
@@ -3347,12 +3353,6 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%B9%90%E7%96%91%E4%BC%BC%E6%8A%8A%E7%B2%89%E4%B8%9D%E9%80%81%E7%9A%84%E7%A4%BC%E7%89%A9%E9%80%81%E7%BB%99%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%23" target="weibo">
 管乐疑似把粉丝送的礼物送给相亲对象（热度：846686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%A4%8D%E6%A0%B8%E9%80%9A%E6%8A%A5%23" target="weibo">
-武汉大学复核通报（热度：846414）
 </a>
 </li>
 
