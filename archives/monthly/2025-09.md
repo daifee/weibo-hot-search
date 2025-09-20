@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 18:40:05
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 19:19:49
 </p>
 </blockquote>
 <p>
@@ -5475,6 +5475,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%20%E4%BD%A0%E6%88%B3%E6%88%91%E5%B9%B2%E5%93%88%23" target="weibo">
+小酒窝 你戳我干哈（热度：595294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E8%A2%AB%E8%AE%B0%E8%80%85%E9%97%AE%E6%87%B5%E4%BA%86%23" target="weibo">
 西贝厨师被记者问懵了（热度：594988）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
 赴山海（热度：550417）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%BB%99%E4%BA%BA%E6%92%95%E5%88%B0%E5%A5%96%E4%BA%86%20%E4%BD%A0%E6%92%95%E8%BF%87%E5%90%97%23" target="weibo">
-我给人撕到奖了 你撕过吗（热度：550260）
 </a>
 </li>
 

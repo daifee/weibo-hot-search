@@ -1,0 +1,410 @@
+{
+  "runTime": 1758367189807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3045338,
+        "num": 3045338,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1254155,
+        "num": 1254155,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1981,
+        "num": 828465,
+        "word": "新时代中国推进妇女全面发展",
+        "onboard_time": 1758283703,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415412,
+        "num": 415412,
+        "word": "美国男子坐时速100km过山车身亡",
+        "onboard_time": 1758364402,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335853,
+        "num": 335853,
+        "word": "喜马拉雅山脉烟花表演手续合规",
+        "onboard_time": 1758361882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302961,
+        "num": 302961,
+        "word": "网红局长刘克斌职务已调整",
+        "onboard_time": 1758363021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295494,
+        "num": 295494,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293148,
+        "num": 293148,
+        "word": "蔡国强烟火放到喜马拉雅山",
+        "onboard_time": 1758350181,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289165,
+        "num": 289165,
+        "word": "清华晨跑大神刘小平离世",
+        "onboard_time": 1758358101,
+        "rank": 8,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 234823,
+        "num": 288728,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 595294,
+        "num": 288040,
+        "word": "小酒窝 你戳我干哈",
+        "onboard_time": 1758361642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348488,
+        "num": 287836,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305555,
+        "num": 287099,
+        "word": "董璇说现在接戏是为了还债",
+        "onboard_time": 1758358642,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299834,
+        "num": 286387,
+        "word": "陈赫再复刻黄磊不加水的红烧肉",
+        "onboard_time": 1758355041,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285948,
+        "num": 285948,
+        "word": "试管婴儿出生不久确诊肾病综合征",
+        "onboard_time": 1758362481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41478,
+        "num": 282423,
+        "word": "檀健次的生活感OOTD",
+        "onboard_time": 1758362661,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282057,
+        "num": 282057,
+        "word": "张晚意捂了马思纯耳朵",
+        "onboard_time": 1758356481,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255763,
+        "num": 255763,
+        "word": "王一博潘君临季军",
+        "onboard_time": 1758364461,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 155547,
+        "num": 155547,
+        "word": "汪藏海这班到底还要上多久",
+        "onboard_time": 1758362481,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127984,
+        "num": 144331,
+        "word": "731票房",
+        "onboard_time": 1758365843,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156472,
+        "num": 142840,
+        "word": "小酒窝主动提出要对张维伊改口",
+        "onboard_time": 1758345263,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140449,
+        "num": 140449,
+        "word": "台湾海峡4.1级地震",
+        "onboard_time": 1758359421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134168,
+        "num": 134168,
+        "word": "iOS26最阴的功能出现了",
+        "onboard_time": 1758361762,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129228,
+        "num": 129228,
+        "word": "邓紫棋急得像炒了盘菜",
+        "onboard_time": 1758366982,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127571,
+        "num": 127571,
+        "word": "澳大利亚女子被宠物骆驼压死",
+        "onboard_time": 1758365182,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "长期喝无糖饮料身体的变化",
+        "onboard_time": 1758364521,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112405,
+        "num": 123946,
+        "word": "什么五旬老太明明是内娱天使",
+        "onboard_time": 1758366622,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104331,
+        "num": 123205,
+        "word": "巴基斯坦确认向沙特提供核保护伞",
+        "onboard_time": 1758353001,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123054,
+        "num": 123054,
+        "word": "李宁太懂中国人的浪漫了",
+        "onboard_time": 1758366922,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71905,
+        "num": 123022,
+        "word": "官方通报信访办伪造字迹签调解书",
+        "onboard_time": 1758366084,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130900,
+        "num": 123021,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 30,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 123019,
+        "num": 123019,
+        "word": "86岁北京大爷大学学历退休收入",
+        "onboard_time": 1758366802,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 122304,
+        "num": 122304,
+        "word": "LPL",
+        "onboard_time": 1758366084,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120922,
+        "num": 120922,
+        "word": "369",
+        "onboard_time": 1758366084,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74709,
+        "num": 119595,
+        "word": "23岁小伙去世捐器官救7人",
+        "onboard_time": 1758367102,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41406,
+        "num": 116563,
+        "word": "3岁女童坠亡3方被告坚称无过错",
+        "onboard_time": 1758366861,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35939,
+        "num": 115644,
+        "word": "美国工签费 10万美元",
+        "onboard_time": 1758366262,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49695,
+        "num": 112203,
+        "word": "南派三叔你来练我胆了",
+        "onboard_time": 1758361823,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68560,
+        "num": 109801,
+        "word": "冯德伦老了还是法拉利",
+        "onboard_time": 1758366141,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96637,
+        "num": 108163,
+        "word": "张予曦音乐节",
+        "onboard_time": 1758360021,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106956,
+        "num": 106956,
+        "word": "福州地铁免费试乘被大爷大妈挤爆",
+        "onboard_time": 1758358822,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24895,
+        "num": 106149,
+        "word": "去户外怎么搭可以好看又实穿",
+        "onboard_time": 1758363202,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 106141,
+        "num": 106141,
+        "word": "董璇说有两个孩子不可能一碗水端平",
+        "onboard_time": 1758358642,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106094,
+        "num": 106094,
+        "word": "鲍莉郭京飞 小说里的一见钟情",
+        "onboard_time": 1758363622,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103894,
+        "num": 103894,
+        "word": "易烊千玺曾想匿名出演酱园弄",
+        "onboard_time": 1758352701,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95396,
+        "num": 95396,
+        "word": "保安虐待精神病患者细节曝光",
+        "onboard_time": 1758362481,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94711,
+        "num": 94711,
+        "word": "大量鸟儿撞向高楼玻璃死亡",
+        "onboard_time": 1758361341,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93808,
+        "num": 93808,
+        "word": "不眠日",
+        "onboard_time": 1758363321,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75392,
+        "num": 89307,
+        "word": "苏超",
+        "onboard_time": 1758365363,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88227,
+        "num": 88227,
+        "word": "杨蓉又有新剧了",
+        "onboard_time": 1758363081,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}

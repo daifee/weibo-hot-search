@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758364805158,
+  "endTime": 1758367189807,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595294,
+      "num": 288040,
+      "word": "小酒窝 你戳我干哈",
+      "onboard_time": 1758361642,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549940,
       "num": 549940,
       "word": "易烊千玺曾想匿名出演酱园弄",
@@ -355,20 +363,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 415412,
+      "num": 415412,
+      "word": "美国男子坐时速100km过山车身亡",
+      "onboard_time": 1758364402,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 410788,
       "num": 410788,
       "word": "易烊千玺不敢回看TellMeWhy",
       "onboard_time": 1758350301,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 407518,
-      "num": 244074,
-      "word": "小酒窝 你戳我干哈",
-      "onboard_time": 1758361642,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 397839,
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335853,
+      "num": 335853,
+      "word": "喜马拉雅山脉烟花表演手续合规",
+      "onboard_time": 1758361882,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331673,
       "num": 331673,
       "word": "张子枫马嘉祺我们生活在南京路透",
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302961,
+      "num": 302961,
+      "word": "网红局长刘克斌职务已调整",
+      "onboard_time": 1758363021,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301375,
       "num": 301375,
       "word": "陈震称小米17命名很成功",
@@ -481,6 +505,14 @@
       "onboard_time": 1758285081,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 293148,
+      "num": 293148,
+      "word": "蔡国强烟火放到喜马拉雅山",
+      "onboard_time": 1758350181,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 293072,
@@ -504,6 +536,14 @@
       "word": "用拖鞋搅奶茶男子应聘时就不对劲",
       "onboard_time": 1758338721,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285948,
+      "num": 285948,
+      "word": "试管婴儿出生不久确诊肾病综合征",
+      "onboard_time": 1758362481,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -537,14 +577,6 @@
       "onboard_time": 1758344542,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265124,
-      "num": 265124,
-      "word": "蔡国强烟火放到喜马拉雅山",
-      "onboard_time": 1758350181,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 263887,
@@ -587,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252026,
-      "num": 252026,
-      "word": "喜马拉雅山脉烟花表演手续合规",
-      "onboard_time": 1758361882,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 255763,
+      "num": 255763,
+      "word": "王一博潘君临季军",
+      "onboard_time": 1758364461,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 251007,
@@ -715,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210322,
-      "num": 210322,
-      "word": "王一博潘君临季军",
-      "onboard_time": 1758364461,
-      "rank": 17,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 210313,
       "num": 210313,
       "word": "成毅时装九月封面",
@@ -816,14 +840,6 @@
       "word": "香港工地发现炸弹6000人紧急撤离",
       "onboard_time": 1758328941,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187351,
-      "num": 187351,
-      "word": "网红局长刘克斌职务已调整",
-      "onboard_time": 1758363021,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1091,6 +1107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155547,
+      "num": 196469,
+      "word": "汪藏海这班到底还要上多久",
+      "onboard_time": 1758362481,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154065,
       "num": 154065,
       "word": "28年前录像厅杀人案告破",
@@ -1219,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141547,
-      "num": 196469,
-      "word": "汪藏海这班到底还要上多久",
-      "onboard_time": 1758362481,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141514,
       "num": 141514,
       "word": "一张绝美的脸背后是一张更美的脸",
@@ -1299,14 +1315,6 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 135382,
-      "num": 135382,
-      "word": "美国男子坐时速100km过山车身亡",
-      "onboard_time": 1758364402,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 135349,
       "num": 160887,
       "word": "柯淳说曾志伟不如自己懂短剧",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1758294804,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134168,
+      "num": 134168,
+      "word": "iOS26最阴的功能出现了",
+      "onboard_time": 1758361762,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 133034,
@@ -1387,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129228,
+      "num": 129228,
+      "word": "邓紫棋急得像炒了盘菜",
+      "onboard_time": 1758366982,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128840,
       "num": 128840,
       "word": "丞磊听取哇声一片",
@@ -1403,12 +1427,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127984,
+      "num": 144331,
+      "word": "731票房",
+      "onboard_time": 1758365843,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127923,
       "num": 127923,
       "word": "现在好像不流行同学聚会了",
       "onboard_time": 1758333440,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127571,
+      "num": 127571,
+      "word": "澳大利亚女子被宠物骆驼压死",
+      "onboard_time": 1758365182,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127314,
@@ -1435,6 +1475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125261,
+      "num": 125261,
+      "word": "长期喝无糖饮料身体的变化",
+      "onboard_time": 1758364521,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124931,
       "num": 123666,
       "word": "被一档综艺美得一愣一愣的",
@@ -1451,12 +1499,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124639,
-      "num": 124639,
-      "word": "iOS26最阴的功能出现了",
-      "onboard_time": 1758361762,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 123054,
+      "num": 123054,
+      "word": "李宁太懂中国人的浪漫了",
+      "onboard_time": 1758366922,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123019,
+      "num": 123019,
+      "word": "86岁北京大爷大学学历退休收入",
+      "onboard_time": 1758366802,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 122933,
@@ -1483,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122304,
+      "num": 122304,
+      "word": "LPL",
+      "onboard_time": 1758366084,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122151,
       "num": 122151,
       "word": "林孝埈逛公园",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1758306616,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120922,
+      "num": 120922,
+      "word": "369",
+      "onboard_time": 1758366084,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 120812,
@@ -1651,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112405,
+      "num": 123946,
+      "word": "什么五旬老太明明是内娱天使",
+      "onboard_time": 1758366622,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112285,
       "num": 112285,
       "word": "恋爱十年的情侣因生育问题分手",
@@ -1737,14 +1817,6 @@
       "onboard_time": 1758324740,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107597,
-      "num": 195916,
-      "word": "试管婴儿出生不久确诊肾病综合征",
-      "onboard_time": 1758362481,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107241,
@@ -2051,14 +2123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92655,
-      "num": 91142,
-      "word": "长期喝无糖饮料身体的变化",
-      "onboard_time": 1758364521,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 91790,
       "num": 91790,
       "word": "TMA",
@@ -2331,6 +2395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75392,
+      "num": 89307,
+      "word": "苏超",
+      "onboard_time": 1758365363,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74709,
+      "num": 119595,
+      "word": "23岁小伙去世捐器官救7人",
+      "onboard_time": 1758367102,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74197,
       "num": 74197,
       "word": "muggle",
@@ -2363,6 +2443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71905,
+      "num": 123022,
+      "word": "官方通报信访办伪造字迹签调解书",
+      "onboard_time": 1758366084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71762,
       "num": 109877,
       "word": "日本战机罕见飞往欧美四国",
@@ -2393,6 +2481,14 @@
       "onboard_time": 1758294203,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68560,
+      "num": 109801,
+      "word": "冯德伦老了还是法拉利",
+      "onboard_time": 1758366141,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 68129,
@@ -2484,7 +2580,7 @@
     },
     {
       "raw_hot": 53765,
-      "num": 248715,
+      "num": 282423,
       "word": "檀健次的生活感OOTD",
       "onboard_time": 1758362661,
       "rank": 18,
@@ -2547,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49695,
+      "num": 112203,
+      "word": "南派三叔你来练我胆了",
+      "onboard_time": 1758361823,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45451,
       "num": 79204,
       "word": "你好星期六",
@@ -2593,6 +2697,14 @@
       "onboard_time": 1758302897,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41406,
+      "num": 116563,
+      "word": "3岁女童坠亡3方被告坚称无过错",
+      "onboard_time": 1758366861,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40814,
@@ -2657,6 +2769,14 @@
       "onboard_time": 1758300979,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35939,
+      "num": 115644,
+      "word": "美国工签费 10万美元",
+      "onboard_time": 1758366262,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32896,
@@ -2796,7 +2916,7 @@
     },
     {
       "raw_hot": 2061,
-      "num": 812398,
+      "num": 828465,
       "word": "新时代中国推进妇女全面发展",
       "onboard_time": 1758283703,
       "rank": 2,
