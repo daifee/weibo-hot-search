@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758368205265,
+  "endTime": 1758372313425,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1691,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1568332,
+      "num": 237255,
+      "word": "微博回应被约谈",
+      "onboard_time": 1758368363,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1563625,
       "num": 251957,
       "word": "曝高学历小花是木头美人",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1757232141,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1368652,
+      "num": 1368652,
+      "word": "加沙已变死城",
+      "onboard_time": 1758367222,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1364705,
@@ -6211,6 +6227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 681957,
+      "num": 681957,
+      "word": "731票房",
+      "onboard_time": 1758191362,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 681948,
       "num": 260253,
       "word": "胡宾果住酒店被偷拍",
@@ -8601,6 +8625,14 @@
       "onboard_time": 1756904845,
       "rank": 21,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 523731,
+      "num": 523731,
+      "word": "舒淇 釜山行",
+      "onboard_time": 1758368003,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 523547,
@@ -11059,14 +11091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 422476,
-      "num": 422476,
-      "word": "731票房",
-      "onboard_time": 1758191362,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 422179,
       "num": 258983,
       "word": "兵马俑一号坑惊现大洞",
@@ -11361,6 +11385,14 @@
       "onboard_time": 1757552002,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 411423,
+      "num": 245695,
+      "word": "七月的一天",
+      "onboard_time": 1758369504,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 410788,
@@ -17667,6 +17699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247371,
+      "num": 247371,
+      "word": "苏超",
+      "onboard_time": 1757154800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247278,
       "num": 247278,
       "word": "瑞幸星穹铁道联名",
@@ -19539,6 +19579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221207,
+      "num": 221207,
+      "word": "李沁被花少团宠得很好",
+      "onboard_time": 1758371663,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221206,
       "num": 357096,
       "word": "今日中国再不是1931年的中国",
@@ -20715,6 +20763,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 208348,
+      "num": 208348,
+      "word": "焦虑症vs抑郁症vs自闭症",
+      "onboard_time": 1758368243,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 208347,
       "num": 1861039,
       "word": "58个中国工程被印在121枚世界货币上",
@@ -20897,6 +20953,14 @@
       "onboard_time": 1757393843,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206932,
+      "num": 206931,
+      "word": "工作室劝黄誉博删微博",
+      "onboard_time": 1758370823,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 206845,
@@ -24123,6 +24187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188355,
+      "num": 242136,
+      "word": "TES战胜AL",
+      "onboard_time": 1758371003,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188166,
       "num": 205866,
       "word": "汕头明润晋级乒超总决赛",
@@ -24201,6 +24273,14 @@
       "onboard_time": 1757486123,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 187916,
+      "num": 241736,
+      "word": "安踏",
+      "onboard_time": 1758369862,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 187881,
@@ -25275,6 +25355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181389,
+      "num": 181389,
+      "word": "蔡国强烟花艺术真的环保吗",
+      "onboard_time": 1758367882,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181380,
       "num": 181380,
       "word": "张踩铃说罗永浩点评没用",
@@ -25681,14 +25769,6 @@
       "onboard_time": 1757165065,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179004,
-      "num": 179004,
-      "word": "苏超",
-      "onboard_time": 1757154800,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 178934,
@@ -27083,6 +27163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170827,
+      "num": 170827,
+      "word": "6个人里有7个人不对劲",
+      "onboard_time": 1758370882,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170815,
       "num": 197345,
       "word": "谍报上不封顶滴血不漏初见版",
@@ -27577,6 +27665,14 @@
       "onboard_time": 1758188002,
       "rank": 34,
       "category": "电影,作品衍生"
+    },
+    {
+      "raw_hot": 168204,
+      "num": 168204,
+      "word": "杨幂 邪恶美羊羊潜伏期",
+      "onboard_time": 1758369021,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 168190,
@@ -29203,6 +29299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161201,
+      "num": 171687,
+      "word": "王一博干啥都拿奖",
+      "onboard_time": 1758370882,
+      "rank": 25,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 161195,
       "num": 202636,
       "word": "橙色iPhone17ProMax难抢",
@@ -30057,6 +30161,14 @@
       "onboard_time": 1757997564,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157520,
+      "num": 157520,
+      "word": "Hope失误",
+      "onboard_time": 1758371722,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 157516,
@@ -31091,6 +31203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153348,
+      "num": 153348,
+      "word": "恋与制作人",
+      "onboard_time": 1758369021,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153333,
       "num": 153333,
       "word": "小黄豆给热巴整成妙脆角了",
@@ -31569,6 +31689,14 @@
       "onboard_time": 1757758042,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151218,
+      "num": 151218,
+      "word": "王力宏金发挑染",
+      "onboard_time": 1758369862,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 151202,
@@ -36987,6 +37115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133949,
+      "num": 207114,
+      "word": "印度空军司令称给世界上了一课",
+      "onboard_time": 1758369504,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133938,
       "num": 133938,
       "word": "早睡就是人类的作弊器啊",
@@ -38163,6 +38299,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 130144,
+      "num": 160664,
+      "word": "美国环球影城回应男子坐过山车身亡",
+      "onboard_time": 1758370402,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130132,
       "num": 130132,
       "word": "李泽言配音",
@@ -39241,6 +39385,14 @@
       "onboard_time": 1756952961,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127229,
+      "num": 122427,
+      "word": "刘雨昕演唱会",
+      "onboard_time": 1758371302,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 127225,
@@ -40755,6 +40907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122682,
+      "num": 122682,
+      "word": "赴山海 去你的996",
+      "onboard_time": 1758370102,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122635,
       "num": 326439,
       "word": "中国是一个开放包容安全的国家",
@@ -41697,6 +41857,14 @@
       "onboard_time": 1757301083,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 119972,
+      "num": 119972,
+      "word": "张智霖说袁咏仪骂儿子就是骂自己",
+      "onboard_time": 1758372143,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 119962,
@@ -44347,6 +44515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112656,
+      "num": 112656,
+      "word": "家门口失踪的2岁女童已安葬",
+      "onboard_time": 1758370044,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112613,
       "num": 112613,
       "word": "全世界最窝囊的评论区",
@@ -44377,14 +44553,6 @@
       "onboard_time": 1757588692,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112537,
-      "num": 112537,
-      "word": "蔡国强烟花艺术真的环保吗",
-      "onboard_time": 1758367882,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112501,
@@ -44609,6 +44777,14 @@
       "onboard_time": 1757078182,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111843,
+      "num": 111843,
+      "word": "女儿患恶性肿瘤父母被判不能离婚",
+      "onboard_time": 1758369683,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111830,
@@ -46683,6 +46859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106295,
+      "num": 106295,
+      "word": "VOGUEMAN九月刊封面",
+      "onboard_time": 1758369381,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 106268,
       "num": 106268,
       "word": "会闲聊是稀缺能力",
@@ -46841,14 +47025,6 @@
       "onboard_time": 1757294720,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105936,
-      "num": 105936,
-      "word": "加沙已变死城",
-      "onboard_time": 1758367222,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105917,
@@ -47351,6 +47527,14 @@
       "num": 104447,
       "word": "义乌速度堪比东风",
       "onboard_time": 1757138902,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104416,
+      "num": 104416,
+      "word": "户晨风多平台被禁言",
+      "onboard_time": 1758371363,
       "rank": 47,
       "category": "民生新闻"
     },
@@ -51625,14 +51809,6 @@
       "onboard_time": 1757234241,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91072,
-      "num": 91072,
-      "word": "舒淇 釜山行",
-      "onboard_time": 1758368003,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 91011,
@@ -56833,6 +57009,14 @@
       "onboard_time": 1757660965,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63134,
+      "num": 206932,
+      "word": "怎么哪哪都是扫街榜广告",
+      "onboard_time": 1758370342,
+      "rank": 19,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 63132,
@@ -62755,6 +62939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22535,
+      "num": 153609,
+      "word": "穿始祖鸟是为亲近自然而非看它炸山",
+      "onboard_time": 1758372083,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22351,
       "num": 184485,
       "word": "易会满曾称工作如履薄冰",
@@ -64203,7 +64395,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2061,
+      "raw_hot": 2072,
       "num": 828465,
       "word": "新时代中国推进妇女全面发展",
       "onboard_time": 1758283703,

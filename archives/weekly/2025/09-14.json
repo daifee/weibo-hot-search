@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758368205265,
+  "endTime": 1758372313425,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1568332,
+      "num": 237255,
+      "word": "微博回应被约谈",
+      "onboard_time": 1758368363,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1563618,
       "num": 347957,
       "word": "许光汉肿么了",
@@ -705,6 +713,14 @@
       "onboard_time": 1758345263,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1368652,
+      "num": 1368652,
+      "word": "加沙已变死城",
+      "onboard_time": 1758367222,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1364705,
@@ -2147,6 +2163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 681957,
+      "num": 681957,
+      "word": "731票房",
+      "onboard_time": 1758191362,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 672196,
       "num": 572202,
       "word": "白敬亭 开机开机",
@@ -2937,6 +2961,14 @@
       "onboard_time": 1758033210,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 523731,
+      "num": 523731,
+      "word": "舒淇 釜山行",
+      "onboard_time": 1758368003,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 523547,
@@ -3779,14 +3811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422476,
-      "num": 422476,
-      "word": "731票房",
-      "onboard_time": 1758191362,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 421786,
       "num": 421786,
       "word": "唐嫣视后庆功宴",
@@ -3945,6 +3969,14 @@
       "onboard_time": 1758016343,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411423,
+      "num": 245695,
+      "word": "七月的一天",
+      "onboard_time": 1758369504,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 410788,
@@ -6027,6 +6059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247371,
+      "num": 247371,
+      "word": "苏超",
+      "onboard_time": 1758365363,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246375,
       "num": 246375,
       "word": "嘎子哥谢孟伟原为领衔主演",
@@ -6651,6 +6691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221207,
+      "num": 221207,
+      "word": "李沁被花少团宠得很好",
+      "onboard_time": 1758371663,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221206,
       "num": 357096,
       "word": "今日中国再不是1931年的中国",
@@ -7123,6 +7171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208348,
+      "num": 208348,
+      "word": "焦虑症vs抑郁症vs自闭症",
+      "onboard_time": 1758368243,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 207750,
       "num": 207750,
       "word": "雷军正面迎战iPhone",
@@ -7185,6 +7241,14 @@
       "onboard_time": 1757906782,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206932,
+      "num": 206931,
+      "word": "工作室劝黄誉博删微博",
+      "onboard_time": 1758370823,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 206787,
@@ -8283,12 +8347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188355,
+      "num": 242136,
+      "word": "TES战胜AL",
+      "onboard_time": 1758371003,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188088,
       "num": 246390,
       "word": "17号台风米娜或要来了",
       "onboard_time": 1758031894,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187916,
+      "num": 241736,
+      "word": "安踏",
+      "onboard_time": 1758369862,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 187881,
@@ -8617,6 +8697,14 @@
       "onboard_time": 1758183565,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181389,
+      "num": 181389,
+      "word": "蔡国强烟花艺术真的环保吗",
+      "onboard_time": 1758367882,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181251,
@@ -9283,6 +9371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170827,
+      "num": 170827,
+      "word": "6个人里有7个人不对劲",
+      "onboard_time": 1758370882,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170597,
       "num": 170597,
       "word": "为啥大连锁餐厅不敢用活鱼",
@@ -9449,6 +9545,14 @@
       "onboard_time": 1758188002,
       "rank": 34,
       "category": "电影,作品衍生"
+    },
+    {
+      "raw_hot": 168204,
+      "num": 168204,
+      "word": "杨幂 邪恶美羊羊潜伏期",
+      "onboard_time": 1758369021,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 168040,
@@ -10027,6 +10131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161201,
+      "num": 171687,
+      "word": "王一博干啥都拿奖",
+      "onboard_time": 1758370882,
+      "rank": 25,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 161151,
       "num": 161151,
       "word": "王橹杰刀马的幕后花絮",
@@ -10361,6 +10473,14 @@
       "onboard_time": 1757997564,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157520,
+      "num": 157520,
+      "word": "Hope失误",
+      "onboard_time": 1758371722,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 157368,
@@ -10763,6 +10883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153348,
+      "num": 153348,
+      "word": "恋与制作人",
+      "onboard_time": 1758369021,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153333,
       "num": 153333,
       "word": "小黄豆给热巴整成妙脆角了",
@@ -10913,6 +11041,14 @@
       "onboard_time": 1758120565,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151218,
+      "num": 151218,
+      "word": "王力宏金发挑染",
+      "onboard_time": 1758369862,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 151202,
@@ -12771,6 +12907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133949,
+      "num": 207114,
+      "word": "印度空军司令称给世界上了一课",
+      "onboard_time": 1758369504,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133938,
       "num": 133938,
       "word": "早睡就是人类的作弊器啊",
@@ -13171,6 +13315,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 130144,
+      "num": 160664,
+      "word": "美国环球影城回应男子坐过山车身亡",
+      "onboard_time": 1758370402,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130043,
       "num": 130043,
       "word": "杜淳在舞台上给了王灿一个婚礼",
@@ -13505,6 +13657,14 @@
       "onboard_time": 1758345682,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 127229,
+      "num": 122427,
+      "word": "刘雨昕演唱会",
+      "onboard_time": 1758371302,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 127225,
@@ -14059,6 +14219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122682,
+      "num": 122682,
+      "word": "赴山海 去你的996",
+      "onboard_time": 1758370102,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122635,
       "num": 326439,
       "word": "中国是一个开放包容安全的国家",
@@ -14433,6 +14601,14 @@
       "onboard_time": 1757827702,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119972,
+      "num": 119972,
+      "word": "张智霖说袁咏仪骂儿子就是骂自己",
+      "onboard_time": 1758372143,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 119883,
@@ -15411,6 +15587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112656,
+      "num": 112656,
+      "word": "家门口失踪的2岁女童已安葬",
+      "onboard_time": 1758370044,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112613,
       "num": 112613,
       "word": "全世界最窝囊的评论区",
@@ -15425,14 +15609,6 @@
       "onboard_time": 1758167601,
       "rank": 48,
       "category": "幽默,数码"
-    },
-    {
-      "raw_hot": 112537,
-      "num": 112537,
-      "word": "蔡国强烟花艺术真的环保吗",
-      "onboard_time": 1758367882,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112405,
@@ -15489,6 +15665,14 @@
       "onboard_time": 1758335962,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111843,
+      "num": 111843,
+      "word": "女儿患恶性肿瘤父母被判不能离婚",
+      "onboard_time": 1758369683,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111765,
@@ -16203,6 +16387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106295,
+      "num": 106295,
+      "word": "VOGUEMAN九月刊封面",
+      "onboard_time": 1758369381,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 106211,
       "num": 106211,
       "word": "KSG总决赛开门红",
@@ -16257,14 +16449,6 @@
       "onboard_time": 1758098062,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105936,
-      "num": 105936,
-      "word": "加沙已变死城",
-      "onboard_time": 1758367222,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105917,
@@ -16449,6 +16633,14 @@
       "onboard_time": 1758176843,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104416,
+      "num": 104416,
+      "word": "户晨风多平台被禁言",
+      "onboard_time": 1758371363,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104353,
@@ -18115,14 +18307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91072,
-      "num": 91072,
-      "word": "舒淇 釜山行",
-      "onboard_time": 1758368003,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 91011,
       "num": 819428,
       "word": "为孩子安全上网请开启更强防护",
@@ -19299,14 +19483,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 75392,
-      "num": 89307,
-      "word": "苏超",
-      "onboard_time": 1758365363,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75191,
       "num": 213935,
       "word": "美联储9个月来首次降息",
@@ -19865,6 +20041,14 @@
       "onboard_time": 1758079584,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63134,
+      "num": 206932,
+      "word": "怎么哪哪都是扫街榜广告",
+      "onboard_time": 1758370342,
+      "rank": 19,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 63127,
@@ -22251,6 +22435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22535,
+      "num": 153609,
+      "word": "穿始祖鸟是为亲近自然而非看它炸山",
+      "onboard_time": 1758372083,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22150,
       "num": 169372,
       "word": "张韶涵5566合体",
@@ -22675,7 +22867,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2061,
+      "raw_hot": 2072,
       "num": 828465,
       "word": "新时代中国推进妇女全面发展",
       "onboard_time": 1758283703,

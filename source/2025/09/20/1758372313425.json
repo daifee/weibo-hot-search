@@ -1,0 +1,410 @@
+{
+  "runTime": 1758372313425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1368652,
+        "num": 1368652,
+        "word": "加沙已变死城",
+        "onboard_time": 1758367222,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 681957,
+        "num": 681957,
+        "word": "731票房",
+        "onboard_time": 1758365843,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2072,
+        "num": 568775,
+        "word": "新时代中国推进妇女全面发展",
+        "onboard_time": 1758283703,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523731,
+        "num": 523731,
+        "word": "舒淇 釜山行",
+        "onboard_time": 1758368003,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398265,
+        "num": 398265,
+        "word": "美国男子坐时速100km过山车身亡",
+        "onboard_time": 1758364402,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 247371,
+        "num": 247371,
+        "word": "苏超",
+        "onboard_time": 1758365363,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411423,
+        "num": 245695,
+        "word": "七月的一天",
+        "onboard_time": 1758369504,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281177,
+        "num": 245068,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188355,
+        "num": 242136,
+        "word": "TES战胜AL",
+        "onboard_time": 1758371003,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187916,
+        "num": 241736,
+        "word": "安踏",
+        "onboard_time": 1758369862,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2014859,
+        "num": 238762,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1568332,
+        "num": 237255,
+        "word": "微博回应被约谈",
+        "onboard_time": 1758368363,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 313557,
+        "num": 236259,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278275,
+        "num": 233474,
+        "word": "试管婴儿出生不久确诊肾病综合征",
+        "onboard_time": 1758362481,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233103,
+        "num": 233103,
+        "word": "小酒窝 你戳我干哈",
+        "onboard_time": 1758361642,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221207,
+        "num": 221207,
+        "word": "李沁被花少团宠得很好",
+        "onboard_time": 1758371663,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208348,
+        "num": 208348,
+        "word": "焦虑症vs抑郁症vs自闭症",
+        "onboard_time": 1758368243,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133949,
+        "num": 207114,
+        "word": "印度空军司令称给世界上了一课",
+        "onboard_time": 1758369504,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168193,
+        "num": 206986,
+        "word": "网红局长刘克斌职务已调整",
+        "onboard_time": 1758363021,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63134,
+        "num": 206932,
+        "word": "怎么哪哪都是扫街榜广告",
+        "onboard_time": 1758370342,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 206932,
+        "num": 206931,
+        "word": "工作室劝黄誉博删微博",
+        "onboard_time": 1758370823,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207049,
+        "num": 197445,
+        "word": "董璇说现在接戏是为了还债",
+        "onboard_time": 1758358642,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1489248,
+        "num": 190887,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183962,
+        "num": 183962,
+        "word": "喜马拉雅山脉烟花表演手续合规",
+        "onboard_time": 1758361882,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181389,
+        "num": 181389,
+        "word": "蔡国强烟花艺术真的环保吗",
+        "onboard_time": 1758367882,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161201,
+        "num": 171687,
+        "word": "王一博干啥都拿奖",
+        "onboard_time": 1758370882,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 170827,
+        "num": 170827,
+        "word": "6个人里有7个人不对劲",
+        "onboard_time": 1758370882,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168204,
+        "num": 168204,
+        "word": "杨幂 邪恶美羊羊潜伏期",
+        "onboard_time": 1758369021,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130144,
+        "num": 160664,
+        "word": "美国环球影城回应男子坐过山车身亡",
+        "onboard_time": 1758370402,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86253,
+        "num": 157749,
+        "word": "巴基斯坦确认向沙特提供核保护伞",
+        "onboard_time": 1758353001,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157520,
+        "num": 157520,
+        "word": "Hope失误",
+        "onboard_time": 1758371722,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22535,
+        "num": 153609,
+        "word": "穿始祖鸟是为亲近自然而非看它炸山",
+        "onboard_time": 1758372083,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153348,
+        "num": 153348,
+        "word": "恋与制作人",
+        "onboard_time": 1758369021,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151927,
+        "num": 151927,
+        "word": "长期喝无糖饮料身体的变化",
+        "onboard_time": 1758364521,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151218,
+        "num": 151218,
+        "word": "王力宏金发挑染",
+        "onboard_time": 1758369862,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139345,
+        "num": 139345,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128535,
+        "num": 128535,
+        "word": "清华晨跑大神刘小平离世",
+        "onboard_time": 1758358101,
+        "rank": 36,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 122682,
+        "num": 122682,
+        "word": "赴山海 去你的996",
+        "onboard_time": 1758370102,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127229,
+        "num": 122427,
+        "word": "刘雨昕演唱会",
+        "onboard_time": 1758371302,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121920,
+        "num": 121920,
+        "word": "陈赫再复刻黄磊不加水的红烧肉",
+        "onboard_time": 1758355041,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119972,
+        "num": 119972,
+        "word": "张智霖说袁咏仪骂儿子就是骂自己",
+        "onboard_time": 1758372143,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115372,
+        "num": 115372,
+        "word": "不眠日",
+        "onboard_time": 1758363321,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112656,
+        "num": 112656,
+        "word": "家门口失踪的2岁女童已安葬",
+        "onboard_time": 1758370044,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111843,
+        "num": 111843,
+        "word": "女儿患恶性肿瘤父母被判不能离婚",
+        "onboard_time": 1758369683,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111315,
+        "num": 111315,
+        "word": "张晚意捂了马思纯耳朵",
+        "onboard_time": 1758356481,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110725,
+        "num": 110725,
+        "word": "86岁北京大爷大学学历退休收入",
+        "onboard_time": 1758366802,
+        "rank": 45,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 106295,
+        "num": 106295,
+        "word": "VOGUEMAN九月刊封面",
+        "onboard_time": 1758369381,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 104416,
+        "num": 104416,
+        "word": "户晨风多平台被禁言",
+        "onboard_time": 1758371363,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103475,
+        "num": 103475,
+        "word": "蔡国强烟火放到喜马拉雅山",
+        "onboard_time": 1758350181,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103164,
+        "num": 103164,
+        "word": "王一博潘君临季军",
+        "onboard_time": 1758364461,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}
