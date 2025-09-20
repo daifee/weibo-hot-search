@@ -1,0 +1,410 @@
+{
+  "runTime": 1758374837904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1775338,
+        "num": 1775338,
+        "word": "加沙已变死城",
+        "onboard_time": 1758367222,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 660919,
+        "num": 660919,
+        "word": "731票房",
+        "onboard_time": 1758365843,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44766,
+        "num": 468719,
+        "word": "国防公开课",
+        "onboard_time": 1758373104,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461593,
+        "num": 461593,
+        "word": "安踏",
+        "onboard_time": 1758369862,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381375,
+        "num": 381375,
+        "word": "舒淇 釜山行",
+        "onboard_time": 1758368003,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352957,
+        "num": 352957,
+        "word": "始祖鸟客服回应烟花争议",
+        "onboard_time": 1758373163,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371447,
+        "num": 351291,
+        "word": "七月的一天",
+        "onboard_time": 1758369504,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343948,
+        "num": 343948,
+        "word": "美国男子坐时速100km过山车身亡",
+        "onboard_time": 1758364402,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 282425,
+        "num": 343880,
+        "word": "白鹿直播",
+        "onboard_time": 1758373703,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158966,
+        "num": 337748,
+        "word": "户晨风多平台被禁言",
+        "onboard_time": 1758371363,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543320,
+        "num": 334796,
+        "word": "焦虑症vs抑郁症vs自闭症",
+        "onboard_time": 1758368243,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 501827,
+        "num": 332376,
+        "word": "工作室劝黄誉博删微博",
+        "onboard_time": 1758370823,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330395,
+        "num": 330395,
+        "word": "张柏芝生图轻轻秒了",
+        "onboard_time": 1758372924,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283898,
+        "num": 283898,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270776,
+        "num": 270776,
+        "word": "穿始祖鸟是为亲近自然而非看它炸山",
+        "onboard_time": 1758372083,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257901,
+        "num": 257901,
+        "word": "苏超",
+        "onboard_time": 1758365363,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247967,
+        "num": 247967,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211573,
+        "num": 211573,
+        "word": "李兰陵结婚",
+        "onboard_time": 1758373883,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111079,
+        "num": 211341,
+        "word": "怎么哪哪都是扫街榜广告",
+        "onboard_time": 1758370342,
+        "rank": 18,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 48350,
+        "num": 211107,
+        "word": "满配合伙人",
+        "onboard_time": 1758373703,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1834138,
+        "num": 210534,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1085204,
+        "num": 210141,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209755,
+        "num": 209755,
+        "word": "试管婴儿出生不久确诊肾病综合征",
+        "onboard_time": 1758362481,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191816,
+        "num": 191816,
+        "word": "吴镇宇以为自己是来演吴邪的",
+        "onboard_time": 1758373042,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172283,
+        "num": 172283,
+        "word": "6个人里有7个人不对劲",
+        "onboard_time": 1758370882,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92612,
+        "num": 171471,
+        "word": "巴基斯坦确认向沙特提供核保护伞",
+        "onboard_time": 1758353001,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153635,
+        "num": 170616,
+        "word": "徐振轩第一部男主剧",
+        "onboard_time": 1758374242,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206891,
+        "num": 169468,
+        "word": "董璇说现在接戏是为了还债",
+        "onboard_time": 1758358642,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111639,
+        "num": 169000,
+        "word": "23万的车能豪华成什么样",
+        "onboard_time": 1758374543,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 66322,
+        "num": 167647,
+        "word": "始祖鸟曾被指在国内外搞双标",
+        "onboard_time": 1758373283,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196543,
+        "num": 166217,
+        "word": "始祖鸟的烟花劝退了真正的户外人",
+        "onboard_time": 1758373283,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165770,
+        "num": 165770,
+        "word": "印度空军司令称给世界上了一课",
+        "onboard_time": 1758369504,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162766,
+        "num": 162766,
+        "word": "蔡国强烟花艺术真的环保吗",
+        "onboard_time": 1758367882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162514,
+        "num": 162514,
+        "word": "小酒窝 你戳我干哈",
+        "onboard_time": 1758361642,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158685,
+        "num": 158685,
+        "word": "张凌赫名利场游刃有余的贵公子",
+        "onboard_time": 1758374063,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156686,
+        "num": 156686,
+        "word": "秦岚回国第二章",
+        "onboard_time": 1758374003,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153072,
+        "num": 153072,
+        "word": "男子补办结婚证被告知离婚十年",
+        "onboard_time": 1758373283,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151476,
+        "num": 151476,
+        "word": "杨幂 邪恶美羊羊潜伏期",
+        "onboard_time": 1758369021,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140151,
+        "num": 140151,
+        "word": "李沁被花少团宠得很好",
+        "onboard_time": 1758371663,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139934,
+        "num": 139934,
+        "word": "王一博干啥都拿奖",
+        "onboard_time": 1758370882,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 138148,
+        "num": 138148,
+        "word": "九尾晒美食九宫格",
+        "onboard_time": 1758373703,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137451,
+        "num": 137451,
+        "word": "喜马拉雅山脉烟花表演手续合规",
+        "onboard_time": 1758361882,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137011,
+        "num": 137011,
+        "word": "广东茂名火流星陨石重达800多斤",
+        "onboard_time": 1758373283,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135600,
+        "num": 135600,
+        "word": "张智霖说袁咏仪骂儿子就是骂自己",
+        "onboard_time": 1758372143,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134665,
+        "num": 134665,
+        "word": "谢霆锋广州",
+        "onboard_time": 1758374364,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130747,
+        "num": 130747,
+        "word": "Hope失误",
+        "onboard_time": 1758371722,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129966,
+        "num": 129966,
+        "word": "不眠日",
+        "onboard_time": 1758363321,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129078,
+        "num": 129078,
+        "word": "TES晋级2025LPL总决赛",
+        "onboard_time": 1758373883,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128107,
+        "num": 128107,
+        "word": "姚琛就喜马拉雅烟花事件发声",
+        "onboard_time": 1758372384,
+        "rank": 48,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 127946,
+        "num": 127946,
+        "word": "苏超淮安1比0南通",
+        "onboard_time": 1758372683,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}

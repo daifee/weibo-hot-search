@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 20:59:48
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 21:27:17
 </p>
 </blockquote>
 <p>
@@ -999,6 +999,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B7%B2%E5%8F%98%E6%AD%BB%E5%9F%8E%23" target="weibo">
+加沙已变死城（热度：1775338）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E5%9B%A0%E6%A8%A1%E4%BB%BF%E9%BB%84%E5%AD%90%E9%9F%AC%E5%AF%BC%E8%87%B4%E7%A0%B4%E4%BA%A7%23" target="weibo">
 黄子诚因模仿黄子韬导致破产（热度：1769913）
 </a>
@@ -1307,12 +1313,6 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%20%E6%88%91%E9%82%A3%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E5%A5%B3%E5%8F%8B%23" target="weibo">
 唐嫣 我那体制内的女友（热度：1551458）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B7%B2%E5%8F%98%E6%AD%BB%E5%9F%8E%23" target="weibo">
-加沙已变死城（热度：1551004）
 </a>
 </li>
 

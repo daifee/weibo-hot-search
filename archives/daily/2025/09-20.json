@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758373188622,
+  "endTime": 1758374837904,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1775338,
+      "num": 1775338,
+      "word": "加沙已变死城",
+      "onboard_time": 1758367222,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1708250,
       "num": 1708250,
       "word": "蔡国强工作室回应烟花争议",
@@ -81,14 +89,6 @@
       "onboard_time": 1758368363,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1551004,
-      "num": 1551004,
-      "word": "加沙已变死城",
-      "onboard_time": 1758367222,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1518796,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543320,
+      "num": 334796,
+      "word": "焦虑症vs抑郁症vs自闭症",
+      "onboard_time": 1758368243,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 542467,
       "num": 753739,
       "word": "白敬亭你睡着了吗我睡不着",
@@ -339,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 501827,
+      "num": 332376,
+      "word": "工作室劝黄誉博删微博",
+      "onboard_time": 1758370823,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500666,
       "num": 500666,
       "word": "美国男子坐时速100km过山车身亡",
@@ -377,6 +393,14 @@
       "onboard_time": 1758344241,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461593,
+      "num": 461593,
+      "word": "安踏",
+      "onboard_time": 1758369862,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 461247,
@@ -451,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368164,
-      "num": 218446,
-      "word": "焦虑症vs抑郁症vs自闭症",
-      "onboard_time": 1758368243,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 357568,
       "num": 285948,
       "word": "试管婴儿出生不久确诊肾病综合征",
@@ -472,6 +488,14 @@
       "word": "网红局长刘克斌职务已调整",
       "onboard_time": 1758363021,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352957,
+      "num": 352957,
+      "word": "始祖鸟客服回应烟花争议",
+      "onboard_time": 1758373163,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -505,6 +529,14 @@
       "onboard_time": 1758333440,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330395,
+      "num": 330395,
+      "word": "张柏芝生图轻轻秒了",
+      "onboard_time": 1758372924,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 323228,
@@ -595,20 +627,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287002,
-      "num": 287002,
-      "word": "安踏",
-      "onboard_time": 1758369862,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284214,
       "num": 216890,
       "word": "贾静雯被震醒了",
       "onboard_time": 1758329900,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282425,
+      "num": 343880,
+      "word": "白鹿直播",
+      "onboard_time": 1758373703,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 270776,
+      "num": 270776,
+      "word": "穿始祖鸟是为亲近自然而非看它炸山",
+      "onboard_time": 1758372083,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269829,
@@ -659,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257901,
+      "num": 257901,
+      "word": "苏超",
+      "onboard_time": 1758365363,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257136,
       "num": 213205,
       "word": "3岁女童坠亡母亲因自责精神出问题",
@@ -689,14 +737,6 @@
       "onboard_time": 1758345561,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247371,
-      "num": 247371,
-      "word": "苏超",
-      "onboard_time": 1758365363,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 239024,
@@ -827,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211573,
+      "num": 211573,
+      "word": "李兰陵结婚",
+      "onboard_time": 1758373883,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210313,
       "num": 210313,
       "word": "成毅时装九月封面",
@@ -851,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206932,
-      "num": 206931,
-      "word": "工作室劝黄誉博删微博",
-      "onboard_time": 1758370823,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201338,
       "num": 196272,
       "word": "维嘉说万千惠被人做局了",
@@ -873,6 +913,14 @@
       "onboard_time": 1758346102,
       "rank": 22,
       "category": "互联网,动漫"
+    },
+    {
+      "raw_hot": 196543,
+      "num": 166217,
+      "word": "始祖鸟的烟花劝退了真正的户外人",
+      "onboard_time": 1758373283,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196202,
@@ -905,6 +953,14 @@
       "onboard_time": 1758294443,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191816,
+      "num": 191816,
+      "word": "吴镇宇以为自己是来演吴邪的",
+      "onboard_time": 1758373042,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 191566,
@@ -993,14 +1049,6 @@
       "onboard_time": 1758338902,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179708,
-      "num": 179708,
-      "word": "张柏芝生图轻轻秒了",
-      "onboard_time": 1758372924,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 179525,
@@ -1123,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165770,
+      "num": 212514,
+      "word": "印度空军司令称给世界上了一课",
+      "onboard_time": 1758369504,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164826,
       "num": 164826,
       "word": "芒果音乐节",
@@ -1179,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161682,
-      "num": 212514,
-      "word": "印度空军司令称给世界上了一课",
-      "onboard_time": 1758369504,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 161305,
       "num": 161305,
       "word": "医院就诊被拍视频发网上",
@@ -1225,6 +1273,22 @@
       "onboard_time": 1758287843,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158966,
+      "num": 337748,
+      "word": "户晨风多平台被禁言",
+      "onboard_time": 1758371363,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158685,
+      "num": 158685,
+      "word": "张凌赫名利场游刃有余的贵公子",
+      "onboard_time": 1758374063,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 157920,
@@ -1267,6 +1331,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 156686,
+      "num": 156686,
+      "word": "秦岚回国第二章",
+      "onboard_time": 1758374003,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156095,
       "num": 156095,
       "word": "iPhone17为什么不能拍摄4比3视频",
@@ -1299,12 +1371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153635,
+      "num": 170616,
+      "word": "徐振轩第一部男主剧",
+      "onboard_time": 1758374242,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153348,
       "num": 153348,
       "word": "恋与制作人",
       "onboard_time": 1758369021,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153072,
+      "num": 153072,
+      "word": "男子补办结婚证被告知离婚十年",
+      "onboard_time": 1758373283,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152916,
@@ -1515,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138148,
+      "num": 138148,
+      "word": "九尾晒美食九宫格",
+      "onboard_time": 1758373703,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137980,
       "num": 137980,
       "word": "驾驶员樊振东",
@@ -1547,20 +1643,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137011,
+      "num": 137011,
+      "word": "广东茂名火流星陨石重达800多斤",
+      "onboard_time": 1758373283,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135974,
       "num": 135974,
       "word": "博主回应做饭时猫将老鼠丢进锅",
       "onboard_time": 1758333202,
       "rank": 25,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 135905,
-      "num": 135905,
-      "word": "户晨风多平台被禁言",
-      "onboard_time": 1758371363,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135349,
@@ -1585,6 +1681,14 @@
       "onboard_time": 1758294804,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134665,
+      "num": 134665,
+      "word": "谢霆锋广州",
+      "onboard_time": 1758374364,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 134168,
@@ -1659,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129078,
+      "num": 129078,
+      "word": "TES晋级2025LPL总决赛",
+      "onboard_time": 1758373883,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128840,
       "num": 128840,
       "word": "丞磊听取哇声一片",
@@ -1713,14 +1825,6 @@
       "onboard_time": 1758341422,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126391,
-      "num": 126391,
-      "word": "吴镇宇以为自己是来演吴邪的",
-      "onboard_time": 1758373042,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 125366,
@@ -2035,6 +2139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 111639,
+      "num": 169000,
+      "word": "23万的车能豪华成什么样",
+      "onboard_time": 1758374543,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 111619,
       "num": 111619,
       "word": "AL翻盘TES",
@@ -2049,6 +2161,14 @@
       "onboard_time": 1758296904,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111079,
+      "num": 211341,
+      "word": "怎么哪哪都是扫街榜广告",
+      "onboard_time": 1758370342,
+      "rank": 19,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 110649,
@@ -2603,14 +2723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83250,
-      "num": 121007,
-      "word": "始祖鸟客服回应烟花争议",
-      "onboard_time": 1758373163,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83020,
       "num": 95419,
       "word": "为什么ios26适合i人",
@@ -2811,12 +2923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65411,
-      "num": 206932,
-      "word": "怎么哪哪都是扫街榜广告",
-      "onboard_time": 1758370342,
-      "rank": 19,
-      "category": "艺人,互联网"
+      "raw_hot": 66322,
+      "num": 167647,
+      "word": "始祖鸟曾被指在国内外搞双标",
+      "onboard_time": 1758373283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62699,
@@ -2849,14 +2961,6 @@
       "onboard_time": 1758298640,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 60821,
-      "num": 198287,
-      "word": "穿始祖鸟是为亲近自然而非看它炸山",
-      "onboard_time": 1758372083,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60775,
@@ -2987,12 +3091,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48350,
+      "num": 211107,
+      "word": "满配合伙人",
+      "onboard_time": 1758373703,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45451,
       "num": 79204,
       "word": "你好星期六",
       "onboard_time": 1758300679,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44766,
+      "num": 517033,
+      "word": "国防公开课",
+      "onboard_time": 1758373104,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44414,
@@ -3249,14 +3369,6 @@
       "onboard_time": 1758342742,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7825,
-      "num": 517033,
-      "word": "国防公开课",
-      "onboard_time": 1758373104,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7314,
