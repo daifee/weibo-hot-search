@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758386429611,
+  "endTime": 1758388753311,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4915,6 +4915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 812532,
+      "num": 205566,
+      "word": "易烊千玺",
+      "onboard_time": 1758385942,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811754,
       "num": 811754,
       "word": "黄岩岛",
@@ -7337,14 +7345,6 @@
       "onboard_time": 1758010761,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 599066,
-      "num": 205566,
-      "word": "易烊千玺",
-      "onboard_time": 1758385942,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 598828,
@@ -11753,6 +11753,14 @@
       "onboard_time": 1757687487,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400897,
+      "num": 400897,
+      "word": "湖南一女子涉嫌杀8旬舅舅潜逃",
+      "onboard_time": 1758383483,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 400179,
@@ -22083,14 +22091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200789,
-      "num": 200789,
-      "word": "湖南一女子涉嫌杀8旬舅舅潜逃",
-      "onboard_time": 1758383483,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200732,
       "num": 200732,
       "word": "地球臭氧层正在恢复",
@@ -24257,6 +24257,14 @@
       "onboard_time": 1757209462,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189515,
+      "num": 189515,
+      "word": "30岁我拔完了自己所有的牙齿",
+      "onboard_time": 1758382702,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189457,
@@ -31001,14 +31009,6 @@
       "onboard_time": 1757414422,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 155560,
-      "num": 155560,
-      "word": "30岁我拔完了自己所有的牙齿",
-      "onboard_time": 1758382702,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155551,
@@ -50699,6 +50699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97293,
+      "num": 121865,
+      "word": "山西通报教师打学生致瘀血红肿",
+      "onboard_time": 1758384081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97273,
       "num": 176607,
       "word": "让男留学生住女生宿舍是漠视学生安全",
@@ -51193,14 +51201,6 @@
       "onboard_time": 1757084844,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 95975,
-      "num": 121865,
-      "word": "山西通报教师打学生致瘀血红肿",
-      "onboard_time": 1758384081,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95948,
@@ -53188,7 +53188,7 @@
     },
     {
       "raw_hot": 87566,
-      "num": 87566,
+      "num": 89701,
       "word": "杨幂祝你们经常上热搜",
       "onboard_time": 1758385042,
       "rank": 48,
@@ -58473,6 +58473,14 @@
       "onboard_time": 1757484263,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58978,
+      "num": 89519,
+      "word": "yagao让BLG双C不要站一起",
+      "onboard_time": 1758387079,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 58925,
