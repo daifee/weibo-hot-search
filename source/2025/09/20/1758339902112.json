@@ -1,0 +1,410 @@
+{
+  "runTime": 1758339902112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1697210,
+        "num": 1697210,
+        "word": "陈紫函停工3年做了12次试管",
+        "onboard_time": 1758333020,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1437176,
+        "num": 1437176,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 1,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 35648,
+        "num": 762903,
+        "word": "网警破获AI换脸非法侵入案",
+        "onboard_time": 1758335721,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626331,
+        "num": 626331,
+        "word": "香港炸弹",
+        "onboard_time": 1758326181,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620186,
+        "num": 620186,
+        "word": "杨采钰官宣当妈",
+        "onboard_time": 1758331222,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7261366,
+        "num": 7261366,
+        "word": "武大撤销肖某某记过处分",
+        "onboard_time": 1758333742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495738,
+        "num": 495738,
+        "word": "马航空姐飞行途中跳舞引争议",
+        "onboard_time": 1758334282,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 413986,
+        "num": 413986,
+        "word": "字节跳动深夜公告",
+        "onboard_time": 1758326900,
+        "rank": 7,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 352919,
+        "num": 352919,
+        "word": "医院做月饼 打败月饼厂",
+        "onboard_time": 1758337762,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301489,
+        "num": 301489,
+        "word": "张子枫马嘉祺我们生活在南京路透",
+        "onboard_time": 1758333440,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772453,
+        "num": 287871,
+        "word": "姐姐在美国失联了",
+        "onboard_time": 1758332301,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 590795,
+        "num": 284114,
+        "word": "杨某媛论文存在百余处不规范",
+        "onboard_time": 1758334761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338116,
+        "num": 276338,
+        "word": "关晓彤分没分杨迪你倒是问啊",
+        "onboard_time": 1758292163,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263614,
+        "num": 263614,
+        "word": "王一博赛车",
+        "onboard_time": 1758336563,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571290,
+        "num": 262875,
+        "word": "武汉大学复核通报",
+        "onboard_time": 1758333921,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244192,
+        "num": 244192,
+        "word": "用拖鞋搅奶茶男子应聘时就不对劲",
+        "onboard_time": 1758338721,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186821,
+        "num": 186821,
+        "word": "哈妮克孜官宣了",
+        "onboard_time": 1758338902,
+        "rank": 16,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 185637,
+        "num": 185637,
+        "word": "丁程鑫55公斤",
+        "onboard_time": 1758337342,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76125,
+        "num": 183650,
+        "word": "你的车受得了大暴雨吗",
+        "onboard_time": 1758338783,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205092,
+        "num": 182003,
+        "word": "遭老板性侵女子称受不了老公被骂",
+        "onboard_time": 1758338902,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463289,
+        "num": 179978,
+        "word": "驳回武大图书馆事件女生上诉",
+        "onboard_time": 1758332721,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228622,
+        "num": 177960,
+        "word": "明日方舟",
+        "onboard_time": 1758339082,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270035,
+        "num": 175664,
+        "word": "黄子诚因模仿黄子韬导致破产",
+        "onboard_time": 1758291563,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174825,
+        "num": 174825,
+        "word": "唐国强 按劳取酬纳税光荣",
+        "onboard_time": 1758335241,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372184,
+        "num": 174293,
+        "word": "武大多人被问责",
+        "onboard_time": 1758334580,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234676,
+        "num": 173705,
+        "word": "49岁可云扮演者现状曝光",
+        "onboard_time": 1758338542,
+        "rank": 25,
+        "category": "剧集,民生新闻"
+      },
+      {
+        "raw_hot": 214473,
+        "num": 173546,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1758338603,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243907,
+        "num": 172747,
+        "word": "武大图书馆事件最新通报",
+        "onboard_time": 1758333921,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180165,
+        "num": 171884,
+        "word": "上药上到呼吸纠缠是谁红温了",
+        "onboard_time": 1758338902,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171705,
+        "num": 171705,
+        "word": "罗小黑",
+        "onboard_time": 1758337342,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 50901,
+        "num": 171670,
+        "word": "德国总理称承认巴勒斯坦国为时尚早",
+        "onboard_time": 1758330981,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230929,
+        "num": 171666,
+        "word": "杨某媛导师被暂停研究生招生资格",
+        "onboard_time": 1758334880,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171655,
+        "num": 171655,
+        "word": "张子枫向往的生活回家啦",
+        "onboard_time": 1758337042,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154922,
+        "num": 154922,
+        "word": "TikTok美国公司将继续服务好用户",
+        "onboard_time": 1758332780,
+        "rank": 33,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 184767,
+        "num": 154157,
+        "word": "武汉大学图书馆案二审宣判",
+        "onboard_time": 1758332780,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152768,
+        "num": 152768,
+        "word": "儿子串通母亲隐瞒姐姐独占房产",
+        "onboard_time": 1758339443,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149239,
+        "num": 149239,
+        "word": "大哭过后千万不要立刻睡觉",
+        "onboard_time": 1758338842,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145756,
+        "num": 145756,
+        "word": "北上",
+        "onboard_time": 1758335603,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135750,
+        "num": 144162,
+        "word": "马嘉祺未出席新剧开机",
+        "onboard_time": 1758339262,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142635,
+        "num": 142635,
+        "word": "蓝溪镇",
+        "onboard_time": 1758336262,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140941,
+        "num": 140941,
+        "word": "北京防空警报",
+        "onboard_time": 1758335362,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139803,
+        "num": 139803,
+        "word": "绘旅人精灵DLC",
+        "onboard_time": 1758339383,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137249,
+        "num": 137249,
+        "word": "快递发布涨价通知",
+        "onboard_time": 1758339021,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131602,
+        "num": 131602,
+        "word": "武大撤销肖某瑫处分",
+        "onboard_time": 1758333921,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127786,
+        "num": 127786,
+        "word": "柯淳说曾志伟不如自己懂短剧",
+        "onboard_time": 1758336081,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125522,
+        "num": 125522,
+        "word": "王栎鑫回应0713演唱会细节",
+        "onboard_time": 1758338963,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118566,
+        "num": 118566,
+        "word": "女子拼车遭后排男子伸手触摸身体",
+        "onboard_time": 1758335481,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118519,
+        "num": 118519,
+        "word": "台湾地震",
+        "onboard_time": 1758324018,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113756,
+        "num": 113756,
+        "word": "知情人回应全红婵是否将退役",
+        "onboard_time": 1758336323,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112755,
+        "num": 112755,
+        "word": "朱志鑫苏新皓没合作碎的是我",
+        "onboard_time": 1758338963,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 11:33:43
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 11:45:02
 </p>
 </blockquote>
 <p>
@@ -1485,6 +1485,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E5%8D%87%E5%8D%87%E8%96%AF%E6%9D%A1%E9%81%93%E6%AD%89%23" target="weibo">
+脆升升薯条道歉（热度：1437176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%90%86%23" target="weibo">
 真理（热度：1431648）
 </a>
@@ -1775,12 +1781,6 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NASA%E6%98%8E%E7%A1%AE%E5%8F%91%E7%8E%B0%E7%81%AB%E6%98%9F%E7%94%9F%E5%91%BD%E8%BF%B9%E8%B1%A1%23" target="weibo">
 NASA明确发现火星生命迹象（热度：1280374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E5%8D%87%E5%8D%87%E8%96%AF%E6%9D%A1%E9%81%93%E6%AD%89%23" target="weibo">
-脆升升薯条道歉（热度：1277045）
 </a>
 </li>
 

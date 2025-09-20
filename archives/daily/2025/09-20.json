@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758339223601,
+  "endTime": 1758339902112,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -59,20 +59,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1437176,
+      "num": 1437176,
+      "word": "脆升升薯条道歉",
+      "onboard_time": 1758337103,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1394686,
       "num": 1394686,
       "word": "杨采钰官宣当妈",
       "onboard_time": 1758331222,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1277045,
-      "num": 1277045,
-      "word": "脆升升薯条道歉",
-      "onboard_time": 1758337103,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1211485,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 857856,
-      "num": 230420,
+      "num": 262875,
       "word": "武汉大学复核通报",
       "onboard_time": 1758333921,
       "rank": 13,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 440664,
-      "num": 160072,
+      "num": 172747,
       "word": "武大图书馆事件最新通报",
       "onboard_time": 1758333921,
       "rank": 26,
@@ -169,6 +169,14 @@
       "onboard_time": 1758291505,
       "rank": 0,
       "category": "海外新闻,数码"
+    },
+    {
+      "raw_hot": 352919,
+      "num": 352919,
+      "word": "医院做月饼 打败月饼厂",
+      "onboard_time": 1758337762,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345157,
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312512,
-      "num": 312512,
-      "word": "医院做月饼 打败月饼厂",
-      "onboard_time": 1758337762,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307252,
       "num": 122506,
       "word": "这居然是宋轶",
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 269829,
-      "num": 156581,
+      "num": 171666,
       "word": "杨某媛导师被暂停研究生招生资格",
       "onboard_time": 1758334880,
       "rank": 31,
@@ -299,12 +299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244192,
+      "num": 244192,
+      "word": "用拖鞋搅奶茶男子应聘时就不对劲",
+      "onboard_time": 1758338721,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236333,
       "num": 186185,
       "word": "49岁可云扮演者现状曝光",
       "onboard_time": 1758338542,
       "rank": 22,
       "category": "剧集,民生新闻"
+    },
+    {
+      "raw_hot": 228622,
+      "num": 177960,
+      "word": "明日方舟",
+      "onboard_time": 1758339082,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 225816,
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214473,
+      "num": 173546,
+      "word": "独居最大的坏处已经出现了",
+      "onboard_time": 1758338603,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214321,
       "num": 214321,
       "word": "丁程鑫55公斤",
@@ -379,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205092,
+      "num": 186746,
+      "word": "遭老板性侵女子称受不了老公被骂",
+      "onboard_time": 1758338902,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196202,
       "num": 196202,
       "word": "蓝溪镇",
@@ -401,6 +433,14 @@
       "onboard_time": 1758328941,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186821,
+      "num": 186821,
+      "word": "哈妮克孜官宣了",
+      "onboard_time": 1758338902,
+      "rank": 24,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 185917,
@@ -435,28 +475,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180165,
+      "num": 171884,
+      "word": "上药上到呼吸纠缠是谁红温了",
+      "onboard_time": 1758338902,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179525,
       "num": 179525,
       "word": "刷牙好习惯vs刷牙坏习惯",
       "onboard_time": 1758336862,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 172433,
-      "num": 172433,
-      "word": "用拖鞋搅奶茶男子应聘时就不对劲",
-      "onboard_time": 1758338721,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171505,
-      "num": 171505,
-      "word": "上药上到呼吸纠缠是谁红温了",
-      "onboard_time": 1758338902,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 168525,
@@ -547,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152768,
+      "num": 152768,
+      "word": "儿子串通母亲隐瞒姐姐独占房产",
+      "onboard_time": 1758339443,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152050,
       "num": 152050,
       "word": "唐国强说哪吒就是比真人演的票房高",
@@ -555,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148296,
-      "num": 148296,
-      "word": "明日方舟",
-      "onboard_time": 1758339082,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 149239,
+      "num": 149239,
+      "word": "大哭过后千万不要立刻睡觉",
+      "onboard_time": 1758338842,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 148166,
@@ -595,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139803,
+      "num": 139803,
+      "word": "绘旅人精灵DLC",
+      "onboard_time": 1758339383,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139738,
       "num": 119167,
       "word": "何运晨律师的职业模特的身材",
@@ -612,7 +660,7 @@
     },
     {
       "raw_hot": 138221,
-      "num": 134321,
+      "num": 137249,
       "word": "快递发布涨价通知",
       "onboard_time": 1758339021,
       "rank": 41,
@@ -625,14 +673,6 @@
       "onboard_time": 1758338963,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137349,
-      "num": 185760,
-      "word": "哈妮克孜官宣了",
-      "onboard_time": 1758338902,
-      "rank": 24,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 137057,
@@ -651,12 +691,12 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 135600,
-      "num": 135600,
-      "word": "大哭过后千万不要立刻睡觉",
-      "onboard_time": 1758338842,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 135750,
+      "num": 144162,
+      "word": "马嘉祺未出席新剧开机",
+      "onboard_time": 1758339262,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 135349,
@@ -793,14 +833,6 @@
       "onboard_time": 1758334521,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 113872,
-      "num": 186746,
-      "word": "遭老板性侵女子称受不了老公被骂",
-      "onboard_time": 1758338902,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111953,
@@ -1059,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76125,
+      "num": 187017,
+      "word": "你的车受得了大暴雨吗",
+      "onboard_time": 1758338783,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 75832,
       "num": 75832,
       "word": "上海绿捷背后到底是谁",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1758284903,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66615,
-      "num": 187017,
-      "word": "你的车受得了大暴雨吗",
-      "onboard_time": 1758338783,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 62681,
