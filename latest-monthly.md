@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 11:09:34
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 11:33:43
 </p>
 </blockquote>
 <p>
@@ -1775,6 +1775,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NASA%E6%98%8E%E7%A1%AE%E5%8F%91%E7%8E%B0%E7%81%AB%E6%98%9F%E7%94%9F%E5%91%BD%E8%BF%B9%E8%B1%A1%23" target="weibo">
 NASA明确发现火星生命迹象（热度：1280374）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E5%8D%87%E5%8D%87%E8%96%AF%E6%9D%A1%E9%81%93%E6%AD%89%23" target="weibo">
+脆升升薯条道歉（热度：1277045）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%B0%B1TikTok%E7%AD%89%E9%97%AE%E9%A2%98%E8%BF%9B%E8%A1%8C%E4%BA%86%E6%B2%9F%E9%80%9A%23" target="weibo">
 中美就TikTok等问题进行了沟通（热度：543730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%A6%E8%89%AF%E9%95%BF%E5%AD%99%E5%9B%9E%E5%BA%94%E8%A7%82%E7%A4%BC%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23" target="weibo">
-张学良长孙回应观礼九三阅兵（热度：543469）
 </a>
 </li>
 
