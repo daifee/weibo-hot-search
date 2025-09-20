@@ -1,0 +1,410 @@
+{
+  "runTime": 1758346797457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197722,
+        "num": 1197722,
+        "word": "花少7落选小妹发文回应",
+        "onboard_time": 1758340223,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743786,
+        "num": 743786,
+        "word": "香港炸弹",
+        "onboard_time": 1758326181,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1948,
+        "num": 732780,
+        "word": "2025世界制造业大会",
+        "onboard_time": 1758345203,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731579,
+        "num": 731579,
+        "word": "陈紫函停工3年做了12次试管",
+        "onboard_time": 1758333020,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531928,
+        "num": 531928,
+        "word": "字节跳动一亿美金估值的offer长这样",
+        "onboard_time": 1758344602,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 1489503,
+        "num": 531925,
+        "word": "武大撤销肖某某记过处分",
+        "onboard_time": 1758333742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531887,
+        "num": 531887,
+        "word": "儿子串通母亲隐瞒姐姐独占房产",
+        "onboard_time": 1758339443,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485669,
+        "num": 485669,
+        "word": "遭老板性侵女子称受不了老公被骂",
+        "onboard_time": 1758338902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480837,
+        "num": 480837,
+        "word": "张维伊接小酒窝放学",
+        "onboard_time": 1758340703,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82299,
+        "num": 474569,
+        "word": "纪念台湾光复80周年",
+        "onboard_time": 1758345801,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 472050,
+        "num": 472050,
+        "word": "董璇说这次婚姻要把丑话说在前",
+        "onboard_time": 1758344241,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392051,
+        "num": 392051,
+        "word": "姐姐在美国失联了",
+        "onboard_time": 1758332301,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 357730,
+        "num": 357730,
+        "word": "杨采钰官宣当妈",
+        "onboard_time": 1758331222,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346681,
+        "num": 346681,
+        "word": "武汉大学复核通报",
+        "onboard_time": 1758333921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306471,
+        "num": 306471,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1758338603,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341298,
+        "num": 296934,
+        "word": "小酒窝主动提出要对张维伊改口",
+        "onboard_time": 1758345263,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246052,
+        "num": 246052,
+        "word": "哈妮克孜官宣了",
+        "onboard_time": 1758338902,
+        "rank": 16,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 221791,
+        "num": 221791,
+        "word": "用拖鞋搅奶茶男子应聘时就不对劲",
+        "onboard_time": 1758338721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204858,
+        "num": 204858,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30197,
+        "num": 198296,
+        "word": "韩国月城核电站今年第二起泄漏事故",
+        "onboard_time": 1758346401,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230231,
+        "num": 198237,
+        "word": "谢娜大学时期美得好突出",
+        "onboard_time": 1758344542,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226659,
+        "num": 198143,
+        "word": "3岁女童坠亡母亲因自责精神出问题",
+        "onboard_time": 1758340883,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197605,
+        "num": 197605,
+        "word": "漫播",
+        "onboard_time": 1758346102,
+        "rank": 22,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 183394,
+        "num": 183394,
+        "word": "关晓彤分没分杨迪你倒是问啊",
+        "onboard_time": 1758292163,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174809,
+        "num": 174809,
+        "word": "南昌变成了王源痛城",
+        "onboard_time": 1758345622,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171683,
+        "num": 171683,
+        "word": "马航空姐飞行途中跳舞引争议",
+        "onboard_time": 1758334282,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149990,
+        "num": 149990,
+        "word": "医院做月饼 打败月饼厂",
+        "onboard_time": 1758337762,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148158,
+        "num": 148158,
+        "word": "凡人修仙传",
+        "onboard_time": 1758341184,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147297,
+        "num": 147297,
+        "word": "叶修才是凡尔赛鼻祖",
+        "onboard_time": 1758345801,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 24843,
+        "num": 146451,
+        "word": "月城核电站曾排放核废液入海",
+        "onboard_time": 1758346281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1121505,
+        "num": 146424,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 30,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 146259,
+        "num": 146259,
+        "word": "成毅时装九月封面",
+        "onboard_time": 1758342803,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132089,
+        "num": 132089,
+        "word": "香港炸弹已拆除外壳",
+        "onboard_time": 1758344542,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127729,
+        "num": 127729,
+        "word": "原来这是牙齿的求救信号",
+        "onboard_time": 1758341002,
+        "rank": 33,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 122391,
+        "num": 122391,
+        "word": "王玉雯的姐感要冲出屏幕了",
+        "onboard_time": 1758346342,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118404,
+        "num": 118404,
+        "word": "曾黎复原了2500年前的战国袍",
+        "onboard_time": 1758340102,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121028,
+        "num": 118161,
+        "word": "成毅说想看到真实反馈",
+        "onboard_time": 1758341661,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44414,
+        "num": 117804,
+        "word": "特朗普拟售以色列60亿美元武器",
+        "onboard_time": 1758346401,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60775,
+        "num": 117559,
+        "word": "太二酸菜鱼半成品冰箱里都有啥",
+        "onboard_time": 1758346401,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79997,
+        "num": 116832,
+        "word": "刘一菲否认是蹭刘亦菲火的",
+        "onboard_time": 1758345682,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116775,
+        "num": 116775,
+        "word": "减脂人有自己的下午茶",
+        "onboard_time": 1758343882,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112970,
+        "num": 112970,
+        "word": "王一博赛车",
+        "onboard_time": 1758336563,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 112390,
+        "num": 112390,
+        "word": "博士生钓12斤翘嘴一路给新生展示",
+        "onboard_time": 1758346162,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109511,
+        "num": 109511,
+        "word": "罗小黑奈雪联名",
+        "onboard_time": 1758345682,
+        "rank": 43,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 109481,
+        "num": 109481,
+        "word": "谢娜因为普通话没被校长选上",
+        "onboard_time": 1758346522,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106221,
+        "num": 106221,
+        "word": "三块钱硬是花出了三万的感觉",
+        "onboard_time": 1758341002,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104148,
+        "num": 104148,
+        "word": "49岁可云扮演者现状曝光",
+        "onboard_time": 1758338542,
+        "rank": 46,
+        "category": "剧集,民生新闻"
+      },
+      {
+        "raw_hot": 101976,
+        "num": 101976,
+        "word": "樊振东暴力熊猫又上线了",
+        "onboard_time": 1758346522,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101639,
+        "num": 101639,
+        "word": "废弃医院不玩密逃玩肉搏",
+        "onboard_time": 1758346643,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100950,
+        "num": 100950,
+        "word": "Nike书包当事人称已收到礼物",
+        "onboard_time": 1758346162,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方要相向而行付出努力#"
+    }
+  }
+}

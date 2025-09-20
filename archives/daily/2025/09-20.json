@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758345798600,
+  "endTime": 1758346797457,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -147,20 +147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531928,
+      "num": 531928,
+      "word": "字节跳动一亿美金估值的offer长这样",
+      "onboard_time": 1758344602,
+      "rank": 13,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 531887,
+      "num": 531887,
+      "word": "儿子串通母亲隐瞒姐姐独占房产",
+      "onboard_time": 1758339443,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522207,
       "num": 522207,
       "word": "马航空姐飞行途中跳舞引争议",
       "onboard_time": 1758334282,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 513039,
-      "num": 513039,
-      "word": "儿子串通母亲隐瞒姐姐独占房产",
-      "onboard_time": 1758339443,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 497909,
@@ -177,6 +185,14 @@
       "onboard_time": 1758296122,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 472050,
+      "num": 472050,
+      "word": "董璇说这次婚姻要把丑话说在前",
+      "onboard_time": 1758344241,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 440664,
@@ -227,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380544,
-      "num": 380544,
-      "word": "字节跳动一亿美金估值的offer长这样",
-      "onboard_time": 1758344602,
-      "rank": 13,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 345157,
       "num": 299460,
       "word": "彩色冲锋衣一买一个不吱声",
@@ -249,6 +257,14 @@
       "onboard_time": 1758297741,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341298,
+      "num": 296934,
+      "word": "小酒窝主动提出要对张维伊改口",
+      "onboard_time": 1758345263,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 331673,
@@ -305,14 +321,6 @@
       "onboard_time": 1758285081,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 294211,
-      "num": 294211,
-      "word": "董璇说这次婚姻要把丑话说在前",
-      "onboard_time": 1758344241,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 288655,
@@ -491,6 +499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204858,
+      "num": 204858,
+      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+      "onboard_time": 1758342742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197605,
+      "num": 197605,
+      "word": "漫播",
+      "onboard_time": 1758346102,
+      "rank": 22,
+      "category": "互联网,动漫"
+    },
+    {
       "raw_hot": 196202,
       "num": 196202,
       "word": "蓝溪镇",
@@ -571,6 +595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 174809,
+      "num": 174809,
+      "word": "南昌变成了王源痛城",
+      "onboard_time": 1758345622,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171498,
       "num": 171498,
       "word": "曾黎复原了2500年前的战国袍",
@@ -603,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167847,
-      "num": 167847,
-      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
-      "onboard_time": 1758342742,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166684,
       "num": 166684,
       "word": "三块钱硬是花出了三万的感觉",
@@ -640,14 +664,6 @@
       "word": "金靖模仿迪丽热巴",
       "onboard_time": 1758293604,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 162490,
-      "num": 162490,
-      "word": "小酒窝主动提出要对张维伊改口",
-      "onboard_time": 1758345263,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -729,6 +745,14 @@
       "onboard_time": 1758335603,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147297,
+      "num": 147297,
+      "word": "叶修才是凡尔赛鼻祖",
+      "onboard_time": 1758345801,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 146483,
@@ -867,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132089,
+      "num": 215440,
+      "word": "香港炸弹已拆除外壳",
+      "onboard_time": 1758344542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130208,
       "num": 130208,
       "word": "直击香港拆弹现场",
@@ -929,6 +961,14 @@
       "onboard_time": 1758304097,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122391,
+      "num": 122391,
+      "word": "王玉雯的姐感要冲出屏幕了",
+      "onboard_time": 1758346342,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 121595,
@@ -1019,6 +1059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 112390,
+      "num": 112390,
+      "word": "博士生钓12斤翘嘴一路给新生展示",
+      "onboard_time": 1758346162,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111953,
       "num": 111953,
       "word": "迪丽热巴发丝都在发光",
@@ -1059,12 +1107,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 109764,
-      "num": 109764,
-      "word": "南昌变成了王源痛城",
-      "onboard_time": 1758345622,
-      "rank": 43,
-      "category": "演出"
+      "raw_hot": 109511,
+      "num": 109511,
+      "word": "罗小黑奈雪联名",
+      "onboard_time": 1758345682,
+      "rank": 46,
+      "category": "动漫,美食"
+    },
+    {
+      "raw_hot": 109481,
+      "num": 109481,
+      "word": "谢娜因为普通话没被校长选上",
+      "onboard_time": 1758346522,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 108702,
@@ -1155,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101976,
+      "num": 101976,
+      "word": "樊振东暴力熊猫又上线了",
+      "onboard_time": 1758346522,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101739,
       "num": 101739,
       "word": "伏黑惠馒化了",
@@ -1179,12 +1243,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100516,
-      "num": 100516,
-      "word": "罗小黑奈雪联名",
-      "onboard_time": 1758345682,
-      "rank": 46,
-      "category": "动漫,美食"
+      "raw_hot": 101639,
+      "num": 101639,
+      "word": "废弃医院不玩密逃玩肉搏",
+      "onboard_time": 1758346643,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100950,
+      "num": 100950,
+      "word": "Nike书包当事人称已收到礼物",
+      "onboard_time": 1758346162,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100372,
@@ -1313,6 +1385,22 @@
       "onboard_time": 1758295402,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82299,
+      "num": 474569,
+      "word": "纪念台湾光复80周年",
+      "onboard_time": 1758345801,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 79997,
+      "num": 116832,
+      "word": "刘一菲否认是蹭刘亦菲火的",
+      "onboard_time": 1758345682,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 79336,
@@ -1467,14 +1555,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 62233,
-      "num": 215440,
-      "word": "香港炸弹已拆除外壳",
-      "onboard_time": 1758344542,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61672,
       "num": 115827,
       "word": "内娱再火一个姚弛怎么了",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1758298640,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 60775,
+      "num": 117559,
+      "word": "太二酸菜鱼半成品冰箱里都有啥",
+      "onboard_time": 1758346401,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59699,
@@ -1587,20 +1675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44414,
+      "num": 117804,
+      "word": "特朗普拟售以色列60亿美元武器",
+      "onboard_time": 1758346401,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43592,
       "num": 72751,
       "word": "西蓝花最好蒸着吃",
       "onboard_time": 1758322940,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 42402,
-      "num": 109905,
-      "word": "刘一菲否认是蹭刘亦菲火的",
-      "onboard_time": 1758345682,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 42075,
@@ -1651,6 +1739,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 30197,
+      "num": 198296,
+      "word": "韩国月城核电站今年第二起泄漏事故",
+      "onboard_time": 1758346401,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29332,
       "num": 63501,
       "word": "成毅打戏",
@@ -1680,6 +1776,14 @@
       "word": "就诊被拍视频发网上女子发声",
       "onboard_time": 1758297981,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24843,
+      "num": 146451,
+      "word": "月城核电站曾排放核废液入海",
+      "onboard_time": 1758346281,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1724,7 +1828,7 @@
     },
     {
       "raw_hot": 6737,
-      "num": 667675,
+      "num": 732780,
       "word": "2025世界制造业大会",
       "onboard_time": 1758345203,
       "rank": 2,
