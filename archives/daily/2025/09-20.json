@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758367189807,
+  "endTime": 1758368205265,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -307,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 500666,
+      "num": 500666,
+      "word": "美国男子坐时速100km过山车身亡",
+      "onboard_time": 1758364402,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 497909,
       "num": 491279,
       "word": "张维伊接小酒窝放学",
@@ -363,12 +371,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 415412,
-      "num": 415412,
-      "word": "美国男子坐时速100km过山车身亡",
-      "onboard_time": 1758364402,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 422476,
+      "num": 422476,
+      "word": "731票房",
+      "onboard_time": 1758365843,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 410788,
@@ -411,6 +419,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357568,
+      "num": 285948,
+      "word": "试管婴儿出生不久确诊肾病综合征",
+      "onboard_time": 1758362481,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356173,
+      "num": 356173,
+      "word": "网红局长刘克斌职务已调整",
+      "onboard_time": 1758363021,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352601,
+      "num": 352601,
+      "word": "喜马拉雅山脉烟花表演手续合规",
+      "onboard_time": 1758361882,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345157,
       "num": 299460,
       "word": "彩色冲锋衣一买一个不吱声",
@@ -425,14 +457,6 @@
       "onboard_time": 1758297741,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335853,
-      "num": 335853,
-      "word": "喜马拉雅山脉烟花表演手续合规",
-      "onboard_time": 1758361882,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331673,
@@ -483,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302961,
-      "num": 302961,
-      "word": "网红局长刘克斌职务已调整",
-      "onboard_time": 1758363021,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301375,
       "num": 301375,
       "word": "陈震称小米17命名很成功",
@@ -536,14 +552,6 @@
       "word": "用拖鞋搅奶茶男子应聘时就不对劲",
       "onboard_time": 1758338721,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285948,
-      "num": 285948,
-      "word": "试管婴儿出生不久确诊肾病综合征",
-      "onboard_time": 1758362481,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -931,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171445,
+      "num": 171445,
+      "word": "长期喝无糖饮料身体的变化",
+      "onboard_time": 1758364521,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168525,
       "num": 168525,
       "word": "彭昱畅刘涛 妈祖钓小龙虾",
@@ -1243,12 +1259,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141939,
+      "num": 141939,
+      "word": "第一次见这么有饭张力的馒头",
+      "onboard_time": 1758366441,
+      "rank": 21,
+      "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 141742,
+      "num": 141742,
+      "word": "澳大利亚女子被宠物骆驼压死",
+      "onboard_time": 1758365182,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141514,
       "num": 141514,
       "word": "一张绝美的脸背后是一张更美的脸",
       "onboard_time": 1758300319,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140091,
+      "num": 140091,
+      "word": "邓紫棋急得像炒了盘菜",
+      "onboard_time": 1758366982,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 139938,
@@ -1275,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139598,
+      "num": 139598,
+      "word": "完了贾冰走颜值路线了",
+      "onboard_time": 1758367582,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138828,
       "num": 138828,
       "word": "香港黄金劫案37岁主谋落网",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1758340162,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137760,
+      "num": 123019,
+      "word": "86岁北京大爷大学学历退休收入",
+      "onboard_time": 1758366802,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 137730,
@@ -1403,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129228,
-      "num": 129228,
-      "word": "邓紫棋急得像炒了盘菜",
-      "onboard_time": 1758366982,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128840,
       "num": 128840,
       "word": "丞磊听取哇声一片",
@@ -1427,28 +1475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127984,
-      "num": 144331,
-      "word": "731票房",
-      "onboard_time": 1758365843,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127923,
       "num": 127923,
       "word": "现在好像不流行同学聚会了",
       "onboard_time": 1758333440,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127571,
-      "num": 127571,
-      "word": "澳大利亚女子被宠物骆驼压死",
-      "onboard_time": 1758365182,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 127314,
@@ -1475,14 +1507,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 125261,
-      "num": 125261,
-      "word": "长期喝无糖饮料身体的变化",
-      "onboard_time": 1758364521,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 124931,
       "num": 123666,
       "word": "被一档综艺美得一愣一愣的",
@@ -1499,20 +1523,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123096,
+      "num": 123096,
+      "word": "第一个猫塑章若楠的是天才",
+      "onboard_time": 1758367462,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123054,
       "num": 123054,
       "word": "李宁太懂中国人的浪漫了",
       "onboard_time": 1758366922,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123019,
-      "num": 123019,
-      "word": "86岁北京大爷大学学历退休收入",
-      "onboard_time": 1758366802,
-      "rank": 31,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 122933,
@@ -1723,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112537,
+      "num": 112537,
+      "word": "蔡国强烟花艺术真的环保吗",
+      "onboard_time": 1758367882,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112405,
       "num": 123946,
       "word": "什么五旬老太明明是内娱天使",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1758328041,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 111619,
+      "num": 111619,
+      "word": "AL翻盘TES",
+      "onboard_time": 1758367222,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 111584,
@@ -1835,12 +1875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106799,
+      "num": 270821,
+      "word": "23岁小伙去世捐器官救7人",
+      "onboard_time": 1758367102,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106557,
       "num": 106557,
       "word": "坚持跑步30天的面部变化",
       "onboard_time": 1758360802,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 105936,
+      "num": 105936,
+      "word": "加沙已变死城",
+      "onboard_time": 1758367222,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105238,
@@ -2163,6 +2219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 91072,
+      "num": 91072,
+      "word": "舒淇 釜山行",
+      "onboard_time": 1758368003,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90496,
       "num": 252383,
       "word": "美国一火山喷发宛如喷泉",
@@ -2273,6 +2337,14 @@
       "onboard_time": 1758295402,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84389,
+      "num": 84389,
+      "word": "不眠日版全员恶人",
+      "onboard_time": 1758368182,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 84043,
@@ -2403,14 +2475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74709,
-      "num": 119595,
-      "word": "23岁小伙去世捐器官救7人",
-      "onboard_time": 1758367102,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74197,
       "num": 74197,
       "word": "muggle",
@@ -2489,6 +2553,14 @@
       "onboard_time": 1758366141,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68434,
+      "num": 81996,
+      "word": "咒术回战五条悟",
+      "onboard_time": 1758366262,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 68129,
@@ -2616,6 +2688,14 @@
       "word": "今天是全民国防教育日",
       "onboard_time": 1758327681,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51878,
+      "num": 102591,
+      "word": "女子合租遭男室友装摄像头偷窥",
+      "onboard_time": 1758367341,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2865,6 +2945,14 @@
       "onboard_time": 1758346281,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23911,
+      "num": 101682,
+      "word": "小酒窝化妆翻车现场",
+      "onboard_time": 1758368063,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 23277,

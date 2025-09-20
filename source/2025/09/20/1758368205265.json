@@ -1,0 +1,410 @@
+{
+  "runTime": 1758368205265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2982270,
+        "num": 2982270,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1293738,
+        "num": 1293738,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1936,
+        "num": 690703,
+        "word": "新时代中国推进妇女全面发展",
+        "onboard_time": 1758283703,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500666,
+        "num": 500666,
+        "word": "美国男子坐时速100km过山车身亡",
+        "onboard_time": 1758364402,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 422476,
+        "num": 422476,
+        "word": "731票房",
+        "onboard_time": 1758365843,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356173,
+        "num": 356173,
+        "word": "网红局长刘克斌职务已调整",
+        "onboard_time": 1758363021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352601,
+        "num": 352601,
+        "word": "喜马拉雅山脉烟花表演手续合规",
+        "onboard_time": 1758361882,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281923,
+        "num": 281923,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240042,
+        "num": 279178,
+        "word": "蔡国强烟火放到喜马拉雅山",
+        "onboard_time": 1758350181,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106799,
+        "num": 270821,
+        "word": "23岁小伙去世捐器官救7人",
+        "onboard_time": 1758367102,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505417,
+        "num": 267480,
+        "word": "小酒窝 你戳我干哈",
+        "onboard_time": 1758361642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357568,
+        "num": 263271,
+        "word": "试管婴儿出生不久确诊肾病综合征",
+        "onboard_time": 1758362481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333362,
+        "num": 257417,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292495,
+        "num": 248162,
+        "word": "董璇说现在接戏是为了还债",
+        "onboard_time": 1758358642,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247538,
+        "num": 247538,
+        "word": "王一博潘君临季军",
+        "onboard_time": 1758364461,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 244530,
+        "num": 244530,
+        "word": "清华晨跑大神刘小平离世",
+        "onboard_time": 1758358101,
+        "rank": 15,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 229458,
+        "num": 229458,
+        "word": "陈赫再复刻黄磊不加水的红烧肉",
+        "onboard_time": 1758355041,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221652,
+        "num": 221652,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205867,
+        "num": 205867,
+        "word": "张晚意捂了马思纯耳朵",
+        "onboard_time": 1758356481,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141319,
+        "num": 184316,
+        "word": "汪藏海这班到底还要上多久",
+        "onboard_time": 1758362481,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171445,
+        "num": 171445,
+        "word": "长期喝无糖饮料身体的变化",
+        "onboard_time": 1758364521,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141939,
+        "num": 141939,
+        "word": "第一次见这么有饭张力的馒头",
+        "onboard_time": 1758366441,
+        "rank": 21,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 141742,
+        "num": 141742,
+        "word": "澳大利亚女子被宠物骆驼压死",
+        "onboard_time": 1758365182,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140091,
+        "num": 140091,
+        "word": "邓紫棋急得像炒了盘菜",
+        "onboard_time": 1758366982,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139598,
+        "num": 139598,
+        "word": "完了贾冰走颜值路线了",
+        "onboard_time": 1758367582,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129085,
+        "num": 129085,
+        "word": "小酒窝主动提出要对张维伊改口",
+        "onboard_time": 1758345263,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123096,
+        "num": 123096,
+        "word": "第一个猫塑章若楠的是天才",
+        "onboard_time": 1758367462,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119026,
+        "num": 119026,
+        "word": "台湾海峡4.1级地震",
+        "onboard_time": 1758359421,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113953,
+        "num": 113953,
+        "word": "iOS26最阴的功能出现了",
+        "onboard_time": 1758361762,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96118,
+        "num": 112963,
+        "word": "李宁太懂中国人的浪漫了",
+        "onboard_time": 1758366922,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137760,
+        "num": 112943,
+        "word": "86岁北京大爷大学学历退休收入",
+        "onboard_time": 1758366802,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 119891,
+        "num": 112830,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 31,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 112537,
+        "num": 112537,
+        "word": "蔡国强烟花艺术真的环保吗",
+        "onboard_time": 1758367882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111619,
+        "num": 111619,
+        "word": "AL翻盘TES",
+        "onboard_time": 1758367222,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111037,
+        "num": 111037,
+        "word": "易烊千玺曾想匿名出演酱园弄",
+        "onboard_time": 1758352701,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108353,
+        "num": 108353,
+        "word": "董璇说有两个孩子不可能一碗水端平",
+        "onboard_time": 1758358642,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105936,
+        "num": 105936,
+        "word": "加沙已变死城",
+        "onboard_time": 1758367222,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104438,
+        "num": 104438,
+        "word": "巴基斯坦确认向沙特提供核保护伞",
+        "onboard_time": 1758353001,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51878,
+        "num": 102591,
+        "word": "女子合租遭男室友装摄像头偷窥",
+        "onboard_time": 1758367341,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23911,
+        "num": 101682,
+        "word": "小酒窝化妆翻车现场",
+        "onboard_time": 1758368063,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101268,
+        "num": 101268,
+        "word": "不眠日",
+        "onboard_time": 1758363321,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100239,
+        "num": 100239,
+        "word": "369",
+        "onboard_time": 1758366084,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27354,
+        "num": 94671,
+        "word": "3岁女童坠亡3方被告坚称无过错",
+        "onboard_time": 1758366861,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92765,
+        "num": 92765,
+        "word": "张予曦音乐节",
+        "onboard_time": 1758360021,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91431,
+        "num": 91431,
+        "word": "鲍莉郭京飞 小说里的一见钟情",
+        "onboard_time": 1758363622,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91072,
+        "num": 91072,
+        "word": "舒淇 釜山行",
+        "onboard_time": 1758368003,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85926,
+        "num": 85926,
+        "word": "杨蓉又有新剧了",
+        "onboard_time": 1758363081,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84389,
+        "num": 84389,
+        "word": "不眠日版全员恶人",
+        "onboard_time": 1758368182,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68434,
+        "num": 81996,
+        "word": "咒术回战五条悟",
+        "onboard_time": 1758366262,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 68081,
+        "num": 81397,
+        "word": "苏超",
+        "onboard_time": 1758365363,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}
