@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758378079639,
+  "endTime": 1758379088323,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -11643,6 +11643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 402738,
+      "num": 280554,
+      "word": "王俊凯工作室",
+      "onboard_time": 1758378323,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402694,
       "num": 329339,
       "word": "桃黑黑女主党",
@@ -13035,6 +13043,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 365471,
+      "num": 317044,
+      "word": "李兰陵结婚",
+      "onboard_time": 1758373883,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364998,
       "num": 364998,
       "word": "成都机场3秒迟疑后的拥抱看哭全网",
@@ -13457,14 +13473,6 @@
       "onboard_time": 1758003443,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 351904,
-      "num": 317044,
-      "word": "李兰陵结婚",
-      "onboard_time": 1758373883,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 351675,
@@ -17147,6 +17155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260710,
+      "num": 260710,
+      "word": "白敬亭文咏珊不眠日吻戏",
+      "onboard_time": 1758376883,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260706,
       "num": 260706,
       "word": "8个月婴儿没喝茶被收茶位费",
@@ -18803,6 +18819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232450,
+      "num": 232450,
+      "word": "戴向宇说陈紫函会给他洗内裤",
+      "onboard_time": 1758376584,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232392,
       "num": 232392,
       "word": "10月1日取消火车纸质报销凭证",
@@ -18841,6 +18865,14 @@
       "onboard_time": 1758283282,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231984,
+      "num": 219435,
+      "word": "郑恺给鸡接生",
+      "onboard_time": 1758375803,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 231849,
@@ -19923,14 +19955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218319,
-      "num": 199277,
-      "word": "郑恺给鸡接生",
-      "onboard_time": 1758375803,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218285,
       "num": 199474,
       "word": "白敬亭这次和锅姨一起进循环了",
@@ -20131,6 +20155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215653,
+      "num": 215653,
+      "word": "王源撤回了一个露腹肌请求",
+      "onboard_time": 1758378264,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215601,
       "num": 215601,
       "word": "巨石强森一身肌肉快瘦没了",
@@ -20169,6 +20201,14 @@
       "onboard_time": 1757412983,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215181,
+      "num": 215181,
+      "word": "始祖鸟删博",
+      "onboard_time": 1758375383,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215032,
@@ -20385,6 +20425,14 @@
       "onboard_time": 1757945546,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212776,
+      "num": 212776,
+      "word": "李泽言配音",
+      "onboard_time": 1757551643,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 212752,
@@ -22132,7 +22180,7 @@
     },
     {
       "raw_hot": 199716,
-      "num": 199716,
+      "num": 213824,
       "word": "731上映3天票房破10亿",
       "onboard_time": 1758375264,
       "rank": 25,
@@ -22153,14 +22201,6 @@
       "onboard_time": 1757481623,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 199387,
-      "num": 199387,
-      "word": "白敬亭文咏珊不眠日吻戏",
-      "onboard_time": 1758376883,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 199313,
@@ -22185,14 +22225,6 @@
       "onboard_time": 1756977562,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 199240,
-      "num": 199240,
-      "word": "始祖鸟删博",
-      "onboard_time": 1758375383,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199095,
@@ -22273,14 +22305,6 @@
       "onboard_time": 1757127501,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 198805,
-      "num": 196260,
-      "word": "戴向宇说陈紫函会给他洗内裤",
-      "onboard_time": 1758376584,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 198758,
@@ -23153,6 +23177,14 @@
       "onboard_time": 1757680526,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194135,
+      "num": 194135,
+      "word": "加沙",
+      "onboard_time": 1758378443,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194088,
@@ -25123,6 +25155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184024,
+      "num": 184024,
+      "word": "林俊杰音乐节 激光笔",
+      "onboard_time": 1758378264,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184012,
       "num": 184012,
       "word": "冷冻2年的西兰花山姆也在卖",
@@ -26345,6 +26385,14 @@
       "onboard_time": 1756831698,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175898,
+      "num": 175898,
+      "word": "徐磊终于做人了",
+      "onboard_time": 1758378624,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175706,
@@ -30459,6 +30507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157250,
+      "num": 157250,
+      "word": "哪吒来川超团建了",
+      "onboard_time": 1758378024,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157206,
       "num": 157206,
       "word": "未定事件簿",
@@ -33171,6 +33227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147301,
+      "num": 147301,
+      "word": "谁家演唱会是来哭的",
+      "onboard_time": 1758378083,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147297,
       "num": 147297,
       "word": "叶修才是凡尔赛鼻祖",
@@ -33225,14 +33289,6 @@
       "onboard_time": 1757847563,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147128,
-      "num": 147128,
-      "word": "李泽言配音",
-      "onboard_time": 1757551643,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 147056,
@@ -36596,7 +36652,7 @@
     },
     {
       "raw_hot": 136291,
-      "num": 190766,
+      "num": 218014,
       "word": "纯电大三排SUV的时代正在到来",
       "onboard_time": 1758377244,
       "rank": 27,
@@ -38128,6 +38184,14 @@
       "word": "娃哈哈将启用新品牌",
       "onboard_time": 1757761762,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131478,
+      "num": 131478,
+      "word": "保安将开水放精神病患者裤腰",
+      "onboard_time": 1758377665,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -40547,6 +40611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124814,
+      "num": 124814,
+      "word": "淮安终结南通11连胜",
+      "onboard_time": 1758378684,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124787,
       "num": 124787,
       "word": "贾国龙称西贝利润约5％",
@@ -40825,6 +40897,14 @@
       "onboard_time": 1757913862,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123987,
+      "num": 123987,
+      "word": "苏超泰州3比0南京",
+      "onboard_time": 1758378264,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123952,
@@ -41611,14 +41691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121704,
-      "num": 121704,
-      "word": "哪吒来川超团建了",
-      "onboard_time": 1758378024,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121685,
       "num": 407991,
       "word": "央视揭秘假沉香",
@@ -42041,14 +42113,6 @@
       "onboard_time": 1756710741,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120522,
-      "num": 120522,
-      "word": "保安将开水放精神病患者裤腰",
-      "onboard_time": 1758377665,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120513,
@@ -47697,6 +47761,14 @@
       "onboard_time": 1756975583,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104923,
+      "num": 196819,
+      "word": "南派三叔十年复仇之作",
+      "onboard_time": 1758377842,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 104890,
@@ -57707,6 +57779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61125,
+      "num": 150853,
+      "word": "莫文蔚来了",
+      "onboard_time": 1758379045,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61080,
       "num": 275091,
       "word": "特朗普问记者你哪家媒体",
@@ -58969,14 +59049,6 @@
       "onboard_time": 1757136860,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53590,
-      "num": 187847,
-      "word": "南派三叔十年复仇之作",
-      "onboard_time": 1758377842,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 53572,
@@ -64027,6 +64099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16101,
+      "num": 159517,
+      "word": "60后大一新生说可请妻子开家长会",
+      "onboard_time": 1758377965,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16068,
       "num": 46707,
       "word": "朱一龙说我爱成都",
@@ -64689,14 +64769,6 @@
       "onboard_time": 1757385801,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8081,
-      "num": 159517,
-      "word": "60后大一新生说可请妻子开家长会",
-      "onboard_time": 1758377965,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7941,

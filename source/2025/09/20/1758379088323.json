@@ -1,0 +1,410 @@
+{
+  "runTime": 1758379088323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1482420,
+        "num": 1482420,
+        "word": "加沙已变死城",
+        "onboard_time": 1758367222,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 911726,
+        "num": 911726,
+        "word": "731票房",
+        "onboard_time": 1758365843,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26715,
+        "num": 870953,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758375445,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 854601,
+        "num": 854601,
+        "word": "以色列清退中国工人",
+        "onboard_time": 1758376823,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780993,
+        "num": 780993,
+        "word": "穿始祖鸟是为亲近自然而非看它炸山",
+        "onboard_time": 1758372083,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677208,
+        "num": 677208,
+        "word": "始祖鸟客服回应烟花争议",
+        "onboard_time": 1758373163,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597143,
+        "num": 597143,
+        "word": "在隔壁老樊演唱会看到了王楚钦",
+        "onboard_time": 1758375204,
+        "rank": 6,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 443633,
+        "num": 443633,
+        "word": "白鹿直播",
+        "onboard_time": 1758373703,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308548,
+        "num": 308548,
+        "word": "安踏",
+        "onboard_time": 1758369862,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282428,
+        "num": 282428,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 570097,
+        "num": 281547,
+        "word": "张柏芝生图轻轻秒了",
+        "onboard_time": 1758372924,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402738,
+        "num": 280554,
+        "word": "王俊凯工作室",
+        "onboard_time": 1758378323,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365471,
+        "num": 280454,
+        "word": "李兰陵结婚",
+        "onboard_time": 1758373883,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278229,
+        "num": 278229,
+        "word": "焦虑症vs抑郁症vs自闭症",
+        "onboard_time": 1758368243,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260710,
+        "num": 260710,
+        "word": "白敬亭文咏珊不眠日吻戏",
+        "onboard_time": 1758376883,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255498,
+        "num": 255498,
+        "word": "工作室劝黄誉博删微博",
+        "onboard_time": 1758370823,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237265,
+        "num": 237265,
+        "word": "美国男子坐时速100km过山车身亡",
+        "onboard_time": 1758364402,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232450,
+        "num": 232450,
+        "word": "戴向宇说陈紫函会给他洗内裤",
+        "onboard_time": 1758376584,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227211,
+        "num": 227211,
+        "word": "始祖鸟的烟花劝退了真正的户外人",
+        "onboard_time": 1758373283,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225176,
+        "num": 225176,
+        "word": "苏超",
+        "onboard_time": 1758365363,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1176891,
+        "num": 224538,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1141401,
+        "num": 220532,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231984,
+        "num": 219435,
+        "word": "郑恺给鸡接生",
+        "onboard_time": 1758375803,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108214,
+        "num": 218014,
+        "word": "纯电大三排SUV的时代正在到来",
+        "onboard_time": 1758377244,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215653,
+        "num": 215653,
+        "word": "王源撤回了一个露腹肌请求",
+        "onboard_time": 1758378264,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224264,
+        "num": 215448,
+        "word": "吴镇宇以为自己是来演吴邪的",
+        "onboard_time": 1758373042,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215181,
+        "num": 215181,
+        "word": "始祖鸟删博",
+        "onboard_time": 1758375383,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198327,
+        "num": 213824,
+        "word": "731上映3天票房破10亿",
+        "onboard_time": 1758375264,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212776,
+        "num": 212776,
+        "word": "李泽言配音",
+        "onboard_time": 1758377064,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104923,
+        "num": 196819,
+        "word": "南派三叔十年复仇之作",
+        "onboard_time": 1758377842,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194135,
+        "num": 194135,
+        "word": "加沙",
+        "onboard_time": 1758378443,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184024,
+        "num": 184024,
+        "word": "林俊杰音乐节 激光笔",
+        "onboard_time": 1758378264,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175898,
+        "num": 175898,
+        "word": "徐磊终于做人了",
+        "onboard_time": 1758378624,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172780,
+        "num": 172780,
+        "word": "陈楚生也是闯进团播赛道了",
+        "onboard_time": 1758376702,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165592,
+        "num": 165592,
+        "word": "七月的一天",
+        "onboard_time": 1758369504,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157250,
+        "num": 157250,
+        "word": "哪吒来川超团建了",
+        "onboard_time": 1758378024,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154754,
+        "num": 154754,
+        "word": "AG爱笑",
+        "onboard_time": 1758374964,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61125,
+        "num": 150853,
+        "word": "莫文蔚来了",
+        "onboard_time": 1758379045,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16101,
+        "num": 150380,
+        "word": "60后大一新生说可请妻子开家长会",
+        "onboard_time": 1758377965,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150031,
+        "num": 150031,
+        "word": "广东茂名火流星陨石重达800多斤",
+        "onboard_time": 1758373283,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79121,
+        "num": 148816,
+        "word": "23万的车能豪华成什么样",
+        "onboard_time": 1758374543,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148127,
+        "num": 148127,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147301,
+        "num": 147301,
+        "word": "谁家演唱会是来哭的",
+        "onboard_time": 1758378083,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138047,
+        "num": 138047,
+        "word": "男子补办结婚证被告知离婚十年",
+        "onboard_time": 1758373283,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131478,
+        "num": 131478,
+        "word": "保安将开水放精神病患者裤腰",
+        "onboard_time": 1758377665,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130613,
+        "num": 130613,
+        "word": "户晨风多平台被禁言",
+        "onboard_time": 1758371363,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126008,
+        "num": 126008,
+        "word": "中国花滑女单获冬奥资格",
+        "onboard_time": 1758376223,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125622,
+        "num": 125622,
+        "word": "刘雨昕北京场上座率",
+        "onboard_time": 1758376883,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124814,
+        "num": 124814,
+        "word": "淮安终结南通11连胜",
+        "onboard_time": 1758378684,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123987,
+        "num": 123987,
+        "word": "苏超泰州3比0南京",
+        "onboard_time": 1758378264,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}
