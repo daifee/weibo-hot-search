@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 11:45:02
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/20 12:29:08
 </p>
 </blockquote>
 <p>
@@ -789,6 +789,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E5%8D%87%E5%8D%87%E8%96%AF%E6%9D%A1%E9%81%93%E6%AD%89%23" target="weibo">
+脆升升薯条道歉（热度：2003579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%AC%E5%9B%9E11.7%E4%B8%87%E8%BE%86%E6%A0%87%E5%87%86%E7%89%88SU7%23" target="weibo">
 小米召回11.7万辆标准版SU7（热度：1996131）
 </a>
@@ -1481,12 +1487,6 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B7%BC%E6%80%A1%E7%9A%84%E8%84%B8%23" target="weibo">
 张淼怡的脸（热度：1438006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E5%8D%87%E5%8D%87%E8%96%AF%E6%9D%A1%E9%81%93%E6%AD%89%23" target="weibo">
-脆升升薯条道歉（热度：1437176）
 </a>
 </li>
 
@@ -6383,6 +6383,12 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%23%23" target="weibo">
 #习近平同特朗普通电话#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E8%A6%81%E7%9B%B8%E5%90%91%E8%80%8C%E8%A1%8C%E4%BB%98%E5%87%BA%E5%8A%AA%E5%8A%9B%23%23" target="weibo">
+#中美双方要相向而行付出努力#
 </a>
 </li>
 
