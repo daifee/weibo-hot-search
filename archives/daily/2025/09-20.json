@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758350033152,
+  "endTime": 1758350773940,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1309381,
-      "num": 1309381,
+      "raw_hot": 1372860,
+      "num": 1372860,
       "word": "小酒窝主动提出要对张维伊改口",
       "onboard_time": 1758345263,
       "rank": 28,
@@ -123,12 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 706386,
-      "num": 706386,
+      "raw_hot": 731557,
+      "num": 731557,
       "word": "字节跳动一亿美金估值的offer长这样",
       "onboard_time": 1758344602,
       "rank": 13,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 725553,
+      "num": 384499,
+      "word": "张维伊说董璇婚前财产是小酒窝的",
+      "onboard_time": 1758349822,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 655672,
@@ -195,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 481930,
+      "num": 481930,
+      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+      "onboard_time": 1758342742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480676,
       "num": 472050,
       "word": "董璇说这次婚姻要把丑话说在前",
@@ -203,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 463106,
-      "num": 463106,
-      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
-      "onboard_time": 1758342742,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 459288,
+      "num": 349876,
+      "word": "女朋友简直就是免死金牌",
+      "onboard_time": 1758348082,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 440664,
@@ -265,14 +281,6 @@
       "onboard_time": 1758337762,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347752,
-      "num": 347752,
-      "word": "张维伊说董璇婚前财产是小酒窝的",
-      "onboard_time": 1758349822,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 345157,
@@ -347,6 +355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 293072,
+      "num": 218996,
+      "word": "朱珠被天价咖啡的价格震惊到了",
+      "onboard_time": 1758348562,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288655,
       "num": 356890,
       "word": "用拖鞋搅奶茶男子应聘时就不对劲",
@@ -360,14 +376,6 @@
       "word": "贾静雯被震醒了",
       "onboard_time": 1758329900,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 281111,
-      "num": 218996,
-      "word": "朱珠被天价咖啡的价格震惊到了",
-      "onboard_time": 1758348562,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -433,14 +441,6 @@
       "onboard_time": 1758328462,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255205,
-      "num": 255205,
-      "word": "女朋友简直就是免死金牌",
-      "onboard_time": 1758348082,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 251007,
@@ -547,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203926,
+      "num": 203926,
+      "word": "易烊千玺不敢回看TellMeWhy",
+      "onboard_time": 1758350301,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 197605,
       "num": 197605,
       "word": "漫播",
@@ -568,6 +576,14 @@
       "word": "宾馆保洁员佩戴金饰遭住客劫杀",
       "onboard_time": 1758294443,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191566,
+      "num": 191566,
+      "word": "Nike书包当事人称已收到礼物",
+      "onboard_time": 1758346162,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168114,
+      "num": 168114,
+      "word": "人都埋了发现杀错了",
+      "onboard_time": 1758350122,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166684,
       "num": 166684,
       "word": "三块钱硬是花出了三万的感觉",
@@ -753,6 +777,14 @@
       "onboard_time": 1758292163,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156095,
+      "num": 156095,
+      "word": "iPhone17为什么不能拍摄4比3视频",
+      "onboard_time": 1758350721,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 154065,
@@ -867,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139090,
+      "num": 139090,
+      "word": "桃黑黑破防",
+      "onboard_time": 1758349701,
+      "rank": 29,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 138828,
       "num": 138828,
       "word": "香港黄金劫案37岁主谋落网",
@@ -971,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128840,
+      "num": 128840,
+      "word": "丞磊听取哇声一片",
+      "onboard_time": 1758349401,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127923,
       "num": 127923,
       "word": "现在好像不流行同学聚会了",
@@ -979,20 +1027,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127314,
+      "num": 127314,
+      "word": "刘一菲否认是蹭刘亦菲火的",
+      "onboard_time": 1758345682,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126489,
       "num": 126489,
       "word": "郑钧一句话解决婆媳世纪难题",
       "onboard_time": 1758341422,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126211,
-      "num": 126211,
-      "word": "Nike书包当事人称已收到礼物",
-      "onboard_time": 1758346162,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125366,
@@ -1011,12 +1059,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123779,
-      "num": 123779,
-      "word": "丞磊听取哇声一片",
-      "onboard_time": 1758349401,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 122933,
+      "num": 122933,
+      "word": "博士生钓12斤翘嘴一路给新生展示",
+      "onboard_time": 1758346162,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122391,
@@ -1027,28 +1075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122047,
-      "num": 122047,
-      "word": "刘一菲否认是蹭刘亦菲火的",
-      "onboard_time": 1758345682,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 121595,
       "num": 121595,
       "word": "樊振东德国杯首秀",
       "onboard_time": 1758306616,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119565,
-      "num": 119565,
-      "word": "桃黑黑破防",
-      "onboard_time": 1758349701,
-      "rank": 29,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 118817,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1758334521,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 112390,
-      "num": 112390,
-      "word": "博士生钓12斤翘嘴一路给新生展示",
-      "onboard_time": 1758346162,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111953,
@@ -1243,6 +1267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104249,
+      "num": 406975,
+      "word": "直击香港炸弹破拆现场",
+      "onboard_time": 1758349101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104041,
       "num": 115827,
       "word": "对着小狗嘬嘬嘬小狗就会过来",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1758340283,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102779,
+      "num": 102779,
+      "word": "台风桦加沙最强或达超强台风级别",
+      "onboard_time": 1758347962,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 102359,
@@ -1355,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98583,
+      "num": 98583,
+      "word": "建议大家尽早培养自己输出型爱好",
+      "onboard_time": 1758347662,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98367,
       "num": 127685,
       "word": "越南人靠去过上海炫富",
@@ -1395,12 +1443,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 94012,
-      "num": 94012,
-      "word": "建议大家尽早培养自己输出型爱好",
-      "onboard_time": 1758347662,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 93439,
+      "num": 93439,
+      "word": "蔡国强烟火放到喜马拉雅山",
+      "onboard_time": 1758350181,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 93039,
@@ -1427,12 +1475,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 90254,
-      "num": 90254,
-      "word": "台风桦加沙最强或达超强台风级别",
-      "onboard_time": 1758347962,
-      "rank": 46,
-      "category": "突发/灾害"
+      "raw_hot": 91239,
+      "num": 91239,
+      "word": "凡人修仙传动画",
+      "onboard_time": 1758347662,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 89535,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1758331461,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86116,
+      "num": 86116,
+      "word": "冬天减脂快还是夏天减脂快",
+      "onboard_time": 1758350422,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85220,
@@ -1651,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69749,
+      "num": 129040,
+      "word": "香港炸弹拆除完成",
+      "onboard_time": 1758350661,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68688,
       "num": 115827,
       "word": "阿尔及利亚代表连说11次请原谅",
@@ -1763,14 +1827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52578,
-      "num": 406975,
-      "word": "直击香港炸弹破拆现场",
-      "onboard_time": 1758349101,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51450,
       "num": 79042,
       "word": "宋轶素颜健身照",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1758300679,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45297,
+      "num": 209304,
+      "word": "香港炸弹将以烧毁炸药方式原地拆除",
+      "onboard_time": 1758349882,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44414,
@@ -1840,6 +1904,14 @@
       "word": "孙颖莎山海关日出大片",
       "onboard_time": 1758348203,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36698,
+      "num": 99277,
+      "word": "德国驻华大使馆发文夸樊振东",
+      "onboard_time": 1758349280,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1913,22 +1985,6 @@
       "onboard_time": 1758297981,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26405,
-      "num": 119657,
-      "word": "香港炸弹将以烧毁炸药方式原地拆除",
-      "onboard_time": 1758349882,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25712,
-      "num": 99277,
-      "word": "德国驻华大使馆发文夸樊振东",
-      "onboard_time": 1758349280,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 24843,
