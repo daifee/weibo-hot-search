@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758389791675,
+  "endTime": 1758393043226,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -62336,6 +62336,14 @@
       "word": "毒贩黑吃黑反被警察一锅端",
       "onboard_time": 1757590071,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32347,
+      "num": 52674,
+      "word": "不眠日 乌贼",
+      "onboard_time": 1758391156,
+      "rank": 29,
       "category": "剧集"
     },
     {

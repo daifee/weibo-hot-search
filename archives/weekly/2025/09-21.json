@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758389791675,
+  "endTime": 1758393043226,
   "band_list": [
     {
       "raw_hot": 2613697,
@@ -419,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66194,
+      "num": 69487,
+      "word": "无畏契约",
+      "onboard_time": 1758389778,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58978,
       "num": 89519,
       "word": "yagao让BLG双C不要站一起",
@@ -459,12 +467,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34430,
-      "num": 69487,
-      "word": "无畏契约",
-      "onboard_time": 1758389778,
+      "raw_hot": 34614,
+      "num": 52585,
+      "word": "委内瑞拉谴责美国不宣而战",
+      "onboard_time": 1758381204,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32347,
+      "num": 52674,
+      "word": "不眠日 乌贼",
+      "onboard_time": 1758391156,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26233,
+      "num": 51260,
+      "word": "七月的一天",
+      "onboard_time": 1758369504,
       "rank": 48,
-      "category": "游戏"
+      "category": "剧集"
     },
     {
       "raw_hot": 25541,
