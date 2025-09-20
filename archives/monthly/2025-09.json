@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758332740558,
+  "endTime": 1758333704408,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1788,7 +1788,7 @@
     },
     {
       "raw_hot": 1487626,
-      "num": 228976,
+      "num": 299580,
       "word": "关晓彤分没分杨迪你倒是问啊",
       "onboard_time": 1758292163,
       "rank": 20,
@@ -1921,6 +1921,14 @@
       "onboard_time": 1757298322,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1440011,
+      "num": 299647,
+      "word": "姐姐在美国失联了",
+      "onboard_time": 1758332301,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1439309,
@@ -2545,6 +2553,14 @@
       "onboard_time": 1757511622,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1211485,
+      "num": 1211485,
+      "word": "武汉大学图书馆案二审宣判",
+      "onboard_time": 1758332780,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1211204,
@@ -3257,6 +3273,14 @@
       "onboard_time": 1757904380,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1030782,
+      "num": 1030782,
+      "word": "驳回武大图书馆事件女生上诉",
+      "onboard_time": 1758332721,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1028515,
@@ -7307,14 +7331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582294,
-      "num": 218878,
-      "word": "姐姐在美国失联了",
-      "onboard_time": 1758332301,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 582045,
       "num": 582045,
       "word": "江西一居民多个月水费都是49.93元",
@@ -7728,6 +7744,14 @@
       "word": "黄子韬说因为徐艺洋像白纸而被吸引",
       "onboard_time": 1757820022,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 555385,
+      "num": 555385,
+      "word": "陈紫函停工3年做了12次试管",
+      "onboard_time": 1758333020,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -13252,7 +13276,7 @@
     },
     {
       "raw_hot": 345157,
-      "num": 218542,
+      "num": 299460,
       "word": "彩色冲锋衣一买一个不吱声",
       "onboard_time": 1758325279,
       "rank": 12,
@@ -14779,6 +14803,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 301375,
+      "num": 301375,
+      "word": "陈震称小米17命名很成功",
+      "onboard_time": 1758329660,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 301320,
       "num": 289180,
       "word": "易烊千玺垒石头效应",
@@ -15361,14 +15393,6 @@
       "onboard_time": 1757374580,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 286936,
-      "num": 286936,
-      "word": "陈震称小米17命名很成功",
-      "onboard_time": 1758329660,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 286161,
@@ -25243,6 +25267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177380,
+      "num": 299715,
+      "word": "TikTok美国公司将继续服务好用户",
+      "onboard_time": 1758332780,
+      "rank": 9,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 177303,
       "num": 177303,
       "word": "王楚钦孙颖莎混双世排第7",
@@ -32883,6 +32915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144191,
+      "num": 144191,
+      "word": "李一桐这辈子第一次看演唱会好激动",
+      "onboard_time": 1758332840,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144183,
       "num": 144183,
       "word": "刚入园宝贝被大班哥哥抱在怀里哄",
@@ -35257,6 +35297,14 @@
       "onboard_time": 1757132901,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135974,
+      "num": 135974,
+      "word": "博主回应做饭时猫将老鼠丢进锅",
+      "onboard_time": 1758333202,
+      "rank": 25,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 135916,
@@ -44859,14 +44907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107660,
-      "num": 107660,
-      "word": "驳回武大图书馆事件女生上诉",
-      "onboard_time": 1758332721,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107551,
       "num": 149058,
       "word": "国庆买不到票回家",
@@ -45905,6 +45945,14 @@
       "onboard_time": 1756979001,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104614,
+      "num": 104614,
+      "word": "论山东给周杰伦的排面",
+      "onboard_time": 1758324740,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 104576,
@@ -49259,14 +49307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94155,
-      "num": 94155,
-      "word": "论山东给周杰伦的排面",
-      "onboard_time": 1758324740,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 94071,
       "num": 199717,
       "word": "普京在中国有宾至如归的感觉",
@@ -49777,6 +49817,14 @@
       "onboard_time": 1757729424,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 91790,
+      "num": 91790,
+      "word": "TMA",
+      "onboard_time": 1758332480,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 91770,
@@ -50361,6 +50409,14 @@
       "onboard_time": 1757686408,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89200,
+      "num": 89200,
+      "word": "现在好像不流行同学聚会了",
+      "onboard_time": 1758333440,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 89106,
@@ -51259,6 +51315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85220,
+      "num": 85220,
+      "word": "赛里木湖左岸的羊腿",
+      "onboard_time": 1758333260,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85216,
       "num": 173483,
       "word": "咒术回战熹妃回宫",
@@ -51833,14 +51897,6 @@
       "onboard_time": 1757431702,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82705,
-      "num": 82705,
-      "word": "TMA",
-      "onboard_time": 1758332480,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 82655,
@@ -53081,6 +53137,14 @@
       "onboard_time": 1757595036,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76278,
+      "num": 76278,
+      "word": "文旅局回应三亚网红跳水点装防盗刺",
+      "onboard_time": 1758333562,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76213,
@@ -62137,6 +62201,14 @@
       "onboard_time": 1757509282,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 7314,
+      "num": 85732,
+      "word": "谁是第一个后缀变iPhone17的人",
+      "onboard_time": 1758332780,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 6582,
