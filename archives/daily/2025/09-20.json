@@ -1,6 +1,6 @@
 {
   "startTime": 1758299425853,
-  "endTime": 1758346797457,
+  "endTime": 1758350033152,
   "band_list": [
     {
       "raw_hot": 8399387,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1309381,
+      "num": 1309381,
+      "word": "小酒窝主动提出要对张维伊改口",
+      "onboard_time": 1758345263,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1211485,
       "num": 1211485,
       "word": "武汉大学图书馆案二审宣判",
@@ -113,6 +121,14 @@
       "onboard_time": 1758333921,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 706386,
+      "num": 706386,
+      "word": "字节跳动一亿美金估值的offer长这样",
+      "onboard_time": 1758344602,
+      "rank": 13,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 655672,
@@ -147,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531928,
-      "num": 531928,
-      "word": "字节跳动一亿美金估值的offer长这样",
-      "onboard_time": 1758344602,
-      "rank": 13,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 531887,
       "num": 531887,
       "word": "儿子串通母亲隐瞒姐姐独占房产",
@@ -187,12 +195,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 472050,
+      "raw_hot": 480676,
       "num": 472050,
       "word": "董璇说这次婚姻要把丑话说在前",
       "onboard_time": 1758344241,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463106,
+      "num": 463106,
+      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+      "onboard_time": 1758342742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 440664,
@@ -219,6 +235,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 415506,
+      "num": 415506,
+      "word": "浙大硕士回应从烟草公司离职隐居",
+      "onboard_time": 1758347482,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395586,
       "num": 836227,
       "word": "印度人插队抢iPhone17斗殴互扇耳光",
@@ -243,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347752,
+      "num": 347752,
+      "word": "张维伊说董璇婚前财产是小酒窝的",
+      "onboard_time": 1758349822,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345157,
       "num": 299460,
       "word": "彩色冲锋衣一买一个不吱声",
@@ -257,14 +289,6 @@
       "onboard_time": 1758297741,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341298,
-      "num": 296934,
-      "word": "小酒窝主动提出要对张维伊改口",
-      "onboard_time": 1758345263,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 331673,
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281111,
+      "num": 218996,
+      "word": "朱珠被天价咖啡的价格震惊到了",
+      "onboard_time": 1758348562,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269829,
       "num": 171666,
       "word": "杨某媛导师被暂停研究生招生资格",
@@ -401,6 +433,22 @@
       "onboard_time": 1758328462,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255205,
+      "num": 255205,
+      "word": "女朋友简直就是免死金牌",
+      "onboard_time": 1758348082,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 251007,
+      "num": 198430,
+      "word": "浙大硕士从烟草公司离职回村隐居",
+      "onboard_time": 1758345561,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236333,
@@ -496,14 +544,6 @@
       "word": "被老板强奸女高管老公回应",
       "onboard_time": 1758259403,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204858,
-      "num": 204858,
-      "word": "始祖鸟联手蔡国强的烟花艺术引争议",
-      "onboard_time": 1758342742,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -947,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126211,
+      "num": 126211,
+      "word": "Nike书包当事人称已收到礼物",
+      "onboard_time": 1758346162,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125366,
       "num": 125366,
       "word": "AirPodsPro3耳塞断裂",
@@ -963,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123779,
+      "num": 123779,
+      "word": "丞磊听取哇声一片",
+      "onboard_time": 1758349401,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122391,
       "num": 122391,
       "word": "王玉雯的姐感要冲出屏幕了",
@@ -971,12 +1027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122047,
+      "num": 122047,
+      "word": "刘一菲否认是蹭刘亦菲火的",
+      "onboard_time": 1758345682,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 121595,
       "num": 121595,
       "word": "樊振东德国杯首秀",
       "onboard_time": 1758306616,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119565,
+      "num": 119565,
+      "word": "桃黑黑破防",
+      "onboard_time": 1758349701,
+      "rank": 29,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 118817,
@@ -1131,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107241,
+      "num": 107241,
+      "word": "花儿与少年",
+      "onboard_time": 1758348442,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107191,
       "num": 107191,
       "word": "吴邪私家笔记开播",
@@ -1251,20 +1331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100950,
-      "num": 100950,
-      "word": "Nike书包当事人称已收到礼物",
-      "onboard_time": 1758346162,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100372,
       "num": 100372,
       "word": "樊振东19分钟速胜对手",
       "onboard_time": 1758329182,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99809,
+      "num": 99809,
+      "word": "再也不敢随便去掏耳朵了",
+      "onboard_time": 1758348743,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 99014,
@@ -1283,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97810,
+      "num": 97810,
+      "word": "不眠日",
+      "onboard_time": 1758348142,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97221,
       "num": 97221,
       "word": "吴邪来拆汪藏海修的机关了",
@@ -1297,6 +1385,22 @@
       "onboard_time": 1758278782,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94031,
+      "num": 94031,
+      "word": "德州男子餐厅晕倒被弃置门外后死亡",
+      "onboard_time": 1758347602,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94012,
+      "num": 94012,
+      "word": "建议大家尽早培养自己输出型爱好",
+      "onboard_time": 1758347662,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 93039,
@@ -1323,12 +1427,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 90254,
+      "num": 90254,
+      "word": "台风桦加沙最强或达超强台风级别",
+      "onboard_time": 1758347962,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 89535,
       "num": 89535,
       "word": "有效化妆vs无效化妆",
       "onboard_time": 1758330321,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 89371,
+      "num": 91475,
+      "word": "易烊千玺VOGUEman领衔首发",
+      "onboard_time": 1758348502,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88907,
+      "num": 88907,
+      "word": "张泉灵一针见血指出千惠账务问题",
+      "onboard_time": 1758347482,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 88254,
@@ -1393,14 +1521,6 @@
       "onboard_time": 1758345801,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 79997,
-      "num": 116832,
-      "word": "刘一菲否认是蹭刘亦菲火的",
-      "onboard_time": 1758345682,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 79336,
@@ -1643,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52578,
+      "num": 406975,
+      "word": "直击香港炸弹破拆现场",
+      "onboard_time": 1758349101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51450,
       "num": 79042,
       "word": "宋轶素颜健身照",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1758302897,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39316,
+      "num": 405485,
+      "word": "孙颖莎山海关日出大片",
+      "onboard_time": 1758348203,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 36621,
@@ -1777,6 +1913,22 @@
       "onboard_time": 1758297981,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26405,
+      "num": 119657,
+      "word": "香港炸弹将以烧毁炸药方式原地拆除",
+      "onboard_time": 1758349882,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25712,
+      "num": 99277,
+      "word": "德国驻华大使馆发文夸樊振东",
+      "onboard_time": 1758349280,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 24843,

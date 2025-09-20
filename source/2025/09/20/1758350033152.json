@@ -1,0 +1,410 @@
+{
+  "runTime": 1758350033152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1309381,
+        "num": 1309381,
+        "word": "小酒窝主动提出要对张维伊改口",
+        "onboard_time": 1758345263,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706386,
+        "num": 706386,
+        "word": "字节跳动一亿美金估值的offer长这样",
+        "onboard_time": 1758344602,
+        "rank": 1,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 13,
+        "num": 495960,
+        "word": "2025世界制造业大会",
+        "onboard_time": 1758345203,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755148,
+        "num": 494085,
+        "word": "花少7落选小妹发文回应",
+        "onboard_time": 1758340223,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463106,
+        "num": 463106,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 985393,
+        "num": 450399,
+        "word": "武大撤销肖某某记过处分",
+        "onboard_time": 1758333742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564236,
+        "num": 434045,
+        "word": "陈紫函停工3年做了12次试管",
+        "onboard_time": 1758333020,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480676,
+        "num": 427334,
+        "word": "董璇说这次婚姻要把丑话说在前",
+        "onboard_time": 1758344241,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415506,
+        "num": 415506,
+        "word": "浙大硕士回应从烟草公司离职隐居",
+        "onboard_time": 1758347482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52578,
+        "num": 406975,
+        "word": "直击香港炸弹破拆现场",
+        "onboard_time": 1758349101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39316,
+        "num": 405485,
+        "word": "孙颖莎山海关日出大片",
+        "onboard_time": 1758348203,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405035,
+        "num": 405035,
+        "word": "香港炸弹",
+        "onboard_time": 1758326181,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371240,
+        "num": 371240,
+        "word": "儿子串通母亲隐瞒姐姐独占房产",
+        "onboard_time": 1758339443,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358882,
+        "num": 358882,
+        "word": "武汉大学复核通报",
+        "onboard_time": 1758333921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347752,
+        "num": 347752,
+        "word": "张维伊说董璇婚前财产是小酒窝的",
+        "onboard_time": 1758349822,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327774,
+        "num": 327774,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1758338603,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304350,
+        "num": 304350,
+        "word": "杨采钰官宣当妈",
+        "onboard_time": 1758331222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255205,
+        "num": 255205,
+        "word": "女朋友简直就是免死金牌",
+        "onboard_time": 1758348082,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248514,
+        "num": 248514,
+        "word": "遭老板性侵女子称受不了老公被骂",
+        "onboard_time": 1758338902,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238991,
+        "num": 238991,
+        "word": "哈妮克孜官宣了",
+        "onboard_time": 1758338902,
+        "rank": 19,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 281111,
+        "num": 218996,
+        "word": "朱珠被天价咖啡的价格震惊到了",
+        "onboard_time": 1758348562,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251007,
+        "num": 198430,
+        "word": "浙大硕士从烟草公司离职回村隐居",
+        "onboard_time": 1758345561,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164113,
+        "num": 164113,
+        "word": "用拖鞋搅奶茶男子应聘时就不对劲",
+        "onboard_time": 1758338721,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151147,
+        "num": 151147,
+        "word": "3岁女童坠亡母亲因自责精神出问题",
+        "onboard_time": 1758340883,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148654,
+        "num": 148654,
+        "word": "谢娜大学时期美得好突出",
+        "onboard_time": 1758344542,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126211,
+        "num": 126211,
+        "word": "Nike书包当事人称已收到礼物",
+        "onboard_time": 1758346162,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123779,
+        "num": 123779,
+        "word": "丞磊听取哇声一片",
+        "onboard_time": 1758349401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122047,
+        "num": 122047,
+        "word": "刘一菲否认是蹭刘亦菲火的",
+        "onboard_time": 1758345682,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26405,
+        "num": 119657,
+        "word": "香港炸弹将以烧毁炸药方式原地拆除",
+        "onboard_time": 1758349882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119565,
+        "num": 119565,
+        "word": "桃黑黑破防",
+        "onboard_time": 1758349701,
+        "rank": 29,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 632730,
+        "num": 119091,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 30,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 117592,
+        "num": 117592,
+        "word": "姐姐在美国失联了",
+        "onboard_time": 1758332301,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114572,
+        "num": 114572,
+        "word": "原来这是牙齿的求救信号",
+        "onboard_time": 1758341002,
+        "rank": 32,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 113159,
+        "num": 113159,
+        "word": "医院做月饼 打败月饼厂",
+        "onboard_time": 1758337762,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108582,
+        "num": 108582,
+        "word": "博士生钓12斤翘嘴一路给新生展示",
+        "onboard_time": 1758346162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107690,
+        "num": 107690,
+        "word": "马航空姐飞行途中跳舞引争议",
+        "onboard_time": 1758334282,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107241,
+        "num": 107241,
+        "word": "花儿与少年",
+        "onboard_time": 1758348442,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99809,
+        "num": 99809,
+        "word": "再也不敢随便去掏耳朵了",
+        "onboard_time": 1758348743,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25712,
+        "num": 99277,
+        "word": "德国驻华大使馆发文夸樊振东",
+        "onboard_time": 1758349280,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98907,
+        "num": 98907,
+        "word": "漫播",
+        "onboard_time": 1758346102,
+        "rank": 39,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 97810,
+        "num": 97810,
+        "word": "不眠日",
+        "onboard_time": 1758348142,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96519,
+        "num": 96519,
+        "word": "谢娜因为普通话没被校长选上",
+        "onboard_time": 1758346522,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94031,
+        "num": 94031,
+        "word": "德州男子餐厅晕倒被弃置门外后死亡",
+        "onboard_time": 1758347602,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94012,
+        "num": 94012,
+        "word": "建议大家尽早培养自己输出型爱好",
+        "onboard_time": 1758347662,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89371,
+        "num": 91475,
+        "word": "易烊千玺VOGUEman领衔首发",
+        "onboard_time": 1758348502,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91249,
+        "num": 91249,
+        "word": "减脂人有自己的下午茶",
+        "onboard_time": 1758343882,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90254,
+        "num": 90254,
+        "word": "台风桦加沙最强或达超强台风级别",
+        "onboard_time": 1758347962,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 88907,
+        "num": 88907,
+        "word": "张泉灵一针见血指出千惠账务问题",
+        "onboard_time": 1758347482,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87244,
+        "num": 87244,
+        "word": "成毅时装九月封面",
+        "onboard_time": 1758342803,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85647,
+        "num": 85647,
+        "word": "樊振东暴力熊猫又上线了",
+        "onboard_time": 1758346522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方要相向而行付出努力#"
+    }
+  }
+}
