@@ -1,6 +1,6 @@
 {
   "startTime": 1757780816728,
-  "endTime": 1758372313425,
+  "endTime": 1758373188622,
   "band_list": [
     {
       "raw_hot": 20810339,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1551004,
+      "num": 1551004,
+      "word": "加沙已变死城",
+      "onboard_time": 1758367222,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1542636,
       "num": 1542636,
       "word": "香港失窃黄金已全数追回",
@@ -713,14 +721,6 @@
       "onboard_time": 1758345263,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1368652,
-      "num": 1368652,
-      "word": "加沙已变死城",
-      "onboard_time": 1758367222,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1364705,
@@ -3299,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484559,
+      "num": 484559,
+      "word": "七月的一天",
+      "onboard_time": 1758369504,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484197,
       "num": 484197,
       "word": "iG对战AL",
@@ -3971,14 +3979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411423,
-      "num": 245695,
-      "word": "七月的一天",
-      "onboard_time": 1758369504,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 410788,
       "num": 410788,
       "word": "易烊千玺不敢回看TellMeWhy",
@@ -4401,6 +4401,14 @@
       "onboard_time": 1758193342,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368164,
+      "num": 218446,
+      "word": "焦虑症vs抑郁症vs自闭症",
+      "onboard_time": 1758368243,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 367987,
@@ -5337,6 +5345,14 @@
       "onboard_time": 1758077364,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 287002,
+      "num": 287002,
+      "word": "安踏",
+      "onboard_time": 1758369862,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 285208,
@@ -6539,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227033,
+      "num": 192240,
+      "word": "蔡国强烟花艺术真的环保吗",
+      "onboard_time": 1758367882,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226781,
       "num": 226781,
       "word": "预制了国庆八天的朋友圈",
@@ -7168,14 +7192,6 @@
       "word": "三个喝水习惯可能亲手把肾毁掉",
       "onboard_time": 1757806639,
       "rank": 25,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208348,
-      "num": 208348,
-      "word": "焦虑症vs抑郁症vs自闭症",
-      "onboard_time": 1758368243,
-      "rank": 16,
       "category": "健康医疗"
     },
     {
@@ -8363,14 +8379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187916,
-      "num": 241736,
-      "word": "安踏",
-      "onboard_time": 1758369862,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187881,
       "num": 187881,
       "word": "吉克隽逸怎么比月饼还黑两度",
@@ -8425,6 +8433,14 @@
       "onboard_time": 1758068846,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186640,
+      "num": 186640,
+      "word": "苏超淮安1比0南通",
+      "onboard_time": 1758372683,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 186521,
@@ -8699,14 +8715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181389,
-      "num": 181389,
-      "word": "蔡国强烟花艺术真的环保吗",
-      "onboard_time": 1758367882,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181251,
       "num": 174594,
       "word": "罗小黑",
@@ -8785,6 +8793,14 @@
       "onboard_time": 1758073343,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179708,
+      "num": 179708,
+      "word": "张柏芝生图轻轻秒了",
+      "onboard_time": 1758372924,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 179665,
@@ -8873,6 +8889,14 @@
       "onboard_time": 1758031352,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178761,
+      "num": 224280,
+      "word": "南通vs淮安",
+      "onboard_time": 1758372683,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 178676,
@@ -9016,6 +9040,14 @@
       "word": "赴山海穿帮画面已微调",
       "onboard_time": 1757991323,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175634,
+      "num": 175634,
+      "word": "6个人里有7个人不对劲",
+      "onboard_time": 1758370882,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -9369,14 +9401,6 @@
       "onboard_time": 1757910804,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 170827,
-      "num": 170827,
-      "word": "6个人里有7个人不对劲",
-      "onboard_time": 1758370882,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 170597,
@@ -10091,6 +10115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161682,
+      "num": 212514,
+      "word": "印度空军司令称给世界上了一课",
+      "onboard_time": 1758369504,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161636,
       "num": 161636,
       "word": "28岁每天运动1小时体态的变化",
@@ -10769,6 +10801,14 @@
       "onboard_time": 1757844382,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154370,
+      "num": 154370,
+      "word": "张智霖说袁咏仪骂儿子就是骂自己",
+      "onboard_time": 1758372143,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 154335,
@@ -11923,6 +11963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143179,
+      "num": 143179,
+      "word": "苏超镇江队vs无锡队",
+      "onboard_time": 1758372742,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143145,
       "num": 296594,
       "word": "家长称上海多校午餐虾仁鸡蛋发臭",
@@ -12659,6 +12707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135905,
+      "num": 135905,
+      "word": "户晨风多平台被禁言",
+      "onboard_time": 1758371363,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135855,
       "num": 648786,
       "word": "中国海警对菲船采取水炮喷射等措施",
@@ -12905,14 +12961,6 @@
       "onboard_time": 1758205222,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133949,
-      "num": 207114,
-      "word": "印度空军司令称给世界上了一课",
-      "onboard_time": 1758369504,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133938,
@@ -13499,6 +13547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128566,
+      "num": 128566,
+      "word": "姚琛就喜马拉雅烟花事件发声",
+      "onboard_time": 1758372384,
+      "rank": 39,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 128564,
       "num": 128564,
       "word": "牛在在当着欧豪的面社死了",
@@ -13801,6 +13857,14 @@
       "onboard_time": 1758249562,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126391,
+      "num": 126391,
+      "word": "吴镇宇以为自己是来演吴邪的",
+      "onboard_time": 1758373042,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 126330,
@@ -14603,14 +14667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119972,
-      "num": 119972,
-      "word": "张智霖说袁咏仪骂儿子就是骂自己",
-      "onboard_time": 1758372143,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119883,
       "num": 119883,
       "word": "T1战胜DK",
@@ -15297,6 +15353,14 @@
       "onboard_time": 1758290603,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114843,
+      "num": 114843,
+      "word": "为方便狗狗吵架司机故意拉近距离",
+      "onboard_time": 1758372983,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 114826,
@@ -16633,14 +16697,6 @@
       "onboard_time": 1758176843,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104416,
-      "num": 104416,
-      "word": "户晨风多平台被禁言",
-      "onboard_time": 1758371363,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104353,
@@ -18859,6 +18915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83250,
+      "num": 121007,
+      "word": "始祖鸟客服回应烟花争议",
+      "onboard_time": 1758373163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83233,
       "num": 83233,
       "word": "洗头发时发现了一个悲伤的事实",
@@ -20019,6 +20083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65411,
+      "num": 206932,
+      "word": "怎么哪哪都是扫街榜广告",
+      "onboard_time": 1758370342,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 65329,
       "num": 112971,
       "word": "布达拉宫居然可以吃",
@@ -20041,14 +20113,6 @@
       "onboard_time": 1758079584,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63134,
-      "num": 206932,
-      "word": "怎么哪哪都是扫街榜广告",
-      "onboard_time": 1758370342,
-      "rank": 19,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 63127,
@@ -20184,6 +20248,14 @@
       "word": "男子患精神分裂想通过杀人被判刑",
       "onboard_time": 1757856684,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60821,
+      "num": 198287,
+      "word": "穿始祖鸟是为亲近自然而非看它炸山",
+      "onboard_time": 1758372083,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -22435,14 +22507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22535,
-      "num": 153609,
-      "word": "穿始祖鸟是为亲近自然而非看它炸山",
-      "onboard_time": 1758372083,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22150,
       "num": 169372,
       "word": "张韶涵5566合体",
@@ -22545,6 +22609,14 @@
       "onboard_time": 1758292284,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20221,
+      "num": 115812,
+      "word": "柯克的死早有预兆",
+      "onboard_time": 1758372862,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19815,
@@ -22849,6 +22921,14 @@
       "onboard_time": 1757910442,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7825,
+      "num": 517033,
+      "word": "国防公开课",
+      "onboard_time": 1758373104,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7314,

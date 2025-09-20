@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758372313425,
+  "endTime": 1758373188622,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1731,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1551004,
+      "num": 1551004,
+      "word": "加沙已变死城",
+      "onboard_time": 1758367222,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1548151,
       "num": 1548151,
       "word": "金正恩离京时长时间挥手作别",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1757232141,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1368652,
-      "num": 1368652,
-      "word": "加沙已变死城",
-      "onboard_time": 1758367222,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1364705,
@@ -9443,6 +9443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484559,
+      "num": 484559,
+      "word": "七月的一天",
+      "onboard_time": 1758369504,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484386,
       "num": 484386,
       "word": "李昀锐 早知道不接电话了",
@@ -11387,14 +11395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 411423,
-      "num": 245695,
-      "word": "七月的一天",
-      "onboard_time": 1758369504,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 410788,
       "num": 410788,
       "word": "易烊千玺不敢回看TellMeWhy",
@@ -12849,6 +12849,14 @@
       "onboard_time": 1757308225,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368164,
+      "num": 218446,
+      "word": "焦虑症vs抑郁症vs自闭症",
+      "onboard_time": 1758368243,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 368072,
@@ -15801,6 +15809,14 @@
       "onboard_time": 1757374580,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 287002,
+      "num": 287002,
+      "word": "安踏",
+      "onboard_time": 1758369862,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 286161,
@@ -19171,6 +19187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227033,
+      "num": 192240,
+      "word": "蔡国强烟花艺术真的环保吗",
+      "onboard_time": 1758367882,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226924,
       "num": 226924,
       "word": "刘思远 凭什么是我回归家庭",
@@ -20761,14 +20785,6 @@
       "onboard_time": 1757255304,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 208348,
-      "num": 208348,
-      "word": "焦虑症vs抑郁症vs自闭症",
-      "onboard_time": 1758368243,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 208347,
@@ -24275,14 +24291,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 187916,
-      "num": 241736,
-      "word": "安踏",
-      "onboard_time": 1758369862,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187881,
       "num": 187881,
       "word": "吉克隽逸怎么比月饼还黑两度",
@@ -24529,6 +24537,14 @@
       "onboard_time": 1757162183,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186640,
+      "num": 186640,
+      "word": "苏超淮安1比0南通",
+      "onboard_time": 1758372683,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 186622,
@@ -25355,14 +25371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181389,
-      "num": 181389,
-      "word": "蔡国强烟花艺术真的环保吗",
-      "onboard_time": 1758367882,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181380,
       "num": 181380,
       "word": "张踩铃说罗永浩点评没用",
@@ -25635,6 +25643,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 179708,
+      "num": 179708,
+      "word": "张柏芝生图轻轻秒了",
+      "onboard_time": 1758372924,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179665,
       "num": 256060,
       "word": "奥斯卡回应恋综争议",
@@ -25793,6 +25809,14 @@
       "onboard_time": 1757300844,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178761,
+      "num": 224280,
+      "word": "南通vs淮安",
+      "onboard_time": 1758372683,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 178695,
@@ -26184,6 +26208,14 @@
       "word": "赴山海穿帮画面已微调",
       "onboard_time": 1757991323,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175634,
+      "num": 175634,
+      "word": "6个人里有7个人不对劲",
+      "onboard_time": 1758370882,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -27161,14 +27193,6 @@
       "onboard_time": 1757661805,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170827,
-      "num": 170827,
-      "word": "6个人里有7个人不对劲",
-      "onboard_time": 1758370882,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 170815,
@@ -29187,6 +29211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161682,
+      "num": 212514,
+      "word": "印度空军司令称给世界上了一课",
+      "onboard_time": 1758369504,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161673,
       "num": 161673,
       "word": "王俊凯还在穿6年前的衣服",
@@ -30937,6 +30969,14 @@
       "onboard_time": 1757757743,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154370,
+      "num": 154370,
+      "word": "张智霖说袁咏仪骂儿子就是骂自己",
+      "onboard_time": 1758372143,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 154335,
@@ -34179,6 +34219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143179,
+      "num": 143179,
+      "word": "苏超镇江队vs无锡队",
+      "onboard_time": 1758372742,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143170,
       "num": 143170,
       "word": "阅兵这些画面首次公开",
@@ -36395,6 +36443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135905,
+      "num": 135905,
+      "word": "户晨风多平台被禁言",
+      "onboard_time": 1758371363,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135902,
       "num": 135902,
       "word": "周启豪2比4户上隼辅",
@@ -37113,14 +37169,6 @@
       "onboard_time": 1757570084,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133949,
-      "num": 207114,
-      "word": "印度空军司令称给世界上了一课",
-      "onboard_time": 1758369504,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133938,
@@ -38843,6 +38891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128566,
+      "num": 128566,
+      "word": "姚琛就喜马拉雅烟花事件发声",
+      "onboard_time": 1758372384,
+      "rank": 39,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 128564,
       "num": 128564,
       "word": "牛在在当着欧豪的面社死了",
@@ -39641,6 +39697,14 @@
       "onboard_time": 1758249562,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126391,
+      "num": 126391,
+      "word": "吴镇宇以为自己是来演吴邪的",
+      "onboard_time": 1758373042,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 126330,
@@ -41859,14 +41923,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 119972,
-      "num": 119972,
-      "word": "张智霖说袁咏仪骂儿子就是骂自己",
-      "onboard_time": 1758372143,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119962,
       "num": 119962,
       "word": "为什么现在结节的人越来越多",
@@ -43657,6 +43713,14 @@
       "onboard_time": 1757251163,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114843,
+      "num": 114843,
+      "word": "为方便狗狗吵架司机故意拉近距离",
+      "onboard_time": 1758372983,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 114830,
@@ -47527,14 +47591,6 @@
       "num": 104447,
       "word": "义乌速度堪比东风",
       "onboard_time": 1757138902,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104416,
-      "num": 104416,
-      "word": "户晨风多平台被禁言",
-      "onboard_time": 1758371363,
       "rank": 47,
       "category": "民生新闻"
     },
@@ -53587,6 +53643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83250,
+      "num": 121007,
+      "word": "始祖鸟客服回应烟花争议",
+      "onboard_time": 1758373163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83233,
       "num": 83233,
       "word": "洗头发时发现了一个悲伤的事实",
@@ -56779,6 +56843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65411,
+      "num": 206932,
+      "word": "怎么哪哪都是扫街榜广告",
+      "onboard_time": 1758370342,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 65329,
       "num": 112971,
       "word": "布达拉宫居然可以吃",
@@ -57009,14 +57081,6 @@
       "onboard_time": 1757660965,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63134,
-      "num": 206932,
-      "word": "怎么哪哪都是扫街榜广告",
-      "onboard_time": 1758370342,
-      "rank": 19,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 63132,
@@ -57440,6 +57504,14 @@
       "word": "坐顺风车被车主自带狐獴咬伤",
       "onboard_time": 1757567504,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60821,
+      "num": 198287,
+      "word": "穿始祖鸟是为亲近自然而非看它炸山",
+      "onboard_time": 1758372083,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -62939,14 +63011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22535,
-      "num": 153609,
-      "word": "穿始祖鸟是为亲近自然而非看它炸山",
-      "onboard_time": 1758372083,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22351,
       "num": 184485,
       "word": "易会满曾称工作如履薄冰",
@@ -63249,6 +63313,14 @@
       "onboard_time": 1758292284,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20221,
+      "num": 115812,
+      "word": "柯克的死早有预兆",
+      "onboard_time": 1758372862,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20104,
@@ -64329,6 +64401,14 @@
       "onboard_time": 1757910442,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7825,
+      "num": 517033,
+      "word": "国防公开课",
+      "onboard_time": 1758373104,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7595,
