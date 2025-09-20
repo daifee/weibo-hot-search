@@ -1,0 +1,410 @@
+{
+  "runTime": 1758363845855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3089892,
+        "num": 3089892,
+        "word": "始祖鸟",
+        "onboard_time": 1758355881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1070943,
+        "num": 1070943,
+        "word": "蔡国强工作室回应烟花争议",
+        "onboard_time": 1758357562,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 983,
+        "num": 748578,
+        "word": "新时代中国推进妇女全面发展",
+        "onboard_time": 1758283703,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720012,
+        "num": 720012,
+        "word": "微博快手被约谈",
+        "onboard_time": 1758360021,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397839,
+        "num": 397839,
+        "word": "清华晨跑大神刘小平离世",
+        "onboard_time": 1758358101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423419,
+        "num": 392134,
+        "word": "武大撤销肖某某记过处分",
+        "onboard_time": 1758333742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366952,
+        "num": 366952,
+        "word": "始祖鸟联手蔡国强的烟花艺术引争议",
+        "onboard_time": 1758342742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346307,
+        "num": 346307,
+        "word": "731",
+        "onboard_time": 1758357921,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252558,
+        "num": 252558,
+        "word": "台湾海峡4.1级地震",
+        "onboard_time": 1758359421,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217352,
+        "num": 252508,
+        "word": "蔡国强烟火放到喜马拉雅山",
+        "onboard_time": 1758350181,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60820,
+        "num": 252383,
+        "word": "美国一火山喷发宛如喷泉",
+        "onboard_time": 1758358882,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 651413,
+        "num": 252361,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1758355881,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 525392,
+        "num": 252216,
+        "word": "董璇说现在接戏是为了还债",
+        "onboard_time": 1758358642,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464734,
+        "num": 252191,
+        "word": "张晚意捂了马思纯耳朵",
+        "onboard_time": 1758356481,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309314,
+        "num": 252114,
+        "word": "陈赫再复刻黄磊不加水的红烧肉",
+        "onboard_time": 1758355041,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252026,
+        "num": 252026,
+        "word": "喜马拉雅山脉烟花表演手续合规",
+        "onboard_time": 1758361882,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43444,
+        "num": 251870,
+        "word": "奥迪E5首批车主正式交付",
+        "onboard_time": 1758362661,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 31623,
+        "num": 250680,
+        "word": "那英五十多岁正是爱吃的年纪",
+        "onboard_time": 1758360922,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38613,
+        "num": 248715,
+        "word": "檀健次的生活感OOTD",
+        "onboard_time": 1758362661,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59739,
+        "num": 246755,
+        "word": "保安虐待精神病患者细节曝光",
+        "onboard_time": 1758362481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32896,
+        "num": 246557,
+        "word": "新疆70年",
+        "onboard_time": 1758363262,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394230,
+        "num": 245339,
+        "word": "小酒窝主动提出要对张维伊改口",
+        "onboard_time": 1758345263,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244074,
+        "num": 244074,
+        "word": "小酒窝 你戳我干哈",
+        "onboard_time": 1758361642,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239024,
+        "num": 239024,
+        "word": "阚清子孕期自拍",
+        "onboard_time": 1758359242,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197106,
+        "num": 197106,
+        "word": "易烊千玺曾想匿名出演酱园弄",
+        "onboard_time": 1758352701,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166843,
+        "num": 197079,
+        "word": "不眠日",
+        "onboard_time": 1758363321,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142588,
+        "num": 196834,
+        "word": "张予曦音乐节",
+        "onboard_time": 1758360021,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141547,
+        "num": 196469,
+        "word": "汪藏海这班到底还要上多久",
+        "onboard_time": 1758362481,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131229,
+        "num": 196171,
+        "word": "告五人五月天原告被告在王源后台同框",
+        "onboard_time": 1758360382,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72099,
+        "num": 195916,
+        "word": "试管婴儿出生不久确诊肾病综合征",
+        "onboard_time": 1758362481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258255,
+        "num": 195659,
+        "word": "脆升升薯条道歉",
+        "onboard_time": 1758337103,
+        "rank": 30,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 195496,
+        "num": 195496,
+        "word": "剪毁刘海意外成了人生发型",
+        "onboard_time": 1758353421,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188386,
+        "num": 188386,
+        "word": "董璇说有两个孩子不可能一碗水端平",
+        "onboard_time": 1758358642,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187351,
+        "num": 187351,
+        "word": "网红局长刘克斌职务已调整",
+        "onboard_time": 1758363021,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186521,
+        "num": 186521,
+        "word": "王一博第一回合正赛出发",
+        "onboard_time": 1758363081,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 152916,
+        "num": 152916,
+        "word": "始祖鸟岂能打户外牌破户外的山",
+        "onboard_time": 1758359001,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75612,
+        "num": 147249,
+        "word": "去户外怎么搭可以好看又实穿",
+        "onboard_time": 1758363202,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 143641,
+        "num": 143641,
+        "word": "巴基斯坦确认向沙特提供核保护伞",
+        "onboard_time": 1758353001,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130520,
+        "num": 130520,
+        "word": "花少7落选小妹发文回应",
+        "onboard_time": 1758340223,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130323,
+        "num": 130323,
+        "word": "陈飞宇献鱼后第一场线下人气",
+        "onboard_time": 1758363081,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124639,
+        "num": 124639,
+        "word": "iOS26最阴的功能出现了",
+        "onboard_time": 1758361762,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123899,
+        "num": 123899,
+        "word": "男子称自己离婚都怪女邻居",
+        "onboard_time": 1758356299,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120812,
+        "num": 120812,
+        "word": "大量鸟儿撞向高楼玻璃死亡",
+        "onboard_time": 1758361341,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110301,
+        "num": 110301,
+        "word": "李沁砍价越砍越高",
+        "onboard_time": 1758361581,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102553,
+        "num": 102553,
+        "word": "杨蓉又有新剧了",
+        "onboard_time": 1758363081,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101647,
+        "num": 101647,
+        "word": "女子婚后起诉父母返还18万彩礼",
+        "onboard_time": 1758358462,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98061,
+        "num": 98061,
+        "word": "鲍莉郭京飞 小说里的一见钟情",
+        "onboard_time": 1758363622,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97667,
+        "num": 97667,
+        "word": "重庆荣昌区3.4级地震",
+        "onboard_time": 1758363321,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96789,
+        "num": 96789,
+        "word": "樊振东鬓角被德国托尼整成方的了",
+        "onboard_time": 1758360863,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96647,
+        "num": 96647,
+        "word": "苏醒披荆斩棘结束你还回家吗",
+        "onboard_time": 1758363021,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}
