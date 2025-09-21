@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758426678734,
+  "endTime": 1758428950919,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -43,19 +43,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1000778,
+      "num": 313389,
+      "word": "始祖鸟 安踏",
+      "onboard_time": 1758423381,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 976047,
       "num": 155707,
       "word": "蔡国强工作室回应烟花争议",
       "onboard_time": 1758357562,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 964171,
-      "num": 313389,
-      "word": "始祖鸟 安踏",
-      "onboard_time": 1758423381,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 664900,
+      "num": 664900,
+      "word": "李维嘉问董璇为什么不和女儿说实话",
+      "onboard_time": 1758424162,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652578,
       "num": 223613,
       "word": "以色列清退中国工人",
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556238,
+      "num": 556238,
+      "word": "始祖鸟外网道歉被指甩锅中国团队",
+      "onboard_time": 1758426321,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498000,
       "num": 478919,
       "word": "女子连续偷吃5个蛋挞后转身就走",
@@ -177,14 +193,6 @@
       "onboard_time": 1758365843,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 467856,
-      "num": 467856,
-      "word": "李维嘉问董璇为什么不和女儿说实话",
-      "onboard_time": 1758424162,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 451575,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404826,
+      "num": 404826,
+      "word": "宋茜曹骏二搭",
+      "onboard_time": 1758424701,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401890,
       "num": 430904,
       "word": "蔡国强称如确影响环境将全力补救",
@@ -243,14 +259,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 378464,
-      "num": 378464,
-      "word": "宋茜曹骏二搭",
-      "onboard_time": 1758424701,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -273,6 +281,14 @@
       "onboard_time": 1758414742,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 340332,
+      "num": 340332,
+      "word": "请彻查始祖鸟炸山秀审批三大漏洞",
+      "onboard_time": 1758426802,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331475,
@@ -363,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 255470,
+      "num": 255470,
+      "word": "女童20楼坠至13楼雨棚众人合力救援",
+      "onboard_time": 1758428240,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 249234,
       "num": 310366,
       "word": "升龙烟花燃放地植被恢复或需上百年",
@@ -377,6 +401,14 @@
       "onboard_time": 1758383063,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 240765,
+      "num": 240765,
+      "word": "邓超到底看没看过甄嬛传",
+      "onboard_time": 1758425842,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 239631,
@@ -401,6 +433,14 @@
       "onboard_time": 1758376883,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238502,
+      "num": 181959,
+      "word": "刘浩存红发",
+      "onboard_time": 1758426383,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237138,
@@ -441,6 +481,14 @@
       "onboard_time": 1758424882,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207119,
+      "num": 181166,
+      "word": "空腹吃主食的危害",
+      "onboard_time": 1758428122,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206240,
@@ -515,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180219,
+      "num": 180219,
+      "word": "沈月七月的一天杀青vlog",
+      "onboard_time": 1758427821,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178424,
       "num": 178424,
       "word": "iPhone17基础款性能超越16Pro",
@@ -545,6 +601,14 @@
       "onboard_time": 1758378443,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166507,
+      "num": 166507,
+      "word": "是谁给始祖鸟炸山秀大开绿灯",
+      "onboard_time": 1758428122,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162802,
@@ -595,6 +659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157852,
+      "num": 157852,
+      "word": "专家称当前退休金与工资相比较高",
+      "onboard_time": 1758428723,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156471,
       "num": 156471,
       "word": "731上映3天票房破10亿",
@@ -611,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154474,
+      "num": 154474,
+      "word": "王一博 白象",
+      "onboard_time": 1758428661,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154442,
       "num": 145617,
       "word": "在隔壁老樊演唱会看到了王楚钦",
@@ -619,12 +699,12 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 151171,
-      "num": 151171,
-      "word": "邓超到底看没看过甄嬛传",
-      "onboard_time": 1758425842,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 148774,
+      "num": 181982,
+      "word": "中企回应在非洲遭800亿美元天价索赔",
+      "onboard_time": 1758427522,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147185,
@@ -651,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142025,
+      "num": 142025,
+      "word": "19岁女孩留学9天被电诈后自杀",
+      "onboard_time": 1758426622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140524,
       "num": 139991,
       "word": "张子枫马嘉祺新剧作者发文",
@@ -665,6 +753,14 @@
       "onboard_time": 1758413240,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138499,
+      "num": 138499,
+      "word": "它已经尽可能长得不好吃了",
+      "onboard_time": 1758427942,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 127912,
@@ -699,12 +795,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122911,
-      "num": 122911,
-      "word": "刘浩存红发",
-      "onboard_time": 1758426383,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 122316,
+      "num": 176635,
+      "word": "女主自己救自己男主自己醋自己",
+      "onboard_time": 1758428182,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 122093,
@@ -713,6 +809,14 @@
       "onboard_time": 1758382284,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122018,
+      "num": 122018,
+      "word": "香港1.5平方空间的家",
+      "onboard_time": 1758428481,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 121978,
@@ -747,12 +851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119345,
+      "num": 2202840,
+      "word": "石榴红了满天山",
+      "onboard_time": 1758427701,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117683,
       "num": 117683,
       "word": "男子公厕偷拍被抓不断求饶",
       "onboard_time": 1758423563,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116901,
+      "num": 140995,
+      "word": "时代少年团为王俊凯庆生",
+      "onboard_time": 1758428723,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 116314,
@@ -793,6 +913,14 @@
       "onboard_time": 1758416003,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110565,
+      "num": 110565,
+      "word": "学生宿舍内厕所半敞开实在太离谱",
+      "onboard_time": 1758427282,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106750,
@@ -979,6 +1107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83526,
+      "num": 141559,
+      "word": "毛晓彤这段舞蹈我能反复看10遍",
+      "onboard_time": 1758428061,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83438,
       "num": 89370,
       "word": "陈楚生也是闯进团播赛道了",
@@ -1115,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63449,
-      "num": 137139,
-      "word": "19岁女孩留学9天被电诈后自杀",
-      "onboard_time": 1758426622,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58978,
       "num": 89519,
       "word": "yagao让BLG双C不要站一起",
@@ -1137,14 +1265,6 @@
       "onboard_time": 1758401234,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 52526,
-      "num": 274876,
-      "word": "始祖鸟外网道歉被指甩锅中国团队",
-      "onboard_time": 1758426321,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51879,
@@ -1302,6 +1422,9 @@
   "hotgov_list": [
     {
       "word": "#中美完全可以相互成就共同繁荣#"
+    },
+    {
+      "word": "#中美双方可以相互成就共同繁荣#"
     }
   ]
 }
