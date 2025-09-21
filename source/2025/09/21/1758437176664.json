@@ -1,0 +1,410 @@
+{
+  "runTime": 1758437176664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6071613,
+        "num": 6071613,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827836,
+        "num": 827836,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1758433702,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92650,
+        "num": 434666,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758427701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1069819,
+        "num": 398684,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351928,
+        "num": 351928,
+        "word": "女童20楼坠至13楼雨棚众人合力救援",
+        "onboard_time": 1758428240,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 330085,
+        "num": 330085,
+        "word": "张继科点评男乒最强正反手",
+        "onboard_time": 1758431841,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295044,
+        "num": 295044,
+        "word": "不眠日大结局",
+        "onboard_time": 1758429622,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283364,
+        "num": 283364,
+        "word": "专家称当前退休金与工资相比较高",
+        "onboard_time": 1758428723,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241841,
+        "num": 241841,
+        "word": "人民日报评烟花秀事件",
+        "onboard_time": 1758433823,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233709,
+        "num": 233709,
+        "word": "龚俊被误认为是张雅琪的老板",
+        "onboard_time": 1758430701,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692267,
+        "num": 233335,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640934,
+        "num": 232684,
+        "word": "文章马伊琍大女儿17岁近照",
+        "onboard_time": 1758429981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227831,
+        "num": 227831,
+        "word": "嵩山一景区巨型蛇头已被覆盖",
+        "onboard_time": 1758420382,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202912,
+        "num": 202912,
+        "word": "我家那闺女",
+        "onboard_time": 1758433761,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79928,
+        "num": 197046,
+        "word": "今日双超强台风罕见同现",
+        "onboard_time": 1758436701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28140,
+        "num": 196583,
+        "word": "乐见潮向音乐节神图来了",
+        "onboard_time": 1758436522,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196273,
+        "num": 196273,
+        "word": "南天门计划",
+        "onboard_time": 1758433162,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 195024,
+        "num": 195024,
+        "word": "女子连续偷吃5个蛋挞后转身就走",
+        "onboard_time": 1758420082,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190116,
+        "num": 190116,
+        "word": "王一博 白象",
+        "onboard_time": 1758428661,
+        "rank": 18,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 182369,
+        "num": 182369,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 721973,
+        "num": 182272,
+        "word": "始祖鸟外网道歉被指甩锅中国团队",
+        "onboard_time": 1758426321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519167,
+        "num": 180868,
+        "word": "李维嘉问董璇为什么不和女儿说实话",
+        "onboard_time": 1758424162,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459674,
+        "num": 180139,
+        "word": "谁家综艺官宣给艺人打码",
+        "onboard_time": 1758423501,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451424,
+        "num": 179236,
+        "word": "始祖鸟 安踏",
+        "onboard_time": 1758423381,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139377,
+        "num": 178177,
+        "word": "大侦探11嘉宾",
+        "onboard_time": 1758435141,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397119,
+        "num": 177101,
+        "word": "蔡国强 始祖鸟",
+        "onboard_time": 1758412640,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195481,
+        "num": 176523,
+        "word": "白鹿终于实现了鸡蛋自由",
+        "onboard_time": 1758435381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175996,
+        "num": 175996,
+        "word": "始祖鸟致歉",
+        "onboard_time": 1758413479,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151147,
+        "num": 151147,
+        "word": "王俊凯26岁生日照",
+        "onboard_time": 1758410598,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127707,
+        "num": 147922,
+        "word": "王力宏是真玩得起啊",
+        "onboard_time": 1758437000,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161065,
+        "num": 147812,
+        "word": "蔡国强一句道歉修复不了喜马拉雅",
+        "onboard_time": 1758436462,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146332,
+        "num": 146332,
+        "word": "请彻查始祖鸟炸山秀审批三大漏洞",
+        "onboard_time": 1758426802,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144348,
+        "num": 144348,
+        "word": "网友称卖水哥卖完就走不看一眼杰伦",
+        "onboard_time": 1758430762,
+        "rank": 32,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 135188,
+        "num": 135188,
+        "word": "宋茜曹骏二搭",
+        "onboard_time": 1758424701,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124427,
+        "num": 134752,
+        "word": "成毅把杨迪吴泽林吓了一跳又一跳",
+        "onboard_time": 1758434481,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134725,
+        "num": 134725,
+        "word": "升龙烟花燃放地植被恢复或需上百年",
+        "onboard_time": 1758420681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130942,
+        "num": 130942,
+        "word": "始祖鸟海内外致歉内容不一致",
+        "onboard_time": 1758430642,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130198,
+        "num": 130198,
+        "word": "青藏高原生态保护法有明文规定",
+        "onboard_time": 1758436161,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127929,
+        "num": 127929,
+        "word": "55岁以下不让进的群聊",
+        "onboard_time": 1758434962,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118497,
+        "num": 118497,
+        "word": "智能的意义此刻具象化了",
+        "onboard_time": 1758436642,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116816,
+        "num": 116816,
+        "word": "刘浩存红发",
+        "onboard_time": 1758426383,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116060,
+        "num": 116060,
+        "word": "不眠日男子冷藏已逝女友七年多",
+        "onboard_time": 1758431241,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113006,
+        "num": 113006,
+        "word": "空腹吃主食的危害",
+        "onboard_time": 1758428122,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110700,
+        "num": 110700,
+        "word": "美国队又重赛了",
+        "onboard_time": 1758432982,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109880,
+        "num": 109880,
+        "word": "敖子逸 凯师兄",
+        "onboard_time": 1758433341,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105923,
+        "num": 105923,
+        "word": "18岁女孩发现男友已婚饮酒后跳江",
+        "onboard_time": 1758414863,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101970,
+        "num": 101970,
+        "word": "深圳天气",
+        "onboard_time": 1758433521,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101061,
+        "num": 101061,
+        "word": "43岁二胎妈妈患阿尔茨海默病",
+        "onboard_time": 1758436881,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99860,
+        "num": 99860,
+        "word": "庆怜时装周天崩开局",
+        "onboard_time": 1758436462,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99762,
+        "num": 99762,
+        "word": "成毅给张智霖介绍应渊",
+        "onboard_time": 1758437062,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}
