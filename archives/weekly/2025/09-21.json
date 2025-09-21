@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758424405020,
+  "endTime": 1758425316984,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -48,6 +48,14 @@
       "word": "蔡国强工作室回应烟花争议",
       "onboard_time": 1758357562,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 912205,
+      "num": 297251,
+      "word": "始祖鸟 安踏",
+      "onboard_time": 1758423381,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 458925,
+      "num": 458925,
+      "word": "谁家综艺官宣给艺人打码",
+      "onboard_time": 1758423501,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451575,
       "num": 430418,
       "word": "王俊凯26岁生日照",
@@ -235,20 +251,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360160,
+      "num": 360160,
+      "word": "李维嘉问董璇为什么不和女儿说实话",
+      "onboard_time": 1758424162,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358246,
       "num": 358246,
       "word": "官方通报喜马拉雅山放烟花",
       "onboard_time": 1758414742,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 340648,
-      "num": 297251,
-      "word": "始祖鸟 安踏",
-      "onboard_time": 1758423381,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331475,
@@ -280,14 +296,6 @@
       "word": "艾伦说陈乔恩睡觉打呼像大货车",
       "onboard_time": 1758420803,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 296651,
-      "num": 296651,
-      "word": "谁家综艺官宣给艺人打码",
-      "onboard_time": 1758423501,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -347,12 +355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249234,
+      "num": 310366,
+      "word": "升龙烟花燃放地植被恢复或需上百年",
+      "onboard_time": 1758420681,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245704,
       "num": 245704,
       "word": "日本外相宣布暂不承认巴勒斯坦国",
       "onboard_time": 1758383063,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239631,
+      "num": 236105,
+      "word": "网传赴山海导演新剧被换",
+      "onboard_time": 1758421941,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 239240,
@@ -371,14 +395,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 236105,
-      "num": 236105,
-      "word": "网传赴山海导演新剧被换",
-      "onboard_time": 1758421941,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "人上班真的不能太勤快",
@@ -393,6 +409,22 @@
       "onboard_time": 1758385942,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207151,
+      "num": 171697,
+      "word": "王俊凯 请欣赏大师炫技之作",
+      "onboard_time": 1758424882,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206240,
+      "num": 206240,
+      "word": "成毅杂志",
+      "onboard_time": 1758424342,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201662,
@@ -443,14 +475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 179050,
-      "num": 310366,
-      "word": "升龙烟花燃放地植被恢复或需上百年",
-      "onboard_time": 1758420681,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178424,
       "num": 178424,
       "word": "iPhone17基础款性能超越16Pro",
@@ -465,6 +489,14 @@
       "onboard_time": 1758378443,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168931,
+      "num": 168931,
+      "word": "宋茜曹骏二搭",
+      "onboard_time": 1758424701,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 162802,
@@ -563,6 +595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140524,
+      "num": 139991,
+      "word": "张子枫马嘉祺新剧作者发文",
+      "onboard_time": 1758421462,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140481,
       "num": 140481,
       "word": "董璇张维伊婚礼路透",
@@ -571,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139991,
-      "num": 139991,
-      "word": "张子枫马嘉祺新剧作者发文",
-      "onboard_time": 1758421462,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 127912,
+      "num": 127912,
+      "word": "自然影像团队怒怼蔡国强烟花秀",
+      "onboard_time": 1758423981,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123661,
@@ -627,6 +667,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121723,
+      "num": 121723,
+      "word": "凉山警方通报2岁失踪女童死亡",
+      "onboard_time": 1758425121,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118362,
+      "num": 118362,
+      "word": "炸山鸟",
+      "onboard_time": 1758424822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117683,
+      "num": 117683,
+      "word": "男子公厕偷拍被抓不断求饶",
+      "onboard_time": 1758423563,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116314,
       "num": 107052,
       "word": "和对的人在一起的10个迹象",
@@ -665,6 +729,14 @@
       "onboard_time": 1758416003,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111936,
+      "num": 294227,
+      "word": "始祖鸟海外团队致歉",
+      "onboard_time": 1758424040,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111541,
@@ -739,22 +811,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94236,
-      "num": 94236,
-      "word": "男子公厕偷拍被抓不断求饶",
-      "onboard_time": 1758423563,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93663,
-      "num": 93663,
-      "word": "自然影像团队怒怼蔡国强烟花秀",
-      "onboard_time": 1758423981,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92920,
       "num": 92920,
       "word": "尹子维好莱坞电影镜头",
@@ -793,14 +849,6 @@
       "onboard_time": 1758420382,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91403,
-      "num": 91403,
-      "word": "成毅杂志",
-      "onboard_time": 1758424342,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 91144,
@@ -971,27 +1019,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74847,
-      "num": 171904,
-      "word": "李维嘉问董璇为什么不和女儿说实话",
-      "onboard_time": 1758424162,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 72799,
       "num": 80004,
       "word": "人人人人机人人人人",
       "onboard_time": 1758380784,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71417,
-      "num": 294227,
-      "word": "始祖鸟海外团队致歉",
-      "onboard_time": 1758424040,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1156,11 +1188,19 @@
     },
     {
       "raw_hot": 25541,
-      "num": 2674551,
+      "num": 2739653,
       "word": "砥砺奋进七十载天山南北谱华章",
       "onboard_time": 1758375445,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21156,
+      "num": 163803,
+      "word": "河南周口市中心一路口路面塌陷",
+      "onboard_time": 1758424942,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14419,

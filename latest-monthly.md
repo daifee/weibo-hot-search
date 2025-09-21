@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 11:13:25
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 11:28:36
 </p>
 </blockquote>
 <p>
@@ -2999,6 +2999,12 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%88%91%E7%94%9F%E4%B8%8B%E6%9D%A5%E5%B0%B1%E6%98%AF%E9%BD%90%E5%88%98%E6%B5%B7%23" target="weibo">
 田曦薇我生下来就是齐刘海（热度：913297）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%20%E5%AE%89%E8%B8%8F%23" target="weibo">
+始祖鸟 安踏（热度：912205）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E5%88%B02%E5%B2%81%E6%97%B6%E6%88%BF%E5%AD%90%E8%A2%AB%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E7%82%B8%E5%A1%8C%23" target="weibo">
 钟南山不到2岁时房子被日本飞机炸塌（热度：563096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E9%85%92%E9%A6%86%E5%A5%B3%E8%88%9E%E8%80%85%E8%A1%A8%E6%BC%94%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9%23" target="weibo">
-杭州一酒馆女舞者表演被指擦边（热度：562489）
 </a>
 </li>
 
