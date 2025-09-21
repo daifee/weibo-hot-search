@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 23:23:07
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 23:36:32
 </p>
 </blockquote>
 <p>
@@ -489,6 +489,12 @@ iPhone17系列价格（热度：3052336）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9A%84%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23" target="weibo">
+易烊千玺给王俊凯的生日祝福（热度：2537931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35%23" target="weibo">
 歼35（热度：2527640）
 </a>
@@ -737,12 +743,6 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E5%8D%87%E5%8D%87%E8%96%AF%E6%9D%A1%E9%81%93%E6%AD%89%23" target="weibo">
 脆升升薯条道歉（热度：2127120）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9A%84%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23" target="weibo">
-易烊千玺给王俊凯的生日祝福（热度：2109660）
 </a>
 </li>
 
