@@ -1,0 +1,410 @@
+{
+  "runTime": 1758451153300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 942272,
+        "num": 1150763,
+        "word": "顾客称吃日料在三文鱼上发现活蛆",
+        "onboard_time": 1758445162,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 496877,
+        "num": 496877,
+        "word": "始祖鸟承诺",
+        "onboard_time": 1758445101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27857,
+        "num": 494013,
+        "word": "这是人民空军带来的震撼与浪漫",
+        "onboard_time": 1758423921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1438506,
+        "num": 488370,
+        "word": "日本媒体鸦雀无声",
+        "onboard_time": 1758448162,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 592506,
+        "num": 482306,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537165,
+        "num": 477962,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 472750,
+        "num": 472750,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293814,
+        "num": 293814,
+        "word": "陈赫把李乃文薅进综艺圈了",
+        "onboard_time": 1758447743,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617994,
+        "num": 268050,
+        "word": "雷军转发了王一博",
+        "onboard_time": 1758447562,
+        "rank": 8,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 186584,
+        "num": 186584,
+        "word": "LCK",
+        "onboard_time": 1758450500,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1005025,
+        "num": 186385,
+        "word": "王源评论祝王俊凯生日快乐",
+        "onboard_time": 1758444862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654468,
+        "num": 185733,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1758439641,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 614590,
+        "num": 184367,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503020,
+        "num": 183590,
+        "word": "黄灿灿赚的第一笔钱给男朋友补交学费",
+        "onboard_time": 1758448223,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398285,
+        "num": 182981,
+        "word": "胡兵瞿颖借蔡国庆儿子拍全家福",
+        "onboard_time": 1758448223,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310626,
+        "num": 182110,
+        "word": "有存款和没存款的区别",
+        "onboard_time": 1758442521,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181983,
+        "num": 181983,
+        "word": "周杰伦演唱会卖水大爷卖5元一瓶",
+        "onboard_time": 1758437600,
+        "rank": 16,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 143218,
+        "num": 181486,
+        "word": "管乐井迪前男友是同班同学",
+        "onboard_time": 1758439522,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139919,
+        "num": 181165,
+        "word": "徐明浩这都是你的兵",
+        "onboard_time": 1758450680,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136971,
+        "num": 180781,
+        "word": "林俊杰泡泡岛黑框眼镜限定版",
+        "onboard_time": 1758450201,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183512,
+        "num": 180263,
+        "word": "蔡国强感谢大家支持他大闹天宫",
+        "onboard_time": 1758449001,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347752,
+        "num": 179502,
+        "word": "蔡国强一句道歉修复不了喜马拉雅",
+        "onboard_time": 1758436462,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267771,
+        "num": 179152,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248418,
+        "num": 178809,
+        "word": "给陈都灵戴无框眼镜的人简直是天才",
+        "onboard_time": 1758446363,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193619,
+        "num": 177943,
+        "word": "金晨怎么美成这样了",
+        "onboard_time": 1758450321,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177830,
+        "num": 177830,
+        "word": "英国将正式承认巴勒斯坦国",
+        "onboard_time": 1758448042,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160657,
+        "num": 160657,
+        "word": "女童20楼坠至13楼雨棚众人合力救援",
+        "onboard_time": 1758428240,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 127554,
+        "num": 153652,
+        "word": "不眠日大结局",
+        "onboard_time": 1758429622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113162,
+        "num": 151898,
+        "word": "韩东君昨天季军今天冠军",
+        "onboard_time": 1758450082,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39304,
+        "num": 151696,
+        "word": "放错地的烟花秀再美也是破坏",
+        "onboard_time": 1758450984,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151578,
+        "num": 151578,
+        "word": "英媒称中国出口导弹标低射程",
+        "onboard_time": 1758448882,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149877,
+        "num": 149877,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1758433702,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 880326,
+        "num": 149379,
+        "word": "韩媒验证中国人有首尔病",
+        "onboard_time": 1758442642,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 148100,
+        "word": "光与夜之恋",
+        "onboard_time": 1758450984,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147993,
+        "num": 147993,
+        "word": "王玉雯看到直播的刘宇宁天都塌了",
+        "onboard_time": 1758438322,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147068,
+        "num": 147068,
+        "word": "台风桦加沙明起将影响我国海域",
+        "onboard_time": 1758445463,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143204,
+        "num": 143204,
+        "word": "iPhone17到手后要做的16个设置",
+        "onboard_time": 1758444923,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137485,
+        "num": 137485,
+        "word": "范丞丞 青岛",
+        "onboard_time": 1758448701,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134211,
+        "num": 134211,
+        "word": "GEN对战T1",
+        "onboard_time": 1758438680,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131182,
+        "num": 131182,
+        "word": "BLG决赛更换打野",
+        "onboard_time": 1758449721,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123764,
+        "num": 123764,
+        "word": "被猫杀掉的概率不是0",
+        "onboard_time": 1758446903,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122168,
+        "num": 122168,
+        "word": "风王桦加沙基本锁定华南地区",
+        "onboard_time": 1758448522,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121215,
+        "num": 121215,
+        "word": "广东做好巨灾防御准备",
+        "onboard_time": 1758447802,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115091,
+        "num": 115091,
+        "word": "寿司袜子",
+        "onboard_time": 1758447202,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114726,
+        "num": 114726,
+        "word": "台风",
+        "onboard_time": 1758444442,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113294,
+        "num": 113294,
+        "word": "始祖鸟 安踏",
+        "onboard_time": 1758423381,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109994,
+        "num": 109994,
+        "word": "王曼昱 敷尔佳",
+        "onboard_time": 1758449423,
+        "rank": 46,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 107592,
+        "num": 107592,
+        "word": "蔡国强 始祖鸟",
+        "onboard_time": 1758412640,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96977,
+        "num": 96977,
+        "word": "甄子丹回应带辛芷蕾入行",
+        "onboard_time": 1758449423,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96243,
+        "num": 96243,
+        "word": "祝绪丹说当演员不仅下水还要下跪",
+        "onboard_time": 1758440602,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}

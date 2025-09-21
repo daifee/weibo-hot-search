@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758450229263,
+  "endTime": 1758451153300,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1438506,
+      "num": 546934,
+      "word": "日本媒体鸦雀无声",
+      "onboard_time": 1758448162,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1417324,
       "num": 430745,
       "word": "大一女生军训身亡",
@@ -57,14 +65,6 @@
       "onboard_time": 1758423381,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1228683,
-      "num": 546934,
-      "word": "日本媒体鸦雀无声",
-      "onboard_time": 1758448162,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1055714,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617994,
+      "num": 516142,
+      "word": "雷军转发了王一博",
+      "onboard_time": 1758447562,
+      "rank": 7,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 614891,
       "num": 908382,
       "word": "郑钧刘芸两个魔丸生出了一个灵珠",
@@ -299,20 +307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 516142,
-      "num": 516142,
-      "word": "雷军转发了王一博",
-      "onboard_time": 1758447562,
-      "rank": 7,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 505616,
       "num": 352259,
       "word": "有存款和没存款的区别",
       "onboard_time": 1758442521,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 503020,
+      "num": 186817,
+      "word": "黄灿灿赚的第一笔钱给男朋友补交学费",
+      "onboard_time": 1758448223,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 498000,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398285,
+      "num": 187897,
+      "word": "胡兵瞿颖借蔡国庆儿子拍全家福",
+      "onboard_time": 1758448223,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 395897,
       "num": 395897,
       "word": "专家称当前退休金与工资相比较高",
@@ -499,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310980,
-      "num": 187897,
-      "word": "胡兵瞿颖借蔡国庆儿子拍全家福",
-      "onboard_time": 1758448223,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 303280,
       "num": 280695,
       "word": "空腹吃主食的危害",
@@ -520,6 +528,14 @@
       "word": "艾伦说陈乔恩睡觉打呼像大货车",
       "onboard_time": 1758420803,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293814,
+      "num": 293814,
+      "word": "陈赫把李乃文薅进综艺圈了",
+      "onboard_time": 1758447743,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -553,14 +569,6 @@
       "onboard_time": 1758355881,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276366,
-      "num": 186817,
-      "word": "黄灿灿赚的第一笔钱给男朋友补交学费",
-      "onboard_time": 1758448223,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 275633,
@@ -601,14 +609,6 @@
       "onboard_time": 1758433823,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263056,
-      "num": 185265,
-      "word": "陈赫把李乃文薅进综艺圈了",
-      "onboard_time": 1758447743,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 262724,
@@ -867,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193619,
+      "num": 177943,
+      "word": "金晨怎么美成这样了",
+      "onboard_time": 1758450321,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193029,
       "num": 283572,
       "word": "疾风劲草阵容官宣",
@@ -907,12 +915,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186584,
+      "num": 186584,
+      "word": "LCK",
+      "onboard_time": 1758450500,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186101,
       "num": 242167,
       "word": "五月天演唱会内场起冲突目击者发声",
       "onboard_time": 1758417804,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183512,
+      "num": 180263,
+      "word": "蔡国强感谢大家支持他大闹天宫",
+      "onboard_time": 1758449001,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183166,
@@ -961,6 +985,14 @@
       "onboard_time": 1758413661,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 177830,
+      "num": 177830,
+      "word": "英国将正式承认巴勒斯坦国",
+      "onboard_time": 1758448042,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174657,
@@ -1187,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152850,
-      "num": 152850,
-      "word": "蔡国强感谢大家支持他大闹天宫",
-      "onboard_time": 1758449001,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151367,
       "num": 151367,
       "word": "赵樱子说明星都羡慕网红带货",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1758445162,
       "rank": 29,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 148100,
+      "num": 148100,
+      "word": "光与夜之恋",
+      "onboard_time": 1758450984,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 147755,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1758432982,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143676,
-      "num": 143676,
-      "word": "英国将正式承认巴勒斯坦国",
-      "onboard_time": 1758448042,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 143536,
@@ -1323,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139919,
+      "num": 181165,
+      "word": "徐明浩这都是你的兵",
+      "onboard_time": 1758450680,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138243,
       "num": 197046,
       "word": "今日双超强台风罕见同现",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1758449902,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136971,
+      "num": 180781,
+      "word": "林俊杰泡泡岛黑框眼镜限定版",
+      "onboard_time": 1758450201,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 133748,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1758442581,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131182,
+      "num": 131182,
+      "word": "BLG决赛更换打野",
+      "onboard_time": 1758449721,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 130642,
@@ -1465,6 +1513,14 @@
       "onboard_time": 1758434481,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123764,
+      "num": 123764,
+      "word": "被猫杀掉的概率不是0",
+      "onboard_time": 1758446903,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 123661,
@@ -1563,12 +1619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121258,
-      "num": 121258,
-      "word": "BLG决赛更换打野",
-      "onboard_time": 1758449721,
-      "rank": 42,
-      "category": "电竞"
+      "raw_hot": 121215,
+      "num": 121215,
+      "word": "广东做好巨灾防御准备",
+      "onboard_time": 1758447802,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120387,
@@ -1595,14 +1651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119518,
-      "num": 119518,
-      "word": "被猫杀掉的概率不是0",
-      "onboard_time": 1758446903,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118560,
       "num": 182142,
       "word": "致敬自然无需烟花证明",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1758436642,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117940,
-      "num": 117940,
-      "word": "广东做好巨灾防御准备",
-      "onboard_time": 1758447802,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117931,
@@ -1707,6 +1747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113162,
+      "num": 151898,
+      "word": "韩东君昨天季军今天冠军",
+      "onboard_time": 1758450082,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113063,
       "num": 113063,
       "word": "心理压力 神经性皮炎",
@@ -1721,14 +1769,6 @@
       "onboard_time": 1758416003,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112286,
-      "num": 142129,
-      "word": "韩东君昨天季军今天冠军",
-      "onboard_time": 1758450082,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 111145,
@@ -1755,8 +1795,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109765,
-      "num": 109765,
+      "raw_hot": 109994,
+      "num": 109994,
       "word": "王曼昱 敷尔佳",
       "onboard_time": 1758449423,
       "rank": 48,
@@ -1785,14 +1825,6 @@
       "onboard_time": 1758446842,
       "rank": 42,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 104653,
-      "num": 104653,
-      "word": "林俊杰泡泡岛黑框眼镜限定版",
-      "onboard_time": 1758450201,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 104643,
@@ -1873,6 +1905,14 @@
       "onboard_time": 1758419123,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96977,
+      "num": 125500,
+      "word": "甄子丹回应带辛芷蕾入行",
+      "onboard_time": 1758449423,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 96335,
@@ -2203,14 +2243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63405,
-      "num": 125500,
-      "word": "甄子丹回应带辛芷蕾入行",
-      "onboard_time": 1758449423,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59139,
       "num": 123992,
       "word": "王楚钦在演唱会上摇头晃脑",
@@ -2376,6 +2408,14 @@
       "word": "女孩饮酒后跳江酒友被判赔9千",
       "onboard_time": 1758415823,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39304,
+      "num": 151696,
+      "word": "放错地的烟花秀再美也是破坏",
+      "onboard_time": 1758450984,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
