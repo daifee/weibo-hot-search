@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 17:36:28
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 18:23:49
 </p>
 </blockquote>
 <p>
@@ -2007,6 +2007,12 @@ VOGUE金九单人封面（热度：1230035）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AA%92%E4%BD%93%E9%B8%A6%E9%9B%80%E6%97%A0%E5%A3%B0%23" target="weibo">
+日本媒体鸦雀无声（热度：1228683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E7%8E%8B%E6%99%93%E6%99%A8%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%23" target="weibo">
 俞灏明王晓晨牵手逛街（热度：1224288）
 </a>
@@ -2649,6 +2655,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%83%E6%97%A5%E6%96%99%E5%9C%A8%E4%B8%89%E6%96%87%E9%B1%BC%E4%B8%8A%E5%8F%91%E7%8E%B0%E6%B4%BB%E8%9B%86%23" target="weibo">
+顾客称吃日料在三文鱼上发现活蛆（热度：1014050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E6%9C%89%E5%AE%98%E9%85%8Dcp%E4%BA%86%23" target="weibo">
 小酒窝有官配cp了（热度：1008315）
 </a>
@@ -2841,6 +2853,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E9%AA%8C%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E9%A6%96%E5%B0%94%E7%97%85%23" target="weibo">
+韩媒验证中国人有首尔病（热度：963988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E4%B8%AA%E8%B4%A6%E4%BD%99%E9%A2%9D%E8%83%BD%E8%BD%AC%E8%B4%A6%E5%95%A6%23" target="weibo">
 职工医保个账余额能转账啦（热度：963827）
 </a>
@@ -2861,12 +2879,6 @@ iG醒醒（热度：964601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%B0%86%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%BF%84%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%23" target="weibo">
 普京称将回应中国对俄试行免签（热度：954681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E9%AA%8C%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E9%A6%96%E5%B0%94%E7%97%85%23" target="weibo">
-韩媒验证中国人有首尔病（热度：954168）
 </a>
 </li>
 
@@ -5691,6 +5703,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
+官方通报喜马拉雅山放烟花（热度：596683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%20%E4%BD%A0%E6%88%B3%E6%88%91%E5%B9%B2%E5%93%88%23" target="weibo">
 小酒窝 你戳我干哈（热度：595294）
 </a>
@@ -5993,24 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%83%E8%8A%82%E8%A1%80%E6%9C%88%23" target="weibo">
 中元节血月（热度：570087）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%82%9B%E9%97%A8%E8%97%8F%E5%90%AB%E5%A4%A7%E9%BA%BB%E7%94%B5%E5%AD%90%E7%83%9F%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23" target="weibo">
-男子肛门藏含大麻电子烟入境被查（热度：569676）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E5%A5%B6%E8%8C%B6%E6%9C%80%E5%A5%BD%E5%96%9D%E7%9A%84%E4%B8%80%E6%9D%AF%23" target="weibo">
-各大奶茶最好喝的一杯（热度：569167）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E5%AF%B9%E4%B8%AD%E5%8D%B0%E5%A4%A7%E5%B9%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23" target="weibo">
-特朗普称愿对中印大幅加征关税（热度：568849）
 </a>
 </li>
 

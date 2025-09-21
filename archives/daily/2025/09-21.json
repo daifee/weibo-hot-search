@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758447388183,
+  "endTime": 1758450229263,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1228683,
+      "num": 546934,
+      "word": "日本媒体鸦雀无声",
+      "onboard_time": 1758448162,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1055714,
       "num": 430523,
       "word": "蔡国强 始祖鸟",
@@ -73,6 +81,14 @@
       "onboard_time": 1758426321,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1014050,
+      "num": 1162248,
+      "word": "顾客称吃日料在三文鱼上发现活蛆",
+      "onboard_time": 1758445162,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 992046,
@@ -91,7 +107,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 954168,
+      "raw_hot": 963988,
       "num": 523056,
       "word": "韩媒验证中国人有首尔病",
       "onboard_time": 1758442642,
@@ -251,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596683,
+      "num": 596683,
+      "word": "官方通报喜马拉雅山放烟花",
+      "onboard_time": 1758414742,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 577325,
       "num": 577325,
       "word": "女童20楼坠至13楼雨棚众人合力救援",
@@ -265,6 +289,22 @@
       "onboard_time": 1758438322,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 542525,
+      "num": 542525,
+      "word": "始祖鸟承诺",
+      "onboard_time": 1758445101,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516142,
+      "num": 516142,
+      "word": "雷军转发了王一博",
+      "onboard_time": 1758447562,
+      "rank": 7,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 505616,
@@ -297,14 +337,6 @@
       "onboard_time": 1758381204,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 489972,
-      "num": 489972,
-      "word": "官方通报喜马拉雅山放烟花",
-      "onboard_time": 1758414742,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 473458,
@@ -467,20 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308749,
-      "num": 308749,
-      "word": "始祖鸟承诺",
-      "onboard_time": 1758445101,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307223,
-      "num": 307223,
-      "word": "顾客称吃日料在三文鱼上发现活蛆",
-      "onboard_time": 1758445162,
-      "rank": 17,
-      "category": "舆论监督"
+      "raw_hot": 310980,
+      "num": 187897,
+      "word": "胡兵瞿颖借蔡国庆儿子拍全家福",
+      "onboard_time": 1758448223,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 303280,
@@ -531,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276366,
+      "num": 186817,
+      "word": "黄灿灿赚的第一笔钱给男朋友补交学费",
+      "onboard_time": 1758448223,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275633,
       "num": 275633,
       "word": "始祖鸟客服回应烟花争议",
@@ -569,6 +601,14 @@
       "onboard_time": 1758433823,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263056,
+      "num": 185265,
+      "word": "陈赫把李乃文薅进综艺圈了",
+      "onboard_time": 1758447743,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 262724,
@@ -971,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169440,
+      "num": 169440,
+      "word": "范丞丞 青岛",
+      "onboard_time": 1758448701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169291,
       "num": 2202840,
       "word": "石榴红了满天山",
@@ -995,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165122,
+      "num": 152880,
+      "word": "英媒称中国出口导弹标低射程",
+      "onboard_time": 1758448882,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 162802,
       "num": 162802,
       "word": "咱们家风扇坏了当事人今日结婚",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1758432322,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160125,
+      "num": 160125,
+      "word": "iPhone17到手后要做的16个设置",
+      "onboard_time": 1758444923,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 159676,
@@ -1123,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152850,
+      "num": 152850,
+      "word": "蔡国强感谢大家支持他大闹天宫",
+      "onboard_time": 1758449001,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151367,
       "num": 151367,
       "word": "赵樱子说明星都羡慕网红带货",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1758432982,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143676,
+      "num": 143676,
+      "word": "英国将正式承认巴勒斯坦国",
+      "onboard_time": 1758448042,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143536,
@@ -1267,6 +1347,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137240,
+      "num": 137240,
+      "word": "翁泓阳首夺中国大师赛冠军",
+      "onboard_time": 1758449902,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133748,
+      "num": 190368,
+      "word": "风王桦加沙基本锁定华南地区",
+      "onboard_time": 1758448522,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133739,
       "num": 133739,
       "word": "妇科炎症像感冒一样常见",
@@ -1345,6 +1441,14 @@
       "onboard_time": 1758443964,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126466,
+      "num": 126466,
+      "word": "寿司袜子",
+      "onboard_time": 1758447202,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 126454,
@@ -1459,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121258,
+      "num": 121258,
+      "word": "BLG决赛更换打野",
+      "onboard_time": 1758449721,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120387,
       "num": 120387,
       "word": "女子要一次性筷子被告知下不为例",
@@ -1481,6 +1593,14 @@
       "onboard_time": 1758438920,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119518,
+      "num": 119518,
+      "word": "被猫杀掉的概率不是0",
+      "onboard_time": 1758446903,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 118560,
@@ -1507,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117940,
+      "num": 117940,
+      "word": "广东做好巨灾防御准备",
+      "onboard_time": 1758447802,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117931,
       "num": 117931,
       "word": "亲密关系不该谈七年之痒色变",
@@ -1521,6 +1649,14 @@
       "onboard_time": 1758423563,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117357,
+      "num": 117357,
+      "word": "越塔bug",
+      "onboard_time": 1758449961,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 116901,
@@ -1587,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112286,
+      "num": 142129,
+      "word": "韩东君昨天季军今天冠军",
+      "onboard_time": 1758450082,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111145,
       "num": 111145,
       "word": "小猫猫 这衣服欺负我",
@@ -1611,12 +1755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109844,
-      "num": 109844,
-      "word": "被猫杀掉的概率不是0",
-      "onboard_time": 1758446903,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 109765,
+      "num": 109765,
+      "word": "王曼昱 敷尔佳",
+      "onboard_time": 1758449423,
+      "rank": 48,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 108548,
@@ -1641,6 +1785,14 @@
       "onboard_time": 1758446842,
       "rank": 42,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 104653,
+      "num": 104653,
+      "word": "林俊杰泡泡岛黑框眼镜限定版",
+      "onboard_time": 1758450201,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 104643,
@@ -1688,14 +1840,6 @@
       "word": "中国移动上线iPhoneAir页面",
       "onboard_time": 1758432261,
       "rank": 39,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 98393,
-      "num": 98393,
-      "word": "iPhone17到手后要做的16个设置",
-      "onboard_time": 1758444923,
-      "rank": 45,
       "category": "数码"
     },
     {
@@ -1747,12 +1891,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95778,
-      "num": 95778,
-      "word": "寿司袜子",
-      "onboard_time": 1758447202,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 94016,
+      "num": 124897,
+      "word": "人民文娱评海外剧夹带私货",
+      "onboard_time": 1758449782,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 93983,
@@ -2059,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63405,
+      "num": 125500,
+      "word": "甄子丹回应带辛芷蕾入行",
+      "onboard_time": 1758449423,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59139,
       "num": 123992,
       "word": "王楚钦在演唱会上摇头晃脑",
@@ -2331,6 +2483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28022,
+      "num": 548905,
+      "word": "这是人民空军带来的震撼与浪漫",
+      "onboard_time": 1758423921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27804,
       "num": 261573,
       "word": "高原野生动物或因声光刺激弃巢",
@@ -2369,14 +2529,6 @@
       "onboard_time": 1758410299,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9959,
-      "num": 502513,
-      "word": "这是人民空军带来的震撼与浪漫",
-      "onboard_time": 1758423921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9598,
