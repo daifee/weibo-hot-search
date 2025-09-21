@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758432223218,
+  "endTime": 1758433196693,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -14019,6 +14019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345580,
+      "num": 345580,
+      "word": "张继科点评男乒最强正反手",
+      "onboard_time": 1758431841,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345429,
       "num": 370885,
       "word": "2025国庆档电影",
@@ -24915,6 +24923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188133,
+      "num": 188133,
+      "word": "中国花滑米兰冬奥满额参赛",
+      "onboard_time": 1758432080,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188093,
       "num": 289891,
       "word": "你好星期六",
@@ -28987,14 +29003,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 166014,
-      "num": 166014,
-      "word": "张继科点评男乒最强正反手",
-      "onboard_time": 1758431841,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165972,
       "num": 386461,
       "word": "祝老师节日快乐",
@@ -29937,6 +29945,14 @@
       "onboard_time": 1757732243,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162243,
+      "num": 162243,
+      "word": "冰舞",
+      "onboard_time": 1758432322,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 162208,
@@ -34603,6 +34619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145161,
+      "num": 145161,
+      "word": "美国队又重赛了",
+      "onboard_time": 1758432982,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145158,
       "num": 145158,
       "word": "蔡徐坤 谁在纽约",
@@ -35665,14 +35689,6 @@
       "onboard_time": 1758099083,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141871,
-      "num": 141871,
-      "word": "中国花滑米兰冬奥满额参赛",
-      "onboard_time": 1758432080,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 141859,
@@ -36995,12 +37011,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137490,
+      "num": 177657,
+      "word": "孟子义的抽象也是震惊到邓超了",
+      "onboard_time": 1758432501,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "火锅减肥法",
       "onboard_time": 1757820263,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137375,
+      "num": 137375,
+      "word": "蔡文静把花瓶当裙子穿",
+      "onboard_time": 1758432080,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137349,
@@ -39433,6 +39465,14 @@
       "onboard_time": 1758328761,
       "rank": 24,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 130200,
+      "num": 130200,
+      "word": "中国古人早就玩上了高尔夫",
+      "onboard_time": 1758432020,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130144,
@@ -42419,6 +42459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122029,
+      "num": 122029,
+      "word": "外网评论电影731",
+      "onboard_time": 1758431961,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121991,
       "num": 121991,
       "word": "专家称朱婷不用是太大浪费",
@@ -43435,14 +43483,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119020,
-      "num": 119020,
-      "word": "蔡文静把花瓶当裙子穿",
-      "onboard_time": 1758432080,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 119006,
       "num": 119006,
       "word": "在韩游客看到阅兵自豪感拉满",
@@ -43457,14 +43497,6 @@
       "onboard_time": 1757597976,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118984,
-      "num": 118984,
-      "word": "外网评论电影731",
-      "onboard_time": 1758431961,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 118933,
@@ -47883,14 +47915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107326,
-      "num": 107326,
-      "word": "中国古人早就玩上了高尔夫",
-      "onboard_time": 1758432020,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107314,
       "num": 107314,
       "word": "蒯曼平野美宇vs何卓佳刘炜珊",
@@ -51016,6 +51040,14 @@
       "word": "iPhone17哪款是性价比之王",
       "onboard_time": 1758112343,
       "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 98887,
+      "num": 139665,
+      "word": "中国移动上线iPhoneAir页面",
+      "onboard_time": 1758432261,
+      "rank": 39,
       "category": "数码"
     },
     {
@@ -57643,6 +57675,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 70934,
+      "num": 140862,
+      "word": "谢娜被女儿教育了",
+      "onboard_time": 1758433102,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70892,
       "num": 399930,
       "word": "8月每不到1分钟就有辆零跑被开走",
@@ -58913,6 +58953,14 @@
       "onboard_time": 1757149582,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61699,
+      "num": 138302,
+      "word": "南天门计划",
+      "onboard_time": 1758433162,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 61623,
@@ -62521,6 +62569,14 @@
       "onboard_time": 1757736264,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39038,
+      "num": 201462,
+      "word": "新疆绝美配色美到心巴上",
+      "onboard_time": 1758432861,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38928,
