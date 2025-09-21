@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 15:36:24
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 16:28:19
 </p>
 </blockquote>
 <p>
@@ -1715,6 +1715,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%B8%8B%E6%9D%A5%E7%9A%84%E5%8D%A2%E6%98%B1%E6%99%93%23" target="weibo">
 瘦下来的卢昱晓（热度：1347736）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E4%B8%80%E5%8F%A5%E9%81%93%E6%AD%89%E4%BF%AE%E5%A4%8D%E4%B8%8D%E4%BA%86%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%23" target="weibo">
+蔡国强一句道歉修复不了喜马拉雅（热度：1343550）
 </a>
 </li>
 
@@ -5355,6 +5361,12 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%96%E6%B0%B4%E5%A4%A7%E7%88%B7%E5%8D%965%E5%85%83%E4%B8%80%E7%93%B6%23" target="weibo">
+周杰伦演唱会卖水大爷卖5元一瓶（热度：624617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%A4%9C%E5%BD%92%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 子夜归大结局（热度：622866）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%20%E4%BD%BF%E5%91%BD%E5%BF%85%E8%BE%BE%23" target="weibo">
 东风快递 使命必达（热度：566709）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E6%9B%9D%E7%94%A8%E5%BA%9F%E5%BC%83%E7%A9%BA%E7%93%B6%E7%81%8C%E6%B0%B4%E5%8D%96%E6%B8%B8%E5%AE%A2%23" target="weibo">
-老人被曝用废弃空瓶灌水卖游客（热度：565972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%A0%B4%E4%BA%A7%E5%90%8E%E6%AF%8F%E6%9C%88%E9%9C%80%E8%BF%98%E6%AC%BE6%E4%BD%8D%E6%95%B0%23" target="weibo">
-亿万富翁破产后每月需还款6位数（热度：565209）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758443299835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 624617,
+        "num": 1099938,
+        "word": "周杰伦演唱会卖水大爷卖5元一瓶",
+        "onboard_time": 1758437600,
+        "rank": 0,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 612830,
+        "num": 612830,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1758433702,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78652,
+        "num": 600487,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758427701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1552112,
+        "num": 562737,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617153,
+        "num": 515448,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1343550,
+        "num": 487281,
+        "word": "蔡国强一句道歉修复不了喜马拉雅",
+        "onboard_time": 1758436462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473458,
+        "num": 473458,
+        "word": "管乐井迪前男友是同班同学",
+        "onboard_time": 1758439522,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449583,
+        "num": 449583,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1758439641,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 310524,
+        "num": 310524,
+        "word": "女童20楼坠至13楼雨棚众人合力救援",
+        "onboard_time": 1758428240,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 272997,
+        "num": 272997,
+        "word": "祝绪丹说当演员不仅下水还要下跪",
+        "onboard_time": 1758440602,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563119,
+        "num": 272862,
+        "word": "王玉雯看到直播的刘宇宁天都塌了",
+        "onboard_time": 1758438322,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449939,
+        "num": 268342,
+        "word": "宋轶方声明",
+        "onboard_time": 1758438561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378677,
+        "num": 265591,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262480,
+        "num": 262480,
+        "word": "王俊凯我这透明的一生",
+        "onboard_time": 1758437722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257058,
+        "num": 257058,
+        "word": "文章马伊琍大女儿17岁近照",
+        "onboard_time": 1758429981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207572,
+        "num": 207572,
+        "word": "户外品牌集体表态尊重自然",
+        "onboard_time": 1758441862,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205920,
+        "num": 205920,
+        "word": "为什么把房子卖掉 因为买的水被卡住了",
+        "onboard_time": 1758441322,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182944,
+        "num": 182944,
+        "word": "BLG对战TES",
+        "onboard_time": 1758442581,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169003,
+        "num": 169003,
+        "word": "不眠日大结局",
+        "onboard_time": 1758429622,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19580,
+        "num": 168452,
+        "word": "当地回应小区停水用吸污车供水",
+        "onboard_time": 1758442822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287797,
+        "num": 167273,
+        "word": "24岁的张馨予",
+        "onboard_time": 1758440182,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277285,
+        "num": 165510,
+        "word": "始祖鸟 安踏",
+        "onboard_time": 1758423381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207547,
+        "num": 164362,
+        "word": "没到大结局男女主下线了",
+        "onboard_time": 1758440662,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203883,
+        "num": 163149,
+        "word": "蔡国强 始祖鸟",
+        "onboard_time": 1758412640,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176827,
+        "num": 162667,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37203,
+        "num": 161769,
+        "word": "咱的飞行员嘴是真严",
+        "onboard_time": 1758443062,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 160787,
+        "num": 160787,
+        "word": "张继科点评男乒最强正反手",
+        "onboard_time": 1758431841,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160026,
+        "num": 160026,
+        "word": "人民日报评烟花秀事件",
+        "onboard_time": 1758433823,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132930,
+        "num": 158699,
+        "word": "娜扎赴山海大婚造型",
+        "onboard_time": 1758441802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58789,
+        "num": 158381,
+        "word": "班主任一职为何成了烫手山芋",
+        "onboard_time": 1758441502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158168,
+        "num": 158168,
+        "word": "心脉受损后身体的求救信号",
+        "onboard_time": 1758438082,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 290197,
+        "num": 157250,
+        "word": "韩媒验证中国人有首尔病",
+        "onboard_time": 1758442642,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197116,
+        "num": 155458,
+        "word": "有存款和没存款的区别",
+        "onboard_time": 1758442521,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171395,
+        "num": 154693,
+        "word": "何猷君奚梦瑶儿子长大就冯程朗这样",
+        "onboard_time": 1758441502,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152910,
+        "num": 152910,
+        "word": "贵州一殡仪馆花2亿建成后荒废",
+        "onboard_time": 1758440961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142381,
+        "num": 142381,
+        "word": "张晋苏新皓cha了GO",
+        "onboard_time": 1758442281,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140785,
+        "num": 140785,
+        "word": "有一种美叫中国乡村",
+        "onboard_time": 1758440662,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139717,
+        "num": 139717,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 137968,
+        "num": 137968,
+        "word": "赵樱子说明星都羡慕网红带货",
+        "onboard_time": 1758438201,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135980,
+        "num": 135980,
+        "word": "始祖鸟外网道歉被指甩锅中国团队",
+        "onboard_time": 1758426321,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29697,
+        "num": 132916,
+        "word": "偶遇王星越排队嗦粉",
+        "onboard_time": 1758442042,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131684,
+        "num": 131684,
+        "word": "最爱的奶fufu美食",
+        "onboard_time": 1758442581,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120853,
+        "num": 120853,
+        "word": "始祖鸟致歉",
+        "onboard_time": 1758413479,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118603,
+        "num": 118603,
+        "word": "明星网红撞到路人的反应",
+        "onboard_time": 1758437901,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113348,
+        "num": 113348,
+        "word": "李维嘉问董璇为什么不和女儿说实话",
+        "onboard_time": 1758424162,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94725,
+        "num": 112796,
+        "word": "王安宇你让我很陌生",
+        "onboard_time": 1758441802,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112722,
+        "num": 112722,
+        "word": "王俊凯26岁生日照",
+        "onboard_time": 1758410598,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110778,
+        "num": 110778,
+        "word": "开始转发就是起床了",
+        "onboard_time": 1758443180,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108122,
+        "num": 108122,
+        "word": "怒海潜沙也重拍了",
+        "onboard_time": 1758439641,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107784,
+        "num": 107784,
+        "word": "嵩山一景区巨型蛇头已被覆盖",
+        "onboard_time": 1758420382,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}
