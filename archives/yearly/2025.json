@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1758419908706,
+  "endTime": 1758421208361,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1363,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9470454,
+      "num": 9470454,
+      "word": "官方通报蔡国强烟花秀",
+      "onboard_time": 1758411318,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9461281,
       "num": 9461281,
       "word": "柯洁不比了",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1739775141,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 9152802,
-      "num": 9152802,
-      "word": "官方通报蔡国强烟花秀",
-      "onboard_time": 1758411318,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9150504,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8187804,
+      "num": 8187804,
+      "word": "蔡国强致歉",
+      "onboard_time": 1758414080,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8172671,
       "num": 8172671,
       "word": "于朦胧后事已处理完",
@@ -1705,14 +1713,6 @@
       "onboard_time": 1738584151,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7920134,
-      "num": 7920134,
-      "word": "蔡国强致歉",
-      "onboard_time": 1758414080,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7910146,
