@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758468992546,
+  "endTime": 1758472076416,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -803,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267777,
+      "num": 173847,
+      "word": "长租15年不到1年就被劝退",
+      "onboard_time": 1758466586,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267504,
       "num": 267504,
       "word": "为什么把房子卖掉 因为买的水被卡住了",
@@ -1075,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211388,
+      "num": 171804,
+      "word": "张子墨伴手礼",
+      "onboard_time": 1758468624,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209256,
       "num": 246039,
       "word": "成毅李一桐新剧快了",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1758457402,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191781,
+      "num": 191781,
+      "word": "中介雇人看房砍价60万搞崩房东心态",
+      "onboard_time": 1758468684,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191777,
@@ -1523,14 +1547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173847,
-      "num": 173847,
-      "word": "长租15年不到1年就被劝退",
-      "onboard_time": 1758466586,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173592,
       "num": 176566,
       "word": "周云杰称正探索AI陪伴机器人",
@@ -1635,12 +1651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166320,
+      "num": 166320,
+      "word": "蜜雪冰城门店疯狂抢柠檬",
+      "onboard_time": 1758468444,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165122,
       "num": 152880,
       "word": "英媒称中国出口导弹标低射程",
       "onboard_time": 1758448882,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164509,
+      "num": 105192,
+      "word": "巴菲特清仓比亚迪",
+      "onboard_time": 1758469943,
+      "rank": 30,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 162802,
@@ -1843,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152555,
+      "num": 152555,
+      "word": "桦加沙",
+      "onboard_time": 1758466764,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151396,
       "num": 151396,
       "word": "这房子真的让人眼前一亮又一亮",
@@ -1953,14 +1993,6 @@
       "onboard_time": 1758432982,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145003,
-      "num": 145003,
-      "word": "张子墨伴手礼",
-      "onboard_time": 1758468624,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 143838,
@@ -2260,7 +2292,7 @@
     },
     {
       "raw_hot": 127699,
-      "num": 127699,
+      "num": 152579,
       "word": "周杰伦演唱会",
       "onboard_time": 1758468204,
       "rank": 41,
@@ -2691,14 +2723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110286,
-      "num": 110286,
-      "word": "桦加沙",
-      "onboard_time": 1758466764,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109994,
       "num": 109994,
       "word": "王曼昱 敷尔佳",
@@ -2737,6 +2761,22 @@
       "onboard_time": 1758458483,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105337,
+      "num": 146745,
+      "word": "台风桦加沙到哪了",
+      "onboard_time": 1758467245,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105185,
+      "num": 105185,
+      "word": "年轻人也开始记忆力下降",
+      "onboard_time": 1758469943,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105005,
@@ -2801,14 +2841,6 @@
       "onboard_time": 1758436462,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99165,
-      "num": 128258,
-      "word": "蜜雪冰城门店疯狂抢柠檬",
-      "onboard_time": 1758468444,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98887,
@@ -2971,20 +3003,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 89295,
-      "num": 146745,
-      "word": "台风桦加沙到哪了",
-      "onboard_time": 1758467245,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88989,
       "num": 88989,
       "word": "多款iPhone17回收价破发",
       "onboard_time": 1758416542,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88506,
+      "num": 178204,
+      "word": "00后女子醉驾撞死3人案将开庭",
+      "onboard_time": 1758467786,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87849,
@@ -3043,6 +3075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83151,
+      "num": 105193,
+      "word": "刘宪华的trap是观众的尖叫开关",
+      "onboard_time": 1758469822,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 83135,
       "num": 83135,
       "word": "蔡徐坤新歌",
@@ -3091,6 +3131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 80783,
+      "num": 91441,
+      "word": "蔡徐坤把音乐节嗨成演唱会",
+      "onboard_time": 1758471260,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 80384,
       "num": 89404,
       "word": "李兰陵结婚",
@@ -3129,6 +3177,14 @@
       "onboard_time": 1758410897,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76921,
+      "num": 91347,
+      "word": "和人打交道时不必过度分析对方",
+      "onboard_time": 1758471321,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 74739,
@@ -3185,6 +3241,14 @@
       "onboard_time": 1758439461,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68137,
+      "num": 91305,
+      "word": "向往的生活gap了一下",
+      "onboard_time": 1758471741,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 66194,
@@ -3321,14 +3385,6 @@
       "onboard_time": 1758461782,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 47974,
-      "num": 167163,
-      "word": "中介雇人看房砍价60万搞崩房东心态",
-      "onboard_time": 1758468684,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47674,
@@ -3609,14 +3665,6 @@
       "onboard_time": 1758396015,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11724,
-      "num": 178204,
-      "word": "00后女子醉驾撞死3人案将开庭",
-      "onboard_time": 1758467786,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11470,
