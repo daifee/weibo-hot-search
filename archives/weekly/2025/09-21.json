@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758472076416,
+  "endTime": 1758472931510,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -707,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307907,
+      "num": 184892,
+      "word": "长租15年不到1年就被劝退",
+      "onboard_time": 1758466586,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303280,
       "num": 280695,
       "word": "空腹吃主食的危害",
@@ -801,14 +809,6 @@
       "onboard_time": 1758454403,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267777,
-      "num": 173847,
-      "word": "长租15年不到1年就被劝退",
-      "onboard_time": 1758466586,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267504,
@@ -1084,7 +1084,7 @@
     },
     {
       "raw_hot": 211388,
-      "num": 171804,
+      "num": 176951,
       "word": "张子墨伴手礼",
       "onboard_time": 1758468624,
       "rank": 32,
@@ -1155,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204279,
+      "num": 204279,
+      "word": "蜜雪冰城门店疯狂抢柠檬",
+      "onboard_time": 1758468444,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204058,
       "num": 186118,
       "word": "黄圣依戴了自己设计的项链",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1758421582,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200762,
+      "num": 200762,
+      "word": "中介雇人看房砍价60万搞崩房东心态",
+      "onboard_time": 1758468684,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200102,
@@ -1313,14 +1329,6 @@
       "onboard_time": 1758457402,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191781,
-      "num": 191781,
-      "word": "中介雇人看房砍价60万搞崩房东心态",
-      "onboard_time": 1758468684,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191777,
@@ -1649,14 +1657,6 @@
       "onboard_time": 1758437901,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166320,
-      "num": 166320,
-      "word": "蜜雪冰城门店疯狂抢柠檬",
-      "onboard_time": 1758468444,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165122,
@@ -2851,6 +2851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98188,
+      "num": 105193,
+      "word": "刘宪华的trap是观众的尖叫开关",
+      "onboard_time": 1758469822,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98074,
       "num": 98074,
       "word": "林俊杰音乐节 激光笔",
@@ -3003,6 +3011,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 89123,
+      "num": 102750,
+      "word": "向往的生活gap了一下",
+      "onboard_time": 1758471741,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88989,
       "num": 88989,
       "word": "多款iPhone17回收价破发",
@@ -3075,14 +3091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83151,
-      "num": 105193,
-      "word": "刘宪华的trap是观众的尖叫开关",
-      "onboard_time": 1758469822,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 83135,
       "num": 83135,
       "word": "蔡徐坤新歌",
@@ -3132,7 +3140,7 @@
     },
     {
       "raw_hot": 80783,
-      "num": 91441,
+      "num": 97462,
       "word": "蔡徐坤把音乐节嗨成演唱会",
       "onboard_time": 1758471260,
       "rank": 38,
@@ -3163,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79781,
+      "num": 98012,
+      "word": "陶喆演唱会",
+      "onboard_time": 1758471559,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 79261,
       "num": 79841,
       "word": "6个人里有7个人不对劲",
@@ -3180,7 +3196,7 @@
     },
     {
       "raw_hot": 76921,
-      "num": 91347,
+      "num": 97555,
       "word": "和人打交道时不必过度分析对方",
       "onboard_time": 1758471321,
       "rank": 45,
@@ -3243,14 +3259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68137,
-      "num": 91305,
-      "word": "向往的生活gap了一下",
-      "onboard_time": 1758471741,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 66194,
       "num": 69487,
       "word": "无畏契约",
@@ -3273,6 +3281,14 @@
       "onboard_time": 1758420082,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62764,
+      "num": 97791,
+      "word": "黄子弘凡手捧煤球饺子蘸醋",
+      "onboard_time": 1758472640,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 62058,
@@ -3369,6 +3385,14 @@
       "onboard_time": 1758380784,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 51821,
+      "num": 97427,
+      "word": "李荣浩 演唱会就像辣椒炒肉里的白糖",
+      "onboard_time": 1758470181,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 51337,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/22 00:27:56 ~ 2025/09/22 00:27:56
+本榜单时间：2025/09/22 00:27:56 ~ 2025/09/22 00:42:11
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%BC%BA%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD%23" target="weibo">
-今年以来最强台风来袭（热度：506018）
+今年以来最强台风来袭（热度：528724）
 </a>
 </li>
 
@@ -64,7 +64,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%A7%9F15%E5%B9%B4%E4%B8%8D%E5%88%B01%E5%B9%B4%E5%B0%B1%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
-长租15年不到1年就被劝退（热度：267777）
+长租15年不到1年就被劝退（热度：307907）
 </a>
 </li>
 
@@ -81,8 +81,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%97%A8%E5%BA%97%E7%96%AF%E7%8B%82%E6%8A%A2%E6%9F%A0%E6%AA%AC%23" target="weibo">
+蜜雪冰城门店疯狂抢柠檬（热度：204279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BB%8B%E9%9B%87%E4%BA%BA%E7%9C%8B%E6%88%BF%E7%A0%8D%E4%BB%B760%E4%B8%87%E6%90%9E%E5%B4%A9%E6%88%BF%E4%B8%9C%E5%BF%83%E6%80%81%23" target="weibo">
-中介雇人看房砍价60万搞崩房东心态（热度：191781）
+中介雇人看房砍价60万搞崩房东心态（热度：200762）
 </a>
 </li>
 
@@ -101,12 +107,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%A7%E7%88%B6%E7%A7%B0%E7%BB%A7%E5%AD%90%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E8%B7%9F%E6%88%91%E6%98%AF%E4%B8%80%E6%9D%A1%E5%BF%83%23" target="weibo">
 继父称继子永远不会跟我是一条心（热度：171270）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%97%A8%E5%BA%97%E7%96%AF%E7%8B%82%E6%8A%A2%E6%9F%A0%E6%AA%AC%23" target="weibo">
-蜜雪冰城门店疯狂抢柠檬（热度：166320）
 </a>
 </li>
 
@@ -136,7 +136,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%83%AD%E5%B7%B4%E5%B0%86%E5%BD%95%E5%88%B6%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%23" target="weibo">
-网传热巴将录制向往的生活（热度：143396）
+网传热巴将录制向往的生活（热度：146318）
 </a>
 </li>
 
@@ -201,6 +201,12 @@ BLG夺冠（热度：112103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E7%9A%84trap%E6%98%AF%E8%A7%82%E4%BC%97%E7%9A%84%E5%B0%96%E5%8F%AB%E5%BC%80%E5%85%B3%23" target="weibo">
+刘宪华的trap是观众的尖叫开关（热度：98188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%9C%A0%E6%97%A5%23" target="weibo">
 不眠日（热度：95561）
 </a>
@@ -219,6 +225,12 @@ BLG夺冠（热度：112103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BBgap%E4%BA%86%E4%B8%80%E4%B8%8B%23" target="weibo">
+向往的生活gap了一下（热度：89123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%23" target="weibo">
 官方通报蔡国强烟花秀（热度：88598）
 </a>
@@ -227,12 +239,6 @@ BLG夺冠（热度：112103）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%90%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB3%E4%BA%BA%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23" target="weibo">
 00后女子醉驾撞死3人案将开庭（热度：88506）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E7%9A%84trap%E6%98%AF%E8%A7%82%E4%BC%97%E7%9A%84%E5%B0%96%E5%8F%AB%E5%BC%80%E5%85%B3%23" target="weibo">
-刘宪华的trap是观众的尖叫开关（热度：83151）
 </a>
 </li>
 
@@ -257,6 +263,12 @@ iG冒泡赛（热度：81492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%23" target="weibo">
 预制菜国家标准（热度：80732）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%96%86%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+陶喆演唱会（热度：79781）
 </a>
 </li>
 
@@ -303,8 +315,26 @@ iG冒泡赛（热度：81492）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BBgap%E4%BA%86%E4%B8%80%E4%B8%8B%23" target="weibo">
-向往的生活gap了一下（热度：68137）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%89%8B%E6%8D%A7%E7%85%A4%E7%90%83%E9%A5%BA%E5%AD%90%E8%98%B8%E9%86%8B%23" target="weibo">
+黄子弘凡手捧煤球饺子蘸醋（热度：62764）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%23" target="weibo">
+蔡国强（热度：56102）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E5%86%9B%E7%8A%AC%E6%B2%A1%E5%BF%8D%E4%BD%8F%23" target="weibo">
+墨西哥阅兵现场军犬没忍住（热度：54890）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%20%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%B1%E5%83%8F%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89%E9%87%8C%E7%9A%84%E7%99%BD%E7%B3%96%23" target="weibo">
+李荣浩 演唱会就像辣椒炒肉里的白糖（热度：51821）
 </a>
 </li>
 
@@ -323,6 +353,12 @@ iG冒泡赛（热度：81492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%92%E6%88%90%E5%B0%B1%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3%23%23" target="weibo">
 #中美双方可以相互成就共同繁荣#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B0%88%E5%88%B6%E9%80%A0%E4%B8%9A%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23%23" target="weibo">
+#总书记谈制造业高质量发展#
 </a>
 </li>
 
