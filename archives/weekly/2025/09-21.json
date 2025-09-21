@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758496929048,
+  "endTime": 1758497793882,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -217,6 +217,14 @@
       "onboard_time": 1758382342,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 848621,
+      "num": 346083,
+      "word": "王俊凯回复王源易烊千玺",
+      "onboard_time": 1758497659,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 827836,
@@ -707,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320333,
+      "num": 320333,
+      "word": "美以拦不住了",
+      "onboard_time": 1758467245,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320064,
       "num": 129269,
       "word": "原来牙齿与寿命有关系",
@@ -721,14 +737,6 @@
       "onboard_time": 1758369862,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306992,
-      "num": 306992,
-      "word": "美以拦不住了",
-      "onboard_time": 1758467245,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 306991,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 280494,
-      "num": 155677,
+      "num": 191669,
       "word": "始祖鸟",
       "onboard_time": 1758355881,
       "rank": 21,
@@ -1051,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226129,
+      "num": 226129,
+      "word": "中介雇人看房砍价60万搞崩房东心态",
+      "onboard_time": 1758468684,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224479,
       "num": 234934,
       "word": "蔡国强烟花秀区域具有显著脆弱性",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1758421582,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200762,
-      "num": 200762,
-      "word": "中介雇人看房砍价60万搞崩房东心态",
-      "onboard_time": 1758468684,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200102,
@@ -2323,6 +2331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127413,
+      "num": 127413,
+      "word": "王冕官宣怀孕",
+      "onboard_time": 1758497781,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127308,
       "num": 118075,
       "word": "高中生10元成本净赚120的一天",
@@ -3307,12 +3323,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62125,
+      "num": 62125,
+      "word": "始祖鸟回应道歉信版本不一样",
+      "onboard_time": 1758497781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62058,
       "num": 147300,
       "word": "贵州136人因食物中毒住院",
       "onboard_time": 1758460043,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60018,
+      "num": 60018,
+      "word": "特朗普将出席柯克追悼会",
+      "onboard_time": 1758497720,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59139,
@@ -3403,6 +3435,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 53370,
+      "num": 53370,
+      "word": "阿森纳1比1曼城",
+      "onboard_time": 1758497540,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52645,
       "num": 52645,
       "word": "男子编造3000条谣言抹黑车企被刑拘",
@@ -3417,6 +3457,14 @@
       "onboard_time": 1758380784,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 51452,
+      "num": 50081,
+      "word": "广东多地或将停课",
+      "onboard_time": 1758497540,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51337,
@@ -3459,7 +3507,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47112,
+      "raw_hot": 47139,
       "num": 57648,
       "word": "网曝老师体罚学生反复深蹲超5分钟",
       "onboard_time": 1758489315,
@@ -3473,6 +3521,14 @@
       "onboard_time": 1758445282,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 45817,
+      "num": 65565,
+      "word": "2025年大湾区电影音乐晚会",
+      "onboard_time": 1758494536,
+      "rank": 29,
+      "category": "电影,音乐"
     },
     {
       "raw_hot": 44470,
@@ -3497,6 +3553,14 @@
       "onboard_time": 1758376883,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43414,
+      "num": 57534,
+      "word": "飞机到底应不应该锁座",
+      "onboard_time": 1758481034,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42947,
@@ -3531,14 +3595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39756,
-      "num": 57728,
-      "word": "2025年大湾区电影音乐晚会",
-      "onboard_time": 1758494536,
-      "rank": 29,
-      "category": "电影,音乐"
-    },
-    {
       "raw_hot": 39304,
       "num": 151696,
       "word": "放错地的烟花秀再美也是破坏",
@@ -3552,14 +3608,6 @@
       "word": "新疆绝美配色美到心巴上",
       "onboard_time": 1758432861,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37220,
-      "num": 57534,
-      "word": "飞机到底应不应该锁座",
-      "onboard_time": 1758481034,
-      "rank": 20,
       "category": "民生新闻"
     },
     {

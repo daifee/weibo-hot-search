@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758496929048,
+  "endTime": 1758497793882,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4721,6 +4721,14 @@
       "onboard_time": 1758018624,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 848621,
+      "num": 346083,
+      "word": "王俊凯回复王源易烊千玺",
+      "onboard_time": 1758497659,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 848380,
@@ -15299,6 +15307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 320333,
+      "num": 320333,
+      "word": "美以拦不住了",
+      "onboard_time": 1758467245,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320198,
       "num": 287805,
       "word": "中国方便面打入美国监狱",
@@ -15785,14 +15801,6 @@
       "onboard_time": 1757511924,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306992,
-      "num": 306992,
-      "word": "美以拦不住了",
-      "onboard_time": 1758467245,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 306991,
@@ -20307,6 +20315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226129,
+      "num": 226129,
+      "word": "中介雇人看房砍价60万搞崩房东心态",
+      "onboard_time": 1758468684,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225952,
       "num": 225952,
       "word": "娱乐圈终于开始拍查税剧了",
@@ -23137,14 +23153,6 @@
       "onboard_time": 1756960044,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200762,
-      "num": 200762,
-      "word": "中介雇人看房砍价60万搞崩房东心态",
-      "onboard_time": 1758468684,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200732,
@@ -41816,6 +41824,14 @@
       "word": "迪丽热巴说尝试比完美更重要",
       "onboard_time": 1756645282,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127413,
+      "num": 127413,
+      "word": "王冕官宣怀孕",
+      "onboard_time": 1758497781,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -60595,6 +60611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62125,
+      "num": 62125,
+      "word": "始祖鸟回应道歉信版本不一样",
+      "onboard_time": 1758497781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62102,
       "num": 165309,
       "word": "以防你没见过这个海绵宝宝",
@@ -61017,6 +61041,14 @@
       "onboard_time": 1757803215,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60018,
+      "num": 60018,
+      "word": "特朗普将出席柯克追悼会",
+      "onboard_time": 1758497720,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59985,
@@ -62171,6 +62203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53370,
+      "num": 53370,
+      "word": "阿森纳1比1曼城",
+      "onboard_time": 1758497540,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53326,
       "num": 53326,
       "word": "出生没多久确诊雷特综合征",
@@ -62489,6 +62529,14 @@
       "onboard_time": 1757458638,
       "rank": 48,
       "category": "教育,读书作家"
+    },
+    {
+      "raw_hot": 51452,
+      "num": 50081,
+      "word": "广东多地或将停课",
+      "onboard_time": 1758497540,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51388,
@@ -63227,7 +63275,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47112,
+      "raw_hot": 47139,
       "num": 57648,
       "word": "网曝老师体罚学生反复深蹲超5分钟",
       "onboard_time": 1758489315,
@@ -63441,6 +63489,14 @@
       "onboard_time": 1757169683,
       "rank": 18,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 45817,
+      "num": 65565,
+      "word": "2025年大湾区电影音乐晚会",
+      "onboard_time": 1758494536,
+      "rank": 29,
+      "category": "电影,音乐"
     },
     {
       "raw_hot": 45777,
@@ -63721,6 +63777,14 @@
       "onboard_time": 1757578955,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43414,
+      "num": 57534,
+      "word": "飞机到底应不应该锁座",
+      "onboard_time": 1758481034,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43407,
@@ -64315,14 +64379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39756,
-      "num": 57728,
-      "word": "2025年大湾区电影音乐晚会",
-      "onboard_time": 1758494536,
-      "rank": 29,
-      "category": "电影,音乐"
-    },
-    {
       "raw_hot": 39715,
       "num": 163603,
       "word": "柯克是特朗普长子的密友",
@@ -64649,14 +64705,6 @@
       "onboard_time": 1756746616,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37220,
-      "num": 57534,
-      "word": "飞机到底应不应该锁座",
-      "onboard_time": 1758481034,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37190,
