@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758437176664,
+  "endTime": 1758439261647,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359613,
+      "num": 359613,
+      "word": "王玉雯看到直播的刘宇宁天都塌了",
+      "onboard_time": 1758438322,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358246,
       "num": 358246,
       "word": "官方通报喜马拉雅山放烟花",
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305618,
+      "num": 305618,
+      "word": "蔡国强一句道歉修复不了喜马拉雅",
+      "onboard_time": 1758436462,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303280,
       "num": 280695,
       "word": "空腹吃主食的危害",
@@ -393,6 +409,14 @@
       "onboard_time": 1758420803,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286771,
+      "num": 286771,
+      "word": "宋轶方声明",
+      "onboard_time": 1758438561,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 284719,
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263525,
+      "num": 263525,
+      "word": "人民日报评烟花秀事件",
+      "onboard_time": 1758433823,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258802,
       "num": 294935,
       "word": "李昀锐帮孟子义系披风路透",
@@ -467,12 +499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 241841,
-      "num": 241841,
-      "word": "人民日报评烟花秀事件",
-      "onboard_time": 1758433823,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 241611,
+      "num": 222434,
+      "word": "周杰伦演唱会卖水大爷卖5元一瓶",
+      "onboard_time": 1758437600,
+      "rank": 13,
+      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 240765,
@@ -560,6 +592,14 @@
       "word": "王俊凯的生日碎碎念",
       "onboard_time": 1758385942,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207277,
+      "num": 207277,
+      "word": "王俊凯我这透明的一生",
+      "onboard_time": 1758437722,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -747,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173456,
+      "num": 173456,
+      "word": "黄子韬徐艺洋出现在黄誉博大屏",
+      "onboard_time": 1758438920,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172054,
       "num": 172054,
       "word": "加沙",
@@ -763,6 +811,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168145,
+      "num": 168145,
+      "word": "GEN对战T1",
+      "onboard_time": 1758438680,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 166914,
+      "num": 166914,
+      "word": "明星网红撞到路人的反应",
+      "onboard_time": 1758437901,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163021,
+      "num": 163021,
+      "word": "心脉受损后身体的求救信号",
+      "onboard_time": 1758438082,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 162802,
       "num": 162802,
       "word": "咱们家风扇坏了当事人今日结婚",
@@ -777,14 +849,6 @@
       "onboard_time": 1758432322,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161065,
-      "num": 147812,
-      "word": "蔡国强一句道歉修复不了喜马拉雅",
-      "onboard_time": 1758436462,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159676,
@@ -843,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157301,
+      "num": 223962,
+      "word": "青藏高原生态保护法有明文规定",
+      "onboard_time": 1758436161,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156471,
       "num": 156471,
       "word": "731上映3天票房破10亿",
@@ -875,6 +947,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 153758,
+      "num": 153758,
+      "word": "偷偷藏不住再版",
+      "onboard_time": 1758438501,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 148774,
       "num": 181982,
       "word": "中企回应在非洲遭800亿美元天价索赔",
@@ -883,12 +963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147755,
+      "num": 147755,
+      "word": "月薪3万vs月薪3千",
+      "onboard_time": 1758438201,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147185,
       "num": 147185,
       "word": "以为是蔡国庆",
       "onboard_time": 1758420681,
       "rank": 41,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 147087,
+      "num": 147087,
+      "word": "43岁二胎妈妈患阿尔茨海默病",
+      "onboard_time": 1758436881,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145883,
@@ -947,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138243,
+      "num": 197046,
+      "word": "今日双超强台风罕见同现",
+      "onboard_time": 1758436701,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137490,
       "num": 177657,
       "word": "孟子义的抽象也是震惊到邓超了",
@@ -969,14 +1073,6 @@
       "onboard_time": 1758432020,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130198,
-      "num": 130198,
-      "word": "青藏高原生态保护法有明文规定",
-      "onboard_time": 1758436161,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127929,
@@ -1003,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126208,
+      "num": 126208,
+      "word": "成毅给张智霖介绍应渊",
+      "onboard_time": 1758437062,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124427,
       "num": 156556,
       "word": "成毅把杨迪吴泽林吓了一跳又一跳",
@@ -1025,6 +1129,22 @@
       "onboard_time": 1758384081,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123346,
+      "num": 123346,
+      "word": "陈德容内耗不了一点",
+      "onboard_time": 1758438382,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123247,
+      "num": 123247,
+      "word": "蔡徐坤音乐节",
+      "onboard_time": 1758439101,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 123136,
@@ -1105,6 +1225,14 @@
       "onboard_time": 1758430581,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119663,
+      "num": 119663,
+      "word": "只有P图的人才懂他有多强",
+      "onboard_time": 1758438920,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 118560,
@@ -1195,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111145,
+      "num": 111145,
+      "word": "小猫猫 这衣服欺负我",
+      "onboard_time": 1758438982,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110565,
       "num": 110565,
       "word": "学生宿舍内厕所半敞开实在太离谱",
@@ -1243,28 +1379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101061,
-      "num": 101061,
-      "word": "43岁二胎妈妈患阿尔茨海默病",
-      "onboard_time": 1758436881,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99860,
       "num": 99860,
       "word": "庆怜时装周天崩开局",
       "onboard_time": 1758436462,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99762,
-      "num": 99762,
-      "word": "成毅给张智霖介绍应渊",
-      "onboard_time": 1758437062,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 98887,
@@ -1507,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79928,
-      "num": 197046,
-      "word": "今日双超强台风罕见同现",
-      "onboard_time": 1758436701,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79840,
       "num": 79839,
       "word": "动物园回应小象宝宝不会用鼻子",
@@ -1577,6 +1689,14 @@
       "onboard_time": 1758375685,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68506,
+      "num": 138384,
+      "word": "赵樱子说明星都羡慕网红带货",
+      "onboard_time": 1758438201,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 66194,
@@ -1715,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32953,
+      "num": 197272,
+      "word": "乐见潮向音乐节神图来了",
+      "onboard_time": 1758436522,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32347,
       "num": 52674,
       "word": "不眠日 乌贼",
@@ -1723,12 +1851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31936,
+      "num": 138279,
+      "word": "胡锡进说始祖鸟团队不懂互联网",
+      "onboard_time": 1758438621,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30510,
       "num": 44964,
       "word": "南京被泰州封零",
       "onboard_time": 1758409878,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29752,
+      "num": 138703,
+      "word": "网红黄子诚向黄子韬道歉",
+      "onboard_time": 1758438442,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 29359,
@@ -1745,14 +1889,6 @@
       "onboard_time": 1758402673,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28140,
-      "num": 196583,
-      "word": "乐见潮向音乐节神图来了",
-      "onboard_time": 1758436522,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 27804,
