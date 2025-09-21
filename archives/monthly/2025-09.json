@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758461916830,
+  "endTime": 1758464486601,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -57,6 +57,14 @@
       "onboard_time": 1756828941,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16818045,
+      "num": 532562,
+      "word": "警方通报于朦胧坠楼",
+      "onboard_time": 1758462265,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 15819267,
@@ -319,6 +327,14 @@
       "num": 887036,
       "word": "黄景瑜前妻 俩孩子一个被他打没了",
       "onboard_time": 1757430924,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3419932,
+      "num": 413415,
+      "word": "警方查处涉于朦胧坠楼谣言",
+      "onboard_time": 1758463767,
       "rank": 10,
       "category": "艺人"
     },
@@ -5172,7 +5188,7 @@
     },
     {
       "raw_hot": 804724,
-      "num": 312848,
+      "num": 376108,
       "word": "黄灿灿 张振",
       "onboard_time": 1758459803,
       "rank": 12,
@@ -5412,7 +5428,7 @@
     },
     {
       "raw_hot": 784275,
-      "num": 784275,
+      "num": 1118913,
       "word": "陈乔恩回应要不要小孩",
       "onboard_time": 1758457521,
       "rank": 13,
@@ -7513,6 +7529,14 @@
       "onboard_time": 1757897842,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606503,
+      "num": 606503,
+      "word": "今年以来最强台风来袭",
+      "onboard_time": 1758462444,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 605801,
@@ -13915,6 +13939,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 356532,
+      "num": 356532,
+      "word": "安踏回应始祖鸟炸山风波",
+      "onboard_time": 1758463287,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356435,
       "num": 356435,
       "word": "白敬亭文咏珊不眠日吻戏",
@@ -16235,6 +16267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 294137,
+      "num": 294137,
+      "word": "张晚意 音乐节",
+      "onboard_time": 1758459863,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 294118,
       "num": 445555,
       "word": "在周深杭州演唱会刮刮乐中了20万",
@@ -17819,6 +17859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 261615,
+      "num": 261615,
+      "word": "漂浮群岛",
+      "onboard_time": 1758462569,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261493,
       "num": 261493,
       "word": "日本神户鱼景厕所",
@@ -18219,20 +18267,20 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 254383,
+      "num": 254383,
+      "word": "iG冒泡赛",
+      "onboard_time": 1758462507,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254196,
       "num": 324500,
       "word": "打工人摸鱼痕迹留了1800年",
       "onboard_time": 1758031652,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253825,
-      "num": 253825,
-      "word": "张晚意 音乐节",
-      "onboard_time": 1758459863,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 253734,
@@ -18473,6 +18521,14 @@
       "onboard_time": 1756947503,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 249377,
+      "num": 257432,
+      "word": "肖战任少白路透",
+      "onboard_time": 1758462265,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 249242,
@@ -20283,6 +20339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224479,
+      "num": 234934,
+      "word": "蔡国强烟花秀区域具有显著脆弱性",
+      "onboard_time": 1758453202,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224476,
       "num": 224476,
       "word": "BLG对战JDG",
@@ -20905,6 +20969,14 @@
       "onboard_time": 1757727621,
       "rank": 32,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 217154,
+      "num": 424761,
+      "word": "广东做好巨灾防御准备",
+      "onboard_time": 1758447802,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217085,
@@ -22473,6 +22545,14 @@
       "onboard_time": 1757563001,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203167,
+      "num": 203167,
+      "word": "吴易昺晋级杭州赛四强",
+      "onboard_time": 1758463349,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 203101,
@@ -25339,14 +25419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188693,
-      "num": 234934,
-      "word": "蔡国强烟花秀区域具有显著脆弱性",
-      "onboard_time": 1758453202,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188653,
       "num": 188653,
       "word": "罗永浩回应西贝品牌负责人",
@@ -25947,6 +26019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185542,
+      "num": 185542,
+      "word": "Knight刷新LPL冠军纪录",
+      "onboard_time": 1758462867,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185516,
       "num": 185516,
       "word": "F1",
@@ -26521,6 +26601,14 @@
       "onboard_time": 1757686768,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182336,
+      "num": 182336,
+      "word": "针孔摄像头比我们想象的还要小",
+      "onboard_time": 1758463527,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182300,
@@ -27987,6 +28075,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 173592,
+      "num": 173592,
+      "word": "周云杰称正探索AI陪伴机器人",
+      "onboard_time": 1758463287,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173570,
       "num": 173570,
       "word": "月入1万已经能生活得非常好了",
@@ -28089,6 +28185,14 @@
       "onboard_time": 1758017903,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173269,
+      "num": 173269,
+      "word": "张真源晒四川自驾游vlog",
+      "onboard_time": 1758463588,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 173231,
@@ -28241,6 +28345,14 @@
       "onboard_time": 1757440456,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172702,
+      "num": 172702,
+      "word": "继父称继子永远不会跟我是一条心",
+      "onboard_time": 1758463527,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172688,
@@ -30747,6 +30859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161594,
+      "num": 161594,
+      "word": "陈楚生是不是偷偷报班了",
+      "onboard_time": 1758462627,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161581,
       "num": 161581,
       "word": "Lululemon中产神裤卖不动了",
@@ -32219,6 +32339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155784,
+      "num": 155784,
+      "word": "凡希亚看邓紫棋演唱会",
+      "onboard_time": 1758464306,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155745,
       "num": 175982,
       "word": "刘诗雯晒阅兵照",
@@ -32891,6 +33019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153350,
+      "num": 153350,
+      "word": "吴磊嫩回18岁黎簇时期",
+      "onboard_time": 1758464066,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153348,
       "num": 153348,
       "word": "恋与制作人",
@@ -33361,6 +33497,14 @@
       "onboard_time": 1757150421,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151396,
+      "num": 151396,
+      "word": "这房子真的让人眼前一亮又一亮",
+      "onboard_time": 1758460403,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 151367,
@@ -35881,6 +36025,14 @@
       "onboard_time": 1757390962,
       "rank": 45,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 143553,
+      "num": 143553,
+      "word": "Shad0wo头发长回来了",
+      "onboard_time": 1758464248,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 143547,
@@ -39369,14 +39521,6 @@
       "onboard_time": 1757501001,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133190,
-      "num": 133190,
-      "word": "广东做好巨灾防御准备",
-      "onboard_time": 1758447802,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133186,
@@ -43985,6 +44129,14 @@
       "onboard_time": 1756855279,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120796,
+      "num": 120796,
+      "word": "邓紫棋 从此在大场面我不再站旁边",
+      "onboard_time": 1758463167,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 120721,
@@ -64571,6 +64723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34067,
+      "num": 547991,
+      "word": "这届东博会太AI了",
+      "onboard_time": 1758462627,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34066,
       "num": 190752,
       "word": "预制菜批发商客户涉多家连锁餐厅",
@@ -66729,6 +66889,14 @@
       "onboard_time": 1756849814,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18611,
+      "num": 155170,
+      "word": "Knight有我就有冠军",
+      "onboard_time": 1758463826,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 18490,

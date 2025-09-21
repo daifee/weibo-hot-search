@@ -1,7 +1,15 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758461916830,
+  "endTime": 1758464486601,
   "band_list": [
+    {
+      "raw_hot": 16818045,
+      "num": 532562,
+      "word": "警方通报于朦胧坠楼",
+      "onboard_time": 1758462265,
+      "rank": 5,
+      "category": "艺人"
+    },
     {
       "raw_hot": 9470454,
       "num": 9470454,
@@ -17,6 +25,14 @@
       "onboard_time": 1758414080,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3419932,
+      "num": 413415,
+      "word": "警方查处涉于朦胧坠楼谣言",
+      "onboard_time": 1758463767,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2613697,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 804724,
-      "num": 312848,
+      "num": 376108,
       "word": "黄灿灿 张振",
       "onboard_time": 1758459803,
       "rank": 12,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 784275,
-      "num": 784275,
+      "num": 1118913,
       "word": "陈乔恩回应要不要小孩",
       "onboard_time": 1758457521,
       "rank": 13,
@@ -345,6 +361,14 @@
       "onboard_time": 1758423501,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606503,
+      "num": 606503,
+      "word": "今年以来最强台风来袭",
+      "onboard_time": 1758462444,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596683,
@@ -587,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356532,
+      "num": 356532,
+      "word": "安踏回应始祖鸟炸山风波",
+      "onboard_time": 1758463287,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352376,
       "num": 352376,
       "word": "张继科点评男乒最强正反手",
@@ -649,6 +681,14 @@
       "onboard_time": 1758420803,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294137,
+      "num": 294137,
+      "word": "张晚意 音乐节",
+      "onboard_time": 1758459863,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 287797,
@@ -771,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261615,
+      "num": 261615,
+      "word": "漂浮群岛",
+      "onboard_time": 1758462569,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258802,
       "num": 294935,
       "word": "李昀锐帮孟子义系披风路透",
@@ -787,12 +835,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 253825,
-      "num": 253825,
-      "word": "张晚意 音乐节",
-      "onboard_time": 1758459863,
-      "rank": 19,
-      "category": "演出"
+      "raw_hot": 254383,
+      "num": 254383,
+      "word": "iG冒泡赛",
+      "onboard_time": 1758462507,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 252273,
@@ -800,6 +848,14 @@
       "word": "云秀行",
       "onboard_time": 1758454761,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 249377,
+      "num": 257432,
+      "word": "肖战任少白路透",
+      "onboard_time": 1758462265,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -907,12 +963,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224479,
+      "num": 234934,
+      "word": "蔡国强烟花秀区域具有显著脆弱性",
+      "onboard_time": 1758453202,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220116,
       "num": 220116,
       "word": "建议这8类人少喝咖啡",
       "onboard_time": 1758458903,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 217154,
+      "num": 424761,
+      "word": "广东做好巨灾防御准备",
+      "onboard_time": 1758447802,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214002,
@@ -993,6 +1065,14 @@
       "onboard_time": 1758429563,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203167,
+      "num": 203167,
+      "word": "吴易昺晋级杭州赛四强",
+      "onboard_time": 1758463349,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 202912,
@@ -1163,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188693,
-      "num": 234934,
-      "word": "蔡国强烟花秀区域具有显著脆弱性",
-      "onboard_time": 1758453202,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188386,
       "num": 183997,
       "word": "Knight荣获FMVP",
@@ -1203,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185542,
+      "num": 185542,
+      "word": "Knight刷新LPL冠军纪录",
+      "onboard_time": 1758462867,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185341,
       "num": 185341,
       "word": "心疼BLG北川",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1758430762,
       "rank": 31,
       "category": "民生新闻,演出"
+    },
+    {
+      "raw_hot": 182336,
+      "num": 182336,
+      "word": "针孔摄像头比我们想象的还要小",
+      "onboard_time": 1758463527,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180736,
@@ -1307,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173592,
+      "num": 173592,
+      "word": "周云杰称正探索AI陪伴机器人",
+      "onboard_time": 1758463287,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173459,
       "num": 239304,
       "word": "惠英红特邀主演郑晓龙新剧",
@@ -1321,6 +1417,22 @@
       "onboard_time": 1758438920,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173269,
+      "num": 173269,
+      "word": "张真源晒四川自驾游vlog",
+      "onboard_time": 1758463588,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172702,
+      "num": 172702,
+      "word": "继父称继子永远不会跟我是一条心",
+      "onboard_time": 1758463527,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172054,
@@ -1417,6 +1529,14 @@
       "onboard_time": 1758432322,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161594,
+      "num": 161594,
+      "word": "陈楚生是不是偷偷报班了",
+      "onboard_time": 1758462627,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 161159,
@@ -1531,6 +1651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155784,
+      "num": 155784,
+      "word": "凡希亚看邓紫棋演唱会",
+      "onboard_time": 1758464306,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155520,
       "num": 155520,
       "word": "假装自己去新疆旅游的一天",
@@ -1571,12 +1699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153350,
+      "num": 153350,
+      "word": "吴磊嫩回18岁黎簇时期",
+      "onboard_time": 1758464066,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152910,
       "num": 152910,
       "word": "贵州一殡仪馆花2亿建成后荒废",
       "onboard_time": 1758440961,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151396,
+      "num": 151396,
+      "word": "这房子真的让人眼前一亮又一亮",
+      "onboard_time": 1758460403,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 151367,
@@ -1643,6 +1787,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 146539,
+      "num": 146539,
+      "word": "wei",
+      "onboard_time": 1758463946,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146157,
       "num": 146157,
       "word": "JackeyLove决赛德莱文",
@@ -1665,6 +1817,14 @@
       "onboard_time": 1758432982,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143553,
+      "num": 143553,
+      "word": "Shad0wo头发长回来了",
+      "onboard_time": 1758464248,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 143536,
@@ -1849,14 +2009,6 @@
       "onboard_time": 1758443841,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133190,
-      "num": 133190,
-      "word": "广东做好巨灾防御准备",
-      "onboard_time": 1758447802,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131691,
@@ -2113,6 +2265,14 @@
       "onboard_time": 1758426500,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120796,
+      "num": 120796,
+      "word": "邓紫棋 从此在大场面我不再站旁边",
+      "onboard_time": 1758463167,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 120387,
@@ -3019,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34067,
+      "num": 547991,
+      "word": "这届东博会太AI了",
+      "onboard_time": 1758462627,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33716,
       "num": 133990,
       "word": "猴子进高校吃面包喝奶茶后悠然离开",
@@ -3153,6 +3321,14 @@
       "onboard_time": 1758453922,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18611,
+      "num": 155170,
+      "word": "Knight有我就有冠军",
+      "onboard_time": 1758463826,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 14419,

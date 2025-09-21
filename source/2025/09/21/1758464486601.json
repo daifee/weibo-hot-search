@@ -1,0 +1,410 @@
+{
+  "runTime": 1758464486601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 743210,
+        "num": 1118913,
+        "word": "陈乔恩回应要不要小孩",
+        "onboard_time": 1758457521,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606503,
+        "num": 606503,
+        "word": "今年以来最强台风来袭",
+        "onboard_time": 1758462444,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34067,
+        "num": 547991,
+        "word": "这届东博会太AI了",
+        "onboard_time": 1758462627,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 816997,
+        "num": 542595,
+        "word": "日本媒体鸦雀无声",
+        "onboard_time": 1758448162,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 535370,
+        "num": 535370,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16818045,
+        "num": 532562,
+        "word": "警方通报于朦胧坠楼",
+        "onboard_time": 1758462265,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528896,
+        "num": 528896,
+        "word": "BLG夺冠",
+        "onboard_time": 1758459203,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 509753,
+        "num": 509753,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437909,
+        "num": 437909,
+        "word": "预制菜国家标准",
+        "onboard_time": 1758457043,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217154,
+        "num": 424761,
+        "word": "广东做好巨灾防御准备",
+        "onboard_time": 1758447802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3419932,
+        "num": 413415,
+        "word": "警方查处涉于朦胧坠楼谣言",
+        "onboard_time": 1758463767,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773965,
+        "num": 393366,
+        "word": "成毅形象大变迁",
+        "onboard_time": 1758455661,
+        "rank": 11,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 698431,
+        "num": 376108,
+        "word": "黄灿灿 张振",
+        "onboard_time": 1758459803,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462810,
+        "num": 370907,
+        "word": "小狗赫兹去世",
+        "onboard_time": 1758454761,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356532,
+        "num": 356532,
+        "word": "安踏回应始祖鸟炸山风波",
+        "onboard_time": 1758463287,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294137,
+        "num": 294137,
+        "word": "张晚意 音乐节",
+        "onboard_time": 1758459863,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52753,
+        "num": 268846,
+        "word": "忘事是阿尔茨海默前兆吗",
+        "onboard_time": 1758460764,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261615,
+        "num": 261615,
+        "word": "漂浮群岛",
+        "onboard_time": 1758462569,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249377,
+        "num": 257432,
+        "word": "肖战任少白路透",
+        "onboard_time": 1758462265,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201417,
+        "num": 254991,
+        "word": "宋茜演了郑晓龙新剧",
+        "onboard_time": 1758456623,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 689272,
+        "num": 254953,
+        "word": "王源评论祝王俊凯生日快乐",
+        "onboard_time": 1758444862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254383,
+        "num": 254383,
+        "word": "iG冒泡赛",
+        "onboard_time": 1758462507,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253261,
+        "num": 253261,
+        "word": "村民称喜马拉雅山烟花味道很浓",
+        "onboard_time": 1758453861,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224479,
+        "num": 224479,
+        "word": "蔡国强烟花秀区域具有显著脆弱性",
+        "onboard_time": 1758453202,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218425,
+        "num": 218425,
+        "word": "建议这8类人少喝咖啡",
+        "onboard_time": 1758458903,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218298,
+        "num": 218298,
+        "word": "王一博许魏洲合照",
+        "onboard_time": 1758458242,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 203167,
+        "num": 203167,
+        "word": "吴易昺晋级杭州赛四强",
+        "onboard_time": 1758463349,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185542,
+        "num": 185542,
+        "word": "Knight刷新LPL冠军纪录",
+        "onboard_time": 1758462867,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184111,
+        "num": 184111,
+        "word": "AL 软饭好吃",
+        "onboard_time": 1758459564,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166617,
+        "num": 182913,
+        "word": "雷军转发了王一博",
+        "onboard_time": 1758447562,
+        "rank": 29,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 182336,
+        "num": 182336,
+        "word": "针孔摄像头比我们想象的还要小",
+        "onboard_time": 1758463527,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173592,
+        "num": 173592,
+        "word": "周云杰称正探索AI陪伴机器人",
+        "onboard_time": 1758463287,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173269,
+        "num": 173269,
+        "word": "张真源晒四川自驾游vlog",
+        "onboard_time": 1758463588,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172702,
+        "num": 172702,
+        "word": "继父称继子永远不会跟我是一条心",
+        "onboard_time": 1758463527,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171903,
+        "num": 171903,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165756,
+        "num": 165756,
+        "word": "黄圣依脖子上贴了膏药",
+        "onboard_time": 1758459143,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161594,
+        "num": 161594,
+        "word": "陈楚生是不是偷偷报班了",
+        "onboard_time": 1758462627,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155784,
+        "num": 155784,
+        "word": "凡希亚看邓紫棋演唱会",
+        "onboard_time": 1758464306,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18611,
+        "num": 155170,
+        "word": "Knight有我就有冠军",
+        "onboard_time": 1758463826,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154742,
+        "num": 154742,
+        "word": "徐子未脱衣服忘记摘垫肩了",
+        "onboard_time": 1758458903,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153350,
+        "num": 153350,
+        "word": "吴磊嫩回18岁黎簇时期",
+        "onboard_time": 1758464066,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151396,
+        "num": 151396,
+        "word": "这房子真的让人眼前一亮又一亮",
+        "onboard_time": 1758460403,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146539,
+        "num": 146539,
+        "word": "wei",
+        "onboard_time": 1758463946,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143553,
+        "num": 143553,
+        "word": "Shad0wo头发长回来了",
+        "onboard_time": 1758464248,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142379,
+        "num": 142379,
+        "word": "我想看黄圣依再演古装但不是这种",
+        "onboard_time": 1758459863,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140281,
+        "num": 140281,
+        "word": "给陈都灵戴无框眼镜的人简直是天才",
+        "onboard_time": 1758446363,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138385,
+        "num": 138385,
+        "word": "印度赴美机票2小时暴涨超110%",
+        "onboard_time": 1758452602,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134760,
+        "num": 134760,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127716,
+        "num": 127716,
+        "word": "菲军方宣布红色警戒状态",
+        "onboard_time": 1758460883,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120796,
+        "num": 120796,
+        "word": "邓紫棋 从此在大场面我不再站旁边",
+        "onboard_time": 1758463167,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}
