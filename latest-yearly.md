@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/21 07:36:42
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/21 09:58:28
 </p>
 </blockquote>
 <p>
@@ -1077,6 +1077,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%23" target="weibo">
+官方通报蔡国强烟花秀（热度：9152802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E8%8E%B9%E5%9B%9B%E9%A1%B9%E8%AF%81%E4%B9%A6%E8%A2%AB%E6%92%A4%E9%94%80%23" target="weibo">
 董某莹四项证书被撤销（热度：9150504）
 </a>
@@ -1283,6 +1289,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%AF%B4%E5%A4%A7S%E6%98%AF%E6%88%91%E7%9A%84%E5%AE%B6%E4%BA%BA%23" target="weibo">
 汪小菲说大S是我的家人（热度：7927387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E8%87%B4%E6%AD%89%23" target="weibo">
+蔡国强致歉（热度：7920134）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87%23" target="weibo">
 合肥地震（热度：4564482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E5%89%8D%E9%94%8B%E8%8B%A5%E5%A1%94%E5%8E%BB%E4%B8%96%23" target="weibo">
-利物浦前锋若塔去世（热度：4541277）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%87%AF%E6%96%87%E6%89%BF%E8%AE%A4%E6%88%90%E7%BB%A9%E9%80%A0%E5%81%87%23" target="weibo">
-何凯文承认成绩造假（热度：4523747）
 </a>
 </li>
 

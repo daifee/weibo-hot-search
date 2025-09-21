@@ -1,7 +1,23 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758411402744,
+  "endTime": 1758419908706,
   "band_list": [
+    {
+      "raw_hot": 9152802,
+      "num": 9152802,
+      "word": "官方通报蔡国强烟花秀",
+      "onboard_time": 1758411318,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7920134,
+      "num": 7920134,
+      "word": "蔡国强致歉",
+      "onboard_time": 1758414080,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2613697,
       "num": 236664,
@@ -9,6 +25,22 @@
       "onboard_time": 1758378323,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1293702,
+      "num": 337568,
+      "word": "大一女生军训身亡",
+      "onboard_time": 1758413420,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1017291,
+      "num": 323892,
+      "word": "蔡国强 始祖鸟",
+      "onboard_time": 1758412640,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 976047,
@@ -83,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 629981,
+      "num": 629981,
+      "word": "始祖鸟致歉",
+      "onboard_time": 1758413479,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 614891,
       "num": 908382,
       "word": "郑钧刘芸两个魔丸生出了一个灵珠",
@@ -107,11 +147,27 @@
       "category": "电影"
     },
     {
-      "raw_hot": 404966,
+      "raw_hot": 438815,
       "num": 404966,
       "word": "蔡国强被誉为中国烟花第一人",
       "onboard_time": 1758380482,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428579,
+      "num": 307358,
+      "word": "王俊凯26岁生日照",
+      "onboard_time": 1758410598,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 401890,
+      "num": 401890,
+      "word": "蔡国强称如确影响环境将全力补救",
+      "onboard_time": 1758415763,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -123,6 +179,46 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380530,
+      "num": 380530,
+      "word": "18岁女孩发现男友已婚饮酒后跳江",
+      "onboard_time": 1758414863,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366761,
+      "num": 264025,
+      "word": "塞尔维亚阅兵",
+      "onboard_time": 1758415163,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 365196,
+      "num": 365196,
+      "word": "始祖鸟评论区开一键防护",
+      "onboard_time": 1758418164,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361334,
+      "num": 361334,
+      "word": "戴向宇曾单方面通知家人要离婚",
+      "onboard_time": 1758412580,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 358246,
+      "num": 358246,
+      "word": "官方通报喜马拉雅山放烟花",
+      "onboard_time": 1758414742,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 331475,
       "num": 208944,
       "word": "马思纯花少人生镜头",
@@ -131,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320064,
+      "num": 129269,
+      "word": "原来牙齿与寿命有关系",
+      "onboard_time": 1758418342,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 315285,
       "num": 215518,
       "word": "安踏",
       "onboard_time": 1758369862,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284161,
-      "num": 164918,
-      "word": "王俊凯26岁生日照",
-      "onboard_time": 1758410598,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 280494,
@@ -163,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272356,
+      "num": 178301,
+      "word": "王俊凯工作室千字长文",
+      "onboard_time": 1758414682,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264944,
       "num": 201914,
       "word": "戴向宇说陈紫函会给他洗内裤",
       "onboard_time": 1758376584,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257299,
+      "num": 257299,
+      "word": "特朗普100万美元出售美国居留权",
+      "onboard_time": 1758413359,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 245704,
@@ -185,6 +297,14 @@
       "onboard_time": 1758376883,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227212,
+      "num": 227212,
+      "word": "人上班真的不能太勤快",
+      "onboard_time": 1758413661,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 208986,
@@ -219,6 +339,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178424,
+      "num": 178424,
+      "word": "iPhone17基础款性能超越16Pro",
+      "onboard_time": 1758413661,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 177356,
+      "num": 177356,
+      "word": "王楚钦看演唱会被眼尖球迷发现",
+      "onboard_time": 1758417205,
+      "rank": 22,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 172054,
       "num": 172054,
       "word": "加沙",
@@ -227,12 +363,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162802,
+      "num": 162802,
+      "word": "咱们家风扇坏了当事人今日结婚",
+      "onboard_time": 1758413479,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158941,
-      "num": 158941,
+      "num": 177783,
       "word": "大爷卖水卖到周杰伦演唱会现场",
       "onboard_time": 1758410058,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158201,
+      "num": 158201,
+      "word": "10个症状可能是阿尔茨海默前兆",
+      "onboard_time": 1758417744,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156471,
@@ -259,6 +411,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 150853,
+      "num": 178069,
+      "word": "五月天演唱会内场起冲突目击者发声",
+      "onboard_time": 1758417804,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145883,
       "num": 145883,
       "word": "王俊凯说没时间旅行",
@@ -273,6 +433,30 @@
       "onboard_time": 1758380723,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140481,
+      "num": 140481,
+      "word": "董璇张维伊婚礼路透",
+      "onboard_time": 1758413240,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132543,
+      "num": 132543,
+      "word": "台风浣熊升级为超强台风",
+      "onboard_time": 1758418223,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124702,
+      "num": 156636,
+      "word": "王鹤棣大奉打更人第二个热播期",
+      "onboard_time": 1758417862,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 123437,
@@ -307,6 +491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117083,
+      "num": 117083,
+      "word": "猫咪没吃到食物哇的一下哭出声",
+      "onboard_time": 1758414261,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116314,
       "num": 107052,
       "word": "和对的人在一起的10个迹象",
@@ -321,6 +513,14 @@
       "onboard_time": 1758377064,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112605,
+      "num": 156191,
+      "word": "柯淳复刻乖乖女名场面",
+      "onboard_time": 1758416003,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 106750,
@@ -339,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102294,
+      "num": 102294,
+      "word": "始祖鸟称对自然需要更加谦卑",
+      "onboard_time": 1758417143,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98074,
       "num": 98074,
       "word": "林俊杰音乐节 激光笔",
@@ -353,6 +561,14 @@
       "onboard_time": 1758364402,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97082,
+      "num": 97082,
+      "word": "阿尔茨海默病没有特效药",
+      "onboard_time": 1758419123,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96335,
@@ -387,12 +603,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88825,
-      "num": 88825,
-      "word": "官方通报蔡国强烟花秀",
-      "onboard_time": 1758411318,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 92068,
+      "num": 92068,
+      "word": "卡塔尔投诉以色列",
+      "onboard_time": 1758416844,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 91144,
+      "num": 156008,
+      "word": "成毅说赴山海剧本有难度",
+      "onboard_time": 1758412580,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89490,
+      "num": 89490,
+      "word": "这个花色最容易开出绝世好猫",
+      "onboard_time": 1758417205,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88989,
+      "num": 88989,
+      "word": "多款iPhone17回收价破发",
+      "onboard_time": 1758416542,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 87849,
@@ -411,6 +651,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 86242,
+      "num": 119176,
+      "word": "可惜我叫谢霆锋 不叫谢停雨",
+      "onboard_time": 1758410058,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 86180,
+      "num": 86180,
+      "word": "王楚钦中国大满贯倒计时海报",
+      "onboard_time": 1758416723,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85633,
       "num": 89310,
       "word": "焦虑症vs抑郁症vs自闭症",
@@ -425,6 +681,30 @@
       "onboard_time": 1758376702,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83209,
+      "num": 83209,
+      "word": "温州一渔船5人吸有毒气体高坠受伤",
+      "onboard_time": 1758417983,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83135,
+      "num": 83135,
+      "word": "蔡徐坤新歌",
+      "onboard_time": 1758416063,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 82692,
+      "num": 82692,
+      "word": "刘慈欣谈科幻作家的集体AI焦虑",
+      "onboard_time": 1758419781,
+      "rank": 48,
+      "category": "读书作家,互联网"
     },
     {
       "raw_hot": 82645,
@@ -443,12 +723,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80572,
-      "num": 106906,
-      "word": "可惜我叫谢霆锋 不叫谢停雨",
-      "onboard_time": 1758410058,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 81601,
+      "num": 81601,
+      "word": "自习室最棒的零食",
+      "onboard_time": 1758414501,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 80384,
@@ -595,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41829,
+      "num": 177584,
+      "word": "女孩饮酒后跳江酒友被判赔9千",
+      "onboard_time": 1758415823,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32347,
       "num": 52674,
       "word": "不眠日 乌贼",
@@ -636,7 +924,7 @@
     },
     {
       "raw_hot": 25541,
-      "num": 726720,
+      "num": 2674551,
       "word": "砥砺奋进七十载天山南北谱华章",
       "onboard_time": 1758375445,
       "rank": 2,
