@@ -1,0 +1,410 @@
+{
+  "runTime": 1758447388183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 992046,
+        "num": 1158727,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1758439641,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 503570,
+        "num": 503570,
+        "word": "女童20楼坠至13楼雨棚众人合力救援",
+        "onboard_time": 1758428240,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 9959,
+        "num": 502513,
+        "word": "这是人民空军带来的震撼与浪漫",
+        "onboard_time": 1758423921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 954168,
+        "num": 497817,
+        "word": "韩媒验证中国人有首尔病",
+        "onboard_time": 1758442642,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 903537,
+        "num": 493512,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585004,
+        "num": 492986,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489972,
+        "num": 489972,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 435165,
+        "num": 435165,
+        "word": "周杰伦演唱会卖水大爷卖5元一瓶",
+        "onboard_time": 1758437600,
+        "rank": 7,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 308749,
+        "num": 308749,
+        "word": "始祖鸟承诺",
+        "onboard_time": 1758445101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307223,
+        "num": 307223,
+        "word": "顾客称吃日料在三文鱼上发现活蛆",
+        "onboard_time": 1758445162,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1790067,
+        "num": 304762,
+        "word": "王源评论祝王俊凯生日快乐",
+        "onboard_time": 1758444862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872641,
+        "num": 303207,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505616,
+        "num": 302310,
+        "word": "有存款和没存款的区别",
+        "onboard_time": 1758442521,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300080,
+        "num": 300080,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1758433702,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275028,
+        "num": 275028,
+        "word": "祝绪丹说当演员不仅下水还要下跪",
+        "onboard_time": 1758440602,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267504,
+        "num": 267504,
+        "word": "为什么把房子卖掉 因为买的水被卡住了",
+        "onboard_time": 1758441322,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252534,
+        "num": 252534,
+        "word": "台风",
+        "onboard_time": 1758444442,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214002,
+        "num": 214002,
+        "word": "台风桦加沙明起将影响我国海域",
+        "onboard_time": 1758445463,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171544,
+        "num": 210287,
+        "word": "管乐井迪前男友是同班同学",
+        "onboard_time": 1758439522,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141027,
+        "num": 208317,
+        "word": "不眠日大结局",
+        "onboard_time": 1758429622,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1021004,
+        "num": 205540,
+        "word": "蔡国强一句道歉修复不了喜马拉雅",
+        "onboard_time": 1758436462,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307868,
+        "num": 202037,
+        "word": "王玉雯看到直播的刘宇宁天都塌了",
+        "onboard_time": 1758438322,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303389,
+        "num": 195481,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301159,
+        "num": 194608,
+        "word": "宋轶方声明",
+        "onboard_time": 1758438561,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262724,
+        "num": 188358,
+        "word": "给陈都灵戴无框眼镜的人简直是天才",
+        "onboard_time": 1758446363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187382,
+        "num": 187382,
+        "word": "何猷君奚梦瑶儿子长大就冯程朗这样",
+        "onboard_time": 1758441502,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185290,
+        "num": 185290,
+        "word": "始祖鸟 安踏",
+        "onboard_time": 1758423381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158663,
+        "num": 158663,
+        "word": "蔡国强 始祖鸟",
+        "onboard_time": 1758412640,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135507,
+        "num": 135507,
+        "word": "GEN对战T1",
+        "onboard_time": 1758438680,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122333,
+        "num": 135034,
+        "word": "苏醒想要女儿的心快压不住了",
+        "onboard_time": 1758446242,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134573,
+        "num": 134573,
+        "word": "文章马伊琍大女儿17岁近照",
+        "onboard_time": 1758429981,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130769,
+        "num": 130769,
+        "word": "导入聊天记录 设备空间不足",
+        "onboard_time": 1758443841,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118922,
+        "num": 118922,
+        "word": "女子要一次性筷子被告知下不为例",
+        "onboard_time": 1758444082,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113063,
+        "num": 113063,
+        "word": "心理压力 神经性皮炎",
+        "onboard_time": 1758446903,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111932,
+        "num": 111932,
+        "word": "王俊凯我这透明的一生",
+        "onboard_time": 1758437722,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43736,
+        "num": 111487,
+        "word": "新疆四季美到了心尖尖上",
+        "onboard_time": 1758446482,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111471,
+        "num": 111471,
+        "word": "妇科炎症像感冒一样常见",
+        "onboard_time": 1758443722,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109844,
+        "num": 109844,
+        "word": "被猫杀掉的概率不是0",
+        "onboard_time": 1758446903,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21319,
+        "num": 108564,
+        "word": "刘震云说读者的水平比作者高",
+        "onboard_time": 1758444381,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 28280,
+        "num": 108540,
+        "word": "搜狐视频关注流大会",
+        "onboard_time": 1758445282,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108533,
+        "num": 108533,
+        "word": "BLG对战TES",
+        "onboard_time": 1758442581,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106238,
+        "num": 106238,
+        "word": "24岁的张馨予",
+        "onboard_time": 1758440182,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105005,
+        "num": 105005,
+        "word": "读研前vs读研后",
+        "onboard_time": 1758446842,
+        "rank": 42,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 100432,
+        "num": 100432,
+        "word": "王一博 白象",
+        "onboard_time": 1758428661,
+        "rank": 43,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 99357,
+        "num": 99357,
+        "word": "王安宇你让我很陌生",
+        "onboard_time": 1758441802,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98393,
+        "num": 98393,
+        "word": "iPhone17到手后要做的16个设置",
+        "onboard_time": 1758444923,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96504,
+        "num": 96504,
+        "word": "高中生10元成本净赚120的一天",
+        "onboard_time": 1758443964,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95778,
+        "num": 95778,
+        "word": "寿司袜子",
+        "onboard_time": 1758447202,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59139,
+        "num": 92486,
+        "word": "王楚钦在演唱会上摇头晃脑",
+        "onboard_time": 1758445762,
+        "rank": 48,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 90728,
+        "num": 90728,
+        "word": "王一博GT收官站第二回合正赛",
+        "onboard_time": 1758445162,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}

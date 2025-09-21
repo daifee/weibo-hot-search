@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758446553071,
+  "endTime": 1758447388183,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 992046,
+      "num": 1158727,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1758439641,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 976047,
       "num": 155707,
       "word": "蔡国强工作室回应烟花争议",
@@ -83,7 +91,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 934532,
+      "raw_hot": 954168,
       "num": 523056,
       "word": "韩媒验证中国人有首尔病",
       "onboard_time": 1758442642,
@@ -227,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 621019,
-      "num": 1099363,
-      "word": "银河左岸音乐节",
-      "onboard_time": 1758439641,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 614891,
       "num": 908382,
       "word": "郑钧刘芸两个魔丸生出了一个灵珠",
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505616,
+      "num": 352259,
+      "word": "有存款和没存款的区别",
+      "onboard_time": 1758442521,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 498000,
       "num": 478919,
       "word": "女子连续偷吃5个蛋挞后转身就走",
@@ -289,6 +297,14 @@
       "onboard_time": 1758381204,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 489972,
+      "num": 489972,
+      "word": "官方通报喜马拉雅山放烟花",
+      "onboard_time": 1758414742,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 473458,
@@ -345,14 +361,6 @@
       "onboard_time": 1758414863,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 429740,
-      "num": 352259,
-      "word": "有存款和没存款的区别",
-      "onboard_time": 1758442521,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 404826,
@@ -427,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358246,
-      "num": 358246,
-      "word": "官方通报喜马拉雅山放烟花",
-      "onboard_time": 1758414742,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 352376,
       "num": 352376,
       "word": "张继科点评男乒最强正反手",
@@ -465,6 +465,22 @@
       "onboard_time": 1758369862,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308749,
+      "num": 308749,
+      "word": "始祖鸟承诺",
+      "onboard_time": 1758445101,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307223,
+      "num": 307223,
+      "word": "顾客称吃日料在三文鱼上发现活蛆",
+      "onboard_time": 1758445162,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 303280,
@@ -531,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267504,
+      "num": 267504,
+      "word": "为什么把房子卖掉 因为买的水被卡住了",
+      "onboard_time": 1758441322,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264944,
       "num": 201914,
       "word": "戴向宇说陈紫函会给他洗内裤",
@@ -545,6 +569,14 @@
       "onboard_time": 1758433823,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262724,
+      "num": 188358,
+      "word": "给陈都灵戴无框眼镜的人简直是天才",
+      "onboard_time": 1758446363,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 262480,
@@ -569,14 +601,6 @@
       "onboard_time": 1758413359,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 249812,
-      "num": 249812,
-      "word": "为什么把房子卖掉 因为买的水被卡住了",
-      "onboard_time": 1758441322,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 249234,
@@ -667,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214002,
+      "num": 360293,
+      "word": "台风桦加沙明起将影响我国海域",
+      "onboard_time": 1758445463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213327,
       "num": 213327,
       "word": "始祖鸟海内外致歉内容不一致",
@@ -729,14 +761,6 @@
       "onboard_time": 1758429563,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203940,
-      "num": 172122,
-      "word": "给陈都灵戴无框眼镜的人简直是天才",
-      "onboard_time": 1758446363,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 202912,
@@ -851,14 +875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 183553,
-      "num": 360293,
-      "word": "台风桦加沙明起将影响我国海域",
-      "onboard_time": 1758445463,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183166,
       "num": 183166,
       "word": "网友称卖水哥卖完就走不看一眼杰伦",
@@ -897,14 +913,6 @@
       "onboard_time": 1758427821,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179689,
-      "num": 179689,
-      "word": "顾客称吃日料在三文鱼上发现活蛆",
-      "onboard_time": 1758445162,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 178424,
@@ -1104,14 +1112,6 @@
       "word": "43岁二胎妈妈患阿尔茨海默病",
       "onboard_time": 1758436881,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153635,
-      "num": 153635,
-      "word": "始祖鸟承诺",
-      "onboard_time": 1758445101,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1395,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122333,
+      "num": 135034,
+      "word": "苏醒想要女儿的心快压不住了",
+      "onboard_time": 1758446242,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122316,
       "num": 176635,
       "word": "女主自己救自己男主自己醋自己",
@@ -1547,14 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116100,
-      "num": 116100,
-      "word": "苏醒想要女儿的心快压不住了",
-      "onboard_time": 1758446242,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115195,
       "num": 115195,
       "word": "温州一渔船5人吸有毒气体高坠受伤",
@@ -1569,6 +1569,14 @@
       "onboard_time": 1758377064,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113063,
+      "num": 113063,
+      "word": "心理压力 神经性皮炎",
+      "onboard_time": 1758446903,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112605,
@@ -1603,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109844,
+      "num": 109844,
+      "word": "被猫杀掉的概率不是0",
+      "onboard_time": 1758446903,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108548,
       "num": 141099,
       "word": "怒海潜沙也重拍了",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1758357921,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105005,
+      "num": 105005,
+      "word": "读研前vs读研后",
+      "onboard_time": 1758446842,
+      "rank": 42,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 104643,
@@ -1667,6 +1691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98393,
+      "num": 98393,
+      "word": "iPhone17到手后要做的16个设置",
+      "onboard_time": 1758444923,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98074,
       "num": 98074,
       "word": "林俊杰音乐节 激光笔",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1758382462,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95778,
+      "num": 95778,
+      "word": "寿司袜子",
+      "onboard_time": 1758447202,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 93983,
@@ -2019,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59139,
+      "num": 123992,
+      "word": "王楚钦在演唱会上摇头晃脑",
+      "onboard_time": 1758445762,
+      "rank": 38,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 58978,
       "num": 89519,
       "word": "yagao让BLG双C不要站一起",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1758441502,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57823,
-      "num": 123992,
-      "word": "王楚钦在演唱会上摇头晃脑",
-      "onboard_time": 1758445762,
-      "rank": 38,
-      "category": "体育,演出"
     },
     {
       "raw_hot": 57202,
@@ -2137,6 +2177,14 @@
       "onboard_time": 1758443303,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43736,
+      "num": 569556,
+      "word": "新疆四季美到了心尖尖上",
+      "onboard_time": 1758446482,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43699,
@@ -2323,20 +2371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9959,
+      "num": 502513,
+      "word": "这是人民空军带来的震撼与浪漫",
+      "onboard_time": 1758423921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9598,
       "num": 133828,
       "word": "林一是专门来治陈赫的吧",
       "onboard_time": 1758443841,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7334,
-      "num": 569556,
-      "word": "新疆四季美到了心尖尖上",
-      "onboard_time": 1758446482,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
