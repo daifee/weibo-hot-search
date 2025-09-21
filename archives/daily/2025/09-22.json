@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758490610985,
+  "endTime": 1758493351252,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268811,
+      "num": 171270,
+      "word": "继父称继子永远不会跟我是一条心",
+      "onboard_time": 1758463527,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250259,
       "num": 250259,
       "word": "终于知道新闻主播为啥戴假发了",
@@ -129,14 +137,6 @@
       "onboard_time": 1758444862,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171270,
-      "num": 171270,
-      "word": "继父称继子永远不会跟我是一条心",
-      "onboard_time": 1758463527,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165012,
@@ -200,6 +200,14 @@
       "word": "广东做好巨灾防御准备",
       "onboard_time": 1758447802,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112891,
+      "num": 112891,
+      "word": "00后女子醉驾撞死3人案将开庭",
+      "onboard_time": 1758467786,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -296,14 +304,6 @@
       "word": "官方通报蔡国强烟花秀",
       "onboard_time": 1758411318,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88506,
-      "num": 97945,
-      "word": "00后女子醉驾撞死3人案将开庭",
-      "onboard_time": 1758467786,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37401,
+      "num": 37401,
+      "word": "网曝老师体罚学生反复深蹲超5分钟",
+      "onboard_time": 1758489315,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29936,
       "num": 37851,
       "word": "无法共情上个月的自己",
@@ -481,6 +489,14 @@
       "onboard_time": 1758475577,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27684,
+      "num": 27684,
+      "word": "李湘王诗龄看秀路透",
+      "onboard_time": 1758491234,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 22275,
@@ -507,15 +523,23 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18160,
-      "num": 18160,
+      "raw_hot": 18722,
+      "num": 25483,
       "word": "伊朗将暂停与国际原子能机构合作",
       "onboard_time": 1758484933,
       "rank": 39,
       "category": "国际时政"
     },
     {
-      "raw_hot": 17954,
+      "raw_hot": 18713,
+      "num": 25482,
+      "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
+      "onboard_time": 1758486673,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18170,
       "num": 31228,
       "word": "飞机到底应不应该锁座",
       "onboard_time": 1758481034,
@@ -523,20 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14802,
-      "num": 18083,
-      "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
-      "onboard_time": 1758486673,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14757,
-      "num": 18079,
-      "word": "网曝老师体罚学生反复深蹲超5分钟",
-      "onboard_time": 1758489315,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 17579,
+      "num": 25478,
+      "word": "延长告别时间是最好的断联方式",
+      "onboard_time": 1758487094,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 13286,
@@ -545,14 +561,6 @@
       "onboard_time": 1758481815,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11564,
-      "num": 17901,
-      "word": "延长告别时间是最好的断联方式",
-      "onboard_time": 1758487094,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 11204,
