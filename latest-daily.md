@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/22 00:27:56 ~ 2025/09/22 01:20:29
+本榜单时间：2025/09/22 00:27:56 ~ 2025/09/22 01:37:18
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ iG冒泡赛（热度：81492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%9D%8E%E4%B8%80%E6%A1%90%E6%96%B0%E5%89%A7%E5%BF%AB%E4%BA%86%23" target="weibo">
 成毅李一桐新剧快了（热度：39011）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
+BLG夺冠后发文（热度：29654）
 </a>
 </li>
 

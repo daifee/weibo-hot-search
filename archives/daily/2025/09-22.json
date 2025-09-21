@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758475229603,
+  "endTime": 1758476238377,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -444,11 +444,19 @@
     },
     {
       "raw_hot": 39011,
-      "num": 52620,
+      "num": 52663,
       "word": "成毅李一桐新剧快了",
       "onboard_time": 1758464488,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29654,
+      "num": 52658,
+      "word": "BLG夺冠后发文",
+      "onboard_time": 1758475577,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 20587,

@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758475229603,
+  "endTime": 1758476238377,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -3601,6 +3601,14 @@
       "onboard_time": 1758442042,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29654,
+      "num": 52658,
+      "word": "BLG夺冠后发文",
+      "onboard_time": 1758475577,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 29359,
