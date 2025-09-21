@@ -1,0 +1,410 @@
+{
+  "runTime": 1758475229603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 409791,
+        "num": 515584,
+        "word": "今年以来最强台风来袭",
+        "onboard_time": 1758462444,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334280,
+        "num": 334280,
+        "word": "蜜雪冰城门店疯狂抢柠檬",
+        "onboard_time": 1758468444,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14842,
+        "num": 248682,
+        "word": "这届东博会太AI了",
+        "onboard_time": 1758462627,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220469,
+        "num": 220469,
+        "word": "日本媒体鸦雀无声",
+        "onboard_time": 1758448162,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196259,
+        "num": 196259,
+        "word": "央视起底直播间高端四件套猫腻",
+        "onboard_time": 1758467485,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 419031,
+        "num": 190719,
+        "word": "安踏回应始祖鸟炸山风波",
+        "onboard_time": 1758463287,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161302,
+        "num": 161302,
+        "word": "向往的生活gap了一下",
+        "onboard_time": 1758471741,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144108,
+        "num": 144108,
+        "word": "中介雇人看房砍价60万搞崩房东心态",
+        "onboard_time": 1758468684,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144104,
+        "num": 144104,
+        "word": "终于知道新闻主播为啥戴假发了",
+        "onboard_time": 1758465027,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125818,
+        "num": 125818,
+        "word": "针孔摄像头比我们想象的还要小",
+        "onboard_time": 1758463527,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741353,
+        "num": 124630,
+        "word": "易烊千玺给王俊凯的生日祝福",
+        "onboard_time": 1758467365,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359145,
+        "num": 123086,
+        "word": "黄灿灿 张振",
+        "onboard_time": 1758459803,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274389,
+        "num": 122067,
+        "word": "成毅形象大变迁",
+        "onboard_time": 1758455661,
+        "rank": 12,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 227474,
+        "num": 119956,
+        "word": "长租15年不到1年就被劝退",
+        "onboard_time": 1758466586,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201150,
+        "num": 118458,
+        "word": "巴菲特清仓比亚迪",
+        "onboard_time": 1758469943,
+        "rank": 14,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 117763,
+        "num": 117763,
+        "word": "小狗赫兹去世",
+        "onboard_time": 1758454761,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103685,
+        "num": 103685,
+        "word": "张子墨伴手礼",
+        "onboard_time": 1758468624,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85229,
+        "num": 85229,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1758468204,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72088,
+        "num": 81475,
+        "word": "陈乔恩回应要不要小孩",
+        "onboard_time": 1758457521,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68223,
+        "num": 80899,
+        "word": "网传热巴将录制向往的生活",
+        "onboard_time": 1758467306,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80689,
+        "num": 80689,
+        "word": "广东做好巨灾防御准备",
+        "onboard_time": 1758447802,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80197,
+        "num": 80197,
+        "word": "桦加沙",
+        "onboard_time": 1758466764,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78489,
+        "num": 78489,
+        "word": "00后女子醉驾撞死3人案将开庭",
+        "onboard_time": 1758467786,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68868,
+        "num": 68868,
+        "word": "王源评论祝王俊凯生日快乐",
+        "onboard_time": 1758444862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67892,
+        "num": 67892,
+        "word": "继父称继子永远不会跟我是一条心",
+        "onboard_time": 1758463527,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67083,
+        "num": 67083,
+        "word": "不眠日",
+        "onboard_time": 1758456863,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67050,
+        "num": 67050,
+        "word": "白桃星座",
+        "onboard_time": 1758467725,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66294,
+        "num": 66294,
+        "word": "刘宪华的trap是观众的尖叫开关",
+        "onboard_time": 1758469822,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66094,
+        "num": 66094,
+        "word": "11岁男孩捉迷藏坠入10多米深井身亡",
+        "onboard_time": 1758467124,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66008,
+        "num": 66008,
+        "word": "BLG夺冠",
+        "onboard_time": 1758459203,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62585,
+        "num": 62585,
+        "word": "金晨怎么美成这样了",
+        "onboard_time": 1758450321,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62326,
+        "num": 62326,
+        "word": "台风桦加沙到哪了",
+        "onboard_time": 1758467245,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58798,
+        "num": 58798,
+        "word": "蔡国强烟花秀区域具有显著脆弱性",
+        "onboard_time": 1758453202,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57388,
+        "num": 57388,
+        "word": "年轻人也开始记忆力下降",
+        "onboard_time": 1758469943,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55932,
+        "num": 55932,
+        "word": "沈月穿着古装跳舞",
+        "onboard_time": 1758466945,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54997,
+        "num": 54997,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54396,
+        "num": 54396,
+        "word": "李荣浩 演唱会就像辣椒炒肉里的白糖",
+        "onboard_time": 1758470181,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53285,
+        "num": 53285,
+        "word": "陶喆演唱会",
+        "onboard_time": 1758471559,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52645,
+        "num": 52645,
+        "word": "男子编造3000条谣言抹黑车企被刑拘",
+        "onboard_time": 1758474198,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48709,
+        "num": 52644,
+        "word": "iG冒泡赛",
+        "onboard_time": 1758462507,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46367,
+        "num": 52640,
+        "word": "美以拦不住了",
+        "onboard_time": 1758467245,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44391,
+        "num": 52640,
+        "word": "蔡徐坤把音乐节嗨成演唱会",
+        "onboard_time": 1758471260,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43816,
+        "num": 52635,
+        "word": "墨西哥阅兵现场军犬没忍住",
+        "onboard_time": 1758466885,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42743,
+        "num": 52635,
+        "word": "预制菜国家标准",
+        "onboard_time": 1758457043,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42590,
+        "num": 52631,
+        "word": "深圳应急管理局回应台风五停",
+        "onboard_time": 1758465086,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41102,
+        "num": 52629,
+        "word": "建议这8类人少喝咖啡",
+        "onboard_time": 1758458903,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41028,
+        "num": 52625,
+        "word": "王一博许魏洲合照",
+        "onboard_time": 1758458242,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 40367,
+        "num": 52625,
+        "word": "肖战任少白路透",
+        "onboard_time": 1758462265,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39011,
+        "num": 52620,
+        "word": "成毅李一桐新剧快了",
+        "onboard_time": 1758464488,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38143,
+        "num": 52619,
+        "word": "张晚意 音乐节",
+        "onboard_time": 1758459863,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈制造业高质量发展#"
+    }
+  }
+}

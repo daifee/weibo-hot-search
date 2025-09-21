@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758472931510,
+  "endTime": 1758475229603,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -51,6 +51,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 359145,
+      "num": 181285,
+      "word": "黄灿灿 张振",
+      "onboard_time": 1758459803,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354215,
       "num": 354215,
       "word": "针孔摄像头比我们想象的还要小",
@@ -59,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344720,
-      "num": 181285,
-      "word": "黄灿灿 张振",
-      "onboard_time": 1758459803,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 334280,
+      "num": 334280,
+      "word": "蜜雪冰城门店疯狂抢柠檬",
+      "onboard_time": 1758468444,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307907,
@@ -91,12 +99,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204279,
-      "num": 204279,
-      "word": "蜜雪冰城门店疯狂抢柠檬",
-      "onboard_time": 1758468444,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 201150,
+      "num": 118458,
+      "word": "巴菲特清仓比亚迪",
+      "onboard_time": 1758469943,
+      "rank": 30,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 200762,
@@ -139,12 +147,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164509,
-      "num": 105192,
-      "word": "巴菲特清仓比亚迪",
-      "onboard_time": 1758469943,
-      "rank": 30,
-      "category": "财经,汽车"
+      "raw_hot": 161302,
+      "num": 161302,
+      "word": "向往的生活gap了一下",
+      "onboard_time": 1758471741,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 152555,
@@ -283,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89123,
-      "num": 102750,
-      "word": "向往的生活gap了一下",
-      "onboard_time": 1758471741,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88598,
       "num": 91420,
       "word": "官方通报蔡国强烟花秀",
@@ -427,12 +427,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 51821,
+      "raw_hot": 54396,
       "num": 97427,
       "word": "李荣浩 演唱会就像辣椒炒肉里的白糖",
       "onboard_time": 1758470181,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52645,
+      "num": 52645,
+      "word": "男子编造3000条谣言抹黑车企被刑拘",
+      "onboard_time": 1758474198,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39011,
+      "num": 52620,
+      "word": "成毅李一桐新剧快了",
+      "onboard_time": 1758464488,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 20587,
