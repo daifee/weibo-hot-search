@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758458701364,
+  "endTime": 1758459555220,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1348460,
+      "num": 507989,
+      "word": "孕妇被未栓绳狗追咬胎停主人拒赔",
+      "onboard_time": 1758453202,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1286011,
       "num": 353478,
       "word": "始祖鸟 安踏",
@@ -67,16 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1284324,
-      "num": 472255,
-      "word": "孕妇被未栓绳狗追咬胎停主人拒赔",
-      "onboard_time": 1758453202,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1162652,
-      "num": 358828,
+      "num": 466660,
       "word": "小狗赫兹去世",
       "onboard_time": 1758454761,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 746464,
+      "num": 1119434,
+      "word": "BLG对战TES",
+      "onboard_time": 1758442581,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 738825,
       "num": 738825,
       "word": "嵩山一景区巨型蛇头已被覆盖",
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 639312,
+      "num": 465355,
+      "word": "成毅形象大变迁",
+      "onboard_time": 1758455661,
+      "rank": 11,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 629981,
       "num": 629981,
       "word": "始祖鸟致歉",
@@ -323,6 +339,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 568881,
+      "num": 1080139,
+      "word": "印度赴美机票2小时暴涨超110%",
+      "onboard_time": 1758452602,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 563119,
       "num": 521550,
       "word": "王玉雯看到直播的刘宇宁天都塌了",
@@ -339,20 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515075,
+      "num": 515075,
+      "word": "陈乔恩回应要不要小孩",
+      "onboard_time": 1758457521,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505616,
       "num": 352259,
       "word": "有存款和没存款的区别",
       "onboard_time": 1758442521,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 500874,
-      "num": 1080139,
-      "word": "印度赴美机票2小时暴涨超110%",
-      "onboard_time": 1758452602,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 498000,
@@ -379,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492832,
+      "num": 492832,
+      "word": "村民称喜马拉雅山烟花味道很浓",
+      "onboard_time": 1758453861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473458,
       "num": 473458,
       "word": "管乐井迪前男友是同班同学",
@@ -393,6 +425,22 @@
       "onboard_time": 1758365843,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 469074,
+      "num": 469074,
+      "word": "预制菜国家标准",
+      "onboard_time": 1758457043,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459419,
+      "num": 459419,
+      "word": "BLG夺冠",
+      "onboard_time": 1758459203,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 459067,
@@ -499,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 377610,
-      "num": 358093,
-      "word": "成毅形象大变迁",
-      "onboard_time": 1758455661,
-      "rank": 11,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -521,14 +561,6 @@
       "onboard_time": 1758428661,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 365467,
-      "num": 365467,
-      "word": "村民称喜马拉雅山烟花味道很浓",
-      "onboard_time": 1758453861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364125,
@@ -555,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333372,
-      "num": 333372,
-      "word": "陈乔恩回应要不要小孩",
-      "onboard_time": 1758457521,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331475,
       "num": 208944,
       "word": "马思纯花少人生镜头",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 315914,
-      "num": 361911,
+      "num": 474164,
       "word": "宋茜演了郑晓龙新剧",
       "onboard_time": 1758456623,
       "rank": 7,
@@ -601,14 +625,6 @@
       "onboard_time": 1758428122,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 299472,
-      "num": 360317,
-      "word": "预制菜国家标准",
-      "onboard_time": 1758457043,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297376,
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 262724,
-      "num": 203516,
+      "num": 213429,
       "word": "给陈都灵戴无框眼镜的人简直是天才",
       "onboard_time": 1758446363,
       "rank": 26,
@@ -835,12 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229410,
+      "num": 229410,
+      "word": "王一博许魏洲合照",
+      "onboard_time": 1758458242,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "人上班真的不能太勤快",
       "onboard_time": 1758413661,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220116,
+      "num": 220116,
+      "word": "建议这8类人少喝咖啡",
+      "onboard_time": 1758458903,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214002,
@@ -1019,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191777,
+      "num": 191777,
+      "word": "TES五包一",
+      "onboard_time": 1758458782,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191267,
       "num": 191267,
       "word": "韩庚卢靖姗为3岁女儿庆生",
@@ -1043,20 +1083,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189182,
+      "num": 189182,
+      "word": "不眠日",
+      "onboard_time": 1758456863,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188133,
       "num": 188133,
       "word": "中国花滑米兰冬奥满额参赛",
       "onboard_time": 1758432080,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186174,
-      "num": 186174,
-      "word": "不眠日",
-      "onboard_time": 1758456863,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 186101,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1758430762,
       "rank": 31,
       "category": "民生新闻,演出"
-    },
-    {
-      "raw_hot": 182944,
-      "num": 182944,
-      "word": "BLG对战TES",
-      "onboard_time": 1758442581,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 180736,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1758413661,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 178389,
+      "num": 178389,
+      "word": "黄圣依脖子上贴了膏药",
+      "onboard_time": 1758459143,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 178279,
@@ -1227,8 +1267,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168177,
-      "num": 168177,
+      "raw_hot": 168189,
+      "num": 168189,
       "word": "山姆上架太二酸菜鱼预制菜",
       "onboard_time": 1758454101,
       "rank": 39,
@@ -1243,20 +1283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166836,
+      "num": 166836,
+      "word": "徐子未脱衣服忘记摘垫肩了",
+      "onboard_time": 1758458903,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165122,
       "num": 152880,
       "word": "英媒称中国出口导弹标低射程",
       "onboard_time": 1758448882,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 164540,
-      "num": 164540,
-      "word": "王一博许魏洲合照",
-      "onboard_time": 1758458242,
-      "rank": 28,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 162802,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1758432322,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161159,
+      "num": 158941,
+      "word": "刘轩丞直播",
+      "onboard_time": 1758458664,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 160125,
@@ -1435,6 +1483,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 148202,
+      "num": 148202,
+      "word": "米勒预测BLG夺冠",
+      "onboard_time": 1758459143,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148100,
       "num": 148100,
       "word": "光与夜之恋",
@@ -1523,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140592,
+      "num": 140592,
+      "word": "喻言音乐节",
+      "onboard_time": 1758458483,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140524,
       "num": 139991,
       "word": "张子枫马嘉祺新剧作者发文",
@@ -1537,6 +1601,14 @@
       "onboard_time": 1758413240,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140085,
+      "num": 140085,
+      "word": "特朗普大骂拜登",
+      "onboard_time": 1758457222,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139919,
@@ -1595,6 +1667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136373,
+      "num": 136373,
+      "word": "BLG决赛更换打野",
+      "onboard_time": 1758449721,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133748,
       "num": 190368,
       "word": "风王桦加沙基本锁定华南地区",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1758443722,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133449,
+      "num": 133449,
+      "word": "经济舱前6排全被锁座",
+      "onboard_time": 1758456921,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133238,
@@ -1635,22 +1723,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 131182,
-      "num": 131182,
-      "word": "BLG决赛更换打野",
-      "onboard_time": 1758449721,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 131103,
-      "num": 131103,
-      "word": "刘轩丞直播",
-      "onboard_time": 1758458664,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130642,
       "num": 130642,
       "word": "龚俊回地球团感觉像回家了",
@@ -1672,6 +1744,14 @@
       "word": "新华社 烟花秀一查到底",
       "onboard_time": 1758450984,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128363,
+      "num": 128363,
+      "word": "始祖鸟上千元鞋1个月不到就坏了",
+      "onboard_time": 1758456262,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1747,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125030,
-      "num": 125030,
-      "word": "特朗普大骂拜登",
-      "onboard_time": 1758457222,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 124427,
       "num": 156556,
       "word": "成毅把杨迪吴泽林吓了一跳又一跳",
@@ -1763,19 +1835,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124400,
-      "num": 124400,
-      "word": "经济舱前6排全被锁座",
-      "onboard_time": 1758456921,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124095,
       "num": 124095,
       "word": "2025PEL夏决冠军之夜",
       "onboard_time": 1758453202,
       "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 123796,
+      "num": 123796,
+      "word": "RW默契配合获胜",
+      "onboard_time": 1758458964,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -1955,6 +2027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117051,
+      "num": 117051,
+      "word": "乌贼杀红眼了",
+      "onboard_time": 1758458722,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116901,
       "num": 140995,
       "word": "时代少年团为王俊凯庆生",
@@ -2019,14 +2099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113470,
-      "num": 113470,
-      "word": "始祖鸟上千元鞋1个月不到就坏了",
-      "onboard_time": 1758456262,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113162,
       "num": 151898,
       "word": "韩东君昨天季军今天冠军",
@@ -2041,14 +2113,6 @@
       "onboard_time": 1758446903,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 112797,
-      "num": 112797,
-      "word": "喻言音乐节",
-      "onboard_time": 1758458483,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 112605,
@@ -2116,7 +2180,7 @@
     },
     {
       "raw_hot": 105921,
-      "num": 105921,
+      "num": 128516,
       "word": "这不是抹茶蛋糕这是黄鳝的家",
       "onboard_time": 1758458483,
       "rank": 48,
