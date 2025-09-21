@@ -1,0 +1,410 @@
+{
+  "runTime": 1758461229387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1382018,
+        "num": 1382018,
+        "word": "BLG夺冠",
+        "onboard_time": 1758459203,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 723785,
+        "num": 723785,
+        "word": "陈乔恩回应要不要小孩",
+        "onboard_time": 1758457521,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13105,
+        "num": 558974,
+        "word": "新疆四季美到了心尖尖上",
+        "onboard_time": 1758446482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 864769,
+        "num": 548996,
+        "word": "日本媒体鸦雀无声",
+        "onboard_time": 1758448162,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 498372,
+        "num": 498372,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448669,
+        "num": 448669,
+        "word": "预制菜国家标准",
+        "onboard_time": 1758457043,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425972,
+        "num": 425972,
+        "word": "BLG对战TES",
+        "onboard_time": 1758442581,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 399535,
+        "num": 399535,
+        "word": "村民称喜马拉雅山烟花味道很浓",
+        "onboard_time": 1758453861,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388849,
+        "num": 388849,
+        "word": "AL 软饭好吃",
+        "onboard_time": 1758459564,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 327453,
+        "num": 327453,
+        "word": "宋茜演了郑晓龙新剧",
+        "onboard_time": 1758456623,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 835539,
+        "num": 325694,
+        "word": "成毅形象大变迁",
+        "onboard_time": 1758455661,
+        "rank": 10,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 708240,
+        "num": 318290,
+        "word": "小狗赫兹去世",
+        "onboard_time": 1758454761,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605082,
+        "num": 312848,
+        "word": "黄灿灿 张振",
+        "onboard_time": 1758459803,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375830,
+        "num": 309134,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307733,
+        "num": 307733,
+        "word": "印度赴美机票2小时暴涨超110%",
+        "onboard_time": 1758452602,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 267495,
+        "num": 267495,
+        "word": "王一博许魏洲合照",
+        "onboard_time": 1758458242,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 131267,
+        "num": 265676,
+        "word": "忘事是阿尔茨海默前兆吗",
+        "onboard_time": 1758460764,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265349,
+        "num": 265349,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127537,
+        "num": 234934,
+        "word": "蔡国强烟花秀区域具有显著脆弱性",
+        "onboard_time": 1758453202,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221692,
+        "num": 221692,
+        "word": "张晚意 音乐节",
+        "onboard_time": 1758459863,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 613686,
+        "num": 221411,
+        "word": "王源评论祝王俊凯生日快乐",
+        "onboard_time": 1758444862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302712,
+        "num": 215580,
+        "word": "黄灿灿赚的第一笔钱给男朋友补交学费",
+        "onboard_time": 1758448223,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237739,
+        "num": 209935,
+        "word": "徐子未脱衣服忘记摘垫肩了",
+        "onboard_time": 1758458903,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200989,
+        "num": 200989,
+        "word": "雷军转发了王一博",
+        "onboard_time": 1758447562,
+        "rank": 23,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 1050089,
+        "num": 200715,
+        "word": "孕妇被未栓绳狗追咬胎停主人拒赔",
+        "onboard_time": 1758453202,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196052,
+        "num": 196052,
+        "word": "建议这8类人少喝咖啡",
+        "onboard_time": 1758458903,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194868,
+        "num": 194868,
+        "word": "穆祉丞直播",
+        "onboard_time": 1758460224,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193730,
+        "num": 193730,
+        "word": "徐明浩音乐节出图",
+        "onboard_time": 1758460701,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156569,
+        "num": 192563,
+        "word": "谢娜说撒贝宁有点多余",
+        "onboard_time": 1758454403,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192399,
+        "num": 192399,
+        "word": "冒泡赛",
+        "onboard_time": 1758459982,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190859,
+        "num": 190859,
+        "word": "我想看黄圣依再演古装但不是这种",
+        "onboard_time": 1758459863,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188079,
+        "num": 188079,
+        "word": "黄圣依脖子上贴了膏药",
+        "onboard_time": 1758459143,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185341,
+        "num": 185341,
+        "word": "心疼BLG北川",
+        "onboard_time": 1758459681,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180265,
+        "num": 180265,
+        "word": "常说4句话的人痴呆倾向高",
+        "onboard_time": 1758460403,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96103,
+        "num": 178427,
+        "word": "被3只宠物狗追咬胎停孕妇最新发声",
+        "onboard_time": 1758461122,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178000,
+        "num": 178000,
+        "word": "Bin 冠军是我们的",
+        "onboard_time": 1758461003,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175219,
+        "num": 175219,
+        "word": "Knight荣获FMVP",
+        "onboard_time": 1758461061,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172539,
+        "num": 172539,
+        "word": "给陈都灵戴无框眼镜的人简直是天才",
+        "onboard_time": 1758446363,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158013,
+        "num": 158013,
+        "word": "菲军方宣布红色警戒状态",
+        "onboard_time": 1758460883,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17396,
+        "num": 157110,
+        "word": "这是人民空军带来的震撼与浪漫",
+        "onboard_time": 1758423921,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156695,
+        "num": 156695,
+        "word": "台风",
+        "onboard_time": 1758444442,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154146,
+        "num": 154146,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150641,
+        "num": 150641,
+        "word": "云秀行",
+        "onboard_time": 1758454761,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148126,
+        "num": 148126,
+        "word": "经济舱前6排全被锁座",
+        "onboard_time": 1758456921,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62058,
+        "num": 147300,
+        "word": "贵州136人因食物中毒住院",
+        "onboard_time": 1758460043,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147062,
+        "num": 147062,
+        "word": "原来很多牙齿是不用补的",
+        "onboard_time": 1758450743,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72283,
+        "num": 146532,
+        "word": "官网暂查不到烟花秀备案信息",
+        "onboard_time": 1758459681,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146157,
+        "num": 146157,
+        "word": "JackeyLove决赛德莱文",
+        "onboard_time": 1758459803,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144415,
+        "num": 144415,
+        "word": "不眠日",
+        "onboard_time": 1758456863,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143932,
+        "num": 143932,
+        "word": "预制菜要有国标了",
+        "onboard_time": 1758456682,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}

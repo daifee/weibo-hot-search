@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758459555220,
+  "endTime": 1758461229387,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -57,6 +57,14 @@
       "onboard_time": 1758413420,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1382018,
+      "num": 1382018,
+      "word": "BLG夺冠",
+      "onboard_time": 1758459203,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 1348460,
@@ -163,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 835539,
+      "num": 465355,
+      "word": "成毅形象大变迁",
+      "onboard_time": 1758455661,
+      "rank": 11,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 827836,
       "num": 827836,
       "word": "喜欢侧睡的受害者出现了",
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 723785,
+      "num": 723785,
+      "word": "陈乔恩回应要不要小孩",
+      "onboard_time": 1758457521,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723229,
       "num": 723229,
       "word": "不眠日大结局",
@@ -283,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 639312,
-      "num": 465355,
-      "word": "成毅形象大变迁",
-      "onboard_time": 1758455661,
-      "rank": 11,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 629981,
       "num": 629981,
       "word": "始祖鸟致歉",
@@ -321,6 +337,14 @@
       "onboard_time": 1758423501,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 605082,
+      "num": 312848,
+      "word": "黄灿灿 张振",
+      "onboard_time": 1758459803,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 596683,
@@ -361,14 +385,6 @@
       "onboard_time": 1758445101,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 515075,
-      "num": 515075,
-      "word": "陈乔恩回应要不要小孩",
-      "onboard_time": 1758457521,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 505616,
@@ -433,14 +449,6 @@
       "onboard_time": 1758457043,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 459419,
-      "num": 459419,
-      "word": "BLG夺冠",
-      "onboard_time": 1758459203,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 459067,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388849,
+      "num": 388849,
+      "word": "AL 软饭好吃",
+      "onboard_time": 1758459564,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -595,20 +611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327453,
+      "num": 474164,
+      "word": "宋茜演了郑晓龙新剧",
+      "onboard_time": 1758456623,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320064,
       "num": 129269,
       "word": "原来牙齿与寿命有关系",
       "onboard_time": 1758418342,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 315914,
-      "num": 474164,
-      "word": "宋茜演了郑晓龙新剧",
-      "onboard_time": 1758456623,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 315285,
@@ -705,6 +721,14 @@
       "onboard_time": 1758441322,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267495,
+      "num": 267495,
+      "word": "王一博许魏洲合照",
+      "onboard_time": 1758458242,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 264944,
@@ -835,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237739,
+      "num": 209935,
+      "word": "徐子未脱衣服忘记摘垫肩了",
+      "onboard_time": 1758458903,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237138,
       "num": 237138,
       "word": "第一批拿到苹果17的真实感受",
@@ -851,20 +883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229410,
-      "num": 229410,
-      "word": "王一博许魏洲合照",
-      "onboard_time": 1758458242,
-      "rank": 28,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "人上班真的不能太勤快",
       "onboard_time": 1758413661,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221692,
+      "num": 221692,
+      "word": "张晚意 音乐节",
+      "onboard_time": 1758459863,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 220116,
@@ -1035,12 +1067,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194868,
+      "num": 194868,
+      "word": "穆祉丞直播",
+      "onboard_time": 1758460224,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193730,
+      "num": 193730,
+      "word": "徐明浩音乐节出图",
+      "onboard_time": 1758460701,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193029,
       "num": 283572,
       "word": "疾风劲草阵容官宣",
       "onboard_time": 1758425722,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192399,
+      "num": 192399,
+      "word": "冒泡赛",
+      "onboard_time": 1758459982,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 191804,
@@ -1063,6 +1119,14 @@
       "num": 191267,
       "word": "韩庚卢靖姗为3岁女儿庆生",
       "onboard_time": 1758430521,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190859,
+      "num": 190859,
+      "word": "我想看黄圣依再演古装但不是这种",
+      "onboard_time": 1758459863,
       "rank": 30,
       "category": "艺人"
     },
@@ -1099,12 +1163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188079,
+      "num": 188079,
+      "word": "黄圣依脖子上贴了膏药",
+      "onboard_time": 1758459143,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186101,
       "num": 242167,
       "word": "五月天演唱会内场起冲突目击者发声",
       "onboard_time": 1758417804,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185341,
+      "num": 185341,
+      "word": "心疼BLG北川",
+      "onboard_time": 1758459681,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 183166,
@@ -1139,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180265,
+      "num": 180265,
+      "word": "常说4句话的人痴呆倾向高",
+      "onboard_time": 1758460403,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180219,
       "num": 180219,
       "word": "沈月七月的一天杀青vlog",
@@ -1155,19 +1243,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 178389,
-      "num": 178389,
-      "word": "黄圣依脖子上贴了膏药",
-      "onboard_time": 1758459143,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178279,
       "num": 178279,
       "word": "GEN战胜T1",
       "onboard_time": 1758453141,
       "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 178000,
+      "num": 178000,
+      "word": "Bin 冠军是我们的",
+      "onboard_time": 1758461003,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -1185,6 +1273,14 @@
       "onboard_time": 1758456983,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175219,
+      "num": 175219,
+      "word": "Knight荣获FMVP",
+      "onboard_time": 1758461061,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 174657,
@@ -1281,14 +1377,6 @@
       "onboard_time": 1758437901,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166836,
-      "num": 166836,
-      "word": "徐子未脱衣服忘记摘垫肩了",
-      "onboard_time": 1758458903,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 165122,
@@ -1403,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158013,
+      "num": 158013,
+      "word": "菲军方宣布红色警戒状态",
+      "onboard_time": 1758460883,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156471,
       "num": 156471,
       "word": "731上映3天票房破10亿",
@@ -1491,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148126,
+      "num": 148126,
+      "word": "经济舱前6排全被锁座",
+      "onboard_time": 1758456921,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148100,
       "num": 148100,
       "word": "光与夜之恋",
@@ -1513,6 +1617,14 @@
       "onboard_time": 1758420681,
       "rank": 41,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 146157,
+      "num": 146157,
+      "word": "JackeyLove决赛德莱文",
+      "onboard_time": 1758459803,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 145883,
@@ -1691,14 +1803,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 133449,
-      "num": 133449,
-      "word": "经济舱前6排全被锁座",
-      "onboard_time": 1758456921,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133238,
       "num": 133238,
       "word": "导入聊天记录 设备空间不足",
@@ -1721,6 +1825,14 @@
       "onboard_time": 1758442581,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131267,
+      "num": 265676,
+      "word": "忘事是阿尔茨海默前兆吗",
+      "onboard_time": 1758460764,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130642,
@@ -1777,6 +1889,14 @@
       "onboard_time": 1758437000,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127537,
+      "num": 234934,
+      "word": "蔡国强烟花秀区域具有显著脆弱性",
+      "onboard_time": 1758453202,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127308,
@@ -2187,14 +2307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105326,
-      "num": 105326,
-      "word": "蔡国强烟花秀区域具有显著脆弱性",
-      "onboard_time": 1758453202,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105005,
       "num": 105005,
       "word": "读研前vs读研后",
@@ -2304,6 +2416,14 @@
       "word": "植物学博士谈始祖鸟烟花秀事件",
       "onboard_time": 1758379284,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96103,
+      "num": 178427,
+      "word": "被3只宠物狗追咬胎停孕妇最新发声",
+      "onboard_time": 1758461122,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -2571,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72283,
+      "num": 146532,
+      "word": "官网暂查不到烟花秀备案信息",
+      "onboard_time": 1758459681,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70934,
       "num": 140862,
       "word": "谢娜被女儿教育了",
@@ -2624,6 +2752,14 @@
       "word": "蔡国强烟花秀生态破坏力",
       "onboard_time": 1758420082,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62058,
+      "num": 147300,
+      "word": "贵州136人因食物中毒住院",
+      "onboard_time": 1758460043,
+      "rank": 44,
       "category": "民生新闻"
     },
     {

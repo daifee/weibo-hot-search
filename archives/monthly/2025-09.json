@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758459555220,
+  "endTime": 1758461229387,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2193,6 +2193,14 @@
       "onboard_time": 1758130038,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1382018,
+      "num": 1382018,
+      "word": "BLG夺冠",
+      "onboard_time": 1758459203,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 1381240,
@@ -4851,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 835539,
+      "num": 465355,
+      "word": "成毅形象大变迁",
+      "onboard_time": 1758455661,
+      "rank": 11,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 835144,
       "num": 912167,
       "word": "车澈曾当李嘉格面抱乃万",
@@ -6035,6 +6051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 723785,
+      "num": 723785,
+      "word": "陈乔恩回应要不要小孩",
+      "onboard_time": 1758457521,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723635,
       "num": 1291869,
       "word": "1945到2025",
@@ -7011,14 +7035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 639312,
-      "num": 465355,
-      "word": "成毅形象大变迁",
-      "onboard_time": 1758455661,
-      "rank": 11,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 639198,
       "num": 416722,
       "word": "85花格局要变了",
@@ -7505,6 +7521,14 @@
       "onboard_time": 1756868083,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 605082,
+      "num": 312848,
+      "word": "黄灿灿 张振",
+      "onboard_time": 1758459803,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 604278,
@@ -9195,14 +9219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 515075,
-      "num": 515075,
-      "word": "陈乔恩回应要不要小孩",
-      "onboard_time": 1758457521,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 514424,
       "num": 514424,
       "word": "心动的信号 时尚芭莎",
@@ -10489,14 +10505,6 @@
       "onboard_time": 1757129182,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 459419,
-      "num": 459419,
-      "word": "BLG夺冠",
-      "onboard_time": 1758459203,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 459067,
@@ -12665,6 +12673,14 @@
       "onboard_time": 1756971982,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 388849,
+      "num": 388849,
+      "word": "AL 软饭好吃",
+      "onboard_time": 1758459564,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 388687,
@@ -14931,6 +14947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327453,
+      "num": 474164,
+      "word": "宋茜演了郑晓龙新剧",
+      "onboard_time": 1758456623,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326942,
       "num": 326942,
       "word": "王毅送匈牙利外长中国跑鞋",
@@ -15385,14 +15409,6 @@
       "onboard_time": 1757049444,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315914,
-      "num": 474164,
-      "word": "宋茜演了郑晓龙新剧",
-      "onboard_time": 1758456623,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 315912,
@@ -17483,6 +17499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267495,
+      "num": 267495,
+      "word": "王一博许魏洲合照",
+      "onboard_time": 1758458242,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 267429,
       "num": 185671,
       "word": "单身太久突然谈了个恋爱时",
@@ -19219,6 +19243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237739,
+      "num": 209935,
+      "word": "徐子未脱衣服忘记摘垫肩了",
+      "onboard_time": 1758458903,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237550,
       "num": 461236,
       "word": "惠英红杨幂热巴 敬鱼死网破的胜利",
@@ -19809,14 +19841,6 @@
       "onboard_time": 1757213721,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229410,
-      "num": 229410,
-      "word": "王一博许魏洲合照",
-      "onboard_time": 1758458242,
-      "rank": 28,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 229407,
@@ -20449,6 +20473,14 @@
       "onboard_time": 1758009083,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221692,
+      "num": 221692,
+      "word": "张晚意 音乐节",
+      "onboard_time": 1758459863,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 221669,
@@ -23907,6 +23939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194868,
+      "num": 194868,
+      "word": "穆祉丞直播",
+      "onboard_time": 1758460224,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194856,
       "num": 194856,
       "word": "无畏人性是复杂的",
@@ -24209,6 +24249,14 @@
       "onboard_time": 1757646686,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193730,
+      "num": 193730,
+      "word": "徐明浩音乐节出图",
+      "onboard_time": 1758460701,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 193724,
@@ -24521,6 +24569,14 @@
       "onboard_time": 1757053941,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192399,
+      "num": 192399,
+      "word": "冒泡赛",
+      "onboard_time": 1757852724,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 192381,
@@ -24864,6 +24920,14 @@
       "word": "黄雅莉和她的十个勤天弟弟",
       "onboard_time": 1757402182,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190859,
+      "num": 190859,
+      "word": "我想看黄圣依再演古装但不是这种",
+      "onboard_time": 1758459863,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -25379,6 +25443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188079,
+      "num": 188079,
+      "word": "黄圣依脖子上贴了膏药",
+      "onboard_time": 1758459143,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188075,
       "num": 188075,
       "word": "渝超",
@@ -25873,6 +25945,14 @@
       "onboard_time": 1758083005,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185341,
+      "num": 185341,
+      "word": "心疼BLG北川",
+      "onboard_time": 1758459681,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 185280,
@@ -26771,6 +26851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180265,
+      "num": 180265,
+      "word": "常说4句话的人痴呆倾向高",
+      "onboard_time": 1758460403,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180261,
       "num": 180261,
       "word": "孟子义 姐姐还不够努力",
@@ -27091,14 +27179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178389,
-      "num": 178389,
-      "word": "黄圣依脖子上贴了膏药",
-      "onboard_time": 1758459143,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178386,
       "num": 156993,
       "word": "一诺当初的愿望实现了",
@@ -27161,6 +27241,14 @@
       "onboard_time": 1757670144,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 178000,
+      "num": 178000,
+      "word": "Bin 冠军是我们的",
+      "onboard_time": 1758461003,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 177830,
@@ -27529,6 +27617,14 @@
       "onboard_time": 1757254643,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175219,
+      "num": 175219,
+      "word": "Knight荣获FMVP",
+      "onboard_time": 1758461061,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 175217,
@@ -29363,14 +29459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166836,
-      "num": 166836,
-      "word": "徐子未脱衣服忘记摘垫肩了",
-      "onboard_time": 1758458903,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 166828,
       "num": 166828,
       "word": "北漂10年攒下人生第一个100万",
@@ -30177,14 +30265,6 @@
       "onboard_time": 1757425463,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 163482,
-      "num": 163482,
-      "word": "冒泡赛",
-      "onboard_time": 1757852724,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 163449,
@@ -31592,6 +31672,14 @@
       "word": "泽连斯基说所有国家别考虑自己了",
       "onboard_time": 1758176541,
       "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 158013,
+      "num": 158013,
+      "word": "菲军方宣布红色警戒状态",
+      "onboard_time": 1758460883,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -34267,6 +34355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148126,
+      "num": 148126,
+      "word": "经济舱前6排全被锁座",
+      "onboard_time": 1758456921,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148124,
       "num": 243526,
       "word": "普京透露特朗普同乘一辆车细节",
@@ -34977,6 +35073,14 @@
       "onboard_time": 1757389523,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146157,
+      "num": 146157,
+      "word": "JackeyLove决赛德莱文",
+      "onboard_time": 1758459803,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 146075,
@@ -39139,14 +39243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133449,
-      "num": 133449,
-      "word": "经济舱前6排全被锁座",
-      "onboard_time": 1758456921,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133448,
       "num": 133448,
       "word": "卡纳瓦罗报名竞聘国足主帅",
@@ -39801,6 +39897,14 @@
       "onboard_time": 1757947884,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 131267,
+      "num": 265676,
+      "word": "忘事是阿尔茨海默前兆吗",
+      "onboard_time": 1758460764,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131257,
@@ -41257,6 +41361,14 @@
       "onboard_time": 1756817543,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127537,
+      "num": 234934,
+      "word": "蔡国强烟花秀区域具有显著脆弱性",
+      "onboard_time": 1758453202,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127513,
@@ -49691,14 +49803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105326,
-      "num": 105326,
-      "word": "蔡国强烟花秀区域具有显著脆弱性",
-      "onboard_time": 1758453202,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105256,
       "num": 460122,
       "word": "成都地铁被指偷拍案原告发声",
@@ -53057,6 +53161,14 @@
       "onboard_time": 1757224822,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96103,
+      "num": 178427,
+      "word": "被3只宠物狗追咬胎停孕妇最新发声",
+      "onboard_time": 1758461122,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96080,
@@ -58555,6 +58667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72283,
+      "num": 146532,
+      "word": "官网暂查不到烟花秀备案信息",
+      "onboard_time": 1758459681,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72230,
       "num": 72230,
       "word": "一诺微博粉丝破500万",
@@ -59993,6 +60113,14 @@
       "onboard_time": 1756769597,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62058,
+      "num": 147300,
+      "word": "贵州136人因食物中毒住院",
+      "onboard_time": 1758460043,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62012,
