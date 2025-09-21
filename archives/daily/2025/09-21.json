@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758429734015,
+  "endTime": 1758432223218,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1112065,
+      "raw_hot": 1286011,
       "num": 353478,
       "word": "始祖鸟 安踏",
       "onboard_time": 1758423381,
@@ -48,6 +48,14 @@
       "word": "蔡国强 始祖鸟",
       "onboard_time": 1758412640,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1038719,
+      "num": 668504,
+      "word": "始祖鸟外网道歉被指甩锅中国团队",
+      "onboard_time": 1758426321,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810763,
+      "num": 308809,
+      "word": "文章马伊琍大女儿17岁近照",
+      "onboard_time": 1758429981,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797193,
       "num": 151700,
       "word": "王源",
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 723229,
+      "num": 723229,
+      "word": "不眠日大结局",
+      "onboard_time": 1758429622,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 721130,
       "num": 227089,
       "word": "始祖鸟删博",
@@ -107,20 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 689538,
+      "raw_hot": 720524,
       "num": 689538,
       "word": "李维嘉问董璇为什么不和女儿说实话",
       "onboard_time": 1758424162,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 668504,
-      "num": 668504,
-      "word": "始祖鸟外网道歉被指甩锅中国团队",
-      "onboard_time": 1758426321,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 665663,
@@ -195,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 459067,
+      "num": 459067,
+      "word": "请彻查始祖鸟炸山秀审批三大漏洞",
+      "onboard_time": 1758426802,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451575,
       "num": 430418,
       "word": "王俊凯26岁生日照",
@@ -227,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 414862,
-      "num": 414862,
-      "word": "请彻查始祖鸟炸山秀审批三大漏洞",
-      "onboard_time": 1758426802,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404826,
       "num": 404826,
       "word": "宋茜曹骏二搭",
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395897,
+      "num": 395897,
+      "word": "专家称当前退休金与工资相比较高",
+      "onboard_time": 1758428723,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395004,
       "num": 395004,
       "word": "中国导弹亮相塞尔维亚阅兵",
@@ -273,6 +297,14 @@
       "onboard_time": 1758415163,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 366449,
+      "num": 308617,
+      "word": "王一博 白象",
+      "onboard_time": 1758428661,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 364125,
@@ -291,8 +323,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 345838,
-      "num": 345838,
+      "raw_hot": 350197,
+      "num": 350197,
       "word": "女童20楼坠至13楼雨棚众人合力救援",
       "onboard_time": 1758428240,
       "rank": 14,
@@ -323,12 +355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308617,
-      "num": 308617,
-      "word": "王一博 白象",
-      "onboard_time": 1758428661,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 303280,
+      "num": 280695,
+      "word": "空腹吃主食的危害",
+      "onboard_time": 1758428122,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 297376,
@@ -337,14 +369,6 @@
       "onboard_time": 1758420803,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287838,
-      "num": 233891,
-      "word": "空腹吃主食的危害",
-      "onboard_time": 1758428122,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 284719,
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 240765,
-      "num": 240765,
+      "num": 284509,
       "word": "邓超到底看没看过甄嬛传",
       "onboard_time": 1758425842,
       "rank": 37,
@@ -467,14 +491,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 232916,
-      "num": 232916,
-      "word": "专家称当前退休金与工资相比较高",
-      "onboard_time": 1758428723,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "人上班真的不能太勤快",
@@ -483,8 +499,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213327,
+      "num": 213327,
+      "word": "始祖鸟海内外致歉内容不一致",
+      "onboard_time": 1758430642,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212997,
-      "num": 212997,
+      "num": 317799,
       "word": "凉山警方通报2岁失踪女童死亡",
       "onboard_time": 1758425121,
       "rank": 38,
@@ -513,6 +537,22 @@
       "onboard_time": 1758424342,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205778,
+      "num": 285700,
+      "word": "不眠日男子冷藏已逝女友七年多",
+      "onboard_time": 1758431241,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205356,
+      "num": 329975,
+      "word": "七星鲁王宫重拍了",
+      "onboard_time": 1758429563,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 201662,
@@ -547,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195602,
+      "num": 195602,
+      "word": "是谁给始祖鸟炸山秀大开绿灯",
+      "onboard_time": 1758428122,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193029,
       "num": 283572,
       "word": "疾风劲草阵容官宣",
       "onboard_time": 1758425722,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191267,
+      "num": 191267,
+      "word": "韩庚卢靖姗为3岁女儿庆生",
+      "onboard_time": 1758430521,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 189515,
@@ -571,12 +627,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181549,
-      "num": 181549,
-      "word": "是谁给始祖鸟炸山秀大开绿灯",
-      "onboard_time": 1758428122,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 183166,
+      "num": 183166,
+      "word": "网友称卖水哥卖完就走不看一眼杰伦",
+      "onboard_time": 1758430762,
+      "rank": 31,
+      "category": "民生新闻,演出"
     },
     {
       "raw_hot": 180358,
@@ -627,12 +683,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 168194,
+      "raw_hot": 169291,
       "num": 2202840,
       "word": "石榴红了满天山",
       "onboard_time": 1758427701,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166014,
+      "num": 166014,
+      "word": "张继科点评男乒最强正反手",
+      "onboard_time": 1758431841,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 162802,
@@ -657,6 +721,14 @@
       "onboard_time": 1758418223,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159291,
+      "num": 159291,
+      "word": "香港1.5平方空间的家",
+      "onboard_time": 1758428481,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 158941,
@@ -715,6 +787,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 152812,
+      "num": 283472,
+      "word": "龚俊被误认为是张雅琪的老板",
+      "onboard_time": 1758430701,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148774,
       "num": 181982,
       "word": "中企回应在非洲遭800亿美元天价索赔",
@@ -737,14 +817,6 @@
       "onboard_time": 1758384142,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145078,
-      "num": 145078,
-      "word": "七星鲁王宫重拍了",
-      "onboard_time": 1758429563,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 143536,
@@ -771,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141871,
+      "num": 141871,
+      "word": "中国花滑米兰冬奥满额参赛",
+      "onboard_time": 1758432080,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140524,
       "num": 139991,
       "word": "张子枫马嘉祺新剧作者发文",
@@ -793,22 +873,6 @@
       "onboard_time": 1758423981,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125731,
-      "num": 122290,
-      "word": "香港1.5平方空间的家",
-      "onboard_time": 1758428481,
-      "rank": 43,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 124166,
-      "num": 124166,
-      "word": "不眠日大结局",
-      "onboard_time": 1758429622,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 123661,
@@ -891,6 +955,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120368,
+      "num": 120368,
+      "word": "李荣浩腿部伤疤原来是这样来的",
+      "onboard_time": 1758430581,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 119020,
+      "num": 119020,
+      "word": "蔡文静把花瓶当裙子穿",
+      "onboard_time": 1758432080,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118984,
+      "num": 118984,
+      "word": "外网评论电影731",
+      "onboard_time": 1758431961,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118560,
       "num": 182142,
       "word": "致敬自然无需烟花证明",
@@ -969,6 +1057,14 @@
       "onboard_time": 1758427282,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107326,
+      "num": 107326,
+      "word": "中国古人早就玩上了高尔夫",
+      "onboard_time": 1758432020,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106750,
@@ -1251,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74739,
+      "num": 156254,
+      "word": "唐九洲向韩国人安利汉服",
+      "onboard_time": 1758431121,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72799,
       "num": 80004,
       "word": "人人人人机人人人人",
@@ -1313,6 +1417,14 @@
       "onboard_time": 1758401234,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55862,
+      "num": 198114,
+      "word": "和肖战一起健康用水",
+      "onboard_time": 1758429322,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 51879,
@@ -1385,14 +1497,6 @@
       "onboard_time": 1758415823,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39068,
-      "num": 110896,
-      "word": "和肖战一起健康用水",
-      "onboard_time": 1758429322,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33716,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758432223218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7471187,
+        "num": 7471187,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723229,
+        "num": 723229,
+        "word": "不眠日大结局",
+        "onboard_time": 1758429622,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169291,
+        "num": 477122,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758427701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1790591,
+        "num": 473263,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459067,
+        "num": 459067,
+        "word": "请彻查始祖鸟炸山秀审批三大漏洞",
+        "onboard_time": 1758426802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395897,
+        "num": 395897,
+        "word": "专家称当前退休金与工资相比较高",
+        "onboard_time": 1758428723,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350197,
+        "num": 350197,
+        "word": "女童20楼坠至13楼雨棚众人合力救援",
+        "onboard_time": 1758428240,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 330071,
+        "num": 330071,
+        "word": "嵩山一景区巨型蛇头已被覆盖",
+        "onboard_time": 1758420382,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205356,
+        "num": 329975,
+        "word": "七星鲁王宫重拍了",
+        "onboard_time": 1758429563,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83307,
+        "num": 317799,
+        "word": "凉山警方通报2岁失踪女童死亡",
+        "onboard_time": 1758425121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1038719,
+        "num": 313903,
+        "word": "始祖鸟外网道歉被指甩锅中国团队",
+        "onboard_time": 1758426321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810763,
+        "num": 308809,
+        "word": "文章马伊琍大女儿17岁近照",
+        "onboard_time": 1758429981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720524,
+        "num": 300721,
+        "word": "李维嘉问董璇为什么不和女儿说实话",
+        "onboard_time": 1758424162,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543972,
+        "num": 298642,
+        "word": "谁家综艺官宣给艺人打码",
+        "onboard_time": 1758423501,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366449,
+        "num": 289643,
+        "word": "王一博 白象",
+        "onboard_time": 1758428661,
+        "rank": 14,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 286775,
+        "num": 286775,
+        "word": "始祖鸟致歉",
+        "onboard_time": 1758413479,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285728,
+        "num": 285728,
+        "word": "蔡国强称如确影响环境将全力补救",
+        "onboard_time": 1758415763,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205778,
+        "num": 285700,
+        "word": "不眠日男子冷藏已逝女友七年多",
+        "onboard_time": 1758431241,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153130,
+        "num": 284509,
+        "word": "邓超到底看没看过甄嬛传",
+        "onboard_time": 1758425842,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152812,
+        "num": 283472,
+        "word": "龚俊被误认为是张雅琪的老板",
+        "onboard_time": 1758430701,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1286011,
+        "num": 282753,
+        "word": "始祖鸟 安踏",
+        "onboard_time": 1758423381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511574,
+        "num": 281912,
+        "word": "蔡国强 始祖鸟",
+        "onboard_time": 1758412640,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303280,
+        "num": 280695,
+        "word": "空腹吃主食的危害",
+        "onboard_time": 1758428122,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280324,
+        "num": 280324,
+        "word": "宋茜曹骏二搭",
+        "onboard_time": 1758424701,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260444,
+        "num": 260444,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 228798,
+        "num": 228798,
+        "word": "女子连续偷吃5个蛋挞后转身就走",
+        "onboard_time": 1758420082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213327,
+        "num": 213327,
+        "word": "始祖鸟海内外致歉内容不一致",
+        "onboard_time": 1758430642,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203982,
+        "num": 203982,
+        "word": "王俊凯26岁生日照",
+        "onboard_time": 1758410598,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55862,
+        "num": 198114,
+        "word": "和肖战一起健康用水",
+        "onboard_time": 1758429322,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195602,
+        "num": 195602,
+        "word": "是谁给始祖鸟炸山秀大开绿灯",
+        "onboard_time": 1758428122,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191267,
+        "num": 191267,
+        "word": "韩庚卢靖姗为3岁女儿庆生",
+        "onboard_time": 1758430521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183166,
+        "num": 183166,
+        "word": "网友称卖水哥卖完就走不看一眼杰伦",
+        "onboard_time": 1758430762,
+        "rank": 31,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 180597,
+        "num": 180597,
+        "word": "郑钧刘芸两个魔丸生出了一个灵珠",
+        "onboard_time": 1758409758,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166912,
+        "num": 166912,
+        "word": "18岁女孩发现男友已婚饮酒后跳江",
+        "onboard_time": 1758414863,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166014,
+        "num": 166014,
+        "word": "张继科点评男乒最强正反手",
+        "onboard_time": 1758431841,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162338,
+        "num": 162338,
+        "word": "第一批拿到苹果17的真实感受",
+        "onboard_time": 1758420863,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159526,
+        "num": 159526,
+        "word": "升龙烟花燃放地植被恢复或需上百年",
+        "onboard_time": 1758420681,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159291,
+        "num": 159291,
+        "word": "香港1.5平方空间的家",
+        "onboard_time": 1758428481,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 157186,
+        "num": 157186,
+        "word": "刘浩存红发",
+        "onboard_time": 1758426383,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74739,
+        "num": 156254,
+        "word": "唐九洲向韩国人安利汉服",
+        "onboard_time": 1758431121,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155575,
+        "num": 155575,
+        "word": "始祖鸟评论区开一键防护",
+        "onboard_time": 1758418164,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141871,
+        "num": 141871,
+        "word": "中国花滑米兰冬奥满额参赛",
+        "onboard_time": 1758432080,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132395,
+        "num": 132395,
+        "word": "炸山鸟",
+        "onboard_time": 1758424822,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121231,
+        "num": 121231,
+        "word": "戴向宇曾单方面通知家人要离婚",
+        "onboard_time": 1758412580,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120368,
+        "num": 120368,
+        "word": "李荣浩腿部伤疤原来是这样来的",
+        "onboard_time": 1758430581,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119020,
+        "num": 119020,
+        "word": "蔡文静把花瓶当裙子穿",
+        "onboard_time": 1758432080,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118984,
+        "num": 118984,
+        "word": "外网评论电影731",
+        "onboard_time": 1758431961,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117531,
+        "num": 117531,
+        "word": "毛晓彤这段舞蹈我能反复看10遍",
+        "onboard_time": 1758428061,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112228,
+        "num": 112228,
+        "word": "始祖鸟烟花被指效仿猛犸象",
+        "onboard_time": 1758422242,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107326,
+        "num": 107326,
+        "word": "中国古人早就玩上了高尔夫",
+        "onboard_time": 1758432020,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}
