@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 18:39:13
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 19:19:13
 </p>
 </blockquote>
 <p>
@@ -1233,6 +1233,12 @@ miumiu签了三个00花（热度：1748229）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AA%92%E4%BD%93%E9%B8%A6%E9%9B%80%E6%97%A0%E5%A3%B0%23" target="weibo">
+日本媒体鸦雀无声（热度：1625482）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BB%8A%E6%99%A8%E7%9A%84%E5%8C%97%E4%BA%AC%23" target="weibo">
 这就是今晨的北京（热度：1624955）
 </a>
@@ -1547,12 +1553,6 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%B3%E6%84%8F%E8%BE%9E%E8%81%8C%23" target="weibo">
 石破茂决意辞职（热度：1439309）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AA%92%E4%BD%93%E9%B8%A6%E9%9B%80%E6%97%A0%E5%A3%B0%23" target="weibo">
-日本媒体鸦雀无声（热度：1438506）
 </a>
 </li>
 
@@ -4281,6 +4281,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%B5%9A%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AC%94%E9%92%B1%E7%BB%99%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%A1%A5%E4%BA%A4%E5%AD%A6%E8%B4%B9%23" target="weibo">
+黄灿灿赚的第一笔钱给男朋友补交学费（热度：750924）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E6%89%93%E6%98%8E%E7%89%8C%23" target="weibo">
 贾国龙称西贝今后将打明牌（热度：750481）
 </a>
@@ -5169,6 +5175,12 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E6%94%AF%E6%8C%81%E4%BB%96%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB%23" target="weibo">
+蔡国强感谢大家支持他大闹天宫（热度：647628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%BF%E7%95%8CCEO%23" target="weibo">
 势界CEO（热度：647007）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BD%93%E9%BB%84%E5%AD%90%E9%9F%AC%E9%9D%A2%E8%AF%B4e%E4%B8%8D%E5%8F%91%E9%9F%B3%23" target="weibo">
 终于有人当黄子韬面说e不发音（热度：572997）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%9F%8E%E6%A5%BC%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%94%BB%E5%83%8F%E5%AE%8C%E6%88%90%E5%B9%B4%E5%BA%A6%E6%8D%A2%E6%96%B0%23" target="weibo">
-天安门城楼毛主席画像完成年度换新（热度：570695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%BD%91%E7%BA%A2%E6%97%A0%E8%AF%AD%E5%93%A5%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%AE%98%E5%AE%A3%23" target="weibo">
-全球第二大网红无语哥中国行官宣（热度：570592）
 </a>
 </li>
 
