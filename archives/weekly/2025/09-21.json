@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758465499145,
+  "endTime": 1758468187083,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2109660,
+      "num": 226073,
+      "word": "易烊千玺给王俊凯的生日祝福",
+      "onboard_time": 1758467365,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1919538,
       "num": 469075,
       "word": "王源评论祝王俊凯生日快乐",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1625482,
-      "num": 595755,
+      "num": 683318,
       "word": "日本媒体鸦雀无声",
       "onboard_time": 1758448162,
       "rank": 3,
@@ -96,6 +104,14 @@
       "word": "始祖鸟 安踏",
       "onboard_time": 1758423381,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1177034,
+      "num": 1188325,
+      "word": "今年以来最强台风来袭",
+      "onboard_time": 1758462444,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -155,12 +171,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 944814,
+      "num": 944814,
+      "word": "安踏回应始祖鸟炸山风波",
+      "onboard_time": 1758463287,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 933244,
       "num": 467941,
       "word": "章若楠给全体员工换新手机了",
       "onboard_time": 1758442882,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 928466,
+      "num": 465355,
+      "word": "成毅形象大变迁",
+      "onboard_time": 1758455661,
+      "rank": 11,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 904152,
@@ -185,14 +217,6 @@
       "onboard_time": 1758382342,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 835539,
-      "num": 465355,
-      "word": "成毅形象大变迁",
-      "onboard_time": 1758455661,
-      "rank": 11,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 827836,
@@ -307,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 676364,
-      "num": 676364,
-      "word": "今年以来最强台风来袭",
-      "onboard_time": 1758462444,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 665663,
       "num": 168619,
       "word": "王琳儿子首次出镜",
@@ -344,6 +360,14 @@
       "word": "始祖鸟致歉",
       "onboard_time": 1758413479,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 622554,
+      "num": 248693,
+      "word": "继父称继子永远不会跟我是一条心",
+      "onboard_time": 1758463527,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -403,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545874,
+      "num": 545874,
+      "word": "针孔摄像头比我们想象的还要小",
+      "onboard_time": 1758463527,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542525,
       "num": 542525,
       "word": "始祖鸟承诺",
@@ -456,14 +488,6 @@
       "word": "村民称喜马拉雅山烟花味道很浓",
       "onboard_time": 1758453861,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 485995,
-      "num": 485995,
-      "word": "安踏回应始祖鸟炸山风波",
-      "onboard_time": 1758463287,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -643,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328180,
+      "num": 222671,
+      "word": "终于知道新闻主播为啥戴假发了",
+      "onboard_time": 1758465027,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327453,
       "num": 474164,
       "word": "宋茜演了郑晓龙新剧",
@@ -729,6 +761,14 @@
       "onboard_time": 1758355881,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278422,
+      "num": 278422,
+      "word": "网传热巴将录制向往的生活",
+      "onboard_time": 1758467306,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 275633,
@@ -867,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248693,
-      "num": 248693,
-      "word": "继父称继子永远不会跟我是一条心",
-      "onboard_time": 1758463527,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248348,
       "num": 248348,
       "word": "金晨怎么美成这样了",
@@ -995,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222461,
+      "num": 243756,
+      "word": "颜人中 跟谁新婚了",
+      "onboard_time": 1758464488,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220116,
       "num": 220116,
       "word": "建议这8类人少喝咖啡",
@@ -1091,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204718,
-      "num": 243756,
-      "word": "颜人中 跟谁新婚了",
-      "onboard_time": 1758464488,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203167,
       "num": 203167,
       "word": "吴易昺晋级杭州赛四强",
@@ -1184,6 +1216,14 @@
       "word": "白鹿终于实现了鸡蛋自由",
       "onboard_time": 1758435381,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196538,
+      "num": 196538,
+      "word": "沈月穿着古装跳舞",
+      "onboard_time": 1758466945,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1315,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186118,
+      "num": 186118,
+      "word": "黄圣依戴了自己设计的项链",
+      "onboard_time": 1758465685,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186101,
       "num": 242167,
       "word": "五月天演唱会内场起冲突目击者发声",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1758430762,
       "rank": 31,
       "category": "民生新闻,演出"
-    },
-    {
-      "raw_hot": 182336,
-      "num": 182336,
-      "word": "针孔摄像头比我们想象的还要小",
-      "onboard_time": 1758463527,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180736,
@@ -1411,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179607,
+      "num": 179607,
+      "word": "11岁男孩捉迷藏坠入10多米深井身亡",
+      "onboard_time": 1758467124,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178424,
       "num": 178424,
       "word": "iPhone17基础款性能超越16Pro",
@@ -1424,6 +1472,14 @@
       "word": "GEN战胜T1",
       "onboard_time": 1758453141,
       "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 178185,
+      "num": 178185,
+      "word": "伞兵赛后发博道歉",
+      "onboard_time": 1758466945,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -1448,6 +1504,14 @@
       "word": "00后开始当宿管了",
       "onboard_time": 1758425363,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173787,
+      "num": 173787,
+      "word": "长租15年不到1年就被劝退",
+      "onboard_time": 1758466586,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1763,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152458,
+      "num": 152458,
+      "word": "白桃星座",
+      "onboard_time": 1758467725,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151396,
       "num": 151396,
       "word": "这房子真的让人眼前一亮又一亮",
@@ -1875,12 +1947,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143763,
-      "num": 143763,
-      "word": "终于知道新闻主播为啥戴假发了",
-      "onboard_time": 1758465027,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 143838,
+      "num": 233449,
+      "word": "疑引食物中毒蛋糕店已开十多年",
+      "onboard_time": 1758461604,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143553,
@@ -2027,14 +2099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136592,
-      "num": 233449,
-      "word": "疑引食物中毒蛋糕店已开十多年",
-      "onboard_time": 1758461604,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136373,
       "num": 136373,
       "word": "BLG决赛更换打野",
@@ -2049,6 +2113,14 @@
       "onboard_time": 1758461604,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133828,
+      "num": 146791,
+      "word": "看把谢霆锋逼成啥样了",
+      "onboard_time": 1758466047,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 133748,
@@ -2323,12 +2395,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121415,
+      "num": 121415,
+      "word": "陈楚生现场",
+      "onboard_time": 1758466706,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121359,
       "num": 121359,
       "word": "疯狂的他崩溃的他和没救的她",
       "onboard_time": 1758426500,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121289,
+      "num": 121289,
+      "word": "北京外交学院校庆现超级大佬",
+      "onboard_time": 1758467905,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 121009,
+      "num": 121009,
+      "word": "孟佳也做了夏之星造型",
+      "onboard_time": 1758465566,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 120796,
@@ -2491,12 +2587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113162,
+      "num": 113162,
+      "word": "墨西哥阅兵现场军犬没忍住",
+      "onboard_time": 1758466885,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113063,
       "num": 113063,
       "word": "心理压力 神经性皮炎",
       "onboard_time": 1758446903,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112731,
+      "num": 112731,
+      "word": "选秀冠军的含金量还在上升",
+      "onboard_time": 1758467185,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 112605,
@@ -2528,6 +2640,14 @@
       "word": "学生宿舍内厕所半敞开实在太离谱",
       "onboard_time": 1758427282,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110286,
+      "num": 110286,
+      "word": "桦加沙",
+      "onboard_time": 1758466764,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2601,6 +2721,14 @@
       "onboard_time": 1758372083,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103145,
+      "num": 195522,
+      "word": "阿尔茨海默患者家属喊话周云杰",
+      "onboard_time": 1758466706,
+      "rank": 22,
+      "category": "健康医疗,数码"
     },
     {
       "raw_hot": 102294,
@@ -2939,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77210,
+      "num": 146726,
+      "word": "美以拦不住了",
+      "onboard_time": 1758467245,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74739,
       "num": 156254,
       "word": "唐九洲向韩国人安利汉服",
@@ -3024,6 +3160,14 @@
       "word": "贵州136人因食物中毒住院",
       "onboard_time": 1758460043,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59803,
+      "num": 146745,
+      "word": "台风桦加沙到哪了",
+      "onboard_time": 1758467245,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3219,6 +3363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41321,
+      "num": 209124,
+      "word": "央视起底直播间高端四件套猫腻",
+      "onboard_time": 1758467485,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39304,
       "num": 151696,
       "word": "放错地的烟花秀再美也是破坏",
@@ -3244,7 +3396,7 @@
     },
     {
       "raw_hot": 34067,
-      "num": 550304,
+      "num": 792897,
       "word": "这届东博会太AI了",
       "onboard_time": 1758462627,
       "rank": 2,
@@ -3401,6 +3553,14 @@
       "onboard_time": 1758396015,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11724,
+      "num": 178204,
+      "word": "00后女子醉驾撞死3人案将开庭",
+      "onboard_time": 1758467786,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11470,
