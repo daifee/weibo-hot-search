@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758464486601,
+  "endTime": 1758465499145,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 676364,
+      "num": 676364,
+      "word": "今年以来最强台风来袭",
+      "onboard_time": 1758462444,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 665663,
       "num": 168619,
       "word": "王琳儿子首次出镜",
@@ -361,14 +369,6 @@
       "onboard_time": 1758423501,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 606503,
-      "num": 606503,
-      "word": "今年以来最强台风来袭",
-      "onboard_time": 1758462444,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 596683,
@@ -456,6 +456,14 @@
       "word": "村民称喜马拉雅山烟花味道很浓",
       "onboard_time": 1758453861,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485995,
+      "num": 485995,
+      "word": "安踏回应始祖鸟炸山风波",
+      "onboard_time": 1758463287,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -609,14 +617,6 @@
       "onboard_time": 1758412580,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 356532,
-      "num": 356532,
-      "word": "安踏回应始祖鸟炸山风波",
-      "onboard_time": 1758463287,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352376,
@@ -867,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248693,
+      "num": 248693,
+      "word": "继父称继子永远不会跟我是一条心",
+      "onboard_time": 1758463527,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248348,
       "num": 248348,
       "word": "金晨怎么美成这样了",
@@ -955,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233651,
+      "num": 176987,
+      "word": "红米哭了",
+      "onboard_time": 1758465446,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "人上班真的不能太勤快",
@@ -971,20 +987,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224461,
+      "num": 424761,
+      "word": "广东做好巨灾防御准备",
+      "onboard_time": 1758447802,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220116,
       "num": 220116,
       "word": "建议这8类人少喝咖啡",
       "onboard_time": 1758458903,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 217154,
-      "num": 424761,
-      "word": "广东做好巨灾防御准备",
-      "onboard_time": 1758447802,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214002,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1758425121,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209256,
+      "num": 246039,
+      "word": "成毅李一桐新剧快了",
+      "onboard_time": 1758464488,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 208986,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1758429563,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204718,
+      "num": 243756,
+      "word": "颜人中 跟谁新婚了",
+      "onboard_time": 1758464488,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 203167,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1758453981,
       "rank": 25,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 197515,
+      "num": 175331,
+      "word": "稳定工作之余一定要有列外收入",
+      "onboard_time": 1758465086,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 197511,
@@ -1267,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187220,
+      "num": 187220,
+      "word": "中超",
+      "onboard_time": 1758464966,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186101,
       "num": 242167,
       "word": "五月天演唱会内场起冲突目击者发声",
@@ -1355,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179616,
+      "num": 179616,
+      "word": "上海申花1比1成都蓉城",
+      "onboard_time": 1758464726,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178424,
       "num": 178424,
       "word": "iPhone17基础款性能超越16Pro",
@@ -1396,7 +1452,7 @@
     },
     {
       "raw_hot": 173592,
-      "num": 173592,
+      "num": 176566,
       "word": "周云杰称正探索AI陪伴机器人",
       "onboard_time": 1758463287,
       "rank": 31,
@@ -1425,14 +1481,6 @@
       "onboard_time": 1758463588,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172702,
-      "num": 172702,
-      "word": "继父称继子永远不会跟我是一条心",
-      "onboard_time": 1758463527,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172054,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1758413479,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162662,
+      "num": 179484,
+      "word": "凡希亚看邓紫棋演唱会",
+      "onboard_time": 1758464306,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 162243,
@@ -1651,14 +1707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155784,
-      "num": 155784,
-      "word": "凡希亚看邓紫棋演唱会",
-      "onboard_time": 1758464306,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 155520,
       "num": 155520,
       "word": "假装自己去新疆旅游的一天",
@@ -1700,7 +1748,7 @@
     },
     {
       "raw_hot": 153350,
-      "num": 153350,
+      "num": 178017,
       "word": "吴磊嫩回18岁黎簇时期",
       "onboard_time": 1758464066,
       "rank": 40,
@@ -1729,6 +1777,14 @@
       "onboard_time": 1758438201,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151150,
+      "num": 151150,
+      "word": "深圳应急管理局回应台风五停",
+      "onboard_time": 1758465086,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148774,
@@ -1817,6 +1873,14 @@
       "onboard_time": 1758432982,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143763,
+      "num": 143763,
+      "word": "终于知道新闻主播为啥戴假发了",
+      "onboard_time": 1758465027,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143553,
@@ -1964,7 +2028,7 @@
     },
     {
       "raw_hot": 136592,
-      "num": 136592,
+      "num": 233449,
       "word": "疑引食物中毒蛋糕店已开十多年",
       "onboard_time": 1758461604,
       "rank": 43,
@@ -3180,7 +3244,7 @@
     },
     {
       "raw_hot": 34067,
-      "num": 547991,
+      "num": 550304,
       "word": "这届东博会太AI了",
       "onboard_time": 1758462627,
       "rank": 2,

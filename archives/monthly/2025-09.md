@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 22:21:26
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 22:38:19
 </p>
 </blockquote>
 <p>
@@ -4971,6 +4971,12 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%BC%BA%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD%23" target="weibo">
+今年以来最强台风来袭（热度：676364）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%A1%A8%E6%80%81%E4%BB%A572%E5%B0%8F%E6%97%B6%E5%86%85%E8%A2%AD%E5%87%BB6%E5%9B%BD%23" target="weibo">
 外交部表态以72小时内袭击6国（热度：676295）
 </a>
@@ -5657,12 +5663,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%9B%9E%E5%BA%94%E6%8F%90%E4%BA%8624%E6%AC%A1%E8%A3%99%E5%AD%90%23" target="weibo">
 宋妍霏回应提了24次裙子（热度：606589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%BC%BA%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD%23" target="weibo">
-今年以来最强台风来袭（热度：606503）
 </a>
 </li>
 
