@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758444060911,
+  "endTime": 1758446553071,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -23,6 +23,14 @@
       "num": 236664,
       "word": "王俊凯工作室",
       "onboard_time": 1758378323,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1919538,
+      "num": 356957,
+      "word": "王源评论祝王俊凯生日快乐",
+      "onboard_time": 1758444862,
       "rank": 10,
       "category": "艺人"
     },
@@ -73,6 +81,22 @@
       "onboard_time": 1758357562,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 934532,
+      "num": 523056,
+      "word": "韩媒验证中国人有首尔病",
+      "onboard_time": 1758442642,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 933244,
+      "num": 355152,
+      "word": "章若楠给全体员工换新手机了",
+      "onboard_time": 1758442882,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 890720,
@@ -203,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 621035,
-      "num": 384417,
-      "word": "韩媒验证中国人有首尔病",
-      "onboard_time": 1758442642,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 621019,
+      "num": 1099363,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1758439641,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 614891,
@@ -227,20 +251,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 577325,
+      "num": 577325,
+      "word": "女童20楼坠至13楼雨棚众人合力救援",
+      "onboard_time": 1758428240,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 563119,
       "num": 521550,
       "word": "王玉雯看到直播的刘宇宁天都塌了",
       "onboard_time": 1758438322,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 548642,
-      "num": 548642,
-      "word": "银河左岸音乐节",
-      "onboard_time": 1758439641,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 498000,
@@ -323,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 430258,
-      "num": 430258,
-      "word": "女童20楼坠至13楼雨棚众人合力救援",
-      "onboard_time": 1758428240,
-      "rank": 14,
-      "category": "正能量"
+      "raw_hot": 429740,
+      "num": 352259,
+      "word": "有存款和没存款的区别",
+      "onboard_time": 1758442521,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 404826,
@@ -419,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332158,
-      "num": 332158,
-      "word": "章若楠给全体员工换新手机了",
-      "onboard_time": 1758442882,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331475,
       "num": 208944,
       "word": "马思纯花少人生镜头",
@@ -459,14 +475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 300575,
-      "num": 300575,
-      "word": "有存款和没存款的区别",
-      "onboard_time": 1758442521,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 297376,
       "num": 297376,
       "word": "艾伦说陈乔恩睡觉打呼像大货车",
@@ -488,6 +496,14 @@
       "word": "始祖鸟烟花被指效仿猛犸象",
       "onboard_time": 1758422242,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281590,
+      "num": 281590,
+      "word": "台风",
+      "onboard_time": 1758421822,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -715,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203940,
+      "num": 172122,
+      "word": "给陈都灵戴无框眼镜的人简直是天才",
+      "onboard_time": 1758446363,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202912,
       "num": 202912,
       "word": "我家那闺女",
@@ -827,6 +851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183553,
+      "num": 360293,
+      "word": "台风桦加沙明起将影响我国海域",
+      "onboard_time": 1758445463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183166,
       "num": 183166,
       "word": "网友称卖水哥卖完就走不看一眼杰伦",
@@ -865,6 +897,14 @@
       "onboard_time": 1758427821,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179689,
+      "num": 179689,
+      "word": "顾客称吃日料在三文鱼上发现活蛆",
+      "onboard_time": 1758445162,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 178424,
@@ -1067,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153635,
+      "num": 153635,
+      "word": "始祖鸟承诺",
+      "onboard_time": 1758445101,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152910,
       "num": 152910,
       "word": "贵州一殡仪馆花2亿建成后荒废",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1758427522,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148461,
+      "num": 160981,
+      "word": "王一博GT收官站第二回合正赛",
+      "onboard_time": 1758445162,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 147755,
@@ -1211,6 +1267,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133739,
+      "num": 133739,
+      "word": "妇科炎症像感冒一样常见",
+      "onboard_time": 1758443722,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133238,
+      "num": 133238,
+      "word": "导入聊天记录 设备空间不足",
+      "onboard_time": 1758443841,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131691,
       "num": 131691,
       "word": "伦敦时装周",
@@ -1265,14 +1337,6 @@
       "onboard_time": 1758437000,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127626,
-      "num": 127626,
-      "word": "妇科炎症像感冒一样常见",
-      "onboard_time": 1758443722,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 127308,
@@ -1363,14 +1427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121823,
-      "num": 121823,
-      "word": "台风",
-      "onboard_time": 1758421822,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121807,
       "num": 121807,
       "word": "韩国女子说支持以色列遭吐口水",
@@ -1395,20 +1451,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120387,
+      "num": 120387,
+      "word": "女子要一次性筷子被告知下不为例",
+      "onboard_time": 1758444082,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120368,
       "num": 120368,
       "word": "李荣浩腿部伤疤原来是这样来的",
       "onboard_time": 1758430581,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120079,
-      "num": 118013,
-      "word": "导入聊天记录 设备空间不足",
-      "onboard_time": 1758443841,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 119663,
@@ -1489,6 +1545,14 @@
       "onboard_time": 1758433341,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116100,
+      "num": 116100,
+      "word": "苏醒想要女儿的心快压不住了",
+      "onboard_time": 1758446242,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115195,
@@ -1609,6 +1673,14 @@
       "onboard_time": 1758378264,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97471,
+      "num": 120647,
+      "word": "炫富清华学霸或面临最高60年监禁",
+      "onboard_time": 1758445101,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97371,
@@ -1811,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82198,
+      "num": 123278,
+      "word": "始祖鸟必须为言行不一付出代价",
+      "onboard_time": 1758444322,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81688,
       "num": 81688,
       "word": "李荣浩在签名和脱掉之间选了脱掉",
@@ -1955,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57823,
+      "num": 123992,
+      "word": "王楚钦在演唱会上摇头晃脑",
+      "onboard_time": 1758445762,
+      "rank": 38,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 57202,
       "num": 137596,
       "word": "母亲在直播间花4万女儿发声",
@@ -2033,6 +2121,14 @@
       "onboard_time": 1758376223,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46287,
+      "num": 123321,
+      "word": "搜狐视频关注流大会",
+      "onboard_time": 1758445282,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 44470,
@@ -2163,6 +2259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29332,
+      "num": 173705,
+      "word": "炒币骗局围猎中老年人",
+      "onboard_time": 1758444680,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28968,
+      "num": 125627,
+      "word": "刘震云说读者的水平比作者高",
+      "onboard_time": 1758444381,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 28530,
       "num": 41068,
       "word": "24岁确诊焦虑症的真实感受",
@@ -2217,6 +2329,14 @@
       "onboard_time": 1758443841,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 7334,
+      "num": 569556,
+      "word": "新疆四季美到了心尖尖上",
+      "onboard_time": 1758446482,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
