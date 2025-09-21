@@ -1,0 +1,410 @@
+{
+  "runTime": 1758426678734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7914311,
+        "num": 7914311,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5417045,
+        "num": 5417045,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13070,
+        "num": 607894,
+        "word": "砥砺奋进七十载天山南北谱华章",
+        "onboard_time": 1758375445,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596534,
+        "num": 596534,
+        "word": "谁家综艺官宣给艺人打码",
+        "onboard_time": 1758423501,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542442,
+        "num": 542442,
+        "word": "嵩山一景区巨型蛇头已被覆盖",
+        "onboard_time": 1758420382,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467856,
+        "num": 467856,
+        "word": "李维嘉问董璇为什么不和女儿说实话",
+        "onboard_time": 1758424162,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378464,
+        "num": 378464,
+        "word": "宋茜曹骏二搭",
+        "onboard_time": 1758424701,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371050,
+        "num": 371050,
+        "word": "始祖鸟致歉",
+        "onboard_time": 1758413479,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322954,
+        "num": 322954,
+        "word": "18岁女孩发现男友已婚饮酒后跳江",
+        "onboard_time": 1758414863,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321938,
+        "num": 321938,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 964171,
+        "num": 313389,
+        "word": "始祖鸟 安踏",
+        "onboard_time": 1758423381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355470,
+        "num": 307442,
+        "word": "女子连续偷吃5个蛋挞后转身就走",
+        "onboard_time": 1758420082,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290314,
+        "num": 290314,
+        "word": "王俊凯26岁生日照",
+        "onboard_time": 1758410598,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287475,
+        "num": 287475,
+        "word": "蔡国强称如确影响环境将全力补救",
+        "onboard_time": 1758415763,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284719,
+        "num": 284719,
+        "word": "始祖鸟烟花被指效仿猛犸象",
+        "onboard_time": 1758422242,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193029,
+        "num": 283572,
+        "word": "疾风劲草阵容官宣",
+        "onboard_time": 1758425722,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186707,
+        "num": 278824,
+        "word": "李昀锐帮孟子义系披风路透",
+        "onboard_time": 1758420324,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52526,
+        "num": 274876,
+        "word": "始祖鸟外网道歉被指甩锅中国团队",
+        "onboard_time": 1758426321,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31295,
+        "num": 270008,
+        "word": "25万华为系SUV首选谁",
+        "onboard_time": 1758423981,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27804,
+        "num": 261573,
+        "word": "高原野生动物或因声光刺激弃巢",
+        "onboard_time": 1758425901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812753,
+        "num": 259320,
+        "word": "蔡国强 始祖鸟",
+        "onboard_time": 1758412640,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255806,
+        "num": 255806,
+        "word": "中国导弹亮相塞尔维亚阅兵",
+        "onboard_time": 1758420024,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388830,
+        "num": 255100,
+        "word": "郑钧刘芸两个魔丸生出了一个灵珠",
+        "onboard_time": 1758409758,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226960,
+        "num": 251673,
+        "word": "升龙烟花燃放地植被恢复或需上百年",
+        "onboard_time": 1758420681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320882,
+        "num": 246063,
+        "word": "始祖鸟评论区开一键防护",
+        "onboard_time": 1758418164,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265984,
+        "num": 241742,
+        "word": "戴向宇曾单方面通知家人要离婚",
+        "onboard_time": 1758412580,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239591,
+        "num": 239591,
+        "word": "网传赴山海导演新剧被换",
+        "onboard_time": 1758421941,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175837,
+        "num": 239373,
+        "word": "艾伦说陈乔恩睡觉打呼像大货车",
+        "onboard_time": 1758420803,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173459,
+        "num": 239304,
+        "word": "惠英红特邀主演郑晓龙新剧",
+        "onboard_time": 1758425842,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164950,
+        "num": 239282,
+        "word": "陆毅鲍蕾三十年没说过重话",
+        "onboard_time": 1758421582,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239274,
+        "num": 239274,
+        "word": "炸山鸟",
+        "onboard_time": 1758424822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212997,
+        "num": 212997,
+        "word": "凉山警方通报2岁失踪女童死亡",
+        "onboard_time": 1758425121,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180358,
+        "num": 180358,
+        "word": "始祖鸟海外团队致歉",
+        "onboard_time": 1758424040,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174657,
+        "num": 174657,
+        "word": "00后开始当宿管了",
+        "onboard_time": 1758425363,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172541,
+        "num": 172541,
+        "word": "第一批拿到苹果17的真实感受",
+        "onboard_time": 1758420863,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42119,
+        "num": 156558,
+        "word": "河南周口市中心一路口路面塌陷",
+        "onboard_time": 1758424942,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153374,
+        "num": 153374,
+        "word": "成毅杂志",
+        "onboard_time": 1758424342,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151171,
+        "num": 151171,
+        "word": "邓超到底看没看过甄嬛传",
+        "onboard_time": 1758425842,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63449,
+        "num": 137139,
+        "word": "19岁女孩留学9天被电诈后自杀",
+        "onboard_time": 1758426622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33716,
+        "num": 133990,
+        "word": "猴子进高校吃面包喝奶茶后悠然离开",
+        "onboard_time": 1758425963,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131361,
+        "num": 131361,
+        "word": "特朗普100万美元出售美国居留权",
+        "onboard_time": 1758413359,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129006,
+        "num": 129006,
+        "word": "塞尔维亚阅兵",
+        "onboard_time": 1758415163,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126478,
+        "num": 126478,
+        "word": "张子枫马嘉祺新剧作者发文",
+        "onboard_time": 1758421462,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124911,
+        "num": 124911,
+        "word": "自然影像团队怒怼蔡国强烟花秀",
+        "onboard_time": 1758423981,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122911,
+        "num": 122911,
+        "word": "刘浩存红发",
+        "onboard_time": 1758426383,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122069,
+        "num": 122069,
+        "word": "王俊凯 请欣赏大师炫技之作",
+        "onboard_time": 1758424882,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121823,
+        "num": 121823,
+        "word": "台风",
+        "onboard_time": 1758421822,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121359,
+        "num": 121359,
+        "word": "疯狂的他崩溃的他和没救的她",
+        "onboard_time": 1758426500,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120533,
+        "num": 120533,
+        "word": "王楚然请孟子义剧组喝奶茶",
+        "onboard_time": 1758423381,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116356,
+        "num": 116356,
+        "word": "男子公厕偷拍被抓不断求饶",
+        "onboard_time": 1758423563,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美完全可以相互成就共同繁荣#"
+    }
+  }
+}

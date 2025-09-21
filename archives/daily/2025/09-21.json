@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758425316984,
+  "endTime": 1758426678734,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 912205,
-      "num": 297251,
+      "raw_hot": 964171,
+      "num": 313389,
       "word": "始祖鸟 安踏",
       "onboard_time": 1758423381,
       "rank": 14,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596534,
+      "num": 596534,
+      "word": "谁家综艺官宣给艺人打码",
+      "onboard_time": 1758423501,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498000,
       "num": 478919,
       "word": "女子连续偷吃5个蛋挞后转身就走",
@@ -171,11 +179,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 458925,
-      "num": 458925,
-      "word": "谁家综艺官宣给艺人打码",
-      "onboard_time": 1758423501,
-      "rank": 16,
+      "raw_hot": 467856,
+      "num": 467856,
+      "word": "李维嘉问董璇为什么不和女儿说实话",
+      "onboard_time": 1758424162,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -235,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 378464,
+      "num": 378464,
+      "word": "宋茜曹骏二搭",
+      "onboard_time": 1758424701,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -248,14 +264,6 @@
       "word": "戴向宇曾单方面通知家人要离婚",
       "onboard_time": 1758412580,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 360160,
-      "num": 360160,
-      "word": "李维嘉问董璇为什么不和女儿说实话",
-      "onboard_time": 1758424162,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284719,
+      "num": 284719,
+      "word": "始祖鸟烟花被指效仿猛犸象",
+      "onboard_time": 1758422242,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280494,
       "num": 155677,
       "word": "始祖鸟",
@@ -329,14 +345,6 @@
       "onboard_time": 1758376584,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263550,
-      "num": 263550,
-      "word": "始祖鸟烟花被指效仿猛犸象",
-      "onboard_time": 1758422242,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258802,
@@ -372,11 +380,19 @@
     },
     {
       "raw_hot": 239631,
-      "num": 236105,
+      "num": 239591,
       "word": "网传赴山海导演新剧被换",
       "onboard_time": 1758421941,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239274,
+      "num": 239274,
+      "word": "炸山鸟",
+      "onboard_time": 1758424822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239240,
@@ -401,6 +417,14 @@
       "onboard_time": 1758413661,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212997,
+      "num": 212997,
+      "word": "凉山警方通报2岁失踪女童死亡",
+      "onboard_time": 1758425121,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208986,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 200899,
-      "num": 200899,
+      "num": 239282,
       "word": "陆毅鲍蕾三十年没说过重话",
       "onboard_time": 1758421582,
       "rank": 26,
@@ -457,6 +481,14 @@
       "onboard_time": 1758373703,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193029,
+      "num": 283572,
+      "word": "疾风劲草阵容官宣",
+      "onboard_time": 1758425722,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 189515,
@@ -475,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180358,
+      "num": 294227,
+      "word": "始祖鸟海外团队致歉",
+      "onboard_time": 1758424040,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178424,
       "num": 178424,
       "word": "iPhone17基础款性能超越16Pro",
@@ -483,20 +523,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 174657,
+      "num": 174657,
+      "word": "00后开始当宿管了",
+      "onboard_time": 1758425363,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173459,
+      "num": 239304,
+      "word": "惠英红特邀主演郑晓龙新剧",
+      "onboard_time": 1758425842,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172054,
       "num": 172054,
       "word": "加沙",
       "onboard_time": 1758378443,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 168931,
-      "num": 168931,
-      "word": "宋茜曹骏二搭",
-      "onboard_time": 1758424701,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 162802,
@@ -571,6 +619,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 151171,
+      "num": 151171,
+      "word": "邓超到底看没看过甄嬛传",
+      "onboard_time": 1758425842,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147185,
       "num": 147185,
       "word": "以为是蔡国庆",
@@ -643,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122911,
+      "num": 122911,
+      "word": "刘浩存红发",
+      "onboard_time": 1758426383,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122093,
       "num": 122093,
       "word": "无印良品供销社穿搭风爆火",
@@ -659,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121823,
+      "num": 121823,
+      "word": "台风",
+      "onboard_time": 1758421822,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121807,
       "num": 121807,
       "word": "韩国女子说支持以色列遭吐口水",
@@ -667,20 +739,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 121723,
-      "num": 121723,
-      "word": "凉山警方通报2岁失踪女童死亡",
-      "onboard_time": 1758425121,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118362,
-      "num": 118362,
-      "word": "炸山鸟",
-      "onboard_time": 1758424822,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 121359,
+      "num": 121359,
+      "word": "疯狂的他崩溃的他和没救的她",
+      "onboard_time": 1758426500,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 117683,
@@ -729,22 +793,6 @@
       "onboard_time": 1758416003,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111936,
-      "num": 294227,
-      "word": "始祖鸟海外团队致歉",
-      "onboard_time": 1758424040,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111541,
-      "num": 111541,
-      "word": "台风",
-      "onboard_time": 1758421822,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106750,
@@ -1067,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63449,
+      "num": 137139,
+      "word": "19岁女孩留学9天被电诈后自杀",
+      "onboard_time": 1758426622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58978,
       "num": 89519,
       "word": "yagao让BLG双C不要站一起",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1758401234,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52526,
+      "num": 274876,
+      "word": "始祖鸟外网道歉被指甩锅中国团队",
+      "onboard_time": 1758426321,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51879,
@@ -1131,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42119,
+      "num": 163803,
+      "word": "河南周口市中心一路口路面塌陷",
+      "onboard_time": 1758424942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42023,
       "num": 294236,
       "word": "25万华为系SUV首选谁",
@@ -1144,6 +1216,14 @@
       "word": "女孩饮酒后跳江酒友被判赔9千",
       "onboard_time": 1758415823,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33716,
+      "num": 133990,
+      "word": "猴子进高校吃面包喝奶茶后悠然离开",
+      "onboard_time": 1758425963,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1179,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27804,
+      "num": 261573,
+      "word": "高原野生动物或因声光刺激弃巢",
+      "onboard_time": 1758425901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26233,
       "num": 51260,
       "word": "七月的一天",
@@ -1193,14 +1281,6 @@
       "onboard_time": 1758375445,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21156,
-      "num": 163803,
-      "word": "河南周口市中心一路口路面塌陷",
-      "onboard_time": 1758424942,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14419,
