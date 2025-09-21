@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758461229387,
+  "endTime": 1758461916830,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -5171,6 +5171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804724,
+      "num": 312848,
+      "word": "黄灿灿 张振",
+      "onboard_time": 1758459803,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804670,
       "num": 804670,
       "word": "每天吃鸡蛋和从不吃鸡蛋的差别",
@@ -5401,6 +5409,14 @@
       "onboard_time": 1756866515,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 784275,
+      "num": 784275,
+      "word": "陈乔恩回应要不要小孩",
+      "onboard_time": 1758457521,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 783923,
@@ -6049,14 +6065,6 @@
       "onboard_time": 1758159801,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 723785,
-      "num": 723785,
-      "word": "陈乔恩回应要不要小孩",
-      "onboard_time": 1758457521,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 723635,
@@ -7521,14 +7529,6 @@
       "onboard_time": 1756868083,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 605082,
-      "num": 312848,
-      "word": "黄灿灿 张振",
-      "onboard_time": 1758459803,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 604278,
@@ -9203,6 +9203,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 516117,
+      "num": 516117,
+      "word": "预制菜国家标准",
+      "onboard_time": 1758457043,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515560,
       "num": 515560,
       "word": "沙特与巴基斯坦签署共同防御协议",
@@ -10217,14 +10225,6 @@
       "onboard_time": 1758154582,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 469074,
-      "num": 469074,
-      "word": "预制菜国家标准",
-      "onboard_time": 1758457043,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 468625,
@@ -12211,6 +12211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 399679,
+      "num": 399679,
+      "word": "AL 软饭好吃",
+      "onboard_time": 1758459564,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 399454,
       "num": 350918,
       "word": "猫就这样凹凸凹凸路过了所有人",
@@ -12673,14 +12681,6 @@
       "onboard_time": 1756971982,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 388849,
-      "num": 388849,
-      "word": "AL 软饭好吃",
-      "onboard_time": 1758459564,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 388687,
@@ -17755,6 +17755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263070,
+      "num": 263070,
+      "word": "Bin 冠军是我们的",
+      "onboard_time": 1758461003,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262892,
       "num": 427558,
       "word": "那英5个字总结张晚意",
@@ -18217,6 +18225,14 @@
       "onboard_time": 1758031652,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253825,
+      "num": 253825,
+      "word": "张晚意 音乐节",
+      "onboard_time": 1758459863,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 253734,
@@ -20473,14 +20489,6 @@
       "onboard_time": 1758009083,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221692,
-      "num": 221692,
-      "word": "张晚意 音乐节",
-      "onboard_time": 1758459863,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 221669,
@@ -23027,6 +23035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200102,
+      "num": 200102,
+      "word": "徐明浩音乐节出图",
+      "onboard_time": 1758460701,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200073,
       "num": 200073,
       "word": "终于知道结婚后为啥容易变胖了",
@@ -23707,6 +23723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196224,
+      "num": 196224,
+      "word": "冒泡赛",
+      "onboard_time": 1757852724,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196202,
       "num": 196202,
       "word": "蓝溪镇",
@@ -24251,19 +24275,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193730,
-      "num": 193730,
-      "word": "徐明浩音乐节出图",
-      "onboard_time": 1758460701,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193724,
       "num": 193724,
       "word": "沈佳润甜系学妹妆",
       "onboard_time": 1757912724,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193692,
+      "num": 193692,
+      "word": "我想看黄圣依再演古装但不是这种",
+      "onboard_time": 1758459863,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -24569,14 +24593,6 @@
       "onboard_time": 1757053941,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 192399,
-      "num": 192399,
-      "word": "冒泡赛",
-      "onboard_time": 1757852724,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 192381,
@@ -24920,14 +24936,6 @@
       "word": "黄雅莉和她的十个勤天弟弟",
       "onboard_time": 1757402182,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 190859,
-      "num": 190859,
-      "word": "我想看黄圣依再演古装但不是这种",
-      "onboard_time": 1758459863,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -25331,6 +25339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188693,
+      "num": 234934,
+      "word": "蔡国强烟花秀区域具有显著脆弱性",
+      "onboard_time": 1758453202,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188653,
       "num": 188653,
       "word": "罗永浩回应西贝品牌负责人",
@@ -25401,6 +25417,14 @@
       "onboard_time": 1756849814,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188386,
+      "num": 183997,
+      "word": "Knight荣获FMVP",
+      "onboard_time": 1758461061,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 188355,
@@ -26281,6 +26305,14 @@
       "onboard_time": 1757059281,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183818,
+      "num": 183818,
+      "word": "PEL",
+      "onboard_time": 1757313083,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 183679,
@@ -27243,14 +27275,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 178000,
-      "num": 178000,
-      "word": "Bin 冠军是我们的",
-      "onboard_time": 1758461003,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 177830,
       "num": 177830,
       "word": "英国将正式承认巴勒斯坦国",
@@ -27617,14 +27641,6 @@
       "onboard_time": 1757254643,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175219,
-      "num": 175219,
-      "word": "Knight荣获FMVP",
-      "onboard_time": 1758461061,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 175217,
@@ -31329,6 +31345,14 @@
       "onboard_time": 1757684308,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159482,
+      "num": 184111,
+      "word": "三体阵容有点东西",
+      "onboard_time": 1758461301,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 159474,
@@ -38187,6 +38211,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 136592,
+      "num": 136592,
+      "word": "疑引食物中毒蛋糕店已开十多年",
+      "onboard_time": 1758461604,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136581,
       "num": 136581,
       "word": "婚礼上把不喜欢的环节取消了",
@@ -38803,6 +38835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134780,
+      "num": 134780,
+      "word": "星品影响力",
+      "onboard_time": 1757918602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134775,
       "num": 134775,
       "word": "修无人机年入超500万女生发声",
@@ -39329,6 +39369,14 @@
       "onboard_time": 1757501001,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133190,
+      "num": 133190,
+      "word": "广东做好巨灾防御准备",
+      "onboard_time": 1758447802,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133186,
@@ -39900,7 +39948,7 @@
     },
     {
       "raw_hot": 131267,
-      "num": 265676,
+      "num": 298167,
       "word": "忘事是阿尔茨海默前兆吗",
       "onboard_time": 1758460764,
       "rank": 16,
@@ -41363,14 +41411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127537,
-      "num": 234934,
-      "word": "蔡国强烟花秀区域具有显著脆弱性",
-      "onboard_time": 1758453202,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127513,
       "num": 127513,
       "word": "樊振东收获德甲两连胜",
@@ -41425,14 +41465,6 @@
       "onboard_time": 1757481803,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127404,
-      "num": 127404,
-      "word": "PEL",
-      "onboard_time": 1757313083,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 127377,
@@ -41619,14 +41651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126878,
-      "num": 127378,
-      "word": "星品影响力",
-      "onboard_time": 1757918602,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126837,
       "num": 190993,
       "word": "牙齿文身",
@@ -41649,14 +41673,6 @@
       "onboard_time": 1758186982,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126692,
-      "num": 126692,
-      "word": "广东做好巨灾防御准备",
-      "onboard_time": 1758447802,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126680,
@@ -43153,6 +43169,14 @@
       "onboard_time": 1757071641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122711,
+      "num": 122711,
+      "word": "吴易昺vs梅德韦杰夫",
+      "onboard_time": 1758461362,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122682,
@@ -53164,7 +53188,7 @@
     },
     {
       "raw_hot": 96103,
-      "num": 178427,
+      "num": 300664,
       "word": "被3只宠物狗追咬胎停孕妇最新发声",
       "onboard_time": 1758461122,
       "rank": 34,
@@ -62547,6 +62571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48103,
+      "num": 144519,
+      "word": "部分高端四件套全靠吹",
+      "onboard_time": 1758461782,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 48091,
       "num": 107901,
       "word": "林丹谈石宇奇世锦赛夺冠",
@@ -67875,6 +67907,9 @@
     },
     {
       "word": "#中美双方可以相互成就共同繁荣#"
+    },
+    {
+      "word": "#总书记谈制造业高质量发展#"
     }
   ]
 }

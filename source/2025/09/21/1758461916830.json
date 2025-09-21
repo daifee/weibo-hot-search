@@ -1,0 +1,410 @@
+{
+  "runTime": 1758461916830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1077905,
+        "num": 1172464,
+        "word": "BLG夺冠",
+        "onboard_time": 1758459203,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 784275,
+        "num": 784275,
+        "word": "陈乔恩回应要不要小孩",
+        "onboard_time": 1758457521,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27078,
+        "num": 523471,
+        "word": "新疆四季美到了心尖尖上",
+        "onboard_time": 1758446482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 837975,
+        "num": 522910,
+        "word": "日本媒体鸦雀无声",
+        "onboard_time": 1758448162,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 516117,
+        "num": 516117,
+        "word": "预制菜国家标准",
+        "onboard_time": 1758457043,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487268,
+        "num": 487268,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399679,
+        "num": 399679,
+        "word": "AL 软饭好吃",
+        "onboard_time": 1758459564,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 379002,
+        "num": 379002,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340936,
+        "num": 340936,
+        "word": "村民称喜马拉雅山烟花味道很浓",
+        "onboard_time": 1758453861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305051,
+        "num": 305051,
+        "word": "宋茜演了郑晓龙新剧",
+        "onboard_time": 1758456623,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 804724,
+        "num": 304274,
+        "word": "黄灿灿 张振",
+        "onboard_time": 1758459803,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773940,
+        "num": 303035,
+        "word": "成毅形象大变迁",
+        "onboard_time": 1758455661,
+        "rank": 11,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 587884,
+        "num": 301996,
+        "word": "小狗赫兹去世",
+        "onboard_time": 1758454761,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86974,
+        "num": 300664,
+        "word": "被3只宠物狗追咬胎停孕妇最新发声",
+        "onboard_time": 1758461122,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52119,
+        "num": 298167,
+        "word": "忘事是阿尔茨海默前兆吗",
+        "onboard_time": 1758460764,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297962,
+        "num": 297962,
+        "word": "BLG对战TES",
+        "onboard_time": 1758442581,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 264130,
+        "num": 264130,
+        "word": "印度赴美机票2小时暴涨超110%",
+        "onboard_time": 1758452602,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263070,
+        "num": 263070,
+        "word": "Bin 冠军是我们的",
+        "onboard_time": 1758461003,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253825,
+        "num": 253825,
+        "word": "张晚意 音乐节",
+        "onboard_time": 1758459863,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242800,
+        "num": 242800,
+        "word": "王一博许魏洲合照",
+        "onboard_time": 1758458242,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 553531,
+        "num": 241287,
+        "word": "王源评论祝王俊凯生日快乐",
+        "onboard_time": 1758444862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230693,
+        "num": 230693,
+        "word": "黄灿灿赚的第一笔钱给男朋友补交学费",
+        "onboard_time": 1758448223,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204833,
+        "num": 204833,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188693,
+        "num": 202374,
+        "word": "蔡国强烟花秀区域具有显著脆弱性",
+        "onboard_time": 1758453202,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200622,
+        "num": 200622,
+        "word": "徐子未脱衣服忘记摘垫肩了",
+        "onboard_time": 1758458903,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200102,
+        "num": 200102,
+        "word": "徐明浩音乐节出图",
+        "onboard_time": 1758460701,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196224,
+        "num": 196224,
+        "word": "冒泡赛",
+        "onboard_time": 1758459982,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193692,
+        "num": 193692,
+        "word": "我想看黄圣依再演古装但不是这种",
+        "onboard_time": 1758459863,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185400,
+        "num": 185400,
+        "word": "雷军转发了王一博",
+        "onboard_time": 1758447562,
+        "rank": 28,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 159482,
+        "num": 184111,
+        "word": "三体阵容有点东西",
+        "onboard_time": 1758461301,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188386,
+        "num": 183997,
+        "word": "Knight荣获FMVP",
+        "onboard_time": 1758461061,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183818,
+        "num": 183818,
+        "word": "PEL",
+        "onboard_time": 1758461483,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179970,
+        "num": 179970,
+        "word": "建议这8类人少喝咖啡",
+        "onboard_time": 1758458903,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170443,
+        "num": 170443,
+        "word": "黄圣依脖子上贴了膏药",
+        "onboard_time": 1758459143,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160556,
+        "num": 160556,
+        "word": "给陈都灵戴无框眼镜的人简直是天才",
+        "onboard_time": 1758446363,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155597,
+        "num": 155597,
+        "word": "常说4句话的人痴呆倾向高",
+        "onboard_time": 1758460403,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155171,
+        "num": 155171,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150362,
+        "num": 150362,
+        "word": "台风",
+        "onboard_time": 1758444442,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146150,
+        "num": 146150,
+        "word": "心疼BLG北川",
+        "onboard_time": 1758459681,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48103,
+        "num": 144519,
+        "word": "部分高端四件套全靠吹",
+        "onboard_time": 1758461782,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "菲军方宣布红色警戒状态",
+        "onboard_time": 1758460883,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140810,
+        "num": 140810,
+        "word": "不眠日",
+        "onboard_time": 1758456863,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136948,
+        "num": 136948,
+        "word": "经济舱前6排全被锁座",
+        "onboard_time": 1758456921,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136592,
+        "num": 136592,
+        "word": "疑引食物中毒蛋糕店已开十多年",
+        "onboard_time": 1758461604,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134780,
+        "num": 134780,
+        "word": "星品影响力",
+        "onboard_time": 1758461604,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133190,
+        "num": 133190,
+        "word": "广东做好巨灾防御准备",
+        "onboard_time": 1758447802,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126554,
+        "num": 126554,
+        "word": "云秀行",
+        "onboard_time": 1758454761,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126539,
+        "num": 126539,
+        "word": "鞠婧祎跳柠檬叉angel",
+        "onboard_time": 1758457402,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122711,
+        "num": 122711,
+        "word": "吴易昺vs梅德韦杰夫",
+        "onboard_time": 1758461362,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120282,
+        "num": 120282,
+        "word": "穆祉丞直播",
+        "onboard_time": 1758460224,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈制造业高质量发展#"
+    }
+  }
+}

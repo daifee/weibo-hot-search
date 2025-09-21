@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758461229387,
+  "endTime": 1758461916830,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -203,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804724,
+      "num": 312848,
+      "word": "黄灿灿 张振",
+      "onboard_time": 1758459803,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797193,
       "num": 151700,
       "word": "王源",
       "onboard_time": 1758385642,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 784275,
+      "num": 784275,
+      "word": "陈乔恩回应要不要小孩",
+      "onboard_time": 1758457521,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 777974,
@@ -241,14 +257,6 @@
       "onboard_time": 1758420382,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 723785,
-      "num": 723785,
-      "word": "陈乔恩回应要不要小孩",
-      "onboard_time": 1758457521,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 723229,
@@ -339,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 605082,
-      "num": 312848,
-      "word": "黄灿灿 张振",
-      "onboard_time": 1758459803,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 596683,
       "num": 596683,
       "word": "官方通报喜马拉雅山放烟花",
@@ -384,6 +384,14 @@
       "word": "始祖鸟承诺",
       "onboard_time": 1758445101,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516117,
+      "num": 516117,
+      "word": "预制菜国家标准",
+      "onboard_time": 1758457043,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -441,14 +449,6 @@
       "onboard_time": 1758365843,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 469074,
-      "num": 469074,
-      "word": "预制菜国家标准",
-      "onboard_time": 1758457043,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 459067,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399679,
+      "num": 399679,
+      "word": "AL 软饭好吃",
+      "onboard_time": 1758459564,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 398285,
       "num": 340635,
       "word": "胡兵瞿颖借蔡国庆儿子拍全家福",
@@ -553,14 +561,6 @@
       "onboard_time": 1758440602,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388849,
-      "num": 388849,
-      "word": "AL 软饭好吃",
-      "onboard_time": 1758459564,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 366761,
@@ -747,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263070,
+      "num": 263070,
+      "word": "Bin 冠军是我们的",
+      "onboard_time": 1758461003,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262724,
       "num": 213429,
       "word": "给陈都灵戴无框眼镜的人简直是天才",
@@ -777,6 +785,14 @@
       "onboard_time": 1758413359,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 253825,
+      "num": 253825,
+      "word": "张晚意 音乐节",
+      "onboard_time": 1758459863,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 252273,
@@ -889,14 +905,6 @@
       "onboard_time": 1758413661,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221692,
-      "num": 221692,
-      "word": "张晚意 音乐节",
-      "onboard_time": 1758459863,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 220116,
@@ -1027,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200102,
+      "num": 200102,
+      "word": "徐明浩音乐节出图",
+      "onboard_time": 1758460701,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199479,
       "num": 199479,
       "word": "白鹿直播",
@@ -1059,6 +1075,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 196224,
+      "num": 196224,
+      "word": "冒泡赛",
+      "onboard_time": 1758459982,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195602,
       "num": 195602,
       "word": "是谁给始祖鸟炸山秀大开绿灯",
@@ -1075,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193730,
-      "num": 193730,
-      "word": "徐明浩音乐节出图",
-      "onboard_time": 1758460701,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 193692,
+      "num": 193692,
+      "word": "我想看黄圣依再演古装但不是这种",
+      "onboard_time": 1758459863,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 193029,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1758425722,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192399,
-      "num": 192399,
-      "word": "冒泡赛",
-      "onboard_time": 1758459982,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 191804,
@@ -1123,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190859,
-      "num": 190859,
-      "word": "我想看黄圣依再演古装但不是这种",
-      "onboard_time": 1758459863,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190113,
       "num": 190113,
       "word": "何猷君奚梦瑶儿子长大就冯程朗这样",
@@ -1153,6 +1161,22 @@
       "onboard_time": 1758456863,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188693,
+      "num": 234934,
+      "word": "蔡国强烟花秀区域具有显著脆弱性",
+      "onboard_time": 1758453202,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188386,
+      "num": 183997,
+      "word": "Knight荣获FMVP",
+      "onboard_time": 1758461061,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 188133,
@@ -1184,6 +1208,14 @@
       "word": "心疼BLG北川",
       "onboard_time": 1758459681,
       "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 183818,
+      "num": 183818,
+      "word": "PEL",
+      "onboard_time": 1758461483,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1251,14 +1283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178000,
-      "num": 178000,
-      "word": "Bin 冠军是我们的",
-      "onboard_time": 1758461003,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 177830,
       "num": 177830,
       "word": "英国将正式承认巴勒斯坦国",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1758456983,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175219,
-      "num": 175219,
-      "word": "Knight荣获FMVP",
-      "onboard_time": 1758461061,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 174657,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1758418223,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159482,
+      "num": 184111,
+      "word": "三体阵容有点东西",
+      "onboard_time": 1758461301,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 159291,
@@ -1779,12 +1803,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136592,
+      "num": 136592,
+      "word": "疑引食物中毒蛋糕店已开十多年",
+      "onboard_time": 1758461604,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136373,
       "num": 136373,
       "word": "BLG决赛更换打野",
       "onboard_time": 1758449721,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134780,
+      "num": 134780,
+      "word": "星品影响力",
+      "onboard_time": 1758461604,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133748,
@@ -1811,6 +1851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133190,
+      "num": 133190,
+      "word": "广东做好巨灾防御准备",
+      "onboard_time": 1758447802,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131691,
       "num": 131691,
       "word": "伦敦时装周",
@@ -1828,7 +1876,7 @@
     },
     {
       "raw_hot": 131267,
-      "num": 265676,
+      "num": 298167,
       "word": "忘事是阿尔茨海默前兆吗",
       "onboard_time": 1758460764,
       "rank": 16,
@@ -1891,28 +1939,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 127537,
-      "num": 234934,
-      "word": "蔡国强烟花秀区域具有显著脆弱性",
-      "onboard_time": 1758453202,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127308,
       "num": 118075,
       "word": "高中生10元成本净赚120的一天",
       "onboard_time": 1758443964,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126692,
-      "num": 126692,
-      "word": "广东做好巨灾防御准备",
-      "onboard_time": 1758447802,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126466,
@@ -2009,6 +2041,14 @@
       "onboard_time": 1758420442,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122711,
+      "num": 122711,
+      "word": "吴易昺vs梅德韦杰夫",
+      "onboard_time": 1758461362,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122333,
@@ -2420,7 +2460,7 @@
     },
     {
       "raw_hot": 96103,
-      "num": 178427,
+      "num": 300664,
       "word": "被3只宠物狗追咬胎停孕妇最新发声",
       "onboard_time": 1758461122,
       "rank": 34,
@@ -2859,6 +2899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48103,
+      "num": 144519,
+      "word": "部分高端四件套全靠吹",
+      "onboard_time": 1758461782,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 47674,
       "num": 47674,
       "word": "广东小孩进ICU24小时后才知被蛇咬伤",
@@ -3137,6 +3185,9 @@
     },
     {
       "word": "#中美双方可以相互成就共同繁荣#"
+    },
+    {
+      "word": "#总书记谈制造业高质量发展#"
     }
   ]
 }
