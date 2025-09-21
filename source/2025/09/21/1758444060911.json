@@ -1,0 +1,410 @@
+{
+  "runTime": 1758444060911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 777974,
+        "num": 1124475,
+        "word": "周杰伦演唱会卖水大爷卖5元一瓶",
+        "onboard_time": 1758437600,
+        "rank": 0,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 564095,
+        "num": 564095,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1758433702,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72598,
+        "num": 551934,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758427701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1654763,
+        "num": 551443,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696579,
+        "num": 550430,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548642,
+        "num": 548642,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1758439641,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 430258,
+        "num": 430258,
+        "word": "女童20楼坠至13楼雨棚众人合力救援",
+        "onboard_time": 1758428240,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1476181,
+        "num": 427450,
+        "word": "蔡国强一句道歉修复不了喜马拉雅",
+        "onboard_time": 1758436462,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410965,
+        "num": 410965,
+        "word": "管乐井迪前男友是同班同学",
+        "onboard_time": 1758439522,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394964,
+        "num": 394964,
+        "word": "祝绪丹说当演员不仅下水还要下跪",
+        "onboard_time": 1758440602,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621035,
+        "num": 384417,
+        "word": "韩媒验证中国人有首尔病",
+        "onboard_time": 1758442642,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 332158,
+        "num": 332158,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300575,
+        "num": 300575,
+        "word": "有存款和没存款的区别",
+        "onboard_time": 1758442521,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271277,
+        "num": 271277,
+        "word": "文章马伊琍大女儿17岁近照",
+        "onboard_time": 1758429981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259959,
+        "num": 259959,
+        "word": "王俊凯我这透明的一生",
+        "onboard_time": 1758437722,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249812,
+        "num": 249812,
+        "word": "为什么把房子卖掉 因为买的水被卡住了",
+        "onboard_time": 1758441322,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 552541,
+        "num": 248171,
+        "word": "王玉雯看到直播的刘宇宁天都塌了",
+        "onboard_time": 1758438322,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245725,
+        "num": 245725,
+        "word": "户外品牌集体表态尊重自然",
+        "onboard_time": 1758441862,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53441,
+        "num": 243758,
+        "word": "咱的飞行员嘴是真严",
+        "onboard_time": 1758443062,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 34130,
+        "num": 241173,
+        "word": "当地回应小区停水用吸污车供水",
+        "onboard_time": 1758442822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493755,
+        "num": 240033,
+        "word": "宋轶方声明",
+        "onboard_time": 1758438561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373472,
+        "num": 237598,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295771,
+        "num": 233576,
+        "word": "始祖鸟 安踏",
+        "onboard_time": 1758423381,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232203,
+        "num": 232203,
+        "word": "蔡国强 始祖鸟",
+        "onboard_time": 1758412640,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190113,
+        "num": 190113,
+        "word": "何猷君奚梦瑶儿子长大就冯程朗这样",
+        "onboard_time": 1758441502,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134241,
+        "num": 184339,
+        "word": "有一种美叫中国乡村",
+        "onboard_time": 1758440662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180915,
+        "num": 180915,
+        "word": "没到大结局男女主下线了",
+        "onboard_time": 1758440662,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175217,
+        "num": 175217,
+        "word": "不眠日大结局",
+        "onboard_time": 1758429622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140679,
+        "num": 174814,
+        "word": "娜扎赴山海大婚造型",
+        "onboard_time": 1758441802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44470,
+        "num": 174020,
+        "word": "年薪几百万博士高管从房企辞职",
+        "onboard_time": 1758443303,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55132,
+        "num": 172861,
+        "word": "广东人的周末雨雨雨",
+        "onboard_time": 1758438501,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190072,
+        "num": 172440,
+        "word": "24岁的张馨予",
+        "onboard_time": 1758440182,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171970,
+        "num": 171970,
+        "word": "心脉受损后身体的求救信号",
+        "onboard_time": 1758438082,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 154681,
+        "num": 154681,
+        "word": "张继科点评男乒最强正反手",
+        "onboard_time": 1758431841,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150895,
+        "num": 150895,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 148582,
+        "num": 148582,
+        "word": "人民日报评烟花秀事件",
+        "onboard_time": 1758433823,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140383,
+        "num": 140383,
+        "word": "始祖鸟致歉",
+        "onboard_time": 1758413479,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138249,
+        "num": 138249,
+        "word": "赵樱子说明星都羡慕网红带货",
+        "onboard_time": 1758438201,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93983,
+        "num": 134809,
+        "word": "女版Faker观战LPL总决赛",
+        "onboard_time": 1758443362,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9598,
+        "num": 133828,
+        "word": "林一是专门来治陈赫的吧",
+        "onboard_time": 1758443841,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133196,
+        "num": 133196,
+        "word": "GEN对战T1",
+        "onboard_time": 1758438680,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131691,
+        "num": 131691,
+        "word": "伦敦时装周",
+        "onboard_time": 1758443841,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 130642,
+        "num": 130642,
+        "word": "龚俊回地球团感觉像回家了",
+        "onboard_time": 1758443722,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130555,
+        "num": 130555,
+        "word": "贵州一殡仪馆花2亿建成后荒废",
+        "onboard_time": 1758440961,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127997,
+        "num": 127997,
+        "word": "始祖鸟外网道歉被指甩锅中国团队",
+        "onboard_time": 1758426321,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127626,
+        "num": 127626,
+        "word": "妇科炎症像感冒一样常见",
+        "onboard_time": 1758443722,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118524,
+        "num": 118524,
+        "word": "王安宇你让我很陌生",
+        "onboard_time": 1758441802,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118182,
+        "num": 118182,
+        "word": "BLG对战TES",
+        "onboard_time": 1758442581,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127308,
+        "num": 118075,
+        "word": "高中生10元成本净赚120的一天",
+        "onboard_time": 1758443964,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120079,
+        "num": 118013,
+        "word": "导入聊天记录 设备空间不足",
+        "onboard_time": 1758443841,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}
