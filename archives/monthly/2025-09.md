@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 19:19:13
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/21 19:37:09
 </p>
 </blockquote>
 <p>
@@ -3099,6 +3099,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E6%94%AF%E6%8C%81%E4%BB%96%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB%23" target="weibo">
+蔡国强感谢大家支持他大闹天宫（热度：904152）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%A2%E6%B0%9F%E9%85%B8%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23" target="weibo">
 氢氟酸涉案人员已被控制（热度：903033）
 </a>
@@ -5171,12 +5177,6 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9A%94%E5%A3%81%E8%80%81%E6%A8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 在隔壁老樊演唱会看到了王楚钦（热度：649230）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E6%94%AF%E6%8C%81%E4%BB%96%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB%23" target="weibo">
-蔡国强感谢大家支持他大闹天宫（热度：647628）
 </a>
 </li>
 

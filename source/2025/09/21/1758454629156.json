@@ -1,0 +1,410 @@
+{
+  "runTime": 1758454629156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 904152,
+        "num": 1144664,
+        "word": "蔡国强感谢大家支持他大闹天宫",
+        "onboard_time": 1758449001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511294,
+        "num": 511294,
+        "word": "顾客称吃日料在三文鱼上发现活蛆",
+        "onboard_time": 1758445162,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19579,
+        "num": 488630,
+        "word": "这是人民空军带来的震撼与浪漫",
+        "onboard_time": 1758423921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1528019,
+        "num": 485330,
+        "word": "日本媒体鸦雀无声",
+        "onboard_time": 1758448162,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 583094,
+        "num": 483870,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480981,
+        "num": 480981,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472255,
+        "num": 472255,
+        "word": "孕妇被未栓绳狗追咬胎停主人拒赔",
+        "onboard_time": 1758453202,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302524,
+        "num": 471970,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 165825,
+        "num": 471251,
+        "word": "周杰伦演唱会卖水大爷卖5元一瓶",
+        "onboard_time": 1758437600,
+        "rank": 8,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 275034,
+        "num": 470076,
+        "word": "印度赴美机票2小时暴涨超110%",
+        "onboard_time": 1758452602,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 783672,
+        "num": 469075,
+        "word": "王源评论祝王俊凯生日快乐",
+        "onboard_time": 1758444862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730782,
+        "num": 467987,
+        "word": "黄灿灿赚的第一笔钱给男朋友补交学费",
+        "onboard_time": 1758448223,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467941,
+        "num": 467941,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450928,
+        "num": 450928,
+        "word": "印媒怒了",
+        "onboard_time": 1758451520,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 427949,
+        "num": 427949,
+        "word": "雷军转发了王一博",
+        "onboard_time": 1758447562,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 332795,
+        "num": 332795,
+        "word": "陈赫把李乃文薅进综艺圈了",
+        "onboard_time": 1758447743,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46607,
+        "num": 300958,
+        "word": "vivo拍到了谢霆锋的少年感",
+        "onboard_time": 1758451341,
+        "rank": 16,
+        "category": "演出,数码"
+      },
+      {
+        "raw_hot": 143466,
+        "num": 290879,
+        "word": "云秀行或将官宣",
+        "onboard_time": 1758452782,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287532,
+        "num": 287532,
+        "word": "始祖鸟承诺",
+        "onboard_time": 1758445101,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71461,
+        "num": 255663,
+        "word": "村民称喜马拉雅山烟花味道很浓",
+        "onboard_time": 1758453861,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248348,
+        "num": 248348,
+        "word": "金晨怎么美成这样了",
+        "onboard_time": 1758450321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216266,
+        "num": 216266,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1758439641,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211396,
+        "num": 211396,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205881,
+        "num": 205881,
+        "word": "原来很多牙齿是不用补的",
+        "onboard_time": 1758450743,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203516,
+        "num": 203516,
+        "word": "给陈都灵戴无框眼镜的人简直是天才",
+        "onboard_time": 1758446363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197601,
+        "num": 197601,
+        "word": "王一博热血冲线",
+        "onboard_time": 1758453981,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 191178,
+        "num": 191178,
+        "word": "有存款和没存款的区别",
+        "onboard_time": 1758442521,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126424,
+        "num": 171212,
+        "word": "谢娜说撒贝宁有点多余",
+        "onboard_time": 1758454403,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103989,
+        "num": 162135,
+        "word": "徐明浩这都是你的兵",
+        "onboard_time": 1758450680,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26236,
+        "num": 160682,
+        "word": "美网民组队抢占印度人返美机票",
+        "onboard_time": 1758453801,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159982,
+        "num": 159982,
+        "word": "继父为房产把继子踢出家庭群",
+        "onboard_time": 1758452721,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154819,
+        "num": 154819,
+        "word": "范丞丞 青岛",
+        "onboard_time": 1758448701,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153288,
+        "num": 153288,
+        "word": "GEN战胜T1",
+        "onboard_time": 1758453141,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142843,
+        "num": 142843,
+        "word": "英媒称中国出口导弹标低射程",
+        "onboard_time": 1758448882,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138431,
+        "num": 138431,
+        "word": "社交最好的状态是落落大方",
+        "onboard_time": 1758453622,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136728,
+        "num": 136728,
+        "word": "台风",
+        "onboard_time": 1758444442,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130265,
+        "num": 130265,
+        "word": "蔡国强一句道歉修复不了喜马拉雅",
+        "onboard_time": 1758436462,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126692,
+        "num": 126692,
+        "word": "广东做好巨灾防御准备",
+        "onboard_time": 1758447802,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122408,
+        "num": 122408,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1758433702,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109747,
+        "num": 121713,
+        "word": "山姆上架太二酸菜鱼预制菜",
+        "onboard_time": 1758454101,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337069,
+        "num": 121659,
+        "word": "胡兵瞿颖借蔡国庆儿子拍全家福",
+        "onboard_time": 1758448223,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121305,
+        "num": 121305,
+        "word": "BLG对战TES",
+        "onboard_time": 1758442581,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116584,
+        "num": 116584,
+        "word": "李希侃土味应援KSG",
+        "onboard_time": 1758453801,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116235,
+        "num": 116235,
+        "word": "广东全力防御台风桦加沙",
+        "onboard_time": 1758447802,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19860,
+        "num": 115387,
+        "word": "遵义食物中毒人数还在核实",
+        "onboard_time": 1758453922,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114680,
+        "num": 114680,
+        "word": "英国将正式承认巴勒斯坦国",
+        "onboard_time": 1758448042,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113256,
+        "num": 113256,
+        "word": "风王桦加沙基本锁定华南地区",
+        "onboard_time": 1758448522,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106649,
+        "num": 111042,
+        "word": "iPhone17到手后要做的16个设置",
+        "onboard_time": 1758444923,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94056,
+        "num": 110126,
+        "word": "光与夜之恋",
+        "onboard_time": 1758450984,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109990,
+        "num": 109990,
+        "word": "LCK",
+        "onboard_time": 1758450500,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}
