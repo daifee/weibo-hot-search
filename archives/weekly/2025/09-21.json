@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758487120229,
+  "endTime": 1758489714274,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -3747,8 +3747,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14804,
-      "num": 17549,
+      "raw_hot": 15934,
+      "num": 17701,
       "word": "伊朗将暂停与国际原子能机构合作",
       "onboard_time": 1758484933,
       "rank": 39,
@@ -3761,6 +3761,14 @@
       "onboard_time": 1758396015,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14139,
+      "num": 17683,
+      "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
+      "onboard_time": 1758486673,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13286,
@@ -3779,19 +3787,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10155,
-      "num": 15792,
+      "raw_hot": 10770,
+      "num": 17650,
       "word": "延长告别时间是最好的断联方式",
       "onboard_time": 1758487094,
       "rank": 47,
       "category": "情感"
     },
     {
-      "raw_hot": 10021,
-      "num": 15803,
-      "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
-      "onboard_time": 1758486673,
-      "rank": 34,
+      "raw_hot": 9625,
+      "num": 17638,
+      "word": "网曝老师体罚学生反复深蹲超5分钟",
+      "onboard_time": 1758489315,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -3801,6 +3809,14 @@
       "onboard_time": 1758443841,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9431,
+      "num": 17633,
+      "word": "民警话疗3小时保住老人60万",
+      "onboard_time": 1758488954,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
