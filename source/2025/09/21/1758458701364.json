@@ -1,0 +1,410 @@
+{
+  "runTime": 1758458701364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 500874,
+        "num": 1080139,
+        "word": "印度赴美机票2小时暴涨超110%",
+        "onboard_time": 1758452602,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365467,
+        "num": 365467,
+        "word": "村民称喜马拉雅山烟花味道很浓",
+        "onboard_time": 1758453861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18534,
+        "num": 365311,
+        "word": "这是人民空军带来的震撼与浪漫",
+        "onboard_time": 1758423921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 990463,
+        "num": 364409,
+        "word": "日本媒体鸦雀无声",
+        "onboard_time": 1758448162,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1284324,
+        "num": 363781,
+        "word": "孕妇被未栓绳狗追咬胎停主人拒赔",
+        "onboard_time": 1758453202,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519950,
+        "num": 363336,
+        "word": "官方通报蔡国强烟花秀",
+        "onboard_time": 1758411318,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362945,
+        "num": 362945,
+        "word": "蔡国强致歉",
+        "onboard_time": 1758414080,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315914,
+        "num": 361911,
+        "word": "宋茜演了郑晓龙新剧",
+        "onboard_time": 1758456623,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274951,
+        "num": 361340,
+        "word": "雷军转发了王一博",
+        "onboard_time": 1758447562,
+        "rank": 8,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 299472,
+        "num": 360317,
+        "word": "预制菜国家标准",
+        "onboard_time": 1758457043,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1162652,
+        "num": 358828,
+        "word": "小狗赫兹去世",
+        "onboard_time": 1758454761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377610,
+        "num": 358093,
+        "word": "成毅形象大变迁",
+        "onboard_time": 1758455661,
+        "rank": 11,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 357748,
+        "num": 357748,
+        "word": "章若楠给全体员工换新手机了",
+        "onboard_time": 1758442882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333372,
+        "num": 333372,
+        "word": "陈乔恩回应要不要小孩",
+        "onboard_time": 1758457521,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313408,
+        "num": 313408,
+        "word": "印媒怒了",
+        "onboard_time": 1758451520,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281260,
+        "num": 281260,
+        "word": "预制菜要有国标了",
+        "onboard_time": 1758456682,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270958,
+        "num": 270958,
+        "word": "谢娜说撒贝宁有点多余",
+        "onboard_time": 1758454403,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252273,
+        "num": 252273,
+        "word": "云秀行",
+        "onboard_time": 1758454761,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186174,
+        "num": 186174,
+        "word": "不眠日",
+        "onboard_time": 1758456863,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175981,
+        "num": 175981,
+        "word": "国务院食安办回应预制菜",
+        "onboard_time": 1758456983,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 733030,
+        "num": 175856,
+        "word": "王源评论祝王俊凯生日快乐",
+        "onboard_time": 1758444862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567572,
+        "num": 175562,
+        "word": "黄灿灿赚的第一笔钱给男朋友补交学费",
+        "onboard_time": 1758448223,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191804,
+        "num": 175155,
+        "word": "鞠婧祎跳柠檬叉angel",
+        "onboard_time": 1758457402,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183698,
+        "num": 174901,
+        "word": "给陈都灵戴无框眼镜的人简直是天才",
+        "onboard_time": 1758446363,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174756,
+        "num": 174756,
+        "word": "BLG对战TES",
+        "onboard_time": 1758442581,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170606,
+        "num": 170606,
+        "word": "顾客称吃日料在三文鱼上发现活蛆",
+        "onboard_time": 1758445162,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169290,
+        "num": 169290,
+        "word": "刘雨昕也有戒断反应",
+        "onboard_time": 1758458003,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168177,
+        "num": 168177,
+        "word": "山姆上架太二酸菜鱼预制菜",
+        "onboard_time": 1758454101,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164540,
+        "num": 164540,
+        "word": "王一博许魏洲合照",
+        "onboard_time": 1758458242,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 164074,
+        "num": 164074,
+        "word": "始祖鸟承诺",
+        "onboard_time": 1758445101,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161321,
+        "num": 161321,
+        "word": "蔡国强",
+        "onboard_time": 1758435561,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159684,
+        "num": 159684,
+        "word": "王楚钦孙颖莎领衔出战亚锦赛",
+        "onboard_time": 1758457521,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153282,
+        "num": 153282,
+        "word": "陈赫把李乃文薅进综艺圈了",
+        "onboard_time": 1758447743,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151558,
+        "num": 151558,
+        "word": "原来很多牙齿是不用补的",
+        "onboard_time": 1758450743,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149442,
+        "num": 149442,
+        "word": "官方通报喜马拉雅山放烟花",
+        "onboard_time": 1758414742,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 146030,
+        "num": 146030,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1758439641,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138846,
+        "num": 138846,
+        "word": "台风",
+        "onboard_time": 1758444442,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131103,
+        "num": 131103,
+        "word": "刘轩丞直播",
+        "onboard_time": 1758458664,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129188,
+        "num": 129188,
+        "word": "新华社 烟花秀一查到底",
+        "onboard_time": 1758450984,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125030,
+        "num": 125030,
+        "word": "特朗普大骂拜登",
+        "onboard_time": 1758457222,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124400,
+        "num": 124400,
+        "word": "经济舱前6排全被锁座",
+        "onboard_time": 1758456921,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121315,
+        "num": 121315,
+        "word": "继父为房产把继子踢出家庭群",
+        "onboard_time": 1758452721,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113761,
+        "num": 113761,
+        "word": "金晨怎么美成这样了",
+        "onboard_time": 1758450321,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47333,
+        "num": 113564,
+        "word": "店方回应女子就餐发现炸鸡有蛆虫",
+        "onboard_time": 1758456082,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113470,
+        "num": 113470,
+        "word": "始祖鸟上千元鞋1个月不到就坏了",
+        "onboard_time": 1758456262,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112797,
+        "num": 112797,
+        "word": "喻言音乐节",
+        "onboard_time": 1758458483,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111562,
+        "num": 111562,
+        "word": "广东做好巨灾防御准备",
+        "onboard_time": 1758447802,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106807,
+        "num": 106807,
+        "word": "理想高管怼始祖鸟烟花秀是作秀",
+        "onboard_time": 1758456382,
+        "rank": 47,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 105921,
+        "num": 105921,
+        "word": "这不是抹茶蛋糕这是黄鳝的家",
+        "onboard_time": 1758458483,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100749,
+        "num": 100749,
+        "word": "皮亚斯特里的观赛位置",
+        "onboard_time": 1758458122,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758454629156,
+  "endTime": 1758458701364,
   "band_list": [
     {
       "raw_hot": 9470454,
@@ -65,6 +65,22 @@
       "onboard_time": 1758423381,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1284324,
+      "num": 472255,
+      "word": "孕妇被未栓绳狗追咬胎停主人拒赔",
+      "onboard_time": 1758453202,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1162652,
+      "num": 358828,
+      "word": "小狗赫兹去世",
+      "onboard_time": 1758454761,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1055714,
@@ -331,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500874,
+      "num": 1080139,
+      "word": "印度赴美机票2小时暴涨超110%",
+      "onboard_time": 1758452602,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 498000,
       "num": 478919,
       "word": "女子连续偷吃5个蛋挞后转身就走",
@@ -361,14 +385,6 @@
       "onboard_time": 1758439522,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472255,
-      "num": 472255,
-      "word": "孕妇被未栓绳狗追咬胎停主人拒赔",
-      "onboard_time": 1758453202,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 471730,
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377610,
+      "num": 358093,
+      "word": "成毅形象大变迁",
+      "onboard_time": 1758455661,
+      "rank": 11,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -497,6 +521,14 @@
       "onboard_time": 1758428661,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 365467,
+      "num": 365467,
+      "word": "村民称喜马拉雅山烟花味道很浓",
+      "onboard_time": 1758453861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364125,
@@ -523,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333372,
+      "num": 333372,
+      "word": "陈乔恩回应要不要小孩",
+      "onboard_time": 1758457521,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331475,
       "num": 208944,
       "word": "马思纯花少人生镜头",
@@ -539,6 +579,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 315914,
+      "num": 361911,
+      "word": "宋茜演了郑晓龙新剧",
+      "onboard_time": 1758456623,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315285,
       "num": 215518,
       "word": "安踏",
@@ -553,6 +601,14 @@
       "onboard_time": 1758428122,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 299472,
+      "num": 360317,
+      "word": "预制菜国家标准",
+      "onboard_time": 1758457043,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297376,
@@ -587,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281260,
+      "num": 281260,
+      "word": "预制菜要有国标了",
+      "onboard_time": 1758456682,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280494,
       "num": 155677,
       "word": "始祖鸟",
@@ -603,20 +667,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275034,
-      "num": 470076,
-      "word": "印度赴美机票2小时暴涨超110%",
-      "onboard_time": 1758452602,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 272356,
       "num": 255213,
       "word": "王俊凯工作室千字长文",
       "onboard_time": 1758414682,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270958,
+      "num": 270958,
+      "word": "谢娜说撒贝宁有点多余",
+      "onboard_time": 1758454403,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 267504,
@@ -673,6 +737,14 @@
       "onboard_time": 1758413359,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 252273,
+      "num": 252273,
+      "word": "云秀行",
+      "onboard_time": 1758454761,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 249234,
@@ -939,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191804,
+      "num": 175155,
+      "word": "鞠婧祎跳柠檬叉angel",
+      "onboard_time": 1758457402,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191267,
       "num": 191267,
       "word": "韩庚卢靖姗为3岁女儿庆生",
@@ -969,6 +1049,14 @@
       "onboard_time": 1758432080,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186174,
+      "num": 186174,
+      "word": "不眠日",
+      "onboard_time": 1758456863,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 186101,
@@ -1051,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175981,
+      "num": 175981,
+      "word": "国务院食安办回应预制菜",
+      "onboard_time": 1758456983,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174657,
       "num": 174657,
       "word": "00后开始当宿管了",
@@ -1115,12 +1211,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169290,
+      "num": 169290,
+      "word": "刘雨昕也有戒断反应",
+      "onboard_time": 1758458003,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168781,
       "num": 168781,
       "word": "蔡徐坤音乐节",
       "onboard_time": 1758439101,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168177,
+      "num": 168177,
+      "word": "山姆上架太二酸菜鱼预制菜",
+      "onboard_time": 1758454101,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166914,
@@ -1137,6 +1249,14 @@
       "onboard_time": 1758448882,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164540,
+      "num": 164540,
+      "word": "王一博许魏洲合照",
+      "onboard_time": 1758458242,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 162802,
@@ -1169,6 +1289,14 @@
       "onboard_time": 1758452721,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159684,
+      "num": 159684,
+      "word": "王楚钦孙颖莎领衔出战亚锦赛",
+      "onboard_time": 1758457521,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 159676,
@@ -1515,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131103,
+      "num": 131103,
+      "word": "刘轩丞直播",
+      "onboard_time": 1758458664,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130642,
       "num": 130642,
       "word": "龚俊回地球团感觉像回家了",
@@ -1529,6 +1665,14 @@
       "onboard_time": 1758432020,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129188,
+      "num": 129188,
+      "word": "新华社 烟花秀一查到底",
+      "onboard_time": 1758450984,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127929,
@@ -1587,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126424,
-      "num": 171212,
-      "word": "谢娜说撒贝宁有点多余",
-      "onboard_time": 1758454403,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125249,
       "num": 125249,
       "word": "孙杨被羊吓成沸羊羊",
@@ -1611,12 +1747,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125030,
+      "num": 125030,
+      "word": "特朗普大骂拜登",
+      "onboard_time": 1758457222,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124427,
       "num": 156556,
       "word": "成毅把杨迪吴泽林吓了一跳又一跳",
       "onboard_time": 1758434481,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124400,
+      "num": 124400,
+      "word": "经济舱前6排全被锁座",
+      "onboard_time": 1758456921,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124095,
@@ -1867,6 +2019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113470,
+      "num": 113470,
+      "word": "始祖鸟上千元鞋1个月不到就坏了",
+      "onboard_time": 1758456262,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113162,
       "num": 151898,
       "word": "韩东君昨天季军今天冠军",
@@ -1881,6 +2041,14 @@
       "onboard_time": 1758446903,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112797,
+      "num": 112797,
+      "word": "喻言音乐节",
+      "onboard_time": 1758458483,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 112605,
@@ -1923,14 +2091,6 @@
       "category": "体育,美妆"
     },
     {
-      "raw_hot": 109747,
-      "num": 121713,
-      "word": "山姆上架太二酸菜鱼预制菜",
-      "onboard_time": 1758454101,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108548,
       "num": 141099,
       "word": "怒海潜沙也重拍了",
@@ -1939,12 +2099,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106807,
+      "num": 106807,
+      "word": "理想高管怼始祖鸟烟花秀是作秀",
+      "onboard_time": 1758456382,
+      "rank": 47,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 106750,
       "num": 106750,
       "word": "731",
       "onboard_time": 1758357921,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105921,
+      "num": 105921,
+      "word": "这不是抹茶蛋糕这是黄鳝的家",
+      "onboard_time": 1758458483,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105326,
@@ -1993,6 +2169,14 @@
       "onboard_time": 1758417143,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100749,
+      "num": 100749,
+      "word": "皮亚斯特里的观赛位置",
+      "onboard_time": 1758458122,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99860,
@@ -2323,14 +2507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71461,
-      "num": 255663,
-      "word": "村民称喜马拉雅山烟花味道很浓",
-      "onboard_time": 1758453861,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70934,
       "num": 140862,
       "word": "谢娜被女儿教育了",
@@ -2488,6 +2664,14 @@
       "word": "广东小孩进ICU24小时后才知被蛇咬伤",
       "onboard_time": 1758397453,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47333,
+      "num": 113564,
+      "word": "店方回应女子就餐发现炸鸡有蛆虫",
+      "onboard_time": 1758456082,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
