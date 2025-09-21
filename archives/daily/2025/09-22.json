@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758489714274,
+  "endTime": 1758490610985,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18160,
+      "num": 18160,
+      "word": "伊朗将暂停与国际原子能机构合作",
+      "onboard_time": 1758484933,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17954,
       "num": 31228,
       "word": "飞机到底应不应该锁座",
@@ -515,19 +523,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15934,
-      "num": 17701,
-      "word": "伊朗将暂停与国际原子能机构合作",
-      "onboard_time": 1758484933,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14139,
-      "num": 17683,
+      "raw_hot": 14802,
+      "num": 18083,
       "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
       "onboard_time": 1758486673,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14757,
+      "num": 18079,
+      "word": "网曝老师体罚学生反复深蹲超5分钟",
+      "onboard_time": 1758489315,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -539,28 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11204,
-      "num": 17540,
-      "word": "周云杰称正探索AI陪伴机器人",
-      "onboard_time": 1758463287,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 10770,
-      "num": 17650,
+      "raw_hot": 11564,
+      "num": 17901,
       "word": "延长告别时间是最好的断联方式",
       "onboard_time": 1758487094,
       "rank": 47,
       "category": "情感"
     },
     {
-      "raw_hot": 9625,
-      "num": 17638,
-      "word": "网曝老师体罚学生反复深蹲超5分钟",
-      "onboard_time": 1758489315,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 11204,
+      "num": 17540,
+      "word": "周云杰称正探索AI陪伴机器人",
+      "onboard_time": 1758463287,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 9431,

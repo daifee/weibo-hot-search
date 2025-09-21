@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758489714274,
+  "endTime": 1758490610985,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -3739,6 +3739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18160,
+      "num": 18160,
+      "word": "伊朗将暂停与国际原子能机构合作",
+      "onboard_time": 1758484933,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17954,
       "num": 31228,
       "word": "飞机到底应不应该锁座",
@@ -3747,12 +3755,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15934,
-      "num": 17701,
-      "word": "伊朗将暂停与国际原子能机构合作",
-      "onboard_time": 1758484933,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 14802,
+      "num": 18083,
+      "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
+      "onboard_time": 1758486673,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14757,
+      "num": 18079,
+      "word": "网曝老师体罚学生反复深蹲超5分钟",
+      "onboard_time": 1758489315,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14419,
@@ -3763,14 +3779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14139,
-      "num": 17683,
-      "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
-      "onboard_time": 1758486673,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13286,
       "num": 23910,
       "word": "黄誉博演唱会收官",
@@ -3779,27 +3787,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11470,
-      "num": 52517,
-      "word": "烟花争议两大疑点",
-      "onboard_time": 1758410299,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10770,
-      "num": 17650,
+      "raw_hot": 11564,
+      "num": 17901,
       "word": "延长告别时间是最好的断联方式",
       "onboard_time": 1758487094,
       "rank": 47,
       "category": "情感"
     },
     {
-      "raw_hot": 9625,
-      "num": 17638,
-      "word": "网曝老师体罚学生反复深蹲超5分钟",
-      "onboard_time": 1758489315,
-      "rank": 48,
+      "raw_hot": 11470,
+      "num": 52517,
+      "word": "烟花争议两大疑点",
+      "onboard_time": 1758410299,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
