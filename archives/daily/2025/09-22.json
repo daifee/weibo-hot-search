@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758493351252,
+  "endTime": 1758494334121,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354674,
+      "num": 171270,
+      "word": "继父称继子永远不会跟我是一条心",
+      "onboard_time": 1758463527,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354215,
       "num": 354215,
       "word": "针孔摄像头比我们想象的还要小",
@@ -80,14 +88,6 @@
       "word": "长租15年不到1年就被劝退",
       "onboard_time": 1758466586,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268811,
-      "num": 171270,
-      "word": "继父称继子永远不会跟我是一条心",
-      "onboard_time": 1758463527,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149579,
+      "num": 149579,
+      "word": "00后女子醉驾撞死3人案将开庭",
+      "onboard_time": 1758467786,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146318,
       "num": 199826,
       "word": "网传热巴将录制向往的生活",
@@ -195,19 +203,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125495,
+      "num": 125495,
+      "word": "美以拦不住了",
+      "onboard_time": 1758467245,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123579,
       "num": 123579,
       "word": "广东做好巨灾防御准备",
       "onboard_time": 1758447802,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112891,
-      "num": 112891,
-      "word": "00后女子醉驾撞死3人案将开庭",
-      "onboard_time": 1758467786,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -257,14 +265,6 @@
       "onboard_time": 1758467905,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 98514,
-      "num": 98514,
-      "word": "美以拦不住了",
-      "onboard_time": 1758467245,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98188,
@@ -443,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42862,
+      "num": 49708,
+      "word": "李湘王诗龄看秀路透",
+      "onboard_time": 1758491234,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41517,
+      "num": 49643,
+      "word": "张凌赫给同学录婚礼祝福",
+      "onboard_time": 1758478816,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39011,
       "num": 52663,
       "word": "成毅李一桐新剧快了",
@@ -451,16 +467,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38034,
-      "num": 37827,
-      "word": "张凌赫给同学录婚礼祝福",
-      "onboard_time": 1758478816,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37401,
-      "num": 37401,
+      "num": 49620,
       "word": "网曝老师体罚学生反复深蹲超5分钟",
       "onboard_time": 1758489315,
       "rank": 48,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 29675,
-      "num": 37868,
+      "num": 49136,
       "word": "你好星期六",
       "onboard_time": 1758478336,
       "rank": 24,
@@ -491,20 +499,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27684,
-      "num": 27684,
-      "word": "李湘王诗龄看秀路透",
-      "onboard_time": 1758491234,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22275,
       "num": 37803,
       "word": "不要用离开试探小狗的爱",
       "onboard_time": 1758476776,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21714,
+      "num": 49235,
+      "word": "伊朗将暂停与国际原子能机构合作",
+      "onboard_time": 1758484933,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20587,
@@ -523,12 +531,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18722,
-      "num": 25483,
-      "word": "伊朗将暂停与国际原子能机构合作",
-      "onboard_time": 1758484933,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 19004,
+      "num": 49188,
+      "word": "飞机到底应不应该锁座",
+      "onboard_time": 1758481034,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18713,
@@ -539,20 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18170,
-      "num": 31228,
-      "word": "飞机到底应不应该锁座",
-      "onboard_time": 1758481034,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17579,
-      "num": 25478,
+      "raw_hot": 17993,
+      "num": 49174,
       "word": "延长告别时间是最好的断联方式",
       "onboard_time": 1758487094,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16737,
+      "num": 49101,
+      "word": "莱昂纳多破门",
+      "onboard_time": 1758494117,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 13286,
