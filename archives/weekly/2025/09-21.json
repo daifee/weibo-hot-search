@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758537891429,
+  "endTime": 1758540189054,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1431800,
+      "num": 1431800,
+      "word": "日本 苹果病",
+      "onboard_time": 1758537081,
+      "rank": 19,
+      "category": "海外新闻,健康医疗"
+    },
+    {
       "raw_hot": 1417324,
       "num": 430745,
       "word": "大一女生军训身亡",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1181514,
-      "num": 383989,
+      "num": 415257,
       "word": "贺峻霖中传成功保研",
       "onboard_time": 1758535942,
       "rank": 12,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 954339,
-      "num": 383924,
+      "num": 401696,
       "word": "10月1号将出现的六批人",
       "onboard_time": 1758531024,
       "rank": 20,
@@ -819,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545384,
+      "num": 545384,
+      "word": "恋综最尴尬的一幕出现了",
+      "onboard_time": 1758538041,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544630,
       "num": 291749,
       "word": "金晨剪彩时扔彩头",
@@ -947,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491679,
+      "num": 491679,
+      "word": "严浩翔开机路透",
+      "onboard_time": 1758538222,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484470,
       "num": 484470,
       "word": "东莞五停",
@@ -969,6 +993,14 @@
       "onboard_time": 1758365843,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 459187,
+      "num": 459187,
+      "word": "福建舰弹射现场",
+      "onboard_time": 1758535341,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 459067,
@@ -1024,6 +1056,14 @@
       "word": "18岁女孩发现男友已婚饮酒后跳江",
       "onboard_time": 1758414863,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424397,
+      "num": 378795,
+      "word": "南京地下室",
+      "onboard_time": 1758536961,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1104,14 +1144,6 @@
       "word": "台湾大学生被韩国人扇巴掌",
       "onboard_time": 1758501381,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 384063,
-      "num": 384063,
-      "word": "福建舰弹射现场",
-      "onboard_time": 1758535341,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -2011,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200935,
+      "num": 200935,
+      "word": "才发现我妈当年穿的都是千禧风",
+      "onboard_time": 1758538642,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 200934,
       "num": 161904,
       "word": "丞磊曾舜晞给白鹿买生日蛋糕",
@@ -2227,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190320,
+      "num": 190320,
+      "word": "舰载机如何弹射起飞",
+      "onboard_time": 1758538522,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190113,
       "num": 190113,
       "word": "何猷君奚梦瑶儿子长大就冯程朗这样",
@@ -2339,6 +2387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185714,
+      "num": 185714,
+      "word": "韩男误认台湾男子穿旭日旗对其掌掴",
+      "onboard_time": 1758538883,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185542,
       "num": 185542,
       "word": "Knight刷新LPL冠军纪录",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1758526400,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182518,
+      "num": 392865,
+      "word": "日本观众看完电影731后情绪崩溃",
+      "onboard_time": 1758538762,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 181276,
@@ -2627,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172072,
+      "num": 172072,
+      "word": "深圳地铁",
+      "onboard_time": 1758539722,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172054,
       "num": 172054,
       "word": "加沙",
@@ -2827,14 +2899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161719,
-      "num": 161719,
-      "word": "南京地下室",
-      "onboard_time": 1758536961,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161594,
       "num": 161594,
       "word": "陈楚生是不是偷偷报班了",
@@ -2849,14 +2913,6 @@
       "onboard_time": 1758471741,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161169,
-      "num": 383527,
-      "word": "日本 苹果病",
-      "onboard_time": 1758537081,
-      "rank": 19,
-      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 161159,
@@ -3017,6 +3073,14 @@
       "onboard_time": 1758518062,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155625,
+      "num": 155625,
+      "word": "小学乘法因顺序不同被判错引争议",
+      "onboard_time": 1758537682,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155520,
@@ -3235,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148122,
+      "num": 148122,
+      "word": "产妇凌晨路边产子目击者发声",
+      "onboard_time": 1758537260,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148100,
       "num": 148100,
       "word": "光与夜之恋",
@@ -3408,14 +3480,6 @@
       "word": "19岁女孩留学9天被电诈后自杀",
       "onboard_time": 1758426622,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141870,
-      "num": 141870,
-      "word": "产妇凌晨路边产子目击者发声",
-      "onboard_time": 1758537260,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3675,12 +3739,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132171,
+      "num": 132171,
+      "word": "中方回应多国宣布承认巴勒斯坦国",
+      "onboard_time": 1758537982,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132005,
       "num": 132005,
       "word": "熬夜到什么程度会猝死",
       "onboard_time": 1758524361,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131990,
+      "num": 131990,
+      "word": "知情者称遇袭医生仍在抢救中",
+      "onboard_time": 1758539962,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131949,
+      "num": 131949,
+      "word": "罗永浩回上海了",
+      "onboard_time": 1758537802,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 131719,
@@ -3851,6 +3939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127898,
+      "num": 388129,
+      "word": "福建舰打击范围已覆盖第二岛链",
+      "onboard_time": 1758539661,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127707,
       "num": 147922,
       "word": "王力宏是真玩得起啊",
@@ -3969,6 +4065,22 @@
       "onboard_time": 1758518302,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 124805,
+      "num": 171835,
+      "word": "首例性侵认定工伤追偿案开庭",
+      "onboard_time": 1758539841,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124684,
+      "num": 215496,
+      "word": "谁家新娘子在洞房发现嫁错人",
+      "onboard_time": 1758539602,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 124427,
@@ -4153,14 +4265,6 @@
       "onboard_time": 1758511702,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120888,
-      "num": 120888,
-      "word": "罗永浩回上海了",
-      "onboard_time": 1758537802,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 120796,
@@ -4537,6 +4641,14 @@
       "onboard_time": 1758537022,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109877,
+      "num": 209139,
+      "word": "射程之内没有远洋",
+      "onboard_time": 1758539661,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 109598,
@@ -5155,6 +5267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 80961,
+      "num": 128499,
+      "word": "这是真的在披麻戴笑",
+      "onboard_time": 1758539481,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80783,
       "num": 97462,
       "word": "蔡徐坤把音乐节嗨成演唱会",
@@ -5209,6 +5329,14 @@
       "onboard_time": 1758511941,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77373,
+      "num": 127978,
+      "word": "张晚意的原生家庭就是丝瓜汤反面",
+      "onboard_time": 1758538582,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 77362,
@@ -5403,6 +5531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62301,
+      "num": 383086,
+      "word": "重庆偶遇孙颖莎",
+      "onboard_time": 1758539062,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62210,
       "num": 178063,
       "word": "136人吃三明治中毒的食品厂已开12年",
@@ -5505,6 +5641,14 @@
       "onboard_time": 1758401234,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56958,
+      "num": 227273,
+      "word": "MG总经理秀后台真实订单",
+      "onboard_time": 1758539962,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 55862,
@@ -5627,6 +5771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49778,
+      "num": 171907,
+      "word": "蔡国强 感谢聪明的动物们帮助",
+      "onboard_time": 1758539722,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49079,
       "num": 138248,
       "word": "张柏芝 叫我老公",
@@ -5721,6 +5873,14 @@
       "onboard_time": 1758443303,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44303,
+      "num": 171934,
+      "word": "丁程鑫杀青不撒手明示想带走",
+      "onboard_time": 1758540083,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 43736,
@@ -5987,6 +6147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31165,
+      "num": 172002,
+      "word": "南迦巴瓦峰日照金山太震撼",
+      "onboard_time": 1758537440,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 30510,
       "num": 44964,
       "word": "南京被泰州封零",
@@ -6075,6 +6243,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 28617,
+      "num": 172047,
+      "word": "青海湖随手一拍都是壁纸",
+      "onboard_time": 1758538522,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28530,
       "num": 41068,
       "word": "24岁确诊焦虑症的真实感受",
@@ -6145,14 +6321,6 @@
       "onboard_time": 1758498921,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23115,
-      "num": 118696,
-      "word": "南迦巴瓦峰日照金山太震撼",
-      "onboard_time": 1758537440,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 22275,

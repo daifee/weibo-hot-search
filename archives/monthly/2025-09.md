@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 18:44:51
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 19:23:09
 </p>
 </blockquote>
 <p>
@@ -1601,6 +1601,12 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B7%BC%E6%80%A1%E7%9A%84%E8%84%B8%23" target="weibo">
 张淼怡的脸（热度：1438006）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%20%E8%8B%B9%E6%9E%9C%E7%97%85%23" target="weibo">
+日本 苹果病（热度：1431800）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83%E6%9C%896%E4%B8%AA%E9%A2%9C%E8%89%B2%23" target="weibo">
 8万只气球有6个颜色（热度：597362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E7%BB%99%E7%9A%AE%E8%82%A4%E5%96%82%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E4%BA%86%23" target="weibo">
-别再给皮肤喂满汉全席了（热度：597142）
 </a>
 </li>
 
