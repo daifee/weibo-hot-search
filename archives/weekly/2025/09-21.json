@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758519679002,
+  "endTime": 1758523134127,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1041289,
+      "num": 1166606,
+      "word": "万豪酒店承认拖鞋循环多次使用",
+      "onboard_time": 1758519502,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1038719,
       "num": 668504,
       "word": "始祖鸟外网道歉被指甩锅中国团队",
@@ -289,6 +297,14 @@
       "onboard_time": 1758509181,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 849221,
+      "num": 849221,
+      "word": "澳男子度假溺亡遗体回国后心脏不见",
+      "onboard_time": 1758516323,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 848621,
@@ -419,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 731452,
+      "num": 326090,
+      "word": "葛夕因感染幽门螺旋杆菌暴瘦",
+      "onboard_time": 1758516984,
+      "rank": 15,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 723229,
       "num": 723229,
       "word": "不眠日大结局",
@@ -443,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 719852,
-      "num": 326090,
-      "word": "葛夕因感染幽门螺旋杆菌暴瘦",
-      "onboard_time": 1758516984,
-      "rank": 15,
-      "category": "艺人,网红"
-    },
-    {
       "raw_hot": 692267,
       "num": 582032,
       "word": "蔡国强",
@@ -465,14 +481,6 @@
       "onboard_time": 1758509181,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 669374,
-      "num": 669374,
-      "word": "澳男子度假溺亡遗体回国后心脏不见",
-      "onboard_time": 1758516323,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 665663,
@@ -537,6 +545,14 @@
       "onboard_time": 1758510440,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 625178,
+      "num": 625178,
+      "word": "花少5马哥",
+      "onboard_time": 1758520581,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 617994,
@@ -619,6 +635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 568460,
+      "num": 249805,
+      "word": "陈乔恩 我爱干嘛就干嘛",
+      "onboard_time": 1758519202,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564820,
       "num": 492495,
       "word": "陆毅提议鲍蕾陈乔恩一起睡",
@@ -641,6 +665,14 @@
       "onboard_time": 1758505761,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 554625,
+      "num": 554625,
+      "word": "超强台风桦加沙位置更新",
+      "onboard_time": 1758518663,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545874,
@@ -819,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 426622,
+      "num": 426622,
+      "word": "台风",
+      "onboard_time": 1758421822,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406283,
       "num": 483247,
       "word": "孙颖莎 多芬",
@@ -963,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340719,
+      "num": 340719,
+      "word": "iPhone17发布后16的反向操作",
+      "onboard_time": 1758520282,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 338211,
       "num": 338211,
       "word": "陈赫把李乃文薅进综艺圈了",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1758505221,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281590,
-      "num": 281590,
-      "word": "台风",
-      "onboard_time": 1758421822,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281260,
@@ -1521,14 +1561,6 @@
       "onboard_time": 1758425121,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212878,
-      "num": 212878,
-      "word": "陈乔恩 我爱干嘛就干嘛",
-      "onboard_time": 1758519202,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 211388,
@@ -2011,6 +2043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184467,
+      "num": 184467,
+      "word": "张晚意没有经纪公司",
+      "onboard_time": 1758522322,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183818,
       "num": 183818,
       "word": "PEL",
@@ -2169,6 +2209,14 @@
       "onboard_time": 1758425363,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173626,
+      "num": 173626,
+      "word": "陈乔恩女生不能吹空调",
+      "onboard_time": 1758518842,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 173592,
@@ -2459,6 +2507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158407,
+      "num": 158407,
+      "word": "广东省内所有高铁停运",
+      "onboard_time": 1758522982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158208,
       "num": 175055,
       "word": "王楚然请孟子义剧组喝奶茶",
@@ -2545,6 +2601,22 @@
       "onboard_time": 1758375204,
       "rank": 26,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 154106,
+      "num": 183170,
+      "word": "与晋长安也有短剧了",
+      "onboard_time": 1758521902,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153962,
+      "num": 153962,
+      "word": "王楚钦背上亲爱的小书包",
+      "onboard_time": 1758521481,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 153897,
@@ -2699,14 +2771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148010,
-      "num": 296871,
-      "word": "超强台风桦加沙位置更新",
-      "onboard_time": 1758518663,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147755,
       "num": 147755,
       "word": "月薪3万vs月薪3千",
@@ -2715,20 +2779,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147723,
+      "num": 147723,
+      "word": "网传始祖鸟上个月就做了炸山测试",
+      "onboard_time": 1758522501,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147185,
       "num": 147185,
       "word": "以为是蔡国庆",
       "onboard_time": 1758420681,
       "rank": 41,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 146900,
-      "num": 146900,
-      "word": "陈乔恩女生不能吹空调",
-      "onboard_time": 1758518842,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 146539,
@@ -2817,6 +2881,14 @@
       "onboard_time": 1758427942,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143487,
+      "num": 181847,
+      "word": "王力宏19岁代表作是被逼写的",
+      "onboard_time": 1758522141,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 142862,
@@ -3035,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134350,
+      "num": 256214,
+      "word": "台风桦加沙将严重影响江门市",
+      "onboard_time": 1758504981,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133828,
       "num": 146791,
       "word": "看把谢霆锋逼成啥样了",
@@ -3121,14 +3201,6 @@
       "onboard_time": 1758518423,
       "rank": 48,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 130693,
-      "num": 130693,
-      "word": "万豪酒店承认拖鞋循环多次使用",
-      "onboard_time": 1758519502,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130642,
@@ -3283,6 +3355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125049,
+      "num": 125049,
+      "word": "树 我长了两年都没有它两秒快",
+      "onboard_time": 1758519262,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125034,
       "num": 125034,
       "word": "北京国安vs上海海港",
@@ -3361,6 +3441,14 @@
       "onboard_time": 1758438382,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123309,
+      "num": 123309,
+      "word": "这居然是白敬亭31岁的状态",
+      "onboard_time": 1758523102,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 123136,
@@ -3723,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111633,
+      "num": 111633,
+      "word": "罗永浩回应债务问题",
+      "onboard_time": 1758522261,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111145,
       "num": 111145,
       "word": "小猫猫 这衣服欺负我",
@@ -3768,14 +3864,6 @@
       "word": "风云四号卫星带你看台风桦加沙",
       "onboard_time": 1758503542,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109113,
-      "num": 109113,
-      "word": "台风桦加沙将严重影响江门市",
-      "onboard_time": 1758504981,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -4283,6 +4371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79669,
+      "num": 242200,
+      "word": "鸡排主理人",
+      "onboard_time": 1758522022,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79261,
       "num": 79841,
       "word": "6个人里有7个人不对劲",
@@ -4328,6 +4424,22 @@
       "word": "张凌赫给同学录婚礼祝福",
       "onboard_time": 1758478816,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73447,
+      "num": 147853,
+      "word": "中华体育精神绽放雪域高原",
+      "onboard_time": 1758520463,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73087,
+      "num": 148033,
+      "word": "这不是商战这是肖战",
+      "onboard_time": 1758522441,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -4409,6 +4521,14 @@
       "onboard_time": 1758518482,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65057,
+      "num": 153473,
+      "word": "黄灿灿早期武大樱花树写真",
+      "onboard_time": 1758522742,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 64948,
@@ -4691,6 +4811,14 @@
       "category": "电影,音乐"
     },
     {
+      "raw_hot": 45438,
+      "num": 178063,
+      "word": "136人吃三明治中毒的食品厂已开12年",
+      "onboard_time": 1758522681,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44470,
       "num": 174020,
       "word": "年薪几百万博士高管从房企辞职",
@@ -4752,6 +4880,14 @@
       "word": "中产运动三件套又换了",
       "onboard_time": 1758510622,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41968,
+      "num": 244890,
+      "word": "今年舟山第一网鱼在京东拍卖",
+      "onboard_time": 1758522441,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -4891,6 +5027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30032,
+      "num": 123634,
+      "word": "多方回应网传业主私挖地下室挖通河道",
+      "onboard_time": 1758521542,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29936,
       "num": 57409,
       "word": "无法共情上个月的自己",
@@ -4987,6 +5131,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27020,
+      "num": 263728,
+      "word": "和时代少年团双倍电解焕活每刻",
+      "onboard_time": 1758520282,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26615,
+      "num": 237292,
+      "word": "万豪方回应拖鞋重复使用是出于环保",
+      "onboard_time": 1758522742,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26236,
       "num": 160682,
       "word": "美网民组队抢占印度人返美机票",
@@ -5020,7 +5180,7 @@
     },
     {
       "raw_hot": 25056,
-      "num": 630902,
+      "num": 644962,
       "word": "不能错过的长春航展高能场面",
       "onboard_time": 1758503661,
       "rank": 2,
