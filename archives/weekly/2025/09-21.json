@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758555684345,
+  "endTime": 1758558759515,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -177,6 +177,14 @@
       "onboard_time": 1758539722,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1204608,
+      "num": 527399,
+      "word": "秦雯王家卫录音",
+      "onboard_time": 1758555022,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1184918,
@@ -403,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 888578,
+      "num": 250070,
+      "word": "喜马拉雅炸山事已涉嫌违法",
+      "onboard_time": 1758554423,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 876378,
       "num": 876378,
       "word": "身体发炎时尽量少碰4种食物",
@@ -537,6 +553,14 @@
       "onboard_time": 1758437600,
       "rank": 13,
       "category": "演出,民生新闻"
+    },
+    {
+      "raw_hot": 774545,
+      "num": 774545,
+      "word": "广东全面进入临战状态",
+      "onboard_time": 1758555202,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 767693,
@@ -801,6 +825,14 @@
       "onboard_time": 1758414742,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 595593,
+      "num": 208106,
+      "word": "臭宝品牌方回应吃出脚趾甲和烟头",
+      "onboard_time": 1758554781,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 590530,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1758414863,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417279,
-      "num": 417279,
-      "word": "秦雯王家卫录音",
-      "onboard_time": 1758555022,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 406283,
@@ -1723,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260620,
+      "num": 260620,
+      "word": "广东全面进入台风防御状态",
+      "onboard_time": 1758556342,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258843,
       "num": 258843,
       "word": "深圳建议储备至少3天的物资",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1758454761,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251618,
+      "num": 251618,
+      "word": "广州伤医事件受伤医生脱离生命危险",
+      "onboard_time": 1758556641,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251368,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1758421941,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239553,
-      "num": 239553,
-      "word": "喜马拉雅炸山事已涉嫌违法",
-      "onboard_time": 1758554423,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239274,
@@ -2137,14 +2169,6 @@
       "onboard_time": 1758385942,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208106,
-      "num": 208106,
-      "word": "臭宝品牌方回应吃出脚趾甲和烟头",
-      "onboard_time": 1758554781,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208020,
@@ -3267,6 +3291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161107,
+      "num": 161107,
+      "word": "张峻豪跳angel真的不是ai吗",
+      "onboard_time": 1758555860,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160243,
       "num": 160243,
       "word": "王楚钦说全运赛场见",
@@ -3345,6 +3377,14 @@
       "onboard_time": 1758410058,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158374,
+      "num": 158374,
+      "word": "以色列可能要反制",
+      "onboard_time": 1758556162,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158208,
@@ -3896,6 +3936,14 @@
       "word": "赵丽颖把星辰戴在腕间",
       "onboard_time": 1758515782,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141018,
+      "num": 141018,
+      "word": "蕾哈娜官宣生女",
+      "onboard_time": 1758555860,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -4451,6 +4499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127199,
+      "num": 127199,
+      "word": "毛利兰确认参演明年柯南剧场版",
+      "onboard_time": 1758553583,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 126533,
       "num": 126533,
       "word": "鹅鸭杀不限号测试定档",
@@ -4505,14 +4561,6 @@
       "onboard_time": 1758452902,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125009,
-      "num": 125009,
-      "word": "毛利兰确认参演明年柯南剧场版",
-      "onboard_time": 1758553583,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 124902,
@@ -4635,14 +4683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123057,
-      "num": 237982,
-      "word": "广东全面进入临战状态",
-      "onboard_time": 1758555202,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122711,
       "num": 122711,
       "word": "吴易昺vs梅德韦杰夫",
@@ -4731,6 +4771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121505,
+      "num": 154982,
+      "word": "白家涉赌诈资金超200亿",
+      "onboard_time": 1758557301,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121415,
       "num": 121415,
       "word": "陈楚生现场",
@@ -4801,6 +4849,14 @@
       "onboard_time": 1758541581,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119768,
+      "num": 119768,
+      "word": "张大仙战队",
+      "onboard_time": 1758555142,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 119663,
@@ -4995,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113969,
+      "num": 113969,
+      "word": "秦雯吐槽靳东陈道明",
+      "onboard_time": 1758556461,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113861,
       "num": 113861,
       "word": "李泽言配音",
@@ -5121,14 +5185,6 @@
       "onboard_time": 1758522261,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111519,
-      "num": 111519,
-      "word": "张大仙战队",
-      "onboard_time": 1758555142,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 111145,
@@ -6027,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72236,
+      "num": 81023,
+      "word": "台风桦加沙最新消息汇总",
+      "onboard_time": 1758558559,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71743,
       "num": 138448,
       "word": "酒店一次性拖鞋 重复使用",
@@ -6121,6 +6185,14 @@
       "onboard_time": 1758381204,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65614,
+      "num": 101955,
+      "word": "酒店因提供监控被性侵施害者威胁",
+      "onboard_time": 1758557842,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65503,
