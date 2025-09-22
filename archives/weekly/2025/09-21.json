@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758511740192,
+  "endTime": 1758513160292,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 816382,
+      "num": 714774,
+      "word": "李乃文剪彩后把彩头扔了",
+      "onboard_time": 1758509181,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812532,
       "num": 205566,
       "word": "易烊千玺",
@@ -313,6 +321,14 @@
       "onboard_time": 1758457521,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 782586,
+      "num": 782586,
+      "word": "刘强东10年1元年薪约定到期",
+      "onboard_time": 1758506241,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 777974,
@@ -435,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 646067,
-      "num": 646067,
-      "word": "刘强东10年1元年薪约定到期",
-      "onboard_time": 1758506241,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 640485,
       "num": 631704,
       "word": "iPhone17首批用户吐槽不断",
@@ -465,6 +473,14 @@
       "onboard_time": 1758447562,
       "rank": 7,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 617539,
+      "num": 617539,
+      "word": "见到这种紫色保温壶立即报警",
+      "onboard_time": 1758509601,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 614891,
@@ -699,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435601,
-      "num": 435601,
-      "word": "李乃文剪彩后把彩头扔了",
-      "onboard_time": 1758509181,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431237,
       "num": 431237,
       "word": "18岁女孩发现男友已婚饮酒后跳江",
@@ -715,12 +723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406283,
+      "num": 483247,
+      "word": "孙颖莎 多芬",
+      "onboard_time": 1758511403,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404826,
       "num": 404826,
       "word": "宋茜曹骏二搭",
       "onboard_time": 1758424701,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403387,
+      "num": 477914,
+      "word": "金正恩强调朝鲜不会无核化",
+      "onboard_time": 1758510440,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 401890,
@@ -777,14 +801,6 @@
       "onboard_time": 1758440602,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394684,
-      "num": 394684,
-      "word": "见到这种紫色保温壶立即报警",
-      "onboard_time": 1758509601,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 385711,
@@ -897,6 +913,14 @@
       "onboard_time": 1758369862,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311434,
+      "num": 311434,
+      "word": "小米17颜值",
+      "onboard_time": 1758510260,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 306991,
@@ -1227,14 +1251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237491,
-      "num": 237491,
-      "word": "金正恩强调朝鲜不会无核化",
-      "onboard_time": 1758510440,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 237138,
       "num": 237138,
       "word": "第一批拿到苹果17的真实感受",
@@ -1321,6 +1337,22 @@
       "onboard_time": 1758458903,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218543,
+      "num": 218543,
+      "word": "黎深终末之神",
+      "onboard_time": 1758512182,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 216226,
+      "num": 192976,
+      "word": "始祖鸟国内外价格对比",
+      "onboard_time": 1758512363,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215179,
@@ -1763,6 +1795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183224,
+      "num": 183224,
+      "word": "年轻人已经卷到装修赛道了",
+      "onboard_time": 1758509901,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183166,
       "num": 183166,
       "word": "网友称卖水哥卖完就走不看一眼杰伦",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1758467725,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181442,
-      "num": 181442,
-      "word": "年轻人已经卷到装修赛道了",
-      "onboard_time": 1758509901,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 180736,
@@ -1827,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180115,
+      "num": 180115,
+      "word": "剑网3",
+      "onboard_time": 1758512242,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179616,
       "num": 179616,
       "word": "上海申花1比1成都蓉城",
@@ -1867,20 +1907,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177856,
+      "num": 357344,
+      "word": "刘芸婚后第一个放弃的是事业",
+      "onboard_time": 1758512781,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177830,
       "num": 177830,
       "word": "英国将正式承认巴勒斯坦国",
       "onboard_time": 1758448042,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 176064,
-      "num": 176064,
-      "word": "孙颖莎 多芬",
-      "onboard_time": 1758511403,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 175981,
@@ -2019,6 +2059,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166891,
+      "num": 166891,
+      "word": "王楚钦祝隔壁老樊越来越好",
+      "onboard_time": 1758512723,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165571,
+      "num": 506891,
+      "word": "深圳865个应急避难场所已准备好",
+      "onboard_time": 1758510560,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165122,
       "num": 152880,
       "word": "英媒称中国出口导弹标低射程",
@@ -2059,14 +2115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161417,
-      "num": 308700,
-      "word": "小米17颜值",
-      "onboard_time": 1758510260,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 161302,
       "num": 161302,
       "word": "向往的生活gap了一下",
@@ -2097,6 +2145,14 @@
       "onboard_time": 1758452721,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159840,
+      "num": 159840,
+      "word": "黎深新日卡",
+      "onboard_time": 1758512602,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 159684,
@@ -2387,14 +2443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145932,
-      "num": 506891,
-      "word": "深圳865个应急避难场所已准备好",
-      "onboard_time": 1758510560,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145906,
       "num": 145906,
       "word": "院士科普我们为什么要撞击小行星",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1758413240,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140419,
+      "num": 140419,
+      "word": "普通女生化妆2小时的变化",
+      "onboard_time": 1758513082,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 140085,
@@ -2683,6 +2739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131719,
+      "num": 131719,
+      "word": "埃及小丽回应花少被坑",
+      "onboard_time": 1758511822,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131691,
       "num": 131691,
       "word": "伦敦时装周",
@@ -2721,6 +2785,14 @@
       "onboard_time": 1758443722,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130485,
+      "num": 130485,
+      "word": "当狗咖最后一个客人走后",
+      "onboard_time": 1758513142,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 130200,
@@ -3675,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86990,
+      "num": 355968,
+      "word": "台风桦加沙或多次登陆",
+      "onboard_time": 1758511881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86242,
       "num": 119176,
       "word": "可惜我叫谢霆锋 不叫谢停雨",
@@ -3819,6 +3899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78855,
+      "num": 140666,
+      "word": "警察和抗议的妻子面对面",
+      "onboard_time": 1758511941,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77268,
       "num": 77268,
       "word": "日喀则通报烟花事件",
@@ -3833,6 +3921,14 @@
       "onboard_time": 1758471321,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75902,
+      "num": 131752,
+      "word": "特朗普追悼会拥抱柯克遗孀被批作秀",
+      "onboard_time": 1758511941,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74739,
@@ -3899,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67827,
+      "num": 186297,
+      "word": "相机租赁火了",
+      "onboard_time": 1758511881,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66194,
       "num": 69487,
       "word": "无畏契约",
@@ -3952,6 +4056,14 @@
       "word": "贵州136人因食物中毒住院",
       "onboard_time": 1758460043,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61616,
+      "num": 141612,
+      "word": "孕妇被狗追咬胎停丈夫发声",
+      "onboard_time": 1758512482,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -4161,6 +4273,14 @@
       "onboard_time": 1758446482,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43735,
+      "num": 471383,
+      "word": "蔡徐坤实力",
+      "onboard_time": 1758512060,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 43699,

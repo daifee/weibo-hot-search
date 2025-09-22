@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 11:29:00
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 11:52:40
 </p>
 </blockquote>
 <p>
@@ -3849,6 +3849,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B9%83%E6%96%87%E5%89%AA%E5%BD%A9%E5%90%8E%E6%8A%8A%E5%BD%A9%E5%A4%B4%E6%89%94%E4%BA%86%23" target="weibo">
+李乃文剪彩后把彩头扔了（热度：816382）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B8%BB%E6%92%AD9%E4%B8%AA%E6%9C%88%E6%89%93%E8%B5%8F1.8%E4%B8%87%E6%AC%A1%23" target="weibo">
 妻子出轨主播9个月打赏1.8万次（热度：816089）
 </a>
@@ -4157,6 +4163,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E9%82%93%E7%90%B3%E7%90%B3%E5%AE%98%E5%AE%A3%E6%80%80%E5%AD%95%23" target="weibo">
 奥运冠军邓琳琳官宣怀孕（热度：783148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C10%E5%B9%B41%E5%85%83%E5%B9%B4%E8%96%AA%E7%BA%A6%E5%AE%9A%E5%88%B0%E6%9C%9F%23" target="weibo">
+刘强东10年1元年薪约定到期（热度：782586）
 </a>
 </li>
 
@@ -5331,12 +5343,6 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C10%E5%B9%B41%E5%85%83%E5%B9%B4%E8%96%AA%E7%BA%A6%E5%AE%9A%E5%88%B0%E6%9C%9F%23" target="weibo">
-刘强东10年1元年薪约定到期（热度：646067）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E4%B8%80%E5%B9%B4%E7%A1%AE%E8%AF%8A%E4%BA%86%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85%23" target="weibo">
 结婚一年确诊了免疫系统疾病（热度：645692）
 </a>
@@ -5627,6 +5633,12 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%BD%E5%8F%8B40%E5%8F%AA%E9%B8%BD%E5%AD%90%E5%8F%82%E4%B8%8E%E9%98%85%E5%85%B5%E5%85%A8%E9%A3%9E%E5%9B%9E%23" target="weibo">
 鸽友40只鸽子参与阅兵全飞回（热度：617903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E5%88%B0%E8%BF%99%E7%A7%8D%E7%B4%AB%E8%89%B2%E4%BF%9D%E6%B8%A9%E5%A3%B6%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6%23" target="weibo">
+见到这种紫色保温壶立即报警（热度：617539）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone17系列预售（热度：587926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E9%A3%9E%E6%B0%94%E7%90%83%23" target="weibo">
 放飞气球（热度：585437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%BF%98%E6%B2%A1%E5%90%83%E8%BF%87%E8%80%81%E4%B9%A1%E9%B8%A1%23" target="weibo">
-罗永浩还没吃过老乡鸡（热度：585023）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E6%88%91%E7%9C%BC%E7%9D%9B%E8%84%8F%E4%BA%86%23" target="weibo">
-李昀锐 我眼睛脏了（热度：584643）
 </a>
 </li>
 
