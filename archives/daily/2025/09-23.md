@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/23 00:32:39 ~ 2025/09/23 00:32:39
+本榜单时间：2025/09/23 00:32:39 ~ 2025/09/23 00:45:24
 </p>
 </blockquote>
 <p>
@@ -21,6 +21,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81%23" target="weibo">
+广东全面进入临战状态（热度：909120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E7%82%B8%E5%B1%B1%E4%BA%8B%E5%B7%B2%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
 喜马拉雅炸山事已涉嫌违法（热度：888578）
 </a>
@@ -29,12 +35,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
 台风（热度：841599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81%23" target="weibo">
-广东全面进入临战状态（热度：774545）
 </a>
 </li>
 
@@ -57,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BC%A4%E5%8C%BB%E4%BA%8B%E4%BB%B6%E5%8F%97%E4%BC%A4%E5%8C%BB%E7%94%9F%E8%84%B1%E7%A6%BB%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23" target="weibo">
+广州伤医事件受伤医生脱离生命危险（热度：368583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%20%E8%8B%B9%E6%9E%9C%E7%97%85%23" target="weibo">
 日本 苹果病（热度：365791）
 </a>
@@ -65,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%B7%A5%23" target="weibo">
 深圳停工（热度：336408）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E9%A3%8E%E9%98%B2%E5%BE%A1%E7%8A%B6%E6%80%81%23" target="weibo">
+广东全面进入台风防御状态（热度：308620）
 </a>
 </li>
 
@@ -81,20 +93,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E9%A3%8E%E9%98%B2%E5%BE%A1%E7%8A%B6%E6%80%81%23" target="weibo">
-广东全面进入台风防御状态（热度：260620）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8D%87%E7%BA%A7%E5%8F%B0%E9%A3%8E%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%23" target="weibo">
-广州升级台风黄色预警（热度：259962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BC%A4%E5%8C%BB%E4%BA%8B%E4%BB%B6%E5%8F%97%E4%BC%A4%E5%8C%BB%E7%94%9F%E8%84%B1%E7%A6%BB%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23" target="weibo">
-广州伤医事件受伤医生脱离生命危险（热度：251618）
+广州升级台风黄色预警（热度：264823）
 </a>
 </li>
 
@@ -106,7 +106,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%BC%B9%E5%B0%843%E8%BF%9E%23" target="weibo">
-福建舰弹射3连（热度：219089）
+福建舰弹射3连（热度：238636）
 </a>
 </li>
 
@@ -135,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%8E%8B%E6%95%AC%E8%BD%A9%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E8%A1%A8%E7%8E%B0%E8%A2%AB%E5%AE%A1%E5%88%A4%23" target="weibo">
+沈月王敬轩我家那闺女表现被审判（热度：166564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E8%B7%B3angel%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AFai%E5%90%97%23" target="weibo">
 张峻豪跳angel真的不是ai吗（热度：161107）
 </a>
@@ -149,12 +155,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%AF%E8%83%BD%E8%A6%81%E5%8F%8D%E5%88%B6%23" target="weibo">
 以色列可能要反制（热度：158374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%8E%8B%E6%95%AC%E8%BD%A9%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E8%A1%A8%E7%8E%B0%E8%A2%AB%E5%AE%A1%E5%88%A4%23" target="weibo">
-沈月王敬轩我家那闺女表现被审判（热度：151725）
 </a>
 </li>
 
@@ -189,8 +189,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9B%AF%E5%90%90%E6%A7%BD%E9%9D%B3%E4%B8%9C%E9%99%88%E9%81%93%E6%98%8E%23" target="weibo">
+秦雯吐槽靳东陈道明（热度：125528）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%86%85%E6%89%80%E6%9C%89%E9%AB%98%E9%93%81%E5%81%9C%E8%BF%90%23" target="weibo">
 广东省内所有高铁停运（热度：124992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%B6%E6%B6%89%E8%B5%8C%E8%AF%88%E8%B5%84%E9%87%91%E8%B6%85200%E4%BA%BF%23" target="weibo">
+白家涉赌诈资金超200亿（热度：124781）
 </a>
 </li>
 
@@ -201,26 +213,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%B6%E6%B6%89%E8%B5%8C%E8%AF%88%E8%B5%84%E9%87%91%E8%B6%85200%E4%BA%BF%23" target="weibo">
-白家涉赌诈资金超200亿（热度：121505）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E6%88%98%E9%98%9F%23" target="weibo">
+张大仙战队（热度：123171）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E5%88%B0%E5%93%AA%E4%BA%86%23" target="weibo">
 桦加沙到哪了（热度：120909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E6%88%98%E9%98%9F%23" target="weibo">
-张大仙战队（热度：119768）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9B%AF%E5%90%90%E6%A7%BD%E9%9D%B3%E4%B8%9C%E9%99%88%E9%81%93%E6%98%8E%23" target="weibo">
-秦雯吐槽靳东陈道明（热度：113969）
 </a>
 </li>
 
@@ -249,6 +249,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB%23" target="weibo">
+台风桦加沙最新消息汇总（热度：95044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%9B%E6%81%A9%E8%A5%BF%E8%A3%85%23" target="weibo">
 李沛恩西装（热度：91003）
 </a>
@@ -261,14 +267,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E9%AB%98%E7%AE%A1%E4%B8%88%E5%A4%AB%E4%B8%8D%E6%95%A2%E7%9C%8B%E5%A6%BB%E5%AD%90%E8%A7%86%E9%A2%91%23" target="weibo">
+被性侵女高管丈夫不敢看妻子视频（热度：89233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E6%89%92%E9%A3%9E%E6%9C%BA%E9%A3%9E%E8%A1%8C94%E5%88%86%E9%92%9F%23" target="weibo">
 13岁男孩扒飞机飞行94分钟（热度：88312）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E9%AB%98%E7%AE%A1%E4%B8%88%E5%A4%AB%E4%B8%8D%E6%95%A2%E7%9C%8B%E5%A6%BB%E5%AD%90%E8%A7%86%E9%A2%91%23" target="weibo">
-被性侵女高管丈夫不敢看妻子视频（热度：82085）
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%A0%E6%8F%90%E4%BE%9B%E7%9B%91%E6%8E%A7%E8%A2%AB%E6%80%A7%E4%BE%B5%E6%96%BD%E5%AE%B3%E8%80%85%E5%A8%81%E8%83%81%23" target="weibo">
+酒店因提供监控被性侵施害者威胁（热度：83097）
 </a>
 </li>
 
@@ -285,8 +297,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB%23" target="weibo">
-台风桦加沙最新消息汇总（热度：72236）
+<a href="https://s.weibo.com/weibo?q=%2327%E7%9A%84%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
+27的王安宇（热度：71901）
 </a>
 </li>
 
@@ -297,14 +309,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%A0%E6%8F%90%E4%BE%9B%E7%9B%91%E6%8E%A7%E8%A2%AB%E6%80%A7%E4%BE%B5%E6%96%BD%E5%AE%B3%E8%80%85%E5%A8%81%E8%83%81%23" target="weibo">
-酒店因提供监控被性侵施害者威胁（热度：65614）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%A6%E8%AE%A4%E8%B7%91%E8%B7%AF%23" target="weibo">
-罗永浩否认跑路（热度：62882）
+罗永浩否认跑路（热度：66356）
 </a>
 </li>
 

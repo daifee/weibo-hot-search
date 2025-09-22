@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758558759515,
+  "endTime": 1758559524970,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 909120,
+      "num": 909120,
+      "word": "广东全面进入临战状态",
+      "onboard_time": 1758555202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 904152,
       "num": 1144664,
       "word": "蔡国强感谢大家支持他大闹天宫",
@@ -553,14 +561,6 @@
       "onboard_time": 1758437600,
       "rank": 13,
       "category": "演出,民生新闻"
-    },
-    {
-      "raw_hot": 774545,
-      "num": 774545,
-      "word": "广东全面进入临战状态",
-      "onboard_time": 1758555202,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 767693,
@@ -1331,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368583,
+      "num": 368583,
+      "word": "广州伤医事件受伤医生脱离生命危险",
+      "onboard_time": 1758556641,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1758514042,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308620,
+      "num": 308620,
+      "word": "广东全面进入台风防御状态",
+      "onboard_time": 1758556342,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306991,
@@ -1747,14 +1763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260620,
-      "num": 260620,
-      "word": "广东全面进入台风防御状态",
-      "onboard_time": 1758556342,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258843,
       "num": 258843,
       "word": "深圳建议储备至少3天的物资",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1758454761,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251618,
-      "num": 251618,
-      "word": "广州伤医事件受伤医生脱离生命危险",
-      "onboard_time": 1758556641,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251368,
@@ -4539,6 +4539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125528,
+      "num": 125528,
+      "word": "秦雯吐槽靳东陈道明",
+      "onboard_time": 1758556461,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125249,
       "num": 125249,
       "word": "孙杨被羊吓成沸羊羊",
@@ -4592,6 +4600,14 @@
       "word": "首例性侵认定工伤追偿案开庭",
       "onboard_time": 1758539841,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124781,
+      "num": 154982,
+      "word": "白家涉赌诈资金超200亿",
+      "onboard_time": 1758557301,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -4673,6 +4689,14 @@
       "onboard_time": 1758438382,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123171,
+      "num": 123171,
+      "word": "张大仙战队",
+      "onboard_time": 1758555142,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 123136,
@@ -4771,14 +4795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121505,
-      "num": 154982,
-      "word": "白家涉赌诈资金超200亿",
-      "onboard_time": 1758557301,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121415,
       "num": 121415,
       "word": "陈楚生现场",
@@ -4849,14 +4865,6 @@
       "onboard_time": 1758541581,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119768,
-      "num": 119768,
-      "word": "张大仙战队",
-      "onboard_time": 1758555142,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 119663,
@@ -5049,14 +5057,6 @@
       "onboard_time": 1758538582,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113969,
-      "num": 113969,
-      "word": "秦雯吐槽靳东陈道明",
-      "onboard_time": 1758556461,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 113861,
@@ -5595,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95044,
+      "num": 235040,
+      "word": "台风桦加沙最新消息汇总",
+      "onboard_time": 1758558559,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94858,
       "num": 311438,
       "word": "身家31亿元浙大教授被留置",
@@ -5891,6 +5899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83097,
+      "num": 101955,
+      "word": "酒店因提供监控被性侵施害者威胁",
+      "onboard_time": 1758557842,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82692,
       "num": 82692,
       "word": "刘慈欣谈科幻作家的集体AI焦虑",
@@ -6083,12 +6099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72236,
-      "num": 81023,
-      "word": "台风桦加沙最新消息汇总",
-      "onboard_time": 1758558559,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 71901,
+      "num": 77339,
+      "word": "27的王安宇",
+      "onboard_time": 1758559100,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 71743,
@@ -6185,14 +6201,6 @@
       "onboard_time": 1758381204,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65614,
-      "num": 101955,
-      "word": "酒店因提供监控被性侵施害者威胁",
-      "onboard_time": 1758557842,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65503,

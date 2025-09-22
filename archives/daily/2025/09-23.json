@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758558759515,
+  "endTime": 1758559524970,
   "band_list": [
     {
       "raw_hot": 1204608,
@@ -9,6 +9,14 @@
       "onboard_time": 1758555022,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 909120,
+      "num": 909120,
+      "word": "广东全面进入临战状态",
+      "onboard_time": 1758555202,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 888578,
@@ -24,14 +32,6 @@
       "word": "台风",
       "onboard_time": 1758522681,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 774545,
-      "num": 774545,
-      "word": "广东全面进入临战状态",
-      "onboard_time": 1758555202,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368583,
+      "num": 368583,
+      "word": "广州伤医事件受伤医生脱离生命危险",
+      "onboard_time": 1758556641,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365791,
       "num": 365791,
       "word": "日本 苹果病",
@@ -72,6 +80,14 @@
       "word": "深圳停工",
       "onboard_time": 1758531201,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308620,
+      "num": 308620,
+      "word": "广东全面进入台风防御状态",
+      "onboard_time": 1758556342,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -91,27 +107,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260620,
-      "num": 260620,
-      "word": "广东全面进入台风防御状态",
-      "onboard_time": 1758556342,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259962,
-      "num": 259962,
+      "raw_hot": 264823,
+      "num": 264823,
       "word": "广州升级台风黄色预警",
       "onboard_time": 1758550943,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251618,
-      "num": 251618,
-      "word": "广州伤医事件受伤医生脱离生命危险",
-      "onboard_time": 1758556641,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -123,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219089,
-      "num": 219089,
+      "raw_hot": 238636,
+      "num": 238636,
       "word": "福建舰弹射3连",
       "onboard_time": 1758536781,
       "rank": 15,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166564,
+      "num": 166564,
+      "word": "沈月王敬轩我家那闺女表现被审判",
+      "onboard_time": 1758541282,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161107,
       "num": 161107,
       "word": "张峻豪跳angel真的不是ai吗",
@@ -185,14 +193,6 @@
       "onboard_time": 1758556162,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 151725,
-      "num": 151725,
-      "word": "沈月王敬轩我家那闺女表现被审判",
-      "onboard_time": 1758541282,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 151225,
@@ -235,11 +235,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125528,
+      "num": 125528,
+      "word": "秦雯吐槽靳东陈道明",
+      "onboard_time": 1758556461,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124992,
       "num": 124992,
       "word": "广东省内所有高铁停运",
       "onboard_time": 1758522982,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124781,
+      "num": 154982,
+      "word": "白家涉赌诈资金超200亿",
+      "onboard_time": 1758557301,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -251,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121505,
-      "num": 154982,
-      "word": "白家涉赌诈资金超200亿",
-      "onboard_time": 1758557301,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 123171,
+      "num": 123171,
+      "word": "张大仙战队",
+      "onboard_time": 1758555142,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 120909,
@@ -265,22 +281,6 @@
       "onboard_time": 1758549083,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119768,
-      "num": 119768,
-      "word": "张大仙战队",
-      "onboard_time": 1758555142,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 113969,
-      "num": 113969,
-      "word": "秦雯吐槽靳东陈道明",
-      "onboard_time": 1758556461,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 111136,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95044,
+      "num": 235040,
+      "word": "台风桦加沙最新消息汇总",
+      "onboard_time": 1758558559,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91003,
       "num": 91003,
       "word": "李沛恩西装",
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89233,
+      "num": 89233,
+      "word": "被性侵女高管丈夫不敢看妻子视频",
+      "onboard_time": 1758535462,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88312,
       "num": 88312,
       "word": "13岁男孩扒飞机飞行94分钟",
@@ -339,11 +355,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 82085,
-      "num": 82085,
-      "word": "被性侵女高管丈夫不敢看妻子视频",
-      "onboard_time": 1758535462,
-      "rank": 44,
+      "raw_hot": 83097,
+      "num": 101955,
+      "word": "酒店因提供监控被性侵施害者威胁",
+      "onboard_time": 1758557842,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -363,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72236,
-      "num": 81023,
-      "word": "台风桦加沙最新消息汇总",
-      "onboard_time": 1758558559,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 71901,
+      "num": 77339,
+      "word": "27的王安宇",
+      "onboard_time": 1758559100,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 69868,
@@ -379,15 +395,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65614,
-      "num": 101955,
-      "word": "酒店因提供监控被性侵施害者威胁",
-      "onboard_time": 1758557842,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62882,
+      "raw_hot": 66356,
       "num": 80915,
       "word": "罗永浩否认跑路",
       "onboard_time": 1758554423,

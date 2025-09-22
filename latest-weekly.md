@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/23 00:32:39
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/23 00:45:24
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ BLG夺冠（热度：1382018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81%23" target="weibo">
+广东全面进入临战状态（热度：909120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E6%94%AF%E6%8C%81%E4%BB%96%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB%23" target="weibo">
 蔡国强感谢大家支持他大闹天宫（热度：904152）
 </a>
@@ -425,12 +431,6 @@ BLG夺冠（热度：1382018）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%96%E6%B0%B4%E5%A4%A7%E7%88%B7%E5%8D%965%E5%85%83%E4%B8%80%E7%93%B6%23" target="weibo">
 周杰伦演唱会卖水大爷卖5元一瓶（热度：777974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81%23" target="weibo">
-广东全面进入临战状态（热度：774545）
 </a>
 </li>
 
@@ -1011,6 +1011,12 @@ iPhone17发布后16的反向操作（热度：380139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BC%A4%E5%8C%BB%E4%BA%8B%E4%BB%B6%E5%8F%97%E4%BC%A4%E5%8C%BB%E7%94%9F%E8%84%B1%E7%A6%BB%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23" target="weibo">
+广州伤医事件受伤医生脱离生命危险（热度：368583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%98%85%E5%85%B5%23" target="weibo">
 塞尔维亚阅兵（热度：366761）
 </a>
@@ -1121,6 +1127,12 @@ iPhone17发布后16的反向操作（热度：380139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%23" target="weibo">
 盛夏芬德拉（热度：310106）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E9%A3%8E%E9%98%B2%E5%BE%A1%E7%8A%B6%E6%80%81%23" target="weibo">
+广东全面进入台风防御状态（热度：308620）
 </a>
 </li>
 
@@ -1323,12 +1335,6 @@ Bin 冠军是我们的（热度：263070）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E9%A3%8E%E9%98%B2%E5%BE%A1%E7%8A%B6%E6%80%81%23" target="weibo">
-广东全面进入台风防御状态（热度：260620）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%BB%BA%E8%AE%AE%E5%82%A8%E5%A4%87%E8%87%B3%E5%B0%913%E5%A4%A9%E7%9A%84%E7%89%A9%E8%B5%84%23" target="weibo">
 深圳建议储备至少3天的物资（热度：258843）
 </a>
@@ -1355,12 +1361,6 @@ iG冒泡赛（热度：254383）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E7%A7%80%E8%A1%8C%23" target="weibo">
 云秀行（热度：252273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BC%A4%E5%8C%BB%E4%BA%8B%E4%BB%B6%E5%8F%97%E4%BC%A4%E5%8C%BB%E7%94%9F%E8%84%B1%E7%A6%BB%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23" target="weibo">
-广州伤医事件受伤医生脱离生命危险（热度：251618）
 </a>
 </li>
 
@@ -3417,6 +3417,12 @@ BLG决赛更换打野（热度：136373）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9B%AF%E5%90%90%E6%A7%BD%E9%9D%B3%E4%B8%9C%E9%99%88%E9%81%93%E6%98%8E%23" target="weibo">
+秦雯吐槽靳东陈道明（热度：125528）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E8%A2%AB%E7%BE%8A%E5%90%93%E6%88%90%E6%B2%B8%E7%BE%8A%E7%BE%8A%23" target="weibo">
 孙杨被羊吓成沸羊羊（热度：125249）
 </a>
@@ -3455,6 +3461,12 @@ BLG决赛更换打野（热度：136373）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%BE%8B%E6%80%A7%E4%BE%B5%E8%AE%A4%E5%AE%9A%E5%B7%A5%E4%BC%A4%E8%BF%BD%E5%81%BF%E6%A1%88%E5%BC%80%E5%BA%AD%23" target="weibo">
 首例性侵认定工伤追偿案开庭（热度：124805）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%B6%E6%B6%89%E8%B5%8C%E8%AF%88%E8%B5%84%E9%87%91%E8%B6%85200%E4%BA%BF%23" target="weibo">
+白家涉赌诈资金超200亿（热度：124781）
 </a>
 </li>
 
@@ -3515,6 +3527,12 @@ RW默契配合获胜（热度：123796）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%B7%E5%AE%B9%E5%86%85%E8%80%97%E4%B8%8D%E4%BA%86%E4%B8%80%E7%82%B9%23" target="weibo">
 陈德容内耗不了一点（热度：123346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E6%88%98%E9%98%9F%23" target="weibo">
+张大仙战队（热度：123171）
 </a>
 </li>
 
@@ -3591,12 +3609,6 @@ RW默契配合获胜（热度：123796）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%B6%E6%B6%89%E8%B5%8C%E8%AF%88%E8%B5%84%E9%87%91%E8%B6%85200%E4%BA%BF%23" target="weibo">
-白家涉赌诈资金超200亿（热度：121505）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%8E%B0%E5%9C%BA%23" target="weibo">
 陈楚生现场（热度：121415）
 </a>
@@ -3647,12 +3659,6 @@ AG泰式校服校园感（热度：121224）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E5%B0%86%E7%99%BB%E9%99%86%E6%83%A0%E5%B7%9E%E5%88%B0%E6%96%87%E6%98%8C%E6%B2%BF%E6%B5%B7%23" target="weibo">
 桦加沙将登陆惠州到文昌沿海（热度：120309）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E6%88%98%E9%98%9F%23" target="weibo">
-张大仙战队（热度：119768）
 </a>
 </li>
 
@@ -3797,12 +3803,6 @@ LPR（热度：114752）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E7%9A%84%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%B0%B1%E6%98%AF%E4%B8%9D%E7%93%9C%E6%B1%A4%E5%8F%8D%E9%9D%A2%23" target="weibo">
 张晚意的原生家庭就是丝瓜汤反面（热度：114443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9B%AF%E5%90%90%E6%A7%BD%E9%9D%B3%E4%B8%9C%E9%99%88%E9%81%93%E6%98%8E%23" target="weibo">
-秦雯吐槽靳东陈道明（热度：113969）
 </a>
 </li>
 
@@ -4209,6 +4209,12 @@ KSG打破桎梏夺季军（热度：111095）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB%23" target="weibo">
+台风桦加沙最新消息汇总（热度：95044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E5%AE%B631%E4%BA%BF%E5%85%83%E6%B5%99%E5%A4%A7%E6%95%99%E6%8E%88%E8%A2%AB%E7%95%99%E7%BD%AE%23" target="weibo">
 身家31亿元浙大教授被留置（热度：94858）
 </a>
@@ -4431,6 +4437,12 @@ KSG打破桎梏夺季军（热度：111095）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%A0%E6%8F%90%E4%BE%9B%E7%9B%91%E6%8E%A7%E8%A2%AB%E6%80%A7%E4%BE%B5%E6%96%BD%E5%AE%B3%E8%80%85%E5%A8%81%E8%83%81%23" target="weibo">
+酒店因提供监控被性侵施害者威胁（热度：83097）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%85%88%E6%AC%A3%E8%B0%88%E7%A7%91%E5%B9%BB%E4%BD%9C%E5%AE%B6%E7%9A%84%E9%9B%86%E4%BD%93AI%E7%84%A6%E8%99%91%23" target="weibo">
 刘慈欣谈科幻作家的集体AI焦虑（热度：82692）
 </a>
@@ -4575,8 +4587,8 @@ iPhone17系列充电时疑漏电（热度：72975）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB%23" target="weibo">
-台风桦加沙最新消息汇总（热度：72236）
+<a href="https://s.weibo.com/weibo?q=%2327%E7%9A%84%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
+27的王安宇（热度：71901）
 </a>
 </li>
 
@@ -4649,12 +4661,6 @@ AG爱笑（热度：69967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%AE%A3%E8%80%8C%E6%88%98%23" target="weibo">
 委内瑞拉谴责美国不宣而战（热度：65872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%A0%E6%8F%90%E4%BE%9B%E7%9B%91%E6%8E%A7%E8%A2%AB%E6%80%A7%E4%BE%B5%E6%96%BD%E5%AE%B3%E8%80%85%E5%A8%81%E8%83%81%23" target="weibo">
-酒店因提供监控被性侵施害者威胁（热度：65614）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/23 00:32:39
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/23 00:45:24
 </p>
 </blockquote>
 <p>
@@ -3261,6 +3261,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81%23" target="weibo">
+广东全面进入临战状态（热度：909120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B9%83%E6%96%87%E5%8A%A9%E7%90%86%E6%8A%8A%E8%BD%A6%E7%A5%A8%E6%97%A5%E6%9C%9F%E4%B9%B0%E9%94%99%E4%BA%86%23" target="weibo">
 李乃文助理把车票日期买错了（热度：907068）
 </a>
@@ -4367,12 +4373,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB8%E5%AE%98%E5%AE%A3%23" target="weibo">
 向往的生活8官宣（热度：775690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81%23" target="weibo">
-广东全面进入临战状态（热度：774545）
 </a>
 </li>
 
