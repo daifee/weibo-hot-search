@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758559524970,
+  "endTime": 1758561614684,
   "band_list": [
     {
       "raw_hot": 1204608,
@@ -137,6 +137,14 @@
       "onboard_time": 1758549683,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195306,
+      "num": 235040,
+      "word": "台风桦加沙最新消息汇总",
+      "onboard_time": 1758558559,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195228,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 102326,
-      "num": 102326,
+      "num": 171169,
       "word": "深圳建议储备至少3天的物资",
       "onboard_time": 1758545542,
       "rank": 38,
@@ -312,14 +320,6 @@
       "word": "13岁身高177男孩睡觉前必走流程",
       "onboard_time": 1758547583,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95044,
-      "num": 235040,
-      "word": "台风桦加沙最新消息汇总",
-      "onboard_time": 1758558559,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -401,6 +401,22 @@
       "onboard_time": 1758554423,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 58753,
+      "num": 58753,
+      "word": "蔡国强烟花秀现场感言视频曝光",
+      "onboard_time": 1758558499,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35902,
+      "num": 49038,
+      "word": "深圳宣布明后天停课",
+      "onboard_time": 1758530242,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29273,

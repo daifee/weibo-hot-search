@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758559524970,
+  "endTime": 1758561614684,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -25249,6 +25249,14 @@
       "onboard_time": 1758513262,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195306,
+      "num": 235040,
+      "word": "台风桦加沙最新消息汇总",
+      "onboard_time": 1758558559,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195197,
@@ -56491,14 +56499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95044,
-      "num": 235040,
-      "word": "台风桦加沙最新消息汇总",
-      "onboard_time": 1758558559,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95000,
       "num": 209602,
       "word": "当美国邻居看到菜园时",
@@ -64137,6 +64137,14 @@
       "onboard_time": 1757682325,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 58753,
+      "num": 58753,
+      "word": "蔡国强烟花秀现场感言视频曝光",
+      "onboard_time": 1758558499,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58745,
