@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758540189054,
+  "endTime": 1758541032875,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -107,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1542611,
+      "num": 1542611,
+      "word": "日本 苹果病",
+      "onboard_time": 1758537081,
+      "rank": 19,
+      "category": "海外新闻,健康医疗"
+    },
+    {
       "raw_hot": 1476181,
       "num": 487281,
       "word": "蔡国强一句道歉修复不了喜马拉雅",
       "onboard_time": 1758436462,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1431800,
-      "num": 1431800,
-      "word": "日本 苹果病",
-      "onboard_time": 1758537081,
-      "rank": 19,
-      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 1417324,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 827830,
+      "num": 401921,
+      "word": "南京地下室",
+      "onboard_time": 1758536961,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 820458,
       "num": 820458,
       "word": "成毅林更新 进组",
@@ -609,6 +617,14 @@
       "onboard_time": 1758509181,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 671372,
+      "num": 671372,
+      "word": "恋综最尴尬的一幕出现了",
+      "onboard_time": 1758538041,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 665663,
@@ -825,14 +841,6 @@
       "onboard_time": 1758463527,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545384,
-      "num": 545384,
-      "word": "恋综最尴尬的一幕出现了",
-      "onboard_time": 1758538041,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 544630,
@@ -1056,14 +1064,6 @@
       "word": "18岁女孩发现男友已婚饮酒后跳江",
       "onboard_time": 1758414863,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424397,
-      "num": 378795,
-      "word": "南京地下室",
-      "onboard_time": 1758536961,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1531,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262072,
+      "num": 392865,
+      "word": "日本观众看完电影731后情绪崩溃",
+      "onboard_time": 1758538762,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261615,
       "num": 261615,
       "word": "漂浮群岛",
@@ -1763,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223266,
+      "num": 388129,
+      "word": "福建舰打击范围已覆盖第二岛链",
+      "onboard_time": 1758539661,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222676,
       "num": 163071,
       "word": "美团崩了",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1758514102,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216413,
+      "num": 216413,
+      "word": "深圳地铁",
+      "onboard_time": 1758539722,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215179,
@@ -1889,6 +1913,14 @@
       "onboard_time": 1758464488,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209092,
+      "num": 209092,
+      "word": "胡兵准备找来多少个星二代",
+      "onboard_time": 1758540502,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208986,
@@ -1987,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203875,
+      "num": 203875,
+      "word": "才发现我妈当年穿的都是千禧风",
+      "onboard_time": 1758538642,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 203261,
       "num": 203261,
       "word": "樊振东现场观战英超",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1758532043,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200935,
-      "num": 200935,
-      "word": "才发现我妈当年穿的都是千禧风",
-      "onboard_time": 1758538642,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 200934,
@@ -2459,14 +2491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182518,
-      "num": 392865,
-      "word": "日本观众看完电影731后情绪崩溃",
-      "onboard_time": 1758538762,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 181276,
       "num": 305212,
       "word": "官方通报吃日料在三文鱼上发现活虫",
@@ -2619,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175318,
+      "num": 175318,
+      "word": "崔丽丽夫妻一直分房睡",
+      "onboard_time": 1758540262,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175258,
       "num": 370404,
       "word": "支付宝emoji",
@@ -2688,14 +2720,6 @@
       "word": "年薪1.67亿的清华学霸仍然在逃",
       "onboard_time": 1758518302,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172072,
-      "num": 172072,
-      "word": "深圳地铁",
-      "onboard_time": 1758539722,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3355,6 +3379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146039,
+      "num": 146039,
+      "word": "中方回应多国宣布承认巴勒斯坦国",
+      "onboard_time": 1758537982,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145906,
       "num": 145906,
       "word": "院士科普我们为什么要撞击小行星",
@@ -3579,11 +3611,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138277,
+      "num": 135261,
+      "word": "知情者称遇袭医生仍在抢救中",
+      "onboard_time": 1758539962,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138243,
       "num": 197046,
       "word": "今日双超强台风罕见同现",
       "onboard_time": 1758436701,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137888,
+      "num": 137888,
+      "word": "上海绿捷采买过期食材给孩子做餐",
+      "onboard_time": 1758540321,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -3691,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134388,
+      "num": 134388,
+      "word": "为麦当劳种了21年土豆",
+      "onboard_time": 1758538462,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133828,
       "num": 146791,
       "word": "看把谢霆锋逼成啥样了",
@@ -3739,12 +3795,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132171,
-      "num": 132171,
-      "word": "中方回应多国宣布承认巴勒斯坦国",
-      "onboard_time": 1758537982,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 133192,
+      "num": 188393,
+      "word": "胡兵的大秀开场是瞿颖",
+      "onboard_time": 1758540803,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 132005,
@@ -3753,14 +3809,6 @@
       "onboard_time": 1758524361,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 131990,
-      "num": 131990,
-      "word": "知情者称遇袭医生仍在抢救中",
-      "onboard_time": 1758539962,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131949,
@@ -3937,14 +3985,6 @@
       "onboard_time": 1758423981,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127898,
-      "num": 388129,
-      "word": "福建舰打击范围已覆盖第二岛链",
-      "onboard_time": 1758539661,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 127707,
@@ -4153,6 +4193,14 @@
       "onboard_time": 1758461362,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122620,
+      "num": 122620,
+      "word": "在航母上看中国战机起飞",
+      "onboard_time": 1758540201,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 122333,
@@ -5195,6 +5243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84720,
+      "num": 171907,
+      "word": "蔡国强 感谢聪明的动物们帮助",
+      "onboard_time": 1758539722,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84719,
       "num": 337560,
       "word": "桦加沙给珠三角的考验或堪比山竹",
@@ -5419,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71743,
+      "num": 138448,
+      "word": "酒店一次性拖鞋 重复使用",
+      "onboard_time": 1758540201,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70934,
       "num": 140862,
       "word": "谢娜被女儿教育了",
@@ -5475,6 +5539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67306,
+      "num": 171934,
+      "word": "丁程鑫杀青不撒手明示想带走",
+      "onboard_time": 1758540083,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 66194,
       "num": 69487,
       "word": "无畏契约",
@@ -5505,6 +5577,14 @@
       "onboard_time": 1758518482,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65054,
+      "num": 379078,
+      "word": "MG总经理秀后台真实订单",
+      "onboard_time": 1758539962,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 64948,
@@ -5643,14 +5723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56958,
-      "num": 227273,
-      "word": "MG总经理秀后台真实订单",
-      "onboard_time": 1758539962,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 55862,
       "num": 198114,
       "word": "和肖战一起健康用水",
@@ -5771,14 +5843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49778,
-      "num": 171907,
-      "word": "蔡国强 感谢聪明的动物们帮助",
-      "onboard_time": 1758539722,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49079,
       "num": 138248,
       "word": "张柏芝 叫我老公",
@@ -5873,14 +5937,6 @@
       "onboard_time": 1758443303,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44303,
-      "num": 171934,
-      "word": "丁程鑫杀青不撒手明示想带走",
-      "onboard_time": 1758540083,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 43736,
@@ -6219,6 +6275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29527,
+      "num": 172047,
+      "word": "青海湖随手一拍都是壁纸",
+      "onboard_time": 1758538522,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 29359,
       "num": 44963,
       "word": "曼联2比1切尔西",
@@ -6241,14 +6305,6 @@
       "onboard_time": 1758444381,
       "rank": 37,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 28617,
-      "num": 172047,
-      "word": "青海湖随手一拍都是壁纸",
-      "onboard_time": 1758538522,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 28530,

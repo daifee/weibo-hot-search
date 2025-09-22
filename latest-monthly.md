@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 19:23:09
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 19:37:12
 </p>
 </blockquote>
 <p>
@@ -1401,6 +1401,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%20%E8%8B%B9%E6%9E%9C%E7%97%85%23" target="weibo">
+日本 苹果病（热度：1542611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9C%87%E6%92%BC%23" target="weibo">
 文艺晚会真的好震撼（热度：1537646）
 </a>
@@ -1601,12 +1607,6 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B7%BC%E6%80%A1%E7%9A%84%E8%84%B8%23" target="weibo">
 张淼怡的脸（热度：1438006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%20%E8%8B%B9%E6%9E%9C%E7%97%85%23" target="weibo">
-日本 苹果病（热度：1431800）
 </a>
 </li>
 
@@ -3891,6 +3891,12 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E4%B8%8B%E5%AE%A4%23" target="weibo">
+南京地下室（热度：827830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E8%B5%B4%E5%B1%B1%E6%B5%B7%E8%97%8F%E6%B5%B7%E4%BC%A0%E7%9C%9F%E5%AF%B9%E6%89%93%23" target="weibo">
 如果赴山海藏海传真对打（热度：827782）
 </a>
@@ -5223,6 +5229,12 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%BB%BC%E6%9C%80%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%B8%80%E5%B9%95%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+恋综最尴尬的一幕出现了（热度：671372）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AB%82%E5%96%82%E5%A5%B6%E8%87%B4%E5%88%9A%E5%87%BA%E7%94%9F2%E5%A4%A9%E7%94%B7%E5%A9%B4%E7%AA%92%E6%81%AF%23" target="weibo">
 月嫂喂奶致刚出生2天男婴窒息（热度：671357）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%80%83%E7%A8%8E%E8%B6%85243%E4%B8%87%E8%A2%AB%E8%BF%BD%E7%BC%B4402%E4%B8%87%23" target="weibo">
 主播逃税超243万被追缴402万（热度：598828）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86%23" target="weibo">
-淘宝崩了（热度：598578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83%E6%9C%896%E4%B8%AA%E9%A2%9C%E8%89%B2%23" target="weibo">
-8万只气球有6个颜色（热度：597362）
 </a>
 </li>
 
