@@ -1,0 +1,410 @@
+{
+  "runTime": 1758551192911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1652249,
+        "num": 1652249,
+        "word": "台风",
+        "onboard_time": 1758522681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939144,
+        "num": 939144,
+        "word": "日本 苹果病",
+        "onboard_time": 1758537081,
+        "rank": 1,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 17039,
+        "num": 781748,
+        "word": "中国战机360度无死角纯帅",
+        "onboard_time": 1758535043,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 744319,
+        "num": 744319,
+        "word": "环保专家正清理烟花秀现场紫铜等物",
+        "onboard_time": 1758547343,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595959,
+        "num": 595959,
+        "word": "陈紫函自曝因长期分居婚姻亮红灯",
+        "onboard_time": 1758524781,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569895,
+        "num": 569895,
+        "word": "日本观众看完电影731后情绪崩溃",
+        "onboard_time": 1758538762,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537757,
+        "num": 537757,
+        "word": "柬埔寨一军人为妻子出头枪杀3人",
+        "onboard_time": 1758542841,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 532969,
+        "num": 532969,
+        "word": "中国航母又一突破",
+        "onboard_time": 1758534862,
+        "rank": 7,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 448596,
+        "num": 448596,
+        "word": "广州停课",
+        "onboard_time": 1758545542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416212,
+        "num": 416212,
+        "word": "福建舰弹射3连",
+        "onboard_time": 1758536781,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1506665,
+        "num": 402371,
+        "word": "网红迅猛龙训粉",
+        "onboard_time": 1758546083,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 836526,
+        "num": 396936,
+        "word": "南京地下室",
+        "onboard_time": 1758536961,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609425,
+        "num": 377890,
+        "word": "深圳停工",
+        "onboard_time": 1758531201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499746,
+        "num": 361550,
+        "word": "白百何工作室 明天没更新就是下岗了",
+        "onboard_time": 1758549865,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491496,
+        "num": 356375,
+        "word": "10月1号将出现的六批人",
+        "onboard_time": 1758531024,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343611,
+        "num": 343611,
+        "word": "沈月王敬轩我家那闺女表现被审判",
+        "onboard_time": 1758541282,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149934,
+        "num": 343607,
+        "word": "中国海军底气更强",
+        "onboard_time": 1758550524,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343606,
+        "num": 343606,
+        "word": "白鹿看粉丝无人机应援",
+        "onboard_time": 1758546444,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305121,
+        "num": 305121,
+        "word": "贺峻霖中传成功保研",
+        "onboard_time": 1758535942,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302905,
+        "num": 302905,
+        "word": "向往8堪比白月光回国",
+        "onboard_time": 1758549683,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299555,
+        "num": 299555,
+        "word": "13岁男孩扒飞机飞行94分钟",
+        "onboard_time": 1758530362,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260596,
+        "num": 260596,
+        "word": "13岁身高177男孩睡觉前必走流程",
+        "onboard_time": 1758547583,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188209,
+        "num": 259715,
+        "word": "广州升级台风黄色预警",
+        "onboard_time": 1758550943,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258843,
+        "num": 258843,
+        "word": "深圳建议储备至少3天的物资",
+        "onboard_time": 1758545542,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246349,
+        "num": 246349,
+        "word": "王安宇暗示高圆圆站错位置",
+        "onboard_time": 1758525981,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229773,
+        "num": 229773,
+        "word": "广东省内所有高铁停运",
+        "onboard_time": 1758522982,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226220,
+        "num": 226220,
+        "word": "张晚意曾签约经纪公司解约赔60万",
+        "onboard_time": 1758548003,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183711,
+        "num": 183711,
+        "word": "白鹿生日逆应援",
+        "onboard_time": 1758550045,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174448,
+        "num": 183705,
+        "word": "时代少年团七胞胎送礼也整整齐齐",
+        "onboard_time": 1758549683,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 183702,
+        "num": 183702,
+        "word": "被性侵女高管丈夫回应网友劝离婚",
+        "onboard_time": 1758545363,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178052,
+        "num": 178052,
+        "word": "桦加沙到哪了",
+        "onboard_time": 1758549083,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173643,
+        "num": 173643,
+        "word": "马思纯是裹了一条围巾吗",
+        "onboard_time": 1758547102,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169348,
+        "num": 169348,
+        "word": "崔丽丽夫妻一直分房睡",
+        "onboard_time": 1758540262,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169060,
+        "num": 169060,
+        "word": "被性侵女高管丈夫不敢看妻子视频",
+        "onboard_time": 1758535462,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168896,
+        "num": 168896,
+        "word": "最快女护士张水华发文道歉",
+        "onboard_time": 1758550884,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165886,
+        "num": 165886,
+        "word": "医生疑因医患纠纷遇袭警方已介入",
+        "onboard_time": 1758550704,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163276,
+        "num": 163276,
+        "word": "深圳宣布明后天停课",
+        "onboard_time": 1758530242,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150536,
+        "num": 150536,
+        "word": "欠蔡国庆老师365个道歉",
+        "onboard_time": 1758546623,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806573,
+        "num": 150296,
+        "word": "蔡国强 感谢聪明的动物们帮助",
+        "onboard_time": 1758539722,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71816,
+        "num": 150084,
+        "word": "谢霆锋吉他图案是王菲的纹身",
+        "onboard_time": 1758550762,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149991,
+        "num": 149991,
+        "word": "深圳地铁将有可能停运",
+        "onboard_time": 1758550163,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140433,
+        "num": 148358,
+        "word": "以色列硬刚巴勒斯坦国承认潮",
+        "onboard_time": 1758548724,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147774,
+        "num": 147774,
+        "word": "恋综最尴尬的一幕出现了",
+        "onboard_time": 1758538041,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142317,
+        "num": 142317,
+        "word": "周冬雨扛住了G社镜头",
+        "onboard_time": 1758545423,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140234,
+        "num": 140234,
+        "word": "深圳地铁",
+        "onboard_time": 1758539722,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135413,
+        "num": 135413,
+        "word": "鹿晗公司的老板都在关注",
+        "onboard_time": 1758544042,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79228,
+        "num": 126359,
+        "word": "新疆美景开始召唤国庆假期了",
+        "onboard_time": 1758546804,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125795,
+        "num": 125795,
+        "word": "王皓儿子和王楚钦隔空pk",
+        "onboard_time": 1758548184,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124179,
+        "num": 124179,
+        "word": "贵州炒饭果然不一般",
+        "onboard_time": 1758551123,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96351,
+        "num": 115328,
+        "word": "胃最怕的五件事",
+        "onboard_time": 1758549442,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#三农工作在习近平心里分量满满#"
+    }
+  }
+}

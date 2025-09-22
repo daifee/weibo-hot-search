@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 21:46:10
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 22:26:32
 </p>
 </blockquote>
 <p>
@@ -1209,6 +1209,12 @@ miumiu签了三个00花（热度：1748229）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
+台风（热度：1652249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23" target="weibo">
 特朗普下令全国降半旗（热度：1651661）
 </a>
@@ -1229,12 +1235,6 @@ miumiu签了三个00花（热度：1748229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%85%AC%E5%9B%AD%E8%87%AA%E7%BC%A2%23" target="weibo">
 成都通报一女子公园自缢（热度：1641856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
-台风（热度：1635127）
 </a>
 </li>
 
@@ -1457,6 +1457,12 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%B7%A5%E8%B5%8415%E5%85%83%23" target="weibo">
 和平鸽工资15元（热度：1508996）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%BF%85%E7%8C%9B%E9%BE%99%E8%AE%AD%E7%B2%89%23" target="weibo">
+网红迅猛龙训粉（热度：1506665）
 </a>
 </li>
 
@@ -2003,12 +2009,6 @@ NASA明确发现火星生命迹象（热度：1280374）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E9%80%80%E5%87%BA%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%82%A1%E4%B8%9C%E8%A1%8C%E5%88%97%23" target="weibo">
 张亮退出张亮麻辣烫股东行列（热度：1260399）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%BF%85%E7%8C%9B%E9%BE%99%E8%AE%AD%E7%B2%89%23" target="weibo">
-网红迅猛龙训粉（热度：1257706）
 </a>
 </li>
 
@@ -4611,6 +4611,12 @@ BLG对战TES（热度：746464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E4%B8%93%E5%AE%B6%E6%AD%A3%E6%B8%85%E7%90%86%E7%83%9F%E8%8A%B1%E7%A7%80%E7%8E%B0%E5%9C%BA%E7%B4%AB%E9%93%9C%E7%AD%89%E7%89%A9%23" target="weibo">
+环保专家正清理烟花秀现场紫铜等物（热度：744319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23731%E7%94%B5%E5%BD%B1%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E%23" target="weibo">
 731电影郑重声明（热度：743875）
 </a>
@@ -6008,12 +6014,6 @@ iPhone17Pro（热度：632186）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B71.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-上海1.2级地震（热度：601100）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6419,6 +6419,12 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%90%91%E5%85%A8%E5%9B%BD%E5%B9%BF%E5%A4%A7%E5%86%9C%E6%B0%91%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E8%B4%BA%23%23" target="weibo">
 #向全国广大农民致以节日祝贺#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%89%E5%86%9C%E5%B7%A5%E4%BD%9C%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E9%87%8C%E5%88%86%E9%87%8F%E6%BB%A1%E6%BB%A1%23%23" target="weibo">
+#三农工作在习近平心里分量满满#
 </a>
 </li>
 
