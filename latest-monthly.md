@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 19:37:12
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 20:52:04
 </p>
 </blockquote>
 <p>
@@ -2685,6 +2685,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E4%B8%8B%E5%AE%A4%23" target="weibo">
+南京地下室（热度：1038033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E4%BD%9C%E8%80%85%E8%B0%B4%E8%B4%A3%E5%A7%8B%E7%A5%96%E9%B8%9F%E7%83%9F%E8%8A%B1%E7%A7%80%23" target="weibo">
 我的阿勒泰作者谴责始祖鸟烟花秀（热度：1037829）
 </a>
@@ -2693,6 +2699,12 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%20%E5%85%A8%E9%9D%A2%E5%AF%B9%E6%A0%87iPhone%23" target="weibo">
 雷军 全面对标iPhone（热度：1037710）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%20%E6%84%9F%E8%B0%A2%E8%81%AA%E6%98%8E%E7%9A%84%E5%8A%A8%E7%89%A9%E4%BB%AC%E5%B8%AE%E5%8A%A9%23" target="weibo">
+蔡国强 感谢聪明的动物们帮助（热度：1030981）
 </a>
 </li>
 
@@ -3891,12 +3903,6 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E4%B8%8B%E5%AE%A4%23" target="weibo">
-南京地下室（热度：827830）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E8%B5%B4%E5%B1%B1%E6%B5%B7%E8%97%8F%E6%B5%B7%E4%BC%A0%E7%9C%9F%E5%AF%B9%E6%89%93%23" target="weibo">
 如果赴山海藏海传真对打（热度：827782）
 </a>
@@ -4679,6 +4685,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 教师节（热度：735131）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A7%82%E4%BC%97%E7%9C%8B%E5%AE%8C%E7%94%B5%E5%BD%B1731%E5%90%8E%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%23" target="weibo">
+日本观众看完电影731后情绪崩溃（热度：734975）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%92%8C%E5%B9%B3%E9%B8%BD%E4%B8%8B%E7%8F%AD50%E5%A4%9A%E5%B0%8F%E6%97%B6%E5%88%9A%E5%88%B0%E5%AE%B6%23" target="weibo">
 阅兵和平鸽下班50多小时刚到家（热度：600209）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%20%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5%23" target="weibo">
-12306 开票即候补（热度：599443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%80%83%E7%A8%8E%E8%B6%85243%E4%B8%87%E8%A2%AB%E8%BF%BD%E7%BC%B4402%E4%B8%87%23" target="weibo">
-主播逃税超243万被追缴402万（热度：598828）
 </a>
 </li>
 

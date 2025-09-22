@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758541032875,
+  "endTime": 1758545524057,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -91,11 +91,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1038033,
+      "num": 414606,
+      "word": "南京地下室",
+      "onboard_time": 1758536961,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1037829,
       "num": 503695,
       "word": "我的阿勒泰作者谴责始祖鸟烟花秀",
       "onboard_time": 1758506061,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1030981,
+      "num": 414421,
+      "word": "蔡国强 感谢聪明的动物们帮助",
+      "onboard_time": 1758539722,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 954339,
-      "num": 401696,
+      "num": 411966,
       "word": "10月1号将出现的六批人",
       "onboard_time": 1758531024,
       "rank": 20,
@@ -211,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 827830,
-      "num": 401921,
-      "word": "南京地下室",
-      "onboard_time": 1758536961,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 820458,
       "num": 820458,
       "word": "成毅林更新 进组",
@@ -273,6 +281,14 @@
       "onboard_time": 1758513682,
       "rank": 16,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 734975,
+      "num": 734975,
+      "word": "日本观众看完电影731后情绪崩溃",
+      "onboard_time": 1758538762,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 731452,
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563333,
+      "num": 563333,
+      "word": "崔丽丽夫妻一直分房睡",
+      "onboard_time": 1758540262,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 558499,
       "num": 558499,
       "word": "内蒙古一地集中采集男性居民血样",
@@ -529,6 +553,14 @@
       "onboard_time": 1758527963,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470552,
+      "num": 470552,
+      "word": "沈月王敬轩我家那闺女表现被审判",
+      "onboard_time": 1758541282,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 459187,
@@ -641,6 +673,14 @@
       "onboard_time": 1758463527,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349266,
+      "num": 349266,
+      "word": "苏新皓受伤",
+      "onboard_time": 1758542902,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 338228,
@@ -763,12 +803,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 262072,
-      "num": 392865,
-      "word": "日本观众看完电影731后情绪崩溃",
-      "onboard_time": 1758538762,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 260717,
+      "num": 260717,
+      "word": "知情者称遇袭医生仍在抢救中",
+      "onboard_time": 1758539962,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252707,
+      "num": 252707,
+      "word": "白鹿直播",
+      "onboard_time": 1758544042,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 251368,
@@ -1139,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185967,
+      "num": 408501,
+      "word": "小学乘法因顺序不同被判错引争议",
+      "onboard_time": 1758537682,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185714,
       "num": 185714,
       "word": "韩男误认台湾男子穿旭日旗对其掌掴",
@@ -1227,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175318,
-      "num": 175318,
-      "word": "崔丽丽夫妻一直分房睡",
-      "onboard_time": 1758540262,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175315,
       "num": 175315,
       "word": "白桃星座",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1758526042,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168737,
+      "num": 168737,
+      "word": "文咏珊角色查重率为0",
+      "onboard_time": 1758544762,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 168722,
@@ -1379,6 +1435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163630,
+      "num": 190701,
+      "word": "极氪回应现款001售罄",
+      "onboard_time": 1758544463,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 163076,
       "num": 242200,
       "word": "鸡排主理人",
@@ -1441,14 +1505,6 @@
       "onboard_time": 1758518062,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155625,
-      "num": 155625,
-      "word": "小学乘法因顺序不同被判错引争议",
-      "onboard_time": 1758537682,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155117,
@@ -1523,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152429,
+      "num": 152429,
+      "word": "柬埔寨一军人为妻子出头枪杀3人",
+      "onboard_time": 1758542841,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 151580,
       "num": 334184,
       "word": "这是1995年想象中的2025吗",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1758511881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150042,
+      "num": 150042,
+      "word": "鹿晗公司的老板都在关注",
+      "onboard_time": 1758544042,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 148292,
@@ -1699,14 +1771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138277,
-      "num": 135261,
-      "word": "知情者称遇袭医生仍在抢救中",
-      "onboard_time": 1758539962,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137888,
       "num": 137888,
       "word": "上海绿捷采买过期食材给孩子做餐",
@@ -1737,6 +1801,22 @@
       "onboard_time": 1758509302,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136167,
+      "num": 136167,
+      "word": "花儿与少年",
+      "onboard_time": 1758542662,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135481,
+      "num": 135481,
+      "word": "白家犯罪集团主案一审开庭",
+      "onboard_time": 1758544224,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135199,
@@ -1801,6 +1881,14 @@
       "onboard_time": 1758540803,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 132458,
+      "num": 132458,
+      "word": "章若楠换新风格",
+      "onboard_time": 1758543263,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 132005,
@@ -2083,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114813,
+      "num": 114813,
+      "word": "原来手串是一场巨大的文艺复兴",
+      "onboard_time": 1758542361,
+      "rank": 39,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 114752,
       "num": 114752,
       "word": "LPR",
@@ -2105,6 +2201,14 @@
       "onboard_time": 1758501562,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113463,
+      "num": 113463,
+      "word": "歼35电磁弹射瞬间太燃了",
+      "onboard_time": 1758544342,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113299,
@@ -2187,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110065,
+      "num": 127978,
+      "word": "张晚意的原生家庭就是丝瓜汤反面",
+      "onboard_time": 1758538582,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110021,
       "num": 110021,
       "word": "其实这些素菜是吸油大户",
@@ -2243,6 +2355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106790,
+      "num": 106790,
+      "word": "被性侵女高管丈夫回应网友劝离婚",
+      "onboard_time": 1758545363,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106019,
       "num": 106019,
       "word": "盛世天下全球销量破百万套",
@@ -2273,6 +2393,22 @@
       "onboard_time": 1758469943,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104585,
+      "num": 104585,
+      "word": "周冬雨扛住了G社镜头",
+      "onboard_time": 1758545423,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 104397,
+      "num": 104397,
+      "word": "桦加沙将登陆惠州到文昌沿海",
+      "onboard_time": 1758541581,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104288,
@@ -2483,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86731,
+      "num": 91018,
+      "word": "樊振东三颗白心回应黎子安",
+      "onboard_time": 1758545423,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86528,
       "num": 279385,
       "word": "央视起底柯克之死",
@@ -2496,14 +2640,6 @@
       "word": "你没想到的新疆",
       "onboard_time": 1758503601,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84720,
-      "num": 171907,
-      "word": "蔡国强 感谢聪明的动物们帮助",
-      "onboard_time": 1758539722,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2585,14 +2721,6 @@
       "onboard_time": 1758464488,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 77373,
-      "num": 127978,
-      "word": "张晚意的原生家庭就是丝瓜汤反面",
-      "onboard_time": 1758538582,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 77362,
