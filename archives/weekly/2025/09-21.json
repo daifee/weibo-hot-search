@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758569805312,
+  "endTime": 1758572878163,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -7217,6 +7217,14 @@
       "onboard_time": 1758410299,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10288,
+      "num": 46135,
+      "word": "被中国战机弹射帅到了",
+      "onboard_time": 1758572054,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9598,

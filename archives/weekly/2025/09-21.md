@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/23 03:36:45
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/23 04:27:58
 </p>
 </blockquote>
 <p>
@@ -5423,6 +5423,12 @@ Knight有我就有冠军（热度：18611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%E4%BA%89%E8%AE%AE%E4%B8%A4%E5%A4%A7%E7%96%91%E7%82%B9%23" target="weibo">
 烟花争议两大疑点（热度：11470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E5%BC%B9%E5%B0%84%E5%B8%85%E5%88%B0%E4%BA%86%23" target="weibo">
+被中国战机弹射帅到了（热度：10288）
 </a>
 </li>
 
