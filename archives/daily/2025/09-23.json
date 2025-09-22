@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758566074046,
+  "endTime": 1758566853671,
   "band_list": [
     {
       "raw_hot": 1204608,
@@ -403,8 +403,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 63031,
-      "num": 63031,
+      "raw_hot": 63581,
+      "num": 63581,
       "word": "台风桦加沙将袭击广东市民发声",
       "onboard_time": 1758563296,
       "rank": 14,
@@ -419,8 +419,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36578,
-      "num": 33919,
+      "raw_hot": 47548,
+      "num": 47548,
       "word": "贺峻霖中传国重预报名复试合格",
       "onboard_time": 1758565636,
       "rank": 26,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21656,
+      "num": 28709,
+      "word": "蓝战非回应收入争议",
+      "onboard_time": 1758566055,
+      "rank": 48,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 21394,
       "num": 28709,
       "word": "刘雨昕官宣微博音乐盛典",
@@ -467,12 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 19537,
-      "num": 28709,
-      "word": "蓝战非回应收入争议",
-      "onboard_time": 1758566055,
-      "rank": 48,
-      "category": "游戏,网红"
+      "raw_hot": 12565,
+      "num": 27394,
+      "word": "广州1570处应急安置点已准备好",
+      "onboard_time": 1758566654,
+      "rank": 29,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
