@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758552242260,
+  "endTime": 1758554879544,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1506665,
-      "num": 434522,
+      "num": 447472,
       "word": "网红迅猛龙训粉",
       "onboard_time": 1758546083,
       "rank": 39,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 915448,
-      "num": 361550,
+      "num": 371927,
       "word": "白百何工作室 明天没更新就是下岗了",
       "onboard_time": 1758549865,
       "rank": 13,
@@ -312,6 +312,14 @@
       "word": "环保专家正清理烟花秀现场紫铜等物",
       "onboard_time": 1758547343,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 736820,
+      "num": 736820,
+      "word": "最快女护士张水华发文道歉",
+      "onboard_time": 1758550884,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -531,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533261,
+      "num": 533261,
+      "word": "广州升级台风黄色预警",
+      "onboard_time": 1758550943,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 513166,
       "num": 599633,
       "word": "超强台风桦加沙最新路径公布",
@@ -561,6 +577,22 @@
       "onboard_time": 1758510260,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 503663,
+      "num": 503663,
+      "word": "向往8堪比白月光回国",
+      "onboard_time": 1758549683,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 501433,
+      "num": 501433,
+      "word": "张晚意曾签约经纪公司解约赔60万",
+      "onboard_time": 1758548003,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 500559,
@@ -651,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384635,
-      "num": 384635,
-      "word": "广州升级台风黄色预警",
-      "onboard_time": 1758550943,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 383491,
       "num": 383491,
       "word": "被性侵女高管丈夫不敢看妻子视频",
@@ -707,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366068,
+      "num": 366068,
+      "word": "广州23日停课",
+      "onboard_time": 1758551305,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363296,
       "num": 363296,
       "word": "心动的信号",
@@ -731,28 +763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 349619,
-      "num": 349619,
-      "word": "张晚意曾签约经纪公司解约赔60万",
-      "onboard_time": 1758548003,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 349266,
       "num": 349266,
       "word": "苏新皓受伤",
       "onboard_time": 1758542902,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348646,
-      "num": 348646,
-      "word": "最快女护士张水华发文道歉",
-      "onboard_time": 1758550884,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 338228,
@@ -785,14 +801,6 @@
       "onboard_time": 1758467245,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 317929,
-      "num": 317929,
-      "word": "向往8堪比白月光回国",
-      "onboard_time": 1758549683,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 316600,
@@ -833,14 +841,6 @@
       "onboard_time": 1758523282,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294328,
-      "num": 294328,
-      "word": "广州23日停课",
-      "onboard_time": 1758551305,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 287175,
@@ -889,6 +889,14 @@
       "onboard_time": 1758498020,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 268250,
+      "num": 343607,
+      "word": "中国海军底气更强",
+      "onboard_time": 1758550524,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 267595,
@@ -984,6 +992,14 @@
       "word": "校方回应大一新生在校意外死亡",
       "onboard_time": 1758516803,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230971,
+      "num": 230971,
+      "word": "桦加沙到哪了",
+      "onboard_time": 1758549083,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1107,14 +1123,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 208418,
-      "num": 208418,
-      "word": "桦加沙到哪了",
-      "onboard_time": 1758549083,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208020,
       "num": 208020,
       "word": "医生疑因医患纠纷遇袭警方已介入",
@@ -1227,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197046,
+      "num": 197046,
+      "word": "李沛恩西装",
+      "onboard_time": 1758554061,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196828,
       "num": 383663,
       "word": "TVB视帝陈豪说藏海传拍的特别好",
@@ -1259,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191854,
+      "num": 191854,
+      "word": "几句话让检察官落泪了",
+      "onboard_time": 1758553284,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191598,
       "num": 191598,
       "word": "学生吃免费汤饭疑被校长骂臭要饭",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1758538522,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189756,
+      "num": 189756,
+      "word": "微醺的丞磊",
+      "onboard_time": 1758553883,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 189143,
@@ -1329,14 +1361,6 @@
       "onboard_time": 1758547522,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187003,
-      "num": 343607,
-      "word": "中国海军底气更强",
-      "onboard_time": 1758550524,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 186465,
@@ -1507,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173935,
+      "num": 173935,
+      "word": "谢霆锋吉他图案是王菲的纹身",
+      "onboard_time": 1758550762,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173626,
       "num": 173626,
       "word": "陈乔恩女生不能吹空调",
@@ -1544,6 +1576,14 @@
       "word": "当一个小学老师决定不当班主任",
       "onboard_time": 1758510141,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169351,
+      "num": 462898,
+      "word": "烟花秀距最近水体约30米",
+      "onboard_time": 1758554061,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1627,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164626,
+      "num": 164626,
+      "word": "喜马拉雅炸山事已涉嫌违法",
+      "onboard_time": 1758554423,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164070,
       "num": 164070,
       "word": "金价",
@@ -1673,14 +1721,6 @@
       "onboard_time": 1758512602,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159625,
-      "num": 159625,
-      "word": "谢霆锋吉他图案是王菲的纹身",
-      "onboard_time": 1758550762,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 157662,
@@ -1955,6 +1995,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 143543,
+      "num": 156958,
+      "word": "谁家艺人上综艺锯4小时木头啊",
+      "onboard_time": 1758552204,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143487,
       "num": 181847,
       "word": "王力宏19岁代表作是被逼写的",
@@ -2011,12 +2059,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139812,
+      "num": 139812,
+      "word": "臭宝品牌方回应吃出脚趾甲和烟头",
+      "onboard_time": 1758554781,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139619,
       "num": 139619,
       "word": "金晨怎么美成这样了",
       "onboard_time": 1758450321,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138872,
+      "num": 138872,
+      "word": "胃最怕的五件事",
+      "onboard_time": 1758549442,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138807,
@@ -2201,6 +2265,14 @@
       "onboard_time": 1758513142,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130271,
+      "num": 130271,
+      "word": "老妈做了三十年的葱花大油饼",
+      "onboard_time": 1758552502,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 130194,
@@ -2395,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121782,
-      "num": 121782,
-      "word": "谁家艺人上综艺锯4小时木头啊",
-      "onboard_time": 1758552204,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121224,
       "num": 121224,
       "word": "AG泰式校服校园感",
@@ -2523,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112776,
+      "num": 112776,
+      "word": "罗永浩否认跑路",
+      "onboard_time": 1758554423,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112370,
       "num": 192230,
       "word": "中国探险协会就始祖鸟烟花事件发声",
@@ -2635,14 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109369,
-      "num": 115328,
-      "word": "胃最怕的五件事",
-      "onboard_time": 1758549442,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 108523,
       "num": 152579,
       "word": "周杰伦演唱会",
@@ -2657,6 +2721,14 @@
       "onboard_time": 1758533842,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108423,
+      "num": 108423,
+      "word": "毛利兰确认参演明年柯南剧场版",
+      "onboard_time": 1758553583,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 107127,
@@ -2705,6 +2777,14 @@
       "onboard_time": 1758530542,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103482,
+      "num": 103482,
+      "word": "证监会对恒大地产开最大罚单",
+      "onboard_time": 1758554184,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103411,
@@ -3403,6 +3483,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 46104,
+      "num": 781748,
+      "word": "中国战机360度无死角纯帅",
+      "onboard_time": 1758535043,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45817,
       "num": 65565,
       "word": "2025年大湾区电影音乐晚会",
@@ -3497,14 +3585,6 @@
       "onboard_time": 1758516082,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 38545,
-      "num": 781748,
-      "word": "中国战机360度无死角纯帅",
-      "onboard_time": 1758535043,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37507,
@@ -3641,6 +3721,14 @@
       "onboard_time": 1758484933,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25024,
+      "num": 175996,
+      "word": "浪卡子县否认烟花秀曾在当地彩排",
+      "onboard_time": 1758553104,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23817,
