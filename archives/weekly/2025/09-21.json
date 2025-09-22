@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758576123816,
+  "endTime": 1758576935821,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -7180,7 +7180,7 @@
     },
     {
       "raw_hot": 16295,
-      "num": 17908,
+      "num": 18900,
       "word": "用钉枪射杀邻居男子被鉴定为精神病",
       "onboard_time": 1758572713,
       "rank": 48,
@@ -7193,6 +7193,14 @@
       "onboard_time": 1758567194,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14996,
+      "num": 42367,
+      "word": "深圳各大超市正加紧备货",
+      "onboard_time": 1758576314,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14419,
@@ -7211,19 +7219,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13812,
+      "num": 46135,
+      "word": "被中国战机弹射帅到了",
+      "onboard_time": 1758572054,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13705,
       "num": 17872,
       "word": "福建舰战斗搭子1探1打1协同",
       "onboard_time": 1758573973,
       "rank": 46,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13623,
-      "num": 46135,
-      "word": "被中国战机弹射帅到了",
-      "onboard_time": 1758572054,
-      "rank": 9,
       "category": "国内时政"
     },
     {
