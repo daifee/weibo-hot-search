@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 23:27:59
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 23:41:24
 </p>
 </blockquote>
 <p>
@@ -4281,6 +4281,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E5%BC%A0%E6%B0%B4%E5%8D%8E%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
+最快女护士张水华发文道歉（热度：784935）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%9B%9E%E5%BA%94%E8%A6%81%E4%B8%8D%E8%A6%81%E5%B0%8F%E5%AD%A9%23" target="weibo">
 陈乔恩回应要不要小孩（热度：784275）
 </a>
@@ -4673,12 +4679,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AD%90%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E5%90%8E%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23" target="weibo">
 女孩子黄体破裂后到底有多严重（热度：738125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E5%BC%A0%E6%B0%B4%E5%8D%8E%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
-最快女护士张水华发文道歉（热度：736820）
 </a>
 </li>
 
