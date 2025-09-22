@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758530857302,
+  "endTime": 1758533456215,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -27,11 +27,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1584664,
-      "num": 1584664,
+      "raw_hot": 1618170,
+      "num": 1618170,
       "word": "台风",
       "onboard_time": 1758522681,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1594282,
+      "num": 1594282,
+      "word": "深圳停工",
+      "onboard_time": 1758531201,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -395,12 +403,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 502284,
+      "num": 458712,
+      "word": "陈紫函自曝因长期分居婚姻亮红灯",
+      "onboard_time": 1758524781,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 493045,
+      "num": 493045,
+      "word": "深圳宣布明后天停课",
+      "onboard_time": 1758530242,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484470,
       "num": 484470,
       "word": "东莞五停",
       "onboard_time": 1758527963,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481682,
+      "num": 481682,
+      "word": "中方回应金正恩称朝鲜不会无核化",
+      "onboard_time": 1758530422,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 447258,
@@ -433,6 +465,14 @@
       "onboard_time": 1758511403,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396620,
+      "num": 355051,
+      "word": "刘涛说关晓彤的腿是特效做的",
+      "onboard_time": 1758529641,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 385711,
@@ -483,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357484,
+      "num": 264321,
+      "word": "10月1号将出现的六批人",
+      "onboard_time": 1758531024,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 354215,
       "num": 354215,
       "word": "针孔摄像头比我们想象的还要小",
@@ -515,6 +563,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 316600,
+      "num": 434778,
+      "word": "阿富汗男孩爬飞机起落架抵达印度",
+      "onboard_time": 1758526762,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 310351,
+      "num": 431424,
+      "word": "13岁男孩扒飞机飞行94分钟",
+      "onboard_time": 1758530362,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 310106,
       "num": 310106,
       "word": "盛夏芬德拉",
@@ -545,14 +609,6 @@
       "onboard_time": 1758523282,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295272,
-      "num": 434778,
-      "word": "阿富汗男孩爬飞机起落架抵达印度",
-      "onboard_time": 1758526762,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 287175,
@@ -665,22 +721,6 @@
       "onboard_time": 1758468684,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226050,
-      "num": 226050,
-      "word": "陈紫函自曝因长期分居婚姻亮红灯",
-      "onboard_time": 1758524781,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 225899,
-      "num": 159562,
-      "word": "中方回应金正恩称朝鲜不会无核化",
-      "onboard_time": 1758530422,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 225175,
@@ -819,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201037,
+      "num": 201037,
+      "word": "台风广东部分商超搬空仅剩辣椒",
+      "onboard_time": 1758532043,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200157,
       "num": 200157,
       "word": "西藏自治区就烟花秀事件开专题会",
@@ -872,14 +920,6 @@
       "word": "学生吃免费汤饭疑被校长骂臭要饭",
       "onboard_time": 1758524843,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191460,
-      "num": 191460,
-      "word": "深圳宣布明后天停课",
-      "onboard_time": 1758530242,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -960,6 +1000,14 @@
       "word": "官方通报吃日料在三文鱼上发现活虫",
       "onboard_time": 1758517283,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181101,
+      "num": 181101,
+      "word": "榴莲降至15元一斤",
+      "onboard_time": 1758532341,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1099,6 +1147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164896,
+      "num": 164896,
+      "word": "这么帅的男主却这么窝囊",
+      "onboard_time": 1758533002,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163076,
       "num": 242200,
       "word": "鸡排主理人",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1758512602,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159594,
-      "num": 159594,
-      "word": "刘涛说关晓彤的腿是特效做的",
-      "onboard_time": 1758529641,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 157662,
@@ -1307,6 +1355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 145495,
+      "num": 145495,
+      "word": "柯南动画最新话",
+      "onboard_time": 1758532823,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 145244,
       "num": 359287,
       "word": "和平鸽落在天安门广场大花篮上",
@@ -1347,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142818,
+      "num": 142818,
+      "word": "盛夏芬德拉 浴缸吻",
+      "onboard_time": 1758529281,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142179,
       "num": 142179,
       "word": "99年女硕士刚毕业就意外截瘫",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1758515782,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140574,
+      "num": 140574,
+      "word": "始祖鸟 公关",
+      "onboard_time": 1758532763,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140419,
@@ -1491,6 +1563,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 130635,
+      "num": 130635,
+      "word": "金价",
+      "onboard_time": 1758530902,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130485,
       "num": 130485,
       "word": "当狗咖最后一个客人走后",
@@ -1539,12 +1619,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128478,
+      "num": 128478,
+      "word": "樊振东解释手势含义",
+      "onboard_time": 1758532043,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127459,
       "num": 127459,
       "word": "王者荣耀",
       "onboard_time": 1758527781,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127365,
+      "num": 127365,
+      "word": "英超官方欢迎樊振东再来",
+      "onboard_time": 1758532402,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 126533,
@@ -1619,20 +1715,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117585,
+      "num": 117585,
+      "word": "小米手机",
+      "onboard_time": 1758533061,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116784,
       "num": 116784,
       "word": "美国飞行员因拒绝飞往以色列被捕",
       "onboard_time": 1758501803,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115425,
-      "num": 115425,
-      "word": "盛夏芬德拉 浴缸吻",
-      "onboard_time": 1758529281,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 115243,
@@ -1731,14 +1827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110094,
-      "num": 110094,
-      "word": "13岁男孩扒飞机飞行94分钟",
-      "onboard_time": 1758530362,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 109598,
       "num": 109598,
       "word": "风云四号卫星带你看台风桦加沙",
@@ -1763,6 +1851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105824,
+      "num": 105824,
+      "word": "珠海全市明后天停课",
+      "onboard_time": 1758530961,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105337,
       "num": 105337,
       "word": "台风桦加沙到哪了",
@@ -1785,6 +1881,14 @@
       "onboard_time": 1758530542,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103534,
+      "num": 103534,
+      "word": "西安厕所标识",
+      "onboard_time": 1758533002,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103411,
@@ -1939,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91434,
+      "num": 91434,
+      "word": "清融听脚步一绝",
+      "onboard_time": 1758532882,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90200,
       "num": 90200,
       "word": "张继科说打到2024年没问题",
@@ -1961,6 +2073,14 @@
       "onboard_time": 1758411318,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86528,
+      "num": 279385,
+      "word": "央视起底柯克之死",
+      "onboard_time": 1758531682,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86022,
@@ -2057,6 +2177,14 @@
       "onboard_time": 1758462265,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77044,
+      "num": 121691,
+      "word": "董子健给8岁女儿庆生",
+      "onboard_time": 1758533303,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 76921,
@@ -2275,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51531,
+      "num": 121439,
+      "word": "金正恩称朝韩决不会合并",
+      "onboard_time": 1758533362,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51452,
       "num": 50081,
       "word": "广东多地或将停课",
@@ -2347,12 +2483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43151,
+      "num": 314212,
+      "word": "右滑负一屏进入十一省钱模式",
+      "onboard_time": 1758531862,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43143,
       "num": 286425,
       "word": "万豪方回应拖鞋重复使用是出于环保",
       "onboard_time": 1758522742,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42836,
+      "num": 141413,
+      "word": "香港一客机降落大阪乘客误开应急门",
+      "onboard_time": 1758531682,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42327,
@@ -2368,6 +2520,14 @@
       "word": "中产运动三件套又换了",
       "onboard_time": 1758510622,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39455,
+      "num": 107161,
+      "word": "孕妇遭宠物狗追咬胎停双方已和解",
+      "onboard_time": 1758532101,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2492,7 +2652,7 @@
     },
     {
       "raw_hot": 23817,
-      "num": 911949,
+      "num": 1002148,
       "word": "战机在祖国一秒变孩子王",
       "onboard_time": 1758498921,
       "rank": 2,
@@ -2529,6 +2689,14 @@
       "onboard_time": 1758478996,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19236,
+      "num": 105902,
+      "word": "畜禽粪污困扰养殖大县",
+      "onboard_time": 1758531682,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18713,

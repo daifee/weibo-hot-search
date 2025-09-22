@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 16:47:37
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 17:30:56
 </p>
 </blockquote>
 <p>
@@ -1275,6 +1275,12 @@ miumiu签了三个00花（热度：1748229）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
+台风（热度：1618170）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E8%A2%AB%E6%B2%89%E5%B0%B8%E8%83%B8%E9%83%A8%E5%81%87%E4%BD%93%E5%8D%B0%E4%B8%AD%E6%96%87%23" target="weibo">
 女子在泰被沉尸胸部假体印中文（热度：1609486）
 </a>
@@ -1317,6 +1323,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%B7%A5%23" target="weibo">
+深圳停工（热度：1594282）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B%23" target="weibo">
 孙颖莎冠军（热度：1591178）
 </a>
@@ -1331,12 +1343,6 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%81%94%E6%89%8B%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E8%89%BA%E6%9C%AF%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
 始祖鸟联手蔡国强的烟花艺术引争议（热度：1587393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
-台风（热度：1584664）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%8790%E5%85%83%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E5%9B%BD%E5%BA%86%E6%B6%A8%E5%88%B01000%E5%85%83%23" target="weibo">
 景德镇90元酒店房间国庆涨到1000元（热度：593521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD911%E7%BA%AA%E5%BF%B5%E4%BB%AA%E5%BC%8F%E5%8F%B3%E8%84%B8%E4%B8%8B%E5%9E%82%23" target="weibo">
-特朗普出席911纪念仪式右脸下垂（热度：593425）
 </a>
 </li>
 
