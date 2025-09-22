@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758534211807,
+  "endTime": 1758536958431,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 954339,
+      "num": 353000,
+      "word": "10月1号将出现的六批人",
+      "onboard_time": 1758531024,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 944814,
       "num": 944814,
       "word": "安踏回应始祖鸟炸山风波",
@@ -281,6 +289,14 @@
       "onboard_time": 1758442882,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 930525,
+      "num": 821850,
+      "word": "日本网友指责中国男子救人",
+      "onboard_time": 1758533781,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 928466,
@@ -321,6 +337,14 @@
       "onboard_time": 1758528022,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 889018,
+      "num": 889018,
+      "word": "13岁男孩扒飞机飞行94分钟",
+      "onboard_time": 1758530362,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 876378,
@@ -379,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 817251,
+      "num": 817251,
+      "word": "中国航母又一突破",
+      "onboard_time": 1758534862,
+      "rank": 4,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 812532,
       "num": 205566,
       "word": "易烊千玺",
@@ -408,6 +440,14 @@
       "word": "王源",
       "onboard_time": 1758385642,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 792625,
+      "num": 351770,
+      "word": "贺峻霖中传成功保研",
+      "onboard_time": 1758535942,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -587,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 650390,
+      "num": 588819,
+      "word": "陈紫函自曝因长期分居婚姻亮红灯",
+      "onboard_time": 1758524781,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649129,
       "num": 263956,
       "word": "继父称继子永远不会跟我是一条心",
@@ -673,14 +721,6 @@
       "onboard_time": 1758518663,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 588819,
-      "num": 588819,
-      "word": "陈紫函自曝因长期分居婚姻亮红灯",
-      "onboard_time": 1758524781,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 580074,
@@ -843,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500559,
+      "num": 485685,
+      "word": "刘涛说关晓彤的腿是特效做的",
+      "onboard_time": 1758529641,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498000,
       "num": 478919,
       "word": "女子连续偷吃5个蛋挞后转身就走",
@@ -883,28 +931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 485685,
-      "num": 485685,
-      "word": "刘涛说关晓彤的腿是特效做的",
-      "onboard_time": 1758529641,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 484470,
       "num": 484470,
       "word": "东莞五停",
       "onboard_time": 1758527963,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 476265,
-      "num": 476265,
-      "word": "13岁男孩扒飞机飞行94分钟",
-      "onboard_time": 1758530362,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 473458,
@@ -937,6 +969,14 @@
       "onboard_time": 1758410598,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451254,
+      "num": 335560,
+      "word": "始祖鸟 公关",
+      "onboard_time": 1758532763,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450928,
@@ -1059,12 +1099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381488,
+      "num": 310101,
+      "word": "被性侵女高管丈夫不敢看妻子视频",
+      "onboard_time": 1758535462,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380139,
       "num": 340719,
       "word": "iPhone17发布后16的反向操作",
       "onboard_time": 1758520282,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 380040,
+      "num": 380040,
+      "word": "福建舰弹射现场",
+      "onboard_time": 1758535341,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378893,
@@ -1081,6 +1137,14 @@
       "onboard_time": 1758515240,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368734,
+      "num": 297632,
+      "word": "董子健给8岁女儿庆生",
+      "onboard_time": 1758533303,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 366761,
@@ -1121,14 +1185,6 @@
       "onboard_time": 1758465027,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357484,
-      "num": 264321,
-      "word": "10月1号将出现的六批人",
-      "onboard_time": 1758531024,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 352376,
@@ -1459,14 +1515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 256637,
-      "num": 164104,
-      "word": "日本网友指责中国男子救人",
-      "onboard_time": 1758533781,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 254383,
       "num": 254383,
       "word": "iG冒泡赛",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1758426383,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238388,
-      "num": 238388,
-      "word": "始祖鸟 公关",
-      "onboard_time": 1758532763,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238015,
@@ -2147,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191272,
+      "num": 191272,
+      "word": "福建舰",
+      "onboard_time": 1758536181,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 191267,
       "num": 191267,
       "word": "韩庚卢靖姗为3岁女儿庆生",
@@ -2188,7 +2236,7 @@
     },
     {
       "raw_hot": 189143,
-      "num": 189143,
+      "num": 266365,
       "word": "赴山海莲花楼 服装",
       "onboard_time": 1758524843,
       "rank": 37,
@@ -2260,7 +2308,7 @@
     },
     {
       "raw_hot": 186336,
-      "num": 186336,
+      "num": 259647,
       "word": "这么帅的男主却这么窝囊",
       "onboard_time": 1758533002,
       "rank": 25,
@@ -2355,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181083,
+      "num": 181083,
+      "word": "弹射",
+      "onboard_time": 1758536181,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
       "raw_hot": 180736,
       "num": 180736,
       "word": "GEN对战T1",
@@ -2417,6 +2473,14 @@
       "onboard_time": 1758467124,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179166,
+      "num": 324342,
+      "word": "TVB视帝陈豪说藏海传拍的特别好",
+      "onboard_time": 1758536542,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 178424,
@@ -2664,6 +2728,14 @@
       "word": "台风桦加沙将严重影响江门市",
       "onboard_time": 1758504981,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166436,
+      "num": 166436,
+      "word": "超强台风桦加沙强度已达17级以上",
+      "onboard_time": 1758534201,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2937,6 +3009,14 @@
       "onboard_time": 1758500061,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154687,
+      "num": 282387,
+      "word": "福建舰弹射3连",
+      "onboard_time": 1758536781,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154668,
@@ -3603,6 +3683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131069,
+      "num": 277258,
+      "word": "朱志鑫左航录披哥吃两盆红烧肉",
+      "onboard_time": 1758536062,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130947,
       "num": 130947,
       "word": "保研味很重的图片",
@@ -3649,6 +3737,14 @@
       "onboard_time": 1758509842,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129639,
+      "num": 129639,
+      "word": "始祖鸟门店现状",
+      "onboard_time": 1758535522,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129314,
@@ -3939,6 +4035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122011,
+      "num": 122011,
+      "word": "肠粉最伟大的吃法出现了",
+      "onboard_time": 1758535043,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121978,
       "num": 121978,
       "word": "始祖鸟的烟花劝退了真正的户外人",
@@ -4113,6 +4217,14 @@
       "onboard_time": 1758428723,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116798,
+      "num": 116798,
+      "word": "当代人主打的就是一个全能在线",
+      "onboard_time": 1758535583,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116784,
@@ -4699,6 +4811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93758,
+      "num": 185133,
+      "word": "王源南昌演唱会的嘉宾是班小松",
+      "onboard_time": 1758535282,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92920,
       "num": 92920,
       "word": "尹子维好莱坞电影镜头",
@@ -4731,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92089,
+      "num": 164005,
+      "word": "3乘8还是8乘3",
+      "onboard_time": 1758536240,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92068,
       "num": 92068,
       "word": "卡塔尔投诉以色列",
@@ -4745,14 +4873,6 @@
       "onboard_time": 1758420382,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91630,
-      "num": 121691,
-      "word": "董子健给8岁女儿庆生",
-      "onboard_time": 1758533303,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 91434,
@@ -4777,6 +4897,14 @@
       "onboard_time": 1758412580,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90795,
+      "num": 117033,
+      "word": "始祖鸟炸了自己的捞金圣地",
+      "onboard_time": 1758535282,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90200,
@@ -5067,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72975,
+      "num": 164383,
+      "word": "iPhone17系列充电时疑漏电",
+      "onboard_time": 1758536483,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72799,
       "num": 80004,
       "word": "人人人人机人人人人",
@@ -5153,6 +5289,14 @@
       "onboard_time": 1758381204,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65503,
+      "num": 289811,
+      "word": "十一车圈顶流竟是神州租车",
+      "onboard_time": 1758535583,
+      "rank": 24,
+      "category": "旅游,汽车"
     },
     {
       "raw_hot": 65250,
@@ -5707,6 +5851,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33543,
+      "num": 178887,
+      "word": "始祖鸟 ESG双标",
+      "onboard_time": 1758535282,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33541,
+      "num": 129652,
+      "word": "成都自行车赛选手摔车露出膝盖骨",
+      "onboard_time": 1758535282,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32953,
       "num": 199436,
       "word": "乐见潮向音乐节神图来了",
@@ -5744,6 +5904,14 @@
       "word": "胡锡进说始祖鸟团队不懂互联网",
       "onboard_time": 1758438621,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31524,
+      "num": 253957,
+      "word": "城管局回应翻8吨垃圾找误扔现金",
+      "onboard_time": 1758535282,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758536958431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1455746,
+        "num": 1455746,
+        "word": "台风",
+        "onboard_time": 1758522681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 889018,
+        "num": 889018,
+        "word": "13岁男孩扒飞机飞行94分钟",
+        "onboard_time": 1758530362,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11186,
+        "num": 822534,
+        "word": "战机在祖国一秒变孩子王",
+        "onboard_time": 1758498921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 930525,
+        "num": 821850,
+        "word": "日本网友指责中国男子救人",
+        "onboard_time": 1758533781,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 817251,
+        "num": 817251,
+        "word": "中国航母又一突破",
+        "onboard_time": 1758534862,
+        "rank": 4,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 561900,
+        "num": 561900,
+        "word": "王安宇暗示高圆圆站错位置",
+        "onboard_time": 1758525981,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412052,
+        "num": 412052,
+        "word": "深圳宣布明后天停课",
+        "onboard_time": 1758530242,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380040,
+        "num": 380040,
+        "word": "福建舰弹射现场",
+        "onboard_time": 1758535341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373860,
+        "num": 373860,
+        "word": "黄灿灿 你不就是平台的人吗",
+        "onboard_time": 1758525081,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363426,
+        "num": 363426,
+        "word": "广东省内所有高铁停运",
+        "onboard_time": 1758522982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1665796,
+        "num": 362104,
+        "word": "深圳停工",
+        "onboard_time": 1758531201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 954339,
+        "num": 353000,
+        "word": "10月1号将出现的六批人",
+        "onboard_time": 1758531024,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 792625,
+        "num": 351770,
+        "word": "贺峻霖中传成功保研",
+        "onboard_time": 1758535942,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650390,
+        "num": 345781,
+        "word": "陈紫函自曝因长期分居婚姻亮红灯",
+        "onboard_time": 1758524781,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500559,
+        "num": 341595,
+        "word": "刘涛说关晓彤的腿是特效做的",
+        "onboard_time": 1758529641,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451254,
+        "num": 335560,
+        "word": "始祖鸟 公关",
+        "onboard_time": 1758532763,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417670,
+        "num": 326705,
+        "word": "建议所有妈妈去购买iphone17",
+        "onboard_time": 1758528022,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179166,
+        "num": 324342,
+        "word": "TVB视帝陈豪说藏海传拍的特别好",
+        "onboard_time": 1758536542,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179118,
+        "num": 320312,
+        "word": "花少5马哥",
+        "onboard_time": 1758520581,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144688,
+        "num": 315325,
+        "word": "李沁因买贵丝巾而自责",
+        "onboard_time": 1758525501,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381488,
+        "num": 310101,
+        "word": "被性侵女高管丈夫不敢看妻子视频",
+        "onboard_time": 1758535462,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30638,
+        "num": 301554,
+        "word": "右滑负一屏进入十一省钱模式",
+        "onboard_time": 1758531862,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 368734,
+        "num": 297632,
+        "word": "董子健给8岁女儿庆生",
+        "onboard_time": 1758533303,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294620,
+        "num": 294620,
+        "word": "中方回应金正恩称朝鲜不会无核化",
+        "onboard_time": 1758530422,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65503,
+        "num": 289811,
+        "word": "十一车圈顶流竟是神州租车",
+        "onboard_time": 1758535583,
+        "rank": 24,
+        "category": "旅游,汽车"
+      },
+      {
+        "raw_hot": 154687,
+        "num": 282387,
+        "word": "福建舰弹射3连",
+        "onboard_time": 1758536781,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131069,
+        "num": 277258,
+        "word": "朱志鑫左航录披哥吃两盆红烧肉",
+        "onboard_time": 1758536062,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120585,
+        "num": 266365,
+        "word": "赴山海莲花楼 服装",
+        "onboard_time": 1758524843,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119870,
+        "num": 259647,
+        "word": "这么帅的男主却这么窝囊",
+        "onboard_time": 1758533002,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31524,
+        "num": 253957,
+        "word": "城管局回应翻8吨垃圾找误扔现金",
+        "onboard_time": 1758535282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247269,
+        "num": 247269,
+        "word": "蓝战非自曝收入",
+        "onboard_time": 1758517583,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 191272,
+        "num": 191272,
+        "word": "福建舰",
+        "onboard_time": 1758536181,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 93758,
+        "num": 185133,
+        "word": "王源南昌演唱会的嘉宾是班小松",
+        "onboard_time": 1758535282,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181083,
+        "num": 181083,
+        "word": "弹射",
+        "onboard_time": 1758536181,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 105869,
+        "num": 179483,
+        "word": "张晚意没有经纪公司",
+        "onboard_time": 1758522322,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33543,
+        "num": 178887,
+        "word": "始祖鸟 ESG双标",
+        "onboard_time": 1758535282,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178421,
+        "num": 178421,
+        "word": "榴莲降至15元一斤",
+        "onboard_time": 1758532341,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166436,
+        "num": 166436,
+        "word": "超强台风桦加沙强度已达17级以上",
+        "onboard_time": 1758534201,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72975,
+        "num": 164383,
+        "word": "iPhone17系列充电时疑漏电",
+        "onboard_time": 1758536483,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92089,
+        "num": 164005,
+        "word": "3乘8还是8乘3",
+        "onboard_time": 1758536240,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163887,
+        "num": 163887,
+        "word": "小米17Pro冷烟紫",
+        "onboard_time": 1758527361,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150101,
+        "num": 150101,
+        "word": "万豪酒店承认拖鞋循环多次使用",
+        "onboard_time": 1758519502,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140660,
+        "num": 140660,
+        "word": "美团崩了",
+        "onboard_time": 1758526642,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130094,
+        "num": 130094,
+        "word": "金价",
+        "onboard_time": 1758530902,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33541,
+        "num": 129652,
+        "word": "成都自行车赛选手摔车露出膝盖骨",
+        "onboard_time": 1758535282,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129639,
+        "num": 129639,
+        "word": "始祖鸟门店现状",
+        "onboard_time": 1758535522,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122011,
+        "num": 122011,
+        "word": "肠粉最伟大的吃法出现了",
+        "onboard_time": 1758535043,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117562,
+        "num": 117562,
+        "word": "广东或大范围停工",
+        "onboard_time": 1758516323,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90795,
+        "num": 117033,
+        "word": "始祖鸟炸了自己的捞金圣地",
+        "onboard_time": 1758535282,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116798,
+        "num": 116798,
+        "word": "当代人主打的就是一个全能在线",
+        "onboard_time": 1758535583,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国广大农民致以节日祝贺#"
+    }
+  }
+}
