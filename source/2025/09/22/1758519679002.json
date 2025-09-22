@@ -1,0 +1,410 @@
+{
+  "runTime": 1758519679002,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825296,
+        "num": 1132047,
+        "word": "见到这种紫色保温壶立即报警",
+        "onboard_time": 1758509601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669374,
+        "num": 669374,
+        "word": "澳男子度假溺亡遗体回国后心脏不见",
+        "onboard_time": 1758516323,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25056,
+        "num": 630902,
+        "word": "不能错过的长春航展高能场面",
+        "onboard_time": 1758503661,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621974,
+        "num": 621974,
+        "word": "比喝油还长肉的食物",
+        "onboard_time": 1758513682,
+        "rank": 3,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 538686,
+        "num": 538686,
+        "word": "广东或大范围停工",
+        "onboard_time": 1758516323,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461220,
+        "num": 461220,
+        "word": "李乃文剪彩后把彩头扔了",
+        "onboard_time": 1758509181,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363296,
+        "num": 363296,
+        "word": "心动的信号",
+        "onboard_time": 1758514342,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338276,
+        "num": 338276,
+        "word": "珠海全市范围五停",
+        "onboard_time": 1758514221,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297170,
+        "num": 297170,
+        "word": "风王桦加沙体型比广东省还大",
+        "onboard_time": 1758515240,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148010,
+        "num": 296871,
+        "word": "超强台风桦加沙位置更新",
+        "onboard_time": 1758518663,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1204579,
+        "num": 292456,
+        "word": "蓝战非自曝收入",
+        "onboard_time": 1758517583,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 961537,
+        "num": 289140,
+        "word": "始祖鸟成炸山鸟安踏岂能装睡",
+        "onboard_time": 1758515602,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755106,
+        "num": 284658,
+        "word": "这居然是张天爱",
+        "onboard_time": 1758516442,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 719852,
+        "num": 278496,
+        "word": "葛夕因感染幽门螺旋杆菌暴瘦",
+        "onboard_time": 1758516984,
+        "rank": 13,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 497018,
+        "num": 277254,
+        "word": "始祖鸟国内外价格对比",
+        "onboard_time": 1758512363,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489085,
+        "num": 271416,
+        "word": "王冕官宣怀孕",
+        "onboard_time": 1758497781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270507,
+        "num": 270507,
+        "word": "以色列总理发视频威胁",
+        "onboard_time": 1758504442,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269150,
+        "num": 269150,
+        "word": "成毅林更新 进组",
+        "onboard_time": 1758507141,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234993,
+        "num": 234993,
+        "word": "超强台风桦加沙最新路径公布",
+        "onboard_time": 1758501262,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217028,
+        "num": 217028,
+        "word": "花少7埃及站被坑",
+        "onboard_time": 1758498860,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251368,
+        "num": 215856,
+        "word": "旺旺冻痴 虚假宣传",
+        "onboard_time": 1758517523,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82989,
+        "num": 213229,
+        "word": "赵丽颖把星辰戴在腕间",
+        "onboard_time": 1758515782,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212878,
+        "num": 212878,
+        "word": "陈乔恩 我爱干嘛就干嘛",
+        "onboard_time": 1758519202,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201411,
+        "num": 201411,
+        "word": "王俊凯回复王源易烊千玺",
+        "onboard_time": 1758497659,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188835,
+        "num": 188835,
+        "word": "刘芸婚后第一个放弃的是事业",
+        "onboard_time": 1758512781,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188394,
+        "num": 188394,
+        "word": "angelababy黄灿灿早期同框",
+        "onboard_time": 1758514102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188255,
+        "num": 188255,
+        "word": "校方回应大一新生在校意外死亡",
+        "onboard_time": 1758516803,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61363,
+        "num": 185527,
+        "word": "年度未来造型标杆车型上市",
+        "onboard_time": 1758517882,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185339,
+        "num": 185339,
+        "word": "刘耀文 老式小孩",
+        "onboard_time": 1758518781,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162310,
+        "num": 181345,
+        "word": "盛夏芬德拉",
+        "onboard_time": 1758514042,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181276,
+        "num": 181276,
+        "word": "官方通报吃日料在三文鱼上发现活虫",
+        "onboard_time": 1758517283,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172646,
+        "num": 172646,
+        "word": "年薪1.67亿的清华学霸仍然在逃",
+        "onboard_time": 1758518302,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165656,
+        "num": 165656,
+        "word": "桦加沙已成为今年全球风王",
+        "onboard_time": 1758515423,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160243,
+        "num": 160243,
+        "word": "王楚钦说全运赛场见",
+        "onboard_time": 1758518663,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155654,
+        "num": 155654,
+        "word": "美方回应重要盟友承认巴勒斯坦国",
+        "onboard_time": 1758518062,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146900,
+        "num": 146900,
+        "word": "陈乔恩女生不能吹空调",
+        "onboard_time": 1758518842,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144489,
+        "num": 144489,
+        "word": "金正恩强调朝鲜不会无核化",
+        "onboard_time": 1758510440,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49079,
+        "num": 138248,
+        "word": "张柏芝 叫我老公",
+        "onboard_time": 1758519381,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65250,
+        "num": 135581,
+        "word": "檀健次梗好全",
+        "onboard_time": 1758518482,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11501,
+        "num": 135263,
+        "word": "震耳欲聋导演也惦记檀健次的魔性笑声",
+        "onboard_time": 1758519322,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135199,
+        "num": 135199,
+        "word": "辛芷蕾说暂时不会常驻综艺了",
+        "onboard_time": 1758519442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130947,
+        "num": 130947,
+        "word": "保研味很重的图片",
+        "onboard_time": 1758518423,
+        "rank": 41,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 130693,
+        "num": 130693,
+        "word": "万豪酒店承认拖鞋循环多次使用",
+        "onboard_time": 1758519502,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85764,
+        "num": 119264,
+        "word": "樊振东黎子安同款拍照手势",
+        "onboard_time": 1758518121,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118760,
+        "num": 118760,
+        "word": "粉丝拍短剧给肖战庆生",
+        "onboard_time": 1758516623,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118158,
+        "num": 118158,
+        "word": "谢娜女儿跳跳也有自己的代言人了",
+        "onboard_time": 1758514763,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114280,
+        "num": 114280,
+        "word": "恋与深空",
+        "onboard_time": 1758509181,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114094,
+        "num": 114094,
+        "word": "99年女硕士刚毕业就意外截瘫",
+        "onboard_time": 1758517283,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112266,
+        "num": 112266,
+        "word": "Bin谈T1晋级世界赛",
+        "onboard_time": 1758518603,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111709,
+        "num": 111709,
+        "word": "户晨风",
+        "onboard_time": 1758518302,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#情暖天山气象新#"
+    }
+  }
+}

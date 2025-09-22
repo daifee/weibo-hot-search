@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758518720584,
+  "endTime": 1758519679002,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -219,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 961537,
+      "num": 337945,
+      "word": "始祖鸟成炸山鸟安踏岂能装睡",
+      "onboard_time": 1758515602,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 944814,
       "num": 944814,
       "word": "安踏回应始祖鸟炸山风波",
@@ -371,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 760591,
-      "num": 337945,
-      "word": "始祖鸟成炸山鸟安踏岂能装睡",
-      "onboard_time": 1758515602,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 755106,
+      "num": 321999,
+      "word": "这居然是张天爱",
+      "onboard_time": 1758516442,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 750924,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 745346,
-      "num": 598892,
+      "num": 621974,
       "word": "比喝油还长肉的食物",
       "onboard_time": 1758513682,
       "rank": 16,
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719852,
+      "num": 326090,
+      "word": "葛夕因感染幽门螺旋杆菌暴瘦",
+      "onboard_time": 1758516984,
+      "rank": 15,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 692267,
       "num": 582032,
       "word": "蔡国强",
@@ -451,8 +467,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 665831,
-      "num": 665831,
+      "raw_hot": 669374,
+      "num": 669374,
       "word": "澳男子度假溺亡遗体回国后心脏不见",
       "onboard_time": 1758516323,
       "rank": 1,
@@ -899,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376184,
-      "num": 326090,
-      "word": "葛夕因感染幽门螺旋杆菌暴瘦",
-      "onboard_time": 1758516984,
-      "rank": 15,
-      "category": "艺人,网红"
-    },
-    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -931,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363296,
+      "num": 363296,
+      "word": "心动的信号",
+      "onboard_time": 1758514342,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357798,
       "num": 357798,
       "word": "终于知道新闻主播为啥戴假发了",
@@ -939,28 +955,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355075,
-      "num": 321999,
-      "word": "这居然是张天爱",
-      "onboard_time": 1758516442,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 352376,
       "num": 352376,
       "word": "张继科点评男乒最强正反手",
       "onboard_time": 1758431841,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342802,
-      "num": 342802,
-      "word": "心动的信号",
-      "onboard_time": 1758514342,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 338211,
@@ -1251,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251368,
+      "num": 242566,
+      "word": "旺旺冻痴 虚假宣传",
+      "onboard_time": 1758517523,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249377,
       "num": 257432,
       "word": "肖战任少白路透",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1758383063,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 242566,
-      "num": 242566,
-      "word": "旺旺冻痴 虚假宣传",
-      "onboard_time": 1758517523,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240765,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1758425121,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212878,
+      "num": 212878,
+      "word": "陈乔恩 我爱干嘛就干嘛",
+      "onboard_time": 1758519202,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 211388,
@@ -1987,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185339,
+      "num": 185339,
+      "word": "刘耀文 老式小孩",
+      "onboard_time": 1758518781,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184944,
       "num": 184944,
       "word": "王源官宣WMA",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1758467725,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181276,
+      "num": 305212,
+      "word": "官方通报吃日料在三文鱼上发现活虫",
+      "onboard_time": 1758517283,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180736,
@@ -2177,6 +2201,14 @@
       "onboard_time": 1758463588,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172646,
+      "num": 172646,
+      "word": "年薪1.67亿的清华学霸仍然在逃",
+      "onboard_time": 1758518302,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172054,
@@ -2347,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160243,
+      "num": 160243,
+      "word": "王楚钦说全运赛场见",
+      "onboard_time": 1758518663,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160125,
       "num": 160125,
       "word": "iPhone17到手后要做的16个设置",
@@ -2457,6 +2497,14 @@
       "onboard_time": 1758375264,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155654,
+      "num": 331826,
+      "word": "美方回应重要盟友承认巴勒斯坦国",
+      "onboard_time": 1758518062,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155520,
@@ -2651,6 +2699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148010,
+      "num": 296871,
+      "word": "超强台风桦加沙位置更新",
+      "onboard_time": 1758518663,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147755,
       "num": 147755,
       "word": "月薪3万vs月薪3千",
@@ -2665,6 +2721,14 @@
       "onboard_time": 1758420681,
       "rank": 41,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 146900,
+      "num": 146900,
+      "word": "陈乔恩女生不能吹空调",
+      "onboard_time": 1758518842,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 146539,
@@ -2947,6 +3011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135199,
+      "num": 135199,
+      "word": "辛芷蕾说暂时不会常驻综艺了",
+      "onboard_time": 1758519442,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134780,
       "num": 134780,
       "word": "星品影响力",
@@ -3043,6 +3115,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130947,
+      "num": 130947,
+      "word": "保研味很重的图片",
+      "onboard_time": 1758518423,
+      "rank": 48,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 130693,
+      "num": 130693,
+      "word": "万豪酒店承认拖鞋循环多次使用",
+      "onboard_time": 1758519502,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130642,
       "num": 130642,
       "word": "龚俊回地球团感觉像回家了",
@@ -3059,14 +3147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130256,
-      "num": 130256,
-      "word": "年薪1.67亿的清华学霸仍然在逃",
-      "onboard_time": 1758518302,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130200,
       "num": 130200,
       "word": "中国古人早就玩上了高尔夫",
@@ -3080,14 +3160,6 @@
       "word": "中国驻以色列大使馆强烈谴责",
       "onboard_time": 1758498260,
       "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 130189,
-      "num": 331826,
-      "word": "美方回应重要盟友承认巴勒斯坦国",
-      "onboard_time": 1758518062,
-      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -3387,14 +3459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121243,
-      "num": 121243,
-      "word": "王楚钦说全运赛场见",
-      "onboard_time": 1758518663,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121009,
       "num": 121009,
       "word": "孟佳也做了夏之星造型",
@@ -3619,14 +3683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113007,
-      "num": 120516,
-      "word": "保研味很重的图片",
-      "onboard_time": 1758518423,
-      "rank": 48,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 112731,
       "num": 112731,
       "word": "选秀冠军的含金量还在上升",
@@ -3649,6 +3705,14 @@
       "onboard_time": 1758505702,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112266,
+      "num": 112266,
+      "word": "Bin谈T1晋级世界赛",
+      "onboard_time": 1758518603,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 111907,
@@ -4179,14 +4243,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 81227,
-      "num": 305212,
-      "word": "官方通报吃日料在三文鱼上发现活虫",
-      "onboard_time": 1758517283,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80783,
       "num": 97462,
       "word": "蔡徐坤把音乐节嗨成演唱会",
@@ -4347,6 +4403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65250,
+      "num": 135581,
+      "word": "檀健次梗好全",
+      "onboard_time": 1758518482,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64948,
       "num": 156331,
       "word": "喜马拉雅烟花秀争议警示整个行业",
@@ -4424,14 +4488,6 @@
       "word": "三问蔡国强烟花秀",
       "onboard_time": 1758513743,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57336,
-      "num": 128060,
-      "word": "超强台风桦加沙位置更新",
-      "onboard_time": 1758518663,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -4560,6 +4616,14 @@
       "word": "蔡徐坤实力",
       "onboard_time": 1758512060,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49079,
+      "num": 138248,
+      "word": "张柏芝 叫我老公",
+      "onboard_time": 1758519381,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -4955,12 +5019,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24685,
-      "num": 130702,
-      "word": "檀健次梗好全",
-      "onboard_time": 1758518482,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 25056,
+      "num": 630902,
+      "word": "不能错过的长春航展高能场面",
+      "onboard_time": 1758503661,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22275,
@@ -4977,14 +5041,6 @@
       "onboard_time": 1758478996,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20077,
-      "num": 616281,
-      "word": "不能错过的长春航展高能场面",
-      "onboard_time": 1758503661,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19860,
@@ -5041,6 +5097,14 @@
       "onboard_time": 1758481815,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11501,
+      "num": 135263,
+      "word": "震耳欲聋导演也惦记檀健次的魔性笑声",
+      "onboard_time": 1758519322,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 11470,
