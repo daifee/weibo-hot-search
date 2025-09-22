@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758506323146,
+  "endTime": 1758507586261,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1906271,
+      "num": 1103094,
+      "word": "始祖鸟",
+      "onboard_time": 1758355881,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1625482,
       "num": 685361,
       "word": "日本媒体鸦雀无声",
@@ -107,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1189135,
-      "num": 1103094,
-      "word": "始祖鸟",
-      "onboard_time": 1758355881,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1177034,
       "num": 1188325,
       "word": "今年以来最强台风来袭",
@@ -153,6 +153,14 @@
       "onboard_time": 1758445162,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1001978,
+      "num": 297272,
+      "word": "王冕官宣怀孕",
+      "onboard_time": 1758497781,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 992046,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 798919,
+      "num": 1127827,
+      "word": "以色列总理发视频威胁",
+      "onboard_time": 1758504442,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 797193,
       "num": 151700,
       "word": "王源",
@@ -289,6 +305,14 @@
       "onboard_time": 1758437600,
       "rank": 13,
       "category": "演出,民生新闻"
+    },
+    {
+      "raw_hot": 767693,
+      "num": 1111708,
+      "word": "花少7埃及站被坑",
+      "onboard_time": 1758498860,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 750924,
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 698177,
-      "num": 1111708,
-      "word": "花少7埃及站被坑",
-      "onboard_time": 1758498860,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 692267,
       "num": 582032,
       "word": "蔡国强",
@@ -355,12 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 687498,
-      "num": 244310,
-      "word": "王冕官宣怀孕",
-      "onboard_time": 1758497781,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 683688,
+      "num": 294454,
+      "word": "我的阿勒泰作者谴责始祖鸟烟花秀",
+      "onboard_time": 1758506061,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 665663,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 657188,
-      "num": 236579,
+      "num": 292918,
       "word": "快30了身高从165厘米长到171厘米",
       "onboard_time": 1758501803,
       "rank": 11,
@@ -403,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 631704,
+      "raw_hot": 640485,
       "num": 631704,
       "word": "iPhone17首批用户吐槽不断",
       "onboard_time": 1758500482,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 544630,
-      "num": 230273,
+      "num": 291749,
       "word": "金晨剪彩时扔彩头",
       "onboard_time": 1758500902,
       "rank": 12,
@@ -699,6 +715,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385711,
+      "num": 290998,
+      "word": "台湾大学生被韩国人扇巴掌",
+      "onboard_time": 1758501381,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385558,
+      "num": 385558,
+      "word": "内蒙古一地集中采集男性居民血样",
+      "onboard_time": 1758505761,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 378893,
       "num": 378893,
       "word": "马斯克与特朗普闹掰后再同框",
@@ -745,14 +777,6 @@
       "onboard_time": 1758431841,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338925,
-      "num": 223700,
-      "word": "台湾大学生被韩国人扇巴掌",
-      "onboard_time": 1758501381,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 338211,
@@ -819,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303791,
+      "num": 303791,
+      "word": "广东江门全市五停",
+      "onboard_time": 1758503243,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303280,
       "num": 280695,
       "word": "空腹吃主食的危害",
@@ -859,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284496,
+      "num": 284496,
+      "word": "花神沈月",
+      "onboard_time": 1758505221,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281590,
       "num": 281590,
       "word": "台风",
@@ -873,14 +913,6 @@
       "onboard_time": 1758456682,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280000,
-      "num": 280000,
-      "word": "以色列总理发视频威胁",
-      "onboard_time": 1758504442,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 278422,
@@ -915,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270697,
+      "num": 270697,
+      "word": "懒羊羊睡觉是把角取下来的",
+      "onboard_time": 1758498020,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 267504,
       "num": 267504,
       "word": "为什么把房子卖掉 因为买的水被卡住了",
@@ -937,6 +977,14 @@
       "onboard_time": 1758376584,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264644,
+      "num": 264644,
+      "word": "安踏股价大跌",
+      "onboard_time": 1758505461,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 263525,
@@ -1035,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247712,
-      "num": 218287,
-      "word": "懒羊羊睡觉是把角取下来的",
-      "onboard_time": 1758498020,
-      "rank": 14,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 245725,
       "num": 245725,
       "word": "户外品牌集体表态尊重自然",
@@ -1059,12 +1099,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 244864,
-      "num": 244864,
-      "word": "广东江门全市五停",
-      "onboard_time": 1758503243,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 242002,
+      "num": 242002,
+      "word": "刘强东10年1元年薪约定到期",
+      "onboard_time": 1758506241,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 240765,
@@ -1155,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225175,
+      "num": 225175,
+      "word": "秋日造型的精髓是毛衣叠穿",
+      "onboard_time": 1758507021,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 224479,
       "num": 234934,
       "word": "蔡国强烟花秀区域具有显著脆弱性",
@@ -1195,6 +1243,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 214757,
+      "num": 289445,
+      "word": "成毅林更新 进组",
+      "onboard_time": 1758507141,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214002,
       "num": 360293,
       "word": "台风桦加沙明起将影响我国海域",
@@ -1204,7 +1260,7 @@
     },
     {
       "raw_hot": 213670,
-      "num": 213670,
+      "num": 284540,
       "word": "黄灿灿应了罗予彤的话",
       "onboard_time": 1758499882,
       "rank": 15,
@@ -1369,14 +1425,6 @@
       "onboard_time": 1758460701,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200028,
-      "num": 200028,
-      "word": "花神沈月",
-      "onboard_time": 1758505221,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 199479,
@@ -1867,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160562,
-      "num": 160562,
-      "word": "内蒙古一地集中采集男性居民血样",
-      "onboard_time": 1758505761,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 160125,
       "num": 160125,
       "word": "iPhone17到手后要做的16个设置",
@@ -1971,14 +2011,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157563,
-      "num": 157563,
-      "word": "安踏股价大跌",
-      "onboard_time": 1758505461,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 156471,
       "num": 156471,
       "word": "731上映3天票房破10亿",
@@ -1995,8 +2027,16 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 155117,
+      "num": 155117,
+      "word": "固态电池真的要来了吗",
+      "onboard_time": 1758503123,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154781,
-      "num": 154781,
+      "num": 156949,
       "word": "刘宇宁看到了自己的来时路",
       "onboard_time": 1758500061,
       "rank": 27,
@@ -2041,6 +2081,14 @@
       "onboard_time": 1758464066,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153049,
+      "num": 155210,
+      "word": "以色列总理称从美回国后必作回应",
+      "onboard_time": 1758502761,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152910,
@@ -2187,6 +2235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144008,
+      "num": 144008,
+      "word": "新iPhone导入微信记录提示空间不足",
+      "onboard_time": 1758504201,
+      "rank": 39,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 143838,
       "num": 233449,
       "word": "疑引食物中毒蛋糕店已开十多年",
@@ -2217,14 +2273,6 @@
       "onboard_time": 1758380723,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142539,
-      "num": 142539,
-      "word": "固态电池真的要来了吗",
-      "onboard_time": 1758503123,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 142381,
@@ -2363,14 +2411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135919,
-      "num": 135919,
-      "word": "我的阿勒泰作者谴责始祖鸟烟花秀",
-      "onboard_time": 1758506061,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135209,
       "num": 135209,
       "word": "徐明浩这段dancebreak",
@@ -2387,12 +2427,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134276,
-      "num": 134276,
-      "word": "以色列总理称从美回国后必作回应",
-      "onboard_time": 1758502761,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 134570,
+      "num": 134570,
+      "word": "有钱的韩国人在上海旅行",
+      "onboard_time": 1758502641,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133828,
@@ -2441,6 +2481,14 @@
       "onboard_time": 1758442581,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131575,
+      "num": 131575,
+      "word": "南通通报家纺四件套虚假宣传",
+      "onboard_time": 1758506660,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 131267,
@@ -2545,6 +2593,14 @@
       "onboard_time": 1758437062,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125971,
+      "num": 125971,
+      "word": "华为手表超长长长续航突破21天",
+      "onboard_time": 1758507201,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 125249,
@@ -2659,14 +2715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122183,
-      "num": 122183,
-      "word": "有钱的韩国人在上海旅行",
-      "onboard_time": 1758502641,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122093,
       "num": 122093,
       "word": "无印良品供销社穿搭风爆火",
@@ -2691,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121882,
+      "num": 121882,
+      "word": "风王桦加沙趋近广东海南",
+      "onboard_time": 1758506600,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121807,
       "num": 121807,
       "word": "韩国女子说支持以色列遭吐口水",
@@ -2705,6 +2761,14 @@
       "onboard_time": 1758428061,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121486,
+      "num": 287444,
+      "word": "这是1995年想象中的2025吗",
+      "onboard_time": 1758507261,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121415,
@@ -2795,14 +2859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117783,
-      "num": 117783,
-      "word": "新iPhone导入微信记录提示空间不足",
-      "onboard_time": 1758504201,
-      "rank": 39,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 117683,
       "num": 117683,
       "word": "男子公厕偷拍被抓不断求饶",
@@ -2849,6 +2905,14 @@
       "onboard_time": 1758453801,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116481,
+      "num": 116481,
+      "word": "已查封7389套问题家纺四件套",
+      "onboard_time": 1758507441,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 116314,
@@ -2907,6 +2971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113604,
+      "num": 113604,
+      "word": "英国为何急于承认巴勒斯坦国",
+      "onboard_time": 1758501562,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113162,
       "num": 151898,
       "word": "韩东君昨天季军今天冠军",
@@ -2947,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112370,
+      "num": 192230,
+      "word": "中国探险协会就始祖鸟烟花事件发声",
+      "onboard_time": 1758505702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111145,
       "num": 111145,
       "word": "小猫猫 这衣服欺负我",
@@ -2977,14 +3057,6 @@
       "onboard_time": 1758427282,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110317,
-      "num": 110317,
-      "word": "英国为何急于承认巴勒斯坦国",
-      "onboard_time": 1758501562,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109994,
@@ -3033,14 +3105,6 @@
       "onboard_time": 1758357921,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 106657,
-      "num": 106657,
-      "word": "刘强东10年1元年薪约定到期",
-      "onboard_time": 1758506241,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 105921,
@@ -3128,6 +3192,14 @@
       "word": "皮亚斯特里的观赛位置",
       "onboard_time": 1758458122,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100594,
+      "num": 100594,
+      "word": "郑钦文确定参加中网",
+      "onboard_time": 1758507560,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -3379,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86022,
+      "num": 873122,
+      "word": "你没想到的新疆",
+      "onboard_time": 1758503601,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85633,
       "num": 89310,
       "word": "焦虑症vs抑郁症vs自闭症",
@@ -3507,14 +3587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75104,
-      "num": 873122,
-      "word": "你没想到的新疆",
-      "onboard_time": 1758503601,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74739,
       "num": 156254,
       "word": "唐九洲向韩国人安利汉服",
@@ -3593,6 +3665,14 @@
       "onboard_time": 1758381204,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64948,
+      "num": 156331,
+      "word": "喜马拉雅烟花秀争议警示整个行业",
+      "onboard_time": 1758506962,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63900,
@@ -3681,6 +3761,14 @@
       "onboard_time": 1758438501,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55066,
+      "num": 98122,
+      "word": "张杰 月亮之上",
+      "onboard_time": 1758500841,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 54396,
@@ -3872,14 +3960,6 @@
       "word": "女孩饮酒后跳江酒友被判赔9千",
       "onboard_time": 1758415823,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41699,
-      "num": 192230,
-      "word": "中国探险协会就始祖鸟烟花事件发声",
-      "onboard_time": 1758505702,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

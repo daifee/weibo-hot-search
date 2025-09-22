@@ -1,0 +1,410 @@
+{
+  "runTime": 1758507586261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 798919,
+        "num": 1127827,
+        "word": "以色列总理发视频威胁",
+        "onboard_time": 1758504442,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 767693,
+        "num": 767693,
+        "word": "花少7埃及站被坑",
+        "onboard_time": 1758498860,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86022,
+        "num": 713754,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758503601,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703423,
+        "num": 703423,
+        "word": "王俊凯回复王源易烊千玺",
+        "onboard_time": 1758497659,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385558,
+        "num": 385558,
+        "word": "内蒙古一地集中采集男性居民血样",
+        "onboard_time": 1758505761,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358927,
+        "num": 358927,
+        "word": "超强台风桦加沙最新路径公布",
+        "onboard_time": 1758501262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640485,
+        "num": 351653,
+        "word": "iPhone17首批用户吐槽不断",
+        "onboard_time": 1758500482,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 329911,
+        "num": 329911,
+        "word": "马斯克与特朗普闹掰后再同框",
+        "onboard_time": 1758500181,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303791,
+        "num": 303791,
+        "word": "广东江门全市五停",
+        "onboard_time": 1758503243,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299358,
+        "num": 299358,
+        "word": "今年以来最强台风来袭",
+        "onboard_time": 1758462444,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1906271,
+        "num": 299121,
+        "word": "始祖鸟",
+        "onboard_time": 1758497598,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1001978,
+        "num": 297272,
+        "word": "王冕官宣怀孕",
+        "onboard_time": 1758497781,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683688,
+        "num": 294454,
+        "word": "我的阿勒泰作者谴责始祖鸟烟花秀",
+        "onboard_time": 1758506061,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652653,
+        "num": 292918,
+        "word": "快30了身高从165厘米长到171厘米",
+        "onboard_time": 1758501803,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 475725,
+        "num": 291749,
+        "word": "金晨剪彩时扔彩头",
+        "onboard_time": 1758500902,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385711,
+        "num": 290998,
+        "word": "台湾大学生被韩国人扇巴掌",
+        "onboard_time": 1758501381,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214757,
+        "num": 289445,
+        "word": "成毅林更新 进组",
+        "onboard_time": 1758507141,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121486,
+        "num": 287444,
+        "word": "这是1995年想象中的2025吗",
+        "onboard_time": 1758507261,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167906,
+        "num": 284540,
+        "word": "黄灿灿应了罗予彤的话",
+        "onboard_time": 1758499882,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284496,
+        "num": 284496,
+        "word": "花神沈月",
+        "onboard_time": 1758505221,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270697,
+        "num": 270697,
+        "word": "懒羊羊睡觉是把角取下来的",
+        "onboard_time": 1758498020,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 264644,
+        "num": 264644,
+        "word": "安踏股价大跌",
+        "onboard_time": 1758505461,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242002,
+        "num": 242002,
+        "word": "刘强东10年1元年薪约定到期",
+        "onboard_time": 1758506241,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225175,
+        "num": 225175,
+        "word": "秋日造型的精髓是毛衣叠穿",
+        "onboard_time": 1758507021,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167879,
+        "num": 167879,
+        "word": "央视起底直播间高端四件套猫腻",
+        "onboard_time": 1758467485,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159139,
+        "num": 159139,
+        "word": "易烊千玺给王俊凯的生日祝福",
+        "onboard_time": 1758467365,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158412,
+        "num": 158412,
+        "word": "黄灿灿 张振",
+        "onboard_time": 1758459803,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153595,
+        "num": 157924,
+        "word": "日本在呼伦贝尔建的细菌实验基地",
+        "onboard_time": 1758502403,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110516,
+        "num": 156949,
+        "word": "刘宇宁看到了自己的来时路",
+        "onboard_time": 1758500061,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64948,
+        "num": 156331,
+        "word": "喜马拉雅烟花秀争议警示整个行业",
+        "onboard_time": 1758506962,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153049,
+        "num": 155210,
+        "word": "以色列总理称从美回国后必作回应",
+        "onboard_time": 1758502761,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155117,
+        "num": 155117,
+        "word": "固态电池真的要来了吗",
+        "onboard_time": 1758503123,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144008,
+        "num": 144008,
+        "word": "新iPhone导入微信记录提示空间不足",
+        "onboard_time": 1758504201,
+        "rank": 32,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 134570,
+        "num": 134570,
+        "word": "有钱的韩国人在上海旅行",
+        "onboard_time": 1758502641,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131575,
+        "num": 131575,
+        "word": "南通通报家纺四件套虚假宣传",
+        "onboard_time": 1758506660,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112370,
+        "num": 129652,
+        "word": "中国探险协会就始祖鸟烟花事件发声",
+        "onboard_time": 1758505702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128474,
+        "num": 128474,
+        "word": "00后女子醉驾撞死3人案将开庭",
+        "onboard_time": 1758467786,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127636,
+        "num": 127636,
+        "word": "印度人慌了",
+        "onboard_time": 1758498321,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125971,
+        "num": 125971,
+        "word": "华为手表超长长长续航突破21天",
+        "onboard_time": 1758507201,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 67822,
+        "num": 122256,
+        "word": "向往的生活gap了一下",
+        "onboard_time": 1758471741,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122199,
+        "num": 122199,
+        "word": "安踏",
+        "onboard_time": 1758500902,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121882,
+        "num": 121882,
+        "word": "风王桦加沙趋近广东海南",
+        "onboard_time": 1758506600,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120580,
+        "num": 120580,
+        "word": "特朗普将出席柯克追悼会",
+        "onboard_time": 1758497720,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116481,
+        "num": 116481,
+        "word": "已查封7389套问题家纺四件套",
+        "onboard_time": 1758507441,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 113831,
+        "num": 113831,
+        "word": "美国飞行员因拒绝飞往以色列被捕",
+        "onboard_time": 1758501803,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113604,
+        "num": 113604,
+        "word": "英国为何急于承认巴勒斯坦国",
+        "onboard_time": 1758501562,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104262,
+        "num": 104262,
+        "word": "LPR",
+        "onboard_time": 1758503841,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102017,
+        "num": 102017,
+        "word": "风云四号卫星带你看台风桦加沙",
+        "onboard_time": 1758503542,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100594,
+        "num": 100594,
+        "word": "郑钦文确定参加中网",
+        "onboard_time": 1758507560,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55066,
+        "num": 98122,
+        "word": "张杰 月亮之上",
+        "onboard_time": 1758500841,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈制造业高质量发展#"
+    }
+  }
+}
