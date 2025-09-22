@@ -1,0 +1,410 @@
+{
+  "runTime": 1758515404666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907871,
+        "num": 1145259,
+        "word": "以色列总理发视频威胁",
+        "onboard_time": 1758504442,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 850958,
+        "num": 850958,
+        "word": "见到这种紫色保温壶立即报警",
+        "onboard_time": 1758509601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77268,
+        "num": 713935,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758503601,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 873603,
+        "num": 696339,
+        "word": "李乃文剪彩后把彩头扔了",
+        "onboard_time": 1758509181,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626897,
+        "num": 626897,
+        "word": "金正恩强调朝鲜不会无核化",
+        "onboard_time": 1758510440,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 549533,
+        "num": 549533,
+        "word": "成毅林更新 进组",
+        "onboard_time": 1758507141,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428954,
+        "num": 428954,
+        "word": "超强台风桦加沙最新路径公布",
+        "onboard_time": 1758501262,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405651,
+        "num": 405651,
+        "word": "王俊凯回复王源易烊千玺",
+        "onboard_time": 1758497659,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393259,
+        "num": 393259,
+        "word": "花少5马哥点赞",
+        "onboard_time": 1758509361,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323590,
+        "num": 392983,
+        "word": "珠海全市范围五停",
+        "onboard_time": 1758514221,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766421,
+        "num": 390521,
+        "word": "始祖鸟国内外价格对比",
+        "onboard_time": 1758512363,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578323,
+        "num": 389174,
+        "word": "王冕官宣怀孕",
+        "onboard_time": 1758497781,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50502,
+        "num": 387024,
+        "word": "蔡徐坤实力",
+        "onboard_time": 1758512060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577207,
+        "num": 385299,
+        "word": "刘芸婚后第一个放弃的是事业",
+        "onboard_time": 1758512781,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554524,
+        "num": 383276,
+        "word": "我的阿勒泰作者谴责始祖鸟烟花秀",
+        "onboard_time": 1758506061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382339,
+        "num": 382339,
+        "word": "花少7埃及站被坑",
+        "onboard_time": 1758498860,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351151,
+        "num": 351151,
+        "word": "比喝油还长肉的食物",
+        "onboard_time": 1758513682,
+        "rank": 16,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 324117,
+        "num": 324117,
+        "word": "孙颖莎 多芬",
+        "onboard_time": 1758511403,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308916,
+        "num": 308916,
+        "word": "小米17",
+        "onboard_time": 1758507981,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45634,
+        "num": 271610,
+        "word": "身家31亿元浙大教授被留置",
+        "onboard_time": 1758514823,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508643,
+        "num": 269994,
+        "word": "小米17颜值",
+        "onboard_time": 1758510260,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268168,
+        "num": 268168,
+        "word": "恋与深空",
+        "onboard_time": 1758509181,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253255,
+        "num": 253255,
+        "word": "心动的信号",
+        "onboard_time": 1758514342,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239054,
+        "num": 239054,
+        "word": "盛夏芬德拉",
+        "onboard_time": 1758514042,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227552,
+        "num": 227552,
+        "word": "快30了身高从165厘米长到171厘米",
+        "onboard_time": 1758501803,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216482,
+        "num": 216482,
+        "word": "angelababy黄灿灿早期同框",
+        "onboard_time": 1758514102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200090,
+        "num": 200090,
+        "word": "时代少年团椰子水",
+        "onboard_time": 1758514702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198959,
+        "num": 198959,
+        "word": "没认出来这是王阳",
+        "onboard_time": 1758514643,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195317,
+        "num": 195317,
+        "word": "金靖奔着不做饭找的老公",
+        "onboard_time": 1758513262,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46351,
+        "num": 192125,
+        "word": "谁在为昂贵的国际学校买单",
+        "onboard_time": 1758513743,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 632284,
+        "num": 192115,
+        "word": "刘强东10年1元年薪约定到期",
+        "onboard_time": 1758506241,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206718,
+        "num": 192106,
+        "word": "谢娜女儿跳跳也有自己的代言人了",
+        "onboard_time": 1758514763,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192052,
+        "num": 192052,
+        "word": "年轻人已经卷到装修赛道了",
+        "onboard_time": 1758509901,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192008,
+        "num": 192008,
+        "word": "南派三叔云顶天宫你重拍没",
+        "onboard_time": 1758514462,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188228,
+        "num": 188228,
+        "word": "立讯精密一字涨停",
+        "onboard_time": 1758514282,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180338,
+        "num": 180338,
+        "word": "陆毅提议鲍蕾陈乔恩一起睡",
+        "onboard_time": 1758507621,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179005,
+        "num": 179005,
+        "word": "王源官宣WMA",
+        "onboard_time": 1758514882,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37681,
+        "num": 178296,
+        "word": "368元美心月饼假货卖70元",
+        "onboard_time": 1758514882,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36449,
+        "num": 178040,
+        "word": "于正四天掉了二斤多",
+        "onboard_time": 1758515305,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177895,
+        "num": 177895,
+        "word": "今年以来最强台风来袭",
+        "onboard_time": 1758462444,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164172,
+        "num": 164172,
+        "word": "樊振东现场观战英超",
+        "onboard_time": 1758515240,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163217,
+        "num": 163217,
+        "word": "王楚钦祝隔壁老樊越来越好",
+        "onboard_time": 1758512723,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161566,
+        "num": 161566,
+        "word": "风王桦加沙体型比广东省还大",
+        "onboard_time": 1758515240,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153897,
+        "num": 153897,
+        "word": "家住在55楼是种什么体验",
+        "onboard_time": 1758514402,
+        "rank": 43,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 58451,
+        "num": 153061,
+        "word": "三问蔡国强烟花秀",
+        "onboard_time": 1758513743,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153041,
+        "num": 153041,
+        "word": "特朗普追悼会拥抱柯克遗孀被批作秀",
+        "onboard_time": 1758511941,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150623,
+        "num": 150623,
+        "word": "台风桦加沙或多次登陆",
+        "onboard_time": 1758511881,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148979,
+        "num": 148979,
+        "word": "开始跳舞吧官宣全C导师阵容",
+        "onboard_time": 1758511282,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145021,
+        "num": 145021,
+        "word": "深圳865个应急避难场所已准备好",
+        "onboard_time": 1758510560,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141560,
+        "num": 141560,
+        "word": "赵今麦 大麦",
+        "onboard_time": 1758508761,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈制造业高质量发展#"
+    }
+  }
+}

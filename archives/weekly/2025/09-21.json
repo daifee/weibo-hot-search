@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758513160292,
+  "endTime": 1758515404666,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -251,6 +251,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 873603,
+      "num": 714774,
+      "word": "李乃文剪彩后把彩头扔了",
+      "onboard_time": 1758509181,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 850958,
+      "num": 850958,
+      "word": "见到这种紫色保温壶立即报警",
+      "onboard_time": 1758509601,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848621,
       "num": 801574,
       "word": "王俊凯回复王源易烊千玺",
@@ -273,14 +289,6 @@
       "onboard_time": 1758507141,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 816382,
-      "num": 714774,
-      "word": "李乃文剪彩后把彩头扔了",
-      "onboard_time": 1758509181,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 812532,
@@ -345,6 +353,14 @@
       "onboard_time": 1758498860,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 766421,
+      "num": 390521,
+      "word": "始祖鸟国内外价格对比",
+      "onboard_time": 1758512363,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 750924,
@@ -467,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 626897,
+      "num": 626897,
+      "word": "金正恩强调朝鲜不会无核化",
+      "onboard_time": 1758510440,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 617994,
       "num": 516142,
       "word": "雷军转发了王一博",
       "onboard_time": 1758447562,
       "rank": 7,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 617539,
-      "num": 617539,
-      "word": "见到这种紫色保温壶立即报警",
-      "onboard_time": 1758509601,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 614891,
@@ -529,6 +545,14 @@
       "onboard_time": 1758428240,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 577207,
+      "num": 385299,
+      "word": "刘芸婚后第一个放弃的是事业",
+      "onboard_time": 1758512781,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 568881,
@@ -601,6 +625,14 @@
       "onboard_time": 1758509361,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508643,
+      "num": 311434,
+      "word": "小米17颜值",
+      "onboard_time": 1758510260,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 505616,
@@ -739,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403387,
-      "num": 477914,
-      "word": "金正恩强调朝鲜不会无核化",
-      "onboard_time": 1758510440,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 401890,
       "num": 430904,
       "word": "蔡国强称如确影响环境将全力补救",
@@ -859,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351151,
+      "num": 351151,
+      "word": "比喝油还长肉的食物",
+      "onboard_time": 1758513682,
+      "rank": 16,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 338211,
       "num": 338211,
       "word": "陈赫把李乃文薅进综艺圈了",
@@ -891,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323590,
+      "num": 392983,
+      "word": "珠海全市范围五停",
+      "onboard_time": 1758514221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320333,
       "num": 320333,
       "word": "美以拦不住了",
@@ -913,14 +953,6 @@
       "onboard_time": 1758369862,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311434,
-      "num": 311434,
-      "word": "小米17颜值",
-      "onboard_time": 1758510260,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 306991,
@@ -1139,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253255,
+      "num": 253255,
+      "word": "心动的信号",
+      "onboard_time": 1758514342,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252273,
       "num": 252273,
       "word": "云秀行",
@@ -1232,6 +1272,14 @@
       "word": "白敬亭文咏珊不眠日吻戏",
       "onboard_time": 1758376883,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239054,
+      "num": 239054,
+      "word": "盛夏芬德拉",
+      "onboard_time": 1758514042,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1347,12 +1395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216226,
-      "num": 192976,
-      "word": "始祖鸟国内外价格对比",
-      "onboard_time": 1758512363,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 216482,
+      "num": 216482,
+      "word": "angelababy黄灿灿早期同框",
+      "onboard_time": 1758514102,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 215179,
@@ -1456,6 +1504,14 @@
       "word": "王俊凯 请欣赏大师炫技之作",
       "onboard_time": 1758424882,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206718,
+      "num": 192106,
+      "word": "谢娜女儿跳跳也有自己的代言人了",
+      "onboard_time": 1758514763,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1571,12 +1627,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200090,
+      "num": 200090,
+      "word": "时代少年团椰子水",
+      "onboard_time": 1758514702,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199479,
       "num": 199479,
       "word": "白鹿直播",
       "onboard_time": 1758373703,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198959,
+      "num": 198959,
+      "word": "没认出来这是王阳",
+      "onboard_time": 1758514643,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 197601,
@@ -1635,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195317,
+      "num": 195317,
+      "word": "金靖奔着不做饭找的老公",
+      "onboard_time": 1758513262,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194868,
       "num": 194868,
       "word": "穆祉丞直播",
@@ -1656,6 +1736,22 @@
       "word": "疾风劲草阵容官宣",
       "onboard_time": 1758425722,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192052,
+      "num": 192052,
+      "word": "年轻人已经卷到装修赛道了",
+      "onboard_time": 1758509901,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 192008,
+      "num": 192008,
+      "word": "南派三叔云顶天宫你重拍没",
+      "onboard_time": 1758514462,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1721,6 +1817,14 @@
       "onboard_time": 1758461061,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188228,
+      "num": 188228,
+      "word": "立讯精密一字涨停",
+      "onboard_time": 1758514282,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 188133,
@@ -1793,14 +1897,6 @@
       "onboard_time": 1758461483,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183224,
-      "num": 183224,
-      "word": "年轻人已经卷到装修赛道了",
-      "onboard_time": 1758509901,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 183166,
@@ -1883,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179005,
+      "num": 179005,
+      "word": "王源官宣WMA",
+      "onboard_time": 1758514882,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178424,
       "num": 178424,
       "word": "iPhone17基础款性能超越16Pro",
@@ -1905,14 +2009,6 @@
       "onboard_time": 1758466945,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 177856,
-      "num": 357344,
-      "word": "刘芸婚后第一个放弃的是事业",
-      "onboard_time": 1758512781,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 177830,
@@ -2083,6 +2179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 164172,
+      "num": 164172,
+      "word": "樊振东现场观战英超",
+      "onboard_time": 1758515240,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162802,
       "num": 162802,
       "word": "咱们家风扇坏了当事人今日结婚",
@@ -2113,6 +2217,14 @@
       "onboard_time": 1758462627,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161566,
+      "num": 161566,
+      "word": "风王桦加沙体型比广东省还大",
+      "onboard_time": 1758515240,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161302,
@@ -2283,6 +2395,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 153897,
+      "num": 153897,
+      "word": "家住在55楼是种什么体验",
+      "onboard_time": 1758514402,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 153758,
       "num": 153758,
       "word": "偷偷藏不住再版",
@@ -2312,6 +2432,14 @@
       "word": "以色列总理称从美回国后必作回应",
       "onboard_time": 1758502761,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 153041,
+      "num": 153041,
+      "word": "特朗普追悼会拥抱柯克遗孀被批作秀",
+      "onboard_time": 1758511941,
+      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -2369,6 +2497,14 @@
       "onboard_time": 1758511282,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 150623,
+      "num": 355968,
+      "word": "台风桦加沙或多次登陆",
+      "onboard_time": 1758511881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148774,
@@ -3747,14 +3883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86990,
-      "num": 355968,
-      "word": "台风桦加沙或多次登陆",
-      "onboard_time": 1758511881,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86242,
       "num": 119176,
       "word": "可惜我叫谢霆锋 不叫谢停雨",
@@ -3923,14 +4051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75902,
-      "num": 131752,
-      "word": "特朗普追悼会拥抱柯克遗孀被批作秀",
-      "onboard_time": 1758511941,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74739,
       "num": 156254,
       "word": "唐九洲向韩国人安利汉服",
@@ -4091,6 +4211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58451,
+      "num": 153061,
+      "word": "三问蔡国强烟花秀",
+      "onboard_time": 1758513743,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57202,
       "num": 137596,
       "word": "母亲在直播间花4万女儿发声",
@@ -4203,6 +4331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50502,
+      "num": 471383,
+      "word": "蔡徐坤实力",
+      "onboard_time": 1758512060,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48103,
       "num": 144519,
       "word": "部分高端四件套全靠吹",
@@ -4243,6 +4379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46351,
+      "num": 192125,
+      "word": "谁在为昂贵的国际学校买单",
+      "onboard_time": 1758513743,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 46287,
       "num": 123321,
       "word": "搜狐视频关注流大会",
@@ -4259,6 +4403,14 @@
       "category": "电影,音乐"
     },
     {
+      "raw_hot": 45634,
+      "num": 271610,
+      "word": "身家31亿元浙大教授被留置",
+      "onboard_time": 1758514823,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44470,
       "num": 174020,
       "word": "年薪几百万博士高管从房企辞职",
@@ -4273,14 +4425,6 @@
       "onboard_time": 1758446482,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 43735,
-      "num": 471383,
-      "word": "蔡徐坤实力",
-      "onboard_time": 1758512060,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 43699,
@@ -4353,6 +4497,22 @@
       "onboard_time": 1758432861,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37681,
+      "num": 178296,
+      "word": "368元美心月饼假货卖70元",
+      "onboard_time": 1758514882,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36449,
+      "num": 178040,
+      "word": "于正四天掉了二斤多",
+      "onboard_time": 1758515305,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 35754,
