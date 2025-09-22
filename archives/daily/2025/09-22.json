@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758523134127,
+  "endTime": 1758523889698,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -16,6 +16,14 @@
       "word": "始祖鸟",
       "onboard_time": 1758497598,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1469456,
+      "num": 1469456,
+      "word": "万豪酒店承认拖鞋循环多次使用",
+      "onboard_time": 1758519502,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -43,14 +51,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1041289,
-      "num": 1166606,
-      "word": "万豪酒店承认拖鞋循环多次使用",
-      "onboard_time": 1758519502,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1037829,
       "num": 503695,
       "word": "我的阿勒泰作者谴责始祖鸟烟花秀",
@@ -65,6 +65,14 @@
       "onboard_time": 1758497781,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 988464,
+      "num": 988464,
+      "word": "台风",
+      "onboard_time": 1758522681,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 961537,
@@ -163,6 +171,14 @@
       "category": "艺人,网红"
     },
     {
+      "raw_hot": 729246,
+      "num": 729246,
+      "word": "花少5马哥",
+      "onboard_time": 1758520581,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702107,
       "num": 899993,
       "word": "安踏回应始祖鸟炸山风波",
@@ -211,12 +227,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 625178,
-      "num": 625178,
-      "word": "花少5马哥",
-      "onboard_time": 1758520581,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 619657,
+      "num": 619657,
+      "word": "广东或大范围停工",
+      "onboard_time": 1758516323,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 604654,
@@ -227,11 +243,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 577916,
-      "num": 577916,
-      "word": "广东或大范围停工",
-      "onboard_time": 1758516323,
-      "rank": 4,
+      "raw_hot": 590530,
+      "num": 590530,
+      "word": "超强台风桦加沙位置更新",
+      "onboard_time": 1758518663,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 568460,
-      "num": 249805,
+      "num": 287922,
       "word": "陈乔恩 我爱干嘛就干嘛",
       "onboard_time": 1758519202,
       "rank": 22,
@@ -265,14 +281,6 @@
       "onboard_time": 1758505761,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 554625,
-      "num": 554625,
-      "word": "超强台风桦加沙位置更新",
-      "onboard_time": 1758518663,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 544630,
@@ -328,14 +336,6 @@
       "word": "长租15年不到1年就被劝退",
       "onboard_time": 1758466586,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 426622,
-      "num": 426622,
-      "word": "台风",
-      "onboard_time": 1758522681,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -459,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298349,
+      "num": 298349,
+      "word": "张晚意没有经纪公司",
+      "onboard_time": 1758522322,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289307,
+      "num": 289307,
+      "word": "广东省内所有高铁停运",
+      "onboard_time": 1758522982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284496,
       "num": 284496,
       "word": "花神沈月",
@@ -513,6 +529,14 @@
       "onboard_time": 1758511222,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238015,
+      "num": 238015,
+      "word": "这居然是白敬亭31岁的状态",
+      "onboard_time": 1758523102,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 236183,
@@ -635,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205227,
+      "num": 173392,
+      "word": "在日本因穿着暴露被饭店赶出",
+      "onboard_time": 1758523522,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 204183,
       "num": 204183,
       "word": "任国超怎么能争气成这样",
@@ -723,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186572,
+      "num": 287244,
+      "word": "邢菲 妈妈我为家乡争光了",
+      "onboard_time": 1758523282,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186465,
       "num": 239234,
       "word": "银河左岸",
@@ -747,19 +787,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 184467,
-      "num": 184467,
-      "word": "张晚意没有经纪公司",
-      "onboard_time": 1758522322,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181276,
       "num": 305212,
       "word": "官方通报吃日料在三文鱼上发现活虫",
       "onboard_time": 1758517283,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181105,
+      "num": 181105,
+      "word": "网传始祖鸟上个月就做了炸山测试",
+      "onboard_time": 1758522501,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -843,12 +883,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166452,
+      "num": 256214,
+      "word": "台风桦加沙将严重影响江门市",
+      "onboard_time": 1758504981,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165571,
       "num": 506891,
       "word": "深圳865个应急避难场所已准备好",
       "onboard_time": 1758510560,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165426,
+      "num": 179794,
+      "word": "马柏全 百雀羚",
+      "onboard_time": 1758523401,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 165063,
@@ -865,6 +921,14 @@
       "onboard_time": 1758454761,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163076,
+      "num": 242200,
+      "word": "鸡排主理人",
+      "onboard_time": 1758522022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161302,
@@ -889,14 +953,6 @@
       "onboard_time": 1758512602,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158407,
-      "num": 158407,
-      "word": "广东省内所有高铁停运",
-      "onboard_time": 1758522982,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155654,
@@ -1000,14 +1056,6 @@
       "word": "台风桦加沙或多次登陆",
       "onboard_time": 1758511881,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147723,
-      "num": 147723,
-      "word": "网传始祖鸟上个月就做了炸山测试",
-      "onboard_time": 1758522501,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1131,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134350,
-      "num": 256214,
-      "word": "台风桦加沙将严重影响江门市",
-      "onboard_time": 1758504981,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133647,
       "num": 133647,
       "word": "大风暴雨即将抵达广东",
@@ -1152,6 +1192,14 @@
       "word": "11岁男孩捉迷藏坠入10多米深井身亡",
       "onboard_time": 1758467124,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132875,
+      "num": 132875,
+      "word": "和平鸽落在天安门广场大花篮上",
+      "onboard_time": 1758522501,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1267,12 +1315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123309,
-      "num": 123309,
-      "word": "这居然是白敬亭31岁的状态",
-      "onboard_time": 1758523102,
+      "raw_hot": 122357,
+      "num": 122357,
+      "word": "王乐晨主动抱住卢远",
+      "onboard_time": 1758523401,
       "rank": 46,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 121882,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1758501562,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113299,
+      "num": 148033,
+      "word": "这不是商战这是肖战",
+      "onboard_time": 1758522441,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 112370,
@@ -1571,14 +1627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 79669,
-      "num": 242200,
-      "word": "鸡排主理人",
-      "onboard_time": 1758522022,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78855,
       "num": 140666,
       "word": "警察和抗议的妻子面对面",
@@ -1628,19 +1676,11 @@
     },
     {
       "raw_hot": 73447,
-      "num": 147853,
+      "num": 161456,
       "word": "中华体育精神绽放雪域高原",
       "onboard_time": 1758520463,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73087,
-      "num": 148033,
-      "word": "这不是商战这是肖战",
-      "onboard_time": 1758522441,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 73046,
@@ -1675,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68632,
+      "num": 162985,
+      "word": "黄灿灿早期武大樱花树写真",
+      "onboard_time": 1758522742,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67827,
       "num": 186297,
       "word": "相机租赁火了",
@@ -1691,14 +1739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 65057,
-      "num": 153473,
-      "word": "黄灿灿早期武大樱花树写真",
-      "onboard_time": 1758522742,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64948,
       "num": 156331,
       "word": "喜马拉雅烟花秀争议警示整个行业",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1758472640,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62210,
+      "num": 178063,
+      "word": "136人吃三明治中毒的食品厂已开12年",
+      "onboard_time": 1758522681,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62125,
@@ -1744,6 +1792,22 @@
       "word": "三问蔡国强烟花秀",
       "onboard_time": 1758513743,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58281,
+      "num": 162510,
+      "word": "谁懂龚俊捧张晚意脸这一下",
+      "onboard_time": 1758523642,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57202,
+      "num": 286763,
+      "word": "今年舟山第一网鱼在京东拍卖",
+      "onboard_time": 1758522441,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1835,19 +1899,19 @@
       "category": "电影,音乐"
     },
     {
-      "raw_hot": 45438,
-      "num": 178063,
-      "word": "136人吃三明治中毒的食品厂已开12年",
-      "onboard_time": 1758522681,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43414,
       "num": 57534,
       "word": "飞机到底应不应该锁座",
       "onboard_time": 1758481034,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43143,
+      "num": 286425,
+      "word": "万豪方回应拖鞋重复使用是出于环保",
+      "onboard_time": 1758522742,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1867,11 +1931,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41968,
-      "num": 244890,
-      "word": "今年舟山第一网鱼在京东拍卖",
-      "onboard_time": 1758522441,
-      "rank": 17,
+      "raw_hot": 41826,
+      "num": 244799,
+      "word": "始祖鸟炸山这事还没完",
+      "onboard_time": 1758523582,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1897,6 +1961,14 @@
       "onboard_time": 1758516082,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37507,
+      "num": 161978,
+      "word": "00后为找前男友醉驾撞死3人",
+      "onboard_time": 1758523701,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36274,
@@ -1964,19 +2036,11 @@
     },
     {
       "raw_hot": 27020,
-      "num": 263728,
+      "num": 289179,
       "word": "和时代少年团双倍电解焕活每刻",
       "onboard_time": 1758520282,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26615,
-      "num": 237292,
-      "word": "万豪方回应拖鞋重复使用是出于环保",
-      "onboard_time": 1758522742,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25856,
@@ -1988,7 +2052,7 @@
     },
     {
       "raw_hot": 25056,
-      "num": 644962,
+      "num": 752856,
       "word": "不能错过的长春航展高能场面",
       "onboard_time": 1758503661,
       "rank": 2,
