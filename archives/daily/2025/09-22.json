@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758526756314,
+  "endTime": 1758530128916,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1630936,
+      "num": 1358439,
+      "word": "王安宇暗示高圆圆站错位置",
+      "onboard_time": 1758525981,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1559495,
       "num": 1559495,
       "word": "万豪酒店承认拖鞋循环多次使用",
@@ -27,20 +35,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1340004,
-      "num": 348356,
-      "word": "蓝战非自曝收入",
-      "onboard_time": 1758517583,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 1239979,
-      "num": 1239979,
+      "raw_hot": 1407610,
+      "num": 1407610,
       "word": "台风",
       "onboard_time": 1758522681,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1340004,
+      "num": 453896,
+      "word": "蓝战非自曝收入",
+      "onboard_time": 1758517583,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1184918,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 964753,
-      "num": 343893,
+      "num": 457779,
       "word": "在日本因穿着暴露被饭店赶出",
       "onboard_time": 1758523522,
       "rank": 30,
@@ -179,6 +187,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 735179,
+      "num": 580601,
+      "word": "黄灿灿 你不就是平台的人吗",
+      "onboard_time": 1758525081,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 731452,
       "num": 326090,
       "word": "葛夕因感染幽门螺旋杆菌暴瘦",
@@ -227,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 641564,
-      "num": 460280,
-      "word": "黄灿灿 你不就是平台的人吗",
-      "onboard_time": 1758525081,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 640485,
       "num": 631704,
       "word": "iPhone17首批用户吐槽不断",
@@ -275,11 +283,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 582527,
+      "num": 582527,
+      "word": "小米17Pro冷烟紫",
+      "onboard_time": 1758527361,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 577207,
       "num": 491505,
       "word": "刘芸婚后第一个放弃的是事业",
       "onboard_time": 1758512781,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 572471,
+      "num": 572471,
+      "word": "广东省内所有高铁停运",
+      "onboard_time": 1758522982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 570807,
+      "num": 570807,
+      "word": "李沁因买贵丝巾而自责",
+      "onboard_time": 1758525501,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -331,20 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530500,
+      "num": 457940,
+      "word": "建议所有妈妈去购买iphone17",
+      "onboard_time": 1758528022,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 513166,
       "num": 599633,
       "word": "超强台风桦加沙最新路径公布",
       "onboard_time": 1758501262,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 511333,
-      "num": 166693,
-      "word": "王安宇暗示高圆圆站错位置",
-      "onboard_time": 1758525981,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 511195,
@@ -363,11 +395,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 464337,
-      "num": 464337,
-      "word": "广东省内所有高铁停运",
-      "onboard_time": 1758522982,
-      "rank": 33,
+      "raw_hot": 461742,
+      "num": 461742,
+      "word": "东莞五停",
+      "onboard_time": 1758527963,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -523,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284255,
+      "num": 284255,
+      "word": "黄金",
+      "onboard_time": 1758525022,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 277559,
       "num": 238555,
       "word": "网传始祖鸟上个月就做了炸山测试",
@@ -553,6 +593,14 @@
       "onboard_time": 1758505461,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 255801,
+      "num": 255801,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1758528022,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 251368,
@@ -627,14 +675,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 219398,
-      "num": 219398,
-      "word": "李沁因买贵丝巾而自责",
-      "onboard_time": 1758525501,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218543,
       "num": 218543,
       "word": "黎深终末之神",
@@ -651,12 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215420,
-      "num": 215420,
-      "word": "黄金",
-      "onboard_time": 1758525022,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 216887,
+      "num": 242741,
+      "word": "阿富汗男孩爬飞机起落架抵达印度",
+      "onboard_time": 1758526762,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 216244,
+      "num": 163071,
+      "word": "美团崩了",
+      "onboard_time": 1758526642,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 215179,
@@ -779,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194285,
-      "num": 163071,
-      "word": "美团崩了",
-      "onboard_time": 1758526642,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 192052,
       "num": 192052,
       "word": "年轻人已经卷到装修赛道了",
@@ -817,6 +857,14 @@
       "onboard_time": 1758524843,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190235,
+      "num": 190235,
+      "word": "西藏自治区就烟花秀事件开专题会",
+      "onboard_time": 1758525803,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189030,
@@ -931,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173529,
+      "num": 173529,
+      "word": "陈紫函自曝因长期分居婚姻亮红灯",
+      "onboard_time": 1758524781,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172646,
       "num": 172646,
       "word": "年薪1.67亿的清华学霸仍然在逃",
@@ -953,6 +1009,14 @@
       "onboard_time": 1758526042,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169191,
+      "num": 169191,
+      "word": "赴山海莲花楼 服装",
+      "onboard_time": 1758524843,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 168722,
@@ -1043,14 +1107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159137,
-      "num": 159137,
-      "word": "赴山海莲花楼 服装",
-      "onboard_time": 1758524843,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155654,
       "num": 331826,
       "word": "美方回应重要盟友承认巴勒斯坦国",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1758514402,
       "rank": 43,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 153894,
-      "num": 153894,
-      "word": "西藏自治区就烟花秀事件开专题会",
-      "onboard_time": 1758525803,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153049,
@@ -1339,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133693,
+      "num": 184319,
+      "word": "特朗普回应与马斯克闹掰后握手",
+      "onboard_time": 1758526400,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133647,
       "num": 133647,
       "word": "大风暴雨即将抵达广东",
@@ -1435,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127459,
+      "num": 127459,
+      "word": "王者荣耀",
+      "onboard_time": 1758527781,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126533,
       "num": 126533,
       "word": "鹅鸭杀不限号测试定档",
@@ -1515,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115425,
+      "num": 115425,
+      "word": "盛夏芬德拉 浴缸吻",
+      "onboard_time": 1758529281,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115243,
       "num": 115243,
       "word": "韩东君晒和王一博许魏洲合照",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1758459203,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111944,
+      "num": 111944,
+      "word": "十四五成就",
+      "onboard_time": 1758527001,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111907,
@@ -1635,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105242,
+      "num": 243552,
+      "word": "深圳全市明后天停课",
+      "onboard_time": 1758529402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105185,
       "num": 105185,
       "word": "年轻人也开始记忆力下降",
@@ -1649,6 +1737,14 @@
       "onboard_time": 1758505702,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101775,
+      "num": 101775,
+      "word": "女子凌晨街头产子赤脚抱婴儿",
+      "onboard_time": 1758529402,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101223,
@@ -1723,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94477,
+      "num": 156853,
+      "word": "新iPhone如何正确充电",
+      "onboard_time": 1758529882,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94427,
       "num": 97509,
       "word": "墨西哥阅兵现场军犬没忍住",
@@ -1731,12 +1835,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94097,
+      "num": 94097,
+      "word": "你的工资没有被喜欢这一项",
+      "onboard_time": 1758529581,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 94069,
+      "num": 94069,
+      "word": "辅导员 我有丰富的中译中经验",
+      "onboard_time": 1758529521,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92913,
       "num": 92913,
       "word": "李湘王诗龄看秀路透",
       "onboard_time": 1758491234,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92224,
+      "num": 92224,
+      "word": "广州天气",
+      "onboard_time": 1758530001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91473,
@@ -1756,7 +1884,7 @@
     },
     {
       "raw_hot": 89812,
-      "num": 208791,
+      "num": 245760,
       "word": "天玑9500里藏了vivo什么秘密",
       "onboard_time": 1758526462,
       "rank": 21,
@@ -1851,6 +1979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77691,
+      "num": 112889,
+      "word": "刘涛说关晓彤的腿是特效做的",
+      "onboard_time": 1758529641,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77362,
       "num": 145256,
       "word": "张馨予这是真妈妈",
@@ -1873,14 +2009,6 @@
       "onboard_time": 1758471321,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 75790,
-      "num": 184319,
-      "word": "特朗普回应与马斯克闹掰后握手",
-      "onboard_time": 1758526400,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73671,
@@ -2009,6 +2137,14 @@
       "onboard_time": 1758512482,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60237,
+      "num": 111188,
+      "word": "王安宇提醒高圆圆站错位置",
+      "onboard_time": 1758528503,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 58983,
@@ -2203,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36913,
+      "num": 158941,
+      "word": "享界S9T开启首批交付",
+      "onboard_time": 1758528321,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36274,
       "num": 235757,
       "word": "安踏真的理解重金收购的品牌吗",
@@ -2323,6 +2467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19041,
+      "num": 911949,
+      "word": "战机在祖国一秒变孩子王",
+      "onboard_time": 1758498921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18713,
       "num": 25482,
       "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
@@ -2388,6 +2540,9 @@
     },
     {
       "word": "#情暖天山气象新#"
+    },
+    {
+      "word": "#向全国广大农民致以节日祝贺#"
     }
   ]
 }
