@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758525991433,
+  "endTime": 1758526756314,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -225,6 +225,14 @@
       "onboard_time": 1758357562,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 964753,
+      "num": 343893,
+      "word": "在日本因穿着暴露被饭店赶出",
+      "onboard_time": 1758523522,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 963988,
@@ -547,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 641564,
+      "num": 460280,
+      "word": "黄灿灿 你不就是平台的人吗",
+      "onboard_time": 1758525081,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640485,
       "num": 631704,
       "word": "iPhone17首批用户吐槽不断",
@@ -601,14 +617,6 @@
       "onboard_time": 1758423501,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605791,
-      "num": 339818,
-      "word": "在日本因穿着暴露被饭店赶出",
-      "onboard_time": 1758523522,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 604654,
@@ -745,6 +753,14 @@
       "onboard_time": 1758501262,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511333,
+      "num": 166693,
+      "word": "王安宇暗示高圆圆站错位置",
+      "onboard_time": 1758525981,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 511195,
@@ -1179,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281361,
-      "num": 281361,
-      "word": "黄灿灿 你不就是平台的人吗",
-      "onboard_time": 1758525081,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281260,
       "num": 281260,
       "word": "预制菜要有国标了",
@@ -1203,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277559,
+      "num": 238555,
+      "word": "网传始祖鸟上个月就做了炸山测试",
+      "onboard_time": 1758522501,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275633,
       "num": 275633,
       "word": "始祖鸟客服回应烟花争议",
@@ -1211,12 +1227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273277,
-      "num": 238555,
-      "word": "网传始祖鸟上个月就做了炸山测试",
-      "onboard_time": 1758522501,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 274702,
+      "num": 274702,
+      "word": "周杰伦 有一堆歌已经写好了",
+      "onboard_time": 1758524361,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 272356,
@@ -1329,14 +1345,6 @@
       "onboard_time": 1758413359,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 255666,
-      "num": 255666,
-      "word": "周杰伦 有一堆歌已经写好了",
-      "onboard_time": 1758524361,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 254383,
@@ -1571,6 +1579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219398,
+      "num": 219398,
+      "word": "李沁因买贵丝巾而自责",
+      "onboard_time": 1758525501,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218543,
       "num": 218543,
       "word": "黎深终末之神",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1758514102,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215420,
+      "num": 215420,
+      "word": "黄金",
+      "onboard_time": 1758525022,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 215179,
@@ -1681,14 +1705,6 @@
       "onboard_time": 1758440662,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207507,
-      "num": 207507,
-      "word": "黄金",
-      "onboard_time": 1758525022,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 207151,
@@ -1939,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194285,
+      "num": 163071,
+      "word": "美团崩了",
+      "onboard_time": 1758526642,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 193692,
       "num": 193692,
       "word": "我想看黄圣依再演古装但不是这种",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1758458782,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191598,
+      "num": 191598,
+      "word": "学生吃免费汤饭疑被校长骂臭要饭",
+      "onboard_time": 1758524843,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191267,
@@ -2152,6 +2184,14 @@
       "word": "白桃星座",
       "onboard_time": 1758467725,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 182595,
+      "num": 182595,
+      "word": "开车是件很费心思的事",
+      "onboard_time": 1758526400,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -2379,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169325,
+      "num": 169325,
+      "word": "程潇又在选秀综艺里当导师了",
+      "onboard_time": 1758526042,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169291,
       "num": 2202840,
       "word": "石榴红了满天山",
@@ -2603,6 +2651,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 159137,
+      "num": 159137,
+      "word": "赴山海莲花楼 服装",
+      "onboard_time": 1758524843,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158941,
       "num": 231447,
       "word": "大爷卖水卖到周杰伦演唱会现场",
@@ -2651,14 +2707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155749,
-      "num": 155749,
-      "word": "学生吃免费汤饭疑被校长骂臭要饭",
-      "onboard_time": 1758524843,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155654,
       "num": 331826,
       "word": "美方回应重要盟友承认巴勒斯坦国",
@@ -2681,6 +2729,14 @@
       "onboard_time": 1758503123,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 155023,
+      "num": 250731,
+      "word": "全球风王桦加沙直逼香港",
+      "onboard_time": 1758524542,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154781,
@@ -2729,6 +2785,14 @@
       "onboard_time": 1758514402,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 153894,
+      "num": 153894,
+      "word": "西藏自治区就烟花秀事件开专题会",
+      "onboard_time": 1758525803,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153758,
@@ -2899,6 +2963,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 146825,
+      "num": 169125,
+      "word": "遭体罚学生家长吃过量安眠药被抢救",
+      "onboard_time": 1758524662,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146539,
       "num": 146539,
       "word": "wei",
@@ -2929,6 +3001,14 @@
       "onboard_time": 1758384142,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145244,
+      "num": 359287,
+      "word": "和平鸽落在天安门广场大花篮上",
+      "onboard_time": 1758522501,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145161,
@@ -3001,14 +3081,6 @@
       "onboard_time": 1758380723,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142785,
-      "num": 142785,
-      "word": "遭体罚学生家长吃过量安眠药被抢救",
-      "onboard_time": 1758524662,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142381,
@@ -3227,6 +3299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134721,
+      "num": 179461,
+      "word": "王乐晨主动抱住卢远",
+      "onboard_time": 1758523401,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134570,
       "num": 134570,
       "word": "有钱的韩国人在上海旅行",
@@ -3275,20 +3355,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132875,
-      "num": 359287,
-      "word": "和平鸽落在天安门广场大花篮上",
-      "onboard_time": 1758522501,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132361,
-      "num": 179461,
-      "word": "王乐晨主动抱住卢远",
-      "onboard_time": 1758523401,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 132005,
+      "num": 132005,
+      "word": "熬夜到什么程度会猝死",
+      "onboard_time": 1758524361,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131719,
@@ -3385,6 +3457,14 @@
       "onboard_time": 1758518241,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129267,
+      "num": 129267,
+      "word": "中网抽签",
+      "onboard_time": 1758525382,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 129188,
@@ -3643,14 +3723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121925,
-      "num": 121925,
-      "word": "熬夜到什么程度会猝死",
-      "onboard_time": 1758524361,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 121882,
       "num": 121882,
       "word": "风王桦加沙趋近广东海南",
@@ -3705,14 +3777,6 @@
       "onboard_time": 1758511702,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120911,
-      "num": 120911,
-      "word": "中网抽签",
-      "onboard_time": 1758525382,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 120796,
@@ -3891,14 +3955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113729,
-      "num": 132078,
-      "word": "赴山海莲花楼 服装",
-      "onboard_time": 1758524843,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113604,
       "num": 113604,
       "word": "英国为何急于承认巴勒斯坦国",
@@ -3971,14 +4027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112124,
-      "num": 112124,
-      "word": "西藏自治区就烟花秀事件开专题会",
-      "onboard_time": 1758525803,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111907,
       "num": 111907,
       "word": "中国广告协会就烟花秀事件发声",
@@ -3987,20 +4035,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111754,
+      "num": 111754,
+      "word": "郑钦文中网七号种子",
+      "onboard_time": 1758526642,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111633,
       "num": 111633,
       "word": "罗永浩回应债务问题",
       "onboard_time": 1758522261,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111516,
-      "num": 111516,
-      "word": "李沁因买贵丝巾而自责",
-      "onboard_time": 1758525501,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 111145,
@@ -4048,6 +4096,14 @@
       "word": "风云四号卫星带你看台风桦加沙",
       "onboard_time": 1758503542,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109587,
+      "num": 145248,
+      "word": "给老人假扮儿女2500元一次",
+      "onboard_time": 1758526042,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -4209,14 +4265,6 @@
       "onboard_time": 1758378264,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97532,
-      "num": 250731,
-      "word": "全球风王桦加沙直逼香港",
-      "onboard_time": 1758524542,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97471,
@@ -4385,6 +4433,14 @@
       "onboard_time": 1758499281,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89812,
+      "num": 208791,
+      "word": "天玑9500里藏了vivo什么秘密",
+      "onboard_time": 1758526462,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 89490,
@@ -4595,6 +4651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77362,
+      "num": 145256,
+      "word": "张馨予这是真妈妈",
+      "onboard_time": 1758526042,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77268,
       "num": 77268,
       "word": "日喀则通报烟花事件",
@@ -4609,6 +4673,14 @@
       "onboard_time": 1758471321,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75790,
+      "num": 184319,
+      "word": "特朗普回应与马斯克闹掰后握手",
+      "onboard_time": 1758526400,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74739,
@@ -5371,6 +5443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27302,
+      "num": 770678,
+      "word": "不能错过的长春航展高能场面",
+      "onboard_time": 1758503661,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26236,
       "num": 160682,
       "word": "美网民组队抢占印度人返美机票",
@@ -5403,20 +5483,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25056,
-      "num": 770678,
-      "word": "不能错过的长春航展高能场面",
-      "onboard_time": 1758503661,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22275,
       "num": 37803,
       "word": "不要用离开试探小狗的爱",
       "onboard_time": 1758476776,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20725,
+      "num": 146246,
+      "word": "消失的她原型王暖暖离婚案本周开庭",
+      "onboard_time": 1758526101,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20231,

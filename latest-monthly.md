@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 15:26:31
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 15:39:16
 </p>
 </blockquote>
 <p>
@@ -2925,6 +2925,12 @@ Dior认领（热度：968275）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E8%A2%AB%E9%A5%AD%E5%BA%97%E8%B5%B6%E5%87%BA%23" target="weibo">
+在日本因穿着暴露被饭店赶出（热度：964753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E9%86%92%E9%86%92%23" target="weibo">
 iG醒醒（热度：964601）
 </a>
@@ -5451,6 +5457,12 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%20%E4%BD%A0%E4%B8%8D%E5%B0%B1%E6%98%AF%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BA%BA%E5%90%97%23" target="weibo">
+黄灿灿 你不就是平台的人吗（热度：641564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%90%AC%E5%88%B0%E5%BC%A0%E7%BB%B4%E4%BC%8A%E8%AF%B4%E8%AF%9D%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 董璇听到张维伊说话的表情（热度：641281）
 </a>
@@ -5841,12 +5853,6 @@ iPhone17Pro（热度：632186）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E8%A2%AB%E9%A5%AD%E5%BA%97%E8%B5%B6%E5%87%BA%23" target="weibo">
-在日本因穿着暴露被饭店赶出（热度：605791）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E6%B5%AA3%23" target="weibo">
 巨浪3（热度：605563）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8%E8%88%8C%E5%A4%B4%E7%BF%BB%E4%B9%A6%23" target="weibo">
 丁禹兮为什么要用舌头翻书（热度：591992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B760%E4%B8%87%23" target="weibo">
-梓渝60秒广告报价60万（热度：590835）
 </a>
 </li>
 

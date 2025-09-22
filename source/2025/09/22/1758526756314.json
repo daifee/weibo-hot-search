@@ -1,0 +1,410 @@
+{
+  "runTime": 1758526756314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417269,
+        "num": 1417269,
+        "word": "万豪酒店承认拖鞋循环多次使用",
+        "onboard_time": 1758519502,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1165569,
+        "num": 1165569,
+        "word": "台风",
+        "onboard_time": 1758522681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27302,
+        "num": 728869,
+        "word": "不能错过的长春航展高能场面",
+        "onboard_time": 1758503661,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700273,
+        "num": 700273,
+        "word": "花少5马哥",
+        "onboard_time": 1758520581,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644503,
+        "num": 644503,
+        "word": "张晚意没有经纪公司",
+        "onboard_time": 1758522322,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468661,
+        "num": 468661,
+        "word": "广东或大范围停工",
+        "onboard_time": 1758516323,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641564,
+        "num": 460280,
+        "word": "黄灿灿 你不就是平台的人吗",
+        "onboard_time": 1758525081,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441292,
+        "num": 441292,
+        "word": "广东省内所有高铁停运",
+        "onboard_time": 1758522982,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390679,
+        "num": 390679,
+        "word": "超强台风桦加沙位置更新",
+        "onboard_time": 1758518663,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351592,
+        "num": 351592,
+        "word": "澳男子度假溺亡遗体回国后心脏不见",
+        "onboard_time": 1758516323,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 964753,
+        "num": 343893,
+        "word": "在日本因穿着暴露被饭店赶出",
+        "onboard_time": 1758523522,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 723974,
+        "num": 335889,
+        "word": "蓝战非自曝收入",
+        "onboard_time": 1758517583,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 403837,
+        "num": 308104,
+        "word": "葛夕因感染幽门螺旋杆菌暴瘦",
+        "onboard_time": 1758516984,
+        "rank": 12,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 384529,
+        "num": 297740,
+        "word": "始祖鸟成炸山鸟安踏岂能装睡",
+        "onboard_time": 1758515602,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371749,
+        "num": 287799,
+        "word": "iPhone17发布后16的反向操作",
+        "onboard_time": 1758520282,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274702,
+        "num": 274702,
+        "word": "周杰伦 有一堆歌已经写好了",
+        "onboard_time": 1758524361,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252685,
+        "num": 252685,
+        "word": "邢菲 妈妈我为家乡争光了",
+        "onboard_time": 1758523282,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219398,
+        "num": 219398,
+        "word": "李沁因买贵丝巾而自责",
+        "onboard_time": 1758525501,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215420,
+        "num": 215420,
+        "word": "黄金",
+        "onboard_time": 1758525022,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 277559,
+        "num": 215185,
+        "word": "网传始祖鸟上个月就做了炸山测试",
+        "onboard_time": 1758522501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274529,
+        "num": 211230,
+        "word": "谁请动了20年不拍剧的影帝",
+        "onboard_time": 1758523881,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89812,
+        "num": 208791,
+        "word": "天玑9500里藏了vivo什么秘密",
+        "onboard_time": 1758526462,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43022,
+        "num": 207828,
+        "word": "今年舟山第一网鱼在京东拍卖",
+        "onboard_time": 1758522441,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206296,
+        "num": 206296,
+        "word": "这居然是张天爱",
+        "onboard_time": 1758516442,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191598,
+        "num": 191598,
+        "word": "学生吃免费汤饭疑被校长骂臭要饭",
+        "onboard_time": 1758524843,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186408,
+        "num": 186408,
+        "word": "见到这种紫色保温壶立即报警",
+        "onboard_time": 1758509601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75790,
+        "num": 184319,
+        "word": "特朗普回应与马斯克闹掰后握手",
+        "onboard_time": 1758526400,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182595,
+        "num": 182595,
+        "word": "开车是件很费心思的事",
+        "onboard_time": 1758526400,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169325,
+        "num": 169325,
+        "word": "程潇又在选秀综艺里当导师了",
+        "onboard_time": 1758526042,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146825,
+        "num": 169125,
+        "word": "遭体罚学生家长吃过量安眠药被抢救",
+        "onboard_time": 1758524662,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511333,
+        "num": 166693,
+        "word": "王安宇暗示高圆圆站错位置",
+        "onboard_time": 1758525981,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194285,
+        "num": 163071,
+        "word": "美团崩了",
+        "onboard_time": 1758526642,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174394,
+        "num": 159175,
+        "word": "陈乔恩 我爱干嘛就干嘛",
+        "onboard_time": 1758519202,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159137,
+        "num": 159137,
+        "word": "赴山海莲花楼 服装",
+        "onboard_time": 1758524843,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158625,
+        "num": 158625,
+        "word": "比喝油还长肉的食物",
+        "onboard_time": 1758513682,
+        "rank": 34,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 155023,
+        "num": 155023,
+        "word": "全球风王桦加沙直逼香港",
+        "onboard_time": 1758524542,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153894,
+        "num": 153894,
+        "word": "西藏自治区就烟花秀事件开专题会",
+        "onboard_time": 1758525803,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20725,
+        "num": 146246,
+        "word": "消失的她原型王暖暖离婚案本周开庭",
+        "onboard_time": 1758526101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77362,
+        "num": 145256,
+        "word": "张馨予这是真妈妈",
+        "onboard_time": 1758526042,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109587,
+        "num": 145248,
+        "word": "给老人假扮儿女2500元一次",
+        "onboard_time": 1758526042,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145244,
+        "num": 145244,
+        "word": "和平鸽落在天安门广场大花篮上",
+        "onboard_time": 1758522501,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136242,
+        "num": 136242,
+        "word": "手机每周重启和长期不关机的区别",
+        "onboard_time": 1758523881,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135660,
+        "num": 135660,
+        "word": "始祖鸟烟花秀究竟燃放了几次",
+        "onboard_time": 1758524962,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134721,
+        "num": 134721,
+        "word": "王乐晨主动抱住卢远",
+        "onboard_time": 1758523401,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132005,
+        "num": 132005,
+        "word": "熬夜到什么程度会猝死",
+        "onboard_time": 1758524361,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129267,
+        "num": 129267,
+        "word": "中网抽签",
+        "onboard_time": 1758525382,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127863,
+        "num": 127863,
+        "word": "今年秋天千禧风又杀回来了",
+        "onboard_time": 1758524843,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120654,
+        "num": 120654,
+        "word": "珠海全市范围五停",
+        "onboard_time": 1758514221,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111754,
+        "num": 111754,
+        "word": "郑钦文中网七号种子",
+        "onboard_time": 1758526642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111360,
+        "num": 111360,
+        "word": "李乃文剪彩后把彩头扔了",
+        "onboard_time": 1758509181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#情暖天山气象新#"
+    }
+  }
+}
