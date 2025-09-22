@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758515404666,
+  "endTime": 1758516182722,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -16,6 +16,14 @@
       "word": "始祖鸟",
       "onboard_time": 1758497598,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1184918,
+      "num": 499319,
+      "word": "始祖鸟国内外价格对比",
+      "onboard_time": 1758512363,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -51,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 898158,
+      "num": 1143705,
+      "word": "见到这种紫色保温壶立即报警",
+      "onboard_time": 1758509601,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 873603,
       "num": 714774,
       "word": "李乃文剪彩后把彩头扔了",
       "onboard_time": 1758509181,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 850958,
-      "num": 850958,
-      "word": "见到这种紫色保温壶立即报警",
-      "onboard_time": 1758509601,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 848621,
@@ -97,14 +105,6 @@
       "onboard_time": 1758498860,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 766421,
-      "num": 390521,
-      "word": "始祖鸟国内外价格对比",
-      "onboard_time": 1758512363,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 702107,
@@ -163,8 +163,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 598401,
+      "num": 598401,
+      "word": "比喝油还长肉的食物",
+      "onboard_time": 1758513682,
+      "rank": 16,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 577207,
-      "num": 385299,
+      "num": 491505,
       "word": "刘芸婚后第一个放弃的是事业",
       "onboard_time": 1758512781,
       "rank": 18,
@@ -203,6 +211,22 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 533773,
+      "num": 533773,
+      "word": "珠海全市范围五停",
+      "onboard_time": 1758514221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513166,
+      "num": 599633,
+      "word": "超强台风桦加沙最新路径公布",
+      "onboard_time": 1758501262,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511195,
       "num": 511195,
       "word": "花少5马哥点赞",
@@ -212,19 +236,11 @@
     },
     {
       "raw_hot": 508643,
-      "num": 311434,
+      "num": 322086,
       "word": "小米17颜值",
       "onboard_time": 1758510260,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 494280,
-      "num": 599633,
-      "word": "超强台风桦加沙最新路径公布",
-      "onboard_time": 1758501262,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 447258,
@@ -291,27 +307,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351151,
-      "num": 351151,
-      "word": "比喝油还长肉的食物",
-      "onboard_time": 1758513682,
-      "rank": 16,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 334280,
       "num": 334280,
       "word": "蜜雪冰城门店疯狂抢柠檬",
       "onboard_time": 1758468444,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323590,
-      "num": 392983,
-      "word": "珠海全市范围五停",
-      "onboard_time": 1758514221,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -321,6 +321,14 @@
       "onboard_time": 1758467245,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 310106,
+      "num": 310106,
+      "word": "盛夏芬德拉",
+      "onboard_time": 1758514042,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 306991,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281606,
+      "num": 281606,
+      "word": "心动的信号",
+      "onboard_time": 1758514342,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270697,
       "num": 270697,
       "word": "懒羊羊睡觉是把角取下来的",
@@ -361,14 +377,6 @@
       "onboard_time": 1758505461,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 253255,
-      "num": 253255,
-      "word": "心动的信号",
-      "onboard_time": 1758514342,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 250259,
@@ -395,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239054,
-      "num": 239054,
-      "word": "盛夏芬德拉",
-      "onboard_time": 1758514042,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 239193,
+      "num": 323833,
+      "word": "风王桦加沙体型比广东省还大",
+      "onboard_time": 1758515240,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226129,
@@ -435,8 +443,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216482,
-      "num": 216482,
+      "raw_hot": 217631,
+      "num": 217631,
       "word": "angelababy黄灿灿早期同框",
       "onboard_time": 1758514102,
       "rank": 25,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 206718,
-      "num": 192106,
+      "num": 199975,
       "word": "谢娜女儿跳跳也有自己的代言人了",
       "onboard_time": 1758514763,
       "rank": 31,
@@ -505,6 +513,22 @@
       "onboard_time": 1758510020,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204183,
+      "num": 204183,
+      "word": "任国超怎么能争气成这样",
+      "onboard_time": 1758515481,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203261,
+      "num": 203261,
+      "word": "樊振东现场观战英超",
+      "onboard_time": 1758515240,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 203187,
@@ -531,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196809,
+      "num": 511418,
+      "word": "桦加沙已成为今年全球风王",
+      "onboard_time": 1758515423,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195317,
       "num": 195317,
       "word": "金靖奔着不做饭找的老公",
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 192008,
-      "num": 192008,
+      "num": 200002,
       "word": "南派三叔云顶天宫你重拍没",
       "onboard_time": 1758514462,
       "rank": 33,
@@ -587,20 +619,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184944,
+      "num": 184944,
+      "word": "王源官宣WMA",
+      "onboard_time": 1758514882,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180115,
       "num": 180115,
       "word": "剑网3",
       "onboard_time": 1758512242,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179005,
-      "num": 179005,
-      "word": "王源官宣WMA",
-      "onboard_time": 1758514882,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 175315,
@@ -659,19 +691,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164172,
-      "num": 164172,
-      "word": "樊振东现场观战英超",
-      "onboard_time": 1758515240,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 161566,
-      "num": 161566,
-      "word": "风王桦加沙体型比广东省还大",
-      "onboard_time": 1758515240,
-      "rank": 42,
+      "raw_hot": 162661,
+      "num": 330498,
+      "word": "始祖鸟成炸山鸟安踏岂能装睡",
+      "onboard_time": 1758515602,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -819,6 +843,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 141107,
+      "num": 317627,
+      "word": "赵丽颖把星辰戴在腕间",
+      "onboard_time": 1758515782,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140419,
       "num": 140419,
       "word": "普通女生化妆2小时的变化",
@@ -832,6 +864,14 @@
       "word": "金晨怎么美成这样了",
       "onboard_time": 1758450321,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137862,
+      "num": 137862,
+      "word": "钟楚曦粉色玛丽猫",
+      "onboard_time": 1758516082,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1115,6 +1155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94858,
+      "num": 311438,
+      "word": "身家31亿元浙大教授被留置",
+      "onboard_time": 1758514823,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94427,
       "num": 97509,
       "word": "墨西哥阅兵现场军犬没忍住",
@@ -1363,6 +1411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54086,
+      "num": 178040,
+      "word": "于正四天掉了二斤多",
+      "onboard_time": 1758515305,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53370,
       "num": 53370,
       "word": "阿森纳1比1曼城",
@@ -1388,7 +1444,7 @@
     },
     {
       "raw_hot": 50502,
-      "num": 471383,
+      "num": 486157,
       "word": "蔡徐坤实力",
       "onboard_time": 1758512060,
       "rank": 12,
@@ -1419,14 +1475,6 @@
       "category": "电影,音乐"
     },
     {
-      "raw_hot": 45634,
-      "num": 271610,
-      "word": "身家31亿元浙大教授被留置",
-      "onboard_time": 1758514823,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43414,
       "num": 57534,
       "word": "飞机到底应不应该锁座",
@@ -1451,7 +1499,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37681,
+      "raw_hot": 39306,
+      "num": 208249,
+      "word": "烟花秀活动方可能最多被罚5万",
+      "onboard_time": 1758515543,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39006,
       "num": 178296,
       "word": "368元美心月饼假货卖70元",
       "onboard_time": 1758514882,
@@ -1459,12 +1515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36449,
-      "num": 178040,
-      "word": "于正四天掉了二斤多",
-      "onboard_time": 1758515305,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 38832,
+      "num": 155783,
+      "word": "柯克遗孀称原谅凶手",
+      "onboard_time": 1758516082,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35754,
@@ -1473,6 +1529,14 @@
       "onboard_time": 1758510260,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 32451,
+      "num": 162489,
+      "word": "男子给邻居干活摔下房顶下肢瘫痪",
+      "onboard_time": 1758515543,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29936,
