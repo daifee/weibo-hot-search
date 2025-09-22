@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758566853671,
+  "endTime": 1758568859232,
   "band_list": [
     {
       "raw_hot": 1204608,
@@ -459,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21656,
+      "raw_hot": 25278,
       "num": 28709,
       "word": "蓝战非回应收入争议",
       "onboard_time": 1758566055,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 24856,
+      "num": 27394,
+      "word": "广州1570处应急安置点已准备好",
+      "onboard_time": 1758566654,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21394,
@@ -475,12 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 12565,
-      "num": 27394,
-      "word": "广州1570处应急安置点已准备好",
-      "onboard_time": 1758566654,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 15920,
+      "num": 19971,
+      "word": "夏之光一边工作一边出图",
+      "onboard_time": 1758567194,
+      "rank": 46,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
