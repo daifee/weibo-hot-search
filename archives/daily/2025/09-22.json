@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758523889698,
+  "endTime": 1758525991433,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1469456,
-      "num": 1469456,
+      "raw_hot": 1559495,
+      "num": 1559495,
       "word": "万豪酒店承认拖鞋循环多次使用",
       "onboard_time": 1758519502,
       "rank": 42,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1340004,
-      "num": 340564,
+      "num": 348356,
       "word": "蓝战非自曝收入",
       "onboard_time": 1758517583,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1239979,
+      "num": 1239979,
+      "word": "台风",
+      "onboard_time": 1758522681,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1184918,
@@ -65,14 +73,6 @@
       "onboard_time": 1758497781,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 988464,
-      "num": 988464,
-      "word": "台风",
-      "onboard_time": 1758522681,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 961537,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 762394,
+      "num": 762394,
+      "word": "花少5马哥",
+      "onboard_time": 1758520581,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 755106,
       "num": 321999,
       "word": "这居然是张天爱",
@@ -171,20 +179,20 @@
       "category": "艺人,网红"
     },
     {
-      "raw_hot": 729246,
-      "num": 729246,
-      "word": "花少5马哥",
-      "onboard_time": 1758520581,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 702107,
       "num": 899993,
       "word": "安踏回应始祖鸟炸山风波",
       "onboard_time": 1758463287,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 691498,
+      "num": 691498,
+      "word": "张晚意没有经纪公司",
+      "onboard_time": 1758522322,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 682820,
@@ -233,6 +241,14 @@
       "onboard_time": 1758516323,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 605791,
+      "num": 339818,
+      "word": "在日本因穿着暴露被饭店赶出",
+      "onboard_time": 1758523522,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 604654,
@@ -331,6 +347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 464337,
+      "num": 464337,
+      "word": "广东省内所有高铁停运",
+      "onboard_time": 1758522982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447258,
       "num": 184892,
       "word": "长租15年不到1年就被劝退",
@@ -369,6 +393,14 @@
       "onboard_time": 1758501381,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380139,
+      "num": 340719,
+      "word": "iPhone17发布后16的反向操作",
+      "onboard_time": 1758520282,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 378893,
@@ -411,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340719,
-      "num": 340719,
-      "word": "iPhone17发布后16的反向操作",
-      "onboard_time": 1758520282,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 334280,
       "num": 334280,
       "word": "蜜雪冰城门店疯狂抢柠檬",
@@ -459,20 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298349,
-      "num": 298349,
-      "word": "张晚意没有经纪公司",
-      "onboard_time": 1758522322,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 300477,
+      "num": 300477,
+      "word": "邢菲 妈妈我为家乡争光了",
+      "onboard_time": 1758523282,
+      "rank": 17,
+      "category": "艺人"
     },
     {
-      "raw_hot": 289307,
-      "num": 289307,
-      "word": "广东省内所有高铁停运",
-      "onboard_time": 1758522982,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 287175,
+      "num": 244409,
+      "word": "谁请动了20年不拍剧的影帝",
+      "onboard_time": 1758523881,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 284496,
@@ -481,6 +505,22 @@
       "onboard_time": 1758505221,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281361,
+      "num": 281361,
+      "word": "黄灿灿 你不就是平台的人吗",
+      "onboard_time": 1758525081,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273277,
+      "num": 238555,
+      "word": "网传始祖鸟上个月就做了炸山测试",
+      "onboard_time": 1758522501,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270697,
@@ -497,6 +537,14 @@
       "onboard_time": 1758505461,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 255666,
+      "num": 255666,
+      "word": "周杰伦 有一堆歌已经写好了",
+      "onboard_time": 1758524361,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 251368,
@@ -635,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207507,
+      "num": 207507,
+      "word": "黄金",
+      "onboard_time": 1758525022,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206718,
       "num": 199975,
       "word": "谢娜女儿跳跳也有自己的代言人了",
@@ -657,14 +713,6 @@
       "onboard_time": 1758510020,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205227,
-      "num": 173392,
-      "word": "在日本因穿着暴露被饭店赶出",
-      "onboard_time": 1758523522,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 204183,
@@ -731,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190821,
+      "num": 190821,
+      "word": "今年秋天千禧风又杀回来了",
+      "onboard_time": 1758524843,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189030,
       "num": 189030,
       "word": "日本在呼伦贝尔建的细菌实验基地",
@@ -753,14 +809,6 @@
       "onboard_time": 1758510081,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186572,
-      "num": 287244,
-      "word": "邢菲 妈妈我为家乡争光了",
-      "onboard_time": 1758523282,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 186465,
@@ -792,14 +840,6 @@
       "word": "官方通报吃日料在三文鱼上发现活虫",
       "onboard_time": 1758517283,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181105,
-      "num": 181105,
-      "word": "网传始祖鸟上个月就做了炸山测试",
-      "onboard_time": 1758522501,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -955,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155749,
+      "num": 155749,
+      "word": "学生吃免费汤饭疑被校长骂臭要饭",
+      "onboard_time": 1758524843,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155654,
       "num": 331826,
       "word": "美方回应重要盟友承认巴勒斯坦国",
@@ -1059,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148292,
+      "num": 148292,
+      "word": "始祖鸟烟花秀究竟燃放了几次",
+      "onboard_time": 1758524962,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147556,
       "num": 147556,
       "word": "安踏",
@@ -1115,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142785,
+      "num": 142785,
+      "word": "遭体罚学生家长吃过量安眠药被抢救",
+      "onboard_time": 1758524662,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142179,
       "num": 142179,
       "word": "99年女硕士刚毕业就意外截瘫",
@@ -1147,12 +1211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138807,
+      "num": 244799,
+      "word": "始祖鸟炸山这事还没完",
+      "onboard_time": 1758523582,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137862,
       "num": 137862,
       "word": "钟楚曦粉色玛丽猫",
       "onboard_time": 1758516082,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137613,
+      "num": 137613,
+      "word": "手机每周重启和长期不关机的区别",
+      "onboard_time": 1758523881,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 136492,
@@ -1196,11 +1276,19 @@
     },
     {
       "raw_hot": 132875,
-      "num": 132875,
+      "num": 359287,
       "word": "和平鸽落在天安门广场大花篮上",
       "onboard_time": 1758522501,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132361,
+      "num": 179461,
+      "word": "王乐晨主动抱住卢远",
+      "onboard_time": 1758523401,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 131719,
@@ -1299,6 +1387,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 124884,
+      "num": 142945,
+      "word": "黄灿灿罗予彤13年友谊",
+      "onboard_time": 1758524781,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124832,
       "num": 124832,
       "word": "户晨风",
@@ -1315,12 +1411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122357,
-      "num": 122357,
-      "word": "王乐晨主动抱住卢远",
-      "onboard_time": 1758523401,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 121925,
+      "num": 121925,
+      "word": "熬夜到什么程度会猝死",
+      "onboard_time": 1758524361,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121882,
@@ -1337,6 +1433,14 @@
       "onboard_time": 1758511702,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120911,
+      "num": 120911,
+      "word": "中网抽签",
+      "onboard_time": 1758525382,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 116784,
@@ -1361,6 +1465,14 @@
       "onboard_time": 1758503841,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113729,
+      "num": 132078,
+      "word": "赴山海莲花楼 服装",
+      "onboard_time": 1758524843,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 113604,
@@ -1395,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112124,
+      "num": 112124,
+      "word": "西藏自治区就烟花秀事件开专题会",
+      "onboard_time": 1758525803,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112103,
       "num": 112103,
       "word": "BLG夺冠",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1758522261,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 111516,
+      "num": 111516,
+      "word": "李沁因买贵丝巾而自责",
+      "onboard_time": 1758525501,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 110422,
@@ -1467,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101223,
+      "num": 101223,
+      "word": "烟花秀事件将形成三级调查组",
+      "onboard_time": 1758525860,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100594,
       "num": 100594,
       "word": "郑钦文确定参加中网",
@@ -1489,6 +1625,22 @@
       "onboard_time": 1758469822,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97532,
+      "num": 250731,
+      "word": "全球风王桦加沙直逼香港",
+      "onboard_time": 1758524542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97208,
+      "num": 97208,
+      "word": "歼20正脸压迫感",
+      "onboard_time": 1758525803,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 95870,
@@ -1731,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67763,
+      "num": 289179,
+      "word": "和时代少年团双倍电解焕活每刻",
+      "onboard_time": 1758520282,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65250,
       "num": 135581,
       "word": "檀健次梗好全",
@@ -1883,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46624,
+      "num": 127775,
+      "word": "六旬男子连挖10座墓偷11个骨灰盒",
+      "onboard_time": 1758524901,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46351,
       "num": 192125,
       "word": "谁在为昂贵的国际学校买单",
@@ -1928,14 +2096,6 @@
       "word": "中产运动三件套又换了",
       "onboard_time": 1758510622,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41826,
-      "num": 244799,
-      "word": "始祖鸟炸山这事还没完",
-      "onboard_time": 1758523582,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1987,6 +2147,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34090,
+      "num": 174255,
+      "word": "地铁口无人看护孩童被父亲带回老家",
+      "onboard_time": 1758524482,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32451,
       "num": 162489,
       "word": "男子给邻居干活摔下房顶下肢瘫痪",
@@ -2035,14 +2203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27020,
-      "num": 289179,
-      "word": "和时代少年团双倍电解焕活每刻",
-      "onboard_time": 1758520282,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25856,
       "num": 57428,
       "word": "伊朗将暂停与国际原子能机构合作",
@@ -2052,7 +2212,7 @@
     },
     {
       "raw_hot": 25056,
-      "num": 752856,
+      "num": 770678,
       "word": "不能错过的长春航展高能场面",
       "onboard_time": 1758503661,
       "rank": 2,
