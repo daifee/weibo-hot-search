@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758572878163,
+  "endTime": 1758573653384,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -7203,6 +7203,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13045,
+      "num": 15349,
+      "word": "用钉枪射杀邻居男子被鉴定为精神病",
+      "onboard_time": 1758572713,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12638,
+      "num": 46135,
+      "word": "被中国战机弹射帅到了",
+      "onboard_time": 1758572054,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11501,
       "num": 135263,
       "word": "震耳欲聋导演也惦记檀健次的魔性笑声",
@@ -7217,14 +7233,6 @@
       "onboard_time": 1758410299,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10288,
-      "num": 46135,
-      "word": "被中国战机弹射帅到了",
-      "onboard_time": 1758572054,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9598,

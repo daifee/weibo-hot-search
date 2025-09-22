@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/23 04:27:58
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/23 04:40:53
 </p>
 </blockquote>
 <p>
@@ -5415,6 +5415,18 @@ Knight有我就有冠军（热度：18611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E9%92%89%E6%9E%AA%E5%B0%84%E6%9D%80%E9%82%BB%E5%B1%85%E7%94%B7%E5%AD%90%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%23" target="weibo">
+用钉枪射杀邻居男子被鉴定为精神病（热度：13045）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E5%BC%B9%E5%B0%84%E5%B8%85%E5%88%B0%E4%BA%86%23" target="weibo">
+被中国战机弹射帅到了（热度：12638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E5%AF%BC%E6%BC%94%E4%B9%9F%E6%83%A6%E8%AE%B0%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E9%AD%94%E6%80%A7%E7%AC%91%E5%A3%B0%23" target="weibo">
 震耳欲聋导演也惦记檀健次的魔性笑声（热度：11501）
 </a>
@@ -5423,12 +5435,6 @@ Knight有我就有冠军（热度：18611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%E4%BA%89%E8%AE%AE%E4%B8%A4%E5%A4%A7%E7%96%91%E7%82%B9%23" target="weibo">
 烟花争议两大疑点（热度：11470）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E5%BC%B9%E5%B0%84%E5%B8%85%E5%88%B0%E4%BA%86%23" target="weibo">
-被中国战机弹射帅到了（热度：10288）
 </a>
 </li>
 
