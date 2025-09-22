@@ -1,10 +1,10 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758583370904,
+  "endTime": 1758584192028,
   "band_list": [
     {
       "raw_hot": 1204608,
-      "num": 527399,
+      "num": 567736,
       "word": "秦雯王家卫录音",
       "onboard_time": 1758555022,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 909120,
-      "num": 909120,
+      "num": 935928,
       "word": "广东全面进入临战状态",
       "onboard_time": 1758555202,
       "rank": 1,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 630871,
-      "num": 630871,
+      "raw_hot": 659280,
+      "num": 659280,
       "word": "最快女护士张水华发文道歉",
       "onboard_time": 1758550884,
       "rank": 4,
@@ -57,6 +57,14 @@
       "onboard_time": 1758546083,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 392129,
+      "num": 392129,
+      "word": "超强台风桦加沙要来了",
+      "onboard_time": 1758579255,
+      "rank": 18,
+      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 368583,
@@ -83,28 +91,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310505,
-      "num": 310505,
-      "word": "酒店因提供监控被性侵施害者威胁",
-      "onboard_time": 1758557842,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308620,
-      "num": 308620,
+      "raw_hot": 332316,
+      "num": 332316,
       "word": "广东全面进入台风防御状态",
       "onboard_time": 1758556342,
       "rank": 7,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286110,
-      "num": 286110,
-      "word": "超强台风桦加沙要来了",
-      "onboard_time": 1758579255,
-      "rank": 18,
-      "category": "民生新闻,国际时政"
+      "raw_hot": 310505,
+      "num": 310505,
+      "word": "酒店因提供监控被性侵施害者威胁",
+      "onboard_time": 1758557842,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284217,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182672,
+      "num": 182672,
+      "word": "深圳台风",
+      "onboard_time": 1758583519,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166564,
       "num": 166564,
       "word": "沈月王敬轩我家那闺女表现被审判",
@@ -211,20 +219,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162206,
+      "num": 162206,
+      "word": "2025金球奖",
+      "onboard_time": 1758582799,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161107,
       "num": 161107,
       "word": "张峻豪跳angel真的不是ai吗",
       "onboard_time": 1758555860,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159681,
-      "num": 121889,
-      "word": "2025金球奖",
-      "onboard_time": 1758582799,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 158440,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 146861,
-      "num": 146861,
+      "num": 153775,
       "word": "秦雯吐槽靳东陈道明",
       "onboard_time": 1758556461,
       "rank": 35,
@@ -275,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130994,
+      "num": 130994,
+      "word": "宋亚轩晒自己拍的刘耀文",
+      "onboard_time": 1758583699,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127199,
       "num": 127199,
       "word": "毛利兰确认参演明年柯南剧场版",
       "onboard_time": 1758553583,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 126848,
+      "num": 126848,
+      "word": "金球奖",
+      "onboard_time": 1758583579,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 124992,
@@ -347,12 +371,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102243,
+      "num": 235646,
+      "word": "特朗普说将与中国领导人会晤",
+      "onboard_time": 1758583699,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101639,
       "num": 101639,
       "word": "13岁身高177男孩睡觉前必走流程",
       "onboard_time": 1758547583,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97883,
+      "num": 89394,
+      "word": "米兰时装周",
+      "onboard_time": 1758583399,
+      "rank": 32,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 94303,
+      "num": 98045,
+      "word": "盛夏芬德拉 短剧细糠",
+      "onboard_time": 1758582018,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 91003,
@@ -387,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82229,
+      "num": 82229,
+      "word": "美拉德是秋日限定色系",
+      "onboard_time": 1758583880,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 81082,
       "num": 81082,
       "word": "深圳地铁",
@@ -401,14 +457,6 @@
       "onboard_time": 1758538041,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76137,
-      "num": 98045,
-      "word": "盛夏芬德拉 短剧细糠",
-      "onboard_time": 1758582018,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 72853,
@@ -451,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63540,
+      "num": 63540,
+      "word": "何广智透露夺冠后的发展计划",
+      "onboard_time": 1758583579,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63483,
       "num": 63483,
       "word": "医院回应女子凌晨街头产子赤脚抱儿",
@@ -467,7 +523,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 58753,
+      "raw_hot": 59953,
       "num": 60403,
       "word": "蔡国强烟花秀现场感言视频曝光",
       "onboard_time": 1758558499,
@@ -475,7 +531,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53363,
+      "raw_hot": 58779,
       "num": 60374,
       "word": "用钉枪射杀邻居男子被鉴定为精神病",
       "onboard_time": 1758572713,
@@ -508,7 +564,7 @@
     },
     {
       "raw_hot": 29273,
-      "num": 530922,
+      "num": 571799,
       "word": "中国战机360度无死角纯帅",
       "onboard_time": 1758535043,
       "rank": 2,
