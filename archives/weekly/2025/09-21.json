@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758536958431,
+  "endTime": 1758537891429,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1181514,
+      "num": 383989,
+      "word": "贺峻霖中传成功保研",
+      "onboard_time": 1758535942,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1177034,
       "num": 1188325,
       "word": "今年以来最强台风来袭",
@@ -209,6 +217,14 @@
       "onboard_time": 1758506061,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1029972,
+      "num": 1029972,
+      "word": "福建舰弹射3连",
+      "onboard_time": 1758536781,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1014050,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 954339,
-      "num": 353000,
+      "num": 383924,
       "word": "10月1号将出现的六批人",
       "onboard_time": 1758531024,
       "rank": 20,
@@ -440,14 +456,6 @@
       "word": "王源",
       "onboard_time": 1758385642,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 792625,
-      "num": 351770,
-      "word": "贺峻霖中传成功保研",
-      "onboard_time": 1758535942,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -827,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537081,
+      "num": 383815,
+      "word": "始祖鸟 公关",
+      "onboard_time": 1758532763,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533773,
       "num": 533773,
       "word": "珠海全市范围五停",
@@ -971,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451254,
-      "num": 335560,
-      "word": "始祖鸟 公关",
-      "onboard_time": 1758532763,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 450928,
       "num": 450928,
       "word": "印媒怒了",
@@ -1099,8 +1107,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 381488,
-      "num": 310101,
+      "raw_hot": 384063,
+      "num": 384063,
+      "word": "福建舰弹射现场",
+      "onboard_time": 1758535341,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383491,
+      "num": 383491,
       "word": "被性侵女高管丈夫不敢看妻子视频",
       "onboard_time": 1758535462,
       "rank": 20,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1758520282,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 380040,
-      "num": 380040,
-      "word": "福建舰弹射现场",
-      "onboard_time": 1758535341,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 378893,
@@ -2083,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196828,
+      "num": 383663,
+      "word": "TVB视帝陈豪说藏海传拍的特别好",
+      "onboard_time": 1758536542,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196538,
       "num": 196538,
       "word": "沈月穿着古装跳舞",
@@ -2475,14 +2491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179166,
-      "num": 324342,
-      "word": "TVB视帝陈豪说藏海传拍的特别好",
-      "onboard_time": 1758536542,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178424,
       "num": 178424,
       "word": "iPhone17基础款性能超越16Pro",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1758530542,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176464,
+      "num": 176464,
+      "word": "深圳是否会启动五停",
+      "onboard_time": 1758537320,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175991,
@@ -2811,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161719,
+      "num": 161719,
+      "word": "南京地下室",
+      "onboard_time": 1758536961,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161594,
       "num": 161594,
       "word": "陈楚生是不是偷偷报班了",
@@ -2825,6 +2849,14 @@
       "onboard_time": 1758471741,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161169,
+      "num": 383527,
+      "word": "日本 苹果病",
+      "onboard_time": 1758537081,
+      "rank": 19,
+      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 161159,
@@ -2955,6 +2987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157370,
+      "num": 157370,
+      "word": "人民海军发号外",
+      "onboard_time": 1758537381,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156475,
       "num": 243552,
       "word": "深圳全市明后天停课",
@@ -3009,14 +3049,6 @@
       "onboard_time": 1758500061,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154687,
-      "num": 282387,
-      "word": "福建舰弹射3连",
-      "onboard_time": 1758536781,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154668,
@@ -3376,6 +3408,14 @@
       "word": "19岁女孩留学9天被电诈后自杀",
       "onboard_time": 1758426622,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141870,
+      "num": 141870,
+      "word": "产妇凌晨路边产子目击者发声",
+      "onboard_time": 1758537260,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -4115,6 +4155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120888,
+      "num": 120888,
+      "word": "罗永浩回上海了",
+      "onboard_time": 1758537802,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120796,
       "num": 120796,
       "word": "邓紫棋 从此在大场面我不再站旁边",
@@ -4233,6 +4281,14 @@
       "onboard_time": 1758501803,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116770,
+      "num": 116770,
+      "word": "眼镜才是让视力上涨的根本原因",
+      "onboard_time": 1758537741,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 116584,
@@ -4459,12 +4515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110021,
+      "num": 110021,
+      "word": "其实这些素菜是吸油大户",
+      "onboard_time": 1758537202,
+      "rank": 46,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 109994,
       "num": 109994,
       "word": "王曼昱 敷尔佳",
       "onboard_time": 1758449423,
       "rank": 48,
       "category": "体育,美妆"
+    },
+    {
+      "raw_hot": 109928,
+      "num": 109928,
+      "word": "不建议用大手大脚形容花钱",
+      "onboard_time": 1758537022,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 109598,
@@ -6073,6 +6145,14 @@
       "onboard_time": 1758498921,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23115,
+      "num": 118696,
+      "word": "南迦巴瓦峰日照金山太震撼",
+      "onboard_time": 1758537440,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 22275,

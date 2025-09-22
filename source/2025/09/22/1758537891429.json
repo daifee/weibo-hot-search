@@ -1,0 +1,410 @@
+{
+  "runTime": 1758537891429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1339532,
+        "num": 1339532,
+        "word": "台风",
+        "onboard_time": 1758522681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1029972,
+        "num": 1029972,
+        "word": "福建舰弹射3连",
+        "onboard_time": 1758536781,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8259,
+        "num": 857351,
+        "word": "战机在祖国一秒变孩子王",
+        "onboard_time": 1758498921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 800479,
+        "num": 800479,
+        "word": "13岁男孩扒飞机飞行94分钟",
+        "onboard_time": 1758530362,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 838476,
+        "num": 751519,
+        "word": "日本网友指责中国男子救人",
+        "onboard_time": 1758533781,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 627923,
+        "num": 627923,
+        "word": "中国航母又一突破",
+        "onboard_time": 1758534862,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 490705,
+        "num": 490705,
+        "word": "王安宇暗示高圆圆站错位置",
+        "onboard_time": 1758525981,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427636,
+        "num": 427636,
+        "word": "深圳宣布明后天停课",
+        "onboard_time": 1758530242,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297241,
+        "num": 403030,
+        "word": "黄灿灿 你不就是平台的人吗",
+        "onboard_time": 1758525081,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384063,
+        "num": 384063,
+        "word": "福建舰弹射现场",
+        "onboard_time": 1758535341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1396922,
+        "num": 384012,
+        "word": "深圳停工",
+        "onboard_time": 1758531201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1181514,
+        "num": 383989,
+        "word": "贺峻霖中传成功保研",
+        "onboard_time": 1758535942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855046,
+        "num": 383924,
+        "word": "10月1号将出现的六批人",
+        "onboard_time": 1758531024,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 582244,
+        "num": 383867,
+        "word": "陈紫函自曝因长期分居婚姻亮红灯",
+        "onboard_time": 1758524781,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537081,
+        "num": 383815,
+        "word": "始祖鸟 公关",
+        "onboard_time": 1758532763,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356660,
+        "num": 383724,
+        "word": "广东省内所有高铁停运",
+        "onboard_time": 1758522982,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465253,
+        "num": 383718,
+        "word": "刘涛说关晓彤的腿是特效做的",
+        "onboard_time": 1758529641,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196828,
+        "num": 383663,
+        "word": "TVB视帝陈豪说藏海传拍的特别好",
+        "onboard_time": 1758536542,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180291,
+        "num": 383599,
+        "word": "花少5马哥",
+        "onboard_time": 1758520581,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161169,
+        "num": 383527,
+        "word": "日本 苹果病",
+        "onboard_time": 1758537081,
+        "rank": 19,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 383491,
+        "num": 383491,
+        "word": "被性侵女高管丈夫不敢看妻子视频",
+        "onboard_time": 1758535462,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373992,
+        "num": 373992,
+        "word": "建议所有妈妈去购买iphone17",
+        "onboard_time": 1758528022,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211829,
+        "num": 211829,
+        "word": "中方回应金正恩称朝鲜不会无核化",
+        "onboard_time": 1758530422,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181675,
+        "num": 181675,
+        "word": "董子健给8岁女儿庆生",
+        "onboard_time": 1758533303,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42041,
+        "num": 176548,
+        "word": "十一车圈顶流竟是神州租车",
+        "onboard_time": 1758535583,
+        "rank": 24,
+        "category": "旅游,汽车"
+      },
+      {
+        "raw_hot": 176464,
+        "num": 176464,
+        "word": "深圳是否会启动五停",
+        "onboard_time": 1758537320,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122067,
+        "num": 176323,
+        "word": "李沁因买贵丝巾而自责",
+        "onboard_time": 1758525501,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102327,
+        "num": 175979,
+        "word": "赴山海莲花楼 服装",
+        "onboard_time": 1758524843,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96577,
+        "num": 175471,
+        "word": "张晚意没有经纪公司",
+        "onboard_time": 1758522322,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86646,
+        "num": 174688,
+        "word": "这么帅的男主却这么窝囊",
+        "onboard_time": 1758533002,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174612,
+        "num": 174612,
+        "word": "蓝战非自曝收入",
+        "onboard_time": 1758517583,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 161719,
+        "num": 161719,
+        "word": "南京地下室",
+        "onboard_time": 1758536961,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157370,
+        "num": 157370,
+        "word": "人民海军发号外",
+        "onboard_time": 1758537381,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142150,
+        "num": 142150,
+        "word": "超强台风桦加沙强度已达17级以上",
+        "onboard_time": 1758534201,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141870,
+        "num": 141870,
+        "word": "产妇凌晨路边产子目击者发声",
+        "onboard_time": 1758537260,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134088,
+        "num": 134088,
+        "word": "榴莲降至15元一斤",
+        "onboard_time": 1758532341,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126773,
+        "num": 126773,
+        "word": "始祖鸟门店现状",
+        "onboard_time": 1758535522,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122861,
+        "num": 122861,
+        "word": "福建舰",
+        "onboard_time": 1758536181,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 120888,
+        "num": 120888,
+        "word": "罗永浩回上海了",
+        "onboard_time": 1758537802,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23115,
+        "num": 118696,
+        "word": "南迦巴瓦峰日照金山太震撼",
+        "onboard_time": 1758537440,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118188,
+        "num": 118188,
+        "word": "万豪酒店承认拖鞋循环多次使用",
+        "onboard_time": 1758519502,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117947,
+        "num": 117947,
+        "word": "小米17Pro冷烟紫",
+        "onboard_time": 1758527361,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117775,
+        "num": 117775,
+        "word": "美团崩了",
+        "onboard_time": 1758526642,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52291,
+        "num": 116886,
+        "word": "iPhone17系列充电时疑漏电",
+        "onboard_time": 1758536483,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116770,
+        "num": 116770,
+        "word": "眼镜才是让视力上涨的根本原因",
+        "onboard_time": 1758537741,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112524,
+        "num": 112524,
+        "word": "肠粉最伟大的吃法出现了",
+        "onboard_time": 1758535043,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110021,
+        "num": 110021,
+        "word": "其实这些素菜是吸油大户",
+        "onboard_time": 1758537202,
+        "rank": 46,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 90111,
+        "num": 109945,
+        "word": "3乘8还是8乘3",
+        "onboard_time": 1758536240,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109928,
+        "num": 109928,
+        "word": "不建议用大手大脚形容花钱",
+        "onboard_time": 1758537022,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109781,
+        "num": 109781,
+        "word": "广东或大范围停工",
+        "onboard_time": 1758516323,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国广大农民致以节日祝贺#"
+    }
+  }
+}
