@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758580777994,
+  "endTime": 1758583370904,
   "band_list": [
     {
       "raw_hot": 1204608,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 630871,
+      "num": 630871,
+      "word": "最快女护士张水华发文道歉",
+      "onboard_time": 1758550884,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 595593,
       "num": 127089,
       "word": "臭宝品牌方回应吃出脚趾甲和烟头",
@@ -49,14 +57,6 @@
       "onboard_time": 1758546083,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 518725,
-      "num": 518725,
-      "word": "最快女护士张水华发文道歉",
-      "onboard_time": 1758550884,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 368583,
@@ -83,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310505,
+      "num": 310505,
+      "word": "酒店因提供监控被性侵施害者威胁",
+      "onboard_time": 1758557842,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308620,
       "num": 308620,
       "word": "广东全面进入台风防御状态",
       "onboard_time": 1758556342,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286110,
+      "num": 286110,
+      "word": "超强台风桦加沙要来了",
+      "onboard_time": 1758579255,
+      "rank": 18,
+      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 284217,
@@ -139,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216836,
+      "num": 216836,
+      "word": "白家涉赌诈资金超200亿",
+      "onboard_time": 1758557301,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213399,
       "num": 213399,
       "word": "向往8堪比白月光回国",
@@ -179,12 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162955,
+      "num": 162955,
+      "word": "以色列可能要反制",
+      "onboard_time": 1758556162,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161107,
       "num": 161107,
       "word": "张峻豪跳angel真的不是ai吗",
       "onboard_time": 1758555860,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159681,
+      "num": 121889,
+      "word": "2025金球奖",
+      "onboard_time": 1758582799,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 158440,
@@ -195,20 +235,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158374,
-      "num": 158374,
-      "word": "以色列可能要反制",
-      "onboard_time": 1758556162,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151225,
       "num": 151225,
       "word": "中国航母又一突破",
       "onboard_time": 1758534862,
       "rank": 25,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 146861,
+      "num": 146861,
+      "word": "秦雯吐槽靳东陈道明",
+      "onboard_time": 1758556461,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 142473,
@@ -235,28 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133516,
-      "num": 154982,
-      "word": "白家涉赌诈资金超200亿",
-      "onboard_time": 1758557301,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127199,
       "num": 127199,
       "word": "毛利兰确认参演明年柯南剧场版",
       "onboard_time": 1758553583,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 125528,
-      "num": 125528,
-      "word": "秦雯吐槽靳东陈道明",
-      "onboard_time": 1758556461,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 124992,
@@ -281,6 +305,14 @@
       "onboard_time": 1758555142,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122633,
+      "num": 122633,
+      "word": "贺峻霖中传国重预报名复试合格",
+      "onboard_time": 1758565636,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 120909,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 90666,
-      "num": 90666,
+      "num": 97639,
       "word": "欠蔡国庆老师365个道歉",
       "onboard_time": 1758546623,
       "rank": 42,
@@ -355,14 +387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 83097,
-      "num": 101955,
-      "word": "酒店因提供监控被性侵施害者威胁",
-      "onboard_time": 1758557842,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81082,
       "num": 81082,
       "word": "深圳地铁",
@@ -379,20 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76137,
+      "num": 98045,
+      "word": "盛夏芬德拉 短剧细糠",
+      "onboard_time": 1758582018,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72853,
+      "num": 80976,
+      "word": "崔丽丽夫妻一直分房睡",
+      "onboard_time": 1758540262,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71901,
       "num": 77339,
       "word": "27的王安宇",
       "onboard_time": 1758559100,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 69868,
-      "num": 80976,
-      "word": "崔丽丽夫妻一直分房睡",
-      "onboard_time": 1758540262,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66356,
@@ -403,6 +435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 65736,
+      "num": 65736,
+      "word": "文化中国行秋分节气",
+      "onboard_time": 1758583219,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63581,
       "num": 63581,
       "word": "台风桦加沙将袭击广东市民发声",
@@ -411,28 +451,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63483,
+      "num": 63483,
+      "word": "医院回应女子凌晨街头产子赤脚抱儿",
+      "onboard_time": 1758552624,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60404,
+      "num": 60404,
+      "word": "哈马斯提议加沙停火60天",
+      "onboard_time": 1758579316,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58753,
-      "num": 58753,
+      "num": 60403,
       "word": "蔡国强烟花秀现场感言视频曝光",
       "onboard_time": 1758558499,
       "rank": 36,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50094,
-      "num": 50094,
-      "word": "超强台风桦加沙要来了",
-      "onboard_time": 1758579255,
-      "rank": 18,
-      "category": "民生新闻,国际时政"
+      "raw_hot": 53363,
+      "num": 60374,
+      "word": "用钉枪射杀邻居男子被鉴定为精神病",
+      "onboard_time": 1758572713,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 47548,
-      "num": 47548,
-      "word": "贺峻霖中传国重预报名复试合格",
-      "onboard_time": 1758565636,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 52707,
+      "num": 60362,
+      "word": "高校教师读博后辞职被索赔17万",
+      "onboard_time": 1758575594,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50816,
+      "num": 60301,
+      "word": "深圳各大超市正加紧备货",
+      "onboard_time": 1758576314,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35902,
@@ -440,22 +504,6 @@
       "word": "深圳宣布明后天停课",
       "onboard_time": 1758530242,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35654,
-      "num": 42367,
-      "word": "深圳各大超市正加紧备货",
-      "onboard_time": 1758576314,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29605,
-      "num": 29605,
-      "word": "医院回应女子凌晨街头产子赤脚抱儿",
-      "onboard_time": 1758552624,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -475,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26634,
-      "num": 28384,
-      "word": "高校教师读博后辞职被索赔17万",
-      "onboard_time": 1758575594,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25278,
       "num": 28709,
       "word": "蓝战非回应收入争议",
@@ -499,28 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23082,
-      "num": 28377,
-      "word": "用钉枪射杀邻居男子被鉴定为精神病",
-      "onboard_time": 1758572713,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21394,
       "num": 28709,
       "word": "刘雨昕官宣微博音乐盛典",
       "onboard_time": 1758565816,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18689,
-      "num": 60124,
-      "word": "哈马斯提议加沙停火60天",
-      "onboard_time": 1758579316,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15920,
