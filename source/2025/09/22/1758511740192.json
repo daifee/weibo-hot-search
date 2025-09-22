@@ -1,0 +1,410 @@
+{
+  "runTime": 1758511740192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1075929,
+        "num": 1172148,
+        "word": "以色列总理发视频威胁",
+        "onboard_time": 1758504442,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 820458,
+        "num": 820458,
+        "word": "成毅林更新 进组",
+        "onboard_time": 1758507141,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75694,
+        "num": 685336,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758503601,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682820,
+        "num": 682820,
+        "word": "恋与深空",
+        "onboard_time": 1758509181,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 646067,
+        "num": 646067,
+        "word": "刘强东10年1元年薪约定到期",
+        "onboard_time": 1758506241,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 409888,
+        "num": 599633,
+        "word": "超强台风桦加沙最新路径公布",
+        "onboard_time": 1758501262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557132,
+        "num": 557132,
+        "word": "小米17",
+        "onboard_time": 1758507981,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 522244,
+        "num": 522244,
+        "word": "王俊凯回复王源易烊千玺",
+        "onboard_time": 1758497659,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511195,
+        "num": 511195,
+        "word": "花少5马哥点赞",
+        "onboard_time": 1758509361,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145932,
+        "num": 506891,
+        "word": "深圳865个应急避难场所已准备好",
+        "onboard_time": 1758510560,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 968533,
+        "num": 503695,
+        "word": "我的阿勒泰作者谴责始祖鸟烟花秀",
+        "onboard_time": 1758506061,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699883,
+        "num": 495785,
+        "word": "王冕官宣怀孕",
+        "onboard_time": 1758497781,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564820,
+        "num": 492495,
+        "word": "陆毅提议鲍蕾陈乔恩一起睡",
+        "onboard_time": 1758507621,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489436,
+        "num": 489436,
+        "word": "内蒙古一地集中采集男性居民血样",
+        "onboard_time": 1758505761,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 477571,
+        "num": 477571,
+        "word": "花少7埃及站被坑",
+        "onboard_time": 1758498860,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435601,
+        "num": 435601,
+        "word": "李乃文剪彩后把彩头扔了",
+        "onboard_time": 1758509181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394684,
+        "num": 394684,
+        "word": "见到这种紫色保温壶立即报警",
+        "onboard_time": 1758509601,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431769,
+        "num": 383709,
+        "word": "快30了身高从165厘米长到171厘米",
+        "onboard_time": 1758501803,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138259,
+        "num": 370404,
+        "word": "支付宝emoji",
+        "onboard_time": 1758507981,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84719,
+        "num": 337560,
+        "word": "桦加沙给珠三角的考验或堪比山竹",
+        "onboard_time": 1758510560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148840,
+        "num": 334184,
+        "word": "这是1995年想象中的2025吗",
+        "onboard_time": 1758507261,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161417,
+        "num": 308700,
+        "word": "小米17颜值",
+        "onboard_time": 1758510260,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 297208,
+        "num": 297208,
+        "word": "今年以来最强台风来袭",
+        "onboard_time": 1758462444,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252887,
+        "num": 252887,
+        "word": "金晨剪彩时扔彩头",
+        "onboard_time": 1758500902,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247516,
+        "num": 247516,
+        "word": "赵今麦 大麦",
+        "onboard_time": 1758508761,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247100,
+        "num": 247100,
+        "word": "和祝福祖国花篮合个影",
+        "onboard_time": 1758511222,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214256,
+        "num": 245294,
+        "word": "长相思2的黄灿灿",
+        "onboard_time": 1758510861,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209481,
+        "num": 244106,
+        "word": "开始跳舞吧官宣全C导师阵容",
+        "onboard_time": 1758511282,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187628,
+        "num": 241474,
+        "word": "井迪好像在玩分手厨房",
+        "onboard_time": 1758510020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42018,
+        "num": 240513,
+        "word": "中产运动三件套又换了",
+        "onboard_time": 1758510622,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186465,
+        "num": 239234,
+        "word": "银河左岸",
+        "onboard_time": 1758511041,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237491,
+        "num": 237491,
+        "word": "金正恩强调朝鲜不会无核化",
+        "onboard_time": 1758510440,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204605,
+        "num": 204605,
+        "word": "小米17系列发布会官宣",
+        "onboard_time": 1758509000,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85299,
+        "num": 196554,
+        "word": "华为手表超长长长续航突破21天",
+        "onboard_time": 1758507201,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192722,
+        "num": 192722,
+        "word": "安踏股价大跌",
+        "onboard_time": 1758505461,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185599,
+        "num": 185599,
+        "word": "已查封7389套问题家纺四件套",
+        "onboard_time": 1758507441,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 185494,
+        "num": 185494,
+        "word": "花神沈月",
+        "onboard_time": 1758505221,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181442,
+        "num": 181442,
+        "word": "年轻人已经卷到装修赛道了",
+        "onboard_time": 1758509901,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179596,
+        "num": 179596,
+        "word": "广东江门全市五停",
+        "onboard_time": 1758503243,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176064,
+        "num": 176064,
+        "word": "孙颖莎 多芬",
+        "onboard_time": 1758511403,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170522,
+        "num": 170522,
+        "word": "当一个小学老师决定不当班主任",
+        "onboard_time": 1758510141,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21376,
+        "num": 155310,
+        "word": "玩户外人基础装备就不基础",
+        "onboard_time": 1758510260,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152398,
+        "num": 152398,
+        "word": "马斯克与特朗普闹掰后再同框",
+        "onboard_time": 1758500181,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151083,
+        "num": 151083,
+        "word": "谁说山西菜登不了台面",
+        "onboard_time": 1758511282,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145244,
+        "num": 145244,
+        "word": "台湾大学生被韩国人扇巴掌",
+        "onboard_time": 1758501381,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133647,
+        "num": 133647,
+        "word": "大风暴雨即将抵达广东",
+        "onboard_time": 1758511522,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131981,
+        "num": 131981,
+        "word": "易烊千玺给王俊凯的生日祝福",
+        "onboard_time": 1758467365,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126533,
+        "num": 126533,
+        "word": "鹅鸭杀不限号测试定档",
+        "onboard_time": 1758510980,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122285,
+        "num": 122285,
+        "word": "杜兰特拦截重返勇士交易",
+        "onboard_time": 1758509302,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120926,
+        "num": 120926,
+        "word": "蔡国强去年无人机烟花表演未报备",
+        "onboard_time": 1758511702,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方可以相互成就共同繁荣#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758510802204,
+  "endTime": 1758511740192,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1037829,
-      "num": 486795,
+      "num": 503695,
       "word": "我的阿勒泰作者谴责始祖鸟烟花秀",
       "onboard_time": 1758506061,
       "rank": 33,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1001978,
-      "num": 483808,
+      "num": 495785,
       "word": "王冕官宣怀孕",
       "onboard_time": 1758497781,
       "rank": 17,
@@ -267,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 820458,
+      "num": 820458,
+      "word": "成毅林更新 进组",
+      "onboard_time": 1758507141,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 812532,
       "num": 205566,
       "word": "易烊千玺",
@@ -347,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 737774,
-      "num": 737774,
-      "word": "成毅林更新 进组",
-      "onboard_time": 1758507141,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 723229,
       "num": 723229,
       "word": "不眠日大结局",
@@ -385,6 +385,14 @@
       "onboard_time": 1758435561,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 682820,
+      "num": 682820,
+      "word": "恋与深空",
+      "onboard_time": 1758509181,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 665663,
@@ -425,6 +433,14 @@
       "onboard_time": 1758463527,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646067,
+      "num": 646067,
+      "word": "刘强东10年1元年薪约定到期",
+      "onboard_time": 1758506241,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 640485,
@@ -507,19 +523,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 564820,
+      "num": 492495,
+      "word": "陆毅提议鲍蕾陈乔恩一起睡",
+      "onboard_time": 1758507621,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563119,
       "num": 521550,
       "word": "王玉雯看到直播的刘宇宁天都塌了",
       "onboard_time": 1758438322,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 561682,
-      "num": 483572,
-      "word": "陆毅提议鲍蕾陈乔恩一起睡",
-      "onboard_time": 1758507621,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -563,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 511195,
+      "num": 511195,
+      "word": "花少5马哥点赞",
+      "onboard_time": 1758509361,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505616,
       "num": 352259,
       "word": "有存款和没存款的区别",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 494280,
-      "num": 558638,
+      "num": 599633,
       "word": "超强台风桦加沙最新路径公布",
       "onboard_time": 1758501262,
       "rank": 5,
@@ -609,14 +633,6 @@
       "onboard_time": 1758453861,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 489434,
-      "num": 489434,
-      "word": "恋与深空",
-      "onboard_time": 1758509181,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 473458,
@@ -681,6 +697,14 @@
       "onboard_time": 1758380482,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435601,
+      "num": 435601,
+      "word": "李乃文剪彩后把彩头扔了",
+      "onboard_time": 1758509181,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 431237,
@@ -755,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394684,
+      "num": 394684,
+      "word": "见到这种紫色保温壶立即报警",
+      "onboard_time": 1758509601,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385711,
       "num": 290998,
       "word": "台湾大学生被韩国人扇巴掌",
@@ -809,14 +841,6 @@
       "onboard_time": 1758431841,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 347148,
-      "num": 347148,
-      "word": "刘强东10年1元年薪约定到期",
-      "onboard_time": 1758506241,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 338211,
@@ -1083,14 +1107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 255696,
-      "num": 255696,
-      "word": "花少5马哥点赞",
-      "onboard_time": 1758509361,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254383,
       "num": 254383,
       "word": "iG冒泡赛",
@@ -1131,12 +1147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246730,
-      "num": 246730,
-      "word": "李乃文剪彩后把彩头扔了",
-      "onboard_time": 1758509181,
-      "rank": 21,
+      "raw_hot": 247516,
+      "num": 247516,
+      "word": "赵今麦 大麦",
+      "onboard_time": 1758508761,
+      "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247100,
+      "num": 247100,
+      "word": "和祝福祖国花篮合个影",
+      "onboard_time": 1758511222,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245725,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1758458903,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237491,
+      "num": 237491,
+      "word": "金正恩强调朝鲜不会无核化",
+      "onboard_time": 1758510440,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 237138,
@@ -1291,20 +1323,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 218598,
-      "num": 218598,
-      "word": "见到这种紫色保温壶立即报警",
-      "onboard_time": 1758509601,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215179,
       "num": 215179,
       "word": "巴菲特清仓比亚迪",
       "onboard_time": 1758469943,
       "rank": 30,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 214256,
+      "num": 245294,
+      "word": "长相思2的黄灿灿",
+      "onboard_time": 1758510861,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214002,
@@ -1355,6 +1387,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 209481,
+      "num": 244106,
+      "word": "开始跳舞吧官宣全C导师阵容",
+      "onboard_time": 1758511282,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209256,
       "num": 246039,
       "word": "成毅李一桐新剧快了",
@@ -1368,14 +1408,6 @@
       "word": "王俊凯的生日碎碎念",
       "onboard_time": 1758385942,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 208517,
-      "num": 242867,
-      "word": "赵今麦 大麦",
-      "onboard_time": 1758508761,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1404,7 +1436,7 @@
     },
     {
       "raw_hot": 206093,
-      "num": 237781,
+      "num": 241474,
       "word": "井迪好像在玩分手厨房",
       "onboard_time": 1758510020,
       "rank": 24,
@@ -1691,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186465,
+      "num": 239234,
+      "word": "银河左岸",
+      "onboard_time": 1758511041,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186101,
       "num": 242167,
       "word": "五月天演唱会内场起冲突目击者发声",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1758467725,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181442,
+      "num": 181442,
+      "word": "年轻人已经卷到装修赛道了",
+      "onboard_time": 1758509901,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 180736,
@@ -1827,6 +1875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176064,
+      "num": 176064,
+      "word": "孙颖莎 多芬",
+      "onboard_time": 1758511403,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175981,
       "num": 175981,
       "word": "国务院食安办回应预制菜",
@@ -1836,7 +1892,7 @@
     },
     {
       "raw_hot": 175258,
-      "num": 249708,
+      "num": 370404,
       "word": "支付宝emoji",
       "onboard_time": 1758507981,
       "rank": 19,
@@ -1849,14 +1905,6 @@
       "onboard_time": 1758425363,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173817,
-      "num": 173817,
-      "word": "年轻人已经卷到装修赛道了",
-      "onboard_time": 1758509901,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 173592,
@@ -1912,6 +1960,14 @@
       "word": "青藏高原生态保护法有明文规定",
       "onboard_time": 1758436161,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170522,
+      "num": 170522,
+      "word": "当一个小学老师决定不当班主任",
+      "onboard_time": 1758510141,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2003,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161417,
+      "num": 308700,
+      "word": "小米17颜值",
+      "onboard_time": 1758510260,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 161302,
       "num": 161302,
       "word": "向往的生活gap了一下",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1758410058,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158329,
-      "num": 158329,
-      "word": "当一个小学老师决定不当班主任",
-      "onboard_time": 1758510141,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158208,
@@ -2220,7 +2276,7 @@
     },
     {
       "raw_hot": 151580,
-      "num": 287444,
+      "num": 334184,
       "word": "这是1995年想象中的2025吗",
       "onboard_time": 1758507261,
       "rank": 17,
@@ -2249,6 +2305,14 @@
       "onboard_time": 1758465086,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151083,
+      "num": 151083,
+      "word": "谁说山西菜登不了台面",
+      "onboard_time": 1758511282,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 148774,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1758459803,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145932,
+      "num": 506891,
+      "word": "深圳865个应急避难场所已准备好",
+      "onboard_time": 1758510560,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145906,
@@ -2595,6 +2667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133647,
+      "num": 133647,
+      "word": "大风暴雨即将抵达广东",
+      "onboard_time": 1758511522,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133238,
       "num": 133238,
       "word": "导入聊天记录 设备空间不足",
@@ -2721,6 +2801,14 @@
       "onboard_time": 1758443964,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126533,
+      "num": 126533,
+      "word": "鹅鸭杀不限号测试定档",
+      "onboard_time": 1758510980,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 126466,
@@ -2929,6 +3017,14 @@
       "onboard_time": 1758465566,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120926,
+      "num": 120926,
+      "word": "蔡国强去年无人机烟花表演未报备",
+      "onboard_time": 1758511702,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120796,
@@ -3411,14 +3507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96453,
-      "num": 224144,
-      "word": "深圳865个应急避难场所已准备好",
-      "onboard_time": 1758510560,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96335,
       "num": 96335,
       "word": "植物学博士谈始祖鸟烟花秀事件",
@@ -3619,12 +3707,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 84884,
-      "num": 246810,
-      "word": "小米17颜值",
-      "onboard_time": 1758510260,
-      "rank": 20,
-      "category": "数码"
+      "raw_hot": 84719,
+      "num": 337560,
+      "word": "桦加沙给珠三角的考验或堪比山竹",
+      "onboard_time": 1758510560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83438,
@@ -4003,14 +4091,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 50383,
-      "num": 225871,
-      "word": "桦加沙给珠三角的考验或堪比山竹",
-      "onboard_time": 1758510560,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48103,
       "num": 144519,
       "word": "部分高端四件套全靠吹",
@@ -4123,6 +4203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42018,
+      "num": 240513,
+      "word": "中产运动三件套又换了",
+      "onboard_time": 1758510622,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41829,
       "num": 177584,
       "word": "女孩饮酒后跳江酒友被判赔9千",
@@ -4148,7 +4236,7 @@
     },
     {
       "raw_hot": 35754,
-      "num": 138168,
+      "num": 155310,
       "word": "玩户外人基础装备就不基础",
       "onboard_time": 1758510260,
       "rank": 41,
@@ -4417,14 +4505,6 @@
       "onboard_time": 1758481815,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11492,
-      "num": 219410,
-      "word": "中产运动三件套又换了",
-      "onboard_time": 1758510622,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11470,
