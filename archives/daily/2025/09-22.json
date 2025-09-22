@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758533456215,
+  "endTime": 1758534211807,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1773170,
+      "num": 1594282,
+      "word": "深圳停工",
+      "onboard_time": 1758531201,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1630936,
       "num": 1358439,
       "word": "王安宇暗示高圆圆站错位置",
@@ -32,14 +40,6 @@
       "word": "台风",
       "onboard_time": 1758522681,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1594282,
-      "num": 1594282,
-      "word": "深圳停工",
-      "onboard_time": 1758531201,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 890382,
-      "num": 457940,
+      "num": 474887,
       "word": "建议所有妈妈去购买iphone17",
       "onboard_time": 1758528022,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588819,
+      "num": 588819,
+      "word": "陈紫函自曝因长期分居婚姻亮红灯",
+      "onboard_time": 1758524781,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577207,
       "num": 491505,
       "word": "刘芸婚后第一个放弃的是事业",
@@ -395,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509593,
+      "num": 509593,
+      "word": "中方回应金正恩称朝鲜不会无核化",
+      "onboard_time": 1758530422,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 508643,
       "num": 322086,
       "word": "小米17颜值",
       "onboard_time": 1758510260,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 502284,
-      "num": 458712,
-      "word": "陈紫函自曝因长期分居婚姻亮红灯",
-      "onboard_time": 1758524781,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 493045,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485685,
+      "num": 485685,
+      "word": "刘涛说关晓彤的腿是特效做的",
+      "onboard_time": 1758529641,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484470,
       "num": 484470,
       "word": "东莞五停",
@@ -427,12 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481682,
-      "num": 481682,
-      "word": "中方回应金正恩称朝鲜不会无核化",
-      "onboard_time": 1758530422,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 476265,
+      "num": 476265,
+      "word": "13岁男孩扒飞机飞行94分钟",
+      "onboard_time": 1758530362,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 447258,
@@ -465,14 +481,6 @@
       "onboard_time": 1758511403,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 396620,
-      "num": 355051,
-      "word": "刘涛说关晓彤的腿是特效做的",
-      "onboard_time": 1758529641,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 385711,
@@ -571,14 +579,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 310351,
-      "num": 431424,
-      "word": "13岁男孩扒飞机飞行94分钟",
-      "onboard_time": 1758530362,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 310106,
       "num": 310106,
       "word": "盛夏芬德拉",
@@ -667,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 256637,
+      "num": 164104,
+      "word": "日本网友指责中国男子救人",
+      "onboard_time": 1758533781,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 251368,
       "num": 242566,
       "word": "旺旺冻痴 虚假宣传",
@@ -696,6 +704,14 @@
       "word": "和祝福祖国花篮合个影",
       "onboard_time": 1758511222,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238388,
+      "num": 238388,
+      "word": "始祖鸟 公关",
+      "onboard_time": 1758532763,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -971,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186336,
+      "num": 186336,
+      "word": "这么帅的男主却这么窝囊",
+      "onboard_time": 1758533002,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185339,
       "num": 185339,
       "word": "刘耀文 老式小孩",
@@ -1067,12 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173415,
+      "num": 173415,
+      "word": "优酷新恋综颜值",
+      "onboard_time": 1758533542,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172646,
       "num": 172646,
       "word": "年薪1.67亿的清华学霸仍然在逃",
       "onboard_time": 1758518302,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171159,
+      "num": 171159,
+      "word": "柯南动画最新话",
+      "onboard_time": 1758532823,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 170522,
@@ -1147,12 +1187,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164896,
-      "num": 164896,
-      "word": "这么帅的男主却这么窝囊",
-      "onboard_time": 1758533002,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 164070,
+      "num": 164070,
+      "word": "金价",
+      "onboard_time": 1758530902,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 163076,
@@ -1355,14 +1395,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 145495,
-      "num": 145495,
-      "word": "柯南动画最新话",
-      "onboard_time": 1758532823,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 145244,
       "num": 359287,
       "word": "和平鸽落在天安门广场大花篮上",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1758515782,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140574,
-      "num": 140574,
-      "word": "始祖鸟 公关",
-      "onboard_time": 1758532763,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140419,
@@ -1561,14 +1585,6 @@
       "onboard_time": 1758518423,
       "rank": 48,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 130635,
-      "num": 130635,
-      "word": "金价",
-      "onboard_time": 1758530902,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 130485,
@@ -1707,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121224,
+      "num": 121224,
+      "word": "AG泰式校服校园感",
+      "onboard_time": 1758534141,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120926,
       "num": 120926,
       "word": "蔡国强去年无人机烟花表演未报备",
@@ -1745,6 +1769,14 @@
       "onboard_time": 1758503841,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114666,
+      "num": 114666,
+      "word": "西安厕所标识",
+      "onboard_time": 1758533002,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113604,
@@ -1827,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110274,
+      "num": 110274,
+      "word": "广州天气",
+      "onboard_time": 1758530001,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109598,
       "num": 109598,
       "word": "风云四号卫星带你看台风桦加沙",
@@ -1851,8 +1891,24 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108516,
+      "num": 108516,
+      "word": "米勒谈iG面对TES胜算",
+      "onboard_time": 1758533842,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106019,
+      "num": 106019,
+      "word": "盛世天下全球销量破百万套",
+      "onboard_time": 1758533481,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105824,
-      "num": 105824,
+      "num": 164119,
       "word": "珠海全市明后天停课",
       "onboard_time": 1758530961,
       "rank": 45,
@@ -1881,14 +1937,6 @@
       "onboard_time": 1758530542,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103534,
-      "num": 103534,
-      "word": "西安厕所标识",
-      "onboard_time": 1758533002,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103411,
@@ -1920,14 +1968,6 @@
       "word": "女子凌晨街头产子赤脚抱婴儿",
       "onboard_time": 1758529402,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101575,
-      "num": 101575,
-      "word": "广州天气",
-      "onboard_time": 1758530001,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2032,6 +2072,14 @@
       "word": "李湘王诗龄看秀路透",
       "onboard_time": 1758491234,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91630,
+      "num": 121691,
+      "word": "董子健给8岁女儿庆生",
+      "onboard_time": 1758533303,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -2179,14 +2227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77044,
-      "num": 121691,
-      "word": "董子健给8岁女儿庆生",
-      "onboard_time": 1758533303,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76921,
       "num": 97555,
       "word": "和人打交道时不必过度分析对方",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1758478816,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73630,
+      "num": 180773,
+      "word": "中方关注朝鲜半岛局势发展演变",
+      "onboard_time": 1758533842,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 73615,
@@ -2363,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55541,
+      "num": 121439,
+      "word": "金正恩称朝韩决不会合并",
+      "onboard_time": 1758533362,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55066,
       "num": 98122,
       "word": "张杰 月亮之上",
@@ -2401,14 +2457,6 @@
       "onboard_time": 1758474198,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51531,
-      "num": 121439,
-      "word": "金正恩称朝韩决不会合并",
-      "onboard_time": 1758533362,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51452,
@@ -2480,6 +2528,14 @@
       "word": "飞机到底应不应该锁座",
       "onboard_time": 1758481034,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43277,
+      "num": 114742,
+      "word": "江西鸡排哥6元鸡排卖出60元情绪价值",
+      "onboard_time": 1758533963,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 17:30:56
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 17:43:31
 </p>
 </blockquote>
 <p>
@@ -1047,6 +1047,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%B7%A5%23" target="weibo">
+深圳停工（热度：1773170）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E5%9B%A0%E6%A8%A1%E4%BB%BF%E9%BB%84%E5%AD%90%E9%9F%AC%E5%AF%BC%E8%87%B4%E7%A0%B4%E4%BA%A7%23" target="weibo">
 黄子诚因模仿黄子韬导致破产（热度：1769913）
 </a>
@@ -1319,12 +1325,6 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E8%B4%A6%E5%8F%B7%E8%A7%A3%E9%99%A4%E6%8E%88%E6%9D%83%23" target="weibo">
 支付宝账号解除授权（热度：1595363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%B7%A5%23" target="weibo">
-深圳停工（热度：1594282）
 </a>
 </li>
 
