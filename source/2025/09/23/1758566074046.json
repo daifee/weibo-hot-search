@@ -1,0 +1,410 @@
+{
+  "runTime": 1758566074046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 263816,
+        "num": 263816,
+        "word": "广东全面进入临战状态",
+        "onboard_time": 1758555202,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156637,
+        "num": 156637,
+        "word": "台风",
+        "onboard_time": 1758522681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7981,
+        "num": 136471,
+        "word": "中国战机360度无死角纯帅",
+        "onboard_time": 1758535043,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208124,
+        "num": 136288,
+        "word": "秦雯王家卫录音",
+        "onboard_time": 1758555022,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135378,
+        "num": 135378,
+        "word": "台风桦加沙最新消息汇总",
+        "onboard_time": 1758558559,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125914,
+        "num": 125914,
+        "word": "广州伤医事件受伤医生脱离生命危险",
+        "onboard_time": 1758556641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107879,
+        "num": 107879,
+        "word": "广东全面进入台风防御状态",
+        "onboard_time": 1758556342,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103911,
+        "num": 103911,
+        "word": "白家涉赌诈资金超200亿",
+        "onboard_time": 1758557301,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88041,
+        "num": 88041,
+        "word": "广州升级台风黄色预警",
+        "onboard_time": 1758550943,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82163,
+        "num": 82163,
+        "word": "陈紫函自曝因长期分居婚姻亮红灯",
+        "onboard_time": 1758524781,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175371,
+        "num": 82118,
+        "word": "喜马拉雅炸山事已涉嫌违法",
+        "onboard_time": 1758554423,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141678,
+        "num": 81902,
+        "word": "网红迅猛龙训粉",
+        "onboard_time": 1758546083,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81072,
+        "num": 81072,
+        "word": "深圳停工",
+        "onboard_time": 1758531201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65414,
+        "num": 65414,
+        "word": "最快女护士张水华发文道歉",
+        "onboard_time": 1758550884,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63031,
+        "num": 63031,
+        "word": "台风桦加沙将袭击广东市民发声",
+        "onboard_time": 1758563296,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62245,
+        "num": 62245,
+        "word": "福建舰弹射3连",
+        "onboard_time": 1758536781,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49194,
+        "num": 49194,
+        "word": "日本 苹果病",
+        "onboard_time": 1758537081,
+        "rank": 16,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 49185,
+        "num": 49185,
+        "word": "白百何工作室 明天没更新就是下岗了",
+        "onboard_time": 1758549865,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47946,
+        "num": 47946,
+        "word": "日本观众看完电影731后情绪崩溃",
+        "onboard_time": 1758538762,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45175,
+        "num": 45175,
+        "word": "沈月王敬轩我家那闺女表现被审判",
+        "onboard_time": 1758541282,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43635,
+        "num": 43635,
+        "word": "以色列可能要反制",
+        "onboard_time": 1758556162,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42916,
+        "num": 42916,
+        "word": "贺峻霖中传成功保研",
+        "onboard_time": 1758535942,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39407,
+        "num": 39407,
+        "word": "桦加沙到哪了",
+        "onboard_time": 1758549083,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37309,
+        "num": 37309,
+        "word": "被性侵女高管丈夫不敢看妻子视频",
+        "onboard_time": 1758535462,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34355,
+        "num": 34355,
+        "word": "蕾哈娜官宣生女",
+        "onboard_time": 1758555860,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33980,
+        "num": 33980,
+        "word": "秦雯吐槽靳东陈道明",
+        "onboard_time": 1758556461,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36578,
+        "num": 33919,
+        "word": "贺峻霖中传国重预报名复试合格",
+        "onboard_time": 1758565636,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33825,
+        "num": 33825,
+        "word": "深圳建议储备至少3天的物资",
+        "onboard_time": 1758545542,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32889,
+        "num": 32889,
+        "word": "张晚意曾签约经纪公司解约赔60万",
+        "onboard_time": 1758548003,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29618,
+        "num": 32620,
+        "word": "欠蔡国庆老师365个道歉",
+        "onboard_time": 1758546623,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74094,
+        "num": 32620,
+        "word": "臭宝品牌方回应吃出脚趾甲和烟头",
+        "onboard_time": 1758554781,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32549,
+        "num": 32549,
+        "word": "13岁男孩扒飞机飞行94分钟",
+        "onboard_time": 1758530362,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32003,
+        "num": 32003,
+        "word": "烟花秀距最近水体约30米",
+        "onboard_time": 1758554061,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31644,
+        "num": 31644,
+        "word": "谢霆锋吉他图案是王菲的纹身",
+        "onboard_time": 1758550762,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30996,
+        "num": 30996,
+        "word": "13岁身高177男孩睡觉前必走流程",
+        "onboard_time": 1758547583,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29439,
+        "num": 29439,
+        "word": "广东省内所有高铁停运",
+        "onboard_time": 1758522982,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28906,
+        "num": 28906,
+        "word": "蔡国强烟花秀现场感言视频曝光",
+        "onboard_time": 1758558499,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28848,
+        "num": 28848,
+        "word": "酒店因提供监控被性侵施害者威胁",
+        "onboard_time": 1758557842,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28713,
+        "num": 28713,
+        "word": "张大仙战队",
+        "onboard_time": 1758555142,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27622,
+        "num": 28712,
+        "word": "27的王安宇",
+        "onboard_time": 1758559100,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26209,
+        "num": 28712,
+        "word": "医院回应女子凌晨街头产子赤脚抱儿",
+        "onboard_time": 1758552624,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24454,
+        "num": 28712,
+        "word": "广州23日停课",
+        "onboard_time": 1758551305,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24360,
+        "num": 28711,
+        "word": "向往8堪比白月光回国",
+        "onboard_time": 1758549683,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24268,
+        "num": 28711,
+        "word": "中国航母又一突破",
+        "onboard_time": 1758534862,
+        "rank": 43,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 23279,
+        "num": 28710,
+        "word": "10月1号将出现的六批人",
+        "onboard_time": 1758531024,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22242,
+        "num": 28710,
+        "word": "白鹿直播",
+        "onboard_time": 1758544042,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21594,
+        "num": 28709,
+        "word": "毛利兰确认参演明年柯南剧场版",
+        "onboard_time": 1758553583,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21394,
+        "num": 28709,
+        "word": "刘雨昕官宣微博音乐盛典",
+        "onboard_time": 1758565816,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19537,
+        "num": 28709,
+        "word": "蓝战非回应收入争议",
+        "onboard_time": 1758566055,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 17451,
+        "num": 28709,
+        "word": "罗永浩否认跑路",
+        "onboard_time": 1758554423,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#三农工作在习近平心里分量满满#"
+    }
+  }
+}

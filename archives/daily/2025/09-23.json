@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758562746897,
+  "endTime": 1758566074046,
   "band_list": [
     {
       "raw_hot": 1204608,
@@ -403,12 +403,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63031,
+      "num": 63031,
+      "word": "台风桦加沙将袭击广东市民发声",
+      "onboard_time": 1758563296,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58753,
       "num": 58753,
       "word": "蔡国强烟花秀现场感言视频曝光",
       "onboard_time": 1758558499,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36578,
+      "num": 33919,
+      "word": "贺峻霖中传国重预报名复试合格",
+      "onboard_time": 1758565636,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 35902,
@@ -433,6 +449,30 @@
       "onboard_time": 1758561918,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26209,
+      "num": 28712,
+      "word": "医院回应女子凌晨街头产子赤脚抱儿",
+      "onboard_time": 1758552624,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21394,
+      "num": 28709,
+      "word": "刘雨昕官宣微博音乐盛典",
+      "onboard_time": 1758565816,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 19537,
+      "num": 28709,
+      "word": "蓝战非回应收入争议",
+      "onboard_time": 1758566055,
+      "rank": 48,
+      "category": "游戏,网红"
     }
   ],
   "hotgov_list": [
