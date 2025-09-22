@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/23 04:40:53
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/23 05:22:03
 </p>
 </blockquote>
 <p>
@@ -5397,6 +5397,12 @@ Knight有我就有冠军（热度：18611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E9%92%89%E6%9E%AA%E5%B0%84%E6%9D%80%E9%82%BB%E5%B1%85%E7%94%B7%E5%AD%90%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%23" target="weibo">
+用钉枪射杀邻居男子被鉴定为精神病（热度：16295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E4%B9%8B%E5%85%89%E4%B8%80%E8%BE%B9%E5%B7%A5%E4%BD%9C%E4%B8%80%E8%BE%B9%E5%87%BA%E5%9B%BE%23" target="weibo">
 夏之光一边工作一边出图（热度：15920）
 </a>
@@ -5409,20 +5415,26 @@ Knight有我就有冠军（热度：18611）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%AA%89%E5%8D%9A%E6%BC%94%E5%94%B1%E4%BC%9A%E6%94%B6%E5%AE%98%23" target="weibo">
-黄誉博演唱会收官（热度：13286）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E8%AF%BB%E5%8D%9A%E5%90%8E%E8%BE%9E%E8%81%8C%E8%A2%AB%E7%B4%A2%E8%B5%9417%E4%B8%87%23" target="weibo">
+高校教师读博后辞职被索赔17万（热度：13851）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E9%92%89%E6%9E%AA%E5%B0%84%E6%9D%80%E9%82%BB%E5%B1%85%E7%94%B7%E5%AD%90%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%23" target="weibo">
-用钉枪射杀邻居男子被鉴定为精神病（热度：13045）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%88%98%E6%96%97%E6%90%AD%E5%AD%901%E6%8E%A21%E6%89%931%E5%8D%8F%E5%90%8C%23" target="weibo">
+福建舰战斗搭子1探1打1协同（热度：13705）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E5%BC%B9%E5%B0%84%E5%B8%85%E5%88%B0%E4%BA%86%23" target="weibo">
-被中国战机弹射帅到了（热度：12638）
+被中国战机弹射帅到了（热度：13623）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%AA%89%E5%8D%9A%E6%BC%94%E5%94%B1%E4%BC%9A%E6%94%B6%E5%AE%98%23" target="weibo">
+黄誉博演唱会收官（热度：13286）
 </a>
 </li>
 
