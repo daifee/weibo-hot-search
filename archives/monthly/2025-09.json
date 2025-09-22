@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758530128916,
+  "endTime": 1758530857302,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1763,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1584664,
+      "num": 1584664,
+      "word": "台风",
+      "onboard_time": 1757222542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1577744,
       "num": 745153,
       "word": "蒋智豪确诊肺癌晚期最新发声",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1758340223,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1407610,
-      "num": 1407610,
-      "word": "台风",
-      "onboard_time": 1757222542,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1396890,
@@ -4419,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 890382,
+      "num": 457940,
+      "word": "建议所有妈妈去购买iphone17",
+      "onboard_time": 1758528022,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 889815,
       "num": 277665,
       "word": "迪丽热巴不需要你的美颜参数",
@@ -4585,6 +4593,14 @@
       "onboard_time": 1757744363,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 870756,
+      "num": 580601,
+      "word": "黄灿灿 你不就是平台的人吗",
+      "onboard_time": 1758525081,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 870725,
@@ -6131,14 +6147,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 735179,
-      "num": 580601,
-      "word": "黄灿灿 你不就是平台的人吗",
-      "onboard_time": 1758525081,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 735131,
       "num": 1085578,
       "word": "教师节",
@@ -6713,6 +6721,14 @@
       "onboard_time": 1757168185,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 686694,
+      "num": 686694,
+      "word": "小米17Pro冷烟紫",
+      "onboard_time": 1758527361,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 684413,
@@ -8187,14 +8203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582527,
-      "num": 582527,
-      "word": "小米17Pro冷烟紫",
-      "onboard_time": 1758527361,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 582045,
       "num": 582045,
       "word": "江西一居民多个月水费都是49.93元",
@@ -9267,14 +9275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530500,
-      "num": 457940,
-      "word": "建议所有妈妈去购买iphone17",
-      "onboard_time": 1758528022,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 530393,
       "num": 241753,
       "word": "长期焦虑过度的表现",
@@ -10331,6 +10331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484470,
+      "num": 484470,
+      "word": "东莞五停",
+      "onboard_time": 1758527963,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484386,
       "num": 484386,
       "word": "李昀锐 早知道不接电话了",
@@ -10841,14 +10849,6 @@
       "onboard_time": 1756995445,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 461742,
-      "num": 461742,
-      "word": "东莞五停",
-      "onboard_time": 1758527963,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 461652,
@@ -15019,6 +15019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338228,
+      "num": 338228,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1757902341,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 338211,
       "num": 338211,
       "word": "陈赫把李乃文薅进综艺圈了",
@@ -16665,6 +16673,14 @@
       "onboard_time": 1757760804,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 295272,
+      "num": 434778,
+      "word": "阿富汗男孩爬飞机起落架抵达印度",
+      "onboard_time": 1758526762,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 295125,
@@ -18713,14 +18729,6 @@
       "onboard_time": 1757115439,
       "rank": 15,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 255801,
-      "num": 255801,
-      "word": "国新办新闻发布会",
-      "onboard_time": 1757902341,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 255763,
@@ -20811,6 +20819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226050,
+      "num": 226050,
+      "word": "陈紫函自曝因长期分居婚姻亮红灯",
+      "onboard_time": 1758524781,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225952,
       "num": 225952,
       "word": "娱乐圈终于开始拍查税剧了",
@@ -20825,6 +20841,14 @@
       "onboard_time": 1757508502,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225899,
+      "num": 159562,
+      "word": "中方回应金正恩称朝鲜不会无核化",
+      "onboard_time": 1758530422,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 225792,
@@ -21073,6 +21097,14 @@
       "onboard_time": 1757821402,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222676,
+      "num": 163071,
+      "word": "美团崩了",
+      "onboard_time": 1758526642,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 222461,
@@ -21627,14 +21659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216887,
-      "num": 242741,
-      "word": "阿富汗男孩爬飞机起落架抵达印度",
-      "onboard_time": 1758526762,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 216777,
       "num": 216777,
       "word": "金昭玉醉定档",
@@ -21665,14 +21689,6 @@
       "onboard_time": 1758330981,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 216244,
-      "num": 163071,
-      "word": "美团崩了",
-      "onboard_time": 1758526642,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 216224,
@@ -23851,6 +23867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200157,
+      "num": 200157,
+      "word": "西藏自治区就烟花秀事件开专题会",
+      "onboard_time": 1758525803,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200155,
       "num": 153123,
       "word": "九尾人到了摄影师不见了",
@@ -25683,6 +25707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191460,
+      "num": 191460,
+      "word": "深圳宣布明后天停课",
+      "onboard_time": 1758530242,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191459,
       "num": 191459,
       "word": "内娱全员00后的综艺来了",
@@ -25955,14 +25987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190235,
-      "num": 190235,
-      "word": "西藏自治区就烟花秀事件开专题会",
-      "onboard_time": 1758525803,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190186,
       "num": 190186,
       "word": "黑白局开播",
@@ -26169,6 +26193,14 @@
       "onboard_time": 1756784481,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189143,
+      "num": 189143,
+      "word": "赴山海莲花楼 服装",
+      "onboard_time": 1758524843,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 189136,
@@ -28419,6 +28451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177016,
+      "num": 177016,
+      "word": "高质量对谈专治精神内耗",
+      "onboard_time": 1758530542,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176910,
       "num": 199947,
       "word": "黄金飙升原因",
@@ -29041,14 +29081,6 @@
       "onboard_time": 1758294804,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 173529,
-      "num": 173529,
-      "word": "陈紫函自曝因长期分居婚姻亮红灯",
-      "onboard_time": 1758524781,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 173527,
@@ -30001,14 +30033,6 @@
       "onboard_time": 1757999185,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 169191,
-      "num": 169191,
-      "word": "赴山海莲花楼 服装",
-      "onboard_time": 1758524843,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 169140,
@@ -32515,6 +32539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159594,
+      "num": 159594,
+      "word": "刘涛说关晓彤的腿是特效做的",
+      "onboard_time": 1758529641,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159569,
       "num": 159569,
       "word": "台风浣熊升级为超强台风",
@@ -32955,6 +32987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157662,
+      "num": 157662,
+      "word": "李想称没有理想i7",
+      "onboard_time": 1758530422,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 157600,
       "num": 157600,
       "word": "以色列防长称打死卡桑旅发言人",
@@ -33216,6 +33256,14 @@
       "word": "农妇与法官言语冲突被罚10万元",
       "onboard_time": 1758022463,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156475,
+      "num": 243552,
+      "word": "深圳全市明后天停课",
+      "onboard_time": 1758529402,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -49771,6 +49819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110094,
+      "num": 110094,
+      "word": "13岁男孩扒飞机飞行94分钟",
+      "onboard_time": 1758530362,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110087,
       "num": 133958,
       "word": "王毅向韩外长讲述司机舍命救韩游客",
@@ -51635,14 +51691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105242,
-      "num": 243552,
-      "word": "深圳全市明后天停课",
-      "onboard_time": 1758529402,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105238,
       "num": 105238,
       "word": "赴山海成毅专访",
@@ -52009,6 +52057,14 @@
       "onboard_time": 1758329061,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104288,
+      "num": 104288,
+      "word": "对龚俊的聪明有了实感",
+      "onboard_time": 1758530542,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 104258,
@@ -52619,6 +52675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102641,
+      "num": 102641,
+      "word": "任豪新剧鹭卓和卓沅先追上了",
+      "onboard_time": 1758530542,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102636,
       "num": 120508,
       "word": "加拿大北极虾百香果凉米线",
@@ -52905,6 +52969,14 @@
       "onboard_time": 1757227882,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101991,
+      "num": 231008,
+      "word": "新iPhone如何正确充电",
+      "onboard_time": 1758529882,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 101976,
@@ -55545,14 +55617,6 @@
       "onboard_time": 1757085143,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94477,
-      "num": 156853,
-      "word": "新iPhone如何正确充电",
-      "onboard_time": 1758529882,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 94431,
@@ -59609,14 +59673,6 @@
       "onboard_time": 1758074662,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 77691,
-      "num": 112889,
-      "word": "刘涛说关晓彤的腿是特效做的",
-      "onboard_time": 1758529641,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 77656,
@@ -64931,6 +64987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46969,
+      "num": 177329,
+      "word": "享界S9T开启首批交付",
+      "onboard_time": 1758528321,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46942,
       "num": 60849,
       "word": "三兵是哪三兵",
@@ -66457,14 +66521,6 @@
       "onboard_time": 1758253281,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36913,
-      "num": 158941,
-      "word": "享界S9T开启首批交付",
-      "onboard_time": 1758528321,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 36825,
@@ -68395,6 +68451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23817,
+      "num": 911949,
+      "word": "战机在祖国一秒变孩子王",
+      "onboard_time": 1758498921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23796,
       "num": 37171,
       "word": "嗨皮牙给汪苏泷拍照",
@@ -69089,14 +69153,6 @@
       "onboard_time": 1758194781,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19041,
-      "num": 911949,
-      "word": "战机在祖国一秒变孩子王",
-      "onboard_time": 1758498921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18945,

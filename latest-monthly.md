@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 16:35:28
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/22 16:47:37
 </p>
 </blockquote>
 <p>
@@ -1335,6 +1335,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
+台风（热度：1584664）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%99%BA%E8%B1%AA%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
 蒋智豪确诊肺癌晚期最新发声（热度：1577744）
 </a>
@@ -1631,12 +1637,6 @@ iPhone17Pro被黄牛拒收（热度：1422215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E8%90%BD%E9%80%89%E5%B0%8F%E5%A6%B9%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23" target="weibo">
 花少7落选小妹发文回应（热度：1413835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
-台风（热度：1407610）
 </a>
 </li>
 
@@ -3327,6 +3327,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%A6%88%E5%A6%88%E5%8E%BB%E8%B4%AD%E4%B9%B0iphone17%23" target="weibo">
+建议所有妈妈去购买iphone17（热度：890382）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BD%A0%E7%9A%84%E7%BE%8E%E9%A2%9C%E5%8F%82%E6%95%B0%23" target="weibo">
 迪丽热巴不需要你的美颜参数（热度：889815）
 </a>
@@ -3449,6 +3455,12 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%96%B0%E5%93%81%E5%8F%91%E5%94%AE%E4%BB%8510%E4%BA%BA%E6%8E%92%E9%98%9F%23" target="weibo">
 泡泡玛特新品发售仅10人排队（热度：870788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%20%E4%BD%A0%E4%B8%8D%E5%B0%B1%E6%98%AF%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BA%BA%E5%90%97%23" target="weibo">
+黄灿灿 你不就是平台的人吗（热度：870756）
 </a>
 </li>
 
@@ -4611,12 +4623,6 @@ BLG对战TES（热度：746464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%20%E4%BD%A0%E4%B8%8D%E5%B0%B1%E6%98%AF%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BA%BA%E5%90%97%23" target="weibo">
-黄灿灿 你不就是平台的人吗（热度：735179）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 教师节（热度：735131）
 </a>
@@ -5045,6 +5051,12 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%94%B6%E8%8E%B7%E5%BE%B7%E7%94%B2%E9%A6%96%E8%83%9C%23" target="weibo">
 樊振东收获德甲首胜（热度：687137）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Pro%E5%86%B7%E7%83%9F%E7%B4%AB%23" target="weibo">
+小米17Pro冷烟紫（热度：686694）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD911%E7%BA%AA%E5%BF%B5%E4%BB%AA%E5%BC%8F%E5%8F%B3%E8%84%B8%E4%B8%8B%E5%9E%82%23" target="weibo">
 特朗普出席911纪念仪式右脸下垂（热度：593425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%95%B0%E7%9A%84%E4%B8%93%E4%B8%9A%E5%90%AB%E9%87%91%E9%87%8F%E5%88%B0%E4%BA%86%E5%9F%83%E5%8F%8A%E5%99%8C%E5%99%8C%E6%9A%B4%E6%B6%A8%23" target="weibo">
-陈数的专业含金量到了埃及噌噌暴涨（热度：593335）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E7%B2%89%E4%B8%9D%E8%BF%BD%E6%98%9F%E5%9B%B4%E5%A0%B5%E9%AB%98%E9%93%81%E7%AB%99%23" target="weibo">
-人民日报谈粉丝追星围堵高铁站（热度：592009）
 </a>
 </li>
 

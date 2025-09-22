@@ -1,6 +1,6 @@
 {
   "startTime": 1758472076416,
-  "endTime": 1758530128916,
+  "endTime": 1758530857302,
   "band_list": [
     {
       "raw_hot": 2025151,
@@ -27,19 +27,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1584664,
+      "num": 1584664,
+      "word": "台风",
+      "onboard_time": 1758522681,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1559495,
       "num": 1559495,
       "word": "万豪酒店承认拖鞋循环多次使用",
       "onboard_time": 1758519502,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1407610,
-      "num": 1407610,
-      "word": "台风",
-      "onboard_time": 1758522681,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -115,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 890382,
+      "num": 457940,
+      "word": "建议所有妈妈去购买iphone17",
+      "onboard_time": 1758528022,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 873603,
       "num": 714774,
       "word": "李乃文剪彩后把彩头扔了",
       "onboard_time": 1758509181,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 870756,
+      "num": 580601,
+      "word": "黄灿灿 你不就是平台的人吗",
+      "onboard_time": 1758525081,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 849221,
@@ -187,14 +203,6 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 735179,
-      "num": 580601,
-      "word": "黄灿灿 你不就是平台的人吗",
-      "onboard_time": 1758525081,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 731452,
       "num": 326090,
       "word": "葛夕因感染幽门螺旋杆菌暴瘦",
@@ -217,6 +225,14 @@
       "onboard_time": 1758522322,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 686694,
+      "num": 686694,
+      "word": "小米17Pro冷烟紫",
+      "onboard_time": 1758527361,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 682820,
@@ -281,14 +297,6 @@
       "onboard_time": 1758518663,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 582527,
-      "num": 582527,
-      "word": "小米17Pro冷烟紫",
-      "onboard_time": 1758527361,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 577207,
@@ -363,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530500,
-      "num": 457940,
-      "word": "建议所有妈妈去购买iphone17",
-      "onboard_time": 1758528022,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 513166,
       "num": 599633,
       "word": "超强台风桦加沙最新路径公布",
@@ -395,8 +395,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 461742,
-      "num": 461742,
+      "raw_hot": 484470,
+      "num": 484470,
       "word": "东莞五停",
       "onboard_time": 1758527963,
       "rank": 9,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338228,
+      "num": 338228,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1758528022,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 334280,
       "num": 334280,
       "word": "蜜雪冰城门店疯狂抢柠檬",
@@ -537,6 +545,14 @@
       "onboard_time": 1758523282,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295272,
+      "num": 434778,
+      "word": "阿富汗男孩爬飞机起落架抵达印度",
+      "onboard_time": 1758526762,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 287175,
@@ -595,14 +611,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 255801,
-      "num": 255801,
-      "word": "国新办新闻发布会",
-      "onboard_time": 1758528022,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 251368,
       "num": 242566,
       "word": "旺旺冻痴 虚假宣传",
@@ -659,12 +667,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226050,
+      "num": 226050,
+      "word": "陈紫函自曝因长期分居婚姻亮红灯",
+      "onboard_time": 1758524781,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225899,
+      "num": 159562,
+      "word": "中方回应金正恩称朝鲜不会无核化",
+      "onboard_time": 1758530422,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 225175,
       "num": 225175,
       "word": "秋日造型的精髓是毛衣叠穿",
       "onboard_time": 1758507021,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 222676,
+      "num": 163071,
+      "word": "美团崩了",
+      "onboard_time": 1758526642,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 221749,
@@ -689,22 +721,6 @@
       "onboard_time": 1758514102,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216887,
-      "num": 242741,
-      "word": "阿富汗男孩爬飞机起落架抵达印度",
-      "onboard_time": 1758526762,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 216244,
-      "num": 163071,
-      "word": "美团崩了",
-      "onboard_time": 1758526642,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 215179,
@@ -803,6 +819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200157,
+      "num": 200157,
+      "word": "西藏自治区就烟花秀事件开专题会",
+      "onboard_time": 1758525803,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200090,
       "num": 200090,
       "word": "时代少年团椰子水",
@@ -851,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191460,
+      "num": 191460,
+      "word": "深圳宣布明后天停课",
+      "onboard_time": 1758530242,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190821,
       "num": 190821,
       "word": "今年秋天千禧风又杀回来了",
@@ -859,12 +891,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190235,
-      "num": 190235,
-      "word": "西藏自治区就烟花秀事件开专题会",
-      "onboard_time": 1758525803,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 189143,
+      "num": 189143,
+      "word": "赴山海莲花楼 服装",
+      "onboard_time": 1758524843,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 189030,
@@ -939,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177016,
+      "num": 177016,
+      "word": "高质量对谈专治精神内耗",
+      "onboard_time": 1758530542,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175991,
       "num": 236058,
       "word": "龚俊花少历届第一站最强导游",
@@ -979,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173529,
-      "num": 173529,
-      "word": "陈紫函自曝因长期分居婚姻亮红灯",
-      "onboard_time": 1758524781,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172646,
       "num": 172646,
       "word": "年薪1.67亿的清华学霸仍然在逃",
@@ -1009,14 +1041,6 @@
       "onboard_time": 1758526042,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169191,
-      "num": 169191,
-      "word": "赴山海莲花楼 服装",
-      "onboard_time": 1758524843,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 168722,
@@ -1105,6 +1129,30 @@
       "onboard_time": 1758512602,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159594,
+      "num": 159594,
+      "word": "刘涛说关晓彤的腿是特效做的",
+      "onboard_time": 1758529641,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157662,
+      "num": 157662,
+      "word": "李想称没有理想i7",
+      "onboard_time": 1758530422,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 156475,
+      "num": 243552,
+      "word": "深圳全市明后天停课",
+      "onboard_time": 1758529402,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155654,
@@ -1683,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110094,
+      "num": 110094,
+      "word": "13岁男孩扒飞机飞行94分钟",
+      "onboard_time": 1758530362,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109598,
       "num": 109598,
       "word": "风云四号卫星带你看台风桦加沙",
@@ -1715,20 +1771,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105242,
-      "num": 243552,
-      "word": "深圳全市明后天停课",
-      "onboard_time": 1758529402,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105185,
       "num": 105185,
       "word": "年轻人也开始记忆力下降",
       "onboard_time": 1758469943,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104288,
+      "num": 104288,
+      "word": "对龚俊的聪明有了实感",
+      "onboard_time": 1758530542,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 103411,
@@ -1739,11 +1795,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102641,
+      "num": 102641,
+      "word": "任豪新剧鹭卓和卓沅先追上了",
+      "onboard_time": 1758530542,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101991,
+      "num": 231008,
+      "word": "新iPhone如何正确充电",
+      "onboard_time": 1758529882,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 101775,
       "num": 101775,
       "word": "女子凌晨街头产子赤脚抱婴儿",
       "onboard_time": 1758529402,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101575,
+      "num": 101575,
+      "word": "广州天气",
+      "onboard_time": 1758530001,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1819,14 +1899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94477,
-      "num": 156853,
-      "word": "新iPhone如何正确充电",
-      "onboard_time": 1758529882,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 94427,
       "num": 97509,
       "word": "墨西哥阅兵现场军犬没忍住",
@@ -1857,14 +1929,6 @@
       "onboard_time": 1758491234,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92224,
-      "num": 92224,
-      "word": "广州天气",
-      "onboard_time": 1758530001,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91473,
@@ -1977,14 +2041,6 @@
       "onboard_time": 1758464488,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 77691,
-      "num": 112889,
-      "word": "刘涛说关晓彤的腿是特效做的",
-      "onboard_time": 1758529641,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 77362,
@@ -2251,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46969,
+      "num": 177329,
+      "word": "享界S9T开启首批交付",
+      "onboard_time": 1758528321,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46624,
       "num": 127775,
       "word": "六旬男子连挖10座墓偷11个骨灰盒",
@@ -2337,14 +2401,6 @@
       "onboard_time": 1758523701,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36913,
-      "num": 158941,
-      "word": "享界S9T开启首批交付",
-      "onboard_time": 1758528321,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 36274,
@@ -2435,6 +2491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23817,
+      "num": 911949,
+      "word": "战机在祖国一秒变孩子王",
+      "onboard_time": 1758498921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22275,
       "num": 37803,
       "word": "不要用离开试探小狗的爱",
@@ -2465,14 +2529,6 @@
       "onboard_time": 1758478996,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19041,
-      "num": 911949,
-      "word": "战机在祖国一秒变孩子王",
-      "onboard_time": 1758498921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18713,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758530857302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1584664,
+        "num": 1584664,
+        "word": "台风",
+        "onboard_time": 1758522681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712404,
+        "num": 712404,
+        "word": "万豪酒店承认拖鞋循环多次使用",
+        "onboard_time": 1758519502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23817,
+        "num": 691927,
+        "word": "战机在祖国一秒变孩子王",
+        "onboard_time": 1758498921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 686694,
+        "num": 686694,
+        "word": "小米17Pro冷烟紫",
+        "onboard_time": 1758527361,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 484470,
+        "num": 484470,
+        "word": "东莞五停",
+        "onboard_time": 1758527963,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1584471,
+        "num": 469885,
+        "word": "王安宇暗示高圆圆站错位置",
+        "onboard_time": 1758525981,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 870756,
+        "num": 467162,
+        "word": "黄灿灿 你不就是平台的人吗",
+        "onboard_time": 1758525081,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567660,
+        "num": 460120,
+        "word": "李沁因买贵丝巾而自责",
+        "onboard_time": 1758525501,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445390,
+        "num": 445390,
+        "word": "广东省内所有高铁停运",
+        "onboard_time": 1758522982,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295272,
+        "num": 434778,
+        "word": "阿富汗男孩爬飞机起落架抵达印度",
+        "onboard_time": 1758526762,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 890382,
+        "num": 434222,
+        "word": "建议所有妈妈去购买iphone17",
+        "onboard_time": 1758528022,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 464413,
+        "num": 433623,
+        "word": "蓝战非自曝收入",
+        "onboard_time": 1758517583,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 432740,
+        "num": 432740,
+        "word": "广东或大范围停工",
+        "onboard_time": 1758516323,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338228,
+        "num": 338228,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1758528022,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292272,
+        "num": 292272,
+        "word": "花少5马哥",
+        "onboard_time": 1758520581,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264090,
+        "num": 264090,
+        "word": "在日本因穿着暴露被饭店赶出",
+        "onboard_time": 1758523522,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250575,
+        "num": 250575,
+        "word": "周杰伦 有一堆歌已经写好了",
+        "onboard_time": 1758524361,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238441,
+        "num": 238441,
+        "word": "张晚意没有经纪公司",
+        "onboard_time": 1758522322,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101991,
+        "num": 231008,
+        "word": "新iPhone如何正确充电",
+        "onboard_time": 1758529882,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156475,
+        "num": 227022,
+        "word": "深圳全市明后天停课",
+        "onboard_time": 1758529402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226050,
+        "num": 226050,
+        "word": "陈紫函自曝因长期分居婚姻亮红灯",
+        "onboard_time": 1758524781,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210698,
+        "num": 210698,
+        "word": "超强台风桦加沙位置更新",
+        "onboard_time": 1758518663,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200157,
+        "num": 200157,
+        "word": "西藏自治区就烟花秀事件开专题会",
+        "onboard_time": 1758525803,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191460,
+        "num": 191460,
+        "word": "深圳宣布明后天停课",
+        "onboard_time": 1758530242,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189143,
+        "num": 189143,
+        "word": "赴山海莲花楼 服装",
+        "onboard_time": 1758524843,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178580,
+        "num": 178580,
+        "word": "黄金",
+        "onboard_time": 1758525022,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46969,
+        "num": 177329,
+        "word": "享界S9T开启首批交付",
+        "onboard_time": 1758528321,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177016,
+        "num": 177016,
+        "word": "高质量对谈专治精神内耗",
+        "onboard_time": 1758530542,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165177,
+        "num": 165177,
+        "word": "学生吃免费汤饭疑被校长骂臭要饭",
+        "onboard_time": 1758524843,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159594,
+        "num": 159594,
+        "word": "刘涛说关晓彤的腿是特效做的",
+        "onboard_time": 1758529641,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225899,
+        "num": 159562,
+        "word": "中方回应金正恩称朝鲜不会无核化",
+        "onboard_time": 1758530422,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222676,
+        "num": 159473,
+        "word": "美团崩了",
+        "onboard_time": 1758526642,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159376,
+        "num": 159376,
+        "word": "澳男子度假溺亡遗体回国后心脏不见",
+        "onboard_time": 1758516323,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157662,
+        "num": 157662,
+        "word": "李想称没有理想i7",
+        "onboard_time": 1758530422,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155519,
+        "num": 155519,
+        "word": "谁请动了20年不拍剧的影帝",
+        "onboard_time": 1758523881,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149843,
+        "num": 149843,
+        "word": "葛夕因感染幽门螺旋杆菌暴瘦",
+        "onboard_time": 1758516984,
+        "rank": 35,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 128512,
+        "num": 128512,
+        "word": "比喝油还长肉的食物",
+        "onboard_time": 1758513682,
+        "rank": 36,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 124842,
+        "num": 124842,
+        "word": "珠海全市范围五停",
+        "onboard_time": 1758514221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121446,
+        "num": 121446,
+        "word": "遭体罚学生家长吃过量安眠药被抢救",
+        "onboard_time": 1758524662,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117286,
+        "num": 117286,
+        "word": "王者荣耀",
+        "onboard_time": 1758527781,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39560,
+        "num": 114421,
+        "word": "天玑9500里藏了vivo什么秘密",
+        "onboard_time": 1758526462,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112368,
+        "num": 112368,
+        "word": "始祖鸟烟花秀究竟燃放了几次",
+        "onboard_time": 1758524962,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112022,
+        "num": 112022,
+        "word": "熬夜到什么程度会猝死",
+        "onboard_time": 1758524361,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111775,
+        "num": 111775,
+        "word": "盛夏芬德拉 浴缸吻",
+        "onboard_time": 1758529281,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111111,
+        "num": 111111,
+        "word": "十四五成就",
+        "onboard_time": 1758527001,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110094,
+        "num": 110094,
+        "word": "13岁男孩扒飞机飞行94分钟",
+        "onboard_time": 1758530362,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109030,
+        "num": 109030,
+        "word": "特朗普回应与马斯克闹掰后握手",
+        "onboard_time": 1758526400,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104288,
+        "num": 104288,
+        "word": "对龚俊的聪明有了实感",
+        "onboard_time": 1758530542,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102641,
+        "num": 102641,
+        "word": "任豪新剧鹭卓和卓沅先追上了",
+        "onboard_time": 1758530542,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101575,
+        "num": 101575,
+        "word": "广州天气",
+        "onboard_time": 1758530001,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国广大农民致以节日祝贺#"
+    }
+  }
+}
