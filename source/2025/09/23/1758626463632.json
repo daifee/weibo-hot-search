@@ -1,0 +1,410 @@
+{
+  "runTime": 1758626463632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10255266,
+        "num": 10255266,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1185471,
+        "num": 1185471,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19321,
+        "num": 824910,
+        "word": "致敬耕耘礼赞丰收",
+        "onboard_time": 1758600022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 757934,
+        "num": 757934,
+        "word": "香港一家三口被巨浪卷走",
+        "onboard_time": 1758623302,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395921,
+        "num": 395921,
+        "word": "盒马回应最难吃甜品被台风选出来了",
+        "onboard_time": 1758625042,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351453,
+        "num": 351453,
+        "word": "香港台风",
+        "onboard_time": 1758617302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332178,
+        "num": 332178,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305785,
+        "num": 331827,
+        "word": "MAMA票价",
+        "onboard_time": 1758623182,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267975,
+        "num": 329847,
+        "word": "时代少年团一起为刘耀文庆生",
+        "onboard_time": 1758624021,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37797,
+        "num": 327286,
+        "word": "崔丽丽称争议点是工伤认定期间薪资",
+        "onboard_time": 1758624503,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1170717,
+        "num": 326314,
+        "word": "妈妈回应瑶一瑶小肉包颜值状态",
+        "onboard_time": 1758621382,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 519074,
+        "num": 323924,
+        "word": "28岁男子上树被自带绳子缠脖身亡",
+        "onboard_time": 1758621621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43931,
+        "num": 321569,
+        "word": "张婧仪Burberry看秀",
+        "onboard_time": 1758625942,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 351172,
+        "num": 320431,
+        "word": "台风前夕腾讯把企鹅拴住了",
+        "onboard_time": 1758615442,
+        "rank": 13,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 319330,
+        "num": 319330,
+        "word": "桦加沙路径",
+        "onboard_time": 1758622222,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307932,
+        "num": 307932,
+        "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+        "onboard_time": 1758594261,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248311,
+        "num": 305272,
+        "word": "繁花剧组严正声明",
+        "onboard_time": 1758625221,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237391,
+        "num": 303070,
+        "word": "范丞丞喝多了",
+        "onboard_time": 1758625643,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196993,
+        "num": 298373,
+        "word": "金鸡奖提名名单预测",
+        "onboard_time": 1758613640,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61089,
+        "num": 294533,
+        "word": "谁能想到波密的致富密码是pdd",
+        "onboard_time": 1758625821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550354,
+        "num": 289552,
+        "word": "韦雪回应9亿分手费",
+        "onboard_time": 1758620182,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 386509,
+        "num": 286106,
+        "word": "李一桐被磕掉了一颗牙",
+        "onboard_time": 1758612682,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285086,
+        "num": 285086,
+        "word": "宋轶怎么美成这样了",
+        "onboard_time": 1758616163,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269175,
+        "num": 269175,
+        "word": "特朗普称所有孕妇都不该用泰诺止痛",
+        "onboard_time": 1758622402,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240451,
+        "num": 240451,
+        "word": "乔欣变美了",
+        "onboard_time": 1758611841,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195520,
+        "num": 195520,
+        "word": "桦加沙强度",
+        "onboard_time": 1758622160,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138316,
+        "num": 194050,
+        "word": "王俊凯高干文男主",
+        "onboard_time": 1758623302,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24222,
+        "num": 182051,
+        "word": "敷尔佳给赴尔摩斯的快乐谁懂",
+        "onboard_time": 1758623721,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102430,
+        "num": 176566,
+        "word": "中国每年吃掉约70亿只白羽肉鸡",
+        "onboard_time": 1758617063,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35562,
+        "num": 169891,
+        "word": "福地怀化湘当懂你",
+        "onboard_time": 1758621921,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 164081,
+        "num": 164081,
+        "word": "中国游客腹痛日本医生见死不救",
+        "onboard_time": 1758617782,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157999,
+        "num": 157999,
+        "word": "广州地铁",
+        "onboard_time": 1758623001,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150335,
+        "num": 150335,
+        "word": "瘦47斤发现不止身材变了",
+        "onboard_time": 1758623482,
+        "rank": 32,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 140402,
+        "num": 140402,
+        "word": "痴情的火鸡面啊再等一世吧",
+        "onboard_time": 1758622702,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125145,
+        "num": 138487,
+        "word": "檀健次工作室进高人了",
+        "onboard_time": 1758626061,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138223,
+        "num": 138223,
+        "word": "煮鸡蛋忘了关火后诞生的艺术作品",
+        "onboard_time": 1758616462,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137363,
+        "num": 137363,
+        "word": "五停 没带大学生",
+        "onboard_time": 1758623061,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61002,
+        "num": 129042,
+        "word": "桦加沙风眼可以装进整个香港",
+        "onboard_time": 1758625221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111573,
+        "num": 125547,
+        "word": "杜淳妻子回应长得像鹿晗",
+        "onboard_time": 1758625702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115470,
+        "num": 124851,
+        "word": "宋轶看秀路透",
+        "onboard_time": 1758624922,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124699,
+        "num": 124699,
+        "word": "早期的杨幂",
+        "onboard_time": 1758625522,
+        "rank": 40,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 120442,
+        "num": 122742,
+        "word": "易烊千玺狂野时代开票",
+        "onboard_time": 1758625042,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122159,
+        "num": 122159,
+        "word": "无限暖暖",
+        "onboard_time": 1758624383,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115468,
+        "num": 115468,
+        "word": "腾讯回应拴Q",
+        "onboard_time": 1758623602,
+        "rank": 43,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 110862,
+        "num": 110862,
+        "word": "许光汉瘦回来了",
+        "onboard_time": 1758622762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109358,
+        "num": 109358,
+        "word": "深圳不语只是一味提前砍树",
+        "onboard_time": 1758611421,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106953,
+        "num": 106953,
+        "word": "台风 广东病",
+        "onboard_time": 1758614482,
+        "rank": 46,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 106350,
+        "num": 106350,
+        "word": "日本游戏大奖",
+        "onboard_time": 1758626181,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106152,
+        "num": 106152,
+        "word": "赴山海",
+        "onboard_time": 1758624623,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105020,
+        "num": 105020,
+        "word": "iPhone17被曝断触",
+        "onboard_time": 1758622941,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}

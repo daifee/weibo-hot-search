@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758624208592,
+  "endTime": 1758626463632,
   "band_list": [
     {
       "raw_hot": 11916363,
@@ -81,6 +81,14 @@
       "onboard_time": 1758555022,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1170717,
+      "num": 326314,
+      "word": "妈妈回应瑶一瑶小肉包颜值状态",
+      "onboard_time": 1758621382,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1140491,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 757934,
+      "num": 757934,
+      "word": "香港一家三口被巨浪卷走",
+      "onboard_time": 1758623302,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 730222,
       "num": 730222,
       "word": "男生错把自选餐看成自助餐",
@@ -219,14 +235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 695473,
-      "num": 316965,
-      "word": "妈妈回应瑶一瑶小肉包颜值状态",
-      "onboard_time": 1758621382,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 671147,
       "num": 671147,
       "word": "中传回应贺峻霖进入保研复试名单",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 660122,
-      "num": 187080,
+      "num": 289552,
       "word": "韦雪回应9亿分手费",
       "onboard_time": 1758620182,
       "rank": 22,
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395921,
+      "num": 395921,
+      "word": "盒马回应最难吃甜品被台风选出来了",
+      "onboard_time": 1758625042,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389126,
       "num": 389126,
       "word": "A股",
@@ -507,8 +523,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 318203,
-      "num": 318203,
+      "raw_hot": 319330,
+      "num": 319330,
       "word": "桦加沙路径",
       "onboard_time": 1758622222,
       "rank": 7,
@@ -553,6 +569,14 @@
       "onboard_time": 1758617782,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 305785,
+      "num": 331827,
+      "word": "MAMA票价",
+      "onboard_time": 1758623182,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 301530,
@@ -635,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269175,
+      "num": 269175,
+      "word": "特朗普称所有孕妇都不该用泰诺止痛",
+      "onboard_time": 1758622402,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 267975,
+      "num": 329847,
+      "word": "时代少年团一起为刘耀文庆生",
+      "onboard_time": 1758624021,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263963,
       "num": 263963,
       "word": "广东或遇人类最大台风灾害系谣言",
@@ -691,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248311,
+      "num": 305272,
+      "word": "繁花剧组严正声明",
+      "onboard_time": 1758625221,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243607,
       "num": 243607,
       "word": "广州 唔停",
@@ -731,8 +779,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237391,
+      "num": 303070,
+      "word": "范丞丞喝多了",
+      "onboard_time": 1758625643,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233271,
-      "num": 233271,
+      "num": 298373,
       "word": "金鸡奖提名名单预测",
       "onboard_time": 1758613640,
       "rank": 41,
@@ -761,14 +817,6 @@
       "onboard_time": 1758602722,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222286,
-      "num": 222286,
-      "word": "MAMA票价",
-      "onboard_time": 1758623182,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 218641,
@@ -883,6 +931,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 195520,
+      "num": 195520,
+      "word": "桦加沙强度",
+      "onboard_time": 1758622160,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195228,
       "num": 195228,
       "word": "广州23日停课",
@@ -931,14 +987,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 192611,
-      "num": 131775,
-      "word": "香港一家三口被巨浪卷走",
-      "onboard_time": 1758623302,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192479,
       "num": 207846,
       "word": "张柏芝二儿子15岁近照",
@@ -955,16 +1003,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191179,
-      "num": 191179,
-      "word": "桦加沙强度",
-      "onboard_time": 1758622160,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187685,
-      "num": 187685,
+      "num": 194050,
       "word": "王俊凯高干文男主",
       "onboard_time": 1758623302,
       "rank": 15,
@@ -1115,14 +1155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164437,
-      "num": 128629,
-      "word": "时代少年团一起为刘耀文庆生",
-      "onboard_time": 1758624021,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163886,
       "num": 214780,
       "word": "深圳不语只是一味提前砍树",
@@ -1227,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157999,
+      "num": 157999,
+      "word": "广州地铁",
+      "onboard_time": 1758623001,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157002,
       "num": 157002,
       "word": "广东人的倔强 泡面只剩下香辣牛肉面",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1758616642,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154382,
-      "num": 154382,
-      "word": "广州地铁",
-      "onboard_time": 1758623001,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154281,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1758598224,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150335,
+      "num": 150335,
+      "word": "瘦47斤发现不止身材变了",
+      "onboard_time": 1758623482,
+      "rank": 35,
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 149341,
@@ -1507,6 +1547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 137363,
+      "num": 137363,
+      "word": "五停 没带大学生",
+      "onboard_time": 1758623061,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136282,
       "num": 124516,
       "word": "李在明声称中俄朝走近我们很难做",
@@ -1651,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125145,
+      "num": 138487,
+      "word": "檀健次工作室进高人了",
+      "onboard_time": 1758626061,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 125122,
       "num": 257261,
       "word": "邓为和天然钻石的适配度",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1758522982,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124699,
+      "num": 124699,
+      "word": "早期的杨幂",
+      "onboard_time": 1758625522,
+      "rank": 40,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 123233,
@@ -1707,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122159,
+      "num": 122159,
+      "word": "无限暖暖",
+      "onboard_time": 1758624383,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122046,
       "num": 122046,
       "word": "广东人很乐观",
@@ -1731,19 +1803,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120878,
-      "num": 120878,
-      "word": "瘦47斤发现不止身材变了",
-      "onboard_time": 1758623482,
-      "rank": 35,
-      "category": "运动健身,其它"
-    },
-    {
       "raw_hot": 120721,
       "num": 123556,
       "word": "这居然是王安宇",
       "onboard_time": 1758616762,
       "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 120442,
+      "num": 122742,
+      "word": "易烊千玺狂野时代开票",
+      "onboard_time": 1758625042,
+      "rank": 41,
       "category": "电影"
     },
     {
@@ -1843,6 +1915,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115470,
+      "num": 124851,
+      "word": "宋轶看秀路透",
+      "onboard_time": 1758624922,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115468,
+      "num": 115468,
+      "word": "腾讯回应拴Q",
+      "onboard_time": 1758623602,
+      "rank": 45,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 114816,
       "num": 114816,
       "word": "iPhone17被曝断触",
@@ -1897,6 +1985,14 @@
       "onboard_time": 1758617063,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111573,
+      "num": 125547,
+      "word": "杜淳妻子回应长得像鹿晗",
+      "onboard_time": 1758625702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 111136,
@@ -1995,6 +2091,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106350,
+      "num": 106350,
+      "word": "日本游戏大奖",
+      "onboard_time": 1758626181,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 106152,
+      "num": 106152,
+      "word": "赴山海",
+      "onboard_time": 1758624623,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106112,
       "num": 106112,
       "word": "台风天拯救流浪猫",
@@ -2073,14 +2185,6 @@
       "onboard_time": 1758616042,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 102544,
-      "num": 102544,
-      "word": "腾讯回应拴Q",
-      "onboard_time": 1758623602,
-      "rank": 45,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 102326,
@@ -2467,14 +2571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 71869,
-      "num": 118399,
-      "word": "特朗普称所有孕妇都不该用泰诺止痛",
-      "onboard_time": 1758622402,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70023,
       "num": 125598,
       "word": "BOSS直聘重拳整治涉黄招聘",
@@ -2536,6 +2632,22 @@
       "word": "医院回应女子凌晨街头产子赤脚抱儿",
       "onboard_time": 1758552624,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61089,
+      "num": 294533,
+      "word": "谁能想到波密的致富密码是pdd",
+      "onboard_time": 1758625821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61002,
+      "num": 129042,
+      "word": "桦加沙风眼可以装进整个香港",
+      "onboard_time": 1758625221,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2683,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43931,
+      "num": 321569,
+      "word": "张婧仪Burberry看秀",
+      "onboard_time": 1758625942,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 43881,
       "num": 307153,
       "word": "于适孙艺洲好友局就是这么real",
@@ -2723,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37797,
+      "num": 327286,
+      "word": "崔丽丽称争议点是工伤认定期间薪资",
+      "onboard_time": 1758624503,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36834,
       "num": 1225059,
       "word": "社交账号不受控制是木马病毒在作祟",
@@ -2740,7 +2868,7 @@
     },
     {
       "raw_hot": 36026,
-      "num": 122055,
+      "num": 182051,
       "word": "敷尔佳给赴尔摩斯的快乐谁懂",
       "onboard_time": 1758623721,
       "rank": 33,
