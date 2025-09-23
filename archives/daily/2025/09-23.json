@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758602581701,
+  "endTime": 1758605112090,
   "band_list": [
     {
       "raw_hot": 11125410,
@@ -75,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1029834,
+      "num": 1029834,
+      "word": "女生撞死3人家属还威胁死者母亲",
+      "onboard_time": 1758600142,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 954112,
+      "num": 696793,
+      "word": "国庆中秋解释一下7加3等于8",
+      "onboard_time": 1758597321,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 909120,
       "num": 935928,
       "word": "广东全面进入临战状态",
@@ -89,14 +105,6 @@
       "onboard_time": 1758589223,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 894707,
-      "num": 696793,
-      "word": "国庆中秋解释一下7加3等于8",
-      "onboard_time": 1758597321,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 888578,
@@ -131,6 +139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 729737,
+      "num": 729737,
+      "word": "崔丽丽称做梦总找被性侵时弄丢的鞋",
+      "onboard_time": 1758598402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 704621,
+      "num": 704621,
+      "word": "广州人台风天都不买的菜",
+      "onboard_time": 1758600382,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 659280,
       "num": 659280,
       "word": "最快女护士张水华发文道歉",
@@ -145,6 +169,14 @@
       "onboard_time": 1758595522,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 641048,
+      "num": 641048,
+      "word": "给祝绪丹梳背头的人是天才",
+      "onboard_time": 1758599122,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 602369,
@@ -163,28 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 591737,
-      "num": 580505,
-      "word": "给祝绪丹梳背头的人是天才",
-      "onboard_time": 1758599122,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 561932,
-      "num": 561932,
-      "word": "广州人台风天都不买的菜",
-      "onboard_time": 1758600382,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 542279,
       "num": 247451,
       "word": "网红迅猛龙训粉",
       "onboard_time": 1758546083,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 536450,
+      "num": 536450,
+      "word": "老人称发现亡妻存折起诉银行索要60万",
+      "onboard_time": 1758600980,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 494247,
@@ -201,14 +225,6 @@
       "onboard_time": 1758589880,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 484397,
-      "num": 484397,
-      "word": "老人称发现亡妻存折起诉银行索要60万",
-      "onboard_time": 1758600980,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 479516,
@@ -248,6 +264,14 @@
       "word": "陈数 社交为零但是足够幸运",
       "onboard_time": 1758596122,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 414351,
+      "num": 414351,
+      "word": "龚俊这集我在迪丽热巴那看过",
+      "onboard_time": 1758602363,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -291,6 +315,14 @@
       "category": "海外新闻,健康医疗"
     },
     {
+      "raw_hot": 354488,
+      "num": 354488,
+      "word": "一有大台风就想起林峯家的阿姨",
+      "onboard_time": 1758603923,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336408,
       "num": 310583,
       "word": "深圳停工",
@@ -329,6 +361,14 @@
       "onboard_time": 1758557842,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309724,
+      "num": 309724,
+      "word": "北大好宠王楚钦",
+      "onboard_time": 1758601043,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 307695,
@@ -379,20 +419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259365,
-      "num": 259365,
-      "word": "北大好宠王楚钦",
-      "onboard_time": 1758601043,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 257216,
-      "num": 274105,
-      "word": "崔丽丽称做梦总找被性侵时弄丢的鞋",
-      "onboard_time": 1758598402,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 262463,
+      "num": 262463,
+      "word": "金晨脸部状态",
+      "onboard_time": 1758603682,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 256741,
@@ -401,14 +433,6 @@
       "onboard_time": 1758584780,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254221,
-      "num": 254221,
-      "word": "女生撞死3人家属还威胁死者母亲",
-      "onboard_time": 1758600142,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252426,
@@ -467,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218539,
+      "num": 218539,
+      "word": "广东多地通告五停",
+      "onboard_time": 1758602722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216836,
       "num": 216836,
       "word": "白家涉赌诈资金超200亿",
@@ -507,12 +539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208324,
+      "num": 208324,
+      "word": "崔丽丽劳动争议案当庭未宣判",
+      "onboard_time": 1758604284,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207839,
       "num": 207839,
       "word": "罗永浩反问怕被弄死",
       "onboard_time": 1758591801,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 205854,
+      "num": 205854,
+      "word": "心动的信号8",
+      "onboard_time": 1758604342,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 196973,
@@ -579,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183950,
+      "num": 183950,
+      "word": "罗永浩晒370元7个现炒热菜",
+      "onboard_time": 1758604822,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 182528,
       "num": 182528,
       "word": "开车后最怕的事情还是出现了",
       "onboard_time": 1758595522,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181365,
+      "num": 181365,
+      "word": "雷军回应演讲推迟原因",
+      "onboard_time": 1758604461,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 175992,
@@ -659,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160447,
+      "num": 174484,
+      "word": "喜人奇妙夜2喜人阵容",
+      "onboard_time": 1758604761,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160272,
       "num": 160272,
       "word": "现场还能看到烟花秀的痕迹",
@@ -689,6 +761,14 @@
       "onboard_time": 1758538762,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158363,
+      "num": 158363,
+      "word": "任嘉伦剃了寸头",
+      "onboard_time": 1758604883,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 157002,
@@ -739,12 +819,28 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 150875,
+      "num": 150875,
+      "word": "周峻纬伪骨科古偶拿什么输",
+      "onboard_time": 1758604521,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150713,
       "num": 221694,
       "word": "赵樱子连麦男粉被感动到红了眼眶",
       "onboard_time": 1758598224,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148573,
+      "num": 148573,
+      "word": "跑外卖后才懂什么是纯粹的下班",
+      "onboard_time": 1758602603,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 146861,
@@ -803,20 +899,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 140131,
+      "num": 140131,
+      "word": "广州地铁多个站点或停运",
+      "onboard_time": 1758603562,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136063,
       "num": 136063,
       "word": "印媒关注中国K签证",
       "onboard_time": 1758598103,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 134019,
-      "num": 159918,
-      "word": "龚俊这集我在迪丽热巴那看过",
-      "onboard_time": 1758602363,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 133175,
@@ -827,11 +923,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130951,
+      "num": 130951,
+      "word": "特鲁索娃剖腹产10天后上冰",
+      "onboard_time": 1758603143,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130269,
       "num": 130269,
       "word": "当老板女儿来公司面试",
       "onboard_time": 1758587783,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129327,
+      "num": 129327,
+      "word": "突然就觉得英语变简单了",
+      "onboard_time": 1758603263,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -849,6 +961,14 @@
       "onboard_time": 1758583579,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125122,
+      "num": 257261,
+      "word": "邓为和天然钻石的适配度",
+      "onboard_time": 1758600442,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 124992,
@@ -889,6 +1009,14 @@
       "onboard_time": 1758598702,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121200,
+      "num": 121200,
+      "word": "天山后峡发现死亡雪豹",
+      "onboard_time": 1758605061,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120909,
@@ -953,14 +1081,6 @@
       "onboard_time": 1758597321,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112141,
-      "num": 257261,
-      "word": "邓为和天然钻石的适配度",
-      "onboard_time": 1758600442,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 111136,
@@ -1195,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88375,
+      "num": 212831,
+      "word": "网曝不良商家边咒骂边往外卖里吐口水",
+      "onboard_time": 1758603682,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88325,
       "num": 149204,
       "word": "76个地方总有一个适合你的小长假",
@@ -1291,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72617,
+      "num": 185363,
+      "word": "女子遭丈夫碾轧拖拽死亡案将再开庭",
+      "onboard_time": 1758603743,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71901,
       "num": 77339,
       "word": "27的王安宇",
@@ -1371,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54705,
+      "num": 151849,
+      "word": "杨幂做卷腹好轻松",
+      "onboard_time": 1758605002,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52707,
       "num": 60362,
       "word": "高校教师读博后辞职被索赔17万",
@@ -1419,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36209,
+      "num": 301806,
+      "word": "于适孙艺洲好友局就是这么real",
+      "onboard_time": 1758604581,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35902,
       "num": 49038,
       "word": "深圳宣布明后天停课",
@@ -1443,6 +1595,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29546,
+      "num": 1302343,
+      "word": "2025北京文化论坛",
+      "onboard_time": 1758599122,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29530,
+      "num": 136586,
+      "word": "女子被车撞致颅脑损伤无法定责",
+      "onboard_time": 1758603682,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29273,
       "num": 985712,
       "word": "中国战机360度无死角纯帅",
@@ -1460,7 +1628,7 @@
     },
     {
       "raw_hot": 28003,
-      "num": 436423,
+      "num": 457147,
       "word": "与成毅一起奔赴自然",
       "onboard_time": 1758600442,
       "rank": 13,
@@ -1480,14 +1648,6 @@
       "word": "广州1570处应急安置点已准备好",
       "onboard_time": 1758566654,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23758,
-      "num": 1302343,
-      "word": "2025北京文化论坛",
-      "onboard_time": 1758599122,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
