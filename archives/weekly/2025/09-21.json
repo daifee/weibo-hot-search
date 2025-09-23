@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758623203839,
+  "endTime": 1758624208592,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -851,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 695473,
+      "num": 316965,
+      "word": "妈妈回应瑶一瑶小肉包颜值状态",
+      "onboard_time": 1758621382,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 692267,
       "num": 582032,
       "word": "蔡国强",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1758457043,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 516067,
-      "num": 214541,
-      "word": "妈妈回应瑶一瑶小肉包颜值状态",
-      "onboard_time": 1758621382,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 513166,
@@ -1891,6 +1891,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 318203,
+      "num": 318203,
+      "word": "桦加沙路径",
+      "onboard_time": 1758622222,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316600,
       "num": 434778,
       "word": "阿富汗男孩爬飞机起落架抵达印度",
@@ -2371,14 +2379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250587,
-      "num": 250587,
-      "word": "桦加沙路径",
-      "onboard_time": 1758622222,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250291,
       "num": 250291,
       "word": "268万翡翠错标26.8万卖",
@@ -2664,6 +2664,14 @@
       "word": "颜人中 跟谁新婚了",
       "onboard_time": 1758464488,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 222286,
+      "num": 222286,
+      "word": "MAMA票价",
+      "onboard_time": 1758623182,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -3267,6 +3275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192611,
+      "num": 131775,
+      "word": "香港一家三口被巨浪卷走",
+      "onboard_time": 1758623302,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192479,
       "num": 207846,
       "word": "张柏芝二儿子15岁近照",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1758547522,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187685,
+      "num": 187685,
+      "word": "王俊凯高干文男主",
+      "onboard_time": 1758623302,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187220,
@@ -4131,6 +4155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164437,
+      "num": 128629,
+      "word": "时代少年团一起为刘耀文庆生",
+      "onboard_time": 1758624021,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164070,
       "num": 164070,
       "word": "金价",
@@ -4140,7 +4172,7 @@
     },
     {
       "raw_hot": 163886,
-      "num": 163886,
+      "num": 214780,
       "word": "深圳不语只是一味提前砍树",
       "onboard_time": 1758611421,
       "rank": 34,
@@ -4537,6 +4569,14 @@
       "onboard_time": 1758375204,
       "rank": 26,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 154382,
+      "num": 154382,
+      "word": "广州地铁",
+      "onboard_time": 1758623001,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154281,
@@ -5075,6 +5115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141438,
+      "num": 141438,
+      "word": "痴情的火鸡面啊再等一世吧",
+      "onboard_time": 1758622702,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141185,
       "num": 141185,
       "word": "北京外交学院校庆现超级大佬",
@@ -5339,6 +5387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136282,
+      "num": 124516,
+      "word": "李在明声称中俄朝走近我们很难做",
+      "onboard_time": 1758623242,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136167,
       "num": 136167,
       "word": "花儿与少年",
@@ -5569,6 +5625,14 @@
       "onboard_time": 1758518423,
       "rank": 48,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 130900,
+      "num": 185173,
+      "word": "许光汉瘦回来了",
+      "onboard_time": 1758622762,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 130642,
@@ -6051,6 +6115,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122387,
+      "num": 152966,
+      "word": "Angelababy秋日蜜糖妆",
+      "onboard_time": 1758623901,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122333,
       "num": 135034,
       "word": "苏醒想要女儿的心快压不住了",
@@ -6147,14 +6219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121651,
-      "num": 121651,
-      "word": "痴情的火鸡面啊再等一世吧",
-      "onboard_time": 1758622702,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121415,
       "num": 121415,
       "word": "陈楚生现场",
@@ -6193,6 +6257,14 @@
       "onboard_time": 1758511702,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120878,
+      "num": 120878,
+      "word": "瘦47斤发现不止身材变了",
+      "onboard_time": 1758623482,
+      "rank": 35,
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 120796,
@@ -6544,14 +6616,6 @@
       "word": "桦加沙或在珠海到湛江沿海登陆",
       "onboard_time": 1758609681,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113897,
-      "num": 113897,
-      "word": "广州地铁",
-      "onboard_time": 1758623001,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -6915,14 +6979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107127,
-      "num": 107127,
-      "word": "MAMA票价",
-      "onboard_time": 1758623182,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 106807,
       "num": 106807,
       "word": "理想高管怼始祖鸟烟花秀是作秀",
@@ -7115,6 +7171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102544,
+      "num": 102544,
+      "word": "腾讯回应拴Q",
+      "onboard_time": 1758623602,
+      "rank": 45,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 102294,
       "num": 102294,
       "word": "始祖鸟称对自然需要更加谦卑",
@@ -7145,14 +7209,6 @@
       "onboard_time": 1758529402,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101619,
-      "num": 185173,
-      "word": "许光汉瘦回来了",
-      "onboard_time": 1758622762,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 101565,
@@ -7585,6 +7641,14 @@
       "onboard_time": 1758412580,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91027,
+      "num": 187328,
+      "word": "专家称桦加沙强度临地球上限不科学",
+      "onboard_time": 1758622222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90795,
@@ -8131,14 +8195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 68723,
-      "num": 187328,
-      "word": "专家称桦加沙强度临地球上限不科学",
-      "onboard_time": 1758622222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68632,
       "num": 162985,
       "word": "黄灿灿早期武大樱花树写真",
@@ -8595,6 +8651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 51486,
+      "num": 117727,
+      "word": "广州伤医事件",
+      "onboard_time": 1758623602,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51452,
       "num": 50081,
       "word": "广东多地或将停课",
@@ -8851,6 +8915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42172,
+      "num": 187965,
+      "word": "福地怀化湘当懂你",
+      "onboard_time": 1758621921,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 42119,
       "num": 163803,
       "word": "河南周口市中心一路口路面塌陷",
@@ -8889,14 +8961,6 @@
       "onboard_time": 1758415823,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40608,
-      "num": 187965,
-      "word": "福地怀化湘当懂你",
-      "onboard_time": 1758621921,
-      "rank": 18,
-      "category": "旅游"
     },
     {
       "raw_hot": 39455,
@@ -8947,6 +9011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38703,
+      "num": 116560,
+      "word": "赵让男主戏唯一资方",
+      "onboard_time": 1758623242,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37507,
       "num": 161978,
       "word": "00后为找前男友醉驾撞死3人",
@@ -8977,6 +9049,14 @@
       "onboard_time": 1758608901,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36026,
+      "num": 122055,
+      "word": "敷尔佳给赴尔摩斯的快乐谁懂",
+      "onboard_time": 1758623721,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 35904,

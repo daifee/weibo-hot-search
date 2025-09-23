@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758623203839,
+  "endTime": 1758624208592,
   "band_list": [
     {
       "raw_hot": 11916363,
@@ -219,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 695473,
+      "num": 316965,
+      "word": "妈妈回应瑶一瑶小肉包颜值状态",
+      "onboard_time": 1758621382,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 671147,
       "num": 671147,
       "word": "中传回应贺峻霖进入保研复试名单",
@@ -343,14 +351,6 @@
       "num": 247451,
       "word": "网红迅猛龙训粉",
       "onboard_time": 1758546083,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 516067,
-      "num": 214541,
-      "word": "妈妈回应瑶一瑶小肉包颜值状态",
-      "onboard_time": 1758621382,
       "rank": 11,
       "category": "网红"
     },
@@ -505,6 +505,14 @@
       "onboard_time": 1758585742,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 318203,
+      "num": 318203,
+      "word": "桦加沙路径",
+      "onboard_time": 1758622222,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316298,
@@ -675,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250587,
-      "num": 250587,
-      "word": "桦加沙路径",
-      "onboard_time": 1758622222,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250291,
       "num": 250291,
       "word": "268万翡翠错标26.8万卖",
@@ -761,6 +761,14 @@
       "onboard_time": 1758602722,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222286,
+      "num": 222286,
+      "word": "MAMA票价",
+      "onboard_time": 1758623182,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 218641,
@@ -923,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192611,
+      "num": 131775,
+      "word": "香港一家三口被巨浪卷走",
+      "onboard_time": 1758623302,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192479,
       "num": 207846,
       "word": "张柏芝二儿子15岁近照",
@@ -945,6 +961,14 @@
       "onboard_time": 1758622160,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187685,
+      "num": 187685,
+      "word": "王俊凯高干文男主",
+      "onboard_time": 1758623302,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186842,
@@ -1091,8 +1115,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164437,
+      "num": 128629,
+      "word": "时代少年团一起为刘耀文庆生",
+      "onboard_time": 1758624021,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163886,
-      "num": 163886,
+      "num": 214780,
       "word": "深圳不语只是一味提前砍树",
       "onboard_time": 1758611421,
       "rank": 34,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1758616642,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154382,
+      "num": 154382,
+      "word": "广州地铁",
+      "onboard_time": 1758623001,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154281,
@@ -1395,6 +1435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141438,
+      "num": 141438,
+      "word": "痴情的火鸡面啊再等一世吧",
+      "onboard_time": 1758622702,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141018,
       "num": 141018,
       "word": "蕾哈娜官宣生女",
@@ -1459,6 +1507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 136282,
+      "num": 124516,
+      "word": "李在明声称中俄朝走近我们很难做",
+      "onboard_time": 1758623242,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136063,
       "num": 136063,
       "word": "印媒关注中国K签证",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1758603143,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130900,
+      "num": 185173,
+      "word": "许光汉瘦回来了",
+      "onboard_time": 1758622762,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 130269,
@@ -1627,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122387,
+      "num": 152966,
+      "word": "Angelababy秋日蜜糖妆",
+      "onboard_time": 1758623901,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122258,
       "num": 156910,
       "word": "两京十五日",
@@ -1651,20 +1723,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121651,
-      "num": 121651,
-      "word": "痴情的火鸡面啊再等一世吧",
-      "onboard_time": 1758622702,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120909,
       "num": 120909,
       "word": "桦加沙到哪了",
       "onboard_time": 1758549083,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120878,
+      "num": 120878,
+      "word": "瘦47斤发现不止身材变了",
+      "onboard_time": 1758623482,
+      "rank": 35,
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 120721,
@@ -1792,14 +1864,6 @@
       "word": "桦加沙或在珠海到湛江沿海登陆",
       "onboard_time": 1758609681,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113897,
-      "num": 113897,
-      "word": "广州地铁",
-      "onboard_time": 1758623001,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1931,14 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107127,
-      "num": 107127,
-      "word": "MAMA票价",
-      "onboard_time": 1758623182,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 106112,
       "num": 106112,
       "word": "台风天拯救流浪猫",
@@ -2019,6 +2075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102544,
+      "num": 102544,
+      "word": "腾讯回应拴Q",
+      "onboard_time": 1758623602,
+      "rank": 45,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 102326,
       "num": 171169,
       "word": "深圳建议储备至少3天的物资",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1758583699,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 101619,
-      "num": 185173,
-      "word": "许光汉瘦回来了",
-      "onboard_time": 1758622762,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 101565,
@@ -2209,6 +2265,14 @@
       "onboard_time": 1758616042,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91027,
+      "num": 187328,
+      "word": "专家称桦加沙强度临地球上限不科学",
+      "onboard_time": 1758622222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91003,
@@ -2419,14 +2483,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 68723,
-      "num": 187328,
-      "word": "专家称桦加沙强度临地球上限不科学",
-      "onboard_time": 1758622222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67673,
       "num": 276552,
       "word": "永远可以相信爸妈的眼光",
@@ -2571,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51486,
+      "num": 117727,
+      "word": "广州伤医事件",
+      "onboard_time": 1758623602,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50983,
       "num": 117447,
       "word": "张家界 鬼秤",
@@ -2635,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42172,
+      "num": 187965,
+      "word": "福地怀化湘当懂你",
+      "onboard_time": 1758621921,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 41943,
       "num": 101505,
       "word": "米兰中央车站爆发声援巴勒斯坦冲突",
@@ -2643,12 +2715,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 40608,
-      "num": 187965,
-      "word": "福地怀化湘当懂你",
-      "onboard_time": 1758621921,
-      "rank": 18,
-      "category": "旅游"
+      "raw_hot": 38703,
+      "num": 116560,
+      "word": "赵让男主戏唯一资方",
+      "onboard_time": 1758623242,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 36834,
@@ -2665,6 +2737,14 @@
       "onboard_time": 1758608901,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36026,
+      "num": 122055,
+      "word": "敷尔佳给赴尔摩斯的快乐谁懂",
+      "onboard_time": 1758623721,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 35904,

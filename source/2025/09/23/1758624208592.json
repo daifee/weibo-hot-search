@@ -1,0 +1,410 @@
+{
+  "runTime": 1758624208592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10407742,
+        "num": 10407742,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073827,
+        "num": 1073827,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24481,
+        "num": 497617,
+        "word": "致敬耕耘礼赞丰收",
+        "onboard_time": 1758600022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360121,
+        "num": 360121,
+        "word": "香港台风",
+        "onboard_time": 1758617302,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318203,
+        "num": 318203,
+        "word": "桦加沙路径",
+        "onboard_time": 1758622222,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695473,
+        "num": 316965,
+        "word": "妈妈回应瑶一瑶小肉包颜值状态",
+        "onboard_time": 1758621382,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 313980,
+        "num": 313980,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222286,
+        "num": 222286,
+        "word": "MAMA票价",
+        "onboard_time": 1758623182,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214918,
+        "num": 214918,
+        "word": "金鸡奖提名名单预测",
+        "onboard_time": 1758613640,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72792,
+        "num": 214780,
+        "word": "深圳不语只是一味提前砍树",
+        "onboard_time": 1758611421,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650325,
+        "num": 210579,
+        "word": "台风前夕腾讯把企鹅拴住了",
+        "onboard_time": 1758615442,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 548781,
+        "num": 209539,
+        "word": "28岁男子上树被自带绳子缠脖身亡",
+        "onboard_time": 1758621621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293215,
+        "num": 205898,
+        "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+        "onboard_time": 1758594261,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237176,
+        "num": 204237,
+        "word": "中国游客腹痛日本医生见死不救",
+        "onboard_time": 1758617782,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203150,
+        "num": 203150,
+        "word": "煮鸡蛋忘了关火后诞生的艺术作品",
+        "onboard_time": 1758616462,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187685,
+        "num": 187685,
+        "word": "王俊凯高干文男主",
+        "onboard_time": 1758623302,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172001,
+        "num": 172001,
+        "word": "桦加沙强度",
+        "onboard_time": 1758622160,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154382,
+        "num": 154382,
+        "word": "广州地铁",
+        "onboard_time": 1758623001,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130900,
+        "num": 154316,
+        "word": "许光汉瘦回来了",
+        "onboard_time": 1758622762,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42172,
+        "num": 154034,
+        "word": "福地怀化湘当懂你",
+        "onboard_time": 1758621921,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 604357,
+        "num": 153759,
+        "word": "韦雪回应9亿分手费",
+        "onboard_time": 1758620182,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 516696,
+        "num": 153739,
+        "word": "李一桐被磕掉了一颗牙",
+        "onboard_time": 1758612682,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390817,
+        "num": 153516,
+        "word": "宋轶怎么美成这样了",
+        "onboard_time": 1758616163,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 334542,
+        "num": 153146,
+        "word": "乔欣变美了",
+        "onboard_time": 1758611841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122387,
+        "num": 152966,
+        "word": "Angelababy秋日蜜糖妆",
+        "onboard_time": 1758623901,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152924,
+        "num": 152924,
+        "word": "南京地下室被猜测凶宅房主报警",
+        "onboard_time": 1758617243,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141438,
+        "num": 141438,
+        "word": "痴情的火鸡面啊再等一世吧",
+        "onboard_time": 1758622702,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137594,
+        "num": 137594,
+        "word": "好友曝何猷启恋情",
+        "onboard_time": 1758609922,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135781,
+        "num": 135781,
+        "word": "中国每年吃掉约70亿只白羽肉鸡",
+        "onboard_time": 1758617063,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89800,
+        "num": 133620,
+        "word": "长安二十四计",
+        "onboard_time": 1758621143,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192611,
+        "num": 131775,
+        "word": "香港一家三口被巨浪卷走",
+        "onboard_time": 1758623302,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164437,
+        "num": 128629,
+        "word": "时代少年团一起为刘耀文庆生",
+        "onboard_time": 1758624021,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136282,
+        "num": 124516,
+        "word": "李在明声称中俄朝走近我们很难做",
+        "onboard_time": 1758623242,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36026,
+        "num": 122055,
+        "word": "敷尔佳给赴尔摩斯的快乐谁懂",
+        "onboard_time": 1758623721,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121440,
+        "num": 121440,
+        "word": "方媛挺孕肚工作",
+        "onboard_time": 1758621562,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120878,
+        "num": 120878,
+        "word": "瘦47斤发现不止身材变了",
+        "onboard_time": 1758623482,
+        "rank": 35,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 120011,
+        "word": "因买不起房一家四口开房车旅居近2年",
+        "onboard_time": 1758617603,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51486,
+        "num": 117727,
+        "word": "广州伤医事件",
+        "onboard_time": 1758623602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38703,
+        "num": 116560,
+        "word": "赵让男主戏唯一资方",
+        "onboard_time": 1758623242,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116471,
+        "num": 116471,
+        "word": "广东或遇人类最大台风灾害系谣言",
+        "onboard_time": 1758614362,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 3181,
+        "num": 110454,
+        "word": "雎晓雯把冲锋衣穿出高定感",
+        "onboard_time": 1758621382,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91027,
+        "num": 109967,
+        "word": "专家称桦加沙强度临地球上限不科学",
+        "onboard_time": 1758622222,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109623,
+        "num": 109623,
+        "word": "医院影像科报告单出现骂人脏话",
+        "onboard_time": 1758614602,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105547,
+        "num": 105547,
+        "word": "女子术后20天发现体内留纱布已发臭",
+        "onboard_time": 1758620782,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103093,
+        "num": 103093,
+        "word": "北京环球的丑饭太好吃了",
+        "onboard_time": 1758620482,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102544,
+        "num": 102544,
+        "word": "腾讯回应拴Q",
+        "onboard_time": 1758623602,
+        "rank": 45,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 99310,
+        "num": 99310,
+        "word": "名侦探柯南演都不演了",
+        "onboard_time": 1758621681,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98287,
+        "num": 98287,
+        "word": "台风 广东病",
+        "onboard_time": 1758614482,
+        "rank": 47,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 98018,
+        "num": 98018,
+        "word": "李想称iPhone17ProMax太丑",
+        "onboard_time": 1758617902,
+        "rank": 48,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 97937,
+        "num": 97937,
+        "word": "直播卖烤肠女子又遇城管",
+        "onboard_time": 1758620842,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}
