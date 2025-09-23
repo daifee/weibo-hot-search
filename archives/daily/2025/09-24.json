@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758649107567,
+  "endTime": 1758652564495,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -96,6 +96,14 @@
       "word": "广州全市五停",
       "onboard_time": 1758613581,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254078,
+      "num": 254078,
+      "word": "气象局称深圳明早8点或现10级风力",
+      "onboard_time": 1758648677,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -241,14 +249,6 @@
       "onboard_time": 1758626541,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94541,
-      "num": 94541,
-      "word": "气象局称深圳明早8点或现10级风力",
-      "onboard_time": 1758648677,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92404,
@@ -451,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36865,
+      "num": 36865,
+      "word": "深圳全市公共交通停运",
+      "onboard_time": 1758650236,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28313,
       "num": 232577,
       "word": "珠海部分高层住户被通知撤离",
       "onboard_time": 1758636324,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24897,
+      "num": 26057,
+      "word": "世卫组织回应特朗普给泰诺定罪",
+      "onboard_time": 1758649818,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23600,
