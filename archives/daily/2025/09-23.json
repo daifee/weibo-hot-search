@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758605112090,
+  "endTime": 1758606076152,
   "band_list": [
     {
       "raw_hot": 11125410,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2869059,
-      "num": 440314,
+      "num": 528518,
       "word": "始祖鸟蔡国强 撒谎",
       "onboard_time": 1758598882,
       "rank": 29,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2023729,
-      "num": 2023729,
+      "raw_hot": 2038732,
+      "num": 2038732,
       "word": "桦加沙",
       "onboard_time": 1758596303,
       "rank": 14,
@@ -48,6 +48,14 @@
       "word": "深圳五停",
       "onboard_time": 1758592461,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1534828,
+      "num": 1534828,
+      "word": "女生撞死3人家属还威胁死者母亲",
+      "onboard_time": 1758600142,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -73,14 +81,6 @@
       "onboard_time": 1758590180,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1029834,
-      "num": 1029834,
-      "word": "女生撞死3人家属还威胁死者母亲",
-      "onboard_time": 1758600142,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 954112,
@@ -112,6 +112,14 @@
       "word": "喜马拉雅炸山事已涉嫌违法",
       "onboard_time": 1758554423,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 854516,
+      "num": 854516,
+      "word": "老人称发现亡妻存折起诉银行索要60万",
+      "onboard_time": 1758600980,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -203,14 +211,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 536450,
-      "num": 536450,
-      "word": "老人称发现亡妻存折起诉银行索要60万",
-      "onboard_time": 1758600980,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 494247,
       "num": 612397,
       "word": "陈乔恩被求婚那天喝大了",
@@ -241,6 +241,14 @@
       "onboard_time": 1758592401,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 449748,
+      "num": 449748,
+      "word": "一有大台风就想起林峯家的阿姨",
+      "onboard_time": 1758603923,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 440416,
@@ -291,6 +299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 386839,
+      "num": 386839,
+      "word": "任嘉伦剃了寸头",
+      "onboard_time": 1758604883,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381304,
       "num": 381304,
       "word": "深圳台风",
@@ -313,14 +329,6 @@
       "onboard_time": 1758537081,
       "rank": 5,
       "category": "海外新闻,健康医疗"
-    },
-    {
-      "raw_hot": 354488,
-      "num": 354488,
-      "word": "一有大台风就想起林峯家的阿姨",
-      "onboard_time": 1758603923,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 336408,
@@ -355,6 +363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 315837,
+      "num": 315837,
+      "word": "北大好宠王楚钦",
+      "onboard_time": 1758601043,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310505,
       "num": 310505,
       "word": "酒店因提供监控被性侵施害者威胁",
@@ -363,20 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 309724,
-      "num": 309724,
-      "word": "北大好宠王楚钦",
-      "onboard_time": 1758601043,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 307695,
       "num": 474003,
       "word": "广州升级台风黄色预警",
       "onboard_time": 1758550943,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305471,
+      "num": 305471,
+      "word": "罗永浩晒370元7个现炒热菜",
+      "onboard_time": 1758604822,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 291418,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223533,
+      "num": 223533,
+      "word": "天山后峡发现死亡雪豹",
+      "onboard_time": 1758605061,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218641,
       "num": 235040,
       "word": "台风桦加沙最新消息汇总",
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 218539,
-      "num": 218539,
+      "num": 536360,
       "word": "广东多地通告五停",
       "onboard_time": 1758602722,
       "rank": 23,
@@ -555,8 +579,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 205854,
-      "num": 205854,
+      "raw_hot": 206994,
+      "num": 226584,
       "word": "心动的信号8",
       "onboard_time": 1758604342,
       "rank": 26,
@@ -627,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183950,
-      "num": 183950,
-      "word": "罗永浩晒370元7个现炒热菜",
-      "onboard_time": 1758604822,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 182528,
       "num": 182528,
       "word": "开车后最怕的事情还是出现了",
@@ -651,11 +667,43 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 178915,
+      "num": 225284,
+      "word": "喜人奇妙夜2喜人阵容",
+      "onboard_time": 1758604761,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175992,
-      "num": 215708,
+      "num": 224240,
       "word": "以色列总理称未来一年摧毁伊朗轴心",
       "onboard_time": 1758601101,
       "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 171041,
+      "num": 171041,
+      "word": "杨幂做卷腹好轻松",
+      "onboard_time": 1758605002,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169387,
+      "num": 169387,
+      "word": "内娱又有新恋综开播了",
+      "onboard_time": 1758605721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168161,
+      "num": 168161,
+      "word": "特朗普宣称没理由给新生儿接种乙肝疫苗",
+      "onboard_time": 1758605123,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -723,14 +771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160447,
-      "num": 174484,
-      "word": "喜人奇妙夜2喜人阵容",
-      "onboard_time": 1758604761,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160272,
       "num": 160272,
       "word": "现场还能看到烟花秀的痕迹",
@@ -761,14 +801,6 @@
       "onboard_time": 1758538762,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158363,
-      "num": 158363,
-      "word": "任嘉伦剃了寸头",
-      "onboard_time": 1758604883,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 157002,
@@ -833,6 +865,14 @@
       "onboard_time": 1758598224,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149341,
+      "num": 149341,
+      "word": "广东人防台风熟练得让人心疼",
+      "onboard_time": 1758605721,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148573,
@@ -1011,14 +1051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121200,
-      "num": 121200,
-      "word": "天山后峡发现死亡雪豹",
-      "onboard_time": 1758605061,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120909,
       "num": 120909,
       "word": "桦加沙到哪了",
@@ -1192,6 +1224,14 @@
       "word": "刘耀文20岁庆生vlog",
       "onboard_time": 1758592880,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99226,
+      "num": 457147,
+      "word": "与成毅一起奔赴自然",
+      "onboard_time": 1758600442,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1507,14 +1547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54705,
-      "num": 151849,
-      "word": "杨幂做卷腹好轻松",
-      "onboard_time": 1758605002,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52707,
       "num": 60362,
       "word": "高校教师读博后辞职被索赔17万",
@@ -1547,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43881,
+      "num": 307153,
+      "word": "于适孙艺洲好友局就是这么real",
+      "onboard_time": 1758604581,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41943,
       "num": 101505,
       "word": "米兰中央车站爆发声援巴勒斯坦冲突",
@@ -1563,19 +1603,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36209,
-      "num": 301806,
-      "word": "于适孙艺洲好友局就是这么real",
-      "onboard_time": 1758604581,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35902,
       "num": 49038,
       "word": "深圳宣布明后天停课",
       "onboard_time": 1758530242,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35808,
+      "num": 305926,
+      "word": "崔丽丽前公司没有派代表出席庭审",
+      "onboard_time": 1758605541,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1587,19 +1627,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30161,
+      "num": 1355654,
+      "word": "2025北京文化论坛",
+      "onboard_time": 1758599122,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29856,
       "num": 257308,
       "word": "实时追踪超强台风桦加沙",
       "onboard_time": 1758601943,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29546,
-      "num": 1302343,
-      "word": "2025北京文化论坛",
-      "onboard_time": 1758599122,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1627,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28003,
-      "num": 457147,
-      "word": "与成毅一起奔赴自然",
-      "onboard_time": 1758600442,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25278,
       "num": 28709,
       "word": "蓝战非回应收入争议",
@@ -1647,6 +1679,14 @@
       "num": 27394,
       "word": "广州1570处应急安置点已准备好",
       "onboard_time": 1758566654,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22208,
+      "num": 224084,
+      "word": "律师称F1赛事主办方应对被打女孩负责",
+      "onboard_time": 1758605541,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -1689,6 +1729,14 @@
       "onboard_time": 1758573973,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7514,
+      "num": 168739,
+      "word": "Burberry秀汤唯",
+      "onboard_time": 1758606022,
+      "rank": 37,
+      "category": "艺人,时尚"
     }
   ],
   "hotgov_list": [
