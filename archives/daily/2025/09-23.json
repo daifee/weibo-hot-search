@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758620455594,
+  "endTime": 1758623203839,
   "band_list": [
     {
       "raw_hot": 11916363,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 863223,
+      "num": 332081,
+      "word": "台风前夕腾讯把企鹅拴住了",
+      "onboard_time": 1758615442,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 860223,
       "num": 657467,
       "word": "乔欣变美了",
@@ -185,14 +193,6 @@
       "onboard_time": 1758594441,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 787523,
-      "num": 332081,
-      "word": "台风前夕腾讯把企鹅拴住了",
-      "onboard_time": 1758615442,
-      "rank": 20,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 730222,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 660122,
+      "num": 187080,
+      "word": "韦雪回应9亿分手费",
+      "onboard_time": 1758620182,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 659280,
       "num": 659280,
       "word": "最快女护士张水华发文道歉",
@@ -265,6 +273,14 @@
       "onboard_time": 1758599122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617116,
+      "num": 617116,
+      "word": "28岁男子上树被自带绳子缠脖身亡",
+      "onboard_time": 1758621621,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 605459,
@@ -331,6 +347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 516067,
+      "num": 214541,
+      "word": "妈妈回应瑶一瑶小肉包颜值状态",
+      "onboard_time": 1758621382,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 494247,
       "num": 612397,
       "word": "陈乔恩被求婚那天喝大了",
@@ -379,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 434869,
+      "num": 434869,
+      "word": "香港台风",
+      "onboard_time": 1758617302,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421761,
       "num": 486705,
       "word": "白鹿小声说累死了",
@@ -424,14 +456,6 @@
       "word": "深圳台风",
       "onboard_time": 1758583519,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 378634,
-      "num": 378634,
-      "word": "香港台风",
-      "onboard_time": 1758617302,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -515,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306467,
+      "num": 282400,
+      "word": "中国游客腹痛日本医生见死不救",
+      "onboard_time": 1758617782,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 301530,
       "num": 301530,
       "word": "台风 广东病",
@@ -569,14 +601,6 @@
       "onboard_time": 1758583699,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282400,
-      "num": 282400,
-      "word": "中国游客腹痛日本医生见死不救",
-      "onboard_time": 1758617782,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 281237,
@@ -651,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250587,
+      "num": 250587,
+      "word": "桦加沙路径",
+      "onboard_time": 1758622222,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250291,
       "num": 250291,
       "word": "268万翡翠错标26.8万卖",
@@ -699,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233271,
+      "num": 233271,
+      "word": "金鸡奖提名名单预测",
+      "onboard_time": 1758613640,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229881,
       "num": 229881,
       "word": "台风将至深圳为何依旧晴朗",
@@ -729,14 +769,6 @@
       "onboard_time": 1758558559,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218322,
-      "num": 223304,
-      "word": "金鸡奖提名名单预测",
-      "onboard_time": 1758613640,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 218307,
@@ -907,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191179,
+      "num": 191179,
+      "word": "桦加沙强度",
+      "onboard_time": 1758622160,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186842,
       "num": 186842,
       "word": "和平精英",
@@ -977,14 +1017,6 @@
       "onboard_time": 1758604761,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177983,
-      "num": 177983,
-      "word": "韦雪回应9亿分手费",
-      "onboard_time": 1758620182,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 176459,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1758593600,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159500,
+      "num": 159500,
+      "word": "方媛挺孕肚工作",
+      "onboard_time": 1758621562,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 159481,
@@ -1411,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137766,
+      "num": 137766,
+      "word": "名侦探柯南演都不演了",
+      "onboard_time": 1758621681,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 136063,
       "num": 136063,
       "word": "印媒关注中国K签证",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1758603263,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129282,
+      "num": 129282,
+      "word": "女子术后20天发现体内留纱布已发臭",
+      "onboard_time": 1758620782,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128884,
@@ -1595,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121651,
+      "num": 121651,
+      "word": "痴情的火鸡面啊再等一世吧",
+      "onboard_time": 1758622702,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120909,
       "num": 120909,
       "word": "桦加沙到哪了",
@@ -1707,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114816,
+      "num": 114816,
+      "word": "iPhone17被曝断触",
+      "onboard_time": 1758622941,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114244,
       "num": 153292,
       "word": "杨幂就让这大雨全部落下",
@@ -1720,6 +1792,14 @@
       "word": "桦加沙或在珠海到湛江沿海登陆",
       "onboard_time": 1758609681,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113897,
+      "num": 113897,
+      "word": "广州地铁",
+      "onboard_time": 1758623001,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1740,7 +1820,7 @@
     },
     {
       "raw_hot": 111745,
-      "num": 111745,
+      "num": 229241,
       "word": "23日夜间深圳风雨最强",
       "onboard_time": 1758619103,
       "rank": 42,
@@ -1787,12 +1867,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110551,
+      "num": 110551,
+      "word": "始祖鸟蔡国强有空道歉没空清理",
+      "onboard_time": 1758621202,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110115,
+      "num": 115660,
+      "word": "直播卖烤肠女子又遇城管",
+      "onboard_time": 1758620842,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109969,
       "num": 190324,
       "word": "布达拉宫见证冠军风采",
       "onboard_time": 1758611240,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109774,
+      "num": 109774,
+      "word": "北京环球的丑饭太好吃了",
+      "onboard_time": 1758620482,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 108393,
@@ -1825,6 +1929,14 @@
       "onboard_time": 1758586822,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107127,
+      "num": 107127,
+      "word": "MAMA票价",
+      "onboard_time": 1758623182,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 106112,
@@ -1875,6 +1987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104155,
+      "num": 106542,
+      "word": "医院回应影像科报告单出现骂人脏话",
+      "onboard_time": 1758617420,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104030,
       "num": 160713,
       "word": "新郎被绑梯子上泼酱油和啤酒",
@@ -1915,6 +2035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101619,
+      "num": 185173,
+      "word": "许光汉瘦回来了",
+      "onboard_time": 1758622762,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101565,
       "num": 101565,
       "word": "台风桦加沙预计23日夜间登陆",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1758610101,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101161,
+      "num": 186722,
+      "word": "长安二十四计",
+      "onboard_time": 1758621143,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 99596,
@@ -2041,6 +2177,14 @@
       "onboard_time": 1758592821,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91885,
+      "num": 184916,
+      "word": "超强台风桦加沙何以用巨灾形容",
+      "onboard_time": 1758621741,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91340,
@@ -2171,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82250,
+      "num": 118876,
+      "word": "看货架就知道我们不爱预制菜",
+      "onboard_time": 1758622042,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82229,
       "num": 82229,
       "word": "美拉德是秋日限定色系",
@@ -2251,12 +2403,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71869,
+      "num": 118399,
+      "word": "特朗普称所有孕妇都不该用泰诺止痛",
+      "onboard_time": 1758622402,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70023,
       "num": 125598,
       "word": "BOSS直聘重拳整治涉黄招聘",
       "onboard_time": 1758596482,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68723,
+      "num": 187328,
+      "word": "专家称桦加沙强度临地球上限不科学",
+      "onboard_time": 1758622222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67673,
@@ -2475,6 +2643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40608,
+      "num": 187965,
+      "word": "福地怀化湘当懂你",
+      "onboard_time": 1758621921,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 36834,
       "num": 1225059,
       "word": "社交账号不受控制是木马病毒在作祟",
@@ -2627,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21779,
+      "num": 119869,
+      "word": "男子幻想被作法射杀邻居后还去喝茶",
+      "onboard_time": 1758622042,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21394,
       "num": 28709,
       "word": "刘雨昕官宣微博音乐盛典",
@@ -2681,6 +2865,14 @@
       "onboard_time": 1758612682,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7894,
+      "num": 117010,
+      "word": "雎晓雯把冲锋衣穿出高定感",
+      "onboard_time": 1758621382,
+      "rank": 40,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
