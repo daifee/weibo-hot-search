@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758645987353,
+  "endTime": 1758648641109,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208010,
+      "num": 208010,
+      "word": "桦加沙强度",
+      "onboard_time": 1758622160,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207233,
       "num": 207233,
       "word": "范丞丞喝多了",
@@ -160,14 +168,6 @@
       "word": "桦加沙路径",
       "onboard_time": 1758622222,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187499,
-      "num": 187499,
-      "word": "桦加沙强度",
-      "onboard_time": 1758622160,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70925,
+      "num": 70925,
+      "word": "为何台风来临前天气好得可怕",
+      "onboard_time": 1758647058,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69053,
       "num": 79496,
       "word": "桦加沙和山竹谁更强",
@@ -361,6 +369,14 @@
       "onboard_time": 1758629302,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62012,
+      "num": 98581,
+      "word": "广东人的抗台风玄学",
+      "onboard_time": 1758645859,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61091,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51998,
+      "num": 67262,
+      "word": "黄灿灿回应被称为武大校花",
+      "onboard_time": 1758631642,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51315,
       "num": 79471,
       "word": "郑钦文说最后10%最难恢复",
@@ -395,20 +419,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47550,
-      "num": 60007,
-      "word": "黄灿灿回应被称为武大校花",
-      "onboard_time": 1758631642,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 37764,
+      "num": 37764,
+      "word": "7个细微但是有用的习惯",
+      "onboard_time": 1758646159,
+      "rank": 42,
+      "category": "情感"
     },
     {
-      "raw_hot": 42083,
-      "num": 98581,
-      "word": "广东人的抗台风玄学",
-      "onboard_time": 1758645859,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 36660,
+      "num": 36934,
+      "word": "怪不得宋威龙机场都在锻炼",
+      "onboard_time": 1758646219,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35805,
+      "num": 36934,
+      "word": "徐振轩直播",
+      "onboard_time": 1758646278,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 23600,
@@ -417,6 +449,14 @@
       "onboard_time": 1758634463,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22343,
+      "num": 232577,
+      "word": "珠海部分高层住户被通知撤离",
+      "onboard_time": 1758636324,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
