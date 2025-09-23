@@ -1,13 +1,21 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758596593313,
+  "endTime": 1758597141510,
   "band_list": [
     {
-      "raw_hot": 8322304,
-      "num": 8322304,
+      "raw_hot": 11125410,
+      "num": 11125410,
       "word": "崔丽丽穿被性侵时衣服出庭",
       "onboard_time": 1758593480,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2189298,
+      "num": 1071480,
+      "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+      "onboard_time": 1758594261,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -27,14 +35,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1891711,
-      "num": 1004236,
-      "word": "男子嫖娼前猝死家属索赔卖淫女131万",
-      "onboard_time": 1758594261,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1204608,
       "num": 567736,
       "word": "秦雯王家卫录音",
@@ -49,6 +49,14 @@
       "onboard_time": 1758579255,
       "rank": 18,
       "category": "民生新闻,国际时政"
+    },
+    {
+      "raw_hot": 1049947,
+      "num": 1049947,
+      "word": "桦加沙",
+      "onboard_time": 1758596303,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1049343,
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 800733,
+      "num": 800733,
+      "word": "可云扮演者辟谣嫌老公丑不生孩子",
+      "onboard_time": 1758594441,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730222,
       "num": 730222,
       "word": "男生错把自选餐看成自助餐",
@@ -107,28 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 622772,
+      "num": 622772,
+      "word": "深圳今天14时起停工停业停市",
+      "onboard_time": 1758595522,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 602369,
+      "num": 602369,
+      "word": "银价飙涨",
+      "onboard_time": 1758592161,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 595593,
       "num": 156902,
       "word": "臭宝品牌方回应吃出脚趾甲和烟头",
       "onboard_time": 1758554781,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 564282,
-      "num": 564282,
-      "word": "可云扮演者辟谣嫌老公丑不生孩子",
-      "onboard_time": 1758594441,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 546010,
-      "num": 546010,
-      "word": "银价飙涨",
-      "onboard_time": 1758592161,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 542279,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 494247,
-      "num": 494247,
+      "num": 612397,
       "word": "陈乔恩被求婚那天喝大了",
       "onboard_time": 1758593961,
       "rank": 7,
@@ -180,18 +196,10 @@
     },
     {
       "raw_hot": 404118,
-      "num": 404118,
+      "num": 605933,
       "word": "遇袭医生已做完手术送至ICU",
       "onboard_time": 1758594562,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 403365,
-      "num": 438097,
-      "word": "深圳今天14时起停工停业停市",
-      "onboard_time": 1758595522,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1758594740,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 381618,
-      "num": 381618,
-      "word": "桦加沙",
-      "onboard_time": 1758596303,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 381304,
@@ -296,6 +296,14 @@
       "word": "陈紫函自曝因长期分居婚姻亮红灯",
       "onboard_time": 1758524781,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272389,
+      "num": 272389,
+      "word": "陈数 社交为零但是足够幸运",
+      "onboard_time": 1758596122,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -395,20 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194747,
+      "num": 194747,
+      "word": "终于到了能驾驭羊毛衫的年纪了",
+      "onboard_time": 1758596723,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 194455,
+      "num": 308812,
+      "word": "支付宝首页怎么了",
+      "onboard_time": 1758593301,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191906,
       "num": 191906,
       "word": "白百何工作室 明天没更新就是下岗了",
       "onboard_time": 1758549865,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181797,
-      "num": 308812,
-      "word": "支付宝首页怎么了",
-      "onboard_time": 1758593301,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 166564,
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143615,
+      "num": 143615,
+      "word": "宋亚轩回应刘耀文无比勇敢帅气的文哥",
+      "onboard_time": 1758594261,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142473,
       "num": 142473,
       "word": "谢霆锋吉他图案是王菲的纹身",
@@ -523,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141882,
-      "num": 141882,
-      "word": "宋亚轩回应刘耀文无比勇敢帅气的文哥",
-      "onboard_time": 1758594261,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141018,
       "num": 141018,
       "word": "蕾哈娜官宣生女",
@@ -539,12 +555,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134310,
-      "num": 134310,
-      "word": "陈数 社交为零但是足够幸运",
-      "onboard_time": 1758596122,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 140546,
+      "num": 140546,
+      "word": "邓为记错云秀行宣发时间",
+      "onboard_time": 1758596903,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140424,
+      "num": 140424,
+      "word": "关晓彤出发米兰时装周了",
+      "onboard_time": 1758594981,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 133175,
+      "num": 143679,
+      "word": "汤唯张婧仪贴贴",
+      "onboard_time": 1758595702,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 130269,
@@ -555,12 +587,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128247,
-      "num": 128247,
-      "word": "关晓彤出发米兰时装周了",
-      "onboard_time": 1758594981,
-      "rank": 34,
-      "category": "作品衍生,时尚"
+      "raw_hot": 129137,
+      "num": 129137,
+      "word": "开车后最怕的事情还是出现了",
+      "onboard_time": 1758595522,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 127199,
@@ -667,14 +699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111754,
-      "num": 111754,
-      "word": "汤唯张婧仪贴贴",
-      "onboard_time": 1758595702,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111136,
       "num": 111136,
       "word": "10月1号将出现的六批人",
@@ -697,6 +721,14 @@
       "onboard_time": 1758586822,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106405,
+      "num": 106405,
+      "word": "呼吸道合胞病毒感染尚无特效药",
+      "onboard_time": 1758594441,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103990,
@@ -723,12 +755,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 102187,
-      "num": 102187,
-      "word": "开车后最怕的事情还是出现了",
-      "onboard_time": 1758595522,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 101326,
+      "num": 101326,
+      "word": "呼吸道合胞病毒感染病例逐渐增多",
+      "onboard_time": 1758596842,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99596,
@@ -761,6 +793,14 @@
       "onboard_time": 1758588921,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96551,
+      "num": 96551,
+      "word": "吴邪的私家笔记",
+      "onboard_time": 1758594740,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 96234,
@@ -835,14 +875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89606,
-      "num": 91359,
-      "word": "吴邪的私家笔记",
-      "onboard_time": 1758594740,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89459,
       "num": 89459,
       "word": "云秀行",
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 88325,
-      "num": 145039,
+      "num": 149204,
       "word": "76个地方总有一个适合你的小长假",
       "onboard_time": 1758593301,
       "rank": 39,
@@ -931,6 +963,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 81932,
+      "num": 268956,
+      "word": "小米17ProMax屏幕",
+      "onboard_time": 1758596784,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81082,
       "num": 81082,
       "word": "深圳地铁",
@@ -961,6 +1001,14 @@
       "onboard_time": 1758559100,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67673,
+      "num": 265739,
+      "word": "永远可以相信爸妈的眼光",
+      "onboard_time": 1758596784,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 66356,
@@ -1011,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54402,
+      "num": 125598,
+      "word": "BOSS直聘重拳整治涉黄招聘",
+      "onboard_time": 1758596482,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 52707,
       "num": 60362,
       "word": "高校教师读博后辞职被索赔17万",
@@ -1035,7 +1091,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36598,
+      "raw_hot": 36834,
       "num": 1225059,
       "word": "社交账号不受控制是木马病毒在作祟",
       "onboard_time": 1758593001,
@@ -1049,14 +1105,6 @@
       "onboard_time": 1758530242,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29526,
-      "num": 103014,
-      "word": "BOSS直聘重拳整治涉黄招聘",
-      "onboard_time": 1758596482,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 29273,
