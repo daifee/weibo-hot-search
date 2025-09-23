@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758632681578,
+  "endTime": 1758634481393,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4051,6 +4051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 969614,
+      "num": 670746,
+      "word": "王晓晨否认结婚",
+      "onboard_time": 1758629783,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 968275,
       "num": 968275,
       "word": "Dior认领",
@@ -5323,14 +5331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 835405,
-      "num": 670746,
-      "word": "王晓晨否认结婚",
-      "onboard_time": 1758629783,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 835144,
       "num": 912167,
       "word": "车澈曾当李嘉格面抱乃万",
@@ -5923,6 +5923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 784869,
+      "num": 784869,
+      "word": "朝雪录",
+      "onboard_time": 1758628703,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 784275,
       "num": 1118913,
       "word": "陈乔恩回应要不要小孩",
@@ -6457,14 +6465,6 @@
       "onboard_time": 1758285081,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 736040,
-      "num": 736040,
-      "word": "朝雪录",
-      "onboard_time": 1758628703,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 736031,
@@ -10075,6 +10075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519166,
+      "num": 519166,
+      "word": "医院通报CT报告单现不文明用语",
+      "onboard_time": 1758630263,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517316,
       "num": 289824,
       "word": "日掛中天",
@@ -10257,6 +10265,14 @@
       "onboard_time": 1757345125,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 508775,
+      "num": 508775,
+      "word": "丁泽仁国职考试通过",
+      "onboard_time": 1758629183,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 508643,
@@ -14627,6 +14643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368751,
+      "num": 368751,
+      "word": "问界M7",
+      "onboard_time": 1758632783,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 368734,
       "num": 297632,
       "word": "董子健给8岁女儿庆生",
@@ -15113,6 +15137,14 @@
       "onboard_time": 1757982502,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 357712,
+      "num": 357712,
+      "word": "上海绿捷已被立案侦查",
+      "onboard_time": 1758633743,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357568,
@@ -16139,6 +16171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328718,
+      "num": 328718,
+      "word": "赴山海是否意味着新武侠剧的没落",
+      "onboard_time": 1758631043,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328681,
       "num": 257382,
       "word": "普京称若谈判无果将以武力解决",
@@ -16985,14 +17025,6 @@
       "onboard_time": 1757944284,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 308512,
-      "num": 298961,
-      "word": "丁泽仁国职考试通过",
-      "onboard_time": 1758629183,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 308043,
@@ -18865,14 +18897,6 @@
       "onboard_time": 1758454403,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270787,
-      "num": 270787,
-      "word": "医院通报CT报告单现不文明用语",
-      "onboard_time": 1758630263,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270766,
@@ -23659,6 +23683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209148,
+      "num": 209148,
+      "word": "网红罗几因车祸不幸遇难",
+      "onboard_time": 1758633863,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 209119,
       "num": 204219,
       "word": "王星越这回女主没对象不用抢",
@@ -23753,6 +23785,14 @@
       "onboard_time": 1756909825,
       "rank": 40,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 208623,
+      "num": 208623,
+      "word": "尚界H5",
+      "onboard_time": 1758633263,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 208596,
@@ -24489,14 +24529,6 @@
       "onboard_time": 1757315063,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203447,
-      "num": 218192,
-      "word": "赴山海是否意味着新武侠剧的没落",
-      "onboard_time": 1758631043,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 203387,
@@ -26299,6 +26331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194582,
+      "num": 194582,
+      "word": "展轩直播",
+      "onboard_time": 1757684308,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194570,
       "num": 194570,
       "word": "WTT颁奖",
@@ -26936,6 +26976,14 @@
       "word": "南派三叔云顶天宫你重拍没",
       "onboard_time": 1758514462,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191995,
+      "num": 191995,
+      "word": "邓为下腰好杀",
+      "onboard_time": 1758633743,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -28139,6 +28187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186742,
+      "num": 200062,
+      "word": "赵今麦这次真帅到我了",
+      "onboard_time": 1758633143,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186730,
       "num": 186730,
       "word": "女子地铁拒安检多次追打工作人员",
@@ -28201,6 +28257,14 @@
       "onboard_time": 1758511041,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186454,
+      "num": 218444,
+      "word": "刘耀文是宋亚轩铁粉",
+      "onboard_time": 1758632244,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 186401,
@@ -28361,14 +28425,6 @@
       "onboard_time": 1758462867,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185530,
-      "num": 218444,
-      "word": "刘耀文是宋亚轩铁粉",
-      "onboard_time": 1758632244,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 185516,
@@ -29897,6 +29953,14 @@
       "onboard_time": 1757343085,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 177741,
+      "num": 177741,
+      "word": "黄灿灿回应被称为武大校花",
+      "onboard_time": 1758631642,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 177716,
@@ -31491,6 +31555,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 170155,
+      "num": 170155,
+      "word": "宋亚轩 你的生长痛我后知后觉",
+      "onboard_time": 1758632180,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170083,
       "num": 170083,
       "word": "坐高铁偶遇白敬亭",
@@ -32139,6 +32211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167458,
+      "num": 167458,
+      "word": "瑞幸苹果拿铁文案 翻车",
+      "onboard_time": 1758629902,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167421,
       "num": 167421,
       "word": "痛经趴床上鹦鹉抛下同类来扶我",
@@ -32273,6 +32353,14 @@
       "onboard_time": 1757645125,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166716,
+      "num": 166716,
+      "word": "王扁模仿王源走红疑开多号接受打赏",
+      "onboard_time": 1758634164,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 166702,
@@ -32449,6 +32537,14 @@
       "onboard_time": 1758155961,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 165994,
+      "num": 165994,
+      "word": "王鹤润这大花感觉上来了",
+      "onboard_time": 1758633982,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165972,
@@ -34339,14 +34435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159559,
-      "num": 159559,
-      "word": "展轩直播",
-      "onboard_time": 1757684308,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159500,
       "num": 159500,
       "word": "方媛挺孕肚工作",
@@ -34449,14 +34537,6 @@
       "onboard_time": 1757414723,
       "rank": 33,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 159150,
-      "num": 159150,
-      "word": "黄灿灿回应被称为武大校花",
-      "onboard_time": 1758631642,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 159140,
@@ -37163,14 +37243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 149713,
-      "num": 149713,
-      "word": "瑞幸苹果拿铁文案 翻车",
-      "onboard_time": 1758629902,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149700,
       "num": 327753,
       "word": "李家超率360人代表团出席九三阅兵",
@@ -37233,6 +37305,14 @@
       "onboard_time": 1758279504,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149496,
+      "num": 168365,
+      "word": "迪丽热巴早期神颜视频",
+      "onboard_time": 1758633504,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 149417,
@@ -45931,6 +46011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126162,
+      "num": 185672,
+      "word": "CT报告现不文明用语系医生打字有误",
+      "onboard_time": 1758632423,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126134,
       "num": 126134,
       "word": "法考成绩公告",
@@ -46201,6 +46289,14 @@
       "onboard_time": 1757829562,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125501,
+      "num": 125501,
+      "word": "米沙画了黎深",
+      "onboard_time": 1758634342,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 125499,
@@ -53721,14 +53817,6 @@
       "onboard_time": 1757317163,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 107946,
-      "num": 129587,
-      "word": "宋亚轩 你的生长痛我后知后觉",
-      "onboard_time": 1758632180,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 107912,
@@ -61899,6 +61987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83079,
+      "num": 970637,
+      "word": "从田间到指尖的丰收路",
+      "onboard_time": 1758628163,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83032,
       "num": 902292,
       "word": "特朗普政治盟友遭枪杀警察抓错人",
@@ -64779,14 +64875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69772,
-      "num": 185672,
-      "word": "CT报告现不文明用语系医生打字有误",
-      "onboard_time": 1758632423,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69669,
       "num": 151669,
       "word": "受阅海军战士凯旋被硬核接风",
@@ -65409,6 +65497,14 @@
       "onboard_time": 1758277943,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65313,
+      "num": 217874,
+      "word": "每10辆50万级新能源7辆是问界M9",
+      "onboard_time": 1758631762,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 65250,
@@ -67283,14 +67379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 54945,
-      "num": 217874,
-      "word": "每10辆50万级新能源7辆是问界M9",
-      "onboard_time": 1758631762,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 54894,
       "num": 147371,
       "word": "鸡排哥回应走红",
@@ -67817,6 +67905,14 @@
       "onboard_time": 1757991502,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52622,
+      "num": 191230,
+      "word": "安全卷王问界M7标配八重安全设计",
+      "onboard_time": 1758632783,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 52590,
@@ -68761,6 +68857,14 @@
       "onboard_time": 1757934382,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 47463,
+      "num": 200920,
+      "word": "日默瓦横竖都出圈",
+      "onboard_time": 1758632783,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 47454,
@@ -70875,14 +70979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34242,
-      "num": 970637,
-      "word": "从田间到指尖的丰收路",
-      "onboard_time": 1758628163,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34226,
       "num": 119009,
       "word": "啄木鸟维修 越修越漏",
@@ -71073,6 +71169,14 @@
       "onboard_time": 1758535282,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33513,
+      "num": 191160,
+      "word": "FENDI大秀明星阵容",
+      "onboard_time": 1758632783,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33410,
@@ -74441,6 +74545,14 @@
       "onboard_time": 1758332780,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 7151,
+      "num": 952083,
+      "word": "丰收中国",
+      "onboard_time": 1758634463,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6737,

@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758632681578,
+  "endTime": 1758634481393,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 969614,
+      "num": 670746,
+      "word": "王晓晨否认结婚",
+      "onboard_time": 1758629783,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 964753,
       "num": 457779,
       "word": "在日本因穿着暴露被饭店赶出",
@@ -643,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 835405,
-      "num": 670746,
-      "word": "王晓晨否认结婚",
-      "onboard_time": 1758629783,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 835021,
       "num": 835021,
       "word": "李一桐被磕掉了一颗牙",
@@ -739,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 784869,
+      "num": 784869,
+      "word": "朝雪录",
+      "onboard_time": 1758628703,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 784275,
       "num": 1118913,
       "word": "陈乔恩回应要不要小孩",
@@ -825,14 +833,6 @@
       "onboard_time": 1758420382,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 736040,
-      "num": 736040,
-      "word": "朝雪录",
-      "onboard_time": 1758628703,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 734975,
@@ -1323,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519166,
+      "num": 519166,
+      "word": "医院通报CT报告单现不文明用语",
+      "onboard_time": 1758630263,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 516117,
       "num": 516117,
       "word": "预制菜国家标准",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1758530422,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 508775,
+      "num": 508775,
+      "word": "丁泽仁国职考试通过",
+      "onboard_time": 1758629183,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 508643,
@@ -1787,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368751,
+      "num": 368751,
+      "word": "问界M7",
+      "onboard_time": 1758632783,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 368734,
       "num": 297632,
       "word": "董子健给8岁女儿庆生",
@@ -1851,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357712,
+      "num": 357712,
+      "word": "上海绿捷已被立案侦查",
+      "onboard_time": 1758633743,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352376,
       "num": 352376,
       "word": "张继科点评男乒最强正反手",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1758383123,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328718,
+      "num": 328718,
+      "word": "赴山海是否意味着新武侠剧的没落",
+      "onboard_time": 1758631043,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 327453,
@@ -2017,14 +2057,6 @@
       "onboard_time": 1758514042,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308512,
-      "num": 298961,
-      "word": "丁泽仁国职考试通过",
-      "onboard_time": 1758629183,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 306991,
@@ -2265,14 +2297,6 @@
       "onboard_time": 1758454403,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270787,
-      "num": 270787,
-      "word": "医院通报CT报告单现不文明用语",
-      "onboard_time": 1758630263,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270697,
@@ -2963,6 +2987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209148,
+      "num": 209148,
+      "word": "网红罗几因车祸不幸遇难",
+      "onboard_time": 1758633863,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 209092,
       "num": 209092,
       "word": "胡兵准备找来多少个星二代",
@@ -2977,6 +3009,14 @@
       "onboard_time": 1758385942,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208623,
+      "num": 208623,
+      "word": "尚界H5",
+      "onboard_time": 1758633263,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 208324,
@@ -3121,14 +3161,6 @@
       "onboard_time": 1758538642,
       "rank": 31,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 203447,
-      "num": 218192,
-      "word": "赴山海是否意味着新武侠剧的没落",
-      "onboard_time": 1758631043,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 203261,
@@ -3379,6 +3411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194582,
+      "num": 194582,
+      "word": "展轩直播",
+      "onboard_time": 1758633743,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194455,
       "num": 308812,
       "word": "支付宝首页怎么了",
@@ -3440,6 +3480,14 @@
       "word": "南派三叔云顶天宫你重拍没",
       "onboard_time": 1758514462,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191995,
+      "num": 191995,
+      "word": "邓为下腰好杀",
+      "onboard_time": 1758633743,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -3635,12 +3683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186742,
+      "num": 200062,
+      "word": "赵今麦这次真帅到我了",
+      "onboard_time": 1758633143,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186465,
       "num": 239234,
       "word": "银河左岸",
       "onboard_time": 1758511041,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186454,
+      "num": 218444,
+      "word": "刘耀文是宋亚轩铁粉",
+      "onboard_time": 1758632244,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 186401,
@@ -3681,14 +3745,6 @@
       "onboard_time": 1758462867,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185530,
-      "num": 218444,
-      "word": "刘耀文是宋亚轩铁粉",
-      "onboard_time": 1758632244,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 185341,
@@ -3963,6 +4019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177741,
+      "num": 177741,
+      "word": "黄灿灿回应被称为武大校花",
+      "onboard_time": 1758631642,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177016,
       "num": 177016,
       "word": "高质量对谈专治精神内耗",
@@ -4155,6 +4219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170155,
+      "num": 170155,
+      "word": "宋亚轩 你的生长痛我后知后觉",
+      "onboard_time": 1758632180,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169440,
       "num": 169440,
       "word": "范丞丞 青岛",
@@ -4243,6 +4315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167458,
+      "num": 167458,
+      "word": "瑞幸苹果拿铁文案 翻车",
+      "onboard_time": 1758629902,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166914,
       "num": 166914,
       "word": "明星网红撞到路人的反应",
@@ -4259,6 +4339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166716,
+      "num": 166716,
+      "word": "王扁模仿王源走红疑开多号接受打赏",
+      "onboard_time": 1758634164,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166452,
       "num": 256214,
       "word": "台风桦加沙将严重影响江门市",
@@ -4273,6 +4361,14 @@
       "onboard_time": 1758534201,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165994,
+      "num": 165994,
+      "word": "王鹤润这大花感觉上来了",
+      "onboard_time": 1758633982,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165571,
@@ -4593,14 +4689,6 @@
       "onboard_time": 1758428481,
       "rank": 43,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 159150,
-      "num": 159150,
-      "word": "黄灿灿回应被称为武大校花",
-      "onboard_time": 1758631642,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 158941,
@@ -5003,12 +5091,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149713,
-      "num": 149713,
-      "word": "瑞幸苹果拿铁文案 翻车",
-      "onboard_time": 1758629902,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 149496,
+      "num": 168365,
+      "word": "迪丽热巴早期神颜视频",
+      "onboard_time": 1758633504,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 149341,
@@ -6227,12 +6315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126162,
+      "num": 185672,
+      "word": "CT报告现不文明用语系医生打字有误",
+      "onboard_time": 1758632423,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125971,
       "num": 230919,
       "word": "华为手表超长长长续航突破21天",
       "onboard_time": 1758507201,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125501,
+      "num": 125501,
+      "word": "米沙画了黎深",
+      "onboard_time": 1758634342,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 125459,
@@ -7323,14 +7427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 107946,
-      "num": 129587,
-      "word": "宋亚轩 你的生长痛我后知后觉",
-      "onboard_time": 1758632180,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107373,
       "num": 107373,
       "word": "深圳天气",
@@ -8267,6 +8363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83079,
+      "num": 970637,
+      "word": "从田间到指尖的丰收路",
+      "onboard_time": 1758628163,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82692,
       "num": 82692,
       "word": "刘慈欣谈科幻作家的集体AI焦虑",
@@ -8579,14 +8683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 69772,
-      "num": 185672,
-      "word": "CT报告现不文明用语系医生打字有误",
-      "onboard_time": 1758632423,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69277,
       "num": 69277,
       "word": "隔壁老樊演唱会",
@@ -8697,6 +8793,14 @@
       "onboard_time": 1758535583,
       "rank": 24,
       "category": "旅游,汽车"
+    },
+    {
+      "raw_hot": 65313,
+      "num": 217874,
+      "word": "每10辆50万级新能源7辆是问界M9",
+      "onboard_time": 1758631762,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 65250,
@@ -8963,14 +9067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54945,
-      "num": 217874,
-      "word": "每10辆50万级新能源7辆是问界M9",
-      "onboard_time": 1758631762,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 54894,
       "num": 147371,
       "word": "鸡排哥回应走红",
@@ -9091,6 +9187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52622,
+      "num": 191230,
+      "word": "安全卷王问界M7标配八重安全设计",
+      "onboard_time": 1758632783,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51879,
       "num": 85918,
       "word": "买电动车看技术还是看配置",
@@ -9193,6 +9297,14 @@
       "onboard_time": 1758625942,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 47463,
+      "num": 200920,
+      "word": "日默瓦横竖都出圈",
+      "onboard_time": 1758632783,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 47417,
@@ -9579,14 +9691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34242,
-      "num": 970637,
-      "word": "从田间到指尖的丰收路",
-      "onboard_time": 1758628163,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34130,
       "num": 241173,
       "word": "当地回应小区停水用吸污车供水",
@@ -9641,6 +9745,14 @@
       "onboard_time": 1758535282,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33513,
+      "num": 191160,
+      "word": "FENDI大秀明星阵容",
+      "onboard_time": 1758632783,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 32953,
@@ -10177,6 +10289,14 @@
       "onboard_time": 1758621382,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7151,
+      "num": 952083,
+      "word": "丰收中国",
+      "onboard_time": 1758634463,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 4221,
