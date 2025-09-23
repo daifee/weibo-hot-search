@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758637532141,
+  "endTime": 1758638620774,
   "band_list": [
     {
       "raw_hot": 11916363,
@@ -65,6 +65,14 @@
       "onboard_time": 1758600142,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1288995,
+      "num": 598997,
+      "word": "王晓晨 俞灏明",
+      "onboard_time": 1758634885,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1237252,
@@ -145,14 +153,6 @@
       "onboard_time": 1758597321,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 910847,
-      "num": 598997,
-      "word": "王晓晨 俞灏明",
-      "onboard_time": 1758634885,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 909120,
@@ -256,6 +256,14 @@
       "word": "上海绿捷已被立案侦查",
       "onboard_time": 1758633743,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 780836,
+      "num": 780836,
+      "word": "桦加沙深圳",
+      "onboard_time": 1758636564,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -483,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448271,
+      "num": 448271,
+      "word": "广东已紧急转移77万人",
+      "onboard_time": 1758636864,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440416,
       "num": 440416,
       "word": "被性侵女高管和丈夫大学异地恋四年",
@@ -587,8 +603,8 @@
       "category": "海外新闻,健康医疗"
     },
     {
-      "raw_hot": 344912,
-      "num": 344912,
+      "raw_hot": 362645,
+      "num": 362645,
       "word": "王扁模仿王源走红疑开多号接受打赏",
       "onboard_time": 1758634164,
       "rank": 40,
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 303529,
-      "num": 395484,
+      "num": 472668,
       "word": "新疆维吾尔自治区成立70周年庆祝活动",
       "onboard_time": 1758627323,
       "rank": 35,
@@ -763,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284774,
+      "num": 284774,
+      "word": "深圳机场飞机五花大绑防台风",
+      "onboard_time": 1758636203,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284217,
       "num": 242025,
       "word": "贺峻霖中传成功保研",
@@ -809,6 +833,14 @@
       "onboard_time": 1758624021,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267239,
+      "num": 267239,
+      "word": "不二之臣",
+      "onboard_time": 1758636504,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 263963,
@@ -915,20 +947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234305,
-      "num": 234305,
-      "word": "广东已紧急转移77万人",
-      "onboard_time": 1758636864,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233293,
-      "num": 233293,
-      "word": "桦加沙深圳",
-      "onboard_time": 1758636564,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 234213,
+      "num": 234213,
+      "word": "李一桐米兰偶遇李现",
+      "onboard_time": 1758637404,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 233271,
@@ -969,14 +993,6 @@
       "onboard_time": 1758602722,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221298,
-      "num": 221298,
-      "word": "不二之臣",
-      "onboard_time": 1758636504,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 218641,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1758604342,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206037,
+      "num": 189236,
+      "word": "林高远自愿放弃混团世界杯选拔赛",
+      "onboard_time": 1758638063,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 205501,
@@ -1203,20 +1227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191037,
-      "num": 191037,
-      "word": "深圳机场飞机五花大绑防台风",
-      "onboard_time": 1758636203,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187685,
       "num": 194050,
       "word": "王俊凯高干文男主",
       "onboard_time": 1758623302,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187416,
+      "num": 187416,
+      "word": "王皓希望大家把握好每一次竞争机会",
+      "onboard_time": 1758638424,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 186842,
@@ -1387,8 +1411,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171059,
-      "num": 171059,
+      "raw_hot": 171385,
+      "num": 171385,
       "word": "问界m7大定",
       "onboard_time": 1758637224,
       "rank": 30,
@@ -2003,6 +2027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135101,
+      "num": 135101,
+      "word": "00后表达爱的方式",
+      "onboard_time": 1758637583,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133175,
       "num": 143679,
       "word": "汤唯张婧仪贴贴",
@@ -2227,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122493,
+      "num": 122493,
+      "word": "珠海部分高层住户被通知撤离",
+      "onboard_time": 1758636324,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122387,
       "num": 152966,
       "word": "Angelababy秋日蜜糖妆",
@@ -2331,11 +2371,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118722,
+      "num": 118722,
+      "word": "让希林娜依高梳背头的是天才",
+      "onboard_time": 1758638484,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118453,
       "num": 125942,
       "word": "崔丽丽成职场被性侵女性倾诉树洞",
       "onboard_time": 1758611720,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117176,
+      "num": 161939,
+      "word": "三班班长",
+      "onboard_time": 1758634764,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2435,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113493,
+      "num": 149828,
+      "word": "昆凌否认怀四胎",
+      "onboard_time": 1758637163,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113252,
       "num": 113252,
       "word": "王楚钦9425分继续领跑世界第一",
@@ -2449,14 +2513,6 @@
       "onboard_time": 1758620182,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112400,
-      "num": 148543,
-      "word": "李一桐米兰偶遇李现",
-      "onboard_time": 1758637404,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111745,
@@ -2596,7 +2652,7 @@
     },
     {
       "raw_hot": 106156,
-      "num": 150935,
+      "num": 184317,
       "word": "为更好的自己努力100天",
       "onboard_time": 1758637404,
       "rank": 38,
@@ -3043,14 +3099,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 79962,
-      "num": 149828,
-      "word": "昆凌否认怀四胎",
-      "onboard_time": 1758637163,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79498,
       "num": 121465,
       "word": "广中医一院回应医生遇袭",
@@ -3268,7 +3316,7 @@
     },
     {
       "raw_hot": 56174,
-      "num": 171162,
+      "num": 184331,
       "word": "尚界H5搭载华为旗舰8大黑科技",
       "onboard_time": 1758635603,
       "rank": 29,
@@ -3416,14 +3464,6 @@
       "word": "女高管被性侵追偿案未当庭宣判",
       "onboard_time": 1758602543,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44141,
-      "num": 161939,
-      "word": "三班班长",
-      "onboard_time": 1758634764,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -3649,6 +3689,14 @@
       "onboard_time": 1758619941,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25593,
+      "num": 118295,
+      "word": "香港下水道喷出巨大水柱",
+      "onboard_time": 1758637884,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25278,

@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758637532141,
+  "endTime": 1758638620774,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -225,6 +225,14 @@
       "onboard_time": 1758517583,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1288995,
+      "num": 598997,
+      "word": "王晓晨 俞灏明",
+      "onboard_time": 1758634885,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1286011,
@@ -507,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 910847,
-      "num": 598997,
-      "word": "王晓晨 俞灏明",
-      "onboard_time": 1758634885,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 909120,
       "num": 935928,
       "word": "广东全面进入临战状态",
@@ -777,6 +777,14 @@
       "onboard_time": 1758506241,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 780836,
+      "num": 780836,
+      "word": "桦加沙深圳",
+      "onboard_time": 1758636564,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 777974,
@@ -1595,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448271,
+      "num": 448271,
+      "word": "广东已紧急转移77万人",
+      "onboard_time": 1758636864,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447258,
       "num": 184892,
       "word": "长租15年不到1年就被劝退",
@@ -1891,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362645,
+      "num": 362645,
+      "word": "王扁模仿王源走红疑开多号接受打赏",
+      "onboard_time": 1758634164,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357798,
       "num": 357798,
       "word": "终于知道新闻主播为啥戴假发了",
@@ -1912,14 +1936,6 @@
       "word": "苏新皓受伤",
       "onboard_time": 1758542902,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 344912,
-      "num": 344912,
-      "word": "王扁模仿王源走红疑开多号接受打赏",
-      "onboard_time": 1758634164,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -2124,7 +2140,7 @@
     },
     {
       "raw_hot": 303529,
-      "num": 395484,
+      "num": 472668,
       "word": "新疆维吾尔自治区成立70周年庆祝活动",
       "onboard_time": 1758627323,
       "rank": 35,
@@ -2224,6 +2240,14 @@
       "word": "深圳地铁",
       "onboard_time": 1758539722,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284774,
+      "num": 284774,
+      "word": "深圳机场飞机五花大绑防台风",
+      "onboard_time": 1758636203,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2377,6 +2401,14 @@
       "onboard_time": 1758458242,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 267239,
+      "num": 267239,
+      "word": "不二之臣",
+      "onboard_time": 1758636504,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 264944,
@@ -2731,12 +2763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234305,
-      "num": 234305,
-      "word": "广东已紧急转移77万人",
-      "onboard_time": 1758636864,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 234213,
+      "num": 234213,
+      "word": "李一桐米兰偶遇李现",
+      "onboard_time": 1758637404,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 233709,
@@ -2753,14 +2785,6 @@
       "onboard_time": 1758465446,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 233293,
-      "num": 233293,
-      "word": "桦加沙深圳",
-      "onboard_time": 1758636564,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233271,
@@ -2881,14 +2905,6 @@
       "onboard_time": 1758509000,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 221298,
-      "num": 221298,
-      "word": "不二之臣",
-      "onboard_time": 1758636504,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 220116,
@@ -3153,6 +3169,14 @@
       "onboard_time": 1758510020,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206037,
+      "num": 189236,
+      "word": "林高远自愿放弃混团世界杯选拔赛",
+      "onboard_time": 1758638063,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 205881,
@@ -3603,14 +3627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191037,
-      "num": 191037,
-      "word": "深圳机场飞机五花大绑防台风",
-      "onboard_time": 1758636203,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190821,
       "num": 190821,
       "word": "今年秋天千禧风又杀回来了",
@@ -3729,6 +3745,14 @@
       "onboard_time": 1758623302,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187416,
+      "num": 187416,
+      "word": "王皓希望大家把握好每一次竞争机会",
+      "onboard_time": 1758638424,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 187220,
@@ -4283,20 +4307,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 171385,
+      "num": 171385,
+      "word": "问界m7大定",
+      "onboard_time": 1758637224,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171159,
       "num": 171159,
       "word": "柯南动画最新话",
       "onboard_time": 1758532823,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 171059,
-      "num": 171059,
-      "word": "问界m7大定",
-      "onboard_time": 1758637224,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 170852,
@@ -5915,6 +5939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135101,
+      "num": 135101,
+      "word": "00后表达爱的方式",
+      "onboard_time": 1758637583,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134780,
       "num": 134780,
       "word": "星品影响力",
@@ -6651,6 +6683,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122493,
+      "num": 122493,
+      "word": "珠海部分高层住户被通知撤离",
+      "onboard_time": 1758636324,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122387,
       "num": 152966,
       "word": "Angelababy秋日蜜糖妆",
@@ -6907,6 +6947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118722,
+      "num": 118722,
+      "word": "让希林娜依高梳背头的是天才",
+      "onboard_time": 1758638484,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118560,
       "num": 182142,
       "word": "致敬自然无需烟花证明",
@@ -6969,6 +7017,14 @@
       "onboard_time": 1758449961,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117176,
+      "num": 161939,
+      "word": "三班班长",
+      "onboard_time": 1758634764,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117163,
@@ -7203,6 +7259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113493,
+      "num": 149828,
+      "word": "昆凌否认怀四胎",
+      "onboard_time": 1758637163,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113463,
       "num": 113463,
       "word": "歼35电磁弹射瞬间太燃了",
@@ -7281,14 +7345,6 @@
       "onboard_time": 1758416003,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112400,
-      "num": 148543,
-      "word": "李一桐米兰偶遇李现",
-      "onboard_time": 1758637404,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112370,
@@ -7596,7 +7652,7 @@
     },
     {
       "raw_hot": 106156,
-      "num": 150935,
+      "num": 184317,
       "word": "为更好的自己努力100天",
       "onboard_time": 1758637404,
       "rank": 38,
@@ -8627,14 +8683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79962,
-      "num": 149828,
-      "word": "昆凌否认怀四胎",
-      "onboard_time": 1758637163,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79840,
       "num": 79839,
       "word": "动物园回应小象宝宝不会用鼻子",
@@ -9188,7 +9236,7 @@
     },
     {
       "raw_hot": 56174,
-      "num": 171162,
+      "num": 184331,
       "word": "尚界H5搭载华为旗舰8大黑科技",
       "onboard_time": 1758635603,
       "rank": 29,
@@ -9568,14 +9616,6 @@
       "word": "年薪几百万博士高管从房企辞职",
       "onboard_time": 1758443303,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44141,
-      "num": 161939,
-      "word": "三班班长",
-      "onboard_time": 1758634764,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -10209,6 +10249,14 @@
       "onboard_time": 1758484933,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25593,
+      "num": 118295,
+      "word": "香港下水道喷出巨大水柱",
+      "onboard_time": 1758637884,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25541,
