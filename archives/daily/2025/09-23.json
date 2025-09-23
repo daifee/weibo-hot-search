@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758606076152,
+  "endTime": 1758609439660,
   "band_list": [
     {
       "raw_hot": 11125410,
@@ -75,6 +75,14 @@
       "category": "民生新闻,国际时政"
     },
     {
+      "raw_hot": 1055371,
+      "num": 113007,
+      "word": "男子杀前女友哥哥拍照问满意了吗",
+      "onboard_time": 1758606081,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1049343,
       "num": 931417,
       "word": "折腰剧粉群解散了",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761768,
+      "num": 761768,
+      "word": "崔丽丽说被性侵后会陷入强奸迷思",
+      "onboard_time": 1758607402,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 730222,
       "num": 730222,
       "word": "男生错把自选餐看成自助餐",
@@ -179,11 +195,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 644868,
+      "num": 644868,
+      "word": "中传回应贺峻霖进入保研复试名单",
+      "onboard_time": 1758606081,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641048,
       "num": 641048,
       "word": "给祝绪丹梳背头的人是天才",
       "onboard_time": 1758599122,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 605459,
+      "num": 386839,
+      "word": "任嘉伦剃了寸头",
+      "onboard_time": 1758604883,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -203,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594059,
+      "num": 357462,
+      "word": "罗永浩晒370元7个现炒热菜",
+      "onboard_time": 1758604822,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 542279,
       "num": 247451,
       "word": "网红迅猛龙训粉",
       "onboard_time": 1758546083,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 509386,
+      "num": 509386,
+      "word": "杨幂做卷腹好轻松",
+      "onboard_time": 1758605002,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 494247,
@@ -299,14 +347,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 386839,
-      "num": 386839,
-      "word": "任嘉伦剃了寸头",
-      "onboard_time": 1758604883,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 381304,
       "num": 381304,
       "word": "深圳台风",
@@ -387,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305471,
-      "num": 305471,
-      "word": "罗永浩晒370元7个现炒热菜",
-      "onboard_time": 1758604822,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 291770,
+      "num": 359059,
+      "word": "广东发布紧急动员令",
+      "onboard_time": 1758608361,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291418,
@@ -425,6 +465,14 @@
       "onboard_time": 1758583699,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281237,
+      "num": 281237,
+      "word": "蔡国强曾说不喜欢烟花喜欢的是爆炸",
+      "onboard_time": 1758607402,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274184,
@@ -507,19 +555,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222765,
+      "num": 536360,
+      "word": "广东多地通告五停",
+      "onboard_time": 1758602722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218641,
       "num": 235040,
       "word": "台风桦加沙最新消息汇总",
       "onboard_time": 1758558559,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218539,
-      "num": 536360,
-      "word": "广东多地通告五停",
-      "onboard_time": 1758602722,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -603,6 +651,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 196738,
+      "num": 282263,
+      "word": "马伊琍提议改我的前半生结局",
+      "onboard_time": 1758606801,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195228,
       "num": 195228,
       "word": "广州23日停课",
@@ -683,20 +739,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 171041,
-      "num": 171041,
-      "word": "杨幂做卷腹好轻松",
-      "onboard_time": 1758605002,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169387,
       "num": 169387,
       "word": "内娱又有新恋综开播了",
       "onboard_time": 1758605721,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168344,
+      "num": 168344,
+      "word": "台风将至深圳为何依旧晴朗",
+      "onboard_time": 1758609022,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168161,
@@ -729,6 +785,14 @@
       "onboard_time": 1758600442,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163436,
+      "num": 163436,
+      "word": "田曦薇童年照",
+      "onboard_time": 1758608123,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 162955,
@@ -816,6 +880,14 @@
       "word": "13岁身高177男孩睡觉前必走流程",
       "onboard_time": 1758547583,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155679,
+      "num": 155679,
+      "word": "大二学生连续上3周夜班后猝死",
+      "onboard_time": 1758607341,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -923,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141786,
+      "num": 141786,
+      "word": "大爷花1000多买卡宴转账后被拉黑",
+      "onboard_time": 1758607341,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141018,
       "num": 141018,
       "word": "蕾哈娜官宣生女",
@@ -971,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130457,
+      "num": 130457,
+      "word": "中国航母3连弹给美国弹破防了",
+      "onboard_time": 1758608482,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130269,
       "num": 130269,
       "word": "当老板女儿来公司面试",
@@ -1001,6 +1089,14 @@
       "onboard_time": 1758583579,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125459,
+      "num": 125459,
+      "word": "广州地铁回应台风天地铁停运问题",
+      "onboard_time": 1758608662,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125122,
@@ -1115,12 +1211,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113027,
+      "num": 113027,
+      "word": "确实型人格",
+      "onboard_time": 1758606741,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112940,
+      "num": 112940,
+      "word": "崔丽丽案隔壁房客录音成关键证据",
+      "onboard_time": 1758607341,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111136,
       "num": 111136,
       "word": "10月1号将出现的六批人",
       "onboard_time": 1758531024,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111029,
+      "num": 111029,
+      "word": "以色列正在遭到反噬",
+      "onboard_time": 1758606801,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110623,
@@ -1145,6 +1265,22 @@
       "onboard_time": 1758586822,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106112,
+      "num": 106112,
+      "word": "台风天拯救流浪猫",
+      "onboard_time": 1758609323,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105948,
+      "num": 105948,
+      "word": "星穹铁道长夜月",
+      "onboard_time": 1758608422,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 105712,
@@ -1555,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50926,
+      "num": 283388,
+      "word": "Burberry秀汤唯",
+      "onboard_time": 1758606022,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 50816,
       "num": 60301,
       "word": "深圳各大超市正加紧备货",
@@ -1595,6 +1739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40011,
+      "num": 113558,
+      "word": "比伯环抱海莉照",
+      "onboard_time": 1758608541,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36834,
       "num": 1225059,
       "word": "社交账号不受控制是木马病毒在作祟",
@@ -1624,6 +1776,22 @@
       "word": "今年来全球风王桦加沙将直扑广东",
       "onboard_time": 1758601884,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34704,
+      "num": 114424,
+      "word": "17级台风风速每小时250公里",
+      "onboard_time": 1758608901,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33940,
+      "num": 113348,
+      "word": "曝蔡国强团队曾被日法拒绝",
+      "onboard_time": 1758607822,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1665,6 +1833,14 @@
       "onboard_time": 1758561918,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28402,
+      "num": 282533,
+      "word": "华为ADS4尚界H5抢先体验",
+      "onboard_time": 1758607582,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 25278,
@@ -1731,12 +1907,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7514,
-      "num": 168739,
-      "word": "Burberry秀汤唯",
-      "onboard_time": 1758606022,
-      "rank": 37,
-      "category": "艺人,时尚"
+      "raw_hot": 10741,
+      "num": 150179,
+      "word": "家属讲述河南女子醉驾致3死经过",
+      "onboard_time": 1758609140,
+      "rank": 29,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
