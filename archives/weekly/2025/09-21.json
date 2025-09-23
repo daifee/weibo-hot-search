@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758612329966,
+  "endTime": 1758613170780,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908697,
+      "num": 365334,
+      "word": "好友曝何猷启恋情",
+      "onboard_time": 1758609922,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 904152,
       "num": 1144664,
       "word": "蔡国强感谢大家支持他大闹天宫",
@@ -553,6 +561,14 @@
       "onboard_time": 1758525081,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 860223,
+      "num": 563806,
+      "word": "乔欣变美了",
+      "onboard_time": 1758611841,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 854516,
@@ -891,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 651902,
-      "num": 365334,
-      "word": "好友曝何猷启恋情",
-      "onboard_time": 1758609922,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 650712,
       "num": 650712,
       "word": "始祖鸟欠喜马拉雅山一声道歉",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1758519202,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566513,
+      "num": 566513,
+      "word": "决赛圈就剩广州了",
+      "onboard_time": 1758612023,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 564820,
@@ -2147,14 +2163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261052,
-      "num": 261052,
-      "word": "乔欣变美了",
-      "onboard_time": 1758611841,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260945,
       "num": 408501,
       "word": "小学乘法因顺序不同被判错引争议",
@@ -2307,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 243607,
+      "num": 243607,
+      "word": "广州 唔停",
+      "onboard_time": 1758612622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243436,
       "num": 243436,
       "word": "马思纯是裹了一条围巾吗",
@@ -2419,20 +2435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229881,
+      "num": 229881,
+      "word": "台风将至深圳为何依旧晴朗",
+      "onboard_time": 1758609022,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "人上班真的不能太勤快",
       "onboard_time": 1758413661,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226398,
-      "num": 226398,
-      "word": "台风将至深圳为何依旧晴朗",
-      "onboard_time": 1758609022,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226129,
@@ -3027,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194970,
+      "num": 235636,
+      "word": "李一桐被磕掉了一颗牙",
+      "onboard_time": 1758612682,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194868,
       "num": 194868,
       "word": "穆祉丞直播",
@@ -3059,16 +3083,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193669,
-      "num": 193669,
-      "word": "决赛圈就剩广州了",
-      "onboard_time": 1758612023,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193664,
-      "num": 193664,
+      "num": 218093,
       "word": "以色列正在遭到反噬",
       "onboard_time": 1758606801,
       "rank": 45,
@@ -3403,6 +3419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181847,
+      "num": 181847,
+      "word": "才知道你们东北人吃这么好啊",
+      "onboard_time": 1758611961,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181365,
       "num": 181365,
       "word": "雷军回应演讲推迟原因",
@@ -3572,7 +3596,7 @@
     },
     {
       "raw_hot": 176459,
-      "num": 176459,
+      "num": 200292,
       "word": "全新问界M7动态评测首发",
       "onboard_time": 1758611240,
       "rank": 26,
@@ -3809,14 +3833,6 @@
       "onboard_time": 1758605123,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166927,
-      "num": 166927,
-      "word": "才知道你们东北人吃这么好啊",
-      "onboard_time": 1758611961,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 166914,
@@ -4131,6 +4147,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 159056,
+      "num": 159056,
+      "word": "杨洋 剪彩的正确打开方式",
+      "onboard_time": 1758612260,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158941,
       "num": 231447,
       "word": "大爷卖水卖到周杰伦演唱会现场",
@@ -4339,6 +4363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153554,
+      "num": 207846,
+      "word": "张柏芝二儿子15岁近照",
+      "onboard_time": 1758611180,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153350,
       "num": 178017,
       "word": "吴磊嫩回18岁黎簇时期",
@@ -4539,6 +4571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147862,
+      "num": 147862,
+      "word": "iPhone升级iOS26后无法再降级",
+      "onboard_time": 1758612082,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147755,
       "num": 147755,
       "word": "月薪3万vs月薪3千",
@@ -4633,6 +4673,22 @@
       "onboard_time": 1758432982,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144919,
+      "num": 144919,
+      "word": "东莞发布台风红色预警",
+      "onboard_time": 1758611120,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144411,
+      "num": 144411,
+      "word": "雷佳音戴了时代少年团二专手链",
+      "onboard_time": 1758611903,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 144378,
@@ -4739,6 +4795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142388,
+      "num": 142388,
+      "word": "金饰克价涨到1105元",
+      "onboard_time": 1758610401,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142381,
       "num": 142381,
       "word": "张晋苏新皓cha了GO",
@@ -4785,14 +4849,6 @@
       "onboard_time": 1758555860,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140791,
-      "num": 140791,
-      "word": "金饰克价涨到1105元",
-      "onboard_time": 1758610401,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 140785,
@@ -4843,6 +4899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140435,
+      "num": 173507,
+      "word": "比伯环抱海莉照",
+      "onboard_time": 1758608541,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140433,
       "num": 148358,
       "word": "以色列硬刚巴勒斯坦国承认潮",
@@ -4889,6 +4953,14 @@
       "onboard_time": 1758450680,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139016,
+      "num": 139016,
+      "word": "李乃文以后得了老年痴呆都没人能发现",
+      "onboard_time": 1758612982,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 138919,
@@ -5035,14 +5107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135287,
-      "num": 135287,
-      "word": "东莞发布台风红色预警",
-      "onboard_time": 1758611120,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135209,
       "num": 135209,
       "word": "徐明浩这段dancebreak",
@@ -5115,14 +5179,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 133709,
-      "num": 173507,
-      "word": "比伯环抱海莉照",
-      "onboard_time": 1758608541,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133693,
       "num": 184319,
       "word": "特朗普回应与马斯克闹掰后握手",
@@ -5160,6 +5216,14 @@
       "word": "汤唯张婧仪贴贴",
       "onboard_time": 1758595702,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132444,
+      "num": 132444,
+      "word": "刘耀文看似叫兄弟实则把粉丝当公主",
+      "onboard_time": 1758610341,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -5387,14 +5451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128381,
-      "num": 128381,
-      "word": "张柏芝二儿子15岁近照",
-      "onboard_time": 1758611180,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128363,
       "num": 128363,
       "word": "始祖鸟上千元鞋1个月不到就坏了",
@@ -5475,28 +5531,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 126872,
-      "num": 126872,
-      "word": "iPhone升级iOS26后无法再降级",
-      "onboard_time": 1758612082,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 126848,
       "num": 126848,
       "word": "金球奖",
       "onboard_time": 1758583579,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126735,
-      "num": 125359,
-      "word": "雷佳音戴了时代少年团二专手链",
-      "onboard_time": 1758611903,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 126533,
@@ -5633,14 +5673,6 @@
       "onboard_time": 1758453202,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124015,
-      "num": 124015,
-      "word": "刘耀文看似叫兄弟实则把粉丝当公主",
-      "onboard_time": 1758610341,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 123796,
@@ -6364,7 +6396,7 @@
     },
     {
       "raw_hot": 109969,
-      "num": 173187,
+      "num": 190324,
       "word": "布达拉宫见证冠军风采",
       "onboard_time": 1758611240,
       "rank": 29,
@@ -6955,6 +6987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92516,
+      "num": 150731,
+      "word": "新加坡多地现紫色闪电球",
+      "onboard_time": 1758612441,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92430,
       "num": 92430,
       "word": "烟花事件日喀则已成立调查组",
@@ -7395,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77271,
+      "num": 269560,
+      "word": "麻辣王子如何一年生产100亿根辣条",
+      "onboard_time": 1758611240,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 77268,
       "num": 77268,
       "word": "日喀则通报烟花事件",
@@ -7627,14 +7675,6 @@
       "category": "旅游,汽车"
     },
     {
-      "raw_hot": 65307,
-      "num": 269560,
-      "word": "麻辣王子如何一年生产100亿根辣条",
-      "onboard_time": 1758611240,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 65250,
       "num": 135581,
       "word": "檀健次梗好全",
@@ -7811,6 +7851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58171,
+      "num": 354164,
+      "word": "被性侵女高管的700天心理重建实录",
+      "onboard_time": 1758611180,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57202,
       "num": 137596,
       "word": "母亲在直播间花4万女儿发声",
@@ -7849,6 +7897,14 @@
       "onboard_time": 1758533362,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55142,
+      "num": 148722,
+      "word": "张继科回应最快大满贯",
+      "onboard_time": 1758612381,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 55132,
@@ -8025,14 +8081,6 @@
       "onboard_time": 1758461782,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 47742,
-      "num": 127366,
-      "word": "杨洋 剪彩的正确打开方式",
-      "onboard_time": 1758612260,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 47674,
@@ -8848,6 +8896,14 @@
       "word": "烟花争议两大疑点",
       "onboard_time": 1758410299,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9778,
+      "num": 187566,
+      "word": "游客酒店喝不明液体送检含洗涤剂",
+      "onboard_time": 1758612682,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758613170780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1965286,
+        "num": 1965286,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1014275,
+        "num": 1014275,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25044,
+        "num": 811817,
+        "word": "社交账号不受控制是木马病毒在作祟",
+        "onboard_time": 1758593001,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612652,
+        "num": 612652,
+        "word": "马伊琍提议改我的前半生结局",
+        "onboard_time": 1758606801,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 566513,
+        "num": 566513,
+        "word": "决赛圈就剩广州了",
+        "onboard_time": 1758612023,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860223,
+        "num": 563806,
+        "word": "乔欣变美了",
+        "onboard_time": 1758611841,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556004,
+        "num": 556004,
+        "word": "广东发布紧急动员令",
+        "onboard_time": 1758608361,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502930,
+        "num": 502930,
+        "word": "中传回应贺峻霖进入保研复试名单",
+        "onboard_time": 1758606081,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357764,
+        "num": 357764,
+        "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+        "onboard_time": 1758594261,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58171,
+        "num": 354164,
+        "word": "被性侵女高管的700天心理重建实录",
+        "onboard_time": 1758611180,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1067695,
+        "num": 345753,
+        "word": "崔丽丽说被性侵后会陷入强奸迷思",
+        "onboard_time": 1758607402,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908697,
+        "num": 342824,
+        "word": "好友曝何猷启恋情",
+        "onboard_time": 1758609922,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359428,
+        "num": 339118,
+        "word": "杨幂做卷腹好轻松",
+        "onboard_time": 1758605002,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333260,
+        "num": 333260,
+        "word": "国庆中秋解释一下7加3等于8",
+        "onboard_time": 1758597321,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307888,
+        "num": 307888,
+        "word": "罗永浩晒370元7个现炒热菜",
+        "onboard_time": 1758604822,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279304,
+        "num": 279304,
+        "word": "崔丽丽夫妇维权近2年基本停工",
+        "onboard_time": 1758611180,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262224,
+        "num": 262224,
+        "word": "女生撞死3人家属还威胁死者母亲",
+        "onboard_time": 1758600142,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77271,
+        "num": 251226,
+        "word": "麻辣王子如何一年生产100亿根辣条",
+        "onboard_time": 1758611240,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243607,
+        "num": 243607,
+        "word": "广州 唔停",
+        "onboard_time": 1758612622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194970,
+        "num": 235636,
+        "word": "李一桐被磕掉了一颗牙",
+        "onboard_time": 1758612682,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229894,
+        "num": 229894,
+        "word": "广州人台风天都不买的菜",
+        "onboard_time": 1758600382,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229881,
+        "num": 229881,
+        "word": "台风将至深圳为何依旧晴朗",
+        "onboard_time": 1758609022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228767,
+        "num": 228767,
+        "word": "任嘉伦剃了寸头",
+        "onboard_time": 1758604883,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227337,
+        "num": 227337,
+        "word": "老人称发现亡妻存折起诉银行索要60万",
+        "onboard_time": 1758600980,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169189,
+        "num": 226082,
+        "word": "可云扮演者辟谣嫌老公丑不生孩子",
+        "onboard_time": 1758594441,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154918,
+        "num": 218093,
+        "word": "以色列正在遭到反噬",
+        "onboard_time": 1758606801,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153554,
+        "num": 207846,
+        "word": "张柏芝二儿子15岁近照",
+        "onboard_time": 1758611180,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141987,
+        "num": 200292,
+        "word": "全新问界M7动态评测首发",
+        "onboard_time": 1758611240,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90970,
+        "num": 190324,
+        "word": "布达拉宫见证冠军风采",
+        "onboard_time": 1758611240,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9778,
+        "num": 187566,
+        "word": "游客酒店喝不明液体送检含洗涤剂",
+        "onboard_time": 1758612682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181847,
+        "num": 181847,
+        "word": "才知道你们东北人吃这么好啊",
+        "onboard_time": 1758611961,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152680,
+        "num": 176216,
+        "word": "给祝绪丹梳背头的人是天才",
+        "onboard_time": 1758599122,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172583,
+        "num": 172583,
+        "word": "一有大台风就想起林峯家的阿姨",
+        "onboard_time": 1758603923,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32660,
+        "num": 160225,
+        "word": "孙艺洲说于适给的衣服懂事",
+        "onboard_time": 1758609441,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159056,
+        "num": 159056,
+        "word": "杨洋 剪彩的正确打开方式",
+        "onboard_time": 1758612260,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171129,
+        "num": 157394,
+        "word": "学生偷快递被公示",
+        "onboard_time": 1758611002,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155635,
+        "num": 155635,
+        "word": "深圳不语只是一味提前砍树",
+        "onboard_time": 1758611421,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92516,
+        "num": 150731,
+        "word": "新加坡多地现紫色闪电球",
+        "onboard_time": 1758612441,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55142,
+        "num": 148722,
+        "word": "张继科回应最快大满贯",
+        "onboard_time": 1758612381,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147862,
+        "num": 147862,
+        "word": "iPhone升级iOS26后无法再降级",
+        "onboard_time": 1758612082,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146118,
+        "num": 146118,
+        "word": "大爷花1000多买卡宴转账后被拉黑",
+        "onboard_time": 1758607341,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144919,
+        "num": 144919,
+        "word": "东莞发布台风红色预警",
+        "onboard_time": 1758611120,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144411,
+        "num": 144411,
+        "word": "雷佳音戴了时代少年团二专手链",
+        "onboard_time": 1758611903,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143241,
+        "num": 143241,
+        "word": "大二学生连续上3周夜班后猝死",
+        "onboard_time": 1758607341,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142388,
+        "num": 142388,
+        "word": "金饰克价涨到1105元",
+        "onboard_time": 1758610401,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140435,
+        "num": 140435,
+        "word": "比伯环抱海莉照",
+        "onboard_time": 1758608541,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139016,
+        "num": 139016,
+        "word": "李乃文以后得了老年痴呆都没人能发现",
+        "onboard_time": 1758612982,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132444,
+        "num": 132444,
+        "word": "刘耀文看似叫兄弟实则把粉丝当公主",
+        "onboard_time": 1758610341,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131041,
+        "num": 131041,
+        "word": "中国航母3连弹给美国弹破防了",
+        "onboard_time": 1758608482,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127931,
+        "num": 127931,
+        "word": "外协教练盛赞王楚钦",
+        "onboard_time": 1758611903,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的饭碗一定要端在自己的手里#"
+    }
+  }
+}
