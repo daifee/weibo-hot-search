@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758597141510,
+  "endTime": 1758598688738,
   "band_list": [
     {
       "raw_hot": 11125410,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2189298,
-      "num": 1071480,
+      "num": 1150585,
       "word": "男子嫖娼前猝死家属索赔卖淫女131万",
       "onboard_time": 1758594261,
       "rank": 3,
@@ -24,6 +24,14 @@
       "word": "桦加沙登陆地点确认",
       "onboard_time": 1758588982,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1900783,
+      "num": 1900783,
+      "word": "桦加沙",
+      "onboard_time": 1758596303,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1758579255,
       "rank": 18,
       "category": "民生新闻,国际时政"
-    },
-    {
-      "raw_hot": 1049947,
-      "num": 1049947,
-      "word": "桦加沙",
-      "onboard_time": 1758596303,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1049343,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 595593,
-      "num": 156902,
+      "num": 170880,
       "word": "臭宝品牌方回应吃出脚趾甲和烟头",
       "onboard_time": 1758554781,
       "rank": 30,
@@ -267,12 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308773,
+      "num": 308773,
+      "word": "陈数 社交为零但是足够幸运",
+      "onboard_time": 1758596122,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307695,
       "num": 474003,
       "word": "广州升级台风黄色预警",
       "onboard_time": 1758550943,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290989,
+      "num": 290989,
+      "word": "国庆中秋解释一下7加3等于8",
+      "onboard_time": 1758597321,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 284217,
@@ -299,20 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272389,
-      "num": 272389,
-      "word": "陈数 社交为零但是足够幸运",
-      "onboard_time": 1758596122,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256741,
       "num": 256741,
       "word": "白鹿 接下来的行程挺满的",
       "onboard_time": 1758584780,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253937,
+      "num": 253937,
+      "word": "被性侵女高管和丈夫大学异地恋四年",
+      "onboard_time": 1758597862,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252426,
@@ -339,6 +355,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 224625,
+      "num": 224625,
+      "word": "深圳地铁",
+      "onboard_time": 1758539722,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222502,
+      "num": 268956,
+      "word": "小米17ProMax屏幕",
+      "onboard_time": 1758596784,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 218641,
       "num": 235040,
       "word": "台风桦加沙最新消息汇总",
@@ -355,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214846,
+      "num": 253833,
+      "word": "邓为记错云秀行宣发时间",
+      "onboard_time": 1758596903,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213399,
       "num": 213399,
       "word": "向往8堪比白月光回国",
@@ -364,7 +404,7 @@
     },
     {
       "raw_hot": 211711,
-      "num": 211711,
+      "num": 220244,
       "word": "孟子义李昀锐指尖捂嘴路透",
       "onboard_time": 1758595942,
       "rank": 22,
@@ -515,6 +555,22 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 149231,
+      "num": 221694,
+      "word": "赵樱子连麦男粉被感动到红了眼眶",
+      "onboard_time": 1758598224,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148788,
+      "num": 148788,
+      "word": "开车后最怕的事情还是出现了",
+      "onboard_time": 1758595522,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146861,
       "num": 153775,
       "word": "秦雯吐槽靳东陈道明",
@@ -555,20 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140546,
-      "num": 140546,
-      "word": "邓为记错云秀行宣发时间",
-      "onboard_time": 1758596903,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140424,
       "num": 140424,
       "word": "关晓彤出发米兰时装周了",
       "onboard_time": 1758594981,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 134155,
+      "num": 134155,
+      "word": "明朝对朝鲜有再造之恩",
+      "onboard_time": 1758597742,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133175,
@@ -584,14 +640,6 @@
       "word": "当老板女儿来公司面试",
       "onboard_time": 1758587783,
       "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 129137,
-      "num": 129137,
-      "word": "开车后最怕的事情还是出现了",
-      "onboard_time": 1758595522,
-      "rank": 40,
       "category": "幽默"
     },
     {
@@ -619,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123393,
+      "num": 251592,
+      "word": "崔丽丽称做梦总找被性侵时弄丢的鞋",
+      "onboard_time": 1758598402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123233,
       "num": 123233,
       "word": "微醺的丞磊",
@@ -640,6 +696,14 @@
       "word": "贺峻霖中传国重预报名复试合格",
       "onboard_time": 1758565636,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120963,
+      "num": 117198,
+      "word": "乔杉妻子莫丹官宣三胎得子",
+      "onboard_time": 1758598522,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -668,7 +732,7 @@
     },
     {
       "raw_hot": 119764,
-      "num": 168246,
+      "num": 1287647,
       "word": "秋与丰收撞个满怀",
       "onboard_time": 1758588802,
       "rank": 22,
@@ -681,6 +745,14 @@
       "onboard_time": 1758587842,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118221,
+      "num": 118221,
+      "word": "张晚意黑的噘嘴都看不清了",
+      "onboard_time": 1758598224,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 116995,
@@ -699,12 +771,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113252,
+      "num": 113252,
+      "word": "王楚钦9425分继续领跑世界第一",
+      "onboard_time": 1758597321,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111136,
       "num": 111136,
       "word": "10月1号将出现的六批人",
       "onboard_time": 1758531024,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110623,
+      "num": 113277,
+      "word": "呼吸道合胞病毒感染尚无特效药",
+      "onboard_time": 1758594441,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108393,
@@ -723,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106405,
-      "num": 106405,
-      "word": "呼吸道合胞病毒感染尚无特效药",
-      "onboard_time": 1758594441,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 105061,
+      "num": 105061,
+      "word": "英伟达总市值逼近4.5万亿美元",
+      "onboard_time": 1758598160,
+      "rank": 45,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 103990,
@@ -753,6 +841,14 @@
       "onboard_time": 1758583699,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102232,
+      "num": 102232,
+      "word": "印媒关注中国K签证",
+      "onboard_time": 1758598103,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101326,
@@ -940,7 +1036,7 @@
     },
     {
       "raw_hot": 83747,
-      "num": 165050,
+      "num": 307743,
       "word": "文化中国行秋分节气",
       "onboard_time": 1758583219,
       "rank": 37,
@@ -963,28 +1059,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 81932,
-      "num": 268956,
-      "word": "小米17ProMax屏幕",
-      "onboard_time": 1758596784,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 81082,
-      "num": 81082,
-      "word": "深圳地铁",
-      "onboard_time": 1758539722,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76572,
       "num": 81041,
       "word": "恋综最尴尬的一幕出现了",
       "onboard_time": 1758538041,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74221,
+      "num": 128290,
+      "word": "遭老板性侵认定工伤当事人发声",
+      "onboard_time": 1758598402,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72853,
@@ -1043,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62814,
+      "num": 125598,
+      "word": "BOSS直聘重拳整治涉黄招聘",
+      "onboard_time": 1758596482,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 60404,
       "num": 60404,
       "word": "哈马斯提议加沙停火60天",
@@ -1057,14 +1153,6 @@
       "onboard_time": 1758572713,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54402,
-      "num": 125598,
-      "word": "BOSS直聘重拳整治涉黄招聘",
-      "onboard_time": 1758596482,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 52707,
@@ -1174,6 +1262,9 @@
   "hotgov_list": [
     {
       "word": "#三农工作在习近平心里分量满满#"
+    },
+    {
+      "word": "#中国的饭碗一定要端在自己的手里#"
     }
   ]
 }

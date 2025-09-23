@@ -1,0 +1,410 @@
+{
+  "runTime": 1758598688738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10838104,
+        "num": 10838104,
+        "word": "崔丽丽穿被性侵时衣服出庭",
+        "onboard_time": 1758593480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1900783,
+        "num": 1900783,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38870,
+        "num": 1287647,
+        "word": "秋与丰收撞个满怀",
+        "onboard_time": 1758588802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1929764,
+        "num": 1150585,
+        "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+        "onboard_time": 1758594261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908002,
+        "num": 908002,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 750148,
+        "num": 750148,
+        "word": "可云扮演者辟谣嫌老公丑不生孩子",
+        "onboard_time": 1758594441,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557538,
+        "num": 557538,
+        "word": "深圳今天14时起停工停业停市",
+        "onboard_time": 1758595522,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406245,
+        "num": 406245,
+        "word": "陈乔恩被求婚那天喝大了",
+        "onboard_time": 1758593961,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401139,
+        "num": 401139,
+        "word": "深圳五停",
+        "onboard_time": 1758592461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327443,
+        "num": 327443,
+        "word": "银价飙涨",
+        "onboard_time": 1758592161,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 308773,
+        "num": 308773,
+        "word": "陈数 社交为零但是足够幸运",
+        "onboard_time": 1758596122,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24771,
+        "num": 307743,
+        "word": "文化中国行秋分节气",
+        "onboard_time": 1758583219,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306808,
+        "num": 306808,
+        "word": "白鹿小声说累死了",
+        "onboard_time": 1758588982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290989,
+        "num": 290989,
+        "word": "国庆中秋解释一下7加3等于8",
+        "onboard_time": 1758597321,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267546,
+        "num": 267546,
+        "word": "广州台风",
+        "onboard_time": 1758592401,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253937,
+        "num": 253937,
+        "word": "被性侵女高管和丈夫大学异地恋四年",
+        "onboard_time": 1758597862,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214846,
+        "num": 253833,
+        "word": "邓为记错云秀行宣发时间",
+        "onboard_time": 1758596903,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163228,
+        "num": 252627,
+        "word": "宋亚轩晒自己拍的刘耀文",
+        "onboard_time": 1758583699,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66890,
+        "num": 252261,
+        "word": "永远可以相信爸妈的眼光",
+        "onboard_time": 1758596784,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123393,
+        "num": 251592,
+        "word": "崔丽丽称做梦总找被性侵时弄丢的鞋",
+        "onboard_time": 1758598402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246359,
+        "num": 250876,
+        "word": "现场人员称蔡国强烟花燃放了4次",
+        "onboard_time": 1758589223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222502,
+        "num": 250399,
+        "word": "小米17ProMax屏幕",
+        "onboard_time": 1758596784,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249986,
+        "num": 249986,
+        "word": "超强台风桦加沙要来了",
+        "onboard_time": 1758579255,
+        "rank": 22,
+        "category": "民生新闻,国际时政"
+      },
+      {
+        "raw_hot": 231121,
+        "num": 231121,
+        "word": "广州升级台风黄色预警",
+        "onboard_time": 1758550943,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227971,
+        "num": 227971,
+        "word": "A股",
+        "onboard_time": 1758594740,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224625,
+        "num": 224625,
+        "word": "深圳地铁",
+        "onboard_time": 1758598341,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149231,
+        "num": 221694,
+        "word": "赵樱子连麦男粉被感动到红了眼眶",
+        "onboard_time": 1758598224,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145910,
+        "num": 220244,
+        "word": "孟子义李昀锐指尖捂嘴路透",
+        "onboard_time": 1758595942,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133210,
+        "num": 212889,
+        "word": "灼灼韶华打破生万物央八年冠纪录",
+        "onboard_time": 1758584720,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316620,
+        "num": 207857,
+        "word": "遇袭医生已做完手术送至ICU",
+        "onboard_time": 1758594562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207729,
+        "num": 207729,
+        "word": "台风",
+        "onboard_time": 1758522681,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170880,
+        "num": 170880,
+        "word": "臭宝品牌方回应吃出脚趾甲和烟头",
+        "onboard_time": 1758554781,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148788,
+        "num": 148788,
+        "word": "开车后最怕的事情还是出现了",
+        "onboard_time": 1758595522,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143390,
+        "num": 143390,
+        "word": "支付宝首页怎么了",
+        "onboard_time": 1758593301,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134155,
+        "num": 134155,
+        "word": "明朝对朝鲜有再造之恩",
+        "onboard_time": 1758597742,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74221,
+        "num": 128290,
+        "word": "遭老板性侵认定工伤当事人发声",
+        "onboard_time": 1758598402,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127309,
+        "num": 127309,
+        "word": "关晓彤出发米兰时装周了",
+        "onboard_time": 1758594981,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118221,
+        "num": 118221,
+        "word": "张晚意黑的噘嘴都看不清了",
+        "onboard_time": 1758598224,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120963,
+        "num": 117198,
+        "word": "乔杉妻子莫丹官宣三胎得子",
+        "onboard_time": 1758598522,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62814,
+        "num": 116019,
+        "word": "BOSS直聘重拳整治涉黄招聘",
+        "onboard_time": 1758596482,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115791,
+        "num": 115791,
+        "word": "宋亚轩回应刘耀文无比勇敢帅气的文哥",
+        "onboard_time": 1758594261,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110623,
+        "num": 113277,
+        "word": "呼吸道合胞病毒感染尚无特效药",
+        "onboard_time": 1758594441,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113252,
+        "num": 113252,
+        "word": "王楚钦9425分继续领跑世界第一",
+        "onboard_time": 1758597321,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111712,
+        "num": 111712,
+        "word": "肖战上场前上场后反差感",
+        "onboard_time": 1758590541,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105633,
+        "num": 105633,
+        "word": "酒店因提供监控被性侵施害者威胁",
+        "onboard_time": 1758557842,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105061,
+        "num": 105061,
+        "word": "英伟达总市值逼近4.5万亿美元",
+        "onboard_time": 1758598160,
+        "rank": 45,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 102232,
+        "num": 102232,
+        "word": "印媒关注中国K签证",
+        "onboard_time": 1758598103,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101822,
+        "num": 101822,
+        "word": "男生错把自选餐看成自助餐",
+        "onboard_time": 1758584661,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99768,
+        "num": 99768,
+        "word": "现场还能看到烟花秀的痕迹",
+        "onboard_time": 1758593600,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40437,
+        "num": 97616,
+        "word": "福建舰弹射3连",
+        "onboard_time": 1758536781,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的饭碗一定要端在自己的手里#"
+    }
+  }
+}
