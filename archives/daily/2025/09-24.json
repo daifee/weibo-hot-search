@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758655258545,
+  "endTime": 1758656208689,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -459,19 +459,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34274,
+      "num": 34274,
+      "word": "珠海发布台风红色预警",
+      "onboard_time": 1758653954,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30400,
+      "num": 30400,
+      "word": "崔丽丽称老板刚被判刑她就被开除",
+      "onboard_time": 1758652635,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28313,
       "num": 232577,
       "word": "珠海部分高层住户被通知撤离",
       "onboard_time": 1758636324,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28055,
-      "num": 28055,
-      "word": "崔丽丽称老板刚被判刑她就被开除",
-      "onboard_time": 1758652635,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -489,14 +497,6 @@
       "onboard_time": 1758634463,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21123,
-      "num": 33209,
-      "word": "珠海发布台风红色预警",
-      "onboard_time": 1758653954,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12988,
