@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758638620774,
+  "endTime": 1758641195108,
   "band_list": [
     {
       "raw_hot": 11916363,
@@ -59,20 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1783306,
+      "num": 1783306,
+      "word": "桦加沙深圳",
+      "onboard_time": 1758636564,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1622480,
+      "num": 598997,
+      "word": "王晓晨 俞灏明",
+      "onboard_time": 1758634885,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1534828,
       "num": 1534828,
       "word": "女生撞死3人家属还威胁死者母亲",
       "onboard_time": 1758600142,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1288995,
-      "num": 598997,
-      "word": "王晓晨 俞灏明",
-      "onboard_time": 1758634885,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 1237252,
@@ -259,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 780836,
-      "num": 780836,
-      "word": "桦加沙深圳",
-      "onboard_time": 1758636564,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 730222,
       "num": 730222,
       "word": "男生错把自选餐看成自助餐",
@@ -289,6 +289,14 @@
       "onboard_time": 1758600382,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 698708,
+      "num": 362645,
+      "word": "王扁模仿王源走红疑开多号接受打赏",
+      "onboard_time": 1758634164,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 671147,
@@ -387,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568372,
+      "num": 568372,
+      "word": "网红罗几因车祸不幸遇难",
+      "onboard_time": 1758633863,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 566513,
       "num": 566513,
       "word": "决赛圈就剩广州了",
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495703,
+      "num": 495703,
+      "word": "深圳机场飞机五花大绑防台风",
+      "onboard_time": 1758636203,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494247,
       "num": 612397,
       "word": "陈乔恩被求婚那天喝大了",
@@ -457,14 +481,6 @@
       "onboard_time": 1758584720,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 478718,
-      "num": 478718,
-      "word": "网红罗几因车祸不幸遇难",
-      "onboard_time": 1758633863,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 477393,
@@ -603,12 +619,12 @@
       "category": "海外新闻,健康医疗"
     },
     {
-      "raw_hot": 362645,
-      "num": 362645,
-      "word": "王扁模仿王源走红疑开多号接受打赏",
-      "onboard_time": 1758634164,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 363401,
+      "num": 363401,
+      "word": "不二之臣",
+      "onboard_time": 1758636504,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 336408,
@@ -739,6 +755,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 300098,
+      "num": 300098,
+      "word": "李一桐米兰偶遇李现",
+      "onboard_time": 1758637404,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 295642,
       "num": 386025,
       "word": "桦加沙降临前深圳现奇异天象",
@@ -776,14 +800,6 @@
       "word": "深圳地铁",
       "onboard_time": 1758539722,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284774,
-      "num": 284774,
-      "word": "深圳机场飞机五花大绑防台风",
-      "onboard_time": 1758636203,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -835,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267239,
-      "num": 267239,
-      "word": "不二之臣",
-      "onboard_time": 1758636504,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263963,
       "num": 263963,
       "word": "广东或遇人类最大台风灾害系谣言",
@@ -864,6 +872,14 @@
       "word": "汕尾台风",
       "onboard_time": 1758613281,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259433,
+      "num": 259433,
+      "word": "瑞幸苹果拿铁文案 翻车",
+      "onboard_time": 1758629902,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -947,12 +963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234213,
-      "num": 234213,
-      "word": "李一桐米兰偶遇李现",
-      "onboard_time": 1758637404,
-      "rank": 41,
-      "category": "作品衍生,时尚"
+      "raw_hot": 234488,
+      "num": 234488,
+      "word": "台风将至55岁大象无避雨内舍",
+      "onboard_time": 1758641062,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233271,
@@ -1371,14 +1387,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 176250,
-      "num": 176250,
-      "word": "瑞幸苹果拿铁文案 翻车",
-      "onboard_time": 1758629902,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175992,
       "num": 224240,
       "word": "以色列总理称未来一年摧毁伊朗轴心",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1758605721,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168959,
+      "num": 168959,
+      "word": "香港下水道喷出巨大水柱",
+      "onboard_time": 1758637884,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168632,
@@ -1659,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154822,
+      "num": 154822,
+      "word": "00后表达爱的方式",
+      "onboard_time": 1758637583,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154281,
       "num": 154281,
       "word": "蔡国强烟花秀现场感言视频曝光",
@@ -1827,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145488,
+      "num": 145488,
+      "word": "珠海工作人员敲锣通知居民撤离",
+      "onboard_time": 1758637224,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144919,
       "num": 144919,
       "word": "东莞发布台风红色预警",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1758611903,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144248,
+      "num": 161939,
+      "word": "三班班长",
+      "onboard_time": 1758634764,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143623,
@@ -1947,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139065,
+      "num": 139065,
+      "word": "成都女孩在巴厘岛疑因食物中毒离世",
+      "onboard_time": 1758639744,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138919,
       "num": 162591,
       "word": "姚晨为崔丽丽发声",
@@ -2027,12 +2075,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135101,
-      "num": 135101,
-      "word": "00后表达爱的方式",
-      "onboard_time": 1758637583,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 134307,
+      "num": 134307,
+      "word": "桦加沙和山竹谁更强",
+      "onboard_time": 1758638904,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133175,
@@ -2048,6 +2096,14 @@
       "word": "刘耀文看似叫兄弟实则把粉丝当公主",
       "onboard_time": 1758610341,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131815,
+      "num": 133176,
+      "word": "袁咏仪英国陪儿子读大学",
+      "onboard_time": 1758640583,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2113,6 +2169,14 @@
       "onboard_time": 1758620782,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129218,
+      "num": 129218,
+      "word": "Yamy帅成什么样了",
+      "onboard_time": 1758638785,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128884,
@@ -2355,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119157,
+      "num": 119157,
+      "word": "UR活动",
+      "onboard_time": 1758640823,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 118886,
       "num": 215473,
       "word": "iQOO15三星屏首发M14发光材料",
@@ -2384,14 +2456,6 @@
       "word": "崔丽丽成职场被性侵女性倾诉树洞",
       "onboard_time": 1758611720,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117176,
-      "num": 161939,
-      "word": "三班班长",
-      "onboard_time": 1758634764,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2473,6 +2537,14 @@
       "onboard_time": 1758622941,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 114758,
+      "num": 279747,
+      "word": "美国警方为特朗普清路拦下马克龙",
+      "onboard_time": 1758639922,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 114244,
@@ -3228,7 +3300,7 @@
     },
     {
       "raw_hot": 64899,
-      "num": 968627,
+      "num": 1283795,
       "word": "丰收中国",
       "onboard_time": 1758634463,
       "rank": 2,
@@ -3255,6 +3327,22 @@
       "num": 63483,
       "word": "医院回应女子凌晨街头产子赤脚抱儿",
       "onboard_time": 1758552624,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63092,
+      "num": 258132,
+      "word": "中国星全新东方曜限时价9.37万起",
+      "onboard_time": 1758640044,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 62688,
+      "num": 133052,
+      "word": "我国正面临缺驴危机",
+      "onboard_time": 1758641123,
       "rank": 40,
       "category": "民生新闻"
     },
@@ -3401,6 +3489,14 @@
       "onboard_time": 1758623602,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51458,
+      "num": 140880,
+      "word": "美大豆正处丰收季中国订单却为零",
+      "onboard_time": 1758639684,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50983,
@@ -3689,14 +3785,6 @@
       "onboard_time": 1758619941,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25593,
-      "num": 118295,
-      "word": "香港下水道喷出巨大水柱",
-      "onboard_time": 1758637884,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25278,
