@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/24 00:31:44 ~ 2025/09/24 04:41:00
+本榜单时间：2025/09/24 00:31:44 ~ 2025/09/24 05:22:03
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2317%E7%BA%A7%E5%8F%B0%E9%A3%8E%E6%9C%80%E5%A4%A7%E6%8C%81%E7%BB%AD%E9%A3%8E%E9%80%9F%E5%A0%AA%E6%AF%94%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%23" target="weibo">
+17级台风最大持续风速堪比高速列车（热度：155070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%80%9A%E6%8A%A5CT%E6%8A%A5%E5%91%8A%E5%8D%95%E7%8E%B0%E4%B8%8D%E6%96%87%E6%98%8E%E7%94%A8%E8%AF%AD%23" target="weibo">
 医院通报CT报告单现不文明用语（热度：120996）
 </a>
@@ -185,12 +191,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E4%BB%8A%E5%A4%A9%E7%9C%9F%E8%84%B1%E4%B8%8D%E4%BA%86%23" target="weibo">
 刘耀文今天真脱不了（热度：111287）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2317%E7%BA%A7%E5%8F%B0%E9%A3%8E%E6%9C%80%E5%A4%A7%E6%8C%81%E7%BB%AD%E9%A3%8E%E9%80%9F%E5%A0%AA%E6%AF%94%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%23" target="weibo">
-17级台风最大持续风速堪比高速列车（热度：103507）
 </a>
 </li>
 
@@ -370,7 +370,7 @@ Yamy帅成什么样了（热度：67265）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E7%A7%B0%E8%80%81%E6%9D%BF%E5%88%9A%E8%A2%AB%E5%88%A4%E5%88%91%E5%A5%B9%E5%B0%B1%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
-崔丽丽称老板刚被判刑她就被开除（热度：31755）
+崔丽丽称老板刚被判刑她就被开除（热度：36327）
 </a>
 </li>
 
