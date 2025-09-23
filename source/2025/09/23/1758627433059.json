@@ -1,0 +1,410 @@
+{
+  "runTime": 1758627433059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9751149,
+        "num": 9751149,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1096017,
+        "num": 1096017,
+        "word": "香港一家三口被巨浪卷走",
+        "onboard_time": 1758623302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17592,
+        "num": 819832,
+        "word": "致敬耕耘礼赞丰收",
+        "onboard_time": 1758600022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 801353,
+        "num": 801353,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765915,
+        "num": 765915,
+        "word": "盒马回应最难吃甜品被台风选出来了",
+        "onboard_time": 1758625042,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489105,
+        "num": 489105,
+        "word": "范丞丞喝多了",
+        "onboard_time": 1758625643,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438773,
+        "num": 438773,
+        "word": "繁花剧组严正声明",
+        "onboard_time": 1758625221,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389123,
+        "num": 389123,
+        "word": "特朗普称所有孕妇都不该用泰诺止痛",
+        "onboard_time": 1758622402,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388660,
+        "num": 388660,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274939,
+        "num": 374693,
+        "word": "MAMA票价",
+        "onboard_time": 1758623182,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1190677,
+        "num": 370148,
+        "word": "妈妈回应瑶一瑶小肉包颜值状态",
+        "onboard_time": 1758621382,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 521860,
+        "num": 339206,
+        "word": "28岁男子上树被自带绳子缠脖身亡",
+        "onboard_time": 1758621621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47652,
+        "num": 321868,
+        "word": "张婧仪Burberry看秀",
+        "onboard_time": 1758625942,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 321857,
+        "num": 321857,
+        "word": "台风前夕腾讯把企鹅拴住了",
+        "onboard_time": 1758615442,
+        "rank": 13,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 303624,
+        "num": 303624,
+        "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+        "onboard_time": 1758594261,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268705,
+        "num": 268705,
+        "word": "桦加沙路径",
+        "onboard_time": 1758622222,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257266,
+        "num": 257266,
+        "word": "香港台风",
+        "onboard_time": 1758617302,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192829,
+        "num": 254360,
+        "word": "金鸡奖提名名单预测",
+        "onboard_time": 1758613640,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174648,
+        "num": 250801,
+        "word": "繁花",
+        "onboard_time": 1758626602,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72704,
+        "num": 242543,
+        "word": "谁能想到波密的致富密码是pdd",
+        "onboard_time": 1758625821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379730,
+        "num": 236697,
+        "word": "韦雪回应9亿分手费",
+        "onboard_time": 1758620182,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314702,
+        "num": 231885,
+        "word": "李一桐被磕掉了一颗牙",
+        "onboard_time": 1758612682,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230105,
+        "num": 230105,
+        "word": "桦加沙强度",
+        "onboard_time": 1758622160,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203671,
+        "num": 203671,
+        "word": "乔欣变美了",
+        "onboard_time": 1758611841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201186,
+        "num": 201186,
+        "word": "宋轶怎么美成这样了",
+        "onboard_time": 1758616163,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19301,
+        "num": 176121,
+        "word": "敷尔佳给赴尔摩斯的快乐谁懂",
+        "onboard_time": 1758623721,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160045,
+        "num": 160045,
+        "word": "广州地铁",
+        "onboard_time": 1758623001,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158917,
+        "num": 158917,
+        "word": "中国游客腹痛日本医生见死不救",
+        "onboard_time": 1758617782,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150837,
+        "num": 150837,
+        "word": "风月不相关",
+        "onboard_time": 1758627082,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147515,
+        "num": 149435,
+        "word": "檀健次工作室进高人了",
+        "onboard_time": 1758626061,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165450,
+        "num": 149426,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1758626541,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156972,
+        "num": 149367,
+        "word": "性侵崔丽丽老板事发后卸任董事长",
+        "onboard_time": 1758626783,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149188,
+        "num": 149188,
+        "word": "五停 没带大学生",
+        "onboard_time": 1758623061,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148634,
+        "num": 148634,
+        "word": "痴情的火鸡面啊再等一世吧",
+        "onboard_time": 1758622702,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130780,
+        "num": 148368,
+        "word": "王俊凯高干文男主",
+        "onboard_time": 1758623302,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118344,
+        "num": 148113,
+        "word": "新疆维吾尔自治区成立70周年庆祝活动",
+        "onboard_time": 1758627323,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14023,
+        "num": 147873,
+        "word": "这个季节的林海可太绝了",
+        "onboard_time": 1758626963,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54894,
+        "num": 147371,
+        "word": "鸡排哥回应走红",
+        "onboard_time": 1758626901,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52846,
+        "num": 147230,
+        "word": "鸡排哥走红后听劝戴上了口罩",
+        "onboard_time": 1758626963,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53033,
+        "num": 146706,
+        "word": "深圳外卖小哥不语只是一味打工",
+        "onboard_time": 1758626963,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233938,
+        "num": 146443,
+        "word": "时代少年团一起为刘耀文庆生",
+        "onboard_time": 1758624021,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44816,
+        "num": 146122,
+        "word": "深圳开启全市最大应急避难场所",
+        "onboard_time": 1758627323,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145899,
+        "num": 145899,
+        "word": "瘦47斤发现不止身材变了",
+        "onboard_time": 1758623482,
+        "rank": 42,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 142147,
+        "num": 142147,
+        "word": "煮鸡蛋忘了关火后诞生的艺术作品",
+        "onboard_time": 1758616462,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137281,
+        "num": 137281,
+        "word": "华为发布会",
+        "onboard_time": 1758627201,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123621,
+        "num": 123621,
+        "word": "吴邪私家笔记",
+        "onboard_time": 1758627082,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111377,
+        "num": 111377,
+        "word": "杜淳妻子回应长得像鹿晗",
+        "onboard_time": 1758625702,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107626,
+        "num": 107626,
+        "word": "易烊千玺狂野时代开票",
+        "onboard_time": 1758625042,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106365,
+        "num": 106365,
+        "word": "战至巅峰",
+        "onboard_time": 1758626901,
+        "rank": 48,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 103375,
+        "num": 106013,
+        "word": "中国每年吃掉约70亿只白羽肉鸡",
+        "onboard_time": 1758617063,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}

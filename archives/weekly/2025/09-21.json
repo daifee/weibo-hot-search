@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758626463632,
+  "endTime": 1758627433059,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1190677,
+      "num": 370148,
+      "word": "妈妈回应瑶一瑶小肉包颜值状态",
+      "onboard_time": 1758621382,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1184918,
       "num": 499319,
       "word": "始祖鸟国内外价格对比",
@@ -283,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1170717,
-      "num": 326314,
-      "word": "妈妈回应瑶一瑶小肉包颜值状态",
-      "onboard_time": 1758621382,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1162652,
       "num": 466660,
       "word": "小狗赫兹去世",
@@ -313,6 +313,14 @@
       "onboard_time": 1758504442,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1096017,
+      "num": 1096017,
+      "word": "香港一家三口被巨浪卷走",
+      "onboard_time": 1758623302,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1055714,
@@ -739,20 +747,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 765915,
+      "num": 765915,
+      "word": "盒马回应最难吃甜品被台风选出来了",
+      "onboard_time": 1758625042,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 762394,
       "num": 762394,
       "word": "花少5马哥",
       "onboard_time": 1758520581,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 757934,
-      "num": 757934,
-      "word": "香港一家三口被巨浪卷走",
-      "onboard_time": 1758623302,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 755106,
@@ -1419,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489105,
+      "num": 489105,
+      "word": "范丞丞喝多了",
+      "onboard_time": 1758625643,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487991,
       "num": 487991,
       "word": "杜淳妻子说小酒窝是为镜头而生的",
@@ -1547,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438773,
+      "num": 438773,
+      "word": "繁花剧组严正声明",
+      "onboard_time": 1758625221,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434869,
       "num": 434869,
       "word": "香港台风",
@@ -1643,14 +1667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 395921,
-      "num": 395921,
-      "word": "盒马回应最难吃甜品被台风选出来了",
-      "onboard_time": 1758625042,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 395897,
       "num": 395897,
       "word": "专家称当前退休金与工资相比较高",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1758594740,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 389123,
+      "num": 389123,
+      "word": "特朗普称所有孕妇都不该用泰诺止痛",
+      "onboard_time": 1758622402,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 385711,
@@ -1980,7 +2004,7 @@
     },
     {
       "raw_hot": 305785,
-      "num": 331827,
+      "num": 374693,
       "word": "MAMA票价",
       "onboard_time": 1758623182,
       "rank": 47,
@@ -2193,14 +2217,6 @@
       "onboard_time": 1758498020,
       "rank": 14,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 269175,
-      "num": 269175,
-      "word": "特朗普称所有孕妇都不该用泰诺止痛",
-      "onboard_time": 1758622402,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 268250,
@@ -2451,14 +2467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248311,
-      "num": 305272,
-      "word": "繁花剧组严正声明",
-      "onboard_time": 1758625221,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247516,
       "num": 247516,
       "word": "赵今麦 大麦",
@@ -2579,14 +2587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237391,
-      "num": 303070,
-      "word": "范丞丞喝多了",
-      "onboard_time": 1758625643,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237138,
       "num": 237138,
       "word": "第一批拿到苹果17的真实感受",
@@ -2632,6 +2632,14 @@
       "word": "桦加沙到哪了",
       "onboard_time": 1758549083,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230105,
+      "num": 230105,
+      "word": "桦加沙强度",
+      "onboard_time": 1758622160,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3256,14 +3264,6 @@
       "word": "是谁给始祖鸟炸山秀大开绿灯",
       "onboard_time": 1758428122,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195520,
-      "num": 195520,
-      "word": "桦加沙强度",
-      "onboard_time": 1758622160,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3915,6 +3915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174648,
+      "num": 250801,
+      "word": "繁花",
+      "onboard_time": 1758626602,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174448,
       "num": 174448,
       "word": "XYG流星",
@@ -4155,6 +4163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165450,
+      "num": 149426,
+      "word": "布洛芬 能给卑职一个明示吗",
+      "onboard_time": 1758626541,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165426,
       "num": 179794,
       "word": "马柏全 百雀羚",
@@ -4355,6 +4371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 160045,
+      "num": 160045,
+      "word": "广州地铁",
+      "onboard_time": 1758623001,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159982,
       "num": 159982,
       "word": "继父为房产把继子踢出家庭群",
@@ -4475,14 +4499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157999,
-      "num": 157999,
-      "word": "广州地铁",
-      "onboard_time": 1758623001,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157662,
       "num": 157662,
       "word": "李想称没有理想i7",
@@ -4513,6 +4529,14 @@
       "onboard_time": 1758602003,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156972,
+      "num": 149367,
+      "word": "性侵崔丽丽老板事发后卸任董事长",
+      "onboard_time": 1758626783,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156776,
@@ -4779,6 +4803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150837,
+      "num": 150837,
+      "word": "风月不相关",
+      "onboard_time": 1758627082,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150713,
       "num": 221694,
       "word": "赵樱子连麦男粉被感动到红了眼眶",
@@ -4827,12 +4859,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149188,
+      "num": 149188,
+      "word": "五停 没带大学生",
+      "onboard_time": 1758623061,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148774,
       "num": 181982,
       "word": "中企回应在非洲遭800亿美元天价索赔",
       "onboard_time": 1758427522,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148634,
+      "num": 148634,
+      "word": "痴情的火鸡面啊再等一世吧",
+      "onboard_time": 1758622702,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 148604,
@@ -4921,6 +4969,14 @@
       "onboard_time": 1758547824,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147515,
+      "num": 149435,
+      "word": "檀健次工作室进高人了",
+      "onboard_time": 1758626061,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 147185,
@@ -5155,14 +5211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141438,
-      "num": 141438,
-      "word": "痴情的火鸡面啊再等一世吧",
-      "onboard_time": 1758622702,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141185,
       "num": 141185,
       "word": "北京外交学院校庆现超级大佬",
@@ -5395,12 +5443,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137363,
-      "num": 137363,
-      "word": "五停 没带大学生",
-      "onboard_time": 1758623061,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 137281,
+      "num": 137281,
+      "word": "华为发布会",
+      "onboard_time": 1758627201,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 137240,
@@ -5987,14 +6035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125145,
-      "num": 138487,
-      "word": "檀健次工作室进高人了",
-      "onboard_time": 1758626061,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 125122,
       "num": 257261,
       "word": "邓为和天然钻石的适配度",
@@ -6113,6 +6153,14 @@
       "onboard_time": 1758414261,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123621,
+      "num": 123621,
+      "word": "吴邪私家笔记",
+      "onboard_time": 1758627082,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 123451,
@@ -6464,6 +6512,14 @@
       "word": "崔丽丽成职场被性侵女性倾诉树洞",
       "onboard_time": 1758611720,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118344,
+      "num": 148113,
+      "word": "新疆维吾尔自治区成立70周年庆祝活动",
+      "onboard_time": 1758627323,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -7089,6 +7145,14 @@
       "onboard_time": 1758357921,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106365,
+      "num": 106365,
+      "word": "战至巅峰",
+      "onboard_time": 1758626901,
+      "rank": 48,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 106350,
@@ -8219,6 +8283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72704,
+      "num": 294533,
+      "word": "谁能想到波密的致富密码是pdd",
+      "onboard_time": 1758625821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72617,
       "num": 185363,
       "word": "女子遭丈夫碾轧拖拽死亡案将再开庭",
@@ -8483,14 +8555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61089,
-      "num": 294533,
-      "word": "谁能想到波密的致富密码是pdd",
-      "onboard_time": 1758625821,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61002,
       "num": 129042,
       "word": "桦加沙风眼可以装进整个香港",
@@ -8659,6 +8723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54894,
+      "num": 147371,
+      "word": "鸡排哥回应走红",
+      "onboard_time": 1758626901,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54833,
       "num": 171017,
       "word": "孙艺洲说于适给的衣服懂事",
@@ -8731,12 +8803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53033,
+      "num": 146706,
+      "word": "深圳外卖小哥不语只是一味打工",
+      "onboard_time": 1758626963,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52981,
       "num": 283388,
       "word": "Burberry秀汤唯",
       "onboard_time": 1758606022,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 52846,
+      "num": 147230,
+      "word": "鸡排哥走红后听劝戴上了口罩",
+      "onboard_time": 1758626963,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52707,
@@ -8851,6 +8939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47652,
+      "num": 321868,
+      "word": "张婧仪Burberry看秀",
+      "onboard_time": 1758625942,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 47417,
       "num": 133278,
       "word": "云南860万大奖过期无人认领",
@@ -8939,20 +9035,20 @@
       "category": "电影,音乐"
     },
     {
+      "raw_hot": 44816,
+      "num": 146122,
+      "word": "深圳开启全市最大应急避难场所",
+      "onboard_time": 1758627323,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44470,
       "num": 174020,
       "word": "年薪几百万博士高管从房企辞职",
       "onboard_time": 1758443303,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43931,
-      "num": 321569,
-      "word": "张婧仪Burberry看秀",
-      "onboard_time": 1758625942,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 43881,
@@ -9721,6 +9817,14 @@
       "onboard_time": 1758396015,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14023,
+      "num": 147873,
+      "word": "这个季节的林海可太绝了",
+      "onboard_time": 1758626963,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 13812,
