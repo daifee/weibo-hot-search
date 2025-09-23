@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758659292908,
+  "endTime": 1758660060986,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103507,
+      "num": 103507,
+      "word": "17级台风最大持续风速堪比高速列车",
+      "onboard_time": 1758657253,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101146,
       "num": 101146,
       "word": "香港下水道喷出巨大水柱",
@@ -360,14 +368,6 @@
       "word": "桦加沙和山竹谁更强",
       "onboard_time": 1758638904,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67333,
-      "num": 67333,
-      "word": "17级台风最大持续风速堪比高速列车",
-      "onboard_time": 1758657253,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -513,6 +513,14 @@
       "onboard_time": 1758653654,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12035,
+      "num": 14783,
+      "word": "囤菜",
+      "onboard_time": 1758659474,
+      "rank": 47,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
