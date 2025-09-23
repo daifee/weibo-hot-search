@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758634481393,
+  "endTime": 1758635165111,
   "band_list": [
     {
       "raw_hot": 11916363,
@@ -83,20 +83,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1191462,
+      "num": 1191462,
+      "word": "盒马回应最难吃甜品被台风选出来了",
+      "onboard_time": 1758625042,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1190677,
       "num": 481020,
       "word": "妈妈回应瑶一瑶小肉包颜值状态",
       "onboard_time": 1758621382,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1190309,
-      "num": 1190309,
-      "word": "盒马回应最难吃甜品被台风选出来了",
-      "onboard_time": 1758625042,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1140491,
@@ -131,7 +131,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 969614,
+      "raw_hot": 1014042,
       "num": 670746,
       "word": "王晓晨否认结婚",
       "onboard_time": 1758629783,
@@ -177,6 +177,14 @@
       "onboard_time": 1758554423,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 877693,
+      "num": 877693,
+      "word": "朝雪录",
+      "onboard_time": 1758628703,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 872754,
@@ -233,14 +241,6 @@
       "onboard_time": 1758594441,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 784869,
-      "num": 784869,
-      "word": "朝雪录",
-      "onboard_time": 1758628703,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 730222,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585886,
+      "num": 585886,
+      "word": "上海绿捷已被立案侦查",
+      "onboard_time": 1758633743,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 566513,
       "num": 566513,
       "word": "决赛圈就剩广州了",
@@ -379,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 551615,
+      "num": 551615,
+      "word": "医院通报CT报告单现不文明用语",
+      "onboard_time": 1758630263,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548901,
       "num": 548901,
       "word": "杨幂做卷腹好轻松",
@@ -393,14 +409,6 @@
       "onboard_time": 1758546083,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 519166,
-      "num": 519166,
-      "word": "医院通报CT报告单现不文明用语",
-      "onboard_time": 1758630263,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 508775,
@@ -539,8 +547,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368751,
-      "num": 368751,
+      "raw_hot": 373686,
+      "num": 373686,
       "word": "问界M7",
       "onboard_time": 1758632783,
       "rank": 8,
@@ -563,12 +571,12 @@
       "category": "海外新闻,健康医疗"
     },
     {
-      "raw_hot": 357712,
-      "num": 357712,
-      "word": "上海绿捷已被立案侦查",
-      "onboard_time": 1758633743,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 349802,
+      "num": 349802,
+      "word": "网红罗几因车祸不幸遇难",
+      "onboard_time": 1758633863,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 336408,
@@ -577,6 +585,14 @@
       "onboard_time": 1758531201,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335280,
+      "num": 335280,
+      "word": "赴山海是否意味着新武侠剧的没落",
+      "onboard_time": 1758631043,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 332316,
@@ -593,14 +609,6 @@
       "onboard_time": 1758599842,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 328718,
-      "num": 328718,
-      "word": "赴山海是否意味着新武侠剧的没落",
-      "onboard_time": 1758631043,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 325743,
@@ -963,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211868,
+      "num": 211868,
+      "word": "王扁模仿王源走红疑开多号接受打赏",
+      "onboard_time": 1758634164,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211711,
       "num": 220244,
       "word": "孟子义李昀锐指尖捂嘴路透",
@@ -977,14 +993,6 @@
       "onboard_time": 1758599182,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209148,
-      "num": 209148,
-      "word": "网红罗几因车祸不幸遇难",
-      "onboard_time": 1758633863,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 208623,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1758612260,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203169,
+      "num": 185268,
+      "word": "王鹤润这大花感觉上来了",
+      "onboard_time": 1758633982,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196973,
@@ -1195,6 +1211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 183815,
+      "num": 183815,
+      "word": "黄灿灿回应被称为武大校花",
+      "onboard_time": 1758631642,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183640,
       "num": 183640,
       "word": "问界M7对开路面高速爆胎不失控",
@@ -1259,20 +1283,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177741,
-      "num": 177741,
-      "word": "黄灿灿回应被称为武大校花",
-      "onboard_time": 1758631642,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176459,
       "num": 200292,
       "word": "全新问界M7动态评测首发",
       "onboard_time": 1758611240,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 176250,
+      "num": 176250,
+      "word": "瑞幸苹果拿铁文案 翻车",
+      "onboard_time": 1758629902,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175992,
@@ -1299,8 +1323,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170155,
-      "num": 170155,
+      "raw_hot": 172390,
+      "num": 181189,
+      "word": "佟丽娅17城50场巡演官宣了",
+      "onboard_time": 1758634764,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 170852,
+      "num": 170852,
       "word": "宋亚轩 你的生长痛我后知后觉",
       "onboard_time": 1758632180,
       "rank": 38,
@@ -1331,22 +1363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 167458,
-      "num": 167458,
-      "word": "瑞幸苹果拿铁文案 翻车",
-      "onboard_time": 1758629902,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166716,
-      "num": 166716,
-      "word": "王扁模仿王源走红疑开多号接受打赏",
-      "onboard_time": 1758634164,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166564,
       "num": 166564,
       "word": "沈月王敬轩我家那闺女表现被审判",
@@ -1355,12 +1371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165994,
-      "num": 165994,
-      "word": "王鹤润这大花感觉上来了",
-      "onboard_time": 1758633982,
-      "rank": 41,
-      "category": "作品衍生,时尚"
+      "raw_hot": 166328,
+      "num": 168365,
+      "word": "迪丽热巴早期神颜视频",
+      "onboard_time": 1758633504,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 164920,
@@ -1603,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151418,
+      "num": 151418,
+      "word": "瘦47斤发现不止身材变了",
+      "onboard_time": 1758623482,
+      "rank": 35,
+      "category": "运动健身,其它"
+    },
+    {
       "raw_hot": 151225,
       "num": 151225,
       "word": "中国航母又一突破",
@@ -1635,19 +1659,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150335,
-      "num": 150335,
-      "word": "瘦47斤发现不止身材变了",
-      "onboard_time": 1758623482,
-      "rank": 35,
-      "category": "运动健身,其它"
-    },
-    {
-      "raw_hot": 149496,
-      "num": 168365,
-      "word": "迪丽热巴早期神颜视频",
-      "onboard_time": 1758633504,
-      "rank": 38,
+      "raw_hot": 149586,
+      "num": 149586,
+      "word": "王晓晨 俞灏明",
+      "onboard_time": 1758634885,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1665,6 +1681,14 @@
       "onboard_time": 1758623061,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149095,
+      "num": 149095,
+      "word": "刘耀文回应时代少年团成员",
+      "onboard_time": 1758635122,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 148634,
@@ -1787,6 +1811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141684,
+      "num": 141684,
+      "word": "胡冰卿签新公司了",
+      "onboard_time": 1758634704,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141018,
       "num": 141018,
       "word": "蕾哈娜官宣生女",
@@ -1883,6 +1915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136239,
+      "num": 136239,
+      "word": "米沙画了黎深",
+      "onboard_time": 1758634342,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136063,
       "num": 136063,
       "word": "印媒关注中国K签证",
@@ -1948,7 +1988,7 @@
     },
     {
       "raw_hot": 129435,
-      "num": 129435,
+      "num": 379932,
       "word": "深圳人把该绑的都绑起来了",
       "onboard_time": 1758630982,
       "rank": 49,
@@ -2049,14 +2089,6 @@
       "onboard_time": 1758632423,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125501,
-      "num": 125501,
-      "word": "米沙画了黎深",
-      "onboard_time": 1758634342,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 125459,
@@ -2281,6 +2313,14 @@
       "onboard_time": 1758607341,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115648,
+      "num": 162208,
+      "word": "郑恺用11年一雪保鲜膜船前耻",
+      "onboard_time": 1758634704,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 115470,
@@ -2851,12 +2891,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84011,
+      "num": 186549,
+      "word": "全新问界M7全都是新的",
+      "onboard_time": 1758634524,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83747,
       "num": 307743,
       "word": "文化中国行秋分节气",
       "onboard_time": 1758583219,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83635,
+      "num": 217874,
+      "word": "每10辆50万级新能源7辆是问界M9",
+      "onboard_time": 1758631762,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 83079,
@@ -3019,12 +3075,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65313,
-      "num": 217874,
-      "word": "每10辆50万级新能源7辆是问界M9",
-      "onboard_time": 1758631762,
-      "rank": 43,
-      "category": "汽车"
+      "raw_hot": 64899,
+      "num": 968627,
+      "word": "丰收中国",
+      "onboard_time": 1758634463,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63581,
@@ -3251,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44141,
+      "num": 161939,
+      "word": "三班班长",
+      "onboard_time": 1758634764,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43881,
       "num": 307153,
       "word": "于适孙艺洲好友局就是这么real",
@@ -3305,6 +3369,14 @@
       "onboard_time": 1758624503,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37127,
+      "num": 191160,
+      "word": "FENDI大秀明星阵容",
+      "onboard_time": 1758632783,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 36834,
@@ -3385,14 +3457,6 @@
       "onboard_time": 1758607822,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33513,
-      "num": 191160,
-      "word": "FENDI大秀明星阵容",
-      "onboard_time": 1758632783,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32353,
@@ -3577,14 +3641,6 @@
       "onboard_time": 1758621382,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7151,
-      "num": 952083,
-      "word": "丰收中国",
-      "onboard_time": 1758634463,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4221,

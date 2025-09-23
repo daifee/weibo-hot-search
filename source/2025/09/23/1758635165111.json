@@ -1,0 +1,410 @@
+{
+  "runTime": 1758635165111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7968333,
+        "num": 7968333,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1191462,
+        "num": 1191462,
+        "word": "盒马回应最难吃甜品被台风选出来了",
+        "onboard_time": 1758625042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64899,
+        "num": 968627,
+        "word": "丰收中国",
+        "onboard_time": 1758634463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 877693,
+        "num": 877693,
+        "word": "朝雪录",
+        "onboard_time": 1758628703,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616270,
+        "num": 616270,
+        "word": "香港一家三口被巨浪卷走",
+        "onboard_time": 1758623302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585886,
+        "num": 585886,
+        "word": "上海绿捷已被立案侦查",
+        "onboard_time": 1758633743,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551615,
+        "num": 551615,
+        "word": "医院通报CT报告单现不文明用语",
+        "onboard_time": 1758630263,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442464,
+        "num": 442464,
+        "word": "丁泽仁国职考试通过",
+        "onboard_time": 1758629183,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396255,
+        "num": 396255,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89302,
+        "num": 379932,
+        "word": "深圳人把该绑的都绑起来了",
+        "onboard_time": 1758630982,
+        "rank": 9,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 373686,
+        "num": 373686,
+        "word": "问界M7",
+        "onboard_time": 1758632783,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 349802,
+        "num": 349802,
+        "word": "网红罗几因车祸不幸遇难",
+        "onboard_time": 1758633863,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 335280,
+        "num": 335280,
+        "word": "赴山海是否意味着新武侠剧的没落",
+        "onboard_time": 1758631043,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273132,
+        "num": 273132,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1758626541,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217447,
+        "num": 217447,
+        "word": "繁花剧组严正声明",
+        "onboard_time": 1758625221,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211868,
+        "num": 211868,
+        "word": "王扁模仿王源走红疑开多号接受打赏",
+        "onboard_time": 1758634164,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211433,
+        "num": 211433,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195614,
+        "num": 195614,
+        "word": "尚界H5",
+        "onboard_time": 1758633263,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83635,
+        "num": 194883,
+        "word": "每10辆50万级新能源7辆是问界M9",
+        "onboard_time": 1758631762,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38510,
+        "num": 193459,
+        "word": "日默瓦横竖都出圈",
+        "onboard_time": 1758632783,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1014042,
+        "num": 190906,
+        "word": "王晓晨否认结婚",
+        "onboard_time": 1758629783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587706,
+        "num": 190546,
+        "word": "范丞丞喝多了",
+        "onboard_time": 1758625643,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320874,
+        "num": 187506,
+        "word": "28岁男子上树被自带绳子缠脖身亡",
+        "onboard_time": 1758621621,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84011,
+        "num": 186549,
+        "word": "全新问界M7全都是新的",
+        "onboard_time": 1758634524,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203169,
+        "num": 185268,
+        "word": "王鹤润这大花感觉上来了",
+        "onboard_time": 1758633982,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183815,
+        "num": 183815,
+        "word": "黄灿灿回应被称为武大校花",
+        "onboard_time": 1758631642,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172513,
+        "num": 183533,
+        "word": "新疆维吾尔自治区成立70周年庆祝活动",
+        "onboard_time": 1758627323,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37127,
+        "num": 182956,
+        "word": "FENDI大秀明星阵容",
+        "onboard_time": 1758632783,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36101,
+        "num": 182490,
+        "word": "安全卷王问界M7标配八重安全设计",
+        "onboard_time": 1758632783,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159591,
+        "num": 181889,
+        "word": "邓为下腰好杀",
+        "onboard_time": 1758633743,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288499,
+        "num": 181475,
+        "word": "刘耀文生日直播",
+        "onboard_time": 1758629302,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172390,
+        "num": 181189,
+        "word": "佟丽娅17城50场巡演官宣了",
+        "onboard_time": 1758634764,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204193,
+        "num": 180508,
+        "word": "月经提前vs月经推迟",
+        "onboard_time": 1758626663,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180267,
+        "num": 180267,
+        "word": "桦加沙路径",
+        "onboard_time": 1758622222,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176250,
+        "num": 176250,
+        "word": "瑞幸苹果拿铁文案 翻车",
+        "onboard_time": 1758629902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172147,
+        "num": 172147,
+        "word": "赵今麦这次真帅到我了",
+        "onboard_time": 1758633143,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170852,
+        "num": 170852,
+        "word": "宋亚轩 你的生长痛我后知后觉",
+        "onboard_time": 1758632180,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 166328,
+        "word": "迪丽热巴早期神颜视频",
+        "onboard_time": 1758633504,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153327,
+        "num": 163763,
+        "word": "展轩直播",
+        "onboard_time": 1758633743,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115648,
+        "num": 162208,
+        "word": "郑恺用11年一雪保鲜膜船前耻",
+        "onboard_time": 1758634704,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44141,
+        "num": 161939,
+        "word": "三班班长",
+        "onboard_time": 1758634764,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161737,
+        "num": 161737,
+        "word": "特朗普称所有孕妇都不该用泰诺止痛",
+        "onboard_time": 1758622402,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152020,
+        "num": 152020,
+        "word": "桦加沙强度",
+        "onboard_time": 1758622160,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151418,
+        "num": 151418,
+        "word": "瘦47斤发现不止身材变了",
+        "onboard_time": 1758623482,
+        "rank": 43,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 149586,
+        "num": 149586,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1758634885,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149095,
+        "num": 149095,
+        "word": "刘耀文回应时代少年团成员",
+        "onboard_time": 1758635122,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141684,
+        "num": 141684,
+        "word": "胡冰卿签新公司了",
+        "onboard_time": 1758634704,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139858,
+        "num": 139858,
+        "word": "台风前夕腾讯把企鹅拴住了",
+        "onboard_time": 1758615442,
+        "rank": 47,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 136239,
+        "num": 136239,
+        "word": "米沙画了黎深",
+        "onboard_time": 1758634342,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119448,
+        "num": 119448,
+        "word": "宋轶怎么美成这样了",
+        "onboard_time": 1758616163,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平率中央代表团抵达乌鲁木齐#"
+    }
+  }
+}

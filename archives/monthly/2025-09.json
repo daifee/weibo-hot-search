@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758634481393,
+  "endTime": 1758635165111,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2987,20 +2987,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1191462,
+      "num": 1191462,
+      "word": "盒马回应最难吃甜品被台风选出来了",
+      "onboard_time": 1758625042,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1190677,
       "num": 481020,
       "word": "妈妈回应瑶一瑶小肉包颜值状态",
       "onboard_time": 1758621382,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1190309,
-      "num": 1190309,
-      "word": "盒马回应最难吃甜品被台风选出来了",
-      "onboard_time": 1758625042,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1188502,
@@ -3827,6 +3827,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1014042,
+      "num": 670746,
+      "word": "王晓晨否认结婚",
+      "onboard_time": 1758629783,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008315,
       "num": 448814,
       "word": "小酒窝有官配cp了",
@@ -4049,14 +4057,6 @@
       "onboard_time": 1757550922,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 969614,
-      "num": 670746,
-      "word": "王晓晨否认结婚",
-      "onboard_time": 1758629783,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 968275,
@@ -4777,6 +4777,14 @@
       "onboard_time": 1758075623,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 877693,
+      "num": 877693,
+      "word": "朝雪录",
+      "onboard_time": 1758628703,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 877434,
@@ -5921,14 +5929,6 @@
       "onboard_time": 1758550884,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 784869,
-      "num": 784869,
-      "word": "朝雪录",
-      "onboard_time": 1758628703,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 784275,
@@ -8627,6 +8627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 585886,
+      "num": 585886,
+      "word": "上海绿捷已被立案侦查",
+      "onboard_time": 1758633743,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 585598,
       "num": 585598,
       "word": "西贝董事长称骂不过罗永浩",
@@ -9273,6 +9281,14 @@
       "onboard_time": 1757051482,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551615,
+      "num": 551615,
+      "word": "医院通报CT报告单现不文明用语",
+      "onboard_time": 1758630263,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 550645,
@@ -10072,14 +10088,6 @@
       "word": "水牛奶 水牛是商标",
       "onboard_time": 1758111502,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 519166,
-      "num": 519166,
-      "word": "医院通报CT报告单现不文明用语",
-      "onboard_time": 1758630263,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -14451,6 +14459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 373686,
+      "num": 373686,
+      "word": "问界M7",
+      "onboard_time": 1758632783,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 373617,
       "num": 373617,
       "word": "迪奥数据泄露被公安网安部门处罚",
@@ -14641,14 +14657,6 @@
       "onboard_time": 1758169342,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 368751,
-      "num": 368751,
-      "word": "问界M7",
-      "onboard_time": 1758632783,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 368734,
@@ -15139,14 +15147,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 357712,
-      "num": 357712,
-      "word": "上海绿捷已被立案侦查",
-      "onboard_time": 1758633743,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 357568,
       "num": 285948,
       "word": "试管婴儿出生不久确诊肾病综合征",
@@ -15393,6 +15393,14 @@
       "onboard_time": 1757910384,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 349802,
+      "num": 349802,
+      "word": "网红罗几因车祸不幸遇难",
+      "onboard_time": 1758633863,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 349283,
@@ -15963,6 +15971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 335280,
+      "num": 335280,
+      "word": "赴山海是否意味着新武侠剧的没落",
+      "onboard_time": 1758631043,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335236,
       "num": 271734,
       "word": "赵涛撕奖能力",
@@ -16169,14 +16185,6 @@
       "onboard_time": 1757893642,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 328718,
-      "num": 328718,
-      "word": "赴山海是否意味着新武侠剧的没落",
-      "onboard_time": 1758631043,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 328681,
@@ -23379,6 +23387,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 211868,
+      "num": 211868,
+      "word": "王扁模仿王源走红疑开多号接受打赏",
+      "onboard_time": 1758634164,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211787,
       "num": 1595315,
       "word": "今晚邀你一起看红月",
@@ -23681,14 +23697,6 @@
       "onboard_time": 1757854524,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209148,
-      "num": 209148,
-      "word": "网红罗几因车祸不幸遇难",
-      "onboard_time": 1758633863,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 209119,
@@ -24601,6 +24609,14 @@
       "onboard_time": 1757563001,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203169,
+      "num": 185268,
+      "word": "王鹤润这大花感觉上来了",
+      "onboard_time": 1758633982,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203167,
@@ -28819,6 +28835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183815,
+      "num": 183815,
+      "word": "黄灿灿回应被称为武大校花",
+      "onboard_time": 1758631642,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183711,
       "num": 183711,
       "word": "白鹿生日逆应援",
@@ -29955,14 +29979,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 177741,
-      "num": 177741,
-      "word": "黄灿灿回应被称为武大校花",
-      "onboard_time": 1758631642,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177716,
       "num": 192147,
       "word": "薛凯琪 我的脸不是给你们这样用的",
@@ -30193,6 +30209,14 @@
       "onboard_time": 1757382202,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 176250,
+      "num": 176250,
+      "word": "瑞幸苹果拿铁文案 翻车",
+      "onboard_time": 1758629902,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176243,
@@ -31067,6 +31091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172390,
+      "num": 181189,
+      "word": "佟丽娅17城50场巡演官宣了",
+      "onboard_time": 1758634764,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172378,
       "num": 172378,
       "word": "花少7有自己的西游记",
@@ -31411,6 +31443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170852,
+      "num": 170852,
+      "word": "宋亚轩 你的生长痛我后知后觉",
+      "onboard_time": 1758632180,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170815,
       "num": 197345,
       "word": "谍报上不封顶滴血不漏初见版",
@@ -31553,14 +31593,6 @@
       "onboard_time": 1756805721,
       "rank": 30,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 170155,
-      "num": 170155,
-      "word": "宋亚轩 你的生长痛我后知后觉",
-      "onboard_time": 1758632180,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 170083,
@@ -32211,14 +32243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167458,
-      "num": 167458,
-      "word": "瑞幸苹果拿铁文案 翻车",
-      "onboard_time": 1758629902,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167421,
       "num": 167421,
       "word": "痛经趴床上鹦鹉抛下同类来扶我",
@@ -32355,14 +32379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166716,
-      "num": 166716,
-      "word": "王扁模仿王源走红疑开多号接受打赏",
-      "onboard_time": 1758634164,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166702,
       "num": 169409,
       "word": "胖东来燕麦脆被指无生产日期",
@@ -32467,6 +32483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166328,
+      "num": 168365,
+      "word": "迪丽热巴早期神颜视频",
+      "onboard_time": 1758633504,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166307,
       "num": 207269,
       "word": "数百位老人早高峰抢公交致学生迟到",
@@ -32537,14 +32561,6 @@
       "onboard_time": 1758155961,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 165994,
-      "num": 165994,
-      "word": "王鹤润这大花感觉上来了",
-      "onboard_time": 1758633982,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165972,
@@ -36691,6 +36707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151418,
+      "num": 151418,
+      "word": "瘦47斤发现不止身材变了",
+      "onboard_time": 1758623482,
+      "rank": 35,
+      "category": "运动健身,其它"
+    },
+    {
       "raw_hot": 151396,
       "num": 151396,
       "word": "这房子真的让人眼前一亮又一亮",
@@ -37003,14 +37027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 150335,
-      "num": 150335,
-      "word": "瘦47斤发现不止身材变了",
-      "onboard_time": 1758623482,
-      "rank": 35,
-      "category": "运动健身,其它"
-    },
-    {
       "raw_hot": 150325,
       "num": 150325,
       "word": "陈益韬喊话许荔莎",
@@ -37291,6 +37307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149586,
+      "num": 149586,
+      "word": "王晓晨 俞灏明",
+      "onboard_time": 1758634885,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149551,
       "num": 149551,
       "word": "证监会拟开出2.29亿元罚单",
@@ -37305,14 +37329,6 @@
       "onboard_time": 1758279504,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149496,
-      "num": 168365,
-      "word": "迪丽热巴早期神颜视频",
-      "onboard_time": 1758633504,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 149417,
@@ -37457,6 +37473,14 @@
       "onboard_time": 1757663844,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149095,
+      "num": 149095,
+      "word": "刘耀文回应时代少年团成员",
+      "onboard_time": 1758635122,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 149091,
@@ -40131,6 +40155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 141684,
+      "num": 141684,
+      "word": "胡冰卿签新公司了",
+      "onboard_time": 1758634704,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141682,
       "num": 141682,
       "word": "8万只气球去哪儿了",
@@ -42097,6 +42129,14 @@
       "onboard_time": 1757746103,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136239,
+      "num": 136239,
+      "word": "米沙画了黎深",
+      "onboard_time": 1758634342,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 136227,
@@ -44676,7 +44716,7 @@
     },
     {
       "raw_hot": 129435,
-      "num": 129435,
+      "num": 379932,
       "word": "深圳人把该绑的都绑起来了",
       "onboard_time": 1758630982,
       "rank": 49,
@@ -46289,14 +46329,6 @@
       "onboard_time": 1757829562,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125501,
-      "num": 125501,
-      "word": "米沙画了黎深",
-      "onboard_time": 1758634342,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 125499,
@@ -50473,6 +50505,14 @@
       "onboard_time": 1757049922,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115648,
+      "num": 162208,
+      "word": "郑恺用11年一雪保鲜膜船前耻",
+      "onboard_time": 1758634704,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 115614,
@@ -61731,6 +61771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84011,
+      "num": 186549,
+      "word": "全新问界M7全都是新的",
+      "onboard_time": 1758634524,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84001,
       "num": 84001,
       "word": "第一次在飞机上偶遇了彩虹海",
@@ -61841,6 +61889,14 @@
       "onboard_time": 1758240622,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83635,
+      "num": 217874,
+      "word": "每10辆50万级新能源7辆是问界M9",
+      "onboard_time": 1758631762,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 83554,
@@ -65499,14 +65555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 65313,
-      "num": 217874,
-      "word": "每10辆50万级新能源7辆是问界M9",
-      "onboard_time": 1758631762,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 65250,
       "num": 135581,
       "word": "檀健次梗好全",
@@ -65545,6 +65593,14 @@
       "onboard_time": 1756808061,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64899,
+      "num": 968627,
+      "word": "丰收中国",
+      "onboard_time": 1758634463,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64884,
@@ -69379,6 +69435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44141,
+      "num": 161939,
+      "word": "三班班长",
+      "onboard_time": 1758634764,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44070,
       "num": 103721,
       "word": "Ame 斯温",
@@ -70547,6 +70611,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 37127,
+      "num": 191160,
+      "word": "FENDI大秀明星阵容",
+      "onboard_time": 1758632783,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37073,
       "num": 323248,
       "word": "为什么年轻人爱上给古人扫墓",
@@ -71169,14 +71241,6 @@
       "onboard_time": 1758535282,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33513,
-      "num": 191160,
-      "word": "FENDI大秀明星阵容",
-      "onboard_time": 1758632783,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33410,
@@ -74545,14 +74609,6 @@
       "onboard_time": 1758332780,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 7151,
-      "num": 952083,
-      "word": "丰收中国",
-      "onboard_time": 1758634463,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6737,
