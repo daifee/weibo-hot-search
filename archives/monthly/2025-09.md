@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/23 15:39:30
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/23 16:32:59
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%81%93%E6%AD%89%23" target="weibo">
 西贝道歉（热度：12520060）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%23" target="weibo">
+桦加沙（热度：11916363）
 </a>
 </li>
 
@@ -627,12 +633,6 @@ iPhone17系列价格（热度：3052336）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%23" target="weibo">
-桦加沙（热度：2338890）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
 阅兵收视率（热度：2323040）
 </a>
@@ -1031,6 +1031,12 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%BF%E7%88%BD%E5%8F%91%E8%A8%80%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 耿爽发言含金量（热度：1811150）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%85%A8%E5%B8%82%E4%BA%94%E5%81%9C%23" target="weibo">
+广州全市五停（热度：1810519）
 </a>
 </li>
 
@@ -3975,6 +3981,12 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E8%A2%AB%E7%A3%95%E6%8E%89%E4%BA%86%E4%B8%80%E9%A2%97%E7%89%99%23" target="weibo">
+李一桐被磕掉了一颗牙（热度：835021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%80%BB%E7%90%86%E6%8B%92%E7%BB%9D%E6%97%A5%E6%9C%AC%E6%B8%B8%E8%AF%B4%E6%9D%A5%E5%8D%8E%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5%23" target="weibo">
 尼总理拒绝日本游说来华出席阅兵（热度：834306）
 </a>
@@ -6002,18 +6014,6 @@ iPhone17Pro（热度：632186）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%9D%80%E6%9F%AF%E5%85%8B%E7%9A%84%E5%87%B6%E6%89%8B%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BB%BD%23" target="weibo">
-暗杀柯克的凶手确认身份（热度：619295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%96%8A%E8%AF%9D%E7%9F%B3%E5%B9%B3%E6%BB%9A%E5%87%BA%E6%97%A5%E6%9C%AC%23" target="weibo">
-日本民众喊话石平滚出日本（热度：618027）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6431,6 +6431,12 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%A5%AD%E7%A2%97%E4%B8%80%E5%AE%9A%E8%A6%81%E7%AB%AF%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E6%89%8B%E9%87%8C%23%23" target="weibo">
 #中国的饭碗一定要端在自己的手里#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%B0%E9%97%B4%E5%9C%B0%E5%A4%B4%E7%9A%84%E5%98%B1%E5%92%90%23%23" target="weibo">
+#总书记田间地头的嘱咐#
 </a>
 </li>
 

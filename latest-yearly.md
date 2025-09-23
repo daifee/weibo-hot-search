@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/23 15:39:30
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/23 16:32:59
 </p>
 </blockquote>
 <p>
@@ -659,6 +659,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E5%8C%96%23" target="weibo">
 大S在日本火化（热度：11918137）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%23" target="weibo">
+桦加沙（热度：11916363）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BA%9A%E5%86%9B%23" target="weibo">
 王楚钦亚军（热度：4603920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%87%AA%E8%BF%B0%E5%89%83%E5%A4%B4%E8%BF%87%E7%A8%8B%23" target="weibo">
-演员王星在飞机上自述剃头过程（热度：4591252）
 </a>
 </li>
 

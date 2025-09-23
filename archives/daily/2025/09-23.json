@@ -1,7 +1,15 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758613170780,
+  "endTime": 1758616379569,
   "band_list": [
+    {
+      "raw_hot": 11916363,
+      "num": 11916363,
+      "word": "桦加沙",
+      "onboard_time": 1758596303,
+      "rank": 14,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 11125410,
       "num": 11125410,
@@ -16,14 +24,6 @@
       "word": "始祖鸟蔡国强 撒谎",
       "onboard_time": 1758598882,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2338890,
-      "num": 2338890,
-      "word": "桦加沙",
-      "onboard_time": 1758596303,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -47,6 +47,14 @@
       "num": 1892762,
       "word": "深圳五停",
       "onboard_time": 1758592461,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1810519,
+      "num": 1810519,
+      "word": "广州全市五停",
+      "onboard_time": 1758613581,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 860223,
-      "num": 563806,
+      "num": 577665,
       "word": "乔欣变美了",
       "onboard_time": 1758611841,
       "rank": 18,
@@ -161,6 +169,14 @@
       "onboard_time": 1758522681,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 835021,
+      "num": 835021,
+      "word": "李一桐被磕掉了一颗牙",
+      "onboard_time": 1758612682,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 800733,
@@ -523,12 +539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263963,
+      "num": 263963,
+      "word": "广东或遇人类最大台风灾害系谣言",
+      "onboard_time": 1758614362,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262463,
       "num": 262463,
       "word": "金晨脸部状态",
       "onboard_time": 1758603682,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261973,
+      "num": 261973,
+      "word": "汕尾台风",
+      "onboard_time": 1758613281,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256741,
@@ -683,12 +715,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 207055,
+      "num": 207055,
+      "word": "学生偷快递被公示",
+      "onboard_time": 1758611002,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206994,
       "num": 226584,
       "word": "心动的信号8",
       "onboard_time": 1758604342,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205501,
+      "num": 205501,
+      "word": "杨洋 剪彩的正确打开方式",
+      "onboard_time": 1758612260,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 196973,
@@ -713,14 +761,6 @@
       "onboard_time": 1758551305,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194970,
-      "num": 235636,
-      "word": "李一桐被磕掉了一颗牙",
-      "onboard_time": 1758612682,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 194931,
@@ -755,12 +795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192479,
+      "num": 207846,
+      "word": "张柏芝二儿子15岁近照",
+      "onboard_time": 1758611180,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191906,
       "num": 191906,
       "word": "白百何工作室 明天没更新就是下岗了",
       "onboard_time": 1758549865,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186842,
+      "num": 186842,
+      "word": "和平精英",
+      "onboard_time": 1758615381,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 186760,
@@ -779,12 +835,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186036,
+      "num": 186036,
+      "word": "台风前夕腾讯把企鹅拴住了",
+      "onboard_time": 1758615442,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 183950,
+      "num": 183950,
+      "word": "iPhone17Pro绿屏",
+      "onboard_time": 1758614123,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182528,
       "num": 182528,
       "word": "开车后最怕的事情还是出现了",
       "onboard_time": 1758595522,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182150,
+      "num": 182150,
+      "word": "新加坡多地现紫色闪电球",
+      "onboard_time": 1758612441,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 181847,
@@ -811,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177280,
-      "num": 167136,
-      "word": "学生偷快递被公示",
-      "onboard_time": 1758611002,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176459,
       "num": 200292,
       "word": "全新问界M7动态评测首发",
@@ -841,6 +913,22 @@
       "onboard_time": 1758605721,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168763,
+      "num": 168763,
+      "word": "医院影像科报告单出现骂人脏话",
+      "onboard_time": 1758614602,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168632,
+      "num": 168632,
+      "word": "马嘉祺祝刘耀文有更广阔的世界",
+      "onboard_time": 1758613823,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 168161,
@@ -963,14 +1051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159056,
-      "num": 159056,
-      "word": "杨洋 剪彩的正确打开方式",
-      "onboard_time": 1758612260,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158440,
       "num": 158440,
       "word": "日本观众看完电影731后情绪崩溃",
@@ -1003,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154203,
+      "num": 154203,
+      "word": "李乃文以后得了老年痴呆都没人能发现",
+      "onboard_time": 1758612982,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153730,
       "num": 153730,
       "word": "云南旅游跌停",
@@ -1011,12 +1099,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 153554,
-      "num": 207846,
-      "word": "张柏芝二儿子15岁近照",
-      "onboard_time": 1758611180,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 152714,
+      "num": 152714,
+      "word": "小米17续航",
+      "onboard_time": 1758615623,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 152381,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1758605721,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148604,
+      "num": 148604,
+      "word": "詹姆斯对克利夫兰意义",
+      "onboard_time": 1758615682,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 148573,
@@ -1116,7 +1212,7 @@
     },
     {
       "raw_hot": 142720,
-      "num": 153712,
+      "num": 1095849,
       "word": "致敬耕耘礼赞丰收",
       "onboard_time": 1758600022,
       "rank": 45,
@@ -1179,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139016,
-      "num": 139016,
-      "word": "李乃文以后得了老年痴呆都没人能发现",
-      "onboard_time": 1758612982,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138919,
       "num": 162591,
       "word": "姚晨为崔丽丽发声",
@@ -1201,6 +1289,14 @@
       "onboard_time": 1758610221,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137751,
+      "num": 137751,
+      "word": "台风 广东病",
+      "onboard_time": 1758614482,
+      "rank": 33,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 136063,
@@ -1259,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129040,
+      "num": 129040,
+      "word": "宋轶怎么美成这样了",
+      "onboard_time": 1758616163,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 128884,
       "num": 128362,
       "word": "以为闲聊其实是套话的行为",
@@ -1273,6 +1377,14 @@
       "onboard_time": 1758611903,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128147,
+      "num": 128147,
+      "word": "呵呵感叹有白鹿的世界真的很美好",
+      "onboard_time": 1758615742,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 127199,
@@ -1345,6 +1457,14 @@
       "onboard_time": 1758598702,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121149,
+      "num": 121149,
+      "word": "金鸡奖提名名单预测",
+      "onboard_time": 1758613640,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 120909,
@@ -1424,6 +1544,14 @@
       "word": "崔丽丽案隔壁房客录音成关键证据",
       "onboard_time": 1758607341,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115501,
+      "num": 115501,
+      "word": "广州喜洋洋乐融融已停工",
+      "onboard_time": 1758616222,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1667,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92516,
-      "num": 150731,
-      "word": "新加坡多地现紫色闪电球",
-      "onboard_time": 1758612441,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 91340,
       "num": 91340,
       "word": "近万元手表快递被驿站签收后成空盒",
@@ -1803,6 +1923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 81688,
+      "num": 123594,
+      "word": "以为是沈腾 抬头是邓超",
+      "onboard_time": 1758616042,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79498,
       "num": 121465,
       "word": "广中医一院回应医生遇袭",
@@ -1865,6 +1993,14 @@
       "onboard_time": 1758559100,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71301,
+      "num": 186375,
+      "word": "iQOO15三星屏首发M14发光材料",
+      "onboard_time": 1758614721,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 70023,
@@ -2019,6 +2155,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48881,
+      "num": 244366,
+      "word": "吴磊Burberry秀",
+      "onboard_time": 1758614721,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 47417,
+      "num": 133278,
+      "word": "云南860万大奖过期无人认领",
+      "onboard_time": 1758614541,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45964,
       "num": 158835,
       "word": "女高管被性侵追偿案未当庭宣判",
@@ -2056,6 +2208,14 @@
       "word": "17级台风风速每小时250公里",
       "onboard_time": 1758608901,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35904,
+      "num": 113343,
+      "word": "广东网友玻璃上贴麦克风",
+      "onboard_time": 1758614841,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2129,6 +2289,14 @@
       "onboard_time": 1758561918,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26254,
+      "num": 124778,
+      "word": "去年俊凯还在给这个奖项颁奖",
+      "onboard_time": 1758616042,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 25278,
@@ -2217,6 +2385,9 @@
     },
     {
       "word": "#中国的饭碗一定要端在自己的手里#"
+    },
+    {
+      "word": "#总书记田间地头的嘱咐#"
     }
   ]
 }

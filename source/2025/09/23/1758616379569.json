@@ -1,0 +1,410 @@
+{
+  "runTime": 1758616379569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11916363,
+        "num": 11916363,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1810519,
+        "num": 1810519,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25203,
+        "num": 1095849,
+        "word": "致敬耕耘礼赞丰收",
+        "onboard_time": 1758600022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 835021,
+        "num": 835021,
+        "word": "李一桐被磕掉了一颗牙",
+        "onboard_time": 1758612682,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712568,
+        "num": 712568,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 763849,
+        "num": 577665,
+        "word": "乔欣变美了",
+        "onboard_time": 1758611841,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337367,
+        "num": 337367,
+        "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+        "onboard_time": 1758594261,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322332,
+        "num": 322332,
+        "word": "广东发布紧急动员令",
+        "onboard_time": 1758608361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263963,
+        "num": 263963,
+        "word": "广东或遇人类最大台风灾害系谣言",
+        "onboard_time": 1758614362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261973,
+        "num": 261973,
+        "word": "汕尾台风",
+        "onboard_time": 1758613281,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516276,
+        "num": 250836,
+        "word": "好友曝何猷启恋情",
+        "onboard_time": 1758609922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48881,
+        "num": 244366,
+        "word": "吴磊Burberry秀",
+        "onboard_time": 1758614721,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239267,
+        "num": 239267,
+        "word": "马伊琍提议改我的前半生结局",
+        "onboard_time": 1758606801,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221639,
+        "num": 221639,
+        "word": "国庆中秋解释一下7加3等于8",
+        "onboard_time": 1758597321,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207055,
+        "num": 207055,
+        "word": "学生偷快递被公示",
+        "onboard_time": 1758611002,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205501,
+        "num": 205501,
+        "word": "杨洋 剪彩的正确打开方式",
+        "onboard_time": 1758612260,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192479,
+        "num": 192479,
+        "word": "张柏芝二儿子15岁近照",
+        "onboard_time": 1758611180,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189200,
+        "num": 189200,
+        "word": "中传回应贺峻霖进入保研复试名单",
+        "onboard_time": 1758606081,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186842,
+        "num": 186842,
+        "word": "和平精英",
+        "onboard_time": 1758615381,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71301,
+        "num": 186375,
+        "word": "iQOO15三星屏首发M14发光材料",
+        "onboard_time": 1758614721,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186036,
+        "num": 186036,
+        "word": "台风前夕腾讯把企鹅拴住了",
+        "onboard_time": 1758615442,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 184209,
+        "num": 184209,
+        "word": "杨幂做卷腹好轻松",
+        "onboard_time": 1758605002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81430,
+        "num": 184048,
+        "word": "以色列正在遭到反噬",
+        "onboard_time": 1758606801,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183950,
+        "num": 183950,
+        "word": "iPhone17Pro绿屏",
+        "onboard_time": 1758614123,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182150,
+        "num": 182150,
+        "word": "新加坡多地现紫色闪电球",
+        "onboard_time": 1758612441,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173567,
+        "num": 173567,
+        "word": "罗永浩晒370元7个现炒热菜",
+        "onboard_time": 1758604822,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168763,
+        "num": 168763,
+        "word": "医院影像科报告单出现骂人脏话",
+        "onboard_time": 1758614602,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168632,
+        "num": 168632,
+        "word": "马嘉祺祝刘耀文有更广阔的世界",
+        "onboard_time": 1758613823,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156245,
+        "num": 156245,
+        "word": "女生撞死3人家属还威胁死者母亲",
+        "onboard_time": 1758600142,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154203,
+        "num": 154203,
+        "word": "李乃文以后得了老年痴呆都没人能发现",
+        "onboard_time": 1758612982,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152714,
+        "num": 152714,
+        "word": "小米17续航",
+        "onboard_time": 1758615623,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148604,
+        "num": 148604,
+        "word": "詹姆斯对克利夫兰意义",
+        "onboard_time": 1758615682,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144144,
+        "num": 144144,
+        "word": "深圳不语只是一味提前砍树",
+        "onboard_time": 1758611421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137751,
+        "num": 137751,
+        "word": "台风 广东病",
+        "onboard_time": 1758614482,
+        "rank": 33,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 47417,
+        "num": 133278,
+        "word": "云南860万大奖过期无人认领",
+        "onboard_time": 1758614541,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129040,
+        "num": 129040,
+        "word": "宋轶怎么美成这样了",
+        "onboard_time": 1758616163,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82676,
+        "num": 128160,
+        "word": "东莞发布台风红色预警",
+        "onboard_time": 1758611120,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128147,
+        "num": 128147,
+        "word": "呵呵感叹有白鹿的世界真的很美好",
+        "onboard_time": 1758615742,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26254,
+        "num": 124778,
+        "word": "去年俊凯还在给这个奖项颁奖",
+        "onboard_time": 1758616042,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81688,
+        "num": 123594,
+        "word": "以为是沈腾 抬头是邓超",
+        "onboard_time": 1758616042,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122664,
+        "num": 122664,
+        "word": "金饰克价涨到1105元",
+        "onboard_time": 1758610401,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121149,
+        "num": 121149,
+        "word": "金鸡奖提名名单预测",
+        "onboard_time": 1758613640,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112808,
+        "num": 119420,
+        "word": "决赛圈就剩广州了",
+        "onboard_time": 1758612023,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118512,
+        "num": 118512,
+        "word": "任嘉伦剃了寸头",
+        "onboard_time": 1758604883,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117318,
+        "num": 117318,
+        "word": "崔丽丽夫妇维权近2年基本停工",
+        "onboard_time": 1758611180,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115501,
+        "num": 115501,
+        "word": "广州喜洋洋乐融融已停工",
+        "onboard_time": 1758616222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68250,
+        "num": 114216,
+        "word": "全新问界M7动态评测首发",
+        "onboard_time": 1758611240,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35904,
+        "num": 113343,
+        "word": "广东网友玻璃上贴麦克风",
+        "onboard_time": 1758614841,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113226,
+        "num": 113226,
+        "word": "老人称发现亡妻存折起诉银行索要60万",
+        "onboard_time": 1758600980,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109526,
+        "num": 109526,
+        "word": "广州人台风天都不买的菜",
+        "onboard_time": 1758600382,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}
