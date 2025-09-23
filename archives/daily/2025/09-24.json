@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758648641109,
+  "endTime": 1758649107567,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94541,
+      "num": 94541,
+      "word": "气象局称深圳明早8点或现10级风力",
+      "onboard_time": 1758648677,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92404,
       "num": 92404,
       "word": "28岁男子上树被自带绳子缠脖身亡",
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38727,
+      "num": 60599,
+      "word": "怪不得宋威龙机场都在锻炼",
+      "onboard_time": 1758646219,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37764,
       "num": 37764,
       "word": "7个细微但是有用的习惯",
@@ -427,20 +443,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 36660,
-      "num": 36934,
-      "word": "怪不得宋威龙机场都在锻炼",
-      "onboard_time": 1758646219,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35805,
-      "num": 36934,
+      "raw_hot": 37590,
+      "num": 37590,
       "word": "徐振轩直播",
       "onboard_time": 1758646278,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28313,
+      "num": 232577,
+      "word": "珠海部分高层住户被通知撤离",
+      "onboard_time": 1758636324,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23600,
@@ -449,14 +465,6 @@
       "onboard_time": 1758634463,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22343,
-      "num": 232577,
-      "word": "珠海部分高层住户被通知撤离",
-      "onboard_time": 1758636324,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
