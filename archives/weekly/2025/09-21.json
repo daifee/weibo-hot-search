@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758592109516,
+  "endTime": 1758593346704,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2122627,
+      "num": 2122627,
+      "word": "桦加沙登陆地点确认",
+      "onboard_time": 1758588982,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1919538,
       "num": 469075,
       "word": "王源评论祝王俊凯生日快乐",
@@ -64,6 +72,14 @@
       "word": "始祖鸟",
       "onboard_time": 1758355881,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1892762,
+      "num": 1892762,
+      "word": "深圳五停",
+      "onboard_time": 1758592461,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -121,14 +137,6 @@
       "onboard_time": 1758546083,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1479127,
-      "num": 1479127,
-      "word": "桦加沙登陆地点确认",
-      "onboard_time": 1758588982,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1476181,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1049343,
+      "num": 931417,
+      "word": "折腰剧粉群解散了",
+      "onboard_time": 1758590180,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1038719,
       "num": 668504,
       "word": "始祖鸟外网道歉被指甩锅中国团队",
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 931417,
-      "num": 931417,
-      "word": "折腰剧粉群解散了",
-      "onboard_time": 1758590180,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 930525,
       "num": 821850,
       "word": "日本网友指责中国男子救人",
@@ -416,6 +424,14 @@
       "word": "见到这种紫色保温壶立即报警",
       "onboard_time": 1758509601,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 895180,
+      "num": 895180,
+      "word": "现场人员称蔡国强烟花燃放了4次",
+      "onboard_time": 1758589223,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -851,14 +867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 601156,
-      "num": 601156,
-      "word": "现场人员称蔡国强烟花燃放了4次",
-      "onboard_time": 1758589223,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 596683,
       "num": 596683,
       "word": "官方通报喜马拉雅山放烟花",
@@ -1147,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487991,
+      "num": 487991,
+      "word": "杜淳妻子说小酒窝是为镜头而生的",
+      "onboard_time": 1758589880,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484470,
       "num": 484470,
       "word": "东莞五停",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1758414863,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421761,
+      "num": 486705,
+      "word": "白鹿小声说累死了",
+      "onboard_time": 1758588982,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 406283,
@@ -1395,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366824,
-      "num": 366824,
-      "word": "杜淳妻子说小酒窝是为镜头而生的",
-      "onboard_time": 1758589880,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -1464,14 +1480,6 @@
       "word": "苏新皓受伤",
       "onboard_time": 1758542902,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 343317,
-      "num": 343317,
-      "word": "白鹿小声说累死了",
-      "onboard_time": 1758588982,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1675,8 +1683,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 282628,
-      "num": 282628,
+      "raw_hot": 283153,
+      "num": 283153,
       "word": "宋亚轩晒自己拍的刘耀文",
       "onboard_time": 1758583699,
       "rank": 24,
@@ -1689,6 +1697,14 @@
       "onboard_time": 1758456682,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279589,
+      "num": 279589,
+      "word": "银价飙涨",
+      "onboard_time": 1758592161,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 278422,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1758462507,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252426,
+      "num": 466885,
+      "word": "法国将在巴勒斯坦设立大使馆",
+      "onboard_time": 1758590302,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252273,
@@ -2299,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207839,
+      "num": 207839,
+      "word": "罗永浩反问怕被弄死",
+      "onboard_time": 1758591801,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 207547,
       "num": 180915,
       "word": "没到大结局男女主下线了",
@@ -2507,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198529,
+      "num": 198529,
+      "word": "广州台风",
+      "onboard_time": 1758592401,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198222,
       "num": 198222,
       "word": "周冬雨扛住了G社镜头",
@@ -2552,6 +2592,14 @@
       "word": "李沛恩西装",
       "onboard_time": 1758554061,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196973,
+      "num": 253835,
+      "word": "肖战上场前上场后反差感",
+      "onboard_time": 1758590541,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -2737,14 +2785,6 @@
       "onboard_time": 1758456863,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189179,
-      "num": 189179,
-      "word": "法国将在巴勒斯坦设立大使馆",
-      "onboard_time": 1758590302,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189143,
@@ -4555,14 +4595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129792,
-      "num": 129792,
-      "word": "罗永浩反问怕被弄死",
-      "onboard_time": 1758591801,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 129639,
       "num": 129639,
       "word": "始祖鸟门店现状",
@@ -5027,14 +5059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120491,
-      "num": 144740,
-      "word": "肖战上场前上场后反差感",
-      "onboard_time": 1758590541,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120387,
       "num": 120387,
       "word": "女子要一次性筷子被告知下不为例",
@@ -5057,6 +5081,14 @@
       "onboard_time": 1758541581,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120209,
+      "num": 158590,
+      "word": "张晚意回应没有经纪公司",
+      "onboard_time": 1758592221,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 119771,
@@ -5523,6 +5555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107373,
+      "num": 107373,
+      "word": "深圳天气",
+      "onboard_time": 1758433521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107127,
       "num": 152787,
       "word": "广东市民备6个充电宝应对台风",
@@ -5553,14 +5593,6 @@
       "onboard_time": 1758533481,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105993,
-      "num": 105993,
-      "word": "深圳天气",
-      "onboard_time": 1758433521,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105921,
@@ -5731,6 +5763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99419,
+      "num": 99419,
+      "word": "刘耀文20岁庆生vlog",
+      "onboard_time": 1758592880,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98986,
       "num": 98986,
       "word": "丁真干的活和面线有什么区别",
@@ -5835,6 +5875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96234,
+      "num": 96234,
+      "word": "第一批邪修菜谱受益者出现了",
+      "onboard_time": 1758591141,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96103,
       "num": 300664,
       "word": "被3只宠物狗追咬胎停孕妇最新发声",
@@ -5931,6 +5979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93410,
+      "num": 93410,
+      "word": "萧秋水李沉舟弹幕pk",
+      "onboard_time": 1758592821,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92920,
       "num": 92920,
       "word": "尹子维好莱坞电影镜头",
@@ -6019,6 +6075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90328,
+      "num": 90328,
+      "word": "属于追星女的面试诀窍",
+      "onboard_time": 1758590481,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90321,
       "num": 438283,
       "word": "港珠澳大桥主桥23日15时起封闭",
@@ -6073,6 +6137,14 @@
       "onboard_time": 1758416542,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88325,
+      "num": 101242,
+      "word": "76个地方总有一个适合你的小长假",
+      "onboard_time": 1758593301,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 88258,
@@ -6193,6 +6265,14 @@
       "onboard_time": 1758376702,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83143,
+      "num": 91218,
+      "word": "支付宝首页怎么了",
+      "onboard_time": 1758593301,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 83135,
@@ -7441,6 +7521,14 @@
       "onboard_time": 1758546444,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 22324,
+      "num": 1225059,
+      "word": "社交账号不受控制是木马病毒在作祟",
+      "onboard_time": 1758593001,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22275,

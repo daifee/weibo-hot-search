@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758592109516,
+  "endTime": 1758593346704,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -979,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2122627,
+      "num": 2122627,
+      "word": "桦加沙登陆地点确认",
+      "onboard_time": 1758588982,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2101106,
       "num": 2101106,
       "word": "风月不相关 不拍了",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1757373560,
       "rank": 4,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 1892762,
+      "num": 1892762,
+      "word": "深圳五停",
+      "onboard_time": 1758592461,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1887815,
@@ -2032,14 +2048,6 @@
       "word": "西贝厨师长戴手表和手链下厨引热议",
       "onboard_time": 1757851164,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1479127,
-      "num": 1479127,
-      "word": "桦加沙登陆地点确认",
-      "onboard_time": 1758588982,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -3523,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1049343,
+      "num": 931417,
+      "word": "折腰剧粉群解散了",
+      "onboard_time": 1758590180,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1047302,
       "num": 1047302,
       "word": "氢氟酸",
@@ -4187,14 +4203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 931417,
-      "num": 931417,
-      "word": "折腰剧粉群解散了",
-      "onboard_time": 1758590180,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 930525,
       "num": 877097,
       "word": "西贝",
@@ -4489,6 +4497,14 @@
       "onboard_time": 1756653144,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 895180,
+      "num": 895180,
+      "word": "现场人员称蔡国强烟花燃放了4次",
+      "onboard_time": 1758589223,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 894537,
@@ -8075,14 +8091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 601156,
-      "num": 601156,
-      "word": "现场人员称蔡国强烟花燃放了4次",
-      "onboard_time": 1758589223,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 601100,
       "num": 295143,
       "word": "上海1.2级地震",
@@ -10523,6 +10531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487991,
+      "num": 487991,
+      "word": "杜淳妻子说小酒窝是为镜头而生的",
+      "onboard_time": 1758589880,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486960,
       "num": 331102,
       "word": "月饼 饭缩力",
@@ -12401,6 +12417,14 @@
       "onboard_time": 1757825724,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 421761,
+      "num": 486705,
+      "word": "白鹿小声说累死了",
+      "onboard_time": 1758588982,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 421135,
@@ -14339,14 +14363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 366824,
-      "num": 366824,
-      "word": "杜淳妻子说小酒窝是为镜头而生的",
-      "onboard_time": 1758589880,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366761,
       "num": 352649,
       "word": "塞尔维亚阅兵",
@@ -15217,14 +15233,6 @@
       "onboard_time": 1756698440,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343317,
-      "num": 343317,
-      "word": "白鹿小声说累死了",
-      "onboard_time": 1758588982,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 343242,
@@ -17683,6 +17691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 283153,
+      "num": 283153,
+      "word": "宋亚轩晒自己拍的刘耀文",
+      "onboard_time": 1758583699,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283081,
       "num": 283081,
       "word": "孙颖莎说和王楚钦默契不错",
@@ -17721,14 +17737,6 @@
       "onboard_time": 1757907683,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282628,
-      "num": 282628,
-      "word": "宋亚轩晒自己拍的刘耀文",
-      "onboard_time": 1758583699,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 282332,
@@ -17857,6 +17865,14 @@
       "onboard_time": 1757237601,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 279589,
+      "num": 279589,
+      "word": "银价飙涨",
+      "onboard_time": 1758592161,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 279427,
@@ -19377,6 +19393,14 @@
       "onboard_time": 1757720179,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252426,
+      "num": 466885,
+      "word": "法国将在巴勒斯坦设立大使馆",
+      "onboard_time": 1758590302,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252273,
@@ -23179,6 +23203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207839,
+      "num": 207839,
+      "word": "罗永浩反问怕被弄死",
+      "onboard_time": 1758591801,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 207750,
       "num": 207750,
       "word": "雷军正面迎战iPhone",
@@ -24715,6 +24747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198529,
+      "num": 198529,
+      "word": "广州台风",
+      "onboard_time": 1758592401,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198488,
       "num": 215895,
       "word": "邓超 幽闭了扇一巴掌就好了",
@@ -25065,6 +25105,14 @@
       "onboard_time": 1757572922,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196973,
+      "num": 253835,
+      "word": "肖战上场前上场后反差感",
+      "onboard_time": 1758590541,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 196957,
@@ -26793,14 +26841,6 @@
       "onboard_time": 1756784481,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 189179,
-      "num": 189179,
-      "word": "法国将在巴勒斯坦设立大使馆",
-      "onboard_time": 1758590302,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189143,
@@ -43043,14 +43083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129792,
-      "num": 129792,
-      "word": "罗永浩反问怕被弄死",
-      "onboard_time": 1758591801,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 129787,
       "num": 174297,
       "word": "日本历史教科书竟这样教侵华战争",
@@ -46859,14 +46891,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 120491,
-      "num": 144740,
-      "word": "肖战上场前上场后反差感",
-      "onboard_time": 1758590541,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120484,
       "num": 248005,
       "word": "绿捷虾仁炒蛋一周内出具检验结果",
@@ -46929,6 +46953,14 @@
       "onboard_time": 1758541581,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120209,
+      "num": 158590,
+      "word": "张晚意回应没有经纪公司",
+      "onboard_time": 1758592221,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 120201,
@@ -55227,6 +55259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99419,
+      "num": 99419,
+      "word": "刘耀文20岁庆生vlog",
+      "onboard_time": 1758592880,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99362,
       "num": 99362,
       "word": "土耳其女排vs日本女排",
@@ -56395,6 +56435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96234,
+      "num": 96234,
+      "word": "第一批邪修菜谱受益者出现了",
+      "onboard_time": 1758591141,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96212,
       "num": 96212,
       "word": "复旦食堂回应鹅肝汉堡爆火",
@@ -57185,6 +57233,14 @@
       "onboard_time": 1757683349,
       "rank": 29,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 93410,
+      "num": 93410,
+      "word": "萧秋水李沉舟弹幕pk",
+      "onboard_time": 1758592821,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 93407,
@@ -58067,6 +58123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90328,
+      "num": 90328,
+      "word": "属于追星女的面试诀窍",
+      "onboard_time": 1758590481,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90321,
       "num": 438283,
       "word": "港珠澳大桥主桥23日15时起封闭",
@@ -58529,6 +58593,14 @@
       "onboard_time": 1758247940,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88325,
+      "num": 101242,
+      "word": "76个地方总有一个适合你的小长假",
+      "onboard_time": 1758593301,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 88280,
@@ -59881,6 +59953,14 @@
       "onboard_time": 1757150482,
       "rank": 49,
       "category": "财经,运动健身"
+    },
+    {
+      "raw_hot": 83143,
+      "num": 91218,
+      "word": "支付宝首页怎么了",
+      "onboard_time": 1758593301,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 83135,
@@ -70360,6 +70440,14 @@
       "word": "易会满曾称工作如履薄冰",
       "onboard_time": 1757136742,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22324,
+      "num": 1225059,
+      "word": "社交账号不受控制是木马病毒在作祟",
+      "onboard_time": 1758593001,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

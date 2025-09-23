@@ -1,0 +1,410 @@
+{
+  "runTime": 1758593346704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2122627,
+        "num": 2122627,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1892762,
+        "num": 1892762,
+        "word": "深圳五停",
+        "onboard_time": 1758592461,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22324,
+        "num": 1225059,
+        "word": "社交账号不受控制是木马病毒在作祟",
+        "onboard_time": 1758593001,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 895180,
+        "num": 895180,
+        "word": "现场人员称蔡国强烟花燃放了4次",
+        "onboard_time": 1758589223,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716899,
+        "num": 716899,
+        "word": "超强台风桦加沙要来了",
+        "onboard_time": 1758579255,
+        "rank": 4,
+        "category": "民生新闻,国际时政"
+      },
+      {
+        "raw_hot": 581915,
+        "num": 581915,
+        "word": "男生错把自选餐看成自助餐",
+        "onboard_time": 1758584661,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487991,
+        "num": 487991,
+        "word": "杜淳妻子说小酒窝是为镜头而生的",
+        "onboard_time": 1758589880,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421761,
+        "num": 486705,
+        "word": "白鹿小声说累死了",
+        "onboard_time": 1758588982,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264802,
+        "num": 474003,
+        "word": "广州升级台风黄色预警",
+        "onboard_time": 1758550943,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252426,
+        "num": 466885,
+        "word": "法国将在巴勒斯坦设立大使馆",
+        "onboard_time": 1758590302,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1049343,
+        "num": 465939,
+        "word": "折腰剧粉群解散了",
+        "onboard_time": 1758590180,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458927,
+        "num": 458927,
+        "word": "台风",
+        "onboard_time": 1758522681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395920,
+        "num": 395920,
+        "word": "灼灼韶华打破生万物央八年冠纪录",
+        "onboard_time": 1758584720,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324743,
+        "num": 324743,
+        "word": "广东全面进入临战状态",
+        "onboard_time": 1758555202,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310583,
+        "num": 310583,
+        "word": "深圳停工",
+        "onboard_time": 1758531201,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283153,
+        "num": 283153,
+        "word": "宋亚轩晒自己拍的刘耀文",
+        "onboard_time": 1758583699,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279589,
+        "num": 279589,
+        "word": "银价飙涨",
+        "onboard_time": 1758592161,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273465,
+        "num": 273465,
+        "word": "深圳台风",
+        "onboard_time": 1758583519,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196973,
+        "num": 253835,
+        "word": "肖战上场前上场后反差感",
+        "onboard_time": 1758590541,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150530,
+        "num": 245104,
+        "word": "白鹿 接下来的行程挺满的",
+        "onboard_time": 1758584780,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238925,
+        "num": 238925,
+        "word": "新能源烂尾车困扰几百万车主",
+        "onboard_time": 1758585742,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216317,
+        "num": 216317,
+        "word": "最快女护士张水华发文道歉",
+        "onboard_time": 1758550884,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207839,
+        "num": 207839,
+        "word": "罗永浩反问怕被弄死",
+        "onboard_time": 1758591801,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198529,
+        "num": 198529,
+        "word": "广州台风",
+        "onboard_time": 1758592401,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176793,
+        "num": 176793,
+        "word": "福建舰弹射3连",
+        "onboard_time": 1758536781,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168096,
+        "num": 168096,
+        "word": "日本 苹果病",
+        "onboard_time": 1758537081,
+        "rank": 25,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 165189,
+        "num": 165189,
+        "word": "广东全面进入台风防御状态",
+        "onboard_time": 1758556342,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159422,
+        "num": 159422,
+        "word": "秋分",
+        "onboard_time": 1758584599,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120209,
+        "num": 158590,
+        "word": "张晚意回应没有经纪公司",
+        "onboard_time": 1758592221,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114391,
+        "num": 157996,
+        "word": "向往8堪比白月光回国",
+        "onboard_time": 1758549683,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181985,
+        "num": 156902,
+        "word": "臭宝品牌方回应吃出脚趾甲和烟头",
+        "onboard_time": 1758554781,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10686,
+        "num": 155911,
+        "word": "中国战机360度无死角纯帅",
+        "onboard_time": 1758535043,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155291,
+        "num": 155291,
+        "word": "上海家长称学生带饭要营养不良证明",
+        "onboard_time": 1758588621,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127756,
+        "num": 127756,
+        "word": "13岁身高177男孩睡觉前必走流程",
+        "onboard_time": 1758547583,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117681,
+        "num": 117681,
+        "word": "网红迅猛龙训粉",
+        "onboard_time": 1758546083,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112145,
+        "num": 112145,
+        "word": "当老板女儿来公司面试",
+        "onboard_time": 1758587783,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107373,
+        "num": 107373,
+        "word": "深圳天气",
+        "onboard_time": 1758586822,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107206,
+        "num": 107206,
+        "word": "秋与丰收撞个满怀",
+        "onboard_time": 1758588802,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104068,
+        "num": 104068,
+        "word": "美国飞行员大喊美国是大屠杀同谋",
+        "onboard_time": 1758587842,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88325,
+        "num": 101242,
+        "word": "76个地方总有一个适合你的小长假",
+        "onboard_time": 1758593301,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 100414,
+        "num": 100414,
+        "word": "农民种出了空壳花生真的不好笑",
+        "onboard_time": 1758585441,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99419,
+        "num": 99419,
+        "word": "刘耀文20岁庆生vlog",
+        "onboard_time": 1758592880,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96234,
+        "num": 96234,
+        "word": "第一批邪修菜谱受益者出现了",
+        "onboard_time": 1758591141,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93410,
+        "num": 93410,
+        "word": "萧秋水李沉舟弹幕pk",
+        "onboard_time": 1758592821,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83143,
+        "num": 91218,
+        "word": "支付宝首页怎么了",
+        "onboard_time": 1758593301,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91163,
+        "num": 91163,
+        "word": "罗永浩数字人称百度股价因其大涨",
+        "onboard_time": 1758590961,
+        "rank": 45,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 90328,
+        "num": 90328,
+        "word": "属于追星女的面试诀窍",
+        "onboard_time": 1758590481,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89459,
+        "num": 89459,
+        "word": "云秀行",
+        "onboard_time": 1758593301,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88070,
+        "num": 88070,
+        "word": "五彩斑斓的秋正在加载",
+        "onboard_time": 1758588921,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85740,
+        "num": 85740,
+        "word": "台风天抢菜",
+        "onboard_time": 1758589523,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#三农工作在习近平心里分量满满#"
+    }
+  }
+}

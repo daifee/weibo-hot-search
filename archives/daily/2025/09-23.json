@@ -1,13 +1,21 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758592109516,
+  "endTime": 1758593346704,
   "band_list": [
     {
-      "raw_hot": 1479127,
-      "num": 1479127,
+      "raw_hot": 2122627,
+      "num": 2122627,
       "word": "桦加沙登陆地点确认",
       "onboard_time": 1758588982,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1892762,
+      "num": 1892762,
+      "word": "深圳五停",
+      "onboard_time": 1758592461,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -27,7 +35,7 @@
       "category": "民生新闻,国际时政"
     },
     {
-      "raw_hot": 931417,
+      "raw_hot": 1049343,
       "num": 931417,
       "word": "折腰剧粉群解散了",
       "onboard_time": 1758590180,
@@ -40,6 +48,14 @@
       "word": "广东全面进入临战状态",
       "onboard_time": 1758555202,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 895180,
+      "num": 895180,
+      "word": "现场人员称蔡国强烟花燃放了4次",
+      "onboard_time": 1758589223,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -75,16 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 601156,
-      "num": 601156,
-      "word": "现场人员称蔡国强烟花燃放了4次",
-      "onboard_time": 1758589223,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 595593,
-      "num": 142649,
+      "num": 156902,
       "word": "臭宝品牌方回应吃出脚趾甲和烟头",
       "onboard_time": 1758554781,
       "rank": 30,
@@ -99,12 +107,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 487991,
+      "num": 487991,
+      "word": "杜淳妻子说小酒窝是为镜头而生的",
+      "onboard_time": 1758589880,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479516,
       "num": 479516,
       "word": "灼灼韶华打破生万物央八年冠纪录",
       "onboard_time": 1758584720,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421761,
+      "num": 486705,
+      "word": "白鹿小声说累死了",
+      "onboard_time": 1758588982,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 381304,
@@ -123,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366824,
-      "num": 366824,
-      "word": "杜淳妻子说小酒窝是为镜头而生的",
-      "onboard_time": 1758589880,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365791,
       "num": 365791,
       "word": "日本 苹果病",
@@ -139,16 +155,8 @@
       "category": "海外新闻,健康医疗"
     },
     {
-      "raw_hot": 343317,
-      "num": 343317,
-      "word": "白鹿小声说累死了",
-      "onboard_time": 1758588982,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336408,
-      "num": 244504,
+      "num": 310583,
       "word": "深圳停工",
       "onboard_time": 1758531201,
       "rank": 12,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 284875,
-      "num": 284875,
+      "num": 474003,
       "word": "广州升级台风黄色预警",
       "onboard_time": 1758550943,
       "rank": 8,
@@ -195,12 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282628,
-      "num": 282628,
+      "raw_hot": 283153,
+      "num": 283153,
       "word": "宋亚轩晒自己拍的刘耀文",
       "onboard_time": 1758583699,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279589,
+      "num": 279589,
+      "word": "银价飙涨",
+      "onboard_time": 1758592161,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 274184,
@@ -217,6 +233,14 @@
       "onboard_time": 1758584780,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252426,
+      "num": 466885,
+      "word": "法国将在巴勒斯坦设立大使馆",
+      "onboard_time": 1758590302,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240560,
@@ -259,6 +283,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207839,
+      "num": 207839,
+      "word": "罗永浩反问怕被弄死",
+      "onboard_time": 1758591801,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 198529,
+      "num": 198529,
+      "word": "广州台风",
+      "onboard_time": 1758592401,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196973,
+      "num": 253835,
+      "word": "肖战上场前上场后反差感",
+      "onboard_time": 1758590541,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195228,
       "num": 195228,
       "word": "广州23日停课",
@@ -281,14 +329,6 @@
       "onboard_time": 1758549865,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189179,
-      "num": 189179,
-      "word": "法国将在巴勒斯坦设立大使馆",
-      "onboard_time": 1758590302,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 166564,
@@ -411,14 +451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129792,
-      "num": 129792,
-      "word": "罗永浩反问怕被弄死",
-      "onboard_time": 1758591801,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 127199,
       "num": 127199,
       "word": "毛利兰确认参演明年柯南剧场版",
@@ -475,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120491,
-      "num": 144740,
-      "word": "肖战上场前上场后反差感",
-      "onboard_time": 1758590541,
+      "raw_hot": 120209,
+      "num": 158590,
+      "word": "张晚意回应没有经纪公司",
+      "onboard_time": 1758592221,
       "rank": 28,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 119771,
@@ -531,8 +563,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 105993,
-      "num": 105993,
+      "raw_hot": 107373,
+      "num": 107373,
       "word": "深圳天气",
       "onboard_time": 1758586822,
       "rank": 39,
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99419,
+      "num": 99419,
+      "word": "刘耀文20岁庆生vlog",
+      "onboard_time": 1758592880,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97883,
       "num": 89394,
       "word": "米兰时装周",
@@ -585,6 +625,14 @@
       "onboard_time": 1758588921,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96234,
+      "num": 96234,
+      "word": "第一批邪修菜谱受益者出现了",
+      "onboard_time": 1758591141,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 95281,
@@ -611,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93410,
+      "num": 93410,
+      "word": "萧秋水李沉舟弹幕pk",
+      "onboard_time": 1758592821,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91190,
       "num": 97639,
       "word": "欠蔡国庆老师365个道歉",
@@ -627,6 +683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90328,
+      "num": 90328,
+      "word": "属于追星女的面试诀窍",
+      "onboard_time": 1758590481,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 89459,
+      "num": 89459,
+      "word": "云秀行",
+      "onboard_time": 1758593301,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89233,
       "num": 89233,
       "word": "被性侵女高管丈夫不敢看妻子视频",
@@ -641,6 +713,14 @@
       "onboard_time": 1758538582,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88325,
+      "num": 101242,
+      "word": "76个地方总有一个适合你的小长假",
+      "onboard_time": 1758593301,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 88312,
@@ -673,6 +753,14 @@
       "onboard_time": 1758583219,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83143,
+      "num": 91218,
+      "word": "支付宝首页怎么了",
+      "onboard_time": 1758593301,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 82327,
@@ -832,6 +920,14 @@
       "word": "广州1570处应急安置点已准备好",
       "onboard_time": 1758566654,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22324,
+      "num": 1225059,
+      "word": "社交账号不受控制是木马病毒在作祟",
+      "onboard_time": 1758593001,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
