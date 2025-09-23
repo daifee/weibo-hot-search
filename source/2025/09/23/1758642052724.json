@@ -1,0 +1,410 @@
+{
+  "runTime": 1758642052724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2391955,
+        "num": 2391955,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1760709,
+        "num": 1760709,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29672,
+        "num": 915773,
+        "word": "丰收中国",
+        "onboard_time": 1758634463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 820320,
+        "num": 820320,
+        "word": "盒马回应最难吃甜品被台风选出来了",
+        "onboard_time": 1758625042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678987,
+        "num": 678987,
+        "word": "网红罗几因车祸不幸遇难",
+        "onboard_time": 1758633863,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1384057,
+        "num": 648424,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1758634885,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552091,
+        "num": 552091,
+        "word": "台风将至55岁大象无避雨内舍",
+        "onboard_time": 1758641062,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465158,
+        "num": 465158,
+        "word": "广东已紧急转移77万人",
+        "onboard_time": 1758636864,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456410,
+        "num": 456410,
+        "word": "深圳机场飞机五花大绑防台风",
+        "onboard_time": 1758636203,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115803,
+        "num": 438949,
+        "word": "新疆维吾尔自治区成立70周年庆祝活动",
+        "onboard_time": 1758627323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433428,
+        "num": 433428,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389120,
+        "num": 389120,
+        "word": "上海绿捷已被立案侦查",
+        "onboard_time": 1758633743,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356682,
+        "num": 356682,
+        "word": "朝雪录",
+        "onboard_time": 1758628703,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341266,
+        "num": 341266,
+        "word": "不二之臣",
+        "onboard_time": 1758636504,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306460,
+        "num": 306460,
+        "word": "香港一家三口被巨浪卷走",
+        "onboard_time": 1758623302,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274399,
+        "num": 274399,
+        "word": "李一桐米兰偶遇李现",
+        "onboard_time": 1758637404,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260697,
+        "num": 260697,
+        "word": "赴山海是否意味着新武侠剧的没落",
+        "onboard_time": 1758631043,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245971,
+        "num": 245971,
+        "word": "桦加沙路径",
+        "onboard_time": 1758622222,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50299,
+        "num": 242872,
+        "word": "中国星全新东方曜限时价9.37万起",
+        "onboard_time": 1758640044,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36578,
+        "num": 242560,
+        "word": "香港一家三人被巨浪卷走已获救",
+        "onboard_time": 1758641243,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318149,
+        "num": 242476,
+        "word": "范丞丞喝多了",
+        "onboard_time": 1758625643,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242351,
+        "num": 242351,
+        "word": "桦加沙强度",
+        "onboard_time": 1758622160,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236437,
+        "num": 236437,
+        "word": "袁咏仪英国陪儿子读大学",
+        "onboard_time": 1758640583,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235631,
+        "num": 235631,
+        "word": "瑞幸苹果拿铁文案 翻车",
+        "onboard_time": 1758629902,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207149,
+        "num": 207149,
+        "word": "王晓晨否认结婚",
+        "onboard_time": 1758629783,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206224,
+        "num": 206224,
+        "word": "桦加沙降临前深圳现奇异天象",
+        "onboard_time": 1758635543,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200836,
+        "num": 200836,
+        "word": "医院通报CT报告单现不文明用语",
+        "onboard_time": 1758630263,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183615,
+        "num": 183615,
+        "word": "美国警方为特朗普清路拦下马克龙",
+        "onboard_time": 1758639922,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162890,
+        "num": 182625,
+        "word": "刘耀文今天真脱不了",
+        "onboard_time": 1758641243,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72584,
+        "num": 177534,
+        "word": "我国正面临缺驴危机",
+        "onboard_time": 1758641123,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152938,
+        "num": 174092,
+        "word": "上海绿捷道歉",
+        "onboard_time": 1758641305,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682390,
+        "num": 169856,
+        "word": "王扁模仿王源走红疑开多号接受打赏",
+        "onboard_time": 1758634164,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166820,
+        "num": 166820,
+        "word": "香港下水道喷出巨大水柱",
+        "onboard_time": 1758637884,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160409,
+        "num": 160409,
+        "word": "00后表达爱的方式",
+        "onboard_time": 1758637583,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157092,
+        "num": 157092,
+        "word": "台风桦加沙减弱至十六级",
+        "onboard_time": 1758641722,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153234,
+        "num": 153234,
+        "word": "林高远自愿放弃混团世界杯选拔赛",
+        "onboard_time": 1758638063,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149456,
+        "num": 149456,
+        "word": "28岁男子上树被自带绳子缠脖身亡",
+        "onboard_time": 1758621621,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144631,
+        "num": 144631,
+        "word": "成都女孩在巴厘岛疑因食物中毒离世",
+        "onboard_time": 1758639744,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122668,
+        "num": 122668,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1758626541,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118337,
+        "num": 118337,
+        "word": "刘耀文生日直播",
+        "onboard_time": 1758629302,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117433,
+        "num": 117433,
+        "word": "丁泽仁国职考试通过",
+        "onboard_time": 1758629183,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112885,
+        "num": 112885,
+        "word": "迪丽热巴早期神颜视频",
+        "onboard_time": 1758633504,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111947,
+        "num": 111947,
+        "word": "让希林娜依高梳背头的是天才",
+        "onboard_time": 1758638484,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110200,
+        "num": 110200,
+        "word": "珠海工作人员敲锣通知居民撤离",
+        "onboard_time": 1758637224,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108997,
+        "num": 108997,
+        "word": "特朗普称所有孕妇都不该用泰诺止痛",
+        "onboard_time": 1758622402,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106558,
+        "num": 106558,
+        "word": "尚界H5大定",
+        "onboard_time": 1758639264,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103166,
+        "num": 103166,
+        "word": "Yamy帅成什么样了",
+        "onboard_time": 1758638785,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101987,
+        "num": 101987,
+        "word": "桦加沙和山竹谁更强",
+        "onboard_time": 1758638904,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101201,
+        "num": 101201,
+        "word": "UR活动",
+        "onboard_time": 1758640823,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 96840,
+        "num": 96840,
+        "word": "宋亚轩 你的生长痛我后知后觉",
+        "onboard_time": 1758632180,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平率中央代表团抵达乌鲁木齐#"
+    }
+  }
+}

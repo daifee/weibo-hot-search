@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758641195108,
+  "endTime": 1758642052724,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1622480,
-      "num": 598997,
+      "num": 648424,
       "word": "王晓晨 俞灏明",
       "onboard_time": 1758634885,
       "rank": 44,
@@ -963,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 678987,
+      "num": 678987,
+      "word": "网红罗几因车祸不幸遇难",
+      "onboard_time": 1758633863,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 671372,
       "num": 671372,
       "word": "恋综最尴尬的一幕出现了",
@@ -1243,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 568372,
-      "num": 568372,
-      "word": "网红罗几因车祸不幸遇难",
-      "onboard_time": 1758633863,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 566513,
       "num": 566513,
       "word": "决赛圈就剩广州了",
@@ -1305,6 +1305,14 @@
       "onboard_time": 1758616163,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 552091,
+      "num": 552091,
+      "word": "台风将至55岁大象无避雨内舍",
+      "onboard_time": 1758641062,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 551615,
@@ -1571,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465158,
+      "num": 465158,
+      "word": "广东已紧急转移77万人",
+      "onboard_time": 1758636864,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459187,
       "num": 459187,
       "word": "福建舰弹射现场",
@@ -1616,14 +1632,6 @@
       "word": "广州停课",
       "onboard_time": 1758545542,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 448271,
-      "num": 448271,
-      "word": "广东已紧急转移77万人",
-      "onboard_time": 1758636864,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -2691,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242351,
+      "num": 242351,
+      "word": "桦加沙强度",
+      "onboard_time": 1758622160,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240765,
       "num": 284509,
       "word": "邓超到底看没看过甄嬛传",
@@ -2771,19 +2787,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 236437,
+      "num": 236437,
+      "word": "袁咏仪英国陪儿子读大学",
+      "onboard_time": 1758640583,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236183,
       "num": 236183,
       "word": "校方回应大一新生在校意外死亡",
       "onboard_time": 1758516803,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234488,
-      "num": 234488,
-      "word": "台风将至55岁大象无避雨内舍",
-      "onboard_time": 1758641062,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2816,14 +2832,6 @@
       "word": "桦加沙到哪了",
       "onboard_time": 1758549083,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230105,
-      "num": 230105,
-      "word": "桦加沙强度",
-      "onboard_time": 1758622160,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3931,6 +3939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 183615,
+      "num": 279747,
+      "word": "美国警方为特朗普清路拦下马克龙",
+      "onboard_time": 1758639922,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183166,
       "num": 183166,
       "word": "网友称卖水哥卖完就走不看一眼杰伦",
@@ -4627,6 +4643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162890,
+      "num": 182625,
+      "word": "刘耀文今天真脱不了",
+      "onboard_time": 1758641243,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162802,
       "num": 162802,
       "word": "咱们家风扇坏了当事人今日结婚",
@@ -4705,6 +4729,14 @@
       "onboard_time": 1758555860,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160409,
+      "num": 160409,
+      "word": "00后表达爱的方式",
+      "onboard_time": 1758637583,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 160272,
@@ -4875,6 +4907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157092,
+      "num": 157092,
+      "word": "台风桦加沙减弱至十六级",
+      "onboard_time": 1758641722,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157017,
       "num": 157017,
       "word": "王皓儿子和王楚钦隔空pk",
@@ -4961,14 +5001,6 @@
       "onboard_time": 1758524542,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154822,
-      "num": 154822,
-      "word": "00后表达爱的方式",
-      "onboard_time": 1758637583,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 154781,
@@ -5089,6 +5121,14 @@
       "onboard_time": 1758511941,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152938,
+      "num": 174092,
+      "word": "上海绿捷道歉",
+      "onboard_time": 1758641305,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152910,
@@ -5459,6 +5499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144631,
+      "num": 144631,
+      "word": "成都女孩在巴厘岛疑因食物中毒离世",
+      "onboard_time": 1758639744,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144411,
       "num": 144411,
       "word": "雷佳音戴了时代少年团二专手链",
@@ -5761,14 +5809,6 @@
       "onboard_time": 1758450680,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139065,
-      "num": 139065,
-      "word": "成都女孩在巴厘岛疑因食物中毒离世",
-      "onboard_time": 1758639744,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138919,
@@ -6113,14 +6153,6 @@
       "onboard_time": 1758537802,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 131815,
-      "num": 133176,
-      "word": "袁咏仪英国陪儿子读大学",
-      "onboard_time": 1758640583,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 131719,
@@ -7267,14 +7299,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 114758,
-      "num": 279747,
-      "word": "美国警方为特朗普清路拦下马克龙",
-      "onboard_time": 1758639922,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 114752,
       "num": 114752,
       "word": "LPR",
@@ -7705,6 +7729,14 @@
       "onboard_time": 1758357921,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106558,
+      "num": 106558,
+      "word": "尚界H5大定",
+      "onboard_time": 1758639264,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 106365,
@@ -8907,6 +8939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72584,
+      "num": 177534,
+      "word": "我国正面临缺驴危机",
+      "onboard_time": 1758641123,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72283,
       "num": 146532,
       "word": "官网暂查不到烟花秀备案信息",
@@ -9145,14 +9185,6 @@
       "onboard_time": 1758472640,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62688,
-      "num": 133052,
-      "word": "我国正面临缺驴危机",
-      "onboard_time": 1758641123,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62301,
@@ -9945,6 +9977,14 @@
       "onboard_time": 1758632303,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36578,
+      "num": 242560,
+      "word": "香港一家三人被巨浪卷走已获救",
+      "onboard_time": 1758641243,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36274,
