@@ -1,0 +1,410 @@
+{
+  "runTime": 1758617153358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11214668,
+        "num": 11214668,
+        "word": "桦加沙",
+        "onboard_time": 1758596303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1436829,
+        "num": 1436829,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24237,
+        "num": 864546,
+        "word": "致敬耕耘礼赞丰收",
+        "onboard_time": 1758600022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 817281,
+        "num": 817281,
+        "word": "李一桐被磕掉了一颗牙",
+        "onboard_time": 1758612682,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684264,
+        "num": 684264,
+        "word": "桦加沙登陆地点确认",
+        "onboard_time": 1758588982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657467,
+        "num": 657467,
+        "word": "乔欣变美了",
+        "onboard_time": 1758611841,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392348,
+        "num": 392348,
+        "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+        "onboard_time": 1758594261,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278611,
+        "num": 278611,
+        "word": "中国每年吃掉约70亿只白羽肉鸡",
+        "onboard_time": 1758617063,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261110,
+        "num": 261110,
+        "word": "汕尾台风",
+        "onboard_time": 1758613281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240352,
+        "num": 256435,
+        "word": "市场监管总局约谈货拉拉",
+        "onboard_time": 1758616524,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440121,
+        "num": 254928,
+        "word": "好友曝何猷启恋情",
+        "onboard_time": 1758609922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325491,
+        "num": 253817,
+        "word": "台风前夕腾讯把企鹅拴住了",
+        "onboard_time": 1758615442,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 252701,
+        "num": 252701,
+        "word": "广东发布紧急动员令",
+        "onboard_time": 1758608361,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221457,
+        "num": 221457,
+        "word": "广东或遇人类最大台风灾害系谣言",
+        "onboard_time": 1758614362,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189195,
+        "num": 218087,
+        "word": "杨洋 剪彩的正确打开方式",
+        "onboard_time": 1758612260,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50231,
+        "num": 215473,
+        "word": "iQOO15三星屏首发M14发光材料",
+        "onboard_time": 1758614721,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53409,
+        "num": 205202,
+        "word": "吴磊Burberry秀",
+        "onboard_time": 1758614721,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188607,
+        "num": 201389,
+        "word": "张柏芝二儿子15岁近照",
+        "onboard_time": 1758611180,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197818,
+        "num": 197818,
+        "word": "宋轶怎么美成这样了",
+        "onboard_time": 1758616163,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72159,
+        "num": 194366,
+        "word": "樊振东喜欢黎子安的原因找到了",
+        "onboard_time": 1758616524,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193085,
+        "num": 193085,
+        "word": "医院影像科报告单出现骂人脏话",
+        "onboard_time": 1758614602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177735,
+        "num": 177735,
+        "word": "学生偷快递被公示",
+        "onboard_time": 1758611002,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174753,
+        "num": 174753,
+        "word": "iPhone17Pro绿屏",
+        "onboard_time": 1758614123,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172171,
+        "num": 172171,
+        "word": "马伊琍提议改我的前半生结局",
+        "onboard_time": 1758606801,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168619,
+        "num": 168619,
+        "word": "国庆中秋解释一下7加3等于8",
+        "onboard_time": 1758597321,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159605,
+        "num": 159605,
+        "word": "金鸡奖提名名单预测",
+        "onboard_time": 1758613640,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158334,
+        "num": 158334,
+        "word": "杨幂做卷腹好轻松",
+        "onboard_time": 1758605002,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143076,
+        "num": 143076,
+        "word": "新加坡多地现紫色闪电球",
+        "onboard_time": 1758612441,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140713,
+        "num": 140713,
+        "word": "罗永浩晒370元7个现炒热菜",
+        "onboard_time": 1758604822,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22903,
+        "num": 140444,
+        "word": "商场设室内动物园多数动物呆滞",
+        "onboard_time": 1758616401,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140369,
+        "num": 140369,
+        "word": "李乃文以后得了老年痴呆都没人能发现",
+        "onboard_time": 1758612982,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138897,
+        "num": 138897,
+        "word": "台风 广东病",
+        "onboard_time": 1758614482,
+        "rank": 31,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 136838,
+        "num": 136838,
+        "word": "小米17续航",
+        "onboard_time": 1758615623,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129559,
+        "num": 129559,
+        "word": "和平精英",
+        "onboard_time": 1758615381,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129132,
+        "num": 129132,
+        "word": "中传回应贺峻霖进入保研复试名单",
+        "onboard_time": 1758606081,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 126567,
+        "word": "黄金再猛涨",
+        "onboard_time": 1758613461,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124690,
+        "num": 124690,
+        "word": "女生撞死3人家属还威胁死者母亲",
+        "onboard_time": 1758600142,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92580,
+        "num": 122446,
+        "word": "小伙取蜂蛹被自带绳索缠住勒死",
+        "onboard_time": 1758616401,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103564,
+        "num": 122224,
+        "word": "以为是沈腾 抬头是邓超",
+        "onboard_time": 1758616042,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91170,
+        "num": 122090,
+        "word": "去年俊凯还在给这个奖项颁奖",
+        "onboard_time": 1758616042,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122083,
+        "num": 122083,
+        "word": "马嘉祺祝刘耀文有更广阔的世界",
+        "onboard_time": 1758613823,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122046,
+        "num": 122046,
+        "word": "广东人很乐观",
+        "onboard_time": 1758613640,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120147,
+        "num": 120147,
+        "word": "深圳不语只是一味提前砍树",
+        "onboard_time": 1758611421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120721,
+        "num": 117407,
+        "word": "这居然是王安宇",
+        "onboard_time": 1758616762,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111611,
+        "num": 111611,
+        "word": "欧豪不是种地就是在种地路上",
+        "onboard_time": 1758617063,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116747,
+        "num": 110652,
+        "word": "刘耀文严浩翔live合照",
+        "onboard_time": 1758616941,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109672,
+        "num": 109672,
+        "word": "广州喜洋洋乐融融已停工",
+        "onboard_time": 1758616222,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107564,
+        "num": 107564,
+        "word": "任嘉伦剃了寸头",
+        "onboard_time": 1758604883,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107023,
+        "num": 107023,
+        "word": "金饰克价涨到1105元",
+        "onboard_time": 1758610401,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103500,
+        "num": 103500,
+        "word": "呵呵感叹有白鹿的世界真的很美好",
+        "onboard_time": 1758615742,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}

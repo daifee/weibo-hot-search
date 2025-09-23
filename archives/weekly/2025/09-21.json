@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758616379569,
+  "endTime": 1758617153358,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 860223,
-      "num": 577665,
+      "num": 657467,
       "word": "乔欣变美了",
       "onboard_time": 1758611841,
       "rank": 18,
@@ -1819,6 +1819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 325491,
+      "num": 253817,
+      "word": "台风前夕腾讯把企鹅拴住了",
+      "onboard_time": 1758615442,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 321887,
       "num": 321887,
       "word": "白鹿直播",
@@ -2016,6 +2024,14 @@
       "word": "蔡国强曾说不喜欢烟花喜欢的是爆炸",
       "onboard_time": 1758607402,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278611,
+      "num": 278611,
+      "word": "中国每年吃掉约70亿只白羽肉鸡",
+      "onboard_time": 1758617063,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -2369,6 +2385,14 @@
       "onboard_time": 1758425842,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240352,
+      "num": 256435,
+      "word": "市场监管总局约谈货拉拉",
+      "onboard_time": 1758616524,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239631,
@@ -2828,7 +2852,7 @@
     },
     {
       "raw_hot": 205501,
-      "num": 205501,
+      "num": 218087,
       "word": "杨洋 剪彩的正确打开方式",
       "onboard_time": 1758612260,
       "rank": 43,
@@ -2987,6 +3011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197818,
+      "num": 197818,
+      "word": "宋轶怎么美成这样了",
+      "onboard_time": 1758616163,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197674,
       "num": 230799,
       "word": "于正用杨蓉新剧下饭",
@@ -3129,6 +3161,14 @@
       "onboard_time": 1758606801,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193085,
+      "num": 193085,
+      "word": "医院影像科报告单出现骂人脏话",
+      "onboard_time": 1758614602,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193029,
@@ -3377,14 +3417,6 @@
       "onboard_time": 1758417804,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186036,
-      "num": 186036,
-      "word": "台风前夕腾讯把企鹅拴住了",
-      "onboard_time": 1758615442,
-      "rank": 20,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 185714,
@@ -3875,14 +3907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168763,
-      "num": 168763,
-      "word": "医院影像科报告单出现骂人脏话",
-      "onboard_time": 1758614602,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168737,
       "num": 176170,
       "word": "文咏珊角色查重率为0",
@@ -4193,6 +4217,14 @@
       "onboard_time": 1758417862,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159605,
+      "num": 159605,
+      "word": "金鸡奖提名名单预测",
+      "onboard_time": 1758613640,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 159569,
@@ -5059,6 +5091,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 138897,
+      "num": 138897,
+      "word": "台风 广东病",
+      "onboard_time": 1758614482,
+      "rank": 33,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 138872,
       "num": 138872,
       "word": "胃最怕的五件事",
@@ -5113,14 +5153,6 @@
       "onboard_time": 1758516082,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137751,
-      "num": 137751,
-      "word": "台风 广东病",
-      "onboard_time": 1758614482,
-      "rank": 33,
-      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 137613,
@@ -5515,14 +5547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129040,
-      "num": 129040,
-      "word": "宋轶怎么美成这样了",
-      "onboard_time": 1758616163,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 128884,
       "num": 128362,
       "word": "以为闲聊其实是套话的行为",
@@ -5649,6 +5673,14 @@
       "onboard_time": 1758583579,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126567,
+      "num": 126567,
+      "word": "黄金再猛涨",
+      "onboard_time": 1758613461,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 126533,
@@ -5899,6 +5931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122046,
+      "num": 122046,
+      "word": "广东人很乐观",
+      "onboard_time": 1758613640,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122029,
       "num": 122029,
       "word": "外网评论电影731",
@@ -5979,14 +6019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121149,
-      "num": 121149,
-      "word": "金鸡奖提名名单预测",
-      "onboard_time": 1758613640,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 121009,
       "num": 121009,
       "word": "孟佳也做了夏之星造型",
@@ -6009,6 +6041,14 @@
       "onboard_time": 1758463167,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120721,
+      "num": 117407,
+      "word": "这居然是王安宇",
+      "onboard_time": 1758616762,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 120387,
@@ -6201,6 +6241,14 @@
       "onboard_time": 1758537741,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 116747,
+      "num": 110652,
+      "word": "刘耀文严浩翔live合照",
+      "onboard_time": 1758616941,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 116584,
@@ -6449,6 +6497,14 @@
       "onboard_time": 1758522261,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 111611,
+      "num": 111611,
+      "word": "欧豪不是种地就是在种地路上",
+      "onboard_time": 1758617063,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 111145,
@@ -6737,6 +6793,14 @@
       "onboard_time": 1758372083,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103564,
+      "num": 123594,
+      "word": "以为是沈腾 抬头是邓超",
+      "onboard_time": 1758616042,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 103482,
@@ -7115,6 +7179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92580,
+      "num": 122446,
+      "word": "小伙取蜂蛹被自带绳索缠住勒死",
+      "onboard_time": 1758616401,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92430,
       "num": 92430,
       "word": "烟花事件日喀则已成立调查组",
@@ -7177,6 +7249,14 @@
       "onboard_time": 1758436342,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91170,
+      "num": 124778,
+      "word": "去年俊凯还在给这个奖项颁奖",
+      "onboard_time": 1758616042,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 91144,
@@ -7459,14 +7539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81688,
-      "num": 123594,
-      "word": "以为是沈腾 抬头是邓超",
-      "onboard_time": 1758616042,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 81601,
       "num": 81601,
       "word": "自习室最棒的零食",
@@ -7667,6 +7739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72159,
+      "num": 194366,
+      "word": "樊振东喜欢黎子安的原因找到了",
+      "onboard_time": 1758616524,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71901,
       "num": 77339,
       "word": "27的王安宇",
@@ -7684,7 +7764,7 @@
     },
     {
       "raw_hot": 71301,
-      "num": 186375,
+      "num": 215473,
       "word": "iQOO15三星屏首发M14发光材料",
       "onboard_time": 1758614721,
       "rank": 19,
@@ -8115,6 +8195,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 53409,
+      "num": 244366,
+      "word": "吴磊Burberry秀",
+      "onboard_time": 1758614721,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 53370,
       "num": 53370,
       "word": "阿森纳1比1曼城",
@@ -8209,14 +8297,6 @@
       "onboard_time": 1758519381,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48881,
-      "num": 244366,
-      "word": "吴磊Burberry秀",
-      "onboard_time": 1758614721,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 48103,
@@ -8827,14 +8907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26254,
-      "num": 124778,
-      "word": "去年俊凯还在给这个奖项颁奖",
-      "onboard_time": 1758616042,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 26236,
       "num": 160682,
       "word": "美网民组队抢占印度人返美机票",
@@ -8905,6 +8977,14 @@
       "onboard_time": 1758546444,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 22903,
+      "num": 140444,
+      "word": "商场设室内动物园多数动物呆滞",
+      "onboard_time": 1758616401,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22275,
