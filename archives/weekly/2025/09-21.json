@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758610170574,
+  "endTime": 1758612329966,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2338890,
+      "num": 2338890,
+      "word": "桦加沙",
+      "onboard_time": 1758466764,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2189298,
       "num": 1862372,
       "word": "男子嫖娼前猝死家属索赔卖淫女131万",
@@ -80,14 +88,6 @@
       "word": "桦加沙登陆地点确认",
       "onboard_time": 1758588982,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2067356,
-      "num": 2067356,
-      "word": "桦加沙",
-      "onboard_time": 1758466764,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1237252,
+      "num": 1009342,
+      "word": "崔丽丽说被性侵后会陷入强奸迷思",
+      "onboard_time": 1758607402,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1204608,
       "num": 567736,
       "word": "秦雯王家卫录音",
@@ -353,14 +361,6 @@
       "onboard_time": 1758445162,
       "rank": 17,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1009342,
-      "num": 1009342,
-      "word": "崔丽丽说被性侵后会陷入强奸迷思",
-      "onboard_time": 1758607402,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1001978,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 665477,
+      "num": 665477,
+      "word": "马伊琍提议改我的前半生结局",
+      "onboard_time": 1758606801,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 657188,
       "num": 481754,
       "word": "快30了身高从165厘米长到171厘米",
@@ -881,6 +889,14 @@
       "onboard_time": 1758376823,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 651902,
+      "num": 365334,
+      "word": "好友曝何猷启恋情",
+      "onboard_time": 1758609922,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 650712,
@@ -1619,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 374652,
-      "num": 374652,
-      "word": "马伊琍提议改我的前半生结局",
-      "onboard_time": 1758606801,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373128,
       "num": 373128,
       "word": "白鹿看粉丝无人机应援",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1758526762,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 316298,
+      "num": 365346,
+      "word": "崔丽丽夫妇维权近2年基本停工",
+      "onboard_time": 1758611180,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315837,
@@ -2131,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261052,
+      "num": 261052,
+      "word": "乔欣变美了",
+      "onboard_time": 1758611841,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260945,
       "num": 408501,
       "word": "小学乘法因顺序不同被判错引争议",
@@ -2403,6 +2427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226398,
+      "num": 226398,
+      "word": "台风将至深圳为何依旧晴朗",
+      "onboard_time": 1758609022,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226129,
       "num": 226129,
       "word": "中介雇人看房砍价60万搞崩房东心态",
@@ -2505,14 +2537,6 @@
       "onboard_time": 1758512182,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218003,
-      "num": 218003,
-      "word": "台风将至深圳为何依旧晴朗",
-      "onboard_time": 1758609022,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217631,
@@ -3035,6 +3059,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193669,
+      "num": 193669,
+      "word": "决赛圈就剩广州了",
+      "onboard_time": 1758612023,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193664,
+      "num": 193664,
+      "word": "以色列正在遭到反噬",
+      "onboard_time": 1758606801,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 193029,
       "num": 283572,
       "word": "疾风劲草阵容官宣",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1758464966,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186760,
+      "num": 169683,
+      "word": "大爷花1000多买卡宴转账后被拉黑",
+      "onboard_time": 1758607341,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186465,
@@ -3499,6 +3547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177280,
+      "num": 167136,
+      "word": "学生偷快递被公示",
+      "onboard_time": 1758611002,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177016,
       "num": 177016,
       "word": "高质量对谈专治精神内耗",
@@ -3513,6 +3569,14 @@
       "onboard_time": 1758537320,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176459,
+      "num": 176459,
+      "word": "全新问界M7动态评测首发",
+      "onboard_time": 1758611240,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 175992,
@@ -3747,6 +3811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166927,
+      "num": 166927,
+      "word": "才知道你们东北人吃这么好啊",
+      "onboard_time": 1758611961,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166914,
       "num": 166914,
       "word": "明星网红撞到路人的反应",
@@ -3833,6 +3905,14 @@
       "onboard_time": 1758530902,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163886,
+      "num": 163886,
+      "word": "深圳不语只是一味提前砍树",
+      "onboard_time": 1758611421,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163630,
@@ -4121,14 +4201,6 @@
       "onboard_time": 1758602003,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156711,
-      "num": 156711,
-      "word": "大爷花1000多买卡宴转账后被拉黑",
-      "onboard_time": 1758607341,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156488,
@@ -4691,14 +4763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141517,
-      "num": 141517,
-      "word": "好友曝何猷启恋情",
-      "onboard_time": 1758609922,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141185,
       "num": 141185,
       "word": "北京外交学院校庆现超级大佬",
@@ -4721,6 +4785,14 @@
       "onboard_time": 1758555860,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140791,
+      "num": 140791,
+      "word": "金饰克价涨到1105元",
+      "onboard_time": 1758610401,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 140785,
@@ -4843,6 +4915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138570,
+      "num": 179110,
+      "word": "白鹿31岁生日晒照",
+      "onboard_time": 1758610221,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138431,
       "num": 138431,
       "word": "社交最好的状态是落落大方",
@@ -4857,14 +4937,6 @@
       "onboard_time": 1758436701,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138228,
-      "num": 161853,
-      "word": "以色列正在遭到反噬",
-      "onboard_time": 1758606801,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137888,
@@ -4963,6 +5035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135287,
+      "num": 135287,
+      "word": "东莞发布台风红色预警",
+      "onboard_time": 1758611120,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135209,
       "num": 135209,
       "word": "徐明浩这段dancebreak",
@@ -5033,6 +5113,14 @@
       "onboard_time": 1758443722,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133709,
+      "num": 173507,
+      "word": "比伯环抱海莉照",
+      "onboard_time": 1758608541,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 133693,
@@ -5267,6 +5355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128884,
+      "num": 128362,
+      "word": "以为闲聊其实是套话的行为",
+      "onboard_time": 1758609861,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128714,
       "num": 128714,
       "word": "原来小孩找东西在大人眼里这么笨拙",
@@ -5291,12 +5387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128381,
+      "num": 128381,
+      "word": "张柏芝二儿子15岁近照",
+      "onboard_time": 1758611180,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128363,
       "num": 128363,
       "word": "始祖鸟上千元鞋1个月不到就坏了",
       "onboard_time": 1758456262,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128269,
+      "num": 128269,
+      "word": "外协教练盛赞王楚钦",
+      "onboard_time": 1758611903,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 127929,
@@ -5363,12 +5475,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126872,
+      "num": 126872,
+      "word": "iPhone升级iOS26后无法再降级",
+      "onboard_time": 1758612082,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126848,
       "num": 126848,
       "word": "金球奖",
       "onboard_time": 1758583579,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126735,
+      "num": 125359,
+      "word": "雷佳音戴了时代少年团二专手链",
+      "onboard_time": 1758611903,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 126533,
@@ -5505,6 +5633,14 @@
       "onboard_time": 1758453202,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124015,
+      "num": 124015,
+      "word": "刘耀文看似叫兄弟实则把粉丝当公主",
+      "onboard_time": 1758610341,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 123796,
@@ -5707,14 +5843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120978,
-      "num": 120978,
-      "word": "以为闲聊其实是套话的行为",
-      "onboard_time": 1758609861,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120926,
       "num": 120926,
       "word": "蔡国强去年无人机烟花表演未报备",
@@ -5827,6 +5955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118453,
+      "num": 125942,
+      "word": "崔丽丽成职场被性侵女性倾诉树洞",
+      "onboard_time": 1758611720,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117931,
       "num": 117931,
       "word": "亲密关系不该谈七年之痒色变",
@@ -5857,6 +5993,14 @@
       "onboard_time": 1758449961,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117065,
+      "num": 117065,
+      "word": "桃黑黑打瓦马甲掉了",
+      "onboard_time": 1758612201,
+      "rank": 49,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 117051,
@@ -6219,6 +6363,14 @@
       "category": "体育,美妆"
     },
     {
+      "raw_hot": 109969,
+      "num": 173187,
+      "word": "布达拉宫见证冠军风采",
+      "onboard_time": 1758611240,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109928,
       "num": 109928,
       "word": "不建议用大手大脚形容花钱",
@@ -6529,14 +6681,6 @@
       "onboard_time": 1758507560,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100244,
-      "num": 116920,
-      "word": "比伯环抱海莉照",
-      "onboard_time": 1758608541,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 99860,
@@ -7483,6 +7627,14 @@
       "category": "旅游,汽车"
     },
     {
+      "raw_hot": 65307,
+      "num": 269560,
+      "word": "麻辣王子如何一年生产100亿根辣条",
+      "onboard_time": 1758611240,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 65250,
       "num": 135581,
       "word": "檀健次梗好全",
@@ -7716,7 +7868,7 @@
     },
     {
       "raw_hot": 54833,
-      "num": 158321,
+      "num": 171017,
       "word": "孙艺洲说于适给的衣服懂事",
       "onboard_time": 1758609441,
       "rank": 30,
@@ -7851,6 +8003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49702,
+      "num": 282533,
+      "word": "华为ADS4尚界H5抢先体验",
+      "onboard_time": 1758607582,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49079,
       "num": 138248,
       "word": "张柏芝 叫我老公",
@@ -7865,6 +8025,14 @@
       "onboard_time": 1758461782,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 47742,
+      "num": 127366,
+      "word": "杨洋 剪彩的正确打开方式",
+      "onboard_time": 1758612260,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 47674,
@@ -8425,14 +8593,6 @@
       "onboard_time": 1758402673,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28402,
-      "num": 282533,
-      "word": "华为ADS4尚界H5抢先体验",
-      "onboard_time": 1758607582,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 28022,
