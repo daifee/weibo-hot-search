@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/23 16:45:53
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/23 17:27:18
 </p>
 </blockquote>
 <p>
@@ -4407,6 +4407,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%89%8D%E5%A4%95%E8%85%BE%E8%AE%AF%E6%8A%8A%E4%BC%81%E9%B9%85%E6%8B%B4%E4%BD%8F%E4%BA%86%23" target="weibo">
+台风前夕腾讯把企鹅拴住了（热度：787523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B9%E9%98%9F%23" target="weibo">
 反无人机方队（热度：786800）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%88%98%E5%A3%AB%E8%B5%B7%E8%BA%AB%E6%95%AC%E7%A4%BC%E5%9C%BA%E9%9D%A2%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
 老战士起身敬礼场面看哭了（热度：619837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%88%96%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%81%9C%E5%B7%A5%23" target="weibo">
-广东或大范围停工（热度：619657）
 </a>
 </li>
 

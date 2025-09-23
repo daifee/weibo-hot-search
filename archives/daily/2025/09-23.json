@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758617153358,
+  "endTime": 1758619638045,
   "band_list": [
     {
       "raw_hot": 11916363,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787523,
+      "num": 332081,
+      "word": "台风前夕腾讯把企鹅拴住了",
+      "onboard_time": 1758615442,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 730222,
       "num": 730222,
       "word": "男生错把自选餐看成自助餐",
@@ -297,6 +305,14 @@
       "onboard_time": 1758612023,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552728,
+      "num": 552728,
+      "word": "宋轶怎么美成这样了",
+      "onboard_time": 1758616163,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 548901,
@@ -411,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374679,
+      "num": 374679,
+      "word": "香港台风",
+      "onboard_time": 1758617302,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368583,
       "num": 368583,
       "word": "广州伤医事件受伤医生脱离生命危险",
@@ -459,14 +483,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 325491,
-      "num": 253817,
-      "word": "台风前夕腾讯把企鹅拴住了",
-      "onboard_time": 1758615442,
-      "rank": 20,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 316298,
       "num": 365346,
       "word": "崔丽丽夫妇维权近2年基本停工",
@@ -499,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301530,
+      "num": 301530,
+      "word": "台风 广东病",
+      "onboard_time": 1758614482,
+      "rank": 33,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 291418,
       "num": 270861,
       "word": "小米17ProMax屏幕",
       "onboard_time": 1758596784,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 288476,
+      "num": 288476,
+      "word": "医院影像科报告单出现骂人脏话",
+      "onboard_time": 1758614602,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286063,
@@ -540,7 +572,7 @@
     },
     {
       "raw_hot": 278611,
-      "num": 278611,
+      "num": 332475,
       "word": "中国每年吃掉约70亿只白羽肉鸡",
       "onboard_time": 1758617063,
       "rank": 7,
@@ -609,6 +641,22 @@
       "onboard_time": 1758599241,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246873,
+      "num": 246873,
+      "word": "煮鸡蛋忘了关火后诞生的艺术作品",
+      "onboard_time": 1758616462,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 245064,
+      "num": 130747,
+      "word": "中国游客腹痛日本医生见死不救",
+      "onboard_time": 1758617782,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 243607,
@@ -683,11 +731,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218322,
+      "num": 218322,
+      "word": "金鸡奖提名名单预测",
+      "onboard_time": 1758613640,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216836,
       "num": 216836,
       "word": "白家涉赌诈资金超200亿",
       "onboard_time": 1758557301,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215197,
+      "num": 215197,
+      "word": "南京地下室被猜测凶宅房主报警",
+      "onboard_time": 1758617243,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -763,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197818,
-      "num": 197818,
-      "word": "宋轶怎么美成这样了",
-      "onboard_time": 1758616163,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 196973,
       "num": 253835,
       "word": "肖战上场前上场后反差感",
@@ -825,14 +881,6 @@
       "onboard_time": 1758606801,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 193085,
-      "num": 193085,
-      "word": "医院影像科报告单出现骂人脏话",
-      "onboard_time": 1758614602,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192479,
@@ -937,6 +985,14 @@
       "onboard_time": 1758601101,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171873,
+      "num": 171873,
+      "word": "因买不起房一家四口开房车旅居近2年",
+      "onboard_time": 1758617603,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169387,
@@ -1059,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159605,
-      "num": 159605,
-      "word": "金鸡奖提名名单预测",
-      "onboard_time": 1758613640,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159481,
       "num": 159481,
       "word": "秋分",
@@ -1099,12 +1147,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156776,
+      "num": 156776,
+      "word": "李想称iPhone17ProMax太丑",
+      "onboard_time": 1758617902,
+      "rank": 24,
+      "category": "汽车,数码"
+    },
+    {
       "raw_hot": 156590,
       "num": 156590,
       "word": "13岁身高177男孩睡觉前必走流程",
       "onboard_time": 1758547583,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155183,
+      "num": 155183,
+      "word": "咪的脚也是咪",
+      "onboard_time": 1758616642,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 154281,
@@ -1315,20 +1379,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 138897,
-      "num": 138897,
-      "word": "台风 广东病",
-      "onboard_time": 1758614482,
-      "rank": 33,
-      "category": "民生新闻,幽默"
-    },
-    {
       "raw_hot": 138570,
       "num": 179110,
       "word": "白鹿31岁生日晒照",
       "onboard_time": 1758610221,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138301,
+      "num": 138301,
+      "word": "以为是穷凶结果是极饿",
+      "onboard_time": 1758619103,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 136063,
@@ -1419,6 +1483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 127030,
+      "num": 127030,
+      "word": "广州喜洋洋乐融融已停工",
+      "onboard_time": 1758616222,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126848,
       "num": 126848,
       "word": "金球奖",
@@ -1483,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122258,
+      "num": 131515,
+      "word": "两京十五日",
+      "onboard_time": 1758618922,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122046,
       "num": 122046,
       "word": "广东人很乐观",
@@ -1539,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118886,
+      "num": 215473,
+      "word": "iQOO15三星屏首发M14发光材料",
+      "onboard_time": 1758614721,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118808,
       "num": 118808,
       "word": "美国飞行员大喊美国是大屠杀同谋",
@@ -1553,6 +1641,14 @@
       "onboard_time": 1758611720,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117163,
+      "num": 117163,
+      "word": "方博说国乒又多一位世界冠军",
+      "onboard_time": 1758617486,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 117065,
@@ -1595,12 +1691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115501,
-      "num": 115501,
-      "word": "广州喜洋洋乐融融已停工",
-      "onboard_time": 1758616222,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 114244,
+      "num": 120620,
+      "word": "杨幂就让这大雨全部落下",
+      "onboard_time": 1758619401,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 113987,
@@ -1617,6 +1713,14 @@
       "onboard_time": 1758597321,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111745,
+      "num": 111745,
+      "word": "23日夜间深圳风雨最强",
+      "onboard_time": 1758619103,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111611,
@@ -1649,6 +1753,14 @@
       "onboard_time": 1758594441,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110557,
+      "num": 110557,
+      "word": "刘宇宁综艺结束还回家吗",
+      "onboard_time": 1758619343,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 109969,
@@ -1699,12 +1811,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105597,
+      "num": 105597,
+      "word": "指甲有月牙和没月牙的身体差异",
+      "onboard_time": 1758619401,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105453,
+      "num": 122446,
+      "word": "小伙取蜂蛹被自带绳索缠住勒死",
+      "onboard_time": 1758616401,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105061,
       "num": 105061,
       "word": "英伟达总市值逼近4.5万亿美元",
       "onboard_time": 1758598160,
       "rank": 45,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 104230,
+      "num": 104230,
+      "word": "谈恋爱最重要的是谈",
+      "onboard_time": 1758618802,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 104030,
@@ -1857,14 +1993,6 @@
       "onboard_time": 1758592821,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92580,
-      "num": 122446,
-      "word": "小伙取蜂蛹被自带绳索缠住勒死",
-      "onboard_time": 1758616401,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91340,
@@ -2075,14 +2203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 71301,
-      "num": 215473,
-      "word": "iQOO15三星屏首发M14发光材料",
-      "onboard_time": 1758614721,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 70023,
       "num": 125598,
       "word": "BOSS直聘重拳整治涉黄招聘",
@@ -2155,6 +2275,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 59754,
+      "num": 215236,
+      "word": "荣耀Magic8影像迎来井喷式升级",
+      "onboard_time": 1758618382,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 58779,
       "num": 60374,
       "word": "用钉枪射杀邻居男子被鉴定为精神病",
@@ -2219,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50983,
+      "num": 117447,
+      "word": "张家界 鬼秤",
+      "onboard_time": 1758618440,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50816,
       "num": 60301,
       "word": "深圳各大超市正加紧备货",
@@ -2265,6 +2401,14 @@
       "onboard_time": 1758604581,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43002,
+      "num": 117755,
+      "word": "陆毅鲍蕾这段偶像鼻祖听了都脸红",
+      "onboard_time": 1758618440,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 41943,
@@ -2328,6 +2472,14 @@
       "word": "曝蔡国强团队曾被日法拒绝",
       "onboard_time": 1758607822,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32353,
+      "num": 117861,
+      "word": "坠崖小伙阻止救援自己爬回崖顶",
+      "onboard_time": 1758618802,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
