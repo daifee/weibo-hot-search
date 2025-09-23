@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758656208689,
+  "endTime": 1758659292908,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67333,
+      "num": 67333,
+      "word": "17级台风最大持续风速堪比高速列车",
+      "onboard_time": 1758657253,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67265,
       "num": 79488,
       "word": "Yamy帅成什么样了",
@@ -408,6 +416,14 @@
       "word": "新疆维吾尔自治区成立70周年庆祝活动",
       "onboard_time": 1758627323,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52935,
+      "num": 52935,
+      "word": "珠海发布台风红色预警",
+      "onboard_time": 1758653954,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -459,15 +475,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34274,
-      "num": 34274,
-      "word": "珠海发布台风红色预警",
-      "onboard_time": 1758653954,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30400,
+      "raw_hot": 31755,
       "num": 30400,
       "word": "崔丽丽称老板刚被判刑她就被开除",
       "onboard_time": 1758652635,

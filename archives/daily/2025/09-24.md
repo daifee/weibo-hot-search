@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/24 00:31:44 ~ 2025/09/24 03:36:48
+本榜单时间：2025/09/24 00:31:44 ~ 2025/09/24 04:28:12
 </p>
 </blockquote>
 <p>
@@ -285,6 +285,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2317%E7%BA%A7%E5%8F%B0%E9%A3%8E%E6%9C%80%E5%A4%A7%E6%8C%81%E7%BB%AD%E9%A3%8E%E9%80%9F%E5%A0%AA%E6%AF%94%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%23" target="weibo">
+17级台风最大持续风速堪比高速列车（热度：67333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Yamy%E5%B8%85%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7%E4%BA%86%23" target="weibo">
 Yamy帅成什么样了（热度：67265）
 </a>
@@ -317,6 +323,12 @@ Yamy帅成什么样了（热度：67265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4%E5%BA%86%E7%A5%9D%E6%B4%BB%E5%8A%A8%23" target="weibo">
 新疆维吾尔自治区成立70周年庆祝活动（热度：53978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23" target="weibo">
+珠海发布台风红色预警（热度：52935）
 </a>
 </li>
 
@@ -357,14 +369,8 @@ Yamy帅成什么样了（热度：67265）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23" target="weibo">
-珠海发布台风红色预警（热度：34274）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E7%A7%B0%E8%80%81%E6%9D%BF%E5%88%9A%E8%A2%AB%E5%88%A4%E5%88%91%E5%A5%B9%E5%B0%B1%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
-崔丽丽称老板刚被判刑她就被开除（热度：30400）
+崔丽丽称老板刚被判刑她就被开除（热度：31755）
 </a>
 </li>
 
