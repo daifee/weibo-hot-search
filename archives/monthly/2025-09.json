@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758635165111,
+  "endTime": 1758637532141,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4443,6 +4443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 910847,
+      "num": 598997,
+      "word": "王晓晨 俞灏明",
+      "onboard_time": 1758634885,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 910276,
       "num": 910276,
       "word": "夫妻合租房生娃后被赶合理吗",
@@ -5873,6 +5881,14 @@
       "onboard_time": 1756780700,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 791228,
+      "num": 791228,
+      "word": "上海绿捷已被立案侦查",
+      "onboard_time": 1758633743,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 790200,
@@ -8627,14 +8643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 585886,
-      "num": 585886,
-      "word": "上海绿捷已被立案侦查",
-      "onboard_time": 1758633743,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 585598,
       "num": 585598,
       "word": "西贝董事长称骂不过罗永浩",
@@ -11089,6 +11097,14 @@
       "onboard_time": 1757123000,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 478718,
+      "num": 478718,
+      "word": "网红罗几因车祸不幸遇难",
+      "onboard_time": 1758633863,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 478490,
@@ -15395,14 +15411,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 349802,
-      "num": 349802,
-      "word": "网红罗几因车祸不幸遇难",
-      "onboard_time": 1758633863,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 349283,
       "num": 349283,
       "word": "东风五号首任总师说让别人不敢碰我们",
@@ -15592,6 +15600,14 @@
       "word": "卢靖姗挺孕肚健身",
       "onboard_time": 1757049861,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344912,
+      "num": 344912,
+      "word": "王扁模仿王源走红疑开多号接受打赏",
+      "onboard_time": 1758634164,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -17212,7 +17228,7 @@
     },
     {
       "raw_hot": 303529,
-      "num": 303529,
+      "num": 395484,
       "word": "新疆维吾尔自治区成立70周年庆祝活动",
       "onboard_time": 1758627323,
       "rank": 35,
@@ -17600,6 +17616,14 @@
       "word": "台风塔巴将登陆广东沿海",
       "onboard_time": 1757206222,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295642,
+      "num": 386025,
+      "word": "桦加沙降临前深圳现奇异天象",
+      "onboard_time": 1758635543,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -21299,6 +21323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234305,
+      "num": 234305,
+      "word": "广东已紧急转移77万人",
+      "onboard_time": 1758636864,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234162,
       "num": 183985,
       "word": "陈星旭你要喜欢一个本身就很好的人",
@@ -21369,6 +21401,14 @@
       "onboard_time": 1758380723,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 233293,
+      "num": 233293,
+      "word": "桦加沙深圳",
+      "onboard_time": 1758636564,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233271,
@@ -23387,14 +23427,6 @@
       "category": "国内时政,体育"
     },
     {
-      "raw_hot": 211868,
-      "num": 211868,
-      "word": "王扁模仿王源走红疑开多号接受打赏",
-      "onboard_time": 1758634164,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211787,
       "num": 1595315,
       "word": "今晚邀你一起看红月",
@@ -24521,6 +24553,14 @@
       "onboard_time": 1758381683,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203508,
+      "num": 203508,
+      "word": "徐瑛彬王艺迪入选国乒混团阵容",
+      "onboard_time": 1758636744,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 203507,
@@ -27273,6 +27313,14 @@
       "onboard_time": 1758152001,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191037,
+      "num": 191037,
+      "word": "深圳机场飞机五花大绑防台风",
+      "onboard_time": 1758636203,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191036,
@@ -31403,6 +31451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171059,
+      "num": 171059,
+      "word": "问界m7大定",
+      "onboard_time": 1758637224,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171008,
       "num": 171008,
       "word": "中国移动回应eSIM问题",
@@ -32833,6 +32889,14 @@
       "onboard_time": 1758266783,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164816,
+      "num": 171853,
+      "word": "以为是双穿 其实是三穿",
+      "onboard_time": 1758636443,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 164806,
@@ -37304,14 +37368,6 @@
       "word": "章若楠直播",
       "onboard_time": 1757560281,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 149586,
-      "num": 149586,
-      "word": "王晓晨 俞灏明",
-      "onboard_time": 1758634885,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -42369,6 +42425,14 @@
       "onboard_time": 1758166101,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135523,
+      "num": 135523,
+      "word": "屏花绮异志",
+      "onboard_time": 1758637224,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 135504,
@@ -51867,6 +51931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112400,
+      "num": 148543,
+      "word": "李一桐米兰偶遇李现",
+      "onboard_time": 1758637404,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 112396,
       "num": 112396,
       "word": "T1翻盘DK",
@@ -54483,6 +54555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106156,
+      "num": 150935,
+      "word": "为更好的自己努力100天",
+      "onboard_time": 1758637404,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106143,
       "num": 193679,
       "word": "一两元包邮的时代或不复存在",
@@ -55993,6 +56073,14 @@
       "onboard_time": 1757148381,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102511,
+      "num": 152616,
+      "word": "新疆最新宣传片",
+      "onboard_time": 1758636564,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102492,
@@ -58529,6 +58617,14 @@
       "onboard_time": 1757514864,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95943,
+      "num": 202762,
+      "word": "全新问界M7全都是新的",
+      "onboard_time": 1758634524,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 95900,
@@ -61771,14 +61867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84011,
-      "num": 186549,
-      "word": "全新问界M7全都是新的",
-      "onboard_time": 1758634524,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 84001,
       "num": 84001,
       "word": "第一次在飞机上偶遇了彩虹海",
@@ -62809,6 +62897,14 @@
       "onboard_time": 1758275063,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79962,
+      "num": 149828,
+      "word": "昆凌否认怀四胎",
+      "onboard_time": 1758637163,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 79931,
@@ -67147,6 +67243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56174,
+      "num": 171162,
+      "word": "尚界H5搭载华为旗舰8大黑科技",
+      "onboard_time": 1758635603,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 56159,
       "num": 325876,
       "word": "郭艾伦祝韩德君一切顺利",
@@ -71425,6 +71529,14 @@
       "onboard_time": 1757405181,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32142,
+      "num": 149348,
+      "word": "琼东西真的没招了",
+      "onboard_time": 1758637103,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32100,
