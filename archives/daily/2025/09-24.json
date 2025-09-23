@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758669715483,
+  "endTime": 1758670590367,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -43,19 +43,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630584,
+      "num": 316666,
+      "word": "崔丽丽称老板刚被判刑她就被开除",
+      "onboard_time": 1758652635,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613564,
+      "num": 613564,
+      "word": "台风",
+      "onboard_time": 1758669199,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 603939,
       "num": 603939,
       "word": "盒马回应最难吃甜品被台风选出来了",
       "onboard_time": 1758625042,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 578642,
-      "num": 250674,
-      "word": "崔丽丽称老板刚被判刑她就被开除",
-      "onboard_time": 1758652635,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -67,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 517352,
-      "num": 517352,
+      "raw_hot": 546108,
+      "num": 546108,
       "word": "17级台风最大持续风速堪比高速列车",
       "onboard_time": 1758657253,
       "rank": 7,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321922,
+      "num": 321922,
+      "word": "深圳地铁",
+      "onboard_time": 1758669260,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310111,
       "num": 310111,
       "word": "广州全市五停",
@@ -139,11 +155,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250215,
-      "num": 250215,
-      "word": "台风",
-      "onboard_time": 1758669199,
-      "rank": 11,
+      "raw_hot": 245644,
+      "num": 558125,
+      "word": "成都女孩在巴厘岛疑因食物中毒离世",
+      "onboard_time": 1758639744,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -179,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211348,
+      "num": 211348,
+      "word": "白鹿晒随手扎了一个很满意的丸子头",
+      "onboard_time": 1758669260,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208010,
       "num": 208010,
       "word": "桦加沙强度",
@@ -195,27 +219,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205545,
-      "num": 558125,
-      "word": "成都女孩在巴厘岛疑因食物中毒离世",
-      "onboard_time": 1758639744,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197341,
       "num": 197341,
       "word": "桦加沙路径",
       "onboard_time": 1758622222,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191248,
-      "num": 143701,
-      "word": "深圳地铁",
-      "onboard_time": 1758669260,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -251,20 +259,44 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 130282,
-      "num": 130282,
+      "raw_hot": 140601,
+      "num": 140601,
       "word": "医院通报CT报告单现不文明用语",
       "onboard_time": 1758630263,
       "rank": 31,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120956,
-      "num": 162159,
-      "word": "白鹿晒随手扎了一个很满意的丸子头",
+      "raw_hot": 135688,
+      "num": 135688,
+      "word": "iPhone灵动岛正确打开方式",
       "onboard_time": 1758669260,
-      "rank": 17,
-      "category": "艺人"
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 123593,
+      "num": 123593,
+      "word": "小猫大战台风天",
+      "onboard_time": 1758666797,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118676,
+      "num": 118676,
+      "word": "台风天深圳地铁变身暖心避难所",
+      "onboard_time": 1758669260,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113960,
+      "num": 156234,
+      "word": "黄灿灿回应被称为武大校花",
+      "onboard_time": 1758631642,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111287,
@@ -275,16 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109572,
-      "num": 109572,
-      "word": "小猫大战台风天",
-      "onboard_time": 1758666797,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 104642,
-      "num": 104642,
+      "raw_hot": 105977,
+      "num": 105977,
       "word": "特朗普称所有孕妇都不该用泰诺止痛",
       "onboard_time": 1758622402,
       "rank": 41,
@@ -307,20 +331,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96827,
-      "num": 96827,
-      "word": "iPhone灵动岛正确打开方式",
-      "onboard_time": 1758669260,
-      "rank": 32,
-      "category": "数码"
+      "raw_hot": 98978,
+      "num": 152986,
+      "word": "郑恺用11年一雪保鲜膜船前耻",
+      "onboard_time": 1758634704,
+      "rank": 19,
+      "category": "综艺"
     },
     {
-      "raw_hot": 96661,
-      "num": 145461,
-      "word": "黄灿灿回应被称为武大校花",
-      "onboard_time": 1758631642,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 95745,
+      "num": 106225,
+      "word": "等了13年的婚礼等来一句他死了",
+      "onboard_time": 1758630323,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 92404,
@@ -329,14 +353,6 @@
       "onboard_time": 1758621621,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91869,
-      "num": 104761,
-      "word": "等了13年的婚礼等来一句他死了",
-      "onboard_time": 1758630323,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 88187,
@@ -475,11 +491,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57013,
-      "num": 57013,
-      "word": "台风天深圳地铁变身暖心避难所",
-      "onboard_time": 1758669260,
-      "rank": 43,
+      "raw_hot": 58383,
+      "num": 58383,
+      "word": "桦加沙登陆点不一定破坏力最大",
+      "onboard_time": 1758668659,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -515,12 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45712,
+      "num": 250703,
+      "word": "崔丽丽案择期宣判",
+      "onboard_time": 1758668719,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38727,
       "num": 60599,
       "word": "怪不得宋威龙机场都在锻炼",
       "onboard_time": 1758646219,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38095,
+      "num": 102022,
+      "word": "家长贴的标签是小孩解不开的结",
+      "onboard_time": 1758669499,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 37764,
@@ -539,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30949,
-      "num": 250703,
-      "word": "崔丽丽案择期宣判",
-      "onboard_time": 1758668719,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 29490,
+      "num": 993963,
+      "word": "丰收中国",
+      "onboard_time": 1758634463,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28995,
@@ -555,28 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27631,
-      "num": 993963,
-      "word": "丰收中国",
-      "onboard_time": 1758634463,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26418,
       "num": 32298,
       "word": "世卫组织回应特朗普给泰诺定罪",
       "onboard_time": 1758649818,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 23029,
-      "num": 102022,
-      "word": "家长贴的标签是小孩解不开的结",
-      "onboard_time": 1758669499,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 12988,
