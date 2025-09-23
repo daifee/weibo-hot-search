@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758593346704,
+  "endTime": 1758596593313,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -16,6 +16,14 @@
       "word": "官方通报蔡国强烟花秀",
       "onboard_time": 1758411318,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8322304,
+      "num": 8322304,
+      "word": "崔丽丽穿被性侵时衣服出庭",
+      "onboard_time": 1758593480,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -80,6 +88,14 @@
       "word": "深圳五停",
       "onboard_time": 1758592461,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1891711,
+      "num": 1004236,
+      "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+      "onboard_time": 1758594261,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564282,
+      "num": 564282,
+      "word": "可云扮演者辟谣嫌老公丑不生孩子",
+      "onboard_time": 1758594441,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563333,
       "num": 563333,
       "word": "崔丽丽夫妻一直分房睡",
@@ -985,6 +1009,14 @@
       "onboard_time": 1758541282,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546010,
+      "num": 546010,
+      "word": "银价飙涨",
+      "onboard_time": 1758592161,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 545874,
@@ -1115,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494247,
+      "num": 494247,
+      "word": "陈乔恩被求婚那天喝大了",
+      "onboard_time": 1758593961,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493755,
       "num": 445779,
       "word": "宋轶方声明",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1758584720,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477393,
+      "num": 477393,
+      "word": "广州台风",
+      "onboard_time": 1758592401,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 473458,
@@ -1291,6 +1339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404118,
+      "num": 404118,
+      "word": "遇袭医生已做完手术送至ICU",
+      "onboard_time": 1758594562,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403365,
+      "num": 438097,
+      "word": "深圳今天14时起停工停业停市",
+      "onboard_time": 1758595522,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401890,
       "num": 430904,
       "word": "蔡国强称如确影响环境将全力补救",
@@ -1347,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389126,
+      "num": 389126,
+      "word": "A股",
+      "onboard_time": 1758594740,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 385711,
       "num": 290998,
       "word": "台湾大学生被韩国人扇巴掌",
@@ -1360,6 +1432,14 @@
       "word": "被性侵女高管丈夫不敢看妻子视频",
       "onboard_time": 1758535462,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381618,
+      "num": 381618,
+      "word": "桦加沙",
+      "onboard_time": 1758466764,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1684,7 +1764,7 @@
     },
     {
       "raw_hot": 283153,
-      "num": 283153,
+      "num": 344935,
       "word": "宋亚轩晒自己拍的刘耀文",
       "onboard_time": 1758583699,
       "rank": 24,
@@ -1697,14 +1777,6 @@
       "onboard_time": 1758456682,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279589,
-      "num": 279589,
-      "word": "银价飙涨",
-      "onboard_time": 1758592161,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 278422,
@@ -2267,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211711,
+      "num": 211711,
+      "word": "孟子义李昀锐指尖捂嘴路透",
+      "onboard_time": 1758595942,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211388,
       "num": 176951,
       "word": "张子墨伴手礼",
@@ -2537,14 +2617,6 @@
       "onboard_time": 1758514643,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198529,
-      "num": 198529,
-      "word": "广州台风",
-      "onboard_time": 1758592401,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198222,
@@ -2969,6 +3041,14 @@
       "onboard_time": 1758526400,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181797,
+      "num": 308812,
+      "word": "支付宝首页怎么了",
+      "onboard_time": 1758593301,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 181276,
@@ -3491,6 +3571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160272,
+      "num": 160272,
+      "word": "现场还能看到烟花秀的痕迹",
+      "onboard_time": 1758593600,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160243,
       "num": 160243,
       "word": "王楚钦说全运赛场见",
@@ -3792,14 +3880,6 @@
       "word": "贵州一殡仪馆花2亿建成后荒废",
       "onboard_time": 1758440961,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152555,
-      "num": 152555,
-      "word": "桦加沙",
-      "onboard_time": 1758466764,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -4131,6 +4211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141882,
+      "num": 141882,
+      "word": "宋亚轩回应刘耀文无比勇敢帅气的文哥",
+      "onboard_time": 1758594261,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141185,
       "num": 141185,
       "word": "北京外交学院校庆现超级大佬",
@@ -4403,6 +4491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134310,
+      "num": 134310,
+      "word": "陈数 社交为零但是足够幸运",
+      "onboard_time": 1758596122,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133828,
       "num": 146791,
       "word": "看把谢霆锋逼成啥样了",
@@ -4657,6 +4753,14 @@
       "onboard_time": 1758456262,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128247,
+      "num": 128247,
+      "word": "关晓彤出发米兰时装周了",
+      "onboard_time": 1758594981,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127929,
@@ -5195,6 +5299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116995,
+      "num": 116995,
+      "word": "记者探访蔡国强烟花燃放地",
+      "onboard_time": 1758596542,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116901,
       "num": 140995,
       "word": "时代少年团为王俊凯庆生",
@@ -5433,6 +5545,14 @@
       "onboard_time": 1758526642,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111754,
+      "num": 111754,
+      "word": "汤唯张婧仪贴贴",
+      "onboard_time": 1758595702,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 111633,
@@ -5705,6 +5825,14 @@
       "onboard_time": 1758583699,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102187,
+      "num": 102187,
+      "word": "开车后最怕的事情还是出现了",
+      "onboard_time": 1758595522,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 101991,
@@ -6051,6 +6179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91340,
+      "num": 91340,
+      "word": "近万元手表快递被驿站签收后成空盒",
+      "onboard_time": 1758596424,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91335,
       "num": 91335,
       "word": "倪萍在综艺里最被闹腾的一次",
@@ -6115,6 +6251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89606,
+      "num": 91359,
+      "word": "吴邪的私家笔记",
+      "onboard_time": 1758594740,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89490,
       "num": 89490,
       "word": "这个花色最容易开出绝世好猫",
@@ -6140,7 +6284,7 @@
     },
     {
       "raw_hot": 88325,
-      "num": 101242,
+      "num": 145039,
       "word": "76个地方总有一个适合你的小长假",
       "onboard_time": 1758593301,
       "rank": 39,
@@ -6169,6 +6313,14 @@
       "onboard_time": 1758385042,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 87557,
+      "num": 87557,
+      "word": "一起迎接收获的金秋",
+      "onboard_time": 1758588861,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87516,
@@ -6265,14 +6417,6 @@
       "onboard_time": 1758376702,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83143,
-      "num": 91218,
-      "word": "支付宝首页怎么了",
-      "onboard_time": 1758593301,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 83135,
@@ -7195,6 +7339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36598,
+      "num": 1225059,
+      "word": "社交账号不受控制是木马病毒在作祟",
+      "onboard_time": 1758593001,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36274,
       "num": 235757,
       "word": "安踏真的理解重金收购的品牌吗",
@@ -7387,6 +7539,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 29526,
+      "num": 103014,
+      "word": "BOSS直聘重拳整治涉黄招聘",
+      "onboard_time": 1758596482,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 29359,
       "num": 44963,
       "word": "曼联2比1切尔西",
@@ -7521,14 +7681,6 @@
       "onboard_time": 1758546444,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 22324,
-      "num": 1225059,
-      "word": "社交账号不受控制是木马病毒在作祟",
-      "onboard_time": 1758593001,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22275,

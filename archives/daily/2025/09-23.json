@@ -1,7 +1,15 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758593346704,
+  "endTime": 1758596593313,
   "band_list": [
+    {
+      "raw_hot": 8322304,
+      "num": 8322304,
+      "word": "崔丽丽穿被性侵时衣服出庭",
+      "onboard_time": 1758593480,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2122627,
       "num": 2122627,
@@ -16,6 +24,14 @@
       "word": "深圳五停",
       "onboard_time": 1758592461,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1891711,
+      "num": 1004236,
+      "word": "男子嫖娼前猝死家属索赔卖淫女131万",
+      "onboard_time": 1758594261,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -99,12 +115,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564282,
+      "num": 564282,
+      "word": "可云扮演者辟谣嫌老公丑不生孩子",
+      "onboard_time": 1758594441,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 546010,
+      "num": 546010,
+      "word": "银价飙涨",
+      "onboard_time": 1758592161,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 542279,
       "num": 247451,
       "word": "网红迅猛龙训粉",
       "onboard_time": 1758546083,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 494247,
+      "num": 494247,
+      "word": "陈乔恩被求婚那天喝大了",
+      "onboard_time": 1758593961,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 487991,
@@ -123,12 +163,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477393,
+      "num": 477393,
+      "word": "广州台风",
+      "onboard_time": 1758592401,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421761,
       "num": 486705,
       "word": "白鹿小声说累死了",
       "onboard_time": 1758588982,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404118,
+      "num": 404118,
+      "word": "遇袭医生已做完手术送至ICU",
+      "onboard_time": 1758594562,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403365,
+      "num": 438097,
+      "word": "深圳今天14时起停工停业停市",
+      "onboard_time": 1758595522,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389126,
+      "num": 389126,
+      "word": "A股",
+      "onboard_time": 1758594740,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 381618,
+      "num": 381618,
+      "word": "桦加沙",
+      "onboard_time": 1758596303,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381304,
@@ -187,7 +267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284875,
+      "raw_hot": 307695,
       "num": 474003,
       "word": "广州升级台风黄色预警",
       "onboard_time": 1758550943,
@@ -204,19 +284,11 @@
     },
     {
       "raw_hot": 283153,
-      "num": 283153,
+      "num": 344935,
       "word": "宋亚轩晒自己拍的刘耀文",
       "onboard_time": 1758583699,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279589,
-      "num": 279589,
-      "word": "银价飙涨",
-      "onboard_time": 1758592161,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 274184,
@@ -283,20 +355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211711,
+      "num": 211711,
+      "word": "孟子义李昀锐指尖捂嘴路透",
+      "onboard_time": 1758595942,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207839,
       "num": 207839,
       "word": "罗永浩反问怕被弄死",
       "onboard_time": 1758591801,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 198529,
-      "num": 198529,
-      "word": "广州台风",
-      "onboard_time": 1758592401,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196973,
@@ -329,6 +401,14 @@
       "onboard_time": 1758549865,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181797,
+      "num": 308812,
+      "word": "支付宝首页怎么了",
+      "onboard_time": 1758593301,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 166564,
@@ -369,6 +449,14 @@
       "onboard_time": 1758555860,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160272,
+      "num": 160272,
+      "word": "现场还能看到烟花秀的痕迹",
+      "onboard_time": 1758593600,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159481,
@@ -435,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141882,
+      "num": 141882,
+      "word": "宋亚轩回应刘耀文无比勇敢帅气的文哥",
+      "onboard_time": 1758594261,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141018,
       "num": 141018,
       "word": "蕾哈娜官宣生女",
@@ -443,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134310,
+      "num": 134310,
+      "word": "陈数 社交为零但是足够幸运",
+      "onboard_time": 1758596122,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130269,
       "num": 130269,
       "word": "当老板女儿来公司面试",
       "onboard_time": 1758587783,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128247,
+      "num": 128247,
+      "word": "关晓彤出发米兰时装周了",
+      "onboard_time": 1758594981,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127199,
@@ -539,12 +651,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116995,
+      "num": 116995,
+      "word": "记者探访蔡国强烟花燃放地",
+      "onboard_time": 1758596542,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116220,
       "num": 116220,
       "word": "农民种出了空壳花生真的不好笑",
       "onboard_time": 1758585441,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111754,
+      "num": 111754,
+      "word": "汤唯张婧仪贴贴",
+      "onboard_time": 1758595702,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 111136,
@@ -593,6 +721,14 @@
       "onboard_time": 1758583699,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102187,
+      "num": 102187,
+      "word": "开车后最怕的事情还是出现了",
+      "onboard_time": 1758595522,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 99596,
@@ -667,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91340,
+      "num": 91340,
+      "word": "近万元手表快递被驿站签收后成空盒",
+      "onboard_time": 1758596424,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91190,
       "num": 97639,
       "word": "欠蔡国庆老师365个道歉",
@@ -689,6 +833,14 @@
       "onboard_time": 1758590481,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89606,
+      "num": 91359,
+      "word": "吴邪的私家笔记",
+      "onboard_time": 1758594740,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 89459,
@@ -716,7 +868,7 @@
     },
     {
       "raw_hot": 88325,
-      "num": 101242,
+      "num": 145039,
       "word": "76个地方总有一个适合你的小长假",
       "onboard_time": 1758593301,
       "rank": 39,
@@ -739,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87557,
+      "num": 87557,
+      "word": "一起迎接收获的金秋",
+      "onboard_time": 1758588861,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86023,
       "num": 86023,
       "word": "容易紧张 自我客体化",
@@ -753,14 +913,6 @@
       "onboard_time": 1758583219,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83143,
-      "num": 91218,
-      "word": "支付宝首页怎么了",
-      "onboard_time": 1758593301,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 82327,
@@ -883,12 +1035,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36598,
+      "num": 1225059,
+      "word": "社交账号不受控制是木马病毒在作祟",
+      "onboard_time": 1758593001,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35902,
       "num": 49038,
       "word": "深圳宣布明后天停课",
       "onboard_time": 1758530242,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29526,
+      "num": 103014,
+      "word": "BOSS直聘重拳整治涉黄招聘",
+      "onboard_time": 1758596482,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 29273,
@@ -920,14 +1088,6 @@
       "word": "广州1570处应急安置点已准备好",
       "onboard_time": 1758566654,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22324,
-      "num": 1225059,
-      "word": "社交账号不受控制是木马病毒在作祟",
-      "onboard_time": 1758593001,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

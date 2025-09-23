@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/23 10:09:06
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/23 11:03:13
 </p>
 </blockquote>
 <p>
@@ -1215,6 +1215,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E7%A9%BF%E8%A2%AB%E6%80%A7%E4%BE%B5%E6%97%B6%E8%A1%A3%E6%9C%8D%E5%87%BA%E5%BA%AD%23" target="weibo">
+崔丽丽穿被性侵时衣服出庭（热度：8322304）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%9B%B4%E6%92%AD%23" target="weibo">
 阅兵直播（热度：8300117）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%87%AA%E8%BF%B0%E5%89%83%E5%A4%B4%E8%BF%87%E7%A8%8B%23" target="weibo">
 演员王星在飞机上自述剃头过程（热度：4591252）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%BA%A7%E4%BD%8D%E5%9B%BE%23" target="weibo">
-微博之夜座位图（热度：4577904）
 </a>
 </li>
 

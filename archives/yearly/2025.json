@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1758593346704,
+  "endTime": 1758596593313,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1603,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8322304,
+      "num": 8322304,
+      "word": "崔丽丽穿被性侵时衣服出庭",
+      "onboard_time": 1758593480,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8300117,
       "num": 8300117,
       "word": "阅兵直播",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736315062,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4577904,
-      "num": 4577904,
-      "word": "微博之夜座位图",
-      "onboard_time": 1736582603,
-      "rank": 1,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
