@@ -1,6 +1,6 @@
 {
   "startTime": 1758558759515,
-  "endTime": 1758601786821,
+  "endTime": 1758602581701,
   "band_list": [
     {
       "raw_hot": 11125410,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2653530,
-      "num": 400815,
+      "raw_hot": 2869059,
+      "num": 440314,
       "word": "始祖鸟蔡国强 撒谎",
       "onboard_time": 1758598882,
       "rank": 29,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 894707,
+      "num": 696793,
+      "word": "国庆中秋解释一下7加3等于8",
+      "onboard_time": 1758597321,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 888578,
       "num": 250070,
       "word": "喜马拉雅炸山事已涉嫌违法",
@@ -121,14 +129,6 @@
       "onboard_time": 1758584661,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 696793,
-      "num": 696793,
-      "word": "国庆中秋解释一下7加3等于8",
-      "onboard_time": 1758597321,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 659280,
@@ -163,12 +163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 580505,
+      "raw_hot": 591737,
       "num": 580505,
       "word": "给祝绪丹梳背头的人是天才",
       "onboard_time": 1758599122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561932,
+      "num": 561932,
+      "word": "广州人台风天都不买的菜",
+      "onboard_time": 1758600382,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 542279,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484397,
+      "num": 484397,
+      "word": "老人称发现亡妻存折起诉银行索要60万",
+      "onboard_time": 1758600980,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479516,
       "num": 479516,
       "word": "灼灼韶华打破生万物央八年冠纪录",
@@ -211,16 +227,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 446204,
-      "num": 389256,
-      "word": "广州人台风天都不买的菜",
-      "onboard_time": 1758600382,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 430262,
-      "num": 430262,
+      "raw_hot": 440416,
+      "num": 440416,
       "word": "被性侵女高管和丈夫大学异地恋四年",
       "onboard_time": 1758597862,
       "rank": 15,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 331656,
-      "num": 331656,
+      "num": 403236,
       "word": "崔丽丽起诉前公司赔偿200万",
       "onboard_time": 1758599842,
       "rank": 15,
@@ -363,20 +371,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278116,
-      "num": 278116,
-      "word": "老人称发现亡妻存折起诉银行索要60万",
-      "onboard_time": 1758600980,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274184,
       "num": 274184,
       "word": "陈紫函自曝因长期分居婚姻亮红灯",
       "onboard_time": 1758524781,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259365,
+      "num": 259365,
+      "word": "北大好宠王楚钦",
+      "onboard_time": 1758601043,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 257216,
+      "num": 274105,
+      "word": "崔丽丽称做梦总找被性侵时弄丢的鞋",
+      "onboard_time": 1758598402,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256741,
@@ -387,12 +403,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254221,
+      "num": 254221,
+      "word": "女生撞死3人家属还威胁死者母亲",
+      "onboard_time": 1758600142,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252426,
       "num": 466885,
       "word": "法国将在巴勒斯坦设立大使馆",
       "onboard_time": 1758590302,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 252030,
+      "num": 252030,
+      "word": "内娱首个减法综艺来了",
+      "onboard_time": 1758601462,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250291,
+      "num": 250291,
+      "word": "268万翡翠错标26.8万卖",
+      "onboard_time": 1758599241,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240560,
@@ -411,7 +451,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 222560,
+      "raw_hot": 238173,
       "num": 282272,
       "word": "乔杉妻子莫丹官宣三胎得子",
       "onboard_time": 1758598522,
@@ -424,14 +464,6 @@
       "word": "台风桦加沙最新消息汇总",
       "onboard_time": 1758558559,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218079,
-      "num": 218079,
-      "word": "268万翡翠错标26.8万卖",
-      "onboard_time": 1758599241,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -467,28 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209712,
+      "num": 216257,
+      "word": "孟子义尚公主垂耳兔造型",
+      "onboard_time": 1758599182,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207839,
       "num": 207839,
       "word": "罗永浩反问怕被弄死",
       "onboard_time": 1758591801,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 207371,
-      "num": 207371,
-      "word": "女生撞死3人家属还威胁死者母亲",
-      "onboard_time": 1758600142,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201668,
-      "num": 201668,
-      "word": "孟子义尚公主垂耳兔造型",
-      "onboard_time": 1758599182,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 196973,
@@ -539,14 +563,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 193117,
-      "num": 193117,
-      "word": "北大好宠王楚钦",
-      "onboard_time": 1758601043,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191906,
       "num": 191906,
       "word": "白百何工作室 明天没更新就是下岗了",
@@ -563,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186140,
-      "num": 186140,
-      "word": "内娱首个减法综艺来了",
-      "onboard_time": 1758601462,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182528,
       "num": 182528,
       "word": "开车后最怕的事情还是出现了",
@@ -579,12 +587,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179196,
-      "num": 274105,
-      "word": "崔丽丽称做梦总找被性侵时弄丢的鞋",
-      "onboard_time": 1758598402,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 175992,
+      "num": 215708,
+      "word": "以色列总理称未来一年摧毁伊朗轴心",
+      "onboard_time": 1758601101,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166564,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161118,
+      "num": 161118,
+      "word": "A股芯片股逆势走强",
+      "onboard_time": 1758602244,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161107,
       "num": 161107,
       "word": "张峻豪跳angel真的不是ai吗",
@@ -651,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159803,
-      "num": 159803,
-      "word": "以色列总理称未来一年摧毁伊朗轴心",
-      "onboard_time": 1758601101,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 159481,
       "num": 159481,
       "word": "秋分",
@@ -667,12 +675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159429,
+      "num": 157233,
+      "word": "檀健次拉人中cos吴彦祖",
+      "onboard_time": 1758602183,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158440,
       "num": 158440,
       "word": "日本观众看完电影731后情绪崩溃",
       "onboard_time": 1758538762,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157002,
+      "num": 157002,
+      "word": "广东人的倔强 泡面只剩下香辣牛肉面",
+      "onboard_time": 1758602003,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 156590,
@@ -689,6 +713,14 @@
       "onboard_time": 1758558499,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153730,
+      "num": 153730,
+      "word": "云南旅游跌停",
+      "onboard_time": 1758602063,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 152381,
@@ -777,6 +809,14 @@
       "onboard_time": 1758598103,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134019,
+      "num": 159918,
+      "word": "龚俊这集我在迪丽热巴那看过",
+      "onboard_time": 1758602363,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 133175,
@@ -915,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112141,
+      "num": 257261,
+      "word": "邓为和天然钻石的适配度",
+      "onboard_time": 1758600442,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111136,
       "num": 111136,
       "word": "10月1号将出现的六批人",
@@ -947,12 +995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105712,
+      "num": 160744,
+      "word": "崔丽丽称躯体化反应严重",
+      "onboard_time": 1758600082,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105061,
       "num": 105061,
       "word": "英伟达总市值逼近4.5万亿美元",
       "onboard_time": 1758598160,
       "rank": 45,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 104030,
+      "num": 160713,
+      "word": "新郎被绑梯子上泼酱油和啤酒",
+      "onboard_time": 1758601522,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103990,
@@ -993,14 +1057,6 @@
       "onboard_time": 1758600142,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99697,
-      "num": 160744,
-      "word": "崔丽丽称躯体化反应严重",
-      "onboard_time": 1758600082,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99596,
@@ -1057,14 +1113,6 @@
       "onboard_time": 1758588201,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95212,
-      "num": 160713,
-      "word": "新郎被绑梯子上泼酱油和啤酒",
-      "onboard_time": 1758601522,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94303,
@@ -1251,14 +1299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70921,
-      "num": 251745,
-      "word": "邓为和天然钻石的适配度",
-      "onboard_time": 1758600442,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70023,
       "num": 125598,
       "word": "BOSS直聘重拳整治涉黄招聘",
@@ -1347,12 +1387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47087,
+      "raw_hot": 50413,
       "num": 259560,
       "word": "杨幂高智感的代名词",
       "onboard_time": 1758600442,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45964,
+      "num": 158835,
+      "word": "女高管被性侵追偿案未当庭宣判",
+      "onboard_time": 1758602543,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41943,
@@ -1379,6 +1427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35467,
+      "num": 214219,
+      "word": "今年来全球风王桦加沙将直扑广东",
+      "onboard_time": 1758601884,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29856,
+      "num": 257308,
+      "word": "实时追踪超强台风桦加沙",
+      "onboard_time": 1758601943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29273,
       "num": 985712,
       "word": "中国战机360度无死角纯帅",
@@ -1396,7 +1460,7 @@
     },
     {
       "raw_hot": 28003,
-      "num": 381744,
+      "num": 436423,
       "word": "与成毅一起奔赴自然",
       "onboard_time": 1758600442,
       "rank": 13,
@@ -1416,6 +1480,14 @@
       "word": "广州1570处应急安置点已准备好",
       "onboard_time": 1758566654,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23758,
+      "num": 1302343,
+      "word": "2025北京文化论坛",
+      "onboard_time": 1758599122,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1457,14 +1529,6 @@
       "onboard_time": 1758573973,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5838,
-      "num": 1302343,
-      "word": "2025北京文化论坛",
-      "onboard_time": 1758599122,
-      "rank": 4,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

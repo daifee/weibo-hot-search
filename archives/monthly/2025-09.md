@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/23 12:29:46
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/23 12:43:01
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@ iPhone17系列价格（热度：3052336）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%94%A1%E5%9B%BD%E5%BC%BA%20%E6%92%92%E8%B0%8E%23" target="weibo">
+始祖鸟蔡国强 撒谎（热度：2869059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%20%E9%B9%BF%E6%99%97%23" target="weibo">
 李晨 鹿晗（热度：2834395）
 </a>
@@ -443,12 +449,6 @@ iPhone17系列价格（热度：3052336）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8D%8A%E5%A4%9C%E5%96%9D%E9%85%92%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 关晓彤半夜喝酒发朋友圈（热度：2676475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%94%A1%E5%9B%BD%E5%BC%BA%20%E6%92%92%E8%B0%8E%23" target="weibo">
-始祖鸟蔡国强 撒谎（热度：2653530）
 </a>
 </li>
 
@@ -3417,6 +3417,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%AD%E7%A7%8B%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B7%E5%8A%A03%E7%AD%89%E4%BA%8E8%23" target="weibo">
+国庆中秋解释一下7加3等于8（热度：894707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E4%B8%BA%E6%BB%A1%E6%B4%B2%E4%BA%8B%E5%8F%98%23" target="weibo">
 日本称九一八事变为满洲事变（热度：894537）
 </a>
@@ -5105,12 +5111,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%92%8C%E8%AE%B0%E8%80%85%E8%AF%B4%E6%88%91%E8%B7%9F%E4%BD%A0%E4%B8%80%E6%A0%B7%E5%85%B4%E5%A5%8B%23" target="weibo">
 华春莹和记者说我跟你一样兴奋（热度：697110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%AD%E7%A7%8B%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B7%E5%8A%A03%E7%AD%89%E4%BA%8E8%23" target="weibo">
-国庆中秋解释一下7加3等于8（热度：696793）
 </a>
 </li>
 
