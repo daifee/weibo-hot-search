@@ -1,18 +1,18 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758731555436,
+  "endTime": 1758732430449,
   "band_list": [
     {
       "raw_hot": 1266005,
-      "num": 505794,
+      "num": 682734,
       "word": "猫耳 广播剧下架",
       "onboard_time": 1758725483,
       "rank": 3,
       "category": "动漫"
     },
     {
-      "raw_hot": 1034056,
-      "num": 1034056,
+      "raw_hot": 1086499,
+      "num": 1086499,
       "word": "俞孔坚在巴西坠机遇难",
       "onboard_time": 1758720563,
       "rank": 0,
@@ -28,27 +28,35 @@
     },
     {
       "raw_hot": 698996,
-      "num": 504794,
+      "num": 679802,
       "word": "许我耀眼",
       "onboard_time": 1758720743,
       "rank": 4,
       "category": "剧集"
     },
     {
-      "raw_hot": 600262,
-      "num": 600262,
+      "raw_hot": 686471,
+      "num": 686471,
+      "word": "俞孔坚坠亡前最后记录的影像曝光",
+      "onboard_time": 1758729141,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608745,
+      "num": 608745,
       "word": "桦加沙登陆广东",
       "onboard_time": 1758706102,
       "rank": 1,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 494048,
-      "num": 494048,
-      "word": "俞孔坚坠亡前最后记录的影像曝光",
-      "onboard_time": 1758729141,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 483940,
+      "num": 483940,
+      "word": "雷军",
+      "onboard_time": 1758729862,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 471003,
@@ -107,8 +115,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274578,
-      "num": 274578,
+      "raw_hot": 276420,
+      "num": 276420,
       "word": "垫底辣孩回应丑出圈",
       "onboard_time": 1758718763,
       "rank": 15,
@@ -131,12 +139,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 236102,
-      "num": 236102,
-      "word": "雷军",
-      "onboard_time": 1758729862,
-      "rank": 18,
-      "category": "互联网"
+      "raw_hot": 240878,
+      "num": 388377,
+      "word": "刺杀特朗普未遂男子当庭试图自杀",
+      "onboard_time": 1758726743,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 221348,
@@ -155,6 +163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205769,
+      "num": 241889,
+      "word": "王源周深又在微博音乐盛典闯祸了",
+      "onboard_time": 1758730700,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194055,
       "num": 194055,
       "word": "刘亦菲和两位年轻男子聚餐",
@@ -163,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186361,
-      "num": 146950,
-      "word": "王源周深又在微博音乐盛典闯祸了",
-      "onboard_time": 1758730700,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 190146,
+      "num": 240885,
+      "word": "张维伊的表情",
+      "onboard_time": 1758730101,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 169709,
@@ -187,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145511,
-      "num": 145511,
-      "word": "张维伊的表情",
-      "onboard_time": 1758730101,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134401,
       "num": 134401,
       "word": "刘宇宁戴佩妮十指紧扣",
@@ -209,6 +217,14 @@
       "onboard_time": 1758706582,
       "rank": 27,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 108097,
+      "num": 108097,
+      "word": "钦州五停",
+      "onboard_time": 1758729801,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107025,
@@ -243,28 +259,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 104109,
-      "num": 104109,
-      "word": "钦州五停",
-      "onboard_time": 1758729801,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103542,
       "num": 103542,
       "word": "台湾花莲溃坝惨案",
       "onboard_time": 1758716422,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101099,
-      "num": 388377,
-      "word": "刺杀特朗普未遂男子当庭试图自杀",
-      "onboard_time": 1758726743,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99761,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 90184,
-      "num": 90184,
+      "num": 105949,
       "word": "网红敖其尔去世",
       "onboard_time": 1758714502,
       "rank": 38,
@@ -339,8 +339,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 74665,
-      "num": 74665,
+      "raw_hot": 75623,
+      "num": 75623,
       "word": "张艺兴发言格局",
       "onboard_time": 1758728782,
       "rank": 43,
@@ -395,8 +395,40 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3153,
-      "num": 509299,
+      "raw_hot": 69711,
+      "num": 69711,
+      "word": "檀健次目黑莲同框合照",
+      "onboard_time": 1758731779,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64781,
+      "num": 64781,
+      "word": "刘雨昕 偷偷藏不住",
+      "onboard_time": 1758727403,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 57956,
+      "num": 57956,
+      "word": "戴向宇回应不爱陈紫函",
+      "onboard_time": 1758707183,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43381,
+      "num": 323607,
+      "word": "已经很期待国庆假期了",
+      "onboard_time": 1758731659,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3199,
+      "num": 682945,
       "word": "一首歌祝福新疆",
       "onboard_time": 1758719181,
       "rank": 2,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#完整准确全面贯彻新时代党的治疆方略#"
+    },
+    {
+      "word": "#新疆70年辉煌成就#"
     }
   ]
 }

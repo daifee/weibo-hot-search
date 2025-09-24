@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 00:32:35
+本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 00:47:10
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E5%AD%94%E5%9D%9A%E5%9C%A8%E5%B7%B4%E8%A5%BF%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-俞孔坚在巴西坠机遇难（热度：1034056）
+俞孔坚在巴西坠机遇难（热度：1086499）
 </a>
 </li>
 
@@ -39,14 +39,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23" target="weibo">
-桦加沙登陆广东（热度：600262）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E5%AD%94%E5%9D%9A%E5%9D%A0%E4%BA%A1%E5%89%8D%E6%9C%80%E5%90%8E%E8%AE%B0%E5%BD%95%E7%9A%84%E5%BD%B1%E5%83%8F%E6%9B%9D%E5%85%89%23" target="weibo">
+俞孔坚坠亡前最后记录的影像曝光（热度：686471）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E5%AD%94%E5%9D%9A%E5%9D%A0%E4%BA%A1%E5%89%8D%E6%9C%80%E5%90%8E%E8%AE%B0%E5%BD%95%E7%9A%84%E5%BD%B1%E5%83%8F%E6%9B%9D%E5%85%89%23" target="weibo">
-俞孔坚坠亡前最后记录的影像曝光（热度：494048）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23" target="weibo">
+桦加沙登陆广东（热度：608745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%23" target="weibo">
+雷军（热度：483940）
 </a>
 </li>
 
@@ -94,7 +100,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%E5%9B%9E%E5%BA%94%E4%B8%91%E5%87%BA%E5%9C%88%23" target="weibo">
-垫底辣孩回应丑出圈（热度：274578）
+垫底辣孩回应丑出圈（热度：276420）
 </a>
 </li>
 
@@ -111,8 +117,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%23" target="weibo">
-雷军（热度：236102）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E9%81%82%E7%94%B7%E5%AD%90%E5%BD%93%E5%BA%AD%E8%AF%95%E5%9B%BE%E8%87%AA%E6%9D%80%23" target="weibo">
+刺杀特朗普未遂男子当庭试图自杀（热度：240878）
 </a>
 </li>
 
@@ -129,14 +135,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%91%A8%E6%B7%B1%E5%8F%88%E5%9C%A8%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E9%97%AF%E7%A5%B8%E4%BA%86%23" target="weibo">
+王源周深又在微博音乐盛典闯祸了（热度：205769）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%92%8C%E4%B8%A4%E4%BD%8D%E5%B9%B4%E8%BD%BB%E7%94%B7%E5%AD%90%E8%81%9A%E9%A4%90%23" target="weibo">
 刘亦菲和两位年轻男子聚餐（热度：194055）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%91%A8%E6%B7%B1%E5%8F%88%E5%9C%A8%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E9%97%AF%E7%A5%B8%E4%BA%86%23" target="weibo">
-王源周深又在微博音乐盛典闯祸了（热度：186361）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
+张维伊的表情（热度：190146）
 </a>
 </li>
 
@@ -153,12 +165,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
-张维伊的表情（热度：145511）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%88%B4%E4%BD%A9%E5%A6%AE%E5%8D%81%E6%8C%87%E7%B4%A7%E6%89%A3%23" target="weibo">
 刘宇宁戴佩妮十指紧扣（热度：134401）
 </a>
@@ -167,6 +173,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E9%A3%8E%E5%8A%9B13%E7%BA%A7%23" target="weibo">
 桦加沙登陆风力13级（热度：113933）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%A6%E5%B7%9E%E4%BA%94%E5%81%9C%23" target="weibo">
+钦州五停（热度：108097）
 </a>
 </li>
 
@@ -195,20 +207,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%A6%E5%B7%9E%E4%BA%94%E5%81%9C%23" target="weibo">
-钦州五停（热度：104109）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E6%BA%83%E5%9D%9D%E6%83%A8%E6%A1%88%23" target="weibo">
 台湾花莲溃坝惨案（热度：103542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E9%81%82%E7%94%B7%E5%AD%90%E5%BD%93%E5%BA%AD%E8%AF%95%E5%9B%BE%E8%87%AA%E6%9D%80%23" target="weibo">
-刺杀特朗普未遂男子当庭试图自杀（热度：101099）
 </a>
 </li>
 
@@ -268,7 +268,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%8F%91%E8%A8%80%E6%A0%BC%E5%B1%80%23" target="weibo">
-张艺兴发言格局（热度：74665）
+张艺兴发言格局（热度：75623）
 </a>
 </li>
 
@@ -309,8 +309,32 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%AE%E9%BB%91%E8%8E%B2%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7%23" target="weibo">
+檀健次目黑莲同框合照（热度：69711）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%20%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23" target="weibo">
+刘雨昕 偷偷藏不住（热度：64781）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%90%91%E5%AE%87%E5%9B%9E%E5%BA%94%E4%B8%8D%E7%88%B1%E9%99%88%E7%B4%AB%E5%87%BD%23" target="weibo">
+戴向宇回应不爱陈紫函（热度：57956）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E5%BE%88%E6%9C%9F%E5%BE%85%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E4%BA%86%23" target="weibo">
+已经很期待国庆假期了（热度：43381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A6%96%E6%AD%8C%E7%A5%9D%E7%A6%8F%E6%96%B0%E7%96%86%23" target="weibo">
-一首歌祝福新疆（热度：3153）
+一首歌祝福新疆（热度：3199）
 </a>
 </li>
 
@@ -323,6 +347,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%AE%8C%E6%95%B4%E5%87%86%E7%A1%AE%E5%85%A8%E9%9D%A2%E8%B4%AF%E5%BD%BB%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5%23%23" target="weibo">
 #完整准确全面贯彻新时代党的治疆方略#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E7%96%8670%E5%B9%B4%E8%BE%89%E7%85%8C%E6%88%90%E5%B0%B1%23%23" target="weibo">
+#新疆70年辉煌成就#
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758731555436,
+  "endTime": 1758732430449,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -1363,6 +1363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 686471,
+      "num": 686471,
+      "word": "俞孔坚坠亡前最后记录的影像曝光",
+      "onboard_time": 1758729141,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 682820,
       "num": 682820,
       "word": "恋与深空",
@@ -2027,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 494048,
-      "num": 494048,
-      "word": "俞孔坚坠亡前最后记录的影像曝光",
-      "onboard_time": 1758729141,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 493755,
       "num": 445779,
       "word": "宋轶方声明",
@@ -2113,6 +2113,14 @@
       "onboard_time": 1758527963,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483940,
+      "num": 483940,
+      "word": "雷军",
+      "onboard_time": 1758729862,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 479516,
@@ -3763,6 +3771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240878,
+      "num": 388377,
+      "word": "刺杀特朗普未遂男子当庭试图自杀",
+      "onboard_time": 1758726743,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 240765,
       "num": 284509,
       "word": "邓超到底看没看过甄嬛传",
@@ -3865,14 +3881,6 @@
       "onboard_time": 1758516803,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236102,
-      "num": 236102,
-      "word": "雷军",
-      "onboard_time": 1758729862,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 234622,
@@ -4507,6 +4515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205769,
+      "num": 241889,
+      "word": "王源周深又在微博音乐盛典闯祸了",
+      "onboard_time": 1758730700,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205501,
       "num": 218087,
       "word": "杨洋 剪彩的正确打开方式",
@@ -5107,6 +5123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190146,
+      "num": 240885,
+      "word": "张维伊的表情",
+      "onboard_time": 1758730101,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190113,
       "num": 190113,
       "word": "何猷君奚梦瑶儿子长大就冯程朗这样",
@@ -5321,14 +5345,6 @@
       "onboard_time": 1758600623,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186361,
-      "num": 146950,
-      "word": "王源周深又在微博音乐盛典闯祸了",
-      "onboard_time": 1758730700,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 186336,
@@ -7505,14 +7521,6 @@
       "onboard_time": 1758724702,
       "rank": 44,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 145511,
-      "num": 145511,
-      "word": "张维伊的表情",
-      "onboard_time": 1758730101,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 145488,
@@ -10323,6 +10331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108097,
+      "num": 108097,
+      "word": "钦州五停",
+      "onboard_time": 1758729801,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107373,
       "num": 107373,
       "word": "深圳天气",
@@ -10571,14 +10587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104109,
-      "num": 104109,
-      "word": "钦州五停",
-      "onboard_time": 1758729801,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104030,
       "num": 160713,
       "word": "新郎被绑梯子上泼酱油和啤酒",
@@ -10617,14 +10625,6 @@
       "onboard_time": 1758505702,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103214,
-      "num": 388377,
-      "word": "刺杀特朗普未遂男子当庭试图自杀",
-      "onboard_time": 1758726743,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102641,
@@ -11779,6 +11779,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 75623,
+      "num": 75623,
+      "word": "张艺兴发言格局",
+      "onboard_time": 1758728782,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 75556,
       "num": 129783,
       "word": "74岁老人隐瞒病史身亡旅行社赔10.6万",
@@ -11793,14 +11801,6 @@
       "onboard_time": 1758431121,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74665,
-      "num": 74665,
-      "word": "张艺兴发言格局",
-      "onboard_time": 1758728782,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 74221,
@@ -11969,6 +11969,14 @@
       "onboard_time": 1758374964,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69711,
+      "num": 69711,
+      "word": "檀健次目黑莲同框合照",
+      "onboard_time": 1758731779,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 69277,
@@ -12992,6 +13000,14 @@
       "word": "飞机到底应不应该锁座",
       "onboard_time": 1758481034,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43381,
+      "num": 323607,
+      "word": "已经很期待国庆假期了",
+      "onboard_time": 1758731659,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
