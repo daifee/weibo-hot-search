@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758742592444,
+  "endTime": 1758745703345,
   "band_list": [
     {
       "raw_hot": 1266005,
@@ -427,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62668,
+      "num": 62668,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 57956,
       "num": 57956,
       "word": "戴向宇回应不爱陈紫函",
@@ -515,12 +523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22230,
-      "num": 57552,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
+      "raw_hot": 22189,
+      "num": 22189,
+      "word": "这一刻远亲不如近邻具象化了",
+      "onboard_time": 1758730640,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 21671,
+      "num": 23633,
+      "word": "续面事件老板称会为错误买单",
+      "onboard_time": 1758742394,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19593,
@@ -539,19 +555,27 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 17748,
-      "num": 17748,
-      "word": "这一刻远亲不如近邻具象化了",
-      "onboard_time": 1758730640,
-      "rank": 44,
-      "category": "正能量"
+      "raw_hot": 15303,
+      "num": 15303,
+      "word": "外交部说日方应深刻反省历史罪责",
+      "onboard_time": 1758743594,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 10867,
-      "num": 23633,
-      "word": "续面事件老板称会为错误买单",
-      "onboard_time": 1758742394,
-      "rank": 27,
+      "raw_hot": 12728,
+      "num": 15301,
+      "word": "刘宇年度人气歌手",
+      "onboard_time": 1758736396,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 11949,
+      "num": 52474,
+      "word": "台湾民众拍下洪水冲毁桥面瞬间",
+      "onboard_time": 1758744854,
+      "rank": 9,
       "category": "民生新闻"
     },
     {

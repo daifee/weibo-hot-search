@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 03:36:32
+本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 04:28:23
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
+广东大部分被台风桦加沙覆盖（热度：62668）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%90%91%E5%AE%87%E5%9B%9E%E5%BA%94%E4%B8%8D%E7%88%B1%E9%99%88%E7%B4%AB%E5%87%BD%23" target="weibo">
 戴向宇回应不爱陈紫函（热度：57956）
 </a>
@@ -399,8 +405,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
-广东大部分被台风桦加沙覆盖（热度：22230）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E8%BF%9C%E4%BA%B2%E4%B8%8D%E5%A6%82%E8%BF%91%E9%82%BB%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
+这一刻远亲不如近邻具象化了（热度：22189）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E7%A7%B0%E4%BC%9A%E4%B8%BA%E9%94%99%E8%AF%AF%E4%B9%B0%E5%8D%95%23" target="weibo">
+续面事件老板称会为错误买单（热度：21671）
 </a>
 </li>
 
@@ -417,14 +429,20 @@ TFBOYS宣传王俊凯平遥电影展（热度：19593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E8%BF%9C%E4%BA%B2%E4%B8%8D%E5%A6%82%E8%BF%91%E9%82%BB%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
-这一刻远亲不如近邻具象化了（热度：17748）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%AF%B4%E6%97%A5%E6%96%B9%E5%BA%94%E6%B7%B1%E5%88%BB%E5%8F%8D%E7%9C%81%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%B4%A3%23" target="weibo">
+外交部说日方应深刻反省历史罪责（热度：15303）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E7%A7%B0%E4%BC%9A%E4%B8%BA%E9%94%99%E8%AF%AF%E4%B9%B0%E5%8D%95%23" target="weibo">
-续面事件老板称会为错误买单（热度：10867）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%B9%B4%E5%BA%A6%E4%BA%BA%E6%B0%94%E6%AD%8C%E6%89%8B%23" target="weibo">
+刘宇年度人气歌手（热度：12728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E6%8B%8D%E4%B8%8B%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%AF%81%E6%A1%A5%E9%9D%A2%E7%9E%AC%E9%97%B4%23" target="weibo">
+台湾民众拍下洪水冲毁桥面瞬间（热度：11949）
 </a>
 </li>
 
