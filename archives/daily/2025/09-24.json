@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758689001682,
+  "endTime": 1758691431379,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -59,11 +59,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1016726,
+      "num": 480970,
+      "word": "杨幂 不必心疼我们",
+      "onboard_time": 1758689425,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1015366,
       "num": 1015366,
       "word": "桦加沙",
       "onboard_time": 1758596303,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 977633,
+      "num": 977633,
+      "word": "香港一酒店玻璃冲爆有人被冲走",
+      "onboard_time": 1758688403,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -81,6 +97,14 @@
       "onboard_time": 1758680660,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 888473,
+      "num": 414426,
+      "word": "特朗普称中国空气糟糕",
+      "onboard_time": 1758689904,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 878926,
@@ -267,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467741,
+      "num": 467741,
+      "word": "榴莲味月饼一块0.6元含真果肉20元",
+      "onboard_time": 1758686602,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436163,
       "num": 436163,
       "word": "迪丽热巴剪彩怕彩头掉地上",
@@ -291,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416348,
+      "num": 416348,
+      "word": "男子茅台镇投8亿建厂遭强行接管",
+      "onboard_time": 1758689544,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410710,
       "num": 467133,
       "word": "深圳继续五停",
@@ -313,14 +353,6 @@
       "onboard_time": 1758682641,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 373084,
-      "num": 454496,
-      "word": "榴莲味月饼一块0.6元含真果肉20元",
-      "onboard_time": 1758686602,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 361998,
@@ -379,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 298902,
-      "num": 298902,
-      "word": "香港一酒店玻璃冲爆有人被冲走",
-      "onboard_time": 1758688403,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 285921,
       "num": 285921,
       "word": "王者荣耀",
@@ -400,6 +424,14 @@
       "word": "白鹿晒随手扎了一个很满意的丸子头",
       "onboard_time": 1758669260,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 278313,
+      "num": 278313,
+      "word": "王家卫 古二",
+      "onboard_time": 1758689244,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -507,12 +539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220986,
+      "num": 272962,
+      "word": "歌手欧豪杀回来了",
+      "onboard_time": 1758689003,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220317,
       "num": 220317,
       "word": "朝雪录",
       "onboard_time": 1758628703,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219826,
+      "num": 219826,
+      "word": "王者罗小黑战记张良皮肤",
+      "onboard_time": 1758689904,
+      "rank": 31,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 218343,
@@ -571,6 +619,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202837,
+      "num": 261661,
+      "word": "杨幂胳膊迟早被陈哲远打肿",
+      "onboard_time": 1758690203,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201172,
+      "num": 201172,
+      "word": "榴莲月饼",
+      "onboard_time": 1758690623,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198568,
       "num": 249386,
       "word": "小米17Pro逆光之王",
@@ -601,6 +665,14 @@
       "onboard_time": 1758687983,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194373,
+      "num": 194373,
+      "word": "桃黑黑 恋爱怎么会和谁谈都一样呢",
+      "onboard_time": 1758690444,
+      "rank": 33,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 192089,
@@ -651,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182567,
+      "num": 182567,
+      "word": "中国宣布涉世贸组织谈判重要决定",
+      "onboard_time": 1758690623,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180205,
       "num": 180205,
       "word": "我国正面临缺驴危机",
@@ -691,6 +771,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167900,
+      "num": 167900,
+      "word": "现实版的直树和裕树",
+      "onboard_time": 1758688883,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 165267,
+      "num": 165267,
+      "word": "被台风桦加沙吹过的深圳路面",
+      "onboard_time": 1758689123,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161704,
       "num": 161704,
       "word": "醉酒女撞死人车主反问我是预言家吗",
@@ -721,6 +817,14 @@
       "onboard_time": 1758682942,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154735,
+      "num": 154735,
+      "word": "令人心动的offer",
+      "onboard_time": 1758690982,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 152526,
@@ -772,7 +876,7 @@
     },
     {
       "raw_hot": 145465,
-      "num": 145465,
+      "num": 228177,
       "word": "米兰街头偶遇关晓彤",
       "onboard_time": 1758687862,
       "rank": 49,
@@ -859,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138183,
+      "num": 138183,
+      "word": "台湾台风遇难者多为住一楼老人",
+      "onboard_time": 1758689723,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136411,
       "num": 136411,
       "word": "广东店主回应400一天租重卡防台风",
@@ -873,6 +985,14 @@
       "onboard_time": 1758681321,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131284,
+      "num": 131284,
+      "word": "孙颖莎中国大满贯海报",
+      "onboard_time": 1758691103,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130897,
@@ -929,6 +1049,14 @@
       "onboard_time": 1758669260,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118373,
+      "num": 169390,
+      "word": "方媛挺孕肚做瑜伽",
+      "onboard_time": 1758690444,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 117506,
@@ -993,6 +1121,14 @@
       "onboard_time": 1758673701,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106906,
+      "num": 223307,
+      "word": "栓车栓牛是假的栓Q栓飞机是真的",
+      "onboard_time": 1758690082,
+      "rank": 29,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 106658,
@@ -1299,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48727,
+      "num": 479181,
+      "word": "王曼昱的战术秘诀",
+      "onboard_time": 1758686722,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48395,
       "num": 280792,
       "word": "尚界H5动态评测首发",
@@ -1315,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45743,
+      "num": 285840,
+      "word": "多家媒体关注的飞猪公开课是什么",
+      "onboard_time": 1758689544,
+      "rank": 19,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 45712,
       "num": 250703,
       "word": "崔丽丽案择期宣判",
@@ -1329,6 +1481,14 @@
       "onboard_time": 1758684682,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40630,
+      "num": 171195,
+      "word": "特朗普爱泼斯坦牵手雕像亮相白宫外",
+      "onboard_time": 1758691223,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38727,
@@ -1361,14 +1521,6 @@
       "onboard_time": 1758646278,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36195,
-      "num": 479181,
-      "word": "王曼昱的战术秘诀",
-      "onboard_time": 1758686722,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 33693,
@@ -1409,6 +1561,14 @@
       "onboard_time": 1758636324,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28573,
+      "num": 169334,
+      "word": "李云鹏吐槽短剧亲密戏尺度",
+      "onboard_time": 1758691223,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 26418,
