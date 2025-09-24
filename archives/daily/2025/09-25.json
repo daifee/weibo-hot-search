@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758741667378,
+  "endTime": 1758742592444,
   "band_list": [
     {
       "raw_hot": 1266005,
@@ -435,8 +435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43049,
-      "num": 43049,
+      "raw_hot": 52964,
+      "num": 52964,
       "word": "田曦薇让粉丝从树上下来",
       "onboard_time": 1758738254,
       "rank": 38,
@@ -515,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22230,
+      "num": 57552,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 19593,
       "num": 30517,
       "word": "TFBOYS宣传王俊凯平遥电影展",
@@ -531,20 +539,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 17511,
-      "num": 17511,
+      "raw_hot": 17748,
+      "num": 17748,
       "word": "这一刻远亲不如近邻具象化了",
       "onboard_time": 1758730640,
       "rank": 44,
       "category": "正能量"
     },
     {
-      "raw_hot": 11556,
-      "num": 57552,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
+      "raw_hot": 10867,
+      "num": 23633,
+      "word": "续面事件老板称会为错误买单",
+      "onboard_time": 1758742394,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3199,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 03:21:07
+本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 03:36:32
 </p>
 </blockquote>
 <p>
@@ -340,7 +340,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%AE%A9%E7%B2%89%E4%B8%9D%E4%BB%8E%E6%A0%91%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
-田曦薇让粉丝从树上下来（热度：43049）
+田曦薇让粉丝从树上下来（热度：52964）
 </a>
 </li>
 
@@ -399,6 +399,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
+广东大部分被台风桦加沙覆盖（热度：22230）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%AE%A3%E4%BC%A0%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B9%B3%E9%81%A5%E7%94%B5%E5%BD%B1%E5%B1%95%23" target="weibo">
 TFBOYS宣传王俊凯平遥电影展（热度：19593）
 </a>
@@ -412,13 +418,13 @@ TFBOYS宣传王俊凯平遥电影展（热度：19593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E8%BF%9C%E4%BA%B2%E4%B8%8D%E5%A6%82%E8%BF%91%E9%82%BB%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
-这一刻远亲不如近邻具象化了（热度：17511）
+这一刻远亲不如近邻具象化了（热度：17748）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
-广东大部分被台风桦加沙覆盖（热度：11556）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E7%A7%B0%E4%BC%9A%E4%B8%BA%E9%94%99%E8%AF%AF%E4%B9%B0%E5%8D%95%23" target="weibo">
+续面事件老板称会为错误买单（热度：10867）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 03:21:07
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 03:36:32
 </p>
 </blockquote>
 <p>
@@ -9477,6 +9477,12 @@ Burberry秀汤唯（热度：52981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%AE%A9%E7%B2%89%E4%B8%9D%E4%BB%8E%E6%A0%91%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
+田曦薇让粉丝从树上下来（热度：52964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23" target="weibo">
 珠海发布台风红色预警（热度：52935）
 </a>
@@ -9791,12 +9797,6 @@ Red感谢制作人张艺兴（热度：47542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%B1%AA%E6%96%B9%E5%9B%9E%E5%BA%94%E6%8B%96%E9%9E%8B%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E6%98%AF%E5%87%BA%E4%BA%8E%E7%8E%AF%E4%BF%9D%23" target="weibo">
 万豪方回应拖鞋重复使用是出于环保（热度：43143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%AE%A9%E7%B2%89%E4%B8%9D%E4%BB%8E%E6%A0%91%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
-田曦薇让粉丝从树上下来（热度：43049）
 </a>
 </li>
 
@@ -10503,6 +10503,12 @@ Demna带你重新认识GUCCI（热度：24011）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
+广东大部分被台风桦加沙覆盖（热度：22230）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0F1%E8%B5%9B%E4%BA%8B%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%BA%94%E5%AF%B9%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E8%B4%9F%E8%B4%A3%23" target="weibo">
 律师称F1赛事主办方应对被打女孩负责（热度：22208）
 </a>
@@ -10594,7 +10600,7 @@ Knight有我就有冠军（热度：18611）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E8%BF%9C%E4%BA%B2%E4%B8%8D%E5%A6%82%E8%BF%91%E9%82%BB%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
-这一刻远亲不如近邻具象化了（热度：17511）
+这一刻远亲不如近邻具象化了（热度：17748）
 </a>
 </li>
 
@@ -10671,12 +10677,6 @@ Knight有我就有冠军（热度：18611）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
-广东大部分被台风桦加沙覆盖（热度：11556）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E5%AF%BC%E6%BC%94%E4%B9%9F%E6%83%A6%E8%AE%B0%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E9%AD%94%E6%80%A7%E7%AC%91%E5%A3%B0%23" target="weibo">
 震耳欲聋导演也惦记檀健次的魔性笑声（热度：11501）
 </a>
@@ -10691,6 +10691,12 @@ Knight有我就有冠军（热度：18611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E8%87%AA%E6%9B%9D%E5%BE%92%E6%89%8B%E6%8A%93%E5%B0%8F%E5%81%B7%23" target="weibo">
 李一桐自曝徒手抓小偷（热度：11073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E7%A7%B0%E4%BC%9A%E4%B8%BA%E9%94%99%E8%AF%AF%E4%B9%B0%E5%8D%95%23" target="weibo">
+续面事件老板称会为错误买单（热度：10867）
 </a>
 </li>
 
