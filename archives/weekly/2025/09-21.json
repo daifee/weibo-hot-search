@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758698751981,
+  "endTime": 1758699525004,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1027706,
+      "num": 1027706,
+      "word": "学信网 自动回复诡异",
+      "onboard_time": 1758694763,
+      "rank": 16,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1014050,
       "num": 1162248,
       "word": "顾客称吃日料在三文鱼上发现活蛆",
@@ -569,14 +577,6 @@
       "onboard_time": 1758597321,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 953122,
-      "num": 953122,
-      "word": "学信网 自动回复诡异",
-      "onboard_time": 1758694763,
-      "rank": 16,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 944814,
@@ -2051,12 +2051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412734,
+      "num": 412734,
+      "word": "0713 抢票",
+      "onboard_time": 1758695722,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 410710,
       "num": 467133,
       "word": "深圳继续五停",
       "onboard_time": 1758677121,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407741,
+      "num": 407741,
+      "word": "官方通报8亿茅台镇建厂遭强行接管",
+      "onboard_time": 1758696442,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 406283,
@@ -2315,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354743,
+      "num": 354743,
+      "word": "潘玮柏吃到被导演紧急叫停",
+      "onboard_time": 1758696022,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352376,
       "num": 352376,
       "word": "张继科点评男乒最强正反手",
@@ -2417,6 +2441,14 @@
       "onboard_time": 1758383123,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327698,
+      "num": 327698,
+      "word": "李浩129万票当选班长",
+      "onboard_time": 1758694043,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 327453,
@@ -2715,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284325,
+      "num": 284325,
+      "word": "考研",
+      "onboard_time": 1758699024,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 284297,
       "num": 284297,
       "word": "白鹿晒随手扎了一个很满意的丸子头",
@@ -2753,6 +2793,14 @@
       "onboard_time": 1758607402,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279734,
+      "num": 279734,
+      "word": "2026考研报名",
+      "onboard_time": 1758698842,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 279127,
@@ -3019,14 +3067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256228,
-      "num": 384282,
-      "word": "官方通报8亿茅台镇建厂遭强行接管",
-      "onboard_time": 1758696442,
-      "rank": 48,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 254383,
       "num": 254383,
       "word": "iG冒泡赛",
@@ -3041,14 +3081,6 @@
       "onboard_time": 1758648677,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253273,
-      "num": 253273,
-      "word": "潘玮柏吃到被导演紧急叫停",
-      "onboard_time": 1758696022,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 252426,
@@ -3075,28 +3107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251506,
-      "num": 251506,
-      "word": "李浩129万票当选班长",
-      "onboard_time": 1758694043,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251368,
       "num": 242566,
       "word": "旺旺冻痴 虚假宣传",
       "onboard_time": 1758517523,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250878,
-      "num": 250878,
-      "word": "0713 抢票",
-      "onboard_time": 1758695722,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 250291,
@@ -3369,6 +3385,14 @@
       "onboard_time": 1758413661,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226342,
+      "num": 226342,
+      "word": "台风一夜放倒深圳174棵树",
+      "onboard_time": 1758698842,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226129,
@@ -4147,12 +4171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195569,
+      "num": 195569,
+      "word": "胡杏儿一回港剧就不恋爱脑了",
+      "onboard_time": 1758698961,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195317,
       "num": 195317,
       "word": "金靖奔着不做饭找的老公",
       "onboard_time": 1758513262,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195279,
+      "num": 195279,
+      "word": "TOP 不去大湾区电影音乐晚会",
+      "onboard_time": 1758698362,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 194868,
@@ -4851,6 +4891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179233,
+      "num": 179233,
+      "word": "iPhone17Promini首曝",
+      "onboard_time": 1758698903,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178915,
       "num": 225284,
       "word": "喜人奇妙夜2喜人阵容",
@@ -4897,6 +4945,14 @@
       "onboard_time": 1758466945,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177897,
+      "num": 177897,
+      "word": "房东的猫从20套礼服中选了这2套",
+      "onboard_time": 1758697642,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 177830,
@@ -5187,6 +5243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169284,
+      "num": 169284,
+      "word": "考研时间表",
+      "onboard_time": 1758699442,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168959,
       "num": 168959,
       "word": "香港下水道喷出巨大水柱",
@@ -5224,6 +5288,14 @@
       "word": "马嘉祺祝刘耀文有更广阔的世界",
       "onboard_time": 1758613823,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168620,
+      "num": 172870,
+      "word": "对展轩身高193有了实感",
+      "onboard_time": 1758696142,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -5659,14 +5731,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 159289,
-      "num": 159289,
-      "word": "TOP 不去大湾区电影音乐晚会",
-      "onboard_time": 1758698362,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159246,
       "num": 159246,
       "word": "波兰宣布重新开放与白俄罗斯边境口岸",
@@ -5971,14 +6035,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 152628,
-      "num": 152628,
-      "word": "房东的猫从20套礼服中选了这2套",
-      "onboard_time": 1758697642,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 152526,
       "num": 152526,
       "word": "又给邓超演爽了",
@@ -6171,14 +6227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149086,
-      "num": 172870,
-      "word": "对展轩身高193有了实感",
-      "onboard_time": 1758696142,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148774,
       "num": 181982,
       "word": "中企回应在非洲遭800亿美元天价索赔",
@@ -6225,6 +6273,14 @@
       "onboard_time": 1758445162,
       "rank": 29,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 148457,
+      "num": 148457,
+      "word": "关晓彤 留子是一种感觉",
+      "onboard_time": 1758699382,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 148292,
@@ -6316,7 +6372,7 @@
     },
     {
       "raw_hot": 147163,
-      "num": 147163,
+      "num": 151544,
       "word": "不怕富二代花钱就怕富二代创业",
       "onboard_time": 1758698542,
       "rank": 34,
@@ -6947,6 +7003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136425,
+      "num": 136425,
+      "word": "神二十航天员第四次出舱",
+      "onboard_time": 1758699502,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136411,
       "num": 136411,
       "word": "广东店主回应400一天租重卡防台风",
@@ -7545,6 +7609,14 @@
       "onboard_time": 1758468204,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127659,
+      "num": 127659,
+      "word": "台风为何见到广州就绕道",
+      "onboard_time": 1758699442,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127365,
@@ -8257,6 +8329,14 @@
       "onboard_time": 1758449961,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117276,
+      "num": 288610,
+      "word": "桦加沙降至强台风级",
+      "onboard_time": 1758698782,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117163,
@@ -9771,6 +9851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88950,
+      "num": 265891,
+      "word": "邓为生而不凡注定瞩目",
+      "onboard_time": 1758697462,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88375,
       "num": 212831,
       "word": "网曝不良商家边咒骂边往外卖里吐口水",
@@ -10219,14 +10307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73402,
-      "num": 192500,
-      "word": "邓为生而不凡注定瞩目",
-      "onboard_time": 1758697462,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 72975,
       "num": 164383,
       "word": "iPhone17系列充电时疑漏电",
@@ -10307,6 +10387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70684,
+      "num": 150593,
+      "word": "台湾一16吨重军车被洪水冲走",
+      "onboard_time": 1758697343,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70023,
       "num": 125598,
       "word": "BOSS直聘重拳整治涉黄招聘",
@@ -10329,14 +10417,6 @@
       "onboard_time": 1758375685,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 68785,
-      "num": 131224,
-      "word": "台湾一16吨重军车被洪水冲走",
-      "onboard_time": 1758697343,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68632,

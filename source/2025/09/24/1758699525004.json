@@ -1,0 +1,410 @@
+{
+  "runTime": 1758699525004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266892,
+        "num": 1266892,
+        "word": "珠海被要求撤离高层住户发声",
+        "onboard_time": 1758692122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027706,
+        "num": 1027706,
+        "word": "学信网 自动回复诡异",
+        "onboard_time": 1758694763,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 29416,
+        "num": 893805,
+        "word": "收到台风预警信息后该怎么做",
+        "onboard_time": 1758686422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810491,
+        "num": 810491,
+        "word": "桦加沙将于24日下午到夜间登陆",
+        "onboard_time": 1758691943,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603647,
+        "num": 603647,
+        "word": "澳门海水已涌入内陆",
+        "onboard_time": 1758692602,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628768,
+        "num": 576059,
+        "word": "成毅辟谣自己不玩手机的传闻",
+        "onboard_time": 1758694763,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498561,
+        "num": 498561,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447922,
+        "num": 447922,
+        "word": "厦门幼师因产前地贫基因报告被解聘",
+        "onboard_time": 1758693683,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412734,
+        "num": 412734,
+        "word": "0713 抢票",
+        "onboard_time": 1758695722,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407741,
+        "num": 407741,
+        "word": "官方通报8亿茅台镇建厂遭强行接管",
+        "onboard_time": 1758696442,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 407974,
+        "num": 407477,
+        "word": "香港一酒店玻璃冲爆有人被冲走",
+        "onboard_time": 1758688403,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406422,
+        "num": 406422,
+        "word": "珠海台风",
+        "onboard_time": 1758675682,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376049,
+        "num": 376049,
+        "word": "真有人给马思纯张晚意递本子了",
+        "onboard_time": 1758692002,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354743,
+        "num": 354743,
+        "word": "潘玮柏吃到被导演紧急叫停",
+        "onboard_time": 1758696022,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349958,
+        "num": 349958,
+        "word": "唐嫣 中老年套装",
+        "onboard_time": 1758691701,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327698,
+        "num": 327698,
+        "word": "李浩129万票当选班长",
+        "onboard_time": 1758694043,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326514,
+        "num": 326514,
+        "word": "女友突然去世男子上门求带走骨灰",
+        "onboard_time": 1758692062,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117276,
+        "num": 288610,
+        "word": "桦加沙降至强台风级",
+        "onboard_time": 1758698782,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284325,
+        "num": 284325,
+        "word": "考研",
+        "onboard_time": 1758699024,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279734,
+        "num": 279734,
+        "word": "2026考研报名",
+        "onboard_time": 1758698842,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 898759,
+        "num": 278991,
+        "word": "王传君 我不喜欢",
+        "onboard_time": 1758686480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334253,
+        "num": 277613,
+        "word": "男子茅台镇投8亿建厂遭强行接管",
+        "onboard_time": 1758689544,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88950,
+        "num": 265891,
+        "word": "邓为生而不凡注定瞩目",
+        "onboard_time": 1758697462,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258030,
+        "num": 258030,
+        "word": "桦加沙",
+        "onboard_time": 1758686902,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247056,
+        "num": 247056,
+        "word": "桦加沙今日登陆广东",
+        "onboard_time": 1758685402,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226342,
+        "num": 226342,
+        "word": "台风一夜放倒深圳174棵树",
+        "onboard_time": 1758698842,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201440,
+        "num": 201440,
+        "word": "昆凌前三胎都是剖腹产",
+        "onboard_time": 1758685881,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195569,
+        "num": 195569,
+        "word": "胡杏儿一回港剧就不恋爱脑了",
+        "onboard_time": 1758698961,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195279,
+        "num": 195279,
+        "word": "TOP 不去大湾区电影音乐晚会",
+        "onboard_time": 1758698362,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187552,
+        "num": 187552,
+        "word": "桦加沙远离珠三角向阳江靠近",
+        "onboard_time": 1758696263,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187143,
+        "num": 187143,
+        "word": "深圳地铁",
+        "onboard_time": 1758698722,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179233,
+        "num": 179233,
+        "word": "iPhone17Promini首曝",
+        "onboard_time": 1758698903,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177897,
+        "num": 177897,
+        "word": "房东的猫从20套礼服中选了这2套",
+        "onboard_time": 1758697642,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169284,
+        "num": 169284,
+        "word": "考研时间表",
+        "onboard_time": 1758699442,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168620,
+        "num": 168620,
+        "word": "对展轩身高193有了实感",
+        "onboard_time": 1758696142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161440,
+        "num": 161440,
+        "word": "陈数提到花少分别哭到采访中断",
+        "onboard_time": 1758693982,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158410,
+        "num": 158410,
+        "word": "桃黑黑 恋爱怎么会和谁谈都一样呢",
+        "onboard_time": 1758690444,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 155231,
+        "num": 155231,
+        "word": "当我冲着儿子的颜值生了二胎",
+        "onboard_time": 1758694822,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140679,
+        "num": 151544,
+        "word": "不怕富二代花钱就怕富二代创业",
+        "onboard_time": 1758698542,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70684,
+        "num": 150593,
+        "word": "台湾一16吨重军车被洪水冲走",
+        "onboard_time": 1758697343,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150420,
+        "num": 150420,
+        "word": "谁家剧一次官宣17个主演啊",
+        "onboard_time": 1758693261,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148527,
+        "num": 148527,
+        "word": "迪丽热巴剪彩怕彩头掉地上",
+        "onboard_time": 1758685402,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148457,
+        "num": 148457,
+        "word": "关晓彤 留子是一种感觉",
+        "onboard_time": 1758699382,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144749,
+        "num": 144749,
+        "word": "张若昀投张维伊是因为庆余年3",
+        "onboard_time": 1758693982,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136425,
+        "num": 136425,
+        "word": "神二十航天员第四次出舱",
+        "onboard_time": 1758699502,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129712,
+        "num": 129712,
+        "word": "桦加沙超风力定级上限",
+        "onboard_time": 1758692542,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127659,
+        "num": 127659,
+        "word": "台风为何见到广州就绕道",
+        "onboard_time": 1758699442,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123748,
+        "num": 123748,
+        "word": "辛芷蕾 你还能原谅我吗",
+        "onboard_time": 1758684801,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122723,
+        "num": 122723,
+        "word": "桦加沙广州",
+        "onboard_time": 1758683181,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106376,
+        "num": 120757,
+        "word": "2030世界杯或扩军至64队",
+        "onboard_time": 1758697703,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记抵达新疆时收到了石榴花束#"
+    }
+  }
+}

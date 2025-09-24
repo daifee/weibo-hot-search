@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 15:25:51
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 15:38:45
 </p>
 </blockquote>
 <p>
@@ -2895,6 +2895,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BF%A1%E7%BD%91%20%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%E8%AF%A1%E5%BC%82%23" target="weibo">
+学信网 自动回复诡异（热度：1027706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3%23" target="weibo">
 不二之臣（热度：1026866）
 </a>
@@ -3227,12 +3233,6 @@ iG醒醒（热度：964601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%B8%E8%B4%A8%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%B0%86%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0%23" target="weibo">
 纸质火车票将正式退出历史舞台（热度：953468）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BF%A1%E7%BD%91%20%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%E8%AF%A1%E5%BC%82%23" target="weibo">
-学信网 自动回复诡异（热度：953122）
 </a>
 </li>
 
