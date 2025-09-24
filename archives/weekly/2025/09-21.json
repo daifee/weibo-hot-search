@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758727620370,
+  "endTime": 1758728484277,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1778765,
+      "num": 1639971,
+      "word": "姐弟坠亡案妈妈5年后官宣新恋情",
+      "onboard_time": 1758719722,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1773170,
       "num": 1594282,
       "word": "深圳停工",
@@ -203,19 +211,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1654334,
+      "num": 1174996,
+      "word": "猫耳 广播剧下架",
+      "onboard_time": 1758725483,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1652249,
       "num": 1652249,
       "word": "台风",
       "onboard_time": 1758421822,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1639971,
-      "num": 1639971,
-      "word": "姐弟坠亡案妈妈5年后官宣新恋情",
-      "onboard_time": 1758719722,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -265,14 +273,6 @@
       "onboard_time": 1758600142,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1534645,
-      "num": 1174996,
-      "word": "猫耳 广播剧下架",
-      "onboard_time": 1758725483,
-      "rank": 3,
-      "category": "动漫"
     },
     {
       "raw_hot": 1506665,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 848249,
+      "num": 848249,
+      "word": "管家爆英女王去世前患骨癌",
+      "onboard_time": 1758721643,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 846854,
       "num": 846854,
       "word": "桦加沙广州",
@@ -1268,7 +1276,7 @@
     },
     {
       "raw_hot": 720004,
-      "num": 480002,
+      "num": 658592,
       "word": "卖淫女子为躲检查意外坠亡",
       "onboard_time": 1758724042,
       "rank": 6,
@@ -1300,7 +1308,7 @@
     },
     {
       "raw_hot": 702687,
-      "num": 383330,
+      "num": 492642,
       "word": "垫底辣孩回应丑出圈",
       "onboard_time": 1758718763,
       "rank": 29,
@@ -1508,7 +1516,7 @@
     },
     {
       "raw_hot": 644326,
-      "num": 644326,
+      "num": 1002101,
       "word": "王源 好听",
       "onboard_time": 1758720321,
       "rank": 17,
@@ -1521,14 +1529,6 @@
       "onboard_time": 1758599122,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 640987,
-      "num": 301483,
-      "word": "管家爆英女王去世前患骨癌",
-      "onboard_time": 1758721643,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 640485,
@@ -1915,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531086,
+      "num": 1067660,
+      "word": "苏新皓被助理架着走",
+      "onboard_time": 1758726381,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516117,
       "num": 516117,
       "word": "预制菜国家标准",
@@ -2299,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428516,
+      "num": 428516,
+      "word": "向太说刘亦菲圈内口碑真的很好",
+      "onboard_time": 1758718102,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428349,
       "num": 428349,
       "word": "七旬大爷被夸长得像演员妻子起疑",
@@ -2313,6 +2329,14 @@
       "onboard_time": 1758708502,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 423392,
+      "num": 972387,
+      "word": "谁敢信这是55岁的莫文蔚",
+      "onboard_time": 1758722962,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 421761,
@@ -2337,14 +2361,6 @@
       "onboard_time": 1758602363,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 413712,
-      "num": 413712,
-      "word": "谁敢信这是55岁的莫文蔚",
-      "onboard_time": 1758722962,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 412734,
@@ -2625,14 +2641,6 @@
       "onboard_time": 1758682821,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 361541,
-      "num": 361541,
-      "word": "向太说刘亦菲圈内口碑真的很好",
-      "onboard_time": 1758718102,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 358393,
@@ -3257,14 +3265,6 @@
       "onboard_time": 1758467306,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278348,
-      "num": 278348,
-      "word": "苏新皓被助理架着走",
-      "onboard_time": 1758726381,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 278313,
@@ -4347,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207973,
+      "num": 207973,
+      "word": "周深给内场明星都搞不会了",
+      "onboard_time": 1758726504,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207839,
       "num": 207839,
       "word": "罗永浩反问怕被弄死",
@@ -4377,6 +4385,14 @@
       "onboard_time": 1758684621,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207141,
+      "num": 207141,
+      "word": "雷军致谢",
+      "onboard_time": 1758724104,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 207055,
@@ -4811,14 +4827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196177,
-      "num": 196177,
-      "word": "周深给内场明星都搞不会了",
-      "onboard_time": 1758726504,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 196029,
       "num": 200278,
       "word": "台风致警车车祸诈骗犯当场身亡",
@@ -4937,6 +4945,22 @@
       "onboard_time": 1758606801,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193421,
+      "num": 193421,
+      "word": "米兰时装周",
+      "onboard_time": 1758583399,
+      "rank": 32,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 193337,
+      "num": 193337,
+      "word": "晋江崩了",
+      "onboard_time": 1758725902,
+      "rank": 31,
+      "category": "读书作家,互联网"
     },
     {
       "raw_hot": 193044,
@@ -5139,14 +5163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188671,
-      "num": 188671,
-      "word": "米兰时装周",
-      "onboard_time": 1758583399,
-      "rank": 32,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 188386,
       "num": 183997,
       "word": "Knight荣获FMVP",
@@ -5217,14 +5233,6 @@
       "onboard_time": 1758638424,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187409,
-      "num": 205127,
-      "word": "雷军致谢",
-      "onboard_time": 1758724104,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 187220,
@@ -5659,14 +5667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178921,
-      "num": 143143,
-      "word": "晋江崩了",
-      "onboard_time": 1758725902,
-      "rank": 31,
-      "category": "读书作家,互联网"
-    },
-    {
       "raw_hot": 178915,
       "num": 225284,
       "word": "喜人奇妙夜2喜人阵容",
@@ -5737,6 +5737,14 @@
       "onboard_time": 1758448042,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177249,
+      "num": 306906,
+      "word": "桦加沙对广东省造成严重影响",
+      "onboard_time": 1758726504,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177120,
@@ -6387,6 +6395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162753,
+      "num": 193397,
+      "word": "刘宇宁戴佩妮十指紧扣",
+      "onboard_time": 1758725122,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162662,
       "num": 179484,
       "word": "凡希亚看邓紫棋演唱会",
@@ -6731,6 +6747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156798,
+      "num": 156798,
+      "word": "俞孔坚遇难飞机1958年制造",
+      "onboard_time": 1758725723,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156776,
       "num": 156776,
       "word": "李想称iPhone17ProMax太丑",
@@ -6825,14 +6849,6 @@
       "onboard_time": 1758524542,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154927,
-      "num": 154927,
-      "word": "刘宇宁戴佩妮十指紧扣",
-      "onboard_time": 1758725122,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 154781,
@@ -6993,6 +7009,14 @@
       "onboard_time": 1758615623,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 152713,
+      "num": 155808,
+      "word": "麻六记别总让代工厂当挡箭牌",
+      "onboard_time": 1758723322,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 152526,
@@ -7995,6 +8019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138279,
+      "num": 193377,
+      "word": "徐振轩剧宣e得我害怕",
+      "onboard_time": 1758727643,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138257,
       "num": 177273,
       "word": "花少7成员和谐的原因找到了",
@@ -8009,6 +8041,14 @@
       "onboard_time": 1758436701,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138014,
+      "num": 193354,
+      "word": "26的王俊凯",
+      "onboard_time": 1758727403,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 137888,
@@ -8177,14 +8217,6 @@
       "onboard_time": 1758542662,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136122,
-      "num": 144208,
-      "word": "俞孔坚遇难飞机1958年制造",
-      "onboard_time": 1758725723,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136063,
@@ -8859,14 +8891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126978,
-      "num": 155808,
-      "word": "麻六记别总让代工厂当挡箭牌",
-      "onboard_time": 1758723322,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 126848,
       "num": 126848,
       "word": "金球奖",
@@ -8929,6 +8953,14 @@
       "onboard_time": 1758507201,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125701,
+      "num": 221651,
+      "word": "桦加沙 国庆",
+      "onboard_time": 1758722423,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125601,
@@ -9336,6 +9368,14 @@
       "word": "AG泰式校服校园感",
       "onboard_time": 1758534141,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121170,
+      "num": 121170,
+      "word": "紫幻",
+      "onboard_time": 1758728062,
+      "rank": 43,
       "category": "电竞"
     },
     {
@@ -9755,14 +9795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115800,
-      "num": 306906,
-      "word": "桦加沙对广东省造成严重影响",
-      "onboard_time": 1758726504,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115561,
       "num": 115561,
       "word": "三个窍门教你买到合适的秋冬女装",
@@ -9835,14 +9867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114396,
-      "num": 221651,
-      "word": "桦加沙 国庆",
-      "onboard_time": 1758722423,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114309,
       "num": 114309,
       "word": "特朗普称乌克兰边界有望恢复原状",
@@ -9857,14 +9881,6 @@
       "onboard_time": 1758619401,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114218,
-      "num": 114218,
-      "word": "26的王俊凯",
-      "onboard_time": 1758727403,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 113987,
@@ -11451,6 +11467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83654,
+      "num": 125890,
+      "word": "刘雨昕 偷偷藏不住",
+      "onboard_time": 1758727403,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 83635,
       "num": 217874,
       "word": "每10辆50万级新能源7辆是问界M9",
@@ -12179,6 +12203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59905,
+      "num": 867865,
+      "word": "国家救灾应急响应升至三级",
+      "onboard_time": 1758727944,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59754,
       "num": 218369,
       "word": "荣耀Magic8影像迎来井喷式升级",
@@ -12843,6 +12875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43896,
+      "num": 193349,
+      "word": "俞孔坚曾获景观学界的诺贝尔奖",
+      "onboard_time": 1758726803,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43881,
       "num": 307153,
       "word": "于适孙艺洲好友局就是这么real",
@@ -12865,14 +12905,6 @@
       "onboard_time": 1758376883,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43643,
-      "num": 146053,
-      "word": "俞孔坚曾获景观学界的诺贝尔奖",
-      "onboard_time": 1758726803,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43414,
@@ -13009,14 +13041,6 @@
       "onboard_time": 1758708442,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 40855,
-      "num": 114649,
-      "word": "刘雨昕 偷偷藏不住",
-      "onboard_time": 1758727403,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 40811,
@@ -13457,6 +13481,14 @@
       "onboard_time": 1758409878,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30228,
+      "num": 125736,
+      "word": "花莲民众哭诉母亲被淹死在家",
+      "onboard_time": 1758727703,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30161,

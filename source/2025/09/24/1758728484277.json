@@ -1,0 +1,410 @@
+{
+  "runTime": 1758728484277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747241,
+        "num": 1747241,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1262001,
+        "num": 1262001,
+        "word": "俞孔坚在巴西坠机遇难",
+        "onboard_time": 1758720563,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4337,
+        "num": 1170570,
+        "word": "一首歌祝福新疆",
+        "onboard_time": 1758719181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1654334,
+        "num": 1167666,
+        "word": "猫耳 广播剧下架",
+        "onboard_time": 1758725483,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1162656,
+        "num": 1162656,
+        "word": "许我耀眼",
+        "onboard_time": 1758720743,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1778765,
+        "num": 1133717,
+        "word": "姐弟坠亡案妈妈5年后官宣新恋情",
+        "onboard_time": 1758719722,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531086,
+        "num": 1067660,
+        "word": "苏新皓被助理架着走",
+        "onboard_time": 1758726381,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500125,
+        "num": 1002101,
+        "word": "王源 好听",
+        "onboard_time": 1758720321,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 423392,
+        "num": 972387,
+        "word": "谁敢信这是55岁的莫文蔚",
+        "onboard_time": 1758722962,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59905,
+        "num": 867865,
+        "word": "国家救灾应急响应升至三级",
+        "onboard_time": 1758727944,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848249,
+        "num": 848249,
+        "word": "管家爆英女王去世前患骨癌",
+        "onboard_time": 1758721643,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 658592,
+        "num": 658592,
+        "word": "卖淫女子为躲检查意外坠亡",
+        "onboard_time": 1758724042,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559683,
+        "num": 559683,
+        "word": "张雪峰回应账号被禁止关注",
+        "onboard_time": 1758711022,
+        "rank": 12,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 492642,
+        "num": 492642,
+        "word": "垫底辣孩回应丑出圈",
+        "onboard_time": 1758718763,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 335269,
+        "num": 429720,
+        "word": "广州解除五停",
+        "onboard_time": 1758704482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428516,
+        "num": 428516,
+        "word": "向太说刘亦菲圈内口碑真的很好",
+        "onboard_time": 1758718102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386835,
+        "num": 386835,
+        "word": "张雪峰多个平台账号被禁止关注",
+        "onboard_time": 1758709162,
+        "rank": 16,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 353117,
+        "num": 353117,
+        "word": "刘亦菲和两位年轻男子聚餐",
+        "onboard_time": 1758713121,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249901,
+        "num": 249901,
+        "word": "女装 聚酯纤维",
+        "onboard_time": 1758708323,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 207973,
+        "num": 207973,
+        "word": "周深给内场明星都搞不会了",
+        "onboard_time": 1758726504,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207141,
+        "num": 207141,
+        "word": "雷军致谢",
+        "onboard_time": 1758724104,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207454,
+        "num": 207036,
+        "word": "张维伊想和董璇把钱放一起",
+        "onboard_time": 1758705441,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204506,
+        "num": 204506,
+        "word": "桦加沙登陆风力13级",
+        "onboard_time": 1758706582,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 204287,
+        "num": 204287,
+        "word": "胖东来宣布刑释人员全部录取",
+        "onboard_time": 1758718642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193421,
+        "num": 193421,
+        "word": "米兰时装周",
+        "onboard_time": 1758726863,
+        "rank": 24,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 175535,
+        "num": 193413,
+        "word": "网红敖其尔去世",
+        "onboard_time": 1758714502,
+        "rank": 25,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 162753,
+        "num": 193397,
+        "word": "刘宇宁戴佩妮十指紧扣",
+        "onboard_time": 1758725122,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138279,
+        "num": 193377,
+        "word": "徐振轩剧宣e得我害怕",
+        "onboard_time": 1758727643,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138014,
+        "num": 193354,
+        "word": "26的王俊凯",
+        "onboard_time": 1758727403,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43896,
+        "num": 193349,
+        "word": "俞孔坚曾获景观学界的诺贝尔奖",
+        "onboard_time": 1758726803,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193337,
+        "num": 193337,
+        "word": "晋江崩了",
+        "onboard_time": 1758725902,
+        "rank": 30,
+        "category": "读书作家,互联网"
+      },
+      {
+        "raw_hot": 177249,
+        "num": 177249,
+        "word": "桦加沙对广东省造成严重影响",
+        "onboard_time": 1758726504,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159398,
+        "num": 159398,
+        "word": "张雪峰",
+        "onboard_time": 1758709461,
+        "rank": 32,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 157608,
+        "num": 157608,
+        "word": "老人去世留8套房给非亲生女儿最多",
+        "onboard_time": 1758717442,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156798,
+        "num": 156798,
+        "word": "俞孔坚遇难飞机1958年制造",
+        "onboard_time": 1758725723,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152713,
+        "num": 152713,
+        "word": "麻六记别总让代工厂当挡箭牌",
+        "onboard_time": 1758723322,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 136782,
+        "num": 136782,
+        "word": "台湾花莲溃坝惨案",
+        "onboard_time": 1758716422,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126808,
+        "num": 126808,
+        "word": "浙江45岁失联男子已遇难",
+        "onboard_time": 1758724643,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126139,
+        "num": 126139,
+        "word": "周深唱王源雪崩",
+        "onboard_time": 1758725902,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83654,
+        "num": 125890,
+        "word": "刘雨昕 偷偷藏不住",
+        "onboard_time": 1758727403,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30228,
+        "num": 125736,
+        "word": "花莲民众哭诉母亲被淹死在家",
+        "onboard_time": 1758727703,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125701,
+        "num": 125701,
+        "word": "桦加沙 国庆",
+        "onboard_time": 1758722423,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125495,
+        "num": 125495,
+        "word": "张雪峰间接投资超140家企业",
+        "onboard_time": 1758724702,
+        "rank": 42,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 121170,
+        "num": 121170,
+        "word": "紫幻",
+        "onboard_time": 1758728062,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115855,
+        "num": 115855,
+        "word": "雷军感谢车企支持",
+        "onboard_time": 1758723502,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110447,
+        "num": 110447,
+        "word": "花莲溃坝惨案是本可避免的人祸",
+        "onboard_time": 1758724762,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109470,
+        "num": 109470,
+        "word": "王俊凯蝴蝶结黑风衣",
+        "onboard_time": 1758726082,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107194,
+        "num": 107194,
+        "word": "日本警告以色列",
+        "onboard_time": 1758712461,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101309,
+        "num": 101309,
+        "word": "刺杀特朗普未遂男子当庭试图自杀",
+        "onboard_time": 1758726743,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97208,
+        "num": 97208,
+        "word": "被忽视的女性慢性疼痛",
+        "onboard_time": 1758725002,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#完整准确全面贯彻新时代党的治疆方略#"
+    }
+  }
+}
