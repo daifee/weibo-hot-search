@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 20:51:11
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 21:05:35
 </p>
 </blockquote>
 <p>
@@ -1833,6 +1833,12 @@ BLG夺冠（热度：1382018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
+张雪峰回应账号被禁止关注（热度：1374862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%A3%A4%E5%AD%90%20%E5%A5%B3%E8%A3%85%E4%B9%9F%E6%98%AF%E5%AE%8C%E4%BA%86%23" target="weibo">
 李兰迪裤子 女装也是完了（热度：1374478）
 </a>
@@ -1961,12 +1967,6 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%90%91%E4%BA%8E%E6%9C%A6%E8%83%A7%E6%AF%8D%E4%BA%B2%E9%80%9A%E6%8A%A5%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
 警方已向于朦胧母亲通报调查情况（热度：1320984）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
-张雪峰回应账号被禁止关注（热度：1315006）
 </a>
 </li>
 
@@ -4605,6 +4605,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E5%A5%94%E9%A9%B0%23" target="weibo">
+王楚钦 奔驰（热度：791509）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BB%BF%E6%8D%B7%E5%B7%B2%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5%23" target="weibo">
 上海绿捷已被立案侦查（热度：791228）
 </a>
@@ -5229,6 +5235,12 @@ BLG对战TES（热度：746464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%95%96%E5%85%B6%E5%B0%94%E5%8E%BB%E4%B8%96%23" target="weibo">
+网红敖其尔去世（热度：728146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E8%BF%BD%E6%98%9F%E9%A2%91%E7%B9%81%E6%9F%93%E5%8F%91%E6%82%A3%E8%82%BE%E7%97%85%23" target="weibo">
 00后女生追星频繁染发患肾病（热度：725261）
 </a>
@@ -5339,12 +5351,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%B3%BD%E5%88%A9%E7%A7%91%23" target="weibo">
 樊振东vs泽利科（热度：710729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E5%A5%94%E9%A9%B0%23" target="weibo">
-王楚钦 奔驰（热度：710213）
 </a>
 </li>
 
@@ -5967,6 +5973,12 @@ iPhone17高刷（热度：656758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%92%8C%E4%B8%A4%E4%BD%8D%E5%B9%B4%E8%BD%BB%E7%94%B7%E5%AD%90%E8%81%9A%E9%A4%90%23" target="weibo">
+刘亦菲和两位年轻男子聚餐（热度：654777）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%8E%A5%E4%BD%8F%E4%BA%86%E5%88%98%E6%B6%9B%E7%9A%84%E6%88%8F%23" target="weibo">
 关晓彤接住了刘涛的戏（热度：653054）
 </a>
@@ -5991,12 +6003,6 @@ iPhone17高刷（热度：656758）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%95%96%E5%85%B6%E5%B0%94%E5%8E%BB%E4%B8%96%23" target="weibo">
-网红敖其尔去世（热度：651451）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E6%AC%A0%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E4%B8%80%E5%A3%B0%E9%81%93%E6%AD%89%23" target="weibo">
 始祖鸟欠喜马拉雅山一声道歉（热度：650712）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17高刷（热度：656758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E8%87%AA%E6%9B%9D%E5%9B%A0%E9%95%BF%E6%9C%9F%E5%88%86%E5%B1%85%E5%A9%9A%E5%A7%BB%E4%BA%AE%E7%BA%A2%E7%81%AF%23" target="weibo">
 陈紫函自曝因长期分居婚姻亮红灯（热度：650390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E5%B0%86%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%E8%B5%A0%E4%BA%88%E5%86%85%E9%A9%AC%E5%B0%94%23" target="weibo">
-巴西亿万富豪将全部遗产赠予内马尔（热度：650152）
 </a>
 </li>
 
@@ -6461,6 +6461,12 @@ iPhone17高刷（热度：656758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E9%9A%8F%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B0%E8%BF%9B%E6%96%B0%E7%96%8670%E5%B9%B4%E6%97%B6%E5%85%89%E5%8D%9A%E7%89%A9%E9%A6%86%23%23" target="weibo">
 #跟随习近平走进新疆70年时光博物馆#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%AE%8C%E6%95%B4%E5%87%86%E7%A1%AE%E5%85%A8%E9%9D%A2%E8%B4%AF%E5%BD%BB%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5%23%23" target="weibo">
+#完整准确全面贯彻新时代党的治疆方略#
 </a>
 </li>
 
