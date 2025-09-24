@@ -1,12 +1,20 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758699525004,
+  "endTime": 1758702824317,
   "band_list": [
     {
       "raw_hot": 2237522,
       "num": 2237522,
       "word": "台风桦加沙减弱至十六级",
       "onboard_time": 1758641722,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2156337,
+      "num": 2156337,
+      "word": "深圳全市解除五停",
+      "onboard_time": 1758700882,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -73,6 +81,14 @@
       "onboard_time": 1758675801,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1193244,
+      "num": 655917,
+      "word": "关晓彤 留子是一种感觉",
+      "onboard_time": 1758699382,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1116300,
@@ -235,6 +251,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 675145,
+      "num": 675145,
+      "word": "考研时间表",
+      "onboard_time": 1758699442,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 663373,
       "num": 663373,
       "word": "成毅辟谣自己不玩手机的传闻",
@@ -257,6 +281,14 @@
       "onboard_time": 1758691701,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 632508,
+      "num": 632508,
+      "word": "桦加沙又降级了",
+      "onboard_time": 1758700282,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 630584,
@@ -323,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560907,
+      "num": 560907,
+      "word": "官方通报8亿茅台镇建厂遭强行接管",
+      "onboard_time": 1758696442,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 546108,
       "num": 546108,
       "word": "17级台风最大持续风速堪比高速列车",
@@ -337,6 +377,22 @@
       "onboard_time": 1758686602,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530202,
+      "num": 530202,
+      "word": "桦加沙强度正在减弱",
+      "onboard_time": 1758699562,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514944,
+      "num": 514944,
+      "word": "iPhone17Promini首曝",
+      "onboard_time": 1758698903,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 510349,
@@ -369,6 +425,14 @@
       "onboard_time": 1758674362,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464698,
+      "num": 464698,
+      "word": "不眠日导演甩锅",
+      "onboard_time": 1758700641,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 436163,
@@ -404,7 +468,7 @@
     },
     {
       "raw_hot": 412734,
-      "num": 412734,
+      "num": 448023,
       "word": "0713 抢票",
       "onboard_time": 1758695722,
       "rank": 26,
@@ -419,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 407741,
-      "num": 407741,
-      "word": "官方通报8亿茅台镇建厂遭强行接管",
-      "onboard_time": 1758696442,
-      "rank": 48,
-      "category": "辟谣/通报"
+      "raw_hot": 400516,
+      "num": 532347,
+      "word": "台风一夜放倒深圳174棵树",
+      "onboard_time": 1758698842,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395321,
@@ -452,7 +516,7 @@
     },
     {
       "raw_hot": 354743,
-      "num": 354743,
+      "num": 417058,
       "word": "潘玮柏吃到被导演紧急叫停",
       "onboard_time": 1758696022,
       "rank": 27,
@@ -491,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331826,
+      "num": 331826,
+      "word": "深圳地铁运营恢复",
+      "onboard_time": 1758701961,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327698,
       "num": 327698,
       "word": "李浩129万票当选班长",
@@ -504,6 +576,14 @@
       "word": "深圳地铁",
       "onboard_time": 1758669260,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319156,
+      "num": 319156,
+      "word": "江门市刮起狂风暴雨",
+      "onboard_time": 1758695722,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -529,6 +609,14 @@
       "onboard_time": 1758690623,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 291040,
+      "num": 291040,
+      "word": "桃黑黑 亲密关系是要自己体会的",
+      "onboard_time": 1758700641,
+      "rank": 24,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 285921,
@@ -585,6 +673,14 @@
       "onboard_time": 1758685402,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260420,
+      "num": 260420,
+      "word": "微博在线状态",
+      "onboard_time": 1758701061,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 254078,
@@ -667,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226342,
-      "num": 226342,
-      "word": "台风一夜放倒深圳174棵树",
-      "onboard_time": 1758698842,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223869,
       "num": 293655,
       "word": "云秀行阵容官宣",
@@ -683,12 +771,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221688,
+      "num": 221688,
+      "word": "桃黑黑公关能力",
+      "onboard_time": 1758701841,
+      "rank": 40,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 220986,
       "num": 272962,
       "word": "歌手欧豪杀回来了",
       "onboard_time": 1758689003,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220508,
+      "num": 220508,
+      "word": "阿里巴巴宣布与英伟达开展合作",
+      "onboard_time": 1758701302,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 220317,
@@ -835,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196708,
+      "num": 277951,
+      "word": "肖战台词太适合考研生",
+      "onboard_time": 1758702201,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196683,
       "num": 281860,
       "word": "台湾台风遇难者多为住一楼老人",
@@ -883,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193044,
+      "num": 268619,
+      "word": "赵让 内娱进新货了",
+      "onboard_time": 1758702443,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192089,
       "num": 231279,
       "word": "张艺兴回归向往的生活",
@@ -905,6 +1025,14 @@
       "onboard_time": 1758673462,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188833,
+      "num": 188833,
+      "word": "散装养生",
+      "onboard_time": 1758702381,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 188752,
@@ -955,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179233,
-      "num": 179233,
-      "word": "iPhone17Promini首曝",
-      "onboard_time": 1758698903,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 178725,
       "num": 178725,
       "word": "特朗普到联合国电梯提词器都坏了",
@@ -987,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174680,
+      "num": 174680,
+      "word": "网易射雕停运",
+      "onboard_time": 1758701481,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172477,
       "num": 172477,
       "word": "小狗被大风吹成海豹了",
@@ -1003,20 +1131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169583,
-      "num": 169583,
-      "word": "江门市刮起狂风暴雨",
-      "onboard_time": 1758695722,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169284,
-      "num": 169284,
-      "word": "考研时间表",
-      "onboard_time": 1758699442,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 170674,
+      "num": 170674,
+      "word": "射雕",
+      "onboard_time": 1758700282,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 168620,
@@ -1041,6 +1161,14 @@
       "onboard_time": 1758689123,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164123,
+      "num": 164123,
+      "word": "黄圣依回应和刘亦菲被认混",
+      "onboard_time": 1758700341,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 161704,
@@ -1145,14 +1273,6 @@
       "onboard_time": 1758695782,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148457,
-      "num": 148457,
-      "word": "关晓彤 留子是一种感觉",
-      "onboard_time": 1758699382,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 147335,
@@ -1385,6 +1505,22 @@
       "onboard_time": 1758666797,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123263,
+      "num": 220855,
+      "word": "黄子弘凡 白举纲在厕所",
+      "onboard_time": 1758701542,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 121317,
+      "num": 265381,
+      "word": "华为手表支持监测12种情绪状态",
+      "onboard_time": 1758702141,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 120855,
@@ -1795,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63960,
+      "num": 387299,
+      "word": "江苏必要时可停课停学",
+      "onboard_time": 1758701661,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62630,
       "num": 171195,
       "word": "特朗普爱泼斯坦牵手雕像亮相白宫外",
@@ -1819,6 +1963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58461,
+      "num": 164137,
+      "word": "巴厘岛涉事青旅多名旅客紧急住院",
+      "onboard_time": 1758700943,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58383,
       "num": 58383,
       "word": "桦加沙登陆点不一定破坏力最大",
@@ -1827,12 +1979,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57940,
+      "num": 221780,
+      "word": "日本呼吁改革联合国安理会",
+      "onboard_time": 1758702741,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57397,
       "num": 479181,
       "word": "王曼昱的战术秘诀",
       "onboard_time": 1758686722,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56518,
+      "num": 164276,
+      "word": "吴磊说进阶骑行有华为GT6就够了",
+      "onboard_time": 1758702022,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 55896,
@@ -1857,6 +2025,14 @@
       "onboard_time": 1758653954,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52301,
+      "num": 164726,
+      "word": "冲锋衣还得跟着成毅选",
+      "onboard_time": 1758701602,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 51315,
@@ -1929,6 +2105,22 @@
       "onboard_time": 1758684682,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41033,
+      "num": 408352,
+      "word": "丰田全球车入门配置全面提升",
+      "onboard_time": 1758701363,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 40669,
+      "num": 224255,
+      "word": "陈梦知性美机场look",
+      "onboard_time": 1758702022,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 39281,
@@ -2041,6 +2233,22 @@
       "onboard_time": 1758649818,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26114,
+      "num": 222063,
+      "word": "大雷山遍地露营垃圾被牛吃掉",
+      "onboard_time": 1758702022,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24011,
+      "num": 375326,
+      "word": "Demna带你重新认识GUCCI",
+      "onboard_time": 1758699562,
+      "rank": 19,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 23314,
