@@ -1,0 +1,410 @@
+{
+  "runTime": 1758703624940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2043056,
+        "num": 2043056,
+        "word": "深圳全市解除五停",
+        "onboard_time": 1758700882,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810107,
+        "num": 810107,
+        "word": "珠海被要求撤离高层住户发声",
+        "onboard_time": 1758692122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27920,
+        "num": 793180,
+        "word": "大美新疆每一眼都惊艳",
+        "onboard_time": 1758702921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 777010,
+        "num": 777010,
+        "word": "iPhone17Promini首曝",
+        "onboard_time": 1758698903,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 703767,
+        "num": 703767,
+        "word": "桦加沙又降级了",
+        "onboard_time": 1758700282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599500,
+        "num": 599500,
+        "word": "桦加沙将于24日下午到夜间登陆",
+        "onboard_time": 1758691943,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590292,
+        "num": 590292,
+        "word": "关晓彤 留子是一种感觉",
+        "onboard_time": 1758699382,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555453,
+        "num": 555453,
+        "word": "桦加沙强度正在减弱",
+        "onboard_time": 1758699562,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474630,
+        "num": 499699,
+        "word": "成毅辟谣自己不玩手机的传闻",
+        "onboard_time": 1758694763,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410639,
+        "num": 495591,
+        "word": "台风一夜放倒深圳174棵树",
+        "onboard_time": 1758698842,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493762,
+        "num": 493762,
+        "word": "考研时间表",
+        "onboard_time": 1758699442,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 441104,
+        "num": 441104,
+        "word": "官方通报8亿茅台镇建厂遭强行接管",
+        "onboard_time": 1758696442,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 423081,
+        "num": 423081,
+        "word": "澳门海水已涌入内陆",
+        "onboard_time": 1758692602,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292376,
+        "num": 292376,
+        "word": "深圳地铁运营恢复",
+        "onboard_time": 1758701961,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289243,
+        "num": 289243,
+        "word": "0713 抢票",
+        "onboard_time": 1758695722,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287980,
+        "num": 287980,
+        "word": "微博在线状态",
+        "onboard_time": 1758701061,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55584,
+        "num": 287674,
+        "word": "丰田全球车入门配置全面提升",
+        "onboard_time": 1758701363,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276624,
+        "num": 285593,
+        "word": "唐嫣 中老年套装",
+        "onboard_time": 1758691701,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221033,
+        "num": 285191,
+        "word": "潘玮柏吃到被导演紧急叫停",
+        "onboard_time": 1758696022,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20850,
+        "num": 283788,
+        "word": "Demna带你重新认识GUCCI",
+        "onboard_time": 1758699562,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 543883,
+        "num": 281334,
+        "word": "王传君 我不喜欢",
+        "onboard_time": 1758686480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380663,
+        "num": 281097,
+        "word": "不眠日导演甩锅",
+        "onboard_time": 1758700641,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212172,
+        "num": 278449,
+        "word": "真有人给马思纯张晚意递本子了",
+        "onboard_time": 1758692002,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278406,
+        "num": 278406,
+        "word": "江门市刮起狂风暴雨",
+        "onboard_time": 1758695722,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217640,
+        "num": 266078,
+        "word": "黄圣依回应和刘亦菲被认混",
+        "onboard_time": 1758700341,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264919,
+        "num": 264919,
+        "word": "珠海台风",
+        "onboard_time": 1758675682,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250746,
+        "num": 250746,
+        "word": "起猛了央妈竟然请来了真公主",
+        "onboard_time": 1758703102,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210176,
+        "num": 210176,
+        "word": "油车智驾辅助显眼包",
+        "onboard_time": 1758703042,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133357,
+        "num": 207556,
+        "word": "华为手表支持监测12种情绪状态",
+        "onboard_time": 1758702141,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254144,
+        "num": 206918,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206156,
+        "num": 206156,
+        "word": "雷军T恤",
+        "onboard_time": 1758703221,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200388,
+        "num": 200388,
+        "word": "桃黑黑公关能力",
+        "onboard_time": 1758701841,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 192940,
+        "num": 192940,
+        "word": "女友突然去世男子上门求带走骨灰",
+        "onboard_time": 1758692062,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188873,
+        "num": 188873,
+        "word": "赵让 内娱进新货了",
+        "onboard_time": 1758702443,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44181,
+        "num": 183176,
+        "word": "冲锋衣还得跟着成毅选",
+        "onboard_time": 1758701602,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181738,
+        "num": 181738,
+        "word": "桦加沙",
+        "onboard_time": 1758686902,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178102,
+        "num": 178102,
+        "word": "五停后的广东城市",
+        "onboard_time": 1758703162,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173511,
+        "num": 173511,
+        "word": "桦加沙今日登陆广东",
+        "onboard_time": 1758685402,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11073,
+        "num": 172883,
+        "word": "李一桐自曝徒手抓小偷",
+        "onboard_time": 1758703221,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101101,
+        "num": 172374,
+        "word": "日本呼吁改革联合国安理会",
+        "onboard_time": 1758702741,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163970,
+        "num": 171696,
+        "word": "肖战台词太适合考研生",
+        "onboard_time": 1758702201,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71456,
+        "num": 170453,
+        "word": "江苏必要时可停课停学",
+        "onboard_time": 1758701661,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170024,
+        "num": 170024,
+        "word": "网易射雕停运",
+        "onboard_time": 1758701481,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164155,
+        "num": 164155,
+        "word": "香港一酒店玻璃冲爆有人被冲走",
+        "onboard_time": 1758688403,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156524,
+        "num": 156524,
+        "word": "阿里巴巴宣布与英伟达开展合作",
+        "onboard_time": 1758701302,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154937,
+        "num": 154937,
+        "word": "深圳地铁",
+        "onboard_time": 1758698722,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151978,
+        "num": 151978,
+        "word": "射雕",
+        "onboard_time": 1758700282,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38359,
+        "num": 148887,
+        "word": "陈梦知性美机场look",
+        "onboard_time": 1758702022,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29624,
+        "num": 148210,
+        "word": "大雷山遍地露营垃圾被牛吃掉",
+        "onboard_time": 1758702022,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37335,
+        "num": 148153,
+        "word": "吴磊说进阶骑行有华为GT6就够了",
+        "onboard_time": 1758702022,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记抵达新疆时收到了石榴花束#"
+    }
+  }
+}

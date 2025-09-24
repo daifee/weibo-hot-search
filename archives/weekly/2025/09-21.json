@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758702824317,
+  "endTime": 1758703624940,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -971,6 +971,14 @@
       "category": "演出,民生新闻"
     },
     {
+      "raw_hot": 777010,
+      "num": 777010,
+      "word": "iPhone17Promini首曝",
+      "onboard_time": 1758698903,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 769182,
       "num": 769182,
       "word": "近距离看桦加沙",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1758600382,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 703767,
+      "num": 703767,
+      "word": "桦加沙又降级了",
+      "onboard_time": 1758700282,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 703522,
@@ -1337,14 +1353,6 @@
       "onboard_time": 1758500482,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 632508,
-      "num": 632508,
-      "word": "桦加沙又降级了",
-      "onboard_time": 1758700282,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630584,
@@ -1611,6 +1619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 555453,
+      "num": 555453,
+      "word": "桦加沙强度正在减弱",
+      "onboard_time": 1758699562,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553423,
       "num": 553423,
       "word": "沈月王敬轩我家那闺女表现被审判",
@@ -1707,28 +1723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530202,
-      "num": 530202,
-      "word": "桦加沙强度正在减弱",
-      "onboard_time": 1758699562,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 516117,
       "num": 516117,
       "word": "预制菜国家标准",
       "onboard_time": 1758457043,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 514944,
-      "num": 514944,
-      "word": "iPhone17Promini首曝",
-      "onboard_time": 1758698903,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 513166,
@@ -2131,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410639,
+      "num": 532347,
+      "word": "台风一夜放倒深圳174棵树",
+      "onboard_time": 1758698842,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406283,
       "num": 483247,
       "word": "孙颖莎 多芬",
@@ -2168,14 +2176,6 @@
       "word": "湖南一女子涉嫌杀8旬舅舅潜逃",
       "onboard_time": 1758383483,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400516,
-      "num": 532347,
-      "word": "台风一夜放倒深圳174棵树",
-      "onboard_time": 1758698842,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -2795,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287980,
+      "num": 287980,
+      "word": "微博在线状态",
+      "onboard_time": 1758701061,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 287797,
       "num": 172440,
       "word": "24岁的张馨予",
@@ -3123,14 +3131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260420,
-      "num": 260420,
-      "word": "微博在线状态",
-      "onboard_time": 1758701061,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 258843,
       "num": 258843,
       "word": "深圳建议储备至少3天的物资",
@@ -3209,6 +3209,14 @@
       "onboard_time": 1758517523,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250746,
+      "num": 250746,
+      "word": "起猛了央妈竟然请来了真公主",
+      "onboard_time": 1758703102,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 250291,
@@ -3643,6 +3651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217640,
+      "num": 266078,
+      "word": "黄圣依回应和刘亦菲被认混",
+      "onboard_time": 1758700341,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217631,
       "num": 217631,
       "word": "angelababy黄灿灿早期同框",
@@ -3761,6 +3777,14 @@
       "onboard_time": 1758468624,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210176,
+      "num": 210176,
+      "word": "油车智驾辅助显眼包",
+      "onboard_time": 1758703042,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 209939,
@@ -3913,6 +3937,14 @@
       "onboard_time": 1758424342,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206156,
+      "num": 206156,
+      "word": "雷军T恤",
+      "onboard_time": 1758703221,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 206093,
@@ -5067,6 +5099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178102,
+      "num": 178102,
+      "word": "五停后的广东城市",
+      "onboard_time": 1758703162,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177897,
       "num": 177897,
       "word": "房东的猫从20套礼服中选了这2套",
@@ -5561,14 +5601,6 @@
       "onboard_time": 1758630561,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164123,
-      "num": 164123,
-      "word": "黄圣依回应和刘亦菲被认混",
-      "onboard_time": 1758700341,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 164070,
@@ -7315,6 +7347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133357,
+      "num": 265381,
+      "word": "华为手表支持监测12种情绪状态",
+      "onboard_time": 1758702141,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133238,
       "num": 133238,
       "word": "导入聊天记录 设备空间不足",
@@ -8201,14 +8241,6 @@
       "onboard_time": 1758426500,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121317,
-      "num": 265381,
-      "word": "华为手表支持监测12种情绪状态",
-      "onboard_time": 1758702141,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 121224,
@@ -9467,6 +9499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101101,
+      "num": 221780,
+      "word": "日本呼吁改革联合国安理会",
+      "onboard_time": 1758702741,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100749,
       "num": 100749,
       "word": "皮亚斯特里的观赛位置",
@@ -10507,6 +10547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71456,
+      "num": 387299,
+      "word": "江苏必要时可停课停学",
+      "onboard_time": 1758701661,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70934,
       "num": 140862,
       "word": "谢娜被女儿教育了",
@@ -10697,14 +10745,6 @@
       "onboard_time": 1758634463,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 63960,
-      "num": 387299,
-      "word": "江苏必要时可停课停学",
-      "onboard_time": 1758701661,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63900,
@@ -10923,14 +10963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57940,
-      "num": 221780,
-      "word": "日本呼吁改革联合国安理会",
-      "onboard_time": 1758702741,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57397,
       "num": 479181,
       "word": "王曼昱的战术秘诀",
@@ -10993,6 +11025,14 @@
       "onboard_time": 1758429322,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55584,
+      "num": 408352,
+      "word": "丰田全球车入门配置全面提升",
+      "onboard_time": 1758701363,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 55541,
@@ -11164,7 +11204,7 @@
     },
     {
       "raw_hot": 52301,
-      "num": 164726,
+      "num": 183176,
       "word": "冲锋衣还得跟着成毅选",
       "onboard_time": 1758701602,
       "rank": 46,
@@ -11585,14 +11625,6 @@
       "onboard_time": 1758415823,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41033,
-      "num": 408352,
-      "word": "丰田全球车入门配置全面提升",
-      "onboard_time": 1758701363,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 40669,
@@ -12075,6 +12107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29624,
+      "num": 222063,
+      "word": "大雷山遍地露营垃圾被牛吃掉",
+      "onboard_time": 1758702022,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29530,
       "num": 136586,
       "word": "女子被车撞致颅脑损伤无法定责",
@@ -12163,6 +12203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27920,
+      "num": 793180,
+      "word": "大美新疆每一眼都惊艳",
+      "onboard_time": 1758702921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27804,
       "num": 261573,
       "word": "高原野生动物或因声光刺激弃巢",
@@ -12201,14 +12249,6 @@
       "onboard_time": 1758369504,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26114,
-      "num": 222063,
-      "word": "大雷山遍地露营垃圾被牛吃掉",
-      "onboard_time": 1758702022,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25856,
@@ -12489,6 +12529,14 @@
       "onboard_time": 1758410299,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11073,
+      "num": 172883,
+      "word": "李一桐自曝徒手抓小偷",
+      "onboard_time": 1758703221,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 9778,
