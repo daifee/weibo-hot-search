@@ -1,0 +1,410 @@
+{
+  "runTime": 1758724901086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5056742,
+        "num": 5056742,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2393863,
+        "num": 2393863,
+        "word": "俞孔坚在巴西坠机遇难",
+        "onboard_time": 1758720563,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6099,
+        "num": 1876837,
+        "word": "一首歌祝福新疆",
+        "onboard_time": 1758719181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1639971,
+        "num": 1639971,
+        "word": "姐弟坠亡案妈妈5年后官宣新恋情",
+        "onboard_time": 1758719722,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1244447,
+        "num": 1244447,
+        "word": "许我耀眼",
+        "onboard_time": 1758720743,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628404,
+        "num": 628404,
+        "word": "王源 好听",
+        "onboard_time": 1758720321,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 480002,
+        "num": 480002,
+        "word": "卖淫女子为躲检查意外坠亡",
+        "onboard_time": 1758724042,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293548,
+        "num": 293548,
+        "word": "广州解除五停",
+        "onboard_time": 1758704482,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291463,
+        "num": 291463,
+        "word": "网红敖其尔去世",
+        "onboard_time": 1758714502,
+        "rank": 8,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 286386,
+        "num": 286386,
+        "word": "桦加沙登陆风力13级",
+        "onboard_time": 1758706582,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 605806,
+        "num": 284409,
+        "word": "垫底辣孩回应丑出圈",
+        "onboard_time": 1758718763,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 555640,
+        "num": 282145,
+        "word": "张雪峰回应账号被禁止关注",
+        "onboard_time": 1758711022,
+        "rank": 11,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 475993,
+        "num": 278674,
+        "word": "肖战直播",
+        "onboard_time": 1758714562,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432552,
+        "num": 275404,
+        "word": "张雪峰多个平台账号被禁止关注",
+        "onboard_time": 1758709162,
+        "rank": 13,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 194133,
+        "num": 273216,
+        "word": "谁敢信这是55岁的莫文蔚",
+        "onboard_time": 1758722962,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83778,
+        "num": 270675,
+        "word": "檀健次同款包包",
+        "onboard_time": 1758719962,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169651,
+        "num": 266845,
+        "word": "刘诗诗清透蔷薇妆",
+        "onboard_time": 1758723562,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122698,
+        "num": 266099,
+        "word": "存款20万先买车还是先买房",
+        "onboard_time": 1758721882,
+        "rank": 17,
+        "category": "议题讨论,汽车"
+      },
+      {
+        "raw_hot": 415565,
+        "num": 261778,
+        "word": "刘亦菲和两位年轻男子聚餐",
+        "onboard_time": 1758713121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56269,
+        "num": 258648,
+        "word": "俞孔坚曾获世界景观设计最高奖",
+        "onboard_time": 1758723142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389504,
+        "num": 257067,
+        "word": "女装 聚酯纤维",
+        "onboard_time": 1758708323,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 894994,
+        "num": 253692,
+        "word": "绍兴地铁深夜撞保洁员致多人伤亡",
+        "onboard_time": 1758716541,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369863,
+        "num": 248949,
+        "word": "管家爆英女王去世前患骨癌",
+        "onboard_time": 1758721643,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248797,
+        "num": 248797,
+        "word": "胖东来宣布刑释人员全部录取",
+        "onboard_time": 1758718642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222995,
+        "num": 222995,
+        "word": "向太说刘亦菲圈内口碑真的很好",
+        "onboard_time": 1758718102,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206654,
+        "num": 206654,
+        "word": "俞孔坚推动景观设计学科在中国确立",
+        "onboard_time": 1758722962,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165581,
+        "num": 206651,
+        "word": "李沉舟我承认之前对你太大声了",
+        "onboard_time": 1758723923,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171521,
+        "num": 205127,
+        "word": "雷军致谢",
+        "onboard_time": 1758724104,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164265,
+        "num": 204146,
+        "word": "苏新皓不参加湖南中秋之夜",
+        "onboard_time": 1758723803,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65251,
+        "num": 203282,
+        "word": "俞孔坚乘坐飞机未获准从事商业客运",
+        "onboard_time": 1758723142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144711,
+        "num": 202483,
+        "word": "领克08",
+        "onboard_time": 1758724282,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80793,
+        "num": 201935,
+        "word": "花莲溃坝惨案是本可避免的人祸",
+        "onboard_time": 1758724762,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201365,
+        "num": 201365,
+        "word": "张维伊想和董璇把钱放一起",
+        "onboard_time": 1758705441,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100416,
+        "num": 191611,
+        "word": "姐弟坠亡案妈妈再勇敢一次",
+        "onboard_time": 1758720982,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183365,
+        "num": 183365,
+        "word": "雷军感谢车企支持",
+        "onboard_time": 1758723502,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175316,
+        "num": 175316,
+        "word": "张雪峰",
+        "onboard_time": 1758709461,
+        "rank": 35,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 156843,
+        "num": 156843,
+        "word": "王源GAI热聊",
+        "onboard_time": 1758724523,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154628,
+        "num": 154628,
+        "word": "浙江45岁失联男子已遇难",
+        "onboard_time": 1758724643,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152625,
+        "num": 152625,
+        "word": "老人去世留8套房给非亲生女儿最多",
+        "onboard_time": 1758717442,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152134,
+        "num": 152134,
+        "word": "台湾花莲溃坝惨案",
+        "onboard_time": 1758716422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104425,
+        "num": 151829,
+        "word": "周深靠在谭维维肩上",
+        "onboard_time": 1758723082,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75137,
+        "num": 151824,
+        "word": "20万级SUV首选",
+        "onboard_time": 1758723442,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151824,
+        "num": 151823,
+        "word": "戴向宇回应不爱陈紫函",
+        "onboard_time": 1758707183,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149111,
+        "num": 149111,
+        "word": "GAI和薛凯琪说啥了",
+        "onboard_time": 1758724643,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145618,
+        "num": 145618,
+        "word": "张雪峰间接投资超140家企业",
+        "onboard_time": 1758724702,
+        "rank": 44,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 78250,
+        "num": 144378,
+        "word": "麻六记别总让代工厂当挡箭牌",
+        "onboard_time": 1758723322,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143932,
+        "num": 143932,
+        "word": "李宇春 冬泳",
+        "onboard_time": 1758722663,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144086,
+        "num": 142419,
+        "word": "张碧晨Ella王心凌合照",
+        "onboard_time": 1758723983,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138459,
+        "num": 138459,
+        "word": "小米17",
+        "onboard_time": 1758715882,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135839,
+        "num": 135839,
+        "word": "黄圣依家宴",
+        "onboard_time": 1758704663,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#完整准确全面贯彻新时代党的治疆方略#"
+    }
+  }
+}
