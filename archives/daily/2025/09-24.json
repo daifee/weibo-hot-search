@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758720845684,
+  "endTime": 1758721537118,
   "band_list": [
     {
       "raw_hot": 9419194,
@@ -57,6 +57,14 @@
       "onboard_time": 1758686480,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1631311,
+      "num": 1631311,
+      "word": "俞孔坚在巴西坠机遇难",
+      "onboard_time": 1758720563,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1485071,
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 895019,
+      "num": 895019,
+      "word": "姐弟坠亡案妈妈5年后官宣新恋情",
+      "onboard_time": 1758719722,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 878926,
       "num": 878926,
       "word": "不二之臣 审美",
@@ -355,8 +371,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 702687,
+      "num": 383330,
+      "word": "垫底辣孩回应丑出圈",
+      "onboard_time": 1758718763,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 692598,
-      "num": 350063,
+      "num": 381718,
       "word": "刘亦菲和两位年轻男子聚餐",
       "onboard_time": 1758713121,
       "rank": 22,
@@ -523,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 528220,
-      "num": 284104,
-      "word": "垫底辣孩回应丑出圈",
-      "onboard_time": 1758718763,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 510349,
       "num": 565200,
       "word": "网红罗几因车祸不幸遇难",
@@ -563,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 490021,
-      "num": 490021,
-      "word": "姐弟坠亡案妈妈5年后官宣新恋情",
-      "onboard_time": 1758719722,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 492086,
+      "num": 492086,
+      "word": "王源 好听",
+      "onboard_time": 1758720321,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 471772,
@@ -699,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361541,
+      "num": 361541,
+      "word": "向太说刘亦菲圈内口碑真的很好",
+      "onboard_time": 1758718102,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358393,
       "num": 358393,
       "word": "西贝发放100元堂食代金券",
@@ -721,14 +745,6 @@
       "onboard_time": 1758629902,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342332,
-      "num": 291546,
-      "word": "向太说刘亦菲圈内口碑真的很好",
-      "onboard_time": 1758718102,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 340124,
@@ -875,8 +891,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296562,
-      "num": 291147,
+      "raw_hot": 299982,
+      "num": 299982,
       "word": "老人去世留8套房给非亲生女儿最多",
       "onboard_time": 1758717442,
       "rank": 26,
@@ -947,14 +963,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 279516,
-      "num": 279516,
-      "word": "王源 好听",
-      "onboard_time": 1758720321,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 278313,
       "num": 278313,
       "word": "王家卫 古二",
@@ -1000,14 +1008,6 @@
       "word": "桦加沙今日登陆广东",
       "onboard_time": 1758685402,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263275,
-      "num": 272902,
-      "word": "俞孔坚在巴西坠机遇难",
-      "onboard_time": 1758720563,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1121,6 +1121,14 @@
       "onboard_time": 1758708021,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 230883,
+      "num": 230883,
+      "word": "许我耀眼",
+      "onboard_time": 1758720743,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 229606,
@@ -1651,20 +1659,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177120,
+      "num": 244789,
+      "word": "王俊凯平遥生图",
+      "onboard_time": 1758720683,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176640,
       "num": 176640,
       "word": "宋威龙扛住了G社镜头",
       "onboard_time": 1758682881,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175620,
-      "num": 175620,
-      "word": "王俊凯平遥生图",
-      "onboard_time": 1758720683,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 174727,
@@ -1755,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166853,
+      "num": 166853,
+      "word": "全新领克08售价15.98万元起",
+      "onboard_time": 1758721223,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 166761,
       "num": 166761,
       "word": "李宁乒乓球",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1758718763,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156983,
+      "num": 156983,
+      "word": "iG和TES争夺三号种子名额",
+      "onboard_time": 1758720922,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 156375,
@@ -1977,14 +2001,6 @@
       "onboard_time": 1758717442,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145727,
-      "num": 145727,
-      "word": "许我耀眼",
-      "onboard_time": 1758720743,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 145465,
@@ -2291,6 +2307,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 130052,
+      "num": 274879,
+      "word": "姐弟坠亡案妈妈再勇敢一次",
+      "onboard_time": 1758720982,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128127,
       "num": 191918,
       "word": "预计桦加沙25日远离深圳",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1758707362,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125601,
+      "num": 125601,
+      "word": "终于有剧把娱乐圈面试拍出来了",
+      "onboard_time": 1758721462,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 125174,
@@ -2627,6 +2659,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 98283,
+      "num": 235187,
+      "word": "知情人确认俞孔坚去世",
+      "onboard_time": 1758721402,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96569,
       "num": 359281,
       "word": "续面事件老板鞠躬致歉",
@@ -2651,20 +2691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95680,
+      "num": 240359,
+      "word": "问界M7一日大定突破4万台",
+      "onboard_time": 1758719782,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95078,
       "num": 198051,
       "word": "SNH48 看得出她们是公主",
       "onboard_time": 1758705022,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94972,
-      "num": 233276,
-      "word": "问界M7一日大定突破4万台",
-      "onboard_time": 1758719782,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 94503,
@@ -2964,7 +3004,7 @@
     },
     {
       "raw_hot": 59537,
-      "num": 281685,
+      "num": 365015,
       "word": "檀健次同款包包",
       "onboard_time": 1758719962,
       "rank": 15,
@@ -3380,11 +3420,19 @@
     },
     {
       "raw_hot": 20028,
-      "num": 779866,
+      "num": 1059430,
       "word": "一首歌祝福新疆",
       "onboard_time": 1758719181,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17913,
+      "num": 239286,
+      "word": "桦加沙强度为何快速下降",
+      "onboard_time": 1758721282,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15810,
@@ -3442,6 +3490,9 @@
     },
     {
       "word": "#完整准确全面贯彻新时代党的治疆方略#"
+    },
+    {
+      "word": "#新疆70年辉煌成就#"
     }
   ]
 }
