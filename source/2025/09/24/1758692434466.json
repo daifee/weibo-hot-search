@@ -1,0 +1,410 @@
+{
+  "runTime": 1758692434466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1225646,
+        "num": 1225646,
+        "word": "香港一酒店玻璃冲爆有人被冲走",
+        "onboard_time": 1758688403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939334,
+        "num": 939334,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35733,
+        "num": 667085,
+        "word": "收到台风预警信息后该怎么做",
+        "onboard_time": 1758686422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657561,
+        "num": 657561,
+        "word": "男子茅台镇投8亿建厂遭强行接管",
+        "onboard_time": 1758689544,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650003,
+        "num": 650003,
+        "word": "深圳已录得最大阵风15级",
+        "onboard_time": 1758682700,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1258377,
+        "num": 613452,
+        "word": "王传君 我不喜欢",
+        "onboard_time": 1758686480,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1235278,
+        "num": 578426,
+        "word": "杨幂 不必心疼我们",
+        "onboard_time": 1758689425,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538040,
+        "num": 538040,
+        "word": "榴莲味月饼一块0.6元含真果肉20元",
+        "onboard_time": 1758686602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455129,
+        "num": 455129,
+        "word": "桦加沙广州",
+        "onboard_time": 1758683181,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285954,
+        "num": 428694,
+        "word": "中国宣布涉世贸组织谈判重要决定",
+        "onboard_time": 1758690623,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 518350,
+        "num": 427969,
+        "word": "昆凌前三胎都是剖腹产",
+        "onboard_time": 1758685881,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425383,
+        "num": 425383,
+        "word": "辛芷蕾 你还能原谅我吗",
+        "onboard_time": 1758684801,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398706,
+        "num": 398706,
+        "word": "桦加沙",
+        "onboard_time": 1758686902,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347724,
+        "num": 347724,
+        "word": "不二之臣 审美",
+        "onboard_time": 1758683780,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329843,
+        "num": 329843,
+        "word": "迪丽热巴剪彩怕彩头掉地上",
+        "onboard_time": 1758685402,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320278,
+        "num": 320278,
+        "word": "台风外眼已经抵达珠三角地区",
+        "onboard_time": 1758675801,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316656,
+        "num": 316656,
+        "word": "珠海台风",
+        "onboard_time": 1758675682,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270637,
+        "num": 290392,
+        "word": "唐嫣 中老年套装",
+        "onboard_time": 1758691701,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42728,
+        "num": 285516,
+        "word": "多家媒体关注的飞猪公开课是什么",
+        "onboard_time": 1758689544,
+        "rank": 18,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 129354,
+        "num": 281860,
+        "word": "台湾台风遇难者多为住一楼老人",
+        "onboard_time": 1758689723,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281683,
+        "num": 281683,
+        "word": "近距离看桦加沙",
+        "onboard_time": 1758684202,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259970,
+        "num": 259970,
+        "word": "王家卫 古二",
+        "onboard_time": 1758689244,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247799,
+        "num": 247799,
+        "word": "刘芮麟和太太约定不会分开",
+        "onboard_time": 1758684381,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241687,
+        "num": 241687,
+        "word": "台风致台湾花莲14死",
+        "onboard_time": 1758671660,
+        "rank": 23,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 212816,
+        "num": 212816,
+        "word": "桃黑黑 恋爱怎么会和谁谈都一样呢",
+        "onboard_time": 1758690444,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 203681,
+        "num": 203681,
+        "word": "桦加沙今日登陆广东",
+        "onboard_time": 1758685402,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201655,
+        "num": 201655,
+        "word": "王者罗小黑战记张良皮肤",
+        "onboard_time": 1758689904,
+        "rank": 26,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 201270,
+        "num": 201270,
+        "word": "歌手欧豪杀回来了",
+        "onboard_time": 1758689003,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200601,
+        "num": 200601,
+        "word": "不二之臣阵容官宣",
+        "onboard_time": 1758682821,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75392,
+        "num": 194623,
+        "word": "米兰街头偶遇关晓彤",
+        "onboard_time": 1758687862,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193896,
+        "num": 193896,
+        "word": "外卖杀手",
+        "onboard_time": 1758683481,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188250,
+        "num": 188250,
+        "word": "真有人给马思纯张晚意递本子了",
+        "onboard_time": 1758692002,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184072,
+        "num": 184072,
+        "word": "杨幂胳膊迟早被陈哲远打肿",
+        "onboard_time": 1758690203,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167621,
+        "num": 167621,
+        "word": "桦加沙将于24日下午到夜间登陆",
+        "onboard_time": 1758691943,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166382,
+        "num": 166382,
+        "word": "现实版的直树和裕树",
+        "onboard_time": 1758688883,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 925209,
+        "num": 165751,
+        "word": "特朗普称中国空气糟糕",
+        "onboard_time": 1758689904,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164746,
+        "num": 164746,
+        "word": "珠海被要求撤离高层住户发声",
+        "onboard_time": 1758692122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62630,
+        "num": 156851,
+        "word": "特朗普爱泼斯坦牵手雕像亮相白宫外",
+        "onboard_time": 1758691223,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154009,
+        "num": 154009,
+        "word": "特朗普联大演讲矛头对准欧洲",
+        "onboard_time": 1758677121,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81437,
+        "num": 146914,
+        "word": "女友突然去世男子上门求带走骨灰",
+        "onboard_time": 1758692062,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39281,
+        "num": 145567,
+        "word": "李云鹏吐槽短剧亲密戏尺度",
+        "onboard_time": 1758691223,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144733,
+        "num": 144733,
+        "word": "榴莲月饼",
+        "onboard_time": 1758690623,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142620,
+        "num": 142620,
+        "word": "原来孙红雷馋的赛螃蟹长这样",
+        "onboard_time": 1758682281,
+        "rank": 42,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 49804,
+        "num": 142503,
+        "word": "陈数回国后梦里还在录花少",
+        "onboard_time": 1758692422,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57397,
+        "num": 142443,
+        "word": "王曼昱的战术秘诀",
+        "onboard_time": 1758686722,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142418,
+        "num": 142418,
+        "word": "12级风圈中惊涛拍岸具象化了",
+        "onboard_time": 1758691823,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137138,
+        "num": 137138,
+        "word": "妈妈否认故意弄脏瑶一瑶",
+        "onboard_time": 1758691642,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132587,
+        "num": 132587,
+        "word": "令人心动的offer",
+        "onboard_time": 1758690982,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132248,
+        "num": 132248,
+        "word": "被台风桦加沙吹过的深圳路面",
+        "onboard_time": 1758689123,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128064,
+        "num": 128064,
+        "word": "最适合我的理财方式",
+        "onboard_time": 1758691701,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记抵达新疆时收到了石榴花束#"
+    }
+  }
+}
