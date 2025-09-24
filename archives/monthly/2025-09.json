@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758745703345,
+  "endTime": 1758746348033,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -67659,6 +67659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71992,
+      "num": 71992,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 71953,
       "num": 71953,
       "word": "AirPodsPro3充电盒内置U2芯片",
@@ -69209,14 +69217,6 @@
       "onboard_time": 1758359602,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62668,
-      "num": 62668,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 62648,
@@ -77507,6 +77507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17787,
+      "num": 52474,
+      "word": "台湾民众拍下洪水冲毁桥面瞬间",
+      "onboard_time": 1758744854,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17615,
       "num": 77633,
       "word": "商务部回应中美会谈",
@@ -78187,14 +78195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11949,
-      "num": 52474,
-      "word": "台湾民众拍下洪水冲毁桥面瞬间",
-      "onboard_time": 1758744854,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11890,
       "num": 20923,
       "word": "抱抱抗日老战士",
@@ -78353,6 +78353,14 @@
       "onboard_time": 1757633724,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10235,
+      "num": 27298,
+      "word": "桦加沙登陆了",
+      "onboard_time": 1758746054,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9929,

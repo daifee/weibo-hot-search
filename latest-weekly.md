@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 04:28:23
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 04:39:08
 </p>
 </blockquote>
 <p>
@@ -8937,6 +8937,12 @@ iPhone17系列充电时疑漏电（热度：72975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
+广东大部分被台风桦加沙覆盖（热度：71992）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2327%E7%9A%84%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
 27的王安宇（热度：71901）
 </a>
@@ -9173,12 +9179,6 @@ MG总经理秀后台真实订单（热度：65054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%89%8B%E6%8D%A7%E7%85%A4%E7%90%83%E9%A5%BA%E5%AD%90%E8%98%B8%E9%86%8B%23" target="weibo">
 黄子弘凡手捧煤球饺子蘸醋（热度：62764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
-广东大部分被台风桦加沙覆盖（热度：62668）
 </a>
 </li>
 
@@ -10611,6 +10611,12 @@ Knight有我就有冠军（热度：18611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E6%8B%8D%E4%B8%8B%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%AF%81%E6%A1%A5%E9%9D%A2%E7%9E%AC%E9%97%B4%23" target="weibo">
+台湾民众拍下洪水冲毁桥面瞬间（热度：17787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%E7%A0%B4%E9%97%A8%23" target="weibo">
 莱昂纳多破门（热度：16737）
 </a>
@@ -10695,12 +10701,6 @@ Knight有我就有冠军（热度：18611）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E6%8B%8D%E4%B8%8B%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%AF%81%E6%A1%A5%E9%9D%A2%E7%9E%AC%E9%97%B4%23" target="weibo">
-台湾民众拍下洪水冲毁桥面瞬间（热度：11949）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E5%AF%BC%E6%BC%94%E4%B9%9F%E6%83%A6%E8%AE%B0%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E9%AD%94%E6%80%A7%E7%AC%91%E5%A3%B0%23" target="weibo">
 震耳欲聋导演也惦记檀健次的魔性笑声（热度：11501）
 </a>
@@ -10715,6 +10715,12 @@ Knight有我就有冠军（热度：18611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E8%87%AA%E6%9B%9D%E5%BE%92%E6%89%8B%E6%8A%93%E5%B0%8F%E5%81%B7%23" target="weibo">
 李一桐自曝徒手抓小偷（热度：11073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E4%BA%86%23" target="weibo">
+桦加沙登陆了（热度：10235）
 </a>
 </li>
 

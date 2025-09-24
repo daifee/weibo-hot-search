@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 04:28:23
+本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 04:39:08
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
+广东大部分被台风桦加沙覆盖（热度：71992）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B017%E4%BA%BA%E4%BF%AE%E6%AD%A3%E4%B8%BA14%E4%BA%BA%23" target="weibo">
 台湾花莲死亡人数17人修正为14人（热度：71668）
 </a>
@@ -329,12 +335,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%20%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23" target="weibo">
 刘雨昕 偷偷藏不住（热度：64781）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
-广东大部分被台风桦加沙覆盖（热度：62668）
 </a>
 </li>
 
@@ -429,6 +429,12 @@ TFBOYS宣传王俊凯平遥电影展（热度：19593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E6%8B%8D%E4%B8%8B%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%AF%81%E6%A1%A5%E9%9D%A2%E7%9E%AC%E9%97%B4%23" target="weibo">
+台湾民众拍下洪水冲毁桥面瞬间（热度：17787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%AF%B4%E6%97%A5%E6%96%B9%E5%BA%94%E6%B7%B1%E5%88%BB%E5%8F%8D%E7%9C%81%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%B4%A3%23" target="weibo">
 外交部说日方应深刻反省历史罪责（热度：15303）
 </a>
@@ -441,8 +447,8 @@ TFBOYS宣传王俊凯平遥电影展（热度：19593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E6%8B%8D%E4%B8%8B%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%AF%81%E6%A1%A5%E9%9D%A2%E7%9E%AC%E9%97%B4%23" target="weibo">
-台湾民众拍下洪水冲毁桥面瞬间（热度：11949）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E4%BA%86%23" target="weibo">
+桦加沙登陆了（热度：10235）
 </a>
 </li>
 
