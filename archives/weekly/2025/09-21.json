@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758713814804,
+  "endTime": 1758718271843,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -307,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1315006,
+      "num": 695807,
+      "word": "张雪峰回应账号被禁止关注",
+      "onboard_time": 1758711022,
+      "rank": 3,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1286011,
       "num": 353478,
       "word": "始祖鸟 安踏",
@@ -513,14 +521,6 @@
       "onboard_time": 1758506061,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1033412,
-      "num": 695807,
-      "word": "张雪峰回应账号被禁止关注",
-      "onboard_time": 1758711022,
-      "rank": 3,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1029972,
@@ -1211,6 +1211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 710213,
+      "num": 710213,
+      "word": "王楚钦 奔驰",
+      "onboard_time": 1758707062,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704621,
       "num": 704621,
       "word": "广州人台风天都不买的菜",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1758699442,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 673953,
-      "num": 673953,
-      "word": "王楚钦 奔驰",
-      "onboard_time": 1758707062,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 671372,
@@ -1379,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651451,
+      "num": 651451,
+      "word": "网红敖其尔去世",
+      "onboard_time": 1758714502,
+      "rank": 3,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 650712,
       "num": 650712,
       "word": "始祖鸟欠喜马拉雅山一声道歉",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1758510440,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 626304,
+      "num": 275681,
+      "word": "刘亦菲和两位年轻男子聚餐",
+      "onboard_time": 1758713121,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 619657,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1758550943,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516557,
+      "num": 516557,
+      "word": "肖战直播",
+      "onboard_time": 1758714562,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 516117,
@@ -2217,6 +2241,14 @@
       "onboard_time": 1758588982,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421234,
+      "num": 421234,
+      "word": "绍兴地铁深夜撞保洁员致多人伤亡",
+      "onboard_time": 1758716541,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419326,
@@ -2697,6 +2729,14 @@
       "onboard_time": 1758626541,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321467,
+      "num": 321467,
+      "word": "台风停工不能以调休冲抵",
+      "onboard_time": 1758714741,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320333,
@@ -3227,6 +3267,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 265626,
+      "num": 265626,
+      "word": "车企力挺小米17",
+      "onboard_time": 1758715822,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 264944,
       "num": 201914,
       "word": "戴向宇说陈紫函会给他洗内裤",
@@ -3483,6 +3531,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 246053,
+      "num": 278549,
+      "word": "西贝发放100元堂食代金券",
+      "onboard_time": 1758716422,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245725,
       "num": 245725,
       "word": "户外品牌集体表态尊重自然",
@@ -3619,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237872,
+      "num": 237872,
+      "word": "谭维维一只手忘了涂美白霜",
+      "onboard_time": 1758713842,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237814,
       "num": 212386,
       "word": "模仿王源wink博主说要回归工作",
@@ -3641,6 +3705,14 @@
       "onboard_time": 1758420863,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 237024,
+      "num": 237024,
+      "word": "台湾花莲溃坝惨案",
+      "onboard_time": 1758716422,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236183,
@@ -3729,14 +3801,6 @@
       "onboard_time": 1758468684,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225653,
-      "num": 213673,
-      "word": "刘亦菲和两位年轻男子聚餐",
-      "onboard_time": 1758713121,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 225175,
@@ -4259,12 +4323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205417,
+      "num": 205417,
+      "word": "王俊凯闯荡半生归来仍是男大",
+      "onboard_time": 1758717201,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205356,
       "num": 329975,
       "word": "七星鲁王宫重拍了",
       "onboard_time": 1758429563,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205140,
+      "num": 205140,
+      "word": "肖战红丝巾",
+      "onboard_time": 1758714921,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 204183,
@@ -5339,6 +5419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179853,
+      "num": 179853,
+      "word": "辛芷蕾意气风发的美",
+      "onboard_time": 1758717742,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179712,
       "num": 179712,
       "word": "半个娱乐圈都来长治了",
@@ -5441,6 +5529,14 @@
       "onboard_time": 1758448042,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177684,
+      "num": 177684,
+      "word": "老人去世留8套房给非亲生女儿最多",
+      "onboard_time": 1758717442,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177016,
@@ -5856,6 +5952,14 @@
       "word": "王楚钦祝隔壁老樊越来越好",
       "onboard_time": 1758512723,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166761,
+      "num": 166761,
+      "word": "李宁乒乓球",
+      "onboard_time": 1758717022,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -6307,6 +6411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158182,
+      "num": 158182,
+      "word": "陪爬泰山男演员回应转行种地",
+      "onboard_time": 1758713361,
+      "rank": 44,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 158115,
       "num": 178177,
       "word": "大侦探11嘉宾",
@@ -6393,6 +6505,14 @@
       "onboard_time": 1758682942,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156075,
+      "num": 156075,
+      "word": "Fendi大秀",
+      "onboard_time": 1758716781,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 155654,
@@ -6571,6 +6691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152823,
+      "num": 152823,
+      "word": "华为WatchGT6",
+      "onboard_time": 1758717622,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152714,
       "num": 152714,
       "word": "小米17续航",
@@ -6601,6 +6729,14 @@
       "onboard_time": 1758597742,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152362,
+      "num": 152362,
+      "word": "向太说刘亦菲圈内口碑真的很好",
+      "onboard_time": 1758718102,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 151903,
@@ -6785,6 +6921,14 @@
       "onboard_time": 1758427522,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148732,
+      "num": 148732,
+      "word": "终于也轮到毛不易说这句话了",
+      "onboard_time": 1758717801,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 148634,
@@ -6987,6 +7131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145591,
+      "num": 145591,
+      "word": "俞孔坚",
+      "onboard_time": 1758718223,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145488,
       "num": 145488,
       "word": "珠海工作人员敲锣通知居民撤离",
@@ -7072,6 +7224,14 @@
       "word": "深圳一流浪人员不愿转移街道劝导",
       "onboard_time": 1758678501,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144508,
+      "num": 138141,
+      "word": "阳江录得16级大风",
+      "onboard_time": 1758715403,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -7691,6 +7851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135370,
+      "num": 135370,
+      "word": "张帅vs扎哈洛娃",
+      "onboard_time": 1758718161,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135209,
       "num": 135209,
       "word": "徐明浩这段dancebreak",
@@ -7833,6 +8001,22 @@
       "onboard_time": 1758595702,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132956,
+      "num": 132956,
+      "word": "海陵岛居民发声",
+      "onboard_time": 1758715403,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132556,
+      "num": 130914,
+      "word": "唐嫣檀健次同框看秀",
+      "onboard_time": 1758718161,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 132444,
@@ -8243,14 +8427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127577,
-      "num": 127577,
-      "word": "陪爬泰山男演员回应转行种地",
-      "onboard_time": 1758713361,
-      "rank": 44,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 127365,
       "num": 127365,
       "word": "英超官方欢迎樊振东再来",
@@ -8400,6 +8576,14 @@
       "word": "北京国安vs上海海港",
       "onboard_time": 1758452902,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124948,
+      "num": 124948,
+      "word": "中网",
+      "onboard_time": 1758718223,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -11627,6 +11811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56720,
+      "num": 148807,
+      "word": "迅猛龙没上过班",
+      "onboard_time": 1758717861,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 56518,
       "num": 164276,
       "word": "吴磊说进阶骑行有华为GT6就够了",
@@ -12443,6 +12635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36824,
+      "num": 135441,
+      "word": "桦加沙进入茂名境内",
+      "onboard_time": 1758717502,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36588,
       "num": 129423,
       "word": "何超莲深圳停工前加急出席活动",
@@ -12680,6 +12880,14 @@
       "word": "城管局回应翻8吨垃圾找误扔现金",
       "onboard_time": 1758535282,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31451,
+      "num": 148741,
+      "word": "阿尔山200一晚酒店国庆涨到1600",
+      "onboard_time": 1758717502,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758713814804,
+  "endTime": 1758718271843,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2603,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1315006,
+      "num": 695807,
+      "word": "张雪峰回应账号被禁止关注",
+      "onboard_time": 1758711022,
+      "rank": 3,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1314976,
       "num": 375127,
       "word": "杨幂 谢谢大家参加我的四十大寿",
@@ -3865,14 +3873,6 @@
       "onboard_time": 1757904380,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1033412,
-      "num": 695807,
-      "word": "张雪峰回应账号被禁止关注",
-      "onboard_time": 1758711022,
-      "rank": 3,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1030782,
@@ -7107,6 +7107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 710213,
+      "num": 710213,
+      "word": "王楚钦 奔驰",
+      "onboard_time": 1758707062,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 709853,
       "num": 709853,
       "word": "肖战 美团团购",
@@ -7611,14 +7619,6 @@
       "category": "艺人,国内时政"
     },
     {
-      "raw_hot": 673953,
-      "num": 673953,
-      "word": "王楚钦 奔驰",
-      "onboard_time": 1758707062,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 673633,
       "num": 673633,
       "word": "影后想要 影后得到",
@@ -7969,6 +7969,14 @@
       "onboard_time": 1758207504,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 651451,
+      "num": 651451,
+      "word": "网红敖其尔去世",
+      "onboard_time": 1758714502,
+      "rank": 3,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 650712,
@@ -8337,6 +8345,14 @@
       "onboard_time": 1756910784,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 626304,
+      "num": 275681,
+      "word": "刘亦菲和两位年轻男子聚餐",
+      "onboard_time": 1758713121,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 626186,
@@ -10593,6 +10609,14 @@
       "onboard_time": 1758276084,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 516557,
+      "num": 516557,
+      "word": "肖战直播",
+      "onboard_time": 1758714562,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 516413,
@@ -13369,6 +13393,14 @@
       "onboard_time": 1758588982,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421234,
+      "num": 421234,
+      "word": "绍兴地铁深夜撞保洁员致多人伤亡",
+      "onboard_time": 1758716541,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421135,
@@ -17195,6 +17227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 321467,
+      "num": 321467,
+      "word": "台风停工不能以调休冲抵",
+      "onboard_time": 1758714741,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321335,
       "num": 967681,
       "word": "以色列攻击卡塔尔前一刻通知美方",
@@ -20019,6 +20059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265626,
+      "num": 265626,
+      "word": "车企力挺小米17",
+      "onboard_time": 1758715822,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 265575,
       "num": 265575,
       "word": "卖房救重病男友发现他没病还已婚",
@@ -21243,6 +21291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246053,
+      "num": 278549,
+      "word": "西贝发放100元堂食代金券",
+      "onboard_time": 1758716422,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246026,
       "num": 213840,
       "word": "打五折和买一赠一哪个便宜",
@@ -21947,6 +22003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237872,
+      "num": 237872,
+      "word": "谭维维一只手忘了涂美白霜",
+      "onboard_time": 1758713842,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237814,
       "num": 212386,
       "word": "模仿王源wink博主说要回归工作",
@@ -22033,6 +22097,14 @@
       "onboard_time": 1758420863,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 237024,
+      "num": 237024,
+      "word": "台湾花莲溃坝惨案",
+      "onboard_time": 1758716422,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236727,
@@ -22977,14 +23049,6 @@
       "onboard_time": 1758017302,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225653,
-      "num": 213673,
-      "word": "刘亦菲和两位年轻男子聚餐",
-      "onboard_time": 1758713121,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 225440,
@@ -25395,6 +25459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205417,
+      "num": 205417,
+      "word": "王俊凯闯荡半生归来仍是男大",
+      "onboard_time": 1758717201,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205356,
       "num": 329975,
       "word": "七星鲁王宫重拍了",
@@ -25409,6 +25481,14 @@
       "onboard_time": 1757760804,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205140,
+      "num": 205140,
+      "word": "肖战红丝巾",
+      "onboard_time": 1758714921,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 205097,
@@ -30971,6 +31051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179853,
+      "num": 179853,
+      "word": "辛芷蕾意气风发的美",
+      "onboard_time": 1758717742,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179770,
       "num": 179770,
       "word": "倪妮谈和樊振东微博互关",
@@ -31377,6 +31465,14 @@
       "onboard_time": 1757917702,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177684,
+      "num": 177684,
+      "word": "老人去世留8套房给非亲生女儿最多",
+      "onboard_time": 1758717442,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177607,
@@ -33849,6 +33945,14 @@
       "onboard_time": 1757554882,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166761,
+      "num": 166761,
+      "word": "李宁乒乓球",
+      "onboard_time": 1758717022,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 166757,
@@ -36363,6 +36467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158182,
+      "num": 158182,
+      "word": "陪爬泰山男演员回应转行种地",
+      "onboard_time": 1758713361,
+      "rank": 44,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 158143,
       "num": 174981,
       "word": "河北石家庄一学校被曝扔学生外卖",
@@ -36913,6 +37025,14 @@
       "onboard_time": 1758350721,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 156075,
+      "num": 156075,
+      "word": "Fendi大秀",
+      "onboard_time": 1758716781,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 156069,
@@ -37915,6 +38035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152823,
+      "num": 152823,
+      "word": "华为WatchGT6",
+      "onboard_time": 1758717622,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152822,
       "num": 152822,
       "word": "孙颖莎首位澳门赛三冠王",
@@ -38009,6 +38137,14 @@
       "onboard_time": 1758597742,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152362,
+      "num": 152362,
+      "word": "向太说刘亦菲圈内口碑真的很好",
+      "onboard_time": 1758718102,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 152310,
@@ -39259,6 +39395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148732,
+      "num": 148732,
+      "word": "终于也轮到毛不易说这句话了",
+      "onboard_time": 1758717801,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148723,
       "num": 148723,
       "word": "杜普兰蒂斯第14次打破世界纪录",
@@ -40427,6 +40571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145591,
+      "num": 145591,
+      "word": "俞孔坚",
+      "onboard_time": 1758718223,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145579,
       "num": 145579,
       "word": "国家网络安全事件报告管理办法发布",
@@ -40865,6 +41017,14 @@
       "onboard_time": 1757587112,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144508,
+      "num": 138141,
+      "word": "阳江录得16级大风",
+      "onboard_time": 1758715403,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144504,
@@ -44283,6 +44443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135370,
+      "num": 135370,
+      "word": "张帅vs扎哈洛娃",
+      "onboard_time": 1758718161,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135349,
       "num": 160887,
       "word": "柯淳说曾志伟不如自己懂短剧",
@@ -45267,6 +45435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132956,
+      "num": 132956,
+      "word": "海陵岛居民发声",
+      "onboard_time": 1758715403,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132864,
       "num": 137063,
       "word": "AirPodsPro3耳机缩小",
@@ -45353,6 +45529,14 @@
       "onboard_time": 1756988664,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132556,
+      "num": 130914,
+      "word": "唐嫣檀健次同框看秀",
+      "onboard_time": 1758718161,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 132554,
@@ -47499,14 +47683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127577,
-      "num": 127577,
-      "word": "陪爬泰山男演员回应转行种地",
-      "onboard_time": 1758713361,
-      "rank": 44,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 127574,
       "num": 127574,
       "word": "2025PEL夏决晋级名单",
@@ -48569,6 +48745,14 @@
       "onboard_time": 1757433682,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124948,
+      "num": 124948,
+      "word": "中网",
+      "onboard_time": 1758718223,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124934,
@@ -69571,6 +69755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56720,
+      "num": 148807,
+      "word": "迅猛龙没上过班",
+      "onboard_time": 1758717861,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 56713,
       "num": 112967,
       "word": "国际乒联启动章程改革",
@@ -73395,6 +73587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 36824,
+      "num": 135441,
+      "word": "桦加沙进入茂名境内",
+      "onboard_time": 1758717502,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36788,
       "num": 480422,
       "word": "黄岩岛国家级自然保护区情况公布",
@@ -74304,6 +74504,14 @@
       "word": "城管局回应翻8吨垃圾找误扔现金",
       "onboard_time": 1758535282,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31451,
+      "num": 148741,
+      "word": "阿尔山200一晚酒店国庆涨到1600",
+      "onboard_time": 1758717502,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
