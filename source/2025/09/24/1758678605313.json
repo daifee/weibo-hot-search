@@ -1,0 +1,410 @@
+{
+  "runTime": 1758678605313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820878,
+        "num": 1820878,
+        "word": "台风致台湾花莲14死",
+        "onboard_time": 1758671660,
+        "rank": 0,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 1341230,
+        "num": 1341230,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25959,
+        "num": 1146858,
+        "word": "丰收中国",
+        "onboard_time": 1758634463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1031092,
+        "num": 1031092,
+        "word": "珠海台风",
+        "onboard_time": 1758675682,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790593,
+        "num": 790593,
+        "word": "预计桦加沙24日9时前后离广州最近",
+        "onboard_time": 1758670940,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590027,
+        "num": 590027,
+        "word": "台风桦加沙减弱至十六级",
+        "onboard_time": 1758641722,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471772,
+        "num": 471772,
+        "word": "中国女子日本旅游遭歧视",
+        "onboard_time": 1758674362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271589,
+        "num": 469418,
+        "word": "鹿晗出发新加坡",
+        "onboard_time": 1758671602,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158064,
+        "num": 468052,
+        "word": "网红罗几因车祸不幸遇难",
+        "onboard_time": 1758633863,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278015,
+        "num": 467133,
+        "word": "深圳继续五停",
+        "onboard_time": 1758677121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467122,
+        "num": 467122,
+        "word": "桦加沙预测登陆点时间都不具体",
+        "onboard_time": 1758674902,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 735291,
+        "num": 456613,
+        "word": "昆凌说怀四胎顺其自然",
+        "onboard_time": 1758672261,
+        "rank": 11,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 559479,
+        "num": 445748,
+        "word": "骚扰女性毕业生考上选调生",
+        "onboard_time": 1758676942,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433903,
+        "num": 433903,
+        "word": "上海绿捷道歉",
+        "onboard_time": 1758641305,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323879,
+        "num": 323879,
+        "word": "瑞幸苹果拿铁文案 翻车",
+        "onboard_time": 1758629902,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315216,
+        "num": 315216,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284297,
+        "num": 284297,
+        "word": "白鹿晒随手扎了一个很满意的丸子头",
+        "onboard_time": 1758669260,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229410,
+        "num": 229410,
+        "word": "台风外眼已经抵达珠三角地区",
+        "onboard_time": 1758675801,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228112,
+        "num": 228112,
+        "word": "台风将至55岁大象无避雨内舍",
+        "onboard_time": 1758641062,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127487,
+        "num": 196488,
+        "word": "郑恺用11年一雪保鲜膜船前耻",
+        "onboard_time": 1758634704,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692974,
+        "num": 196282,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1758634885,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189600,
+        "num": 189600,
+        "word": "酸辣粉发霉",
+        "onboard_time": 1758673462,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183106,
+        "num": 183106,
+        "word": "特朗普联大演讲矛头对准欧洲",
+        "onboard_time": 1758677121,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181815,
+        "num": 181815,
+        "word": "深圳地铁",
+        "onboard_time": 1758669260,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178725,
+        "num": 178725,
+        "word": "特朗普到联合国电梯提词器都坏了",
+        "onboard_time": 1758677482,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151570,
+        "num": 151570,
+        "word": "iPhone灵动岛正确打开方式",
+        "onboard_time": 1758669260,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122592,
+        "num": 151387,
+        "word": "花少7成员和谐的原因找到了",
+        "onboard_time": 1758671660,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108871,
+        "num": 150838,
+        "word": "Gucci时装周",
+        "onboard_time": 1758673701,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101364,
+        "num": 150431,
+        "word": "丁禹兮 有什么歌单推荐",
+        "onboard_time": 1758677900,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100778,
+        "num": 150209,
+        "word": "李一桐米兰偶遇李现",
+        "onboard_time": 1758637404,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256037,
+        "num": 149735,
+        "word": "王扁模仿王源走红疑开多号接受打赏",
+        "onboard_time": 1758634164,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149608,
+        "num": 149608,
+        "word": "一只猫睡出了人的样子",
+        "onboard_time": 1758675923,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139734,
+        "num": 139734,
+        "word": "莎头组合将再战混双",
+        "onboard_time": 1758677900,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136411,
+        "num": 136411,
+        "word": "广东店主回应400一天租重卡防台风",
+        "onboard_time": 1758673462,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114182,
+        "num": 126858,
+        "word": "黄灿灿回应被称为武大校花",
+        "onboard_time": 1758631642,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125849,
+        "num": 125849,
+        "word": "赴山海是否意味着新武侠剧的没落",
+        "onboard_time": 1758631043,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119055,
+        "num": 119055,
+        "word": "深圳全市公共交通停运",
+        "onboard_time": 1758650236,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117469,
+        "num": 117469,
+        "word": "深圳一流浪人员不愿转移街道劝导",
+        "onboard_time": 1758678501,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115561,
+        "num": 115561,
+        "word": "三个窍门教你买到合适的秋冬女装",
+        "onboard_time": 1758678201,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 115209,
+        "num": 115209,
+        "word": "桦加沙路径",
+        "onboard_time": 1758622222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115202,
+        "num": 115202,
+        "word": "上海绿捷已被立案侦查",
+        "onboard_time": 1758633743,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114309,
+        "num": 114309,
+        "word": "特朗普称乌克兰边界有望恢复原状",
+        "onboard_time": 1758678559,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111084,
+        "num": 111084,
+        "word": "飞机穿过桦加沙风眼捕捉到震憾画面",
+        "onboard_time": 1758671961,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109220,
+        "num": 109220,
+        "word": "多人还原女孩巴厘岛疑中毒身亡细节",
+        "onboard_time": 1758677241,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103407,
+        "num": 103407,
+        "word": "广州业主台风天将车停桥上",
+        "onboard_time": 1758643222,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103077,
+        "num": 103077,
+        "word": "盒马回应最难吃甜品被台风选出来了",
+        "onboard_time": 1758625042,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101909,
+        "num": 101909,
+        "word": "深圳市民非必要不外出",
+        "onboard_time": 1758673642,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99963,
+        "num": 99963,
+        "word": "iPhoneAir与17Pro抗弯不抗摔",
+        "onboard_time": 1758672743,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99640,
+        "num": 99640,
+        "word": "17级台风最大持续风速堪比高速列车",
+        "onboard_time": 1758657253,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96599,
+        "num": 96599,
+        "word": "桦加沙强度",
+        "onboard_time": 1758622160,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平率中央代表团抵达乌鲁木齐#"
+    }
+  }
+}
