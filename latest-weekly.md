@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 02:33:20
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 02:46:05
 </p>
 </blockquote>
 <p>
@@ -10131,6 +10131,12 @@ FENDI大秀明星阵容（热度：37127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%AE%A9%E7%B2%89%E4%B8%9D%E4%BB%8E%E6%A0%91%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
+田曦薇让粉丝从树上下来（热度：33376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%A7%81%E6%BD%AE%E5%90%91%E9%9F%B3%E4%B9%90%E8%8A%82%E7%A5%9E%E5%9B%BE%E6%9D%A5%E4%BA%86%23" target="weibo">
 乐见潮向音乐节神图来了（热度：32953）
 </a>
@@ -10365,6 +10371,12 @@ BLG夺冠后发文（热度：29654）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E8%B7%B3%23" target="weibo">
+周深唱跳（热度：27917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8E%9F%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E6%88%96%E5%9B%A0%E5%A3%B0%E5%85%89%E5%88%BA%E6%BF%80%E5%BC%83%E5%B7%A2%23" target="weibo">
 高原野生动物或因声光刺激弃巢（热度：27804）
 </a>
@@ -10479,12 +10491,6 @@ Demna带你重新认识GUCCI（热度：24011）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%AE%A9%E7%B2%89%E4%B8%9D%E4%BB%8E%E6%A0%91%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
-田曦薇让粉丝从树上下来（热度：22786）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E7%94%A8%E7%A6%BB%E5%BC%80%E8%AF%95%E6%8E%A2%E5%B0%8F%E7%8B%97%E7%9A%84%E7%88%B1%23" target="weibo">
 不要用离开试探小狗的爱（热度：22275）
 </a>
@@ -10535,6 +10541,12 @@ Demna带你重新认识GUCCI（热度：24011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%B5%E4%B9%89%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%E4%BA%BA%E6%95%B0%E8%BF%98%E5%9C%A8%E6%A0%B8%E5%AE%9E%23" target="weibo">
 遵义食物中毒人数还在核实（热度：19860）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%AE%A3%E4%BC%A0%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B9%B3%E9%81%A5%E7%94%B5%E5%BD%B1%E5%B1%95%23" target="weibo">
+TFBOYS宣传王俊凯平遥电影展（热度：19593）
 </a>
 </li>
 
