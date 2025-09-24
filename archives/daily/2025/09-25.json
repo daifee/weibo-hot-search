@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758756199680,
+  "endTime": 1758756991179,
   "band_list": [
     {
       "raw_hot": 1266005,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 741065,
+      "num": 741065,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 713990,
       "num": 713990,
       "word": "俞孔坚坠亡前最后记录的影像曝光",
@@ -41,14 +49,6 @@
       "onboard_time": 1758720743,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 691235,
-      "num": 691235,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 608745,
@@ -139,12 +139,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283207,
+      "num": 283207,
+      "word": "刘宇宁戴佩妮十指紧扣",
+      "onboard_time": 1758725122,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 276420,
       "num": 276420,
       "word": "垫底辣孩回应丑出圈",
       "onboard_time": 1758718763,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 265636,
+      "num": 265636,
+      "word": "桦加沙对广东省造成严重影响",
+      "onboard_time": 1758726504,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265472,
@@ -163,28 +179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 244869,
-      "num": 244869,
-      "word": "桦加沙对广东省造成严重影响",
-      "onboard_time": 1758726504,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240878,
       "num": 388377,
       "word": "刺杀特朗普未遂男子当庭试图自杀",
       "onboard_time": 1758726743,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 230960,
-      "num": 230960,
-      "word": "刘宇宁戴佩妮十指紧扣",
-      "onboard_time": 1758725122,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 221348,
@@ -203,20 +203,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208574,
+      "num": 208574,
+      "word": "老人去世留8套房给非亲生女儿最多",
+      "onboard_time": 1758717442,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205769,
       "num": 241889,
       "word": "王源周深又在微博音乐盛典闯祸了",
       "onboard_time": 1758730700,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202123,
-      "num": 202123,
-      "word": "老人去世留8套房给非亲生女儿最多",
-      "onboard_time": 1758717442,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194055,
@@ -227,7 +227,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178097,
+      "raw_hot": 180444,
       "num": 147389,
       "word": "胖东来宣布刑释人员全部录取",
       "onboard_time": 1758718642,
@@ -235,11 +235,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171233,
-      "num": 171233,
+      "raw_hot": 180139,
+      "num": 180139,
       "word": "浙江45岁失联男子已遇难",
       "onboard_time": 1758724643,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176399,
+      "num": 131958,
+      "word": "月嫂下户前偷偷给宝宝塞红包",
+      "onboard_time": 1758756019,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -251,15 +259,7 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 131958,
-      "num": 131958,
-      "word": "月嫂下户前偷偷给宝宝塞红包",
-      "onboard_time": 1758756019,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131556,
+      "raw_hot": 139322,
       "num": 131556,
       "word": "吹风机是不花钱的理疗仪",
       "onboard_time": 1758754220,
@@ -283,12 +283,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 109934,
-      "num": 109934,
+      "raw_hot": 110809,
+      "num": 110809,
       "word": "台湾花莲溃坝惨案",
       "onboard_time": 1758716422,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110147,
+      "num": 110147,
+      "word": "伊能静上台仍然是女明星",
+      "onboard_time": 1758756019,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 108097,
@@ -323,6 +331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 100928,
+      "num": 100928,
+      "word": "肖战吸管夹玩偶",
+      "onboard_time": 1758756019,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99761,
       "num": 99761,
       "word": "王者S41新赛季天元",
@@ -347,12 +363,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92384,
+      "num": 92384,
+      "word": "起猛了央妈竟然请来了真公主",
+      "onboard_time": 1758703102,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90184,
       "num": 105949,
       "word": "网红敖其尔去世",
       "onboard_time": 1758714502,
       "rank": 38,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 90091,
+      "num": 411932,
+      "word": "这一刻远亲不如近邻具象化了",
+      "onboard_time": 1758730640,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 87164,
@@ -371,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86014,
-      "num": 86014,
-      "word": "起猛了央妈竟然请来了真公主",
-      "onboard_time": 1758703102,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84364,
       "num": 84364,
       "word": "张碧晨获年度内地歌手",
@@ -387,24 +411,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83623,
-      "num": 83623,
-      "word": "肖战吸管夹玩偶",
-      "onboard_time": 1758756019,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 79321,
+      "num": 118971,
+      "word": "美征收欧盟汽车15%关税",
+      "onboard_time": 1758755899,
+      "rank": 27,
+      "category": "财经,汽车"
     },
     {
-      "raw_hot": 78717,
-      "num": 411932,
-      "word": "这一刻远亲不如近邻具象化了",
-      "onboard_time": 1758730640,
-      "rank": 44,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 78687,
-      "num": 78687,
+      "raw_hot": 79061,
+      "num": 79061,
       "word": "存款20万先买车还是先买房",
       "onboard_time": 1758721882,
       "rank": 43,
@@ -499,6 +515,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61685,
+      "num": 61685,
+      "word": "太爷爷起身踉跄2岁娃急忙搀扶",
+      "onboard_time": 1758756921,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59850,
+      "num": 59850,
+      "word": "洪尧疑似删除和吴谨言官宣结婚博",
+      "onboard_time": 1758756859,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58634,
+      "num": 58634,
+      "word": "央行将开展6000亿元1年期MLF操作",
+      "onboard_time": 1758750975,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 57956,
       "num": 57956,
       "word": "戴向宇回应不爱陈紫函",
@@ -507,36 +547,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51649,
-      "num": 91248,
-      "word": "美征收欧盟汽车15%关税",
-      "onboard_time": 1758755899,
-      "rank": 27,
-      "category": "财经,汽车"
+      "raw_hot": 57674,
+      "num": 57674,
+      "word": "谭维维一只手忘了涂美白霜",
+      "onboard_time": 1758713842,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 50870,
-      "num": 50870,
+      "num": 57559,
       "word": "王牌对王牌",
       "onboard_time": 1758737776,
       "rank": 29,
       "category": "综艺"
     },
     {
-      "raw_hot": 47537,
-      "num": 47537,
-      "word": "央行将开展6000亿元1年期MLF操作",
-      "onboard_time": 1758750975,
+      "raw_hot": 49185,
+      "num": 57518,
+      "word": "金铲铲",
+      "onboard_time": 1758756500,
       "rank": 48,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 47188,
-      "num": 47188,
-      "word": "伊能静上台仍然是女明星",
-      "onboard_time": 1758756019,
-      "rank": 48,
-      "category": "演出"
+      "category": "电竞"
     },
     {
       "raw_hot": 36075,
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 3199,
-      "num": 694187,
+      "num": 698483,
       "word": "一首歌祝福新疆",
       "onboard_time": 1758719181,
       "rank": 2,
