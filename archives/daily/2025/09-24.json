@@ -1,7 +1,15 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758703624940,
+  "endTime": 1758706040684,
   "band_list": [
+    {
+      "raw_hot": 2313556,
+      "num": 2313556,
+      "word": "广州解除五停",
+      "onboard_time": 1758704482,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2237522,
       "num": 2237522,
@@ -105,6 +113,14 @@
       "onboard_time": 1758694763,
       "rank": 16,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1027481,
+      "num": 1027481,
+      "word": "桦加沙又降级了",
+      "onboard_time": 1758700282,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1015366,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764522,
+      "num": 410950,
+      "word": "黄圣依家宴",
+      "onboard_time": 1758704663,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735291,
       "num": 456613,
       "word": "昆凌说怀四胎顺其自然",
@@ -241,14 +265,6 @@
       "onboard_time": 1758685881,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 703767,
-      "num": 703767,
-      "word": "桦加沙又降级了",
-      "onboard_time": 1758700282,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 703522,
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 464253,
+      "num": 464253,
+      "word": "黄圣依回应和刘亦菲被认混",
+      "onboard_time": 1758700341,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436163,
       "num": 436163,
       "word": "迪丽热巴剪彩怕彩头掉地上",
@@ -449,6 +473,14 @@
       "onboard_time": 1758641305,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432251,
+      "num": 340000,
+      "word": "起猛了央妈竟然请来了真公主",
+      "onboard_time": 1758703102,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 428349,
@@ -473,6 +505,22 @@
       "onboard_time": 1758695722,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 411178,
+      "num": 411178,
+      "word": "微博在线状态",
+      "onboard_time": 1758701061,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 411134,
+      "num": 417333,
+      "word": "泽连斯基称中国应迫使俄方停止军事行动",
+      "onboard_time": 1758704062,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 410710,
@@ -587,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318992,
+      "num": 318992,
+      "word": "以色列博主让加沙人吃人",
+      "onboard_time": 1758704241,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 315216,
       "num": 315216,
       "word": "广州全市五停",
@@ -611,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 301792,
+      "num": 301792,
+      "word": "丁禹兮扶起摔倒粉丝",
+      "onboard_time": 1758705143,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291040,
       "num": 291040,
       "word": "桃黑黑 亲密关系是要自己体会的",
@@ -619,12 +683,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 287980,
-      "num": 287980,
-      "word": "微博在线状态",
-      "onboard_time": 1758701061,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 288551,
+      "num": 406471,
+      "word": "广州全市解除五停",
+      "onboard_time": 1758704721,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285921,
@@ -683,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255476,
+      "num": 255476,
+      "word": "广州15米长巨树被台风连根拔起",
+      "onboard_time": 1758704842,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254078,
       "num": 254078,
       "word": "气象局称深圳明早8点或现10级风力",
@@ -705,14 +777,6 @@
       "onboard_time": 1758636864,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250746,
-      "num": 250746,
-      "word": "起猛了央妈竟然请来了真公主",
-      "onboard_time": 1758703102,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 245644,
@@ -779,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223716,
+      "num": 223716,
+      "word": "日本东京偶遇李健夫妇",
+      "onboard_time": 1758704002,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221688,
       "num": 221688,
       "word": "桃黑黑公关能力",
@@ -835,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217640,
-      "num": 266078,
-      "word": "黄圣依回应和刘亦菲被认混",
-      "onboard_time": 1758700341,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213908,
       "num": 213908,
       "word": "桃黑黑 恋爱怎么会和谁谈都一样呢",
@@ -875,8 +939,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 211419,
+      "num": 311362,
+      "word": "微博音乐盛典",
+      "onboard_time": 1758705681,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210176,
-      "num": 210176,
+      "num": 310064,
       "word": "油车智驾辅助显眼包",
       "onboard_time": 1758703042,
       "rank": 27,
@@ -1027,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193959,
+      "num": 193959,
+      "word": "只有上过班的才知道这同事有多香",
+      "onboard_time": 1758705323,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 193044,
       "num": 268619,
       "word": "赵让 内娱进新货了",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1758675923,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182810,
+      "num": 182810,
+      "word": "你喜欢闻什么味可能跟身体状态有关",
+      "onboard_time": 1758705262,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 180205,
@@ -1203,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162456,
+      "num": 162456,
+      "word": "8亿建厂遭强行接管若出事故还需担责",
+      "onboard_time": 1758705742,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161704,
       "num": 161704,
       "word": "醉酒女撞死人车主反问我是预言家吗",
@@ -1217,6 +1313,14 @@
       "onboard_time": 1758692542,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159973,
+      "num": 159973,
+      "word": "桦加沙台风眼开始填塞",
+      "onboard_time": 1758705862,
+      "rank": 48,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 159246,
@@ -1460,7 +1564,7 @@
     },
     {
       "raw_hot": 133357,
-      "num": 265381,
+      "num": 301821,
       "word": "华为手表支持监测12种情绪状态",
       "onboard_time": 1758702141,
       "rank": 29,
@@ -1771,6 +1875,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95620,
+      "num": 383995,
+      "word": "张维伊想和董璇把钱放一起",
+      "onboard_time": 1758705441,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95078,
+      "num": 198051,
+      "word": "SNH48 看得出她们是公主",
+      "onboard_time": 1758705022,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94503,
       "num": 186928,
       "word": "台湾撤离人数达7904人",
@@ -1801,6 +1921,14 @@
       "onboard_time": 1758678442,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89016,
+      "num": 402175,
+      "word": "华为负一屏联手12306让出行更省心",
+      "onboard_time": 1758704781,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 88950,
@@ -1873,6 +2001,14 @@
       "onboard_time": 1758633504,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82484,
+      "num": 307196,
+      "word": "去旅游就得穿的好看又舒服",
+      "onboard_time": 1758704842,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 81721,
@@ -1979,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62844,
+      "num": 408352,
+      "word": "丰田全球车入门配置全面提升",
+      "onboard_time": 1758701363,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62630,
       "num": 171195,
       "word": "特朗普爱泼斯坦牵手雕像亮相白宫外",
@@ -2043,12 +2187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55584,
-      "num": 408352,
-      "word": "丰田全球车入门配置全面提升",
-      "onboard_time": 1758701363,
-      "rank": 17,
-      "category": "汽车"
+      "raw_hot": 55382,
+      "num": 370128,
+      "word": "7分甜 速冻芒果保质期2年",
+      "onboard_time": 1758705022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53978,
@@ -2068,7 +2212,7 @@
     },
     {
       "raw_hot": 52301,
-      "num": 183176,
+      "num": 236413,
       "word": "冲锋衣还得跟着成毅选",
       "onboard_time": 1758701602,
       "rank": 46,
@@ -2113,6 +2257,14 @@
       "onboard_time": 1758688042,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47790,
+      "num": 1003350,
+      "word": "大美新疆每一眼都惊艳",
+      "onboard_time": 1758702921,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47646,
@@ -2265,14 +2417,6 @@
       "onboard_time": 1758696142,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27920,
-      "num": 793180,
-      "word": "大美新疆每一眼都惊艳",
-      "onboard_time": 1758702921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26418,

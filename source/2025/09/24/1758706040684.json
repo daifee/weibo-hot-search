@@ -1,0 +1,410 @@
+{
+  "runTime": 1758706040684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2313556,
+        "num": 2313556,
+        "word": "广州解除五停",
+        "onboard_time": 1758704482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027481,
+        "num": 1027481,
+        "word": "桦加沙又降级了",
+        "onboard_time": 1758700282,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47790,
+        "num": 1003350,
+        "word": "大美新疆每一眼都惊艳",
+        "onboard_time": 1758702921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 998588,
+        "num": 998588,
+        "word": "深圳全市解除五停",
+        "onboard_time": 1758700882,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613754,
+        "num": 613754,
+        "word": "iPhone17Promini首曝",
+        "onboard_time": 1758698903,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 885727,
+        "num": 609349,
+        "word": "关晓彤 留子是一种感觉",
+        "onboard_time": 1758699382,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521660,
+        "num": 521660,
+        "word": "珠海被要求撤离高层住户发声",
+        "onboard_time": 1758692122,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464253,
+        "num": 464253,
+        "word": "黄圣依回应和刘亦菲被认混",
+        "onboard_time": 1758700341,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435441,
+        "num": 435441,
+        "word": "桦加沙强度正在减弱",
+        "onboard_time": 1758699562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411134,
+        "num": 417333,
+        "word": "泽连斯基称中国应迫使俄方停止军事行动",
+        "onboard_time": 1758704062,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 415246,
+        "num": 415246,
+        "word": "桦加沙将于24日下午到夜间登陆",
+        "onboard_time": 1758691943,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411178,
+        "num": 411178,
+        "word": "微博在线状态",
+        "onboard_time": 1758701061,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 764522,
+        "num": 410950,
+        "word": "黄圣依家宴",
+        "onboard_time": 1758704663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288551,
+        "num": 406471,
+        "word": "广州全市解除五停",
+        "onboard_time": 1758704721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304437,
+        "num": 406347,
+        "word": "成毅辟谣自己不玩手机的传闻",
+        "onboard_time": 1758694763,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406229,
+        "num": 406229,
+        "word": "台风一夜放倒深圳174棵树",
+        "onboard_time": 1758698842,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89016,
+        "num": 402175,
+        "word": "华为负一屏联手12306让出行更省心",
+        "onboard_time": 1758704781,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95620,
+        "num": 383995,
+        "word": "张维伊想和董璇把钱放一起",
+        "onboard_time": 1758705441,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55382,
+        "num": 370128,
+        "word": "7分甜 速冻芒果保质期2年",
+        "onboard_time": 1758705022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62844,
+        "num": 362681,
+        "word": "丰田全球车入门配置全面提升",
+        "onboard_time": 1758701363,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204114,
+        "num": 345338,
+        "word": "唐嫣 中老年套装",
+        "onboard_time": 1758691701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432251,
+        "num": 340000,
+        "word": "起猛了央妈竟然请来了真公主",
+        "onboard_time": 1758703102,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413323,
+        "num": 323235,
+        "word": "王传君 我不喜欢",
+        "onboard_time": 1758686480,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318992,
+        "num": 318992,
+        "word": "以色列博主让加沙人吃人",
+        "onboard_time": 1758704241,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211419,
+        "num": 311362,
+        "word": "微博音乐盛典",
+        "onboard_time": 1758705681,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67788,
+        "num": 310064,
+        "word": "油车智驾辅助显眼包",
+        "onboard_time": 1758703042,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 309984,
+        "num": 309984,
+        "word": "官方通报8亿茅台镇建厂遭强行接管",
+        "onboard_time": 1758696442,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 180489,
+        "num": 309387,
+        "word": "潘玮柏吃到被导演紧急叫停",
+        "onboard_time": 1758696022,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82484,
+        "num": 307196,
+        "word": "去旅游就得穿的好看又舒服",
+        "onboard_time": 1758704842,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 172631,
+        "num": 304479,
+        "word": "桦加沙今日登陆广东",
+        "onboard_time": 1758685402,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90956,
+        "num": 301821,
+        "word": "华为手表支持监测12种情绪状态",
+        "onboard_time": 1758702141,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 301792,
+        "num": 301792,
+        "word": "丁禹兮扶起摔倒粉丝",
+        "onboard_time": 1758705143,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269393,
+        "num": 269393,
+        "word": "澳门海水已涌入内陆",
+        "onboard_time": 1758692602,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255476,
+        "num": 255476,
+        "word": "广州15米长巨树被台风连根拔起",
+        "onboard_time": 1758704842,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51102,
+        "num": 236413,
+        "word": "冲锋衣还得跟着成毅选",
+        "onboard_time": 1758701602,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223716,
+        "num": 223716,
+        "word": "日本东京偶遇李健夫妇",
+        "onboard_time": 1758704002,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222396,
+        "num": 222396,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217138,
+        "num": 217138,
+        "word": "桃黑黑公关能力",
+        "onboard_time": 1758701841,
+        "rank": 37,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 95078,
+        "num": 198051,
+        "word": "SNH48 看得出她们是公主",
+        "onboard_time": 1758705022,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193959,
+        "num": 193959,
+        "word": "只有上过班的才知道这同事有多香",
+        "onboard_time": 1758705323,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192698,
+        "num": 192698,
+        "word": "桦加沙",
+        "onboard_time": 1758686902,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192365,
+        "num": 192365,
+        "word": "深圳地铁运营恢复",
+        "onboard_time": 1758701961,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188168,
+        "num": 188168,
+        "word": "江门市刮起狂风暴雨",
+        "onboard_time": 1758695722,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182810,
+        "num": 182810,
+        "word": "你喜欢闻什么味可能跟身体状态有关",
+        "onboard_time": 1758705262,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 181726,
+        "num": 181726,
+        "word": "珠海台风",
+        "onboard_time": 1758675682,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177449,
+        "num": 177449,
+        "word": "雷军T恤",
+        "onboard_time": 1758703221,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162978,
+        "num": 162978,
+        "word": "0713 抢票",
+        "onboard_time": 1758695722,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162456,
+        "num": 162456,
+        "word": "8亿建厂遭强行接管若出事故还需担责",
+        "onboard_time": 1758705742,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159973,
+        "num": 159973,
+        "word": "桦加沙台风眼开始填塞",
+        "onboard_time": 1758705862,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 155721,
+        "num": 155721,
+        "word": "真有人给马思纯张晚意递本子了",
+        "onboard_time": 1758692002,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记抵达新疆时收到了石榴花束#"
+    }
+  }
+}
