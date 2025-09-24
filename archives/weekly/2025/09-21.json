@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758724901086,
+  "endTime": 1758727620370,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -265,6 +265,14 @@
       "onboard_time": 1758600142,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1534645,
+      "num": 1174996,
+      "word": "猫耳 广播剧下架",
+      "onboard_time": 1758725483,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 1506665,
@@ -1259,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720004,
+      "num": 480002,
+      "word": "卖淫女子为躲检查意外坠亡",
+      "onboard_time": 1758724042,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 715890,
       "num": 715890,
       "word": "泽连斯基称中国应迫使俄方停止军事行动",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1758599122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 640987,
+      "num": 301483,
+      "word": "管家爆英女王去世前患骨癌",
+      "onboard_time": 1758721643,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 640485,
@@ -2075,14 +2099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 480002,
-      "num": 480002,
-      "word": "卖淫女子为躲检查意外坠亡",
-      "onboard_time": 1758724042,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 479516,
       "num": 479516,
       "word": "灼灼韶华打破生万物央八年冠纪录",
@@ -2323,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413712,
+      "num": 413712,
+      "word": "谁敢信这是55岁的莫文蔚",
+      "onboard_time": 1758722962,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 412734,
       "num": 448023,
       "word": "0713 抢票",
@@ -2529,14 +2553,6 @@
       "onboard_time": 1758546444,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369863,
-      "num": 248949,
-      "word": "管家爆英女王去世前患骨癌",
-      "onboard_time": 1758721643,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 368734,
@@ -3241,6 +3257,14 @@
       "onboard_time": 1758467306,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278348,
+      "num": 278348,
+      "word": "苏新皓被助理架着走",
+      "onboard_time": 1758726381,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 278313,
@@ -4787,6 +4811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196177,
+      "num": 196177,
+      "word": "周深给内场明星都搞不会了",
+      "onboard_time": 1758726504,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196029,
       "num": 200278,
       "word": "台风致警车车祸诈骗犯当场身亡",
@@ -4873,14 +4905,6 @@
       "onboard_time": 1758694822,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194133,
-      "num": 273216,
-      "word": "谁敢信这是55岁的莫文蔚",
-      "onboard_time": 1758722962,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 194093,
@@ -5115,6 +5139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188671,
+      "num": 188671,
+      "word": "米兰时装周",
+      "onboard_time": 1758583399,
+      "rank": 32,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 188386,
       "num": 183997,
       "word": "Knight荣获FMVP",
@@ -5185,6 +5217,14 @@
       "onboard_time": 1758638424,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187409,
+      "num": 205127,
+      "word": "雷军致谢",
+      "onboard_time": 1758724104,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 187220,
@@ -5619,6 +5659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178921,
+      "num": 143143,
+      "word": "晋江崩了",
+      "onboard_time": 1758725902,
+      "rank": 31,
+      "category": "读书作家,互联网"
+    },
+    {
       "raw_hot": 178915,
       "num": 225284,
       "word": "喜人奇妙夜2喜人阵容",
@@ -5921,14 +5969,6 @@
       "onboard_time": 1758438082,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 171521,
-      "num": 205127,
-      "word": "雷军致谢",
-      "onboard_time": 1758724104,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 171385,
@@ -6787,6 +6827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154927,
+      "num": 154927,
+      "word": "刘宇宁戴佩妮十指紧扣",
+      "onboard_time": 1758725122,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154781,
       "num": 156949,
       "word": "刘宇宁看到了自己的来时路",
@@ -7201,6 +7249,14 @@
       "onboard_time": 1758602603,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148518,
+      "num": 148518,
+      "word": "周深唱王源雪崩",
+      "onboard_time": 1758725902,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 148461,
@@ -7787,6 +7843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140576,
+      "num": 201935,
+      "word": "花莲溃坝惨案是本可避免的人祸",
+      "onboard_time": 1758724762,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140524,
       "num": 139991,
       "word": "张子枫马嘉祺新剧作者发文",
@@ -8113,6 +8177,14 @@
       "onboard_time": 1758542662,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136122,
+      "num": 144208,
+      "word": "俞孔坚遇难飞机1958年制造",
+      "onboard_time": 1758725723,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136063,
@@ -8619,6 +8691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128828,
+      "num": 148287,
+      "word": "王俊凯蝴蝶结黑风衣",
+      "onboard_time": 1758726082,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128744,
       "num": 136669,
       "word": "郑希怡老得还快过台风桦加沙",
@@ -8777,6 +8857,14 @@
       "onboard_time": 1758616222,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126978,
+      "num": 155808,
+      "word": "麻六记别总让代工厂当挡箭牌",
+      "onboard_time": 1758723322,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 126848,
@@ -9667,6 +9755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115800,
+      "num": 306906,
+      "word": "桦加沙对广东省造成严重影响",
+      "onboard_time": 1758726504,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115561,
       "num": 115561,
       "word": "三个窍门教你买到合适的秋冬女装",
@@ -9739,6 +9835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114396,
+      "num": 221651,
+      "word": "桦加沙 国庆",
+      "onboard_time": 1758722423,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114309,
       "num": 114309,
       "word": "特朗普称乌克兰边界有望恢复原状",
@@ -9753,6 +9857,14 @@
       "onboard_time": 1758619401,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114218,
+      "num": 114218,
+      "word": "26的王俊凯",
+      "onboard_time": 1758727403,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 113987,
@@ -9777,14 +9889,6 @@
       "onboard_time": 1758710542,
       "rank": 49,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 113714,
-      "num": 221651,
-      "word": "桦加沙 国庆",
-      "onboard_time": 1758722423,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113604,
@@ -9848,6 +9952,14 @@
       "word": "心理压力 神经性皮炎",
       "onboard_time": 1758446903,
       "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112815,
+      "num": 112815,
+      "word": "被忽视的女性慢性疼痛",
+      "onboard_time": 1758725002,
+      "rank": 44,
       "category": "健康医疗"
     },
     {
@@ -10443,6 +10555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103214,
+      "num": 103214,
+      "word": "刺杀特朗普未遂男子当庭试图自杀",
+      "onboard_time": 1758726743,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102641,
       "num": 102641,
       "word": "任豪新剧鹭卓和卓沅先追上了",
@@ -10563,6 +10683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101102,
+      "num": 101102,
+      "word": "马雪阳回应妻子产后焦虑",
+      "onboard_time": 1758726983,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101101,
       "num": 221780,
       "word": "日本呼吁改革联合国安理会",
@@ -10681,14 +10809,6 @@
       "onboard_time": 1758378264,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97883,
-      "num": 89394,
-      "word": "米兰时装周",
-      "onboard_time": 1758583399,
-      "rank": 32,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 97471,
@@ -11459,14 +11579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80793,
-      "num": 201935,
-      "word": "花莲溃坝惨案是本可避免的人祸",
-      "onboard_time": 1758724762,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80783,
       "num": 97462,
       "word": "蔡徐坤把音乐节嗨成演唱会",
@@ -11513,14 +11625,6 @@
       "onboard_time": 1758471559,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79738,
-      "num": 155808,
-      "word": "麻六记别总让代工厂当挡箭牌",
-      "onboard_time": 1758723322,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 79498,
@@ -12763,6 +12867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43643,
+      "num": 146053,
+      "word": "俞孔坚曾获景观学界的诺贝尔奖",
+      "onboard_time": 1758726803,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43414,
       "num": 57534,
       "word": "飞机到底应不应该锁座",
@@ -12897,6 +13009,14 @@
       "onboard_time": 1758708442,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 40855,
+      "num": 114649,
+      "word": "刘雨昕 偷偷藏不住",
+      "onboard_time": 1758727403,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 40811,
@@ -13600,6 +13720,14 @@
       "word": "投票平台回应130万人选班长李浩",
       "onboard_time": 1758711681,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24455,
+      "num": 103817,
+      "word": "桦加沙台风夜一男子酒后水库游泳",
+      "onboard_time": 1758726082,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
