@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758749799882,
+  "endTime": 1758752616822,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -4129,6 +4129,14 @@
       "onboard_time": 1758712521,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218729,
+      "num": 218729,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 218641,
@@ -11683,14 +11691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80552,
-      "num": 80552,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 80384,
       "num": 89404,
       "word": "李兰陵结婚",
@@ -12291,6 +12291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60988,
+      "num": 60988,
+      "word": "田曦薇让粉丝从树上下来",
+      "onboard_time": 1758738254,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60404,
       "num": 60404,
       "word": "哈马斯提议加沙停火60天",
@@ -12625,14 +12633,6 @@
       "onboard_time": 1758606022,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 52964,
-      "num": 52964,
-      "word": "田曦薇让粉丝从树上下来",
-      "onboard_time": 1758738254,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 52935,
@@ -13619,12 +13619,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 30546,
+      "num": 30629,
+      "word": "王牌对王牌",
+      "onboard_time": 1758737776,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30510,
       "num": 44964,
       "word": "南京被泰州封零",
       "onboard_time": 1758409878,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30476,
+      "num": 30476,
+      "word": "萧秋水 灭门仇人竟是我亲哥",
+      "onboard_time": 1758750134,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 30228,
@@ -13649,6 +13665,14 @@
       "onboard_time": 1758521542,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29954,
+      "num": 29954,
+      "word": "这一刻远亲不如近邻具象化了",
+      "onboard_time": 1758730640,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 29936,
@@ -13763,6 +13787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29057,
+      "num": 52474,
+      "word": "台湾民众拍下洪水冲毁桥面瞬间",
+      "onboard_time": 1758744854,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29030,
       "num": 144448,
       "word": "安理会五常仅美国未承认巴勒斯坦国",
@@ -13793,14 +13825,6 @@
       "onboard_time": 1758708743,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28575,
-      "num": 30629,
-      "word": "王牌对王牌",
-      "onboard_time": 1758737776,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 28530,
@@ -13987,14 +14011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22378,
-      "num": 22378,
-      "word": "这一刻远亲不如近邻具象化了",
-      "onboard_time": 1758730640,
-      "rank": 44,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 22275,
       "num": 37803,
       "word": "不要用离开试探小狗的爱",
@@ -14059,6 +14075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20143,
+      "num": 24126,
+      "word": "央行将开展6000亿元1年期MLF操作",
+      "onboard_time": 1758750975,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 20028,
       "num": 1876837,
       "word": "一首歌祝福新疆",
@@ -14096,14 +14120,6 @@
       "word": "畜禽粪污困扰养殖大县",
       "onboard_time": 1758531682,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18948,
-      "num": 52474,
-      "word": "台湾民众拍下洪水冲毁桥面瞬间",
-      "onboard_time": 1758744854,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -14329,6 +14345,14 @@
       "onboard_time": 1758628041,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 3987,
+      "num": 25214,
+      "word": "减肥的红利是缓慢释放的",
+      "onboard_time": 1758751274,
+      "rank": 41,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [

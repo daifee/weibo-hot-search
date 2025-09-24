@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758749799882,
+  "endTime": 1758752616822,
   "band_list": [
     {
       "raw_hot": 1266005,
@@ -161,6 +161,14 @@
       "onboard_time": 1758728062,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218729,
+      "num": 218729,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 216466,
@@ -331,14 +339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80552,
-      "num": 80552,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 77428,
       "num": 77428,
       "word": "张雪峰",
@@ -435,19 +435,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60988,
+      "num": 60988,
+      "word": "田曦薇让粉丝从树上下来",
+      "onboard_time": 1758738254,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57956,
       "num": 57956,
       "word": "戴向宇回应不爱陈紫函",
       "onboard_time": 1758707183,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 52964,
-      "num": 52964,
-      "word": "田曦薇让粉丝从树上下来",
-      "onboard_time": 1758738254,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -483,6 +483,30 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 30546,
+      "num": 30629,
+      "word": "王牌对王牌",
+      "onboard_time": 1758737776,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30476,
+      "num": 30476,
+      "word": "萧秋水 灭门仇人竟是我亲哥",
+      "onboard_time": 1758750134,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29954,
+      "num": 29954,
+      "word": "这一刻远亲不如近邻具象化了",
+      "onboard_time": 1758730640,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29909,
       "num": 43234,
       "word": "战至巅峰",
@@ -491,12 +515,12 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 28575,
-      "num": 30629,
-      "word": "王牌对王牌",
-      "onboard_time": 1758737776,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 29057,
+      "num": 52474,
+      "word": "台湾民众拍下洪水冲毁桥面瞬间",
+      "onboard_time": 1758744854,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27917,
@@ -523,20 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22378,
-      "num": 22378,
-      "word": "这一刻远亲不如近邻具象化了",
-      "onboard_time": 1758730640,
-      "rank": 44,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 21671,
       "num": 23633,
       "word": "续面事件老板称会为错误买单",
       "onboard_time": 1758742394,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20143,
+      "num": 24126,
+      "word": "央行将开展6000亿元1年期MLF操作",
+      "onboard_time": 1758750975,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 19593,
@@ -553,14 +577,6 @@
       "onboard_time": 1758738254,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 18948,
-      "num": 52474,
-      "word": "台湾民众拍下洪水冲毁桥面瞬间",
-      "onboard_time": 1758744854,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17029,
@@ -593,6 +609,14 @@
       "onboard_time": 1758736396,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3987,
+      "num": 25214,
+      "word": "减肥的红利是缓慢释放的",
+      "onboard_time": 1758751274,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 3199,
