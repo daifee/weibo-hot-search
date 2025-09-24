@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758753438053,
+  "endTime": 1758756199680,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -1291,6 +1291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 713990,
+      "num": 713990,
+      "word": "俞孔坚坠亡前最后记录的影像曝光",
+      "onboard_time": 1758729141,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704621,
       "num": 704621,
       "word": "广州人台风天都不买的菜",
@@ -1347,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 691235,
+      "num": 691235,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 688074,
       "num": 688074,
       "word": "桦加沙已致台湾花莲124人失联",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1758527361,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 686471,
-      "num": 686471,
-      "word": "俞孔坚坠亡前最后记录的影像曝光",
-      "onboard_time": 1758729141,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 682820,
@@ -1833,6 +1841,14 @@
       "onboard_time": 1758699562,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 553875,
+      "num": 553875,
+      "word": "张维伊的表情",
+      "onboard_time": 1758730101,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 553423,
@@ -3251,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283924,
+      "num": 423524,
+      "word": "白鹿米兰街拍一整个权威",
+      "onboard_time": 1758733817,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283153,
       "num": 344935,
       "word": "宋亚轩晒自己拍的刘耀文",
@@ -3385,14 +3409,6 @@
       "onboard_time": 1758498020,
       "rank": 14,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 268307,
-      "num": 268307,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 268250,
@@ -3739,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244869,
+      "num": 306906,
+      "word": "桦加沙对广东省造成严重影响",
+      "onboard_time": 1758726504,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243607,
       "num": 243607,
       "word": "广州 唔停",
@@ -3769,14 +3793,6 @@
       "onboard_time": 1758622160,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242198,
-      "num": 242198,
-      "word": "张维伊的表情",
-      "onboard_time": 1758730101,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 240939,
@@ -3937,6 +3953,14 @@
       "onboard_time": 1758549083,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230960,
+      "num": 230960,
+      "word": "刘宇宁戴佩妮十指紧扣",
+      "onboard_time": 1758725122,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 229881,
@@ -5795,14 +5819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 177249,
-      "num": 306906,
-      "word": "桦加沙对广东省造成严重影响",
-      "onboard_time": 1758726504,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177120,
       "num": 244789,
       "word": "王俊凯平遥生图",
@@ -6043,6 +6059,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 171233,
+      "num": 171233,
+      "word": "浙江45岁失联男子已遇难",
+      "onboard_time": 1758724643,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171159,
       "num": 171159,
       "word": "柯南动画最新话",
@@ -6097,14 +6121,6 @@
       "onboard_time": 1758448701,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169410,
-      "num": 169410,
-      "word": "白鹿米兰街拍一整个权威",
-      "onboard_time": 1758733817,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169387,
@@ -6457,14 +6473,6 @@
       "onboard_time": 1758413479,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162753,
-      "num": 193397,
-      "word": "刘宇宁戴佩妮十指紧扣",
-      "onboard_time": 1758725122,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 162662,
@@ -6937,14 +6945,6 @@
       "onboard_time": 1758372924,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154628,
-      "num": 154628,
-      "word": "浙江45岁失联男子已遇难",
-      "onboard_time": 1758724643,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154442,
@@ -8515,6 +8515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131958,
+      "num": 131958,
+      "word": "月嫂下户前偷偷给宝宝塞红包",
+      "onboard_time": 1758756019,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131949,
       "num": 131949,
       "word": "罗永浩回上海了",
@@ -8561,6 +8569,14 @@
       "onboard_time": 1758506660,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 131556,
+      "num": 131556,
+      "word": "吹风机是不花钱的理疗仪",
+      "onboard_time": 1758754220,
+      "rank": 21,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 131284,
@@ -9553,6 +9569,14 @@
       "onboard_time": 1758438920,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119217,
+      "num": 119217,
+      "word": "田曦薇让粉丝从树上下来",
+      "onboard_time": 1758738254,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 119157,
@@ -11563,6 +11587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83623,
+      "num": 83623,
+      "word": "肖战吸管夹玩偶",
+      "onboard_time": 1758756019,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83438,
       "num": 89370,
       "word": "陈楚生也是闯进团播赛道了",
@@ -11753,6 +11785,14 @@
       "onboard_time": 1758511941,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78717,
+      "num": 411932,
+      "word": "这一刻远亲不如近邻具象化了",
+      "onboard_time": 1758730640,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 77362,
@@ -12171,6 +12211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64408,
+      "num": 86356,
+      "word": "萧秋水 灭门仇人竟是我亲哥",
+      "onboard_time": 1758750134,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63900,
       "num": 128410,
       "word": "蔡国强烟花秀生态破坏力",
@@ -12281,14 +12329,6 @@
       "onboard_time": 1758512482,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61478,
-      "num": 61478,
-      "word": "田曦薇让粉丝从树上下来",
-      "onboard_time": 1758738254,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 61002,
@@ -12699,6 +12739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 51649,
+      "num": 91248,
+      "word": "美征收欧盟汽车15%关税",
+      "onboard_time": 1758755899,
+      "rank": 27,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 51486,
       "num": 117727,
       "word": "广州伤医事件",
@@ -12761,6 +12809,14 @@
       "onboard_time": 1758702921,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50870,
+      "num": 50870,
+      "word": "王牌对王牌",
+      "onboard_time": 1758737776,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 50816,
@@ -12875,6 +12931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47537,
+      "num": 47537,
+      "word": "央行将开展6000亿元1年期MLF操作",
+      "onboard_time": 1758750975,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 47463,
       "num": 200920,
       "word": "日默瓦横竖都出圈",
@@ -12897,6 +12961,14 @@
       "onboard_time": 1758456082,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47188,
+      "num": 47188,
+      "word": "伊能静上台仍然是女明星",
+      "onboard_time": 1758756019,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 47154,
@@ -13507,14 +13579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33361,
-      "num": 33361,
-      "word": "萧秋水 灭门仇人竟是我亲哥",
-      "onboard_time": 1758750134,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32953,
       "num": 199436,
       "word": "乐见潮向音乐节神图来了",
@@ -13627,19 +13691,19 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 30546,
-      "num": 30629,
-      "word": "王牌对王牌",
-      "onboard_time": 1758737776,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 30510,
       "num": 44964,
       "word": "南京被泰州封零",
       "onboard_time": 1758409878,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30239,
+      "num": 59038,
+      "word": "王欣瑜搞笑天赋拉满",
+      "onboard_time": 1758754998,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -13665,14 +13729,6 @@
       "onboard_time": 1758521542,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29954,
-      "num": 29954,
-      "word": "这一刻远亲不如近邻具象化了",
-      "onboard_time": 1758730640,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 29936,
@@ -14033,14 +14089,6 @@
       "onboard_time": 1758605541,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21836,
-      "num": 28584,
-      "word": "央行将开展6000亿元1年期MLF操作",
-      "onboard_time": 1758750975,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 21779,

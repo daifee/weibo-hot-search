@@ -1,10 +1,10 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758753438053,
+  "endTime": 1758756199680,
   "band_list": [
     {
       "raw_hot": 1266005,
-      "num": 682734,
+      "num": 693696,
       "word": "猫耳 广播剧下架",
       "onboard_time": 1758725483,
       "rank": 3,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 713990,
+      "num": 713990,
+      "word": "俞孔坚坠亡前最后记录的影像曝光",
+      "onboard_time": 1758729141,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 698996,
       "num": 679802,
       "word": "许我耀眼",
@@ -35,12 +43,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 686471,
-      "num": 686471,
-      "word": "俞孔坚坠亡前最后记录的影像曝光",
-      "onboard_time": 1758729141,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 691235,
+      "num": 691235,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 608745,
@@ -59,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 553875,
+      "num": 553875,
+      "word": "张维伊的表情",
+      "onboard_time": 1758730101,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471003,
       "num": 471003,
       "word": "管家爆英女王去世前患骨癌",
@@ -73,6 +89,14 @@
       "onboard_time": 1758718102,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409149,
+      "num": 409149,
+      "word": "卖淫女子为躲检查意外坠亡",
+      "onboard_time": 1758724042,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405648,
@@ -107,12 +131,12 @@
       "category": "读书作家,互联网"
     },
     {
-      "raw_hot": 355848,
-      "num": 355848,
-      "word": "卖淫女子为躲检查意外坠亡",
-      "onboard_time": 1758724042,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 283924,
+      "num": 423524,
+      "word": "白鹿米兰街拍一整个权威",
+      "onboard_time": 1758733817,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276420,
@@ -121,14 +145,6 @@
       "onboard_time": 1758718763,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 268307,
-      "num": 268307,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 265472,
@@ -147,12 +163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 242198,
-      "num": 242198,
-      "word": "张维伊的表情",
-      "onboard_time": 1758730101,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 244869,
+      "num": 244869,
+      "word": "桦加沙对广东省造成严重影响",
+      "onboard_time": 1758726504,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240878,
@@ -161,6 +177,14 @@
       "onboard_time": 1758726743,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230960,
+      "num": 230960,
+      "word": "刘宇宁戴佩妮十指紧扣",
+      "onboard_time": 1758725122,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 221348,
@@ -187,12 +211,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202123,
+      "num": 202123,
+      "word": "老人去世留8套房给非亲生女儿最多",
+      "onboard_time": 1758717442,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194055,
       "num": 194055,
       "word": "刘亦菲和两位年轻男子聚餐",
       "onboard_time": 1758713121,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178097,
+      "num": 147389,
+      "word": "胖东来宣布刑释人员全部录取",
+      "onboard_time": 1758718642,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171233,
+      "num": 171233,
+      "word": "浙江45岁失联男子已遇难",
+      "onboard_time": 1758724643,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169709,
@@ -203,28 +251,28 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 169410,
-      "num": 169410,
-      "word": "白鹿米兰街拍一整个权威",
-      "onboard_time": 1758733817,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 157280,
-      "num": 157280,
-      "word": "刘宇宁戴佩妮十指紧扣",
-      "onboard_time": 1758725122,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 147389,
-      "num": 147389,
-      "word": "胖东来宣布刑释人员全部录取",
-      "onboard_time": 1758718642,
-      "rank": 23,
+      "raw_hot": 131958,
+      "num": 131958,
+      "word": "月嫂下户前偷偷给宝宝塞红包",
+      "onboard_time": 1758756019,
+      "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131556,
+      "num": 131556,
+      "word": "吹风机是不花钱的理疗仪",
+      "onboard_time": 1758754220,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 119217,
+      "num": 119217,
+      "word": "田曦薇让粉丝从树上下来",
+      "onboard_time": 1758738254,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 113933,
@@ -235,19 +283,19 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 109934,
+      "num": 109934,
+      "word": "台湾花莲溃坝惨案",
+      "onboard_time": 1758716422,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108097,
       "num": 108097,
       "word": "钦州五停",
       "onboard_time": 1758729801,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107025,
-      "num": 107025,
-      "word": "桦加沙对广东省造成严重影响",
-      "onboard_time": 1758726504,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -275,14 +323,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 103542,
-      "num": 103542,
-      "word": "台湾花莲溃坝惨案",
-      "onboard_time": 1758716422,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99761,
       "num": 99761,
       "word": "王者S41新赛季天元",
@@ -297,14 +337,6 @@
       "onboard_time": 1758712461,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97657,
-      "num": 97657,
-      "word": "老人去世留8套房给非亲生女儿最多",
-      "onboard_time": 1758717442,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94552,
@@ -323,12 +355,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 87076,
-      "num": 87076,
-      "word": "浙江45岁失联男子已遇难",
-      "onboard_time": 1758724643,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 87164,
+      "num": 87164,
+      "word": "麻六记别总让代工厂当挡箭牌",
+      "onboard_time": 1758723322,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 86627,
@@ -339,12 +371,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86014,
+      "num": 86014,
+      "word": "起猛了央妈竟然请来了真公主",
+      "onboard_time": 1758703102,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84364,
       "num": 84364,
       "word": "张碧晨获年度内地歌手",
       "onboard_time": 1758728602,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83623,
+      "num": 83623,
+      "word": "肖战吸管夹玩偶",
+      "onboard_time": 1758756019,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78717,
+      "num": 411932,
+      "word": "这一刻远亲不如近邻具象化了",
+      "onboard_time": 1758730640,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 78687,
+      "num": 78687,
+      "word": "存款20万先买车还是先买房",
+      "onboard_time": 1758721882,
+      "rank": 43,
+      "category": "议题讨论,汽车"
     },
     {
       "raw_hot": 77428,
@@ -377,14 +441,6 @@
       "onboard_time": 1758726082,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 72078,
-      "num": 72078,
-      "word": "麻六记别总让代工厂当挡箭牌",
-      "onboard_time": 1758723322,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 71668,
@@ -435,12 +491,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 61478,
-      "num": 61478,
-      "word": "田曦薇让粉丝从树上下来",
-      "onboard_time": 1758738254,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 64408,
+      "num": 86356,
+      "word": "萧秋水 灭门仇人竟是我亲哥",
+      "onboard_time": 1758750134,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 57956,
@@ -451,12 +507,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37817,
-      "num": 45545,
-      "word": "存款20万先买车还是先买房",
-      "onboard_time": 1758721882,
-      "rank": 43,
-      "category": "议题讨论,汽车"
+      "raw_hot": 51649,
+      "num": 91248,
+      "word": "美征收欧盟汽车15%关税",
+      "onboard_time": 1758755899,
+      "rank": 27,
+      "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 50870,
+      "num": 50870,
+      "word": "王牌对王牌",
+      "onboard_time": 1758737776,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 47537,
+      "num": 47537,
+      "word": "央行将开展6000亿元1年期MLF操作",
+      "onboard_time": 1758750975,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 47188,
+      "num": 47188,
+      "word": "伊能静上台仍然是女明星",
+      "onboard_time": 1758756019,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 36075,
@@ -475,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33361,
-      "num": 33361,
-      "word": "萧秋水 灭门仇人竟是我亲哥",
-      "onboard_time": 1758750134,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31114,
       "num": 43242,
       "word": "檀健次上班被狗遛",
@@ -491,20 +563,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 30546,
-      "num": 30629,
-      "word": "王牌对王牌",
-      "onboard_time": 1758737776,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 29954,
-      "num": 29954,
-      "word": "这一刻远亲不如近邻具象化了",
-      "onboard_time": 1758730640,
-      "rank": 44,
-      "category": "正能量"
+      "raw_hot": 30239,
+      "num": 59038,
+      "word": "王欣瑜搞笑天赋拉满",
+      "onboard_time": 1758754998,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 29909,
@@ -553,14 +617,6 @@
       "onboard_time": 1758740893,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21836,
-      "num": 28584,
-      "word": "央行将开展6000亿元1年期MLF操作",
-      "onboard_time": 1758750975,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 21671,
@@ -628,7 +684,7 @@
     },
     {
       "raw_hot": 3199,
-      "num": 682945,
+      "num": 694187,
       "word": "一首歌祝福新疆",
       "onboard_time": 1758719181,
       "rank": 2,
