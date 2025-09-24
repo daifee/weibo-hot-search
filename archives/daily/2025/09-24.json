@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758721537118,
+  "endTime": 1758723843602,
   "band_list": [
     {
       "raw_hot": 9419194,
@@ -9,6 +9,14 @@
       "onboard_time": 1758706102,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2813431,
+      "num": 2813431,
+      "word": "俞孔坚在巴西坠机遇难",
+      "onboard_time": 1758720563,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2313556,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1631311,
-      "num": 1631311,
-      "word": "俞孔坚在巴西坠机遇难",
-      "onboard_time": 1758720563,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1485071,
       "num": 1485071,
       "word": "珠海被要求撤离高层住户发声",
@@ -80,6 +80,14 @@
       "word": "桦加沙深圳",
       "onboard_time": 1758636564,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1420294,
+      "num": 1420294,
+      "word": "姐弟坠亡案妈妈5年后官宣新恋情",
+      "onboard_time": 1758719722,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -137,6 +145,14 @@
       "onboard_time": 1758675801,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1206309,
+      "num": 1206309,
+      "word": "许我耀眼",
+      "onboard_time": 1758720743,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 1193244,
@@ -227,20 +243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 897315,
+      "num": 672347,
+      "word": "绍兴地铁深夜撞保洁员致多人伤亡",
+      "onboard_time": 1758716541,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 895628,
       "num": 536770,
       "word": "敖瑞鹏不二之臣一番",
       "onboard_time": 1758680660,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 895019,
-      "num": 895019,
-      "word": "姐弟坠亡案妈妈5年后官宣新恋情",
-      "onboard_time": 1758719722,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 878926,
@@ -403,14 +419,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 672347,
-      "num": 672347,
-      "word": "绍兴地铁深夜撞保洁员致多人伤亡",
-      "onboard_time": 1758716541,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 663373,
       "num": 663373,
       "word": "成毅辟谣自己不玩手机的传闻",
@@ -441,6 +449,14 @@
       "onboard_time": 1758691701,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 644326,
+      "num": 644326,
+      "word": "王源 好听",
+      "onboard_time": 1758720321,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 630584,
@@ -577,14 +593,6 @@
       "onboard_time": 1758692002,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 492086,
-      "num": 492086,
-      "word": "王源 好听",
-      "onboard_time": 1758720321,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 471772,
@@ -875,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307243,
+      "num": 169615,
+      "word": "管家爆英女王去世前患骨癌",
+      "onboard_time": 1758721643,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 305142,
       "num": 428694,
       "word": "中国宣布涉世贸组织谈判重要决定",
@@ -969,6 +985,14 @@
       "onboard_time": 1758689244,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275053,
+      "num": 275053,
+      "word": "胖东来宣布刑释人员全部录取",
+      "onboard_time": 1758718642,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273251,
@@ -1123,14 +1147,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 230883,
-      "num": 230883,
-      "word": "许我耀眼",
-      "onboard_time": 1758720743,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229606,
       "num": 229606,
       "word": "王扁1分钟视频报价40元",
@@ -1163,20 +1179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222116,
-      "num": 222116,
-      "word": "胖东来宣布刑释人员全部录取",
-      "onboard_time": 1758718642,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221688,
       "num": 221688,
       "word": "桃黑黑公关能力",
       "onboard_time": 1758701841,
       "rank": 40,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 221352,
+      "num": 277629,
+      "word": "俞孔坚推动景观设计学科在中国确立",
+      "onboard_time": 1758722962,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220986,
@@ -1571,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185962,
+      "num": 275773,
+      "word": "李宇春 冬泳",
+      "onboard_time": 1758722663,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184656,
       "num": 184656,
       "word": "肖战谍报制服路透",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1758711862,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181339,
+      "num": 181339,
+      "word": "王源获年度唱作人",
+      "onboard_time": 1758723262,
+      "rank": 27,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 180205,
@@ -1707,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172305,
+      "num": 172305,
+      "word": "刘诗诗清透蔷薇妆",
+      "onboard_time": 1758723562,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171380,
       "num": 171380,
       "word": "香港一家三口被巨浪卷走",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1758706822,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168794,
+      "num": 168794,
+      "word": "雷军感谢车企支持",
+      "onboard_time": 1758723502,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 168620,
@@ -1785,6 +1833,14 @@
       "onboard_time": 1758689123,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163818,
+      "num": 163818,
+      "word": "谁敢信这是55岁的莫文蔚",
+      "onboard_time": 1758722962,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 162456,
@@ -1851,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158211,
+      "num": 158211,
+      "word": "俞孔坚代表作品有广东中山岐江公园",
+      "onboard_time": 1758722002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156983,
       "num": 156983,
       "word": "iG和TES争夺三号种子名额",
@@ -1881,6 +1945,14 @@
       "onboard_time": 1758716781,
       "rank": 32,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 155693,
+      "num": 155693,
+      "word": "九尾流鼻涕也要吃冰淇淋",
+      "onboard_time": 1758722962,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 154735,
@@ -2001,6 +2073,14 @@
       "onboard_time": 1758717442,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145800,
+      "num": 275507,
+      "word": "存款20万先买车还是先买房",
+      "onboard_time": 1758721882,
+      "rank": 18,
+      "category": "议题讨论,汽车"
     },
     {
       "raw_hot": 145465,
@@ -2275,6 +2355,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131835,
+      "num": 131835,
+      "word": "苏新皓不参加湖南中秋之夜",
+      "onboard_time": 1758723803,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131797,
+      "num": 274879,
+      "word": "姐弟坠亡案妈妈再勇敢一次",
+      "onboard_time": 1758720982,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131284,
       "num": 131284,
       "word": "孙颖莎中国大满贯海报",
@@ -2305,14 +2401,6 @@
       "onboard_time": 1758683542,
       "rank": 38,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 130052,
-      "num": 274879,
-      "word": "姐弟坠亡案妈妈再勇敢一次",
-      "onboard_time": 1758720982,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128127,
@@ -2403,6 +2491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123117,
+      "num": 155981,
+      "word": "周深靠在谭维维肩上",
+      "onboard_time": 1758723082,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120855,
       "num": 120855,
       "word": "台风桦加沙为何难以捉摸",
@@ -2475,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116873,
+      "num": 153370,
+      "word": "20万级SUV首选",
+      "onboard_time": 1758723442,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116003,
       "num": 116003,
       "word": "不见你追星了 是不是在准备Q3季报",
@@ -2513,6 +2617,14 @@
       "onboard_time": 1758710542,
       "rank": 49,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 113714,
+      "num": 221651,
+      "word": "桦加沙 国庆",
+      "onboard_time": 1758722423,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111287,
@@ -2867,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79738,
+      "num": 155808,
+      "word": "麻六记别总让代工厂当挡箭牌",
+      "onboard_time": 1758723322,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 76132,
       "num": 287282,
       "word": "什么车pick了王楚钦",
@@ -3059,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54231,
+      "num": 151582,
+      "word": "网友拍台风被贴脸空投一垃圾车厢",
+      "onboard_time": 1758722542,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53978,
       "num": 561234,
       "word": "新疆维吾尔自治区成立70周年庆祝活动",
@@ -3128,6 +3256,14 @@
       "word": "有珠海高层住户说30年首次撤离",
       "onboard_time": 1758684741,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48599,
+      "num": 275062,
+      "word": "俞孔坚曾获世界景观设计最高奖",
+      "onboard_time": 1758723142,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3307,6 +3443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32206,
+      "num": 169756,
+      "word": "俞孔坚乘坐飞机未获准从事商业客运",
+      "onboard_time": 1758723142,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32170,
       "num": 167479,
       "word": "别人看秀李现扫街",
@@ -3420,7 +3564,7 @@
     },
     {
       "raw_hot": 20028,
-      "num": 1059430,
+      "num": 1756727,
       "word": "一首歌祝福新疆",
       "onboard_time": 1758719181,
       "rank": 2,
