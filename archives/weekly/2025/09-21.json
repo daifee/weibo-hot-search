@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758696555613,
+  "endTime": 1758698751981,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -569,6 +569,14 @@
       "onboard_time": 1758597321,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 953122,
+      "num": 953122,
+      "word": "学信网 自动回复诡异",
+      "onboard_time": 1758694763,
+      "rank": 16,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 944814,
@@ -1203,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663373,
+      "num": 663373,
+      "word": "成毅辟谣自己不玩手机的传闻",
+      "onboard_time": 1758694763,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660122,
       "num": 289552,
       "word": "韦雪回应9亿分手费",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1758691701,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 653507,
-      "num": 653507,
-      "word": "学信网 自动回复诡异",
-      "onboard_time": 1758694763,
-      "rank": 16,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 652578,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1758682281,
       "rank": 16,
       "category": "综艺,美食"
+    },
+    {
+      "raw_hot": 598190,
+      "num": 598190,
+      "word": "厦门幼师因产前地贫基因报告被解聘",
+      "onboard_time": 1758693683,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596683,
@@ -1883,14 +1899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 461735,
-      "num": 461735,
-      "word": "厦门幼师因产前地贫基因报告被解聘",
-      "onboard_time": 1758693683,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 459187,
       "num": 459187,
       "word": "福建舰弹射现场",
@@ -2339,8 +2347,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338829,
-      "num": 338829,
+      "raw_hot": 339278,
+      "num": 339278,
       "word": "女友突然去世男子上门求带走骨灰",
       "onboard_time": 1758692062,
       "rank": 39,
@@ -2465,14 +2473,6 @@
       "onboard_time": 1758418342,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 319708,
-      "num": 319708,
-      "word": "成毅辟谣自己不玩手机的传闻",
-      "onboard_time": 1758694763,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 319330,
@@ -3019,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256228,
+      "num": 384282,
+      "word": "官方通报8亿茅台镇建厂遭强行接管",
+      "onboard_time": 1758696442,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 254383,
       "num": 254383,
       "word": "iG冒泡赛",
@@ -3033,6 +3041,14 @@
       "onboard_time": 1758648677,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253273,
+      "num": 253273,
+      "word": "潘玮柏吃到被导演紧急叫停",
+      "onboard_time": 1758696022,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 252426,
@@ -3059,12 +3075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251506,
+      "num": 251506,
+      "word": "李浩129万票当选班长",
+      "onboard_time": 1758694043,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251368,
       "num": 242566,
       "word": "旺旺冻痴 虚假宣传",
       "onboard_time": 1758517523,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250878,
+      "num": 250878,
+      "word": "0713 抢票",
+      "onboard_time": 1758695722,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 250291,
@@ -3531,6 +3563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213908,
+      "num": 213908,
+      "word": "桃黑黑 恋爱怎么会和谁谈都一样呢",
+      "onboard_time": 1758690444,
+      "rank": 33,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 213884,
       "num": 213884,
       "word": "河南一企业低调招人月薪达92万",
@@ -3569,14 +3609,6 @@
       "onboard_time": 1758425121,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212816,
-      "num": 212816,
-      "word": "桃黑黑 恋爱怎么会和谁谈都一样呢",
-      "onboard_time": 1758690444,
-      "rank": 33,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 211800,
@@ -4211,14 +4243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192893,
-      "num": 213694,
-      "word": "0713 抢票",
-      "onboard_time": 1758695722,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192479,
       "num": 207846,
       "word": "张柏芝二儿子15岁近照",
@@ -4323,20 +4347,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 190267,
-      "num": 212384,
-      "word": "潘玮柏吃到被导演紧急叫停",
-      "onboard_time": 1758696022,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190113,
       "num": 190113,
       "word": "何猷君奚梦瑶儿子长大就冯程朗这样",
       "onboard_time": 1758441502,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "桦加沙远离珠三角向阳江靠近",
+      "onboard_time": 1758696263,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189756,
@@ -4593,14 +4617,6 @@
       "onboard_time": 1758684561,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184247,
-      "num": 184247,
-      "word": "李浩129万票当选班长",
-      "onboard_time": 1758694043,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 183950,
@@ -5643,6 +5659,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 159289,
+      "num": 159289,
+      "word": "TOP 不去大湾区电影音乐晚会",
+      "onboard_time": 1758698362,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159246,
       "num": 159246,
       "word": "波兰宣布重新开放与白俄罗斯边境口岸",
@@ -5947,6 +5971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 152628,
+      "num": 152628,
+      "word": "房东的猫从20套礼服中选了这2套",
+      "onboard_time": 1758697642,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152526,
       "num": 152526,
       "word": "又给邓超演爽了",
@@ -6115,14 +6147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149819,
-      "num": 149819,
-      "word": "官方通报8亿茅台镇建厂遭强行接管",
-      "onboard_time": 1758696442,
-      "rank": 48,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 149341,
       "num": 149341,
       "word": "广东人防台风熟练得让人心疼",
@@ -6144,6 +6168,14 @@
       "word": "刘耀文回应时代少年团成员",
       "onboard_time": 1758635122,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149086,
+      "num": 172870,
+      "word": "对展轩身高193有了实感",
+      "onboard_time": 1758696142,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -6281,6 +6313,14 @@
       "onboard_time": 1758420681,
       "rank": 41,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 147163,
+      "num": 147163,
+      "word": "不怕富二代花钱就怕富二代创业",
+      "onboard_time": 1758698542,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 146861,
@@ -7611,6 +7651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125174,
+      "num": 125174,
+      "word": "2030世界杯或扩军至64队",
+      "onboard_time": 1758697703,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125122,
       "num": 257261,
       "word": "邓为和天然钻石的适配度",
@@ -8043,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119806,
+      "num": 119806,
+      "word": "特朗普联大发言57分钟破纪录",
+      "onboard_time": 1758697944,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119771,
       "num": 119771,
       "word": "罗永浩数字人称百度股价因其大涨",
@@ -8081,6 +8137,14 @@
       "onboard_time": 1758614721,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118852,
+      "num": 164969,
+      "word": "珠海多家安置酒店已满房",
+      "onboard_time": 1758696501,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118841,
@@ -8201,14 +8265,6 @@
       "onboard_time": 1758617486,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117136,
-      "num": 162877,
-      "word": "桦加沙远离珠三角向阳江靠近",
-      "onboard_time": 1758696263,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117065,
@@ -8824,6 +8880,14 @@
       "word": "广东市民备6个充电宝应对台风",
       "onboard_time": 1758551965,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106969,
+      "num": 121204,
+      "word": "女子截肢称遭夫家抛弃",
+      "onboard_time": 1758697282,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -9619,14 +9683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91005,
-      "num": 164969,
-      "word": "珠海多家安置酒店已满房",
-      "onboard_time": 1758696501,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90795,
       "num": 117033,
       "word": "始祖鸟炸了自己的捞金圣地",
@@ -9865,6 +9921,14 @@
       "onboard_time": 1758546804,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83855,
+      "num": 124263,
+      "word": "内娱最想进步的男艺人们",
+      "onboard_time": 1758697282,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 83747,
@@ -10155,6 +10219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73402,
+      "num": 192500,
+      "word": "邓为生而不凡注定瞩目",
+      "onboard_time": 1758697462,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 72975,
       "num": 164383,
       "word": "iPhone17系列充电时疑漏电",
@@ -10257,6 +10329,14 @@
       "onboard_time": 1758375685,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68785,
+      "num": 131224,
+      "word": "台湾一16吨重军车被洪水冲走",
+      "onboard_time": 1758697343,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68632,
@@ -10401,14 +10481,6 @@
       "onboard_time": 1758634463,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64098,
-      "num": 172870,
-      "word": "对展轩身高193有了实感",
-      "onboard_time": 1758696142,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 63900,
@@ -11289,6 +11361,14 @@
       "onboard_time": 1758691223,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39091,
+      "num": 124179,
+      "word": "女童被邻居带去长江游泳溺亡案开庭",
+      "onboard_time": 1758697343,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39038,
