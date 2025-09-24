@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758695818958,
+  "endTime": 1758696555613,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -25,6 +25,14 @@
       "onboard_time": 1758686480,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1485071,
+      "num": 1485071,
+      "word": "珠海被要求撤离高层住户发声",
+      "onboard_time": 1758692122,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1468513,
@@ -67,14 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1197810,
-      "num": 1197810,
-      "word": "珠海被要求撤离高层住户发声",
-      "onboard_time": 1758692122,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1116300,
       "num": 1116300,
       "word": "珠海台风",
@@ -91,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 957907,
-      "num": 957907,
+      "raw_hot": 1011359,
+      "num": 1011359,
       "word": "澳门海水已涌入内陆",
       "onboard_time": 1758692602,
       "rank": 1,
@@ -113,6 +113,14 @@
       "onboard_time": 1758689904,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 902400,
+      "num": 902400,
+      "word": "桦加沙将于24日下午到夜间登陆",
+      "onboard_time": 1758691943,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 895628,
@@ -168,14 +176,6 @@
       "word": "预计桦加沙24日9时前后离广州最近",
       "onboard_time": 1758670940,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 772551,
-      "num": 772551,
-      "word": "桦加沙将于24日下午到夜间登陆",
-      "onboard_time": 1758691943,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1758691701,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 653507,
+      "num": 653507,
+      "word": "学信网 自动回复诡异",
+      "onboard_time": 1758694763,
+      "rank": 16,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 630584,
@@ -347,8 +355,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 459608,
-      "num": 459608,
+      "raw_hot": 461735,
+      "num": 461735,
       "word": "厦门幼师因产前地贫基因报告被解聘",
       "onboard_time": 1758693683,
       "rank": 12,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338829,
+      "num": 338829,
+      "word": "女友突然去世男子上门求带走骨灰",
+      "onboard_time": 1758692062,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335328,
       "num": 335328,
       "word": "广东潮州中午12时起复工复产",
@@ -451,19 +467,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319708,
+      "num": 319708,
+      "word": "成毅辟谣自己不玩手机的传闻",
+      "onboard_time": 1758694763,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315216,
       "num": 315216,
       "word": "广州全市五停",
       "onboard_time": 1758613581,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312585,
-      "num": 312585,
-      "word": "女友突然去世男子上门求带走骨灰",
-      "onboard_time": 1758692062,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -481,14 +497,6 @@
       "onboard_time": 1758690623,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 300181,
-      "num": 300181,
-      "word": "学信网 自动回复诡异",
-      "onboard_time": 1758694763,
-      "rank": 16,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 285921,
@@ -513,14 +521,6 @@
       "onboard_time": 1758689244,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276493,
-      "num": 276493,
-      "word": "成毅辟谣自己不玩手机的传闻",
-      "onboard_time": 1758694763,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 271589,
@@ -795,6 +795,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194189,
+      "num": 194189,
+      "word": "当我冲着儿子的颜值生了二胎",
+      "onboard_time": 1758694822,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 194093,
+      "num": 217317,
+      "word": "陈数提到花少分别哭到采访中断",
+      "onboard_time": 1758693982,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192893,
+      "num": 213694,
+      "word": "0713 抢票",
+      "onboard_time": 1758695722,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192089,
       "num": 231279,
       "word": "张艺兴回归向往的生活",
@@ -803,11 +827,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191625,
-      "num": 191625,
-      "word": "陈数提到花少分别哭到采访中断",
-      "onboard_time": 1758693982,
-      "rank": 33,
+      "raw_hot": 190267,
+      "num": 212384,
+      "word": "潘玮柏吃到被导演紧急叫停",
+      "onboard_time": 1758696022,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -825,6 +849,14 @@
       "onboard_time": 1758684381,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188015,
+      "num": 188015,
+      "word": "周洁琼 pinky回来了",
+      "onboard_time": 1758695722,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 187033,
@@ -856,14 +888,6 @@
       "word": "一只猫睡出了人的样子",
       "onboard_time": 1758675923,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 180769,
-      "num": 180769,
-      "word": "当我冲着儿子的颜值生了二胎",
-      "onboard_time": 1758694822,
-      "rank": 35,
       "category": "幽默"
     },
     {
@@ -907,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169583,
+      "num": 169583,
+      "word": "江门市刮起狂风暴雨",
+      "onboard_time": 1758695722,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167900,
       "num": 167900,
       "word": "现实版的直树和裕树",
@@ -931,20 +963,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161588,
+      "num": 161588,
+      "word": "桦加沙超风力定级上限",
+      "onboard_time": 1758692542,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159246,
       "num": 159246,
       "word": "波兰宣布重新开放与白俄罗斯边境口岸",
       "onboard_time": 1758685042,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 158407,
-      "num": 158407,
-      "word": "桦加沙超风力定级上限",
-      "onboard_time": 1758692542,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156375,
@@ -1019,6 +1051,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149819,
+      "num": 149819,
+      "word": "官方通报8亿茅台镇建厂遭强行接管",
+      "onboard_time": 1758696442,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 148609,
+      "num": 172866,
+      "word": "梦华录花魁新剧上新了",
+      "onboard_time": 1758695782,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147335,
       "num": 147335,
       "word": "李秀满选了5个洋娃娃",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1758678501,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143968,
-      "num": 143968,
-      "word": "周洁琼 pinky回来了",
-      "onboard_time": 1758695722,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 142418,
@@ -1227,14 +1267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122478,
-      "num": 171912,
-      "word": "梦华录花魁新剧上新了",
-      "onboard_time": 1758695782,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120855,
       "num": 120855,
       "word": "台风桦加沙为何难以捉摸",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1758680360,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117136,
+      "num": 162877,
+      "word": "桦加沙远离珠三角向阳江靠近",
+      "onboard_time": 1758696263,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115561,
@@ -1427,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91005,
+      "num": 164969,
+      "word": "珠海多家安置酒店已满房",
+      "onboard_time": 1758696501,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89872,
       "num": 161201,
       "word": "闫安说全运会负责王楚钦陪练",
@@ -1579,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64098,
+      "num": 172870,
+      "word": "对展轩身高193有了实感",
+      "onboard_time": 1758696142,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64058,
       "num": 79484,
       "word": "刘耀文生日直播",
@@ -1689,6 +1745,14 @@
       "onboard_time": 1758688042,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47646,
+      "num": 289093,
+      "word": "你买的芝麻油里可能不含一粒芝麻",
+      "onboard_time": 1758695481,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 45743,
@@ -1803,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28910,
+      "num": 173477,
+      "word": "吴磊掉头",
+      "onboard_time": 1758696142,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26418,
       "num": 32298,
       "word": "世卫组织回应特朗普给泰诺定罪",
@@ -1811,7 +1883,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 21315,
+      "raw_hot": 23314,
       "num": 166714,
       "word": "摄友独自进山拍照失联7天遇难",
       "onboard_time": 1758694882,
@@ -1827,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14349,
+      "num": 205980,
+      "word": "无3C共享充电宝仍违规流通",
+      "onboard_time": 1758695543,
+      "rank": 29,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 12988,
       "num": 21728,
       "word": "盛世天下",
@@ -1835,28 +1915,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12964,
-      "num": 289093,
-      "word": "你买的芝麻油里可能不含一粒芝麻",
-      "onboard_time": 1758695481,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 12035,
       "num": 14783,
       "word": "囤菜",
       "onboard_time": 1758659474,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11004,
-      "num": 205198,
-      "word": "无3C共享充电宝仍违规流通",
-      "onboard_time": 1758695543,
-      "rank": 29,
-      "category": "民生新闻,数码"
     }
   ],
   "hotgov_list": [

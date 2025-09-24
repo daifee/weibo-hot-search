@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 14:36:58
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 14:49:15
 </p>
 </blockquote>
 <p>
@@ -1581,6 +1581,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E8%A2%AB%E8%A6%81%E6%B1%82%E6%92%A4%E7%A6%BB%E9%AB%98%E5%B1%82%E4%BD%8F%E6%88%B7%E5%8F%91%E5%A3%B0%23" target="weibo">
+珠海被要求撤离高层住户发声（热度：1485071）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E7%9B%B4%E6%92%AD%E5%93%BD%E5%92%BD%23" target="weibo">
 祝绪丹直播哽咽（热度：1484967）
 </a>
@@ -2289,12 +2295,6 @@ VOGUE金九单人封面（热度：1230035）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E8%A2%AB%E8%A6%81%E6%B1%82%E6%92%A4%E7%A6%BB%E9%AB%98%E5%B1%82%E4%BD%8F%E6%88%B7%E5%8F%91%E5%A3%B0%23" target="weibo">
-珠海被要求撤离高层住户发声（热度：1197810）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%BA%8A%E5%A4%B4%E4%B8%8A%E6%8C%82%E4%B8%9C%E8%A5%BF%E4%BA%86%23" target="weibo">
 真的不要在床头上挂东西了（热度：1195569）
 </a>
@@ -2955,6 +2955,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E6%B5%B7%E6%B0%B4%E5%B7%B2%E6%B6%8C%E5%85%A5%E5%86%85%E9%99%86%23" target="weibo">
+澳门海水已涌入内陆（热度：1011359）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E6%9C%89%E5%AE%98%E9%85%8Dcp%E4%BA%86%23" target="weibo">
 小酒窝有官配cp了（热度：1008315）
 </a>
@@ -3179,12 +3185,6 @@ iG醒醒（热度：964601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23" target="weibo">
 北大副校长任羽中主动投案（热度：958589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E6%B5%B7%E6%B0%B4%E5%B7%B2%E6%B6%8C%E5%85%A5%E5%86%85%E9%99%86%23" target="weibo">
-澳门海水已涌入内陆（热度：957907）
 </a>
 </li>
 
@@ -3491,6 +3491,12 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%20%E4%B8%91%23" target="weibo">
 iPhone17Pro 丑（热度：902583）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E5%B0%86%E4%BA%8E24%E6%97%A5%E4%B8%8B%E5%8D%88%E5%88%B0%E5%A4%9C%E9%97%B4%E7%99%BB%E9%99%86%23" target="weibo">
+桦加沙将于24日下午到夜间登陆（热度：902400）
 </a>
 </li>
 
@@ -4655,12 +4661,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB8%E5%AE%98%E5%AE%A3%23" target="weibo">
 向往的生活8官宣（热度：775690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E5%B0%86%E4%BA%8E24%E6%97%A5%E4%B8%8B%E5%8D%88%E5%88%B0%E5%A4%9C%E9%97%B4%E7%99%BB%E9%99%86%23" target="weibo">
-桦加沙将于24日下午到夜间登陆（热度：772551）
 </a>
 </li>
 
@@ -5865,6 +5865,12 @@ iPhone17高刷（热度：656758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BF%A1%E7%BD%91%20%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%E8%AF%A1%E5%BC%82%23" target="weibo">
+学信网 自动回复诡异（热度：653507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%8E%A5%E4%BD%8F%E4%BA%86%E5%88%98%E6%B6%9B%E7%9A%84%E6%88%8F%23" target="weibo">
 关晓彤接住了刘涛的戏（热度：653054）
 </a>
@@ -6005,12 +6011,6 @@ NIKE将给在书包缝NIKE标母亲寄礼物（热度：649702）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%90%AC%E5%88%B0%E5%BC%A0%E7%BB%B4%E4%BC%8A%E8%AF%B4%E8%AF%9D%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 董璇听到张维伊说话的表情（热度：641281）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E7%A5%9D%E7%BB%AA%E4%B8%B9%E6%A2%B3%E8%83%8C%E5%A4%B4%E7%9A%84%E4%BA%BA%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
-给祝绪丹梳背头的人是天才（热度：641048）
 </a>
 </li>
 
