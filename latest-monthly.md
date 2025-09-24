@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 11:04:31
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 11:13:27
 </p>
 </blockquote>
 <p>
@@ -3513,6 +3513,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3%E4%B8%80%E7%95%AA%23" target="weibo">
+敖瑞鹏不二之臣一番（热度：895628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%BA%E4%BA%BA%E5%91%98%E7%A7%B0%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%87%83%E6%94%BE%E4%BA%864%E6%AC%A1%23" target="weibo">
 现场人员称蔡国强烟花燃放了4次（热度：895180）
 </a>
@@ -3647,6 +3653,12 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%9C%A8%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
 他在阅兵现场留下不能露面的照片（热度：877434）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E8%87%AA%E6%9B%9D%E4%BE%9D%E9%9D%A0%E5%AE%89%E7%9C%A0%E8%8D%AF%E5%85%A5%E7%9D%A1%23" target="weibo">
+陈紫函自曝依靠安眠药入睡（热度：877254）
 </a>
 </li>
 
@@ -4989,6 +5001,12 @@ BLG对战TES（热度：746464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%E7%8E%B0%E5%9C%BA%E9%81%97%E7%95%99%E5%9E%83%E5%9C%BE%E6%9D%82%E7%89%A9%23" target="weibo">
+蔡国强烟花秀现场遗留垃圾杂物（热度：732143）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E8%BF%99%E4%B8%AA%E5%AD%97%E5%B1%85%E7%84%B6%E7%BB%84%E4%B8%8D%E4%BA%86%E4%BB%BB%E4%BD%95%E8%AF%8D%23" target="weibo">
 浙这个字居然组不了任何词（热度：731675）
 </a>
@@ -5171,12 +5189,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E7%BE%8E%E5%9B%A2%E5%9B%A2%E8%B4%AD%23" target="weibo">
 肖战 美团团购（热度：709853）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3%E4%B8%80%E7%95%AA%23" target="weibo">
-敖瑞鹏不二之臣一番（热度：709394）
 </a>
 </li>
 
@@ -5787,12 +5799,6 @@ iPhone17高刷（热度：656758）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%E7%8E%B0%E5%9C%BA%E9%81%97%E7%95%99%E5%9E%83%E5%9C%BE%E6%9D%82%E7%89%A9%23" target="weibo">
-蔡国强烟花秀现场遗留垃圾杂物（热度：650471）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E8%87%AA%E6%9B%9D%E5%9B%A0%E9%95%BF%E6%9C%9F%E5%88%86%E5%B1%85%E5%A9%9A%E5%A7%BB%E4%BA%AE%E7%BA%A2%E7%81%AF%23" target="weibo">
 陈紫函自曝因长期分居婚姻亮红灯（热度：650390）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Pro（热度：632186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%87%B4%E6%AD%89%23" target="weibo">
 始祖鸟致歉（热度：629981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23" target="weibo">
-成都地铁偷拍案二审维持原判（热度：629579）
 </a>
 </li>
 

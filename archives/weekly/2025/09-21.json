@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758683071385,
+  "endTime": 1758683607488,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 895628,
+      "num": 403638,
+      "word": "敖瑞鹏不二之臣一番",
+      "onboard_time": 1758680660,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 895180,
       "num": 895180,
       "word": "现场人员称蔡国强烟花燃放了4次",
@@ -641,6 +649,14 @@
       "onboard_time": 1758628703,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 877254,
+      "num": 877254,
+      "word": "陈紫函自曝依靠安眠药入睡",
+      "onboard_time": 1758681561,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 876378,
@@ -931,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 732143,
+      "num": 732143,
+      "word": "蔡国强烟花秀现场遗留垃圾杂物",
+      "onboard_time": 1758679041,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 731452,
       "num": 326090,
       "word": "葛夕因感染幽门螺旋杆菌暴瘦",
@@ -977,14 +1001,6 @@
       "onboard_time": 1758424162,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 709394,
-      "num": 403638,
-      "word": "敖瑞鹏不二之臣一番",
-      "onboard_time": 1758680660,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 704621,
@@ -1107,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 650471,
-      "num": 650471,
-      "word": "蔡国强烟花秀现场遗留垃圾杂物",
-      "onboard_time": 1758679041,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 650390,
       "num": 595959,
       "word": "陈紫函自曝因长期分居婚姻亮红灯",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1758413479,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 628618,
-      "num": 628618,
-      "word": "陈紫函自曝依靠安眠药入睡",
-      "onboard_time": 1758681561,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 626897,
@@ -1971,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384325,
+      "num": 384325,
+      "word": "日掛中天定档",
+      "onboard_time": 1758682641,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 383491,
       "num": 383491,
       "word": "被性侵女高管丈夫不敢看妻子视频",
@@ -2219,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321756,
+      "num": 321756,
+      "word": "原来孙红雷馋的赛螃蟹长这样",
+      "onboard_time": 1758682281,
+      "rank": 16,
+      "category": "综艺,美食"
+    },
+    {
       "raw_hot": 321656,
       "num": 300512,
       "word": "布洛芬 能给卑职一个明示吗",
@@ -2305,6 +2321,14 @@
       "onboard_time": 1758677121,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 307082,
+      "num": 307082,
+      "word": "深圳已录得最大阵风15级",
+      "onboard_time": 1758682700,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306991,
@@ -2827,14 +2851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248349,
-      "num": 248349,
-      "word": "深圳已录得最大阵风15级",
-      "onboard_time": 1758682700,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248348,
       "num": 248348,
       "word": "金晨怎么美成这样了",
@@ -3027,14 +3043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 231775,
-      "num": 296510,
-      "word": "原来孙红雷馋的赛螃蟹长这样",
-      "onboard_time": 1758682281,
-      "rank": 16,
-      "category": "综艺,美食"
-    },
-    {
       "raw_hot": 230971,
       "num": 230971,
       "word": "桦加沙到哪了",
@@ -3049,6 +3057,22 @@
       "onboard_time": 1758609022,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229606,
+      "num": 229606,
+      "word": "王扁1分钟视频报价40元",
+      "onboard_time": 1758683002,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 227884,
+      "num": 227884,
+      "word": "倪妮黑丝",
+      "onboard_time": 1758682103,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 227212,
@@ -3131,6 +3155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 222658,
+      "num": 265190,
+      "word": "刘萧旭吐槽短剧台词油腻",
+      "onboard_time": 1758680900,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222461,
       "num": 243756,
       "word": "颜人中 跟谁新婚了",
@@ -3145,14 +3177,6 @@
       "onboard_time": 1758509000,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 221609,
-      "num": 221609,
-      "word": "倪妮黑丝",
-      "onboard_time": 1758682103,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 220116,
@@ -3219,6 +3243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214718,
+      "num": 193803,
+      "word": "模仿王源wink博主说要回归工作",
+      "onboard_time": 1758681861,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 214256,
       "num": 245294,
       "word": "长相思2的黄灿灿",
@@ -3273,14 +3305,6 @@
       "onboard_time": 1758468624,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209992,
-      "num": 286970,
-      "word": "日掛中天定档",
-      "onboard_time": 1758682641,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 209939,
@@ -3408,14 +3432,6 @@
       "word": "谢娜女儿跳跳也有自己的代言人了",
       "onboard_time": 1758514763,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 206618,
-      "num": 265190,
-      "word": "刘萧旭吐槽短剧台词油腻",
-      "onboard_time": 1758680900,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -3547,14 +3563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203041,
-      "num": 203041,
-      "word": "王扁1分钟视频报价40元",
-      "onboard_time": 1758683002,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 202912,
       "num": 202912,
       "word": "我家那闺女",
@@ -3651,6 +3659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198479,
+      "num": 192725,
+      "word": "深圳人终于可以休息了",
+      "onboard_time": 1758682942,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198222,
       "num": 198222,
       "word": "周冬雨扛住了G社镜头",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1758600923,
       "rank": 28,
       "category": "电影,作品衍生"
+    },
+    {
+      "raw_hot": 196750,
+      "num": 196750,
+      "word": "不二之臣阵容官宣",
+      "onboard_time": 1758682821,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 196538,
@@ -4459,6 +4483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176640,
+      "num": 176640,
+      "word": "宋威龙扛住了G社镜头",
+      "onboard_time": 1758682881,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176464,
       "num": 176464,
       "word": "深圳是否会启动五停",
@@ -4667,14 +4699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170029,
-      "num": 170029,
-      "word": "模仿王源wink博主说要回归工作",
-      "onboard_time": 1758681861,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 169440,
       "num": 169440,
       "word": "范丞丞 青岛",
@@ -4745,6 +4769,14 @@
       "onboard_time": 1758518121,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168677,
+      "num": 168677,
+      "word": "桦加沙广州",
+      "onboard_time": 1758683181,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168632,
@@ -5259,20 +5291,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 156434,
-      "num": 156434,
-      "word": "不二之臣阵容官宣",
-      "onboard_time": 1758682821,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 156237,
-      "num": 156237,
-      "word": "深圳人终于可以休息了",
+      "raw_hot": 156179,
+      "num": 156179,
+      "word": "敖瑞鹏首部现偶剧",
       "onboard_time": 1758682942,
-      "rank": 38,
-      "category": "民生新闻"
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 155654,
@@ -5491,6 +5515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151569,
+      "num": 151569,
+      "word": "疑似省考大佬泄露邪修规则",
+      "onboard_time": 1758681620,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151418,
       "num": 151418,
       "word": "瘦47斤发现不止身材变了",
@@ -5513,6 +5545,14 @@
       "onboard_time": 1758438201,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151168,
+      "num": 414316,
+      "word": "深圳全市公共交通停运",
+      "onboard_time": 1758650236,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151150,
@@ -6115,6 +6155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140325,
+      "num": 140325,
+      "word": "大家真的不用小马过河这个词吗",
+      "onboard_time": 1758682103,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140131,
       "num": 140131,
       "word": "广州地铁多个站点或停运",
@@ -6491,14 +6539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132558,
-      "num": 132558,
-      "word": "敖瑞鹏首部现偶剧",
-      "onboard_time": 1758682942,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132444,
       "num": 132444,
       "word": "刘耀文看似叫兄弟实则把粉丝当公主",
@@ -6612,11 +6652,19 @@
     },
     {
       "raw_hot": 130897,
-      "num": 130897,
+      "num": 201510,
       "word": "多人还原女孩巴厘岛疑中毒身亡细节",
       "onboard_time": 1758677241,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130688,
+      "num": 163198,
+      "word": "张子枫张伟丽新片共抗人生台风",
+      "onboard_time": 1758683542,
+      "rank": 38,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 130642,
@@ -7035,14 +7083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124617,
-      "num": 123650,
-      "word": "宋威龙扛住了G社镜头",
-      "onboard_time": 1758682881,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124510,
       "num": 124510,
       "word": "iPhone自带台风追踪功能",
@@ -7209,14 +7249,6 @@
       "onboard_time": 1758428182,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122275,
-      "num": 122275,
-      "word": "大家真的不用小马过河这个词吗",
-      "onboard_time": 1758682103,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 122258,
@@ -7441,14 +7473,6 @@
       "onboard_time": 1758640823,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 119055,
-      "num": 414316,
-      "word": "深圳全市公共交通停运",
-      "onboard_time": 1758650236,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118886,
@@ -8452,7 +8476,7 @@
     },
     {
       "raw_hot": 101909,
-      "num": 101909,
+      "num": 179756,
       "word": "深圳市民非必要不外出",
       "onboard_time": 1758673642,
       "rank": 46,
@@ -8977,6 +9001,14 @@
       "onboard_time": 1758499281,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90142,
+      "num": 159471,
+      "word": "外卖杀手",
+      "onboard_time": 1758683481,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89859,

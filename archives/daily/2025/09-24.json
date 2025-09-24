@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758683071385,
+  "endTime": 1758683607488,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -59,6 +59,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 895628,
+      "num": 403638,
+      "word": "敖瑞鹏不二之臣一番",
+      "onboard_time": 1758680660,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 877254,
+      "num": 877254,
+      "word": "陈紫函自曝依靠安眠药入睡",
+      "onboard_time": 1758681561,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 849263,
       "num": 445748,
       "word": "骚扰女性毕业生考上选调生",
@@ -91,16 +107,8 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 709394,
-      "num": 403638,
-      "word": "敖瑞鹏不二之臣一番",
-      "onboard_time": 1758680660,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 650471,
-      "num": 650471,
+      "raw_hot": 732143,
+      "num": 732143,
       "word": "蔡国强烟花秀现场遗留垃圾杂物",
       "onboard_time": 1758679041,
       "rank": 37,
@@ -113,14 +121,6 @@
       "onboard_time": 1758652635,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 628618,
-      "num": 628618,
-      "word": "陈紫函自曝依靠安眠药入睡",
-      "onboard_time": 1758681561,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 613564,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384325,
+      "num": 384325,
+      "word": "日掛中天定档",
+      "onboard_time": 1758682641,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 342548,
       "num": 323879,
       "word": "瑞幸苹果拿铁文案 翻车",
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321756,
+      "num": 321756,
+      "word": "原来孙红雷馋的赛螃蟹长这样",
+      "onboard_time": 1758682281,
+      "rank": 16,
+      "category": "综艺,美食"
+    },
+    {
       "raw_hot": 315216,
       "num": 315216,
       "word": "广州全市五停",
@@ -257,6 +273,14 @@
       "onboard_time": 1758677121,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 307082,
+      "num": 307082,
+      "word": "深圳已录得最大阵风15级",
+      "onboard_time": 1758682700,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284297,
@@ -299,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248349,
-      "num": 248349,
-      "word": "深圳已录得最大阵风15级",
-      "onboard_time": 1758682700,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245644,
       "num": 558125,
       "word": "成都女孩在巴厘岛疑因食物中毒离世",
@@ -331,12 +347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231775,
-      "num": 296510,
-      "word": "原来孙红雷馋的赛螃蟹长这样",
-      "onboard_time": 1758682281,
-      "rank": 16,
-      "category": "综艺,美食"
+      "raw_hot": 229606,
+      "num": 229606,
+      "word": "王扁1分钟视频报价40元",
+      "onboard_time": 1758683002,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 227884,
+      "num": 227884,
+      "word": "倪妮黑丝",
+      "onboard_time": 1758682103,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 223869,
@@ -347,11 +371,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221609,
-      "num": 221609,
-      "word": "倪妮黑丝",
-      "onboard_time": 1758682103,
-      "rank": 29,
+      "raw_hot": 222658,
+      "num": 265190,
+      "word": "刘萧旭吐槽短剧台词油腻",
+      "onboard_time": 1758680900,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -371,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209992,
-      "num": 286970,
-      "word": "日掛中天定档",
-      "onboard_time": 1758682641,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 214718,
+      "num": 193803,
+      "word": "模仿王源wink博主说要回归工作",
+      "onboard_time": 1758681861,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 209440,
@@ -403,22 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206618,
-      "num": 265190,
-      "word": "刘萧旭吐槽短剧台词油腻",
-      "onboard_time": 1758680900,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 203041,
-      "num": 203041,
-      "word": "王扁1分钟视频报价40元",
-      "onboard_time": 1758683002,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 198568,
       "num": 249386,
       "word": "小米17Pro逆光之王",
@@ -427,12 +435,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198479,
+      "num": 192725,
+      "word": "深圳人终于可以休息了",
+      "onboard_time": 1758682942,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197341,
       "num": 197341,
       "word": "桦加沙路径",
       "onboard_time": 1758622222,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196750,
+      "num": 196750,
+      "word": "不二之臣阵容官宣",
+      "onboard_time": 1758682821,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 189600,
@@ -467,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176640,
+      "num": 176640,
+      "word": "宋威龙扛住了G社镜头",
+      "onboard_time": 1758682881,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171380,
       "num": 171380,
       "word": "香港一家三口被巨浪卷走",
@@ -475,20 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170029,
-      "num": 170029,
-      "word": "模仿王源wink博主说要回归工作",
-      "onboard_time": 1758681861,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 156434,
-      "num": 156434,
-      "word": "不二之臣阵容官宣",
-      "onboard_time": 1758682821,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 168677,
+      "num": 168677,
+      "word": "桦加沙广州",
+      "onboard_time": 1758683181,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156375,
@@ -499,12 +523,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 156237,
-      "num": 156237,
-      "word": "深圳人终于可以休息了",
+      "raw_hot": 156179,
+      "num": 156179,
+      "word": "敖瑞鹏首部现偶剧",
       "onboard_time": 1758682942,
-      "rank": 38,
-      "category": "民生新闻"
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 151570,
@@ -513,6 +537,22 @@
       "onboard_time": 1758669260,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151569,
+      "num": 151569,
+      "word": "疑似省考大佬泄露邪修规则",
+      "onboard_time": 1758681620,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151168,
+      "num": 414316,
+      "word": "深圳全市公共交通停运",
+      "onboard_time": 1758650236,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149936,
@@ -547,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140325,
+      "num": 140325,
+      "word": "大家真的不用小马过河这个词吗",
+      "onboard_time": 1758682103,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139734,
       "num": 139734,
       "word": "莎头组合将再战混双",
@@ -579,28 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132558,
-      "num": 132558,
-      "word": "敖瑞鹏首部现偶剧",
-      "onboard_time": 1758682942,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130897,
-      "num": 130897,
+      "num": 201510,
       "word": "多人还原女孩巴厘岛疑中毒身亡细节",
       "onboard_time": 1758677241,
       "rank": 43,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124617,
-      "num": 123650,
-      "word": "宋威龙扛住了G社镜头",
-      "onboard_time": 1758682881,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 130688,
+      "num": 163198,
+      "word": "张子枫张伟丽新片共抗人生台风",
+      "onboard_time": 1758683542,
+      "rank": 38,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 124510,
@@ -619,27 +659,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122275,
-      "num": 122275,
-      "word": "大家真的不用小马过河这个词吗",
-      "onboard_time": 1758682103,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120855,
       "num": 120855,
       "word": "台风桦加沙为何难以捉摸",
       "onboard_time": 1758681561,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119055,
-      "num": 414316,
-      "word": "深圳全市公共交通停运",
-      "onboard_time": 1758650236,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 101909,
-      "num": 101909,
+      "num": 179756,
       "word": "深圳市民非必要不外出",
       "onboard_time": 1758673642,
       "rank": 46,
@@ -784,6 +808,14 @@
       "word": "28岁男子上树被自带绳子缠脖身亡",
       "onboard_time": 1758621621,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90142,
+      "num": 159471,
+      "word": "外卖杀手",
+      "onboard_time": 1758683481,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

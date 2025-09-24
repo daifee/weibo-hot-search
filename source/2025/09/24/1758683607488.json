@@ -1,0 +1,410 @@
+{
+  "runTime": 1758683607488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1339895,
+        "num": 1339895,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1157259,
+        "num": 1157259,
+        "word": "台风外眼已经抵达珠三角地区",
+        "onboard_time": 1758675801,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20633,
+        "num": 913640,
+        "word": "丰收中国",
+        "onboard_time": 1758634463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 877254,
+        "num": 877254,
+        "word": "陈紫函自曝依靠安眠药入睡",
+        "onboard_time": 1758681561,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 849591,
+        "num": 849591,
+        "word": "台风致台湾花莲14死",
+        "onboard_time": 1758671660,
+        "rank": 4,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 732143,
+        "num": 732143,
+        "word": "蔡国强烟花秀现场遗留垃圾杂物",
+        "onboard_time": 1758679041,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648783,
+        "num": 648783,
+        "word": "珠海台风",
+        "onboard_time": 1758675682,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473994,
+        "num": 473994,
+        "word": "认识李一桐的全部离开米兰",
+        "onboard_time": 1758678862,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443249,
+        "num": 443249,
+        "word": "桦加沙已致台湾花莲124人失联",
+        "onboard_time": 1758681021,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 384325,
+        "num": 384325,
+        "word": "日掛中天定档",
+        "onboard_time": 1758682641,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 895628,
+        "num": 382779,
+        "word": "敖瑞鹏不二之臣一番",
+        "onboard_time": 1758680660,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 774960,
+        "num": 374466,
+        "word": "骚扰女性毕业生考上选调生",
+        "onboard_time": 1758676942,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354997,
+        "num": 354997,
+        "word": "台风桦加沙减弱至十六级",
+        "onboard_time": 1758641722,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321756,
+        "num": 321756,
+        "word": "原来孙红雷馋的赛螃蟹长这样",
+        "onboard_time": 1758682281,
+        "rank": 13,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 310672,
+        "num": 310672,
+        "word": "深圳继续五停",
+        "onboard_time": 1758677121,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307082,
+        "num": 307082,
+        "word": "深圳已录得最大阵风15级",
+        "onboard_time": 1758682700,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291196,
+        "num": 291196,
+        "word": "特朗普联大演讲矛头对准欧洲",
+        "onboard_time": 1758677121,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247895,
+        "num": 247895,
+        "word": "上海绿捷道歉",
+        "onboard_time": 1758641305,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222658,
+        "num": 247357,
+        "word": "刘萧旭吐槽短剧台词油腻",
+        "onboard_time": 1758680900,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43902,
+        "num": 243700,
+        "word": "尚界H5动态评测首发",
+        "onboard_time": 1758681380,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 443470,
+        "num": 240973,
+        "word": "昆凌说怀四胎顺其自然",
+        "onboard_time": 1758672261,
+        "rank": 20,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 427193,
+        "num": 239758,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1758634885,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286798,
+        "num": 236256,
+        "word": "瑞幸苹果拿铁文案 翻车",
+        "onboard_time": 1758629902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193350,
+        "num": 232344,
+        "word": "小米17Pro逆光之王",
+        "onboard_time": 1758681380,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209190,
+        "num": 229716,
+        "word": "云秀行阵容官宣",
+        "onboard_time": 1758679401,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229606,
+        "num": 229606,
+        "word": "王扁1分钟视频报价40元",
+        "onboard_time": 1758683002,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227884,
+        "num": 227884,
+        "word": "倪妮黑丝",
+        "onboard_time": 1758682103,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214041,
+        "num": 214041,
+        "word": "不二之臣",
+        "onboard_time": 1758636504,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92467,
+        "num": 201510,
+        "word": "多人还原女孩巴厘岛疑中毒身亡细节",
+        "onboard_time": 1758677241,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196750,
+        "num": 196750,
+        "word": "不二之臣阵容官宣",
+        "onboard_time": 1758682821,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214718,
+        "num": 193803,
+        "word": "模仿王源wink博主说要回归工作",
+        "onboard_time": 1758681861,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198479,
+        "num": 192725,
+        "word": "深圳人终于可以休息了",
+        "onboard_time": 1758682942,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187589,
+        "num": 187589,
+        "word": "中国女子日本旅游遭歧视",
+        "onboard_time": 1758674362,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183899,
+        "num": 183899,
+        "word": "桦加沙预测登陆点时间都不具体",
+        "onboard_time": 1758674902,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70349,
+        "num": 179756,
+        "word": "深圳市民非必要不外出",
+        "onboard_time": 1758673642,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176640,
+        "num": 176640,
+        "word": "宋威龙扛住了G社镜头",
+        "onboard_time": 1758682881,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168677,
+        "num": 168677,
+        "word": "桦加沙广州",
+        "onboard_time": 1758683181,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167771,
+        "num": 167771,
+        "word": "珠海全市进入十级风圈",
+        "onboard_time": 1758678740,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130688,
+        "num": 163198,
+        "word": "张子枫张伟丽新片共抗人生台风",
+        "onboard_time": 1758683542,
+        "rank": 38,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 90142,
+        "num": 159471,
+        "word": "外卖杀手",
+        "onboard_time": 1758683481,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159119,
+        "num": 159119,
+        "word": "鹿晗出发新加坡",
+        "onboard_time": 1758671602,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155161,
+        "num": 158969,
+        "word": "预计桦加沙24日9时前后离广州最近",
+        "onboard_time": 1758670940,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158966,
+        "num": 158966,
+        "word": "广州全市五停",
+        "onboard_time": 1758613581,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156179,
+        "num": 156179,
+        "word": "敖瑞鹏首部现偶剧",
+        "onboard_time": 1758682942,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153998,
+        "num": 153998,
+        "word": "一只猫睡出了人的样子",
+        "onboard_time": 1758675923,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151569,
+        "num": 151569,
+        "word": "疑似省考大佬泄露邪修规则",
+        "onboard_time": 1758681620,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151168,
+        "num": 151168,
+        "word": "深圳全市公共交通停运",
+        "onboard_time": 1758650236,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143251,
+        "num": 143251,
+        "word": "王扁模仿王源走红疑开多号接受打赏",
+        "onboard_time": 1758634164,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 140325,
+        "word": "大家真的不用小马过河这个词吗",
+        "onboard_time": 1758682103,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123709,
+        "num": 123709,
+        "word": "倪妮挽宋威龙胳膊",
+        "onboard_time": 1758681321,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平率中央代表团抵达乌鲁木齐#"
+    }
+  }
+}
