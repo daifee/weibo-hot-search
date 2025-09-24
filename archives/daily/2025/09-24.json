@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758688150998,
+  "endTime": 1758689001682,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -19,8 +19,16 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 1369671,
-      "num": 1369671,
+      "raw_hot": 1715294,
+      "num": 834259,
+      "word": "王传君 我不喜欢",
+      "onboard_time": 1758686480,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1468513,
+      "num": 1468513,
       "word": "桦加沙深圳",
       "onboard_time": 1758636564,
       "rank": 3,
@@ -115,19 +123,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 801895,
-      "num": 801895,
-      "word": "王传君 我不喜欢",
-      "onboard_time": 1758686480,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 790593,
       "num": 790593,
       "word": "预计桦加沙24日9时前后离广州最近",
       "onboard_time": 1758670940,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 769182,
+      "num": 769182,
+      "word": "近距离看桦加沙",
+      "onboard_time": 1758684202,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -145,6 +153,14 @@
       "onboard_time": 1758679041,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 729464,
+      "num": 539903,
+      "word": "昆凌前三胎都是剖腹产",
+      "onboard_time": 1758685881,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 703522,
@@ -195,7 +211,7 @@
       "category": "综艺,美食"
     },
     {
-      "raw_hot": 581896,
+      "raw_hot": 585086,
       "num": 549764,
       "word": "外卖杀手",
       "onboard_time": 1758683481,
@@ -227,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 539903,
-      "num": 539903,
-      "word": "昆凌前三胎都是剖腹产",
-      "onboard_time": 1758685881,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 510349,
       "num": 565200,
       "word": "网红罗几因车祸不幸遇难",
@@ -248,14 +256,6 @@
       "word": "桦加沙预测登陆点时间都不具体",
       "onboard_time": 1758674902,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 476429,
-      "num": 476429,
-      "word": "近距离看桦加沙",
-      "onboard_time": 1758684202,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -299,8 +299,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 392967,
-      "num": 392967,
+      "raw_hot": 395321,
+      "num": 395321,
       "word": "刘芮麟和太太约定不会分开",
       "onboard_time": 1758684381,
       "rank": 13,
@@ -313,6 +313,14 @@
       "onboard_time": 1758682641,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 373084,
+      "num": 454496,
+      "word": "榴莲味月饼一块0.6元含真果肉20元",
+      "onboard_time": 1758686602,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361998,
@@ -347,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 326520,
-      "num": 326520,
-      "word": "榴莲味月饼一块0.6元含真果肉20元",
-      "onboard_time": 1758686602,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 321922,
       "num": 321922,
       "word": "深圳地铁",
@@ -377,6 +377,14 @@
       "onboard_time": 1758677121,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298902,
+      "num": 298902,
+      "word": "香港一酒店玻璃冲爆有人被冲走",
+      "onboard_time": 1758688403,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285921,
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211800,
+      "num": 211800,
+      "word": "特朗普痛斥联合国无用",
+      "onboard_time": 1758687743,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 209440,
       "num": 209440,
       "word": "珠海全市进入十级风圈",
@@ -577,6 +593,14 @@
       "onboard_time": 1758622222,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197165,
+      "num": 233051,
+      "word": "张一山被自己吓麻了",
+      "onboard_time": 1758687983,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 192089,
@@ -699,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152526,
+      "num": 152526,
+      "word": "又给邓超演爽了",
+      "onboard_time": 1758688522,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151570,
       "num": 151570,
       "word": "iPhone灵动岛正确打开方式",
@@ -739,20 +771,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145761,
-      "num": 145761,
-      "word": "特朗普痛斥联合国无用",
-      "onboard_time": 1758687743,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 145465,
+      "num": 145465,
+      "word": "米兰街头偶遇关晓彤",
+      "onboard_time": 1758687862,
+      "rank": 49,
+      "category": "艺人"
     },
     {
-      "raw_hot": 144992,
-      "num": 144992,
-      "word": "张一山被自己吓麻了",
-      "onboard_time": 1758687983,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 144668,
+      "num": 144668,
+      "word": "内娱特种兵沈月",
+      "onboard_time": 1758688642,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 144667,
@@ -771,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141314,
+      "num": 213022,
+      "word": "陈瑶长相不基础演技更不基础",
+      "onboard_time": 1758688344,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140601,
       "num": 140601,
       "word": "医院通报CT报告单现不文明用语",
@@ -787,20 +827,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139897,
-      "num": 139897,
-      "word": "米兰街头偶遇关晓彤",
-      "onboard_time": 1758687862,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139734,
       "num": 139734,
       "word": "莎头组合将再战混双",
       "onboard_time": 1758677900,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139678,
+      "num": 339781,
+      "word": "广东广西福建不排除龙卷可能",
+      "onboard_time": 1758688163,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139627,
@@ -1075,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85927,
+      "num": 363737,
+      "word": "波司登全球首发新面料有多少黑科技",
+      "onboard_time": 1758687382,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 84743,
       "num": 555642,
       "word": "花莲堰塞湖溃堤冲垮桥梁直冲市区",
@@ -1171,20 +1219,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65168,
+      "num": 155319,
+      "word": "采集辖区男性血样3个问题不能回避",
+      "onboard_time": 1758688283,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64058,
       "num": 79484,
       "word": "刘耀文生日直播",
       "onboard_time": 1758629302,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63335,
-      "num": 363737,
-      "word": "波司登全球首发新面料有多少黑科技",
-      "onboard_time": 1758687382,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 62012,
@@ -1259,19 +1307,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48374,
+      "num": 160849,
+      "word": "吃饭遭店家直播",
+      "onboard_time": 1758688042,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45712,
       "num": 250703,
       "word": "崔丽丽案择期宣判",
       "onboard_time": 1758668719,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43281,
-      "num": 160849,
-      "word": "吃饭遭店家直播",
-      "onboard_time": 1758688042,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1315,20 +1363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33693,
-      "num": 899461,
-      "word": "收到台风预警信息后该怎么做",
-      "onboard_time": 1758686422,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32099,
+      "raw_hot": 36195,
       "num": 479181,
       "word": "王曼昱的战术秘诀",
       "onboard_time": 1758686722,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33693,
+      "num": 941729,
+      "word": "收到台风预警信息后该怎么做",
+      "onboard_time": 1758686422,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31617,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1758634463,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31229,
+      "num": 155605,
+      "word": "超132万人参与三班班长投票",
+      "onboard_time": 1758688823,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28995,

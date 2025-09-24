@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758688150998,
+  "endTime": 1758689001682,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -153,6 +153,14 @@
       "onboard_time": 1758531201,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1715294,
+      "num": 834259,
+      "word": "王传君 我不喜欢",
+      "onboard_time": 1758686480,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1652249,
@@ -827,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 801895,
-      "num": 801895,
-      "word": "王传君 我不喜欢",
-      "onboard_time": 1758686480,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 800733,
       "num": 800733,
       "word": "可云扮演者辟谣嫌老公丑不生孩子",
@@ -897,6 +897,14 @@
       "onboard_time": 1758437600,
       "rank": 13,
       "category": "演出,民生新闻"
+    },
+    {
+      "raw_hot": 769182,
+      "num": 769182,
+      "word": "近距离看桦加沙",
+      "onboard_time": 1758684202,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 767693,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1758598402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 729464,
+      "num": 539903,
+      "word": "昆凌前三胎都是剖腹产",
+      "onboard_time": 1758685881,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 723229,
@@ -1347,7 +1363,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581896,
+      "raw_hot": 585086,
       "num": 549764,
       "word": "外卖杀手",
       "onboard_time": 1758683481,
@@ -1529,14 +1545,6 @@
       "onboard_time": 1758445101,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 539903,
-      "num": 539903,
-      "word": "昆凌前三胎都是剖腹产",
-      "onboard_time": 1758685881,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 537081,
@@ -1744,14 +1752,6 @@
       "word": "广州台风",
       "onboard_time": 1758592401,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 476429,
-      "num": 476429,
-      "word": "近距离看桦加沙",
-      "onboard_time": 1758684202,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2011,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395321,
+      "num": 395321,
+      "word": "刘芮麟和太太约定不会分开",
+      "onboard_time": 1758684381,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395004,
       "num": 395004,
       "word": "中国导弹亮相塞尔维亚阅兵",
@@ -2025,14 +2033,6 @@
       "onboard_time": 1758440602,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392967,
-      "num": 392967,
-      "word": "刘芮麟和太太约定不会分开",
-      "onboard_time": 1758684381,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 389357,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1758546444,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373084,
+      "num": 454496,
+      "word": "榴莲味月饼一块0.6元含真果肉20元",
+      "onboard_time": 1758686602,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368734,
@@ -2305,14 +2313,6 @@
       "onboard_time": 1758456623,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326520,
-      "num": 326520,
-      "word": "榴莲味月饼一块0.6元含真果肉20元",
-      "onboard_time": 1758686602,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 325743,
@@ -2505,6 +2505,14 @@
       "onboard_time": 1758637404,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 298902,
+      "num": 298902,
+      "word": "香港一酒店玻璃冲爆有人被冲走",
+      "onboard_time": 1758688403,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297376,
@@ -3411,6 +3419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211800,
+      "num": 211800,
+      "word": "特朗普痛斥联合国无用",
+      "onboard_time": 1758687743,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211711,
       "num": 220244,
       "word": "孟子义李昀锐指尖捂嘴路透",
@@ -3833,6 +3849,14 @@
       "onboard_time": 1758435381,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197165,
+      "num": 233051,
+      "word": "张一山被自己吓麻了",
+      "onboard_time": 1758687983,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 197046,
@@ -5643,6 +5667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 152526,
+      "num": 152526,
+      "word": "又给邓超演爽了",
+      "onboard_time": 1758688522,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152480,
       "num": 162526,
       "word": "等了13年的婚礼等来一句他死了",
@@ -6003,20 +6035,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145761,
-      "num": 145761,
-      "word": "特朗普痛斥联合国无用",
-      "onboard_time": 1758687743,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 145488,
       "num": 145488,
       "word": "珠海工作人员敲锣通知居民撤离",
       "onboard_time": 1758637224,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145465,
+      "num": 145465,
+      "word": "米兰街头偶遇关晓彤",
+      "onboard_time": 1758687862,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 145244,
@@ -6035,20 +6067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144992,
-      "num": 144992,
-      "word": "张一山被自己吓麻了",
-      "onboard_time": 1758687983,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144919,
       "num": 144919,
       "word": "东莞发布台风红色预警",
       "onboard_time": 1758611120,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144668,
+      "num": 144668,
+      "word": "内娱特种兵沈月",
+      "onboard_time": 1758688642,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 144667,
@@ -6235,6 +6267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141314,
+      "num": 213022,
+      "word": "陈瑶长相不基础演技更不基础",
+      "onboard_time": 1758688344,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141185,
       "num": 141185,
       "word": "北京外交学院校庆现超级大佬",
@@ -6379,20 +6419,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139897,
-      "num": 139897,
-      "word": "米兰街头偶遇关晓彤",
-      "onboard_time": 1758687862,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139734,
       "num": 139734,
       "word": "莎头组合将再战混双",
       "onboard_time": 1758677900,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139678,
+      "num": 339781,
+      "word": "广东广西福建不排除龙卷可能",
+      "onboard_time": 1758688163,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139627,
@@ -9387,6 +9427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85927,
+      "num": 363737,
+      "word": "波司登全球首发新面料有多少黑科技",
+      "onboard_time": 1758687382,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 85633,
       "num": 89310,
       "word": "焦虑症vs抑郁症vs自闭症",
@@ -9923,6 +9971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65168,
+      "num": 155319,
+      "word": "采集辖区男性血样3个问题不能回避",
+      "onboard_time": 1758688283,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65054,
       "num": 379078,
       "word": "MG总经理秀后台真实订单",
@@ -9969,14 +10025,6 @@
       "onboard_time": 1758583579,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63335,
-      "num": 363737,
-      "word": "波司登全球首发新面料有多少黑科技",
-      "onboard_time": 1758687382,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 63092,
@@ -10483,6 +10531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48374,
+      "num": 160849,
+      "word": "吃饭遭店家直播",
+      "onboard_time": 1758688042,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48103,
       "num": 144519,
       "word": "部分高端四件套全靠吹",
@@ -10648,14 +10704,6 @@
       "word": "飞机到底应不应该锁座",
       "onboard_time": 1758481034,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43281,
-      "num": 160849,
-      "word": "吃饭遭店家直播",
-      "onboard_time": 1758688042,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -10915,6 +10963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36195,
+      "num": 479181,
+      "word": "王曼昱的战术秘诀",
+      "onboard_time": 1758686722,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36130,
       "num": 129583,
       "word": "17级台风风速每小时250公里",
@@ -11012,7 +11068,7 @@
     },
     {
       "raw_hot": 33693,
-      "num": 899461,
+      "num": 941729,
       "word": "收到台风预警信息后该怎么做",
       "onboard_time": 1758686422,
       "rank": 2,
@@ -11091,14 +11147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32099,
-      "num": 479181,
-      "word": "王曼昱的战术秘诀",
-      "onboard_time": 1758686722,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31936,
       "num": 138279,
       "word": "胡锡进说始祖鸟团队不懂互联网",
@@ -11120,6 +11168,14 @@
       "word": "城管局回应翻8吨垃圾找误扔现金",
       "onboard_time": 1758535282,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31229,
+      "num": 155605,
+      "word": "超132万人参与三班班长投票",
+      "onboard_time": 1758688823,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
