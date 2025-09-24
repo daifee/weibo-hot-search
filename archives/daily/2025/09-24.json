@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758678605313,
+  "endTime": 1758679851274,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1031092,
-      "num": 1031092,
+      "raw_hot": 1116300,
+      "num": 1116300,
       "word": "珠海台风",
       "onboard_time": 1758675682,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 691969,
+      "num": 445748,
+      "word": "骚扰女性毕业生考上选调生",
+      "onboard_time": 1758676942,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630584,
       "num": 316666,
       "word": "崔丽丽称老板刚被判刑她就被开除",
@@ -107,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 559479,
-      "num": 445748,
-      "word": "骚扰女性毕业生考上选调生",
-      "onboard_time": 1758676942,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 546108,
       "num": 546108,
       "word": "17级台风最大持续风速堪比高速列车",
@@ -131,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 492624,
+      "num": 492624,
+      "word": "桦加沙预测登陆点时间都不具体",
+      "onboard_time": 1758674902,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471772,
       "num": 471772,
       "word": "中国女子日本旅游遭歧视",
@@ -139,11 +147,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 467122,
-      "num": 467122,
-      "word": "桦加沙预测登陆点时间都不具体",
-      "onboard_time": 1758674902,
-      "rank": 10,
+      "raw_hot": 459904,
+      "num": 459904,
+      "word": "台风外眼已经抵达珠三角地区",
+      "onboard_time": 1758675801,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -156,11 +164,27 @@
     },
     {
       "raw_hot": 427173,
-      "num": 149735,
+      "num": 173730,
       "word": "王扁模仿王源走红疑开多号接受打赏",
       "onboard_time": 1758634164,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410710,
+      "num": 467133,
+      "word": "深圳继续五停",
+      "onboard_time": 1758677121,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342548,
+      "num": 323879,
+      "word": "瑞幸苹果拿铁文案 翻车",
+      "onboard_time": 1758629902,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340124,
@@ -169,14 +193,6 @@
       "onboard_time": 1758640583,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323879,
-      "num": 323879,
-      "word": "瑞幸苹果拿铁文案 翻车",
-      "onboard_time": 1758629902,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321922,
@@ -201,14 +217,6 @@
       "onboard_time": 1758669260,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278015,
-      "num": 467133,
-      "word": "深圳继续五停",
-      "onboard_time": 1758677121,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271589,
@@ -259,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229410,
-      "num": 229410,
-      "word": "台风外眼已经抵达珠三角地区",
-      "onboard_time": 1758675801,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220317,
       "num": 220317,
       "word": "朝雪录",
@@ -281,6 +281,14 @@
       "onboard_time": 1758633743,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213227,
+      "num": 213227,
+      "word": "特朗普联大演讲矛头对准欧洲",
+      "onboard_time": 1758677121,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208010,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202362,
+      "num": 202362,
+      "word": "云秀行阵容官宣",
+      "onboard_time": 1758679401,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197341,
       "num": 197341,
       "word": "桦加沙路径",
@@ -315,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183106,
-      "num": 183106,
-      "word": "特朗普联大演讲矛头对准欧洲",
-      "onboard_time": 1758677121,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 183561,
+      "num": 183561,
+      "word": "一只猫睡出了人的样子",
+      "onboard_time": 1758675923,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 180205,
@@ -347,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169725,
+      "num": 169725,
+      "word": "珠海全市进入十级风圈",
+      "onboard_time": 1758678740,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162297,
+      "num": 222705,
+      "word": "认识李一桐的全部离开米兰",
+      "onboard_time": 1758678862,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156988,
       "num": 213029,
       "word": "不二之臣",
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 156375,
-      "num": 172411,
+      "num": 209645,
       "word": "李一桐米兰偶遇李现",
       "onboard_time": 1758637404,
       "rank": 26,
@@ -371,12 +403,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 149608,
-      "num": 149608,
-      "word": "一只猫睡出了人的样子",
-      "onboard_time": 1758675923,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 149936,
+      "num": 217578,
+      "word": "郑恺用11年一雪保鲜膜船前耻",
+      "onboard_time": 1758634704,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144548,
+      "num": 144548,
+      "word": "深圳一流浪人员不愿转移街道劝导",
+      "onboard_time": 1758678501,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140601,
@@ -384,6 +424,14 @@
       "word": "医院通报CT报告单现不文明用语",
       "onboard_time": 1758630263,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140373,
+      "num": 140373,
+      "word": "香港澳门发出十号风球",
+      "onboard_time": 1758678922,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -395,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138257,
+      "num": 177273,
+      "word": "花少7成员和谐的原因找到了",
+      "onboard_time": 1758671660,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136411,
       "num": 136411,
       "word": "广东店主回应400一天租重卡防台风",
@@ -403,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127487,
-      "num": 196488,
-      "word": "郑恺用11年一雪保鲜膜船前耻",
-      "onboard_time": 1758634704,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 132579,
+      "num": 132579,
+      "word": "蔡国强烟花秀现场遗留垃圾杂物",
+      "onboard_time": 1758679041,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130897,
+      "num": 130897,
+      "word": "多人还原女孩巴厘岛疑中毒身亡细节",
+      "onboard_time": 1758677241,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123593,
@@ -419,16 +483,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122592,
-      "num": 151387,
-      "word": "花少7成员和谐的原因找到了",
-      "onboard_time": 1758671660,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119055,
-      "num": 119055,
+      "num": 185994,
       "word": "深圳全市公共交通停运",
       "onboard_time": 1758650236,
       "rank": 22,
@@ -440,14 +496,6 @@
       "word": "台风天深圳地铁变身暖心避难所",
       "onboard_time": 1758669260,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117469,
-      "num": 117469,
-      "word": "深圳一流浪人员不愿转移街道劝导",
-      "onboard_time": 1758678501,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -491,16 +539,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109220,
-      "num": 109220,
-      "word": "多人还原女孩巴厘岛疑中毒身亡细节",
-      "onboard_time": 1758677241,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108871,
-      "num": 150838,
+      "num": 173776,
       "word": "Gucci时装周",
       "onboard_time": 1758673701,
       "rank": 27,
@@ -513,6 +553,14 @@
       "onboard_time": 1758622402,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104424,
+      "num": 104424,
+      "word": "iPhone自带台风追踪功能",
+      "onboard_time": 1758679161,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 101909,
@@ -555,6 +603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95863,
+      "num": 95863,
+      "word": "居然担心一只小猫会把冰箱拉倒",
+      "onboard_time": 1758679701,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95745,
       "num": 106225,
       "word": "等了13年的婚礼等来一句他死了",
@@ -569,6 +625,14 @@
       "onboard_time": 1758621621,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89554,
+      "num": 89554,
+      "word": "牙科医院的抚慰犬",
+      "onboard_time": 1758678442,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 88187,
