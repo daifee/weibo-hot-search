@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758712892616,
+  "endTime": 1758713814804,
   "band_list": [
     {
       "raw_hot": 9419194,
@@ -129,6 +129,14 @@
       "onboard_time": 1758675682,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1033412,
+      "num": 695807,
+      "word": "张雪峰回应账号被禁止关注",
+      "onboard_time": 1758711022,
+      "rank": 3,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1027706,
@@ -321,14 +329,6 @@
       "onboard_time": 1758684801,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 695807,
-      "num": 695807,
-      "word": "张雪峰回应账号被禁止关注",
-      "onboard_time": 1758711022,
-      "rank": 3,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 688074,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424917,
+      "num": 493529,
+      "word": "王俊凯评审",
+      "onboard_time": 1758708502,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 412734,
       "num": 448023,
       "word": "0713 抢票",
@@ -691,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323710,
+      "num": 463076,
+      "word": "桦加沙破坏力",
+      "onboard_time": 1758709281,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 321922,
       "num": 321922,
       "word": "深圳地铁",
@@ -715,6 +731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 317799,
+      "num": 468604,
+      "word": "张艺兴领奖",
+      "onboard_time": 1758711440,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 315895,
       "num": 493824,
       "word": "微博音乐盛典",
@@ -723,20 +747,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 315488,
-      "num": 463076,
-      "word": "桦加沙破坏力",
-      "onboard_time": 1758709281,
-      "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 315216,
       "num": 315216,
       "word": "广州全市五停",
       "onboard_time": 1758613581,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308440,
+      "num": 363148,
+      "word": "单依纯 宁哥你紧张吗",
+      "onboard_time": 1758712644,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 308420,
+      "num": 308420,
+      "word": "日本警告以色列",
+      "onboard_time": 1758712461,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 308028,
@@ -768,14 +800,6 @@
       "word": "蔡徐坤回国首秀",
       "onboard_time": 1758710362,
       "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 293179,
-      "num": 468604,
-      "word": "张艺兴领奖",
-      "onboard_time": 1758711440,
-      "rank": 7,
       "category": "演出"
     },
     {
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 273251,
-      "num": 197603,
+      "num": 213446,
       "word": "香奈儿半裸背",
       "onboard_time": 1758711440,
       "rank": 21,
@@ -865,14 +889,6 @@
       "onboard_time": 1758685402,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263865,
-      "num": 493529,
-      "word": "王俊凯评审",
-      "onboard_time": 1758708502,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 255476,
@@ -987,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225653,
+      "num": 213673,
+      "word": "刘亦菲和两位年轻男子聚餐",
+      "onboard_time": 1758713121,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223869,
       "num": 293655,
       "word": "云秀行阵容官宣",
@@ -1051,6 +1075,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 219378,
+      "num": 219378,
+      "word": "成毅狐妖小红娘王权篇要来了",
+      "onboard_time": 1758712521,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218343,
       "num": 218343,
       "word": "上海绿捷已被立案侦查",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1758693982,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211862,
+      "num": 211862,
+      "word": "张雪峰曾称动了太多人蛋糕",
+      "onboard_time": 1758712702,
+      "rank": 45,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 211800,
@@ -1291,14 +1331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192944,
-      "num": 192944,
-      "word": "成毅狐妖小红娘王权篇要来了",
-      "onboard_time": 1758712521,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192089,
       "num": 231279,
       "word": "张艺兴回归向往的生活",
@@ -1387,14 +1419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183040,
-      "num": 183040,
-      "word": "日本警告以色列",
-      "onboard_time": 1758712461,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 181580,
       "num": 181580,
       "word": "迪丽热巴晒夏天碎片",
@@ -1443,12 +1467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174727,
+      "num": 184547,
+      "word": "平遥国际电影展",
+      "onboard_time": 1758711201,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174680,
       "num": 174680,
       "word": "网易射雕停运",
       "onboard_time": 1758701481,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174438,
+      "num": 183523,
+      "word": "张艺兴抱着蛋糕握了一路手",
+      "onboard_time": 1758713061,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 172477,
@@ -1667,12 +1707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148407,
-      "num": 183235,
-      "word": "单依纯 宁哥你紧张吗",
-      "onboard_time": 1758712644,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 148092,
+      "num": 183288,
+      "word": "吴镇宇爸爸去哪儿变叔叔去哪儿",
+      "onboard_time": 1758713544,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 147335,
@@ -1707,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144900,
+      "num": 144900,
+      "word": "白米饭的最佳cp",
+      "onboard_time": 1758713481,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144834,
       "num": 144834,
       "word": "协和专家吃头孢过敏进抢救室",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1758678501,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143451,
-      "num": 183120,
-      "word": "平遥国际电影展",
-      "onboard_time": 1758711201,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 142418,
@@ -1891,14 +1931,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 132639,
-      "num": 132639,
-      "word": "张雪峰曾称动了太多人蛋糕",
-      "onboard_time": 1758712702,
-      "rank": 45,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 132417,
       "num": 132417,
       "word": "广东台山录得超17级阵风",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1758699442,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127577,
+      "num": 127577,
+      "word": "陪爬泰山男演员回应转行种地",
+      "onboard_time": 1758713361,
+      "rank": 44,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 127057,
@@ -2067,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117571,
+      "num": 117571,
+      "word": "王楚钦乖巧捧花合照",
+      "onboard_time": 1758713422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117506,
       "num": 117506,
       "word": "白鹿常华森机场偶遇",
@@ -2081,6 +2129,14 @@
       "onboard_time": 1758698782,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116003,
+      "num": 116003,
+      "word": "不见你追星了 是不是在准备Q3季报",
+      "onboard_time": 1758713722,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115561,
@@ -2249,6 +2305,14 @@
       "onboard_time": 1758672743,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96569,
+      "num": 359281,
+      "word": "续面事件老板鞠躬致歉",
+      "onboard_time": 1758712942,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95863,
@@ -2436,7 +2500,7 @@
     },
     {
       "raw_hot": 76132,
-      "num": 266484,
+      "num": 287282,
       "word": "什么车pick了王楚钦",
       "onboard_time": 1758710423,
       "rank": 32,
@@ -2507,6 +2571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66336,
+      "num": 218461,
+      "word": "复旦学霸都在用iQOO打游戏",
+      "onboard_time": 1758711922,
+      "rank": 19,
+      "category": "数码,游戏"
+    },
+    {
       "raw_hot": 65168,
       "num": 155319,
       "word": "采集辖区男性血样3个问题不能回避",
@@ -2537,14 +2609,6 @@
       "onboard_time": 1758701363,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 62805,
-      "num": 197674,
-      "word": "复旦学霸都在用iQOO打游戏",
-      "onboard_time": 1758711922,
-      "rank": 19,
-      "category": "数码,游戏"
     },
     {
       "raw_hot": 62630,
@@ -2980,6 +3044,9 @@
     },
     {
       "word": "#向新疆各族儿女致以诚挚问候#"
+    },
+    {
+      "word": "#跟随习近平走进新疆70年时光博物馆#"
     }
   ]
 }

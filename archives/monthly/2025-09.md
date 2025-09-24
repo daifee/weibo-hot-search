@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 19:21:32
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/24 19:36:54
 </p>
 </blockquote>
 <p>
@@ -2913,6 +2913,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
+张雪峰回应账号被禁止关注（热度：1033412）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%B3%E5%9B%9E%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E4%B8%8A%E8%AF%89%23" target="weibo">
 驳回武大图书馆事件女生上诉（热度：1030782）
 </a>
@@ -5475,12 +5481,6 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
-张雪峰回应账号被禁止关注（热度：695807）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%A5%BF%E4%B9%9D%E9%BE%99%E9%87%8D%E6%A1%88%E7%BB%84%23" target="weibo">
 香港西九龙重案组（热度：695669）
 </a>
@@ -6455,6 +6455,12 @@ iPhone17高刷（热度：656758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%90%91%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E5%84%BF%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%AF%9A%E6%8C%9A%E9%97%AE%E5%80%99%23%23" target="weibo">
 #向新疆各族儿女致以诚挚问候#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E9%9A%8F%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B0%E8%BF%9B%E6%96%B0%E7%96%8670%E5%B9%B4%E6%97%B6%E5%85%89%E5%8D%9A%E7%89%A9%E9%A6%86%23%23" target="weibo">
+#跟随习近平走进新疆70年时光博物馆#
 </a>
 </li>
 
