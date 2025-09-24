@@ -1,10 +1,10 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758709624553,
+  "endTime": 1758710597067,
   "band_list": [
     {
-      "raw_hot": 8419541,
-      "num": 9669541,
+      "raw_hot": 9419194,
+      "num": 10212055,
       "word": "桦加沙登陆广东",
       "onboard_time": 1758706102,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1758700882,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2001658,
+      "num": 2001658,
+      "word": "张雪峰多个平台账号被禁止关注",
+      "onboard_time": 1758709162,
+      "rank": 3,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1820878,
@@ -257,14 +265,6 @@
       "onboard_time": 1758684202,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 758483,
-      "num": 758483,
-      "word": "张雪峰多个平台账号被禁止关注",
-      "onboard_time": 1758709162,
-      "rank": 3,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 735291,
@@ -587,6 +587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399282,
+      "num": 399282,
+      "word": "张雪峰",
+      "onboard_time": 1758709461,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 395326,
+      "num": 343814,
+      "word": "女装 聚酯纤维",
+      "onboard_time": 1758708323,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 395321,
       "num": 395321,
       "word": "刘芮麟和太太约定不会分开",
@@ -665,14 +681,6 @@
       "onboard_time": 1758694043,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324932,
-      "num": 324932,
-      "word": "女装 聚酯纤维",
-      "onboard_time": 1758708323,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 321922,
@@ -779,8 +787,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281891,
-      "num": 281891,
+      "raw_hot": 284202,
+      "num": 284202,
       "word": "戴向宇回应不爱陈紫函",
       "onboard_time": 1758707183,
       "rank": 16,
@@ -817,6 +825,14 @@
       "onboard_time": 1758685402,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260857,
+      "num": 322961,
+      "word": "桦加沙破坏力",
+      "onboard_time": 1758709281,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 255476,
@@ -905,6 +921,14 @@
       "onboard_time": 1758631043,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234622,
+      "num": 234622,
+      "word": "金价飙涨原因找到了",
+      "onboard_time": 1758708021,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 229606,
@@ -1083,15 +1107,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206156,
-      "num": 206156,
-      "word": "雷军T恤",
-      "onboard_time": 1758703221,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 204625,
+      "raw_hot": 206681,
       "num": 493529,
       "word": "王俊凯评审",
       "onboard_time": 1758708502,
@@ -1099,12 +1115,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203914,
-      "num": 203914,
-      "word": "金价飙涨原因找到了",
-      "onboard_time": 1758708021,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 206156,
+      "num": 206156,
+      "word": "雷军T恤",
+      "onboard_time": 1758703221,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 202837,
@@ -1291,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186082,
+      "num": 186082,
+      "word": "店家回应偷吃蛋挞女子返回买单",
+      "onboard_time": 1758709101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184656,
       "num": 184656,
       "word": "肖战谍报制服路透",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1758677482,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178467,
-      "num": 178467,
-      "word": "张雪峰",
-      "onboard_time": 1758709461,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 178102,
@@ -1427,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163028,
+      "num": 163028,
+      "word": "蔡徐坤回国首秀",
+      "onboard_time": 1758710362,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162456,
       "num": 162456,
       "word": "8亿建厂遭强行接管若出事故还需担责",
@@ -1451,12 +1475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160962,
-      "num": 160962,
-      "word": "店家回应偷吃蛋挞女子返回买单",
-      "onboard_time": 1758709101,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 161550,
+      "num": 161550,
+      "word": "威神V和Red女团齐舞",
+      "onboard_time": 1758710183,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 159869,
@@ -1481,14 +1505,6 @@
       "onboard_time": 1758685042,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157224,
-      "num": 161196,
-      "word": "桦加沙破坏力",
-      "onboard_time": 1758709281,
-      "rank": 40,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 156375,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1758688522,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151837,
+      "num": 164445,
+      "word": "验蟹师 3个月收入30万",
+      "onboard_time": 1758708622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151570,
@@ -1623,6 +1647,14 @@
       "num": 144548,
       "word": "深圳一流浪人员不愿转移街道劝导",
       "onboard_time": 1758678501,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143333,
+      "num": 143333,
+      "word": "协和专家吃头孢过敏进抢救室",
+      "onboard_time": 1758709821,
       "rank": 37,
       "category": "民生新闻"
     },
@@ -1739,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135745,
+      "num": 135745,
+      "word": "陈都灵 世界上照片第三多的女人",
+      "onboard_time": 1758709642,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134024,
       "num": 145455,
       "word": "倪妮挽宋威龙胳膊",
@@ -1795,14 +1835,6 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 128336,
-      "num": 164445,
-      "word": "验蟹师 3个月收入30万",
-      "onboard_time": 1758708622,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128127,
       "num": 191918,
       "word": "预计桦加沙25日远离深圳",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1758679161,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124158,
+      "num": 155182,
+      "word": "快嗑吧万一be了",
+      "onboard_time": 1758709763,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 123593,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1758631642,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113861,
+      "num": 113706,
+      "word": "卢伟冰回应雷军T恤文字",
+      "onboard_time": 1758710542,
+      "rank": 49,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 111287,
@@ -2267,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76132,
+      "num": 153210,
+      "word": "什么车pick了王楚钦",
+      "onboard_time": 1758710423,
+      "rank": 32,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 73887,
       "num": 79505,
       "word": "深圳商家不语只是一味的贴米字",
@@ -2305,6 +2361,14 @@
       "onboard_time": 1758697343,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70368,
+      "num": 140547,
+      "word": "张雨霏去看郑钦文训练了",
+      "onboard_time": 1758709942,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 69053,
@@ -2451,8 +2515,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50959,
+      "num": 137875,
+      "word": "特朗普在联大1小时狂喷全世界",
+      "onboard_time": 1758709942,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50882,
-      "num": 1003350,
+      "num": 1241170,
       "word": "大美新疆每一眼都惊艳",
       "onboard_time": 1758702921,
       "rank": 2,

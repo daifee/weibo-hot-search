@@ -1,0 +1,410 @@
+{
+  "runTime": 1758710597067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9419194,
+        "num": 10212055,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2001658,
+        "num": 2001658,
+        "word": "张雪峰多个平台账号被禁止关注",
+        "onboard_time": 1758709162,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 42343,
+        "num": 1241170,
+        "word": "大美新疆每一眼都惊艳",
+        "onboard_time": 1758702921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 704537,
+        "num": 704537,
+        "word": "广州解除五停",
+        "onboard_time": 1758704482,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670619,
+        "num": 670619,
+        "word": "王楚钦 奔驰",
+        "onboard_time": 1758707062,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487839,
+        "num": 487839,
+        "word": "续面事件老板称将永久闭店",
+        "onboard_time": 1758706702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399282,
+        "num": 399282,
+        "word": "张雪峰",
+        "onboard_time": 1758709461,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254535,
+        "num": 377398,
+        "word": "微博音乐盛典",
+        "onboard_time": 1758705681,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206681,
+        "num": 363396,
+        "word": "王俊凯评审",
+        "onboard_time": 1758708502,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361132,
+        "num": 361132,
+        "word": "桦加沙登陆风力13级",
+        "onboard_time": 1758706582,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 872108,
+        "num": 351518,
+        "word": "张维伊想和董璇把钱放一起",
+        "onboard_time": 1758705441,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544707,
+        "num": 346670,
+        "word": "黄圣依家宴",
+        "onboard_time": 1758704663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395326,
+        "num": 343814,
+        "word": "女装 聚酯纤维",
+        "onboard_time": 1758708323,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 338852,
+        "num": 338852,
+        "word": "泽连斯基称中国应迫使俄方停止军事行动",
+        "onboard_time": 1758704062,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260857,
+        "num": 322961,
+        "word": "桦加沙破坏力",
+        "onboard_time": 1758709281,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 320131,
+        "num": 320131,
+        "word": "珠海被要求撤离高层住户发声",
+        "onboard_time": 1758692122,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393675,
+        "num": 307780,
+        "word": "关晓彤 留子是一种感觉",
+        "onboard_time": 1758699382,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284202,
+        "num": 284202,
+        "word": "戴向宇回应不爱陈紫函",
+        "onboard_time": 1758707183,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252221,
+        "num": 252221,
+        "word": "iPhone17Promini首曝",
+        "onboard_time": 1758698903,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34450,
+        "num": 237606,
+        "word": "Demna与GUCCI的适配度",
+        "onboard_time": 1758708442,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 234622,
+        "num": 234622,
+        "word": "金价飙涨原因找到了",
+        "onboard_time": 1758708021,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224409,
+        "num": 224409,
+        "word": "深圳全市解除五停",
+        "onboard_time": 1758700882,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217017,
+        "num": 217017,
+        "word": "王俊凯顺毛",
+        "onboard_time": 1758707362,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190172,
+        "num": 190172,
+        "word": "台湾87岁老人被困家中活活淹死",
+        "onboard_time": 1758706462,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186082,
+        "num": 186082,
+        "word": "店家回应偷吃蛋挞女子返回买单",
+        "onboard_time": 1758709101,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168909,
+        "num": 168909,
+        "word": "只有上过班的才知道这同事有多香",
+        "onboard_time": 1758705323,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 163028,
+        "num": 163028,
+        "word": "蔡徐坤回国首秀",
+        "onboard_time": 1758710362,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161550,
+        "num": 161550,
+        "word": "威神V和Red女团齐舞",
+        "onboard_time": 1758710183,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156868,
+        "num": 156868,
+        "word": "黄圣依回应和刘亦菲被认混",
+        "onboard_time": 1758700341,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124158,
+        "num": 155182,
+        "word": "快嗑吧万一be了",
+        "onboard_time": 1758709763,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151837,
+        "num": 154715,
+        "word": "验蟹师 3个月收入30万",
+        "onboard_time": 1758708622,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154543,
+        "num": 154543,
+        "word": "桦加沙台风眼开始填塞",
+        "onboard_time": 1758705862,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 76132,
+        "num": 153210,
+        "word": "什么车pick了王楚钦",
+        "onboard_time": 1758710423,
+        "rank": 32,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 152488,
+        "num": 152488,
+        "word": "桃黑黑公关能力",
+        "onboard_time": 1758701841,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 117650,
+        "num": 146646,
+        "word": "起猛了央妈竟然请来了真公主",
+        "onboard_time": 1758703102,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145742,
+        "num": 145742,
+        "word": "王传君 我不喜欢",
+        "onboard_time": 1758686480,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145113,
+        "num": 145113,
+        "word": "特朗普蛐蛐中国遭CNN打脸",
+        "onboard_time": 1758708081,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143333,
+        "num": 143333,
+        "word": "协和专家吃头孢过敏进抢救室",
+        "onboard_time": 1758709821,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70368,
+        "num": 140547,
+        "word": "张雨霏去看郑钦文训练了",
+        "onboard_time": 1758709942,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50959,
+        "num": 137875,
+        "word": "特朗普在联大1小时狂喷全世界",
+        "onboard_time": 1758709942,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30468,
+        "num": 137859,
+        "word": "曼谷市区突现50米深巨坑",
+        "onboard_time": 1758709342,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137845,
+        "num": 137845,
+        "word": "续面事件老板回应被说卖惨",
+        "onboard_time": 1758708983,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135745,
+        "num": 135745,
+        "word": "陈都灵 世界上照片第三多的女人",
+        "onboard_time": 1758709642,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "官方通报8亿茅台镇建厂遭强行接管",
+        "onboard_time": 1758696442,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123907,
+        "num": 123907,
+        "word": "桦加沙已在阳江海陵岛沿海登陆",
+        "onboard_time": 1758707001,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117019,
+        "num": 117019,
+        "word": "魏无羡拿了33的耳机",
+        "onboard_time": 1758707721,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115035,
+        "num": 115035,
+        "word": "唐嫣 中老年套装",
+        "onboard_time": 1758691701,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99510,
+        "num": 114035,
+        "word": "微博音乐盛典内场",
+        "onboard_time": 1758709223,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113782,
+        "num": 113782,
+        "word": "0713 抢票",
+        "onboard_time": 1758695722,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113861,
+        "num": 113706,
+        "word": "卢伟冰回应雷军T恤文字",
+        "onboard_time": 1758710542,
+        "rank": 49,
+        "category": "互联网,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向新疆各族儿女致以诚挚问候#"
+    }
+  }
+}

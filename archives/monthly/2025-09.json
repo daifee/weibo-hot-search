@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758709624553,
+  "endTime": 1758710597067,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -179,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9419194,
+      "num": 10212055,
+      "word": "桦加沙登陆广东",
+      "onboard_time": 1758706102,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 9107094,
       "num": 9107094,
       "word": "军迷变军盲",
       "onboard_time": 1756864345,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8419541,
-      "num": 9669541,
-      "word": "桦加沙登陆广东",
-      "onboard_time": 1758706102,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 8399387,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1757546959,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2001658,
+      "num": 2001658,
+      "word": "张雪峰多个平台账号被禁止关注",
+      "onboard_time": 1758709162,
+      "rank": 3,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1996131,
@@ -6473,14 +6481,6 @@
       "onboard_time": 1757050402,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 758483,
-      "num": 758483,
-      "word": "张雪峰多个平台账号被禁止关注",
-      "onboard_time": 1758709162,
-      "rank": 3,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 758236,
@@ -13955,6 +13955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 399282,
+      "num": 399282,
+      "word": "张雪峰",
+      "onboard_time": 1758709461,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 398942,
       "num": 398942,
       "word": "陈赫没有邓超就更开心了",
@@ -14137,6 +14145,14 @@
       "onboard_time": 1758206784,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395326,
+      "num": 343814,
+      "word": "女装 聚酯纤维",
+      "onboard_time": 1758708323,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 395321,
@@ -17011,14 +17027,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 324932,
-      "num": 324932,
-      "word": "女装 聚酯纤维",
-      "onboard_time": 1758708323,
-      "rank": 14,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 324765,
       "num": 180856,
       "word": "外卖已经让我对食物的价格失感了",
@@ -18915,6 +18923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284202,
+      "num": 284202,
+      "word": "戴向宇回应不爱陈紫函",
+      "onboard_time": 1758707183,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284171,
       "num": 208543,
       "word": "唐嫣这组图含氧量好高",
@@ -19065,14 +19081,6 @@
       "onboard_time": 1757635767,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 281891,
-      "num": 281891,
-      "word": "戴向宇回应不爱陈紫函",
-      "onboard_time": 1758707183,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 281540,
@@ -20289,6 +20297,14 @@
       "onboard_time": 1758032731,
       "rank": 27,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 260857,
+      "num": 322961,
+      "word": "桦加沙破坏力",
+      "onboard_time": 1758709281,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 260813,
@@ -22129,6 +22145,14 @@
       "onboard_time": 1757732182,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 234622,
+      "num": 234622,
+      "word": "金价飙涨原因找到了",
+      "onboard_time": 1758708021,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 234613,
@@ -25099,6 +25123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206681,
+      "num": 493529,
+      "word": "王俊凯评审",
+      "onboard_time": 1758708502,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206447,
       "num": 511418,
       "word": "桦加沙已成为今年全球风王",
@@ -25347,14 +25379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 204625,
-      "num": 493529,
-      "word": "王俊凯评审",
-      "onboard_time": 1758708502,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 204610,
       "num": 186545,
       "word": "泰版三十而已全员疯批",
@@ -25449,14 +25473,6 @@
       "onboard_time": 1757489122,
       "rank": 46,
       "category": "数码,海外新闻"
-    },
-    {
-      "raw_hot": 203914,
-      "num": 203914,
-      "word": "金价飙涨原因找到了",
-      "onboard_time": 1758708021,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 203902,
@@ -29547,6 +29563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186082,
+      "num": 186082,
+      "word": "店家回应偷吃蛋挞女子返回买单",
+      "onboard_time": 1758709101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186062,
       "num": 186062,
       "word": "领克10emp",
@@ -31113,14 +31137,6 @@
       "onboard_time": 1757399481,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178467,
-      "num": 178467,
-      "word": "张雪峰",
-      "onboard_time": 1758709461,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 178424,
@@ -34763,6 +34779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163028,
+      "num": 163028,
+      "word": "蔡徐坤回国首秀",
+      "onboard_time": 1758710362,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163015,
       "num": 163015,
       "word": "追觅CEO称造车pk理想",
@@ -35211,6 +35235,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 161550,
+      "num": 161550,
+      "word": "威神V和Red女团齐舞",
+      "onboard_time": 1758710183,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161549,
       "num": 161549,
       "word": "我高中丑关我大学什么事",
@@ -35353,14 +35385,6 @@
       "onboard_time": 1757070320,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160962,
-      "num": 160962,
-      "word": "店家回应偷吃蛋挞女子返回买单",
-      "onboard_time": 1758709101,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160955,
@@ -36457,14 +36481,6 @@
       "onboard_time": 1758378024,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157224,
-      "num": 161196,
-      "word": "桦加沙破坏力",
-      "onboard_time": 1758709281,
-      "rank": 40,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 157186,
@@ -37969,6 +37985,14 @@
       "onboard_time": 1757313381,
       "rank": 32,
       "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 151837,
+      "num": 164445,
+      "word": "验蟹师 3个月收入30万",
+      "onboard_time": 1758708622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151831,
@@ -41155,6 +41179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143333,
+      "num": 143333,
+      "word": "协和专家吃头孢过敏进抢救室",
+      "onboard_time": 1758709821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143324,
       "num": 143324,
       "word": "美方此时对中企制裁意欲何为",
@@ -43944,6 +43976,14 @@
       "word": "宋妍霏腮红打到太阳穴",
       "onboard_time": 1758694523,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135745,
+      "num": 135745,
+      "word": "陈都灵 世界上照片第三多的女人",
+      "onboard_time": 1758709642,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -46931,14 +46971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128336,
-      "num": 164445,
-      "word": "验蟹师 3个月收入30万",
-      "onboard_time": 1758708622,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128322,
       "num": 128322,
       "word": "狐妖小红娘王权篇10月预排",
@@ -48769,6 +48801,14 @@
       "onboard_time": 1758551123,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124158,
+      "num": 155182,
+      "word": "快嗑吧万一be了",
+      "onboard_time": 1758709763,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 124153,
@@ -53177,6 +53217,14 @@
       "onboard_time": 1756703300,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113861,
+      "num": 113706,
+      "word": "卢伟冰回应雷军T恤文字",
+      "onboard_time": 1758710542,
+      "rank": 49,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 113823,
@@ -65731,6 +65779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76132,
+      "num": 153210,
+      "word": "什么车pick了王楚钦",
+      "onboard_time": 1758710423,
+      "rank": 32,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 76127,
       "num": 76127,
       "word": "好的原生家庭才是成长的托举",
@@ -66985,6 +67041,14 @@
       "onboard_time": 1757087122,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70368,
+      "num": 140547,
+      "word": "张雨霏去看郑钦文训练了",
+      "onboard_time": 1758709942,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 70343,
@@ -70571,8 +70635,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50959,
+      "num": 137875,
+      "word": "特朗普在联大1小时狂喷全世界",
+      "onboard_time": 1758709942,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50882,
-      "num": 1003350,
+      "num": 1241170,
       "word": "大美新疆每一眼都惊艳",
       "onboard_time": 1758702921,
       "rank": 2,
