@@ -1,0 +1,410 @@
+{
+  "runTime": 1758688150998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369671,
+        "num": 1369671,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1243567,
+        "num": 1243567,
+        "word": "深圳已录得最大阵风15级",
+        "onboard_time": 1758682700,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33693,
+        "num": 899461,
+        "word": "收到台风预警信息后该怎么做",
+        "onboard_time": 1758686422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 878926,
+        "num": 878926,
+        "word": "不二之臣 审美",
+        "onboard_time": 1758683780,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 846854,
+        "num": 846854,
+        "word": "桦加沙广州",
+        "onboard_time": 1758683181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801895,
+        "num": 801895,
+        "word": "王传君 我不喜欢",
+        "onboard_time": 1758686480,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703522,
+        "num": 703522,
+        "word": "辛芷蕾 你还能原谅我吗",
+        "onboard_time": 1758684801,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 592001,
+        "num": 592001,
+        "word": "桦加沙已致台湾花莲124人失联",
+        "onboard_time": 1758681021,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 580001,
+        "num": 580001,
+        "word": "台风外眼已经抵达珠三角地区",
+        "onboard_time": 1758675801,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84743,
+        "num": 555642,
+        "word": "花莲堰塞湖溃堤冲垮桥梁直冲市区",
+        "onboard_time": 1758681141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581896,
+        "num": 549764,
+        "word": "外卖杀手",
+        "onboard_time": 1758683481,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539903,
+        "num": 539903,
+        "word": "昆凌前三胎都是剖腹产",
+        "onboard_time": 1758685881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501452,
+        "num": 501452,
+        "word": "台风致台湾花莲14死",
+        "onboard_time": 1758671660,
+        "rank": 12,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 32099,
+        "num": 479181,
+        "word": "王曼昱的战术秘诀",
+        "onboard_time": 1758686722,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476429,
+        "num": 476429,
+        "word": "近距离看桦加沙",
+        "onboard_time": 1758684202,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464080,
+        "num": 464080,
+        "word": "桦加沙",
+        "onboard_time": 1758686902,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443215,
+        "num": 443215,
+        "word": "原来孙红雷馋的赛螃蟹长这样",
+        "onboard_time": 1758682281,
+        "rank": 16,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 436163,
+        "num": 436163,
+        "word": "迪丽热巴剪彩怕彩头掉地上",
+        "onboard_time": 1758685402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392967,
+        "num": 392967,
+        "word": "刘芮麟和太太约定不会分开",
+        "onboard_time": 1758684381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63335,
+        "num": 363737,
+        "word": "波司登全球首发新面料有多少黑科技",
+        "onboard_time": 1758687382,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 540334,
+        "num": 363278,
+        "word": "陈紫函自曝依靠安眠药入睡",
+        "onboard_time": 1758681561,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361998,
+        "num": 361998,
+        "word": "不二之臣阵容官宣",
+        "onboard_time": 1758682821,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335328,
+        "num": 335328,
+        "word": "广东潮州中午12时起复工复产",
+        "onboard_time": 1758684682,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326520,
+        "num": 326520,
+        "word": "榴莲味月饼一块0.6元含真果肉20元",
+        "onboard_time": 1758686602,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324824,
+        "num": 324824,
+        "word": "珠海台风",
+        "onboard_time": 1758675682,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285921,
+        "num": 285921,
+        "word": "王者荣耀",
+        "onboard_time": 1758686243,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264329,
+        "num": 264329,
+        "word": "桦加沙今日登陆广东",
+        "onboard_time": 1758685402,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260710,
+        "num": 260710,
+        "word": "敖瑞鹏不二之臣一番",
+        "onboard_time": 1758680660,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192089,
+        "num": 231279,
+        "word": "张艺兴回归向往的生活",
+        "onboard_time": 1758684921,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31617,
+        "num": 218869,
+        "word": "外卖平台服务管理基本要求征求意见",
+        "onboard_time": 1758686480,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213884,
+        "num": 213884,
+        "word": "河南一企业低调招人月薪达92万",
+        "onboard_time": 1758685282,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191302,
+        "num": 191302,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1758634885,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187033,
+        "num": 187033,
+        "word": "大司马鹅鸭杀首秀",
+        "onboard_time": 1758686302,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174829,
+        "num": 174829,
+        "word": "特朗普联大演讲矛头对准欧洲",
+        "onboard_time": 1758677121,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174607,
+        "num": 174607,
+        "word": "深圳人终于可以休息了",
+        "onboard_time": 1758682942,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172477,
+        "num": 172477,
+        "word": "小狗被大风吹成海豹了",
+        "onboard_time": 1758686963,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169783,
+        "num": 169783,
+        "word": "台风桦加沙减弱至十六级",
+        "onboard_time": 1758641722,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161704,
+        "num": 161704,
+        "word": "醉酒女撞死人车主反问我是预言家吗",
+        "onboard_time": 1758686902,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89872,
+        "num": 161201,
+        "word": "闫安说全运会负责王楚钦陪练",
+        "onboard_time": 1758687324,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43281,
+        "num": 160849,
+        "word": "吃饭遭店家直播",
+        "onboard_time": 1758688042,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160844,
+        "num": 160844,
+        "word": "倪妮黑丝",
+        "onboard_time": 1758682103,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159246,
+        "num": 159246,
+        "word": "波兰宣布重新开放与白俄罗斯边境口岸",
+        "onboard_time": 1758685042,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156213,
+        "num": 156213,
+        "word": "上海绿捷道歉",
+        "onboard_time": 1758641305,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145761,
+        "num": 145761,
+        "word": "特朗普痛斥联合国无用",
+        "onboard_time": 1758687743,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168267,
+        "num": 145751,
+        "word": "模仿王源wink博主说要回归工作",
+        "onboard_time": 1758681861,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145741,
+        "num": 145741,
+        "word": "刘萧旭吐槽短剧台词油腻",
+        "onboard_time": 1758680900,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164366,
+        "num": 145680,
+        "word": "王扁1分钟视频报价40元",
+        "onboard_time": 1758683002,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144992,
+        "num": 144992,
+        "word": "张一山被自己吓麻了",
+        "onboard_time": 1758687983,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142001,
+        "num": 142001,
+        "word": "昆凌说怀四胎顺其自然",
+        "onboard_time": 1758672261,
+        "rank": 48,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 139897,
+        "num": 139897,
+        "word": "米兰街头偶遇关晓彤",
+        "onboard_time": 1758687862,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记抵达新疆时收到了石榴花束#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758685705991,
+  "endTime": 1758688150998,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -19,11 +19,19 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 1363286,
-      "num": 1363286,
+      "raw_hot": 1369671,
+      "num": 1369671,
       "word": "桦加沙深圳",
       "onboard_time": 1758636564,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1243567,
+      "num": 1243567,
+      "word": "深圳已录得最大阵风15级",
+      "onboard_time": 1758682700,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -59,19 +67,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 947243,
-      "num": 947243,
-      "word": "深圳已录得最大阵风15级",
-      "onboard_time": 1758682700,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 895628,
       "num": 536770,
       "word": "敖瑞鹏不二之臣一番",
       "onboard_time": 1758680660,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 878926,
+      "num": 878926,
+      "word": "不二之臣 审美",
+      "onboard_time": 1758683780,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -91,10 +99,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 846854,
+      "num": 846854,
+      "word": "桦加沙广州",
+      "onboard_time": 1758683181,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 806564,
       "num": 806564,
       "word": "王晓晨 俞灏明",
       "onboard_time": 1758634885,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 801895,
+      "num": 801895,
+      "word": "王传君 我不喜欢",
+      "onboard_time": 1758686480,
       "rank": 5,
       "category": "艺人"
     },
@@ -123,28 +147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 703522,
+      "num": 703522,
+      "word": "辛芷蕾 你还能原谅我吗",
+      "onboard_time": 1758684801,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 688074,
       "num": 688074,
       "word": "桦加沙已致台湾花莲124人失联",
       "onboard_time": 1758681021,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 681836,
-      "num": 681836,
-      "word": "不二之臣 审美",
-      "onboard_time": 1758683780,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 661858,
-      "num": 661858,
-      "word": "桦加沙广州",
-      "onboard_time": 1758683181,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630584,
@@ -179,6 +195,14 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 581896,
+      "num": 549764,
+      "word": "外卖杀手",
+      "onboard_time": 1758683481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 574468,
       "num": 574468,
       "word": "认识李一桐的全部离开米兰",
@@ -203,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539903,
+      "num": 539903,
+      "word": "昆凌前三胎都是剖腹产",
+      "onboard_time": 1758685881,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510349,
       "num": 565200,
       "word": "网红罗几因车祸不幸遇难",
@@ -219,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476429,
+      "num": 476429,
+      "word": "近距离看桦加沙",
+      "onboard_time": 1758684202,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471772,
       "num": 471772,
       "word": "中国女子日本旅游遭歧视",
       "onboard_time": 1758674362,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436163,
+      "num": 436163,
+      "word": "迪丽热巴剪彩怕彩头掉地上",
+      "onboard_time": 1758685402,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 433903,
@@ -251,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392967,
+      "num": 392967,
+      "word": "刘芮麟和太太约定不会分开",
+      "onboard_time": 1758684381,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389357,
       "num": 389357,
       "word": "日掛中天定档",
       "onboard_time": 1758682641,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 361998,
+      "num": 361998,
+      "word": "不二之臣阵容官宣",
+      "onboard_time": 1758682821,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 342548,
@@ -275,20 +339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337415,
-      "num": 337415,
-      "word": "刘芮麟和太太约定不会分开",
-      "onboard_time": 1758684381,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 335328,
+      "num": 335328,
+      "word": "广东潮州中午12时起复工复产",
+      "onboard_time": 1758684682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 331919,
-      "num": 234908,
-      "word": "不二之臣阵容官宣",
-      "onboard_time": 1758682821,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 326520,
+      "num": 326520,
+      "word": "榴莲味月饼一块0.6元含真果肉20元",
+      "onboard_time": 1758686602,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321922,
@@ -315,20 +379,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 304885,
-      "num": 242674,
-      "word": "辛芷蕾 你还能原谅我吗",
-      "onboard_time": 1758684801,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 295972,
-      "num": 295972,
-      "word": "近距离看桦加沙",
-      "onboard_time": 1758684202,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 285921,
+      "num": 285921,
+      "word": "王者荣耀",
+      "onboard_time": 1758686243,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 284297,
@@ -345,6 +401,14 @@
       "onboard_time": 1758671602,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 264329,
+      "num": 264329,
+      "word": "桦加沙今日登陆广东",
+      "onboard_time": 1758685402,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254078,
@@ -411,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233471,
-      "num": 233471,
-      "word": "桦加沙今日登陆广东",
-      "onboard_time": 1758685402,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229606,
       "num": 229606,
       "word": "王扁1分钟视频报价40元",
@@ -433,14 +489,6 @@
       "onboard_time": 1758682103,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223965,
-      "num": 223965,
-      "word": "外卖杀手",
-      "onboard_time": 1758683481,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223869,
@@ -464,6 +512,14 @@
       "word": "上海绿捷已被立案侦查",
       "onboard_time": 1758633743,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213884,
+      "num": 213884,
+      "word": "河南一企业低调招人月薪达92万",
+      "onboard_time": 1758685282,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -523,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192089,
+      "num": 231279,
+      "word": "张艺兴回归向往的生活",
+      "onboard_time": 1758684921,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189600,
       "num": 189600,
       "word": "酸辣粉发霉",
@@ -539,12 +603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186818,
-      "num": 186818,
-      "word": "张艺兴回归向往的生活",
-      "onboard_time": 1758684921,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 187033,
+      "num": 187033,
+      "word": "大司马鹅鸭杀首秀",
+      "onboard_time": 1758686302,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 184656,
@@ -571,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178966,
-      "num": 178966,
-      "word": "迪丽热巴剪彩怕彩头掉地上",
-      "onboard_time": 1758685402,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178725,
       "num": 178725,
       "word": "特朗普到联合国电梯提词器都坏了",
@@ -595,12 +651,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172477,
+      "num": 172477,
+      "word": "小狗被大风吹成海豹了",
+      "onboard_time": 1758686963,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171380,
       "num": 171380,
       "word": "香港一家三口被巨浪卷走",
       "onboard_time": 1758623302,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161704,
+      "num": 161704,
+      "word": "醉酒女撞死人车主反问我是预言家吗",
+      "onboard_time": 1758686902,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159246,
+      "num": 159246,
+      "word": "波兰宣布重新开放与白俄罗斯边境口岸",
+      "onboard_time": 1758685042,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156375,
@@ -617,14 +697,6 @@
       "onboard_time": 1758682942,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153329,
-      "num": 240267,
-      "word": "广东潮州中午12时起复工复产",
-      "onboard_time": 1758684682,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151570,
@@ -667,6 +739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145761,
+      "num": 145761,
+      "word": "特朗普痛斥联合国无用",
+      "onboard_time": 1758687743,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 144992,
+      "num": 144992,
+      "word": "张一山被自己吓麻了",
+      "onboard_time": 1758687983,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144667,
       "num": 144667,
       "word": "大家真的不用小马过河这个词吗",
@@ -697,6 +785,14 @@
       "onboard_time": 1758678922,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139897,
+      "num": 139897,
+      "word": "米兰街头偶遇关晓彤",
+      "onboard_time": 1758687862,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 139734,
@@ -827,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113923,
-      "num": 187509,
-      "word": "河南一企业低调招人月薪达92万",
-      "onboard_time": 1758685282,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111287,
       "num": 151219,
       "word": "刘耀文今天真脱不了",
@@ -955,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89872,
+      "num": 161201,
+      "word": "闫安说全运会负责王楚钦陪练",
+      "onboard_time": 1758687324,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89554,
       "num": 89554,
       "word": "牙科医院的抚慰犬",
@@ -977,6 +1073,14 @@
       "onboard_time": 1758639922,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84743,
+      "num": 555642,
+      "word": "花莲堰塞湖溃堤冲垮桥梁直冲市区",
+      "onboard_time": 1758681141,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83784,
@@ -1075,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63335,
+      "num": 363737,
+      "word": "波司登全球首发新面料有多少黑科技",
+      "onboard_time": 1758687382,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62012,
       "num": 98581,
       "word": "广东人的抗台风玄学",
@@ -1155,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43281,
+      "num": 160849,
+      "word": "吃饭遭店家直播",
+      "onboard_time": 1758688042,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42440,
       "num": 188001,
       "word": "丁真煮奶茶放了半罐盐",
@@ -1193,6 +1313,30 @@
       "onboard_time": 1758646278,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33693,
+      "num": 899461,
+      "word": "收到台风预警信息后该怎么做",
+      "onboard_time": 1758686422,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32099,
+      "num": 479181,
+      "word": "王曼昱的战术秘诀",
+      "onboard_time": 1758686722,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31617,
+      "num": 218869,
+      "word": "外卖平台服务管理基本要求征求意见",
+      "onboard_time": 1758686480,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31328,
