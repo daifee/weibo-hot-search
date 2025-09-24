@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758732430449,
+  "endTime": 1758734579514,
   "band_list": [
     {
       "raw_hot": 1266005,
@@ -51,8 +51,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 483940,
-      "num": 483940,
+      "raw_hot": 575110,
+      "num": 575110,
       "word": "雷军",
       "onboard_time": 1758729862,
       "rank": 18,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242198,
+      "num": 242198,
+      "word": "张维伊的表情",
+      "onboard_time": 1758730101,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240878,
       "num": 388377,
       "word": "刺杀特朗普未遂男子当庭试图自杀",
@@ -177,14 +185,6 @@
       "onboard_time": 1758713121,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190146,
-      "num": 240885,
-      "word": "张维伊的表情",
-      "onboard_time": 1758730101,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 169709,
@@ -323,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79209,
+      "num": 91669,
+      "word": "白鹿米兰街拍一整个权威",
+      "onboard_time": 1758733817,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 77428,
       "num": 77428,
       "word": "张雪峰",
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67760,
+      "num": 323607,
+      "word": "已经很期待国庆假期了",
+      "onboard_time": 1758731659,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64781,
       "num": 64781,
       "word": "刘雨昕 偷偷藏不住",
@@ -419,12 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43381,
-      "num": 323607,
-      "word": "已经很期待国庆假期了",
-      "onboard_time": 1758731659,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 37817,
+      "num": 45545,
+      "word": "存款20万先买车还是先买房",
+      "onboard_time": 1758721882,
+      "rank": 43,
+      "category": "议题讨论,汽车"
+    },
+    {
+      "raw_hot": 35295,
+      "num": 45498,
+      "word": "米兰街头的丁禹兮",
+      "onboard_time": 1758733038,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 3199,
