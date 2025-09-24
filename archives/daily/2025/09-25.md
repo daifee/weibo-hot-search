@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 04:39:08
+本榜单时间：2025/09/25 00:32:35 ~ 2025/09/25 05:22:01
 </p>
 </blockquote>
 <p>
@@ -261,6 +261,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
+广东大部分被台风桦加沙覆盖（热度：79942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%23" target="weibo">
 张雪峰（热度：77428）
 </a>
@@ -293,12 +299,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F45%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%87%E9%9A%BE%23" target="weibo">
 浙江45岁失联男子已遇难（热度：72045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
-广东大部分被台风桦加沙覆盖（热度：71992）
 </a>
 </li>
 
@@ -406,7 +406,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E8%BF%9C%E4%BA%B2%E4%B8%8D%E5%A6%82%E8%BF%91%E9%82%BB%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
-这一刻远亲不如近邻具象化了（热度：22189）
+这一刻远亲不如近邻具象化了（热度：22378）
 </a>
 </li>
 
@@ -430,7 +430,19 @@ TFBOYS宣传王俊凯平遥电影展（热度：19593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E6%8B%8D%E4%B8%8B%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%AF%81%E6%A1%A5%E9%9D%A2%E7%9E%AC%E9%97%B4%23" target="weibo">
-台湾民众拍下洪水冲毁桥面瞬间（热度：17787）
+台湾民众拍下洪水冲毁桥面瞬间（热度：18948）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E4%BA%86%23" target="weibo">
+桦加沙登陆了（热度：17029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E5%90%83%E8%8D%AF%E4%B8%8D%E8%BF%87%E6%95%8F%E4%B8%8D%E4%BB%A3%E8%A1%A8%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%BF%87%E6%95%8F%23" target="weibo">
+以前吃药不过敏不代表永远不过敏（热度：15328）
 </a>
 </li>
 
@@ -443,12 +455,6 @@ TFBOYS宣传王俊凯平遥电影展（热度：19593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%B9%B4%E5%BA%A6%E4%BA%BA%E6%B0%94%E6%AD%8C%E6%89%8B%23" target="weibo">
 刘宇年度人气歌手（热度：12728）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E4%BA%86%23" target="weibo">
-桦加沙登陆了（热度：10235）
 </a>
 </li>
 

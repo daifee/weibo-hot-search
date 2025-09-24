@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758746348033,
+  "endTime": 1758748921259,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -65947,6 +65947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79942,
+      "num": 79942,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 79931,
       "num": 530313,
       "word": "消费者在意的是预制菜值不值现炒价",
@@ -67657,14 +67665,6 @@
       "onboard_time": 1758273983,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 71992,
-      "num": 71992,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 71953,
@@ -76771,6 +76771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22378,
+      "num": 22378,
+      "word": "这一刻远亲不如近邻具象化了",
+      "onboard_time": 1758730640,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22351,
       "num": 184485,
       "word": "易会满曾称工作如履薄冰",
@@ -76801,14 +76809,6 @@
       "onboard_time": 1758605541,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22189,
-      "num": 22189,
-      "word": "这一刻远亲不如近邻具象化了",
-      "onboard_time": 1758730640,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 22185,
@@ -77371,6 +77371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18948,
+      "num": 52474,
+      "word": "台湾民众拍下洪水冲毁桥面瞬间",
+      "onboard_time": 1758744854,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18945,
       "num": 47466,
       "word": "AI合成内容需亮明身份",
@@ -77507,14 +77515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17787,
-      "num": 52474,
-      "word": "台湾民众拍下洪水冲毁桥面瞬间",
-      "onboard_time": 1758744854,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17615,
       "num": 77633,
       "word": "商务部回应中美会谈",
@@ -77569,6 +77569,14 @@
       "onboard_time": 1756769178,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17029,
+      "num": 27298,
+      "word": "桦加沙登陆了",
+      "onboard_time": 1758746054,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17005,
@@ -77753,6 +77761,14 @@
       "onboard_time": 1756742301,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15328,
+      "num": 15328,
+      "word": "以前吃药不过敏不代表永远不过敏",
+      "onboard_time": 1758747135,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15303,
@@ -78353,14 +78369,6 @@
       "onboard_time": 1757633724,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10235,
-      "num": 27298,
-      "word": "桦加沙登陆了",
-      "onboard_time": 1758746054,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9929,

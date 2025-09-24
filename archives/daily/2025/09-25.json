@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758746348033,
+  "endTime": 1758748921259,
   "band_list": [
     {
       "raw_hot": 1266005,
@@ -331,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79942,
+      "num": 79942,
+      "word": "广东大部分被台风桦加沙覆盖",
+      "onboard_time": 1758741193,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 77428,
       "num": 77428,
       "word": "张雪峰",
@@ -377,14 +385,6 @@
       "onboard_time": 1758724643,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71992,
-      "num": 71992,
-      "word": "广东大部分被台风桦加沙覆盖",
-      "onboard_time": 1758741193,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 71668,
@@ -523,8 +523,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22189,
-      "num": 22189,
+      "raw_hot": 22378,
+      "num": 22378,
       "word": "这一刻远亲不如近邻具象化了",
       "onboard_time": 1758730640,
       "rank": 44,
@@ -555,12 +555,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 17787,
+      "raw_hot": 18948,
       "num": 52474,
       "word": "台湾民众拍下洪水冲毁桥面瞬间",
       "onboard_time": 1758744854,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17029,
+      "num": 27298,
+      "word": "桦加沙登陆了",
+      "onboard_time": 1758746054,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15328,
+      "num": 15328,
+      "word": "以前吃药不过敏不代表永远不过敏",
+      "onboard_time": 1758747135,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15303,
@@ -577,14 +593,6 @@
       "onboard_time": 1758736396,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10235,
-      "num": 27298,
-      "word": "桦加沙登陆了",
-      "onboard_time": 1758746054,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3199,
