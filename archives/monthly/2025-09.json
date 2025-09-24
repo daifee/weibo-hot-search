@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758719135888,
+  "endTime": 1758720845684,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1756996344,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1270734,
+      "num": 1270734,
+      "word": "俞孔坚",
+      "onboard_time": 1758718223,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1269017,
@@ -7371,6 +7379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692598,
+      "num": 350063,
+      "word": "刘亦菲和两位年轻男子聚餐",
+      "onboard_time": 1758713121,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 692267,
       "num": 582032,
       "word": "蔡国强",
@@ -7635,6 +7651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 672347,
+      "num": 672347,
+      "word": "绍兴地铁深夜撞保洁员致多人伤亡",
+      "onboard_time": 1758716541,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 672196,
       "num": 572202,
       "word": "白敬亭 开机开机",
@@ -7835,6 +7859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 659561,
+      "num": 659561,
+      "word": "肖战直播",
+      "onboard_time": 1758714562,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 659433,
       "num": 914165,
       "word": "教体局回应一中学新初一共94个班",
@@ -7945,14 +7977,6 @@
       "onboard_time": 1758334580,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 654777,
-      "num": 350063,
-      "word": "刘亦菲和两位年轻男子聚餐",
-      "onboard_time": 1758713121,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 653054,
@@ -8577,14 +8601,6 @@
       "onboard_time": 1756721601,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 611591,
-      "num": 611591,
-      "word": "肖战直播",
-      "onboard_time": 1758714562,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 610061,
@@ -9603,14 +9619,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 560718,
-      "num": 560718,
-      "word": "绍兴地铁深夜撞保洁员致多人伤亡",
-      "onboard_time": 1758716541,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 560183,
       "num": 560183,
       "word": "中国发出世界首份反法西斯檄文",
@@ -9665,14 +9673,6 @@
       "onboard_time": 1757593657,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 559070,
-      "num": 559070,
-      "word": "俞孔坚",
-      "onboard_time": 1758718223,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 558705,
@@ -10393,6 +10393,14 @@
       "onboard_time": 1757897782,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528220,
+      "num": 284104,
+      "word": "垫底辣孩回应丑出圈",
+      "onboard_time": 1758718763,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 527730,
@@ -11377,6 +11385,14 @@
       "onboard_time": 1756870532,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 490021,
+      "num": 490021,
+      "word": "姐弟坠亡案妈妈5年后官宣新恋情",
+      "onboard_time": 1758719722,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489837,
@@ -16379,6 +16395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342332,
+      "num": 291546,
+      "word": "向太说刘亦菲圈内口碑真的很好",
+      "onboard_time": 1758718102,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341824,
       "num": 143274,
       "word": "旺旺集团副董事长怒批赖清德",
@@ -18371,6 +18395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 296562,
+      "num": 291147,
+      "word": "老人去世留8套房给非亲生女儿最多",
+      "onboard_time": 1758717442,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296533,
       "num": 296533,
       "word": "霍启刚观看阅兵后发文",
@@ -18672,14 +18704,6 @@
       "word": "易烊千玺拍撕拉片",
       "onboard_time": 1757411182,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 291546,
-      "num": 291546,
-      "word": "向太说刘亦菲圈内口碑真的很好",
-      "onboard_time": 1758718102,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -19307,6 +19331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 279516,
+      "num": 279516,
+      "word": "王源 好听",
+      "onboard_time": 1758720321,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 279427,
       "num": 246959,
       "word": "韩国下令必要时强力应对反华集会",
@@ -19777,6 +19809,14 @@
       "onboard_time": 1758671602,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271390,
+      "num": 271390,
+      "word": "台湾花莲溃坝惨案",
+      "onboard_time": 1758716422,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271338,
@@ -20283,6 +20323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263275,
+      "num": 272902,
+      "word": "俞孔坚在巴西坠机遇难",
+      "onboard_time": 1758720563,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263077,
       "num": 263077,
       "word": "老师批评迟到学生被指官威大",
@@ -20473,6 +20521,14 @@
       "onboard_time": 1757214561,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260399,
+      "num": 278719,
+      "word": "王源镂空长袍",
+      "onboard_time": 1758719062,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 259797,
@@ -22115,14 +22171,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 237024,
-      "num": 237024,
-      "word": "台湾花莲溃坝惨案",
-      "onboard_time": 1758716422,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236727,
       "num": 237906,
       "word": "女童被继母虐死前遭针扎舌头指缝",
@@ -22625,14 +22673,6 @@
       "onboard_time": 1757254883,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 230292,
-      "num": 230292,
-      "word": "老人去世留8套房给非亲生女儿最多",
-      "onboard_time": 1758717442,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230259,
@@ -23393,6 +23433,14 @@
       "onboard_time": 1757307683,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222116,
+      "num": 222116,
+      "word": "胖东来宣布刑释人员全部录取",
+      "onboard_time": 1758718642,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222008,
@@ -29131,14 +29179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188657,
-      "num": 188657,
-      "word": "垫底辣孩回应丑出圈",
-      "onboard_time": 1758718763,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 188653,
       "num": 188653,
       "word": "罗永浩回应西贝品牌负责人",
@@ -30137,6 +30177,14 @@
       "onboard_time": 1757392283,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184509,
+      "num": 263730,
+      "word": "周深这是听到什么了",
+      "onboard_time": 1758720082,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 184493,
@@ -31803,14 +31851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175974,
-      "num": 175974,
-      "word": "王源镂空长袍",
-      "onboard_time": 1758719062,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 175948,
       "num": 175948,
       "word": "连麦六次失忆六次心动六次",
@@ -31873,6 +31913,14 @@
       "onboard_time": 1758370882,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175620,
+      "num": 175620,
+      "word": "王俊凯平遥生图",
+      "onboard_time": 1758720683,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 175548,
@@ -36459,6 +36507,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 158322,
+      "num": 158322,
+      "word": "时代少年团全员等比例长大",
+      "onboard_time": 1758718763,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158304,
       "num": 158304,
       "word": "校方回应床直接钉在墙上",
@@ -36593,14 +36649,6 @@
       "onboard_time": 1757913563,
       "rank": 43,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 157717,
-      "num": 152013,
-      "word": "胖东来宣布刑释人员全部录取",
-      "onboard_time": 1758718642,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157685,
@@ -36769,14 +36817,6 @@
       "onboard_time": 1757294841,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 157085,
-      "num": 157085,
-      "word": "时代少年团全员等比例长大",
-      "onboard_time": 1758718763,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 157082,
@@ -40483,6 +40523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146056,
+      "num": 146056,
+      "word": "深圳警方回应公司不让员工回家",
+      "onboard_time": 1758717442,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146040,
       "num": 197017,
       "word": "女子回应随手写彩票中奖798万",
@@ -40577,6 +40625,14 @@
       "onboard_time": 1757296881,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145727,
+      "num": 145727,
+      "word": "许我耀眼",
+      "onboard_time": 1758720743,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 145709,
@@ -41451,6 +41507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143528,
+      "num": 152603,
+      "word": "迅猛龙没上过班",
+      "onboard_time": 1758717861,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 143525,
       "num": 143525,
       "word": "校方回应男留学生与女生混住",
@@ -41713,6 +41777,14 @@
       "onboard_time": 1757060783,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142698,
+      "num": 223908,
+      "word": "唐嫣檀健次同框看秀",
+      "onboard_time": 1758718161,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 142696,
@@ -43451,14 +43523,6 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 137805,
-      "num": 152603,
-      "word": "迅猛龙没上过班",
-      "onboard_time": 1758717861,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 137798,
       "num": 137798,
       "word": "朱雨玲11比1",
@@ -43905,6 +43969,14 @@
       "onboard_time": 1758375323,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136922,
+      "num": 160076,
+      "word": "西安一猪肾移植者已存活超200天",
+      "onboard_time": 1758719002,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136867,
@@ -45593,14 +45665,6 @@
       "onboard_time": 1756988664,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132556,
-      "num": 130914,
-      "word": "唐嫣檀健次同框看秀",
-      "onboard_time": 1758718161,
-      "rank": 48,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 132554,
@@ -59715,6 +59779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99465,
+      "num": 145794,
+      "word": "桦加沙已致台湾17人死亡",
+      "onboard_time": 1758719482,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 99447,
       "num": 99447,
       "word": "水贝黄金回收价创新高",
@@ -61353,6 +61425,14 @@
       "onboard_time": 1757036780,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 94972,
+      "num": 233276,
+      "word": "问界M7一日大定突破4万台",
+      "onboard_time": 1758719782,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 94892,
@@ -68235,14 +68315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 65269,
-      "num": 160076,
-      "word": "西安一猪肾移植者已存活超200天",
-      "onboard_time": 1758719002,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65250,
       "num": 135581,
       "word": "檀健次梗好全",
@@ -69377,6 +69449,14 @@
       "onboard_time": 1758039389,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59537,
+      "num": 281685,
+      "word": "檀健次同款包包",
+      "onboard_time": 1758719962,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 59500,
@@ -70715,6 +70795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52791,
+      "num": 277303,
+      "word": "朱江明希望零跑做世界级电动车企",
+      "onboard_time": 1758719121,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52787,
       "num": 376020,
       "word": "结婚22年两子非亲生房产纠纷案开庭",
@@ -71777,6 +71865,14 @@
       "onboard_time": 1757624835,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47542,
+      "num": 163763,
+      "word": "Red感谢制作人张艺兴",
+      "onboard_time": 1758719962,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 47505,
@@ -73249,6 +73345,14 @@
       "onboard_time": 1756799602,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39227,
+      "num": 163042,
+      "word": "安静公主恢复味觉",
+      "onboard_time": 1758720201,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 39187,
@@ -76473,6 +76577,14 @@
       "onboard_time": 1757357775,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20028,
+      "num": 779866,
+      "word": "一首歌祝福新疆",
+      "onboard_time": 1758719181,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19933,

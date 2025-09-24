@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758719135888,
+  "endTime": 1758720845684,
   "band_list": [
     {
       "raw_hot": 9419194,
@@ -81,6 +81,14 @@
       "onboard_time": 1758711022,
       "rank": 3,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1270734,
+      "num": 1270734,
+      "word": "俞孔坚",
+      "onboard_time": 1758718223,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1246700,
@@ -347,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 692598,
+      "num": 350063,
+      "word": "刘亦菲和两位年轻男子聚餐",
+      "onboard_time": 1758713121,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688074,
       "num": 688074,
       "word": "桦加沙已致台湾花莲124人失联",
@@ -363,12 +379,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 672347,
+      "num": 672347,
+      "word": "绍兴地铁深夜撞保洁员致多人伤亡",
+      "onboard_time": 1758716541,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663373,
       "num": 663373,
       "word": "成毅辟谣自己不玩手机的传闻",
       "onboard_time": 1758694763,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 659561,
+      "num": 659561,
+      "word": "肖战直播",
+      "onboard_time": 1758714562,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 657561,
@@ -387,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 654777,
-      "num": 350063,
-      "word": "刘亦菲和两位年轻男子聚餐",
-      "onboard_time": 1758713121,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 630584,
       "num": 316666,
       "word": "崔丽丽称老板刚被判刑她就被开除",
@@ -409,14 +433,6 @@
       "onboard_time": 1758669199,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 611591,
-      "num": 611591,
-      "word": "肖战直播",
-      "onboard_time": 1758714562,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 603939,
@@ -483,22 +499,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 560718,
-      "num": 560718,
-      "word": "绍兴地铁深夜撞保洁员致多人伤亡",
-      "onboard_time": 1758716541,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559070,
-      "num": 559070,
-      "word": "俞孔坚",
-      "onboard_time": 1758718223,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 555453,
       "num": 555453,
       "word": "桦加沙强度正在减弱",
@@ -521,6 +521,14 @@
       "onboard_time": 1758686602,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528220,
+      "num": 284104,
+      "word": "垫底辣孩回应丑出圈",
+      "onboard_time": 1758718763,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 510349,
@@ -553,6 +561,14 @@
       "onboard_time": 1758692002,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 490021,
+      "num": 490021,
+      "word": "姐弟坠亡案妈妈5年后官宣新恋情",
+      "onboard_time": 1758719722,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471772,
@@ -707,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342332,
+      "num": 291546,
+      "word": "向太说刘亦菲圈内口碑真的很好",
+      "onboard_time": 1758718102,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340124,
       "num": 340124,
       "word": "袁咏仪英国陪儿子读大学",
@@ -851,20 +875,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296562,
+      "num": 291147,
+      "word": "老人去世留8套房给非亲生女儿最多",
+      "onboard_time": 1758717442,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294318,
       "num": 294318,
       "word": "蔡徐坤回国首秀",
       "onboard_time": 1758710362,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 291546,
-      "num": 291546,
-      "word": "向太说刘亦菲圈内口碑真的很好",
-      "onboard_time": 1758718102,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 291040,
@@ -923,6 +947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 279516,
+      "num": 279516,
+      "word": "王源 好听",
+      "onboard_time": 1758720321,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 278313,
       "num": 278313,
       "word": "王家卫 古二",
@@ -947,6 +979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271390,
+      "num": 271390,
+      "word": "台湾花莲溃坝惨案",
+      "onboard_time": 1758716422,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265708,
       "num": 265708,
       "word": "车企力挺小米17",
@@ -961,6 +1001,22 @@
       "onboard_time": 1758685402,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263275,
+      "num": 272902,
+      "word": "俞孔坚在巴西坠机遇难",
+      "onboard_time": 1758720563,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260399,
+      "num": 278719,
+      "word": "王源镂空长袍",
+      "onboard_time": 1758719062,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 255476,
@@ -1051,14 +1107,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 237024,
-      "num": 237024,
-      "word": "台湾花莲溃坝惨案",
-      "onboard_time": 1758716422,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235331,
       "num": 235331,
       "word": "赴山海是否意味着新武侠剧的没落",
@@ -1073,14 +1121,6 @@
       "onboard_time": 1758708021,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 230292,
-      "num": 230292,
-      "word": "老人去世留8套房给非亲生女儿最多",
-      "onboard_time": 1758717442,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229606,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1758704002,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222116,
+      "num": 222116,
+      "word": "胖东来宣布刑释人员全部录取",
+      "onboard_time": 1758718642,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221688,
@@ -1291,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206370,
+      "num": 206370,
+      "word": "小米17",
+      "onboard_time": 1758715882,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 206156,
       "num": 206156,
       "word": "雷军T恤",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1758706462,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199261,
-      "num": 199261,
-      "word": "小米17",
-      "onboard_time": 1758715882,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 199134,
@@ -1491,14 +1539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188657,
-      "num": 188657,
-      "word": "垫底辣孩回应丑出圈",
-      "onboard_time": 1758718763,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 188015,
       "num": 188015,
       "word": "周洁琼 pinky回来了",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1758711982,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184509,
+      "num": 263730,
+      "word": "周深这是听到什么了",
+      "onboard_time": 1758720082,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 183641,
@@ -1611,12 +1659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175974,
-      "num": 175974,
-      "word": "王源镂空长袍",
-      "onboard_time": 1758719062,
-      "rank": 34,
-      "category": "演出"
+      "raw_hot": 175620,
+      "num": 175620,
+      "word": "王俊凯平遥生图",
+      "onboard_time": 1758720683,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 174727,
@@ -1779,16 +1827,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157717,
-      "num": 152013,
-      "word": "胖东来宣布刑释人员全部录取",
-      "onboard_time": 1758718642,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157085,
-      "num": 157085,
+      "raw_hot": 158322,
+      "num": 158322,
       "word": "时代少年团全员等比例长大",
       "onboard_time": 1758718763,
       "rank": 39,
@@ -1931,6 +1971,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146056,
+      "num": 146056,
+      "word": "深圳警方回应公司不让员工回家",
+      "onboard_time": 1758717442,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145727,
+      "num": 145727,
+      "word": "许我耀眼",
+      "onboard_time": 1758720743,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145465,
       "num": 228177,
       "word": "米兰街头偶遇关晓彤",
@@ -1995,12 +2051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143528,
+      "num": 152603,
+      "word": "迅猛龙没上过班",
+      "onboard_time": 1758717861,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 143443,
       "num": 143443,
       "word": "李宇春 黑天鹅",
       "onboard_time": 1758718763,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142698,
+      "num": 223908,
+      "word": "唐嫣檀健次同框看秀",
+      "onboard_time": 1758718161,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 142418,
@@ -2075,14 +2147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137805,
-      "num": 152603,
-      "word": "迅猛龙没上过班",
-      "onboard_time": 1758717861,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 137730,
       "num": 370128,
       "word": "7分甜 速冻芒果保质期2年",
@@ -2097,6 +2161,14 @@
       "onboard_time": 1758691642,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 136922,
+      "num": 160076,
+      "word": "西安一猪肾移植者已存活超200天",
+      "onboard_time": 1758719002,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136425,
@@ -2177,14 +2249,6 @@
       "onboard_time": 1758715403,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132556,
-      "num": 130914,
-      "word": "唐嫣檀健次同框看秀",
-      "onboard_time": 1758718161,
-      "rank": 48,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 132417,
@@ -2555,6 +2619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 99465,
+      "num": 145794,
+      "word": "桦加沙已致台湾17人死亡",
+      "onboard_time": 1758719482,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 96569,
       "num": 359281,
       "word": "续面事件老板鞠躬致歉",
@@ -2585,6 +2657,14 @@
       "onboard_time": 1758705022,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94972,
+      "num": 233276,
+      "word": "问界M7一日大定突破4万台",
+      "onboard_time": 1758719782,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 94503,
@@ -2827,14 +2907,6 @@
       "category": "数码,游戏"
     },
     {
-      "raw_hot": 65269,
-      "num": 160076,
-      "word": "西安一猪肾移植者已存活超200天",
-      "onboard_time": 1758719002,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65168,
       "num": 155319,
       "word": "采集辖区男性血样3个问题不能回避",
@@ -2888,6 +2960,14 @@
       "word": "让希林娜依高梳背头的是天才",
       "onboard_time": 1758638484,
       "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59537,
+      "num": 281685,
+      "word": "檀健次同款包包",
+      "onboard_time": 1758719962,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -2953,6 +3033,14 @@
       "onboard_time": 1758653954,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52791,
+      "num": 277303,
+      "word": "朱江明希望零跑做世界级电动车企",
+      "onboard_time": 1758719121,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 52301,
@@ -3027,6 +3115,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 47542,
+      "num": 163763,
+      "word": "Red感谢制作人张艺兴",
+      "onboard_time": 1758719962,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 45743,
       "num": 285840,
       "word": "多家媒体关注的飞猪公开课是什么",
@@ -3095,6 +3191,14 @@
       "num": 169334,
       "word": "李云鹏吐槽短剧亲密戏尺度",
       "onboard_time": 1758691223,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39227,
+      "num": 163042,
+      "word": "安静公主恢复味觉",
+      "onboard_time": 1758720201,
       "rank": 39,
       "category": "艺人"
     },
@@ -3273,6 +3377,14 @@
       "onboard_time": 1758636564,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20028,
+      "num": 779866,
+      "word": "一首歌祝福新疆",
+      "onboard_time": 1758719181,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15810,
