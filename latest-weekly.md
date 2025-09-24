@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 05:22:01
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 05:36:39
 </p>
 </blockquote>
 <p>
@@ -8775,6 +8775,12 @@ SNH48 看得出她们是公主（热度：95078）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
+广东大部分被台风桦加沙覆盖（热度：80552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E9%99%B5%E7%BB%93%E5%A9%9A%23" target="weibo">
 李兰陵结婚（热度：80384）
 </a>
@@ -8789,12 +8795,6 @@ SNH48 看得出她们是公主（热度：95078）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%BD%95%E8%8A%82%E7%9B%AE%E9%81%87%E5%88%B0%E6%B0%B4%E8%9B%87%23" target="weibo">
 撒贝宁尼格买提录节目遇到水蛇（热度：80013）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
-广东大部分被台风桦加沙覆盖（热度：79942）
 </a>
 </li>
 
