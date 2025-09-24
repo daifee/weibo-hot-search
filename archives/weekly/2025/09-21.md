@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 02:46:05
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/25 03:21:07
 </p>
 </blockquote>
 <p>
@@ -9795,6 +9795,12 @@ Red感谢制作人张艺兴（热度：47542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%AE%A9%E7%B2%89%E4%B8%9D%E4%BB%8E%E6%A0%91%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
+田曦薇让粉丝从树上下来（热度：43049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E8%BF%99%E6%AE%B5%E5%81%B6%E5%83%8F%E9%BC%BB%E7%A5%96%E5%90%AC%E4%BA%86%E9%83%BD%E8%84%B8%E7%BA%A2%23" target="weibo">
 陆毅鲍蕾这段偶像鼻祖听了都脸红（热度：43002）
 </a>
@@ -10131,12 +10137,6 @@ FENDI大秀明星阵容（热度：37127）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%AE%A9%E7%B2%89%E4%B8%9D%E4%BB%8E%E6%A0%91%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
-田曦薇让粉丝从树上下来（热度：33376）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%A7%81%E6%BD%AE%E5%90%91%E9%9F%B3%E4%B9%90%E8%8A%82%E7%A5%9E%E5%9B%BE%E6%9D%A5%E4%BA%86%23" target="weibo">
 乐见潮向音乐节神图来了（热度：32953）
 </a>
@@ -10431,6 +10431,12 @@ BLG夺冠后发文（热度：29654）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9D%A5%E5%95%8AWMA%E8%88%9E%E5%8F%B0%23" target="weibo">
+周深来啊WMA舞台（热度：25229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%8D%A1%E5%AD%90%E5%8E%BF%E5%90%A6%E8%AE%A4%E7%83%9F%E8%8A%B1%E7%A7%80%E6%9B%BE%E5%9C%A8%E5%BD%93%E5%9C%B0%E5%BD%A9%E6%8E%92%23" target="weibo">
 浪卡子县否认烟花秀曾在当地彩排（热度：25024）
 </a>
@@ -10587,6 +10593,12 @@ Knight有我就有冠军（热度：18611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E8%BF%9C%E4%BA%B2%E4%B8%8D%E5%A6%82%E8%BF%91%E9%82%BB%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
+这一刻远亲不如近邻具象化了（热度：17511）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%E7%A0%B4%E9%97%A8%23" target="weibo">
 莱昂纳多破门（热度：16737）
 </a>
@@ -10655,6 +10667,12 @@ Knight有我就有冠军（热度：18611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A4%E8%8F%9C%23" target="weibo">
 囤菜（热度：12035）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
+广东大部分被台风桦加沙覆盖（热度：11556）
 </a>
 </li>
 
