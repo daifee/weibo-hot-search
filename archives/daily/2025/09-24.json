@@ -1,6 +1,6 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758683607488,
+  "endTime": 1758685705991,
   "band_list": [
     {
       "raw_hot": 2237522,
@@ -59,8 +59,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 947243,
+      "num": 947243,
+      "word": "深圳已录得最大阵风15级",
+      "onboard_time": 1758682700,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 895628,
-      "num": 403638,
+      "num": 536770,
       "word": "敖瑞鹏不二之臣一番",
       "onboard_time": 1758680660,
       "rank": 11,
@@ -115,6 +123,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 688074,
+      "num": 688074,
+      "word": "桦加沙已致台湾花莲124人失联",
+      "onboard_time": 1758681021,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 681836,
+      "num": 681836,
+      "word": "不二之臣 审美",
+      "onboard_time": 1758683780,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 661858,
+      "num": 661858,
+      "word": "桦加沙广州",
+      "onboard_time": 1758683181,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630584,
       "num": 316666,
       "word": "崔丽丽称老板刚被判刑她就被开除",
@@ -137,6 +169,14 @@
       "onboard_time": 1758625042,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601868,
+      "num": 601868,
+      "word": "原来孙红雷馋的赛螃蟹长这样",
+      "onboard_time": 1758682281,
+      "rank": 16,
+      "category": "综艺,美食"
     },
     {
       "raw_hot": 574468,
@@ -169,14 +209,6 @@
       "onboard_time": 1758633863,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 509058,
-      "num": 509058,
-      "word": "桦加沙已致台湾花莲124人失联",
-      "onboard_time": 1758681021,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 492624,
@@ -219,8 +251,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384325,
-      "num": 384325,
+      "raw_hot": 389357,
+      "num": 389357,
       "word": "日掛中天定档",
       "onboard_time": 1758682641,
       "rank": 18,
@@ -243,20 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337415,
+      "num": 337415,
+      "word": "刘芮麟和太太约定不会分开",
+      "onboard_time": 1758684381,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 331919,
+      "num": 234908,
+      "word": "不二之臣阵容官宣",
+      "onboard_time": 1758682821,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321922,
       "num": 321922,
       "word": "深圳地铁",
       "onboard_time": 1758669260,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321756,
-      "num": 321756,
-      "word": "原来孙红雷馋的赛螃蟹长这样",
-      "onboard_time": 1758682281,
-      "rank": 16,
-      "category": "综艺,美食"
     },
     {
       "raw_hot": 315216,
@@ -275,11 +315,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 307082,
-      "num": 307082,
-      "word": "深圳已录得最大阵风15级",
-      "onboard_time": 1758682700,
-      "rank": 26,
+      "raw_hot": 304885,
+      "num": 242674,
+      "word": "辛芷蕾 你还能原谅我吗",
+      "onboard_time": 1758684801,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 295972,
+      "num": 295972,
+      "word": "近距离看桦加沙",
+      "onboard_time": 1758684202,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -331,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243123,
+      "num": 265190,
+      "word": "刘萧旭吐槽短剧台词油腻",
+      "onboard_time": 1758680900,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239778,
       "num": 307626,
       "word": "不二之臣",
@@ -339,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237814,
+      "num": 212386,
+      "word": "模仿王源wink博主说要回归工作",
+      "onboard_time": 1758681861,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 235331,
       "num": 235331,
       "word": "赴山海是否意味着新武侠剧的没落",
       "onboard_time": 1758631043,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233471,
+      "num": 233471,
+      "word": "桦加沙今日登陆广东",
+      "onboard_time": 1758685402,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229606,
@@ -363,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223965,
+      "num": 223965,
+      "word": "外卖杀手",
+      "onboard_time": 1758683481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223869,
       "num": 293655,
       "word": "云秀行阵容官宣",
       "onboard_time": 1758679401,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222658,
-      "num": 265190,
-      "word": "刘萧旭吐槽短剧台词油腻",
-      "onboard_time": 1758680900,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 220317,
@@ -393,14 +465,6 @@
       "onboard_time": 1758633743,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214718,
-      "num": 193803,
-      "word": "模仿王源wink博主说要回归工作",
-      "onboard_time": 1758681861,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 209440,
@@ -427,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207146,
+      "num": 207146,
+      "word": "盛世天下 9599无需多言",
+      "onboard_time": 1758684621,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198568,
       "num": 249386,
       "word": "小米17Pro逆光之王",
@@ -451,20 +523,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196750,
-      "num": 196750,
-      "word": "不二之臣阵容官宣",
-      "onboard_time": 1758682821,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189600,
       "num": 189600,
       "word": "酸辣粉发霉",
       "onboard_time": 1758673462,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188752,
+      "num": 188752,
+      "word": "未定事件簿",
+      "onboard_time": 1758684381,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186818,
+      "num": 186818,
+      "word": "张艺兴回归向往的生活",
+      "onboard_time": 1758684921,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184656,
+      "num": 184656,
+      "word": "肖战谍报制服路透",
+      "onboard_time": 1758684561,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 183561,
@@ -481,6 +569,14 @@
       "onboard_time": 1758641123,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178966,
+      "num": 178966,
+      "word": "迪丽热巴剪彩怕彩头掉地上",
+      "onboard_time": 1758685402,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 178725,
@@ -507,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168677,
-      "num": 168677,
-      "word": "桦加沙广州",
-      "onboard_time": 1758683181,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156375,
       "num": 209645,
       "word": "李一桐米兰偶遇李现",
@@ -529,6 +617,14 @@
       "onboard_time": 1758682942,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153329,
+      "num": 240267,
+      "word": "广东潮州中午12时起复工复产",
+      "onboard_time": 1758684682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151570,
@@ -563,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149823,
+      "num": 149823,
+      "word": "谁家女主亲爸是男主后爸",
+      "onboard_time": 1758685460,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144667,
+      "num": 144667,
+      "word": "大家真的不用小马过河这个词吗",
+      "onboard_time": 1758682103,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144548,
       "num": 144548,
       "word": "深圳一流浪人员不愿转移街道劝导",
@@ -587,20 +699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140325,
-      "num": 140325,
-      "word": "大家真的不用小马过河这个词吗",
-      "onboard_time": 1758682103,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139734,
       "num": 139734,
       "word": "莎头组合将再战混双",
       "onboard_time": 1758677900,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139627,
+      "num": 139627,
+      "word": "桦加沙台湾",
+      "onboard_time": 1758685581,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138257,
@@ -641,6 +753,14 @@
       "onboard_time": 1758683542,
       "rank": 38,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 128127,
+      "num": 191918,
+      "word": "预计桦加沙25日远离深圳",
+      "onboard_time": 1758684501,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124510,
@@ -707,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113923,
+      "num": 187509,
+      "word": "河南一企业低调招人月薪达92万",
+      "onboard_time": 1758685282,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111287,
       "num": 151219,
       "word": "刘耀文今天真脱不了",
@@ -737,6 +865,14 @@
       "onboard_time": 1758673701,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106658,
+      "num": 181084,
+      "word": "iPhone17A19芯片图曝光",
+      "onboard_time": 1758684202,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 105977,
@@ -803,19 +939,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94503,
+      "num": 186928,
+      "word": "台湾撤离人数达7904人",
+      "onboard_time": 1758685522,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92404,
       "num": 92404,
       "word": "28岁男子上树被自带绳子缠脖身亡",
       "onboard_time": 1758621621,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90142,
-      "num": 159471,
-      "word": "外卖杀手",
-      "onboard_time": 1758683481,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -995,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48984,
+      "num": 212609,
+      "word": "有珠海高层住户说30年首次撤离",
+      "onboard_time": 1758684741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48395,
       "num": 280792,
       "word": "尚界H5动态评测首发",
@@ -1009,6 +1153,14 @@
       "onboard_time": 1758668719,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42440,
+      "num": 188001,
+      "word": "丁真煮奶茶放了半罐盐",
+      "onboard_time": 1758684682,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 38727,
@@ -1067,6 +1219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 20153,
+      "num": 919907,
+      "word": "新疆最新宣传片",
+      "onboard_time": 1758636564,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12988,
       "num": 21728,
       "word": "盛世天下",
@@ -1086,6 +1246,9 @@
   "hotgov_list": [
     {
       "word": "#习近平率中央代表团抵达乌鲁木齐#"
+    },
+    {
+      "word": "#总书记抵达新疆时收到了石榴花束#"
     }
   ]
 }

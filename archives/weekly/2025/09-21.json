@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758683607488,
+  "endTime": 1758685705991,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -523,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 947243,
+      "num": 947243,
+      "word": "深圳已录得最大阵风15级",
+      "onboard_time": 1758682700,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 944814,
       "num": 944814,
       "word": "安踏回应始祖鸟炸山风波",
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 895628,
-      "num": 403638,
+      "num": 536770,
       "word": "敖瑞鹏不二之臣一番",
       "onboard_time": 1758680660,
       "rank": 11,
@@ -1035,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688074,
+      "num": 688074,
+      "word": "桦加沙已致台湾花莲124人失联",
+      "onboard_time": 1758681021,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 686694,
       "num": 686694,
       "word": "小米17Pro冷烟紫",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1758509181,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 681836,
+      "num": 681836,
+      "word": "不二之臣 审美",
+      "onboard_time": 1758683780,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 678987,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1758606801,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 661858,
+      "num": 661858,
+      "word": "桦加沙广州",
+      "onboard_time": 1758683181,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660122,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1758592161,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 601868,
+      "num": 601868,
+      "word": "原来孙红雷馋的赛螃蟹长这样",
+      "onboard_time": 1758682281,
+      "rank": 16,
+      "category": "综艺,美食"
     },
     {
       "raw_hot": 596683,
@@ -1521,14 +1561,6 @@
       "onboard_time": 1758530422,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 509058,
-      "num": 509058,
-      "word": "桦加沙已致台湾花莲124人失联",
-      "onboard_time": 1758681021,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 508775,
@@ -1947,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389357,
+      "num": 389357,
+      "word": "日掛中天定档",
+      "onboard_time": 1758682641,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 389126,
       "num": 389126,
       "word": "A股",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1758501381,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 384325,
-      "num": 384325,
-      "word": "日掛中天定档",
-      "onboard_time": 1758682641,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 383491,
@@ -2155,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337415,
+      "num": 337415,
+      "word": "刘芮麟和太太约定不会分开",
+      "onboard_time": 1758684381,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335280,
       "num": 335280,
       "word": "赴山海是否意味着新武侠剧的没落",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1758556342,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331919,
+      "num": 234908,
+      "word": "不二之臣阵容官宣",
+      "onboard_time": 1758682821,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 331656,
@@ -2225,14 +2273,6 @@
       "onboard_time": 1758373703,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321756,
-      "num": 321756,
-      "word": "原来孙红雷馋的赛螃蟹长这样",
-      "onboard_time": 1758682281,
-      "rank": 16,
-      "category": "综艺,美食"
     },
     {
       "raw_hot": 321656,
@@ -2323,14 +2363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 307082,
-      "num": 307082,
-      "word": "深圳已录得最大阵风15级",
-      "onboard_time": 1758682700,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306991,
       "num": 306991,
       "word": "00后女子醉驾撞死3人案将开庭",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1758623182,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 304885,
+      "num": 242674,
+      "word": "辛芷蕾 你还能原谅我吗",
+      "onboard_time": 1758684801,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 303791,
@@ -2417,6 +2457,14 @@
       "onboard_time": 1758420803,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295972,
+      "num": 295972,
+      "word": "近距离看桦加沙",
+      "onboard_time": 1758684202,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295642,
@@ -2923,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243123,
+      "num": 265190,
+      "word": "刘萧旭吐槽短剧台词油腻",
+      "onboard_time": 1758680900,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242351,
       "num": 242351,
       "word": "桦加沙强度",
@@ -2995,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237814,
+      "num": 212386,
+      "word": "模仿王源wink博主说要回归工作",
+      "onboard_time": 1758681861,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 237739,
       "num": 209935,
       "word": "徐子未脱衣服忘记摘垫肩了",
@@ -3033,6 +3097,14 @@
       "onboard_time": 1758465446,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 233471,
+      "num": 233471,
+      "word": "桦加沙今日登陆广东",
+      "onboard_time": 1758685402,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233271,
@@ -3115,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223965,
+      "num": 223965,
+      "word": "外卖杀手",
+      "onboard_time": 1758683481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223869,
       "num": 293655,
       "word": "云秀行阵容官宣",
@@ -3153,14 +3233,6 @@
       "onboard_time": 1758526642,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 222658,
-      "num": 265190,
-      "word": "刘萧旭吐槽短剧台词油腻",
-      "onboard_time": 1758680900,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 222461,
@@ -3241,14 +3313,6 @@
       "onboard_time": 1758596903,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214718,
-      "num": 193803,
-      "word": "模仿王源wink博主说要回归工作",
-      "onboard_time": 1758681861,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 214256,
@@ -3409,6 +3473,14 @@
       "onboard_time": 1758424882,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207146,
+      "num": 207146,
+      "word": "盛世天下 9599无需多言",
+      "onboard_time": 1758684621,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 207055,
@@ -3739,14 +3811,6 @@
       "category": "电影,作品衍生"
     },
     {
-      "raw_hot": 196750,
-      "num": 196750,
-      "word": "不二之臣阵容官宣",
-      "onboard_time": 1758682821,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196538,
       "num": 196538,
       "word": "沈月穿着古装跳舞",
@@ -4011,6 +4075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188752,
+      "num": 188752,
+      "word": "未定事件簿",
+      "onboard_time": 1758684381,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188386,
       "num": 183997,
       "word": "Knight荣获FMVP",
@@ -4089,6 +4161,14 @@
       "onboard_time": 1758615381,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186818,
+      "num": 186818,
+      "word": "张艺兴回归向往的生活",
+      "onboard_time": 1758684921,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 186760,
@@ -4185,6 +4265,14 @@
       "onboard_time": 1758514882,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184656,
+      "num": 184656,
+      "word": "肖战谍报制服路透",
+      "onboard_time": 1758684561,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 183950,
@@ -4416,6 +4504,14 @@
       "word": "欠蔡国庆老师365个道歉",
       "onboard_time": 1758546623,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178966,
+      "num": 178966,
+      "word": "迪丽热巴剪彩怕彩头掉地上",
+      "onboard_time": 1758685402,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -4769,14 +4865,6 @@
       "onboard_time": 1758518121,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168677,
-      "num": 168677,
-      "word": "桦加沙广州",
-      "onboard_time": 1758683181,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168632,
@@ -5435,6 +5523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153329,
+      "num": 240267,
+      "word": "广东潮州中午12时起复工复产",
+      "onboard_time": 1758684682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153084,
       "num": 153084,
       "word": "闪耀暖暖屏中美人",
@@ -5625,6 +5721,14 @@
       "onboard_time": 1758634704,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149823,
+      "num": 149823,
+      "word": "谁家女主亲爸是男主后爸",
+      "onboard_time": 1758685460,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 149341,
@@ -5857,6 +5961,14 @@
       "onboard_time": 1758611120,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144667,
+      "num": 144667,
+      "word": "大家真的不用小马过河这个词吗",
+      "onboard_time": 1758682103,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 144548,
@@ -6155,14 +6267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140325,
-      "num": 140325,
-      "word": "大家真的不用小马过河这个词吗",
-      "onboard_time": 1758682103,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140131,
       "num": 140131,
       "word": "广州地铁多个站点或停运",
@@ -6193,6 +6297,14 @@
       "onboard_time": 1758677900,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139627,
+      "num": 139627,
+      "word": "桦加沙台湾",
+      "onboard_time": 1758685581,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138919,
@@ -6857,6 +6969,14 @@
       "onboard_time": 1758615742,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128127,
+      "num": 191918,
+      "word": "预计桦加沙25日远离深圳",
+      "onboard_time": 1758684501,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127929,
@@ -7811,6 +7931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113923,
+      "num": 187509,
+      "word": "河南一企业低调招人月薪达92万",
+      "onboard_time": 1758685282,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113861,
       "num": 113861,
       "word": "李泽言配音",
@@ -8227,6 +8355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106658,
+      "num": 181084,
+      "word": "iPhone17A19芯片图曝光",
+      "onboard_time": 1758684202,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106558,
       "num": 106558,
       "word": "尚界H5大定",
@@ -8444,7 +8580,7 @@
     },
     {
       "raw_hot": 102511,
-      "num": 152616,
+      "num": 919907,
       "word": "新疆最新宣传片",
       "onboard_time": 1758636564,
       "rank": 37,
@@ -8787,6 +8923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94503,
+      "num": 186928,
+      "word": "台湾撤离人数达7904人",
+      "onboard_time": 1758685522,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94303,
       "num": 98045,
       "word": "盛夏芬德拉 短剧细糠",
@@ -9001,14 +9145,6 @@
       "onboard_time": 1758499281,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90142,
-      "num": 159471,
-      "word": "外卖杀手",
-      "onboard_time": 1758683481,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89859,
@@ -10227,6 +10363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48984,
+      "num": 212609,
+      "word": "有珠海高层住户说30年首次撤离",
+      "onboard_time": 1758684741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48395,
       "num": 280792,
       "word": "尚界H5动态评测首发",
@@ -10449,6 +10593,14 @@
       "onboard_time": 1758531682,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42440,
+      "num": 188001,
+      "word": "丁真煮奶茶放了半罐盐",
+      "onboard_time": 1758684682,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 42172,
@@ -11366,6 +11518,9 @@
     },
     {
       "word": "#习近平率中央代表团抵达乌鲁木齐#"
+    },
+    {
+      "word": "#总书记抵达新疆时收到了石榴花束#"
     }
   ]
 }
