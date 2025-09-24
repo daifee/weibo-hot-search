@@ -1,0 +1,410 @@
+{
+  "runTime": 1758695818958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197810,
+        "num": 1197810,
+        "word": "珠海被要求撤离高层住户发声",
+        "onboard_time": 1758692122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 957907,
+        "num": 957907,
+        "word": "澳门海水已涌入内陆",
+        "onboard_time": 1758692602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31884,
+        "num": 823132,
+        "word": "收到台风预警信息后该怎么做",
+        "onboard_time": 1758686422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 772551,
+        "num": 772551,
+        "word": "桦加沙将于24日下午到夜间登陆",
+        "onboard_time": 1758691943,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695742,
+        "num": 695742,
+        "word": "香港一酒店玻璃冲爆有人被冲走",
+        "onboard_time": 1758688403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1052521,
+        "num": 695052,
+        "word": "杨幂 不必心疼我们",
+        "onboard_time": 1758689425,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829304,
+        "num": 694743,
+        "word": "王传君 我不喜欢",
+        "onboard_time": 1758686480,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692690,
+        "num": 692690,
+        "word": "桦加沙深圳",
+        "onboard_time": 1758636564,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564666,
+        "num": 564666,
+        "word": "男子茅台镇投8亿建厂遭强行接管",
+        "onboard_time": 1758689544,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222251,
+        "num": 504318,
+        "word": "桦加沙今日登陆广东",
+        "onboard_time": 1758685402,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656493,
+        "num": 501623,
+        "word": "唐嫣 中老年套装",
+        "onboard_time": 1758691701,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492574,
+        "num": 492574,
+        "word": "真有人给马思纯张晚意递本子了",
+        "onboard_time": 1758692002,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459608,
+        "num": 459608,
+        "word": "厦门幼师因产前地贫基因报告被解聘",
+        "onboard_time": 1758693683,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428349,
+        "num": 428349,
+        "word": "七旬大爷被夸长得像演员妻子起疑",
+        "onboard_time": 1758692542,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312585,
+        "num": 312585,
+        "word": "女友突然去世男子上门求带走骨灰",
+        "onboard_time": 1758692062,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305142,
+        "num": 305142,
+        "word": "中国宣布涉世贸组织谈判重要决定",
+        "onboard_time": 1758690623,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300181,
+        "num": 300181,
+        "word": "学信网 自动回复诡异",
+        "onboard_time": 1758694763,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 281573,
+        "num": 293369,
+        "word": "辛芷蕾 你还能原谅我吗",
+        "onboard_time": 1758684801,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102621,
+        "num": 292955,
+        "word": "国产手机不像iPhone很难吗",
+        "onboard_time": 1758694402,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292776,
+        "num": 292776,
+        "word": "昆凌前三胎都是剖腹产",
+        "onboard_time": 1758685881,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290785,
+        "num": 290785,
+        "word": "桦加沙",
+        "onboard_time": 1758686902,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12964,
+        "num": 289093,
+        "word": "你买的芝麻油里可能不含一粒芝麻",
+        "onboard_time": 1758695481,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 287963,
+        "num": 287963,
+        "word": "珠海台风",
+        "onboard_time": 1758675682,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276493,
+        "num": 276493,
+        "word": "成毅辟谣自己不玩手机的传闻",
+        "onboard_time": 1758694763,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267937,
+        "num": 267937,
+        "word": "深圳已录得最大阵风15级",
+        "onboard_time": 1758682700,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257483,
+        "num": 257483,
+        "word": "桦加沙广州",
+        "onboard_time": 1758683181,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219923,
+        "num": 219923,
+        "word": "谁家剧一次官宣17个主演啊",
+        "onboard_time": 1758693261,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213219,
+        "num": 213219,
+        "word": "张若昀投张维伊是因为庆余年3",
+        "onboard_time": 1758693982,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202759,
+        "num": 207754,
+        "word": "迪丽热巴剪彩怕彩头掉地上",
+        "onboard_time": 1758685402,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11004,
+        "num": 205198,
+        "word": "无3C共享充电宝仍违规流通",
+        "onboard_time": 1758695543,
+        "rank": 29,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 204525,
+        "num": 204525,
+        "word": "桃黑黑 恋爱怎么会和谁谈都一样呢",
+        "onboard_time": 1758690444,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 196029,
+        "num": 200278,
+        "word": "台风致警车车祸诈骗犯当场身亡",
+        "onboard_time": 1758693683,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196683,
+        "num": 196683,
+        "word": "台湾台风遇难者多为住一楼老人",
+        "onboard_time": 1758689723,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191625,
+        "num": 191625,
+        "word": "陈数提到花少分别哭到采访中断",
+        "onboard_time": 1758693982,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184247,
+        "num": 184247,
+        "word": "李浩129万票当选班长",
+        "onboard_time": 1758694043,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180769,
+        "num": 180769,
+        "word": "当我冲着儿子的颜值生了二胎",
+        "onboard_time": 1758694822,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122478,
+        "num": 171912,
+        "word": "梦华录花魁新剧上新了",
+        "onboard_time": 1758695782,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170828,
+        "num": 170828,
+        "word": "台风致台湾花莲14死",
+        "onboard_time": 1758671660,
+        "rank": 37,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 32170,
+        "num": 167479,
+        "word": "别人看秀李现扫街",
+        "onboard_time": 1758694882,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21315,
+        "num": 166714,
+        "word": "摄友独自进山拍照失联7天遇难",
+        "onboard_time": 1758694882,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166241,
+        "num": 166241,
+        "word": "榴莲味月饼一块0.6元含真果肉20元",
+        "onboard_time": 1758686602,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158407,
+        "num": 158407,
+        "word": "桦加沙超风力定级上限",
+        "onboard_time": 1758692542,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85765,
+        "num": 156168,
+        "word": "加班后接女儿出车祸学校拒认工伤",
+        "onboard_time": 1758694463,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154063,
+        "num": 154063,
+        "word": "刘芮麟和太太约定不会分开",
+        "onboard_time": 1758684381,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149673,
+        "num": 149673,
+        "word": "近距离看桦加沙",
+        "onboard_time": 1758684202,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147335,
+        "num": 147335,
+        "word": "李秀满选了5个洋娃娃",
+        "onboard_time": 1758695241,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143968,
+        "num": 143968,
+        "word": "周洁琼 pinky回来了",
+        "onboard_time": 1758695722,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135774,
+        "num": 135774,
+        "word": "宋妍霏腮红打到太阳穴",
+        "onboard_time": 1758694523,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135072,
+        "num": 135072,
+        "word": "不二之臣 审美",
+        "onboard_time": 1758683780,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132417,
+        "num": 132417,
+        "word": "广东台山录得超17级阵风",
+        "onboard_time": 1758695362,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记抵达新疆时收到了石榴花束#"
+    }
+  }
+}
