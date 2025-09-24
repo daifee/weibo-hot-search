@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/24 17:41:43
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/24 18:27:04
 </p>
 </blockquote>
 <p>
@@ -1203,6 +1203,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23" target="weibo">
+桦加沙登陆广东（热度：8419541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 余华英被执行死刑（热度：8399964）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E5%AD%A6%E9%99%A2%E8%91%A3%E6%9F%90%E8%8E%B9%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
 协和医学院董某莹事件最新进展（热度：4613398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BA%9A%E5%86%9B%23" target="weibo">
-王楚钦亚军（热度：4603920）
 </a>
 </li>
 

@@ -1,7 +1,15 @@
 {
   "startTime": 1758645104225,
-  "endTime": 1758706903157,
+  "endTime": 1758709624553,
   "band_list": [
+    {
+      "raw_hot": 8419541,
+      "num": 9669541,
+      "word": "桦加沙登陆广东",
+      "onboard_time": 1758706102,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 2313556,
       "num": 2313556,
@@ -41,14 +49,6 @@
       "onboard_time": 1758686480,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1622263,
-      "num": 1622263,
-      "word": "桦加沙登陆广东",
-      "onboard_time": 1758706102,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1485071,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1010463,
+      "num": 580693,
+      "word": "张维伊想和董璇把钱放一起",
+      "onboard_time": 1758705441,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955385,
       "num": 955385,
       "word": "台风将至55岁大象无避雨内舍",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 936511,
-      "num": 410950,
+      "num": 444153,
       "word": "黄圣依家宴",
       "onboard_time": 1758704663,
       "rank": 12,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 758483,
+      "num": 758483,
+      "word": "张雪峰多个平台账号被禁止关注",
+      "onboard_time": 1758709162,
+      "rank": 3,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 735291,
       "num": 456613,
       "word": "昆凌说怀四胎顺其自然",
@@ -305,6 +321,14 @@
       "onboard_time": 1758699442,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 673953,
+      "num": 673953,
+      "word": "王楚钦 奔驰",
+      "onboard_time": 1758707062,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 663373,
@@ -379,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 580693,
-      "num": 580693,
-      "word": "张维伊想和董璇把钱放一起",
-      "onboard_time": 1758705441,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 574468,
       "num": 574468,
       "word": "认识李一桐的全部离开米兰",
@@ -400,6 +416,14 @@
       "word": "广州业主台风天将车停桥上",
       "onboard_time": 1758643222,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562485,
+      "num": 562485,
+      "word": "续面事件老板称将永久闭店",
+      "onboard_time": 1758706702,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -441,6 +465,14 @@
       "onboard_time": 1758633863,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 493293,
+      "num": 493293,
+      "word": "桦加沙登陆风力13级",
+      "onboard_time": 1758706582,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 492624,
@@ -635,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324932,
+      "num": 324932,
+      "word": "女装 聚酯纤维",
+      "onboard_time": 1758708323,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 321922,
       "num": 321922,
       "word": "深圳地铁",
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 315895,
-      "num": 315895,
+      "num": 493824,
       "word": "微博音乐盛典",
       "onboard_time": 1758705681,
       "rank": 24,
@@ -736,6 +776,14 @@
       "word": "白鹿晒随手扎了一个很满意的丸子头",
       "onboard_time": 1758669260,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281891,
+      "num": 281891,
+      "word": "戴向宇回应不爱陈紫函",
+      "onboard_time": 1758707183,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -827,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240939,
+      "num": 240939,
+      "word": "王俊凯顺毛",
+      "onboard_time": 1758707362,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239778,
       "num": 307626,
       "word": "不二之臣",
@@ -899,14 +955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 220788,
-      "num": 220788,
-      "word": "桦加沙登陆风力13级",
-      "onboard_time": 1758706582,
-      "rank": 29,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 220508,
       "num": 220508,
       "word": "阿里巴巴宣布与英伟达开展合作",
@@ -947,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218004,
+      "num": 218004,
+      "word": "只有上过班的才知道这同事有多香",
+      "onboard_time": 1758705323,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 213908,
       "num": 213908,
       "word": "桃黑黑 恋爱怎么会和谁谈都一样呢",
@@ -976,6 +1032,14 @@
       "word": "特朗普痛斥联合国无用",
       "onboard_time": 1758687743,
       "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 210427,
+      "num": 210427,
+      "word": "特朗普蛐蛐中国遭CNN打脸",
+      "onboard_time": 1758708081,
+      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -1027,6 +1091,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 204625,
+      "num": 493529,
+      "word": "王俊凯评审",
+      "onboard_time": 1758708502,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203914,
+      "num": 203914,
+      "word": "金价飙涨原因找到了",
+      "onboard_time": 1758708021,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202837,
       "num": 261661,
       "word": "杨幂胳膊迟早被陈哲远打肿",
@@ -1043,27 +1123,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 200686,
-      "num": 200686,
-      "word": "只有上过班的才知道这同事有多香",
-      "onboard_time": 1758705323,
-      "rank": 39,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 199498,
       "num": 199498,
       "word": "台湾87岁老人被困家中活活淹死",
       "onboard_time": 1758706462,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199313,
-      "num": 199313,
-      "word": "续面事件老板称将永久闭店",
-      "onboard_time": 1758706702,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1259,6 +1323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178467,
+      "num": 178467,
+      "word": "张雪峰",
+      "onboard_time": 1758709461,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178102,
       "num": 178102,
       "word": "五停后的广东城市",
@@ -1379,12 +1451,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160962,
+      "num": 160962,
+      "word": "店家回应偷吃蛋挞女子返回买单",
+      "onboard_time": 1758709101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159869,
+      "num": 249176,
+      "word": "微博音乐盛典内场",
+      "onboard_time": 1758709223,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 159853,
+      "num": 159853,
+      "word": "魏无羡拿了33的耳机",
+      "onboard_time": 1758707721,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159246,
       "num": 159246,
       "word": "波兰宣布重新开放与白俄罗斯边境口岸",
       "onboard_time": 1758685042,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157224,
+      "num": 161196,
+      "word": "桦加沙破坏力",
+      "onboard_time": 1758709281,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 156375,
@@ -1489,6 +1593,14 @@
       "onboard_time": 1758687862,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144904,
+      "num": 144904,
+      "word": "续面事件老板回应被说卖惨",
+      "onboard_time": 1758708983,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144668,
@@ -1611,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135811,
+      "num": 195569,
+      "word": "桦加沙已在阳江海陵岛沿海登陆",
+      "onboard_time": 1758707001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135774,
       "num": 135774,
       "word": "宋妍霏腮红打到太阳穴",
@@ -1659,12 +1779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130840,
+      "num": 130840,
+      "word": "国乒前往办理印度签证",
+      "onboard_time": 1758709223,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130688,
       "num": 163198,
       "word": "张子枫张伟丽新片共抗人生台风",
       "onboard_time": 1758683542,
       "rank": 38,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 128336,
+      "num": 164445,
+      "word": "验蟹师 3个月收入30万",
+      "onboard_time": 1758708622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128127,
@@ -1689,6 +1825,14 @@
       "onboard_time": 1758699442,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126011,
+      "num": 126011,
+      "word": "最能吃苦的一辈投胎回来了",
+      "onboard_time": 1758707362,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 125174,
@@ -1737,6 +1881,14 @@
       "onboard_time": 1758697944,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119666,
+      "num": 196009,
+      "word": "周深WMA彩排图",
+      "onboard_time": 1758708562,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 118852,
@@ -1867,6 +2019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105649,
+      "num": 130289,
+      "word": "庞铮拿了offer大女主剧本",
+      "onboard_time": 1758708983,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102621,
       "num": 292955,
       "word": "国产手机不像iPhone很难吗",
@@ -1969,6 +2129,14 @@
       "onboard_time": 1758687324,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89577,
+      "num": 148007,
+      "word": "男子出差深圳被困酒店72层",
+      "onboard_time": 1758708081,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89554,
@@ -2355,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41291,
+      "num": 241384,
+      "word": "Demna与GUCCI的适配度",
+      "onboard_time": 1758708442,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 40811,
       "num": 198664,
       "word": "赵让说想见张艺兴",
@@ -2427,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35177,
+      "num": 162075,
+      "word": "曼谷市区突现50米深巨坑",
+      "onboard_time": 1758709342,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32170,
       "num": 167479,
       "word": "别人看秀李现扫街",
@@ -2481,6 +2665,14 @@
       "onboard_time": 1758696142,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28778,
+      "num": 162954,
+      "word": "江门发短信让居民台风天居家灭蚊",
+      "onboard_time": 1758708743,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26418,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1758706903157,
+  "endTime": 1758709624553,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1587,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8419541,
+      "num": 9669541,
+      "word": "桦加沙登陆广东",
+      "onboard_time": 1758706102,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 8399964,
       "num": 9538692,
       "word": "余华英被执行死刑",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1746010640,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4603920,
-      "num": 5853920,
-      "word": "王楚钦亚军",
-      "onboard_time": 1754910807,
-      "rank": 1,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

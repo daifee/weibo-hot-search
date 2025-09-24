@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758706903157,
+  "endTime": 1758709624553,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -185,6 +185,14 @@
       "onboard_time": 1756864345,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8419541,
+      "num": 9669541,
+      "word": "桦加沙登陆广东",
+      "onboard_time": 1758706102,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 8399387,
@@ -1801,14 +1809,6 @@
       "onboard_time": 1758634885,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1622263,
-      "num": 1622263,
-      "word": "桦加沙登陆广东",
-      "onboard_time": 1758706102,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1619594,
@@ -3979,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1010463,
+      "num": 580693,
+      "word": "张维伊想和董璇把钱放一起",
+      "onboard_time": 1758705441,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1008315,
       "num": 448814,
       "word": "小酒窝有官配cp了",
@@ -4444,7 +4452,7 @@
     },
     {
       "raw_hot": 936511,
-      "num": 410950,
+      "num": 444153,
       "word": "黄圣依家宴",
       "onboard_time": 1758704663,
       "rank": 12,
@@ -6467,6 +6475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 758483,
+      "num": 758483,
+      "word": "张雪峰多个平台账号被禁止关注",
+      "onboard_time": 1758709162,
+      "rank": 3,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 758236,
       "num": 758236,
       "word": "一名网红被杀美国为何会降半旗",
@@ -7569,6 +7585,14 @@
       "onboard_time": 1756903705,
       "rank": 49,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 673953,
+      "num": 673953,
+      "word": "王楚钦 奔驰",
+      "onboard_time": 1758707062,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 673633,
@@ -9107,14 +9131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 580693,
-      "num": 580693,
-      "word": "张维伊想和董璇把钱放一起",
-      "onboard_time": 1758705441,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 580652,
       "num": 580652,
       "word": "特朗普访英被指无视王室礼仪",
@@ -9488,6 +9504,14 @@
       "word": "杭州一酒馆女舞者表演被指擦边",
       "onboard_time": 1757077221,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562485,
+      "num": 562485,
+      "word": "续面事件老板称将永久闭店",
+      "onboard_time": 1758706702,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -11185,6 +11209,14 @@
       "onboard_time": 1756945224,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493293,
+      "num": 493293,
+      "word": "桦加沙登陆风力13级",
+      "onboard_time": 1758706582,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 493045,
@@ -16979,6 +17011,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 324932,
+      "num": 324932,
+      "word": "女装 聚酯纤维",
+      "onboard_time": 1758708323,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 324765,
       "num": 180856,
       "word": "外卖已经让我对食物的价格失感了",
@@ -17428,7 +17468,7 @@
     },
     {
       "raw_hot": 315895,
-      "num": 315895,
+      "num": 493824,
       "word": "微博音乐盛典",
       "onboard_time": 1758705681,
       "rank": 24,
@@ -19025,6 +19065,14 @@
       "onboard_time": 1757635767,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 281891,
+      "num": 281891,
+      "word": "戴向宇回应不爱陈紫函",
+      "onboard_time": 1758707183,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 281540,
@@ -21555,6 +21603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240939,
+      "num": 240939,
+      "word": "王俊凯顺毛",
+      "onboard_time": 1758707362,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240793,
       "num": 241143,
       "word": "12306回应男子高铁抽烟被民警带走",
@@ -23331,14 +23387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220788,
-      "num": 220788,
-      "word": "桦加沙登陆风力13级",
-      "onboard_time": 1758706582,
-      "rank": 29,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 220715,
       "num": 194999,
       "word": "张晚意李沁太适合打包送同个剧组了",
@@ -23609,6 +23657,14 @@
       "onboard_time": 1757737345,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218004,
+      "num": 218004,
+      "word": "只有上过班的才知道这同事有多香",
+      "onboard_time": 1758705323,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 217967,
@@ -24433,6 +24489,14 @@
       "onboard_time": 1756647024,
       "rank": 5,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 210427,
+      "num": 210427,
+      "word": "特朗普蛐蛐中国遭CNN打脸",
+      "onboard_time": 1758708081,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 210415,
@@ -25283,6 +25347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 204625,
+      "num": 493529,
+      "word": "王俊凯评审",
+      "onboard_time": 1758708502,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204610,
       "num": 186545,
       "word": "泰版三十而已全员疯批",
@@ -25377,6 +25449,14 @@
       "onboard_time": 1757489122,
       "rank": 46,
       "category": "数码,海外新闻"
+    },
+    {
+      "raw_hot": 203914,
+      "num": 203914,
+      "word": "金价飙涨原因找到了",
+      "onboard_time": 1758708021,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 203902,
@@ -26059,14 +26139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200686,
-      "num": 200686,
-      "word": "只有上过班的才知道这同事有多香",
-      "onboard_time": 1758705323,
-      "rank": 39,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 200634,
       "num": 200634,
       "word": "风月不相关",
@@ -26313,14 +26385,6 @@
       "onboard_time": 1757132422,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199313,
-      "num": 199313,
-      "word": "续面事件老板称将永久闭店",
-      "onboard_time": 1758706702,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199295,
@@ -31051,6 +31115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178467,
+      "num": 178467,
+      "word": "张雪峰",
+      "onboard_time": 1758709461,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178424,
       "num": 178424,
       "word": "iPhone17基础款性能超越16Pro",
@@ -35283,6 +35355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160962,
+      "num": 160962,
+      "word": "店家回应偷吃蛋挞女子返回买单",
+      "onboard_time": 1758709101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160955,
       "num": 160955,
       "word": "孟佳抗住了死亡芭比粉",
@@ -35665,6 +35745,22 @@
       "onboard_time": 1757860165,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159869,
+      "num": 249176,
+      "word": "微博音乐盛典内场",
+      "onboard_time": 1758709223,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 159853,
+      "num": 159853,
+      "word": "魏无羡拿了33的耳机",
+      "onboard_time": 1758707721,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 159840,
@@ -36361,6 +36457,14 @@
       "onboard_time": 1758378024,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157224,
+      "num": 161196,
+      "word": "桦加沙破坏力",
+      "onboard_time": 1758709281,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 157186,
@@ -40427,6 +40531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144904,
+      "num": 144904,
+      "word": "续面事件老板回应被说卖惨",
+      "onboard_time": 1758708983,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144897,
       "num": 144897,
       "word": "阴阳师",
@@ -43803,6 +43915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135811,
+      "num": 195569,
+      "word": "桦加沙已在阳江海陵岛沿海登陆",
+      "onboard_time": 1758707001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135803,
       "num": 135803,
       "word": "美国0比2韩国",
@@ -45707,6 +45827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130840,
+      "num": 130840,
+      "word": "国乒前往办理印度签证",
+      "onboard_time": 1758709223,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130749,
       "num": 130749,
       "word": "诚C联赛2600淘汰",
@@ -46803,6 +46931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128336,
+      "num": 164445,
+      "word": "验蟹师 3个月收入30万",
+      "onboard_time": 1758708622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128322,
       "num": 128322,
       "word": "狐妖小红娘王权篇10月预排",
@@ -47705,6 +47841,14 @@
       "onboard_time": 1757749463,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126011,
+      "num": 126011,
+      "word": "最能吃苦的一辈投胎回来了",
+      "onboard_time": 1758707362,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 125997,
@@ -50489,6 +50633,14 @@
       "onboard_time": 1758240622,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119666,
+      "num": 196009,
+      "word": "周深WMA彩排图",
+      "onboard_time": 1758708562,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 119663,
@@ -56555,6 +56707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105649,
+      "num": 130289,
+      "word": "庞铮拿了offer大女主剧本",
+      "onboard_time": 1758708983,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105634,
       "num": 105634,
       "word": "李艺彤急得飙方言了",
@@ -62257,6 +62417,14 @@
       "onboard_time": 1757149461,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 89577,
+      "num": 148007,
+      "word": "男子出差深圳被困酒店72层",
+      "onboard_time": 1758708081,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89567,
@@ -72163,6 +72331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41291,
+      "num": 241384,
+      "word": "Demna与GUCCI的适配度",
+      "onboard_time": 1758708442,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 41227,
       "num": 79790,
       "word": "杨帆是李佳本科老师",
@@ -73249,6 +73425,14 @@
       "onboard_time": 1756724841,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35177,
+      "num": 162075,
+      "word": "曼谷市区突现50米深巨坑",
+      "onboard_time": 1758709342,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35062,
@@ -74393,6 +74577,14 @@
       "onboard_time": 1758696142,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28778,
+      "num": 162954,
+      "word": "江门发短信让居民台风天居家灭蚊",
+      "onboard_time": 1758708743,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28657,

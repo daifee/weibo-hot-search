@@ -1,0 +1,410 @@
+{
+  "runTime": 1758709624553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8419541,
+        "num": 9669541,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 984010,
+        "num": 984010,
+        "word": "广州解除五停",
+        "onboard_time": 1758704482,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43489,
+        "num": 777045,
+        "word": "大美新疆每一眼都惊艳",
+        "onboard_time": 1758702921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 758483,
+        "num": 758483,
+        "word": "张雪峰多个平台账号被禁止关注",
+        "onboard_time": 1758709162,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 673953,
+        "num": 673953,
+        "word": "王楚钦 奔驰",
+        "onboard_time": 1758707062,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562485,
+        "num": 562485,
+        "word": "续面事件老板称将永久闭店",
+        "onboard_time": 1758706702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499707,
+        "num": 499707,
+        "word": "泽连斯基称中国应迫使俄方停止军事行动",
+        "onboard_time": 1758704062,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278948,
+        "num": 493824,
+        "word": "微博音乐盛典",
+        "onboard_time": 1758705681,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204625,
+        "num": 493529,
+        "word": "王俊凯评审",
+        "onboard_time": 1758708502,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 493293,
+        "num": 493293,
+        "word": "桦加沙登陆风力13级",
+        "onboard_time": 1758706582,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1010463,
+        "num": 462357,
+        "word": "张维伊想和董璇把钱放一起",
+        "onboard_time": 1758705441,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 602127,
+        "num": 444153,
+        "word": "黄圣依家宴",
+        "onboard_time": 1758704663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408326,
+        "num": 408326,
+        "word": "关晓彤 留子是一种感觉",
+        "onboard_time": 1758699382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378013,
+        "num": 378013,
+        "word": "珠海被要求撤离高层住户发声",
+        "onboard_time": 1758692122,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324932,
+        "num": 324932,
+        "word": "女装 聚酯纤维",
+        "onboard_time": 1758708323,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 305380,
+        "num": 305380,
+        "word": "iPhone17Promini首曝",
+        "onboard_time": 1758698903,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 281891,
+        "num": 281891,
+        "word": "戴向宇回应不爱陈紫函",
+        "onboard_time": 1758707183,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277765,
+        "num": 277765,
+        "word": "深圳全市解除五停",
+        "onboard_time": 1758700882,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159869,
+        "num": 249176,
+        "word": "微博音乐盛典内场",
+        "onboard_time": 1758709223,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41291,
+        "num": 241384,
+        "word": "Demna与GUCCI的适配度",
+        "onboard_time": 1758708442,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 240939,
+        "num": 240939,
+        "word": "王俊凯顺毛",
+        "onboard_time": 1758707362,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218004,
+        "num": 218004,
+        "word": "只有上过班的才知道这同事有多香",
+        "onboard_time": 1758705323,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 210427,
+        "num": 210427,
+        "word": "特朗普蛐蛐中国遭CNN打脸",
+        "onboard_time": 1758708081,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203914,
+        "num": 203914,
+        "word": "金价飙涨原因找到了",
+        "onboard_time": 1758708021,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155227,
+        "num": 202873,
+        "word": "起猛了央妈竟然请来了真公主",
+        "onboard_time": 1758703102,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136464,
+        "num": 201421,
+        "word": "成毅辟谣自己不玩手机的传闻",
+        "onboard_time": 1758694763,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134935,
+        "num": 201014,
+        "word": "唐嫣 中老年套装",
+        "onboard_time": 1758691701,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122544,
+        "num": 199407,
+        "word": "0713 抢票",
+        "onboard_time": 1758695722,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54463,
+        "num": 197853,
+        "word": "去旅游就得穿的好看又舒服",
+        "onboard_time": 1758704842,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119666,
+        "num": 196009,
+        "word": "周深WMA彩排图",
+        "onboard_time": 1758708562,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135811,
+        "num": 195569,
+        "word": "桦加沙已在阳江海陵岛沿海登陆",
+        "onboard_time": 1758707001,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194391,
+        "num": 194391,
+        "word": "王传君 我不喜欢",
+        "onboard_time": 1758686480,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190816,
+        "num": 190816,
+        "word": "黄圣依回应和刘亦菲被认混",
+        "onboard_time": 1758700341,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182916,
+        "num": 182916,
+        "word": "桦加沙台风眼开始填塞",
+        "onboard_time": 1758705862,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 178467,
+        "num": 178467,
+        "word": "张雪峰",
+        "onboard_time": 1758709461,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175168,
+        "num": 175168,
+        "word": "台湾87岁老人被困家中活活淹死",
+        "onboard_time": 1758706462,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164573,
+        "num": 164573,
+        "word": "桃黑黑公关能力",
+        "onboard_time": 1758701841,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 128336,
+        "num": 164445,
+        "word": "验蟹师 3个月收入30万",
+        "onboard_time": 1758708622,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28778,
+        "num": 162954,
+        "word": "江门发短信让居民台风天居家灭蚊",
+        "onboard_time": 1758708743,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35177,
+        "num": 162075,
+        "word": "曼谷市区突现50米深巨坑",
+        "onboard_time": 1758709342,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157224,
+        "num": 161196,
+        "word": "桦加沙破坏力",
+        "onboard_time": 1758709281,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 160962,
+        "num": 160962,
+        "word": "店家回应偷吃蛋挞女子返回买单",
+        "onboard_time": 1758709101,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159853,
+        "num": 159853,
+        "word": "魏无羡拿了33的耳机",
+        "onboard_time": 1758707721,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153733,
+        "num": 153733,
+        "word": "官方通报8亿茅台镇建厂遭强行接管",
+        "onboard_time": 1758696442,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 89577,
+        "num": 148007,
+        "word": "男子出差深圳被困酒店72层",
+        "onboard_time": 1758708081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144904,
+        "num": 144904,
+        "word": "续面事件老板回应被说卖惨",
+        "onboard_time": 1758708983,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130840,
+        "num": 130840,
+        "word": "国乒前往办理印度签证",
+        "onboard_time": 1758709223,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105649,
+        "num": 130289,
+        "word": "庞铮拿了offer大女主剧本",
+        "onboard_time": 1758708983,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130274,
+        "num": 130274,
+        "word": "你喜欢闻什么味可能跟身体状态有关",
+        "onboard_time": 1758705262,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126011,
+        "num": 126011,
+        "word": "最能吃苦的一辈投胎回来了",
+        "onboard_time": 1758707362,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#向新疆各族儿女致以诚挚问候#"
+    }
+  }
+}
