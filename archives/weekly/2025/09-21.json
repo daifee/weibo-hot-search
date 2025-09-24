@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758679851274,
+  "endTime": 1758683071385,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -280,6 +280,14 @@
       "word": "崔丽丽说被性侵后会陷入强奸迷思",
       "onboard_time": 1758607402,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1219937,
+      "num": 1219937,
+      "word": "台风外眼已经抵达珠三角地区",
+      "onboard_time": 1758675801,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -691,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 849263,
+      "num": 445748,
+      "word": "骚扰女性毕业生考上选调生",
+      "onboard_time": 1758676942,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 849221,
       "num": 849221,
       "word": "澳男子度假溺亡遗体回国后心脏不见",
@@ -963,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709394,
+      "num": 403638,
+      "word": "敖瑞鹏不二之臣一番",
+      "onboard_time": 1758680660,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 704621,
       "num": 704621,
       "word": "广州人台风天都不买的菜",
@@ -984,14 +1008,6 @@
       "word": "蔡国强",
       "onboard_time": 1758435561,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 691969,
-      "num": 445748,
-      "word": "骚扰女性毕业生考上选调生",
-      "onboard_time": 1758676942,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1091,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 650471,
+      "num": 650471,
+      "word": "蔡国强烟花秀现场遗留垃圾杂物",
+      "onboard_time": 1758679041,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 650390,
       "num": 595959,
       "word": "陈紫函自曝因长期分居婚姻亮红灯",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1758413479,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 628618,
+      "num": 628618,
+      "word": "陈紫函自曝依靠安眠药入睡",
+      "onboard_time": 1758681561,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 626897,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1758512781,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574468,
+      "num": 574468,
+      "word": "认识李一桐的全部离开米兰",
+      "onboard_time": 1758678862,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 572651,
@@ -1483,6 +1523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 509058,
+      "num": 509058,
+      "word": "桦加沙已致台湾花莲124人失联",
+      "onboard_time": 1758681021,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 508775,
       "num": 508775,
       "word": "丁泽仁国职考试通过",
@@ -1672,14 +1720,6 @@
       "word": "广东已紧急转移77万人",
       "onboard_time": 1758636864,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 459904,
-      "num": 459904,
-      "word": "台风外眼已经抵达珠三角地区",
-      "onboard_time": 1758675801,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2259,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308028,
+      "num": 308028,
+      "word": "特朗普联大演讲矛头对准欧洲",
+      "onboard_time": 1758677121,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 306991,
       "num": 306991,
       "word": "00后女子醉驾撞死3人案将开庭",
@@ -2779,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248349,
+      "num": 248349,
+      "word": "深圳已录得最大阵风15级",
+      "onboard_time": 1758682700,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248348,
       "num": 248348,
       "word": "金晨怎么美成这样了",
@@ -2971,6 +3027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231775,
+      "num": 296510,
+      "word": "原来孙红雷馋的赛螃蟹长这样",
+      "onboard_time": 1758682281,
+      "rank": 16,
+      "category": "综艺,美食"
+    },
+    {
       "raw_hot": 230971,
       "num": 230971,
       "word": "桦加沙到哪了",
@@ -3027,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223869,
+      "num": 293655,
+      "word": "云秀行阵容官宣",
+      "onboard_time": 1758679401,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223533,
       "num": 223533,
       "word": "天山后峡发现死亡雪豹",
@@ -3073,6 +3145,14 @@
       "onboard_time": 1758509000,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 221609,
+      "num": 221609,
+      "word": "倪妮黑丝",
+      "onboard_time": 1758682103,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 220116,
@@ -3171,14 +3251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213227,
-      "num": 213227,
-      "word": "特朗普联大演讲矛头对准欧洲",
-      "onboard_time": 1758677121,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 212997,
       "num": 317799,
       "word": "凉山警方通报2岁失踪女童死亡",
@@ -3203,6 +3275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209992,
+      "num": 286970,
+      "word": "日掛中天定档",
+      "onboard_time": 1758682641,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209939,
       "num": 209939,
       "word": "已查封7389套问题家纺四件套",
@@ -3225,6 +3305,14 @@
       "onboard_time": 1758511282,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209440,
+      "num": 209440,
+      "word": "珠海全市进入十级风圈",
+      "onboard_time": 1758678740,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209256,
@@ -3320,6 +3408,14 @@
       "word": "谢娜女儿跳跳也有自己的代言人了",
       "onboard_time": 1758514763,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206618,
+      "num": 265190,
+      "word": "刘萧旭吐槽短剧台词油腻",
+      "onboard_time": 1758680900,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -3451,20 +3547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203041,
+      "num": 203041,
+      "word": "王扁1分钟视频报价40元",
+      "onboard_time": 1758683002,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202912,
       "num": 202912,
       "word": "我家那闺女",
       "onboard_time": 1758433761,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202362,
-      "num": 202362,
-      "word": "云秀行阵容官宣",
-      "onboard_time": 1758679401,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 202303,
@@ -3545,6 +3641,14 @@
       "onboard_time": 1758514643,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198568,
+      "num": 249386,
+      "word": "小米17Pro逆光之王",
+      "onboard_time": 1758681380,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 198222,
@@ -4563,12 +4667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169725,
-      "num": 169725,
-      "word": "珠海全市进入十级风圈",
-      "onboard_time": 1758678740,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 170029,
+      "num": 170029,
+      "word": "模仿王源wink博主说要回归工作",
+      "onboard_time": 1758681861,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 169440,
@@ -4875,14 +4979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162297,
-      "num": 222705,
-      "word": "认识李一桐的全部离开米兰",
-      "onboard_time": 1758678862,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 162243,
       "num": 162243,
       "word": "冰舞",
@@ -5161,6 +5257,22 @@
       "onboard_time": 1758375264,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156434,
+      "num": 156434,
+      "word": "不二之臣阵容官宣",
+      "onboard_time": 1758682821,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156237,
+      "num": 156237,
+      "word": "深圳人终于可以休息了",
+      "onboard_time": 1758682942,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155654,
@@ -6307,6 +6419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134024,
+      "num": 145455,
+      "word": "倪妮挽宋威龙胳膊",
+      "onboard_time": 1758681321,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133828,
       "num": 146791,
       "word": "看把谢霆锋逼成啥样了",
@@ -6371,12 +6491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132579,
-      "num": 132579,
-      "word": "蔡国强烟花秀现场遗留垃圾杂物",
-      "onboard_time": 1758679041,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 132558,
+      "num": 132558,
+      "word": "敖瑞鹏首部现偶剧",
+      "onboard_time": 1758682942,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 132444,
@@ -6915,6 +7035,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124617,
+      "num": 123650,
+      "word": "宋威龙扛住了G社镜头",
+      "onboard_time": 1758682881,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124510,
+      "num": 124510,
+      "word": "iPhone自带台风追踪功能",
+      "onboard_time": 1758679161,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124427,
       "num": 156556,
       "word": "成毅把杨迪吴泽林吓了一跳又一跳",
@@ -7075,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122275,
+      "num": 122275,
+      "word": "大家真的不用小马过河这个词吗",
+      "onboard_time": 1758682103,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122258,
       "num": 156910,
       "word": "两京十五日",
@@ -7203,6 +7347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120855,
+      "num": 120855,
+      "word": "台风桦加沙为何难以捉摸",
+      "onboard_time": 1758681561,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120796,
       "num": 120796,
       "word": "邓紫棋 从此在大场面我不再站旁边",
@@ -7292,7 +7444,7 @@
     },
     {
       "raw_hot": 119055,
-      "num": 185994,
+      "num": 414316,
       "word": "深圳全市公共交通停运",
       "onboard_time": 1758650236,
       "rank": 22,
@@ -7393,6 +7545,14 @@
       "onboard_time": 1758533061,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 117506,
+      "num": 117506,
+      "word": "白鹿常华森机场偶遇",
+      "onboard_time": 1758680360,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117357,
@@ -7811,6 +7971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111142,
+      "num": 165778,
+      "word": "广东省内所有高铁及普速列车停运",
+      "onboard_time": 1758681441,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111095,
       "num": 111095,
       "word": "KSG打破桎梏夺季军",
@@ -8177,14 +8345,6 @@
       "onboard_time": 1758429082,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104424,
-      "num": 104424,
-      "word": "iPhone自带台风追踪功能",
-      "onboard_time": 1758679161,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 104288,
@@ -10033,6 +10193,14 @@
       "onboard_time": 1758519381,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48395,
+      "num": 280792,
+      "word": "尚界H5动态评测首发",
+      "onboard_time": 1758681380,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 48103,
