@@ -1,0 +1,410 @@
+{
+  "runTime": 1758712892616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7665221,
+        "num": 7665221,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1246700,
+        "num": 1246700,
+        "word": "张雪峰",
+        "onboard_time": 1758709461,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46632,
+        "num": 796887,
+        "word": "大美新疆每一眼都惊艳",
+        "onboard_time": 1758702921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 695807,
+        "num": 695807,
+        "word": "张雪峰回应账号被禁止关注",
+        "onboard_time": 1758711022,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 480507,
+        "num": 480507,
+        "word": "桦加沙登陆风力13级",
+        "onboard_time": 1758706582,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1873577,
+        "num": 480181,
+        "word": "张雪峰多个平台账号被禁止关注",
+        "onboard_time": 1758709162,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 474910,
+        "num": 474910,
+        "word": "广州解除五停",
+        "onboard_time": 1758704482,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293179,
+        "num": 468604,
+        "word": "张艺兴领奖",
+        "onboard_time": 1758711440,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229768,
+        "num": 464026,
+        "word": "微博音乐盛典",
+        "onboard_time": 1758705681,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315488,
+        "num": 463076,
+        "word": "桦加沙破坏力",
+        "onboard_time": 1758709281,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 462477,
+        "num": 462477,
+        "word": "王楚钦 奔驰",
+        "onboard_time": 1758707062,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 752425,
+        "num": 444352,
+        "word": "女装 聚酯纤维",
+        "onboard_time": 1758708323,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 569308,
+        "num": 433978,
+        "word": "张维伊想和董璇把钱放一起",
+        "onboard_time": 1758705441,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481978,
+        "num": 430546,
+        "word": "续面事件老板称将永久闭店",
+        "onboard_time": 1758706702,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421712,
+        "num": 421712,
+        "word": "黄圣依家宴",
+        "onboard_time": 1758704663,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294318,
+        "num": 294318,
+        "word": "蔡徐坤回国首秀",
+        "onboard_time": 1758710362,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31395,
+        "num": 266484,
+        "word": "什么车pick了王楚钦",
+        "onboard_time": 1758710423,
+        "rank": 16,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 263865,
+        "num": 263865,
+        "word": "王俊凯评审",
+        "onboard_time": 1758708502,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197680,
+        "num": 197680,
+        "word": "单依纯年度最佳歌手",
+        "onboard_time": 1758711624,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62805,
+        "num": 197674,
+        "word": "复旦学霸都在用iQOO打游戏",
+        "onboard_time": 1758711922,
+        "rank": 19,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 358912,
+        "num": 197624,
+        "word": "关晓彤 留子是一种感觉",
+        "onboard_time": 1758699382,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273251,
+        "num": 197603,
+        "word": "香奈儿半裸背",
+        "onboard_time": 1758711440,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251768,
+        "num": 197563,
+        "word": "戴向宇回应不爱陈紫函",
+        "onboard_time": 1758707183,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197546,
+        "num": 197546,
+        "word": "金价飙涨原因找到了",
+        "onboard_time": 1758708021,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192944,
+        "num": 192944,
+        "word": "成毅狐妖小红娘王权篇要来了",
+        "onboard_time": 1758712521,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190487,
+        "num": 190487,
+        "word": "王俊凯顺毛",
+        "onboard_time": 1758707362,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184551,
+        "num": 184551,
+        "word": "一代人有一代人的非遗传承",
+        "onboard_time": 1758711982,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148407,
+        "num": 183235,
+        "word": "单依纯 宁哥你紧张吗",
+        "onboard_time": 1758712644,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143451,
+        "num": 183120,
+        "word": "平遥国际电影展",
+        "onboard_time": 1758711201,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24653,
+        "num": 183078,
+        "word": "投票平台回应130万人选班长李浩",
+        "onboard_time": 1758711681,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183040,
+        "num": 183040,
+        "word": "日本警告以色列",
+        "onboard_time": 1758712461,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181580,
+        "num": 181580,
+        "word": "迪丽热巴晒夏天碎片",
+        "onboard_time": 1758711862,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134747,
+        "num": 179524,
+        "word": "张艺兴金发小王子",
+        "onboard_time": 1758711261,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177620,
+        "num": 177620,
+        "word": "台湾87岁老人被困家中活活淹死",
+        "onboard_time": 1758706462,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173412,
+        "num": 173412,
+        "word": "泽连斯基称中国应迫使俄方停止军事行动",
+        "onboard_time": 1758704062,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167700,
+        "num": 167700,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1758712521,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164897,
+        "num": 164897,
+        "word": "珠海被要求撤离高层住户发声",
+        "onboard_time": 1758692122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144834,
+        "num": 144834,
+        "word": "协和专家吃头孢过敏进抢救室",
+        "onboard_time": 1758709821,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42946,
+        "num": 143955,
+        "word": "欧阳娜娜千金小姐具象化",
+        "onboard_time": 1758712342,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104984,
+        "num": 143160,
+        "word": "周深怎么一入场就这么忙",
+        "onboard_time": 1758712342,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143112,
+        "num": 143112,
+        "word": "深圳全市解除五停",
+        "onboard_time": 1758700882,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142648,
+        "num": 142648,
+        "word": "店家回应偷吃蛋挞女子返回买单",
+        "onboard_time": 1758709101,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25816,
+        "num": 140836,
+        "word": "Demna与GUCCI的适配度",
+        "onboard_time": 1758708442,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140434,
+        "num": 140434,
+        "word": "特朗普蛐蛐中国遭CNN打脸",
+        "onboard_time": 1758708081,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140101,
+        "num": 140101,
+        "word": "iPhone17Promini首曝",
+        "onboard_time": 1758698903,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132639,
+        "num": 132639,
+        "word": "张雪峰曾称动了太多人蛋糕",
+        "onboard_time": 1758712702,
+        "rank": 45,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 127057,
+        "num": 127057,
+        "word": "9月156款游戏过审",
+        "onboard_time": 1758711922,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123368,
+        "num": 123368,
+        "word": "桃黑黑公关能力",
+        "onboard_time": 1758701841,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 63156,
+        "num": 121337,
+        "word": "小胖压力队友被呛",
+        "onboard_time": 1758711143,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119483,
+        "num": 119483,
+        "word": "验蟹师 3个月收入30万",
+        "onboard_time": 1758708622,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向新疆各族儿女致以诚挚问候#"
+    }
+  }
+}

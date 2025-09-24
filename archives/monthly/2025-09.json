@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758710597067,
+  "endTime": 1758712892616,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2841,6 +2841,14 @@
       "onboard_time": 1757987481,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1246700,
+      "num": 1246700,
+      "word": "张雪峰",
+      "onboard_time": 1758709461,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 1243567,
@@ -6539,6 +6547,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 752425,
+      "num": 444352,
+      "word": "女装 聚酯纤维",
+      "onboard_time": 1758708323,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 752420,
       "num": 337883,
       "word": "卢昱晓昨天妈妈今天辣妹",
@@ -7265,6 +7281,14 @@
       "onboard_time": 1757669123,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 695807,
+      "num": 695807,
+      "word": "张雪峰回应账号被禁止关注",
+      "onboard_time": 1758711022,
+      "rank": 3,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 695669,
@@ -13955,14 +13979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 399282,
-      "num": 399282,
-      "word": "张雪峰",
-      "onboard_time": 1758709461,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 398942,
       "num": 398942,
       "word": "陈赫没有邓超就更开心了",
@@ -14145,14 +14161,6 @@
       "onboard_time": 1758206784,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395326,
-      "num": 343814,
-      "word": "女装 聚酯纤维",
-      "onboard_time": 1758708323,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 395321,
@@ -17499,6 +17507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315488,
+      "num": 463076,
+      "word": "桦加沙破坏力",
+      "onboard_time": 1758709281,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 315449,
       "num": 388895,
       "word": "黄子韬首谈决定求婚的原因",
@@ -18435,6 +18451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 294318,
+      "num": 294318,
+      "word": "蔡徐坤回国首秀",
+      "onboard_time": 1758710362,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 294137,
       "num": 294137,
       "word": "张晚意 音乐节",
@@ -18497,6 +18521,14 @@
       "onboard_time": 1757147781,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293179,
+      "num": 468604,
+      "word": "张艺兴领奖",
+      "onboard_time": 1758711440,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 293168,
@@ -19547,6 +19579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273251,
+      "num": 197603,
+      "word": "香奈儿半裸背",
+      "onboard_time": 1758711440,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 273210,
       "num": 326565,
       "word": "樊振东效力俱乐部回应首战失利",
@@ -20115,6 +20155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263865,
+      "num": 493529,
+      "word": "王俊凯评审",
+      "onboard_time": 1758708502,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 263765,
       "num": 263765,
       "word": "中国空军运20接30名烈士回家",
@@ -20297,14 +20345,6 @@
       "onboard_time": 1758032731,
       "rank": 27,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 260857,
-      "num": 322961,
-      "word": "桦加沙破坏力",
-      "onboard_time": 1758709281,
-      "rank": 40,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 260813,
@@ -25123,14 +25163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206681,
-      "num": 493529,
-      "word": "王俊凯评审",
-      "onboard_time": 1758708502,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 206447,
       "num": 511418,
       "word": "桦加沙已成为今年全球风王",
@@ -26723,6 +26755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197680,
+      "num": 197680,
+      "word": "单依纯年度最佳歌手",
+      "onboard_time": 1758711624,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197674,
       "num": 230799,
       "word": "于正用杨蓉新剧下饭",
@@ -27944,6 +27984,14 @@
       "word": "疾风劲草阵容官宣",
       "onboard_time": 1758425722,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192944,
+      "num": 192944,
+      "word": "成毅狐妖小红娘王权篇要来了",
+      "onboard_time": 1758712521,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -29923,6 +29971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184551,
+      "num": 184551,
+      "word": "一代人有一代人的非遗传承",
+      "onboard_time": 1758711982,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184544,
       "num": 184544,
       "word": "TF三代黄朔首个外务来了",
@@ -30235,6 +30291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183040,
+      "num": 183040,
+      "word": "日本警告以色列",
+      "onboard_time": 1758712461,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182863,
       "num": 182863,
       "word": "确诊厌6症",
@@ -30512,6 +30576,14 @@
       "word": "刘轩丞表情管理课没白上",
       "onboard_time": 1757249303,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181580,
+      "num": 181580,
+      "word": "迪丽热巴晒夏天碎片",
+      "onboard_time": 1758711862,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -33547,6 +33619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167700,
+      "num": 167700,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1758712521,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167699,
       "num": 169583,
       "word": "运20机舱内对烈士广播",
@@ -34776,14 +34856,6 @@
       "word": "马嘉祺扶额摇",
       "onboard_time": 1757671225,
       "rank": 24,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 163028,
-      "num": 163028,
-      "word": "蔡徐坤回国首秀",
-      "onboard_time": 1758710362,
-      "rank": 26,
       "category": "演出"
     },
     {
@@ -39235,6 +39307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148407,
+      "num": 183235,
+      "word": "单依纯 宁哥你紧张吗",
+      "onboard_time": 1758712644,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148403,
       "num": 148403,
       "word": "龚俊白衣公卿首套造型路透",
@@ -40587,6 +40667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144834,
+      "num": 144834,
+      "word": "协和专家吃头孢过敏进抢救室",
+      "onboard_time": 1758709821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144832,
       "num": 143032,
       "word": "穆祉丞比心照",
@@ -41139,6 +41227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143451,
+      "num": 183120,
+      "word": "平遥国际电影展",
+      "onboard_time": 1758711201,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143449,
       "num": 143449,
       "word": "上海全款400万92平的小家",
@@ -41177,14 +41273,6 @@
       "onboard_time": 1757700975,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143333,
-      "num": 143333,
-      "word": "协和专家吃头孢过敏进抢救室",
-      "onboard_time": 1758709821,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143324,
@@ -44427,6 +44515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134747,
+      "num": 179524,
+      "word": "张艺兴金发小王子",
+      "onboard_time": 1758711261,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134732,
       "num": 134732,
       "word": "常州vs宿迁",
@@ -45193,6 +45289,14 @@
       "onboard_time": 1757593061,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132639,
+      "num": 132639,
+      "word": "张雪峰曾称动了太多人蛋糕",
+      "onboard_time": 1758712702,
+      "rank": 45,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 132636,
@@ -47609,6 +47713,14 @@
       "onboard_time": 1758080365,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127057,
+      "num": 127057,
+      "word": "9月156款游戏过审",
+      "onboard_time": 1758711922,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 127030,
@@ -57043,6 +57155,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 104984,
+      "num": 143160,
+      "word": "周深怎么一入场就这么忙",
+      "onboard_time": 1758712342,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104925,
       "num": 104925,
       "word": "洪秀柱出席九三阅兵天经地义",
@@ -65780,7 +65900,7 @@
     },
     {
       "raw_hot": 76132,
-      "num": 153210,
+      "num": 266484,
       "word": "什么车pick了王楚钦",
       "onboard_time": 1758710423,
       "rank": 32,
@@ -68091,6 +68211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63156,
+      "num": 121337,
+      "word": "小胖压力队友被呛",
+      "onboard_time": 1758711143,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63132,
       "num": 63132,
       "word": "iPhone17Pro散热",
@@ -68185,6 +68313,14 @@
       "onboard_time": 1757495003,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62805,
+      "num": 197674,
+      "word": "复旦学霸都在用iQOO打游戏",
+      "onboard_time": 1758711922,
+      "rank": 19,
+      "category": "数码,游戏"
     },
     {
       "raw_hot": 62787,
@@ -72051,6 +72187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42946,
+      "num": 143955,
+      "word": "欧阳娜娜千金小姐具象化",
+      "onboard_time": 1758712342,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42928,
       "num": 58498,
       "word": "Tarzan燃尽了",
@@ -75265,6 +75409,14 @@
       "onboard_time": 1758006322,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24653,
+      "num": 183078,
+      "word": "投票平台回应130万人选班长李浩",
+      "onboard_time": 1758711681,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24593,
