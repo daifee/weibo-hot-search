@@ -1,0 +1,410 @@
+{
+  "runTime": 1758814038766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1866492,
+        "num": 1866492,
+        "word": "助理确认蔡磊丧失语言能力",
+        "onboard_time": 1758804922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1279864,
+        "num": 1279864,
+        "word": "演唱会出轨门女主丈夫被曝出轨",
+        "onboard_time": 1758798020,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39732,
+        "num": 1090173,
+        "word": "新疆70年",
+        "onboard_time": 1758811283,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1061616,
+        "num": 1061616,
+        "word": "广电总局称坚决抵制违法失德人员",
+        "onboard_time": 1758810504,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667794,
+        "num": 667794,
+        "word": "官方通报地铁深夜撞人事件",
+        "onboard_time": 1758809002,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 580751,
+        "num": 580751,
+        "word": "小米17价格",
+        "onboard_time": 1758803301,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 547074,
+        "num": 547074,
+        "word": "王俊凯 电影在银幕上不在我脸上",
+        "onboard_time": 1758797122,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 474959,
+        "num": 474959,
+        "word": "董璇赚的每分钱都有女儿名字",
+        "onboard_time": 1758808163,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399866,
+        "num": 399866,
+        "word": "女子租房6年房东多次主动降租",
+        "onboard_time": 1758810683,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387503,
+        "num": 387503,
+        "word": "小米发布会",
+        "onboard_time": 1758798261,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 518995,
+        "num": 385656,
+        "word": "豆瓣崩了",
+        "onboard_time": 1758812962,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 507925,
+        "num": 376316,
+        "word": "谁给关晓彤选的毛领",
+        "onboard_time": 1758810624,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 364755,
+        "num": 364755,
+        "word": "台湾花莲灾后3天仍无救援",
+        "onboard_time": 1758807503,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336630,
+        "num": 336630,
+        "word": "小米磁吸充电宝",
+        "onboard_time": 1758807983,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283247,
+        "num": 283247,
+        "word": "王晶谈谢霆锋张柏芝分手",
+        "onboard_time": 1758803781,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233214,
+        "num": 233214,
+        "word": "迪丽热巴出发巴黎时装周",
+        "onboard_time": 1758806602,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 209656,
+        "num": 209656,
+        "word": "雷军曝陈年10年还清10亿债务",
+        "onboard_time": 1758811644,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204433,
+        "num": 204433,
+        "word": "小米17",
+        "onboard_time": 1758803602,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164673,
+        "num": 203591,
+        "word": "雷军 刘德华",
+        "onboard_time": 1758804381,
+        "rank": 18,
+        "category": "演出,数码"
+      },
+      {
+        "raw_hot": 18961,
+        "num": 203398,
+        "word": "某减肥产品由已注销3年企业生产",
+        "onboard_time": 1758813562,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 203366,
+        "num": 203366,
+        "word": "五哈6 鹿晗",
+        "onboard_time": 1758785601,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391260,
+        "num": 200371,
+        "word": "68页PPT曝光在读博士与已婚女子同居",
+        "onboard_time": 1758802522,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196637,
+        "num": 196637,
+        "word": "孕妇泰国坠崖案丈夫离婚要分3000万",
+        "onboard_time": 1758812305,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76433,
+        "num": 175327,
+        "word": "十四五广播电视和网络视听高质量发展成就",
+        "onboard_time": 1758812183,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239599,
+        "num": 174744,
+        "word": "公马被发情母马追赶摔断脖颈",
+        "onboard_time": 1758803781,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172217,
+        "num": 172217,
+        "word": "雷军谈iPhone17牙膏挤爆了",
+        "onboard_time": 1758807862,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118259,
+        "num": 171622,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1758800361,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99777,
+        "num": 171260,
+        "word": "陈添祥上湖南卫视了",
+        "onboard_time": 1758806361,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93031,
+        "num": 169894,
+        "word": "51岁王耀庆全开麦唱跳8分钟",
+        "onboard_time": 1758813503,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15711,
+        "num": 169266,
+        "word": "昆明多名家长疑陷升学骗局",
+        "onboard_time": 1758813683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168740,
+        "num": 168740,
+        "word": "专家建议将农民养老金提升至1000元",
+        "onboard_time": 1758800541,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159369,
+        "num": 159369,
+        "word": "蔡磊目前用眼控仪交流打字",
+        "onboard_time": 1758810683,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150608,
+        "num": 150608,
+        "word": "白鹿随拍直出",
+        "onboard_time": 1758810923,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142220,
+        "num": 142220,
+        "word": "台风桦加沙停止编号",
+        "onboard_time": 1758808462,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137098,
+        "num": 137098,
+        "word": "华南理工回应博士与已婚女同居",
+        "onboard_time": 1758806842,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135599,
+        "num": 135599,
+        "word": "国乒WTT中国大满贯首场失利",
+        "onboard_time": 1758813982,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132560,
+        "num": 132560,
+        "word": "YU7",
+        "onboard_time": 1758808103,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 129596,
+        "word": "以军出动数十架战机空袭",
+        "onboard_time": 1758812724,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126252,
+        "num": 126252,
+        "word": "王楚钦推荐的北京小吃",
+        "onboard_time": 1758812904,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121601,
+        "num": 121601,
+        "word": "离婚难是因为无先例我来做第一例",
+        "onboard_time": 1758803901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60329,
+        "num": 119584,
+        "word": "小米三区洗",
+        "onboard_time": 1758809244,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118819,
+        "num": 118819,
+        "word": "JackeyLove要把S赛冠军留在中国",
+        "onboard_time": 1758808343,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118331,
+        "num": 118331,
+        "word": "福建舰试验训练正顺利推进",
+        "onboard_time": 1758797241,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114832,
+        "num": 114832,
+        "word": "雷军超时了",
+        "onboard_time": 1758811164,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113693,
+        "num": 113693,
+        "word": "TES战胜IG",
+        "onboard_time": 1758803721,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111556,
+        "num": 111556,
+        "word": "小米平板",
+        "onboard_time": 1758809364,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113670,
+        "num": 111524,
+        "word": "雷军称不选小米YU7可选ModelY",
+        "onboard_time": 1758813203,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111393,
+        "num": 111393,
+        "word": "小米17没有1TB",
+        "onboard_time": 1758813803,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33859,
+        "num": 104997,
+        "word": "俞孔坚追悼会初定于10月中旬",
+        "onboard_time": 1758811884,
+        "rank": 48,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 102951,
+        "num": 102951,
+        "word": "对原产于墨西哥和美国的进口碧根果发起反倾销立案调查",
+        "onboard_time": 1758813623,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆各族群众热情欢送总书记#"
+    }
+  }
+}

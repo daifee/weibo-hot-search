@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758811500694,
+  "endTime": 1758814038766,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -665,6 +665,14 @@
       "onboard_time": 1758789321,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1061616,
+      "num": 1061616,
+      "word": "广电总局称坚决抵制违法失德人员",
+      "onboard_time": 1758810504,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1055714,
@@ -2403,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 518995,
+      "num": 385656,
+      "word": "豆瓣崩了",
+      "onboard_time": 1758812962,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 516759,
       "num": 516759,
       "word": "咱家的三航母太太太帅了",
@@ -2465,6 +2481,14 @@
       "onboard_time": 1758510260,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 507925,
+      "num": 376316,
+      "word": "谁给关晓彤选的毛领",
+      "onboard_time": 1758810624,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 505616,
@@ -3019,6 +3043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 399866,
+      "num": 399866,
+      "word": "女子租房6年房东多次主动降租",
+      "onboard_time": 1758810683,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399679,
       "num": 399679,
       "word": "AL 软饭好吃",
@@ -3083,7 +3115,7 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 390349,
+      "raw_hot": 391260,
       "num": 314504,
       "word": "68页PPT曝光在读博士与已婚女子同居",
       "onboard_time": 1758802522,
@@ -3387,14 +3419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338778,
-      "num": 338778,
-      "word": "广电总局称坚决抵制违法失德人员",
-      "onboard_time": 1758810504,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 338228,
       "num": 338228,
       "word": "国新办新闻发布会",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1758714741,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336630,
+      "num": 336630,
+      "word": "小米磁吸充电宝",
+      "onboard_time": 1758807983,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 335328,
@@ -4875,14 +4907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228245,
-      "num": 228245,
-      "word": "小米磁吸充电宝",
-      "onboard_time": 1758807983,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 227884,
       "num": 227884,
       "word": "倪妮黑丝",
@@ -5395,6 +5419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209656,
+      "num": 209656,
+      "word": "雷军曝陈年10年还清10亿债务",
+      "onboard_time": 1758811644,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 209481,
       "num": 244106,
       "word": "开始跳舞吧官宣全C导师阵容",
@@ -5561,14 +5593,6 @@
       "onboard_time": 1758805342,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 206276,
-      "num": 206276,
-      "word": "女子租房6年房东多次主动降租",
-      "onboard_time": 1758810683,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206240,
@@ -6056,6 +6080,14 @@
       "word": "台湾台风遇难者多为住一楼老人",
       "onboard_time": 1758689723,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196637,
+      "num": 196637,
+      "word": "孕妇泰国坠崖案丈夫离婚要分3000万",
+      "onboard_time": 1758812305,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -6785,14 +6817,6 @@
       "onboard_time": 1758462867,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185427,
-      "num": 185427,
-      "word": "谁给关晓彤选的毛领",
-      "onboard_time": 1758810624,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 185341,
@@ -8393,6 +8417,14 @@
       "onboard_time": 1758602183,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159369,
+      "num": 565411,
+      "word": "蔡磊目前用眼控仪交流打字",
+      "onboard_time": 1758810683,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159291,
@@ -10427,6 +10459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135599,
+      "num": 135599,
+      "word": "国乒WTT中国大满贯首场失利",
+      "onboard_time": 1758813982,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135523,
       "num": 135523,
       "word": "屏花绮异志",
@@ -10931,6 +10971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129596,
+      "num": 129596,
+      "word": "以军出动数十架战机空袭",
+      "onboard_time": 1758812724,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129454,
       "num": 129454,
       "word": "确实型人格",
@@ -11257,6 +11305,14 @@
       "onboard_time": 1758437062,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126252,
+      "num": 126252,
+      "word": "王楚钦推荐的北京小吃",
+      "onboard_time": 1758812904,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 126162,
@@ -12067,6 +12123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118331,
+      "num": 118331,
+      "word": "福建舰试验训练正顺利推进",
+      "onboard_time": 1758797241,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118183,
       "num": 230747,
       "word": "俞孔坚遗体需家人到巴西检测DNA",
@@ -12395,14 +12459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114042,
-      "num": 565411,
-      "word": "蔡磊目前用眼控仪交流打字",
-      "onboard_time": 1758810683,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113987,
       "num": 113987,
       "word": "桦加沙或在珠海到湛江沿海登陆",
@@ -12425,6 +12481,14 @@
       "onboard_time": 1758710542,
       "rank": 49,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 113670,
+      "num": 111524,
+      "word": "雷军称不选小米YU7可选ModelY",
+      "onboard_time": 1758813203,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 113604,
@@ -12649,6 +12713,14 @@
       "onboard_time": 1758625702,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111393,
+      "num": 111393,
+      "word": "小米17没有1TB",
+      "onboard_time": 1758813803,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 111145,
@@ -13267,6 +13339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102951,
+      "num": 102951,
+      "word": "对原产于墨西哥和美国的进口碧根果发起反倾销立案调查",
+      "onboard_time": 1758813623,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102641,
       "num": 102641,
       "word": "任豪新剧鹭卓和卓沅先追上了",
@@ -13857,6 +13937,14 @@
       "onboard_time": 1758592821,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93031,
+      "num": 169894,
+      "word": "51岁王耀庆全开麦唱跳8分钟",
+      "onboard_time": 1758813503,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 92920,
@@ -14633,6 +14721,14 @@
       "onboard_time": 1758471321,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76433,
+      "num": 175327,
+      "word": "十四五广播电视和网络视听高质量发展成就",
+      "onboard_time": 1758812183,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76401,
@@ -16291,6 +16387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39732,
+      "num": 1280180,
+      "word": "新疆70年",
+      "onboard_time": 1758811283,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39455,
       "num": 107161,
       "word": "孕妇遭宠物狗追咬胎停双方已和解",
@@ -16641,6 +16745,14 @@
       "onboard_time": 1758607822,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33859,
+      "num": 104997,
+      "word": "俞孔坚追悼会初定于10月中旬",
+      "onboard_time": 1758811884,
+      "rank": 48,
+      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 33716,
@@ -17395,6 +17507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18961,
+      "num": 203398,
+      "word": "某减肥产品由已注销3年企业生产",
+      "onboard_time": 1758813562,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 18788,
       "num": 127945,
       "word": "姚安娜画了故宫的猫",
@@ -17489,6 +17609,14 @@
       "onboard_time": 1758718522,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15711,
+      "num": 169266,
+      "word": "昆明多名家长疑陷升学骗局",
+      "onboard_time": 1758813683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15613,
@@ -17649,14 +17777,6 @@
       "onboard_time": 1758782601,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 8240,
-      "num": 1280180,
-      "word": "新疆70年",
-      "onboard_time": 1758811283,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7894,

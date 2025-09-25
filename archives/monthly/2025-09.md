@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 22:45:00
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 23:27:18
 </p>
 </blockquote>
 <p>
@@ -2933,6 +2933,12 @@ wtt（热度：1154727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E9%95%BF%E7%A7%B0%E5%AE%B6%E9%87%8C%E4%B8%80%E9%A1%BF%E6%B2%A1%E5%90%83%E5%AE%8C%E4%B9%9F%E4%B8%8D%E4%BC%9A%E6%89%94%23" target="weibo">
 西贝厨师长称家里一顿没吃完也不会扔（热度：1061629）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%A7%B0%E5%9D%9A%E5%86%B3%E6%8A%B5%E5%88%B6%E8%BF%9D%E6%B3%95%E5%A4%B1%E5%BE%B7%E4%BA%BA%E5%91%98%23" target="weibo">
+广电总局称坚决抵制违法失德人员（热度：1061616）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E4%B8%80%E7%9B%B4%E8%A2%AB%E5%86%85%E5%A8%B1%E4%BD%8E%E4%BC%B0%E7%9A%84%E7%BE%8E%E8%B2%8C%23" target="weibo">
 李兰迪一直被内娱低估的美貌（热度：678342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%A1%A8%E6%80%81%E4%BB%A572%E5%B0%8F%E6%97%B6%E5%86%85%E8%A2%AD%E5%87%BB6%E5%9B%BD%23" target="weibo">
-外交部表态以72小时内袭击6国（热度：676295）
 </a>
 </li>
 
