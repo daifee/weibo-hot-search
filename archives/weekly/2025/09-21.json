@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758783020068,
+  "endTime": 1758785159730,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -289,6 +289,14 @@
       "onboard_time": 1758600142,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1529775,
+      "num": 337408,
+      "word": "ally官宣分手",
+      "onboard_time": 1758783381,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1506665,
@@ -608,6 +616,14 @@
       "word": "阳江受损严重",
       "onboard_time": 1758776362,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1042935,
+      "num": 871077,
+      "word": "女生醉驾撞死3人称不记得摸过车",
+      "onboard_time": 1758776602,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -985,14 +1001,6 @@
       "onboard_time": 1758625643,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 871077,
-      "num": 871077,
-      "word": "女生醉驾撞死3人称不记得摸过车",
-      "onboard_time": 1758776602,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 870756,
@@ -2035,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552877,
+      "num": 310697,
+      "word": "蔡国庆儿子好像张晚意",
+      "onboard_time": 1758782480,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552728,
       "num": 552728,
       "word": "宋轶怎么美成这样了",
@@ -2147,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517522,
+      "num": 409952,
+      "word": "以色列万人慌乱大奔逃",
+      "onboard_time": 1758781341,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 516759,
       "num": 516759,
       "word": "咱家的三航母太太太帅了",
@@ -2209,6 +2233,14 @@
       "onboard_time": 1758442521,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 504824,
+      "num": 286365,
+      "word": "粉丝爆料杨幂无缘金鸡奖",
+      "onboard_time": 1758783561,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 504314,
@@ -2417,6 +2449,14 @@
       "onboard_time": 1758700341,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460061,
+      "num": 252418,
+      "word": "纤维粒被抓",
+      "onboard_time": 1758784342,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 460019,
@@ -2651,8 +2691,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 407573,
-      "num": 407573,
+      "raw_hot": 410379,
+      "num": 410379,
+      "word": "小米非常非常缺人",
+      "onboard_time": 1758783921,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 409934,
+      "num": 409934,
       "word": "2025湾区升明月阵容官宣",
       "onboard_time": 1758781042,
       "rank": 16,
@@ -3027,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340074,
+      "num": 340074,
+      "word": "西贝删除温情公关文",
+      "onboard_time": 1758783022,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339278,
       "num": 339278,
       "word": "女友突然去世男子上门求带走骨灰",
@@ -3081,6 +3137,14 @@
       "onboard_time": 1758468444,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334098,
+      "num": 334098,
+      "word": "唐朝诡事录3新预告",
+      "onboard_time": 1758782540,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 332316,
@@ -4179,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243223,
+      "num": 243223,
+      "word": "王一博 11亩香菜地",
+      "onboard_time": 1758783200,
+      "rank": 24,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 243123,
       "num": 265190,
       "word": "刘萧旭吐槽短剧台词油腻",
@@ -4619,12 +4691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216433,
-      "num": 216433,
-      "word": "唐朝诡事录3新预告",
-      "onboard_time": 1758782540,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 216435,
+      "num": 216435,
+      "word": "董璇跟张维伊签婚前协议这段",
+      "onboard_time": 1758780922,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 215502,
@@ -4971,14 +5043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206801,
-      "num": 206801,
-      "word": "以色列万人慌乱大奔逃",
-      "onboard_time": 1758781341,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 206718,
       "num": 199975,
       "word": "谢娜女儿跳跳也有自己的代言人了",
@@ -5107,6 +5171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203926,
+      "num": 203926,
+      "word": "保研",
+      "onboard_time": 1758784100,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 203875,
       "num": 203875,
       "word": "才发现我妈当年穿的都是千禧风",
@@ -5171,12 +5243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202486,
+      "num": 206826,
+      "word": "网剧球状闪电",
+      "onboard_time": 1758784402,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202303,
       "num": 202303,
       "word": "LCK",
       "onboard_time": 1758450500,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201729,
+      "num": 375067,
+      "word": "男子在家连拔2天火罐致高位截瘫",
+      "onboard_time": 1758775942,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201662,
@@ -5409,6 +5497,14 @@
       "onboard_time": 1758765080,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196378,
+      "num": 196378,
+      "word": "皖K888888被查系AI合成",
+      "onboard_time": 1758784582,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196273,
@@ -6283,14 +6379,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 180835,
-      "num": 375067,
-      "word": "男子在家连拔2天火罐致高位截瘫",
-      "onboard_time": 1758775942,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180736,
       "num": 180736,
       "word": "GEN对战T1",
@@ -6425,14 +6513,6 @@
       "onboard_time": 1758413661,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 178292,
-      "num": 178292,
-      "word": "董璇跟张维伊签婚前协议这段",
-      "onboard_time": 1758780922,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 178279,
@@ -6704,6 +6784,22 @@
       "word": "谭松韵侯明昊新剧误闯妖家",
       "onboard_time": 1758778461,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173121,
+      "num": 173121,
+      "word": "张一山杨紫私下见面不聊工作",
+      "onboard_time": 1758784402,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172942,
+      "num": 172942,
+      "word": "赴山海播出12天已上云合网络剧年榜",
+      "onboard_time": 1758784582,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -7179,6 +7275,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 163301,
+      "num": 163301,
+      "word": "黎深神亦成为凡人",
+      "onboard_time": 1758784761,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163076,
       "num": 242200,
       "word": "鸡排主理人",
@@ -7281,6 +7385,14 @@
       "onboard_time": 1758710183,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161430,
+      "num": 161430,
+      "word": "唐朝诡事录",
+      "onboard_time": 1758784822,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 161371,
@@ -7779,12 +7891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153590,
+      "num": 165162,
+      "word": "一眼就看出王楚然不是妖妃是祥瑞",
+      "onboard_time": 1758783861,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153350,
       "num": 178017,
       "word": "吴磊嫩回18岁黎簇时期",
       "onboard_time": 1758464066,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153209,
+      "num": 153209,
+      "word": "以色列核设施大量绝密文件被公开",
+      "onboard_time": 1758785002,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153084,
@@ -7849,14 +7977,6 @@
       "onboard_time": 1758770600,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152555,
-      "num": 152555,
-      "word": "蔡国庆儿子好像张晚意",
-      "onboard_time": 1758782480,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 152526,
@@ -8699,6 +8819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141253,
+      "num": 141253,
+      "word": "老祖宗也没想到你们能这么封建",
+      "onboard_time": 1758782660,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141185,
       "num": 141185,
       "word": "北京外交学院校庆现超级大佬",
@@ -8873,6 +9001,14 @@
       "onboard_time": 1758685581,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139533,
+      "num": 139533,
+      "word": "北电回应梁靖崑入职",
+      "onboard_time": 1758783501,
+      "rank": 47,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 139322,
@@ -11091,14 +11227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112615,
-      "num": 112615,
-      "word": "老祖宗也没想到你们能这么封建",
-      "onboard_time": 1758782660,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112605,
       "num": 156191,
       "word": "柯淳复刻乖乖女名场面",
@@ -11683,6 +11811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 104743,
+      "num": 338483,
+      "word": "煽情公关再翻车西贝该如何自救",
+      "onboard_time": 1758783861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104687,
       "num": 195522,
       "word": "阿尔茨海默患者家属喊话周云杰",
@@ -12060,7 +12196,7 @@
     },
     {
       "raw_hot": 97930,
-      "num": 369424,
+      "num": 409954,
       "word": "新疆的美好数不完",
       "onboard_time": 1758763940,
       "rank": 9,
@@ -13084,7 +13220,7 @@
     },
     {
       "raw_hot": 76401,
-      "num": 165783,
+      "num": 172560,
       "word": "为什么年轻人要走向户外",
       "onboard_time": 1758778702,
       "rank": 36,
@@ -14083,6 +14219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 51600,
+      "num": 204138,
+      "word": "俞孔坚最后一次毕业致辞",
+      "onboard_time": 1758783741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51486,
       "num": 117727,
       "word": "广州伤医事件",
@@ -14185,6 +14329,14 @@
       "onboard_time": 1758512060,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50449,
+      "num": 167871,
+      "word": "王暖暖称希望这次彻底把婚离掉",
+      "onboard_time": 1758784402,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50413,
@@ -14444,7 +14596,7 @@
     },
     {
       "raw_hot": 43775,
-      "num": 226321,
+      "num": 252420,
       "word": "被李沁暖到了",
       "onboard_time": 1758780440,
       "rank": 19,
@@ -15147,6 +15299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29975,
+      "num": 204592,
+      "word": "小米17系列亮相平遥国际电影展",
+      "onboard_time": 1758783980,
+      "rank": 28,
+      "category": "数码,电影"
+    },
+    {
       "raw_hot": 29936,
       "num": 57409,
       "word": "无法共情上个月的自己",
@@ -15432,6 +15592,14 @@
       "word": "广州1570处应急安置点已准备好",
       "onboard_time": 1758566654,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24719,
+      "num": 170304,
+      "word": "王暖暖说丈夫曾告诉法官他很爱我",
+      "onboard_time": 1758784222,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

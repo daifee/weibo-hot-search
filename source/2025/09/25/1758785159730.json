@@ -1,0 +1,410 @@
+{
+  "runTime": 1758785159730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 637422,
+        "num": 1101987,
+        "word": "法院回应警车在150公里外的山姆购物",
+        "onboard_time": 1758777680,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410379,
+        "num": 410379,
+        "word": "小米非常非常缺人",
+        "onboard_time": 1758783921,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23549,
+        "num": 409954,
+        "word": "新疆的美好数不完",
+        "onboard_time": 1758763940,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517522,
+        "num": 409952,
+        "word": "以色列万人慌乱大奔逃",
+        "onboard_time": 1758781341,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 409934,
+        "num": 409934,
+        "word": "2025湾区升明月阵容官宣",
+        "onboard_time": 1758781042,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1042935,
+        "num": 402405,
+        "word": "女生醉驾撞死3人称不记得摸过车",
+        "onboard_time": 1758776602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414316,
+        "num": 377772,
+        "word": "理想汽车 易烊千玺",
+        "onboard_time": 1758775403,
+        "rank": 6,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 340074,
+        "num": 340074,
+        "word": "西贝删除温情公关文",
+        "onboard_time": 1758783022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20633,
+        "num": 339426,
+        "word": "新疆美食一口入魂千年回响",
+        "onboard_time": 1758762441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104743,
+        "num": 338483,
+        "word": "煽情公关再翻车西贝该如何自救",
+        "onboard_time": 1758783861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1529775,
+        "num": 337408,
+        "word": "ally官宣分手",
+        "onboard_time": 1758783381,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1005235,
+        "num": 336460,
+        "word": "汪苏泷生日和俊辰一起逛街",
+        "onboard_time": 1758776003,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706457,
+        "num": 334400,
+        "word": "阳江受损严重",
+        "onboard_time": 1758776362,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334098,
+        "num": 334098,
+        "word": "唐朝诡事录3新预告",
+        "onboard_time": 1758782540,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567641,
+        "num": 317695,
+        "word": "薛佳凝1分钟视频报价20万",
+        "onboard_time": 1758776542,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552877,
+        "num": 310697,
+        "word": "蔡国庆儿子好像张晚意",
+        "onboard_time": 1758782480,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504824,
+        "num": 286365,
+        "word": "粉丝爆料杨幂无缘金鸡奖",
+        "onboard_time": 1758783561,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362178,
+        "num": 278939,
+        "word": "内娱居然还有李飞没入股的遗珠",
+        "onboard_time": 1758773903,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268455,
+        "num": 268455,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 31920,
+        "num": 252420,
+        "word": "被李沁暖到了",
+        "onboard_time": 1758780440,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460061,
+        "num": 252418,
+        "word": "纤维粒被抓",
+        "onboard_time": 1758784342,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290153,
+        "num": 252278,
+        "word": "月入三万以后的真实感受",
+        "onboard_time": 1758776003,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252119,
+        "num": 252119,
+        "word": "景德镇 鸡排主理人",
+        "onboard_time": 1758770721,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244754,
+        "num": 244754,
+        "word": "姚安娜拿到了全球限量labubu",
+        "onboard_time": 1758771141,
+        "rank": 23,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 243223,
+        "num": 243223,
+        "word": "王一博 11亩香菜地",
+        "onboard_time": 1758783200,
+        "rank": 24,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 216435,
+        "num": 216435,
+        "word": "董璇跟张维伊签婚前协议这段",
+        "onboard_time": 1758780922,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211106,
+        "num": 211106,
+        "word": "韩国大量收购国内文娱产业",
+        "onboard_time": 1758760582,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202486,
+        "num": 206826,
+        "word": "网剧球状闪电",
+        "onboard_time": 1758784402,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29975,
+        "num": 204592,
+        "word": "小米17系列亮相平遥国际电影展",
+        "onboard_time": 1758783980,
+        "rank": 28,
+        "category": "数码,电影"
+      },
+      {
+        "raw_hot": 51600,
+        "num": 204138,
+        "word": "俞孔坚最后一次毕业致辞",
+        "onboard_time": 1758783741,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203926,
+        "num": 203926,
+        "word": "保研",
+        "onboard_time": 1758784100,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201729,
+        "num": 201729,
+        "word": "男子在家连拔2天火罐致高位截瘫",
+        "onboard_time": 1758775942,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196378,
+        "num": 196378,
+        "word": "皖K888888被查系AI合成",
+        "onboard_time": 1758784582,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185913,
+        "num": 185913,
+        "word": "洪尧回应删除官宣博文",
+        "onboard_time": 1758762561,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176870,
+        "num": 176870,
+        "word": "园方回应老虎产下死胎后将其吃掉",
+        "onboard_time": 1758774442,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173121,
+        "num": 173121,
+        "word": "张一山杨紫私下见面不聊工作",
+        "onboard_time": 1758784402,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172942,
+        "num": 172942,
+        "word": "赴山海播出12天已上云合网络剧年榜",
+        "onboard_time": 1758784582,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61289,
+        "num": 172560,
+        "word": "为什么年轻人要走向户外",
+        "onboard_time": 1758778702,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24719,
+        "num": 170304,
+        "word": "王暖暖说丈夫曾告诉法官他很爱我",
+        "onboard_time": 1758784222,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50449,
+        "num": 167871,
+        "word": "王暖暖称希望这次彻底把婚离掉",
+        "onboard_time": 1758784402,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153590,
+        "num": 165162,
+        "word": "一眼就看出王楚然不是妖妃是祥瑞",
+        "onboard_time": 1758783861,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163301,
+        "num": 163301,
+        "word": "黎深神亦成为凡人",
+        "onboard_time": 1758784761,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161430,
+        "num": 161430,
+        "word": "唐朝诡事录",
+        "onboard_time": 1758784822,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155368,
+        "num": 155368,
+        "word": "向太回应曾婉拒刘亦菲",
+        "onboard_time": 1758780081,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153872,
+        "num": 153872,
+        "word": "狐妖王权篇万剑穿心名场面来了",
+        "onboard_time": 1758776242,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153209,
+        "num": 153209,
+        "word": "以色列核设施大量绝密文件被公开",
+        "onboard_time": 1758785002,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141253,
+        "num": 141253,
+        "word": "老祖宗也没想到你们能这么封建",
+        "onboard_time": 1758782660,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139533,
+        "num": 139533,
+        "word": "北电回应梁靖崑入职",
+        "onboard_time": 1758783501,
+        "rank": 47,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 136361,
+        "num": 136361,
+        "word": "遵义提级调查投8亿污水厂遭接管",
+        "onboard_time": 1758775642,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 133836,
+        "num": 133836,
+        "word": "公司回应张雪峰被禁播",
+        "onboard_time": 1758782721,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆维吾尔自治区70周年庆祝大会#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 14:50:20
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 15:25:59
 </p>
 </blockquote>
 <p>
@@ -1545,6 +1545,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ally%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B%23" target="weibo">
+ally官宣分手（热度：1529775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E4%B9%B1%23" target="weibo">
 霍乱（热度：1529561）
 </a>
@@ -2961,6 +2967,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB3%E4%BA%BA%E7%A7%B0%E4%B8%8D%E8%AE%B0%E5%BE%97%E6%91%B8%E8%BF%87%E8%BD%A6%23" target="weibo">
+女生醉驾撞死3人称不记得摸过车（热度：1042935）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Metal%20%E7%94%B0%E6%A0%A9%E5%AE%81%23" target="weibo">
 Metal 田栩宁（热度：1041749）
 </a>
@@ -3941,12 +3953,6 @@ iPhone18Pro已打样（热度：878237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89cos%E5%BE%8B%E6%94%BF%E4%BF%8F%E4%BD%B3%E4%BA%BA%23" target="weibo">
 孟子义cos律政俏佳人（热度：871214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB3%E4%BA%BA%E7%A7%B0%E4%B8%8D%E8%AE%B0%E5%BE%97%E6%91%B8%E8%BF%87%E8%BD%A6%23" target="weibo">
-女生醉驾撞死3人称不记得摸过车（热度：871077）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17系列补贴后降1000元（热度：669556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%85%89%E5%9E%8B%E6%8A%91%E9%83%81%23" target="weibo">
 阳光型抑郁（热度：664450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%BE%9F%E8%B0%A3%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BC%A0%E9%97%BB%23" target="weibo">
-成毅辟谣自己不玩手机的传闻（热度：663373）
 </a>
 </li>
 
