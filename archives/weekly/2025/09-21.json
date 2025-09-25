@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758790032108,
+  "endTime": 1758792472627,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -145,6 +145,14 @@
       "onboard_time": 1758709162,
       "rank": 3,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1977731,
+      "num": 1977731,
+      "word": "王暖暖国内离婚要等到70岁",
+      "onboard_time": 1758788961,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1919538,
@@ -329,6 +337,14 @@
       "onboard_time": 1758436462,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1461700,
+      "num": 639262,
+      "word": "蓝战非被禁止关注",
+      "onboard_time": 1758789081,
+      "rank": 44,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1417324,
@@ -595,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1088102,
-      "num": 639262,
-      "word": "蓝战非被禁止关注",
-      "onboard_time": 1758789081,
-      "rank": 44,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1055714,
       "num": 430523,
       "word": "蔡国强 始祖鸟",
@@ -708,7 +716,7 @@
     },
     {
       "raw_hot": 1021832,
-      "num": 304101,
+      "num": 352275,
       "word": "重新定义了双休",
       "onboard_time": 1758786621,
       "rank": 11,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1758768500,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 836144,
+      "num": 400453,
+      "word": "蓝战非",
+      "onboard_time": 1758789321,
+      "rank": 13,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 835021,
@@ -1931,14 +1947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 587658,
-      "num": 587658,
-      "word": "王暖暖国内离婚要等到70岁",
-      "onboard_time": 1758788961,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 585086,
       "num": 549764,
       "word": "外卖杀手",
@@ -2595,12 +2603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446200,
+      "num": 351835,
+      "word": "年薪20万属于什么水平",
+      "onboard_time": 1758790641,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441966,
       "num": 435338,
       "word": "始祖鸟评论区开一键防护",
       "onboard_time": 1758418164,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441428,
+      "num": 348939,
+      "word": "我的前半生翻红",
+      "onboard_time": 1758787402,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 440416,
@@ -3008,6 +3032,14 @@
       "word": "广州伤医事件受伤医生脱离生命危险",
       "onboard_time": 1758556641,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367211,
+      "num": 367211,
+      "word": "孕妇坠崖案 离婚难",
+      "onboard_time": 1758788782,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3713,14 +3745,6 @@
       "onboard_time": 1758707183,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283933,
-      "num": 283933,
-      "word": "蓝战非",
-      "onboard_time": 1758789321,
-      "rank": 13,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 283924,
@@ -4707,6 +4731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220724,
+      "num": 220724,
+      "word": "领结婚证后入职被告知无法请婚假",
+      "onboard_time": 1758790161,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220508,
       "num": 220508,
       "word": "阿里巴巴宣布与英伟达开展合作",
@@ -4825,14 +4857,6 @@
       "onboard_time": 1758596903,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214811,
-      "num": 278394,
-      "word": "孕妇坠崖案 离婚难",
-      "onboard_time": 1758788782,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214461,
@@ -5667,6 +5691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195952,
+      "num": 195952,
+      "word": "种地吧4官宣",
+      "onboard_time": 1758791120,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195884,
       "num": 195884,
       "word": "曾舜晞一出场就知道谁官最大",
@@ -6131,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187720,
+      "num": 187720,
+      "word": "恋与深空 登顶",
+      "onboard_time": 1758790761,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187685,
       "num": 194050,
       "word": "王俊凯高干文男主",
@@ -6409,6 +6449,14 @@
       "onboard_time": 1758774621,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183235,
+      "num": 183235,
+      "word": "TES对战iG",
+      "onboard_time": 1758791600,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 183185,
@@ -6729,14 +6777,6 @@
       "onboard_time": 1758530542,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176962,
-      "num": 246108,
-      "word": "我的前半生翻红",
-      "onboard_time": 1758787402,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 176640,
@@ -7907,6 +7947,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 155821,
+      "num": 155821,
+      "word": "才发现嫦娥是这样抱玉兔的",
+      "onboard_time": 1758791241,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155693,
       "num": 155693,
       "word": "九尾流鼻涕也要吃冰淇淋",
@@ -8345,6 +8393,14 @@
       "onboard_time": 1758685460,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149816,
+      "num": 149816,
+      "word": "做堂堂正正中国人",
+      "onboard_time": 1758791541,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149553,
@@ -9051,6 +9107,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 140691,
+      "num": 140691,
+      "word": "孕妇泰国坠崖离婚案明日开庭",
+      "onboard_time": 1758790222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140679,
       "num": 174814,
       "word": "娜扎赴山海大婚造型",
@@ -9529,6 +9593,14 @@
       "onboard_time": 1758544224,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135465,
+      "num": 140223,
+      "word": "Angelababy杂志最终销量",
+      "onboard_time": 1758790941,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 135370,
@@ -10051,6 +10123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128995,
+      "num": 128995,
+      "word": "傅菁米兰时装周给粉丝带ID",
+      "onboard_time": 1758791720,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 128884,
       "num": 128362,
       "word": "以为闲聊其实是套话的行为",
@@ -10065,6 +10145,14 @@
       "onboard_time": 1758726082,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128771,
+      "num": 128771,
+      "word": "员工称张雪峰1个月后复播",
+      "onboard_time": 1758791241,
+      "rank": 35,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 128744,
@@ -10097,6 +10185,14 @@
       "onboard_time": 1758532043,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128462,
+      "num": 128462,
+      "word": "儿科大夫 基本等于兽医",
+      "onboard_time": 1758791901,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 128363,
@@ -10137,6 +10233,14 @@
       "onboard_time": 1758691701,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128028,
+      "num": 358000,
+      "word": "对话泰国坠崖孕妇王暖暖",
+      "onboard_time": 1758791420,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127929,
@@ -10595,12 +10699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122482,
+      "num": 122482,
+      "word": "养猫人才知道打轻了",
+      "onboard_time": 1758790401,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122469,
       "num": 122469,
       "word": "金晨又穿上练功服了",
       "onboard_time": 1758780742,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122447,
+      "num": 122447,
+      "word": "蓝战非1分钟广告报价150万",
+      "onboard_time": 1758791720,
+      "rank": 44,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 122387,
@@ -11403,6 +11523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112807,
+      "num": 112807,
+      "word": "消失的她原型男方家属拒绝回应",
+      "onboard_time": 1758790101,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112776,
       "num": 112776,
       "word": "罗永浩否认跑路",
@@ -11529,6 +11657,14 @@
       "onboard_time": 1758625702,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111486,
+      "num": 111486,
+      "word": "有些水果越吃越虚寒",
+      "onboard_time": 1758791000,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 111145,
@@ -12593,6 +12729,14 @@
       "onboard_time": 1758582018,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94204,
+      "num": 128069,
+      "word": "内娱竟然有团播综艺了",
+      "onboard_time": 1758792140,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 94097,
@@ -15163,6 +15307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37464,
+      "num": 279777,
+      "word": "启境汽车任命CEO",
+      "onboard_time": 1758789142,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37127,
       "num": 191160,
       "word": "FENDI大秀明星阵容",
@@ -15337,14 +15489,6 @@
       "onboard_time": 1758462627,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33982,
-      "num": 279777,
-      "word": "启境汽车任命CEO",
-      "onboard_time": 1758789142,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 33940,
@@ -16051,6 +16195,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18788,
+      "num": 358166,
+      "word": "这是我们的新疆",
+      "onboard_time": 1758768080,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18788,
+      "num": 127945,
+      "word": "姚安娜画了故宫的猫",
+      "onboard_time": 1758791360,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18713,
       "num": 25482,
       "word": "女子日料店就餐发现炸鸡有蛆虫蠕动",
@@ -16217,14 +16377,6 @@
       "onboard_time": 1758736396,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12208,
-      "num": 288866,
-      "word": "这是我们的新疆",
-      "onboard_time": 1758768080,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12035,

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758790032108,
+  "endTime": 1758792472627,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1211,6 +1211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1977731,
+      "num": 1977731,
+      "word": "王暖暖国内离婚要等到70岁",
+      "onboard_time": 1758788961,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1969826,
       "num": 1969826,
       "word": "小米17背屏",
@@ -2281,6 +2289,14 @@
       "onboard_time": 1757116518,
       "rank": 1,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 1461700,
+      "num": 639262,
+      "word": "蓝战非被禁止关注",
+      "onboard_time": 1758789081,
+      "rank": 44,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1457809,
@@ -3683,14 +3699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1088102,
-      "num": 639262,
-      "word": "蓝战非被禁止关注",
-      "onboard_time": 1758789081,
-      "rank": 44,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1085535,
       "num": 642220,
       "word": "普京与金正恩在京会谈",
@@ -4092,7 +4100,7 @@
     },
     {
       "raw_hot": 1021832,
-      "num": 304101,
+      "num": 352275,
       "word": "重新定义了双休",
       "onboard_time": 1758786621,
       "rank": 11,
@@ -5817,6 +5825,14 @@
       "onboard_time": 1757908522,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 836144,
+      "num": 400453,
+      "word": "蓝战非",
+      "onboard_time": 1758789321,
+      "rank": 13,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 835907,
@@ -9360,14 +9376,6 @@
       "word": "北京 冰河世纪",
       "onboard_time": 1757782161,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 587658,
-      "num": 587658,
-      "word": "王暖暖国内离婚要等到70岁",
-      "onboard_time": 1758788961,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -13019,6 +13027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 446200,
+      "num": 351835,
+      "word": "年薪20万属于什么水平",
+      "onboard_time": 1758790641,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445924,
       "num": 445924,
       "word": "阅兵细节值得二刷三刷",
@@ -13145,6 +13161,14 @@
       "onboard_time": 1756971622,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 441428,
+      "num": 348939,
+      "word": "我的前半生翻红",
+      "onboard_time": 1758787402,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 441359,
@@ -15937,6 +15961,14 @@
       "onboard_time": 1758119366,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 367211,
+      "num": 367211,
+      "word": "孕妇坠崖案 离婚难",
+      "onboard_time": 1758788782,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366761,
@@ -19633,14 +19665,6 @@
       "onboard_time": 1757075302,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283933,
-      "num": 283933,
-      "word": "蓝战非",
-      "onboard_time": 1758789321,
-      "rank": 13,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 283924,
@@ -24331,6 +24355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220724,
+      "num": 220724,
+      "word": "领结婚证后入职被告知无法请婚假",
+      "onboard_time": 1758790161,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220715,
       "num": 194999,
       "word": "张晚意李沁太适合打包送同个剧组了",
@@ -24913,14 +24945,6 @@
       "onboard_time": 1757236341,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214811,
-      "num": 278394,
-      "word": "孕妇坠崖案 离婚难",
-      "onboard_time": 1758788782,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214649,
@@ -28307,6 +28331,14 @@
       "category": "民生新闻,母婴育儿"
     },
     {
+      "raw_hot": 195952,
+      "num": 195952,
+      "word": "种地吧4官宣",
+      "onboard_time": 1758791120,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195944,
       "num": 404281,
       "word": "孙颖莎进入国家队10周年",
@@ -30411,6 +30443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187720,
+      "num": 187720,
+      "word": "恋与深空 登顶",
+      "onboard_time": 1758790761,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187703,
       "num": 187703,
       "word": "华晨宇跳了刀马刀马",
@@ -31505,6 +31545,14 @@
       "onboard_time": 1758774621,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183235,
+      "num": 183235,
+      "word": "TES对战iG",
+      "onboard_time": 1758791600,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 183185,
@@ -32753,14 +32801,6 @@
       "onboard_time": 1758530542,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176962,
-      "num": 246108,
-      "word": "我的前半生翻红",
-      "onboard_time": 1758787402,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 176910,
@@ -38459,6 +38499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155821,
+      "num": 155821,
+      "word": "才发现嫦娥是这样抱玉兔的",
+      "onboard_time": 1758791241,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155786,
       "num": 180821,
       "word": "全球治理走到新的十字路口",
@@ -40417,6 +40465,14 @@
       "onboard_time": 1758079222,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149816,
+      "num": 149816,
+      "word": "做堂堂正正中国人",
+      "onboard_time": 1758791541,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149765,
@@ -43939,6 +43995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140691,
+      "num": 140691,
+      "word": "孕妇泰国坠崖离婚案明日开庭",
+      "onboard_time": 1758790222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140685,
       "num": 140685,
       "word": "陆虎一开口梦回延禧攻略",
@@ -46065,6 +46129,14 @@
       "onboard_time": 1758252082,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135465,
+      "num": 140223,
+      "word": "Angelababy杂志最终销量",
+      "onboard_time": 1758790941,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 135445,
@@ -48739,6 +48811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128995,
+      "num": 128995,
+      "word": "傅菁米兰时装周给粉丝带ID",
+      "onboard_time": 1758791720,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 128955,
       "num": 128955,
       "word": "2025KPL年总赛程赛制公布",
@@ -48833,6 +48913,14 @@
       "onboard_time": 1758083304,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128771,
+      "num": 128771,
+      "word": "员工称张雪峰1个月后复播",
+      "onboard_time": 1758791241,
+      "rank": 35,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 128744,
@@ -48969,6 +49057,14 @@
       "onboard_time": 1758532043,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128462,
+      "num": 128462,
+      "word": "儿科大夫 基本等于兽医",
+      "onboard_time": 1758791901,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 128448,
@@ -49225,6 +49321,14 @@
       "onboard_time": 1758004221,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128028,
+      "num": 358000,
+      "word": "对话泰国坠崖孕妇王暖暖",
+      "onboard_time": 1758791420,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128023,
@@ -51611,6 +51715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122482,
+      "num": 122482,
+      "word": "养猫人才知道打轻了",
+      "onboard_time": 1758790401,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122479,
       "num": 192187,
       "word": "电视剧海报不再是一键复制粘贴了",
@@ -51665,6 +51777,14 @@
       "onboard_time": 1757334862,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122447,
+      "num": 122447,
+      "word": "蓝战非1分钟广告报价150万",
+      "onboard_time": 1758791720,
+      "rank": 44,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 122437,
@@ -55891,6 +56011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112807,
+      "num": 112807,
+      "word": "消失的她原型男方家属拒绝回应",
+      "onboard_time": 1758790101,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112793,
       "num": 112793,
       "word": "鲍莉郭京飞 小说里的一见钟情",
@@ -56513,6 +56641,14 @@
       "onboard_time": 1756961005,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111486,
+      "num": 111486,
+      "word": "有些水果越吃越虚寒",
+      "onboard_time": 1758791000,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 111478,
@@ -63576,6 +63712,14 @@
       "word": "范丞丞错把于洋当成佟丽娅",
       "onboard_time": 1757745085,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94204,
+      "num": 128069,
+      "word": "内娱竟然有团播综艺了",
+      "onboard_time": 1758792140,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -75963,6 +76107,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 37464,
+      "num": 279777,
+      "word": "启境汽车任命CEO",
+      "onboard_time": 1758789142,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37343,
       "num": 1115209,
       "word": "当网警遇上教师节他们是别样的教师",
@@ -76633,14 +76785,6 @@
       "onboard_time": 1757872695,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 33982,
-      "num": 279777,
-      "word": "启境汽车任命CEO",
-      "onboard_time": 1758789142,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 33964,
@@ -79323,6 +79467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18788,
+      "num": 358166,
+      "word": "这是我们的新疆",
+      "onboard_time": 1758768080,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18788,
+      "num": 127945,
+      "word": "姚安娜画了故宫的猫",
+      "onboard_time": 1758791360,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18739,
       "num": 130206,
       "word": "上海绿捷业务覆盖600多所学校",
@@ -80120,14 +80280,6 @@
       "word": "香港黄金劫案一疑犯将受审",
       "onboard_time": 1758342742,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12208,
-      "num": 288866,
-      "word": "这是我们的新疆",
-      "onboard_time": 1758768080,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
