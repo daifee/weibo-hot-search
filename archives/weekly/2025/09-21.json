@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758765037388,
+  "endTime": 1758766337916,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1664942,
+      "num": 563887,
+      "word": "韩国大量收购国内文娱产业",
+      "onboard_time": 1758760582,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1654334,
       "num": 1174996,
       "word": "猫耳 广播剧下架",
@@ -289,14 +297,6 @@
       "onboard_time": 1758692122,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1483621,
-      "num": 563887,
-      "word": "韩国大量收购国内文娱产业",
-      "onboard_time": 1758760582,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1476181,
@@ -857,6 +857,14 @@
       "onboard_time": 1758554423,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 887514,
+      "num": 563179,
+      "word": "佳偶天成",
+      "onboard_time": 1758762980,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 878926,
@@ -1571,14 +1579,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 633142,
-      "num": 563179,
-      "word": "佳偶天成",
-      "onboard_time": 1758762980,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 630584,
       "num": 316666,
       "word": "崔丽丽称老板刚被判刑她就被开除",
@@ -1641,6 +1641,14 @@
       "onboard_time": 1758423501,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607284,
+      "num": 471487,
+      "word": "爱奇艺片单",
+      "onboard_time": 1758763821,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 605459,
@@ -1987,6 +1995,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519210,
+      "num": 212729,
+      "word": "医生提醒洗鸡蛋或制造细菌炸弹",
+      "onboard_time": 1758760702,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516759,
+      "num": 516759,
+      "word": "咱家的三航母太太太帅了",
+      "onboard_time": 1758762681,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 516117,
       "num": 516117,
       "word": "预制菜国家标准",
@@ -2331,14 +2355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436299,
-      "num": 212729,
-      "word": "医生提醒洗鸡蛋或制造细菌炸弹",
-      "onboard_time": 1758760702,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 436163,
       "num": 436163,
       "word": "迪丽热巴剪彩怕彩头掉地上",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1758708502,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 424036,
-      "num": 424036,
-      "word": "咱家的三航母太太太帅了",
-      "onboard_time": 1758762681,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 423392,
@@ -2651,6 +2659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 373367,
+      "num": 373367,
+      "word": "云归喜事",
+      "onboard_time": 1758763041,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373128,
       "num": 373128,
       "word": "白鹿看粉丝无人机应援",
@@ -2697,14 +2713,6 @@
       "onboard_time": 1758725902,
       "rank": 31,
       "category": "读书作家,互联网"
-    },
-    {
-      "raw_hot": 366506,
-      "num": 366506,
-      "word": "爱奇艺片单",
-      "onboard_time": 1758763821,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 366449,
@@ -2971,6 +2979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 319380,
+      "num": 212520,
+      "word": "模仿王源博主致歉",
+      "onboard_time": 1758763881,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319330,
       "num": 319330,
       "word": "桦加沙路径",
@@ -3195,14 +3211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296475,
-      "num": 296475,
-      "word": "云归喜事",
-      "onboard_time": 1758763041,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 295642,
       "num": 386025,
       "word": "桦加沙降临前深圳现奇异天象",
@@ -3371,12 +3379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281750,
-      "num": 212520,
-      "word": "模仿王源博主致歉",
-      "onboard_time": 1758763881,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 281659,
+      "num": 281659,
+      "word": "家业",
+      "onboard_time": 1758765080,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 281260,
@@ -4707,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204798,
+      "num": 204798,
+      "word": "灵魂摆渡十年",
+      "onboard_time": 1758765680,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204183,
       "num": 204183,
       "word": "任国超怎么能争气成这样",
@@ -5019,6 +5035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196449,
+      "num": 196449,
+      "word": "逍遥",
+      "onboard_time": 1758765080,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196273,
       "num": 196273,
       "word": "南天门计划",
@@ -5267,6 +5291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191377,
+      "num": 191377,
+      "word": "00后老板请上百名员工搂席",
+      "onboard_time": 1758765080,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191272,
       "num": 191272,
       "word": "福建舰",
@@ -5417,6 +5449,14 @@
       "onboard_time": 1758695722,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187964,
+      "num": 175266,
+      "word": "桃黑黑为辩积报仇",
+      "onboard_time": 1758763221,
+      "rank": 31,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 187958,
@@ -6345,14 +6385,6 @@
       "onboard_time": 1758696142,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168349,
-      "num": 168349,
-      "word": "桃黑黑为辩积报仇",
-      "onboard_time": 1758763221,
-      "rank": 31,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 168189,
@@ -9451,6 +9483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123070,
+      "num": 180380,
+      "word": "新疆庆祝大会",
+      "onboard_time": 1758766100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122711,
       "num": 122711,
       "word": "吴易昺vs梅德韦杰夫",
@@ -9884,7 +9924,7 @@
     },
     {
       "raw_hot": 117436,
-      "num": 157382,
+      "num": 204546,
       "word": "中国人的河山不仅是风景更是信念",
       "onboard_time": 1758764899,
       "rank": 32,
@@ -10507,6 +10547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109083,
+      "num": 109083,
+      "word": "始祖鸟域名纠纷",
+      "onboard_time": 1758762681,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108871,
       "num": 173776,
       "word": "Gucci时装周",
@@ -11123,6 +11171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97930,
+      "num": 369424,
+      "word": "新疆的美好数不完",
+      "onboard_time": 1758763940,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97471,
       "num": 120647,
       "word": "炫富清华学霸或面临最高60年监禁",
@@ -11209,6 +11265,14 @@
       "onboard_time": 1758591141,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96189,
+      "num": 96189,
+      "word": "俄罗斯回应特朗普纸老虎批评",
+      "onboard_time": 1758765620,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96103,
@@ -11401,6 +11465,14 @@
       "onboard_time": 1758386361,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92319,
+      "num": 175472,
+      "word": "纽约城0比4迈阿密国际",
+      "onboard_time": 1758765440,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 92089,
@@ -11683,6 +11755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87080,
+      "num": 201881,
+      "word": "梅西梅开二度",
+      "onboard_time": 1758765440,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86731,
       "num": 106359,
       "word": "樊振东三颗白心回应黎子安",
@@ -11755,6 +11835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 85039,
+      "num": 136257,
+      "word": "rihanna晒三胎女儿",
+      "onboard_time": 1758765561,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84743,
       "num": 555642,
       "word": "花莲堰塞湖溃堤冲垮桥梁直冲市区",
@@ -11825,14 +11913,6 @@
       "onboard_time": 1758631762,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 83538,
-      "num": 369424,
-      "word": "新疆的美好数不完",
-      "onboard_time": 1758763940,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 83438,
@@ -13809,6 +13889,14 @@
       "onboard_time": 1758425963,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33713,
+      "num": 137674,
+      "word": "吴尊Max第一次父子中网圆梦",
+      "onboard_time": 1758765561,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 33543,

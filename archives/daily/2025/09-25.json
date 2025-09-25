@@ -1,9 +1,9 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758765037388,
+  "endTime": 1758766337916,
   "band_list": [
     {
-      "raw_hot": 1483621,
+      "raw_hot": 1664942,
       "num": 563887,
       "word": "韩国大量收购国内文娱产业",
       "onboard_time": 1758760582,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 887514,
+      "num": 563179,
+      "word": "佳偶天成",
+      "onboard_time": 1758762980,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 741065,
       "num": 1096051,
       "word": "广东大部分被台风桦加沙覆盖",
@@ -67,20 +75,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 633142,
-      "num": 563179,
-      "word": "佳偶天成",
-      "onboard_time": 1758762980,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 608745,
       "num": 608745,
       "word": "桦加沙登陆广东",
       "onboard_time": 1758706102,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 607284,
+      "num": 471487,
+      "word": "爱奇艺片单",
+      "onboard_time": 1758763821,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 589493,
@@ -107,15 +115,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471003,
-      "num": 471003,
-      "word": "管家爆英女王去世前患骨癌",
-      "onboard_time": 1758721643,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 436299,
+      "raw_hot": 519210,
       "num": 212729,
       "word": "医生提醒洗鸡蛋或制造细菌炸弹",
       "onboard_time": 1758760702,
@@ -123,12 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424036,
-      "num": 424036,
+      "raw_hot": 516759,
+      "num": 516759,
       "word": "咱家的三航母太太太帅了",
       "onboard_time": 1758762681,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 471003,
+      "num": 471003,
+      "word": "管家爆英女王去世前患骨癌",
+      "onboard_time": 1758721643,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 419784,
@@ -171,6 +179,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 373367,
+      "num": 373367,
+      "word": "云归喜事",
+      "onboard_time": 1758763041,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369003,
       "num": 295012,
       "word": "洪尧疑似删除和吴谨言官宣结婚博",
@@ -187,20 +203,12 @@
       "category": "读书作家,互联网"
     },
     {
-      "raw_hot": 366506,
-      "num": 366506,
-      "word": "爱奇艺片单",
-      "onboard_time": 1758763821,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 296475,
-      "num": 296475,
-      "word": "云归喜事",
-      "onboard_time": 1758763041,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 319380,
+      "num": 212520,
+      "word": "模仿王源博主致歉",
+      "onboard_time": 1758763881,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 287821,
@@ -227,12 +235,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 281750,
-      "num": 212520,
-      "word": "模仿王源博主致歉",
-      "onboard_time": 1758763881,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 281659,
+      "num": 281659,
+      "word": "家业",
+      "onboard_time": 1758765080,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 276420,
@@ -339,6 +347,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204798,
+      "num": 204798,
+      "word": "灵魂摆渡十年",
+      "onboard_time": 1758765680,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196449,
+      "num": 196449,
+      "word": "逍遥",
+      "onboard_time": 1758765080,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194794,
       "num": 194794,
       "word": "家业制墨文化预告",
@@ -361,6 +385,22 @@
       "onboard_time": 1758761482,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191377,
+      "num": 191377,
+      "word": "00后老板请上百名员工搂席",
+      "onboard_time": 1758765080,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187964,
+      "num": 175266,
+      "word": "桃黑黑为辩积报仇",
+      "onboard_time": 1758763221,
+      "rank": 31,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 187753,
@@ -395,14 +435,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 168349,
-      "num": 168349,
-      "word": "桃黑黑为辩积报仇",
-      "onboard_time": 1758763221,
-      "rank": 31,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 151201,
       "num": 151201,
       "word": "伊能静上台仍然是女明星",
@@ -435,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123070,
+      "num": 180380,
+      "word": "新疆庆祝大会",
+      "onboard_time": 1758766100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119217,
       "num": 119217,
       "word": "田曦薇让粉丝从树上下来",
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 117436,
-      "num": 157382,
+      "num": 204546,
       "word": "中国人的河山不仅是风景更是信念",
       "onboard_time": 1758764899,
       "rank": 32,
@@ -472,6 +512,14 @@
       "word": "台湾花莲溃坝惨案",
       "onboard_time": 1758716422,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109083,
+      "num": 109083,
+      "word": "始祖鸟域名纠纷",
+      "onboard_time": 1758762681,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -547,11 +595,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97930,
+      "num": 369424,
+      "word": "新疆的美好数不完",
+      "onboard_time": 1758763940,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96304,
       "num": 96304,
       "word": "乌克兰叙利亚恢复外交关系",
       "onboard_time": 1758764360,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 96189,
+      "num": 96189,
+      "word": "俄罗斯回应特朗普纸老虎批评",
+      "onboard_time": 1758765620,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -569,6 +633,14 @@
       "onboard_time": 1758703102,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92319,
+      "num": 175472,
+      "word": "纽约城0比4迈阿密国际",
+      "onboard_time": 1758765440,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 90274,
@@ -619,6 +691,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 87080,
+      "num": 201881,
+      "word": "梅西梅开二度",
+      "onboard_time": 1758765440,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86627,
       "num": 86627,
       "word": "张维伊想和董璇把钱放一起",
@@ -627,20 +707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85039,
+      "num": 136257,
+      "word": "rihanna晒三胎女儿",
+      "onboard_time": 1758765561,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84364,
       "num": 84364,
       "word": "张碧晨获年度内地歌手",
       "onboard_time": 1758728602,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83538,
-      "num": 369424,
-      "word": "新疆的美好数不完",
-      "onboard_time": 1758763940,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 79321,
@@ -811,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33713,
+      "num": 137674,
+      "word": "吴尊Max第一次父子中网圆梦",
+      "onboard_time": 1758765561,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 31114,
       "num": 43242,
       "word": "檀健次上班被狗遛",
@@ -931,20 +1019,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 4310,
+      "num": 698483,
+      "word": "一首歌祝福新疆",
+      "onboard_time": 1758719181,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 3987,
       "num": 25214,
       "word": "减肥的红利是缓慢释放的",
       "onboard_time": 1758751274,
       "rank": 41,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 3199,
-      "num": 698483,
-      "word": "一首歌祝福新疆",
-      "onboard_time": 1758719181,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

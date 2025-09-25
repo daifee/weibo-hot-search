@@ -1,0 +1,410 @@
+{
+  "runTime": 1758766337916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 535127,
+        "num": 1085620,
+        "word": "广东大部分被台风桦加沙覆盖",
+        "onboard_time": 1758741193,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 516759,
+        "num": 516759,
+        "word": "咱家的三航母太太太帅了",
+        "onboard_time": 1758762681,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4310,
+        "num": 512725,
+        "word": "一首歌祝福新疆",
+        "onboard_time": 1758719181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1664942,
+        "num": 488967,
+        "word": "韩国大量收购国内文娱产业",
+        "onboard_time": 1758760582,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 887514,
+        "num": 482632,
+        "word": "佳偶天成",
+        "onboard_time": 1758762980,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607284,
+        "num": 471487,
+        "word": "爱奇艺片单",
+        "onboard_time": 1758763821,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459739,
+        "num": 459739,
+        "word": "猫耳 广播剧下架",
+        "onboard_time": 1758725483,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 373367,
+        "num": 373367,
+        "word": "云归喜事",
+        "onboard_time": 1758763041,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361449,
+        "num": 361449,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 329896,
+        "num": 329896,
+        "word": "张维伊的表情",
+        "onboard_time": 1758730101,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1319886,
+        "num": 322187,
+        "word": "洪尧回应删除官宣博文",
+        "onboard_time": 1758762561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303454,
+        "num": 303454,
+        "word": "卖淫女子为躲检查意外坠亡",
+        "onboard_time": 1758724042,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288516,
+        "num": 288516,
+        "word": "雷军",
+        "onboard_time": 1758729862,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281659,
+        "num": 281659,
+        "word": "家业",
+        "onboard_time": 1758765080,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262380,
+        "num": 262380,
+        "word": "北京大学教授俞孔坚在巴西坠机遇难",
+        "onboard_time": 1758720563,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231570,
+        "num": 231570,
+        "word": "陆虎庆祝与嘘嘘在一起10周年",
+        "onboard_time": 1758757160,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211381,
+        "num": 211381,
+        "word": "白鹿米兰街拍一整个权威",
+        "onboard_time": 1758733817,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204798,
+        "num": 204798,
+        "word": "灵魂摆渡十年",
+        "onboard_time": 1758765680,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37201,
+        "num": 204546,
+        "word": "中国人的河山不仅是风景更是信念",
+        "onboard_time": 1758764899,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87080,
+        "num": 201881,
+        "word": "梅西梅开二度",
+        "onboard_time": 1758765440,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519210,
+        "num": 200027,
+        "word": "医生提醒洗鸡蛋或制造细菌炸弹",
+        "onboard_time": 1758760702,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400950,
+        "num": 198878,
+        "word": "月嫂下户前偷偷给宝宝塞红包",
+        "onboard_time": 1758756019,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319380,
+        "num": 197840,
+        "word": "模仿王源博主致歉",
+        "onboard_time": 1758763881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196449,
+        "num": 196449,
+        "word": "逍遥",
+        "onboard_time": 1758765080,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246447,
+        "num": 195970,
+        "word": "刘宇宁戴佩妮十指紧扣",
+        "onboard_time": 1758725122,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204867,
+        "num": 194548,
+        "word": "苹果回应iPhone17Pro划痕",
+        "onboard_time": 1758759503,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191377,
+        "num": 191377,
+        "word": "00后老板请上百名员工搂席",
+        "onboard_time": 1758765080,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123070,
+        "num": 180380,
+        "word": "新疆庆祝大会",
+        "onboard_time": 1758766100,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178373,
+        "num": 178373,
+        "word": "许我耀眼",
+        "onboard_time": 1758720743,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92319,
+        "num": 175472,
+        "word": "纽约城0比4迈阿密国际",
+        "onboard_time": 1758765440,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187964,
+        "num": 175266,
+        "word": "桃黑黑为辩积报仇",
+        "onboard_time": 1758763221,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 173947,
+        "num": 173947,
+        "word": "向太说刘亦菲圈内口碑真的很好",
+        "onboard_time": 1758718102,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171740,
+        "num": 171740,
+        "word": "15斤的小猫把床睡塌了",
+        "onboard_time": 1758759321,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158924,
+        "num": 158924,
+        "word": "深圳比腰粗的大树被连根拔起",
+        "onboard_time": 1758760942,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158181,
+        "num": 158181,
+        "word": "澳门海水已涌入",
+        "onboard_time": 1758761482,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157999,
+        "num": 157999,
+        "word": "家业制墨文化预告",
+        "onboard_time": 1758765020,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152755,
+        "num": 152755,
+        "word": "洪尧疑似删除和吴谨言官宣结婚博",
+        "onboard_time": 1758756859,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141430,
+        "num": 141430,
+        "word": "俞孔坚坠亡前最后记录的影像曝光",
+        "onboard_time": 1758729141,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33713,
+        "num": 137674,
+        "word": "吴尊Max第一次父子中网圆梦",
+        "onboard_time": 1758765561,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 85039,
+        "num": 136257,
+        "word": "rihanna晒三胎女儿",
+        "onboard_time": 1758765561,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135226,
+        "num": 135226,
+        "word": "韩媒曝光金建希庭审画面",
+        "onboard_time": 1758759261,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127742,
+        "num": 127742,
+        "word": "王源周深又在微博音乐盛典闯祸了",
+        "onboard_time": 1758730700,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117177,
+        "num": 117177,
+        "word": "伊能静上台仍然是女明星",
+        "onboard_time": 1758756019,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114105,
+        "num": 114105,
+        "word": "吹风机是不花钱的理疗仪",
+        "onboard_time": 1758754220,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 109083,
+        "num": 109083,
+        "word": "始祖鸟域名纠纷",
+        "onboard_time": 1758762681,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103854,
+        "num": 103854,
+        "word": "胖东来宣布刑释人员全部录取",
+        "onboard_time": 1758718642,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103449,
+        "num": 103449,
+        "word": "存款20万先买车还是先买房",
+        "onboard_time": 1758721882,
+        "rank": 46,
+        "category": "议题讨论,汽车"
+      },
+      {
+        "raw_hot": 97930,
+        "num": 97930,
+        "word": "新疆的美好数不完",
+        "onboard_time": 1758763940,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96189,
+        "num": 96189,
+        "word": "俄罗斯回应特朗普纸老虎批评",
+        "onboard_time": 1758765620,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91894,
+        "num": 91894,
+        "word": "一人一句祝福新疆",
+        "onboard_time": 1758760761,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆70年辉煌成就#"
+    }
+  }
+}
