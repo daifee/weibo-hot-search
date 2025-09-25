@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758826116532,
+  "endTime": 1758828090541,
   "band_list": [
     {
       "raw_hot": 936924,
@@ -531,12 +531,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16286,
+      "raw_hot": 17062,
       "num": 31328,
       "word": "刘宇宁体面二十多年被折的彻彻底底",
       "onboard_time": 1758826034,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13600,
+      "num": 27600,
+      "word": "85岁84岁老两口每天升国旗",
+      "onboard_time": 1758826455,
+      "rank": 48,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
