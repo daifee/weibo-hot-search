@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758792472627,
+  "endTime": 1758793246210,
   "band_list": [
     {
       "raw_hot": 2128728,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1066434,
+      "num": 400453,
+      "word": "蓝战非",
+      "onboard_time": 1758789321,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1055102,
       "num": 285871,
       "word": "黄子韬婚后发福",
@@ -219,14 +227,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 836144,
-      "num": 400453,
-      "word": "蓝战非",
-      "onboard_time": 1758789321,
-      "rank": 13,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 788248,
       "num": 788248,
       "word": "梁靖崑入职北京电影学院",
@@ -320,6 +320,14 @@
       "word": "小城良方 肖战",
       "onboard_time": 1758785601,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 577211,
+      "num": 577211,
+      "word": "我的前半生翻红",
+      "onboard_time": 1758787402,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -427,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441428,
-      "num": 348939,
-      "word": "我的前半生翻红",
-      "onboard_time": 1758787402,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 419784,
       "num": 382810,
       "word": "向太说刘亦菲圈内口碑真的很好",
@@ -505,6 +505,14 @@
       "onboard_time": 1758711022,
       "rank": 12,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 374507,
+      "num": 374507,
+      "word": "领结婚证后入职被告知无法请婚假",
+      "onboard_time": 1758790161,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373367,
@@ -803,14 +811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220724,
-      "num": 220724,
-      "word": "领结婚证后入职被告知无法请婚假",
-      "onboard_time": 1758790161,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216466,
       "num": 216466,
       "word": "王源 好听",
@@ -865,6 +865,14 @@
       "onboard_time": 1758759321,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210259,
+      "num": 210259,
+      "word": "梁婷发长文谈肖战成毅",
+      "onboard_time": 1758792859,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 208574,
@@ -1003,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195880,
+      "num": 195880,
+      "word": "恋与深空 登顶",
+      "onboard_time": 1758790761,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195096,
       "num": 195096,
       "word": "回家火车票 候补",
@@ -1091,20 +1107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187720,
-      "num": 187720,
-      "word": "恋与深空 登顶",
-      "onboard_time": 1758790761,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 186690,
       "num": 213651,
       "word": "百妖谱",
       "onboard_time": 1758770901,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184653,
+      "num": 144640,
+      "word": "孙颖莎携手好友迪亚兹亮相抽签",
+      "onboard_time": 1758792561,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 184328,
@@ -1235,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170451,
+      "num": 302337,
+      "word": "做堂堂正正中国人",
+      "onboard_time": 1758791541,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 169709,
       "num": 169709,
       "word": "张雪峰多个平台账号被禁止关注",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1758773001,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167733,
+      "num": 167733,
+      "word": "苏新皓引发支气管炎",
+      "onboard_time": 1758792621,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 167546,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1758784761,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162456,
+      "num": 162456,
+      "word": "员工称张雪峰1个月后复播",
+      "onboard_time": 1758791241,
+      "rank": 35,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 161371,
@@ -1379,20 +1419,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149816,
-      "num": 149816,
-      "word": "做堂堂正正中国人",
-      "onboard_time": 1758791541,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 149553,
       "num": 149553,
       "word": "被王扁恶搞王源方为何还不维权",
       "onboard_time": 1758758662,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149432,
+      "num": 149432,
+      "word": "孕妇泰国坠崖离婚案明日开庭",
+      "onboard_time": 1758790222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148098,
+      "num": 149606,
+      "word": "Angelababy杂志最终销量",
+      "onboard_time": 1758790941,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 145849,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1758782660,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140691,
-      "num": 140691,
-      "word": "孕妇泰国坠崖离婚案明日开庭",
-      "onboard_time": 1758790222,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139533,
@@ -1515,14 +1555,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 135465,
-      "num": 140223,
-      "word": "Angelababy杂志最终销量",
-      "onboard_time": 1758790941,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 135269,
       "num": 135269,
       "word": "奇瑞汽车港股上市",
@@ -1571,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132159,
+      "num": 132159,
+      "word": "蓝战非1分钟广告报价150万",
+      "onboard_time": 1758791720,
+      "rank": 44,
+      "category": "网红,游戏"
+    },
+    {
       "raw_hot": 131001,
       "num": 131001,
       "word": "有戏",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1758764841,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129857,
+      "num": 129857,
+      "word": "黎深终末之神",
+      "onboard_time": 1758792561,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 129354,
@@ -1603,14 +1651,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 128771,
-      "num": 128771,
-      "word": "员工称张雪峰1个月后复播",
-      "onboard_time": 1758791241,
-      "rank": 35,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 128462,
       "num": 128462,
       "word": "儿科大夫 基本等于兽医",
@@ -1619,7 +1659,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128028,
+      "raw_hot": 128285,
       "num": 358000,
       "word": "对话泰国坠崖孕妇王暖暖",
       "onboard_time": 1758791420,
@@ -1633,6 +1673,14 @@
       "onboard_time": 1758780200,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126168,
+      "num": 126168,
+      "word": "有些水果越吃越虚寒",
+      "onboard_time": 1758791000,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125405,
@@ -1665,14 +1713,6 @@
       "onboard_time": 1758780742,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122447,
-      "num": 122447,
-      "word": "蓝战非1分钟广告报价150万",
-      "onboard_time": 1758791720,
-      "rank": 44,
-      "category": "网红,游戏"
     },
     {
       "raw_hot": 122070,
@@ -1779,14 +1819,6 @@
       "category": "数码,财经"
     },
     {
-      "raw_hot": 111486,
-      "num": 111486,
-      "word": "有些水果越吃越虚寒",
-      "onboard_time": 1758791000,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111128,
       "num": 111128,
       "word": "起猛了小王换头像了",
@@ -1843,6 +1875,14 @@
       "category": "议题讨论,汽车"
     },
     {
+      "raw_hot": 106788,
+      "num": 106788,
+      "word": "陈梦工作游玩两不误",
+      "onboard_time": 1758792800,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106582,
       "num": 105101,
       "word": "米兰时装周",
@@ -1875,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105016,
+      "num": 105016,
+      "word": "13岁少年涉嫌用手榴弹炸以使馆被捕",
+      "onboard_time": 1758792981,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104959,
       "num": 104959,
       "word": "雷军50来岁还是帅的太权威了",
@@ -1897,6 +1945,22 @@
       "onboard_time": 1758708323,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 104559,
+      "num": 104559,
+      "word": "鸡排哥在事业上升期公布秘方",
+      "onboard_time": 1758793222,
+      "rank": 48,
+      "category": "网红,美食"
+    },
+    {
+      "raw_hot": 101091,
+      "num": 128069,
+      "word": "内娱竟然有团播综艺了",
+      "onboard_time": 1758792140,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 100928,
@@ -1985,14 +2049,6 @@
       "onboard_time": 1758715882,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 94204,
-      "num": 128069,
-      "word": "内娱竟然有团播综艺了",
-      "onboard_time": 1758792140,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 92384,
@@ -2451,6 +2507,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 41486,
+      "num": 279777,
+      "word": "启境汽车任命CEO",
+      "onboard_time": 1758789142,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 39448,
       "num": 227723,
       "word": "俞孔坚坠机遇难现场曝光",
@@ -2465,14 +2529,6 @@
       "onboard_time": 1758771441,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37464,
-      "num": 279777,
-      "word": "启境汽车任命CEO",
-      "onboard_time": 1758789142,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 37052,
@@ -2521,6 +2577,14 @@
       "onboard_time": 1758773841,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32212,
+      "num": 114713,
+      "word": "王彦霖过年又回不了家了",
+      "onboard_time": 1758792621,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 31925,
@@ -2667,7 +2731,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 18788,
+      "raw_hot": 19224,
       "num": 358166,
       "word": "这是我们的新疆",
       "onboard_time": 1758768080,

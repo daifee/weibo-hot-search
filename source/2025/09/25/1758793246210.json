@@ -1,0 +1,410 @@
+{
+  "runTime": 1758793246210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1961163,
+        "num": 1961163,
+        "word": "王暖暖国内离婚要等到70岁",
+        "onboard_time": 1758788961,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625735,
+        "num": 625735,
+        "word": "皖K888888被查系AI合成",
+        "onboard_time": 1758784582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25118,
+        "num": 590994,
+        "word": "一人一句祝福新疆",
+        "onboard_time": 1758760761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791106,
+        "num": 588334,
+        "word": "纤维粒被抓",
+        "onboard_time": 1758784342,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 577211,
+        "num": 577211,
+        "word": "我的前半生翻红",
+        "onboard_time": 1758787402,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374507,
+        "num": 374507,
+        "word": "领结婚证后入职被告知无法请婚假",
+        "onboard_time": 1758790161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556884,
+        "num": 345946,
+        "word": "五哈6 鹿晗",
+        "onboard_time": 1758785601,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309032,
+        "num": 309032,
+        "word": "孕妇坠崖案 离婚难",
+        "onboard_time": 1758788782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19224,
+        "num": 308066,
+        "word": "这是我们的新疆",
+        "onboard_time": 1758768080,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170451,
+        "num": 302337,
+        "word": "做堂堂正正中国人",
+        "onboard_time": 1758791541,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1316317,
+        "num": 297990,
+        "word": "蓝战非被禁止关注",
+        "onboard_time": 1758789081,
+        "rank": 10,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 1066434,
+        "num": 294807,
+        "word": "蓝战非",
+        "onboard_time": 1758789321,
+        "rank": 11,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 536800,
+        "num": 289497,
+        "word": "重新定义了双休",
+        "onboard_time": 1758786621,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375549,
+        "num": 286579,
+        "word": "年薪20万属于什么水平",
+        "onboard_time": 1758790641,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284023,
+        "num": 284023,
+        "word": "小城良方 肖战",
+        "onboard_time": 1758785601,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279092,
+        "num": 279092,
+        "word": "小米非常非常缺人",
+        "onboard_time": 1758783921,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 244179,
+        "num": 244179,
+        "word": "粉丝爆料杨幂无缘金鸡奖",
+        "onboard_time": 1758783561,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214567,
+        "num": 214567,
+        "word": "警方通报男子驾车造浪冲坏店门",
+        "onboard_time": 1758788841,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 210259,
+        "num": 210259,
+        "word": "梁婷发长文谈肖战成毅",
+        "onboard_time": 1758792859,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41486,
+        "num": 201381,
+        "word": "启境汽车任命CEO",
+        "onboard_time": 1758789142,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195880,
+        "num": 195880,
+        "word": "恋与深空 登顶",
+        "onboard_time": 1758790761,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195734,
+        "num": 195734,
+        "word": "刘耀文外务",
+        "onboard_time": 1758788002,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167733,
+        "num": 167733,
+        "word": "苏新皓引发支气管炎",
+        "onboard_time": 1758792621,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162456,
+        "num": 162456,
+        "word": "员工称张雪峰1个月后复播",
+        "onboard_time": 1758791241,
+        "rank": 23,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 161700,
+        "num": 161700,
+        "word": "种地吧4官宣",
+        "onboard_time": 1758791120,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151250,
+        "num": 151250,
+        "word": "唐朝诡事录",
+        "onboard_time": 1758784822,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148098,
+        "num": 149606,
+        "word": "Angelababy杂志最终销量",
+        "onboard_time": 1758790941,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 149432,
+        "num": 149432,
+        "word": "孕妇泰国坠崖离婚案明日开庭",
+        "onboard_time": 1758790222,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148175,
+        "num": 148175,
+        "word": "TES对战iG",
+        "onboard_time": 1758791600,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122075,
+        "num": 145149,
+        "word": "理想汽车 易烊千玺",
+        "onboard_time": 1758775403,
+        "rank": 29,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 184653,
+        "num": 144640,
+        "word": "孙颖莎携手好友迪亚兹亮相抽签",
+        "onboard_time": 1758792561,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143580,
+        "num": 143580,
+        "word": "才发现嫦娥是这样抱玉兔的",
+        "onboard_time": 1758791241,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132159,
+        "num": 132159,
+        "word": "蓝战非1分钟广告报价150万",
+        "onboard_time": 1758791720,
+        "rank": 32,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 129857,
+        "num": 129857,
+        "word": "黎深终末之神",
+        "onboard_time": 1758792561,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128285,
+        "num": 128285,
+        "word": "对话泰国坠崖孕妇王暖暖",
+        "onboard_time": 1758791420,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126168,
+        "num": 126168,
+        "word": "有些水果越吃越虚寒",
+        "onboard_time": 1758791000,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119970,
+        "num": 119970,
+        "word": "以色列核设施大量绝密文件被公开",
+        "onboard_time": 1758785002,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114862,
+        "num": 114862,
+        "word": "儿科大夫 基本等于兽医",
+        "onboard_time": 1758791901,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101091,
+        "num": 114716,
+        "word": "内娱竟然有团播综艺了",
+        "onboard_time": 1758792140,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32212,
+        "num": 114713,
+        "word": "王彦霖过年又回不了家了",
+        "onboard_time": 1758792621,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114713,
+        "num": 114712,
+        "word": "被连衣裙背刺了",
+        "onboard_time": 1758789561,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111982,
+        "num": 111982,
+        "word": "男子台风天当街开车冲浪被行拘10日",
+        "onboard_time": 1758786082,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110932,
+        "num": 110932,
+        "word": "养猫人才知道打轻了",
+        "onboard_time": 1758790401,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108635,
+        "num": 108635,
+        "word": "王一博 11亩香菜地",
+        "onboard_time": 1758783200,
+        "rank": 43,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 107739,
+        "num": 107739,
+        "word": "汪苏泷也受不了冷暴力",
+        "onboard_time": 1758788002,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107007,
+        "num": 107007,
+        "word": "国防部回应福建舰何时入列",
+        "onboard_time": 1758787163,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106788,
+        "num": 106788,
+        "word": "陈梦工作游玩两不误",
+        "onboard_time": 1758792800,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105016,
+        "num": 105016,
+        "word": "13岁少年涉嫌用手榴弹炸以使馆被捕",
+        "onboard_time": 1758792981,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104559,
+        "num": 104559,
+        "word": "鸡排哥在事业上升期公布秘方",
+        "onboard_time": 1758793222,
+        "rank": 48,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 101283,
+        "num": 101283,
+        "word": "2025湾区升明月阵容官宣",
+        "onboard_time": 1758781042,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆庆祝大会#"
+    }
+  }
+}
