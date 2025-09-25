@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758777897899,
+  "endTime": 1758778878644,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3227,6 +3227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1187607,
+      "num": 364021,
+      "word": "理想汽车 易烊千玺",
+      "onboard_time": 1758775403,
+      "rank": 5,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 1184918,
       "num": 499319,
       "word": "始祖鸟国内外价格对比",
@@ -3505,14 +3513,6 @@
       "onboard_time": 1757377342,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1128345,
-      "num": 364021,
-      "word": "理想汽车 易烊千玺",
-      "onboard_time": 1758775403,
-      "rank": 5,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 1127699,
@@ -4073,6 +4073,14 @@
       "onboard_time": 1757247981,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1016521,
+      "num": 333908,
+      "word": "汪苏泷生日和俊辰一起逛街",
+      "onboard_time": 1758776003,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1014050,
@@ -7739,14 +7747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 679876,
-      "num": 333908,
-      "word": "汪苏泷生日和俊辰一起逛街",
-      "onboard_time": 1758776003,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 678987,
       "num": 678987,
       "word": "网红罗几因车祸不幸遇难",
@@ -8091,6 +8091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 656633,
+      "num": 385494,
+      "word": "理想汽车首位代言人",
+      "onboard_time": 1758774922,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 656493,
       "num": 501623,
       "word": "唐嫣 中老年套装",
@@ -8177,14 +8185,6 @@
       "onboard_time": 1758207504,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 651629,
-      "num": 385494,
-      "word": "理想汽车首位代言人",
-      "onboard_time": 1758774922,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 650712,
@@ -8937,6 +8937,14 @@
       "onboard_time": 1757050342,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 604174,
+      "num": 324359,
+      "word": "薛佳凝1分钟视频报价20万",
+      "onboard_time": 1758776542,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 604041,
@@ -10163,6 +10171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545648,
+      "num": 376081,
+      "word": "遵义提级调查投8亿污水厂遭接管",
+      "onboard_time": 1758775642,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 545532,
       "num": 545532,
       "word": "卢远王乐晨爆灯",
@@ -11233,6 +11249,14 @@
       "onboard_time": 1757395222,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 502430,
+      "num": 308186,
+      "word": "阳江受损严重",
+      "onboard_time": 1758776362,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 502370,
@@ -15363,14 +15387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 376081,
-      "num": 376081,
-      "word": "遵义提级调查投8亿污水厂遭接管",
-      "onboard_time": 1758775642,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 375831,
       "num": 383203,
       "word": "中英日三语种主题片胜利",
@@ -16393,6 +16409,14 @@
       "onboard_time": 1757057061,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 350821,
+      "num": 301199,
+      "word": "狐妖王权篇万剑穿心名场面来了",
+      "onboard_time": 1758776242,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 350760,
@@ -18139,14 +18163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 310557,
-      "num": 310557,
-      "word": "薛佳凝1分钟视频报价20万",
-      "onboard_time": 1758776542,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310510,
       "num": 310510,
       "word": "鹿晗膝盖疑似流血",
@@ -19715,6 +19731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280022,
+      "num": 255327,
+      "word": "沈佳润有效出道",
+      "onboard_time": 1758778041,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 279734,
       "num": 279734,
       "word": "2026考研报名",
@@ -20275,14 +20299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270858,
-      "num": 301199,
-      "word": "狐妖王权篇万剑穿心名场面来了",
-      "onboard_time": 1758776242,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270766,
       "num": 270766,
       "word": "金晨蝴蝶翅膀是手绘的",
@@ -20329,6 +20345,14 @@
       "onboard_time": 1757389341,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 270103,
+      "num": 270103,
+      "word": "园方回应老虎产下死胎后将其吃掉",
+      "onboard_time": 1758774442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270077,
@@ -21811,14 +21835,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 246425,
-      "num": 228307,
-      "word": "园方回应老虎产下死胎后将其吃掉",
-      "onboard_time": 1758774442,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246375,
       "num": 246375,
       "word": "嘎子哥谢孟伟原为领衔主演",
@@ -22785,6 +22801,14 @@
       "onboard_time": 1757986402,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 235123,
+      "num": 266809,
+      "word": "法院回应警车在150公里外的山姆购物",
+      "onboard_time": 1758777680,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234978,
@@ -24001,14 +24025,6 @@
       "onboard_time": 1757991083,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221457,
-      "num": 221457,
-      "word": "阳江受损严重",
-      "onboard_time": 1758776362,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221454,
@@ -28563,6 +28579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193840,
+      "num": 193840,
+      "word": "关晓彤在王牌一整个误闯癫家",
+      "onboard_time": 1758777861,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193826,
       "num": 180915,
       "word": "王楚钦我们依旧是我们",
@@ -28777,14 +28801,6 @@
       "onboard_time": 1757855965,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193170,
-      "num": 193170,
-      "word": "关晓彤在王牌一整个误闯癫家",
-      "onboard_time": 1758777861,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 193118,
@@ -30971,6 +30987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184328,
+      "num": 198370,
+      "word": "梅婷12岁女儿身高",
+      "onboard_time": 1758777801,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184150,
       "num": 197346,
       "word": "u23",
@@ -32049,14 +32073,6 @@
       "onboard_time": 1758119303,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179230,
-      "num": 179230,
-      "word": "法院回应警车在150公里外的山姆购物",
-      "onboard_time": 1758777680,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179220,
@@ -33283,6 +33299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173234,
+      "num": 173234,
+      "word": "谭松韵侯明昊新剧误闯妖家",
+      "onboard_time": 1758778461,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173231,
       "num": 173231,
       "word": "ACT对战RC",
@@ -34217,6 +34241,14 @@
       "onboard_time": 1757999185,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169191,
+      "num": 197373,
+      "word": "女生醉驾撞死3人称不记得摸过车",
+      "onboard_time": 1758776602,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169140,
@@ -39169,6 +39201,14 @@
       "onboard_time": 1758256405,
       "rank": 49,
       "category": "电竞,剧集"
+    },
+    {
+      "raw_hot": 152387,
+      "num": 152387,
+      "word": "一个吃的没空生气一个生气的没空吃",
+      "onboard_time": 1758778222,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 152381,
@@ -44563,6 +44603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137826,
+      "num": 137826,
+      "word": "空腹爬楼教程",
+      "onboard_time": 1758778461,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 137806,
       "num": 325370,
       "word": "小米开盘跌1.5%",
@@ -45201,6 +45249,14 @@
       "onboard_time": 1756701021,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136434,
+      "num": 136434,
+      "word": "雷军回应小米受到质疑",
+      "onboard_time": 1758778222,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 136425,
@@ -47265,14 +47321,6 @@
       "onboard_time": 1757768245,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131153,
-      "num": 198370,
-      "word": "梅婷12岁女儿身高",
-      "onboard_time": 1758777801,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 131143,
@@ -51977,14 +52025,6 @@
       "onboard_time": 1757313323,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 120544,
-      "num": 197373,
-      "word": "女生醉驾撞死3人称不记得摸过车",
-      "onboard_time": 1758776602,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120538,
@@ -58628,7 +58668,7 @@
     },
     {
       "raw_hot": 105306,
-      "num": 105306,
+      "num": 264653,
       "word": "广东阳江路面积水成河",
       "onboard_time": 1758769460,
       "rank": 49,
@@ -63577,6 +63617,14 @@
       "onboard_time": 1758765440,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92289,
+      "num": 161130,
+      "word": "TheShy哪来这么多表情包",
+      "onboard_time": 1758778762,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 92232,
@@ -68627,6 +68675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72299,
+      "num": 210570,
+      "word": "百万元房车不上锁异地停放十几天",
+      "onboard_time": 1758777561,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72283,
       "num": 146532,
       "word": "官网暂查不到烟花秀备案信息",
@@ -68929,14 +68985,6 @@
       "onboard_time": 1756708341,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 70849,
-      "num": 210570,
-      "word": "百万元房车不上锁异地停放十几天",
-      "onboard_time": 1758777561,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70842,
@@ -71705,6 +71753,14 @@
       "onboard_time": 1756726581,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55702,
+      "num": 247378,
+      "word": "张晚意短片像拆快乐盲盒",
+      "onboard_time": 1758778641,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 55676,
@@ -77793,6 +77849,14 @@
       "onboard_time": 1757272274,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23716,
+      "num": 165783,
+      "word": "为什么年轻人要走向户外",
+      "onboard_time": 1758778702,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 23714,
