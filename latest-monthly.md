@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 18:27:04
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 18:43:16
 </p>
 </blockquote>
 <p>
@@ -3057,6 +3057,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E5%90%8E%E5%85%A5%E8%81%8C%E8%A2%AB%E5%91%8A%E7%9F%A5%E6%97%A0%E6%B3%95%E8%AF%B7%E5%A9%9A%E5%81%87%23" target="weibo">
+领结婚证后入职被告知无法请婚假（热度：1030086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%BC%B9%E5%B0%843%E8%BF%9E%23" target="weibo">
 福建舰弹射3连（热度：1029972）
 </a>
@@ -3383,12 +3389,6 @@ iG醒醒（热度：964601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E6%88%90%E7%82%B8%E5%B1%B1%E9%B8%9F%E5%AE%89%E8%B8%8F%E5%B2%82%E8%83%BD%E8%A3%85%E7%9D%A1%23" target="weibo">
 始祖鸟成炸山鸟安踏岂能装睡（热度：961537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E5%90%8E%E5%85%A5%E8%81%8C%E8%A2%AB%E5%91%8A%E7%9F%A5%E6%97%A0%E6%B3%95%E8%AF%B7%E5%A9%9A%E5%81%87%23" target="weibo">
-领结婚证后入职被告知无法请婚假（热度：959909）
 </a>
 </li>
 

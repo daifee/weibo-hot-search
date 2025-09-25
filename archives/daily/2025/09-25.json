@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758796024565,
+  "endTime": 1758796996299,
   "band_list": [
     {
       "raw_hot": 2128728,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1030086,
+      "num": 1164813,
+      "word": "领结婚证后入职被告知无法请婚假",
+      "onboard_time": 1758790161,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1021832,
       "num": 352275,
       "word": "重新定义了双休",
@@ -168,14 +176,6 @@
       "word": "珠海网友家被台风刮来一张千元港币",
       "onboard_time": 1758767060,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 959909,
-      "num": 1153585,
-      "word": "领结婚证后入职被告知无法请婚假",
-      "onboard_time": 1758790161,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438466,
+      "num": 310913,
+      "word": "女生经期前后肚子的区别",
+      "onboard_time": 1758794900,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 419784,
       "num": 382810,
       "word": "向太说刘亦菲圈内口碑真的很好",
@@ -555,12 +563,36 @@
       "category": "读书作家,互联网"
     },
     {
+      "raw_hot": 365377,
+      "num": 306940,
+      "word": "吴京谢楠二儿子和惠英红拍杂志",
+      "onboard_time": 1758793401,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 350821,
       "num": 305506,
       "word": "狐妖王权篇万剑穿心名场面来了",
       "onboard_time": 1758776242,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343896,
+      "num": 343896,
+      "word": "消失的她原型男方家属拒绝回应",
+      "onboard_time": 1758790101,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335156,
+      "num": 317893,
+      "word": "蓝战非1分钟广告报价150万",
+      "onboard_time": 1758791720,
+      "rank": 44,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 334098,
@@ -691,6 +723,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 273856,
+      "num": 273856,
+      "word": "TES对战iG",
+      "onboard_time": 1758791600,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 270103,
       "num": 270103,
       "word": "园方回应老虎产下死胎后将其吃掉",
@@ -745,14 +785,6 @@
       "onboard_time": 1758773421,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255017,
-      "num": 143244,
-      "word": "女生经期前后肚子的区别",
-      "onboard_time": 1758794900,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 250285,
@@ -811,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233989,
+      "num": 233989,
+      "word": "姐弟坠亡案妈妈硬刚男友面相不好",
+      "onboard_time": 1758795741,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228798,
       "num": 228798,
       "word": "对我来说最稳的理财方式",
@@ -833,6 +873,14 @@
       "onboard_time": 1758728062,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218823,
+      "num": 269392,
+      "word": "新说唱十年冠军齐聚",
+      "onboard_time": 1758796040,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 216466,
@@ -993,14 +1041,6 @@
       "onboard_time": 1758787101,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199363,
-      "num": 199363,
-      "word": "蓝战非1分钟广告报价150万",
-      "onboard_time": 1758791720,
-      "rank": 44,
-      "category": "网红,游戏"
     },
     {
       "raw_hot": 198818,
@@ -1171,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183235,
-      "num": 183235,
-      "word": "TES对战iG",
-      "onboard_time": 1758791600,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 183185,
       "num": 183185,
       "word": "吐槽中国菜的美选手退出中网",
@@ -1259,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174813,
-      "num": 174813,
-      "word": "吴京谢楠二儿子和惠英红拍杂志",
-      "onboard_time": 1758793401,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 174799,
       "num": 174799,
       "word": "宁德时代A股市值超贵州茅台",
@@ -1291,12 +1315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172968,
+      "num": 172968,
+      "word": "网剧怪物开播",
+      "onboard_time": 1758794601,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172942,
       "num": 172942,
       "word": "赴山海播出12天已上云合网络剧年榜",
       "onboard_time": 1758784582,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172062,
+      "num": 172062,
+      "word": "李一桐G社镜头",
+      "onboard_time": 1758794721,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 171492,
@@ -1387,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163051,
+      "num": 163051,
+      "word": "你说这是董子健",
+      "onboard_time": 1758794601,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162456,
       "num": 162456,
       "word": "员工称张雪峰1个月后复播",
@@ -1435,6 +1483,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 155159,
+      "num": 155159,
+      "word": "蒋欣生图是妈咪级别",
+      "onboard_time": 1758796221,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153590,
       "num": 165162,
       "word": "一眼就看出王楚然不是妖妃是祥瑞",
@@ -1449,14 +1505,6 @@
       "onboard_time": 1758788002,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152646,
-      "num": 142991,
-      "word": "李一桐G社镜头",
-      "onboard_time": 1758794721,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 152604,
@@ -1515,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145637,
+      "num": 145637,
+      "word": "娱乐圈的青梅竹马合体了",
+      "onboard_time": 1758796519,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144815,
       "num": 194224,
       "word": "57岁邱淑贞近照状态",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1758787163,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143524,
+      "num": 143524,
+      "word": "男子地下车库睡觉被碾压",
+      "onboard_time": 1758794360,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142957,
@@ -1563,6 +1627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140489,
+      "num": 140489,
+      "word": "黄子韬王鹤棣刘耀文生抽男团",
+      "onboard_time": 1758793582,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139533,
       "num": 139533,
       "word": "北电回应梁靖崑入职",
@@ -1577,14 +1649,6 @@
       "onboard_time": 1758754220,
       "rank": 21,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 138897,
-      "num": 143584,
-      "word": "姐弟坠亡案妈妈硬刚男友面相不好",
-      "onboard_time": 1758795741,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137826,
@@ -1675,20 +1739,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133134,
-      "num": 133134,
-      "word": "网剧怪物开播",
-      "onboard_time": 1758794601,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132533,
       "num": 132533,
       "word": "气象局回应广东大部分被桦加沙覆盖",
       "onboard_time": 1758770962,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131214,
+      "num": 131214,
+      "word": "王格格何健麒一见钟情定档",
+      "onboard_time": 1758796760,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 131001,
@@ -1747,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127887,
+      "num": 127887,
+      "word": "野猪的战斗力在动物界什么水平",
+      "onboard_time": 1758796519,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127412,
       "num": 127412,
       "word": "黎姿现身黎宣追思会",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1758789142,
       "rank": 47,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 124929,
+      "num": 124929,
+      "word": "五哈6原班人马",
+      "onboard_time": 1758796340,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 122914,
@@ -1803,27 +1883,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121396,
-      "num": 266145,
-      "word": "消失的她原型男方家属拒绝回应",
-      "onboard_time": 1758790101,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120859,
       "num": 120859,
       "word": "庞铮offer7连续三个课题第一",
       "onboard_time": 1758780681,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 119964,
-      "num": 119964,
-      "word": "黄子韬王鹤棣刘耀文生抽男团",
-      "onboard_time": 1758793582,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1867,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117456,
+      "num": 117456,
+      "word": "10月1号将出现的六批人",
+      "onboard_time": 1758791060,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117436,
       "num": 204546,
       "word": "中国人的河山不仅是风景更是信念",
@@ -1883,20 +1955,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114037,
-      "num": 114037,
-      "word": "男子地下车库睡觉被碾压",
-      "onboard_time": 1758794360,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113933,
       "num": 113933,
       "word": "桦加沙登陆风力13级",
       "onboard_time": 1758706582,
       "rank": 27,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 112656,
+      "num": 139352,
+      "word": "张嘉益被曝将入职北电",
+      "onboard_time": 1758795980,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 112015,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1758716422,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110675,
+      "num": 110675,
+      "word": "小米汽车将缩短交付时间",
+      "onboard_time": 1758796823,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 110576,
@@ -2043,6 +2123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 104824,
+      "num": 104824,
+      "word": "蓝战非回应9位数收入",
+      "onboard_time": 1758796941,
+      "rank": 49,
+      "category": "网红,游戏"
+    },
+    {
       "raw_hot": 104662,
       "num": 104662,
       "word": "懂点细节真能买到好衣服",
@@ -2147,20 +2235,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95137,
-      "num": 117545,
-      "word": "你说这是董子健",
-      "onboard_time": 1758794601,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 94552,
       "num": 94552,
       "word": "小米17",
       "onboard_time": 1758715882,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 92562,
+      "num": 313822,
+      "word": "国防部回应九三阅兵台湾网播量超500万",
+      "onboard_time": 1758796340,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92384,
@@ -2257,14 +2345,6 @@
       "onboard_time": 1758765440,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86716,
-      "num": 117267,
-      "word": "张嘉益被曝将入职北电",
-      "onboard_time": 1758795980,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 86627,
@@ -2595,6 +2675,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 48652,
+      "num": 138611,
+      "word": "真的有剧让我一眼生理性入冬",
+      "onboard_time": 1758795801,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48413,
+      "num": 143494,
+      "word": "泽连斯基准备好于俄乌冲突结束后离任",
+      "onboard_time": 1758795261,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48332,
       "num": 158459,
       "word": "外卖员顺走同行奶茶外卖称正好口渴",
@@ -2635,16 +2731,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 41149,
-      "num": 120584,
-      "word": "真的有剧让我一眼生理性入冬",
-      "onboard_time": 1758795801,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 40736,
-      "num": 203744,
+      "raw_hot": 41347,
+      "num": 303678,
       "word": "呼兰吐槽自己厨艺",
       "onboard_time": 1758795381,
       "rank": 15,
@@ -2697,14 +2785,6 @@
       "onboard_time": 1758733038,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35289,
-      "num": 143494,
-      "word": "泽连斯基准备好于俄乌冲突结束后离任",
-      "onboard_time": 1758795261,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33713,
@@ -2916,7 +2996,7 @@
     },
     {
       "raw_hot": 17124,
-      "num": 270227,
+      "num": 314716,
       "word": "新疆被大自然偏爱的证据",
       "onboard_time": 1758766581,
       "rank": 30,
