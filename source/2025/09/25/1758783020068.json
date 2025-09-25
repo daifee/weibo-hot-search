@@ -1,0 +1,410 @@
+{
+  "runTime": 1758783020068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 956948,
+        "num": 1153111,
+        "word": "法院回应警车在150公里外的山姆购物",
+        "onboard_time": 1758777680,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871077,
+        "num": 871077,
+        "word": "女生醉驾撞死3人称不记得摸过车",
+        "onboard_time": 1758776602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37818,
+        "num": 854635,
+        "word": "像石榴籽一样紧紧抱在一起",
+        "onboard_time": 1758762501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 841564,
+        "num": 841564,
+        "word": "阳江受损严重",
+        "onboard_time": 1758776362,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672930,
+        "num": 672930,
+        "word": "薛佳凝1分钟视频报价20万",
+        "onboard_time": 1758776542,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529043,
+        "num": 529043,
+        "word": "理想汽车 易烊千玺",
+        "onboard_time": 1758775403,
+        "rank": 5,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 415203,
+        "num": 415203,
+        "word": "景德镇 鸡排主理人",
+        "onboard_time": 1758770721,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407573,
+        "num": 407573,
+        "word": "2025湾区升明月阵容官宣",
+        "onboard_time": 1758781042,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21921,
+        "num": 398594,
+        "word": "新疆美食一口入魂千年回响",
+        "onboard_time": 1758762441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180835,
+        "num": 375067,
+        "word": "男子在家连拔2天火罐致高位截瘫",
+        "onboard_time": 1758775942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1044865,
+        "num": 358382,
+        "word": "汪苏泷生日和俊辰一起逛街",
+        "onboard_time": 1758776003,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456887,
+        "num": 340801,
+        "word": "内娱居然还有李飞没入股的遗珠",
+        "onboard_time": 1758773903,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328619,
+        "num": 328619,
+        "word": "韩国大量收购国内文娱产业",
+        "onboard_time": 1758760582,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 276993,
+        "num": 276993,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 252541,
+        "num": 252541,
+        "word": "狐妖王权篇万剑穿心名场面来了",
+        "onboard_time": 1758776242,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259294,
+        "num": 237653,
+        "word": "洪尧回应删除官宣博文",
+        "onboard_time": 1758762561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41752,
+        "num": 226321,
+        "word": "被李沁暖到了",
+        "onboard_time": 1758780440,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27326,
+        "num": 217801,
+        "word": "张晚意短片像拆快乐盲盒",
+        "onboard_time": 1758778641,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216433,
+        "num": 216433,
+        "word": "唐朝诡事录3新预告",
+        "onboard_time": 1758782540,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85413,
+        "num": 207773,
+        "word": "荣耀Magic8外观首曝",
+        "onboard_time": 1758780381,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 299238,
+        "num": 207464,
+        "word": "月入三万以后的真实感受",
+        "onboard_time": 1758776003,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206801,
+        "num": 206801,
+        "word": "以色列万人慌乱大奔逃",
+        "onboard_time": 1758781341,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193388,
+        "num": 193388,
+        "word": "轧戏",
+        "onboard_time": 1758767360,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192184,
+        "num": 192184,
+        "word": "园方回应老虎产下死胎后将其吃掉",
+        "onboard_time": 1758774442,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190037,
+        "num": 190037,
+        "word": "回家火车票 候补",
+        "onboard_time": 1758778882,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186368,
+        "num": 186368,
+        "word": "遵义提级调查投8亿污水厂遭接管",
+        "onboard_time": 1758775642,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 180777,
+        "num": 180777,
+        "word": "沈佳润有效出道",
+        "onboard_time": 1758778041,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178292,
+        "num": 178292,
+        "word": "董璇跟张维伊签婚前协议这段",
+        "onboard_time": 1758780922,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165597,
+        "num": 165597,
+        "word": "向太回应曾婉拒刘亦菲",
+        "onboard_time": 1758780081,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31925,
+        "num": 162203,
+        "word": "警方否定俞孔坚坠机系野猪导致",
+        "onboard_time": 1758781881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161227,
+        "num": 161227,
+        "word": "80秒里杨紫没几秒是干净的",
+        "onboard_time": 1758771202,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152555,
+        "num": 152555,
+        "word": "蔡国庆儿子好像张晚意",
+        "onboard_time": 1758782480,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144996,
+        "num": 144996,
+        "word": "云南一动物园现老虎吞食死去幼崽",
+        "onboard_time": 1758773660,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141317,
+        "num": 141317,
+        "word": "曝Jiejie解说iG对战TES",
+        "onboard_time": 1758780321,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140982,
+        "num": 140982,
+        "word": "爱奇艺片单",
+        "onboard_time": 1758763821,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142152,
+        "num": 140949,
+        "word": "杨紫胡歌生命树预告质感",
+        "onboard_time": 1758782660,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134143,
+        "num": 134143,
+        "word": "公司回应张雪峰被禁播",
+        "onboard_time": 1758782721,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124162,
+        "num": 124162,
+        "word": "生命树",
+        "onboard_time": 1758774262,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8840,
+        "num": 122493,
+        "word": "张栋梁突然把周传雄叫上台",
+        "onboard_time": 1758782601,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28280,
+        "num": 121785,
+        "word": "崔丽丽还未拿到113万赔偿",
+        "onboard_time": 1758781822,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121671,
+        "num": 121671,
+        "word": "新疆庆祝大会",
+        "onboard_time": 1758766100,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76401,
+        "num": 117921,
+        "word": "为什么年轻人要走向户外",
+        "onboard_time": 1758778702,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117875,
+        "num": 117875,
+        "word": "黎姿现身黎宣追思会",
+        "onboard_time": 1758780200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115001,
+        "num": 115001,
+        "word": "第一次见三年找18个替身的女主",
+        "onboard_time": 1758779661,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112615,
+        "num": 112615,
+        "word": "老祖宗也没想到你们能这么封建",
+        "onboard_time": 1758782660,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112520,
+        "num": 112520,
+        "word": "理想汽车首位代言人",
+        "onboard_time": 1758774922,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112015,
+        "num": 112015,
+        "word": "白宇章若楠年代剧适配度",
+        "onboard_time": 1758782901,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111128,
+        "num": 111128,
+        "word": "起猛了小王换头像了",
+        "onboard_time": 1758779540,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105984,
+        "num": 108390,
+        "word": "刘萧旭说爆红不会影响与女友感情",
+        "onboard_time": 1758781161,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106596,
+        "num": 106596,
+        "word": "以色列被炸视频流出",
+        "onboard_time": 1758768500,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆维吾尔自治区70周年庆祝大会#"
+    }
+  }
+}

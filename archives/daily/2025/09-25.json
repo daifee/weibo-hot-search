@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758782251256,
+  "endTime": 1758783020068,
   "band_list": [
     {
       "raw_hot": 2128728,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1157537,
-      "num": 333908,
+      "num": 358382,
       "word": "汪苏泷生日和俊辰一起逛街",
       "onboard_time": 1758776003,
       "rank": 12,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1043194,
-      "num": 649231,
+      "num": 841564,
       "word": "阳江受损严重",
       "onboard_time": 1758776362,
       "rank": 35,
@@ -96,6 +96,14 @@
       "word": "珠海网友家被台风刮来一张千元港币",
       "onboard_time": 1758767060,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 956948,
+      "num": 1153111,
+      "word": "法院回应警车在150公里外的山姆购物",
+      "onboard_time": 1758777680,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -115,8 +123,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 871077,
+      "num": 871077,
+      "word": "女生醉驾撞死3人称不记得摸过车",
+      "onboard_time": 1758776602,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 845821,
-      "num": 647651,
+      "num": 672930,
       "word": "薛佳凝1分钟视频报价20万",
       "onboard_time": 1758776542,
       "rank": 18,
@@ -129,14 +145,6 @@
       "onboard_time": 1758768500,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 803315,
-      "num": 1128530,
-      "word": "法院回应警车在150公里外的山姆购物",
-      "onboard_time": 1758777680,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 788248,
@@ -169,14 +177,6 @@
       "onboard_time": 1758720743,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 694730,
-      "num": 694730,
-      "word": "女生醉驾撞死3人称不记得摸过车",
-      "onboard_time": 1758776602,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 656633,
@@ -321,6 +321,14 @@
       "onboard_time": 1758724042,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407573,
+      "num": 407573,
+      "word": "2025湾区升明月阵容官宣",
+      "onboard_time": 1758781042,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 405648,
@@ -571,14 +579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237066,
-      "num": 237066,
-      "word": "2025湾区升明月阵容官宣",
-      "onboard_time": 1758781042,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228798,
       "num": 228798,
       "word": "对我来说最稳的理财方式",
@@ -609,6 +609,14 @@
       "onboard_time": 1758720321,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216433,
+      "num": 216433,
+      "word": "唐朝诡事录3新预告",
+      "onboard_time": 1758782540,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 214461,
@@ -681,6 +689,14 @@
       "onboard_time": 1758774323,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206801,
+      "num": 206801,
+      "word": "以色列万人慌乱大奔逃",
+      "onboard_time": 1758781341,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205769,
@@ -771,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191358,
-      "num": 191358,
-      "word": "以色列万人慌乱大奔逃",
-      "onboard_time": 1758781341,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 191291,
       "num": 191291,
       "word": "恋与深空日卡2.0",
@@ -851,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180835,
+      "num": 375067,
+      "word": "男子在家连拔2天火罐致高位截瘫",
+      "onboard_time": 1758775942,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180444,
       "num": 147389,
       "word": "胖东来宣布刑释人员全部录取",
@@ -865,6 +881,14 @@
       "onboard_time": 1758724643,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178292,
+      "num": 178292,
+      "word": "董璇跟张维伊签婚前协议这段",
+      "onboard_time": 1758780922,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 178190,
@@ -955,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165597,
+      "num": 165597,
+      "word": "向太回应曾婉拒刘亦菲",
+      "onboard_time": 1758780081,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161371,
       "num": 170997,
       "word": "国庆旅游",
@@ -963,28 +995,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 161304,
-      "num": 161304,
-      "word": "向太回应曾婉拒刘亦菲",
-      "onboard_time": 1758780081,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157820,
       "num": 157820,
       "word": "魏大勋孙千不止是悬疑更是悬溺",
       "onboard_time": 1758770781,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156246,
-      "num": 156246,
-      "word": "董璇跟张维伊签婚前协议这段",
-      "onboard_time": 1758780922,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 155406,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1758770600,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152555,
+      "num": 152555,
+      "word": "蔡国庆儿子好像张晚意",
+      "onboard_time": 1758782480,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 152387,
@@ -1027,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145982,
-      "num": 205969,
-      "word": "男子在家连拔2天火罐致高位截瘫",
-      "onboard_time": 1758775942,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145849,
       "num": 145849,
       "word": "第一次见三年找18个替身的女主",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1758776362,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142152,
+      "num": 140949,
+      "word": "杨紫胡歌生命树预告质感",
+      "onboard_time": 1758782660,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 141880,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1758767420,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134143,
+      "num": 134143,
+      "word": "公司回应张雪峰被禁播",
+      "onboard_time": 1758782721,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 133375,
@@ -1259,6 +1291,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 112615,
+      "num": 112615,
+      "word": "老祖宗也没想到你们能这么封建",
+      "onboard_time": 1758782660,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112015,
+      "num": 112015,
+      "word": "白宇章若楠年代剧适配度",
+      "onboard_time": 1758782901,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111998,
       "num": 111998,
       "word": "一人一句祝福新疆",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1758782061,
       "rank": 48,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 111128,
+      "num": 111128,
+      "word": "起猛了小王换头像了",
+      "onboard_time": 1758779540,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 110809,
@@ -1563,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85413,
+      "num": 216436,
+      "word": "荣耀Magic8外观首曝",
+      "onboard_time": 1758780381,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85039,
       "num": 136257,
       "word": "rihanna晒三胎女儿",
@@ -1619,6 +1683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76401,
+      "num": 165783,
+      "word": "为什么年轻人要走向户外",
+      "onboard_time": 1758778702,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75623,
       "num": 75623,
       "word": "张艺兴发言格局",
@@ -1657,14 +1729,6 @@
       "onboard_time": 1758728782,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71144,
-      "num": 216436,
-      "word": "荣耀Magic8外观首曝",
-      "onboard_time": 1758780381,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 70842,
@@ -1779,14 +1843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56254,
-      "num": 165783,
-      "word": "为什么年轻人要走向户外",
-      "onboard_time": 1758778702,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 55702,
       "num": 247378,
       "word": "张晚意短片像拆快乐盲盒",
@@ -1852,7 +1908,7 @@
     },
     {
       "raw_hot": 43775,
-      "num": 214551,
+      "num": 226321,
       "word": "被李沁暖到了",
       "onboard_time": 1758780440,
       "rank": 19,
@@ -1915,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31925,
+      "num": 173370,
+      "word": "警方否定俞孔坚坠机系野猪导致",
+      "onboard_time": 1758781881,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31114,
       "num": 43242,
       "word": "檀健次上班被狗遛",
@@ -1944,6 +2008,14 @@
       "word": "台湾民众拍下洪水冲毁桥面瞬间",
       "onboard_time": 1758744854,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28280,
+      "num": 145476,
+      "word": "崔丽丽还未拿到113万赔偿",
+      "onboard_time": 1758781822,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1979,28 +2051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24929,
-      "num": 173370,
-      "word": "警方否定俞孔坚坠机系野猪导致",
-      "onboard_time": 1758781881,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23960,
       "num": 305920,
       "word": "祝福新疆亚克西",
       "onboard_time": 1758771622,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23602,
-      "num": 145476,
-      "word": "崔丽丽还未拿到113万赔偿",
-      "onboard_time": 1758781822,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21728,
@@ -2064,6 +2120,14 @@
       "word": "刘宇年度人气歌手",
       "onboard_time": 1758736396,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 8840,
+      "num": 122493,
+      "word": "张栋梁突然把周传雄叫上台",
+      "onboard_time": 1758782601,
+      "rank": 38,
       "category": "演出"
     },
     {
