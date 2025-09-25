@@ -1,0 +1,410 @@
+{
+  "runTime": 1758810357417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3109576,
+        "num": 3109576,
+        "word": "助理确认蔡磊丧失语言能力",
+        "onboard_time": 1758804922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1532642,
+        "num": 1532642,
+        "word": "演唱会出轨门女主丈夫被曝出轨",
+        "onboard_time": 1758798020,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140,
+        "num": 1196889,
+        "word": "十四五广电视听高质量发展成就",
+        "onboard_time": 1758806542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1142672,
+        "num": 1142672,
+        "word": "官方通报地铁深夜撞人事件",
+        "onboard_time": 1758809002,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 990542,
+        "num": 990542,
+        "word": "央视新闻给肖战的待遇",
+        "onboard_time": 1758803482,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 927174,
+        "num": 927174,
+        "word": "小米17价格",
+        "onboard_time": 1758803301,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 726546,
+        "num": 726546,
+        "word": "王俊凯 电影在银幕上不在我脸上",
+        "onboard_time": 1758797122,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 620936,
+        "num": 620936,
+        "word": "小米发布会",
+        "onboard_time": 1758798261,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 500491,
+        "num": 500491,
+        "word": "台湾花莲灾后3天仍无救援",
+        "onboard_time": 1758807503,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463724,
+        "num": 463724,
+        "word": "雷军 刘德华",
+        "onboard_time": 1758804381,
+        "rank": 9,
+        "category": "演出,数码"
+      },
+      {
+        "raw_hot": 733718,
+        "num": 462972,
+        "word": "董璇赚的每分钱都有女儿名字",
+        "onboard_time": 1758808163,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601930,
+        "num": 455794,
+        "word": "韦雪晒整容前照片",
+        "onboard_time": 1758803842,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 536084,
+        "num": 453969,
+        "word": "王晶谈谢霆锋张柏芝分手",
+        "onboard_time": 1758803781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437482,
+        "num": 437482,
+        "word": "迪丽热巴出发巴黎时装周",
+        "onboard_time": 1758806602,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 424367,
+        "num": 424367,
+        "word": "小米17Pro",
+        "onboard_time": 1758804502,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 310369,
+        "num": 310369,
+        "word": "五哈6 鹿晗",
+        "onboard_time": 1758785601,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101131,
+        "num": 285188,
+        "word": "许光汉代言加拿大鹅",
+        "onboard_time": 1758807383,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 77819,
+        "num": 275334,
+        "word": "小米三区洗",
+        "onboard_time": 1758809244,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89594,
+        "num": 272193,
+        "word": "小米17ProMax512GB起步",
+        "onboard_time": 1758807322,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 270031,
+        "num": 270031,
+        "word": "专家建议将农民养老金提升至1000元",
+        "onboard_time": 1758800541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365929,
+        "num": 265868,
+        "word": "68页PPT曝光在读博士与已婚女子同居",
+        "onboard_time": 1758802522,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347168,
+        "num": 257263,
+        "word": "公马被发情母马追赶摔断脖颈",
+        "onboard_time": 1758803781,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234619,
+        "num": 234619,
+        "word": "小米17",
+        "onboard_time": 1758803602,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218805,
+        "num": 218805,
+        "word": "离婚难是因为无先例我来做第一例",
+        "onboard_time": 1758803901,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195950,
+        "num": 195950,
+        "word": "小米磁吸充电宝",
+        "onboard_time": 1758807983,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193858,
+        "num": 193858,
+        "word": "古人吃剩的螺蛳壳变成遗址",
+        "onboard_time": 1758808163,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 178077,
+        "num": 178077,
+        "word": "雷军谈iPhone17牙膏挤爆了",
+        "onboard_time": 1758807862,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151964,
+        "num": 170682,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1758800361,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150524,
+        "num": 168004,
+        "word": "关晓彤李现秀场同框",
+        "onboard_time": 1758807262,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 145343,
+        "num": 167633,
+        "word": "by2差点就不能跳舞了",
+        "onboard_time": 1758804980,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167438,
+        "num": 167438,
+        "word": "TES战胜IG",
+        "onboard_time": 1758803721,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164474,
+        "num": 164474,
+        "word": "华南理工回应博士与已婚女同居",
+        "onboard_time": 1758806842,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163442,
+        "num": 163442,
+        "word": "纤维粒 感谢碧昂丝",
+        "onboard_time": 1758802340,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159029,
+        "num": 159029,
+        "word": "台风桦加沙停止编号",
+        "onboard_time": 1758808462,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151197,
+        "num": 151197,
+        "word": "小米平板",
+        "onboard_time": 1758809364,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147868,
+        "num": 147868,
+        "word": "雷军演讲",
+        "onboard_time": 1758798501,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146659,
+        "num": 146659,
+        "word": "JackeyLove要把S赛冠军留在中国",
+        "onboard_time": 1758808343,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138218,
+        "num": 138218,
+        "word": "小米YU7定制服务",
+        "onboard_time": 1758808224,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137112,
+        "num": 137112,
+        "word": "刘德华演唱会",
+        "onboard_time": 1758804562,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134130,
+        "num": 134130,
+        "word": "丁禹兮豹纹",
+        "onboard_time": 1758809723,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133496,
+        "num": 133496,
+        "word": "也门首都遭以军空袭",
+        "onboard_time": 1758809723,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133107,
+        "num": 133107,
+        "word": "YU7",
+        "onboard_time": 1758808103,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118876,
+        "num": 132483,
+        "word": "李现关晓彤米兰同框",
+        "onboard_time": 1758808763,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132478,
+        "num": 132478,
+        "word": "陈添祥上湖南卫视了",
+        "onboard_time": 1758806361,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128157,
+        "num": 128157,
+        "word": "纤维粒被抓",
+        "onboard_time": 1758784342,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123809,
+        "num": 123809,
+        "word": "牛在在被路人追问跟贺峻霖关系",
+        "onboard_time": 1758810204,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123015,
+        "num": 123015,
+        "word": "小米音箱",
+        "onboard_time": 1758807563,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120870,
+        "num": 120870,
+        "word": "8岁小学生凭本事带奶奶看卫星发射",
+        "onboard_time": 1758806062,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115915,
+        "num": 115915,
+        "word": "小米定制服务发布",
+        "onboard_time": 1758808642,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112180,
+        "num": 112180,
+        "word": "小米平板价格",
+        "onboard_time": 1758808103,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆庆祝大会#"
+    }
+  }
+}
