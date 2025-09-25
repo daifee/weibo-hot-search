@@ -1,0 +1,410 @@
+{
+  "runTime": 1758799320763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835796,
+        "num": 1133727,
+        "word": "小米发布会",
+        "onboard_time": 1758798261,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 627045,
+        "num": 627045,
+        "word": "消失的她原型男方家属拒绝回应",
+        "onboard_time": 1758790101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11462,
+        "num": 623807,
+        "word": "一人一句祝福新疆",
+        "onboard_time": 1758760761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154913,
+        "num": 623646,
+        "word": "王俊凯 电影在银幕上不在我脸上",
+        "onboard_time": 1758797122,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 622513,
+        "num": 622513,
+        "word": "领结婚证后入职被告知无法请婚假",
+        "onboard_time": 1758790161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543709,
+        "num": 543709,
+        "word": "雷军演讲",
+        "onboard_time": 1758798501,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 468657,
+        "num": 468657,
+        "word": "纤维粒被抓",
+        "onboard_time": 1758784342,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 462922,
+        "num": 462922,
+        "word": "五哈6 鹿晗",
+        "onboard_time": 1758785601,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363730,
+        "num": 401471,
+        "word": "蓝战非1分钟广告报价150万",
+        "onboard_time": 1758791720,
+        "rank": 8,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 218573,
+        "num": 395062,
+        "word": "王暖暖称帮丈夫还500万赌债太讽刺",
+        "onboard_time": 1758797482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714734,
+        "num": 394320,
+        "word": "女生经期前后肚子的区别",
+        "onboard_time": 1758794900,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393444,
+        "num": 393444,
+        "word": "姐弟坠亡案妈妈硬刚男友面相不好",
+        "onboard_time": 1758795741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376825,
+        "num": 376825,
+        "word": "吴京谢楠二儿子和惠英红拍杂志",
+        "onboard_time": 1758793401,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 232430,
+        "num": 232430,
+        "word": "小城良方 肖战",
+        "onboard_time": 1758785601,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223935,
+        "num": 223935,
+        "word": "年薪20万属于什么水平",
+        "onboard_time": 1758790641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29483,
+        "num": 215478,
+        "word": "呼兰吐槽自己厨艺",
+        "onboard_time": 1758795381,
+        "rank": 15,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 215448,
+        "num": 215448,
+        "word": "我的前半生翻红",
+        "onboard_time": 1758787402,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209137,
+        "num": 209137,
+        "word": "重新定义了双休",
+        "onboard_time": 1758786621,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206630,
+        "num": 206630,
+        "word": "恋与深空 登顶",
+        "onboard_time": 1758790761,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89684,
+        "num": 180602,
+        "word": "12306长途有票 短途候补",
+        "onboard_time": 1758798501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174744,
+        "num": 174744,
+        "word": "台风走了胶带撕不掉了",
+        "onboard_time": 1758797182,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167446,
+        "num": 167446,
+        "word": "TES对战iG",
+        "onboard_time": 1758791600,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164607,
+        "num": 164607,
+        "word": "德塔文评成毅",
+        "onboard_time": 1758798622,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162284,
+        "num": 162284,
+        "word": "鞠婧祎米兰人气好高",
+        "onboard_time": 1758795440,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 149151,
+        "num": 153662,
+        "word": "王俊凯呼吁文明观影",
+        "onboard_time": 1758798622,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33955,
+        "num": 151452,
+        "word": "优酸乳广告 史学生学的就是史",
+        "onboard_time": 1758798622,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150975,
+        "num": 150975,
+        "word": "2025湾区升明月阵容官宣",
+        "onboard_time": 1758781042,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150495,
+        "num": 150495,
+        "word": "蓝战非回应9位数收入",
+        "onboard_time": 1758796941,
+        "rank": 27,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 149497,
+        "num": 149497,
+        "word": "什么综艺6个明星5个是门面",
+        "onboard_time": 1758797901,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73817,
+        "num": 148946,
+        "word": "神州租车数万辆新车已就位",
+        "onboard_time": 1758798081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148920,
+        "num": 148920,
+        "word": "国防部回应福建舰何时入列",
+        "onboard_time": 1758787163,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145833,
+        "num": 145833,
+        "word": "iG状态",
+        "onboard_time": 1758797901,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142173,
+        "num": 142173,
+        "word": "小米非常非常缺人",
+        "onboard_time": 1758783921,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140917,
+        "num": 140917,
+        "word": "演唱会出轨门女主丈夫被曝出轨",
+        "onboard_time": 1758798020,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135674,
+        "num": 135674,
+        "word": "做堂堂正正中国人",
+        "onboard_time": 1758791541,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135066,
+        "num": 135066,
+        "word": "唐朝诡事录",
+        "onboard_time": 1758784822,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129515,
+        "num": 129515,
+        "word": "你说这是董子健",
+        "onboard_time": 1758794601,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39092,
+        "num": 127106,
+        "word": "动物园称老虎吃死胎是习性无法干预",
+        "onboard_time": 1758798081,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74231,
+        "num": 126530,
+        "word": "王暖暖婚后才知丈夫曾服刑过",
+        "onboard_time": 1758798622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126449,
+        "num": 126449,
+        "word": "时代少年团湾区升明月官宣",
+        "onboard_time": 1758798920,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125035,
+        "num": 125035,
+        "word": "李一桐G社镜头",
+        "onboard_time": 1758794721,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 122840,
+        "num": 122840,
+        "word": "皖K888888被查系AI合成",
+        "onboard_time": 1758784582,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118683,
+        "num": 118683,
+        "word": "王暖暖称俞某东编故事让她放心结婚",
+        "onboard_time": 1758798441,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118256,
+        "num": 118256,
+        "word": "王格格何健麒一见钟情定档",
+        "onboard_time": 1758796760,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16603,
+        "num": 117249,
+        "word": "居民称台风过境高楼晃动像坐船",
+        "onboard_time": 1758798081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116860,
+        "num": 116860,
+        "word": "保研面试老师最后一个问题",
+        "onboard_time": 1758797241,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107702,
+        "num": 107702,
+        "word": "娱乐圈的青梅竹马合体了",
+        "onboard_time": 1758796519,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106729,
+        "num": 106729,
+        "word": "粉丝爆料杨幂无缘金鸡奖",
+        "onboard_time": 1758783561,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102018,
+        "num": 102018,
+        "word": "国防部回应九三阅兵台湾网播量超500万",
+        "onboard_time": 1758796340,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101933,
+        "num": 101933,
+        "word": "13岁少年涉嫌用手榴弹炸以使馆被捕",
+        "onboard_time": 1758792981,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆庆祝大会#"
+    }
+  }
+}

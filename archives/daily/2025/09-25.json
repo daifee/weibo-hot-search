@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758796996299,
+  "endTime": 1758799320763,
   "band_list": [
     {
       "raw_hot": 2128728,
@@ -97,6 +97,14 @@
       "onboard_time": 1758776003,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1154913,
+      "num": 623646,
+      "word": "王俊凯 电影在银幕上不在我脸上",
+      "onboard_time": 1758797122,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1136657,
@@ -235,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 835796,
+      "num": 1133727,
+      "word": "小米发布会",
+      "onboard_time": 1758798261,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 788248,
       "num": 788248,
       "word": "梁靖崑入职北京电影学院",
@@ -257,6 +273,14 @@
       "onboard_time": 1758741193,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 714734,
+      "num": 394320,
+      "word": "女生经期前后肚子的区别",
+      "onboard_time": 1758794900,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 713990,
@@ -288,6 +312,14 @@
       "word": "中国有十亿左右人没坐过飞机",
       "onboard_time": 1758767601,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 627045,
+      "num": 627045,
+      "word": "消失的她原型男方家属拒绝回应",
+      "onboard_time": 1758790101,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -387,6 +419,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 543709,
+      "num": 543709,
+      "word": "雷军演讲",
+      "onboard_time": 1758798501,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 519210,
       "num": 235515,
       "word": "医生提醒洗鸡蛋或制造细菌炸弹",
@@ -441,14 +481,6 @@
       "onboard_time": 1758790641,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 438466,
-      "num": 310913,
-      "word": "女生经期前后肚子的区别",
-      "onboard_time": 1758794900,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 419784,
@@ -507,12 +539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 393444,
+      "num": 393444,
+      "word": "姐弟坠亡案妈妈硬刚男友面相不好",
+      "onboard_time": 1758795741,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393425,
       "num": 251858,
       "word": "姚安娜拿到了全球限量labubu",
       "onboard_time": 1758771141,
       "rank": 25,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 376825,
+      "num": 376825,
+      "word": "吴京谢楠二儿子和惠英红拍杂志",
+      "onboard_time": 1758793401,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 376604,
@@ -563,12 +611,12 @@
       "category": "读书作家,互联网"
     },
     {
-      "raw_hot": 365377,
-      "num": 306940,
-      "word": "吴京谢楠二儿子和惠英红拍杂志",
-      "onboard_time": 1758793401,
-      "rank": 22,
-      "category": "艺人,时尚"
+      "raw_hot": 363730,
+      "num": 401471,
+      "word": "蓝战非1分钟广告报价150万",
+      "onboard_time": 1758791720,
+      "rank": 44,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 350821,
@@ -577,22 +625,6 @@
       "onboard_time": 1758776242,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343896,
-      "num": 343896,
-      "word": "消失的她原型男方家属拒绝回应",
-      "onboard_time": 1758790101,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 335156,
-      "num": 317893,
-      "word": "蓝战非1分钟广告报价150万",
-      "onboard_time": 1758791720,
-      "rank": 44,
-      "category": "网红,游戏"
     },
     {
       "raw_hot": 334098,
@@ -843,14 +875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233989,
-      "num": 233989,
-      "word": "姐弟坠亡案妈妈硬刚男友面相不好",
-      "onboard_time": 1758795741,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228798,
       "num": 228798,
       "word": "对我来说最稳的理财方式",
@@ -881,6 +905,14 @@
       "onboard_time": 1758796040,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218573,
+      "num": 395062,
+      "word": "王暖暖称帮丈夫还500万赌债太讽刺",
+      "onboard_time": 1758797482,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216466,
@@ -1299,6 +1331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 174744,
+      "num": 174744,
+      "word": "台风走了胶带撕不掉了",
+      "onboard_time": 1758797182,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173360,
       "num": 173360,
       "word": "曝Jiejie解说iG对战TES",
@@ -1419,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164607,
+      "num": 164607,
+      "word": "德塔文评成毅",
+      "onboard_time": 1758798622,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163301,
       "num": 163301,
       "word": "黎深神亦成为凡人",
@@ -1531,6 +1579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150495,
+      "num": 150495,
+      "word": "蓝战非回应9位数收入",
+      "onboard_time": 1758796941,
+      "rank": 49,
+      "category": "网红,游戏"
+    },
+    {
       "raw_hot": 149553,
       "num": 149553,
       "word": "被王扁恶搞王源方为何还不维权",
@@ -1539,12 +1595,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149497,
+      "num": 149497,
+      "word": "什么综艺6个明星5个是门面",
+      "onboard_time": 1758797901,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149432,
       "num": 149432,
       "word": "孕妇泰国坠崖离婚案明日开庭",
       "onboard_time": 1758790222,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149151,
+      "num": 153662,
+      "word": "王俊凯呼吁文明观影",
+      "onboard_time": 1758798622,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 148920,
+      "num": 245536,
+      "word": "国防部回应福建舰何时入列",
+      "onboard_time": 1758787163,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148098,
@@ -1563,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145833,
+      "num": 145833,
+      "word": "iG状态",
+      "onboard_time": 1758797901,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145637,
       "num": 145637,
       "word": "娱乐圈的青梅竹马合体了",
@@ -1577,14 +1665,6 @@
       "onboard_time": 1758776362,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144224,
-      "num": 245536,
-      "word": "国防部回应福建舰何时入列",
-      "onboard_time": 1758787163,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 143524,
@@ -1625,6 +1705,14 @@
       "onboard_time": 1758782660,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140917,
+      "num": 140917,
+      "word": "演唱会出轨门女主丈夫被曝出轨",
+      "onboard_time": 1758798020,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140489,
@@ -1827,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126449,
+      "num": 126449,
+      "word": "时代少年团湾区升明月官宣",
+      "onboard_time": 1758798920,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125405,
       "num": 125405,
       "word": "罗马仕等三家公司召回充电宝超70万件",
@@ -1915,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118683,
+      "num": 118683,
+      "word": "王暖暖称俞某东编故事让她放心结婚",
+      "onboard_time": 1758798441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118673,
       "num": 201105,
       "word": "孙菲菲前夫不养孩子的原因",
@@ -1953,6 +2057,14 @@
       "onboard_time": 1758795920,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116860,
+      "num": 116860,
+      "word": "保研面试老师最后一个问题",
+      "onboard_time": 1758797241,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 113933,
@@ -2123,14 +2235,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 104824,
-      "num": 104824,
-      "word": "蓝战非回应9位数收入",
-      "onboard_time": 1758796941,
-      "rank": 49,
-      "category": "网红,游戏"
-    },
-    {
       "raw_hot": 104662,
       "num": 104662,
       "word": "懂点细节真能买到好衣服",
@@ -2145,6 +2249,14 @@
       "onboard_time": 1758708323,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 102018,
+      "num": 313822,
+      "word": "国防部回应九三阅兵台湾网播量超500万",
+      "onboard_time": 1758796340,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101091,
@@ -2243,14 +2355,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 92562,
-      "num": 313822,
-      "word": "国防部回应九三阅兵台湾网播量超500万",
-      "onboard_time": 1758796340,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 92384,
       "num": 92384,
       "word": "起猛了央妈竟然请来了真公主",
@@ -2313,6 +2417,14 @@
       "onboard_time": 1758762023,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89684,
+      "num": 180602,
+      "word": "12306长途有票 短途候补",
+      "onboard_time": 1758798501,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89639,
@@ -2433,6 +2545,22 @@
       "onboard_time": 1758728782,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74231,
+      "num": 126530,
+      "word": "王暖暖婚后才知丈夫曾服刑过",
+      "onboard_time": 1758798622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73817,
+      "num": 148946,
+      "word": "神州租车数万辆新车已就位",
+      "onboard_time": 1758798081,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73777,
@@ -2747,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39092,
+      "num": 127106,
+      "word": "动物园称老虎吃死胎是习性无法干预",
+      "onboard_time": 1758798081,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37570,
       "num": 439410,
       "word": "于适和孙艺洲抢衣服了",
@@ -2785,6 +2921,14 @@
       "onboard_time": 1758733038,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33955,
+      "num": 151452,
+      "word": "优酸乳广告 史学生学的就是史",
+      "onboard_time": 1758798622,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33713,
@@ -3008,6 +3152,14 @@
       "word": "桦加沙登陆了",
       "onboard_time": 1758746054,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16603,
+      "num": 117249,
+      "word": "居民称台风过境高楼晃动像坐船",
+      "onboard_time": 1758798081,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
