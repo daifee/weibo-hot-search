@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 15:25:59
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 15:38:44
 </p>
 </blockquote>
 <p>
@@ -1271,6 +1271,12 @@ miumiu签了三个00花（热度：1748229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%A4%85%E5%AD%90%E4%BA%8B%E4%BB%B6%E9%80%9A%E6%8A%A5%23" target="weibo">
 武汉大学椅子事件通报（热度：1675195）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A4%E7%BB%B4%E7%B2%92%E8%A2%AB%E6%8A%93%23" target="weibo">
+纤维粒被抓（热度：1673205）
 </a>
 </li>
 
@@ -4887,6 +4893,12 @@ iPhone17Promini首曝（热度：777010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9D%9E%E5%B8%B8%E9%9D%9E%E5%B8%B8%E7%BC%BA%E4%BA%BA%23" target="weibo">
+小米非常非常缺人（热度：772805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E4%B8%89%E5%B0%8F%E6%97%B6%20%E5%AE%A2%E6%88%B7%E8%A2%AB%E7%9B%98%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%23" target="weibo">
 洗澡三小时 客户被盘了一个半小时（热度：771822）
 </a>
@@ -5129,6 +5141,12 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%20%E8%A1%A3%E6%9F%9C%E9%87%8C%E7%BF%BB%E9%B8%A1%E6%8E%92%23" target="weibo">
 淘宝闪购购买记录 衣柜里翻鸡排（热度：749435）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%88%86%E6%96%99%E6%9D%A8%E5%B9%82%E6%97%A0%E7%BC%98%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
+粉丝爆料杨幂无缘金鸡奖（热度：747781）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone17系列补贴后降1000元（热度：669556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%8A%E7%90%8D%E6%8F%90%E8%AE%AE%E6%94%B9%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E7%BB%93%E5%B1%80%23" target="weibo">
 马伊琍提议改我的前半生结局（热度：665477）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%86%85%E5%AE%B9%E6%98%AF%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
-上班的内容是集体观看阅兵（热度：664750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E4%B8%89%E4%BA%BA%E6%9C%BA%E5%9C%BA%E5%81%B7%E5%9C%9F%E7%89%B9%E4%BA%A7%23" target="weibo">
-母女三人机场偷土特产（热度：664698）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%85%89%E5%9E%8B%E6%8A%91%E9%83%81%23" target="weibo">
-阳光型抑郁（热度：664450）
 </a>
 </li>
 

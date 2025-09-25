@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758785159730,
+  "endTime": 1758785924528,
   "band_list": [
     {
       "raw_hot": 2128728,
@@ -9,6 +9,14 @@
       "onboard_time": 1758773303,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1673205,
+      "num": 552410,
+      "word": "纤维粒被抓",
+      "onboard_time": 1758784342,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1664942,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1529775,
-      "num": 337408,
+      "num": 376621,
       "word": "ally官宣分手",
       "onboard_time": 1758783381,
       "rank": 10,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1157537,
-      "num": 358382,
+      "num": 372295,
       "word": "汪苏泷生日和俊辰一起逛街",
       "onboard_time": 1758776003,
       "rank": 12,
@@ -161,6 +169,22 @@
       "onboard_time": 1758770600,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 772805,
+      "num": 1123648,
+      "word": "小米非常非常缺人",
+      "onboard_time": 1758783921,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 747781,
+      "num": 369849,
+      "word": "粉丝爆料杨幂无缘金鸡奖",
+      "onboard_time": 1758783561,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 741065,
@@ -260,11 +284,19 @@
     },
     {
       "raw_hot": 552877,
-      "num": 310697,
+      "num": 363321,
       "word": "蔡国庆儿子好像张晚意",
       "onboard_time": 1758782480,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548072,
+      "num": 548072,
+      "word": "以色列万人慌乱大奔逃",
+      "onboard_time": 1758781341,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 545648,
@@ -283,28 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 517522,
-      "num": 409952,
-      "word": "以色列万人慌乱大奔逃",
-      "onboard_time": 1758781341,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 516759,
       "num": 516759,
       "word": "咱家的三航母太太太帅了",
       "onboard_time": 1758762681,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 504824,
-      "num": 286365,
-      "word": "粉丝爆料杨幂无缘金鸡奖",
-      "onboard_time": 1758783561,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 504314,
@@ -321,14 +337,6 @@
       "onboard_time": 1758721643,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 460061,
-      "num": 252418,
-      "word": "纤维粒被抓",
-      "onboard_time": 1758784342,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 460019,
@@ -353,14 +361,6 @@
       "onboard_time": 1758718102,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410379,
-      "num": 410379,
-      "word": "小米非常非常缺人",
-      "onboard_time": 1758783921,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 409934,
@@ -411,6 +411,22 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 381984,
+      "num": 381984,
+      "word": "皖K888888被查系AI合成",
+      "onboard_time": 1758784582,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377565,
+      "num": 377565,
+      "word": "西贝删除温情公关文",
+      "onboard_time": 1758783022,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376604,
       "num": 376604,
       "word": "张雪峰回应账号被禁止关注",
@@ -459,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340074,
-      "num": 340074,
-      "word": "西贝删除温情公关文",
-      "onboard_time": 1758783022,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 334098,
       "num": 334098,
       "word": "唐朝诡事录3新预告",
@@ -497,6 +505,14 @@
       "onboard_time": 1758768020,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297900,
+      "num": 297900,
+      "word": "五哈6 鹿晗",
+      "onboard_time": 1758785601,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 287821,
@@ -675,6 +691,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218259,
+      "num": 362021,
+      "word": "以色列核设施大量绝密文件被公开",
+      "onboard_time": 1758785002,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 217392,
+      "num": 217392,
+      "word": "小城良方 肖战",
+      "onboard_time": 1758785601,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216466,
       "num": 216466,
       "word": "王源 好听",
@@ -729,6 +761,14 @@
       "onboard_time": 1758759321,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211716,
+      "num": 211716,
+      "word": "保研",
+      "onboard_time": 1758784100,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 208574,
@@ -787,20 +827,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203926,
-      "num": 203926,
-      "word": "保研",
-      "onboard_time": 1758784100,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 202486,
       "num": 206826,
       "word": "网剧球状闪电",
       "onboard_time": 1758784402,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201945,
+      "num": 201945,
+      "word": "张一山杨紫私下见面不聊工作",
+      "onboard_time": 1758784402,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 201729,
@@ -811,20 +851,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201580,
+      "num": 201580,
+      "word": "国庆旅行vs中秋回家",
+      "onboard_time": 1758785721,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198818,
+      "num": 198818,
+      "word": "唐朝诡事录",
+      "onboard_time": 1758784822,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198262,
+      "num": 338483,
+      "word": "煽情公关再翻车西贝该如何自救",
+      "onboard_time": 1758783861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196449,
       "num": 196449,
       "word": "逍遥",
       "onboard_time": 1758765080,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196378,
-      "num": 196378,
-      "word": "皖K888888被查系AI合成",
-      "onboard_time": 1758784582,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195884,
@@ -971,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179183,
+      "num": 179183,
+      "word": "爱奇艺悦享会",
+      "onboard_time": 1758785541,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178190,
       "num": 239606,
       "word": "小米17首发第五代骁龙8至尊版",
@@ -1017,14 +1081,6 @@
       "onboard_time": 1758778461,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173121,
-      "num": 173121,
-      "word": "张一山杨紫私下见面不聊工作",
-      "onboard_time": 1758784402,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 172942,
@@ -1075,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167306,
+      "num": 167306,
+      "word": "国产悬疑剧一口气吹来了三个黄毛",
+      "onboard_time": 1758785242,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165597,
       "num": 165597,
       "word": "向太回应曾婉拒刘亦菲",
@@ -1091,20 +1155,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161430,
-      "num": 161430,
-      "word": "唐朝诡事录",
-      "onboard_time": 1758784822,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161371,
       "num": 170997,
       "word": "国庆旅游",
       "onboard_time": 1758773841,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 158207,
+      "num": 158207,
+      "word": "我的前半生 评论区",
+      "onboard_time": 1758785302,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 157820,
@@ -1129,14 +1193,6 @@
       "onboard_time": 1758783861,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153209,
-      "num": 153209,
-      "word": "以色列核设施大量绝密文件被公开",
-      "onboard_time": 1758785002,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 152604,
@@ -1547,14 +1603,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 104743,
-      "num": 338483,
-      "word": "煽情公关再翻车西贝该如何自救",
-      "onboard_time": 1758783861,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104662,
       "num": 104662,
       "word": "懂点细节真能买到好衣服",
@@ -1620,7 +1668,7 @@
     },
     {
       "raw_hot": 97930,
-      "num": 409954,
+      "num": 552605,
       "word": "新疆的美好数不完",
       "onboard_time": 1758763940,
       "rank": 9,
@@ -1987,6 +2035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55263,
+      "num": 167871,
+      "word": "王暖暖称希望这次彻底把婚离掉",
+      "onboard_time": 1758784402,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54586,
+      "num": 159752,
+      "word": "醉驾案死者家属称会努力活下去",
+      "onboard_time": 1758785902,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53165,
       "num": 261392,
       "word": "广州塔定塔神器出现明显摆动",
@@ -2027,14 +2091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50449,
-      "num": 167871,
-      "word": "王暖暖称希望这次彻底把婚离掉",
-      "onboard_time": 1758784402,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49617,
       "num": 149639,
       "word": "网警查处2男子非法破解无人机飞行控制系统",
@@ -2049,6 +2105,14 @@
       "onboard_time": 1758756500,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48332,
+      "num": 158459,
+      "word": "外卖员顺走同行奶茶外卖称正好口渴",
+      "onboard_time": 1758785182,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46896,
@@ -2195,6 +2259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26278,
+      "num": 170304,
+      "word": "王暖暖说丈夫曾告诉法官他很爱我",
+      "onboard_time": 1758784222,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26156,
       "num": 28589,
       "word": "刘宇宁戴佩妮再合作初恋",
@@ -2209,14 +2281,6 @@
       "onboard_time": 1758740893,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24719,
-      "num": 170304,
-      "word": "王暖暖说丈夫曾告诉法官他很爱我",
-      "onboard_time": 1758784222,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23960,
@@ -2281,6 +2345,14 @@
       "onboard_time": 1758743594,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14367,
+      "num": 158305,
+      "word": "刘宇宁领奖导播切远景",
+      "onboard_time": 1758785601,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 12728,
