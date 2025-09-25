@@ -1,0 +1,410 @@
+{
+  "runTime": 1758777897899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1136179,
+        "num": 1181788,
+        "word": "景德镇 鸡排主理人",
+        "onboard_time": 1758770721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376081,
+        "num": 376081,
+        "word": "遵义提级调查投8亿污水厂遭接管",
+        "onboard_time": 1758775642,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 61812,
+        "num": 368746,
+        "word": "像石榴籽一样紧紧抱在一起",
+        "onboard_time": 1758762501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699755,
+        "num": 368539,
+        "word": "轧戏",
+        "onboard_time": 1758767360,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367649,
+        "num": 367649,
+        "word": "以色列被炸视频流出",
+        "onboard_time": 1758768500,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1128345,
+        "num": 364021,
+        "word": "理想汽车 易烊千玺",
+        "onboard_time": 1758775403,
+        "rank": 5,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 460019,
+        "num": 361109,
+        "word": "生命树",
+        "onboard_time": 1758774262,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354015,
+        "num": 354015,
+        "word": "梁靖崑入职北京电影学院",
+        "onboard_time": 1758770600,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29199,
+        "num": 352462,
+        "word": "新疆美食一口入魂千年回响",
+        "onboard_time": 1758762441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77968,
+        "num": 347556,
+        "word": "庆祝大会全体高唱国歌",
+        "onboard_time": 1758768201,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2128728,
+        "num": 342382,
+        "word": "娃哈哈将换标娃小宗",
+        "onboard_time": 1758773303,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1054162,
+        "num": 340115,
+        "word": "内娱居然还有李飞没入股的遗珠",
+        "onboard_time": 1758773903,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679876,
+        "num": 333908,
+        "word": "汪苏泷生日和俊辰一起逛街",
+        "onboard_time": 1758776003,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550726,
+        "num": 328960,
+        "word": "洪尧回应删除官宣博文",
+        "onboard_time": 1758762561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511530,
+        "num": 326541,
+        "word": "韩国大量收购国内文娱产业",
+        "onboard_time": 1758760582,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 435413,
+        "num": 322036,
+        "word": "80秒里杨紫没几秒是干净的",
+        "onboard_time": 1758771202,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70842,
+        "num": 318117,
+        "word": "第五代骁龙8至尊版",
+        "onboard_time": 1758773181,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 314845,
+        "num": 314845,
+        "word": "中国有十亿左右人没坐过飞机",
+        "onboard_time": 1758767601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310557,
+        "num": 310557,
+        "word": "薛佳凝1分钟视频报价20万",
+        "onboard_time": 1758776542,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270858,
+        "num": 301199,
+        "word": "狐妖王权篇万剑穿心名场面来了",
+        "onboard_time": 1758776242,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651629,
+        "num": 301125,
+        "word": "理想汽车首位代言人",
+        "onboard_time": 1758774922,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 298810,
+        "num": 298810,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 567859,
+        "num": 285992,
+        "word": "月入三万以后的真实感受",
+        "onboard_time": 1758776003,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273085,
+        "num": 273085,
+        "word": "云南一动物园现老虎吞食死去幼崽",
+        "onboard_time": 1758773660,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264906,
+        "num": 264906,
+        "word": "爱奇艺片单",
+        "onboard_time": 1758763821,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50953,
+        "num": 255293,
+        "word": "看肖明明喝纯享我也想来一口",
+        "onboard_time": 1758773181,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249594,
+        "num": 249594,
+        "word": "佳偶天成",
+        "onboard_time": 1758762980,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248417,
+        "num": 248417,
+        "word": "刘芮麟和妻子牵手逛街",
+        "onboard_time": 1758772642,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136017,
+        "num": 238491,
+        "word": "零跑汽车第100万辆下线",
+        "onboard_time": 1758777083,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37052,
+        "num": 229461,
+        "word": "王曦雨中网开门红",
+        "onboard_time": 1758777083,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228798,
+        "num": 228798,
+        "word": "对我来说最稳的理财方式",
+        "onboard_time": 1758776602,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246425,
+        "num": 228307,
+        "word": "园方回应老虎产下死胎后将其吃掉",
+        "onboard_time": 1758774442,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226415,
+        "num": 226415,
+        "word": "珠海网友家被台风刮来一张千元港币",
+        "onboard_time": 1758767060,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225647,
+        "num": 225647,
+        "word": "原来小猫也会有分离焦虑",
+        "onboard_time": 1758776782,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208114,
+        "num": 223311,
+        "word": "生命树首发预告",
+        "onboard_time": 1758776902,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221457,
+        "num": 221457,
+        "word": "阳江受损严重",
+        "onboard_time": 1758776362,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214461,
+        "num": 214461,
+        "word": "娜扎让乱世佳人有了脸",
+        "onboard_time": 1758774563,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70849,
+        "num": 210570,
+        "word": "百万元房车不上锁异地停放十几天",
+        "onboard_time": 1758777561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207290,
+        "num": 207290,
+        "word": "苏醒张远和家人的见面频率",
+        "onboard_time": 1758777501,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131153,
+        "num": 198370,
+        "word": "梅婷12岁女儿身高",
+        "onboard_time": 1758777801,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213319,
+        "num": 198018,
+        "word": "台风后汕尾河边海鲜铺满一地",
+        "onboard_time": 1758773001,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120544,
+        "num": 197373,
+        "word": "女生醉驾撞死3人称不记得摸过车",
+        "onboard_time": 1758776602,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196796,
+        "num": 196796,
+        "word": "新疆庆祝大会",
+        "onboard_time": 1758766100,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195884,
+        "num": 195884,
+        "word": "曾舜晞一出场就知道谁官最大",
+        "onboard_time": 1758776302,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144815,
+        "num": 194224,
+        "word": "57岁邱淑贞近照状态",
+        "onboard_time": 1758776362,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193170,
+        "num": 193170,
+        "word": "关晓彤在王牌一整个误闯癫家",
+        "onboard_time": 1758777861,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191291,
+        "num": 191291,
+        "word": "恋与深空日卡2.0",
+        "onboard_time": 1758776482,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179230,
+        "num": 179230,
+        "word": "法院回应警车在150公里外的山姆购物",
+        "onboard_time": 1758777680,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177351,
+        "num": 177351,
+        "word": "孟佳 今天没戴一片假发片",
+        "onboard_time": 1758770962,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165685,
+        "num": 165685,
+        "word": "姚安娜拿到了全球限量labubu",
+        "onboard_time": 1758771141,
+        "rank": 49,
+        "category": "艺人,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆维吾尔自治区70周年庆祝大会#"
+    }
+  }
+}
