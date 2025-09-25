@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 19:37:15
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 20:52:48
 </p>
 </blockquote>
 <p>
@@ -597,6 +597,12 @@ iPhone17系列价格（热度：3052336）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+小米发布会（热度：2417981）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%8E%B7%E5%A5%96%E6%97%B6%E5%BC%A0%E9%A2%82%E6%96%87%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 辛芷蕾获奖时张颂文的表情（热度：2410456）
 </a>
@@ -851,6 +857,12 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%883%E6%97%A5%E5%AE%89%E6%8E%92%23" target="weibo">
 9月3日安排（热度：2085045）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%87%BA%E8%BD%A8%E9%97%A8%E5%A5%B3%E4%B8%BB%E4%B8%88%E5%A4%AB%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%23" target="weibo">
+演唱会出轨门女主丈夫被曝出轨（热度：2084346）
 </a>
 </li>
 
@@ -3183,12 +3195,6 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-小米发布会（热度：1002367）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%96%E5%95%A1%E5%9B%A0%20%E5%B8%83%E6%B4%9B%E8%8A%AC%23" target="weibo">
 咖啡因 布洛芬（热度：1002169）
 </a>
@@ -4677,6 +4683,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%E4%BB%B7%E6%A0%BC%23" target="weibo">
+小米17价格（热度：804395）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%81%9C%E8%AF%BE%23" target="weibo">
 深圳停课（热度：804355）
 </a>
@@ -5999,18 +6011,6 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%90%8E%E6%83%B3%E8%A6%81%20%E5%BD%B1%E5%90%8E%E5%BE%97%E5%88%B0%23" target="weibo">
 影后想要 影后得到（热度：673633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%20%E5%BC%80%E6%9C%BA%E5%BC%80%E6%9C%BA%23" target="weibo">
-白敬亭 开机开机（热度：672196）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%BB%BC%E6%9C%80%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%B8%80%E5%B9%95%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-恋综最尴尬的一幕出现了（热度：671372）
 </a>
 </li>
 

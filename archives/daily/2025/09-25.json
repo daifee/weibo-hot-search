@@ -1,7 +1,15 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758800235197,
+  "endTime": 1758804768627,
   "band_list": [
+    {
+      "raw_hot": 2417981,
+      "num": 2417981,
+      "word": "小米发布会",
+      "onboard_time": 1758798261,
+      "rank": 0,
+      "category": "数码"
+    },
     {
       "raw_hot": 2128728,
       "num": 2004599,
@@ -9,6 +17,14 @@
       "onboard_time": 1758773303,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2084346,
+      "num": 2084346,
+      "word": "演唱会出轨门女主丈夫被曝出轨",
+      "onboard_time": 1758798020,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1977731,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 1154913,
-      "num": 623646,
+      "num": 832296,
       "word": "王俊凯 电影在银幕上不在我脸上",
       "onboard_time": 1758797122,
       "rank": 3,
@@ -179,14 +195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1002367,
-      "num": 1160378,
-      "word": "小米发布会",
-      "onboard_time": 1758798261,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 971276,
       "num": 1155404,
       "word": "珠海网友家被台风刮来一张千元港币",
@@ -249,6 +257,14 @@
       "onboard_time": 1758768500,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 804395,
+      "num": 804395,
+      "word": "小米17价格",
+      "onboard_time": 1758803301,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 788248,
@@ -459,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487894,
+      "num": 487894,
+      "word": "TES战胜IG",
+      "onboard_time": 1758803721,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 471003,
       "num": 471003,
       "word": "管家爆英女王去世前患骨癌",
       "onboard_time": 1758721643,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 470833,
+      "num": 470833,
+      "word": "小米17",
+      "onboard_time": 1758715882,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 460019,
@@ -489,6 +521,14 @@
       "onboard_time": 1758790641,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425397,
+      "num": 425397,
+      "word": "湾区升明月阵容",
+      "onboard_time": 1758800361,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 419784,
@@ -683,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295175,
+      "num": 295175,
+      "word": "王晶谈谢霆锋张柏芝分手",
+      "onboard_time": 1758803781,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287821,
       "num": 287821,
       "word": "陆虎庆祝与嘘嘘在一起10周年",
@@ -691,12 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286947,
-      "num": 286947,
-      "word": "演唱会出轨门女主丈夫被曝出轨",
-      "onboard_time": 1758798020,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 284914,
+      "num": 284914,
+      "word": "CPSP抢票",
+      "onboard_time": 1758802522,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 283924,
@@ -713,6 +761,14 @@
       "onboard_time": 1758725122,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 282640,
+      "num": 346208,
+      "word": "12306长途有票 短途候补",
+      "onboard_time": 1758798501,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280022,
@@ -745,6 +801,14 @@
       "onboard_time": 1758718763,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 276184,
+      "num": 276184,
+      "word": "刘诗诗胡歌同框",
+      "onboard_time": 1758800181,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 275417,
@@ -803,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261847,
+      "num": 261847,
+      "word": "纤维粒 感谢碧昂丝",
+      "onboard_time": 1758802340,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261228,
       "num": 261228,
       "word": "保研",
@@ -827,6 +899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254933,
+      "num": 268141,
+      "word": "央视新闻给肖战的待遇",
+      "onboard_time": 1758803482,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 253041,
+      "num": 268229,
+      "word": "公马被发情母马追赶摔断脖颈",
+      "onboard_time": 1758803781,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250285,
       "num": 212408,
       "word": "苹果回应iPhone17Pro划痕",
@@ -849,14 +937,6 @@
       "onboard_time": 1758722962,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 244285,
-      "num": 244285,
-      "word": "12306长途有票 短途候补",
-      "onboard_time": 1758798501,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 243821,
@@ -889,6 +969,14 @@
       "onboard_time": 1758726743,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 235623,
+      "num": 235623,
+      "word": "韦雪晒整容前照片",
+      "onboard_time": 1758803842,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 228798,
@@ -987,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212149,
+      "num": 212149,
+      "word": "王腾看雷军演讲",
+      "onboard_time": 1758802340,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 212142,
       "num": 212142,
       "word": "15斤的小猫把床睡塌了",
@@ -995,12 +1091,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211391,
+      "num": 211391,
+      "word": "雷军 陈年",
+      "onboard_time": 1758802400,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 210259,
       "num": 210259,
       "word": "梁婷发长文谈肖战成毅",
       "onboard_time": 1758792859,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209725,
+      "num": 196303,
+      "word": "肖战9月28日澳门现场",
+      "onboard_time": 1758801321,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 208574,
@@ -1131,6 +1243,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 196936,
+      "num": 196936,
+      "word": "刘德华演唱会",
+      "onboard_time": 1758804562,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196449,
       "num": 196449,
       "word": "逍遥",
@@ -1153,6 +1273,14 @@
       "onboard_time": 1758776302,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195696,
+      "num": 195696,
+      "word": "小米17续航",
+      "onboard_time": 1758804080,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 195096,
@@ -1179,12 +1307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194055,
+      "num": 196545,
+      "word": "周冬雨出个国怎么美成这样",
+      "onboard_time": 1758800241,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193840,
       "num": 193840,
       "word": "关晓彤在王牌一整个误闯癫家",
       "onboard_time": 1758777861,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192520,
+      "num": 264121,
+      "word": "国防部回应福建舰何时入列",
+      "onboard_time": 1758787163,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192519,
@@ -1201,6 +1345,14 @@
       "onboard_time": 1758765080,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191374,
+      "num": 191374,
+      "word": "小米17售价4499元起",
+      "onboard_time": 1758804321,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 191291,
@@ -1243,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186954,
+      "num": 186954,
+      "word": "小米17Pro",
+      "onboard_time": 1758804502,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186690,
       "num": 213651,
       "word": "百妖谱",
@@ -1257,6 +1417,14 @@
       "onboard_time": 1758792561,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184465,
+      "num": 184465,
+      "word": "Prada大秀",
+      "onboard_time": 1758803901,
+      "rank": 34,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 184328,
@@ -1315,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179840,
+      "num": 173285,
+      "word": "68页PPT曝光在读博士与已婚女子同居",
+      "onboard_time": 1758802522,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179183,
       "num": 179183,
       "word": "爱奇艺悦享会",
@@ -1364,7 +1540,7 @@
     },
     {
       "raw_hot": 174744,
-      "num": 174744,
+      "num": 195953,
       "word": "台风走了胶带撕不掉了",
       "onboard_time": 1758797182,
       "rank": 20,
@@ -1401,6 +1577,14 @@
       "onboard_time": 1758784582,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172817,
+      "num": 345540,
+      "word": "专家建议将农民养老金提升至1000元",
+      "onboard_time": 1758800541,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172062,
@@ -1507,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163183,
+      "num": 163183,
+      "word": "这次心和工位都在旷野了",
+      "onboard_time": 1758803781,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163051,
       "num": 163051,
       "word": "你说这是董子健",
@@ -1531,6 +1723,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 159058,
+      "num": 159058,
+      "word": "鞠婧祎精修vs生图",
+      "onboard_time": 1758799821,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158207,
       "num": 158207,
       "word": "我的前半生 评论区",
@@ -1545,6 +1745,14 @@
       "onboard_time": 1758770781,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157668,
+      "num": 157668,
+      "word": "雷军比较小米17和iPhone17",
+      "onboard_time": 1758803901,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 155821,
@@ -1569,6 +1777,14 @@
       "onboard_time": 1758796221,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154109,
+      "num": 196651,
+      "word": "让天下没有难停的车",
+      "onboard_time": 1758803721,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 153590,
@@ -1611,14 +1827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152148,
-      "num": 245536,
-      "word": "国防部回应福建舰何时入列",
-      "onboard_time": 1758787163,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151201,
       "num": 151201,
       "word": "伊能静上台仍然是女明星",
@@ -1633,6 +1841,14 @@
       "onboard_time": 1758796941,
       "rank": 49,
       "category": "网红,游戏"
+    },
+    {
+      "raw_hot": 150756,
+      "num": 150756,
+      "word": "jiejie wei",
+      "onboard_time": 1758801381,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 149553,
@@ -1707,6 +1923,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143307,
+      "num": 143307,
+      "word": "Ning说Wei不如JieJie",
+      "onboard_time": 1758802161,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 143010,
+      "num": 143010,
+      "word": "沈佳润要和小沈阳有合体舞台了",
+      "onboard_time": 1758804441,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142957,
       "num": 142957,
       "word": "有些水果越吃越虚寒",
@@ -1753,6 +1985,14 @@
       "onboard_time": 1758793582,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139680,
+      "num": 139680,
+      "word": "雷军 刘德华",
+      "onboard_time": 1758804381,
+      "rank": 46,
+      "category": "演出,数码"
     },
     {
       "raw_hot": 139533,
@@ -1817,6 +2057,14 @@
       "onboard_time": 1758777083,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135663,
+      "num": 135663,
+      "word": "离婚难是因为无先例我来做第一例",
+      "onboard_time": 1758803901,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135269,
@@ -1969,6 +2217,14 @@
       "onboard_time": 1758800181,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123988,
+      "num": 123988,
+      "word": "雷军说小米YU7是最后的底牌",
+      "onboard_time": 1758804682,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 123601,
@@ -2140,7 +2396,7 @@
     },
     {
       "raw_hot": 111998,
-      "num": 755513,
+      "num": 1329652,
       "word": "一人一句祝福新疆",
       "onboard_time": 1758760761,
       "rank": 40,
@@ -2201,22 +2457,6 @@
       "onboard_time": 1758762681,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109076,
-      "num": 109076,
-      "word": "刘诗诗胡歌同框",
-      "onboard_time": 1758800181,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 108195,
-      "num": 112950,
-      "word": "鞠婧祎精修vs生图",
-      "onboard_time": 1758799821,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 108097,
@@ -2427,12 +2667,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94552,
-      "num": 94552,
-      "word": "小米17",
-      "onboard_time": 1758715882,
-      "rank": 37,
-      "category": "数码"
+      "raw_hot": 94316,
+      "num": 160534,
+      "word": "双高胎说辛芷蕾太好了",
+      "onboard_time": 1758804139,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 92384,
@@ -3155,6 +3395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23226,
+      "num": 159610,
+      "word": "台风过后广东阳江最新现场视频",
+      "onboard_time": 1758804202,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21728,
       "num": 157944,
       "word": "台湾水漫街头",
@@ -3168,6 +3416,14 @@
       "word": "续面事件老板称会为错误买单",
       "onboard_time": 1758742394,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21183,
+      "num": 192421,
+      "word": "台风期间有企业未停工人社局回应",
+      "onboard_time": 1758804562,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
