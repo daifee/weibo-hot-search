@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 10:12:17
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 11:06:55
 </p>
 </blockquote>
 <p>
@@ -1889,6 +1889,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3vs%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2%23" target="weibo">
 长期吃米vs长期吃面（热度：1370121）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%23" target="weibo">
+轧戏（热度：1367432）
 </a>
 </li>
 
@@ -3975,6 +3981,12 @@ iPhone18Pro已打样（热度：878237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E7%BD%91%E5%8F%8B%E5%AE%B6%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%88%AE%E6%9D%A5%E4%B8%80%E5%BC%A0%E5%8D%83%E5%85%83%E6%B8%AF%E5%B8%81%23" target="weibo">
+珠海网友家被台风刮来一张千元港币（热度：862662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%20%E4%B8%8D%E5%93%AD%E7%9A%84%E5%AD%A9%E5%AD%90%E4%B9%9F%E8%83%BD%E6%9C%89%E7%B3%96%E5%90%83%23" target="weibo">
 李沁 不哭的孩子也能有糖吃（热度：862627）
 </a>
@@ -6002,18 +6014,6 @@ iPhone17系列补贴后降1000元（热度：669556）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8C%85%E5%8F%B0%E9%95%87%E6%8A%958%E4%BA%BF%E5%BB%BA%E5%8E%82%E9%81%AD%E5%BC%BA%E8%A1%8C%E6%8E%A5%E7%AE%A1%23" target="weibo">
-男子茅台镇投8亿建厂遭强行接管（热度：657561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%81%9C%E6%AD%A2%E8%B7%B3%E5%8A%A8%E5%B8%B8%E9%A9%BB%23" target="weibo">
-建议汪苏泷停止跳动常驻（热度：657223）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6473,6 +6473,12 @@ iPhone17系列补贴后降1000元（热度：669556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E7%96%8670%E5%B9%B4%E8%BE%89%E7%85%8C%E6%88%90%E5%B0%B1%23%23" target="weibo">
 #新疆70年辉煌成就#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E5%B3%B0%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E%23%23" target="weibo">
+#习近平在联合国气候变化峰会上的致辞#
 </a>
 </li>
 

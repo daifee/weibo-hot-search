@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758766337916,
+  "endTime": 1758769615691,
   "band_list": [
     {
       "raw_hot": 1664942,
@@ -17,6 +17,14 @@
       "onboard_time": 1758762561,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1367432,
+      "num": 334068,
+      "word": "轧戏",
+      "onboard_time": 1758767360,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1266005,
@@ -49,6 +57,14 @@
       "onboard_time": 1758762980,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 862662,
+      "num": 1138025,
+      "word": "珠海网友家被台风刮来一张千元港币",
+      "onboard_time": 1758767060,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 741065,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 519210,
-      "num": 212729,
+      "num": 234199,
       "word": "医生提醒洗鸡蛋或制造细菌炸弹",
       "onboard_time": 1758760702,
       "rank": 20,
@@ -187,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370818,
+      "num": 234790,
+      "word": "中国有十亿左右人没坐过飞机",
+      "onboard_time": 1758767601,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369003,
       "num": 295012,
       "word": "洪尧疑似删除和吴谨言官宣结婚博",
@@ -203,12 +227,28 @@
       "category": "读书作家,互联网"
     },
     {
+      "raw_hot": 350106,
+      "num": 281659,
+      "word": "家业",
+      "onboard_time": 1758765080,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319380,
-      "num": 212520,
+      "num": 234250,
       "word": "模仿王源博主致歉",
       "onboard_time": 1758763881,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317522,
+      "num": 317522,
+      "word": "南部档案",
+      "onboard_time": 1758767240,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 287821,
@@ -233,14 +273,6 @@
       "onboard_time": 1758725122,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 281659,
-      "num": 281659,
-      "word": "家业",
-      "onboard_time": 1758765080,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 276420,
@@ -299,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237665,
+      "num": 237665,
+      "word": "灵魂摆渡十年",
+      "onboard_time": 1758765680,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221348,
       "num": 212800,
       "word": "紫幻",
@@ -323,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 212340,
+      "num": 212340,
+      "word": "以色列被炸视频流出",
+      "onboard_time": 1758768500,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 212142,
       "num": 212142,
       "word": "15斤的小猫把床睡塌了",
@@ -339,20 +387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206343,
+      "num": 235988,
+      "word": "逐玉",
+      "onboard_time": 1758768020,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205769,
       "num": 241889,
       "word": "王源周深又在微博音乐盛典闯祸了",
       "onboard_time": 1758730700,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204798,
-      "num": 204798,
-      "word": "灵魂摆渡十年",
-      "onboard_time": 1758765680,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 196449,
@@ -404,7 +452,7 @@
     },
     {
       "raw_hot": 187753,
-      "num": 187753,
+      "num": 236604,
       "word": "深圳比腰粗的大树被连根拔起",
       "onboard_time": 1758760942,
       "rank": 30,
@@ -427,12 +475,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172496,
+      "num": 172496,
+      "word": "58岁王祖贤健身房锻炼",
+      "onboard_time": 1758767181,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169709,
       "num": 169709,
       "word": "张雪峰多个平台账号被禁止关注",
       "onboard_time": 1758709162,
       "rank": 22,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 168800,
+      "num": 168800,
+      "word": "国庆中秋前一周的工作状态",
+      "onboard_time": 1758769159,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 162686,
+      "num": 180380,
+      "word": "新疆庆祝大会",
+      "onboard_time": 1758766100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 157918,
+      "num": 212900,
+      "word": "小米17首发第五代骁龙8至尊版",
+      "onboard_time": 1758768379,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 151201,
@@ -451,12 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141880,
+      "num": 141880,
+      "word": "辽宁舰13岁生日快乐",
+      "onboard_time": 1758767601,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141036,
+      "num": 141036,
+      "word": "刘芸拍戏郑钧跟组陪伴三年",
+      "onboard_time": 1758769101,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139322,
       "num": 136782,
       "word": "吹风机是不花钱的理疗仪",
       "onboard_time": 1758754220,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 135269,
+      "num": 135269,
+      "word": "奇瑞汽车港股上市",
+      "onboard_time": 1758769401,
+      "rank": 37,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 130160,
@@ -467,12 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123070,
-      "num": 180380,
-      "word": "新疆庆祝大会",
-      "onboard_time": 1758766100,
-      "rank": 27,
-      "category": "国内时政"
+      "raw_hot": 122914,
+      "num": 122914,
+      "word": "成毅李一桐狐妖王权篇新物料",
+      "onboard_time": 1758766639,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119647,
+      "num": 119647,
+      "word": "薛佳凝直播间水晶被指有质量问题",
+      "onboard_time": 1758767420,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 119217,
@@ -480,6 +592,22 @@
       "word": "田曦薇让粉丝从树上下来",
       "onboard_time": 1758738254,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118833,
+      "num": 118833,
+      "word": "错位拍吃李子坝轻轨",
+      "onboard_time": 1758767539,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118690,
+      "num": 118690,
+      "word": "Rihanna晒三胎女儿",
+      "onboard_time": 1758766461,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -515,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110576,
+      "num": 110576,
+      "word": "狂野时代",
+      "onboard_time": 1758769221,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109083,
       "num": 109083,
       "word": "始祖鸟域名纠纷",
@@ -547,6 +683,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 106349,
+      "num": 106349,
+      "word": "成毅赴山海哭喊戏",
+      "onboard_time": 1758766879,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105219,
       "num": 105219,
       "word": "徐振轩程相发传单",
@@ -561,6 +705,22 @@
       "onboard_time": 1758708323,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 104093,
+      "num": 104093,
+      "word": "雷军50来岁还是帅的太权威了",
+      "onboard_time": 1758766401,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 104063,
+      "num": 104063,
+      "word": "广东阳江路面积水成河",
+      "onboard_time": 1758769460,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100928,
@@ -676,7 +836,7 @@
     },
     {
       "raw_hot": 88920,
-      "num": 88920,
+      "num": 258280,
       "word": "新疆美食一口入魂千年回响",
       "onboard_time": 1758762441,
       "rank": 49,
@@ -971,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21569,
+      "num": 348814,
+      "word": "像石榴籽一样紧紧抱在一起",
+      "onboard_time": 1758762501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19593,
       "num": 30517,
       "word": "TFBOYS宣传王俊凯平遥电影展",
@@ -1041,6 +1209,9 @@
     },
     {
       "word": "#新疆70年辉煌成就#"
+    },
+    {
+      "word": "#习近平在联合国气候变化峰会上的致辞#"
     }
   ]
 }
