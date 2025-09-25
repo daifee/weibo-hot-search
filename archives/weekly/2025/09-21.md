@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/26 04:28:14
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/26 04:39:50
 </p>
 </blockquote>
 <p>
@@ -13467,6 +13467,12 @@ Knight有我就有冠军（热度：18611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%A7%B0%E6%8B%92%E5%81%9A%E6%93%A6%E8%BE%B9%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%81%B6%E6%84%8F%E8%A7%A3%E7%BA%A6%23" target="weibo">
+女孩称拒做擦边主播被恶意解约（热度：13421）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%AA%89%E5%8D%9A%E6%BC%94%E5%94%B1%E4%BC%9A%E6%94%B6%E5%AE%98%23" target="weibo">
 黄誉博演唱会收官（热度：13286）
 </a>
@@ -13475,6 +13481,12 @@ Knight有我就有冠军（热度：18611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%B9%B4%E5%BA%A6%E4%BA%BA%E6%B0%94%E6%AD%8C%E6%89%8B%23" target="weibo">
 刘宇年度人气歌手（热度：12728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iG%20%E8%BE%85%E5%8A%A9%23" target="weibo">
+iG 辅助（热度：12721）
 </a>
 </li>
 
