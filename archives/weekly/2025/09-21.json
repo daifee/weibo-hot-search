@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758804768627,
+  "endTime": 1758805600652,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2739569,
+      "num": 2739569,
+      "word": "小米发布会",
+      "onboard_time": 1758798261,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2613697,
       "num": 236664,
       "word": "王俊凯工作室",
@@ -89,14 +97,6 @@
       "onboard_time": 1758467365,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2417981,
-      "num": 2417981,
-      "word": "小米发布会",
-      "onboard_time": 1758798261,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 2313556,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1278439,
+      "num": 1278439,
+      "word": "小米17价格",
+      "onboard_time": 1758803301,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1270734,
       "num": 1270734,
       "word": "俞孔坚",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 1154913,
-      "num": 832296,
+      "num": 872276,
       "word": "王俊凯 电影在银幕上不在我脸上",
       "onboard_time": 1758797122,
       "rank": 3,
@@ -1257,14 +1265,6 @@
       "onboard_time": 1758459803,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 804395,
-      "num": 804395,
-      "word": "小米17价格",
-      "onboard_time": 1758803301,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 800733,
@@ -2315,20 +2315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531724,
+      "num": 524127,
+      "word": "姐弟坠亡案妈妈硬刚男友面相不好",
+      "onboard_time": 1758795741,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531086,
       "num": 1067660,
       "word": "苏新皓被助理架着走",
       "onboard_time": 1758726381,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 524127,
-      "num": 524127,
-      "word": "姐弟坠亡案妈妈硬刚男友面相不好",
-      "onboard_time": 1758795741,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 519210,
@@ -2352,6 +2352,14 @@
       "word": "预制菜国家标准",
       "onboard_time": 1758457043,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513685,
+      "num": 268229,
+      "word": "公马被发情母马追赶摔断脖颈",
+      "onboard_time": 1758803781,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -3083,6 +3091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 373372,
+      "num": 351063,
+      "word": "王晶谈谢霆锋张柏芝分手",
+      "onboard_time": 1758803781,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373367,
       "num": 373367,
       "word": "云归喜事",
@@ -3241,6 +3257,14 @@
       "onboard_time": 1758431841,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350860,
+      "num": 350860,
+      "word": "韦雪晒整容前照片",
+      "onboard_time": 1758803842,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 350821,
@@ -3465,6 +3489,14 @@
       "onboard_time": 1758418342,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 319456,
+      "num": 319456,
+      "word": "小米17Pro",
+      "onboard_time": 1758804502,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 319380,
@@ -3721,14 +3753,6 @@
       "onboard_time": 1758635543,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295175,
-      "num": 295175,
-      "word": "王晶谈谢霆锋张柏芝分手",
-      "onboard_time": 1758803781,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 294897,
@@ -4009,6 +4033,14 @@
       "onboard_time": 1758786082,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275213,
+      "num": 275213,
+      "word": "央视新闻给肖战的待遇",
+      "onboard_time": 1758803482,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 275053,
@@ -4355,14 +4387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254933,
-      "num": 268141,
-      "word": "央视新闻给肖战的待遇",
-      "onboard_time": 1758803482,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 254383,
       "num": 254383,
       "word": "iG冒泡赛",
@@ -4375,14 +4399,6 @@
       "num": 254078,
       "word": "气象局称深圳明早8点或现10级风力",
       "onboard_time": 1758648677,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253041,
-      "num": 268229,
-      "word": "公马被发情母马追赶摔断脖颈",
-      "onboard_time": 1758803781,
       "rank": 16,
       "category": "民生新闻"
     },
@@ -4697,14 +4713,6 @@
       "onboard_time": 1758516803,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235623,
-      "num": 235623,
-      "word": "韦雪晒整容前照片",
-      "onboard_time": 1758803842,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 234622,
@@ -5419,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206895,
+      "num": 351167,
+      "word": "专家建议将农民养老金提升至1000元",
+      "onboard_time": 1758800541,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206718,
       "num": 199975,
       "word": "谢娜女儿跳跳也有自己的代言人了",
@@ -5433,6 +5449,14 @@
       "onboard_time": 1758515423,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206404,
+      "num": 206404,
+      "word": "小米17Pro背屏",
+      "onboard_time": 1758805342,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 206240,
@@ -5617,6 +5641,14 @@
       "onboard_time": 1758690203,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202652,
+      "num": 212034,
+      "word": "雷军 刘德华",
+      "onboard_time": 1758804381,
+      "rank": 46,
+      "category": "演出,数码"
     },
     {
       "raw_hot": 202486,
@@ -5876,7 +5908,7 @@
     },
     {
       "raw_hot": 196936,
-      "num": 196936,
+      "num": 209917,
       "word": "刘德华演唱会",
       "onboard_time": 1758804562,
       "rank": 25,
@@ -6283,6 +6315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190604,
+      "num": 190604,
+      "word": "恋与深空黎深",
+      "onboard_time": 1758805461,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190320,
       "num": 190320,
       "word": "舰载机如何弹射起飞",
@@ -6491,14 +6531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186954,
-      "num": 186954,
-      "word": "小米17Pro",
-      "onboard_time": 1758804502,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 186842,
       "num": 186842,
       "word": "和平精英",
@@ -6529,6 +6561,14 @@
       "onboard_time": 1758770901,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186670,
+      "num": 207601,
+      "word": "王青冯建宇音乐节官宣",
+      "onboard_time": 1758805102,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 186465,
@@ -6867,6 +6907,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 180979,
+      "num": 180979,
+      "word": "鞠婧祎精修vs生图",
+      "onboard_time": 1758799821,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180915,
       "num": 180915,
       "word": "LPL",
@@ -6896,6 +6944,14 @@
       "word": "始祖鸟海外团队致歉",
       "onboard_time": 1758424040,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180351,
+      "num": 180351,
+      "word": "68页PPT曝光在读博士与已婚女子同居",
+      "onboard_time": 1758802522,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -6953,14 +7009,6 @@
       "onboard_time": 1758717742,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179840,
-      "num": 173285,
-      "word": "68页PPT曝光在读博士与已婚女子同居",
-      "onboard_time": 1758802522,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179712,
@@ -7339,14 +7387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172817,
-      "num": 345540,
-      "word": "专家建议将农民养老金提升至1000元",
-      "onboard_time": 1758800541,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172646,
       "num": 172646,
       "word": "年薪1.67亿的清华学霸仍然在逃",
@@ -7688,6 +7728,14 @@
       "word": "超强台风桦加沙强度已达17级以上",
       "onboard_time": 1758534201,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166427,
+      "num": 166427,
+      "word": "离婚难是因为无先例我来做第一例",
+      "onboard_time": 1758803901,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -8179,14 +8227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159058,
-      "num": 159058,
-      "word": "鞠婧祎精修vs生图",
-      "onboard_time": 1758799821,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158941,
       "num": 231447,
       "word": "大爷卖水卖到周杰伦演唱会现场",
@@ -8492,7 +8532,7 @@
     },
     {
       "raw_hot": 154109,
-      "num": 196651,
+      "num": 210066,
       "word": "让天下没有难停的车",
       "onboard_time": 1758803721,
       "rank": 26,
@@ -8955,6 +8995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148513,
+      "num": 148513,
+      "word": "追觅 库里南",
+      "onboard_time": 1758805281,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148461,
       "num": 160981,
       "word": "王一博GT收官站第二回合正赛",
@@ -9025,6 +9073,14 @@
       "onboard_time": 1758612082,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 147846,
+      "num": 147846,
+      "word": "by2差点就不能跳舞了",
+      "onboard_time": 1758804980,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 147755,
@@ -9747,14 +9803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139680,
-      "num": 139680,
-      "word": "雷军 刘德华",
-      "onboard_time": 1758804381,
-      "rank": 46,
-      "category": "演出,数码"
-    },
-    {
       "raw_hot": 139678,
       "num": 339781,
       "word": "广东广西福建不排除龙卷可能",
@@ -10107,14 +10155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135663,
-      "num": 135663,
-      "word": "离婚难是因为无先例我来做第一例",
-      "onboard_time": 1758803901,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135523,
       "num": 135523,
       "word": "屏花绮异志",
@@ -10329,6 +10369,14 @@
       "onboard_time": 1758715403,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132611,
+      "num": 163104,
+      "word": "朱珠上车前反手比心这一下",
+      "onboard_time": 1758805342,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 132533,
@@ -16259,6 +16307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32641,
+      "num": 254803,
+      "word": "台风期间有企业未停工人社局回应",
+      "onboard_time": 1758804562,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32451,
       "num": 162489,
       "word": "男子给邻居干活摔下房顶下肢瘫痪",
@@ -16755,12 +16811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24304,
+      "num": 206890,
+      "word": "助理确认蔡磊丧失语言能力",
+      "onboard_time": 1758804922,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24011,
       "num": 375326,
       "word": "Demna带你重新认识GUCCI",
       "onboard_time": 1758699562,
       "rank": 19,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 23975,
+      "num": 159610,
+      "word": "台风过后广东阳江最新现场视频",
+      "onboard_time": 1758804202,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23960,
@@ -16793,14 +16865,6 @@
       "onboard_time": 1758546444,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 23226,
-      "num": 159610,
-      "word": "台风过后广东阳江最新现场视频",
-      "onboard_time": 1758804202,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23156,
@@ -16865,14 +16929,6 @@
       "onboard_time": 1758565816,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 21183,
-      "num": 192421,
-      "word": "台风期间有企业未停工人社局回应",
-      "onboard_time": 1758804562,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20725,
@@ -17097,6 +17153,14 @@
       "onboard_time": 1758626963,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 13988,
+      "num": 252607,
+      "word": "航空业内人士分析北大教授坠机原因",
+      "onboard_time": 1758805042,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13812,
