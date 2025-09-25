@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 15:38:44
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 16:33:19
 </p>
 </blockquote>
 <p>
@@ -2655,6 +2655,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%886%20%E9%B9%BF%E6%99%97%23" target="weibo">
+五哈6 鹿晗（热度：1136657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E7%93%9C%E6%B1%A4%23" target="weibo">
 丝瓜汤（热度：1132888）
 </a>
@@ -2909,6 +2915,12 @@ wtt（热度：1154727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%93%A5%E5%93%A5%E6%8B%8D%E7%85%A7%E9%97%AE%E6%BB%A1%E6%84%8F%E4%BA%86%E5%90%97%23" target="weibo">
 男子杀前女友哥哥拍照问满意了吗（热度：1055371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%A9%9A%E5%90%8E%E5%8F%91%E7%A6%8F%23" target="weibo">
+黄子韬婚后发福（热度：1055102）
 </a>
 </li>
 
@@ -3603,6 +3615,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9D%9E%E5%B8%B8%E9%9D%9E%E5%B8%B8%E7%BC%BA%E4%BA%BA%23" target="weibo">
+小米非常非常缺人（热度：912057）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%90%8C%E7%8F%AD%E7%94%B7%E7%94%9F%E6%9D%80%E5%AE%B3%E5%B0%B8%E4%BD%93%E8%B7%9D%E5%AE%B6%E4%BB%85100%E7%B1%B3%23" target="weibo">
 女孩被同班男生杀害尸体距家仅100米（热度：911371）
 </a>
@@ -4011,6 +4029,12 @@ iPhone18Pro已打样（热度：878237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E4%BA%86%E5%8F%8C%E4%BC%91%23" target="weibo">
+重新定义了双休（热度：868017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%99%8B%E5%8F%B0%E8%AF%8D%23" target="weibo">
 罗晋台词（热度：866039）
 </a>
@@ -4403,6 +4427,12 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E8%B4%B9%E5%8A%A0%E7%BD%97%E4%B9%9D%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23" target="weibo">
 田栩宁费加罗九月刊封面预告（热度：828783）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9A%96K888888%E8%A2%AB%E6%9F%A5%E7%B3%BBAI%E5%90%88%E6%88%90%23" target="weibo">
+皖K888888被查系AI合成（热度：828193）
 </a>
 </li>
 
@@ -4889,12 +4919,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB8%E5%AE%98%E5%AE%A3%23" target="weibo">
 向往的生活8官宣（热度：775690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9D%9E%E5%B8%B8%E9%9D%9E%E5%B8%B8%E7%BC%BA%E4%BA%BA%23" target="weibo">
-小米非常非常缺人（热度：772805）
 </a>
 </li>
 
@@ -5990,30 +6014,6 @@ iPhone17系列补贴后降1000元（热度：669556）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%84%BF%E5%AD%90%E9%83%BD%E7%89%BA%E7%89%B2%E4%BA%86%E4%BB%96%E5%B8%A6%E7%85%A7%E7%89%87%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
-父亲儿子都牺牲了他带照片看阅兵（热度：667345）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23" target="weibo">
-谭松韵瘦了好多（热度：665941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%90%B3%E5%84%BF%E5%AD%90%E9%A6%96%E6%AC%A1%E5%87%BA%E9%95%9C%23" target="weibo">
-王琳儿子首次出镜（热度：665663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%8A%E7%90%8D%E6%8F%90%E8%AE%AE%E6%94%B9%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E7%BB%93%E5%B1%80%23" target="weibo">
-马伊琍提议改我的前半生结局（热度：665477）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6491,6 +6491,12 @@ iPhone17系列补贴后降1000元（热度：669556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA70%E5%91%A8%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%23%23" target="weibo">
 #新疆维吾尔自治区70周年庆祝大会#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E7%96%86%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%23%23" target="weibo">
+#新疆庆祝大会#
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758789199286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 912057,
+        "num": 1145929,
+        "word": "小米非常非常缺人",
+        "onboard_time": 1758783921,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 828193,
+        "num": 828193,
+        "word": "皖K888888被查系AI合成",
+        "onboard_time": 1758784582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32579,
+        "num": 547979,
+        "word": "一人一句祝福新疆",
+        "onboard_time": 1758760761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1563614,
+        "num": 458262,
+        "word": "纤维粒被抓",
+        "onboard_time": 1758784342,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1136657,
+        "num": 413440,
+        "word": "五哈6 鹿晗",
+        "onboard_time": 1758785601,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321548,
+        "num": 321548,
+        "word": "以色列核设施大量绝密文件被公开",
+        "onboard_time": 1758785002,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 577498,
+        "num": 307853,
+        "word": "小城良方 肖战",
+        "onboard_time": 1758785601,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290650,
+        "num": 290650,
+        "word": "法院回应警车在150公里外的山姆购物",
+        "onboard_time": 1758777680,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12208,
+        "num": 288866,
+        "word": "这是我们的新疆",
+        "onboard_time": 1758768080,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4005,
+        "num": 288459,
+        "word": "在路上看新疆70年",
+        "onboard_time": 1758759982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1055102,
+        "num": 285871,
+        "word": "黄子韬婚后发福",
+        "onboard_time": 1758786681,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868017,
+        "num": 282736,
+        "word": "重新定义了双休",
+        "onboard_time": 1758786621,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 863681,
+        "num": 279921,
+        "word": "ally官宣分手",
+        "onboard_time": 1758783381,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 611567,
+        "num": 279454,
+        "word": "汪苏泷生日和俊辰一起逛街",
+        "onboard_time": 1758776003,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509904,
+        "num": 275687,
+        "word": "粉丝爆料杨幂无缘金鸡奖",
+        "onboard_time": 1758783561,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275417,
+        "num": 275417,
+        "word": "男子台风天当街开车冲浪被行拘10日",
+        "onboard_time": 1758786082,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403044,
+        "num": 274722,
+        "word": "西贝删除温情公关文",
+        "onboard_time": 1758783022,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219789,
+        "num": 273458,
+        "word": "理想汽车 易烊千玺",
+        "onboard_time": 1758775403,
+        "rank": 17,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 86649,
+        "num": 271222,
+        "word": "孕妇坠崖案 离婚难",
+        "onboard_time": 1758788782,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41834,
+        "num": 269475,
+        "word": "Gucci米兰活动",
+        "onboard_time": 1758787702,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 414429,
+        "num": 268606,
+        "word": "女生醉驾撞死3人称不记得摸过车",
+        "onboard_time": 1758776602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320571,
+        "num": 267126,
+        "word": "以色列万人慌乱大奔逃",
+        "onboard_time": 1758781341,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 304895,
+        "num": 265128,
+        "word": "阳江受损严重",
+        "onboard_time": 1758776362,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253577,
+        "num": 262822,
+        "word": "刘耀文外务",
+        "onboard_time": 1758788002,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297668,
+        "num": 262053,
+        "word": "薛佳凝1分钟视频报价20万",
+        "onboard_time": 1758776542,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261228,
+        "num": 261228,
+        "word": "保研",
+        "onboard_time": 1758784100,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168336,
+        "num": 237576,
+        "word": "唐朝诡事录3新预告",
+        "onboard_time": 1758782540,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225917,
+        "num": 225917,
+        "word": "蔡国庆儿子好像张晚意",
+        "onboard_time": 1758782480,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136456,
+        "num": 212200,
+        "word": "短剧男演员选秀",
+        "onboard_time": 1758787282,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158826,
+        "num": 208823,
+        "word": "警方通报男子驾车造浪冲坏店门",
+        "onboard_time": 1758788841,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 206450,
+        "num": 206450,
+        "word": "月入三万以后的真实感受",
+        "onboard_time": 1758776003,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201528,
+        "num": 201528,
+        "word": "王一博 11亩香菜地",
+        "onboard_time": 1758783200,
+        "rank": 31,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 201419,
+        "num": 201419,
+        "word": "杜海涛怎么走爱豆路线了",
+        "onboard_time": 1758787101,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178169,
+        "num": 178169,
+        "word": "王暖暖离婚案男方将线上出庭",
+        "onboard_time": 1758787282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33982,
+        "num": 168262,
+        "word": "启境汽车任命CEO",
+        "onboard_time": 1758789142,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164889,
+        "num": 164889,
+        "word": "2025湾区升明月阵容官宣",
+        "onboard_time": 1758781042,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155199,
+        "num": 155199,
+        "word": "王暖暖国内离婚要等到70岁",
+        "onboard_time": 1758788961,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56188,
+        "num": 155153,
+        "word": "广岛都能申遗731为什么不行",
+        "onboard_time": 1758788541,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68623,
+        "num": 153590,
+        "word": "呵呵 白鹿站妈来了",
+        "onboard_time": 1758788482,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128922,
+        "num": 152483,
+        "word": "汪苏泷也受不了冷暴力",
+        "onboard_time": 1758788002,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98241,
+        "num": 151845,
+        "word": "我的前半生 评论区",
+        "onboard_time": 1758785302,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60247,
+        "num": 150835,
+        "word": "警方通报司机驾车造浪致商户受损",
+        "onboard_time": 1758787282,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150300,
+        "num": 150300,
+        "word": "我的前半生翻红",
+        "onboard_time": 1758787402,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165295,
+        "num": 150054,
+        "word": "外交部回应俞孔坚坠机去世",
+        "onboard_time": 1758788242,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159877,
+        "num": 150030,
+        "word": "蓝战非被禁止关注",
+        "onboard_time": 1758789081,
+        "rank": 44,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 149155,
+        "num": 149155,
+        "word": "煽情公关再翻车西贝该如何自救",
+        "onboard_time": 1758783861,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144224,
+        "num": 144224,
+        "word": "国防部回应福建舰何时入列",
+        "onboard_time": 1758787163,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125405,
+        "num": 125405,
+        "word": "罗马仕等三家公司召回充电宝超70万件",
+        "onboard_time": 1758789142,
+        "rank": 47,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 19695,
+        "num": 124455,
+        "word": "新疆的美好数不完",
+        "onboard_time": 1758763940,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123536,
+        "num": 123536,
+        "word": "内娱居然还有李飞没入股的遗珠",
+        "onboard_time": 1758773903,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆庆祝大会#"
+    }
+  }
+}
