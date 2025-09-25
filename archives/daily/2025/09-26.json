@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758836204168,
+  "endTime": 1758838914630,
   "band_list": [
     {
       "raw_hot": 936924,
@@ -179,6 +179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 131230,
+      "num": 131230,
+      "word": "做完你的 做你的",
+      "onboard_time": 1758824176,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116960,
       "num": 116960,
       "word": "雷军说苹果三星华为是无法逾越的大山",
@@ -331,20 +339,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82844,
+      "num": 82844,
+      "word": "王暖暖曝男方拖延离婚套路",
+      "onboard_time": 1758817939,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82308,
       "num": 82308,
       "word": "TES战胜IG",
       "onboard_time": 1758803721,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82297,
-      "num": 82297,
-      "word": "做完你的 做你的",
-      "onboard_time": 1758824176,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80460,
@@ -403,20 +411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59571,
-      "num": 59571,
-      "word": "王暖暖曝男方拖延离婚套路",
-      "onboard_time": 1758817939,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57641,
       "num": 59568,
       "word": "离婚难是因为无先例我来做第一例",
       "onboard_time": 1758803901,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54139,
+      "num": 54139,
+      "word": "刘宇宁体面二十多年被折的彻彻底底",
+      "onboard_time": 1758826034,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 54050,
@@ -483,16 +491,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 26079,
-      "num": 31328,
-      "word": "刘宇宁体面二十多年被折的彻彻底底",
-      "onboard_time": 1758826034,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25510,
-      "num": 25510,
+      "num": 26629,
       "word": "禁止向这3家美国实体出口两用物项",
       "onboard_time": 1758829094,
       "rank": 24,
@@ -507,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23753,
+      "num": 32081,
+      "word": "也门首都遭以军空袭",
+      "onboard_time": 1758809723,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22575,
       "num": 32082,
       "word": "小米平板",
       "onboard_time": 1758809364,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 22089,
+      "num": 26628,
+      "word": "成毅8年没和家人一起旅游了",
+      "onboard_time": 1758830354,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 21076,
@@ -523,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19494,
-      "num": 32081,
-      "word": "也门首都遭以军空袭",
-      "onboard_time": 1758809723,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 19414,
+      "num": 29972,
+      "word": "王暖暖给年轻女孩的婚姻建议",
+      "onboard_time": 1758835994,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19038,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 18657,
-      "num": 31405,
+      "num": 46800,
       "word": "美称拦截4架俄战机",
       "onboard_time": 1758825314,
       "rank": 43,
