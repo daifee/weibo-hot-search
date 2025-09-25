@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 22:25:57
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 22:45:00
 </p>
 </blockquote>
 <p>
@@ -2157,6 +2157,12 @@ NASA明确发现火星生命迹象（热度：1280374）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9C%B0%E9%93%81%E6%B7%B1%E5%A4%9C%E6%92%9E%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+官方通报地铁深夜撞人事件（热度：1275688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%A8%81%E5%B0%BC%E6%96%AF%E7%94%B5%E5%BD%B1%E8%8A%82%23" target="weibo">
 辛芷蕾 威尼斯电影节（热度：1275516）
 </a>
@@ -2663,12 +2669,6 @@ wtt（热度：1154727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%89%E5%AE%B6%E8%A2%AB%E6%B7%B9%E4%BA%86%23" target="weibo">
 颜安家被淹了（热度：1143765）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9C%B0%E9%93%81%E6%B7%B1%E5%A4%9C%E6%92%9E%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
-官方通报地铁深夜撞人事件（热度：1142672）
 </a>
 </li>
 
@@ -6497,6 +6497,12 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E7%96%86%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%23%23" target="weibo">
 #新疆庆祝大会#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E7%BE%A4%E4%BC%97%E7%83%AD%E6%83%85%E6%AC%A2%E9%80%81%E6%80%BB%E4%B9%A6%E8%AE%B0%23%23" target="weibo">
+#新疆各族群众热情欢送总书记#
 </a>
 </li>
 
