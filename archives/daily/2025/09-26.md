@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/26 00:31:19 ~ 2025/09/26 01:22:23
+本榜单时间：2025/09/26 00:31:19 ~ 2025/09/26 01:39:43
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,24 @@ TES战胜IG（热度：82308）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JackeyLove%E8%A6%81%E6%8A%8AS%E8%B5%9B%E5%86%A0%E5%86%9B%E7%95%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%23" target="weibo">
 JackeyLove要把S赛冠军留在中国（热度：35938）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E7%A7%8B%E6%B0%B4%E6%89%93%E7%88%BD%E4%BA%86%E6%88%91%E4%B9%9F%E7%9C%8B%E7%88%BD%E4%BA%86%23" target="weibo">
+萧秋水打爽了我也看爽了（热度：32665）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E5%89%A7%E9%A3%8E%E5%A3%B0%23" target="weibo">
+音乐剧风声（热度：31395）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%AD%A3%E6%98%AF%E9%97%AF%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
+雷军正是闯的年纪（热度：31192）
 </a>
 </li>
 
