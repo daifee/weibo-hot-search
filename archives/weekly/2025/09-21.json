@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758814942776,
+  "endTime": 1758817879722,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -2635,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 484761,
+      "num": 484761,
+      "word": "雷军曝陈年10年还清10亿债务",
+      "onboard_time": 1758811644,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 484470,
       "num": 484470,
       "word": "东莞五停",
@@ -2939,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415652,
+      "num": 415652,
+      "word": "孕妇泰国坠崖案丈夫离婚要分3000万",
+      "onboard_time": 1758812305,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 414351,
       "num": 414351,
       "word": "龚俊这集我在迪丽热巴那看过",
@@ -3145,14 +3161,6 @@
       "onboard_time": 1758622402,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 388145,
-      "num": 388145,
-      "word": "雷军曝陈年10年还清10亿债务",
-      "onboard_time": 1758811644,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 385711,
@@ -3915,6 +3923,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 290085,
+      "num": 226465,
+      "word": "鞠婧祎妈咪级别",
+      "onboard_time": 1758814342,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 288551,
       "num": 406471,
       "word": "广州全市解除五停",
@@ -4521,6 +4537,14 @@
       "onboard_time": 1758648677,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253950,
+      "num": 253950,
+      "word": "李现扛住了G社镜头",
+      "onboard_time": 1758815482,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 252426,
@@ -6083,14 +6107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196637,
-      "num": 196637,
-      "word": "孕妇泰国坠崖案丈夫离婚要分3000万",
-      "onboard_time": 1758812305,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196538,
       "num": 196538,
       "word": "沈月穿着古装跳舞",
@@ -6105,14 +6121,6 @@
       "onboard_time": 1758765080,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196380,
-      "num": 196380,
-      "word": "鞠婧祎妈咪级别",
-      "onboard_time": 1758814342,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 196273,
@@ -12163,6 +12171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118356,
+      "num": 232261,
+      "word": "官方辟谣地铁撞人事故系因演唱会",
+      "onboard_time": 1758816440,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 118331,
       "num": 187564,
       "word": "福建舰试验训练正顺利推进",
@@ -12835,6 +12851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110590,
+      "num": 150857,
+      "word": "范丞丞喊Passion",
+      "onboard_time": 1758816739,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110576,
       "num": 110576,
       "word": "狂野时代",
@@ -13419,6 +13443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102418,
+      "num": 97562,
+      "word": "中国网友模仿日本人打年糕",
+      "onboard_time": 1758816080,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102294,
       "num": 102294,
       "word": "始祖鸟称对自然需要更加谦卑",
@@ -13691,6 +13723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98142,
+      "num": 98142,
+      "word": "张子枫的美貌 蘑菇屋的骄傲",
+      "onboard_time": 1758815843,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98081,
       "num": 112513,
       "word": "全红婵家人送游客月饼",
@@ -13865,6 +13905,14 @@
       "onboard_time": 1758719782,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 95667,
+      "num": 95667,
+      "word": "蔡磊在抓紧时间推进科研",
+      "onboard_time": 1758815662,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95281,
@@ -14129,6 +14177,14 @@
       "onboard_time": 1758622222,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90845,
+      "num": 98109,
+      "word": "姐姐当家2拟邀嘉宾",
+      "onboard_time": 1758815722,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 90795,
@@ -14433,6 +14489,14 @@
       "onboard_time": 1758780381,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 85200,
+      "num": 85200,
+      "word": "陈年哭了",
+      "onboard_time": 1758812364,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 85039,
@@ -14817,6 +14881,14 @@
       "onboard_time": 1758431121,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74469,
+      "num": 74469,
+      "word": "好像我梦里那种上不了的厕所",
+      "onboard_time": 1758815662,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 74221,
@@ -15721,6 +15793,14 @@
       "onboard_time": 1758515305,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54050,
+      "num": 97950,
+      "word": "蔡磊说宁可战死不会屈辱等死",
+      "onboard_time": 1758816202,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53714,
@@ -17289,6 +17369,14 @@
       "onboard_time": 1758789742,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26484,
+      "num": 65468,
+      "word": "人社局回应领结婚证后入职婚假被拒",
+      "onboard_time": 1758816141,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26418,
