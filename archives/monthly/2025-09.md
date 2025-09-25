@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 23:27:18
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 23:42:22
 </p>
 </blockquote>
 <p>
@@ -3267,6 +3267,12 @@ iPhone17补贴后售价4999元（热度：997136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23" target="weibo">
+豆瓣崩了（热度：994982）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%BE%B3%E9%97%A8%E8%B5%9B%E5%86%A0%E5%86%9B%E5%90%88%E5%BD%B1%23" target="weibo">
 孙颖莎王楚钦澳门赛冠军合影（热度：993492）
 </a>
@@ -6005,12 +6011,6 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%AE%B6%E7%BF%8A%E7%98%A6%E4%BA%8670%E6%96%A4%E6%92%9E%E8%84%B8%E7%B1%B3%E5%8D%A1%23" target="weibo">
 方家翊瘦了70斤撞脸米卡（热度：678528）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E4%B8%80%E7%9B%B4%E8%A2%AB%E5%86%85%E5%A8%B1%E4%BD%8E%E4%BC%B0%E7%9A%84%E7%BE%8E%E8%B2%8C%23" target="weibo">
-李兰迪一直被内娱低估的美貌（热度：678342）
 </a>
 </li>
 
