@@ -1,0 +1,410 @@
+{
+  "runTime": 1758796024565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 959909,
+        "num": 1153585,
+        "word": "领结婚证后入职被告知无法请婚假",
+        "onboard_time": 1758790161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398661,
+        "num": 398661,
+        "word": "皖K888888被查系AI合成",
+        "onboard_time": 1758784582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18863,
+        "num": 325331,
+        "word": "一人一句祝福新疆",
+        "onboard_time": 1758760761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630381,
+        "num": 324807,
+        "word": "纤维粒被抓",
+        "onboard_time": 1758784342,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 431660,
+        "num": 323312,
+        "word": "五哈6 鹿晗",
+        "onboard_time": 1758785601,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321667,
+        "num": 321667,
+        "word": "恋与深空 登顶",
+        "onboard_time": 1758790761,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 330915,
+        "num": 308489,
+        "word": "我的前半生翻红",
+        "onboard_time": 1758787402,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271057,
+        "num": 271057,
+        "word": "小城良方 肖战",
+        "onboard_time": 1758785601,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8160,
+        "num": 270227,
+        "word": "新疆被大自然偏爱的证据",
+        "onboard_time": 1758766581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121396,
+        "num": 266145,
+        "word": "消失的她原型男方家属拒绝回应",
+        "onboard_time": 1758790101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 956293,
+        "num": 258796,
+        "word": "蓝战非被禁止关注",
+        "onboard_time": 1758789081,
+        "rank": 10,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 434150,
+        "num": 254918,
+        "word": "年薪20万属于什么水平",
+        "onboard_time": 1758790641,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365497,
+        "num": 252550,
+        "word": "蓝战非",
+        "onboard_time": 1758789321,
+        "rank": 12,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 297287,
+        "num": 244470,
+        "word": "重新定义了双休",
+        "onboard_time": 1758786621,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243821,
+        "num": 243821,
+        "word": "鸡排哥在事业上升期公布秘方",
+        "onboard_time": 1758793222,
+        "rank": 14,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 40736,
+        "num": 203744,
+        "word": "呼兰吐槽自己厨艺",
+        "onboard_time": 1758795381,
+        "rank": 15,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 199363,
+        "num": 199363,
+        "word": "蓝战非1分钟广告报价150万",
+        "onboard_time": 1758791720,
+        "rank": 16,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 197350,
+        "num": 197350,
+        "word": "鞠婧祎米兰人气好高",
+        "onboard_time": 1758795440,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 197167,
+        "num": 197167,
+        "word": "小米非常非常缺人",
+        "onboard_time": 1758783921,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183143,
+        "num": 183143,
+        "word": "TES对战iG",
+        "onboard_time": 1758791600,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180915,
+        "num": 180915,
+        "word": "LPL",
+        "onboard_time": 1758795440,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180892,
+        "num": 180892,
+        "word": "穆祉丞奶黄包",
+        "onboard_time": 1758795141,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174813,
+        "num": 174813,
+        "word": "吴京谢楠二儿子和惠英红拍杂志",
+        "onboard_time": 1758793401,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 172593,
+        "num": 172593,
+        "word": "粉丝爆料杨幂无缘金鸡奖",
+        "onboard_time": 1758783561,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158596,
+        "num": 158596,
+        "word": "2025湾区升明月阵容官宣",
+        "onboard_time": 1758781042,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1472755,
+        "num": 155474,
+        "word": "王暖暖国内离婚要等到70岁",
+        "onboard_time": 1758788961,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145874,
+        "num": 145874,
+        "word": "种地吧4官宣",
+        "onboard_time": 1758791120,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143789,
+        "num": 143789,
+        "word": "唐朝诡事录",
+        "onboard_time": 1758784822,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138897,
+        "num": 143584,
+        "word": "姐弟坠亡案妈妈硬刚男友面相不好",
+        "onboard_time": 1758795741,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35289,
+        "num": 143494,
+        "word": "泽连斯基准备好于俄乌冲突结束后离任",
+        "onboard_time": 1758795261,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255017,
+        "num": 143244,
+        "word": "女生经期前后肚子的区别",
+        "onboard_time": 1758794900,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152646,
+        "num": 142991,
+        "word": "李一桐G社镜头",
+        "onboard_time": 1758794721,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142957,
+        "num": 142957,
+        "word": "有些水果越吃越虚寒",
+        "onboard_time": 1758791000,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114407,
+        "num": 139520,
+        "word": "做堂堂正正中国人",
+        "onboard_time": 1758791541,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139331,
+        "num": 139331,
+        "word": "Angelababy杂志最终销量",
+        "onboard_time": 1758790941,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 133134,
+        "num": 133134,
+        "word": "网剧怪物开播",
+        "onboard_time": 1758794601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121492,
+        "num": 121492,
+        "word": "喜单团综",
+        "onboard_time": 1758795141,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117676,
+        "num": 121377,
+        "word": "警方通报男子驾车造浪冲坏店门",
+        "onboard_time": 1758788841,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150542,
+        "num": 120994,
+        "word": "孕妇坠崖案 离婚难",
+        "onboard_time": 1758788782,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41149,
+        "num": 120584,
+        "word": "真的有剧让我一眼生理性入冬",
+        "onboard_time": 1758795801,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27363,
+        "num": 120170,
+        "word": "律师谈绍兴地铁深夜撞保洁员致死",
+        "onboard_time": 1758794781,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119964,
+        "num": 119964,
+        "word": "黄子韬王鹤棣刘耀文生抽男团",
+        "onboard_time": 1758793582,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118191,
+        "num": 118191,
+        "word": "理想汽车 易烊千玺",
+        "onboard_time": 1758775403,
+        "rank": 42,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 95137,
+        "num": 117545,
+        "word": "你说这是董子健",
+        "onboard_time": 1758794601,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86716,
+        "num": 117267,
+        "word": "张嘉益被曝将入职北电",
+        "onboard_time": 1758795980,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117072,
+        "num": 117072,
+        "word": "怎么会有人出生就带全妆",
+        "onboard_time": 1758795920,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114037,
+        "num": 114037,
+        "word": "男子地下车库睡觉被碾压",
+        "onboard_time": 1758794360,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107993,
+        "num": 107993,
+        "word": "深圳执行力太强了",
+        "onboard_time": 1758793582,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94100,
+        "num": 103065,
+        "word": "国防部回应福建舰何时入列",
+        "onboard_time": 1758787163,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32939,
+        "num": 101905,
+        "word": "朝鲜外相崔善姬将访华",
+        "onboard_time": 1758794301,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆庆祝大会#"
+    }
+  }
+}

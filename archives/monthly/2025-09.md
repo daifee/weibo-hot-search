@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 17:40:46
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 18:27:04
 </p>
 </blockquote>
 <p>
@@ -3387,6 +3387,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E5%90%8E%E5%85%A5%E8%81%8C%E8%A2%AB%E5%91%8A%E7%9F%A5%E6%97%A0%E6%B3%95%E8%AF%B7%E5%A9%9A%E5%81%87%23" target="weibo">
+领结婚证后入职被告知无法请婚假（热度：959909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23" target="weibo">
 北大副校长任羽中主动投案（热度：958589）
 </a>
@@ -6005,12 +6011,6 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%8A%8A%E6%9D%8E%E5%85%B0%E8%BF%AA%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%BD%93%E6%88%90%E6%98%8E%E6%98%9F%23" target="weibo">
 路人把李兰迪经纪人当成明星（热度：670324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E8%A1%A5%E8%B4%B4%E5%90%8E%E9%99%8D1000%E5%85%83%23" target="weibo">
-iPhone17系列补贴后降1000元（热度：669556）
 </a>
 </li>
 
