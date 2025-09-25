@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758772155551,
+  "endTime": 1758774627450,
   "band_list": [
     {
       "raw_hot": 1664942,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1367432,
-      "num": 466486,
+      "num": 745648,
       "word": "轧戏",
       "onboard_time": 1758767360,
       "rank": 3,
@@ -43,11 +43,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1038844,
+      "num": 1166215,
+      "word": "景德镇 鸡排主理人",
+      "onboard_time": 1758770721,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 971276,
       "num": 1155404,
       "word": "珠海网友家被台风刮来一张千元港币",
       "onboard_time": 1758767060,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 943232,
+      "num": 943232,
+      "word": "娃哈哈将换标娃小宗",
+      "onboard_time": 1758773303,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 838175,
-      "num": 461005,
+      "num": 720181,
       "word": "以色列被炸视频流出",
       "onboard_time": 1758768500,
       "rank": 25,
@@ -139,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583310,
+      "num": 278856,
+      "word": "80秒里杨紫没几秒是干净的",
+      "onboard_time": 1758771202,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 575110,
       "num": 575110,
       "word": "雷军",
@@ -195,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413773,
+      "num": 290215,
+      "word": "孟佳 今天没戴一片假发片",
+      "onboard_time": 1758770962,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409149,
       "num": 409149,
       "word": "卖淫女子为躲检查意外坠亡",
@@ -219,20 +251,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 393425,
+      "num": 251858,
+      "word": "姚安娜拿到了全球限量labubu",
+      "onboard_time": 1758771141,
+      "rank": 25,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 376604,
       "num": 376604,
       "word": "张雪峰回应账号被禁止关注",
       "onboard_time": 1758711022,
       "rank": 12,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 375000,
-      "num": 239108,
-      "word": "姚安娜拿到了全球限量labubu",
-      "onboard_time": 1758771141,
-      "rank": 25,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 373367,
@@ -267,14 +299,6 @@
       "category": "读书作家,互联网"
     },
     {
-      "raw_hot": 362319,
-      "num": 362319,
-      "word": "景德镇 鸡排主理人",
-      "onboard_time": 1758770721,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 322531,
       "num": 292401,
       "word": "艾玛沃森特回应与JK罗琳决裂",
@@ -299,12 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310006,
-      "num": 290215,
-      "word": "孟佳 今天没戴一片假发片",
-      "onboard_time": 1758770962,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 288629,
+      "num": 288629,
+      "word": "台风后汕尾河边海鲜铺满一地",
+      "onboard_time": 1758773001,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287821,
@@ -363,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262696,
-      "num": 262696,
-      "word": "80秒里杨紫没几秒是干净的",
-      "onboard_time": 1758771202,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258036,
       "num": 258036,
       "word": "新疆庆祝大会",
@@ -385,6 +401,14 @@
       "onboard_time": 1758759503,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 247783,
+      "num": 247783,
+      "word": "李一桐23年拍的剧终于要播了",
+      "onboard_time": 1758773242,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 246902,
@@ -411,12 +435,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224834,
+      "num": 224834,
+      "word": "刘芮麟和妻子牵手逛街",
+      "onboard_time": 1758772642,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221348,
       "num": 212800,
       "word": "紫幻",
       "onboard_time": 1758728062,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218595,
+      "num": 218595,
+      "word": "云南一动物园现老虎吞食死去幼崽",
+      "onboard_time": 1758773660,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216466,
@@ -443,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209322,
+      "num": 209322,
+      "word": "生命树",
+      "onboard_time": 1758774262,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "老人去世留8套房给非亲生女儿最多",
@@ -465,6 +513,22 @@
       "onboard_time": 1758770540,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201855,
+      "num": 201855,
+      "word": "谢娜初代王牌队长回来了",
+      "onboard_time": 1758773421,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199238,
+      "num": 199238,
+      "word": "内娱居然还有李飞没入股的遗珠",
+      "onboard_time": 1758773903,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 196449,
@@ -499,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192007,
+      "num": 192007,
+      "word": "月饼",
+      "onboard_time": 1758773122,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191377,
       "num": 191377,
       "word": "00后老板请上百名员工搂席",
@@ -531,6 +603,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184146,
+      "num": 184146,
+      "word": "这居然是荣梓杉",
+      "onboard_time": 1758771921,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181751,
+      "num": 181751,
+      "word": "园方回应老虎产下死胎后将其吃掉",
+      "onboard_time": 1758774442,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180444,
       "num": 147389,
       "word": "胖东来宣布刑释人员全部录取",
@@ -555,14 +643,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 176155,
-      "num": 176155,
-      "word": "这居然是荣梓杉",
-      "onboard_time": 1758771921,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175667,
       "num": 175667,
       "word": "58岁王祖贤健身房锻炼",
@@ -571,12 +651,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175466,
+      "num": 175466,
+      "word": "猫的树依旧伟大",
+      "onboard_time": 1758774442,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174799,
+      "num": 174799,
+      "word": "宁德时代A股市值超贵州茅台",
+      "onboard_time": 1758773962,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 174215,
+      "num": 174215,
+      "word": "娜扎让乱世佳人有了脸",
+      "onboard_time": 1758774563,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171492,
       "num": 171492,
       "word": "刘芸拍戏郑钧跟组陪伴三年",
       "onboard_time": 1758769101,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169816,
+      "num": 169816,
+      "word": "艾玛沃特森回应与JK罗琳决裂",
+      "onboard_time": 1758771141,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 169709,
@@ -592,6 +704,38 @@
       "word": "国庆中秋前一周的工作状态",
       "onboard_time": 1758769159,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 168771,
+      "num": 174979,
+      "word": "郭俊辰狐妖王权篇改名权如沐",
+      "onboard_time": 1758773001,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165509,
+      "num": 161240,
+      "word": "芒果导演邀请章昊上综艺",
+      "onboard_time": 1758774563,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161371,
+      "num": 170997,
+      "word": "国庆旅游",
+      "onboard_time": 1758773841,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 158101,
+      "num": 158101,
+      "word": "大学生第一次自驾游是什么体验",
+      "onboard_time": 1758774323,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -739,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118183,
+      "num": 230747,
+      "word": "俞孔坚遗体需家人到巴西检测DNA",
+      "onboard_time": 1758774381,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117436,
       "num": 204546,
       "word": "中国人的河山不仅是风景更是信念",
@@ -753,6 +905,14 @@
       "onboard_time": 1758706582,
       "rank": 27,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 112785,
+      "num": 175103,
+      "word": "奶奶爸爸瞒着妈妈遗弃残疾女婴",
+      "onboard_time": 1758774141,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111998,
@@ -1180,7 +1340,7 @@
     },
     {
       "raw_hot": 57157,
-      "num": 479025,
+      "num": 758181,
       "word": "像石榴籽一样紧紧抱在一起",
       "onboard_time": 1758762501,
       "rank": 2,
@@ -1227,6 +1387,38 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46896,
+      "num": 201633,
+      "word": "井柏然山里起飞不像演的",
+      "onboard_time": 1758773181,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 46230,
+      "num": 283384,
+      "word": "第五代骁龙8至尊版",
+      "onboard_time": 1758773181,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 39660,
+      "num": 175374,
+      "word": "女孩巴厘岛疑中毒身亡幸存者回忆",
+      "onboard_time": 1758773962,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37570,
+      "num": 269949,
+      "word": "于适和孙艺洲抢衣服了",
+      "onboard_time": 1758771441,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36075,
       "num": 43264,
       "word": "胖东来录取30名刑释人员",
@@ -1243,12 +1435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34622,
+      "num": 275751,
+      "word": "看肖明明喝纯享我也想来一口",
+      "onboard_time": 1758773181,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33713,
       "num": 137674,
       "word": "吴尊Max第一次父子中网圆梦",
       "onboard_time": 1758765561,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 33276,
+      "num": 175234,
+      "word": "真三国无双2复刻版",
+      "onboard_time": 1758773841,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 31114,
@@ -1275,20 +1483,20 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 29711,
+      "num": 280498,
+      "word": "好多明星许愿微博大眼音乐节",
+      "onboard_time": 1758772880,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29057,
       "num": 52474,
       "word": "台湾民众拍下洪水冲毁桥面瞬间",
       "onboard_time": 1758744854,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28021,
-      "num": 262299,
-      "word": "于适和孙艺洲抢衣服了",
-      "onboard_time": 1758771441,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 27917,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758774627450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1038844,
+        "num": 1166215,
+        "word": "景德镇 鸡排主理人",
+        "onboard_time": 1758770721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 943232,
+        "num": 943232,
+        "word": "娃哈哈将换标娃小宗",
+        "onboard_time": 1758773303,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54343,
+        "num": 758181,
+        "word": "像石榴籽一样紧紧抱在一起",
+        "onboard_time": 1758762501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1057091,
+        "num": 745648,
+        "word": "轧戏",
+        "onboard_time": 1758767360,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 720181,
+        "num": 720181,
+        "word": "以色列被炸视频流出",
+        "onboard_time": 1758768500,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 692431,
+        "num": 692431,
+        "word": "梁靖崑入职北京电影学院",
+        "onboard_time": 1758770600,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602562,
+        "num": 602562,
+        "word": "珠海网友家被台风刮来一张千元港币",
+        "onboard_time": 1758767060,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322579,
+        "num": 322579,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 296331,
+        "num": 296331,
+        "word": "逐玉",
+        "onboard_time": 1758768020,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288629,
+        "num": 288629,
+        "word": "台风后汕尾河边海鲜铺满一地",
+        "onboard_time": 1758773001,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697108,
+        "num": 288578,
+        "word": "洪尧回应删除官宣博文",
+        "onboard_time": 1758762561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661653,
+        "num": 286813,
+        "word": "韩国大量收购国内文娱产业",
+        "onboard_time": 1758760582,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 587431,
+        "num": 284884,
+        "word": "中国有十亿左右人没坐过飞机",
+        "onboard_time": 1758767601,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46230,
+        "num": 283384,
+        "word": "第五代骁龙8至尊版",
+        "onboard_time": 1758773181,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29711,
+        "num": 280498,
+        "word": "好多明星许愿微博大眼音乐节",
+        "onboard_time": 1758772880,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 583310,
+        "num": 278856,
+        "word": "80秒里杨紫没几秒是干净的",
+        "onboard_time": 1758771202,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413773,
+        "num": 277991,
+        "word": "孟佳 今天没戴一片假发片",
+        "onboard_time": 1758770962,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34622,
+        "num": 275751,
+        "word": "看肖明明喝纯享我也想来一口",
+        "onboard_time": 1758773181,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275574,
+        "num": 275574,
+        "word": "南部档案",
+        "onboard_time": 1758767240,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37570,
+        "num": 269949,
+        "word": "于适和孙艺洲抢衣服了",
+        "onboard_time": 1758771441,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704420,
+        "num": 267290,
+        "word": "佳偶天成",
+        "onboard_time": 1758762980,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430807,
+        "num": 260034,
+        "word": "爱奇艺片单",
+        "onboard_time": 1758763821,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393425,
+        "num": 251858,
+        "word": "姚安娜拿到了全球限量labubu",
+        "onboard_time": 1758771141,
+        "rank": 22,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 247783,
+        "num": 247783,
+        "word": "李一桐23年拍的剧终于要播了",
+        "onboard_time": 1758773242,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118183,
+        "num": 230747,
+        "word": "俞孔坚遗体需家人到巴西检测DNA",
+        "onboard_time": 1758774381,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224834,
+        "num": 224834,
+        "word": "刘芮麟和妻子牵手逛街",
+        "onboard_time": 1758772642,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218595,
+        "num": 218595,
+        "word": "云南一动物园现老虎吞食死去幼崽",
+        "onboard_time": 1758773660,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209322,
+        "num": 209322,
+        "word": "生命树",
+        "onboard_time": 1758774262,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201855,
+        "num": 201855,
+        "word": "谢娜初代王牌队长回来了",
+        "onboard_time": 1758773421,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46896,
+        "num": 201633,
+        "word": "井柏然山里起飞不像演的",
+        "onboard_time": 1758773181,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201517,
+        "num": 201517,
+        "word": "模仿王源博主致歉",
+        "onboard_time": 1758763881,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199808,
+        "num": 199808,
+        "word": "医生提醒洗鸡蛋或制造细菌炸弹",
+        "onboard_time": 1758760702,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199238,
+        "num": 199238,
+        "word": "内娱居然还有李飞没入股的遗珠",
+        "onboard_time": 1758773903,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192007,
+        "num": 192007,
+        "word": "月饼",
+        "onboard_time": 1758773122,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184146,
+        "num": 184146,
+        "word": "这居然是荣梓杉",
+        "onboard_time": 1758771921,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181751,
+        "num": 181751,
+        "word": "园方回应老虎产下死胎后将其吃掉",
+        "onboard_time": 1758774442,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175466,
+        "num": 175466,
+        "word": "猫的树依旧伟大",
+        "onboard_time": 1758774442,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39660,
+        "num": 175374,
+        "word": "女孩巴厘岛疑中毒身亡幸存者回忆",
+        "onboard_time": 1758773962,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33276,
+        "num": 175234,
+        "word": "真三国无双2复刻版",
+        "onboard_time": 1758773841,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112785,
+        "num": 175103,
+        "word": "奶奶爸爸瞒着妈妈遗弃残疾女婴",
+        "onboard_time": 1758774141,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168771,
+        "num": 174979,
+        "word": "郭俊辰狐妖王权篇改名权如沐",
+        "onboard_time": 1758773001,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166140,
+        "num": 174907,
+        "word": "咱家的三航母太太太帅了",
+        "onboard_time": 1758762681,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174799,
+        "num": 174799,
+        "word": "宁德时代A股市值超贵州茅台",
+        "onboard_time": 1758773962,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174215,
+        "num": 174215,
+        "word": "娜扎让乱世佳人有了脸",
+        "onboard_time": 1758774563,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161371,
+        "num": 170997,
+        "word": "国庆旅游",
+        "onboard_time": 1758773841,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 169816,
+        "num": 169816,
+        "word": "艾玛沃特森回应与JK罗琳决裂",
+        "onboard_time": 1758771141,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162675,
+        "num": 162675,
+        "word": "雷军",
+        "onboard_time": 1758729862,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165509,
+        "num": 161240,
+        "word": "芒果导演邀请章昊上综艺",
+        "onboard_time": 1758774563,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158101,
+        "num": 158101,
+        "word": "大学生第一次自驾游是什么体验",
+        "onboard_time": 1758774323,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151874,
+        "num": 157050,
+        "word": "苹果回应iPhone17Pro划痕",
+        "onboard_time": 1758759503,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在联合国气候变化峰会上的致辞#"
+    }
+  }
+}

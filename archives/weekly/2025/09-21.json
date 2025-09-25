@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758772155551,
+  "endTime": 1758774627450,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1367432,
-      "num": 466486,
+      "num": 745648,
       "word": "轧戏",
       "onboard_time": 1758767360,
       "rank": 3,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1038844,
+      "num": 1166215,
+      "word": "景德镇 鸡排主理人",
+      "onboard_time": 1758770721,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1038719,
       "num": 668504,
       "word": "始祖鸟外网道歉被指甩锅中国团队",
@@ -728,6 +736,14 @@
       "word": "安踏回应始祖鸟炸山风波",
       "onboard_time": 1758463287,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 943232,
+      "num": 943232,
+      "word": "娃哈哈将换标娃小宗",
+      "onboard_time": 1758773303,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 838175,
-      "num": 461005,
+      "num": 720181,
       "word": "以色列被炸视频流出",
       "onboard_time": 1758768500,
       "rank": 25,
@@ -1779,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583310,
+      "num": 278856,
+      "word": "80秒里杨紫没几秒是干净的",
+      "onboard_time": 1758771202,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580074,
       "num": 580074,
       "word": "央视起底直播间高端四件套猫腻",
@@ -2499,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413773,
+      "num": 290215,
+      "word": "孟佳 今天没戴一片假发片",
+      "onboard_time": 1758770962,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412734,
       "num": 448023,
       "word": "0713 抢票",
@@ -2627,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393425,
+      "num": 251858,
+      "word": "姚安娜拿到了全球限量labubu",
+      "onboard_time": 1758771141,
+      "rank": 25,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 389357,
       "num": 389357,
       "word": "日掛中天定档",
@@ -2697,14 +2737,6 @@
       "onboard_time": 1758515240,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375000,
-      "num": 239108,
-      "word": "姚安娜拿到了全球限量labubu",
-      "onboard_time": 1758771141,
-      "rank": 25,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 373686,
@@ -2817,14 +2849,6 @@
       "onboard_time": 1758514342,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362319,
-      "num": 362319,
-      "word": "景德镇 鸡排主理人",
-      "onboard_time": 1758770721,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 361998,
@@ -3163,14 +3187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310006,
-      "num": 290215,
-      "word": "孟佳 今天没戴一片假发片",
-      "onboard_time": 1758770962,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308440,
       "num": 363148,
       "word": "单依纯 宁哥你紧张吗",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1758700641,
       "rank": 24,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 288629,
+      "num": 288629,
+      "word": "台风后汕尾河边海鲜铺满一地",
+      "onboard_time": 1758773001,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288551,
@@ -3723,14 +3747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262696,
-      "num": 262696,
-      "word": "80秒里杨紫没几秒是干净的",
-      "onboard_time": 1758771202,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262480,
       "num": 262480,
       "word": "王俊凯我这透明的一生",
@@ -3929,6 +3945,14 @@
       "onboard_time": 1758450321,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247783,
+      "num": 247783,
+      "word": "李一桐23年拍的剧终于要播了",
+      "onboard_time": 1758773242,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 247516,
@@ -4235,6 +4259,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 224834,
+      "num": 224834,
+      "word": "刘芮麟和妻子牵手逛街",
+      "onboard_time": 1758772642,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224479,
       "num": 234934,
       "word": "蔡国强烟花秀区域具有显著脆弱性",
@@ -4392,6 +4424,14 @@
       "word": "台风桦加沙最新消息汇总",
       "onboard_time": 1758558559,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218595,
+      "num": 218595,
+      "word": "云南一动物园现老虎吞食死去幼崽",
+      "onboard_time": 1758773660,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -4625,6 +4665,14 @@
       "onboard_time": 1758678740,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209322,
+      "num": 209322,
+      "word": "生命树",
+      "onboard_time": 1758774262,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 209256,
@@ -4923,6 +4971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201855,
+      "num": 201855,
+      "word": "谢娜初代王牌队长回来了",
+      "onboard_time": 1758773421,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201662,
       "num": 201662,
       "word": "王楚钦看演唱会被眼尖球迷发现",
@@ -5001,6 +5057,14 @@
       "onboard_time": 1758706462,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199238,
+      "num": 199238,
+      "word": "内娱居然还有李飞没入股的遗珠",
+      "onboard_time": 1758773903,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 199134,
@@ -5361,6 +5425,14 @@
       "onboard_time": 1758514462,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192007,
+      "num": 192007,
+      "word": "月饼",
+      "onboard_time": 1758773122,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 191995,
@@ -5779,6 +5851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184146,
+      "num": 184146,
+      "word": "这居然是荣梓杉",
+      "onboard_time": 1758771921,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183950,
       "num": 183950,
       "word": "iPhone17Pro绿屏",
@@ -5905,6 +5985,14 @@
       "onboard_time": 1758611961,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181751,
+      "num": 181751,
+      "word": "园方回应老虎产下死胎后将其吃掉",
+      "onboard_time": 1758774442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181580,
@@ -6179,14 +6267,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 176155,
-      "num": 176155,
-      "word": "这居然是荣梓杉",
-      "onboard_time": 1758771921,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175992,
       "num": 224240,
       "word": "以色列总理称未来一年摧毁伊朗轴心",
@@ -6227,12 +6307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175466,
+      "num": 175466,
+      "word": "猫的树依旧伟大",
+      "onboard_time": 1758774442,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175258,
       "num": 370404,
       "word": "支付宝emoji",
       "onboard_time": 1758507981,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174799,
+      "num": 174799,
+      "word": "宁德时代A股市值超贵州茅台",
+      "onboard_time": 1758773962,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 174727,
@@ -6289,6 +6385,14 @@
       "onboard_time": 1758713061,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174215,
+      "num": 174215,
+      "word": "娜扎让乱世佳人有了脸",
+      "onboard_time": 1758774563,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 173626,
@@ -6443,6 +6547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169816,
+      "num": 169816,
+      "word": "艾玛沃特森回应与JK罗琳决裂",
+      "onboard_time": 1758771141,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169694,
       "num": 169694,
       "word": "桦加沙已在阳江登陆",
@@ -6513,6 +6625,14 @@
       "onboard_time": 1758439101,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168771,
+      "num": 174979,
+      "word": "郭俊辰狐妖王权篇改名权如沐",
+      "onboard_time": 1758773001,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 168737,
@@ -6657,6 +6777,14 @@
       "onboard_time": 1758510560,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165509,
+      "num": 161240,
+      "word": "芒果导演邀请章昊上综艺",
+      "onboard_time": 1758774563,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 165426,
@@ -6891,6 +7019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161371,
+      "num": 170997,
+      "word": "国庆旅游",
+      "onboard_time": 1758773841,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 161302,
       "num": 161302,
       "word": "向往的生活gap了一下",
@@ -7105,6 +7241,14 @@
       "onboard_time": 1758435141,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158101,
+      "num": 158101,
+      "word": "大学生第一次自驾游是什么体验",
+      "onboard_time": 1758774323,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 158013,
@@ -10139,6 +10283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118183,
+      "num": 230747,
+      "word": "俞孔坚遗体需家人到巴西检测DNA",
+      "onboard_time": 1758774381,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117931,
       "num": 117931,
       "word": "亲密关系不该谈七年之痒色变",
@@ -10529,6 +10681,14 @@
       "onboard_time": 1758725002,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112785,
+      "num": 175103,
+      "word": "奶奶爸爸瞒着妈妈遗弃残疾女婴",
+      "onboard_time": 1758774141,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112776,
@@ -13148,7 +13308,7 @@
     },
     {
       "raw_hot": 57157,
-      "num": 479025,
+      "num": 758181,
       "word": "像石榴籽一样紧紧抱在一起",
       "onboard_time": 1758762501,
       "rank": 2,
@@ -13675,6 +13835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 46896,
+      "num": 201633,
+      "word": "井柏然山里起飞不像演的",
+      "onboard_time": 1758773181,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 46624,
       "num": 127775,
       "word": "六旬男子连挖10座墓偷11个骨灰盒",
@@ -13697,6 +13865,14 @@
       "onboard_time": 1758445282,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46230,
+      "num": 283384,
+      "word": "第五代骁龙8至尊版",
+      "onboard_time": 1758773181,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 46104,
@@ -13931,6 +14107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39660,
+      "num": 175374,
+      "word": "女孩巴厘岛疑中毒身亡幸存者回忆",
+      "onboard_time": 1758773962,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39455,
       "num": 107161,
       "word": "孕妇遭宠物狗追咬胎停双方已和解",
@@ -14057,6 +14241,14 @@
       "onboard_time": 1758646278,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37570,
+      "num": 269949,
+      "word": "于适和孙艺洲抢衣服了",
+      "onboard_time": 1758771441,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 37507,
@@ -14203,6 +14395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 34622,
+      "num": 275751,
+      "word": "看肖明明喝纯享我也想来一口",
+      "onboard_time": 1758773181,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34130,
       "num": 241173,
       "word": "当地回应小区停水用吸污车供水",
@@ -14265,6 +14465,14 @@
       "onboard_time": 1758535282,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33276,
+      "num": 175234,
+      "word": "真三国无双2复刻版",
+      "onboard_time": 1758773841,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 32953,
@@ -14443,6 +14651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 29711,
+      "num": 280498,
+      "word": "好多明星许愿微博大眼音乐节",
+      "onboard_time": 1758772880,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29697,
       "num": 132916,
       "word": "偶遇王星越排队嗦粉",
@@ -14585,14 +14801,6 @@
       "onboard_time": 1758423921,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28021,
-      "num": 262299,
-      "word": "于适和孙艺洲抢衣服了",
-      "onboard_time": 1758771441,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 27917,

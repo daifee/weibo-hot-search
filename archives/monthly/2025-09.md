@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 11:49:15
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 12:30:27
 </p>
 </blockquote>
 <p>
@@ -2937,6 +2937,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%20%E9%B8%A1%E6%8E%92%E4%B8%BB%E7%90%86%E4%BA%BA%23" target="weibo">
+景德镇 鸡排主理人（热度：1038844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%A4%96%E7%BD%91%E9%81%93%E6%AD%89%E8%A2%AB%E6%8C%87%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%23" target="weibo">
 始祖鸟外网道歉被指甩锅中国团队（热度：1038719）
 </a>
@@ -3395,6 +3401,12 @@ KiMi已经16岁了（热度：945720）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro3%23" target="weibo">
 AirPods Pro3（热度：944535）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%B0%86%E6%8D%A2%E6%A0%87%E5%A8%83%E5%B0%8F%E5%AE%97%23" target="weibo">
+娃哈哈将换标娃小宗（热度：943232）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone17系列补贴后降1000元（热度：669556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E9%9B%AA%E5%9B%9E%E5%BA%949%E4%BA%BF%E5%88%86%E6%89%8B%E8%B4%B9%23" target="weibo">
 韦雪回应9亿分手费（热度：660122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9B%B4%E6%92%AD%23" target="weibo">
-肖战直播（热度：659561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
-教体局回应一中学新初一共94个班（热度：659433）
 </a>
 </li>
 
