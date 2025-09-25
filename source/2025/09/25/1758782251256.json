@@ -1,0 +1,410 @@
+{
+  "runTime": 1758782251256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 803315,
+        "num": 1128530,
+        "word": "法院回应警车在150公里外的山姆购物",
+        "onboard_time": 1758777680,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694730,
+        "num": 694730,
+        "word": "女生醉驾撞死3人称不记得摸过车",
+        "onboard_time": 1758776602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44516,
+        "num": 663542,
+        "word": "像石榴籽一样紧紧抱在一起",
+        "onboard_time": 1758762501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1043194,
+        "num": 649231,
+        "word": "阳江受损严重",
+        "onboard_time": 1758776362,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845821,
+        "num": 647651,
+        "word": "薛佳凝1分钟视频报价20万",
+        "onboard_time": 1758776542,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634571,
+        "num": 634571,
+        "word": "景德镇 鸡排主理人",
+        "onboard_time": 1758770721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630936,
+        "num": 630936,
+        "word": "理想汽车 易烊千玺",
+        "onboard_time": 1758775403,
+        "rank": 6,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 305506,
+        "num": 305506,
+        "word": "狐妖王权篇万剑穿心名场面来了",
+        "onboard_time": 1758776242,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14632,
+        "num": 273598,
+        "word": "新疆美食一口入魂千年回响",
+        "onboard_time": 1758762441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261793,
+        "num": 261793,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1157537,
+        "num": 258881,
+        "word": "汪苏泷生日和俊辰一起逛街",
+        "onboard_time": 1758776003,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519429,
+        "num": 257150,
+        "word": "内娱居然还有李飞没入股的遗珠",
+        "onboard_time": 1758773903,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387499,
+        "num": 249658,
+        "word": "韩国大量收购国内文娱产业",
+        "onboard_time": 1758760582,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323486,
+        "num": 247345,
+        "word": "洪尧回应删除官宣博文",
+        "onboard_time": 1758762561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243820,
+        "num": 243820,
+        "word": "轧戏",
+        "onboard_time": 1758767360,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34285,
+        "num": 239031,
+        "word": "张晚意短片像拆快乐盲盒",
+        "onboard_time": 1758778641,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237066,
+        "num": 237066,
+        "word": "2025湾区升明月阵容官宣",
+        "onboard_time": 1758781042,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216550,
+        "num": 216550,
+        "word": "园方回应老虎产下死胎后将其吃掉",
+        "onboard_time": 1758774442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71144,
+        "num": 216436,
+        "word": "荣耀Magic8外观首曝",
+        "onboard_time": 1758780381,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43775,
+        "num": 214551,
+        "word": "被李沁暖到了",
+        "onboard_time": 1758780440,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341763,
+        "num": 213868,
+        "word": "月入三万以后的真实感受",
+        "onboard_time": 1758776003,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268363,
+        "num": 212820,
+        "word": "遵义提级调查投8亿污水厂遭接管",
+        "onboard_time": 1758775642,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 212376,
+        "num": 212376,
+        "word": "80秒里杨紫没几秒是干净的",
+        "onboard_time": 1758771202,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208145,
+        "num": 208145,
+        "word": "理想汽车首位代言人",
+        "onboard_time": 1758774922,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145982,
+        "num": 205969,
+        "word": "男子在家连拔2天火罐致高位截瘫",
+        "onboard_time": 1758775942,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204547,
+        "num": 204547,
+        "word": "沈佳润有效出道",
+        "onboard_time": 1758778041,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195096,
+        "num": 195096,
+        "word": "回家火车票 候补",
+        "onboard_time": 1758778882,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191358,
+        "num": 191358,
+        "word": "以色列万人慌乱大奔逃",
+        "onboard_time": 1758781341,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173415,
+        "num": 173415,
+        "word": "云南一动物园现老虎吞食死去幼崽",
+        "onboard_time": 1758773660,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24929,
+        "num": 173370,
+        "word": "警方否定俞孔坚坠机系野猪导致",
+        "onboard_time": 1758781881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173360,
+        "num": 173360,
+        "word": "曝Jiejie解说iG对战TES",
+        "onboard_time": 1758780321,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171768,
+        "num": 171768,
+        "word": "爱奇艺片单",
+        "onboard_time": 1758763821,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100038,
+        "num": 164183,
+        "word": "俞孔坚空难飞行员复飞原因仍调查中",
+        "onboard_time": 1758780260,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161304,
+        "num": 161304,
+        "word": "向太回应曾婉拒刘亦菲",
+        "onboard_time": 1758780081,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56254,
+        "num": 156798,
+        "word": "为什么年轻人要走向户外",
+        "onboard_time": 1758778702,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156246,
+        "num": 156246,
+        "word": "董璇跟张维伊签婚前协议这段",
+        "onboard_time": 1758780922,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145849,
+        "num": 145849,
+        "word": "第一次见三年找18个替身的女主",
+        "onboard_time": 1758779661,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129354,
+        "num": 145514,
+        "word": "刘萧旭说爆红不会影响与女友感情",
+        "onboard_time": 1758781161,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23602,
+        "num": 145476,
+        "word": "崔丽丽还未拿到113万赔偿",
+        "onboard_time": 1758781822,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145476,
+        "num": 145475,
+        "word": "生命树",
+        "onboard_time": 1758774262,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136284,
+        "num": 136284,
+        "word": "陈梦长发大衣造型出发米兰",
+        "onboard_time": 1758778641,
+        "rank": 40,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 133375,
+        "num": 133375,
+        "word": "杨紫和胡歌的原声台词爆发力太好了",
+        "onboard_time": 1758780081,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127902,
+        "num": 127902,
+        "word": "以色列被炸视频流出",
+        "onboard_time": 1758768500,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127412,
+        "num": 127412,
+        "word": "黎姿现身黎宣追思会",
+        "onboard_time": 1758780200,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125669,
+        "num": 125669,
+        "word": "新疆庆祝大会",
+        "onboard_time": 1758766100,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122469,
+        "num": 122469,
+        "word": "金晨又穿上练功服了",
+        "onboard_time": 1758780742,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120859,
+        "num": 120859,
+        "word": "庞铮offer7连续三个课题第一",
+        "onboard_time": 1758780681,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118429,
+        "num": 118429,
+        "word": "梁靖崑入职北京电影学院",
+        "onboard_time": 1758770600,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111877,
+        "num": 111877,
+        "word": "小米涨5%",
+        "onboard_time": 1758782061,
+        "rank": 48,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 110008,
+        "num": 110008,
+        "word": "乌总统说计划向他国出售海上无人机",
+        "onboard_time": 1758780861,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆维吾尔自治区70周年庆祝大会#"
+    }
+  }
+}
