@@ -1,7 +1,23 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758756991179,
+  "endTime": 1758765037388,
   "band_list": [
+    {
+      "raw_hot": 1483621,
+      "num": 563887,
+      "word": "韩国大量收购国内文娱产业",
+      "onboard_time": 1758760582,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1388236,
+      "num": 367988,
+      "word": "洪尧回应删除官宣博文",
+      "onboard_time": 1758762561,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1266005,
       "num": 693696,
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 741065,
-      "num": 741065,
+      "num": 1096051,
       "word": "广东大部分被台风桦加沙覆盖",
       "onboard_time": 1758741193,
       "rank": 13,
@@ -51,12 +67,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 633142,
+      "num": 563179,
+      "word": "佳偶天成",
+      "onboard_time": 1758762980,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 608745,
       "num": 608745,
       "word": "桦加沙登陆广东",
       "onboard_time": 1758706102,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 589493,
+      "num": 589493,
+      "word": "月嫂下户前偷偷给宝宝塞红包",
+      "onboard_time": 1758756019,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575110,
@@ -81,6 +113,22 @@
       "onboard_time": 1758721643,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 436299,
+      "num": 212729,
+      "word": "医生提醒洗鸡蛋或制造细菌炸弹",
+      "onboard_time": 1758760702,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424036,
+      "num": 424036,
+      "word": "咱家的三航母太太太帅了",
+      "onboard_time": 1758762681,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 419784,
@@ -123,12 +171,44 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 369003,
+      "num": 295012,
+      "word": "洪尧疑似删除和吴谨言官宣结婚博",
+      "onboard_time": 1758756859,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366656,
       "num": 366656,
       "word": "晋江崩了",
       "onboard_time": 1758725902,
       "rank": 13,
       "category": "读书作家,互联网"
+    },
+    {
+      "raw_hot": 366506,
+      "num": 366506,
+      "word": "爱奇艺片单",
+      "onboard_time": 1758763821,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 296475,
+      "num": 296475,
+      "word": "云归喜事",
+      "onboard_time": 1758763041,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287821,
+      "num": 287821,
+      "word": "陆虎庆祝与嘘嘘在一起10周年",
+      "onboard_time": 1758757160,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 283924,
@@ -147,12 +227,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281750,
+      "num": 212520,
+      "word": "模仿王源博主致歉",
+      "onboard_time": 1758763881,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276420,
       "num": 276420,
       "word": "垫底辣孩回应丑出圈",
       "onboard_time": 1758718763,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 269586,
+      "num": 269586,
+      "word": "北京大学教授俞孔坚在巴西坠机遇难",
+      "onboard_time": 1758720563,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265636,
@@ -169,6 +265,14 @@
       "onboard_time": 1758704482,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250285,
+      "num": 212408,
+      "word": "苹果回应iPhone17Pro划痕",
+      "onboard_time": 1758759503,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 246902,
@@ -203,6 +307,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212785,
+      "num": 212785,
+      "word": "韩媒曝光金建希庭审画面",
+      "onboard_time": 1758759261,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 212142,
+      "num": 212142,
+      "word": "15斤的小猫把床睡塌了",
+      "onboard_time": 1758759321,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "老人去世留8套房给非亲生女儿最多",
@@ -219,12 +339,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194794,
+      "num": 194794,
+      "word": "家业制墨文化预告",
+      "onboard_time": 1758765020,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194055,
       "num": 194055,
       "word": "刘亦菲和两位年轻男子聚餐",
       "onboard_time": 1758713121,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192519,
+      "num": 192519,
+      "word": "澳门海水已涌入",
+      "onboard_time": 1758761482,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187753,
+      "num": 187753,
+      "word": "深圳比腰粗的大树被连根拔起",
+      "onboard_time": 1758760942,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180444,
@@ -243,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176399,
-      "num": 131958,
-      "word": "月嫂下户前偷偷给宝宝塞红包",
-      "onboard_time": 1758756019,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169709,
       "num": 169709,
       "word": "张雪峰多个平台账号被禁止关注",
@@ -259,12 +395,44 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 168349,
+      "num": 168349,
+      "word": "桃黑黑为辩积报仇",
+      "onboard_time": 1758763221,
+      "rank": 31,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 151201,
+      "num": 151201,
+      "word": "伊能静上台仍然是女明星",
+      "onboard_time": 1758756019,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 149553,
+      "num": 149553,
+      "word": "被王扁恶搞王源方为何还不维权",
+      "onboard_time": 1758758662,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139322,
-      "num": 131556,
+      "num": 136782,
       "word": "吹风机是不花钱的理疗仪",
       "onboard_time": 1758754220,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 130160,
+      "num": 130160,
+      "word": "纽约城vs迈阿密国际",
+      "onboard_time": 1758764841,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 119217,
@@ -275,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117436,
+      "num": 157382,
+      "word": "中国人的河山不仅是风景更是信念",
+      "onboard_time": 1758764899,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113933,
       "num": 113933,
       "word": "桦加沙登陆风力13级",
       "onboard_time": 1758706582,
       "rank": 27,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 111998,
+      "num": 111998,
+      "word": "一人一句祝福新疆",
+      "onboard_time": 1758760761,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110809,
@@ -291,20 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110147,
-      "num": 110147,
-      "word": "伊能静上台仍然是女明星",
-      "onboard_time": 1758756019,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 108097,
       "num": 108097,
       "word": "钦州五停",
       "onboard_time": 1758729801,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107395,
+      "num": 107395,
+      "word": "存款20万先买车还是先买房",
+      "onboard_time": 1758721882,
+      "rank": 43,
+      "category": "议题讨论,汽车"
     },
     {
       "raw_hot": 106582,
@@ -347,11 +531,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99700,
+      "num": 99700,
+      "word": "阿尔瓦雷斯世界波绝杀",
+      "onboard_time": 1758763641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98274,
       "num": 98274,
       "word": "日本警告以色列",
       "onboard_time": 1758712461,
       "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 96304,
+      "num": 96304,
+      "word": "乌克兰叙利亚恢复外交关系",
+      "onboard_time": 1758764360,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -371,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90274,
+      "num": 90274,
+      "word": "白鹿李一桐米兰时装周造型",
+      "onboard_time": 1758757821,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90184,
       "num": 105949,
       "word": "网红敖其尔去世",
@@ -385,6 +593,22 @@
       "onboard_time": 1758730640,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 89824,
+      "num": 89824,
+      "word": "藏在同事之间的微妙恶意",
+      "onboard_time": 1758762023,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88920,
+      "num": 88920,
+      "word": "新疆美食一口入魂千年回响",
+      "onboard_time": 1758762441,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87164,
@@ -411,20 +635,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83538,
+      "num": 369424,
+      "word": "新疆的美好数不完",
+      "onboard_time": 1758763940,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79321,
       "num": 118971,
       "word": "美征收欧盟汽车15%关税",
       "onboard_time": 1758755899,
       "rank": 27,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 79061,
-      "num": 79061,
-      "word": "存款20万先买车还是先买房",
-      "onboard_time": 1758721882,
-      "rank": 43,
-      "category": "议题讨论,汽车"
     },
     {
       "raw_hot": 77428,
@@ -523,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59850,
-      "num": 59850,
-      "word": "洪尧疑似删除和吴谨言官宣结婚博",
-      "onboard_time": 1758756859,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58634,
       "num": 58634,
       "word": "央行将开展6000亿元1年期MLF操作",
@@ -561,6 +777,14 @@
       "onboard_time": 1758737776,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49617,
+      "num": 149639,
+      "word": "网警查处2男子非法破解无人机飞行控制系统",
+      "onboard_time": 1758763041,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49185,

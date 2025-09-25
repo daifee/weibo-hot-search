@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758756991179,
+  "endTime": 1758765037388,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1483621,
+      "num": 563887,
+      "word": "韩国大量收购国内文娱产业",
+      "onboard_time": 1758760582,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1476181,
       "num": 487281,
       "word": "蔡国强一句道歉修复不了喜马拉雅",
@@ -305,6 +313,14 @@
       "onboard_time": 1758413420,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1388236,
+      "num": 367988,
+      "word": "洪尧回应删除官宣博文",
+      "onboard_time": 1758762561,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1382018,
@@ -1180,7 +1196,7 @@
     },
     {
       "raw_hot": 741065,
-      "num": 741065,
+      "num": 1096051,
       "word": "广东大部分被台风桦加沙覆盖",
       "onboard_time": 1758741193,
       "rank": 13,
@@ -1555,6 +1571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 633142,
+      "num": 563179,
+      "word": "佳偶天成",
+      "onboard_time": 1758762980,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 630584,
       "num": 316666,
       "word": "崔丽丽称老板刚被判刑她就被开除",
@@ -1688,6 +1712,14 @@
       "word": "超强台风桦加沙位置更新",
       "onboard_time": 1758518663,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 589493,
+      "num": 589493,
+      "word": "月嫂下户前偷偷给宝宝塞红包",
+      "onboard_time": 1758756019,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2299,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436299,
+      "num": 212729,
+      "word": "医生提醒洗鸡蛋或制造细菌炸弹",
+      "onboard_time": 1758760702,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436163,
       "num": 436163,
       "word": "迪丽热巴剪彩怕彩头掉地上",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1758708502,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 424036,
+      "num": 424036,
+      "word": "咱家的三航母太太太帅了",
+      "onboard_time": 1758762681,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 423392,
@@ -2611,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369003,
+      "num": 295012,
+      "word": "洪尧疑似删除和吴谨言官宣结婚博",
+      "onboard_time": 1758756859,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368734,
       "num": 297632,
       "word": "董子健给8岁女儿庆生",
@@ -2641,6 +2697,14 @@
       "onboard_time": 1758725902,
       "rank": 31,
       "category": "读书作家,互联网"
+    },
+    {
+      "raw_hot": 366506,
+      "num": 366506,
+      "word": "爱奇艺片单",
+      "onboard_time": 1758763821,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 366449,
@@ -3131,6 +3195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296475,
+      "num": 296475,
+      "word": "云归喜事",
+      "onboard_time": 1758763041,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295642,
       "num": 386025,
       "word": "桦加沙降临前深圳现奇异天象",
@@ -3193,6 +3265,14 @@
       "onboard_time": 1758614602,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287821,
+      "num": 287821,
+      "word": "陆虎庆祝与嘘嘘在一起10周年",
+      "onboard_time": 1758757160,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 287797,
@@ -3288,6 +3368,14 @@
       "word": "宋亚轩晒自己拍的刘耀文",
       "onboard_time": 1758583699,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281750,
+      "num": 212520,
+      "word": "模仿王源博主致歉",
+      "onboard_time": 1758763881,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -3417,6 +3505,14 @@
       "onboard_time": 1758498020,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 269586,
+      "num": 269586,
+      "word": "北京大学教授俞孔坚在巴西坠机遇难",
+      "onboard_time": 1758720563,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268250,
@@ -3689,6 +3785,14 @@
       "onboard_time": 1758599241,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250285,
+      "num": 212408,
+      "word": "苹果回应iPhone17Pro划痕",
+      "onboard_time": 1758759503,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 249377,
@@ -4297,6 +4401,22 @@
       "onboard_time": 1758425121,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212785,
+      "num": 212785,
+      "word": "韩媒曝光金建希庭审画面",
+      "onboard_time": 1758759261,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 212142,
+      "num": 212142,
+      "word": "15斤的小猫把床睡塌了",
+      "onboard_time": 1758759321,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 211862,
@@ -4963,6 +5083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194794,
+      "num": 194794,
+      "word": "家业制墨文化预告",
+      "onboard_time": 1758765020,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194772,
       "num": 194772,
       "word": "吴邪私家笔记第8集30分37秒",
@@ -5057,6 +5185,14 @@
       "onboard_time": 1758425722,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192519,
+      "num": 192519,
+      "word": "澳门海水已涌入",
+      "onboard_time": 1758761482,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192479,
@@ -5289,6 +5425,14 @@
       "onboard_time": 1758510081,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187753,
+      "num": 187753,
+      "word": "深圳比腰粗的大树被连根拔起",
+      "onboard_time": 1758760942,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187749,
@@ -5867,14 +6011,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 176399,
-      "num": 131958,
-      "word": "月嫂下户前偷偷给宝宝塞红包",
-      "onboard_time": 1758756019,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175992,
       "num": 224240,
       "word": "以色列总理称未来一年摧毁伊朗轴心",
@@ -6209,6 +6345,14 @@
       "onboard_time": 1758696142,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168349,
+      "num": 168349,
+      "word": "桃黑黑为辩积报仇",
+      "onboard_time": 1758763221,
+      "rank": 31,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 168189,
@@ -7179,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151201,
+      "num": 151201,
+      "word": "伊能静上台仍然是女明星",
+      "onboard_time": 1758756019,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151168,
       "num": 414316,
       "word": "深圳全市公共交通停运",
@@ -7273,6 +7425,14 @@
       "onboard_time": 1758685460,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149553,
+      "num": 149553,
+      "word": "被王扁恶搞王源方为何还不维权",
+      "onboard_time": 1758758662,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 149341,
@@ -8052,7 +8212,7 @@
     },
     {
       "raw_hot": 139322,
-      "num": 131556,
+      "num": 136782,
       "word": "吹风机是不花钱的理疗仪",
       "onboard_time": 1758754220,
       "rank": 21,
@@ -8713,6 +8873,14 @@
       "onboard_time": 1758498260,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130160,
+      "num": 130160,
+      "word": "纽约城vs迈阿密国际",
+      "onboard_time": 1758764841,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 129928,
@@ -9715,6 +9883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117436,
+      "num": 157382,
+      "word": "中国人的河山不仅是风景更是信念",
+      "onboard_time": 1758764899,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117357,
       "num": 117357,
       "word": "越塔bug",
@@ -10107,6 +10283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111998,
+      "num": 111998,
+      "word": "一人一句祝福新疆",
+      "onboard_time": 1758760761,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111944,
       "num": 111944,
       "word": "十四五成就",
@@ -10249,14 +10433,6 @@
       "onboard_time": 1758530001,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110147,
-      "num": 110147,
-      "word": "伊能静上台仍然是女明星",
-      "onboard_time": 1758756019,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 110115,
@@ -10859,6 +11035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99700,
+      "num": 99700,
+      "word": "阿尔瓦雷斯世界波绝杀",
+      "onboard_time": 1758763641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99596,
       "num": 99596,
       "word": "超强台风桦加沙进入24小时警戒线",
@@ -11009,6 +11193,14 @@
       "onboard_time": 1758379284,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96304,
+      "num": 96304,
+      "word": "乌克兰叙利亚恢复外交关系",
+      "onboard_time": 1758764360,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96234,
@@ -11315,6 +11507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90274,
+      "num": 90274,
+      "word": "白鹿李一桐米兰时装周造型",
+      "onboard_time": 1758757821,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90200,
       "num": 90200,
       "word": "张继科说打到2024年没问题",
@@ -11345,6 +11545,14 @@
       "onboard_time": 1758550642,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89824,
+      "num": 89824,
+      "word": "藏在同事之间的微妙恶意",
+      "onboard_time": 1758762023,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 89812,
@@ -11409,6 +11617,14 @@
       "onboard_time": 1758697462,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88920,
+      "num": 88920,
+      "word": "新疆美食一口入魂千年回响",
+      "onboard_time": 1758762441,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88375,
@@ -11609,6 +11825,14 @@
       "onboard_time": 1758631762,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 83538,
+      "num": 369424,
+      "word": "新疆的美好数不完",
+      "onboard_time": 1758763940,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83438,
@@ -12395,14 +12619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59850,
-      "num": 59850,
-      "word": "洪尧疑似删除和吴谨言官宣结婚博",
-      "onboard_time": 1758756859,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59754,
       "num": 218369,
       "word": "荣耀Magic8影像迎来井喷式升级",
@@ -12889,6 +13105,14 @@
       "onboard_time": 1758607582,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 49617,
+      "num": 149639,
+      "word": "网警查处2男子非法破解无人机飞行控制系统",
+      "onboard_time": 1758763041,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49185,
