@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758770127540,
+  "endTime": 1758772155551,
   "band_list": [
     {
       "raw_hot": 1664942,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1367432,
-      "num": 348734,
+      "num": 466486,
       "word": "轧戏",
       "onboard_time": 1758767360,
       "rank": 3,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 971276,
+      "num": 1155404,
+      "word": "珠海网友家被台风刮来一张千元港币",
+      "onboard_time": 1758767060,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 932911,
       "num": 387690,
       "word": "姐弟坠亡案妈妈5年后官宣新恋情",
@@ -59,12 +67,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 862662,
-      "num": 1138025,
-      "word": "珠海网友家被台风刮来一张千元港币",
-      "onboard_time": 1758767060,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 838175,
+      "num": 461005,
+      "word": "以色列被炸视频流出",
+      "onboard_time": 1758768500,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 788248,
+      "num": 788248,
+      "word": "梁靖崑入职北京电影学院",
+      "onboard_time": 1758770600,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 741065,
@@ -89,6 +105,14 @@
       "onboard_time": 1758720743,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 650451,
+      "num": 297498,
+      "word": "中国有十亿左右人没坐过飞机",
+      "onboard_time": 1758767601,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 608745,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 519210,
-      "num": 234199,
+      "num": 235515,
       "word": "医生提醒洗鸡蛋或制造细菌炸弹",
       "onboard_time": 1758760702,
       "rank": 20,
@@ -155,8 +179,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 427850,
-      "num": 347200,
+      "raw_hot": 447914,
+      "num": 447914,
       "word": "南部档案",
       "onboard_time": 1758767240,
       "rank": 4,
@@ -195,20 +219,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 391659,
-      "num": 234790,
-      "word": "中国有十亿左右人没坐过飞机",
-      "onboard_time": 1758767601,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 376604,
       "num": 376604,
       "word": "张雪峰回应账号被禁止关注",
       "onboard_time": 1758711022,
       "rank": 12,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 375000,
+      "num": 239108,
+      "word": "姚安娜拿到了全球限量labubu",
+      "onboard_time": 1758771141,
+      "rank": 25,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 373367,
@@ -243,12 +267,20 @@
       "category": "读书作家,互联网"
     },
     {
-      "raw_hot": 342476,
-      "num": 342476,
-      "word": "以色列被炸视频流出",
-      "onboard_time": 1758768500,
-      "rank": 25,
-      "category": "海外新闻"
+      "raw_hot": 362319,
+      "num": 362319,
+      "word": "景德镇 鸡排主理人",
+      "onboard_time": 1758770721,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322531,
+      "num": 292401,
+      "word": "艾玛沃森特回应与JK罗琳决裂",
+      "onboard_time": 1758771141,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 319380,
@@ -256,6 +288,22 @@
       "word": "模仿王源博主致歉",
       "onboard_time": 1758763881,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 315520,
+      "num": 315520,
+      "word": "逐玉",
+      "onboard_time": 1758768020,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 310006,
+      "num": 290215,
+      "word": "孟佳 今天没戴一片假发片",
+      "onboard_time": 1758770962,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -315,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262696,
+      "num": 262696,
+      "word": "80秒里杨紫没几秒是干净的",
+      "onboard_time": 1758771202,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258036,
+      "num": 258036,
+      "word": "新疆庆祝大会",
+      "onboard_time": 1758766100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 250285,
       "num": 212408,
       "word": "苹果回应iPhone17Pro划痕",
@@ -355,14 +419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220018,
-      "num": 220018,
-      "word": "新疆庆祝大会",
-      "onboard_time": 1758766100,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 216466,
       "num": 216466,
       "word": "王源 好听",
@@ -395,20 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206343,
-      "num": 235988,
-      "word": "逐玉",
-      "onboard_time": 1758768020,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205769,
       "num": 241889,
       "word": "王源周深又在微博音乐盛典闯祸了",
       "onboard_time": 1758730700,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205613,
+      "num": 260477,
+      "word": "学院通报俞孔坚罹难",
+      "onboard_time": 1758770540,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196449,
@@ -467,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186690,
+      "num": 213651,
+      "word": "百妖谱",
+      "onboard_time": 1758770901,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180444,
       "num": 147389,
       "word": "胖东来宣布刑释人员全部录取",
@@ -484,11 +548,19 @@
     },
     {
       "raw_hot": 178190,
-      "num": 212900,
+      "num": 239606,
       "word": "小米17首发第五代骁龙8至尊版",
       "onboard_time": 1758768379,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 176155,
+      "num": 176155,
+      "word": "这居然是荣梓杉",
+      "onboard_time": 1758771921,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 175667,
@@ -523,6 +595,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157820,
+      "num": 157820,
+      "word": "魏大勋孙千不止是悬疑更是悬溺",
+      "onboard_time": 1758770781,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155406,
+      "num": 155406,
+      "word": "全世界都知道丁程鑫是小狐狸了",
+      "onboard_time": 1758771561,
+      "rank": 42,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 152604,
+      "num": 152604,
+      "word": "星布谷地",
+      "onboard_time": 1758770600,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151201,
       "num": 151201,
       "word": "伊能静上台仍然是女明星",
@@ -555,6 +651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 136837,
+      "num": 136837,
+      "word": "成何体统",
+      "onboard_time": 1758770181,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135269,
       "num": 135269,
       "word": "奇瑞汽车港股上市",
@@ -569,6 +673,22 @@
       "onboard_time": 1758767420,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132533,
+      "num": 132533,
+      "word": "气象局回应广东大部分被桦加沙覆盖",
+      "onboard_time": 1758770962,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131001,
+      "num": 131001,
+      "word": "有戏",
+      "onboard_time": 1758770901,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130160,
@@ -955,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71784,
+      "num": 158133,
+      "word": "台湾受灾民众零元购",
+      "onboard_time": 1758771681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71668,
       "num": 71668,
       "word": "台湾花莲死亡人数17人修正为14人",
@@ -992,6 +1120,14 @@
       "word": "已经很期待国庆假期了",
       "onboard_time": 1758731659,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67725,
+      "num": 209945,
+      "word": "北大回应俞孔坚教授空难去世",
+      "onboard_time": 1758771081,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1041,6 +1177,30 @@
       "onboard_time": 1758713842,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57157,
+      "num": 479025,
+      "word": "像石榴籽一样紧紧抱在一起",
+      "onboard_time": 1758762501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56844,
+      "num": 159243,
+      "word": "电影731王子阳原型",
+      "onboard_time": 1758771441,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 53165,
+      "num": 261392,
+      "word": "广州塔定塔神器出现明显摆动",
+      "onboard_time": 1758771801,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50870,
@@ -1099,14 +1259,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 30359,
-      "num": 348978,
-      "word": "像石榴籽一样紧紧抱在一起",
-      "onboard_time": 1758762501,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30239,
       "num": 59038,
       "word": "王欣瑜搞笑天赋拉满",
@@ -1129,6 +1281,14 @@
       "onboard_time": 1758744854,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28021,
+      "num": 262299,
+      "word": "于适和孙艺洲抢衣服了",
+      "onboard_time": 1758771441,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 27917,
@@ -1161,6 +1321,22 @@
       "onboard_time": 1758740893,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23960,
+      "num": 305920,
+      "word": "祝福新疆亚克西",
+      "onboard_time": 1758771622,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21728,
+      "num": 157944,
+      "word": "台湾水漫街头",
+      "onboard_time": 1758771321,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21671,
