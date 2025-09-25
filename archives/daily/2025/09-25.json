@@ -1,6 +1,6 @@
 {
   "startTime": 1758731555436,
-  "endTime": 1758769615691,
+  "endTime": 1758770127540,
   "band_list": [
     {
       "raw_hot": 1664942,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1367432,
-      "num": 334068,
+      "num": 348734,
       "word": "轧戏",
       "onboard_time": 1758767360,
       "rank": 3,
@@ -155,6 +155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 427850,
+      "num": 347200,
+      "word": "南部档案",
+      "onboard_time": 1758767240,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419784,
       "num": 382810,
       "word": "向太说刘亦菲圈内口碑真的很好",
@@ -187,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 391659,
+      "num": 234790,
+      "word": "中国有十亿左右人没坐过飞机",
+      "onboard_time": 1758767601,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376604,
       "num": 376604,
       "word": "张雪峰回应账号被禁止关注",
@@ -203,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370818,
-      "num": 234790,
-      "word": "中国有十亿左右人没坐过飞机",
-      "onboard_time": 1758767601,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 372212,
+      "num": 281659,
+      "word": "家业",
+      "onboard_time": 1758765080,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 369003,
@@ -227,12 +243,12 @@
       "category": "读书作家,互联网"
     },
     {
-      "raw_hot": 350106,
-      "num": 281659,
-      "word": "家业",
-      "onboard_time": 1758765080,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 342476,
+      "num": 342476,
+      "word": "以色列被炸视频流出",
+      "onboard_time": 1758768500,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 319380,
@@ -241,14 +257,6 @@
       "onboard_time": 1758763881,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317522,
-      "num": 317522,
-      "word": "南部档案",
-      "onboard_time": 1758767240,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 287821,
@@ -323,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243614,
+      "num": 243614,
+      "word": "灵魂摆渡十年",
+      "onboard_time": 1758765680,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240878,
       "num": 388377,
       "word": "刺杀特朗普未遂男子当庭试图自杀",
@@ -331,20 +347,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237665,
-      "num": 237665,
-      "word": "灵魂摆渡十年",
-      "onboard_time": 1758765680,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221348,
       "num": 212800,
       "word": "紫幻",
       "onboard_time": 1758728062,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220018,
+      "num": 220018,
+      "word": "新疆庆祝大会",
+      "onboard_time": 1758766100,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 216466,
@@ -361,14 +377,6 @@
       "onboard_time": 1758759261,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 212340,
-      "num": 212340,
-      "word": "以色列被炸视频流出",
-      "onboard_time": 1758768500,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 212142,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 187753,
-      "num": 236604,
+      "num": 242857,
       "word": "深圳比腰粗的大树被连根拔起",
       "onboard_time": 1758760942,
       "rank": 30,
@@ -475,12 +483,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172496,
-      "num": 172496,
+      "raw_hot": 178190,
+      "num": 212900,
+      "word": "小米17首发第五代骁龙8至尊版",
+      "onboard_time": 1758768379,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 175667,
+      "num": 175667,
       "word": "58岁王祖贤健身房锻炼",
       "onboard_time": 1758767181,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171492,
+      "num": 171492,
+      "word": "刘芸拍戏郑钧跟组陪伴三年",
+      "onboard_time": 1758769101,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 169709,
@@ -497,22 +521,6 @@
       "onboard_time": 1758769159,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162686,
-      "num": 180380,
-      "word": "新疆庆祝大会",
-      "onboard_time": 1758766100,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 157918,
-      "num": 212900,
-      "word": "小米17首发第五代骁龙8至尊版",
-      "onboard_time": 1758768379,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 151201,
@@ -539,14 +547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141036,
-      "num": 141036,
-      "word": "刘芸拍戏郑钧跟组陪伴三年",
-      "onboard_time": 1758769101,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139322,
       "num": 136782,
       "word": "吹风机是不花钱的理疗仪",
@@ -561,6 +561,14 @@
       "onboard_time": 1758769401,
       "rank": 37,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 134450,
+      "num": 134450,
+      "word": "薛佳凝直播间水晶被指有质量问题",
+      "onboard_time": 1758767420,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 130160,
@@ -579,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119647,
-      "num": 119647,
-      "word": "薛佳凝直播间水晶被指有质量问题",
-      "onboard_time": 1758767420,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 122070,
+      "num": 122070,
+      "word": "盛世天下",
+      "onboard_time": 1758769761,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 119217,
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105306,
+      "num": 105306,
+      "word": "广东阳江路面积水成河",
+      "onboard_time": 1758769460,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105219,
       "num": 105219,
       "word": "徐振轩程相发传单",
@@ -699,28 +715,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104639,
-      "num": 104639,
-      "word": "女装 聚酯纤维",
-      "onboard_time": 1758708323,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 104093,
-      "num": 104093,
+      "raw_hot": 104959,
+      "num": 104959,
       "word": "雷军50来岁还是帅的太权威了",
       "onboard_time": 1758766401,
       "rank": 48,
       "category": "互联网"
     },
     {
-      "raw_hot": 104063,
-      "num": 104063,
-      "word": "广东阳江路面积水成河",
-      "onboard_time": 1758769460,
+      "raw_hot": 104662,
+      "num": 104662,
+      "word": "懂点细节真能买到好衣服",
+      "onboard_time": 1758768919,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104639,
+      "num": 104639,
+      "word": "女装 聚酯纤维",
+      "onboard_time": 1758708323,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 100928,
@@ -753,6 +769,14 @@
       "onboard_time": 1758712461,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98081,
+      "num": 112513,
+      "word": "全红婵家人送游客月饼",
+      "onboard_time": 1758769821,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 97930,
@@ -881,6 +905,14 @@
       "onboard_time": 1758728602,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81359,
+      "num": 109182,
+      "word": "庆祝新疆维吾尔自治区成立70周年贺电",
+      "onboard_time": 1758770060,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79321,
@@ -1067,6 +1099,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 30359,
+      "num": 348978,
+      "word": "像石榴籽一样紧紧抱在一起",
+      "onboard_time": 1758762501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30239,
       "num": 59038,
       "word": "王欣瑜搞笑天赋拉满",
@@ -1128,14 +1168,6 @@
       "word": "续面事件老板称会为错误买单",
       "onboard_time": 1758742394,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21569,
-      "num": 348814,
-      "word": "像石榴籽一样紧紧抱在一起",
-      "onboard_time": 1758762501,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1212,6 +1244,9 @@
     },
     {
       "word": "#习近平在联合国气候变化峰会上的致辞#"
+    },
+    {
+      "word": "#习近平观看文艺晚会美丽新疆#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1758770127540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 831827,
+        "num": 1133092,
+        "word": "珠海网友家被台风刮来一张千元港币",
+        "onboard_time": 1758767060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409975,
+        "num": 409975,
+        "word": "咱家的三航母太太太帅了",
+        "onboard_time": 1758762681,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30359,
+        "num": 348978,
+        "word": "像石榴籽一样紧紧抱在一起",
+        "onboard_time": 1758762501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1310590,
+        "num": 348734,
+        "word": "轧戏",
+        "onboard_time": 1758767360,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427850,
+        "num": 347200,
+        "word": "南部档案",
+        "onboard_time": 1758767240,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342476,
+        "num": 342476,
+        "word": "以色列被炸视频流出",
+        "onboard_time": 1758768500,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 308116,
+        "num": 308116,
+        "word": "广东大部分被台风桦加沙覆盖",
+        "onboard_time": 1758741193,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 272297,
+        "num": 272297,
+        "word": "桦加沙登陆广东",
+        "onboard_time": 1758706102,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 26886,
+        "num": 245795,
+        "word": "新疆美食一口入魂千年回响",
+        "onboard_time": 1758762441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243614,
+        "num": 243614,
+        "word": "灵魂摆渡十年",
+        "onboard_time": 1758765680,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1036700,
+        "num": 243422,
+        "word": "韩国大量收购国内文娱产业",
+        "onboard_time": 1758760582,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 928801,
+        "num": 243379,
+        "word": "洪尧回应删除官宣博文",
+        "onboard_time": 1758762561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647878,
+        "num": 243126,
+        "word": "佳偶天成",
+        "onboard_time": 1758762980,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118866,
+        "num": 242857,
+        "word": "深圳比腰粗的大树被连根拔起",
+        "onboard_time": 1758760942,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443788,
+        "num": 242467,
+        "word": "爱奇艺片单",
+        "onboard_time": 1758763821,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372212,
+        "num": 242256,
+        "word": "家业",
+        "onboard_time": 1758765080,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252544,
+        "num": 241985,
+        "word": "向太说刘亦菲圈内口碑真的很好",
+        "onboard_time": 1758718102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241980,
+        "num": 241980,
+        "word": "雷军",
+        "onboard_time": 1758729862,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220018,
+        "num": 220018,
+        "word": "新疆庆祝大会",
+        "onboard_time": 1758766100,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204665,
+        "num": 204665,
+        "word": "逐玉",
+        "onboard_time": 1758768020,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391659,
+        "num": 204043,
+        "word": "中国有十亿左右人没坐过飞机",
+        "onboard_time": 1758767601,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246173,
+        "num": 197564,
+        "word": "医生提醒洗鸡蛋或制造细菌炸弹",
+        "onboard_time": 1758760702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178190,
+        "num": 178190,
+        "word": "小米17首发第五代骁龙8至尊版",
+        "onboard_time": 1758768379,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246030,
+        "num": 177958,
+        "word": "模仿王源博主致歉",
+        "onboard_time": 1758763881,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208276,
+        "num": 177205,
+        "word": "卖淫女子为躲检查意外坠亡",
+        "onboard_time": 1758724042,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178271,
+        "num": 176948,
+        "word": "月嫂下户前偷偷给宝宝塞红包",
+        "onboard_time": 1758756019,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175667,
+        "num": 175667,
+        "word": "58岁王祖贤健身房锻炼",
+        "onboard_time": 1758767181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171492,
+        "num": 171492,
+        "word": "刘芸拍戏郑钧跟组陪伴三年",
+        "onboard_time": 1758769101,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143905,
+        "num": 143905,
+        "word": "云归喜事",
+        "onboard_time": 1758763041,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134450,
+        "num": 134450,
+        "word": "薛佳凝直播间水晶被指有质量问题",
+        "onboard_time": 1758767420,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153494,
+        "num": 134216,
+        "word": "苹果回应iPhone17Pro划痕",
+        "onboard_time": 1758759503,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140721,
+        "num": 134157,
+        "word": "陆虎庆祝与嘘嘘在一起10周年",
+        "onboard_time": 1758757160,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133734,
+        "num": 133734,
+        "word": "国庆中秋前一周的工作状态",
+        "onboard_time": 1758769159,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129641,
+        "num": 129641,
+        "word": "辽宁舰13岁生日快乐",
+        "onboard_time": 1758767601,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123576,
+        "num": 123576,
+        "word": "澳门海水已涌入",
+        "onboard_time": 1758761482,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122457,
+        "num": 122457,
+        "word": "成毅李一桐狐妖王权篇新物料",
+        "onboard_time": 1758766639,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122070,
+        "num": 122070,
+        "word": "盛世天下",
+        "onboard_time": 1758769761,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114424,
+        "num": 114424,
+        "word": "刘宇宁戴佩妮十指紧扣",
+        "onboard_time": 1758725122,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114232,
+        "num": 114232,
+        "word": "15斤的小猫把床睡塌了",
+        "onboard_time": 1758759321,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98081,
+        "num": 112513,
+        "word": "全红婵家人送游客月饼",
+        "onboard_time": 1758769821,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111979,
+        "num": 111979,
+        "word": "奇瑞汽车港股上市",
+        "onboard_time": 1758769401,
+        "rank": 40,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 111654,
+        "num": 111654,
+        "word": "白鹿米兰街拍一整个权威",
+        "onboard_time": 1758733817,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110549,
+        "num": 110549,
+        "word": "狂野时代",
+        "onboard_time": 1758769221,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109268,
+        "num": 109268,
+        "word": "Rihanna晒三胎女儿",
+        "onboard_time": 1758766461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81359,
+        "num": 109182,
+        "word": "庆祝新疆维吾尔自治区成立70周年贺电",
+        "onboard_time": 1758770060,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109150,
+        "num": 109150,
+        "word": "错位拍吃李子坝轻轨",
+        "onboard_time": 1758767539,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26384,
+        "num": 106331,
+        "word": "新疆的美好数不完",
+        "onboard_time": 1758763940,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105306,
+        "num": 105306,
+        "word": "广东阳江路面积水成河",
+        "onboard_time": 1758769460,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104959,
+        "num": 104959,
+        "word": "雷军50来岁还是帅的太权威了",
+        "onboard_time": 1758766401,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104662,
+        "num": 104662,
+        "word": "懂点细节真能买到好衣服",
+        "onboard_time": 1758768919,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平观看文艺晚会美丽新疆#"
+    }
+  }
+}
