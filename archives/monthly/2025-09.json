@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758825405712,
+  "endTime": 1758826116532,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -78019,6 +78019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34706,
+      "num": 34706,
+      "word": "做完你的 做你的",
+      "onboard_time": 1758824176,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34597,
       "num": 223600,
       "word": "18岁港大学生疑遭电诈后留遗书轻生",
@@ -78753,14 +78761,6 @@
       "onboard_time": 1758537440,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 31160,
-      "num": 32082,
-      "word": "做完你的 做你的",
-      "onboard_time": 1758824176,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31114,
@@ -80595,6 +80595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21076,
+      "num": 67173,
+      "word": "王暖暖全身17处骨折100根钢钉",
+      "onboard_time": 1758824535,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20916,
       "num": 88487,
       "word": "持枪爱好者杀了持枪爱好者",
@@ -80955,6 +80963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19038,
+      "num": 32081,
+      "word": "魏大勋王源湾区升明月",
+      "onboard_time": 1758822915,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18945,
       "num": 47466,
       "word": "AI合成内容需亮明身份",
@@ -81003,6 +81019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18657,
+      "num": 31405,
+      "word": "美称拦截4架俄战机",
+      "onboard_time": 1758825314,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18611,
       "num": 155170,
       "word": "Knight有我就有冠军",
@@ -81017,14 +81041,6 @@
       "onboard_time": 1756990044,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18352,
-      "num": 32081,
-      "word": "魏大勋王源湾区升明月",
-      "onboard_time": 1758822915,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 18166,
@@ -81267,6 +81283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16286,
+      "num": 31328,
+      "word": "刘宇宁体面二十多年被折的彻彻底底",
+      "onboard_time": 1758826034,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16265,
       "num": 40555,
       "word": "泰嗨巅峰音乐节",
@@ -81409,14 +81433,6 @@
       "onboard_time": 1757013315,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15126,
-      "num": 67173,
-      "word": "王暖暖全身17处骨折100根钢钉",
-      "onboard_time": 1758824535,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14983,

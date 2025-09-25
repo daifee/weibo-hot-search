@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758825405712,
+  "endTime": 1758826116532,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -16875,6 +16875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 34706,
+      "num": 34706,
+      "word": "做完你的 做你的",
+      "onboard_time": 1758824176,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34130,
       "num": 241173,
       "word": "当地回应小区停水用吸污车供水",
@@ -17129,14 +17137,6 @@
       "onboard_time": 1758537440,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 31160,
-      "num": 32082,
-      "word": "做完你的 做你的",
-      "onboard_time": 1758824176,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31114,
@@ -17643,6 +17643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 21076,
+      "num": 67173,
+      "word": "王暖暖全身17处骨折100根钢钉",
+      "onboard_time": 1758824535,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20725,
       "num": 146246,
       "word": "消失的她原型王暖暖离婚案本周开庭",
@@ -17715,6 +17723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19038,
+      "num": 32081,
+      "word": "魏大勋王源湾区升明月",
+      "onboard_time": 1758822915,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18788,
       "num": 127945,
       "word": "姚安娜画了故宫的猫",
@@ -17731,20 +17747,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18657,
+      "num": 31405,
+      "word": "美称拦截4架俄战机",
+      "onboard_time": 1758825314,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18611,
       "num": 155170,
       "word": "Knight有我就有冠军",
       "onboard_time": 1758463826,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18352,
-      "num": 32081,
-      "word": "魏大勋王源湾区升明月",
-      "onboard_time": 1758822915,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 17993,
@@ -17803,6 +17819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16286,
+      "num": 31328,
+      "word": "刘宇宁体面二十多年被折的彻彻底底",
+      "onboard_time": 1758826034,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15920,
       "num": 19971,
       "word": "夏之光一边工作一边出图",
@@ -17841,14 +17865,6 @@
       "onboard_time": 1758743594,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15126,
-      "num": 67173,
-      "word": "王暖暖全身17处骨折100根钢钉",
-      "onboard_time": 1758824535,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14419,
