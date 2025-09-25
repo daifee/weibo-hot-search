@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758805600652,
+  "endTime": 1758807302965,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -1707,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663950,
+      "num": 350860,
+      "word": "韦雪晒整容前照片",
+      "onboard_time": 1758803842,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 663373,
       "num": 663373,
       "word": "成毅辟谣自己不玩手机的传闻",
@@ -1953,6 +1961,14 @@
       "onboard_time": 1758592161,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 601916,
+      "num": 351063,
+      "word": "王晶谈谢霆锋张柏芝分手",
+      "onboard_time": 1758803781,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 601868,
@@ -2331,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522194,
+      "num": 522194,
+      "word": "小米17Pro",
+      "onboard_time": 1758804502,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 519210,
       "num": 235515,
       "word": "医生提醒洗鸡蛋或制造细菌炸弹",
@@ -2449,6 +2473,14 @@
       "onboard_time": 1758420082,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497320,
+      "num": 497320,
+      "word": "央视新闻给肖战的待遇",
+      "onboard_time": 1758803482,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 495703,
@@ -3035,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384239,
+      "num": 506278,
+      "word": "助理确认蔡磊丧失语言能力",
+      "onboard_time": 1758804922,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383491,
       "num": 383491,
       "word": "被性侵女高管丈夫不敢看妻子视频",
@@ -3089,14 +3129,6 @@
       "onboard_time": 1758632783,
       "rank": 8,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 373372,
-      "num": 351063,
-      "word": "王晶谈谢霆锋张柏芝分手",
-      "onboard_time": 1758803781,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 373367,
@@ -3257,14 +3289,6 @@
       "onboard_time": 1758431841,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350860,
-      "num": 350860,
-      "word": "韦雪晒整容前照片",
-      "onboard_time": 1758803842,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 350821,
@@ -3489,14 +3513,6 @@
       "onboard_time": 1758418342,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 319456,
-      "num": 319456,
-      "word": "小米17Pro",
-      "onboard_time": 1758804502,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 319380,
@@ -3747,6 +3763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297221,
+      "num": 202907,
+      "word": "68页PPT曝光在读博士与已婚女子同居",
+      "onboard_time": 1758802522,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295642,
       "num": 386025,
       "word": "桦加沙降临前深圳现奇异天象",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1758523881,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286844,
+      "num": 286844,
+      "word": "恋与深空黎深",
+      "onboard_time": 1758805461,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 285921,
@@ -3963,6 +3995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 279649,
+      "num": 376038,
+      "word": "专家建议将农民养老金提升至1000元",
+      "onboard_time": 1758800541,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279127,
       "num": 332475,
       "word": "中国每年吃掉约70亿只白羽肉鸡",
@@ -4033,14 +4073,6 @@
       "onboard_time": 1758786082,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275213,
-      "num": 275213,
-      "word": "央视新闻给肖战的待遇",
-      "onboard_time": 1758803482,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 275053,
@@ -4345,6 +4377,14 @@
       "onboard_time": 1758420324,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258264,
+      "num": 258264,
+      "word": "雷军 刘德华",
+      "onboard_time": 1758804381,
+      "rank": 46,
+      "category": "演出,数码"
     },
     {
       "raw_hot": 258036,
@@ -4857,6 +4897,14 @@
       "onboard_time": 1758605061,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223348,
+      "num": 223348,
+      "word": "迪丽热巴出发巴黎时装周",
+      "onboard_time": 1758806602,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 223266,
@@ -5427,14 +5475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206895,
-      "num": 351167,
-      "word": "专家建议将农民养老金提升至1000元",
-      "onboard_time": 1758800541,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206718,
       "num": 199975,
       "word": "谢娜女儿跳跳也有自己的代言人了",
@@ -5643,14 +5683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202652,
-      "num": 212034,
-      "word": "雷军 刘德华",
-      "onboard_time": 1758804381,
-      "rank": 46,
-      "category": "演出,数码"
-    },
-    {
       "raw_hot": 202486,
       "num": 206826,
       "word": "网剧球状闪电",
@@ -5680,6 +5712,14 @@
       "word": "男子在家连拔2天火罐致高位截瘫",
       "onboard_time": 1758775942,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201699,
+      "num": 201699,
+      "word": "华南理工回应博士与已婚女同居",
+      "onboard_time": 1758806842,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -6315,14 +6355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190604,
-      "num": 190604,
-      "word": "恋与深空黎深",
-      "onboard_time": 1758805461,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 190320,
       "num": 190320,
       "word": "舰载机如何弹射起飞",
@@ -6755,6 +6787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183699,
+      "num": 355971,
+      "word": "8岁小学生凭本事带奶奶看卫星发射",
+      "onboard_time": 1758806062,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 183663,
+      "num": 183663,
+      "word": "小米17ProMax",
+      "onboard_time": 1758806481,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 183641,
       "num": 183641,
       "word": "陪爬泰山男演员回应转行种地",
@@ -6843,6 +6891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182505,
+      "num": 182505,
+      "word": "小米17ProMax512GB起",
+      "onboard_time": 1758806542,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182150,
       "num": 182150,
       "word": "新加坡多地现紫色闪电球",
@@ -6888,6 +6944,14 @@
       "word": "官方通报吃日料在三文鱼上发现活虫",
       "onboard_time": 1758517283,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181121,
+      "num": 215701,
+      "word": "离婚难是因为无先例我来做第一例",
+      "onboard_time": 1758803901,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -6944,14 +7008,6 @@
       "word": "始祖鸟海外团队致歉",
       "onboard_time": 1758424040,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180351,
-      "num": 180351,
-      "word": "68页PPT曝光在读博士与已婚女子同居",
-      "onboard_time": 1758802522,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -7619,6 +7675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168259,
+      "num": 177275,
+      "word": "主人回应马匹跳栏摔断脖颈死亡",
+      "onboard_time": 1758805820,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168189,
       "num": 168189,
       "word": "山姆上架太二酸菜鱼预制菜",
@@ -7731,20 +7795,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166427,
-      "num": 166427,
-      "word": "离婚难是因为无先例我来做第一例",
-      "onboard_time": 1758803901,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166328,
       "num": 168365,
       "word": "迪丽热巴早期神颜视频",
       "onboard_time": 1758633504,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165643,
+      "num": 182937,
+      "word": "关晓彤看秀造型主打一个松弛",
+      "onboard_time": 1758806183,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 165597,
@@ -8019,6 +8083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161900,
+      "num": 182640,
+      "word": "陈添祥上湖南卫视了",
+      "onboard_time": 1758806361,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161704,
       "num": 161704,
       "word": "醉酒女撞死人车主反问我是预言家吗",
@@ -8227,6 +8299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159026,
+      "num": 159026,
+      "word": "成毅这段打戏好像开了倍速",
+      "onboard_time": 1758805641,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158941,
       "num": 231447,
       "word": "大爷卖水卖到周杰伦演唱会现场",
@@ -8369,6 +8449,14 @@
       "onboard_time": 1758617902,
       "rank": 24,
       "category": "汽车,数码"
+    },
+    {
+      "raw_hot": 156638,
+      "num": 179533,
+      "word": "黄晓明刘耀文 代际梗预制菜",
+      "onboard_time": 1758806062,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 156488,
@@ -8803,6 +8891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 151049,
+      "num": 151049,
+      "word": "小米充电宝兼容iPhone17",
+      "onboard_time": 1758806903,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150950,
       "num": 150950,
       "word": "终于也轮到毛不易说这句话了",
@@ -8857,6 +8953,22 @@
       "onboard_time": 1758511881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150609,
+      "num": 150609,
+      "word": "追觅 库里南",
+      "onboard_time": 1758805281,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 150513,
+      "num": 150513,
+      "word": "雷军说小米YU7是最后的底牌",
+      "onboard_time": 1758804682,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 150384,
@@ -8993,14 +9105,6 @@
       "onboard_time": 1758725902,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148513,
-      "num": 148513,
-      "word": "追觅 库里南",
-      "onboard_time": 1758805281,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 148461,
@@ -9219,6 +9323,14 @@
       "category": "议题讨论,汽车"
     },
     {
+      "raw_hot": 145685,
+      "num": 145685,
+      "word": "小米17配色",
+      "onboard_time": 1758805701,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145637,
       "num": 145637,
       "word": "娱乐圈的青梅竹马合体了",
@@ -9249,6 +9361,14 @@
       "onboard_time": 1758687862,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145272,
+      "num": 141277,
+      "word": "领克07",
+      "onboard_time": 1758806782,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 145244,
@@ -11083,6 +11203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124847,
+      "num": 141783,
+      "word": "TES锁定S15三号种子",
+      "onboard_time": 1758805942,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124832,
       "num": 124832,
       "word": "户晨风",
@@ -11161,14 +11289,6 @@
       "onboard_time": 1758453202,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123988,
-      "num": 123988,
-      "word": "雷军说小米YU7是最后的底牌",
-      "onboard_time": 1758804682,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 123796,
@@ -11369,6 +11489,14 @@
       "onboard_time": 1758624383,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122132,
+      "num": 150862,
+      "word": "刘思远想45岁就退休",
+      "onboard_time": 1758805820,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 122093,
@@ -13387,6 +13515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95155,
+      "num": 150536,
+      "word": "关晓彤李现秀场同框",
+      "onboard_time": 1758807262,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 95078,
       "num": 198051,
       "word": "SNH48 看得出她们是公主",
@@ -14891,6 +15027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59735,
+      "num": 150795,
+      "word": "三亚一酒店海景房成猴景房",
+      "onboard_time": 1758806062,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59139,
       "num": 123992,
       "word": "王楚钦在演唱会上摇头晃脑",
@@ -14985,6 +15129,14 @@
       "onboard_time": 1758686722,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57295,
+      "num": 150695,
+      "word": "50克紫菜 45克调料包",
+      "onboard_time": 1758806062,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57202,
@@ -15369,6 +15521,14 @@
       "onboard_time": 1758645081,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51058,
+      "num": 206300,
+      "word": "已发售7000万张假期火车票",
+      "onboard_time": 1758807022,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50983,
@@ -16803,19 +16963,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24628,
+      "num": 150999,
+      "word": "8亿建厂被接管提级调查只是第一步",
+      "onboard_time": 1758806663,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24455,
       "num": 103817,
       "word": "桦加沙台风夜一男子酒后水库游泳",
       "onboard_time": 1758726082,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24304,
-      "num": 206890,
-      "word": "助理确认蔡磊丧失语言能力",
-      "onboard_time": 1758804922,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
