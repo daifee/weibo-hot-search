@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 16:33:19
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/25 16:47:12
 </p>
 </blockquote>
 <p>
@@ -2775,6 +2775,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%88%98%E9%9D%9E%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
+蓝战非被禁止关注（热度：1088102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E5%9C%A8%E4%BA%AC%E4%BC%9A%E8%B0%88%23" target="weibo">
 普京与金正恩在京会谈（热度：1085535）
 </a>
@@ -3071,6 +3077,12 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%BA%97%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E8%87%AA%E5%B8%A6%E6%A1%B6%E7%BB%AD%E6%9D%AF%E9%A5%AE%E6%96%99%23" target="weibo">
 山姆店回应顾客自带桶续杯饮料（热度：1026002）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E4%BA%86%E5%8F%8C%E4%BC%91%23" target="weibo">
+重新定义了双休（热度：1021832）
 </a>
 </li>
 
@@ -3597,6 +3609,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9A%96K888888%E8%A2%AB%E6%9F%A5%E7%B3%BBAI%E5%90%88%E6%88%90%23" target="weibo">
+皖K888888被查系AI合成（热度：919358）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E4%B9%9F%E6%9C%89%E5%B7%A5%E8%B5%84%23" target="weibo">
 和平鸽也有工资（热度：918878）
 </a>
@@ -4029,12 +4047,6 @@ iPhone18Pro已打样（热度：878237）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E4%BA%86%E5%8F%8C%E4%BC%91%23" target="weibo">
-重新定义了双休（热度：868017）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%99%8B%E5%8F%B0%E8%AF%8D%23" target="weibo">
 罗晋台词（热度：866039）
 </a>
@@ -4427,12 +4439,6 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E8%B4%B9%E5%8A%A0%E7%BD%97%E4%B9%9D%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23" target="weibo">
 田栩宁费加罗九月刊封面预告（热度：828783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9A%96K888888%E8%A2%AB%E6%9F%A5%E7%B3%BBAI%E5%90%88%E6%88%90%23" target="weibo">
-皖K888888被查系AI合成（热度：828193）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17系列补贴后降1000元（热度：669556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%A4%8D%E5%90%B4%E5%AE%A3%E4%BB%AA%23" target="weibo">
 杨幂回复吴宣仪（热度：667668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%85%E9%A2%84%E5%88%B6%E8%8F%9C%E9%9C%80%E6%98%8E%E7%A4%BA%23" target="weibo">
-餐厅预制菜需明示（热度：667596）
 </a>
 </li>
 
