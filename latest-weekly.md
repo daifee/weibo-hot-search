@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/21 00:27:19 ~ 2025/09/26 00:46:34
+本榜单时间：2025/09/21 00:27:19 ~ 2025/09/26 01:22:23
 </p>
 </blockquote>
 <p>
@@ -3219,6 +3219,12 @@ TES对战iG（热度：273856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%93%81%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%E7%B3%BB%E5%9B%A0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+官方辟谣地铁撞人事故系因演唱会（热度：268770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%BA%95%E6%B0%94%E6%9B%B4%E5%BC%BA%23" target="weibo">
 中国海军底气更强（热度：268250）
 </a>
@@ -3497,12 +3503,6 @@ iG冒泡赛（热度：254383）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E5%8F%B0%E9%A3%8E%E7%9C%BC%E5%BC%80%E5%A7%8B%E5%A1%AB%E5%A1%9E%23" target="weibo">
 桦加沙台风眼开始填塞（热度：246582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%93%81%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%E7%B3%BB%E5%9B%A0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-官方辟谣地铁撞人事故系因演唱会（热度：246066）
 </a>
 </li>
 
@@ -12539,6 +12539,12 @@ Demna与GUCCI的适配度（热度：41291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B8%BA%E6%89%BE%E5%89%8D%E7%94%B7%E5%8F%8B%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB3%E4%BA%BA%23" target="weibo">
 00后为找前男友醉驾撞死3人（热度：37507）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E6%A1%88%23" target="weibo">
+孕妇泰国坠崖案（热度：37228）
 </a>
 </li>
 

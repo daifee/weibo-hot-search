@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/26 00:31:19 ~ 2025/09/26 00:46:34
+本榜单时间：2025/09/26 00:31:19 ~ 2025/09/26 01:22:23
 </p>
 </blockquote>
 <p>
@@ -69,6 +69,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%93%81%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%E7%B3%BB%E5%9B%A0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+官方辟谣地铁撞人事故系因演唱会（热度：268770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%E4%BB%B7%E6%A0%BC%23" target="weibo">
 小米17价格（热度：268171）
 </a>
@@ -83,12 +89,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%89%9B%E4%BD%8F%E4%BA%86G%E7%A4%BE%E9%95%9C%E5%A4%B4%23" target="weibo">
 李现扛住了G社镜头（热度：253950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%93%81%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%E7%B3%BB%E5%9B%A0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-官方辟谣地铁撞人事故系因演唱会（热度：246066）
 </a>
 </li>
 
@@ -189,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%95%BF%E9%80%94%E6%9C%89%E7%A5%A8%E7%9F%AD%E9%80%94%E5%8D%B4%E9%9C%80%E5%80%99%E8%A1%A5%23" target="weibo">
+12306回应长途有票短途却需候补（热度：97683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%87%BA%E5%8A%A8%E6%95%B0%E5%8D%81%E6%9E%B6%E6%88%98%E6%9C%BA%E7%A9%BA%E8%A2%AD%23" target="weibo">
 以军出动数十架战机空袭（热度：97551）
 </a>
@@ -285,12 +291,6 @@ TES战胜IG（热度：82308）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%95%BF%E9%80%94%E6%9C%89%E7%A5%A8%E7%9F%AD%E9%80%94%E5%8D%B4%E9%9C%80%E5%80%99%E8%A1%A5%23" target="weibo">
-12306回应长途有票短途却需候补（热度：69743）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E9%98%B5%E5%AE%B9%23" target="weibo">
 湾区升明月阵容（热度：64312）
 </a>
@@ -327,8 +327,26 @@ TES战胜IG（热度：82308）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
+赴山海（热度：48271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B7%BB%E7%A5%A5%E4%B8%8A%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%BA%86%23" target="weibo">
 陈添祥上湖南卫视了（热度：46391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E6%A1%88%23" target="weibo">
+孕妇泰国坠崖案（热度：37228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JackeyLove%E8%A6%81%E6%8A%8AS%E8%B5%9B%E5%86%A0%E5%86%9B%E7%95%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%23" target="weibo">
+JackeyLove要把S赛冠军留在中国（热度：35938）
 </a>
 </li>
 

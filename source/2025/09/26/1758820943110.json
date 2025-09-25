@@ -1,0 +1,410 @@
+{
+  "runTime": 1758820943110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 454852,
+        "num": 511682,
+        "word": "助理确认蔡磊丧失语言能力",
+        "onboard_time": 1758804922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416926,
+        "num": 416926,
+        "word": "演唱会出轨门女主丈夫被曝出轨",
+        "onboard_time": 1758798020,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15341,
+        "num": 320252,
+        "word": "新疆70年",
+        "onboard_time": 1758811283,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268770,
+        "num": 268770,
+        "word": "官方辟谣地铁撞人事故系因演唱会",
+        "onboard_time": 1758816440,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 179968,
+        "num": 179968,
+        "word": "王俊凯 电影在银幕上不在我脸上",
+        "onboard_time": 1758797122,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163880,
+        "num": 163880,
+        "word": "广电总局称坚决抵制违法失德人员",
+        "onboard_time": 1758810504,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163723,
+        "num": 163723,
+        "word": "李现扛住了G社镜头",
+        "onboard_time": 1758815482,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145612,
+        "num": 145612,
+        "word": "孕妇泰国坠崖案丈夫离婚要分3000万",
+        "onboard_time": 1758812305,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144217,
+        "num": 144217,
+        "word": "雷军曝陈年10年还清10亿债务",
+        "onboard_time": 1758811644,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124383,
+        "num": 124383,
+        "word": "小米17价格",
+        "onboard_time": 1758803301,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263481,
+        "num": 121917,
+        "word": "豆瓣崩了",
+        "onboard_time": 1758812962,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137076,
+        "num": 120698,
+        "word": "鞠婧祎妈咪级别",
+        "onboard_time": 1758814342,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 114795,
+        "num": 114795,
+        "word": "王晶谈谢霆锋张柏芝分手",
+        "onboard_time": 1758803781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108972,
+        "num": 108972,
+        "word": "董璇赚的每分钱都有女儿名字",
+        "onboard_time": 1758808163,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105226,
+        "num": 105226,
+        "word": "小米发布会",
+        "onboard_time": 1758798261,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103387,
+        "num": 103387,
+        "word": "华南理工回应博士与已婚女同居",
+        "onboard_time": 1758806842,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101373,
+        "num": 101373,
+        "word": "谁给关晓彤选的毛领",
+        "onboard_time": 1758810624,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 55544,
+        "num": 99274,
+        "word": "台风桦加沙停止编号",
+        "onboard_time": 1758808462,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97683,
+        "num": 97683,
+        "word": "12306回应长途有票短途却需候补",
+        "onboard_time": 1758814641,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67717,
+        "num": 96818,
+        "word": "沈月魏哲鸣 公主骑士即视感",
+        "onboard_time": 1758814164,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137363,
+        "num": 96767,
+        "word": "68页PPT曝光在读博士与已婚女子同居",
+        "onboard_time": 1758802522,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96660,
+        "num": 96660,
+        "word": "公马被发情母马追赶摔断脖颈",
+        "onboard_time": 1758803781,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92820,
+        "num": 92820,
+        "word": "女子租房6年房东多次主动降租",
+        "onboard_time": 1758810683,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79969,
+        "num": 79969,
+        "word": "台湾花莲灾后3天仍无救援",
+        "onboard_time": 1758807503,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57724,
+        "num": 72807,
+        "word": "姐姐当家2拟邀嘉宾",
+        "onboard_time": 1758815722,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70614,
+        "num": 70614,
+        "word": "中国网友模仿日本人打年糕",
+        "onboard_time": 1758816080,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61336,
+        "num": 61336,
+        "word": "小米17",
+        "onboard_time": 1758803602,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56662,
+        "num": 56662,
+        "word": "TES战胜IG",
+        "onboard_time": 1758803721,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54624,
+        "num": 56314,
+        "word": "张子枫的美貌 蘑菇屋的骄傲",
+        "onboard_time": 1758815843,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48271,
+        "num": 56275,
+        "word": "赴山海",
+        "onboard_time": 1758819618,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56261,
+        "num": 56261,
+        "word": "小米磁吸充电宝",
+        "onboard_time": 1758807983,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55777,
+        "num": 55777,
+        "word": "雷军说苹果三星华为是无法逾越的大山",
+        "onboard_time": 1758814222,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55090,
+        "num": 55090,
+        "word": "纤维粒 感谢碧昂丝",
+        "onboard_time": 1758802340,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54902,
+        "num": 54902,
+        "word": "专家建议将农民养老金提升至1000元",
+        "onboard_time": 1758800541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51200,
+        "num": 54902,
+        "word": "以军出动数十架战机空袭",
+        "onboard_time": 1758812724,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50337,
+        "num": 54902,
+        "word": "雷军谈iPhone17牙膏挤爆了",
+        "onboard_time": 1758807862,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49810,
+        "num": 54902,
+        "word": "迪丽热巴出发巴黎时装周",
+        "onboard_time": 1758806602,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 49695,
+        "num": 54902,
+        "word": "蔡磊在抓紧时间推进科研",
+        "onboard_time": 1758815662,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47232,
+        "num": 54902,
+        "word": "白鹿随拍直出",
+        "onboard_time": 1758810923,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46418,
+        "num": 54902,
+        "word": "雷军称不选小米YU7可选ModelY",
+        "onboard_time": 1758813203,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46032,
+        "num": 54902,
+        "word": "人社局回应领结婚证后入职婚假被拒",
+        "onboard_time": 1758816141,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45734,
+        "num": 54902,
+        "word": "王暖暖曝男方拖延离婚套路",
+        "onboard_time": 1758817939,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44930,
+        "num": 54902,
+        "word": "离婚难是因为无先例我来做第一例",
+        "onboard_time": 1758803901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44887,
+        "num": 54902,
+        "word": "蔡磊回应丧失语言能力",
+        "onboard_time": 1758814462,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43545,
+        "num": 54902,
+        "word": "雷军演讲",
+        "onboard_time": 1758798501,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43440,
+        "num": 54902,
+        "word": "五哈6 鹿晗",
+        "onboard_time": 1758785601,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42374,
+        "num": 54902,
+        "word": "国乒WTT中国大满贯首场失利",
+        "onboard_time": 1758813982,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38593,
+        "num": 54902,
+        "word": "范丞丞喊Passion",
+        "onboard_time": 1758816739,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37228,
+        "num": 54902,
+        "word": "孕妇泰国坠崖案",
+        "onboard_time": 1758820517,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35938,
+        "num": 54902,
+        "word": "JackeyLove要把S赛冠军留在中国",
+        "onboard_time": 1758808343,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆各族群众热情欢送总书记#"
+    }
+  }
+}
