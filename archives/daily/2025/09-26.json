@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758897596955,
+  "endTime": 1758900373283,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1483166,
+      "num": 378372,
+      "word": "向往的生活彩灯去世",
+      "onboard_time": 1758898523,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1403013,
       "num": 1403013,
       "word": "jellycat蛋糕",
@@ -91,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1289067,
+      "num": 187347,
+      "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+      "onboard_time": 1758896183,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1251320,
       "num": 1251320,
       "word": "健康码行程码记得解绑",
@@ -105,6 +121,14 @@
       "onboard_time": 1758848840,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 959529,
+      "num": 364630,
+      "word": "王玉雯下车门摔倒",
+      "onboard_time": 1758896423,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 941746,
@@ -155,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 862367,
+      "num": 369853,
+      "word": "男子胸前贴强奸犯被当街示众",
+      "onboard_time": 1758898883,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 852179,
       "num": 296086,
       "word": "华南理工",
@@ -177,6 +209,14 @@
       "onboard_time": 1758882861,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 777358,
+      "num": 1124377,
+      "word": "台湾是中国的一个省从不是一个国家",
+      "onboard_time": 1758896004,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 758287,
@@ -307,14 +347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 588276,
-      "num": 156558,
-      "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
-      "onboard_time": 1758896183,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 585031,
       "num": 279160,
       "word": "TFBOYS怎么都变回小时候了",
@@ -345,6 +377,14 @@
       "onboard_time": 1758886941,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 578719,
+      "num": 356140,
+      "word": "乔妍的心事0提",
+      "onboard_time": 1758896663,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 552966,
@@ -441,6 +481,14 @@
       "onboard_time": 1758870740,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 442989,
+      "num": 180248,
+      "word": "张杰谢娜结婚十四周年",
+      "onboard_time": 1758895403,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 436742,
@@ -545,6 +593,14 @@
       "onboard_time": 1758888260,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387266,
+      "num": 387266,
+      "word": "22岁小伙摔倒被误认留守老人",
+      "onboard_time": 1758896604,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378650,
@@ -667,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328557,
-      "num": 203744,
-      "word": "王玉雯下车门摔倒",
-      "onboard_time": 1758896423,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328184,
       "num": 328184,
       "word": "白鹿试衣服问粉丝好不好看",
@@ -713,6 +761,14 @@
       "onboard_time": 1758891380,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309790,
+      "num": 176024,
+      "word": "肖战湾区升明月唱整晚的音乐",
+      "onboard_time": 1758898462,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 308668,
@@ -811,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272021,
+      "num": 171899,
+      "word": "张杰谢娜结婚周年照",
+      "onboard_time": 1758899363,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268770,
       "num": 268770,
       "word": "官方辟谣地铁撞人事故系因演唱会",
@@ -841,6 +905,14 @@
       "onboard_time": 1758810624,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 256989,
+      "num": 171842,
+      "word": "汪苏泷怎么来观众席唱了",
+      "onboard_time": 1758899663,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 255757,
@@ -883,28 +955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243892,
-      "num": 193470,
-      "word": "乔妍的心事0提",
-      "onboard_time": 1758896663,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 242867,
       "num": 213798,
       "word": "众星祝贺舒淇",
       "onboard_time": 1758892941,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 240298,
-      "num": 240298,
-      "word": "台湾是中国的一个省从不是一个国家",
-      "onboard_time": 1758896004,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 239128,
@@ -1251,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188159,
+      "num": 170753,
+      "word": "金靖开团周柯宇张凌赫秒跟",
+      "onboard_time": 1758899782,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188063,
       "num": 188063,
       "word": "一看杨超越就是懂干农活的",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1758854901,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187799,
+      "num": 187799,
+      "word": "埃及失联中国女孩母亲发声",
+      "onboard_time": 1758898943,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185405,
@@ -1411,14 +1483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173785,
-      "num": 173785,
-      "word": "张杰谢娜结婚十四周年",
-      "onboard_time": 1758895403,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173759,
       "num": 173759,
       "word": "王暖暖曝男方拖延离婚套路",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1758876501,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170360,
+      "num": 170360,
+      "word": "刘宇宁衣服很贵多穿一会",
+      "onboard_time": 1758898342,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 169568,
@@ -1883,20 +1955,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140544,
+      "num": 140544,
+      "word": "舒淇小女孩般的3秒",
+      "onboard_time": 1758899842,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140325,
       "num": 140325,
       "word": "王鹤棣又一人生镜头",
       "onboard_time": 1758868821,
       "rank": 30,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 138876,
-      "num": 138876,
-      "word": "22岁小伙摔倒被误认留守老人",
-      "onboard_time": 1758896604,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138670,
@@ -2075,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130890,
+      "num": 130890,
+      "word": "苏菲玛索高圆圆十年再同框",
+      "onboard_time": 1758898883,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130867,
       "num": 130867,
       "word": "官方通报女乘务员拍肩乘客称力度太大",
@@ -2105,6 +2185,14 @@
       "onboard_time": 1758875901,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128614,
+      "num": 128614,
+      "word": "赴山海编剧",
+      "onboard_time": 1758894863,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 128151,
@@ -2140,7 +2228,7 @@
     },
     {
       "raw_hot": 127563,
-      "num": 127563,
+      "num": 170471,
       "word": "中国科学家或收到平行宇宙诡异信号",
       "onboard_time": 1758894384,
       "rank": 36,
@@ -2168,14 +2256,6 @@
       "word": "颖儿演完三姐演二姐",
       "onboard_time": 1758862462,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126953,
-      "num": 126953,
-      "word": "赴山海编剧",
-      "onboard_time": 1758894863,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -2227,6 +2307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125668,
+      "num": 125668,
+      "word": "战至巅峰",
+      "onboard_time": 1758900203,
+      "rank": 38,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 125427,
       "num": 122894,
       "word": "卢昱晓拍了夜色尚浅同款浴池戏",
@@ -2249,6 +2337,14 @@
       "onboard_time": 1758896364,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123365,
+      "num": 123365,
+      "word": "鹭卓这套下来得瘦十斤吧",
+      "onboard_time": 1758900263,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 122910,
@@ -2363,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117791,
+      "num": 124830,
+      "word": "汪苏泷说淋雨是为了有淋雨的勇气",
+      "onboard_time": 1758899062,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "上海海港3比2武汉三镇",
@@ -2460,7 +2564,7 @@
     },
     {
       "raw_hot": 115058,
-      "num": 115058,
+      "num": 119490,
       "word": "王楚钦上半区聚齐8名国乒选手",
       "onboard_time": 1758897083,
       "rank": 41,
@@ -2572,7 +2676,7 @@
     },
     {
       "raw_hot": 110831,
-      "num": 380679,
+      "num": 386089,
       "word": "国庆假期带特产上飞机要注意啥",
       "onboard_time": 1758871222,
       "rank": 45,
@@ -2756,7 +2860,7 @@
     },
     {
       "raw_hot": 100912,
-      "num": 100912,
+      "num": 120028,
       "word": "小米背屏实用测评",
       "onboard_time": 1758897561,
       "rank": 48,
@@ -2899,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91541,
+      "num": 130948,
+      "word": "坏了这次真让老外学到精髓了",
+      "onboard_time": 1758899724,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91301,
       "num": 91301,
       "word": "五哈6 鹿晗",
@@ -2979,6 +3091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87981,
+      "num": 124904,
+      "word": "粗糙就是最好的开始",
+      "onboard_time": 1758899903,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87799,
       "num": 87799,
       "word": "粉丝偷拍王俊凯干扰观影引不满",
@@ -3035,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85205,
+      "num": 123650,
+      "word": "没想到被一台冰箱治愈了",
+      "onboard_time": 1758898763,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85200,
       "num": 85200,
       "word": "陈年哭了",
@@ -3049,6 +3177,14 @@
       "onboard_time": 1758863842,
       "rank": 18,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 83799,
+      "num": 119702,
+      "word": "孕14周女子遭黑熊袭击装死脱险",
+      "onboard_time": 1758898583,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82551,
@@ -3097,6 +3233,14 @@
       "onboard_time": 1758813203,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 79934,
+      "num": 119015,
+      "word": "JDG与iG将争夺四号种子",
+      "onboard_time": 1758900322,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 77894,
@@ -3233,6 +3377,14 @@
       "onboard_time": 1758872781,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 66863,
+      "num": 173600,
+      "word": "沃尔沃选胡歌的含金量还在上升",
+      "onboard_time": 1758899002,
+      "rank": 19,
+      "category": "汽车,艺人"
     },
     {
       "raw_hot": 65935,
@@ -3379,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52906,
+      "num": 179986,
+      "word": "Fendi大秀一场彩色像素大片",
+      "onboard_time": 1758899363,
+      "rank": 15,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 52508,
       "num": 198693,
       "word": "21岁中国女孩埃及失联",
@@ -3499,6 +3659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38369,
+      "num": 201514,
+      "word": "胡军说长剧更应该慢下来",
+      "onboard_time": 1758897023,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38043,
       "num": 63287,
       "word": "王欣瑜也喜欢卡皮巴拉",
@@ -3553,14 +3721,6 @@
       "onboard_time": 1758808343,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 35925,
-      "num": 201514,
-      "word": "胡军说长剧更应该慢下来",
-      "onboard_time": 1758897023,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 35151,
