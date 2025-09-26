@@ -1,0 +1,410 @@
+{
+  "runTime": 1758852692287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1311800,
+        "num": 1311800,
+        "word": "芬兰希望取消五常一票否决权",
+        "onboard_time": 1758849501,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 910939,
+        "num": 910939,
+        "word": "jellycat蛋糕",
+        "onboard_time": 1758851000,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 8980,
+        "num": 766907,
+        "word": "何以中国理想都城",
+        "onboard_time": 1758851900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691786,
+        "num": 691786,
+        "word": "30秒自查身份证是否被他人绑定",
+        "onboard_time": 1758848720,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497829,
+        "num": 497829,
+        "word": "王暖暖称5年间几乎无收入",
+        "onboard_time": 1758850038,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377624,
+        "num": 377624,
+        "word": "鞠婧祎米兰",
+        "onboard_time": 1758851599,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 350089,
+        "num": 350089,
+        "word": "韩国旅游业备战中国游客回归",
+        "onboard_time": 1758851060,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328464,
+        "num": 328464,
+        "word": "演唱会出轨门女主丈夫被曝出轨",
+        "onboard_time": 1758798020,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277013,
+        "num": 277013,
+        "word": "特朗普对进口重卡加征25%关税",
+        "onboard_time": 1758848361,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226622,
+        "num": 226622,
+        "word": "李现扛住了G社镜头",
+        "onboard_time": 1758815482,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1682736,
+        "num": 219608,
+        "word": "男子68页PPT曝妻子出轨华南理工博士",
+        "onboard_time": 1758843260,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779393,
+        "num": 218252,
+        "word": "日本女市长与已婚男下属多次开房",
+        "onboard_time": 1758848840,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265185,
+        "num": 215602,
+        "word": "华南理工回应博士与已婚女同居",
+        "onboard_time": 1758806842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209064,
+        "num": 209064,
+        "word": "陕西农民犁地时挖出国宝",
+        "onboard_time": 1758848301,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200382,
+        "num": 200382,
+        "word": "助理确认蔡磊丧失语言能力",
+        "onboard_time": 1758804922,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195051,
+        "num": 195051,
+        "word": "女子租房6年房东多次主动降租",
+        "onboard_time": 1758810683,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183977,
+        "num": 183977,
+        "word": "土耳其总统被拦下为特朗普车队让路",
+        "onboard_time": 1758844520,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53343,
+        "num": 164526,
+        "word": "王暖暖收到未成年粉丝留言鼓励",
+        "onboard_time": 1758852260,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163557,
+        "num": 163557,
+        "word": "入青云",
+        "onboard_time": 1758852260,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144237,
+        "num": 144237,
+        "word": "周深一晚上把内娱的瓜吃完了",
+        "onboard_time": 1758802941,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 416346,
+        "num": 143443,
+        "word": "张维伊改菜名",
+        "onboard_time": 1758842177,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201343,
+        "num": 143069,
+        "word": "杨紫家业热度",
+        "onboard_time": 1758851780,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213404,
+        "num": 142199,
+        "word": "董璇赚的每分钱都有女儿名字",
+        "onboard_time": 1758808163,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140705,
+        "num": 140705,
+        "word": "台风博罗依带着风雨靠近",
+        "onboard_time": 1758846084,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136191,
+        "num": 136191,
+        "word": "张召忠人老实话不多",
+        "onboard_time": 1758847101,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134667,
+        "num": 134667,
+        "word": "神20航天员圆满完成第4次出舱",
+        "onboard_time": 1758848361,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133961,
+        "num": 133961,
+        "word": "鞠婧祎妈咪级别",
+        "onboard_time": 1758814342,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132030,
+        "num": 132030,
+        "word": "花光积蓄买了自己的房子",
+        "onboard_time": 1758851000,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128330,
+        "num": 128330,
+        "word": "女院长穿短裙给养老院老头跳热舞",
+        "onboard_time": 1758842958,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71697,
+        "num": 128160,
+        "word": "刘宇宁体面二十多年被折的彻彻底底",
+        "onboard_time": 1758826034,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128151,
+        "num": 128151,
+        "word": "李在明称将终结朝鲜半岛敌对时代",
+        "onboard_time": 1758851479,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127767,
+        "num": 127767,
+        "word": "谁给关晓彤选的毛领",
+        "onboard_time": 1758810624,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 123473,
+        "num": 123473,
+        "word": "小米发布会",
+        "onboard_time": 1758798261,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117485,
+        "num": 117485,
+        "word": "广电总局称坚决抵制违法失德人员",
+        "onboard_time": 1758810504,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108503,
+        "num": 108503,
+        "word": "不被父母左右的年轻人客厅是怎样的",
+        "onboard_time": 1758849381,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108351,
+        "num": 108351,
+        "word": "以前的数学vs现在的数学",
+        "onboard_time": 1758847700,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107809,
+        "num": 107809,
+        "word": "雷军曝陈年10年还清10亿债务",
+        "onboard_time": 1758811644,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104134,
+        "num": 104134,
+        "word": "王暖暖称按正常程序70岁才能离婚",
+        "onboard_time": 1758852080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101629,
+        "num": 101629,
+        "word": "中国人上天了也在盼国庆",
+        "onboard_time": 1758850038,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40911,
+        "num": 98483,
+        "word": "白鹿试衣服问粉丝好不好看",
+        "onboard_time": 1758852200,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98475,
+        "num": 98475,
+        "word": "猫尾巴里面有根铝丝",
+        "onboard_time": 1758849560,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97951,
+        "num": 97951,
+        "word": "台湾花莲灾后3天仍无救援",
+        "onboard_time": 1758807503,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94093,
+        "num": 94093,
+        "word": "12306回应长途有票短途却需候补",
+        "onboard_time": 1758814641,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88403,
+        "num": 88403,
+        "word": "莫雷加德去吃了北京烤鸭",
+        "onboard_time": 1758851540,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84477,
+        "num": 84477,
+        "word": "小抚慰犬第一次见到主人哭的反应",
+        "onboard_time": 1758849201,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82551,
+        "num": 82551,
+        "word": "国乒中国大满贯首日7胜1负",
+        "onboard_time": 1758850220,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82153,
+        "num": 82153,
+        "word": "灰太狼41岁了",
+        "onboard_time": 1758852621,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 78378,
+        "num": 78378,
+        "word": "粉丝偷拍王俊凯干扰观影引不满",
+        "onboard_time": 1758843260,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77845,
+        "num": 77845,
+        "word": "雷迪克提前续约湖人",
+        "onboard_time": 1758851721,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57878,
+        "num": 77557,
+        "word": "姐姐当家2拟邀嘉宾",
+        "onboard_time": 1758815722,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆各族群众热情欢送总书记#"
+    }
+  }
+}

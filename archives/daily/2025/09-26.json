@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758851385676,
+  "endTime": 1758852692287,
   "band_list": [
     {
       "raw_hot": 1983292,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 910939,
+      "num": 910939,
+      "word": "jellycat蛋糕",
+      "onboard_time": 1758851000,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 872769,
       "num": 230870,
       "word": "豆瓣崩了",
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497829,
+      "num": 497829,
+      "word": "王暖暖称5年间几乎无收入",
+      "onboard_time": 1758850038,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484761,
       "num": 484761,
       "word": "雷军曝陈年10年还清10亿债务",
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416346,
+      "num": 184361,
+      "word": "张维伊改菜名",
+      "onboard_time": 1758842177,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415652,
       "num": 415652,
       "word": "孕妇泰国坠崖案丈夫离婚要分3000万",
@@ -91,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 413312,
-      "num": 184361,
-      "word": "张维伊改菜名",
-      "onboard_time": 1758842177,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 377624,
+      "num": 377624,
+      "word": "鞠婧祎米兰",
+      "onboard_time": 1758851599,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 374419,
@@ -107,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350089,
+      "num": 350089,
+      "word": "韩国旅游业备战中国游客回归",
+      "onboard_time": 1758851060,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 337649,
       "num": 337649,
       "word": "王俊凯 电影在银幕上不在我脸上",
       "onboard_time": 1758797122,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 319570,
-      "num": 319570,
-      "word": "王暖暖称5年间几乎无收入",
-      "onboard_time": 1758850038,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316041,
@@ -243,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201343,
+      "num": 143069,
+      "word": "杨紫家业热度",
+      "onboard_time": 1758851780,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196520,
       "num": 196520,
       "word": "小米发布会",
@@ -291,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170768,
-      "num": 170768,
-      "word": "韩国旅游业备战中国游客回归",
-      "onboard_time": 1758851060,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 169364,
       "num": 236425,
       "word": "刘宇宁体面二十多年被折的彻彻底底",
@@ -307,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150909,
-      "num": 132102,
-      "word": "jellycat蛋糕",
-      "onboard_time": 1758851000,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 163557,
+      "num": 163557,
+      "word": "入青云",
+      "onboard_time": 1758852260,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 149543,
@@ -339,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140705,
+      "num": 189462,
+      "word": "台风博罗依带着风雨靠近",
+      "onboard_time": 1758846084,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134861,
       "num": 134861,
       "word": "小米磁吸充电宝",
@@ -347,20 +379,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 128704,
-      "num": 128704,
+      "raw_hot": 132030,
+      "num": 132030,
       "word": "花光积蓄买了自己的房子",
       "onboard_time": 1758851000,
       "rank": 32,
       "category": "情感"
     },
     {
-      "raw_hot": 123361,
-      "num": 189462,
-      "word": "台风博罗依带着风雨靠近",
-      "onboard_time": 1758846084,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 128151,
+      "num": 128151,
+      "word": "李在明称将终结朝鲜半岛敌对时代",
+      "onboard_time": 1758851479,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120358,
@@ -395,12 +427,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108503,
+      "num": 108503,
+      "word": "不被父母左右的年轻人客厅是怎样的",
+      "onboard_time": 1758849381,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108351,
+      "num": 108351,
+      "word": "以前的数学vs现在的数学",
+      "onboard_time": 1758847700,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105810,
       "num": 97802,
       "word": "迪丽热巴出发巴黎时装周",
       "onboard_time": 1758806602,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 104134,
+      "num": 104134,
+      "word": "王暖暖称按正常程序70岁才能离婚",
+      "onboard_time": 1758852080,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103383,
@@ -419,20 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101845,
-      "num": 101845,
-      "word": "以前的数学vs现在的数学",
-      "onboard_time": 1758847700,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100627,
       "num": 100627,
       "word": "离婚难是因为无先例我来做第一例",
       "onboard_time": 1758803901,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98475,
+      "num": 98475,
+      "word": "猫尾巴里面有根铝丝",
+      "onboard_time": 1758849560,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 98142,
@@ -475,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92515,
-      "num": 92515,
-      "word": "不被父母左右的年轻人客厅是怎样的",
-      "onboard_time": 1758849381,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91301,
       "num": 91301,
       "word": "五哈6 鹿晗",
@@ -521,6 +569,14 @@
       "onboard_time": 1758807862,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88403,
+      "num": 88403,
+      "word": "莫雷加德去吃了北京烤鸭",
+      "onboard_time": 1758851540,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 88116,
@@ -579,12 +635,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82551,
+      "num": 82551,
+      "word": "国乒中国大满贯首日7胜1负",
+      "onboard_time": 1758850220,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82308,
       "num": 82308,
       "word": "TES战胜IG",
       "onboard_time": 1758803721,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82153,
+      "num": 82153,
+      "word": "灰太狼41岁了",
+      "onboard_time": 1758852621,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 81888,
@@ -603,11 +675,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 80410,
-      "num": 80410,
-      "word": "国乒中国大满贯首日7胜1负",
-      "onboard_time": 1758850220,
-      "rank": 46,
+      "raw_hot": 77845,
+      "num": 77845,
+      "word": "雷迪克提前续约湖人",
+      "onboard_time": 1758851721,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -731,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53343,
+      "num": 164526,
+      "word": "王暖暖收到未成年粉丝留言鼓励",
+      "onboard_time": 1758852260,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48271,
       "num": 56275,
       "word": "赴山海",
@@ -745,6 +825,14 @@
       "onboard_time": 1758806361,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40911,
+      "num": 98483,
+      "word": "白鹿试衣服问粉丝好不好看",
+      "onboard_time": 1758852200,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 38043,
@@ -881,6 +969,14 @@
       "onboard_time": 1758831134,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8980,
+      "num": 766907,
+      "word": "何以中国理想都城",
+      "onboard_time": 1758851900,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
