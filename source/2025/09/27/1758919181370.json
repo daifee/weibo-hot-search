@@ -1,0 +1,410 @@
+{
+  "runTime": 1758919181370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 74056,
+        "num": 74056,
+        "word": "埃及失联中国女孩母亲发声",
+        "onboard_time": 1758898943,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65637,
+        "num": 65637,
+        "word": "22岁小伙摔倒被误认留守老人",
+        "onboard_time": 1758896604,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5097,
+        "num": 55225,
+        "word": "国庆假期带特产上飞机要注意啥",
+        "onboard_time": 1758871222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104344,
+        "num": 54017,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79017,
+        "num": 53093,
+        "word": "男子胸前贴强奸犯被当街示众",
+        "onboard_time": 1758898883,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51840,
+        "num": 51840,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48708,
+        "num": 48708,
+        "word": "尹锡悦坐牢两个月形象大变",
+        "onboard_time": 1758900623,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45506,
+        "num": 45506,
+        "word": "向往的生活彩灯去世",
+        "onboard_time": 1758898523,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41699,
+        "num": 41699,
+        "word": "孕妇遭遇黑熊袭击装死逃过一劫",
+        "onboard_time": 1758901161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38141,
+        "num": 38141,
+        "word": "台湾是中国的一个省从不是一个国家",
+        "onboard_time": 1758896004,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138351,
+        "num": 38116,
+        "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+        "onboard_time": 1758896183,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41659,
+        "num": 37994,
+        "word": "华南理工",
+        "onboard_time": 1758889822,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37678,
+        "num": 37678,
+        "word": "以色列总理联大演讲多国代表离场",
+        "onboard_time": 1758910095,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33792,
+        "num": 33792,
+        "word": "刘宇宁演唱会好多业内大佬",
+        "onboard_time": 1758901402,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33333,
+        "num": 33333,
+        "word": "肖战湾区升明月唱整晚的音乐",
+        "onboard_time": 1758898462,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33001,
+        "num": 33001,
+        "word": "中国科学家或收到平行宇宙诡异信号",
+        "onboard_time": 1758894384,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 31423,
+        "num": 31423,
+        "word": "张杰谢娜结婚周年照",
+        "onboard_time": 1758899363,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29877,
+        "num": 29877,
+        "word": "乔妍的心事0提",
+        "onboard_time": 1758896663,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24913,
+        "num": 29863,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21353,
+        "num": 29836,
+        "word": "米兰时装周",
+        "onboard_time": 1758901642,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 21615,
+        "num": 29797,
+        "word": "汪苏泷怎么来观众席唱了",
+        "onboard_time": 1758899663,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21152,
+        "num": 29763,
+        "word": "辛芷蕾这一身王菲来了都得愣两秒",
+        "onboard_time": 1758878900,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19436,
+        "num": 29753,
+        "word": "Fendi大秀一场彩色像素大片",
+        "onboard_time": 1758899363,
+        "rank": 22,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 18584,
+        "num": 29722,
+        "word": "资产上亿女老板疑被骗泰国最新进展",
+        "onboard_time": 1758887181,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18552,
+        "num": 29688,
+        "word": "米兰街头的丁禹兮",
+        "onboard_time": 1758914714,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18475,
+        "num": 29649,
+        "word": "彭昱畅在向往被夸成翘嘴",
+        "onboard_time": 1758910396,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18346,
+        "num": 29618,
+        "word": "赴山海编剧",
+        "onboard_time": 1758894863,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17224,
+        "num": 29599,
+        "word": "法院通报警车出现在150公里外山姆",
+        "onboard_time": 1758896481,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18222,
+        "num": 29551,
+        "word": "赴山海大结局",
+        "onboard_time": 1758884720,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16911,
+        "num": 29523,
+        "word": "JDG战胜WBG",
+        "onboard_time": 1758890841,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15735,
+        "num": 29502,
+        "word": "女生和朋友捡秋意外捡到红豆",
+        "onboard_time": 1758901880,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15610,
+        "num": 29469,
+        "word": "大爷无证驾驶一年多违章279条",
+        "onboard_time": 1758904759,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15556,
+        "num": 29441,
+        "word": "段奥娟提名大爆冷",
+        "onboard_time": 1758880102,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15344,
+        "num": 29417,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14313,
+        "num": 29384,
+        "word": "媒体评男子曝妻子出轨博士",
+        "onboard_time": 1758908057,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14269,
+        "num": 29352,
+        "word": "丁禹兮皮衣",
+        "onboard_time": 1758908656,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13803,
+        "num": 29314,
+        "word": "刘宇宁衣服很贵多穿一会",
+        "onboard_time": 1758898342,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13765,
+        "num": 29292,
+        "word": "向往的生活开播",
+        "onboard_time": 1758896542,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13733,
+        "num": 29266,
+        "word": "看技能五子棋感觉做了个噩梦",
+        "onboard_time": 1758909197,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13697,
+        "num": 29227,
+        "word": "彭昱畅瘦了",
+        "onboard_time": 1758902120,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13607,
+        "num": 29194,
+        "word": "咸鱼飞升杀青特辑",
+        "onboard_time": 1758910876,
+        "rank": 40,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 13142,
+        "num": 29163,
+        "word": "赵今麦丁程鑫或合作许我向你看",
+        "onboard_time": 1758910696,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12902,
+        "num": 29132,
+        "word": "战至巅峰",
+        "onboard_time": 1758900203,
+        "rank": 42,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 12287,
+        "num": 29109,
+        "word": "曝iPhone17国内首周激活销量",
+        "onboard_time": 1758883221,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12157,
+        "num": 29096,
+        "word": "萧秋水李沉舟肖明明都下线了",
+        "onboard_time": 1758905659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12082,
+        "num": 29056,
+        "word": "赵小童 我们宿舍的太牛了",
+        "onboard_time": 1758901343,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12056,
+        "num": 29015,
+        "word": "冰箱保鲜不好等于自制僵尸肉",
+        "onboard_time": 1758902541,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 11841,
+        "num": 28990,
+        "word": "披荆斩棘2025舞台超会评",
+        "onboard_time": 1758910994,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11713,
+        "num": 28954,
+        "word": "中国女孩在埃及失联",
+        "onboard_time": 1758904879,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11414,
+        "num": 28930,
+        "word": "以色列动用直升机向加沙平民开火",
+        "onboard_time": 1758909017,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#把祖国的新疆建设得越来越美好#"
+    }
+  }
+}
