@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758885661143,
+  "endTime": 1758886635070,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -211,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 720596,
+      "num": 391845,
+      "word": "孟子义早期眉眼",
+      "onboard_time": 1758881180,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685659,
       "num": 685659,
       "word": "上海老洋房从1.5亿降至8299万仍流拍",
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 546923,
-      "num": 391845,
-      "word": "孟子义早期眉眼",
-      "onboard_time": 1758881180,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 530392,
       "num": 530392,
       "word": "广电总局称坚决抵制违法失德人员",
@@ -307,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 506892,
+      "num": 249413,
+      "word": "TFBOYS怎么都变回小时候了",
+      "onboard_time": 1758884360,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497829,
       "num": 497829,
       "word": "王暖暖称5年间几乎无收入",
@@ -321,6 +329,14 @@
       "onboard_time": 1758811644,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 472572,
+      "num": 320238,
+      "word": "刘宇宁演唱会连吃带拿",
+      "onboard_time": 1758882441,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 465358,
@@ -353,14 +369,6 @@
       "onboard_time": 1758882020,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 428881,
-      "num": 320238,
-      "word": "刘宇宁演唱会连吃带拿",
-      "onboard_time": 1758882441,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 428342,
@@ -443,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 387541,
-      "num": 249413,
-      "word": "TFBOYS怎么都变回小时候了",
-      "onboard_time": 1758884360,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378650,
       "num": 378650,
       "word": "王暖暖离婚案择期宣判",
@@ -497,6 +497,14 @@
       "onboard_time": 1758860062,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 361024,
+      "num": 262556,
+      "word": "首尔偶遇金子涵",
+      "onboard_time": 1758883640,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 359004,
@@ -627,14 +635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 284359,
-      "num": 262556,
-      "word": "首尔偶遇金子涵",
-      "onboard_time": 1758883640,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278863,
       "num": 278863,
       "word": "于正说杨幂赵丽颖太优秀了",
@@ -657,6 +657,14 @@
       "onboard_time": 1758802522,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277019,
+      "num": 253869,
+      "word": "张晚意黑成包青天了",
+      "onboard_time": 1758884901,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 268770,
@@ -689,6 +697,14 @@
       "onboard_time": 1758810624,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 255757,
+      "num": 248032,
+      "word": "赴山海大结局",
+      "onboard_time": 1758884720,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 255310,
@@ -867,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206893,
+      "num": 206893,
+      "word": "女童被碾过致死案车主服刑十月已满",
+      "onboard_time": 1758881421,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205721,
       "num": 205721,
       "word": "狗狗被台风吹走挂电线上身亡",
@@ -915,14 +939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201374,
-      "num": 248032,
-      "word": "赴山海大结局",
-      "onboard_time": 1758884720,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201343,
       "num": 143069,
       "word": "杨紫家业热度",
@@ -953,14 +969,6 @@
       "onboard_time": 1758858740,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197407,
-      "num": 197407,
-      "word": "女童被碾过致死案车主服刑十月已满",
-      "onboard_time": 1758881421,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197226,
@@ -1059,14 +1067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 184061,
-      "num": 243100,
-      "word": "张晚意黑成包青天了",
-      "onboard_time": 1758884901,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183942,
       "num": 183942,
       "word": "周杰伦昆凌深夜抵达武汉",
@@ -1121,6 +1121,14 @@
       "onboard_time": 1758874282,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179072,
+      "num": 179072,
+      "word": "曝iPhone17国内首周激活销量",
+      "onboard_time": 1758883221,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 178914,
@@ -1195,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169568,
+      "num": 193172,
+      "word": "于正签了多少短剧导演",
+      "onboard_time": 1758884001,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169364,
       "num": 236425,
       "word": "刘宇宁体面二十多年被折的彻彻底底",
@@ -1251,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165338,
+      "num": 165338,
+      "word": "王俊凯 对你不知道该心疼还是称赞",
+      "onboard_time": 1758885681,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164646,
       "num": 164646,
       "word": "小芳出嫁杀青",
@@ -1267,20 +1291,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162143,
-      "num": 193172,
-      "word": "于正签了多少短剧导演",
-      "onboard_time": 1758884001,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161397,
       "num": 161397,
       "word": "闪耀暖暖",
       "onboard_time": 1758855020,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161197,
+      "num": 238398,
+      "word": "省级卫视年底要全面取消虚假医药广告",
+      "onboard_time": 1758884780,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159467,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1758857001,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 154847,
+      "num": 154847,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1758886220,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 153774,
@@ -1459,20 +1491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145543,
-      "num": 145543,
-      "word": "曝iPhone17国内首周激活销量",
-      "onboard_time": 1758883221,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 144512,
       "num": 144512,
       "word": "国乒一天2枚金牌",
       "onboard_time": 1758857001,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144440,
+      "num": 144440,
+      "word": "常华森在国外帅成啥了",
+      "onboard_time": 1758885981,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 143323,
@@ -1491,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142450,
+      "num": 142450,
+      "word": "00年出生的唯一红利",
+      "onboard_time": 1758882261,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142331,
       "num": 142331,
       "word": "养老院已删上百条热舞女院长视频",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1758863302,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140811,
+      "num": 140811,
+      "word": "韩网民称李在明被堵街头丢脸",
+      "onboard_time": 1758883040,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140705,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1758874520,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137637,
+      "num": 137637,
+      "word": "前夫出轨骗我说是野猫",
+      "onboard_time": 1758885859,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 137456,
@@ -1611,14 +1667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134501,
-      "num": 134501,
-      "word": "00年出生的唯一红利",
-      "onboard_time": 1758882261,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134384,
       "num": 134384,
       "word": "汪苏泷巡演福州站",
@@ -1633,14 +1681,6 @@
       "onboard_time": 1758861203,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133791,
-      "num": 133791,
-      "word": "韩网民称李在明被堵街头丢脸",
-      "onboard_time": 1758883040,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133437,
@@ -1755,6 +1795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126642,
+      "num": 126642,
+      "word": "晋江动物城",
+      "onboard_time": 1758884780,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126173,
       "num": 126173,
       "word": "有肖战谁还玩手机",
@@ -1787,6 +1835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 122844,
+      "num": 122844,
+      "word": "娇娇的宋祖儿有多招人稀罕",
+      "onboard_time": 1758886401,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122150,
       "num": 122150,
       "word": "王安宇让你藏没让你睡觉",
@@ -1801,14 +1857,6 @@
       "onboard_time": 1758862882,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121180,
-      "num": 121180,
-      "word": "晋江动物城",
-      "onboard_time": 1758884780,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 120358,
@@ -1833,6 +1881,14 @@
       "onboard_time": 1758883161,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118392,
+      "num": 118392,
+      "word": "陈飞宇金鸡发言",
+      "onboard_time": 1758886401,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 118382,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1758863063,
       "rank": 20,
       "category": "作品衍生,汽车"
+    },
+    {
+      "raw_hot": 113821,
+      "num": 113821,
+      "word": "中国不再寻求WTO特殊待遇",
+      "onboard_time": 1758885859,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113080,
@@ -2459,6 +2523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82194,
+      "num": 132153,
+      "word": "王楚钦不语只是抿嘴笑",
+      "onboard_time": 1758885739,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82153,
       "num": 82153,
       "word": "灰太狼41岁了",
@@ -2571,14 +2643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 70100,
-      "num": 238398,
-      "word": "省级卫视年底要全面取消虚假医药广告",
-      "onboard_time": 1758884780,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69657,
       "num": 131705,
       "word": "广西5岁走失男童在河中被找到",
@@ -2651,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60114,
+      "num": 234726,
+      "word": "理想i6太懂年轻人了",
+      "onboard_time": 1758884660,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58287,
       "num": 113155,
       "word": "深圳一绿道被指有上百条减速带",
@@ -2713,14 +2785,6 @@
       "onboard_time": 1758852260,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52134,
-      "num": 234726,
-      "word": "理想i6太懂年轻人了",
-      "onboard_time": 1758884660,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 50932,
@@ -2963,6 +3027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26482,
+      "num": 192082,
+      "word": "王耀庆不愧是我在内娱的亲戚",
+      "onboard_time": 1758883040,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25342,
       "num": 1162303,
       "word": "新质领航山西实践",
@@ -3003,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23784,
+      "num": 133920,
+      "word": "WTO的特殊待遇我们为何不要了",
+      "onboard_time": 1758885020,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23666,
       "num": 218041,
       "word": "Prada大秀高智感",
@@ -3017,14 +3097,6 @@
       "onboard_time": 1758867861,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22890,
-      "num": 133920,
-      "word": "WTO的特殊待遇我们为何不要了",
-      "onboard_time": 1758885020,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22575,
@@ -3065,14 +3137,6 @@
       "onboard_time": 1758822915,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17419,
-      "num": 192082,
-      "word": "王耀庆不愧是我在内娱的亲戚",
-      "onboard_time": 1758883040,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 17225,
@@ -3145,6 +3209,14 @@
       "onboard_time": 1758851900,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8437,
+      "num": 132189,
+      "word": "周深领奖仰着头够话筒",
+      "onboard_time": 1758886220,
+      "rank": 38,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
