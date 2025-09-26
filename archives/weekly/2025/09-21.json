@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758904268285,
+  "endTime": 1758905138741,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -2667,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551206,
+      "num": 844535,
+      "word": "尹锡悦坐牢两个月形象大变",
+      "onboard_time": 1758900623,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 548901,
       "num": 548901,
       "word": "杨幂做卷腹好轻松",
@@ -2993,14 +3001,6 @@
       "onboard_time": 1758706582,
       "rank": 29,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 493188,
-      "num": 844535,
-      "word": "尹锡悦坐牢两个月形象大变",
-      "onboard_time": 1758900623,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 493045,
@@ -3731,6 +3731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 386579,
+      "num": 386579,
+      "word": "埃及失联中国女孩母亲发声",
+      "onboard_time": 1758898943,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385711,
       "num": 290998,
       "word": "台湾大学生被韩国人扇巴掌",
@@ -3961,14 +3969,6 @@
       "onboard_time": 1758514342,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363171,
-      "num": 363171,
-      "word": "埃及失联中国女孩母亲发声",
-      "onboard_time": 1758898943,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 361998,
@@ -4329,6 +4329,14 @@
       "onboard_time": 1758785002,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 321452,
+      "num": 288399,
+      "word": "刘宇宁演唱会好多业内大佬",
+      "onboard_time": 1758901402,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 320333,
@@ -4721,14 +4729,6 @@
       "onboard_time": 1758614602,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 288399,
-      "num": 288399,
-      "word": "刘宇宁演唱会好多业内大佬",
-      "onboard_time": 1758901402,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 287821,
@@ -11179,6 +11179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146306,
+      "num": 100907,
+      "word": "彭昱畅瘦了",
+      "onboard_time": 1758902120,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146162,
       "num": 146162,
       "word": "西贝故事会",
@@ -12483,6 +12491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134920,
+      "num": 100532,
+      "word": "赵小童 我们宿舍的太牛了",
+      "onboard_time": 1758901343,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134862,
       "num": 143400,
       "word": "老人抓阄分房大儿子2次没中反悔",
@@ -13131,14 +13147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128883,
-      "num": 98092,
-      "word": "赵小童 我们宿舍的太牛了",
-      "onboard_time": 1758901343,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128828,
       "num": 148287,
       "word": "王俊凯蝴蝶结黑风衣",
@@ -13689,14 +13697,6 @@
       "onboard_time": 1758539602,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124622,
-      "num": 97936,
-      "word": "彭昱畅瘦了",
-      "onboard_time": 1758902120,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 124510,
@@ -15987,6 +15987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 103768,
+      "num": 103768,
+      "word": "孕妇遭遇黑熊袭击装死逃过一劫",
+      "onboard_time": 1758901161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103718,
       "num": 103718,
       "word": "我很少用震撼来形容一个地方",
@@ -16371,6 +16379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98923,
+      "num": 98923,
+      "word": "女生和朋友捡秋意外捡到红豆",
+      "onboard_time": 1758901880,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98887,
       "num": 139665,
       "word": "中国移动上线iPhoneAir页面",
@@ -16393,14 +16409,6 @@
       "onboard_time": 1758849560,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98314,
-      "num": 98314,
-      "word": "孕妇遭遇黑熊袭击装死逃过一劫",
-      "onboard_time": 1758901161,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98283,
@@ -16723,6 +16731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94044,
+      "num": 94044,
+      "word": "毕雯珺唱了慢慢",
+      "onboard_time": 1758901521,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94016,
       "num": 124897,
       "word": "人民文娱评海外剧夹带私货",
@@ -16769,6 +16785,14 @@
       "onboard_time": 1758592821,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93385,
+      "num": 93385,
+      "word": "王安宇张天爱演了个被片名耽误的电影",
+      "onboard_time": 1758903920,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 93031,
@@ -16849,14 +16873,6 @@
       "onboard_time": 1758416844,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91917,
-      "num": 91917,
-      "word": "毕雯珺唱了慢慢",
-      "onboard_time": 1758901521,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 91885,
@@ -17603,14 +17619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81161,
-      "num": 98017,
-      "word": "女生和朋友捡秋意外捡到红豆",
-      "onboard_time": 1758901880,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 80961,
       "num": 128499,
       "word": "这是真的在披麻戴笑",
@@ -17889,14 +17897,6 @@
       "onboard_time": 1758520463,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73389,
-      "num": 73389,
-      "word": "王安宇张天爱演了个被片名耽误的电影",
-      "onboard_time": 1758903920,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 72975,
@@ -18337,6 +18337,14 @@
       "onboard_time": 1758750134,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64046,
+      "num": 86560,
+      "word": "震耳欲聋",
+      "onboard_time": 1758904700,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 63900,
@@ -19419,6 +19427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47231,
+      "num": 229204,
+      "word": "获国奖认证的保鲜科技长啥样",
+      "onboard_time": 1758900863,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47154,
       "num": 89274,
       "word": "中国花滑女单获冬奥资格",
@@ -19532,7 +19548,7 @@
     },
     {
       "raw_hot": 45327,
-      "num": 73312,
+      "num": 86405,
       "word": "立起来的大熊猫和企鹅相似度99%",
       "onboard_time": 1758902362,
       "rank": 48,
@@ -19785,6 +19801,14 @@
       "onboard_time": 1758702022,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40316,
+      "num": 86421,
+      "word": "中国女孩在埃及失联",
+      "onboard_time": 1758904879,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39732,
@@ -20449,14 +20473,6 @@
       "onboard_time": 1758781881,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31923,
-      "num": 229204,
-      "word": "获国奖认证的保鲜科技长啥样",
-      "onboard_time": 1758900863,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 31818,

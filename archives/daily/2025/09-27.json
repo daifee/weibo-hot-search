@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758904268285,
+  "endTime": 1758905138741,
   "band_list": [
     {
       "raw_hot": 1035595,
@@ -35,7 +35,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 493188,
+      "raw_hot": 551206,
       "num": 844535,
       "word": "尹锡悦坐牢两个月形象大变",
       "onboard_time": 1758900623,
@@ -75,8 +75,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 363171,
-      "num": 363171,
+      "raw_hot": 386579,
+      "num": 386579,
       "word": "埃及失联中国女孩母亲发声",
       "onboard_time": 1758898943,
       "rank": 8,
@@ -91,20 +91,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 321452,
+      "num": 288399,
+      "word": "刘宇宁演唱会好多业内大佬",
+      "onboard_time": 1758901402,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 316881,
       "num": 316881,
       "word": "许我耀眼开播",
       "onboard_time": 1758867082,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288399,
-      "num": 288399,
-      "word": "刘宇宁演唱会好多业内大佬",
-      "onboard_time": 1758901402,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 281453,
@@ -115,28 +115,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232979,
-      "num": 232979,
+      "raw_hot": 278250,
+      "num": 242139,
       "word": "华南理工",
       "onboard_time": 1758889822,
       "rank": 15,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221970,
+      "num": 221970,
+      "word": "汪苏泷怎么来观众席唱了",
+      "onboard_time": 1758899663,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166209,
-      "num": 98526,
+      "num": 101939,
       "word": "刘宇宁衣服很贵多穿一会",
       "onboard_time": 1758898342,
       "rank": 18,
       "category": "演出"
     },
     {
-      "raw_hot": 156705,
-      "num": 98265,
-      "word": "汪苏泷怎么来观众席唱了",
-      "onboard_time": 1758899663,
-      "rank": 20,
-      "category": "演出"
+      "raw_hot": 146306,
+      "num": 100907,
+      "word": "彭昱畅瘦了",
+      "onboard_time": 1758902120,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 146223,
@@ -147,28 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133385,
-      "num": 98171,
-      "word": "段奥娟提名大爆冷",
-      "onboard_time": 1758880102,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 128883,
-      "num": 98092,
+      "raw_hot": 134920,
+      "num": 100532,
       "word": "赵小童 我们宿舍的太牛了",
       "onboard_time": 1758901343,
       "rank": 23,
       "category": "演出"
     },
     {
-      "raw_hot": 124622,
-      "num": 97936,
-      "word": "彭昱畅瘦了",
-      "onboard_time": 1758902120,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 133385,
+      "num": 99292,
+      "word": "段奥娟提名大爆冷",
+      "onboard_time": 1758880102,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 112510,
@@ -179,19 +179,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98838,
-      "num": 98838,
-      "word": "健康码行程码记得解绑",
-      "onboard_time": 1758865460,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98314,
-      "num": 98314,
+      "raw_hot": 103768,
+      "num": 103768,
       "word": "孕妇遭遇黑熊袭击装死逃过一劫",
       "onboard_time": 1758901161,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98923,
+      "num": 98923,
+      "word": "女生和朋友捡秋意外捡到红豆",
+      "onboard_time": 1758901880,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 98838,
+      "num": 102817,
+      "word": "健康码行程码记得解绑",
+      "onboard_time": 1758865460,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -219,6 +227,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94044,
+      "num": 94044,
+      "word": "毕雯珺唱了慢慢",
+      "onboard_time": 1758901521,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 93663,
+      "num": 93663,
+      "word": "战至巅峰",
+      "onboard_time": 1758900203,
+      "rank": 35,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 93385,
+      "num": 93385,
+      "word": "王安宇张天爱演了个被片名耽误的电影",
+      "onboard_time": 1758903920,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93267,
       "num": 93267,
       "word": "赴山海大结局",
@@ -227,32 +259,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91957,
-      "num": 91957,
-      "word": "战至巅峰",
-      "onboard_time": 1758900203,
-      "rank": 35,
-      "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 91917,
-      "num": 91917,
-      "word": "毕雯珺唱了慢慢",
-      "onboard_time": 1758901521,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 81161,
-      "num": 98017,
-      "word": "女生和朋友捡秋意外捡到红豆",
-      "onboard_time": 1758901880,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75953,
-      "num": 75953,
+      "num": 86655,
       "word": "张婧仪骨相",
       "onboard_time": 1758888260,
       "rank": 41,
@@ -260,19 +268,11 @@
     },
     {
       "raw_hot": 74890,
-      "num": 74890,
+      "num": 86601,
       "word": "赴山海编剧",
       "onboard_time": 1758894863,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73389,
-      "num": 73389,
-      "word": "王安宇张天爱演了个被片名耽误的电影",
-      "onboard_time": 1758903920,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 72722,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 72405,
-      "num": 92432,
+      "num": 93764,
       "word": "中国科学家或收到平行宇宙诡异信号",
       "onboard_time": 1758894384,
       "rank": 33,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68684,
+      "num": 90306,
+      "word": "米兰时装周",
+      "onboard_time": 1758901642,
+      "rank": 37,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 68666,
       "num": 73385,
       "word": "金靖开团周柯宇张凌赫秒跟",
@@ -307,12 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61510,
-      "num": 88314,
-      "word": "米兰时装周",
-      "onboard_time": 1758901642,
-      "rank": 37,
-      "category": "时尚,作品衍生"
+      "raw_hot": 64046,
+      "num": 86560,
+      "word": "震耳欲聋",
+      "onboard_time": 1758904700,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 63152,
+      "num": 86555,
+      "word": "舒淇获奖感谢冯德伦",
+      "onboard_time": 1758896423,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 61486,
@@ -332,19 +348,43 @@
     },
     {
       "raw_hot": 59982,
-      "num": 80337,
+      "num": 86431,
       "word": "JDG与iG将争夺四号种子",
       "onboard_time": 1758900322,
       "rank": 39,
       "category": "电竞"
     },
     {
+      "raw_hot": 57353,
+      "num": 86462,
+      "word": "TFBOYS怎么都变回小时候了",
+      "onboard_time": 1758884360,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53005,
-      "num": 73348,
+      "num": 86504,
       "word": "JDG战胜WBG",
       "onboard_time": 1758890841,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47231,
+      "num": 103546,
+      "word": "获国奖认证的保鲜科技长啥样",
+      "onboard_time": 1758900863,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 47066,
+      "num": 86606,
+      "word": "资产上亿女老板疑被骗泰国最新进展",
+      "onboard_time": 1758887181,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46928,
@@ -364,18 +404,18 @@
     },
     {
       "raw_hot": 45327,
-      "num": 73312,
+      "num": 86405,
       "word": "立起来的大熊猫和企鹅相似度99%",
       "onboard_time": 1758902362,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43985,
-      "num": 73305,
-      "word": "资产上亿女老板疑被骗泰国最新进展",
-      "onboard_time": 1758887181,
-      "rank": 49,
+      "raw_hot": 40316,
+      "num": 86421,
+      "word": "中国女孩在埃及失联",
+      "onboard_time": 1758904879,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -387,15 +427,7 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 31923,
-      "num": 98534,
-      "word": "获国奖认证的保鲜科技长啥样",
-      "onboard_time": 1758900863,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 13159,
+      "raw_hot": 13509,
       "num": 424831,
       "word": "国庆假期带特产上飞机要注意啥",
       "onboard_time": 1758871222,
