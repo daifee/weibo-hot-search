@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 11:47:07
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 12:30:29
 </p>
 </blockquote>
 <p>
@@ -1463,6 +1463,12 @@ miumiu签了三个00花（热度：1748229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E8%A2%AB%E6%B2%89%E5%B0%B8%E8%83%B8%E9%83%A8%E5%81%87%E4%BD%93%E5%8D%B0%E4%B8%AD%E6%96%87%23" target="weibo">
 女子在泰被沉尸胸部假体印中文（热度：1609486）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AE%B5%E5%A5%A5%E5%A8%9F%E9%A6%96%E6%AC%A1%E6%8F%90%E5%90%8D%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
+段奥娟首次提名金鸡奖（热度：1607468）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B8%83%E5%85%B0%E5%A6%AE%E5%AE%B6%E9%87%8C%E9%83%BD%E6%98%AF%E7%8B%97%E5%A4%A7%E4%BE%BF%23" target="weibo">
-曝布兰妮家里都是狗大便（热度：683482）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6503,6 +6503,12 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E7%BE%A4%E4%BC%97%E7%83%AD%E6%83%85%E6%AC%A2%E9%80%81%E6%80%BB%E4%B9%A6%E8%AE%B0%23%23" target="weibo">
 #新疆各族群众热情欢送总书记#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E7%96%86%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
+#习近平总书记新疆之行#
 </a>
 </li>
 
