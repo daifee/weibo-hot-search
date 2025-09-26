@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758911581006,
+  "endTime": 1758912394457,
   "band_list": [
     {
       "raw_hot": 1035595,
@@ -275,6 +275,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 76293,
+      "num": 76293,
+      "word": "以色列总理联大演讲多国代表离场",
+      "onboard_time": 1758910095,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75953,
       "num": 86655,
       "word": "张婧仪骨相",
@@ -305,14 +313,6 @@
       "onboard_time": 1758898583,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68976,
-      "num": 68976,
-      "word": "以色列总理联大演讲多国代表离场",
-      "onboard_time": 1758910095,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68666,
@@ -369,6 +369,14 @@
       "onboard_time": 1758900322,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55130,
+      "num": 55130,
+      "word": "彭昱畅在向往被夸成翘嘴",
+      "onboard_time": 1758910396,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 53005,
@@ -443,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40542,
-      "num": 46499,
-      "word": "彭昱畅在向往被夸成翘嘴",
-      "onboard_time": 1758910396,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 40316,
       "num": 86421,
       "word": "中国女孩在埃及失联",
@@ -491,7 +491,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28208,
+      "raw_hot": 28402,
       "num": 69082,
       "word": "媒体评男子曝妻子出轨博士",
       "onboard_time": 1758908057,
@@ -523,12 +523,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21501,
+      "raw_hot": 22642,
       "num": 46409,
       "word": "以色列动用直升机向加沙平民开火",
       "onboard_time": 1758909017,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20598,
+      "num": 41485,
+      "word": "海尔为什么坚持让磁场进入冰箱",
+      "onboard_time": 1758912255,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13509,

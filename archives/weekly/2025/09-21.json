@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758911581006,
+  "endTime": 1758912394457,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -17803,6 +17803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76293,
+      "num": 76293,
+      "word": "以色列总理联大演讲多国代表离场",
+      "onboard_time": 1758910095,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76132,
       "num": 287282,
       "word": "什么车pick了王楚钦",
@@ -18113,14 +18121,6 @@
       "onboard_time": 1758375685,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 68976,
-      "num": 68976,
-      "word": "以色列总理联大演讲多国代表离场",
-      "onboard_time": 1758910095,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68632,
@@ -18873,6 +18873,14 @@
       "onboard_time": 1758438501,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55130,
+      "num": 55130,
+      "word": "彭昱畅在向往被夸成翘嘴",
+      "onboard_time": 1758910396,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 55066,
@@ -19833,14 +19841,6 @@
       "onboard_time": 1758702022,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40542,
-      "num": 46499,
-      "word": "彭昱畅在向往被夸成翘嘴",
-      "onboard_time": 1758910396,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 40316,
@@ -20827,19 +20827,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28402,
+      "num": 69082,
+      "word": "媒体评男子曝妻子出轨博士",
+      "onboard_time": 1758908057,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28280,
       "num": 145476,
       "word": "崔丽丽还未拿到113万赔偿",
       "onboard_time": 1758781822,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28208,
-      "num": 69082,
-      "word": "媒体评男子曝妻子出轨博士",
-      "onboard_time": 1758908057,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -21163,6 +21163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22642,
+      "num": 46409,
+      "word": "以色列动用直升机向加沙平民开火",
+      "onboard_time": 1758909017,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22275,
       "num": 37803,
       "word": "不要用离开试探小狗的爱",
@@ -21203,14 +21211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21501,
-      "num": 46409,
-      "word": "以色列动用直升机向加沙平民开火",
-      "onboard_time": 1758909017,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21394,
       "num": 28709,
       "word": "刘雨昕官宣微博音乐盛典",
@@ -21232,6 +21232,14 @@
       "word": "消失的她原型王暖暖离婚案本周开庭",
       "onboard_time": 1758526101,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20598,
+      "num": 41485,
+      "word": "海尔为什么坚持让磁场进入冰箱",
+      "onboard_time": 1758912255,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
