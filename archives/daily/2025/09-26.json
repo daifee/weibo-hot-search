@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758868578219,
+  "endTime": 1758869377885,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -43,7 +43,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1677816,
+      "raw_hot": 1781479,
       "num": 285358,
       "word": "许我耀眼开播",
       "onboard_time": 1758867082,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 683992,
+      "num": 272428,
+      "word": "男子曝妻子出轨博士受害者还有孩子",
+      "onboard_time": 1758862823,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 661478,
       "num": 332954,
       "word": "东兴通报中学生持刀伤人后跳楼死亡",
@@ -179,12 +187,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 633275,
-      "num": 272428,
-      "word": "男子曝妻子出轨博士受害者还有孩子",
-      "onboard_time": 1758862823,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 531671,
+      "num": 287053,
+      "word": "五字哥哥和四字弟弟合影了",
+      "onboard_time": 1758866661,
+      "rank": 15,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 530392,
@@ -193,6 +201,14 @@
       "onboard_time": 1758810504,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528201,
+      "num": 314237,
+      "word": "段奥娟秀影一",
+      "onboard_time": 1758865161,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 525744,
@@ -219,14 +235,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 452973,
-      "num": 254140,
-      "word": "五字哥哥和四字弟弟合影了",
-      "onboard_time": 1758866661,
-      "rank": 15,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 428342,
       "num": 428342,
       "word": "做完你的 做你的",
@@ -241,14 +249,6 @@
       "onboard_time": 1758857901,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 421501,
-      "num": 314237,
-      "word": "段奥娟秀影一",
-      "onboard_time": 1758865161,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 416346,
@@ -451,6 +451,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 268423,
+      "num": 268423,
+      "word": "健康码行程码记得解绑",
+      "onboard_time": 1758865460,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268171,
       "num": 268171,
       "word": "小米17价格",
@@ -627,14 +635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198062,
-      "num": 198062,
-      "word": "健康码行程码记得解绑",
-      "onboard_time": 1758865460,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197226,
       "num": 197226,
       "word": "LPL被爆组建S15陪练团",
@@ -656,6 +656,14 @@
       "word": "女院长穿短裙给养老院老头跳热舞",
       "onboard_time": 1758842958,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195059,
+      "num": 286124,
+      "word": "2岁男童因一口热汤住进ICU",
+      "onboard_time": 1758863781,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -689,6 +697,14 @@
       "onboard_time": 1758853280,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189200,
+      "num": 189200,
+      "word": "段奥娟曾回应电影首秀被提名",
+      "onboard_time": 1758868939,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 188063,
@@ -819,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168190,
-      "num": 286124,
-      "word": "2岁男童因一口热汤住进ICU",
-      "onboard_time": 1758863781,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167290,
       "num": 167290,
       "word": "第一次见男主为女主把亲爹送监狱的",
@@ -835,19 +843,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166225,
+      "num": 166225,
+      "word": "郑晓龙拍95花 章若楠林允张婧仪",
+      "onboard_time": 1758866661,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164646,
       "num": 164646,
       "word": "小芳出嫁杀青",
       "onboard_time": 1758858081,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 163246,
-      "num": 163246,
-      "word": "郑晓龙拍95花 章若楠林允张婧仪",
-      "onboard_time": 1758866661,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -897,6 +905,14 @@
       "onboard_time": 1758859642,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150842,
+      "num": 150842,
+      "word": "黄薇 尚公主妆造",
+      "onboard_time": 1758868282,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 149725,
@@ -995,6 +1011,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140325,
+      "num": 140325,
+      "word": "王鹤棣又一人生镜头",
+      "onboard_time": 1758868821,
+      "rank": 30,
+      "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 138059,
+      "num": 138059,
+      "word": "上海老洋房从1.5亿降至8299万仍流拍",
+      "onboard_time": 1758866241,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137544,
+      "num": 137544,
+      "word": "乌萨奇 你是汉族吗",
+      "onboard_time": 1758868760,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137456,
       "num": 137456,
       "word": "认为把教科书背熟了 结果考的是书皮",
@@ -1011,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136400,
+      "num": 136400,
+      "word": "赴山海第三十一集穿帮镜头",
+      "onboard_time": 1758868939,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136352,
       "num": 136352,
       "word": "惠英红提名金鸡奖最佳女配角",
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 135281,
-      "num": 135281,
+      "num": 136423,
       "word": "成毅自己官宣自己的新剧",
       "onboard_time": 1758867981,
       "rank": 34,
@@ -1155,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121561,
-      "num": 121561,
-      "word": "黄薇 尚公主妆造",
-      "onboard_time": 1758868282,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120358,
       "num": 120358,
       "word": "12306回应长途有票短途却需候补",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1758857840,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116442,
+      "num": 194700,
+      "word": "那玛峰滑坠驴友遗体已找到",
+      "onboard_time": 1758868640,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115068,
@@ -1315,20 +1363,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108076,
-      "num": 108076,
-      "word": "上海老洋房从1.5亿降至8299万仍流拍",
-      "onboard_time": 1758866241,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107085,
       "num": 161851,
       "word": "河南兄弟俩在自家农田触电身亡",
       "onboard_time": 1758864022,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106424,
+      "num": 106424,
+      "word": "惠英红又提名金鸡奖了",
+      "onboard_time": 1758869002,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 105810,
@@ -1379,12 +1427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100354,
+      "num": 100354,
+      "word": "这就是父母口中不欢迎亲戚的家",
+      "onboard_time": 1758866781,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100087,
       "num": 100087,
       "word": "如鸢",
       "onboard_time": 1758853280,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99308,
+      "num": 99308,
+      "word": "车澈已退出李嘉格名下公司",
+      "onboard_time": 1758868821,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 99187,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1758815843,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98019,
+      "num": 117119,
+      "word": "张新成王玉雯米兰约饭",
+      "onboard_time": 1758869180,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 96052,
@@ -1699,6 +1771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69657,
+      "num": 131705,
+      "word": "广西5岁走失男童在河中被找到",
+      "onboard_time": 1758868102,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69606,
       "num": 69606,
       "word": "萌兰我那么大两个妹妹呢",
@@ -1776,14 +1856,6 @@
       "word": "每个人都是河山的一部分",
       "onboard_time": 1758867141,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56106,
-      "num": 131705,
-      "word": "广西5岁走失男童在河中被找到",
-      "onboard_time": 1758868102,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1947,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31023,
+      "num": 117115,
+      "word": "辛芷蕾被围观尴尬比了个耶",
+      "onboard_time": 1758869301,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30041,
       "num": 100150,
       "word": "信用卡6年被收3万额外息费",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1758856281,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 23549,
+      "num": 388244,
+      "word": "未成年人网络保护",
+      "onboard_time": 1758859581,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23294,
@@ -2048,14 +2136,6 @@
       "word": "石榴红了满天山",
       "onboard_time": 1758860361,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14194,
-      "num": 388244,
-      "word": "未成年人网络保护",
-      "onboard_time": 1758859581,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

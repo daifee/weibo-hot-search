@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758868578219,
+  "endTime": 1758869377885,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1781479,
+      "num": 285358,
+      "word": "许我耀眼开播",
+      "onboard_time": 1758867082,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1778765,
       "num": 1639971,
       "word": "姐弟坠亡案妈妈5年后官宣新恋情",
@@ -289,14 +297,6 @@
       "onboard_time": 1758686480,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1677816,
-      "num": 285358,
-      "word": "许我耀眼开播",
-      "onboard_time": 1758867082,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1673205,
@@ -1835,6 +1835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 683992,
+      "num": 272428,
+      "word": "男子曝妻子出轨博士受害者还有孩子",
+      "onboard_time": 1758862823,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 682820,
       "num": 682820,
       "word": "恋与深空",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1758500482,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 633275,
-      "num": 272428,
-      "word": "男子曝妻子出轨博士受害者还有孩子",
-      "onboard_time": 1758862823,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630584,
@@ -2555,12 +2555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531671,
+      "num": 287053,
+      "word": "五字哥哥和四字弟弟合影了",
+      "onboard_time": 1758866661,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 531086,
       "num": 1067660,
       "word": "苏新皓被助理架着走",
       "onboard_time": 1758726381,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528201,
+      "num": 314237,
+      "word": "段奥娟秀影一",
+      "onboard_time": 1758865161,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 525744,
@@ -2931,14 +2947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452973,
-      "num": 254140,
-      "word": "五字哥哥和四字弟弟合影了",
-      "onboard_time": 1758866661,
-      "rank": 15,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 451575,
       "num": 430418,
       "word": "王俊凯26岁生日照",
@@ -3137,14 +3145,6 @@
       "onboard_time": 1758588982,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 421501,
-      "num": 314237,
-      "word": "段奥娟秀影一",
-      "onboard_time": 1758865161,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 419326,
@@ -4641,6 +4641,14 @@
       "onboard_time": 1758816440,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 268423,
+      "num": 268423,
+      "word": "健康码行程码记得解绑",
+      "onboard_time": 1758865460,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268250,
@@ -6475,14 +6483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198062,
-      "num": 198062,
-      "word": "健康码行程码记得解绑",
-      "onboard_time": 1758865460,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197680,
       "num": 197680,
       "word": "单依纯年度最佳歌手",
@@ -6728,6 +6728,14 @@
       "word": "回家火车票 候补",
       "onboard_time": 1758778882,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195059,
+      "num": 286124,
+      "word": "2岁男童因一口热汤住进ICU",
+      "onboard_time": 1758863781,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -7081,6 +7089,14 @@
       "onboard_time": 1758382702,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189200,
+      "num": 189200,
+      "word": "段奥娟曾回应电影首秀被提名",
+      "onboard_time": 1758868939,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 189182,
@@ -8523,14 +8539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168190,
-      "num": 286124,
-      "word": "2岁男童因一口热汤住进ICU",
-      "onboard_time": 1758863781,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168189,
       "num": 168189,
       "word": "山姆上架太二酸菜鱼预制菜",
@@ -8657,6 +8665,14 @@
       "onboard_time": 1758633504,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166225,
+      "num": 166225,
+      "word": "郑晓龙拍95花 章若楠林允张婧仪",
+      "onboard_time": 1758866661,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 165597,
@@ -8841,14 +8857,6 @@
       "onboard_time": 1758784761,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163246,
-      "num": 163246,
-      "word": "郑晓龙拍95花 章若楠林允张婧仪",
-      "onboard_time": 1758866661,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 163183,
@@ -9857,6 +9865,14 @@
       "onboard_time": 1758796941,
       "rank": 49,
       "category": "网红,游戏"
+    },
+    {
+      "raw_hot": 150842,
+      "num": 150842,
+      "word": "黄薇 尚公主妆造",
+      "onboard_time": 1758868282,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 150837,
@@ -10923,6 +10939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140325,
+      "num": 140325,
+      "word": "王鹤棣又一人生镜头",
+      "onboard_time": 1758868821,
+      "rank": 30,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 140131,
       "num": 140131,
       "word": "广州地铁多个站点或停运",
@@ -11059,6 +11083,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 138059,
+      "num": 138059,
+      "word": "上海老洋房从1.5亿降至8299万仍流拍",
+      "onboard_time": 1758866241,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138014,
       "num": 193354,
       "word": "26的王俊凯",
@@ -11129,6 +11161,14 @@
       "onboard_time": 1758523881,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 137544,
+      "num": 137544,
+      "word": "乌萨奇 你是汉族吗",
+      "onboard_time": 1758868760,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 137490,
@@ -11249,6 +11289,14 @@
       "onboard_time": 1758673462,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136400,
+      "num": 136400,
+      "word": "赴山海第三十一集穿帮镜头",
+      "onboard_time": 1758868939,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 136373,
@@ -11380,7 +11428,7 @@
     },
     {
       "raw_hot": 135281,
-      "num": 135281,
+      "num": 136423,
       "word": "成毅自己官宣自己的新剧",
       "onboard_time": 1758867981,
       "rank": 34,
@@ -12827,14 +12875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121561,
-      "num": 121561,
-      "word": "黄薇 尚公主妆造",
-      "onboard_time": 1758868282,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121492,
       "num": 121492,
       "word": "喜单团综",
@@ -13369,6 +13409,14 @@
       "onboard_time": 1758453801,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116442,
+      "num": 194700,
+      "word": "那玛峰滑坠驴友遗体已找到",
+      "onboard_time": 1758868640,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116314,
@@ -14139,14 +14187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108076,
-      "num": 108076,
-      "word": "上海老洋房从1.5亿降至8299万仍流拍",
-      "onboard_time": 1758866241,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107993,
       "num": 107993,
       "word": "深圳执行力太强了",
@@ -14233,6 +14273,14 @@
       "onboard_time": 1758639264,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 106424,
+      "num": 106424,
+      "word": "惠英红又提名金鸡奖了",
+      "onboard_time": 1758869002,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 106365,
@@ -14723,6 +14771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100354,
+      "num": 100354,
+      "word": "这就是父母口中不欢迎亲戚的家",
+      "onboard_time": 1758866781,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100087,
       "num": 100087,
       "word": "如鸢",
@@ -14792,6 +14848,14 @@
       "word": "刘耀文20岁庆生vlog",
       "onboard_time": 1758592880,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99308,
+      "num": 99308,
+      "word": "车澈已退出李嘉格名下公司",
+      "onboard_time": 1758868821,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -14881,6 +14945,14 @@
       "onboard_time": 1758378264,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98019,
+      "num": 117119,
+      "word": "张新成王玉雯米兰约饭",
+      "onboard_time": 1758869180,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 97930,
@@ -16379,6 +16451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69657,
+      "num": 131705,
+      "word": "广西5岁走失男童在河中被找到",
+      "onboard_time": 1758868102,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69606,
       "num": 69606,
       "word": "萌兰我那么大两个妹妹呢",
@@ -17009,14 +17089,6 @@
       "onboard_time": 1758635603,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 56106,
-      "num": 131705,
-      "word": "广西5岁走失男童在河中被找到",
-      "onboard_time": 1758868102,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55896,
@@ -18571,6 +18643,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 31023,
+      "num": 117115,
+      "word": "辛芷蕾被围观尴尬比了个耶",
+      "onboard_time": 1758869301,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30510,
       "num": 44964,
       "word": "南京被泰州封零",
@@ -19019,6 +19099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23549,
+      "num": 388244,
+      "word": "未成年人网络保护",
+      "onboard_time": 1758859581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23314,
       "num": 166714,
       "word": "摄友独自进山拍照失联7天遇难",
@@ -19361,14 +19449,6 @@
       "onboard_time": 1758695543,
       "rank": 29,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 14194,
-      "num": 388244,
-      "word": "未成年人网络保护",
-      "onboard_time": 1758859581,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14023,

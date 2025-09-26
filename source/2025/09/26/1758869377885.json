@@ -1,0 +1,410 @@
+{
+  "runTime": 1758869377885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 669209,
+        "num": 1107073,
+        "word": "金鸡奖提名",
+        "onboard_time": 1758856881,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386460,
+        "num": 386460,
+        "word": "麒麟 王楚钦",
+        "onboard_time": 1758854000,
+        "rank": 1,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 23549,
+        "num": 290616,
+        "word": "未成年人网络保护",
+        "onboard_time": 1758859581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531671,
+        "num": 287053,
+        "word": "五字哥哥和四字弟弟合影了",
+        "onboard_time": 1758866661,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 528201,
+        "num": 284926,
+        "word": "段奥娟秀影一",
+        "onboard_time": 1758865161,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268423,
+        "num": 268423,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210899,
+        "num": 210899,
+        "word": "鞠婧祎扛住了G社镜头",
+        "onboard_time": 1758858261,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 977331,
+        "num": 208895,
+        "word": "婆婆称王暖暖的钱勾引了儿子犯罪",
+        "onboard_time": 1758862704,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331327,
+        "num": 206821,
+        "word": "王暖暖离婚案择期宣判",
+        "onboard_time": 1758863722,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195059,
+        "num": 195059,
+        "word": "2岁男童因一口热汤住进ICU",
+        "onboard_time": 1758863781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116442,
+        "num": 194700,
+        "word": "那玛峰滑坠驴友遗体已找到",
+        "onboard_time": 1758868640,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1781479,
+        "num": 193571,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1348218,
+        "num": 192606,
+        "word": "金鸡提名爆冷",
+        "onboard_time": 1758864501,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 683992,
+        "num": 191433,
+        "word": "男子曝妻子出轨博士受害者还有孩子",
+        "onboard_time": 1758862823,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190718,
+        "num": 190718,
+        "word": "内娱第一纯骗cp",
+        "onboard_time": 1758857901,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466899,
+        "num": 190189,
+        "word": "日本老人冰柜藏女儿尸体20年",
+        "onboard_time": 1758862162,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 316580,
+        "num": 189707,
+        "word": "酱园弄0提",
+        "onboard_time": 1758864501,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189200,
+        "num": 189200,
+        "word": "段奥娟曾回应电影首秀被提名",
+        "onboard_time": 1758868939,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185122,
+        "num": 185122,
+        "word": "芬兰希望取消五常一票否决权",
+        "onboard_time": 1758849501,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37356,
+        "num": 184487,
+        "word": "每个人都是河山的一部分",
+        "onboard_time": 1758867141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403351,
+        "num": 181306,
+        "word": "白鹿与科比大女儿同框看秀",
+        "onboard_time": 1758860963,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 301475,
+        "num": 178883,
+        "word": "肖战一出来现场瞬间爆鸣",
+        "onboard_time": 1758860062,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222922,
+        "num": 177544,
+        "word": "日本人抨击外网侵华罪行视频",
+        "onboard_time": 1758865941,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176493,
+        "num": 176493,
+        "word": "30秒自查身份证是否被他人绑定",
+        "onboard_time": 1758848720,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166225,
+        "num": 166225,
+        "word": "郑晓龙拍95花 章若楠林允张婧仪",
+        "onboard_time": 1758866661,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160167,
+        "num": 160167,
+        "word": "蓝战非与亲戚断绝来往",
+        "onboard_time": 1758859281,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 155745,
+        "num": 155745,
+        "word": "花30万找千万网红带货销量为0",
+        "onboard_time": 1758866301,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90358,
+        "num": 154475,
+        "word": "百万超跑悬架技术被国产车拿下",
+        "onboard_time": 1758867082,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153925,
+        "num": 153925,
+        "word": "王暖暖庭审后透露庭审细节",
+        "onboard_time": 1758864263,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150842,
+        "num": 150842,
+        "word": "黄薇 尚公主妆造",
+        "onboard_time": 1758868282,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 140325,
+        "word": "王鹤棣又一人生镜头",
+        "onboard_time": 1758868821,
+        "rank": 30,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 138059,
+        "word": "上海老洋房从1.5亿降至8299万仍流拍",
+        "onboard_time": 1758866241,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137544,
+        "num": 137544,
+        "word": "乌萨奇 你是汉族吗",
+        "onboard_time": 1758868760,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134639,
+        "num": 136473,
+        "word": "白鹿拿G社当站姐用",
+        "onboard_time": 1758866424,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134664,
+        "num": 136423,
+        "word": "成毅自己官宣自己的新剧",
+        "onboard_time": 1758867981,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136400,
+        "num": 136400,
+        "word": "赴山海第三十一集穿帮镜头",
+        "onboard_time": 1758868939,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134693,
+        "num": 134693,
+        "word": "最好的睡姿vs最差的睡姿",
+        "onboard_time": 1758861263,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118368,
+        "num": 118368,
+        "word": "坚持跑步一个月面部的变化",
+        "onboard_time": 1758864740,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117145,
+        "num": 117145,
+        "word": "于正说杨幂赵丽颖太优秀了",
+        "onboard_time": 1758862642,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98019,
+        "num": 117119,
+        "word": "张新成王玉雯米兰约饭",
+        "onboard_time": 1758869180,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31023,
+        "num": 117115,
+        "word": "辛芷蕾被围观尴尬比了个耶",
+        "onboard_time": 1758869301,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117113,
+        "num": 117113,
+        "word": "认为把教科书背熟了 结果考的是书皮",
+        "onboard_time": 1758868401,
+        "rank": 41,
+        "category": "健康医疗,幽默"
+      },
+      {
+        "raw_hot": 69657,
+        "num": 113015,
+        "word": "广西5岁走失男童在河中被找到",
+        "onboard_time": 1758868102,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112836,
+        "num": 112836,
+        "word": "聊八卦被拘女教师聊天记录曝光",
+        "onboard_time": 1758863781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108641,
+        "num": 108641,
+        "word": "何猷君奚梦瑶现身波士顿儿童医院",
+        "onboard_time": 1758864562,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106424,
+        "num": 106424,
+        "word": "惠英红又提名金鸡奖了",
+        "onboard_time": 1758869002,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103911,
+        "num": 103911,
+        "word": "龚俊最不想让粉丝叫的一次",
+        "onboard_time": 1758868401,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100354,
+        "num": 100354,
+        "word": "这就是父母口中不欢迎亲戚的家",
+        "onboard_time": 1758866781,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99308,
+        "num": 99308,
+        "word": "车澈已退出李嘉格名下公司",
+        "onboard_time": 1758868821,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98927,
+        "num": 98927,
+        "word": "老人抓阄分房大儿子2次没中反悔",
+        "onboard_time": 1758863063,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记新疆之行#"
+    }
+  }
+}

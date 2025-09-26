@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 14:36:18
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 14:49:37
 </p>
 </blockquote>
 <p>
@@ -1179,6 +1179,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%BC%80%E6%92%AD%23" target="weibo">
+许我耀眼开播（热度：1781479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%A4%8D%E7%83%AD%E5%B7%B4%23" target="weibo">
 杨幂回复热巴（热度：1779130）
 </a>
@@ -1301,12 +1307,6 @@ miumiu签了三个00花（热度：1748229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%9C%A6%E8%83%A7%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%B5%81%E8%A8%80%E5%BA%94%E6%AD%A2%E4%BA%8E%E7%9C%9F%E7%9B%B8%23" target="weibo">
 于朦胧坠亡事件流言应止于真相（热度：1678406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%BC%80%E6%92%AD%23" target="weibo">
-许我耀眼开播（热度：1677816）
 </a>
 </li>
 
