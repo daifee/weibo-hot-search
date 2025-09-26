@@ -1,0 +1,410 @@
+{
+  "runTime": 1758929774256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1161414,
+        "num": 1161414,
+        "word": "甘肃陇西地震",
+        "onboard_time": 1758928216,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 452324,
+        "num": 452324,
+        "word": "埃及失联中国女孩母亲发声",
+        "onboard_time": 1758898943,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11546,
+        "num": 386286,
+        "word": "国庆假期带特产上飞机要注意啥",
+        "onboard_time": 1758871222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606410,
+        "num": 364711,
+        "word": "男子胸前贴强奸犯被当街示众",
+        "onboard_time": 1758898883,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583762,
+        "num": 357950,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324079,
+        "num": 324079,
+        "word": "22岁小伙摔倒被误认留守老人",
+        "onboard_time": 1758896604,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293210,
+        "num": 293210,
+        "word": "尹锡悦坐牢两个月形象大变",
+        "onboard_time": 1758900623,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287937,
+        "num": 287937,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232775,
+        "num": 232775,
+        "word": "向往的生活彩灯去世",
+        "onboard_time": 1758898523,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207576,
+        "num": 207576,
+        "word": "法院通报警车出现在150公里外山姆",
+        "onboard_time": 1758896481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803111,
+        "num": 206154,
+        "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+        "onboard_time": 1758896183,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201702,
+        "num": 201702,
+        "word": "刘宇宁演唱会好多业内大佬",
+        "onboard_time": 1758901402,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182140,
+        "num": 182140,
+        "word": "舒淇 女孩",
+        "onboard_time": 1758921795,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171314,
+        "num": 171314,
+        "word": "以色列总理联大演讲多国代表离场",
+        "onboard_time": 1758910095,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156393,
+        "num": 156393,
+        "word": "甘肃定西40分钟连震4次",
+        "onboard_time": 1758928698,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 154796,
+        "num": 154796,
+        "word": "孕妇遭遇黑熊袭击装死逃过一劫",
+        "onboard_time": 1758901161,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142236,
+        "num": 142236,
+        "word": "中国科学家或收到平行宇宙诡异信号",
+        "onboard_time": 1758894384,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 139281,
+        "num": 139281,
+        "word": "肖战湾区升明月唱整晚的音乐",
+        "onboard_time": 1758898462,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128984,
+        "num": 128984,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 124370,
+        "num": 124370,
+        "word": "台湾是中国的一个省从不是一个国家",
+        "onboard_time": 1758896004,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101628,
+        "num": 101628,
+        "word": "张杰谢娜结婚周年照",
+        "onboard_time": 1758899363,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96589,
+        "num": 96589,
+        "word": "瘦了35斤后五官的变化",
+        "onboard_time": 1758929117,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95459,
+        "num": 95459,
+        "word": "胖的人瘦下来肉都是从硬到软的",
+        "onboard_time": 1758929058,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 89071,
+        "num": 89071,
+        "word": "资产上亿女老板疑被骗泰国最新进展",
+        "onboard_time": 1758887181,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88920,
+        "num": 88920,
+        "word": "大爷无证驾驶一年多违章279条",
+        "onboard_time": 1758904759,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82324,
+        "num": 82324,
+        "word": "有助于睡眠的四大类食物",
+        "onboard_time": 1758929299,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81221,
+        "num": 81221,
+        "word": "西安震感",
+        "onboard_time": 1758929659,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76246,
+        "num": 76246,
+        "word": "乔妍的心事0提",
+        "onboard_time": 1758896663,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76142,
+        "num": 76142,
+        "word": "华南理工",
+        "onboard_time": 1758889822,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73528,
+        "num": 73528,
+        "word": "6个身体表现提示该吃肉了",
+        "onboard_time": 1758929299,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98759,
+        "num": 73428,
+        "word": "换种主食6周就能降低全身炎症",
+        "onboard_time": 1758929238,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73213,
+        "num": 73213,
+        "word": "张继科晒马龙亲签球拍",
+        "onboard_time": 1758929238,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80562,
+        "num": 72306,
+        "word": "普京走来走去其实在等卢卡申科",
+        "onboard_time": 1758928877,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61919,
+        "num": 69020,
+        "word": "刘宇宁衣服很贵多穿一会",
+        "onboard_time": 1758898342,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68835,
+        "num": 68835,
+        "word": "全球第一网红视频栏目连续3年亏损",
+        "onboard_time": 1758923715,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67734,
+        "num": 67734,
+        "word": "媒体评男子曝妻子出轨博士",
+        "onboard_time": 1758908057,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63117,
+        "num": 63117,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55517,
+        "num": 55517,
+        "word": "赴山海编剧",
+        "onboard_time": 1758894863,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52467,
+        "num": 52467,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51284,
+        "num": 51284,
+        "word": "肖战大湾区晚会节目自带乐队",
+        "onboard_time": 1758929117,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50846,
+        "num": 50846,
+        "word": "当地回应被撞飞坠桥轿车伤亡不明",
+        "onboard_time": 1758929299,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48735,
+        "num": 48735,
+        "word": "彭昱畅在向往被夸成翘嘴",
+        "onboard_time": 1758910396,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45003,
+        "num": 48735,
+        "word": "萧秋水李沉舟肖明明都下线了",
+        "onboard_time": 1758905659,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44946,
+        "num": 48735,
+        "word": "辛芷蕾这一身王菲来了都得愣两秒",
+        "onboard_time": 1758878900,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43933,
+        "num": 48734,
+        "word": "赵今麦丁程鑫或合作许我向你看",
+        "onboard_time": 1758910696,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43484,
+        "num": 48734,
+        "word": "女生和朋友捡秋意外捡到红豆",
+        "onboard_time": 1758901880,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40146,
+        "num": 48734,
+        "word": "出逃雪豹野性已大部分消散",
+        "onboard_time": 1758920174,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39761,
+        "num": 48734,
+        "word": "曝iPhone17国内首周激活销量",
+        "onboard_time": 1758883221,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39213,
+        "num": 48734,
+        "word": "舒淇获奖感谢冯德伦",
+        "onboard_time": 1758896423,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38981,
+        "num": 48734,
+        "word": "美一男子勒毙华人妻子受害者父亲发声",
+        "onboard_time": 1758929598,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把祖国的新疆建设得越来越美好#"
+    }
+  }
+}

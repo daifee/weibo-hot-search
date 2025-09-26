@@ -1,7 +1,15 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758928947686,
+  "endTime": 1758929774256,
   "band_list": [
+    {
+      "raw_hot": 1161414,
+      "num": 1161414,
+      "word": "甘肃陇西地震",
+      "onboard_time": 1758928216,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 1035595,
       "num": 420947,
@@ -17,14 +25,6 @@
       "onboard_time": 1758896183,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 810803,
-      "num": 831134,
-      "word": "甘肃陇西地震",
-      "onboard_time": 1758928216,
-      "rank": 0,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 754707,
@@ -49,6 +49,14 @@
       "onboard_time": 1758900623,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 452324,
+      "num": 464541,
+      "word": "埃及失联中国女孩母亲发声",
+      "onboard_time": 1758898943,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434620,
@@ -81,14 +89,6 @@
       "onboard_time": 1758896663,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 386579,
-      "num": 464541,
-      "word": "埃及失联中国女孩母亲发声",
-      "onboard_time": 1758898943,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360712,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207576,
+      "num": 207576,
+      "word": "法院通报警车出现在150公里外山姆",
+      "onboard_time": 1758896481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190092,
       "num": 190092,
       "word": "甘肃陇西县5.6级地震",
@@ -155,12 +163,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 169262,
-      "num": 169262,
+      "raw_hot": 182140,
+      "num": 182140,
       "word": "舒淇 女孩",
       "onboard_time": 1758921795,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171314,
+      "num": 171314,
+      "word": "以色列总理联大演讲多国代表离场",
+      "onboard_time": 1758910095,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166209,
@@ -171,12 +187,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154786,
-      "num": 154786,
-      "word": "法院通报警车出现在150公里外山姆",
-      "onboard_time": 1758896481,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 156393,
+      "num": 156393,
+      "word": "甘肃定西40分钟连震4次",
+      "onboard_time": 1758928698,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 148613,
@@ -201,14 +217,6 @@
       "onboard_time": 1758896542,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140615,
-      "num": 140615,
-      "word": "以色列总理联大演讲多国代表离场",
-      "onboard_time": 1758910095,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 134920,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98759,
+      "num": 73428,
+      "word": "换种主食6周就能降低全身炎症",
+      "onboard_time": 1758929238,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97766,
       "num": 97766,
       "word": "张杰谢娜结婚十四周年",
@@ -273,6 +289,22 @@
       "onboard_time": 1758901642,
       "rank": 37,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 96589,
+      "num": 96589,
+      "word": "瘦了35斤后五官的变化",
+      "onboard_time": 1758929117,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 95459,
+      "num": 95459,
+      "word": "胖的人瘦下来肉都是从硬到软的",
+      "onboard_time": 1758929058,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94224,
@@ -315,12 +347,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80878,
-      "num": 86606,
+      "raw_hot": 89071,
+      "num": 89071,
       "word": "资产上亿女老板疑被骗泰国最新进展",
       "onboard_time": 1758887181,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88920,
+      "num": 88920,
+      "word": "大爷无证驾驶一年多违章279条",
+      "onboard_time": 1758904759,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82324,
+      "num": 82324,
+      "word": "有助于睡眠的四大类食物",
+      "onboard_time": 1758929299,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81221,
+      "num": 81221,
+      "word": "西安震感",
+      "onboard_time": 1758929659,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80562,
+      "num": 72306,
+      "word": "普京走来走去其实在等卢卡申科",
+      "onboard_time": 1758928877,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75953,
@@ -331,20 +395,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75843,
-      "num": 75843,
-      "word": "大爷无证驾驶一年多违章279条",
-      "onboard_time": 1758904759,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74890,
       "num": 86601,
       "word": "赴山海编剧",
       "onboard_time": 1758894863,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73528,
+      "num": 73528,
+      "word": "6个身体表现提示该吃肉了",
+      "onboard_time": 1758929299,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73213,
+      "num": 73213,
+      "word": "张继科晒马龙亲签球拍",
+      "onboard_time": 1758929238,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 72722,
@@ -363,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68835,
+      "num": 68835,
+      "word": "全球第一网红视频栏目连续3年亏损",
+      "onboard_time": 1758923715,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68666,
       "num": 73385,
       "word": "金靖开团周柯宇张凌赫秒跟",
@@ -371,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67734,
+      "num": 69082,
+      "word": "媒体评男子曝妻子出轨博士",
+      "onboard_time": 1758908057,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65132,
       "num": 86462,
       "word": "TFBOYS怎么都变回小时候了",
       "onboard_time": 1758884360,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64110,
-      "num": 53555,
-      "word": "普京走来走去其实在等卢卡申科",
-      "onboard_time": 1758928877,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64046,
@@ -403,14 +483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 62846,
-      "num": 62846,
-      "word": "全球第一网红视频栏目连续3年亏损",
-      "onboard_time": 1758923715,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 61486,
       "num": 73371,
       "word": "苏菲玛索高圆圆十年再同框",
@@ -425,22 +497,6 @@
       "onboard_time": 1758900322,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 58648,
-      "num": 69082,
-      "word": "媒体评男子曝妻子出轨博士",
-      "onboard_time": 1758908057,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57124,
-      "num": 57124,
-      "word": "甘肃定西40分钟连震4次",
-      "onboard_time": 1758928698,
-      "rank": 25,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 55130,
@@ -459,12 +515,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52467,
+      "num": 52467,
+      "word": "西贝回应一碗汤换顾客北京一套房",
+      "onboard_time": 1758929659,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51498,
       "num": 69091,
       "word": "萧秋水李沉舟肖明明都下线了",
       "onboard_time": 1758905659,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51284,
+      "num": 51284,
+      "word": "肖战大湾区晚会节目自带乐队",
+      "onboard_time": 1758929117,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 50846,
+      "num": 50846,
+      "word": "当地回应被撞飞坠桥轿车伤亡不明",
+      "onboard_time": 1758929299,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47231,
@@ -515,12 +595,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39255,
+      "raw_hot": 40146,
+      "num": 52924,
+      "word": "出逃雪豹野性已大部分消散",
+      "onboard_time": 1758920174,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39761,
       "num": 69093,
       "word": "曝iPhone17国内首周激活销量",
       "onboard_time": 1758883221,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38981,
+      "num": 48734,
+      "word": "美一男子勒毙华人妻子受害者父亲发声",
+      "onboard_time": 1758929598,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37175,
@@ -545,14 +641,6 @@
       "onboard_time": 1758907038,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32713,
-      "num": 52924,
-      "word": "出逃雪豹野性已大部分消散",
-      "onboard_time": 1758920174,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30613,
