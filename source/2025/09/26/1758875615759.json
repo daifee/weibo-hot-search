@@ -1,0 +1,410 @@
+{
+  "runTime": 1758875615759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1158043,
+        "num": 1185287,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685659,
+        "num": 685659,
+        "word": "上海老洋房从1.5亿降至8299万仍流拍",
+        "onboard_time": 1758866241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11428,
+        "num": 647999,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758860361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 725113,
+        "num": 645127,
+        "word": "沈佳润闷声干大事",
+        "onboard_time": 1758869422,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 636214,
+        "num": 636214,
+        "word": "五字哥哥和四字弟弟合影了",
+        "onboard_time": 1758866661,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 455129,
+        "num": 455129,
+        "word": "济南通报中学教师体罚学生调查结果",
+        "onboard_time": 1758870740,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 453943,
+        "num": 453943,
+        "word": "金鸡奖提名",
+        "onboard_time": 1758856881,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426993,
+        "num": 426993,
+        "word": "刘宇被越南明星抄袭",
+        "onboard_time": 1758871521,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414620,
+        "num": 414620,
+        "word": "乌萨奇 你是汉族吗",
+        "onboard_time": 1758868760,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 395282,
+        "num": 395282,
+        "word": "向往的生活开播海报",
+        "onboard_time": 1758871521,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 967210,
+        "num": 392737,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603549,
+        "num": 388165,
+        "word": "金鸡提名爆冷",
+        "onboard_time": 1758864501,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453456,
+        "num": 385851,
+        "word": "男子曝妻子出轨博士受害者还有孩子",
+        "onboard_time": 1758862823,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414832,
+        "num": 382584,
+        "word": "日本老人冰柜藏女儿尸体20年",
+        "onboard_time": 1758862162,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 380480,
+        "num": 380480,
+        "word": "王暖暖称不离婚孩子还要赡养对方",
+        "onboard_time": 1758869781,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294859,
+        "num": 294859,
+        "word": "赴山海第三十一集穿帮镜头",
+        "onboard_time": 1758868939,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265827,
+        "num": 265827,
+        "word": "理想发布会",
+        "onboard_time": 1758873201,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 264043,
+        "num": 264043,
+        "word": "段奥娟曾回应电影首秀被提名",
+        "onboard_time": 1758868939,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213668,
+        "num": 213668,
+        "word": "理想i6",
+        "onboard_time": 1758875000,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85416,
+        "num": 202243,
+        "word": "2亿像素是噱头还是真有用",
+        "onboard_time": 1758872662,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198704,
+        "num": 198704,
+        "word": "狗狗被台风吹走挂电线上身亡",
+        "onboard_time": 1758873021,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190997,
+        "num": 190997,
+        "word": "00后的装修到底有多离谱",
+        "onboard_time": 1758875180,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64734,
+        "num": 190211,
+        "word": "易烊千玺短片氛围感",
+        "onboard_time": 1758874401,
+        "rank": 22,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 190028,
+        "num": 190028,
+        "word": "白鹿与科比大女儿同框看秀",
+        "onboard_time": 1758860963,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 188157,
+        "num": 188157,
+        "word": "南京照相馆角逐奥斯卡",
+        "onboard_time": 1758874701,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182236,
+        "num": 182236,
+        "word": "许佳琪回应脸变了",
+        "onboard_time": 1758872361,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30117,
+        "num": 180098,
+        "word": "问界M9车主黄渤用车一年坦白局",
+        "onboard_time": 1758873920,
+        "rank": 26,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 179953,
+        "num": 179953,
+        "word": "张天爱 我真有服装店",
+        "onboard_time": 1758874282,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67195,
+        "num": 176277,
+        "word": "小米汽车首家定制中心开业",
+        "onboard_time": 1758872781,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90912,
+        "num": 174345,
+        "word": "高糖主食黑名单",
+        "onboard_time": 1758873740,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173820,
+        "num": 173820,
+        "word": "WTT",
+        "onboard_time": 1758873981,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167881,
+        "num": 167881,
+        "word": "孙俪唯有吃可以缓解我的焦虑",
+        "onboard_time": 1758874882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34114,
+        "num": 162999,
+        "word": "当地回应男子雪山滑坠身亡",
+        "onboard_time": 1758875480,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22968,
+        "num": 160645,
+        "word": "未成年人网络保护",
+        "onboard_time": 1758859581,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159985,
+        "num": 159985,
+        "word": "美国男子追杀恋童癖老人",
+        "onboard_time": 1758874941,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159294,
+        "num": 159294,
+        "word": "怎么样才知道自己睡饱了",
+        "onboard_time": 1758871641,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153774,
+        "num": 153774,
+        "word": "于谦评价战鹰被选虎扑最美女神",
+        "onboard_time": 1758874282,
+        "rank": 36,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 150195,
+        "num": 150195,
+        "word": "邢菲 红气养人",
+        "onboard_time": 1758872242,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148294,
+        "num": 148294,
+        "word": "向阳花0提金鸡奖",
+        "onboard_time": 1758874941,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88882,
+        "num": 147077,
+        "word": "李晟吃中药后变e了",
+        "onboard_time": 1758875000,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146846,
+        "num": 146846,
+        "word": "肖战一出来现场瞬间爆鸣",
+        "onboard_time": 1758860062,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105294,
+        "num": 146212,
+        "word": "中网中国男单全部出局",
+        "onboard_time": 1758875121,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145695,
+        "num": 145695,
+        "word": "WTT抽签",
+        "onboard_time": 1758875539,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142479,
+        "num": 142479,
+        "word": "日本人抨击外网侵华罪行视频",
+        "onboard_time": 1758865941,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138670,
+        "num": 138670,
+        "word": "迪丽热巴这个视角好美",
+        "onboard_time": 1758874520,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136358,
+        "num": 136358,
+        "word": "段奥娟电影还没上映就提名影后",
+        "onboard_time": 1758874341,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135007,
+        "num": 135007,
+        "word": "南京照相馆",
+        "onboard_time": 1758874221,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135009,
+        "num": 134549,
+        "word": "鞠婧祎扛住了G社镜头",
+        "onboard_time": 1758858261,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133173,
+        "num": 133173,
+        "word": "内娱又有新的种地节目了",
+        "onboard_time": 1758875480,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132915,
+        "num": 132915,
+        "word": "李承铉让披哥集体红眼病犯了",
+        "onboard_time": 1758874341,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记新疆之行#"
+    }
+  }
+}
