@@ -1,0 +1,410 @@
+{
+  "runTime": 1758876364150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251320,
+        "num": 1251320,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671299,
+        "num": 671299,
+        "word": "上海老洋房从1.5亿降至8299万仍流拍",
+        "onboard_time": 1758866241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25233,
+        "num": 662573,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758860361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 684548,
+        "num": 661322,
+        "word": "沈佳润闷声干大事",
+        "onboard_time": 1758869422,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 654227,
+        "num": 654227,
+        "word": "五字哥哥和四字弟弟合影了",
+        "onboard_time": 1758866661,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 447379,
+        "num": 447379,
+        "word": "王暖暖称不离婚孩子还要赡养对方",
+        "onboard_time": 1758869781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430855,
+        "num": 430855,
+        "word": "济南通报中学教师体罚学生调查结果",
+        "onboard_time": 1758870740,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 425409,
+        "num": 425409,
+        "word": "金鸡奖提名",
+        "onboard_time": 1758856881,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 421729,
+        "num": 421729,
+        "word": "向往的生活开播海报",
+        "onboard_time": 1758871521,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421722,
+        "num": 421722,
+        "word": "刘宇被越南明星抄袭",
+        "onboard_time": 1758871521,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 929201,
+        "num": 417483,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 612168,
+        "num": 413403,
+        "word": "金鸡提名爆冷",
+        "onboard_time": 1758864501,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 403851,
+        "num": 403851,
+        "word": "日本老人冰柜藏女儿尸体20年",
+        "onboard_time": 1758862162,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 393992,
+        "num": 393992,
+        "word": "男子曝妻子出轨博士受害者还有孩子",
+        "onboard_time": 1758862823,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382605,
+        "num": 382605,
+        "word": "WTT抽签",
+        "onboard_time": 1758875539,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339516,
+        "num": 339516,
+        "word": "乌萨奇 你是汉族吗",
+        "onboard_time": 1758868760,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 206102,
+        "num": 337209,
+        "word": "南京照相馆角逐奥斯卡",
+        "onboard_time": 1758874701,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129270,
+        "num": 322087,
+        "word": "李想揭晓鲨鱼版理想i6",
+        "onboard_time": 1758875901,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74550,
+        "num": 320349,
+        "word": "2亿像素是噱头还是真有用",
+        "onboard_time": 1758872662,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51361,
+        "num": 311508,
+        "word": "当地回应男子雪山滑坠身亡",
+        "onboard_time": 1758875480,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72615,
+        "num": 295610,
+        "word": "易烊千玺短片氛围感",
+        "onboard_time": 1758874401,
+        "rank": 20,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 294098,
+        "num": 294098,
+        "word": "理想i6",
+        "onboard_time": 1758875000,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 281348,
+        "num": 281348,
+        "word": "赴山海第三十一集穿帮镜头",
+        "onboard_time": 1758868939,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255310,
+        "num": 255310,
+        "word": "WTT",
+        "onboard_time": 1758873981,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196678,
+        "num": 254588,
+        "word": "段奥娟曾回应电影首秀被提名",
+        "onboard_time": 1758868939,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189012,
+        "num": 250307,
+        "word": "许佳琪回应脸变了",
+        "onboard_time": 1758872361,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172272,
+        "num": 245393,
+        "word": "内娱又有新的种地节目了",
+        "onboard_time": 1758875480,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142639,
+        "num": 238574,
+        "word": "高糖主食黑名单",
+        "onboard_time": 1758873740,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37605,
+        "num": 231876,
+        "word": "小米汽车首家定制中心开业",
+        "onboard_time": 1758872781,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36294,
+        "num": 226856,
+        "word": "问界M9车主黄渤用车一年坦白局",
+        "onboard_time": 1758873920,
+        "rank": 29,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 226538,
+        "num": 226538,
+        "word": "理想发布会",
+        "onboard_time": 1758873201,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205721,
+        "num": 205721,
+        "word": "狗狗被台风吹走挂电线上身亡",
+        "onboard_time": 1758873021,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201686,
+        "num": 201686,
+        "word": "00后的装修到底有多离谱",
+        "onboard_time": 1758875180,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196881,
+        "num": 196881,
+        "word": "美国男子追杀恋童癖老人",
+        "onboard_time": 1758874941,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181767,
+        "num": 181767,
+        "word": "白鹿与科比大女儿同框看秀",
+        "onboard_time": 1758860963,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 157405,
+        "num": 157405,
+        "word": "鞠婧祎扛住了G社镜头",
+        "onboard_time": 1758858261,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157167,
+        "num": 157167,
+        "word": "孙俪唯有吃可以缓解我的焦虑",
+        "onboard_time": 1758874882,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147230,
+        "num": 147230,
+        "word": "怎么样才知道自己睡饱了",
+        "onboard_time": 1758871641,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146391,
+        "num": 146391,
+        "word": "张天爱 我真有服装店",
+        "onboard_time": 1758874282,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142366,
+        "num": 142366,
+        "word": "邢菲 红气养人",
+        "onboard_time": 1758872242,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132611,
+        "num": 132611,
+        "word": "酱园弄0提",
+        "onboard_time": 1758864501,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131004,
+        "num": 131004,
+        "word": "迪丽热巴这个视角好美",
+        "onboard_time": 1758874520,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130174,
+        "num": 130174,
+        "word": "肖战一出来现场瞬间爆鸣",
+        "onboard_time": 1758860062,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129799,
+        "num": 129799,
+        "word": "苏醒张远红眼病犯了",
+        "onboard_time": 1758875781,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129728,
+        "num": 129728,
+        "word": "向阳花0提金鸡奖",
+        "onboard_time": 1758874941,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129630,
+        "num": 129630,
+        "word": "日本人抨击外网侵华罪行视频",
+        "onboard_time": 1758865941,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117788,
+        "num": 117788,
+        "word": "段奥娟电影还没上映就提名影后",
+        "onboard_time": 1758874341,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118973,
+        "num": 117516,
+        "word": "有肖战谁还玩手机",
+        "onboard_time": 1758876021,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117193,
+        "num": 117193,
+        "word": "国庆中秋长假的意义",
+        "onboard_time": 1758876201,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110661,
+        "num": 110661,
+        "word": "吴艳妮与教练合照",
+        "onboard_time": 1758876140,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记新疆之行#"
+    }
+  }
+}

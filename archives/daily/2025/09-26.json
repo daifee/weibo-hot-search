@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758875615759,
+  "endTime": 1758876364150,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1836104,
-      "num": 382584,
+      "num": 403851,
       "word": "日本老人冰柜藏女儿尸体20年",
       "onboard_time": 1758862162,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1781479,
-      "num": 392737,
+      "num": 417483,
       "word": "许我耀眼开播",
       "onboard_time": 1758867082,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1639920,
-      "num": 388165,
+      "num": 413403,
       "word": "金鸡提名爆冷",
       "onboard_time": 1758864501,
       "rank": 11,
@@ -83,8 +83,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1158043,
-      "num": 1185287,
+      "raw_hot": 1251320,
+      "num": 1251320,
       "word": "健康码行程码记得解绑",
       "onboard_time": 1758865460,
       "rank": 23,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 725113,
-      "num": 645127,
+      "num": 661322,
       "word": "沈佳润闷声干大事",
       "onboard_time": 1758869422,
       "rank": 3,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 683992,
-      "num": 385851,
+      "num": 393992,
       "word": "男子曝妻子出轨博士受害者还有孩子",
       "onboard_time": 1758862823,
       "rank": 27,
@@ -203,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 654227,
+      "num": 654227,
+      "word": "五字哥哥和四字弟弟合影了",
+      "onboard_time": 1758866661,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 640640,
       "num": 376772,
       "word": "鞠婧祎扛住了G社镜头",
       "onboard_time": 1758858261,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 636214,
-      "num": 636214,
-      "word": "五字哥哥和四字弟弟合影了",
-      "onboard_time": 1758866661,
-      "rank": 15,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 530392,
@@ -267,6 +267,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 447379,
+      "num": 447379,
+      "word": "王暖暖称不离婚孩子还要赡养对方",
+      "onboard_time": 1758869781,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428342,
       "num": 428342,
       "word": "做完你的 做你的",
@@ -289,6 +297,14 @@
       "onboard_time": 1758857901,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421729,
+      "num": 421729,
+      "word": "向往的生活开播海报",
+      "onboard_time": 1758871521,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 416346,
@@ -323,14 +339,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 395282,
-      "num": 395282,
-      "word": "向往的生活开播海报",
-      "onboard_time": 1758871521,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 391241,
       "num": 391241,
       "word": "王暖暖提着两大袋证据开庭",
@@ -339,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380480,
-      "num": 380480,
-      "word": "王暖暖称不离婚孩子还要赡养对方",
-      "onboard_time": 1758869781,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 382605,
+      "num": 382605,
+      "word": "WTT抽签",
+      "onboard_time": 1758875539,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 378650,
@@ -475,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294098,
+      "num": 294098,
+      "word": "理想i6",
+      "onboard_time": 1758875000,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 291199,
       "num": 291199,
       "word": "光与夜之恋",
@@ -553,6 +569,14 @@
       "onboard_time": 1758810624,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 255310,
+      "num": 255310,
+      "word": "WTT",
+      "onboard_time": 1758873981,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 253950,
@@ -659,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213668,
-      "num": 213668,
-      "word": "理想i6",
-      "onboard_time": 1758875000,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 212827,
       "num": 212827,
       "word": "易烊千玺理想汽车品牌代言人",
@@ -689,6 +705,22 @@
       "onboard_time": 1758803781,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206102,
+      "num": 337209,
+      "word": "南京照相馆角逐奥斯卡",
+      "onboard_time": 1758874701,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 205721,
+      "num": 205721,
+      "word": "狗狗被台风吹走挂电线上身亡",
+      "onboard_time": 1758873021,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 204076,
@@ -715,6 +747,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 201686,
+      "num": 201686,
+      "word": "00后的装修到底有多离谱",
+      "onboard_time": 1758875180,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201343,
       "num": 143069,
       "word": "杨紫家业热度",
@@ -729,14 +769,6 @@
       "onboard_time": 1758871281,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198704,
-      "num": 198704,
-      "word": "狗狗被台风吹走挂电线上身亡",
-      "onboard_time": 1758873021,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 198298,
@@ -761,6 +793,14 @@
       "onboard_time": 1758861263,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196881,
+      "num": 196881,
+      "word": "美国男子追杀恋童癖老人",
+      "onboard_time": 1758874941,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196520,
@@ -803,14 +843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 190997,
-      "num": 190997,
-      "word": "00后的装修到底有多离谱",
-      "onboard_time": 1758875180,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190634,
       "num": 168866,
       "word": "曝Jiejie已离开FPX",
@@ -827,12 +859,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188157,
-      "num": 188157,
-      "word": "南京照相馆角逐奥斯卡",
-      "onboard_time": 1758874701,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 189012,
+      "num": 250307,
+      "word": "许佳琪回应脸变了",
+      "onboard_time": 1758872361,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 188063,
@@ -881,14 +913,6 @@
       "onboard_time": 1758803781,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182236,
-      "num": 182236,
-      "word": "许佳琪回应脸变了",
-      "onboard_time": 1758872361,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 181043,
@@ -955,20 +979,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173820,
-      "num": 173820,
-      "word": "WTT",
-      "onboard_time": 1758873981,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173759,
       "num": 173759,
       "word": "王暖暖曝男方拖延离婚套路",
       "onboard_time": 1758817939,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172272,
+      "num": 245393,
+      "word": "内娱又有新的种地节目了",
+      "onboard_time": 1758875480,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 169364,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1758855020,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159985,
-      "num": 159985,
-      "word": "美国男子追杀恋童癖老人",
-      "onboard_time": 1758874941,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 159467,
@@ -1195,14 +1211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145695,
-      "num": 145695,
-      "word": "WTT抽签",
-      "onboard_time": 1758875539,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144512,
       "num": 144512,
       "word": "国乒一天2枚金牌",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1758863603,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142639,
+      "num": 238574,
+      "word": "高糖主食黑名单",
+      "onboard_time": 1758873740,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141116,
@@ -1331,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133173,
-      "num": 133173,
-      "word": "内娱又有新的种地节目了",
-      "onboard_time": 1758875480,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132915,
       "num": 132915,
       "word": "李承铉让披哥集体红眼病犯了",
@@ -1369,6 +1377,22 @@
       "onboard_time": 1758857781,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129799,
+      "num": 129799,
+      "word": "苏醒张远红眼病犯了",
+      "onboard_time": 1758875781,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129270,
+      "num": 322087,
+      "word": "李想揭晓鲨鱼版理想i6",
+      "onboard_time": 1758875901,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 128151,
@@ -1467,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118973,
+      "num": 117516,
+      "word": "有肖战谁还玩手机",
+      "onboard_time": 1758876021,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118344,
       "num": 275797,
       "word": "上海绿捷被立案又中标学校食堂",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1758858381,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117193,
+      "num": 117193,
+      "word": "国庆中秋长假的意义",
+      "onboard_time": 1758876201,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116960,
@@ -1561,6 +1601,14 @@
       "onboard_time": 1758871222,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110661,
+      "num": 110661,
+      "word": "吴艳妮与教练合照",
+      "onboard_time": 1758876140,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110590,
@@ -1787,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90912,
-      "num": 174345,
-      "word": "高糖主食黑名单",
-      "onboard_time": 1758873740,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 90845,
       "num": 132188,
       "word": "姐姐当家2拟邀嘉宾",
@@ -1908,7 +1948,7 @@
     },
     {
       "raw_hot": 85416,
-      "num": 202243,
+      "num": 320349,
       "word": "2亿像素是噱头还是真有用",
       "onboard_time": 1758872662,
       "rank": 19,
@@ -2043,6 +2083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72615,
+      "num": 295610,
+      "word": "易烊千玺短片氛围感",
+      "onboard_time": 1758874401,
+      "rank": 22,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 72537,
       "num": 85910,
       "word": "王暖暖给年轻女孩的婚姻建议",
@@ -2084,7 +2132,7 @@
     },
     {
       "raw_hot": 67195,
-      "num": 176277,
+      "num": 231876,
       "word": "小米汽车首家定制中心开业",
       "onboard_time": 1758872781,
       "rank": 28,
@@ -2097,14 +2145,6 @@
       "onboard_time": 1758809723,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 64734,
-      "num": 190211,
-      "word": "易烊千玺短片氛围感",
-      "onboard_time": 1758874401,
-      "rank": 22,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 64562,
@@ -2203,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51361,
+      "num": 311508,
+      "word": "当地回应男子雪山滑坠身亡",
+      "onboard_time": 1758875480,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48271,
       "num": 56275,
       "word": "赴山海",
@@ -2283,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36294,
+      "num": 226856,
+      "word": "问界M9车主黄渤用车一年坦白局",
+      "onboard_time": 1758873920,
+      "rank": 26,
+      "category": "汽车,艺人"
+    },
+    {
       "raw_hot": 35938,
       "num": 57848,
       "word": "JackeyLove要把S赛冠军留在中国",
@@ -2305,14 +2361,6 @@
       "onboard_time": 1758802761,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 34114,
-      "num": 162999,
-      "word": "当地回应男子雪山滑坠身亡",
-      "onboard_time": 1758875480,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33939,
@@ -2363,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30117,
-      "num": 180098,
-      "word": "问界M9车主黄渤用车一年坦白局",
-      "onboard_time": 1758873920,
-      "rank": 26,
-      "category": "汽车,艺人"
-    },
-    {
       "raw_hot": 30048,
       "num": 548375,
       "word": "未成年人网络保护",
@@ -2400,6 +2440,14 @@
       "word": "求职者需刺激老板5次才能入职",
       "onboard_time": 1758864921,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25233,
+      "num": 662573,
+      "word": "石榴红了满天山",
+      "onboard_time": 1758860361,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -2472,14 +2520,6 @@
       "word": "鸡排哥回应主理人称呼",
       "onboard_time": 1758832933,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14255,
-      "num": 647999,
-      "word": "石榴红了满天山",
-      "onboard_time": 1758860361,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
