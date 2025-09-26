@@ -1,0 +1,410 @@
+{
+  "runTime": 1758879627898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1101129,
+        "num": 1176180,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621524,
+        "num": 621524,
+        "word": "WTT抽签",
+        "onboard_time": 1758875539,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36478,
+        "num": 592204,
+        "word": "石榴红了满天山",
+        "onboard_time": 1758860361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 566498,
+        "num": 566498,
+        "word": "中方向日方已提出严正交涉",
+        "onboard_time": 1758877099,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530443,
+        "num": 530443,
+        "word": "王暖暖称不离婚孩子还要赡养对方",
+        "onboard_time": 1758869781,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552966,
+        "num": 517463,
+        "word": "许佳琪回应脸变了",
+        "onboard_time": 1758872361,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480338,
+        "num": 480338,
+        "word": "五字哥哥和四字弟弟合影了",
+        "onboard_time": 1758866661,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 456241,
+        "num": 456241,
+        "word": "南京照相馆角逐奥斯卡",
+        "onboard_time": 1758874701,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427902,
+        "num": 427902,
+        "word": "上海老洋房从1.5亿降至8299万仍流拍",
+        "onboard_time": 1758866241,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411533,
+        "num": 411533,
+        "word": "沈佳润闷声干大事",
+        "onboard_time": 1758869422,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 985651,
+        "num": 374976,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 699340,
+        "num": 351338,
+        "word": "金鸡提名爆冷",
+        "onboard_time": 1758864501,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313223,
+        "num": 313223,
+        "word": "日本老人冰柜藏女儿尸体20年",
+        "onboard_time": 1758862162,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300811,
+        "num": 300811,
+        "word": "刘宇被越南明星抄袭",
+        "onboard_time": 1758871521,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250197,
+        "num": 250197,
+        "word": "辛芷蕾这一身王菲来了都得愣两秒",
+        "onboard_time": 1758878900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243468,
+        "num": 243468,
+        "word": "向往的生活开播海报",
+        "onboard_time": 1758871521,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46122,
+        "num": 241306,
+        "word": "李想揭晓鲨鱼版理想i6",
+        "onboard_time": 1758875901,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240370,
+        "num": 240370,
+        "word": "赴山海第三十一集穿帮镜头",
+        "onboard_time": 1758868939,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45294,
+        "num": 224784,
+        "word": "沃尔沃XC70混得超好",
+        "onboard_time": 1758877580,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214566,
+        "num": 214566,
+        "word": "美国男子追杀恋童癖老人",
+        "onboard_time": 1758874941,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265607,
+        "num": 213083,
+        "word": "手洗内裤vs洗衣机洗内裤",
+        "onboard_time": 1758877821,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232615,
+        "num": 208859,
+        "word": "高糖主食黑名单",
+        "onboard_time": 1758873740,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225915,
+        "num": 208610,
+        "word": "是郑晓龙的剧这把稳了",
+        "onboard_time": 1758878540,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203759,
+        "num": 203759,
+        "word": "济南通报中学教师体罚学生调查结果",
+        "onboard_time": 1758870740,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 185817,
+        "num": 185817,
+        "word": "好利来门店回应月饼27元一块",
+        "onboard_time": 1758878481,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171632,
+        "num": 171632,
+        "word": "男方妈妈称该坐牢的是王暖暖",
+        "onboard_time": 1758876501,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167051,
+        "num": 167051,
+        "word": "理想i6",
+        "onboard_time": 1758875000,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166875,
+        "num": 166875,
+        "word": "白鹿与科比大女儿同框看秀",
+        "onboard_time": 1758860963,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 48257,
+        "num": 151400,
+        "word": "为什么理想i6这么好开",
+        "onboard_time": 1758877521,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150368,
+        "num": 150368,
+        "word": "战至巅峰赛制",
+        "onboard_time": 1758877700,
+        "rank": 29,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 182018,
+        "num": 149682,
+        "word": "王楚钦问谁设计的抽签仪式",
+        "onboard_time": 1758879141,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162171,
+        "num": 149670,
+        "word": "狗狗被台风吹走挂电线上身亡",
+        "onboard_time": 1758873021,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148858,
+        "num": 148858,
+        "word": "WTT北满女单完整签表",
+        "onboard_time": 1758878960,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136456,
+        "num": 136456,
+        "word": "让我眼前一亮又一亮的玩具",
+        "onboard_time": 1758879020,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134384,
+        "num": 134384,
+        "word": "汪苏泷巡演福州站",
+        "onboard_time": 1758878540,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131501,
+        "num": 131501,
+        "word": "鞠婧祎扛住了G社镜头",
+        "onboard_time": 1758858261,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129576,
+        "num": 129576,
+        "word": "向往的生活",
+        "onboard_time": 1758877400,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129070,
+        "num": 129070,
+        "word": "王暖暖丈夫上段婚姻在狱中相亲并订婚",
+        "onboard_time": 1758879080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126173,
+        "num": 126173,
+        "word": "有肖战谁还玩手机",
+        "onboard_time": 1758876021,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125243,
+        "num": 125243,
+        "word": "易烊千玺仍有望成最年轻金鸡影帝",
+        "onboard_time": 1758878059,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24650,
+        "num": 117717,
+        "word": "网传某头部CRO员工遗书曝光",
+        "onboard_time": 1758879500,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114651,
+        "num": 114651,
+        "word": "王栎鑫练3天苏新皓一节课学会",
+        "onboard_time": 1758879381,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108811,
+        "num": 108811,
+        "word": "酱园弄0提",
+        "onboard_time": 1758864501,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105101,
+        "num": 105101,
+        "word": "王楚钦雨果出席抽签仪式",
+        "onboard_time": 1758877821,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95680,
+        "num": 104784,
+        "word": "易烊千玺短片氛围感",
+        "onboard_time": 1758874401,
+        "rank": 44,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 104703,
+        "num": 104703,
+        "word": "当地回应男子雪山滑坠身亡",
+        "onboard_time": 1758875480,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103718,
+        "num": 103718,
+        "word": "我很少用震撼来形容一个地方",
+        "onboard_time": 1758878900,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 101173,
+        "num": 101173,
+        "word": "怎么样才知道自己睡饱了",
+        "onboard_time": 1758871641,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97268,
+        "num": 97268,
+        "word": "张天爱 我真有服装店",
+        "onboard_time": 1758874282,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95303,
+        "num": 95303,
+        "word": "迪丽热巴这个视角好美",
+        "onboard_time": 1758874520,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记新疆之行#"
+    }
+  }
+}
