@@ -1,0 +1,411 @@
+{
+  "startTime": 1758904268285,
+  "endTime": 1758904268285,
+  "band_list": [
+    {
+      "raw_hot": 1035595,
+      "num": 420947,
+      "word": "关晓彤发微博最烦胡说八道的人",
+      "onboard_time": 1758892581,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 838830,
+      "num": 345566,
+      "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+      "onboard_time": 1758896183,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 754707,
+      "num": 416130,
+      "word": "男子胸前贴强奸犯被当街示众",
+      "onboard_time": 1758898883,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 669631,
+      "num": 408966,
+      "word": "向往的生活彩灯去世",
+      "onboard_time": 1758898523,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 493188,
+      "num": 844535,
+      "word": "尹锡悦坐牢两个月形象大变",
+      "onboard_time": 1758900623,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 434620,
+      "num": 405918,
+      "word": "王玉雯下车门摔倒",
+      "onboard_time": 1758896423,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 426123,
+      "num": 426123,
+      "word": "22岁小伙摔倒被误认留守老人",
+      "onboard_time": 1758896604,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404069,
+      "num": 404069,
+      "word": "张杰谢娜结婚周年照",
+      "onboard_time": 1758899363,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 403878,
+      "num": 339201,
+      "word": "乔妍的心事0提",
+      "onboard_time": 1758896663,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 363171,
+      "num": 363171,
+      "word": "埃及失联中国女孩母亲发声",
+      "onboard_time": 1758898943,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360712,
+      "num": 360712,
+      "word": "台湾是中国的一个省从不是一个国家",
+      "onboard_time": 1758896004,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 316881,
+      "num": 316881,
+      "word": "许我耀眼开播",
+      "onboard_time": 1758867082,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288399,
+      "num": 288399,
+      "word": "刘宇宁演唱会好多业内大佬",
+      "onboard_time": 1758901402,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 281453,
+      "num": 281453,
+      "word": "肖战湾区升明月唱整晚的音乐",
+      "onboard_time": 1758898462,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232979,
+      "num": 232979,
+      "word": "华南理工",
+      "onboard_time": 1758889822,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166209,
+      "num": 98526,
+      "word": "刘宇宁衣服很贵多穿一会",
+      "onboard_time": 1758898342,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 156705,
+      "num": 98265,
+      "word": "汪苏泷怎么来观众席唱了",
+      "onboard_time": 1758899663,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 146223,
+      "num": 98193,
+      "word": "向往的生活开播",
+      "onboard_time": 1758896542,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133385,
+      "num": 98171,
+      "word": "段奥娟提名大爆冷",
+      "onboard_time": 1758880102,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 128883,
+      "num": 98092,
+      "word": "赵小童 我们宿舍的太牛了",
+      "onboard_time": 1758901343,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124622,
+      "num": 97936,
+      "word": "彭昱畅瘦了",
+      "onboard_time": 1758902120,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112510,
+      "num": 97826,
+      "word": "辛芷蕾这一身王菲来了都得愣两秒",
+      "onboard_time": 1758878900,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98838,
+      "num": 98838,
+      "word": "健康码行程码记得解绑",
+      "onboard_time": 1758865460,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98314,
+      "num": 98314,
+      "word": "孕妇遭遇黑熊袭击装死逃过一劫",
+      "onboard_time": 1758901161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97766,
+      "num": 97766,
+      "word": "张杰谢娜结婚十四周年",
+      "onboard_time": 1758895403,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97269,
+      "num": 97269,
+      "word": "张婧仪第二套G社生图",
+      "onboard_time": 1758899242,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 94224,
+      "num": 94224,
+      "word": "宋亚轩一点没给李飞留面子",
+      "onboard_time": 1758893903,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93267,
+      "num": 93267,
+      "word": "赴山海大结局",
+      "onboard_time": 1758884720,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91957,
+      "num": 91957,
+      "word": "战至巅峰",
+      "onboard_time": 1758900203,
+      "rank": 35,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 91917,
+      "num": 91917,
+      "word": "毕雯珺唱了慢慢",
+      "onboard_time": 1758901521,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 81161,
+      "num": 98017,
+      "word": "女生和朋友捡秋意外捡到红豆",
+      "onboard_time": 1758901880,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 75953,
+      "num": 75953,
+      "word": "张婧仪骨相",
+      "onboard_time": 1758888260,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74890,
+      "num": 74890,
+      "word": "赴山海编剧",
+      "onboard_time": 1758894863,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73389,
+      "num": 73389,
+      "word": "王安宇张天爱演了个被片名耽误的电影",
+      "onboard_time": 1758903920,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 72722,
+      "num": 97285,
+      "word": "好利来门店回应月饼27元一块",
+      "onboard_time": 1758878481,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72405,
+      "num": 92432,
+      "word": "中国科学家或收到平行宇宙诡异信号",
+      "onboard_time": 1758894384,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 71249,
+      "num": 92165,
+      "word": "孕14周女子遭黑熊袭击装死脱险",
+      "onboard_time": 1758898583,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68666,
+      "num": 73385,
+      "word": "金靖开团周柯宇张凌赫秒跟",
+      "onboard_time": 1758899782,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61510,
+      "num": 88314,
+      "word": "米兰时装周",
+      "onboard_time": 1758901642,
+      "rank": 37,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 61486,
+      "num": 73371,
+      "word": "苏菲玛索高圆圆十年再同框",
+      "onboard_time": 1758898883,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60677,
+      "num": 87526,
+      "word": "法院通报警车出现在150公里外山姆",
+      "onboard_time": 1758896481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59982,
+      "num": 80337,
+      "word": "JDG与iG将争夺四号种子",
+      "onboard_time": 1758900322,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 53005,
+      "num": 73348,
+      "word": "JDG战胜WBG",
+      "onboard_time": 1758890841,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 46928,
+      "num": 73331,
+      "word": "冰箱保鲜不好等于自制僵尸肉",
+      "onboard_time": 1758902541,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 45644,
+      "num": 97902,
+      "word": "沃尔沃XC70上市售价26.99万起",
+      "onboard_time": 1758900382,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 45327,
+      "num": 73312,
+      "word": "立起来的大熊猫和企鹅相似度99%",
+      "onboard_time": 1758902362,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43985,
+      "num": 73305,
+      "word": "资产上亿女老板疑被骗泰国最新进展",
+      "onboard_time": 1758887181,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37175,
+      "num": 76474,
+      "word": "Fendi大秀一场彩色像素大片",
+      "onboard_time": 1758899363,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 31923,
+      "num": 98534,
+      "word": "获国奖认证的保鲜科技长啥样",
+      "onboard_time": 1758900863,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 13159,
+      "num": 424831,
+      "word": "国庆假期带特产上飞机要注意啥",
+      "onboard_time": 1758871222,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#把祖国的新疆建设得越来越美好#"
+    }
+  ]
+}
