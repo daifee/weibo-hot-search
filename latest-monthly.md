@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 06:38:31
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 07:22:27
 </p>
 </blockquote>
 <p>
@@ -4779,6 +4779,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%99%87%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
+甘肃陇西地震（热度：810803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A1%AE%E8%AE%A4%E5%90%91%E6%B2%99%E7%89%B9%E6%8F%90%E4%BE%9B%E6%A0%B8%E4%BF%9D%E6%8A%A4%E4%BC%9E%23" target="weibo">
 巴基斯坦确认向沙特提供核保护伞（热度：810800）
 </a>
@@ -6005,12 +6011,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E8%BE%9F%E8%B0%A3%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%81%8B%E6%83%85%23" target="weibo">
 刘宇宁直播辟谣与经纪人恋情（热度：694328）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E8%83%8C%E7%9A%84%E6%98%AF%E8%91%A3%E7%92%87%E7%9A%84%E5%8C%85%E5%90%97%23" target="weibo">
-张维伊背的是董璇的包吗（热度：694004）
 </a>
 </li>
 

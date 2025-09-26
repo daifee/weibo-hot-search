@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758926311619,
+  "endTime": 1758928947686,
   "band_list": [
     {
       "raw_hot": 1035595,
@@ -17,6 +17,14 @@
       "onboard_time": 1758896183,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 810803,
+      "num": 831134,
+      "word": "甘肃陇西地震",
+      "onboard_time": 1758928216,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 754707,
@@ -139,12 +147,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190092,
+      "num": 190092,
+      "word": "甘肃陇西县5.6级地震",
+      "onboard_time": 1758928278,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 169262,
+      "num": 169262,
+      "word": "舒淇 女孩",
+      "onboard_time": 1758921795,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166209,
       "num": 101939,
       "word": "刘宇宁衣服很贵多穿一会",
       "onboard_time": 1758898342,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154786,
+      "num": 154786,
+      "word": "法院通报警车出现在150公里外山姆",
+      "onboard_time": 1758896481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148613,
+      "num": 148613,
+      "word": "中国科学家或收到平行宇宙诡异信号",
+      "onboard_time": 1758894384,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 146306,
@@ -161,6 +201,14 @@
       "onboard_time": 1758896542,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140615,
+      "num": 140615,
+      "word": "以色列总理联大演讲多国代表离场",
+      "onboard_time": 1758910095,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134920,
@@ -185,14 +233,6 @@
       "onboard_time": 1758878900,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101791,
-      "num": 101791,
-      "word": "以色列总理联大演讲多国代表离场",
-      "onboard_time": 1758910095,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98923,
@@ -235,14 +275,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 94705,
-      "num": 94705,
-      "word": "中国科学家或收到平行宇宙诡异信号",
-      "onboard_time": 1758894384,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 94224,
       "num": 94224,
       "word": "宋亚轩一点没给李飞留面子",
@@ -283,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76653,
-      "num": 76653,
-      "word": "舒淇 女孩",
-      "onboard_time": 1758921795,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 80878,
+      "num": 86606,
+      "word": "资产上亿女老板疑被骗泰国最新进展",
+      "onboard_time": 1758887181,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75953,
@@ -297,6 +329,14 @@
       "onboard_time": 1758888260,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75843,
+      "num": 75843,
+      "word": "大爷无证驾驶一年多违章279条",
+      "onboard_time": 1758904759,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74890,
@@ -339,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64110,
+      "num": 53555,
+      "word": "普京走来走去其实在等卢卡申科",
+      "onboard_time": 1758928877,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64046,
       "num": 86560,
       "word": "震耳欲聋",
@@ -355,20 +403,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62846,
+      "num": 62846,
+      "word": "全球第一网红视频栏目连续3年亏损",
+      "onboard_time": 1758923715,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61486,
       "num": 73371,
       "word": "苏菲玛索高圆圆十年再同框",
       "onboard_time": 1758898883,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60677,
-      "num": 87526,
-      "word": "法院通报警车出现在150公里外山姆",
-      "onboard_time": 1758896481,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59982,
@@ -379,20 +427,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58648,
+      "num": 69082,
+      "word": "媒体评男子曝妻子出轨博士",
+      "onboard_time": 1758908057,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57124,
+      "num": 57124,
+      "word": "甘肃定西40分钟连震4次",
+      "onboard_time": 1758928698,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 55130,
       "num": 55130,
       "word": "彭昱畅在向往被夸成翘嘴",
       "onboard_time": 1758910396,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53167,
-      "num": 86606,
-      "word": "资产上亿女老板疑被骗泰国最新进展",
-      "onboard_time": 1758887181,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53005,
@@ -428,7 +484,7 @@
     },
     {
       "raw_hot": 46502,
-      "num": 46502,
+      "num": 53320,
       "word": "赵今麦丁程鑫或合作许我向你看",
       "onboard_time": 1758910696,
       "rank": 20,
@@ -448,14 +504,6 @@
       "word": "立起来的大熊猫和企鹅相似度99%",
       "onboard_time": 1758902362,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43143,
-      "num": 69095,
-      "word": "大爷无证驾驶一年多违章279条",
-      "onboard_time": 1758904759,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -499,28 +547,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33046,
-      "num": 38303,
-      "word": "全球第一网红视频栏目连续3年亏损",
-      "onboard_time": 1758923715,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 31646,
-      "num": 69082,
-      "word": "媒体评男子曝妻子出轨博士",
-      "onboard_time": 1758908057,
-      "rank": 48,
+      "raw_hot": 32713,
+      "num": 52924,
+      "word": "出逃雪豹野性已大部分消散",
+      "onboard_time": 1758920174,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29862,
-      "num": 38143,
+      "raw_hot": 30613,
+      "num": 52648,
+      "word": "披荆斩棘2025舞台超会评",
+      "onboard_time": 1758910994,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30455,
+      "num": 52607,
       "word": "米兰街头的丁禹兮",
       "onboard_time": 1758914714,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27053,
+      "num": 52311,
+      "word": "以色列动用直升机向加沙平民开火",
+      "onboard_time": 1758909017,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26906,
@@ -529,14 +585,6 @@
       "onboard_time": 1758919394,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 25844,
-      "num": 38318,
-      "word": "出逃雪豹野性已大部分消散",
-      "onboard_time": 1758920174,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24635,
@@ -553,22 +601,6 @@
       "onboard_time": 1758910876,
       "rank": 41,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 23343,
-      "num": 46427,
-      "word": "披荆斩棘2025舞台超会评",
-      "onboard_time": 1758910994,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22642,
-      "num": 46409,
-      "word": "以色列动用直升机向加沙平民开火",
-      "onboard_time": 1758909017,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20598,
