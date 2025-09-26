@@ -1,0 +1,410 @@
+{
+  "runTime": 1758893591763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793219,
+        "num": 1126915,
+        "word": "养老院已删上百条热舞女院长视频",
+        "onboard_time": 1758882861,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555403,
+        "num": 555403,
+        "word": "段奥娟提名大爆冷",
+        "onboard_time": 1758880102,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9055,
+        "num": 551395,
+        "word": "新质领航山西实践",
+        "onboard_time": 1758858261,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 548920,
+        "num": 548920,
+        "word": "辛芷蕾这一身王菲来了都得愣两秒",
+        "onboard_time": 1758878900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428385,
+        "num": 428385,
+        "word": "女童被碾过致死案车主服刑十月已满",
+        "onboard_time": 1758881421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304194,
+        "num": 304194,
+        "word": "好利来门店回应月饼27元一块",
+        "onboard_time": 1758878481,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457378,
+        "num": 303132,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409112,
+        "num": 291305,
+        "word": "舒淇釜山电影节最佳导演",
+        "onboard_time": 1758887541,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276128,
+        "num": 276128,
+        "word": "资产上亿女老板疑被骗泰国最新进展",
+        "onboard_time": 1758887181,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62347,
+        "num": 275870,
+        "word": "麻生太郎在台湾问题上屡次挑衅滋事",
+        "onboard_time": 1758892521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 749202,
+        "num": 273682,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 737981,
+        "num": 272039,
+        "word": "华南理工",
+        "onboard_time": 1758889822,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423542,
+        "num": 268992,
+        "word": "TFBOYS怎么都变回小时候了",
+        "onboard_time": 1758884360,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389191,
+        "num": 267199,
+        "word": "张婧仪骨相",
+        "onboard_time": 1758888260,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361417,
+        "num": 266200,
+        "word": "徐艺洋 你们就想让我推荐黄子韬呗",
+        "onboard_time": 1758890061,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341179,
+        "num": 264783,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299116,
+        "num": 262272,
+        "word": "辛芷蕾封后后首封",
+        "onboard_time": 1758886941,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261434,
+        "num": 261434,
+        "word": "孟子义早期眉眼",
+        "onboard_time": 1758881180,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41497,
+        "num": 240967,
+        "word": "沃尔沃XC70一切刚刚好",
+        "onboard_time": 1758892823,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 31620,
+        "num": 239931,
+        "word": "15万级9风道EZ60王炸来袭",
+        "onboard_time": 1758892882,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 239361,
+        "num": 239361,
+        "word": "JDG战胜WBG",
+        "onboard_time": 1758890841,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157012,
+        "num": 215074,
+        "word": "香港高等法院驳回宗馥莉上诉申请",
+        "onboard_time": 1758892342,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242867,
+        "num": 213798,
+        "word": "众星祝贺舒淇",
+        "onboard_time": 1758892941,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210745,
+        "num": 210745,
+        "word": "金鸡提名爆冷",
+        "onboard_time": 1758864501,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193795,
+        "num": 193795,
+        "word": "妈妈的行李箱是怎么做到全国统一的",
+        "onboard_time": 1758891380,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124865,
+        "num": 180522,
+        "word": "海尔吴总在线实现网友冰箱许愿",
+        "onboard_time": 1758890242,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180057,
+        "num": 180057,
+        "word": "美国男子追杀恋童癖老人",
+        "onboard_time": 1758874941,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169979,
+        "num": 169979,
+        "word": "赴山海大结局",
+        "onboard_time": 1758884720,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176476,
+        "num": 165982,
+        "word": "阴阳师",
+        "onboard_time": 1758892882,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79145,
+        "num": 161860,
+        "word": "日本天皇裕仁是731部队始作俑者",
+        "onboard_time": 1758881421,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160839,
+        "num": 160839,
+        "word": "赴山海oe",
+        "onboard_time": 1758893181,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150302,
+        "num": 150302,
+        "word": "北大月饼",
+        "onboard_time": 1758889101,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143129,
+        "num": 143129,
+        "word": "西宁野生动物园通报雪豹出逃",
+        "onboard_time": 1758882020,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134090,
+        "num": 134090,
+        "word": "曝iPhone17国内首周激活销量",
+        "onboard_time": 1758883221,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133404,
+        "num": 133404,
+        "word": "朱珠赵磊是怎么认识的",
+        "onboard_time": 1758892401,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15379,
+        "num": 132638,
+        "word": "家庭豪华大六座该有的样子",
+        "onboard_time": 1758893542,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132592,
+        "num": 132592,
+        "word": "刘宇宁直拍",
+        "onboard_time": 1758893181,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121594,
+        "num": 121594,
+        "word": "吴磊又把车骑到了伦敦",
+        "onboard_time": 1758890720,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67785,
+        "num": 119522,
+        "word": "孙杨说死也要战死在水里",
+        "onboard_time": 1758892642,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9228,
+        "num": 119411,
+        "word": "特朗普与马斯克再联手",
+        "onboard_time": 1758893002,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119410,
+        "num": 119410,
+        "word": "官方通报女乘务员拍肩乘客称力度太大",
+        "onboard_time": 1758887541,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121570,
+        "num": 118108,
+        "word": "刘宇宁红衣",
+        "onboard_time": 1758888980,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116703,
+        "num": 116703,
+        "word": "朋友圈和相册是两个世界",
+        "onboard_time": 1758893243,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113099,
+        "num": 113099,
+        "word": "王暖暖感谢媒体保护了她的儿子",
+        "onboard_time": 1758888142,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56871,
+        "num": 112038,
+        "word": "王楚钦雨果相视一笑",
+        "onboard_time": 1758892162,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111445,
+        "num": 111445,
+        "word": "何秋亊复播",
+        "onboard_time": 1758888260,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110484,
+        "num": 110484,
+        "word": "王俊凯 对你不知道该心疼还是称赞",
+        "onboard_time": 1758885681,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109685,
+        "num": 109685,
+        "word": "易烊千玺和周政杰是大学舍友",
+        "onboard_time": 1758886880,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108944,
+        "num": 108944,
+        "word": "王欣瑜0比2张帅",
+        "onboard_time": 1758891981,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105506,
+        "num": 105506,
+        "word": "张晚意黑成包青天了",
+        "onboard_time": 1758884901,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新疆之行这些瞬间令人难忘#"
+    }
+  }
+}

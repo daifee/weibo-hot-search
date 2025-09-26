@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 21:04:36
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 21:33:11
 </p>
 </blockquote>
 <p>
@@ -4941,6 +4941,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E8%80%81%E9%99%A2%E5%B7%B2%E5%88%A0%E4%B8%8A%E7%99%BE%E6%9D%A1%E7%83%AD%E8%88%9E%E5%A5%B3%E9%99%A2%E9%95%BF%E8%A7%86%E9%A2%91%23" target="weibo">
+养老院已删上百条热舞女院长视频（热度：793219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9F%A5%E4%B8%AA%E7%A8%8E%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BB%BD%E5%B7%A5%E8%B5%84%E6%B5%81%E6%B0%B4%23" target="weibo">
 男子查个税意外发现两份工资流水（热度：792679）
 </a>
@@ -6005,12 +6011,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%23" target="weibo">
 蔡国强（热度：692267）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E7%A9%BF%E5%86%85%E8%A3%A4%E9%AA%91%E5%B9%B3%E8%A1%A1%E8%BD%A6%23" target="weibo">
-比伯穿内裤骑平衡车（热度：692201）
 </a>
 </li>
 
