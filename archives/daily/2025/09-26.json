@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758861029903,
+  "endTime": 1758861799798,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1020082,
-      "num": 348350,
+      "num": 357298,
       "word": "日本女市长与已婚男下属多次开房",
       "onboard_time": 1758848840,
       "rank": 11,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 739626,
+      "num": 391255,
+      "word": "内娱第一纯骗cp",
+      "onboard_time": 1758857901,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 661478,
       "num": 332954,
       "word": "东兴通报中学生持刀伤人后跳楼死亡",
@@ -123,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 554009,
-      "num": 354007,
-      "word": "内娱第一纯骗cp",
-      "onboard_time": 1758857901,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 640640,
+      "num": 376772,
+      "word": "鞠婧祎扛住了G社镜头",
+      "onboard_time": 1758858261,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 530392,
@@ -145,14 +153,6 @@
       "onboard_time": 1758852860,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 521435,
-      "num": 271290,
-      "word": "鞠婧祎扛住了G社镜头",
-      "onboard_time": 1758858261,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 497829,
@@ -176,6 +176,14 @@
       "word": "做完你的 做你的",
       "onboard_time": 1758824176,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425063,
+      "num": 354482,
+      "word": "杀前女友哥哥的男子发裸照威胁女方",
+      "onboard_time": 1758857901,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 376063,
-      "num": 189805,
+      "num": 201885,
       "word": "蓝战非与亲戚断绝来往",
       "onboard_time": 1758859281,
       "rank": 22,
@@ -225,6 +233,14 @@
       "onboard_time": 1758806842,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359004,
+      "num": 359004,
+      "word": "以总理为躲逮捕令绕600公里去美国",
+      "onboard_time": 1758856100,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 355898,
@@ -241,6 +257,14 @@
       "onboard_time": 1758857001,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 342141,
+      "num": 342141,
+      "word": "白鹿与科比大女儿同框看秀",
+      "onboard_time": 1758860963,
+      "rank": 49,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 337649,
@@ -267,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313917,
-      "num": 313917,
-      "word": "以总理为躲逮捕令绕600公里去美国",
-      "onboard_time": 1758856100,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 308668,
       "num": 397843,
       "word": "新建一批县中",
@@ -288,6 +304,22 @@
       "word": "盛世天下4399线下不喝桂花羹",
       "onboard_time": 1758856041,
       "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 296799,
+      "num": 296799,
+      "word": "肖战一出来现场瞬间爆鸣",
+      "onboard_time": 1758860062,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 291199,
+      "num": 291199,
+      "word": "光与夜之恋",
+      "onboard_time": 1758860542,
+      "rank": 16,
       "category": "游戏"
     },
     {
@@ -347,14 +379,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 262904,
-      "num": 262904,
-      "word": "杀前女友哥哥的男子发裸照威胁女方",
-      "onboard_time": 1758857901,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253950,
       "num": 253950,
       "word": "李现扛住了G社镜头",
@@ -379,20 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232295,
-      "num": 232295,
-      "word": "光与夜之恋",
-      "onboard_time": 1758860542,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 223495,
-      "num": 223495,
-      "word": "肖战一出来现场瞬间爆鸣",
-      "onboard_time": 1758860062,
-      "rank": 17,
-      "category": "演出"
+      "raw_hot": 226147,
+      "num": 199089,
+      "word": "易烊千玺四次提名金鸡奖",
+      "onboard_time": 1758858098,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 221860,
@@ -400,6 +416,14 @@
       "word": "台湾花莲灾后3天仍无救援",
       "onboard_time": 1758807503,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221306,
+      "num": 358674,
+      "word": "王暖暖提着两大袋证据开庭",
+      "onboard_time": 1758858201,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -459,12 +483,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202059,
+      "num": 202059,
+      "word": "同一件衣服上班穿vs下班穿",
+      "onboard_time": 1758858501,
+      "rank": 27,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 201343,
       "num": 143069,
       "word": "杨紫家业热度",
       "onboard_time": 1758851780,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198298,
+      "num": 198298,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1758860902,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 198221,
@@ -475,12 +515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197157,
-      "num": 173784,
-      "word": "同一件衣服上班穿vs下班穿",
-      "onboard_time": 1758858501,
-      "rank": 27,
-      "category": "情感,幽默"
+      "raw_hot": 197226,
+      "num": 197226,
+      "word": "LPL被爆组建S15陪练团",
+      "onboard_time": 1758861263,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 196520,
@@ -555,6 +595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183942,
+      "num": 183942,
+      "word": "周杰伦昆凌深夜抵达武汉",
+      "onboard_time": 1758861503,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183589,
       "num": 163787,
       "word": "公马被发情母马追赶摔断脖颈",
@@ -571,14 +619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176062,
-      "num": 176062,
-      "word": "王暖暖提着两大袋证据开庭",
-      "onboard_time": 1758858201,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175785,
       "num": 175785,
       "word": "第38届金鸡奖主视觉",
@@ -587,12 +627,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174502,
+      "num": 174502,
+      "word": "李沁咸鱼飞升杀青",
+      "onboard_time": 1758860722,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174308,
       "num": 174308,
       "word": "秋天第一顿大闸蟹上桌了",
       "onboard_time": 1758857119,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 174002,
+      "num": 174002,
+      "word": "迟到早退通勤包",
+      "onboard_time": 1758861742,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 173759,
@@ -731,12 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139785,
-      "num": 139785,
-      "word": "李沁咸鱼飞升杀青",
-      "onboard_time": 1758860722,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 138473,
+      "num": 135023,
+      "word": "最好的睡姿vs最差的睡姿",
+      "onboard_time": 1758861263,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136627,
@@ -769,6 +825,14 @@
       "onboard_time": 1758854901,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133877,
+      "num": 133877,
+      "word": "孙颖莎被逗得嘎嘎乐",
+      "onboard_time": 1758861203,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 130293,
@@ -811,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125427,
+      "num": 122894,
+      "word": "卢昱晓拍了夜色尚浅同款浴池戏",
+      "onboard_time": 1758861563,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125306,
       "num": 125306,
       "word": "莫雷加德主动关心樊振东",
@@ -819,12 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123879,
-      "num": 116055,
-      "word": "白鹿与科比大女儿同框看秀",
-      "onboard_time": 1758860963,
-      "rank": 49,
-      "category": "艺人,体育"
+      "raw_hot": 122910,
+      "num": 122910,
+      "word": "米兰时装周G社生图",
+      "onboard_time": 1758861263,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120358,
@@ -835,12 +907,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119245,
-      "num": 119245,
-      "word": "喜人奇妙夜2",
-      "onboard_time": 1758860902,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 120027,
+      "num": 122060,
+      "word": "王楚钦全家福",
+      "onboard_time": 1758858022,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118099,
+      "num": 118099,
+      "word": "当我捡了只给面子的绝世好猫",
+      "onboard_time": 1758861563,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 117513,
@@ -939,19 +1019,19 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 105451,
-      "num": 107287,
-      "word": "王楚钦全家福",
-      "onboard_time": 1758858022,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104134,
       "num": 104134,
       "word": "王暖暖称按正常程序70岁才能离婚",
       "onboard_time": 1758852080,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103393,
+      "num": 174178,
+      "word": "买到假种子损失百万卖方被罚59万",
+      "onboard_time": 1758861083,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1260,7 +1340,7 @@
     },
     {
       "raw_hot": 72119,
-      "num": 186550,
+      "num": 199270,
       "word": "男女共防HPV需趁早",
       "onboard_time": 1758859761,
       "rank": 23,
@@ -1419,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36738,
+      "num": 122148,
+      "word": "王暖暖控诉遭婆婆恶意拖延离婚",
+      "onboard_time": 1758861742,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35938,
       "num": 57848,
       "word": "JackeyLove要把S赛冠军留在中国",
@@ -1475,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24094,
+      "num": 859239,
+      "word": "新质领航山西实践",
+      "onboard_time": 1758858261,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24083,
       "num": 490793,
       "word": "新疆70年",
@@ -1504,14 +1600,6 @@
       "word": "王暖暖全身17处骨折100根钢钉",
       "onboard_time": 1758824535,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19427,
-      "num": 859239,
-      "word": "新质领航山西实践",
-      "onboard_time": 1758858261,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

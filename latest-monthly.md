@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 12:30:29
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 12:43:19
 </p>
 </blockquote>
 <p>
@@ -5403,6 +5403,12 @@ BLG对战TES（热度：746464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E7%BA%AF%E9%AA%97cp%23" target="weibo">
+内娱第一纯骗cp（热度：739626）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%98%AF%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E5%B0%86%E5%86%9B%23" target="weibo">
 她是新中国第一位女将军（热度：739454）
 </a>
@@ -6005,12 +6011,6 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E7%9C%81%E5%9B%BD%E8%A1%A5%E8%B5%84%E9%87%91%E8%BF%9D%E8%A7%84%E4%BD%BF%E7%94%A8%E8%BF%87%E4%BA%BF%23" target="weibo">
 6省国补资金违规使用过亿（热度：684375）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%99%8C%E5%8E%BB%E4%B8%96%E6%8A%8A%E6%88%BF%E5%AD%90%E7%95%99%E7%BB%99%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%23" target="weibo">
-男子胃癌去世把房子留给非亲生女儿（热度：683939）
 </a>
 </li>
 
