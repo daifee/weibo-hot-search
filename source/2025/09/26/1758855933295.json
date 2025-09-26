@@ -1,0 +1,410 @@
+{
+  "runTime": 1758855933295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2151690,
+        "num": 2151690,
+        "word": "麒麟 王楚钦",
+        "onboard_time": 1758854000,
+        "rank": 0,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 1403013,
+        "num": 1403013,
+        "word": "jellycat蛋糕",
+        "onboard_time": 1758851000,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45,
+        "num": 1129374,
+        "word": "何以中国理想都城",
+        "onboard_time": 1758851900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 960515,
+        "num": 960515,
+        "word": "芬兰希望取消五常一票否决权",
+        "onboard_time": 1758849501,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 531303,
+        "num": 531303,
+        "word": "咸鱼飞升",
+        "onboard_time": 1758854241,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448033,
+        "num": 448033,
+        "word": "30秒自查身份证是否被他人绑定",
+        "onboard_time": 1758848720,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393964,
+        "num": 393964,
+        "word": "王暖暖称5年间几乎无收入",
+        "onboard_time": 1758850038,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355898,
+        "num": 355898,
+        "word": "韩国旅游业备战中国游客回归",
+        "onboard_time": 1758851060,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 332962,
+        "num": 332962,
+        "word": "鞠婧祎米兰",
+        "onboard_time": 1758851599,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 655549,
+        "num": 332954,
+        "word": "东兴通报中学生持刀伤人后跳楼死亡",
+        "onboard_time": 1758853041,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1416217,
+        "num": 332951,
+        "word": "男子68页PPT曝妻子出轨华南理工博士",
+        "onboard_time": 1758843260,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 750199,
+        "num": 332941,
+        "word": "花光积蓄买了自己的房子",
+        "onboard_time": 1758851000,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302820,
+        "num": 332937,
+        "word": "巴勒斯坦总统因美拒发签证视频发言",
+        "onboard_time": 1758852860,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 472503,
+        "num": 332931,
+        "word": "日本女市长与已婚男下属多次开房",
+        "onboard_time": 1758848840,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 332923,
+        "num": 332923,
+        "word": "易烊千玺代言理想",
+        "onboard_time": 1758855500,
+        "rank": 14,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 328184,
+        "num": 328184,
+        "word": "白鹿试衣服问粉丝好不好看",
+        "onboard_time": 1758852200,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228156,
+        "num": 228156,
+        "word": "垫底辣孩我想要活在网络上一辈子",
+        "onboard_time": 1758854840,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216034,
+        "num": 216034,
+        "word": "入青云",
+        "onboard_time": 1758852260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192032,
+        "num": 192032,
+        "word": "王楚钦幼头时期",
+        "onboard_time": 1758855440,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63389,
+        "num": 190193,
+        "word": "刘亦菲直接一点花式泊车",
+        "onboard_time": 1758854120,
+        "rank": 19,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 237557,
+        "num": 190175,
+        "word": "张维伊改菜名",
+        "onboard_time": 1758842177,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178693,
+        "num": 189856,
+        "word": "易烊千玺理想汽车品牌代言人",
+        "onboard_time": 1758855860,
+        "rank": 21,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 189564,
+        "num": 189564,
+        "word": "王楚然黑色旗袍",
+        "onboard_time": 1758853280,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187823,
+        "num": 187823,
+        "word": "谢娜模仿张杰唱歌下腰",
+        "onboard_time": 1758854901,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162170,
+        "num": 162170,
+        "word": "李现扛住了G社镜头",
+        "onboard_time": 1758815482,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161397,
+        "num": 161397,
+        "word": "闪耀暖暖",
+        "onboard_time": 1758855020,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126820,
+        "num": 158358,
+        "word": "王心凌最爱车竟然是TA",
+        "onboard_time": 1758852921,
+        "rank": 26,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 157785,
+        "num": 157785,
+        "word": "演唱会出轨门女主丈夫被曝出轨",
+        "onboard_time": 1758798020,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149391,
+        "num": 149391,
+        "word": "华南理工回应博士与已婚女同居",
+        "onboard_time": 1758806842,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146599,
+        "num": 146599,
+        "word": "特朗普对进口重卡加征25%关税",
+        "onboard_time": 1758848361,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142556,
+        "num": 142556,
+        "word": "杨紫家业热度",
+        "onboard_time": 1758851780,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134748,
+        "num": 134748,
+        "word": "新赛季怎么两把就王者了",
+        "onboard_time": 1758854901,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128179,
+        "num": 128179,
+        "word": "女子租房6年房东多次主动降租",
+        "onboard_time": 1758810683,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125822,
+        "num": 125822,
+        "word": "霉霉与超级碗中场秀谈判失败",
+        "onboard_time": 1758855200,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125306,
+        "num": 125306,
+        "word": "莫雷加德主动关心樊振东",
+        "onboard_time": 1758854000,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121486,
+        "num": 121486,
+        "word": "李在明称将终结朝鲜半岛敌对时代",
+        "onboard_time": 1758851479,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117898,
+        "num": 117898,
+        "word": "助理确认蔡磊丧失语言能力",
+        "onboard_time": 1758804922,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111828,
+        "num": 111828,
+        "word": "马龙樊振东王楚钦夺冠2周年",
+        "onboard_time": 1758855440,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111709,
+        "num": 111709,
+        "word": "身强的人喜欢宅在家里",
+        "onboard_time": 1758854780,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103600,
+        "num": 103600,
+        "word": "神20航天员圆满完成第4次出舱",
+        "onboard_time": 1758848361,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102834,
+        "num": 102834,
+        "word": "小米发布会",
+        "onboard_time": 1758798261,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101896,
+        "num": 101896,
+        "word": "广电总局称坚决抵制违法失德人员",
+        "onboard_time": 1758810504,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100087,
+        "num": 100087,
+        "word": "如鸢",
+        "onboard_time": 1758853280,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93937,
+        "num": 93937,
+        "word": "陕西农民犁地时挖出国宝",
+        "onboard_time": 1758848301,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86816,
+        "num": 86816,
+        "word": "张召忠人老实话不多",
+        "onboard_time": 1758847101,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86784,
+        "num": 86784,
+        "word": "西班牙计划打破以色列加沙封锁",
+        "onboard_time": 1758854061,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83256,
+        "num": 83256,
+        "word": "董璇赚的每分钱都有女儿名字",
+        "onboard_time": 1758808163,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82515,
+        "num": 82515,
+        "word": "谁给关晓彤选的毛领",
+        "onboard_time": 1758810624,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 81919,
+        "num": 81919,
+        "word": "王暖暖称按正常程序70岁才能离婚",
+        "onboard_time": 1758852080,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80941,
+        "num": 80941,
+        "word": "不被父母左右的年轻人客厅是怎样的",
+        "onboard_time": 1758849381,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆各族群众热情欢送总书记#"
+    }
+  }
+}

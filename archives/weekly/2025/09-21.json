@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758852692287,
+  "endTime": 1758855933295,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -137,6 +137,14 @@
       "onboard_time": 1758700882,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2151690,
+      "num": 2151690,
+      "word": "麒麟 王楚钦",
+      "onboard_time": 1758854000,
+      "rank": 0,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 2128728,
@@ -393,6 +401,14 @@
       "onboard_time": 1758413420,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1403013,
+      "num": 1403013,
+      "word": "jellycat蛋糕",
+      "onboard_time": 1758851000,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 1388236,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 1020082,
-      "num": 235048,
+      "num": 332931,
       "word": "日本女市长与已婚男下属多次开房",
       "onboard_time": 1758848840,
       "rank": 11,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1758783921,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 910939,
-      "num": 910939,
-      "word": "jellycat蛋糕",
-      "onboard_time": 1758851000,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 909120,
@@ -1475,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 750199,
+      "num": 332941,
+      "word": "花光积蓄买了自己的房子",
+      "onboard_time": 1758851000,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 747781,
       "num": 369849,
       "word": "粉丝爆料杨幂无缘金鸡奖",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1758691701,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655549,
+      "num": 332954,
+      "word": "东兴通报中学生持刀伤人后跳楼死亡",
+      "onboard_time": 1758853041,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 652578,
@@ -2433,6 +2457,14 @@
       "onboard_time": 1758795741,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531303,
+      "num": 531303,
+      "word": "咸鱼飞升",
+      "onboard_time": 1758854241,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 531086,
@@ -3004,7 +3036,7 @@
     },
     {
       "raw_hot": 416346,
-      "num": 184361,
+      "num": 190175,
       "word": "张维伊改菜名",
       "onboard_time": 1758842177,
       "rank": 28,
@@ -3451,6 +3483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355898,
+      "num": 355898,
+      "word": "韩国旅游业备战中国游客回归",
+      "onboard_time": 1758851060,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 354743,
       "num": 417058,
       "word": "潘玮柏吃到被导演紧急叫停",
@@ -3473,14 +3513,6 @@
       "onboard_time": 1758776242,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 350089,
-      "num": 350089,
-      "word": "韩国旅游业备战中国游客回归",
-      "onboard_time": 1758851060,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 349266,
@@ -3587,6 +3619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332923,
+      "num": 332923,
+      "word": "易烊千玺代言理想",
+      "onboard_time": 1758855500,
+      "rank": 14,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 332316,
       "num": 332316,
       "word": "广东全面进入台风防御状态",
@@ -3617,6 +3657,14 @@
       "onboard_time": 1758383123,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328184,
+      "num": 328184,
+      "word": "白鹿试衣服问粉丝好不好看",
+      "onboard_time": 1758852200,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 327698,
@@ -3905,6 +3953,14 @@
       "onboard_time": 1758428122,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 302820,
+      "num": 332937,
+      "word": "巴勒斯坦总统因美拒发签证视频发言",
+      "onboard_time": 1758852860,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 301792,
@@ -5059,6 +5115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228156,
+      "num": 228156,
+      "word": "垫底辣孩我想要活在网络上一辈子",
+      "onboard_time": 1758854840,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 227884,
       "num": 227884,
       "word": "倪妮黑丝",
@@ -5329,6 +5393,14 @@
       "onboard_time": 1758780922,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216034,
+      "num": 216034,
+      "word": "入青云",
+      "onboard_time": 1758852260,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 215502,
@@ -6539,6 +6611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192032,
+      "num": 192032,
+      "word": "王楚钦幼头时期",
+      "onboard_time": 1758855440,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192008,
       "num": 200002,
       "word": "南派三叔云顶天宫你重拍没",
@@ -6675,6 +6755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189564,
+      "num": 189564,
+      "word": "王楚然黑色旗袍",
+      "onboard_time": 1758853280,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189515,
       "num": 189515,
       "word": "30岁我拔完了自己所有的牙齿",
@@ -6801,6 +6889,14 @@
       "onboard_time": 1758510081,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187823,
+      "num": 187823,
+      "word": "谢娜模仿张杰唱歌下腰",
+      "onboard_time": 1758854901,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 187753,
@@ -7433,6 +7529,14 @@
       "onboard_time": 1758631704,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178693,
+      "num": 189856,
+      "word": "易烊千玺理想汽车品牌代言人",
+      "onboard_time": 1758855860,
+      "rank": 21,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 178424,
@@ -8307,14 +8411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163557,
-      "num": 163557,
-      "word": "入青云",
-      "onboard_time": 1758852260,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163546,
       "num": 163546,
       "word": "广东超10个城市停工",
@@ -8465,6 +8561,14 @@
       "onboard_time": 1758710183,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161397,
+      "num": 161397,
+      "word": "闪耀暖暖",
+      "onboard_time": 1758855020,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 161371,
@@ -10779,6 +10883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134748,
+      "num": 134748,
+      "word": "新赛季怎么两把就王者了",
+      "onboard_time": 1758854901,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134747,
       "num": 179524,
       "word": "张艺兴金发小王子",
@@ -10977,14 +11089,6 @@
       "onboard_time": 1758695362,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132030,
-      "num": 132030,
-      "word": "花光积蓄买了自己的房子",
-      "onboard_time": 1758851000,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 132005,
@@ -11531,6 +11635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126820,
+      "num": 158358,
+      "word": "王心凌最爱车竟然是TA",
+      "onboard_time": 1758852921,
+      "rank": 26,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 126567,
       "num": 126567,
       "word": "黄金再猛涨",
@@ -11595,6 +11707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125822,
+      "num": 125822,
+      "word": "霉霉与超级碗中场秀谈判失败",
+      "onboard_time": 1758855200,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125701,
       "num": 221651,
       "word": "桦加沙 国庆",
@@ -11625,6 +11745,14 @@
       "onboard_time": 1758789142,
       "rank": 47,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 125306,
+      "num": 125306,
+      "word": "莫雷加德主动关心樊振东",
+      "onboard_time": 1758854000,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 125249,
@@ -12939,6 +13067,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 111828,
+      "num": 111828,
+      "word": "马龙樊振东王楚钦夺冠2周年",
+      "onboard_time": 1758855440,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111754,
       "num": 111754,
       "word": "郑钦文中网七号种子",
@@ -12953,6 +13089,14 @@
       "onboard_time": 1758619103,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111709,
+      "num": 111709,
+      "word": "身强的人喜欢宅在家里",
+      "onboard_time": 1758854780,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 111633,
@@ -13835,6 +13979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100087,
+      "num": 100087,
+      "word": "如鸢",
+      "onboard_time": 1758853280,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100038,
       "num": 164183,
       "word": "俞孔坚空难飞行员复飞原因仍调查中",
@@ -14689,6 +14841,14 @@
       "onboard_time": 1758765440,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86784,
+      "num": 86784,
+      "word": "西班牙计划打破以色列加沙封锁",
+      "onboard_time": 1758854061,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86731,
@@ -15665,6 +15825,14 @@
       "onboard_time": 1758583579,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63389,
+      "num": 190193,
+      "word": "刘亦菲直接一点花式泊车",
+      "onboard_time": 1758854120,
+      "rank": 19,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 63156,
@@ -16881,14 +17049,6 @@
       "onboard_time": 1758708442,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 40911,
-      "num": 98483,
-      "word": "白鹿试衣服问粉丝好不好看",
-      "onboard_time": 1758852200,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 40811,
@@ -18404,7 +18564,7 @@
     },
     {
       "raw_hot": 8980,
-      "num": 766907,
+      "num": 1129374,
       "word": "何以中国理想都城",
       "onboard_time": 1758851900,
       "rank": 2,
