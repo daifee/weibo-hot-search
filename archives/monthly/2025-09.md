@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 11:13:54
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 11:47:07
 </p>
 </blockquote>
 <p>
@@ -239,6 +239,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E6%9F%A5%23" target="weibo">
 小红书被查（热度：3660261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%23" target="weibo">
+金鸡奖提名（热度：3592202）
 </a>
 </li>
 
@@ -5181,6 +5187,12 @@ iPhone17Promini首曝（热度：777010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%A3%E8%A8%80%E7%90%86%E6%83%B3%23" target="weibo">
+易烊千玺代言理想（热度：758287）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%9D%80%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E4%BC%9A%E9%99%8D%E5%8D%8A%E6%97%97%23" target="weibo">
 一名网红被杀美国为何会降半旗（热度：758236）
 </a>
@@ -5189,12 +5201,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E8%92%B8%E8%9B%8B%E5%A4%96%E5%8D%96%E7%96%91%E6%9C%89%E4%BE%AE%E8%BE%B1%E6%80%A7%E5%AD%97%E6%A0%B7%23" target="weibo">
 女子吐槽蒸蛋外卖疑有侮辱性字样（热度：755773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%A3%E8%A8%80%E7%90%86%E6%83%B3%23" target="weibo">
-易烊千玺代言理想（热度：755651）
 </a>
 </li>
 
@@ -5261,6 +5267,12 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E6%89%93%E6%98%8E%E7%89%8C%23" target="weibo">
 贾国龙称西贝今后将打明牌（热度：750481）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87%23" target="weibo">
+咸鱼飞升（热度：750413）
 </a>
 </li>
 
@@ -5339,12 +5351,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23731%E7%94%B5%E5%BD%B1%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E%23" target="weibo">
 731电影郑重声明（热度：743875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87%23" target="weibo">
-咸鱼飞升（热度：743076）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ D4vd车厢藏尸死者为15岁女孩（热度：689683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B8%83%E5%85%B0%E5%A6%AE%E5%AE%B6%E9%87%8C%E9%83%BD%E6%98%AF%E7%8B%97%E5%A4%A7%E4%BE%BF%23" target="weibo">
 曝布兰妮家里都是狗大便（热度：683482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
-恋与深空（热度：682820）
 </a>
 </li>
 

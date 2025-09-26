@@ -1,0 +1,410 @@
+{
+  "runTime": 1758858427993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2134738,
+        "num": 2134738,
+        "word": "麒麟 王楚钦",
+        "onboard_time": 1758854000,
+        "rank": 0,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 525744,
+        "num": 525744,
+        "word": "巴勒斯坦总统因美拒发签证视频发言",
+        "onboard_time": 1758852860,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9397,
+        "num": 520027,
+        "word": "新质领航山西实践",
+        "onboard_time": 1758858261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3592202,
+        "num": 502501,
+        "word": "金鸡奖提名",
+        "onboard_time": 1758856881,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 723743,
+        "num": 490522,
+        "word": "芬兰希望取消五常一票否决权",
+        "onboard_time": 1758849501,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 758287,
+        "num": 471658,
+        "word": "易烊千玺代言理想",
+        "onboard_time": 1758855500,
+        "rank": 5,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 750413,
+        "num": 449551,
+        "word": "咸鱼飞升",
+        "onboard_time": 1758854241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441777,
+        "num": 441777,
+        "word": "30秒自查身份证是否被他人绑定",
+        "onboard_time": 1758848720,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408590,
+        "num": 408590,
+        "word": "垫底辣孩我想要活在网络上一辈子",
+        "onboard_time": 1758854840,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 308668,
+        "num": 397843,
+        "word": "新建一批县中",
+        "onboard_time": 1758857061,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1251483,
+        "num": 390512,
+        "word": "男子68页PPT曝妻子出轨华南理工博士",
+        "onboard_time": 1758843260,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601777,
+        "num": 366778,
+        "word": "花光积蓄买了自己的房子",
+        "onboard_time": 1758851000,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564976,
+        "num": 348350,
+        "word": "日本女市长与已婚男下属多次开房",
+        "onboard_time": 1758848840,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 342268,
+        "num": 342268,
+        "word": "苍兰诀2九渊高燃归来",
+        "onboard_time": 1758857001,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 306106,
+        "num": 306106,
+        "word": "盛世天下4399线下不喝桂花羹",
+        "onboard_time": 1758856041,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283404,
+        "num": 283404,
+        "word": "韩国旅游业备战中国游客回归",
+        "onboard_time": 1758851060,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280400,
+        "num": 280400,
+        "word": "白鹿试衣服问粉丝好不好看",
+        "onboard_time": 1758852200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243752,
+        "num": 243752,
+        "word": "鞠婧祎米兰",
+        "onboard_time": 1758851599,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233978,
+        "num": 233978,
+        "word": "霉霉与超级碗中场秀谈判失败",
+        "onboard_time": 1758855200,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23666,
+        "num": 218041,
+        "word": "Prada大秀高智感",
+        "onboard_time": 1758856281,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212827,
+        "num": 212827,
+        "word": "易烊千玺理想汽车品牌代言人",
+        "onboard_time": 1758855860,
+        "rank": 20,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 89546,
+        "num": 212775,
+        "word": "王心凌最爱车竟然是TA",
+        "onboard_time": 1758852921,
+        "rank": 21,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 212765,
+        "num": 212765,
+        "word": "GAI演唱会",
+        "onboard_time": 1758857482,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61475,
+        "num": 199332,
+        "word": "刘亦菲直接一点花式泊车",
+        "onboard_time": 1758854120,
+        "rank": 23,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 192672,
+        "num": 192672,
+        "word": "内娱第一纯骗cp",
+        "onboard_time": 1758857901,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191718,
+        "num": 191718,
+        "word": "以总理为躲逮捕令绕600公里去美国",
+        "onboard_time": 1758856100,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188063,
+        "num": 188063,
+        "word": "一看杨超越就是懂干农活的",
+        "onboard_time": 1758857361,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175785,
+        "num": 175785,
+        "word": "第38届金鸡奖主视觉",
+        "onboard_time": 1758857180,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174308,
+        "num": 174308,
+        "word": "秋天第一顿大闸蟹上桌了",
+        "onboard_time": 1758857119,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 41073,
+        "num": 169558,
+        "word": "贵州天下第一水司楼已变身全新酒店",
+        "onboard_time": 1758857541,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190634,
+        "num": 168866,
+        "word": "曝Jiejie已离开FPX",
+        "onboard_time": 1758857901,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167290,
+        "num": 167290,
+        "word": "第一次见男主为女主把亲爹送监狱的",
+        "onboard_time": 1758857061,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164646,
+        "num": 164646,
+        "word": "小芳出嫁杀青",
+        "onboard_time": 1758858081,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155527,
+        "num": 155527,
+        "word": "雷军回应小米汽车性能过剩",
+        "onboard_time": 1758857001,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152890,
+        "num": 152890,
+        "word": "2025金鸡奖发布会",
+        "onboard_time": 1758856940,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149441,
+        "num": 149441,
+        "word": "事关1670多万学生的文件",
+        "onboard_time": 1758857541,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144512,
+        "num": 144512,
+        "word": "国乒一天2枚金牌",
+        "onboard_time": 1758857001,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130293,
+        "num": 144346,
+        "word": "关晓彤秒猜李昀锐",
+        "onboard_time": 1758857781,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35151,
+        "num": 144267,
+        "word": "乘务员拍肩问候遭乘客倒地讹人",
+        "onboard_time": 1758857660,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95622,
+        "num": 144229,
+        "word": "杀前女友哥哥的男子发裸照威胁女方",
+        "onboard_time": 1758857901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144197,
+        "num": 144197,
+        "word": "鞠婧祎扛住了G社镜头",
+        "onboard_time": 1758858261,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136627,
+        "num": 136627,
+        "word": "浪姐短剧主打一个原班人马",
+        "onboard_time": 1758856340,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126412,
+        "num": 126412,
+        "word": "王楚钦幼头时期",
+        "onboard_time": 1758855440,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120808,
+        "num": 120808,
+        "word": "广电总局称坚决抵制违法失德人员",
+        "onboard_time": 1758810504,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119284,
+        "num": 119284,
+        "word": "特朗普对进口重卡加征25%关税",
+        "onboard_time": 1758848361,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117513,
+        "num": 117513,
+        "word": "岁岁平安",
+        "onboard_time": 1758858381,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117469,
+        "num": 117469,
+        "word": "李现扛住了G社镜头",
+        "onboard_time": 1758815482,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112851,
+        "num": 112851,
+        "word": "每天吃肉vs从不吃肉",
+        "onboard_time": 1758856281,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109594,
+        "num": 109594,
+        "word": "入青云",
+        "onboard_time": 1758852260,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105451,
+        "num": 107287,
+        "word": "王楚钦全家福",
+        "onboard_time": 1758858022,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆各族群众热情欢送总书记#"
+    }
+  }
+}
