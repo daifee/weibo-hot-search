@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758919181370,
+  "endTime": 1758921705640,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -84811,6 +84811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16079,
+      "num": 16039,
+      "word": "捡到了一只双目失明的小狗",
+      "onboard_time": 1758919394,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16068,
       "num": 46707,
       "word": "朱一龙说我爱成都",
@@ -85249,6 +85257,14 @@
       "onboard_time": 1756844235,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13176,
+      "num": 16025,
+      "word": "出逃雪豹野性已大部分消散",
+      "onboard_time": 1758920174,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13103,
