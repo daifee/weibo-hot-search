@@ -1,0 +1,410 @@
+{
+  "runTime": 1758882422506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 837308,
+        "num": 1133969,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767404,
+        "num": 767404,
+        "word": "段奥娟提名大爆冷",
+        "onboard_time": 1758880102,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6606,
+        "num": 647279,
+        "word": "神20航天员圆满完成第4次出舱",
+        "onboard_time": 1758848361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842215,
+        "num": 632710,
+        "word": "辛芷蕾这一身王菲来了都得愣两秒",
+        "onboard_time": 1758878900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592802,
+        "num": 592802,
+        "word": "中方向日方已提出严正交涉",
+        "onboard_time": 1758877099,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 512432,
+        "num": 512432,
+        "word": "好利来门店回应月饼27元一块",
+        "onboard_time": 1758878481,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465358,
+        "num": 465358,
+        "word": "美国男子追杀恋童癖老人",
+        "onboard_time": 1758874941,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 315145,
+        "num": 315145,
+        "word": "五字哥哥和四字弟弟合影了",
+        "onboard_time": 1758866661,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 210177,
+        "num": 210177,
+        "word": "西宁野生动物园通报雪豹出逃",
+        "onboard_time": 1758882020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209557,
+        "num": 209557,
+        "word": "谁给李昀锐安排了两个伴舞",
+        "onboard_time": 1758881180,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795516,
+        "num": 209339,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509566,
+        "num": 206710,
+        "word": "金鸡提名爆冷",
+        "onboard_time": 1758864501,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302130,
+        "num": 204263,
+        "word": "许佳琪回应脸变了",
+        "onboard_time": 1758872361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254169,
+        "num": 200115,
+        "word": "日本老人冰柜藏女儿尸体20年",
+        "onboard_time": 1758862162,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200046,
+        "num": 200046,
+        "word": "王暖暖称不离婚孩子还要赡养对方",
+        "onboard_time": 1758869781,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231263,
+        "num": 193178,
+        "word": "王暖暖丈夫上段婚姻在狱中相亲并订婚",
+        "onboard_time": 1758879080,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222611,
+        "num": 191237,
+        "word": "孟子义早期眉眼",
+        "onboard_time": 1758881180,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180487,
+        "num": 180487,
+        "word": "上海老洋房从1.5亿降至8299万仍流拍",
+        "onboard_time": 1758866241,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180227,
+        "num": 180227,
+        "word": "向往的生活",
+        "onboard_time": 1758877400,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167973,
+        "num": 174549,
+        "word": "周深看到采访穿帮了",
+        "onboard_time": 1758881361,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170470,
+        "num": 170470,
+        "word": "上海暴雨",
+        "onboard_time": 1758880460,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164746,
+        "num": 164746,
+        "word": "刘宇被越南明星抄袭",
+        "onboard_time": 1758871521,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163779,
+        "num": 163779,
+        "word": "WTT抽签",
+        "onboard_time": 1758875539,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151852,
+        "num": 151852,
+        "word": "男方妈妈称该坐牢的是王暖暖",
+        "onboard_time": 1758876501,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150546,
+        "num": 150546,
+        "word": "南京照相馆角逐奥斯卡",
+        "onboard_time": 1758874701,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148948,
+        "num": 148948,
+        "word": "是郑晓龙的剧这把稳了",
+        "onboard_time": 1758878540,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148415,
+        "num": 148415,
+        "word": "沈佳润闷声干大事",
+        "onboard_time": 1758869422,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139476,
+        "num": 139476,
+        "word": "微信步数是很私密的东西",
+        "onboard_time": 1758879741,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116960,
+        "num": 138739,
+        "word": "日本天皇裕仁是731部队始作俑者",
+        "onboard_time": 1758881421,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24571,
+        "num": 138562,
+        "word": "多名消费者反映LABUBU质量差",
+        "onboard_time": 1758880881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138441,
+        "num": 138441,
+        "word": "赴山海第三十一集穿帮镜头",
+        "onboard_time": 1758868939,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136033,
+        "num": 136033,
+        "word": "狗狗被台风吹走挂电线上身亡",
+        "onboard_time": 1758873021,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98017,
+        "num": 131762,
+        "word": "西宁野生动物园一雪豹逃匿",
+        "onboard_time": 1758880702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129005,
+        "num": 129005,
+        "word": "西贝故事会",
+        "onboard_time": 1758879920,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125325,
+        "num": 125325,
+        "word": "女童被碾过致死案车主服刑十月已满",
+        "onboard_time": 1758881421,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118253,
+        "num": 118253,
+        "word": "做饭半年给自己吃成营养不良",
+        "onboard_time": 1758879980,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116249,
+        "num": 116249,
+        "word": "网传某头部CRO员工遗书曝光",
+        "onboard_time": 1758879500,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20204,
+        "num": 113382,
+        "word": "妈妈回应奶奶误用白酒给宝宝冲奶",
+        "onboard_time": 1758881720,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58287,
+        "num": 113155,
+        "word": "深圳一绿道被指有上百条减速带",
+        "onboard_time": 1758881962,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113080,
+        "num": 113080,
+        "word": "彭昱畅说这次坚决不会胖了",
+        "onboard_time": 1758881660,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112242,
+        "num": 112242,
+        "word": "00年出生的唯一红利",
+        "onboard_time": 1758882261,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110535,
+        "num": 110535,
+        "word": "时代少年团集结捧杯之夜",
+        "onboard_time": 1758882140,
+        "rank": 41,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 105889,
+        "num": 105889,
+        "word": "华南理工涉事博士被留校察看",
+        "onboard_time": 1758880222,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104481,
+        "num": 104481,
+        "word": "队友是九尾Gemini",
+        "onboard_time": 1758881481,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103848,
+        "num": 103848,
+        "word": "高糖主食黑名单",
+        "onboard_time": 1758873740,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102740,
+        "num": 102740,
+        "word": "有肖战谁还玩手机",
+        "onboard_time": 1758876021,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100087,
+        "num": 100087,
+        "word": "济南通报中学教师体罚学生调查结果",
+        "onboard_time": 1758870740,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 100062,
+        "num": 100062,
+        "word": "战至巅峰赛制",
+        "onboard_time": 1758877700,
+        "rank": 47,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 99818,
+        "num": 99818,
+        "word": "王楚钦问谁设计的抽签仪式",
+        "onboard_time": 1758879141,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27259,
+        "num": 99511,
+        "word": "美一华裔男子勒毙华人妻子",
+        "onboard_time": 1758880581,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新疆之行这些瞬间令人难忘#"
+    }
+  }
+}
