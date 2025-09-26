@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758855933295,
+  "endTime": 1758856434751,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -1459,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 755651,
+      "num": 369807,
+      "word": "易烊千玺代言理想",
+      "onboard_time": 1758855500,
+      "rank": 14,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 755106,
       "num": 321999,
       "word": "这居然是张天爱",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1758547343,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 743076,
+      "num": 531303,
+      "word": "咸鱼飞升",
+      "onboard_time": 1758854241,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 742159,
@@ -1835,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661478,
+      "num": 332954,
+      "word": "东兴通报中学生持刀伤人后跳楼死亡",
+      "onboard_time": 1758853041,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660122,
       "num": 289552,
       "word": "韦雪回应9亿分手费",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1758691701,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 655549,
-      "num": 332954,
-      "word": "东兴通报中学生持刀伤人后跳楼死亡",
-      "onboard_time": 1758853041,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 652578,
@@ -2457,14 +2473,6 @@
       "onboard_time": 1758795741,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531303,
-      "num": 531303,
-      "word": "咸鱼飞升",
-      "onboard_time": 1758854241,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 531086,
@@ -3555,6 +3563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339251,
+      "num": 339251,
+      "word": "巴勒斯坦总统因美拒发签证视频发言",
+      "onboard_time": 1758852860,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 338228,
       "num": 338228,
       "word": "国新办新闻发布会",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1758782540,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332923,
-      "num": 332923,
-      "word": "易烊千玺代言理想",
-      "onboard_time": 1758855500,
-      "rank": 14,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 332316,
@@ -3953,14 +3961,6 @@
       "onboard_time": 1758428122,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 302820,
-      "num": 332937,
-      "word": "巴勒斯坦总统因美拒发签证视频发言",
-      "onboard_time": 1758852860,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 301792,
@@ -5033,6 +5033,14 @@
       "onboard_time": 1758420863,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 237074,
+      "num": 121815,
+      "word": "盛世天下4399线下不喝桂花羹",
+      "onboard_time": 1758856041,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 236183,
@@ -6515,6 +6523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194051,
+      "num": 194051,
+      "word": "王楚钦幼头时期",
+      "onboard_time": 1758855440,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193858,
       "num": 193858,
       "word": "古人吃剩的螺蛳壳变成遗址",
@@ -6609,14 +6625,6 @@
       "onboard_time": 1758509901,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192032,
-      "num": 192032,
-      "word": "王楚钦幼头时期",
-      "onboard_time": 1758855440,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 192008,
@@ -7713,6 +7721,14 @@
       "onboard_time": 1758507981,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175180,
+      "num": 175180,
+      "word": "霉霉与超级碗中场秀谈判失败",
+      "onboard_time": 1758855200,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 174799,
@@ -11707,14 +11723,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 125822,
-      "num": 125822,
-      "word": "霉霉与超级碗中场秀谈判失败",
-      "onboard_time": 1758855200,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125701,
       "num": 221651,
       "word": "桦加沙 国庆",
@@ -13355,12 +13363,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 108712,
+      "num": 108712,
+      "word": "宋亚轩模仿猪猪侠",
+      "onboard_time": 1758856041,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108548,
       "num": 141099,
       "word": "怒海潜沙也重拍了",
       "onboard_time": 1758439641,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108545,
+      "num": 108545,
+      "word": "四川那玛峰一驴友坠崖",
+      "onboard_time": 1758856041,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108516,
@@ -14139,6 +14163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97772,
+      "num": 106121,
+      "word": "以总理为躲逮捕令绕600公里去美国",
+      "onboard_time": 1758856100,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97471,
       "num": 120647,
       "word": "炫富清华学霸或面临最高60年监禁",
@@ -14339,6 +14371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94538,
+      "num": 94538,
+      "word": "每天吃肉vs从不吃肉",
+      "onboard_time": 1758856281,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94503,
       "num": 186928,
       "word": "台湾撤离人数达7904人",
@@ -14360,6 +14400,14 @@
       "word": "盛夏芬德拉 短剧细糠",
       "onboard_time": 1758582018,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94171,
+      "num": 94171,
+      "word": "浪姐短剧主打一个原班人马",
+      "onboard_time": 1758856340,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -16963,6 +17011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42716,
+      "num": 106071,
+      "word": "第38届金鸡奖海报",
+      "onboard_time": 1758856281,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42440,
       "num": 188001,
       "word": "丁真煮奶茶放了半罐盐",
@@ -18225,6 +18281,14 @@
       "onboard_time": 1758719181,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20000,
+      "num": 121477,
+      "word": "Prada大秀高智感",
+      "onboard_time": 1758856281,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 19860,
