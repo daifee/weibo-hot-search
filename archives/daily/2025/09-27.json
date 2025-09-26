@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758908368690,
+  "endTime": 1758911581006,
   "band_list": [
     {
       "raw_hot": 1035595,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68976,
+      "num": 68976,
+      "word": "以色列总理联大演讲多国代表离场",
+      "onboard_time": 1758910095,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68666,
       "num": 73385,
       "word": "金靖开团周柯宇张凌赫秒跟",
@@ -403,6 +411,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 46502,
+      "num": 46502,
+      "word": "赵今麦丁程鑫或合作许我向你看",
+      "onboard_time": 1758910696,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45644,
       "num": 97902,
       "word": "沃尔沃XC70上市售价26.99万起",
@@ -425,6 +441,14 @@
       "onboard_time": 1758904759,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40542,
+      "num": 46499,
+      "word": "彭昱畅在向往被夸成翘嘴",
+      "onboard_time": 1758910396,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 40316,
@@ -467,7 +491,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25831,
+      "raw_hot": 28208,
       "num": 69082,
       "word": "媒体评男子曝妻子出轨博士",
       "onboard_time": 1758908057,
@@ -481,6 +505,30 @@
       "onboard_time": 1758907516,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23651,
+      "num": 46428,
+      "word": "咸鱼飞升杀青特辑",
+      "onboard_time": 1758910876,
+      "rank": 41,
+      "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 23343,
+      "num": 46427,
+      "word": "披荆斩棘2025舞台超会评",
+      "onboard_time": 1758910994,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21501,
+      "num": 46409,
+      "word": "以色列动用直升机向加沙平民开火",
+      "onboard_time": 1758909017,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13509,
