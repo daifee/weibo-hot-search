@@ -1,0 +1,410 @@
+{
+  "runTime": 1758897596955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635618,
+        "num": 1101699,
+        "word": "养老院已删上百条热舞女院长视频",
+        "onboard_time": 1758882861,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411464,
+        "num": 411464,
+        "word": "段奥娟提名大爆冷",
+        "onboard_time": 1758880102,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19479,
+        "num": 292630,
+        "word": "国庆假期带特产上飞机要注意啥",
+        "onboard_time": 1758871222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2134706,
+        "num": 286873,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273233,
+        "num": 273233,
+        "word": "好利来门店回应月饼27元一块",
+        "onboard_time": 1758878481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510099,
+        "num": 267739,
+        "word": "娃哈哈家族遗产纠纷最新进展",
+        "onboard_time": 1758894683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525270,
+        "num": 267643,
+        "word": "向往的生活开播",
+        "onboard_time": 1758896542,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392808,
+        "num": 257522,
+        "word": "辛芷蕾这一身王菲来了都得愣两秒",
+        "onboard_time": 1758878900,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240298,
+        "num": 240298,
+        "word": "台湾是中国的一个省从不是一个国家",
+        "onboard_time": 1758896004,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210468,
+        "num": 210468,
+        "word": "出逃雪豹已找到",
+        "onboard_time": 1758894322,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766839,
+        "num": 210442,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583060,
+        "num": 208397,
+        "word": "香港高等法院驳回宗馥莉上诉申请",
+        "onboard_time": 1758892342,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534307,
+        "num": 207702,
+        "word": "华南理工",
+        "onboard_time": 1758889822,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339279,
+        "num": 205609,
+        "word": "谢娜已经准备选女婿了",
+        "onboard_time": 1758893962,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334377,
+        "num": 205140,
+        "word": "宋亚轩一点没给李飞留面子",
+        "onboard_time": 1758893903,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328557,
+        "num": 203744,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259365,
+        "num": 202721,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35925,
+        "num": 201514,
+        "word": "胡军说长剧更应该慢下来",
+        "onboard_time": 1758897023,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33880,
+        "num": 200027,
+        "word": "XC70掀起豪华混动反击战",
+        "onboard_time": 1758894384,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52508,
+        "num": 198693,
+        "word": "21岁中国女孩埃及失联",
+        "onboard_time": 1758896724,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177564,
+        "num": 198178,
+        "word": "家庭豪华大六座该有的样子",
+        "onboard_time": 1758893542,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 291786,
+        "num": 195761,
+        "word": "徐艺洋 你们就想让我推荐黄子韬呗",
+        "onboard_time": 1758890061,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244078,
+        "num": 195280,
+        "word": "张婧仪骨相",
+        "onboard_time": 1758888260,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243892,
+        "num": 193470,
+        "word": "乔妍的心事0提",
+        "onboard_time": 1758896663,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219395,
+        "num": 193090,
+        "word": "TFBOYS怎么都变回小时候了",
+        "onboard_time": 1758884360,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192053,
+        "num": 192053,
+        "word": "孟子义早期眉眼",
+        "onboard_time": 1758881180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187695,
+        "num": 187695,
+        "word": "舒淇获奖感谢冯德伦",
+        "onboard_time": 1758896423,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182098,
+        "num": 182098,
+        "word": "女童被碾过致死案车主服刑十月已满",
+        "onboard_time": 1758881421,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151779,
+        "num": 151779,
+        "word": "朱珠赵磊是怎么认识的",
+        "onboard_time": 1758892401,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150851,
+        "num": 150851,
+        "word": "张杰谢娜结婚十四周年",
+        "onboard_time": 1758895403,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588276,
+        "num": 148146,
+        "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+        "onboard_time": 1758896183,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143170,
+        "num": 143170,
+        "word": "向往的生活",
+        "onboard_time": 1758877400,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139672,
+        "num": 139672,
+        "word": "于洋说白鹿笑起来像瓶起子",
+        "onboard_time": 1758895222,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138876,
+        "num": 138876,
+        "word": "22岁小伙摔倒被误认留守老人",
+        "onboard_time": 1758896604,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134065,
+        "num": 134065,
+        "word": "赴山海大结局",
+        "onboard_time": 1758884720,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128671,
+        "num": 128671,
+        "word": "众星祝贺舒淇",
+        "onboard_time": 1758892941,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127563,
+        "num": 127563,
+        "word": "中国科学家或收到平行宇宙诡异信号",
+        "onboard_time": 1758894384,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119347,
+        "num": 119347,
+        "word": "赴山海编剧",
+        "onboard_time": 1758894863,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70035,
+        "num": 118172,
+        "word": "法院通报警车出现在150公里外山姆",
+        "onboard_time": 1758896481,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55551,
+        "num": 117753,
+        "word": "祐禾月饼39元一粒",
+        "onboard_time": 1758896364,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117720,
+        "num": 117720,
+        "word": "上海海港3比2武汉三镇",
+        "onboard_time": 1758897262,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115058,
+        "num": 115058,
+        "word": "王楚钦上半区聚齐8名国乒选手",
+        "onboard_time": 1758897083,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114041,
+        "num": 114041,
+        "word": "王安宇石云鹏从小巷人家到小偷人家",
+        "onboard_time": 1758895522,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112207,
+        "num": 112207,
+        "word": "张艺兴新歌style首唱",
+        "onboard_time": 1758897444,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54509,
+        "num": 109323,
+        "word": "宗馥莉方将继续申请上诉",
+        "onboard_time": 1758896063,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107699,
+        "num": 107699,
+        "word": "专家称未来有钱没用颜值是第一要素",
+        "onboard_time": 1758894322,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105325,
+        "num": 105325,
+        "word": "杨迪演杨紫坐过山车",
+        "onboard_time": 1758893662,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101656,
+        "num": 101656,
+        "word": "浙江队vs成都蓉城",
+        "onboard_time": 1758896364,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100912,
+        "num": 100912,
+        "word": "小米背屏实用测评",
+        "onboard_time": 1758897561,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99915,
+        "num": 99915,
+        "word": "犬夜叉戈薇现代小情侣",
+        "onboard_time": 1758897383,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#把祖国的新疆建设得越来越美好#"
+    }
+  }
+}

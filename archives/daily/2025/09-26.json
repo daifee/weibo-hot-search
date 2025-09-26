@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758896630204,
+  "endTime": 1758897596955,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -19,7 +19,7 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 2048032,
+      "raw_hot": 2134706,
       "num": 386442,
       "word": "关晓彤发微博最烦胡说八道的人",
       "onboard_time": 1758892581,
@@ -307,12 +307,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 588276,
+      "num": 156558,
+      "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+      "onboard_time": 1758896183,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 585031,
       "num": 279160,
       "word": "TFBOYS怎么都变回小时候了",
       "onboard_time": 1758884360,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583060,
+      "num": 365907,
+      "word": "香港高等法院驳回宗馥莉上诉申请",
+      "onboard_time": 1758892342,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 581016,
@@ -361,6 +377,22 @@
       "onboard_time": 1758852860,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 525270,
+      "num": 267643,
+      "word": "向往的生活开播",
+      "onboard_time": 1758896542,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 510099,
+      "num": 367159,
+      "word": "娃哈哈家族遗产纠纷最新进展",
+      "onboard_time": 1758894683,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497829,
@@ -416,14 +448,6 @@
       "word": "西宁野生动物园通报雪豹出逃",
       "onboard_time": 1758882020,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 435352,
-      "num": 365907,
-      "word": "香港高等法院驳回宗馥莉上诉申请",
-      "onboard_time": 1758892342,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -571,14 +595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 367159,
-      "num": 367159,
-      "word": "娃哈哈家族遗产纠纷最新进展",
-      "onboard_time": 1758894683,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 361024,
       "num": 262556,
       "word": "首尔偶遇金子涵",
@@ -627,12 +643,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 339279,
+      "num": 238522,
+      "word": "谢娜已经准备选女婿了",
+      "onboard_time": 1758893962,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337649,
       "num": 337649,
       "word": "王俊凯 电影在银幕上不在我脸上",
       "onboard_time": 1758797122,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 334377,
+      "num": 237037,
+      "word": "宋亚轩一点没给李飞留面子",
+      "onboard_time": 1758893903,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328557,
+      "num": 203744,
+      "word": "王玉雯下车门摔倒",
+      "onboard_time": 1758896423,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 328184,
@@ -747,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278784,
-      "num": 238522,
-      "word": "谢娜已经准备选女婿了",
-      "onboard_time": 1758893962,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278756,
       "num": 278756,
       "word": "特朗普对进口重卡加征25%关税",
@@ -851,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243892,
+      "num": 193470,
+      "word": "乔妍的心事0提",
+      "onboard_time": 1758896663,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242867,
       "num": 213798,
       "word": "众星祝贺舒淇",
@@ -859,20 +899,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240298,
+      "num": 240298,
+      "word": "台湾是中国的一个省从不是一个国家",
+      "onboard_time": 1758896004,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 239128,
       "num": 239128,
       "word": "王暖暖庭审后透露庭审细节",
       "onboard_time": 1758864263,
       "rank": 36,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 234383,
-      "num": 234383,
-      "word": "台湾是中国的一个省从不是一个国家",
-      "onboard_time": 1758896004,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 233978,
@@ -897,14 +937,6 @@
       "onboard_time": 1758873740,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 232279,
-      "num": 237037,
-      "word": "宋亚轩一点没给李飞留面子",
-      "onboard_time": 1758893903,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 227037,
@@ -1467,14 +1499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166635,
-      "num": 156558,
-      "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
-      "onboard_time": 1758896183,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 166336,
       "num": 166336,
       "word": "易烊千玺帅气的网球男孩",
@@ -1811,14 +1835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142908,
-      "num": 142908,
-      "word": "向往的生活开播",
-      "onboard_time": 1758896542,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142450,
       "num": 142450,
       "word": "00年出生的唯一红利",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1758868821,
       "rank": 30,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 138876,
+      "num": 138876,
+      "word": "22岁小伙摔倒被误认留守老人",
+      "onboard_time": 1758896604,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138670,
@@ -2115,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127563,
+      "num": 127563,
+      "word": "中国科学家或收到平行宇宙诡异信号",
+      "onboard_time": 1758894384,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127170,
       "num": 127170,
       "word": "刘宇宁红衣",
@@ -2331,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117720,
+      "num": 117720,
+      "word": "上海海港3比2武汉三镇",
+      "onboard_time": 1758897262,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117513,
       "num": 117513,
       "word": "岁岁平安",
@@ -2419,20 +2459,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115058,
+      "num": 115058,
+      "word": "王楚钦上半区聚齐8名国乒选手",
+      "onboard_time": 1758897083,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114651,
       "num": 114651,
       "word": "王栎鑫练3天苏新皓一节课学会",
       "onboard_time": 1758879381,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114589,
-      "num": 114589,
-      "word": "22岁小伙摔倒被误认留守老人",
-      "onboard_time": 1758896604,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114109,
@@ -2473,6 +2513,14 @@
       "onboard_time": 1758882980,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112207,
+      "num": 112207,
+      "word": "张艺兴新歌style首唱",
+      "onboard_time": 1758897444,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 111841,
@@ -2603,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107699,
+      "num": 107699,
+      "word": "专家称未来有钱没用颜值是第一要素",
+      "onboard_time": 1758894322,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107085,
       "num": 161851,
       "word": "河南兄弟俩在自家农田触电身亡",
@@ -2699,6 +2755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100912,
+      "num": 100912,
+      "word": "小米背屏实用测评",
+      "onboard_time": 1758897561,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100627,
       "num": 100627,
       "word": "离婚难是因为无先例我来做第一例",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1758853280,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99915,
+      "num": 99915,
+      "word": "犬夜叉戈薇现代小情侣",
+      "onboard_time": 1758897383,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 99308,
@@ -2995,14 +3067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82199,
-      "num": 124801,
-      "word": "王玉雯下车门摔倒",
-      "onboard_time": 1758896423,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82194,
       "num": 132153,
       "word": "王楚钦不语只是抿嘴笑",
@@ -3129,6 +3193,14 @@
       "onboard_time": 1758889941,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70035,
+      "num": 124765,
+      "word": "法院通报警车出现在150公里外山姆",
+      "onboard_time": 1758896481,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69657,
@@ -3267,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55551,
+      "num": 125157,
+      "word": "祐禾月饼39元一粒",
+      "onboard_time": 1758896364,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54305,
       "num": 168835,
       "word": "因地贫基因遭解聘女子想继续当幼师",
@@ -3299,20 +3379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52508,
+      "num": 198693,
+      "word": "21岁中国女孩埃及失联",
+      "onboard_time": 1758896724,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50932,
       "num": 162865,
       "word": "为什么理想i6这么好开",
       "onboard_time": 1758877521,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 50827,
-      "num": 124765,
-      "word": "法院通报警车出现在150公里外山姆",
-      "onboard_time": 1758896481,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50762,
@@ -3353,14 +3433,6 @@
       "onboard_time": 1758894384,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 47254,
-      "num": 125157,
-      "word": "祐禾月饼39元一粒",
-      "onboard_time": 1758896364,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46391,
@@ -3481,6 +3553,14 @@
       "onboard_time": 1758808343,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35925,
+      "num": 201514,
+      "word": "胡军说长剧更应该慢下来",
+      "onboard_time": 1758897023,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 35151,

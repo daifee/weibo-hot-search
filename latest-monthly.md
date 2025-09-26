@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 22:23:50
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 22:39:56
 </p>
 </blockquote>
 <p>
@@ -819,6 +819,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%9C%80%E7%83%A6%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93%E7%9A%84%E4%BA%BA%23" target="weibo">
+关晓彤发微博最烦胡说八道的人（热度：2134706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%B0%86%E6%8D%A2%E6%A0%87%E5%A8%83%E5%B0%8F%E5%AE%97%23" target="weibo">
 娃哈哈将换标娃小宗（热度：2128728）
 </a>
@@ -911,12 +917,6 @@ iPhone17（热度：2244479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E8%88%9E%E8%B9%88%23" target="weibo">
 张翰舞蹈（热度：2050303）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%9C%80%E7%83%A6%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93%E7%9A%84%E4%BA%BA%23" target="weibo">
-关晓彤发微博最烦胡说八道的人（热度：2048032）
 </a>
 </li>
 
