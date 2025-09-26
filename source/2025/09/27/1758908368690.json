@@ -1,0 +1,410 @@
+{
+  "runTime": 1758908368690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 302371,
+        "num": 398448,
+        "word": "尹锡悦坐牢两个月形象大变",
+        "onboard_time": 1758900623,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219220,
+        "num": 219220,
+        "word": "孕妇遭遇黑熊袭击装死逃过一劫",
+        "onboard_time": 1758901161,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9178,
+        "num": 203000,
+        "word": "国庆假期带特产上飞机要注意啥",
+        "onboard_time": 1758871222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542693,
+        "num": 202742,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341654,
+        "num": 201772,
+        "word": "男子胸前贴强奸犯被当街示众",
+        "onboard_time": 1758898883,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199420,
+        "num": 199420,
+        "word": "向往的生活彩灯去世",
+        "onboard_time": 1758898523,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188711,
+        "num": 188711,
+        "word": "埃及失联中国女孩母亲发声",
+        "onboard_time": 1758898943,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187692,
+        "num": 187692,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170123,
+        "num": 170123,
+        "word": "22岁小伙摔倒被误认留守老人",
+        "onboard_time": 1758896604,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162912,
+        "num": 162912,
+        "word": "张杰谢娜结婚周年照",
+        "onboard_time": 1758899363,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502705,
+        "num": 162464,
+        "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+        "onboard_time": 1758896183,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171659,
+        "num": 162113,
+        "word": "华南理工",
+        "onboard_time": 1758889822,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159433,
+        "num": 159433,
+        "word": "汪苏泷怎么来观众席唱了",
+        "onboard_time": 1758899663,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158405,
+        "num": 158405,
+        "word": "刘宇宁演唱会好多业内大佬",
+        "onboard_time": 1758901402,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156560,
+        "num": 156560,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140522,
+        "num": 140522,
+        "word": "乔妍的心事0提",
+        "onboard_time": 1758896663,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101583,
+        "num": 101583,
+        "word": "肖战湾区升明月唱整晚的音乐",
+        "onboard_time": 1758898462,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89543,
+        "num": 89543,
+        "word": "台湾是中国的一个省从不是一个国家",
+        "onboard_time": 1758896004,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82655,
+        "num": 82655,
+        "word": "中国科学家或收到平行宇宙诡异信号",
+        "onboard_time": 1758894384,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 59223,
+        "num": 78405,
+        "word": "米兰时装周",
+        "onboard_time": 1758901642,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 83621,
+        "num": 77779,
+        "word": "刘宇宁衣服很贵多穿一会",
+        "onboard_time": 1758898342,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76808,
+        "num": 76808,
+        "word": "赵小童 我们宿舍的太牛了",
+        "onboard_time": 1758901343,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70543,
+        "num": 70543,
+        "word": "彭昱畅瘦了",
+        "onboard_time": 1758902120,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69109,
+        "num": 69109,
+        "word": "段奥娟提名大爆冷",
+        "onboard_time": 1758880102,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44768,
+        "num": 69108,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57831,
+        "num": 69108,
+        "word": "向往的生活开播",
+        "onboard_time": 1758896542,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56901,
+        "num": 69106,
+        "word": "TFBOYS怎么都变回小时候了",
+        "onboard_time": 1758884360,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51904,
+        "num": 69105,
+        "word": "赴山海大结局",
+        "onboard_time": 1758884720,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43458,
+        "num": 69104,
+        "word": "女生和朋友捡秋意外捡到红豆",
+        "onboard_time": 1758901880,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42121,
+        "num": 69103,
+        "word": "资产上亿女老板疑被骗泰国最新进展",
+        "onboard_time": 1758887181,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48944,
+        "num": 69101,
+        "word": "战至巅峰",
+        "onboard_time": 1758900203,
+        "rank": 30,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 48294,
+        "num": 69100,
+        "word": "辛芷蕾这一身王菲来了都得愣两秒",
+        "onboard_time": 1758878900,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47783,
+        "num": 69099,
+        "word": "张婧仪骨相",
+        "onboard_time": 1758888260,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47289,
+        "num": 69098,
+        "word": "毕雯珺唱了慢慢",
+        "onboard_time": 1758901521,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41082,
+        "num": 69098,
+        "word": "王安宇张天爱演了个被片名耽误的电影",
+        "onboard_time": 1758903920,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40772,
+        "num": 69097,
+        "word": "宋亚轩一点没给李飞留面子",
+        "onboard_time": 1758893903,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40016,
+        "num": 69095,
+        "word": "大爷无证驾驶一年多违章279条",
+        "onboard_time": 1758904759,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40874,
+        "num": 69094,
+        "word": "张婧仪第二套G社生图",
+        "onboard_time": 1758899242,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37173,
+        "num": 69093,
+        "word": "曝iPhone17国内首周激活销量",
+        "onboard_time": 1758883221,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34050,
+        "num": 69092,
+        "word": "法院通报警车出现在150公里外山姆",
+        "onboard_time": 1758896481,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38983,
+        "num": 69091,
+        "word": "萧秋水李沉舟肖明明都下线了",
+        "onboard_time": 1758905659,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37288,
+        "num": 69089,
+        "word": "赴山海编剧",
+        "onboard_time": 1758894863,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34953,
+        "num": 69089,
+        "word": "孟子义早期眉眼",
+        "onboard_time": 1758881180,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33697,
+        "num": 69087,
+        "word": "中国女孩在埃及失联",
+        "onboard_time": 1758904879,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33543,
+        "num": 69086,
+        "word": "JDG战胜WBG",
+        "onboard_time": 1758890841,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32452,
+        "num": 69085,
+        "word": "舒淇获奖感谢冯德伦",
+        "onboard_time": 1758896423,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30873,
+        "num": 69084,
+        "word": "宋亚轩还记得和王牌家族的所有回忆",
+        "onboard_time": 1758907038,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29943,
+        "num": 69083,
+        "word": "好利来门店回应月饼27元一块",
+        "onboard_time": 1758878481,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25831,
+        "num": 69082,
+        "word": "媒体评男子曝妻子出轨博士",
+        "onboard_time": 1758908057,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24635,
+        "num": 69081,
+        "word": "官方回应女院长在老人面前热舞",
+        "onboard_time": 1758907516,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把祖国的新疆建设得越来越美好#"
+    }
+  }
+}

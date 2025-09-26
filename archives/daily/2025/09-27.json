@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758907322668,
+  "endTime": 1758908368690,
   "band_list": [
     {
       "raw_hot": 1035595,
@@ -267,20 +267,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82655,
+      "num": 93764,
+      "word": "中国科学家或收到平行宇宙诡异信号",
+      "onboard_time": 1758894384,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 75953,
       "num": 86655,
       "word": "张婧仪骨相",
       "onboard_time": 1758888260,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75598,
-      "num": 93764,
-      "word": "中国科学家或收到平行宇宙诡异信号",
-      "onboard_time": 1758894384,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 74890,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 51498,
-      "num": 60893,
+      "num": 69091,
       "word": "萧秋水李沉舟肖明明都下线了",
       "onboard_time": 1758905659,
       "rank": 35,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 42861,
-      "num": 60874,
+      "num": 69095,
       "word": "大爷无证驾驶一年多违章279条",
       "onboard_time": 1758904759,
       "rank": 36,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 39255,
-      "num": 60784,
+      "num": 69093,
       "word": "曝iPhone17国内首周激活销量",
       "onboard_time": 1758883221,
       "rank": 43,
@@ -451,12 +451,36 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 34953,
+      "num": 69089,
+      "word": "孟子义早期眉眼",
+      "onboard_time": 1758881180,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33845,
-      "num": 60731,
+      "num": 69084,
       "word": "宋亚轩还记得和王牌家族的所有回忆",
       "onboard_time": 1758907038,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25831,
+      "num": 69082,
+      "word": "媒体评男子曝妻子出轨博士",
+      "onboard_time": 1758908057,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24635,
+      "num": 69081,
+      "word": "官方回应女院长在老人面前热舞",
+      "onboard_time": 1758907516,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13509,
