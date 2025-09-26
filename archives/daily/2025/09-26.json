@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758876364150,
+  "endTime": 1758878875562,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -123,6 +123,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 866782,
+      "num": 866782,
+      "word": "WTT抽签",
+      "onboard_time": 1758875539,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 758287,
       "num": 471658,
       "word": "易烊千玺代言理想",
@@ -219,6 +227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 581016,
+      "num": 581016,
+      "word": "王暖暖称不离婚孩子还要赡养对方",
+      "onboard_time": 1758869781,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530392,
       "num": 530392,
       "word": "广电总局称坚决抵制违法失德人员",
@@ -243,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 502471,
+      "num": 477174,
+      "word": "许佳琪回应脸变了",
+      "onboard_time": 1758872361,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497829,
       "num": 497829,
       "word": "王暖暖称5年间几乎无收入",
@@ -265,14 +289,6 @@
       "onboard_time": 1758870740,
       "rank": 28,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 447379,
-      "num": 447379,
-      "word": "王暖暖称不离婚孩子还要赡养对方",
-      "onboard_time": 1758869781,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 428342,
@@ -305,6 +321,14 @@
       "onboard_time": 1758871521,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421355,
+      "num": 421355,
+      "word": "南京照相馆角逐奥斯卡",
+      "onboard_time": 1758874701,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 416346,
@@ -345,14 +369,6 @@
       "onboard_time": 1758858201,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 382605,
-      "num": 382605,
-      "word": "WTT抽签",
-      "onboard_time": 1758875539,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 378650,
@@ -427,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350211,
+      "num": 350211,
+      "word": "中方向日方已提出严正交涉",
+      "onboard_time": 1758877099,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 342268,
       "num": 342268,
       "word": "苍兰诀2九渊高燃归来",
@@ -497,6 +521,14 @@
       "onboard_time": 1758860542,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290408,
+      "num": 205466,
+      "word": "手洗内裤vs洗衣机洗内裤",
+      "onboard_time": 1758877821,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 290085,
@@ -635,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225996,
+      "num": 238574,
+      "word": "高糖主食黑名单",
+      "onboard_time": 1758873740,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 221860,
       "num": 221860,
       "word": "台湾花莲灾后3天仍无救援",
@@ -707,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206102,
-      "num": 337209,
-      "word": "南京照相馆角逐奥斯卡",
-      "onboard_time": 1758874701,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 207212,
+      "num": 207212,
+      "word": "战至巅峰赛制",
+      "onboard_time": 1758877700,
+      "rank": 17,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 205721,
@@ -755,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201585,
+      "num": 204371,
+      "word": "易烊千玺仍有望成最年轻金鸡影帝",
+      "onboard_time": 1758878059,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201343,
       "num": 143069,
       "word": "杨紫家业热度",
@@ -769,6 +817,14 @@
       "onboard_time": 1758871281,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199037,
+      "num": 199037,
+      "word": "美国男子追杀恋童癖老人",
+      "onboard_time": 1758874941,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 198298,
@@ -793,14 +849,6 @@
       "onboard_time": 1758861263,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196881,
-      "num": 196881,
-      "word": "美国男子追杀恋童癖老人",
-      "onboard_time": 1758874941,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 196520,
@@ -857,14 +905,6 @@
       "onboard_time": 1758853280,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189012,
-      "num": 250307,
-      "word": "许佳琪回应脸变了",
-      "onboard_time": 1758872361,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 188063,
@@ -1051,12 +1091,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163613,
+      "num": 163613,
+      "word": "王楚钦雨果出席抽签仪式",
+      "onboard_time": 1758877821,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161397,
       "num": 161397,
       "word": "闪耀暖暖",
       "onboard_time": 1758855020,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159636,
+      "num": 159636,
+      "word": "男方妈妈称该坐牢的是王暖暖",
+      "onboard_time": 1758876501,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159467,
@@ -1227,12 +1283,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142639,
-      "num": 238574,
-      "word": "高糖主食黑名单",
-      "onboard_time": 1758873740,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 142477,
+      "num": 163065,
+      "word": "是郑晓龙的剧这把稳了",
+      "onboard_time": 1758878540,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 141116,
@@ -1347,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133437,
+      "num": 311508,
+      "word": "当地回应男子雪山滑坠身亡",
+      "onboard_time": 1758875480,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132915,
       "num": 132915,
       "word": "李承铉让披哥集体红眼病犯了",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1758875901,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128321,
+      "num": 128321,
+      "word": "JDG对战WBG",
+      "onboard_time": 1758877580,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 128151,
@@ -1451,6 +1523,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124855,
+      "num": 124855,
+      "word": "向往的生活",
+      "onboard_time": 1758877400,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124642,
+      "num": 124642,
+      "word": "有肖战谁还玩手机",
+      "onboard_time": 1758876021,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124288,
+      "num": 124288,
+      "word": "汪苏泷巡演福州站",
+      "onboard_time": 1758878540,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122910,
       "num": 122910,
       "word": "米兰时装周G社生图",
@@ -1491,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118973,
-      "num": 117516,
-      "word": "有肖战谁还玩手机",
-      "onboard_time": 1758876021,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118344,
       "num": 275797,
       "word": "上海绿捷被立案又中标学校食堂",
@@ -1513,6 +1601,14 @@
       "onboard_time": 1758861563,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117715,
+      "num": 117715,
+      "word": "好利来门店回应月饼27元一块",
+      "onboard_time": 1758878481,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117513,
@@ -1737,6 +1833,14 @@
       "onboard_time": 1758866781,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100226,
+      "num": 100226,
+      "word": "国庆假期坐火车什么不能带",
+      "onboard_time": 1758878241,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100087,
@@ -2243,12 +2347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51361,
-      "num": 311508,
-      "word": "当地回应男子雪山滑坠身亡",
-      "onboard_time": 1758875480,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 50932,
+      "num": 162865,
+      "word": "为什么理想i6这么好开",
+      "onboard_time": 1758877521,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 48271,
@@ -2267,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45208,
+      "num": 207162,
+      "word": "沃尔沃XC70混得超好",
+      "onboard_time": 1758877580,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45161,
       "num": 228777,
       "word": "李现关晓彤Prada大秀同框",
@@ -2281,6 +2393,14 @@
       "onboard_time": 1758856281,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 41504,
+      "num": 665929,
+      "word": "石榴红了满天山",
+      "onboard_time": 1758860361,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41073,
@@ -2440,14 +2560,6 @@
       "word": "求职者需刺激老板5次才能入职",
       "onboard_time": 1758864921,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25233,
-      "num": 662573,
-      "word": "石榴红了满天山",
-      "onboard_time": 1758860361,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
