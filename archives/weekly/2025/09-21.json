@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758886635070,
+  "endTime": 1758891080338,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -1835,6 +1835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 703344,
+      "num": 177174,
+      "word": "华南理工",
+      "onboard_time": 1758889822,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 702687,
       "num": 492642,
       "word": "垫底辣孩回应丑出圈",
@@ -2155,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628772,
+      "num": 450201,
+      "word": "舒淇釜山电影节最佳导演",
+      "onboard_time": 1758887541,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 626897,
       "num": 626897,
       "word": "金正恩强调朝鲜不会无核化",
@@ -2291,6 +2307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 592584,
+      "num": 592584,
+      "word": "女童被碾过致死案车主服刑十月已满",
+      "onboard_time": 1758881421,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 590530,
       "num": 590530,
       "word": "超强台风桦加沙位置更新",
@@ -2337,6 +2361,14 @@
       "onboard_time": 1758467485,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 579442,
+      "num": 351249,
+      "word": "辛芷蕾封后后首封",
+      "onboard_time": 1758886941,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 577498,
@@ -3851,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354072,
+      "num": 354072,
+      "word": "养老院已删上百条热舞女院长视频",
+      "onboard_time": 1758882861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352376,
       "num": 352376,
       "word": "张继科点评男乒最强正反手",
@@ -3905,6 +3945,14 @@
       "onboard_time": 1758857001,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 341934,
+      "num": 341934,
+      "word": "资产上亿女老板疑被骗泰国最新进展",
+      "onboard_time": 1758887181,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340124,
@@ -6323,14 +6371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206893,
-      "num": 206893,
-      "word": "女童被碾过致死案车主服刑十月已满",
-      "onboard_time": 1758881421,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206718,
       "num": 199975,
       "word": "谢娜女儿跳跳也有自己的代言人了",
@@ -6393,6 +6433,14 @@
       "onboard_time": 1758450743,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205809,
+      "num": 176614,
+      "word": "张婧仪骨相",
+      "onboard_time": 1758888260,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 205778,
@@ -8331,6 +8379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177281,
+      "num": 177281,
+      "word": "JDG对战WBG",
+      "onboard_time": 1758877580,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177120,
       "num": 244789,
       "word": "王俊凯平遥生图",
@@ -8441,6 +8497,14 @@
       "onboard_time": 1758507981,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175107,
+      "num": 175107,
+      "word": "徐艺洋 你们就想让我推荐黄子韬呗",
+      "onboard_time": 1758890061,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 174799,
@@ -9411,6 +9475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161408,
+      "num": 161408,
+      "word": "JDG战胜WBG",
+      "onboard_time": 1758890841,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161397,
       "num": 161397,
       "word": "闪耀暖暖",
@@ -9875,6 +9947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155735,
+      "num": 155735,
+      "word": "原来把别人牙打掉了要赔这么多钱",
+      "onboard_time": 1758889101,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 155693,
       "num": 155693,
       "word": "九尾流鼻涕也要吃冰淇淋",
@@ -10099,6 +10179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153067,
+      "num": 153067,
+      "word": "常华森在国外帅成啥了",
+      "onboard_time": 1758885981,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153049,
       "num": 155210,
       "word": "以色列总理称从美回国后必作回应",
@@ -10241,6 +10329,14 @@
       "onboard_time": 1758681620,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151531,
+      "num": 151531,
+      "word": "宋亚轩还记得18岁沈腾送他的大雨",
+      "onboard_time": 1758889760,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 151529,
@@ -10755,6 +10851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146436,
+      "num": 146436,
+      "word": "北大月饼",
+      "onboard_time": 1758889101,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146162,
       "num": 146162,
       "word": "西贝故事会",
@@ -10977,14 +11081,6 @@
       "onboard_time": 1758715403,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144440,
-      "num": 144440,
-      "word": "常华森在国外帅成啥了",
-      "onboard_time": 1758885981,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 144411,
@@ -11243,14 +11339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142331,
-      "num": 142331,
-      "word": "养老院已删上百条热舞女院长视频",
-      "onboard_time": 1758882861,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142179,
       "num": 142179,
       "word": "99年女硕士刚毕业就意外截瘫",
@@ -11440,6 +11528,14 @@
       "word": "董璇张维伊婚礼路透",
       "onboard_time": 1758413240,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140458,
+      "num": 140458,
+      "word": "汪苏泷眼光",
+      "onboard_time": 1758886639,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -11907,6 +12003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136166,
+      "num": 136166,
+      "word": "易烊千玺和周政杰是大学舍友",
+      "onboard_time": 1758886880,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136063,
       "num": 136063,
       "word": "印媒关注中国K签证",
@@ -11953,6 +12057,14 @@
       "onboard_time": 1758709642,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135741,
+      "num": 135741,
+      "word": "李宇春抢票",
+      "onboard_time": 1758890424,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 135523,
@@ -12299,6 +12411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131979,
+      "num": 131979,
+      "word": "沃尔沃XC70",
+      "onboard_time": 1758890361,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131949,
       "num": 131949,
       "word": "罗永浩回上海了",
@@ -12643,6 +12763,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 128976,
+      "num": 128976,
+      "word": "吴磊又把车骑到了伦敦",
+      "onboard_time": 1758890720,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128884,
       "num": 128362,
       "word": "以为闲聊其实是套话的行为",
@@ -12705,14 +12833,6 @@
       "onboard_time": 1758456262,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128321,
-      "num": 128321,
-      "word": "JDG对战WBG",
-      "onboard_time": 1758877580,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 128285,
@@ -12977,6 +13097,14 @@
       "onboard_time": 1758632423,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126155,
+      "num": 126155,
+      "word": "段奥娟回应提名金鸡影后",
+      "onboard_time": 1758888080,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 126011,
@@ -13387,6 +13515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122380,
+      "num": 122380,
+      "word": "官方通报女乘务员拍肩乘客称力度太大",
+      "onboard_time": 1758887541,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122333,
       "num": 135034,
       "word": "苏醒想要女儿的心快压不住了",
@@ -13601,6 +13737,14 @@
       "onboard_time": 1758616762,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120666,
+      "num": 120666,
+      "word": "何秋亊复播",
+      "onboard_time": 1758888260,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 120442,
@@ -14105,6 +14249,14 @@
       "onboard_time": 1758453801,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116493,
+      "num": 116493,
+      "word": "鸣潮",
+      "onboard_time": 1758889101,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 116314,
@@ -15035,6 +15187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 106457,
+      "num": 106457,
+      "word": "王暖暖感谢媒体保护了她的儿子",
+      "onboard_time": 1758888142,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106424,
       "num": 106424,
       "word": "惠英红又提名金鸡奖了",
@@ -15137,6 +15297,14 @@
       "onboard_time": 1758708983,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105645,
+      "num": 151876,
+      "word": "海尔吴总在线实现网友冰箱许愿",
+      "onboard_time": 1758890242,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105453,
@@ -15297,6 +15465,14 @@
       "onboard_time": 1758617420,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104150,
+      "num": 104150,
+      "word": "朱一龙毛里求斯潜水封面",
+      "onboard_time": 1758891022,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104134,
@@ -17267,6 +17443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70858,
+      "num": 132349,
+      "word": "王楚钦看到WTT宣传片表情亮了",
+      "onboard_time": 1758889941,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70842,
       "num": 521180,
       "word": "第五代骁龙8至尊版",
@@ -18577,6 +18761,14 @@
       "onboard_time": 1758489315,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47045,
+      "num": 176708,
+      "word": "徐志胜也没抢到自己发的红包",
+      "onboard_time": 1758888800,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 46969,
@@ -20203,6 +20395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20945,
+      "num": 176990,
+      "word": "用智搜把王牌百期盘包浆",
+      "onboard_time": 1758889280,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20725,
       "num": 146246,
       "word": "消失的她原型王暖暖离婚案本周开庭",
@@ -20641,6 +20841,14 @@
       "onboard_time": 1758621382,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7609,
+      "num": 132982,
+      "word": "张继科说打乒乓球比羽毛球便宜",
+      "onboard_time": 1758890781,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 4221,

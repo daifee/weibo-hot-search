@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 19:37:15
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 20:51:20
 </p>
 </blockquote>
 <p>
@@ -5877,6 +5877,12 @@ AG对战WB（热度：703400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23" target="weibo">
+华南理工（热度：703344）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%80%E9%98%85%E9%83%A8%E9%98%9F%23" target="weibo">
 检阅部队（热度：702775）
 </a>
@@ -6005,12 +6011,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E7%A9%BF%E5%86%85%E8%A3%A4%E9%AA%91%E5%B9%B3%E8%A1%A1%E8%BD%A6%23" target="weibo">
 比伯穿内裤骑平衡车（热度：692201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%20%E5%AE%9E%E5%86%B5%23" target="weibo">
-微信聊天 实况（热度：692023）
 </a>
 </li>
 
