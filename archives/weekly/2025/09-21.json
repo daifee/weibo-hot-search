@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758871501152,
+  "endTime": 1758872270746,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -739,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1084378,
+      "num": 1173500,
+      "word": "健康码行程码记得解绑",
+      "onboard_time": 1758865460,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1066434,
       "num": 400453,
       "word": "蓝战非",
@@ -960,14 +968,6 @@
       "word": "珠海网友家被台风刮来一张千元港币",
       "onboard_time": 1758767060,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 966390,
-      "num": 1154622,
-      "word": "健康码行程码记得解绑",
-      "onboard_time": 1758865460,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1827,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689924,
+      "num": 548133,
+      "word": "沈佳润闷声干大事",
+      "onboard_time": 1758869422,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 688074,
       "num": 688074,
       "word": "桦加沙已致台湾花莲124人失联",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1758633863,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 676381,
-      "num": 386925,
-      "word": "沈佳润闷声干大事",
-      "onboard_time": 1758869422,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 675145,
@@ -2476,7 +2476,7 @@
     },
     {
       "raw_hot": 551459,
-      "num": 349638,
+      "num": 546503,
       "word": "五字哥哥和四字弟弟合影了",
       "onboard_time": 1758866661,
       "rank": 15,
@@ -3016,6 +3016,14 @@
       "word": "年薪20万属于什么水平",
       "onboard_time": 1758790641,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444359,
+      "num": 444359,
+      "word": "上海老洋房从1.5亿降至8299万仍流拍",
+      "onboard_time": 1758866241,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -3707,6 +3715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350626,
+      "num": 229600,
+      "word": "赴山海第三十一集穿帮镜头",
+      "onboard_time": 1758868939,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349266,
       "num": 349266,
       "word": "苏新皓受伤",
@@ -3873,6 +3889,14 @@
       "onboard_time": 1758456623,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326154,
+      "num": 326154,
+      "word": "段奥娟曾回应电影首秀被提名",
+      "onboard_time": 1758868939,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 325743,
@@ -4219,14 +4243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296401,
-      "num": 296401,
-      "word": "上海老洋房从1.5亿降至8299万仍流拍",
-      "onboard_time": 1758866241,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295642,
       "num": 386025,
       "word": "桦加沙降临前深圳现奇异天象",
@@ -4257,14 +4273,6 @@
       "onboard_time": 1758459863,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 293312,
-      "num": 230548,
-      "word": "段奥娟曾回应电影首秀被提名",
-      "onboard_time": 1758868939,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 291418,
@@ -4497,14 +4505,6 @@
       "onboard_time": 1758862642,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278817,
-      "num": 229600,
-      "word": "赴山海第三十一集穿帮镜头",
-      "onboard_time": 1758868939,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 278756,
@@ -5099,6 +5099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244819,
+      "num": 244819,
+      "word": "济南通报中学教师体罚学生调查结果",
+      "onboard_time": 1758870740,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 243821,
       "num": 243821,
       "word": "鸡排哥在事业上升期公布秘方",
@@ -5665,6 +5673,14 @@
       "onboard_time": 1758780922,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216059,
+      "num": 200541,
+      "word": "乌萨奇 你是汉族吗",
+      "onboard_time": 1758868760,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 216034,
@@ -6235,6 +6251,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 203550,
+      "num": 286124,
+      "word": "2岁男童因一口热汤住进ICU",
+      "onboard_time": 1758863781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203508,
       "num": 203508,
       "word": "徐瑛彬王艺迪入选国乒混团阵容",
@@ -6449,6 +6473,14 @@
       "onboard_time": 1758706462,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199303,
+      "num": 199303,
+      "word": "向往的生活开播海报",
+      "onboard_time": 1758871521,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 199134,
@@ -6771,14 +6803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195059,
-      "num": 286124,
-      "word": "2岁男童因一口热汤住进ICU",
-      "onboard_time": 1758863781,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194868,
       "num": 194868,
       "word": "穆祉丞直播",
@@ -6979,6 +7003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191953,
+      "num": 191953,
+      "word": "黄薇 尚公主妆造",
+      "onboard_time": 1758868282,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191854,
       "num": 191854,
       "word": "几句话让检察官落泪了",
@@ -7059,14 +7091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191132,
-      "num": 191132,
-      "word": "乌萨奇 你是汉族吗",
-      "onboard_time": 1758868760,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 190821,
       "num": 190821,
       "word": "今年秋天千禧风又杀回来了",
@@ -7113,14 +7137,6 @@
       "onboard_time": 1758553883,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189740,
-      "num": 189740,
-      "word": "黄薇 尚公主妆造",
-      "onboard_time": 1758868282,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 189600,
@@ -8443,6 +8459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170059,
+      "num": 170059,
+      "word": "刘宇被越南明星抄袭",
+      "onboard_time": 1758871521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169694,
       "num": 169694,
       "word": "桦加沙已在阳江登陆",
@@ -9251,6 +9275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159203,
+      "num": 194700,
+      "word": "那玛峰滑坠驴友遗体已找到",
+      "onboard_time": 1758868640,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159029,
       "num": 159029,
       "word": "台风桦加沙停止编号",
@@ -9497,6 +9529,14 @@
       "onboard_time": 1758518062,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155603,
+      "num": 155603,
+      "word": "王暖暖称不离婚孩子还要赡养对方",
+      "onboard_time": 1758869781,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155527,
@@ -9833,6 +9873,14 @@
       "onboard_time": 1758681620,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151529,
+      "num": 151529,
+      "word": "张新成王玉雯米兰约饭",
+      "onboard_time": 1758869180,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 151418,
@@ -10201,14 +10249,6 @@
       "onboard_time": 1758612082,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 147792,
-      "num": 147792,
-      "word": "济南通报中学教师体罚学生调查结果",
-      "onboard_time": 1758870740,
-      "rank": 28,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 147755,
@@ -10731,14 +10771,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 142459,
-      "num": 142459,
-      "word": "张新成王玉雯米兰约饭",
-      "onboard_time": 1758869180,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142418,
       "num": 142418,
       "word": "12级风圈中惊涛拍岸具象化了",
@@ -10777,14 +10809,6 @@
       "onboard_time": 1758442281,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142310,
-      "num": 194700,
-      "word": "那玛峰滑坠驴友遗体已找到",
-      "onboard_time": 1758868640,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142179,
@@ -11347,14 +11371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136377,
-      "num": 136377,
-      "word": "王暖暖称不离婚孩子还要赡养对方",
-      "onboard_time": 1758869781,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136373,
       "num": 136373,
       "word": "BLG决赛更换打野",
@@ -11497,6 +11513,14 @@
       "onboard_time": 1758769401,
       "rank": 37,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 135257,
+      "num": 135257,
+      "word": "怎么样才知道自己睡饱了",
+      "onboard_time": 1758871641,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 135209,
@@ -11753,6 +11777,14 @@
       "onboard_time": 1758695362,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132135,
+      "num": 132135,
+      "word": "Doinb曝明年iG中上不变",
+      "onboard_time": 1758871401,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 132005,
@@ -14811,14 +14843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100768,
-      "num": 100768,
-      "word": "Doinb曝明年iG中上不变",
-      "onboard_time": 1758871401,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 100749,
       "num": 100749,
       "word": "皮亚斯特里的观赛位置",
@@ -14857,6 +14881,14 @@
       "onboard_time": 1758780260,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99976,
+      "num": 99976,
+      "word": "邢菲 红气养人",
+      "onboard_time": 1758872242,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 99963,
@@ -14961,6 +14993,14 @@
       "onboard_time": 1758432261,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 98827,
+      "num": 98827,
+      "word": "陈小春被KnowKnow训的反应",
+      "onboard_time": 1758872181,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 98475,
@@ -15651,6 +15691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 88417,
+      "num": 120516,
+      "word": "花莲政府人员称台湾没救了",
+      "onboard_time": 1758871160,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88403,
       "num": 88403,
       "word": "莫雷加德去吃了北京烤鸭",
@@ -16025,14 +16073,6 @@
       "onboard_time": 1758852621,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 82024,
-      "num": 118244,
-      "word": "花莲政府人员称台湾没救了",
-      "onboard_time": 1758871160,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81888,
@@ -17827,6 +17867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45161,
+      "num": 228777,
+      "word": "李现关晓彤Prada大秀同框",
+      "onboard_time": 1758870380,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 44470,
       "num": 174020,
       "word": "年薪几百万博士高管从房企辞职",
@@ -18323,6 +18371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36349,
+      "num": 120820,
+      "word": "刘萧旭简介 清冷佛子",
+      "onboard_time": 1758872120,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36274,
       "num": 235757,
       "word": "安踏真的理解重金收购的品牌吗",
@@ -18755,6 +18811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30048,
+      "num": 548375,
+      "word": "未成年人网络保护",
+      "onboard_time": 1758859581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30041,
       "num": 100150,
       "word": "信用卡6年被收3万额外息费",
@@ -18955,14 +19019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28086,
-      "num": 403985,
-      "word": "未成年人网络保护",
-      "onboard_time": 1758859581,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28022,
       "num": 598270,
       "word": "这是人民空军带来的震撼与浪漫",
@@ -19001,14 +19057,6 @@
       "onboard_time": 1758503661,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26903,
-      "num": 228777,
-      "word": "李现关晓彤Prada大秀同框",
-      "onboard_time": 1758870380,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 26766,

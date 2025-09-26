@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758871501152,
+  "endTime": 1758872270746,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3835,6 +3835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1084378,
+      "num": 1173500,
+      "word": "健康码行程码记得解绑",
+      "onboard_time": 1758865460,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1083260,
       "num": 460711,
       "word": "骑手称配送死鳄鱼结果半路活了",
@@ -4609,14 +4617,6 @@
       "onboard_time": 1757040320,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 966390,
-      "num": 1154622,
-      "word": "健康码行程码记得解绑",
-      "onboard_time": 1758865460,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 965473,
@@ -7971,6 +7971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 689924,
+      "num": 548133,
+      "word": "沈佳润闷声干大事",
+      "onboard_time": 1758869422,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 689683,
       "num": 524399,
       "word": "D4vd车厢藏尸死者为15岁女孩",
@@ -8161,14 +8169,6 @@
       "onboard_time": 1757658265,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 676381,
-      "num": 386925,
-      "word": "沈佳润闷声干大事",
-      "onboard_time": 1758869422,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 676295,
@@ -10476,7 +10476,7 @@
     },
     {
       "raw_hot": 551459,
-      "num": 349638,
+      "num": 546503,
       "word": "五字哥哥和四字弟弟合影了",
       "onboard_time": 1758866661,
       "rank": 15,
@@ -13505,6 +13505,14 @@
       "onboard_time": 1757154800,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 444359,
+      "num": 444359,
+      "word": "上海老洋房从1.5亿降至8299万仍流拍",
+      "onboard_time": 1758866241,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444342,
@@ -17171,6 +17179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350626,
+      "num": 229600,
+      "word": "赴山海第三十一集穿帮镜头",
+      "onboard_time": 1758868939,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350429,
       "num": 475840,
       "word": "贾国龙称罗永浩就是要干西贝",
@@ -18201,6 +18217,14 @@
       "onboard_time": 1758250582,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326154,
+      "num": 326154,
+      "word": "段奥娟曾回应电影首秀被提名",
+      "onboard_time": 1758868939,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 325793,
@@ -19611,14 +19635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296401,
-      "num": 296401,
-      "word": "上海老洋房从1.5亿降至8299万仍流拍",
-      "onboard_time": 1758866241,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296386,
       "num": 391532,
       "word": "张晚意美美桑内一个劲的叭叭",
@@ -19841,14 +19857,6 @@
       "onboard_time": 1757147781,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 293312,
-      "num": 230548,
-      "word": "段奥娟曾回应电影首秀被提名",
-      "onboard_time": 1758868939,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 293168,
@@ -20681,14 +20689,6 @@
       "onboard_time": 1758862642,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278817,
-      "num": 229600,
-      "word": "赴山海第三十一集穿帮镜头",
-      "onboard_time": 1758868939,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 278756,
@@ -22921,6 +22921,14 @@
       "onboard_time": 1757034922,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244819,
+      "num": 244819,
+      "word": "济南通报中学教师体罚学生调查结果",
+      "onboard_time": 1758870740,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 244714,
@@ -25659,6 +25667,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 216059,
+      "num": 200541,
+      "word": "乌萨奇 你是汉族吗",
+      "onboard_time": 1758868760,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 216034,
       "num": 216034,
       "word": "入青云",
@@ -27547,6 +27563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203550,
+      "num": 286124,
+      "word": "2岁男童因一口热汤住进ICU",
+      "onboard_time": 1758863781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203537,
       "num": 200269,
       "word": "华晨宇唱着唱着被举起来了",
@@ -28465,6 +28489,14 @@
       "onboard_time": 1757132422,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199303,
+      "num": 199303,
+      "word": "向往的生活开播海报",
+      "onboard_time": 1758871521,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 199295,
@@ -29531,14 +29563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195059,
-      "num": 286124,
-      "word": "2岁男童因一口热汤住进ICU",
-      "onboard_time": 1758863781,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195016,
       "num": 195016,
       "word": "日本男乒澳门赛首轮全部出局",
@@ -30435,6 +30459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191953,
+      "num": 191953,
+      "word": "黄薇 尚公主妆造",
+      "onboard_time": 1758868282,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191896,
       "num": 191896,
       "word": "BLG选择JDG",
@@ -30697,14 +30729,6 @@
       "onboard_time": 1756788923,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191132,
-      "num": 191132,
-      "word": "乌萨奇 你是汉族吗",
-      "onboard_time": 1758868760,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 191110,
@@ -31049,14 +31073,6 @@
       "onboard_time": 1756969341,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 189740,
-      "num": 189740,
-      "word": "黄薇 尚公主妆造",
-      "onboard_time": 1758868282,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 189655,
@@ -35755,6 +35771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170059,
+      "num": 170059,
+      "word": "刘宇被越南明星抄袭",
+      "onboard_time": 1758871521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170016,
       "num": 305571,
       "word": "苹果市值一夜蒸发超3700亿",
@@ -39035,6 +39059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159203,
+      "num": 194700,
+      "word": "那玛峰滑坠驴友遗体已找到",
+      "onboard_time": 1758868640,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159170,
       "num": 133175,
       "word": "章凝 Miguel",
@@ -40065,6 +40097,14 @@
       "onboard_time": 1758518062,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155603,
+      "num": 155603,
+      "word": "王暖暖称不离婚孩子还要赡养对方",
+      "onboard_time": 1758869781,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155572,
@@ -41417,6 +41457,14 @@
       "onboard_time": 1758681620,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151529,
+      "num": 151529,
+      "word": "张新成王玉雯米兰约饭",
+      "onboard_time": 1758869180,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 151520,
@@ -42889,14 +42937,6 @@
       "onboard_time": 1757683767,
       "rank": 41,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 147792,
-      "num": 147792,
-      "word": "济南通报中学教师体罚学生调查结果",
-      "onboard_time": 1758870740,
-      "rank": 28,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 147781,
@@ -45051,14 +45091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142459,
-      "num": 142459,
-      "word": "张新成王玉雯米兰约饭",
-      "onboard_time": 1758869180,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142457,
       "num": 142457,
       "word": "钟楚曦香港活动生图",
@@ -45169,14 +45201,6 @@
       "onboard_time": 1757067981,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 142310,
-      "num": 194700,
-      "word": "那玛峰滑坠驴友遗体已找到",
-      "onboard_time": 1758868640,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142265,
@@ -47587,14 +47611,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 136377,
-      "num": 136377,
-      "word": "王暖暖称不离婚孩子还要赡养对方",
-      "onboard_time": 1758869781,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136373,
       "num": 136373,
       "word": "BLG决赛更换打野",
@@ -48081,6 +48097,14 @@
       "onboard_time": 1758206002,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135257,
+      "num": 135257,
+      "word": "怎么样才知道自己睡饱了",
+      "onboard_time": 1758871641,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 135255,
@@ -49401,6 +49425,14 @@
       "onboard_time": 1758205883,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132135,
+      "num": 132135,
+      "word": "Doinb曝明年iG中上不变",
+      "onboard_time": 1758871401,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 132133,
@@ -63643,14 +63675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100768,
-      "num": 100768,
-      "word": "Doinb曝明年iG中上不变",
-      "onboard_time": 1758871401,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 100749,
       "num": 100749,
       "word": "皮亚斯特里的观赛位置",
@@ -63969,6 +63993,14 @@
       "onboard_time": 1757751383,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 99976,
+      "num": 99976,
+      "word": "邢菲 红气养人",
+      "onboard_time": 1758872242,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 99963,
@@ -64505,6 +64537,14 @@
       "onboard_time": 1756978642,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98827,
+      "num": 98827,
+      "word": "陈小春被KnowKnow训的反应",
+      "onboard_time": 1758872181,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 98808,
@@ -67923,6 +67963,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 88417,
+      "num": 120516,
+      "word": "花莲政府人员称台湾没救了",
+      "onboard_time": 1758871160,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88403,
       "num": 88403,
       "word": "莫雷加德去吃了北京烤鸭",
@@ -69769,14 +69817,6 @@
       "onboard_time": 1757730203,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82024,
-      "num": 118244,
-      "word": "花莲政府人员称台湾没救了",
-      "onboard_time": 1758871160,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81966,
@@ -77563,6 +77603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45161,
+      "num": 228777,
+      "word": "李现关晓彤Prada大秀同框",
+      "onboard_time": 1758870380,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 44939,
       "num": 73831,
       "word": "预加工 预制菜",
@@ -79259,6 +79307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36349,
+      "num": 120820,
+      "word": "刘萧旭简介 清冷佛子",
+      "onboard_time": 1758872120,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36318,
       "num": 49316,
       "word": "小豆泥",
@@ -80515,6 +80571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30048,
+      "num": 548375,
+      "word": "未成年人网络保护",
+      "onboard_time": 1758859581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30041,
       "num": 100150,
       "word": "信用卡6年被收3万额外息费",
@@ -80947,14 +81011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28086,
-      "num": 403985,
-      "word": "未成年人网络保护",
-      "onboard_time": 1758859581,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28022,
       "num": 598270,
       "word": "这是人民空军带来的震撼与浪漫",
@@ -81153,14 +81209,6 @@
       "onboard_time": 1757475085,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26903,
-      "num": 228777,
-      "word": "李现关晓彤Prada大秀同框",
-      "onboard_time": 1758870380,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 26892,

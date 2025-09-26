@@ -1,0 +1,410 @@
+{
+  "runTime": 1758872270746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084378,
+        "num": 1173500,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551649,
+        "num": 551649,
+        "word": "金鸡奖提名",
+        "onboard_time": 1758856881,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30048,
+        "num": 548375,
+        "word": "未成年人网络保护",
+        "onboard_time": 1758859581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689924,
+        "num": 548133,
+        "word": "沈佳润闷声干大事",
+        "onboard_time": 1758869422,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 546503,
+        "num": 546503,
+        "word": "五字哥哥和四字弟弟合影了",
+        "onboard_time": 1758866661,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 444359,
+        "num": 444359,
+        "word": "上海老洋房从1.5亿降至8299万仍流拍",
+        "onboard_time": 1758866241,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326154,
+        "num": 326154,
+        "word": "段奥娟曾回应电影首秀被提名",
+        "onboard_time": 1758868939,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244819,
+        "num": 244819,
+        "word": "济南通报中学教师体罚学生调查结果",
+        "onboard_time": 1758870740,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 227037,
+        "num": 227037,
+        "word": "A股",
+        "onboard_time": 1758869962,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203550,
+        "num": 203550,
+        "word": "2岁男童因一口热汤住进ICU",
+        "onboard_time": 1758863781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1462138,
+        "num": 203385,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 825439,
+        "num": 202875,
+        "word": "金鸡提名爆冷",
+        "onboard_time": 1758864501,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461416,
+        "num": 202317,
+        "word": "男子曝妻子出轨博士受害者还有孩子",
+        "onboard_time": 1758862823,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443524,
+        "num": 202168,
+        "word": "日本老人冰柜藏女儿尸体20年",
+        "onboard_time": 1758862162,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350626,
+        "num": 201511,
+        "word": "赴山海第三十一集穿帮镜头",
+        "onboard_time": 1758868939,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281810,
+        "num": 201131,
+        "word": "段奥娟秀影一",
+        "onboard_time": 1758865161,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216059,
+        "num": 200541,
+        "word": "乌萨奇 你是汉族吗",
+        "onboard_time": 1758868760,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200493,
+        "num": 200493,
+        "word": "酱园弄0提",
+        "onboard_time": 1758864501,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199303,
+        "num": 199303,
+        "word": "向往的生活开播海报",
+        "onboard_time": 1758871521,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45161,
+        "num": 199048,
+        "word": "李现关晓彤Prada大秀同框",
+        "onboard_time": 1758870380,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 458318,
+        "num": 198818,
+        "word": "白鹿与科比大女儿同框看秀",
+        "onboard_time": 1758860963,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 239757,
+        "num": 198472,
+        "word": "肖战一出来现场瞬间爆鸣",
+        "onboard_time": 1758860062,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202591,
+        "num": 198461,
+        "word": "日本人抨击外网侵华罪行视频",
+        "onboard_time": 1758865941,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198185,
+        "num": 198185,
+        "word": "鞠婧祎扛住了G社镜头",
+        "onboard_time": 1758858261,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195953,
+        "num": 195953,
+        "word": "这才是小时候的梦想电脑",
+        "onboard_time": 1758871281,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191953,
+        "num": 191953,
+        "word": "黄薇 尚公主妆造",
+        "onboard_time": 1758868282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191935,
+        "num": 191935,
+        "word": "麒麟 王楚钦",
+        "onboard_time": 1758854000,
+        "rank": 26,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 170059,
+        "num": 170059,
+        "word": "刘宇被越南明星抄袭",
+        "onboard_time": 1758871521,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159203,
+        "num": 159203,
+        "word": "那玛峰滑坠驴友遗体已找到",
+        "onboard_time": 1758868640,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122876,
+        "num": 156467,
+        "word": "30秒自查身份证是否被他人绑定",
+        "onboard_time": 1758848720,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155603,
+        "num": 155603,
+        "word": "王暖暖称不离婚孩子还要赡养对方",
+        "onboard_time": 1758869781,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151529,
+        "num": 151529,
+        "word": "张新成王玉雯米兰约饭",
+        "onboard_time": 1758869180,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143267,
+        "num": 143267,
+        "word": "蓝战非与亲戚断绝来往",
+        "onboard_time": 1758859281,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 135257,
+        "num": 135257,
+        "word": "怎么样才知道自己睡饱了",
+        "onboard_time": 1758871641,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132135,
+        "num": 132135,
+        "word": "Doinb曝明年iG中上不变",
+        "onboard_time": 1758871401,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126860,
+        "num": 126860,
+        "word": "白鹿拿G社当站姐用",
+        "onboard_time": 1758866424,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125026,
+        "num": 125026,
+        "word": "易烊千玺代言理想",
+        "onboard_time": 1758855500,
+        "rank": 36,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 121387,
+        "num": 121387,
+        "word": "最好的睡姿vs最差的睡姿",
+        "onboard_time": 1758861263,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36349,
+        "num": 120820,
+        "word": "刘萧旭简介 清冷佛子",
+        "onboard_time": 1758872120,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88417,
+        "num": 120516,
+        "word": "花莲政府人员称台湾没救了",
+        "onboard_time": 1758871160,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120358,
+        "num": 120358,
+        "word": "王暖暖庭审后透露庭审细节",
+        "onboard_time": 1758864263,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 118042,
+        "num": 118042,
+        "word": "花30万找千万网红带货销量为0",
+        "onboard_time": 1758866301,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109951,
+        "num": 109951,
+        "word": "内娱第一纯骗cp",
+        "onboard_time": 1758857901,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108727,
+        "num": 108727,
+        "word": "国庆假期带特产上飞机要注意啥",
+        "onboard_time": 1758871222,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107010,
+        "num": 107010,
+        "word": "成毅自己官宣自己的新剧",
+        "onboard_time": 1758867981,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103364,
+        "num": 103364,
+        "word": "芬兰希望取消五常一票否决权",
+        "onboard_time": 1758849501,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101495,
+        "num": 101495,
+        "word": "郑晓龙拍95花 章若楠林允张婧仪",
+        "onboard_time": 1758866661,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99976,
+        "num": 99976,
+        "word": "邢菲 红气养人",
+        "onboard_time": 1758872242,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98827,
+        "num": 98827,
+        "word": "陈小春被KnowKnow训的反应",
+        "onboard_time": 1758872181,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96664,
+        "num": 96664,
+        "word": "于正说杨幂赵丽颖太优秀了",
+        "onboard_time": 1758862642,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记新疆之行#"
+    }
+  }
+}
