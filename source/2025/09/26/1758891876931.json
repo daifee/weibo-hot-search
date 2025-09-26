@@ -1,0 +1,410 @@
+{
+  "runTime": 1758891876931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 747888,
+        "num": 1119662,
+        "word": "段奥娟提名大爆冷",
+        "onboard_time": 1758880102,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 678895,
+        "num": 678895,
+        "word": "女童被碾过致死案车主服刑十月已满",
+        "onboard_time": 1758881421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7054,
+        "num": 627061,
+        "word": "新质领航山西实践",
+        "onboard_time": 1758858261,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579500,
+        "num": 579500,
+        "word": "辛芷蕾这一身王菲来了都得愣两秒",
+        "onboard_time": 1758878900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527529,
+        "num": 527529,
+        "word": "养老院已删上百条热舞女院长视频",
+        "onboard_time": 1758882861,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415048,
+        "num": 415048,
+        "word": "好利来门店回应月饼27元一块",
+        "onboard_time": 1758878481,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513001,
+        "num": 414215,
+        "word": "舒淇釜山电影节最佳导演",
+        "onboard_time": 1758887541,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352215,
+        "num": 352215,
+        "word": "资产上亿女老板疑被骗泰国最新进展",
+        "onboard_time": 1758887181,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547013,
+        "num": 343654,
+        "word": "辛芷蕾封后后首封",
+        "onboard_time": 1758886941,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304509,
+        "num": 304509,
+        "word": "JDG战胜WBG",
+        "onboard_time": 1758890841,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 852179,
+        "num": 296086,
+        "word": "华南理工",
+        "onboard_time": 1758889822,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811634,
+        "num": 284746,
+        "word": "许我耀眼开播",
+        "onboard_time": 1758867082,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585031,
+        "num": 279160,
+        "word": "TFBOYS怎么都变回小时候了",
+        "onboard_time": 1758884360,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494604,
+        "num": 268077,
+        "word": "健康码行程码记得解绑",
+        "onboard_time": 1758865460,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368282,
+        "num": 253369,
+        "word": "孟子义早期眉眼",
+        "onboard_time": 1758881180,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252112,
+        "num": 252112,
+        "word": "金鸡提名爆冷",
+        "onboard_time": 1758864501,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240695,
+        "num": 240695,
+        "word": "张婧仪骨相",
+        "onboard_time": 1758888260,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204565,
+        "num": 204565,
+        "word": "美国男子追杀恋童癖老人",
+        "onboard_time": 1758874941,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199963,
+        "num": 199963,
+        "word": "西宁野生动物园通报雪豹出逃",
+        "onboard_time": 1758882020,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48413,
+        "num": 194057,
+        "word": "徐志胜也没抢到自己发的红包",
+        "onboard_time": 1758888800,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314014,
+        "num": 194016,
+        "word": "妈妈的行李箱是怎么做到全国统一的",
+        "onboard_time": 1758891380,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209908,
+        "num": 193934,
+        "word": "吴磊又把车骑到了伦敦",
+        "onboard_time": 1758890720,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193503,
+        "num": 193503,
+        "word": "赴山海大结局",
+        "onboard_time": 1758884720,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174906,
+        "num": 174906,
+        "word": "徐艺洋 你们就想让我推荐黄子韬呗",
+        "onboard_time": 1758890061,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153351,
+        "num": 153351,
+        "word": "首尔偶遇金子涵",
+        "onboard_time": 1758883640,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150027,
+        "num": 150027,
+        "word": "北大月饼",
+        "onboard_time": 1758889101,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147352,
+        "num": 147352,
+        "word": "常华森在国外帅成啥了",
+        "onboard_time": 1758885981,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7219,
+        "num": 147276,
+        "word": "新疆万年胡杨林美到了巅峰",
+        "onboard_time": 1758847881,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134245,
+        "num": 147256,
+        "word": "海尔吴总在线实现网友冰箱许愿",
+        "onboard_time": 1758890242,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77729,
+        "num": 147248,
+        "word": "日本天皇裕仁是731部队始作俑者",
+        "onboard_time": 1758881421,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147246,
+        "num": 147246,
+        "word": "向往的生活",
+        "onboard_time": 1758877400,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142162,
+        "num": 142162,
+        "word": "汪苏泷眼光",
+        "onboard_time": 1758886639,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140981,
+        "num": 140981,
+        "word": "易烊千玺和周政杰是大学舍友",
+        "onboard_time": 1758886880,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140765,
+        "num": 140765,
+        "word": "张晚意黑成包青天了",
+        "onboard_time": 1758884901,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140060,
+        "num": 140060,
+        "word": "王俊凯 对你不知道该心疼还是称赞",
+        "onboard_time": 1758885681,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138570,
+        "num": 138570,
+        "word": "何秋亊复播",
+        "onboard_time": 1758888260,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28418,
+        "num": 132655,
+        "word": "用智搜把王牌百期盘包浆",
+        "onboard_time": 1758889280,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130867,
+        "num": 130867,
+        "word": "官方通报女乘务员拍肩乘客称力度太大",
+        "onboard_time": 1758887541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10749,
+        "num": 128835,
+        "word": "演唱会出轨门女主遭死亡威胁",
+        "onboard_time": 1758891741,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19650,
+        "num": 128075,
+        "word": "张继科说打乒乓球比羽毛球便宜",
+        "onboard_time": 1758890781,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127712,
+        "num": 127712,
+        "word": "刘宇宁穿了特别定制",
+        "onboard_time": 1758891201,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127704,
+        "num": 127704,
+        "word": "王暖暖感谢媒体保护了她的儿子",
+        "onboard_time": 1758888142,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126804,
+        "num": 126804,
+        "word": "曝iPhone17国内首周激活销量",
+        "onboard_time": 1758883221,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119389,
+        "num": 119389,
+        "word": "朱一龙毛里求斯潜水封面",
+        "onboard_time": 1758891022,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112198,
+        "num": 112198,
+        "word": "JDG对战WBG",
+        "onboard_time": 1758877580,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111783,
+        "num": 111783,
+        "word": "余宇涵直播",
+        "onboard_time": 1758891621,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110280,
+        "num": 110280,
+        "word": "段奥娟回应提名金鸡影后",
+        "onboard_time": 1758888080,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108919,
+        "num": 108919,
+        "word": "中方向日方已提出严正交涉",
+        "onboard_time": 1758877099,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106854,
+        "num": 106854,
+        "word": "刘宇宁红衣",
+        "onboard_time": 1758888980,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104483,
+        "num": 104483,
+        "word": "李宇春抢票",
+        "onboard_time": 1758890424,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新疆之行这些瞬间令人难忘#"
+    }
+  }
+}

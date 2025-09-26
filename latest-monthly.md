@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 20:51:20
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/26 21:04:36
 </p>
 </blockquote>
 <p>
@@ -4341,6 +4341,12 @@ WTT抽签（热度：866782）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23" target="weibo">
+华南理工（热度：852179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%AD%E4%B9%B0%E4%B8%80%E9%83%A8iPhone17%E4%BD%A0%E8%A6%81%E5%B7%A5%E4%BD%9C%E5%A4%9A%E4%B9%85%23" target="weibo">
 购买一部iPhone17你要工作多久（热度：851777）
 </a>
@@ -5873,12 +5879,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98WB%23" target="weibo">
 AG对战WB（热度：703400）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23" target="weibo">
-华南理工（热度：703344）
 </a>
 </li>
 
