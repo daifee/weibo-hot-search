@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758905138741,
+  "endTime": 1758907322668,
   "band_list": [
     {
       "raw_hot": 1035595,
@@ -123,8 +123,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221970,
-      "num": 221970,
+      "raw_hot": 262216,
+      "num": 262216,
+      "word": "孕妇遭遇黑熊袭击装死逃过一劫",
+      "onboard_time": 1758901161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224265,
+      "num": 224265,
       "word": "汪苏泷怎么来观众席唱了",
       "onboard_time": 1758899663,
       "rank": 20,
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103768,
-      "num": 103768,
-      "word": "孕妇遭遇黑熊袭击装死逃过一劫",
-      "onboard_time": 1758901161,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98923,
       "num": 98923,
       "word": "女生和朋友捡秋意外捡到红豆",
@@ -217,6 +217,14 @@
       "onboard_time": 1758899242,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 97058,
+      "num": 97058,
+      "word": "米兰时装周",
+      "onboard_time": 1758901642,
+      "rank": 37,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 94224,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75598,
+      "num": 93764,
+      "word": "中国科学家或收到平行宇宙诡异信号",
+      "onboard_time": 1758894384,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 74890,
       "num": 86601,
       "word": "赴山海编剧",
@@ -283,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72405,
-      "num": 93764,
-      "word": "中国科学家或收到平行宇宙诡异信号",
-      "onboard_time": 1758894384,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 71249,
       "num": 92165,
       "word": "孕14周女子遭黑熊袭击装死脱险",
@@ -299,20 +307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68684,
-      "num": 90306,
-      "word": "米兰时装周",
-      "onboard_time": 1758901642,
-      "rank": 37,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 68666,
       "num": 73385,
       "word": "金靖开团周柯宇张凌赫秒跟",
       "onboard_time": 1758899782,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65132,
+      "num": 86462,
+      "word": "TFBOYS怎么都变回小时候了",
+      "onboard_time": 1758884360,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 64046,
@@ -355,14 +363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57353,
-      "num": 86462,
-      "word": "TFBOYS怎么都变回小时候了",
-      "onboard_time": 1758884360,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53005,
       "num": 86504,
       "word": "JDG战胜WBG",
@@ -371,20 +371,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51498,
+      "num": 60893,
+      "word": "萧秋水李沉舟肖明明都下线了",
+      "onboard_time": 1758905659,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48603,
+      "num": 86606,
+      "word": "资产上亿女老板疑被骗泰国最新进展",
+      "onboard_time": 1758887181,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47231,
       "num": 103546,
       "word": "获国奖认证的保鲜科技长啥样",
       "onboard_time": 1758900863,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 47066,
-      "num": 86606,
-      "word": "资产上亿女老板疑被骗泰国最新进展",
-      "onboard_time": 1758887181,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46928,
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42861,
+      "num": 60874,
+      "word": "大爷无证驾驶一年多违章279条",
+      "onboard_time": 1758904759,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40316,
       "num": 86421,
       "word": "中国女孩在埃及失联",
@@ -419,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39255,
+      "num": 60784,
+      "word": "曝iPhone17国内首周激活销量",
+      "onboard_time": 1758883221,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37175,
       "num": 76474,
       "word": "Fendi大秀一场彩色像素大片",
       "onboard_time": 1758899363,
       "rank": 40,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 33845,
+      "num": 60731,
+      "word": "宋亚轩还记得和王牌家族的所有回忆",
+      "onboard_time": 1758907038,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 13509,
