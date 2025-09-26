@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758894276813,
+  "endTime": 1758896630204,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -17,6 +17,14 @@
       "onboard_time": 1758854000,
       "rank": 0,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 2048032,
+      "num": 386442,
+      "word": "关晓彤发微博最烦胡说八道的人",
+      "onboard_time": 1758892581,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1983292,
@@ -81,14 +89,6 @@
       "onboard_time": 1758849501,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1311822,
-      "num": 386442,
-      "word": "关晓彤发微博最烦胡说八道的人",
-      "onboard_time": 1758892581,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1251320,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435352,
+      "num": 365907,
+      "word": "香港高等法院驳回宗馥莉上诉申请",
+      "onboard_time": 1758892342,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428342,
       "num": 428342,
       "word": "做完你的 做你的",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 401442,
-      "num": 266200,
+      "num": 365054,
       "word": "徐艺洋 你们就想让我推荐黄子韬呗",
       "onboard_time": 1758890061,
       "rank": 23,
@@ -561,6 +569,14 @@
       "onboard_time": 1758860062,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 367159,
+      "num": 367159,
+      "word": "娃哈哈家族遗产纠纷最新进展",
+      "onboard_time": 1758894683,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361024,
@@ -731,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278784,
+      "num": 238522,
+      "word": "谢娜已经准备选女婿了",
+      "onboard_time": 1758893962,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278756,
       "num": 278756,
       "word": "特朗普对进口重卡加征25%关税",
@@ -819,11 +843,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 245316,
-      "num": 245316,
-      "word": "香港高等法院驳回宗馥莉上诉申请",
-      "onboard_time": 1758892342,
-      "rank": 21,
+      "raw_hot": 249832,
+      "num": 249832,
+      "word": "出逃雪豹已找到",
+      "onboard_time": 1758894322,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -841,6 +865,14 @@
       "onboard_time": 1758864263,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 234383,
+      "num": 234383,
+      "word": "台湾是中国的一个省从不是一个国家",
+      "onboard_time": 1758896004,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 233978,
@@ -867,6 +899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232279,
+      "num": 237037,
+      "word": "宋亚轩一点没给李飞留面子",
+      "onboard_time": 1758893903,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227037,
       "num": 233291,
       "word": "A股",
@@ -889,6 +929,14 @@
       "onboard_time": 1758878540,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222892,
+      "num": 222892,
+      "word": "舒淇获奖感谢冯德伦",
+      "onboard_time": 1758896423,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 221860,
@@ -1060,11 +1108,19 @@
     },
     {
       "raw_hot": 201156,
-      "num": 205825,
+      "num": 224605,
       "word": "家庭豪华大六座该有的样子",
       "onboard_time": 1758893542,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "于洋说白鹿笑起来像瓶起子",
+      "onboard_time": 1758895222,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 198298,
@@ -1323,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173785,
+      "num": 173785,
+      "word": "张杰谢娜结婚十四周年",
+      "onboard_time": 1758895403,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173759,
       "num": 173759,
       "word": "王暖暖曝男方拖延离婚套路",
@@ -1387,12 +1451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167385,
+      "num": 167385,
+      "word": "朱珠赵磊是怎么认识的",
+      "onboard_time": 1758892401,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167290,
       "num": 167290,
       "word": "第一次见男主为女主把亲爹送监狱的",
       "onboard_time": 1758857061,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166635,
+      "num": 156558,
+      "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+      "onboard_time": 1758896183,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 166336,
@@ -1499,12 +1579,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 157343,
-      "num": 157343,
-      "word": "宋亚轩一点没给李飞留面子",
-      "onboard_time": 1758893903,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 156305,
+      "num": 156305,
+      "word": "雪豹闹闹",
+      "onboard_time": 1758896004,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155735,
@@ -1585,6 +1665,14 @@
       "onboard_time": 1758893903,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150617,
+      "num": 150617,
+      "word": "宗馥莉方将继续申请上诉",
+      "onboard_time": 1758896063,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150195,
@@ -1691,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146113,
+      "num": 146113,
+      "word": "王安宇石云鹏从小巷人家到小偷人家",
+      "onboard_time": 1758895522,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144512,
       "num": 144512,
       "word": "国乒一天2枚金牌",
@@ -1713,6 +1809,14 @@
       "onboard_time": 1758880222,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142908,
+      "num": 142908,
+      "word": "向往的生活开播",
+      "onboard_time": 1758896542,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 142450,
@@ -1915,14 +2019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133404,
-      "num": 133404,
-      "word": "朱珠赵磊是怎么认识的",
-      "onboard_time": 1758892401,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 132915,
       "num": 132915,
       "word": "李承铉让披哥集体红眼病犯了",
@@ -2043,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126953,
+      "num": 126953,
+      "word": "赴山海编剧",
+      "onboard_time": 1758894863,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126820,
       "num": 212775,
       "word": "王心凌最爱车竟然是TA",
@@ -2065,6 +2169,14 @@
       "onboard_time": 1758884780,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126242,
+      "num": 124626,
+      "word": "谁教刘宇宁这么饭撒的",
+      "onboard_time": 1758895883,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 126173,
@@ -2096,6 +2208,14 @@
       "word": "莫雷加德主动关心樊振东",
       "onboard_time": 1758854000,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124108,
+      "num": 124108,
+      "word": "浙江队vs成都蓉城",
+      "onboard_time": 1758896364,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -2259,12 +2379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116510,
+      "num": 116510,
+      "word": "中超",
+      "onboard_time": 1758895403,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "鸣潮",
       "onboard_time": 1758889101,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116268,
+      "num": 116268,
+      "word": "王楚钦牙别着凉了",
+      "onboard_time": 1758895942,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116249,
@@ -2289,6 +2425,14 @@
       "onboard_time": 1758879381,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114589,
+      "num": 114589,
+      "word": "22岁小伙摔倒被误认留守老人",
+      "onboard_time": 1758896604,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114109,
@@ -2380,7 +2524,7 @@
     },
     {
       "raw_hot": 110831,
-      "num": 110831,
+      "num": 380679,
       "word": "国庆假期带特产上飞机要注意啥",
       "onboard_time": 1758871222,
       "rank": 45,
@@ -2553,14 +2697,6 @@
       "onboard_time": 1758816080,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100718,
-      "num": 224209,
-      "word": "谢娜已经准备选女婿了",
-      "onboard_time": 1758893962,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 100627,
@@ -2857,6 +2993,14 @@
       "onboard_time": 1758803721,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82199,
+      "num": 124801,
+      "word": "王玉雯下车门摔倒",
+      "onboard_time": 1758896423,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 82194,
@@ -3163,6 +3307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50827,
+      "num": 124765,
+      "word": "法院通报警车出现在150公里外山姆",
+      "onboard_time": 1758896481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50762,
       "num": 133850,
       "word": "迪亚兹逗笑孙颖莎soeasy",
@@ -3193,6 +3345,22 @@
       "onboard_time": 1758892823,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 48027,
+      "num": 235905,
+      "word": "XC70掀起豪华混动反击战",
+      "onboard_time": 1758894384,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 47254,
+      "num": 125157,
+      "word": "祐禾月饼39元一粒",
+      "onboard_time": 1758896364,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46391,
@@ -3644,6 +3812,9 @@
     },
     {
       "word": "#习近平新疆之行这些瞬间令人难忘#"
+    },
+    {
+      "word": "#把祖国的新疆建设得越来越美好#"
     }
   ]
 }
