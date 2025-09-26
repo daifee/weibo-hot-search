@@ -1,6 +1,6 @@
 {
   "startTime": 1758817879722,
-  "endTime": 1758893591763,
+  "endTime": 1758894276813,
   "band_list": [
     {
       "raw_hot": 3592202,
@@ -81,6 +81,14 @@
       "onboard_time": 1758849501,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1311822,
+      "num": 386442,
+      "word": "关晓彤发微博最烦胡说八道的人",
+      "onboard_time": 1758892581,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1251320,
@@ -387,14 +395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 457378,
-      "num": 303132,
-      "word": "关晓彤发微博最烦胡说八道的人",
-      "onboard_time": 1758892581,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 456241,
       "num": 456241,
       "word": "南京照相馆角逐奥斯卡",
@@ -483,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 401442,
+      "num": 266200,
+      "word": "徐艺洋 你们就想让我推荐黄子韬呗",
+      "onboard_time": 1758890061,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392685,
       "num": 392685,
       "word": "谁给李昀锐安排了两个伴舞",
@@ -553,14 +561,6 @@
       "onboard_time": 1758860062,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 361417,
-      "num": 266200,
-      "word": "徐艺洋 你们就想让我推荐黄子韬呗",
-      "onboard_time": 1758890061,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 361024,
@@ -819,6 +819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 245316,
+      "num": 245316,
+      "word": "香港高等法院驳回宗馥莉上诉申请",
+      "onboard_time": 1758892342,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242867,
       "num": 213798,
       "word": "众星祝贺舒淇",
@@ -1051,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201156,
+      "num": 205825,
+      "word": "家庭豪华大六座该有的样子",
+      "onboard_time": 1758893542,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 198298,
       "num": 198298,
       "word": "喜人奇妙夜2",
@@ -1091,12 +1107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194101,
+      "num": 194101,
+      "word": "杨迪演杨紫坐过山车",
+      "onboard_time": 1758893662,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194051,
       "num": 194051,
       "word": "王楚钦幼头时期",
       "onboard_time": 1758855440,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192911,
+      "num": 192911,
+      "word": "赴山海oe",
+      "onboard_time": 1758893181,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 191953,
@@ -1403,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161924,
+      "num": 161924,
+      "word": "北大月饼",
+      "onboard_time": 1758889101,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161397,
       "num": 161397,
       "word": "闪耀暖暖",
@@ -1417,14 +1457,6 @@
       "onboard_time": 1758884780,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160839,
-      "num": 160839,
-      "word": "赴山海oe",
-      "onboard_time": 1758893181,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 159467,
@@ -1451,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157825,
+      "num": 157825,
+      "word": "刘宇宁直拍",
+      "onboard_time": 1758893181,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157545,
       "num": 157545,
       "word": "白鹿拿G社当站姐用",
@@ -1459,12 +1499,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 157012,
-      "num": 215074,
-      "word": "香港高等法院驳回宗馥莉上诉申请",
-      "onboard_time": 1758892342,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 157343,
+      "num": 157343,
+      "word": "宋亚轩一点没给李飞留面子",
+      "onboard_time": 1758893903,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155735,
@@ -1539,12 +1579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150302,
-      "num": 150302,
-      "word": "北大月饼",
-      "onboard_time": 1758889101,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 151449,
+      "num": 151449,
+      "word": "邵子恒录完王牌还回家吗",
+      "onboard_time": 1758893903,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 150195,
@@ -1852,7 +1892,7 @@
     },
     {
       "raw_hot": 134245,
-      "num": 180522,
+      "num": 193209,
       "word": "海尔吴总在线实现网友冰箱许愿",
       "onboard_time": 1758890242,
       "rank": 28,
@@ -1889,14 +1929,6 @@
       "onboard_time": 1758874341,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132592,
-      "num": 132592,
-      "word": "刘宇宁直拍",
-      "onboard_time": 1758893181,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 132135,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1758888142,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127170,
+      "num": 127170,
+      "word": "刘宇宁红衣",
+      "onboard_time": 1758888980,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 127049,
@@ -2091,14 +2131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121570,
-      "num": 118108,
-      "word": "刘宇宁红衣",
-      "onboard_time": 1758888980,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120358,
       "num": 120358,
       "word": "12306回应长途有票短途却需候补",
@@ -2187,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117463,
+      "num": 117463,
+      "word": "苏菲玛索 岁月不败美人",
+      "onboard_time": 1758893903,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 117193,
       "num": 117193,
       "word": "国庆中秋长假的意义",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1758885859,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113154,
+      "num": 132982,
+      "word": "张继科说打乒乓球比羽毛球便宜",
+      "onboard_time": 1758890781,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 113080,
@@ -2505,6 +2553,14 @@
       "onboard_time": 1758816080,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100718,
+      "num": 224209,
+      "word": "谢娜已经准备选女婿了",
+      "onboard_time": 1758893962,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 100627,
@@ -2948,7 +3004,7 @@
     },
     {
       "raw_hot": 67785,
-      "num": 119522,
+      "num": 147824,
       "word": "孙杨说死也要战死在水里",
       "onboard_time": 1758892642,
       "rank": 38,
@@ -3131,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48140,
+      "num": 240967,
+      "word": "沃尔沃XC70一切刚刚好",
+      "onboard_time": 1758892823,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46391,
       "num": 59548,
       "word": "陈添祥上湖南卫视了",
@@ -3171,20 +3235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41497,
-      "num": 240967,
-      "word": "沃尔沃XC70一切刚刚好",
-      "onboard_time": 1758892823,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 41073,
       "num": 169558,
       "word": "贵州天下第一水司楼已变身全新酒店",
       "onboard_time": 1758857541,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39649,
+      "num": 239931,
+      "word": "15万级9风道EZ60王炸来袭",
+      "onboard_time": 1758892882,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 39054,
@@ -3313,14 +3377,6 @@
       "onboard_time": 1758867981,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 31620,
-      "num": 239931,
-      "word": "15万级9风道EZ60王炸来袭",
-      "onboard_time": 1758892882,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 31395,
@@ -3475,14 +3531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19650,
-      "num": 132982,
-      "word": "张继科说打乒乓球比羽毛球便宜",
-      "onboard_time": 1758890781,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19038,
       "num": 32081,
       "word": "魏大勋王源湾区升明月",
@@ -3497,14 +3545,6 @@
       "onboard_time": 1758863122,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15379,
-      "num": 132638,
-      "word": "家庭豪华大六座该有的样子",
-      "onboard_time": 1758893542,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 15165,
@@ -3555,6 +3595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12154,
+      "num": 147747,
+      "word": "特朗普与马斯克再联手",
+      "onboard_time": 1758893002,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 10749,
       "num": 128835,
       "word": "演唱会出轨门女主遭死亡威胁",
@@ -3569,14 +3617,6 @@
       "onboard_time": 1758884660,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 9228,
-      "num": 119411,
-      "word": "特朗普与马斯克再联手",
-      "onboard_time": 1758893002,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8980,
