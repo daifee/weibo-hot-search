@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758941993396,
+  "endTime": 1758942539875,
   "band_list": [
     {
       "raw_hot": 1597497,
@@ -11,12 +11,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1254579,
+      "num": 216258,
+      "word": "关晓彤的腿都到宋小宝的胸了",
+      "onboard_time": 1758940820,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1161414,
       "num": 1161414,
       "word": "甘肃陇西地震",
       "onboard_time": 1758928216,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1058359,
+      "num": 212866,
+      "word": "陈紫函理财赔了戴向宇上百万",
+      "onboard_time": 1758941239,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1035595,
@@ -33,14 +49,6 @@
       "onboard_time": 1758929659,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 900581,
-      "num": 216258,
-      "word": "关晓彤的腿都到宋小宝的胸了",
-      "onboard_time": 1758940820,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 838830,
@@ -83,12 +91,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 501966,
+      "raw_hot": 511480,
       "num": 236942,
       "word": "鞠婧祎G社生图",
       "onboard_time": 1758935060,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 475313,
+      "num": 449655,
+      "word": "王玉雯下车门摔倒",
+      "onboard_time": 1758896423,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 452324,
@@ -97,14 +113,6 @@
       "onboard_time": 1758898943,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 449655,
-      "num": 449655,
-      "word": "王玉雯下车门摔倒",
-      "onboard_time": 1758896423,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 426123,
@@ -139,14 +147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 368314,
-      "num": 212866,
-      "word": "陈紫函理财赔了戴向宇上百万",
-      "onboard_time": 1758941239,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 360712,
       "num": 360712,
       "word": "台湾是中国的一个省从不是一个国家",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 322342,
-      "num": 146738,
+      "num": 181074,
       "word": "女子做豆浆忘加水解锁醇香秘诀",
       "onboard_time": 1758939380,
       "rank": 22,
@@ -267,20 +267,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 236645,
+      "num": 236645,
+      "word": "马斯克出现在爱泼斯坦案文件中",
+      "onboard_time": 1758930619,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 224265,
       "num": 224265,
       "word": "汪苏泷怎么来观众席唱了",
       "onboard_time": 1758899663,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 221500,
-      "num": 221500,
-      "word": "马斯克出现在爱泼斯坦案文件中",
-      "onboard_time": 1758930619,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 218389,
@@ -297,6 +297,38 @@
       "onboard_time": 1758896481,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200452,
+      "num": 185040,
+      "word": "成毅两京十五日开机上班路透",
+      "onboard_time": 1758942198,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199779,
+      "num": 183867,
+      "word": "辛芷蕾马思纯向往的生活合体",
+      "onboard_time": 1758939680,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197047,
+      "num": 183137,
+      "word": "邵兵回应邵子恒说不出自己作品",
+      "onboard_time": 1758942020,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194116,
+      "num": 179029,
+      "word": "TikTok估值140亿",
+      "onboard_time": 1758940580,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 190223,
@@ -331,12 +363,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168830,
+      "num": 168830,
+      "word": "媒体评68页PPT曝光婚外情",
+      "onboard_time": 1758937880,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166209,
       "num": 131868,
       "word": "刘宇宁衣服很贵多穿一会",
       "onboard_time": 1758898342,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161974,
+      "num": 161974,
+      "word": "赤发鬼一个镜头头发量有150万根",
+      "onboard_time": 1758941660,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 158442,
@@ -361,14 +409,6 @@
       "onboard_time": 1758928698,
       "rank": 25,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 156149,
-      "num": 156149,
-      "word": "辛芷蕾马思纯向往的生活合体",
-      "onboard_time": 1758939680,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 153138,
@@ -419,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145994,
-      "num": 145994,
-      "word": "TikTok估值140亿",
-      "onboard_time": 1758940580,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 145416,
       "num": 145416,
       "word": "李沁生日照",
@@ -443,12 +475,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139113,
-      "num": 139113,
-      "word": "媒体评68页PPT曝光婚外情",
-      "onboard_time": 1758937880,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 140850,
+      "num": 140850,
+      "word": "白敬亭这个挡脸很加分",
+      "onboard_time": 1758938179,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138110,
+      "num": 138110,
+      "word": "邵子恒 我演得像流氓吗",
+      "onboard_time": 1758941480,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 134920,
@@ -475,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128663,
-      "num": 128663,
-      "word": "白敬亭这个挡脸很加分",
-      "onboard_time": 1758938179,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 127180,
+      "num": 131396,
+      "word": "刺杀小说家2",
+      "onboard_time": 1758941600,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 119959,
@@ -571,14 +611,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 97208,
-      "num": 134053,
-      "word": "赤发鬼一个镜头头发量有150万根",
-      "onboard_time": 1758941660,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97058,
       "num": 97058,
       "word": "米兰时装周",
@@ -587,12 +619,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 94786,
-      "num": 94786,
-      "word": "邵子恒 我演得像流氓吗",
-      "onboard_time": 1758941480,
+      "raw_hot": 95518,
+      "num": 95518,
+      "word": "张召忠谈九三阅兵",
+      "onboard_time": 1758939979,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 94772,
+      "num": 94772,
+      "word": "穆塞蒂",
+      "onboard_time": 1758936800,
       "rank": 39,
-      "category": "综艺"
+      "category": "体育"
     },
     {
       "raw_hot": 94224,
@@ -675,22 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88421,
-      "num": 131396,
-      "word": "刺杀小说家2",
-      "onboard_time": 1758941600,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 86158,
-      "num": 86158,
-      "word": "穆塞蒂",
-      "onboard_time": 1758936800,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85037,
       "num": 85037,
       "word": "内塔尼亚胡联合国大会上公然撒谎",
@@ -707,12 +731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84304,
+      "num": 84304,
+      "word": "王一博太撩人了",
+      "onboard_time": 1758942379,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82324,
       "num": 82324,
       "word": "有助于睡眠的四大类食物",
       "onboard_time": 1758929299,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81322,
+      "num": 81322,
+      "word": "丁禹兮扛住了外媒镜头",
+      "onboard_time": 1758942439,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 81286,
@@ -859,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62806,
+      "num": 211391,
+      "word": "杨幂代言三只小山羊纯羊绒大衣",
+      "onboard_time": 1758940759,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61486,
       "num": 73371,
       "word": "苏菲玛索高圆圆十年再同框",
@@ -921,14 +969,6 @@
       "onboard_time": 1758929299,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49144,
-      "num": 211391,
-      "word": "杨幂代言三只小山羊纯羊绒大衣",
-      "onboard_time": 1758940759,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 47231,
@@ -1027,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32182,
+      "num": 179973,
+      "word": "网警带您起底网络水军生意经",
+      "onboard_time": 1758942020,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30613,
       "num": 52648,
       "word": "披荆斩棘2025舞台超会评",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1758910876,
       "rank": 41,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 22916,
+      "num": 332526,
+      "word": "风云三号08星发射",
+      "onboard_time": 1758937520,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20598,
