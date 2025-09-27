@@ -1,0 +1,410 @@
+{
+  "runTime": 1758971927218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1051192,
+        "num": 1168190,
+        "word": "公司反手取消14天年假",
+        "onboard_time": 1758968780,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813569,
+        "num": 813569,
+        "word": "爬泰山失联28岁男子已遇难",
+        "onboard_time": 1758968961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23351,
+        "num": 722230,
+        "word": "北京范儿",
+        "onboard_time": 1758969080,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708681,
+        "num": 708681,
+        "word": "战至巅峰直播",
+        "onboard_time": 1758967820,
+        "rank": 3,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 490540,
+        "num": 490540,
+        "word": "iG对战JDG",
+        "onboard_time": 1758964580,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 408573,
+        "num": 408573,
+        "word": "女子卖金镯发现里面被塞沙子",
+        "onboard_time": 1758966799,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333325,
+        "num": 333325,
+        "word": "战至巅峰",
+        "onboard_time": 1758959000,
+        "rank": 6,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 259762,
+        "num": 259762,
+        "word": "心动的信号第八季",
+        "onboard_time": 1758963921,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231464,
+        "num": 231464,
+        "word": "董璇说结完婚该要孩子了吧",
+        "onboard_time": 1758966863,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161135,
+        "num": 231376,
+        "word": "欧洲多国告知俄准备击落俄军机",
+        "onboard_time": 1758958161,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 848375,
+        "num": 231233,
+        "word": "西贝 闭着眼睛点",
+        "onboard_time": 1758968900,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458210,
+        "num": 231028,
+        "word": "张凌赫请粉丝吃了一天饭",
+        "onboard_time": 1758969141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316970,
+        "num": 230952,
+        "word": "孟子义增肥了快十斤",
+        "onboard_time": 1758958580,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279877,
+        "num": 230702,
+        "word": "朵朵和陈思诚一模一样",
+        "onboard_time": 1758951560,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230614,
+        "num": 230614,
+        "word": "员工请假1天照顾尿毒症母亲被辞退",
+        "onboard_time": 1758954980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199049,
+        "num": 199049,
+        "word": "张真源大司命名声在外",
+        "onboard_time": 1758970761,
+        "rank": 15,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 185969,
+        "num": 185969,
+        "word": "月子公司称给婴儿勺子喂奶正常",
+        "onboard_time": 1758969439,
+        "rank": 16,
+        "category": "舆论监督,母婴育儿"
+      },
+      {
+        "raw_hot": 182344,
+        "num": 182344,
+        "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
+        "onboard_time": 1758961162,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177422,
+        "num": 177422,
+        "word": "李沁确定不是18岁么",
+        "onboard_time": 1758966981,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166726,
+        "num": 166726,
+        "word": "脑梗的根本原因不是大鱼大肉",
+        "onboard_time": 1758967281,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1110712,
+        "num": 162698,
+        "word": "张维伊把婚房订成了三人间",
+        "onboard_time": 1758965180,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825943,
+        "num": 161735,
+        "word": "鞠婧祎 大雷",
+        "onboard_time": 1758960862,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439687,
+        "num": 161436,
+        "word": "孙怡因染发导致脸肿",
+        "onboard_time": 1758965662,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157115,
+        "num": 157115,
+        "word": "王安宇大大方方的回应",
+        "onboard_time": 1758971541,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142756,
+        "num": 142756,
+        "word": "奉劝大家少穿洞洞鞋和高跟鞋",
+        "onboard_time": 1758957620,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12795,
+        "num": 141897,
+        "word": "天马山车神挑战赛",
+        "onboard_time": 1758971781,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141239,
+        "num": 141239,
+        "word": "被东北的烤肉震惊到了",
+        "onboard_time": 1758969080,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139821,
+        "num": 139821,
+        "word": "灼灼韶华",
+        "onboard_time": 1758971181,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132863,
+        "num": 139183,
+        "word": "别让百亿补贴补出白色污染",
+        "onboard_time": 1758953421,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123383,
+        "num": 138985,
+        "word": "毛晓彤问心2长发好明媚",
+        "onboard_time": 1758969439,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138975,
+        "num": 138975,
+        "word": "椰子水到底谁在爱",
+        "onboard_time": 1758962001,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134185,
+        "num": 134185,
+        "word": "郑钦文vs阿朗戈",
+        "onboard_time": 1758969260,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117791,
+        "num": 117791,
+        "word": "董璇张维伊 贵妃嫁给了太监总管",
+        "onboard_time": 1758965780,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117708,
+        "num": 117708,
+        "word": "莫雷加德为郑钦文挑边",
+        "onboard_time": 1758970761,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111949,
+        "num": 111949,
+        "word": "朱一龙想为妹妹李晓擦泪",
+        "onboard_time": 1758971841,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110651,
+        "num": 110651,
+        "word": "董璇想参加姐姐当家2记录生孩子",
+        "onboard_time": 1758958701,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106642,
+        "num": 106642,
+        "word": "疑似英语老师退休后带孙日常",
+        "onboard_time": 1758960200,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49575,
+        "num": 103522,
+        "word": "公司回应补班被举报后取消额外假",
+        "onboard_time": 1758971900,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77690,
+        "num": 102768,
+        "word": "乐山商业银行被骗贷33亿",
+        "onboard_time": 1758970820,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40378,
+        "num": 102643,
+        "word": "台风博罗依致三亚停课",
+        "onboard_time": 1758969801,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 102557,
+        "num": 102557,
+        "word": "敬战至巅峰并肩作战的我们",
+        "onboard_time": 1758955820,
+        "rank": 40,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 100400,
+        "num": 100400,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97566,
+        "num": 97566,
+        "word": "莫雷加德为中网挑边",
+        "onboard_time": 1758971120,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92928,
+        "num": 92928,
+        "word": "罗云熙古装探案剧上新",
+        "onboard_time": 1758971541,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90304,
+        "num": 90304,
+        "word": "一个严重降低好感的小细节",
+        "onboard_time": 1758966261,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90117,
+        "num": 90117,
+        "word": "GALA是iG的救世主",
+        "onboard_time": 1758971600,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89385,
+        "num": 89385,
+        "word": "做一次CT对身体的伤害有多大",
+        "onboard_time": 1758971661,
+        "rank": 46,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 85699,
+        "num": 85699,
+        "word": "孙颖莎正反手对拉狂轰18板",
+        "onboard_time": 1758971541,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85533,
+        "num": 85533,
+        "word": "官方通报烤肉店使用阴阳菜单",
+        "onboard_time": 1758967220,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 83652,
+        "num": 83652,
+        "word": "白米饭放两天变黄灿灿",
+        "onboard_time": 1758970939,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中华民族共同体建设#"
+    }
+  }
+}

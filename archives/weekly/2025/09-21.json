@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758969546191,
+  "endTime": 1758971927218,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -875,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1051192,
+      "num": 1168190,
+      "word": "公司反手取消14天年假",
+      "onboard_time": 1758968780,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1049343,
       "num": 931417,
       "word": "折腰剧粉群解散了",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 1032960,
-      "num": 228769,
+      "num": 230702,
       "word": "朵朵和陈思诚一模一样",
       "onboard_time": 1758951560,
       "rank": 10,
@@ -1196,7 +1204,7 @@
     },
     {
       "raw_hot": 925361,
-      "num": 411781,
+      "num": 708681,
       "word": "战至巅峰直播",
       "onboard_time": 1758967820,
       "rank": 3,
@@ -1475,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 848375,
+      "num": 397172,
+      "word": "西贝 闭着眼睛点",
+      "onboard_time": 1758968900,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848249,
       "num": 848249,
       "word": "管家爆英女王去世前患骨癌",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1758534862,
       "rank": 4,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 813569,
+      "num": 813569,
+      "word": "爬泰山失联28岁男子已遇难",
+      "onboard_time": 1758968961,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 812532,
@@ -2604,7 +2628,7 @@
     },
     {
       "raw_hot": 578281,
-      "num": 196385,
+      "num": 230952,
       "word": "孟子义增肥了快十斤",
       "onboard_time": 1758958580,
       "rank": 11,
@@ -2979,14 +3003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 526710,
-      "num": 397172,
-      "word": "西贝 闭着眼睛点",
-      "onboard_time": 1758968900,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 525744,
       "num": 525744,
       "word": "巴勒斯坦总统因美拒发签证视频发言",
@@ -3251,6 +3267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490540,
+      "num": 490540,
+      "word": "iG对战JDG",
+      "onboard_time": 1758964580,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 489838,
       "num": 294888,
       "word": "这居然是陆柯燃",
@@ -3297,14 +3321,6 @@
       "onboard_time": 1758584720,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 478082,
-      "num": 478082,
-      "word": "iG对战JDG",
-      "onboard_time": 1758964580,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 477393,
@@ -3417,6 +3433,14 @@
       "onboard_time": 1758426802,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458210,
+      "num": 231028,
+      "word": "张凌赫请粉丝吃了一天饭",
+      "onboard_time": 1758969141,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 456241,
@@ -3795,6 +3819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 408573,
+      "num": 408573,
+      "word": "女子卖金镯发现里面被塞沙子",
+      "onboard_time": 1758966799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407755,
       "num": 404069,
       "word": "张杰谢娜结婚周年照",
@@ -3897,14 +3929,6 @@
       "onboard_time": 1758448223,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 397124,
-      "num": 177081,
-      "word": "公司反手取消14天年假",
-      "onboard_time": 1758968780,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 395897,
@@ -5763,6 +5787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 259762,
+      "num": 259762,
+      "word": "心动的信号第八季",
+      "onboard_time": 1758963921,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258843,
       "num": 258843,
       "word": "深圳建议储备至少3天的物资",
@@ -5969,14 +6001,6 @@
       "onboard_time": 1758930619,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248642,
-      "num": 248642,
-      "word": "女子卖金镯发现里面被塞沙子",
-      "onboard_time": 1758966799,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248348,
@@ -6331,6 +6355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 231464,
+      "num": 231464,
+      "word": "董璇说结完婚该要孩子了吧",
+      "onboard_time": 1758966863,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230971,
       "num": 230971,
       "word": "桦加沙到哪了",
@@ -6377,14 +6409,6 @@
       "onboard_time": 1758413661,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226343,
-      "num": 226343,
-      "word": "心动的信号第八季",
-      "onboard_time": 1758963921,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 226147,
@@ -7619,6 +7643,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 199049,
+      "num": 199049,
+      "word": "张真源大司命名声在外",
+      "onboard_time": 1758970761,
+      "rank": 15,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 198959,
       "num": 198959,
       "word": "没认出来这是王阳",
@@ -8315,14 +8347,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 189776,
-      "num": 189776,
-      "word": "张凌赫请粉丝吃了一天饭",
-      "onboard_time": 1758969141,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189756,
       "num": 189756,
       "word": "微醺的丞磊",
@@ -8643,6 +8667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185969,
+      "num": 185969,
+      "word": "月子公司称给婴儿勺子喂奶正常",
+      "onboard_time": 1758969439,
+      "rank": 38,
+      "category": "舆论监督,母婴育儿"
+    },
+    {
       "raw_hot": 185962,
       "num": 275773,
       "word": "李宇春 冬泳",
@@ -8913,14 +8945,6 @@
       "onboard_time": 1758467725,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182701,
-      "num": 158362,
-      "word": "董璇说结完婚该要孩子了吧",
-      "onboard_time": 1758966863,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 182595,
@@ -9313,6 +9337,14 @@
       "onboard_time": 1758448042,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177422,
+      "num": 177422,
+      "word": "李沁确定不是18岁么",
+      "onboard_time": 1758966981,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 177281,
@@ -10121,6 +10153,14 @@
       "onboard_time": 1758717022,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166726,
+      "num": 166726,
+      "word": "脑梗的根本原因不是大鱼大肉",
+      "onboard_time": 1758967281,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166452,
@@ -10969,6 +11009,14 @@
       "onboard_time": 1758537381,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157115,
+      "num": 157115,
+      "word": "王安宇大大方方的回应",
+      "onboard_time": 1758971541,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 157017,
@@ -12715,14 +12763,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 141169,
-      "num": 141169,
-      "word": "李沁确定不是18岁么",
-      "onboard_time": 1758966981,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141116,
       "num": 141116,
       "word": "光与夜之恋全新资料片",
@@ -12921,6 +12961,14 @@
       "onboard_time": 1758450680,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139821,
+      "num": 139821,
+      "word": "灼灼韶华",
+      "onboard_time": 1758971181,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 139734,
@@ -13233,14 +13281,6 @@
       "onboard_time": 1758719002,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136910,
-      "num": 136910,
-      "word": "脑梗的根本原因不是大鱼大肉",
-      "onboard_time": 1758967281,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136907,
@@ -13633,6 +13673,14 @@
       "onboard_time": 1758890242,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134185,
+      "num": 134185,
+      "word": "郑钦文vs阿朗戈",
+      "onboard_time": 1758969260,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 134143,
@@ -14731,14 +14779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125448,
-      "num": 125448,
-      "word": "爬泰山失联28岁男子已遇难",
-      "onboard_time": 1758968961,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125427,
       "num": 122894,
       "word": "卢昱晓拍了夜色尚浅同款浴池戏",
@@ -14993,6 +15033,14 @@
       "onboard_time": 1758384081,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123383,
+      "num": 138985,
+      "word": "毛晓彤问心2长发好明媚",
+      "onboard_time": 1758969439,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 123346,
@@ -15723,11 +15771,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117791,
+      "num": 117791,
+      "word": "董璇张维伊 贵妃嫁给了太监总管",
+      "onboard_time": 1758965780,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "上海海港3比2武汉三镇",
       "onboard_time": 1758897262,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117708,
+      "num": 117708,
+      "word": "莫雷加德为郑钦文挑边",
+      "onboard_time": 1758970761,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -16323,14 +16387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113027,
-      "num": 113027,
-      "word": "董璇张维伊 贵妃嫁给了太监总管",
-      "onboard_time": 1758965780,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113017,
       "num": 183190,
       "word": "罗振宇访一汽丰田解密合资新力量",
@@ -16441,6 +16497,14 @@
       "onboard_time": 1758760761,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111949,
+      "num": 111949,
+      "word": "朱一龙想为妹妹李晓擦泪",
+      "onboard_time": 1758971841,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 111944,
@@ -17955,6 +18019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97566,
+      "num": 97566,
+      "word": "莫雷加德为中网挑边",
+      "onboard_time": 1758971120,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97471,
       "num": 120647,
       "word": "炫富清华学霸或面临最高60年监禁",
@@ -18339,14 +18411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93641,
-      "num": 93641,
-      "word": "郑钦文vs阿朗戈",
-      "onboard_time": 1758969260,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93546,
       "num": 93546,
       "word": "房子其实是内心状态的外化",
@@ -18385,6 +18449,14 @@
       "onboard_time": 1758813503,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92928,
+      "num": 92928,
+      "word": "罗云熙古装探案剧上新",
+      "onboard_time": 1758971541,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 92920,
@@ -18643,6 +18715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90117,
+      "num": 90117,
+      "word": "GALA是iG的救世主",
+      "onboard_time": 1758971600,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90091,
       "num": 411932,
       "word": "这一刻远亲不如近邻具象化了",
@@ -18737,6 +18817,14 @@
       "onboard_time": 1758417205,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89385,
+      "num": 89385,
+      "word": "做一次CT对身体的伤害有多大",
+      "onboard_time": 1758971661,
+      "rank": 46,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 89320,
@@ -18907,14 +18995,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 87656,
-      "num": 87656,
-      "word": "毛晓彤问心2长发好明媚",
-      "onboard_time": 1758969439,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87566,
       "num": 89701,
       "word": "杨幂祝你们经常上热搜",
@@ -19025,6 +19105,14 @@
       "onboard_time": 1758694463,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85699,
+      "num": 85699,
+      "word": "孙颖莎正反手对拉狂轰18板",
+      "onboard_time": 1758971541,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 85633,
@@ -19193,6 +19281,14 @@
       "onboard_time": 1758727403,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83652,
+      "num": 83652,
+      "word": "白米饭放两天变黄灿灿",
+      "onboard_time": 1758970939,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83635,
@@ -19593,6 +19689,14 @@
       "onboard_time": 1758851721,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77690,
+      "num": 102768,
+      "word": "乐山商业银行被骗贷33亿",
+      "onboard_time": 1758970820,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77362,
@@ -20377,14 +20481,6 @@
       "onboard_time": 1758460043,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62043,
-      "num": 92340,
-      "word": "月子公司称给婴儿勺子喂奶正常",
-      "onboard_time": 1758969439,
-      "rank": 38,
-      "category": "舆论监督,母婴育儿"
     },
     {
       "raw_hot": 62012,
@@ -21299,6 +21395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49575,
+      "num": 103522,
+      "word": "公司回应补班被举报后取消额外假",
+      "onboard_time": 1758971900,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49394,
       "num": 113710,
       "word": "宋亚轩着魔的子弹十年后正中靶心",
@@ -21828,7 +21932,7 @@
     },
     {
       "raw_hot": 41822,
-      "num": 424460,
+      "num": 722230,
       "word": "北京范儿",
       "onboard_time": 1758969080,
       "rank": 2,
@@ -21889,6 +21993,14 @@
       "onboard_time": 1758953720,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40378,
+      "num": 102643,
+      "word": "台风博罗依致三亚停课",
+      "onboard_time": 1758969801,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 40316,
@@ -23753,6 +23865,14 @@
       "onboard_time": 1758835094,
       "rank": 45,
       "category": "动漫,情感"
+    },
+    {
+      "raw_hot": 12795,
+      "num": 141897,
+      "word": "天马山车神挑战赛",
+      "onboard_time": 1758971781,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 12728,

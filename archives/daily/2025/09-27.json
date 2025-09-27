@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758969546191,
+  "endTime": 1758971927218,
   "band_list": [
     {
       "raw_hot": 1808371,
@@ -51,6 +51,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1051192,
+      "num": 1168190,
+      "word": "公司反手取消14天年假",
+      "onboard_time": 1758968780,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1035595,
       "num": 420947,
       "word": "关晓彤发微博最烦胡说八道的人",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1032960,
-      "num": 228769,
+      "num": 230702,
       "word": "朵朵和陈思诚一模一样",
       "onboard_time": 1758951560,
       "rank": 10,
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 925361,
-      "num": 411781,
+      "num": 708681,
       "word": "战至巅峰直播",
       "onboard_time": 1758967820,
       "rank": 3,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 848375,
+      "num": 397172,
+      "word": "西贝 闭着眼睛点",
+      "onboard_time": 1758968900,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 838830,
@@ -105,6 +121,14 @@
       "onboard_time": 1758896183,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 813569,
+      "num": 813569,
+      "word": "爬泰山失联28岁男子已遇难",
+      "onboard_time": 1758968961,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 771417,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 578281,
-      "num": 196385,
+      "num": 230952,
       "word": "孟子义增肥了快十斤",
       "onboard_time": 1758958580,
       "rank": 11,
@@ -235,20 +259,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 526710,
-      "num": 397172,
-      "word": "西贝 闭着眼睛点",
-      "onboard_time": 1758968900,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 494496,
       "num": 196229,
       "word": "董璇想参加姐姐当家2记录生孩子",
       "onboard_time": 1758958701,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490540,
+      "num": 490540,
+      "word": "iG对战JDG",
+      "onboard_time": 1758964580,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 489838,
@@ -259,19 +283,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 478082,
-      "num": 478082,
-      "word": "iG对战JDG",
-      "onboard_time": 1758964580,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 475313,
       "num": 449655,
       "word": "王玉雯下车门摔倒",
       "onboard_time": 1758896423,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 458210,
+      "num": 231028,
+      "word": "张凌赫请粉丝吃了一天饭",
+      "onboard_time": 1758969141,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -323,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 408573,
+      "num": 408573,
+      "word": "女子卖金镯发现里面被塞沙子",
+      "onboard_time": 1758966799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404069,
       "num": 404069,
       "word": "张杰谢娜结婚周年照",
@@ -337,14 +369,6 @@
       "onboard_time": 1758896663,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 397124,
-      "num": 177081,
-      "word": "公司反手取消14天年假",
-      "onboard_time": 1758968780,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 394462,
@@ -595,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259762,
+      "num": 259762,
+      "word": "心动的信号第八季",
+      "onboard_time": 1758963921,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253413,
       "num": 253413,
       "word": "成毅两京十五日开机上班路透",
@@ -619,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248642,
-      "num": 248642,
-      "word": "女子卖金镯发现里面被塞沙子",
-      "onboard_time": 1758966799,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239727,
       "num": 239727,
       "word": "韩三星财团CJ会长找主播去秘密派对",
@@ -643,11 +667,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 226343,
-      "num": 226343,
-      "word": "心动的信号第八季",
-      "onboard_time": 1758963921,
-      "rank": 37,
+      "raw_hot": 231464,
+      "num": 231464,
+      "word": "董璇说结完婚该要孩子了吧",
+      "onboard_time": 1758966863,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -739,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199049,
+      "num": 199049,
+      "word": "张真源大司命名声在外",
+      "onboard_time": 1758970761,
+      "rank": 15,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 196078,
       "num": 183977,
       "word": "战至巅峰4赛前快闪直播",
@@ -771,12 +803,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 189776,
-      "num": 189776,
-      "word": "张凌赫请粉丝吃了一天饭",
-      "onboard_time": 1758969141,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 185969,
+      "num": 185969,
+      "word": "月子公司称给婴儿勺子喂奶正常",
+      "onboard_time": 1758969439,
+      "rank": 38,
+      "category": "舆论监督,母婴育儿"
     },
     {
       "raw_hot": 183779,
@@ -795,20 +827,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182701,
-      "num": 158362,
-      "word": "董璇说结完婚该要孩子了吧",
-      "onboard_time": 1758966863,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182140,
       "num": 182140,
       "word": "舒淇 女孩",
       "onboard_time": 1758921795,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177422,
+      "num": 177422,
+      "word": "李沁确定不是18岁么",
+      "onboard_time": 1758966981,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 176131,
@@ -865,6 +897,14 @@
       "onboard_time": 1758946640,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166726,
+      "num": 166726,
+      "word": "脑梗的根本原因不是大鱼大肉",
+      "onboard_time": 1758967281,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166209,
@@ -985,6 +1025,14 @@
       "onboard_time": 1758949221,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157115,
+      "num": 157115,
+      "word": "王安宇大大方方的回应",
+      "onboard_time": 1758971541,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 156748,
@@ -1123,19 +1171,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141169,
-      "num": 141169,
-      "word": "李沁确定不是18岁么",
-      "onboard_time": 1758966981,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140850,
       "num": 140850,
       "word": "白敬亭这个挡脸很加分",
       "onboard_time": 1758938179,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139821,
+      "num": 139821,
+      "word": "灼灼韶华",
+      "onboard_time": 1758971181,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1179,14 +1227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136910,
-      "num": 136910,
-      "word": "脑梗的根本原因不是大鱼大肉",
-      "onboard_time": 1758967281,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136907,
       "num": 136907,
       "word": "白鹿说英语",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1758964580,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134185,
+      "num": 134185,
+      "word": "郑钦文vs阿朗戈",
+      "onboard_time": 1758969260,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 133385,
@@ -1371,20 +1419,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 125448,
-      "num": 125448,
-      "word": "爬泰山失联28岁男子已遇难",
-      "onboard_time": 1758968961,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124078,
       "num": 176812,
       "word": "花儿与少年",
       "onboard_time": 1758949221,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123383,
+      "num": 138985,
+      "word": "毛晓彤问心2长发好明媚",
+      "onboard_time": 1758969439,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 122876,
@@ -1451,6 +1499,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117791,
+      "num": 117791,
+      "word": "董璇张维伊 贵妃嫁给了太监总管",
+      "onboard_time": 1758965780,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117708,
+      "num": 117708,
+      "word": "莫雷加德为郑钦文挑边",
+      "onboard_time": 1758970761,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117330,
       "num": 117330,
       "word": "时隔7年刘涛又开客栈了",
@@ -1515,14 +1579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113027,
-      "num": 113027,
-      "word": "董璇张维伊 贵妃嫁给了太监总管",
-      "onboard_time": 1758965780,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112848,
       "num": 112848,
       "word": "李诞一句话就让酷滕原地认了错",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1758878900,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111949,
+      "num": 111949,
+      "word": "朱一龙想为妹妹李晓擦泪",
+      "onboard_time": 1758971841,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 111696,
@@ -1739,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97566,
+      "num": 97566,
+      "word": "莫雷加德为中网挑边",
+      "onboard_time": 1758971120,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97269,
       "num": 97269,
       "word": "张婧仪第二套G社生图",
@@ -1859,14 +1931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93641,
-      "num": 93641,
-      "word": "郑钦文vs阿朗戈",
-      "onboard_time": 1758969260,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93534,
       "num": 93534,
       "word": "人老了还能享受生活吗",
@@ -1888,6 +1952,14 @@
       "word": "赴山海大结局",
       "onboard_time": 1758884720,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92928,
+      "num": 92928,
+      "word": "罗云熙古装探案剧上新",
+      "onboard_time": 1758971541,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1931,12 +2003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90117,
+      "num": 90117,
+      "word": "GALA是iG的救世主",
+      "onboard_time": 1758971600,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89799,
       "num": 89799,
       "word": "沉默的荣耀定档",
       "onboard_time": 1758945800,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89385,
+      "num": 89385,
+      "word": "做一次CT对身体的伤害有多大",
+      "onboard_time": 1758971661,
+      "rank": 46,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 89320,
@@ -1995,20 +2083,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 87656,
-      "num": 87656,
-      "word": "毛晓彤问心2长发好明媚",
-      "onboard_time": 1758969439,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87316,
       "num": 87316,
       "word": "2女生带迷路老人找警察助其回家",
       "onboard_time": 1758943761,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85699,
+      "num": 85699,
+      "word": "孙颖莎正反手对拉狂轰18板",
+      "onboard_time": 1758971541,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 85252,
@@ -2048,6 +2136,14 @@
       "word": "国庆假期倒计时4天",
       "onboard_time": 1758935598,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83652,
+      "num": 83652,
+      "word": "白米饭放两天变黄灿灿",
+      "onboard_time": 1758970939,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2153,6 +2249,14 @@
       "onboard_time": 1758958520,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77690,
+      "num": 102768,
+      "word": "乐山商业银行被骗贷33亿",
+      "onboard_time": 1758970820,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75953,
@@ -2299,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62043,
-      "num": 92340,
-      "word": "月子公司称给婴儿勺子喂奶正常",
-      "onboard_time": 1758969439,
-      "rank": 38,
-      "category": "舆论监督,母婴育儿"
-    },
-    {
       "raw_hot": 61486,
       "num": 73371,
       "word": "苏菲玛索高圆圆十年再同框",
@@ -2443,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49575,
+      "num": 103522,
+      "word": "公司回应补班被举报后取消额外假",
+      "onboard_time": 1758971900,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49394,
       "num": 113710,
       "word": "宋亚轩着魔的子弹十年后正中靶心",
@@ -2516,7 +2620,7 @@
     },
     {
       "raw_hot": 41822,
-      "num": 424460,
+      "num": 722230,
       "word": "北京范儿",
       "onboard_time": 1758969080,
       "rank": 2,
@@ -2537,6 +2641,14 @@
       "onboard_time": 1758953720,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40378,
+      "num": 102643,
+      "word": "台风博罗依致三亚停课",
+      "onboard_time": 1758969801,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 40316,
@@ -2793,6 +2905,14 @@
       "onboard_time": 1758871222,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12795,
+      "num": 141897,
+      "word": "天马山车神挑战赛",
+      "onboard_time": 1758971781,
+      "rank": 25,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
