@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759008995459,
+  "endTime": 1759011698298,
   "band_list": [
     {
       "raw_hot": 1593863,
@@ -201,6 +201,14 @@
       "onboard_time": 1758976881,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173044,
+      "num": 173044,
+      "word": "韩国外卖平台接入支付宝和微信支付",
+      "onboard_time": 1759004773,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 168418,
@@ -483,14 +491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53637,
-      "num": 53637,
-      "word": "韩国外卖平台接入支付宝和微信支付",
-      "onboard_time": 1759004773,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 33617,
       "num": 64975,
       "word": "原来不扫兴的父母都拥有孩子视角",
@@ -555,6 +555,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23316,
+      "num": 26310,
+      "word": "鹿晗新加坡演唱会上座率",
+      "onboard_time": 1759009394,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23295,
+      "num": 26369,
+      "word": "台风博罗依最新路径来了",
+      "onboard_time": 1759006994,
+      "rank": 48,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 23129,
+      "num": 26612,
+      "word": "纽约抗议者鸣笛不让以总理睡觉",
+      "onboard_time": 1759000215,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21540,
+      "num": 26555,
+      "word": "00后女大学生帮老人收完玉米就跑",
+      "onboard_time": 1759003574,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21498,
       "num": 18921,
       "word": "汪苏泷自己给自己逗笑了",
@@ -571,20 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16651,
-      "num": 26612,
-      "word": "纽约抗议者鸣笛不让以总理睡觉",
-      "onboard_time": 1759000215,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 15528,
-      "num": 26555,
-      "word": "00后女大学生帮老人收完玉米就跑",
-      "onboard_time": 1759003574,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 19079,
+      "num": 26186,
+      "word": "广东的台风一个接一个",
+      "onboard_time": 1759008794,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 14546,
@@ -608,14 +632,6 @@
       "word": "陇西居民称有房屋被震裂",
       "onboard_time": 1759005254,
       "rank": 49,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 12783,
-      "num": 18711,
-      "word": "台风博罗依最新路径来了",
-      "onboard_time": 1759006994,
-      "rank": 48,
       "category": "突发/灾害"
     },
     {
