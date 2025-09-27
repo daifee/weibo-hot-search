@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 04:37:40
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 05:21:08
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%85%A5%E6%94%AF%E4%BB%98%E5%AE%9D%E5%92%8C%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
+韩国外卖平台接入支付宝和微信支付（热度：53637）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%8D%E6%89%AB%E5%85%B4%E7%9A%84%E7%88%B6%E6%AF%8D%E9%83%BD%E6%8B%A5%E6%9C%89%E5%AD%A9%E5%AD%90%E8%A7%86%E8%A7%92%23" target="weibo">
 原来不扫兴的父母都拥有孩子视角（热度：33617）
 </a>
@@ -441,8 +447,20 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%AE%E8%80%81%E4%BA%BA%E6%94%B6%E5%AE%8C%E7%8E%89%E7%B1%B3%E5%B0%B1%E8%B7%91%23" target="weibo">
+00后女大学生帮老人收完玉米就跑（热度：15406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23chiikawa%E6%96%B0%E5%8A%A8%E7%94%BB%23" target="weibo">
 chiikawa新动画（热度：14546）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B9%9F%E6%98%AF%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%97%9B%E5%9F%8E%E4%BA%86%23" target="weibo">
+福州也是汪苏泷痛城了（热度：13670）
 </a>
 </li>
 
@@ -453,20 +471,14 @@ chiikawa新动画（热度：14546）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%AE%E8%80%81%E4%BA%BA%E6%94%B6%E5%AE%8C%E7%8E%89%E7%B1%B3%E5%B0%B1%E8%B7%91%23" target="weibo">
-00后女大学生帮老人收完玉米就跑（热度：12225）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%85%A5%E6%94%AF%E4%BB%98%E5%AE%9D%E5%92%8C%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
-韩国外卖平台接入支付宝和微信支付（热度：12127）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%87%E8%A5%BF%E5%B1%85%E6%B0%91%E7%A7%B0%E6%9C%89%E6%88%BF%E5%B1%8B%E8%A2%AB%E9%9C%87%E8%A3%82%23" target="weibo">
-陇西居民称有房屋被震裂（热度：11451）
+陇西居民称有房屋被震裂（热度：12119）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%9A%E7%BD%97%E4%BE%9D%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E6%9D%A5%E4%BA%86%23" target="weibo">
+台风博罗依最新路径来了（热度：11324）
 </a>
 </li>
 
