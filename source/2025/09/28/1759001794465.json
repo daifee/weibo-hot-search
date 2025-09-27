@@ -1,0 +1,410 @@
+{
+  "runTime": 1759001794465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126709,
+        "num": 126709,
+        "word": "瓶子解说",
+        "onboard_time": 1758985463,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94195,
+        "num": 94195,
+        "word": "航班提前15小时起飞惊呆乘客",
+        "onboard_time": 1758987202,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1641,
+        "num": 68240,
+        "word": "基建狂魔又放大招",
+        "onboard_time": 1758939200,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114529,
+        "num": 67835,
+        "word": "刘耀文哭了",
+        "onboard_time": 1758991399,
+        "rank": 3,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 54234,
+        "num": 54234,
+        "word": "老太太碰瓷小女生",
+        "onboard_time": 1758991339,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91459,
+        "num": 53231,
+        "word": "邓超腿受伤",
+        "onboard_time": 1758991459,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62328,
+        "num": 53170,
+        "word": "汪苏泷 爱你的人都希望你自由",
+        "onboard_time": 1758985463,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56978,
+        "num": 53095,
+        "word": "JIUZHE战队夺冠",
+        "onboard_time": 1758994097,
+        "rank": 7,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 51892,
+        "num": 51892,
+        "word": "iG战胜JDG",
+        "onboard_time": 1758976881,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40872,
+        "num": 40872,
+        "word": "连续吃6个月水煮菜胰腺坏死了",
+        "onboard_time": 1758972019,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58507,
+        "num": 40677,
+        "word": "许我耀眼",
+        "onboard_time": 1758980002,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42816,
+        "num": 40339,
+        "word": "最适合关晓彤的一次造型",
+        "onboard_time": 1758985702,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37270,
+        "num": 37270,
+        "word": "老人回应女大学生干完农活就跑",
+        "onboard_time": 1758983301,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 37197,
+        "num": 37197,
+        "word": "汪苏泷点了一碗线面实则两碗",
+        "onboard_time": 1758995117,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35524,
+        "num": 35524,
+        "word": "爬泰山失联28岁男子已遇难",
+        "onboard_time": 1758968961,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33459,
+        "num": 33459,
+        "word": "战至巅峰直播",
+        "onboard_time": 1758967820,
+        "rank": 15,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 30565,
+        "num": 30565,
+        "word": "黄明昊 遇到不公平的事情",
+        "onboard_time": 1758975560,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25350,
+        "num": 30461,
+        "word": "健康减肥的关键",
+        "onboard_time": 1758992478,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 24290,
+        "num": 30246,
+        "word": "做一次CT对身体的伤害有多大",
+        "onboard_time": 1758971661,
+        "rank": 18,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 23808,
+        "num": 30113,
+        "word": "明天要上班今晚早点睡",
+        "onboard_time": 1758997335,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81067,
+        "num": 30065,
+        "word": "鞠婧祎 大雷",
+        "onboard_time": 1758960862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67620,
+        "num": 29759,
+        "word": "张维伊把婚房订成了三人间",
+        "onboard_time": 1758965180,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29755,
+        "num": 29755,
+        "word": "朋友圈令人非常不爽的现象",
+        "onboard_time": 1758982881,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26890,
+        "num": 26890,
+        "word": "刘雪华回应为新戏拔掉全口牙",
+        "onboard_time": 1758985643,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26615,
+        "num": 26615,
+        "word": "鹿晗新加坡",
+        "onboard_time": 1758974001,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26068,
+        "num": 26068,
+        "word": "章若楠跳angel舞了",
+        "onboard_time": 1759000453,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25989,
+        "num": 25989,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1758969739,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25007,
+        "num": 25988,
+        "word": "引导型恋人",
+        "onboard_time": 1758992658,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24376,
+        "num": 25987,
+        "word": "战至巅峰",
+        "onboard_time": 1758959000,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 23331,
+        "num": 25985,
+        "word": "27万买到全损奔驰车",
+        "onboard_time": 1758983301,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22430,
+        "num": 25981,
+        "word": "巴基斯坦总理称让印度颜面扫地",
+        "onboard_time": 1758982824,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21187,
+        "num": 25981,
+        "word": "失联女孩在当地华人及使馆帮助下找到",
+        "onboard_time": 1758983842,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20459,
+        "num": 25978,
+        "word": "肖战出发澳门湾区升明月",
+        "onboard_time": 1758977601,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20191,
+        "num": 25977,
+        "word": "哥嫂欠178万未还清嫂子杀死小叔",
+        "onboard_time": 1758974961,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20056,
+        "num": 25974,
+        "word": "严浩翔上场",
+        "onboard_time": 1758980543,
+        "rank": 34,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 19233,
+        "num": 25971,
+        "word": "刘萧旭女友正脸",
+        "onboard_time": 1758977842,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18616,
+        "num": 25968,
+        "word": "刘宇宁一开口我到红磡了",
+        "onboard_time": 1758989302,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17900,
+        "num": 25968,
+        "word": "孙怡因染发导致脸肿",
+        "onboard_time": 1758965662,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17432,
+        "num": 25964,
+        "word": "Rookie 隔6年了",
+        "onboard_time": 1758980302,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17248,
+        "num": 25964,
+        "word": "小酒窝和朵朵一起接受央视采访",
+        "onboard_time": 1758973701,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17178,
+        "num": 25960,
+        "word": "久哲战队",
+        "onboard_time": 1758978441,
+        "rank": 40,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 19131,
+        "num": 25959,
+        "word": "肖战刘宇宁刘雨昕等歌唱曲目",
+        "onboard_time": 1758986301,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16693,
+        "num": 25956,
+        "word": "周深将唱响经典歌曲故乡的云",
+        "onboard_time": 1759000453,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17048,
+        "num": 25954,
+        "word": "水晶宫2比1利物浦",
+        "onboard_time": 1758992418,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16178,
+        "num": 25954,
+        "word": "千里江山图",
+        "onboard_time": 1758986002,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16129,
+        "num": 25952,
+        "word": "马竞vs皇马",
+        "onboard_time": 1758984323,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15510,
+        "num": 25950,
+        "word": "纽约抗议者鸣笛不让以总理睡觉",
+        "onboard_time": 1759000215,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15442,
+        "num": 25946,
+        "word": "周也 贝雷帽战神",
+        "onboard_time": 1758986962,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15061,
+        "num": 25945,
+        "word": "内娱电竞群像",
+        "onboard_time": 1758991578,
+        "rank": 48,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 14546,
+        "num": 25943,
+        "word": "chiikawa新动画",
+        "onboard_time": 1759001594,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新疆之行#"
+    }
+  }
+}
