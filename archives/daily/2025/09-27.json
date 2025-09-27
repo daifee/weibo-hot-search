@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758968631690,
+  "endTime": 1758969546191,
   "band_list": [
     {
       "raw_hot": 1808371,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1369182,
-      "num": 168767,
+      "raw_hot": 1381218,
+      "num": 187142,
       "word": "张维伊把婚房订成了三人间",
       "onboard_time": 1758965180,
       "rank": 6,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 925361,
-      "num": 273318,
+      "num": 411781,
       "word": "战至巅峰直播",
       "onboard_time": 1758967820,
       "rank": 3,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 648929,
-      "num": 157215,
+      "num": 182703,
       "word": "孙怡因染发导致脸肿",
       "onboard_time": 1758965662,
       "rank": 32,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 607718,
-      "num": 295017,
+      "num": 376373,
       "word": "战至巅峰",
       "onboard_time": 1758900203,
       "rank": 35,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 526710,
+      "num": 397172,
+      "word": "西贝 闭着眼睛点",
+      "onboard_time": 1758968900,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494496,
       "num": 196229,
       "word": "董璇想参加姐姐当家2记录生孩子",
@@ -249,6 +257,14 @@
       "onboard_time": 1758955400,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478082,
+      "num": 478082,
+      "word": "iG对战JDG",
+      "onboard_time": 1758964580,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 475313,
@@ -323,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 397124,
+      "num": 177081,
+      "word": "公司反手取消14天年假",
+      "onboard_time": 1758968780,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 394462,
       "num": 213731,
       "word": "李现关晓彤 霸总和大小姐",
@@ -385,14 +409,6 @@
       "onboard_time": 1758947423,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 341323,
-      "num": 341323,
-      "word": "iG对战JDG",
-      "onboard_time": 1758964580,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 335705,
@@ -603,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248642,
+      "num": 248642,
+      "word": "女子卖金镯发现里面被塞沙子",
+      "onboard_time": 1758966799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239727,
       "num": 239727,
       "word": "韩三星财团CJ会长找主播去秘密派对",
@@ -617,6 +641,14 @@
       "onboard_time": 1758930619,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 226343,
+      "num": 226343,
+      "word": "心动的信号第八季",
+      "onboard_time": 1758963921,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 224265,
@@ -739,6 +771,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 189776,
+      "num": 189776,
+      "word": "张凌赫请粉丝吃了一天饭",
+      "onboard_time": 1758969141,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183779,
       "num": 183779,
       "word": "魅影神捕官宣杀青",
@@ -753,6 +793,14 @@
       "onboard_time": 1758950900,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182701,
+      "num": 158362,
+      "word": "董璇说结完婚该要孩子了吧",
+      "onboard_time": 1758966863,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 182140,
@@ -883,14 +931,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 160540,
-      "num": 130970,
-      "word": "董璇说结完婚该要孩子了吧",
-      "onboard_time": 1758966863,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160145,
       "num": 160145,
       "word": "宋轶太撩人了",
@@ -899,8 +939,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158472,
-      "num": 158472,
+      "raw_hot": 159394,
+      "num": 159394,
       "word": "别让百亿补贴补出白色污染",
       "onboard_time": 1758953421,
       "rank": 49,
@@ -929,6 +969,14 @@
       "onboard_time": 1758949700,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157540,
+      "num": 157540,
+      "word": "被东北的烤肉震惊到了",
+      "onboard_time": 1758969080,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 157464,
@@ -1075,12 +1123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141034,
-      "num": 158230,
-      "word": "女子卖金镯发现里面被塞沙子",
-      "onboard_time": 1758966799,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 141169,
+      "num": 141169,
+      "word": "李沁确定不是18岁么",
+      "onboard_time": 1758966981,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 140850,
@@ -1131,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136910,
+      "num": 136910,
+      "word": "脑梗的根本原因不是大鱼大肉",
+      "onboard_time": 1758967281,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136907,
       "num": 136907,
       "word": "白鹿说英语",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1758901343,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134919,
+      "num": 134919,
+      "word": "丽江民宿房间发现摄像头",
+      "onboard_time": 1758964580,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133385,
@@ -1211,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130611,
-      "num": 109316,
-      "word": "脑梗的根本原因不是大鱼大肉",
-      "onboard_time": 1758967281,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130424,
       "num": 130424,
       "word": "陈伟霆许我耀眼造型",
@@ -1241,14 +1297,6 @@
       "onboard_time": 1758963861,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128472,
-      "num": 128472,
-      "word": "丽江民宿房间发现摄像头",
-      "onboard_time": 1758964580,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127441,
@@ -1283,20 +1331,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126935,
-      "num": 135130,
-      "word": "心动的信号第八季",
-      "onboard_time": 1758963921,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126440,
       "num": 145944,
       "word": "万千惠说上个节目赚大发了",
       "onboard_time": 1758952820,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126262,
+      "num": 126262,
+      "word": "官方通报烤肉店使用阴阳菜单",
+      "onboard_time": 1758967220,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 125842,
@@ -1323,6 +1371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125448,
+      "num": 125448,
+      "word": "爬泰山失联28岁男子已遇难",
+      "onboard_time": 1758968961,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124078,
       "num": 176812,
       "word": "花儿与少年",
@@ -1337,14 +1393,6 @@
       "onboard_time": 1758960801,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122553,
-      "num": 133560,
-      "word": "李沁确定不是18岁么",
-      "onboard_time": 1758966981,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 122387,
@@ -1489,14 +1537,6 @@
       "onboard_time": 1758878900,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112219,
-      "num": 112219,
-      "word": "官方通报烤肉店使用阴阳菜单",
-      "onboard_time": 1758967220,
-      "rank": 28,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 111696,
@@ -1819,6 +1859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93641,
+      "num": 93641,
+      "word": "郑钦文vs阿朗戈",
+      "onboard_time": 1758969260,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93534,
       "num": 93534,
       "word": "人老了还能享受生活吗",
@@ -1947,12 +1995,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87656,
+      "num": 87656,
+      "word": "毛晓彤问心2长发好明媚",
+      "onboard_time": 1758969439,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87316,
       "num": 87316,
       "word": "2女生带迷路老人找警察助其回家",
       "onboard_time": 1758943761,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85252,
+      "num": 85252,
+      "word": "爸爸的同事现在成了我的同事",
+      "onboard_time": 1758969439,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85084,
+      "num": 85084,
+      "word": "徐振轩人红了脸就变得清晰了",
+      "onboard_time": 1758969501,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 85037,
@@ -2227,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62043,
+      "num": 92340,
+      "word": "月子公司称给婴儿勺子喂奶正常",
+      "onboard_time": 1758969439,
+      "rank": 38,
+      "category": "舆论监督,母婴育儿"
+    },
+    {
       "raw_hot": 61486,
       "num": 73371,
       "word": "苏菲玛索高圆圆十年再同框",
@@ -2435,6 +2515,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 41822,
+      "num": 424460,
+      "word": "北京范儿",
+      "onboard_time": 1758969080,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40995,
       "num": 120076,
       "word": "快递涨价后能送上门吗",
@@ -2561,6 +2649,14 @@
       "onboard_time": 1758914714,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 28874,
+      "num": 94698,
+      "word": "世界是个更大的疯人院",
+      "onboard_time": 1758968360,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 27053,
@@ -2697,14 +2793,6 @@
       "onboard_time": 1758871222,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10873,
-      "num": 94698,
-      "word": "世界是个更大的疯人院",
-      "onboard_time": 1758968360,
-      "rank": 39,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
