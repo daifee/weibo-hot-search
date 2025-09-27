@@ -1,0 +1,410 @@
+{
+  "runTime": 1758951511834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 602705,
+        "num": 1096432,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439264,
+        "num": 439264,
+        "word": "一单位招50个事业编年薪60万起",
+        "onboard_time": 1758947840,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37537,
+        "num": 363835,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758943279,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343871,
+        "num": 343871,
+        "word": "重庆两地发现上百株冥界之花",
+        "onboard_time": 1758947423,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319867,
+        "num": 319867,
+        "word": "小米17破25年国产手机首销纪录",
+        "onboard_time": 1758944239,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167946,
+        "num": 319690,
+        "word": "鹿晗包场支持刺杀小说家2",
+        "onboard_time": 1758945019,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147611,
+        "num": 303365,
+        "word": "黄磊说彩灯走了就剩下俩老登",
+        "onboard_time": 1758949160,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134145,
+        "num": 297028,
+        "word": "迪丽热巴中秋奇妙游",
+        "onboard_time": 1758947180,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 436425,
+        "num": 288321,
+        "word": "小学教师转岗教高中",
+        "onboard_time": 1758945019,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 131461,
+        "num": 278945,
+        "word": "志愿军老兵参演电影志愿军3",
+        "onboard_time": 1758950180,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1035674,
+        "num": 276099,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747014,
+        "num": 265181,
+        "word": "张婧仪眉骨打伞",
+        "onboard_time": 1758947540,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 605791,
+        "num": 259117,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540866,
+        "num": 245495,
+        "word": "张维伊说即使被骂也要感谢节目",
+        "onboard_time": 1758948740,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125504,
+        "num": 237357,
+        "word": "A股中国版英伟达或将诞生",
+        "onboard_time": 1758950720,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 538332,
+        "num": 227735,
+        "word": "Angelababy这个时候才17岁",
+        "onboard_time": 1758944660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224950,
+        "num": 224950,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1758935060,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117332,
+        "num": 224853,
+        "word": "马斯克出现在爱泼斯坦案文件中",
+        "onboard_time": 1758930619,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185674,
+        "num": 223893,
+        "word": "丁禹兮扛住了外媒镜头",
+        "onboard_time": 1758942439,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38550,
+        "num": 223605,
+        "word": "丁禹兮常华森鞠婧祎同框",
+        "onboard_time": 1758949460,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600640,
+        "num": 222960,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381537,
+        "num": 222128,
+        "word": "董璇张维伊婚礼照",
+        "onboard_time": 1758947660,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326224,
+        "num": 221783,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114290,
+        "num": 220613,
+        "word": "KT对战GEN",
+        "onboard_time": 1758950001,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 303760,
+        "num": 220223,
+        "word": "黄磊11岁女儿身高",
+        "onboard_time": 1758948980,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219916,
+        "num": 219916,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206537,
+        "num": 206537,
+        "word": "这居然是辛云来",
+        "onboard_time": 1758951081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127916,
+        "num": 201675,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 199410,
+        "num": 199410,
+        "word": "沈梦瑶顶级魅魔",
+        "onboard_time": 1758951140,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114248,
+        "num": 190695,
+        "word": "内娱终于又拍真实谍战了",
+        "onboard_time": 1758950420,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183360,
+        "num": 183360,
+        "word": "东北的农村和我想的不太一样",
+        "onboard_time": 1758950900,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157799,
+        "num": 157799,
+        "word": "孟子义 大小姐归来",
+        "onboard_time": 1758949700,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154475,
+        "num": 154475,
+        "word": "关掉美颜大家化的妆都一样",
+        "onboard_time": 1758943820,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139098,
+        "num": 139098,
+        "word": "女子做豆浆忘加水解锁醇香秘诀",
+        "onboard_time": 1758939380,
+        "rank": 33,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 127032,
+        "num": 127032,
+        "word": "陈伟霆许我耀眼造型",
+        "onboard_time": 1758949041,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121294,
+        "num": 121294,
+        "word": "1年还清百万负债全家在杭州安家",
+        "onboard_time": 1758950240,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120759,
+        "num": 120759,
+        "word": "耿爽表示中方深表遗憾",
+        "onboard_time": 1758948920,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120557,
+        "num": 120557,
+        "word": "陈泽回应霸凌同学",
+        "onboard_time": 1758947360,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59987,
+        "num": 119479,
+        "word": "偷偷给孩子带饭的上海家长",
+        "onboard_time": 1758950720,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61406,
+        "num": 119380,
+        "word": "马思纯颜值状态",
+        "onboard_time": 1758950780,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119376,
+        "num": 119376,
+        "word": "王源魏大勋一起逛街了",
+        "onboard_time": 1758946640,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117290,
+        "num": 117290,
+        "word": "韩国男孩从6岁吐到15岁",
+        "onboard_time": 1758945200,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109170,
+        "num": 109170,
+        "word": "孙颖莎就是小太阳啊",
+        "onboard_time": 1758950661,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106167,
+        "num": 106167,
+        "word": "网传光明接管后的上海学生餐",
+        "onboard_time": 1758946520,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99660,
+        "num": 99660,
+        "word": "王者新英雄蚩奼",
+        "onboard_time": 1758949160,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98918,
+        "num": 98918,
+        "word": "短裙变长裙美极了",
+        "onboard_time": 1758950960,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97261,
+        "num": 97261,
+        "word": "时代少年团向着光的方向前行",
+        "onboard_time": 1758950361,
+        "rank": 46,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 96017,
+        "num": 96017,
+        "word": "青岛女子在美国被丈夫杀害",
+        "onboard_time": 1758942800,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95109,
+        "num": 95109,
+        "word": "小米之家零售系统崩了",
+        "onboard_time": 1758950540,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85215,
+        "num": 94406,
+        "word": "林更新两京十五日",
+        "onboard_time": 1758949700,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何一再强调石榴籽#"
+    }
+  }
+}
