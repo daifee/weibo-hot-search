@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1758994613031,
+  "endTime": 1758997909514,
   "band_list": [
     {
       "raw_hot": 1593863,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 129087,
-      "num": 103394,
+      "num": 118575,
       "word": "JIUZHE战队夺冠",
       "onboard_time": 1758994097,
       "rank": 15,
@@ -475,12 +475,44 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 51343,
+      "num": 46215,
+      "word": "汪苏泷点了一碗线面实则两碗",
+      "onboard_time": 1758995117,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33617,
       "num": 64975,
       "word": "原来不扫兴的父母都拥有孩子视角",
       "onboard_time": 1758994577,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 24520,
+      "num": 35430,
+      "word": "王鹤棣现身成都NBA聚星名人赛",
+      "onboard_time": 1758996735,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23992,
+      "num": 35422,
+      "word": "鞠婧祎米兰启程回国",
+      "onboard_time": 1758997155,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23947,
+      "num": 35422,
+      "word": "千里江山图",
+      "onboard_time": 1758986002,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 6393,

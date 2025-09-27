@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758994613031,
+  "endTime": 1758997909514,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -53500,7 +53500,7 @@
     },
     {
       "raw_hot": 129087,
-      "num": 103394,
+      "num": 118575,
       "word": "JIUZHE战队夺冠",
       "onboard_time": 1758994097,
       "rank": 15,
@@ -80907,6 +80907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51343,
+      "num": 46215,
+      "word": "汪苏泷点了一碗线面实则两碗",
+      "onboard_time": 1758995117,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51321,
       "num": 109483,
       "word": "王安宇路人的时候",
@@ -86619,6 +86627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24520,
+      "num": 35430,
+      "word": "王鹤棣现身成都NBA聚星名人赛",
+      "onboard_time": 1758996735,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24504,
       "num": 195092,
       "word": "打卡我担同款Ami限时店",
@@ -86729,6 +86745,14 @@
       "onboard_time": 1758699562,
       "rank": 19,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 23992,
+      "num": 35422,
+      "word": "鞠婧祎米兰启程回国",
+      "onboard_time": 1758997155,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 23975,
