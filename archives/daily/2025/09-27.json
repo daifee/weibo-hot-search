@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758951511834,
+  "endTime": 1758954747643,
   "band_list": [
     {
       "raw_hot": 1619192,
@@ -41,6 +41,14 @@
       "onboard_time": 1758892581,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1032960,
+      "num": 186799,
+      "word": "朵朵和陈思诚一模一样",
+      "onboard_time": 1758951560,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1008644,
@@ -203,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 394462,
+      "num": 168719,
+      "word": "李现关晓彤 霸总和大小姐",
+      "onboard_time": 1758952941,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393515,
       "num": 393515,
       "word": "李鸿其王紫璇牵手走红毯",
@@ -217,6 +233,14 @@
       "onboard_time": 1758947660,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362115,
+      "num": 208076,
+      "word": "谢娜没想到一个节目愿意只拍她回家",
+      "onboard_time": 1758952100,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 360712,
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283999,
+      "num": 205410,
+      "word": "毛不易你火成我不认识的样子了",
+      "onboard_time": 1758952160,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 281453,
       "num": 281453,
       "word": "肖战湾区升明月唱整晚的音乐",
@@ -369,6 +401,14 @@
       "onboard_time": 1758901161,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262044,
+      "num": 303365,
+      "word": "黄磊说彩灯走了就剩下俩老登",
+      "onboard_time": 1758949160,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 253413,
@@ -515,6 +555,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 189979,
+      "num": 189979,
+      "word": "万千惠彻查公司前五年账本",
+      "onboard_time": 1758953301,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183779,
       "num": 183779,
       "word": "魅影神捕官宣杀青",
@@ -568,6 +616,14 @@
       "word": "刘宇宁衣服很贵多穿一会",
       "onboard_time": 1758898342,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 163975,
+      "num": 163975,
+      "word": "王嘉尔我那出国的白月光何时回国",
+      "onboard_time": 1758953119,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -651,12 +707,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 147611,
-      "num": 303365,
-      "word": "黄磊说彩灯走了就剩下俩老登",
-      "onboard_time": 1758949160,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 147102,
+      "num": 147102,
+      "word": "窦靖童担心会遗传窦唯的秃头",
+      "onboard_time": 1758953961,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 146906,
@@ -691,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144980,
+      "num": 144980,
+      "word": "王玉雯 你们谁发出去的",
+      "onboard_time": 1758952100,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142215,
       "num": 120192,
       "word": "何卓佳向王楚钦竖大拇指",
@@ -713,6 +777,14 @@
       "onboard_time": 1758934399,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141566,
+      "num": 141566,
+      "word": "1年还清百万负债全家在杭州安家",
+      "onboard_time": 1758950240,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140850,
@@ -753,6 +825,14 @@
       "onboard_time": 1758942861,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136907,
+      "num": 136907,
+      "word": "白鹿说英语",
+      "onboard_time": 1758953181,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 135897,
@@ -835,6 +915,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126440,
+      "num": 145944,
+      "word": "万千惠说上个节目赚大发了",
+      "onboard_time": 1758952820,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125842,
+      "num": 125842,
+      "word": "孙天宇 蒋易这是点我呢",
+      "onboard_time": 1758954141,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125615,
+      "num": 125615,
+      "word": "小酒窝一进门就开始全面营业打招呼",
+      "onboard_time": 1758951979,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125504,
       "num": 237357,
       "word": "A股中国版英伟达或将诞生",
@@ -857,14 +961,6 @@
       "onboard_time": 1758944660,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121294,
-      "num": 121294,
-      "word": "1年还清百万负债全家在杭州安家",
-      "onboard_time": 1758950240,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121194,
@@ -897,6 +993,14 @@
       "onboard_time": 1758931220,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117075,
+      "num": 117075,
+      "word": "短裙变长裙美极了",
+      "onboard_time": 1758950960,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116800,
@@ -987,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101833,
+      "num": 101833,
+      "word": "宋轶太撩人了",
+      "onboard_time": 1758954500,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101085,
       "num": 101085,
       "word": "店长连续工作8小时因闭眼2秒遭解雇",
@@ -1001,14 +1113,6 @@
       "onboard_time": 1758901880,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98918,
-      "num": 98918,
-      "word": "短裙变长裙美极了",
-      "onboard_time": 1758950960,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98838,
@@ -1081,6 +1185,14 @@
       "onboard_time": 1758950540,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95009,
+      "num": 172246,
+      "word": "戴向宇卖房结婚",
+      "onboard_time": 1758954019,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 94772,
@@ -1283,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80454,
+      "num": 142181,
+      "word": "聂远女儿提到王安宇秒变夹子音",
+      "onboard_time": 1758953901,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80392,
       "num": 80392,
       "word": "马斯克回应出现在爱泼斯坦相关文件",
@@ -1337,6 +1457,14 @@
       "onboard_time": 1758894863,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73532,
+      "num": 176326,
+      "word": "美团闪购让我秒提YU7",
+      "onboard_time": 1758953119,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 73027,
@@ -1619,6 +1747,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 36026,
+      "num": 170925,
+      "word": "GUCCI全新系列竟然这么快能买到",
+      "onboard_time": 1758953119,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 34953,
       "num": 69089,
       "word": "孟子义早期眉眼",
@@ -1633,6 +1769,14 @@
       "onboard_time": 1758907038,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33008,
+      "num": 120242,
+      "word": "辛芷蕾 白跟你们拜拜了",
+      "onboard_time": 1758954321,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 32182,
@@ -1683,12 +1827,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 25491,
+      "num": 119544,
+      "word": "沈腾这下是怎么也洗不清了",
+      "onboard_time": 1758954380,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24635,
       "num": 69081,
       "word": "官方回应女院长在老人面前热舞",
       "onboard_time": 1758907516,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24587,
+      "num": 173493,
+      "word": "杨瀚森说开拓者对我意义非凡",
+      "onboard_time": 1758953720,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24088,
+      "num": 179135,
+      "word": "微博篮球之夜全阵容",
+      "onboard_time": 1758952941,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 23651,
@@ -1737,6 +1905,14 @@
       "onboard_time": 1758909197,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16839,
+      "num": 98214,
+      "word": "沈阳警方缴获近10吨笑气",
+      "onboard_time": 1758953119,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16205,

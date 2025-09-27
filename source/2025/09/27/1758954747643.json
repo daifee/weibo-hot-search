@@ -1,0 +1,410 @@
+{
+  "runTime": 1758954747643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 511426,
+        "num": 1081828,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332291,
+        "num": 332291,
+        "word": "一单位招50个事业编年薪60万起",
+        "onboard_time": 1758947840,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36244,
+        "num": 278875,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758943279,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236259,
+        "num": 236259,
+        "word": "小米17破25年国产手机首销纪录",
+        "onboard_time": 1758944239,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217305,
+        "num": 217305,
+        "word": "重庆两地发现上百株冥界之花",
+        "onboard_time": 1758947423,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362115,
+        "num": 208076,
+        "word": "谢娜没想到一个节目愿意只拍她回家",
+        "onboard_time": 1758952100,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283999,
+        "num": 205410,
+        "word": "毛不易你火成我不认识的样子了",
+        "onboard_time": 1758952160,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262044,
+        "num": 200912,
+        "word": "黄磊说彩灯走了就剩下俩老登",
+        "onboard_time": 1758949160,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189979,
+        "num": 189979,
+        "word": "万千惠彻查公司前五年账本",
+        "onboard_time": 1758953301,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120056,
+        "num": 189058,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1032960,
+        "num": 186799,
+        "word": "朵朵和陈思诚一模一样",
+        "onboard_time": 1758951560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522382,
+        "num": 186258,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450387,
+        "num": 183995,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412022,
+        "num": 181019,
+        "word": "张婧仪眉骨打伞",
+        "onboard_time": 1758947540,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24088,
+        "num": 179135,
+        "word": "微博篮球之夜全阵容",
+        "onboard_time": 1758952941,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338526,
+        "num": 177874,
+        "word": "Angelababy这个时候才17岁",
+        "onboard_time": 1758944660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73532,
+        "num": 176326,
+        "word": "美团闪购让我秒提YU7",
+        "onboard_time": 1758953119,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24587,
+        "num": 173493,
+        "word": "杨瀚森说开拓者对我意义非凡",
+        "onboard_time": 1758953720,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95009,
+        "num": 172246,
+        "word": "戴向宇卖房结婚",
+        "onboard_time": 1758954019,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36026,
+        "num": 170925,
+        "word": "GUCCI全新系列竟然这么快能买到",
+        "onboard_time": 1758953119,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 394462,
+        "num": 168719,
+        "word": "李现关晓彤 霸总和大小姐",
+        "onboard_time": 1758952941,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298222,
+        "num": 167446,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222183,
+        "num": 165491,
+        "word": "董璇张维伊婚礼照",
+        "onboard_time": 1758947660,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163975,
+        "num": 163975,
+        "word": "王嘉尔我那出国的白月光何时回国",
+        "onboard_time": 1758953119,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147102,
+        "num": 147102,
+        "word": "窦靖童担心会遗传窦唯的秃头",
+        "onboard_time": 1758953961,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126440,
+        "num": 145944,
+        "word": "万千惠说上个节目赚大发了",
+        "onboard_time": 1758952820,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144980,
+        "num": 144980,
+        "word": "王玉雯 你们谁发出去的",
+        "onboard_time": 1758952100,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90951,
+        "num": 143113,
+        "word": "东北的农村和我想的不太一样",
+        "onboard_time": 1758950900,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208437,
+        "num": 142968,
+        "word": "张维伊说即使被骂也要感谢节目",
+        "onboard_time": 1758948740,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80454,
+        "num": 142181,
+        "word": "聂远女儿提到王安宇秒变夹子音",
+        "onboard_time": 1758953901,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141953,
+        "num": 141953,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141835,
+        "num": 141835,
+        "word": "黄磊11岁女儿身高",
+        "onboard_time": 1758948980,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141566,
+        "num": 141566,
+        "word": "1年还清百万负债全家在杭州安家",
+        "onboard_time": 1758950240,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136907,
+        "num": 136907,
+        "word": "白鹿说英语",
+        "onboard_time": 1758953181,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126319,
+        "num": 126319,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1758935060,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125842,
+        "num": 125842,
+        "word": "孙天宇 蒋易这是点我呢",
+        "onboard_time": 1758954141,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125615,
+        "num": 125615,
+        "word": "小酒窝一进门就开始全面营业打招呼",
+        "onboard_time": 1758951979,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123299,
+        "num": 123299,
+        "word": "这居然是辛云来",
+        "onboard_time": 1758951081,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33008,
+        "num": 120242,
+        "word": "辛芷蕾 白跟你们拜拜了",
+        "onboard_time": 1758954321,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25491,
+        "num": 119544,
+        "word": "沈腾这下是怎么也洗不清了",
+        "onboard_time": 1758954380,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119384,
+        "num": 119384,
+        "word": "女子做豆浆忘加水解锁醇香秘诀",
+        "onboard_time": 1758939380,
+        "rank": 40,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 117075,
+        "num": 117075,
+        "word": "短裙变长裙美极了",
+        "onboard_time": 1758950960,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108960,
+        "num": 108960,
+        "word": "沈梦瑶顶级魅魔",
+        "onboard_time": 1758951140,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101833,
+        "num": 101833,
+        "word": "宋轶太撩人了",
+        "onboard_time": 1758954500,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100590,
+        "num": 100590,
+        "word": "关掉美颜大家化的妆都一样",
+        "onboard_time": 1758943820,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16839,
+        "num": 98214,
+        "word": "沈阳警方缴获近10吨笑气",
+        "onboard_time": 1758953119,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80938,
+        "num": 97539,
+        "word": "A股中国版英伟达或将诞生",
+        "onboard_time": 1758950720,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97505,
+        "num": 97505,
+        "word": "孟子义 大小姐归来",
+        "onboard_time": 1758949700,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30882,
+        "num": 95170,
+        "word": "丁禹兮常华森鞠婧祎同框",
+        "onboard_time": 1758949460,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94943,
+        "num": 94943,
+        "word": "耿爽表示中方深表遗憾",
+        "onboard_time": 1758948920,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何一再强调石榴籽#"
+    }
+  }
+}

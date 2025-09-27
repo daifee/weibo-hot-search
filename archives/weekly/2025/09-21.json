@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758951511834,
+  "endTime": 1758954747643,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -905,6 +905,14 @@
       "onboard_time": 1758506061,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1032960,
+      "num": 186799,
+      "word": "朵朵和陈思诚一模一样",
+      "onboard_time": 1758951560,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1030086,
@@ -3795,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394462,
+      "num": 168719,
+      "word": "李现关晓彤 霸总和大小姐",
+      "onboard_time": 1758952941,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393515,
       "num": 393515,
       "word": "李鸿其王紫璇牵手走红毯",
@@ -4104,6 +4120,14 @@
       "word": "心动的信号",
       "onboard_time": 1758514342,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362115,
+      "num": 208076,
+      "word": "谢娜没想到一个节目愿意只拍她回家",
+      "onboard_time": 1758952100,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -5051,6 +5075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283999,
+      "num": 205410,
+      "word": "毛不易你火成我不认识的样子了",
+      "onboard_time": 1758952160,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 283924,
       "num": 423524,
       "word": "白鹿米兰街拍一整个权威",
@@ -5481,6 +5513,14 @@
       "onboard_time": 1758901161,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262044,
+      "num": 303365,
+      "word": "黄磊说彩灯走了就剩下俩老登",
+      "onboard_time": 1758949160,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 261973,
@@ -8067,6 +8107,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 189979,
+      "num": 189979,
+      "word": "万千惠彻查公司前五年账本",
+      "onboard_time": 1758953301,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189756,
       "num": 189756,
       "word": "微醺的丞磊",
@@ -10019,6 +10067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163975,
+      "num": 163975,
+      "word": "王嘉尔我那出国的白月光何时回国",
+      "onboard_time": 1758953119,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163886,
       "num": 214780,
       "word": "深圳不语只是一味提前砍树",
@@ -11603,14 +11659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147611,
-      "num": 303365,
-      "word": "黄磊说彩灯走了就剩下俩老登",
-      "onboard_time": 1758949160,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147595,
       "num": 206167,
       "word": "喜人把一生辛胡凑齐了",
@@ -11657,6 +11705,14 @@
       "onboard_time": 1758698542,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147102,
+      "num": 147102,
+      "word": "窦靖童担心会遗传窦唯的秃头",
+      "onboard_time": 1758953961,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 147082,
@@ -11865,6 +11921,14 @@
       "onboard_time": 1758432982,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144980,
+      "num": 144980,
+      "word": "王玉雯 你们谁发出去的",
+      "onboard_time": 1758952100,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 144919,
@@ -12289,6 +12353,14 @@
       "onboard_time": 1758634704,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141566,
+      "num": 141566,
+      "word": "1年还清百万负债全家在杭州安家",
+      "onboard_time": 1758950240,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141314,
@@ -12825,6 +12897,14 @@
       "onboard_time": 1758719002,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136907,
+      "num": 136907,
+      "word": "白鹿说英语",
+      "onboard_time": 1758953181,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 136879,
@@ -14139,6 +14219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126440,
+      "num": 145944,
+      "word": "万千惠说上个节目赚大发了",
+      "onboard_time": 1758952820,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126252,
       "num": 126252,
       "word": "王楚钦推荐的北京小吃",
@@ -14195,12 +14283,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125842,
+      "num": 125842,
+      "word": "孙天宇 蒋易这是点我呢",
+      "onboard_time": 1758954141,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125701,
       "num": 221651,
       "word": "桦加沙 国庆",
       "onboard_time": 1758722423,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125615,
+      "num": 125615,
+      "word": "小酒窝一进门就开始全面营业打招呼",
+      "onboard_time": 1758951979,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 125601,
@@ -14763,14 +14867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121294,
-      "num": 121294,
-      "word": "1年还清百万负债全家在杭州安家",
-      "onboard_time": 1758950240,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121224,
       "num": 121224,
       "word": "AG泰式校服校园感",
@@ -15289,6 +15385,14 @@
       "onboard_time": 1758617486,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117075,
+      "num": 117075,
+      "word": "短裙变长裙美极了",
+      "onboard_time": 1758950960,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117072,
@@ -16891,6 +16995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101833,
+      "num": 101833,
+      "word": "宋轶太撩人了",
+      "onboard_time": 1758954500,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101775,
       "num": 101775,
       "word": "女子凌晨街头产子赤脚抱婴儿",
@@ -17169,14 +17281,6 @@
       "onboard_time": 1758901880,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98918,
-      "num": 98918,
-      "word": "短裙变长裙美极了",
-      "onboard_time": 1758950960,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98887,
@@ -17513,6 +17617,14 @@
       "onboard_time": 1758631462,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95009,
+      "num": 172246,
+      "word": "戴向宇卖房结婚",
+      "onboard_time": 1758954019,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 94858,
@@ -18627,6 +18739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80454,
+      "num": 142181,
+      "word": "聂远女儿提到王安宇秒变夹子音",
+      "onboard_time": 1758953901,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80392,
       "num": 80392,
       "word": "马斯克回应出现在爱泼斯坦相关文件",
@@ -18913,6 +19033,14 @@
       "onboard_time": 1758533842,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 73532,
+      "num": 176326,
+      "word": "美团闪购让我秒提YU7",
+      "onboard_time": 1758953119,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 73447,
@@ -21307,6 +21435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36026,
+      "num": 170925,
+      "word": "GUCCI全新系列竟然这么快能买到",
+      "onboard_time": 1758953119,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 35904,
       "num": 113343,
       "word": "广东网友玻璃上贴麦克风",
@@ -21497,6 +21633,14 @@
       "onboard_time": 1758882681,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 33008,
+      "num": 120242,
+      "word": "辛芷蕾 白跟你们拜拜了",
+      "onboard_time": 1758954321,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 32958,
@@ -22123,6 +22267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25491,
+      "num": 119544,
+      "word": "沈腾这下是怎么也洗不清了",
+      "onboard_time": 1758954380,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25342,
       "num": 1162303,
       "word": "新质领航山西实践",
@@ -22195,6 +22347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24587,
+      "num": 173493,
+      "word": "杨瀚森说开拓者对我意义非凡",
+      "onboard_time": 1758953720,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24571,
       "num": 138562,
       "word": "多名消费者反映LABUBU质量差",
@@ -22209,6 +22369,14 @@
       "onboard_time": 1758726082,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24088,
+      "num": 179135,
+      "word": "微博篮球之夜全阵容",
+      "onboard_time": 1758952941,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 24011,
@@ -22568,6 +22736,14 @@
       "word": "桦加沙登陆了",
       "onboard_time": 1758746054,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16839,
+      "num": 98214,
+      "word": "沈阳警方缴获近10吨笑气",
+      "onboard_time": 1758953119,
+      "rank": 45,
       "category": "民生新闻"
     },
     {

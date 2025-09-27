@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758951511834,
+  "endTime": 1758954747643,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4257,6 +4257,14 @@
       "onboard_time": 1757904380,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1032960,
+      "num": 186799,
+      "word": "朵朵和陈思诚一模一样",
+      "onboard_time": 1758951560,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1030782,
@@ -15667,6 +15675,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 394462,
+      "num": 168719,
+      "word": "李现关晓彤 霸总和大小姐",
+      "onboard_time": 1758952941,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394154,
       "num": 394154,
       "word": "全场高唱国歌超震撼",
@@ -17225,6 +17241,14 @@
       "onboard_time": 1757856444,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362115,
+      "num": 208076,
+      "word": "谢娜没想到一个节目愿意只拍她回家",
+      "onboard_time": 1758952100,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 362087,
@@ -20971,6 +20995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283999,
+      "num": 205410,
+      "word": "毛不易你火成我不认识的样子了",
+      "onboard_time": 1758952160,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 283924,
       "num": 423524,
       "word": "白鹿米兰街拍一整个权威",
@@ -22449,6 +22481,14 @@
       "onboard_time": 1757572785,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262044,
+      "num": 303365,
+      "word": "黄磊说彩灯走了就剩下俩老登",
+      "onboard_time": 1758949160,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 261973,
@@ -31907,6 +31947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189979,
+      "num": 189979,
+      "word": "万千惠彻查公司前五年账本",
+      "onboard_time": 1758953301,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189919,
       "num": 189919,
       "word": "15岁女孩被火车撞亡母亲发声",
@@ -38555,6 +38603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163975,
+      "num": 163975,
+      "word": "王嘉尔我那出国的白月光何时回国",
+      "onboard_time": 1758953119,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163959,
       "num": 166611,
       "word": "汪苏泷演唱会",
@@ -44347,14 +44403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147611,
-      "num": 303365,
-      "word": "黄磊说彩灯走了就剩下俩老登",
-      "onboard_time": 1758949160,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147595,
       "num": 206167,
       "word": "喜人把一生辛胡凑齐了",
@@ -44568,6 +44616,14 @@
       "word": "张曼玉并未定居法国农村",
       "onboard_time": 1757847563,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147102,
+      "num": 147102,
+      "word": "窦靖童担心会遗传窦唯的秃头",
+      "onboard_time": 1758953961,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -45417,6 +45473,14 @@
       "onboard_time": 1757327123,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144980,
+      "num": 144980,
+      "word": "王玉雯 你们谁发出去的",
+      "onboard_time": 1758952100,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 144936,
@@ -46857,6 +46921,14 @@
       "onboard_time": 1757920823,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141566,
+      "num": 141566,
+      "word": "1年还清百万负债全家在杭州安家",
+      "onboard_time": 1758950240,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141563,
@@ -48849,6 +48921,14 @@
       "onboard_time": 1758719002,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136907,
+      "num": 136907,
+      "word": "白鹿说英语",
+      "onboard_time": 1758953181,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 136879,
@@ -53667,6 +53747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126440,
+      "num": 145944,
+      "word": "万千惠说上个节目赚大发了",
+      "onboard_time": 1758952820,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126438,
       "num": 196836,
       "word": "坐高铁因为好奇选了静音车厢",
@@ -53915,6 +54003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 125842,
+      "num": 125842,
+      "word": "孙天宇 蒋易这是点我呢",
+      "onboard_time": 1758954141,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125838,
       "num": 139935,
       "word": "papi酱热烈欢迎 新时代的康熙来了",
@@ -54017,6 +54113,14 @@
       "onboard_time": 1757817082,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125615,
+      "num": 125615,
+      "word": "小酒窝一进门就开始全面营业打招呼",
+      "onboard_time": 1758951979,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 125601,
@@ -56179,14 +56283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121294,
-      "num": 121294,
-      "word": "1年还清百万负债全家在杭州安家",
-      "onboard_time": 1758950240,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121275,
       "num": 121275,
       "word": "中国游客东京被华人服务员骂",
@@ -58033,6 +58129,14 @@
       "onboard_time": 1757676923,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117075,
+      "num": 117075,
+      "word": "短裙变长裙美极了",
+      "onboard_time": 1758950960,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117072,
@@ -65307,6 +65411,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 101833,
+      "num": 101833,
+      "word": "宋轶太撩人了",
+      "onboard_time": 1758954500,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101804,
       "num": 101804,
       "word": "王皓抠手",
@@ -66625,14 +66737,6 @@
       "onboard_time": 1757745804,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98918,
-      "num": 98918,
-      "word": "短裙变长裙美极了",
-      "onboard_time": 1758950960,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98911,
@@ -68177,6 +68281,14 @@
       "onboard_time": 1758631462,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95009,
+      "num": 172246,
+      "word": "戴向宇卖房结婚",
+      "onboard_time": 1758954019,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 95000,
@@ -72659,6 +72771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80454,
+      "num": 142181,
+      "word": "聂远女儿提到王安宇秒变夹子音",
+      "onboard_time": 1758953901,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80429,
       "num": 126726,
       "word": "熬夜与主动延迟入睡的区别",
@@ -74233,6 +74353,14 @@
       "onboard_time": 1758259882,
       "rank": 44,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 73532,
+      "num": 176326,
+      "word": "美团闪购让我秒提YU7",
+      "onboard_time": 1758953119,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 73487,
@@ -82227,6 +82355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36026,
+      "num": 170925,
+      "word": "GUCCI全新系列竟然这么快能买到",
+      "onboard_time": 1758953119,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 36014,
       "num": 95559,
       "word": "石宇奇退出中国大师赛",
@@ -82801,6 +82937,14 @@
       "onboard_time": 1757582735,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33008,
+      "num": 120242,
+      "word": "辛芷蕾 白跟你们拜拜了",
+      "onboard_time": 1758954321,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 32978,
@@ -84347,6 +84491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25491,
+      "num": 119544,
+      "word": "沈腾这下是怎么也洗不清了",
+      "onboard_time": 1758954380,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25463,
       "num": 46255,
       "word": "汪苏泷大转盘比综艺还会整活",
@@ -84555,6 +84707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24587,
+      "num": 173493,
+      "word": "杨瀚森说开拓者对我意义非凡",
+      "onboard_time": 1758953720,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24571,
       "num": 138562,
       "word": "多名消费者反映LABUBU质量差",
@@ -84649,6 +84809,14 @@
       "onboard_time": 1757918242,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24088,
+      "num": 179135,
+      "word": "微博篮球之夜全阵容",
+      "onboard_time": 1758952941,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 24055,
@@ -85880,6 +86048,14 @@
       "word": "绿电天路超级工程来了",
       "onboard_time": 1758047775,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16839,
+      "num": 98214,
+      "word": "沈阳警方缴获近10吨笑气",
+      "onboard_time": 1758953119,
+      "rank": 45,
       "category": "民生新闻"
     },
     {

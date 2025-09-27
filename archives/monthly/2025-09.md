@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 13:38:31
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 14:32:27
 </p>
 </blockquote>
 <p>
@@ -3207,6 +3207,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B5%E6%9C%B5%E5%92%8C%E9%99%88%E6%80%9D%E8%AF%9A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23" target="weibo">
+朵朵和陈思诚一模一样（热度：1032960）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%B3%E5%9B%9E%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E4%B8%8A%E8%AF%89%23" target="weibo">
 驳回武大图书馆事件女生上诉（热度：1030782）
 </a>
@@ -6005,12 +6011,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%A2%AB%E6%9A%B4%E9%9B%A8%E9%80%BC%E6%B2%A1%E6%8B%9B%E4%BA%86%23" target="weibo">
 郑恺被暴雨逼没招了（热度：699895）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%89%81%E6%A8%A1%E4%BB%BF%E7%8E%8B%E6%BA%90%E8%B5%B0%E7%BA%A2%E7%96%91%E5%BC%80%E5%A4%9A%E5%8F%B7%E6%8E%A5%E5%8F%97%E6%89%93%E8%B5%8F%23" target="weibo">
-王扁模仿王源走红疑开多号接受打赏（热度：698708）
 </a>
 </li>
 
