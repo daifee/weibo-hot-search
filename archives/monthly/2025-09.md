@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 23:22:35
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 23:36:49
 </p>
 </blockquote>
 <p>
@@ -3363,6 +3363,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2SDG%E5%A4%BA%E5%86%A0%23" target="weibo">
+时代少年团SDG夺冠（热度：1016526）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%83%E6%97%A5%E6%96%99%E5%9C%A8%E4%B8%89%E6%96%87%E9%B1%BC%E4%B8%8A%E5%8F%91%E7%8E%B0%E6%B4%BB%E8%9B%86%23" target="weibo">
 顾客称吃日料在三文鱼上发现活蛆（热度：1014050）
 </a>
@@ -4181,12 +4187,6 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%20%E6%88%91%E7%9A%84%E7%A2%97%E5%87%BA%E8%BD%A6%E7%A5%B8%E4%BA%86%23" target="weibo">
 狗 我的碗出车祸了（热度：884300）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2SDG%E5%A4%BA%E5%86%A0%23" target="weibo">
-时代少年团SDG夺冠（热度：882948）
 </a>
 </li>
 
@@ -5229,6 +5229,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%B6%E5%AD%90%E8%A7%A3%E8%AF%B4%23" target="weibo">
+瓶子解说（热度：782480）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E7%9B%B4%E6%92%AD%E8%AF%B4%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%8A%A2%E8%B5%B0%23" target="weibo">
 黄一鸣直播说女儿被抢走（热度：778924）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E4%B8%80%E5%90%8D%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 田一名否认恋情（热度：707803）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%A5%BF%E8%B4%9D%E4%B9%8B%E4%BA%89%E6%98%AF%E4%B8%80%E5%9C%BA%E4%BF%A1%E4%BB%BB%E5%83%B5%E5%B1%80%23" target="weibo">
-罗永浩西贝之争是一场信任僵局（热度：706483）
 </a>
 </li>
 

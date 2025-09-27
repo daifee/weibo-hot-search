@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758986555549,
+  "endTime": 1758987409667,
   "band_list": [
     {
       "raw_hot": 2040550,
@@ -123,6 +123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1016526,
+      "num": 595453,
+      "word": "时代少年团SDG夺冠",
+      "onboard_time": 1758985643,
+      "rank": 5,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 1008644,
       "num": 1161383,
       "word": "埃及失联中国女孩已找到妈妈发声",
@@ -155,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 882948,
-      "num": 487922,
-      "word": "时代少年团SDG夺冠",
-      "onboard_time": 1758985643,
-      "rank": 5,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 848375,
       "num": 397172,
       "word": "西贝 闭着眼睛点",
@@ -185,6 +185,14 @@
       "onboard_time": 1758896183,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 782480,
+      "num": 1125196,
+      "word": "瓶子解说",
+      "onboard_time": 1758985463,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 771417,
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617541,
+      "num": 488119,
+      "word": "最适合关晓彤的一次造型",
+      "onboard_time": 1758985702,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613722,
       "num": 613722,
       "word": "小米17破25年国产手机首销纪录",
@@ -339,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 522313,
+      "num": 522313,
+      "word": "27万买到全损奔驰车",
+      "onboard_time": 1758983301,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 514124,
       "num": 341218,
       "word": "董璇说结完婚该要孩子了吧",
@@ -353,14 +377,6 @@
       "onboard_time": 1758973701,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499394,
-      "num": 499394,
-      "word": "27万买到全损奔驰车",
-      "onboard_time": 1758983301,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 494496,
@@ -385,14 +401,6 @@
       "onboard_time": 1758896423,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 464192,
-      "num": 464192,
-      "word": "瓶子解说",
-      "onboard_time": 1758985463,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 458210,
@@ -467,6 +475,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 419266,
+      "num": 419266,
+      "word": "汪苏泷眼妆",
+      "onboard_time": 1758982761,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 408573,
       "num": 408573,
       "word": "女子卖金镯发现里面被塞沙子",
@@ -515,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 393391,
+      "num": 258069,
+      "word": "汪苏泷 爱你的人都希望你自由",
+      "onboard_time": 1758985463,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 381537,
       "num": 222128,
       "word": "董璇张维伊婚礼照",
@@ -545,14 +569,6 @@
       "onboard_time": 1758896004,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 360166,
-      "num": 360166,
-      "word": "汪苏泷眼妆",
-      "onboard_time": 1758982761,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 358289,
@@ -667,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303614,
-      "num": 300345,
-      "word": "最适合关晓彤的一次造型",
-      "onboard_time": 1758985702,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303223,
       "num": 254092,
       "word": "长期不换各种社交头像",
@@ -697,14 +705,6 @@
       "onboard_time": 1758956720,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291114,
-      "num": 258069,
-      "word": "汪苏泷 爱你的人都希望你自由",
-      "onboard_time": 1758985463,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 289834,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256393,
+      "num": 217510,
+      "word": "朋友圈令人非常不爽的现象",
+      "onboard_time": 1758982881,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254193,
       "num": 223786,
       "word": "苏超八强诞生",
@@ -873,6 +881,14 @@
       "onboard_time": 1758930619,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241184,
+      "num": 288004,
+      "word": "失联女孩在当地华人及使馆帮助下找到",
+      "onboard_time": 1758983842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239727,
@@ -947,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217510,
-      "num": 217510,
-      "word": "朋友圈令人非常不爽的现象",
-      "onboard_time": 1758982881,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216848,
       "num": 188709,
       "word": "时代少年团的心率",
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 207580,
-      "num": 127356,
+      "num": 185183,
       "word": "战至巅峰总决赛",
       "onboard_time": 1758986063,
       "rank": 47,
@@ -1451,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164273,
+      "num": 164273,
+      "word": "刘宇宁直播",
+      "onboard_time": 1758984323,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164042,
       "num": 201605,
       "word": "第一视角看神二十乘组出舱",
@@ -1561,6 +1577,14 @@
       "onboard_time": 1758935180,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152826,
+      "num": 152826,
+      "word": "保射手",
+      "onboard_time": 1758986542,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 152085,
@@ -1811,14 +1835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137232,
-      "num": 288004,
-      "word": "失联女孩在当地华人及使馆帮助下找到",
-      "onboard_time": 1758983842,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136907,
       "num": 136907,
       "word": "白鹿说英语",
@@ -1832,6 +1848,14 @@
       "word": "张维伊亲戚婚礼前临时加人",
       "onboard_time": 1758963080,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135996,
+      "num": 135996,
+      "word": "邓超好六这集我在春晚看过",
+      "onboard_time": 1758987322,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1953,6 +1977,14 @@
       "onboard_time": 1758979761,
       "rank": 40,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 129812,
+      "num": 129812,
+      "word": "西卡让T1等着",
+      "onboard_time": 1758986722,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 129082,
@@ -2763,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91101,
+      "num": 120284,
+      "word": "航班提前15小时起飞惊呆乘客",
+      "onboard_time": 1758987202,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91048,
       "num": 104273,
       "word": "白鹿临走前给粉丝分巧克力",
@@ -2785,6 +2825,14 @@
       "onboard_time": 1758930799,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 90691,
+      "num": 117398,
+      "word": "南京奥体61106人不说再见",
+      "onboard_time": 1758984681,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90636,
@@ -2961,6 +3009,14 @@
       "onboard_time": 1758971900,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81550,
+      "num": 145322,
+      "word": "周也 贝雷帽战神",
+      "onboard_time": 1758986962,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 81350,

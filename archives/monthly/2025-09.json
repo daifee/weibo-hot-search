@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758986555549,
+  "endTime": 1758987409667,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4467,6 +4467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1016526,
+      "num": 595453,
+      "word": "时代少年团SDG夺冠",
+      "onboard_time": 1758985643,
+      "rank": 5,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 1014050,
       "num": 1162248,
       "word": "顾客称吃日料在三文鱼上发现活蛆",
@@ -5561,14 +5569,6 @@
       "onboard_time": 1758005002,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 882948,
-      "num": 487922,
-      "word": "时代少年团SDG夺冠",
-      "onboard_time": 1758985643,
-      "rank": 5,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 882288,
@@ -6953,6 +6953,14 @@
       "onboard_time": 1758506241,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 782480,
+      "num": 1125196,
+      "word": "瓶子解说",
+      "onboard_time": 1758985463,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 778924,
@@ -9515,6 +9523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 617541,
+      "num": 488119,
+      "word": "最适合关晓彤的一次造型",
+      "onboard_time": 1758985702,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 617116,
       "num": 617116,
       "word": "28岁男子上树被自带绳子缠脖身亡",
@@ -11787,6 +11803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522313,
+      "num": 522313,
+      "word": "27万买到全损奔驰车",
+      "onboard_time": 1758983301,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 522207,
       "num": 522207,
       "word": "马航空姐飞行途中跳舞引争议",
@@ -12377,14 +12401,6 @@
       "onboard_time": 1756958663,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 499394,
-      "num": 499394,
-      "word": "27万买到全损奔驰车",
-      "onboard_time": 1758983301,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 498866,
@@ -13385,14 +13401,6 @@
       "onboard_time": 1756956082,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 464192,
-      "num": 464192,
-      "word": "瓶子解说",
-      "onboard_time": 1758985463,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 464174,
@@ -15091,6 +15099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419266,
+      "num": 419266,
+      "word": "汪苏泷眼妆",
+      "onboard_time": 1758982761,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 418995,
       "num": 382325,
       "word": "赵磊担心老婆上节目面对不好的声音",
@@ -16033,6 +16049,14 @@
       "onboard_time": 1758771141,
       "rank": 25,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 393391,
+      "num": 258069,
+      "word": "汪苏泷 爱你的人都希望你自由",
+      "onboard_time": 1758985463,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 393316,
@@ -17601,14 +17625,6 @@
       "onboard_time": 1756959144,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 360166,
-      "num": 360166,
-      "word": "汪苏泷眼妆",
-      "onboard_time": 1758982761,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 359898,
@@ -20195,14 +20211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303614,
-      "num": 300345,
-      "word": "最适合关晓彤的一次造型",
-      "onboard_time": 1758985702,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303567,
       "num": 217499,
       "word": "月经提前vs月经推迟",
@@ -20921,14 +20929,6 @@
       "onboard_time": 1756959625,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291114,
-      "num": 258069,
-      "word": "汪苏泷 爱你的人都希望你自由",
-      "onboard_time": 1758985463,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 291040,
@@ -23259,6 +23259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256393,
+      "num": 217510,
+      "word": "朋友圈令人非常不爽的现象",
+      "onboard_time": 1758982881,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256300,
       "num": 235051,
       "word": "花少5全是cp 花少7全是小说",
@@ -24465,6 +24473,14 @@
       "onboard_time": 1758200842,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241184,
+      "num": 288004,
+      "word": "失联女孩在当地华人及使馆帮助下找到",
+      "onboard_time": 1758983842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240939,
@@ -26819,14 +26835,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 217510,
-      "num": 217510,
-      "word": "朋友圈令人非常不爽的现象",
-      "onboard_time": 1758982881,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 217408,
       "num": 217408,
       "word": "早春晴朗官宣",
@@ -28212,7 +28220,7 @@
     },
     {
       "raw_hot": 207580,
-      "num": 127356,
+      "num": 185183,
       "word": "战至巅峰总决赛",
       "onboard_time": 1758986063,
       "rank": 47,
@@ -43179,6 +43187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152826,
+      "num": 152826,
+      "word": "保射手",
+      "onboard_time": 1758986542,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152823,
       "num": 152823,
       "word": "华为WatchGT6",
@@ -49667,14 +49683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137232,
-      "num": 288004,
-      "word": "失联女孩在当地华人及使馆帮助下找到",
-      "onboard_time": 1758983842,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137230,
       "num": 137230,
       "word": "猫 一定要聊原生家庭的潮湿吗",
@@ -50273,6 +50281,14 @@
       "onboard_time": 1758777083,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135996,
+      "num": 135996,
+      "word": "邓超好六这集我在春晚看过",
+      "onboard_time": 1758987322,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 135974,
@@ -53073,6 +53089,14 @@
       "onboard_time": 1757922383,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129812,
+      "num": 129812,
+      "word": "西卡让T1等着",
+      "onboard_time": 1758986722,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 129800,
@@ -71019,6 +71043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91101,
+      "num": 120284,
+      "word": "航班提前15小时起飞惊呆乘客",
+      "onboard_time": 1758987202,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91076,
       "num": 91076,
       "word": "猫猫我已经走的很轻了呀",
@@ -71137,6 +71169,14 @@
       "onboard_time": 1757684728,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 90691,
+      "num": 117398,
+      "word": "南京奥体61106人不说再见",
+      "onboard_time": 1758984681,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90678,
@@ -73961,6 +74001,14 @@
       "onboard_time": 1756825643,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81550,
+      "num": 145322,
+      "word": "周也 贝雷帽战神",
+      "onboard_time": 1758986962,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 81506,
