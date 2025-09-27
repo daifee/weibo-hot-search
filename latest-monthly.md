@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 06:38:21
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 07:22:03
 </p>
 </blockquote>
 <p>
@@ -3243,6 +3243,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%94%90%E9%A3%9E%E6%9C%BA%E7%9B%B4%E6%92%AD%E6%97%B6%E5%9D%A0%E6%9C%BA%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
+网红唐飞机直播时坠机不幸身亡（热度：1038501）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%9B%9D%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%99%90%E5%BE%85%E8%87%B4%E6%AD%BB%E5%8F%AF%E6%80%95%E7%BB%86%E8%8A%82%23" target="weibo">
 父亲曝女儿被虐待致死可怕细节（热度：1038057）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%203%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23" target="weibo">
 西贝 3只蒸饺29元（热度：707902）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E4%B8%80%E5%90%8D%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
-田一名否认恋情（热度：707803）
 </a>
 </li>
 

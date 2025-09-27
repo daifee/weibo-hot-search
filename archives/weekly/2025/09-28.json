@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759012701021,
+  "endTime": 1759015323603,
   "band_list": [
     {
       "raw_hot": 1593863,
@@ -19,6 +19,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1038501,
+      "num": 162559,
+      "word": "网红唐飞机直播时坠机不幸身亡",
+      "onboard_time": 1759014739,
+      "rank": 6,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 695135,
       "num": 367379,
       "word": "刘耀文哭了",
@@ -33,6 +41,14 @@
       "onboard_time": 1758967820,
       "rank": 3,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 618447,
+      "num": 800357,
+      "word": "航班提前15小时起飞惊呆乘客",
+      "onboard_time": 1758987202,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 582232,
@@ -65,14 +81,6 @@
       "onboard_time": 1758986063,
       "rank": 10,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 460087,
-      "num": 485925,
-      "word": "航班提前15小时起飞惊呆乘客",
-      "onboard_time": 1758987202,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 446957,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370203,
+      "num": 174965,
+      "word": "刘雪华回应为新戏拔掉全口牙",
+      "onboard_time": 1758985643,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 295303,
       "num": 295303,
       "word": "做一次CT对身体的伤害有多大",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 264356,
-      "num": 136077,
+      "num": 148333,
       "word": "邓超腿受伤",
       "onboard_time": 1758991459,
       "rank": 13,
@@ -187,12 +203,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 206223,
-      "num": 174965,
-      "word": "刘雪华回应为新戏拔掉全口牙",
-      "onboard_time": 1758985643,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 192252,
+      "num": 162512,
+      "word": "肖战出道9周年",
+      "onboard_time": 1759014917,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192060,
+      "num": 148333,
+      "word": "周柯宇战至巅峰",
+      "onboard_time": 1759014137,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 189844,
@@ -219,12 +243,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168384,
+      "num": 172013,
+      "word": "爬泰山失联28岁男子已遇难",
+      "onboard_time": 1758968961,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167893,
       "num": 167893,
       "word": "27万买到全损奔驰车",
       "onboard_time": 1758983301,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 162742,
+      "num": 162742,
+      "word": "老太太碰瓷小女生",
+      "onboard_time": 1758991339,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156175,
@@ -235,14 +275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153368,
-      "num": 172013,
-      "word": "爬泰山失联28岁男子已遇难",
-      "onboard_time": 1758968961,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153100,
       "num": 153100,
       "word": "周也 贝雷帽战神",
@@ -251,11 +283,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147649,
-      "num": 147649,
-      "word": "老太太碰瓷小女生",
-      "onboard_time": 1758991339,
-      "rank": 17,
+      "raw_hot": 148523,
+      "num": 148523,
+      "word": "养生壶爆炸1岁孩童全身40%烫伤",
+      "onboard_time": 1759014259,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -339,12 +371,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111840,
+      "num": 111840,
+      "word": "韩博主拿柠檬水质疑中国餐馆水质",
+      "onboard_time": 1759014917,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106184,
       "num": 132874,
       "word": "林俊杰演唱会",
       "onboard_time": 1758983902,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105793,
+      "num": 105793,
+      "word": "健康减肥的关键",
+      "onboard_time": 1758992478,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 105069,
+      "num": 105069,
+      "word": "郑钦文团队不支持参加中网",
+      "onboard_time": 1759014798,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 102279,
@@ -379,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87205,
+      "num": 132708,
+      "word": "小酒窝和朵朵一起接受央视采访",
+      "onboard_time": 1758973701,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86314,
       "num": 132619,
       "word": "第一次见剧宣害羞成这样的男女主",
@@ -393,14 +457,6 @@
       "onboard_time": 1758978020,
       "rank": 46,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 84145,
-      "num": 132708,
-      "word": "小酒窝和朵朵一起接受央视采访",
-      "onboard_time": 1758973701,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 82616,
@@ -427,6 +483,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76715,
+      "num": 76715,
+      "word": "李沁35岁生日发文",
+      "onboard_time": 1759012637,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76002,
+      "num": 76002,
+      "word": "周柯宇战至巅峰4总决赛FMVP",
+      "onboard_time": 1759014137,
+      "rank": 31,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 72296,
       "num": 132642,
       "word": "外媒报道鞠婧祎",
@@ -451,12 +523,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61573,
-      "num": 74566,
-      "word": "健康减肥的关键",
-      "onboard_time": 1758992478,
+      "raw_hot": 64186,
+      "num": 64186,
+      "word": "台风博罗依路径",
+      "onboard_time": 1759012755,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 61549,
+      "num": 61549,
+      "word": "美国将撤销哥伦比亚总统赴美签证",
+      "onboard_time": 1759014437,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59866,
+      "num": 59866,
+      "word": "有史以来最火的S赛揭幕战",
+      "onboard_time": 1759015278,
       "rank": 37,
-      "category": "运动健身"
+      "category": "电竞"
     },
     {
       "raw_hot": 59725,
@@ -465,6 +553,22 @@
       "onboard_time": 1758990799,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58833,
+      "num": 58833,
+      "word": "冯德伦发文祝贺舒淇拿奖",
+      "onboard_time": 1759014798,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 58774,
+      "num": 58774,
+      "word": "广东的台风一个接一个",
+      "onboard_time": 1759008794,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 55886,
@@ -483,12 +587,52 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 55661,
+      "num": 55661,
+      "word": "马嘉祺不亏是顶流",
+      "onboard_time": 1759014978,
+      "rank": 41,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 53736,
       "num": 46215,
       "word": "汪苏泷点了一碗线面实则两碗",
       "onboard_time": 1758995117,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52316,
+      "num": 55598,
+      "word": "早餐吃不对影响全天血糖",
+      "onboard_time": 1759015278,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51174,
+      "num": 55567,
+      "word": "鹿晗新加坡演唱会上座率",
+      "onboard_time": 1759009394,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 46564,
+      "num": 55511,
+      "word": "纽约抗议者鸣笛不让以总理睡觉",
+      "onboard_time": 1759000215,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 46114,
+      "num": 55473,
+      "word": "原来三星堆是多彩的",
+      "onboard_time": 1759015278,
+      "rank": 47,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 34897,
@@ -505,30 +649,6 @@
       "onboard_time": 1758994577,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31061,
-      "num": 32471,
-      "word": "鹿晗新加坡演唱会上座率",
-      "onboard_time": 1759009394,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 28131,
-      "num": 32469,
-      "word": "纽约抗议者鸣笛不让以总理睡觉",
-      "onboard_time": 1759000215,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 27882,
-      "num": 32469,
-      "word": "广东的台风一个接一个",
-      "onboard_time": 1759008794,
-      "rank": 45,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 27086,
@@ -608,14 +728,6 @@
       "word": "鹭卓直播",
       "onboard_time": 1758998295,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 20132,
-      "num": 32463,
-      "word": "李沁35岁生日发文",
-      "onboard_time": 1759012637,
-      "rank": 47,
       "category": "艺人"
     },
     {
