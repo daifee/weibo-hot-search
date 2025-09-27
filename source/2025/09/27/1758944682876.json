@@ -1,0 +1,410 @@
+{
+  "runTime": 1758944682876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 904160,
+        "num": 1144665,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 858663,
+        "num": 858663,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58589,
+        "num": 696078,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758943279,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613722,
+        "num": 613722,
+        "word": "小米17破25年国产手机首销纪录",
+        "onboard_time": 1758944239,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 541698,
+        "num": 541698,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302088,
+        "num": 302088,
+        "word": "陇西地震已致6人受伤",
+        "onboard_time": 1758940100,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 284132,
+        "num": 284132,
+        "word": "问心2开机",
+        "onboard_time": 1758943340,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260044,
+        "num": 260044,
+        "word": "于洋把易烊千玺百科怼唐国强脸上了",
+        "onboard_time": 1758939919,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210963,
+        "num": 210963,
+        "word": "马斯克出现在爱泼斯坦案文件中",
+        "onboard_time": 1758930619,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203730,
+        "num": 203730,
+        "word": "成毅两京十五日开机上班路透",
+        "onboard_time": 1758942198,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1504536,
+        "num": 203705,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1085549,
+        "num": 203541,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515291,
+        "num": 203252,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1758935060,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299122,
+        "num": 203158,
+        "word": "TikTok估值140亿",
+        "onboard_time": 1758940580,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279770,
+        "num": 202986,
+        "word": "佟丽娅儿子出发参加大湾区晚会",
+        "onboard_time": 1758939319,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233215,
+        "num": 202768,
+        "word": "邵兵回应邵子恒说不出自己作品",
+        "onboard_time": 1758942020,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56232,
+        "num": 202673,
+        "word": "杨幂代言三只小山羊纯羊绒大衣",
+        "onboard_time": 1758940759,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228408,
+        "num": 202514,
+        "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+        "onboard_time": 1758896183,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202427,
+        "num": 202427,
+        "word": "GEN无法选取T1当底座",
+        "onboard_time": 1758944299,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183167,
+        "num": 183167,
+        "word": "甘肃陇西地震",
+        "onboard_time": 1758928216,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 407691,
+        "num": 168389,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313325,
+        "num": 164778,
+        "word": "女子做豆浆忘加水解锁醇香秘诀",
+        "onboard_time": 1758939380,
+        "rank": 21,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 251695,
+        "num": 159259,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153293,
+        "num": 153293,
+        "word": "丁禹兮扛住了外媒镜头",
+        "onboard_time": 1758942439,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143154,
+        "num": 143154,
+        "word": "媒体评68页PPT曝光婚外情",
+        "onboard_time": 1758937880,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131157,
+        "num": 131157,
+        "word": "雷军回应小米17全系破首销纪录",
+        "onboard_time": 1758943700,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128292,
+        "num": 128292,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 121967,
+        "num": 121967,
+        "word": "赤发鬼一个镜头头发量有150万根",
+        "onboard_time": 1758941660,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113193,
+        "num": 121561,
+        "word": "向往的生活彩灯去世",
+        "onboard_time": 1758898523,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92254,
+        "num": 121202,
+        "word": "辛芷蕾马思纯向往的生活合体",
+        "onboard_time": 1758939680,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172047,
+        "num": 120244,
+        "word": "关掉美颜大家化的妆都一样",
+        "onboard_time": 1758943820,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142215,
+        "num": 120192,
+        "word": "何卓佳向王楚钦竖大拇指",
+        "onboard_time": 1758944239,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119614,
+        "num": 119614,
+        "word": "韩三星财团CJ会长找主播去秘密派对",
+        "onboard_time": 1758932900,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118815,
+        "num": 118815,
+        "word": "建议在午睡前喝咖啡",
+        "onboard_time": 1758930439,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107826,
+        "num": 107826,
+        "word": "官方通报统一换门头夜间不亮灯",
+        "onboard_time": 1758943340,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 107167,
+        "num": 107167,
+        "word": "白敬亭这个挡脸很加分",
+        "onboard_time": 1758938179,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106045,
+        "num": 106045,
+        "word": "青岛女子在美国被丈夫杀害",
+        "onboard_time": 1758942800,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105430,
+        "num": 105430,
+        "word": "内塔尼亚胡要求与会者扫码",
+        "onboard_time": 1758935662,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104217,
+        "num": 104217,
+        "word": "卢昱晓生日照",
+        "onboard_time": 1758936800,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18953,
+        "num": 96034,
+        "word": "航司延误12小时旅客索赔八百元",
+        "onboard_time": 1758944239,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93082,
+        "num": 93082,
+        "word": "陇西地震亲历者称像有人使劲摇床",
+        "onboard_time": 1758937640,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90188,
+        "num": 90188,
+        "word": "还有4天国庆",
+        "onboard_time": 1758938539,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41832,
+        "num": 88538,
+        "word": "Angelababy这个时候才17岁",
+        "onboard_time": 1758944660,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87316,
+        "num": 87316,
+        "word": "2女生带迷路老人找警察助其回家",
+        "onboard_time": 1758943761,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86593,
+        "num": 86593,
+        "word": "王一博太撩人了",
+        "onboard_time": 1758942379,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84682,
+        "num": 84682,
+        "word": "人老了还能享受生活吗",
+        "onboard_time": 1758943222,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84023,
+        "num": 84023,
+        "word": "两京十五日",
+        "onboard_time": 1758944660,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81160,
+        "num": 81160,
+        "word": "美国人对华印象把日本人整破防",
+        "onboard_time": 1758935180,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80392,
+        "num": 80392,
+        "word": "马斯克回应出现在爱泼斯坦相关文件",
+        "onboard_time": 1758944000,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76818,
+        "num": 76818,
+        "word": "再听17年前那句我已出舱感觉良好",
+        "onboard_time": 1758937640,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何一再强调石榴籽#"
+    }
+  }
+}

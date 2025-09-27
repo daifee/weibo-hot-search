@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758944036142,
+  "endTime": 1758944682876,
   "band_list": [
     {
       "raw_hot": 1619192,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 904160,
+      "num": 1144665,
+      "word": "埃及失联中国女孩已找到妈妈发声",
+      "onboard_time": 1758943039,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 838830,
       "num": 345566,
       "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613722,
+      "num": 613722,
+      "word": "小米17破25年国产手机首销纪录",
+      "onboard_time": 1758944239,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 572149,
       "num": 215050,
       "word": "佟丽娅儿子出发参加大湾区晚会",
@@ -97,14 +113,6 @@
       "onboard_time": 1758935060,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 524818,
-      "num": 524818,
-      "word": "埃及失联中国女孩已找到妈妈发声",
-      "onboard_time": 1758943039,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 475313,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 322046,
-      "num": 191901,
+      "num": 203158,
       "word": "TikTok估值140亿",
       "onboard_time": 1758940580,
       "rank": 25,
@@ -225,6 +233,14 @@
       "onboard_time": 1758933140,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 284132,
+      "num": 284132,
+      "word": "问心2开机",
+      "onboard_time": 1758943340,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 281453,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 262606,
-      "num": 184075,
+      "num": 202768,
       "word": "邵兵回应邵子恒说不出自己作品",
       "onboard_time": 1758942020,
       "rank": 19,
@@ -331,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205397,
-      "num": 205397,
-      "word": "问心2开机",
-      "onboard_time": 1758943340,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 202427,
+      "num": 202427,
+      "word": "GEN无法选取T1当底座",
+      "onboard_time": 1758944299,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 199779,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172047,
+      "num": 120244,
+      "word": "关掉美颜大家化的妆都一样",
+      "onboard_time": 1758943820,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171314,
       "num": 171314,
       "word": "以色列总理联大演讲多国代表离场",
@@ -433,6 +457,14 @@
       "onboard_time": 1758928698,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 153293,
+      "num": 153293,
+      "word": "丁禹兮扛住了外媒镜头",
+      "onboard_time": 1758942439,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153138,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142215,
+      "num": 120192,
+      "word": "何卓佳向王楚钦竖大拇指",
+      "onboard_time": 1758944239,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142080,
       "num": 142080,
       "word": "鞠婧祎幽蓝薄纱套装",
@@ -531,20 +571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134265,
-      "num": 134265,
-      "word": "丁禹兮扛住了外媒镜头",
-      "onboard_time": 1758942439,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 133385,
       "num": 99292,
       "word": "段奥娟提名大爆冷",
       "onboard_time": 1758880102,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131157,
+      "num": 131157,
+      "word": "雷军回应小米17全系破首销纪录",
+      "onboard_time": 1758943700,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 129082,
@@ -603,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107250,
-      "num": 107250,
-      "word": "雷军回应小米17全系破首销纪录",
-      "onboard_time": 1758943700,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 107201,
       "num": 107201,
       "word": "中国人首次太空漫步17周年",
       "onboard_time": 1758937640,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106045,
+      "num": 106045,
+      "word": "青岛女子在美国被丈夫杀害",
+      "onboard_time": 1758942800,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102561,
@@ -795,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87316,
+      "num": 87316,
+      "word": "2女生带迷路老人找警察助其回家",
+      "onboard_time": 1758943761,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85037,
       "num": 85037,
       "word": "内塔尼亚胡联合国大会上公然撒谎",
@@ -809,6 +857,14 @@
       "onboard_time": 1758935598,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84023,
+      "num": 84023,
+      "word": "两京十五日",
+      "onboard_time": 1758944660,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 82324,
@@ -835,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80392,
+      "num": 80392,
+      "word": "马斯克回应出现在爱泼斯坦相关文件",
+      "onboard_time": 1758944000,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78947,
       "num": 78947,
       "word": "和妈妈聊天胜过所有心理医生",
@@ -851,28 +915,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76432,
-      "num": 76432,
-      "word": "马斯克回应出现在爱泼斯坦相关文件",
-      "onboard_time": 1758944000,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 75953,
       "num": 86655,
       "word": "张婧仪骨相",
       "onboard_time": 1758888260,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75614,
-      "num": 75614,
-      "word": "2女生带迷路老人找警察助其回家",
-      "onboard_time": 1758943761,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75156,
@@ -1003,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58589,
+      "num": 696078,
+      "word": "你没想到的新疆",
+      "onboard_time": 1758943279,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58489,
       "num": 82305,
       "word": "孙颖莎王楚钦中国大满贯首日登场",
@@ -1017,14 +1073,6 @@
       "onboard_time": 1758910396,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54179,
-      "num": 93564,
-      "word": "青岛女子在美国被丈夫杀害",
-      "onboard_time": 1758942800,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 53005,
@@ -1107,12 +1155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44047,
-      "num": 556082,
-      "word": "你没想到的新疆",
-      "onboard_time": 1758943279,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 41832,
+      "num": 88538,
+      "word": "Angelababy这个时候才17岁",
+      "onboard_time": 1758944660,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 40316,
@@ -1248,6 +1296,14 @@
       "word": "海尔为什么坚持让磁场进入冰箱",
       "onboard_time": 1758912255,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18953,
+      "num": 96034,
+      "word": "航司延误12小时旅客索赔八百元",
+      "onboard_time": 1758944239,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
