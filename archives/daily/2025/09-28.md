@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 01:20:19
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 01:36:53
 </p>
 </blockquote>
 <p>
@@ -129,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%85%BF%E5%8F%97%E4%BC%A4%23" target="weibo">
+邓超腿受伤（热度：264356）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%A4%E4%BA%BA%E9%9D%9E%E5%B8%B8%E4%B8%8D%E7%88%BD%E7%9A%84%E7%8E%B0%E8%B1%A1%23" target="weibo">
 朋友圈令人非常不爽的现象（热度：250378）
 </a>
@@ -189,14 +195,20 @@ iG战胜JDG（热度：178046）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%85%BF%E5%8F%97%E4%BC%A4%23" target="weibo">
-邓超腿受伤（热度：142354）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%A4%AA%E7%A2%B0%E7%93%B7%E5%B0%8F%E5%A5%B3%E7%94%9F%23" target="weibo">
+老太太碰瓷小女生（热度：147649）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E6%8D%A2%E5%90%84%E7%A7%8D%E7%A4%BE%E4%BA%A4%E5%A4%B4%E5%83%8F%23" target="weibo">
 长期不换各种社交头像（热度：130557）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JIUZHE%E6%88%98%E9%98%9F%E5%A4%BA%E5%86%A0%23" target="weibo">
+JIUZHE战队夺冠（热度：129087）
 </a>
 </li>
 
@@ -267,14 +279,14 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%AB%82%E6%AC%A0178%E4%B8%87%E6%9C%AA%E8%BF%98%E6%B8%85%E5%AB%82%E5%AD%90%E6%9D%80%E6%AD%BB%E5%B0%8F%E5%8F%94%23" target="weibo">
-哥嫂欠178万未还清嫂子杀死小叔（热度：88185）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%AF%BC%E5%9E%8B%E6%81%8B%E4%BA%BA%23" target="weibo">
+引导型恋人（热度：96560）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%A4%AA%E7%A2%B0%E7%93%B7%E5%B0%8F%E5%A5%B3%E7%94%9F%23" target="weibo">
-老太太碰瓷小女生（热度：86559）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%AB%82%E6%AC%A0178%E4%B8%87%E6%9C%AA%E8%BF%98%E6%B8%85%E5%AB%82%E5%AD%90%E6%9D%80%E6%AD%BB%E5%B0%8F%E5%8F%94%23" target="weibo">
+哥嫂欠178万未还清嫂子杀死小叔（热度：88185）
 </a>
 </li>
 
@@ -333,12 +345,6 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%AF%BC%E5%9E%8B%E6%81%8B%E4%BA%BA%23" target="weibo">
-引导型恋人（热度：68224）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A4%A7%E5%90%88%E5%94%B1%23" target="weibo">
 毛不易大合唱（热度：59725）
 </a>
@@ -346,7 +352,7 @@ Rookie 隔6年了（热度：112714）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5%E7%9A%84%E5%85%B3%E9%94%AE%23" target="weibo">
-健康减肥的关键（热度：56835）
+健康减肥的关键（热度：58252）
 </a>
 </li>
 
@@ -359,6 +365,12 @@ Rookie 隔6年了（热度：112714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B5%E7%AB%9E%E7%BE%A4%E5%83%8F%23" target="weibo">
 内娱电竞群像（热度：55727）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%8D%E6%89%AB%E5%85%B4%E7%9A%84%E7%88%B6%E6%AF%8D%E9%83%BD%E6%8B%A5%E6%9C%89%E5%AD%A9%E5%AD%90%E8%A7%86%E8%A7%92%23" target="weibo">
+原来不扫兴的父母都拥有孩子视角（热度：33617）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1758993619112,
+  "endTime": 1758994613031,
   "band_list": [
     {
       "raw_hot": 1593863,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264356,
+      "num": 136077,
+      "word": "邓超腿受伤",
+      "onboard_time": 1758991459,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250378,
       "num": 158777,
       "word": "朋友圈令人非常不爽的现象",
@@ -235,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142354,
-      "num": 106091,
-      "word": "邓超腿受伤",
-      "onboard_time": 1758991459,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 147649,
+      "num": 147649,
+      "word": "老太太碰瓷小女生",
+      "onboard_time": 1758991339,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130557,
@@ -249,6 +257,14 @@
       "onboard_time": 1758969739,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129087,
+      "num": 103394,
+      "word": "JIUZHE战队夺冠",
+      "onboard_time": 1758994097,
+      "rank": 15,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 121922,
@@ -339,19 +355,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96560,
+      "num": 96560,
+      "word": "引导型恋人",
+      "onboard_time": 1758992658,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88185,
       "num": 134127,
       "word": "哥嫂欠178万未还清嫂子杀死小叔",
       "onboard_time": 1758974961,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86559,
-      "num": 101033,
-      "word": "老太太碰瓷小女生",
-      "onboard_time": 1758991339,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -427,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68224,
-      "num": 68224,
-      "word": "引导型恋人",
-      "onboard_time": 1758992658,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 59725,
       "num": 132567,
       "word": "毛不易大合唱",
@@ -443,8 +451,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56835,
-      "num": 56835,
+      "raw_hot": 58252,
+      "num": 74566,
       "word": "健康减肥的关键",
       "onboard_time": 1758992478,
       "rank": 37,
@@ -460,11 +468,19 @@
     },
     {
       "raw_hot": 55727,
-      "num": 55727,
+      "num": 65261,
       "word": "内娱电竞群像",
       "onboard_time": 1758991578,
       "rank": 41,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 33617,
+      "num": 64975,
+      "word": "原来不扫兴的父母都拥有孩子视角",
+      "onboard_time": 1758994577,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 6393,
