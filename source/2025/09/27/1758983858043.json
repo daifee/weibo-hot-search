@@ -1,0 +1,410 @@
+{
+  "runTime": 1758983858043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 862610,
+        "num": 1138017,
+        "word": "连续吃6个月水煮菜胰腺坏死了",
+        "onboard_time": 1758972019,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 596307,
+        "num": 596307,
+        "word": "iG战胜JDG",
+        "onboard_time": 1758976881,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8613,
+        "num": 552166,
+        "word": "基建狂魔又放大招",
+        "onboard_time": 1758939200,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 945748,
+        "num": 551626,
+        "word": "战至巅峰直播",
+        "onboard_time": 1758967820,
+        "rank": 3,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 542273,
+        "num": 542273,
+        "word": "马嘉祺的心率",
+        "onboard_time": 1758981741,
+        "rank": 4,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 386736,
+        "num": 529413,
+        "word": "爬泰山失联28岁男子已遇难",
+        "onboard_time": 1758968961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521534,
+        "num": 521534,
+        "word": "做一次CT对身体的伤害有多大",
+        "onboard_time": 1758971661,
+        "rank": 6,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 467336,
+        "num": 467336,
+        "word": "战至巅峰",
+        "onboard_time": 1758959000,
+        "rank": 7,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 441687,
+        "num": 441687,
+        "word": "黄明昊 遇到不公平的事情",
+        "onboard_time": 1758975560,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194621,
+        "num": 428686,
+        "word": "别让百亿补贴补出白色污染",
+        "onboard_time": 1758953421,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645401,
+        "num": 426706,
+        "word": "许我耀眼",
+        "onboard_time": 1758980002,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623447,
+        "num": 424225,
+        "word": "刘萧旭女友正脸",
+        "onboard_time": 1758977842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420643,
+        "num": 420643,
+        "word": "战至巅峰暂停",
+        "onboard_time": 1758978020,
+        "rank": 12,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 375179,
+        "num": 375179,
+        "word": "小酒窝和朵朵一起接受央视采访",
+        "onboard_time": 1758973701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358289,
+        "num": 358289,
+        "word": "Rookie 隔6年了",
+        "onboard_time": 1758980302,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 356808,
+        "num": 356808,
+        "word": "肖战出发澳门湾区升明月",
+        "onboard_time": 1758977601,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344116,
+        "num": 344116,
+        "word": "刘宇宁张艺兴隔空对唱",
+        "onboard_time": 1758979280,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190511,
+        "num": 190511,
+        "word": "苏超",
+        "onboard_time": 1758969739,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176846,
+        "num": 176846,
+        "word": "湘超",
+        "onboard_time": 1758982703,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158697,
+        "num": 158697,
+        "word": "巴基斯坦总理称让印度颜面扫地",
+        "onboard_time": 1758982824,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 926175,
+        "num": 158523,
+        "word": "鹿晗新加坡",
+        "onboard_time": 1758974001,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 835314,
+        "num": 157049,
+        "word": "张维伊把婚房订成了三人间",
+        "onboard_time": 1758965180,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597433,
+        "num": 153622,
+        "word": "鞠婧祎 大雷",
+        "onboard_time": 1758960862,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150168,
+        "num": 150168,
+        "word": "月子公司称给婴儿勺子喂奶正常",
+        "onboard_time": 1758969439,
+        "rank": 23,
+        "category": "舆论监督,母婴育儿"
+      },
+      {
+        "raw_hot": 358715,
+        "num": 150168,
+        "word": "孙怡因染发导致脸肿",
+        "onboard_time": 1758965662,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303223,
+        "num": 150162,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1758969739,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198428,
+        "num": 150157,
+        "word": "外媒报道鞠婧祎",
+        "onboard_time": 1758983002,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254193,
+        "num": 150152,
+        "word": "苏超八强诞生",
+        "onboard_time": 1758981862,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216848,
+        "num": 150141,
+        "word": "时代少年团的心率",
+        "onboard_time": 1758982761,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 168962,
+        "num": 150141,
+        "word": "哥嫂欠178万未还清嫂子杀死小叔",
+        "onboard_time": 1758974961,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168667,
+        "num": 150135,
+        "word": "刘耀文看见自己应援又爽了",
+        "onboard_time": 1758982881,
+        "rank": 30,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 158151,
+        "num": 150127,
+        "word": "久哲战队",
+        "onboard_time": 1758978441,
+        "rank": 31,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 163373,
+        "num": 150120,
+        "word": "宋亚轩MVP",
+        "onboard_time": 1758982282,
+        "rank": 32,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 150120,
+        "num": 150119,
+        "word": "李现模仿周杰伦肖邦封面",
+        "onboard_time": 1758981021,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147053,
+        "num": 147053,
+        "word": "汪苏泷眼妆",
+        "onboard_time": 1758982761,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144568,
+        "num": 144568,
+        "word": "鹿晗的海外人气",
+        "onboard_time": 1758978681,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141747,
+        "num": 141747,
+        "word": "严浩翔上场",
+        "onboard_time": 1758980543,
+        "rank": 36,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 122492,
+        "num": 140956,
+        "word": "27万买到全损奔驰车",
+        "onboard_time": 1758983301,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 103490,
+        "num": 140761,
+        "word": "老人回应女大学生干完农活就跑",
+        "onboard_time": 1758983301,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 62702,
+        "num": 140726,
+        "word": "女孩10元买仓鼠手术花费700元",
+        "onboard_time": 1758983422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140724,
+        "num": 140724,
+        "word": "宋雨琦你神图有了",
+        "onboard_time": 1758980902,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138629,
+        "num": 138629,
+        "word": "请假3天连休12天",
+        "onboard_time": 1758976401,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83311,
+        "num": 138542,
+        "word": "3个月18个台风",
+        "onboard_time": 1758981622,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 138514,
+        "num": 138514,
+        "word": "朋友圈令人非常不爽的现象",
+        "onboard_time": 1758982881,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138066,
+        "num": 138066,
+        "word": "郑钦文说球迷是我复出的原因",
+        "onboard_time": 1758982943,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 134434,
+        "word": "iG对战JDG 谁在哭",
+        "onboard_time": 1758979041,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118876,
+        "num": 118876,
+        "word": "刘宇宁老钱风灰西装",
+        "onboard_time": 1758983542,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113143,
+        "num": 113143,
+        "word": "贵州花江峡谷大桥",
+        "onboard_time": 1758983241,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113039,
+        "num": 113039,
+        "word": "董璇说结完婚该要孩子了吧",
+        "onboard_time": 1758966863,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111178,
+        "num": 111178,
+        "word": "孟子义增肥了快十斤",
+        "onboard_time": 1758958580,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新疆之行#"
+    }
+  }
+}

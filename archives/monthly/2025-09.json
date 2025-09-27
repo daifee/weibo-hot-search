@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758982830482,
+  "endTime": 1758983858043,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4340,7 +4340,7 @@
     },
     {
       "raw_hot": 1030697,
-      "num": 1030697,
+      "num": 1138017,
       "word": "连续吃6个月水煮菜胰腺坏死了",
       "onboard_time": 1758972019,
       "rank": 25,
@@ -9363,6 +9363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 623447,
+      "num": 424225,
+      "word": "刘萧旭女友正脸",
+      "onboard_time": 1758977842,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622866,
       "num": 235109,
       "word": "子夜归大结局",
@@ -9644,7 +9652,7 @@
     },
     {
       "raw_hot": 607718,
-      "num": 450308,
+      "num": 467336,
       "word": "战至巅峰",
       "onboard_time": 1756811421,
       "rank": 15,
@@ -11177,6 +11185,14 @@
       "onboard_time": 1758297622,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542273,
+      "num": 542273,
+      "word": "马嘉祺的心率",
+      "onboard_time": 1758981741,
+      "rank": 14,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 542095,
@@ -12865,14 +12881,6 @@
       "onboard_time": 1756789882,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 483825,
-      "num": 397494,
-      "word": "刘萧旭女友正脸",
-      "onboard_time": 1758977842,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 483135,
@@ -14987,6 +14995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420643,
+      "num": 420643,
+      "word": "战至巅峰暂停",
+      "onboard_time": 1758978020,
+      "rank": 11,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 420599,
       "num": 420599,
       "word": "罗永浩西贝之争倒逼餐饮透明化",
@@ -15265,14 +15281,6 @@
       "onboard_time": 1757742323,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 411633,
-      "num": 398338,
-      "word": "战至巅峰暂停",
-      "onboard_time": 1758978020,
-      "rank": 11,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 411615,
@@ -17635,6 +17643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358289,
+      "num": 358289,
+      "word": "Rookie 隔6年了",
+      "onboard_time": 1758980302,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 358217,
       "num": 358217,
       "word": "台湾自古到现在都属于中国",
@@ -17769,14 +17785,6 @@
       "onboard_time": 1758191543,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 355706,
-      "num": 355706,
-      "word": "马嘉祺的心率",
-      "onboard_time": 1758981741,
-      "rank": 14,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 354743,
@@ -18211,6 +18219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344116,
+      "num": 344116,
+      "word": "刘宇宁张艺兴隔空对唱",
+      "onboard_time": 1758979280,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 344062,
       "num": 376038,
       "word": "专家建议将农民养老金提升至1000元",
@@ -18401,14 +18417,6 @@
       "onboard_time": 1757668646,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 339816,
-      "num": 339816,
-      "word": "Rookie 隔6年了",
-      "onboard_time": 1758980302,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 339781,
@@ -19299,14 +19307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 321572,
-      "num": 321572,
-      "word": "刘宇宁张艺兴隔空对唱",
-      "onboard_time": 1758979280,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 321563,
       "num": 524218,
       "word": "中美将在西班牙会谈",
@@ -20193,6 +20193,14 @@
       "onboard_time": 1758428122,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 303223,
+      "num": 226988,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1758969739,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 303112,
@@ -21697,14 +21705,6 @@
       "onboard_time": 1757653825,
       "rank": 30,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 278122,
-      "num": 226988,
-      "word": "长期不换各种社交头像",
-      "onboard_time": 1758969739,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 278051,
@@ -23385,6 +23385,14 @@
       "onboard_time": 1758031652,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254193,
+      "num": 188968,
+      "word": "苏超八强诞生",
+      "onboard_time": 1758981862,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 254078,
@@ -26779,12 +26787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217015,
-      "num": 188968,
-      "word": "苏超八强诞生",
-      "onboard_time": 1758981862,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 216848,
+      "num": 188709,
+      "word": "时代少年团的心率",
+      "onboard_time": 1758982761,
+      "rank": 27,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 216836,
@@ -26868,7 +26876,7 @@
     },
     {
       "raw_hot": 215660,
-      "num": 285593,
+      "num": 428686,
       "word": "别让百亿补贴补出白色污染",
       "onboard_time": 1758953421,
       "rank": 49,
@@ -29075,14 +29083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 202611,
-      "num": 188709,
-      "word": "时代少年团的心率",
-      "onboard_time": 1758982761,
-      "rank": 27,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 202514,
       "num": 202514,
       "word": "柬埔寨成白人寻欢天堂",
@@ -30041,6 +30041,14 @@
       "onboard_time": 1758682942,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198428,
+      "num": 150157,
+      "word": "外媒报道鞠婧祎",
+      "onboard_time": 1758983002,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 198405,
@@ -35627,6 +35635,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 176846,
+      "num": 176846,
+      "word": "湘超",
+      "onboard_time": 1757248522,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176837,
       "num": 176837,
       "word": "王腾晋升小米双料总经理不足9个月",
@@ -37753,6 +37769,14 @@
       "onboard_time": 1758518121,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168667,
+      "num": 150135,
+      "word": "刘耀文看见自己应援又爽了",
+      "onboard_time": 1758982881,
+      "rank": 30,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 168659,
@@ -41075,6 +41099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158697,
+      "num": 158697,
+      "word": "巴基斯坦总理称让印度颜面扫地",
+      "onboard_time": 1758982824,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158685,
       "num": 158685,
       "word": "张凌赫名利场游刃有余的贵公子",
@@ -43931,6 +43963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150120,
+      "num": 150119,
+      "word": "李现模仿周杰伦肖邦封面",
+      "onboard_time": 1758981021,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150114,
       "num": 150114,
       "word": "睡眠对减重的重要性",
@@ -45323,6 +45363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147053,
+      "num": 147053,
+      "word": "汪苏泷眼妆",
+      "onboard_time": 1758982761,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147039,
       "num": 150731,
       "word": "易烊千玺收官站",
@@ -46233,14 +46281,6 @@
       "onboard_time": 1757834301,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144871,
-      "num": 144871,
-      "word": "李现模仿周杰伦肖邦封面",
-      "onboard_time": 1758981021,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 144834,
@@ -48851,6 +48891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 138514,
+      "num": 138514,
+      "word": "朋友圈令人非常不爽的现象",
+      "onboard_time": 1758982881,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138480,
       "num": 233014,
       "word": "12306称纸质报销凭证购票成功即可打印",
@@ -49073,6 +49121,14 @@
       "onboard_time": 1757248582,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138066,
+      "num": 138066,
+      "word": "郑钦文说球迷是我复出的原因",
+      "onboard_time": 1758982943,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 138051,
@@ -51177,14 +51233,6 @@
       "onboard_time": 1758526400,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133688,
-      "num": 133688,
-      "word": "湘超",
-      "onboard_time": 1757248522,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 133665,
@@ -56475,6 +56523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122492,
+      "num": 140956,
+      "word": "27万买到全损奔驰车",
+      "onboard_time": 1758983301,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 122489,
       "num": 122489,
       "word": "杨幂周笔畅一言不合就开跳",
@@ -58113,6 +58169,14 @@
       "onboard_time": 1758808763,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 118876,
+      "num": 118876,
+      "word": "刘宇宁老钱风灰西装",
+      "onboard_time": 1758983542,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 118873,
@@ -61041,6 +61105,14 @@
       "onboard_time": 1758890781,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113143,
+      "num": 113143,
+      "word": "贵州花江峡谷大桥",
+      "onboard_time": 1758983241,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113135,
@@ -65667,6 +65739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103490,
+      "num": 140761,
+      "word": "老人回应女大学生干完农活就跑",
+      "onboard_time": 1758983301,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 103482,
       "num": 103482,
       "word": "证监会对恒大地产开最大罚单",
@@ -66769,14 +66849,6 @@
       "onboard_time": 1758610101,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 101238,
-      "num": 101238,
-      "word": "汪苏泷眼妆",
-      "onboard_time": 1758982761,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 101235,
@@ -73203,6 +73275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83311,
+      "num": 189603,
+      "word": "3个月18个台风",
+      "onboard_time": 1758981622,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 83268,
       "num": 117313,
       "word": "周翊然演技",
@@ -74257,14 +74337,6 @@
       "onboard_time": 1758957860,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79695,
-      "num": 189603,
-      "word": "3个月18个台风",
-      "onboard_time": 1758981622,
-      "rank": 19,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 79690,
@@ -77809,6 +77881,14 @@
       "onboard_time": 1756785023,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62702,
+      "num": 140726,
+      "word": "女孩10元买仓鼠手术花费700元",
+      "onboard_time": 1758983422,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62699,
