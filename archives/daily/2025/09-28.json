@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759015323603,
+  "endTime": 1759016184422,
   "band_list": [
     {
       "raw_hot": 1593863,
@@ -19,7 +19,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1038501,
+      "raw_hot": 1152271,
       "num": 162559,
       "word": "网红唐飞机直播时坠机不幸身亡",
       "onboard_time": 1759014739,
@@ -35,20 +35,20 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 677050,
+      "num": 910845,
+      "word": "航班提前15小时起飞惊呆乘客",
+      "onboard_time": 1758987202,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662560,
       "num": 459691,
       "word": "战至巅峰直播",
       "onboard_time": 1758967820,
       "rank": 3,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 618447,
-      "num": 800357,
-      "word": "航班提前15小时起飞惊呆乘客",
-      "onboard_time": 1758987202,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 582232,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 370203,
-      "num": 174965,
+      "num": 188573,
       "word": "刘雪华回应为新戏拔掉全口牙",
       "onboard_time": 1758985643,
       "rank": 25,
@@ -172,11 +172,19 @@
     },
     {
       "raw_hot": 264356,
-      "num": 148333,
+      "num": 178262,
       "word": "邓超腿受伤",
       "onboard_time": 1758991459,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264264,
+      "num": 186718,
+      "word": "养生壶爆炸1岁孩童全身40%烫伤",
+      "onboard_time": 1759014259,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250378,
@@ -185,6 +193,14 @@
       "onboard_time": 1758982881,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225506,
+      "num": 177521,
+      "word": "周柯宇战至巅峰",
+      "onboard_time": 1759014137,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 225392,
@@ -203,6 +219,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 198562,
+      "num": 198562,
+      "word": "韩国外卖平台接入支付宝和微信支付",
+      "onboard_time": 1759004773,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192252,
       "num": 162512,
       "word": "肖战出道9周年",
@@ -211,28 +235,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192060,
-      "num": 148333,
-      "word": "周柯宇战至巅峰",
-      "onboard_time": 1759014137,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189844,
-      "num": 189844,
-      "word": "韩国外卖平台接入支付宝和微信支付",
-      "onboard_time": 1759004773,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 178046,
       "num": 178046,
       "word": "iG战胜JDG",
       "onboard_time": 1758976881,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176150,
+      "num": 140766,
+      "word": "韩博主拿柠檬水质疑中国餐馆水质",
+      "onboard_time": 1759014917,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175458,
+      "num": 175458,
+      "word": "老太太碰瓷小女生",
+      "onboard_time": 1758991339,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168418,
@@ -259,14 +283,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 162742,
-      "num": 162742,
-      "word": "老太太碰瓷小女生",
-      "onboard_time": 1758991339,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156175,
       "num": 153111,
       "word": "鹿晗新加坡",
@@ -283,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148523,
-      "num": 148523,
-      "word": "养生壶爆炸1岁孩童全身40%烫伤",
-      "onboard_time": 1759014259,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 136284,
+      "num": 136284,
+      "word": "郑钦文团队不支持参加中网",
+      "onboard_time": 1759014798,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 130557,
@@ -371,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111840,
-      "num": 111840,
-      "word": "韩博主拿柠檬水质疑中国餐馆水质",
-      "onboard_time": 1759014917,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 106184,
       "num": 132874,
       "word": "林俊杰演唱会",
@@ -395,12 +403,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 105069,
-      "num": 105069,
-      "word": "郑钦文团队不支持参加中网",
+      "raw_hot": 103470,
+      "num": 103470,
+      "word": "冯德伦发文祝贺舒淇拿奖",
       "onboard_time": 1759014798,
-      "rank": 23,
-      "category": "体育"
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 102279,
@@ -409,6 +417,22 @@
       "onboard_time": 1758988701,
       "rank": 41,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 101805,
+      "num": 132708,
+      "word": "小酒窝和朵朵一起接受央视采访",
+      "onboard_time": 1758973701,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101548,
+      "num": 101548,
+      "word": "朱志鑫跳了柠檬叉angel",
+      "onboard_time": 1759015518,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 96956,
@@ -433,14 +457,6 @@
       "onboard_time": 1758974961,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87205,
-      "num": 132708,
-      "word": "小酒窝和朵朵一起接受央视采访",
-      "onboard_time": 1758973701,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 86314,
@@ -483,6 +499,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79485,
+      "num": 79485,
+      "word": "美国将撤销哥伦比亚总统赴美签证",
+      "onboard_time": 1759014437,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 78017,
+      "num": 78017,
+      "word": "雷军第100次健身打卡",
+      "onboard_time": 1759015821,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 77346,
+      "num": 85277,
+      "word": "印度发生踩踏36死",
+      "onboard_time": 1759015878,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76715,
       "num": 76715,
       "word": "李沁35岁生日发文",
@@ -507,12 +547,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72032,
+      "num": 72032,
+      "word": "马嘉祺不亏是顶流",
+      "onboard_time": 1759014978,
+      "rank": 41,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 71775,
       "num": 132598,
       "word": "苏超八强诞生",
       "onboard_time": 1758981862,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71245,
+      "num": 71245,
+      "word": "网传湾区升明月节目单",
+      "onboard_time": 1759015821,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 70523,
+      "num": 70523,
+      "word": "距国庆中秋假期还有3天",
+      "onboard_time": 1759015821,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70103,
@@ -523,28 +587,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64186,
-      "num": 64186,
+      "raw_hot": 68426,
+      "num": 68426,
       "word": "台风博罗依路径",
       "onboard_time": 1759012755,
       "rank": 35,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 61549,
-      "num": 61549,
-      "word": "美国将撤销哥伦比亚总统赴美签证",
-      "onboard_time": 1759014437,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 59866,
-      "num": 59866,
+      "raw_hot": 63550,
+      "num": 63550,
       "word": "有史以来最火的S赛揭幕战",
       "onboard_time": 1759015278,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60047,
+      "num": 60047,
+      "word": "马竞5比2皇马",
+      "onboard_time": 1759015457,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 59725,
@@ -555,12 +619,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 58833,
-      "num": 58833,
-      "word": "冯德伦发文祝贺舒淇拿奖",
-      "onboard_time": 1759014798,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 59405,
+      "num": 59405,
+      "word": "早餐吃不对影响全天血糖",
+      "onboard_time": 1759015278,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 58774,
@@ -569,6 +633,14 @@
       "onboard_time": 1759008794,
       "rank": 45,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 56043,
+      "num": 56043,
+      "word": "喜人2 寻找少爷和我纪录片",
+      "onboard_time": 1759015878,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 55886,
@@ -587,28 +659,12 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 55661,
-      "num": 55661,
-      "word": "马嘉祺不亏是顶流",
-      "onboard_time": 1759014978,
-      "rank": 41,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 53736,
       "num": 46215,
       "word": "汪苏泷点了一碗线面实则两碗",
       "onboard_time": 1758995117,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 52316,
-      "num": 55598,
-      "word": "早餐吃不对影响全天血糖",
-      "onboard_time": 1759015278,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 51174,
@@ -771,7 +827,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 6393,
+      "raw_hot": 6657,
       "num": 468105,
       "word": "基建狂魔又放大招",
       "onboard_time": 1758939200,

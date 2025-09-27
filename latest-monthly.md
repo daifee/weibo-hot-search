@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 07:22:03
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 07:36:24
 </p>
 </blockquote>
 <p>
@@ -2793,6 +2793,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%94%90%E9%A3%9E%E6%9C%BA%E7%9B%B4%E6%92%AD%E6%97%B6%E5%9D%A0%E6%9C%BA%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
+网红唐飞机直播时坠机不幸身亡（热度：1152271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%A2%84%E8%A8%80%E5%AE%B6%E6%9D%A5%E4%BA%86%23" target="weibo">
 杜江预言家来了（热度：1151498）
 </a>
@@ -3239,12 +3245,6 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%A4%96%E7%BD%91%E9%81%93%E6%AD%89%E8%A2%AB%E6%8C%87%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%23" target="weibo">
 始祖鸟外网道歉被指甩锅中国团队（热度：1038719）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%94%90%E9%A3%9E%E6%9C%BA%E7%9B%B4%E6%92%AD%E6%97%B6%E5%9D%A0%E6%9C%BA%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
-网红唐飞机直播时坠机不幸身亡（热度：1038501）
 </a>
 </li>
 
