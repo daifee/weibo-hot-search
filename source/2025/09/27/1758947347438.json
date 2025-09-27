@@ -1,0 +1,410 @@
+{
+  "runTime": 1758947347438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1008644,
+        "num": 1161383,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602350,
+        "num": 602350,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42379,
+        "num": 481888,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758943279,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432640,
+        "num": 432640,
+        "word": "小米17破25年国产手机首销纪录",
+        "onboard_time": 1758944239,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 405927,
+        "num": 405927,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273655,
+        "num": 273655,
+        "word": "小学教师转岗教高中",
+        "onboard_time": 1758945019,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 204648,
+        "num": 204648,
+        "word": "陇西地震已致6人受伤",
+        "onboard_time": 1758940100,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 197606,
+        "num": 197606,
+        "word": "迪丽热巴中秋奇妙游",
+        "onboard_time": 1758947180,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195063,
+        "num": 195063,
+        "word": "马斯克出现在爱泼斯坦案文件中",
+        "onboard_time": 1758930619,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187866,
+        "num": 187866,
+        "word": "鹿晗包场支持刺杀小说家2",
+        "onboard_time": 1758945019,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1179563,
+        "num": 187222,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 818673,
+        "num": 184897,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181408,
+        "num": 181408,
+        "word": "于洋把易烊千玺百科怼唐国强脸上了",
+        "onboard_time": 1758939919,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500809,
+        "num": 181258,
+        "word": "Angelababy这个时候才17岁",
+        "onboard_time": 1758944660,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391778,
+        "num": 181127,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1758935060,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293750,
+        "num": 181072,
+        "word": "丁禹兮扛住了外媒镜头",
+        "onboard_time": 1758942439,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272873,
+        "num": 180923,
+        "word": "韩国男孩从6岁吐到15岁",
+        "onboard_time": 1758945200,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180780,
+        "num": 180780,
+        "word": "张萌跟刘宇宁约戏",
+        "onboard_time": 1758946821,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188030,
+        "num": 180515,
+        "word": "邵兵回应邵子恒说不出自己作品",
+        "onboard_time": 1758942020,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79082,
+        "num": 176597,
+        "word": "向往的生活新增常驻嘉宾",
+        "onboard_time": 1758946040,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290958,
+        "num": 176589,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176577,
+        "num": 176577,
+        "word": "女子做豆浆忘加水解锁醇香秘诀",
+        "onboard_time": 1758939380,
+        "rank": 21,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 172169,
+        "num": 172169,
+        "word": "以闪亮之名",
+        "onboard_time": 1758946760,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171013,
+        "num": 171013,
+        "word": "关掉美颜大家化的妆都一样",
+        "onboard_time": 1758943820,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164575,
+        "num": 164575,
+        "word": "问心2开机",
+        "onboard_time": 1758943340,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162062,
+        "num": 162062,
+        "word": "成毅两京十五日开机上班路透",
+        "onboard_time": 1758942198,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149602,
+        "num": 149602,
+        "word": "王源魏大勋一起逛街了",
+        "onboard_time": 1758946640,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146525,
+        "num": 146525,
+        "word": "GEN无法选取T1当底座",
+        "onboard_time": 1758944299,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142109,
+        "num": 142109,
+        "word": "麦当劳矿泉水8块1瓶",
+        "onboard_time": 1758946040,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127226,
+        "num": 141681,
+        "word": "电影731母婴实验",
+        "onboard_time": 1758946940,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141638,
+        "num": 141638,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 130136,
+        "num": 130136,
+        "word": "青岛女子在美国被丈夫杀害",
+        "onboard_time": 1758942800,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121748,
+        "num": 121748,
+        "word": "两京十五日",
+        "onboard_time": 1758944660,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115553,
+        "num": 115553,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110094,
+        "num": 110094,
+        "word": "甘肃陇西地震",
+        "onboard_time": 1758928216,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 109252,
+        "num": 109252,
+        "word": "震耳欲聋预售票房登顶",
+        "onboard_time": 1758946760,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106117,
+        "num": 106117,
+        "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+        "onboard_time": 1758896183,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63547,
+        "num": 104465,
+        "word": "7元买的月饼里有老鼠屎",
+        "onboard_time": 1758946880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83882,
+        "num": 103364,
+        "word": "网传光明接管后的上海学生餐",
+        "onboard_time": 1758946520,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55871,
+        "num": 103091,
+        "word": "白鹿临走前给粉丝分巧克力",
+        "onboard_time": 1758946520,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103077,
+        "num": 103077,
+        "word": "佟丽娅儿子出发参加大湾区晚会",
+        "onboard_time": 1758939319,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101619,
+        "num": 101619,
+        "word": "建议在午睡前喝咖啡",
+        "onboard_time": 1758930439,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101085,
+        "num": 101085,
+        "word": "店长连续工作8小时因闭眼2秒遭解雇",
+        "onboard_time": 1758942680,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96296,
+        "num": 96296,
+        "word": "何卓佳向王楚钦竖大拇指",
+        "onboard_time": 1758944239,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95975,
+        "num": 95975,
+        "word": "赤发鬼一个镜头头发量有150万根",
+        "onboard_time": 1758941660,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94757,
+        "num": 94757,
+        "word": "媒体评68页PPT曝光婚外情",
+        "onboard_time": 1758937880,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94368,
+        "num": 94368,
+        "word": "11万伤眼作业本被召回",
+        "onboard_time": 1758945920,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90636,
+        "num": 90636,
+        "word": "全运会乒乓球项目赛程",
+        "onboard_time": 1758946460,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89799,
+        "num": 89799,
+        "word": "沉默的荣耀定档",
+        "onboard_time": 1758945800,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88647,
+        "num": 88647,
+        "word": "小狗撒娇时耳朵就会消失",
+        "onboard_time": 1758946341,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何一再强调石榴籽#"
+    }
+  }
+}

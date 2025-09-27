@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758944682876,
+  "endTime": 1758947347438,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4419,6 +4419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1008644,
+      "num": 1161383,
+      "word": "埃及失联中国女孩已找到妈妈发声",
+      "onboard_time": 1758943039,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1008315,
       "num": 448814,
       "word": "小酒窝有官配cp了",
@@ -5185,14 +5193,6 @@
       "onboard_time": 1757999123,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 904160,
-      "num": 1144665,
-      "word": "埃及失联中国女孩已找到妈妈发声",
-      "onboard_time": 1758943039,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 904152,
@@ -12121,6 +12121,14 @@
       "onboard_time": 1757864363,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 500809,
+      "num": 181258,
+      "word": "Angelababy这个时候才17岁",
+      "onboard_time": 1758944660,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 500666,
@@ -20347,6 +20355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 293750,
+      "num": 181072,
+      "word": "丁禹兮扛住了外媒镜头",
+      "onboard_time": 1758942439,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293728,
       "num": 293728,
       "word": "男子持铁锤砸人致1死6伤家属发声",
@@ -21595,6 +21611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 273655,
+      "num": 273655,
+      "word": "小学教师转岗教高中",
+      "onboard_time": 1758945019,
+      "rank": 5,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 273560,
       "num": 273560,
       "word": "买电动车注意三个月过渡期",
@@ -21657,6 +21681,14 @@
       "onboard_time": 1756729822,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 272873,
+      "num": 180923,
+      "word": "韩国男孩从6岁吐到15岁",
+      "onboard_time": 1758945200,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 272827,
@@ -29619,6 +29651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197606,
+      "num": 197606,
+      "word": "迪丽热巴中秋奇妙游",
+      "onboard_time": 1758947180,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197605,
       "num": 197605,
       "word": "漫播",
@@ -32331,6 +32371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187866,
+      "num": 187866,
+      "word": "鹿晗包场支持刺杀小说家2",
+      "onboard_time": 1758945019,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187828,
       "num": 242969,
       "word": "唐卡为什么是最毒的画作",
@@ -34065,6 +34113,14 @@
       "onboard_time": 1757755642,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 180780,
+      "num": 180780,
+      "word": "张萌跟刘宇宁约戏",
+      "onboard_time": 1758946821,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 180756,
@@ -36117,6 +36173,14 @@
     {
       "raw_hot": 172169,
       "num": 172169,
+      "word": "以闪亮之名",
+      "onboard_time": 1757134221,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 172169,
+      "num": 172169,
       "word": "鹭卓这套下来得瘦十斤吧",
       "onboard_time": 1758900263,
       "rank": 43,
@@ -36172,7 +36236,7 @@
     },
     {
       "raw_hot": 172047,
-      "num": 120244,
+      "num": 171013,
       "word": "关掉美颜大家化的妆都一样",
       "onboard_time": 1758943820,
       "rank": 30,
@@ -41931,14 +41995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153293,
-      "num": 153293,
-      "word": "丁禹兮扛住了外媒镜头",
-      "onboard_time": 1758942439,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153289,
       "num": 153289,
       "word": "张维伊不是我找你们来的吧",
@@ -43280,6 +43336,14 @@
       "word": "章若楠直播",
       "onboard_time": 1757560281,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149602,
+      "num": 149602,
+      "word": "王源魏大勋一起逛街了",
+      "onboard_time": 1758946640,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -46489,6 +46553,14 @@
       "onboard_time": 1757929642,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142109,
+      "num": 142109,
+      "word": "麦当劳矿泉水8块1瓶",
+      "onboard_time": 1758946040,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142080,
@@ -51667,6 +51739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130136,
+      "num": 130136,
+      "word": "青岛女子在美国被丈夫杀害",
+      "onboard_time": 1758942800,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130100,
       "num": 214855,
       "word": "三四公里路程救护车开了30多分钟",
@@ -53105,6 +53185,14 @@
       "onboard_time": 1758371302,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127226,
+      "num": 141681,
+      "word": "电影731母婴实验",
+      "onboard_time": 1758946940,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 127225,
@@ -55417,14 +55505,6 @@
       "onboard_time": 1758618922,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122248,
-      "num": 122248,
-      "word": "以闪亮之名",
-      "onboard_time": 1757134221,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 122247,
@@ -61683,6 +61763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109252,
+      "num": 109252,
+      "word": "震耳欲聋预售票房登顶",
+      "onboard_time": 1758946760,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109229,
       "num": 127605,
       "word": "阅兵鸽回家后经常学着站军姿",
@@ -63073,14 +63161,6 @@
       "onboard_time": 1757227282,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106045,
-      "num": 106045,
-      "word": "青岛女子在美国被丈夫杀害",
-      "onboard_time": 1758942800,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 106042,
@@ -65377,6 +65457,14 @@
       "onboard_time": 1758792140,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101085,
+      "num": 101085,
+      "word": "店长连续工作8小时因闭眼2秒遭解雇",
+      "onboard_time": 1758942680,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101064,
@@ -68059,6 +68147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94368,
+      "num": 94368,
+      "word": "11万伤眼作业本被召回",
+      "onboard_time": 1758945920,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94327,
       "num": 216766,
       "word": "丞磊新剧人设",
@@ -69275,6 +69371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90636,
+      "num": 90636,
+      "word": "全运会乒乓球项目赛程",
+      "onboard_time": 1758946460,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90623,
       "num": 90623,
       "word": "橙色iPhone17或加价最多",
@@ -69521,6 +69625,14 @@
       "onboard_time": 1758526462,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89799,
+      "num": 89799,
+      "word": "沉默的荣耀定档",
+      "onboard_time": 1758945800,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 89738,
@@ -69873,6 +69985,14 @@
       "onboard_time": 1757645187,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88647,
+      "num": 88647,
+      "word": "小狗撒娇时耳朵就会消失",
+      "onboard_time": 1758946341,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88582,
@@ -71275,6 +71395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83882,
+      "num": 103364,
+      "word": "网传光明接管后的上海学生餐",
+      "onboard_time": 1758946520,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83879,
       "num": 89697,
       "word": "樊振东回应德甲两连胜",
@@ -72633,6 +72761,14 @@
       "onboard_time": 1758029604,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 79082,
+      "num": 176597,
+      "word": "向往的生活新增常驻嘉宾",
+      "onboard_time": 1758946040,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 79064,
@@ -75739,6 +75875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 63547,
+      "num": 104465,
+      "word": "7元买的月饼里有老鼠屎",
+      "onboard_time": 1758946880,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63540,
       "num": 63540,
       "word": "何广智透露夺冠后的发展计划",
@@ -77457,6 +77601,14 @@
       "onboard_time": 1758644241,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55871,
+      "num": 103091,
+      "word": "白鹿临走前给粉丝分巧克力",
+      "onboard_time": 1758946520,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 55864,
@@ -79947,14 +80099,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 45246,
-      "num": 93004,
-      "word": "店长连续工作8小时因闭眼2秒遭解雇",
-      "onboard_time": 1758942680,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45238,
       "num": 133443,
       "word": "柯克案枪手作案后与伴侣聊天记录曝光",
@@ -80609,14 +80753,6 @@
       "onboard_time": 1758787702,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 41832,
-      "num": 88538,
-      "word": "Angelababy这个时候才17岁",
-      "onboard_time": 1758944660,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 41829,
