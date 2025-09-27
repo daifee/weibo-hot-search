@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758955470047,
+  "endTime": 1758957653533,
   "band_list": [
     {
       "raw_hot": 1619192,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1032960,
-      "num": 208408,
+      "num": 228769,
       "word": "朵朵和陈思诚一模一样",
       "onboard_time": 1758951560,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1758896183,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 771417,
+      "num": 229226,
+      "word": "小酒窝给张维伊董璇当花童",
+      "onboard_time": 1758954980,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 754707,
@@ -147,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489838,
+      "num": 251396,
+      "word": "这居然是陆柯燃",
+      "onboard_time": 1758955400,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475313,
       "num": 449655,
       "word": "王玉雯下车门摔倒",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 394462,
-      "num": 204218,
+      "num": 213731,
       "word": "李现关晓彤 霸总和大小姐",
       "onboard_time": 1758952941,
       "rank": 20,
@@ -227,14 +243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 391127,
-      "num": 207417,
-      "word": "小酒窝给张维伊董璇当花童",
-      "onboard_time": 1758954980,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381537,
       "num": 222128,
       "word": "董璇张维伊婚礼照",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 362115,
-      "num": 210980,
+      "num": 248663,
       "word": "谢娜没想到一个节目愿意只拍她回家",
       "onboard_time": 1758952100,
       "rank": 5,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 325343,
-      "num": 210176,
+      "num": 248998,
       "word": "毛不易你火成我不认识的样子了",
       "onboard_time": 1758952160,
       "rank": 6,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 282415,
-      "num": 209777,
+      "num": 233039,
       "word": "万千惠彻查公司前五年账本",
       "onboard_time": 1758953301,
       "rank": 8,
@@ -443,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250850,
+      "num": 250850,
+      "word": "王者荣耀",
+      "onboard_time": 1758956720,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249206,
       "num": 249206,
       "word": "彭昱畅 我哥哥彭于晏",
@@ -465,6 +481,22 @@
       "onboard_time": 1758930619,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 229407,
+      "num": 209084,
+      "word": "龚俊 小沁陪我",
+      "onboard_time": 1758955519,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225881,
+      "num": 225881,
+      "word": "男女相恋6年分手后变成室友",
+      "onboard_time": 1758955223,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224265,
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193643,
+      "num": 193643,
+      "word": "剧本都写不出王琳莫斯科这幕",
+      "onboard_time": 1758956599,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190223,
       "num": 197870,
       "word": "陇西地震一人受伤已送医",
@@ -603,12 +643,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171711,
+      "num": 194570,
+      "word": "向往的生活新增常驻嘉宾",
+      "onboard_time": 1758946040,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171488,
+      "num": 171488,
+      "word": "小酒窝 我广告一下",
+      "onboard_time": 1758956781,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171314,
       "num": 171314,
       "word": "以色列总理联大演讲多国代表离场",
       "onboard_time": 1758910095,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170189,
+      "num": 170189,
+      "word": "王者铠动画主题皮肤",
+      "onboard_time": 1758956481,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 167434,
@@ -649,6 +713,14 @@
       "onboard_time": 1758941660,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160723,
+      "num": 160723,
+      "word": "窦靖童担心会遗传窦唯的秃头",
+      "onboard_time": 1758953961,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 160573,
@@ -707,12 +779,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 154171,
+      "num": 154171,
+      "word": "对金软细银有了更深刻的理解",
+      "onboard_time": 1758956720,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153138,
       "num": 153138,
       "word": "美国人对华印象把日本人整破防",
       "onboard_time": 1758935180,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150835,
+      "num": 201605,
+      "word": "第一视角看神二十乘组出舱",
+      "onboard_time": 1758956599,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149021,
@@ -731,20 +819,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 147102,
-      "num": 147102,
-      "word": "窦靖童担心会遗传窦唯的秃头",
-      "onboard_time": 1758953961,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146906,
       "num": 146906,
       "word": "内塔尼亚胡要求与会者扫码",
       "onboard_time": 1758935662,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146669,
+      "num": 146669,
+      "word": "敬战至巅峰并肩作战的我们",
+      "onboard_time": 1758955820,
+      "rank": 28,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 146306,
@@ -849,6 +937,14 @@
       "onboard_time": 1758942861,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137356,
+      "num": 204969,
+      "word": "快递集体涨价",
+      "onboard_time": 1758955160,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136907,
@@ -1131,14 +1227,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 103595,
-      "num": 103595,
-      "word": "这居然是陆柯燃",
-      "onboard_time": 1758955400,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102561,
       "num": 102561,
       "word": "王一博太撩人了",
@@ -1147,12 +1235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101801,
+      "num": 101801,
+      "word": "龚俊终究是败在了路透手上",
+      "onboard_time": 1758956840,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101085,
       "num": 101085,
       "word": "店长连续工作8小时因闭眼2秒遭解雇",
       "onboard_time": 1758942680,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99177,
+      "num": 99177,
+      "word": "群名就叫宝宝爸士吧",
+      "onboard_time": 1758955581,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 98923,
@@ -1211,14 +1315,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 96909,
-      "num": 94646,
-      "word": "男女相恋6年分手后变成室友",
-      "onboard_time": 1758955223,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95922,
       "num": 95922,
       "word": "马斯克父亲涉嫌性虐待",
@@ -1256,6 +1352,14 @@
       "word": "穆塞蒂",
       "onboard_time": 1758936800,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94641,
+      "num": 117851,
+      "word": "吴艳妮12秒99晋级决赛",
+      "onboard_time": 1758957201,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1315,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93246,
+      "num": 92437,
+      "word": "奉劝大家少穿洞洞鞋和高跟鞋",
+      "onboard_time": 1758957620,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92775,
       "num": 92775,
       "word": "新小猫吊牌都没摘",
@@ -1323,12 +1435,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92236,
-      "num": 194570,
-      "word": "向往的生活新增常驻嘉宾",
-      "onboard_time": 1758946040,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 92583,
+      "num": 92583,
+      "word": "张佳宁新剧气血充足的美",
+      "onboard_time": 1758957320,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 91048,
@@ -1667,11 +1779,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55671,
+      "num": 95790,
+      "word": "酒店员工不给以总理提供餐饮遭逮捕",
+      "onboard_time": 1758956180,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55130,
       "num": 55130,
       "word": "彭昱畅在向往被夸成翘嘴",
       "onboard_time": 1758910396,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 54644,
+      "num": 109515,
+      "word": "花少下期小考造型好炸裂",
+      "onboard_time": 1758957379,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1691,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51321,
+      "num": 109483,
+      "word": "王安宇路人的时候",
+      "onboard_time": 1758956661,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51284,
       "num": 51284,
       "word": "肖战大湾区晚会节目自带乐队",
@@ -1704,14 +1840,6 @@
       "word": "当地回应被撞飞坠桥轿车伤亡不明",
       "onboard_time": 1758929299,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50528,
-      "num": 204969,
-      "word": "快递集体涨价",
-      "onboard_time": 1758955160,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1729,6 +1857,14 @@
       "onboard_time": 1758954380,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47731,
+      "num": 109577,
+      "word": "西贝 意林体公关",
+      "onboard_time": 1758957440,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47231,
@@ -1768,6 +1904,14 @@
       "word": "立起来的大熊猫和企鹅相似度99%",
       "onboard_time": 1758902362,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40995,
+      "num": 120076,
+      "word": "快递涨价后能送上门吗",
+      "onboard_time": 1758955941,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1905,6 +2049,14 @@
       "onboard_time": 1758919394,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26754,
+      "num": 115927,
+      "word": "杨瀚森亲笔信",
+      "onboard_time": 1758955941,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 24635,
