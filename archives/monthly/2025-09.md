@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 20:58:08
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 21:26:01
 </p>
 </blockquote>
 <p>
@@ -927,6 +927,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CJDG%23" target="weibo">
+iG战胜JDG（热度：2040550）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%89%911000%E5%AF%BC%E5%BC%B9%23" target="weibo">
 长剑1000导弹（热度：2038335）
 </a>
@@ -1349,12 +1355,6 @@ miumiu签了三个00花（热度：1748229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A4%E7%BB%B4%E7%B2%92%E8%A2%AB%E6%8A%93%23" target="weibo">
 纤维粒被抓（热度：1673205）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CJDG%23" target="weibo">
-iG战胜JDG（热度：1669531）
 </a>
 </li>
 
@@ -3021,14 +3021,14 @@ wtt（热度：1154727）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B0%8F%E7%82%92%20%E9%A2%84%E5%88%B6%E8%8F%9C%E5%85%8B%E6%98%9F%23" target="weibo">
-江西小炒 预制菜克星（热度：1073690）
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%8A%A0%E5%9D%A1%23" target="weibo">
+鹿晗新加坡（热度：1075283）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%8A%A0%E5%9D%A1%23" target="weibo">
-鹿晗新加坡（热度：1072887）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B0%8F%E7%82%92%20%E9%A2%84%E5%88%B6%E8%8F%9C%E5%85%8B%E6%98%9F%23" target="weibo">
+江西小炒 预制菜克星（热度：1073690）
 </a>
 </li>
 
@@ -6533,6 +6533,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E4%BD%93%E5%BB%BA%E8%AE%BE%23%23" target="weibo">
 #总书记引领中华民族共同体建设#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E7%96%86%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
+#总书记新疆之行#
 </a>
 </li>
 
