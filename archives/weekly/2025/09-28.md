@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 04:25:09
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 04:37:40
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%8F%AF%E7%88%B1%E9%A2%82%E6%89%8B%E5%8A%BF%E8%88%9E%23" target="weibo">
+汪苏泷可爱颂手势舞（热度：25057）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%8E%B0%E8%BA%AB%E6%88%90%E9%83%BDNBA%E8%81%9A%E6%98%9F%E5%90%8D%E4%BA%BA%E8%B5%9B%23" target="weibo">
 王鹤棣现身成都NBA聚星名人赛（热度：24520）
 </a>
@@ -441,14 +447,26 @@ chiikawa新动画（热度：14546）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23" target="weibo">
+为中国航天点赞（热度：12367）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%AE%E8%80%81%E4%BA%BA%E6%94%B6%E5%AE%8C%E7%8E%89%E7%B1%B3%E5%B0%B1%E8%B7%91%23" target="weibo">
 00后女大学生帮老人收完玉米就跑（热度：12225）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23" target="weibo">
-为中国航天点赞（热度：12111）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%85%A5%E6%94%AF%E4%BB%98%E5%AE%9D%E5%92%8C%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
+韩国外卖平台接入支付宝和微信支付（热度：12127）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%87%E8%A5%BF%E5%B1%85%E6%B0%91%E7%A7%B0%E6%9C%89%E6%88%BF%E5%B1%8B%E8%A2%AB%E9%9C%87%E8%A3%82%23" target="weibo">
+陇西居民称有房屋被震裂（热度：11451）
 </a>
 </li>
 
