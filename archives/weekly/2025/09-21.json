@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758980260144,
+  "endTime": 1758982830482,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -859,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1080665,
+      "num": 717708,
+      "word": "战至巅峰直播",
+      "onboard_time": 1758967820,
+      "rank": 3,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 1066434,
       "num": 400453,
       "word": "蓝战非",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1758455661,
       "rank": 11,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 925361,
-      "num": 717708,
-      "word": "战至巅峰直播",
-      "onboard_time": 1758967820,
-      "rank": 3,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 925209,
@@ -3371,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483825,
+      "num": 397494,
+      "word": "刘萧旭女友正脸",
+      "onboard_time": 1758977842,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479516,
       "num": 479516,
       "word": "灼灼韶华打破生万物央八年冠纪录",
@@ -3841,6 +3849,14 @@
       "onboard_time": 1758695722,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 411633,
+      "num": 398338,
+      "word": "战至巅峰暂停",
+      "onboard_time": 1758978020,
+      "rank": 11,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 411178,
@@ -4427,6 +4443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 355706,
+      "num": 355706,
+      "word": "马嘉祺的心率",
+      "onboard_time": 1758981741,
+      "rank": 14,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 354743,
       "num": 417058,
       "word": "潘玮柏吃到被导演紧急叫停",
@@ -4441,14 +4465,6 @@
       "onboard_time": 1758898462,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 354540,
-      "num": 354540,
-      "word": "刘萧旭女友正脸",
-      "onboard_time": 1758977842,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 352376,
@@ -4529,6 +4545,14 @@
       "onboard_time": 1758640583,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339816,
+      "num": 339816,
+      "word": "Rookie 隔6年了",
+      "onboard_time": 1758980302,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 339279,
@@ -4625,14 +4649,6 @@
       "onboard_time": 1758782540,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332375,
-      "num": 332375,
-      "word": "战至巅峰暂停",
-      "onboard_time": 1758978020,
-      "rank": 11,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 332316,
@@ -4801,6 +4817,14 @@
       "onboard_time": 1758626541,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321572,
+      "num": 321572,
+      "word": "刘宇宁张艺兴隔空对唱",
+      "onboard_time": 1758979280,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 321548,
@@ -5444,7 +5468,7 @@
     },
     {
       "raw_hot": 279032,
-      "num": 363169,
+      "num": 398061,
       "word": "苏超",
       "onboard_time": 1758969739,
       "rank": 35,
@@ -5489,6 +5513,14 @@
       "onboard_time": 1758689244,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278122,
+      "num": 226988,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1758969739,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 277846,
@@ -6147,28 +6179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247065,
-      "num": 226988,
-      "word": "长期不换各种社交头像",
-      "onboard_time": 1758969739,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 246582,
       "num": 246582,
       "word": "桦加沙台风眼开始填塞",
       "onboard_time": 1758705862,
       "rank": 48,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 246399,
-      "num": 246399,
-      "word": "刘宇宁张艺兴隔空对唱",
-      "onboard_time": 1758979280,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 245725,
@@ -6843,6 +6859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217015,
+      "num": 188968,
+      "word": "苏超八强诞生",
+      "onboard_time": 1758981862,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216836,
       "num": 216836,
       "word": "白家涉赌诈资金超200亿",
@@ -6865,6 +6889,14 @@
       "onboard_time": 1758852260,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215660,
+      "num": 285593,
+      "word": "别让百亿补贴补出白色污染",
+      "onboard_time": 1758953421,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215556,
@@ -7585,6 +7617,14 @@
       "onboard_time": 1758690203,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202611,
+      "num": 188709,
+      "word": "时代少年团的心率",
+      "onboard_time": 1758982761,
+      "rank": 27,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 202486,
@@ -8491,6 +8531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190577,
+      "num": 188656,
+      "word": "宋亚轩MVP",
+      "onboard_time": 1758982282,
+      "rank": 28,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 190320,
       "num": 190320,
       "word": "舰载机如何弹射起飞",
@@ -8625,6 +8673,14 @@
       "onboard_time": 1758807862,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188578,
+      "num": 188578,
+      "word": "严浩翔上场",
+      "onboard_time": 1758980543,
+      "rank": 29,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 188386,
@@ -8945,14 +9001,6 @@
       "onboard_time": 1758792561,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184635,
-      "num": 285593,
-      "word": "别让百亿补贴补出白色污染",
-      "onboard_time": 1758953421,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184551,
@@ -10611,6 +10659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164430,
+      "num": 185166,
+      "word": "请假3天连休12天",
+      "onboard_time": 1758976401,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164265,
       "num": 204146,
       "word": "苏新皓不参加湖南中秋之夜",
@@ -11593,14 +11649,6 @@
       "onboard_time": 1758602063,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 153706,
-      "num": 185166,
-      "word": "请假3天连休12天",
-      "onboard_time": 1758976401,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153704,
@@ -12603,6 +12651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 144871,
+      "num": 144871,
+      "word": "李现模仿周杰伦肖邦封面",
+      "onboard_time": 1758981021,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144834,
       "num": 144834,
       "word": "协和专家吃头孢过敏进抢救室",
@@ -12817,6 +12873,14 @@
       "onboard_time": 1758802161,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143236,
+      "num": 143236,
+      "word": "宋雨琦你神图有了",
+      "onboard_time": 1758980902,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 143010,
@@ -14163,6 +14227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132471,
+      "num": 132471,
+      "word": "苏超苏州3比2常州",
+      "onboard_time": 1758982643,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132444,
       "num": 132444,
       "word": "刘耀文看似叫兄弟实则把粉丝当公主",
@@ -14625,6 +14697,14 @@
       "onboard_time": 1758726082,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128751,
+      "num": 128751,
+      "word": "湘超",
+      "onboard_time": 1758982703,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 128744,
@@ -15931,6 +16011,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 118873,
+      "num": 118873,
+      "word": "刘宇宁樱吹雪名场面",
+      "onboard_time": 1758982041,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118852,
       "num": 164969,
       "word": "珠海多家安置酒店已满房",
@@ -16785,6 +16873,14 @@
       "onboard_time": 1758980061,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112914,
+      "num": 112914,
+      "word": "TheShy再现神之一指",
+      "onboard_time": 1758980421,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 112848,
@@ -17731,6 +17827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 104782,
+      "num": 104782,
+      "word": "大屏上的宋雨琦",
+      "onboard_time": 1758982402,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104755,
       "num": 104755,
       "word": "小米电视",
@@ -17891,12 +17995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103098,
+      "num": 103098,
+      "word": "丁禹兮在米兰要吃中餐",
+      "onboard_time": 1758981562,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102951,
       "num": 102951,
       "word": "对原产于墨西哥和美国的进口碧根果发起反倾销立案调查",
       "onboard_time": 1758813623,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102860,
+      "num": 102860,
+      "word": "苏超南京4比0宿迁",
+      "onboard_time": 1758982643,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 102641,
@@ -18041,6 +18161,14 @@
       "onboard_time": 1758610101,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101238,
+      "num": 101238,
+      "word": "汪苏泷眼妆",
+      "onboard_time": 1758982761,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 101223,
@@ -20001,6 +20129,14 @@
       "onboard_time": 1758957860,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79695,
+      "num": 189603,
+      "word": "3个月18个台风",
+      "onboard_time": 1758981622,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 79498,

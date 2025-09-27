@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 21:37:40
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 22:20:30
 </p>
 </blockquote>
 <p>
@@ -3015,6 +3015,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0%E7%9B%B4%E6%92%AD%23" target="weibo">
+战至巅峰直播（热度：1080665）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%9D%90%E5%9C%A8%E4%BA%86%E5%80%AA%E5%A6%AE%E4%BA%95%E6%9F%8F%E7%84%B6%E4%B8%AD%E9%97%B4%23" target="weibo">
 马龙坐在了倪妮井柏然中间（热度：1080423）
 </a>
@@ -3869,12 +3875,6 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%AE%B6%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8A%23" target="weibo">
 我的家在东北松花江上（热度：925829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0%E7%9B%B4%E6%92%AD%23" target="weibo">
-战至巅峰直播（热度：925361）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758980260144,
+  "endTime": 1758982830482,
   "band_list": [
     {
       "raw_hot": 2040550,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1080665,
+      "num": 717708,
+      "word": "战至巅峰直播",
+      "onboard_time": 1758967820,
+      "rank": 3,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 1047134,
       "num": 719849,
       "word": "黄明昊 遇到不公平的事情",
@@ -147,20 +155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 925361,
-      "num": 717708,
-      "word": "战至巅峰直播",
-      "onboard_time": 1758967820,
-      "rank": 3,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 848375,
       "num": 397172,
       "word": "西贝 闭着眼睛点",
       "onboard_time": 1758968900,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 843589,
+      "num": 397956,
+      "word": "许我耀眼",
+      "onboard_time": 1758980002,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 838830,
@@ -339,20 +347,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 483825,
+      "num": 397494,
+      "word": "刘萧旭女友正脸",
+      "onboard_time": 1758977842,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475313,
       "num": 449655,
       "word": "王玉雯下车门摔倒",
       "onboard_time": 1758896423,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471258,
-      "num": 362662,
-      "word": "许我耀眼",
-      "onboard_time": 1758980002,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 458210,
@@ -417,6 +425,14 @@
       "onboard_time": 1758958161,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 411633,
+      "num": 398338,
+      "word": "战至巅峰暂停",
+      "onboard_time": 1758978020,
+      "rank": 11,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 408573,
@@ -507,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354540,
-      "num": 354540,
-      "word": "刘萧旭女友正脸",
-      "onboard_time": 1758977842,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 355706,
+      "num": 355706,
+      "word": "马嘉祺的心率",
+      "onboard_time": 1758981741,
+      "rank": 14,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 343871,
@@ -523,20 +539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339816,
+      "num": 339816,
+      "word": "Rookie 隔6年了",
+      "onboard_time": 1758980302,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 335705,
       "num": 205337,
       "word": "韩国男孩从6岁吐到15岁",
       "onboard_time": 1758945200,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 332375,
-      "num": 332375,
-      "word": "战至巅峰暂停",
-      "onboard_time": 1758978020,
-      "rank": 11,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 331318,
@@ -577,6 +593,14 @@
       "onboard_time": 1758940580,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 321572,
+      "num": 321572,
+      "word": "刘宇宁张艺兴隔空对唱",
+      "onboard_time": 1758979280,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 321452,
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 279032,
-      "num": 363169,
+      "num": 398061,
       "word": "苏超",
       "onboard_time": 1758969739,
       "rank": 35,
@@ -681,6 +705,14 @@
       "onboard_time": 1758889822,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278122,
+      "num": 226988,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1758969739,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 277846,
@@ -771,22 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247065,
-      "num": 226988,
-      "word": "长期不换各种社交头像",
-      "onboard_time": 1758969739,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 246399,
-      "num": 246399,
-      "word": "刘宇宁张艺兴隔空对唱",
-      "onboard_time": 1758979280,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 239727,
       "num": 239727,
       "word": "韩三星财团CJ会长找主播去秘密派对",
@@ -840,6 +856,22 @@
       "word": "陇西地震亲历者称像有人使劲摇床",
       "onboard_time": 1758937640,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217015,
+      "num": 188968,
+      "word": "苏超八强诞生",
+      "onboard_time": 1758981862,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215660,
+      "num": 285593,
+      "word": "别让百亿补贴补出白色污染",
+      "onboard_time": 1758953421,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -897,6 +929,14 @@
       "onboard_time": 1758951081,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202611,
+      "num": 188709,
+      "word": "时代少年团的心率",
+      "onboard_time": 1758982761,
+      "rank": 27,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 202427,
@@ -979,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190577,
+      "num": 188656,
+      "word": "宋亚轩MVP",
+      "onboard_time": 1758982282,
+      "rank": 28,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 190223,
       "num": 197870,
       "word": "陇西地震一人受伤已送医",
@@ -1003,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188578,
+      "num": 188578,
+      "word": "严浩翔上场",
+      "onboard_time": 1758980543,
+      "rank": 29,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 187650,
       "num": 187650,
       "word": "时代少年团火力全开见证终极荣耀",
@@ -1017,14 +1073,6 @@
       "onboard_time": 1758969260,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184635,
-      "num": 285593,
-      "word": "别让百亿补贴补出白色污染",
-      "onboard_time": 1758953421,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183779,
@@ -1211,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164430,
+      "num": 185166,
+      "word": "请假3天连休12天",
+      "onboard_time": 1758976401,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164042,
       "num": 201605,
       "word": "第一视角看神二十乘组出舱",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1758928698,
       "rank": 25,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 153706,
-      "num": 185166,
-      "word": "请假3天连休12天",
-      "onboard_time": 1758976401,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153138,
@@ -1435,12 +1483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144871,
+      "num": 144871,
+      "word": "李现模仿周杰伦肖邦封面",
+      "onboard_time": 1758981021,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144439,
       "num": 144439,
       "word": "吴邪私家笔记西沙主人是汪藏海",
       "onboard_time": 1758964161,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143236,
+      "num": 143236,
+      "word": "宋雨琦你神图有了",
+      "onboard_time": 1758980902,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 142215,
@@ -1619,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132471,
+      "num": 132471,
+      "word": "苏超苏州3比2常州",
+      "onboard_time": 1758982643,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132121,
       "num": 120557,
       "word": "陈泽回应霸凌同学",
@@ -1681,6 +1753,14 @@
       "onboard_time": 1758963861,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128751,
+      "num": 128751,
+      "word": "湘超",
+      "onboard_time": 1758982703,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 127650,
@@ -1867,6 +1947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118873,
+      "num": 118873,
+      "word": "刘宇宁樱吹雪名场面",
+      "onboard_time": 1758982041,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118737,
       "num": 118737,
       "word": "终于明白为什么菠萝带螺纹了",
@@ -1987,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112914,
+      "num": 112914,
+      "word": "TheShy再现神之一指",
+      "onboard_time": 1758980421,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112848,
       "num": 112848,
       "word": "李诞一句话就让酷滕原地认了错",
@@ -2099,12 +2195,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 104782,
+      "num": 104782,
+      "word": "大屏上的宋雨琦",
+      "onboard_time": 1758982402,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103969,
       "num": 103969,
       "word": "一个严重降低好感的小细节",
       "onboard_time": 1758966261,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103098,
+      "num": 103098,
+      "word": "丁禹兮在米兰要吃中餐",
+      "onboard_time": 1758981562,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102860,
+      "num": 102860,
+      "word": "苏超南京4比0宿迁",
+      "onboard_time": 1758982643,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 102561,
@@ -2129,6 +2249,14 @@
       "onboard_time": 1758972561,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101238,
+      "num": 101238,
+      "word": "汪苏泷眼妆",
+      "onboard_time": 1758982761,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 101085,
@@ -2641,6 +2769,14 @@
       "onboard_time": 1758957860,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79695,
+      "num": 189603,
+      "word": "3个月18个台风",
+      "onboard_time": 1758981622,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 78947,
