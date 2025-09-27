@@ -1,0 +1,410 @@
+{
+  "runTime": 1758948114395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925305,
+        "num": 1148048,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492491,
+        "num": 492491,
+        "word": "小米17破25年国产手机首销纪录",
+        "onboard_time": 1758944239,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48887,
+        "num": 432592,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758943279,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430492,
+        "num": 430492,
+        "word": "小学教师转岗教高中",
+        "onboard_time": 1758945019,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 250933,
+        "num": 250933,
+        "word": "鹿晗包场支持刺杀小说家2",
+        "onboard_time": 1758945019,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213117,
+        "num": 213117,
+        "word": "迪丽热巴中秋奇妙游",
+        "onboard_time": 1758947180,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 656431,
+        "num": 212439,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410312,
+        "num": 212174,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211533,
+        "num": 211533,
+        "word": "张萌跟刘宇宁约戏",
+        "onboard_time": 1758946821,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210719,
+        "num": 210719,
+        "word": "马斯克出现在爱泼斯坦案文件中",
+        "onboard_time": 1758930619,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1355771,
+        "num": 210494,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867374,
+        "num": 209068,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629590,
+        "num": 207224,
+        "word": "Angelababy这个时候才17岁",
+        "onboard_time": 1758944660,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406581,
+        "num": 207145,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1758935060,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335705,
+        "num": 205337,
+        "word": "韩国男孩从6岁吐到15岁",
+        "onboard_time": 1758945200,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 315638,
+        "num": 204434,
+        "word": "丁禹兮扛住了外媒镜头",
+        "onboard_time": 1758942439,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216628,
+        "num": 203223,
+        "word": "张婧仪眉骨打伞",
+        "onboard_time": 1758947540,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187121,
+        "num": 202002,
+        "word": "陇西地震已致6人受伤",
+        "onboard_time": 1758940100,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 201269,
+        "num": 201269,
+        "word": "以闪亮之名",
+        "onboard_time": 1758946760,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92236,
+        "num": 194570,
+        "word": "向往的生活新增常驻嘉宾",
+        "onboard_time": 1758946040,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284874,
+        "num": 194089,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210836,
+        "num": 193781,
+        "word": "关掉美颜大家化的妆都一样",
+        "onboard_time": 1758943820,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192559,
+        "num": 192559,
+        "word": "女子做豆浆忘加水解锁醇香秘诀",
+        "onboard_time": 1758939380,
+        "rank": 22,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 190927,
+        "num": 190927,
+        "word": "董璇张维伊婚礼照",
+        "onboard_time": 1758947660,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171001,
+        "num": 171001,
+        "word": "于洋把易烊千玺百科怼唐国强脸上了",
+        "onboard_time": 1758939919,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155159,
+        "num": 155159,
+        "word": "重庆两地发现上百株冥界之花",
+        "onboard_time": 1758947423,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149370,
+        "num": 149370,
+        "word": "成毅两京十五日开机上班路透",
+        "onboard_time": 1758942198,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143791,
+        "num": 143791,
+        "word": "问心2开机",
+        "onboard_time": 1758943340,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139033,
+        "num": 139033,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 126496,
+        "num": 126496,
+        "word": "电影731母婴实验",
+        "onboard_time": 1758946940,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189785,
+        "num": 125600,
+        "word": "邵兵回应邵子恒说不出自己作品",
+        "onboard_time": 1758942020,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167434,
+        "num": 124469,
+        "word": "王源魏大勋一起逛街了",
+        "onboard_time": 1758946640,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160573,
+        "num": 122799,
+        "word": "青岛女子在美国被丈夫杀害",
+        "onboard_time": 1758942800,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139199,
+        "num": 121776,
+        "word": "网传光明接管后的上海学生餐",
+        "onboard_time": 1758946520,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132121,
+        "num": 120459,
+        "word": "陈泽回应霸凌同学",
+        "onboard_time": 1758947360,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119992,
+        "num": 119992,
+        "word": "GEN无法选取T1当底座",
+        "onboard_time": 1758944299,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119525,
+        "num": 119525,
+        "word": "甘肃陇西地震",
+        "onboard_time": 1758928216,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 119375,
+        "num": 119375,
+        "word": "两京十五日",
+        "onboard_time": 1758944660,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19469,
+        "num": 116793,
+        "word": "丁禹兮和贝克汉姆二儿子自拍",
+        "onboard_time": 1758948079,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 67018,
+        "num": 116527,
+        "word": "一单位招50个事业编年薪60万起",
+        "onboard_time": 1758947840,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116305,
+        "num": 116305,
+        "word": "鞠婧祎闪光灯下表情管理",
+        "onboard_time": 1758947479,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58353,
+        "num": 111986,
+        "word": "7元买的月饼里有老鼠屎",
+        "onboard_time": 1758946880,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111338,
+        "num": 111338,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111266,
+        "num": 111266,
+        "word": "麦当劳矿泉水8块1瓶",
+        "onboard_time": 1758946040,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105435,
+        "num": 105435,
+        "word": "魔卡少女樱",
+        "onboard_time": 1758945200,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98915,
+        "num": 104791,
+        "word": "震耳欲聋预售票房登顶",
+        "onboard_time": 1758946760,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91048,
+        "num": 104273,
+        "word": "白鹿临走前给粉丝分巧克力",
+        "onboard_time": 1758946520,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104266,
+        "num": 104266,
+        "word": "赤发鬼一个镜头头发量有150万根",
+        "onboard_time": 1758941660,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99201,
+        "num": 99201,
+        "word": "佟丽娅儿子出发参加大湾区晚会",
+        "onboard_time": 1758939319,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98936,
+        "num": 98936,
+        "word": "何卓佳向王楚钦竖大拇指",
+        "onboard_time": 1758944239,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何一再强调石榴籽#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758947347438,
+  "endTime": 1758948114395,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -2275,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 629590,
+      "num": 207224,
+      "word": "Angelababy这个时候才17岁",
+      "onboard_time": 1758944660,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628772,
       "num": 450201,
       "word": "舒淇釜山电影节最佳导演",
@@ -3003,14 +3011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 500809,
-      "num": 181258,
-      "word": "Angelababy这个时候才17岁",
-      "onboard_time": 1758944660,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500559,
       "num": 485685,
       "word": "刘涛说关晓彤的腿是特效做的",
@@ -3457,6 +3457,14 @@
       "onboard_time": 1758414863,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430492,
+      "num": 430492,
+      "word": "小学教师转岗教高中",
+      "onboard_time": 1758945019,
+      "rank": 5,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 428516,
@@ -4259,6 +4267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 335705,
+      "num": 205337,
+      "word": "韩国男孩从6岁吐到15岁",
+      "onboard_time": 1758945200,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 335328,
       "num": 335328,
       "word": "广东潮州中午12时起复工复产",
@@ -4332,7 +4348,7 @@
     },
     {
       "raw_hot": 328842,
-      "num": 181074,
+      "num": 192559,
       "word": "女子做豆浆忘加水解锁醇香秘诀",
       "onboard_time": 1758939380,
       "rank": 22,
@@ -4553,6 +4569,14 @@
       "onboard_time": 1758601043,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 315638,
+      "num": 204434,
+      "word": "丁禹兮扛住了外媒镜头",
+      "onboard_time": 1758942439,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315520,
@@ -4801,14 +4825,6 @@
       "onboard_time": 1758875000,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 293750,
-      "num": 181072,
-      "word": "丁禹兮扛住了外媒镜头",
-      "onboard_time": 1758942439,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 291418,
@@ -5187,14 +5203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 273655,
-      "num": 273655,
-      "word": "小学教师转岗教高中",
-      "onboard_time": 1758945019,
-      "rank": 5,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 273330,
       "num": 231748,
       "word": "瘦了35斤后五官的变化",
@@ -5209,14 +5217,6 @@
       "onboard_time": 1758711440,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 272873,
-      "num": 180923,
-      "word": "韩国男孩从6岁吐到15岁",
-      "onboard_time": 1758945200,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 272356,
@@ -5649,6 +5649,14 @@
       "onboard_time": 1758865941,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 250933,
+      "num": 250933,
+      "word": "鹿晗包场支持刺杀小说家2",
+      "onboard_time": 1758945019,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 250291,
@@ -6395,6 +6403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216628,
+      "num": 203223,
+      "word": "张婧仪眉骨打伞",
+      "onboard_time": 1758947540,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216435,
       "num": 216435,
       "word": "董璇跟张维伊签婚前协议这段",
@@ -6515,6 +6531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213117,
+      "num": 213117,
+      "word": "迪丽热巴中秋奇妙游",
+      "onboard_time": 1758947180,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212997,
       "num": 317799,
       "word": "凉山警方通报2岁失踪女童死亡",
@@ -6595,6 +6619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211533,
+      "num": 211533,
+      "word": "张萌跟刘宇宁约戏",
+      "onboard_time": 1758946821,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211391,
       "num": 211391,
       "word": "雷军 陈年",
@@ -6617,6 +6649,14 @@
       "onboard_time": 1758718882,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210836,
+      "num": 193781,
+      "word": "关掉美颜大家化的妆都一样",
+      "onboard_time": 1758943820,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 210427,
@@ -7179,6 +7219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201269,
+      "num": 201269,
+      "word": "以闪亮之名",
+      "onboard_time": 1758946760,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201172,
       "num": 201172,
       "word": "榴莲月饼",
@@ -7369,14 +7417,6 @@
       "onboard_time": 1758547583,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197606,
-      "num": 197606,
-      "word": "迪丽热巴中秋奇妙游",
-      "onboard_time": 1758947180,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 197601,
@@ -7915,6 +7955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190927,
+      "num": 190927,
+      "word": "董璇张维伊婚礼照",
+      "onboard_time": 1758947660,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190821,
       "num": 190821,
       "word": "今年秋天千禧风又杀回来了",
@@ -8145,14 +8193,6 @@
       "onboard_time": 1758510081,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187866,
-      "num": 187866,
-      "word": "鹿晗包场支持刺杀小说家2",
-      "onboard_time": 1758945019,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 187823,
@@ -8705,14 +8745,6 @@
       "onboard_time": 1758795141,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180780,
-      "num": 180780,
-      "word": "张萌跟刘宇宁约戏",
-      "onboard_time": 1758946821,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 180736,
@@ -9347,14 +9379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172169,
-      "num": 172169,
-      "word": "以闪亮之名",
-      "onboard_time": 1758946760,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 172062,
       "num": 172062,
       "word": "李一桐G社镜头",
@@ -9369,14 +9393,6 @@
       "onboard_time": 1758378443,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 172047,
-      "num": 171013,
-      "word": "关掉美颜大家化的妆都一样",
-      "onboard_time": 1758943820,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 171970,
@@ -9689,6 +9705,14 @@
       "onboard_time": 1758774141,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167434,
+      "num": 149602,
+      "word": "王源魏大勋一起逛街了",
+      "onboard_time": 1758946640,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 167385,
@@ -10193,6 +10217,14 @@
       "onboard_time": 1758555860,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160573,
+      "num": 130136,
+      "word": "青岛女子在美国被丈夫杀害",
+      "onboard_time": 1758942800,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160409,
@@ -10705,6 +10737,14 @@
       "onboard_time": 1758796221,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155159,
+      "num": 155159,
+      "word": "重庆两地发现上百株冥界之花",
+      "onboard_time": 1758947423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155117,
@@ -11249,14 +11289,6 @@
       "onboard_time": 1758860002,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 149602,
-      "num": 149602,
-      "word": "王源魏大勋一起逛街了",
-      "onboard_time": 1758946640,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 149553,
@@ -12459,6 +12491,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 139199,
+      "num": 121776,
+      "word": "网传光明接管后的上海学生餐",
+      "onboard_time": 1758946520,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138919,
       "num": 162591,
       "word": "姚晨为崔丽丽发声",
@@ -13251,6 +13291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132121,
+      "num": 120459,
+      "word": "陈泽回应霸凌同学",
+      "onboard_time": 1758947360,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132005,
       "num": 132005,
       "word": "熬夜到什么程度会猝死",
@@ -13513,14 +13561,6 @@
       "onboard_time": 1758764841,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130136,
-      "num": 130136,
-      "word": "青岛女子在美国被丈夫杀害",
-      "onboard_time": 1758942800,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129928,
@@ -15243,6 +15283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116305,
+      "num": 116305,
+      "word": "鞠婧祎闪光灯下表情管理",
+      "onboard_time": 1758947479,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116268,
       "num": 116268,
       "word": "王楚钦牙别着凉了",
@@ -16353,6 +16401,14 @@
       "onboard_time": 1758616401,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105435,
+      "num": 105435,
+      "word": "魔卡少女樱",
+      "onboard_time": 1758945200,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 105337,
@@ -17483,6 +17539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92236,
+      "num": 194570,
+      "word": "向往的生活新增常驻嘉宾",
+      "onboard_time": 1758946040,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92089,
       "num": 164005,
       "word": "3乘8还是8乘3",
@@ -17569,6 +17633,14 @@
       "onboard_time": 1758412580,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91048,
+      "num": 104273,
+      "word": "白鹿临走前给粉丝分巧克力",
+      "onboard_time": 1758946520,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 91027,
@@ -18131,14 +18203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83882,
-      "num": 103364,
-      "word": "网传光明接管后的上海学生餐",
-      "onboard_time": 1758946520,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83855,
       "num": 124263,
       "word": "内娱最想进步的男艺人们",
@@ -18457,14 +18521,6 @@
       "onboard_time": 1758370882,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79082,
-      "num": 176597,
-      "word": "向往的生活新增常驻嘉宾",
-      "onboard_time": 1758946040,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 78947,
@@ -19019,6 +19075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67018,
+      "num": 116527,
+      "word": "一单位招50个事业编年薪60万起",
+      "onboard_time": 1758947840,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66977,
       "num": 430232,
       "word": "向渝检护未团队学习",
@@ -19172,7 +19236,7 @@
     },
     {
       "raw_hot": 63547,
-      "num": 104465,
+      "num": 111986,
       "word": "7元买的月饼里有老鼠屎",
       "onboard_time": 1758946880,
       "rank": 37,
@@ -19641,14 +19705,6 @@
       "onboard_time": 1758644241,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55871,
-      "num": 103091,
-      "word": "白鹿临走前给粉丝分巧克力",
-      "onboard_time": 1758946520,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 55862,
@@ -22177,6 +22233,14 @@
       "onboard_time": 1758736396,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19469,
+      "num": 116793,
+      "word": "丁禹兮和贝克汉姆二儿子自拍",
+      "onboard_time": 1758948079,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 19240,
