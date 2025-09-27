@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758965783242,
+  "endTime": 1758968631690,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -521,6 +521,14 @@
       "onboard_time": 1758711022,
       "rank": 3,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1369182,
+      "num": 168767,
+      "word": "张维伊把婚房订成了三人间",
+      "onboard_time": 1758965180,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1367432,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1758455661,
       "rank": 11,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 925361,
+      "num": 273318,
+      "word": "战至巅峰直播",
+      "onboard_time": 1758967820,
+      "rank": 3,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 925209,
@@ -2251,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 648929,
+      "num": 157215,
+      "word": "孙怡因染发导致脸肿",
+      "onboard_time": 1758965662,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648110,
       "num": 648110,
       "word": "广东发布紧急动员令",
@@ -2897,14 +2921,6 @@
       "onboard_time": 1758532763,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 536609,
-      "num": 163323,
-      "word": "张维伊把婚房订成了三人间",
-      "onboard_time": 1758965180,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 535517,
@@ -4377,6 +4393,14 @@
       "onboard_time": 1758857001,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 341323,
+      "num": 341323,
+      "word": "iG对战JDG",
+      "onboard_time": 1758964580,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 340124,
@@ -10019,14 +10043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166969,
-      "num": 177424,
-      "word": "iG对战JDG",
-      "onboard_time": 1758964580,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 166914,
       "num": 166914,
       "word": "明星网红撞到路人的反应",
@@ -10547,6 +10563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 160540,
+      "num": 130970,
+      "word": "董璇说结完婚该要孩子了吧",
+      "onboard_time": 1758966863,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160409,
       "num": 160409,
       "word": "00后表达爱的方式",
@@ -10753,6 +10777,14 @@
       "onboard_time": 1758410058,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158472,
+      "num": 158472,
+      "word": "别让百亿补贴补出白色污染",
+      "onboard_time": 1758953421,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158442,
@@ -12651,6 +12683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141034,
+      "num": 158230,
+      "word": "女子卖金镯发现里面被塞沙子",
+      "onboard_time": 1758966799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141018,
       "num": 141018,
       "word": "蕾哈娜官宣生女",
@@ -13955,6 +13995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130611,
+      "num": 109316,
+      "word": "脑梗的根本原因不是大鱼大肉",
+      "onboard_time": 1758967281,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130485,
       "num": 130485,
       "word": "当狗咖最后一个客人走后",
@@ -14193,6 +14241,14 @@
       "onboard_time": 1758532043,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128472,
+      "num": 128472,
+      "word": "丽江民宿房间发现摄像头",
+      "onboard_time": 1758964580,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128462,
@@ -14440,6 +14496,14 @@
       "word": "丁程鑫试驾累的是孟子义王星越",
       "onboard_time": 1758964761,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126935,
+      "num": 135130,
+      "word": "心动的信号第八季",
+      "onboard_time": 1758963921,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -14971,6 +15035,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122553,
+      "num": 133560,
+      "word": "李沁确定不是18岁么",
+      "onboard_time": 1758966981,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122493,
       "num": 232577,
       "word": "珠海部分高层住户被通知撤离",
@@ -15155,20 +15227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121593,
-      "num": 121593,
-      "word": "心动的信号第八季",
-      "onboard_time": 1758963921,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121492,
       "num": 121492,
       "word": "喜单团综",
       "onboard_time": 1758795141,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121489,
+      "num": 121489,
+      "word": "人民海军三航母时代",
+      "onboard_time": 1758965720,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121415,
@@ -16203,6 +16275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113027,
+      "num": 113027,
+      "word": "董璇张维伊 贵妃嫁给了太监总管",
+      "onboard_time": 1758965780,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113017,
       "num": 183190,
       "word": "罗振宇访一汽丰田解密合资新力量",
@@ -16281,6 +16361,14 @@
       "onboard_time": 1758518603,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112219,
+      "num": 112219,
+      "word": "官方通报烤肉店使用阴阳菜单",
+      "onboard_time": 1758967220,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 112207,
@@ -16393,6 +16481,14 @@
       "onboard_time": 1758854780,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111696,
+      "num": 121459,
+      "word": "鸡排哥 这是我唯一的老婆",
+      "onboard_time": 1758964761,
+      "rank": 38,
+      "category": "网红,网红"
     },
     {
       "raw_hot": 111633,
@@ -17227,6 +17323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103969,
+      "num": 103969,
+      "word": "一个严重降低好感的小细节",
+      "onboard_time": 1758966261,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103881,
       "num": 103881,
       "word": "穿始祖鸟是为亲近自然而非看它炸山",
@@ -17491,6 +17595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101016,
+      "num": 101016,
+      "word": "内娱选人天花板",
+      "onboard_time": 1758967160,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100928,
       "num": 100928,
       "word": "肖战吸管夹玩偶",
@@ -17593,6 +17705,14 @@
       "onboard_time": 1758729621,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99727,
+      "num": 99727,
+      "word": "我国新增K字签证",
+      "onboard_time": 1758965301,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99700,
@@ -17729,14 +17849,6 @@
       "onboard_time": 1758935841,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98310,
-      "num": 98310,
-      "word": "孙怡因染发导致脸肿",
-      "onboard_time": 1758965662,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 98283,
@@ -18027,6 +18139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95367,
+      "num": 95367,
+      "word": "技能五子棋",
+      "onboard_time": 1758968239,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95281,
       "num": 95281,
       "word": "秦雯是我的前半生编剧",
@@ -18315,6 +18435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91608,
+      "num": 91608,
+      "word": "女子撞破男友与前妻同居遭殴打",
+      "onboard_time": 1758968181,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91541,
       "num": 130948,
       "word": "坏了这次真让老外学到精髓了",
@@ -18561,6 +18689,14 @@
       "onboard_time": 1758417205,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89320,
+      "num": 94722,
+      "word": "五子棋像线面一样繁殖了",
+      "onboard_time": 1758968181,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 89306,
@@ -19019,6 +19155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82908,
+      "num": 82908,
+      "word": "钎城看好宋亚轩",
+      "onboard_time": 1758966560,
+      "rank": 44,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 82692,
       "num": 82692,
       "word": "刘慈欣谈科幻作家的集体AI焦虑",
@@ -19155,6 +19299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81350,
+      "num": 81350,
+      "word": "头等舱直接被挤成二等座了",
+      "onboard_time": 1758967820,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81286,
       "num": 81286,
       "word": "丁禹兮范思哲看秀造型",
@@ -19185,14 +19337,6 @@
       "onboard_time": 1758471260,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 80574,
-      "num": 119045,
-      "word": "丽江民宿房间发现摄像头",
-      "onboard_time": 1758964580,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80562,
@@ -19473,14 +19617,6 @@
       "onboard_time": 1758934399,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74920,
-      "num": 74920,
-      "word": "人民海军三航母时代",
-      "onboard_time": 1758965720,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 74739,
@@ -19984,14 +20120,6 @@
       "word": "采集辖区男性血样3个问题不能回避",
       "onboard_time": 1758688283,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65143,
-      "num": 74513,
-      "word": "别让百亿补贴补出白色污染",
-      "onboard_time": 1758953421,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -20521,6 +20649,14 @@
       "onboard_time": 1758723142,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56221,
+      "num": 81931,
+      "word": "iG今年打JDG没输过",
+      "onboard_time": 1758967160,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 56188,
@@ -21457,14 +21593,6 @@
       "onboard_time": 1758376883,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43532,
-      "num": 121459,
-      "word": "鸡排哥 这是我唯一的老婆",
-      "onboard_time": 1758964761,
-      "rank": 38,
-      "category": "网红,网红"
     },
     {
       "raw_hot": 43414,
@@ -22827,6 +22955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26449,
+      "num": 175317,
+      "word": "岚图新时代三旗舰同台首秀",
+      "onboard_time": 1758963801,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26418,
       "num": 32298,
       "word": "世卫组织回应特朗普给泰诺定罪",
@@ -22873,14 +23009,6 @@
       "onboard_time": 1758484933,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25557,
-      "num": 175317,
-      "word": "岚图新时代三旗舰同台首秀",
-      "onboard_time": 1758963801,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 25541,
@@ -23593,6 +23721,14 @@
       "onboard_time": 1758703221,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10873,
+      "num": 94698,
+      "word": "世界是个更大的疯人院",
+      "onboard_time": 1758968360,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 10749,

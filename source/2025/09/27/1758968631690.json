@@ -1,0 +1,410 @@
+{
+  "runTime": 1758968631690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 530633,
+        "num": 1084901,
+        "word": "员工请假1天照顾尿毒症母亲被辞退",
+        "onboard_time": 1758954980,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341323,
+        "num": 341323,
+        "word": "iG对战JDG",
+        "onboard_time": 1758964580,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20304,
+        "num": 275455,
+        "word": "还有4天国庆",
+        "onboard_time": 1758938539,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925361,
+        "num": 273318,
+        "word": "战至巅峰直播",
+        "onboard_time": 1758967820,
+        "rank": 3,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 262102,
+        "num": 262102,
+        "word": "欧洲多国告知俄准备击落俄军机",
+        "onboard_time": 1758958161,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456245,
+        "num": 242629,
+        "word": "战至巅峰",
+        "onboard_time": 1758959000,
+        "rank": 5,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 172978,
+        "num": 172978,
+        "word": "张子枫脚受伤",
+        "onboard_time": 1758961162,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1369182,
+        "num": 168767,
+        "word": "张维伊把婚房订成了三人间",
+        "onboard_time": 1758965180,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158472,
+        "num": 158472,
+        "word": "别让百亿补贴补出白色污染",
+        "onboard_time": 1758953421,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141034,
+        "num": 158230,
+        "word": "女子卖金镯发现里面被塞沙子",
+        "onboard_time": 1758966799,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1116782,
+        "num": 157590,
+        "word": "鞠婧祎 大雷",
+        "onboard_time": 1758960862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648929,
+        "num": 157215,
+        "word": "孙怡因染发导致脸肿",
+        "onboard_time": 1758965662,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517148,
+        "num": 156407,
+        "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
+        "onboard_time": 1758961162,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328784,
+        "num": 156072,
+        "word": "孟子义增肥了快十斤",
+        "onboard_time": 1758958580,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324527,
+        "num": 155744,
+        "word": "朵朵和陈思诚一模一样",
+        "onboard_time": 1758951560,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297348,
+        "num": 155289,
+        "word": "疑似英语老师退休后带孙日常",
+        "onboard_time": 1758960200,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243870,
+        "num": 154512,
+        "word": "奉劝大家少穿洞洞鞋和高跟鞋",
+        "onboard_time": 1758957620,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154269,
+        "num": 154269,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141203,
+        "num": 141203,
+        "word": "董璇想参加姐姐当家2记录生孩子",
+        "onboard_time": 1758958701,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126935,
+        "num": 135130,
+        "word": "心动的信号第八季",
+        "onboard_time": 1758963921,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235594,
+        "num": 134999,
+        "word": "椰子水到底谁在爱",
+        "onboard_time": 1758962001,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122553,
+        "num": 133560,
+        "word": "李沁确定不是18岁么",
+        "onboard_time": 1758966981,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132821,
+        "num": 132821,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160540,
+        "num": 130970,
+        "word": "董璇说结完婚该要孩子了吧",
+        "onboard_time": 1758966863,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128472,
+        "num": 128472,
+        "word": "丽江民宿房间发现摄像头",
+        "onboard_time": 1758964580,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124420,
+        "num": 124420,
+        "word": "敬战至巅峰并肩作战的我们",
+        "onboard_time": 1758955820,
+        "rank": 25,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 121489,
+        "num": 121489,
+        "word": "人民海军三航母时代",
+        "onboard_time": 1758965720,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113027,
+        "num": 113027,
+        "word": "董璇张维伊 贵妃嫁给了太监总管",
+        "onboard_time": 1758965780,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112219,
+        "num": 112219,
+        "word": "官方通报烤肉店使用阴阳菜单",
+        "onboard_time": 1758967220,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 111696,
+        "num": 111696,
+        "word": "鸡排哥 这是我唯一的老婆",
+        "onboard_time": 1758964761,
+        "rank": 29,
+        "category": "网红,网红"
+      },
+      {
+        "raw_hot": 130611,
+        "num": 109316,
+        "word": "脑梗的根本原因不是大鱼大肉",
+        "onboard_time": 1758967281,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103969,
+        "num": 103969,
+        "word": "一个严重降低好感的小细节",
+        "onboard_time": 1758966261,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101016,
+        "num": 101016,
+        "word": "内娱选人天花板",
+        "onboard_time": 1758967160,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99727,
+        "num": 99727,
+        "word": "我国新增K字签证",
+        "onboard_time": 1758965301,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98678,
+        "num": 98678,
+        "word": "这居然是陆柯燃",
+        "onboard_time": 1758955400,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96832,
+        "num": 96832,
+        "word": "一单位招50个事业编年薪60万起",
+        "onboard_time": 1758947840,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95367,
+        "num": 95367,
+        "word": "技能五子棋",
+        "onboard_time": 1758968239,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94906,
+        "num": 94906,
+        "word": "毕雯珺人气",
+        "onboard_time": 1758964101,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89320,
+        "num": 94722,
+        "word": "五子棋像线面一样繁殖了",
+        "onboard_time": 1758968181,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10873,
+        "num": 94698,
+        "word": "世界是个更大的疯人院",
+        "onboard_time": 1758968360,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94678,
+        "num": 94678,
+        "word": "龚俊 小沁陪我",
+        "onboard_time": 1758955519,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92087,
+        "num": 92087,
+        "word": "向往的生活新增常驻嘉宾",
+        "onboard_time": 1758946040,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91608,
+        "num": 91608,
+        "word": "女子撞破男友与前妻同居遭殴打",
+        "onboard_time": 1758968181,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84939,
+        "num": 84939,
+        "word": "丁程鑫试驾累的是孟子义王星越",
+        "onboard_time": 1758964761,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82908,
+        "num": 82908,
+        "word": "钎城看好宋亚轩",
+        "onboard_time": 1758966560,
+        "rank": 44,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 56221,
+        "num": 81931,
+        "word": "iG今年打JDG没输过",
+        "onboard_time": 1758967160,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26449,
+        "num": 81455,
+        "word": "岚图新时代三旗舰同台首秀",
+        "onboard_time": 1758963801,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 81350,
+        "num": 81350,
+        "word": "头等舱直接被挤成二等座了",
+        "onboard_time": 1758967820,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80894,
+        "num": 80894,
+        "word": "7个习惯不运动也能降体脂",
+        "onboard_time": 1758961640,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 79376,
+        "num": 79376,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中华民族共同体建设#"
+    }
+  }
+}
