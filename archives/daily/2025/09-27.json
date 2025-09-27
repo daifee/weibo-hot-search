@@ -1,7 +1,15 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758962503097,
+  "endTime": 1758964952604,
   "band_list": [
+    {
+      "raw_hot": 1808371,
+      "num": 290822,
+      "word": "鞠婧祎 大雷",
+      "onboard_time": 1758960862,
+      "rank": 5,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1619192,
       "num": 276099,
@@ -17,14 +25,6 @@
       "onboard_time": 1758931700,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1369685,
-      "num": 290822,
-      "word": "鞠婧祎 大雷",
-      "onboard_time": 1758960862,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1294053,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 754045,
+      "num": 196959,
+      "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
+      "onboard_time": 1758961162,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 747014,
       "num": 265181,
       "word": "张婧仪眉骨打伞",
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574622,
+      "num": 1091939,
+      "word": "员工请假1天照顾尿毒症母亲被辞退",
+      "onboard_time": 1758954980,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 572149,
       "num": 215050,
       "word": "佟丽娅儿子出发参加大湾区晚会",
@@ -171,12 +187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535517,
+      "num": 176900,
+      "word": "疑似英语老师退休后带孙日常",
+      "onboard_time": 1758960200,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 530801,
       "num": 236942,
       "word": "鞠婧祎G社生图",
       "onboard_time": 1758935060,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 520924,
+      "num": 295017,
+      "word": "战至巅峰",
+      "onboard_time": 1758900203,
+      "rank": 35,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 494496,
@@ -243,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421052,
+      "num": 1059326,
+      "word": "欧洲多国告知俄准备击落俄军机",
+      "onboard_time": 1758958161,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 404069,
       "num": 404069,
       "word": "张杰谢娜结婚周年照",
@@ -281,14 +321,6 @@
       "onboard_time": 1758947660,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 370791,
-      "num": 1059326,
-      "word": "欧洲多国告知俄准备击落俄军机",
-      "onboard_time": 1758958161,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 364107,
@@ -337,14 +369,6 @@
       "onboard_time": 1758945200,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 329807,
-      "num": 329807,
-      "word": "员工请假1天照顾尿毒症母亲被辞退",
-      "onboard_time": 1758954980,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 328842,
@@ -427,14 +451,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 289015,
-      "num": 289015,
-      "word": "战至巅峰",
-      "onboard_time": 1758900203,
-      "rank": 35,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 285506,
       "num": 225881,
       "word": "男女相恋6年分手后变成室友",
@@ -491,6 +507,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 263148,
+      "num": 174966,
+      "word": "椰子水到底谁在爱",
+      "onboard_time": 1758962001,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 262606,
       "num": 202768,
       "word": "邵兵回应邵子恒说不出自己作品",
@@ -531,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249280,
+      "num": 194104,
+      "word": "张子枫脚受伤",
+      "onboard_time": 1758961162,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249206,
       "num": 249206,
       "word": "彭昱畅 我哥哥彭于晏",
@@ -561,14 +593,6 @@
       "onboard_time": 1758899663,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 223542,
-      "num": 131207,
-      "word": "疑似英语老师退休后带孙日常",
-      "onboard_time": 1758960200,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 218389,
@@ -651,28 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196959,
-      "num": 196959,
-      "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
-      "onboard_time": 1758961162,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193643,
       "num": 193643,
       "word": "剧本都写不出王琳莫斯科这幕",
       "onboard_time": 1758956599,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191679,
-      "num": 191679,
-      "word": "张子枫脚受伤",
-      "onboard_time": 1758961162,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 190223,
@@ -923,6 +931,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 148705,
+      "num": 148705,
+      "word": "李沁被花少放大了小女孩的一面",
+      "onboard_time": 1758963560,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148613,
       "num": 148613,
       "word": "中国科学家或收到平行宇宙诡异信号",
@@ -969,6 +985,14 @@
       "onboard_time": 1758952100,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144439,
+      "num": 144439,
+      "word": "吴邪私家笔记西沙主人是汪藏海",
+      "onboard_time": 1758964161,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 142215,
@@ -1059,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136516,
+      "num": 136516,
+      "word": "张维伊亲戚婚礼前临时加人",
+      "onboard_time": 1758963080,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135897,
       "num": 190695,
       "word": "内娱终于又拍真实谍战了",
@@ -1081,6 +1113,22 @@
       "onboard_time": 1758880102,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133272,
+      "num": 133272,
+      "word": "烤肉店老板跑路员工被迫升级当老板",
+      "onboard_time": 1758959841,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133240,
+      "num": 177424,
+      "word": "iG对战JDG",
+      "onboard_time": 1758964580,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 132121,
@@ -1107,6 +1155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 130616,
+      "num": 128335,
+      "word": "刘浩存素颜状态",
+      "onboard_time": 1758962180,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130424,
       "num": 130424,
       "word": "陈伟霆许我耀眼造型",
@@ -1121,6 +1177,22 @@
       "onboard_time": 1758937640,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128916,
+      "num": 128916,
+      "word": "LCK",
+      "onboard_time": 1758963861,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 127441,
+      "num": 127441,
+      "word": "毕雯珺人气",
+      "onboard_time": 1758964101,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 127226,
@@ -1187,12 +1259,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122387,
+      "num": 122387,
+      "word": "父亲已经两年不和我说话了",
+      "onboard_time": 1758961581,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121989,
+      "num": 121989,
+      "word": "谁教张一山这么演戏的",
+      "onboard_time": 1758963801,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121748,
       "num": 121748,
       "word": "两京十五日",
       "onboard_time": 1758944660,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121593,
+      "num": 121593,
+      "word": "心动的信号第八季",
+      "onboard_time": 1758963921,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 121194,
@@ -1209,14 +1305,6 @@
       "onboard_time": 1758948920,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120243,
-      "num": 131239,
-      "word": "烤肉店老板跑路员工被迫升级当老板",
-      "onboard_time": 1758959841,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119959,
@@ -1267,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113693,
+      "num": 113693,
+      "word": "7个习惯不运动也能降体脂",
+      "onboard_time": 1758961640,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 113650,
       "num": 113650,
       "word": "斯瓦泰克首盘送蛋",
@@ -1275,20 +1371,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113293,
+      "num": 113293,
+      "word": "小小的备注是他唯一能诉苦的地方",
+      "onboard_time": 1758961700,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112848,
+      "num": 112848,
+      "word": "李诞一句话就让酷滕原地认了错",
+      "onboard_time": 1758964462,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112510,
       "num": 97826,
       "word": "辛芷蕾这一身王菲来了都得愣两秒",
       "onboard_time": 1758878900,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110308,
-      "num": 110308,
-      "word": "7个习惯不运动也能降体脂",
-      "onboard_time": 1758961640,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 109252,
@@ -1305,6 +1409,14 @@
       "onboard_time": 1758950661,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109116,
+      "num": 109116,
+      "word": "丁程鑫试驾累的是孟子义王星越",
+      "onboard_time": 1758964761,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 108646,
@@ -1324,11 +1436,27 @@
     },
     {
       "raw_hot": 107393,
-      "num": 107393,
+      "num": 306592,
       "word": "还有4天国庆",
       "onboard_time": 1758938539,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107357,
+      "num": 107357,
+      "word": "当你忘记已经到了30岁",
+      "onboard_time": 1758964400,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 107310,
+      "num": 116340,
+      "word": "短国病娇三世追妻强制爱",
+      "onboard_time": 1758963620,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 107201,
@@ -1523,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94550,
-      "num": 94550,
-      "word": "椰子水到底谁在爱",
-      "onboard_time": 1758962001,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 94368,
       "num": 94368,
       "word": "11万伤眼作业本被召回",
@@ -1603,28 +1723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91005,
-      "num": 91005,
-      "word": "父亲已经两年不和我说话了",
-      "onboard_time": 1758961581,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91003,
       "num": 91003,
       "word": "甘肃陇西5.6级地震有房屋倒塌",
       "onboard_time": 1758930799,
       "rank": 36,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 90958,
-      "num": 90958,
-      "word": "小小的备注是他唯一能诉苦的地方",
-      "onboard_time": 1758961700,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 90636,
@@ -1787,6 +1891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78565,
+      "num": 193001,
+      "word": "多地小学老师被调去教初中",
+      "onboard_time": 1758962241,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78218,
       "num": 78218,
       "word": "现货黄金一路猛涨",
@@ -1833,14 +1945,6 @@
       "onboard_time": 1758953119,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 73225,
-      "num": 99900,
-      "word": "刘浩存素颜状态",
-      "onboard_time": 1758962180,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 73027,
@@ -1896,6 +2000,14 @@
       "word": "媒体评男子曝妻子出轨博士",
       "onboard_time": 1758908057,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66058,
+      "num": 114501,
+      "word": "未婚女孩查征信竟发现自己被结婚",
+      "onboard_time": 1758963620,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2027,19 +2139,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 52597,
-      "num": 193001,
-      "word": "多地小学老师被调去教初中",
-      "onboard_time": 1758962241,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52131,
       "num": 99924,
       "word": "中专生暑假校内劳动猝死",
       "onboard_time": 1758962361,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52061,
+      "num": 119045,
+      "word": "丽江民宿房间发现摄像头",
+      "onboard_time": 1758964580,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2137,6 +2249,14 @@
       "onboard_time": 1758902362,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43035,
+      "num": 175111,
+      "word": "范思哲新风格",
+      "onboard_time": 1758963801,
+      "rank": 19,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 40995,
@@ -2291,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25557,
+      "num": 175317,
+      "word": "岚图新时代三旗舰同台首秀",
+      "onboard_time": 1758963801,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 24635,
       "num": 69081,
       "word": "官方回应女院长在老人面前热舞",
@@ -2305,6 +2433,14 @@
       "onboard_time": 1758952941,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24067,
+      "num": 121459,
+      "word": "鸡排哥 这是我唯一的老婆",
+      "onboard_time": 1758964761,
+      "rank": 38,
+      "category": "网红,网红"
     },
     {
       "raw_hot": 23651,
@@ -2329,6 +2465,14 @@
       "onboard_time": 1758912255,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20048,
+      "num": 176247,
+      "word": "篮球盛典盲盒即将开启",
+      "onboard_time": 1758963741,
+      "rank": 14,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 19469,

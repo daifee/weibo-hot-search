@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 16:41:43
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 17:22:32
 </p>
 </blockquote>
 <p>
@@ -1149,6 +1149,12 @@ iPhone17（热度：2244479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%A4%A7%E9%9B%B7%23" target="weibo">
+鞠婧祎 大雷（热度：1808371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E7%A7%B0%E7%9B%AE%E5%89%8D%E5%8D%95%E8%BA%AB%23" target="weibo">
 乃万称目前单身（热度：1805952）
 </a>
@@ -2021,12 +2027,6 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3vs%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2%23" target="weibo">
 长期吃米vs长期吃面（热度：1370121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%A4%A7%E9%9B%B7%23" target="weibo">
-鞠婧祎 大雷（热度：1369685）
 </a>
 </li>
 
@@ -5397,6 +5397,12 @@ iPhone17Promini首曝（热度：777010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E5%9C%A8%E9%85%92%E5%BA%97%E9%81%AD%E7%94%B7%E5%AD%90%E5%88%B7%E5%8D%A1%E8%BF%9B%E6%88%BF%E7%8C%A5%E4%BA%B5%23" target="weibo">
+女子凌晨在酒店遭男子刷卡进房猥亵（热度：754045）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%20%E7%BD%97%E6%B0%B8%E6%B5%A9%23" target="weibo">
 西贝 罗永浩（热度：753063）
 </a>
@@ -6005,12 +6011,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E9%A3%98%E9%A3%98%E5%A5%B6%E8%8C%B6%E6%9A%82%E5%81%9C%E7%BB%95%E5%9C%B0%E7%90%83%23" target="weibo">
 香飘飘奶茶暂停绕地球（热度：702390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E7%90%A6%E9%9A%8F%E8%BA%AB%E5%B8%A6%E8%A1%80%E7%B3%96%E6%A3%80%E6%B5%8B%E4%BB%AA%23" target="weibo">
-李嘉琦随身带血糖检测仪（热度：702327）
 </a>
 </li>
 

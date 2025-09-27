@@ -1,0 +1,410 @@
+{
+  "runTime": 1758964952604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 574622,
+        "num": 1091939,
+        "word": "员工请假1天照顾尿毒症母亲被辞退",
+        "onboard_time": 1758954980,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421052,
+        "num": 421052,
+        "word": "欧洲多国告知俄准备击落俄军机",
+        "onboard_time": 1758958161,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25623,
+        "num": 306592,
+        "word": "还有4天国庆",
+        "onboard_time": 1758938539,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520924,
+        "num": 295017,
+        "word": "战至巅峰",
+        "onboard_time": 1758959000,
+        "rank": 3,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 207997,
+        "num": 207997,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1808371,
+        "num": 199799,
+        "word": "鞠婧祎 大雷",
+        "onboard_time": 1758960862,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249280,
+        "num": 194104,
+        "word": "张子枫脚受伤",
+        "onboard_time": 1758961162,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177807,
+        "num": 177807,
+        "word": "战至巅峰4赛前快闪直播",
+        "onboard_time": 1758958280,
+        "rank": 7,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 133892,
+        "num": 177606,
+        "word": "一单位招50个事业编年薪60万起",
+        "onboard_time": 1758947840,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133240,
+        "num": 177424,
+        "word": "iG对战JDG",
+        "onboard_time": 1758964580,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 754045,
+        "num": 177136,
+        "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
+        "onboard_time": 1758961162,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535517,
+        "num": 176900,
+        "word": "疑似英语老师退休后带孙日常",
+        "onboard_time": 1758960200,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453962,
+        "num": 176784,
+        "word": "朵朵和陈思诚一模一样",
+        "onboard_time": 1758951560,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441474,
+        "num": 176513,
+        "word": "孟子义增肥了快十斤",
+        "onboard_time": 1758958580,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20048,
+        "num": 176247,
+        "word": "篮球盛典盲盒即将开启",
+        "onboard_time": 1758963741,
+        "rank": 14,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 432479,
+        "num": 176091,
+        "word": "奉劝大家少穿洞洞鞋和高跟鞋",
+        "onboard_time": 1758957620,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376913,
+        "num": 175964,
+        "word": "董璇想参加姐姐当家2记录生孩子",
+        "onboard_time": 1758958701,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241648,
+        "num": 175606,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25557,
+        "num": 175317,
+        "word": "岚图新时代三旗舰同台首秀",
+        "onboard_time": 1758963801,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43035,
+        "num": 175111,
+        "word": "范思哲新风格",
+        "onboard_time": 1758963801,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 175047,
+        "num": 175047,
+        "word": "这居然是陆柯燃",
+        "onboard_time": 1758955400,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263148,
+        "num": 174966,
+        "word": "椰子水到底谁在爱",
+        "onboard_time": 1758962001,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 260913,
+        "num": 163017,
+        "word": "小酒窝给张维伊董璇当花童",
+        "onboard_time": 1758954980,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226947,
+        "num": 159144,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222598,
+        "num": 152914,
+        "word": "龚俊 小沁陪我",
+        "onboard_time": 1758955519,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148705,
+        "num": 148705,
+        "word": "李沁被花少放大了小女孩的一面",
+        "onboard_time": 1758963560,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144439,
+        "num": 144439,
+        "word": "吴邪私家笔记西沙主人是汪藏海",
+        "onboard_time": 1758964161,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140469,
+        "num": 140469,
+        "word": "敬战至巅峰并肩作战的我们",
+        "onboard_time": 1758955820,
+        "rank": 27,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 136516,
+        "num": 136516,
+        "word": "张维伊亲戚婚礼前临时加人",
+        "onboard_time": 1758963080,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133272,
+        "num": 133272,
+        "word": "烤肉店老板跑路员工被迫升级当老板",
+        "onboard_time": 1758959841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128916,
+        "num": 128916,
+        "word": "LCK",
+        "onboard_time": 1758963861,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130616,
+        "num": 128335,
+        "word": "刘浩存素颜状态",
+        "onboard_time": 1758962180,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127441,
+        "num": 127441,
+        "word": "毕雯珺人气",
+        "onboard_time": 1758964101,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125852,
+        "num": 125852,
+        "word": "向往的生活新增常驻嘉宾",
+        "onboard_time": 1758946040,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124970,
+        "num": 124970,
+        "word": "谢娜没想到一个节目愿意只拍她回家",
+        "onboard_time": 1758952100,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122387,
+        "num": 122387,
+        "word": "父亲已经两年不和我说话了",
+        "onboard_time": 1758961581,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121989,
+        "num": 121989,
+        "word": "谁教张一山这么演戏的",
+        "onboard_time": 1758963801,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121593,
+        "num": 121593,
+        "word": "心动的信号第八季",
+        "onboard_time": 1758963921,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24067,
+        "num": 121459,
+        "word": "鸡排哥 这是我唯一的老婆",
+        "onboard_time": 1758964761,
+        "rank": 38,
+        "category": "网红,网红"
+      },
+      {
+        "raw_hot": 52061,
+        "num": 119045,
+        "word": "丽江民宿房间发现摄像头",
+        "onboard_time": 1758964580,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107310,
+        "num": 116340,
+        "word": "短国病娇三世追妻强制爱",
+        "onboard_time": 1758963620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66058,
+        "num": 114501,
+        "word": "未婚女孩查征信竟发现自己被结婚",
+        "onboard_time": 1758963620,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113693,
+        "num": 113693,
+        "word": "7个习惯不运动也能降体脂",
+        "onboard_time": 1758961640,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113293,
+        "num": 113293,
+        "word": "小小的备注是他唯一能诉苦的地方",
+        "onboard_time": 1758961700,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112848,
+        "num": 112848,
+        "word": "李诞一句话就让酷滕原地认了错",
+        "onboard_time": 1758964462,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109116,
+        "num": 109116,
+        "word": "丁程鑫试驾累的是孟子义王星越",
+        "onboard_time": 1758964761,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108257,
+        "num": 108257,
+        "word": "霉霉被拍到参加赛琳娜婚礼",
+        "onboard_time": 1758960801,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107357,
+        "num": 107357,
+        "word": "当你忘记已经到了30岁",
+        "onboard_time": 1758964400,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89627,
+        "num": 89627,
+        "word": "小酒窝 我广告一下",
+        "onboard_time": 1758956781,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78565,
+        "num": 89003,
+        "word": "多地小学老师被调去教初中",
+        "onboard_time": 1758962241,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中华民族共同体建设#"
+    }
+  }
+}
