@@ -1,0 +1,410 @@
+{
+  "runTime": 1758977051166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1213529,
+        "num": 1213529,
+        "word": "iG对战JDG",
+        "onboard_time": 1758964580,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1030697,
+        "num": 1030697,
+        "word": "连续吃6个月水煮菜胰腺坏死了",
+        "onboard_time": 1758972019,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23130,
+        "num": 695309,
+        "word": "还有4天国庆",
+        "onboard_time": 1758938539,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649316,
+        "num": 649316,
+        "word": "黄明昊 遇到不公平的事情",
+        "onboard_time": 1758975560,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640709,
+        "num": 640709,
+        "word": "iG战胜JDG",
+        "onboard_time": 1758976881,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 780821,
+        "num": 581962,
+        "word": "爬泰山失联28岁男子已遇难",
+        "onboard_time": 1758968961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668793,
+        "num": 572370,
+        "word": "公司反手取消14天年假",
+        "onboard_time": 1758968780,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852680,
+        "num": 554462,
+        "word": "鹿晗新加坡",
+        "onboard_time": 1758974001,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 513622,
+        "num": 513622,
+        "word": "战至巅峰直播",
+        "onboard_time": 1758967820,
+        "rank": 8,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 504244,
+        "num": 504244,
+        "word": "小酒窝和朵朵一起接受央视采访",
+        "onboard_time": 1758973701,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502294,
+        "num": 502294,
+        "word": "做一次CT对身体的伤害有多大",
+        "onboard_time": 1758971661,
+        "rank": 10,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 390697,
+        "num": 390697,
+        "word": "月子公司称给婴儿勺子喂奶正常",
+        "onboard_time": 1758969439,
+        "rank": 11,
+        "category": "舆论监督,母婴育儿"
+      },
+      {
+        "raw_hot": 324028,
+        "num": 324028,
+        "word": "战至巅峰",
+        "onboard_time": 1758959000,
+        "rank": 12,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 215097,
+        "num": 215097,
+        "word": "孟子义增肥了快十斤",
+        "onboard_time": 1758958580,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209354,
+        "num": 209354,
+        "word": "女子卖金镯发现里面被塞沙子",
+        "onboard_time": 1758966799,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188932,
+        "num": 188932,
+        "word": "刘耀文看到05天才对抗路害羞了",
+        "onboard_time": 1758973101,
+        "rank": 15,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 184635,
+        "num": 184635,
+        "word": "别让百亿补贴补出白色污染",
+        "onboard_time": 1758953421,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176655,
+        "num": 176655,
+        "word": "李沁确定不是18岁么",
+        "onboard_time": 1758966981,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172909,
+        "num": 172909,
+        "word": "LPL",
+        "onboard_time": 1758975142,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190692,
+        "num": 172905,
+        "word": "张凌赫请粉丝吃了一天饭",
+        "onboard_time": 1758969141,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824067,
+        "num": 172850,
+        "word": "张维伊把婚房订成了三人间",
+        "onboard_time": 1758965180,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660676,
+        "num": 172755,
+        "word": "鞠婧祎 大雷",
+        "onboard_time": 1758960862,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172543,
+        "num": 172543,
+        "word": "郑钦文vs阿朗戈",
+        "onboard_time": 1758969260,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514124,
+        "num": 172207,
+        "word": "董璇说结完婚该要孩子了吧",
+        "onboard_time": 1758966863,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331318,
+        "num": 171409,
+        "word": "酒店内遭猥亵女子称男友已提退婚",
+        "onboard_time": 1758973221,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325833,
+        "num": 169814,
+        "word": "孙怡因染发导致脸肿",
+        "onboard_time": 1758965662,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184536,
+        "num": 168520,
+        "word": "王安宇大大方方的回应",
+        "onboard_time": 1758971541,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168447,
+        "num": 168447,
+        "word": "汪藏海的海猴子出现了",
+        "onboard_time": 1758975262,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68873,
+        "num": 168382,
+        "word": "油车上驾驶辅助有多难",
+        "onboard_time": 1758975321,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148745,
+        "num": 168371,
+        "word": "张柏芝给我干哪年来了",
+        "onboard_time": 1758975201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25393,
+        "num": 168236,
+        "word": "一种很新的国庆穿搭特种兵",
+        "onboard_time": 1758973582,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 202562,
+        "num": 168217,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1758969739,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180193,
+        "num": 168128,
+        "word": "xun 原来你也不会",
+        "onboard_time": 1758975321,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171512,
+        "num": 168084,
+        "word": "TheShy失误",
+        "onboard_time": 1758976642,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168012,
+        "num": 168012,
+        "word": "哥嫂欠178万未还清嫂子杀死小叔",
+        "onboard_time": 1758974961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152924,
+        "num": 152924,
+        "word": "苏超",
+        "onboard_time": 1758969739,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144313,
+        "num": 144313,
+        "word": "朵朵和陈思诚一模一样",
+        "onboard_time": 1758951560,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37169,
+        "num": 133050,
+        "word": "至境L7MomentaR6首发上路",
+        "onboard_time": 1758972501,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132723,
+        "num": 132723,
+        "word": "奉劝大家少穿洞洞鞋和高跟鞋",
+        "onboard_time": 1758957620,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131834,
+        "num": 131834,
+        "word": "灼灼韶华",
+        "onboard_time": 1758971181,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127650,
+        "num": 127650,
+        "word": "多胎家庭小孩姐半夜带娃",
+        "onboard_time": 1758976282,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127552,
+        "num": 127552,
+        "word": "请假3天连休12天",
+        "onboard_time": 1758976401,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123425,
+        "num": 123425,
+        "word": "GALA是iG的救世主",
+        "onboard_time": 1758971600,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122337,
+        "num": 122337,
+        "word": "朱一龙想为妹妹李晓擦泪",
+        "onboard_time": 1758971841,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121533,
+        "num": 121533,
+        "word": "照镜辞",
+        "onboard_time": 1758976102,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119085,
+        "num": 119085,
+        "word": "椰子水到底谁在爱",
+        "onboard_time": 1758962001,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118737,
+        "num": 118737,
+        "word": "终于明白为什么菠萝带螺纹了",
+        "onboard_time": 1758976102,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108178,
+        "num": 108178,
+        "word": "当事人回应扶摔倒老人被讹3万",
+        "onboard_time": 1758977004,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107851,
+        "num": 107851,
+        "word": "郑钦文复出第一分就是Ace",
+        "onboard_time": 1758975740,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105299,
+        "num": 105299,
+        "word": "鹿晗新加坡场吃太好了",
+        "onboard_time": 1758977004,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中华民族共同体建设#"
+    }
+  }
+}

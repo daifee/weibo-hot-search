@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 19:36:32
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 20:44:11
 </p>
 </blockquote>
 <p>
@@ -2493,6 +2493,12 @@ VOGUE金九单人封面（热度：1230035）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98JDG%23" target="weibo">
+iG对战JDG（热度：1213529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%9B%9E%E5%A4%8D%23" target="weibo">
 张婧仪回复（热度：1212449）
 </a>
@@ -3233,6 +3239,12 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%B3%E5%9B%9E%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E4%B8%8A%E8%AF%89%23" target="weibo">
 驳回武大图书馆事件女生上诉（热度：1030782）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E5%90%836%E4%B8%AA%E6%9C%88%E6%B0%B4%E7%85%AE%E8%8F%9C%E8%83%B0%E8%85%BA%E5%9D%8F%E6%AD%BB%E4%BA%86%23" target="weibo">
+连续吃6个月水煮菜胰腺坏死了（热度：1030697）
 </a>
 </li>
 
@@ -4445,6 +4457,12 @@ WTT抽签（热度：866782）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A7%B0%E5%8F%91%E7%8E%B0%E4%BA%A1%E5%A6%BB%E5%AD%98%E6%8A%98%E8%B5%B7%E8%AF%89%E9%93%B6%E8%A1%8C%E7%B4%A2%E8%A6%8160%E4%B8%87%23" target="weibo">
 老人称发现亡妻存折起诉银行索要60万（热度：854516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%8A%A0%E5%9D%A1%23" target="weibo">
+鹿晗新加坡（热度：852680）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%BC%80%E5%B1%8F%23" target="weibo">
 贾玲开屏（热度：705927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%B6%E7%89%87%E4%BA%BA%E7%A7%B0%E8%AE%B8%E5%87%AF%E4%B8%8B%E4%B8%80%E9%83%A8%E7%94%B7%E4%B8%BB%E8%A2%AB%E6%8D%A2%23" target="weibo">
-制片人称许凯下一部男主被换（热度：705861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BA%BA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E9%83%BD%E4%B8%8D%E4%B9%B0%E7%9A%84%E8%8F%9C%23" target="weibo">
-广州人台风天都不买的菜（热度：704621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E4%BD%A0%E8%BF%98%E8%83%BD%E5%8E%9F%E8%B0%85%E6%88%91%E5%90%97%23" target="weibo">
-辛芷蕾 你还能原谅我吗（热度：703522）
 </a>
 </li>
 
