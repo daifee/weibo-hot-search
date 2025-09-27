@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 23:36:49
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 00:27:59
 </p>
 </blockquote>
 <p>
@@ -1563,6 +1563,12 @@ iOS26 丑（热度：1601159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2SDG%E5%A4%BA%E5%86%A0%23" target="weibo">
+时代少年团SDG夺冠（热度：1593863）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B%23" target="weibo">
 孙颖莎冠军（热度：1591178）
 </a>
@@ -2039,6 +2045,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3vs%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2%23" target="weibo">
 长期吃米vs长期吃面（热度：1370121）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%B6%E5%AD%90%E8%A7%A3%E8%AF%B4%23" target="weibo">
+瓶子解说（热度：1368593）
 </a>
 </li>
 
@@ -3359,12 +3371,6 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23" target="weibo">
 深圳天气（热度：1017081）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2SDG%E5%A4%BA%E5%86%A0%23" target="weibo">
-时代少年团SDG夺冠（热度：1016526）
 </a>
 </li>
 
@@ -5225,12 +5231,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C10%E5%B9%B41%E5%85%83%E5%B9%B4%E8%96%AA%E7%BA%A6%E5%AE%9A%E5%88%B0%E6%9C%9F%23" target="weibo">
 刘强东10年1元年薪约定到期（热度：782586）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%93%B6%E5%AD%90%E8%A7%A3%E8%AF%B4%23" target="weibo">
-瓶子解说（热度：782480）
 </a>
 </li>
 
