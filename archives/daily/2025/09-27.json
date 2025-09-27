@@ -1,10 +1,10 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758937522250,
+  "endTime": 1758938473284,
   "band_list": [
     {
-      "raw_hot": 1280831,
-      "num": 1280831,
+      "raw_hot": 1597497,
+      "num": 1597497,
       "word": "警车在山姆购物确认为公车私用",
       "onboard_time": 1758931700,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 999401,
+      "num": 999401,
+      "word": "西贝回应一碗汤换顾客北京一套房",
+      "onboard_time": 1758929659,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 838830,
       "num": 345566,
       "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
@@ -40,14 +48,6 @@
       "word": "男子胸前贴强奸犯被当街示众",
       "onboard_time": 1758898883,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744539,
-      "num": 744539,
-      "word": "西贝回应一碗汤换顾客北京一套房",
-      "onboard_time": 1758929659,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -107,8 +107,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 363650,
-      "num": 363650,
+      "raw_hot": 395905,
+      "num": 236942,
+      "word": "鞠婧祎G社生图",
+      "onboard_time": 1758935060,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 393515,
+      "num": 393515,
       "word": "李鸿其王紫璇牵手走红毯",
       "onboard_time": 1758934159,
       "rank": 6,
@@ -121,14 +129,6 @@
       "onboard_time": 1758896004,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 350962,
-      "num": 190161,
-      "word": "鞠婧祎G社生图",
-      "onboard_time": 1758935060,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 327833,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289834,
+      "num": 234392,
+      "word": "张召忠有新身份",
+      "onboard_time": 1758933140,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 281453,
       "num": 281453,
       "word": "肖战湾区升明月唱整晚的音乐",
@@ -171,8 +179,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277846,
+      "num": 232473,
+      "word": "卢昱晓生日照",
+      "onboard_time": 1758936800,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273330,
-      "num": 180735,
+      "num": 231748,
       "word": "瘦了35斤后五官的变化",
       "onboard_time": 1758929117,
       "rank": 21,
@@ -187,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258779,
-      "num": 173034,
-      "word": "张召忠有新身份",
-      "onboard_time": 1758933140,
-      "rank": 14,
-      "category": "军事"
-    },
-    {
       "raw_hot": 249206,
       "num": 249206,
       "word": "彭昱畅 我哥哥彭于晏",
       "onboard_time": 1758930619,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239727,
+      "num": 239727,
+      "word": "韩三星财团CJ会长找主播去秘密派对",
+      "onboard_time": 1758932900,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 224265,
@@ -219,16 +235,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193478,
-      "num": 119999,
-      "word": "卢昱晓生日照",
-      "onboard_time": 1758936800,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 206509,
+      "num": 206509,
+      "word": "马斯克出现在爱泼斯坦案文件中",
+      "onboard_time": 1758930619,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193993,
+      "num": 193993,
+      "word": "陇西地震亲历者称像有人使劲摇床",
+      "onboard_time": 1758937640,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190223,
-      "num": 190223,
+      "num": 197870,
       "word": "陇西地震一人受伤已送医",
       "onboard_time": 1758936200,
       "rank": 11,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 158442,
-      "num": 153268,
+      "num": 157711,
       "word": "建议在午睡前喝咖啡",
       "onboard_time": 1758930439,
       "rank": 21,
@@ -313,6 +337,14 @@
       "onboard_time": 1758894384,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 146906,
+      "num": 146906,
+      "word": "内塔尼亚胡要求与会者扫码",
+      "onboard_time": 1758935662,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146306,
@@ -363,12 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127057,
-      "num": 127057,
-      "word": "韩三星财团CJ会长找主播去秘密派对",
-      "onboard_time": 1758932900,
-      "rank": 27,
-      "category": "海外新闻"
+      "raw_hot": 129082,
+      "num": 129082,
+      "word": "再听17年前那句我已出舱感觉良好",
+      "onboard_time": 1758937640,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119959,
@@ -395,20 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109865,
-      "num": 109865,
-      "word": "内塔尼亚胡要求与会者扫码",
-      "onboard_time": 1758935662,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 100669,
-      "num": 100669,
-      "word": "马斯克出现在爱泼斯坦案文件中",
-      "onboard_time": 1758930619,
-      "rank": 34,
-      "category": "海外新闻"
+      "raw_hot": 107201,
+      "num": 107201,
+      "word": "中国人首次太空漫步17周年",
+      "onboard_time": 1758937640,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98923,
@@ -433,6 +457,14 @@
       "onboard_time": 1758929238,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98315,
+      "num": 98315,
+      "word": "王暖暖回应俞某冬出庭态度",
+      "onboard_time": 1758935841,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97766,
@@ -515,6 +547,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 89154,
+      "num": 89154,
+      "word": "内塔尼亚胡联大演讲台下快走空了",
+      "onboard_time": 1758937939,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89071,
       "num": 89071,
       "word": "资产上亿女老板疑被骗泰国最新进展",
@@ -531,11 +571,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86693,
-      "num": 86693,
-      "word": "王暖暖回应俞某冬出庭态度",
-      "onboard_time": 1758935841,
-      "rank": 38,
+      "raw_hot": 85037,
+      "num": 85037,
+      "word": "内塔尼亚胡联合国大会上公然撒谎",
+      "onboard_time": 1758936200,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 84412,
+      "num": 84412,
+      "word": "国庆假期倒计时4天",
+      "onboard_time": 1758935598,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -545,6 +593,22 @@
       "onboard_time": 1758929299,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81286,
+      "num": 81286,
+      "word": "丁禹兮范思哲看秀造型",
+      "onboard_time": 1758930619,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80894,
+      "num": 80894,
+      "word": "白敬亭这个挡脸很加分",
+      "onboard_time": 1758938179,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 80562,
@@ -571,28 +635,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 77099,
-      "num": 77099,
-      "word": "丁禹兮范思哲看秀造型",
-      "onboard_time": 1758930619,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75953,
       "num": 86655,
       "word": "张婧仪骨相",
       "onboard_time": 1758888260,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75694,
-      "num": 78456,
-      "word": "内塔尼亚胡联合国大会上公然撒谎",
-      "onboard_time": 1758936200,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 75156,
@@ -619,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74299,
-      "num": 74299,
-      "word": "国庆假期倒计时4天",
-      "onboard_time": 1758935598,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73027,
       "num": 73027,
       "word": "iG全神班生死战",
@@ -641,6 +681,14 @@
       "onboard_time": 1758878481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71411,
+      "num": 71411,
+      "word": "原来聪明人都这样说话",
+      "onboard_time": 1758935841,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 71249,
@@ -932,7 +980,7 @@
     },
     {
       "raw_hot": 13509,
-      "num": 694624,
+      "num": 734280,
       "word": "国庆假期带特产上飞机要注意啥",
       "onboard_time": 1758871222,
       "rank": 2,

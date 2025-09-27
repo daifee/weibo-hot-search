@@ -1,0 +1,410 @@
+{
+  "runTime": 1758938473284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1597497,
+        "num": 1597497,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999401,
+        "num": 999401,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9735,
+        "num": 734280,
+        "word": "国庆假期带特产上飞机要注意啥",
+        "onboard_time": 1758871222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 664269,
+        "num": 664269,
+        "word": "男子胸前贴强奸犯被当街示众",
+        "onboard_time": 1758898883,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429568,
+        "num": 429568,
+        "word": "甘肃陇西地震",
+        "onboard_time": 1758928216,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 436854,
+        "num": 422443,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393515,
+        "num": 393515,
+        "word": "李鸿其王紫璇牵手走红毯",
+        "onboard_time": 1758934159,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300444,
+        "num": 300444,
+        "word": "向往的生活设定",
+        "onboard_time": 1758930619,
+        "rank": 7,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 240132,
+        "num": 240132,
+        "word": "22岁小伙摔倒被误认留守老人",
+        "onboard_time": 1758896604,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239727,
+        "num": 239727,
+        "word": "韩三星财团CJ会长找主播去秘密派对",
+        "onboard_time": 1758932900,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 516126,
+        "num": 238207,
+        "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+        "onboard_time": 1758896183,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 395905,
+        "num": 236942,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1758935060,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289834,
+        "num": 234392,
+        "word": "张召忠有新身份",
+        "onboard_time": 1758933140,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 277846,
+        "num": 232473,
+        "word": "卢昱晓生日照",
+        "onboard_time": 1758936800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231748,
+        "num": 231748,
+        "word": "瘦了35斤后五官的变化",
+        "onboard_time": 1758929117,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 220159,
+        "num": 220159,
+        "word": "向往的生活彩灯去世",
+        "onboard_time": 1758898523,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219801,
+        "num": 219801,
+        "word": "彭昱畅 我哥哥彭于晏",
+        "onboard_time": 1758930619,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206509,
+        "num": 206509,
+        "word": "马斯克出现在爱泼斯坦案文件中",
+        "onboard_time": 1758930619,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178214,
+        "num": 197870,
+        "word": "陇西地震一人受伤已送医",
+        "onboard_time": 1758936200,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 114747,
+        "num": 195116,
+        "word": "肖战湾区升明月唱整晚的音乐",
+        "onboard_time": 1758898462,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669243,
+        "num": 194743,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193993,
+        "num": 193993,
+        "word": "陇西地震亲历者称像有人使劲摇床",
+        "onboard_time": 1758937640,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157711,
+        "num": 157711,
+        "word": "建议在午睡前喝咖啡",
+        "onboard_time": 1758930439,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146906,
+        "num": 146906,
+        "word": "内塔尼亚胡要求与会者扫码",
+        "onboard_time": 1758935662,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145593,
+        "num": 145593,
+        "word": "美国人对华印象把日本人整破防",
+        "onboard_time": 1758935180,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139780,
+        "num": 139780,
+        "word": "西安震感",
+        "onboard_time": 1758929659,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139181,
+        "num": 139181,
+        "word": "尹锡悦坐牢两个月形象大变",
+        "onboard_time": 1758900623,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130568,
+        "num": 130568,
+        "word": "埃及失联中国女孩母亲发声",
+        "onboard_time": 1758898943,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110749,
+        "num": 130186,
+        "word": "乔妍的心事0提",
+        "onboard_time": 1758896663,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108210,
+        "num": 130085,
+        "word": "刘宇宁衣服很贵多穿一会",
+        "onboard_time": 1758898342,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129985,
+        "num": 129985,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 129082,
+        "num": 129082,
+        "word": "再听17年前那句我已出舱感觉良好",
+        "onboard_time": 1758937640,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124539,
+        "num": 124539,
+        "word": "李沁生日照",
+        "onboard_time": 1758932300,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115909,
+        "num": 115909,
+        "word": "以色列总理联大演讲多国代表离场",
+        "onboard_time": 1758910095,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109089,
+        "num": 109089,
+        "word": "胖的人瘦下来肉都是从硬到软的",
+        "onboard_time": 1758929058,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108668,
+        "num": 108668,
+        "word": "时隔7年刘涛又开客栈了",
+        "onboard_time": 1758931220,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108558,
+        "num": 108558,
+        "word": "6个身体表现提示该吃肉了",
+        "onboard_time": 1758929299,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107201,
+        "num": 107201,
+        "word": "中国人首次太空漫步17周年",
+        "onboard_time": 1758937640,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105983,
+        "num": 105983,
+        "word": "鞠婧祎幽蓝薄纱套装",
+        "onboard_time": 1758934399,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105940,
+        "num": 105940,
+        "word": "孕妇遭遇黑熊袭击装死逃过一劫",
+        "onboard_time": 1758901161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98315,
+        "num": 98315,
+        "word": "王暖暖回应俞某冬出庭态度",
+        "onboard_time": 1758935841,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92485,
+        "num": 92485,
+        "word": "刘宇宁演唱会好多业内大佬",
+        "onboard_time": 1758901402,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89154,
+        "num": 89154,
+        "word": "内塔尼亚胡联大演讲台下快走空了",
+        "onboard_time": 1758937939,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88764,
+        "num": 88764,
+        "word": "甘肃陇西5.6级地震有房屋倒塌",
+        "onboard_time": 1758930799,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 85037,
+        "num": 85037,
+        "word": "内塔尼亚胡联合国大会上公然撒谎",
+        "onboard_time": 1758936200,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84412,
+        "num": 84412,
+        "word": "国庆假期倒计时4天",
+        "onboard_time": 1758935598,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83851,
+        "num": 83851,
+        "word": "新小猫吊牌都没摘",
+        "onboard_time": 1758935180,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81286,
+        "num": 81286,
+        "word": "丁禹兮范思哲看秀造型",
+        "onboard_time": 1758930619,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80894,
+        "num": 80894,
+        "word": "白敬亭这个挡脸很加分",
+        "onboard_time": 1758938179,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71411,
+        "num": 71411,
+        "word": "原来聪明人都这样说话",
+        "onboard_time": 1758935841,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#把祖国的新疆建设得越来越美好#"
+    }
+  }
+}
