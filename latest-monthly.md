@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 16:28:43
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 16:41:43
 </p>
 </blockquote>
 <p>
@@ -2021,6 +2021,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3vs%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2%23" target="weibo">
 长期吃米vs长期吃面（热度：1370121）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%A4%A7%E9%9B%B7%23" target="weibo">
+鞠婧祎 大雷（热度：1369685）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ AG对战WB（热度：703400）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E5%9D%8F%E8%9B%8B%E5%AE%98%E5%AE%A3%E6%92%A4%E6%A1%A3%23" target="weibo">
-再见坏蛋官宣撤档（热度：700685）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6527,6 +6527,12 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83%E7%9F%B3%E6%A6%B4%E7%B1%BD%23%23" target="weibo">
 #习近平为何一再强调石榴籽#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E4%BD%93%E5%BB%BA%E8%AE%BE%23%23" target="weibo">
+#总书记引领中华民族共同体建设#
 </a>
 </li>
 

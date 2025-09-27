@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758961723579,
+  "endTime": 1758962503097,
   "band_list": [
     {
       "raw_hot": 1619192,
@@ -17,6 +17,14 @@
       "onboard_time": 1758931700,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1369685,
+      "num": 290822,
+      "word": "鞠婧祎 大雷",
+      "onboard_time": 1758960862,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1294053,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 618338,
-      "num": 181924,
+      "num": 196593,
       "word": "奉劝大家少穿洞洞鞋和高跟鞋",
       "onboard_time": 1758957620,
       "rank": 48,
@@ -131,11 +139,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 606668,
-      "num": 288325,
-      "word": "鞠婧祎 大雷",
-      "onboard_time": 1758960862,
-      "rank": 5,
+      "raw_hot": 578281,
+      "num": 196385,
+      "word": "孟子义增肥了快十斤",
+      "onboard_time": 1758958580,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -155,14 +163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 548892,
-      "num": 177689,
-      "word": "孟子义增肥了快十斤",
-      "onboard_time": 1758958580,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 540866,
       "num": 245495,
       "word": "张维伊说即使被骂也要感谢节目",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 494496,
-      "num": 171255,
+      "num": 196229,
       "word": "董璇想参加姐姐当家2记录生孩子",
       "onboard_time": 1758958701,
       "rank": 12,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370791,
+      "num": 1059326,
+      "word": "欧洲多国告知俄准备击落俄军机",
+      "onboard_time": 1758958161,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 364107,
       "num": 209084,
       "word": "龚俊 小沁陪我",
@@ -331,12 +339,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 329262,
-      "num": 329262,
-      "word": "欧洲多国告知俄准备击落俄军机",
-      "onboard_time": 1758958161,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 329807,
+      "num": 329807,
+      "word": "员工请假1天照顾尿毒症母亲被辞退",
+      "onboard_time": 1758954980,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328842,
@@ -411,20 +419,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 292506,
-      "num": 292506,
-      "word": "员工请假1天照顾尿毒症母亲被辞退",
-      "onboard_time": 1758954980,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 289834,
       "num": 234392,
       "word": "张召忠有新身份",
       "onboard_time": 1758933140,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 289015,
+      "num": 289015,
+      "word": "战至巅峰",
+      "onboard_time": 1758900203,
+      "rank": 35,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 285506,
@@ -481,14 +489,6 @@
       "onboard_time": 1758929117,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 267056,
-      "num": 267056,
-      "word": "战至巅峰",
-      "onboard_time": 1758900203,
-      "rank": 35,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 262606,
@@ -651,12 +651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196959,
+      "num": 196959,
+      "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
+      "onboard_time": 1758961162,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193643,
       "num": 193643,
       "word": "剧本都写不出王琳莫斯科这幕",
       "onboard_time": 1758956599,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191679,
+      "num": 191679,
+      "word": "张子枫脚受伤",
+      "onboard_time": 1758961162,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 190223,
@@ -779,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165067,
+      "num": 165067,
+      "word": "当你和朋友约定好在马路碰面时",
+      "onboard_time": 1758961281,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164042,
       "num": 201605,
       "word": "第一视角看神二十乘组出舱",
@@ -825,14 +849,6 @@
       "onboard_time": 1758954500,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159901,
-      "num": 159901,
-      "word": "当你和朋友约定好在马路碰面时",
-      "onboard_time": 1758961281,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 158442,
@@ -889,14 +905,6 @@
       "onboard_time": 1758935180,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152729,
-      "num": 152729,
-      "word": "张子枫脚受伤",
-      "onboard_time": 1758961162,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 151083,
@@ -1203,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120243,
+      "num": 131239,
+      "word": "烤肉店老板跑路员工被迫升级当老板",
+      "onboard_time": 1758959841,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119959,
       "num": 119959,
       "word": "6个身体表现提示该吃肉了",
@@ -1251,22 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115101,
-      "num": 131239,
-      "word": "烤肉店老板跑路员工被迫升级当老板",
-      "onboard_time": 1758959841,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114155,
-      "num": 114155,
-      "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
-      "onboard_time": 1758961162,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113650,
       "num": 113650,
       "word": "斯瓦泰克首盘送蛋",
@@ -1281,6 +1281,14 @@
       "onboard_time": 1758878900,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110308,
+      "num": 110308,
+      "word": "7个习惯不运动也能降体脂",
+      "onboard_time": 1758961640,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 109252,
@@ -1313,14 +1321,6 @@
       "onboard_time": 1758954861,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 108035,
-      "num": 108035,
-      "word": "7个习惯不运动也能降体脂",
-      "onboard_time": 1758961640,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 107393,
@@ -1404,7 +1404,7 @@
     },
     {
       "raw_hot": 98891,
-      "num": 98891,
+      "num": 99899,
       "word": "Rookie深夜Rank",
       "onboard_time": 1758961281,
       "rank": 39,
@@ -1475,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95911,
+      "num": 95911,
+      "word": "花95元吃了10个菜一碗面",
+      "onboard_time": 1758960320,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95518,
       "num": 95518,
       "word": "张召忠谈九三阅兵",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1758957201,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94550,
+      "num": 94550,
+      "word": "椰子水到底谁在爱",
+      "onboard_time": 1758962001,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 94368,
@@ -1587,12 +1603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91005,
+      "num": 91005,
+      "word": "父亲已经两年不和我说话了",
+      "onboard_time": 1758961581,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91003,
       "num": 91003,
       "word": "甘肃陇西5.6级地震有房屋倒塌",
       "onboard_time": 1758930799,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 90958,
+      "num": 90958,
+      "word": "小小的备注是他唯一能诉苦的地方",
+      "onboard_time": 1758961700,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 90636,
@@ -1651,27 +1683,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87316,
-      "num": 87316,
-      "word": "2女生带迷路老人找警察助其回家",
-      "onboard_time": 1758943761,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86612,
-      "num": 86612,
+      "raw_hot": 87668,
+      "num": 87668,
       "word": "未来航母上或有无人战斗机",
       "onboard_time": 1758961581,
       "rank": 44,
       "category": "国内时政"
     },
     {
-      "raw_hot": 85798,
-      "num": 85798,
-      "word": "花95元吃了10个菜一碗面",
-      "onboard_time": 1758960320,
-      "rank": 45,
+      "raw_hot": 87316,
+      "num": 87316,
+      "word": "2女生带迷路老人找警察助其回家",
+      "onboard_time": 1758943761,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1695,14 +1719,6 @@
       "num": 84412,
       "word": "国庆假期倒计时4天",
       "onboard_time": 1758935598,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83868,
-      "num": 83868,
-      "word": "父亲已经两年不和我说话了",
-      "onboard_time": 1758961581,
       "rank": 46,
       "category": "民生新闻"
     },
@@ -1745,14 +1761,6 @@
       "onboard_time": 1758957860,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79795,
-      "num": 79795,
-      "word": "小小的备注是他唯一能诉苦的地方",
-      "onboard_time": 1758961700,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 79747,
@@ -1825,6 +1833,14 @@
       "onboard_time": 1758953119,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 73225,
+      "num": 99900,
+      "word": "刘浩存素颜状态",
+      "onboard_time": 1758962180,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 73027,
@@ -2004,11 +2020,27 @@
     },
     {
       "raw_hot": 52628,
-      "num": 159929,
+      "num": 196814,
       "word": "泰军称柬埔寨士兵向泰方开火",
       "onboard_time": 1758961460,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52597,
+      "num": 193001,
+      "word": "多地小学老师被调去教初中",
+      "onboard_time": 1758962241,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52131,
+      "num": 99924,
+      "word": "中专生暑假校内劳动猝死",
+      "onboard_time": 1758962361,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51498,
@@ -2361,6 +2393,9 @@
     },
     {
       "word": "#习近平为何一再强调石榴籽#"
+    },
+    {
+      "word": "#总书记引领中华民族共同体建设#"
     }
   ]
 }
