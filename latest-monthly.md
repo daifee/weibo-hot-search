@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 10:01:13
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 10:59:53
 </p>
 </blockquote>
 <p>
@@ -3933,6 +3933,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9A%84%E8%85%BF%E9%83%BD%E5%88%B0%E5%AE%8B%E5%B0%8F%E5%AE%9D%E7%9A%84%E8%83%B8%E4%BA%86%23" target="weibo">
+关晓彤的腿都到宋小宝的胸了（热度：900581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%20%E8%BF%99%E6%98%AF%E4%B8%AA%E7%9C%9F%E4%BA%8B%E4%BD%A0%E4%BB%AC%E5%8F%AF%E4%BB%A5%E4%B8%8A%E7%BD%91%E6%9F%A5%23" target="weibo">
 李荣浩 这是个真事你们可以上网查（热度：900321）
 </a>
@@ -6005,12 +6011,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%84%BF%E7%AB%A5%E9%A4%90%23" target="weibo">
 西贝儿童餐（热度：696138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%A5%BF%E4%B9%9D%E9%BE%99%E9%87%8D%E6%A1%88%E7%BB%84%23" target="weibo">
-香港西九龙重案组（热度：695669）
 </a>
 </li>
 

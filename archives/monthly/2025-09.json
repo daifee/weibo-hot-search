@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758938473284,
+  "endTime": 1758941993396,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -5227,6 +5227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 900581,
+      "num": 216258,
+      "word": "关晓彤的腿都到宋小宝的胸了",
+      "onboard_time": 1758940820,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 900321,
       "num": 900321,
       "word": "李荣浩 这是个真事你们可以上网查",
@@ -10211,6 +10219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572149,
+      "num": 215050,
+      "word": "佟丽娅儿子出发参加大湾区晚会",
+      "onboard_time": 1758939319,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 570807,
       "num": 570807,
       "word": "李沁因买贵丝巾而自责",
@@ -12017,6 +12033,14 @@
       "onboard_time": 1757234781,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501966,
+      "num": 236942,
+      "word": "鞠婧祎G社生图",
+      "onboard_time": 1758935060,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 501516,
@@ -15459,14 +15483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395905,
-      "num": 236942,
-      "word": "鞠婧祎G社生图",
-      "onboard_time": 1758935060,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 395897,
       "num": 395897,
       "word": "专家称当前退休金与工资相比较高",
@@ -16795,6 +16811,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 368314,
+      "num": 212866,
+      "word": "陈紫函理财赔了戴向宇上百万",
+      "onboard_time": 1758941239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368301,
       "num": 368301,
       "word": "田栩宁杂志抢不到",
@@ -17265,6 +17289,14 @@
       "onboard_time": 1758189084,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 358060,
+      "num": 314974,
+      "word": "于洋把易烊千玺百科怼唐国强脸上了",
+      "onboard_time": 1758939919,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 357916,
@@ -18811,6 +18843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322342,
+      "num": 146738,
+      "word": "女子做豆浆忘加水解锁醇香秘诀",
+      "onboard_time": 1758939380,
+      "rank": 22,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 321922,
       "num": 321922,
       "word": "深圳地铁",
@@ -19241,6 +19281,14 @@
       "onboard_time": 1758225494,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 315286,
+      "num": 315286,
+      "word": "陇西地震已致6人受伤",
+      "onboard_time": 1758940100,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 315258,
@@ -25619,6 +25667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221500,
+      "num": 221500,
+      "word": "马斯克出现在爱泼斯坦案文件中",
+      "onboard_time": 1758930619,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 221458,
       "num": 209504,
       "word": "孙颖莎觉得邱贻可拿自己当闺女看",
@@ -26009,6 +26065,14 @@
       "onboard_time": 1758799881,
       "rank": 16,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 218389,
+      "num": 218389,
+      "word": "陇西地震亲历者称像有人使劲摇床",
+      "onboard_time": 1758937640,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218307,
@@ -27689,14 +27753,6 @@
       "onboard_time": 1757391322,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 206509,
-      "num": 206509,
-      "word": "马斯克出现在爱泼斯坦案文件中",
-      "onboard_time": 1758930619,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 206447,
@@ -30537,14 +30593,6 @@
       "onboard_time": 1758855440,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193993,
-      "num": 193993,
-      "word": "陇西地震亲历者称像有人使劲摇床",
-      "onboard_time": 1758937640,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193969,
@@ -40843,6 +40891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156149,
+      "num": 156149,
+      "word": "辛芷蕾马思纯向往的生活合体",
+      "onboard_time": 1758939680,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156113,
       "num": 156113,
       "word": "成毅赴山海质感",
@@ -44707,6 +44763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145994,
+      "num": 145994,
+      "word": "TikTok估值140亿",
+      "onboard_time": 1758940580,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145964,
       "num": 145964,
       "word": "林诗栋vs吴晙诚",
@@ -47529,6 +47593,14 @@
       "onboard_time": 1757571642,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 139113,
+      "num": 139113,
+      "word": "媒体评68页PPT曝光婚外情",
+      "onboard_time": 1758937880,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139103,
@@ -52121,6 +52193,14 @@
       "onboard_time": 1756709481,
       "rank": 19,
       "category": "电竞,综艺"
+    },
+    {
+      "raw_hot": 128663,
+      "num": 128663,
+      "word": "白敬亭这个挡脸很加分",
+      "onboard_time": 1758938179,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 128662,
@@ -62259,6 +62339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107393,
+      "num": 107393,
+      "word": "还有4天国庆",
+      "onboard_time": 1758938539,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107391,
       "num": 105202,
       "word": "释永信案多人协助调查",
@@ -66739,6 +66827,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 97208,
+      "num": 134053,
+      "word": "赤发鬼一个镜头头发量有150万根",
+      "onboard_time": 1758941660,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97204,
       "num": 97204,
       "word": "字节8人涉嫌刑事犯罪被移交司法",
@@ -67681,6 +67777,14 @@
       "onboard_time": 1757500402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94786,
+      "num": 94786,
+      "word": "邵子恒 我演得像流氓吗",
+      "onboard_time": 1758941480,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 94763,
@@ -69651,6 +69755,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 88421,
+      "num": 131396,
+      "word": "刺杀小说家2",
+      "onboard_time": 1758941600,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88418,
       "num": 88418,
       "word": "卢伟冰说小米17不像iPhone17",
@@ -70320,6 +70432,14 @@
       "word": "王楚钦中国大满贯倒计时海报",
       "onboard_time": 1758416723,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86158,
+      "num": 86158,
+      "word": "穆塞蒂",
+      "onboard_time": 1758936800,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -71907,14 +72027,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 80894,
-      "num": 80894,
-      "word": "白敬亭这个挡脸很加分",
-      "onboard_time": 1758938179,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80878,
       "num": 97146,
       "word": "碧血蝉",
@@ -72379,20 +72491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79011,
-      "num": 79011,
-      "word": "穆塞蒂",
-      "onboard_time": 1758936800,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79007,
       "num": 197259,
       "word": "新世代宝马终于来了",
       "onboard_time": 1757068521,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78947,
+      "num": 78947,
+      "word": "和妈妈聊天胜过所有心理医生",
+      "onboard_time": 1758941900,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 78924,
@@ -76643,6 +76755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58489,
+      "num": 82305,
+      "word": "孙颖莎王楚钦中国大满贯首日登场",
+      "onboard_time": 1758940460,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58467,
       "num": 171749,
       "word": "AG玩游戏一点都不基础",
@@ -78801,6 +78921,14 @@
       "onboard_time": 1758756500,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49144,
+      "num": 211391,
+      "word": "杨幂代言三只小山羊纯羊绒大衣",
+      "onboard_time": 1758940759,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 49079,
@@ -82609,6 +82737,14 @@
       "onboard_time": 1758910994,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30542,
+      "num": 84079,
+      "word": "鲁尼解释为什么说梅西更胜C罗",
+      "onboard_time": 1758940580,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 30510,

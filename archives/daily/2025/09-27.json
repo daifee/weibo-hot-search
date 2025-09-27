@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758938473284,
+  "endTime": 1758941993396,
   "band_list": [
     {
       "raw_hot": 1597497,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 900581,
+      "num": 216258,
+      "word": "关晓彤的腿都到宋小宝的胸了",
+      "onboard_time": 1758940820,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838830,
       "num": 345566,
       "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
@@ -59,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572149,
+      "num": 215050,
+      "word": "佟丽娅儿子出发参加大湾区晚会",
+      "onboard_time": 1758939319,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 551206,
       "num": 844535,
       "word": "尹锡悦坐牢两个月形象大变",
       "onboard_time": 1758900623,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 501966,
+      "num": 236942,
+      "word": "鞠婧祎G社生图",
+      "onboard_time": 1758935060,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 452324,
@@ -107,20 +131,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 395905,
-      "num": 236942,
-      "word": "鞠婧祎G社生图",
-      "onboard_time": 1758935060,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 393515,
       "num": 393515,
       "word": "李鸿其王紫璇牵手走红毯",
       "onboard_time": 1758934159,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 368314,
+      "num": 212866,
+      "word": "陈紫函理财赔了戴向宇上百万",
+      "onboard_time": 1758941239,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 360712,
@@ -131,12 +155,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 358060,
+      "num": 314974,
+      "word": "于洋把易烊千玺百科怼唐国强脸上了",
+      "onboard_time": 1758939919,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327833,
       "num": 327833,
       "word": "向往的生活设定",
       "onboard_time": 1758930619,
       "rank": 7,
       "category": "动漫,剧集"
+    },
+    {
+      "raw_hot": 322342,
+      "num": 146738,
+      "word": "女子做豆浆忘加水解锁醇香秘诀",
+      "onboard_time": 1758939380,
+      "rank": 22,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 321452,
@@ -153,6 +193,14 @@
       "onboard_time": 1758867082,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315286,
+      "num": 315286,
+      "word": "陇西地震已致6人受伤",
+      "onboard_time": 1758940100,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 289834,
@@ -227,27 +275,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 207576,
-      "num": 207576,
-      "word": "法院通报警车出现在150公里外山姆",
-      "onboard_time": 1758896481,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206509,
-      "num": 206509,
+      "raw_hot": 221500,
+      "num": 221500,
       "word": "马斯克出现在爱泼斯坦案文件中",
       "onboard_time": 1758930619,
       "rank": 34,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 193993,
-      "num": 193993,
+      "raw_hot": 218389,
+      "num": 218389,
       "word": "陇西地震亲历者称像有人使劲摇床",
       "onboard_time": 1758937640,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207576,
+      "num": 207576,
+      "word": "法院通报警车出现在150公里外山姆",
+      "onboard_time": 1758896481,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -315,6 +363,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 156149,
+      "num": 156149,
+      "word": "辛芷蕾马思纯向往的生活合体",
+      "onboard_time": 1758939680,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153138,
       "num": 153138,
       "word": "美国人对华印象把日本人整破防",
@@ -363,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145994,
+      "num": 145994,
+      "word": "TikTok估值140亿",
+      "onboard_time": 1758940580,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145416,
       "num": 145416,
       "word": "李沁生日照",
@@ -377,6 +441,14 @@
       "onboard_time": 1758934399,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139113,
+      "num": 139113,
+      "word": "媒体评68页PPT曝光婚外情",
+      "onboard_time": 1758937880,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134920,
@@ -403,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128663,
+      "num": 128663,
+      "word": "白敬亭这个挡脸很加分",
+      "onboard_time": 1758938179,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119959,
       "num": 119959,
       "word": "6个身体表现提示该吃肉了",
@@ -425,6 +505,14 @@
       "onboard_time": 1758878900,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107393,
+      "num": 107393,
+      "word": "还有4天国庆",
+      "onboard_time": 1758938539,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107201,
@@ -483,12 +571,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97208,
+      "num": 134053,
+      "word": "赤发鬼一个镜头头发量有150万根",
+      "onboard_time": 1758941660,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97058,
       "num": 97058,
       "word": "米兰时装周",
       "onboard_time": 1758901642,
       "rank": 37,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 94786,
+      "num": 94786,
+      "word": "邵子恒 我演得像流氓吗",
+      "onboard_time": 1758941480,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 94224,
@@ -571,6 +675,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88421,
+      "num": 131396,
+      "word": "刺杀小说家2",
+      "onboard_time": 1758941600,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 86158,
+      "num": 86158,
+      "word": "穆塞蒂",
+      "onboard_time": 1758936800,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85037,
       "num": 85037,
       "word": "内塔尼亚胡联合国大会上公然撒谎",
@@ -603,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80894,
-      "num": 80894,
-      "word": "白敬亭这个挡脸很加分",
-      "onboard_time": 1758938179,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80562,
       "num": 72306,
       "word": "普京走来走去其实在等卢卡申科",
@@ -619,12 +731,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79011,
-      "num": 79011,
-      "word": "穆塞蒂",
-      "onboard_time": 1758936800,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 78947,
+      "num": 78947,
+      "word": "和妈妈聊天胜过所有心理医生",
+      "onboard_time": 1758941900,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 78924,
@@ -763,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58489,
+      "num": 82305,
+      "word": "孙颖莎王楚钦中国大满贯首日登场",
+      "onboard_time": 1758940460,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55130,
       "num": 55130,
       "word": "彭昱畅在向往被夸成翘嘴",
@@ -801,6 +921,14 @@
       "onboard_time": 1758929299,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49144,
+      "num": 211391,
+      "word": "杨幂代言三只小山羊纯羊绒大衣",
+      "onboard_time": 1758940759,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 47231,
@@ -905,6 +1033,14 @@
       "onboard_time": 1758910994,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30542,
+      "num": 84079,
+      "word": "鲁尼解释为什么说梅西更胜C罗",
+      "onboard_time": 1758940580,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 30455,

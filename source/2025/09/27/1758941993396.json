@@ -1,0 +1,410 @@
+{
+  "runTime": 1758941993396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1179357,
+        "num": 1188697,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685839,
+        "num": 685839,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7103,
+        "num": 563696,
+        "word": "国庆假期带特产上飞机要注意啥",
+        "onboard_time": 1758871222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 533973,
+        "num": 533973,
+        "word": "男子胸前贴强奸犯被当街示众",
+        "onboard_time": 1758898883,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315286,
+        "num": 315286,
+        "word": "陇西地震已致6人受伤",
+        "onboard_time": 1758940100,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 358060,
+        "num": 314974,
+        "word": "于洋把易烊千玺百科怼唐国强脸上了",
+        "onboard_time": 1758939919,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281687,
+        "num": 281687,
+        "word": "甘肃陇西地震",
+        "onboard_time": 1758928216,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 221500,
+        "num": 221500,
+        "word": "马斯克出现在爱泼斯坦案文件中",
+        "onboard_time": 1758930619,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218389,
+        "num": 218389,
+        "word": "陇西地震亲历者称像有人使劲摇床",
+        "onboard_time": 1758937640,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149230,
+        "num": 217943,
+        "word": "向往的生活彩灯去世",
+        "onboard_time": 1758898523,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 900581,
+        "num": 216258,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572149,
+        "num": 215050,
+        "word": "佟丽娅儿子出发参加大湾区晚会",
+        "onboard_time": 1758939319,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501966,
+        "num": 214645,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1758935060,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368314,
+        "num": 212866,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49144,
+        "num": 211391,
+        "word": "杨幂代言三只小山羊纯羊绒大衣",
+        "onboard_time": 1758940759,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338167,
+        "num": 210327,
+        "word": "阿根廷贩毒团伙直播性侵虐杀3女子",
+        "onboard_time": 1758896183,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230201,
+        "num": 209976,
+        "word": "卢昱晓生日照",
+        "onboard_time": 1758936800,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208827,
+        "num": 208827,
+        "word": "韩三星财团CJ会长找主播去秘密派对",
+        "onboard_time": 1758932900,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156149,
+        "num": 156149,
+        "word": "辛芷蕾马思纯向往的生活合体",
+        "onboard_time": 1758939680,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147267,
+        "num": 147267,
+        "word": "22岁小伙摔倒被误认留守老人",
+        "onboard_time": 1758896604,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502163,
+        "num": 147246,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417072,
+        "num": 146869,
+        "word": "王玉雯下车门摔倒",
+        "onboard_time": 1758896423,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322342,
+        "num": 146738,
+        "word": "女子做豆浆忘加水解锁醇香秘诀",
+        "onboard_time": 1758939380,
+        "rank": 22,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 206323,
+        "num": 146358,
+        "word": "李鸿其王紫璇牵手走红毯",
+        "onboard_time": 1758934159,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154343,
+        "num": 146080,
+        "word": "建议在午睡前喝咖啡",
+        "onboard_time": 1758930439,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145994,
+        "num": 145994,
+        "word": "TikTok估值140亿",
+        "onboard_time": 1758940580,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139113,
+        "num": 139113,
+        "word": "媒体评68页PPT曝光婚外情",
+        "onboard_time": 1758937880,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138060,
+        "num": 138060,
+        "word": "彭昱畅 我哥哥彭于晏",
+        "onboard_time": 1758930619,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97208,
+        "num": 134053,
+        "word": "赤发鬼一个镜头头发量有150万根",
+        "onboard_time": 1758941660,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88421,
+        "num": 131396,
+        "word": "刺杀小说家2",
+        "onboard_time": 1758941600,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131284,
+        "num": 131284,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 128663,
+        "num": 128663,
+        "word": "白敬亭这个挡脸很加分",
+        "onboard_time": 1758938179,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126693,
+        "num": 126693,
+        "word": "张召忠有新身份",
+        "onboard_time": 1758933140,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 122802,
+        "num": 122802,
+        "word": "瘦了35斤后五官的变化",
+        "onboard_time": 1758929117,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 121502,
+        "num": 121502,
+        "word": "内塔尼亚胡要求与会者扫码",
+        "onboard_time": 1758935662,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113966,
+        "num": 113966,
+        "word": "美国人对华印象把日本人整破防",
+        "onboard_time": 1758935180,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109969,
+        "num": 109969,
+        "word": "向往的生活设定",
+        "onboard_time": 1758930619,
+        "rank": 36,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 109717,
+        "num": 109717,
+        "word": "胖的人瘦下来肉都是从硬到软的",
+        "onboard_time": 1758929058,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107393,
+        "num": 107393,
+        "word": "还有4天国庆",
+        "onboard_time": 1758938539,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94786,
+        "num": 94786,
+        "word": "邵子恒 我演得像流氓吗",
+        "onboard_time": 1758941480,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79782,
+        "num": 90469,
+        "word": "乔妍的心事0提",
+        "onboard_time": 1758896663,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90282,
+        "num": 90282,
+        "word": "6个身体表现提示该吃肉了",
+        "onboard_time": 1758929299,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86158,
+        "num": 86158,
+        "word": "穆塞蒂",
+        "onboard_time": 1758936800,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30542,
+        "num": 84079,
+        "word": "鲁尼解释为什么说梅西更胜C罗",
+        "onboard_time": 1758940580,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83430,
+        "num": 83430,
+        "word": "再听17年前那句我已出舱感觉良好",
+        "onboard_time": 1758937640,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58489,
+        "num": 82305,
+        "word": "孙颖莎王楚钦中国大满贯首日登场",
+        "onboard_time": 1758940460,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81347,
+        "num": 81347,
+        "word": "埃及失联中国女孩母亲发声",
+        "onboard_time": 1758898943,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80745,
+        "num": 80745,
+        "word": "西安震感",
+        "onboard_time": 1758929659,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78947,
+        "num": 78947,
+        "word": "和妈妈聊天胜过所有心理医生",
+        "onboard_time": 1758941900,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77727,
+        "num": 77727,
+        "word": "李沁生日照",
+        "onboard_time": 1758932300,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把祖国的新疆建设得越来越美好#"
+    }
+  }
+}
