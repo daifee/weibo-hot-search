@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758958576414,
+  "endTime": 1758961723579,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -9347,6 +9347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 618338,
+      "num": 181924,
+      "word": "奉劝大家少穿洞洞鞋和高跟鞋",
+      "onboard_time": 1758957620,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 618027,
       "num": 1070794,
       "word": "日本民众喊话石平滚出日本",
@@ -9544,6 +9552,14 @@
       "word": "宋轶回应整容",
       "onboard_time": 1756630101,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 606668,
+      "num": 288325,
+      "word": "鞠婧祎 大雷",
+      "onboard_time": 1758960862,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -10848,6 +10864,14 @@
       "word": "杨幂做卷腹好轻松",
       "onboard_time": 1758605002,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 548892,
+      "num": 177689,
+      "word": "孟子义增肥了快十斤",
+      "onboard_time": 1758958580,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -12315,6 +12339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 494496,
+      "num": 171255,
+      "word": "董璇想参加姐姐当家2记录生孩子",
+      "onboard_time": 1758958701,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494444,
       "num": 403045,
       "word": "邢菲升咖后首部作品",
@@ -12508,7 +12540,7 @@
     },
     {
       "raw_hot": 489838,
-      "num": 281748,
+      "num": 294888,
       "word": "这居然是陆柯燃",
       "onboard_time": 1758955400,
       "rank": 42,
@@ -17155,6 +17187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364107,
+      "num": 209084,
+      "word": "龚俊 小沁陪我",
+      "onboard_time": 1758955519,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364055,
       "num": 364055,
       "word": "刘亦菲好美",
@@ -17249,14 +17289,6 @@
       "onboard_time": 1756954402,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 362183,
-      "num": 209084,
-      "word": "龚俊 小沁陪我",
-      "onboard_time": 1758955519,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 362176,
@@ -18633,6 +18665,14 @@
       "onboard_time": 1757253622,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 329262,
+      "num": 329262,
+      "word": "欧洲多国告知俄准备击落俄军机",
+      "onboard_time": 1758958161,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 329168,
@@ -20571,6 +20611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292506,
+      "num": 292506,
+      "word": "员工请假1天照顾尿毒症母亲被辞退",
+      "onboard_time": 1758954980,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292040,
       "num": 291407,
       "word": "易烊千玺拍撕拉片",
@@ -22177,6 +22225,14 @@
       "onboard_time": 1756894404,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267056,
+      "num": 267056,
+      "word": "战至巅峰",
+      "onboard_time": 1756811421,
+      "rank": 15,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 266912,
@@ -25659,6 +25715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223542,
+      "num": 131207,
+      "word": "疑似英语老师退休后带孙日常",
+      "onboard_time": 1758960200,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223533,
       "num": 223533,
       "word": "天山后峡发现死亡雪豹",
@@ -26513,14 +26577,6 @@
       "onboard_time": 1757665705,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 216074,
-      "num": 211048,
-      "word": "战至巅峰",
-      "onboard_time": 1756811421,
-      "rank": 15,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 216034,
@@ -33547,6 +33603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183977,
+      "num": 183977,
+      "word": "战至巅峰4赛前快闪直播",
+      "onboard_time": 1758958280,
+      "rank": 27,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 183969,
       "num": 183969,
       "word": "各省奶茶代表",
@@ -39595,14 +39659,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 161358,
-      "num": 161358,
-      "word": "奉劝大家少穿洞洞鞋和高跟鞋",
-      "onboard_time": 1758957620,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161329,
       "num": 247689,
       "word": "中国海警管制菲船只现场画面",
@@ -40089,6 +40145,14 @@
       "onboard_time": 1757488162,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159901,
+      "num": 159901,
+      "word": "当你和朋友约定好在马路碰面时",
+      "onboard_time": 1758961281,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 159893,
@@ -42507,6 +42571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152729,
+      "num": 152729,
+      "word": "张子枫脚受伤",
+      "onboard_time": 1758961162,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152713,
       "num": 155808,
       "word": "麻六记别总让代工厂当挡箭牌",
@@ -43049,6 +43121,14 @@
       "onboard_time": 1758511282,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151083,
+      "num": 151083,
+      "word": "穆塞蒂道歉",
+      "onboard_time": 1758960980,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 150993,
@@ -53275,14 +53355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127736,
-      "num": 127736,
-      "word": "战至巅峰4赛前快闪直播",
-      "onboard_time": 1758958280,
-      "rank": 27,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 127728,
       "num": 127728,
       "word": "能量低就立刻去做这5件事",
@@ -55593,6 +55665,14 @@
       "onboard_time": 1757317584,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122876,
+      "num": 122876,
+      "word": "霉霉被拍到参加赛琳娜婚礼",
+      "onboard_time": 1758960801,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 122855,
@@ -59347,6 +59427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115101,
+      "num": 131239,
+      "word": "烤肉店老板跑路员工被迫升级当老板",
+      "onboard_time": 1758959841,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115100,
       "num": 244996,
       "word": "袁隆平生前笔迹直戳泪点",
@@ -59769,6 +59857,14 @@
       "onboard_time": 1757590546,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114155,
+      "num": 114155,
+      "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
+      "onboard_time": 1758961162,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114138,
@@ -62833,6 +62929,14 @@
       "onboard_time": 1758019222,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108035,
+      "num": 108035,
+      "word": "7个习惯不运动也能降体脂",
+      "onboard_time": 1758961640,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 107993,
@@ -66915,6 +67019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98891,
+      "num": 98891,
+      "word": "Rookie深夜Rank",
+      "onboard_time": 1758961281,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98887,
       "num": 139665,
       "word": "中国移动上线iPhoneAir页面",
@@ -67377,14 +67489,6 @@
       "onboard_time": 1758151760,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97679,
-      "num": 118534,
-      "word": "员工请假1天照顾尿毒症母亲被辞退",
-      "onboard_time": 1758954980,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97672,
@@ -68779,6 +68883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94087,
+      "num": 94087,
+      "word": "白鹿的同款闺蜜代古拉K也有一个",
+      "onboard_time": 1758959960,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94071,
       "num": 199717,
       "word": "普京在中国有宾至如归的感觉",
@@ -69225,14 +69337,6 @@
       "onboard_time": 1758816141,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92712,
-      "num": 92712,
-      "word": "欧洲多国告知俄准备击落俄军机",
-      "onboard_time": 1758958161,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 92649,
@@ -71139,6 +71243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86612,
+      "num": 86612,
+      "word": "未来航母上或有无人战斗机",
+      "onboard_time": 1758961581,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86584,
       "num": 86584,
       "word": "单身不是最爽的",
@@ -71425,6 +71537,14 @@
       "onboard_time": 1758351621,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 85798,
+      "num": 85798,
+      "word": "花95元吃了10个菜一碗面",
+      "onboard_time": 1758960320,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85779,
@@ -71977,6 +72097,14 @@
       "onboard_time": 1756730540,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83868,
+      "num": 83868,
+      "word": "父亲已经两年不和我说话了",
+      "onboard_time": 1758961581,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83855,
@@ -73145,6 +73273,14 @@
       "onboard_time": 1757819181,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79795,
+      "num": 79795,
+      "word": "小小的备注是他唯一能诉苦的地方",
+      "onboard_time": 1758961700,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 79793,
@@ -79073,6 +79209,14 @@
       "onboard_time": 1758474198,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52628,
+      "num": 159929,
+      "word": "泰军称柬埔寨士兵向泰方开火",
+      "onboard_time": 1758961460,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52627,

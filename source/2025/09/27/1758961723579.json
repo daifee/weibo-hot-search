@@ -1,0 +1,410 @@
+{
+  "runTime": 1758961723579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 336794,
+        "num": 1053887,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329262,
+        "num": 329262,
+        "word": "欧洲多国告知俄准备击落俄军机",
+        "onboard_time": 1758958161,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32647,
+        "num": 295070,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758943279,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360740,
+        "num": 294888,
+        "word": "这居然是陆柯燃",
+        "onboard_time": 1758955400,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292506,
+        "num": 292506,
+        "word": "员工请假1天照顾尿毒症母亲被辞退",
+        "onboard_time": 1758954980,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606668,
+        "num": 288325,
+        "word": "鞠婧祎 大雷",
+        "onboard_time": 1758960862,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267056,
+        "num": 267056,
+        "word": "战至巅峰",
+        "onboard_time": 1758959000,
+        "rank": 6,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 235482,
+        "num": 235482,
+        "word": "一单位招50个事业编年薪60万起",
+        "onboard_time": 1758947840,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213262,
+        "num": 213262,
+        "word": "谢娜没想到一个节目愿意只拍她回家",
+        "onboard_time": 1758952100,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183977,
+        "num": 183977,
+        "word": "战至巅峰4赛前快闪直播",
+        "onboard_time": 1758958280,
+        "rank": 9,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 618338,
+        "num": 181924,
+        "word": "奉劝大家少穿洞洞鞋和高跟鞋",
+        "onboard_time": 1758957620,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 548892,
+        "num": 177689,
+        "word": "孟子义增肥了快十斤",
+        "onboard_time": 1758958580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494496,
+        "num": 171255,
+        "word": "董璇想参加姐姐当家2记录生孩子",
+        "onboard_time": 1758958701,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265057,
+        "num": 163552,
+        "word": "男女相恋6年分手后变成室友",
+        "onboard_time": 1758955223,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162967,
+        "num": 162967,
+        "word": "小米17破25年国产手机首销纪录",
+        "onboard_time": 1758944239,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 477689,
+        "num": 162899,
+        "word": "朵朵和陈思诚一模一样",
+        "onboard_time": 1758951560,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364107,
+        "num": 161852,
+        "word": "龚俊 小沁陪我",
+        "onboard_time": 1758955519,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494460,
+        "num": 161011,
+        "word": "小酒窝给张维伊董璇当花童",
+        "onboard_time": 1758954980,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330918,
+        "num": 160573,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160340,
+        "num": 160340,
+        "word": "王者荣耀",
+        "onboard_time": 1758956720,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269692,
+        "num": 160276,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52628,
+        "num": 159929,
+        "word": "泰军称柬埔寨士兵向泰方开火",
+        "onboard_time": 1758961460,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159901,
+        "num": 159901,
+        "word": "当你和朋友约定好在马路碰面时",
+        "onboard_time": 1758961281,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180500,
+        "num": 157594,
+        "word": "李现关晓彤 霸总和大小姐",
+        "onboard_time": 1758952941,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152729,
+        "num": 152729,
+        "word": "张子枫脚受伤",
+        "onboard_time": 1758961162,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151083,
+        "num": 151083,
+        "word": "穆塞蒂道歉",
+        "onboard_time": 1758960980,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140544,
+        "num": 140544,
+        "word": "小酒窝 我广告一下",
+        "onboard_time": 1758956781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132746,
+        "num": 132746,
+        "word": "向往的生活新增常驻嘉宾",
+        "onboard_time": 1758946040,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131938,
+        "num": 131938,
+        "word": "毛不易你火成我不认识的样子了",
+        "onboard_time": 1758952160,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115101,
+        "num": 131239,
+        "word": "烤肉店老板跑路员工被迫升级当老板",
+        "onboard_time": 1758959841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223542,
+        "num": 131207,
+        "word": "疑似英语老师退休后带孙日常",
+        "onboard_time": 1758960200,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131042,
+        "num": 131042,
+        "word": "对金软细银有了更深刻的理解",
+        "onboard_time": 1758956720,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124126,
+        "num": 124126,
+        "word": "Angelababy这个时候才17岁",
+        "onboard_time": 1758944660,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122876,
+        "num": 122876,
+        "word": "霉霉被拍到参加赛琳娜婚礼",
+        "onboard_time": 1758960801,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114155,
+        "num": 114155,
+        "word": "女子凌晨在酒店遭男子刷卡进房猥亵",
+        "onboard_time": 1758961162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111418,
+        "num": 111418,
+        "word": "剧本都写不出王琳莫斯科这幕",
+        "onboard_time": 1758956599,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110759,
+        "num": 110759,
+        "word": "张婧仪眉骨打伞",
+        "onboard_time": 1758947540,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108035,
+        "num": 108035,
+        "word": "7个习惯不运动也能降体脂",
+        "onboard_time": 1758961640,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 101049,
+        "num": 101049,
+        "word": "重庆两地发现上百株冥界之花",
+        "onboard_time": 1758947423,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98891,
+        "num": 98891,
+        "word": "Rookie深夜Rank",
+        "onboard_time": 1758961281,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95047,
+        "num": 95047,
+        "word": "敬战至巅峰并肩作战的我们",
+        "onboard_time": 1758955820,
+        "rank": 40,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 94087,
+        "num": 94087,
+        "word": "白鹿的同款闺蜜代古拉K也有一个",
+        "onboard_time": 1758959960,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93136,
+        "num": 93136,
+        "word": "窦靖童担心会遗传窦唯的秃头",
+        "onboard_time": 1758953961,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90015,
+        "num": 90015,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86612,
+        "num": 86612,
+        "word": "未来航母上或有无人战斗机",
+        "onboard_time": 1758961581,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85798,
+        "num": 85798,
+        "word": "花95元吃了10个菜一碗面",
+        "onboard_time": 1758960320,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83868,
+        "num": 83868,
+        "word": "父亲已经两年不和我说话了",
+        "onboard_time": 1758961581,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82536,
+        "num": 82536,
+        "word": "快递集体涨价",
+        "onboard_time": 1758955160,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80270,
+        "num": 80270,
+        "word": "白鹿说英语",
+        "onboard_time": 1758953181,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79795,
+        "num": 79795,
+        "word": "小小的备注是他唯一能诉苦的地方",
+        "onboard_time": 1758961700,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何一再强调石榴籽#"
+    }
+  }
+}
