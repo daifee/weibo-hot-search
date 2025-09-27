@@ -1,0 +1,410 @@
+{
+  "runTime": 1758950592609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635851,
+        "num": 1101736,
+        "word": "埃及失联中国女孩已找到妈妈发声",
+        "onboard_time": 1758943039,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439947,
+        "num": 439947,
+        "word": "小学教师转岗教高中",
+        "onboard_time": 1758945019,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 41192,
+        "num": 357490,
+        "word": "你没想到的新疆",
+        "onboard_time": 1758943279,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355063,
+        "num": 355063,
+        "word": "小米17破25年国产手机首销纪录",
+        "onboard_time": 1758944239,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303708,
+        "num": 303708,
+        "word": "重庆两地发现上百株冥界之花",
+        "onboard_time": 1758947423,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249892,
+        "num": 249892,
+        "word": "一单位招50个事业编年薪60万起",
+        "onboard_time": 1758947840,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194484,
+        "num": 194484,
+        "word": "鹿晗包场支持刺杀小说家2",
+        "onboard_time": 1758945019,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140321,
+        "num": 193687,
+        "word": "迪丽热巴中秋奇妙游",
+        "onboard_time": 1758947180,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139200,
+        "num": 191896,
+        "word": "志愿军老兵参演电影志愿军3",
+        "onboard_time": 1758950180,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131530,
+        "num": 187501,
+        "word": "马斯克出现在爱泼斯坦案文件中",
+        "onboard_time": 1758930619,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1029143,
+        "num": 185113,
+        "word": "陈紫函理财赔了戴向宇上百万",
+        "onboard_time": 1758941239,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631648,
+        "num": 184160,
+        "word": "关晓彤的腿都到宋小宝的胸了",
+        "onboard_time": 1758940820,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612598,
+        "num": 181062,
+        "word": "张婧仪眉骨打伞",
+        "onboard_time": 1758947540,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124078,
+        "num": 176812,
+        "word": "花儿与少年",
+        "onboard_time": 1758949221,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521200,
+        "num": 176097,
+        "word": "Angelababy这个时候才17岁",
+        "onboard_time": 1758944660,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484979,
+        "num": 172718,
+        "word": "张维伊说即使被骂也要感谢节目",
+        "onboard_time": 1758948740,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259837,
+        "num": 170978,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1758935060,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208705,
+        "num": 167580,
+        "word": "丁禹兮扛住了外媒镜头",
+        "onboard_time": 1758942439,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166367,
+        "num": 166367,
+        "word": "韩国男孩从6岁吐到15岁",
+        "onboard_time": 1758945200,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31988,
+        "num": 166073,
+        "word": "丁禹兮常华森鞠婧祎同框",
+        "onboard_time": 1758949460,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654761,
+        "num": 165659,
+        "word": "警车在山姆购物确认为公车私用",
+        "onboard_time": 1758931700,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362139,
+        "num": 164812,
+        "word": "董璇张维伊婚礼照",
+        "onboard_time": 1758947660,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294517,
+        "num": 164279,
+        "word": "黄磊11岁女儿身高",
+        "onboard_time": 1758948980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157464,
+        "num": 163914,
+        "word": "TF四代点名了",
+        "onboard_time": 1758949221,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288934,
+        "num": 163592,
+        "word": "西贝回应一碗汤换顾客北京一套房",
+        "onboard_time": 1758929659,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243425,
+        "num": 162902,
+        "word": "关晓彤发微博最烦胡说八道的人",
+        "onboard_time": 1758892581,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162566,
+        "num": 162566,
+        "word": "关掉美颜大家化的妆都一样",
+        "onboard_time": 1758943820,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135897,
+        "num": 160427,
+        "word": "内娱终于又拍真实谍战了",
+        "onboard_time": 1758950420,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125462,
+        "num": 159088,
+        "word": "黄磊说彩灯走了就剩下俩老登",
+        "onboard_time": 1758949160,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114195,
+        "num": 159029,
+        "word": "耿爽表示中方深表遗憾",
+        "onboard_time": 1758948920,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159028,
+        "num": 159028,
+        "word": "女子做豆浆忘加水解锁醇香秘诀",
+        "onboard_time": 1758939380,
+        "rank": 30,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 157500,
+        "num": 157500,
+        "word": "孟子义 大小姐归来",
+        "onboard_time": 1758949700,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137815,
+        "num": 137815,
+        "word": "王源魏大勋一起逛街了",
+        "onboard_time": 1758946640,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131510,
+        "num": 131510,
+        "word": "彭昱畅这样帅得更清晰了",
+        "onboard_time": 1758949281,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130424,
+        "num": 130424,
+        "word": "陈伟霆许我耀眼造型",
+        "onboard_time": 1758949041,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124118,
+        "num": 124118,
+        "word": "网传光明接管后的上海学生餐",
+        "onboard_time": 1758946520,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121194,
+        "num": 121194,
+        "word": "KT对战GEN",
+        "onboard_time": 1758950001,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116800,
+        "num": 116800,
+        "word": "王者新英雄蚩奼",
+        "onboard_time": 1758949160,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99414,
+        "num": 114029,
+        "word": "麦当劳矿泉水8块1瓶",
+        "onboard_time": 1758946040,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49394,
+        "num": 113710,
+        "word": "宋亚轩着魔的子弹十年后正中靶心",
+        "onboard_time": 1758949401,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113675,
+        "num": 113675,
+        "word": "陈泽回应霸凌同学",
+        "onboard_time": 1758947360,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105819,
+        "num": 105819,
+        "word": "时代少年团向着光的方向前行",
+        "onboard_time": 1758950361,
+        "rank": 41,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 105652,
+        "num": 105652,
+        "word": "青岛女子在美国被丈夫杀害",
+        "onboard_time": 1758942800,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103208,
+        "num": 103208,
+        "word": "张萌跟刘宇宁约戏",
+        "onboard_time": 1758946821,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98888,
+        "num": 98888,
+        "word": "于洋把易烊千玺百科怼唐国强脸上了",
+        "onboard_time": 1758939919,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95432,
+        "num": 95432,
+        "word": "林更新两京十五日",
+        "onboard_time": 1758949700,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94742,
+        "num": 94742,
+        "word": "1年还清百万负债全家在杭州安家",
+        "onboard_time": 1758950240,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89033,
+        "num": 89033,
+        "word": "甘肃陇西县5.6级地震",
+        "onboard_time": 1758928278,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 88745,
+        "num": 88745,
+        "word": "小米之家零售系统崩了",
+        "onboard_time": 1758950540,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88438,
+        "num": 88438,
+        "word": "甘肃陇西地震",
+        "onboard_time": 1758928216,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何一再强调石榴籽#"
+    }
+  }
+}

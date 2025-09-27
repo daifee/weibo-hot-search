@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1758948114395,
+  "endTime": 1758950592609,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -9419,6 +9419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612598,
+      "num": 203223,
+      "word": "张婧仪眉骨打伞",
+      "onboard_time": 1758947540,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 612202,
       "num": 612202,
       "word": "莫迪发文感谢中方",
@@ -12603,6 +12611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484979,
+      "num": 172718,
+      "word": "张维伊说即使被骂也要感谢节目",
+      "onboard_time": 1758948740,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484761,
       "num": 484761,
       "word": "雷军曝陈年10年还清10亿债务",
@@ -13995,6 +14011,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 439947,
+      "num": 439947,
+      "word": "小学教师转岗教高中",
+      "onboard_time": 1758945019,
+      "rank": 5,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 439163,
       "num": 408538,
       "word": "影视飓风Tim现场掰了iPhone",
@@ -14329,14 +14353,6 @@
       "onboard_time": 1756861642,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 430492,
-      "num": 430492,
-      "word": "小学教师转岗教高中",
-      "onboard_time": 1758945019,
-      "rank": 5,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 430354,
@@ -17195,6 +17211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362139,
+      "num": 190927,
+      "word": "董璇张维伊婚礼照",
+      "onboard_time": 1758947660,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362087,
       "num": 362087,
       "word": "小S回应陈汉典lulu结婚",
@@ -19795,6 +19819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303708,
+      "num": 303708,
+      "word": "重庆两地发现上百株冥界之花",
+      "onboard_time": 1758947423,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303567,
       "num": 217499,
       "word": "月经提前vs月经推迟",
@@ -20297,6 +20329,14 @@
       "onboard_time": 1757737164,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294517,
+      "num": 164279,
+      "word": "黄磊11岁女儿身高",
+      "onboard_time": 1758948980,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 294490,
@@ -23241,6 +23281,14 @@
       "onboard_time": 1757803697,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249892,
+      "num": 249892,
+      "word": "一单位招50个事业编年薪60万起",
+      "onboard_time": 1758947840,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249832,
@@ -26337,14 +26385,6 @@
       "onboard_time": 1758255024,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216628,
-      "num": 203223,
-      "word": "张婧仪眉骨打伞",
-      "onboard_time": 1758947540,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216504,
@@ -31640,14 +31680,6 @@
       "word": "黄雅莉和她的十个勤天弟弟",
       "onboard_time": 1757402182,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 190927,
-      "num": 190927,
-      "word": "董璇张维伊婚礼照",
-      "onboard_time": 1758947660,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -40643,12 +40675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157500,
+      "num": 157500,
+      "word": "孟子义 大小姐归来",
+      "onboard_time": 1758949700,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157483,
       "num": 239730,
       "word": "张艺兴张艺谋合照",
       "onboard_time": 1757487862,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157464,
+      "num": 163914,
+      "word": "TF四代点名了",
+      "onboard_time": 1758949221,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 157415,
@@ -41417,14 +41465,6 @@
       "onboard_time": 1758796221,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155159,
-      "num": 155159,
-      "word": "重庆两地发现上百株冥界之花",
-      "onboard_time": 1758947423,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155154,
@@ -47779,8 +47819,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139200,
+      "num": 191896,
+      "word": "志愿军老兵参演电影志愿军3",
+      "onboard_time": 1758950180,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139199,
-      "num": 121776,
+      "num": 124118,
       "word": "网传光明接管后的上海学生餐",
       "onboard_time": 1758946520,
       "rank": 38,
@@ -48452,7 +48500,7 @@
     },
     {
       "raw_hot": 137588,
-      "num": 137588,
+      "num": 176812,
       "word": "花儿与少年",
       "onboard_time": 1757738846,
       "rank": 40,
@@ -49201,6 +49249,14 @@
       "onboard_time": 1757248582,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135897,
+      "num": 160427,
+      "word": "内娱终于又拍真实谍战了",
+      "onboard_time": 1758950420,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 135858,
@@ -51099,6 +51155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 131510,
+      "num": 131510,
+      "word": "彭昱畅这样帅得更清晰了",
+      "onboard_time": 1758949281,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131486,
       "num": 253942,
       "word": "娃哈哈将启用新品牌",
@@ -51633,6 +51697,14 @@
       "onboard_time": 1757147181,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130424,
+      "num": 130424,
+      "word": "陈伟霆许我耀眼造型",
+      "onboard_time": 1758949041,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 130421,
@@ -53995,6 +54067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125462,
+      "num": 159088,
+      "word": "黄磊说彩灯走了就剩下俩老登",
+      "onboard_time": 1758949160,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125459,
       "num": 125459,
       "word": "广州地铁回应台风天地铁停运问题",
@@ -56107,6 +56187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121194,
+      "num": 121194,
+      "word": "KT对战GEN",
+      "onboard_time": 1758950001,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121165,
       "num": 121165,
       "word": "每天喝第一杯咖啡的最佳时间",
@@ -58091,6 +58179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116800,
+      "num": 116800,
+      "word": "王者新英雄蚩奼",
+      "onboard_time": 1758949160,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116798,
       "num": 116798,
       "word": "当代人主打的就是一个全能在线",
@@ -59377,6 +59473,14 @@
       "onboard_time": 1758619401,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114195,
+      "num": 159029,
+      "word": "耿爽表示中方深表遗憾",
+      "onboard_time": 1758948920,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114156,
@@ -63353,6 +63457,14 @@
       "onboard_time": 1758530961,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105819,
+      "num": 105819,
+      "word": "时代少年团向着光的方向前行",
+      "onboard_time": 1758950361,
+      "rank": 41,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 105788,
@@ -67851,6 +67963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95432,
+      "num": 95432,
+      "word": "林更新两京十五日",
+      "onboard_time": 1758949700,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95386,
       "num": 95386,
       "word": "孙颖莎王楚钦热心公益",
@@ -68089,6 +68209,14 @@
       "onboard_time": 1757730682,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94742,
+      "num": 94742,
+      "word": "1年还清百万负债全家在杭州安家",
+      "onboard_time": 1758950240,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94738,
@@ -70041,6 +70169,14 @@
       "onboard_time": 1756714701,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88745,
+      "num": 88745,
+      "word": "小米之家零售系统崩了",
+      "onboard_time": 1758950540,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 88737,
@@ -75435,14 +75571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67018,
-      "num": 116527,
-      "word": "一单位招50个事业编年薪60万起",
-      "onboard_time": 1758947840,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67005,
       "num": 198867,
       "word": "男子应聘高薪司机却背上17万贷款",
@@ -79259,6 +79387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49394,
+      "num": 113710,
+      "word": "宋亚轩着魔的子弹十年后正中靶心",
+      "onboard_time": 1758949401,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49382,
       "num": 222439,
       "word": "上汽董事长被围堵狂赞",
@@ -82809,6 +82945,14 @@
       "onboard_time": 1757164822,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31988,
+      "num": 166073,
+      "word": "丁禹兮常华森鞠婧祎同框",
+      "onboard_time": 1758949460,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 31980,
