@@ -1,7 +1,15 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758929774256,
+  "endTime": 1758937522250,
   "band_list": [
+    {
+      "raw_hot": 1280831,
+      "num": 1280831,
+      "word": "警车在山姆购物确认为公车私用",
+      "onboard_time": 1758931700,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1161414,
       "num": 1161414,
@@ -28,10 +36,18 @@
     },
     {
       "raw_hot": 754707,
-      "num": 416130,
+      "num": 690492,
       "word": "男子胸前贴强奸犯被当街示众",
       "onboard_time": 1758898883,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 744539,
+      "num": 744539,
+      "word": "西贝回应一碗汤换顾客北京一套房",
+      "onboard_time": 1758929659,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -59,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434620,
-      "num": 405918,
+      "raw_hot": 449655,
+      "num": 449655,
       "word": "王玉雯下车门摔倒",
       "onboard_time": 1758896423,
       "rank": 6,
@@ -91,12 +107,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 363650,
+      "num": 363650,
+      "word": "李鸿其王紫璇牵手走红毯",
+      "onboard_time": 1758934159,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360712,
       "num": 360712,
       "word": "台湾是中国的一个省从不是一个国家",
       "onboard_time": 1758896004,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 350962,
+      "num": 190161,
+      "word": "鞠婧祎G社生图",
+      "onboard_time": 1758935060,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327833,
+      "num": 327833,
+      "word": "向往的生活设定",
+      "onboard_time": 1758930619,
+      "rank": 7,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 321452,
@@ -131,12 +171,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273330,
+      "num": 180735,
+      "word": "瘦了35斤后五官的变化",
+      "onboard_time": 1758929117,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 262216,
       "num": 262216,
       "word": "孕妇遭遇黑熊袭击装死逃过一劫",
       "onboard_time": 1758901161,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258779,
+      "num": 173034,
+      "word": "张召忠有新身份",
+      "onboard_time": 1758933140,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 249206,
+      "num": 249206,
+      "word": "彭昱畅 我哥哥彭于晏",
+      "onboard_time": 1758930619,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 224265,
@@ -153,6 +217,22 @@
       "onboard_time": 1758896481,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193478,
+      "num": 119999,
+      "word": "卢昱晓生日照",
+      "onboard_time": 1758936800,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190223,
+      "num": 190223,
+      "word": "陇西地震一人受伤已送医",
+      "onboard_time": 1758936200,
+      "rank": 11,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 190092,
@@ -180,11 +260,27 @@
     },
     {
       "raw_hot": 166209,
-      "num": 101939,
+      "num": 131868,
       "word": "刘宇宁衣服很贵多穿一会",
       "onboard_time": 1758898342,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158442,
+      "num": 153268,
+      "word": "建议在午睡前喝咖啡",
+      "onboard_time": 1758930439,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158138,
+      "num": 158138,
+      "word": "西安震感",
+      "onboard_time": 1758929659,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156393,
@@ -193,6 +289,22 @@
       "onboard_time": 1758928698,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 153138,
+      "num": 153138,
+      "word": "美国人对华印象把日本人整破防",
+      "onboard_time": 1758935180,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149021,
+      "num": 149021,
+      "word": "胖的人瘦下来肉都是从硬到软的",
+      "onboard_time": 1758929058,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148613,
@@ -219,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145416,
+      "num": 145416,
+      "word": "李沁生日照",
+      "onboard_time": 1758932300,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142080,
+      "num": 142080,
+      "word": "鞠婧祎幽蓝薄纱套装",
+      "onboard_time": 1758934399,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134920,
       "num": 100532,
       "word": "赵小童 我们宿舍的太牛了",
@@ -235,12 +363,52 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127057,
+      "num": 127057,
+      "word": "韩三星财团CJ会长找主播去秘密派对",
+      "onboard_time": 1758932900,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119959,
+      "num": 119959,
+      "word": "6个身体表现提示该吃肉了",
+      "onboard_time": 1758929299,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117330,
+      "num": 117330,
+      "word": "时隔7年刘涛又开客栈了",
+      "onboard_time": 1758931220,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112510,
       "num": 97826,
       "word": "辛芷蕾这一身王菲来了都得愣两秒",
       "onboard_time": 1758878900,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109865,
+      "num": 109865,
+      "word": "内塔尼亚胡要求与会者扫码",
+      "onboard_time": 1758935662,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100669,
+      "num": 100669,
+      "word": "马斯克出现在爱泼斯坦案文件中",
+      "onboard_time": 1758930619,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98923,
@@ -291,22 +459,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 96589,
-      "num": 96589,
-      "word": "瘦了35斤后五官的变化",
-      "onboard_time": 1758929117,
-      "rank": 21,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 95459,
-      "num": 95459,
-      "word": "胖的人瘦下来肉都是从硬到软的",
-      "onboard_time": 1758929058,
-      "rank": 22,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 94224,
       "num": 94224,
       "word": "宋亚轩一点没给李飞留面子",
@@ -347,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92775,
+      "num": 92775,
+      "word": "新小猫吊牌都没摘",
+      "onboard_time": 1758935180,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91003,
+      "num": 91003,
+      "word": "甘肃陇西5.6级地震有房屋倒塌",
+      "onboard_time": 1758930799,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 89071,
       "num": 89071,
       "word": "资产上亿女老板疑被骗泰国最新进展",
@@ -363,20 +531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86693,
+      "num": 86693,
+      "word": "王暖暖回应俞某冬出庭态度",
+      "onboard_time": 1758935841,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82324,
       "num": 82324,
       "word": "有助于睡眠的四大类食物",
       "onboard_time": 1758929299,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 81221,
-      "num": 81221,
-      "word": "西安震感",
-      "onboard_time": 1758929659,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80562,
@@ -387,12 +555,60 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79011,
+      "num": 79011,
+      "word": "穆塞蒂",
+      "onboard_time": 1758936800,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78924,
+      "num": 78924,
+      "word": "WBG无缘S15",
+      "onboard_time": 1758934281,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 77099,
+      "num": 77099,
+      "word": "丁禹兮范思哲看秀造型",
+      "onboard_time": 1758930619,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75953,
       "num": 86655,
       "word": "张婧仪骨相",
       "onboard_time": 1758888260,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75694,
+      "num": 78456,
+      "word": "内塔尼亚胡联合国大会上公然撒谎",
+      "onboard_time": 1758936200,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 75156,
+      "num": 75156,
+      "word": "张继科晒马龙亲签球拍",
+      "onboard_time": 1758929238,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74926,
+      "num": 74220,
+      "word": "小狗见到儿时玩伴小老虎紧急撤回",
+      "onboard_time": 1758934399,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 74890,
@@ -403,20 +619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73528,
-      "num": 73528,
-      "word": "6个身体表现提示该吃肉了",
-      "onboard_time": 1758929299,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 74299,
+      "num": 74299,
+      "word": "国庆假期倒计时4天",
+      "onboard_time": 1758935598,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 73213,
-      "num": 73213,
-      "word": "张继科晒马龙亲签球拍",
-      "onboard_time": 1758929238,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 73027,
+      "num": 73027,
+      "word": "iG全神班生死战",
+      "onboard_time": 1758934399,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 72722,
@@ -513,14 +729,6 @@
       "onboard_time": 1758890841,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52467,
-      "num": 52467,
-      "word": "西贝回应一碗汤换顾客北京一套房",
-      "onboard_time": 1758929659,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51498,
@@ -724,7 +932,7 @@
     },
     {
       "raw_hot": 13509,
-      "num": 424831,
+      "num": 694624,
       "word": "国庆假期带特产上飞机要注意啥",
       "onboard_time": 1758871222,
       "rank": 2,

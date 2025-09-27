@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 07:36:14
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 09:45:22
 </p>
 </blockquote>
 <p>
@@ -2225,6 +2225,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E9%A3%9E%E5%8D%87%23" target="weibo">
 辛芷蕾 飞升（热度：1285334）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E8%BD%A6%E5%9C%A8%E5%B1%B1%E5%A7%86%E8%B4%AD%E7%89%A9%E7%A1%AE%E8%AE%A4%E4%B8%BA%E5%85%AC%E8%BD%A6%E7%A7%81%E7%94%A8%23" target="weibo">
+警车在山姆购物确认为公车私用（热度：1280831）
 </a>
 </li>
 
@@ -5463,6 +5469,12 @@ BLG对战TES（热度：746464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%9B%9E%E5%BA%94%E4%B8%80%E7%A2%97%E6%B1%A4%E6%8D%A2%E9%A1%BE%E5%AE%A2%E5%8C%97%E4%BA%AC%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
+西贝回应一碗汤换顾客北京一套房（热度：744539）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E4%B8%93%E5%AE%B6%E6%AD%A3%E6%B8%85%E7%90%86%E7%83%9F%E8%8A%B1%E7%A7%80%E7%8E%B0%E5%9C%BA%E7%B4%AB%E9%93%9C%E7%AD%89%E7%89%A9%23" target="weibo">
 环保专家正清理烟花秀现场紫铜等物（热度：744319）
 </a>
@@ -5999,18 +6011,6 @@ AG对战WB（热度：703400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%A5%BF%E4%B9%9D%E9%BE%99%E9%87%8D%E6%A1%88%E7%BB%84%23" target="weibo">
 香港西九龙重案组（热度：695669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9F%E5%BE%85%E4%B8%8B%E6%AC%A1%E9%98%85%E5%85%B5%E4%BA%86%23" target="weibo">
-期待下次阅兵了（热度：695555）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E8%BE%9F%E8%B0%A3%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%81%8B%E6%83%85%23" target="weibo">
-刘宇宁直播辟谣与经纪人恋情（热度：694328）
 </a>
 </li>
 
