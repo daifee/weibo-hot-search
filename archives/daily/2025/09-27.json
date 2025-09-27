@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758954747643,
+  "endTime": 1758955470047,
   "band_list": [
     {
       "raw_hot": 1619192,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1032960,
-      "num": 186799,
+      "num": 208408,
       "word": "朵朵和陈思诚一模一样",
       "onboard_time": 1758951560,
       "rank": 10,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 394462,
-      "num": 168719,
+      "num": 204218,
       "word": "李现关晓彤 霸总和大小姐",
       "onboard_time": 1758952941,
       "rank": 20,
@@ -227,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 391127,
+      "num": 207417,
+      "word": "小酒窝给张维伊董璇当花童",
+      "onboard_time": 1758954980,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381537,
       "num": 222128,
       "word": "董璇张维伊婚礼照",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 362115,
-      "num": 208076,
+      "num": 210980,
       "word": "谢娜没想到一个节目愿意只拍她回家",
       "onboard_time": 1758952100,
       "rank": 5,
@@ -289,6 +297,14 @@
       "onboard_time": 1758930619,
       "rank": 7,
       "category": "动漫,剧集"
+    },
+    {
+      "raw_hot": 325343,
+      "num": 210176,
+      "word": "毛不易你火成我不认识的样子了",
+      "onboard_time": 1758952160,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 322046,
@@ -347,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283999,
-      "num": 205410,
-      "word": "毛不易你火成我不认识的样子了",
-      "onboard_time": 1758952160,
-      "rank": 6,
-      "category": "演出"
+      "raw_hot": 282415,
+      "num": 209777,
+      "word": "万千惠彻查公司前五年账本",
+      "onboard_time": 1758953301,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 281453,
@@ -548,19 +564,11 @@
     },
     {
       "raw_hot": 190092,
-      "num": 201675,
+      "num": 208977,
       "word": "甘肃陇西县5.6级地震",
       "onboard_time": 1758928278,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 189979,
-      "num": 189979,
-      "word": "万千惠彻查公司前五年账本",
-      "onboard_time": 1758953301,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 183779,
@@ -619,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165358,
+      "num": 172246,
+      "word": "戴向宇卖房结婚",
+      "onboard_time": 1758954019,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163975,
       "num": 163975,
       "word": "王嘉尔我那出国的白月光何时回国",
@@ -641,6 +657,14 @@
       "onboard_time": 1758942800,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160145,
+      "num": 160145,
+      "word": "宋轶太撩人了",
+      "onboard_time": 1758954500,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 158442,
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 125842,
-      "num": 125842,
+      "num": 134395,
       "word": "孙天宇 蒋易这是点我呢",
       "onboard_time": 1758954141,
       "rank": 35,
@@ -1011,12 +1035,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116781,
+      "num": 142181,
+      "word": "聂远女儿提到王安宇秒变夹子音",
+      "onboard_time": 1758953901,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116305,
       "num": 116305,
       "word": "鞠婧祎闪光灯下表情管理",
       "onboard_time": 1758947479,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113650,
+      "num": 113650,
+      "word": "斯瓦泰克首盘送蛋",
+      "onboard_time": 1758954801,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 112510,
@@ -1051,6 +1091,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 108246,
+      "num": 108246,
+      "word": "刘宇宁演唱会不是秒没是半秒没",
+      "onboard_time": 1758954861,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107393,
       "num": 107393,
       "word": "还有4天国庆",
@@ -1083,19 +1131,19 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 103595,
+      "num": 103595,
+      "word": "这居然是陆柯燃",
+      "onboard_time": 1758955400,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102561,
       "num": 102561,
       "word": "王一博太撩人了",
       "onboard_time": 1758942379,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101833,
-      "num": 101833,
-      "word": "宋轶太撩人了",
-      "onboard_time": 1758954500,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1163,6 +1211,22 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 96909,
+      "num": 94646,
+      "word": "男女相恋6年分手后变成室友",
+      "onboard_time": 1758955223,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95922,
+      "num": 95922,
+      "word": "马斯克父亲涉嫌性虐待",
+      "onboard_time": 1758954980,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95518,
       "num": 95518,
       "word": "张召忠谈九三阅兵",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1758950540,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95009,
-      "num": 172246,
-      "word": "戴向宇卖房结婚",
-      "onboard_time": 1758954019,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 94772,
@@ -1395,14 +1451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80454,
-      "num": 142181,
-      "word": "聂远女儿提到王安宇秒变夹子音",
-      "onboard_time": 1758953901,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 80392,
       "num": 80392,
       "word": "马斯克回应出现在爱泼斯坦相关文件",
@@ -1460,7 +1508,7 @@
     },
     {
       "raw_hot": 73532,
-      "num": 176326,
+      "num": 205395,
       "word": "美团闪购让我秒提YU7",
       "onboard_time": 1758953119,
       "rank": 16,
@@ -1595,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59351,
+      "num": 108261,
+      "word": "员工请假1天照顾尿毒症母亲被辞退",
+      "onboard_time": 1758954980,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58589,
       "num": 696078,
       "word": "你没想到的新疆",
@@ -1651,12 +1707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50528,
+      "num": 204969,
+      "word": "快递集体涨价",
+      "onboard_time": 1758955160,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49394,
       "num": 113710,
       "word": "宋亚轩着魔的子弹十年后正中靶心",
       "onboard_time": 1758949401,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48519,
+      "num": 130351,
+      "word": "沈腾这下是怎么也洗不清了",
+      "onboard_time": 1758954380,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 47231,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1758902362,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40417,
+      "num": 173493,
+      "word": "杨瀚森说开拓者对我意义非凡",
+      "onboard_time": 1758953720,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 40316,
@@ -1747,8 +1827,16 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 36178,
+      "num": 120242,
+      "word": "辛芷蕾 白跟你们拜拜了",
+      "onboard_time": 1758954321,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36026,
-      "num": 170925,
+      "num": 204825,
       "word": "GUCCI全新系列竟然这么快能买到",
       "onboard_time": 1758953119,
       "rank": 19,
@@ -1769,14 +1857,6 @@
       "onboard_time": 1758907038,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33008,
-      "num": 120242,
-      "word": "辛芷蕾 白跟你们拜拜了",
-      "onboard_time": 1758954321,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 32182,
@@ -1827,14 +1907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 25491,
-      "num": 119544,
-      "word": "沈腾这下是怎么也洗不清了",
-      "onboard_time": 1758954380,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 24635,
       "num": 69081,
       "word": "官方回应女院长在老人面前热舞",
@@ -1843,16 +1915,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24587,
-      "num": 173493,
-      "word": "杨瀚森说开拓者对我意义非凡",
-      "onboard_time": 1758953720,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24088,
-      "num": 179135,
+      "num": 206802,
       "word": "微博篮球之夜全阵容",
       "onboard_time": 1758952941,
       "rank": 14,
