@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 06:21:38
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 06:38:21
 </p>
 </blockquote>
 <p>
@@ -159,14 +159,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CJDG%23" target="weibo">
-iG战胜JDG（热度：178046）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%85%A5%E6%94%AF%E4%BB%98%E5%AE%9D%E5%92%8C%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
+韩国外卖平台接入支付宝和微信支付（热度：189844）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%85%A5%E6%94%AF%E4%BB%98%E5%AE%9D%E5%92%8C%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
-韩国外卖平台接入支付宝和微信支付（热度：173044）
+<a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CJDG%23" target="weibo">
+iG战胜JDG（热度：178046）
 </a>
 </li>
 
@@ -351,14 +351,14 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A4%A7%E5%90%88%E5%94%B1%23" target="weibo">
-毛不易大合唱（热度：59725）
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5%E7%9A%84%E5%85%B3%E9%94%AE%23" target="weibo">
+健康减肥的关键（热度：61573）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5%E7%9A%84%E5%85%B3%E9%94%AE%23" target="weibo">
-健康减肥的关键（热度：58252）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A4%A7%E5%90%88%E5%94%B1%23" target="weibo">
+毛不易大合唱（热度：59725）
 </a>
 </li>
 
@@ -381,20 +381,44 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%9A%E7%BD%97%E4%BE%9D%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E6%9D%A5%E4%BA%86%23" target="weibo">
+台风博罗依最新路径来了（热度：34897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%8D%E6%89%AB%E5%85%B4%E7%9A%84%E7%88%B6%E6%AF%8D%E9%83%BD%E6%8B%A5%E6%9C%89%E5%AD%A9%E5%AD%90%E8%A7%86%E8%A7%92%23" target="weibo">
 原来不扫兴的父母都拥有孩子视角（热度：33617）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B0%86%E5%94%B1%E5%93%8D%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2%E6%95%85%E4%B9%A1%E7%9A%84%E4%BA%91%23" target="weibo">
-周深将唱响经典歌曲故乡的云（热度：26728）
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87%23" target="weibo">
+鹿晗新加坡演唱会上座率（热度：31061）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E6%8A%97%E8%AE%AE%E8%80%85%E9%B8%A3%E7%AC%9B%E4%B8%8D%E8%AE%A9%E4%BB%A5%E6%80%BB%E7%90%86%E7%9D%A1%E8%A7%89%23" target="weibo">
+纽约抗议者鸣笛不让以总理睡觉（热度：28131）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%8F%B0%E9%A3%8E%E4%B8%80%E4%B8%AA%E6%8E%A5%E4%B8%80%E4%B8%AA%23" target="weibo">
+广东的台风一个接一个（热度：27882）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%B7%B3angel%E8%88%9E%E4%BA%86%23" target="weibo">
-章若楠跳angel舞了（热度：26068）
+章若楠跳angel舞了（热度：27086）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B0%86%E5%94%B1%E5%93%8D%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2%E6%95%85%E4%B9%A1%E7%9A%84%E4%BA%91%23" target="weibo">
+周深将唱响经典歌曲故乡的云（热度：26728）
 </a>
 </li>
 
@@ -429,26 +453,8 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87%23" target="weibo">
-鹿晗新加坡演唱会上座率（热度：23316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%9A%E7%BD%97%E4%BE%9D%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E6%9D%A5%E4%BA%86%23" target="weibo">
-台风博罗依最新路径来了（热度：23295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E6%8A%97%E8%AE%AE%E8%80%85%E9%B8%A3%E7%AC%9B%E4%B8%8D%E8%AE%A9%E4%BB%A5%E6%80%BB%E7%90%86%E7%9D%A1%E8%A7%89%23" target="weibo">
-纽约抗议者鸣笛不让以总理睡觉（热度：23129）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%AE%E8%80%81%E4%BA%BA%E6%94%B6%E5%AE%8C%E7%8E%89%E7%B1%B3%E5%B0%B1%E8%B7%91%23" target="weibo">
-00后女大学生帮老人收完玉米就跑（热度：21540）
+00后女大学生帮老人收完玉米就跑（热度：22473）
 </a>
 </li>
 
@@ -465,8 +471,8 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%8F%B0%E9%A3%8E%E4%B8%80%E4%B8%AA%E6%8E%A5%E4%B8%80%E4%B8%AA%23" target="weibo">
-广东的台风一个接一个（热度：19079）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%8135%E5%B2%81%E7%94%9F%E6%97%A5%E5%8F%91%E6%96%87%23" target="weibo">
+李沁35岁生日发文（热度：20132）
 </a>
 </li>
 
