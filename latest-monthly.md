@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 22:37:38
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 23:22:35
 </p>
 </blockquote>
 <p>
@@ -4185,6 +4185,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2SDG%E5%A4%BA%E5%86%A0%23" target="weibo">
+时代少年团SDG夺冠（热度：882948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%97%AE%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%BA%A7%E6%A4%85%E6%A0%87%E7%AD%BE%E4%BA%8B%E4%BB%B6%23" target="weibo">
 三问武汉大学座椅标签事件（热度：882288）
 </a>
@@ -5361,6 +5367,12 @@ iPhone17Promini首曝（热度：777010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%9A%84%E5%BF%83%E7%8E%87%23" target="weibo">
+马嘉祺的心率（热度：765286）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BD%A0%E7%9A%84%E5%A7%94%E5%B1%88%E6%88%91%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89%23" target="weibo">
 王鹤棣你的委屈我后知后觉（热度：765155）
 </a>
@@ -5999,18 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%A5%BF%E8%B4%9D%E4%B9%8B%E4%BA%89%E6%98%AF%E4%B8%80%E5%9C%BA%E4%BF%A1%E4%BB%BB%E5%83%B5%E5%B1%80%23" target="weibo">
 罗永浩西贝之争是一场信任僵局（热度：706483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E8%AF%B4%E7%9B%AE%E5%89%8D%E6%B2%A1%E4%BA%BA%E9%85%8D%E5%BE%97%E4%B8%8A%E6%88%91%23" target="weibo">
-周扬青说目前没人配得上我（热度：706451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%8C%E7%8E%AF%E5%86%85%E7%9A%84%E7%8B%AC%E6%A0%8B%E5%88%AB%E5%A2%85%23" target="weibo">
-北京二环内的独栋别墅（热度：706439）
 </a>
 </li>
 
