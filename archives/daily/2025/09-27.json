@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758957653533,
+  "endTime": 1758958576414,
   "band_list": [
     {
       "raw_hot": 1619192,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 489838,
-      "num": 251396,
+      "num": 281748,
       "word": "这居然是陆柯燃",
       "onboard_time": 1758955400,
       "rank": 42,
@@ -251,8 +251,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362183,
+      "num": 209084,
+      "word": "龚俊 小沁陪我",
+      "onboard_time": 1758955519,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362115,
-      "num": 248663,
+      "num": 276178,
       "word": "谢娜没想到一个节目愿意只拍她回家",
       "onboard_time": 1758952100,
       "rank": 5,
@@ -355,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295741,
+      "num": 295741,
+      "word": "王者荣耀",
+      "onboard_time": 1758956720,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289834,
       "num": 234392,
       "word": "张召忠有新身份",
       "onboard_time": 1758933140,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 285506,
+      "num": 225881,
+      "word": "男女相恋6年分手后变成室友",
+      "onboard_time": 1758955223,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284132,
@@ -451,14 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 250850,
-      "num": 250850,
-      "word": "王者荣耀",
-      "onboard_time": 1758956720,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 249206,
       "num": 249206,
       "word": "彭昱畅 我哥哥彭于晏",
@@ -481,22 +497,6 @@
       "onboard_time": 1758930619,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 229407,
-      "num": 209084,
-      "word": "龚俊 小沁陪我",
-      "onboard_time": 1758955519,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 225881,
-      "num": 225881,
-      "word": "男女相恋6年分手后变成室友",
-      "onboard_time": 1758955223,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224265,
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173424,
+      "num": 163345,
+      "word": "敬战至巅峰并肩作战的我们",
+      "onboard_time": 1758955820,
+      "rank": 28,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 171711,
       "num": 194570,
       "word": "向往的生活新增常驻嘉宾",
@@ -699,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164042,
+      "num": 201605,
+      "word": "第一视角看神二十乘组出舱",
+      "onboard_time": 1758956599,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 163975,
       "num": 163975,
       "word": "王嘉尔我那出国的白月光何时回国",
@@ -713,6 +729,14 @@
       "onboard_time": 1758941660,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161358,
+      "num": 161358,
+      "word": "奉劝大家少穿洞洞鞋和高跟鞋",
+      "onboard_time": 1758957620,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 160723,
@@ -771,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156748,
+      "num": 156748,
+      "word": "对金软细银有了更深刻的理解",
+      "onboard_time": 1758956720,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156393,
       "num": 156393,
       "word": "甘肃定西40分钟连震4次",
@@ -779,28 +811,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 154171,
-      "num": 154171,
-      "word": "对金软细银有了更深刻的理解",
-      "onboard_time": 1758956720,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153138,
       "num": 153138,
       "word": "美国人对华印象把日本人整破防",
       "onboard_time": 1758935180,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 150835,
-      "num": 201605,
-      "word": "第一视角看神二十乘组出舱",
-      "onboard_time": 1758956599,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149021,
@@ -825,14 +841,6 @@
       "onboard_time": 1758935662,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146669,
-      "num": 146669,
-      "word": "敬战至巅峰并肩作战的我们",
-      "onboard_time": 1758955820,
-      "rank": 28,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 146306,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1758937640,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127736,
+      "num": 127736,
+      "word": "战至巅峰4赛前快闪直播",
+      "onboard_time": 1758958280,
+      "rank": 27,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 127226,
@@ -1251,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100456,
+      "num": 100456,
+      "word": "张佳宁新剧气血充足的美",
+      "onboard_time": 1758957320,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99177,
       "num": 99177,
       "word": "群名就叫宝宝爸士吧",
@@ -1299,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97679,
+      "num": 118534,
+      "word": "员工请假1天照顾尿毒症母亲被辞退",
+      "onboard_time": 1758954980,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97269,
       "num": 97269,
       "word": "张婧仪第二套G社生图",
@@ -1315,12 +1347,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 95922,
-      "num": 95922,
+      "raw_hot": 96474,
+      "num": 96474,
       "word": "马斯克父亲涉嫌性虐待",
       "onboard_time": 1758954980,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96071,
+      "num": 96071,
+      "word": "张雨绮这仪态赢麻了",
+      "onboard_time": 1758958100,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 95518,
@@ -1419,14 +1459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93246,
-      "num": 92437,
-      "word": "奉劝大家少穿洞洞鞋和高跟鞋",
-      "onboard_time": 1758957620,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 92775,
       "num": 92775,
       "word": "新小猫吊牌都没摘",
@@ -1435,12 +1467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92583,
-      "num": 92583,
-      "word": "张佳宁新剧气血充足的美",
-      "onboard_time": 1758957320,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 92712,
+      "num": 92712,
+      "word": "欧洲多国告知俄准备击落俄军机",
+      "onboard_time": 1758958161,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91048,
@@ -1531,6 +1563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84523,
+      "num": 84523,
+      "word": "陈星旭大只且没脾气",
+      "onboard_time": 1758957980,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84412,
       "num": 84412,
       "word": "国庆假期倒计时4天",
@@ -1571,6 +1611,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80375,
+      "num": 80375,
+      "word": "颜安 民宿你不干我干",
+      "onboard_time": 1758957860,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79747,
+      "num": 79747,
+      "word": "孙颖莎中国大满贯训练",
+      "onboard_time": 1758957860,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78947,
       "num": 78947,
       "word": "和妈妈聊天胜过所有心理医生",
@@ -1585,6 +1641,14 @@
       "onboard_time": 1758934281,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78218,
+      "num": 78218,
+      "word": "现货黄金一路猛涨",
+      "onboard_time": 1758958520,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 75953,
@@ -1755,14 +1819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 59351,
-      "num": 108261,
-      "word": "员工请假1天照顾尿毒症母亲被辞退",
-      "onboard_time": 1758954980,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58589,
       "num": 696078,
       "word": "你没想到的新疆",
@@ -1851,20 +1907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48848,
+      "num": 109577,
+      "word": "西贝 意林体公关",
+      "onboard_time": 1758957440,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48519,
       "num": 130351,
       "word": "沈腾这下是怎么也洗不清了",
       "onboard_time": 1758954380,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 47731,
-      "num": 109577,
-      "word": "西贝 意林体公关",
-      "onboard_time": 1758957440,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47231,
