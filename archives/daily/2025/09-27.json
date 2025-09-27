@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758971927218,
+  "endTime": 1758972992161,
   "band_list": [
     {
       "raw_hot": 1808371,
@@ -51,7 +51,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1051192,
+      "raw_hot": 1153008,
       "num": 1168190,
       "word": "公司反手取消14天年假",
       "onboard_time": 1758968780,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1032960,
-      "num": 230702,
+      "num": 250937,
       "word": "朵朵和陈思诚一模一样",
       "onboard_time": 1758951560,
       "rank": 10,
@@ -88,6 +88,14 @@
       "word": "西贝回应一碗汤换顾客北京一套房",
       "onboard_time": 1758929659,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 986392,
+      "num": 1157822,
+      "word": "爬泰山失联28岁男子已遇难",
+      "onboard_time": 1758968961,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -121,14 +129,6 @@
       "onboard_time": 1758896183,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 813569,
-      "num": 813569,
-      "word": "爬泰山失联28岁男子已遇难",
-      "onboard_time": 1758968961,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 771417,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 578281,
-      "num": 230952,
+      "num": 283995,
       "word": "孟子义增肥了快十斤",
       "onboard_time": 1758958580,
       "rank": 11,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 458210,
-      "num": 231028,
+      "num": 285034,
       "word": "张凌赫请粉丝吃了一天饭",
       "onboard_time": 1758969141,
       "rank": 9,
@@ -313,6 +313,14 @@
       "onboard_time": 1758945019,
       "rank": 5,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 439349,
+      "num": 341218,
+      "word": "董璇说结完婚该要孩子了吧",
+      "onboard_time": 1758966863,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 439264,
@@ -515,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291636,
+      "num": 291636,
+      "word": "月子公司称给婴儿勺子喂奶正常",
+      "onboard_time": 1758969439,
+      "rank": 38,
+      "category": "舆论监督,母婴育儿"
+    },
+    {
       "raw_hot": 289834,
       "num": 234392,
       "word": "张召忠有新身份",
@@ -667,14 +683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 231464,
-      "num": 231464,
-      "word": "董璇说结完婚该要孩子了吧",
-      "onboard_time": 1758966863,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224265,
       "num": 224265,
       "word": "汪苏泷怎么来观众席唱了",
@@ -683,12 +691,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 223573,
+      "num": 181508,
+      "word": "王安宇大大方方的回应",
+      "onboard_time": 1758971541,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218389,
       "num": 218389,
       "word": "陇西地震亲历者称像有人使劲摇床",
       "onboard_time": 1758937640,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213957,
+      "num": 213957,
+      "word": "李沁确定不是18岁么",
+      "onboard_time": 1758966981,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 213117,
@@ -779,6 +803,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 193907,
+      "num": 193907,
+      "word": "贺峻霖参团率100%",
+      "onboard_time": 1758972441,
+      "rank": 16,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 193643,
       "num": 193643,
       "word": "剧本都写不出王琳莫斯科这幕",
@@ -803,14 +835,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 185969,
-      "num": 185969,
-      "word": "月子公司称给婴儿勺子喂奶正常",
-      "onboard_time": 1758969439,
-      "rank": 38,
-      "category": "舆论监督,母婴育儿"
-    },
-    {
       "raw_hot": 183779,
       "num": 183779,
       "word": "魅影神捕官宣杀青",
@@ -827,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182432,
+      "num": 182432,
+      "word": "脑梗的根本原因不是大鱼大肉",
+      "onboard_time": 1758967281,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 182140,
       "num": 182140,
       "word": "舒淇 女孩",
@@ -835,12 +867,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 177422,
-      "num": 177422,
-      "word": "李沁确定不是18岁么",
-      "onboard_time": 1758966981,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 181388,
+      "num": 181388,
+      "word": "MVP张真源",
+      "onboard_time": 1758972019,
+      "rank": 24,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 179837,
+      "num": 179837,
+      "word": "连续吃6个月水煮菜胰腺坏死了",
+      "onboard_time": 1758972019,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176131,
@@ -897,14 +937,6 @@
       "onboard_time": 1758946640,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166726,
-      "num": 166726,
-      "word": "脑梗的根本原因不是大鱼大肉",
-      "onboard_time": 1758967281,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 166209,
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 159394,
-      "num": 159394,
+      "num": 285593,
       "word": "别让百亿补贴补出白色污染",
       "onboard_time": 1758953421,
       "rank": 49,
@@ -1027,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157115,
-      "num": 157115,
-      "word": "王安宇大大方方的回应",
-      "onboard_time": 1758971541,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 156748,
       "num": 156748,
       "word": "对金软细银有了更深刻的理解",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1758935180,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152085,
+      "num": 152085,
+      "word": "陈数在花少越来越明媚了",
+      "onboard_time": 1758972320,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 151083,
@@ -1203,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138628,
+      "num": 138628,
+      "word": "莫雷加德为郑钦文挑边",
+      "onboard_time": 1758970761,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138110,
       "num": 138110,
       "word": "邵子恒 我演得像流氓吗",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1758955160,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136949,
+      "num": 136949,
+      "word": "朱一龙想为妹妹李晓擦泪",
+      "onboard_time": 1758971841,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 136907,
@@ -1507,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117708,
-      "num": 117708,
-      "word": "莫雷加德为郑钦文挑边",
-      "onboard_time": 1758970761,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117330,
       "num": 117330,
       "word": "时隔7年刘涛又开客栈了",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1758947479,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114537,
+      "num": 114537,
+      "word": "成毅黑白切阴湿感",
+      "onboard_time": 1758972379,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 113693,
@@ -1595,20 +1643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111949,
-      "num": 111949,
-      "word": "朱一龙想为妹妹李晓擦泪",
-      "onboard_time": 1758971841,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 111696,
       "num": 121459,
       "word": "鸡排哥 这是我唯一的老婆",
       "onboard_time": 1758964761,
       "rank": 38,
       "category": "网红,网红"
+    },
+    {
+      "raw_hot": 109819,
+      "num": 109819,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1758969739,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 109252,
@@ -1713,6 +1761,22 @@
       "onboard_time": 1758956840,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101526,
+      "num": 101526,
+      "word": "做一次CT对身体的伤害有多大",
+      "onboard_time": 1758971661,
+      "rank": 46,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 101376,
+      "num": 101376,
+      "word": "彭高是土象天菜吧",
+      "onboard_time": 1758972561,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 101085,
@@ -1987,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91013,
+      "num": 91013,
+      "word": "营收过亿的娃哈哈上海工厂面临关停",
+      "onboard_time": 1758972801,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91003,
       "num": 91003,
       "word": "甘肃陇西5.6级地震有房屋倒塌",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1758945800,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89385,
-      "num": 89385,
-      "word": "做一次CT对身体的伤害有多大",
-      "onboard_time": 1758971661,
-      "rank": 46,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 89320,
@@ -2155,12 +2219,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 82459,
+      "num": 102768,
+      "word": "乐山商业银行被骗贷33亿",
+      "onboard_time": 1758970820,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82324,
       "num": 82324,
       "word": "有助于睡眠的四大类食物",
       "onboard_time": 1758929299,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81951,
+      "num": 182188,
+      "word": "公司回应补班被举报后取消额外假",
+      "onboard_time": 1758971900,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81350,
@@ -2249,14 +2329,6 @@
       "onboard_time": 1758958520,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 77690,
-      "num": 102768,
-      "word": "乐山商业银行被骗贷33亿",
-      "onboard_time": 1758970820,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75953,
@@ -2369,6 +2441,14 @@
       "onboard_time": 1758884360,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64864,
+      "num": 115068,
+      "word": "至境L7MomentaR6首发上路",
+      "onboard_time": 1758972501,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 64046,
@@ -2539,14 +2619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49575,
-      "num": 103522,
-      "word": "公司回应补班被举报后取消额外假",
-      "onboard_time": 1758971900,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49394,
       "num": 113710,
       "word": "宋亚轩着魔的子弹十年后正中靶心",
@@ -2627,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41129,
+      "num": 114598,
+      "word": "快递涨价60天有网点月入多100万",
+      "onboard_time": 1758972019,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40995,
       "num": 120076,
       "word": "快递涨价后能送上门吗",
@@ -2697,6 +2777,14 @@
       "onboard_time": 1758899363,
       "rank": 40,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 36560,
+      "num": 182368,
+      "word": "天马山车神挑战赛",
+      "onboard_time": 1758971781,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 36178,
@@ -2905,14 +2993,6 @@
       "onboard_time": 1758871222,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12795,
-      "num": 141897,
-      "word": "天马山车神挑战赛",
-      "onboard_time": 1758971781,
-      "rank": 25,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
