@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 21:26:01
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/27 21:37:40
 </p>
 </blockquote>
 <p>
@@ -2649,6 +2649,12 @@ iG对战JDG（热度：1213529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%8A%A0%E5%9D%A1%23" target="weibo">
+鹿晗新加坡（热度：1181548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E4%B8%AD%E4%BC%A0%E6%88%90%E5%8A%9F%E4%BF%9D%E7%A0%94%23" target="weibo">
 贺峻霖中传成功保研（热度：1181514）
 </a>
@@ -3017,12 +3023,6 @@ wtt（热度：1154727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%86%B7%E5%86%BB%E8%94%AC%E8%8F%9C%E8%A2%AB%E8%AF%AF%E4%BC%9A%E4%BA%86%23" target="weibo">
 西贝冷冻蔬菜被误会了（热度：1080283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%8A%A0%E5%9D%A1%23" target="weibo">
-鹿晗新加坡（热度：1075283）
 </a>
 </li>
 

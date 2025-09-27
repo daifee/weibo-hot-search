@@ -1,6 +1,6 @@
 {
   "startTime": 1758904268285,
-  "endTime": 1758979561131,
+  "endTime": 1758980260144,
   "band_list": [
     {
       "raw_hot": 2040550,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1381218,
-      "num": 187142,
+      "num": 235775,
       "word": "张维伊把婚房订成了三人间",
       "onboard_time": 1758965180,
       "rank": 6,
@@ -59,6 +59,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1181548,
+      "num": 554462,
+      "word": "鹿晗新加坡",
+      "onboard_time": 1758974001,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1161414,
       "num": 1161414,
       "word": "甘肃陇西地震",
@@ -73,14 +81,6 @@
       "onboard_time": 1758968780,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1075283,
-      "num": 554462,
-      "word": "鹿晗新加坡",
-      "onboard_time": 1758974001,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 1047134,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 648929,
-      "num": 182703,
+      "num": 229291,
       "word": "孙怡因染发导致脸肿",
       "onboard_time": 1758965662,
       "rank": 32,
@@ -345,6 +345,14 @@
       "onboard_time": 1758896423,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471258,
+      "num": 362662,
+      "word": "许我耀眼",
+      "onboard_time": 1758980002,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 458210,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354540,
+      "num": 354540,
+      "word": "刘萧旭女友正脸",
+      "onboard_time": 1758977842,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343871,
       "num": 343871,
       "word": "重庆两地发现上百株冥界之花",
@@ -651,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279032,
+      "num": 363169,
+      "word": "苏超",
+      "onboard_time": 1758969739,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278250,
       "num": 242139,
       "word": "华南理工",
@@ -673,6 +697,14 @@
       "onboard_time": 1758929117,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 266396,
+      "num": 266396,
+      "word": "iG对战JDG 谁在哭",
+      "onboard_time": 1758979041,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 263148,
@@ -739,12 +771,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243925,
-      "num": 243925,
-      "word": "刘萧旭女友正脸",
-      "onboard_time": 1758977842,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 247065,
+      "num": 226988,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1758969739,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 246399,
+      "num": 246399,
+      "word": "刘宇宁张艺兴隔空对唱",
+      "onboard_time": 1758979280,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 239727,
@@ -761,6 +801,22 @@
       "onboard_time": 1758930619,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 226182,
+      "num": 226182,
+      "word": "鹿晗的海外人气",
+      "onboard_time": 1758978681,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 224399,
+      "num": 224399,
+      "word": "久哲战队",
+      "onboard_time": 1758978441,
+      "rank": 34,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 224265,
@@ -788,7 +844,7 @@
     },
     {
       "raw_hot": 215556,
-      "num": 168490,
+      "num": 176926,
       "word": "管泽元这招太狠了",
       "onboard_time": 1758977963,
       "rank": 31,
@@ -809,14 +865,6 @@
       "onboard_time": 1758947180,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 212874,
-      "num": 168995,
-      "word": "长期不换各种社交头像",
-      "onboard_time": 1758969739,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 211533,
@@ -867,28 +915,12 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 201871,
-      "num": 201871,
-      "word": "iG对战JDG 谁在哭",
-      "onboard_time": 1758979041,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 201269,
       "num": 201269,
       "word": "以闪亮之名",
       "onboard_time": 1758946760,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201134,
-      "num": 201134,
-      "word": "鹿晗的海外人气",
-      "onboard_time": 1758978681,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 199779,
@@ -939,12 +971,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192360,
-      "num": 168861,
-      "word": "刘宇宁张艺兴隔空对唱",
-      "onboard_time": 1758979280,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 191421,
+      "num": 191421,
+      "word": "哥嫂欠178万未还清嫂子杀死小叔",
+      "onboard_time": 1758974961,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190223,
@@ -963,20 +995,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 188696,
-      "num": 188696,
+      "raw_hot": 189558,
+      "num": 244573,
       "word": "LPL出征S15的四支队伍",
       "onboard_time": 1758978320,
       "rank": 15,
       "category": "电竞"
     },
     {
-      "raw_hot": 186926,
-      "num": 168726,
-      "word": "哥嫂欠178万未还清嫂子杀死小叔",
-      "onboard_time": 1758974961,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 187650,
+      "num": 187650,
+      "word": "时代少年团火力全开见证终极荣耀",
+      "onboard_time": 1758979101,
+      "rank": 35,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 184666,
@@ -1059,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175425,
+      "num": 175425,
+      "word": "李艾46岁居然美成这样",
+      "onboard_time": 1758979522,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174528,
       "num": 174528,
       "word": "iG晋级S15",
@@ -1123,14 +1163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169554,
-      "num": 169554,
-      "word": "苏超",
-      "onboard_time": 1758969739,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168459,
       "num": 168459,
       "word": "Rookie重回世界赛",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1758975262,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167783,
-      "num": 167783,
-      "word": "李艾46岁居然美成这样",
-      "onboard_time": 1758979522,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 167434,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1758953119,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162169,
-      "num": 162169,
-      "word": "久哲战队",
-      "onboard_time": 1758978441,
-      "rank": 34,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 161974,
@@ -1299,12 +1315,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 154180,
-      "num": 154180,
-      "word": "时代少年团火力全开见证终极荣耀",
-      "onboard_time": 1758979101,
-      "rank": 35,
-      "category": "综艺,电竞"
+      "raw_hot": 153706,
+      "num": 185166,
+      "word": "请假3天连休12天",
+      "onboard_time": 1758976401,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153138,
@@ -1595,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132998,
+      "num": 134301,
+      "word": "郑钦文莫雷加德阿朗戈合影",
+      "onboard_time": 1758979341,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132121,
       "num": 120557,
       "word": "陈泽回应霸凌同学",
@@ -1635,12 +1659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129363,
-      "num": 168655,
-      "word": "请假3天连休12天",
-      "onboard_time": 1758976401,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 129908,
+      "num": 129908,
+      "word": "在贺峻霖身上看到了大帅的影子",
+      "onboard_time": 1758979761,
+      "rank": 40,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 129082,
@@ -1657,14 +1681,6 @@
       "onboard_time": 1758963861,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128688,
-      "num": 134301,
-      "word": "郑钦文莫雷加德阿朗戈合影",
-      "onboard_time": 1758979341,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 127650,
@@ -1755,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123654,
+      "num": 123654,
+      "word": "宁王称iG十几天没有一点调整",
+      "onboard_time": 1758979462,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123425,
       "num": 123425,
       "word": "GALA是iG的救世主",
@@ -1827,14 +1851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120876,
-      "num": 120876,
-      "word": "宁王称iG十几天没有一点调整",
-      "onboard_time": 1758979462,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 120759,
       "num": 159029,
       "word": "耿爽表示中方深表遗憾",
@@ -1900,7 +1916,7 @@
     },
     {
       "raw_hot": 116499,
-      "num": 169425,
+      "num": 174660,
       "word": "郑钦文2比0击败阿朗戈",
       "onboard_time": 1758977842,
       "rank": 42,
@@ -1947,12 +1963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113325,
+      "num": 113325,
+      "word": "布伦特福德2比1曼联",
+      "onboard_time": 1758980121,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113293,
       "num": 113293,
       "word": "小小的备注是他唯一能诉苦的地方",
       "onboard_time": 1758961700,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112991,
+      "num": 112991,
+      "word": "郑钦文说恢复了个七七八八",
+      "onboard_time": 1758980061,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 112848,
@@ -3139,20 +3171,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32932,
+      "num": 242837,
+      "word": "阿信玩嗨了",
+      "onboard_time": 1758978381,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32182,
       "num": 179973,
       "word": "网警带您起底网络水军生意经",
       "onboard_time": 1758942020,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31303,
-      "num": 170323,
-      "word": "阿信玩嗨了",
-      "onboard_time": 1758978381,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 30613,
@@ -3331,7 +3363,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5244,
+      "raw_hot": 8900,
       "num": 720133,
       "word": "基建狂魔又放大招",
       "onboard_time": 1758939200,
