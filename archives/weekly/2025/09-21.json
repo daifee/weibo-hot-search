@@ -1,6 +1,6 @@
 {
   "startTime": 1758385639602,
-  "endTime": 1758977051166,
+  "endTime": 1758977888258,
   "band_list": [
     {
       "raw_hot": 16818045,
@@ -321,6 +321,14 @@
       "onboard_time": 1758784342,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1669531,
+      "num": 1669531,
+      "word": "iG战胜JDG",
+      "onboard_time": 1758976881,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 1664942,
@@ -843,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1072887,
+      "num": 554462,
+      "word": "鹿晗新加坡",
+      "onboard_time": 1758974001,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1066434,
       "num": 400453,
       "word": "蓝战非",
@@ -897,6 +913,14 @@
       "onboard_time": 1758590180,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1047134,
+      "num": 649316,
+      "word": "黄明昊 遇到不公平的事情",
+      "onboard_time": 1758975560,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1043194,
@@ -1473,14 +1497,6 @@
       "onboard_time": 1758600980,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 852680,
-      "num": 554462,
-      "word": "鹿晗新加坡",
-      "onboard_time": 1758974001,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 852179,
@@ -2307,14 +2323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 649316,
-      "num": 649316,
-      "word": "黄明昊 遇到不公平的事情",
-      "onboard_time": 1758975560,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 649129,
       "num": 263956,
       "word": "继父称继子永远不会跟我是一条心",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1758599122,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 640709,
-      "num": 640709,
-      "word": "iG战胜JDG",
-      "onboard_time": 1758976881,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 640640,
@@ -2500,7 +2500,7 @@
     },
     {
       "raw_hot": 607718,
-      "num": 376373,
+      "num": 438907,
       "word": "战至巅峰",
       "onboard_time": 1758626901,
       "rank": 48,
@@ -2947,6 +2947,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 545029,
+      "num": 545029,
+      "word": "做一次CT对身体的伤害有多大",
+      "onboard_time": 1758971661,
+      "rank": 46,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 544630,
       "num": 291749,
       "word": "金晨剪彩时扔彩头",
@@ -3193,14 +3201,6 @@
       "onboard_time": 1758549683,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502294,
-      "num": 502294,
-      "word": "做一次CT对身体的伤害有多大",
-      "onboard_time": 1758971661,
-      "rank": 46,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 501433,
@@ -3755,6 +3755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 424215,
+      "num": 424215,
+      "word": "肖战出发澳门湾区升明月",
+      "onboard_time": 1758977601,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423392,
       "num": 972387,
       "word": "谁敢信这是55岁的莫文蔚",
@@ -3947,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401010,
+      "num": 442464,
+      "word": "月子公司称给婴儿勺子喂奶正常",
+      "onboard_time": 1758969439,
+      "rank": 38,
+      "category": "舆论监督,母婴育儿"
+    },
+    {
       "raw_hot": 400897,
       "num": 422842,
       "word": "湖南一女子涉嫌杀8旬舅舅潜逃",
@@ -4065,14 +4081,6 @@
       "onboard_time": 1758858201,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 390697,
-      "num": 390697,
-      "word": "月子公司称给婴儿勺子喂奶正常",
-      "onboard_time": 1758969439,
-      "rank": 38,
-      "category": "舆论监督,母婴育儿"
     },
     {
       "raw_hot": 389357,
@@ -7531,6 +7539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202336,
+      "num": 202336,
+      "word": "刘耀文看到05天才对抗路害羞了",
+      "onboard_time": 1758973101,
+      "rank": 15,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 202303,
       "num": 202303,
       "word": "LCK",
@@ -8507,14 +8523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188932,
-      "num": 188932,
-      "word": "刘耀文看到05天才对抗路害羞了",
-      "onboard_time": 1758973101,
-      "rank": 15,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 188833,
       "num": 188833,
       "word": "散装养生",
@@ -8825,6 +8833,14 @@
       "onboard_time": 1758514882,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184666,
+      "num": 184666,
+      "word": "郑钦文vs阿朗戈",
+      "onboard_time": 1758969260,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 184656,
@@ -9467,6 +9483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177814,
+      "num": 177814,
+      "word": "TheShy失误",
+      "onboard_time": 1758976642,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177281,
       "num": 177281,
       "word": "JDG对战WBG",
@@ -9651,6 +9675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174528,
+      "num": 174528,
+      "word": "iG晋级S15",
+      "onboard_time": 1758977781,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174502,
       "num": 174502,
       "word": "李沁咸鱼飞升杀青",
@@ -9811,14 +9843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172543,
-      "num": 172543,
-      "word": "郑钦文vs阿朗戈",
-      "onboard_time": 1758969260,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172477,
       "num": 172477,
       "word": "小狗被大风吹成海豹了",
@@ -9899,12 +9923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171512,
-      "num": 168084,
-      "word": "TheShy失误",
-      "onboard_time": 1758976642,
-      "rank": 33,
-      "category": "电竞"
+      "raw_hot": 171504,
+      "num": 171504,
+      "word": "鹿晗新加坡场吃太好了",
+      "onboard_time": 1758977004,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 171492,
@@ -12211,6 +12235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147292,
+      "num": 147292,
+      "word": "终于有剧拍小学生抽卡乱象了",
+      "onboard_time": 1758977362,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147185,
       "num": 147185,
       "word": "以为是蔡国庆",
@@ -12249,6 +12281,14 @@
       "onboard_time": 1758556461,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146832,
+      "num": 146832,
+      "word": "朱一龙想为妹妹李晓擦泪",
+      "onboard_time": 1758971841,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 146825,
@@ -13435,14 +13475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136949,
-      "num": 136949,
-      "word": "朱一龙想为妹妹李晓擦泪",
-      "onboard_time": 1758971841,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 136922,
       "num": 160076,
       "word": "西安一猪肾移植者已存活超200天",
@@ -13729,6 +13761,14 @@
       "onboard_time": 1758874221,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134965,
+      "num": 134965,
+      "word": "郑钦文复出第一分就是Ace",
+      "onboard_time": 1758975740,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134942,
@@ -16219,6 +16259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116499,
+      "num": 116499,
+      "word": "郑钦文2比0击败阿朗戈",
+      "onboard_time": 1758977842,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "鸣潮",
@@ -16505,6 +16553,14 @@
       "onboard_time": 1758800060,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113516,
+      "num": 113516,
+      "word": "你好星期六",
+      "onboard_time": 1758478336,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 113493,
@@ -17219,14 +17275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107851,
-      "num": 107851,
-      "word": "郑钦文复出第一分就是Ace",
-      "onboard_time": 1758975740,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107699,
       "num": 107699,
       "word": "专家称未来有钱没用颜值是第一要素",
@@ -17481,14 +17529,6 @@
       "onboard_time": 1758769460,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105299,
-      "num": 105299,
-      "word": "鹿晗新加坡场吃太好了",
-      "onboard_time": 1758977004,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 105294,
@@ -22011,6 +22051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43667,
+      "num": 126977,
+      "word": "刘萧旭女友正脸",
+      "onboard_time": 1758977842,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43414,
       "num": 57534,
       "word": "飞机到底应不应该锁座",
@@ -23153,14 +23201,6 @@
       "onboard_time": 1758442042,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29675,
-      "num": 49136,
-      "word": "你好星期六",
-      "onboard_time": 1758478336,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 29671,
