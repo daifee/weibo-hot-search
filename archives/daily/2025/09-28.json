@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759001794465,
+  "endTime": 1759004709638,
   "band_list": [
     {
       "raw_hot": 1593863,
@@ -539,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21498,
+      "num": 18921,
+      "word": "汪苏泷自己给自己逗笑了",
+      "onboard_time": 1759003155,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21258,
       "num": 31500,
       "word": "鹭卓直播",
@@ -547,7 +555,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15510,
+      "raw_hot": 16651,
       "num": 25950,
       "word": "纽约抗议者鸣笛不让以总理睡觉",
       "onboard_time": 1759000215,
@@ -561,6 +569,22 @@
       "onboard_time": 1759001594,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 12225,
+      "num": 18871,
+      "word": "00后女大学生帮老人收完玉米就跑",
+      "onboard_time": 1759003574,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12111,
+      "num": 18867,
+      "word": "为中国航天点赞",
+      "onboard_time": 1759003815,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6393,

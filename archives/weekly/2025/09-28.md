@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 03:36:34
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 04:25:09
 </p>
 </blockquote>
 <p>
@@ -417,6 +417,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%87%AA%E5%B7%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E9%80%97%E7%AC%91%E4%BA%86%23" target="weibo">
+汪苏泷自己给自己逗笑了（热度：21498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E7%9B%B4%E6%92%AD%23" target="weibo">
 鹭卓直播（热度：21258）
 </a>
@@ -424,13 +430,25 @@ Rookie 隔6年了（热度：112714）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E6%8A%97%E8%AE%AE%E8%80%85%E9%B8%A3%E7%AC%9B%E4%B8%8D%E8%AE%A9%E4%BB%A5%E6%80%BB%E7%90%86%E7%9D%A1%E8%A7%89%23" target="weibo">
-纽约抗议者鸣笛不让以总理睡觉（热度：15510）
+纽约抗议者鸣笛不让以总理睡觉（热度：16651）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23chiikawa%E6%96%B0%E5%8A%A8%E7%94%BB%23" target="weibo">
 chiikawa新动画（热度：14546）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%AE%E8%80%81%E4%BA%BA%E6%94%B6%E5%AE%8C%E7%8E%89%E7%B1%B3%E5%B0%B1%E8%B7%91%23" target="weibo">
+00后女大学生帮老人收完玉米就跑（热度：12225）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23" target="weibo">
+为中国航天点赞（热度：12111）
 </a>
 </li>
 

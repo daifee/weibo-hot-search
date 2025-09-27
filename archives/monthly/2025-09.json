@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759001794465,
+  "endTime": 1759004709638,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -87267,6 +87267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21498,
+      "num": 18921,
+      "word": "汪苏泷自己给自己逗笑了",
+      "onboard_time": 1759003155,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21488,
       "num": 27509,
       "word": "石破茂就选举失利道歉",
@@ -88035,6 +88043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16651,
+      "num": 25950,
+      "word": "纽约抗议者鸣笛不让以总理睡觉",
+      "onboard_time": 1759000215,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16618,
       "num": 70221,
       "word": "穆祉丞自由演唱会",
@@ -88177,14 +88193,6 @@
       "onboard_time": 1758609140,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15510,
-      "num": 25950,
-      "word": "纽约抗议者鸣笛不让以总理睡觉",
-      "onboard_time": 1759000215,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15508,
@@ -88699,12 +88707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12225,
+      "num": 18871,
+      "word": "00后女大学生帮老人收完玉米就跑",
+      "onboard_time": 1759003574,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12154,
       "num": 147747,
       "word": "特朗普与马斯克再联手",
       "onboard_time": 1758893002,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12111,
+      "num": 18867,
+      "word": "为中国航天点赞",
+      "onboard_time": 1759003815,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12086,
