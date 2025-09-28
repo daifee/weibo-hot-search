@@ -1,0 +1,410 @@
+{
+  "runTime": 1759048146305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 540810,
+        "num": 1086529,
+        "word": "遭老板性侵女子回应为何当时没报案",
+        "onboard_time": 1759044080,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535763,
+        "num": 535763,
+        "word": "央视曝光直播新骗术",
+        "onboard_time": 1759038201,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17320,
+        "num": 521310,
+        "word": "这就是中国人的奋斗回响",
+        "onboard_time": 1759020442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520916,
+        "num": 520916,
+        "word": "肖战彩排",
+        "onboard_time": 1759043060,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401427,
+        "num": 401427,
+        "word": "花少马哥澄清",
+        "onboard_time": 1759042640,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589949,
+        "num": 399849,
+        "word": "王健林已卖掉85个万达广场",
+        "onboard_time": 1759042461,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391778,
+        "num": 391778,
+        "word": "李现 怎么在国外还追星",
+        "onboard_time": 1759044560,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371437,
+        "num": 371437,
+        "word": "周冬雨撕奖",
+        "onboard_time": 1759032981,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330904,
+        "num": 330904,
+        "word": "桃黑黑出演伪装者",
+        "onboard_time": 1759039401,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 247174,
+        "num": 247174,
+        "word": "中秋国庆8天安排",
+        "onboard_time": 1759028659,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1492455,
+        "num": 246953,
+        "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
+        "onboard_time": 1759044560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366882,
+        "num": 244123,
+        "word": "万达",
+        "onboard_time": 1759035082,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341169,
+        "num": 244029,
+        "word": "前妻需连续72小时向李阳公开道歉",
+        "onboard_time": 1759038561,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308675,
+        "num": 242465,
+        "word": "女子结婚4年才发现婚纱照是陌生人",
+        "onboard_time": 1759040242,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241017,
+        "num": 241017,
+        "word": "鹿晗在王俊凯老家开演唱会了",
+        "onboard_time": 1759041439,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233830,
+        "num": 233830,
+        "word": "iPhone 调休闹钟",
+        "onboard_time": 1759035201,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231687,
+        "num": 231687,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196240,
+        "num": 196240,
+        "word": "成毅赴山海关键剧情疑遭删减",
+        "onboard_time": 1759047020,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174907,
+        "num": 174907,
+        "word": "曝短剧演员抛下剧组哄女友",
+        "onboard_time": 1759033461,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56864,
+        "num": 172628,
+        "word": "00后凭光盘照夺走全年免费吃大奖",
+        "onboard_time": 1759046780,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365760,
+        "num": 171742,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206391,
+        "num": 167271,
+        "word": "LV首尔开餐厅3只牛肉饺子243元",
+        "onboard_time": 1759036761,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180808,
+        "num": 166652,
+        "word": "阿娇赵昭仪怎么认识的",
+        "onboard_time": 1759044921,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164694,
+        "num": 164694,
+        "word": "股市休市 真正的放假安排",
+        "onboard_time": 1759042161,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160602,
+        "num": 160602,
+        "word": "郑钧晒照为女儿庆生",
+        "onboard_time": 1759044501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146490,
+        "num": 146490,
+        "word": "外卖骑手也要缴个税了",
+        "onboard_time": 1759041200,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144669,
+        "num": 144669,
+        "word": "伦敦偶遇马思纯",
+        "onboard_time": 1759047020,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141307,
+        "num": 141307,
+        "word": "马达加斯加骚乱",
+        "onboard_time": 1759041922,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139479,
+        "num": 139479,
+        "word": "韩方称无力向美支付3500亿美金",
+        "onboard_time": 1759041561,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136670,
+        "num": 136670,
+        "word": "来自妈妈的46个未接来电背后是无尽牵挂",
+        "onboard_time": 1759045100,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169993,
+        "num": 134752,
+        "word": "兜儿 突发性耳聋",
+        "onboard_time": 1759047921,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167096,
+        "num": 134139,
+        "word": "何同学的iPhone17测评视频",
+        "onboard_time": 1759047201,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130640,
+        "num": 130640,
+        "word": "张维伊亲了小酒窝脸",
+        "onboard_time": 1759025780,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124339,
+        "num": 124339,
+        "word": "东北孩子回老家只要4个小时了",
+        "onboard_time": 1759043301,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 120011,
+        "word": "文韬针灸效果立竿见影",
+        "onboard_time": 1759047381,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119683,
+        "num": 119683,
+        "word": "俄罗斯支持巴西印度申请入常",
+        "onboard_time": 1759047921,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116083,
+        "num": 116083,
+        "word": "私域直播盯上老年人钱包",
+        "onboard_time": 1759045881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109441,
+        "num": 109441,
+        "word": "罗琳拒绝与艾玛沃特森和解",
+        "onboard_time": 1759030880,
+        "rank": 37,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 105789,
+        "num": 105789,
+        "word": "内娱星二代进圈越来越低龄了",
+        "onboard_time": 1759040242,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46220,
+        "num": 105638,
+        "word": "印度踩踏事故1万人场地挤进2.7万人",
+        "onboard_time": 1759048041,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105591,
+        "num": 105591,
+        "word": "国庆反向旅游",
+        "onboard_time": 1759043961,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 104030,
+        "num": 104030,
+        "word": "陈伟霆九门杀青vlog",
+        "onboard_time": 1759042942,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102682,
+        "num": 102682,
+        "word": "K签证",
+        "onboard_time": 1759020502,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97956,
+        "num": 97956,
+        "word": "徐梦洁 油画少女",
+        "onboard_time": 1759047741,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95675,
+        "num": 95675,
+        "word": "谢霆锋妹妹产后恢复状态",
+        "onboard_time": 1759046241,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95386,
+        "num": 95386,
+        "word": "HLE对战GEN",
+        "onboard_time": 1759040842,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119128,
+        "num": 95334,
+        "word": "佟丽娅被小酒窝迷住了",
+        "onboard_time": 1759046181,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95281,
+        "num": 95281,
+        "word": "孟子义泼水像喝咖啡一样优雅",
+        "onboard_time": 1759048100,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51432,
+        "num": 95259,
+        "word": "孙颖莎看到可爱玩偶哎呦一声",
+        "onboard_time": 1759046421,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39894,
+        "num": 95085,
+        "word": "国庆旅游还要带相机吗",
+        "onboard_time": 1759043240,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同古共中央第一书记互致贺电#"
+    }
+  }
+}

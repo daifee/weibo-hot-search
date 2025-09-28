@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759045002222,
+  "endTime": 1759048146305,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -17,6 +17,14 @@
       "onboard_time": 1758985643,
       "rank": 19,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 1492455,
+      "num": 246953,
+      "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
+      "onboard_time": 1759044560,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1396704,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589949,
+      "num": 399849,
+      "word": "王健林已卖掉85个万达广场",
+      "onboard_time": 1759042461,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 582232,
       "num": 582232,
       "word": "久哲战队",
@@ -240,6 +256,14 @@
       "word": "宗馥莉也可能无法用娃哈哈商标",
       "onboard_time": 1759030701,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 540810,
+      "num": 1086529,
+      "word": "遭老板性侵女子回应为何当时没报案",
+      "onboard_time": 1759044080,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -267,20 +291,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 520916,
+      "num": 520916,
+      "word": "肖战彩排",
+      "onboard_time": 1759043060,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 489561,
       "num": 489561,
       "word": "惠英红 争气两字我已经说了多遍",
       "onboard_time": 1759039580,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 478774,
-      "num": 478774,
-      "word": "肖战彩排",
-      "onboard_time": 1759043060,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 464731,
@@ -377,6 +401,22 @@
       "onboard_time": 1758981741,
       "rank": 11,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 401427,
+      "num": 401427,
+      "word": "花少马哥澄清",
+      "onboard_time": 1759042640,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 391778,
+      "num": 391778,
+      "word": "李现 怎么在国外还追星",
+      "onboard_time": 1759044560,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 387441,
@@ -491,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288727,
-      "num": 288727,
-      "word": "王健林已卖掉85个万达广场",
-      "onboard_time": 1759042461,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288595,
       "num": 288595,
       "word": "连续吃6个月水煮菜胰腺坏死了",
@@ -585,14 +617,6 @@
       "onboard_time": 1759016720,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236130,
-      "num": 236130,
-      "word": "花少马哥澄清",
-      "onboard_time": 1759042640,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 231749,
@@ -699,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196240,
+      "num": 196240,
+      "word": "成毅赴山海关键剧情疑遭删减",
+      "onboard_time": 1759047020,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196222,
       "num": 196222,
       "word": "侯明昊卢昱晓入青云婚服大片",
@@ -777,6 +809,14 @@
       "onboard_time": 1759028600,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180808,
+      "num": 166652,
+      "word": "阿娇赵昭仪怎么认识的",
+      "onboard_time": 1759044921,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 180439,
@@ -867,12 +907,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171175,
-      "num": 171175,
-      "word": "李现 怎么在国外还追星",
-      "onboard_time": 1759044560,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 169993,
+      "num": 134752,
+      "word": "兜儿 突发性耳聋",
+      "onboard_time": 1759047921,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 169517,
@@ -913,6 +953,14 @@
       "onboard_time": 1759040242,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167096,
+      "num": 134139,
+      "word": "何同学的iPhone17测评视频",
+      "onboard_time": 1759047201,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 166935,
@@ -967,14 +1015,6 @@
       "num": 161780,
       "word": "惠英红65岁代言LOEWE",
       "onboard_time": 1759028420,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 161535,
-      "num": 161535,
-      "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
-      "onboard_time": 1759044560,
       "rank": 31,
       "category": "艺人"
     },
@@ -1131,6 +1171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144669,
+      "num": 144669,
+      "word": "伦敦偶遇马思纯",
+      "onboard_time": 1759047020,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144595,
       "num": 144595,
       "word": "周冬雨台上英文颁奖视频",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1759024401,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 136670,
+      "num": 136670,
+      "word": "来自妈妈的46个未接来电背后是无尽牵挂",
+      "onboard_time": 1759045100,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136284,
@@ -1435,20 +1491,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120424,
-      "num": 120424,
-      "word": "阿娇赵昭仪怎么认识的",
-      "onboard_time": 1759044921,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120378,
       "num": 119720,
       "word": "张艺兴刘宇宁新歌",
       "onboard_time": 1759041140,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120011,
+      "num": 120011,
+      "word": "文韬针灸效果立竿见影",
+      "onboard_time": 1759047381,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119683,
+      "num": 119683,
+      "word": "俄罗斯支持巴西印度申请入常",
+      "onboard_time": 1759047921,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119312,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1759034963,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119128,
+      "num": 95334,
+      "word": "佟丽娅被小酒窝迷住了",
+      "onboard_time": 1759046181,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 118453,
@@ -1497,6 +1569,14 @@
       "onboard_time": 1759033942,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116083,
+      "num": 116083,
+      "word": "私域直播盯上老年人钱包",
+      "onboard_time": 1759045881,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115902,
@@ -1659,6 +1739,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 105591,
+      "num": 105591,
+      "word": "国庆反向旅游",
+      "onboard_time": 1759043961,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 105320,
       "num": 105320,
       "word": "鞠婧祎资源完全升级",
@@ -1795,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97956,
+      "num": 97956,
+      "word": "徐梦洁 油画少女",
+      "onboard_time": 1759047741,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96956,
       "num": 132779,
       "word": "孟子义一句话暖邓超一整天",
@@ -1819,12 +1915,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95400,
-      "num": 95400,
-      "word": "国庆反向旅游",
-      "onboard_time": 1759043961,
-      "rank": 46,
-      "category": "旅游"
+      "raw_hot": 95675,
+      "num": 95675,
+      "word": "谢霆锋妹妹产后恢复状态",
+      "onboard_time": 1759046241,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95281,
+      "num": 95281,
+      "word": "孟子义泼水像喝咖啡一样优雅",
+      "onboard_time": 1759048100,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 94528,
@@ -2003,14 +2107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73112,
-      "num": 138758,
-      "word": "遭老板性侵女子回应为何当时没报案",
-      "onboard_time": 1759044080,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72296,
       "num": 132642,
       "word": "外媒报道鞠婧祎",
@@ -2155,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56864,
+      "num": 172628,
+      "word": "00后凭光盘照夺走全年免费吃大奖",
+      "onboard_time": 1759046780,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56582,
       "num": 137667,
       "word": "迪拜打造10公斤重黄金礼服",
@@ -2235,6 +2339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 51432,
+      "num": 95259,
+      "word": "孙颖莎看到可爱玩偶哎呦一声",
+      "onboard_time": 1759046421,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51174,
       "num": 55567,
       "word": "鹿晗新加坡演唱会上座率",
@@ -2257,6 +2369,14 @@
       "onboard_time": 1759000215,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46220,
+      "num": 105638,
+      "word": "印度踩踏事故1万人场地挤进2.7万人",
+      "onboard_time": 1759048041,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 46114,
