@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/29 00:27:01
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/29 00:40:58
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ iPhone 调休闹钟（热度：1012419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E6%A0%A1%E5%86%85%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
+华南理工校内车祸遇难者同学发声（热度：598599）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%8F%B0%E5%81%B6%E4%B8%B2%E7%83%A7%23" target="weibo">
 时代少年团 台偶串烧（热度：597594）
 </a>
@@ -561,6 +567,12 @@ iPhone 调休闹钟（热度：1012419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%A7%90%E6%8B%8D%E7%9A%84%E8%82%96%E6%88%98%23" target="weibo">
+头姐拍的肖战（热度：421271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%9D%E8%BF%98%E5%BE%97SHE%23" target="weibo">
 中国话还得SHE（热度：415589）
 </a>
@@ -755,12 +767,6 @@ LV首尔开餐厅3只牛肉饺子243元（热度：370395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%BD%93%E5%9C%B0%E5%8D%8E%E4%BA%BA%E5%8F%8A%E4%BD%BF%E9%A6%86%E5%B8%AE%E5%8A%A9%E4%B8%8B%E6%89%BE%E5%88%B0%23" target="weibo">
 失联女孩在当地华人及使馆帮助下找到（热度：289492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E6%A0%A1%E5%86%85%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
-华南理工校内车祸遇难者同学发声（热度：289479）
 </a>
 </li>
 
@@ -1605,6 +1611,12 @@ iG收到王赫野的远程施法（热度：166027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%BF%83%E4%B8%AD%E7%9A%84%E6%97%A5%E6%9C%88%20%E5%8E%9F%E5%94%B1%E5%B0%B1%E6%98%AF%E5%A5%BD%E5%90%AC%23" target="weibo">
+王力宏心中的日月 原唱就是好听（热度：146449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E5%BC%B9%E5%94%B1%E4%BA%B2%E7%88%B1%E7%9A%84%E5%B0%8F%E5%AD%A9%23" target="weibo">
 于适弹唱亲爱的小孩（热度：145704）
 </a>
@@ -1649,6 +1661,12 @@ iG收到王赫野的远程施法（热度：166027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%81%87%E9%92%BB%E6%88%92%E6%88%90%E6%9C%AC%E4%BB%853%E5%85%83%23" target="weibo">
 央视曝光假钻戒成本仅3元（热度：144275）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%BA%A7%E4%BD%8D%E5%9B%BE%23" target="weibo">
+湾区升明月座位图（热度：143022）
 </a>
 </li>
 
@@ -1769,12 +1787,6 @@ PYL回应解说台上哭声（热度：140096）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%95%B4%E6%99%9A%E7%9A%84%E9%9F%B3%E4%B9%90%E5%BD%A9%E6%8E%92%E8%A7%86%E9%A2%91%23" target="weibo">
 肖战整晚的音乐彩排视频（热度：134254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%BF%83%E4%B8%AD%E7%9A%84%E6%97%A5%E6%9C%88%20%E5%8E%9F%E5%94%B1%E5%B0%B1%E6%98%AF%E5%A5%BD%E5%90%AC%23" target="weibo">
-王力宏心中的日月 原唱就是好听（热度：133967）
 </a>
 </li>
 
@@ -1911,12 +1923,6 @@ JIUZHE战队夺冠（热度：129087）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%BA%A7%E4%BD%8D%E5%9B%BE%23" target="weibo">
-湾区升明月座位图（热度：125449）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BB%A3%E9%93%81%E4%B8%89%E8%A7%92%E6%BC%94%E4%BA%86%E4%B9%9D%E9%97%A8%23" target="weibo">
 十代铁三角演了九门（热度：125039）
 </a>
@@ -1991,6 +1997,12 @@ KPL（热度：124643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E8%A5%BF%E7%94%B2%E8%81%94%E8%B5%9B%E9%82%80%E8%AF%B7%23" target="weibo">
 樊振东发文感谢西甲联赛邀请（热度：121339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%99%E5%A0%82%E4%B9%8B%E5%A4%96%23" target="weibo">
+庙堂之外（热度：121111）
 </a>
 </li>
 
@@ -2825,6 +2837,12 @@ Ruler哭了（热度：87347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E6%8B%9C%E6%89%93%E9%80%A010%E5%85%AC%E6%96%A4%E9%87%8D%E9%BB%84%E9%87%91%E7%A4%BC%E6%9C%8D%23" target="weibo">
 迪拜打造10公斤重黄金礼服（热度：56582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E7%A7%8B%E5%AD%A3%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
+JDG秋季赛夺冠（热度：56505）
 </a>
 </li>
 

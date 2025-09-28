@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759076821125,
+  "endTime": 1759077658239,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 598599,
+      "num": 215593,
+      "word": "华南理工校内车祸遇难者同学发声",
+      "onboard_time": 1759076361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 557363,
       "num": 216001,
       "word": "沈佳润出场 小沈阳被抬走",
@@ -63,6 +71,14 @@
       "num": 215758,
       "word": "苏醒回应跑调",
       "onboard_time": 1759066524,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 421271,
+      "num": 212368,
+      "word": "头姐拍的肖战",
+      "onboard_time": 1759076901,
       "rank": 11,
       "category": "演出"
     },
@@ -96,14 +112,6 @@
       "word": "央视曝光玄学大师骗局",
       "onboard_time": 1759071385,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289479,
-      "num": 215593,
-      "word": "华南理工校内车祸遇难者同学发声",
-      "onboard_time": 1759076361,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -227,6 +235,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146449,
+      "num": 214521,
+      "word": "王力宏心中的日月 原唱就是好听",
+      "onboard_time": 1759076182,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 143022,
+      "num": 214287,
+      "word": "湾区升明月座位图",
+      "onboard_time": 1759076301,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138439,
       "num": 215338,
       "word": "原来很久以前就流行腿套了",
@@ -251,28 +275,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133967,
-      "num": 214521,
-      "word": "王力宏心中的日月 原唱就是好听",
-      "onboard_time": 1759076182,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 132887,
       "num": 215137,
       "word": "王健林已卖掉85个万达广场",
       "onboard_time": 1759042461,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125449,
-      "num": 214287,
-      "word": "湾区升明月座位图",
-      "onboard_time": 1759076301,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 124804,
@@ -288,6 +296,14 @@
       "word": "王力宏抢拍 真唱证明",
       "onboard_time": 1759061362,
       "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 121111,
+      "num": 210383,
+      "word": "庙堂之外",
+      "onboard_time": 1759076960,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56505,
+      "num": 209356,
+      "word": "JDG秋季赛夺冠",
+      "onboard_time": 1759074024,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55717,
       "num": 213833,
       "word": "王楚钦狂撸海螺的头",
@@ -401,11 +425,22 @@
       "onboard_time": 1759069164,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1473,
+      "num": 285520,
+      "word": "10月1日客流或超3.4亿人次",
+      "onboard_time": 1759025960,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#更好为党育才#"
+    },
+    {
+      "word": "#坚持党校姓党牢记党校初心#"
     }
   ]
 }

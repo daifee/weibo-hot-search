@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759076821125,
+  "endTime": 1759077658239,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -10275,6 +10275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 598599,
+      "num": 215593,
+      "word": "华南理工校内车祸遇难者同学发声",
+      "onboard_time": 1759076361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 598578,
       "num": 150685,
       "word": "淘宝崩了",
@@ -15657,6 +15665,14 @@
       "onboard_time": 1758871521,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421271,
+      "num": 212368,
+      "word": "头姐拍的肖战",
+      "onboard_time": 1759076901,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 421135,
@@ -21888,14 +21904,6 @@
       "word": "失联女孩在当地华人及使馆帮助下找到",
       "onboard_time": 1758983842,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289479,
-      "num": 215593,
-      "word": "华南理工校内车祸遇难者同学发声",
-      "onboard_time": 1759076361,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -47707,6 +47715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146449,
+      "num": 214521,
+      "word": "王力宏心中的日月 原唱就是好听",
+      "onboard_time": 1759076182,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146418,
       "num": 146418,
       "word": "刘国正说王楚钦实力摆在那",
@@ -49201,6 +49217,14 @@
       "onboard_time": 1757919561,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143022,
+      "num": 214287,
+      "word": "湾区升明月座位图",
+      "onboard_time": 1759076301,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 143017,
@@ -53411,14 +53435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133967,
-      "num": 214521,
-      "word": "王力宏心中的日月 原唱就是好听",
-      "onboard_time": 1759076182,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 133963,
       "num": 133963,
       "word": "娜扎礼服配帆布鞋",
@@ -57579,14 +57595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125449,
-      "num": 214287,
-      "word": "湾区升明月座位图",
-      "onboard_time": 1759076301,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125427,
       "num": 122894,
       "word": "卢昱晓拍了夜色尚浅同款浴池戏",
@@ -59857,6 +59865,14 @@
       "onboard_time": 1757991981,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121111,
+      "num": 210383,
+      "word": "庙堂之外",
+      "onboard_time": 1759076960,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 121105,
@@ -82833,6 +82849,14 @@
       "onboard_time": 1758702022,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56505,
+      "num": 209356,
+      "word": "JDG秋季赛夺冠",
+      "onboard_time": 1759074024,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 56440,

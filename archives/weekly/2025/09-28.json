@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759076821125,
+  "endTime": 1759077658239,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598599,
+      "num": 215593,
+      "word": "华南理工校内车祸遇难者同学发声",
+      "onboard_time": 1759076361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597594,
       "num": 284000,
       "word": "时代少年团 台偶串烧",
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421271,
+      "num": 212368,
+      "word": "头姐拍的肖战",
+      "onboard_time": 1759076901,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 415589,
       "num": 215701,
       "word": "中国话还得SHE",
@@ -992,14 +1008,6 @@
       "word": "失联女孩在当地华人及使馆帮助下找到",
       "onboard_time": 1758983842,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289479,
-      "num": 215593,
-      "word": "华南理工校内车祸遇难者同学发声",
-      "onboard_time": 1759076361,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2123,6 +2131,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 146449,
+      "num": 214521,
+      "word": "王力宏心中的日月 原唱就是好听",
+      "onboard_time": 1759076182,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145704,
       "num": 145704,
       "word": "于适弹唱亲爱的小孩",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1759017381,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143022,
+      "num": 214287,
+      "word": "湾区升明月座位图",
+      "onboard_time": 1759076301,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 142154,
@@ -2344,14 +2368,6 @@
       "word": "肖战整晚的音乐彩排视频",
       "onboard_time": 1759048160,
       "rank": 34,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 133967,
-      "num": 214521,
-      "word": "王力宏心中的日月 原唱就是好听",
-      "onboard_time": 1759076182,
-      "rank": 35,
       "category": "演出"
     },
     {
@@ -2531,14 +2547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125449,
-      "num": 214287,
-      "word": "湾区升明月座位图",
-      "onboard_time": 1759076301,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125039,
       "num": 125039,
       "word": "十代铁三角演了九门",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1759064063,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121111,
+      "num": 210383,
+      "word": "庙堂之外",
+      "onboard_time": 1759076960,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 120750,
@@ -3753,6 +3769,14 @@
       "onboard_time": 1759044741,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56505,
+      "num": 209356,
+      "word": "JDG秋季赛夺冠",
+      "onboard_time": 1759074024,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 56043,
