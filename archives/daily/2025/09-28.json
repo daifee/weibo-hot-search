@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759026043552,
+  "endTime": 1759029276979,
   "band_list": [
     {
       "raw_hot": 1593863,
@@ -9,6 +9,14 @@
       "onboard_time": 1758985643,
       "rank": 19,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 1392929,
+      "num": 1392929,
+      "word": "王健林被限制高消费",
+      "onboard_time": 1759023799,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1372394,
@@ -35,12 +43,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1263527,
-      "num": 1263527,
-      "word": "王健林被限制高消费",
-      "onboard_time": 1759023799,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 1172377,
+      "num": 274481,
+      "word": "张维伊亲了小酒窝脸",
+      "onboard_time": 1759025780,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1152271,
@@ -59,6 +67,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 688966,
+      "num": 241377,
+      "word": "董璇张维伊搂脖吻",
+      "onboard_time": 1759026320,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677050,
       "num": 910845,
       "word": "航班提前15小时起飞惊呆乘客",
@@ -75,12 +91,20 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 620427,
-      "num": 274481,
-      "word": "张维伊亲了小酒窝脸",
-      "onboard_time": 1759025780,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 610183,
+      "num": 252174,
+      "word": "狗狗自家院休息被陌生车辆闯入碾死",
+      "onboard_time": 1759027279,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 602271,
+      "num": 602271,
+      "word": "赛琳娜婚纱照",
+      "onboard_time": 1759026260,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 582232,
@@ -139,6 +163,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 461473,
+      "num": 461473,
+      "word": "高志凯怒喷非洲学生",
+      "onboard_time": 1759023740,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446957,
       "num": 167486,
       "word": "张维伊把婚房订成了三人间",
@@ -179,14 +211,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 394318,
-      "num": 394318,
-      "word": "高志凯怒喷非洲学生",
-      "onboard_time": 1759023740,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 387441,
       "num": 288931,
       "word": "战至巅峰",
@@ -217,6 +241,14 @@
       "onboard_time": 1759023141,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353989,
+      "num": 353989,
+      "word": "印度踩踏死亡升至39人",
+      "onboard_time": 1759025721,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 310558,
@@ -291,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262008,
+      "num": 262008,
+      "word": "易烊千玺 影院见",
+      "onboard_time": 1759026679,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250706,
       "num": 250706,
       "word": "张真源哭了",
@@ -363,12 +403,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 194040,
+      "num": 194040,
+      "word": "赛琳娜婚礼",
+      "onboard_time": 1759028361,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192252,
       "num": 162512,
       "word": "肖战出道9周年",
       "onboard_time": 1759014917,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188575,
+      "num": 188575,
+      "word": "暗河传",
+      "onboard_time": 1759027880,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181375,
+      "num": 181375,
+      "word": "九门正式杀青",
+      "onboard_time": 1759028600,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 178046,
@@ -395,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174612,
+      "num": 174612,
+      "word": "肖战出道战绩",
+      "onboard_time": 1759028959,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168806,
+      "num": 168806,
+      "word": "网友拍到的美容院的秘密",
+      "onboard_time": 1759024941,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168418,
       "num": 153149,
       "word": "汪苏泷眼妆",
@@ -417,6 +497,22 @@
       "onboard_time": 1758983301,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 167666,
+      "num": 167666,
+      "word": "中秋国庆8天安排",
+      "onboard_time": 1759028659,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161862,
+      "num": 161862,
+      "word": "九门",
+      "onboard_time": 1759028120,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 156482,
@@ -475,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144595,
+      "num": 144595,
+      "word": "周冬雨台上英文颁奖视频",
+      "onboard_time": 1759027939,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144275,
       "num": 144275,
       "word": "央视曝光假钻戒成本仅3元",
       "onboard_time": 1759017381,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141650,
+      "num": 141650,
+      "word": "惠英红65岁代言LOEWE",
+      "onboard_time": 1759028420,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 137926,
@@ -539,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129950,
+      "num": 129950,
+      "word": "假期跨区域流动预计超23亿人次",
+      "onboard_time": 1759029201,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129087,
       "num": 118575,
       "word": "JIUZHE战队夺冠",
@@ -553,6 +673,14 @@
       "onboard_time": 1759025539,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128317,
+      "num": 128317,
+      "word": "刘宇宁大双眼皮是贴的",
+      "onboard_time": 1759027521,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 124402,
@@ -579,6 +707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121746,
+      "num": 228843,
+      "word": "孙颖莎vs平野美宇",
+      "onboard_time": 1759028900,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120464,
       "num": 150289,
       "word": "巴基斯坦总理称让印度颜面扫地",
@@ -587,12 +723,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119997,
+      "num": 224885,
+      "word": "打工人即将迎来最轻松的10月份",
+      "onboard_time": 1759028241,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119312,
       "num": 133081,
       "word": "陈浚铭婴儿时期看过TFBOYS演唱会",
       "onboard_time": 1758986002,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118282,
+      "num": 118282,
+      "word": "性格好的人一般脑子也好使",
+      "onboard_time": 1759026740,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 116597,
@@ -635,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113367,
+      "num": 113367,
+      "word": "李斯丹妮鼻子上贴了12颗金钻",
+      "onboard_time": 1759029080,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112714,
       "num": 132969,
       "word": "Rookie 隔6年了",
@@ -659,12 +819,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 108665,
+      "num": 108665,
+      "word": "91助手全面停止服务",
+      "onboard_time": 1759028600,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106184,
       "num": 132874,
       "word": "林俊杰演唱会",
       "onboard_time": 1758983902,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106078,
+      "num": 106078,
+      "word": "张宥浩跟了志愿军剧组3年",
+      "onboard_time": 1759029080,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 105793,
@@ -691,12 +867,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 104853,
-      "num": 104853,
-      "word": "印度踩踏死亡升至39人",
-      "onboard_time": 1759025721,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 104199,
+      "num": 104199,
+      "word": "有商家售卖小米17仿iPhone保护壳",
+      "onboard_time": 1759026559,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 103470,
@@ -747,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98631,
+      "num": 98631,
+      "word": "吉克隽逸脸上贴了20颗钻",
+      "onboard_time": 1759028479,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96956,
       "num": 132779,
       "word": "孟子义一句话暖邓超一整天",
@@ -763,12 +947,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96173,
-      "num": 96173,
-      "word": "网友拍到的美容院的秘密",
-      "onboard_time": 1759024941,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 95827,
+      "num": 113683,
+      "word": "哥伦比亚总统号召美军起义",
+      "onboard_time": 1759028299,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94059,
@@ -1027,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47132,
+      "num": 234383,
+      "word": "和孟子义一起喜提缤果S",
+      "onboard_time": 1759026919,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46564,
       "num": 55511,
       "word": "纽约抗议者鸣笛不让以总理睡觉",
@@ -1044,7 +1236,7 @@
     },
     {
       "raw_hot": 44697,
-      "num": 170833,
+      "num": 236393,
       "word": "中式豪华才是顶流",
       "onboard_time": 1759025299,
       "rank": 17,
@@ -1073,6 +1265,22 @@
       "onboard_time": 1758994577,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30478,
+      "num": 114933,
+      "word": "北大毕业生选择去职校当老师",
+      "onboard_time": 1759029020,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 30137,
+      "num": 245253,
+      "word": "在厦门被这些小善举触动",
+      "onboard_time": 1759028540,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27086,

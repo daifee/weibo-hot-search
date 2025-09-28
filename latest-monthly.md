@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 10:20:43
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 11:14:36
 </p>
 </blockquote>
 <p>
@@ -1971,6 +1971,12 @@ jellycat蛋糕（热度：1403013）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9%23" target="weibo">
+王健林被限制高消费（热度：1392929）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E6%96%9C%E9%9D%A2%E7%9F%AD%E5%8F%91%23" target="weibo">
 福建一中学强制女生剪斜面短发（热度：1391325）
 </a>
@@ -2349,12 +2355,6 @@ NASA明确发现火星生命迹象（热度：1280374）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9%23" target="weibo">
-王健林被限制高消费（热度：1263527）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%B9%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E5%A4%96%E5%8D%96%E8%A2%AB%E8%B4%B4%E8%A3%85%E8%B4%A7%23" target="weibo">
 女子点绿茶餐厅外卖被贴装货（热度：1262575）
 </a>
@@ -2705,6 +2705,12 @@ A股（热度：1180616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%BC%BA%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD%23" target="weibo">
 今年以来最强台风来袭（热度：1177034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E4%BA%B2%E4%BA%86%E5%B0%8F%E9%85%92%E7%AA%9D%E8%84%B8%23" target="weibo">
+张维伊亲了小酒窝脸（热度：1172377）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23731%E6%89%80%E6%9C%89%E6%97%A5%E6%9C%AC%E8%A7%92%E8%89%B2%E5%9D%87%E7%94%B1%E6%97%A5%E7%B1%8D%E6%BC%94%E5%91%98%E5%87%BA%E6%BC%94%23" target="weibo">
 731所有日本角色均由日籍演员出演（热度：710969）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%B3%BD%E5%88%A9%E7%A7%91%23" target="weibo">
-樊振东vs泽利科（热度：710729）
 </a>
 </li>
 
