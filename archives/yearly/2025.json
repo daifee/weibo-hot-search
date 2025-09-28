@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1759063475591,
+  "endTime": 1759064345449,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2203,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5099857,
+      "num": 5099857,
+      "word": "湾区升明月",
+      "onboard_time": 1759057820,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 5064753,
       "num": 5064753,
       "word": "警方通报河北一女子疑家暴去世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1743235701,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4613398,
-      "num": 4609302,
-      "word": "协和医学院董某莹事件最新进展",
-      "onboard_time": 1746010640,
-      "rank": 23,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

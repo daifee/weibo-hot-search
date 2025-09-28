@@ -1,10 +1,10 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759063475591,
+  "endTime": 1759064345449,
   "band_list": [
     {
-      "raw_hot": 3926684,
-      "num": 3926684,
+      "raw_hot": 5099857,
+      "num": 5099857,
       "word": "湾区升明月",
       "onboard_time": 1759057820,
       "rank": 3,
@@ -27,11 +27,19 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 1499444,
-      "num": 442863,
+      "raw_hot": 1582725,
+      "num": 497613,
       "word": "苏醒 跑调",
       "onboard_time": 1759061721,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1520996,
+      "num": 457923,
+      "word": "肖战容祖儿成龙坐一起",
+      "onboard_time": 1759061122,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -75,14 +83,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1188957,
-      "num": 359978,
-      "word": "肖战容祖儿成龙坐一起",
-      "onboard_time": 1759061122,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1172377,
       "num": 410805,
       "word": "张维伊亲了小酒窝脸",
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1016696,
-      "num": 304325,
+      "num": 448503,
       "word": "王力宏抢拍 真唱证明",
       "onboard_time": 1759061362,
       "rank": 7,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 557867,
+      "num": 227184,
+      "word": "时代少年团 台偶串烧",
+      "onboard_time": 1759063523,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554801,
       "num": 391778,
       "word": "李现 怎么在国外还追星",
@@ -419,12 +427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495839,
+      "num": 212946,
+      "word": "新华社发的时代少年团",
+      "onboard_time": 1759063162,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 494536,
       "num": 254948,
       "word": "小酒窝赶早班机脸也肿",
       "onboard_time": 1759048221,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493572,
+      "num": 493572,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1759062503,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 489561,
@@ -467,12 +491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460288,
+      "num": 460288,
+      "word": "男子欠5000被催债后说每分钟还50",
+      "onboard_time": 1759058240,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458083,
       "num": 458083,
       "word": "鹿晗在王俊凯老家开演唱会了",
       "onboard_time": 1759041439,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 450662,
+      "num": 225367,
+      "word": "湾区升明月 全开麦",
+      "onboard_time": 1759063281,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 446957,
@@ -489,14 +529,6 @@
       "onboard_time": 1758986542,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 438277,
-      "num": 438277,
-      "word": "男子欠5000被催债后说每分钟还50",
-      "onboard_time": 1759058240,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 435332,
@@ -579,20 +611,20 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 382548,
-      "num": 382548,
-      "word": "王楚钦vs张禹珍",
-      "onboard_time": 1759062503,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376689,
       "num": 288715,
       "word": "黄明昊 遇到不公平的事情",
       "onboard_time": 1758975560,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375243,
+      "num": 193690,
+      "word": "单依纯上车摔倒",
+      "onboard_time": 1759062323,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 370395,
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 368648,
-      "num": 181844,
+      "num": 186322,
       "word": "陈都灵泳池照",
       "onboard_time": 1759059801,
       "rank": 20,
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 319623,
-      "num": 181488,
+      "num": 187571,
       "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
       "onboard_time": 1759061662,
       "rank": 21,
@@ -675,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314872,
+      "num": 186250,
+      "word": "小酒窝朵朵开场",
+      "onboard_time": 1759062562,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 310558,
       "num": 310558,
       "word": "网传湾区升明月节目单",
@@ -689,6 +729,14 @@
       "onboard_time": 1759018340,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 299941,
+      "num": 182961,
+      "word": "王力宏单依纯再唱落叶归根",
+      "onboard_time": 1759061962,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 299108,
@@ -745,14 +793,6 @@
       "onboard_time": 1759033582,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 273748,
-      "num": 180995,
-      "word": "单依纯上车摔倒",
-      "onboard_time": 1759062323,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 264356,
@@ -851,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229980,
+      "num": 229980,
+      "word": "卖女孩的红烧肉 店名争议",
+      "onboard_time": 1759058601,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227905,
       "num": 227905,
       "word": "HLE对战GEN",
@@ -875,14 +923,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 221326,
-      "num": 179946,
-      "word": "小酒窝朵朵开场",
-      "onboard_time": 1759062562,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 220446,
       "num": 220446,
       "word": "印度发生踩踏36死",
@@ -899,36 +939,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 217608,
-      "num": 217608,
-      "word": "卖女孩的红烧肉 店名争议",
-      "onboard_time": 1759058601,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216709,
-      "num": 179895,
-      "word": "新华社发的时代少年团",
-      "onboard_time": 1759063162,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 212521,
       "num": 212521,
       "word": "唐仁健受贿2.68亿余元",
       "onboard_time": 1759052299,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210968,
-      "num": 178235,
-      "word": "王力宏单依纯再唱落叶归根",
-      "onboard_time": 1759061962,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 208861,
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 199997,
-      "num": 199997,
+      "num": 219243,
       "word": "peanut不要哭",
       "onboard_time": 1759055180,
       "rank": 37,
@@ -1043,14 +1059,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 194472,
-      "num": 177537,
-      "word": "湾区升明月 全开麦",
-      "onboard_time": 1759063281,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193048,
       "num": 193048,
       "word": "肖战出道战绩",
@@ -1091,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191551,
+      "num": 178599,
+      "word": "王楚钦11比2张禹珍",
+      "onboard_time": 1759064304,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190755,
       "num": 190755,
       "word": "中彩票冷知识",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1759038621,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185998,
+      "num": 185998,
+      "word": "周深动情演唱故乡的云",
+      "onboard_time": 1759063162,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 185867,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1759030880,
       "rank": 30,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 179939,
+      "num": 214832,
+      "word": "iPhone很容易被遗忘的功能",
+      "onboard_time": 1759058720,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 179071,
@@ -1379,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162817,
-      "num": 183008,
-      "word": "iPhone很容易被遗忘的功能",
-      "onboard_time": 1759058720,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 161862,
       "num": 161862,
       "word": "九门",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1759048280,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156286,
+      "num": 156286,
+      "word": "汪藏海终于快等来能懂他的人了",
+      "onboard_time": 1759063642,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 156175,
@@ -1587,14 +1619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145013,
-      "num": 145013,
-      "word": "周深动情演唱故乡的云",
-      "onboard_time": 1759063162,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144912,
       "num": 144912,
       "word": "双节期间小客车免收通行费",
@@ -1707,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136222,
+      "num": 136222,
+      "word": "果然饭局是官宣恋情的好时机",
+      "onboard_time": 1759064304,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136034,
       "num": 136034,
       "word": "神里绫华",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1759037361,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 133375,
+      "num": 133375,
+      "word": "被灼灼韶华断崖式分手了",
+      "onboard_time": 1759063462,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 133161,
@@ -1832,6 +1872,14 @@
       "word": "假期跨区域流动预计超23亿人次",
       "onboard_time": 1759029201,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129777,
+      "num": 205010,
+      "word": "遭老板性侵女子回应要2千万赔偿",
+      "onboard_time": 1759063042,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2000,6 +2048,14 @@
       "word": "狗狗为了出去玩假哭",
       "onboard_time": 1759031121,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120719,
+      "num": 152058,
+      "word": "奶奶登错号了",
+      "onboard_time": 1759058660,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -2227,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111043,
+      "num": 111043,
+      "word": "樊振东发文感谢西甲联赛邀请",
+      "onboard_time": 1759064063,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110864,
       "num": 179450,
       "word": "郑钦文携最佳拍档满电出击",
@@ -2339,16 +2403,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 104557,
-      "num": 104557,
-      "word": "遭老板性侵女子回应要2千万赔偿",
-      "onboard_time": 1759063042,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104407,
-      "num": 104407,
+      "num": 110163,
       "word": "徐瑛彬0比3科顿",
       "onboard_time": 1759060581,
       "rank": 44,
@@ -2587,14 +2643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95120,
-      "num": 95120,
-      "word": "奶奶登错号了",
-      "onboard_time": 1759058660,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94619,
       "num": 94619,
       "word": "以为是失眠其实是被子薄了冻的",
@@ -2643,6 +2691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91625,
+      "num": 110288,
+      "word": "仙逆动画",
+      "onboard_time": 1759063583,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 91175,
       "num": 91175,
       "word": "国庆中秋假期最早9月30日9时开始堵",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1759062622,
       "rank": 48,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 87460,
+      "num": 109520,
+      "word": "日本计划引进5万名印度技术人才",
+      "onboard_time": 1759064063,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87347,
@@ -3131,6 +3195,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 47800,
+      "num": 200963,
+      "word": "张婧仪同款大嘴包",
+      "onboard_time": 1759061602,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47341,
       "num": 117504,
       "word": "英媒记者要求俄外长用英语回答问题被拒",
@@ -3155,16 +3227,8 @@
       "category": "科学科普,民生新闻"
     },
     {
-      "raw_hot": 44230,
-      "num": 182703,
-      "word": "张婧仪同款大嘴包",
-      "onboard_time": 1759061602,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42036,
-      "num": 182111,
+      "num": 207274,
       "word": "陈数状态越来越好了",
       "onboard_time": 1759061242,
       "rank": 19,
@@ -3211,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38384,
+      "num": 184656,
+      "word": "李庚希神秘搭档曝光",
+      "onboard_time": 1759061180,
+      "rank": 28,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 37753,
       "num": 300382,
       "word": "在厦门被这些小善举触动",
@@ -3249,14 +3321,6 @@
       "onboard_time": 1759006994,
       "rank": 48,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 33721,
-      "num": 179169,
-      "word": "李庚希神秘搭档曝光",
-      "onboard_time": 1759061180,
-      "rank": 28,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 33617,
@@ -3491,20 +3555,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 9514,
+      "num": 498361,
+      "word": "北京范儿",
+      "onboard_time": 1758969080,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8513,
       "num": 710084,
       "word": "基建狂魔又放大招",
       "onboard_time": 1758939200,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7742,
-      "num": 445266,
-      "word": "北京范儿",
-      "onboard_time": 1758969080,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
