@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759031488390,
+  "endTime": 1759033746968,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2724,7 +2724,7 @@
     },
     {
       "raw_hot": 1372394,
-      "num": 347811,
+      "num": 388018,
       "word": "今年最爆的剧",
       "onboard_time": 1759017381,
       "rank": 10,
@@ -3604,7 +3604,7 @@
     },
     {
       "raw_hot": 1172377,
-      "num": 328076,
+      "num": 395812,
       "word": "张维伊亲了小酒窝脸",
       "onboard_time": 1759025780,
       "rank": 13,
@@ -5577,6 +5577,14 @@
       "onboard_time": 1758554423,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 888033,
+      "num": 504260,
+      "word": "罗琳拒绝与艾玛沃特森和解",
+      "onboard_time": 1759030880,
+      "rank": 12,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 887771,
@@ -7603,6 +7611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 737061,
+      "num": 1117929,
+      "word": "戴向宇9年不知道陈紫函给他的备注",
+      "onboard_time": 1759029499,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736146,
       "num": 736146,
       "word": "俄女子10万卢布出卖灵魂买拉布布",
@@ -8340,7 +8356,7 @@
     },
     {
       "raw_hot": 688966,
-      "num": 295899,
+      "num": 297306,
       "word": "董璇张维伊搂脖吻",
       "onboard_time": 1759026320,
       "rank": 15,
@@ -8952,6 +8968,14 @@
       "word": "武大多人被问责",
       "onboard_time": 1758334580,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 654284,
+      "num": 654284,
+      "word": "打工人即将迎来最轻松的10月份",
+      "onboard_time": 1759028241,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -11339,6 +11363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 541848,
+      "num": 292922,
+      "word": "官员买500斤散装白酒放单位公务接待",
+      "onboard_time": 1759029620,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 541515,
       "num": 541515,
       "word": "江苏卫视你是有多等不及啊",
@@ -13035,6 +13067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 483862,
+      "num": 483862,
+      "word": "周冬雨撕奖",
+      "onboard_time": 1759032981,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 483135,
       "num": 483135,
       "word": "阅兵 强迫症狂喜",
@@ -13161,14 +13201,6 @@
       "onboard_time": 1757585010,
       "rank": 13,
       "category": "数码,剧集"
-    },
-    {
-      "raw_hot": 477976,
-      "num": 216380,
-      "word": "官员买500斤散装白酒放单位公务接待",
-      "onboard_time": 1759029620,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 477574,
@@ -13377,6 +13409,14 @@
       "onboard_time": 1757201779,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 468262,
+      "num": 468262,
+      "word": "林允 水光后的针眼挺吓人",
+      "onboard_time": 1759032562,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 467821,
@@ -15563,14 +15603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 409041,
-      "num": 409041,
-      "word": "打工人即将迎来最轻松的10月份",
-      "onboard_time": 1759028241,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 408906,
       "num": 329085,
       "word": "许荔莎与于正缘分契合度86",
@@ -15689,6 +15721,14 @@
       "onboard_time": 1757510604,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405666,
+      "num": 405666,
+      "word": "鸡排家族已有9个摊位",
+      "onboard_time": 1759031121,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404877,
@@ -17025,6 +17065,14 @@
       "onboard_time": 1757946084,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 375412,
+      "num": 375412,
+      "word": "赛琳娜婚礼",
+      "onboard_time": 1759028361,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 375407,
@@ -18435,14 +18483,6 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 344754,
-      "num": 324631,
-      "word": "罗琳拒绝与艾玛沃特森和解",
-      "onboard_time": 1759030880,
-      "rank": 12,
-      "category": "艺人,电影"
-    },
-    {
       "raw_hot": 344476,
       "num": 344476,
       "word": "李乃文又在哪闯什么祸呢",
@@ -19473,6 +19513,14 @@
       "onboard_time": 1758350661,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323030,
+      "num": 288602,
+      "word": "湾区升明月节目单",
+      "onboard_time": 1759033341,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 322979,
@@ -20707,6 +20755,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 299108,
+      "num": 299108,
+      "word": "第五人格 幻灯师",
+      "onboard_time": 1759032621,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298714,
       "num": 298714,
       "word": "路透社评阅兵新武器被外网网友怒怼",
@@ -20721,14 +20777,6 @@
       "onboard_time": 1758982824,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 298264,
-      "num": 298264,
-      "word": "赛琳娜婚礼",
-      "onboard_time": 1759028361,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 298021,
@@ -24435,6 +24483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244029,
+      "num": 244029,
+      "word": "宗馥莉也可能无法用娃哈哈商标",
+      "onboard_time": 1759030701,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244018,
       "num": 259047,
       "word": "加大消费信贷支持力度",
@@ -24577,6 +24633,14 @@
       "onboard_time": 1756778060,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242352,
+      "num": 242352,
+      "word": "万达知情人回应王健林被限高",
+      "onboard_time": 1759031661,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242351,
@@ -26633,14 +26697,6 @@
       "onboard_time": 1756696341,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 221428,
-      "num": 221428,
-      "word": "戴向宇9年不知道陈紫函给他的备注",
-      "onboard_time": 1759029499,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 221352,
@@ -36307,6 +36363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176050,
+      "num": 176050,
+      "word": "朱珠扛住了G社镜头",
+      "onboard_time": 1759032081,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 176038,
       "num": 176038,
       "word": "smart官宣两座回归",
@@ -37097,6 +37161,14 @@
       "onboard_time": 1758463588,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173255,
+      "num": 173255,
+      "word": "年总大师精英擂台开战",
+      "onboard_time": 1759033341,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 173234,
@@ -38907,6 +38979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166935,
+      "num": 166935,
+      "word": "王健林",
+      "onboard_time": 1759027040,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166925,
       "num": 357307,
       "word": "领克10EMP两驱能耗解锁四驱体验",
@@ -38937,6 +39017,14 @@
       "onboard_time": 1758512723,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166876,
+      "num": 166876,
+      "word": "单休要连上九天班",
+      "onboard_time": 1759033461,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 166853,
@@ -39171,6 +39259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 166027,
+      "num": 166027,
+      "word": "iG收到王赫野的远程施法",
+      "onboard_time": 1759033040,
+      "rank": 33,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 165972,
       "num": 386461,
       "word": "祝老师节日快乐",
@@ -39257,6 +39353,14 @@
       "onboard_time": 1758090863,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "恋与深空 万达",
+      "onboard_time": 1759033582,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 165630,
@@ -39545,6 +39649,14 @@
       "onboard_time": 1757979141,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164731,
+      "num": 164731,
+      "word": "印度工程师想移民中国被网友婉拒",
+      "onboard_time": 1759032681,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164646,
@@ -40793,6 +40905,14 @@
       "onboard_time": 1758122545,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161130,
+      "num": 150247,
+      "word": "雷军回应小米17ProMax缺货",
+      "onboard_time": 1759032021,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 161118,
@@ -43451,14 +43571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153203,
-      "num": 153203,
-      "word": "宗馥莉也可能无法用娃哈哈商标",
-      "onboard_time": 1759030701,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153138,
       "num": 153138,
       "word": "美国人对华印象把日本人整破防",
@@ -43681,6 +43793,14 @@
       "onboard_time": 1756795461,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 152624,
+      "num": 152624,
+      "word": "这就是孙颖莎的超强感知",
+      "onboard_time": 1759033040,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 152604,
@@ -48107,6 +48227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142154,
+      "num": 142154,
+      "word": "孙颖莎回应中国大满贯开门红",
+      "onboard_time": 1759032861,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142152,
       "num": 140949,
       "word": "杨紫胡歌生命树预告质感",
@@ -48409,14 +48537,6 @@
       "onboard_time": 1757490203,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 141446,
-      "num": 141446,
-      "word": "鸡排家族已有9个摊位",
-      "onboard_time": 1759031121,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141349,
@@ -48993,6 +49113,14 @@
       "onboard_time": 1757333002,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140096,
+      "num": 140096,
+      "word": "PYL回应解说台上哭声",
+      "onboard_time": 1759032981,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 140091,
@@ -50529,14 +50657,6 @@
       "onboard_time": 1758856340,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136617,
-      "num": 141981,
-      "word": "王健林",
-      "onboard_time": 1759027040,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136607,
@@ -54723,6 +54843,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 127881,
+      "num": 127881,
+      "word": "孙颖莎这个手势好萌",
+      "onboard_time": 1759033702,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127859,
       "num": 127859,
       "word": "2010年的招聘要求",
@@ -56385,6 +56513,14 @@
       "onboard_time": 1757678605,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124643,
+      "num": 124643,
+      "word": "KPL",
+      "onboard_time": 1757211141,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 124633,
@@ -58089,14 +58225,6 @@
       "onboard_time": 1757991801,
       "rank": 49,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 121097,
-      "num": 121097,
-      "word": "KPL",
-      "onboard_time": 1757211141,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 121096,
@@ -60657,6 +60785,14 @@
       "onboard_time": 1758808642,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 115902,
+      "num": 150275,
+      "word": "万达集团被执行总金额超53亿元",
+      "onboard_time": 1759033040,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115869,
@@ -71835,6 +71971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91111,
+      "num": 294089,
+      "word": "曝短剧演员抛下剧组哄女友",
+      "onboard_time": 1759033461,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91076,
       "num": 91076,
       "word": "猫猫我已经走的很轻了呀",
@@ -80651,6 +80795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55689,
+      "num": 131179,
+      "word": "男子穿女装向路人喷洒不明液体",
+      "onboard_time": 1759032140,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55676,
       "num": 55676,
       "word": "DOTA2",
@@ -82121,6 +82273,14 @@
       "onboard_time": 1758342502,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50041,
+      "num": 294718,
+      "word": "辛巴关联公司被税务催报",
+      "onboard_time": 1759032741,
+      "rank": 18,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 50021,
@@ -86995,6 +87155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27425,
+      "num": 298900,
+      "word": "郭艾伦微博小编初体验",
+      "onboard_time": 1759032861,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27422,
       "num": 358909,
       "word": "风云X3L要等天门山不抽象了再爬",
@@ -87849,6 +88017,14 @@
       "onboard_time": 1757672966,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23588,
+      "num": 150499,
+      "word": "包贝尔这是红毯不是恋综",
+      "onboard_time": 1759033341,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 23576,

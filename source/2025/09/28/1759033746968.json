@@ -1,0 +1,410 @@
+{
+  "runTime": 1759033746968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 737061,
+        "num": 1117929,
+        "word": "戴向宇9年不知道陈紫函给他的备注",
+        "onboard_time": 1759029499,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 654284,
+        "num": 654284,
+        "word": "打工人即将迎来最轻松的10月份",
+        "onboard_time": 1759028241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29290,
+        "num": 551979,
+        "word": "致敬公安楷模",
+        "onboard_time": 1759025421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 982635,
+        "num": 546860,
+        "word": "K签证",
+        "onboard_time": 1759020502,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539255,
+        "num": 539255,
+        "word": "直播泄露军事秘密案",
+        "onboard_time": 1759017321,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1302347,
+        "num": 514729,
+        "word": "王健林被限制高消费",
+        "onboard_time": 1759023799,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888033,
+        "num": 504260,
+        "word": "罗琳拒绝与艾玛沃特森和解",
+        "onboard_time": 1759030880,
+        "rank": 6,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 483862,
+        "num": 483862,
+        "word": "周冬雨撕奖",
+        "onboard_time": 1759032981,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468262,
+        "num": 468262,
+        "word": "林允 水光后的针眼挺吓人",
+        "onboard_time": 1759032562,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405666,
+        "num": 405666,
+        "word": "鸡排家族已有9个摊位",
+        "onboard_time": 1759031121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 868306,
+        "num": 395812,
+        "word": "张维伊亲了小酒窝脸",
+        "onboard_time": 1759025780,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 822007,
+        "num": 388018,
+        "word": "今年最爆的剧",
+        "onboard_time": 1759017381,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375412,
+        "num": 375412,
+        "word": "赛琳娜婚礼",
+        "onboard_time": 1759028361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299108,
+        "num": 299108,
+        "word": "第五人格 幻灯师",
+        "onboard_time": 1759032621,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27425,
+        "num": 298900,
+        "word": "郭艾伦微博小编初体验",
+        "onboard_time": 1759032861,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462250,
+        "num": 297306,
+        "word": "董璇张维伊搂脖吻",
+        "onboard_time": 1759026320,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361662,
+        "num": 296209,
+        "word": "网红唐飞机直播时坠机不幸身亡",
+        "onboard_time": 1759014739,
+        "rank": 16,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 326888,
+        "num": 295559,
+        "word": "赛琳娜婚纱照",
+        "onboard_time": 1759026260,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50041,
+        "num": 294718,
+        "word": "辛巴关联公司被税务催报",
+        "onboard_time": 1759032741,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 91111,
+        "num": 294089,
+        "word": "曝短剧演员抛下剧组哄女友",
+        "onboard_time": 1759033461,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541848,
+        "num": 292922,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292238,
+        "num": 292238,
+        "word": "印度踩踏死亡升至39人",
+        "onboard_time": 1759025721,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323030,
+        "num": 288602,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272486,
+        "num": 272486,
+        "word": "花海铠神罪皮肤签名",
+        "onboard_time": 1759029320,
+        "rank": 23,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 259798,
+        "num": 259798,
+        "word": "高志凯怒喷非洲学生",
+        "onboard_time": 1759023740,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244029,
+        "num": 244029,
+        "word": "宗馥莉也可能无法用娃哈哈商标",
+        "onboard_time": 1759030701,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242352,
+        "num": 242352,
+        "word": "万达知情人回应王健林被限高",
+        "onboard_time": 1759031661,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231724,
+        "num": 231724,
+        "word": "孙颖莎vs平野美宇",
+        "onboard_time": 1759028900,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227531,
+        "num": 227531,
+        "word": "暗河传",
+        "onboard_time": 1759027880,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176050,
+        "num": 176050,
+        "word": "朱珠扛住了G社镜头",
+        "onboard_time": 1759032081,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173255,
+        "num": 173255,
+        "word": "年总大师精英擂台开战",
+        "onboard_time": 1759033341,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166935,
+        "num": 166935,
+        "word": "王健林",
+        "onboard_time": 1759027040,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166876,
+        "num": 166876,
+        "word": "单休要连上九天班",
+        "onboard_time": 1759033461,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166027,
+        "num": 166027,
+        "word": "iG收到王赫野的远程施法",
+        "onboard_time": 1759033040,
+        "rank": 33,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 165666,
+        "num": 165666,
+        "word": "恋与深空 万达",
+        "onboard_time": 1759033582,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164833,
+        "num": 164833,
+        "word": "狗狗自家院休息被陌生车辆闯入碾死",
+        "onboard_time": 1759027279,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164731,
+        "num": 164731,
+        "word": "印度工程师想移民中国被网友婉拒",
+        "onboard_time": 1759032681,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152624,
+        "num": 152624,
+        "word": "这就是孙颖莎的超强感知",
+        "onboard_time": 1759033040,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23588,
+        "num": 150499,
+        "word": "包贝尔这是红毯不是恋综",
+        "onboard_time": 1759033341,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115902,
+        "num": 150275,
+        "word": "万达集团被执行总金额超53亿元",
+        "onboard_time": 1759033040,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161130,
+        "num": 150247,
+        "word": "雷军回应小米17ProMax缺货",
+        "onboard_time": 1759032021,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150201,
+        "num": 150201,
+        "word": "中秋国庆8天安排",
+        "onboard_time": 1759028659,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148853,
+        "num": 148853,
+        "word": "千万富翁与母亲相认送房子银行卡",
+        "onboard_time": 1759029740,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142154,
+        "num": 142154,
+        "word": "孙颖莎回应中国大满贯开门红",
+        "onboard_time": 1759032861,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140096,
+        "num": 140096,
+        "word": "PYL回应解说台上哭声",
+        "onboard_time": 1759032981,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139765,
+        "num": 139765,
+        "word": "易烊千玺 影院见",
+        "onboard_time": 1759026679,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137611,
+        "num": 137611,
+        "word": "肖战出道战绩",
+        "onboard_time": 1759028959,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55689,
+        "num": 131179,
+        "word": "男子穿女装向路人喷洒不明液体",
+        "onboard_time": 1759032140,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127881,
+        "num": 127881,
+        "word": "孙颖莎这个手势好萌",
+        "onboard_time": 1759033702,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124643,
+        "num": 124643,
+        "word": "KPL",
+        "onboard_time": 1759032260,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新疆之行#"
+    }
+  }
+}
