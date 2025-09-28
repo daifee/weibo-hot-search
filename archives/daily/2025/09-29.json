@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759101721801,
+  "endTime": 1759102599756,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -51,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 594263,
+      "num": 186704,
+      "word": "刘天池说朱媛媛去世后未见过辛柏青",
+      "onboard_time": 1759100898,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557363,
       "num": 531880,
       "word": "沈佳润出场 小沈阳被抬走",
@@ -91,14 +99,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 385487,
-      "num": 152499,
-      "word": "刘天池说朱媛媛去世后未见过辛柏青",
-      "onboard_time": 1759100898,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 357112,
       "num": 215686,
       "word": "小酒窝让佟丽娅带去找宋亚轩",
@@ -121,6 +121,14 @@
       "onboard_time": 1759071385,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236056,
+      "num": 154044,
+      "word": "林依轮 我的娘我也爱肖战",
+      "onboard_time": 1759096635,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 222729,
@@ -147,19 +155,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206998,
+      "num": 215938,
+      "word": "韩国首尔爆发反以色列游行",
+      "onboard_time": 1759064602,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 205903,
       "num": 215191,
       "word": "周深题词器",
       "onboard_time": 1759072463,
       "rank": 22,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 197686,
-      "num": 149000,
-      "word": "林依轮 我的娘我也爱肖战",
-      "onboard_time": 1759096635,
-      "rank": 14,
       "category": "演出"
     },
     {
@@ -211,14 +219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 179067,
-      "num": 215938,
-      "word": "韩国首尔爆发反以色列游行",
-      "onboard_time": 1759064602,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 170132,
       "num": 214845,
       "word": "魏大勋这段rap",
@@ -241,6 +241,14 @@
       "onboard_time": 1759076361,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161932,
+      "num": 161932,
+      "word": "官方回应卖女孩的红烧肉店名争议",
+      "onboard_time": 1759090514,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158750,
@@ -275,14 +283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144041,
-      "num": 144041,
-      "word": "官方回应卖女孩的红烧肉店名争议",
-      "onboard_time": 1759090514,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143022,
       "num": 214287,
       "word": "湾区升明月座位图",
@@ -313,6 +313,14 @@
       "onboard_time": 1759042461,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125002,
+      "num": 148229,
+      "word": "美国一起枪击2死8伤",
+      "onboard_time": 1759101500,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124804,
@@ -355,12 +363,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105987,
+      "num": 105987,
+      "word": "哈尔滨图书馆回应3千至4千招聘硕博",
+      "onboard_time": 1759095854,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104757,
       "num": 214666,
       "word": "王楚钦隔壁老樊双向奔赴",
       "onboard_time": 1759075104,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 104227,
+      "num": 104227,
+      "word": "国庆中秋出行避开这2个客流高峰",
+      "onboard_time": 1759101739,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100679,
@@ -371,12 +395,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99651,
-      "num": 99651,
-      "word": "哈尔滨图书馆回应3千至4千招聘硕博",
-      "onboard_time": 1759095854,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 99282,
+      "num": 99282,
+      "word": "陈楚生一开口湾区变江湖",
+      "onboard_time": 1759101018,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 93204,
@@ -393,6 +417,22 @@
       "onboard_time": 1759054760,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89001,
+      "num": 89001,
+      "word": "卖女孩的红烧肉 店名争议",
+      "onboard_time": 1759058601,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87529,
+      "num": 87529,
+      "word": "日本计划引进5万名印度技术人才",
+      "onboard_time": 1759064063,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86692,
@@ -419,12 +459,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82834,
-      "num": 82834,
-      "word": "卖女孩的红烧肉 店名争议",
-      "onboard_time": 1759058601,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 83738,
+      "num": 83738,
+      "word": "日本2岁女童被父母长期虐待致死",
+      "onboard_time": 1759082895,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 82905,
+      "num": 82905,
+      "word": "昀牵孟绕",
+      "onboard_time": 1759065144,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 78571,
@@ -459,12 +507,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71798,
-      "num": 71798,
-      "word": "日本2岁女童被父母长期虐待致死",
-      "onboard_time": 1759082895,
-      "rank": 37,
+      "raw_hot": 73603,
+      "num": 73603,
+      "word": "小沈阳真的别太宠了",
+      "onboard_time": 1759101619,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 72445,
+      "num": 72445,
+      "word": "加拿大海滩快成北美版恒河",
+      "onboard_time": 1759101859,
+      "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 71672,
+      "num": 71672,
+      "word": "夜空中最亮的星 都以为自己是麦霸",
+      "onboard_time": 1759100178,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 67735,
@@ -475,12 +539,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 64556,
-      "num": 64556,
-      "word": "日本计划引进5万名印度技术人才",
-      "onboard_time": 1759064063,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 65717,
+      "num": 65717,
+      "word": "为什么对他人不要过于慷慨",
+      "onboard_time": 1759101079,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 65321,
+      "num": 65321,
+      "word": "朱珠郭晶晶合照",
+      "onboard_time": 1759096574,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 62376,
@@ -488,6 +560,14 @@
       "word": "被王欣瑜治愈系笑容融化了",
       "onboard_time": 1759076242,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61002,
+      "num": 61002,
+      "word": "纽卡斯尔联1比2阿森纳",
+      "onboard_time": 1759102099,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -515,36 +595,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 58738,
-      "num": 58738,
-      "word": "昀牵孟绕",
-      "onboard_time": 1759065144,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 58640,
-      "num": 58640,
-      "word": "夜空中最亮的星 都以为自己是麦霸",
-      "onboard_time": 1759100178,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 57476,
-      "num": 57476,
-      "word": "朱珠郭晶晶合照",
-      "onboard_time": 1759096574,
+      "raw_hot": 57061,
+      "num": 57061,
+      "word": "小猫真的低估了自己的体重了",
+      "onboard_time": 1759101500,
       "rank": 43,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 57375,
-      "num": 57375,
-      "word": "陈楚生一开口湾区变江湖",
-      "onboard_time": 1759101018,
-      "rank": 39,
-      "category": "演出"
+      "category": "幽默"
     },
     {
       "raw_hot": 56505,
@@ -579,30 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52285,
-      "num": 52285,
-      "word": "小猫真的低估了自己的体重了",
-      "onboard_time": 1759101500,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 48485,
-      "num": 48485,
-      "word": "小沈阳真的别太宠了",
-      "onboard_time": 1759101619,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 46959,
-      "num": 46959,
-      "word": "为什么对他人不要过于慷慨",
-      "onboard_time": 1759101079,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 43138,
       "num": 79089,
       "word": "吾爱吾国",
@@ -633,14 +665,6 @@
       "onboard_time": 1759080377,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27982,
-      "num": 100217,
-      "word": "美国一起枪击2死8伤",
-      "onboard_time": 1759101500,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 26684,
@@ -731,7 +755,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 4689,
+      "raw_hot": 5091,
       "num": 545824,
       "word": "10月1日客流或超3.4亿人次",
       "onboard_time": 1759025960,
