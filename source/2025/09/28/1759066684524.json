@@ -1,0 +1,410 @@
+{
+  "runTime": 1759066684524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7918027,
+        "num": 7918027,
+        "word": "湾区升明月",
+        "onboard_time": 1759057820,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 582143,
+        "num": 582143,
+        "word": "月饼名字是把配料表抄上去了吧",
+        "onboard_time": 1759057701,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24369,
+        "num": 411839,
+        "word": "行走大美中国",
+        "onboard_time": 1759052960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1457702,
+        "num": 371629,
+        "word": "肖战容祖儿成龙坐一起",
+        "onboard_time": 1759061122,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296320,
+        "num": 296320,
+        "word": "男子欠5000被催债后说每分钟还50",
+        "onboard_time": 1759058240,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791640,
+        "num": 295234,
+        "word": "华南理工大学校内发生车祸有人被撞",
+        "onboard_time": 1759065324,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1200210,
+        "num": 281042,
+        "word": "苏醒 跑调",
+        "onboard_time": 1759061721,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 816875,
+        "num": 266671,
+        "word": "刘宇宁真稳",
+        "onboard_time": 1759064484,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251817,
+        "num": 251817,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1759062503,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207532,
+        "num": 251761,
+        "word": "卖女孩的红烧肉 店名争议",
+        "onboard_time": 1759058601,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562934,
+        "num": 251265,
+        "word": "王力宏抢拍 真唱证明",
+        "onboard_time": 1759061362,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 552068,
+        "num": 250979,
+        "word": "湾区升明月 全开麦",
+        "onboard_time": 1759063281,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 550904,
+        "num": 250791,
+        "word": "单依纯上车摔倒",
+        "onboard_time": 1759062323,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549782,
+        "num": 250209,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302204,
+        "num": 249912,
+        "word": "王健林已卖掉85个万达广场",
+        "onboard_time": 1759042461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597594,
+        "num": 249782,
+        "word": "时代少年团 台偶串烧",
+        "onboard_time": 1759063523,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288981,
+        "num": 249231,
+        "word": "遭老板性侵女子回应要2千万赔偿",
+        "onboard_time": 1759063042,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170610,
+        "num": 248942,
+        "word": "iPhone很容易被遗忘的功能",
+        "onboard_time": 1759058720,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170329,
+        "num": 248537,
+        "word": "王楚钦中国大满贯2025开门红",
+        "onboard_time": 1759065144,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145092,
+        "num": 248384,
+        "word": "张本智和想成为世界第一",
+        "onboard_time": 1759064784,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376269,
+        "num": 248101,
+        "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
+        "onboard_time": 1759061662,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361893,
+        "num": 247586,
+        "word": "单依纯 串烧",
+        "onboard_time": 1759064906,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354024,
+        "num": 247481,
+        "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
+        "onboard_time": 1759044560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304040,
+        "num": 247031,
+        "word": "曝短剧导演熬夜猝死",
+        "onboard_time": 1759052661,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278068,
+        "num": 246807,
+        "word": "沈佳润小沈阳财阀千金和他的保镖",
+        "onboard_time": 1759066463,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276852,
+        "num": 246216,
+        "word": "昀牵孟绕",
+        "onboard_time": 1759065144,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264864,
+        "num": 245943,
+        "word": "新华社发的时代少年团",
+        "onboard_time": 1759063162,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262015,
+        "num": 245711,
+        "word": "小酒窝朵朵开场",
+        "onboard_time": 1759062562,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245544,
+        "num": 245544,
+        "word": "王力宏单依纯再唱落叶归根",
+        "onboard_time": 1759061962,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91684,
+        "num": 240610,
+        "word": "18.99万的smart开启超级电混时代",
+        "onboard_time": 1759066524,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 238851,
+        "num": 238851,
+        "word": "徐怀钰嗓子",
+        "onboard_time": 1759065744,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220745,
+        "num": 220745,
+        "word": "韩国首尔爆发反以色列游行",
+        "onboard_time": 1759064602,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202902,
+        "num": 202902,
+        "word": "苏醒回应跑调",
+        "onboard_time": 1759066524,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198581,
+        "num": 198581,
+        "word": "王源骄傲 好听",
+        "onboard_time": 1759066524,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195445,
+        "num": 195445,
+        "word": "屠洪刚 宝刀未老",
+        "onboard_time": 1759065503,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189724,
+        "num": 189724,
+        "word": "肖战被前辈赞为特别棒的歌手",
+        "onboard_time": 1759060221,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179249,
+        "num": 179249,
+        "word": "陈都灵泳池照",
+        "onboard_time": 1759059801,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177395,
+        "num": 177395,
+        "word": "再回首",
+        "onboard_time": 1759066225,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176822,
+        "num": 176822,
+        "word": "车超强奸故意杀人案再审宣判",
+        "onboard_time": 1759050080,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173080,
+        "num": 173080,
+        "word": "一听就是周深",
+        "onboard_time": 1759064843,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124844,
+        "num": 165831,
+        "word": "仙逆动画",
+        "onboard_time": 1759063583,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 67919,
+        "num": 164410,
+        "word": "贵州1溶洞被曝垃圾成山污水直排",
+        "onboard_time": 1759064424,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164141,
+        "num": 164141,
+        "word": "刘亦菲爽文大女主",
+        "onboard_time": 1759065983,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164121,
+        "num": 164121,
+        "word": "罗予彤 同父异母的哥哥",
+        "onboard_time": 1759055780,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149129,
+        "num": 149129,
+        "word": "关晓彤好敢说",
+        "onboard_time": 1759055600,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147096,
+        "num": 147096,
+        "word": "恶作剧",
+        "onboard_time": 1759065084,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144552,
+        "num": 144552,
+        "word": "金海心太好听了",
+        "onboard_time": 1759066284,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141738,
+        "num": 141738,
+        "word": "李佳薇依旧稳",
+        "onboard_time": 1759065024,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122560,
+        "num": 122560,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121841,
+        "num": 121841,
+        "word": "林小宅自曝试戏一年多没人要",
+        "onboard_time": 1759057881,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#情暖天山#"
+    }
+  }
+}

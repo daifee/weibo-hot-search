@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 21:26:44
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 21:38:04
 </p>
 </blockquote>
 <p>
@@ -202,7 +202,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23" target="weibo">
-湾区升明月（热度：7123012）
+湾区升明月（热度：7918027）
 </a>
 </li>
 
@@ -4965,6 +4965,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9C%9F%E7%A8%B3%23" target="weibo">
+刘宇宁真稳（热度：816875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%96%AD%E8%B4%A7%23" target="weibo">
 蜜雪冰城回应柠檬水断货（热度：816809）
 </a>
@@ -5243,6 +5249,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%BB%99%E6%9D%A8%E5%B9%82%E9%80%81%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23" target="weibo">
 刘诗诗给杨幂送生日祝福（热度：791697）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%86%85%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%92%9E%23" target="weibo">
+华南理工大学校内发生车祸有人被撞（热度：791640）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E9%97%B7%E5%A3%B0%E5%B9%B2%E5%A4%A7%E4%BA%8B%23" target="weibo">
 沈佳润闷声干大事（热度：725113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%AD%90%E5%A6%83%E5%8D%87%E8%81%8C%E8%AE%B0%23" target="weibo">
-太子妃升职记（热度：724871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%A2%AB%E6%89%93%E5%A6%BB%E5%AD%90%E8%AE%A8%E8%AF%B4%E6%B3%95%E8%BE%B1%E9%AA%82%E6%B3%95%E5%AE%98%E8%A2%AB%E9%87%8D%E7%BD%9A%23" target="weibo">
-丈夫被打妻子讨说法辱骂法官被重罚（热度：724365）
 </a>
 </li>
 

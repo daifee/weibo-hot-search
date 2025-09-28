@@ -1,10 +1,10 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759066004562,
+  "endTime": 1759066684524,
   "band_list": [
     {
-      "raw_hot": 7123012,
-      "num": 7123012,
+      "raw_hot": 7918027,
+      "num": 7918027,
       "word": "湾区升明月",
       "onboard_time": 1759057820,
       "rank": 3,
@@ -171,10 +171,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 816875,
+      "num": 304562,
+      "word": "刘宇宁真稳",
+      "onboard_time": 1759064484,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 802989,
       "num": 539110,
       "word": "万达",
       "onboard_time": 1759035082,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 791640,
+      "num": 308795,
+      "word": "华南理工大学校内发生车祸有人被撞",
+      "onboard_time": 1759065324,
       "rank": 5,
       "category": "民生新闻"
     },
@@ -241,14 +257,6 @@
       "onboard_time": 1758987202,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 663555,
-      "num": 304562,
-      "word": "刘宇宁真稳",
-      "onboard_time": 1759064484,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 662560,
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597594,
+      "num": 284000,
+      "word": "时代少年团 台偶串烧",
+      "onboard_time": 1759063523,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589949,
       "num": 399849,
       "word": "王健林已卖掉85个万达广场",
@@ -363,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557867,
-      "num": 284000,
-      "word": "时代少年团 台偶串烧",
-      "onboard_time": 1759063523,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 554801,
       "num": 391778,
       "word": "李现 怎么在国外还追星",
@@ -385,6 +393,22 @@
       "onboard_time": 1759030701,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552068,
+      "num": 287107,
+      "word": "湾区升明月 全开麦",
+      "onboard_time": 1759063281,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 550904,
+      "num": 274713,
+      "word": "单依纯上车摔倒",
+      "onboard_time": 1759062323,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 537302,
@@ -419,14 +443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 519418,
-      "num": 287107,
-      "word": "湾区升明月 全开麦",
-      "onboard_time": 1759063281,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 512095,
       "num": 512095,
       "word": "南方网评张雪峰",
@@ -443,16 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 504331,
-      "num": 274713,
-      "word": "单依纯上车摔倒",
-      "onboard_time": 1759062323,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 495839,
-      "num": 212946,
+      "num": 245943,
       "word": "新华社发的时代少年团",
       "onboard_time": 1759063162,
       "rank": 26,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 383769,
-      "num": 206968,
+      "num": 248101,
       "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
       "onboard_time": 1759061662,
       "rank": 21,
@@ -675,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362319,
-      "num": 308795,
-      "word": "华南理工大学校内发生车祸有人被撞",
-      "onboard_time": 1759065324,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 361893,
+      "num": 247586,
+      "word": "单依纯 串烧",
+      "onboard_time": 1759064906,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 355962,
@@ -699,16 +707,8 @@
       "category": "电竞,游戏"
     },
     {
-      "raw_hot": 340961,
-      "num": 206675,
-      "word": "单依纯 串烧",
-      "onboard_time": 1759064906,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 338572,
-      "num": 206621,
+      "num": 245711,
       "word": "小酒窝朵朵开场",
       "onboard_time": 1759062562,
       "rank": 25,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 299941,
-      "num": 205912,
+      "num": 245544,
       "word": "王力宏单依纯再唱落叶归根",
       "onboard_time": 1759061962,
       "rank": 30,
@@ -795,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288981,
+      "num": 249231,
+      "word": "遭老板性侵女子回应要2千万赔偿",
+      "onboard_time": 1759063042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288595,
       "num": 288595,
       "word": "连续吃6个月水煮菜胰腺坏死了",
@@ -819,8 +827,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 269484,
-      "num": 206155,
+      "raw_hot": 278068,
+      "num": 246807,
+      "word": "沈佳润小沈阳财阀千金和他的保镖",
+      "onboard_time": 1759066463,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276852,
+      "num": 246216,
       "word": "昀牵孟绕",
       "onboard_time": 1759065144,
       "rank": 26,
@@ -907,20 +923,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240336,
-      "num": 240336,
-      "word": "遭老板性侵女子回应要2千万赔偿",
-      "onboard_time": 1759063042,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240184,
       "num": 240184,
       "word": "普林斯顿中国博士后李昊然去世",
       "onboard_time": 1759016720,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238851,
+      "num": 238851,
+      "word": "徐怀钰嗓子",
+      "onboard_time": 1759065744,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 231749,
@@ -963,19 +979,19 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 220745,
+      "num": 220745,
+      "word": "韩国首尔爆发反以色列游行",
+      "onboard_time": 1759064602,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 220446,
       "num": 220446,
       "word": "印度发生踩踏36死",
       "onboard_time": 1759015878,
       "rank": 29,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 219292,
-      "num": 205528,
-      "word": "韩国首尔爆发反以色列游行",
-      "onboard_time": 1759064602,
-      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -1020,11 +1036,19 @@
     },
     {
       "raw_hot": 207364,
-      "num": 207364,
+      "num": 248537,
       "word": "王楚钦中国大满贯2025开门红",
       "onboard_time": 1759065144,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202902,
+      "num": 202902,
+      "word": "苏醒回应跑调",
+      "onboard_time": 1759066524,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 202415,
@@ -1083,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198581,
+      "num": 198581,
+      "word": "王源骄傲 好听",
+      "onboard_time": 1759066524,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198562,
       "num": 198562,
       "word": "韩国外卖平台接入支付宝和微信支付",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1759047921,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 195445,
+      "num": 195445,
+      "word": "屠洪刚 宝刀未老",
+      "onboard_time": 1759065503,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 193048,
@@ -1284,7 +1324,7 @@
     },
     {
       "raw_hot": 179939,
-      "num": 214832,
+      "num": 248942,
       "word": "iPhone很容易被遗忘的功能",
       "onboard_time": 1759058720,
       "rank": 31,
@@ -1323,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177395,
+      "num": 177395,
+      "word": "再回首",
+      "onboard_time": 1759066225,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176150,
       "num": 140766,
       "word": "韩博主拿柠檬水质疑中国餐馆水质",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1758991339,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173541,
-      "num": 173541,
-      "word": "屠洪刚 宝刀未老",
-      "onboard_time": 1759065503,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 173255,
@@ -1483,6 +1523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164141,
+      "num": 164141,
+      "word": "刘亦菲爽文大女主",
+      "onboard_time": 1759065983,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162906,
       "num": 162906,
       "word": "王玉雯跳舞像老实人豁出去了",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1759035383,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 157554,
-      "num": 157554,
-      "word": "徐怀钰嗓子",
-      "onboard_time": 1759065744,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 157292,
@@ -1715,6 +1755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145092,
+      "num": 248384,
+      "word": "张本智和想成为世界第一",
+      "onboard_time": 1759064784,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144912,
       "num": 144912,
       "word": "双节期间小客车免收通行费",
@@ -1739,20 +1787,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144552,
+      "num": 144552,
+      "word": "金海心太好听了",
+      "onboard_time": 1759066284,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144275,
       "num": 144275,
       "word": "央视曝光假钻戒成本仅3元",
       "onboard_time": 1759017381,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142841,
-      "num": 207105,
-      "word": "张本智和想成为世界第一",
-      "onboard_time": 1759064784,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 142154,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1759051039,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124844,
+      "num": 165831,
+      "word": "仙逆动画",
+      "onboard_time": 1759063583,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 124643,
@@ -2467,14 +2523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106171,
-      "num": 106171,
-      "word": "刘亦菲爽文大女主",
-      "onboard_time": 1759065983,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 106078,
       "num": 106078,
       "word": "张宥浩跟了志愿军剧组3年",
@@ -2803,20 +2851,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91684,
+      "num": 240610,
+      "word": "18.99万的smart开启超级电混时代",
+      "onboard_time": 1759066524,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 91676,
       "num": 91676,
       "word": "逛超市是一件很亲密的事情",
       "onboard_time": 1759055840,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91625,
-      "num": 110288,
-      "word": "仙逆动画",
-      "onboard_time": 1759063583,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 91175,
@@ -3067,6 +3115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 67919,
+      "num": 205757,
+      "word": "贵州1溶洞被曝垃圾成山污水直排",
+      "onboard_time": 1759064424,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66863,
       "num": 123738,
       "word": "张凌赫王楚然嘟嘴吻戏",
@@ -3289,14 +3345,6 @@
       "onboard_time": 1759009394,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 51012,
-      "num": 205757,
-      "word": "贵州1溶洞被曝垃圾成山污水直排",
-      "onboard_time": 1759064424,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50604,
@@ -3547,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24369,
+      "num": 411839,
+      "word": "行走大美中国",
+      "onboard_time": 1759052960,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23992,
       "num": 35422,
       "word": "鞠婧祎米兰启程回国",
@@ -3569,14 +3625,6 @@
       "onboard_time": 1759051461,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22666,
-      "num": 313838,
-      "word": "行走大美中国",
-      "onboard_time": 1759052960,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22473,
