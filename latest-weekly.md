@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/29 04:37:29
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/29 05:21:10
 </p>
 </blockquote>
 <p>
@@ -3141,6 +3141,12 @@ BV米兰时装周明星状态（热度：30091）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%96%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%BA%A2%E7%83%A7%E8%82%89%E5%BA%97%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
+官方回应卖女孩的红烧肉店名争议（热度：27927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%BE%AE%E5%8D%9A%E5%B0%8F%E7%BC%96%E5%88%9D%E4%BD%93%E9%AA%8C%23" target="weibo">
 郭艾伦微博小编初体验（热度：27425）
 </a>
@@ -3317,12 +3323,6 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E6%99%AE%E6%8B%89%E8%BE%BE%E7%9A%84%E5%A5%B3%E7%8E%8B2%E6%8A%8A%E7%A7%80%E5%9C%BA%E5%8F%98%E7%89%87%E5%9C%BA%E4%BA%86%23" target="weibo">
 穿普拉达的女王2把秀场变片场了（热度：18610）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%96%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%BA%A2%E7%83%A7%E8%82%89%E5%BA%97%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
-官方回应卖女孩的红烧肉店名争议（热度：17847）
 </a>
 </li>
 

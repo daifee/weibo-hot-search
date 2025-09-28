@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/29 00:27:01 ~ 2025/09/29 04:37:29
+本榜单时间：2025/09/29 00:27:01 ~ 2025/09/29 05:21:10
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%96%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%BA%A2%E7%83%A7%E8%82%89%E5%BA%97%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
+官方回应卖女孩的红烧肉店名争议（热度：27927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%96%91%E4%BC%BC%E9%BB%91%E5%B9%95%E5%AE%9E%E5%88%99%E5%AE%A0%E7%B2%89%23" target="weibo">
 汪苏泷疑似黑幕实则宠粉（热度：24958）
 </a>
@@ -449,12 +455,6 @@ JDG秋季赛夺冠（热度：56505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%93%E6%A3%A0%E5%88%98%E5%AE%87%E5%90%88%E5%94%B1%E8%BF%BD%E5%85%89%23" target="weibo">
 姚晓棠刘宇合唱追光（热度：19379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%96%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%BA%A2%E7%83%A7%E8%82%89%E5%BA%97%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
-官方回应卖女孩的红烧肉店名争议（热度：17847）
 </a>
 </li>
 
