@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759034525679,
+  "endTime": 1759037027419,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -67,12 +67,20 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 917273,
+      "raw_hot": 1089819,
       "num": 917273,
       "word": "周冬雨撕奖",
       "onboard_time": 1759032981,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 920937,
+      "num": 1147349,
+      "word": "湾区升明月节目单",
+      "onboard_time": 1759033341,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 888033,
@@ -81,14 +89,6 @@
       "onboard_time": 1759030880,
       "rank": 12,
       "category": "艺人,电影"
-    },
-    {
-      "raw_hot": 879805,
-      "num": 879805,
-      "word": "湾区升明月节目单",
-      "onboard_time": 1759033341,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 737061,
@@ -195,12 +195,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 535813,
+      "num": 294089,
+      "word": "曝短剧演员抛下剧组哄女友",
+      "onboard_time": 1759033461,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527301,
       "num": 527301,
       "word": "以色列就要没朋友了",
       "onboard_time": 1759019422,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 489374,
+      "num": 244029,
+      "word": "宗馥莉也可能无法用娃哈哈商标",
+      "onboard_time": 1759030701,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464731,
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316127,
+      "num": 316127,
+      "word": "万达",
+      "onboard_time": 1759035082,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310558,
       "num": 310558,
       "word": "网传湾区升明月节目单",
@@ -459,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244029,
-      "num": 244029,
-      "word": "宗馥莉也可能无法用娃哈哈商标",
-      "onboard_time": 1759030701,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242352,
       "num": 242352,
       "word": "万达知情人回应王健林被限高",
@@ -523,6 +539,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 208861,
+      "num": 176050,
+      "word": "朱珠扛住了G社镜头",
+      "onboard_time": 1759032081,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 207411,
       "num": 207411,
       "word": "张真源把团队胜利压在自己身上",
@@ -563,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195090,
-      "num": 294089,
-      "word": "曝短剧演员抛下剧组哄女友",
-      "onboard_time": 1759033461,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193048,
       "num": 193048,
       "word": "肖战出道战绩",
@@ -593,6 +609,14 @@
       "onboard_time": 1759029740,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184304,
+      "num": 184304,
+      "word": "iPhone 调休闹钟",
+      "onboard_time": 1759035201,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 184256,
@@ -641,14 +665,6 @@
       "onboard_time": 1759014917,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 176050,
-      "num": 176050,
-      "word": "朱珠扛住了G社镜头",
-      "onboard_time": 1759032081,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 175905,
@@ -755,6 +771,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 160499,
+      "num": 160499,
+      "word": "一分钟月饼教程",
+      "onboard_time": 1759035862,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 158817,
+      "num": 158817,
+      "word": "杨幂嘉人十月刊封面",
+      "onboard_time": 1759035383,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 156482,
       "num": 156482,
       "word": "网红唐飞机曾两次坠机仍未停飞",
@@ -825,6 +857,14 @@
       "onboard_time": 1759022121,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144748,
+      "num": 144748,
+      "word": "绘旅人重逢与永恒之诗",
+      "onboard_time": 1759036401,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 144595,
@@ -907,6 +947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134969,
+      "num": 134969,
+      "word": "当地劳动部门已跟进企业取消额外假",
+      "onboard_time": 1759036160,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134353,
       "num": 134353,
       "word": "鸡排哥怼黄牛",
@@ -929,6 +977,14 @@
       "onboard_time": 1759024521,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130806,
+      "num": 130806,
+      "word": "恋与深空 万达电影",
+      "onboard_time": 1759033582,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 130715,
@@ -963,6 +1019,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 128801,
+      "num": 128801,
+      "word": "LV首尔开餐厅3只牛肉饺子243元",
+      "onboard_time": 1759036761,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128781,
       "num": 128781,
       "word": "张凌赫告别慕容清峄",
@@ -987,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125039,
+      "num": 125039,
+      "word": "十代铁三角演了九门",
+      "onboard_time": 1759035921,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124987,
       "num": 124987,
       "word": "印媒高度关注中国K签证",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1759020442,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123803,
+      "num": 119184,
+      "word": "中彩票冷知识",
+      "onboard_time": 1759036282,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 121922,
@@ -1049,6 +1129,14 @@
       "onboard_time": 1758986002,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119206,
+      "num": 119206,
+      "word": "原神5周年赠礼",
+      "onboard_time": 1759034963,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 116597,
@@ -1180,7 +1268,7 @@
     },
     {
       "raw_hot": 105277,
-      "num": 105277,
+      "num": 316251,
       "word": "这就是中国人的奋斗回响",
       "onboard_time": 1759020442,
       "rank": 41,
@@ -1219,6 +1307,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 102067,
+      "num": 102067,
+      "word": "57岁阿姨用英文帮儿子卖滞销苹果",
+      "onboard_time": 1759037001,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101805,
       "num": 132708,
       "word": "小酒窝和朵朵一起接受央视采访",
@@ -1241,6 +1337,14 @@
       "onboard_time": 1759030161,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 101088,
+      "num": 121303,
+      "word": "免费即将结束还在高速上怎么办",
+      "onboard_time": 1759036642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101051,
@@ -1331,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85860,
+      "num": 145780,
+      "word": "李沁这款朋友到底谁在拥有",
+      "onboard_time": 1759036221,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85179,
       "num": 86376,
       "word": "为啥以前不过敏现在突然过敏了",
@@ -1369,6 +1481,14 @@
       "onboard_time": 1758992418,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80772,
+      "num": 157087,
+      "word": "光盘照获高德美食摄影大赛金奖",
+      "onboard_time": 1759035862,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 80596,
@@ -1427,6 +1547,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 74560,
+      "num": 115059,
+      "word": "航班提前15小时飞乘客损失谁承担",
+      "onboard_time": 1759035624,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72296,
       "num": 132642,
       "word": "外媒报道鞠婧祎",
@@ -1481,6 +1609,14 @@
       "onboard_time": 1759012755,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 63659,
+      "num": 112437,
+      "word": "杨广弟来给孙颖莎加油了",
+      "onboard_time": 1759035443,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 63550,
@@ -1651,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39139,
+      "num": 122323,
+      "word": "唐飞机曾称超轻飞行器无需报备",
+      "onboard_time": 1759035982,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37753,
       "num": 300382,
       "word": "在厦门被这些小善举触动",
@@ -1691,6 +1835,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 28168,
+      "num": 124277,
+      "word": "王星越秋日风衣帅哥",
+      "onboard_time": 1759034963,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27425,
       "num": 305820,
       "word": "郭艾伦微博小编初体验",
@@ -1724,7 +1876,7 @@
     },
     {
       "raw_hot": 25732,
-      "num": 112987,
+      "num": 123395,
       "word": "时代少年团开学给你打电话",
       "onboard_time": 1759034182,
       "rank": 49,
@@ -1779,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21966,
+      "num": 144900,
+      "word": "张若昀在秘境里看到了什么",
+      "onboard_time": 1759035921,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21498,
       "num": 18921,
       "word": "汪苏泷自己给自己逗笑了",
@@ -1793,6 +1953,22 @@
       "onboard_time": 1758998295,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19780,
+      "num": 165266,
+      "word": "郑钦文回应时隔88天重返赛场",
+      "onboard_time": 1759035801,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18899,
+      "num": 119779,
+      "word": "李沁回复七老童心",
+      "onboard_time": 1759036642,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 14546,
@@ -1846,6 +2022,9 @@
   "hotgov_list": [
     {
       "word": "#总书记新疆之行#"
+    },
+    {
+      "word": "#习近平同古共中央第一书记互致贺电#"
     }
   ]
 }

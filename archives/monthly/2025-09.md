@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 12:42:05
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 13:23:47
 </p>
 </blockquote>
 <p>
@@ -3015,6 +3015,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E6%92%95%E5%A5%96%23" target="weibo">
+周冬雨撕奖（热度：1089819）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E5%9C%A8%E4%BA%AC%E4%BC%9A%E8%B0%88%23" target="weibo">
 普京与金正恩在京会谈（热度：1085535）
 </a>
@@ -3939,6 +3945,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
+湾区升明月节目单（热度：920937）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E8%A7%A3%E8%AF%B4%20%E5%88%9A%E5%BC%BA%E5%AE%9D%E6%99%93%E5%B3%B0%23" target="weibo">
 阅兵解说 刚强宝晓峰（热度：920545）
 </a>
@@ -3953,12 +3965,6 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E4%B9%9F%E6%9C%89%E5%B7%A5%E8%B5%84%23" target="weibo">
 和平鸽也有工资（热度：918878）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E6%92%95%E5%A5%96%23" target="weibo">
-周冬雨撕奖（热度：917273）
 </a>
 </li>
 
@@ -4265,12 +4271,6 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%85%E9%80%80%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%23" target="weibo">
 以色列清退中国工人（热度：880676）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
-湾区升明月节目单（热度：879805）
 </a>
 </li>
 
@@ -6539,6 +6539,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E7%96%86%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
 #总书记新疆之行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8F%A4%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%AC%AC%E4%B8%80%E4%B9%A6%E8%AE%B0%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
+#习近平同古共中央第一书记互致贺电#
 </a>
 </li>
 

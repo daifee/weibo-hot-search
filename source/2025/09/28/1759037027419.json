@@ -1,0 +1,410 @@
+{
+  "runTime": 1759037027419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920937,
+        "num": 1147349,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316514,
+        "num": 316514,
+        "word": "打工人即将迎来最轻松的10月份",
+        "onboard_time": 1759028241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21113,
+        "num": 316251,
+        "word": "这就是中国人的奋斗回响",
+        "onboard_time": 1759020442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1089819,
+        "num": 316249,
+        "word": "周冬雨撕奖",
+        "onboard_time": 1759032981,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 750178,
+        "num": 316202,
+        "word": "K签证",
+        "onboard_time": 1759020502,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316127,
+        "num": 316127,
+        "word": "万达",
+        "onboard_time": 1759035082,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538402,
+        "num": 314795,
+        "word": "戴向宇9年不知道陈紫函给他的备注",
+        "onboard_time": 1759029499,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483046,
+        "num": 312944,
+        "word": "罗琳拒绝与艾玛沃特森和解",
+        "onboard_time": 1759030880,
+        "rank": 7,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 285033,
+        "num": 285033,
+        "word": "直播泄露军事秘密案",
+        "onboard_time": 1759017321,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228654,
+        "num": 228654,
+        "word": "鸡排家族已有9个摊位",
+        "onboard_time": 1759031121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811045,
+        "num": 228414,
+        "word": "王健林被限制高消费",
+        "onboard_time": 1759023799,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535813,
+        "num": 217177,
+        "word": "曝短剧演员抛下剧组哄女友",
+        "onboard_time": 1759033461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489374,
+        "num": 213392,
+        "word": "宗馥莉也可能无法用娃哈哈商标",
+        "onboard_time": 1759030701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415086,
+        "num": 209494,
+        "word": "张维伊亲了小酒窝脸",
+        "onboard_time": 1759025780,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392678,
+        "num": 201515,
+        "word": "林允 水光后的针眼挺吓人",
+        "onboard_time": 1759032562,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356067,
+        "num": 196697,
+        "word": "今年最爆的剧",
+        "onboard_time": 1759017381,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284428,
+        "num": 185712,
+        "word": "赛琳娜婚礼",
+        "onboard_time": 1759028361,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184304,
+        "num": 184304,
+        "word": "iPhone 调休闹钟",
+        "onboard_time": 1759035201,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268386,
+        "num": 182562,
+        "word": "董璇张维伊搂脖吻",
+        "onboard_time": 1759026320,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165526,
+        "num": 165526,
+        "word": "中秋国庆8天安排",
+        "onboard_time": 1759028659,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19780,
+        "num": 165266,
+        "word": "郑钦文回应时隔88天重返赛场",
+        "onboard_time": 1759035801,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453935,
+        "num": 163836,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215185,
+        "num": 161884,
+        "word": "网红唐飞机直播时坠机不幸身亡",
+        "onboard_time": 1759014739,
+        "rank": 22,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 208861,
+        "num": 161391,
+        "word": "朱珠扛住了G社镜头",
+        "onboard_time": 1759032081,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 160499,
+        "num": 160499,
+        "word": "一分钟月饼教程",
+        "onboard_time": 1759035862,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158817,
+        "num": 158817,
+        "word": "杨幂嘉人十月刊封面",
+        "onboard_time": 1759035383,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 80772,
+        "num": 157087,
+        "word": "光盘照获高德美食摄影大赛金奖",
+        "onboard_time": 1759035862,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156422,
+        "num": 156422,
+        "word": "印度工程师想移民中国被网友婉拒",
+        "onboard_time": 1759032681,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85860,
+        "num": 145780,
+        "word": "李沁这款朋友到底谁在拥有",
+        "onboard_time": 1759036221,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21966,
+        "num": 144900,
+        "word": "张若昀在秘境里看到了什么",
+        "onboard_time": 1759035921,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144748,
+        "num": 144748,
+        "word": "绘旅人重逢与永恒之诗",
+        "onboard_time": 1759036401,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134969,
+        "num": 134969,
+        "word": "当地劳动部门已跟进企业取消额外假",
+        "onboard_time": 1759036160,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130806,
+        "num": 130806,
+        "word": "恋与深空 万达电影",
+        "onboard_time": 1759033582,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128801,
+        "num": 128801,
+        "word": "LV首尔开餐厅3只牛肉饺子243元",
+        "onboard_time": 1759036761,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125039,
+        "num": 125039,
+        "word": "十代铁三角演了九门",
+        "onboard_time": 1759035921,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28168,
+        "num": 124277,
+        "word": "王星越秋日风衣帅哥",
+        "onboard_time": 1759034963,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25096,
+        "num": 123395,
+        "word": "时代少年团开学给你打电话",
+        "onboard_time": 1759034182,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39139,
+        "num": 122323,
+        "word": "唐飞机曾称超轻飞行器无需报备",
+        "onboard_time": 1759035982,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101088,
+        "num": 121303,
+        "word": "免费即将结束还在高速上怎么办",
+        "onboard_time": 1759036642,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18899,
+        "num": 119779,
+        "word": "李沁回复七老童心",
+        "onboard_time": 1759036642,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119206,
+        "num": 119206,
+        "word": "原神5周年赠礼",
+        "onboard_time": 1759034963,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123803,
+        "num": 119184,
+        "word": "中彩票冷知识",
+        "onboard_time": 1759036282,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115602,
+        "num": 115602,
+        "word": "黄晓明回青岛下料就是猛",
+        "onboard_time": 1759034002,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74560,
+        "num": 115059,
+        "word": "航班提前15小时飞乘客损失谁承担",
+        "onboard_time": 1759035624,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114562,
+        "num": 114562,
+        "word": "单休要连上九天班",
+        "onboard_time": 1759033461,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113251,
+        "num": 113251,
+        "word": "狗狗自家院休息被陌生车辆闯入碾死",
+        "onboard_time": 1759027279,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63659,
+        "num": 112437,
+        "word": "杨广弟来给孙颖莎加油了",
+        "onboard_time": 1759035443,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112059,
+        "num": 112059,
+        "word": "高志凯怒喷非洲学生",
+        "onboard_time": 1759023740,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105692,
+        "num": 105692,
+        "word": "花海铠神罪皮肤签名",
+        "onboard_time": 1759029320,
+        "rank": 48,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 102067,
+        "num": 102067,
+        "word": "57岁阿姨用英文帮儿子卖滞销苹果",
+        "onboard_time": 1759037001,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同古共中央第一书记互致贺电#"
+    }
+  }
+}
