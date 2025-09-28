@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 17:36:13
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 18:24:01
 </p>
 </blockquote>
 <p>
@@ -3807,6 +3807,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94%E7%86%AC%E5%A4%9C%E7%8C%9D%E6%AD%BB%23" target="weibo">
+曝短剧导演熬夜猝死（热度：949962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%93%E8%BD%A6%E6%8D%A2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E8%BD%A6%E7%89%8C%E8%BF%98%E6%9C%892%E4%B8%AA8%23" target="weibo">
 普京专车换上中国车牌还有2个8（热度：949043）
 </a>
@@ -4953,6 +4959,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%B6%85%E5%BC%BA%E5%A5%B8%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E6%A1%88%E5%86%8D%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
+车超强奸故意杀人案再审宣判（热度：815444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%B9%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8F%AB%E6%B1%89%E5%A5%B8%23" target="weibo">
 石平回应被叫汉奸（热度：815390）
 </a>
@@ -6002,18 +6014,6 @@ BLG对战TES（热度：746464）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E9%97%AE%E8%91%A3%E7%92%87%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%92%8C%E5%A5%B3%E5%84%BF%E8%AF%B4%E5%AE%9E%E8%AF%9D%23" target="weibo">
-李维嘉问董璇为什么不和女儿说实话（热度：720524）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E6%B2%BB%E7%9B%9F%E5%8F%8B%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%23" target="weibo">
-特朗普政治盟友遭枪击身亡（热度：720206）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6545,6 +6545,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8F%A4%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%AC%AC%E4%B8%80%E4%B9%A6%E8%AE%B0%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
 #习近平同古共中央第一书记互致贺电#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%83%85%E6%9A%96%E5%A4%A9%E5%B1%B1%23%23" target="weibo">
+#情暖天山#
 </a>
 </li>
 

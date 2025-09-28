@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759052173814,
+  "endTime": 1759055041689,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 949962,
+      "num": 251171,
+      "word": "曝短剧导演熬夜猝死",
+      "onboard_time": 1759052661,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 920937,
       "num": 1147349,
       "word": "湾区升明月节目单",
@@ -121,6 +129,14 @@
       "onboard_time": 1759030880,
       "rank": 12,
       "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 815444,
+      "num": 1130471,
+      "word": "车超强奸故意杀人案再审宣判",
+      "onboard_time": 1759050080,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 802989,
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433365,
+      "num": 433365,
+      "word": "车超无罪",
+      "onboard_time": 1759050259,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424656,
       "num": 375412,
       "word": "赛琳娜婚礼",
@@ -427,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 405468,
-      "num": 405468,
-      "word": "车超强奸故意杀人案再审宣判",
-      "onboard_time": 1759050080,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404561,
       "num": 289183,
       "word": "马嘉祺的心率",
@@ -451,12 +467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389076,
+      "num": 205433,
+      "word": "董璇娘家弟弟重膀出击张维伊",
+      "onboard_time": 1759054760,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387441,
       "num": 288931,
       "word": "战至巅峰",
       "onboard_time": 1758959000,
       "rank": 12,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 386980,
+      "num": 386980,
+      "word": "井胧因为父母职业更早认识了死亡",
+      "onboard_time": 1759054221,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 376689,
@@ -563,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289671,
-      "num": 289671,
-      "word": "车超无罪",
-      "onboard_time": 1759050259,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 289492,
       "num": 289492,
       "word": "失联女孩在当地华人及使馆帮助下找到",
@@ -635,6 +659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251190,
+      "num": 251190,
+      "word": "GEN战胜HLE",
+      "onboard_time": 1759051941,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 250706,
       "num": 250706,
       "word": "张真源哭了",
@@ -649,6 +681,14 @@
       "onboard_time": 1758982881,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248438,
+      "num": 248438,
+      "word": "杨采钰老公晒合照秀恩爱",
+      "onboard_time": 1759052121,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 242352,
@@ -715,6 +755,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 212521,
+      "num": 212521,
+      "word": "唐仁健受贿2.68亿余元",
+      "onboard_time": 1759052299,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208861,
       "num": 176050,
       "word": "朱珠扛住了G社镜头",
@@ -761,6 +809,14 @@
       "onboard_time": 1759029981,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199247,
+      "num": 127643,
+      "word": "西甲官方回应樊振东",
+      "onboard_time": 1759054460,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 198562,
@@ -977,6 +1033,14 @@
       "onboard_time": 1759032681,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171045,
+      "num": 171045,
+      "word": "蜡笔小新和阿呆疑似闹掰",
+      "onboard_time": 1759053739,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 169517,
@@ -1395,14 +1459,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 133297,
-      "num": 133297,
-      "word": "GEN战胜HLE",
-      "onboard_time": 1759051941,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133161,
       "num": 133161,
       "word": "谍报上不封顶",
@@ -1460,7 +1516,7 @@
     },
     {
       "raw_hot": 129950,
-      "num": 129950,
+      "num": 537214,
       "word": "假期跨区域流动预计超23亿人次",
       "onboard_time": 1759029201,
       "rank": 33,
@@ -1513,6 +1569,14 @@
       "onboard_time": 1759040541,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125362,
+      "num": 125362,
+      "word": "王楚钦说要七又",
+      "onboard_time": 1759052540,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 125039,
@@ -1587,6 +1651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122016,
+      "num": 122016,
+      "word": "瘦下来后很爽的瞬间",
+      "onboard_time": 1759053921,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121922,
       "num": 133026,
       "word": "刘萧旭女友正脸",
@@ -1609,6 +1681,14 @@
       "onboard_time": 1759031121,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120565,
+      "num": 120565,
+      "word": "早年的TFBOYS拉着行李箱赶通告",
+      "onboard_time": 1759053860,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 120464,
@@ -1680,6 +1760,14 @@
       "word": "免费即将结束还在高速上怎么办",
       "onboard_time": 1759036642,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117930,
+      "num": 117930,
+      "word": "病人临终写的纸条没人看懂",
+      "onboard_time": 1759055000,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1827,6 +1915,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110803,
+      "num": 117621,
+      "word": "一代人有一代人的徐霞客",
+      "onboard_time": 1759054340,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 109682,
+      "num": 131835,
+      "word": "孙红雷想把刘宇宁带回家",
+      "onboard_time": 1759052062,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109547,
       "num": 109547,
       "word": "邓超在鹿晗演唱会还想着丁程鑫",
@@ -1929,6 +2033,14 @@
       "onboard_time": 1759014798,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102812,
+      "num": 102812,
+      "word": "一诺说要起诉狂魔哥",
+      "onboard_time": 1759053260,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 102527,
@@ -2036,7 +2148,7 @@
     },
     {
       "raw_hot": 98298,
-      "num": 111664,
+      "num": 117395,
       "word": "解锁大厂健康运动新姿势",
       "onboard_time": 1759050322,
       "rank": 49,
@@ -2075,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96249,
+      "num": 119475,
+      "word": "邓超坐轮椅扫楼",
+      "onboard_time": 1759050919,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95827,
       "num": 113683,
       "word": "哥伦比亚总统号召美军起义",
@@ -2099,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94172,
-      "num": 94172,
-      "word": "孙红雷想把刘宇宁带回家",
-      "onboard_time": 1759052062,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94059,
       "num": 94059,
       "word": "久哲队",
@@ -2128,6 +2240,14 @@
       "word": "国庆中秋假期最早9月30日9时开始堵",
       "onboard_time": 1759019301,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88894,
+      "num": 117633,
+      "word": "爷爷奶奶用手机哄4岁娃致1000度近视",
+      "onboard_time": 1759054340,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2203,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80846,
+      "num": 128462,
+      "word": "网友总结国庆出游三宝",
+      "onboard_time": 1759054760,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80772,
       "num": 157087,
       "word": "光盘照获高德美食摄影大赛金奖",
@@ -2265,14 +2393,6 @@
       "onboard_time": 1759014137,
       "rank": 31,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 75399,
-      "num": 119475,
-      "word": "邓超坐轮椅扫楼",
-      "onboard_time": 1759050919,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 74560,
@@ -2355,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65633,
+      "num": 127687,
+      "word": "多所高校十一假期不调休",
+      "onboard_time": 1759053319,
+      "rank": 30,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 63659,
       "num": 112437,
       "word": "杨广弟来给孙颖莎加油了",
@@ -2369,6 +2497,14 @@
       "onboard_time": 1759015278,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 61936,
+      "num": 205437,
+      "word": "与众不同的十一魔都黄金周",
+      "onboard_time": 1759054460,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 61426,
@@ -2499,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54357,
+      "num": 117502,
+      "word": "白宇拍的孙颖莎真灿烂",
+      "onboard_time": 1759053739,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53736,
       "num": 46215,
       "word": "汪苏泷点了一碗线面实则两碗",
@@ -2521,6 +2665,14 @@
       "onboard_time": 1759038141,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 52154,
+      "num": 117832,
+      "word": "美国签证费暴涨66倍",
+      "onboard_time": 1759055000,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51436,
@@ -2643,14 +2795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35240,
-      "num": 111250,
-      "word": "杨采钰老公晒合照秀恩爱",
-      "onboard_time": 1759052121,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34897,
       "num": 34897,
       "word": "台风博罗依最新路径来了",
@@ -2673,6 +2817,14 @@
       "onboard_time": 1759029020,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 29731,
+      "num": 117765,
+      "word": "孙颖莎比划有那么长",
+      "onboard_time": 1759054280,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 28168,
@@ -2881,6 +3033,9 @@
     },
     {
       "word": "#习近平同古共中央第一书记互致贺电#"
+    },
+    {
+      "word": "#情暖天山#"
     }
   ]
 }

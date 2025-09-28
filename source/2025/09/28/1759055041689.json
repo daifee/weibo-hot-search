@@ -1,0 +1,410 @@
+{
+  "runTime": 1759055041689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 815444,
+        "num": 1130471,
+        "word": "车超强奸故意杀人案再审宣判",
+        "onboard_time": 1759050080,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709025,
+        "num": 709025,
+        "word": "柯洁卫冕棋圣",
+        "onboard_time": 1759049781,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26715,
+        "num": 537214,
+        "word": "假期跨区域流动预计超23亿人次",
+        "onboard_time": 1759029201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433365,
+        "num": 433365,
+        "word": "车超无罪",
+        "onboard_time": 1759050259,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403504,
+        "num": 403504,
+        "word": "俄罗斯支持巴西印度申请入常",
+        "onboard_time": 1759047921,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 386980,
+        "num": 386980,
+        "word": "井胧因为父母职业更早认识了死亡",
+        "onboard_time": 1759054221,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281283,
+        "num": 281283,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265565,
+        "num": 265565,
+        "word": "周冬雨撕奖",
+        "onboard_time": 1759032981,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255681,
+        "num": 255681,
+        "word": "何同学的iPhone17测评视频",
+        "onboard_time": 1759047201,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251190,
+        "num": 251190,
+        "word": "GEN战胜HLE",
+        "onboard_time": 1759051941,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 949962,
+        "num": 251171,
+        "word": "曝短剧导演熬夜猝死",
+        "onboard_time": 1759052661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726535,
+        "num": 250330,
+        "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
+        "onboard_time": 1759044560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411975,
+        "num": 249603,
+        "word": "王健林已卖掉85个万达广场",
+        "onboard_time": 1759042461,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349412,
+        "num": 248503,
+        "word": "小酒窝赶早班机脸也肿",
+        "onboard_time": 1759048221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248438,
+        "num": 248438,
+        "word": "杨采钰老公晒合照秀恩爱",
+        "onboard_time": 1759052121,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232356,
+        "num": 232356,
+        "word": "肖战彩排",
+        "onboard_time": 1759043060,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224438,
+        "num": 224438,
+        "word": "花少马哥澄清",
+        "onboard_time": 1759042640,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212521,
+        "num": 212521,
+        "word": "唐仁健受贿2.68亿余元",
+        "onboard_time": 1759052299,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205658,
+        "num": 205658,
+        "word": "李现 怎么在国外还追星",
+        "onboard_time": 1759044560,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61936,
+        "num": 205437,
+        "word": "与众不同的十一魔都黄金周",
+        "onboard_time": 1759054460,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 389076,
+        "num": 205433,
+        "word": "董璇娘家弟弟重膀出击张维伊",
+        "onboard_time": 1759054760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346911,
+        "num": 205420,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205402,
+        "num": 205402,
+        "word": "前妻需连续72小时向李阳公开道歉",
+        "onboard_time": 1759038561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171045,
+        "num": 171045,
+        "word": "蜡笔小新和阿呆疑似闹掰",
+        "onboard_time": 1759053739,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155337,
+        "num": 155337,
+        "word": "女子为和00后男友结婚与亲妈互殴",
+        "onboard_time": 1759050680,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142535,
+        "num": 142535,
+        "word": "央视曝光直播新骗术",
+        "onboard_time": 1759038201,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112002,
+        "num": 135763,
+        "word": "惠英红65岁拿下高奢代言",
+        "onboard_time": 1759048221,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 109682,
+        "num": 131835,
+        "word": "孙红雷想把刘宇宁带回家",
+        "onboard_time": 1759052062,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131567,
+        "num": 131567,
+        "word": "LV首尔开餐厅3只牛肉饺子243元",
+        "onboard_time": 1759036761,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80846,
+        "num": 128462,
+        "word": "网友总结国庆出游三宝",
+        "onboard_time": 1759054760,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65633,
+        "num": 127687,
+        "word": "多所高校十一假期不调休",
+        "onboard_time": 1759053319,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 199247,
+        "num": 127643,
+        "word": "西甲官方回应樊振东",
+        "onboard_time": 1759054460,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127562,
+        "num": 127562,
+        "word": "女子结婚4年才发现婚纱照是陌生人",
+        "onboard_time": 1759040242,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125362,
+        "num": 125362,
+        "word": "王楚钦说要七又",
+        "onboard_time": 1759052540,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122016,
+        "num": 122016,
+        "word": "瘦下来后很爽的瞬间",
+        "onboard_time": 1759053921,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120565,
+        "num": 120565,
+        "word": "早年的TFBOYS拉着行李箱赶通告",
+        "onboard_time": 1759053860,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117930,
+        "num": 117930,
+        "word": "病人临终写的纸条没人看懂",
+        "onboard_time": 1759055000,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52154,
+        "num": 117832,
+        "word": "美国签证费暴涨66倍",
+        "onboard_time": 1759055000,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29731,
+        "num": 117765,
+        "word": "孙颖莎比划有那么长",
+        "onboard_time": 1759054280,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88894,
+        "num": 117633,
+        "word": "爷爷奶奶用手机哄4岁娃致1000度近视",
+        "onboard_time": 1759054340,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110803,
+        "num": 117621,
+        "word": "一代人有一代人的徐霞客",
+        "onboard_time": 1759054340,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54357,
+        "num": 117502,
+        "word": "白宇拍的孙颖莎真灿烂",
+        "onboard_time": 1759053739,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23186,
+        "num": 117395,
+        "word": "解锁大厂健康运动新姿势",
+        "onboard_time": 1759050322,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117319,
+        "num": 117319,
+        "word": "中秋国庆8天安排",
+        "onboard_time": 1759028659,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114377,
+        "num": 114377,
+        "word": "狗 我就不需要腋下管理了吧",
+        "onboard_time": 1759049781,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106762,
+        "num": 106762,
+        "word": "iPhone 调休闹钟",
+        "onboard_time": 1759035201,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103286,
+        "num": 103286,
+        "word": "鹿晗在王俊凯老家开演唱会了",
+        "onboard_time": 1759041439,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102812,
+        "num": 102812,
+        "word": "一诺说要起诉狂魔哥",
+        "onboard_time": 1759053260,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96249,
+        "num": 96249,
+        "word": "邓超坐轮椅扫楼",
+        "onboard_time": 1759050919,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95141,
+        "num": 95141,
+        "word": "韩方称无力向美支付3500亿美金",
+        "onboard_time": 1759041561,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#情暖天山#"
+    }
+  }
+}
