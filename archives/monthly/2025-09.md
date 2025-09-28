@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 16:41:47
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 17:22:59
 </p>
 </blockquote>
 <p>
@@ -3597,6 +3597,12 @@ iPhone17补贴后售价4999元（热度：997136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%8D%AB%E5%86%95%E6%A3%8B%E5%9C%A3%23" target="weibo">
+柯洁卫冕棋圣（热度：985805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%80%E4%BA%86%E4%B8%80%E6%8A%8A%E5%B9%BD%E9%BB%98%E6%84%9F%23" target="weibo">
 普京秀了一把幽默感（热度：985065）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E6%B2%BB%E7%9B%9F%E5%8F%8B%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%23" target="weibo">
 特朗普政治盟友遭枪击身亡（热度：720206）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BA%A6%E8%B0%88%23" target="weibo">
-微博快手被约谈（热度：720012）
 </a>
 </li>
 

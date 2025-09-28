@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759048907969,
+  "endTime": 1759051379415,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -99,6 +99,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 985805,
+      "num": 1157728,
+      "word": "柯洁卫冕棋圣",
+      "onboard_time": 1759049781,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 920937,
       "num": 1147349,
       "word": "湾区升明月节目单",
@@ -177,6 +185,14 @@
       "onboard_time": 1758967820,
       "rank": 3,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 655054,
+      "num": 655054,
+      "word": "俄罗斯支持巴西印度申请入常",
+      "onboard_time": 1759047921,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 654284,
@@ -305,6 +321,14 @@
       "onboard_time": 1759043060,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 494536,
+      "num": 251680,
+      "word": "小酒窝赶早班机脸也肿",
+      "onboard_time": 1759048221,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 489561,
@@ -467,6 +491,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 343211,
+      "num": 234814,
+      "word": "何同学的iPhone17测评视频",
+      "onboard_time": 1759047201,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 317928,
       "num": 317928,
       "word": "孙颖莎vs平野美宇",
@@ -587,14 +619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 251680,
-      "num": 251680,
-      "word": "小酒窝赶早班机脸也肿",
-      "onboard_time": 1759048221,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250706,
       "num": 250706,
       "word": "张真源哭了",
@@ -627,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235061,
+      "num": 235061,
+      "word": "车超无罪",
+      "onboard_time": 1759050259,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231749,
       "num": 197047,
       "word": "外卖骑手也要缴个税了",
@@ -641,6 +673,14 @@
       "onboard_time": 1759040842,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 226398,
+      "num": 226398,
+      "word": "车超强奸故意杀人案再审宣判",
+      "onboard_time": 1759050080,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225506,
@@ -707,14 +747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201304,
-      "num": 142128,
-      "word": "俄罗斯支持巴西印度申请入常",
-      "onboard_time": 1759047921,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200504,
       "num": 200504,
       "word": "王者铠神罪皮肤",
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 195730,
-      "num": 140949,
+      "num": 172995,
       "word": "兜儿 突发性耳聋",
       "onboard_time": 1759047921,
       "rank": 30,
@@ -947,14 +979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168865,
-      "num": 193979,
-      "word": "何同学的iPhone17测评视频",
-      "onboard_time": 1759047201,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 168418,
       "num": 153149,
       "word": "汪苏泷眼妆",
@@ -968,6 +992,14 @@
       "word": "爬泰山失联28岁男子已遇难",
       "onboard_time": 1758968961,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167977,
+      "num": 167977,
+      "word": "女子为和00后男友结婚与亲妈互殴",
+      "onboard_time": 1759050680,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1057,6 +1089,14 @@
       "onboard_time": 1759032021,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 160688,
+      "num": 160688,
+      "word": "惠英红65岁拿下高奢代言",
+      "onboard_time": 1759048221,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 160499,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1759029080,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141126,
+      "num": 141126,
+      "word": "狗 我就不需要腋下管理了吧",
+      "onboard_time": 1759049781,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 140096,
@@ -1491,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123297,
+      "num": 123297,
+      "word": "诚C说自己是魔童",
+      "onboard_time": 1759050919,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121922,
       "num": 133026,
       "word": "刘萧旭女友正脸",
@@ -1531,20 +1587,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120053,
-      "num": 120053,
-      "word": "惠英红65岁拿下高奢代言",
-      "onboard_time": 1759048221,
-      "rank": 36,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 120011,
       "num": 120011,
       "word": "文韬针灸效果立竿见影",
       "onboard_time": 1759047381,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119399,
+      "num": 119399,
+      "word": "印度踩踏事故1万人场地挤进2.7万人",
+      "onboard_time": 1759048041,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 119312,
@@ -1569,6 +1625,14 @@
       "onboard_time": 1759046181,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118649,
+      "num": 119896,
+      "word": "陈星旭谁教你做饭时候这么穿的",
+      "onboard_time": 1759050982,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 118453,
@@ -1617,6 +1681,14 @@
       "onboard_time": 1759045881,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116014,
+      "num": 116014,
+      "word": "马思纯的嘴忙不过来了",
+      "onboard_time": 1759051039,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 115902,
@@ -1923,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98385,
+      "num": 98385,
+      "word": "怎么有女主为破案给人送猪头",
+      "onboard_time": 1759050861,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98267,
       "num": 98267,
       "word": "零跑汽车创始人朱江明回应限高",
@@ -1985,6 +2065,22 @@
       "onboard_time": 1759024941,
       "rank": 46,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 92566,
+      "num": 92566,
+      "word": "鞠婧祎 这么大场合谁烧电焊",
+      "onboard_time": 1759049600,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91271,
+      "num": 91271,
+      "word": "解锁大厂健康运动新姿势",
+      "onboard_time": 1759050322,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 91175,
@@ -2259,14 +2355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 59529,
-      "num": 118298,
-      "word": "印度踩踏事故1万人场地挤进2.7万人",
-      "onboard_time": 1759048041,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 59405,
       "num": 59405,
       "word": "早餐吃不对影响全天血糖",
@@ -2379,6 +2467,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52821,
+      "num": 119475,
+      "word": "邓超坐轮椅扫楼",
+      "onboard_time": 1759050919,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 51991,
+      "num": 219529,
+      "word": "官方狠批鞭打快牛是职场霸凌",
+      "onboard_time": 1759050680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51436,
       "num": 236393,
       "word": "中式豪华才是顶流",
@@ -2441,6 +2545,14 @@
       "onboard_time": 1759015278,
       "rank": 47,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 41903,
+      "num": 119632,
+      "word": "骑手疑因出餐慢崩溃大哭扇自己",
+      "onboard_time": 1759050259,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41655,
