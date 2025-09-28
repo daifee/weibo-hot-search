@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759080028367,
+  "endTime": 1759080983614,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -3571,7 +3571,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72818,
+      "raw_hot": 73794,
       "num": 79271,
       "word": "孙楠 修音响",
       "onboard_time": 1759078458,
@@ -3963,6 +3963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43276,
+      "num": 79183,
+      "word": "资产上亿女老板失联前称别找自己",
+      "onboard_time": 1759078818,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43138,
       "num": 79089,
       "word": "吾爱吾国",
@@ -4019,14 +4027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40165,
-      "num": 79183,
-      "word": "资产上亿女老板失联前称别找自己",
-      "onboard_time": 1759078818,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39565,
       "num": 79100,
       "word": "去世8年男子坟墓惊现盗洞",
@@ -4035,12 +4035,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39550,
+      "num": 66908,
+      "word": "朱一龙下车路透封神",
+      "onboard_time": 1759080557,
+      "rank": 45,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 39139,
       "num": 122323,
       "word": "唐飞机曾称超轻飞行器无需报备",
       "onboard_time": 1759035982,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38735,
+      "num": 79075,
+      "word": "印度踩踏事件目击者发声",
+      "onboard_time": 1759079598,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38384,
@@ -4073,14 +4089,6 @@
       "onboard_time": 1759034242,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36283,
-      "num": 79075,
-      "word": "印度踩踏事件目击者发声",
-      "onboard_time": 1759079598,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 35211,
