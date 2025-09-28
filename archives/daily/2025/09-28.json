@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759058338458,
+  "endTime": 1759059419875,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -57,6 +57,14 @@
       "onboard_time": 1759017321,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1240032,
+      "num": 1240032,
+      "word": "湾区升明月",
+      "onboard_time": 1759057820,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1172377,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 787358,
+      "num": 243204,
+      "word": "华工车祸",
+      "onboard_time": 1759057161,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 782573,
       "num": 1125211,
       "word": "遭老板性侵女子回应为何当时没报案",
@@ -155,19 +171,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 771457,
+      "num": 250641,
+      "word": "罗予彤 同父异母的哥哥",
+      "onboard_time": 1759055780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 737061,
       "num": 1117929,
       "word": "戴向宇9年不知道陈紫函给他的备注",
       "onboard_time": 1759029499,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 721158,
-      "num": 250641,
-      "word": "罗予彤 同父异母的哥哥",
-      "onboard_time": 1759055780,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -355,6 +371,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 512095,
+      "num": 512095,
+      "word": "南方网评张雪峰",
+      "onboard_time": 1759056680,
+      "rank": 4,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 507203,
+      "num": 249241,
+      "word": "关晓彤好敢说",
+      "onboard_time": 1759055600,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494536,
       "num": 254948,
       "word": "小酒窝赶早班机脸也肿",
@@ -369,14 +401,6 @@
       "onboard_time": 1759039580,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487533,
-      "num": 419881,
-      "word": "湾区升明月",
-      "onboard_time": 1759057820,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 464731,
@@ -417,14 +441,6 @@
       "onboard_time": 1759041439,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 452131,
-      "num": 249241,
-      "word": "关晓彤好敢说",
-      "onboard_time": 1759055600,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 446957,
@@ -481,14 +497,6 @@
       "onboard_time": 1758960862,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 418921,
-      "num": 418921,
-      "word": "南方网评张雪峰",
-      "onboard_time": 1759056680,
-      "rank": 4,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 405666,
@@ -569,14 +577,6 @@
       "onboard_time": 1759047201,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 350300,
-      "num": 243204,
-      "word": "华工车祸",
-      "onboard_time": 1759057161,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 345516,
@@ -747,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242244,
+      "num": 252626,
+      "word": "办事窗口 问路100元",
+      "onboard_time": 1759057220,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240184,
       "num": 240184,
       "word": "普林斯顿中国博士后李昊然去世",
@@ -857,6 +865,14 @@
       "onboard_time": 1759029981,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199997,
+      "num": 199997,
+      "word": "peanut不要哭",
+      "onboard_time": 1759055180,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 199247,
@@ -980,11 +996,19 @@
     },
     {
       "raw_hot": 185097,
-      "num": 158939,
+      "num": 191760,
       "word": "FBI开除所有黑命贵下跪特工",
       "onboard_time": 1759055660,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184444,
+      "num": 184444,
+      "word": "月饼名字是把配料表抄上去了吧",
+      "onboard_time": 1759057701,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 184290,
@@ -1064,14 +1088,6 @@
       "word": "iG战胜JDG",
       "onboard_time": 1758976881,
       "rank": 16,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 177112,
-      "num": 177112,
-      "word": "peanut不要哭",
-      "onboard_time": 1759055180,
-      "rank": 37,
       "category": "电竞"
     },
     {
@@ -1291,14 +1307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157249,
-      "num": 157249,
-      "word": "月饼名字是把配料表抄上去了吧",
-      "onboard_time": 1759057701,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 156482,
       "num": 156482,
       "word": "网红唐飞机曾两次坠机仍未停飞",
@@ -1339,12 +1347,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154351,
+      "num": 154351,
+      "word": "林小宅自曝试戏一年多没人要",
+      "onboard_time": 1759057881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153943,
       "num": 156511,
       "word": "陈赫说人越长大朋友越少",
       "onboard_time": 1759040961,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153421,
+      "num": 153421,
+      "word": "33耳机连续剧出续集了",
+      "onboard_time": 1759058541,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 153100,
@@ -1355,12 +1379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152971,
+      "num": 152971,
+      "word": "iPhone很容易被遗忘的功能",
+      "onboard_time": 1759058720,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152624,
       "num": 152624,
       "word": "这就是孙颖莎的超强感知",
       "onboard_time": 1759033040,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150897,
+      "num": 150897,
+      "word": "猫 亲了它就不能再亲我",
+      "onboard_time": 1759058240,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 149653,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1759024639,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148270,
-      "num": 252626,
-      "word": "办事窗口 问路100元",
-      "onboard_time": 1759057220,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147401,
@@ -1691,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128151,
+      "num": 203251,
+      "word": "病人临终写的纸条没人看懂",
+      "onboard_time": 1759055000,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127881,
       "num": 127881,
       "word": "孙颖莎这个手势好萌",
@@ -1875,19 +1915,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 118040,
+      "num": 118040,
+      "word": "国庆节朋友圈这三张照片不能晒",
+      "onboard_time": 1759058481,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118029,
       "num": 121303,
       "word": "免费即将结束还在高速上怎么办",
       "onboard_time": 1759036642,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117930,
-      "num": 203251,
-      "word": "病人临终写的纸条没人看懂",
-      "onboard_time": 1759055000,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2051,6 +2091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 110183,
+      "num": 123083,
+      "word": "男子欠5000被催债后说每分钟还50",
+      "onboard_time": 1759058240,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109682,
       "num": 131835,
       "word": "孙红雷想把刘宇宁带回家",
@@ -2081,6 +2129,14 @@
       "onboard_time": 1759028600,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 108290,
+      "num": 108290,
+      "word": "卖女孩的红烧肉 店名争议",
+      "onboard_time": 1759058601,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106327,
@@ -2267,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99016,
+      "num": 99016,
+      "word": "刘宇宁一款服务意识很强的艺人",
+      "onboard_time": 1759058360,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98801,
       "num": 98801,
       "word": "关智斌表演时不慎摔落",
@@ -2323,14 +2387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96868,
-      "num": 96868,
-      "word": "猫 亲了它就不能再亲我",
-      "onboard_time": 1759058240,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96560,
       "num": 96560,
       "word": "引导型恋人",
@@ -2347,6 +2403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96036,
+      "num": 96036,
+      "word": "小狗幼儿园",
+      "onboard_time": 1759059201,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95827,
       "num": 113683,
       "word": "哥伦比亚总统号召美军起义",
@@ -2361,6 +2425,14 @@
       "onboard_time": 1759046241,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94619,
+      "num": 94619,
+      "word": "以为是失眠其实是被子薄了冻的",
+      "onboard_time": 1759058960,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 94528,
@@ -2425,6 +2497,14 @@
       "onboard_time": 1758974961,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87347,
+      "num": 87347,
+      "word": "Ruler哭了",
+      "onboard_time": 1759056921,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 86477,
@@ -2891,14 +2971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46513,
-      "num": 123083,
-      "word": "男子欠5000被催债后说每分钟还50",
-      "onboard_time": 1759058240,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46114,
       "num": 55473,
       "word": "原来三星堆是多彩的",
@@ -2960,14 +3032,6 @@
       "word": "杨幂沈腾十一都想开旅行车去旅行",
       "onboard_time": 1759056501,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 37212,
-      "num": 123123,
-      "word": "林小宅自曝试戏一年多没人要",
-      "onboard_time": 1759057881,
-      "rank": 38,
       "category": "艺人"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1759059419875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240032,
+        "num": 1240032,
+        "word": "湾区升明月",
+        "onboard_time": 1759057820,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 512095,
+        "num": 512095,
+        "word": "南方网评张雪峰",
+        "onboard_time": 1759056680,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 29301,
+        "num": 501132,
+        "word": "假期跨区域流动预计超23亿人次",
+        "onboard_time": 1759029201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490420,
+        "num": 490420,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300984,
+        "num": 300984,
+        "word": "柯洁卫冕棋圣",
+        "onboard_time": 1759049781,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242244,
+        "num": 242244,
+        "word": "办事窗口 问路100元",
+        "onboard_time": 1759057220,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274928,
+        "num": 240819,
+        "word": "井胧因为父母职业更早认识了死亡",
+        "onboard_time": 1759054221,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243216,
+        "num": 229583,
+        "word": "周冬雨撕奖",
+        "onboard_time": 1759032981,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215619,
+        "num": 215619,
+        "word": "俄罗斯支持巴西印度申请入常",
+        "onboard_time": 1759047921,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199997,
+        "num": 199997,
+        "word": "peanut不要哭",
+        "onboard_time": 1759055180,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 771457,
+        "num": 199378,
+        "word": "罗予彤 同父异母的哥哥",
+        "onboard_time": 1759055780,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581297,
+        "num": 197750,
+        "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
+        "onboard_time": 1759044560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507203,
+        "num": 196801,
+        "word": "关晓彤好敢说",
+        "onboard_time": 1759055600,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455387,
+        "num": 195454,
+        "word": "曝短剧导演熬夜猝死",
+        "onboard_time": 1759052661,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302581,
+        "num": 194020,
+        "word": "王健林已卖掉85个万达广场",
+        "onboard_time": 1759042461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294375,
+        "num": 193353,
+        "word": "杨采钰老公晒合照秀恩爱",
+        "onboard_time": 1759052121,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152892,
+        "num": 191760,
+        "word": "FBI开除所有黑命贵下跪特工",
+        "onboard_time": 1759055660,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 247010,
+        "num": 191544,
+        "word": "马思纯花少的衣服穿去了向往的生活",
+        "onboard_time": 1759055361,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7582,
+        "num": 190283,
+        "word": "高德回应光盘照夺冠美食摄影大赛",
+        "onboard_time": 1759057401,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28721,
+        "num": 188906,
+        "word": "BV米兰时装周明星状态",
+        "onboard_time": 1759057460,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 787358,
+        "num": 187227,
+        "word": "华工车祸",
+        "onboard_time": 1759057161,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539440,
+        "num": 185696,
+        "word": "车超强奸故意杀人案再审宣判",
+        "onboard_time": 1759050080,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208999,
+        "num": 185633,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184444,
+        "num": 184444,
+        "word": "月饼名字是把配料表抄上去了吧",
+        "onboard_time": 1759057701,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165299,
+        "num": 165299,
+        "word": "唐仁健受贿2.68亿余元",
+        "onboard_time": 1759052299,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156180,
+        "num": 156180,
+        "word": "日本女童被父母虐亡2岁仅重6公斤",
+        "onboard_time": 1759057100,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31717,
+        "num": 155828,
+        "word": "杨幂沈腾十一都想开旅行车去旅行",
+        "onboard_time": 1759056501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155636,
+        "num": 155636,
+        "word": "董璇娘家弟弟重膀出击张维伊",
+        "onboard_time": 1759054760,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146072,
+        "num": 154470,
+        "word": "王鹤棣突然跳了两下刀马刀马",
+        "onboard_time": 1759056320,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 154351,
+        "num": 154351,
+        "word": "林小宅自曝试戏一年多没人要",
+        "onboard_time": 1759057881,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153421,
+        "num": 153421,
+        "word": "33耳机连续剧出续集了",
+        "onboard_time": 1759058541,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152971,
+        "num": 152971,
+        "word": "iPhone很容易被遗忘的功能",
+        "onboard_time": 1759058720,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150897,
+        "num": 150897,
+        "word": "猫 亲了它就不能再亲我",
+        "onboard_time": 1759058240,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128151,
+        "num": 128151,
+        "word": "病人临终写的纸条没人看懂",
+        "onboard_time": 1759055000,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118040,
+        "num": 118040,
+        "word": "国庆节朋友圈这三张照片不能晒",
+        "onboard_time": 1759058481,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110183,
+        "num": 110183,
+        "word": "男子欠5000被催债后说每分钟还50",
+        "onboard_time": 1759058240,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108886,
+        "num": 108886,
+        "word": "肖战彩排",
+        "onboard_time": 1759043060,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108290,
+        "num": 108290,
+        "word": "卖女孩的红烧肉 店名争议",
+        "onboard_time": 1759058601,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104642,
+        "num": 104642,
+        "word": "车超无罪",
+        "onboard_time": 1759050259,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99016,
+        "num": 99016,
+        "word": "刘宇宁一款服务意识很强的艺人",
+        "onboard_time": 1759058360,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96036,
+        "num": 96036,
+        "word": "小狗幼儿园",
+        "onboard_time": 1759059201,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96021,
+        "num": 96021,
+        "word": "美国签证费暴涨66倍",
+        "onboard_time": 1759055000,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94619,
+        "num": 94619,
+        "word": "以为是失眠其实是被子薄了冻的",
+        "onboard_time": 1759058960,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91829,
+        "num": 91829,
+        "word": "花少马哥澄清",
+        "onboard_time": 1759042640,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91634,
+        "num": 91634,
+        "word": "GEN战胜HLE",
+        "onboard_time": 1759051941,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30901,
+        "num": 88977,
+        "word": "网友总结国庆出游三宝",
+        "onboard_time": 1759054760,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88897,
+        "num": 88897,
+        "word": "邓超说五哈只需要留下鹿晗",
+        "onboard_time": 1759057342,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88390,
+        "num": 88390,
+        "word": "瘦下来后很爽的瞬间",
+        "onboard_time": 1759053921,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87347,
+        "num": 87347,
+        "word": "Ruler哭了",
+        "onboard_time": 1759056921,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85615,
+        "num": 85615,
+        "word": "没有一个人敢当着张姐面抽烟",
+        "onboard_time": 1759057581,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#情暖天山#"
+    }
+  }
+}
