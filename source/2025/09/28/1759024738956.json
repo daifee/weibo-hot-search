@@ -1,0 +1,410 @@
+{
+  "runTime": 1759024738956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1284412,
+        "num": 1284412,
+        "word": "直播泄露军事秘密案",
+        "onboard_time": 1759017321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 891946,
+        "num": 891946,
+        "word": "网红唐飞机直播时坠机不幸身亡",
+        "onboard_time": 1759014739,
+        "rank": 1,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 8513,
+        "num": 710084,
+        "word": "基建狂魔又放大招",
+        "onboard_time": 1758939200,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571648,
+        "num": 571648,
+        "word": "通行2小时缩至2分钟什么体验",
+        "onboard_time": 1759016840,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529556,
+        "num": 529556,
+        "word": "王健林被限制高消费",
+        "onboard_time": 1759023799,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527301,
+        "num": 527301,
+        "word": "以色列就要没朋友了",
+        "onboard_time": 1759019422,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 435332,
+        "num": 435332,
+        "word": "董璇张维伊婚礼",
+        "onboard_time": 1759022721,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426054,
+        "num": 426054,
+        "word": "K签证",
+        "onboard_time": 1759020502,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310558,
+        "num": 310558,
+        "word": "网传湾区升明月节目单",
+        "onboard_time": 1759015821,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309129,
+        "num": 309129,
+        "word": "朝鲜决定实施大赦",
+        "onboard_time": 1759018340,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1372394,
+        "num": 288636,
+        "word": "今年最爆的剧",
+        "onboard_time": 1759017381,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365425,
+        "num": 284132,
+        "word": "小酒窝朵朵回应青梅竹马",
+        "onboard_time": 1759023141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263880,
+        "num": 263880,
+        "word": "董璇张维伊戴戒指改为结发",
+        "onboard_time": 1759019361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250706,
+        "num": 250706,
+        "word": "张真源哭了",
+        "onboard_time": 1759017861,
+        "rank": 13,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 240184,
+        "num": 240184,
+        "word": "普林斯顿中国博士后李昊然去世",
+        "onboard_time": 1759016720,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220446,
+        "num": 220446,
+        "word": "印度发生踩踏36死",
+        "onboard_time": 1759015878,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203930,
+        "num": 203930,
+        "word": "最适合关晓彤的一次造型",
+        "onboard_time": 1758985702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195012,
+        "num": 195012,
+        "word": "航班提前15小时起飞惊呆乘客",
+        "onboard_time": 1758987202,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184223,
+        "num": 184223,
+        "word": "高志凯怒喷非洲学生",
+        "onboard_time": 1759023740,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176971,
+        "num": 176971,
+        "word": "张真源把团队胜利压在自己身上",
+        "onboard_time": 1759024100,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165545,
+        "num": 165545,
+        "word": "养生壶爆炸1岁孩童全身40%烫伤",
+        "onboard_time": 1759014259,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156482,
+        "num": 156482,
+        "word": "网红唐飞机曾两次坠机仍未停飞",
+        "onboard_time": 1759022001,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151376,
+        "num": 151376,
+        "word": "朋友圈令人非常不爽的现象",
+        "onboard_time": 1758982881,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147401,
+        "num": 147401,
+        "word": "贺峻霖无奈",
+        "onboard_time": 1759017921,
+        "rank": 23,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 140605,
+        "num": 140605,
+        "word": "央视曝光假钻戒成本仅3元",
+        "onboard_time": 1759017381,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136958,
+        "num": 136958,
+        "word": "双节期间小客车免收通行费",
+        "onboard_time": 1759022121,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133161,
+        "num": 133161,
+        "word": "谍报上不封顶",
+        "onboard_time": 1759017979,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130789,
+        "num": 130789,
+        "word": "刘雪华回应为新戏拔掉全口牙",
+        "onboard_time": 1758985643,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130715,
+        "num": 130715,
+        "word": "奶奶成功帮孙女抢到演唱会门票",
+        "onboard_time": 1759018222,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124402,
+        "num": 124402,
+        "word": "黑龙江一大片蔓越莓红色海洋",
+        "onboard_time": 1759020442,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123967,
+        "num": 123967,
+        "word": "小米向YU7等待超3个月的用户送礼",
+        "onboard_time": 1759024100,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123189,
+        "num": 123189,
+        "word": "邓超腿受伤",
+        "onboard_time": 1758991459,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122838,
+        "num": 122838,
+        "word": "为流量造谣学校组织捐器官",
+        "onboard_time": 1759024401,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121749,
+        "num": 121749,
+        "word": "宝马召回超过33万辆汽车",
+        "onboard_time": 1759022422,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115716,
+        "num": 115716,
+        "word": "4200亩蔓越莓游泳上岸",
+        "onboard_time": 1759023261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113878,
+        "num": 113878,
+        "word": "瓶子解说",
+        "onboard_time": 1758985463,
+        "rank": 35,
+        "category": "电竞,综艺"
+      },
+      {
+        "raw_hot": 113332,
+        "num": 113332,
+        "word": "鸡排哥怼黄牛",
+        "onboard_time": 1759022902,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111838,
+        "num": 111838,
+        "word": "柳州通报醉酒男子殴打外卖骑手",
+        "onboard_time": 1759022301,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 99773,
+        "num": 99773,
+        "word": "iG众人回应将面对T1",
+        "onboard_time": 1759024521,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84365,
+        "num": 98920,
+        "word": "韩国高分外卖长啥样",
+        "onboard_time": 1759024159,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109996,
+        "num": 98920,
+        "word": "许我耀眼",
+        "onboard_time": 1758980002,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98853,
+        "num": 98853,
+        "word": "这就是中国人的奋斗回响",
+        "onboard_time": 1759020442,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 98801,
+        "num": 98801,
+        "word": "关智斌表演时不慎摔落",
+        "onboard_time": 1759021821,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97129,
+        "num": 97129,
+        "word": "老人回应女大学生干完农活就跑",
+        "onboard_time": 1758983301,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 96016,
+        "num": 96016,
+        "word": "邓为邢菲 乱臣",
+        "onboard_time": 1759024639,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91896,
+        "num": 91896,
+        "word": "汪苏泷 爱你的人都希望你自由",
+        "onboard_time": 1758985463,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91175,
+        "num": 91175,
+        "word": "国庆中秋假期最早9月30日9时开始堵",
+        "onboard_time": 1759019301,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86661,
+        "num": 86661,
+        "word": "中外顶流跨越千年为孔子团建",
+        "onboard_time": 1759024701,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86477,
+        "num": 86477,
+        "word": "鹿晗饭撒",
+        "onboard_time": 1759020321,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85179,
+        "num": 86376,
+        "word": "为啥以前不过敏现在突然过敏了",
+        "onboard_time": 1759020981,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新疆之行#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 07:36:24
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 09:58:58
 </p>
 </blockquote>
 <p>
@@ -2043,6 +2043,12 @@ AG夏决冠军（热度：1374157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%9C%80%E7%88%86%E7%9A%84%E5%89%A7%23" target="weibo">
+今年最爆的剧（热度：1372394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3vs%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2%23" target="weibo">
 长期吃米vs长期吃面（热度：1370121）
 </a>
@@ -2273,6 +2279,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E9%A3%9E%E5%8D%87%23" target="weibo">
 辛芷蕾 飞升（热度：1285334）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E6%B3%84%E9%9C%B2%E5%86%9B%E4%BA%8B%E7%A7%98%E5%AF%86%E6%A1%88%23" target="weibo">
+直播泄露军事秘密案（热度：1284412）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E7%BE%8E%E5%9B%A2%E5%9B%A2%E8%B4%AD%23" target="weibo">
 肖战 美团团购（热度：709853）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%9C%89%E6%96%B0%E8%A7%84%E5%AE%9A%E4%BA%86%23" target="weibo">
-儿童火车票有新规定了（热度：708657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%203%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23" target="weibo">
-西贝 3只蒸饺29元（热度：707902）
 </a>
 </li>
 
