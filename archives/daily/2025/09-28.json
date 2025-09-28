@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759041254740,
+  "endTime": 1759041988352,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1060024,
+      "num": 224181,
+      "word": "前妻需连续72小时向李阳公开道歉",
+      "onboard_time": 1759038561,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1012419,
       "num": 1161987,
       "word": "iPhone 调休闹钟",
@@ -113,14 +121,6 @@
       "onboard_time": 1759029499,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 731779,
-      "num": 224181,
-      "word": "前妻需连续72小时向李阳公开道歉",
-      "onboard_time": 1759038561,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 717967,
@@ -411,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307946,
+      "num": 207454,
+      "word": "女子结婚4年才发现婚纱照是陌生人",
+      "onboard_time": 1759040242,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299108,
       "num": 299108,
       "word": "第五人格 幻灯师",
@@ -465,6 +473,14 @@
       "onboard_time": 1759033582,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278765,
+      "num": 278765,
+      "word": "中秋国庆8天安排",
+      "onboard_time": 1759028659,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264356,
@@ -531,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239374,
-      "num": 239374,
-      "word": "中秋国庆8天安排",
-      "onboard_time": 1759028659,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227905,
       "num": 227905,
       "word": "HLE对战GEN",
@@ -587,20 +595,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 207454,
-      "num": 207454,
-      "word": "女子结婚4年才发现婚纱照是陌生人",
-      "onboard_time": 1759040242,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207411,
       "num": 207411,
       "word": "张真源把团队胜利压在自己身上",
       "onboard_time": 1759024100,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202983,
+      "num": 202983,
+      "word": "桃黑黑出演伪装者",
+      "onboard_time": 1759039401,
+      "rank": 24,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 202415,
@@ -651,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194505,
-      "num": 194505,
-      "word": "桃黑黑出演伪装者",
-      "onboard_time": 1759039401,
-      "rank": 24,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 193048,
       "num": 193048,
       "word": "肖战出道战绩",
@@ -683,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190755,
+      "num": 190755,
+      "word": "中彩票冷知识",
+      "onboard_time": 1759036282,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186624,
       "num": 186624,
       "word": "胡凌宸回应抛下剧组哄女友",
@@ -697,14 +705,6 @@
       "onboard_time": 1759030220,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184045,
-      "num": 184045,
-      "word": "中彩票冷知识",
-      "onboard_time": 1759036282,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 181375,
@@ -771,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171550,
+      "num": 171550,
+      "word": "鹿晗在王俊凯老家开演唱会了",
+      "onboard_time": 1759041439,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171447,
       "num": 171447,
       "word": "印度工程师想移民中国被网友婉拒",
@@ -809,6 +817,14 @@
       "onboard_time": 1759027040,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166056,
+      "num": 155821,
+      "word": "唱跳都不基础的朵朵",
+      "onboard_time": 1759040600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 166027,
@@ -899,6 +915,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155377,
+      "num": 197063,
+      "word": "央视曝光直播新骗术",
+      "onboard_time": 1759038201,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154670,
+      "num": 154670,
+      "word": "韩方称无力向美支付3500亿美金",
+      "onboard_time": 1759041561,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 153943,
+      "num": 156511,
+      "word": "陈赫说人越长大朋友越少",
+      "onboard_time": 1759040961,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153100,
       "num": 153100,
       "word": "周也 贝雷帽战神",
@@ -913,6 +953,14 @@
       "onboard_time": 1759033040,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150947,
+      "num": 154904,
+      "word": "外卖骑手也要缴个税了",
+      "onboard_time": 1759041200,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149653,
@@ -1003,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141669,
+      "num": 141669,
+      "word": "内娱星二代进圈越来越低龄了",
+      "onboard_time": 1759040242,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141468,
       "num": 141468,
       "word": "李斯丹妮鼻子上贴了12颗金钻",
@@ -1075,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133793,
-      "num": 133793,
-      "word": "央视曝光直播新骗术",
-      "onboard_time": 1759038201,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133467,
       "num": 133467,
       "word": "大学生演国漫还得大学生看",
@@ -1105,14 +1153,6 @@
       "onboard_time": 1759024521,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131570,
-      "num": 131570,
-      "word": "唱跳都不基础的朵朵",
-      "onboard_time": 1759040600,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 130806,
@@ -1267,6 +1307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120378,
+      "num": 119720,
+      "word": "张艺兴刘宇宁新歌",
+      "onboard_time": 1759041140,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119312,
       "num": 133081,
       "word": "陈浚铭婴儿时期看过TFBOYS演唱会",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1759034963,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118453,
+      "num": 118453,
+      "word": "清华食堂现制菜伟大无需多言",
+      "onboard_time": 1759040900,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 118029,
@@ -1299,20 +1355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116466,
+      "num": 116466,
+      "word": "王玉雯跳舞像老实人豁出去了",
+      "onboard_time": 1759041561,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116147,
       "num": 116147,
       "word": "沈星回生贺非遗展",
       "onboard_time": 1759033942,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116007,
-      "num": 116007,
-      "word": "陈赫说人越长大朋友越少",
-      "onboard_time": 1759040961,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 115902,
@@ -1387,14 +1443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112845,
-      "num": 114581,
-      "word": "内娱星二代进圈越来越低龄了",
-      "onboard_time": 1759040242,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 112714,
       "num": 132969,
       "word": "Rookie 隔6年了",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1759022301,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 110833,
-      "num": 110833,
-      "word": "清华食堂现制菜伟大无需多言",
-      "onboard_time": 1759040900,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 108665,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1759029080,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105795,
+      "num": 105795,
+      "word": "DRG对战JDG",
+      "onboard_time": 1759041922,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 105793,
@@ -1571,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100084,
+      "num": 100084,
+      "word": "眠狼樊振东全运会应援插图",
+      "onboard_time": 1759041922,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98801,
       "num": 98801,
       "word": "关智斌表演时不慎摔落",
@@ -1587,12 +1643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96991,
-      "num": 96991,
-      "word": "张艺兴刘宇宁新歌",
-      "onboard_time": 1759041140,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 98253,
+      "num": 120752,
+      "word": "胡先煦不懂张若昀但听话",
+      "onboard_time": 1759041439,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 96956,
@@ -1633,14 +1689,6 @@
       "onboard_time": 1759024941,
       "rank": 46,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 92221,
-      "num": 92221,
-      "word": "外卖骑手也要缴个税了",
-      "onboard_time": 1759041200,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91175,
@@ -1827,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71268,
+      "num": 117346,
+      "word": "马达加斯加骚乱",
+      "onboard_time": 1759041922,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70523,
       "num": 70523,
       "word": "距国庆中秋假期还有3天",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1758990799,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59718,
+      "num": 155272,
+      "word": "郑钦文携最佳拍档满电出击",
+      "onboard_time": 1759041861,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 59405,

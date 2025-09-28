@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 14:34:14
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 14:46:28
 </p>
 </blockquote>
 <p>
@@ -3159,6 +3159,12 @@ wtt（热度：1154727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A6%BB%E9%9C%80%E8%BF%9E%E7%BB%AD72%E5%B0%8F%E6%97%B6%E5%90%91%E6%9D%8E%E9%98%B3%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
+前妻需连续72小时向李阳公开道歉（热度：1060024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%23" target="weibo">
 武林外传（热度：1057094）
 </a>
@@ -5831,12 +5837,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%E7%8E%B0%E5%9C%BA%E9%81%97%E7%95%99%E5%9E%83%E5%9C%BE%E6%9D%82%E7%89%A9%23" target="weibo">
 蔡国强烟花秀现场遗留垃圾杂物（热度：732143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A6%BB%E9%9C%80%E8%BF%9E%E7%BB%AD72%E5%B0%8F%E6%97%B6%E5%90%91%E6%9D%8E%E9%98%B3%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
-前妻需连续72小时向李阳公开道歉（热度：731779）
 </a>
 </li>
 

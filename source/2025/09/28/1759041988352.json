@@ -1,0 +1,410 @@
+{
+  "runTime": 1759041988352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967061,
+        "num": 1154729,
+        "word": "iPhone 调休闹钟",
+        "onboard_time": 1759035201,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 542160,
+        "num": 542160,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19216,
+        "num": 536790,
+        "word": "这就是中国人的奋斗回响",
+        "onboard_time": 1759020442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699746,
+        "num": 505381,
+        "word": "周冬雨撕奖",
+        "onboard_time": 1759032981,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 815712,
+        "num": 486729,
+        "word": "K签证",
+        "onboard_time": 1759020502,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634299,
+        "num": 465566,
+        "word": "万达",
+        "onboard_time": 1759035082,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464371,
+        "num": 464371,
+        "word": "惠英红 争气两字我已经说了多遍",
+        "onboard_time": 1759039580,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309776,
+        "num": 309776,
+        "word": "罗琳拒绝与艾玛沃特森和解",
+        "onboard_time": 1759030880,
+        "rank": 7,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 278765,
+        "num": 278765,
+        "word": "中秋国庆8天安排",
+        "onboard_time": 1759028659,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203398,
+        "num": 203398,
+        "word": "HLE对战GEN",
+        "onboard_time": 1759040842,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1060024,
+        "num": 203285,
+        "word": "前妻需连续72小时向李阳公开道歉",
+        "onboard_time": 1759038561,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429765,
+        "num": 203216,
+        "word": "曝短剧演员抛下剧组哄女友",
+        "onboard_time": 1759033461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402142,
+        "num": 203129,
+        "word": "宗馥莉也可能无法用娃哈哈商标",
+        "onboard_time": 1759030701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202983,
+        "num": 202983,
+        "word": "桃黑黑出演伪装者",
+        "onboard_time": 1759039401,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 307946,
+        "num": 202002,
+        "word": "女子结婚4年才发现婚纱照是陌生人",
+        "onboard_time": 1759040242,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277330,
+        "num": 201312,
+        "word": "张维伊亲了小酒窝脸",
+        "onboard_time": 1759025780,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249123,
+        "num": 200419,
+        "word": "今年最爆的剧",
+        "onboard_time": 1759017381,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240014,
+        "num": 198980,
+        "word": "王健林被限制高消费",
+        "onboard_time": 1759023799,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47352,
+        "num": 198178,
+        "word": "今天你护心了吗",
+        "onboard_time": 1759038141,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155377,
+        "num": 197063,
+        "word": "央视曝光直播新骗术",
+        "onboard_time": 1759038201,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403593,
+        "num": 196433,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190680,
+        "num": 194962,
+        "word": "林允 水光后的针眼挺吓人",
+        "onboard_time": 1759032562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318026,
+        "num": 193710,
+        "word": "LV首尔开餐厅3只牛肉饺子243元",
+        "onboard_time": 1759036761,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193588,
+        "num": 193588,
+        "word": "董璇张维伊搂脖吻",
+        "onboard_time": 1759026320,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138410,
+        "num": 191131,
+        "word": "打工人即将迎来最轻松的10月份",
+        "onboard_time": 1759028241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190755,
+        "num": 190755,
+        "word": "中彩票冷知识",
+        "onboard_time": 1759036282,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188784,
+        "num": 188784,
+        "word": "合作方曝王一博有严重的高反",
+        "onboard_time": 1759038321,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171550,
+        "num": 171550,
+        "word": "鹿晗在王俊凯老家开演唱会了",
+        "onboard_time": 1759041439,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156967,
+        "num": 156967,
+        "word": "戴向宇9年不知道陈紫函给他的备注",
+        "onboard_time": 1759029499,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153943,
+        "num": 156511,
+        "word": "陈赫说人越长大朋友越少",
+        "onboard_time": 1759040961,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166056,
+        "num": 155821,
+        "word": "唱跳都不基础的朵朵",
+        "onboard_time": 1759040600,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59718,
+        "num": 155272,
+        "word": "郑钦文携最佳拍档满电出击",
+        "onboard_time": 1759041861,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150947,
+        "num": 154904,
+        "word": "外卖骑手也要缴个税了",
+        "onboard_time": 1759041200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154670,
+        "num": 154670,
+        "word": "韩方称无力向美支付3500亿美金",
+        "onboard_time": 1759041561,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150046,
+        "num": 150046,
+        "word": "胡凌宸回应抛下剧组哄女友",
+        "onboard_time": 1759038621,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141669,
+        "num": 141669,
+        "word": "内娱星二代进圈越来越低龄了",
+        "onboard_time": 1759040242,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137744,
+        "num": 137744,
+        "word": "闫妮魏大勋 Mojito",
+        "onboard_time": 1759040661,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128989,
+        "num": 128989,
+        "word": "直播泄露军事秘密案",
+        "onboard_time": 1759017321,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124133,
+        "num": 124133,
+        "word": "当地劳动部门已跟进企业取消额外假",
+        "onboard_time": 1759036160,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98253,
+        "num": 120752,
+        "word": "胡先煦不懂张若昀但听话",
+        "onboard_time": 1759041439,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119931,
+        "num": 119931,
+        "word": "王安宇在河南收到中评",
+        "onboard_time": 1759040541,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120378,
+        "num": 119720,
+        "word": "张艺兴刘宇宁新歌",
+        "onboard_time": 1759041140,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118453,
+        "num": 118453,
+        "word": "清华食堂现制菜伟大无需多言",
+        "onboard_time": 1759040900,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71268,
+        "num": 117346,
+        "word": "马达加斯加骚乱",
+        "onboard_time": 1759041922,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116466,
+        "num": 116466,
+        "word": "王玉雯跳舞像老实人豁出去了",
+        "onboard_time": 1759041561,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112260,
+        "num": 112260,
+        "word": "印度工程师想移民中国被网友婉拒",
+        "onboard_time": 1759032681,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106813,
+        "num": 106813,
+        "word": "网红唐飞机直播时坠机不幸身亡",
+        "onboard_time": 1759014739,
+        "rank": 46,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 105795,
+        "num": 105795,
+        "word": "DRG对战JDG",
+        "onboard_time": 1759041922,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100084,
+        "num": 100084,
+        "word": "眠狼樊振东全运会应援插图",
+        "onboard_time": 1759041922,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98833,
+        "num": 98833,
+        "word": "林俊杰 新歌",
+        "onboard_time": 1759038321,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同古共中央第一书记互致贺电#"
+    }
+  }
+}
