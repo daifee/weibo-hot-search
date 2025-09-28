@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759051379415,
+  "endTime": 1759052173814,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1492455,
-      "num": 263260,
+      "num": 263352,
       "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
       "onboard_time": 1759044560,
       "rank": 31,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 494536,
-      "num": 251680,
+      "num": 254948,
       "word": "小酒窝赶早班机脸也肿",
       "onboard_time": 1759048221,
       "rank": 14,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405468,
+      "num": 405468,
+      "word": "车超强奸故意杀人案再审宣判",
+      "onboard_time": 1759050080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404561,
       "num": 289183,
       "word": "马嘉祺的心率",
@@ -483,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355962,
+      "num": 355962,
+      "word": "何同学的iPhone17测评视频",
+      "onboard_time": 1759047201,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 345516,
       "num": 345516,
       "word": "花海铠神罪皮肤签名",
       "onboard_time": 1759029320,
       "rank": 8,
       "category": "电竞,游戏"
-    },
-    {
-      "raw_hot": 343211,
-      "num": 234814,
-      "word": "何同学的iPhone17测评视频",
-      "onboard_time": 1759047201,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 317928,
@@ -553,6 +561,14 @@
       "onboard_time": 1759027880,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289671,
+      "num": 289671,
+      "word": "车超无罪",
+      "onboard_time": 1759050259,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289492,
@@ -651,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235061,
-      "num": 235061,
-      "word": "车超无罪",
-      "onboard_time": 1759050259,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231749,
       "num": 197047,
       "word": "外卖骑手也要缴个税了",
@@ -673,14 +681,6 @@
       "onboard_time": 1759040842,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 226398,
-      "num": 226398,
-      "word": "车超强奸故意杀人案再审宣判",
-      "onboard_time": 1759050080,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225506,
@@ -745,6 +745,14 @@
       "onboard_time": 1759024941,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201283,
+      "num": 167977,
+      "word": "女子为和00后男友结婚与亲妈互殴",
+      "onboard_time": 1759050680,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200504,
@@ -995,20 +1003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167977,
-      "num": 167977,
-      "word": "女子为和00后男友结婚与亲妈互殴",
-      "onboard_time": 1759050680,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167893,
       "num": 167893,
       "word": "27万买到全损奔驰车",
       "onboard_time": 1758983301,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 167455,
+      "num": 133669,
+      "word": "樊振东回应观看西甲联赛",
+      "onboard_time": 1759051580,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 167342,
@@ -1299,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140655,
+      "num": 140655,
+      "word": "陈星旭谁教你做饭时候这么穿的",
+      "onboard_time": 1759050982,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140096,
       "num": 140096,
       "word": "PYL回应解说台上哭声",
@@ -1379,12 +1395,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133297,
+      "num": 133297,
+      "word": "GEN战胜HLE",
+      "onboard_time": 1759051941,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133161,
       "num": 133161,
       "word": "谍报上不封顶",
       "onboard_time": 1759017979,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132815,
+      "num": 132815,
+      "word": "曹操万灵伏威皮肤",
+      "onboard_time": 1759051640,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 132336,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1759030161,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124972,
+      "num": 133707,
+      "word": "马思纯的嘴忙不过来了",
+      "onboard_time": 1759051039,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 124643,
@@ -1627,14 +1667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118649,
-      "num": 119896,
-      "word": "陈星旭谁教你做饭时候这么穿的",
-      "onboard_time": 1759050982,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118453,
       "num": 118453,
       "word": "清华食堂现制菜伟大无需多言",
@@ -1681,14 +1713,6 @@
       "onboard_time": 1759045881,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116014,
-      "num": 116014,
-      "word": "马思纯的嘴忙不过来了",
-      "onboard_time": 1759051039,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 115902,
@@ -1971,6 +1995,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100821,
+      "num": 98398,
+      "word": "云合",
+      "onboard_time": 1759050800,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100210,
+      "num": 100210,
+      "word": "怎么有女主为破案给人送猪头",
+      "onboard_time": 1759050861,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100084,
       "num": 100084,
       "word": "眠狼樊振东全运会应援插图",
@@ -1995,12 +2035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98385,
-      "num": 98385,
-      "word": "怎么有女主为破案给人送猪头",
-      "onboard_time": 1759050861,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 98298,
+      "num": 111664,
+      "word": "解锁大厂健康运动新姿势",
+      "onboard_time": 1759050322,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98267,
@@ -2059,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94172,
+      "num": 94172,
+      "word": "孙红雷想把刘宇宁带回家",
+      "onboard_time": 1759052062,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94059,
       "num": 94059,
       "word": "久哲队",
@@ -2073,14 +2121,6 @@
       "onboard_time": 1759049600,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91271,
-      "num": 91271,
-      "word": "解锁大厂健康运动新姿势",
-      "onboard_time": 1759050322,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 91175,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1759014137,
       "rank": 31,
       "category": "电竞,体育"
+    },
+    {
+      "raw_hot": 75399,
+      "num": 119475,
+      "word": "邓超坐轮椅扫楼",
+      "onboard_time": 1759050919,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 74560,
@@ -2395,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56606,
+      "num": 219529,
+      "word": "官方狠批鞭打快牛是职场霸凌",
+      "onboard_time": 1759050680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56582,
       "num": 137667,
       "word": "迪拜打造10公斤重黄金礼服",
@@ -2465,22 +2521,6 @@
       "onboard_time": 1759038141,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 52821,
-      "num": 119475,
-      "word": "邓超坐轮椅扫楼",
-      "onboard_time": 1759050919,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 51991,
-      "num": 219529,
-      "word": "官方狠批鞭打快牛是职场霸凌",
-      "onboard_time": 1759050680,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51436,
@@ -2603,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35240,
+      "num": 111250,
+      "word": "杨采钰老公晒合照秀恩爱",
+      "onboard_time": 1759052121,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34897,
       "num": 34897,
       "word": "台风博罗依最新路径来了",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1758986002,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23454,
+      "num": 110069,
+      "word": "何超莲背着羽绒服去米兰",
+      "onboard_time": 1759051461,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22473,
