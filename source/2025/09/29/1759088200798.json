@@ -1,0 +1,410 @@
+{
+  "runTime": 1759088200798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 114129,
+        "num": 114129,
+        "word": "肖战 主唱大人",
+        "onboard_time": 1759073545,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78061,
+        "num": 78061,
+        "word": "国际顶尖肺癌专家已患肺癌三年",
+        "onboard_time": 1759070184,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1213,
+        "num": 76198,
+        "word": "10月1日客流或超3.4亿人次",
+        "onboard_time": 1759025960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76191,
+        "num": 76191,
+        "word": "沈佳润出场 小沈阳被抬走",
+        "onboard_time": 1759068144,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47542,
+        "num": 47542,
+        "word": "原来很久以前就流行腿套了",
+        "onboard_time": 1759073425,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 149296,
+        "num": 45457,
+        "word": "华南理工校内车祸遇难者同学发声",
+        "onboard_time": 1759076361,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57863,
+        "num": 44450,
+        "word": "小酒窝让佟丽娅带去找宋亚轩",
+        "onboard_time": 1759071746,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57352,
+        "num": 42490,
+        "word": "苏醒回应跑调",
+        "onboard_time": 1759066524,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40068,
+        "num": 40068,
+        "word": "韩国首尔爆发反以色列游行",
+        "onboard_time": 1759064602,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34930,
+        "num": 34930,
+        "word": "央视曝光玄学大师骗局",
+        "onboard_time": 1759071385,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126380,
+        "num": 34805,
+        "word": "向佐回应向家破产",
+        "onboard_time": 1759067665,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53526,
+        "num": 34751,
+        "word": "湾区升明月 检验唱功",
+        "onboard_time": 1759068506,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49981,
+        "num": 34453,
+        "word": "许我耀眼",
+        "onboard_time": 1759073724,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49511,
+        "num": 34429,
+        "word": "头姐拍的肖战",
+        "onboard_time": 1759076901,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42037,
+        "num": 34104,
+        "word": "遭老板性侵女子回应要2千万赔偿",
+        "onboard_time": 1759063042,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38387,
+        "num": 34058,
+        "word": "湾区升明月座位图",
+        "onboard_time": 1759076301,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33939,
+        "num": 33939,
+        "word": "中国话还得SHE",
+        "onboard_time": 1759074082,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29411,
+        "num": 29411,
+        "word": "湾区升明月",
+        "onboard_time": 1759057820,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28459,
+        "num": 28459,
+        "word": "两名15岁少女失联10天",
+        "onboard_time": 1759071206,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28427,
+        "num": 28427,
+        "word": "王健林已卖掉85个万达广场",
+        "onboard_time": 1759042461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37420,
+        "num": 28405,
+        "word": "华南理工车祸地距遇难者宿舍100米",
+        "onboard_time": 1759078278,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30020,
+        "num": 28219,
+        "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
+        "onboard_time": 1759061662,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27709,
+        "num": 27709,
+        "word": "苏醒 跑调",
+        "onboard_time": 1759061721,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26337,
+        "num": 26337,
+        "word": "日本2岁女童被父母长期虐待致死",
+        "onboard_time": 1759082895,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25959,
+        "num": 25959,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1759071746,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23891,
+        "num": 25951,
+        "word": "庙堂之外",
+        "onboard_time": 1759076960,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23380,
+        "num": 25946,
+        "word": "闫妮又微醺了",
+        "onboard_time": 1759072704,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22427,
+        "num": 25933,
+        "word": "胡彦斌月光 爷青回",
+        "onboard_time": 1759074144,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22042,
+        "num": 25923,
+        "word": "唱坠入的是汪苏泷真坠入的是我",
+        "onboard_time": 1759088054,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21990,
+        "num": 25920,
+        "word": "男子欠5000被催债后说每分钟还50",
+        "onboard_time": 1759058240,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21942,
+        "num": 25915,
+        "word": "王源骄傲 好听",
+        "onboard_time": 1759066524,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19263,
+        "num": 25897,
+        "word": "孙楠 修音响",
+        "onboard_time": 1759078458,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18957,
+        "num": 25895,
+        "word": "邓超看到孙俪照片就没法工作了",
+        "onboard_time": 1759086675,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21882,
+        "num": 25886,
+        "word": "汪苏泷会彩带召唤术吧",
+        "onboard_time": 1759087514,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18806,
+        "num": 25877,
+        "word": "姚晓棠刘宇合唱追光",
+        "onboard_time": 1759074563,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18702,
+        "num": 25867,
+        "word": "中国话",
+        "onboard_time": 1759078638,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18361,
+        "num": 25859,
+        "word": "幻梦都破碎",
+        "onboard_time": 1759075284,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18018,
+        "num": 25848,
+        "word": "艺考女生10天瘦了9斤",
+        "onboard_time": 1759070545,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17952,
+        "num": 25836,
+        "word": "吴艳妮12秒90夺冠",
+        "onboard_time": 1759069286,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17132,
+        "num": 25830,
+        "word": "iPhone很容易被遗忘的功能",
+        "onboard_time": 1759058720,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18223,
+        "num": 25821,
+        "word": "范玮琪还是抖",
+        "onboard_time": 1759069406,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17732,
+        "num": 25815,
+        "word": "刘宇宁真稳",
+        "onboard_time": 1759064484,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16811,
+        "num": 25807,
+        "word": "王力宏心中的日月 原唱就是好听",
+        "onboard_time": 1759076182,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16549,
+        "num": 25794,
+        "word": "魏大勋这段rap",
+        "onboard_time": 1759071927,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15938,
+        "num": 25786,
+        "word": "卖女孩的红烧肉 店名争议",
+        "onboard_time": 1759058601,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15353,
+        "num": 25778,
+        "word": "等来了孙悦的祝你平安",
+        "onboard_time": 1759081637,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15318,
+        "num": 25765,
+        "word": "资产上亿女老板失联前称别找自己",
+        "onboard_time": 1759078818,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15223,
+        "num": 25756,
+        "word": "印度踩踏事件目击者发声",
+        "onboard_time": 1759079598,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15200,
+        "num": 25746,
+        "word": "老人手术导丝掉血管医院补偿8000",
+        "onboard_time": 1759070246,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14939,
+        "num": 25738,
+        "word": "AG对战EDGM",
+        "onboard_time": 1759070485,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好为党育才#"
+    }
+  }
+}
