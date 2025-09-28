@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759094470411,
+  "endTime": 1759095408366,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72139,
+      "num": 72139,
+      "word": "官方回应卖女孩的红烧肉店名争议",
+      "onboard_time": 1759090514,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67735,
       "num": 213913,
       "word": "iPhone很容易被遗忘的功能",
@@ -507,12 +515,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 27927,
-      "num": 27927,
-      "word": "官方回应卖女孩的红烧肉店名争议",
-      "onboard_time": 1759090514,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 25000,
+      "num": 27844,
+      "word": "邓超看到孙俪照片就没法工作了",
+      "onboard_time": 1759086675,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 24958,
@@ -521,14 +529,6 @@
       "onboard_time": 1759084514,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24674,
-      "num": 27844,
-      "word": "邓超看到孙俪照片就没法工作了",
-      "onboard_time": 1759086675,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 24009,

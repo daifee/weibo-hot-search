@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/29 00:27:01 ~ 2025/09/29 05:21:10
+本榜单时间：2025/09/29 00:27:01 ~ 2025/09/29 05:36:48
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ AG对战EDGM（热度：86671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%96%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%BA%A2%E7%83%A7%E8%82%89%E5%BA%97%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
+官方回应卖女孩的红烧肉店名争议（热度：72139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E5%BE%88%E5%AE%B9%E6%98%93%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%8A%9F%E8%83%BD%23" target="weibo">
 iPhone很容易被遗忘的功能（热度：67735）
 </a>
@@ -393,20 +399,14 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%96%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%BA%A2%E7%83%A7%E8%82%89%E5%BA%97%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
-官方回应卖女孩的红烧肉店名争议（热度：27927）
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%9C%8B%E5%88%B0%E5%AD%99%E4%BF%AA%E7%85%A7%E7%89%87%E5%B0%B1%E6%B2%A1%E6%B3%95%E5%B7%A5%E4%BD%9C%E4%BA%86%23" target="weibo">
+邓超看到孙俪照片就没法工作了（热度：25000）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%96%91%E4%BC%BC%E9%BB%91%E5%B9%95%E5%AE%9E%E5%88%99%E5%AE%A0%E7%B2%89%23" target="weibo">
 汪苏泷疑似黑幕实则宠粉（热度：24958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%9C%8B%E5%88%B0%E5%AD%99%E4%BF%AA%E7%85%A7%E7%89%87%E5%B0%B1%E6%B2%A1%E6%B3%95%E5%B7%A5%E4%BD%9C%E4%BA%86%23" target="weibo">
-邓超看到孙俪照片就没法工作了（热度：24674）
 </a>
 </li>
 
