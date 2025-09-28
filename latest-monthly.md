@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 00:40:58
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 01:20:28
 </p>
 </blockquote>
 <p>
@@ -3783,6 +3783,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E6%A0%A1%E5%86%85%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
+华南理工校内车祸遇难者同学发声（热度：962864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E6%88%90%E7%82%B8%E5%B1%B1%E9%B8%9F%E5%AE%89%E8%B8%8F%E5%B2%82%E8%83%BD%E8%A3%85%E7%9D%A1%23" target="weibo">
 始祖鸟成炸山鸟安踏岂能装睡（热度：961537）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E7%AC%AC%E5%9B%9B%E6%9C%9F%E5%B0%81%E7%A5%9E%23" target="weibo">
 花少第四期封神（热度：731245）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%94%99%E6%8A%8A%E8%87%AA%E9%80%89%E9%A4%90%E7%9C%8B%E6%88%90%E8%87%AA%E5%8A%A9%E9%A4%90%23" target="weibo">
-男生错把自选餐看成自助餐（热度：730222）
 </a>
 </li>
 
