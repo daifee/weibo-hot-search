@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759098138856,
+  "endTime": 1759099127124,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 557363,
-      "num": 216001,
+      "num": 252444,
       "word": "沈佳润出场 小沈阳被抬走",
       "onboard_time": 1759068144,
       "rank": 7,
@@ -339,6 +339,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 101528,
+      "num": 85190,
+      "word": "林依轮 我的娘我也爱肖战",
+      "onboard_time": 1759096635,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100679,
       "num": 214095,
       "word": "任嘉伦寸头",
@@ -352,6 +360,14 @@
       "word": "老人手术导丝掉血管医院补偿8000",
       "onboard_time": 1759070246,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90171,
+      "num": 90171,
+      "word": "官方回应卖女孩的红烧肉店名争议",
+      "onboard_time": 1759090514,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -369,14 +385,6 @@
       "onboard_time": 1759070485,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84191,
-      "num": 84191,
-      "word": "官方回应卖女孩的红烧肉店名争议",
-      "onboard_time": 1759090514,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84098,
@@ -427,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57735,
-      "num": 57735,
-      "word": "林依轮 我的娘我也爱肖战",
-      "onboard_time": 1759096635,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 56505,
       "num": 209356,
       "word": "JDG秋季赛夺冠",
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54826,
+      "num": 49251,
+      "word": "邓超看到孙俪照片就没法工作了",
+      "onboard_time": 1759086675,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53544,
       "num": 79140,
       "word": "中国话",
@@ -459,12 +467,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45881,
-      "num": 40525,
-      "word": "邓超看到孙俪照片就没法工作了",
-      "onboard_time": 1759086675,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 49444,
+      "num": 79046,
+      "word": "卖女孩的红烧肉 店名争议",
+      "onboard_time": 1759058601,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44373,
+      "num": 44373,
+      "word": "日本2岁女童被父母长期虐待致死",
+      "onboard_time": 1759082895,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43276,
@@ -483,11 +499,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 40648,
-      "num": 79046,
-      "word": "卖女孩的红烧肉 店名争议",
-      "onboard_time": 1759058601,
-      "rank": 49,
+      "raw_hot": 40880,
+      "num": 40880,
+      "word": "哈尔滨图书馆回应3千至4千招聘硕博",
+      "onboard_time": 1759095854,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -515,12 +531,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 32820,
-      "num": 32820,
-      "word": "日本2岁女童被父母长期虐待致死",
-      "onboard_time": 1759082895,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 38491,
+      "num": 38491,
+      "word": "朱珠郭晶晶合照",
+      "onboard_time": 1759096574,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 31732,
@@ -531,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28587,
-      "num": 28587,
-      "word": "哈尔滨图书馆回应3千至4千招聘硕博",
-      "onboard_time": 1759095854,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 26684,
+      "num": 29560,
+      "word": "王楚钦回应兼三",
+      "onboard_time": 1759071206,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 24958,
@@ -569,22 +585,6 @@
       "onboard_time": 1759086074,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22336,
-      "num": 29560,
-      "word": "王楚钦回应兼三",
-      "onboard_time": 1759071206,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22207,
-      "num": 26284,
-      "word": "朱珠郭晶晶合照",
-      "onboard_time": 1759096574,
-      "rank": 43,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 22042,
@@ -643,7 +643,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2639,
+      "raw_hot": 2850,
       "num": 285520,
       "word": "10月1日客流或超3.4亿人次",
       "onboard_time": 1759025960,
