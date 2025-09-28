@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759072944923,
+  "endTime": 1759073788862,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -329,6 +329,14 @@
       "onboard_time": 1757578356,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3572248,
+      "num": 354516,
+      "word": "肖战 主唱大人",
+      "onboard_time": 1759073545,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 3521495,
@@ -9363,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645823,
+      "num": 373414,
+      "word": "华南理工校内车祸致1死1伤",
+      "onboard_time": 1759069045,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 645692,
       "num": 645692,
       "word": "结婚一年确诊了免疫系统疾病",
@@ -9953,6 +9969,14 @@
       "onboard_time": 1757505202,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 613235,
+      "num": 257181,
+      "word": "湾区升明月 检验唱功",
+      "onboard_time": 1759068506,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 612202,
@@ -10833,14 +10857,6 @@
       "onboard_time": 1757465423,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 573334,
-      "num": 373414,
-      "word": "华南理工校内车祸致1死1伤",
-      "onboard_time": 1759069045,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 573332,
@@ -12745,14 +12761,6 @@
       "onboard_time": 1758973701,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 504240,
-      "num": 257181,
-      "word": "湾区升明月 检验唱功",
-      "onboard_time": 1759068506,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 504209,
@@ -14971,6 +14979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 438599,
+      "num": 219928,
+      "word": "小酒窝让佟丽娅带去找宋亚轩",
+      "onboard_time": 1759071746,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 438557,
       "num": 438557,
       "word": "BLG让二追三JDG",
@@ -16436,7 +16452,7 @@
     },
     {
       "raw_hot": 398250,
-      "num": 210010,
+      "num": 219174,
       "word": "小酒窝找宋亚轩握手",
       "onboard_time": 1759070784,
       "rank": 21,
@@ -17707,14 +17723,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 372612,
-      "num": 209316,
-      "word": "小酒窝让佟丽娅带去找宋亚轩",
-      "onboard_time": 1759071746,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 372509,
       "num": 448958,
       "word": "关晓彤竟然还有庄筱婷林栋哲售后",
@@ -18964,7 +18972,7 @@
     },
     {
       "raw_hot": 346200,
-      "num": 209830,
+      "num": 218660,
       "word": "魏大勋这段rap",
       "onboard_time": 1759071927,
       "rank": 22,
@@ -19353,6 +19361,14 @@
       "onboard_time": 1757847083,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337828,
+      "num": 218526,
+      "word": "闫妮又微醺了",
+      "onboard_time": 1759072704,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 337664,
@@ -21201,6 +21217,14 @@
       "onboard_time": 1758202824,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301231,
+      "num": 218083,
+      "word": "周深题词器",
+      "onboard_time": 1759072463,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 301129,
@@ -27531,6 +27555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220294,
+      "num": 220294,
+      "word": "艺考女生10天瘦了9斤",
+      "onboard_time": 1759070545,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220289,
       "num": 223481,
       "word": "中国向阿富汗提供5000万元援助",
@@ -28153,14 +28185,6 @@
       "onboard_time": 1756956682,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214523,
-      "num": 214523,
-      "word": "艺考女生10天瘦了9斤",
-      "onboard_time": 1759070545,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 214461,
@@ -28852,7 +28876,7 @@
     },
     {
       "raw_hot": 210324,
-      "num": 210324,
+      "num": 218258,
       "word": "张帅vs阿尼西莫娃",
       "onboard_time": 1759071685,
       "rank": 18,
@@ -29601,14 +29625,6 @@
       "onboard_time": 1758805342,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 206302,
-      "num": 206302,
-      "word": "闫妮又微醺了",
-      "onboard_time": 1759072704,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 206294,
@@ -31673,14 +31689,6 @@
       "onboard_time": 1757910024,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197306,
-      "num": 206046,
-      "word": "周深题词器",
-      "onboard_time": 1759072463,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 197299,
@@ -34019,6 +34027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189394,
+      "num": 187133,
+      "word": "沈佳润实力好强",
+      "onboard_time": 1759073485,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189371,
       "num": 189371,
       "word": "吴艳妮填补中国女子短跨十年空白",
@@ -34609,6 +34625,14 @@
       "onboard_time": 1757493442,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187390,
+      "num": 187390,
+      "word": "RED中国话舞台",
+      "onboard_time": 1759072827,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 187300,
@@ -39700,7 +39724,7 @@
     },
     {
       "raw_hot": 168177,
-      "num": 208850,
+      "num": 219447,
       "word": "两名15岁少女失联10天",
       "onboard_time": 1759071206,
       "rank": 29,
@@ -74411,6 +74435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89610,
+      "num": 180364,
+      "word": "AG对战EDGM",
+      "onboard_time": 1759070485,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89599,
       "num": 89599,
       "word": "腿部缩短术",
@@ -85361,6 +85393,14 @@
       "onboard_time": 1758045795,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46302,
+      "num": 187727,
+      "word": "黄子弘凡捧场王",
+      "onboard_time": 1759072946,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 46287,

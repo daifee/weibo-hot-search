@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 23:22:24
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 23:36:28
 </p>
 </blockquote>
 <p>
@@ -257,6 +257,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E4%BA%8E%E6%9C%A6%E8%83%A7%E5%8A%A9%E7%90%86%E5%8F%91%E6%96%87%23" target="weibo">
 疑似于朦胧助理发文（热度：3579339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E4%B8%BB%E5%94%B1%E5%A4%A7%E4%BA%BA%23" target="weibo">
+肖战 主唱大人（热度：3572248）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%94%99%E6%8A%8A%E8%87%AA%E9%80%89%E9%A4%90%E7%9C%8B%E6%88%90%E8%87%AA%E5%8A%A9%E9%A4%90%23" target="weibo">
 男生错把自选餐看成自助餐（热度：730222）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E7%A7%B0%E5%81%9A%E6%A2%A6%E6%80%BB%E6%89%BE%E8%A2%AB%E6%80%A7%E4%BE%B5%E6%97%B6%E5%BC%84%E4%B8%A2%E7%9A%84%E9%9E%8B%23" target="weibo">
-崔丽丽称做梦总找被性侵时弄丢的鞋（热度：729737）
 </a>
 </li>
 
