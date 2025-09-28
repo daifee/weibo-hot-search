@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 21:38:04
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 22:20:15
 </p>
 </blockquote>
 <p>
@@ -1929,6 +1929,12 @@ ally官宣分手（热度：1529775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E6%A0%A1%E5%86%85%E8%BD%A6%E7%A5%B8%23" target="weibo">
+警方通报华南理工校内车祸（热度：1428723）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E8%A2%AB%E9%BB%84%E7%89%9B%E6%8B%92%E6%94%B6%23" target="weibo">
 iPhone17Pro被黄牛拒收（热度：1422215）
 </a>
@@ -2135,6 +2141,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E4%BE%9D%E6%89%8E%E6%8B%8D%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%E6%88%8F%E6%8C%81%E7%BB%AD%E5%93%AD%E4%BA%867%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
 热依扎拍女儿去世戏持续哭了7个小时（热度：1350110）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E8%B7%91%E8%B0%83%23" target="weibo">
+苏醒回应跑调（热度：1348508）
 </a>
 </li>
 
@@ -3233,6 +3245,12 @@ wtt（热度：1154727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%90%8C%E8%A1%8C%E4%B8%BE%E6%8A%A5%23" target="weibo">
 小米SU7出租车司机被同行举报（热度：1050948）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%B0%8F%E6%B2%88%E9%98%B3%E8%B4%A2%E9%98%80%E5%8D%83%E9%87%91%E5%92%8C%E4%BB%96%E7%9A%84%E4%BF%9D%E9%95%96%23" target="weibo">
+沈佳润小沈阳财阀千金和他的保镖（热度：1050770）
 </a>
 </li>
 
@@ -4491,6 +4509,12 @@ WTT抽签（热度：866782）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%86%85%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%92%9E%23" target="weibo">
+华南理工大学校内发生车祸有人被撞（热度：863670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%B0%86%E8%B5%B7%E8%AF%89%E7%BD%97%E6%B0%B8%E6%B5%A9%23" target="weibo">
 西贝将起诉罗永浩（热度：863563）
 </a>
@@ -4649,6 +4673,12 @@ WTT抽签（热度：866782）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%BB%84%E5%B2%A9%E5%B2%9B%E4%B8%BE%E7%99%BD%E6%97%97%23" target="weibo">
 菲律宾在中国黄岩岛举白旗（热度：849007）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E9%AA%84%E5%82%B2%20%E5%A5%BD%E5%90%AC%23" target="weibo">
+王源骄傲 好听（热度：848874）
 </a>
 </li>
 
@@ -5249,12 +5279,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%BB%99%E6%9D%A8%E5%B9%82%E9%80%81%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23" target="weibo">
 刘诗诗给杨幂送生日祝福（热度：791697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%86%85%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%92%9E%23" target="weibo">
-华南理工大学校内发生车祸有人被撞（热度：791640）
 </a>
 </li>
 
@@ -5889,6 +5913,12 @@ BLG对战TES（热度：746464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%87%BA%E5%9C%BA%20%E5%B0%8F%E6%B2%88%E9%98%B3%E8%A2%AB%E6%8A%AC%E8%B5%B0%23" target="weibo">
+沈佳润出场 小沈阳被抬走（热度：733828）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E8%B5%9A%E7%9A%84%E6%AF%8F%E5%88%86%E9%92%B1%E9%83%BD%E6%9C%89%E5%A5%B3%E5%84%BF%E5%90%8D%E5%AD%97%23" target="weibo">
 董璇赚的每分钱都有女儿名字（热度：733718）
 </a>
@@ -5981,36 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E7%84%A6%E8%99%91%E7%97%87%E6%98%AF%E9%95%BF%E6%9C%9F%E6%81%90%E6%83%A7%E5%AF%BC%E8%87%B4%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%96%B2%E5%8A%B3%23" target="weibo">
 其实焦虑症是长期恐惧导致的神经疲劳（热度：728532）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%23" target="weibo">
-王腾（热度：728476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%9C%A8%E4%BC%91%E6%81%AF%E5%85%B6%E5%AE%9E%E6%9C%80%E8%80%97%E6%B0%94%E8%A1%80%23" target="weibo">
-你以为在休息其实最耗气血（热度：728415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%95%96%E5%85%B6%E5%B0%94%E5%8E%BB%E4%B8%96%23" target="weibo">
-网红敖其尔去世（热度：728146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E8%BF%BD%E6%98%9F%E9%A2%91%E7%B9%81%E6%9F%93%E5%8F%91%E6%82%A3%E8%82%BE%E7%97%85%23" target="weibo">
-00后女生追星频繁染发患肾病（热度：725261）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E9%97%B7%E5%A3%B0%E5%B9%B2%E5%A4%A7%E4%BA%8B%23" target="weibo">
-沈佳润闷声干大事（热度：725113）
 </a>
 </li>
 
@@ -6551,6 +6551,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%83%85%E6%9A%96%E5%A4%A9%E5%B1%B1%23%23" target="weibo">
 #情暖天山#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%9B%B4%E5%A5%BD%E4%B8%BA%E5%85%9A%E8%82%B2%E6%89%8D%23%23" target="weibo">
+#更好为党育才#
 </a>
 </li>
 

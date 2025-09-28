@@ -1,0 +1,410 @@
+{
+  "runTime": 1759069215223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6823396,
+        "num": 6823396,
+        "word": "湾区升明月",
+        "onboard_time": 1759057820,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1428723,
+        "num": 1428723,
+        "word": "警方通报华南理工校内车祸",
+        "onboard_time": 1759067604,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 20569,
+        "num": 1357707,
+        "word": "青春正澎湃",
+        "onboard_time": 1759069164,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1348508,
+        "num": 1348508,
+        "word": "苏醒回应跑调",
+        "onboard_time": 1759066524,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 440835,
+        "num": 440835,
+        "word": "月饼名字是把配料表抄上去了吧",
+        "onboard_time": 1759057701,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216794,
+        "num": 440770,
+        "word": "男子欠5000被催债后说每分钟还50",
+        "onboard_time": 1759058240,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 961119,
+        "num": 440573,
+        "word": "肖战容祖儿成龙坐一起",
+        "onboard_time": 1759061122,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23123,
+        "num": 440453,
+        "word": "行走大美中国",
+        "onboard_time": 1759052960,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848874,
+        "num": 440179,
+        "word": "王源骄傲 好听",
+        "onboard_time": 1759066524,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191915,
+        "num": 440032,
+        "word": "王楚钦的球童是海螺海苔",
+        "onboard_time": 1759066945,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1050770,
+        "num": 439792,
+        "word": "沈佳润小沈阳财阀千金和他的保镖",
+        "onboard_time": 1759066463,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 863670,
+        "num": 439607,
+        "word": "华南理工大学校内发生车祸有人被撞",
+        "onboard_time": 1759065324,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599832,
+        "num": 439523,
+        "word": "苏醒 跑调",
+        "onboard_time": 1759061721,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 517881,
+        "num": 439263,
+        "word": "向佐回应向家破产",
+        "onboard_time": 1759067665,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175983,
+        "num": 439085,
+        "word": "卖女孩的红烧肉 店名争议",
+        "onboard_time": 1759058601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 733828,
+        "num": 438987,
+        "word": "沈佳润出场 小沈阳被抬走",
+        "onboard_time": 1759068144,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86769,
+        "num": 438769,
+        "word": "18.99万的smart开启超级电混时代",
+        "onboard_time": 1759066524,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 59793,
+        "num": 438442,
+        "word": "当车有了双目是种什么体验",
+        "onboard_time": 1759067244,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 467673,
+        "num": 438362,
+        "word": "肖战容祖儿碰保温杯",
+        "onboard_time": 1759067304,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33490,
+        "num": 438087,
+        "word": "于适眼里太有活了",
+        "onboard_time": 1759068265,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243143,
+        "num": 437886,
+        "word": "遭老板性侵女子回应要2千万赔偿",
+        "onboard_time": 1759063042,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437882,
+        "num": 437882,
+        "word": "刘宇宁真稳",
+        "onboard_time": 1759064484,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394338,
+        "num": 394338,
+        "word": "任嘉伦寸头",
+        "onboard_time": 1759067845,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382780,
+        "num": 382780,
+        "word": "林志炫 MVP",
+        "onboard_time": 1759068506,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359621,
+        "num": 359621,
+        "word": "单依纯上车摔倒",
+        "onboard_time": 1759062323,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331549,
+        "num": 331549,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304656,
+        "num": 304656,
+        "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
+        "onboard_time": 1759061662,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18144,
+        "num": 286484,
+        "word": "应急管理部黄金周重磅提醒",
+        "onboard_time": 1759068206,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164812,
+        "num": 280157,
+        "word": "向人民英雄敬献花篮仪式",
+        "onboard_time": 1759068384,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276893,
+        "num": 276893,
+        "word": "王力宏抢拍 真唱证明",
+        "onboard_time": 1759061362,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254481,
+        "num": 254481,
+        "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
+        "onboard_time": 1759044560,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234774,
+        "num": 234774,
+        "word": "王健林已卖掉85个万达广场",
+        "onboard_time": 1759042461,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234487,
+        "num": 234487,
+        "word": "湾区升明月 全开麦",
+        "onboard_time": 1759063281,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167349,
+        "num": 232853,
+        "word": "向烈士致敬",
+        "onboard_time": 1759068384,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232374,
+        "num": 232374,
+        "word": "韩国首尔爆发反以色列游行",
+        "onboard_time": 1759064602,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229555,
+        "num": 229555,
+        "word": "金海心太好听了",
+        "onboard_time": 1759066284,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223101,
+        "num": 223101,
+        "word": "曝短剧导演熬夜猝死",
+        "onboard_time": 1759052661,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222248,
+        "num": 222248,
+        "word": "任嘉伦萧煌奇合唱",
+        "onboard_time": 1759068744,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219478,
+        "num": 219478,
+        "word": "昀牵孟绕",
+        "onboard_time": 1759065144,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195748,
+        "num": 195748,
+        "word": "刘亦菲爽文大女主",
+        "onboard_time": 1759065983,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193585,
+        "num": 193585,
+        "word": "单依纯 串烧",
+        "onboard_time": 1759064906,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187418,
+        "num": 187418,
+        "word": "湾区升明月 检验唱功",
+        "onboard_time": 1759068506,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186470,
+        "num": 186470,
+        "word": "华南理工校内车祸致1死1伤",
+        "onboard_time": 1759069045,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 183089,
+        "num": 183089,
+        "word": "徐怀钰嗓子",
+        "onboard_time": 1759065744,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175761,
+        "num": 175761,
+        "word": "小酒窝朵朵开场",
+        "onboard_time": 1759062562,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170671,
+        "num": 170671,
+        "word": "于适清唱",
+        "onboard_time": 1759069164,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156261,
+        "num": 156261,
+        "word": "当你很爱很在乎一个人的时候",
+        "onboard_time": 1759068744,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148994,
+        "num": 148994,
+        "word": "新华社发的时代少年团",
+        "onboard_time": 1759063162,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21640,
+        "num": 146265,
+        "word": "鸡排哥强调不是预制菜",
+        "onboard_time": 1759067485,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145634,
+        "num": 145634,
+        "word": "王楚钦说曾一度看不到希望",
+        "onboard_time": 1759066705,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好为党育才#"
+    }
+  }
+}

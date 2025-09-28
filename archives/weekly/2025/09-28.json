@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759066684524,
+  "endTime": 1759069215223,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1428723,
+      "num": 1428723,
+      "word": "警方通报华南理工校内车祸",
+      "onboard_time": 1759067604,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1396704,
       "num": 1396704,
       "word": "王健林被限制高消费",
@@ -73,6 +81,14 @@
       "onboard_time": 1758985463,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1348508,
+      "num": 1348508,
+      "word": "苏醒回应跑调",
+      "onboard_time": 1759066524,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 1284412,
@@ -113,6 +129,14 @@
       "onboard_time": 1759038561,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1050770,
+      "num": 439792,
+      "word": "沈佳润小沈阳财阀千金和他的保镖",
+      "onboard_time": 1759066463,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1016696,
@@ -171,8 +195,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 863670,
+      "num": 439607,
+      "word": "华南理工大学校内发生车祸有人被撞",
+      "onboard_time": 1759065324,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848874,
+      "num": 440179,
+      "word": "王源骄傲 好听",
+      "onboard_time": 1759066524,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 816875,
-      "num": 304562,
+      "num": 437882,
       "word": "刘宇宁真稳",
       "onboard_time": 1759064484,
       "rank": 7,
@@ -183,14 +223,6 @@
       "num": 539110,
       "word": "万达",
       "onboard_time": 1759035082,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 791640,
-      "num": 308795,
-      "word": "华南理工大学校内发生车祸有人被撞",
-      "onboard_time": 1759065324,
       "rank": 5,
       "category": "民生新闻"
     },
@@ -225,6 +257,14 @@
       "onboard_time": 1759029499,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 733828,
+      "num": 438987,
+      "word": "沈佳润出场 小沈阳被抬走",
+      "onboard_time": 1759068144,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 717967,
@@ -404,7 +444,7 @@
     },
     {
       "raw_hot": 550904,
-      "num": 274713,
+      "num": 359621,
       "word": "单依纯上车摔倒",
       "onboard_time": 1759062323,
       "rank": 23,
@@ -441,6 +481,14 @@
       "onboard_time": 1759043060,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 517881,
+      "num": 439263,
+      "word": "向佐回应向家破产",
+      "onboard_time": 1759067665,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 512095,
@@ -489,6 +537,14 @@
       "onboard_time": 1759039580,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467673,
+      "num": 438362,
+      "word": "肖战容祖儿碰保温杯",
+      "onboard_time": 1759067304,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 464731,
@@ -619,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394338,
+      "num": 394338,
+      "word": "任嘉伦寸头",
+      "onboard_time": 1759067845,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 389076,
       "num": 205433,
       "word": "董璇娘家弟弟重膀出击张维伊",
@@ -636,11 +700,19 @@
     },
     {
       "raw_hot": 383769,
-      "num": 248101,
+      "num": 304656,
       "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
       "onboard_time": 1759061662,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382780,
+      "num": 382780,
+      "word": "林志炫 MVP",
+      "onboard_time": 1759068506,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 376689,
@@ -796,7 +868,7 @@
     },
     {
       "raw_hot": 288981,
-      "num": 249231,
+      "num": 437886,
       "word": "遭老板性侵女子回应要2千万赔偿",
       "onboard_time": 1759063042,
       "rank": 43,
@@ -825,14 +897,6 @@
       "onboard_time": 1759033582,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278068,
-      "num": 246807,
-      "word": "沈佳润小沈阳财阀千金和他的保镖",
-      "onboard_time": 1759066463,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 276852,
@@ -939,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232374,
+      "num": 232374,
+      "word": "韩国首尔爆发反以色列游行",
+      "onboard_time": 1759064602,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 231749,
       "num": 197047,
       "word": "外卖骑手也要缴个税了",
@@ -948,11 +1020,19 @@
     },
     {
       "raw_hot": 229980,
-      "num": 292586,
+      "num": 439085,
       "word": "卖女孩的红烧肉 店名争议",
       "onboard_time": 1759058601,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229555,
+      "num": 229555,
+      "word": "金海心太好听了",
+      "onboard_time": 1759066284,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 227905,
@@ -979,12 +1059,12 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 220745,
-      "num": 220745,
-      "word": "韩国首尔爆发反以色列游行",
-      "onboard_time": 1759064602,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 222248,
+      "num": 222248,
+      "word": "任嘉伦萧煌奇合唱",
+      "onboard_time": 1759068744,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 220446,
@@ -1043,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202902,
-      "num": 202902,
-      "word": "苏醒回应跑调",
-      "onboard_time": 1759066524,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 202415,
       "num": 202415,
       "word": "合作方曝王一博有严重的高反",
@@ -1107,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198581,
-      "num": 198581,
-      "word": "王源骄傲 好听",
-      "onboard_time": 1759066524,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 198562,
       "num": 198562,
       "word": "韩国外卖平台接入支付宝和微信支付",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1759031360,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195748,
+      "num": 195748,
+      "word": "刘亦菲爽文大女主",
+      "onboard_time": 1759065983,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195730,
@@ -1187,6 +1259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 191915,
+      "num": 440032,
+      "word": "王楚钦的球童是海螺海苔",
+      "onboard_time": 1759066945,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191646,
       "num": 191646,
       "word": "王鹤棣突然跳了两下刀马刀马",
@@ -1227,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187418,
+      "num": 187418,
+      "word": "湾区升明月 检验唱功",
+      "onboard_time": 1759068506,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186624,
       "num": 186624,
       "word": "胡凌宸回应抛下剧组哄女友",
       "onboard_time": 1759038621,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186470,
+      "num": 186470,
+      "word": "华南理工校内车祸致1死1伤",
+      "onboard_time": 1759069045,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 185998,
@@ -1443,6 +1539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 170671,
+      "num": 170671,
+      "word": "于适清唱",
+      "onboard_time": 1759069164,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169517,
       "num": 169517,
       "word": "湾区升明月彩排",
@@ -1481,6 +1585,14 @@
       "onboard_time": 1759051580,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167349,
+      "num": 232853,
+      "word": "向烈士致敬",
+      "onboard_time": 1759068384,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167342,
@@ -1523,12 +1635,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 164141,
-      "num": 164141,
-      "word": "刘亦菲爽文大女主",
-      "onboard_time": 1759065983,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 164812,
+      "num": 280157,
+      "word": "向人民英雄敬献花篮仪式",
+      "onboard_time": 1759068384,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162906,
@@ -1633,6 +1745,14 @@
       "onboard_time": 1759063642,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156261,
+      "num": 156261,
+      "word": "当你很爱很在乎一个人的时候",
+      "onboard_time": 1759068744,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 156175,
@@ -1747,6 +1867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145634,
+      "num": 145634,
+      "word": "王楚钦说曾一度看不到希望",
+      "onboard_time": 1759066705,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145230,
       "num": 145230,
       "word": "性格好的人一般脑子也好使",
@@ -1785,14 +1913,6 @@
       "onboard_time": 1759027939,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144552,
-      "num": 144552,
-      "word": "金海心太好听了",
-      "onboard_time": 1759066284,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 144275,
@@ -2852,7 +2972,7 @@
     },
     {
       "raw_hot": 91684,
-      "num": 240610,
+      "num": 438769,
       "word": "18.99万的smart开启超级电混时代",
       "onboard_time": 1759066524,
       "rank": 29,
@@ -3187,6 +3307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 59793,
+      "num": 438442,
+      "word": "当车有了双目是种什么体验",
+      "onboard_time": 1759067244,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 59725,
       "num": 132567,
       "word": "毛不易大合唱",
@@ -3499,6 +3627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33490,
+      "num": 438087,
+      "word": "于适眼里太有活了",
+      "onboard_time": 1759068265,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33361,
       "num": 103401,
       "word": "医生说活不过2岁的男孩上小学了",
@@ -3596,7 +3732,7 @@
     },
     {
       "raw_hot": 24369,
-      "num": 411839,
+      "num": 440453,
       "word": "行走大美中国",
       "onboard_time": 1759052960,
       "rank": 2,
@@ -3643,6 +3779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21640,
+      "num": 146265,
+      "word": "鸡排哥强调不是预制菜",
+      "onboard_time": 1759067485,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21498,
       "num": 18921,
       "word": "汪苏泷自己给自己逗笑了",
@@ -3667,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20569,
+      "num": 1357707,
+      "word": "青春正澎湃",
+      "onboard_time": 1759069164,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18899,
       "num": 119779,
       "word": "李沁回复七老童心",
@@ -3681,6 +3833,14 @@
       "onboard_time": 1759040242,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18144,
+      "num": 286484,
+      "word": "应急管理部黄金周重磅提醒",
+      "onboard_time": 1759068206,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14546,
@@ -3756,6 +3916,9 @@
     },
     {
       "word": "#情暖天山#"
+    },
+    {
+      "word": "#更好为党育才#"
     }
   ]
 }
