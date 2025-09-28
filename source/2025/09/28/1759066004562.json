@@ -1,0 +1,410 @@
+{
+  "runTime": 1759066004562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7123012,
+        "num": 7123012,
+        "word": "湾区升明月",
+        "onboard_time": 1759057820,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 531093,
+        "num": 531093,
+        "word": "月饼名字是把配料表抄上去了吧",
+        "onboard_time": 1759057701,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22666,
+        "num": 313838,
+        "word": "行走大美中国",
+        "onboard_time": 1759052960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1364315,
+        "num": 313834,
+        "word": "肖战容祖儿成龙坐一起",
+        "onboard_time": 1759061122,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 313831,
+        "num": 313831,
+        "word": "男子欠5000被催债后说每分钟还50",
+        "onboard_time": 1759058240,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362319,
+        "num": 308795,
+        "word": "华南理工大学校内发生车祸有人被撞",
+        "onboard_time": 1759065324,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1124078,
+        "num": 306224,
+        "word": "苏醒 跑调",
+        "onboard_time": 1759061721,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 663555,
+        "num": 304562,
+        "word": "刘宇宁真稳",
+        "onboard_time": 1759064484,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293838,
+        "num": 293838,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1759062503,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209655,
+        "num": 292586,
+        "word": "卖女孩的红烧肉 店名争议",
+        "onboard_time": 1759058601,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622853,
+        "num": 290048,
+        "word": "王力宏抢拍 真唱证明",
+        "onboard_time": 1759061362,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 612455,
+        "num": 289696,
+        "word": "湾区升明月节目单",
+        "onboard_time": 1759033341,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 519418,
+        "num": 287107,
+        "word": "湾区升明月 全开麦",
+        "onboard_time": 1759063281,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 507532,
+        "num": 284000,
+        "word": "时代少年团 台偶串烧",
+        "onboard_time": 1759063523,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283861,
+        "num": 283861,
+        "word": "王健林已卖掉85个万达广场",
+        "onboard_time": 1759042461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504331,
+        "num": 274713,
+        "word": "单依纯上车摔倒",
+        "onboard_time": 1759062323,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240336,
+        "num": 240336,
+        "word": "遭老板性侵女子回应要2千万赔偿",
+        "onboard_time": 1759063042,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207364,
+        "num": 207364,
+        "word": "王楚钦中国大满贯2025开门红",
+        "onboard_time": 1759065144,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153174,
+        "num": 207337,
+        "word": "iPhone很容易被遗忘的功能",
+        "onboard_time": 1759058720,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142841,
+        "num": 207105,
+        "word": "张本智和想成为世界第一",
+        "onboard_time": 1759064784,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383769,
+        "num": 206968,
+        "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
+        "onboard_time": 1759061662,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352490,
+        "num": 206808,
+        "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
+        "onboard_time": 1759044560,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340961,
+        "num": 206675,
+        "word": "单依纯 串烧",
+        "onboard_time": 1759064906,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338572,
+        "num": 206621,
+        "word": "小酒窝朵朵开场",
+        "onboard_time": 1759062562,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305314,
+        "num": 206435,
+        "word": "曝短剧导演熬夜猝死",
+        "onboard_time": 1759052661,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302948,
+        "num": 206313,
+        "word": "新华社发的时代少年团",
+        "onboard_time": 1759063162,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269484,
+        "num": 206155,
+        "word": "昀牵孟绕",
+        "onboard_time": 1759065144,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267361,
+        "num": 205912,
+        "word": "王力宏单依纯再唱落叶归根",
+        "onboard_time": 1759061962,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51012,
+        "num": 205757,
+        "word": "贵州1溶洞被曝垃圾成山污水直排",
+        "onboard_time": 1759064424,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225042,
+        "num": 205696,
+        "word": "肖战被前辈赞为特别棒的歌手",
+        "onboard_time": 1759060221,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219292,
+        "num": 205528,
+        "word": "韩国首尔爆发反以色列游行",
+        "onboard_time": 1759064602,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210088,
+        "num": 205420,
+        "word": "恶作剧",
+        "onboard_time": 1759065084,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205311,
+        "num": 205311,
+        "word": "陈都灵泳池照",
+        "onboard_time": 1759059801,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190770,
+        "num": 190770,
+        "word": "罗予彤 同父异母的哥哥",
+        "onboard_time": 1759055780,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185581,
+        "num": 185581,
+        "word": "一听就是周深",
+        "onboard_time": 1759064843,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121339,
+        "num": 178086,
+        "word": "樊振东发文感谢西甲联赛邀请",
+        "onboard_time": 1759064063,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173541,
+        "num": 173541,
+        "word": "屠洪刚 宝刀未老",
+        "onboard_time": 1759065503,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157554,
+        "num": 157554,
+        "word": "徐怀钰嗓子",
+        "onboard_time": 1759065744,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36603,
+        "num": 155832,
+        "word": "陈数状态越来越好了",
+        "onboard_time": 1759061242,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32418,
+        "num": 155673,
+        "word": "张婧仪同款大嘴包",
+        "onboard_time": 1759061602,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155626,
+        "num": 155626,
+        "word": "关晓彤好敢说",
+        "onboard_time": 1759055600,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154087,
+        "num": 154087,
+        "word": "车超强奸故意杀人案再审宣判",
+        "onboard_time": 1759050080,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152639,
+        "num": 152639,
+        "word": "李佳薇依旧稳",
+        "onboard_time": 1759065024,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133527,
+        "num": 133527,
+        "word": "刘宇宁湾区升明月晚会舞台高清大图",
+        "onboard_time": 1759064424,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131930,
+        "num": 131930,
+        "word": "林小宅自曝试戏一年多没人要",
+        "onboard_time": 1759057881,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130875,
+        "num": 130875,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127319,
+        "num": 127319,
+        "word": "夜空中最亮的星",
+        "onboard_time": 1759062562,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109419,
+        "num": 109419,
+        "word": "日本计划引进5万名印度技术人才",
+        "onboard_time": 1759064063,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107452,
+        "num": 107452,
+        "word": "果然饭局是官宣恋情的好时机",
+        "onboard_time": 1759064304,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106171,
+        "num": 106171,
+        "word": "刘亦菲爽文大女主",
+        "onboard_time": 1759065983,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#情暖天山#"
+    }
+  }
+}

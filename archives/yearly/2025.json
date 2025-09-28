@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1759064345449,
+  "endTime": 1759066004562,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1899,6 +1899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7123012,
+      "num": 7123012,
+      "word": "湾区升明月",
+      "onboard_time": 1759057820,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 7112313,
       "num": 7112313,
       "word": "黄杨钿甜爸爸发文",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1752566721,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5099857,
-      "num": 5099857,
-      "word": "湾区升明月",
-      "onboard_time": 1759057820,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 5064753,
