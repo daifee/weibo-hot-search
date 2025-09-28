@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759037971945,
+  "endTime": 1759041254740,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1012419,
+      "num": 1161987,
+      "word": "iPhone 调休闹钟",
+      "onboard_time": 1759035201,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 920937,
       "num": 1147349,
       "word": "湾区升明月节目单",
@@ -91,12 +99,28 @@
       "category": "艺人,电影"
     },
     {
+      "raw_hot": 802989,
+      "num": 539110,
+      "word": "万达",
+      "onboard_time": 1759035082,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 737061,
       "num": 1117929,
       "word": "戴向宇9年不知道陈紫函给他的备注",
       "onboard_time": 1759029499,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 731779,
+      "num": 224181,
+      "word": "前妻需连续72小时向李阳公开道歉",
+      "onboard_time": 1759038561,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 717967,
@@ -144,14 +168,6 @@
       "word": "打工人即将迎来最轻松的10月份",
       "onboard_time": 1759028241,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 625318,
-      "num": 316127,
-      "word": "万达",
-      "onboard_time": 1759035082,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -225,6 +241,14 @@
       "onboard_time": 1759019422,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 489561,
+      "num": 489561,
+      "word": "惠英红 争气两字我已经说了多遍",
+      "onboard_time": 1759039580,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 464731,
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370395,
+      "num": 203392,
+      "word": "LV首尔开餐厅3只牛肉饺子243元",
+      "onboard_time": 1759036761,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 370203,
       "num": 188573,
       "word": "刘雪华回应为新戏拔掉全口牙",
@@ -435,14 +467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 277552,
-      "num": 277552,
-      "word": "iPhone 调休闹钟",
-      "onboard_time": 1759035201,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 264356,
       "num": 178262,
       "word": "邓超腿受伤",
@@ -515,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227905,
+      "num": 227905,
+      "word": "HLE对战GEN",
+      "onboard_time": 1759040842,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225506,
       "num": 177521,
       "word": "周柯宇战至巅峰",
@@ -547,14 +579,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 213706,
-      "num": 178418,
-      "word": "LV首尔开餐厅3只牛肉饺子243元",
-      "onboard_time": 1759036761,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 208861,
       "num": 176050,
       "word": "朱珠扛住了G社镜头",
@@ -563,12 +587,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 207454,
+      "num": 207454,
+      "word": "女子结婚4年才发现婚纱照是陌生人",
+      "onboard_time": 1759040242,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207411,
       "num": 207411,
       "word": "张真源把团队胜利压在自己身上",
       "onboard_time": 1759024100,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202415,
+      "num": 202415,
+      "word": "合作方曝王一博有严重的高反",
+      "onboard_time": 1759038321,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 201416,
@@ -595,12 +635,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 197843,
+      "num": 197843,
+      "word": "李雪琴随口一问嘉宾吃瓜一天",
+      "onboard_time": 1759040001,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196222,
       "num": 196222,
       "word": "侯明昊卢昱晓入青云婚服大片",
       "onboard_time": 1759031360,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194505,
+      "num": 194505,
+      "word": "桃黑黑出演伪装者",
+      "onboard_time": 1759039401,
+      "rank": 24,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 193048,
@@ -627,12 +683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186624,
+      "num": 186624,
+      "word": "胡凌宸回应抛下剧组哄女友",
+      "onboard_time": 1759038621,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184256,
       "num": 201021,
       "word": "张雅琪 花少操心担当",
       "onboard_time": 1759030220,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184045,
+      "num": 184045,
+      "word": "中彩票冷知识",
+      "onboard_time": 1759036282,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 181375,
@@ -827,14 +899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154740,
-      "num": 154740,
-      "word": "中彩票冷知识",
-      "onboard_time": 1759036282,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153100,
       "num": 153100,
       "word": "周也 贝雷帽战神",
@@ -955,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139782,
+      "num": 139782,
+      "word": "闫妮魏大勋 Mojito",
+      "onboard_time": 1759040661,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139319,
       "num": 139319,
       "word": "张艺兴 宁波打的电话已接通",
@@ -1003,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133793,
+      "num": 133793,
+      "word": "央视曝光直播新骗术",
+      "onboard_time": 1759038201,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133467,
       "num": 133467,
       "word": "大学生演国漫还得大学生看",
@@ -1025,6 +1105,14 @@
       "onboard_time": 1759024521,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131570,
+      "num": 131570,
+      "word": "唱跳都不基础的朵朵",
+      "onboard_time": 1759040600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 130806,
@@ -1089,6 +1177,14 @@
       "onboard_time": 1759033702,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127773,
+      "num": 127773,
+      "word": "王安宇在河南收到中评",
+      "onboard_time": 1759040541,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 125039,
@@ -1211,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116007,
+      "num": 116007,
+      "word": "陈赫说人越长大朋友越少",
+      "onboard_time": 1759040961,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115902,
       "num": 150275,
       "word": "万达集团被执行总金额超53亿元",
@@ -1243,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114326,
+      "num": 114326,
+      "word": "谁家女主上来就强吻男主啊",
+      "onboard_time": 1759040480,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114284,
       "num": 114284,
       "word": "迪丽热巴能驾驭各种风格",
@@ -1267,6 +1379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112946,
+      "num": 112946,
+      "word": "林俊杰 新歌",
+      "onboard_time": 1759038321,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 112845,
+      "num": 114581,
+      "word": "内娱星二代进圈越来越低龄了",
+      "onboard_time": 1759040242,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112714,
       "num": 132969,
       "word": "Rookie 隔6年了",
@@ -1289,6 +1417,14 @@
       "onboard_time": 1759022301,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 110833,
+      "num": 110833,
+      "word": "清华食堂现制菜伟大无需多言",
+      "onboard_time": 1759040900,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 108665,
@@ -1340,7 +1476,7 @@
     },
     {
       "raw_hot": 105277,
-      "num": 316251,
+      "num": 548720,
       "word": "这就是中国人的奋斗回响",
       "onboard_time": 1759020442,
       "rank": 41,
@@ -1353,6 +1489,14 @@
       "onboard_time": 1759026559,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103519,
+      "num": 103519,
+      "word": "时代少年团已到达澳门",
+      "onboard_time": 1759040122,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 103470,
@@ -1443,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96991,
+      "num": 96991,
+      "word": "张艺兴刘宇宁新歌",
+      "onboard_time": 1759041140,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 96956,
       "num": 132779,
       "word": "孟子义一句话暖邓超一整天",
@@ -1467,12 +1619,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94528,
+      "num": 95338,
+      "word": "孙颖莎硬仗",
+      "onboard_time": 1759039040,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94059,
       "num": 94059,
       "word": "久哲队",
       "onboard_time": 1759024941,
       "rank": 46,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 92221,
+      "num": 92221,
+      "word": "外卖骑手也要缴个税了",
+      "onboard_time": 1759041200,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91175,
@@ -1827,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53412,
+      "num": 205089,
+      "word": "今天你护心了吗",
+      "onboard_time": 1759038141,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 51436,
       "num": 236393,
       "word": "中式豪华才是顶流",
@@ -2065,6 +2241,14 @@
       "onboard_time": 1759036642,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18610,
+      "num": 114951,
+      "word": "穿普拉达的女王2把秀场变片场了",
+      "onboard_time": 1759040242,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 14546,
