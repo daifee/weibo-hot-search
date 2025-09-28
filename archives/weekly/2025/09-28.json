@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759048146305,
+  "endTime": 1759048907969,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1492455,
-      "num": 246953,
+      "num": 263260,
       "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
       "onboard_time": 1759044560,
       "rank": 31,
@@ -120,6 +120,14 @@
       "word": "万达",
       "onboard_time": 1759035082,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 782573,
+      "num": 1125211,
+      "word": "遭老板性侵女子回应为何当时没报案",
+      "onboard_time": 1759044080,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -251,19 +259,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554801,
+      "num": 391778,
+      "word": "李现 怎么在国外还追星",
+      "onboard_time": 1759044560,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553054,
       "num": 280607,
       "word": "宗馥莉也可能无法用娃哈哈商标",
       "onboard_time": 1759030701,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 540810,
-      "num": 1086529,
-      "word": "遭老板性侵女子回应为何当时没报案",
-      "onboard_time": 1759044080,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -409,14 +417,6 @@
       "onboard_time": 1759042640,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391778,
-      "num": 391778,
-      "word": "李现 怎么在国外还追星",
-      "onboard_time": 1759044560,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 387441,
@@ -587,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251680,
+      "num": 251680,
+      "word": "小酒窝赶早班机脸也肿",
+      "onboard_time": 1759048221,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250706,
       "num": 250706,
       "word": "张真源哭了",
@@ -699,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201304,
+      "num": 142128,
+      "word": "俄罗斯支持巴西印度申请入常",
+      "onboard_time": 1759047921,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200504,
       "num": 200504,
       "word": "王者铠神罪皮肤",
@@ -737,6 +753,14 @@
       "onboard_time": 1759031360,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195730,
+      "num": 140949,
+      "word": "兜儿 突发性耳聋",
+      "onboard_time": 1759047921,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 193048,
@@ -803,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182462,
+      "num": 182462,
+      "word": "伦敦偶遇马思纯",
+      "onboard_time": 1759047020,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181375,
       "num": 181375,
       "word": "九门正式杀青",
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 180808,
-      "num": 166652,
+      "num": 166707,
       "word": "阿娇赵昭仪怎么认识的",
       "onboard_time": 1759044921,
       "rank": 45,
@@ -907,20 +939,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169993,
-      "num": 134752,
-      "word": "兜儿 突发性耳聋",
-      "onboard_time": 1759047921,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 169517,
       "num": 169517,
       "word": "湾区升明月彩排",
       "onboard_time": 1759044202,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168865,
+      "num": 193979,
+      "word": "何同学的iPhone17测评视频",
+      "onboard_time": 1759047201,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 168418,
@@ -953,14 +985,6 @@
       "onboard_time": 1759040242,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167096,
-      "num": 134139,
-      "word": "何同学的iPhone17测评视频",
-      "onboard_time": 1759047201,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 166935,
@@ -1075,12 +1099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156466,
+      "num": 156466,
+      "word": "你以为的身体缺陷其实是基因彩票",
+      "onboard_time": 1759048280,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156175,
       "num": 153111,
       "word": "鹿晗新加坡",
       "onboard_time": 1758974001,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155978,
+      "num": 155978,
+      "word": "来自妈妈的46个未接来电背后是无尽牵挂",
+      "onboard_time": 1759045100,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154817,
@@ -1171,14 +1211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144669,
-      "num": 144669,
-      "word": "伦敦偶遇马思纯",
-      "onboard_time": 1759047020,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144595,
       "num": 144595,
       "word": "周冬雨台上英文颁奖视频",
@@ -1251,14 +1283,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 136670,
-      "num": 136670,
-      "word": "来自妈妈的46个未接来电背后是无尽牵挂",
-      "onboard_time": 1759045100,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136284,
       "num": 136284,
       "word": "郑钦文团队不支持参加中网",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1759022902,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134254,
+      "num": 134254,
+      "word": "肖战整晚的音乐彩排视频",
+      "onboard_time": 1759048160,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 133467,
@@ -1499,20 +1531,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120053,
+      "num": 120053,
+      "word": "惠英红65岁拿下高奢代言",
+      "onboard_time": 1759048221,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 120011,
       "num": 120011,
       "word": "文韬针灸效果立竿见影",
       "onboard_time": 1759047381,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119683,
-      "num": 119683,
-      "word": "俄罗斯支持巴西印度申请入常",
-      "onboard_time": 1759047921,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119312,
@@ -1532,7 +1564,7 @@
     },
     {
       "raw_hot": 119128,
-      "num": 95334,
+      "num": 108293,
       "word": "佟丽娅被小酒窝迷住了",
       "onboard_time": 1759046181,
       "rank": 46,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1759036642,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117458,
+      "num": 117458,
+      "word": "孟子义泼水像喝咖啡一样优雅",
+      "onboard_time": 1759048100,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 116597,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1759022301,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 111360,
+      "num": 111360,
+      "word": "徐梦洁 油画少女",
+      "onboard_time": 1759047741,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 110864,
@@ -1875,20 +1923,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98267,
+      "num": 98267,
+      "word": "零跑汽车创始人朱江明回应限高",
+      "onboard_time": 1759048342,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 98253,
       "num": 120752,
       "word": "胡先煦不懂张若昀但听话",
       "onboard_time": 1759041439,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97956,
-      "num": 97956,
-      "word": "徐梦洁 油画少女",
-      "onboard_time": 1759047741,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 96956,
@@ -1921,14 +1969,6 @@
       "onboard_time": 1759046241,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95281,
-      "num": 95281,
-      "word": "孟子义泼水像喝咖啡一样优雅",
-      "onboard_time": 1759048100,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 94528,
@@ -2187,6 +2227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61426,
+      "num": 194601,
+      "word": "00后凭光盘照夺走全年免费吃大奖",
+      "onboard_time": 1759046780,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60047,
       "num": 60047,
       "word": "马竞5比2皇马",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1758990799,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59529,
+      "num": 118298,
+      "word": "印度踩踏事故1万人场地挤进2.7万人",
+      "onboard_time": 1759048041,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59405,
@@ -2249,14 +2305,6 @@
       "onboard_time": 1759037842,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56864,
-      "num": 172628,
-      "word": "00后凭光盘照夺走全年免费吃大奖",
-      "onboard_time": 1759046780,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56582,
@@ -2355,6 +2403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50604,
+      "num": 117832,
+      "word": "美国超市预制菜",
+      "onboard_time": 1759048400,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50041,
       "num": 294718,
       "word": "辛巴关联公司被税务催报",
@@ -2363,20 +2419,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 47341,
+      "num": 117504,
+      "word": "英媒记者要求俄外长用英语回答问题被拒",
+      "onboard_time": 1759048521,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46564,
       "num": 55511,
       "word": "纽约抗议者鸣笛不让以总理睡觉",
       "onboard_time": 1759000215,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46220,
-      "num": 105638,
-      "word": "印度踩踏事故1万人场地挤进2.7万人",
-      "onboard_time": 1759048041,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 46114,
