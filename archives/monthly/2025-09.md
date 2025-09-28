@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 18:24:01
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 18:39:28
 </p>
 </blockquote>
 <p>
@@ -4443,6 +4443,12 @@ iPhone18Pro已打样（热度：878237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%B6%85%E5%BC%BA%E5%A5%B8%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E6%A1%88%E5%86%8D%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
+车超强奸故意杀人案再审宣判（热度：868086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WTT%E6%8A%BD%E7%AD%BE%23" target="weibo">
 WTT抽签（热度：866782）
 </a>
@@ -4955,12 +4961,6 @@ CEO出轨女同事其丈夫发声（热度：824142）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E8%8B%B9%E6%9E%9C%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B0%B4%E6%9E%9C%23" target="weibo">
 工作后才知道苹果是最好的水果（热度：815970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%B6%85%E5%BC%BA%E5%A5%B8%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E6%A1%88%E5%86%8D%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
-车超强奸故意杀人案再审宣判（热度：815444）
 </a>
 </li>
 

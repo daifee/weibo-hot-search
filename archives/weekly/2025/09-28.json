@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759055041689,
+  "endTime": 1759055968286,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -131,8 +131,8 @@
       "category": "艺人,电影"
     },
     {
-      "raw_hot": 815444,
-      "num": 1130471,
+      "raw_hot": 868086,
+      "num": 1138893,
       "word": "车超强奸故意杀人案再审宣判",
       "onboard_time": 1759050080,
       "rank": 18,
@@ -233,6 +233,14 @@
       "onboard_time": 1759038201,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 640648,
+      "num": 457761,
+      "word": "井胧因为父母职业更早认识了死亡",
+      "onboard_time": 1759054221,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 615736,
@@ -483,14 +491,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 386980,
-      "num": 386980,
-      "word": "井胧因为父母职业更早认识了死亡",
-      "onboard_time": 1759054221,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376689,
       "num": 288715,
       "word": "黄明昊 遇到不公平的事情",
@@ -537,6 +537,14 @@
       "onboard_time": 1759029320,
       "rank": 8,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 342560,
+      "num": 248438,
+      "word": "杨采钰老公晒合照秀恩爱",
+      "onboard_time": 1759052121,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 317928,
@@ -683,14 +691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248438,
-      "num": 248438,
-      "word": "杨采钰老公晒合照秀恩爱",
-      "onboard_time": 1759052121,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242352,
       "num": 242352,
       "word": "万达知情人回应王健林被限高",
@@ -755,6 +755,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 212695,
+      "num": 212695,
+      "word": "马思纯花少的衣服穿去了向往的生活",
+      "onboard_time": 1759055361,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212521,
       "num": 212521,
       "word": "唐仁健受贿2.68亿余元",
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 199247,
-      "num": 127643,
+      "num": 136375,
       "word": "西甲官方回应樊振东",
       "onboard_time": 1759054460,
       "rank": 31,
@@ -899,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187448,
+      "num": 187448,
+      "word": "王曼昱入选全国体育系统先进个人",
+      "onboard_time": 1759055600,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186624,
       "num": 186624,
       "word": "胡凌宸回应抛下剧组哄女友",
@@ -913,6 +929,14 @@
       "onboard_time": 1759042942,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185097,
+      "num": 133249,
+      "word": "FBI开除所有黑命贵下跪特工",
+      "onboard_time": 1759055660,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 184256,
@@ -1427,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135766,
+      "num": 135766,
+      "word": "柯洁卫冕棋圣激动落泪",
+      "onboard_time": 1759055600,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135177,
       "num": 135177,
       "word": "麻辣烫里的熊猫粉耗子",
@@ -1443,12 +1475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134308,
+      "num": 132980,
+      "word": "早年的TFBOYS拉着行李箱赶通告",
+      "onboard_time": 1759053860,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134254,
       "num": 134254,
       "word": "肖战整晚的音乐彩排视频",
       "onboard_time": 1759048160,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134133,
+      "num": 134133,
+      "word": "关晓彤好敢说",
+      "onboard_time": 1759055600,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 133467,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1759024521,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131977,
+      "num": 131977,
+      "word": "瘦下来后很爽的瞬间",
+      "onboard_time": 1759053921,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 131899,
@@ -1571,8 +1627,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125362,
-      "num": 125362,
+      "raw_hot": 126888,
+      "num": 126888,
       "word": "王楚钦说要七又",
       "onboard_time": 1759052540,
       "rank": 33,
@@ -1651,14 +1707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122016,
-      "num": 122016,
-      "word": "瘦下来后很爽的瞬间",
-      "onboard_time": 1759053921,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121922,
       "num": 133026,
       "word": "刘萧旭女友正脸",
@@ -1681,14 +1729,6 @@
       "onboard_time": 1759031121,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120565,
-      "num": 120565,
-      "word": "早年的TFBOYS拉着行李箱赶通告",
-      "onboard_time": 1759053860,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 120464,
@@ -2035,6 +2075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103451,
+      "num": 103451,
+      "word": "peanut不要哭",
+      "onboard_time": 1759055180,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102812,
       "num": 102812,
       "word": "一诺说要起诉狂魔哥",
@@ -2129,6 +2177,14 @@
       "onboard_time": 1759041922,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100034,
+      "num": 100034,
+      "word": "罗予彤 同父异母的哥哥",
+      "onboard_time": 1759055780,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 98801,
@@ -2235,6 +2291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91676,
+      "num": 91676,
+      "word": "逛超市是一件很亲密的事情",
+      "onboard_time": 1759055840,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91175,
       "num": 91175,
       "word": "国庆中秋假期最早9月30日9时开始堵",
@@ -2324,7 +2388,7 @@
     },
     {
       "raw_hot": 80846,
-      "num": 128462,
+      "num": 134741,
       "word": "网友总结国庆出游三宝",
       "onboard_time": 1759054760,
       "rank": 29,
@@ -2369,6 +2433,14 @@
       "onboard_time": 1759030941,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77194,
+      "num": 117832,
+      "word": "美国签证费暴涨66倍",
+      "onboard_time": 1759055000,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76715,
@@ -2667,14 +2739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 52154,
-      "num": 117832,
-      "word": "美国签证费暴涨66倍",
-      "onboard_time": 1759055000,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 51436,
       "num": 236393,
       "word": "中式豪华才是顶流",
@@ -2795,6 +2859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35211,
+      "num": 117765,
+      "word": "孙颖莎比划有那么长",
+      "onboard_time": 1759054280,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34897,
       "num": 34897,
       "word": "台风博罗依最新路径来了",
@@ -2811,20 +2883,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33361,
+      "num": 103401,
+      "word": "医生说活不过2岁的男孩上小学了",
+      "onboard_time": 1759055479,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32312,
       "num": 122356,
       "word": "北大毕业生选择去职校当老师",
       "onboard_time": 1759029020,
       "rank": 38,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 29731,
-      "num": 117765,
-      "word": "孙颖莎比划有那么长",
-      "onboard_time": 1759054280,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 28168,

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759055041689,
+  "endTime": 1759055968286,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -5907,6 +5907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 868086,
+      "num": 1138893,
+      "word": "车超强奸故意杀人案再审宣判",
+      "onboard_time": 1759050080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 866782,
       "num": 866782,
       "word": "WTT抽签",
@@ -6593,14 +6601,6 @@
       "onboard_time": 1757225662,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 815444,
-      "num": 1130471,
-      "word": "车超强奸故意杀人案再审宣判",
-      "onboard_time": 1759050080,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 815390,
@@ -9329,6 +9329,14 @@
       "onboard_time": 1758334761,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 640648,
+      "num": 457761,
+      "word": "井胧因为父母职业更早认识了死亡",
+      "onboard_time": 1759054221,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 640640,
@@ -16739,14 +16747,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 386980,
-      "num": 386980,
-      "word": "井胧因为父母职业更早认识了死亡",
-      "onboard_time": 1759054221,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386887,
       "num": 386887,
       "word": "AL战胜iG",
@@ -18808,6 +18808,14 @@
       "word": "卢昱晓跳angel了",
       "onboard_time": 1758297741,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342560,
+      "num": 248438,
+      "word": "杨采钰老公晒合照秀恩爱",
+      "onboard_time": 1759052121,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -24395,14 +24403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248438,
-      "num": 248438,
-      "word": "杨采钰老公晒合照秀恩爱",
-      "onboard_time": 1759052121,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248374,
       "num": 248374,
       "word": "吴镇宇以为自己是来演吴邪的",
@@ -28027,6 +28027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212695,
+      "num": 212695,
+      "word": "马思纯花少的衣服穿去了向往的生活",
+      "onboard_time": 1759055361,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212670,
       "num": 212670,
       "word": "iPhone17跟16Pro怎么选",
@@ -30612,7 +30620,7 @@
     },
     {
       "raw_hot": 199247,
-      "num": 127643,
+      "num": 136375,
       "word": "西甲官方回应樊振东",
       "onboard_time": 1759054460,
       "rank": 31,
@@ -33979,6 +33987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187448,
+      "num": 187448,
+      "word": "王曼昱入选全国体育系统先进个人",
+      "onboard_time": 1759055600,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187433,
       "num": 187433,
       "word": "王楚钦祝祖国繁荣昌盛",
@@ -34537,6 +34553,14 @@
       "onboard_time": 1757086461,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185097,
+      "num": 133249,
+      "word": "FBI开除所有黑命贵下跪特工",
+      "onboard_time": 1759055660,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 185087,
@@ -51619,6 +51643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135766,
+      "num": 135766,
+      "word": "柯洁卫冕棋圣激动落泪",
+      "onboard_time": 1759055600,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135745,
       "num": 135745,
       "word": "陈都灵 世界上照片第三多的女人",
@@ -52363,6 +52395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134308,
+      "num": 132980,
+      "word": "早年的TFBOYS拉着行李箱赶通告",
+      "onboard_time": 1759053860,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134307,
       "num": 134307,
       "word": "桦加沙和山竹谁更强",
@@ -52441,6 +52481,14 @@
       "onboard_time": 1758782721,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 134133,
+      "num": 134133,
+      "word": "关晓彤好敢说",
+      "onboard_time": 1759055600,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 134130,
@@ -53361,6 +53409,14 @@
       "onboard_time": 1758890361,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 131977,
+      "num": 131977,
+      "word": "瘦下来后很爽的瞬间",
+      "onboard_time": 1759053921,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 131973,
@@ -55979,6 +56035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126888,
+      "num": 126888,
+      "word": "王楚钦说要七又",
+      "onboard_time": 1759052540,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126848,
       "num": 126848,
       "word": "金球奖",
@@ -56681,14 +56745,6 @@
       "onboard_time": 1758029969,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125362,
-      "num": 125362,
-      "word": "王楚钦说要七又",
-      "onboard_time": 1759052540,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 125337,
@@ -58419,14 +58475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122016,
-      "num": 122016,
-      "word": "瘦下来后很爽的瞬间",
-      "onboard_time": 1759053921,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122011,
       "num": 122011,
       "word": "肠粉最伟大的吃法出现了",
@@ -59113,14 +59161,6 @@
       "onboard_time": 1757313323,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 120565,
-      "num": 120565,
-      "word": "早年的TFBOYS拉着行李箱赶通告",
-      "onboard_time": 1759053860,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 120538,
@@ -67691,6 +67731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103451,
+      "num": 103451,
+      "word": "peanut不要哭",
+      "onboard_time": 1759055180,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103445,
       "num": 107664,
       "word": "沈梦辰怎么敢这样叫撒贝宁",
@@ -69345,6 +69393,14 @@
       "onboard_time": 1758780260,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100034,
+      "num": 100034,
+      "word": "罗予彤 同父异母的哥哥",
+      "onboard_time": 1759055780,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 100033,
@@ -72665,6 +72721,14 @@
       "onboard_time": 1758031292,
       "rank": 19,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 91676,
+      "num": 91676,
+      "word": "逛超市是一件很亲密的事情",
+      "onboard_time": 1759055840,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 91674,
@@ -76188,7 +76252,7 @@
     },
     {
       "raw_hot": 80846,
-      "num": 128462,
+      "num": 134741,
       "word": "网友总结国庆出游三宝",
       "onboard_time": 1759054760,
       "rank": 29,
@@ -77120,6 +77184,14 @@
       "word": "美联储降息普通人三个赚钱机会",
       "onboard_time": 1758191543,
       "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 77194,
+      "num": 117832,
+      "word": "美国签证费暴涨66倍",
+      "onboard_time": 1759055000,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -82851,14 +82923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52154,
-      "num": 117832,
-      "word": "美国签证费暴涨66倍",
-      "onboard_time": 1759055000,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52131,
       "num": 99924,
       "word": "中专生暑假校内劳动猝死",
@@ -86667,6 +86731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35211,
+      "num": 117765,
+      "word": "孙颖莎比划有那么长",
+      "onboard_time": 1759054280,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35177,
       "num": 162075,
       "word": "曼谷市区突现50米深巨坑",
@@ -87041,6 +87113,14 @@
       "onboard_time": 1757430744,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33361,
+      "num": 103401,
+      "word": "医生说活不过2岁的男孩上小学了",
+      "onboard_time": 1759055479,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33336,
@@ -87865,14 +87945,6 @@
       "onboard_time": 1758438442,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 29731,
-      "num": 117765,
-      "word": "孙颖莎比划有那么长",
-      "onboard_time": 1759054280,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 29697,
