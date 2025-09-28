@@ -1,10 +1,10 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759033746968,
+  "endTime": 1759034525679,
   "band_list": [
     {
       "raw_hot": 1717431,
-      "num": 576302,
+      "num": 884337,
       "word": "K签证",
       "onboard_time": 1759020502,
       "rank": 7,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1172377,
-      "num": 395812,
+      "num": 410805,
       "word": "张维伊亲了小酒窝脸",
       "onboard_time": 1759025780,
       "rank": 13,
@@ -67,12 +67,28 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 917273,
+      "num": 917273,
+      "word": "周冬雨撕奖",
+      "onboard_time": 1759032981,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 888033,
-      "num": 504260,
+      "num": 798488,
       "word": "罗琳拒绝与艾玛沃特森和解",
       "onboard_time": 1759030880,
       "rank": 12,
       "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 879805,
+      "num": 879805,
+      "word": "湾区升明月节目单",
+      "onboard_time": 1759033341,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 737061,
@@ -81,6 +97,14 @@
       "onboard_time": 1759029499,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 717967,
+      "num": 292922,
+      "word": "官员买500斤散装白酒放单位公务接待",
+      "onboard_time": 1759029620,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 695135,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 688966,
-      "num": 297306,
+      "num": 304691,
       "word": "董璇张维伊搂脖吻",
       "onboard_time": 1759026320,
       "rank": 15,
@@ -116,11 +140,19 @@
     },
     {
       "raw_hot": 654284,
-      "num": 654284,
+      "num": 1072071,
       "word": "打工人即将迎来最轻松的10月份",
       "onboard_time": 1759028241,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 615736,
+      "num": 615736,
+      "word": "林允 水光后的针眼挺吓人",
+      "onboard_time": 1759032562,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 610183,
@@ -155,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 541848,
-      "num": 292922,
-      "word": "官员买500斤散装白酒放单位公务接待",
-      "onboard_time": 1759029620,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 537302,
       "num": 340695,
       "word": "汪苏泷 爱你的人都希望你自由",
@@ -177,22 +201,6 @@
       "onboard_time": 1759019422,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 483862,
-      "num": 483862,
-      "word": "周冬雨撕奖",
-      "onboard_time": 1759032981,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 468262,
-      "num": 468262,
-      "word": "林允 水光后的针眼挺吓人",
-      "onboard_time": 1759032562,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 464731,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424656,
+      "num": 375412,
+      "word": "赛琳娜婚礼",
+      "onboard_time": 1759028361,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423741,
       "num": 166060,
       "word": "鞠婧祎 大雷",
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 375412,
-      "num": 375412,
-      "word": "赛琳娜婚礼",
-      "onboard_time": 1759028361,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370203,
       "num": 188573,
       "word": "刘雪华回应为新戏拔掉全口牙",
@@ -321,14 +329,6 @@
       "onboard_time": 1759029320,
       "rank": 8,
       "category": "电竞,游戏"
-    },
-    {
-      "raw_hot": 323030,
-      "num": 288602,
-      "word": "湾区升明月节目单",
-      "onboard_time": 1759033341,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 317928,
@@ -401,6 +401,14 @@
       "onboard_time": 1758980002,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281667,
+      "num": 281667,
+      "word": "恋与深空 万达",
+      "onboard_time": 1759033582,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 264356,
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195090,
+      "num": 294089,
+      "word": "曝短剧演员抛下剧组哄女友",
+      "onboard_time": 1759033461,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193048,
       "num": 193048,
       "word": "肖战出道战绩",
@@ -603,6 +619,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 178881,
+      "num": 178881,
+      "word": "单休要连上九天班",
+      "onboard_time": 1759033461,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178046,
       "num": 178046,
       "word": "iG战胜JDG",
@@ -625,6 +649,14 @@
       "onboard_time": 1759032081,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 175905,
+      "num": 175905,
+      "word": "黄晓明回青岛下料就是猛",
+      "onboard_time": 1759034002,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 175458,
@@ -675,28 +707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166876,
-      "num": 166876,
-      "word": "单休要连上九天班",
-      "onboard_time": 1759033461,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166027,
       "num": 166027,
       "word": "iG收到王赫野的远程施法",
       "onboard_time": 1759033040,
       "rank": 33,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 165666,
-      "num": 165666,
-      "word": "恋与深空 万达",
-      "onboard_time": 1759033582,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 165198,
@@ -859,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139319,
+      "num": 139319,
+      "word": "张艺兴 宁波打的电话已接通",
+      "onboard_time": 1759033762,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137926,
       "num": 137926,
       "word": "为流量造谣学校组织捐器官",
@@ -873,6 +897,14 @@
       "onboard_time": 1759014798,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135177,
+      "num": 135177,
+      "word": "麻辣烫里的熊猫粉耗子",
+      "onboard_time": 1759033341,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 134353,
@@ -1027,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116147,
+      "num": 116147,
+      "word": "沈星回生贺非遗展",
+      "onboard_time": 1759033942,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115902,
       "num": 150275,
       "word": "万达集团被执行总金额超53亿元",
@@ -1036,7 +1076,7 @@
     },
     {
       "raw_hot": 115716,
-      "num": 115716,
+      "num": 920138,
       "word": "4200亩蔓越莓游泳上岸",
       "onboard_time": 1759023261,
       "rank": 34,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1758986301,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114284,
+      "num": 114284,
+      "word": "迪丽热巴能驾驭各种风格",
+      "onboard_time": 1759034483,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 113628,
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 102527,
-      "num": 102527,
+      "num": 213181,
       "word": "中外顶流跨越千年为孔子团建",
       "onboard_time": 1759024701,
       "rank": 47,
@@ -1257,14 +1305,6 @@
       "onboard_time": 1759019301,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91111,
-      "num": 294089,
-      "word": "曝短剧演员抛下剧组哄女友",
-      "onboard_time": 1759033461,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 88185,
@@ -1475,6 +1515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 58939,
+      "num": 140260,
+      "word": "全国至少有85座万达广场易主",
+      "onboard_time": 1759034242,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58774,
       "num": 58774,
       "word": "广东的台风一个接一个",
@@ -1587,6 +1635,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 41655,
+      "num": 150499,
+      "word": "包贝尔这是红毯不是恋综",
+      "onboard_time": 1759033341,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40483,
       "num": 106982,
       "word": "10月1日客流或超3.4亿人次",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1759028540,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36915,
+      "num": 140261,
+      "word": "中国今年出了三位A类影后",
+      "onboard_time": 1759034242,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 34897,
@@ -1628,7 +1692,7 @@
     },
     {
       "raw_hot": 27425,
-      "num": 298900,
+      "num": 305820,
       "word": "郭艾伦微博小编初体验",
       "onboard_time": 1759032861,
       "rank": 14,
@@ -1657,6 +1721,14 @@
       "onboard_time": 1758997335,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25732,
+      "num": 112987,
+      "word": "时代少年团开学给你打电话",
+      "onboard_time": 1759034182,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 25057,
@@ -1689,14 +1761,6 @@
       "onboard_time": 1758986002,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23588,
-      "num": 150499,
-      "word": "包贝尔这是红毯不是恋综",
-      "onboard_time": 1759033341,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 22473,
