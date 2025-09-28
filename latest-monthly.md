@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 22:36:00
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 23:22:24
 </p>
 </blockquote>
 <p>
@@ -1935,6 +1935,12 @@ ally官宣分手（热度：1529775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%9B%9E%E5%BA%94%E5%90%91%E5%AE%B6%E7%A0%B4%E4%BA%A7%23" target="weibo">
+向佐回应向家破产（热度：1427891）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E8%A2%AB%E9%BB%84%E7%89%9B%E6%8B%92%E6%94%B6%23" target="weibo">
 iPhone17Pro被黄牛拒收（热度：1422215）
 </a>
@@ -1967,12 +1973,6 @@ iPhone17Pro被黄牛拒收（热度：1422215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E8%90%BD%E9%80%89%E5%B0%8F%E5%A6%B9%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23" target="weibo">
 花少7落选小妹发文回应（热度：1413835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%9B%9E%E5%BA%94%E5%90%91%E5%AE%B6%E7%A0%B4%E4%BA%A7%23" target="weibo">
-向佐回应向家破产（热度：1410342）
 </a>
 </li>
 
@@ -3591,6 +3591,12 @@ iPhone17补贴后售价4999元（热度：997136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%87%BA%E5%9C%BA%20%E5%B0%8F%E6%B2%88%E9%98%B3%E8%A2%AB%E6%8A%AC%E8%B5%B0%23" target="weibo">
+沈佳润出场 小沈阳被抬走（热度：993331）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%A2%81%20%E8%83%A1%E6%A5%9A%E9%9D%93%23" target="weibo">
 小袁 胡楚靓（热度：992631）
 </a>
@@ -3945,6 +3951,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E4%BB%AA%E6%80%81%23" target="weibo">
+肖战 仪态（热度：931687）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%23" target="weibo">
 西贝（热度：930525）
 </a>
@@ -4277,6 +4289,12 @@ iPhone17Pro 丑（热度：902583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E6%89%92%E9%A3%9E%E6%9C%BA%E9%A3%9E%E8%A1%8C94%E5%88%86%E9%92%9F%23" target="weibo">
 13岁男孩扒飞机飞行94分钟（热度：889018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%A1%B6%E5%B0%96%E8%82%BA%E7%99%8C%E4%B8%93%E5%AE%B6%E5%B7%B2%E6%82%A3%E8%82%BA%E7%99%8C%E4%B8%89%E5%B9%B4%23" target="weibo">
+国际顶尖肺癌专家已患肺癌三年（热度：888844）
 </a>
 </li>
 
@@ -5451,12 +5469,6 @@ iPhone17Promini首曝（热度：777010）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%87%BA%E5%9C%BA%20%E5%B0%8F%E6%B2%88%E9%98%B3%E8%A2%AB%E6%8A%AC%E8%B5%B0%23" target="weibo">
-沈佳润出场 小沈阳被抬走（热度：774349）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E4%B8%89%E5%B0%8F%E6%97%B6%20%E5%AE%A2%E6%88%B7%E8%A2%AB%E7%9B%98%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%23" target="weibo">
 洗澡三小时 客户被盘了一个半小时（热度：771822）
 </a>
@@ -5999,18 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E7%A7%B0%E5%81%9A%E6%A2%A6%E6%80%BB%E6%89%BE%E8%A2%AB%E6%80%A7%E4%BE%B5%E6%97%B6%E5%BC%84%E4%B8%A2%E7%9A%84%E9%9E%8B%23" target="weibo">
 崔丽丽称做梦总找被性侵时弄丢的鞋（热度：729737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E5%89%8D%E4%B8%89%E8%83%8E%E9%83%BD%E6%98%AF%E5%89%96%E8%85%B9%E4%BA%A7%23" target="weibo">
-昆凌前三胎都是剖腹产（热度：729464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E7%9A%84%E9%98%85%E5%85%B5%E7%85%A7%E7%89%87%23" target="weibo">
-朝鲜摄影师拍的阅兵照片（热度：729442）
 </a>
 </li>
 
@@ -6557,6 +6557,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%9B%B4%E5%A5%BD%E4%B8%BA%E5%85%9A%E8%82%B2%E6%89%8D%23%23" target="weibo">
 #更好为党育才#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%9D%9A%E6%8C%81%E5%85%9A%E6%A0%A1%E5%A7%93%E5%85%9A%E7%89%A2%E8%AE%B0%E5%85%9A%E6%A0%A1%E5%88%9D%E5%BF%83%23%23" target="weibo">
+#坚持党校姓党牢记党校初心#
 </a>
 </li>
 
