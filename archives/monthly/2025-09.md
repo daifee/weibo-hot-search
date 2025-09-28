@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 19:36:59
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 20:44:35
 </p>
 </blockquote>
 <p>
@@ -233,6 +233,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B316%E6%94%B9%E5%90%8D%E5%B0%8F%E7%B1%B317%23" target="weibo">
 小米16改名小米17（热度：3969260）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23" target="weibo">
+湾区升明月（热度：3926684）
 </a>
 </li>
 
@@ -1743,6 +1749,12 @@ ally官宣分手（热度：1529775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%20%E8%B7%91%E8%B0%83%23" target="weibo">
+苏醒 跑调（热度：1499444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E5%88%AB%E6%B5%AA%E8%B4%B9%E4%BD%A0%E7%9A%84%E4%BC%9A%E5%91%98%E4%BA%86%23" target="weibo">
 成毅 别浪费你的会员了（热度：1496295）
 </a>
@@ -2457,12 +2469,6 @@ NASA明确发现火星生命迹象（热度：1280374）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23" target="weibo">
-湾区升明月（热度：1240032）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E5%A9%9A%E7%A4%BC%E7%BB%99%E5%8E%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E7%95%99%E4%BA%86%E5%BA%A7%E4%BD%8D%23" target="weibo">
 张维伊婚礼给去世父母留了座位（热度：1239732）
 </a>
@@ -2651,6 +2657,12 @@ iG对战JDG（热度：1213529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E7%91%B6%E4%B8%80%E7%91%B6%E5%B0%8F%E8%82%89%E5%8C%85%E9%A2%9C%E5%80%BC%E7%8A%B6%E6%80%81%23" target="weibo">
 妈妈回应瑶一瑶小肉包颜值状态（热度：1190677）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%AE%B9%E7%A5%96%E5%84%BF%E6%88%90%E9%BE%99%E5%9D%90%E4%B8%80%E8%B5%B7%23" target="weibo">
+肖战容祖儿成龙坐一起（热度：1188957）
 </a>
 </li>
 
@@ -3431,6 +3443,12 @@ Metal 田栩宁（热度：1041749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23" target="weibo">
 深圳天气（热度：1017081）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%8A%A2%E6%8B%8D%20%E7%9C%9F%E5%94%B1%E8%AF%81%E6%98%8E%23" target="weibo">
+王力宏抢拍 真唱证明（热度：1016696）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%A2%AB%E6%89%93%E5%A6%BB%E5%AD%90%E8%AE%A8%E8%AF%B4%E6%B3%95%E8%BE%B1%E9%AA%82%E6%B3%95%E5%AE%98%E8%A2%AB%E9%87%8D%E7%BD%9A%23" target="weibo">
 丈夫被打妻子讨说法辱骂法官被重罚（热度：724365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231945%E5%88%B02025%23" target="weibo">
-1945到2025（热度：723635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%8E%8B%E5%AE%89%E5%AE%87%E4%BA%92%E6%99%92%E5%90%88%E7%85%A7%23" target="weibo">
-宋雨琦王安宇互晒合照（热度：723547）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%9C%A0%E6%97%A5%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
-不眠日大结局（热度：723229）
 </a>
 </li>
 

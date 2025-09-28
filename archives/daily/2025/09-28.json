@@ -1,7 +1,15 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759059419875,
+  "endTime": 1759063475591,
   "band_list": [
+    {
+      "raw_hot": 3926684,
+      "num": 3926684,
+      "word": "湾区升明月",
+      "onboard_time": 1759057820,
+      "rank": 3,
+      "category": "演出"
+    },
     {
       "raw_hot": 1717431,
       "num": 884337,
@@ -17,6 +25,14 @@
       "onboard_time": 1758985643,
       "rank": 19,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 1499444,
+      "num": 442863,
+      "word": "苏醒 跑调",
+      "onboard_time": 1759061721,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1492455,
@@ -59,12 +75,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1240032,
-      "num": 1240032,
-      "word": "湾区升明月",
-      "onboard_time": 1759057820,
-      "rank": 3,
-      "category": "演出"
+      "raw_hot": 1188957,
+      "num": 359978,
+      "word": "肖战容祖儿成龙坐一起",
+      "onboard_time": 1759061122,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1172377,
@@ -97,6 +113,14 @@
       "onboard_time": 1759038561,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1016696,
+      "num": 304325,
+      "word": "王力宏抢拍 真唱证明",
+      "onboard_time": 1759061362,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1012419,
@@ -291,6 +315,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 602661,
+      "num": 602661,
+      "word": "月饼名字是把配料表抄上去了吧",
+      "onboard_time": 1759057701,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 602271,
       "num": 602271,
       "word": "赛琳娜婚纱照",
@@ -459,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 438277,
+      "num": 438277,
+      "word": "男子欠5000被催债后说每分钟还50",
+      "onboard_time": 1759058240,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435332,
       "num": 435332,
       "word": "董璇张维伊婚礼",
@@ -539,6 +579,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 382548,
+      "num": 382548,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1759062503,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376689,
       "num": 288715,
       "word": "黄明昊 遇到不公平的事情",
@@ -561,6 +609,14 @@
       "onboard_time": 1758985643,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 368648,
+      "num": 181844,
+      "word": "陈都灵泳池照",
+      "onboard_time": 1759059801,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 365425,
@@ -593,6 +649,14 @@
       "onboard_time": 1759055361,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319623,
+      "num": 181488,
+      "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
+      "onboard_time": 1759061662,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317928,
@@ -683,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273748,
+      "num": 180995,
+      "word": "单依纯上车摔倒",
+      "onboard_time": 1759062323,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264356,
       "num": 178262,
       "word": "邓超腿受伤",
@@ -705,6 +777,14 @@
       "onboard_time": 1759019361,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262826,
+      "num": 180472,
+      "word": "肖战被前辈赞为特别棒的歌手",
+      "onboard_time": 1759060221,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 262008,
@@ -795,6 +875,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 221326,
+      "num": 179946,
+      "word": "小酒窝朵朵开场",
+      "onboard_time": 1759062562,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220446,
       "num": 220446,
       "word": "印度发生踩踏36死",
@@ -811,12 +899,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 217608,
+      "num": 217608,
+      "word": "卖女孩的红烧肉 店名争议",
+      "onboard_time": 1759058601,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216709,
+      "num": 179895,
+      "word": "新华社发的时代少年团",
+      "onboard_time": 1759063162,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212521,
       "num": 212521,
       "word": "唐仁健受贿2.68亿余元",
       "onboard_time": 1759052299,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210968,
+      "num": 178235,
+      "word": "王力宏单依纯再唱落叶归根",
+      "onboard_time": 1759061962,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208861,
@@ -875,6 +987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199608,
+      "num": 178119,
+      "word": "夜空中最亮的星",
+      "onboard_time": 1759062562,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199247,
       "num": 136375,
       "word": "西甲官方回应樊振东",
@@ -921,6 +1041,14 @@
       "onboard_time": 1759047921,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 194472,
+      "num": 177537,
+      "word": "湾区升明月 全开麦",
+      "onboard_time": 1759063281,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 193048,
@@ -1003,14 +1131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 184444,
-      "num": 184444,
-      "word": "月饼名字是把配料表抄上去了吧",
-      "onboard_time": 1759057701,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 184290,
       "num": 184290,
       "word": "日本女童被父母虐亡2岁仅重6公斤",
@@ -1091,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177447,
+      "num": 177447,
+      "word": "林小宅自曝试戏一年多没人要",
+      "onboard_time": 1759057881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176150,
       "num": 140766,
       "word": "韩博主拿柠檬水质疑中国餐馆水质",
@@ -1129,6 +1257,22 @@
       "onboard_time": 1759033341,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172916,
+      "num": 172916,
+      "word": "叶童主持",
+      "onboard_time": 1759062323,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 172221,
+      "num": 172221,
+      "word": "落叶归根",
+      "onboard_time": 1759062143,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 171447,
@@ -1233,6 +1377,14 @@
       "onboard_time": 1759041561,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162817,
+      "num": 183008,
+      "word": "iPhone很容易被遗忘的功能",
+      "onboard_time": 1759058720,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 161862,
@@ -1347,14 +1499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154351,
-      "num": 154351,
-      "word": "林小宅自曝试戏一年多没人要",
-      "onboard_time": 1759057881,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153943,
       "num": 156511,
       "word": "陈赫说人越长大朋友越少",
@@ -1377,14 +1521,6 @@
       "onboard_time": 1758986962,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152971,
-      "num": 152971,
-      "word": "iPhone很容易被遗忘的功能",
-      "onboard_time": 1759058720,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 152624,
@@ -1435,12 +1571,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 145704,
+      "num": 145704,
+      "word": "于适弹唱亲爱的小孩",
+      "onboard_time": 1759062802,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145230,
       "num": 145230,
       "word": "性格好的人一般脑子也好使",
       "onboard_time": 1759026740,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145013,
+      "num": 145013,
+      "word": "周深动情演唱故乡的云",
+      "onboard_time": 1759063162,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 144912,
@@ -2091,14 +2243,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 110183,
-      "num": 123083,
-      "word": "男子欠5000被催债后说每分钟还50",
-      "onboard_time": 1759058240,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109682,
       "num": 131835,
       "word": "孙红雷想把刘宇宁带回家",
@@ -2129,14 +2273,6 @@
       "onboard_time": 1759028600,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 108290,
-      "num": 108290,
-      "word": "卖女孩的红烧肉 店名争议",
-      "onboard_time": 1759058601,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106327,
@@ -2201,6 +2337,22 @@
       "onboard_time": 1759020442,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 104557,
+      "num": 104557,
+      "word": "遭老板性侵女子回应要2千万赔偿",
+      "onboard_time": 1759063042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104407,
+      "num": 104407,
+      "word": "徐瑛彬0比3科顿",
+      "onboard_time": 1759060581,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 104199,
@@ -2411,6 +2563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95995,
+      "num": 95995,
+      "word": "孙颖莎入选全国体育系统先进个人",
+      "onboard_time": 1759060042,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95827,
       "num": 113683,
       "word": "哥伦比亚总统号召美军起义",
@@ -2425,6 +2585,14 @@
       "onboard_time": 1759046241,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95120,
+      "num": 95120,
+      "word": "奶奶登错号了",
+      "onboard_time": 1759058660,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 94619,
@@ -2497,6 +2665,14 @@
       "onboard_time": 1758974961,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87523,
+      "num": 87523,
+      "word": "鸡排哥回应事业上升期官宣恋情",
+      "onboard_time": 1759062622,
+      "rank": 48,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 87347,
@@ -2979,6 +3155,22 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 44230,
+      "num": 182703,
+      "word": "张婧仪同款大嘴包",
+      "onboard_time": 1759061602,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42036,
+      "num": 182111,
+      "word": "陈数状态越来越好了",
+      "onboard_time": 1759061242,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41903,
       "num": 119632,
       "word": "骑手疑因出餐慢崩溃大哭扇自己",
@@ -3057,6 +3249,14 @@
       "onboard_time": 1759006994,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 33721,
+      "num": 179169,
+      "word": "李庚希神秘搭档曝光",
+      "onboard_time": 1759061180,
+      "rank": 28,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 33617,
@@ -3297,6 +3497,14 @@
       "onboard_time": 1758939200,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7742,
+      "num": 445266,
+      "word": "北京范儿",
+      "onboard_time": 1758969080,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
