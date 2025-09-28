@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759024738956,
+  "endTime": 1759026043552,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2708,7 +2708,7 @@
     },
     {
       "raw_hot": 1372394,
-      "num": 288636,
+      "num": 347811,
       "word": "今年最爆的剧",
       "onboard_time": 1759017381,
       "rank": 10,
@@ -3113,6 +3113,14 @@
       "onboard_time": 1757835681,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1263527,
+      "num": 1263527,
+      "word": "王健林被限制高消费",
+      "onboard_time": 1759023799,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1262575,
@@ -9507,6 +9515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620427,
+      "num": 274481,
+      "word": "张维伊亲了小酒窝脸",
+      "onboard_time": 1759025780,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619837,
       "num": 619837,
       "word": "老战士起身敬礼场面看哭了",
@@ -11667,14 +11683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 529556,
-      "num": 529556,
-      "word": "王健林被限制高消费",
-      "onboard_time": 1759023799,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 529073,
       "num": 529073,
       "word": "灼灼韶华定档",
@@ -12089,6 +12097,14 @@
       "onboard_time": 1758369862,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 512710,
+      "num": 512710,
+      "word": "K签证",
+      "onboard_time": 1759020502,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 511801,
@@ -14915,14 +14931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426054,
-      "num": 426054,
-      "word": "K签证",
-      "onboard_time": 1759020502,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425888,
       "num": 375325,
       "word": "沈佳润 原来内娱给我是这个定位",
@@ -16089,6 +16097,14 @@
       "onboard_time": 1758952941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394318,
+      "num": 394318,
+      "word": "高志凯怒喷非洲学生",
+      "onboard_time": 1759023740,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394154,
@@ -17484,7 +17500,7 @@
     },
     {
       "raw_hot": 365425,
-      "num": 284132,
+      "num": 351076,
       "word": "小酒窝朵朵回应青梅竹马",
       "onboard_time": 1759023141,
       "rank": 11,
@@ -28451,6 +28467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207411,
+      "num": 207411,
+      "word": "张真源把团队胜利压在自己身上",
+      "onboard_time": 1759024100,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207384,
       "num": 392644,
       "word": "苹果新增三款过时产品",
@@ -34275,14 +34299,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 184223,
-      "num": 184223,
-      "word": "高志凯怒喷非洲学生",
-      "onboard_time": 1759023740,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184150,
       "num": 197346,
       "word": "u23",
@@ -35945,14 +35961,6 @@
       "onboard_time": 1758530542,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176971,
-      "num": 176971,
-      "word": "张真源把团队胜利压在自己身上",
-      "onboard_time": 1759024100,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 176910,
@@ -44643,6 +44651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149426,
+      "num": 149426,
+      "word": "小米向YU7等待超3个月的用户送礼",
+      "onboard_time": 1759024100,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 149417,
       "num": 172510,
       "word": "张晚意的刘海好像手机屏幕",
@@ -45017,6 +45033,14 @@
       "onboard_time": 1757945366,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148709,
+      "num": 148709,
+      "word": "邓为邢菲 乱臣",
+      "onboard_time": 1759024639,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 148705,
@@ -46643,6 +46667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144912,
+      "num": 144912,
+      "word": "双节期间小客车免收通行费",
+      "onboard_time": 1759022121,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144908,
       "num": 144908,
       "word": "库克预热iPhone17发布会",
@@ -46961,6 +46993,14 @@
       "onboard_time": 1757663724,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 144275,
+      "num": 144275,
+      "word": "央视曝光假钻戒成本仅3元",
+      "onboard_time": 1759017381,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144266,
@@ -48467,14 +48507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140605,
-      "num": 140605,
-      "word": "央视曝光假钻戒成本仅3元",
-      "onboard_time": 1759017381,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140592,
       "num": 140592,
       "word": "喻言音乐节",
@@ -49579,6 +49611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137926,
+      "num": 137926,
+      "word": "为流量造谣学校组织捐器官",
+      "onboard_time": 1759024401,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 137923,
       "num": 137923,
       "word": "雷军称不选小米YU7可选ModelY",
@@ -50073,14 +50113,6 @@
       "onboard_time": 1758450201,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136958,
-      "num": 136958,
-      "word": "双节期间小客车免收通行费",
-      "onboard_time": 1759022121,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136939,
@@ -51379,6 +51411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134353,
+      "num": 134353,
+      "word": "鸡排哥怼黄牛",
+      "onboard_time": 1759022902,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134342,
       "num": 195749,
       "word": "陈梦说看到方队瞬间起鸡皮疙瘩",
@@ -52233,6 +52273,14 @@
       "onboard_time": 1758078443,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132336,
+      "num": 127442,
+      "word": "iG众人回应将面对T1",
+      "onboard_time": 1759024521,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 132287,
@@ -53881,6 +53929,14 @@
       "onboard_time": 1758083304,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128781,
+      "num": 128781,
+      "word": "张凌赫告别慕容清峄",
+      "onboard_time": 1759025539,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 128744,
@@ -56307,14 +56363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123967,
-      "num": 123967,
-      "word": "小米向YU7等待超3个月的用户送礼",
-      "onboard_time": 1759024100,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 123952,
       "num": 214570,
       "word": "顾客曝点知名餐厅外卖换菜被骂装货",
@@ -56865,14 +56913,6 @@
       "onboard_time": 1758886401,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122838,
-      "num": 122838,
-      "word": "为流量造谣学校组织捐器官",
-      "onboard_time": 1759024401,
-      "rank": 32,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 122801,
@@ -61387,6 +61427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113628,
+      "num": 113628,
+      "word": "狂野时代定档",
+      "onboard_time": 1759025960,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113606,
       "num": 113606,
       "word": "小米法务部维权进展",
@@ -61497,14 +61545,6 @@
       "onboard_time": 1758269662,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 113332,
-      "num": 113332,
-      "word": "鸡排哥怼黄牛",
-      "onboard_time": 1759022902,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113325,
@@ -65467,6 +65507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105320,
+      "num": 105320,
+      "word": "鞠婧祎资源完全升级",
+      "onboard_time": 1759025660,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 105306,
       "num": 264653,
       "word": "广东阳江路面积水成河",
@@ -65481,6 +65529,14 @@
       "onboard_time": 1758875121,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105277,
+      "num": 105277,
+      "word": "这就是中国人的奋斗回响",
+      "onboard_time": 1759020442,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 105256,
@@ -65705,6 +65761,14 @@
       "onboard_time": 1757312063,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104853,
+      "num": 104853,
+      "word": "印度踩踏死亡升至39人",
+      "onboard_time": 1759025721,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 104828,
@@ -66785,6 +66849,14 @@
       "onboard_time": 1757314222,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102527,
+      "num": 102527,
+      "word": "中外顶流跨越千年为孔子团建",
+      "onboard_time": 1759024701,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102526,
@@ -68043,14 +68115,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 99773,
-      "num": 99773,
-      "word": "iG众人回应将面对T1",
-      "onboard_time": 1759024521,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 99728,
       "num": 99728,
       "word": "7岁的好朋友治好了我的内耗",
@@ -68537,14 +68601,6 @@
       "onboard_time": 1756978642,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 98853,
-      "num": 98853,
-      "word": "这就是中国人的奋斗回响",
-      "onboard_time": 1759020442,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 98827,
@@ -69643,6 +69699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96173,
+      "num": 96173,
+      "word": "网友拍到的美容院的秘密",
+      "onboard_time": 1759024941,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96163,
       "num": 117526,
       "word": "AirPodsPro3耳机前瞻",
@@ -69721,14 +69785,6 @@
       "onboard_time": 1756982181,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96016,
-      "num": 96016,
-      "word": "邓为邢菲 乱臣",
-      "onboard_time": 1759024639,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 96001,
@@ -70457,6 +70513,14 @@
       "onboard_time": 1758529521,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94059,
+      "num": 94059,
+      "word": "久哲队",
+      "onboard_time": 1759024941,
+      "rank": 46,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 94044,
@@ -72824,14 +72888,6 @@
       "word": "乡村教师抗癌500天化疗22次后病逝",
       "onboard_time": 1757476885,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86661,
-      "num": 86661,
-      "word": "中外顶流跨越千年为孔子团建",
-      "onboard_time": 1759024701,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -80811,6 +80867,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 53689,
+      "num": 709826,
+      "word": "致敬公安楷模",
+      "onboard_time": 1759025421,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53650,
       "num": 99016,
       "word": "陈雨菲回应1比2韩悦",
@@ -82883,6 +82947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 44697,
+      "num": 170833,
+      "word": "中式豪华才是顶流",
+      "onboard_time": 1759025299,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44675,
       "num": 61194,
       "word": "2025微博音频创享日",
@@ -83721,6 +83793,14 @@
       "onboard_time": 1757585191,
       "rank": 25,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 40483,
+      "num": 106982,
+      "word": "10月1日客流或超3.4亿人次",
+      "onboard_time": 1759025960,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40440,
