@@ -1,0 +1,411 @@
+{
+  "startTime": 1759076821125,
+  "endTime": 1759076821125,
+  "band_list": [
+    {
+      "raw_hot": 5303428,
+      "num": 5303428,
+      "word": "肖战 主唱大人",
+      "onboard_time": 1759073545,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 752272,
+      "num": 215831,
+      "word": "向佐回应向家破产",
+      "onboard_time": 1759067665,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 696384,
+      "num": 387415,
+      "word": "湾区升明月 检验唱功",
+      "onboard_time": 1759068506,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 645432,
+      "num": 216018,
+      "word": "湾区升明月",
+      "onboard_time": 1759057820,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 613539,
+      "num": 613539,
+      "word": "国际顶尖肺癌专家已患肺癌三年",
+      "onboard_time": 1759070184,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 557363,
+      "num": 216001,
+      "word": "沈佳润出场 小沈阳被抬走",
+      "onboard_time": 1759068144,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 498805,
+      "num": 215555,
+      "word": "时代少年团 幻梦都破碎",
+      "onboard_time": 1759070965,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 450843,
+      "num": 215758,
+      "word": "苏醒回应跑调",
+      "onboard_time": 1759066524,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 415589,
+      "num": 215701,
+      "word": "中国话还得SHE",
+      "onboard_time": 1759074082,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 357112,
+      "num": 215686,
+      "word": "小酒窝让佟丽娅带去找宋亚轩",
+      "onboard_time": 1759071746,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 335496,
+      "num": 215515,
+      "word": "闫妮又微醺了",
+      "onboard_time": 1759072704,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 293254,
+      "num": 293254,
+      "word": "央视曝光玄学大师骗局",
+      "onboard_time": 1759071385,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289479,
+      "num": 215593,
+      "word": "华南理工校内车祸遇难者同学发声",
+      "onboard_time": 1759076361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222729,
+      "num": 215333,
+      "word": "胡彦斌月光 爷青回",
+      "onboard_time": 1759074144,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 222043,
+      "num": 215276,
+      "word": "许我耀眼",
+      "onboard_time": 1759073724,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216057,
+      "num": 216057,
+      "word": "吴艳妮12秒90夺冠",
+      "onboard_time": 1759069286,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205903,
+      "num": 215191,
+      "word": "周深题词器",
+      "onboard_time": 1759072463,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197467,
+      "num": 215480,
+      "word": "遭老板性侵女子回应要2千万赔偿",
+      "onboard_time": 1759063042,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196510,
+      "num": 215108,
+      "word": "苏醒 跑调",
+      "onboard_time": 1759061721,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193186,
+      "num": 215042,
+      "word": "沈佳润实力好强",
+      "onboard_time": 1759073485,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 189670,
+      "num": 215396,
+      "word": "两名15岁少女失联10天",
+      "onboard_time": 1759071206,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187921,
+      "num": 214991,
+      "word": "小酒窝找宋亚轩握手",
+      "onboard_time": 1759070784,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 179948,
+      "num": 214951,
+      "word": "王源骄傲 好听",
+      "onboard_time": 1759066524,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 170132,
+      "num": 214845,
+      "word": "魏大勋这段rap",
+      "onboard_time": 1759071927,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169777,
+      "num": 214811,
+      "word": "范玮琪还是抖",
+      "onboard_time": 1759069406,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 168225,
+      "num": 214756,
+      "word": "周深互动环节变身小曲库",
+      "onboard_time": 1759076361,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 160391,
+      "num": 215938,
+      "word": "韩国首尔爆发反以色列游行",
+      "onboard_time": 1759064602,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 158750,
+      "num": 215888,
+      "word": "艺考女生10天瘦了9斤",
+      "onboard_time": 1759070545,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138439,
+      "num": 215338,
+      "word": "原来很久以前就流行腿套了",
+      "onboard_time": 1759073425,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 135190,
+      "num": 214713,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1759071746,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134545,
+      "num": 214612,
+      "word": "幻梦都破碎",
+      "onboard_time": 1759075284,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 133967,
+      "num": 214521,
+      "word": "王力宏心中的日月 原唱就是好听",
+      "onboard_time": 1759076182,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 132887,
+      "num": 215137,
+      "word": "王健林已卖掉85个万达广场",
+      "onboard_time": 1759042461,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125449,
+      "num": 214287,
+      "word": "湾区升明月座位图",
+      "onboard_time": 1759076301,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124804,
+      "num": 214223,
+      "word": "刘宇宁真稳",
+      "onboard_time": 1759064484,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 121161,
+      "num": 214162,
+      "word": "王力宏抢拍 真唱证明",
+      "onboard_time": 1759061362,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115818,
+      "num": 214892,
+      "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
+      "onboard_time": 1759061662,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107329,
+      "num": 214100,
+      "word": "林依轮发了6张后台合照",
+      "onboard_time": 1759074144,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 104757,
+      "num": 214666,
+      "word": "王楚钦隔壁老樊双向奔赴",
+      "onboard_time": 1759075104,
+      "rank": 33,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 100679,
+      "num": 214095,
+      "word": "任嘉伦寸头",
+      "onboard_time": 1759067845,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 93204,
+      "num": 214496,
+      "word": "老人手术导丝掉血管医院补偿8000",
+      "onboard_time": 1759070246,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86692,
+      "num": 214460,
+      "word": "月饼名字是把配料表抄上去了吧",
+      "onboard_time": 1759057701,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 86671,
+      "num": 214392,
+      "word": "AG对战EDGM",
+      "onboard_time": 1759070485,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 84098,
+      "num": 214019,
+      "word": "卡拉永远OK",
+      "onboard_time": 1759072764,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 77997,
+      "num": 214336,
+      "word": "男子欠5000被催债后说每分钟还50",
+      "onboard_time": 1759058240,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75035,
+      "num": 213988,
+      "word": "王楚钦世排第一引全场欢呼",
+      "onboard_time": 1759072764,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67735,
+      "num": 213913,
+      "word": "iPhone很容易被遗忘的功能",
+      "onboard_time": 1759058720,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 62376,
+      "num": 213880,
+      "word": "被王欣瑜治愈系笑容融化了",
+      "onboard_time": 1759076242,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55717,
+      "num": 213833,
+      "word": "王楚钦狂撸海螺的头",
+      "onboard_time": 1759070064,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3106,
+      "num": 410708,
+      "word": "青春正澎湃",
+      "onboard_time": 1759069164,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#更好为党育才#"
+    }
+  ]
+}

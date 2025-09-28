@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1759073788862,
+  "endTime": 1759076821125,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2187,6 +2187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 5303428,
+      "num": 5303428,
+      "word": "肖战 主唱大人",
+      "onboard_time": 1759073545,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 5278509,
       "num": 3677090,
       "word": "赵雅芝叶童太配了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1752239303,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4621424,
-      "num": 553169,
-      "word": "bnd粉丝去世",
-      "onboard_time": 1743235701,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

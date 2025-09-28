@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 23:36:28
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 00:27:01
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E4%B8%BB%E5%94%B1%E5%A4%A7%E4%BA%BA%23" target="weibo">
+肖战 主唱大人（热度：5303428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 苹果发布会（热度：4430295）
 </a>
@@ -257,12 +263,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E4%BA%8E%E6%9C%A6%E8%83%A7%E5%8A%A9%E7%90%86%E5%8F%91%E6%96%87%23" target="weibo">
 疑似于朦胧助理发文（热度：3579339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E4%B8%BB%E5%94%B1%E5%A4%A7%E4%BA%BA%23" target="weibo">
-肖战 主唱大人（热度：3572248）
 </a>
 </li>
 

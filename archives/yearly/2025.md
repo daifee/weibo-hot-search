@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/28 23:36:28
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/29 00:27:01
 </p>
 </blockquote>
 <p>
@@ -1653,6 +1653,12 @@ ALin秒了（热度：6171972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E4%B8%BB%E5%94%B1%E5%A4%A7%E4%BA%BA%23" target="weibo">
+肖战 主唱大人（热度：5303428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8F%B6%E7%AB%A5%E5%A4%AA%E9%85%8D%E4%BA%86%23" target="weibo">
 赵雅芝叶童太配了（热度：5278509）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E8%88%9E%E5%A6%B9%E5%A8%98%23" target="weibo">
 单依纯 舞妹娘（热度：4626866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23bnd%E7%B2%89%E4%B8%9D%E5%8E%BB%E4%B8%96%23" target="weibo">
-bnd粉丝去世（热度：4621424）
 </a>
 </li>
 

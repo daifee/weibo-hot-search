@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 23:36:28
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/29 00:27:01
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E4%B8%BB%E5%94%B1%E5%A4%A7%E4%BA%BA%23" target="weibo">
-肖战 主唱大人（热度：3572248）
+肖战 主唱大人（热度：5303428）
 </a>
 </li>
 
@@ -243,6 +243,12 @@ iPhone 调休闹钟（热度：1012419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%20%E6%A3%80%E9%AA%8C%E5%94%B1%E5%8A%9F%23" target="weibo">
+湾区升明月 检验唱功（热度：696384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%93%AD%E4%BA%86%23" target="weibo">
 刘耀文哭了（热度：695135）
 </a>
@@ -305,12 +311,6 @@ iPhone 调休闹钟（热度：1012419）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%20%E6%B0%B4%E5%85%89%E5%90%8E%E7%9A%84%E9%92%88%E7%9C%BC%E6%8C%BA%E5%90%93%E4%BA%BA%23" target="weibo">
 林允 水光后的针眼挺吓人（热度：615736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%20%E6%A3%80%E9%AA%8C%E5%94%B1%E5%8A%9F%23" target="weibo">
-湾区升明月 检验唱功（热度：613235）
 </a>
 </li>
 
@@ -429,6 +429,12 @@ iPhone 调休闹钟（热度：1012419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%B9%BB%E6%A2%A6%E9%83%BD%E7%A0%B4%E7%A2%8E%23" target="weibo">
+时代少年团 幻梦都破碎（热度：498805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%8F%91%E7%9A%84%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%23" target="weibo">
 新华社发的时代少年团（热度：495839）
 </a>
@@ -507,12 +513,6 @@ iPhone 调休闹钟（热度：1012419）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%B9%BB%E6%A2%A6%E9%83%BD%E7%A0%B4%E7%A2%8E%23" target="weibo">
-时代少年团 幻梦都破碎（热度：452932）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E6%8A%8A%E5%A9%9A%E6%88%BF%E8%AE%A2%E6%88%90%E4%BA%86%E4%B8%89%E4%BA%BA%E9%97%B4%23" target="weibo">
 张维伊把婚房订成了三人间（热度：446957）
 </a>
@@ -557,6 +557,12 @@ iPhone 调休闹钟（热度：1012419）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%A4%A7%E9%9B%B7%23" target="weibo">
 鞠婧祎 大雷（热度：423741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%9D%E8%BF%98%E5%BE%97SHE%23" target="weibo">
+中国话还得SHE（热度：415589）
 </a>
 </li>
 
@@ -735,6 +741,12 @@ LV首尔开餐厅3只牛肉饺子243元（热度：370395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%8E%84%E5%AD%A6%E5%A4%A7%E5%B8%88%E9%AA%97%E5%B1%80%23" target="weibo">
+央视曝光玄学大师骗局（热度：293254）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%23" target="weibo">
 暗河传（热度：290947）
 </a>
@@ -743,6 +755,12 @@ LV首尔开餐厅3只牛肉饺子243元（热度：370395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%BD%93%E5%9C%B0%E5%8D%8E%E4%BA%BA%E5%8F%8A%E4%BD%BF%E9%A6%86%E5%B8%AE%E5%8A%A9%E4%B8%8B%E6%89%BE%E5%88%B0%23" target="weibo">
 失联女孩在当地华人及使馆帮助下找到（热度：289492）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E6%A0%A1%E5%86%85%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
+华南理工校内车祸遇难者同学发声（热度：289479）
 </a>
 </li>
 
@@ -761,12 +779,6 @@ LV首尔开餐厅3只牛肉饺子243元（热度：370395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%23" target="weibo">
 许我耀眼（热度：284353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%8E%84%E5%AD%A6%E5%A4%A7%E5%B8%88%E9%AA%97%E5%B1%80%23" target="weibo">
-央视曝光玄学大师骗局（热度：283681）
 </a>
 </li>
 
@@ -905,6 +917,12 @@ HLE对战GEN（热度：227905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%B8%8A%E5%9C%BA%23" target="weibo">
 严浩翔上场（热度：225392）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%9C%88%E5%85%89%20%E7%88%B7%E9%9D%92%E5%9B%9E%23" target="weibo">
+胡彦斌月光 爷青回（热度：222729）
 </a>
 </li>
 
@@ -1089,6 +1107,12 @@ peanut不要哭（热度：199997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%AE%9E%E5%8A%9B%E5%A5%BD%E5%BC%BA%23" target="weibo">
+沈佳润实力好强（热度：193186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E9%81%93%E6%88%98%E7%BB%A9%23" target="weibo">
 肖战出道战绩（热度：193048）
 </a>
@@ -1143,8 +1167,8 @@ peanut不要哭（热度：199997）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%AE%9E%E5%8A%9B%E5%A5%BD%E5%BC%BA%23" target="weibo">
-沈佳润实力好强（热度：189394）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D15%E5%B2%81%E5%B0%91%E5%A5%B3%E5%A4%B1%E8%81%9410%E5%A4%A9%23" target="weibo">
+两名15岁少女失联10天（热度：189670）
 </a>
 </li>
 
@@ -1347,8 +1371,8 @@ iG战胜JDG（热度：178046）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D15%E5%B2%81%E5%B0%91%E5%A5%B3%E5%A4%B1%E8%81%9410%E5%A4%A9%23" target="weibo">
-两名15岁少女失联10天（热度：168177）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%BA%92%E5%8A%A8%E7%8E%AF%E8%8A%82%E5%8F%98%E8%BA%AB%E5%B0%8F%E6%9B%B2%E5%BA%93%23" target="weibo">
+周深互动环节变身小曲库（热度：168225）
 </a>
 </li>
 
@@ -1683,6 +1707,12 @@ PYL回应解说台上哭声（热度：140096）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BE%88%E4%B9%85%E4%BB%A5%E5%89%8D%E5%B0%B1%E6%B5%81%E8%A1%8C%E8%85%BF%E5%A5%97%E4%BA%86%23" target="weibo">
+原来很久以前就流行腿套了（热度：138439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%B5%81%E9%87%8F%E9%80%A0%E8%B0%A3%E5%AD%A6%E6%A0%A1%E7%BB%84%E7%BB%87%E6%8D%90%E5%99%A8%E5%AE%98%23" target="weibo">
 为流量造谣学校组织捐器官（热度：137926）
 </a>
@@ -1719,6 +1749,12 @@ PYL回应解说台上哭声（热度：140096）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BB%E6%A2%A6%E9%83%BD%E7%A0%B4%E7%A2%8E%23" target="weibo">
+幻梦都破碎（热度：134545）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%80%BC%E9%BB%84%E7%89%9B%23" target="weibo">
 鸡排哥怼黄牛（热度：134353）
 </a>
@@ -1733,6 +1769,12 @@ PYL回应解说台上哭声（热度：140096）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%95%B4%E6%99%9A%E7%9A%84%E9%9F%B3%E4%B9%90%E5%BD%A9%E6%8E%92%E8%A7%86%E9%A2%91%23" target="weibo">
 肖战整晚的音乐彩排视频（热度：134254）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%BF%83%E4%B8%AD%E7%9A%84%E6%97%A5%E6%9C%88%20%E5%8E%9F%E5%94%B1%E5%B0%B1%E6%98%AF%E5%A5%BD%E5%90%AC%23" target="weibo">
+王力宏心中的日月 原唱就是好听（热度：133967）
 </a>
 </li>
 
@@ -1865,6 +1907,12 @@ JIUZHE战队夺冠（热度：129087）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%A6%81%E4%B8%83%E5%8F%88%23" target="weibo">
 王楚钦说要七又（热度：126888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%BA%A7%E4%BD%8D%E5%9B%BE%23" target="weibo">
+湾区升明月座位图（热度：125449）
 </a>
 </li>
 
@@ -2187,6 +2235,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E5%8F%91%E4%BA%866%E5%BC%A0%E5%90%8E%E5%8F%B0%E5%90%88%E7%85%A7%23" target="weibo">
+林依轮发了6张后台合照（热度：107329）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%80%E8%83%BD%E4%BA%94%E5%AD%90%E6%A3%8B%20%E5%96%9C%E5%89%A7%E9%A6%99%E8%8F%9C%23" target="weibo">
 技能五子棋 喜剧香菜（热度：106327）
 </a>
@@ -2231,6 +2285,12 @@ DRG对战JDG（热度：105795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A5%8B%E6%96%97%E5%9B%9E%E5%93%8D%23" target="weibo">
 这就是中国人的奋斗回响（热度：105277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%9A%94%E5%A3%81%E8%80%81%E6%A8%8A%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23" target="weibo">
+王楚钦隔壁老樊双向奔赴（热度：104757）
 </a>
 </li>
 
@@ -2681,6 +2741,12 @@ Ruler哭了（热度：87347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%81%AB%E7%9A%84S%E8%B5%9B%E6%8F%AD%E5%B9%95%E6%88%98%23" target="weibo">
 有史以来最火的S赛揭幕战（热度：63550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8E%8B%E6%AC%A3%E7%91%9C%E6%B2%BB%E6%84%88%E7%B3%BB%E7%AC%91%E5%AE%B9%E8%9E%8D%E5%8C%96%E4%BA%86%23" target="weibo">
+被王欣瑜治愈系笑容融化了（热度：62376）
 </a>
 </li>
 
