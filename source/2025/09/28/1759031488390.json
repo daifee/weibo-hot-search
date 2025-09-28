@@ -1,0 +1,410 @@
+{
+  "runTime": 1759031488390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1396704,
+        "num": 1396704,
+        "word": "王健林被限制高消费",
+        "onboard_time": 1759023799,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697349,
+        "num": 697349,
+        "word": "直播泄露军事秘密案",
+        "onboard_time": 1759017321,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32075,
+        "num": 543475,
+        "word": "致敬公安楷模",
+        "onboard_time": 1759025421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1717431,
+        "num": 541706,
+        "word": "K签证",
+        "onboard_time": 1759020502,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527279,
+        "num": 527279,
+        "word": "赛琳娜婚纱照",
+        "onboard_time": 1759026260,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461570,
+        "num": 461570,
+        "word": "印度踩踏死亡升至39人",
+        "onboard_time": 1759025721,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 409041,
+        "num": 409041,
+        "word": "打工人即将迎来最轻松的10月份",
+        "onboard_time": 1759028241,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392252,
+        "num": 392252,
+        "word": "网红唐飞机直播时坠机不幸身亡",
+        "onboard_time": 1759014739,
+        "rank": 7,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 345516,
+        "num": 345516,
+        "word": "花海铠神罪皮肤签名",
+        "onboard_time": 1759029320,
+        "rank": 8,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 336612,
+        "num": 336612,
+        "word": "高志凯怒喷非洲学生",
+        "onboard_time": 1759023740,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1019890,
+        "num": 328247,
+        "word": "今年最爆的剧",
+        "onboard_time": 1759017381,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1009041,
+        "num": 328076,
+        "word": "张维伊亲了小酒窝脸",
+        "onboard_time": 1759025780,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344754,
+        "num": 324631,
+        "word": "罗琳拒绝与艾玛沃特森和解",
+        "onboard_time": 1759030880,
+        "rank": 12,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 317928,
+        "num": 317928,
+        "word": "孙颖莎vs平野美宇",
+        "onboard_time": 1759028900,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35550,
+        "num": 300382,
+        "word": "在厦门被这些小善举触动",
+        "onboard_time": 1759028540,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298264,
+        "num": 298264,
+        "word": "赛琳娜婚礼",
+        "onboard_time": 1759028361,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586770,
+        "num": 295899,
+        "word": "董璇张维伊搂脖吻",
+        "onboard_time": 1759026320,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290947,
+        "num": 290947,
+        "word": "暗河传",
+        "onboard_time": 1759027880,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230775,
+        "num": 230775,
+        "word": "易烊千玺 影院见",
+        "onboard_time": 1759026679,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221428,
+        "num": 221428,
+        "word": "戴向宇9年不知道陈紫函给他的备注",
+        "onboard_time": 1759029499,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57545,
+        "num": 216655,
+        "word": "和孟子义一起喜提缤果S",
+        "onboard_time": 1759026919,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477976,
+        "num": 216380,
+        "word": "官员买500斤散装白酒放单位公务接待",
+        "onboard_time": 1759029620,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344055,
+        "num": 215790,
+        "word": "狗狗自家院休息被陌生车辆闯入碾死",
+        "onboard_time": 1759027279,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214347,
+        "num": 214347,
+        "word": "中秋国庆8天安排",
+        "onboard_time": 1759028659,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206324,
+        "num": 206324,
+        "word": "最适合关晓彤的一次造型",
+        "onboard_time": 1758985702,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184256,
+        "num": 201021,
+        "word": "张雅琪 花少操心担当",
+        "onboard_time": 1759030220,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22446,
+        "num": 200586,
+        "word": "郑钦文制胜分纯享版看爽了",
+        "onboard_time": 1759031300,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200504,
+        "num": 200504,
+        "word": "王者铠神罪皮肤",
+        "onboard_time": 1759029981,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196222,
+        "num": 196222,
+        "word": "侯明昊卢昱晓入青云婚服大片",
+        "onboard_time": 1759031360,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191571,
+        "num": 191571,
+        "word": "千万富翁与母亲相认送房子银行卡",
+        "onboard_time": 1759029740,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180084,
+        "num": 180084,
+        "word": "未来十年没人能明白邓超这两段",
+        "onboard_time": 1759030880,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 156356,
+        "num": 156356,
+        "word": "网友拍到的美容院的秘密",
+        "onboard_time": 1759024941,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153203,
+        "num": 153203,
+        "word": "宗馥莉也可能无法用娃哈哈商标",
+        "onboard_time": 1759030701,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148513,
+        "num": 148513,
+        "word": "惠英红65岁代言LOEWE",
+        "onboard_time": 1759028420,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146467,
+        "num": 146467,
+        "word": "肖战出道战绩",
+        "onboard_time": 1759028959,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145230,
+        "num": 145230,
+        "word": "性格好的人一般脑子也好使",
+        "onboard_time": 1759026740,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56008,
+        "num": 144908,
+        "word": "印度踩踏事故当事演员发声",
+        "onboard_time": 1759030459,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76373,
+        "num": 143867,
+        "word": "特朗普罕见向内塔尼亚胡公开施压",
+        "onboard_time": 1759031300,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77525,
+        "num": 143109,
+        "word": "今年国庆机票不跳水",
+        "onboard_time": 1759030941,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136617,
+        "num": 141981,
+        "word": "王健林",
+        "onboard_time": 1759027040,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141446,
+        "num": 141446,
+        "word": "鸡排家族已有9个摊位",
+        "onboard_time": 1759031121,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140254,
+        "num": 140254,
+        "word": "网传湾区升明月节目单",
+        "onboard_time": 1759015821,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139869,
+        "num": 139869,
+        "word": "通行2小时缩至2分钟什么体验",
+        "onboard_time": 1759016840,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124987,
+        "num": 124987,
+        "word": "印媒高度关注中国K签证",
+        "onboard_time": 1759030161,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120750,
+        "num": 120750,
+        "word": "狗狗为了出去玩假哭",
+        "onboard_time": 1759031121,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113217,
+        "num": 113217,
+        "word": "小米向YU7等待超3个月的用户送礼",
+        "onboard_time": 1759024100,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110095,
+        "num": 110095,
+        "word": "以色列就要没朋友了",
+        "onboard_time": 1759019422,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108822,
+        "num": 108822,
+        "word": "九门正式杀青",
+        "onboard_time": 1759028600,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101160,
+        "num": 101160,
+        "word": "小米17Fold曝光",
+        "onboard_time": 1759030161,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101051,
+        "num": 101051,
+        "word": "入青云",
+        "onboard_time": 1759030761,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新疆之行#"
+    }
+  }
+}
