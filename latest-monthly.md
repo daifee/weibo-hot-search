@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 11:14:36
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/28 11:28:40
 </p>
 </blockquote>
 <p>
@@ -3351,6 +3351,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23K%E7%AD%BE%E8%AF%81%23" target="weibo">
+K签证（热度：1026641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%BA%97%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E8%87%AA%E5%B8%A6%E6%A1%B6%E7%BB%AD%E6%9D%AF%E9%A5%AE%E6%96%99%23" target="weibo">
 山姆店回应顾客自带桶续杯饮料（热度：1026002）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E5%AD%94%E5%9D%9A%E5%9D%A0%E4%BA%A1%E5%89%8D%E6%9C%80%E5%90%8E%E8%AE%B0%E5%BD%95%E7%9A%84%E5%BD%B1%E5%83%8F%E6%9B%9D%E5%85%89%23" target="weibo">
 俞孔坚坠亡前最后记录的影像曝光（热度：713990）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23731%E6%89%80%E6%9C%89%E6%97%A5%E6%9C%AC%E8%A7%92%E8%89%B2%E5%9D%87%E7%94%B1%E6%97%A5%E7%B1%8D%E6%BC%94%E5%91%98%E5%87%BA%E6%BC%94%23" target="weibo">
-731所有日本角色均由日籍演员出演（热度：710969）
 </a>
 </li>
 

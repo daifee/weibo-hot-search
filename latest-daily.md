@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 11:14:36
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/28 11:28:40
 </p>
 </blockquote>
 <p>
@@ -53,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%94%90%E9%A3%9E%E6%9C%BA%E7%9B%B4%E6%92%AD%E6%97%B6%E5%9D%A0%E6%9C%BA%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
 网红唐飞机直播时坠机不幸身亡（热度：1152271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23K%E7%AD%BE%E8%AF%81%23" target="weibo">
+K签证（热度：1026641）
 </a>
 </li>
 
@@ -113,12 +119,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%B1%E8%A6%81%E6%B2%A1%E6%9C%8B%E5%8F%8B%E4%BA%86%23" target="weibo">
 以色列就要没朋友了（热度：527301）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23K%E7%AD%BE%E8%AF%81%23" target="weibo">
-K签证（热度：512710）
 </a>
 </li>
 
@@ -196,7 +196,7 @@ K签证（热度：512710）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%B8%A9%E8%B8%8F%E6%AD%BB%E4%BA%A1%E5%8D%87%E8%87%B339%E4%BA%BA%23" target="weibo">
-印度踩踏死亡升至39人（热度：353989）
+印度踩踏死亡升至39人（热度：356972）
 </a>
 </li>
 
@@ -237,6 +237,18 @@ K签证（热度：512710）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E9%93%A0%E7%A5%9E%E7%BD%AA%E7%9A%AE%E8%82%A4%E7%AD%BE%E5%90%8D%23" target="weibo">
+花海铠神罪皮肤签名（热度：271224）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E5%8D%B3%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9C%80%E8%BD%BB%E6%9D%BE%E7%9A%8410%E6%9C%88%E4%BB%BD%23" target="weibo">
+打工人即将迎来最轻松的10月份（热度：266721）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%85%BF%E5%8F%97%E4%BC%A4%23" target="weibo">
 邓超腿受伤（热度：264356）
 </a>
@@ -261,6 +273,12 @@ K签证（热度：512710）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E7%90%B3%E5%A8%9C%E5%A9%9A%E7%A4%BC%23" target="weibo">
+赛琳娜婚礼（热度：256742）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%93%AD%E4%BA%86%23" target="weibo">
 张真源哭了（热度：250706）
 </a>
@@ -273,8 +291,26 @@ K签证（热度：512710）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%23" target="weibo">
+孙颖莎vs平野美宇（热度：242071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%23" target="weibo">
+暗河传（热度：240965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E5%90%8E%E6%9D%8E%E6%98%8A%E7%84%B6%E5%8E%BB%E4%B8%96%23" target="weibo">
 普林斯顿中国博士后李昊然去世（热度：240184）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%AE%89%E6%8E%92%23" target="weibo">
+中秋国庆8天安排（热度：239374）
 </a>
 </li>
 
@@ -309,26 +345,32 @@ K签证（热度：512710）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%91%98%E4%B9%B0500%E6%96%A4%E6%95%A3%E8%A3%85%E7%99%BD%E9%85%92%E6%94%BE%E5%8D%95%E4%BD%8D%E5%85%AC%E5%8A%A1%E6%8E%A5%E5%BE%85%23" target="weibo">
+官员买500斤散装白酒放单位公务接待（热度：205874）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E7%9A%84%E7%BE%8E%E5%AE%B9%E9%99%A2%E7%9A%84%E7%A7%98%E5%AF%86%23" target="weibo">
+网友拍到的美容院的秘密（热度：201416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%85%A5%E6%94%AF%E4%BB%98%E5%AE%9D%E5%92%8C%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
 韩国外卖平台接入支付宝和微信支付（热度：198562）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E7%90%B3%E5%A8%9C%E5%A9%9A%E7%A4%BC%23" target="weibo">
-赛琳娜婚礼（热度：194040）
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E9%81%93%E6%88%98%E7%BB%A9%23" target="weibo">
+肖战出道战绩（热度：193048）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E9%81%939%E5%91%A8%E5%B9%B4%23" target="weibo">
 肖战出道9周年（热度：192252）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%23" target="weibo">
-暗河传（热度：188575）
 </a>
 </li>
 
@@ -357,18 +399,6 @@ iG战胜JDG（热度：178046）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E9%81%93%E6%88%98%E7%BB%A9%23" target="weibo">
-肖战出道战绩（热度：174612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E7%9A%84%E7%BE%8E%E5%AE%B9%E9%99%A2%E7%9A%84%E7%A7%98%E5%AF%86%23" target="weibo">
-网友拍到的美容院的秘密（热度：168806）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%9C%BC%E5%A6%86%23" target="weibo">
 汪苏泷眼妆（热度：168418）
 </a>
@@ -387,14 +417,20 @@ iG战胜JDG（热度：178046）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%AE%89%E6%8E%92%23" target="weibo">
-中秋国庆8天安排（热度：167666）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%94%E6%B3%95%E5%85%AC%E4%B8%BB%E7%9A%84%E5%B0%8F%E7%83%A6%E6%81%BC%E5%BC%80%E6%92%AD%23" target="weibo">
+魔法公主的小烦恼开播（热度：165198）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E9%97%A8%23" target="weibo">
 九门（热度：161862）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A265%E5%B2%81%E4%BB%A3%E8%A8%80LOEWE%23" target="weibo">
+惠英红65岁代言LOEWE（热度：161780）
 </a>
 </li>
 
@@ -453,8 +489,20 @@ iG战胜JDG（热度：178046）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A265%E5%B2%81%E4%BB%A3%E8%A8%80LOEWE%23" target="weibo">
-惠英红65岁代言LOEWE（热度：141650）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E9%93%A0%E7%A5%9E%E7%BD%AA%E7%9A%AE%E8%82%A4%23" target="weibo">
+王者铠神罪皮肤（热度：144174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%88%E4%BB%BD%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%8F%AA%E6%9C%8918%E5%A4%A9%23" target="weibo">
+10月份工作日只有18天（热度：141782）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E9%BC%BB%E5%AD%90%E4%B8%8A%E8%B4%B4%E4%BA%8612%E9%A2%97%E9%87%91%E9%92%BB%23" target="weibo">
+李斯丹妮鼻子上贴了12颗金钻（热度：141468）
 </a>
 </li>
 
@@ -467,6 +515,12 @@ iG战胜JDG（热度：178046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%9B%A2%E9%98%9F%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%82%E5%8A%A0%E4%B8%AD%E7%BD%91%23" target="weibo">
 郑钦文团队不支持参加中网（热度：136284）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%A7%E6%A0%BC%E5%A5%BD%E7%9A%84%E4%BA%BA%E4%B8%80%E8%88%AC%E8%84%91%E5%AD%90%E4%B9%9F%E5%A5%BD%E4%BD%BF%23" target="weibo">
+性格好的人一般脑子也好使（热度：135157）
 </a>
 </li>
 
@@ -543,32 +597,14 @@ JIUZHE战队夺冠（热度：129087）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%23" target="weibo">
-孙颖莎vs平野美宇（热度：121746）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%E7%A7%B0%E8%AE%A9%E5%8D%B0%E5%BA%A6%E9%A2%9C%E9%9D%A2%E6%89%AB%E5%9C%B0%23" target="weibo">
 巴基斯坦总理称让印度颜面扫地（热度：120464）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E5%8D%B3%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9C%80%E8%BD%BB%E6%9D%BE%E7%9A%8410%E6%9C%88%E4%BB%BD%23" target="weibo">
-打工人即将迎来最轻松的10月份（热度：119997）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%9A%E9%93%AD%E5%A9%B4%E5%84%BF%E6%97%B6%E6%9C%9F%E7%9C%8B%E8%BF%87TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 陈浚铭婴儿时期看过TFBOYS演唱会（热度：119312）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%A7%E6%A0%BC%E5%A5%BD%E7%9A%84%E4%BA%BA%E4%B8%80%E8%88%AC%E8%84%91%E5%AD%90%E4%B9%9F%E5%A5%BD%E4%BD%BF%23" target="weibo">
-性格好的人一般脑子也好使（热度：118282）
 </a>
 </li>
 
@@ -603,12 +639,6 @@ JIUZHE战队夺冠（热度：129087）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E9%BC%BB%E5%AD%90%E4%B8%8A%E8%B4%B4%E4%BA%8612%E9%A2%97%E9%87%91%E9%92%BB%23" target="weibo">
-李斯丹妮鼻子上贴了12颗金钻（热度：113367）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Rookie%20%E9%9A%946%E5%B9%B4%E4%BA%86%23" target="weibo">
 Rookie 隔6年了（热度：112714）
 </a>
@@ -629,6 +659,12 @@ Rookie 隔6年了（热度：112714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2391%E5%8A%A9%E6%89%8B%E5%85%A8%E9%9D%A2%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23" target="weibo">
 91助手全面停止服务（热度：108665）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%23" target="weibo">
+王健林（热度：106450）
 </a>
 </li>
 
@@ -695,6 +731,12 @@ Rookie 隔6年了（热度：112714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E8%B7%B3%E4%BA%86%E6%9F%A0%E6%AA%AC%E5%8F%89angel%23" target="weibo">
 朱志鑫跳了柠檬叉angel（热度：101548）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E4%B8%8E%E6%AF%8D%E4%BA%B2%E7%9B%B8%E8%AE%A4%E9%80%81%E6%88%BF%E5%AD%90%E9%93%B6%E8%A1%8C%E5%8D%A1%23" target="weibo">
+千万富翁与母亲相认送房子银行卡（热度：101304）
 </a>
 </li>
 
@@ -819,6 +861,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%90%91%E5%AE%879%E5%B9%B4%E4%B8%8D%E7%9F%A5%E9%81%93%E9%99%88%E7%B4%AB%E5%87%BD%E7%BB%99%E4%BB%96%E7%9A%84%E5%A4%87%E6%B3%A8%23" target="weibo">
+戴向宇9年不知道陈紫函给他的备注（热度：75138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E9%9E%A0%E5%A9%A7%E7%A5%8E%23" target="weibo">
 外媒报道鞠婧祎（热度：72296）
 </a>
@@ -845,6 +893,12 @@ Rookie 隔6年了（热度：112714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%A4%A9%E5%90%8E%E5%90%8D%E4%B8%8D%E8%99%9A%E4%BC%A0%23" target="weibo">
 沈阳天后名不虚传（热度：70103）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E5%85%AC%E5%B8%83%23" target="weibo">
+印度踩踏事件现场视频公布（热度：68645）
 </a>
 </li>
 
@@ -915,6 +969,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E8%B1%AA%E5%8D%8E%E6%89%8D%E6%98%AF%E9%A1%B6%E6%B5%81%23" target="weibo">
+中式豪华才是顶流（热度：51436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87%23" target="weibo">
 鹿晗新加坡演唱会上座率（热度：51174）
 </a>
@@ -939,14 +999,14 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E8%B1%AA%E5%8D%8E%E6%89%8D%E6%98%AF%E9%A1%B6%E6%B5%81%23" target="weibo">
-中式豪华才是顶流（热度：44697）
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%881%E6%97%A5%E5%AE%A2%E6%B5%81%E6%88%96%E8%B6%853.4%E4%BA%BF%E4%BA%BA%E6%AC%A1%23" target="weibo">
+10月1日客流或超3.4亿人次（热度：40483）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%881%E6%97%A5%E5%AE%A2%E6%B5%81%E6%88%96%E8%B6%853.4%E4%BA%BF%E4%BA%BA%E6%AC%A1%23" target="weibo">
-10月1日客流或超3.4亿人次（热度：40483）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8E%A6%E9%97%A8%E8%A2%AB%E8%BF%99%E4%BA%9B%E5%B0%8F%E5%96%84%E4%B8%BE%E8%A7%A6%E5%8A%A8%23" target="weibo">
+在厦门被这些小善举触动（热度：37753）
 </a>
 </li>
 
@@ -964,13 +1024,7 @@ Rookie 隔6年了（热度：112714）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E9%80%89%E6%8B%A9%E5%8E%BB%E8%81%8C%E6%A0%A1%E5%BD%93%E8%80%81%E5%B8%88%23" target="weibo">
-北大毕业生选择去职校当老师（热度：30478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8E%A6%E9%97%A8%E8%A2%AB%E8%BF%99%E4%BA%9B%E5%B0%8F%E5%96%84%E4%B8%BE%E8%A7%A6%E5%8A%A8%23" target="weibo">
-在厦门被这些小善举触动（热度：30137）
+北大毕业生选择去职校当老师（热度：32312）
 </a>
 </li>
 

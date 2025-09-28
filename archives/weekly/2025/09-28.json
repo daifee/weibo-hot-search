@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759029276979,
+  "endTime": 1759030120942,
   "band_list": [
     {
       "raw_hot": 1593863,
@@ -59,6 +59,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1026641,
+      "num": 576302,
+      "word": "K签证",
+      "onboard_time": 1759020502,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 695135,
       "num": 367379,
       "word": "刘耀文哭了",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 688966,
-      "num": 241377,
+      "num": 244924,
       "word": "董璇张维伊搂脖吻",
       "onboard_time": 1759026320,
       "rank": 15,
@@ -137,14 +145,6 @@
       "onboard_time": 1759019422,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 512710,
-      "num": 512710,
-      "word": "K签证",
-      "onboard_time": 1759020502,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 464731,
@@ -243,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353989,
-      "num": 353989,
+      "raw_hot": 356972,
+      "num": 356972,
       "word": "印度踩踏死亡升至39人",
       "onboard_time": 1759025721,
       "rank": 41,
@@ -299,6 +299,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271224,
+      "num": 271224,
+      "word": "花海铠神罪皮肤签名",
+      "onboard_time": 1759029320,
+      "rank": 8,
+      "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 266721,
+      "num": 266721,
+      "word": "打工人即将迎来最轻松的10月份",
+      "onboard_time": 1759028241,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264356,
       "num": 178262,
       "word": "邓超腿受伤",
@@ -331,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256742,
+      "num": 256742,
+      "word": "赛琳娜婚礼",
+      "onboard_time": 1759028361,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250706,
       "num": 250706,
       "word": "张真源哭了",
@@ -347,11 +371,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242071,
+      "num": 242071,
+      "word": "孙颖莎vs平野美宇",
+      "onboard_time": 1759028900,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240965,
+      "num": 240965,
+      "word": "暗河传",
+      "onboard_time": 1759027880,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240184,
       "num": 240184,
       "word": "普林斯顿中国博士后李昊然去世",
       "onboard_time": 1759016720,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239374,
+      "num": 239374,
+      "word": "中秋国庆8天安排",
+      "onboard_time": 1759028659,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -395,6 +443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205874,
+      "num": 205874,
+      "word": "官员买500斤散装白酒放单位公务接待",
+      "onboard_time": 1759029620,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201416,
+      "num": 201416,
+      "word": "网友拍到的美容院的秘密",
+      "onboard_time": 1759024941,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198562,
       "num": 198562,
       "word": "韩国外卖平台接入支付宝和微信支付",
@@ -403,11 +467,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 194040,
-      "num": 194040,
-      "word": "赛琳娜婚礼",
-      "onboard_time": 1759028361,
-      "rank": 21,
+      "raw_hot": 193048,
+      "num": 193048,
+      "word": "肖战出道战绩",
+      "onboard_time": 1759028959,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -417,14 +481,6 @@
       "onboard_time": 1759014917,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188575,
-      "num": 188575,
-      "word": "暗河传",
-      "onboard_time": 1759027880,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 181375,
@@ -459,22 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174612,
-      "num": 174612,
-      "word": "肖战出道战绩",
-      "onboard_time": 1759028959,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168806,
-      "num": 168806,
-      "word": "网友拍到的美容院的秘密",
-      "onboard_time": 1759024941,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168418,
       "num": 153149,
       "word": "汪苏泷眼妆",
@@ -499,12 +539,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 167666,
-      "num": 167666,
-      "word": "中秋国庆8天安排",
-      "onboard_time": 1759028659,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 165198,
+      "num": 165198,
+      "word": "魔法公主的小烦恼开播",
+      "onboard_time": 1759029800,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 161862,
@@ -513,6 +553,14 @@
       "onboard_time": 1759028120,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161780,
+      "num": 161780,
+      "word": "惠英红65岁代言LOEWE",
+      "onboard_time": 1759028420,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 156482,
@@ -587,12 +635,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141650,
-      "num": 141650,
-      "word": "惠英红65岁代言LOEWE",
-      "onboard_time": 1759028420,
+      "raw_hot": 144174,
+      "num": 144174,
+      "word": "王者铠神罪皮肤",
+      "onboard_time": 1759029981,
       "rank": 31,
-      "category": "艺人"
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 141782,
+      "num": 141782,
+      "word": "10月份工作日只有18天",
+      "onboard_time": 1759029380,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141468,
+      "num": 141468,
+      "word": "李斯丹妮鼻子上贴了12颗金钻",
+      "onboard_time": 1759029080,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 137926,
@@ -609,6 +673,14 @@
       "onboard_time": 1759014798,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135157,
+      "num": 135157,
+      "word": "性格好的人一般脑子也好使",
+      "onboard_time": 1759026740,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 134353,
@@ -707,14 +779,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 121746,
-      "num": 228843,
-      "word": "孙颖莎vs平野美宇",
-      "onboard_time": 1759028900,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120464,
       "num": 150289,
       "word": "巴基斯坦总理称让印度颜面扫地",
@@ -723,28 +787,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 119997,
-      "num": 224885,
-      "word": "打工人即将迎来最轻松的10月份",
-      "onboard_time": 1759028241,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119312,
       "num": 133081,
       "word": "陈浚铭婴儿时期看过TFBOYS演唱会",
       "onboard_time": 1758986002,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118282,
-      "num": 118282,
-      "word": "性格好的人一般脑子也好使",
-      "onboard_time": 1759026740,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 116597,
@@ -787,14 +835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113367,
-      "num": 113367,
-      "word": "李斯丹妮鼻子上贴了12颗金钻",
-      "onboard_time": 1759029080,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 112714,
       "num": 132969,
       "word": "Rookie 隔6年了",
@@ -825,6 +865,14 @@
       "onboard_time": 1759028600,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106450,
+      "num": 106450,
+      "word": "王健林",
+      "onboard_time": 1759027040,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106184,
@@ -913,6 +961,14 @@
       "onboard_time": 1759015518,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101304,
+      "num": 123183,
+      "word": "千万富翁与母亲相认送房子银行卡",
+      "onboard_time": 1759029740,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98801,
@@ -1075,6 +1131,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 75138,
+      "num": 105433,
+      "word": "戴向宇9年不知道陈紫函给他的备注",
+      "onboard_time": 1759029499,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72296,
       "num": 132642,
       "word": "外媒报道鞠婧祎",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1758987562,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68645,
+      "num": 122376,
+      "word": "印度踩踏事件现场视频公布",
+      "onboard_time": 1759029499,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68426,
@@ -1203,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51436,
+      "num": 236393,
+      "word": "中式豪华才是顶流",
+      "onboard_time": 1759025299,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51174,
       "num": 55567,
       "word": "鹿晗新加坡演唱会上座率",
@@ -1212,7 +1292,7 @@
     },
     {
       "raw_hot": 47132,
-      "num": 234383,
+      "num": 239948,
       "word": "和孟子义一起喜提缤果S",
       "onboard_time": 1759026919,
       "rank": 17,
@@ -1235,19 +1315,19 @@
       "category": "科学科普,民生新闻"
     },
     {
-      "raw_hot": 44697,
-      "num": 236393,
-      "word": "中式豪华才是顶流",
-      "onboard_time": 1759025299,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 40483,
       "num": 106982,
       "word": "10月1日客流或超3.4亿人次",
       "onboard_time": 1759025960,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37753,
+      "num": 245253,
+      "word": "在厦门被这些小善举触动",
+      "onboard_time": 1759028540,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1267,20 +1347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 30478,
-      "num": 114933,
+      "raw_hot": 32312,
+      "num": 122356,
       "word": "北大毕业生选择去职校当老师",
       "onboard_time": 1759029020,
       "rank": 38,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 30137,
-      "num": 245253,
-      "word": "在厦门被这些小善举触动",
-      "onboard_time": 1759028540,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27086,
