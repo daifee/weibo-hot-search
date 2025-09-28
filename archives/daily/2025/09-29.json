@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759099127124,
+  "endTime": 1759101721801,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 557363,
-      "num": 252444,
+      "num": 531880,
       "word": "沈佳润出场 小沈阳被抬走",
       "onboard_time": 1759068144,
       "rank": 7,
@@ -89,6 +89,14 @@
       "onboard_time": 1759074082,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 385487,
+      "num": 152499,
+      "word": "刘天池说朱媛媛去世后未见过辛柏青",
+      "onboard_time": 1759100898,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 357112,
@@ -147,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197686,
+      "num": 149000,
+      "word": "林依轮 我的娘我也爱肖战",
+      "onboard_time": 1759096635,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197467,
       "num": 215480,
       "word": "遭老板性侵女子回应要2千万赔偿",
@@ -195,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179067,
+      "num": 215938,
+      "word": "韩国首尔爆发反以色列游行",
+      "onboard_time": 1759064602,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 170132,
       "num": 214845,
       "word": "魏大勋这段rap",
@@ -219,20 +243,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160391,
-      "num": 215938,
-      "word": "韩国首尔爆发反以色列游行",
-      "onboard_time": 1759064602,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 158750,
       "num": 215888,
       "word": "艺考女生10天瘦了9斤",
       "onboard_time": 1759070545,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155950,
+      "num": 155950,
+      "word": "华南理工车祸地距遇难者宿舍100米",
+      "onboard_time": 1759078278,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151359,
@@ -249,6 +273,14 @@
       "onboard_time": 1759076182,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144041,
+      "num": 144041,
+      "word": "官方回应卖女孩的红烧肉店名争议",
+      "onboard_time": 1759090514,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143022,
@@ -291,14 +323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123831,
-      "num": 81281,
-      "word": "华南理工车祸地距遇难者宿舍100米",
-      "onboard_time": 1759078278,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121161,
       "num": 214162,
       "word": "王力宏抢拍 真唱证明",
@@ -339,20 +363,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 101528,
-      "num": 85190,
-      "word": "林依轮 我的娘我也爱肖战",
-      "onboard_time": 1759096635,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100679,
       "num": 214095,
       "word": "任嘉伦寸头",
       "onboard_time": 1759067845,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99651,
+      "num": 99651,
+      "word": "哈尔滨图书馆回应3千至4千招聘硕博",
+      "onboard_time": 1759095854,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93204,
@@ -363,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90171,
-      "num": 90171,
-      "word": "官方回应卖女孩的红烧肉店名争议",
-      "onboard_time": 1759090514,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 89501,
+      "num": 89501,
+      "word": "董璇娘家弟弟重膀出击张维伊",
+      "onboard_time": 1759054760,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 86692,
@@ -395,6 +419,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82834,
+      "num": 82834,
+      "word": "卖女孩的红烧肉 店名争议",
+      "onboard_time": 1759058601,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78571,
+      "num": 79100,
+      "word": "去世8年男子坟墓惊现盗洞",
+      "onboard_time": 1759078158,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77997,
       "num": 214336,
       "word": "男子欠5000被催债后说每分钟还50",
@@ -419,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71798,
+      "num": 71798,
+      "word": "日本2岁女童被父母长期虐待致死",
+      "onboard_time": 1759082895,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67735,
       "num": 213913,
       "word": "iPhone很容易被遗忘的功能",
@@ -427,12 +475,76 @@
       "category": "数码"
     },
     {
+      "raw_hot": 64556,
+      "num": 64556,
+      "word": "日本计划引进5万名印度技术人才",
+      "onboard_time": 1759064063,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62376,
       "num": 213880,
       "word": "被王欣瑜治愈系笑容融化了",
       "onboard_time": 1759076242,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60238,
+      "num": 79183,
+      "word": "资产上亿女老板失联前称别找自己",
+      "onboard_time": 1759078818,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59286,
+      "num": 59286,
+      "word": "王楚钦孙颖莎混双对手出炉",
+      "onboard_time": 1759101619,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59193,
+      "num": 59193,
+      "word": "普通女生最大的坑就是do脸",
+      "onboard_time": 1759101079,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 58738,
+      "num": 58738,
+      "word": "昀牵孟绕",
+      "onboard_time": 1759065144,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58640,
+      "num": 58640,
+      "word": "夜空中最亮的星 都以为自己是麦霸",
+      "onboard_time": 1759100178,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 57476,
+      "num": 57476,
+      "word": "朱珠郭晶晶合照",
+      "onboard_time": 1759096574,
+      "rank": 43,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 57375,
+      "num": 57375,
+      "word": "陈楚生一开口湾区变江湖",
+      "onboard_time": 1759101018,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 56505,
@@ -452,7 +564,7 @@
     },
     {
       "raw_hot": 54826,
-      "num": 49251,
+      "num": 50457,
       "word": "邓超看到孙俪照片就没法工作了",
       "onboard_time": 1759086675,
       "rank": 32,
@@ -467,28 +579,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 49444,
-      "num": 79046,
-      "word": "卖女孩的红烧肉 店名争议",
-      "onboard_time": 1759058601,
+      "raw_hot": 52285,
+      "num": 52285,
+      "word": "小猫真的低估了自己的体重了",
+      "onboard_time": 1759101500,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 48485,
+      "num": 48485,
+      "word": "小沈阳真的别太宠了",
+      "onboard_time": 1759101619,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 46959,
+      "num": 46959,
+      "word": "为什么对他人不要过于慷慨",
+      "onboard_time": 1759101079,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44373,
-      "num": 44373,
-      "word": "日本2岁女童被父母长期虐待致死",
-      "onboard_time": 1759082895,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 43276,
-      "num": 79183,
-      "word": "资产上亿女老板失联前称别找自己",
-      "onboard_time": 1759078818,
-      "rank": 39,
-      "category": "民生新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 43138,
@@ -497,22 +609,6 @@
       "onboard_time": 1759079897,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40880,
-      "num": 40880,
-      "word": "哈尔滨图书馆回应3千至4千招聘硕博",
-      "onboard_time": 1759095854,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39565,
-      "num": 79100,
-      "word": "去世8年男子坟墓惊现盗洞",
-      "onboard_time": 1759078158,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39550,
@@ -531,20 +627,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 38491,
-      "num": 38491,
-      "word": "朱珠郭晶晶合照",
-      "onboard_time": 1759096574,
-      "rank": 43,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 31732,
       "num": 31732,
       "word": "张雅琪花少二面穿睡衣的原因",
       "onboard_time": 1759080377,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27982,
+      "num": 100217,
+      "word": "美国一起枪击2死8伤",
+      "onboard_time": 1759101500,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26684,
@@ -635,18 +731,18 @@
       "category": "演出"
     },
     {
-      "raw_hot": 3106,
-      "num": 410708,
-      "word": "青春正澎湃",
-      "onboard_time": 1759069164,
+      "raw_hot": 4689,
+      "num": 545824,
+      "word": "10月1日客流或超3.4亿人次",
+      "onboard_time": 1759025960,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2850,
-      "num": 285520,
-      "word": "10月1日客流或超3.4亿人次",
-      "onboard_time": 1759025960,
+      "raw_hot": 3106,
+      "num": 410708,
+      "word": "青春正澎湃",
+      "onboard_time": 1759069164,
       "rank": 2,
       "category": "民生新闻"
     }
