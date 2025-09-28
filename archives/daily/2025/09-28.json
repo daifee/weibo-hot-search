@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759037027419,
+  "endTime": 1759037971945,
   "band_list": [
     {
       "raw_hot": 1717431,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 625318,
+      "num": 316127,
+      "word": "万达",
+      "onboard_time": 1759035082,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 615736,
       "num": 615736,
       "word": "林允 水光后的针眼挺吓人",
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 553054,
+      "num": 244029,
+      "word": "宗馥莉也可能无法用娃哈哈商标",
+      "onboard_time": 1759030701,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537302,
       "num": 340695,
       "word": "汪苏泷 爱你的人都希望你自由",
@@ -209,14 +225,6 @@
       "onboard_time": 1759019422,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 489374,
-      "num": 244029,
-      "word": "宗馥莉也可能无法用娃哈哈商标",
-      "onboard_time": 1759030701,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 464731,
@@ -355,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 316127,
-      "num": 316127,
-      "word": "万达",
-      "onboard_time": 1759035082,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 310558,
       "num": 310558,
       "word": "网传湾区升明月节目单",
@@ -433,6 +433,14 @@
       "onboard_time": 1759033582,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277552,
+      "num": 277552,
+      "word": "iPhone 调休闹钟",
+      "onboard_time": 1759035201,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 264356,
@@ -539,6 +547,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 213706,
+      "num": 178418,
+      "word": "LV首尔开餐厅3只牛肉饺子243元",
+      "onboard_time": 1759036761,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208861,
       "num": 176050,
       "word": "朱珠扛住了G社镜头",
@@ -609,14 +625,6 @@
       "onboard_time": 1759029740,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184304,
-      "num": 184304,
-      "word": "iPhone 调休闹钟",
-      "onboard_time": 1759035201,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 184256,
@@ -691,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171447,
+      "num": 171447,
+      "word": "印度工程师想移民中国被网友婉拒",
+      "onboard_time": 1759032681,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168418,
       "num": 153149,
       "word": "汪苏泷眼妆",
@@ -739,14 +755,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 164731,
-      "num": 164731,
-      "word": "印度工程师想移民中国被网友婉拒",
-      "onboard_time": 1759032681,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161862,
       "num": 161862,
       "word": "九门",
@@ -779,12 +787,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159215,
+      "num": 149757,
+      "word": "只有养猫的才知道这有多邪门",
+      "onboard_time": 1759037241,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158817,
       "num": 158817,
       "word": "杨幂嘉人十月刊封面",
       "onboard_time": 1759035383,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157292,
+      "num": 157292,
+      "word": "当地劳动部门已跟进企业取消额外假",
+      "onboard_time": 1759036160,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156482,
@@ -803,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154740,
+      "num": 154740,
+      "word": "中彩票冷知识",
+      "onboard_time": 1759036282,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153100,
       "num": 153100,
       "word": "周也 贝雷帽战神",
@@ -817,6 +849,14 @@
       "onboard_time": 1759033040,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149653,
+      "num": 149653,
+      "word": "蓝盈莹东方美学征服米兰",
+      "onboard_time": 1759037480,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 149426,
@@ -939,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136034,
+      "num": 136034,
+      "word": "神里绫华",
+      "onboard_time": 1759037901,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135177,
       "num": 135177,
       "word": "麻辣烫里的熊猫粉耗子",
@@ -947,20 +995,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 134969,
-      "num": 134969,
-      "word": "当地劳动部门已跟进企业取消额外假",
-      "onboard_time": 1759036160,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134353,
       "num": 134353,
       "word": "鸡排哥怼黄牛",
       "onboard_time": 1759022902,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133467,
+      "num": 133467,
+      "word": "大学生演国漫还得大学生看",
+      "onboard_time": 1759037361,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 133161,
@@ -1019,14 +1067,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 128801,
-      "num": 128801,
-      "word": "LV首尔开餐厅3只牛肉饺子243元",
-      "onboard_time": 1759036761,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128781,
       "num": 128781,
       "word": "张凌赫告别慕容清峄",
@@ -1075,6 +1115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124601,
+      "num": 122078,
+      "word": "苹果客服回应调休日闹钟没响",
+      "onboard_time": 1759037721,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124402,
       "num": 124402,
       "word": "黑龙江一大片蔓越莓红色海洋",
@@ -1083,12 +1131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123803,
-      "num": 119184,
-      "word": "中彩票冷知识",
-      "onboard_time": 1759036282,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 123688,
+      "num": 123688,
+      "word": "时尚这碗饭 惠英红端到现在",
+      "onboard_time": 1759037721,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 121922,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1759034963,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118029,
+      "num": 121303,
+      "word": "免费即将结束还在高速上怎么办",
+      "onboard_time": 1759036642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116597,
@@ -1203,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113469,
+      "num": 113469,
+      "word": "现实版再见老张太好哭了",
+      "onboard_time": 1759037661,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112714,
       "num": 132969,
       "word": "Rookie 隔6年了",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1759028600,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106327,
+      "num": 106327,
+      "word": "技能五子棋 喜剧香菜",
+      "onboard_time": 1759037780,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 106184,
@@ -1299,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102410,
+      "num": 102410,
+      "word": "57岁阿姨用英文帮儿子卖滞销苹果",
+      "onboard_time": 1759037001,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102279,
       "num": 132937,
       "word": "周柯宇眼里JIUZHE战队的热血浪漫",
@@ -1307,12 +1387,12 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 102067,
-      "num": 102067,
-      "word": "57岁阿姨用英文帮儿子卖滞销苹果",
-      "onboard_time": 1759037001,
+      "raw_hot": 102175,
+      "num": 102175,
+      "word": "大冰连线的男孩真的当上了船员",
+      "onboard_time": 1759037061,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 101805,
@@ -1337,14 +1417,6 @@
       "onboard_time": 1759030161,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 101088,
-      "num": 121303,
-      "word": "免费即将结束还在高速上怎么办",
-      "onboard_time": 1759036642,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101051,
@@ -1555,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74265,
+      "num": 139957,
+      "word": "张杰主动加班",
+      "onboard_time": 1759037842,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72296,
       "num": 132642,
       "word": "外媒报道鞠婧祎",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1759012755,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 66863,
+      "num": 123738,
+      "word": "张凌赫王楚然嘟嘴吻戏",
+      "onboard_time": 1759037842,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 63659,
@@ -1673,6 +1761,14 @@
       "onboard_time": 1759026919,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56997,
+      "num": 123799,
+      "word": "李晟直播哭了",
+      "onboard_time": 1759037842,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 56043,
@@ -1867,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26696,
+      "num": 154955,
+      "word": "时代少年团开学给你打电话",
+      "onboard_time": 1759034182,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25735,
       "num": 34530,
       "word": "明天要上班今晚早点睡",
@@ -1875,20 +1979,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25732,
-      "num": 123395,
-      "word": "时代少年团开学给你打电话",
-      "onboard_time": 1759034182,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25057,
       "num": 26680,
       "word": "汪苏泷可爱颂手势舞",
       "onboard_time": 1759004834,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24971,
+      "num": 149823,
+      "word": "张若昀在秘境里看到了什么",
+      "onboard_time": 1759035921,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 24520,
@@ -1931,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21966,
-      "num": 144900,
-      "word": "张若昀在秘境里看到了什么",
-      "onboard_time": 1759035921,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21498,
       "num": 18921,
       "word": "汪苏泷自己给自己逗笑了",
@@ -1947,20 +2043,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21462,
+      "num": 165266,
+      "word": "郑钦文回应时隔88天重返赛场",
+      "onboard_time": 1759035801,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21258,
       "num": 31500,
       "word": "鹭卓直播",
       "onboard_time": 1758998295,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19780,
-      "num": 165266,
-      "word": "郑钦文回应时隔88天重返赛场",
-      "onboard_time": 1759035801,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 18899,
