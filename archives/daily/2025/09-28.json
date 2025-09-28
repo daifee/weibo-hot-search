@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759069215223,
+  "endTime": 1759070160061,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1521014,
+      "num": 1521014,
+      "word": "警方通报华南理工校内车祸",
+      "onboard_time": 1759067604,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1520996,
       "num": 457923,
       "word": "肖战容祖儿成龙坐一起",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1428723,
-      "num": 1428723,
-      "word": "警方通报华南理工校内车祸",
-      "onboard_time": 1759067604,
-      "rank": 1,
-      "category": "辟谣/通报"
+      "raw_hot": 1410342,
+      "num": 439263,
+      "word": "向佐回应向家破产",
+      "onboard_time": 1759067665,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1396704,
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 774349,
+      "num": 438987,
+      "word": "沈佳润出场 小沈阳被抬走",
+      "onboard_time": 1759068144,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 771457,
       "num": 250641,
       "word": "罗予彤 同父异母的哥哥",
@@ -257,14 +273,6 @@
       "onboard_time": 1759029499,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 733828,
-      "num": 438987,
-      "word": "沈佳润出场 小沈阳被抬走",
-      "onboard_time": 1759068144,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 717967,
@@ -483,12 +491,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 517881,
-      "num": 439263,
-      "word": "向佐回应向家破产",
-      "onboard_time": 1759067665,
+      "raw_hot": 514880,
+      "num": 348089,
+      "word": "工作人员给肖战丢玩偶",
+      "onboard_time": 1759070064,
       "rank": 13,
-      "category": "艺人"
+      "category": "演出"
     },
     {
       "raw_hot": 512095,
@@ -561,6 +569,14 @@
       "onboard_time": 1758986063,
       "rank": 10,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 462556,
+      "num": 382780,
+      "word": "林志炫 MVP",
+      "onboard_time": 1759068506,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 461570,
@@ -707,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 382780,
-      "num": 382780,
-      "word": "林志炫 MVP",
-      "onboard_time": 1759068506,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 376689,
       "num": 288715,
       "word": "黄明昊 遇到不公平的事情",
@@ -811,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311898,
+      "num": 311898,
+      "word": "范玮琪还是抖",
+      "onboard_time": 1759069406,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 310558,
       "num": 310558,
       "word": "网传湾区升明月节目单",
@@ -899,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277890,
+      "num": 373414,
+      "word": "华南理工校内车祸致1死1伤",
+      "onboard_time": 1759069045,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 276852,
       "num": 246216,
       "word": "昀牵孟绕",
@@ -945,6 +969,14 @@
       "onboard_time": 1759026679,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257181,
+      "num": 257181,
+      "word": "湾区升明月 检验唱功",
+      "onboard_time": 1759068506,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 251190,
@@ -1003,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234980,
+      "num": 234980,
+      "word": "金海心太好听了",
+      "onboard_time": 1759066284,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232374,
       "num": 232374,
       "word": "韩国首尔爆发反以色列游行",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1759058601,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229555,
-      "num": 229555,
-      "word": "金海心太好听了",
-      "onboard_time": 1759066284,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 227905,
@@ -1091,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211546,
+      "num": 211546,
+      "word": "王楚钦狂撸海螺的头",
+      "onboard_time": 1759070064,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210088,
       "num": 205420,
       "word": "恶作剧",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1759065144,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203458,
+      "num": 203458,
+      "word": "于适清唱",
+      "onboard_time": 1759069164,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 202415,
@@ -1299,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190473,
+      "num": 190473,
+      "word": "大湾区晚会和王源打招呼的时代少年团",
+      "onboard_time": 1759069225,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187448,
       "num": 187448,
       "word": "王曼昱入选全国体育系统先进个人",
@@ -1307,28 +1363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187418,
-      "num": 187418,
-      "word": "湾区升明月 检验唱功",
-      "onboard_time": 1759068506,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 186624,
       "num": 186624,
       "word": "胡凌宸回应抛下剧组哄女友",
       "onboard_time": 1759038621,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186470,
-      "num": 186470,
-      "word": "华南理工校内车祸致1死1伤",
-      "onboard_time": 1759069045,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 185998,
@@ -1539,14 +1579,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 170671,
-      "num": 170671,
-      "word": "于适清唱",
-      "onboard_time": 1759069164,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 169517,
       "num": 169517,
       "word": "湾区升明月彩排",
@@ -1651,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162338,
+      "num": 162338,
+      "word": "解晓东小酒窝合唱中国娃",
+      "onboard_time": 1759070126,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161862,
       "num": 161862,
       "word": "九门",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1759044501,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161267,
+      "num": 161267,
+      "word": "六公主说周深能驾驭所有歌曲",
+      "onboard_time": 1759070006,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 161130,
@@ -1963,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140153,
+      "num": 290790,
+      "word": "中国短道速滑队世巡赛参赛名单",
+      "onboard_time": 1759066705,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140096,
       "num": 140096,
       "word": "PYL回应解说台上哭声",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1759033762,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138126,
+      "num": 138126,
+      "word": "吴艳妮12秒90夺冠",
+      "onboard_time": 1759069286,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137926,
@@ -2153,6 +2217,14 @@
       "onboard_time": 1759029201,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129927,
+      "num": 129927,
+      "word": "柯洁发博自称三连霸",
+      "onboard_time": 1759069944,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 129563,
@@ -3523,6 +3595,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 44693,
+      "num": 438087,
+      "word": "于适眼里太有活了",
+      "onboard_time": 1759068265,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42036,
       "num": 207274,
       "word": "陈数状态越来越好了",
@@ -3548,7 +3628,7 @@
     },
     {
       "raw_hot": 40483,
-      "num": 106982,
+      "num": 327172,
       "word": "10月1日客流或超3.4亿人次",
       "onboard_time": 1759025960,
       "rank": 37,
@@ -3619,20 +3699,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 34206,
+      "num": 1414297,
+      "word": "青春正澎湃",
+      "onboard_time": 1759069164,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33617,
       "num": 64975,
       "word": "原来不扫兴的父母都拥有孩子视角",
       "onboard_time": 1758994577,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33490,
-      "num": 438087,
-      "word": "于适眼里太有活了",
-      "onboard_time": 1759068265,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 33361,
@@ -3811,11 +3891,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20569,
-      "num": 1357707,
-      "word": "青春正澎湃",
-      "onboard_time": 1759069164,
-      "rank": 2,
+      "raw_hot": 20294,
+      "num": 299918,
+      "word": "应急管理部黄金周重磅提醒",
+      "onboard_time": 1759068206,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3833,14 +3913,6 @@
       "onboard_time": 1759040242,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18144,
-      "num": 286484,
-      "word": "应急管理部黄金周重磅提醒",
-      "onboard_time": 1759068206,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14546,
