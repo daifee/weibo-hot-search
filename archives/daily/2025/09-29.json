@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759121023610,
+  "endTime": 1759123543934,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -25,6 +25,14 @@
       "onboard_time": 1759114400,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1443869,
+      "num": 1443869,
+      "word": "女子称子宫被装监听器起诉医院",
+      "onboard_time": 1759119740,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1350863,
@@ -171,12 +179,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 560001,
+      "num": 560001,
+      "word": "华南理工被撞身亡女生是班长",
+      "onboard_time": 1759118960,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548663,
       "num": 293246,
       "word": "赵丽颖工作室取消行程图",
       "onboard_time": 1759119562,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539243,
+      "num": 539243,
+      "word": "闫妮魏大勋不许再酗酒了",
+      "onboard_time": 1759120583,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 533151,
@@ -227,14 +251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 424715,
-      "num": 254639,
-      "word": "女子称子宫被装监听器起诉医院",
-      "onboard_time": 1759119740,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 415589,
       "num": 215701,
       "word": "中国话还得SHE",
@@ -243,12 +259,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 402990,
+      "num": 169162,
+      "word": "中日混血在日本遭歧视",
+      "onboard_time": 1759122920,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 399315,
       "num": 399315,
       "word": "网传律师虐杀4000只猫谋利",
       "onboard_time": 1759115478,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390869,
+      "num": 390869,
+      "word": "肖战看小酒窝表演笑得好甜",
+      "onboard_time": 1759119323,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 388949,
@@ -265,6 +297,14 @@
       "onboard_time": 1759114880,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 370043,
+      "num": 370043,
+      "word": "雨果说国乒统治力变弱了",
+      "onboard_time": 1759122920,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 357112,
@@ -339,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276609,
-      "num": 263691,
-      "word": "肖战看小酒窝表演笑得好甜",
-      "onboard_time": 1759119323,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 262962,
       "num": 262962,
       "word": "国庆中秋出行避开这2个客流高峰",
@@ -377,6 +409,14 @@
       "onboard_time": 1759096635,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234922,
+      "num": 234922,
+      "word": "王健林还剩什么资产",
+      "onboard_time": 1759122802,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222729,
@@ -419,6 +459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 214879,
+      "num": 165800,
+      "word": "小酒窝沈佳润合照",
+      "onboard_time": 1759120762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207850,
       "num": 207850,
       "word": "王健林限高措施取消",
@@ -451,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199473,
+      "num": 199473,
+      "word": "林高远晋级中国大满贯32强",
+      "onboard_time": 1759122741,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197467,
       "num": 215480,
       "word": "遭老板性侵女子回应要2千万赔偿",
@@ -473,6 +529,14 @@
       "onboard_time": 1759119323,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 194386,
+      "num": 194386,
+      "word": "鸡排哥称有男科医院来蹭流量",
+      "onboard_time": 1759119922,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193835,
@@ -513,14 +577,6 @@
       "onboard_time": 1759107920,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189910,
-      "num": 189910,
-      "word": "闫妮魏大勋不许再酗酒了",
-      "onboard_time": 1759120583,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 189670,
@@ -579,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179553,
+      "num": 179553,
+      "word": "王凯两年后一出手就是daddy级别",
+      "onboard_time": 1759121421,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176564,
       "num": 176564,
       "word": "闫妮在台下偷喝茅台了吧",
@@ -635,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168920,
+      "num": 168920,
+      "word": "原神菲林斯",
+      "onboard_time": 1759123221,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168225,
       "num": 214756,
       "word": "周深互动环节变身小曲库",
@@ -651,12 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165800,
-      "num": 165800,
-      "word": "小酒窝沈佳润合照",
-      "onboard_time": 1759120762,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 166507,
+      "num": 177269,
+      "word": "你跟我说王圣迪长这么大了",
+      "onboard_time": 1759121782,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 163954,
@@ -697,6 +769,14 @@
       "onboard_time": 1759114160,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157185,
+      "num": 157185,
+      "word": "A股新能源领涨市场",
+      "onboard_time": 1759123221,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 156219,
@@ -747,14 +827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150647,
-      "num": 150647,
-      "word": "华南理工被撞身亡女生是班长",
-      "onboard_time": 1759118960,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149154,
       "num": 149154,
       "word": "易烊千玺又说习惯了",
@@ -769,14 +841,6 @@
       "onboard_time": 1759119621,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147917,
-      "num": 149192,
-      "word": "鸡排哥称有男科医院来蹭流量",
-      "onboard_time": 1759119922,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147293,
@@ -819,12 +883,28 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 140536,
+      "num": 172141,
+      "word": "一部剧有我老公我男友还有俺爹",
+      "onboard_time": 1759122262,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137887,
       "num": 137887,
       "word": "主人花700多元给狗狗戴隐形眼镜",
       "onboard_time": 1759106181,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136953,
+      "num": 136953,
+      "word": "刘宇宁不适合当老师适合当老公",
+      "onboard_time": 1759122622,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 135985,
@@ -907,12 +987,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126370,
+      "num": 126370,
+      "word": "陈闲 最强大脑",
+      "onboard_time": 1759122681,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125002,
       "num": 148229,
       "word": "美国一起枪击2死8伤",
       "onboard_time": 1759101500,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124879,
+      "num": 124879,
+      "word": "林高远3比0黄镇廷",
+      "onboard_time": 1759123521,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 124804,
@@ -1001,6 +1097,14 @@
       "onboard_time": 1759112119,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111850,
+      "num": 111850,
+      "word": "14岁少女被特校虐待致死调查",
+      "onboard_time": 1759121482,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111205,
@@ -1123,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95557,
+      "num": 125414,
+      "word": "李现说自己素颜不好看",
+      "onboard_time": 1759122321,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94610,
       "num": 94610,
       "word": "小沈阳真的别太宠了",
@@ -1201,6 +1313,14 @@
       "onboard_time": 1759064063,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87205,
+      "num": 126343,
+      "word": "李昀锐老婆开门我是祖宗",
+      "onboard_time": 1759122681,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 86692,
@@ -1321,6 +1441,14 @@
       "onboard_time": 1759072764,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74238,
+      "num": 125879,
+      "word": "1674元机票提前改签扣1029元手续费",
+      "onboard_time": 1759123400,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73794,
@@ -1467,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47093,
+      "num": 125496,
+      "word": "穿上机能教父设计的冲锋衣了",
+      "onboard_time": 1759122321,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 43138,
       "num": 79089,
       "word": "吾爱吾国",
@@ -1505,6 +1641,14 @@
       "onboard_time": 1759117520,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32940,
+      "num": 233668,
+      "word": "Dior春夏秀明星阵容",
+      "onboard_time": 1759122262,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 31732,
