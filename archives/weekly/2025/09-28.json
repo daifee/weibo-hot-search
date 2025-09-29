@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759142900845,
+  "endTime": 1759144892141,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 848890,
-      "num": 198912,
+      "num": 290260,
       "word": "公公葬礼上女子发现丈夫竟出轨16年",
       "onboard_time": 1759139180,
       "rank": 10,
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610407,
+      "num": 292234,
+      "word": "22岁全款300万买房后的生活",
+      "onboard_time": 1759141460,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 610183,
       "num": 252174,
       "word": "狗狗自家院休息被陌生车辆闯入碾死",
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 553936,
-      "num": 198275,
+      "num": 225370,
       "word": "食品厂工人掉入月饼机器",
       "onboard_time": 1759135882,
       "rank": 20,
@@ -1035,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439790,
-      "num": 155480,
-      "word": "22岁全款300万买房后的生活",
-      "onboard_time": 1759141460,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 439492,
       "num": 439492,
       "word": "保射手",
@@ -1092,7 +1092,7 @@
     },
     {
       "raw_hot": 428700,
-      "num": 198174,
+      "num": 245143,
       "word": "心力受损 长胖",
       "onboard_time": 1759138100,
       "rank": 30,
@@ -1147,12 +1147,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 403823,
+      "num": 272600,
+      "word": "漂亮的妈 争气的娃",
+      "onboard_time": 1759139001,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401427,
       "num": 401427,
       "word": "花少马哥澄清",
       "onboard_time": 1759042640,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400701,
+      "num": 400701,
+      "word": "将门独后男主90生",
+      "onboard_time": 1759142600,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 399315,
@@ -1188,7 +1204,7 @@
     },
     {
       "raw_hot": 392739,
-      "num": 167491,
+      "num": 226875,
       "word": "鸡排哥1分钟视频报价仅10元",
       "onboard_time": 1759138221,
       "rank": 25,
@@ -1323,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357673,
+      "num": 264320,
+      "word": "海陆瘦成纸片人",
+      "onboard_time": 1759143441,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355962,
       "num": 355962,
       "word": "何同学的iPhone17测评视频",
@@ -1403,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324547,
+      "num": 324547,
+      "word": "北京天空",
+      "onboard_time": 1759144341,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317928,
       "num": 317928,
       "word": "孙颖莎vs平野美宇",
@@ -1473,6 +1505,14 @@
       "onboard_time": 1759061962,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299484,
+      "num": 299484,
+      "word": "儿子成绩三连跌家长怒退国庆旅游机票",
+      "onboard_time": 1759140201,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299108,
@@ -1809,6 +1849,14 @@
       "onboard_time": 1759040842,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 226202,
+      "num": 255515,
+      "word": "校园跑APP遭大学生吐槽",
+      "onboard_time": 1759140802,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225506,
@@ -3051,14 +3099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155173,
-      "num": 155173,
-      "word": "儿子成绩三连跌家长怒退国庆旅游机票",
-      "onboard_time": 1759140201,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154817,
       "num": 154817,
       "word": "韩方称无力向美支付3500亿美金",
@@ -3089,6 +3129,14 @@
       "onboard_time": 1759058541,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153204,
+      "num": 153204,
+      "word": "33岁的周深",
+      "onboard_time": 1759143562,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 153100,
@@ -3123,12 +3171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152473,
+      "num": 152473,
+      "word": "邓为越来越大方了",
+      "onboard_time": 1759143681,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 152311,
       "num": 152311,
       "word": "王乐晨卢远异地恋分歧",
       "onboard_time": 1759126822,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151581,
+      "num": 151581,
+      "word": "北京火箭云",
+      "onboard_time": 1759144760,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151359,
@@ -3707,14 +3771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130117,
-      "num": 130117,
-      "word": "漂亮的妈 争气的娃",
-      "onboard_time": 1759139001,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129950,
       "num": 537214,
       "word": "假期跨区域流动预计超23亿人次",
@@ -3729,6 +3785,14 @@
       "onboard_time": 1759069944,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129848,
+      "num": 152489,
+      "word": "周深奇迹主题曲遥遥MV上线",
+      "onboard_time": 1759129161,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 129750,
@@ -3883,6 +3947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126651,
+      "num": 230382,
+      "word": "董璇张维伊婚礼 长辈加桌",
+      "onboard_time": 1759143740,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126370,
       "num": 126370,
       "word": "陈闲 最强大脑",
@@ -4027,14 +4099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123125,
-      "num": 170912,
-      "word": "校园跑APP遭大学生吐槽",
-      "onboard_time": 1759140802,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123093,
       "num": 235890,
       "word": "Dior春夏秀明星阵容",
@@ -4089,6 +4153,14 @@
       "onboard_time": 1759022422,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 121688,
+      "num": 121688,
+      "word": "倪妮的背不拔罐可惜了",
+      "onboard_time": 1759143861,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 121339,
@@ -4177,6 +4249,14 @@
       "onboard_time": 1759137382,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119469,
+      "num": 119469,
+      "word": "李沐宸肖宇梁同框路透",
+      "onboard_time": 1759144041,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 119399,
@@ -4323,6 +4403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115489,
+      "num": 115489,
+      "word": "停在路上的僵尸车集体不见了",
+      "onboard_time": 1759144281,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115196,
       "num": 132735,
       "word": "刘宇宁一开口我到红磡了",
@@ -4337,14 +4425,6 @@
       "onboard_time": 1759141579,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114550,
-      "num": 114550,
-      "word": "将门独后男主90生",
-      "onboard_time": 1759142600,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 114436,
@@ -4417,6 +4497,14 @@
       "onboard_time": 1758980302,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112577,
+      "num": 112577,
+      "word": "微信朋友圈照片变清晰",
+      "onboard_time": 1759144041,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 112442,
@@ -4603,6 +4691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108068,
+      "num": 108068,
+      "word": "易烊千玺狂野时代国内首映",
+      "onboard_time": 1759143980,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107329,
       "num": 214100,
       "word": "林依轮发了6张后台合照",
@@ -4769,6 +4865,14 @@
       "onboard_time": 1759026559,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103811,
+      "num": 121193,
+      "word": "张馨予大腿肌肉线条",
+      "onboard_time": 1759141400,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 103786,
@@ -4953,6 +5057,14 @@
       "onboard_time": 1759118542,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100657,
+      "num": 100657,
+      "word": "卫健委回应华山医院做错手术",
+      "onboard_time": 1759141940,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100536,
@@ -5307,14 +5419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 89863,
-      "num": 89863,
-      "word": "卫健委回应华山医院做错手术",
-      "onboard_time": 1759141940,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89705,
       "num": 95497,
       "word": "微博篮球之夜红毯",
@@ -5667,6 +5771,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 74877,
+      "num": 116960,
+      "word": "路人拍的孙一宁",
+      "onboard_time": 1759144702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74560,
       "num": 115059,
       "word": "航班提前15小时飞乘客损失谁承担",
@@ -6011,14 +6123,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 58715,
-      "num": 121193,
-      "word": "张馨予大腿肌肉线条",
-      "onboard_time": 1759141400,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58298,
       "num": 118441,
       "word": "女子称退票被要求证明外公是外公",
@@ -6219,6 +6323,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 49371,
+      "num": 155576,
+      "word": "小沈阳成乐道L90第两万个用户",
+      "onboard_time": 1759142721,
+      "rank": 29,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 48125,
       "num": 123331,
       "word": "王楚钦发芽了",
@@ -6241,14 +6353,6 @@
       "onboard_time": 1759048521,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47302,
-      "num": 120836,
-      "word": "小沈阳成乐道L90第两万个用户",
-      "onboard_time": 1759142721,
-      "rank": 29,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 47093,
@@ -6481,6 +6585,14 @@
       "onboard_time": 1759055479,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32893,
+      "num": 116738,
+      "word": "差点没认出苗苗",
+      "onboard_time": 1759144702,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 32312,

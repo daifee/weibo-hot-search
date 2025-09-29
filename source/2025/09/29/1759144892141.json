@@ -1,0 +1,410 @@
+{
+  "runTime": 1759144892141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060576,
+        "num": 1169692,
+        "word": "明家犯罪集团11人死刑",
+        "onboard_time": 1759136720,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784354,
+        "num": 784354,
+        "word": "明家涉赌诈超100亿元",
+        "onboard_time": 1759136541,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20104,
+        "num": 627292,
+        "word": "高质量完成十四五规划系列发布会",
+        "onboard_time": 1759136421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 573588,
+        "num": 573588,
+        "word": "沈佳润 一点垫音混音不给孩子加",
+        "onboard_time": 1759138401,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 473494,
+        "num": 473494,
+        "word": "女子高铁说讨厌小孩被宝妈怼哭",
+        "onboard_time": 1759135161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400701,
+        "num": 400701,
+        "word": "将门独后男主90生",
+        "onboard_time": 1759142600,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324547,
+        "num": 324547,
+        "word": "北京天空",
+        "onboard_time": 1759144341,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308165,
+        "num": 308165,
+        "word": "中方决定增设K字签证",
+        "onboard_time": 1759133720,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328394,
+        "num": 304671,
+        "word": "沈佳润观众缘",
+        "onboard_time": 1759136600,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299484,
+        "num": 299484,
+        "word": "儿子成绩三连跌家长怒退国庆旅游机票",
+        "onboard_time": 1759140201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610407,
+        "num": 292234,
+        "word": "22岁全款300万买房后的生活",
+        "onboard_time": 1759141460,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 605801,
+        "num": 290260,
+        "word": "公公葬礼上女子发现丈夫竟出轨16年",
+        "onboard_time": 1759139180,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448117,
+        "num": 274393,
+        "word": "孙俪吃了一段时间的干净饭",
+        "onboard_time": 1759134741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403823,
+        "num": 272600,
+        "word": "漂亮的妈 争气的娃",
+        "onboard_time": 1759139001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357673,
+        "num": 264320,
+        "word": "海陆瘦成纸片人",
+        "onboard_time": 1759143441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226202,
+        "num": 255515,
+        "word": "校园跑APP遭大学生吐槽",
+        "onboard_time": 1759140802,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314097,
+        "num": 245143,
+        "word": "心力受损 长胖",
+        "onboard_time": 1759138100,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240516,
+        "num": 240516,
+        "word": "肖战容祖儿 这是小沈阳的女儿",
+        "onboard_time": 1759128141,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231155,
+        "num": 231155,
+        "word": "王一博 王漂亮",
+        "onboard_time": 1759132880,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126651,
+        "num": 230382,
+        "word": "董璇张维伊婚礼 长辈加桌",
+        "onboard_time": 1759143740,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369108,
+        "num": 229048,
+        "word": "小酒窝发博",
+        "onboard_time": 1759123641,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267930,
+        "num": 226875,
+        "word": "鸡排哥1分钟视频报价仅10元",
+        "onboard_time": 1759138221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252363,
+        "num": 225370,
+        "word": "食品厂工人掉入月饼机器",
+        "onboard_time": 1759135882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224592,
+        "num": 224592,
+        "word": "苏醒被指拉踩河南胡辣汤",
+        "onboard_time": 1759126102,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220577,
+        "num": 220577,
+        "word": "街舞5选手解晓东去世",
+        "onboard_time": 1759130840,
+        "rank": 24,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 164056,
+        "num": 164056,
+        "word": "外交部回应K签",
+        "onboard_time": 1759133480,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49371,
+        "num": 155576,
+        "word": "小沈阳成乐道L90第两万个用户",
+        "onboard_time": 1759142721,
+        "rank": 26,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 153204,
+        "num": 153204,
+        "word": "33岁的周深",
+        "onboard_time": 1759143562,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129848,
+        "num": 152489,
+        "word": "周深奇迹主题曲遥遥MV上线",
+        "onboard_time": 1759129161,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152473,
+        "num": 152473,
+        "word": "邓为越来越大方了",
+        "onboard_time": 1759143681,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 152324,
+        "num": 152324,
+        "word": "乱港分子罗冠聪入境新加坡被拘",
+        "onboard_time": 1759129760,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151581,
+        "num": 151581,
+        "word": "北京火箭云",
+        "onboard_time": 1759144760,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124591,
+        "num": 124591,
+        "word": "外国人被中国超市震惊",
+        "onboard_time": 1759138641,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123508,
+        "num": 123508,
+        "word": "两名失联15岁少女已找到",
+        "onboard_time": 1759130960,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121688,
+        "num": 121688,
+        "word": "倪妮的背不拔罐可惜了",
+        "onboard_time": 1759143861,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120615,
+        "num": 120615,
+        "word": "王楚钦 麒麟",
+        "onboard_time": 1759124301,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119590,
+        "num": 119590,
+        "word": "肖战主演电影国庆首播",
+        "onboard_time": 1759142059,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119469,
+        "num": 119469,
+        "word": "李沐宸肖宇梁同框路透",
+        "onboard_time": 1759144041,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74877,
+        "num": 116960,
+        "word": "路人拍的孙一宁",
+        "onboard_time": 1759144702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32893,
+        "num": 116738,
+        "word": "差点没认出苗苗",
+        "onboard_time": 1759144702,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116737,
+        "num": 116737,
+        "word": "张晚意骑骆驼迷死我了",
+        "onboard_time": 1759140921,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115489,
+        "num": 115489,
+        "word": "停在路上的僵尸车集体不见了",
+        "onboard_time": 1759144281,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112577,
+        "num": 112577,
+        "word": "微信朋友圈照片变清晰",
+        "onboard_time": 1759144041,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110045,
+        "num": 110045,
+        "word": "明家犯罪集团案一审宣判",
+        "onboard_time": 1759136000,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108068,
+        "num": 108068,
+        "word": "易烊千玺狂野时代国内首映",
+        "onboard_time": 1759143980,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103811,
+        "num": 103811,
+        "word": "张馨予大腿肌肉线条",
+        "onboard_time": 1759141400,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100657,
+        "num": 100657,
+        "word": "卫健委回应华山医院做错手术",
+        "onboard_time": 1759141940,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100116,
+        "num": 100116,
+        "word": "王栎鑫说苏新皓像张艺兴",
+        "onboard_time": 1759140682,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98132,
+        "num": 98132,
+        "word": "鸡排哥已经有班味了",
+        "onboard_time": 1759141579,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87301,
+        "num": 95685,
+        "word": "小米手机维修备件价格公布",
+        "onboard_time": 1759142600,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会召开时间#"
+    }
+  }
+}
