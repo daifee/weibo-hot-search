@@ -1,0 +1,410 @@
+{
+  "runTime": 1759128695228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 537460,
+        "num": 1085993,
+        "word": "雨果说国乒统治力变弱了",
+        "onboard_time": 1759122920,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421843,
+        "num": 421843,
+        "word": "清华通报多名师生参与黄牛活动牟利",
+        "onboard_time": 1759114400,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 23801,
+        "num": 417385,
+        "word": "各地都换上了国庆限定皮肤",
+        "onboard_time": 1759104501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744601,
+        "num": 414303,
+        "word": "女子称子宫被装监听器起诉医院",
+        "onboard_time": 1759119740,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450352,
+        "num": 404128,
+        "word": "中日混血在日本遭歧视",
+        "onboard_time": 1759122920,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1129905,
+        "num": 398381,
+        "word": "小酒窝发博",
+        "onboard_time": 1759123641,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 487606,
+        "num": 391131,
+        "word": "杨幂大光明",
+        "onboard_time": 1759125560,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389865,
+        "num": 389865,
+        "word": "鸡排哥称有男科医院来蹭流量",
+        "onboard_time": 1759119922,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351765,
+        "num": 351765,
+        "word": "金饰价格涨到1115元",
+        "onboard_time": 1759125321,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 306350,
+        "num": 306350,
+        "word": "王健林还剩什么资产",
+        "onboard_time": 1759122802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789194,
+        "num": 299019,
+        "word": "肖战容祖儿 这是小沈阳的女儿",
+        "onboard_time": 1759128141,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 450272,
+        "num": 297567,
+        "word": "苏醒被指拉踩河南胡辣汤",
+        "onboard_time": 1759126102,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288445,
+        "num": 288445,
+        "word": "闫妮魏大勋不许再酗酒了",
+        "onboard_time": 1759120583,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287111,
+        "num": 287111,
+        "word": "男子停车费超20000000不敢取车",
+        "onboard_time": 1759117880,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248403,
+        "num": 248403,
+        "word": "花海送皮肤",
+        "onboard_time": 1759126280,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236713,
+        "num": 236713,
+        "word": "王楚钦 麒麟",
+        "onboard_time": 1759124301,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207959,
+        "num": 207959,
+        "word": "男子政审时发现被患精神分裂11年",
+        "onboard_time": 1759127240,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166768,
+        "num": 182228,
+        "word": "闫妮 发疯的香蕉",
+        "onboard_time": 1759125740,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168673,
+        "num": 168673,
+        "word": "九三阅兵礼宾车正陆续返还车主",
+        "onboard_time": 1759102820,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60274,
+        "num": 167045,
+        "word": "毛不易分享睡眠神器",
+        "onboard_time": 1759126759,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341507,
+        "num": 167022,
+        "word": "肖战婉拒签名",
+        "onboard_time": 1759115900,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166931,
+        "num": 166931,
+        "word": "特斯拉技术员被机器人打成重伤",
+        "onboard_time": 1759127721,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165135,
+        "num": 165135,
+        "word": "时代少年团给丁程鑫送花篮",
+        "onboard_time": 1759127659,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151669,
+        "num": 151669,
+        "word": "千里寻椰 光子嫩肤二度烧伤",
+        "onboard_time": 1759109180,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145833,
+        "num": 145833,
+        "word": "金价",
+        "onboard_time": 1759127479,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92644,
+        "num": 145619,
+        "word": "二十届四中全会10月20日至23日召开",
+        "onboard_time": 1759128501,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145584,
+        "num": 145584,
+        "word": "赵丽颖工作室取消行程图",
+        "onboard_time": 1759119562,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145455,
+        "num": 145455,
+        "word": "爱奇艺尖叫之夜阵容",
+        "onboard_time": 1759127001,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144731,
+        "num": 144731,
+        "word": "女子商场发飙砸玉器店",
+        "onboard_time": 1759127420,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140976,
+        "num": 140976,
+        "word": "四种食物最好不要空腹吃",
+        "onboard_time": 1759125740,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136132,
+        "num": 136132,
+        "word": "王乐晨卢远异地恋分歧",
+        "onboard_time": 1759126822,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131051,
+        "num": 131051,
+        "word": "刘宇宁说有龚俊在真好",
+        "onboard_time": 1759128141,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129368,
+        "num": 129368,
+        "word": "万千惠妈妈回老家了",
+        "onboard_time": 1759128260,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128804,
+        "num": 128804,
+        "word": "甲状腺正在悄悄为你的熬夜买单",
+        "onboard_time": 1759112240,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127733,
+        "num": 127733,
+        "word": "ally拒绝恋综导演邀请",
+        "onboard_time": 1759127780,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125993,
+        "num": 125993,
+        "word": "林高远说很久没赢球了",
+        "onboard_time": 1759126641,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122963,
+        "num": 122963,
+        "word": "清华教职工因违规报备入校被拘",
+        "onboard_time": 1759113860,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22853,
+        "num": 119858,
+        "word": "宋佳穿个人字拖就去巴黎了",
+        "onboard_time": 1759128440,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82488,
+        "num": 119182,
+        "word": "18岁女孩编造凄惨身世诈骗160万",
+        "onboard_time": 1759128561,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119111,
+        "num": 119111,
+        "word": "韩国各界对中国游客翘首以盼",
+        "onboard_time": 1759123702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101910,
+        "num": 111096,
+        "word": "Dior春夏秀明星阵容",
+        "onboard_time": 1759122262,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120744,
+        "num": 111044,
+        "word": "内娱最会吻的cp上新了",
+        "onboard_time": 1759126641,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110948,
+        "num": 110948,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1759128621,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43333,
+        "num": 105092,
+        "word": "旅游基础旅游搭子就不基础",
+        "onboard_time": 1759123760,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 21603,
+        "num": 103612,
+        "word": "汽车全球化不能偏科",
+        "onboard_time": 1759124241,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103426,
+        "num": 103426,
+        "word": "李现说自己素颜不好看",
+        "onboard_time": 1759122321,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55510,
+        "num": 102066,
+        "word": "女子称退票被要求证明外公是外公",
+        "onboard_time": 1759127060,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102065,
+        "num": 102065,
+        "word": "第十五个五年规划",
+        "onboard_time": 1759128680,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100713,
+        "num": 100713,
+        "word": "王凯两年后一出手就是daddy级别",
+        "onboard_time": 1759121421,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98421,
+        "num": 98421,
+        "word": "国庆中秋出行避开这2个客流高峰",
+        "onboard_time": 1759101739,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好为党育才为党献策#"
+    }
+  }
+}

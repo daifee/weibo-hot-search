@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759127950409,
+  "endTime": 1759128695228,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -105,6 +105,14 @@
       "onboard_time": 1759118960,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 789194,
+      "num": 299019,
+      "word": "肖战容祖儿 这是小沈阳的女儿",
+      "onboard_time": 1759128141,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 777058,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487606,
+      "num": 436099,
+      "word": "杨幂大光明",
+      "onboard_time": 1759125560,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485305,
       "num": 212368,
       "word": "头姐拍的肖战",
@@ -275,12 +291,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 436099,
-      "num": 436099,
-      "word": "杨幂大光明",
-      "onboard_time": 1759125560,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 450272,
+      "num": 342576,
+      "word": "苏醒被指拉踩河南胡辣汤",
+      "onboard_time": 1759126102,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 415589,
@@ -289,14 +305,6 @@
       "onboard_time": 1759074082,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 404082,
-      "num": 342576,
-      "word": "苏醒被指拉踩河南胡辣汤",
-      "onboard_time": 1759126102,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 399315,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 388949,
-      "num": 261573,
+      "num": 287111,
       "word": "男子停车费超20000000不敢取车",
       "onboard_time": 1759117880,
       "rank": 20,
@@ -361,6 +369,14 @@
       "onboard_time": 1759124720,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 351765,
+      "num": 351765,
+      "word": "金饰价格涨到1115元",
+      "onboard_time": 1759125321,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 335496,
@@ -419,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282688,
-      "num": 282688,
-      "word": "金饰价格涨到1115元",
-      "onboard_time": 1759125321,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 282592,
       "num": 282592,
       "word": "井迪忙活了一天发现才早上七点半",
@@ -457,6 +465,14 @@
       "onboard_time": 1759111879,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 248403,
+      "num": 248403,
+      "word": "花海送皮肤",
+      "onboard_time": 1759126280,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 237593,
@@ -537,6 +553,14 @@
       "onboard_time": 1759121421,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207959,
+      "num": 207959,
+      "word": "男子政审时发现被患精神分裂11年",
+      "onboard_time": 1759127240,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207850,
@@ -633,14 +657,6 @@
       "onboard_time": 1759115241,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191564,
-      "num": 191564,
-      "word": "花海送皮肤",
-      "onboard_time": 1759126280,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 191400,
@@ -811,11 +827,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166931,
+      "num": 166931,
+      "word": "特斯拉技术员被机器人打成重伤",
+      "onboard_time": 1759127721,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166507,
       "num": 177269,
       "word": "你跟我说王圣迪长这么大了",
       "onboard_time": 1759121782,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 165135,
+      "num": 165135,
+      "word": "时代少年团给丁程鑫送花篮",
+      "onboard_time": 1759127659,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -979,6 +1011,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145833,
+      "num": 145833,
+      "word": "金价",
+      "onboard_time": 1759127479,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 145455,
+      "num": 145455,
+      "word": "爱奇艺尖叫之夜阵容",
+      "onboard_time": 1759127001,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144731,
+      "num": 144731,
+      "word": "女子商场发飙砸玉器店",
+      "onboard_time": 1759127420,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144489,
       "num": 144489,
       "word": "汪苏泷台州抢票",
@@ -993,6 +1049,14 @@
       "onboard_time": 1759076301,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140976,
+      "num": 140976,
+      "word": "四种食物最好不要空腹吃",
+      "onboard_time": 1759125740,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140795,
@@ -1075,14 +1139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134751,
-      "num": 134751,
-      "word": "爱奇艺尖叫之夜阵容",
-      "onboard_time": 1759127001,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134621,
       "num": 134621,
       "word": "猫 帮我把乳牙收起来",
@@ -1099,14 +1155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133943,
-      "num": 136935,
-      "word": "时代少年团给丁程鑫送花篮",
-      "onboard_time": 1759127659,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132887,
       "num": 215137,
       "word": "王健林已卖掉85个万达广场",
@@ -1119,6 +1167,22 @@
       "num": 132805,
       "word": "赵今麦天使生日照",
       "onboard_time": 1759111279,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131051,
+      "num": 131051,
+      "word": "刘宇宁说有龚俊在真好",
+      "onboard_time": 1759128141,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129368,
+      "num": 129368,
+      "word": "万千惠妈妈回老家了",
+      "onboard_time": 1759128260,
       "rank": 32,
       "category": "艺人"
     },
@@ -1161,14 +1225,6 @@
       "onboard_time": 1759122681,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125378,
-      "num": 125378,
-      "word": "男子政审时发现被患精神分裂11年",
-      "onboard_time": 1759127240,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125002,
@@ -1259,12 +1315,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120990,
-      "num": 120990,
-      "word": "特斯拉技术员被机器人打成重伤",
-      "onboard_time": 1759127721,
-      "rank": 36,
-      "category": "海外新闻"
+      "raw_hot": 120744,
+      "num": 118355,
+      "word": "内娱最会吻的cp上新了",
+      "onboard_time": 1759126641,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 120331,
@@ -1275,28 +1331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118355,
-      "num": 118355,
-      "word": "内娱最会吻的cp上新了",
-      "onboard_time": 1759126641,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117989,
       "num": 117989,
       "word": "十一后一口价黄金涨幅30%",
       "onboard_time": 1759114699,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117518,
-      "num": 117518,
-      "word": "金价",
-      "onboard_time": 1759127479,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 115818,
@@ -1339,20 +1379,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110948,
+      "num": 110948,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1759128621,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109917,
       "num": 109917,
       "word": "余承东祝用户节日快乐",
       "onboard_time": 1759115839,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 109565,
-      "num": 109565,
-      "word": "女子商场发飙砸玉器店",
-      "onboard_time": 1759127420,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109473,
@@ -1467,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102065,
+      "num": 102065,
+      "word": "第十五个五年规划",
+      "onboard_time": 1759128680,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101594,
       "num": 101594,
       "word": "王楚钦训练时也有神球",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1759070246,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92644,
+      "num": 145619,
+      "word": "二十届四中全会10月20日至23日召开",
+      "onboard_time": 1759128501,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91194,
@@ -1657,6 +1713,14 @@
       "onboard_time": 1759104801,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82488,
+      "num": 119182,
+      "word": "18岁女孩编造凄惨身世诈骗160万",
+      "onboard_time": 1759128561,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82006,
@@ -1803,6 +1867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 60274,
+      "num": 167045,
+      "word": "毛不易分享睡眠神器",
+      "onboard_time": 1759126759,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60238,
       "num": 79183,
       "word": "资产上亿女老板失联前称别找自己",
@@ -1849,14 +1921,6 @@
       "onboard_time": 1759101500,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56912,
-      "num": 160461,
-      "word": "毛不易分享睡眠神器",
-      "onboard_time": 1759126759,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 56505,
@@ -1992,6 +2056,14 @@
       "word": "杨博文 在公司的各个角落出现",
       "onboard_time": 1759083914,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22853,
+      "num": 119858,
+      "word": "宋佳穿个人字拖就去巴黎了",
+      "onboard_time": 1759128440,
+      "rank": 37,
       "category": "艺人"
     },
     {
