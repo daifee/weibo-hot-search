@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/29 00:27:01 ~ 2025/09/29 16:49:05
+本榜单时间：2025/09/29 00:27:01 ~ 2025/09/29 17:29:58
 </p>
 </blockquote>
 <p>
@@ -45,8 +45,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E8%AF%B4%E8%AE%A8%E5%8E%8C%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%AE%9D%E5%A6%88%E6%80%BC%E5%93%AD%23" target="weibo">
+女子高铁说讨厌小孩被宝妈怼哭（热度：1299361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E5%8F%91%E5%8D%9A%23" target="weibo">
 小酒窝发博（热度：1173756）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A211%E4%BA%BA%E6%AD%BB%E5%88%91%23" target="weibo">
+明家犯罪集团11人死刑（热度：1144589）
 </a>
 </li>
 
@@ -171,6 +183,12 @@ K签（热度：1042667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%A7%82%E4%BC%97%E7%BC%98%23" target="weibo">
+沈佳润观众缘（热度：599162）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B4%E9%81%87%E6%B0%B8%E5%AE%89%E5%AE%9A%E6%A1%A3%23" target="weibo">
 宴遇永安定档（热度：594470）
 </a>
@@ -209,6 +227,12 @@ K签（热度：1042667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%B6%A8%E5%88%B01115%E5%85%83%23" target="weibo">
 金饰价格涨到1115元（热度：575184）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%9F%E5%93%81%E5%8E%82%E5%B7%A5%E4%BA%BA%E6%8E%89%E5%85%A5%E6%9C%88%E9%A5%BC%E6%9C%BA%E5%99%A8%23" target="weibo">
+食品厂工人掉入月饼机器（热度：553936）
 </a>
 </li>
 
@@ -279,6 +303,12 @@ K签（热度：1042667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%A2%9E%E8%AE%BEK%E5%AD%97%E7%AD%BE%E8%AF%81%23" target="weibo">
+中方决定增设K字签证（热度：452851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E8%B7%91%E8%B0%83%23" target="weibo">
 苏醒回应跑调（热度：450843）
 </a>
@@ -287,6 +317,18 @@ K签（热度：1042667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E8%88%9E5%E9%80%89%E6%89%8B%E8%A7%A3%E6%99%93%E4%B8%9C%E5%8E%BB%E4%B8%96%23" target="weibo">
 街舞5选手解晓东去世（热度：431089）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E6%B6%89%E8%B5%8C%E8%AF%88%E8%B6%85100%E4%BA%BF%E5%85%83%23" target="weibo">
+明家涉赌诈超100亿元（热度：426028）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%89%E5%B7%A1%E9%80%81%E5%87%BA%E8%BF%91%E7%99%BE%E4%B8%87%E5%A5%96%E5%93%81%23" target="weibo">
+王源三巡送出近百万奖品（热度：419817）
 </a>
 </li>
 
@@ -339,12 +381,6 @@ K签（热度：1042667）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%A2%9E%E8%AE%BEK%E5%AD%97%E7%AD%BE%E8%AF%81%23" target="weibo">
-中方决定增设K字签证（热度：367179）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E8%BF%98%E5%89%A9%E4%BB%80%E4%B9%88%E8%B5%84%E4%BA%A7%23" target="weibo">
 王健林还剩什么资产（热度：360820）
 </a>
@@ -375,6 +411,12 @@ K签（热度：1042667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E8%B5%B7%E8%AF%89%E8%A7%A3%E7%BA%A6%E6%88%90%E5%91%98%23" target="weibo">
+丝芭传媒起诉解约成员（热度：335427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E7%8A%B6%E8%85%BA%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%86%AC%E5%A4%9C%E4%B9%B0%E5%8D%95%23" target="weibo">
 甲状腺正在悄悄为你的熬夜买单（热度：331965）
 </a>
@@ -399,12 +441,6 @@ K签（热度：1042667）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E8%B5%B7%E8%AF%89%E8%A7%A3%E7%BA%A6%E6%88%90%E5%91%98%23" target="weibo">
-丝芭传媒起诉解约成员（热度：303698）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
 心动的信号（热度：295661）
 </a>
@@ -413,12 +449,6 @@ K签（热度：1042667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%8E%84%E5%AD%A6%E5%A4%A7%E5%B8%88%E9%AA%97%E5%B1%80%23" target="weibo">
 央视曝光玄学大师骗局（热度：293254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%89%E5%B7%A1%E9%80%81%E5%87%BA%E8%BF%91%E7%99%BE%E4%B8%87%E5%A5%96%E5%93%81%23" target="weibo">
-王源三巡送出近百万奖品（热度：292110）
 </a>
 </li>
 
@@ -621,6 +651,12 @@ iPhone17系列展示机刮痕原因（热度：215571）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
+明家犯罪集团案一审宣判（热度：192481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%90%BB%E6%88%8F%23" target="weibo">
 尚公主吻戏（热度：191960）
 </a>
@@ -705,12 +741,6 @@ iPhone17系列展示机刮痕原因（热度：215571）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E8%AF%B4%E8%AE%A8%E5%8E%8C%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%AE%9D%E5%A6%88%E6%80%BC%E5%93%AD%23" target="weibo">
-女子高铁说讨厌小孩被宝妈怼哭（热度：174470）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%A3%E5%B8%83%E9%B8%BF%E8%92%995%E7%BB%88%E7%AB%AF%E8%AE%BE%E5%A4%87%E8%B6%852000%E4%B8%87%23" target="weibo">
 余承东宣布鸿蒙5终端设备超2000万（热度：172957）
 </a>
@@ -719,6 +749,12 @@ iPhone17系列展示机刮痕原因（热度：215571）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%20%E5%A5%BD%E6%9C%9B%E6%B0%B4%23" target="weibo">
 恋与制作人 好望水（热度：171818）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%9C%8914%E9%A1%B9%E7%BD%AA%E5%90%8D%23" target="weibo">
+明家犯罪集团有14项罪名（热度：171779）
 </a>
 </li>
 
@@ -951,6 +987,12 @@ A股新能源领涨市场（热度：157185）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%8E%BB%E5%90%88%E8%82%A5%E8%BF%98%E6%98%AF%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
+国庆去合肥还是意大利（热度：137146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%90%84%E7%95%8C%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%BF%98%E9%A6%96%E4%BB%A5%E7%9B%BC%23" target="weibo">
 韩国各界对中国游客翘首以盼（热度：137045）
 </a>
@@ -995,6 +1037,12 @@ ally拒绝恋综导演邀请（热度：136932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BB%E6%A2%A6%E9%83%BD%E7%A0%B4%E7%A2%8E%23" target="weibo">
 幻梦都破碎（热度：134545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%AE%8B%E4%BD%B3%E7%BB%99%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%8F%91%E4%BA%86%E7%A5%9D%E7%A6%8F%23" target="weibo">
+杨幂宋佳给辛芷蕾发了祝福（热度：133665）
 </a>
 </li>
 
@@ -1049,6 +1097,12 @@ ally拒绝恋综导演邀请（热度：136932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A7%E9%BE%99%E6%96%B0%E8%83%BD%E6%B6%A8%E5%81%9C%23" target="weibo">
 卧龙新能涨停（热度：129221）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B1%B1%E5%8C%BB%E9%99%A2%E5%B0%86%E5%B7%A6%E8%BE%93%E5%B0%BF%E7%AE%A1%E6%89%8B%E6%9C%AF%E5%81%9A%E6%88%90%E5%8F%B3%E4%BE%A7%23" target="weibo">
+华山医院将左输尿管手术做成右侧（热度：128429）
 </a>
 </li>
 
@@ -1161,6 +1215,12 @@ Dior春夏秀明星阵容（热度：123093）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23S15%E5%85%A5%E5%9B%B4%E8%B5%9B%E5%8F%8A%E7%91%9E%E5%A3%AB%E8%BD%AE%E8%B5%9B%E7%A8%8B%23" target="weibo">
+S15入围赛及瑞士轮赛程（热度：120957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23" target="weibo">
 易烊千玺轻舟已过万重山（热度：120714）
 </a>
@@ -1173,14 +1233,38 @@ Dior春夏秀明星阵容（热度：123093）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%A4%A7%E5%85%89%E6%98%8E%23" target="weibo">
+章子怡大光明（热度：119828）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E8%83%8C%E5%90%8E%E7%8E%AF%E6%8A%B1%E7%8E%8B%E6%BA%90%23" target="weibo">
 林依轮背后环抱王源（热度：119033）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
+赴山海（热度：118017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%80%E5%90%8E%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%BB%84%E9%87%91%E6%B6%A8%E5%B9%8530%25%23" target="weibo">
 十一后一口价黄金涨幅30%（热度：117989）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E4%B9%9F%E5%88%B0%E4%BA%86%E5%BD%AD%E6%98%B1%E7%95%85%E6%9D%A5%E5%90%91%E5%BE%80%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
+张子枫也到了彭昱畅来向往的年纪（热度：117564）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%8C%85%E6%8F%BDLCK%E6%94%B6%E8%A7%86%E7%8E%87%E5%89%8D%E4%BA%94%23" target="weibo">
+T1包揽LCK收视率前五（热度：117240）
 </a>
 </li>
 
@@ -1193,6 +1277,12 @@ Dior春夏秀明星阵容（热度：123093）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%A5%B3%E4%B8%BB%E6%98%AF%E5%87%BA%E6%B7%A4%E6%B3%A5%E8%80%8C%E5%85%A8%E6%9F%93%E5%95%8A%23" target="weibo">
 谁家女主是出淤泥而全染啊（热度：115537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%88%E5%90%8E%E7%AA%81%E5%8F%98%23" target="weibo">
+A股午后突变（热度：114180）
 </a>
 </li>
 
@@ -1215,12 +1305,6 @@ Dior春夏秀明星阵容（热度：123093）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%AE%8B%E4%BD%B3%E7%BB%99%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%8F%91%E4%BA%86%E7%A5%9D%E7%A6%8F%23" target="weibo">
-杨幂宋佳给辛芷蕾发了祝福（热度：111066）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%BB%98%E6%97%85%E4%BA%BA%23" target="weibo">
 时空中的绘旅人（热度：110948）
 </a>
@@ -1239,8 +1323,20 @@ Dior春夏秀明星阵容（热度：123093）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%9B%BD%E9%99%85%E5%B7%A8%E6%98%9FT%E6%81%A4%23" target="weibo">
+辛芷蕾 国际巨星T恤（热度：109669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E8%BD%AE%E7%B2%BE%E5%BD%A9%E9%95%9C%E5%A4%B4%23" target="weibo">
 王曼昱首轮精彩镜头（热度：109473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%E5%B0%B1%E5%A4%9F%E4%BA%86%23" target="weibo">
+国庆出游一件衣服就够了（热度：108708）
 </a>
 </li>
 
@@ -1335,8 +1431,8 @@ A股（热度：106186）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%9B%BD%E9%99%85%E5%B7%A8%E6%98%9FT%E6%81%A4%23" target="weibo">
-辛芷蕾 国际巨星T恤（热度：102218）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%91%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%23" target="weibo">
+乌克兰向日本道歉（热度：102337）
 </a>
 </li>
 
@@ -1563,6 +1659,12 @@ AG对战EDGM（热度：86671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%957%E6%9C%88%E5%A5%B3%E5%AD%90%E6%8E%92%E9%98%9F4%E5%B0%8F%E6%97%B6%E4%B9%B0%E9%B8%A1%E6%8E%92%E8%8E%B7%E5%85%8D%E5%8D%95%23" target="weibo">
+孕7月女子排队4小时买鸡排获免单（热度：82104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E6%8C%81%E6%9C%89%E6%AF%94%E7%89%B9%E5%B8%81%E4%BB%A5%E5%A4%AA%E5%9D%8A%23" target="weibo">
 库克持有比特币以太坊（热度：82006）
 </a>
@@ -1619,6 +1721,12 @@ AG对战EDGM（热度：86671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B5%B7%E6%BB%A9%E5%BF%AB%E6%88%90%E5%8C%97%E7%BE%8E%E7%89%88%E6%81%92%E6%B2%B3%23" target="weibo">
 加拿大海滩快成北美版恒河（热度：72445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E7%9A%84%E5%B0%8F%E7%8B%90%E7%8B%B8%E5%9B%9B%E5%B2%81%E4%BA%86%23" target="weibo">
+全世界最好的小狐狸四岁了（热度：71731）
 </a>
 </li>
 
@@ -1869,6 +1977,12 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AE%8C%E6%88%90%E5%8D%81%E5%9B%9B%E4%BA%94%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+高质量完成十四五规划系列发布会（热度：23980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E7%A9%BF%E4%B8%AA%E4%BA%BA%E5%AD%97%E6%8B%96%E5%B0%B1%E5%8E%BB%E5%B7%B4%E9%BB%8E%E4%BA%86%23" target="weibo">
 宋佳穿个人字拖就去巴黎了（热度：22853）
 </a>
@@ -1929,6 +2043,12 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%E6%90%9E%E5%AE%9A%E5%81%87%E6%9C%9F%E6%88%B7%E5%A4%96%E7%A9%BF%E6%90%AD%23" target="weibo">
+一件衣服搞定假期户外穿搭（热度：6918）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E6%AD%A3%E6%BE%8E%E6%B9%83%23" target="weibo">
 青春正澎湃（热度：3106）
 </a>
@@ -1961,6 +2081,12 @@ BV设计师首秀（热度：39147）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%8F%AC%E5%BC%80%E6%97%B6%E9%97%B4%23%23" target="weibo">
 #二十届四中全会召开时间#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%809%E6%9C%8829%E6%97%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
+#中共中央政治局9月29日召开会议#
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 16:49:05
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 17:29:58
 </p>
 </blockquote>
 <p>
@@ -2313,6 +2313,12 @@ AG夏决冠军（热度：1374157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E8%AF%B4%E8%AE%A8%E5%8E%8C%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%AE%9D%E5%A6%88%E6%80%BC%E5%93%AD%23" target="weibo">
+女子高铁说讨厌小孩被宝妈怼哭（热度：1299361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%85%9A%E6%8C%87%E6%8C%A5%20%E8%83%BD%E6%89%93%E8%83%9C%E4%BB%97%23" target="weibo">
 听党指挥 能打胜仗（热度：1298999）
 </a>
@@ -2933,6 +2939,12 @@ wtt（热度：1154727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A8%81%E8%83%81%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%23" target="weibo">
 以色列威胁不到中国手机（热度：1145408）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A211%E4%BA%BA%E6%AD%BB%E5%88%91%23" target="weibo">
+明家犯罪集团11人死刑（热度：1144589）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ BLG对战TES（热度：746464）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E7%A7%B0%E9%80%9F%E5%86%BB%E6%B2%B9%E7%82%B8%E8%8C%84%E5%AD%90%E6%98%AF%E5%A4%96%E5%8D%96%E6%AC%BE%23" target="weibo">
-西贝厨师称速冻油炸茄子是外卖款（热度：735775）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23" target="weibo">
-法考（热度：735479）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6575,6 +6575,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%8F%AC%E5%BC%80%E6%97%B6%E9%97%B4%23%23" target="weibo">
 #二十届四中全会召开时间#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%809%E6%9C%8829%E6%97%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
+#中共中央政治局9月29日召开会议#
 </a>
 </li>
 
