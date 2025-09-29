@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759150411212,
+  "endTime": 1759151231944,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1013867,
+      "num": 1162218,
+      "word": "北京天空",
+      "onboard_time": 1759144341,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1012419,
       "num": 1161987,
       "word": "iPhone 调休闹钟",
@@ -283,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 968494,
-      "num": 1154959,
-      "word": "北京天空",
-      "onboard_time": 1759144341,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 962864,
       "num": 215593,
       "word": "华南理工校内车祸遇难者同学发声",
@@ -337,6 +337,14 @@
       "onboard_time": 1759102820,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 925837,
+      "num": 355130,
+      "word": "差点没认出苗苗",
+      "onboard_time": 1759144702,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 920937,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 848890,
-      "num": 290260,
+      "num": 336133,
       "word": "公公葬礼上女子发现丈夫竟出轨16年",
       "onboard_time": 1759139180,
       "rank": 10,
@@ -547,20 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 677790,
-      "num": 286575,
-      "word": "差点没认出苗苗",
-      "onboard_time": 1759144702,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 677050,
       "num": 910845,
       "word": "航班提前15小时起飞惊呆乘客",
       "onboard_time": 1758987202,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 671940,
+      "num": 671940,
+      "word": "陈俊菘3比2张本智和",
+      "onboard_time": 1759149860,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 667817,
@@ -683,19 +691,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599211,
+      "num": 599211,
+      "word": "董璇张维伊婚礼 长辈加桌",
+      "onboard_time": 1759143740,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 597594,
       "num": 284000,
       "word": "时代少年团 台偶串烧",
       "onboard_time": 1759063523,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 594751,
-      "num": 533853,
-      "word": "董璇张维伊婚礼 长辈加桌",
-      "onboard_time": 1759143740,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -1011,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 470974,
+      "num": 352333,
+      "word": "瘦10斤比我瘦30斤还明显",
+      "onboard_time": 1759146860,
+      "rank": 11,
+      "category": "运动健身,情感"
+    },
+    {
       "raw_hot": 467673,
       "num": 438362,
       "word": "肖战容祖儿碰保温杯",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1758965180,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443278,
+      "num": 443278,
+      "word": "河北天空",
+      "onboard_time": 1759145481,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439492,
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 404425,
-      "num": 265477,
+      "num": 309136,
       "word": "海陆瘦成纸片人",
       "onboard_time": 1759143441,
       "rank": 14,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1759119922,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396520,
-      "num": 284514,
-      "word": "瘦10斤比我瘦30斤还明显",
-      "onboard_time": 1759146860,
-      "rank": 11,
-      "category": "运动健身,情感"
     },
     {
       "raw_hot": 394338,
@@ -1339,12 +1355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371494,
-      "num": 371494,
-      "word": "河北天空",
-      "onboard_time": 1759145481,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 373783,
+      "num": 373783,
+      "word": "郑钦文vs诺斯科娃",
+      "onboard_time": 1759145060,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 370885,
@@ -1667,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283137,
+      "num": 283137,
+      "word": "微信朋友圈照片变清晰",
+      "onboard_time": 1759144041,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 282592,
       "num": 282592,
       "word": "井迪忙活了一天发现才早上七点半",
@@ -1697,14 +1721,6 @@
       "onboard_time": 1759065144,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266733,
-      "num": 266733,
-      "word": "微信朋友圈照片变清晰",
-      "onboard_time": 1759144041,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 264356,
@@ -1843,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238200,
+      "num": 238200,
+      "word": "邓为变壮",
+      "onboard_time": 1759149320,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237593,
       "num": 237593,
       "word": "王楚钦 麒麟",
@@ -1923,6 +1947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 227251,
+      "num": 227251,
+      "word": "郑钦文中网退赛",
+      "onboard_time": 1759150939,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225506,
       "num": 177521,
       "word": "周柯宇战至巅峰",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1759074144,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222383,
+      "num": 222383,
+      "word": "警惕肺癌早期的几个信号",
+      "onboard_time": 1759147880,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 222353,
@@ -1993,6 +2033,14 @@
       "onboard_time": 1758983301,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 216877,
+      "num": 216877,
+      "word": "宋祖儿 雪地玫瑰妆",
+      "onboard_time": 1759150040,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 215571,
@@ -2089,6 +2137,14 @@
       "onboard_time": 1759065144,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206518,
+      "num": 206518,
+      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+      "onboard_time": 1759150341,
+      "rank": 26,
+      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 205099,
@@ -2267,14 +2323,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 195698,
-      "num": 195698,
-      "word": "郑钦文vs诺斯科娃",
-      "onboard_time": 1759145060,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195445,
       "num": 195445,
       "word": "屠洪刚 宝刀未老",
@@ -2392,6 +2440,14 @@
       "word": "王楚钦11比2张禹珍",
       "onboard_time": 1759064304,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191459,
+      "num": 191459,
+      "word": "张本智和止步中国大满贯首轮",
+      "onboard_time": 1759150881,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -2779,14 +2835,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 170647,
-      "num": 170647,
-      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
-      "onboard_time": 1759150341,
-      "rank": 26,
-      "category": "演出,民生新闻"
-    },
-    {
       "raw_hot": 169517,
       "num": 169517,
       "word": "湾区升明月彩排",
@@ -2817,6 +2865,14 @@
       "onboard_time": 1759123221,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168478,
+      "num": 168478,
+      "word": "roscoe去世",
+      "onboard_time": 1759150939,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 168418,
@@ -2915,14 +2971,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 165863,
-      "num": 165863,
-      "word": "宋祖儿 雪地玫瑰妆",
-      "onboard_time": 1759150040,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165198,
       "num": 165198,
       "word": "魔法公主的小烦恼开播",
@@ -2953,14 +3001,6 @@
       "onboard_time": 1759110980,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163523,
-      "num": 163523,
-      "word": "邓为变壮",
-      "onboard_time": 1759149320,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 162906,
@@ -3203,6 +3243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155655,
+      "num": 155655,
+      "word": "绝区零",
+      "onboard_time": 1759151002,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155111,
       "num": 155111,
       "word": "微博篮球之夜",
@@ -3315,12 +3363,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150681,
-      "num": 150681,
-      "word": "警惕肺癌早期的几个信号",
-      "onboard_time": 1759147880,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 150530,
+      "num": 150530,
+      "word": "梁伟铿兼职摄影师",
+      "onboard_time": 1759150881,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 149968,
@@ -3497,6 +3545,14 @@
       "onboard_time": 1759076301,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142417,
+      "num": 142417,
+      "word": "肖战澳门出发",
+      "onboard_time": 1759150461,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 142154,
@@ -4083,12 +4139,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126555,
-      "num": 217003,
-      "word": "陈俊菘3比2张本智和",
-      "onboard_time": 1759149860,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 126663,
+      "num": 126663,
+      "word": "鸡排哥",
+      "onboard_time": 1759151182,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126370,
@@ -4315,6 +4371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121743,
+      "num": 121743,
+      "word": "郑钦文顶级票房号召力",
+      "onboard_time": 1759148482,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121688,
       "num": 121688,
       "word": "倪妮的背不拔罐可惜了",
@@ -4393,6 +4457,14 @@
       "onboard_time": 1759110621,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120031,
+      "num": 120031,
+      "word": "技能五子棋",
+      "onboard_time": 1759150400,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 120011,
@@ -4492,7 +4564,7 @@
     },
     {
       "raw_hot": 117597,
-      "num": 218530,
+      "num": 286124,
       "word": "极氪9X引领新一代科技豪华",
       "onboard_time": 1759150101,
       "rank": 18,
@@ -4884,7 +4956,7 @@
     },
     {
       "raw_hot": 107309,
-      "num": 107309,
+      "num": 113489,
       "word": "网传月饼工人掉进机器系谣言",
       "onboard_time": 1759149561,
       "rank": 43,
@@ -5987,6 +6059,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 74597,
+      "num": 124113,
+      "word": "丁程鑫跟人家的头握了一个手",
+      "onboard_time": 1759149981,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74560,
       "num": 115059,
       "word": "航班提前15小时飞乘客损失谁承担",
@@ -6612,7 +6692,7 @@
     },
     {
       "raw_hot": 44003,
-      "num": 221636,
+      "num": 269792,
       "word": "全国都在偶遇樊振东",
       "onboard_time": 1759147580,
       "rank": 17,
@@ -6833,14 +6913,6 @@
       "onboard_time": 1759133782,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29226,
-      "num": 119318,
-      "word": "丁程鑫跟人家的头握了一个手",
-      "onboard_time": 1759149981,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 28729,

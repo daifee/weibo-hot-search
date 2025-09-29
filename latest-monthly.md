@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 20:53:31
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 21:07:11
 </p>
 </blockquote>
 <p>
@@ -3549,6 +3549,12 @@ Metal 田栩宁（热度：1041749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A9%E7%A9%BA%23" target="weibo">
+北京天空（热度：1013867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%20%E8%B0%83%E4%BC%91%E9%97%B9%E9%92%9F%23" target="weibo">
 iPhone 调休闹钟（热度：1012419）
 </a>
@@ -3803,12 +3809,6 @@ iPhone17补贴后售价4999元（热度：997136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E7%BD%91%E5%8F%8B%E5%AE%B6%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%88%AE%E6%9D%A5%E4%B8%80%E5%BC%A0%E5%8D%83%E5%85%83%E6%B8%AF%E5%B8%81%23" target="weibo">
 珠海网友家被台风刮来一张千元港币（热度：971276）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A9%E7%A9%BA%23" target="weibo">
-北京天空（热度：968494）
 </a>
 </li>
 
@@ -4121,6 +4121,12 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23731%E7%A5%A8%E6%88%BF%23" target="weibo">
 731票房（热度：925880）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E6%B2%A1%E8%AE%A4%E5%87%BA%E8%8B%97%E8%8B%97%23" target="weibo">
+差点没认出苗苗（热度：925837）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E7%BA%AF%E9%AA%97cp%23" target="weibo">
 内娱第一纯骗cp（热度：739626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%98%AF%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E5%B0%86%E5%86%9B%23" target="weibo">
-她是新中国第一位女将军（热度：739454）
 </a>
 </li>
 

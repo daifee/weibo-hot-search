@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759150411212,
+  "endTime": 1759151231944,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4715,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1013867,
+      "num": 1162218,
+      "word": "北京天空",
+      "onboard_time": 1759144341,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1012419,
       "num": 1161987,
       "word": "iPhone 调休闹钟",
@@ -5056,14 +5064,6 @@
       "word": "珠海网友家被台风刮来一张千元港币",
       "onboard_time": 1758767060,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 968494,
-      "num": 1154959,
-      "word": "北京天空",
-      "onboard_time": 1759144341,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -5481,6 +5481,14 @@
       "onboard_time": 1758191362,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 925837,
+      "num": 355130,
+      "word": "差点没认出苗苗",
+      "onboard_time": 1759144702,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 925829,
@@ -6412,7 +6420,7 @@
     },
     {
       "raw_hot": 848890,
-      "num": 290260,
+      "num": 336133,
       "word": "公公葬礼上女子发现丈夫竟出轨16年",
       "onboard_time": 1759139180,
       "rank": 10,
@@ -9019,14 +9027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 677790,
-      "num": 286575,
-      "word": "差点没认出苗苗",
-      "onboard_time": 1759144702,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 677050,
       "num": 910845,
       "word": "航班提前15小时起飞惊呆乘客",
@@ -9081,6 +9081,14 @@
       "onboard_time": 1757843361,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 671940,
+      "num": 671940,
+      "word": "陈俊菘3比2张本智和",
+      "onboard_time": 1759149860,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 671372,
@@ -10515,6 +10523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 599211,
+      "num": 599211,
+      "word": "董璇张维伊婚礼 长辈加桌",
+      "onboard_time": 1759143740,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598828,
       "num": 598828,
       "word": "主播逃税超243万被追缴402万",
@@ -10617,14 +10633,6 @@
       "onboard_time": 1757670021,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 594751,
-      "num": 533853,
-      "word": "董璇张维伊婚礼 长辈加桌",
-      "onboard_time": 1759143740,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 594470,
@@ -14187,6 +14195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470974,
+      "num": 352333,
+      "word": "瘦10斤比我瘦30斤还明显",
+      "onboard_time": 1759146860,
+      "rank": 11,
+      "category": "运动健身,情感"
+    },
+    {
       "raw_hot": 470272,
       "num": 432252,
       "word": "狂飙麻子爆改富二代",
@@ -15201,6 +15217,14 @@
       "onboard_time": 1757901201,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 443278,
+      "num": 443278,
+      "word": "河北天空",
+      "onboard_time": 1759145481,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442989,
@@ -16708,7 +16732,7 @@
     },
     {
       "raw_hot": 404425,
-      "num": 265477,
+      "num": 309136,
       "word": "海陆瘦成纸片人",
       "onboard_time": 1759143441,
       "rank": 14,
@@ -17025,14 +17049,6 @@
       "onboard_time": 1757154621,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396520,
-      "num": 284514,
-      "word": "瘦10斤比我瘦30斤还明显",
-      "onboard_time": 1759146860,
-      "rank": 11,
-      "category": "运动健身,情感"
     },
     {
       "raw_hot": 396264,
@@ -18187,6 +18203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 373783,
+      "num": 373783,
+      "word": "郑钦文vs诺斯科娃",
+      "onboard_time": 1759145060,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373686,
       "num": 373686,
       "word": "问界M7",
@@ -18305,14 +18329,6 @@
       "onboard_time": 1757838503,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371494,
-      "num": 371494,
-      "word": "河北天空",
-      "onboard_time": 1759145481,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 371331,
@@ -22987,6 +23003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283137,
+      "num": 283137,
+      "word": "微信朋友圈照片变清晰",
+      "onboard_time": 1759144041,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 283081,
       "num": 283081,
       "word": "孙颖莎说和王楚钦默契不错",
@@ -24081,14 +24105,6 @@
       "onboard_time": 1756808361,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 266733,
-      "num": 266733,
-      "word": "微信朋友圈照片变清晰",
-      "onboard_time": 1759144041,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 266396,
@@ -26427,6 +26443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238200,
+      "num": 238200,
+      "word": "邓为变壮",
+      "onboard_time": 1759149320,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238173,
       "num": 282272,
       "word": "乔杉妻子莫丹官宣三胎得子",
@@ -27515,6 +27539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227251,
+      "num": 227251,
+      "word": "郑钦文中网退赛",
+      "onboard_time": 1759150939,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "人上班真的不能太勤快",
@@ -28001,6 +28033,14 @@
       "onboard_time": 1756912283,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222383,
+      "num": 222383,
+      "word": "警惕肺癌早期的几个信号",
+      "onboard_time": 1759147880,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 222371,
@@ -28705,6 +28745,14 @@
       "onboard_time": 1757380522,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216877,
+      "num": 216877,
+      "word": "宋祖儿 雪地玫瑰妆",
+      "onboard_time": 1759150040,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 216848,
@@ -30385,6 +30433,14 @@
       "onboard_time": 1758951081,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206518,
+      "num": 206518,
+      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+      "onboard_time": 1759150341,
+      "rank": 26,
+      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 206447,
@@ -32987,14 +33043,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 195698,
-      "num": 195698,
-      "word": "郑钦文vs诺斯科娃",
-      "onboard_time": 1759145060,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195696,
       "num": 195696,
       "word": "小米17续航",
@@ -34337,6 +34385,14 @@
       "onboard_time": 1757323583,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191459,
+      "num": 191459,
+      "word": "张本智和止步中国大满贯首轮",
+      "onboard_time": 1759150881,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 191450,
@@ -39995,14 +40051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170647,
-      "num": 170647,
-      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
-      "onboard_time": 1759150341,
-      "rank": 26,
-      "category": "演出,民生新闻"
-    },
-    {
       "raw_hot": 170597,
       "num": 170597,
       "word": "为啥大连锁餐厅不敢用活鱼",
@@ -40601,6 +40649,14 @@
       "onboard_time": 1757404881,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168478,
+      "num": 168478,
+      "word": "roscoe去世",
+      "onboard_time": 1759150939,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 168459,
@@ -41491,14 +41547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165863,
-      "num": 165863,
-      "word": "宋祖儿 雪地玫瑰妆",
-      "onboard_time": 1759150040,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165854,
       "num": 165854,
       "word": "留饭和剩饭的差别",
@@ -42337,14 +42385,6 @@
       "onboard_time": 1758027564,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163523,
-      "num": 163523,
-      "word": "邓为变壮",
-      "onboard_time": 1759149320,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 163507,
@@ -46995,14 +47035,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 150681,
-      "num": 150681,
-      "word": "警惕肺癌早期的几个信号",
-      "onboard_time": 1759147880,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "李一桐檀健次给好六后期上难度",
@@ -47065,6 +47097,14 @@
       "onboard_time": 1757836882,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150530,
+      "num": 150530,
+      "word": "梁伟铿兼职摄影师",
+      "onboard_time": 1759150881,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 150513,
@@ -50705,6 +50745,14 @@
       "onboard_time": 1758691823,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142417,
+      "num": 142417,
+      "word": "肖战澳门出发",
+      "onboard_time": 1759150461,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 142402,
@@ -58515,6 +58563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126663,
+      "num": 126663,
+      "word": "鸡排哥",
+      "onboard_time": 1759151182,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126662,
       "num": 126662,
       "word": "你的好骗程度到几级",
@@ -58569,14 +58625,6 @@
       "onboard_time": 1757940865,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126555,
-      "num": 217003,
-      "word": "陈俊菘3比2张本智和",
-      "onboard_time": 1759149860,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 126533,
@@ -61187,6 +61235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121743,
+      "num": 121743,
+      "word": "郑钦文顶级票房号召力",
+      "onboard_time": 1759148482,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121710,
       "num": 211294,
       "word": "一口气被26个明星治愈内耗",
@@ -61977,6 +62033,14 @@
       "onboard_time": 1757168364,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120031,
+      "num": 120031,
+      "word": "技能五子棋",
+      "onboard_time": 1758968239,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 120027,
@@ -63228,7 +63292,7 @@
     },
     {
       "raw_hot": 117597,
-      "num": 218530,
+      "num": 286124,
       "word": "极氪9X引领新一代科技豪华",
       "onboard_time": 1759150101,
       "rank": 18,
@@ -68724,7 +68788,7 @@
     },
     {
       "raw_hot": 107309,
-      "num": 107309,
+      "num": 113489,
       "word": "网传月饼工人掉进机器系谣言",
       "onboard_time": 1759149561,
       "rank": 43,
@@ -74633,14 +74697,6 @@
       "onboard_time": 1758354441,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95367,
-      "num": 95367,
-      "word": "技能五子棋",
-      "onboard_time": 1758968239,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 95365,
@@ -81273,6 +81329,14 @@
       "onboard_time": 1758275843,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74597,
+      "num": 124113,
+      "word": "丁程鑫跟人家的头握了一个手",
+      "onboard_time": 1759149981,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 74587,
@@ -88500,7 +88564,7 @@
     },
     {
       "raw_hot": 44003,
-      "num": 221636,
+      "num": 269792,
       "word": "全国都在偶遇樊振东",
       "onboard_time": 1759147580,
       "rank": 17,
@@ -91977,14 +92041,6 @@
       "onboard_time": 1757582011,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29226,
-      "num": 119318,
-      "word": "丁程鑫跟人家的头握了一个手",
-      "onboard_time": 1759149981,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 29201,
