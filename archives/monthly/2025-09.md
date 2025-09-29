@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 07:36:39
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 09:53:17
 </p>
 </blockquote>
 <p>
@@ -3561,6 +3561,12 @@ iPhone16背刺最大一代（热度：1000751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%E6%98%AF%E5%BA%94%E8%AF%A5%E7%9A%84%23" target="weibo">
+女装退货率高是应该的（热度：1000621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%A8%B1%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23" target="weibo">
 欢娱律师声明（热度：1000585）
 </a>
@@ -4023,6 +4029,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E7%A4%BC%E5%AE%BE%E8%BD%A6%E6%AD%A3%E9%99%86%E7%BB%AD%E8%BF%94%E8%BF%98%E8%BD%A6%E4%B8%BB%23" target="weibo">
+九三阅兵礼宾车正陆续返还车主（热度：926112）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23731%E7%A5%A8%E6%88%BF%23" target="weibo">
 731票房（热度：925880）
 </a>
@@ -4127,6 +4139,12 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B9%83%E6%96%87%E5%8A%A9%E7%90%86%E6%8A%8A%E8%BD%A6%E7%A5%A8%E6%97%A5%E6%9C%9F%E4%B9%B0%E9%94%99%E4%BA%86%23" target="weibo">
 李乃文助理把车票日期买错了（热度：907068）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%AA%E6%98%8E%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E5%87%BA%E5%8F%91%E4%BA%86%23" target="weibo">
+聪明的人已经提前出发了（热度：906803）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E9%AD%8F%E6%97%A0%E7%BE%A1%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%81%B5%E5%A5%BD%E7%81%B5%23" target="weibo">
 肖战的魏无羡真的好灵好灵（热度：731502）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%BC%A0%E5%AE%B6%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%8D%E4%BC%9A%E8%80%81%23" target="weibo">
-陈伟霆张家人真的不会老（热度：731454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E5%9B%A0%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%97%8B%E6%9D%86%E8%8F%8C%E6%9A%B4%E7%98%A6%23" target="weibo">
-葛夕因感染幽门螺旋杆菌暴瘦（热度：731452）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E7%AC%AC%E5%9B%9B%E6%9C%9F%E5%B0%81%E7%A5%9E%23" target="weibo">
-花少第四期封神（热度：731245）
 </a>
 </li>
 
