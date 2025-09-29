@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759131587044,
+  "endTime": 1759135017059,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 783431,
+      "num": 278942,
+      "word": "孙俪吃了一段时间的干净饭",
+      "onboard_time": 1759134741,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782573,
       "num": 1125211,
       "word": "遭老板性侵女子回应为何当时没报案",
@@ -593,6 +601,14 @@
       "onboard_time": 1759063523,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 597477,
+      "num": 276736,
+      "word": "两名失联15岁少女已找到",
+      "onboard_time": 1759130960,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 594470,
@@ -899,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460831,
+      "num": 274169,
+      "word": "王一博 王漂亮",
+      "onboard_time": 1759132880,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460288,
       "num": 460288,
       "word": "男子欠5000被催债后说每分钟还50",
@@ -995,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 407283,
+      "num": 253793,
+      "word": "街舞5选手解晓东去世",
+      "onboard_time": 1759130840,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405666,
       "num": 405666,
       "word": "鸡排家族已有9个摊位",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1759119323,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 390359,
+      "num": 272717,
+      "word": "内娱最会吻的cp上新了",
+      "onboard_time": 1759126641,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 389076,
@@ -1187,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 353920,
+      "num": 353920,
+      "word": "金价",
+      "onboard_time": 1759127479,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 346200,
       "num": 218660,
       "word": "魏大勋这段rap",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1759055361,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321080,
+      "num": 321080,
+      "word": "外交部回应K签",
+      "onboard_time": 1759133480,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317928,
@@ -1331,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292110,
+      "num": 292110,
+      "word": "王源三巡送出近百万奖品",
+      "onboard_time": 1759132939,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 290947,
       "num": 290947,
       "word": "暗河传",
@@ -1387,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283649,
+      "num": 283649,
+      "word": "中国K签证在世界范围内引起关注",
+      "onboard_time": 1759133601,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282592,
       "num": 282592,
       "word": "井迪忙活了一天发现才早上七点半",
@@ -1403,8 +1475,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279650,
-      "num": 279650,
+      "raw_hot": 280709,
+      "num": 280709,
       "word": "特斯拉技术员被机器人打成重伤",
       "onboard_time": 1759127721,
       "rank": 36,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1759065144,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268410,
+      "num": 268410,
+      "word": "乱港分子罗冠聪入境新加坡被拘",
+      "onboard_time": 1759129760,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 264356,
@@ -1475,20 +1555,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 259067,
-      "num": 208086,
-      "word": "街舞5选手解晓东去世",
-      "onboard_time": 1759130840,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255951,
       "num": 255951,
       "word": "迪丽热巴迪奥大秀预告",
       "onboard_time": 1759106361,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255596,
+      "num": 270851,
+      "word": "中方决定增设K字签证",
+      "onboard_time": 1759133720,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251190,
@@ -1577,6 +1657,14 @@
       "onboard_time": 1759123760,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236364,
+      "num": 280636,
+      "word": "湖南卫视中秋之夜官宣阵容",
+      "onboard_time": 1759130300,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 236056,
@@ -1707,14 +1795,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 217662,
-      "num": 217662,
-      "word": "金价",
-      "onboard_time": 1759127479,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 215571,
       "num": 215571,
       "word": "iPhone17系列展示机刮痕原因",
@@ -1755,14 +1835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210394,
-      "num": 210394,
-      "word": "湖南卫视中秋之夜官宣阵容",
-      "onboard_time": 1759130300,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 210324,
       "num": 218258,
       "word": "张帅vs阿尼西莫娃",
@@ -1785,6 +1857,14 @@
       "onboard_time": 1759032081,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 208188,
+      "num": 263241,
+      "word": "丝芭传媒起诉解约成员",
+      "onboard_time": 1759131862,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 208064,
@@ -1811,20 +1891,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207375,
-      "num": 207375,
-      "word": "乱港分子罗冠聪入境新加坡被拘",
-      "onboard_time": 1759129760,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 207364,
       "num": 248537,
       "word": "王楚钦中国大满贯2025开门红",
       "onboard_time": 1759065144,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205099,
+      "num": 205099,
+      "word": "时代峰峻回应陈奕恒归队时间",
+      "onboard_time": 1759134741,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 203458,
@@ -2283,6 +2363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 179285,
+      "num": 179285,
+      "word": "女子商场发飙砸玉器店",
+      "onboard_time": 1759127420,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179071,
       "num": 179071,
       "word": "张凌赫i人直播具象化了",
@@ -2427,14 +2515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171312,
-      "num": 171312,
-      "word": "女子商场发飙砸玉器店",
-      "onboard_time": 1759127420,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171199,
       "num": 153087,
       "word": "华南理工大学相关人士发声",
@@ -2449,6 +2529,14 @@
       "onboard_time": 1759053739,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 170585,
+      "num": 170585,
+      "word": "揉面垫 玻璃纤维",
+      "onboard_time": 1759130902,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169517,
@@ -2552,14 +2640,6 @@
       "word": "王健林",
       "onboard_time": 1759027040,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166765,
-      "num": 166765,
-      "word": "两名失联15岁少女已找到",
-      "onboard_time": 1759130960,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -2947,14 +3027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148881,
-      "num": 209691,
-      "word": "内娱最会吻的cp上新了",
-      "onboard_time": 1759126641,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148709,
       "num": 148709,
       "word": "邓为邢菲 乱臣",
@@ -3339,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133179,
+      "num": 133179,
+      "word": "杨紫跳的dejavu手势舞",
+      "onboard_time": 1759134741,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133161,
       "num": 133161,
       "word": "谍报上不封顶",
@@ -3353,6 +3433,14 @@
       "onboard_time": 1759129400,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132877,
+      "num": 132877,
+      "word": "掉了一地水果也掉了一地小朋友",
+      "onboard_time": 1759132160,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 132815,
@@ -3531,6 +3619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127879,
+      "num": 127879,
+      "word": "以前过中秋vs现在过中秋",
+      "onboard_time": 1759133060,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127844,
       "num": 156227,
       "word": "交锋阵容官宣",
@@ -3659,6 +3755,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 123641,
+      "num": 142753,
+      "word": "丁程鑫现身刺杀小说家2首映",
+      "onboard_time": 1759133961,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123525,
       "num": 123525,
       "word": "游客称在景区遭21474836元停车费",
@@ -3689,6 +3793,14 @@
       "onboard_time": 1759122262,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 122452,
+      "num": 122452,
+      "word": "是谁拿到了王源送的手机",
+      "onboard_time": 1759134500,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 122265,
@@ -4129,14 +4241,6 @@
       "onboard_time": 1759042221,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 109488,
-      "num": 109488,
-      "word": "揉面垫 玻璃纤维",
-      "onboard_time": 1759130902,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109473,
@@ -4595,6 +4699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97004,
+      "num": 97004,
+      "word": "大麦网回应女子外公去世退票被刁难",
+      "onboard_time": 1759132221,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96956,
       "num": 132779,
       "word": "孟子义一句话暖邓超一整天",
@@ -4681,6 +4793,22 @@
       "onboard_time": 1759039040,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94425,
+      "num": 94425,
+      "word": "参加阅兵式的礼宾车归还时加满油",
+      "onboard_time": 1759132281,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94198,
+      "num": 94198,
+      "word": "八爪鱼被钓上岸怀抱华为手机",
+      "onboard_time": 1759133301,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94059,
@@ -4825,6 +4953,14 @@
       "onboard_time": 1759056921,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86544,
+      "num": 86544,
+      "word": "王楚钦孙颖莎知己知彼迎来开门红",
+      "onboard_time": 1759132821,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86477,
@@ -5523,6 +5659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 53265,
+      "num": 123683,
+      "word": "太吾绘卷将深度适配鸿蒙",
+      "onboard_time": 1759133901,
+      "rank": 38,
+      "category": "游戏,数码"
+    },
+    {
       "raw_hot": 51436,
       "num": 236393,
       "word": "中式豪华才是顶流",
@@ -5587,6 +5731,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 46895,
+      "num": 122829,
+      "word": "北大哲学系系主任谈文科无用论",
+      "onboard_time": 1759134560,
+      "rank": 39,
+      "category": "议题讨论,教育"
+    },
+    {
       "raw_hot": 46564,
       "num": 55511,
       "word": "纽约抗议者鸣笛不让以总理睡觉",
@@ -5625,6 +5777,14 @@
       "onboard_time": 1759123760,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 43667,
+      "num": 97275,
+      "word": "王楚钦发芽了",
+      "onboard_time": 1759134982,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 43138,
@@ -5825,6 +5985,14 @@
       "onboard_time": 1759057460,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29393,
+      "num": 122521,
+      "word": "辛纳vs马洛桑",
+      "onboard_time": 1759133782,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 28729,
@@ -6065,6 +6233,14 @@
       "onboard_time": 1758998295,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20367,
+      "num": 388532,
+      "word": "2025年中非互联网发展与合作论坛",
+      "onboard_time": 1759134381,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20294,
