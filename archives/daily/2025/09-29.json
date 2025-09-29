@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759153653076,
+  "endTime": 1759155977962,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -187,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 843457,
+      "num": 305787,
+      "word": "疯狂动物城2内地定档",
+      "onboard_time": 1759153822,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 829004,
+      "num": 829004,
+      "word": "微信朋友圈照片变清晰",
+      "onboard_time": 1759144041,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 821805,
       "num": 439209,
       "word": "沈佳润观众缘",
@@ -283,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665616,
+      "num": 273819,
+      "word": "何超莲窦骁领结婚证了吗",
+      "onboard_time": 1759154122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645432,
       "num": 216018,
       "word": "湾区升明月",
@@ -291,12 +315,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 613761,
-      "num": 613761,
-      "word": "微信朋友圈照片变清晰",
-      "onboard_time": 1759144041,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 635082,
+      "num": 599211,
+      "word": "董璇张维伊婚礼 长辈加桌",
+      "onboard_time": 1759143740,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 613539,
@@ -321,14 +345,6 @@
       "onboard_time": 1759113619,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 599211,
-      "num": 599211,
-      "word": "董璇张维伊婚礼 长辈加桌",
-      "onboard_time": 1759143740,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 597508,
@@ -499,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488924,
+      "num": 488924,
+      "word": "roscoe去世",
+      "onboard_time": 1759150939,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 485305,
       "num": 212368,
       "word": "头姐拍的肖战",
@@ -515,12 +539,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 467064,
+      "num": 467064,
+      "word": "孙颖莎也知道防摄像头了",
+      "onboard_time": 1759153340,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460042,
       "num": 460042,
       "word": "将门独后男主90生",
       "onboard_time": 1759142600,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457061,
+      "num": 283573,
+      "word": "敬山水",
+      "onboard_time": 1759152862,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 450843,
@@ -537,6 +577,14 @@
       "onboard_time": 1759145481,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437968,
+      "num": 281744,
+      "word": "苏醒 老歌手的日常",
+      "onboard_time": 1759153701,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 431089,
@@ -715,14 +763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 325890,
-      "num": 299852,
-      "word": "roscoe去世",
-      "onboard_time": 1759150939,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 311204,
       "num": 311204,
       "word": "乱港分子罗冠聪入境新加坡被拘",
@@ -769,6 +809,14 @@
       "onboard_time": 1759071385,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292974,
+      "num": 269873,
+      "word": "肖战澳门出发",
+      "onboard_time": 1759150461,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 290717,
@@ -825,14 +873,6 @@
       "onboard_time": 1759101739,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256251,
-      "num": 256251,
-      "word": "肖战澳门出发",
-      "onboard_time": 1759150461,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 255951,
@@ -931,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222540,
+      "num": 222540,
+      "word": "周深好听根本不挑设备",
+      "onboard_time": 1759154361,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222353,
       "num": 222353,
       "word": "当我嫌弃小猫脚臭",
@@ -979,12 +1027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213510,
-      "num": 258812,
-      "word": "敬山水",
-      "onboard_time": 1759152862,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 210261,
+      "num": 210261,
+      "word": "张予曦出个国怎么美成这样",
+      "onboard_time": 1759155382,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 207850,
@@ -1017,14 +1065,6 @@
       "onboard_time": 1759134741,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204465,
-      "num": 197876,
-      "word": "孙颖莎也知道防摄像头了",
-      "onboard_time": 1759153340,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 202971,
@@ -1219,6 +1259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 181064,
+      "num": 181064,
+      "word": "金子涵粉发寸头",
+      "onboard_time": 1759152561,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179948,
       "num": 214951,
       "word": "王源骄傲 好听",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1759109780,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167904,
+      "num": 167904,
+      "word": "日本网友P图预言反对引进印度人才",
+      "onboard_time": 1759153642,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 166507,
@@ -1596,7 +1652,7 @@
     },
     {
       "raw_hot": 148150,
-      "num": 148150,
+      "num": 215343,
       "word": "狐妖小红娘王权篇预约破400万",
       "onboard_time": 1759153221,
       "rank": 39,
@@ -1620,7 +1676,7 @@
     },
     {
       "raw_hot": 145896,
-      "num": 145896,
+      "num": 619037,
       "word": "试验三十号卫星01和02星发射成功",
       "onboard_time": 1759119323,
       "rank": 34,
@@ -1659,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141257,
+      "num": 218973,
+      "word": "谍报上不封顶",
+      "onboard_time": 1759151841,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140795,
       "num": 140795,
       "word": "淘宝闪购 范丞丞",
@@ -1681,14 +1745,6 @@
       "onboard_time": 1759138880,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139977,
-      "num": 139977,
-      "word": "金子涵粉发寸头",
-      "onboard_time": 1759152561,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 138938,
@@ -1995,6 +2051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 125320,
+      "num": 125320,
+      "word": "星星人",
+      "onboard_time": 1759155863,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 125002,
       "num": 148229,
       "word": "美国一起枪击2死8伤",
@@ -2004,7 +2068,7 @@
     },
     {
       "raw_hot": 124927,
-      "num": 258607,
+      "num": 279697,
       "word": "超靠谱的辅助驾驶",
       "onboard_time": 1759153340,
       "rank": 19,
@@ -2275,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114274,
+      "num": 114274,
+      "word": "男子含着烟头吃饭敲诈面馆",
+      "onboard_time": 1759154841,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114180,
       "num": 114180,
       "word": "A股午后突变",
@@ -2283,20 +2355,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114002,
+      "num": 114002,
+      "word": "极氪9X",
+      "onboard_time": 1759155323,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113587,
       "num": 113587,
       "word": "王楚钦爱就是陪伴",
       "onboard_time": 1759152682,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113548,
-      "num": 113548,
-      "word": "谍报上不封顶",
-      "onboard_time": 1759151841,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 112119,
@@ -3156,7 +3228,7 @@
     },
     {
       "raw_hot": 62580,
-      "num": 162828,
+      "num": 193555,
       "word": "北海小店回应登顶扫街榜全国第一",
       "onboard_time": 1759153221,
       "rank": 35,
@@ -3563,6 +3635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 10430,
+      "num": 211600,
+      "word": "中非互联在厦门双向奔赴了",
+      "onboard_time": 1759155621,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9212,
       "num": 105340,
       "word": "乐山市商业银行回应骗贷33亿案",
@@ -3594,6 +3674,9 @@
     },
     {
       "word": "#中共中央政治局9月29日召开会议#"
+    },
+    {
+      "word": "#系统推进我国宗教中国化#"
     }
   ]
 }
