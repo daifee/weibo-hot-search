@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 04:25:02
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 04:39:06
 </p>
 </blockquote>
 <p>
@@ -5745,6 +5745,12 @@ BV米兰时装周明星状态（热度：30091）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
+邓超 我先看一眼影后（热度：21899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%BC%9A%E5%BD%A9%E5%B8%A6%E5%8F%AC%E5%94%A4%E6%9C%AF%E5%90%A7%23" target="weibo">
 汪苏泷会彩带召唤术吧（热度：21882）
 </a>
@@ -5771,12 +5777,6 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%9B%9E%E5%BA%94%E6%97%B6%E9%9A%9488%E5%A4%A9%E9%87%8D%E8%BF%94%E8%B5%9B%E5%9C%BA%23" target="weibo">
 郑钦文回应时隔88天重返赛场（热度：21462）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
-邓超 我先看一眼影后（热度：21399）
 </a>
 </li>
 
@@ -5853,8 +5853,20 @@ chiikawa新动画（热度：14546）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
+明家犯罪集团致14死6伤（热度：14066）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B9%9F%E6%98%AF%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%97%9B%E5%9F%8E%E4%BA%86%23" target="weibo">
 福州也是汪苏泷痛城了（热度：13670）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E9%94%80%E6%AF%81%E4%B8%8B%E5%B8%82%E7%89%A9%E6%96%99%E8%A2%AB%E6%8C%87%E6%B5%AA%E8%B4%B9%23" target="weibo">
+瑞幸销毁下市物料被指浪费（热度：13527）
 </a>
 </li>
 
@@ -5883,14 +5895,14 @@ chiikawa新动画（热度：14546）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
-明家犯罪集团致14死6伤（热度：12419）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23" target="weibo">
+为中国航天点赞（热度：12367）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23" target="weibo">
-为中国航天点赞（热度：12367）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B8%B8%E8%A1%8C%23" target="weibo">
+日本反移民游行（热度：12320）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 04:25:02
+本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 04:39:06
 </p>
 </blockquote>
 <p>
@@ -387,14 +387,14 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AC%A7%E5%86%A0%E9%A6%96%E7%A7%80%E6%8D%A2%E5%9C%BA%E9%A6%86%23" target="weibo">
-俱乐部为樊振东欧冠首秀换场馆（热度：21817）
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
+邓超 我先看一眼影后（热度：21899）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
-邓超 我先看一眼影后（热度：21399）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AC%A7%E5%86%A0%E9%A6%96%E7%A7%80%E6%8D%A2%E5%9C%BA%E9%A6%86%23" target="weibo">
+俱乐部为樊振东欧冠首秀换场馆（热度：21817）
 </a>
 </li>
 
@@ -417,14 +417,26 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
+明家犯罪集团致14死6伤（热度：14066）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E9%94%80%E6%AF%81%E4%B8%8B%E5%B8%82%E7%89%A9%E6%96%99%E8%A2%AB%E6%8C%87%E6%B5%AA%E8%B4%B9%23" target="weibo">
+瑞幸销毁下市物料被指浪费（热度：13527）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8B%8D%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E%23" target="weibo">
 实拍广东湛江出现龙卷风（热度：13033）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
-明家犯罪集团致14死6伤（热度：12419）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B8%B8%E8%A1%8C%23" target="weibo">
+日本反移民游行（热度：12320）
 </a>
 </li>
 
