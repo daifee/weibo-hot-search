@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 07:23:02
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 07:36:45
 </p>
 </blockquote>
 <p>
@@ -3927,6 +3927,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E8%BE%BE%E6%8A%BD%E7%BA%B8%E8%A2%AB%E6%9B%9D%E6%9C%89%E9%BB%84%E8%89%B2%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93%23" target="weibo">
+维达抽纸被曝有黄色不明物体（热度：954525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%881%E5%8F%B7%E5%B0%86%E5%87%BA%E7%8E%B0%E7%9A%84%E5%85%AD%E6%89%B9%E4%BA%BA%23" target="weibo">
 10月1号将出现的六批人（热度：954339）
 </a>
@@ -4791,12 +4797,6 @@ WTT抽签（热度：866782）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E8%BE%BE%E6%8A%BD%E7%BA%B8%E8%A2%AB%E6%9B%9D%E6%9C%89%E9%BB%84%E8%89%B2%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93%23" target="weibo">
-维达抽纸被曝有黄色不明物体（热度：853395）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23" target="weibo">
 华南理工（热度：852179）
 </a>
@@ -5655,6 +5655,12 @@ iPhone17Promini首曝（热度：777010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%81%E5%85%8B%E5%A4%AB%E5%A6%BB%E7%A6%BB%E4%B8%96%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E8%B0%81%23" target="weibo">
+第一批丁克夫妻离世遗产留给谁（热度：775466）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E4%B8%89%E5%B0%8F%E6%97%B6%20%E5%AE%A2%E6%88%B7%E8%A2%AB%E7%9B%98%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%23" target="weibo">
 洗澡三小时 客户被盘了一个半小时（热度：771822）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%91%E6%9E%B6%E8%BF%91%E5%8D%83%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B5%B4%E6%97%A5%E5%81%9A%E8%8B%A6%E5%BD%B9%23" target="weibo">
 日本绑架近千名中国人赴日做苦役（热度：742508）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2330%E7%A7%92%E8%87%AA%E6%9F%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E6%98%AF%E5%90%A6%E8%A2%AB%E4%BB%96%E4%BA%BA%E7%BB%91%E5%AE%9A%23" target="weibo">
-30秒自查身份证是否被他人绑定（热度：742159）
 </a>
 </li>
 

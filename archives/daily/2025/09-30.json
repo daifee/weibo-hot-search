@@ -1,25 +1,25 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759188182446,
+  "endTime": 1759189005532,
   "band_list": [
     {
-      "raw_hot": 869223,
-      "num": 175997,
-      "word": "roscoe去世",
-      "onboard_time": 1759150939,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 853395,
-      "num": 853395,
+      "raw_hot": 954525,
+      "num": 962724,
       "word": "维达抽纸被曝有黄色不明物体",
       "onboard_time": 1759161381,
       "rank": 36,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 637991,
+      "raw_hot": 869223,
+      "num": 192508,
+      "word": "roscoe去世",
+      "onboard_time": 1759150939,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 775466,
       "num": 145751,
       "word": "第一批丁克夫妻离世遗产留给谁",
       "onboard_time": 1759157364,
@@ -33,6 +33,14 @@
       "onboard_time": 1759158142,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463826,
+      "num": 132537,
+      "word": "女子跪坐高速奔驰的汽车引擎盖",
+      "onboard_time": 1759158682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441180,
@@ -51,15 +59,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 402973,
-      "num": 132537,
-      "word": "女子跪坐高速奔驰的汽车引擎盖",
-      "onboard_time": 1759158682,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306576,
+      "raw_hot": 318127,
       "num": 145154,
       "word": "邓超辛芷蕾 影帝更懂影后",
       "onboard_time": 1759157123,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244354,
+      "num": 120980,
+      "word": "5岁男童小区景观池触电身亡",
+      "onboard_time": 1759157782,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230029,
       "num": 145006,
       "word": "疯狂动物城2内地定档",
@@ -131,20 +139,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206072,
-      "num": 119792,
-      "word": "5岁男童小区景观池触电身亡",
-      "onboard_time": 1759157782,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173630,
-      "num": 173630,
+      "raw_hot": 225308,
+      "num": 225308,
       "word": "明家犯罪集团致14死6伤",
       "onboard_time": 1759176313,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172556,
+      "num": 120956,
+      "word": "蛋糕不同意周深33岁",
+      "onboard_time": 1759187179,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 158376,
@@ -160,6 +168,14 @@
       "word": "北京天空",
       "onboard_time": 1759144341,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153833,
+      "num": 120857,
+      "word": "中国K字签证要守三关",
+      "onboard_time": 1759187118,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -219,6 +235,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 133773,
+      "num": 120701,
+      "word": "日本网友P图预言反对引进印度人才",
+      "onboard_time": 1759153642,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 132782,
       "num": 132782,
       "word": "女子高铁说讨厌小孩被宝妈怼哭",
@@ -243,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130006,
+      "num": 120629,
+      "word": "运动一年从250斤瘦到135斤",
+      "onboard_time": 1759188799,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 128618,
       "num": 146105,
       "word": "第12个烈士纪念日",
@@ -259,20 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119124,
+      "num": 119124,
+      "word": "说唱歌手诺米无证驾驶被交警处罚",
+      "onboard_time": 1759166356,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 116521,
+      "num": 116521,
+      "word": "鹿哈女友自曝全脸do",
+      "onboard_time": 1759187718,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 114386,
       "num": 114386,
       "word": "赵丽颖学过钢管舞",
       "onboard_time": 1759156764,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112583,
-      "num": 97711,
-      "word": "日本网友P图预言反对引进印度人才",
-      "onboard_time": 1759153642,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 109539,
@@ -291,16 +331,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100656,
-      "num": 97498,
-      "word": "蛋糕不同意周深33岁",
-      "onboard_time": 1759187179,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 100298,
-      "num": 100298,
+      "raw_hot": 102252,
+      "num": 121342,
       "word": "俱乐部为樊振东欧冠首秀换场馆",
       "onboard_time": 1759160781,
       "rank": 48,
@@ -331,22 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94117,
-      "num": 94117,
-      "word": "说唱歌手诺米无证驾驶被交警处罚",
-      "onboard_time": 1759166356,
-      "rank": 41,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 92439,
-      "num": 92439,
-      "word": "中国K字签证要守三关",
-      "onboard_time": 1759187118,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92216,
       "num": 92216,
       "word": "英雄联盟S15",
@@ -361,6 +377,30 @@
       "onboard_time": 1759155863,
       "rank": 37,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 84590,
+      "num": 84590,
+      "word": "台当局称大陆海警船干扰日方舰机",
+      "onboard_time": 1759187957,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 83528,
+      "num": 83528,
+      "word": "近代以来有约2000万名烈士为国捐躯",
+      "onboard_time": 1759188680,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 81112,
+      "num": 81112,
+      "word": "特朗普称对境外制作电影征100%关税",
+      "onboard_time": 1759186877,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80859,
@@ -403,12 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69365,
-      "num": 69365,
-      "word": "台当局称大陆海警船干扰日方舰机",
-      "onboard_time": 1759187957,
-      "rank": 28,
-      "category": "国际时政"
+      "raw_hot": 72009,
+      "num": 72009,
+      "word": "肖战工作室拍的红海",
+      "onboard_time": 1759188799,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71241,
+      "num": 71241,
+      "word": "警惕肺癌早期的几个信号",
+      "onboard_time": 1759147880,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 68718,
@@ -427,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65822,
-      "num": 65822,
-      "word": "特朗普称对境外制作电影征100%关税",
-      "onboard_time": 1759186877,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65405,
       "num": 77266,
       "word": "许昌学院拟聘73名博士",
@@ -443,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64247,
-      "num": 64247,
-      "word": "警惕肺癌早期的几个信号",
-      "onboard_time": 1759147880,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 64728,
+      "num": 64728,
+      "word": "河南女子20天没开的车居然长毛了",
+      "onboard_time": 1759188259,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64182,
@@ -457,6 +497,14 @@
       "onboard_time": 1759163479,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63292,
+      "num": 63292,
+      "word": "LCK包揽LOL战力榜前三",
+      "onboard_time": 1759187599,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 62249,
@@ -491,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59886,
+      "num": 59886,
+      "word": "NBA媒体日",
+      "onboard_time": 1759187179,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59641,
       "num": 77055,
       "word": "肖战澳门出发",
@@ -499,36 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58210,
-      "num": 58210,
-      "word": "LCK包揽LOL战力榜前三",
-      "onboard_time": 1759187599,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 57027,
-      "num": 57027,
-      "word": "鹿哈女友自曝全脸do",
-      "onboard_time": 1759187718,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 53251,
-      "num": 53251,
-      "word": "NBA媒体日",
-      "onboard_time": 1759187179,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 46960,
-      "num": 46960,
+      "raw_hot": 57157,
+      "num": 57157,
       "word": "警方回应女童上托班耳朵疑被撕裂",
       "onboard_time": 1759183995,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51245,
+      "num": 51245,
+      "word": "入青云",
+      "onboard_time": 1759188619,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 43727,
@@ -659,8 +699,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 3235,
-      "num": 180491,
+      "raw_hot": 3558,
+      "num": 196891,
       "word": "试验三十号卫星01和02星发射成功",
       "onboard_time": 1759119323,
       "rank": 2,
