@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 03:37:15
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 04:25:02
 </p>
 </blockquote>
 <p>
@@ -5775,6 +5775,12 @@ BV米兰时装周明星状态（热度：30091）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
+邓超 我先看一眼影后（热度：21399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%8F%B0%E4%B8%8B%E7%9A%84%E4%B8%A5%E6%B5%A9%E7%BF%94%23" target="weibo">
 湾区升明月台下的严浩翔（热度：21294）
 </a>
@@ -5783,12 +5789,6 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E7%9B%B4%E6%92%AD%23" target="weibo">
 鹭卓直播（热度：21258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
-邓超 我先看一眼影后（热度：20924）
 </a>
 </li>
 
@@ -5859,6 +5859,12 @@ chiikawa新动画（热度：14546）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8B%8D%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E%23" target="weibo">
+实拍广东湛江出现龙卷风（热度：13033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BE%B7%E5%9B%9E%E5%BA%94%E5%85%89%E7%9B%98%E7%85%A7%E5%A4%BA%E5%86%A0%E7%BE%8E%E9%A3%9F%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%23" target="weibo">
 高德回应光盘照夺冠美食摄影大赛（热度：12914）
 </a>
@@ -5873,6 +5879,12 @@ chiikawa新动画（热度：14546）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%92%8C%E7%B2%89%E4%B8%9D%E9%9A%94%E7%A9%BA%E6%8B%A5%E6%8A%B1%23" target="weibo">
 汪苏泷和粉丝隔空拥抱（热度：12824）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
+明家犯罪集团致14死6伤（热度：12419）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 03:37:15
+本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 04:25:02
 </p>
 </blockquote>
 <p>
@@ -394,7 +394,7 @@ roscoe去世（热度：869223）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
-邓超 我先看一眼影后（热度：20924）
+邓超 我先看一眼影后（热度：21399）
 </a>
 </li>
 
@@ -413,6 +413,18 @@ roscoe去世（热度：869223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%8D%E6%8A%A5%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B6%23" target="weibo">
 谍报上不封顶（热度：17099）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8B%8D%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E%23" target="weibo">
+实拍广东湛江出现龙卷风（热度：13033）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
+明家犯罪集团致14死6伤（热度：12419）
 </a>
 </li>
 
