@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 16:36:57
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 16:49:05
 </p>
 </blockquote>
 <p>
@@ -3759,6 +3759,12 @@ iPhone17补贴后售价4999元（热度：997136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%90%83%E4%BA%86%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E7%9A%84%E5%B9%B2%E5%87%80%E9%A5%AD%23" target="weibo">
+孙俪吃了一段时间的干净饭（热度：974180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
 12306抢票（热度：973123）
 </a>
@@ -5499,12 +5505,6 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%90%83%E4%BA%86%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E7%9A%84%E5%B9%B2%E5%87%80%E9%A5%AD%23" target="weibo">
-孙俪吃了一段时间的干净饭（热度：783431）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E9%82%93%E7%90%B3%E7%90%B3%E5%AE%98%E5%AE%A3%E6%80%80%E5%AD%95%23" target="weibo">
 奥运冠军邓琳琳官宣怀孕（热度：783148）
 </a>
@@ -6569,6 +6569,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%9B%B4%E5%A5%BD%E4%B8%BA%E5%85%9A%E8%82%B2%E6%89%8D%E4%B8%BA%E5%85%9A%E7%8C%AE%E7%AD%96%23%23" target="weibo">
 #更好为党育才为党献策#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%8F%AC%E5%BC%80%E6%97%B6%E9%97%B4%23%23" target="weibo">
+#二十届四中全会召开时间#
 </a>
 </li>
 

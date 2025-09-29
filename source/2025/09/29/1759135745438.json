@@ -1,0 +1,410 @@
+{
+  "runTime": 1759135745438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 613816,
+        "num": 1098210,
+        "word": "男子政审时发现被患精神分裂11年",
+        "onboard_time": 1759127240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473378,
+        "num": 473378,
+        "word": "外交部回应K签",
+        "onboard_time": 1759133480,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28231,
+        "num": 445830,
+        "word": "2025年中非互联网发展与合作论坛",
+        "onboard_time": 1759134381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444335,
+        "num": 444335,
+        "word": "李在明道歉",
+        "onboard_time": 1759128800,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390837,
+        "num": 390837,
+        "word": "中国K签证在世界范围内引起关注",
+        "onboard_time": 1759133601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367179,
+        "num": 367179,
+        "word": "中方决定增设K字签证",
+        "onboard_time": 1759133720,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311204,
+        "num": 311204,
+        "word": "乱港分子罗冠聪入境新加坡被拘",
+        "onboard_time": 1759129760,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355958,
+        "num": 307679,
+        "word": "金价",
+        "onboard_time": 1759127479,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303698,
+        "num": 303698,
+        "word": "丝芭传媒起诉解约成员",
+        "onboard_time": 1759131862,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275566,
+        "num": 275566,
+        "word": "王源三巡送出近百万奖品",
+        "onboard_time": 1759132939,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 974180,
+        "num": 275067,
+        "word": "孙俪吃了一段时间的干净饭",
+        "onboard_time": 1759134741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706608,
+        "num": 273045,
+        "word": "两名失联15岁少女已找到",
+        "onboard_time": 1759130960,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589102,
+        "num": 271417,
+        "word": "肖战容祖儿 这是小沈阳的女儿",
+        "onboard_time": 1759128141,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 507711,
+        "num": 270744,
+        "word": "王一博 王漂亮",
+        "onboard_time": 1759132880,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507421,
+        "num": 269828,
+        "word": "内娱最会吻的cp上新了",
+        "onboard_time": 1759126641,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308463,
+        "num": 267966,
+        "word": "苏醒被指拉踩河南胡辣汤",
+        "onboard_time": 1759126102,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267105,
+        "num": 267105,
+        "word": "特斯拉技术员被机器人打成重伤",
+        "onboard_time": 1759127721,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262050,
+        "num": 262050,
+        "word": "中共中央政治局9月29日召开会议",
+        "onboard_time": 1759129222,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233692,
+        "num": 233692,
+        "word": "湖南卫视中秋之夜官宣阵容",
+        "onboard_time": 1759130300,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233399,
+        "num": 233399,
+        "word": "爱奇艺尖叫之夜阵容",
+        "onboard_time": 1759127001,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763269,
+        "num": 218655,
+        "word": "小酒窝发博",
+        "onboard_time": 1759123641,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 431089,
+        "num": 213646,
+        "word": "街舞5选手解晓东去世",
+        "onboard_time": 1759130840,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247026,
+        "num": 209556,
+        "word": "杨幂大光明",
+        "onboard_time": 1759125560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203716,
+        "num": 203716,
+        "word": "雨果说国乒统治力变弱了",
+        "onboard_time": 1759122920,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195860,
+        "num": 195860,
+        "word": "揉面垫 玻璃纤维",
+        "onboard_time": 1759130902,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187933,
+        "num": 187933,
+        "word": "时代峰峻回应陈奕恒归队时间",
+        "onboard_time": 1759134741,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179857,
+        "num": 179857,
+        "word": "金饰价格涨到1115元",
+        "onboard_time": 1759125321,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174470,
+        "num": 174470,
+        "word": "女子高铁说讨厌小孩被宝妈怼哭",
+        "onboard_time": 1759135161,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48255,
+        "num": 162892,
+        "word": "太吾绘卷将深度适配鸿蒙",
+        "onboard_time": 1759133901,
+        "rank": 28,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 133539,
+        "num": 161159,
+        "word": "狂野时代",
+        "onboard_time": 1759135100,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160041,
+        "num": 160041,
+        "word": "掉了一地水果也掉了一地小朋友",
+        "onboard_time": 1759132160,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146016,
+        "num": 146016,
+        "word": "男子停车费超20000000不敢取车",
+        "onboard_time": 1759117880,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145764,
+        "num": 145764,
+        "word": "杨紫跳的dejavu手势舞",
+        "onboard_time": 1759134741,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139902,
+        "num": 139902,
+        "word": "女子商场发飙砸玉器店",
+        "onboard_time": 1759127420,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137237,
+        "num": 137237,
+        "word": "清华通报多名师生参与黄牛活动牟利",
+        "onboard_time": 1759114400,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 135586,
+        "num": 135586,
+        "word": "肖战婉拒签名",
+        "onboard_time": 1759115900,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130212,
+        "num": 130212,
+        "word": "四种食物最好不要空腹吃",
+        "onboard_time": 1759125740,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129750,
+        "num": 129750,
+        "word": "是谁拿到了王源送的手机",
+        "onboard_time": 1759134500,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72993,
+        "num": 124145,
+        "word": "北大哲学系系主任谈文科无用论",
+        "onboard_time": 1759134560,
+        "rank": 38,
+        "category": "议题讨论,教育"
+      },
+      {
+        "raw_hot": 48125,
+        "num": 123331,
+        "word": "王楚钦发芽了",
+        "onboard_time": 1759134982,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122611,
+        "num": 122611,
+        "word": "丁程鑫赢了原相机",
+        "onboard_time": 1759135522,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119411,
+        "num": 119411,
+        "word": "以前过中秋vs现在过中秋",
+        "onboard_time": 1759133060,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116942,
+        "num": 116942,
+        "word": "王健林还剩什么资产",
+        "onboard_time": 1759122802,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111066,
+        "num": 111066,
+        "word": "杨幂宋佳给辛芷蕾发了祝福",
+        "onboard_time": 1759135581,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109910,
+        "num": 109910,
+        "word": "花海送皮肤",
+        "onboard_time": 1759126280,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109384,
+        "num": 109384,
+        "word": "闫妮魏大勋不许再酗酒了",
+        "onboard_time": 1759120583,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106678,
+        "num": 106678,
+        "word": "巴黎时装周",
+        "onboard_time": 1759131201,
+        "rank": 46,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 106204,
+        "num": 106204,
+        "word": "上上牵开机",
+        "onboard_time": 1759135461,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102218,
+        "num": 102218,
+        "word": "辛芷蕾 国际巨星T恤",
+        "onboard_time": 1759135701,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 100536,
+        "num": 100536,
+        "word": "孙颖莎 金箍棒",
+        "onboard_time": 1759135581,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会召开时间#"
+    }
+  }
+}
