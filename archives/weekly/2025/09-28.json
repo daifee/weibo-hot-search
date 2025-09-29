@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759110797387,
+  "endTime": 1759112096540,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1000621,
-      "num": 208675,
+      "num": 232447,
       "word": "女装退货率高是应该的",
       "onboard_time": 1759104981,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 943090,
+      "num": 239426,
+      "word": "聪明的人已经提前出发了",
+      "onboard_time": 1759107321,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 931687,
       "num": 337585,
       "word": "肖战 仪态",
@@ -233,14 +241,6 @@
       "onboard_time": 1759033341,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 906803,
-      "num": 204881,
-      "word": "聪明的人已经提前出发了",
-      "onboard_time": 1759107321,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 888844,
@@ -371,12 +371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 667817,
+      "num": 667817,
+      "word": "取消额外假公司已落实正常放假",
+      "onboard_time": 1759107381,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662560,
       "num": 459691,
       "word": "战至巅峰直播",
       "onboard_time": 1758967820,
       "rank": 3,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 661625,
+      "num": 661625,
+      "word": "网红称婆婆吃邻居送的蘑菇中毒身亡",
+      "onboard_time": 1759109958,
+      "rank": 14,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 655054,
@@ -425,14 +441,6 @@
       "onboard_time": 1759054221,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 625061,
-      "num": 625061,
-      "word": "取消额外假公司已落实正常放假",
-      "onboard_time": 1759107381,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 615736,
@@ -923,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 360442,
-      "num": 200597,
-      "word": "网红称婆婆吃邻居送的蘑菇中毒身亡",
-      "onboard_time": 1759109958,
-      "rank": 14,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 355962,
       "num": 355962,
       "word": "何同学的iPhone17测评视频",
@@ -995,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310836,
+      "num": 310836,
+      "word": "中国团体游客免签入境韩国今起试行",
+      "onboard_time": 1759108460,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310558,
       "num": 310558,
       "word": "网传湾区升明月节目单",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1759032621,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297283,
-      "num": 297283,
-      "word": "中国团体游客免签入境韩国今起试行",
-      "onboard_time": 1759108460,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295303,
@@ -1163,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255951,
+      "num": 255951,
+      "word": "迪丽热巴迪奥大秀预告",
+      "onboard_time": 1759106361,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251190,
       "num": 251190,
       "word": "GEN战胜HLE",
@@ -1185,6 +1193,22 @@
       "onboard_time": 1758982881,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250151,
+      "num": 175416,
+      "word": "新疆羊肉串一米长",
+      "onboard_time": 1759111879,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 244719,
+      "num": 244719,
+      "word": "国庆中秋出行避开这2个客流高峰",
+      "onboard_time": 1759101739,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242352,
@@ -1291,6 +1315,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 222740,
+      "num": 222740,
+      "word": "黄仁勋说中国芯片仅落后美国几纳秒",
+      "onboard_time": 1759111339,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222729,
       "num": 215333,
       "word": "胡彦斌月光 爷青回",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1759071746,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221487,
-      "num": 221487,
-      "word": "迪丽热巴迪奥大秀预告",
-      "onboard_time": 1759106361,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220446,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1759072764,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207850,
+      "num": 207850,
+      "word": "王健林限高措施取消",
+      "onboard_time": 1759107741,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207411,
@@ -1571,14 +1603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192773,
-      "num": 192773,
-      "word": "王健林限高措施取消",
-      "onboard_time": 1759107741,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192252,
       "num": 162512,
       "word": "肖战出道9周年",
@@ -1635,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190687,
+      "num": 181160,
+      "word": "女孩地铁上质疑大妈偷拍",
+      "onboard_time": 1759107920,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190473,
       "num": 190473,
       "word": "大湾区晚会和王源打招呼的时代少年团",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1759072827,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186961,
-      "num": 203199,
-      "word": "国庆中秋出行避开这2个客流高峰",
-      "onboard_time": 1759101739,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186624,
@@ -1739,20 +1763,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181736,
+      "num": 156224,
+      "word": "今天支付宝首页很应景",
+      "onboard_time": 1759111701,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 181375,
       "num": 181375,
       "word": "九门正式杀青",
       "onboard_time": 1759028600,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181160,
-      "num": 181160,
-      "word": "女孩地铁上质疑大妈偷拍",
-      "onboard_time": 1759107920,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180808,
@@ -1803,6 +1827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178346,
+      "num": 174896,
+      "word": "K签",
+      "onboard_time": 1759110199,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178046,
       "num": 178046,
       "word": "iG战胜JDG",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1759104380,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176214,
+      "num": 176214,
+      "word": "千里寻椰 光子嫩肤二度烧伤",
+      "onboard_time": 1759109180,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 176150,
@@ -2155,6 +2195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156219,
+      "num": 156219,
+      "word": "直播逛故宫",
+      "onboard_time": 1759110320,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 156175,
       "num": 153111,
       "word": "鹿晗新加坡",
@@ -2467,6 +2515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135985,
+      "num": 186974,
+      "word": "苏醒颤音",
+      "onboard_time": 1759107800,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135766,
       "num": 135766,
       "word": "柯洁卫冕棋圣激动落泪",
@@ -2555,12 +2611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132371,
-      "num": 132371,
-      "word": "直播逛故宫",
-      "onboard_time": 1759110320,
-      "rank": 27,
-      "category": "旅游"
+      "raw_hot": 132805,
+      "num": 132805,
+      "word": "赵今麦天使生日照",
+      "onboard_time": 1759111279,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 132336,
@@ -2691,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127844,
+      "num": 156227,
+      "word": "交锋阵容官宣",
+      "onboard_time": 1759110860,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127773,
       "num": 127773,
       "word": "王安宇在河南收到中评",
@@ -2769,14 +2833,6 @@
       "onboard_time": 1759020442,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124401,
-      "num": 186974,
-      "word": "苏醒颤音",
-      "onboard_time": 1759107800,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 123688,
@@ -2875,20 +2931,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120331,
+      "num": 120331,
+      "word": "向太辟谣破产",
+      "onboard_time": 1759110621,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120011,
       "num": 120011,
       "word": "文韬针灸效果立竿见影",
       "onboard_time": 1759047381,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119960,
-      "num": 119960,
-      "word": "K签",
-      "onboard_time": 1759110199,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119399,
@@ -3171,6 +3227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108756,
+      "num": 108756,
+      "word": "巴黎的印度人",
+      "onboard_time": 1759110800,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108665,
       "num": 108665,
       "word": "91助手全面停止服务",
@@ -3353,6 +3417,14 @@
       "onboard_time": 1758988701,
       "rank": 41,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 102193,
+      "num": 102193,
+      "word": "交锋",
+      "onboard_time": 1759111400,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 102175,
@@ -3691,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86005,
+      "num": 86005,
+      "word": "第一次爱的人原唱来湾区升明月了",
+      "onboard_time": 1759108821,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85860,
       "num": 145780,
       "word": "李沁这款朋友到底谁在拥有",
@@ -3747,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81887,
+      "num": 81887,
+      "word": "摩尔线程概念爆发",
+      "onboard_time": 1759111819,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81675,
       "num": 81675,
       "word": "韩国对华免签明起生效",
@@ -3761,14 +3849,6 @@
       "onboard_time": 1758992418,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81180,
-      "num": 81180,
-      "word": "千里寻椰 光子嫩肤二度烧伤",
-      "onboard_time": 1759109180,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 80846,
@@ -3809,14 +3889,6 @@
       "onboard_time": 1759014437,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 78826,
-      "num": 78826,
-      "word": "第一次爱的人原唱来湾区升明月了",
-      "onboard_time": 1759108821,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 78571,
@@ -3865,14 +3937,6 @@
       "onboard_time": 1759014137,
       "rank": 31,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 75310,
-      "num": 75310,
-      "word": "向太辟谣破产",
-      "onboard_time": 1759110621,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 74560,
@@ -4396,7 +4460,7 @@
     },
     {
       "raw_hot": 40483,
-      "num": 562778,
+      "num": 664237,
       "word": "10月1日客流或超3.4亿人次",
       "onboard_time": 1759025960,
       "rank": 37,
@@ -4609,6 +4673,14 @@
       "onboard_time": 1758996735,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24393,
+      "num": 214200,
+      "word": "十一旅游必备健康搭子",
+      "onboard_time": 1759111339,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 24369,

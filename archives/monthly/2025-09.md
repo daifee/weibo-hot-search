@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 09:53:17
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 10:14:56
 </p>
 </blockquote>
 <p>
@@ -3921,6 +3921,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%AA%E6%98%8E%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E5%87%BA%E5%8F%91%E4%BA%86%23" target="weibo">
+聪明的人已经提前出发了（热度：943090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%8C%E4%BA%BA%E7%94%BB%E6%8A%A5%23" target="weibo">
 张小斐迪丽热巴双人画报（热度：942416）
 </a>
@@ -4139,12 +4145,6 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B9%83%E6%96%87%E5%8A%A9%E7%90%86%E6%8A%8A%E8%BD%A6%E7%A5%A8%E6%97%A5%E6%9C%9F%E4%B9%B0%E9%94%99%E4%BA%86%23" target="weibo">
 李乃文助理把车票日期买错了（热度：907068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%AA%E6%98%8E%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E5%87%BA%E5%8F%91%E4%BA%86%23" target="weibo">
-聪明的人已经提前出发了（热度：906803）
 </a>
 </li>
 

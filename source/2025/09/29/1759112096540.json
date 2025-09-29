@@ -1,0 +1,410 @@
+{
+  "runTime": 1759112096540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 823722,
+        "num": 1131795,
+        "word": "九三阅兵礼宾车正陆续返还车主",
+        "onboard_time": 1759102820,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 667817,
+        "num": 667817,
+        "word": "取消额外假公司已落实正常放假",
+        "onboard_time": 1759107381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16955,
+        "num": 664237,
+        "word": "10月1日客流或超3.4亿人次",
+        "onboard_time": 1759025960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661625,
+        "num": 661625,
+        "word": "网红称婆婆吃邻居送的蘑菇中毒身亡",
+        "onboard_time": 1759109958,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 457032,
+        "num": 457032,
+        "word": "网红唐飞机坠机目击者发声",
+        "onboard_time": 1759104681,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 310836,
+        "num": 310836,
+        "word": "中国团体游客免签入境韩国今起试行",
+        "onboard_time": 1759108460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265302,
+        "num": 265302,
+        "word": "刘天池说朱媛媛去世后未见过辛柏青",
+        "onboard_time": 1759100898,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262173,
+        "num": 262173,
+        "word": "国际顶尖肺癌专家已患肺癌三年",
+        "onboard_time": 1759070184,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255951,
+        "num": 255951,
+        "word": "迪丽热巴迪奥大秀预告",
+        "onboard_time": 1759106361,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244719,
+        "num": 244719,
+        "word": "国庆中秋出行避开这2个客流高峰",
+        "onboard_time": 1759101739,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 943090,
+        "num": 239426,
+        "word": "聪明的人已经提前出发了",
+        "onboard_time": 1759107321,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 714272,
+        "num": 232447,
+        "word": "女装退货率高是应该的",
+        "onboard_time": 1759104981,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 625479,
+        "num": 231920,
+        "word": "向佐回应向家破产",
+        "onboard_time": 1759067665,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222740,
+        "num": 222740,
+        "word": "黄仁勋说中国芯片仅落后美国几纳秒",
+        "onboard_time": 1759111339,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24393,
+        "num": 214200,
+        "word": "十一旅游必备健康搭子",
+        "onboard_time": 1759111339,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207850,
+        "num": 207850,
+        "word": "王健林限高措施取消",
+        "onboard_time": 1759107741,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184150,
+        "num": 184150,
+        "word": "湾区升明月 检验唱功",
+        "onboard_time": 1759068506,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176214,
+        "num": 176214,
+        "word": "千里寻椰 光子嫩肤二度烧伤",
+        "onboard_time": 1759109180,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171570,
+        "num": 176138,
+        "word": "苏醒回应跑调",
+        "onboard_time": 1759066524,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135985,
+        "num": 175898,
+        "word": "苏醒颤音",
+        "onboard_time": 1759107800,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 558834,
+        "num": 175794,
+        "word": "沈佳润出场 小沈阳被抬走",
+        "onboard_time": 1759068144,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 484914,
+        "num": 175667,
+        "word": "肖战 主唱大人",
+        "onboard_time": 1759073545,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250151,
+        "num": 175416,
+        "word": "新疆羊肉串一米长",
+        "onboard_time": 1759111879,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214606,
+        "num": 175246,
+        "word": "小酒窝让佟丽娅带去找宋亚轩",
+        "onboard_time": 1759071746,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190687,
+        "num": 175185,
+        "word": "女孩地铁上质疑大妈偷拍",
+        "onboard_time": 1759107920,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178346,
+        "num": 174896,
+        "word": "K签",
+        "onboard_time": 1759110199,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174859,
+        "num": 174859,
+        "word": "iPhone17系列展示机刮痕原因",
+        "onboard_time": 1759103419,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169865,
+        "num": 169865,
+        "word": "央视曝光玄学大师骗局",
+        "onboard_time": 1759071385,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150806,
+        "num": 159109,
+        "word": "闫妮在台下偷喝茅台了吧",
+        "onboard_time": 1759104380,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127844,
+        "num": 156227,
+        "word": "交锋阵容官宣",
+        "onboard_time": 1759110860,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181736,
+        "num": 156224,
+        "word": "今天支付宝首页很应景",
+        "onboard_time": 1759111701,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156219,
+        "num": 156219,
+        "word": "直播逛故宫",
+        "onboard_time": 1759110320,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132805,
+        "num": 132805,
+        "word": "赵今麦天使生日照",
+        "onboard_time": 1759111279,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120331,
+        "num": 120331,
+        "word": "向太辟谣破产",
+        "onboard_time": 1759110621,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112885,
+        "num": 112885,
+        "word": "主人花700多元给狗狗戴隐形眼镜",
+        "onboard_time": 1759106181,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111972,
+        "num": 111972,
+        "word": "遭老板性侵女子回应要2千万赔偿",
+        "onboard_time": 1759063042,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108756,
+        "num": 108756,
+        "word": "巴黎的印度人",
+        "onboard_time": 1759110800,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102916,
+        "num": 102916,
+        "word": "宋亚轩和小酒窝聊啥呢",
+        "onboard_time": 1759107200,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102193,
+        "num": 102193,
+        "word": "交锋",
+        "onboard_time": 1759111400,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 101298,
+        "word": "请时代少年团像请了观众群演",
+        "onboard_time": 1759107800,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101057,
+        "num": 101057,
+        "word": "Faker疑似暗示明年不退役",
+        "onboard_time": 1759107860,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88674,
+        "num": 88674,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1759071746,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88602,
+        "num": 88602,
+        "word": "国庆中秋假期自驾安全提示",
+        "onboard_time": 1759108460,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86005,
+        "num": 86005,
+        "word": "第一次爱的人原唱来湾区升明月了",
+        "onboard_time": 1759108821,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81887,
+        "num": 81887,
+        "word": "摩尔线程概念爆发",
+        "onboard_time": 1759111819,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80670,
+        "num": 80670,
+        "word": "艺考女生10天瘦了9斤",
+        "onboard_time": 1759070545,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80649,
+        "num": 80649,
+        "word": "小沈阳真的别太宠了",
+        "onboard_time": 1759101619,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77291,
+        "num": 77291,
+        "word": "胡歌章子怡秀场同框",
+        "onboard_time": 1759108940,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77044,
+        "num": 77044,
+        "word": "中国话还得SHE",
+        "onboard_time": 1759074082,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71453,
+        "num": 71453,
+        "word": "杨幂上海出发",
+        "onboard_time": 1759104801,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好为党育才#"
+    }
+  }
+}
