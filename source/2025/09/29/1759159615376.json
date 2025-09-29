@@ -1,0 +1,410 @@
+{
+  "runTime": 1759159615376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1732377,
+        "num": 1732377,
+        "word": "roscoe去世",
+        "onboard_time": 1759150939,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414756,
+        "num": 414756,
+        "word": "孙颖莎也知道防摄像头了",
+        "onboard_time": 1759153340,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14513,
+        "num": 390414,
+        "word": "试验三十号卫星01和02星发射成功",
+        "onboard_time": 1759119323,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366114,
+        "num": 366114,
+        "word": "微信朋友圈照片变清晰",
+        "onboard_time": 1759144041,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 302222,
+        "num": 302222,
+        "word": "明家犯罪集团11人死刑",
+        "onboard_time": 1759136720,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 618271,
+        "num": 274877,
+        "word": "女童耳朵撕裂10万托班监控失灵",
+        "onboard_time": 1759145900,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224835,
+        "num": 224835,
+        "word": "北京天空",
+        "onboard_time": 1759144341,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186657,
+        "num": 186657,
+        "word": "明家涉赌诈超100亿元",
+        "onboard_time": 1759136541,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132125,
+        "num": 186626,
+        "word": "郑钦文中网退赛",
+        "onboard_time": 1759150939,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131928,
+        "num": 186564,
+        "word": "陈俊菘3比2张本智和",
+        "onboard_time": 1759149860,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 768901,
+        "num": 186528,
+        "word": "差点没认出苗苗",
+        "onboard_time": 1759144702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720602,
+        "num": 186464,
+        "word": "许我耀眼",
+        "onboard_time": 1759157963,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 689807,
+        "num": 186453,
+        "word": "张予曦出个国怎么美成这样",
+        "onboard_time": 1759155382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673086,
+        "num": 186392,
+        "word": "迪丽热巴刘海",
+        "onboard_time": 1759158142,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597095,
+        "num": 186332,
+        "word": "邓超辛芷蕾 影帝更懂影后",
+        "onboard_time": 1759157123,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 589898,
+        "num": 186278,
+        "word": "疯狂动物城2内地定档",
+        "onboard_time": 1759153822,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 458620,
+        "num": 186263,
+        "word": "周深直播",
+        "onboard_time": 1759145601,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127948,
+        "num": 186219,
+        "word": "男子含着烟头吃饭敲诈面馆",
+        "onboard_time": 1759154841,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343126,
+        "num": 186130,
+        "word": "董璇张维伊婚礼 长辈加桌",
+        "onboard_time": 1759143740,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48924,
+        "num": 186107,
+        "word": "新贵老钱都在下单极氪9X",
+        "onboard_time": 1759157123,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 329704,
+        "num": 186047,
+        "word": "中方决定增设K字签证",
+        "onboard_time": 1759133720,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326502,
+        "num": 185998,
+        "word": "敬山水",
+        "onboard_time": 1759152862,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315704,
+        "num": 185969,
+        "word": "女子高铁说讨厌小孩被宝妈怼哭",
+        "onboard_time": 1759135161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282610,
+        "num": 185925,
+        "word": "第一批丁克夫妻离世遗产留给谁",
+        "onboard_time": 1759157364,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281403,
+        "num": 185879,
+        "word": "何超莲窦骁领结婚证了吗",
+        "onboard_time": 1759154122,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256718,
+        "num": 185821,
+        "word": "苏醒 老歌手的日常",
+        "onboard_time": 1759153701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237421,
+        "num": 185781,
+        "word": "邓为变壮",
+        "onboard_time": 1759149320,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189047,
+        "num": 185731,
+        "word": "瘦10斤比我瘦30斤还明显",
+        "onboard_time": 1759146860,
+        "rank": 27,
+        "category": "运动健身,情感"
+      },
+      {
+        "raw_hot": 185693,
+        "num": 185693,
+        "word": "将门独后男主90生",
+        "onboard_time": 1759142600,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181803,
+        "num": 181803,
+        "word": "赵丽颖学过钢管舞",
+        "onboard_time": 1759156764,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206201,
+        "num": 179807,
+        "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+        "onboard_time": 1759150341,
+        "rank": 30,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 174883,
+        "num": 174883,
+        "word": "5岁男童小区景观池触电身亡",
+        "onboard_time": 1759157782,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161211,
+        "num": 161211,
+        "word": "星星人",
+        "onboard_time": 1759155863,
+        "rank": 32,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 159834,
+        "num": 159834,
+        "word": "女子跪坐高速奔驰的汽车引擎盖",
+        "onboard_time": 1759158682,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144285,
+        "num": 144285,
+        "word": "朱志鑫 想起来了全想起来了",
+        "onboard_time": 1759158682,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138828,
+        "num": 138828,
+        "word": "沈佳润 一点垫音混音不给孩子加",
+        "onboard_time": 1759138401,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134557,
+        "num": 134557,
+        "word": "日本网友P图预言反对引进印度人才",
+        "onboard_time": 1759153642,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129020,
+        "num": 129020,
+        "word": "辛芷蕾 国际巨星洗浴中心",
+        "onboard_time": 1759157364,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115990,
+        "num": 115990,
+        "word": "肖战澳门出发",
+        "onboard_time": 1759150461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73161,
+        "num": 115188,
+        "word": "上海701万彩票大奖58天仍无人认领",
+        "onboard_time": 1759158982,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71953,
+        "num": 114931,
+        "word": "33岁的周深",
+        "onboard_time": 1759143562,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114712,
+        "num": 114712,
+        "word": "鸡排哥1分钟视频报价仅10元",
+        "onboard_time": 1759138221,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114119,
+        "num": 114119,
+        "word": "狐妖小红娘王权篇预约破400万",
+        "onboard_time": 1759153221,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110525,
+        "num": 110525,
+        "word": "律师谈骑手往外卖里涂抹粪水",
+        "onboard_time": 1759158381,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108147,
+        "num": 108147,
+        "word": "王鹤棣 刘涛严选",
+        "onboard_time": 1759157963,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105505,
+        "num": 105505,
+        "word": "英雄联盟S15",
+        "onboard_time": 1759156941,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103677,
+        "num": 103677,
+        "word": "世排第4的张本不敌世排111",
+        "onboard_time": 1759156042,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100773,
+        "num": 100773,
+        "word": "谍报上不封顶",
+        "onboard_time": 1759151841,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94792,
+        "num": 94792,
+        "word": "陈俊菘说张本击败王楚钦后很嚣张",
+        "onboard_time": 1759156642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93665,
+        "num": 93665,
+        "word": "宋祖儿 雪地玫瑰妆",
+        "onboard_time": 1759150040,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#系统推进我国宗教中国化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759157036081,
+  "endTime": 1759159615376,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -33,6 +33,14 @@
       "onboard_time": 1759112659,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1732377,
+      "num": 1732377,
+      "word": "roscoe去世",
+      "onboard_time": 1759150939,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 1717431,
@@ -265,14 +273,6 @@
       "onboard_time": 1759109180,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1002659,
-      "num": 1160425,
-      "word": "roscoe去世",
-      "onboard_time": 1759150939,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 1000621,
@@ -547,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 720602,
+      "num": 221268,
+      "word": "许我耀眼",
+      "onboard_time": 1758980002,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 717967,
       "num": 292922,
       "word": "官员买500斤散装白酒放单位公务接待",
@@ -579,6 +587,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 689807,
+      "num": 210261,
+      "word": "张予曦出个国怎么美成这样",
+      "onboard_time": 1759155382,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688966,
       "num": 304691,
       "word": "董璇张维伊搂脖吻",
@@ -601,6 +617,14 @@
       "onboard_time": 1759150939,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 673086,
+      "num": 186392,
+      "word": "迪丽热巴刘海",
+      "onboard_time": 1759158142,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 671940,
@@ -761,6 +785,14 @@
       "onboard_time": 1759149320,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597095,
+      "num": 186332,
+      "word": "邓超辛芷蕾 影帝更懂影后",
+      "onboard_time": 1759157123,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 594470,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1759076901,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 477144,
-      "num": 210261,
-      "word": "张予曦出个国怎么美成这样",
-      "onboard_time": 1759155382,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 473378,
@@ -1763,12 +1787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284353,
-      "num": 221268,
-      "word": "许我耀眼",
-      "onboard_time": 1758980002,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 282610,
+      "num": 185925,
+      "word": "第一批丁克夫妻离世遗产留给谁",
+      "onboard_time": 1759157364,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282592,
@@ -2859,6 +2883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174883,
+      "num": 174883,
+      "word": "5岁男童小区景观池触电身亡",
+      "onboard_time": 1759157782,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174847,
       "num": 160265,
       "word": "花海神罪签名正在派送",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1759132160,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159834,
+      "num": 159834,
+      "word": "女子跪坐高速奔驰的汽车引擎盖",
+      "onboard_time": 1759158682,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159822,
@@ -3665,6 +3705,14 @@
       "onboard_time": 1759126822,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144285,
+      "num": 144285,
+      "word": "朱志鑫 想起来了全想起来了",
+      "onboard_time": 1759158682,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 144275,
@@ -4187,6 +4235,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 129020,
+      "num": 129020,
+      "word": "辛芷蕾 国际巨星洗浴中心",
+      "onboard_time": 1759157364,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128916,
       "num": 128916,
       "word": "不要吃蓝色臭豆腐",
@@ -4232,6 +4288,14 @@
       "word": "病人临终写的纸条没人看懂",
       "onboard_time": 1759055000,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127948,
+      "num": 186219,
+      "word": "男子含着烟头吃饭敲诈面馆",
+      "onboard_time": 1759154841,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -4867,14 +4931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114274,
-      "num": 114274,
-      "word": "男子含着烟头吃饭敲诈面馆",
-      "onboard_time": 1759154841,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114180,
       "num": 114180,
       "word": "A股午后突变",
@@ -5035,6 +5091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110525,
+      "num": 110525,
+      "word": "律师谈骑手往外卖里涂抹粪水",
+      "onboard_time": 1759158381,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110480,
       "num": 110480,
       "word": "作者上班和上高三时的写文区别",
@@ -5137,6 +5201,14 @@
       "onboard_time": 1759141400,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108147,
+      "num": 108147,
+      "word": "王鹤棣 刘涛严选",
+      "onboard_time": 1759157963,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 108068,
@@ -5345,6 +5417,14 @@
       "onboard_time": 1759108460,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103677,
+      "num": 103677,
+      "word": "世排第4的张本不敌世排111",
+      "onboard_time": 1759156042,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103667,
@@ -5769,6 +5849,14 @@
       "onboard_time": 1759142421,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94792,
+      "num": 94792,
+      "word": "陈俊菘说张本击败王楚钦后很嚣张",
+      "onboard_time": 1759156642,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 94619,
@@ -6297,6 +6385,14 @@
       "onboard_time": 1759078458,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73161,
+      "num": 115188,
+      "word": "上海701万彩票大奖58天仍无人认领",
+      "onboard_time": 1759158982,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72993,
@@ -6841,6 +6937,14 @@
       "onboard_time": 1759142721,
       "rank": 29,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 48924,
+      "num": 186107,
+      "word": "新贵老钱都在下单极氪9X",
+      "onboard_time": 1759157123,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 48125,
