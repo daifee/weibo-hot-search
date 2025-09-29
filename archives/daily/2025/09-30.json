@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759181823185,
+  "endTime": 1759184472009,
   "band_list": [
     {
       "raw_hot": 869223,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136540,
+      "num": 132537,
+      "word": "女子跪坐高速奔驰的汽车引擎盖",
+      "onboard_time": 1759158682,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135878,
       "num": 135878,
       "word": "宁艺卓Gucci探店",
@@ -200,14 +208,6 @@
       "word": "女子高铁说讨厌小孩被宝妈怼哭",
       "onboard_time": 1759135161,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132537,
-      "num": 132537,
-      "word": "女子跪坐高速奔驰的汽车引擎盖",
-      "onboard_time": 1759158682,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92144,
+      "num": 92144,
+      "word": "明家犯罪集团致14死6伤",
+      "onboard_time": 1759176313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91459,
       "num": 91459,
       "word": "星星人",
@@ -377,14 +385,6 @@
       "onboard_time": 1759163180,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 66274,
-      "num": 66274,
-      "word": "明家犯罪集团致14死6伤",
-      "onboard_time": 1759176313,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65405,
@@ -459,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40146,
+      "num": 38275,
+      "word": "他们用生命换来了山河无恙",
+      "onboard_time": 1759164258,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39752,
       "num": 46393,
       "word": "技能五子棋",
@@ -491,12 +499,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 35793,
-      "num": 27887,
-      "word": "他们用生命换来了山河无恙",
-      "onboard_time": 1759164258,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 30454,
+      "num": 30454,
+      "word": "俱乐部为樊振东欧冠首秀换场馆",
+      "onboard_time": 1759160781,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 26357,
@@ -507,24 +515,32 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21899,
-      "num": 21899,
+      "raw_hot": 26066,
+      "num": 26066,
       "word": "邓超 我先看一眼影后",
       "onboard_time": 1759172834,
       "rank": 40,
       "category": "艺人"
     },
     {
-      "raw_hot": 21817,
-      "num": 21915,
-      "word": "俱乐部为樊振东欧冠首秀换场馆",
-      "onboard_time": 1759160781,
+      "raw_hot": 23533,
+      "num": 23533,
+      "word": "日本反移民游行",
+      "onboard_time": 1759178293,
       "rank": 48,
-      "category": "体育"
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22419,
+      "num": 23091,
+      "word": "瑞幸销毁下市物料被指浪费",
+      "onboard_time": 1759177694,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20936,
-      "num": 20936,
+      "num": 23089,
       "word": "谍报上不封顶",
       "onboard_time": 1759151841,
       "rank": 43,
@@ -539,28 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18490,
-      "num": 18490,
-      "word": "日本反移民游行",
-      "onboard_time": 1759178293,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 17513,
       "num": 19261,
       "word": "王俊凯平遥电影展罗西里尼评审",
       "onboard_time": 1759172474,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17208,
-      "num": 17208,
-      "word": "瑞幸销毁下市物料被指浪费",
-      "onboard_time": 1759177694,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14676,

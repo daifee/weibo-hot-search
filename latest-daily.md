@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 05:37:03
+本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 06:21:12
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%AA%E5%9D%90%E9%AB%98%E9%80%9F%E5%A5%94%E9%A9%B0%E7%9A%84%E6%B1%BD%E8%BD%A6%E5%BC%95%E6%93%8E%E7%9B%96%23" target="weibo">
+女子跪坐高速奔驰的汽车引擎盖（热度：136540）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93Gucci%E6%8E%A2%E5%BA%97%23" target="weibo">
 宁艺卓Gucci探店（热度：135878）
 </a>
@@ -161,12 +167,6 @@ roscoe去世（热度：869223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E8%AF%B4%E8%AE%A8%E5%8E%8C%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%AE%9D%E5%A6%88%E6%80%BC%E5%93%AD%23" target="weibo">
 女子高铁说讨厌小孩被宝妈怼哭（热度：132782）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%AA%E5%9D%90%E9%AB%98%E9%80%9F%E5%A5%94%E9%A9%B0%E7%9A%84%E6%B1%BD%E8%BD%A6%E5%BC%95%E6%93%8E%E7%9B%96%23" target="weibo">
-女子跪坐高速奔驰的汽车引擎盖（热度：132537）
 </a>
 </li>
 
@@ -243,6 +243,12 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
+明家犯罪集团致14死6伤（热度：92144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%98%9F%E4%BA%BA%23" target="weibo">
 星星人（热度：91459）
 </a>
@@ -293,12 +299,6 @@ roscoe去世（热度：869223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF%23" target="weibo">
 盛世中国如你所愿（热度：68718）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
-明家犯罪集团致14死6伤（热度：66274）
 </a>
 </li>
 
@@ -357,6 +357,12 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%94%A8%E7%94%9F%E5%91%BD%E6%8D%A2%E6%9D%A5%E4%BA%86%E5%B1%B1%E6%B2%B3%E6%97%A0%E6%81%99%23" target="weibo">
+他们用生命换来了山河无恙（热度：40146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%80%E8%83%BD%E4%BA%94%E5%AD%90%E6%A3%8B%23" target="weibo">
 技能五子棋（热度：39752）
 </a>
@@ -381,8 +387,8 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%94%A8%E7%94%9F%E5%91%BD%E6%8D%A2%E6%9D%A5%E4%BA%86%E5%B1%B1%E6%B2%B3%E6%97%A0%E6%81%99%23" target="weibo">
-他们用生命换来了山河无恙（热度：35793）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AC%A7%E5%86%A0%E9%A6%96%E7%A7%80%E6%8D%A2%E5%9C%BA%E9%A6%86%23" target="weibo">
+俱乐部为樊振东欧冠首秀换场馆（热度：30454）
 </a>
 </li>
 
@@ -394,13 +400,19 @@ roscoe去世（热度：869223）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
-邓超 我先看一眼影后（热度：21899）
+邓超 我先看一眼影后（热度：26066）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AC%A7%E5%86%A0%E9%A6%96%E7%A7%80%E6%8D%A2%E5%9C%BA%E9%A6%86%23" target="weibo">
-俱乐部为樊振东欧冠首秀换场馆（热度：21817）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B8%B8%E8%A1%8C%23" target="weibo">
+日本反移民游行（热度：23533）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E9%94%80%E6%AF%81%E4%B8%8B%E5%B8%82%E7%89%A9%E6%96%99%E8%A2%AB%E6%8C%87%E6%B5%AA%E8%B4%B9%23" target="weibo">
+瑞幸销毁下市物料被指浪费（热度：22419）
 </a>
 </li>
 
@@ -417,20 +429,8 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B8%B8%E8%A1%8C%23" target="weibo">
-日本反移民游行（热度：18490）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B9%B3%E9%81%A5%E7%94%B5%E5%BD%B1%E5%B1%95%E7%BD%97%E8%A5%BF%E9%87%8C%E5%B0%BC%E8%AF%84%E5%AE%A1%23" target="weibo">
 王俊凯平遥电影展罗西里尼评审（热度：17513）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E9%94%80%E6%AF%81%E4%B8%8B%E5%B8%82%E7%89%A9%E6%96%99%E8%A2%AB%E6%8C%87%E6%B5%AA%E8%B4%B9%23" target="weibo">
-瑞幸销毁下市物料被指浪费（热度：17208）
 </a>
 </li>
 
