@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759144892141,
+  "endTime": 1759145887450,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -9,6 +9,14 @@
       "onboard_time": 1759073545,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1952918,
+      "num": 644833,
+      "word": "周深直播",
+      "onboard_time": 1759145601,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1773052,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 704549,
+      "num": 704549,
+      "word": "北京天空",
+      "onboard_time": 1759144341,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 696384,
       "num": 387415,
       "word": "湾区升明月 检验唱功",
@@ -411,6 +427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497370,
+      "num": 254425,
+      "word": "33岁的周深",
+      "onboard_time": 1759143562,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 488993,
+      "num": 276449,
+      "word": "董璇张维伊婚礼 长辈加桌",
+      "onboard_time": 1759143740,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485305,
       "num": 212368,
       "word": "头姐拍的肖战",
@@ -425,6 +457,14 @@
       "onboard_time": 1759133480,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 460042,
+      "num": 460042,
+      "word": "将门独后男主90生",
+      "onboard_time": 1759142600,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 450843,
@@ -467,7 +507,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 403823,
+      "raw_hot": 409504,
       "num": 272600,
       "word": "漂亮的妈 争气的娃",
       "onboard_time": 1759139001,
@@ -475,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400701,
-      "num": 400701,
-      "word": "将门独后男主90生",
-      "onboard_time": 1759142600,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 404425,
+      "num": 264320,
+      "word": "海陆瘦成纸片人",
+      "onboard_time": 1759143441,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 399315,
@@ -555,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 357673,
-      "num": 264320,
-      "word": "海陆瘦成纸片人",
-      "onboard_time": 1759143441,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 357112,
       "num": 215686,
       "word": "小酒窝让佟丽娅带去找宋亚轩",
@@ -611,14 +643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 324547,
-      "num": 324547,
-      "word": "北京天空",
-      "onboard_time": 1759144341,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 311204,
       "num": 311204,
       "word": "乱港分子罗冠聪入境新加坡被拘",
@@ -635,20 +659,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307193,
+      "num": 307193,
+      "word": "儿子成绩三连跌家长怒退国庆旅游机票",
+      "onboard_time": 1759140201,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306350,
       "num": 306350,
       "word": "千里寻椰回应被烧伤",
       "onboard_time": 1759113680,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 299484,
-      "num": 299484,
-      "word": "儿子成绩三连跌家长怒退国庆旅游机票",
-      "onboard_time": 1759140201,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295661,
@@ -664,6 +688,14 @@
       "word": "央视曝光玄学大师骗局",
       "onboard_time": 1759071385,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290717,
+      "num": 290717,
+      "word": "校园跑APP遭大学生吐槽",
+      "onboard_time": 1759140802,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -761,14 +793,6 @@
       "onboard_time": 1759096635,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 226202,
-      "num": 255515,
-      "word": "校园跑APP遭大学生吐槽",
-      "onboard_time": 1759140802,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222729,
@@ -921,6 +945,14 @@
       "onboard_time": 1759119323,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 194907,
+      "num": 194907,
+      "word": "北京火箭云",
+      "onboard_time": 1759144760,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193835,
@@ -1187,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162921,
+      "num": 162921,
+      "word": "差点没认出苗苗",
+      "onboard_time": 1759144702,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162802,
       "num": 162802,
       "word": "张晚意骑骆驼迷死我了",
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 161216,
-      "num": 130140,
+      "num": 190737,
       "word": "肖战主演电影国庆首播",
       "onboard_time": 1759142059,
       "rank": 25,
@@ -1291,20 +1331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155111,
+      "num": 155111,
+      "word": "微博篮球之夜",
+      "onboard_time": 1759145241,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153853,
       "num": 153853,
       "word": "薛凯琪唱了方大同写的慕容雪",
       "onboard_time": 1759117040,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153204,
-      "num": 153204,
-      "word": "33岁的周深",
-      "onboard_time": 1759143562,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 152490,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1759126822,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151581,
-      "num": 151581,
-      "word": "北京火箭云",
-      "onboard_time": 1759144760,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151359,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1759076301,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142908,
+      "num": 142908,
+      "word": "微信朋友圈照片变清晰",
+      "onboard_time": 1759144041,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 140795,
@@ -1603,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129759,
+      "num": 129759,
+      "word": "系统推进我国宗教中国化",
+      "onboard_time": 1759145540,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129750,
       "num": 129750,
       "word": "是谁拿到了王源送的手机",
@@ -1667,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127459,
+      "num": 127459,
+      "word": "官方回应湛江发生龙卷风",
+      "onboard_time": 1759145241,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127090,
       "num": 127090,
       "word": "以为内娱又抬待爆剧上桌了",
@@ -1681,14 +1737,6 @@
       "onboard_time": 1759140802,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126651,
-      "num": 230382,
-      "word": "董璇张维伊婚礼 长辈加桌",
-      "onboard_time": 1759143740,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 126370,
@@ -1939,12 +1987,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 112577,
-      "num": 112577,
-      "word": "微信朋友圈照片变清晰",
-      "onboard_time": 1759144041,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 112392,
+      "num": 112392,
+      "word": "河北天空",
+      "onboard_time": 1759145481,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112119,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1759128621,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110633,
+      "num": 110633,
+      "word": "蔡文静上身夏天下身冬天",
+      "onboard_time": 1759145423,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 110480,
@@ -2027,6 +2083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108350,
+      "num": 121193,
+      "word": "张馨予大腿肌肉线条",
+      "onboard_time": 1759141400,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108068,
       "num": 108068,
       "word": "易烊千玺狂野时代国内首映",
@@ -2043,6 +2107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106650,
+      "num": 106650,
+      "word": "郑钦文vs诺斯科娃",
+      "onboard_time": 1759145060,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106584,
       "num": 126343,
       "word": "李昀锐老婆开门我是祖宗",
@@ -2057,6 +2129,14 @@
       "onboard_time": 1759127601,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106361,
+      "num": 106361,
+      "word": "卫健委回应华山医院做错手术",
+      "onboard_time": 1759141940,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106204,
@@ -2121,14 +2201,6 @@
       "onboard_time": 1759107680,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 103811,
-      "num": 121193,
-      "word": "张馨予大腿肌肉线条",
-      "onboard_time": 1759141400,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 103786,
@@ -2203,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101522,
+      "num": 101522,
+      "word": "敦促日方立即停止列单中企错误做法",
+      "onboard_time": 1759145781,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101276,
       "num": 101276,
       "word": "孙颖莎胜率92%",
@@ -2225,14 +2305,6 @@
       "onboard_time": 1759067845,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 100657,
-      "num": 100657,
-      "word": "卫健委回应华山医院做错手术",
-      "onboard_time": 1759141940,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100536,
@@ -2289,6 +2361,14 @@
       "onboard_time": 1759142600,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 97980,
+      "num": 116960,
+      "word": "路人拍的孙一宁",
+      "onboard_time": 1759144702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 97004,
@@ -2417,6 +2497,14 @@
       "onboard_time": 1759054760,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89009,
+      "num": 113542,
+      "word": "卖女孩的红烧肉改为卖红烧肉的女孩",
+      "onboard_time": 1759145060,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89001,
@@ -2641,14 +2729,6 @@
       "onboard_time": 1759072764,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74877,
-      "num": 116960,
-      "word": "路人拍的孙一宁",
-      "onboard_time": 1759144702,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 73794,
@@ -2884,7 +2964,7 @@
     },
     {
       "raw_hot": 49371,
-      "num": 155576,
+      "num": 191196,
       "word": "小沈阳成乐道L90第两万个用户",
       "onboard_time": 1759142721,
       "rank": 29,
@@ -2969,14 +3049,6 @@
       "onboard_time": 1759117520,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32893,
-      "num": 116738,
-      "word": "差点没认出苗苗",
-      "onboard_time": 1759144702,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 31732,
