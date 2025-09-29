@@ -1,0 +1,410 @@
+{
+  "runTime": 1759171687589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327071,
+        "num": 327071,
+        "word": "维达抽纸被曝有黄色不明物体",
+        "onboard_time": 1759161381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71761,
+        "num": 71761,
+        "word": "微信朋友圈照片变清晰",
+        "onboard_time": 1759144041,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1688,
+        "num": 61139,
+        "word": "试验三十号卫星01和02星发射成功",
+        "onboard_time": 1759119323,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117102,
+        "num": 58750,
+        "word": "roscoe去世",
+        "onboard_time": 1759150939,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51902,
+        "num": 51902,
+        "word": "永远铭记烈士们的牺牲",
+        "onboard_time": 1759161921,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43000,
+        "num": 43000,
+        "word": "明家犯罪集团11人死刑",
+        "onboard_time": 1759136720,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41426,
+        "num": 41426,
+        "word": "男子含着烟头吃饭敲诈面馆",
+        "onboard_time": 1759154841,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40847,
+        "num": 40847,
+        "word": "明家涉赌诈超100亿元",
+        "onboard_time": 1759136541,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38585,
+        "num": 38585,
+        "word": "北京天空",
+        "onboard_time": 1759144341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29031,
+        "num": 38475,
+        "word": "盛世中国如你所愿",
+        "onboard_time": 1759163180,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131935,
+        "num": 38348,
+        "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+        "onboard_time": 1759150341,
+        "rank": 10,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 119769,
+        "num": 38197,
+        "word": "迪丽热巴刘海",
+        "onboard_time": 1759158142,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93710,
+        "num": 37976,
+        "word": "第一批丁克夫妻离世遗产留给谁",
+        "onboard_time": 1759157364,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82171,
+        "num": 37748,
+        "word": "说唱歌手诺米无证驾驶被交警处罚",
+        "onboard_time": 1759166356,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 80204,
+        "num": 37691,
+        "word": "许我耀眼",
+        "onboard_time": 1759157963,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28568,
+        "num": 37542,
+        "word": "第12个烈士纪念日",
+        "onboard_time": 1759156642,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78814,
+        "num": 37244,
+        "word": "中方决定增设K字签证",
+        "onboard_time": 1759133720,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64693,
+        "num": 37133,
+        "word": "差点没认出苗苗",
+        "onboard_time": 1759144702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63709,
+        "num": 37039,
+        "word": "张予曦出个国怎么美成这样",
+        "onboard_time": 1759155382,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42161,
+        "num": 36817,
+        "word": "杨超越露肩裙自拍",
+        "onboard_time": 1759162580,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57259,
+        "num": 36610,
+        "word": "何超莲窦骁领结婚证了吗",
+        "onboard_time": 1759154122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41875,
+        "num": 36406,
+        "word": "董璇张维伊婚礼 长辈加桌",
+        "onboard_time": 1759143740,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36374,
+        "num": 36374,
+        "word": "苏醒 老歌手的日常",
+        "onboard_time": 1759153701,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35030,
+        "num": 35030,
+        "word": "邓超辛芷蕾 影帝更懂影后",
+        "onboard_time": 1759157123,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33995,
+        "num": 33995,
+        "word": "王力宏演唱会嘉宾鹿晗",
+        "onboard_time": 1759160181,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33278,
+        "num": 33278,
+        "word": "疯狂动物城2内地定档",
+        "onboard_time": 1759153822,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32301,
+        "num": 32301,
+        "word": "周深直播",
+        "onboard_time": 1759145601,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30908,
+        "num": 30908,
+        "word": "女子跪坐高速奔驰的汽车引擎盖",
+        "onboard_time": 1759158682,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29783,
+        "num": 29783,
+        "word": "将门独后男主90生",
+        "onboard_time": 1759142600,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28565,
+        "num": 28565,
+        "word": "评委王俊凯颁奖",
+        "onboard_time": 1759166118,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28422,
+        "num": 28422,
+        "word": "瘦10斤比我瘦30斤还明显",
+        "onboard_time": 1759146860,
+        "rank": 30,
+        "category": "运动健身,情感"
+      },
+      {
+        "raw_hot": 28201,
+        "num": 28201,
+        "word": "日本网友P图预言反对引进印度人才",
+        "onboard_time": 1759153642,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28122,
+        "num": 28122,
+        "word": "技能五子棋",
+        "onboard_time": 1759150400,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27696,
+        "num": 27696,
+        "word": "孟子义李昀锐终于学会翻面吻了",
+        "onboard_time": 1759163479,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27642,
+        "num": 27642,
+        "word": "他们用生命换来了山河无恙",
+        "onboard_time": 1759164258,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27207,
+        "num": 27207,
+        "word": "鸡排哥1分钟视频报价仅10元",
+        "onboard_time": 1759138221,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26357,
+        "num": 26357,
+        "word": "小猫被锁快递柜猫妈雨中守候",
+        "onboard_time": 1759168155,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25839,
+        "num": 25839,
+        "word": "地球超新鲜",
+        "onboard_time": 1759163717,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25813,
+        "num": 25813,
+        "word": "女子高铁说讨厌小孩被宝妈怼哭",
+        "onboard_time": 1759135161,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25682,
+        "num": 25682,
+        "word": "周深新歌热血有力量",
+        "onboard_time": 1759164077,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24005,
+        "num": 24005,
+        "word": "英雄联盟S15",
+        "onboard_time": 1759156941,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23659,
+        "num": 23659,
+        "word": "辛芷蕾 国际巨星洗浴中心",
+        "onboard_time": 1759157364,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22841,
+        "num": 22841,
+        "word": "5岁男童小区景观池触电身亡",
+        "onboard_time": 1759157782,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22419,
+        "num": 22419,
+        "word": "赵丽颖学过钢管舞",
+        "onboard_time": 1759156764,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21817,
+        "num": 21817,
+        "word": "俱乐部为樊振东欧冠首秀换场馆",
+        "onboard_time": 1759160781,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21714,
+        "num": 21714,
+        "word": "警惕肺癌早期的几个信号",
+        "onboard_time": 1759147880,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21586,
+        "num": 21586,
+        "word": "宁艺卓Gucci探店",
+        "onboard_time": 1759159761,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 21093,
+        "num": 21093,
+        "word": "邓为变壮",
+        "onboard_time": 1759149320,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20293,
+        "num": 21091,
+        "word": "敬山水",
+        "onboard_time": 1759152862,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19693,
+        "num": 21084,
+        "word": "惠英红 大女主真女王",
+        "onboard_time": 1759171574,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#激发宗教界主动作为自我变革#"
+    }
+  }
+}
