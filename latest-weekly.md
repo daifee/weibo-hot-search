@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 00:26:37
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 00:39:54
 </p>
 </blockquote>
 <p>
@@ -933,6 +933,12 @@ iPhone 调休闹钟（热度：1012419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%8B%8F%E9%86%92%E6%8B%89%E8%B8%A9%E6%B2%B3%E5%8D%97%E8%83%A1%E8%BE%A3%E6%B1%A4%23" target="weibo">
+胡辣汤协会回应苏醒拉踩河南胡辣汤（热度：441180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%B0%84%E6%89%8B%23" target="weibo">
 保射手（热度：439492）
 </a>
@@ -989,12 +995,6 @@ iPhone 调休闹钟（热度：1012419）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%A4%A7%E9%9B%B7%23" target="weibo">
 鞠婧祎 大雷（热度：423741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%8B%8F%E9%86%92%E6%8B%89%E8%B8%A9%E6%B2%B3%E5%8D%97%E8%83%A1%E8%BE%A3%E6%B1%A4%23" target="weibo">
-胡辣汤协会回应苏醒拉踩河南胡辣汤（热度：421593）
 </a>
 </li>
 
@@ -3237,6 +3237,12 @@ JIUZHE战队夺冠（热度：129087）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC12%E4%B8%AA%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5%23" target="weibo">
+第12个烈士纪念日（热度：128618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B1%B1%E5%8C%BB%E9%99%A2%E5%B0%86%E5%B7%A6%E8%BE%93%E5%B0%BF%E7%AE%A1%E6%89%8B%E6%9C%AF%E5%81%9A%E6%88%90%E5%8F%B3%E4%BE%A7%23" target="weibo">
 华山医院将左输尿管手术做成右侧（热度：128429）
 </a>
@@ -3329,12 +3335,6 @@ Faker疑似暗示明年不退役（热度：128211）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%A2%AB%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%B8%82%E9%9C%87%E6%83%8A%23" target="weibo">
 外国人被中国超市震惊（热度：125935）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC12%E4%B8%AA%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5%23" target="weibo">
-第12个烈士纪念日（热度：125258）
 </a>
 </li>
 
@@ -4383,6 +4383,12 @@ K字签证不是中国版H1B（热度：99018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9C%B2%E8%82%A9%E8%A3%99%E8%87%AA%E6%8B%8D%23" target="weibo">
+杨超越露肩裙自拍（热度：96897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%AF%BC%E5%9E%8B%E6%81%8B%E4%BA%BA%23" target="weibo">
 引导型恋人（热度：96560）
 </a>
@@ -4635,12 +4641,6 @@ Ruler哭了（热度：87347）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9C%B2%E8%82%A9%E8%A3%99%E8%87%AA%E6%8B%8D%23" target="weibo">
-杨超越露肩裙自拍（热度：86469）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%89%A7%E5%AE%A3%E5%AE%B3%E7%BE%9E%E6%88%90%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%B7%E5%A5%B3%E4%B8%BB%23" target="weibo">
 第一次见剧宣害羞成这样的男女主（热度：86314）
 </a>
@@ -4685,6 +4685,12 @@ Ruler哭了（热度：87347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0%E6%9A%82%E5%81%9C%23" target="weibo">
 战至巅峰暂停（热度：85138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E8%BE%BE%E6%8A%BD%E7%BA%B8%E8%A2%AB%E6%9B%9D%E6%9C%89%E9%BB%84%E8%89%B2%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93%23" target="weibo">
+维达抽纸被曝有黄色不明物体（热度：85134）
 </a>
 </li>
 
@@ -4839,6 +4845,12 @@ Ruler哭了（热度：87347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E6%97%B6%E9%97%B4%23" target="weibo">
+爱奇艺尖叫之夜时间（热度：75105）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%8F%AD%E6%8F%90%E5%89%8D15%E5%B0%8F%E6%97%B6%E9%A3%9E%E4%B9%98%E5%AE%A2%E6%8D%9F%E5%A4%B1%E8%B0%81%E6%89%BF%E6%8B%85%23" target="weibo">
 航班提前15小时飞乘客损失谁承担（热度：74560）
 </a>
@@ -4853,6 +4865,12 @@ Ruler哭了（热度：87347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%A5%A0%20%E4%BF%AE%E9%9F%B3%E5%93%8D%23" target="weibo">
 孙楠 修音响（热度：73794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E7%BF%BB%E9%9D%A2%E5%90%BB%E4%BA%86%23" target="weibo">
+孟子义李昀锐终于学会翻面吻了（热度：73638）
 </a>
 </li>
 
@@ -4929,6 +4947,12 @@ Ruler哭了（热度：87347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF%23" target="weibo">
+盛世中国如你所愿（热度：68718）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E5%85%AC%E5%B8%83%23" target="weibo">
 印度踩踏事件现场视频公布（热度：68645）
 </a>
@@ -4977,8 +5001,8 @@ Ruler哭了（热度：87347）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF%23" target="weibo">
-盛世中国如你所愿（热度：63989）
+<a href="https://s.weibo.com/weibo?q=%232025%E4%B8%AD%E7%BD%91%23" target="weibo">
+2025中网（热度：64182）
 </a>
 </li>
 
@@ -5003,12 +5027,6 @@ Ruler哭了（热度：87347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%B5%B7%E5%B0%8F%E5%BA%97%E5%9B%9E%E5%BA%94%E7%99%BB%E9%A1%B6%E6%89%AB%E8%A1%97%E6%A6%9C%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23" target="weibo">
 北海小店回应登顶扫街榜全国第一（热度：62580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E6%97%B6%E9%97%B4%23" target="weibo">
-爱奇艺尖叫之夜时间（热度：62438）
 </a>
 </li>
 
@@ -5057,6 +5075,12 @@ Ruler哭了（热度：87347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%BD%E8%BD%A6%E5%85%A8%E7%90%83%E5%8C%96%E4%B8%8D%E8%83%BD%E5%81%8F%E7%A7%91%23" target="weibo">
 汽车全球化不能偏科（热度：60499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%23" target="weibo">
+地球超新鲜（热度：60467）
 </a>
 </li>
 
@@ -5879,6 +5903,12 @@ chiikawa新动画（热度：14546）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%B3%BB%E7%BB%9F%E6%8E%A8%E8%BF%9B%E6%88%91%E5%9B%BD%E5%AE%97%E6%95%99%E4%B8%AD%E5%9B%BD%E5%8C%96%23%23" target="weibo">
 #系统推进我国宗教中国化#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%BF%80%E5%8F%91%E5%AE%97%E6%95%99%E7%95%8C%E4%B8%BB%E5%8A%A8%E4%BD%9C%E4%B8%BA%E8%87%AA%E6%88%91%E5%8F%98%E9%9D%A9%23%23" target="weibo">
+#激发宗教界主动作为自我变革#
 </a>
 </li>
 

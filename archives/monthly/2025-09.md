@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 00:26:37
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 00:39:54
 </p>
 </blockquote>
 <p>
@@ -6587,6 +6587,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%B3%BB%E7%BB%9F%E6%8E%A8%E8%BF%9B%E6%88%91%E5%9B%BD%E5%AE%97%E6%95%99%E4%B8%AD%E5%9B%BD%E5%8C%96%23%23" target="weibo">
 #系统推进我国宗教中国化#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%BF%80%E5%8F%91%E5%AE%97%E6%95%99%E7%95%8C%E4%B8%BB%E5%8A%A8%E4%BD%9C%E4%B8%BA%E8%87%AA%E6%88%91%E5%8F%98%E9%9D%A9%23%23" target="weibo">
+#激发宗教界主动作为自我变革#
 </a>
 </li>
 
