@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759180958558,
+  "endTime": 1759181823185,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -6627,6 +6627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66274,
+      "num": 66274,
+      "word": "明家犯罪集团致14死6伤",
+      "onboard_time": 1759176313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65938,
       "num": 126367,
       "word": "深圳4天中出两次10000000元大奖",
@@ -7187,14 +7195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42886,
-      "num": 42886,
-      "word": "明家犯罪集团致14死6伤",
-      "onboard_time": 1759176313,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42681,
       "num": 202328,
       "word": "诬陷扶人者不能只道歉了事",
@@ -7347,6 +7347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35793,
+      "num": 27887,
+      "word": "他们用生命换来了山河无恙",
+      "onboard_time": 1759164258,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35211,
       "num": 117765,
       "word": "孙颖莎比划有那么长",
@@ -7361,14 +7369,6 @@
       "onboard_time": 1759006994,
       "rank": 48,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 34441,
-      "num": 27642,
-      "word": "他们用生命换来了山河无恙",
-      "onboard_time": 1759164258,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34206,
@@ -7771,6 +7771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18490,
+      "num": 18490,
+      "word": "日本反移民游行",
+      "onboard_time": 1759178293,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17513,
       "num": 19261,
       "word": "王俊凯平遥电影展罗西里尼评审",
@@ -7779,12 +7787,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16788,
-      "num": 16788,
-      "word": "日本反移民游行",
-      "onboard_time": 1759178293,
-      "rank": 48,
-      "category": "海外新闻"
+      "raw_hot": 17208,
+      "num": 17208,
+      "word": "瑞幸销毁下市物料被指浪费",
+      "onboard_time": 1759177694,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15353,
@@ -7795,12 +7803,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15097,
-      "num": 15097,
-      "word": "瑞幸销毁下市物料被指浪费",
-      "onboard_time": 1759177694,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 14676,
+      "num": 16177,
+      "word": "无限暖暖",
+      "onboard_time": 1759167496,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 14546,
@@ -7865,14 +7873,6 @@
       "onboard_time": 1759006394,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11800,
-      "num": 15030,
-      "word": "无限暖暖",
-      "onboard_time": 1759167496,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 10430,
