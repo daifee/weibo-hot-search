@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 14:51:35
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 15:26:52
 </p>
 </blockquote>
 <p>
@@ -5559,6 +5559,12 @@ iPhone17Promini首曝（热度：777010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%BF%E5%AE%A1%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%8211%E5%B9%B4%23" target="weibo">
+男子政审时发现被患精神分裂11年（热度：772443）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E4%B8%89%E5%B0%8F%E6%97%B6%20%E5%AE%A2%E6%88%B7%E8%A2%AB%E7%9B%98%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%23" target="weibo">
 洗澡三小时 客户被盘了一个半小时（热度：771822）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E8%AF%B4%E6%80%80%E5%9B%9B%E8%83%8E%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%23" target="weibo">
 昆凌说怀四胎顺其自然（热度：735291）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
-教师节（热度：735131）
 </a>
 </li>
 

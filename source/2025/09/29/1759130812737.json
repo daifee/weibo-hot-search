@@ -1,0 +1,410 @@
+{
+  "runTime": 1759130812737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 772443,
+        "num": 1123591,
+        "word": "男子政审时发现被患精神分裂11年",
+        "onboard_time": 1759127240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499271,
+        "num": 499271,
+        "word": "李在明道歉",
+        "onboard_time": 1759128800,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21669,
+        "num": 485891,
+        "word": "各地都换上了国庆限定皮肤",
+        "onboard_time": 1759104501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477553,
+        "num": 477553,
+        "word": "金饰价格涨到1115元",
+        "onboard_time": 1759125321,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 405922,
+        "num": 405922,
+        "word": "女子称子宫被装监听器起诉医院",
+        "onboard_time": 1759119740,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689201,
+        "num": 395762,
+        "word": "肖战容祖儿 这是小沈阳的女儿",
+        "onboard_time": 1759128141,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380102,
+        "num": 380102,
+        "word": "中共中央政治局9月29日召开会议",
+        "onboard_time": 1759129222,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347627,
+        "num": 347627,
+        "word": "雨果说国乒统治力变弱了",
+        "onboard_time": 1759122920,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277109,
+        "num": 277109,
+        "word": "中日混血在日本遭歧视",
+        "onboard_time": 1759122920,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261094,
+        "num": 276763,
+        "word": "爱奇艺尖叫之夜阵容",
+        "onboard_time": 1759127001,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1114236,
+        "num": 272618,
+        "word": "小酒窝发博",
+        "onboard_time": 1759123641,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 587851,
+        "num": 269443,
+        "word": "杨幂大光明",
+        "onboard_time": 1759125560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484030,
+        "num": 269179,
+        "word": "苏醒被指拉踩河南胡辣汤",
+        "onboard_time": 1759126102,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282072,
+        "num": 266104,
+        "word": "王健林还剩什么资产",
+        "onboard_time": 1759122802,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264271,
+        "num": 264271,
+        "word": "清华通报多名师生参与黄牛活动牟利",
+        "onboard_time": 1759114400,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 250249,
+        "num": 250249,
+        "word": "特斯拉技术员被机器人打成重伤",
+        "onboard_time": 1759127721,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164029,
+        "num": 224663,
+        "word": "闫妮魏大勋不许再酗酒了",
+        "onboard_time": 1759120583,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72805,
+        "num": 207821,
+        "word": "高德扫街榜发布全国top100餐厅",
+        "onboard_time": 1759129640,
+        "rank": 17,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 205085,
+        "num": 205085,
+        "word": "金价",
+        "onboard_time": 1759127479,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42029,
+        "num": 198287,
+        "word": "毛不易分享睡眠神器",
+        "onboard_time": 1759126759,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132959,
+        "num": 197887,
+        "word": "千里寻椰 光子嫩肤二度烧伤",
+        "onboard_time": 1759109180,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 237279,
+        "num": 197887,
+        "word": "肖战婉拒签名",
+        "onboard_time": 1759115900,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197742,
+        "num": 197742,
+        "word": "鸡排哥称有男科医院来蹭流量",
+        "onboard_time": 1759119922,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197048,
+        "num": 197048,
+        "word": "男子停车费超20000000不敢取车",
+        "onboard_time": 1759117880,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168108,
+        "num": 191667,
+        "word": "湖南卫视中秋之夜官宣阵容",
+        "onboard_time": 1759130300,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187980,
+        "num": 187980,
+        "word": "花海送皮肤",
+        "onboard_time": 1759126280,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186737,
+        "num": 186737,
+        "word": "乱港分子罗冠聪入境新加坡被拘",
+        "onboard_time": 1759129760,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170365,
+        "num": 170365,
+        "word": "女子商场发飙砸玉器店",
+        "onboard_time": 1759127420,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125681,
+        "num": 163039,
+        "word": "内娱最会吻的cp上新了",
+        "onboard_time": 1759126641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71324,
+        "num": 161403,
+        "word": "奢品经典包回归意味什么",
+        "onboard_time": 1759129640,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160500,
+        "num": 160500,
+        "word": "四种食物最好不要空腹吃",
+        "onboard_time": 1759125740,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132953,
+        "num": 132953,
+        "word": "朱开谈iG和GEN打训练赛",
+        "onboard_time": 1759129400,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119341,
+        "num": 132014,
+        "word": "闫妮 发疯的香蕉",
+        "onboard_time": 1759125740,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131610,
+        "num": 131610,
+        "word": "万千惠妈妈回老家了",
+        "onboard_time": 1759128260,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120714,
+        "num": 129765,
+        "word": "易烊千玺轻舟已过万重山",
+        "onboard_time": 1759130000,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129221,
+        "num": 129221,
+        "word": "卧龙新能涨停",
+        "onboard_time": 1759129939,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119033,
+        "num": 127019,
+        "word": "林依轮背后环抱王源",
+        "onboard_time": 1759129281,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125335,
+        "num": 125335,
+        "word": "王楚钦 麒麟",
+        "onboard_time": 1759124301,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25568,
+        "num": 115597,
+        "word": "二十届四中全会10月20日至23日召开",
+        "onboard_time": 1759128501,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102962,
+        "num": 112339,
+        "word": "全伊伦荧幕初吻是陈瑶",
+        "onboard_time": 1759130000,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111900,
+        "num": 111900,
+        "word": "ally拒绝恋综导演邀请",
+        "onboard_time": 1759127780,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106387,
+        "num": 106387,
+        "word": "作者上班和上高三时的写文区别",
+        "onboard_time": 1759130361,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101893,
+        "num": 101893,
+        "word": "九三阅兵礼宾车正陆续返还车主",
+        "onboard_time": 1759102820,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101276,
+        "num": 101276,
+        "word": "孙颖莎胜率92%",
+        "onboard_time": 1759130540,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100707,
+        "num": 100707,
+        "word": "赵丽颖工作室取消行程图",
+        "onboard_time": 1759119562,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100581,
+        "num": 100581,
+        "word": "时代少年团给丁程鑫送花篮",
+        "onboard_time": 1759127659,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93940,
+        "num": 93940,
+        "word": "甲状腺正在悄悄为你的熬夜买单",
+        "onboard_time": 1759112240,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91869,
+        "num": 91869,
+        "word": "研究称月球生锈了",
+        "onboard_time": 1759130420,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88639,
+        "num": 88639,
+        "word": "小猫是不能退换的",
+        "onboard_time": 1759127601,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85916,
+        "num": 85916,
+        "word": "人一旦有了电动车",
+        "onboard_time": 1759130781,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好为党育才为党献策#"
+    }
+  }
+}
