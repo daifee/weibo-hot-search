@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 06:21:12
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 06:36:39
 </p>
 </blockquote>
 <p>
@@ -1731,6 +1731,12 @@ iPhone17系列展示机刮痕原因（热度：215571）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%AA%E5%9D%90%E9%AB%98%E9%80%9F%E5%A5%94%E9%A9%B0%E7%9A%84%E6%B1%BD%E8%BD%A6%E5%BC%95%E6%93%8E%E7%9B%96%23" target="weibo">
+女子跪坐高速奔驰的汽车引擎盖（热度：205244）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94%E9%99%88%E5%A5%95%E6%81%92%E5%BD%92%E9%98%9F%E6%97%B6%E9%97%B4%23" target="weibo">
 时代峰峻回应陈奕恒归队时间（热度：205099）
 </a>
@@ -2279,12 +2285,6 @@ iG战胜JDG（热度：178046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%BD%A9%E6%8E%92%23" target="weibo">
 湾区升明月彩排（热度：169517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%AA%E5%9D%90%E9%AB%98%E9%80%9F%E5%A5%94%E9%A9%B0%E7%9A%84%E6%B1%BD%E8%BD%A6%E5%BC%95%E6%93%8E%E7%9B%96%23" target="weibo">
-女子跪坐高速奔驰的汽车引擎盖（热度：169445）
 </a>
 </li>
 
@@ -3993,6 +3993,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
+明家犯罪集团致14死6伤（热度：106499）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8D%8E%E5%B1%B1%E5%8C%BB%E9%99%A2%E5%81%9A%E9%94%99%E6%89%8B%E6%9C%AF%23" target="weibo">
 卫健委回应华山医院做错手术（热度：106361）
 </a>
@@ -4511,12 +4517,6 @@ K字签证不是中国版H1B（热度：99018）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E4%BA%94%E5%93%88%E5%8F%AA%E9%9C%80%E8%A6%81%E7%95%99%E4%B8%8B%E9%B9%BF%E6%99%97%23" target="weibo">
 邓超说五哈只需要留下鹿晗（热度：92546）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
-明家犯罪集团致14死6伤（热度：92144）
 </a>
 </li>
 
@@ -5397,6 +5397,12 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AC%A7%E5%86%A0%E9%A6%96%E7%A7%80%E6%8D%A2%E5%9C%BA%E9%A6%86%23" target="weibo">
+俱乐部为樊振东欧冠首秀换场馆（热度：43409）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%84%E5%A7%94%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%A2%81%E5%A5%96%23" target="weibo">
 评委王俊凯颁奖（热度：43389）
 </a>
@@ -5571,12 +5577,6 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AC%A7%E5%86%A0%E9%A6%96%E7%A7%80%E6%8D%A2%E5%9C%BA%E9%A6%86%23" target="weibo">
-俱乐部为樊振东欧冠首秀换场馆（热度：30454）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23BV%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%E6%98%8E%E6%98%9F%E7%8A%B6%E6%80%81%23" target="weibo">
 BV米兰时装周明星状态（热度：30091）
 </a>
@@ -5585,6 +5585,12 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E7%BA%B3vs%E9%A9%AC%E6%B4%9B%E6%A1%91%23" target="weibo">
 辛纳vs马洛桑（热度：29393）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
+邓超 我先看一眼影后（热度：29283）
 </a>
 </li>
 
@@ -5639,12 +5645,6 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BF%AB%E9%80%92%E6%9F%9C%E7%8C%AB%E5%A6%88%E9%9B%A8%E4%B8%AD%E5%AE%88%E5%80%99%23" target="weibo">
 小猫被锁快递柜猫妈雨中守候（热度：26357）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%88%91%E5%85%88%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%BD%B1%E5%90%8E%23" target="weibo">
-邓超 我先看一眼影后（热度：26066）
 </a>
 </li>
 
@@ -5722,7 +5722,7 @@ BV米兰时装周明星状态（热度：30091）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B8%B8%E8%A1%8C%23" target="weibo">
-日本反移民游行（热度：23533）
+日本反移民游行（热度：23863）
 </a>
 </li>
 
