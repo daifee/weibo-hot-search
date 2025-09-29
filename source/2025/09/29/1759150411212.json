@@ -1,0 +1,410 @@
+{
+  "runTime": 1759150411212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 968494,
+        "num": 1154959,
+        "word": "北京天空",
+        "onboard_time": 1759144341,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538503,
+        "num": 538503,
+        "word": "女童耳朵撕裂10万托班监控失灵",
+        "onboard_time": 1759145900,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19863,
+        "num": 535241,
+        "word": "高质量完成十四五规划系列发布会",
+        "onboard_time": 1759136421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 791882,
+        "num": 534251,
+        "word": "周深直播",
+        "onboard_time": 1759145601,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594751,
+        "num": 533853,
+        "word": "董璇张维伊婚礼 长辈加桌",
+        "onboard_time": 1759143740,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532459,
+        "num": 532459,
+        "word": "明家犯罪集团11人死刑",
+        "onboard_time": 1759136720,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393258,
+        "num": 393258,
+        "word": "中方决定增设K字签证",
+        "onboard_time": 1759133720,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371494,
+        "num": 371494,
+        "word": "河北天空",
+        "onboard_time": 1759145481,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348991,
+        "num": 348991,
+        "word": "女子高铁说讨厌小孩被宝妈怼哭",
+        "onboard_time": 1759135161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302788,
+        "num": 302788,
+        "word": "明家涉赌诈超100亿元",
+        "onboard_time": 1759136541,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677790,
+        "num": 286575,
+        "word": "差点没认出苗苗",
+        "onboard_time": 1759144702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396520,
+        "num": 284514,
+        "word": "瘦10斤比我瘦30斤还明显",
+        "onboard_time": 1759146860,
+        "rank": 11,
+        "category": "运动健身,情感"
+      },
+      {
+        "raw_hot": 393322,
+        "num": 275714,
+        "word": "公公葬礼上女子发现丈夫竟出轨16年",
+        "onboard_time": 1759139180,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266733,
+        "num": 266733,
+        "word": "微信朋友圈照片变清晰",
+        "onboard_time": 1759144041,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265477,
+        "num": 265477,
+        "word": "海陆瘦成纸片人",
+        "onboard_time": 1759143441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248833,
+        "num": 248833,
+        "word": "将门独后男主90生",
+        "onboard_time": 1759142600,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222305,
+        "num": 222305,
+        "word": "22岁全款300万买房后的生活",
+        "onboard_time": 1759141460,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44003,
+        "num": 221636,
+        "word": "全国都在偶遇樊振东",
+        "onboard_time": 1759147580,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117597,
+        "num": 218530,
+        "word": "极氪9X引领新一代科技豪华",
+        "onboard_time": 1759150101,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126555,
+        "num": 217003,
+        "word": "陈俊菘3比2张本智和",
+        "onboard_time": 1759149860,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375712,
+        "num": 212961,
+        "word": "沈佳润 一点垫音混音不给孩子加",
+        "onboard_time": 1759138401,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254956,
+        "num": 212008,
+        "word": "小酒窝发博",
+        "onboard_time": 1759123641,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209978,
+        "num": 209978,
+        "word": "孙俪吃了一段时间的干净饭",
+        "onboard_time": 1759134741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198912,
+        "num": 198912,
+        "word": "食品厂工人掉入月饼机器",
+        "onboard_time": 1759135882,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195698,
+        "num": 195698,
+        "word": "郑钦文vs诺斯科娃",
+        "onboard_time": 1759145060,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192994,
+        "num": 192994,
+        "word": "鸡排哥1分钟视频报价仅10元",
+        "onboard_time": 1759138221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170647,
+        "num": 170647,
+        "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+        "onboard_time": 1759150341,
+        "rank": 26,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 165863,
+        "num": 165863,
+        "word": "宋祖儿 雪地玫瑰妆",
+        "onboard_time": 1759150040,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163523,
+        "num": 163523,
+        "word": "邓为变壮",
+        "onboard_time": 1759149320,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145038,
+        "num": 155915,
+        "word": "街舞5选手解晓东去世",
+        "onboard_time": 1759130840,
+        "rank": 29,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 150681,
+        "num": 150681,
+        "word": "警惕肺癌早期的几个信号",
+        "onboard_time": 1759147880,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148508,
+        "num": 148508,
+        "word": "肖战容祖儿 这是小沈阳的女儿",
+        "onboard_time": 1759128141,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143728,
+        "num": 143728,
+        "word": "快乐小孩王楚钦",
+        "onboard_time": 1759150101,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138438,
+        "num": 138438,
+        "word": "沈佳润观众缘",
+        "onboard_time": 1759136600,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133033,
+        "num": 133033,
+        "word": "单依纯也跳上技能五子棋了",
+        "onboard_time": 1759148840,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126202,
+        "num": 126202,
+        "word": "李昀锐半裸镜头",
+        "onboard_time": 1759146560,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124167,
+        "num": 124167,
+        "word": "路人拍的孙一宁",
+        "onboard_time": 1759144702,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123235,
+        "num": 123235,
+        "word": "漂亮的妈 争气的娃",
+        "onboard_time": 1759139001,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29226,
+        "num": 119318,
+        "word": "丁程鑫跟人家的头握了一个手",
+        "onboard_time": 1759149981,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119148,
+        "num": 119148,
+        "word": "苏醒被指拉踩河南胡辣汤",
+        "onboard_time": 1759126102,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123445,
+        "num": 118407,
+        "word": "李昀锐变得是身份不变的是身材",
+        "onboard_time": 1759149740,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116876,
+        "num": 116876,
+        "word": "王一博 王漂亮",
+        "onboard_time": 1759132880,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115135,
+        "num": 115135,
+        "word": "系统推进我国宗教中国化",
+        "onboard_time": 1759145540,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107309,
+        "num": 107309,
+        "word": "网传月饼工人掉进机器系谣言",
+        "onboard_time": 1759149561,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 105382,
+        "num": 105382,
+        "word": "明家犯罪集团案一审宣判",
+        "onboard_time": 1759136000,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104859,
+        "num": 104859,
+        "word": "禁止出境展览的国宝什么样",
+        "onboard_time": 1759150160,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102472,
+        "num": 102472,
+        "word": "33岁的周深",
+        "onboard_time": 1759143562,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99448,
+        "num": 99448,
+        "word": "停在路上的僵尸车集体不见了",
+        "onboard_time": 1759144281,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99018,
+        "num": 99018,
+        "word": "K字签证不是中国版H1B",
+        "onboard_time": 1759147999,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86013,
+        "num": 96998,
+        "word": "肖战湾区升明月整晚的音乐舞台图",
+        "onboard_time": 1759149082,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局9月29日召开会议#"
+    }
+  }
+}
