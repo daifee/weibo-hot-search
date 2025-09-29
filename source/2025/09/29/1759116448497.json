@@ -1,0 +1,410 @@
+{
+  "runTime": 1759116448497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950048,
+        "num": 1152007,
+        "word": "清华通报多名师生参与黄牛活动牟利",
+        "onboard_time": 1759114400,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 608313,
+        "num": 608313,
+        "word": "网红称婆婆吃邻居送的蘑菇中毒身亡",
+        "onboard_time": 1759109958,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 33555,
+        "num": 594895,
+        "word": "各地都换上了国庆限定皮肤",
+        "onboard_time": 1759104501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876233,
+        "num": 594799,
+        "word": "K签",
+        "onboard_time": 1759110199,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815518,
+        "num": 594750,
+        "word": "千里寻椰 光子嫩肤二度烧伤",
+        "onboard_time": 1759109180,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 594470,
+        "num": 594470,
+        "word": "宴遇永安定档",
+        "onboard_time": 1759113079,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485280,
+        "num": 485280,
+        "word": "九三阅兵礼宾车正陆续返还车主",
+        "onboard_time": 1759102820,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477280,
+        "num": 477280,
+        "word": "小沈阳回应被抬走",
+        "onboard_time": 1759113619,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406421,
+        "num": 406421,
+        "word": "黄仁勋说中国芯片仅落后美国几纳秒",
+        "onboard_time": 1759111339,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380824,
+        "num": 380824,
+        "word": "清华教职工因违规报备入校被拘",
+        "onboard_time": 1759113860,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1741639,
+        "num": 375442,
+        "word": "华南理工遇难女生当天过18岁生日",
+        "onboard_time": 1759112659,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582082,
+        "num": 349797,
+        "word": "聪明的人已经提前出发了",
+        "onboard_time": 1759107321,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457903,
+        "num": 327188,
+        "word": "女装退货率高是应该的",
+        "onboard_time": 1759104981,
+        "rank": 12,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 442107,
+        "num": 312141,
+        "word": "向佐回应向家破产",
+        "onboard_time": 1759067665,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420929,
+        "num": 291014,
+        "word": "儿子拍的佟丽娅",
+        "onboard_time": 1759114459,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287483,
+        "num": 287483,
+        "word": "陈都灵 罗意威",
+        "onboard_time": 1759113798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273170,
+        "num": 273170,
+        "word": "肖战婉拒签名",
+        "onboard_time": 1759115900,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256506,
+        "num": 256506,
+        "word": "千里寻椰回应被烧伤",
+        "onboard_time": 1759113680,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80756,
+        "num": 252393,
+        "word": "今年双11从10月9日开始",
+        "onboard_time": 1759113499,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55831,
+        "num": 245179,
+        "word": "于适安利的三合一冲锋衣有多好穿",
+        "onboard_time": 1759113680,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336511,
+        "num": 244645,
+        "word": "沈佳润出场 小沈阳被抬走",
+        "onboard_time": 1759068144,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331965,
+        "num": 235158,
+        "word": "甲状腺正在悄悄为你的熬夜买单",
+        "onboard_time": 1759112240,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233829,
+        "num": 233829,
+        "word": "取消额外假公司已落实正常放假",
+        "onboard_time": 1759107381,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258026,
+        "num": 216936,
+        "word": "肖战 主唱大人",
+        "onboard_time": 1759073545,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192728,
+        "num": 192728,
+        "word": "中国团体游客免签入境韩国今起试行",
+        "onboard_time": 1759108460,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191960,
+        "num": 191960,
+        "word": "尚公主吻戏",
+        "onboard_time": 1759115241,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187384,
+        "num": 187384,
+        "word": "井迪忙活了一天发现才早上七点半",
+        "onboard_time": 1759115360,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131326,
+        "num": 184875,
+        "word": "小鹏P7被车主玩出花了",
+        "onboard_time": 1759113440,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169281,
+        "num": 184556,
+        "word": "刘天池说朱媛媛去世后未见过辛柏青",
+        "onboard_time": 1759100898,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184316,
+        "num": 184316,
+        "word": "国庆中秋出行避开这2个客流高峰",
+        "onboard_time": 1759101739,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156069,
+        "num": 156069,
+        "word": "一诺科目二满分通过",
+        "onboard_time": 1759115059,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143799,
+        "num": 143799,
+        "word": "吴艳妮夺冠后亲吻现场小粉丝",
+        "onboard_time": 1759110980,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128329,
+        "num": 128329,
+        "word": "网传律师虐杀4000只猫谋利",
+        "onboard_time": 1759115478,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126727,
+        "num": 128265,
+        "word": "华南理工学生称肇事司机系本校老师",
+        "onboard_time": 1759114160,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128220,
+        "num": 128220,
+        "word": "韩国对华免签明起生效",
+        "onboard_time": 1759109780,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120113,
+        "num": 120113,
+        "word": "今天支付宝首页很应景",
+        "onboard_time": 1759111701,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116385,
+        "num": 116385,
+        "word": "南京大屠杀在世幸存者仅存25位",
+        "onboard_time": 1759114880,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122509,
+        "num": 116239,
+        "word": "刘耀文鞋掉了",
+        "onboard_time": 1759113619,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28582,
+        "num": 115996,
+        "word": "邓超的项链是SD",
+        "onboard_time": 1759116319,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115906,
+        "num": 115906,
+        "word": "国际顶尖肺癌专家已患肺癌三年",
+        "onboard_time": 1759070184,
+        "rank": 39,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 96228,
+        "num": 115422,
+        "word": "游客称在景区遭21474836元停车费",
+        "onboard_time": 1759115119,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115164,
+        "num": 115164,
+        "word": "十一后一口价黄金涨幅30%",
+        "onboard_time": 1759114699,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114977,
+        "num": 114977,
+        "word": "以为内娱又抬待爆剧上桌了",
+        "onboard_time": 1759116260,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110389,
+        "num": 110389,
+        "word": "巴黎的印度人",
+        "onboard_time": 1759110800,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109917,
+        "num": 109917,
+        "word": "余承东祝用户节日快乐",
+        "onboard_time": 1759115839,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105210,
+        "num": 105210,
+        "word": "国庆订单被强制取消后房费涨3倍",
+        "onboard_time": 1759115720,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103401,
+        "num": 103401,
+        "word": "世界上最薄的公寓",
+        "onboard_time": 1759115839,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 97062,
+        "num": 97062,
+        "word": "闫妮在台下偷喝茅台了吧",
+        "onboard_time": 1759104380,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90568,
+        "num": 90568,
+        "word": "淘宝闪购 范丞丞",
+        "onboard_time": 1759113920,
+        "rank": 48,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 88185,
+        "num": 88185,
+        "word": "卢伟冰称小米17开售次日依然火爆",
+        "onboard_time": 1759115720,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好为党育才为党献策#"
+    }
+  }
+}

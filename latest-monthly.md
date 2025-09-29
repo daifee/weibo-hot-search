@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 11:10:05
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 11:27:28
 </p>
 </blockquote>
 <p>
@@ -3897,6 +3897,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%80%9A%E6%8A%A5%E5%A4%9A%E5%90%8D%E5%B8%88%E7%94%9F%E5%8F%82%E4%B8%8E%E9%BB%84%E7%89%9B%E6%B4%BB%E5%8A%A8%E7%89%9F%E5%88%A9%23" target="weibo">
+清华通报多名师生参与黄牛活动牟利（热度：950048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94%E7%86%AC%E5%A4%9C%E7%8C%9D%E6%AD%BB%23" target="weibo">
 曝短剧导演熬夜猝死（热度：949962）
 </a>
@@ -6008,12 +6014,6 @@ BLG对战TES（热度：746464）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA35%E4%B8%87%E5%B4%96%E4%B8%8B%E6%B4%9E%E5%B1%855%E5%B9%B4%23" target="weibo">
-男子欠债35万崖下洞居5年（热度：732292）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6563,6 +6563,12 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%9D%9A%E6%8C%81%E5%85%9A%E6%A0%A1%E5%A7%93%E5%85%9A%E7%89%A2%E8%AE%B0%E5%85%9A%E6%A0%A1%E5%88%9D%E5%BF%83%23%23" target="weibo">
 #坚持党校姓党牢记党校初心#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%9B%B4%E5%A5%BD%E4%B8%BA%E5%85%9A%E8%82%B2%E6%89%8D%E4%B8%BA%E5%85%9A%E7%8C%AE%E7%AD%96%23%23" target="weibo">
+#更好为党育才为党献策#
 </a>
 </li>
 

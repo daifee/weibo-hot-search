@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759115405214,
+  "endTime": 1759116448497,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1042667,
-      "num": 586888,
+      "num": 594799,
       "word": "K签",
       "onboard_time": 1759110199,
       "rank": 31,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1005583,
-      "num": 585665,
+      "num": 594750,
       "word": "千里寻椰 光子嫩肤二度烧伤",
       "onboard_time": 1759109180,
       "rank": 44,
@@ -51,8 +51,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 950048,
+      "num": 1152007,
+      "word": "清华通报多名师生参与黄牛活动牟利",
+      "onboard_time": 1759114400,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 943090,
-      "num": 344773,
+      "num": 349797,
       "word": "聪明的人已经提前出发了",
       "onboard_time": 1759107321,
       "rank": 11,
@@ -115,6 +123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 594470,
+      "num": 594470,
+      "word": "宴遇永安定档",
+      "onboard_time": 1759113079,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594263,
       "num": 306106,
       "word": "刘天池说朱媛媛去世后未见过辛柏青",
@@ -129,14 +145,6 @@
       "onboard_time": 1759068144,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 572975,
-      "num": 572975,
-      "word": "宴遇永安定档",
-      "onboard_time": 1759113079,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 533151,
@@ -171,11 +179,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 477280,
+      "num": 477280,
+      "word": "小沈阳回应被抬走",
+      "onboard_time": 1759113619,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 450843,
       "num": 215758,
       "word": "苏醒回应跑调",
       "onboard_time": 1759066524,
       "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 420929,
+      "num": 291014,
+      "word": "儿子拍的佟丽娅",
+      "onboard_time": 1759114459,
+      "rank": 24,
       "category": "演出"
     },
     {
@@ -187,20 +211,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 380824,
+      "num": 380824,
+      "word": "清华教职工因违规报备入校被拘",
+      "onboard_time": 1759113860,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357112,
       "num": 215686,
       "word": "小酒窝让佟丽娅带去找宋亚轩",
       "onboard_time": 1759071746,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 350482,
-      "num": 350482,
-      "word": "清华通报多名师生参与黄牛活动牟利",
-      "onboard_time": 1759114400,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 335496,
@@ -211,15 +235,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 328453,
-      "num": 328453,
-      "word": "清华教职工因违规报备入校被拘",
-      "onboard_time": 1759113860,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324488,
+      "raw_hot": 331965,
       "num": 266847,
       "word": "甲状腺正在悄悄为你的熬夜买单",
       "onboard_time": 1759112240,
@@ -251,18 +267,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284763,
-      "num": 269976,
+      "raw_hot": 287483,
+      "num": 287483,
       "word": "陈都灵 罗意威",
       "onboard_time": 1759113798,
       "rank": 18,
       "category": "艺人"
     },
     {
-      "raw_hot": 271538,
-      "num": 271538,
-      "word": "小沈阳回应被抬走",
-      "onboard_time": 1759113619,
+      "raw_hot": 273170,
+      "num": 273170,
+      "word": "肖战婉拒签名",
+      "onboard_time": 1759115900,
       "rank": 16,
       "category": "演出"
     },
@@ -289,14 +305,6 @@
       "onboard_time": 1759111879,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 247925,
-      "num": 247925,
-      "word": "儿子拍的佟丽娅",
-      "onboard_time": 1759114459,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 236056,
@@ -387,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191960,
+      "num": 191960,
+      "word": "尚公主吻戏",
+      "onboard_time": 1759115241,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190687,
       "num": 181160,
       "word": "女孩地铁上质疑大妈偷拍",
@@ -419,8 +435,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187384,
+      "num": 187384,
+      "word": "井迪忙活了一天发现才早上七点半",
+      "onboard_time": 1759115360,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182512,
-      "num": 182512,
+      "num": 184875,
       "word": "小鹏P7被车主玩出花了",
       "onboard_time": 1759113440,
       "rank": 26,
@@ -635,6 +659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128329,
+      "num": 128329,
+      "word": "网传律师虐杀4000只猫谋利",
+      "onboard_time": 1759115478,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128211,
       "num": 128211,
       "word": "Faker疑似暗示明年不退役",
@@ -715,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114977,
+      "num": 114977,
+      "word": "以为内娱又抬待爆剧上桌了",
+      "onboard_time": 1759116260,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112119,
       "num": 112119,
       "word": "肖战笑什么",
@@ -731,12 +771,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 109708,
-      "num": 109708,
-      "word": "尚公主吻戏",
-      "onboard_time": 1759115241,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 109917,
+      "num": 109917,
+      "word": "余承东祝用户节日快乐",
+      "onboard_time": 1759115839,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 108466,
@@ -771,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105210,
+      "num": 105210,
+      "word": "国庆订单被强制取消后房费涨3倍",
+      "onboard_time": 1759115720,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104757,
       "num": 214666,
       "word": "王楚钦隔壁老樊双向奔赴",
@@ -793,6 +841,14 @@
       "onboard_time": 1759108460,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103401,
+      "num": 103401,
+      "word": "世界上最薄的公寓",
+      "onboard_time": 1759115839,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 102193,
@@ -819,6 +875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96228,
+      "num": 115422,
+      "word": "游客称在景区遭21474836元停车费",
+      "onboard_time": 1759115119,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94610,
       "num": 94610,
       "word": "小沈阳真的别太宠了",
@@ -843,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90915,
-      "num": 112387,
-      "word": "井迪忙活了一天发现才早上七点半",
-      "onboard_time": 1759115360,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 89501,
       "num": 89501,
       "word": "董璇娘家弟弟重膀出击张维伊",
@@ -873,6 +929,14 @@
       "onboard_time": 1759086675,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88185,
+      "num": 88185,
+      "word": "卢伟冰称小米17开售次日依然火爆",
+      "onboard_time": 1759115720,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 87529,
@@ -956,7 +1020,7 @@
     },
     {
       "raw_hot": 80155,
-      "num": 80155,
+      "num": 594895,
       "word": "各地都换上了国庆限定皮肤",
       "onboard_time": 1759104501,
       "rank": 45,
@@ -1115,14 +1179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53471,
-      "num": 112296,
-      "word": "游客称在景区遭21474836元停车费",
-      "onboard_time": 1759115119,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43138,
       "num": 79089,
       "word": "吾爱吾国",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1759080377,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28582,
+      "num": 115996,
+      "word": "邓超的项链是SD",
+      "onboard_time": 1759116319,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 26684,
@@ -1273,6 +1337,9 @@
     },
     {
       "word": "#坚持党校姓党牢记党校初心#"
+    },
+    {
+      "word": "#更好为党育才为党献策#"
     }
   ]
 }
