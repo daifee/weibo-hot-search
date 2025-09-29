@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759123543934,
+  "endTime": 1759124495870,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1521923,
+      "num": 1443869,
+      "word": "女子称子宫被装监听器起诉医院",
+      "onboard_time": 1759119740,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1521014,
       "num": 1521014,
       "word": "警方通报华南理工校内车祸",
@@ -81,14 +89,6 @@
       "onboard_time": 1759044560,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1443869,
-      "num": 1443869,
-      "word": "女子称子宫被装监听器起诉医院",
-      "onboard_time": 1759119740,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1427891,
@@ -235,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 990590,
+      "num": 473338,
+      "word": "小酒窝发博",
+      "onboard_time": 1759123641,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 985805,
       "num": 1157728,
       "word": "柯洁卫冕棋圣",
@@ -331,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 820845,
+      "num": 560001,
+      "word": "华南理工被撞身亡女生是班长",
+      "onboard_time": 1759118960,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 816875,
       "num": 437882,
       "word": "刘宇宁真稳",
@@ -385,6 +401,14 @@
       "onboard_time": 1759029499,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728125,
+      "num": 237025,
+      "word": "中日混血在日本遭歧视",
+      "onboard_time": 1759122920,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 717967,
@@ -571,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588613,
+      "num": 588613,
+      "word": "闫妮魏大勋不许再酗酒了",
+      "onboard_time": 1759120583,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 584269,
       "num": 462829,
       "word": "儿子拍的佟丽娅",
@@ -592,14 +624,6 @@
       "word": "通行2小时缩至2分钟什么体验",
       "onboard_time": 1759016840,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 560001,
-      "num": 560001,
-      "word": "华南理工被撞身亡女生是班长",
-      "onboard_time": 1759118960,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -641,14 +665,6 @@
       "onboard_time": 1759119562,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 539243,
-      "num": 539243,
-      "word": "闫妮魏大勋不许再酗酒了",
-      "onboard_time": 1759120583,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 537302,
@@ -713,6 +729,14 @@
       "onboard_time": 1759055600,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501840,
+      "num": 501840,
+      "word": "雨果说国乒统治力变弱了",
+      "onboard_time": 1759122920,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 501367,
@@ -939,14 +963,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 402990,
-      "num": 169162,
-      "word": "中日混血在日本遭歧视",
-      "onboard_time": 1759122920,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 401427,
       "num": 401427,
       "word": "花少马哥澄清",
@@ -1051,14 +1067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 370043,
-      "num": 370043,
-      "word": "雨果说国乒统治力变弱了",
-      "onboard_time": 1759122920,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 368648,
       "num": 205311,
       "word": "陈都灵泳池照",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1759064906,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 360820,
+      "num": 360820,
+      "word": "王健林还剩什么资产",
+      "onboard_time": 1759122802,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 355962,
@@ -1443,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237041,
+      "num": 237041,
+      "word": "王曼昱vs何卓佳",
+      "onboard_time": 1759123760,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236056,
       "num": 192287,
       "word": "林依轮 我的娘我也爱肖战",
@@ -1457,14 +1481,6 @@
       "onboard_time": 1759066284,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234922,
-      "num": 234922,
-      "word": "王健林还剩什么资产",
-      "onboard_time": 1759122802,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232374,
@@ -1579,6 +1595,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 218429,
+      "num": 218429,
+      "word": "鸡排哥称有男科医院来蹭流量",
+      "onboard_time": 1759119922,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215571,
       "num": 215571,
       "word": "iPhone17系列展示机刮痕原因",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1759120762,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213879,
+      "num": 179553,
+      "word": "王凯两年后一出手就是daddy级别",
+      "onboard_time": 1759121421,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 212521,
@@ -1827,20 +1859,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 194386,
-      "num": 194386,
-      "word": "鸡排哥称有男科医院来蹭流量",
-      "onboard_time": 1759119922,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193835,
       "num": 193835,
       "word": "华南理工肇事教师已由他人代上课",
       "onboard_time": 1759117820,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193244,
+      "num": 167262,
+      "word": "田震和宋亚轩竟然是师徒",
+      "onboard_time": 1759123821,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 193186,
@@ -2105,14 +2137,6 @@
       "onboard_time": 1759058720,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 179553,
-      "num": 179553,
-      "word": "王凯两年后一出手就是daddy级别",
-      "onboard_time": 1759121421,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 179071,
@@ -2403,6 +2427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163962,
+      "num": 163962,
+      "word": "王楚钦 麒麟",
+      "onboard_time": 1759124301,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163954,
       "num": 163954,
       "word": "吴艳妮夺冠后亲吻现场小粉丝",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1759058240,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149968,
+      "num": 149968,
+      "word": "李现说自己素颜不好看",
+      "onboard_time": 1759122321,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 149653,
@@ -3171,6 +3211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129233,
+      "num": 129233,
+      "word": "周深 海外ip评论区",
+      "onboard_time": 1759124361,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129087,
       "num": 118575,
       "word": "JIUZHE战队夺冠",
@@ -3233,6 +3281,14 @@
       "onboard_time": 1759040541,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127429,
+      "num": 127429,
+      "word": "韩国各界对中国游客翘首以盼",
+      "onboard_time": 1759123702,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127090,
@@ -3331,6 +3387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124089,
+      "num": 124089,
+      "word": "黄友政2比3泊雷特",
+      "onboard_time": 1759123941,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123688,
       "num": 123688,
       "word": "时尚这碗饭 惠英红端到现在",
@@ -3369,6 +3433,14 @@
       "onboard_time": 1759107200,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122262,
+      "num": 122262,
+      "word": "照镜辞",
+      "onboard_time": 1759123581,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 122030,
@@ -3803,6 +3875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106584,
+      "num": 126343,
+      "word": "李昀锐老婆开门我是祖宗",
+      "onboard_time": 1759122681,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106327,
       "num": 106327,
       "word": "技能五子棋 喜剧香菜",
@@ -4195,14 +4275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95557,
-      "num": 125414,
-      "word": "李现说自己素颜不好看",
-      "onboard_time": 1759122321,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94619,
       "num": 94619,
       "word": "以为是失眠其实是被子薄了冻的",
@@ -4353,14 +4425,6 @@
       "onboard_time": 1759056921,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87205,
-      "num": 126343,
-      "word": "李昀锐老婆开门我是祖宗",
-      "onboard_time": 1759122681,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 86477,
@@ -4523,6 +4587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79419,
+      "num": 129263,
+      "word": "1674元机票提前改签扣1029元手续费",
+      "onboard_time": 1759123400,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78571,
       "num": 79100,
       "word": "去世8年男子坟墓惊现盗洞",
@@ -4585,14 +4657,6 @@
       "onboard_time": 1759037842,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 74238,
-      "num": 125879,
-      "word": "1674元机票提前改签扣1029元手续费",
-      "onboard_time": 1759123400,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73794,
@@ -4755,6 +4819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 61595,
+      "num": 129238,
+      "word": "王琳 旧苏联时代的大雪消融了",
+      "onboard_time": 1759123882,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61426,
       "num": 194601,
       "word": "00后凭光盘照夺走全年免费吃大奖",
@@ -4769,6 +4841,14 @@
       "onboard_time": 1759102099,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60499,
+      "num": 150071,
+      "word": "汽车全球化不能偏科",
+      "onboard_time": 1759124241,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 60238,
@@ -5091,6 +5171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44057,
+      "num": 142276,
+      "word": "旅游基础旅游搭子就不基础",
+      "onboard_time": 1759123760,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 43138,
       "num": 79089,
       "word": "吾爱吾国",
@@ -5235,6 +5323,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 34557,
+      "num": 235890,
+      "word": "Dior春夏秀明星阵容",
+      "onboard_time": 1759122262,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 34206,
       "num": 1414297,
       "word": "青春正澎湃",
@@ -5257,14 +5353,6 @@
       "onboard_time": 1759055479,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32940,
-      "num": 233668,
-      "word": "Dior春夏秀明星阵容",
-      "onboard_time": 1759122262,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 32312,

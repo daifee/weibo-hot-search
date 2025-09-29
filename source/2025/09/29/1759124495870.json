@@ -1,0 +1,410 @@
+{
+  "runTime": 1759124495870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635063,
+        "num": 1101610,
+        "word": "清华通报多名师生参与黄牛活动牟利",
+        "onboard_time": 1759114400,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 588613,
+        "num": 588613,
+        "word": "闫妮魏大勋不许再酗酒了",
+        "onboard_time": 1759120583,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31648,
+        "num": 525145,
+        "word": "各地都换上了国庆限定皮肤",
+        "onboard_time": 1759104501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1521923,
+        "num": 515016,
+        "word": "女子称子宫被装监听器起诉医院",
+        "onboard_time": 1759119740,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501840,
+        "num": 501840,
+        "word": "雨果说国乒统治力变弱了",
+        "onboard_time": 1759122920,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 990590,
+        "num": 473338,
+        "word": "小酒窝发博",
+        "onboard_time": 1759123641,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360820,
+        "num": 360820,
+        "word": "王健林还剩什么资产",
+        "onboard_time": 1759122802,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345027,
+        "num": 345027,
+        "word": "九三阅兵礼宾车正陆续返还车主",
+        "onboard_time": 1759102820,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242925,
+        "num": 242925,
+        "word": "清华教职工因违规报备入校被拘",
+        "onboard_time": 1759113860,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237041,
+        "num": 237041,
+        "word": "王曼昱vs何卓佳",
+        "onboard_time": 1759123760,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728125,
+        "num": 237025,
+        "word": "中日混血在日本遭歧视",
+        "onboard_time": 1759122920,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 399511,
+        "num": 236698,
+        "word": "赵丽颖工作室取消行程图",
+        "onboard_time": 1759119562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368177,
+        "num": 236380,
+        "word": "肖战看小酒窝表演笑得好甜",
+        "onboard_time": 1759119323,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34557,
+        "num": 235890,
+        "word": "Dior春夏秀明星阵容",
+        "onboard_time": 1759122262,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235888,
+        "num": 235888,
+        "word": "千里寻椰 光子嫩肤二度烧伤",
+        "onboard_time": 1759109180,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230165,
+        "num": 230165,
+        "word": "聪明的人已经提前出发了",
+        "onboard_time": 1759107321,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218429,
+        "num": 218429,
+        "word": "鸡排哥称有男科医院来蹭流量",
+        "onboard_time": 1759119922,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208852,
+        "num": 208852,
+        "word": "向佐回应向家破产",
+        "onboard_time": 1759067665,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188073,
+        "num": 188073,
+        "word": "当我嫌弃小猫脚臭",
+        "onboard_time": 1759117701,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184948,
+        "num": 184948,
+        "word": "儿子拍的佟丽娅",
+        "onboard_time": 1759114459,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68502,
+        "num": 182809,
+        "word": "易烊千玺谈成长",
+        "onboard_time": 1759120402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798218,
+        "num": 178095,
+        "word": "肖战婉拒签名",
+        "onboard_time": 1759115900,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290614,
+        "num": 174825,
+        "word": "男子停车费超20000000不敢取车",
+        "onboard_time": 1759117880,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219598,
+        "num": 173193,
+        "word": "小沈阳回应被抬走",
+        "onboard_time": 1759113619,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213879,
+        "num": 170741,
+        "word": "王凯两年后一出手就是daddy级别",
+        "onboard_time": 1759121421,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193244,
+        "num": 167262,
+        "word": "田震和宋亚轩竟然是师徒",
+        "onboard_time": 1759123821,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163962,
+        "num": 163962,
+        "word": "王楚钦 麒麟",
+        "onboard_time": 1759124301,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160233,
+        "num": 160233,
+        "word": "甲状腺正在悄悄为你的熬夜买单",
+        "onboard_time": 1759112240,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150708,
+        "num": 150708,
+        "word": "你跟我说王圣迪长这么大了",
+        "onboard_time": 1759121782,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60499,
+        "num": 150071,
+        "word": "汽车全球化不能偏科",
+        "onboard_time": 1759124241,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149968,
+        "num": 149968,
+        "word": "李现说自己素颜不好看",
+        "onboard_time": 1759122321,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144974,
+        "num": 144974,
+        "word": "女装退货率高是应该的",
+        "onboard_time": 1759104981,
+        "rank": 31,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 44057,
+        "num": 142276,
+        "word": "旅游基础旅游搭子就不基础",
+        "onboard_time": 1759123760,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 141731,
+        "num": 141731,
+        "word": "苹果将推出iPhone17e",
+        "onboard_time": 1759118780,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 820845,
+        "num": 141239,
+        "word": "华南理工被撞身亡女生是班长",
+        "onboard_time": 1759118960,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127958,
+        "num": 136242,
+        "word": "心动的信号",
+        "onboard_time": 1759116500,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134856,
+        "num": 134856,
+        "word": "黄仁勋说中国芯片仅落后美国几纳秒",
+        "onboard_time": 1759111339,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129539,
+        "num": 129539,
+        "word": "国庆中秋出行避开这2个客流高峰",
+        "onboard_time": 1759101739,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79419,
+        "num": 129263,
+        "word": "1674元机票提前改签扣1029元手续费",
+        "onboard_time": 1759123400,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61595,
+        "num": 129238,
+        "word": "王琳 旧苏联时代的大雪消融了",
+        "onboard_time": 1759123882,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129233,
+        "num": 129233,
+        "word": "周深 海外ip评论区",
+        "onboard_time": 1759124361,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127429,
+        "num": 127429,
+        "word": "韩国各界对中国游客翘首以盼",
+        "onboard_time": 1759123702,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125479,
+        "num": 125479,
+        "word": "A股新能源领涨市场",
+        "onboard_time": 1759123221,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124445,
+        "num": 124445,
+        "word": "林高远晋级中国大满贯32强",
+        "onboard_time": 1759122741,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124089,
+        "num": 124089,
+        "word": "黄友政2比3泊雷特",
+        "onboard_time": 1759123941,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122964,
+        "num": 122964,
+        "word": "原神菲林斯",
+        "onboard_time": 1759123221,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122467,
+        "num": 122467,
+        "word": "陈都灵 罗意威",
+        "onboard_time": 1759113798,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122262,
+        "num": 122262,
+        "word": "照镜辞",
+        "onboard_time": 1759123581,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120948,
+        "num": 120948,
+        "word": "林高远3比0黄镇廷",
+        "onboard_time": 1759123521,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106584,
+        "num": 116865,
+        "word": "李昀锐老婆开门我是祖宗",
+        "onboard_time": 1759122681,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好为党育才为党献策#"
+    }
+  }
+}
