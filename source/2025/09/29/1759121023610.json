@@ -1,0 +1,410 @@
+{
+  "runTime": 1759121023610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1479753,
+        "num": 1479753,
+        "word": "清华通报多名师生参与黄牛活动牟利",
+        "onboard_time": 1759114400,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 562513,
+        "num": 562513,
+        "word": "九三阅兵礼宾车正陆续返还车主",
+        "onboard_time": 1759102820,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43458,
+        "num": 501942,
+        "word": "各地都换上了国庆限定皮肤",
+        "onboard_time": 1759104501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1246823,
+        "num": 500993,
+        "word": "肖战婉拒签名",
+        "onboard_time": 1759115900,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 499048,
+        "num": 499048,
+        "word": "千里寻椰 光子嫩肤二度烧伤",
+        "onboard_time": 1759109180,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 498198,
+        "num": 498198,
+        "word": "清华教职工因违规报备入校被拘",
+        "onboard_time": 1759113860,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497866,
+        "num": 497866,
+        "word": "小沈阳回应被抬走",
+        "onboard_time": 1759113619,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269222,
+        "num": 269222,
+        "word": "黄仁勋说中国芯片仅落后美国几纳秒",
+        "onboard_time": 1759111339,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276609,
+        "num": 263691,
+        "word": "肖战看小酒窝表演笑得好甜",
+        "onboard_time": 1759119323,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255436,
+        "num": 255436,
+        "word": "网红称婆婆吃邻居送的蘑菇中毒身亡",
+        "onboard_time": 1759109958,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 548663,
+        "num": 255246,
+        "word": "赵丽颖工作室取消行程图",
+        "onboard_time": 1759119562,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500336,
+        "num": 254994,
+        "word": "儿子拍的佟丽娅",
+        "onboard_time": 1759114459,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 441201,
+        "num": 254722,
+        "word": "聪明的人已经提前出发了",
+        "onboard_time": 1759107321,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424715,
+        "num": 254639,
+        "word": "女子称子宫被装监听器起诉医院",
+        "onboard_time": 1759119740,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100730,
+        "num": 254255,
+        "word": "淘宝闪购猜免单活动将持续11天",
+        "onboard_time": 1759118542,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 269300,
+        "num": 253994,
+        "word": "心动的信号",
+        "onboard_time": 1759116500,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401269,
+        "num": 253874,
+        "word": "女装退货率高是应该的",
+        "onboard_time": 1759104981,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 309515,
+        "num": 253538,
+        "word": "向佐回应向家破产",
+        "onboard_time": 1759067665,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253513,
+        "num": 253513,
+        "word": "井迪忙活了一天发现才早上七点半",
+        "onboard_time": 1759115360,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27500,
+        "num": 238048,
+        "word": "BV设计师首秀",
+        "onboard_time": 1759118722,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 388949,
+        "num": 237944,
+        "word": "男子停车费超20000000不敢取车",
+        "onboard_time": 1759117880,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236399,
+        "num": 236399,
+        "word": "宴遇永安定档",
+        "onboard_time": 1759113079,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222353,
+        "num": 222353,
+        "word": "当我嫌弃小猫脚臭",
+        "onboard_time": 1759117701,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99456,
+        "num": 211860,
+        "word": "易烊千玺谈成长",
+        "onboard_time": 1759120402,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208532,
+        "num": 208532,
+        "word": "甲状腺正在悄悄为你的熬夜买单",
+        "onboard_time": 1759112240,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208275,
+        "num": 208275,
+        "word": "陈都灵 罗意威",
+        "onboard_time": 1759113798,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203674,
+        "num": 203674,
+        "word": "沈佳润出场 小沈阳被抬走",
+        "onboard_time": 1759068144,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193835,
+        "num": 193835,
+        "word": "华南理工肇事教师已由他人代上课",
+        "onboard_time": 1759117820,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189910,
+        "num": 189910,
+        "word": "闫妮魏大勋不许再酗酒了",
+        "onboard_time": 1759120583,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182035,
+        "num": 182035,
+        "word": "国庆反向旅游才是真正的邪修",
+        "onboard_time": 1759119323,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175270,
+        "num": 175270,
+        "word": "南京大屠杀在世幸存者仅存25位",
+        "onboard_time": 1759114880,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169016,
+        "num": 169016,
+        "word": "刘萧旭 我长这个烂样子怎么会有私生",
+        "onboard_time": 1759120282,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167803,
+        "num": 167803,
+        "word": "国庆中秋出行避开这2个客流高峰",
+        "onboard_time": 1759101739,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165800,
+        "num": 165800,
+        "word": "小酒窝沈佳润合照",
+        "onboard_time": 1759120762,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161064,
+        "num": 161064,
+        "word": "苹果将推出iPhone17e",
+        "onboard_time": 1759118780,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152490,
+        "num": 152490,
+        "word": "唐艺昕带女儿游环球影城",
+        "onboard_time": 1759119259,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150979,
+        "num": 150979,
+        "word": "湾区升明月出图",
+        "onboard_time": 1759118060,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150647,
+        "num": 150647,
+        "word": "华南理工被撞身亡女生是班长",
+        "onboard_time": 1759118960,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85980,
+        "num": 149549,
+        "word": "减脂的最高天赋是没有味觉",
+        "onboard_time": 1759120402,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 147917,
+        "num": 149192,
+        "word": "鸡排哥称有男科医院来蹭流量",
+        "onboard_time": 1759119922,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149154,
+        "num": 149154,
+        "word": "易烊千玺又说习惯了",
+        "onboard_time": 1759119983,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148660,
+        "num": 148660,
+        "word": "一路都是猪来过的痕迹",
+        "onboard_time": 1759119621,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134711,
+        "num": 134711,
+        "word": "贺涵 下雨了我在徐家汇",
+        "onboard_time": 1759119501,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134621,
+        "num": 134621,
+        "word": "猫 帮我把乳牙收起来",
+        "onboard_time": 1759120522,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132542,
+        "num": 132542,
+        "word": "尚公主吻戏",
+        "onboard_time": 1759115241,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130302,
+        "num": 130302,
+        "word": "千里寻椰回应被烧伤",
+        "onboard_time": 1759113680,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127114,
+        "num": 127114,
+        "word": "韩国对华免签明起生效",
+        "onboard_time": 1759109780,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125440,
+        "num": 125440,
+        "word": "取消额外假公司已落实正常放假",
+        "onboard_time": 1759107381,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124290,
+        "num": 124290,
+        "word": "很想共情你但我学历不够",
+        "onboard_time": 1759116500,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118294,
+        "num": 118294,
+        "word": "试验三十号卫星01和02星发射成功",
+        "onboard_time": 1759119323,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好为党育才为党献策#"
+    }
+  }
+}
