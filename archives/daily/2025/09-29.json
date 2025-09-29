@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759130812737,
+  "endTime": 1759131587044,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 946834,
+      "num": 1151493,
+      "word": "男子政审时发现被患精神分裂11年",
+      "onboard_time": 1759127240,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 943090,
       "num": 462004,
       "word": "聪明的人已经提前出发了",
@@ -123,14 +131,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 772443,
-      "num": 1123591,
-      "word": "男子政审时发现被患精神分裂11年",
-      "onboard_time": 1759127240,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 752272,
       "num": 430383,
       "word": "向佐回应向家破产",
@@ -145,6 +145,14 @@
       "onboard_time": 1759122920,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 727675,
+      "num": 727675,
+      "word": "李在明道歉",
+      "onboard_time": 1759128800,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 696384,
@@ -235,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 575184,
+      "num": 575184,
+      "word": "金饰价格涨到1115元",
+      "onboard_time": 1759125321,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 550077,
       "num": 1088012,
       "word": "雨果说国乒统治力变弱了",
@@ -259,20 +275,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 530079,
+      "num": 342576,
+      "word": "苏醒被指拉踩河南胡辣汤",
+      "onboard_time": 1759126102,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501367,
       "num": 501367,
       "word": "清华教职工因违规报备入校被拘",
       "onboard_time": 1759113860,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 499271,
-      "num": 499271,
-      "word": "李在明道歉",
-      "onboard_time": 1759128800,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 498805,
@@ -297,22 +313,6 @@
       "onboard_time": 1759076901,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 484030,
-      "num": 342576,
-      "word": "苏醒被指拉踩河南胡辣汤",
-      "onboard_time": 1759126102,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 477553,
-      "num": 477553,
-      "word": "金饰价格涨到1115元",
-      "onboard_time": 1759125321,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 450843,
@@ -459,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285346,
+      "num": 285346,
+      "word": "爱奇艺尖叫之夜阵容",
+      "onboard_time": 1759127001,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282592,
       "num": 282592,
       "word": "井迪忙活了一天发现才早上七点半",
       "onboard_time": 1759115360,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279650,
+      "num": 279650,
+      "word": "特斯拉技术员被机器人打成重伤",
+      "onboard_time": 1759127721,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 262962,
@@ -475,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261094,
-      "num": 276763,
-      "word": "爱奇艺尖叫之夜阵容",
-      "onboard_time": 1759127001,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 259067,
+      "num": 208086,
+      "word": "街舞5选手解晓东去世",
+      "onboard_time": 1759130840,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255951,
@@ -489,14 +505,6 @@
       "onboard_time": 1759106361,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250249,
-      "num": 250249,
-      "word": "特斯拉技术员被机器人打成重伤",
-      "onboard_time": 1759127721,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 250151,
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217662,
+      "num": 217662,
+      "word": "金价",
+      "onboard_time": 1759127479,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 216057,
       "num": 216057,
       "word": "吴艳妮12秒90夺冠",
@@ -595,12 +611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210394,
+      "num": 210394,
+      "word": "湖南卫视中秋之夜官宣阵容",
+      "onboard_time": 1759130300,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207850,
       "num": 207850,
       "word": "王健林限高措施取消",
       "onboard_time": 1759107741,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207375,
+      "num": 207375,
+      "word": "乱港分子罗冠聪入境新加坡被拘",
+      "onboard_time": 1759129760,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206998,
@@ -619,20 +651,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205085,
-      "num": 205085,
-      "word": "金价",
-      "onboard_time": 1759127479,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 202971,
       "num": 179342,
       "word": "很想共情你但我学历不够",
       "onboard_time": 1759116500,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202491,
+      "num": 202491,
+      "word": "巴黎时装周",
+      "onboard_time": 1759131201,
+      "rank": 25,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 199473,
@@ -755,14 +787,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 186737,
-      "num": 186737,
-      "word": "乱港分子罗冠聪入境新加坡被拘",
-      "onboard_time": 1759129760,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 182512,
       "num": 191532,
       "word": "小鹏P7被车主玩出花了",
@@ -819,19 +843,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171312,
+      "num": 171312,
+      "word": "女子商场发飙砸玉器店",
+      "onboard_time": 1759127420,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171199,
       "num": 153087,
       "word": "华南理工大学相关人士发声",
       "onboard_time": 1759116619,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170365,
-      "num": 170365,
-      "word": "女子商场发飙砸玉器店",
-      "onboard_time": 1759127420,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -849,6 +873,14 @@
       "onboard_time": 1759069406,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169150,
+      "num": 169150,
+      "word": "四种食物最好不要空腹吃",
+      "onboard_time": 1759125740,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169016,
@@ -883,12 +915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168108,
-      "num": 191667,
-      "word": "湖南卫视中秋之夜官宣阵容",
-      "onboard_time": 1759130300,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 166765,
+      "num": 166765,
+      "word": "两名失联15岁少女已找到",
+      "onboard_time": 1759130960,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166507,
@@ -929,14 +961,6 @@
       "onboard_time": 1759113619,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 160500,
-      "num": 160500,
-      "word": "四种食物最好不要空腹吃",
-      "onboard_time": 1759125740,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 160128,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1759119983,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148881,
+      "num": 209691,
+      "word": "内娱最会吻的cp上新了",
+      "onboard_time": 1759126641,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 148660,
@@ -1275,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125681,
-      "num": 163039,
-      "word": "内娱最会吻的cp上新了",
-      "onboard_time": 1759126641,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125002,
       "num": 148229,
       "word": "美国一起枪击2死8伤",
@@ -1388,7 +1412,7 @@
     },
     {
       "raw_hot": 119033,
-      "num": 127019,
+      "num": 169632,
       "word": "林依轮背后环抱王源",
       "onboard_time": 1759129281,
       "rank": 36,
@@ -1451,12 +1475,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110480,
+      "num": 110480,
+      "word": "作者上班和上高三时的写文区别",
+      "onboard_time": 1759130361,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109917,
       "num": 109917,
       "word": "余承东祝用户节日快乐",
       "onboard_time": 1759115839,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 109488,
+      "num": 109488,
+      "word": "揉面垫 玻璃纤维",
+      "onboard_time": 1759130902,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109473,
@@ -1497,14 +1537,6 @@
       "onboard_time": 1759127601,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106387,
-      "num": 106387,
-      "word": "作者上班和上高三时的写文区别",
-      "onboard_time": 1759130361,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 106186,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1759115839,
       "rank": 46,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 103198,
+      "num": 209287,
+      "word": "高德扫街榜发布全国top100餐厅",
+      "onboard_time": 1759129640,
+      "rank": 17,
+      "category": "互联网,美食"
     },
     {
       "raw_hot": 102962,
@@ -1641,6 +1681,14 @@
       "onboard_time": 1759101018,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96417,
+      "num": 96417,
+      "word": "一诺 被最聪明的男人选中了",
+      "onboard_time": 1759131320,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 94610,
@@ -1844,7 +1892,7 @@
     },
     {
       "raw_hot": 80155,
-      "num": 596101,
+      "num": 613700,
       "word": "各地都换上了国庆限定皮肤",
       "onboard_time": 1759104501,
       "rank": 45,
@@ -1891,14 +1939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72805,
-      "num": 207821,
-      "word": "高德扫街榜发布全国top100餐厅",
-      "onboard_time": 1759129640,
-      "rank": 17,
-      "category": "互联网,美食"
-    },
-    {
       "raw_hot": 72445,
       "num": 72445,
       "word": "加拿大海滩快成北美版恒河",
@@ -1916,7 +1956,7 @@
     },
     {
       "raw_hot": 71324,
-      "num": 161403,
+      "num": 169201,
       "word": "奢品经典包回归意味什么",
       "onboard_time": 1759129640,
       "rank": 29,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1759096574,
       "rank": 43,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 63887,
+      "num": 209248,
+      "word": "今天像周二又像周四",
+      "onboard_time": 1759131141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62376,
@@ -2145,6 +2193,22 @@
       "onboard_time": 1759080377,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28729,
+      "num": 109692,
+      "word": "陈震说人不如车靠谱",
+      "onboard_time": 1759131440,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 27558,
+      "num": 109514,
+      "word": "于正一周瘦了5斤多",
+      "onboard_time": 1759131380,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 26684,

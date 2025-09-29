@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 15:26:52
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 15:39:47
 </p>
 </blockquote>
 <p>
@@ -3945,6 +3945,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%BF%E5%AE%A1%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%8211%E5%B9%B4%23" target="weibo">
+男子政审时发现被患精神分裂11年（热度：946834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KiMi%E5%B7%B2%E7%BB%8F16%E5%B2%81%E4%BA%86%23" target="weibo">
 KiMi已经16岁了（热度：945720）
 </a>
@@ -5555,12 +5561,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB8%E5%AE%98%E5%AE%A3%23" target="weibo">
 向往的生活8官宣（热度：775690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%BF%E5%AE%A1%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%8211%E5%B9%B4%23" target="weibo">
-男子政审时发现被患精神分裂11年（热度：772443）
 </a>
 </li>
 
