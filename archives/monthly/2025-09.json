@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759159615376,
+  "endTime": 1759160462823,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -20179,6 +20179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 335489,
+      "num": 185925,
+      "word": "第一批丁克夫妻离世遗产留给谁",
+      "onboard_time": 1759157364,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335427,
       "num": 335427,
       "word": "丝芭传媒起诉解约成员",
@@ -23144,14 +23152,6 @@
       "word": "12306长途有票 短途候补",
       "onboard_time": 1758798501,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282610,
-      "num": 185925,
-      "word": "第一批丁克夫妻离世遗产留给谁",
-      "onboard_time": 1759157364,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -28505,6 +28505,14 @@
       "onboard_time": 1756684820,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 220034,
+      "num": 171828,
+      "word": "宁艺卓Gucci探店",
+      "onboard_time": 1759159761,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 220005,
@@ -37499,6 +37507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180683,
+      "num": 186219,
+      "word": "男子含着烟头吃饭敲诈面馆",
+      "onboard_time": 1759154841,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180674,
       "num": 180674,
       "word": "绝区零",
@@ -40473,6 +40489,14 @@
       "onboard_time": 1759044202,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169445,
+      "num": 169445,
+      "word": "女子跪坐高速奔驰的汽车引擎盖",
+      "onboard_time": 1759158682,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169440,
@@ -43873,14 +43897,6 @@
       "onboard_time": 1758512602,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159834,
-      "num": 159834,
-      "word": "女子跪坐高速奔驰的汽车引擎盖",
-      "onboard_time": 1759158682,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159829,
@@ -47601,6 +47617,14 @@
       "onboard_time": 1757659405,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149715,
+      "num": 149715,
+      "word": "陈俊菘战胜张本智和全场沸腾",
+      "onboard_time": 1759159942,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 149700,
@@ -58067,14 +58091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127948,
-      "num": 186219,
-      "word": "男子含着烟头吃饭敲诈面馆",
-      "onboard_time": 1759154841,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127929,
       "num": 227929,
       "word": "55岁以下不让进的群聊",
@@ -64097,6 +64113,14 @@
       "onboard_time": 1758893243,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116695,
+      "num": 116695,
+      "word": "王力宏演唱会嘉宾鹿晗",
+      "onboard_time": 1759160181,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 116684,
@@ -70171,6 +70195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105141,
+      "num": 105141,
+      "word": "张桂源跳了少年美",
+      "onboard_time": 1759160001,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105135,
       "num": 105135,
       "word": "超薄iPhoneAir会弯折变形吗",
@@ -70908,7 +70940,7 @@
     },
     {
       "raw_hot": 103667,
-      "num": 103667,
+      "num": 177977,
       "word": "第12个烈士纪念日",
       "onboard_time": 1759156642,
       "rank": 49,
@@ -75171,6 +75203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94870,
+      "num": 94870,
+      "word": "于适连发三条微博",
+      "onboard_time": 1759160001,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94858,
       "num": 311438,
       "word": "身家31亿元浙大教授被留置",
@@ -77801,6 +77841,14 @@
       "onboard_time": 1758420382,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87486,
+      "num": 109774,
+      "word": "许昌学院拟聘73名博士",
+      "onboard_time": 1759160181,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87455,

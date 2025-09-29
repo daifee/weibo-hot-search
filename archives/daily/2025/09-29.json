@@ -1,6 +1,6 @@
 {
   "startTime": 1759076821125,
-  "endTime": 1759159615376,
+  "endTime": 1759160462823,
   "band_list": [
     {
       "raw_hot": 5303428,
@@ -203,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 834028,
+      "num": 186392,
+      "word": "迪丽热巴刘海",
+      "onboard_time": 1759158142,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829004,
       "num": 829004,
       "word": "微信朋友圈照片变清晰",
@@ -305,14 +313,6 @@
       "onboard_time": 1759150939,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 673086,
-      "num": 186392,
-      "word": "迪丽热巴刘海",
-      "onboard_time": 1759158142,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 671940,
@@ -779,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 335489,
+      "num": 185925,
+      "word": "第一批丁克夫妻离世遗产留给谁",
+      "onboard_time": 1759157364,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335427,
       "num": 335427,
       "word": "丝芭传媒起诉解约成员",
@@ -873,14 +881,6 @@
       "onboard_time": 1759127001,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282610,
-      "num": 185925,
-      "word": "第一批丁克夫妻离世遗产留给谁",
-      "onboard_time": 1759157364,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282592,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1759117701,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220034,
+      "num": 171828,
+      "word": "宁艺卓Gucci探店",
+      "onboard_time": 1759159761,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 216057,
@@ -1315,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180683,
+      "num": 186219,
+      "word": "男子含着烟头吃饭敲诈面馆",
+      "onboard_time": 1759154841,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179948,
       "num": 214951,
       "word": "王源骄傲 好听",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1759069406,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169445,
+      "num": 169445,
+      "word": "女子跪坐高速奔驰的汽车引擎盖",
+      "onboard_time": 1759158682,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169200,
@@ -1537,14 +1561,6 @@
       "onboard_time": 1759132160,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159834,
-      "num": 159834,
-      "word": "女子跪坐高速奔驰的汽车引擎盖",
-      "onboard_time": 1759158682,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159822,
@@ -1688,6 +1704,14 @@
       "word": "陈俊菘回应战胜张本智和",
       "onboard_time": 1759152441,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149715,
+      "num": 149715,
+      "word": "陈俊菘战胜张本智和全场沸腾",
+      "onboard_time": 1759159942,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -2059,14 +2083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127948,
-      "num": 186219,
-      "word": "男子含着烟头吃饭敲诈面馆",
-      "onboard_time": 1759154841,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127879,
       "num": 127879,
       "word": "以前过中秋vs现在过中秋",
@@ -2387,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116695,
+      "num": 116695,
+      "word": "王力宏演唱会嘉宾鹿晗",
+      "onboard_time": 1759160181,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115818,
       "num": 214892,
       "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
@@ -2635,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105141,
+      "num": 105141,
+      "word": "张桂源跳了少年美",
+      "onboard_time": 1759160001,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104980,
       "num": 104980,
       "word": "陈赫 你让我感到陌生",
@@ -2700,7 +2732,7 @@
     },
     {
       "raw_hot": 103667,
-      "num": 103667,
+      "num": 177977,
       "word": "第12个烈士纪念日",
       "onboard_time": 1759156642,
       "rank": 49,
@@ -2899,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94870,
+      "num": 94870,
+      "word": "于适连发三条微博",
+      "onboard_time": 1759160001,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94792,
       "num": 94792,
       "word": "陈俊菘说张本击败王楚钦后很嚣张",
@@ -3057,6 +3097,14 @@
       "onboard_time": 1759064063,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87486,
+      "num": 109774,
+      "word": "许昌学院拟聘73名博士",
+      "onboard_time": 1759160181,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86692,
