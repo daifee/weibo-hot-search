@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759185399511,
+  "endTime": 1759188182446,
   "band_list": [
     {
       "raw_hot": 869223,
@@ -11,15 +11,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 637709,
-      "num": 145663,
-      "word": "迪丽热巴刘海",
-      "onboard_time": 1759158142,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 853395,
+      "num": 853395,
+      "word": "维达抽纸被曝有黄色不明物体",
+      "onboard_time": 1759161381,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 615234,
+      "raw_hot": 637991,
       "num": 145751,
       "word": "第一批丁克夫妻离世遗产留给谁",
       "onboard_time": 1759157364,
@@ -27,12 +27,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 563717,
-      "num": 563717,
-      "word": "维达抽纸被曝有黄色不明物体",
-      "onboard_time": 1759161381,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 637709,
+      "num": 145663,
+      "word": "迪丽热巴刘海",
+      "onboard_time": 1759158142,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 441180,
@@ -49,6 +49,14 @@
       "onboard_time": 1759144702,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402973,
+      "num": 132537,
+      "word": "女子跪坐高速奔驰的汽车引擎盖",
+      "onboard_time": 1759158682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306576,
@@ -123,11 +131,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205244,
-      "num": 132537,
-      "word": "女子跪坐高速奔驰的汽车引擎盖",
-      "onboard_time": 1759158682,
-      "rank": 28,
+      "raw_hot": 206072,
+      "num": 119792,
+      "word": "5岁男童小区景观池触电身亡",
+      "onboard_time": 1759157782,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173630,
+      "num": 173630,
+      "word": "明家犯罪集团致14死6伤",
+      "onboard_time": 1759176313,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -243,20 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119792,
-      "num": 119792,
-      "word": "5岁男童小区景观池触电身亡",
-      "onboard_time": 1759157782,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114386,
       "num": 114386,
       "word": "赵丽颖学过钢管舞",
       "onboard_time": 1759156764,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112583,
+      "num": 97711,
+      "word": "日本网友P图预言反对引进印度人才",
+      "onboard_time": 1759153642,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109539,
@@ -275,12 +291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106499,
-      "num": 106499,
-      "word": "明家犯罪集团致14死6伤",
-      "onboard_time": 1759176313,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 100656,
+      "num": 97498,
+      "word": "蛋糕不同意周深33岁",
+      "onboard_time": 1759187179,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100298,
+      "num": 100298,
+      "word": "俱乐部为樊振东欧冠首秀换场馆",
+      "onboard_time": 1759160781,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99326,
@@ -307,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94117,
+      "num": 94117,
+      "word": "说唱歌手诺米无证驾驶被交警处罚",
+      "onboard_time": 1759166356,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 92439,
+      "num": 92439,
+      "word": "中国K字签证要守三关",
+      "onboard_time": 1759187118,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92216,
       "num": 92216,
       "word": "英雄联盟S15",
@@ -323,14 +363,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 84965,
-      "num": 53538,
-      "word": "说唱歌手诺米无证驾驶被交警处罚",
-      "onboard_time": 1759166356,
-      "rank": 41,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 80859,
       "num": 80859,
       "word": "孟子义李昀锐终于学会翻面吻了",
@@ -345,14 +377,6 @@
       "onboard_time": 1759157963,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78014,
-      "num": 78014,
-      "word": "日本网友P图预言反对引进印度人才",
-      "onboard_time": 1759153642,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 77436,
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69365,
+      "num": 69365,
+      "word": "台当局称大陆海警船干扰日方舰机",
+      "onboard_time": 1759187957,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68718,
       "num": 77234,
       "word": "盛世中国如你所愿",
@@ -387,12 +419,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67642,
+      "num": 67642,
+      "word": "路人拍的孙一宁",
+      "onboard_time": 1759144702,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65822,
+      "num": 65822,
+      "word": "特朗普称对境外制作电影征100%关税",
+      "onboard_time": 1759186877,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65405,
       "num": 77266,
       "word": "许昌学院拟聘73名博士",
       "onboard_time": 1759160181,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64247,
+      "num": 64247,
+      "word": "警惕肺癌早期的几个信号",
+      "onboard_time": 1759147880,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64182,
@@ -443,6 +499,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58210,
+      "num": 58210,
+      "word": "LCK包揽LOL战力榜前三",
+      "onboard_time": 1759187599,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 57027,
+      "num": 57027,
+      "word": "鹿哈女友自曝全脸do",
+      "onboard_time": 1759187718,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 53251,
+      "num": 53251,
+      "word": "NBA媒体日",
+      "onboard_time": 1759187179,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46960,
+      "num": 46960,
+      "word": "警方回应女童上托班耳朵疑被撕裂",
+      "onboard_time": 1759183995,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43727,
       "num": 46412,
       "word": "王楚钦在哪儿都是打卡点",
@@ -451,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43409,
-      "num": 52526,
-      "word": "俱乐部为樊振东欧冠首秀换场馆",
-      "onboard_time": 1759160781,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 43678,
+      "num": 43678,
+      "word": "邓超 我先看一眼影后",
+      "onboard_time": 1759172834,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 43389,
@@ -467,12 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42236,
-      "num": 46392,
-      "word": "警惕肺癌早期的几个信号",
-      "onboard_time": 1759147880,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 43028,
+      "num": 43028,
+      "word": "上海701万彩票大奖58天仍无人认领",
+      "onboard_time": 1759158982,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40146,
@@ -505,14 +593,6 @@
       "onboard_time": 1759164077,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29283,
-      "num": 29283,
-      "word": "邓超 我先看一眼影后",
-      "onboard_time": 1759172834,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 26357,

@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759185399511,
+  "endTime": 1759188182446,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 853395,
+      "num": 853395,
+      "word": "维达抽纸被曝有黄色不明物体",
+      "onboard_time": 1759161381,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848890,
       "num": 336133,
       "word": "公公葬礼上女子发现丈夫竟出轨16年",
@@ -707,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637991,
+      "num": 185925,
+      "word": "第一批丁克夫妻离世遗产留给谁",
+      "onboard_time": 1759157364,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635082,
       "num": 599211,
       "word": "董璇张维伊婚礼 长辈加桌",
@@ -721,14 +737,6 @@
       "onboard_time": 1759032562,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 615234,
-      "num": 185925,
-      "word": "第一批丁克夫妻离世遗产留给谁",
-      "onboard_time": 1759157364,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 610407,
@@ -872,14 +880,6 @@
       "word": "通行2小时缩至2分钟什么体验",
       "onboard_time": 1759016840,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 563717,
-      "num": 563717,
-      "word": "维达抽纸被曝有黄色不明物体",
-      "onboard_time": 1759161381,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1369,6 +1369,14 @@
       "onboard_time": 1759143441,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402973,
+      "num": 169445,
+      "word": "女子跪坐高速奔驰的汽车引擎盖",
+      "onboard_time": 1759158682,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401427,
@@ -2291,11 +2299,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205244,
-      "num": 169445,
-      "word": "女子跪坐高速奔驰的汽车引擎盖",
-      "onboard_time": 1759158682,
-      "rank": 33,
+      "raw_hot": 206072,
+      "num": 174883,
+      "word": "5岁男童小区景观池触电身亡",
+      "onboard_time": 1759157782,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -2923,20 +2931,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174883,
-      "num": 174883,
-      "word": "5岁男童小区景观池触电身亡",
-      "onboard_time": 1759157782,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174847,
       "num": 160265,
       "word": "花海神罪签名正在派送",
       "onboard_time": 1759126881,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173630,
+      "num": 173630,
+      "word": "明家犯罪集团致14死6伤",
+      "onboard_time": 1759176313,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173255,
@@ -5307,14 +5315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106499,
-      "num": 106499,
-      "word": "明家犯罪集团致14死6伤",
-      "onboard_time": 1759176313,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106361,
       "num": 106361,
       "word": "卫健委回应华山医院做错手术",
@@ -5683,11 +5683,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 100656,
+      "num": 97498,
+      "word": "蛋糕不同意周深33岁",
+      "onboard_time": 1759187179,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100536,
       "num": 100536,
       "word": "孙颖莎 金箍棒",
       "onboard_time": 1759135581,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100298,
+      "num": 100298,
+      "word": "俱乐部为樊振东欧冠首秀换场馆",
+      "onboard_time": 1759160781,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -5979,6 +5995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94117,
+      "num": 94117,
+      "word": "说唱歌手诺米无证驾驶被交警处罚",
+      "onboard_time": 1759166356,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 94059,
       "num": 94059,
       "word": "久哲队",
@@ -6009,6 +6033,14 @@
       "onboard_time": 1759057342,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92439,
+      "num": 92439,
+      "word": "中国K字签证要守三关",
+      "onboard_time": 1759187118,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91869,
@@ -6249,14 +6281,6 @@
       "onboard_time": 1758978020,
       "rank": 46,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 84965,
-      "num": 53538,
-      "word": "说唱歌手诺米无证驾驶被交警处罚",
-      "onboard_time": 1759166356,
-      "rank": 41,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 84664,
@@ -6595,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69365,
+      "num": 69365,
+      "word": "台当局称大陆海警船干扰日方舰机",
+      "onboard_time": 1759187957,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68718,
       "num": 77234,
       "word": "盛世中国如你所愿",
@@ -6641,6 +6673,14 @@
       "onboard_time": 1759118722,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65822,
+      "num": 65822,
+      "word": "特朗普称对境外制作电影征100%关税",
+      "onboard_time": 1759186877,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65717,
@@ -6883,6 +6923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58210,
+      "num": 58210,
+      "word": "LCK包揽LOL战力榜前三",
+      "onboard_time": 1759187599,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57545,
       "num": 239948,
       "word": "和孟子义一起喜提缤果S",
@@ -6897,6 +6945,14 @@
       "onboard_time": 1759101500,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57027,
+      "num": 57027,
+      "word": "鹿哈女友自曝全脸do",
+      "onboard_time": 1759187718,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 56997,
@@ -7027,6 +7083,14 @@
       "category": "游戏,数码"
     },
     {
+      "raw_hot": 53251,
+      "num": 53251,
+      "word": "NBA媒体日",
+      "onboard_time": 1759187179,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51852,
       "num": 269792,
       "word": "全国都在偶遇樊振东",
@@ -7131,6 +7195,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 46960,
+      "num": 46960,
+      "word": "警方回应女童上托班耳朵疑被撕裂",
+      "onboard_time": 1759183995,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46564,
       "num": 55511,
       "word": "纽约抗议者鸣笛不让以总理睡觉",
@@ -7179,12 +7251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43409,
-      "num": 52526,
-      "word": "俱乐部为樊振东欧冠首秀换场馆",
-      "onboard_time": 1759160781,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 43678,
+      "num": 43678,
+      "word": "邓超 我先看一眼影后",
+      "onboard_time": 1759172834,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 43389,
@@ -7433,14 +7505,6 @@
       "onboard_time": 1759133782,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29283,
-      "num": 29283,
-      "word": "邓超 我先看一眼影后",
-      "onboard_time": 1759172834,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 28729,

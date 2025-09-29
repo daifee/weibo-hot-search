@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 06:36:39
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 07:23:02
 </p>
 </blockquote>
 <p>
@@ -4791,6 +4791,12 @@ WTT抽签（热度：866782）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E8%BE%BE%E6%8A%BD%E7%BA%B8%E8%A2%AB%E6%9B%9D%E6%9C%89%E9%BB%84%E8%89%B2%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93%23" target="weibo">
+维达抽纸被曝有黄色不明物体（热度：853395）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23" target="weibo">
 华南理工（热度：852179）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2330%E7%A7%92%E8%87%AA%E6%9F%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E6%98%AF%E5%90%A6%E8%A2%AB%E4%BB%96%E4%BA%BA%E7%BB%91%E5%AE%9A%23" target="weibo">
 30秒自查身份证是否被他人绑定（热度：742159）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%23" target="weibo">
-淘宝闪购（热度：741647）
 </a>
 </li>
 
