@@ -1,0 +1,410 @@
+{
+  "runTime": 1759152926277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910473,
+        "num": 1145675,
+        "word": "女童耳朵撕裂10万托班监控失灵",
+        "onboard_time": 1759145900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897871,
+        "num": 897871,
+        "word": "北京天空",
+        "onboard_time": 1759144341,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17561,
+        "num": 769929,
+        "word": "高质量完成十四五规划系列发布会",
+        "onboard_time": 1759136421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 732304,
+        "num": 732304,
+        "word": "周深直播",
+        "onboard_time": 1759145601,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676254,
+        "num": 676254,
+        "word": "郑钦文中网退赛",
+        "onboard_time": 1759150939,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564487,
+        "num": 564487,
+        "word": "董璇张维伊婚礼 长辈加桌",
+        "onboard_time": 1759143740,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563857,
+        "num": 563857,
+        "word": "陈俊菘3比2张本智和",
+        "onboard_time": 1759149860,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468375,
+        "num": 468375,
+        "word": "微信朋友圈照片变清晰",
+        "onboard_time": 1759144041,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 402368,
+        "num": 402368,
+        "word": "明家犯罪集团11人死刑",
+        "onboard_time": 1759136720,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310283,
+        "num": 310283,
+        "word": "女子高铁说讨厌小孩被宝妈怼哭",
+        "onboard_time": 1759135161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1176992,
+        "num": 309853,
+        "word": "差点没认出苗苗",
+        "onboard_time": 1759144702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538279,
+        "num": 306851,
+        "word": "瘦10斤比我瘦30斤还明显",
+        "onboard_time": 1759146860,
+        "rank": 11,
+        "category": "运动健身,情感"
+      },
+      {
+        "raw_hot": 532993,
+        "num": 304755,
+        "word": "邓为变壮",
+        "onboard_time": 1759149320,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438277,
+        "num": 303692,
+        "word": "公公葬礼上女子发现丈夫竟出轨16年",
+        "onboard_time": 1759139180,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404094,
+        "num": 302633,
+        "word": "中方决定增设K字签证",
+        "onboard_time": 1759133720,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325890,
+        "num": 299852,
+        "word": "roscoe去世",
+        "onboard_time": 1759150939,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298827,
+        "num": 298827,
+        "word": "明家涉赌诈超100亿元",
+        "onboard_time": 1759136541,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274826,
+        "num": 274826,
+        "word": "将门独后男主90生",
+        "onboard_time": 1759142600,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257721,
+        "num": 257721,
+        "word": "河北天空",
+        "onboard_time": 1759145481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31819,
+        "num": 256412,
+        "word": "极氪9X引领新一代科技豪华",
+        "onboard_time": 1759150101,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 347928,
+        "num": 256032,
+        "word": "沈佳润 一点垫音混音不给孩子加",
+        "onboard_time": 1759138401,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255453,
+        "num": 255453,
+        "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+        "onboard_time": 1759150341,
+        "rank": 21,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 241000,
+        "num": 241000,
+        "word": "张本智和止步中国大满贯首轮",
+        "onboard_time": 1759150881,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240660,
+        "num": 240660,
+        "word": "警惕肺癌早期的几个信号",
+        "onboard_time": 1759147880,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237501,
+        "num": 237501,
+        "word": "肖战澳门出发",
+        "onboard_time": 1759150461,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232713,
+        "num": 232713,
+        "word": "宋祖儿 雪地玫瑰妆",
+        "onboard_time": 1759150040,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227773,
+        "num": 227773,
+        "word": "陈俊菘说张本智和之前比较嚣张",
+        "onboard_time": 1759151961,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207670,
+        "num": 207670,
+        "word": "孙俪吃了一段时间的干净饭",
+        "onboard_time": 1759134741,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161205,
+        "num": 205784,
+        "word": "极氪9X刷新旗舰SUV驾乘体验",
+        "onboard_time": 1759151541,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169200,
+        "num": 205128,
+        "word": "有些桌上不了就别硬上",
+        "onboard_time": 1759151541,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204730,
+        "num": 204730,
+        "word": "海陆瘦成纸片人",
+        "onboard_time": 1759143441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175221,
+        "num": 175221,
+        "word": "小酒窝发博",
+        "onboard_time": 1759123641,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171577,
+        "num": 171577,
+        "word": "鸡排哥1分钟视频报价仅10元",
+        "onboard_time": 1759138221,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166938,
+        "num": 166938,
+        "word": "郑钦文vs诺斯科娃",
+        "onboard_time": 1759145060,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150934,
+        "num": 150934,
+        "word": "食品厂工人掉入月饼机器",
+        "onboard_time": 1759135882,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "陈俊菘回应战胜张本智和",
+        "onboard_time": 1759152441,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147786,
+        "num": 147786,
+        "word": "街舞5选手解晓东去世",
+        "onboard_time": 1759130840,
+        "rank": 36,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 145225,
+        "num": 145225,
+        "word": "绝区零",
+        "onboard_time": 1759151002,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141695,
+        "num": 141695,
+        "word": "初中8人寝住9人两人合睡1.1米床",
+        "onboard_time": 1759151421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140482,
+        "num": 140482,
+        "word": "苏醒被指拉踩河南胡辣汤",
+        "onboard_time": 1759126102,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129605,
+        "num": 129605,
+        "word": "金子涵粉发寸头",
+        "onboard_time": 1759152561,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125012,
+        "num": 125012,
+        "word": "敬山水",
+        "onboard_time": 1759152862,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121852,
+        "num": 121852,
+        "word": "33岁的周深",
+        "onboard_time": 1759143562,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119789,
+        "num": 119789,
+        "word": "沈佳润观众缘",
+        "onboard_time": 1759136600,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115527,
+        "num": 115527,
+        "word": "郭艾伦跳刀马刀马",
+        "onboard_time": 1759152261,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113587,
+        "num": 113587,
+        "word": "王楚钦爱就是陪伴",
+        "onboard_time": 1759152682,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112915,
+        "num": 112915,
+        "word": "丁程鑫跟人家的头握了一个手",
+        "onboard_time": 1759149981,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112313,
+        "num": 112313,
+        "word": "鸡排哥",
+        "onboard_time": 1759151182,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108828,
+        "num": 108828,
+        "word": "肖战容祖儿 这是小沈阳的女儿",
+        "onboard_time": 1759128141,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103673,
+        "num": 103673,
+        "word": "22岁全款300万买房后的生活",
+        "onboard_time": 1759141460,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局9月29日召开会议#"
+    }
+  }
+}

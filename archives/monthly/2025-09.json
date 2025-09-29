@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759151231944,
+  "endTime": 1759152926277,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1324,7 +1324,7 @@
     },
     {
       "raw_hot": 1952918,
-      "num": 644833,
+      "num": 732304,
       "word": "周深直播",
       "onboard_time": 1759145601,
       "rank": 3,
@@ -3723,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1176992,
+      "num": 355130,
+      "word": "差点没认出苗苗",
+      "onboard_time": 1759144702,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1173756,
       "num": 473338,
       "word": "小酒窝发博",
@@ -5483,14 +5491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 925837,
-      "num": 355130,
-      "word": "差点没认出苗苗",
-      "onboard_time": 1759144702,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 925829,
       "num": 4430545,
       "word": "我的家在东北松花江上",
@@ -5576,6 +5576,14 @@
       "word": "女孩被同班男生杀害尸体距家仅100米",
       "onboard_time": 1758252505,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 910473,
+      "num": 1145675,
+      "word": "女童耳朵撕裂10万托班监控失灵",
+      "onboard_time": 1759145900,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -9043,6 +9051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 676254,
+      "num": 676254,
+      "word": "郑钦文中网退赛",
+      "onboard_time": 1759150939,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675145,
       "num": 675145,
       "word": "考研时间表",
@@ -12115,20 +12131,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 538503,
-      "num": 538503,
-      "word": "女童耳朵撕裂10万托班监控失灵",
-      "onboard_time": 1759145900,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538386,
       "num": 538386,
       "word": "刘亦菲迪丽热巴热聊",
       "onboard_time": 1757078962,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 538279,
+      "num": 352333,
+      "word": "瘦10斤比我瘦30斤还明显",
+      "onboard_time": 1759146860,
+      "rank": 11,
+      "category": "运动健身,情感"
     },
     {
       "raw_hot": 538040,
@@ -12305,6 +12321,14 @@
       "onboard_time": 1758091884,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 532993,
+      "num": 304755,
+      "word": "邓为变壮",
+      "onboard_time": 1759149320,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 532959,
@@ -14195,14 +14219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 470974,
-      "num": 352333,
-      "word": "瘦10斤比我瘦30斤还明显",
-      "onboard_time": 1759146860,
-      "rank": 11,
-      "category": "运动健身,情感"
-    },
-    {
       "raw_hot": 470272,
       "num": 432252,
       "word": "狂飙麻子爆改富二代",
@@ -14241,6 +14257,14 @@
       "onboard_time": 1757118319,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468375,
+      "num": 468375,
+      "word": "微信朋友圈照片变清晰",
+      "onboard_time": 1759144041,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 468314,
@@ -20539,6 +20563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 325890,
+      "num": 299852,
+      "word": "roscoe去世",
+      "onboard_time": 1759150939,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325793,
       "num": 325793,
       "word": "日本签署投降书画面",
@@ -23003,14 +23035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283137,
-      "num": 283137,
-      "word": "微信朋友圈照片变清晰",
-      "onboard_time": 1759144041,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 283081,
       "num": 283081,
       "word": "孙颖莎说和王楚钦默契不错",
@@ -25019,6 +25043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255453,
+      "num": 255453,
+      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+      "onboard_time": 1759150341,
+      "rank": 26,
+      "category": "演出,民生新闻"
+    },
+    {
       "raw_hot": 255421,
       "num": 255421,
       "word": "谢娜初代王牌队长回来了",
@@ -26171,6 +26203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241000,
+      "num": 241000,
+      "word": "张本智和止步中国大满贯首轮",
+      "onboard_time": 1759150881,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240939,
       "num": 240939,
       "word": "王俊凯顺毛",
@@ -26217,6 +26257,14 @@
       "onboard_time": 1758185064,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240660,
+      "num": 240660,
+      "word": "警惕肺癌早期的几个信号",
+      "onboard_time": 1759147880,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240651,
@@ -26443,14 +26491,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 238200,
-      "num": 238200,
-      "word": "邓为变壮",
-      "onboard_time": 1759149320,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238173,
       "num": 282272,
       "word": "乔杉妻子莫丹官宣三胎得子",
@@ -26545,6 +26585,14 @@
       "onboard_time": 1756909104,
       "rank": 33,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 237501,
+      "num": 237501,
+      "word": "肖战澳门出发",
+      "onboard_time": 1759150461,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 237416,
@@ -26985,6 +27033,14 @@
       "onboard_time": 1756895243,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 232713,
+      "num": 232713,
+      "word": "宋祖儿 雪地玫瑰妆",
+      "onboard_time": 1759150040,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 232705,
@@ -27459,6 +27515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227773,
+      "num": 227773,
+      "word": "陈俊菘说张本智和之前比较嚣张",
+      "onboard_time": 1759151961,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227757,
       "num": 259740,
       "word": "迪卡侬广告 处女地",
@@ -27537,14 +27601,6 @@
       "onboard_time": 1757149941,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227251,
-      "num": 227251,
-      "word": "郑钦文中网退赛",
-      "onboard_time": 1759150939,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 227212,
@@ -28033,14 +28089,6 @@
       "onboard_time": 1756912283,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 222383,
-      "num": 222383,
-      "word": "警惕肺癌早期的几个信号",
-      "onboard_time": 1759147880,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 222371,
@@ -28745,14 +28793,6 @@
       "onboard_time": 1757380522,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216877,
-      "num": 216877,
-      "word": "宋祖儿 雪地玫瑰妆",
-      "onboard_time": 1759150040,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 216848,
@@ -30433,14 +30473,6 @@
       "onboard_time": 1758951081,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206518,
-      "num": 206518,
-      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
-      "onboard_time": 1759150341,
-      "rank": 26,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 206447,
@@ -34385,14 +34417,6 @@
       "onboard_time": 1757323583,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191459,
-      "num": 191459,
-      "word": "张本智和止步中国大满贯首轮",
-      "onboard_time": 1759150881,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 191450,
@@ -40411,6 +40435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169200,
+      "num": 205128,
+      "word": "有些桌上不了就别硬上",
+      "onboard_time": 1759151541,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169150,
       "num": 169150,
       "word": "四种食物最好不要空腹吃",
@@ -40649,14 +40681,6 @@
       "onboard_time": 1757404881,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 168478,
-      "num": 168478,
-      "word": "roscoe去世",
-      "onboard_time": 1759150939,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 168459,
@@ -43193,6 +43217,14 @@
       "onboard_time": 1757395761,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161205,
+      "num": 205784,
+      "word": "极氪9X刷新旗舰SUV驾乘体验",
+      "onboard_time": 1759151541,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 161201,
@@ -47347,6 +47379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149933,
+      "num": 149933,
+      "word": "陈俊菘回应战胜张本智和",
+      "onboard_time": 1759152441,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149923,
       "num": 149923,
       "word": "樊振东新东家是乒乓欧冠头号种子",
@@ -50747,14 +50787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142417,
-      "num": 142417,
-      "word": "肖战澳门出发",
-      "onboard_time": 1759150461,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142402,
       "num": 327815,
       "word": "教育局回应中学强制女生剪斜面短发",
@@ -51121,6 +51153,14 @@
       "onboard_time": 1757070020,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141695,
+      "num": 141695,
+      "word": "初中8人寝住9人两人合睡1.1米床",
+      "onboard_time": 1759151421,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141688,
@@ -56905,6 +56945,14 @@
       "onboard_time": 1758153741,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129605,
+      "num": 129605,
+      "word": "金子涵粉发寸头",
+      "onboard_time": 1759152561,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 129604,
@@ -64499,6 +64547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115527,
+      "num": 115527,
+      "word": "郭艾伦跳刀马刀马",
+      "onboard_time": 1759152261,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115512,
       "num": 115512,
       "word": "Falcons夺冠",
@@ -65459,6 +65515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113587,
+      "num": 113587,
+      "word": "王楚钦爱就是陪伴",
+      "onboard_time": 1759152682,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113568,
       "num": 113568,
       "word": "郑州及周边成暴雨大暴雨核心区",
@@ -65809,6 +65873,14 @@
       "onboard_time": 1758090803,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 112915,
+      "num": 124113,
+      "word": "丁程鑫跟人家的头握了一个手",
+      "onboard_time": 1759149981,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 112914,
@@ -81329,14 +81401,6 @@
       "onboard_time": 1758275843,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74597,
-      "num": 124113,
-      "word": "丁程鑫跟人家的头握了一个手",
-      "onboard_time": 1759149981,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 74587,

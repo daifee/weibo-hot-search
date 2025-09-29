@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759151231944,
+  "endTime": 1759152926277,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1952918,
-      "num": 644833,
+      "num": 732304,
       "word": "周深直播",
       "onboard_time": 1759145601,
       "rank": 3,
@@ -169,6 +169,14 @@
       "onboard_time": 1759017321,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1176992,
+      "num": 355130,
+      "word": "差点没认出苗苗",
+      "onboard_time": 1759144702,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 1173756,
@@ -339,20 +347,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 925837,
-      "num": 355130,
-      "word": "差点没认出苗苗",
-      "onboard_time": 1759144702,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 920937,
       "num": 1147349,
       "word": "湾区升明月节目单",
       "onboard_time": 1759033341,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 910473,
+      "num": 1145675,
+      "word": "女童耳朵撕裂10万托班监控失灵",
+      "onboard_time": 1759145900,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 888844,
@@ -561,6 +569,14 @@
       "onboard_time": 1758987202,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 676254,
+      "num": 676254,
+      "word": "郑钦文中网退赛",
+      "onboard_time": 1759150939,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 671940,
@@ -835,12 +851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 538503,
-      "num": 538503,
-      "word": "女童耳朵撕裂10万托班监控失灵",
-      "onboard_time": 1759145900,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 538279,
+      "num": 352333,
+      "word": "瘦10斤比我瘦30斤还明显",
+      "onboard_time": 1759146860,
+      "rank": 11,
+      "category": "运动健身,情感"
     },
     {
       "raw_hot": 537302,
@@ -865,6 +881,14 @@
       "onboard_time": 1759104681,
       "rank": 3,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 532993,
+      "num": 304755,
+      "word": "邓为变壮",
+      "onboard_time": 1759149320,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 530079,
@@ -1019,12 +1043,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 470974,
-      "num": 352333,
-      "word": "瘦10斤比我瘦30斤还明显",
-      "onboard_time": 1759146860,
-      "rank": 11,
-      "category": "运动健身,情感"
+      "raw_hot": 468375,
+      "num": 468375,
+      "word": "微信朋友圈照片变清晰",
+      "onboard_time": 1759144041,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 467673,
@@ -1507,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325890,
+      "num": 299852,
+      "word": "roscoe去世",
+      "onboard_time": 1759150939,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317928,
       "num": 317928,
       "word": "孙颖莎vs平野美宇",
@@ -1683,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283137,
-      "num": 283137,
-      "word": "微信朋友圈照片变清晰",
-      "onboard_time": 1759144041,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 282592,
       "num": 282592,
       "word": "井迪忙活了一天发现才早上七点半",
@@ -1787,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255453,
+      "num": 255453,
+      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+      "onboard_time": 1759150341,
+      "rank": 26,
+      "category": "演出,民生新闻"
+    },
+    {
       "raw_hot": 251190,
       "num": 251190,
       "word": "GEN战胜HLE",
@@ -1843,6 +1875,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241000,
+      "num": 241000,
+      "word": "张本智和止步中国大满贯首轮",
+      "onboard_time": 1759150881,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240660,
+      "num": 240660,
+      "word": "警惕肺癌早期的几个信号",
+      "onboard_time": 1759147880,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 240184,
       "num": 240184,
       "word": "普林斯顿中国博士后李昊然去世",
@@ -1859,20 +1907,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238200,
-      "num": 238200,
-      "word": "邓为变壮",
-      "onboard_time": 1759149320,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237593,
       "num": 237593,
       "word": "王楚钦 麒麟",
       "onboard_time": 1759124301,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237501,
+      "num": 237501,
+      "word": "肖战澳门出发",
+      "onboard_time": 1759150461,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 237041,
@@ -1905,6 +1953,14 @@
       "onboard_time": 1759066284,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232713,
+      "num": 232713,
+      "word": "宋祖儿 雪地玫瑰妆",
+      "onboard_time": 1759150040,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 232374,
@@ -1947,11 +2003,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 227251,
-      "num": 227251,
-      "word": "郑钦文中网退赛",
-      "onboard_time": 1759150939,
-      "rank": 23,
+      "raw_hot": 227773,
+      "num": 227773,
+      "word": "陈俊菘说张本智和之前比较嚣张",
+      "onboard_time": 1759151961,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -1977,14 +2033,6 @@
       "onboard_time": 1759074144,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 222383,
-      "num": 222383,
-      "word": "警惕肺癌早期的几个信号",
-      "onboard_time": 1759147880,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 222353,
@@ -2033,14 +2081,6 @@
       "onboard_time": 1758983301,
       "rank": 15,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 216877,
-      "num": 216877,
-      "word": "宋祖儿 雪地玫瑰妆",
-      "onboard_time": 1759150040,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 215571,
@@ -2137,14 +2177,6 @@
       "onboard_time": 1759065144,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206518,
-      "num": 206518,
-      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
-      "onboard_time": 1759150341,
-      "rank": 26,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 205099,
@@ -2440,14 +2472,6 @@
       "word": "王楚钦11比2张禹珍",
       "onboard_time": 1759064304,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191459,
-      "num": 191459,
-      "word": "张本智和止步中国大满贯首轮",
-      "onboard_time": 1759150881,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -2843,6 +2867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169200,
+      "num": 205128,
+      "word": "有些桌上不了就别硬上",
+      "onboard_time": 1759151541,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169150,
       "num": 169150,
       "word": "四种食物最好不要空腹吃",
@@ -2865,14 +2897,6 @@
       "onboard_time": 1759123221,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168478,
-      "num": 168478,
-      "word": "roscoe去世",
-      "onboard_time": 1759150939,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 168418,
@@ -3081,6 +3105,14 @@
       "onboard_time": 1759142059,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161205,
+      "num": 205784,
+      "word": "极氪9X刷新旗舰SUV驾乘体验",
+      "onboard_time": 1759151541,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 161130,
@@ -3379,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149933,
+      "num": 149933,
+      "word": "陈俊菘回应战胜张本智和",
+      "onboard_time": 1759152441,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149653,
       "num": 149653,
       "word": "蓝盈莹东方美学征服米兰",
@@ -3547,14 +3587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142417,
-      "num": 142417,
-      "word": "肖战澳门出发",
-      "onboard_time": 1759150461,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142154,
       "num": 142154,
       "word": "孙颖莎回应中国大满贯开门红",
@@ -3568,6 +3600,14 @@
       "word": "10月份工作日只有18天",
       "onboard_time": 1759029380,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141695,
+      "num": 141695,
+      "word": "初中8人寝住9人两人合睡1.1米床",
+      "onboard_time": 1759151421,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3987,6 +4027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129605,
+      "num": 129605,
+      "word": "金子涵粉发寸头",
+      "onboard_time": 1759152561,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129563,
       "num": 129563,
       "word": "张凌赫直播",
@@ -4185,6 +4233,14 @@
       "onboard_time": 1759035921,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125012,
+      "num": 125012,
+      "word": "敬山水",
+      "onboard_time": 1759152862,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 125002,
@@ -4643,6 +4699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115527,
+      "num": 115527,
+      "word": "郭艾伦跳刀马刀马",
+      "onboard_time": 1759152261,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115489,
       "num": 115489,
       "word": "停在路上的僵尸车集体不见了",
@@ -4715,6 +4779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113587,
+      "num": 113587,
+      "word": "王楚钦爱就是陪伴",
+      "onboard_time": 1759152682,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113469,
       "num": 113469,
       "word": "现实版再见老张太好哭了",
@@ -4729,6 +4801,14 @@
       "onboard_time": 1759038321,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112915,
+      "num": 124113,
+      "word": "丁程鑫跟人家的头握了一个手",
+      "onboard_time": 1759149981,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 112714,
@@ -6057,14 +6137,6 @@
       "onboard_time": 1759014137,
       "rank": 31,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 74597,
-      "num": 124113,
-      "word": "丁程鑫跟人家的头握了一个手",
-      "onboard_time": 1759149981,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 74560,
