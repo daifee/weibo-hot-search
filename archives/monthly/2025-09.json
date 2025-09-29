@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759155977962,
+  "endTime": 1759157036081,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -4785,6 +4785,14 @@
       "onboard_time": 1759109180,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1002659,
+      "num": 1160425,
+      "word": "roscoe去世",
+      "onboard_time": 1759150939,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 1002169,
@@ -13779,14 +13787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 488924,
-      "num": 488924,
-      "word": "roscoe去世",
-      "onboard_time": 1759150939,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 487991,
       "num": 487991,
       "word": "杜淳妻子说小酒窝是为镜头而生的",
@@ -14113,6 +14113,14 @@
       "onboard_time": 1758592401,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477144,
+      "num": 210261,
+      "word": "张予曦出个国怎么美成这样",
+      "onboard_time": 1759155382,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 476677,
@@ -29275,6 +29283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213297,
+      "num": 207368,
+      "word": "赵丽颖学过钢管舞",
+      "onboard_time": 1759156764,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213253,
       "num": 246755,
       "word": "保安虐待精神病患者细节曝光",
@@ -29801,14 +29817,6 @@
       "onboard_time": 1756789823,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210261,
-      "num": 210261,
-      "word": "张予曦出个国怎么美成这样",
-      "onboard_time": 1759155382,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 210259,
@@ -33707,6 +33715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193832,
+      "num": 193832,
+      "word": "星星人",
+      "onboard_time": 1759155863,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 193826,
       "num": 180915,
       "word": "王楚钦我们依旧是我们",
@@ -37040,6 +37056,14 @@
       "word": "柬埔寨女骑士车祸身亡",
       "onboard_time": 1757303304,
       "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182255,
+      "num": 182255,
+      "word": "日本网友P图预言反对引进印度人才",
+      "onboard_time": 1759153642,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -41025,14 +41049,6 @@
       "onboard_time": 1757037799,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167904,
-      "num": 167904,
-      "word": "日本网友P图预言反对引进印度人才",
-      "onboard_time": 1759153642,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 167900,
@@ -49316,7 +49332,7 @@
     },
     {
       "raw_hot": 145896,
-      "num": 619037,
+      "num": 628966,
       "word": "试验三十号卫星01和02星发射成功",
       "onboard_time": 1759119323,
       "rank": 34,
@@ -52699,6 +52715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138286,
+      "num": 138286,
+      "word": "鸡排哥",
+      "onboard_time": 1759151182,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138279,
       "num": 193377,
       "word": "徐振轩剧宣e得我害怕",
@@ -53065,6 +53089,14 @@
       "onboard_time": 1756720462,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137605,
+      "num": 137605,
+      "word": "郑钦文回应中网退赛",
+      "onboard_time": 1759156161,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 137588,
@@ -58683,14 +58715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126663,
-      "num": 126663,
-      "word": "鸡排哥",
-      "onboard_time": 1759151182,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126662,
       "num": 126662,
       "word": "你的好骗程度到几级",
@@ -59377,14 +59401,6 @@
       "onboard_time": 1757216841,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125320,
-      "num": 125320,
-      "word": "星星人",
-      "onboard_time": 1759155863,
-      "rank": 45,
-      "category": "休闲"
     },
     {
       "raw_hot": 125316,
@@ -60537,6 +60553,14 @@
       "onboard_time": 1758555142,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123170,
+      "num": 123170,
+      "word": "英雄联盟S15",
+      "onboard_time": 1759156941,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 123169,
@@ -70809,6 +70833,14 @@
       "onboard_time": 1757421026,
       "rank": 45,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 103667,
+      "num": 103667,
+      "word": "第12个烈士纪念日",
+      "onboard_time": 1759156642,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103660,
@@ -93267,6 +93299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24333,
+      "num": 208218,
+      "word": "3岁幼童悬挂阳台热心邻居徒手接住",
+      "onboard_time": 1759156702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24311,
       "num": 59274,
       "word": "又可以和汪苏泷同淋一场雨了",
@@ -94416,6 +94456,14 @@
       "word": "这是我们的新疆",
       "onboard_time": 1758768080,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19178,
+      "num": 137608,
+      "word": "男子被砍后反杀凶手案最新进展",
+      "onboard_time": 1759156581,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

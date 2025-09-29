@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 22:26:17
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 22:43:56
 </p>
 </blockquote>
 <p>
@@ -3603,6 +3603,12 @@ iPhone 调休闹钟（热度：1012419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23roscoe%E5%8E%BB%E4%B8%96%23" target="weibo">
+roscoe去世（热度：1002659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%96%E5%95%A1%E5%9B%A0%20%E5%B8%83%E6%B4%9B%E8%8A%AC%23" target="weibo">
 咖啡因 布洛芬（热度：1002169）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%23" target="weibo">
 淘宝闪购（热度：741647）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E8%A6%86%E7%9B%96%23" target="weibo">
-广东大部分被台风桦加沙覆盖（热度：741065）
 </a>
 </li>
 
