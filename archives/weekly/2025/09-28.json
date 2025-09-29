@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759152926277,
+  "endTime": 1759153653076,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 966255,
+      "num": 1154600,
+      "word": "女童耳朵撕裂10万托班监控失灵",
+      "onboard_time": 1759145900,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 962864,
       "num": 215593,
       "word": "华南理工校内车祸遇难者同学发声",
@@ -353,14 +361,6 @@
       "onboard_time": 1759033341,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 910473,
-      "num": 1145675,
-      "word": "女童耳朵撕裂10万托班监控失灵",
-      "onboard_time": 1759145900,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 888844,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613761,
+      "num": 613761,
+      "word": "微信朋友圈照片变清晰",
+      "onboard_time": 1759144041,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 610407,
       "num": 292234,
       "word": "22岁全款300万买房后的生活",
@@ -721,6 +729,14 @@
       "onboard_time": 1759063523,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 597508,
+      "num": 317782,
+      "word": "邓为变壮",
+      "onboard_time": 1759149320,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 594470,
@@ -883,14 +899,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 532993,
-      "num": 304755,
-      "word": "邓为变壮",
-      "onboard_time": 1759149320,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 530079,
       "num": 342576,
       "word": "苏醒被指拉踩河南胡辣汤",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1759133480,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 468375,
-      "num": 468375,
-      "word": "微信朋友圈照片变清晰",
-      "onboard_time": 1759144041,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 467673,
@@ -1747,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267497,
+      "num": 256451,
+      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+      "onboard_time": 1759150341,
+      "rank": 26,
+      "category": "演出,民生新闻"
+    },
+    {
       "raw_hot": 264356,
       "num": 178262,
       "word": "邓超腿受伤",
@@ -1803,20 +1811,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256251,
+      "num": 256251,
+      "word": "肖战澳门出发",
+      "onboard_time": 1759150461,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255951,
       "num": 255951,
       "word": "迪丽热巴迪奥大秀预告",
       "onboard_time": 1759106361,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 255453,
-      "num": 255453,
-      "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
-      "onboard_time": 1759150341,
-      "rank": 26,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 251190,
@@ -1913,14 +1921,6 @@
       "onboard_time": 1759124301,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237501,
-      "num": 237501,
-      "word": "肖战澳门出发",
-      "onboard_time": 1759150461,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 237041,
@@ -2107,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213510,
+      "num": 258812,
+      "word": "敬山水",
+      "onboard_time": 1759152862,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212521,
       "num": 212521,
       "word": "唐仁健受贿2.68亿余元",
@@ -2185,6 +2193,14 @@
       "onboard_time": 1759134741,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204465,
+      "num": 197876,
+      "word": "孙颖莎也知道防摄像头了",
+      "onboard_time": 1759153340,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 203458,
@@ -2859,6 +2875,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 171025,
+      "num": 171025,
+      "word": "初中8人寝住9人两人合睡1.1米床",
+      "onboard_time": 1759151421,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169517,
       "num": 169517,
       "word": "湾区升明月彩排",
@@ -3108,7 +3132,7 @@
     },
     {
       "raw_hot": 161205,
-      "num": 205784,
+      "num": 230195,
       "word": "极氪9X刷新旗舰SUV驾乘体验",
       "onboard_time": 1759151541,
       "rank": 28,
@@ -3459,6 +3483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148150,
+      "num": 148150,
+      "word": "狐妖小红娘王权篇预约破400万",
+      "onboard_time": 1759153221,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147401,
       "num": 147401,
       "word": "贺峻霖无奈",
@@ -3603,14 +3635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141695,
-      "num": 141695,
-      "word": "初中8人寝住9人两人合睡1.1米床",
-      "onboard_time": 1759151421,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141468,
       "num": 141468,
       "word": "李斯丹妮鼻子上贴了12颗金钻",
@@ -3673,6 +3697,14 @@
       "onboard_time": 1759032981,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139977,
+      "num": 139977,
+      "word": "金子涵粉发寸头",
+      "onboard_time": 1759152561,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 139782,
@@ -3987,6 +4019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130382,
+      "num": 161238,
+      "word": "丁程鑫跟人家的头握了一个手",
+      "onboard_time": 1759149981,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129950,
       "num": 537214,
       "word": "假期跨区域流动预计超23亿人次",
@@ -4025,14 +4065,6 @@
       "onboard_time": 1759134500,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129605,
-      "num": 129605,
-      "word": "金子涵粉发寸头",
-      "onboard_time": 1759152561,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 129563,
@@ -4235,14 +4267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125012,
-      "num": 125012,
-      "word": "敬山水",
-      "onboard_time": 1759152862,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 125002,
       "num": 148229,
       "word": "美国一起枪击2死8伤",
@@ -4265,6 +4289,14 @@
       "onboard_time": 1759051039,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124927,
+      "num": 258607,
+      "word": "超靠谱的辅助驾驶",
+      "onboard_time": 1759153340,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 124879,
@@ -4801,14 +4833,6 @@
       "onboard_time": 1759038321,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112915,
-      "num": 124113,
-      "word": "丁程鑫跟人家的头握了一个手",
-      "onboard_time": 1759149981,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 112714,
@@ -5795,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89239,
+      "num": 257096,
+      "word": "林诗栋3比0普卡",
+      "onboard_time": 1759153340,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89009,
       "num": 113542,
       "word": "卖女孩的红烧肉改为卖红烧肉的女孩",
@@ -6339,6 +6371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62580,
+      "num": 162828,
+      "word": "北海小店回应登顶扫街榜全国第一",
+      "onboard_time": 1759153221,
+      "rank": 35,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 62376,
       "num": 213880,
       "word": "被王欣瑜治愈系笑容融化了",
@@ -6635,6 +6675,14 @@
       "category": "游戏,数码"
     },
     {
+      "raw_hot": 51852,
+      "num": 269792,
+      "word": "全国都在偶遇樊振东",
+      "onboard_time": 1759147580,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51436,
       "num": 236393,
       "word": "中式豪华才是顶流",
@@ -6761,14 +6809,6 @@
       "onboard_time": 1759123760,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 44003,
-      "num": 269792,
-      "word": "全国都在偶遇樊振东",
-      "onboard_time": 1759147580,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 43138,

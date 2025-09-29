@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 21:35:26
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/29 21:47:33
 </p>
 </blockquote>
 <p>
@@ -3831,6 +3831,12 @@ Dior认领（热度：968275）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%80%B3%E6%9C%B5%E6%92%95%E8%A3%8210%E4%B8%87%E6%89%98%E7%8F%AD%E7%9B%91%E6%8E%A7%E5%A4%B1%E7%81%B5%23" target="weibo">
+女童耳朵撕裂10万托班监控失灵（热度：966255）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8A%E4%B8%8A%E5%A9%9A%E7%BB%BC%E6%98%AF%E4%B8%BA%E4%BA%86%E6%AD%A3%E5%BC%8F%E4%BB%8B%E7%BB%8D%E5%A4%AA%E5%A4%AA%23" target="weibo">
 赵磊上婚综是为了正式介绍太太（热度：965473）
 </a>
@@ -4193,12 +4199,6 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%90%8C%E7%8F%AD%E7%94%B7%E7%94%9F%E6%9D%80%E5%AE%B3%E5%B0%B8%E4%BD%93%E8%B7%9D%E5%AE%B6%E4%BB%85100%E7%B1%B3%23" target="weibo">
 女孩被同班男生杀害尸体距家仅100米（热度：911371）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%80%B3%E6%9C%B5%E6%92%95%E8%A3%8210%E4%B8%87%E6%89%98%E7%8F%AD%E7%9B%91%E6%8E%A7%E5%A4%B1%E7%81%B5%23" target="weibo">
-女童耳朵撕裂10万托班监控失灵（热度：910473）
 </a>
 </li>
 
