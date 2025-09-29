@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759139008578,
+  "endTime": 1759141728370,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -123,6 +123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1363406,
+      "num": 1363406,
+      "word": "明家犯罪集团11人死刑",
+      "onboard_time": 1759136720,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1350863,
       "num": 592328,
       "word": "肖战婉拒签名",
@@ -177,14 +185,6 @@
       "onboard_time": 1759014739,
       "rank": 6,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 1144589,
-      "num": 1183134,
-      "word": "明家犯罪集团11人死刑",
-      "onboard_time": 1759136720,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1089819,
@@ -355,11 +355,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 864682,
+      "num": 437716,
+      "word": "沈佳润 一点垫音混音不给孩子加",
+      "onboard_time": 1759138401,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 863670,
       "num": 439607,
       "word": "华南理工大学校内发生车祸有人被撞",
       "onboard_time": 1759065324,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848890,
+      "num": 198912,
+      "word": "公公葬礼上女子发现丈夫竟出轨16年",
+      "onboard_time": 1759139180,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -441,6 +457,14 @@
       "onboard_time": 1759055780,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 761957,
+      "num": 761957,
+      "word": "明家涉赌诈超100亿元",
+      "onboard_time": 1759136541,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 737061,
@@ -1059,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 426028,
-      "num": 426028,
-      "word": "明家涉赌诈超100亿元",
-      "onboard_time": 1759136541,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 424656,
       "num": 375412,
       "word": "赛琳娜婚礼",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1759132939,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 418048,
+      "num": 198174,
+      "word": "心力受损 长胖",
+      "onboard_time": 1759138100,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 415589,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1759067845,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 392739,
+      "num": 167491,
+      "word": "鸡排哥1分钟视频报价仅10元",
+      "onboard_time": 1759138221,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390869,
@@ -2051,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199204,
+      "num": 199204,
+      "word": "王栎鑫说苏新皓像张艺兴",
+      "onboard_time": 1759140682,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198562,
       "num": 198562,
       "word": "韩国外卖平台接入支付宝和微信支付",
@@ -2275,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187457,
+      "num": 155480,
+      "word": "22岁全款300万买房后的生活",
+      "onboard_time": 1759141460,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187448,
       "num": 187448,
       "word": "王曼昱入选全国体育系统先进个人",
@@ -2305,14 +2353,6 @@
       "onboard_time": 1759038621,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186247,
-      "num": 186247,
-      "word": "沈佳润 一点垫音混音不给孩子加",
-      "onboard_time": 1759138401,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 185998,
@@ -2363,12 +2403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183954,
-      "num": 165072,
-      "word": "鸡排哥1分钟视频报价仅10元",
-      "onboard_time": 1759138221,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 182584,
+      "num": 182584,
+      "word": "赴山海",
+      "onboard_time": 1759138100,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 182512,
@@ -2723,14 +2763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166290,
-      "num": 166290,
-      "word": "赴山海",
-      "onboard_time": 1759138100,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166056,
       "num": 155821,
       "word": "唱跳都不基础的朵朵",
@@ -2779,19 +2811,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163934,
-      "num": 163934,
-      "word": "心力受损 长胖",
-      "onboard_time": 1759138100,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162906,
       "num": 162906,
       "word": "王玉雯跳舞像老实人豁出去了",
       "onboard_time": 1759041561,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162802,
+      "num": 162802,
+      "word": "张晚意骑骆驼迷死我了",
+      "onboard_time": 1759140921,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2889,6 +2921,22 @@
       "onboard_time": 1759132160,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159822,
+      "num": 159822,
+      "word": "建议这些外卖真的别点了",
+      "onboard_time": 1759139960,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159326,
+      "num": 159326,
+      "word": "国庆去合肥还是意大利",
+      "onboard_time": 1759136780,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 159215,
@@ -2992,6 +3040,14 @@
       "word": "华南理工车祸地距遇难者宿舍100米",
       "onboard_time": 1759078278,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155173,
+      "num": 155173,
+      "word": "儿子成绩三连跌家长怒退国庆旅游机票",
+      "onboard_time": 1759140201,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3315,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140535,
+      "num": 140535,
+      "word": "K签门槛",
+      "onboard_time": 1759138880,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140153,
       "num": 290790,
       "word": "中国短道速滑队世巡赛参赛名单",
@@ -3377,14 +3441,6 @@
       "onboard_time": 1759138100,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137146,
-      "num": 137146,
-      "word": "国庆去合肥还是意大利",
-      "onboard_time": 1759136780,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 137045,
@@ -3707,6 +3763,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 128916,
+      "num": 128916,
+      "word": "不要吃蓝色臭豆腐",
+      "onboard_time": 1759141040,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128781,
       "num": 128781,
       "word": "张凌赫告别慕容清峄",
@@ -3795,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126687,
+      "num": 126687,
+      "word": "花海给长生少发了20块",
+      "onboard_time": 1759140802,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126370,
       "num": 126370,
       "word": "陈闲 最强大脑",
@@ -3881,6 +3953,14 @@
       "onboard_time": 1759020442,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124159,
+      "num": 124159,
+      "word": "外国人被中国超市震惊",
+      "onboard_time": 1759138641,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124089,
@@ -4451,14 +4531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109306,
-      "num": 109306,
-      "word": "外国人被中国超市震惊",
-      "onboard_time": 1759138641,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 108757,
       "num": 117832,
       "word": "美国签证费暴涨66倍",
@@ -4731,6 +4803,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102401,
+      "num": 102401,
+      "word": "鸡排哥已经有班味了",
+      "onboard_time": 1759141579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102350,
+      "num": 102350,
+      "word": "结婚19年丈夫竟出轨16年被判重婚罪",
+      "onboard_time": 1759141460,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102279,
       "num": 132937,
       "word": "周柯宇眼里JIUZHE战队的热血浪漫",
@@ -4875,6 +4963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99116,
+      "num": 99116,
+      "word": "试用期的我vs转正后的我",
+      "onboard_time": 1759141579,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99016,
       "num": 99016,
       "word": "刘宇宁一款服务意识很强的艺人",
@@ -4897,14 +4993,6 @@
       "onboard_time": 1759028479,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98555,
-      "num": 103963,
-      "word": "K签门槛",
-      "onboard_time": 1759138880,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98298,
@@ -5019,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95365,
+      "num": 95365,
+      "word": "马思纯张雅琪这是化妆还是抽嘴巴子",
+      "onboard_time": 1759139841,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94619,
       "num": 94619,
       "word": "以为是失眠其实是被子薄了冻的",
@@ -5129,6 +5225,30 @@
       "onboard_time": 1759019301,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91029,
+      "num": 96656,
+      "word": "卢伟冰称17系列销量有信心超上代",
+      "onboard_time": 1759141640,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 90938,
+      "num": 95648,
+      "word": "腾讯客服回应朋友圈照片变清晰",
+      "onboard_time": 1759141221,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 89705,
+      "num": 95497,
+      "word": "微博篮球之夜红毯",
+      "onboard_time": 1759140441,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 89610,
@@ -5481,6 +5601,14 @@
       "onboard_time": 1759134560,
       "rank": 39,
       "category": "议题讨论,教育"
+    },
+    {
+      "raw_hot": 72842,
+      "num": 121184,
+      "word": "丁程鑫直播怼脸镜头",
+      "onboard_time": 1759140981,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 72445,
@@ -5883,6 +6011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55572,
+      "num": 170912,
+      "word": "校园跑APP遭大学生吐槽",
+      "onboard_time": 1759140802,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55490,
       "num": 135831,
       "word": "公厕的蹲坑和马桶哪个更脏",
@@ -5985,6 +6121,14 @@
       "onboard_time": 1759032741,
       "rank": 18,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 48932,
+      "num": 121193,
+      "word": "张馨予大腿肌肉线条",
+      "onboard_time": 1759141400,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 48125,
@@ -6404,7 +6548,7 @@
     },
     {
       "raw_hot": 23980,
-      "num": 447853,
+      "num": 468158,
       "word": "高质量完成十四五规划系列发布会",
       "onboard_time": 1759136421,
       "rank": 2,
