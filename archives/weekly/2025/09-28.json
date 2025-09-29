@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759178346093,
+  "endTime": 1759180958558,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -7187,6 +7187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42886,
+      "num": 42886,
+      "word": "明家犯罪集团致14死6伤",
+      "onboard_time": 1759176313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42681,
       "num": 202328,
       "word": "诬陷扶人者不能只道歉了事",
@@ -7355,6 +7363,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 34441,
+      "num": 27642,
+      "word": "他们用生命换来了山河无恙",
+      "onboard_time": 1759164258,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34206,
       "num": 1414297,
       "word": "青春正澎湃",
@@ -7401,14 +7417,6 @@
       "onboard_time": 1759057460,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 29470,
-      "num": 27642,
-      "word": "他们用生命换来了山河无恙",
-      "onboard_time": 1759164258,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29393,
@@ -7771,12 +7779,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16788,
+      "num": 16788,
+      "word": "日本反移民游行",
+      "onboard_time": 1759178293,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15353,
       "num": 25778,
       "word": "等来了孙悦的祝你平安",
       "onboard_time": 1759081637,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15097,
+      "num": 15097,
+      "word": "瑞幸销毁下市物料被指浪费",
+      "onboard_time": 1759177694,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14546,
@@ -7787,28 +7811,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14066,
-      "num": 14686,
-      "word": "明家犯罪集团致14死6伤",
-      "onboard_time": 1759176313,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13670,
       "num": 18717,
       "word": "福州也是汪苏泷痛城了",
       "onboard_time": 1759007894,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13527,
-      "num": 14683,
-      "word": "瑞幸销毁下市物料被指浪费",
-      "onboard_time": 1759177694,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13033,
@@ -7851,20 +7859,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12320,
-      "num": 14676,
-      "word": "日本反移民游行",
-      "onboard_time": 1759178293,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 12044,
       "num": 18635,
       "word": "汪苏泷走下舞台跟你说好喜欢你",
       "onboard_time": 1759006394,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11800,
+      "num": 15030,
+      "word": "无限暖暖",
+      "onboard_time": 1759167496,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 10430,

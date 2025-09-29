@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 04:39:06
+本榜单时间：2025/09/28 00:27:59 ~ 2025/09/30 05:22:38
 </p>
 </blockquote>
 <p>
@@ -5403,6 +5403,12 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
+明家犯罪集团致14死6伤（热度：42886）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AC%E9%99%B7%E6%89%B6%E4%BA%BA%E8%80%85%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%81%93%E6%AD%89%E4%BA%86%E4%BA%8B%23" target="weibo">
 诬陷扶人者不能只道歉了事（热度：42681）
 </a>
@@ -5529,6 +5535,12 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%94%A8%E7%94%9F%E5%91%BD%E6%8D%A2%E6%9D%A5%E4%BA%86%E5%B1%B1%E6%B2%B3%E6%97%A0%E6%81%99%23" target="weibo">
+他们用生命换来了山河无恙（热度：34441）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E6%AD%A3%E6%BE%8E%E6%B9%83%23" target="weibo">
 青春正澎湃（热度：34206）
 </a>
@@ -5561,12 +5573,6 @@ BV设计师首秀（热度：39147）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BV%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%E6%98%8E%E6%98%9F%E7%8A%B6%E6%80%81%23" target="weibo">
 BV米兰时装周明星状态（热度：30091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%94%A8%E7%94%9F%E5%91%BD%E6%8D%A2%E6%9D%A5%E4%BA%86%E5%B1%B1%E6%B2%B3%E6%97%A0%E6%81%99%23" target="weibo">
-他们用生命换来了山河无恙（热度：29470）
 </a>
 </li>
 
@@ -5841,8 +5847,20 @@ BV米兰时装周明星状态（热度：30091）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B8%B8%E8%A1%8C%23" target="weibo">
+日本反移民游行（热度：16788）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AD%89%E6%9D%A5%E4%BA%86%E5%AD%99%E6%82%A6%E7%9A%84%E7%A5%9D%E4%BD%A0%E5%B9%B3%E5%AE%89%23" target="weibo">
 等来了孙悦的祝你平安（热度：15353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E9%94%80%E6%AF%81%E4%B8%8B%E5%B8%82%E7%89%A9%E6%96%99%E8%A2%AB%E6%8C%87%E6%B5%AA%E8%B4%B9%23" target="weibo">
+瑞幸销毁下市物料被指浪费（热度：15097）
 </a>
 </li>
 
@@ -5853,20 +5871,8 @@ chiikawa新动画（热度：14546）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
-明家犯罪集团致14死6伤（热度：14066）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B9%9F%E6%98%AF%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%97%9B%E5%9F%8E%E4%BA%86%23" target="weibo">
 福州也是汪苏泷痛城了（热度：13670）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E9%94%80%E6%AF%81%E4%B8%8B%E5%B8%82%E7%89%A9%E6%96%99%E8%A2%AB%E6%8C%87%E6%B5%AA%E8%B4%B9%23" target="weibo">
-瑞幸销毁下市物料被指浪费（热度：13527）
 </a>
 </li>
 
@@ -5901,14 +5907,14 @@ chiikawa新动画（热度：14546）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B8%B8%E8%A1%8C%23" target="weibo">
-日本反移民游行（热度：12320）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%B5%B0%E4%B8%8B%E8%88%9E%E5%8F%B0%E8%B7%9F%E4%BD%A0%E8%AF%B4%E5%A5%BD%E5%96%9C%E6%AC%A2%E4%BD%A0%23" target="weibo">
+汪苏泷走下舞台跟你说好喜欢你（热度：12044）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%B5%B0%E4%B8%8B%E8%88%9E%E5%8F%B0%E8%B7%9F%E4%BD%A0%E8%AF%B4%E5%A5%BD%E5%96%9C%E6%AC%A2%E4%BD%A0%23" target="weibo">
-汪苏泷走下舞台跟你说好喜欢你（热度：12044）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%23" target="weibo">
+无限暖暖（热度：11800）
 </a>
 </li>
 

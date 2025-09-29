@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759178346093,
+  "endTime": 1759180958558,
   "band_list": [
     {
       "raw_hot": 869223,
@@ -451,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42886,
+      "num": 42886,
+      "word": "明家犯罪集团致14死6伤",
+      "onboard_time": 1759176313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39752,
       "num": 46393,
       "word": "技能五子棋",
@@ -483,7 +491,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 29470,
+      "raw_hot": 34441,
       "num": 27642,
       "word": "他们用生命换来了山河无恙",
       "onboard_time": 1759164258,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19445,
+      "num": 19445,
+      "word": "谍报上不封顶",
+      "onboard_time": 1759151841,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17513,
       "num": 19261,
       "word": "王俊凯平遥电影展罗西里尼评审",
@@ -531,24 +547,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 17099,
-      "num": 19264,
-      "word": "谍报上不封顶",
-      "onboard_time": 1759151841,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 16788,
+      "num": 16788,
+      "word": "日本反移民游行",
+      "onboard_time": 1759178293,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 14066,
-      "num": 14686,
-      "word": "明家犯罪集团致14死6伤",
-      "onboard_time": 1759176313,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13527,
-      "num": 14683,
+      "raw_hot": 15097,
+      "num": 15097,
       "word": "瑞幸销毁下市物料被指浪费",
       "onboard_time": 1759177694,
       "rank": 43,
@@ -563,12 +571,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 12320,
-      "num": 14676,
-      "word": "日本反移民游行",
-      "onboard_time": 1759178293,
-      "rank": 48,
-      "category": "海外新闻"
+      "raw_hot": 11800,
+      "num": 15030,
+      "word": "无限暖暖",
+      "onboard_time": 1759167496,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 3235,

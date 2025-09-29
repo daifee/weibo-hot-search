@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759178346093,
+  "endTime": 1759180958558,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -89259,6 +89259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42886,
+      "num": 42886,
+      "word": "明家犯罪集团致14死6伤",
+      "onboard_time": 1759176313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42861,
       "num": 109734,
       "word": "潘展乐全锦赛报名蝶泳",
@@ -91235,6 +91243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 34441,
+      "num": 27642,
+      "word": "他们用生命换来了山河无恙",
+      "onboard_time": 1759164258,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34440,
       "num": 112060,
       "word": "许玮甯邱泽宝宝快3个月了",
@@ -92441,14 +92457,6 @@
       "onboard_time": 1758538522,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 29470,
-      "num": 27642,
-      "word": "他们用生命换来了山河无恙",
-      "onboard_time": 1759164258,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29466,
@@ -95115,6 +95123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16788,
+      "num": 16788,
+      "word": "日本反移民游行",
+      "onboard_time": 1759178293,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16737,
       "num": 49101,
       "word": "莱昂纳多破门",
@@ -95339,6 +95355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15097,
+      "num": 15097,
+      "word": "瑞幸销毁下市物料被指浪费",
+      "onboard_time": 1759177694,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14983,
       "num": 120447,
       "word": "日本推出租赁凶狠大哥服务",
@@ -95473,14 +95497,6 @@
       "onboard_time": 1757094077,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 14066,
-      "num": 14686,
-      "word": "明家犯罪集团致14死6伤",
-      "onboard_time": 1759176313,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14023,
@@ -95625,14 +95641,6 @@
       "onboard_time": 1757280493,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13527,
-      "num": 14683,
-      "word": "瑞幸销毁下市物料被指浪费",
-      "onboard_time": 1759177694,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13421,
@@ -95841,14 +95849,6 @@
       "onboard_time": 1759003815,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12320,
-      "num": 14676,
-      "word": "日本反移民游行",
-      "onboard_time": 1759178293,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 12245,
