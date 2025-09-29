@@ -1,0 +1,410 @@
+{
+  "runTime": 1759139008578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123756,
+        "num": 1179800,
+        "word": "明家犯罪集团11人死刑",
+        "onboard_time": 1759136720,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498022,
+        "num": 498022,
+        "word": "中方决定增设K字签证",
+        "onboard_time": 1759133720,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22219,
+        "num": 414949,
+        "word": "高质量完成十四五规划系列发布会",
+        "onboard_time": 1759136421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1192529,
+        "num": 411375,
+        "word": "女子高铁说讨厌小孩被宝妈怼哭",
+        "onboard_time": 1759135161,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821805,
+        "num": 405012,
+        "word": "沈佳润观众缘",
+        "onboard_time": 1759136600,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352497,
+        "num": 352497,
+        "word": "明家涉赌诈超100亿元",
+        "onboard_time": 1759136541,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288296,
+        "num": 288296,
+        "word": "王源三巡送出近百万奖品",
+        "onboard_time": 1759132939,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251042,
+        "num": 251042,
+        "word": "外交部回应K签",
+        "onboard_time": 1759133480,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245858,
+        "num": 245858,
+        "word": "丝芭传媒起诉解约成员",
+        "onboard_time": 1759131862,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210537,
+        "num": 210537,
+        "word": "乱港分子罗冠聪入境新加坡被拘",
+        "onboard_time": 1759129760,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633550,
+        "num": 208272,
+        "word": "孙俪吃了一段时间的干净饭",
+        "onboard_time": 1759134741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441724,
+        "num": 204267,
+        "word": "男子政审时发现被患精神分裂11年",
+        "onboard_time": 1759127240,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391269,
+        "num": 202632,
+        "word": "肖战容祖儿 这是小沈阳的女儿",
+        "onboard_time": 1759128141,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371664,
+        "num": 196866,
+        "word": "王一博 王漂亮",
+        "onboard_time": 1759132880,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302617,
+        "num": 194183,
+        "word": "内娱最会吻的cp上新了",
+        "onboard_time": 1759126641,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272432,
+        "num": 192087,
+        "word": "两名失联15岁少女已找到",
+        "onboard_time": 1759130960,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235717,
+        "num": 187229,
+        "word": "苏醒被指拉踩河南胡辣汤",
+        "onboard_time": 1759126102,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186247,
+        "num": 186247,
+        "word": "沈佳润 一点垫音混音不给孩子加",
+        "onboard_time": 1759138401,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170136,
+        "num": 170136,
+        "word": "明家犯罪集团有14项罪名",
+        "onboard_time": 1759137801,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166290,
+        "num": 166290,
+        "word": "赴山海",
+        "onboard_time": 1759138100,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464530,
+        "num": 166158,
+        "word": "食品厂工人掉入月饼机器",
+        "onboard_time": 1759135882,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165788,
+        "num": 165788,
+        "word": "爱奇艺尖叫之夜阵容",
+        "onboard_time": 1759127001,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385010,
+        "num": 165663,
+        "word": "小酒窝发博",
+        "onboard_time": 1759123641,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154742,
+        "num": 165508,
+        "word": "李在明道歉",
+        "onboard_time": 1759128800,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276821,
+        "num": 165295,
+        "word": "街舞5选手解晓东去世",
+        "onboard_time": 1759130840,
+        "rank": 24,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 183954,
+        "num": 165072,
+        "word": "鸡排哥1分钟视频报价仅10元",
+        "onboard_time": 1759138221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174644,
+        "num": 164675,
+        "word": "金价",
+        "onboard_time": 1759127479,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51427,
+        "num": 164595,
+        "word": "一件衣服搞定假期户外穿搭",
+        "onboard_time": 1759138160,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137415,
+        "num": 164258,
+        "word": "宋佳看张子枫戏里戏外都是欣赏",
+        "onboard_time": 1759138100,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127717,
+        "num": 164087,
+        "word": "湖南卫视中秋之夜官宣阵容",
+        "onboard_time": 1759130300,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163934,
+        "num": 163934,
+        "word": "心力受损 长胖",
+        "onboard_time": 1759138100,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156946,
+        "num": 156946,
+        "word": "明家犯罪集团案一审宣判",
+        "onboard_time": 1759136000,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126309,
+        "num": 126309,
+        "word": "小米17系列出货量显著下调20%",
+        "onboard_time": 1759138521,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116550,
+        "num": 116550,
+        "word": "国庆去合肥还是意大利",
+        "onboard_time": 1759136780,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112085,
+        "num": 112085,
+        "word": "中共中央政治局9月29日召开会议",
+        "onboard_time": 1759129222,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110996,
+        "num": 110996,
+        "word": "特斯拉技术员被机器人打成重伤",
+        "onboard_time": 1759127721,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109306,
+        "num": 109306,
+        "word": "外国人被中国超市震惊",
+        "onboard_time": 1759138641,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104381,
+        "num": 104381,
+        "word": "杨幂宋佳给辛芷蕾发了祝福",
+        "onboard_time": 1759135581,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98555,
+        "num": 103963,
+        "word": "K签门槛",
+        "onboard_time": 1759138880,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19992,
+        "num": 103854,
+        "word": "刺杀小说家2有时代少年团",
+        "onboard_time": 1759138581,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103830,
+        "num": 103830,
+        "word": "四种食物最好不要空腹吃",
+        "onboard_time": 1759125740,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103044,
+        "num": 103044,
+        "word": "乌克兰向日本道歉",
+        "onboard_time": 1759137141,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77695,
+        "num": 102812,
+        "word": "国庆出游一件衣服就够了",
+        "onboard_time": 1759137740,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 66034,
+        "num": 102149,
+        "word": "孕7月女子排队4小时买鸡排获免单",
+        "onboard_time": 1759137740,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104332,
+        "num": 101797,
+        "word": "杨幂大光明",
+        "onboard_time": 1759125560,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99882,
+        "num": 101307,
+        "word": "雨果说国乒统治力变弱了",
+        "onboard_time": 1759122920,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101202,
+        "num": 101202,
+        "word": "华山医院将左输尿管手术做成右侧",
+        "onboard_time": 1759136181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100638,
+        "num": 100638,
+        "word": "张子枫也到了彭昱畅来向往的年纪",
+        "onboard_time": 1759136000,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92668,
+        "num": 99824,
+        "word": "章子怡大光明",
+        "onboard_time": 1759137382,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99233,
+        "num": 99233,
+        "word": "王曼昱霸气手指观众席闪光灯",
+        "onboard_time": 1759138941,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局9月29日召开会议#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759138198283,
+  "endTime": 1759139008578,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -371,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 821805,
+      "num": 439209,
+      "word": "沈佳润观众缘",
+      "onboard_time": 1759136600,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 820845,
       "num": 560001,
       "word": "华南理工被撞身亡女生是班长",
@@ -617,14 +625,6 @@
       "onboard_time": 1759026260,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599162,
-      "num": 439209,
-      "word": "沈佳润观众缘",
-      "onboard_time": 1759136600,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 597594,
@@ -875,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498022,
+      "num": 498022,
+      "word": "中方决定增设K字签证",
+      "onboard_time": 1759133720,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495839,
       "num": 245943,
       "word": "新华社发的时代少年团",
@@ -993,14 +1001,6 @@
       "onboard_time": 1759069406,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 452851,
-      "num": 452851,
-      "word": "中方决定增设K字签证",
-      "onboard_time": 1759133720,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 446957,
@@ -2307,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186247,
+      "num": 186247,
+      "word": "沈佳润 一点垫音混音不给孩子加",
+      "onboard_time": 1759138401,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185998,
       "num": 185998,
       "word": "周深动情演唱故乡的云",
@@ -2353,6 +2361,14 @@
       "onboard_time": 1759030220,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183954,
+      "num": 165072,
+      "word": "鸡排哥1分钟视频报价仅10元",
+      "onboard_time": 1759138221,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182512,
@@ -2707,6 +2723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166290,
+      "num": 166290,
+      "word": "赴山海",
+      "onboard_time": 1759138100,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166056,
       "num": 155821,
       "word": "唱跳都不基础的朵朵",
@@ -2753,6 +2777,14 @@
       "onboard_time": 1759110980,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163934,
+      "num": 163934,
+      "word": "心力受损 长胖",
+      "onboard_time": 1759138100,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 162906,
@@ -3339,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137415,
+      "num": 164258,
+      "word": "宋佳看张子枫戏里戏外都是欣赏",
+      "onboard_time": 1759138100,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137146,
       "num": 137146,
       "word": "国庆去合肥还是意大利",
@@ -3763,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126309,
+      "num": 126309,
+      "word": "小米17系列出货量显著下调20%",
+      "onboard_time": 1759138521,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125039,
       "num": 125039,
       "word": "十代铁三角演了九门",
@@ -4091,14 +4139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118017,
-      "num": 118017,
-      "word": "赴山海",
-      "onboard_time": 1759138100,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117989,
       "num": 117989,
       "word": "十一后一口价黄金涨幅30%",
@@ -4411,6 +4451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109306,
+      "num": 109306,
+      "word": "外国人被中国超市震惊",
+      "onboard_time": 1759138641,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108757,
       "num": 117832,
       "word": "美国签证费暴涨66倍",
@@ -4643,6 +4691,14 @@
       "category": "互联网,美食"
     },
     {
+      "raw_hot": 103044,
+      "num": 119248,
+      "word": "乌克兰向日本道歉",
+      "onboard_time": 1759137141,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102962,
       "num": 112339,
       "word": "全伊伦荧幕初吻是陈瑶",
@@ -4673,14 +4729,6 @@
       "onboard_time": 1759037001,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102337,
-      "num": 119248,
-      "word": "乌克兰向日本道歉",
-      "onboard_time": 1759137141,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102279,
@@ -4819,6 +4867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99233,
+      "num": 99233,
+      "word": "王曼昱霸气手指观众席闪光灯",
+      "onboard_time": 1759138941,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99016,
       "num": 99016,
       "word": "刘宇宁一款服务意识很强的艺人",
@@ -4841,6 +4897,14 @@
       "onboard_time": 1759028479,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98555,
+      "num": 103963,
+      "word": "K签门槛",
+      "onboard_time": 1759138880,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98298,
@@ -5891,6 +5955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51427,
+      "num": 164595,
+      "word": "一件衣服搞定假期户外穿搭",
+      "onboard_time": 1759138160,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51174,
       "num": 55567,
       "word": "鹿晗新加坡演唱会上座率",
@@ -6459,6 +6531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19992,
+      "num": 103854,
+      "word": "刺杀小说家2有时代少年团",
+      "onboard_time": 1759138581,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19379,
       "num": 27556,
       "word": "姚晓棠刘宇合唱追光",
@@ -6561,14 +6641,6 @@
       "onboard_time": 1758939200,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6918,
-      "num": 119743,
-      "word": "一件衣服搞定假期户外穿搭",
-      "onboard_time": 1759138160,
-      "rank": 35,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
