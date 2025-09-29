@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759166607065,
+  "endTime": 1759167456643,
   "band_list": [
     {
       "raw_hot": 869223,
@@ -24,6 +24,14 @@
       "word": "第一批丁克夫妻离世遗产留给谁",
       "onboard_time": 1759157364,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563717,
+      "num": 563717,
+      "word": "维达抽纸被曝有黄色不明物体",
+      "onboard_time": 1759161381,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -89,14 +97,6 @@
       "onboard_time": 1759157963,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264476,
-      "num": 475719,
-      "word": "维达抽纸被曝有黄色不明物体",
-      "onboard_time": 1759161381,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262069,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53538,
+      "num": 53538,
+      "word": "说唱歌手诺米无证驾驶被交警处罚",
+      "onboard_time": 1759166356,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 43727,
       "num": 46412,
       "word": "王楚钦在哪儿都是打卡点",
@@ -435,20 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42557,
+      "raw_hot": 43389,
       "num": 46408,
       "word": "评委王俊凯颁奖",
       "onboard_time": 1759166118,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 42080,
-      "num": 46403,
-      "word": "说唱歌手诺米无证驾驶被交警处罚",
-      "onboard_time": 1759166356,
-      "rank": 41,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 39752,
@@ -457,6 +457,14 @@
       "onboard_time": 1759150400,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38915,
+      "num": 38915,
+      "word": "到了谁都理解的年纪",
+      "onboard_time": 1759166716,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 38891,

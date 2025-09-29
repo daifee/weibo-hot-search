@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1759166607065,
+  "endTime": 1759167456643,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -11473,6 +11473,14 @@
       "onboard_time": 1756649604,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563717,
+      "num": 563717,
+      "word": "维达抽纸被曝有黄色不明物体",
+      "onboard_time": 1759161381,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 563714,
@@ -24369,14 +24377,6 @@
       "onboard_time": 1758289104,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 264476,
-      "num": 475719,
-      "word": "维达抽纸被曝有黄色不明物体",
-      "onboard_time": 1759161381,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264356,
@@ -86755,6 +86755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53538,
+      "num": 53538,
+      "word": "说唱歌手诺米无证驾驶被交警处罚",
+      "onboard_time": 1759166356,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 53473,
       "num": 53473,
       "word": "Meiko高高兴兴去跟刘神打招呼",
@@ -89131,6 +89139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43389,
+      "num": 46408,
+      "word": "评委王俊凯颁奖",
+      "onboard_time": 1759166118,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43291,
       "num": 1106192,
       "word": "近距离看航空展名场面",
@@ -89339,14 +89355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42557,
-      "num": 46408,
-      "word": "评委王俊凯颁奖",
-      "onboard_time": 1759166118,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 42550,
       "num": 234645,
       "word": "iPhone17设计师的工程量真的很大",
@@ -89449,14 +89457,6 @@
       "onboard_time": 1757522778,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42080,
-      "num": 46403,
-      "word": "说唱歌手诺米无证驾驶被交警处罚",
-      "onboard_time": 1759166356,
-      "rank": 41,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 42075,
@@ -90265,6 +90265,14 @@
       "onboard_time": 1756719201,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38915,
+      "num": 38915,
+      "word": "到了谁都理解的年纪",
+      "onboard_time": 1759166716,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 38874,
