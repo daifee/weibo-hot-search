@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759117880175,
+  "endTime": 1759120260225,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1511359,
+      "num": 1511359,
+      "word": "清华通报多名师生参与黄牛活动牟利",
+      "onboard_time": 1759114400,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1492455,
       "num": 263352,
       "word": "佟丽娅生了个小思诚 董璇生了个小董璇",
@@ -89,14 +97,6 @@
       "onboard_time": 1759023799,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1381500,
-      "num": 1381500,
-      "word": "清华通报多名师生参与黄牛活动牟利",
-      "onboard_time": 1759114400,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1372394,
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 584269,
+      "num": 462829,
+      "word": "儿子拍的佟丽娅",
+      "onboard_time": 1759114459,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 582232,
       "num": 582232,
       "word": "久哲战队",
@@ -577,14 +585,6 @@
       "onboard_time": 1759016840,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 557942,
-      "num": 462829,
-      "word": "儿子拍的佟丽娅",
-      "onboard_time": 1759114459,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 554801,
@@ -683,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501367,
+      "num": 501367,
+      "word": "清华教职工因违规报备入校被拘",
+      "onboard_time": 1759113860,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498805,
       "num": 238091,
       "word": "时代少年团 幻梦都破碎",
@@ -737,14 +745,6 @@
       "onboard_time": 1759076901,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 480069,
-      "num": 480069,
-      "word": "清华教职工因违规报备入校被拘",
-      "onboard_time": 1759113860,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 467673,
@@ -963,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380466,
+      "num": 259347,
+      "word": "男子停车费超20000000不敢取车",
+      "onboard_time": 1759117880,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376689,
       "num": 288715,
       "word": "黄明昊 遇到不公平的事情",
@@ -1131,6 +1139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 305039,
+      "num": 293246,
+      "word": "赵丽颖工作室取消行程图",
+      "onboard_time": 1759119562,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301231,
       "num": 218083,
       "word": "周深题词器",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1759032621,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295661,
+      "num": 295661,
+      "word": "心动的信号",
+      "onboard_time": 1759116500,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 295303,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1758980002,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282592,
+      "num": 282592,
+      "word": "井迪忙活了一天发现才早上七点半",
+      "onboard_time": 1759115360,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 281667,
@@ -1331,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 244334,
+      "num": 259355,
+      "word": "肖战看小酒窝表演笑得好甜",
+      "onboard_time": 1759119323,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242352,
       "num": 242352,
       "word": "万达知情人回应王健林被限高",
@@ -1408,6 +1448,14 @@
       "word": "卖女孩的红烧肉 店名争议",
       "onboard_time": 1759058601,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228535,
+      "num": 228535,
+      "word": "女子称子宫被装监听器起诉医院",
+      "onboard_time": 1759119740,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1707,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195052,
+      "num": 195052,
+      "word": "国庆反向旅游才是真正的邪修",
+      "onboard_time": 1759119323,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193186,
       "num": 215042,
       "word": "沈佳润实力好强",
@@ -1779,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191400,
+      "num": 358307,
+      "word": "华南理工大学车祸事发地有人摆花",
+      "onboard_time": 1759117161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190755,
       "num": 190755,
       "word": "中彩票冷知识",
@@ -1793,6 +1857,14 @@
       "onboard_time": 1759107920,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190671,
+      "num": 190671,
+      "word": "当我嫌弃小猫脚臭",
+      "onboard_time": 1759117701,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 190473,
@@ -1835,12 +1907,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187384,
-      "num": 187384,
-      "word": "井迪忙活了一天发现才早上七点半",
-      "onboard_time": 1759115360,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 186898,
+      "num": 186898,
+      "word": "苹果将推出iPhone17e",
+      "onboard_time": 1759118780,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 186624,
@@ -1929,14 +2001,6 @@
       "onboard_time": 1759028600,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180931,
-      "num": 180931,
-      "word": "心动的信号",
-      "onboard_time": 1759116500,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 180808,
@@ -2499,6 +2563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149957,
+      "num": 149957,
+      "word": "华南理工肇事教师已由他人代上课",
+      "onboard_time": 1759117820,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149653,
       "num": 149653,
       "word": "蓝盈莹东方美学征服米兰",
@@ -2531,12 +2603,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 147293,
+      "num": 147293,
+      "word": "贺涵 下雨了我在徐家汇",
+      "onboard_time": 1759119501,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146449,
       "num": 214521,
       "word": "王力宏心中的日月 原唱就是好听",
       "onboard_time": 1759076182,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145896,
+      "num": 145896,
+      "word": "试验三十号卫星01和02星发射成功",
+      "onboard_time": 1759119323,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145704,
@@ -2553,6 +2641,14 @@
       "onboard_time": 1759066705,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145601,
+      "num": 145601,
+      "word": "湾区升明月出图",
+      "onboard_time": 1759118060,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 145230,
@@ -2851,14 +2947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132052,
-      "num": 132052,
-      "word": "当我嫌弃小猫脚臭",
-      "onboard_time": 1759117701,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131977,
       "num": 131977,
       "word": "瘦下来后很爽的瞬间",
@@ -3011,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126578,
+      "num": 126578,
+      "word": "唐艺昕带女儿游环球影城",
+      "onboard_time": 1759119259,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125039,
       "num": 125039,
       "word": "十代铁三角演了九门",
@@ -3091,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123468,
+      "num": 123468,
+      "word": "一路都是猪来过的痕迹",
+      "onboard_time": 1759119621,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123455,
       "num": 123455,
       "word": "樊振东打球从呆萌变身暴力熊猫",
@@ -3153,6 +3257,14 @@
       "onboard_time": 1759076960,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121097,
+      "num": 121097,
+      "word": "易烊千玺又说习惯了",
+      "onboard_time": 1759119983,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120750,
@@ -3315,6 +3427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115537,
+      "num": 115537,
+      "word": "谁家女主是出淤泥而全染啊",
+      "onboard_time": 1759119021,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115196,
       "num": 132735,
       "word": "刘宇宁一开口我到红磡了",
@@ -3377,6 +3497,14 @@
       "onboard_time": 1759038321,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112851,
+      "num": 136260,
+      "word": "鸡排哥称有男科医院来蹭流量",
+      "onboard_time": 1759119922,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112714,
@@ -3529,6 +3657,14 @@
       "onboard_time": 1759074144,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106683,
+      "num": 128162,
+      "word": "华南理工被撞身亡女生是班长",
+      "onboard_time": 1759118960,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106327,
@@ -3777,6 +3913,14 @@
       "onboard_time": 1759041922,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100030,
+      "num": 293642,
+      "word": "淘宝闪购猜免单活动将持续11天",
+      "onboard_time": 1759118542,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 99282,
@@ -4033,6 +4177,14 @@
       "onboard_time": 1759115720,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87742,
+      "num": 141037,
+      "word": "外卖大战又一批受害者出现了",
+      "onboard_time": 1759119201,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87523,
@@ -4363,6 +4515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65938,
+      "num": 126367,
+      "word": "深圳4天中出两次10000000元大奖",
+      "onboard_time": 1759118722,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65717,
       "num": 65717,
       "word": "为什么对他人不要过于慷慨",
@@ -4619,14 +4779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55245,
-      "num": 358307,
-      "word": "华南理工大学车祸事发地有人摆花",
-      "onboard_time": 1759117161,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54357,
       "num": 117502,
       "word": "白宇拍的孙颖莎真灿烂",
@@ -4648,14 +4800,6 @@
       "word": "致敬公安楷模",
       "onboard_time": 1759025421,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53596,
-      "num": 146452,
-      "word": "华南理工肇事教师已由他人代上课",
-      "onboard_time": 1759117820,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -4825,6 +4969,14 @@
       "onboard_time": 1759080557,
       "rank": 45,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 39147,
+      "num": 259347,
+      "word": "BV设计师首秀",
+      "onboard_time": 1759118722,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 39139,
