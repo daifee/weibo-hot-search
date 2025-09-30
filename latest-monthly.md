@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 04:40:57
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 05:22:34
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A0%B5%E8%BD%A6%E4%BA%BA%E5%A0%B5%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%23" target="weibo">
+第一批堵车人堵成鸳鸯锅（热度：94378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A88%E5%A6%82%E7%9B%8ACP%E5%AE%98%E5%AE%A3%23" target="weibo">
 心动8如益CP官宣（热度：88210）
 </a>
@@ -351,12 +357,6 @@ AG对战KSG（热度：68928）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A0%B5%E8%BD%A6%E4%BA%BA%E5%A0%B5%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%23" target="weibo">
-第一批堵车人堵成鸳鸯锅（热度：50158）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%9F%AD%E5%89%A7%E4%B8%80%E6%AC%A1%E9%9B%86%E9%BD%90%E4%BA%94%E5%BC%A0%E6%9D%83%E5%A8%81%E8%84%B8%23" target="weibo">
 谁家短剧一次集齐五张权威脸（热度：38381）
 </a>
@@ -388,7 +388,19 @@ AG对战KSG（热度：68928）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E6%97%AC%E8%80%81%E4%BA%BA%E6%B5%91%E8%BA%AB%E9%85%B8%E7%97%9B%E7%A1%AE%E8%AF%8A%E7%BD%95%E8%A7%81%E7%A5%9E%E7%BB%8F%E6%A2%85%E6%AF%92%23" target="weibo">
-6旬老人浑身酸痛确诊罕见神经梅毒（热度：18389）
+6旬老人浑身酸痛确诊罕见神经梅毒（热度：20429）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%A5%BF%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8D%88%E9%A4%90%E9%80%89%E6%8B%A9%E8%87%AA%E7%94%B1%23" target="weibo">
+上海市西初中学生午餐选择自由（热度：18432）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%B3%A2%E5%90%8E%E6%9C%89%E8%A5%BF%E8%B4%9D%E6%88%90%E5%95%86%E5%9C%BA%E6%9C%80%E5%86%B7%E6%B8%85%E8%BF%9E%E9%94%81%E9%A4%90%E5%8E%85%23" target="weibo">
+风波后有西贝成商场最冷清连锁餐厅（热度：17118）
 </a>
 </li>
 
@@ -411,14 +423,14 @@ AG对战KSG（热度：68928）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%B3%A2%E5%90%8E%E6%9C%89%E8%A5%BF%E8%B4%9D%E6%88%90%E5%95%86%E5%9C%BA%E6%9C%80%E5%86%B7%E6%B8%85%E8%BF%9E%E9%94%81%E9%A4%90%E5%8E%85%23" target="weibo">
-风波后有西贝成商场最冷清连锁餐厅（热度：13827）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E9%99%8D%E6%97%97%E5%90%8E%E9%AB%98%E5%94%B1%E7%A5%96%E5%9B%BD%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%23" target="weibo">
+国旗护卫队降旗后高唱祖国不会忘记（热度：14446）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%88%98%E8%81%94%E5%A4%A7%E7%AC%AC2758%E5%8F%B7%E5%86%B3%E8%AE%AE%E5%8D%81%E5%88%86%E8%8D%92%E8%B0%AC%23" target="weibo">
-挑战联大第2758号决议十分荒谬（热度：13749）
+挑战联大第2758号决议十分荒谬（热度：14384）
 </a>
 </li>
 
