@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759271973598,
+  "endTime": 1759274603556,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569695,
+      "num": 569695,
+      "word": "第一批堵车人堵成鸳鸯锅",
+      "onboard_time": 1759236021,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474998,
       "num": 474998,
       "word": "一耳光打走女儿母亲花光积蓄找10年",
@@ -91,14 +99,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 356563,
-      "num": 356563,
-      "word": "第一批堵车人堵成鸳鸯锅",
-      "onboard_time": 1759236021,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343147,
       "num": 229749,
       "word": "文咏珊官宣当妈",
@@ -107,8 +107,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318222,
-      "num": 318222,
+      "raw_hot": 323699,
+      "num": 323699,
+      "word": "校方称9人轮流睡8张床最公平",
+      "onboard_time": 1759243522,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322499,
+      "num": 322499,
       "word": "顺丰速运回应顺丰速孕低俗车贴",
       "onboard_time": 1759245740,
       "rank": 22,
@@ -129,6 +137,14 @@
       "onboard_time": 1759233380,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284396,
+      "num": 106642,
+      "word": "罗予彤哭着求黄灿灿分手",
+      "onboard_time": 1759274417,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 270941,
@@ -153,6 +169,14 @@
       "onboard_time": 1759230442,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245299,
+      "num": 106227,
+      "word": "吴倩回到了赵默笙时期",
+      "onboard_time": 1759274417,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 238825,
@@ -235,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133960,
+      "num": 105665,
+      "word": "蓝盈莹米兰非遗木屐时装秀",
+      "onboard_time": 1759270756,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 124919,
       "num": 124919,
       "word": "乐远cp返场",
@@ -251,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113967,
-      "num": 113967,
-      "word": "校方称9人轮流睡8张床最公平",
-      "onboard_time": 1759243522,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113872,
       "num": 113872,
       "word": "周雨彤谍报上不封顶杀青照",
@@ -267,8 +291,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106782,
-      "num": 106782,
+      "raw_hot": 107507,
+      "num": 107507,
       "word": "车车车车车高速公路车车车车车",
       "onboard_time": 1759240221,
       "rank": 31,
@@ -291,20 +315,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99584,
+      "num": 99584,
+      "word": "辛柏青复工",
+      "onboard_time": 1759237882,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97793,
       "num": 97793,
       "word": "乌鲁木齐地震",
       "onboard_time": 1759233021,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 96762,
-      "num": 96762,
-      "word": "辛柏青复工",
-      "onboard_time": 1759237882,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 88210,
@@ -347,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77943,
+      "num": 77943,
+      "word": "统计称今年A股股民人均赚2.22万",
+      "onboard_time": 1759273878,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76824,
       "num": 76824,
       "word": "雅安地震",
@@ -369,6 +401,14 @@
       "onboard_time": 1759245681,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74495,
+      "num": 74495,
+      "word": "张晚意马思纯 埃及法老和他的宠妃",
+      "onboard_time": 1759274479,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 74106,
@@ -419,6 +459,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67652,
+      "num": 67652,
+      "word": "一条微博祝福祖国",
+      "onboard_time": 1759274118,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66374,
+      "num": 66374,
+      "word": "90后女律师偷30多次蛋糕盒饭获刑",
+      "onboard_time": 1759240761,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63517,
       "num": 63517,
       "word": "女子点自提咖啡却强行要求店员配送",
@@ -443,6 +499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61628,
+      "num": 61628,
+      "word": "王俊凯NBA名人赛C位海报",
+      "onboard_time": 1759274357,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 59756,
+      "num": 59756,
+      "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
+      "onboard_time": 1759258755,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59366,
       "num": 59366,
       "word": "肖战用人民日报的图",
@@ -459,6 +531,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55765,
+      "num": 55765,
+      "word": "失去半个舌头会对面容有影响",
+      "onboard_time": 1759274118,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 54376,
+      "num": 54376,
+      "word": "第一次看到狗回头睡脖子是悬空的",
+      "onboard_time": 1759272077,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53759,
+      "num": 53759,
+      "word": "国庆文案",
+      "onboard_time": 1759274538,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47017,
       "num": 43701,
       "word": "谁家短剧一次集齐五张权威脸",
@@ -467,11 +563,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42441,
-      "num": 42441,
-      "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
-      "onboard_time": 1759258755,
-      "rank": 45,
+      "raw_hot": 44957,
+      "num": 44957,
+      "word": "风波后有西贝成商场最冷清连锁餐厅",
+      "onboard_time": 1759262474,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -483,32 +579,24 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41041,
-      "num": 41041,
-      "word": "90后女律师偷30多次蛋糕盒饭获刑",
-      "onboard_time": 1759240761,
+      "raw_hot": 38083,
+      "num": 38083,
+      "word": "孙颖莎不好拉的球我就拉",
+      "onboard_time": 1759274118,
       "rank": 46,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
-      "raw_hot": 33728,
-      "num": 33728,
-      "word": "蓝盈莹米兰非遗木屐时装秀",
-      "onboard_time": 1759270756,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 32590,
-      "num": 32590,
-      "word": "风波后有西贝成商场最冷清连锁餐厅",
-      "onboard_time": 1759262474,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 33313,
+      "num": 46754,
+      "word": "雨果说王楚钦实力最强",
+      "onboard_time": 1759274538,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 32323,
-      "num": 517093,
+      "num": 567376,
       "word": "国庆中秋假期安全提示",
       "onboard_time": 1759238962,
       "rank": 2,
@@ -548,7 +636,7 @@
     },
     {
       "raw_hot": 16482,
-      "num": 41100,
+      "num": 53900,
       "word": "刘宇演唱会上海站官宣",
       "onboard_time": 1759259594,
       "rank": 29,

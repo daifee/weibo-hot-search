@@ -1,0 +1,410 @@
+{
+  "runTime": 1759274603556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 580248,
+        "num": 801242,
+        "word": "国庆",
+        "onboard_time": 1759248741,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 569695,
+        "num": 569695,
+        "word": "第一批堵车人堵成鸳鸯锅",
+        "onboard_time": 1759236021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25125,
+        "num": 567376,
+        "word": "国庆中秋假期安全提示",
+        "onboard_time": 1759238962,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 565924,
+        "num": 565924,
+        "word": "海底捞回应国庆承办50桌婚宴",
+        "onboard_time": 1759248561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372643,
+        "num": 372643,
+        "word": "一耳光打走女儿母亲花光积蓄找10年",
+        "onboard_time": 1759243522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323699,
+        "num": 323699,
+        "word": "校方称9人轮流睡8张床最公平",
+        "onboard_time": 1759243522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322499,
+        "num": 322499,
+        "word": "顺丰速运回应顺丰速孕低俗车贴",
+        "onboard_time": 1759245740,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109680,
+        "num": 109680,
+        "word": "女子提前出发睡服务区省1400元",
+        "onboard_time": 1759231461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107507,
+        "num": 107507,
+        "word": "车车车车车高速公路车车车车车",
+        "onboard_time": 1759240221,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75020,
+        "num": 107370,
+        "word": "菲律宾6.9级地震",
+        "onboard_time": 1759242442,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 539775,
+        "num": 107143,
+        "word": "王乐晨道歉",
+        "onboard_time": 1759248381,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372170,
+        "num": 106796,
+        "word": "张维伊回应继女改口",
+        "onboard_time": 1759243163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284396,
+        "num": 106642,
+        "word": "罗予彤哭着求黄灿灿分手",
+        "onboard_time": 1759274417,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245299,
+        "num": 106227,
+        "word": "吴倩回到了赵默笙时期",
+        "onboard_time": 1759274417,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168913,
+        "num": 106029,
+        "word": "乐远cp选择不成为情侣",
+        "onboard_time": 1759230981,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133960,
+        "num": 105665,
+        "word": "蓝盈莹米兰非遗木屐时装秀",
+        "onboard_time": 1759270756,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130854,
+        "num": 105604,
+        "word": "肖战看沈佳润舞台直拍",
+        "onboard_time": 1759243462,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129487,
+        "num": 105158,
+        "word": "王菊怎么瘦成这样了",
+        "onboard_time": 1759233380,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105125,
+        "num": 105125,
+        "word": "妻子查看亡夫遗物发现婚外情录音",
+        "onboard_time": 1759233860,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100574,
+        "num": 100574,
+        "word": "户晨风全网销号",
+        "onboard_time": 1759236383,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102731,
+        "num": 100446,
+        "word": "曝方媛已产下第三胎",
+        "onboard_time": 1759241541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99584,
+        "num": 99584,
+        "word": "辛柏青复工",
+        "onboard_time": 1759237882,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87913,
+        "num": 87913,
+        "word": "文咏珊官宣当妈",
+        "onboard_time": 1759225341,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77943,
+        "num": 77943,
+        "word": "统计称今年A股股民人均赚2.22万",
+        "onboard_time": 1759273878,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74495,
+        "num": 74495,
+        "word": "张晚意马思纯 埃及法老和他的宠妃",
+        "onboard_time": 1759274479,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67652,
+        "num": 67652,
+        "word": "一条微博祝福祖国",
+        "onboard_time": 1759274118,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66374,
+        "num": 66374,
+        "word": "90后女律师偷30多次蛋糕盒饭获刑",
+        "onboard_time": 1759240761,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62281,
+        "num": 62281,
+        "word": "黄灿灿说不会结婚了",
+        "onboard_time": 1759230442,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61806,
+        "num": 61806,
+        "word": "女子过度医美面部馒化酷似面具人",
+        "onboard_time": 1759240341,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61628,
+        "num": 61628,
+        "word": "王俊凯NBA名人赛C位海报",
+        "onboard_time": 1759274357,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 59756,
+        "num": 59756,
+        "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
+        "onboard_time": 1759258755,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55765,
+        "num": 55765,
+        "word": "失去半个舌头会对面容有影响",
+        "onboard_time": 1759274118,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55208,
+        "num": 55208,
+        "word": "美国博主谈中国在外网的口碑",
+        "onboard_time": 1759251138,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54376,
+        "num": 54376,
+        "word": "第一次看到狗回头睡脖子是悬空的",
+        "onboard_time": 1759272077,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11469,
+        "num": 53900,
+        "word": "刘宇演唱会上海站官宣",
+        "onboard_time": 1759259594,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53759,
+        "num": 53759,
+        "word": "国庆文案",
+        "onboard_time": 1759274538,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51799,
+        "num": 51799,
+        "word": "肖战用人民日报的图",
+        "onboard_time": 1759253176,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50513,
+        "num": 50513,
+        "word": "半夜不用起来上厕所的方法找到了",
+        "onboard_time": 1759245261,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49456,
+        "num": 49456,
+        "word": "赴山海豆瓣开分5.9分",
+        "onboard_time": 1759236802,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33313,
+        "num": 46754,
+        "word": "雨果说王楚钦实力最强",
+        "onboard_time": 1759274538,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46510,
+        "num": 46510,
+        "word": "普通女生苦练化妆技术的下场",
+        "onboard_time": 1759248741,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 44957,
+        "num": 44957,
+        "word": "风波后有西贝成商场最冷清连锁餐厅",
+        "onboard_time": 1759262474,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43640,
+        "num": 43640,
+        "word": "女子点自提咖啡却强行要求店员配送",
+        "onboard_time": 1759252158,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43364,
+        "num": 43364,
+        "word": "王乐晨卢远回应",
+        "onboard_time": 1759241661,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39049,
+        "num": 39049,
+        "word": "中华人民共和国成立76周年",
+        "onboard_time": 1759251618,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38356,
+        "num": 38356,
+        "word": "新人花近3万在海底捞办50桌婚宴",
+        "onboard_time": 1759243283,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38083,
+        "num": 38083,
+        "word": "孙颖莎不好拉的球我就拉",
+        "onboard_time": 1759274118,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38019,
+        "num": 38019,
+        "word": "台湾是中国领土一部分",
+        "onboard_time": 1759235480,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36697,
+        "num": 36697,
+        "word": "心动的信号",
+        "onboard_time": 1759231101,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36127,
+        "num": 36127,
+        "word": "巴黎偶遇迪丽热巴邓为",
+        "onboard_time": 1759231642,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国各族人民致以节日祝贺#"
+    }
+  }
+}
