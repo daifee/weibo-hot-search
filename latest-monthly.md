@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 15:39:40
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 16:35:58
 </p>
 </blockquote>
 <p>
@@ -1977,6 +1977,12 @@ ally官宣分手（热度：1529775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%23" target="weibo">
+华南理工大学通报（热度：1437787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%90%86%23" target="weibo">
 真理（热度：1431648）
 </a>
@@ -2249,6 +2255,12 @@ AG夏决冠军（热度：1374157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%98%E6%B5%B7%23" target="weibo">
 迪丽热巴刘海（热度：1337793）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%E5%9D%90%E8%BD%AE%E6%A4%85%23" target="weibo">
+刘美含食物中毒坐轮椅（热度：1334936）
 </a>
 </li>
 
@@ -3623,6 +3635,12 @@ iPhone 调休闹钟（热度：1012419）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%8C%E5%AF%BB%E6%A4%B0%20%E5%85%89%E5%AD%90%E5%AB%A9%E8%82%A4%E4%BA%8C%E5%BA%A6%E7%83%A7%E4%BC%A4%23" target="weibo">
 千里寻椰 光子嫩肤二度烧伤（热度：1005583）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E6%B2%A1%E6%9C%89%E4%BA%B2%E5%B0%8F%E9%85%92%E7%AA%9D%23" target="weibo">
+张维伊没有亲小酒窝（热度：1003063）
 </a>
 </li>
 
@@ -5996,24 +6014,6 @@ iPhone17Promini首曝（热度：777010）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%AF%B4%E5%89%8D%E5%A4%AB%E4%B8%8D%E5%87%86%E5%A5%B9%E6%8F%90%E5%B9%B4%E9%BE%84%E5%B7%AE15%E5%B2%81%23" target="weibo">
-孙菲菲说前夫不准她提年龄差15岁（热度：750034）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%20%E8%A1%A3%E6%9F%9C%E9%87%8C%E7%BF%BB%E9%B8%A1%E6%8E%92%23" target="weibo">
-淘宝闪购购买记录 衣柜里翻鸡排（热度：749435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%88%86%E6%96%99%E6%9D%A8%E5%B9%82%E6%97%A0%E7%BC%98%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
-粉丝爆料杨幂无缘金鸡奖（热度：747781）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6599,6 +6599,12 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE%23%23" target="weibo">
 #烈士纪念日向人民英雄敬献花篮#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE%23%23" target="weibo">
+#习近平向人民英雄敬献花篮#
 </a>
 </li>
 
