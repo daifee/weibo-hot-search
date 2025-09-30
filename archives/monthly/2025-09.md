@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 18:28:24
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 18:43:48
 </p>
 </blockquote>
 <p>
@@ -4137,6 +4137,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%8A%9B%E9%9B%86%E5%9B%A2%E5%8F%91%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23" target="weibo">
+得力集团发致歉声明（热度：934327）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%BB%99%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%E6%8D%A2%E6%96%B0%E6%89%8B%E6%9C%BA%E4%BA%86%23" target="weibo">
 章若楠给全体员工换新手机了（热度：933244）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%B5%9A%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AC%94%E9%92%B1%E7%BB%99%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%A1%A5%E4%BA%A4%E5%AD%A6%E8%B4%B9%23" target="weibo">
 黄灿灿赚的第一笔钱给男朋友补交学费（热度：750924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E6%89%93%E6%98%8E%E7%89%8C%23" target="weibo">
-贾国龙称西贝今后将打明牌（热度：750481）
 </a>
 </li>
 

@@ -1,10 +1,10 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759228104318,
+  "endTime": 1759229028008,
   "band_list": [
     {
       "raw_hot": 2873193,
-      "num": 192724,
+      "num": 233919,
       "word": "文咏珊官宣当妈",
       "onboard_time": 1759225341,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1334936,
-      "num": 225642,
+      "num": 231269,
       "word": "刘美含食物中毒坐轮椅",
       "onboard_time": 1759217541,
       "rank": 24,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1003063,
-      "num": 225547,
+      "num": 229903,
       "word": "张维伊没有亲小酒窝",
       "onboard_time": 1759217901,
       "rank": 23,
@@ -96,6 +96,14 @@
       "word": "维达抽纸被曝有黄色不明物体",
       "onboard_time": 1759161381,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 934327,
+      "num": 1149492,
+      "word": "得力集团发致歉声明",
+      "onboard_time": 1759225941,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 648043,
+      "num": 232767,
+      "word": "姐弟恋已升级为姨弟恋",
+      "onboard_time": 1759226539,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639429,
       "num": 220225,
       "word": "王暖暖坠崖10天财物被洗劫一空",
@@ -273,14 +289,6 @@
       "onboard_time": 1759190841,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499274,
-      "num": 499274,
-      "word": "得力集团发致歉声明",
-      "onboard_time": 1759225941,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 490772,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 403135,
-      "num": 175515,
+      "num": 184680,
       "word": "K签证引争议症结在于公平焦虑",
       "onboard_time": 1759215320,
       "rank": 25,
@@ -433,14 +441,6 @@
       "onboard_time": 1759211961,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358240,
-      "num": 183464,
-      "word": "姐弟恋已升级为姨弟恋",
-      "onboard_time": 1759226539,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 356024,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 351804,
-      "num": 188815,
+      "num": 225260,
       "word": "王者荣耀",
       "onboard_time": 1759224560,
       "rank": 18,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282301,
+      "num": 282301,
+      "word": "王楚钦孙颖莎vs萨林格尔帕德",
+      "onboard_time": 1759227319,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277821,
       "num": 277821,
       "word": "网友称因跛脚在入职当天被得力辞退",
@@ -672,6 +680,14 @@
       "word": "广东1周新增3153例基孔肯雅热",
       "onboard_time": 1759191141,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255868,
+      "num": 255868,
+      "word": "堵车",
+      "onboard_time": 1759226240,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -723,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234744,
+      "num": 234744,
+      "word": "孙颖莎王楚钦混双训练默契依旧",
+      "onboard_time": 1759226240,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230788,
       "num": 197041,
       "word": "王力宏夸肖战",
@@ -747,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225211,
+      "num": 225211,
+      "word": "雷佳音13岁女儿身高",
+      "onboard_time": 1759227799,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221189,
       "num": 186543,
       "word": "肖战工作室拍的红海",
@@ -761,14 +793,6 @@
       "onboard_time": 1759197141,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214509,
-      "num": 214509,
-      "word": "孙颖莎王楚钦混双训练默契依旧",
-      "onboard_time": 1759226240,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 209592,
@@ -801,14 +825,6 @@
       "onboard_time": 1759202060,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193719,
-      "num": 193719,
-      "word": "王楚钦孙颖莎vs萨林格尔帕德",
-      "onboard_time": 1759227319,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 193377,
@@ -873,6 +889,14 @@
       "onboard_time": 1759224800,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180979,
+      "num": 180979,
+      "word": "也就短剧拍的出这种分手",
+      "onboard_time": 1759228460,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 180854,
@@ -961,14 +985,6 @@
       "onboard_time": 1759188680,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 158475,
-      "num": 158475,
-      "word": "堵车",
-      "onboard_time": 1759226240,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158376,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1759146860,
       "rank": 27,
       "category": "运动健身,情感"
+    },
+    {
+      "raw_hot": 144812,
+      "num": 130577,
+      "word": "孙颖莎边吃边监督",
+      "onboard_time": 1759228581,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 143608,
@@ -1707,8 +1731,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112263,
-      "num": 112263,
+      "raw_hot": 112874,
+      "num": 112874,
       "word": "天价月饼都降价了",
       "onboard_time": 1759223242,
       "rank": 30,
@@ -1899,12 +1923,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102917,
+      "num": 102917,
+      "word": "幻象黑兔",
+      "onboard_time": 1759228101,
+      "rank": 41,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 102252,
       "num": 121342,
       "word": "俱乐部为樊振东欧冠首秀换场馆",
       "onboard_time": 1759160781,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102218,
+      "num": 102218,
+      "word": "因交通事故深中通道堵成深红色",
+      "onboard_time": 1759228701,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102013,
@@ -2059,14 +2099,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 93171,
-      "num": 116395,
-      "word": "雷佳音13岁女儿身高",
-      "onboard_time": 1759227799,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92251,
       "num": 92251,
       "word": "李在明没给尹锡悦送中秋礼物",
@@ -2099,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91620,
+      "num": 91620,
+      "word": "宠物行业最怕爱上客户",
+      "onboard_time": 1759228641,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91586,
       "num": 91586,
       "word": "十月迪丽热巴行程",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1759194500,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90957,
+      "num": 90957,
+      "word": "纤维粒 夏思齐",
+      "onboard_time": 1759228940,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 90549,
@@ -2163,12 +2211,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 88381,
+      "num": 88381,
+      "word": "王嘉尔这个镜头的含金量",
+      "onboard_time": 1759228160,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86945,
       "num": 86945,
       "word": "觉得以前的东西好有质感啊",
       "onboard_time": 1759198039,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84765,
+      "num": 84765,
+      "word": "鸿蒙版12306实况窗上线",
+      "onboard_time": 1759228521,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 84590,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1759150040,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76739,
+      "num": 195149,
+      "word": "深圳人的国庆打开方式有点超前",
+      "onboard_time": 1759227981,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75105,
@@ -2539,14 +2611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50460,
-      "num": 110952,
-      "word": "深圳人的国庆打开方式有点超前",
-      "onboard_time": 1759227981,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49568,
       "num": 137259,
       "word": "同学对张维伊的评价",
@@ -2563,12 +2627,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47403,
+      "num": 106677,
+      "word": "宋亚轩就是王牌的养成系",
+      "onboard_time": 1759228641,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46235,
       "num": 206700,
       "word": "直击欧莱雅秀场",
       "onboard_time": 1759201519,
       "rank": 27,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 44112,
+      "num": 228005,
+      "word": "把成功归功于运气更容易接受失败",
+      "onboard_time": 1759227319,
+      "rank": 14,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 43727,
@@ -2657,14 +2737,6 @@
       "onboard_time": 1759166716,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 37861,
-      "num": 186384,
-      "word": "把成功归功于运气更容易接受失败",
-      "onboard_time": 1759227319,
-      "rank": 14,
-      "category": "汽车,网红"
     },
     {
       "raw_hot": 37331,
