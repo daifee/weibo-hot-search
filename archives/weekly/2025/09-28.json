@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759246813784,
+  "endTime": 1759249913238,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -33,6 +33,14 @@
       "onboard_time": 1759196120,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2379627,
+      "num": 594799,
+      "word": "K签",
+      "onboard_time": 1759110199,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1952918,
@@ -321,14 +329,6 @@
       "onboard_time": 1759066463,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1042667,
-      "num": 594799,
-      "word": "K签",
-      "onboard_time": 1759110199,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1016696,
@@ -771,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 742367,
+      "num": 877129,
+      "word": "国庆",
+      "onboard_time": 1759248741,
+      "rank": 0,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 738582,
       "num": 1113981,
       "word": "西贝厨师说生鸡内脏被下水道冲走了",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1759195040,
       "rank": 8,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 614850,
+      "num": 614850,
+      "word": "K字签证不能与移民划等号",
+      "onboard_time": 1759247721,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 614165,
@@ -1539,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489406,
+      "num": 236978,
+      "word": "王乐晨道歉",
+      "onboard_time": 1759248381,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485305,
       "num": 212368,
       "word": "头姐拍的肖战",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1759213160,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474998,
+      "num": 474998,
+      "word": "一耳光打走女儿母亲花光积蓄找10年",
+      "onboard_time": 1759243522,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 474816,
@@ -1936,14 +1968,6 @@
       "word": "鸡排家族已有9个摊位",
       "onboard_time": 1759031121,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405371,
-      "num": 394136,
-      "word": "一耳光打走女儿母亲花光积蓄找10年",
-      "onboard_time": 1759243522,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2377,6 +2401,14 @@
       "onboard_time": 1759015821,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 309928,
+      "num": 309928,
+      "word": "新人花近3万在海底捞办50桌婚宴",
+      "onboard_time": 1759243283,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309692,
@@ -2921,14 +2953,6 @@
       "onboard_time": 1759096635,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 235057,
-      "num": 235057,
-      "word": "新人花近3万在海底捞办50桌婚宴",
-      "onboard_time": 1759243283,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234980,
@@ -3859,6 +3883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182350,
+      "num": 182350,
+      "word": "顺丰速运回应顺丰速孕低俗车贴",
+      "onboard_time": 1759245740,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182255,
       "num": 182255,
       "word": "日本网友P图预言反对引进印度人才",
@@ -4321,6 +4353,14 @@
       "onboard_time": 1759051580,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167385,
+      "num": 167385,
+      "word": "半夜不用起来上厕所的方法找到了",
+      "onboard_time": 1759245261,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 167349,
@@ -5289,14 +5329,6 @@
       "onboard_time": 1759230022,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142660,
-      "num": 142660,
-      "word": "顺丰速运回应顺丰速孕低俗车贴",
-      "onboard_time": 1759245740,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142154,
@@ -7067,6 +7099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114015,
+      "num": 114015,
+      "word": "陈哲远真不拿我当外人",
+      "onboard_time": 1759249160,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114002,
       "num": 114002,
       "word": "极氪9X",
@@ -7753,14 +7793,6 @@
       "onboard_time": 1759060581,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104331,
-      "num": 104331,
-      "word": "半夜不用起来上厕所的方法找到了",
-      "onboard_time": 1759245261,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 104199,
@@ -8507,6 +8539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 92194,
+      "num": 92194,
+      "word": "海底捞回应国庆承办50桌婚宴",
+      "onboard_time": 1759248561,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91869,
       "num": 91869,
       "word": "研究称月球生锈了",
@@ -9179,6 +9219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78538,
+      "num": 78538,
+      "word": "普通女生苦练化妆技术的下场",
+      "onboard_time": 1759248741,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 78404,
       "num": 193318,
       "word": "胡兵瞿颖巴黎合体",
@@ -9273,6 +9321,14 @@
       "onboard_time": 1759037842,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74106,
+      "num": 74106,
+      "word": "蒙特利尔林孝埈打卡点",
+      "onboard_time": 1759249760,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 73794,
