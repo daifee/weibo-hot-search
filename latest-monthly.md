@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 05:22:34
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 05:36:56
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A0%B5%E8%BD%A6%E4%BA%BA%E5%A0%B5%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%23" target="weibo">
+第一批堵车人堵成鸳鸯锅（热度：117153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%9C%9F%E4%B8%8D%E6%8B%BF%E6%88%91%E5%BD%93%E5%A4%96%E4%BA%BA%23" target="weibo">
 陈哲远真不拿我当外人（热度：114015）
 </a>
@@ -233,12 +239,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%9F%8F%E9%9D%92%E5%A4%8D%E5%B7%A5%23" target="weibo">
 辛柏青复工（热度：96762）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A0%B5%E8%BD%A6%E4%BA%BA%E5%A0%B5%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%23" target="weibo">
-第一批堵车人堵成鸳鸯锅（热度：94378）
 </a>
 </li>
 
@@ -400,7 +400,7 @@ AG对战KSG（热度：68928）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%B3%A2%E5%90%8E%E6%9C%89%E8%A5%BF%E8%B4%9D%E6%88%90%E5%95%86%E5%9C%BA%E6%9C%80%E5%86%B7%E6%B8%85%E8%BF%9E%E9%94%81%E9%A4%90%E5%8E%85%23" target="weibo">
-风波后有西贝成商场最冷清连锁餐厅（热度：17118）
+风波后有西贝成商场最冷清连锁餐厅（热度：17565）
 </a>
 </li>
 
@@ -431,6 +431,12 @@ AG对战KSG（热度：68928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%88%98%E8%81%94%E5%A4%A7%E7%AC%AC2758%E5%8F%B7%E5%86%B3%E8%AE%AE%E5%8D%81%E5%88%86%E8%8D%92%E8%B0%AC%23" target="weibo">
 挑战联大第2758号决议十分荒谬（热度：14384）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AF%8F%E4%B8%80%E7%A7%92%E9%83%BD%E5%9C%A8%E5%89%8D%E8%BF%9B%23" target="weibo">
+中国每一秒都在前进（热度：13818）
 </a>
 </li>
 
