@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 02:47:27
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 03:20:32
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,18 @@ AG对战KSG（热度：68928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A5%B3%E5%BE%8B%E5%B8%88%E5%81%B730%E5%A4%9A%E6%AC%A1%E8%9B%8B%E7%B3%95%E7%9B%92%E9%A5%AD%E8%8E%B7%E5%88%91%23" target="weibo">
 90后女律师偷30多次蛋糕盒饭获刑（热度：25970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%B0%E9%9C%87%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%BC%95%E5%8F%91%E5%B1%80%E5%9C%B0%E6%B5%B7%E5%95%B8%23" target="weibo">
+菲律宾地震可能会引发局地海啸（热度：20637）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%B5%B7%E7%AB%99%E5%AE%98%E5%AE%A3%23" target="weibo">
+刘宇演唱会上海站官宣（热度：16482）
 </a>
 </li>
 

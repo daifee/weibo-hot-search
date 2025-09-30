@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759258047969,
+  "endTime": 1759260032002,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -10995,6 +10995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20637,
+      "num": 20637,
+      "word": "菲律宾地震可能会引发局地海啸",
+      "onboard_time": 1759259115,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20438,
       "num": 763523,
       "word": "我把美丽中国唱给你听",
@@ -11081,6 +11089,14 @@
       "onboard_time": 1759172474,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16482,
+      "num": 25321,
+      "word": "刘宇演唱会上海站官宣",
+      "onboard_time": 1759259594,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 16459,
