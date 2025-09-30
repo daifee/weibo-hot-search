@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759229028008,
+  "endTime": 1759231324073,
   "band_list": [
     {
       "raw_hot": 2873193,
@@ -43,12 +43,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1322196,
+      "num": 1322196,
+      "word": "得力集团发致歉声明",
+      "onboard_time": 1759225941,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1214864,
       "num": 268897,
       "word": "董璇妥协",
       "onboard_time": 1759199538,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1174188,
+      "num": 1174188,
+      "word": "堵车",
+      "onboard_time": 1759226240,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1003063,
@@ -96,14 +112,6 @@
       "word": "维达抽纸被曝有黄色不明物体",
       "onboard_time": 1759161381,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 934327,
-      "num": 1149492,
-      "word": "得力集团发致歉声明",
-      "onboard_time": 1759225941,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499556,
+      "num": 225211,
+      "word": "雷佳音13岁女儿身高",
+      "onboard_time": 1759227799,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490772,
       "num": 225438,
       "word": "张檬让父母消毒后抱孩子",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 403135,
-      "num": 184680,
+      "num": 196380,
       "word": "K签证引争议症结在于公平焦虑",
       "onboard_time": 1759215320,
       "rank": 25,
@@ -473,6 +489,14 @@
       "onboard_time": 1759219223,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345068,
+      "num": 345068,
+      "word": "王楚钦孙颖莎vs萨林格尔帕德",
+      "onboard_time": 1759227319,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 336498,
@@ -521,6 +545,14 @@
       "onboard_time": 1759202120,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 309692,
+      "num": 309692,
+      "word": "孙颖莎王楚钦混双训练默契依旧",
+      "onboard_time": 1759226240,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 307867,
@@ -603,6 +635,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 293051,
+      "num": 293051,
+      "word": "王楚钦鹰眼挑战失败",
+      "onboard_time": 1759230622,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290006,
       "num": 196904,
       "word": "鹿哈女友自曝全脸do",
@@ -619,20 +659,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 287522,
+      "num": 199302,
+      "word": "纤维粒 夏思齐",
+      "onboard_time": 1759228940,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 283311,
       "num": 208579,
       "word": "终于知道她为什么叫靓靓了",
       "onboard_time": 1759205540,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282301,
-      "num": 282301,
-      "word": "王楚钦孙颖莎vs萨林格尔帕德",
-      "onboard_time": 1759227319,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 277821,
@@ -649,6 +689,14 @@
       "onboard_time": 1759224381,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 264884,
+      "num": 192466,
+      "word": "黄灿灿说不会结婚了",
+      "onboard_time": 1759230442,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 262069,
@@ -683,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255868,
-      "num": 255868,
-      "word": "堵车",
-      "onboard_time": 1759226240,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 255195,
+      "num": 191756,
+      "word": "心动的信号",
+      "onboard_time": 1759231101,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 252481,
@@ -705,6 +753,14 @@
       "onboard_time": 1759204701,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248217,
+      "num": 189561,
+      "word": "孙颖莎发球又被提醒",
+      "onboard_time": 1759229482,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 244354,
@@ -739,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234744,
-      "num": 234744,
-      "word": "孙颖莎王楚钦混双训练默契依旧",
-      "onboard_time": 1759226240,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230788,
       "num": 197041,
       "word": "王力宏夸肖战",
@@ -771,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225211,
-      "num": 225211,
-      "word": "雷佳音13岁女儿身高",
-      "onboard_time": 1759227799,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221189,
       "num": 186543,
       "word": "肖战工作室拍的红海",
@@ -795,8 +835,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214464,
+      "num": 189412,
+      "word": "乐远cp选择不成为情侣",
+      "onboard_time": 1759230981,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211666,
+      "num": 211666,
+      "word": "孙颖莎王楚钦混双开门红",
+      "onboard_time": 1759230800,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209592,
-      "num": 175229,
+      "num": 187991,
       "word": "台湾老人强行要年轻人让座被踹懵",
       "onboard_time": 1759226061,
       "rank": 23,
@@ -915,12 +971,36 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 177837,
+      "num": 177837,
+      "word": "原神",
+      "onboard_time": 1759230560,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 176380,
+      "num": 176380,
+      "word": "杨幂 自驾重走丝绸之路",
+      "onboard_time": 1759229420,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174667,
       "num": 220793,
       "word": "王伟中任内蒙古自治区党委书记",
       "onboard_time": 1759198219,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173567,
+      "num": 173567,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1759223961,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 172556,
@@ -980,7 +1060,7 @@
     },
     {
       "raw_hot": 159996,
-      "num": 611871,
+      "num": 672986,
       "word": "近代以来有约2000万名烈士为国捐躯",
       "onboard_time": 1759188680,
       "rank": 31,
@@ -1075,6 +1155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 148900,
+      "num": 148900,
+      "word": "TTG对战JDG",
+      "onboard_time": 1759230442,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148577,
       "num": 148577,
       "word": "员工称为还百万债务在西贝刷碗7年",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1759152862,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148022,
+      "num": 148022,
+      "word": "WTT",
+      "onboard_time": 1759231101,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 146691,
@@ -1155,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143666,
+      "num": 143666,
+      "word": "成毅赴山海收官文",
+      "onboard_time": 1759229782,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143608,
       "num": 143608,
       "word": "短国小半壁江山都在这剧",
@@ -1169,6 +1273,14 @@
       "onboard_time": 1759208781,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142775,
+      "num": 142775,
+      "word": "肖战腿上的肌肉",
+      "onboard_time": 1759230022,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 142073,
@@ -1371,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131781,
+      "num": 131781,
+      "word": "王者周年皮肤9选1",
+      "onboard_time": 1759229661,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130913,
       "num": 130913,
       "word": "存不到一千万都对不起这块肉",
@@ -1427,6 +1547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128945,
+      "num": 128945,
+      "word": "小酒窝朵朵 娃娃亲",
+      "onboard_time": 1759229961,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128618,
       "num": 152771,
       "word": "第12个烈士纪念日",
@@ -1457,6 +1585,14 @@
       "onboard_time": 1759213340,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127654,
+      "num": 127654,
+      "word": "因交通事故深中通道堵成深红色",
+      "onboard_time": 1759228701,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127512,
@@ -1659,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116992,
+      "num": 116992,
+      "word": "新人演员宋亚轩成长记录",
+      "onboard_time": 1759229782,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116477,
       "num": 116477,
       "word": "减肥一个月成功减掉了30天",
@@ -1721,6 +1865,14 @@
       "onboard_time": 1759156764,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113497,
+      "num": 113497,
+      "word": "浙醋 天津特产",
+      "onboard_time": 1759230081,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 112999,
@@ -1843,6 +1995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106697,
+      "num": 106697,
+      "word": "王鹤棣李沁马立奥吉祥三宝",
+      "onboard_time": 1759231281,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106514,
       "num": 106514,
       "word": "鸡排哥1分钟视频报价仅10元",
@@ -1939,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102218,
-      "num": 102218,
-      "word": "因交通事故深中通道堵成深红色",
-      "onboard_time": 1759228701,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102013,
       "num": 121600,
       "word": "埃及失联女孩闺蜜无心插柳救自己",
@@ -2017,14 +2169,6 @@
       "onboard_time": 1759200200,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 96944,
-      "num": 96944,
-      "word": "休想换走我的高铁F座",
-      "onboard_time": 1759223961,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 96897,
@@ -2161,14 +2305,6 @@
       "onboard_time": 1759194500,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90957,
-      "num": 90957,
-      "word": "纤维粒 夏思齐",
-      "onboard_time": 1759228940,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 90549,
@@ -2388,7 +2524,7 @@
     },
     {
       "raw_hot": 76739,
-      "num": 195149,
+      "num": 197653,
       "word": "深圳人的国庆打开方式有点超前",
       "onboard_time": 1759227981,
       "rank": 37,
@@ -2817,6 +2953,14 @@
       "onboard_time": 1759224681,
       "rank": 14,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 24664,
+      "num": 205511,
+      "word": "酷滕谈年少成名是种什么样的体验",
+      "onboard_time": 1759230261,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 23863,

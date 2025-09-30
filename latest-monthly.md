@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 18:43:48
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 19:22:04
 </p>
 </blockquote>
 <p>
@@ -2301,6 +2301,12 @@ AG夏决冠军（热度：1374157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%8A%9B%E9%9B%86%E5%9B%A2%E5%8F%91%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23" target="weibo">
+得力集团发致歉声明（热度：1322196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%90%91%E4%BA%8E%E6%9C%A6%E8%83%A7%E6%AF%8D%E4%BA%B2%E9%80%9A%E6%8A%A5%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
 警方已向于朦胧母亲通报调查情况（热度：1320984）
 </a>
@@ -2849,6 +2855,12 @@ A股（热度：1180616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E6%B2%A1%E8%AE%A4%E5%87%BA%E8%8B%97%E8%8B%97%23" target="weibo">
 差点没认出苗苗（热度：1176992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%23" target="weibo">
+堵车（热度：1174188）
 </a>
 </li>
 
@@ -4133,12 +4145,6 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%A2%AB%E5%87%BB%E8%90%BD%E7%9E%AC%E9%97%B4%23" target="weibo">
 目击者讲述不明飞行物被击落瞬间（热度：934479）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%8A%9B%E9%9B%86%E5%9B%A2%E5%8F%91%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23" target="weibo">
-得力集团发致歉声明（热度：934327）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%B0%E9%9A%BE%E5%8F%97%E7%9A%84%E8%82%AF%E5%AE%9A%E4%B8%8D%E6%98%AF%E6%88%91%23" target="weibo">
 罗永浩称难受的肯定不是我（热度：751598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%B5%9A%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AC%94%E9%92%B1%E7%BB%99%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%A1%A5%E4%BA%A4%E5%AD%A6%E8%B4%B9%23" target="weibo">
-黄灿灿赚的第一笔钱给男朋友补交学费（热度：750924）
 </a>
 </li>
 
