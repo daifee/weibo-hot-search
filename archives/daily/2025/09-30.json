@@ -1,10 +1,10 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759239998844,
+  "endTime": 1759242336207,
   "band_list": [
     {
       "raw_hot": 2873193,
-      "num": 233919,
+      "num": 273681,
       "word": "文咏珊官宣当妈",
       "onboard_time": 1759225341,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1726549,
-      "num": 224960,
+      "num": 277293,
       "word": "乐远cp选择不成为情侣",
       "onboard_time": 1759230981,
       "rank": 25,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1285761,
-      "num": 214738,
+      "num": 238278,
       "word": "心动的信号",
       "onboard_time": 1759231101,
       "rank": 23,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 931505,
-      "num": 221346,
+      "num": 261799,
       "word": "王菊怎么瘦成这样了",
       "onboard_time": 1759233380,
       "rank": 12,
@@ -236,11 +236,19 @@
     },
     {
       "raw_hot": 730346,
-      "num": 217318,
+      "num": 258352,
       "word": "黄灿灿说不会结婚了",
       "onboard_time": 1759230442,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 712495,
+      "num": 525576,
+      "word": "女子过度医美面部馒化酷似面具人",
+      "onboard_time": 1759240341,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 687922,
@@ -249,6 +257,14 @@
       "onboard_time": 1759223300,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674817,
+      "num": 268715,
+      "word": "户晨风全网销号",
+      "onboard_time": 1759236383,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 669649,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 602528,
-      "num": 218754,
+      "num": 257983,
       "word": "辛柏青复工",
       "onboard_time": 1759237882,
       "rank": 16,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 598379,
-      "num": 220055,
+      "num": 249474,
       "word": "巴黎偶遇迪丽热巴邓为",
       "onboard_time": 1759231642,
       "rank": 26,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 595868,
-      "num": 217494,
+      "num": 238575,
       "word": "心动8如益CP官宣",
       "onboard_time": 1759232424,
       "rank": 14,
@@ -348,11 +364,19 @@
     },
     {
       "raw_hot": 582946,
-      "num": 216430,
+      "num": 253677,
       "word": "妻子查看亡夫遗物发现婚外情录音",
       "onboard_time": 1759233860,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571941,
+      "num": 265606,
+      "word": "王力宏鹿晗 演唱会循环",
+      "onboard_time": 1759239262,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 571631,
@@ -361,14 +385,6 @@
       "onboard_time": 1759220601,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568622,
-      "num": 217576,
-      "word": "户晨风全网销号",
-      "onboard_time": 1759236383,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 547639,
@@ -433,6 +449,14 @@
       "onboard_time": 1759213160,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474816,
+      "num": 242355,
+      "word": "曝方媛已产下第三胎",
+      "onboard_time": 1759241541,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 473881,
@@ -689,6 +713,14 @@
       "onboard_time": 1759226240,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308318,
+      "num": 245534,
+      "word": "王乐晨卢远回应",
+      "onboard_time": 1759241661,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 307867,
@@ -963,6 +995,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215507,
+      "num": 215507,
+      "word": "车车车车车高速公路车车车车车",
+      "onboard_time": 1759240221,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215345,
+      "num": 215345,
+      "word": "第一批堵车人堵成鸳鸯锅",
+      "onboard_time": 1759236021,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211666,
       "num": 211666,
       "word": "孙颖莎王楚钦混双开门红",
@@ -979,20 +1027,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204613,
+      "num": 204613,
+      "word": "K签",
+      "onboard_time": 1759240521,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198706,
       "num": 198706,
       "word": "一笑随歌",
       "onboard_time": 1759203079,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196191,
-      "num": 196191,
-      "word": "王力宏鹿晗 演唱会循环",
-      "onboard_time": 1759239262,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 195650,
@@ -1107,6 +1155,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 182968,
+      "num": 182968,
+      "word": "李承铉朱志鑫纯英文对话",
+      "onboard_time": 1759241063,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181047,
       "num": 181047,
       "word": "第五人格",
@@ -1153,14 +1209,6 @@
       "onboard_time": 1759229420,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175370,
-      "num": 175370,
-      "word": "第一批堵车人堵成鸳鸯锅",
-      "onboard_time": 1759236021,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174667,
@@ -1291,6 +1339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157889,
+      "num": 157889,
+      "word": "K签并非所谓的无门槛开放",
+      "onboard_time": 1759241361,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157734,
+      "num": 157734,
+      "word": "留学生吐槽国外看病主打命硬",
+      "onboard_time": 1759240101,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157363,
       "num": 157363,
       "word": "沈佳润 大大方方",
@@ -1347,6 +1411,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 152452,
+      "num": 155825,
+      "word": "雅安地震",
+      "onboard_time": 1759241841,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 151063,
       "num": 151063,
       "word": "宝见受你一靠子",
@@ -1355,12 +1427,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150669,
+      "num": 150669,
+      "word": "心动的信号8售后",
+      "onboard_time": 1759241961,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150655,
       "num": 150655,
       "word": "男子含着烟头吃饭敲诈面馆",
       "onboard_time": 1759154841,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149656,
+      "num": 149656,
+      "word": "孙颖莎王楚钦拿错毛巾",
+      "onboard_time": 1759237221,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 149377,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1759224621,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146045,
+      "num": 146045,
+      "word": "曝S15陪练团名单",
+      "onboard_time": 1759241422,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 145856,
@@ -1569,6 +1665,14 @@
       "onboard_time": 1759206561,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137420,
+      "num": 147671,
+      "word": "90后女律师偷30多次蛋糕盒饭获刑",
+      "onboard_time": 1759240761,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136850,
@@ -1825,14 +1929,6 @@
       "onboard_time": 1759204701,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128226,
-      "num": 128226,
-      "word": "孙颖莎王楚钦拿错毛巾",
-      "onboard_time": 1759237221,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 128008,
@@ -2403,6 +2499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101626,
+      "num": 157041,
+      "word": "央视给孙颖莎整活了",
+      "onboard_time": 1759241361,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99346,
       "num": 99346,
       "word": "男子三次找师傅开女生门锁",
@@ -2835,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79826,
+      "num": 205933,
+      "word": "郭艾伦要跳一万遍李斯丹妮的winner",
+      "onboard_time": 1759242082,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 79291,
       "num": 118558,
       "word": "女子国内非法集资400多亿潜逃英国",
@@ -2881,6 +2993,14 @@
       "onboard_time": 1759150040,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77075,
+      "num": 140286,
+      "word": "网友吐槽顺丰速孕车贴让人不适",
+      "onboard_time": 1759240821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76739,
@@ -3009,6 +3129,14 @@
       "onboard_time": 1759163479,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63780,
+      "num": 156500,
+      "word": "园方回应幼儿园开进一辆坦克",
+      "onboard_time": 1759242202,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63292,
@@ -3163,6 +3291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46446,
+      "num": 156713,
+      "word": "吉林奶头山村更名为头山村",
+      "onboard_time": 1759241841,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46235,
       "num": 206700,
       "word": "直击欧莱雅秀场",
@@ -3291,6 +3427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 35380,
+      "num": 156292,
+      "word": "义乌一张饼装下整个地球村",
+      "onboard_time": 1759240941,
+      "rank": 39,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 34343,
       "num": 180707,
       "word": "烈士纪念日号角吹响",
@@ -3323,12 +3467,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 31550,
+      "num": 157249,
+      "word": "国庆看升旗的人已经在排队了",
+      "onboard_time": 1759242082,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29873,
       "num": 225290,
       "word": "在郑州被文化自信燃到了",
       "onboard_time": 1759219339,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27589,
+      "num": 157691,
+      "word": "欧莱雅大秀台前幕后",
+      "onboard_time": 1759241241,
+      "rank": 34,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 26357,
