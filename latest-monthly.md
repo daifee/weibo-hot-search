@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 11:12:34
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 11:48:15
 </p>
 </blockquote>
 <p>
@@ -3849,6 +3849,12 @@ Dior认领（热度：968275）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A8%23" target="weibo">
+黄金价格飙涨（热度：967166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E5%AE%A3%E5%B8%8326%E5%9B%BD%E5%B0%86%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E9%83%A8%E7%BD%B2%E5%86%9B%E9%98%9F%23" target="weibo">
 马克龙宣布26国将向乌克兰部署军队（热度：966933）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8E%9F%E5%9E%8B%E7%94%B7%E6%96%B9%E5%AE%B6%E5%B1%9E%E6%8B%92%E7%BB%9D%E5%9B%9E%E5%BA%94%23" target="weibo">
 消失的她原型男方家属拒绝回应（热度：746101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%96%9D%E6%B2%B9%E8%BF%98%E9%95%BF%E8%82%89%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
-比喝油还长肉的食物（热度：745346）
 </a>
 </li>
 

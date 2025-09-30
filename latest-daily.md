@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 11:12:34
+本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 11:48:15
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%E7%9D%A1%E8%A7%89%23" target="weibo">
 黄磊戴呼吸机睡觉（热度：970439）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A8%23" target="weibo">
+黄金价格飙涨（热度：967166）
 </a>
 </li>
 
@@ -63,12 +69,6 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A8%23" target="weibo">
-黄金价格飙涨（热度：711907）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E5%9D%A0%E5%B4%9610%E5%A4%A9%E8%B4%A2%E7%89%A9%E8%A2%AB%E6%B4%97%E5%8A%AB%E4%B8%80%E7%A9%BA%23" target="weibo">
 王暖暖坠崖10天财物被洗劫一空（热度：639429）
 </a>
@@ -87,8 +87,20 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%95%E8%BF%9B5%E4%B8%87%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%89%8D%E5%BC%95%E5%8F%91%E6%8A%97%E8%AE%AE%23" target="weibo">
+日本引进5万印度人才引发抗议（热度：598077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%A4%AA%E5%BE%97%E4%BD%93%E4%BA%86%23" target="weibo">
 董璇太得体了（热度：503134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E5%AE%9A%E6%A1%A3%23" target="weibo">
+入青云定档（热度：488702）
 </a>
 </li>
 
@@ -147,6 +159,12 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%AE%E7%82%8E%E6%82%A3%E8%80%85%E6%8E%A5%E8%AF%8A%E9%87%8F%E7%BF%BB%E5%80%8D%23" target="weibo">
+医院隐翅虫皮炎患者接诊量翻倍（热度：346296）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%89%BF%E8%AF%BA%E4%B8%8D%E5%86%8D%E6%94%BB%E5%87%BB%E5%8D%A1%E5%A1%94%E5%B0%94%23" target="weibo">
 以色列承诺不再攻击卡塔尔（热度：334561）
 </a>
@@ -161,6 +179,12 @@ roscoe去世（热度：869223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%BD%B1%E5%B8%9D%E6%9B%B4%E6%87%82%E5%BD%B1%E5%90%8E%23" target="weibo">
 邓超辛芷蕾 影帝更懂影后（热度：318127）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E6%96%B0%E5%A8%98%E7%A7%B0%E9%87%91%E4%BB%B7%E5%86%8D%E6%B6%A8%E4%B8%89%E9%87%91%E6%89%8B%E9%95%AF%E5%8F%98%E8%80%B3%E7%8E%AF%23" target="weibo">
+准新娘称金价再涨三金手镯变耳环（热度：316745）
 </a>
 </li>
 
@@ -237,14 +261,32 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%BB%8E%E6%97%A9%E4%BA%B2%E5%88%B0%E6%99%9A%23" target="weibo">
+孟子义李昀锐从早亲到晚（热度：250270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E7%AB%A5%E5%B0%8F%E5%8C%BA%E6%99%AF%E8%A7%82%E6%B1%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23" target="weibo">
 5岁男童小区景观池触电身亡（热度：244354）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E6%9B%BE%E5%9B%A0%E5%BF%83%E8%84%8F%E7%97%85%E7%AA%81%E5%8F%91%E9%80%81%E5%8C%BB%23" target="weibo">
+黄磊曾因心脏病突发送医（热度：241537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%A4%B8%E8%82%96%E6%88%98%23" target="weibo">
 王力宏夸肖战（热度：230788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%83%E6%B8%85%E9%81%93%E5%A4%AB%E9%A3%9F%E7%89%A9%E5%8F%AF%E9%A2%84%E9%98%B2%E8%A1%80%E7%AE%A1%E6%96%91%E5%9D%97%23" target="weibo">
+多吃清道夫食物可预防血管斑块（热度：230538）
 </a>
 </li>
 
@@ -268,7 +310,19 @@ roscoe去世（热度：869223）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E7%A8%8B%E5%9B%BE%23" target="weibo">
-行程图（热度：211359）
+行程图（热度：219678）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E9%97%AE%E5%B0%8F%E9%85%92%E7%AA%9D%E6%9C%B5%E6%9C%B5%E8%88%AC%E9%85%8D%E4%B8%8D%23" target="weibo">
+佟丽娅问小酒窝朵朵般配不（热度：219343）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%23" target="weibo">
+一笑随歌（热度：198706）
 </a>
 </li>
 
@@ -279,14 +333,32 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E7%B3%95%E4%B8%8D%E5%90%8C%E6%84%8F%E5%91%A8%E6%B7%B133%E5%B2%81%23" target="weibo">
-蛋糕不同意周深33岁（热度：172556）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E5%A2%9E%E8%AE%BEK%E5%AD%97%E7%AD%BE%E8%AF%81%23" target="weibo">
+如何看待中国增设K字签证（热度：194239）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E4%B8%8D%E5%87%86%E6%8A%8A%E6%88%91P%E6%8E%89%23" target="weibo">
+邓超 不准把我P掉（热度：192295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%80%E8%83%BD%E4%BA%94%E5%AD%90%E6%A3%8B%20%E8%A6%81%E7%88%86%E4%BA%86%23" target="weibo">
+技能五子棋 要爆了（热度：181501）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%9F%E4%B8%AD%E4%BB%BB%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
-王伟中任内蒙古自治区党委书记（热度：168393）
+王伟中任内蒙古自治区党委书记（热度：174667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E7%B3%95%E4%B8%8D%E5%90%8C%E6%84%8F%E5%91%A8%E6%B7%B133%E5%B2%81%23" target="weibo">
+蛋糕不同意周深33岁（热度：172556）
 </a>
 </li>
 
@@ -297,8 +369,8 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E6%9B%BE%E5%9B%A0%E5%BF%83%E8%84%8F%E7%97%85%E7%AA%81%E5%8F%91%E9%80%81%E5%8C%BB%23" target="weibo">
-黄磊曾因心脏病突发送医（热度：167253）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BA%BA%E4%BD%99%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
+美人余全阵容官宣（热度：165185）
 </a>
 </li>
 
@@ -345,14 +417,20 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E5%9B%B4%E5%8D%97%E4%BA%AD%E5%8A%A8%E7%94%BB%23" target="weibo">
+谷围南亭动画（热度：149377）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%AC%E5%B1%B1%E6%B0%B4%23" target="weibo">
 敬山水（热度：148151）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%AE%E7%82%8E%E6%82%A3%E8%80%85%E6%8E%A5%E8%AF%8A%E9%87%8F%E7%BF%BB%E5%80%8D%23" target="weibo">
-医院隐翅虫皮炎患者接诊量翻倍（热度：146306）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E7%94%B0%E7%9C%9F%E7%A4%BC%E7%9F%B3%E5%B7%9D%E7%95%8C%E4%BA%BA%E7%BB%93%E5%A9%9A%23" target="weibo">
+内田真礼石川界人结婚（热度：145530）
 </a>
 </li>
 
@@ -381,6 +459,12 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%88%B0%E5%93%AA%E5%84%BF%E9%83%BD%E5%BE%97%E5%B9%B2%E5%86%9C%E6%B4%BB%23" target="weibo">
+李沁到哪儿都得干农活（热度：136850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%AF%84%E6%9D%A5%E7%9A%84%E7%8C%AB%E5%92%AA%E5%90%AC%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%23" target="weibo">
 英国寄来的猫咪听不懂中文（热度：136436）
 </a>
@@ -401,6 +485,12 @@ roscoe去世（热度：869223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BA%AA%E5%BF%B5%E6%88%91%E4%BB%AC%E7%9A%845098%23" target="weibo">
 一人一句纪念我们的5098（热度：134999）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E8%82%AF%E8%B1%86%E5%90%88%E5%BD%B1%23" target="weibo">
+周也肯豆合影（热度：134380）
 </a>
 </li>
 
@@ -507,8 +597,20 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E4%B8%8D%E5%88%B0%E4%B8%80%E5%8D%83%E4%B8%87%E9%83%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7%E8%BF%99%E5%9D%97%E8%82%89%23" target="weibo">
+存不到一千万都对不起这块肉（热度：117666）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E5%BE%88%E5%B0%8F%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E4%BC%9A%E5%AE%89%E6%85%B0%E8%91%A3%E7%92%87%E4%BA%86%23" target="weibo">
 小酒窝很小的时候就会安慰董璇了（热度：115778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E5%B0%86%E5%87%BA%E7%8E%B0%E7%9A%845%E7%A7%8D%E4%BA%BA%23" target="weibo">
+明天将出现的5种人（热度：115512）
 </a>
 </li>
 
@@ -527,12 +629,6 @@ roscoe去世（热度：869223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%E7%BB%84%E5%90%88%E6%B7%B7%E5%8F%8C%E5%87%BA%E6%88%98%23" target="weibo">
 莎头组合混双出战（热度：111585）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%83%E6%B8%85%E9%81%93%E5%A4%AB%E9%A3%9F%E7%89%A9%E5%8F%AF%E9%A2%84%E9%98%B2%E8%A1%80%E7%AE%A1%E6%96%91%E5%9D%97%23" target="weibo">
-多吃清道夫食物可预防血管斑块（热度：111191）
 </a>
 </li>
 
@@ -585,20 +681,26 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E4%B8%8D%E5%87%86%E6%8A%8A%E6%88%91P%E6%8E%89%23" target="weibo">
-邓超 不准把我P掉（热度：100888）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%8F%98%E5%A3%AE%23" target="weibo">
 邓为变壮（热度：99326）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E7%94%B7%E5%AD%90%E6%8C%91%E6%88%98%E5%A4%B4%E9%A1%B64%E8%A2%8B%E6%B0%B4%E6%B3%A5%E8%BA%AB%E4%BA%A1%23" target="weibo">
+尼日利亚男子挑战头顶4袋水泥身亡（热度：99271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD%E7%9A%84%E7%BB%86%E8%8A%82%E5%86%99%E6%BB%A1%E6%95%AC%E6%84%8F%23" target="weibo">
 烈士陵园的细节写满敬意（热度：97898）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%80%E7%89%B5%E5%AD%9F%E7%BB%95%23" target="weibo">
+昀牵孟绕（热度：97338）
 </a>
 </li>
 
@@ -759,12 +861,6 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%BB%8E%E6%97%A9%E4%BA%B2%E5%88%B0%E6%99%9A%23" target="weibo">
-孟子义李昀锐从早亲到晚（热度：65937）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%8C%E5%AD%A6%E9%99%A2%E6%8B%9F%E8%81%9873%E5%90%8D%E5%8D%9A%E5%A3%AB%23" target="weibo">
 许昌学院拟聘73名博士（热度：65405）
 </a>
@@ -837,6 +933,12 @@ NBA媒体日（热度：59886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E5%90%8C%E6%AC%BE%E5%A5%B6%E8%8C%B6%E6%97%A9%E6%99%9A%E5%90%84%E4%B8%80%E6%9D%AF%23" target="weibo">
+明星同款奶茶早晚各一杯（热度：47556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E6%AC%A7%E8%8E%B1%E9%9B%85%E7%A7%80%E5%9C%BA%23" target="weibo">
 直击欧莱雅秀场（热度：46235）
 </a>
@@ -885,6 +987,12 @@ NBA媒体日（热度：59886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%94%B9%E6%95%99%E7%89%A9%E7%90%86%E7%94%9F%E7%89%A9%E8%BE%B9%E5%AD%A6%E8%BE%B9%E6%95%99%23" target="weibo">
+老师改教物理生物边学边教（热度：39085）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%B0%E4%BA%86%E8%B0%81%E9%83%BD%E7%90%86%E8%A7%A3%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
 到了谁都理解的年纪（热度：38915）
 </a>
@@ -917,6 +1025,12 @@ NBA媒体日（热度：59886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E7%A7%BB%E6%B0%91%E6%B8%B8%E8%A1%8C%23" target="weibo">
 日本反移民游行（热度：23863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E9%AB%98%E5%94%B1%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%23" target="weibo">
+孩子高唱我们是共产主义接班人（热度：23806）
 </a>
 </li>
 

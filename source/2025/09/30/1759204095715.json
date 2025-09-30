@@ -1,0 +1,410 @@
+{
+  "runTime": 1759204095715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967166,
+        "num": 1154746,
+        "word": "黄金价格飙涨",
+        "onboard_time": 1759198581,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 618156,
+        "num": 618156,
+        "word": "失联6天中国女孩因涉嫌参与电诈被捕",
+        "onboard_time": 1759193121,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30302,
+        "num": 600205,
+        "word": "盛世中国如你所愿",
+        "onboard_time": 1759163180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 598077,
+        "num": 598077,
+        "word": "日本引进5万印度人才引发抗议",
+        "onboard_time": 1759202239,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 352279,
+        "num": 352279,
+        "word": "泡泡玛特盲盒飙到1499元遭疯抢",
+        "onboard_time": 1759195040,
+        "rank": 4,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 346296,
+        "num": 346296,
+        "word": "医院隐翅虫皮炎患者接诊量翻倍",
+        "onboard_time": 1759199359,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230538,
+        "num": 230538,
+        "word": "多吃清道夫食物可预防血管斑块",
+        "onboard_time": 1759201099,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220807,
+        "num": 220807,
+        "word": "多伦多公园几乎全是印度人",
+        "onboard_time": 1759191741,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174667,
+        "num": 220793,
+        "word": "王伟中任内蒙古自治区党委书记",
+        "onboard_time": 1759198219,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23806,
+        "num": 220736,
+        "word": "孩子高唱我们是共产主义接班人",
+        "onboard_time": 1759203620,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1559077,
+        "num": 220613,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1091290,
+        "num": 220595,
+        "word": "董璇妥协",
+        "onboard_time": 1759199538,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488702,
+        "num": 220491,
+        "word": "入青云定档",
+        "onboard_time": 1759202060,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473399,
+        "num": 220422,
+        "word": "黄磊戴呼吸机睡觉",
+        "onboard_time": 1759189700,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359871,
+        "num": 220354,
+        "word": "北京地铁1号线",
+        "onboard_time": 1759197439,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278843,
+        "num": 220296,
+        "word": "第一批丁克夫妻离世遗产留给谁",
+        "onboard_time": 1759157364,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267097,
+        "num": 220225,
+        "word": "王暖暖坠崖10天财物被洗劫一空",
+        "onboard_time": 1759190000,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250379,
+        "num": 220158,
+        "word": "中国K字签证要守三关",
+        "onboard_time": 1759187118,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250270,
+        "num": 220031,
+        "word": "孟子义李昀锐从早亲到晚",
+        "onboard_time": 1759201339,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47556,
+        "num": 219994,
+        "word": "明星同款奶茶早晚各一杯",
+        "onboard_time": 1759202479,
+        "rank": 19,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 160353,
+        "num": 219941,
+        "word": "男生做老房子微缩模型年入500万",
+        "onboard_time": 1759192160,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316745,
+        "num": 219855,
+        "word": "准新娘称金价再涨三金手镯变耳环",
+        "onboard_time": 1759202120,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 297575,
+        "num": 219758,
+        "word": "千万要少吃外面的烤鱼",
+        "onboard_time": 1759194740,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 241537,
+        "num": 219745,
+        "word": "黄磊曾因心脏病突发送医",
+        "onboard_time": 1759201880,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219678,
+        "num": 219678,
+        "word": "行程图",
+        "onboard_time": 1759197141,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219343,
+        "num": 219343,
+        "word": "佟丽娅问小酒窝朵朵般配不",
+        "onboard_time": 1759203740,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35442,
+        "num": 206700,
+        "word": "直击欧莱雅秀场",
+        "onboard_time": 1759201519,
+        "rank": 26,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 200899,
+        "num": 200899,
+        "word": "美人余开机",
+        "onboard_time": 1759200920,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198706,
+        "num": 198706,
+        "word": "一笑随歌",
+        "onboard_time": 1759203079,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36875,
+        "num": 196313,
+        "word": "中国汽车需要更多的担当",
+        "onboard_time": 1759201459,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 194239,
+        "num": 194239,
+        "word": "如何看待中国增设K字签证",
+        "onboard_time": 1759202060,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192295,
+        "num": 192295,
+        "word": "邓超 不准把我P掉",
+        "onboard_time": 1759201820,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181501,
+        "num": 181501,
+        "word": "技能五子棋 要爆了",
+        "onboard_time": 1759203381,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165185,
+        "num": 165185,
+        "word": "美人余全阵容官宣",
+        "onboard_time": 1759202659,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149377,
+        "num": 149377,
+        "word": "谷围南亭动画",
+        "onboard_time": 1759203199,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145530,
+        "num": 145530,
+        "word": "内田真礼石川界人结婚",
+        "onboard_time": 1759202600,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136850,
+        "num": 136850,
+        "word": "李沁到哪儿都得干农活",
+        "onboard_time": 1759202000,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134380,
+        "num": 134380,
+        "word": "周也肯豆合影",
+        "onboard_time": 1759202839,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126783,
+        "num": 126783,
+        "word": "小孩高铁吵闹惹众怒",
+        "onboard_time": 1759196781,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39085,
+        "num": 120628,
+        "word": "老师改教物理生物边学边教",
+        "onboard_time": 1759203921,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 119970,
+        "num": 119970,
+        "word": "王力宏夸肖战",
+        "onboard_time": 1759194619,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117966,
+        "num": 117966,
+        "word": "迪丽热巴刘海",
+        "onboard_time": 1759158142,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117666,
+        "num": 117666,
+        "word": "存不到一千万都对不起这块肉",
+        "onboard_time": 1759203320,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 115512,
+        "num": 115512,
+        "word": "明天将出现的5种人",
+        "onboard_time": 1759203860,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111804,
+        "num": 111804,
+        "word": "小米17Pro背屏做痛机爆火",
+        "onboard_time": 1759196660,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106550,
+        "num": 106550,
+        "word": "以色列就空袭多哈向卡塔尔道歉",
+        "onboard_time": 1759189640,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99271,
+        "num": 99271,
+        "word": "尼日利亚男子挑战头顶4袋水泥身亡",
+        "onboard_time": 1759203921,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97457,
+        "num": 97457,
+        "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
+        "onboard_time": 1759150341,
+        "rank": 47,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 97338,
+        "num": 97338,
+        "word": "昀牵孟绕",
+        "onboard_time": 1759203320,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96584,
+        "num": 96584,
+        "word": "肖战工作室拍的红海",
+        "onboard_time": 1759188799,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}
