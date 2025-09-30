@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 03:20:32
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 03:37:16
 </p>
 </blockquote>
 <p>
@@ -382,7 +382,13 @@ AG对战KSG（热度：68928）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%B0%E9%9C%87%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%BC%95%E5%8F%91%E5%B1%80%E5%9C%B0%E6%B5%B7%E5%95%B8%23" target="weibo">
-菲律宾地震可能会引发局地海啸（热度：20637）
+菲律宾地震可能会引发局地海啸（热度：21571）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%236%E6%97%AC%E8%80%81%E4%BA%BA%E6%B5%91%E8%BA%AB%E9%85%B8%E7%97%9B%E7%A1%AE%E8%AF%8A%E7%BD%95%E8%A7%81%E7%A5%9E%E7%BB%8F%E6%A2%85%E6%AF%92%23" target="weibo">
+6旬老人浑身酸痛确诊罕见神经梅毒（热度：17468）
 </a>
 </li>
 
