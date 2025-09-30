@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759206607225,
+  "endTime": 1759207392416,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -811,6 +811,14 @@
       "category": "休闲,民生新闻"
     },
     {
+      "raw_hot": 614165,
+      "num": 266381,
+      "word": "佟丽娅问小酒窝朵朵般配不",
+      "onboard_time": 1759203740,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610407,
       "num": 292234,
       "word": "22岁全款300万买房后的生活",
@@ -904,14 +912,6 @@
       "word": "刘天池说朱媛媛去世后未见过辛柏青",
       "onboard_time": 1759100898,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 593555,
-      "num": 266381,
-      "word": "佟丽娅问小酒窝朵朵般配不",
-      "onboard_time": 1759203740,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1371,6 +1371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 449709,
+      "num": 449709,
+      "word": "涉电诈中国女孩曾让闺蜜去埃及陪她",
+      "onboard_time": 1759204822,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446957,
       "num": 167486,
       "word": "张维伊把婚房订成了三人间",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1759138100,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 426860,
-      "num": 426860,
-      "word": "涉电诈中国女孩曾让闺蜜去埃及陪她",
-      "onboard_time": 1759204822,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 424656,
@@ -1595,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 392858,
+      "num": 392858,
+      "word": "青岛保时捷女销售9月再夺销冠",
+      "onboard_time": 1759204521,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392739,
       "num": 226875,
       "word": "鸡排哥1分钟视频报价仅10元",
@@ -1648,14 +1656,6 @@
       "word": "女生吃饭粘掉4颗牙冠里面真牙全黑",
       "onboard_time": 1759061662,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381573,
-      "num": 381573,
-      "word": "青岛保时捷女销售9月再夺销冠",
-      "onboard_time": 1759204521,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -2331,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234284,
+      "num": 201575,
+      "word": "终于知道她为什么叫靓靓了",
+      "onboard_time": 1759205540,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232713,
       "num": 232713,
       "word": "宋祖儿 雪地玫瑰妆",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1759176313,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223677,
+      "num": 223677,
+      "word": "替烈士看看今天的中国",
+      "onboard_time": 1759206680,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 222729,
@@ -2648,14 +2664,6 @@
       "word": "合作方曝王一博有严重的高反",
       "onboard_time": 1759038321,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201575,
-      "num": 201575,
-      "word": "终于知道她为什么叫靓靓了",
-      "onboard_time": 1759205540,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -3003,11 +3011,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189169,
+      "num": 189169,
+      "word": "得力集团辞退跛脚员工",
+      "onboard_time": 1759206499,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188450,
       "num": 188450,
       "word": "闫妮 发疯的香蕉",
       "onboard_time": 1759125740,
       "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187756,
+      "num": 187756,
+      "word": "肖战被摄像怼脸拍三分钟",
+      "onboard_time": 1759204701,
+      "rank": 27,
       "category": "演出"
     },
     {
@@ -3289,14 +3313,6 @@
       "onboard_time": 1758991339,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174863,
-      "num": 174863,
-      "word": "肖战被摄像怼脸拍三分钟",
-      "onboard_time": 1759204701,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 174847,
@@ -3593,6 +3609,14 @@
       "onboard_time": 1759110980,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163008,
+      "num": 163008,
+      "word": "小沈阳叫沈佳润美美孩孩宝",
+      "onboard_time": 1759206381,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 162906,
@@ -4363,6 +4387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139310,
+      "num": 136355,
+      "word": "WTT北满混双头号种子爆冷出局",
+      "onboard_time": 1759206680,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138938,
       "num": 138938,
       "word": "林高远说很久没赢球了",
@@ -4587,6 +4619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133706,
+      "num": 133706,
+      "word": "国庆旅游",
+      "onboard_time": 1759207281,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 133665,
       "num": 133665,
       "word": "杨幂宋佳给辛芷蕾发了祝福",
@@ -4689,14 +4729,6 @@
       "onboard_time": 1759043961,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131616,
-      "num": 131616,
-      "word": "小沈阳叫沈佳润美美孩孩宝",
-      "onboard_time": 1759206381,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 131610,
@@ -4971,6 +5003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127512,
+      "num": 127512,
+      "word": "为卖牛给活牛注200多斤水",
+      "onboard_time": 1759206921,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127459,
       "num": 127459,
       "word": "官方回应湛江发生龙卷风",
@@ -5219,6 +5259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122768,
+      "num": 122768,
+      "word": "9月30日下班的我就这样",
+      "onboard_time": 1759207101,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122611,
       "num": 122611,
       "word": "丁程鑫赢了原相机",
@@ -5331,12 +5379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120839,
-      "num": 120839,
-      "word": "得力集团辞退跛脚员工",
-      "onboard_time": 1759206499,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 120760,
+      "num": 120760,
+      "word": "LPL冠军臻彩",
+      "onboard_time": 1759205661,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 120750,
@@ -5489,14 +5537,6 @@
       "onboard_time": 1759200079,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118059,
-      "num": 118059,
-      "word": "LPL冠军臻彩",
-      "onboard_time": 1759205661,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 118040,
@@ -6907,6 +6947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89313,
+      "num": 122872,
+      "word": "高铁宝妈教娃骂滚家教碎一地",
+      "onboard_time": 1759206801,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89288,
       "num": 89288,
       "word": "三甲医院医生科普戴呼吸机睡觉",
@@ -7233,6 +7281,14 @@
       "onboard_time": 1758977601,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80512,
+      "num": 130639,
+      "word": "王俊凯 巴黎时装周",
+      "onboard_time": 1759206441,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 80317,
@@ -7779,6 +7835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57989,
+      "num": 130187,
+      "word": "辛芷蕾回应中女",
+      "onboard_time": 1759205720,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 57545,
       "num": 239948,
       "word": "和孟子义一起喜提缤果S",
@@ -8139,6 +8203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42655,
+      "num": 124560,
+      "word": "官员为省委原书记提供管家式服务",
+      "onboard_time": 1759206980,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42036,
       "num": 207274,
       "word": "陈数状态越来越好了",
@@ -8193,14 +8265,6 @@
       "onboard_time": 1759080557,
       "rank": 45,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 39191,
-      "num": 130639,
-      "word": "王俊凯 巴黎时装周",
-      "onboard_time": 1759206441,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 39147,
@@ -8569,14 +8633,6 @@
       "onboard_time": 1759051461,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23031,
-      "num": 130187,
-      "word": "辛芷蕾回应中女",
-      "onboard_time": 1759205720,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 22853,

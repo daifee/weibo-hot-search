@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759206607225,
+  "endTime": 1759207392416,
   "band_list": [
     {
       "raw_hot": 2403665,
@@ -107,20 +107,20 @@
       "category": "休闲,民生新闻"
     },
     {
+      "raw_hot": 614165,
+      "num": 266381,
+      "word": "佟丽娅问小酒窝朵朵般配不",
+      "onboard_time": 1759203740,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598077,
       "num": 598077,
       "word": "日本引进5万印度人才引发抗议",
       "onboard_time": 1759202239,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 593555,
-      "num": 266381,
-      "word": "佟丽娅问小酒窝朵朵般配不",
-      "onboard_time": 1759203740,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 530317,
@@ -187,6 +187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 449709,
+      "num": 449709,
+      "word": "涉电诈中国女孩曾让闺蜜去埃及陪她",
+      "onboard_time": 1759204822,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441180,
       "num": 161853,
       "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
@@ -219,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426860,
-      "num": 426860,
-      "word": "涉电诈中国女孩曾让闺蜜去埃及陪她",
-      "onboard_time": 1759204822,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 407138,
       "num": 407138,
       "word": "以色列就空袭多哈向卡塔尔道歉",
@@ -235,8 +235,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 381573,
-      "num": 381573,
+      "raw_hot": 392858,
+      "num": 392858,
       "word": "青岛保时捷女销售9月再夺销冠",
       "onboard_time": 1759204521,
       "rank": 7,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234284,
+      "num": 201575,
+      "word": "终于知道她为什么叫靓靓了",
+      "onboard_time": 1759205540,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230788,
       "num": 197041,
       "word": "王力宏夸肖战",
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223677,
+      "num": 223677,
+      "word": "替烈士看看今天的中国",
+      "onboard_time": 1759206680,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 221189,
       "num": 186543,
       "word": "肖战工作室拍的红海",
@@ -439,14 +455,6 @@
       "num": 219678,
       "word": "行程图",
       "onboard_time": 1759197141,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201575,
-      "num": 201575,
-      "word": "终于知道她为什么叫靓靓了",
-      "onboard_time": 1759205540,
       "rank": 23,
       "category": "艺人"
     },
@@ -483,6 +491,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189169,
+      "num": 189169,
+      "word": "得力集团辞退跛脚员工",
+      "onboard_time": 1759206499,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187756,
+      "num": 187756,
+      "word": "肖战被摄像怼脸拍三分钟",
+      "onboard_time": 1759204701,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184391,
       "num": 184391,
       "word": "尼日利亚男子挑战头顶4袋水泥身亡",
@@ -497,14 +521,6 @@
       "onboard_time": 1759206261,
       "rank": 30,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 174863,
-      "num": 174863,
-      "word": "肖战被摄像怼脸拍三分钟",
-      "onboard_time": 1759204701,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 174667,
@@ -537,6 +553,14 @@
       "onboard_time": 1759202659,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163008,
+      "num": 163008,
+      "word": "小沈阳叫沈佳润美美孩孩宝",
+      "onboard_time": 1759206381,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 161156,
@@ -675,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139310,
+      "num": 136355,
+      "word": "WTT北满混双头号种子爆冷出局",
+      "onboard_time": 1759206680,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138532,
       "num": 138532,
       "word": "哄女友生存手册",
@@ -747,6 +779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133706,
+      "num": 133706,
+      "word": "国庆旅游",
+      "onboard_time": 1759207281,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132782,
       "num": 132782,
       "word": "女子高铁说讨厌小孩被宝妈怼哭",
@@ -769,14 +809,6 @@
       "onboard_time": 1759154122,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131616,
-      "num": 131616,
-      "word": "小沈阳叫沈佳润美美孩孩宝",
-      "onboard_time": 1759206381,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 130913,
@@ -843,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127512,
+      "num": 127512,
+      "word": "为卖牛给活牛注200多斤水",
+      "onboard_time": 1759206921,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125305,
       "num": 125305,
       "word": "为什么越忙越累反而越胖",
@@ -865,6 +905,14 @@
       "onboard_time": 1759190421,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122768,
+      "num": 122768,
+      "word": "9月30日下班的我就这样",
+      "onboard_time": 1759207101,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122563,
@@ -899,12 +947,12 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 120839,
-      "num": 120839,
-      "word": "得力集团辞退跛脚员工",
-      "onboard_time": 1759206499,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 120760,
+      "num": 120760,
+      "word": "LPL冠军臻彩",
+      "onboard_time": 1759205661,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 119737,
@@ -929,14 +977,6 @@
       "onboard_time": 1759200079,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118059,
-      "num": 118059,
-      "word": "LPL冠军臻彩",
-      "onboard_time": 1759205661,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 115778,
@@ -1155,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89313,
+      "num": 122872,
+      "word": "高铁宝妈教娃骂滚家教碎一地",
+      "onboard_time": 1759206801,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89288,
       "num": 89288,
       "word": "三甲医院医生科普戴呼吸机睡觉",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1759163479,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80512,
+      "num": 130639,
+      "word": "王俊凯 巴黎时装周",
+      "onboard_time": 1759206441,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 80146,
@@ -1363,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57989,
+      "num": 130187,
+      "word": "辛芷蕾回应中女",
+      "onboard_time": 1759205720,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 57157,
       "num": 57157,
       "word": "警方回应女童上托班耳朵疑被撕裂",
@@ -1435,20 +1499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42655,
+      "num": 124560,
+      "word": "官员为省委原书记提供管家式服务",
+      "onboard_time": 1759206980,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39752,
       "num": 46393,
       "word": "技能五子棋",
       "onboard_time": 1759150400,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39191,
-      "num": 130639,
-      "word": "王俊凯 巴黎时装周",
-      "onboard_time": 1759206441,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 39085,
@@ -1513,14 +1577,6 @@
       "onboard_time": 1759203620,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23031,
-      "num": 130187,
-      "word": "辛芷蕾回应中女",
-      "onboard_time": 1759205720,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 22419,

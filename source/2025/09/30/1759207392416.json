@@ -1,0 +1,410 @@
+{
+  "runTime": 1759207392416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 535191,
+        "num": 1085630,
+        "word": "多吃清道夫食物可预防血管斑块",
+        "onboard_time": 1759201099,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 450551,
+        "num": 450551,
+        "word": "医院隐翅虫皮炎患者接诊量翻倍",
+        "onboard_time": 1759199359,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28797,
+        "num": 449884,
+        "word": "盛世中国如你所愿",
+        "onboard_time": 1759163180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449709,
+        "num": 449709,
+        "word": "涉电诈中国女孩曾让闺蜜去埃及陪她",
+        "onboard_time": 1759204822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417293,
+        "num": 417293,
+        "word": "日本引进5万印度人才引发抗议",
+        "onboard_time": 1759202239,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 668005,
+        "num": 413447,
+        "word": "失联6天中国女孩因涉嫌参与电诈被捕",
+        "onboard_time": 1759193121,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392858,
+        "num": 392858,
+        "word": "青岛保时捷女销售9月再夺销冠",
+        "onboard_time": 1759204521,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242292,
+        "num": 242292,
+        "word": "泡泡玛特盲盒飙到1499元遭疯抢",
+        "onboard_time": 1759195040,
+        "rank": 7,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 223677,
+        "num": 223677,
+        "word": "替烈士看看今天的中国",
+        "onboard_time": 1759206680,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175833,
+        "num": 222884,
+        "word": "多伦多公园几乎全是印度人",
+        "onboard_time": 1759191741,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1401042,
+        "num": 220450,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632890,
+        "num": 217291,
+        "word": "董璇妥协",
+        "onboard_time": 1759199538,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614165,
+        "num": 214946,
+        "word": "佟丽娅问小酒窝朵朵般配不",
+        "onboard_time": 1759203740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419132,
+        "num": 211530,
+        "word": "入青云定档",
+        "onboard_time": 1759202060,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419080,
+        "num": 208827,
+        "word": "孟子义李昀锐从早亲到晚",
+        "onboard_time": 1759201339,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389731,
+        "num": 205133,
+        "word": "技能五子棋 要爆了",
+        "onboard_time": 1759203381,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289552,
+        "num": 203377,
+        "word": "黄磊戴呼吸机睡觉",
+        "onboard_time": 1759189700,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251950,
+        "num": 200504,
+        "word": "白鹿敖瑞鹏录制跑男",
+        "onboard_time": 1759204999,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234336,
+        "num": 198504,
+        "word": "第一批丁克夫妻离世遗产留给谁",
+        "onboard_time": 1759157364,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234284,
+        "num": 196903,
+        "word": "终于知道她为什么叫靓靓了",
+        "onboard_time": 1759205540,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271794,
+        "num": 194229,
+        "word": "千万要少吃外面的烤鱼",
+        "onboard_time": 1759194740,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 268467,
+        "num": 190263,
+        "word": "准新娘称金价再涨三金手镯变耳环",
+        "onboard_time": 1759202120,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189169,
+        "num": 189169,
+        "word": "得力集团辞退跛脚员工",
+        "onboard_time": 1759206499,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187756,
+        "num": 187756,
+        "word": "肖战被摄像怼脸拍三分钟",
+        "onboard_time": 1759204701,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180732,
+        "num": 180732,
+        "word": "尼日利亚男子挑战头顶4袋水泥身亡",
+        "onboard_time": 1759203921,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171038,
+        "num": 171038,
+        "word": "黄磊曾因心脏病突发送医",
+        "onboard_time": 1759201880,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163008,
+        "num": 163008,
+        "word": "小沈阳叫沈佳润美美孩孩宝",
+        "onboard_time": 1759206381,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142133,
+        "num": 142133,
+        "word": "邓超 不准把我P掉",
+        "onboard_time": 1759201820,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142062,
+        "num": 142062,
+        "word": "中国K字签证要守三关",
+        "onboard_time": 1759187118,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138557,
+        "num": 138557,
+        "word": "宝见受你一靠子",
+        "onboard_time": 1759206499,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166778,
+        "num": 137145,
+        "word": "高德预测今晚零点十大最繁忙高速",
+        "onboard_time": 1759206261,
+        "rank": 30,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 139310,
+        "num": 136355,
+        "word": "WTT北满混双头号种子爆冷出局",
+        "onboard_time": 1759206680,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134126,
+        "num": 134126,
+        "word": "员工称为还百万债务在西贝刷碗7年",
+        "onboard_time": 1759205540,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133706,
+        "num": 133706,
+        "word": "国庆旅游",
+        "onboard_time": 1759207281,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131325,
+        "num": 131325,
+        "word": "如何看待中国增设K字签证",
+        "onboard_time": 1759202060,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128972,
+        "num": 128972,
+        "word": "奔跑吧特别季",
+        "onboard_time": 1759205420,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127512,
+        "num": 127512,
+        "word": "为卖牛给活牛注200多斤水",
+        "onboard_time": 1759206921,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42655,
+        "num": 124560,
+        "word": "官员为省委原书记提供管家式服务",
+        "onboard_time": 1759206980,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80512,
+        "num": 123009,
+        "word": "王俊凯 巴黎时装周",
+        "onboard_time": 1759206441,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89313,
+        "num": 122872,
+        "word": "高铁宝妈教娃骂滚家教碎一地",
+        "onboard_time": 1759206801,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122768,
+        "num": 122768,
+        "word": "9月30日下班的我就这样",
+        "onboard_time": 1759207101,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118143,
+        "num": 120788,
+        "word": "王暖暖坠崖10天财物被洗劫一空",
+        "onboard_time": 1759190000,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120760,
+        "num": 120760,
+        "word": "LPL冠军臻彩",
+        "onboard_time": 1759205661,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118805,
+        "num": 118805,
+        "word": "王者新英雄离谱",
+        "onboard_time": 1759204701,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107322,
+        "num": 107322,
+        "word": "光遇复刻",
+        "onboard_time": 1759206081,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106585,
+        "num": 106585,
+        "word": "存不到一千万都对不起这块肉",
+        "onboard_time": 1759203320,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 104120,
+        "num": 104120,
+        "word": "明天将出现的5种人",
+        "onboard_time": 1759203860,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103606,
+        "num": 103606,
+        "word": "哄女友生存手册",
+        "onboard_time": 1759206561,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57989,
+        "num": 102833,
+        "word": "辛芷蕾回应中女",
+        "onboard_time": 1759205720,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102739,
+        "num": 102739,
+        "word": "王力宏夸肖战",
+        "onboard_time": 1759194619,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}
