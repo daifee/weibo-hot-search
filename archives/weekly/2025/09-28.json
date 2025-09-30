@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759249913238,
+  "endTime": 1759250795707,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 860737,
+      "num": 860737,
+      "word": "K字签证不能与移民划等号",
+      "onboard_time": 1759247721,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848890,
       "num": 336133,
       "word": "公公葬礼上女子发现丈夫竟出轨16年",
@@ -697,6 +705,14 @@
       "onboard_time": 1759035082,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 793602,
+      "num": 236978,
+      "word": "王乐晨道歉",
+      "onboard_time": 1759248381,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 792823,
@@ -1049,14 +1065,6 @@
       "onboard_time": 1759195040,
       "rank": 8,
       "category": "休闲,民生新闻"
-    },
-    {
-      "raw_hot": 614850,
-      "num": 614850,
-      "word": "K字签证不能与移民划等号",
-      "onboard_time": 1759247721,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 614165,
@@ -1553,14 +1561,6 @@
       "onboard_time": 1759039580,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489406,
-      "num": 236978,
-      "word": "王乐晨道歉",
-      "onboard_time": 1759248381,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 485305,
@@ -7859,6 +7859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103114,
+      "num": 103114,
+      "word": "海底捞回应国庆承办50桌婚宴",
+      "onboard_time": 1759248561,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103044,
       "num": 119248,
       "word": "乌克兰向日本道歉",
@@ -8065,6 +8073,14 @@
       "onboard_time": 1759030761,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101051,
+      "num": 94039,
+      "word": "普通女生苦练化妆技术的下场",
+      "onboard_time": 1759248741,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 100821,
@@ -8537,14 +8553,6 @@
       "onboard_time": 1759221740,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 92194,
-      "num": 92194,
-      "word": "海底捞回应国庆承办50桌婚宴",
-      "onboard_time": 1759248561,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91869,
@@ -9217,14 +9225,6 @@
       "onboard_time": 1759078158,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78538,
-      "num": 78538,
-      "word": "普通女生苦练化妆技术的下场",
-      "onboard_time": 1759248741,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 78404,

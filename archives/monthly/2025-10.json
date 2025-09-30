@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759249913238,
+  "endTime": 1759250795707,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -9,6 +9,22 @@
       "onboard_time": 1759240521,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 860737,
+      "num": 860737,
+      "word": "K字签证不能与移民划等号",
+      "onboard_time": 1759247721,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 793602,
+      "num": 236978,
+      "word": "王乐晨道歉",
+      "onboard_time": 1759248381,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 742367,
@@ -27,27 +43,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 614850,
-      "num": 614850,
-      "word": "K字签证不能与移民划等号",
-      "onboard_time": 1759247721,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 570592,
       "num": 237157,
       "word": "乐远cp选择不成为情侣",
       "onboard_time": 1759230981,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 489406,
-      "num": 236978,
-      "word": "王乐晨道歉",
-      "onboard_time": 1759248381,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -267,6 +267,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103114,
+      "num": 103114,
+      "word": "海底捞回应国庆承办50桌婚宴",
+      "onboard_time": 1759248561,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101051,
+      "num": 94039,
+      "word": "普通女生苦练化妆技术的下场",
+      "onboard_time": 1759248741,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 97793,
+      "num": 97793,
+      "word": "乌鲁木齐地震",
+      "onboard_time": 1759233021,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 96762,
       "num": 96762,
       "word": "辛柏青复工",
@@ -275,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92194,
-      "num": 92194,
-      "word": "海底捞回应国庆承办50桌婚宴",
-      "onboard_time": 1759248561,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 88210,
+      "num": 88210,
+      "word": "心动8如益CP官宣",
+      "onboard_time": 1759232424,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 86253,
@@ -291,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85885,
-      "num": 85885,
-      "word": "心动8如益CP官宣",
-      "onboard_time": 1759232424,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85268,
       "num": 85268,
       "word": "王力宏鹿晗 演唱会循环",
@@ -307,28 +323,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82763,
-      "num": 82763,
-      "word": "乌鲁木齐地震",
-      "onboard_time": 1759233021,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 79640,
       "num": 79640,
       "word": "心动的信号",
       "onboard_time": 1759231101,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78538,
-      "num": 78538,
-      "word": "普通女生苦练化妆技术的下场",
-      "onboard_time": 1759248741,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 76824,
@@ -345,6 +345,14 @@
       "onboard_time": 1759245981,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75110,
+      "num": 75110,
+      "word": "王楚钦孙颖莎背后都是CHINA",
+      "onboard_time": 1759245681,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 74106,
@@ -371,19 +379,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70072,
-      "num": 70072,
+      "raw_hot": 70710,
+      "num": 70710,
       "word": "王楚钦鹰眼挑战失败",
       "onboard_time": 1759230622,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 69502,
-      "num": 69502,
-      "word": "王楚钦孙颖莎背后都是CHINA",
-      "onboard_time": 1759245681,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -395,7 +395,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27155,
+      "raw_hot": 62504,
+      "num": 62504,
+      "word": "孙涵清刘子晗烟花下拥吻",
+      "onboard_time": 1759232782,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32323,
       "num": 517093,
       "word": "国庆中秋假期安全提示",
       "onboard_time": 1759238962,
