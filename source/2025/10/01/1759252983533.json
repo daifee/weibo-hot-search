@@ -1,0 +1,410 @@
+{
+  "runTime": 1759252983533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 355460,
+        "num": 490276,
+        "word": "国庆",
+        "onboard_time": 1759248741,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 251850,
+        "num": 251850,
+        "word": "新人花近3万在海底捞办50桌婚宴",
+        "onboard_time": 1759243283,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23006,
+        "num": 191016,
+        "word": "国庆中秋假期安全提示",
+        "onboard_time": 1759238962,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355527,
+        "num": 187225,
+        "word": "一耳光打走女儿母亲花光积蓄找10年",
+        "onboard_time": 1759243522,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310701,
+        "num": 182488,
+        "word": "海底捞回应国庆承办50桌婚宴",
+        "onboard_time": 1759248561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162020,
+        "num": 162020,
+        "word": "网友吐槽顺丰速孕车贴让人不适",
+        "onboard_time": 1759240821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151974,
+        "num": 151974,
+        "word": "中方关于联大第2758号决议的立场文件",
+        "onboard_time": 1759234882,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150227,
+        "num": 150227,
+        "word": "台湾是中国领土一部分",
+        "onboard_time": 1759235480,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145703,
+        "num": 145703,
+        "word": "女子过度医美面部馒化酷似面具人",
+        "onboard_time": 1759240341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121118,
+        "num": 121118,
+        "word": "女子提前出发睡服务区省1400元",
+        "onboard_time": 1759231461,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1396497,
+        "num": 120897,
+        "word": "王乐晨道歉",
+        "onboard_time": 1759248381,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569075,
+        "num": 119655,
+        "word": "K字签证不能与移民划等号",
+        "onboard_time": 1759247721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492359,
+        "num": 118451,
+        "word": "乐远cp选择不成为情侣",
+        "onboard_time": 1759230981,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355205,
+        "num": 117735,
+        "word": "张维伊回应继女改口",
+        "onboard_time": 1759243163,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216862,
+        "num": 116531,
+        "word": "文咏珊官宣当妈",
+        "onboard_time": 1759225341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213992,
+        "num": 115158,
+        "word": "户晨风全网销号",
+        "onboard_time": 1759236383,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204186,
+        "num": 113492,
+        "word": "肖战看沈佳润舞台直拍",
+        "onboard_time": 1759243462,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197255,
+        "num": 112405,
+        "word": "王菊怎么瘦成这样了",
+        "onboard_time": 1759233380,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130443,
+        "num": 112115,
+        "word": "黄灿灿说不会结婚了",
+        "onboard_time": 1759230442,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111058,
+        "num": 111058,
+        "word": "王乐晨卢远回应",
+        "onboard_time": 1759241661,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110605,
+        "num": 110605,
+        "word": "巴黎偶遇迪丽热巴邓为",
+        "onboard_time": 1759231642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96618,
+        "num": 96618,
+        "word": "半夜不用起来上厕所的方法找到了",
+        "onboard_time": 1759245261,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89520,
+        "num": 89520,
+        "word": "曝方媛已产下第三胎",
+        "onboard_time": 1759241541,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82559,
+        "num": 82559,
+        "word": "顺丰速运回应顺丰速孕低俗车贴",
+        "onboard_time": 1759245740,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82332,
+        "num": 82332,
+        "word": "堵车",
+        "onboard_time": 1759226240,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80646,
+        "num": 80646,
+        "word": "菲律宾6.9级地震",
+        "onboard_time": 1759242442,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76156,
+        "num": 76156,
+        "word": "美国博主谈中国在外网的口碑",
+        "onboard_time": 1759251138,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72420,
+        "num": 72420,
+        "word": "心动的信号",
+        "onboard_time": 1759231101,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68841,
+        "num": 68841,
+        "word": "乐远cp返场",
+        "onboard_time": 1759244062,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67881,
+        "num": 67881,
+        "word": "容祖儿晒与肖战王力宏合照",
+        "onboard_time": 1759245561,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90918,
+        "num": 67848,
+        "word": "普通女生苦练化妆技术的下场",
+        "onboard_time": 1759248741,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 67774,
+        "num": 67774,
+        "word": "妻子查看亡夫遗物发现婚外情录音",
+        "onboard_time": 1759233860,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67408,
+        "num": 67408,
+        "word": "陈哲远真不拿我当外人",
+        "onboard_time": 1759249160,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63542,
+        "num": 63542,
+        "word": "车车车车车高速公路车车车车车",
+        "onboard_time": 1759240221,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63517,
+        "num": 63517,
+        "word": "女子点自提咖啡却强行要求店员配送",
+        "onboard_time": 1759252158,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61617,
+        "num": 61617,
+        "word": "心动8如益CP官宣",
+        "onboard_time": 1759232424,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60006,
+        "num": 60006,
+        "word": "中华人民共和国成立76周年",
+        "onboard_time": 1759251618,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60238,
+        "num": 59592,
+        "word": "乌鲁木齐地震",
+        "onboard_time": 1759233021,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 57740,
+        "num": 57740,
+        "word": "徐如蓝方益炯线下",
+        "onboard_time": 1759252338,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53309,
+        "num": 53309,
+        "word": "赴山海豆瓣开分5.9分",
+        "onboard_time": 1759236802,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53178,
+        "num": 53178,
+        "word": "王楚钦被判发球遮挡",
+        "onboard_time": 1759231642,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51575,
+        "num": 51575,
+        "word": "周雨彤谍报上不封顶杀青照",
+        "onboard_time": 1759246101,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49750,
+        "num": 49750,
+        "word": "第一批堵车人堵成鸳鸯锅",
+        "onboard_time": 1759236021,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49212,
+        "num": 49212,
+        "word": "王楚钦鹰眼挑战失败",
+        "onboard_time": 1759230622,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49079,
+        "num": 49079,
+        "word": "校方称9人轮流睡8张床最公平",
+        "onboard_time": 1759243522,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46395,
+        "num": 46395,
+        "word": "雅安地震",
+        "onboard_time": 1759241841,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 46011,
+        "num": 46011,
+        "word": "孙涵清刘子晗烟花下拥吻",
+        "onboard_time": 1759232782,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43839,
+        "num": 43839,
+        "word": "全红婵发跳水动态",
+        "onboard_time": 1759245443,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43555,
+        "num": 43555,
+        "word": "王楚钦孙颖莎背后都是CHINA",
+        "onboard_time": 1759245681,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43035,
+        "num": 43555,
+        "word": "王力宏鹿晗 演唱会循环",
+        "onboard_time": 1759239262,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国各族人民致以节日祝贺#"
+    }
+  }
+}
