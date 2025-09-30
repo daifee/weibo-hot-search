@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759236821921,
+  "endTime": 1759237671458,
   "band_list": [
     {
       "raw_hot": 2873193,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484317,
+      "num": 484317,
+      "word": "乌鲁木齐地震",
+      "onboard_time": 1759233021,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 477990,
       "num": 187567,
       "word": "孙颖莎发球被裁判提醒",
@@ -483,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445206,
+      "num": 212134,
+      "word": "妻子查看亡夫遗物发现婚外情录音",
+      "onboard_time": 1759233860,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441180,
       "num": 161853,
       "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
@@ -531,6 +547,14 @@
       "category": "休闲,民生新闻"
     },
     {
+      "raw_hot": 378391,
+      "num": 378391,
+      "word": "被骗100万女孩要去英国找婆婆后续",
+      "onboard_time": 1759235422,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376765,
       "num": 376765,
       "word": "K签增设近两月为何突然引发关注",
@@ -547,20 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362486,
-      "num": 212134,
-      "word": "妻子查看亡夫遗物发现婚外情录音",
-      "onboard_time": 1759233860,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356024,
       "num": 169761,
       "word": "辛芷蕾回应庆余年3",
       "onboard_time": 1759213460,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353988,
+      "num": 353988,
+      "word": "台湾是中国领土一部分",
+      "onboard_time": 1759235480,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 352919,
@@ -779,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 268798,
+      "num": 200499,
+      "word": "户晨风全网销号",
+      "onboard_time": 1759236383,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 262069,
       "num": 262069,
       "word": "明家犯罪集团11人死刑",
@@ -795,22 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260305,
-      "num": 260305,
-      "word": "台湾是中国领土一部分",
-      "onboard_time": 1759235480,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 259164,
-      "num": 259164,
-      "word": "被骗100万女孩要去英国找婆婆后续",
-      "onboard_time": 1759235422,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256544,
       "num": 256544,
       "word": "白鹿敖瑞鹏录制跑男",
@@ -825,14 +841,6 @@
       "onboard_time": 1759191141,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255135,
-      "num": 255135,
-      "word": "乌鲁木齐地震",
-      "onboard_time": 1759233021,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 252481,
@@ -889,6 +897,14 @@
       "onboard_time": 1759206680,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 236372,
+      "num": 199525,
+      "word": "赴山海豆瓣开分5.9分",
+      "onboard_time": 1759236802,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 236220,
@@ -953,22 +969,6 @@
       "onboard_time": 1759226061,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200499,
-      "num": 200499,
-      "word": "户晨风全网销号",
-      "onboard_time": 1759236383,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 199525,
-      "num": 199525,
-      "word": "赴山海豆瓣开分5.9分",
-      "onboard_time": 1759236802,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 198706,
@@ -1195,12 +1195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161191,
+      "num": 161191,
+      "word": "孙颖莎递话筒给王楚钦",
+      "onboard_time": 1759233741,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161156,
       "num": 161156,
       "word": "入青云黄粱一梦群像预告",
       "onboard_time": 1759200799,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160031,
+      "num": 209266,
+      "word": "国庆天安门广场6点11分升旗",
+      "onboard_time": 1759235842,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159996,
@@ -1257,14 +1273,6 @@
       "onboard_time": 1759205420,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153445,
-      "num": 153445,
-      "word": "孙颖莎递话筒给王楚钦",
-      "onboard_time": 1759233741,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 153274,
@@ -1715,6 +1723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129007,
+      "num": 129007,
+      "word": "加拿大拒签八成印度学生",
+      "onboard_time": 1759233981,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128945,
       "num": 128945,
       "word": "小酒窝朵朵 娃娃亲",
@@ -1915,14 +1931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119999,
-      "num": 119999,
-      "word": "加拿大拒签八成印度学生",
-      "onboard_time": 1759233981,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 119737,
       "num": 119737,
       "word": "特朗普版加沙和平计划或将敲定",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1759213280,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 115026,
+      "num": 115026,
+      "word": "王楚钦回应挑战鹰眼",
+      "onboard_time": 1759237282,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 114497,
@@ -2163,6 +2179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106707,
+      "num": 106707,
+      "word": "第一批堵车人堵成鸳鸯锅",
+      "onboard_time": 1759236021,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106697,
       "num": 106697,
       "word": "王鹤棣李沁马立奥吉祥三宝",
@@ -2251,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104350,
+      "num": 104350,
+      "word": "孙颖莎王楚钦拿错毛巾",
+      "onboard_time": 1759237221,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103174,
       "num": 103174,
       "word": "2024年社保基金投资收益率8.1%",
@@ -2265,6 +2297,22 @@
       "onboard_time": 1759228101,
       "rank": 41,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 102885,
+      "num": 102885,
+      "word": "日本网友3年来带着冰墩墩旅游睡觉",
+      "onboard_time": 1759234701,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102521,
+      "num": 102521,
+      "word": "朱雨玲20比18高桥布鲁娜",
+      "onboard_time": 1759237162,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 102252,
@@ -2403,20 +2451,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94134,
+      "num": 146804,
+      "word": "高速服务区已全是泡面人",
+      "onboard_time": 1759231822,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94087,
       "num": 112605,
       "word": "十一放假前的状态belike",
       "onboard_time": 1759211720,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93962,
-      "num": 93962,
-      "word": "日本网友3年来带着冰墩墩旅游睡觉",
-      "onboard_time": 1759234701,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 93285,
@@ -2441,14 +2489,6 @@
       "onboard_time": 1759156941,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92150,
-      "num": 92150,
-      "word": "第一批堵车人堵成鸳鸯锅",
-      "onboard_time": 1759236021,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91777,
@@ -2587,14 +2627,6 @@
       "category": "体育,其它"
     },
     {
-      "raw_hot": 85189,
-      "num": 146804,
-      "word": "高速服务区已全是泡面人",
-      "onboard_time": 1759231822,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84765,
       "num": 84765,
       "word": "鸿蒙版12306实况窗上线",
@@ -2649,6 +2681,14 @@
       "onboard_time": 1759227442,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82920,
+      "num": 82920,
+      "word": "或许这就是分开的意义",
+      "onboard_time": 1759236922,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 81672,
@@ -2769,6 +2809,14 @@
       "onboard_time": 1759163058,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73766,
+      "num": 73766,
+      "word": "当地回应江西为何没有西贝",
+      "onboard_time": 1759237642,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71260,
@@ -2905,14 +2953,6 @@
       "onboard_time": 1759215861,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 61818,
-      "num": 209266,
-      "word": "国庆天安门广场6点11分升旗",
-      "onboard_time": 1759235842,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61793,
