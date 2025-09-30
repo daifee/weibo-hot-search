@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 12:43:12
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 13:25:01
 </p>
 </blockquote>
 <p>
@@ -4455,6 +4455,12 @@ iPhone17Pro 丑（热度：902583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE9%E6%9C%88%E5%86%8D%E5%A4%BA%E9%94%80%E5%86%A0%23" target="weibo">
+青岛保时捷女销售9月再夺销冠（热度：889022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E6%89%92%E9%A3%9E%E6%9C%BA%E9%A3%9E%E8%A1%8C94%E5%88%86%E9%92%9F%23" target="weibo">
 13岁男孩扒飞机飞行94分钟（热度：889018）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%9C%89%E9%AA%A8%E6%89%93%E4%BC%9E%23" target="weibo">
 张婧仪眉骨打伞（热度：747014）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98TES%23" target="weibo">
-BLG对战TES（热度：746464）
 </a>
 </li>
 

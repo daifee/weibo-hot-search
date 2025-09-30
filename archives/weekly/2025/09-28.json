@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759207392416,
+  "endTime": 1759209901504,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -425,6 +425,14 @@
       "onboard_time": 1759193121,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 889022,
+      "num": 1142243,
+      "word": "青岛保时捷女销售9月再夺销冠",
+      "onboard_time": 1759204521,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 888844,
@@ -963,6 +971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 575049,
+      "num": 575049,
+      "word": "得力集团辞退跛脚员工",
+      "onboard_time": 1759206499,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571648,
       "num": 571648,
       "word": "通行2小时缩至2分钟什么体验",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1759076901,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 473881,
+      "num": 196179,
+      "word": "纤维粒 夏思齐我出来了",
+      "onboard_time": 1759207699,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 473378,
@@ -1595,14 +1619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 392858,
-      "num": 392858,
-      "word": "青岛保时捷女销售9月再夺销冠",
-      "onboard_time": 1759204521,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 392739,
       "num": 226875,
       "word": "鸡排哥1分钟视频报价仅10元",
@@ -1875,6 +1891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 314731,
+      "num": 212660,
+      "word": "李晨 短剧狗不演我演",
+      "onboard_time": 1759208120,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311204,
       "num": 311204,
       "word": "乱港分子罗冠聪入境新加坡被拘",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1759113680,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 303248,
+      "num": 303248,
+      "word": "国庆提前出发的大聪明已堵路上",
+      "onboard_time": 1759207582,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301231,
@@ -2067,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283311,
+      "num": 208579,
+      "word": "终于知道她为什么叫靓靓了",
+      "onboard_time": 1759205540,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282592,
       "num": 282592,
       "word": "井迪忙活了一天发现才早上七点半",
@@ -2163,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258622,
+      "num": 258622,
+      "word": "网友称因跛脚在入职当天被得力辞退",
+      "onboard_time": 1759208301,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256544,
       "num": 256544,
       "word": "白鹿敖瑞鹏录制跑男",
@@ -2235,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243451,
+      "num": 195931,
+      "word": "肖战被摄像怼脸拍三分钟",
+      "onboard_time": 1759204701,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242352,
       "num": 242352,
       "word": "万达知情人回应王健林被限高",
@@ -2299,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237561,
+      "num": 237561,
+      "word": "替烈士看看今天的中国",
+      "onboard_time": 1759206680,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 237041,
       "num": 237041,
       "word": "王曼昱vs何卓佳",
@@ -2329,14 +2393,6 @@
       "onboard_time": 1759066284,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234284,
-      "num": 201575,
-      "word": "终于知道她为什么叫靓靓了",
-      "onboard_time": 1759205540,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 232713,
@@ -2425,14 +2481,6 @@
       "onboard_time": 1759176313,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223677,
-      "num": 223677,
-      "word": "替烈士看看今天的中国",
-      "onboard_time": 1759206680,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 222729,
@@ -2771,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196657,
+      "num": 196657,
+      "word": "孙颖莎vs朱思冰",
+      "onboard_time": 1759209261,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196240,
       "num": 196240,
       "word": "成毅赴山海关键剧情疑遭删减",
@@ -2865,6 +2921,14 @@
       "onboard_time": 1759155863,
       "rank": 45,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 193262,
+      "num": 193262,
+      "word": "小沈阳叫沈佳润美美孩孩宝",
+      "onboard_time": 1759206381,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 193244,
@@ -3011,27 +3075,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189169,
-      "num": 189169,
-      "word": "得力集团辞退跛脚员工",
-      "onboard_time": 1759206499,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188450,
       "num": 188450,
       "word": "闫妮 发疯的香蕉",
       "onboard_time": 1759125740,
       "rank": 15,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 187756,
-      "num": 187756,
-      "word": "肖战被摄像怼脸拍三分钟",
-      "onboard_time": 1759204701,
-      "rank": 27,
       "category": "演出"
     },
     {
@@ -3611,14 +3659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163008,
-      "num": 163008,
-      "word": "小沈阳叫沈佳润美美孩孩宝",
-      "onboard_time": 1759206381,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 162906,
       "num": 162906,
       "word": "王玉雯跳舞像老实人豁出去了",
@@ -3769,6 +3809,14 @@
       "onboard_time": 1759139960,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159759,
+      "num": 159759,
+      "word": "王一博拿到了国际D照",
+      "onboard_time": 1759207942,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 159326,
@@ -4009,6 +4057,22 @@
       "onboard_time": 1759073425,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 151275,
+      "num": 151275,
+      "word": "娜扎答应了我的求婚",
+      "onboard_time": 1759208000,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151063,
+      "num": 151063,
+      "word": "宝见受你一靠子",
+      "onboard_time": 1759206499,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 150979,
@@ -4259,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143134,
+      "num": 143134,
+      "word": "侯明昊问代拍赚多少钱一个月",
+      "onboard_time": 1759208781,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143022,
       "num": 214287,
       "word": "湾区升明月座位图",
@@ -4312,14 +4384,6 @@
       "word": "狗 我就不需要腋下管理了吧",
       "onboard_time": 1759049781,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 140946,
-      "num": 140946,
-      "word": "宝见受你一靠子",
-      "onboard_time": 1759206499,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -4545,6 +4609,14 @@
       "onboard_time": 1759195220,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135209,
+      "num": 135209,
+      "word": "恋综最生猛女嘉宾出现了",
+      "onboard_time": 1759207699,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 135177,
@@ -5803,6 +5875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111892,
+      "num": 111892,
+      "word": "偶遇小酒窝朵朵一起逛街",
+      "onboard_time": 1759207520,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111850,
       "num": 111850,
       "word": "14岁少女被特校虐待致死调查",
@@ -5824,6 +5904,14 @@
       "word": "莎头组合混双出战",
       "onboard_time": 1759196420,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111478,
+      "num": 111478,
+      "word": "林昀儒2比3宇田幸矢",
+      "onboard_time": 1759209860,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -5913,6 +6001,14 @@
       "onboard_time": 1759196901,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110060,
+      "num": 110060,
+      "word": "朱志鑫粉丝丢手机靠锁屏找回",
+      "onboard_time": 1759207942,
+      "rank": 44,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 109917,
@@ -6049,6 +6145,22 @@
       "onboard_time": 1759149561,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 107130,
+      "num": 107130,
+      "word": "心动的信号8",
+      "onboard_time": 1759207520,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106722,
+      "num": 106722,
+      "word": "短剧女主谈男主抛下剧组哄女友",
+      "onboard_time": 1759208181,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 106584,
@@ -6193,6 +6305,14 @@
       "onboard_time": 1759150160,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104799,
+      "num": 104799,
+      "word": "曝ASI没有金玉良缘",
+      "onboard_time": 1759209020,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 104757,
@@ -7595,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64451,
+      "num": 136078,
+      "word": "日媒称不能靠排名衡量中国选手实力",
+      "onboard_time": 1759209201,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64211,
       "num": 128412,
       "word": "10月15日起整治内卷式恶性竞争",
@@ -7641,6 +7769,14 @@
       "onboard_time": 1759187599,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62897,
+      "num": 193318,
+      "word": "胡兵瞿颖巴黎合体",
+      "onboard_time": 1759208721,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 62580,
@@ -8051,6 +8187,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 49568,
+      "num": 137259,
+      "word": "同学对张维伊的评价",
+      "onboard_time": 1759209381,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49371,
       "num": 191196,
       "word": "小沈阳成乐道L90第两万个用户",
@@ -8355,6 +8499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37237,
+      "num": 197426,
+      "word": "宋佳圣罗兰造型太权威了",
+      "onboard_time": 1759208721,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 36915,
       "num": 140261,
       "word": "中国今年出了三位A类影后",
@@ -8417,6 +8569,14 @@
       "onboard_time": 1759029020,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 31744,
+      "num": 218671,
+      "word": "即将迎来Jonathan的Dior女装首秀",
+      "onboard_time": 1759208661,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 31732,
