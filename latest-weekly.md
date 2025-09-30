@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/10/01 06:23:15
+本榜单时间：2025/09/28 00:27:59 ~ 2025/10/01 06:39:33
 </p>
 </blockquote>
 <p>
@@ -1671,6 +1671,12 @@ LV首尔开餐厅3只牛肉饺子243元（热度：370395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A0%B5%E8%BD%A6%E4%BA%BA%E5%A0%B5%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%23" target="weibo">
+第一批堵车人堵成鸳鸯锅（热度：356563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E5%BA%86%E4%BD%99%E5%B9%B43%23" target="weibo">
 辛芷蕾回应庆余年3（热度：356024）
 </a>
@@ -1781,6 +1787,12 @@ LV首尔开餐厅3只牛肉饺子243元（热度：370395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%BA%8615%E6%96%A4%E7%9A%84%E9%9D%A2%E9%83%A8%E6%8A%98%E5%8F%A0%E5%BA%A6%23" target="weibo">
 瘦了15斤的面部折叠度（热度：325194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E5%9B%9E%E5%BA%94%E9%A1%BA%E4%B8%B0%E9%80%9F%E5%AD%95%E4%BD%8E%E4%BF%97%E8%BD%A6%E8%B4%B4%23" target="weibo">
+顺丰速运回应顺丰速孕低俗车贴（热度：318222）
 </a>
 </li>
 
@@ -2025,12 +2037,6 @@ Peanut官宣今年退役（热度：275031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A0%B5%E8%BD%A6%E4%BA%BA%E5%A0%B5%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%23" target="weibo">
-第一批堵车人堵成鸳鸯锅（热度：270955）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%85%BF%E5%8F%97%E4%BC%A4%23" target="weibo">
 邓超腿受伤（热度：264356）
 </a>
@@ -2237,12 +2243,6 @@ GEN战胜HLE（热度：251190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%20%E6%88%91%E7%9A%84%E5%A8%98%E6%88%91%E4%B9%9F%E7%88%B1%E8%82%96%E6%88%98%23" target="weibo">
 林依轮 我的娘我也爱肖战（热度：236056）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E5%9B%9E%E5%BA%94%E9%A1%BA%E4%B8%B0%E9%80%9F%E5%AD%95%E4%BD%8E%E4%BF%97%E8%BD%A6%E8%B4%B4%23" target="weibo">
-顺丰速运回应顺丰速孕低俗车贴（热度：235160）
 </a>
 </li>
 
@@ -7677,6 +7677,12 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%9F%AD%E5%89%A7%E4%B8%80%E6%AC%A1%E9%9B%86%E9%BD%90%E4%BA%94%E5%BC%A0%E6%9D%83%E5%A8%81%E8%84%B8%23" target="weibo">
+谁家短剧一次集齐五张权威脸（热度：47017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E5%A5%B6%E5%A4%B4%E5%B1%B1%E6%9D%91%E6%9B%B4%E5%90%8D%E4%B8%BA%E5%A4%B4%E5%B1%B1%E6%9D%91%23" target="weibo">
 吉林奶头山村更名为头山村（热度：46758）
 </a>
@@ -7715,12 +7721,6 @@ JDG秋季赛夺冠（热度：56505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%88%90%E5%8A%9F%E5%BD%92%E5%8A%9F%E4%BA%8E%E8%BF%90%E6%B0%94%E6%9B%B4%E5%AE%B9%E6%98%93%E6%8E%A5%E5%8F%97%E5%A4%B1%E8%B4%A5%23" target="weibo">
 把成功归功于运气更容易接受失败（热度：44112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%9F%AD%E5%89%A7%E4%B8%80%E6%AC%A1%E9%9B%86%E9%BD%90%E4%BA%94%E5%BC%A0%E6%9D%83%E5%A8%81%E8%84%B8%23" target="weibo">
-谁家短剧一次集齐五张权威脸（热度：44077）
 </a>
 </li>
 
@@ -7785,6 +7785,12 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%236%E6%97%AC%E8%80%81%E4%BA%BA%E6%B5%91%E8%BA%AB%E9%85%B8%E7%97%9B%E7%A1%AE%E8%AF%8A%E7%BD%95%E8%A7%81%E7%A5%9E%E7%BB%8F%E6%A2%85%E6%AF%92%23" target="weibo">
+6旬老人浑身酸痛确诊罕见神经梅毒（热度：42441）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%95%B0%E7%8A%B6%E6%80%81%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A5%BD%E4%BA%86%23" target="weibo">
 陈数状态越来越好了（热度：42036）
 </a>
@@ -7811,6 +7817,12 @@ JDG秋季赛夺冠（热度：56505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E8%B4%9D%E5%B0%94%E8%BF%99%E6%98%AF%E7%BA%A2%E6%AF%AF%E4%B8%8D%E6%98%AF%E6%81%8B%E7%BB%BC%23" target="weibo">
 包贝尔这是红毯不是恋综（热度：41655）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E9%B9%BF%E6%99%97%E9%9A%94%E8%80%81%E8%BF%9C%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%BC%AF%E8%85%B0%23" target="weibo">
+王力宏鹿晗隔老远就开始弯腰（热度：41325）
 </a>
 </li>
 
@@ -7953,6 +7965,12 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E7%B1%B3%E5%85%B0%E9%9D%9E%E9%81%97%E6%9C%A8%E5%B1%90%E6%97%B6%E8%A3%85%E7%A7%80%23" target="weibo">
+蓝盈莹米兰非遗木屐时装秀（热度：33728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BE%E5%8F%B766666666%E6%89%8B%E6%9C%BA%E5%8F%B7200%E4%B8%87%E8%B5%B7%E6%8B%8D%23" target="weibo">
 尾号66666666手机号200万起拍（热度：33666）
 </a>
@@ -7977,8 +7995,8 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%236%E6%97%AC%E8%80%81%E4%BA%BA%E6%B5%91%E8%BA%AB%E9%85%B8%E7%97%9B%E7%A1%AE%E8%AF%8A%E7%BD%95%E8%A7%81%E7%A5%9E%E7%BB%8F%E6%A2%85%E6%AF%92%23" target="weibo">
-6旬老人浑身酸痛确诊罕见神经梅毒（热度：33356）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%B3%A2%E5%90%8E%E6%9C%89%E8%A5%BF%E8%B4%9D%E6%88%90%E5%95%86%E5%9C%BA%E6%9C%80%E5%86%B7%E6%B8%85%E8%BF%9E%E9%94%81%E9%A4%90%E5%8E%85%23" target="weibo">
+风波后有西贝成商场最冷清连锁餐厅（热度：32590）
 </a>
 </li>
 
@@ -8019,14 +8037,14 @@ BV米兰时装周明星状态（热度：30091）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%AF%B4%E4%BA%BA%E4%B8%8D%E5%A6%82%E8%BD%A6%E9%9D%A0%E8%B0%B1%23" target="weibo">
-陈震说人不如车靠谱（热度：28729）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%A5%BF%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8D%88%E9%A4%90%E9%80%89%E6%8B%A9%E8%87%AA%E7%94%B1%23" target="weibo">
+上海市西初中学生午餐选择自由（热度：29132）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%A5%BF%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8D%88%E9%A4%90%E9%80%89%E6%8B%A9%E8%87%AA%E7%94%B1%23" target="weibo">
-上海市西初中学生午餐选择自由（热度：28636）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%AF%B4%E4%BA%BA%E4%B8%8D%E5%A6%82%E8%BD%A6%E9%9D%A0%E8%B0%B1%23" target="weibo">
+陈震说人不如车靠谱（热度：28729）
 </a>
 </li>
 
@@ -8051,12 +8069,6 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%BE%AE%E5%8D%9A%E5%B0%8F%E7%BC%96%E5%88%9D%E4%BD%93%E9%AA%8C%23" target="weibo">
 郭艾伦微博小编初体验（热度：27425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E9%B9%BF%E6%99%97%E9%9A%94%E8%80%81%E8%BF%9C%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%BC%AF%E8%85%B0%23" target="weibo">
-王力宏鹿晗隔老远就开始弯腰（热度：27142）
 </a>
 </li>
 
@@ -8109,12 +8121,6 @@ BV米兰时装周明星状态（热度：30091）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%B3%A2%E5%90%8E%E6%9C%89%E8%A5%BF%E8%B4%9D%E6%88%90%E5%95%86%E5%9C%BA%E6%9C%80%E5%86%B7%E6%B8%85%E8%BF%9E%E9%94%81%E9%A4%90%E5%8E%85%23" target="weibo">
-风波后有西贝成商场最冷清连锁餐厅（热度：25016）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%9C%A8%E7%A7%98%E5%A2%83%E9%87%8C%E7%9C%8B%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%23" target="weibo">
 张若昀在秘境里看到了什么（热度：24971）
 </a>
@@ -8147,6 +8153,12 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E8%B5%B0%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23" target="weibo">
 行走大美中国（热度：24369）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%B0%E9%9C%87%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%BC%95%E5%8F%91%E5%B1%80%E5%9C%B0%E6%B5%B7%E5%95%B8%23" target="weibo">
+菲律宾地震可能会引发局地海啸（热度：24335）
 </a>
 </li>
 
@@ -8259,12 +8271,6 @@ BV米兰时装周明星状态（热度：30091）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%B0%E9%9C%87%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%BC%95%E5%8F%91%E5%B1%80%E5%9C%B0%E6%B5%B7%E5%95%B8%23" target="weibo">
-菲律宾地震可能会引发局地海啸（热度：21571）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%87%AA%E5%B7%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E9%80%97%E7%AC%91%E4%BA%86%23" target="weibo">
 汪苏泷自己给自己逗笑了（热度：21498）
 </a>
@@ -8285,6 +8291,12 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E7%9B%B4%E6%92%AD%23" target="weibo">
 鹭卓直播（热度：21258）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BC%E8%AF%B4%E9%99%88%E5%9E%A3%E5%AE%87%E6%98%AF%E5%B9%B4%E8%BD%BB%E5%B0%8F%E5%B0%86%23" target="weibo">
+蒯曼说陈垣宇是年轻小将（热度：20597）
 </a>
 </li>
 
@@ -8355,12 +8367,6 @@ BV米兰时装周明星状态（热度：30091）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E7%B1%B3%E5%85%B0%E9%9D%9E%E9%81%97%E6%9C%A8%E5%B1%90%E6%97%B6%E8%A3%85%E7%A7%80%23" target="weibo">
-蓝盈莹米兰非遗木屐时装秀（热度：17151）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%B5%B7%E7%AB%99%E5%AE%98%E5%AE%A3%23" target="weibo">
 刘宇演唱会上海站官宣（热度：16482）
 </a>
@@ -8375,12 +8381,6 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BC%97%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8Bpick%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 一众韩国选手pick王楚钦（热度：16340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BC%E8%AF%B4%E9%99%88%E5%9E%A3%E5%AE%87%E6%98%AF%E5%B9%B4%E8%BD%BB%E5%B0%8F%E5%B0%86%23" target="weibo">
-蒯曼说陈垣宇是年轻小将（热度：15376）
 </a>
 </li>
 

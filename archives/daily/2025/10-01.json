@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759270995540,
+  "endTime": 1759271973598,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -91,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356563,
+      "num": 356563,
+      "word": "第一批堵车人堵成鸳鸯锅",
+      "onboard_time": 1759236021,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343147,
       "num": 229749,
       "word": "文咏珊官宣当妈",
       "onboard_time": 1759225341,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318222,
+      "num": 318222,
+      "word": "顺丰速运回应顺丰速孕低俗车贴",
+      "onboard_time": 1759245740,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309928,
@@ -113,14 +129,6 @@
       "onboard_time": 1759233380,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270955,
-      "num": 270955,
-      "word": "第一批堵车人堵成鸳鸯锅",
-      "onboard_time": 1759236021,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270941,
@@ -161,14 +169,6 @@
       "onboard_time": 1759242442,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 235160,
-      "num": 235160,
-      "word": "顺丰速运回应顺丰速孕低俗车贴",
-      "onboard_time": 1759245740,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214147,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113967,
+      "num": 113967,
+      "word": "校方称9人轮流睡8张床最公平",
+      "onboard_time": 1759243522,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113872,
       "num": 113872,
       "word": "周雨彤谍报上不封顶杀青照",
@@ -273,14 +281,6 @@
       "onboard_time": 1759245443,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105606,
-      "num": 105606,
-      "word": "校方称9人轮流睡8张床最公平",
-      "onboard_time": 1759243522,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101051,
@@ -459,27 +459,51 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44077,
-      "num": 38381,
+      "raw_hot": 47017,
+      "num": 43701,
       "word": "谁家短剧一次集齐五张权威脸",
       "onboard_time": 1759254196,
       "rank": 28,
       "category": "剧集"
     },
     {
-      "raw_hot": 33821,
-      "num": 33821,
+      "raw_hot": 42441,
+      "num": 42441,
+      "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
+      "onboard_time": 1759258755,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41325,
+      "num": 41325,
+      "word": "王力宏鹿晗隔老远就开始弯腰",
+      "onboard_time": 1759269555,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 41041,
+      "num": 41041,
       "word": "90后女律师偷30多次蛋糕盒饭获刑",
       "onboard_time": 1759240761,
       "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33356,
-      "num": 33356,
-      "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
-      "onboard_time": 1759258755,
-      "rank": 45,
+      "raw_hot": 33728,
+      "num": 33728,
+      "word": "蓝盈莹米兰非遗木屐时装秀",
+      "onboard_time": 1759270756,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 32590,
+      "num": 32590,
+      "word": "风波后有西贝成商场最冷清连锁餐厅",
+      "onboard_time": 1759262474,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -491,20 +515,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28636,
-      "num": 28636,
+      "raw_hot": 29132,
+      "num": 29132,
       "word": "上海市西初中学生午餐选择自由",
       "onboard_time": 1759264634,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27142,
-      "num": 27142,
-      "word": "王力宏鹿晗隔老远就开始弯腰",
-      "onboard_time": 1759269555,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 26300,
@@ -515,32 +531,24 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 25016,
-      "num": 25016,
-      "word": "风波后有西贝成商场最冷清连锁餐厅",
-      "onboard_time": 1759262474,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21571,
-      "num": 22967,
+      "raw_hot": 24335,
+      "num": 26200,
       "word": "菲律宾地震可能会引发局地海啸",
       "onboard_time": 1759259115,
       "rank": 37,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17151,
-      "num": 22966,
-      "word": "蓝盈莹米兰非遗木屐时装秀",
-      "onboard_time": 1759270756,
-      "rank": 49,
-      "category": "作品衍生,时尚"
+      "raw_hot": 20597,
+      "num": 26197,
+      "word": "蒯曼说陈垣宇是年轻小将",
+      "onboard_time": 1759270095,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 16482,
-      "num": 27146,
+      "num": 41100,
       "word": "刘宇演唱会上海站官宣",
       "onboard_time": 1759259594,
       "rank": 29,
@@ -560,14 +568,6 @@
       "word": "一众韩国选手pick王楚钦",
       "onboard_time": 1759246822,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 15376,
-      "num": 22967,
-      "word": "蒯曼说陈垣宇是年轻小将",
-      "onboard_time": 1759270095,
-      "rank": 48,
       "category": "体育"
     },
     {
