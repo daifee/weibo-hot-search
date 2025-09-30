@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 11:48:15
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 12:30:07
 </p>
 </blockquote>
 <p>
@@ -5763,6 +5763,12 @@ iPhone17Promini首曝（热度：777010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%83%E6%B8%85%E9%81%93%E5%A4%AB%E9%A3%9F%E7%89%A9%E5%8F%AF%E9%A2%84%E9%98%B2%E8%A1%80%E7%AE%A1%E6%96%91%E5%9D%97%23" target="weibo">
+多吃清道夫食物可预防血管斑块（热度：768688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E7%9A%84%E9%9E%8B%E6%B2%A1%E6%9C%89%E8%B6%B3%E5%BC%93%E6%94%AF%E6%92%91%23" target="weibo">
 她们的鞋没有足弓支撑（热度：768685）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98TES%23" target="weibo">
 BLG对战TES（热度：746464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8E%9F%E5%9E%8B%E7%94%B7%E6%96%B9%E5%AE%B6%E5%B1%9E%E6%8B%92%E7%BB%9D%E5%9B%9E%E5%BA%94%23" target="weibo">
-消失的她原型男方家属拒绝回应（热度：746101）
 </a>
 </li>
 
