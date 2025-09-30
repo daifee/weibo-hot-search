@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759231324073,
+  "endTime": 1759232238362,
   "band_list": [
     {
       "raw_hot": 2873193,
@@ -17,6 +17,14 @@
       "onboard_time": 1759196120,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1726549,
+      "num": 189464,
+      "word": "乐远cp选择不成为情侣",
+      "onboard_time": 1759230981,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1611434,
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1285761,
+      "num": 191756,
+      "word": "心动的信号",
+      "onboard_time": 1759231101,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1214864,
       "num": 268897,
       "word": "董璇妥协",
@@ -59,8 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1174188,
-      "num": 1174188,
+      "raw_hot": 1206036,
+      "num": 1206036,
       "word": "堵车",
       "onboard_time": 1759226240,
       "rank": 27,
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 833442,
+      "num": 833442,
+      "word": "王楚钦鹰眼挑战失败",
+      "onboard_time": 1759230622,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 813058,
       "num": 813058,
       "word": "鸡排哥整治黄牛",
@@ -193,6 +217,14 @@
       "onboard_time": 1759210040,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 730346,
+      "num": 192466,
+      "word": "黄灿灿说不会结婚了",
+      "onboard_time": 1759230442,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 687922,
@@ -291,20 +323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 525839,
+      "num": 225211,
+      "word": "雷佳音13岁女儿身高",
+      "onboard_time": 1759227799,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503134,
       "num": 200505,
       "word": "董璇太得体了",
       "onboard_time": 1759190841,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499556,
-      "num": 225211,
-      "word": "雷佳音13岁女儿身高",
-      "onboard_time": 1759227799,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 490772,
@@ -336,6 +368,14 @@
       "word": "医院隐翅虫皮炎患者接诊量翻倍",
       "onboard_time": 1759199359,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466980,
+      "num": 196380,
+      "word": "K签证引争议症结在于公平焦虑",
+      "onboard_time": 1759215320,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -441,14 +481,6 @@
       "onboard_time": 1759211600,
       "rank": 9,
       "category": "休闲,民生新闻"
-    },
-    {
-      "raw_hot": 403135,
-      "num": 196380,
-      "word": "K签证引争议症结在于公平焦虑",
-      "onboard_time": 1759215320,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 376765,
@@ -635,14 +667,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 293051,
-      "num": 293051,
-      "word": "王楚钦鹰眼挑战失败",
-      "onboard_time": 1759230622,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290006,
       "num": 196904,
       "word": "鹿哈女友自曝全脸do",
@@ -691,14 +715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 264884,
-      "num": 192466,
-      "word": "黄灿灿说不会结婚了",
-      "onboard_time": 1759230442,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262069,
       "num": 262069,
       "word": "明家犯罪集团11人死刑",
@@ -731,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255195,
-      "num": 191756,
-      "word": "心动的信号",
-      "onboard_time": 1759231101,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252481,
       "num": 145080,
       "word": "中方决定增设K字签证",
@@ -769,6 +777,14 @@
       "onboard_time": 1759157782,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243158,
+      "num": 187864,
+      "word": "心动的信号8",
+      "onboard_time": 1759207520,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 241537,
@@ -811,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229422,
+      "num": 187781,
+      "word": "巴黎偶遇迪丽热巴邓为",
+      "onboard_time": 1759231642,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225308,
       "num": 225308,
       "word": "明家犯罪集团致14死6伤",
@@ -835,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214464,
-      "num": 189412,
-      "word": "乐远cp选择不成为情侣",
-      "onboard_time": 1759230981,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211666,
       "num": 211666,
       "word": "孙颖莎王楚钦混双开门红",
@@ -865,6 +881,14 @@
       "onboard_time": 1759203079,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194983,
+      "num": 187689,
+      "word": "王楚钦被判发球遮挡",
+      "onboard_time": 1759231642,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 194906,
@@ -905,6 +929,22 @@
       "onboard_time": 1759201820,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189587,
+      "num": 189587,
+      "word": "王楚钦孙颖莎3比1跨国组合",
+      "onboard_time": 1759231341,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187629,
+      "num": 187629,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1759223961,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 187396,
@@ -971,6 +1011,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 178189,
+      "num": 178189,
+      "word": "女子提前出发睡服务区省1400元",
+      "onboard_time": 1759231461,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177837,
       "num": 177837,
       "word": "原神",
@@ -993,14 +1041,6 @@
       "onboard_time": 1759198219,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 173567,
-      "num": 173567,
-      "word": "休想换走我的高铁F座",
-      "onboard_time": 1759223961,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 172556,
@@ -1043,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164965,
+      "num": 164965,
+      "word": "WTT",
+      "onboard_time": 1759231101,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163121,
       "num": 163121,
       "word": "柯爱林下车",
@@ -1060,7 +1108,7 @@
     },
     {
       "raw_hot": 159996,
-      "num": 672986,
+      "num": 836160,
       "word": "近代以来有约2000万名烈士为国捐躯",
       "onboard_time": 1759188680,
       "rank": 31,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1759214120,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157032,
+      "num": 157032,
+      "word": "EDG官宣Muggle离队",
+      "onboard_time": 1759232061,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 156940,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1759152862,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148022,
-      "num": 148022,
-      "word": "WTT",
-      "onboard_time": 1759231101,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 146691,
@@ -1499,6 +1547,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 130645,
+      "num": 130645,
+      "word": "因交通事故深中通道堵成深红色",
+      "onboard_time": 1759228701,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130470,
       "num": 130470,
       "word": "苏醒 老歌手的日常",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1759213340,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127654,
-      "num": 127654,
-      "word": "因交通事故深中通道堵成深红色",
-      "onboard_time": 1759228701,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127512,
@@ -1976,14 +2024,6 @@
       "word": "湾区升明月直播收视率第一的节目",
       "onboard_time": 1759190058,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 107130,
-      "num": 107130,
-      "word": "心动的信号8",
-      "onboard_time": 1759207520,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -2451,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80527,
+      "num": 146804,
+      "word": "高速服务区已全是泡面人",
+      "onboard_time": 1759231822,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80512,
       "num": 130639,
       "word": "王俊凯 巴黎时装周",
@@ -2585,6 +2633,14 @@
       "onboard_time": 1759144702,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67122,
+      "num": 148372,
+      "word": "6岁男孩养兔子染真菌永久秃发",
+      "onboard_time": 1759231941,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65619,

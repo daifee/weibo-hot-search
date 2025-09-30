@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 19:22:04
+本榜单时间：2025/09/30 00:26:37 ~ 2025/09/30 19:37:18
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E9%81%93%E6%AD%89%23" target="weibo">
 苏醒道歉（热度：2403665）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%BF%9Ccp%E9%80%89%E6%8B%A9%E4%B8%8D%E6%88%90%E4%B8%BA%E6%83%85%E4%BE%A3%23" target="weibo">
+乐远cp选择不成为情侣（热度：1726549）
 </a>
 </li>
 
@@ -51,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
+心动的信号（热度：1285761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%A6%A5%E5%8D%8F%23" target="weibo">
 董璇妥协（热度：1214864）
 </a>
@@ -58,7 +70,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%23" target="weibo">
-堵车（热度：1174188）
+堵车（热度：1206036）
 </a>
 </li>
 
@@ -123,6 +135,12 @@ roscoe去世（热度：869223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%B9%B0%E7%9C%BC%E6%8C%91%E6%88%98%E5%A4%B1%E8%B4%A5%23" target="weibo">
+王楚钦鹰眼挑战失败（热度：833442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%95%B4%E6%B2%BB%E9%BB%84%E7%89%9B%23" target="weibo">
 鸡排哥整治黄牛（热度：813058）
 </a>
@@ -155,6 +173,12 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8E%A8%E5%B8%88%E8%AF%B4%E7%94%9F%E9%B8%A1%E5%86%85%E8%84%8F%E8%A2%AB%E4%B8%8B%E6%B0%B4%E9%81%93%E5%86%B2%E8%B5%B0%E4%BA%86%23" target="weibo">
 西贝厨师说生鸡内脏被下水道冲走了（热度：738582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
+黄灿灿说不会结婚了（热度：730346）
 </a>
 </li>
 
@@ -231,14 +255,14 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%A4%AA%E5%BE%97%E4%BD%93%E4%BA%86%23" target="weibo">
-董璇太得体了（热度：503134）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B313%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%AB%E9%AB%98%23" target="weibo">
+雷佳音13岁女儿身高（热度：525839）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B313%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%AB%E9%AB%98%23" target="weibo">
-雷佳音13岁女儿身高（热度：499556）
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%A4%AA%E5%BE%97%E4%BD%93%E4%BA%86%23" target="weibo">
+董璇太得体了（热度：503134）
 </a>
 </li>
 
@@ -263,6 +287,12 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%AE%E7%82%8E%E6%82%A3%E8%80%85%E6%8E%A5%E8%AF%8A%E9%87%8F%E7%BF%BB%E5%80%8D%23" target="weibo">
 医院隐翅虫皮炎患者接诊量翻倍（热度：470568）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23K%E7%AD%BE%E8%AF%81%E5%BC%95%E4%BA%89%E8%AE%AE%E7%97%87%E7%BB%93%E5%9C%A8%E4%BA%8E%E5%85%AC%E5%B9%B3%E7%84%A6%E8%99%91%23" target="weibo">
+K签证引争议症结在于公平焦虑（热度：466980）
 </a>
 </li>
 
@@ -341,12 +371,6 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%96%B0%E5%93%8116%E5%80%8D%E6%BA%A2%E4%BB%B7%E9%BB%84%E7%89%9B%E7%8A%AF%E4%BA%86%E6%84%81%23" target="weibo">
 泡泡玛特新品16倍溢价黄牛犯了愁（热度：404911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23K%E7%AD%BE%E8%AF%81%E5%BC%95%E4%BA%89%E8%AE%AE%E7%97%87%E7%BB%93%E5%9C%A8%E4%BA%8E%E5%85%AC%E5%B9%B3%E7%84%A6%E8%99%91%23" target="weibo">
-K签证引争议症结在于公平焦虑（热度：403135）
 </a>
 </li>
 
@@ -489,12 +513,6 @@ K签增设近两月为何突然引发关注（热度：376765）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%B9%B0%E7%9C%BC%E6%8C%91%E6%88%98%E5%A4%B1%E8%B4%A5%23" target="weibo">
-王楚钦鹰眼挑战失败（热度：293051）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E5%A5%B3%E5%8F%8B%E8%87%AA%E6%9B%9D%E5%85%A8%E8%84%B8do%23" target="weibo">
 鹿哈女友自曝全脸do（热度：290006）
 </a>
@@ -531,12 +549,6 @@ Peanut官宣今年退役（热度：275031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
-黄灿灿说不会结婚了（热度：264884）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A211%E4%BA%BA%E6%AD%BB%E5%88%91%23" target="weibo">
 明家犯罪集团11人死刑（热度：262069）
 </a>
@@ -561,12 +573,6 @@ Peanut官宣今年退役（热度：275031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
-心动的信号（热度：255195）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%A2%9E%E8%AE%BEK%E5%AD%97%E7%AD%BE%E8%AF%81%23" target="weibo">
 中方决定增设K字签证（热度：252481）
 </a>
@@ -587,6 +593,12 @@ Peanut官宣今年退役（热度：275031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E7%AB%A5%E5%B0%8F%E5%8C%BA%E6%99%AF%E8%A7%82%E6%B1%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23" target="weibo">
 5岁男童小区景观池触电身亡（热度：244354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B78%23" target="weibo">
+心动的信号8（热度：243158）
 </a>
 </li>
 
@@ -621,6 +633,12 @@ Peanut官宣今年退役（热度：275031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%82%93%E4%B8%BA%23" target="weibo">
+巴黎偶遇迪丽热巴邓为（热度：229422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E8%87%B414%E6%AD%BB6%E4%BC%A4%23" target="weibo">
 明家犯罪集团致14死6伤（热度：225308）
 </a>
@@ -639,12 +657,6 @@ Peanut官宣今年退役（热度：275031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%BF%9Ccp%E9%80%89%E6%8B%A9%E4%B8%8D%E6%88%90%E4%B8%BA%E6%83%85%E4%BE%A3%23" target="weibo">
-乐远cp选择不成为情侣（热度：214464）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B7%B7%E5%8F%8C%E5%BC%80%E9%97%A8%E7%BA%A2%23" target="weibo">
 孙颖莎王楚钦混双开门红（热度：211666）
 </a>
@@ -659,6 +671,12 @@ Peanut官宣今年退役（热度：275031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%23" target="weibo">
 一笑随歌（热度：198706）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%A2%AB%E5%88%A4%E5%8F%91%E7%90%83%E9%81%AE%E6%8C%A1%23" target="weibo">
+王楚钦被判发球遮挡（热度：194983）
 </a>
 </li>
 
@@ -689,6 +707,18 @@ Peanut官宣今年退役（热度：275031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E4%B8%8D%E5%87%86%E6%8A%8A%E6%88%91P%E6%8E%89%23" target="weibo">
 邓超 不准把我P掉（热度：192295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%941%E8%B7%A8%E5%9B%BD%E7%BB%84%E5%90%88%23" target="weibo">
+王楚钦孙颖莎3比1跨国组合（热度：189587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%91%E6%83%B3%E6%8D%A2%E8%B5%B0%E6%88%91%E7%9A%84%E9%AB%98%E9%93%81F%E5%BA%A7%23" target="weibo">
+休想换走我的高铁F座（热度：187629）
 </a>
 </li>
 
@@ -741,6 +771,12 @@ Peanut官宣今年退役（热度：275031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E5%89%8D%E5%87%BA%E5%8F%91%E7%9D%A1%E6%9C%8D%E5%8A%A1%E5%8C%BA%E7%9C%811400%E5%85%83%23" target="weibo">
+女子提前出发睡服务区省1400元（热度：178189）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
 原神（热度：177837）
 </a>
@@ -755,12 +791,6 @@ Peanut官宣今年退役（热度：275031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%9F%E4%B8%AD%E4%BB%BB%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
 王伟中任内蒙古自治区党委书记（热度：174667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%91%E6%83%B3%E6%8D%A2%E8%B5%B0%E6%88%91%E7%9A%84%E9%AB%98%E9%93%81F%E5%BA%A7%23" target="weibo">
-休想换走我的高铁F座（热度：173567）
 </a>
 </li>
 
@@ -795,6 +825,12 @@ Peanut官宣今年退役（热度：275031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WTT%23" target="weibo">
+WTT（热度：164965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E7%88%B1%E6%9E%97%E4%B8%8B%E8%BD%A6%23" target="weibo">
 柯爱林下车（热度：163121）
 </a>
@@ -821,6 +857,12 @@ Peanut官宣今年退役（热度：275031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%20%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%23" target="weibo">
 沈佳润 大大方方（热度：157363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3Muggle%E7%A6%BB%E9%98%9F%23" target="weibo">
+EDG官宣Muggle离队（热度：157032）
 </a>
 </li>
 
@@ -893,12 +935,6 @@ TTG对战JDG（热度：148900）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%AC%E5%B1%B1%E6%B0%B4%23" target="weibo">
 敬山水（热度：148151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WTT%23" target="weibo">
-WTT（热度：148022）
 </a>
 </li>
 
@@ -1137,6 +1173,12 @@ WTT北满混双头号种子爆冷出局（热度：139310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E6%B7%B1%E4%B8%AD%E9%80%9A%E9%81%93%E5%A0%B5%E6%88%90%E6%B7%B1%E7%BA%A2%E8%89%B2%23" target="weibo">
+因交通事故深中通道堵成深红色（热度：130645）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%20%E8%80%81%E6%AD%8C%E6%89%8B%E7%9A%84%E6%97%A5%E5%B8%B8%23" target="weibo">
 苏醒 老歌手的日常（热度：130470）
 </a>
@@ -1199,12 +1241,6 @@ WTT北满混双头号种子爆冷出局（热度：139310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E6%88%90%E5%8A%9F%E5%90%8E%E7%9A%84%E5%89%AF%E4%BD%9C%E7%94%A8%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 减肥成功后的副作用出现了（热度：128008）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E6%B7%B1%E4%B8%AD%E9%80%9A%E9%81%93%E5%A0%B5%E6%88%90%E6%B7%B1%E7%BA%A2%E8%89%B2%23" target="weibo">
-因交通事故深中通道堵成深红色（热度：127654）
 </a>
 </li>
 
@@ -1493,12 +1529,6 @@ LPL冠军臻彩（热度：120760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E7%9B%B4%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%E7%AC%AC%E4%B8%80%E7%9A%84%E8%8A%82%E7%9B%AE%23" target="weibo">
 湾区升明月直播收视率第一的节目（热度：108378）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B78%23" target="weibo">
-心动的信号8（热度：107130）
 </a>
 </li>
 
@@ -1851,6 +1881,12 @@ LPL冠军臻彩（热度：120760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%B7%B2%E5%85%A8%E6%98%AF%E6%B3%A1%E9%9D%A2%E4%BA%BA%23" target="weibo">
+高速服务区已全是泡面人（热度：80527）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 王俊凯 巴黎时装周（热度：80512）
 </a>
@@ -1949,6 +1985,12 @@ LPL冠军臻彩（热度：120760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%8B%8D%E7%9A%84%E5%AD%99%E4%B8%80%E5%AE%81%23" target="weibo">
 路人拍的孙一宁（热度：67642）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E7%94%B7%E5%AD%A9%E5%85%BB%E5%85%94%E5%AD%90%E6%9F%93%E7%9C%9F%E8%8F%8C%E6%B0%B8%E4%B9%85%E7%A7%83%E5%8F%91%23" target="weibo">
+6岁男孩养兔子染真菌永久秃发（热度：67122）
 </a>
 </li>
 
