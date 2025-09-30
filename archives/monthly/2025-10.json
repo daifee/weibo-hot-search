@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759274603556,
+  "endTime": 1759275391045,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -35,6 +35,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 701518,
+      "num": 922242,
+      "word": "第一批堵车人堵成鸳鸯锅",
+      "onboard_time": 1759236021,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662256,
       "num": 662256,
       "word": "海底捞回应国庆承办50桌婚宴",
@@ -59,19 +67,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 569695,
-      "num": 569695,
-      "word": "第一批堵车人堵成鸳鸯锅",
-      "onboard_time": 1759236021,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 474998,
       "num": 474998,
       "word": "一耳光打走女儿母亲花光积蓄找10年",
       "onboard_time": 1759243522,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429669,
+      "num": 429669,
+      "word": "校方称9人轮流睡8张床最公平",
+      "onboard_time": 1759243522,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -99,20 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389578,
+      "num": 127191,
+      "word": "罗予彤哭着求黄灿灿分手",
+      "onboard_time": 1759274417,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 358777,
+      "num": 126077,
+      "word": "吴倩回到了赵默笙时期",
+      "onboard_time": 1759274417,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343147,
       "num": 229749,
       "word": "文咏珊官宣当妈",
       "onboard_time": 1759225341,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323699,
-      "num": 323699,
-      "word": "校方称9人轮流睡8张床最公平",
-      "onboard_time": 1759243522,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322499,
@@ -139,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284396,
-      "num": 106642,
-      "word": "罗予彤哭着求黄灿灿分手",
-      "onboard_time": 1759274417,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270941,
       "num": 270941,
       "word": "台湾是中国领土一部分",
@@ -169,14 +177,6 @@
       "onboard_time": 1759230442,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245299,
-      "num": 106227,
-      "word": "吴倩回到了赵默笙时期",
-      "onboard_time": 1759274417,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 238825,
@@ -227,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166567,
+      "num": 124493,
+      "word": "蓝盈莹米兰非遗木屐时装秀",
+      "onboard_time": 1759270756,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166186,
       "num": 166186,
       "word": "巴黎偶遇迪丽热巴邓为",
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146083,
+      "num": 123814,
+      "word": "张晚意马思纯 埃及法老和他的宠妃",
+      "onboard_time": 1759274479,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139185,
       "num": 139185,
       "word": "容祖儿晒与肖战王力宏合照",
@@ -259,12 +275,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133960,
-      "num": 105665,
-      "word": "蓝盈莹米兰非遗木屐时装秀",
-      "onboard_time": 1759270756,
-      "rank": 49,
-      "category": "作品衍生,时尚"
+      "raw_hot": 131879,
+      "num": 131879,
+      "word": "车车车车车高速公路车车车车车",
+      "onboard_time": 1759240221,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124919,
@@ -273,6 +289,22 @@
       "onboard_time": 1759244062,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122101,
+      "num": 69317,
+      "word": "失去半个舌头会对面容有影响",
+      "onboard_time": 1759274118,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 122076,
+      "num": 122076,
+      "word": "辛柏青复工",
+      "onboard_time": 1759237882,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 114015,
@@ -291,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107507,
-      "num": 107507,
-      "word": "车车车车车高速公路车车车车车",
-      "onboard_time": 1759240221,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105906,
       "num": 105906,
       "word": "全红婵发跳水动态",
@@ -315,20 +339,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 99584,
-      "num": 99584,
-      "word": "辛柏青复工",
-      "onboard_time": 1759237882,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97793,
       "num": 97793,
       "word": "乌鲁木齐地震",
       "onboard_time": 1759233021,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 94544,
+      "num": 94544,
+      "word": "统计称今年A股股民人均赚2.22万",
+      "onboard_time": 1759273878,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 88210,
@@ -363,20 +387,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80144,
+      "num": 131120,
+      "word": "90后女律师偷30多次蛋糕盒饭获刑",
+      "onboard_time": 1759240761,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79979,
+      "num": 79979,
+      "word": "王俊凯NBA名人赛C位海报",
+      "onboard_time": 1759274357,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 79864,
+      "num": 129814,
+      "word": "国庆升旗",
+      "onboard_time": 1759274598,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79640,
       "num": 79640,
       "word": "心动的信号",
       "onboard_time": 1759231101,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77943,
-      "num": 77943,
-      "word": "统计称今年A股股民人均赚2.22万",
-      "onboard_time": 1759273878,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 76824,
@@ -401,14 +441,6 @@
       "onboard_time": 1759245681,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74495,
-      "num": 74495,
-      "word": "张晚意马思纯 埃及法老和他的宠妃",
-      "onboard_time": 1759274479,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 74106,
@@ -451,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69614,
+      "num": 69614,
+      "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
+      "onboard_time": 1759258755,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68928,
       "num": 68928,
       "word": "AG对战KSG",
@@ -464,14 +504,6 @@
       "word": "一条微博祝福祖国",
       "onboard_time": 1759274118,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66374,
-      "num": 66374,
-      "word": "90后女律师偷30多次蛋糕盒饭获刑",
-      "onboard_time": 1759240761,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -499,28 +531,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61628,
-      "num": 61628,
-      "word": "王俊凯NBA名人赛C位海报",
-      "onboard_time": 1759274357,
-      "rank": 29,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 59756,
-      "num": 59756,
-      "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
-      "onboard_time": 1759258755,
-      "rank": 45,
+      "raw_hot": 62327,
+      "num": 62327,
+      "word": "祝新中国生日快乐",
+      "onboard_time": 1759275258,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59366,
-      "num": 59366,
+      "raw_hot": 59733,
+      "num": 59733,
       "word": "肖战用人民日报的图",
       "onboard_time": 1759253176,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58815,
+      "num": 58815,
+      "word": "马伯骞说心动9想自己谈恋爱",
+      "onboard_time": 1759274657,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 58780,
@@ -531,20 +563,44 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 55765,
-      "num": 55765,
-      "word": "失去半个舌头会对面容有影响",
-      "onboard_time": 1759274118,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 58256,
+      "num": 58256,
+      "word": "新中国成立七十六周年",
+      "onboard_time": 1759275079,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 54376,
-      "num": 54376,
+      "raw_hot": 58154,
+      "num": 56507,
       "word": "第一次看到狗回头睡脖子是悬空的",
       "onboard_time": 1759272077,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56618,
+      "num": 56618,
+      "word": "攒了几十年的洋相在儿女结婚这天全出了",
+      "onboard_time": 1759275137,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 54156,
+      "num": 54156,
+      "word": "小猫睡得不知天地为何物了",
+      "onboard_time": 1759275079,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53849,
+      "num": 53849,
+      "word": "王乐晨前女友",
+      "onboard_time": 1759275378,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 53759,
@@ -555,20 +611,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53071,
+      "num": 53071,
+      "word": "欧冠联赛",
+      "onboard_time": 1759274598,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48563,
+      "num": 56848,
+      "word": "雨果说王楚钦实力最强",
+      "onboard_time": 1759274538,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47365,
+      "num": 47365,
+      "word": "风波后有西贝成商场最冷清连锁餐厅",
+      "onboard_time": 1759262474,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47017,
       "num": 43701,
       "word": "谁家短剧一次集齐五张权威脸",
       "onboard_time": 1759254196,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44957,
-      "num": 44957,
-      "word": "风波后有西贝成商场最冷清连锁餐厅",
-      "onboard_time": 1759262474,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41325,
@@ -587,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33313,
-      "num": 46754,
-      "word": "雨果说王楚钦实力最强",
-      "onboard_time": 1759274538,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 33405,
+      "num": 118518,
+      "word": "特朗普称将与哈佛达成协议",
+      "onboard_time": 1759274958,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32323,
@@ -636,7 +708,7 @@
     },
     {
       "raw_hot": 16482,
-      "num": 53900,
+      "num": 56146,
       "word": "刘宇演唱会上海站官宣",
       "onboard_time": 1759259594,
       "rank": 29,

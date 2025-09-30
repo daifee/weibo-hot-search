@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759274603556,
+  "endTime": 1759275391045,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -859,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 701518,
+      "num": 922242,
+      "word": "第一批堵车人堵成鸳鸯锅",
+      "onboard_time": 1759236021,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 696384,
       "num": 387415,
       "word": "湾区升明月 检验唱功",
@@ -1288,14 +1296,6 @@
       "word": "如何把水硕水博堵在K签门外",
       "onboard_time": 1759220601,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 569695,
-      "num": 569695,
-      "word": "第一批堵车人堵成鸳鸯锅",
-      "onboard_time": 1759236021,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1915,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429669,
+      "num": 429669,
+      "word": "校方称9人轮流睡8张床最公平",
+      "onboard_time": 1759243522,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428700,
       "num": 245143,
       "word": "心力受损 长胖",
@@ -2083,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389578,
+      "num": 127191,
+      "word": "罗予彤哭着求黄灿灿分手",
+      "onboard_time": 1759274417,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389076,
       "num": 205433,
       "word": "董璇娘家弟弟重膀出击张维伊",
@@ -2217,6 +2233,14 @@
       "onboard_time": 1759122802,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358777,
+      "num": 126077,
+      "word": "吴倩回到了赵默笙时期",
+      "onboard_time": 1759274417,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 356024,
@@ -2369,14 +2393,6 @@
       "onboard_time": 1759223121,
       "rank": 17,
       "category": "情感,运动健身"
-    },
-    {
-      "raw_hot": 323699,
-      "num": 323699,
-      "word": "校方称9人轮流睡8张床最公平",
-      "onboard_time": 1759243522,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322499,
@@ -2651,14 +2667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284396,
-      "num": 106642,
-      "word": "罗予彤哭着求黄灿灿分手",
-      "onboard_time": 1759274417,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283311,
       "num": 208579,
       "word": "终于知道她为什么叫靓靓了",
@@ -2873,14 +2881,6 @@
       "onboard_time": 1759244062,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245299,
-      "num": 106227,
-      "word": "吴倩回到了赵默笙时期",
-      "onboard_time": 1759274417,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 244354,
@@ -4419,6 +4419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166567,
+      "num": 124493,
+      "word": "蓝盈莹米兰非遗木屐时装秀",
+      "onboard_time": 1759270756,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166507,
       "num": 177269,
       "word": "你跟我说王圣迪长这么大了",
@@ -5163,6 +5171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146083,
+      "num": 123814,
+      "word": "张晚意马思纯 埃及法老和他的宠妃",
+      "onboard_time": 1759274479,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145896,
       "num": 628966,
       "word": "试验三十号卫星01和02星发射成功",
@@ -5729,14 +5745,6 @@
       "onboard_time": 1759206081,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133960,
-      "num": 105665,
-      "word": "蓝盈莹米兰非遗木屐时装秀",
-      "onboard_time": 1759270756,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 133706,
@@ -6601,6 +6609,14 @@
       "onboard_time": 1759123581,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122101,
+      "num": 69317,
+      "word": "失去半个舌头会对面容有影响",
+      "onboard_time": 1759274118,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 122030,
@@ -8475,6 +8491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94544,
+      "num": 94544,
+      "word": "统计称今年A股股民人均赚2.22万",
+      "onboard_time": 1759273878,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94528,
       "num": 95338,
       "word": "孙颖莎硬仗",
@@ -9195,6 +9219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79979,
+      "num": 79979,
+      "word": "王俊凯NBA名人赛C位海报",
+      "onboard_time": 1759274357,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 79967,
       "num": 79967,
       "word": "第一份工作对人生选择的影响",
@@ -9209,6 +9241,14 @@
       "onboard_time": 1759238962,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79864,
+      "num": 129814,
+      "word": "国庆升旗",
+      "onboard_time": 1759274598,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79826,
@@ -9273,14 +9313,6 @@
       "onboard_time": 1759015821,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 77943,
-      "num": 77943,
-      "word": "统计称今年A股股民人均赚2.22万",
-      "onboard_time": 1759273878,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 77585,
@@ -9353,14 +9385,6 @@
       "onboard_time": 1759035624,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74495,
-      "num": 74495,
-      "word": "张晚意马思纯 埃及法老和他的宠妃",
-      "onboard_time": 1759274479,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 74265,
@@ -9513,6 +9537,14 @@
       "onboard_time": 1759251618,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69614,
+      "num": 69614,
+      "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
+      "onboard_time": 1759258755,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68718,
@@ -9747,6 +9779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62327,
+      "num": 62327,
+      "word": "祝新中国生日快乐",
+      "onboard_time": 1759275258,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62054,
       "num": 166240,
       "word": "圣罗兰女装秀直击",
@@ -9769,14 +9809,6 @@
       "onboard_time": 1759162280,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61628,
-      "num": 61628,
-      "word": "王俊凯NBA名人赛C位海报",
-      "onboard_time": 1759274357,
-      "rank": 29,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 61595,
@@ -9883,12 +9915,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 59756,
-      "num": 59756,
-      "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
-      "onboard_time": 1759258755,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 59733,
+      "num": 59733,
+      "word": "肖战用人民日报的图",
+      "onboard_time": 1759253176,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 59725,
@@ -9905,14 +9937,6 @@
       "onboard_time": 1759015278,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 59366,
-      "num": 59366,
-      "word": "肖战用人民日报的图",
-      "onboard_time": 1759253176,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 59286,
@@ -9955,6 +9979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58815,
+      "num": 58815,
+      "word": "马伯骞说心动9想自己谈恋爱",
+      "onboard_time": 1759274657,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58780,
       "num": 58780,
       "word": "一个中国原则的基本涵义有3层",
@@ -9977,6 +10009,22 @@
       "onboard_time": 1759127060,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58256,
+      "num": 58256,
+      "word": "新中国成立七十六周年",
+      "onboard_time": 1759275079,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58154,
+      "num": 56507,
+      "word": "第一次看到狗回头睡脖子是悬空的",
+      "onboard_time": 1759272077,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 57989,
@@ -10017,6 +10065,14 @@
       "onboard_time": 1759037842,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56618,
+      "num": 56618,
+      "word": "攒了几十年的洋相在儿女结婚这天全出了",
+      "onboard_time": 1759275137,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 56606,
@@ -10067,14 +10123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55765,
-      "num": 55765,
-      "word": "失去半个舌头会对面容有影响",
-      "onboard_time": 1759274118,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 55727,
       "num": 65261,
       "word": "内娱电竞群像",
@@ -10107,20 +10155,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54376,
-      "num": 54376,
-      "word": "第一次看到狗回头睡脖子是悬空的",
-      "onboard_time": 1759272077,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 54357,
       "num": 117502,
       "word": "白宇拍的孙颖莎真灿烂",
       "onboard_time": 1759053739,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54156,
+      "num": 54156,
+      "word": "小猫睡得不知天地为何物了",
+      "onboard_time": 1759275079,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53849,
+      "num": 53849,
+      "word": "王乐晨前女友",
+      "onboard_time": 1759275378,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 53759,
@@ -10177,6 +10233,14 @@
       "onboard_time": 1759133901,
       "rank": 38,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 53071,
+      "num": 53071,
+      "word": "欧冠联赛",
+      "onboard_time": 1759274598,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 51852,
@@ -10259,6 +10323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48563,
+      "num": 56848,
+      "word": "雨果说王楚钦实力最强",
+      "onboard_time": 1759274538,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48226,
       "num": 128164,
       "word": "丁程鑫被自己的口误吓死了",
@@ -10289,6 +10361,14 @@
       "onboard_time": 1759228641,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47365,
+      "num": 47365,
+      "word": "风波后有西贝成商场最冷清连锁餐厅",
+      "onboard_time": 1759262474,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47341,
@@ -10353,14 +10433,6 @@
       "onboard_time": 1759015278,
       "rank": 47,
       "category": "科学科普,民生新闻"
-    },
-    {
-      "raw_hot": 44957,
-      "num": 44957,
-      "word": "风波后有西贝成商场最冷清连锁餐厅",
-      "onboard_time": 1759262474,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44693,
@@ -10715,6 +10787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33405,
+      "num": 118518,
+      "word": "特朗普称将与哈佛达成协议",
+      "onboard_time": 1759274958,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33404,
       "num": 129396,
       "word": "杜海涛伦敦上语言学校",
@@ -10729,14 +10809,6 @@
       "onboard_time": 1759055479,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33313,
-      "num": 46754,
-      "word": "雨果说王楚钦实力最强",
-      "onboard_time": 1759274538,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 32312,
@@ -11228,7 +11300,7 @@
     },
     {
       "raw_hot": 16482,
-      "num": 53900,
+      "num": 56146,
       "word": "刘宇演唱会上海站官宣",
       "onboard_time": 1759259594,
       "rank": 29,
