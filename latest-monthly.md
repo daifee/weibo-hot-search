@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 09:47:59
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 10:09:35
 </p>
 </blockquote>
 <p>
@@ -641,6 +641,12 @@ iPhone17系列价格（热度：3052336）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%83%E8%8A%82%E7%A6%81%E5%BF%8C%E6%98%AF%E5%AF%B9%E4%BC%A0%E7%BB%9F%E8%8A%82%E6%97%A5%E7%9A%84%E6%9B%B2%E8%A7%A3%23" target="weibo">
 中元节禁忌是对传统节日的曲解（热度：2407755）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E9%81%93%E6%AD%89%23" target="weibo">
+苏醒道歉（热度：2403665）
 </a>
 </li>
 
@@ -1649,12 +1655,6 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%89%E6%B1%89%E8%82%BF%E4%B9%88%E4%BA%86%23" target="weibo">
 许光汉肿么了（热度：1563618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E9%81%93%E6%AD%89%23" target="weibo">
-苏醒道歉（热度：1560118）
 </a>
 </li>
 
@@ -4276,7 +4276,7 @@ AirPods Pro3（热度：944535）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%946%E5%A4%A9%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E5%9B%A0%E6%B6%89%E5%AB%8C%E5%8F%82%E4%B8%8E%E7%94%B5%E8%AF%88%E8%A2%AB%E6%8D%95%23" target="weibo">
-失联6天中国女孩因涉嫌参与电诈被捕（热度：905012）
+失联6天中国女孩因涉嫌参与电诈被捕（热度：906218）
 </a>
 </li>
 
