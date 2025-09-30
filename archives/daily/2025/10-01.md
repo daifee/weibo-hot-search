@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 02:33:20
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/01 02:47:27
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@ AG对战KSG（热度：68928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E4%B9%9D%E6%9C%88%23" target="weibo">
 一条plog告别九月（热度：16459）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BC%97%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8Bpick%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+一众韩国选手pick王楚钦（热度：16340）
 </a>
 </li>
 
