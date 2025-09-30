@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759217133232,
+  "endTime": 1759217980190,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1611434,
+      "num": 1611434,
+      "word": "韩国人能不能别放假了",
+      "onboard_time": 1759213460,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1593863,
       "num": 153368,
       "word": "时代少年团SDG夺冠",
@@ -105,14 +113,6 @@
       "onboard_time": 1759114400,
       "rank": 8,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1500396,
-      "num": 1500396,
-      "word": "韩国人能不能别放假了",
-      "onboard_time": 1759213460,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1492455,
@@ -369,6 +369,14 @@
       "onboard_time": 1759193001,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 955831,
+      "num": 955831,
+      "word": "得力CEO道歉",
+      "onboard_time": 1759212801,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 954525,
@@ -723,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 684412,
-      "num": 684412,
-      "word": "得力CEO道歉",
-      "onboard_time": 1759212801,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 677050,
       "num": 910845,
       "word": "航班提前15小时起飞惊呆乘客",
@@ -745,6 +745,14 @@
       "onboard_time": 1759150939,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 676176,
+      "num": 676176,
+      "word": "华南理工大学通报",
+      "onboard_time": 1759217121,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 671940,
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547639,
+      "num": 222101,
+      "word": "娜扎答应了我的求婚",
+      "onboard_time": 1759208000,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538279,
       "num": 352333,
       "word": "瘦10斤比我瘦30斤还明显",
@@ -1153,14 +1169,6 @@
       "onboard_time": 1759043060,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 519129,
-      "num": 222101,
-      "word": "娜扎答应了我的求婚",
-      "onboard_time": 1759208000,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 514880,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1759076901,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 477990,
+      "num": 187567,
+      "word": "孙颖莎发球被裁判提醒",
+      "onboard_time": 1759213160,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 473881,
@@ -1755,14 +1771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 379850,
-      "num": 187567,
-      "word": "孙颖莎发球被裁判提醒",
-      "onboard_time": 1759213160,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376765,
       "num": 376765,
       "word": "K签增设近两月为何突然引发关注",
@@ -1851,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356024,
+      "num": 167288,
+      "word": "辛芷蕾回应庆余年3",
+      "onboard_time": 1759213460,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 355962,
       "num": 355962,
       "word": "何同学的iPhone17测评视频",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1759187118,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349252,
-      "num": 167288,
-      "word": "辛芷蕾回应庆余年3",
-      "onboard_time": 1759213460,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 346200,
@@ -2185,6 +2193,14 @@
       "onboard_time": 1759127001,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284832,
+      "num": 284832,
+      "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
+      "onboard_time": 1759212320,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 283311,
@@ -2507,6 +2523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 231898,
+      "num": 152481,
+      "word": "张维伊没有亲小酒窝",
+      "onboard_time": 1759217901,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231771,
       "num": 208643,
       "word": "被凌峰老爷子唱哭",
@@ -2689,6 +2713,14 @@
       "onboard_time": 1759121421,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213810,
+      "num": 152463,
+      "word": "刘美含食物中毒坐轮椅",
+      "onboard_time": 1759217541,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 213297,
@@ -3211,14 +3243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186281,
-      "num": 186281,
-      "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
-      "onboard_time": 1759212320,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 185998,
       "num": 185998,
       "word": "周深动情演唱故乡的云",
@@ -3593,6 +3617,14 @@
       "onboard_time": 1759151421,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170368,
+      "num": 152434,
+      "word": "野火月亮 白鹿",
+      "onboard_time": 1759217360,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 169517,
@@ -4395,6 +4427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145526,
+      "num": 145526,
+      "word": "鸡排哥整治黄牛",
+      "onboard_time": 1759217360,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145445,
       "num": 145445,
       "word": "深圳东站回应女子检票口大闹",
@@ -4588,7 +4628,7 @@
     },
     {
       "raw_hot": 139955,
-      "num": 139955,
+      "num": 150973,
       "word": "豪华品牌集体让歪果仁破防了",
       "onboard_time": 1759216221,
       "rank": 29,
@@ -4937,6 +4977,14 @@
       "onboard_time": 1759209860,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132386,
+      "num": 132386,
+      "word": "提前开启假期模式",
+      "onboard_time": 1759217901,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 132336,
@@ -5297,6 +5345,14 @@
       "onboard_time": 1759052540,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126697,
+      "num": 126697,
+      "word": "A股放量200亿",
+      "onboard_time": 1759217961,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 126687,
@@ -5891,6 +5947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117418,
+      "num": 117418,
+      "word": "买这个菜板的人肯定不烧饭",
+      "onboard_time": 1759217061,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117240,
       "num": 118443,
       "word": "T1包揽LCK收视率前五",
@@ -6169,6 +6233,14 @@
       "onboard_time": 1759022301,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 111624,
+      "num": 111624,
+      "word": "猫 妈妈比死神先到一步",
+      "onboard_time": 1759214961,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111585,
@@ -6651,14 +6723,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 104041,
-      "num": 104041,
-      "word": "猫 妈妈比死神先到一步",
-      "onboard_time": 1759214961,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103786,
       "num": 103786,
       "word": "国庆中秋假期自驾安全提示",
@@ -6816,14 +6880,6 @@
       "word": "学生逃课躲山姆老师被拦在外",
       "onboard_time": 1759217061,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 101904,
-      "num": 101904,
-      "word": "买这个菜板的人肯定不烧饭",
-      "onboard_time": 1759217061,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -7988,7 +8044,7 @@
     },
     {
       "raw_hot": 68718,
-      "num": 635938,
+      "num": 797914,
       "word": "盛世中国如你所愿",
       "onboard_time": 1759163180,
       "rank": 44,
@@ -8939,6 +8995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33666,
+      "num": 127390,
+      "word": "尾号66666666手机号200万起拍",
+      "onboard_time": 1759217599,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33617,
       "num": 64975,
       "word": "原来不扫兴的父母都拥有孩子视角",
@@ -9195,6 +9259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22922,
+      "num": 126837,
+      "word": "刘雯巴黎时装周开走",
+      "onboard_time": 1759216999,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 22853,
       "num": 119858,
       "word": "宋佳穿个人字拖就去巴黎了",
@@ -9371,14 +9443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15863,
-      "num": 118569,
-      "word": "刘雯巴黎时装周开走",
-      "onboard_time": 1759216999,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 15353,
       "num": 25778,
       "word": "等来了孙悦的祝你平安",
@@ -9465,6 +9529,14 @@
       "onboard_time": 1759155621,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9936,
+      "num": 126743,
+      "word": "黄老板参加赛琳娜婚礼",
+      "onboard_time": 1759217300,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 9514,

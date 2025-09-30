@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 15:25:33
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 15:39:40
 </p>
 </blockquote>
 <p>
@@ -1551,6 +1551,12 @@ K签证（热度：1717431）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
+韩国人能不能别放假了（热度：1611434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E8%A2%AB%E6%B2%89%E5%B0%B8%E8%83%B8%E9%83%A8%E5%81%87%E4%BD%93%E5%8D%B0%E4%B8%AD%E6%96%87%23" target="weibo">
 女子在泰被沉尸胸部假体印中文（热度：1609486）
 </a>
@@ -1805,12 +1811,6 @@ ally官宣分手（热度：1529775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%B1%E4%BB%AC%E6%9C%89%E9%A3%9E%E9%A3%9E%E9%A3%9E%E9%A3%9E%E9%A3%9E%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A3%9E%E6%9C%BA%E4%BA%86%23" target="weibo">
 咱们有飞飞飞飞飞不完的飞机了（热度：1503450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
-韩国人能不能别放假了（热度：1500396）
 </a>
 </li>
 
@@ -3951,6 +3951,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%8A%9BCEO%E9%81%93%E6%AD%89%23" target="weibo">
+得力CEO道歉（热度：955831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B0%86%E8%87%B355%E5%B2%81%E5%A4%A7%E8%B1%A1%E6%97%A0%E9%81%BF%E9%9B%A8%E5%86%85%E8%88%8D%23" target="weibo">
 台风将至55岁大象无避雨内舍（热度：955385）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%88%86%E6%96%99%E6%9D%A8%E5%B9%82%E6%97%A0%E7%BC%98%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
 粉丝爆料杨幂无缘金鸡奖（热度：747781）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E4%BB%BB%E5%BD%AC%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
-蒋欣任彬再见爱人（热度：747749）
 </a>
 </li>
 

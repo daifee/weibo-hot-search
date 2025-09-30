@@ -1,0 +1,410 @@
+{
+  "runTime": 1759217980190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611434,
+        "num": 1611434,
+        "word": "韩国人能不能别放假了",
+        "onboard_time": 1759213460,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 955831,
+        "num": 955831,
+        "word": "得力CEO道歉",
+        "onboard_time": 1759212801,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29178,
+        "num": 797914,
+        "word": "盛世中国如你所愿",
+        "onboard_time": 1759163180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 676176,
+        "num": 676176,
+        "word": "华南理工大学通报",
+        "onboard_time": 1759217121,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 349673,
+        "num": 349673,
+        "word": "K签增设近两月为何突然引发关注",
+        "onboard_time": 1759211961,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284832,
+        "num": 284832,
+        "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
+        "onboard_time": 1759212320,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201954,
+        "num": 201954,
+        "word": "得力集团辞退跛脚员工",
+        "onboard_time": 1759206499,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170686,
+        "num": 170686,
+        "word": "青岛保时捷女销售9月再夺销冠",
+        "onboard_time": 1759204521,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162535,
+        "num": 162535,
+        "word": "网友称因跛脚在入职当天被得力辞退",
+        "onboard_time": 1759208301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156537,
+        "num": 156537,
+        "word": "泡泡玛特盲盒飙到1499元遭疯抢",
+        "onboard_time": 1759195040,
+        "rank": 9,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 629725,
+        "num": 156354,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547639,
+        "num": 155275,
+        "word": "娜扎答应了我的求婚",
+        "onboard_time": 1759208000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477990,
+        "num": 154869,
+        "word": "孙颖莎发球被裁判提醒",
+        "onboard_time": 1759213160,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433287,
+        "num": 154532,
+        "word": "李晨 短剧狗不演我演",
+        "onboard_time": 1759208120,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372457,
+        "num": 153535,
+        "word": "小沈阳叫沈佳润美美孩孩宝",
+        "onboard_time": 1759206381,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35321,
+        "num": 153121,
+        "word": "周也时装周首次走秀",
+        "onboard_time": 1759215920,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152603,
+        "num": 152603,
+        "word": "国庆提前出发的大聪明已堵路上",
+        "onboard_time": 1759207582,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356024,
+        "num": 152590,
+        "word": "辛芷蕾回应庆余年3",
+        "onboard_time": 1759213460,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40837,
+        "num": 152571,
+        "word": "圣罗兰女装秀直击",
+        "onboard_time": 1759215861,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 328943,
+        "num": 152561,
+        "word": "肖战谍报上不封顶杀青",
+        "onboard_time": 1759211900,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333033,
+        "num": 152542,
+        "word": "纤维粒 夏思齐我出来了",
+        "onboard_time": 1759207699,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 306730,
+        "num": 152532,
+        "word": "第一批外国女婿已经开始回农村了",
+        "onboard_time": 1759214000,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316857,
+        "num": 152501,
+        "word": "泡泡玛特新品16倍溢价黄牛犯了愁",
+        "onboard_time": 1759211600,
+        "rank": 22,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 231898,
+        "num": 152481,
+        "word": "张维伊没有亲小酒窝",
+        "onboard_time": 1759217901,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213810,
+        "num": 152463,
+        "word": "刘美含食物中毒坐轮椅",
+        "onboard_time": 1759217541,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188023,
+        "num": 152453,
+        "word": "孟子义李昀锐从早亲到晚",
+        "onboard_time": 1759201339,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170368,
+        "num": 152434,
+        "word": "野火月亮 白鹿",
+        "onboard_time": 1759217360,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152425,
+        "num": 152425,
+        "word": "沈佳润 大大方方",
+        "onboard_time": 1759214120,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 150973,
+        "word": "豪华品牌集体让歪果仁破防了",
+        "onboard_time": 1759216221,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150222,
+        "num": 150222,
+        "word": "准新娘称金价再涨三金手镯变耳环",
+        "onboard_time": 1759202120,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146574,
+        "num": 146574,
+        "word": "佟丽娅问小酒窝朵朵般配不",
+        "onboard_time": 1759203740,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145526,
+        "num": 145526,
+        "word": "鸡排哥整治黄牛",
+        "onboard_time": 1759217360,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133708,
+        "num": 133708,
+        "word": "王一博空气吉他正确弹法",
+        "onboard_time": 1759214300,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132614,
+        "num": 132614,
+        "word": "黄金",
+        "onboard_time": 1759214662,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132386,
+        "num": 132386,
+        "word": "提前开启假期模式",
+        "onboard_time": 1759217901,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129708,
+        "num": 129708,
+        "word": "孙颖莎说混双要找到最好的感觉",
+        "onboard_time": 1759214419,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128425,
+        "num": 128425,
+        "word": "Dior大秀邀请函是一盘坚果",
+        "onboard_time": 1759213941,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 33666,
+        "num": 127390,
+        "word": "尾号66666666手机号200万起拍",
+        "onboard_time": 1759217599,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22922,
+        "num": 126837,
+        "word": "刘雯巴黎时装周开走",
+        "onboard_time": 1759216999,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 9936,
+        "num": 126743,
+        "word": "黄老板参加赛琳娜婚礼",
+        "onboard_time": 1759217300,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126697,
+        "num": 126697,
+        "word": "A股放量200亿",
+        "onboard_time": 1759217961,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118098,
+        "num": 118098,
+        "word": "失联6天中国女孩因涉嫌参与电诈被捕",
+        "onboard_time": 1759193121,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117547,
+        "num": 117547,
+        "word": "贺峻霖被掰成贺峻雨林了",
+        "onboard_time": 1759214662,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117418,
+        "num": 117418,
+        "word": "买这个菜板的人肯定不烧饭",
+        "onboard_time": 1759217061,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114285,
+        "num": 114285,
+        "word": "K签证引争议症结在于公平焦虑",
+        "onboard_time": 1759215320,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113325,
+        "num": 113325,
+        "word": "卢昱晓首部仙侠女主剧",
+        "onboard_time": 1759216700,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111624,
+        "num": 111624,
+        "word": "猫 妈妈比死神先到一步",
+        "onboard_time": 1759214961,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105855,
+        "num": 105855,
+        "word": "深圳东站回应女子检票口大闹",
+        "onboard_time": 1759213521,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105126,
+        "num": 105126,
+        "word": "今天还在工位的有福了",
+        "onboard_time": 1759215499,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104106,
+        "num": 104106,
+        "word": "董璇妥协",
+        "onboard_time": 1759199538,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}

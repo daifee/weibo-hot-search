@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759217133232,
+  "endTime": 1759217980190,
   "band_list": [
     {
       "raw_hot": 2403665,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1500396,
-      "num": 1500396,
+      "raw_hot": 1611434,
+      "num": 1611434,
       "word": "韩国人能不能别放假了",
       "onboard_time": 1759213460,
       "rank": 16,
@@ -49,6 +49,14 @@
       "onboard_time": 1759193001,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 955831,
+      "num": 955831,
+      "word": "得力CEO道歉",
+      "onboard_time": 1759212801,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 954525,
@@ -123,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 684412,
-      "num": 684412,
-      "word": "得力CEO道歉",
-      "onboard_time": 1759212801,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 676176,
+      "num": 676176,
+      "word": "华南理工大学通报",
+      "onboard_time": 1759217121,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 661018,
@@ -187,6 +195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 547639,
+      "num": 222101,
+      "word": "娜扎答应了我的求婚",
+      "onboard_time": 1759208000,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530317,
       "num": 264353,
       "word": "入青云定档",
@@ -195,20 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 519129,
-      "num": 222101,
-      "word": "娜扎答应了我的求婚",
-      "onboard_time": 1759208000,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 503134,
       "num": 200505,
       "word": "董璇太得体了",
       "onboard_time": 1759190841,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477990,
+      "num": 187567,
+      "word": "孙颖莎发球被裁判提醒",
+      "onboard_time": 1759213160,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 473881,
@@ -331,14 +347,6 @@
       "category": "休闲,民生新闻"
     },
     {
-      "raw_hot": 379850,
-      "num": 187567,
-      "word": "孙颖莎发球被裁判提醒",
-      "onboard_time": 1759213160,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376765,
       "num": 376765,
       "word": "K签增设近两月为何突然引发关注",
@@ -347,20 +355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356024,
+      "num": 167288,
+      "word": "辛芷蕾回应庆余年3",
+      "onboard_time": 1759213460,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 352919,
       "num": 220158,
       "word": "中国K字签证要守三关",
       "onboard_time": 1759187118,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349252,
-      "num": 167288,
-      "word": "辛芷蕾回应庆余年3",
-      "onboard_time": 1759213460,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 336498,
@@ -467,6 +475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 284832,
+      "num": 284832,
+      "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
+      "onboard_time": 1759212320,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 283311,
       "num": 208579,
       "word": "终于知道她为什么叫靓靓了",
@@ -563,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231898,
+      "num": 152481,
+      "word": "张维伊没有亲小酒窝",
+      "onboard_time": 1759217901,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230788,
       "num": 197041,
       "word": "王力宏夸肖战",
@@ -600,6 +624,14 @@
       "word": "行程图",
       "onboard_time": 1759197141,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213810,
+      "num": 152463,
+      "word": "刘美含食物中毒坐轮椅",
+      "onboard_time": 1759217541,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -651,14 +683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 186281,
-      "num": 186281,
-      "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
-      "onboard_time": 1759212320,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 184713,
       "num": 184713,
       "word": "王一博拿到了国际D照",
@@ -705,6 +729,14 @@
       "onboard_time": 1759187179,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170368,
+      "num": 152434,
+      "word": "野火月亮 白鹿",
+      "onboard_time": 1759217360,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 167635,
@@ -867,6 +899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145526,
+      "num": 145526,
+      "word": "鸡排哥整治黄牛",
+      "onboard_time": 1759217360,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145445,
       "num": 145445,
       "word": "深圳东站回应女子检票口大闹",
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 139955,
-      "num": 139955,
+      "num": 150973,
       "word": "豪华品牌集体让歪果仁破防了",
       "onboard_time": 1759216221,
       "rank": 29,
@@ -1035,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132386,
+      "num": 132386,
+      "word": "提前开启假期模式",
+      "onboard_time": 1759217901,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132232,
       "num": 132232,
       "word": "这才是真正的放假吧",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1759206921,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126697,
+      "num": 126697,
+      "word": "A股放量200亿",
+      "onboard_time": 1759217961,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 125305,
@@ -1283,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117418,
+      "num": 117418,
+      "word": "买这个菜板的人肯定不烧饭",
+      "onboard_time": 1759217061,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115789,
       "num": 115789,
       "word": "黄磊各种药不离身",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1759216941,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111624,
+      "num": 111624,
+      "word": "猫 妈妈比死神先到一步",
+      "onboard_time": 1759214961,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111585,
@@ -1459,14 +1531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 104041,
-      "num": 104041,
-      "word": "猫 妈妈比死神先到一步",
-      "onboard_time": 1759214961,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103174,
       "num": 103174,
       "word": "2024年社保基金投资收益率8.1%",
@@ -1496,14 +1560,6 @@
       "word": "学生逃课躲山姆老师被拦在外",
       "onboard_time": 1759217061,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 101904,
-      "num": 101904,
-      "word": "买这个菜板的人肯定不烧饭",
-      "onboard_time": 1759217061,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1788,7 +1844,7 @@
     },
     {
       "raw_hot": 68718,
-      "num": 635938,
+      "num": 797914,
       "word": "盛世中国如你所愿",
       "onboard_time": 1759163180,
       "rank": 44,
@@ -2091,6 +2147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33666,
+      "num": 127390,
+      "word": "尾号66666666手机号200万起拍",
+      "onboard_time": 1759217599,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33404,
       "num": 129396,
       "word": "杜海涛伦敦上语言学校",
@@ -2139,6 +2203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22922,
+      "num": 126837,
+      "word": "刘雯巴黎时装周开走",
+      "onboard_time": 1759216999,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 22419,
       "num": 27721,
       "word": "瑞幸销毁下市物料被指浪费",
@@ -2171,14 +2243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15863,
-      "num": 118569,
-      "word": "刘雯巴黎时装周开走",
-      "onboard_time": 1759216999,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 14676,
       "num": 16177,
       "word": "无限暖暖",
@@ -2193,6 +2257,14 @@
       "onboard_time": 1759177094,
       "rank": 47,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 9936,
+      "num": 126743,
+      "word": "黄老板参加赛琳娜婚礼",
+      "onboard_time": 1759217300,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 3558,
