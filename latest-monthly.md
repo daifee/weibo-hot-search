@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 17:27:55
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 17:40:44
 </p>
 </blockquote>
 <p>
@@ -5547,6 +5547,12 @@ VOGUE官宣辛芷蕾（热度：801278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23K%E7%AD%BE%E8%AF%81%E4%BC%9A%E8%AE%A9%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8A%A2%E8%B5%B0%E6%88%91%E4%BB%AC%E7%9A%84%E9%A5%AD%E7%A2%97%E5%90%97%23" target="weibo">
+K签证会让外国人抢走我们的饭碗吗（热度：792823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9F%A5%E4%B8%AA%E7%A8%8E%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BB%BD%E5%B7%A5%E8%B5%84%E6%B5%81%E6%B0%B4%23" target="weibo">
 男子查个税意外发现两份工资流水（热度：792679）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87%23" target="weibo">
 咸鱼飞升（热度：750413）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%92%8C%E4%B8%8D%E7%9C%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-不发朋友圈和不看朋友圈（热度：750207）
 </a>
 </li>
 

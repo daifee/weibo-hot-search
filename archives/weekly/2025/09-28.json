@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759224475346,
+  "endTime": 1759225244717,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -611,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 792823,
+      "num": 392765,
+      "word": "K签证会让外国人抢走我们的饭碗吗",
+      "onboard_time": 1759219880,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 789194,
       "num": 395762,
       "word": "肖战容祖儿 这是小沈阳的女儿",
@@ -753,14 +761,6 @@
       "onboard_time": 1759155382,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 689160,
-      "num": 392765,
-      "word": "K签证会让外国人抢走我们的饭碗吗",
-      "onboard_time": 1759219880,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 688966,
@@ -1075,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571631,
+      "num": 571631,
+      "word": "如何把水硕水博堵在K签门外",
+      "onboard_time": 1759220601,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554801,
       "num": 391778,
       "word": "李现 怎么在国外还追星",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1759076901,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 484909,
-      "num": 484909,
-      "word": "如何把水硕水博堵在K签门外",
-      "onboard_time": 1759220601,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 477990,
@@ -1657,6 +1657,14 @@
       "onboard_time": 1759132939,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 417810,
+      "num": 417810,
+      "word": "12306回应卧铺动车全是单间",
+      "onboard_time": 1759223300,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 415589,
@@ -2035,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325194,
+      "num": 189180,
+      "word": "瘦了15斤的面部折叠度",
+      "onboard_time": 1759223121,
+      "rank": 17,
+      "category": "情感,运动健身"
+    },
+    {
       "raw_hot": 317928,
       "num": 317928,
       "word": "孙颖莎vs平野美宇",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1759196660,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 294238,
+      "num": 294238,
+      "word": "中国造出会消失的心脏支架",
+      "onboard_time": 1759221981,
+      "rank": 30,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 293254,
@@ -2643,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227113,
+      "num": 188815,
+      "word": "王者荣耀",
+      "onboard_time": 1759224560,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225506,
       "num": 177521,
       "word": "周柯宇战至巅峰",
@@ -3003,14 +3035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197038,
-      "num": 172484,
-      "word": "瘦了15斤的面部折叠度",
-      "onboard_time": 1759223121,
-      "rank": 17,
-      "category": "情感,运动健身"
-    },
-    {
       "raw_hot": 196240,
       "num": 196240,
       "word": "成毅赴山海关键剧情疑遭删减",
@@ -3267,14 +3291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189328,
-      "num": 189328,
-      "word": "中国造出会消失的心脏支架",
-      "onboard_time": 1759221981,
-      "rank": 30,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 188450,
       "num": 188450,
       "word": "闫妮 发疯的香蕉",
@@ -3313,6 +3329,14 @@
       "onboard_time": 1759118780,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186656,
+      "num": 186656,
+      "word": "Peanut官宣今年退役",
+      "onboard_time": 1759224381,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 186624,
@@ -3356,7 +3380,7 @@
     },
     {
       "raw_hot": 185027,
-      "num": 172187,
+      "num": 175333,
       "word": "为国争光的孙颖莎王楚钦",
       "onboard_time": 1759224080,
       "rank": 18,
@@ -3449,6 +3473,14 @@
       "onboard_time": 1759152561,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181047,
+      "num": 181047,
+      "word": "第五人格",
+      "onboard_time": 1759224800,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 180854,
@@ -3609,14 +3641,6 @@
       "onboard_time": 1759198219,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 174348,
-      "num": 174348,
-      "word": "12306回应卧铺动车全是单间",
-      "onboard_time": 1759223300,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173255,
@@ -4060,7 +4084,7 @@
     },
     {
       "raw_hot": 159996,
-      "num": 523494,
+      "num": 611871,
       "word": "近代以来有约2000万名烈士为国捐躯",
       "onboard_time": 1759188680,
       "rank": 31,
@@ -4497,6 +4521,14 @@
       "onboard_time": 1759076182,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146383,
+      "num": 146383,
+      "word": "一笑随歌定档",
+      "onboard_time": 1759224621,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 145896,
@@ -5505,6 +5537,14 @@
       "onboard_time": 1759140802,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126498,
+      "num": 126498,
+      "word": "许昆林任辽宁省委书记",
+      "onboard_time": 1759224080,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126370,
@@ -6691,12 +6731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106787,
+      "num": 106787,
+      "word": "高圆圆这把看着也不像好人",
+      "onboard_time": 1759222642,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106584,
       "num": 126343,
       "word": "李昀锐老婆开门我是祖宗",
       "onboard_time": 1759122681,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106567,
+      "num": 106567,
+      "word": "陈都灵送关晓彤粉色围巾",
+      "onboard_time": 1759222820,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 106559,
@@ -6833,14 +6889,6 @@
       "onboard_time": 1759025660,
       "rank": 39,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 105293,
-      "num": 105293,
-      "word": "许昆林任辽宁省委书记",
-      "onboard_time": 1759224080,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 105277,
@@ -7041,14 +7089,6 @@
       "onboard_time": 1759141460,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102295,
-      "num": 102295,
-      "word": "高圆圆这把看着也不像好人",
-      "onboard_time": 1759222642,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 102279,
@@ -7467,6 +7507,14 @@
       "category": "休闲,民生新闻"
     },
     {
+      "raw_hot": 95287,
+      "num": 95287,
+      "word": "男子三次找师傅开女生门锁",
+      "onboard_time": 1759225159,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94874,
       "num": 94874,
       "word": "院人来到了最适合他们的综艺",
@@ -7689,14 +7737,6 @@
       "onboard_time": 1759141221,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 90925,
-      "num": 90925,
-      "word": "陈都灵送关晓彤粉色围巾",
-      "onboard_time": 1759222820,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 90549,
@@ -7963,6 +8003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84082,
+      "num": 84082,
+      "word": "浙江宣传谈苹果人安卓人",
+      "onboard_time": 1759223420,
+      "rank": 45,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 83738,
       "num": 83738,
       "word": "日本2岁女童被父母长期虐待致死",
@@ -7977,6 +8025,14 @@
       "onboard_time": 1759116319,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83008,
+      "num": 83008,
+      "word": "谁家男女主初遇互抽47鞭",
+      "onboard_time": 1759225100,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 82690,
@@ -8083,14 +8139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 80634,
-      "num": 91250,
-      "word": "Peanut官宣今年退役",
-      "onboard_time": 1759224381,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 80596,
       "num": 132702,
       "word": "肖战出发澳门湾区升明月",
@@ -8123,12 +8171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80126,
-      "num": 80126,
-      "word": "浙江宣传谈苹果人安卓人",
-      "onboard_time": 1759223420,
-      "rank": 45,
-      "category": "民生新闻,数码"
+      "raw_hot": 79967,
+      "num": 79967,
+      "word": "第一份工作对人生选择的影响",
+      "onboard_time": 1759225100,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 79485,
@@ -8153,6 +8201,14 @@
       "onboard_time": 1759216100,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79176,
+      "num": 79176,
+      "word": "张颜齐六年前就在下技能五子棋了",
+      "onboard_time": 1759224859,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 78571,
@@ -8465,6 +8521,14 @@
       "onboard_time": 1759209201,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64213,
+      "num": 106792,
+      "word": "YouTube赔偿特朗普2450万美元",
+      "onboard_time": 1759224381,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64211,
@@ -8947,14 +9011,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 50018,
-      "num": 91321,
-      "word": "YouTube赔偿特朗普2450万美元",
-      "onboard_time": 1759224381,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49568,
       "num": 137259,
       "word": "同学对张维伊的评价",
@@ -9171,6 +9227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41638,
+      "num": 106850,
+      "word": "美国得州上空疑出现黑色UFO",
+      "onboard_time": 1759224260,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40483,
       "num": 664237,
       "word": "10月1日客流或超3.4亿人次",
@@ -9331,14 +9395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34131,
-      "num": 91011,
-      "word": "美国得州上空疑出现黑色UFO",
-      "onboard_time": 1759224260,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 33666,
       "num": 127390,
       "word": "尾号66666666手机号200万起拍",
@@ -9368,6 +9424,14 @@
       "word": "医生说活不过2岁的男孩上小学了",
       "onboard_time": 1759055479,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32908,
+      "num": 188749,
+      "word": "12年金店销售直言不敢囤黄金",
+      "onboard_time": 1759224981,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9489,6 +9553,14 @@
       "onboard_time": 1759168155,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25817,
+      "num": 189324,
+      "word": "陈震每一年都觉得前几十年白活了",
+      "onboard_time": 1759224681,
+      "rank": 14,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 25735,
@@ -9756,7 +9828,7 @@
     },
     {
       "raw_hot": 19451,
-      "num": 91531,
+      "num": 106954,
       "word": "胡军说真正的电影人不害怕现状",
       "onboard_time": 1759223420,
       "rank": 36,
