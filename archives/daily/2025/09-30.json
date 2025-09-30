@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759201401765,
+  "endTime": 1759201954242,
   "band_list": [
     {
       "raw_hot": 2403665,
@@ -9,6 +9,14 @@
       "onboard_time": 1759196120,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1214864,
+      "num": 182267,
+      "word": "董璇妥协",
+      "onboard_time": 1759199538,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 970439,
@@ -35,14 +43,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 929952,
-      "num": 182267,
-      "word": "董璇妥协",
-      "onboard_time": 1759199538,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 906218,
       "num": 1128187,
       "word": "失联6天中国女孩因涉嫌参与电诈被捕",
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711907,
+      "num": 1113905,
+      "word": "黄金价格飙涨",
+      "onboard_time": 1759198581,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 639429,
       "num": 204278,
       "word": "王暖暖坠崖10天财物被洗劫一空",
@@ -89,14 +97,6 @@
       "onboard_time": 1759195040,
       "rank": 8,
       "category": "休闲,民生新闻"
-    },
-    {
-      "raw_hot": 523029,
-      "num": 523029,
-      "word": "黄金价格飙涨",
-      "onboard_time": 1759198581,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 503134,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260994,
+      "num": 181298,
+      "word": "美人余开机",
+      "onboard_time": 1759200920,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256465,
       "num": 256465,
       "word": "广东1周新增3153例基孔肯雅热",
@@ -331,15 +339,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207172,
-      "num": 181298,
-      "word": "美人余开机",
-      "onboard_time": 1759200920,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 204856,
+      "raw_hot": 211359,
       "num": 184544,
       "word": "行程图",
       "onboard_time": 1759197141,
@@ -347,11 +347,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194906,
+      "num": 147702,
+      "word": "谷围南亭动画开播",
+      "onboard_time": 1759201339,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 172556,
       "num": 120956,
       "word": "蛋糕不同意周深33岁",
       "onboard_time": 1759187179,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168393,
+      "num": 182625,
+      "word": "王伟中任内蒙古自治区党委书记",
+      "onboard_time": 1759198219,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 167635,
+      "num": 1010852,
+      "word": "烈士纪念日向人民英雄敬献花篮",
+      "onboard_time": 1759196299,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 167253,
+      "num": 144354,
+      "word": "黄磊曾因心脏病突发送医",
+      "onboard_time": 1759201880,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -396,18 +428,10 @@
     },
     {
       "raw_hot": 153274,
-      "num": 153274,
+      "num": 608478,
       "word": "永远铭记烈士们的牺牲",
       "onboard_time": 1759161921,
       "rank": 5,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 153146,
-      "num": 182625,
-      "word": "王伟中任内蒙古自治区党委书记",
-      "onboard_time": 1759198219,
-      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -427,12 +451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147394,
-      "num": 1010852,
-      "word": "烈士纪念日向人民英雄敬献花篮",
-      "onboard_time": 1759196299,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 146306,
+      "num": 146306,
+      "word": "医院隐翅虫皮炎患者接诊量翻倍",
+      "onboard_time": 1759199359,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144839,
@@ -457,14 +481,6 @@
       "onboard_time": 1759200140,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141084,
-      "num": 141084,
-      "word": "谷围南亭动画开播",
-      "onboard_time": 1759201339,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 140034,
@@ -555,12 +571,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 129844,
+      "num": 129844,
+      "word": "美人余",
+      "onboard_time": 1759201581,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128618,
-      "num": 146105,
+      "num": 152771,
       "word": "第12个烈士纪念日",
       "onboard_time": 1759156642,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 125305,
+      "num": 125305,
+      "word": "为什么越忙越累反而越胖",
+      "onboard_time": 1759191860,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123603,
@@ -627,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117403,
-      "num": 117403,
-      "word": "医院隐翅虫皮炎患者接诊量翻倍",
-      "onboard_time": 1759199359,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115778,
       "num": 115778,
       "word": "小酒窝很小的时候就会安慰董璇了",
@@ -659,20 +683,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113971,
-      "num": 113971,
-      "word": "为什么越忙越累反而越胖",
-      "onboard_time": 1759191860,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111585,
       "num": 111585,
       "word": "莎头组合混双出战",
       "onboard_time": 1759196420,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111191,
+      "num": 111191,
+      "word": "多吃清道夫食物可预防血管斑块",
+      "onboard_time": 1759201099,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110255,
@@ -707,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104936,
-      "num": 104936,
-      "word": "多吃清道夫食物可预防血管斑块",
-      "onboard_time": 1759201099,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 105806,
+      "num": 105806,
+      "word": "全红婵梁伟铿王欣瑜入选先进个人",
+      "onboard_time": 1759201699,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 104740,
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100888,
+      "num": 100888,
+      "word": "邓超 不准把我P掉",
+      "onboard_time": 1759201820,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99326,
       "num": 99326,
       "word": "邓为变壮",
@@ -763,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97061,
+      "num": 114915,
+      "word": "美国政府关门倒计时",
+      "onboard_time": 1759200200,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96897,
       "num": 96897,
       "word": "杨超越露肩裙自拍",
@@ -777,6 +817,22 @@
       "onboard_time": 1759195340,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95328,
+      "num": 95328,
+      "word": "星星人隐藏款从59元溢价到近千元",
+      "onboard_time": 1759198459,
+      "rank": 47,
+      "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 94850,
+      "num": 94850,
+      "word": "动脉粥样硬化斑块盯上了年轻人",
+      "onboard_time": 1759201820,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94741,
@@ -899,20 +955,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75982,
-      "num": 114915,
-      "word": "美国政府关门倒计时",
-      "onboard_time": 1759200200,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75105,
       "num": 77222,
       "word": "爱奇艺尖叫之夜时间",
       "onboard_time": 1759163058,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71260,
+      "num": 144446,
+      "word": "中国汽车需要更多的担当",
+      "onboard_time": 1759201459,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 71241,
@@ -937,6 +993,14 @@
       "onboard_time": 1759144702,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65937,
+      "num": 111757,
+      "word": "孟子义李昀锐从早亲到晚",
+      "onboard_time": 1759201339,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 65405,
@@ -1033,6 +1097,14 @@
       "onboard_time": 1759188619,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46235,
+      "num": 145447,
+      "word": "直击欧莱雅秀场",
+      "onboard_time": 1759201519,
+      "rank": 27,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 43727,
@@ -1169,14 +1241,6 @@
       "onboard_time": 1759172474,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16937,
-      "num": 105138,
-      "word": "孟子义李昀锐从早亲到晚",
-      "onboard_time": 1759201339,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 14676,
