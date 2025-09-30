@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759215051283,
+  "endTime": 1759217133232,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -105,6 +105,14 @@
       "onboard_time": 1759114400,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1500396,
+      "num": 1500396,
+      "word": "韩国人能不能别放假了",
+      "onboard_time": 1759213460,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1492455,
@@ -345,14 +353,6 @@
       "onboard_time": 1759145900,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 963566,
-      "num": 1154170,
-      "word": "韩国人能不能别放假了",
-      "onboard_time": 1759213460,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 962864,
@@ -723,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684412,
+      "num": 684412,
+      "word": "得力CEO道歉",
+      "onboard_time": 1759212801,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 677050,
       "num": 910845,
       "word": "航班提前15小时起飞惊呆乘客",
@@ -841,14 +849,6 @@
       "onboard_time": 1759143740,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632681,
-      "num": 632681,
-      "word": "得力CEO道歉",
-      "onboard_time": 1759212801,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 632570,
@@ -1627,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404911,
+      "num": 404911,
+      "word": "泡泡玛特新品16倍溢价黄牛犯了愁",
+      "onboard_time": 1759211600,
+      "rank": 9,
+      "category": "休闲,民生新闻"
+    },
+    {
       "raw_hot": 404561,
       "num": 289183,
       "word": "马嘉祺的心率",
@@ -1747,6 +1755,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 379850,
+      "num": 187567,
+      "word": "孙颖莎发球被裁判提醒",
+      "onboard_time": 1759213160,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376765,
+      "num": 376765,
+      "word": "K签增设近两月为何突然引发关注",
+      "onboard_time": 1759211961,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376689,
       "num": 288715,
       "word": "黄明昊 遇到不公平的事情",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1759059801,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366144,
-      "num": 366144,
-      "word": "K签增设近两月为何突然引发关注",
-      "onboard_time": 1759211961,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365425,
@@ -1865,6 +1881,14 @@
       "onboard_time": 1759187118,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349252,
+      "num": 167288,
+      "word": "辛芷蕾回应庆余年3",
+      "onboard_time": 1759213460,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346200,
@@ -2473,14 +2497,6 @@
       "onboard_time": 1759150040,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232659,
-      "num": 232659,
-      "word": "泡泡玛特新品16倍溢价黄牛犯了愁",
-      "onboard_time": 1759211600,
-      "rank": 9,
-      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 232374,
@@ -3155,14 +3171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187567,
-      "num": 187567,
-      "word": "孙颖莎发球被裁判提醒",
-      "onboard_time": 1759213160,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187448,
       "num": 187448,
       "word": "王曼昱入选全国体育系统先进个人",
@@ -3201,6 +3209,14 @@
       "onboard_time": 1759038621,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186281,
+      "num": 186281,
+      "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
+      "onboard_time": 1759212320,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185998,
@@ -3763,14 +3779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 164202,
-      "num": 164202,
-      "word": "辛芷蕾回应庆余年3",
-      "onboard_time": 1759213460,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163954,
       "num": 163954,
       "word": "吴艳妮夺冠后亲吻现场小粉丝",
@@ -4115,6 +4123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153580,
+      "num": 153580,
+      "word": "K签证引争议症结在于公平焦虑",
+      "onboard_time": 1759215320,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153421,
       "num": 153421,
       "word": "33耳机连续剧出续集了",
@@ -4137,6 +4153,14 @@
       "onboard_time": 1758986962,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152777,
+      "num": 152777,
+      "word": "Dior大秀邀请函是一盘坚果",
+      "onboard_time": 1759213941,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 152639,
@@ -4459,14 +4483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143067,
-      "num": 143067,
-      "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
-      "onboard_time": 1759212320,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 143022,
       "num": 214287,
       "word": "湾区升明月座位图",
@@ -4569,6 +4585,14 @@
       "onboard_time": 1759032981,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139955,
+      "num": 139955,
+      "word": "豪华品牌集体让歪果仁破防了",
+      "onboard_time": 1759216221,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 139782,
@@ -5363,6 +5387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 124922,
+      "num": 124922,
+      "word": "王玉雯被刘宇宁薄凉的眼神击碎了",
+      "onboard_time": 1759215741,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124879,
       "num": 124879,
       "word": "林高远3比0黄镇廷",
@@ -5787,6 +5819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118547,
+      "num": 118547,
+      "word": "卢昱晓首部仙侠女主剧",
+      "onboard_time": 1759216700,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118453,
       "num": 118453,
       "word": "清华食堂现制菜伟大无需多言",
@@ -5897,6 +5937,14 @@
       "onboard_time": 1759211481,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115779,
+      "num": 115779,
+      "word": "今天还在工位的有福了",
+      "onboard_time": 1759215499,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 115778,
@@ -6099,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111851,
+      "num": 111851,
+      "word": "2025ASI亚洲邀请赛抽签",
+      "onboard_time": 1759216941,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111850,
       "num": 111850,
       "word": "14岁少女被特校虐待致死调查",
@@ -6251,6 +6307,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 109629,
+      "num": 109629,
+      "word": "辛纳vs德米纳尔",
+      "onboard_time": 1759216880,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109547,
       "num": 109547,
       "word": "邓超在鹿晗演唱会还想着丁程鑫",
@@ -6345,14 +6409,6 @@
       "onboard_time": 1759143980,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107769,
-      "num": 107769,
-      "word": "Dior大秀邀请函是一盘坚果",
-      "onboard_time": 1759213941,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 107329,
@@ -6753,6 +6809,22 @@
       "onboard_time": 1759213820,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101975,
+      "num": 101975,
+      "word": "学生逃课躲山姆老师被拦在外",
+      "onboard_time": 1759217061,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101904,
+      "num": 101904,
+      "word": "买这个菜板的人肯定不烧饭",
+      "onboard_time": 1759217061,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 101805,
@@ -7707,6 +7779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79291,
+      "num": 118558,
+      "word": "女子国内非法集资400多亿潜逃英国",
+      "onboard_time": 1759216100,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78571,
       "num": 79100,
       "word": "去世8年男子坟墓惊现盗洞",
@@ -8073,6 +8153,14 @@
       "onboard_time": 1759076242,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62054,
+      "num": 166240,
+      "word": "圣罗兰女装秀直击",
+      "onboard_time": 1759215861,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 61936,
@@ -8803,6 +8891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36996,
+      "num": 166858,
+      "word": "周也时装周首次走秀",
+      "onboard_time": 1759215920,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 36915,
       "num": 140261,
       "word": "中国今年出了三位A类影后",
@@ -9273,6 +9369,14 @@
       "onboard_time": 1759172474,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15863,
+      "num": 118569,
+      "word": "刘雯巴黎时装周开走",
+      "onboard_time": 1759216999,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 15353,

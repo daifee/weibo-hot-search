@@ -1,0 +1,410 @@
+{
+  "runTime": 1759217133232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1500396,
+        "num": 1500396,
+        "word": "韩国人能不能别放假了",
+        "onboard_time": 1759213460,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 684412,
+        "num": 684412,
+        "word": "得力CEO道歉",
+        "onboard_time": 1759212801,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21085,
+        "num": 444540,
+        "word": "盛世中国如你所愿",
+        "onboard_time": 1759163180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404911,
+        "num": 404911,
+        "word": "泡泡玛特新品16倍溢价黄牛犯了愁",
+        "onboard_time": 1759211600,
+        "rank": 3,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 376765,
+        "num": 376765,
+        "word": "K签增设近两月为何突然引发关注",
+        "onboard_time": 1759211961,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291907,
+        "num": 291907,
+        "word": "得力集团辞退跛脚员工",
+        "onboard_time": 1759206499,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186281,
+        "num": 186281,
+        "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
+        "onboard_time": 1759212320,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183119,
+        "num": 183119,
+        "word": "国庆提前出发的大聪明已堵路上",
+        "onboard_time": 1759207582,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179911,
+        "num": 179911,
+        "word": "网友称因跛脚在入职当天被得力辞退",
+        "onboard_time": 1759208301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170614,
+        "num": 170614,
+        "word": "青岛保时捷女销售9月再夺销冠",
+        "onboard_time": 1759204521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719105,
+        "num": 170135,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511765,
+        "num": 169774,
+        "word": "李晨 短剧狗不演我演",
+        "onboard_time": 1759208120,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494437,
+        "num": 169245,
+        "word": "娜扎答应了我的求婚",
+        "onboard_time": 1759208000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415448,
+        "num": 168748,
+        "word": "小沈阳叫沈佳润美美孩孩宝",
+        "onboard_time": 1759206381,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 379850,
+        "num": 168259,
+        "word": "孙颖莎发球被裁判提醒",
+        "onboard_time": 1759213160,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375159,
+        "num": 168128,
+        "word": "肖战谍报上不封顶杀青",
+        "onboard_time": 1759211900,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349252,
+        "num": 167288,
+        "word": "辛芷蕾回应庆余年3",
+        "onboard_time": 1759213460,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36996,
+        "num": 166858,
+        "word": "周也时装周首次走秀",
+        "onboard_time": 1759215920,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310378,
+        "num": 166738,
+        "word": "第一批外国女婿已经开始回农村了",
+        "onboard_time": 1759214000,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62054,
+        "num": 166240,
+        "word": "圣罗兰女装秀直击",
+        "onboard_time": 1759215861,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 313211,
+        "num": 165332,
+        "word": "纤维粒 夏思齐我出来了",
+        "onboard_time": 1759207699,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 220649,
+        "num": 164968,
+        "word": "孟子义李昀锐从早亲到晚",
+        "onboard_time": 1759201339,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175516,
+        "num": 164641,
+        "word": "准新娘称金价再涨三金手镯变耳环",
+        "onboard_time": 1759202120,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164354,
+        "num": 164354,
+        "word": "泡泡玛特盲盒飙到1499元遭疯抢",
+        "onboard_time": 1759195040,
+        "rank": 23,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 163429,
+        "num": 163429,
+        "word": "佟丽娅问小酒窝朵朵般配不",
+        "onboard_time": 1759203740,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153580,
+        "num": 153580,
+        "word": "K签证引争议症结在于公平焦虑",
+        "onboard_time": 1759215320,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152777,
+        "num": 152777,
+        "word": "Dior大秀邀请函是一盘坚果",
+        "onboard_time": 1759213941,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140983,
+        "num": 140983,
+        "word": "沈佳润 大大方方",
+        "onboard_time": 1759214120,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108901,
+        "num": 140089,
+        "word": "替烈士看看今天的中国",
+        "onboard_time": 1759206680,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139955,
+        "num": 139955,
+        "word": "豪华品牌集体让歪果仁破防了",
+        "onboard_time": 1759216221,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138892,
+        "num": 138892,
+        "word": "王一博空气吉他正确弹法",
+        "onboard_time": 1759214300,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137266,
+        "num": 137266,
+        "word": "失联6天中国女孩因涉嫌参与电诈被捕",
+        "onboard_time": 1759193121,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131816,
+        "num": 131816,
+        "word": "董璇妥协",
+        "onboard_time": 1759199538,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125552,
+        "num": 125552,
+        "word": "孙颖莎说混双要找到最好的感觉",
+        "onboard_time": 1759214419,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543489,
+        "num": 125544,
+        "word": "西贝厨师说生鸡内脏被下水道冲走了",
+        "onboard_time": 1759210040,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125313,
+        "num": 125313,
+        "word": "贺峻霖被掰成贺峻雨林了",
+        "onboard_time": 1759214662,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124922,
+        "num": 124922,
+        "word": "王玉雯被刘宇宁薄凉的眼神击碎了",
+        "onboard_time": 1759215741,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119015,
+        "num": 119015,
+        "word": "深圳东站回应女子检票口大闹",
+        "onboard_time": 1759213521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15863,
+        "num": 118569,
+        "word": "刘雯巴黎时装周开走",
+        "onboard_time": 1759216999,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79291,
+        "num": 118558,
+        "word": "女子国内非法集资400多亿潜逃英国",
+        "onboard_time": 1759216100,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118547,
+        "num": 118547,
+        "word": "卢昱晓首部仙侠女主剧",
+        "onboard_time": 1759216700,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115779,
+        "num": 115779,
+        "word": "今天还在工位的有福了",
+        "onboard_time": 1759215499,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115707,
+        "num": 115707,
+        "word": "减肥成功后的副作用出现了",
+        "onboard_time": 1759213340,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111851,
+        "num": 111851,
+        "word": "2025ASI亚洲邀请赛抽签",
+        "onboard_time": 1759216941,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111534,
+        "num": 111534,
+        "word": "黄金",
+        "onboard_time": 1759214662,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109629,
+        "num": 109629,
+        "word": "辛纳vs德米纳尔",
+        "onboard_time": 1759216880,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105194,
+        "num": 105194,
+        "word": "4600亿大牛股遭套现近23亿",
+        "onboard_time": 1759213941,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101975,
+        "num": 101975,
+        "word": "学生逃课躲山姆老师被拦在外",
+        "onboard_time": 1759217061,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101904,
+        "num": 101904,
+        "word": "买这个菜板的人肯定不烧饭",
+        "onboard_time": 1759217061,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99994,
+        "num": 99994,
+        "word": "千万要少吃外面的烤鱼",
+        "onboard_time": 1759194740,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}
