@@ -1,0 +1,410 @@
+{
+  "runTime": 1759224475346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 898378,
+        "num": 1143740,
+        "word": "华南理工大学通报",
+        "onboard_time": 1759217121,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 813058,
+        "num": 813058,
+        "word": "鸡排哥整治黄牛",
+        "onboard_time": 1759217360,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10335,
+        "num": 523494,
+        "word": "近代以来有约2000万名烈士为国捐躯",
+        "onboard_time": 1759188680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484909,
+        "num": 484909,
+        "word": "如何把水硕水博堵在K签门外",
+        "onboard_time": 1759220601,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374146,
+        "num": 374146,
+        "word": "韩国人能不能别放假了",
+        "onboard_time": 1759213460,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351274,
+        "num": 351274,
+        "word": "鸡排家族10月1日出10个摊位",
+        "onboard_time": 1759219223,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302499,
+        "num": 302499,
+        "word": "两名俄士兵在坦克残骸下生存60天",
+        "onboard_time": 1759219223,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203061,
+        "num": 203061,
+        "word": "网友称因跛脚在入职当天被得力辞退",
+        "onboard_time": 1759208301,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189328,
+        "num": 189328,
+        "word": "中国造出会消失的心脏支架",
+        "onboard_time": 1759221981,
+        "rank": 8,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 174348,
+        "num": 174348,
+        "word": "12306回应卧铺动车全是单间",
+        "onboard_time": 1759223300,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 892888,
+        "num": 174272,
+        "word": "刘美含食物中毒坐轮椅",
+        "onboard_time": 1759217541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689160,
+        "num": 173966,
+        "word": "K签证会让外国人抢走我们的饭碗吗",
+        "onboard_time": 1759219880,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 663855,
+        "num": 173649,
+        "word": "张维伊没有亲小酒窝",
+        "onboard_time": 1759217901,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496347,
+        "num": 173409,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490772,
+        "num": 173202,
+        "word": "张檬让父母消毒后抱孩子",
+        "onboard_time": 1759220720,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280476,
+        "num": 172921,
+        "word": "娜扎答应了我的求婚",
+        "onboard_time": 1759208000,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231753,
+        "num": 172689,
+        "word": "李晨 短剧狗不演我演",
+        "onboard_time": 1759208120,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197038,
+        "num": 172484,
+        "word": "瘦了15斤的面部折叠度",
+        "onboard_time": 1759223121,
+        "rank": 17,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 185027,
+        "num": 172187,
+        "word": "为国争光的孙颖莎王楚钦",
+        "onboard_time": 1759224080,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177810,
+        "num": 172011,
+        "word": "肖战谍报上不封顶杀青",
+        "onboard_time": 1759211900,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401689,
+        "num": 171658,
+        "word": "得力CEO道歉",
+        "onboard_time": 1759212801,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197219,
+        "num": 171307,
+        "word": "K签增设近两月为何突然引发关注",
+        "onboard_time": 1759211961,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193377,
+        "num": 171264,
+        "word": "管泽元感人金句致敬詹姆斯",
+        "onboard_time": 1759224441,
+        "rank": 22,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 176741,
+        "num": 170911,
+        "word": "纤维粒 夏思齐我出来了",
+        "onboard_time": 1759207699,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170772,
+        "num": 170772,
+        "word": "野火月亮 白鹿",
+        "onboard_time": 1759217360,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167804,
+        "num": 167804,
+        "word": "因跛脚被辞退女子称不会去得力工作",
+        "onboard_time": 1759222820,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160404,
+        "num": 160404,
+        "word": "第一批外国女婿已经开始回农村了",
+        "onboard_time": 1759214000,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145373,
+        "num": 145373,
+        "word": "33阑尾失踪",
+        "onboard_time": 1759224080,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133085,
+        "num": 133085,
+        "word": "樊振东解锁西甲博物馆",
+        "onboard_time": 1759223600,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123911,
+        "num": 123911,
+        "word": "孙颖莎采访不忘关心记者",
+        "onboard_time": 1759221620,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112263,
+        "num": 112263,
+        "word": "天价月饼都降价了",
+        "onboard_time": 1759223242,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105437,
+        "num": 105437,
+        "word": "李现回国梦回韩商言",
+        "onboard_time": 1759220421,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105293,
+        "num": 105293,
+        "word": "许昆林任辽宁省委书记",
+        "onboard_time": 1759224080,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102295,
+        "num": 102295,
+        "word": "高圆圆这把看着也不像好人",
+        "onboard_time": 1759222642,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96944,
+        "num": 96944,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1759223961,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91631,
+        "num": 91631,
+        "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
+        "onboard_time": 1759212320,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19451,
+        "num": 91531,
+        "word": "胡军说真正的电影人不害怕现状",
+        "onboard_time": 1759223420,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50018,
+        "num": 91321,
+        "word": "YouTube赔偿特朗普2450万美元",
+        "onboard_time": 1759224381,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80634,
+        "num": 91250,
+        "word": "Peanut官宣今年退役",
+        "onboard_time": 1759224381,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34131,
+        "num": 91011,
+        "word": "美国得州上空疑出现黑色UFO",
+        "onboard_time": 1759224260,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90925,
+        "num": 90925,
+        "word": "陈都灵送关晓彤粉色围巾",
+        "onboard_time": 1759222820,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90151,
+        "num": 90151,
+        "word": "减肥一个月成功减掉了30天",
+        "onboard_time": 1759220120,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83472,
+        "num": 89411,
+        "word": "王一博空气吉他正确弹法",
+        "onboard_time": 1759214300,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89099,
+        "num": 89099,
+        "word": "李在明没给尹锡悦送中秋礼物",
+        "onboard_time": 1759221740,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84550,
+        "num": 84550,
+        "word": "孙颖莎朱思冰精彩攻削瞬间",
+        "onboard_time": 1759224080,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80126,
+        "num": 80126,
+        "word": "浙江宣传谈苹果人安卓人",
+        "onboard_time": 1759223420,
+        "rank": 45,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 79119,
+        "num": 79119,
+        "word": "孙颖莎发球被裁判提醒",
+        "onboard_time": 1759213160,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77585,
+        "num": 77585,
+        "word": "上海大师赛",
+        "onboard_time": 1759223360,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75901,
+        "num": 75901,
+        "word": "杜华董璇为好友庆生",
+        "onboard_time": 1759218801,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75394,
+        "num": 75394,
+        "word": "准新娘称金价再涨三金手镯变耳环",
+        "onboard_time": 1759202120,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向人民英雄敬献花篮#"
+    }
+  }
+}

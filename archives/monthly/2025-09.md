@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 16:48:32
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 17:27:55
 </p>
 </blockquote>
 <p>
@@ -5313,6 +5313,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%95%B4%E6%B2%BB%E9%BB%84%E7%89%9B%23" target="weibo">
+鸡排哥整治黄牛（热度：813058）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
 易烊千玺（热度：812532）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%92%8C%E4%B8%8D%E7%9C%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 不发朋友圈和不看朋友圈（热度：750207）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E4%B9%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%88%BF%E5%AD%90%23" target="weibo">
-花光积蓄买了自己的房子（热度：750199）
 </a>
 </li>
 
