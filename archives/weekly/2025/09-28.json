@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759189005532,
+  "endTime": 1759196879148,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -65,6 +65,14 @@
       "onboard_time": 1759061721,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1560118,
+      "num": 211058,
+      "word": "苏醒道歉",
+      "onboard_time": 1759196120,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1521923,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 970439,
+      "num": 208159,
+      "word": "黄磊戴呼吸机睡觉",
+      "onboard_time": 1759189700,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 966255,
       "num": 1154600,
       "word": "女童耳朵撕裂10万托班监控失灵",
@@ -321,6 +337,14 @@
       "onboard_time": 1759076361,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 957513,
+      "num": 1153202,
+      "word": "埃及官方通报中国女孩失联",
+      "onboard_time": 1759193001,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 954525,
@@ -377,6 +401,14 @@
       "onboard_time": 1759033341,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 905012,
+      "num": 905012,
+      "word": "失联6天中国女孩因涉嫌参与电诈被捕",
+      "onboard_time": 1759193121,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 888844,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 775466,
-      "num": 185925,
+      "num": 199555,
       "word": "第一批丁克夫妻离世遗产留给谁",
       "onboard_time": 1759157364,
       "rank": 23,
@@ -721,6 +753,14 @@
       "onboard_time": 1759054221,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639429,
+      "num": 204278,
+      "word": "王暖暖坠崖10天财物被洗劫一空",
+      "onboard_time": 1759190000,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 635082,
@@ -1035,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503134,
+      "num": 200505,
+      "word": "董璇太得体了",
+      "onboard_time": 1759190841,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501367,
       "num": 501367,
       "word": "清华教职工因违规报备入校被拘",
@@ -1187,6 +1235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461035,
+      "num": 195740,
+      "word": "交物业费和不交物业费的都沉默了",
+      "onboard_time": 1759190540,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 460447,
+      "num": 460447,
+      "word": "多伦多公园几乎全是印度人",
+      "onboard_time": 1759191741,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 460288,
       "num": 460288,
       "word": "男子欠5000被催债后说每分钟还50",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1759069406,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 450957,
+      "num": 179484,
+      "word": "千万要少吃外面的烤鱼",
+      "onboard_time": 1759194740,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 446957,
@@ -1353,6 +1425,14 @@
       "onboard_time": 1759139001,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407138,
+      "num": 407138,
+      "word": "以色列就空袭多哈向卡塔尔道歉",
+      "onboard_time": 1759189640,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 405666,
@@ -1587,6 +1667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 352919,
+      "num": 192384,
+      "word": "中国K字签证要守三关",
+      "onboard_time": 1759187118,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346200,
       "num": 218660,
       "word": "魏大勋这段rap",
@@ -1625,6 +1713,22 @@
       "onboard_time": 1759131862,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334561,
+      "num": 334561,
+      "word": "以色列承诺不再攻击卡塔尔",
+      "onboard_time": 1759191382,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 334070,
+      "num": 334070,
+      "word": "男生做老房子微缩模型年入500万",
+      "onboard_time": 1759192160,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331965,
@@ -1739,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296303,
+      "num": 189339,
+      "word": "周也走秀",
+      "onboard_time": 1759190000,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 295661,
       "num": 295661,
       "word": "心动的信号",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1758971661,
       "rank": 8,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 294641,
+      "num": 177904,
+      "word": "小米17Pro背屏做痛机爆火",
+      "onboard_time": 1759196660,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 293254,
@@ -1785,6 +1905,14 @@
       "onboard_time": 1759140802,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290006,
+      "num": 172664,
+      "word": "鹿哈女友自曝全脸do",
+      "onboard_time": 1759187718,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 289492,
@@ -1913,6 +2041,14 @@
       "onboard_time": 1759070605,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256465,
+      "num": 256465,
+      "word": "广东1周新增3153例基孔肯雅热",
+      "onboard_time": 1759191141,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255951,
@@ -2179,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221189,
+      "num": 186543,
+      "word": "肖战工作室拍的红海",
+      "onboard_time": 1759188799,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220446,
       "num": 220446,
       "word": "印度发生踩踏36死",
@@ -2225,6 +2369,14 @@
       "onboard_time": 1759120762,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214842,
+      "num": 214842,
+      "word": "泡泡玛特盲盒飙到1499元遭疯抢",
+      "onboard_time": 1759195040,
+      "rank": 8,
+      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 213879,
@@ -2377,6 +2529,14 @@
       "onboard_time": 1759072463,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200678,
+      "num": 172382,
+      "word": "王力宏夸肖战",
+      "onboard_time": 1759194619,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 200504,
@@ -3339,6 +3499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159996,
+      "num": 159996,
+      "word": "近代以来有约2000万名烈士为国捐躯",
+      "onboard_time": 1759188680,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159822,
       "num": 159822,
       "word": "建议这些外卖真的别点了",
@@ -3497,14 +3665,6 @@
       "onboard_time": 1759117040,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153833,
-      "num": 120857,
-      "word": "中国K字签证要守三关",
-      "onboard_time": 1759187118,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153421,
@@ -3987,6 +4147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 136436,
+      "num": 136436,
+      "word": "英国寄来的猫咪听不懂中文",
+      "onboard_time": 1759191080,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136284,
       "num": 136284,
       "word": "郑钦文团队不支持参加中网",
@@ -4033,6 +4201,14 @@
       "onboard_time": 1759055600,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135366,
+      "num": 135366,
+      "word": "国庆中秋OOTD",
+      "onboard_time": 1759195220,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135177,
@@ -4161,6 +4337,14 @@
       "onboard_time": 1759024521,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132232,
+      "num": 132232,
+      "word": "这才是真正的放假吧",
+      "onboard_time": 1759192101,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 131977,
@@ -4587,6 +4771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123603,
+      "num": 123603,
+      "word": "王嘉尔上央视新闻",
+      "onboard_time": 1759194200,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123525,
       "num": 123525,
       "word": "游客称在景区遭21474836元停车费",
@@ -4635,12 +4827,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 122962,
+      "num": 122962,
+      "word": "特朗普称以色列接受其加沙和平计划",
+      "onboard_time": 1759190421,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122611,
       "num": 122611,
       "word": "丁程鑫赢了原相机",
       "onboard_time": 1759135522,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122551,
+      "num": 122551,
+      "word": "今天的主要工作是等放假",
+      "onboard_time": 1759195760,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122355,
+      "num": 122355,
+      "word": "罗永浩替小米说公道话",
+      "onboard_time": 1759191559,
+      "rank": 34,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 122265,
@@ -4795,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119737,
+      "num": 119737,
+      "word": "特朗普版加沙和平计划或将敲定",
+      "onboard_time": 1759189040,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119469,
       "num": 119469,
       "word": "李沐宸肖宇梁同框路透",
@@ -4923,14 +5147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116521,
-      "num": 116521,
-      "word": "鹿哈女友自曝全脸do",
-      "onboard_time": 1759187718,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 116147,
       "num": 116147,
       "word": "沈星回生贺非遗展",
@@ -5001,6 +5217,14 @@
       "onboard_time": 1759141579,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114497,
+      "num": 114497,
+      "word": "他们用生命换来了山河无恙",
+      "onboard_time": 1759164258,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114436,
@@ -5299,6 +5523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108378,
+      "num": 108378,
+      "word": "湾区升明月直播收视率第一的节目",
+      "onboard_time": 1759190058,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108350,
       "num": 121193,
       "word": "张馨予大腿肌肉线条",
@@ -5337,6 +5569,14 @@
       "onboard_time": 1759149561,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 106861,
+      "num": 213094,
+      "word": "烈士纪念日向人民英雄敬献花篮",
+      "onboard_time": 1759196299,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106584,
@@ -5491,6 +5731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104740,
+      "num": 104740,
+      "word": "埃及发生交通事故致2名中国游客遇难",
+      "onboard_time": 1759195459,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104521,
       "num": 104521,
       "word": "陈垣宇3比2奥恰洛夫",
@@ -5505,6 +5753,14 @@
       "onboard_time": 1759107680,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104440,
+      "num": 104440,
+      "word": "莎头组合混双出战",
+      "onboard_time": 1759196420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 104407,
@@ -5859,6 +6115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97898,
+      "num": 97898,
+      "word": "烈士陵园的细节写满敬意",
+      "onboard_time": 1759193360,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97795,
       "num": 213988,
       "word": "王楚钦世排第一引全场欢呼",
@@ -5987,6 +6251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94741,
+      "num": 94741,
+      "word": "外媒报道宋威龙",
+      "onboard_time": 1759195220,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94619,
       "num": 94619,
       "word": "以为是失眠其实是被子薄了冻的",
@@ -6016,6 +6288,14 @@
       "word": "参加阅兵式的礼宾车归还时加满油",
       "onboard_time": 1759132281,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94293,
+      "num": 94293,
+      "word": "官员买500斤白酒放单位公务接待",
+      "onboard_time": 1759190900,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -6097,6 +6377,14 @@
       "onboard_time": 1759019301,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91033,
+      "num": 91033,
+      "word": "湾区升明月舞台收视率",
+      "onboard_time": 1759194500,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 91029,
@@ -6227,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86525,
+      "num": 86525,
+      "word": "余承东增任由任正非亲自签发文件",
+      "onboard_time": 1759196840,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86477,
       "num": 86477,
       "word": "鹿晗饭撒",
@@ -6337,14 +6633,6 @@
       "onboard_time": 1759116319,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 83528,
-      "num": 83528,
-      "word": "近代以来有约2000万名烈士为国捐躯",
-      "onboard_time": 1759188680,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 82690,
@@ -6609,14 +6897,6 @@
       "onboard_time": 1759014978,
       "rank": 41,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 72009,
-      "num": 72009,
-      "word": "肖战工作室拍的红海",
-      "onboard_time": 1759188799,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71775,
@@ -7259,6 +7539,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 45368,
+      "num": 108506,
+      "word": "小孩高铁吵闹惹众怒",
+      "onboard_time": 1759196781,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44693,
       "num": 438087,
       "word": "于适眼里太有活了",
@@ -7305,6 +7593,14 @@
       "onboard_time": 1759079897,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42766,
+      "num": 109267,
+      "word": "火箭媒体日",
+      "onboard_time": 1759196360,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 42681,
@@ -7361,14 +7657,6 @@
       "onboard_time": 1759043900,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40146,
-      "num": 38275,
-      "word": "他们用生命换来了山河无恙",
-      "onboard_time": 1759164258,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39550,
@@ -7825,6 +8113,14 @@
       "onboard_time": 1758998295,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20438,
+      "num": 531945,
+      "word": "我把美丽中国唱给你听",
+      "onboard_time": 1759196181,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20294,

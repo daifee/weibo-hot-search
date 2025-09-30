@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 07:36:45
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 09:47:59
 </p>
 </blockquote>
 <p>
@@ -1649,6 +1649,12 @@ iOS26 丑（热度：1601159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%89%E6%B1%89%E8%82%BF%E4%B9%88%E4%BA%86%23" target="weibo">
 许光汉肿么了（热度：1563618）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E9%81%93%E6%AD%89%23" target="weibo">
+苏醒道歉（热度：1560118）
 </a>
 </li>
 
@@ -3825,6 +3831,12 @@ iPhone17补贴后售价4999元（热度：997136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%E7%9D%A1%E8%A7%89%23" target="weibo">
+黄磊戴呼吸机睡觉（热度：970439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Dior%E8%AE%A4%E9%A2%86%23" target="weibo">
 Dior认领（热度：968275）
 </a>
@@ -3899,6 +3911,12 @@ iG醒醒（热度：964601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23" target="weibo">
 北大副校长任羽中主动投案（热度：958589）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94%23" target="weibo">
+埃及官方通报中国女孩失联（热度：957513）
 </a>
 </li>
 
@@ -4253,6 +4271,12 @@ AirPods Pro3（热度：944535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E5%90%88%E5%BD%B1%23" target="weibo">
 特朗普发布与普京的合影（热度：906599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%946%E5%A4%A9%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E5%9B%A0%E6%B6%89%E5%AB%8C%E5%8F%82%E4%B8%8E%E7%94%B5%E8%AF%88%E8%A2%AB%E6%8D%95%23" target="weibo">
+失联6天中国女孩因涉嫌参与电诈被捕（热度：905012）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ BLG对战TES（热度：746464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%8D%88%E4%BC%91%E5%B1%85%E7%84%B6%E8%BF%9B%E5%8C%96%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
 学生午休居然进化成这样了（热度：744743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E4%B8%93%E5%AE%B6%E6%AD%A3%E6%B8%85%E7%90%86%E7%83%9F%E8%8A%B1%E7%A7%80%E7%8E%B0%E5%9C%BA%E7%B4%AB%E9%93%9C%E7%AD%89%E7%89%A9%23" target="weibo">
-环保专家正清理烟花秀现场紫铜等物（热度：744319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23731%E7%94%B5%E5%BD%B1%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E%23" target="weibo">
-731电影郑重声明（热度：743875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E8%A2%AB%E9%94%81%E6%88%BF%E9%97%B4%E9%87%8C%E4%BA%86%23" target="weibo">
-毛晓彤被锁房间里了（热度：742542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%91%E6%9E%B6%E8%BF%91%E5%8D%83%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B5%B4%E6%97%A5%E5%81%9A%E8%8B%A6%E5%BD%B9%23" target="weibo">
-日本绑架近千名中国人赴日做苦役（热度：742508）
 </a>
 </li>
 
