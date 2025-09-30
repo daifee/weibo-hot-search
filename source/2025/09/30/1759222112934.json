@@ -1,0 +1,410 @@
+{
+  "runTime": 1759222112934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427752,
+        "num": 1427752,
+        "word": "华南理工大学通报",
+        "onboard_time": 1759217121,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 673833,
+        "num": 673833,
+        "word": "鸡排哥整治黄牛",
+        "onboard_time": 1759217360,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6793,
+        "num": 672228,
+        "word": "他们用生命换来了山河无恙",
+        "onboard_time": 1759164258,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 670848,
+        "num": 670848,
+        "word": "韩国人能不能别放假了",
+        "onboard_time": 1759213460,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 459439,
+        "num": 459439,
+        "word": "得力CEO道歉",
+        "onboard_time": 1759212801,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392765,
+        "num": 392765,
+        "word": "K签证会让外国人抢走我们的饭碗吗",
+        "onboard_time": 1759219880,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 321264,
+        "num": 321264,
+        "word": "鸡排家族10月1日出10个摊位",
+        "onboard_time": 1759219223,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294925,
+        "num": 294925,
+        "word": "两名俄士兵在坦克残骸下生存60天",
+        "onboard_time": 1759219223,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237238,
+        "num": 237238,
+        "word": "网友称因跛脚在入职当天被得力辞退",
+        "onboard_time": 1759208301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225673,
+        "num": 225673,
+        "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
+        "onboard_time": 1759212320,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1216130,
+        "num": 225642,
+        "word": "刘美含食物中毒坐轮椅",
+        "onboard_time": 1759217541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 943572,
+        "num": 225547,
+        "word": "张维伊没有亲小酒窝",
+        "onboard_time": 1759217901,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611915,
+        "num": 225462,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442498,
+        "num": 225438,
+        "word": "张檬让父母消毒后抱孩子",
+        "onboard_time": 1759220720,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29873,
+        "num": 225290,
+        "word": "在郑州被文化自信燃到了",
+        "onboard_time": 1759219339,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340103,
+        "num": 225224,
+        "word": "娜扎答应了我的求婚",
+        "onboard_time": 1759208000,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277646,
+        "num": 225189,
+        "word": "野火月亮 白鹿",
+        "onboard_time": 1759217360,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267400,
+        "num": 225061,
+        "word": "李晨 短剧狗不演我演",
+        "onboard_time": 1759208120,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266869,
+        "num": 225056,
+        "word": "第一批外国女婿已经开始回农村了",
+        "onboard_time": 1759214000,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63206,
+        "num": 224982,
+        "word": "胡兵瞿颖教周也走秀",
+        "onboard_time": 1759220001,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 298009,
+        "num": 224868,
+        "word": "K签增设近两月为何突然引发关注",
+        "onboard_time": 1759211961,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229293,
+        "num": 224820,
+        "word": "纤维粒 夏思齐我出来了",
+        "onboard_time": 1759207699,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 224754,
+        "num": 224754,
+        "word": "肖战谍报上不封顶杀青",
+        "onboard_time": 1759211900,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160710,
+        "num": 160710,
+        "word": "辛芷蕾回应庆余年3",
+        "onboard_time": 1759213460,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147791,
+        "num": 147791,
+        "word": "如何把水硕水博堵在K签门外",
+        "onboard_time": 1759220601,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144652,
+        "num": 144652,
+        "word": "刘轩丞巴黎出发造型",
+        "onboard_time": 1759220900,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136262,
+        "num": 136262,
+        "word": "青岛保时捷女销售9月再夺销冠",
+        "onboard_time": 1759204521,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128934,
+        "num": 128934,
+        "word": "孙颖莎发球被裁判提醒",
+        "onboard_time": 1759213160,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127216,
+        "num": 127216,
+        "word": "原神月之一版本",
+        "onboard_time": 1759220960,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126897,
+        "num": 126897,
+        "word": "李现回国梦回韩商言",
+        "onboard_time": 1759220421,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116811,
+        "num": 116811,
+        "word": "中国造出会消失的心脏支架",
+        "onboard_time": 1759221981,
+        "rank": 30,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 114157,
+        "num": 114157,
+        "word": "准新娘称金价再涨三金手镯变耳环",
+        "onboard_time": 1759202120,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111100,
+        "num": 111100,
+        "word": "邪修的风还是吹到了旅游圈",
+        "onboard_time": 1759219821,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108279,
+        "num": 108279,
+        "word": "杜华董璇为好友庆生",
+        "onboard_time": 1759218801,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102127,
+        "num": 102127,
+        "word": "减肥一个月成功减掉了30天",
+        "onboard_time": 1759220120,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98350,
+        "num": 98350,
+        "word": "第一次见全是单间的卧铺动车",
+        "onboard_time": 1759220900,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96845,
+        "num": 96845,
+        "word": "王一博空气吉他正确弹法",
+        "onboard_time": 1759214300,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95410,
+        "num": 95410,
+        "word": "国庆宝宝我们来接你上车喽",
+        "onboard_time": 1759221560,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74635,
+        "num": 95026,
+        "word": "孙颖莎采访不忘关心记者",
+        "onboard_time": 1759221620,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94851,
+        "num": 94851,
+        "word": "沈佳润 大大方方",
+        "onboard_time": 1759214120,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94763,
+        "num": 94763,
+        "word": "买这个菜板的人肯定不烧饭",
+        "onboard_time": 1759217061,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93665,
+        "num": 93665,
+        "word": "孟子义李昀锐从早亲到晚",
+        "onboard_time": 1759201339,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90549,
+        "num": 92886,
+        "word": "卢伟冰回应小米17pro背屏做痛机",
+        "onboard_time": 1759221981,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92251,
+        "num": 92251,
+        "word": "李在明没给尹锡悦送中秋礼物",
+        "onboard_time": 1759221740,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91519,
+        "num": 91519,
+        "word": "花花干饭被4只孔雀围观",
+        "onboard_time": 1759219041,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12828,
+        "num": 90653,
+        "word": "烈士纪念日号角吹响",
+        "onboard_time": 1759199419,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90009,
+        "num": 90009,
+        "word": "小沈阳叫沈佳润美美孩孩宝",
+        "onboard_time": 1759206381,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89906,
+        "num": 89906,
+        "word": "短国小半壁江山都在这剧",
+        "onboard_time": 1759220299,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85628,
+        "num": 85628,
+        "word": "摊主提前3小时占位置挨着鸡排哥",
+        "onboard_time": 1759220421,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85036,
+        "num": 85036,
+        "word": "1部剧集齐8个疯批",
+        "onboard_time": 1759219520,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平深情瞻仰人民英雄纪念碑#"
+    }
+  }
+}
