@@ -1,0 +1,410 @@
+{
+  "runTime": 1759239998844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 841300,
+        "num": 1134608,
+        "word": "堵车",
+        "onboard_time": 1759226240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566750,
+        "num": 566750,
+        "word": "女子提前出发睡服务区省1400元",
+        "onboard_time": 1759231461,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53354,
+        "num": 373137,
+        "word": "国庆中秋假期安全提示",
+        "onboard_time": 1759238962,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 669649,
+        "num": 368681,
+        "word": "被骗100万女孩要去英国找婆婆后续",
+        "onboard_time": 1759235422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362351,
+        "num": 362351,
+        "word": "乌鲁木齐地震",
+        "onboard_time": 1759233021,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 361560,
+        "num": 361560,
+        "word": "中方关于联大第2758号决议的立场文件",
+        "onboard_time": 1759234882,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306465,
+        "num": 306465,
+        "word": "台湾是中国领土一部分",
+        "onboard_time": 1759235480,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299750,
+        "num": 299750,
+        "word": "得力集团发致歉声明",
+        "onboard_time": 1759225941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250534,
+        "num": 250534,
+        "word": "王楚钦被判发球遮挡",
+        "onboard_time": 1759231642,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222172,
+        "num": 222172,
+        "word": "12306回应卧铺动车全是单间",
+        "onboard_time": 1759223300,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1448011,
+        "num": 221621,
+        "word": "乐远cp选择不成为情侣",
+        "onboard_time": 1759230981,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 877188,
+        "num": 221201,
+        "word": "文咏珊官宣当妈",
+        "onboard_time": 1759225341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 858356,
+        "num": 219959,
+        "word": "王菊怎么瘦成这样了",
+        "onboard_time": 1759233380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602528,
+        "num": 218754,
+        "word": "辛柏青复工",
+        "onboard_time": 1759237882,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568622,
+        "num": 217576,
+        "word": "户晨风全网销号",
+        "onboard_time": 1759236383,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 556769,
+        "num": 217318,
+        "word": "黄灿灿说不会结婚了",
+        "onboard_time": 1759230442,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533767,
+        "num": 216430,
+        "word": "妻子查看亡夫遗物发现婚外情录音",
+        "onboard_time": 1759233860,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440405,
+        "num": 215458,
+        "word": "巴黎偶遇迪丽热巴邓为",
+        "onboard_time": 1759231642,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31848,
+        "num": 214569,
+        "word": "人机共驾更安心",
+        "onboard_time": 1759235782,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 398927,
+        "num": 212933,
+        "word": "心动8如益CP官宣",
+        "onboard_time": 1759232424,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272549,
+        "num": 211949,
+        "word": "心动的信号",
+        "onboard_time": 1759231101,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263300,
+        "num": 210999,
+        "word": "刘美含食物中毒坐轮椅",
+        "onboard_time": 1759217541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259081,
+        "num": 210200,
+        "word": "王楚钦鹰眼挑战失败",
+        "onboard_time": 1759230622,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252036,
+        "num": 209443,
+        "word": "赴山海豆瓣开分5.9分",
+        "onboard_time": 1759236802,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209105,
+        "num": 209105,
+        "word": "孙涵清刘子晗烟花下拥吻",
+        "onboard_time": 1759232782,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196191,
+        "num": 196191,
+        "word": "王力宏鹿晗 演唱会循环",
+        "onboard_time": 1759239262,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184906,
+        "num": 184906,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1759223961,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175370,
+        "num": 175370,
+        "word": "第一批堵车人堵成鸳鸯锅",
+        "onboard_time": 1759236021,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167922,
+        "num": 167922,
+        "word": "LV春夏26女装秀",
+        "onboard_time": 1759238601,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 159309,
+        "num": 159309,
+        "word": "谁给Ella找来这么多黑礼服",
+        "onboard_time": 1759239322,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158152,
+        "num": 158152,
+        "word": "雷佳音13岁女儿身高",
+        "onboard_time": 1759227799,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155971,
+        "num": 155971,
+        "word": "欧阳娜娜LV看秀造型",
+        "onboard_time": 1759237701,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155579,
+        "num": 155579,
+        "word": "肖战后面的豌豆射手是谁呀",
+        "onboard_time": 1759234882,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154899,
+        "num": 154899,
+        "word": "孙颖莎递话筒给王楚钦",
+        "onboard_time": 1759233741,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146645,
+        "num": 146645,
+        "word": "绍兴地铁事故后60岁以上保洁员被辞",
+        "onboard_time": 1759238601,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141450,
+        "num": 141450,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128226,
+        "num": 128226,
+        "word": "孙颖莎王楚钦拿错毛巾",
+        "onboard_time": 1759237221,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122653,
+        "num": 122653,
+        "word": "林诗栋3比1户上隼辅",
+        "onboard_time": 1759239322,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55141,
+        "num": 122464,
+        "word": "杨力维行走的尖叫制造机",
+        "onboard_time": 1759237821,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17834,
+        "num": 122348,
+        "word": "多名网友称公司发半块月饼当福利",
+        "onboard_time": 1759239621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122334,
+        "num": 122334,
+        "word": "加拿大拒签八成印度学生",
+        "onboard_time": 1759233981,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104707,
+        "num": 104707,
+        "word": "张维伊没有亲小酒窝",
+        "onboard_time": 1759217901,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103241,
+        "num": 103241,
+        "word": "NBA",
+        "onboard_time": 1759238122,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93442,
+        "num": 93442,
+        "word": "刘涛 什么衣服这么难看",
+        "onboard_time": 1759227079,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92498,
+        "num": 92498,
+        "word": "我只看见了一个努力拍照的中年人",
+        "onboard_time": 1759239442,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90823,
+        "num": 90823,
+        "word": "莫雷加德因回抛被罚分",
+        "onboard_time": 1759239442,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91103,
+        "num": 89580,
+        "word": "小酒窝朵朵 娃娃亲",
+        "onboard_time": 1759229961,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87862,
+        "num": 87862,
+        "word": "6岁男孩养兔子染真菌永久秃发",
+        "onboard_time": 1759231941,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85004,
+        "num": 85004,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1759228940,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81054,
+        "num": 81054,
+        "word": "王楚钦回应挑战鹰眼",
+        "onboard_time": 1759237282,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国各族人民致以节日祝贺#"
+    }
+  }
+}
