@@ -1,0 +1,410 @@
+{
+  "runTime": 1759214265235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 712381,
+        "num": 1113981,
+        "word": "西贝厨师说生鸡内脏被下水道冲走了",
+        "onboard_time": 1759210040,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707480,
+        "num": 707480,
+        "word": "得力集团辞退跛脚员工",
+        "onboard_time": 1759206499,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20920,
+        "num": 384824,
+        "word": "盛世中国如你所愿",
+        "onboard_time": 1759163180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366144,
+        "num": 366144,
+        "word": "K签增设近两月为何突然引发关注",
+        "onboard_time": 1759211961,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350757,
+        "num": 350757,
+        "word": "得力CEO道歉",
+        "onboard_time": 1759212801,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282630,
+        "num": 282630,
+        "word": "国庆提前出发的大聪明已堵路上",
+        "onboard_time": 1759207582,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277821,
+        "num": 277821,
+        "word": "网友称因跛脚在入职当天被得力辞退",
+        "onboard_time": 1759208301,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274333,
+        "num": 274333,
+        "word": "青岛保时捷女销售9月再夺销冠",
+        "onboard_time": 1759204521,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229080,
+        "num": 229080,
+        "word": "涉电诈中国女孩曾让闺蜜去埃及陪她",
+        "onboard_time": 1759204822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211336,
+        "num": 211336,
+        "word": "泡泡玛特新品16倍溢价黄牛犯了愁",
+        "onboard_time": 1759211600,
+        "rank": 9,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 745373,
+        "num": 211031,
+        "word": "李晨 短剧狗不演我演",
+        "onboard_time": 1759208120,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716949,
+        "num": 208895,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661018,
+        "num": 208173,
+        "word": "小沈阳叫沈佳润美美孩孩宝",
+        "onboard_time": 1759206381,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 632570,
+        "num": 206011,
+        "word": "第一批外国女婿已经开始回农村了",
+        "onboard_time": 1759214000,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 512387,
+        "num": 204731,
+        "word": "娜扎答应了我的求婚",
+        "onboard_time": 1759208000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434163,
+        "num": 202579,
+        "word": "肖战谍报上不封顶杀青",
+        "onboard_time": 1759211900,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372783,
+        "num": 201819,
+        "word": "韩国人能不能别放假了",
+        "onboard_time": 1759213460,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266061,
+        "num": 200519,
+        "word": "佟丽娅问小酒窝朵朵般配不",
+        "onboard_time": 1759203740,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239252,
+        "num": 199328,
+        "word": "孟子义李昀锐从早亲到晚",
+        "onboard_time": 1759201339,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233832,
+        "num": 197855,
+        "word": "董璇妥协",
+        "onboard_time": 1759199538,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423870,
+        "num": 195826,
+        "word": "纤维粒 夏思齐我出来了",
+        "onboard_time": 1759207699,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221317,
+        "num": 194500,
+        "word": "失联6天中国女孩因涉嫌参与电诈被捕",
+        "onboard_time": 1759193121,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193492,
+        "num": 193492,
+        "word": "准新娘称金价再涨三金手镯变耳环",
+        "onboard_time": 1759202120,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180380,
+        "num": 180380,
+        "word": "孙颖莎发球被裁判提醒",
+        "onboard_time": 1759213160,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158517,
+        "num": 158517,
+        "word": "辛芷蕾回应庆余年3",
+        "onboard_time": 1759213460,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145445,
+        "num": 145445,
+        "word": "深圳东站回应女子检票口大闹",
+        "onboard_time": 1759213521,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148599,
+        "num": 145305,
+        "word": "千万要少吃外面的烤鱼",
+        "onboard_time": 1759194740,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143067,
+        "num": 143067,
+        "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
+        "onboard_time": 1759212320,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134406,
+        "num": 134406,
+        "word": "日本引进5万印度人才引发抗议",
+        "onboard_time": 1759202239,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92335,
+        "num": 133867,
+        "word": "替烈士看看今天的中国",
+        "onboard_time": 1759206680,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133593,
+        "num": 133593,
+        "word": "中国K字签证要守三关",
+        "onboard_time": 1759187118,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133202,
+        "num": 133202,
+        "word": "终于知道她为什么叫靓靓了",
+        "onboard_time": 1759205540,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131746,
+        "num": 131746,
+        "word": "柯爱林下车",
+        "onboard_time": 1759210401,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129425,
+        "num": 129425,
+        "word": "徐冬冬 气血足到头顶",
+        "onboard_time": 1759210939,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128407,
+        "num": 128407,
+        "word": "4600亿大牛股遭套现近23亿",
+        "onboard_time": 1759213941,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48226,
+        "num": 128164,
+        "word": "丁程鑫被自己的口误吓死了",
+        "onboard_time": 1759212981,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128008,
+        "num": 128008,
+        "word": "减肥成功后的副作用出现了",
+        "onboard_time": 1759213340,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120361,
+        "num": 120361,
+        "word": "一代人有一代人的东西要攒",
+        "onboard_time": 1759213700,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69316,
+        "num": 119763,
+        "word": "埃及失联女孩闺蜜无心插柳救自己",
+        "onboard_time": 1759213820,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69266,
+        "num": 119055,
+        "word": "张晚意情绪满分技术零分",
+        "onboard_time": 1759213881,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17983,
+        "num": 118559,
+        "word": "即将迎来Jonathan的Dior女装首秀",
+        "onboard_time": 1759208661,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115464,
+        "num": 117203,
+        "word": "北京一卡通 梦图记",
+        "onboard_time": 1759213280,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116877,
+        "num": 116877,
+        "word": "泡泡玛特盲盒飙到1499元遭疯抢",
+        "onboard_time": 1759195040,
+        "rank": 42,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 112999,
+        "num": 112999,
+        "word": "鸡排哥爆火后有人冒充鸡排嫂",
+        "onboard_time": 1759212681,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94087,
+        "num": 112605,
+        "word": "十一放假前的状态belike",
+        "onboard_time": 1759211720,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112602,
+        "num": 112602,
+        "word": "王一博拿到了国际D照",
+        "onboard_time": 1759207942,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 112047,
+        "num": 112047,
+        "word": "侯明昊问代拍赚多少钱一个月",
+        "onboard_time": 1759208781,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111882,
+        "num": 111882,
+        "word": "沈佳润 大大方方",
+        "onboard_time": 1759214120,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111413,
+        "num": 111413,
+        "word": "黄磊各种药不离身",
+        "onboard_time": 1759211481,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107769,
+        "num": 107769,
+        "word": "Dior大秀邀请函是一盘坚果",
+        "onboard_time": 1759213941,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}
